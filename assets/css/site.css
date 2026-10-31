@@ -235,3 +235,13 @@ footer a:hover{color:#ffb79e}
 .kutu-yan h4{margin:0 0 12px;color:var(--lacivert);border-left:4px solid var(--turuncu);padding-left:10px}
 .yorumlar{margin-top:26px}
 @media (max-width:640px){.yazar-profil{flex-direction:column;align-items:center;text-align:center}}
+
+/* Üst reklam alanı */
+.ust-reklam{flex:1;display:flex;justify-content:center;min-width:0}
+.ust-reklam img{height:110px;width:auto;max-width:100%;object-fit:contain;border-radius:8px}
+@media (max-width:1100px){.ust-reklam img{height:90px}}
+@media (max-width:860px){
+  .baslik .kap{flex-wrap:wrap}
+  .ust-reklam{order:3;flex-basis:100%}
+  .ust-reklam img{height:auto;width:100%}
+}
