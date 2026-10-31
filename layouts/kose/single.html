@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ $y := site.GetPage (printf "/yazarlar/%s" .Params.yazar) }}
+<div class="izgara">
+  <article class="haber">
+    <div class="yol"><a href="{{ "/" | relURL }}">Ana Sayfa</a> › <a href="{{ "kose/" | relURL }}">Köşe Yazıları</a></div>
+    {{ with $y }}<a class="yazar-ust" href="{{ .RelPermalink }}">{{ partial "yazar-foto.html" . }}<span><b>{{ .Title }}</b>{{ with .Params.unvan }}<br><small>{{ . }}</small>{{ end }}</span></a>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.ozet }}<p class="spot">{{ . }}</p>{{ end }}
+    <div class="meta"><span>Yayın: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span></div>
+    {{ partial "paylas.html" . }}
+    <div class="icerik">{{ .Content }}</div>
+    {{ partial "paylas.html" . }}
+    {{ partial "yorumlar.html" . }}
+  </article>
+  <div>
+    {{ with $y }}{{ $ad := .File.ContentBaseName }}
+    {{ $diger := where (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad) "RelPermalink" "!=" $.RelPermalink }}
+    {{ with first 5 $diger.ByDate.Reverse }}
+    <div class="kutu kutu-yan"><h4>Yazarın Diğer Yazıları</h4><ol class="numarali">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ol></div>
+    {{ end }}{{ end }}
+    {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
+  </div>
+</div>
+{{ end }}

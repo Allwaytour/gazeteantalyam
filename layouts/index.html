@@ -43,6 +43,7 @@
     {{ $gosterilen := $slayt | append $yan }}
     {{ $linkler := slice }}{{ range $gosterilen }}{{ $linkler = $linkler | append .link }}{{ end }}
     {{ $kalan := where $hepsi "link" "not in" $linkler }}
+    {{ partial "yazarlar-serit.html" . }}
     <section class="bolum">
       <div class="bolum-bas"><h2>Son Haberler</h2></div>
       {{ with first 9 $kalan }}<div class="kartlar">{{ range . }}{{ partial "kart.html" . }}{{ end }}</div>

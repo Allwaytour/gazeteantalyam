@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="sayfa-bas"><h1>Yazarlar</h1><p>Gazete Antalya köşe yazarları</p></div>
+{{ with .RegularPages }}
+<div class="yazar-izgara">
+  {{ range . }}
+    {{ $ad := .File.ContentBaseName }}
+    {{ $yazilar := (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad).ByDate.Reverse }}
+    <a class="yazar-kutu" href="{{ .RelPermalink }}">
+      {{ partial "yazar-foto.html" . }}
+      <b>{{ .Title }}</b>
+      {{ with .Params.unvan }}<span class="meta">{{ . }}</span>{{ end }}
+      {{ with index $yazilar 0 }}<span class="yazar-baslik">“{{ .Title }}”</span>{{ end }}
+    </a>
+  {{ end }}
+</div>
+{{ else }}<div class="bos">Köşe yazarlarımız çok yakında burada.</div>{{ end }}
+{{ end }}

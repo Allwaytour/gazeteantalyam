@@ -16,6 +16,7 @@ summaryLength = 30
 
 [permalinks]
   haber = "/haber/:filename/"
+  kose = "/kose/:filename/"
 
 [params]
   slogan = "Antalya'nın haber merkezi"

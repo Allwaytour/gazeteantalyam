@@ -26,6 +26,9 @@
 </div></header>
 <nav class="menu" aria-label="Kategoriler"><div class="kap"><ul>
   <li><a href="{{ "/" | relURL }}" {{ if .IsHome }}class="aktif"{{ end }}>Ana Sayfa</a></li>
+{{ if where site.RegularPages "Section" "yazarlar" }}
+  <li><a href="{{ "yazarlar/" | relURL }}" {{ if or (eq .Section "kose") (eq .Section "yazarlar") }}class="aktif"{{ end }}>Yazarlar</a></li>
+  {{ end }}
   {{ $simdiki := .RelPermalink }}
   {{ range site.Data.site.kategoriler }}{{ $u := partial "terim-url.html" (slice "kategoriler" .) }}
   <li><a href="{{ $u }}" {{ if eq $u $simdiki }}class="aktif"{{ end }}>{{ . }}</a></li>{{ end }}

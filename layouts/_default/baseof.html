@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-{{ $baslik := cond .IsHome (printf "%s | %s" site.Title site.Params.slogan) (printf "%s | %s" .Title site.Title) }}
+{{ $t := .Title }}{{ if eq .Kind "section" }}{{ $t = index (dict "yazarlar" "Yazarlar" "kose" "Köşe Yazıları" "haber" "Tüm Haberler") .Section | default .Title }}{{ end }}
+{{ $baslik := cond .IsHome (printf "%s | %s" site.Title site.Params.slogan) (printf "%s | %s" $t site.Title) }}
 <title>{{ $baslik }}</title>
 {{ $aciklama := site.Params.aciklama }}{{ with .Params.ozet }}{{ $aciklama = . }}{{ end }}
 <meta name="description" content="{{ $aciklama | plainify | truncate 160 }}">

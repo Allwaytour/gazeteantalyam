@@ -1,0 +1,17 @@
+{{ $yazarlar := where site.RegularPages "Section" "yazarlar" }}
+{{ with $yazarlar }}
+<section class="bolum">
+  <div class="bolum-bas"><h2>Yazarlar</h2><a href="{{ "yazarlar/" | relURL }}">Tüm yazarlar →</a></div>
+  <div class="yazar-serit">
+    {{ range . }}
+      {{ $ad := .File.ContentBaseName }}
+      {{ $son := index (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad).ByDate.Reverse 0 }}
+      <a class="yazar-kart" href="{{ with $son }}{{ .RelPermalink }}{{ else }}{{ $.RelPermalink }}{{ end }}">
+        {{ partial "yazar-foto.html" . }}
+        <span class="yazar-ad">{{ .Title }}</span>
+        {{ with $son }}<span class="yazar-baslik">{{ .Title }}</span>{{ else }}{{ with .Params.unvan }}<span class="yazar-baslik">{{ . }}</span>{{ end }}{{ end }}
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

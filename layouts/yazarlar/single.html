@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ $ad := .File.ContentBaseName }}
+{{ $yazilar := (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad).ByDate.Reverse }}
+<div class="izgara">
+  <div>
+    <div class="yazar-profil">
+      {{ partial "yazar-foto.html" . }}
+      <div><h1>{{ .Title }}</h1>{{ with .Params.unvan }}<p class="meta">{{ . }}</p>{{ end }}<div class="icerik">{{ .Content }}</div></div>
+    </div>
+    <div class="bolum-bas"><h2>Yazıları</h2></div>
+    {{ with $yazilar }}
+    <div class="liste">{{ range . }}
+      <article class="liste-oge"><div><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ with .Params.ozet }}<p>{{ . }}</p>{{ end }}
+      <div class="meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006" }}</time></div></div></article>
+    {{ end }}</div>
+    {{ else }}<div class="bos">Henüz yazı yok.</div>{{ end }}
+  </div>
+  {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
+</div>
+{{ end }}

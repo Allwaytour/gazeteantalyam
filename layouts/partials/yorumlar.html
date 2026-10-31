@@ -1,0 +1,10 @@
+{{/* Okur yorumları (Cusdis). Panel > Ayarlar > Site Bilgileri'nden uygulama kimliği girilince görünür. */}}
+{{ with site.Data.site.cusdis_app_id }}
+<section class="yorumlar" id="yorumlar">
+  <div class="bolum-bas"><h2>Yorumlar</h2></div>
+  <p class="meta">Yorumlar editör onayından sonra yayımlanır. Hakaret, küfür ve suç unsuru içeren yorumlar yayımlanmaz.</p>
+  <div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="{{ . }}" data-page-id="{{ $.File.UniqueID }}" data-page-url="{{ $.Permalink }}" data-page-title="{{ $.Title }}" data-theme="light" data-lang="tr"></div>
+  <script>window.CUSDIS_LOCALE={powered_by:"Yorum sistemi: Cusdis",post_comment:"Yorum gönder",loading:"Yükleniyor…",email:"E-posta (isteğe bağlı)",nickname:"Adınız",reply_placeholder:"Yorumunuz…",reply_btn:"Yanıtla",sending:"Gönderiliyor…",mod_badge:"Editör",content_is_required:"Yorum boş olamaz",nickname_is_required:"Adınızı yazın",comment_has_been_sent:"Yorumunuz alındı, editör onayından sonra yayımlanacak."};</script>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</section>
+{{ end }}

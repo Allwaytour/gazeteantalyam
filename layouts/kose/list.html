@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="izgara">
+  <div>
+    <div class="sayfa-bas"><h1>Köşe Yazıları</h1></div>
+    {{ with .RegularPages.ByDate.Reverse }}
+    <div class="liste" data-sayfala="15">{{ range . }}{{ $y := site.GetPage (printf "/yazarlar/%s" .Params.yazar) }}
+      <article class="liste-oge">{{ with $y }}<a href="{{ .RelPermalink }}">{{ partial "yazar-foto.html" . }}</a>{{ end }}
+      <div>{{ with $y }}<span class="kaynak">{{ .Title }}</span>{{ end }}<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ with .Params.ozet }}<p>{{ . }}</p>{{ end }}
+      <div class="meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006" }}</time></div></div></article>
+    {{ end }}</div>
+    <button class="daha" type="button" data-daha hidden>Daha fazla yazı yükle</button>
+    {{ else }}<div class="bos">Köşe yazıları çok yakında burada.</div>{{ end }}
+  </div>
+  {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
+</div>
+{{ end }}

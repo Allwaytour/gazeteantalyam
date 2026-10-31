@@ -16,6 +16,7 @@
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
     {{ partial "paylas.html" . }}
+    {{ partial "yorumlar.html" . }}
   </article>
   {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
   {{ $ilgili := where (where $hepsi "kategori" $kat) "link" "!=" .RelPermalink }}

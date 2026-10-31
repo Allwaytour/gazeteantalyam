@@ -1,0 +1,3 @@
+{{/* Parametre: yazar sayfası */}}
+{{ with .Params.foto }}<img class="yazar-foto" src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+{{ else }}<span class="yazar-foto bas-harf" aria-hidden="true">{{ range first 2 (split .Title " ") }}{{ substr . 0 1 }}{{ end }}</span>{{ end }}

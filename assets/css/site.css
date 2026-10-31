@@ -214,3 +214,24 @@ footer a:hover{color:#ffb79e}
 .kaynak-btn{background:var(--turuncu);color:#fff}
 .kaynak-btn:hover{background:var(--turuncu-koyu);color:#fff}
 @media (max-width:640px){.piyasa span:nth-child(3){display:none}}
+
+/* Yazarlar ve köşe yazıları */
+.yazar-foto{width:64px;height:64px;border-radius:50%;object-fit:cover;flex:none;border:3px solid #fff;box-shadow:0 0 0 2px var(--turuncu)}
+.bas-harf{display:inline-flex;align-items:center;justify-content:center;background:var(--lacivert);color:#fff;font-weight:800;font-size:20px;letter-spacing:.02em}
+.yazar-serit{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(170px,1fr);gap:12px;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}
+.yazar-kart{background:var(--beyaz);border-radius:var(--r);box-shadow:var(--golge);padding:16px 12px;display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px}
+.yazar-ad{font-weight:800;color:var(--lacivert-koyu);font-size:15px}
+.yazar-baslik{font-size:13px;color:var(--soluk);line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.yazar-izgara{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.yazar-kutu{background:var(--beyaz);border-radius:var(--r);box-shadow:var(--golge);padding:22px 16px;display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px}
+.yazar-kutu .yazar-foto{width:96px;height:96px}
+.yazar-profil{background:var(--beyaz);border-radius:var(--r);box-shadow:var(--golge);padding:22px;display:flex;gap:20px;align-items:flex-start;margin-bottom:24px}
+.yazar-profil .yazar-foto{width:120px;height:120px;font-size:34px}
+.yazar-profil h1{margin:0;color:var(--lacivert-koyu)}
+.yazar-ust{display:inline-flex;align-items:center;gap:12px;margin:4px 0 6px}
+.yazar-ust small{color:var(--soluk)}
+.liste-oge > a > .yazar-foto{width:72px;height:72px}
+.kutu-yan{background:#fff;border-radius:10px;padding:16px;margin-bottom:20px;box-shadow:var(--golge)}
+.kutu-yan h4{margin:0 0 12px;color:var(--lacivert);border-left:4px solid var(--turuncu);padding-left:10px}
+.yorumlar{margin-top:26px}
+@media (max-width:640px){.yazar-profil{flex-direction:column;align-items:center;text-align:center}}

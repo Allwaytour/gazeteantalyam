@@ -63,6 +63,37 @@ collections:
       - { label: Otomatik eklendi, name: otomatik, widget: boolean, required: false, default: false, hint: "Otomatik haberler 30 gün sonra silinir. Kalıcı olmasını istiyorsanız kapatın." }
       - { label: Yapay zekâ ile yazıldı, name: yz, widget: boolean, required: false, default: false }
 
+  - name: kose
+    label: Köşe Yazıları
+    label_singular: Köşe Yazısı
+    description: Yazarlarınızın köşe yazıları. Önce "Yazarlar" bölümünden yazarı ekleyin.
+    folder: content/kose
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{title}} — {{yazar}} — {{date | date('DD.MM.YYYY')}}"
+    sortable_fields: [date, title]
+    fields:
+      - { label: Başlık, name: title, widget: string }
+      - { label: Yazar, name: yazar, widget: relation, collection: yazarlar, value_field: "{{slug}}", search_fields: [title], display_fields: [title] }
+      - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: Kısa özet, name: ozet, widget: text, required: false }
+      - { label: Yazı, name: body, widget: markdown }
+
+  - name: yazarlar
+    label: Yazarlar
+    label_singular: Yazar
+    folder: content/yazarlar
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - { label: Ad Soyad, name: title, widget: string }
+      - { label: Fotoğraf, name: foto, widget: image, required: false, hint: "Kare, yüzün ortada olduğu bir fotoğraf (ör. 400x400)." }
+      - { label: Unvan, name: unvan, widget: string, required: false, hint: "Örn: Gazeteci, Ekonomist" }
+      - { label: Kısa özgeçmiş, name: body, widget: markdown, required: false }
+
   - name: sayfalar
     label: Sayfalar
     files:
@@ -82,6 +113,7 @@ collections:
           - { label: Instagram adresi, name: instagram, widget: string, required: false }
           - { label: X (Twitter) adresi, name: x, widget: string, required: false }
           - { label: Facebook adresi, name: facebook, widget: string, required: false }
+          - { label: Cusdis uygulama kimliği (okur yorumları), name: cusdis_app_id, widget: string, required: false, hint: "cusdis.com'da sitenizi ekleyince verilen App ID. Boşsa yorum kısmı görünmez." }
           - { label: Kategoriler, name: kategoriler, widget: list, hint: "Yeni kategori eklerseniz haber formundaki listeye de eklenmesi gerekir." }
           - { label: İlçeler, name: ilceler, widget: list }
       - name: kaynaklar
