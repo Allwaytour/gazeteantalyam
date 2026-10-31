@@ -371,7 +371,7 @@ def foto_ara(arsiv, sorgu):
     anahtar_ = ("us:" if UNSPLASH_KEY else "ov:") + sorgu.lower()
     if anahtar_ in arsiv:
         return arsiv[anahtar_]
-    if FOTO_SAYAC["istek"] >= (20 if UNSPLASH_KEY else 4):
+    if FOTO_SAYAC["istek"] >= (12 if UNSPLASH_KEY else 4):
         return []
     FOTO_SAYAC["istek"] += 1
     sonuc = []
