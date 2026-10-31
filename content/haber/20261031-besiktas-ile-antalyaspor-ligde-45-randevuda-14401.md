@@ -2,9 +2,8 @@
 title: Beşiktaş ile Antalyaspor ligde 45. randevuda
 date: '2026-10-31T16:56:00+03:00'
 ozet: Süper Lig'de köklü bir geçmişe sahip olan Beşiktaş ile Antalyaspor, tarihlerindeki 45inci lig karşılaşmasına hazırlanıyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Championship-Soccer-Stadium-SE-Field-View-2024-08-03.jpg/1280px-Championship-Soccer-Stadium-SE-Field-View-2024-08-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Haruhi8 / Wikimedia Commons (CC0)'
-gorsel_v3: true
+gorsel: ''
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -16,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/2697849-besiktas-ile-antalyaspor-45-maca-cikiyor
+gorsel_v4: true
 ---
 İki ekip arasındaki Süper Lig rekabeti, 11 Eylül 1982 tarihinde İstanbul'da gerçekleştirilen ve siyah-beyazlıların 6-0'lık üstünlüğüyle tamamlanan müsabakayla başladı. O günden bu yana oynanan 44 lig maçının 31'ini Beşiktaş kazanırken, 4 müsabakada Antalyaspor galip geldi. Taraflar 9 karşılaşmada ise sahadan beraberlikle ayrıldı. Bu süreçte Beşiktaş 94 kez gol sevinci yaşarken, Akdeniz temsilcisi rakip fileleri 35 kez havalandırdı.
 

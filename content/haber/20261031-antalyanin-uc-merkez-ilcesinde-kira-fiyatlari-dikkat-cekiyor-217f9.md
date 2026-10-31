@@ -1,0 +1,26 @@
+---
+title: Antalya'nın Üç Merkez İlçesinde Kira Fiyatları Dikkat Çekiyor
+date: '2026-10-31T16:01:28+03:00'
+ozet: Antalya'nın merkez ilçelerinde kiralık konut fiyatları arasındaki belirgin farklar bütçeleri zorlarken, en yüksek ortalama Konyaaltı'nda görüldü.
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/1280px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+gorsel_v4: true
+kategoriler:
+- Ekonomi
+ilceler:
+- Konyaaltı
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Antalya Hürses
+kaynak_url: https://www.antalyahurses.com/antalyada-kira-ucurumu-konyaalti-muratpasa-ve-kepezde-kiralar-ne-kadar/560730
+---
+Antalya'da konut kiraları, kent merkezinde yaşamak isteyen vatandaşların bütçesini zorlamaya devam ediyor. Ekim ayının son haftasına ilişkin verilere göre, kentin en yoğun yerleşim bölgelerinden Konyaaltı, Muratpaşa ve Kepez'deki kiralık konut fiyatları arasında önemli farklar bulunuyor. İlanlardaki rakamlar, ev arayan kişilerin tercih ettiği ilçeye göre barınma maliyetlerinde büyük değişikliklerle karşılaştığını ortaya koyuyor.
+
+Ekim 2026 dönemi verilerine göre Konyaaltı, üç merkez ilçe arasında en yüksek kira ortalamasına sahip bölge olarak kaydedildi. İlçede ortalama kiralık konut fiyatı 43 bin TL'ye ulaşırken, metrekare başına ortalama kira 438 TL olarak hesaplandı. Ticaret ve sosyal yaşamın hareketli noktalarından Muratpaşa'da ise ortalama kira 35 bin TL seviyesinde bulunuyor. Bu iki ilçeye kıyasla daha uygun fiyatlı seçenekler sunan Kepez'de ise ortalama kira bedeli 25 bin TL olarak kayıtlara geçti.
+
+İlçelerin kira ortalamaları karşılaştırıldığında Konyaaltı ile Kepez arasındaki aylık fark 18 bin TL'yi buluyor. Bu tutar yıllık bazda hesaplandığında 216 bin TL'lik bir fark ortaya çıkıyor. Konyaaltı ile Muratpaşa arasında aylık 8 bin TL, Muratpaşa ile Kepez arasında ise 10 bin TL'lik fark dikkat çekiyor. Antalya genelinde ise söz konusu hafta itibarıyla toplam kiralık konut ilanı 12 bin 825 olurken, genel ortalama kira 27 bin TL olarak belirlendi.
+
+Paylaşılan rakamların gerçekleşmiş kira sözleşmelerini değil, ilanlarda talep edilen bedelleri kapsadığı belirtiliyor. Ayrıca ilçelerdeki konutların yaşı, büyüklüğü ve sahip olduğu özellikler değişiklik gösterebildiği için ortalama kira farklarının aynı nitelikteki dairelerin doğrudan fiyat kıyaslaması olarak değerlendirilmemesi gerektiği ifade ediliyor.

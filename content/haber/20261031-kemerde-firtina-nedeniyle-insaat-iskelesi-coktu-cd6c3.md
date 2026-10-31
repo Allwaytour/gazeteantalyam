@@ -2,8 +2,8 @@
 title: Kemer'de fırtına nedeniyle inşaat iskelesi çöktü
 date: '2026-10-31T18:58:00+03:00'
 ozet: Kemer'deki bir alışveriş merkezinin restorasyonunda fırtınanın etkisiyle iskele çöktü. Olayda şans eseri yaralanan olmadı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Turkish_Police_Car.jpg/1280px-Turkish_Police_Car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: User:Muhammed Emir Gücer / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: ''
+gorsel_kredi: ''
 kategoriler:
 - Asayiş
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/guncel/haber/2359165-kemerde-insaatta-iskele-coktu
-gorsel_v3: true
+gorsel_v4: true
 ---
 Yeni Mahalle Akdeniz Caddesi üzerinde bulunan bir alışveriş merkezinin restorasyon çalışmaları sırasında dikkat çeken bir olay yaşandı. Binada yürütülen yenileme çalışmaları esnasında kurulan iskele, bölgede etkili olan fırtınanın şiddetine dayanamayarak çöktü.
 

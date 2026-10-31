@@ -2,8 +2,8 @@
 title: Döşemealtı'nda çevre kirliliği ve yangın uyarısı
 date: '2026-10-31T20:04:00+03:00'
 ozet: Yeni Parti Döşemealtı İlçe Başkanı Veli Çot, doğaya bırakılan atıkların oluşturduğu tehlikelere dikkat çekerek vatandaşları duyarlı olmaya çağırdı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Antalya%2C_Turkey_2022_-_TerraCity.jpg/1280px-Antalya%2C_Turkey_2022_-_TerraCity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Antalya_museum_D%C3%B6%C5%9Femealt%C4%B1_carpet%2C_20th_century_4893.jpg/1280px-Antalya_museum_D%C3%B6%C5%9Femealt%C4%B1_carpet%2C_20th_century_4893.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/yeni-partili-baskan-cottan-cevre-kirliligine-karsi-cagri
-gorsel_v3: true
+gorsel_v4: true
 ---
 Yeni Parti Döşemealtı İlçe Başkanı Veli Çot, çevre kirliliğine karşı vatandaşlara yönelik önemli uyarılarda bulundu. Doğaya atılan çöplerin ekosisteme büyük zarar verdiğini belirten Çot, özellikle cam şişelerin yarattığı risklerin altını çizdi.
 
