@@ -6,9 +6,12 @@
 # kategori                -> Boş bırakılırsa haberin kategorisi başlığına göre otomatik bulunur.
 
 ayarlar:
-  gorsel_kullan: false    # true yapılırsa kaynağın kendi görseli gösterilir (telif riski nedeniyle kapalı)
-  en_fazla_haber: 300     # Sitede tutulacak en fazla otomatik haber
-  en_eski_gun: 5          # Bundan eski otomatik haberler silinir
+  yapay_zeka: true          # GitHub'da GEMINI_API_KEY tanımlıysa haberleri yapay zekâ özgün olarak yazar
+  yz_gunluk_limit: 150      # Günde en fazla kaç haber yapay zekâyla yazılsın (ücretsiz kota için)
+  tur_basina_haber: 6       # Her 30 dakikalık turda en fazla kaç yeni haber eklensin
+  kaynak_gorseli: true      # Kaynağın kendi fotoğrafını kullan (yoksa özgür lisanslı arşiv fotoğrafı)
+  en_eski_saat: 24          # Bundan eski kaynak haberleri alınmaz
+  en_eski_gun: 30           # Otomatik haberler bu kadar gün sonra siteden silinir (elle eklenenler silinmez)
 
 kaynaklar:
   - ad: Google Haberler – Antalya

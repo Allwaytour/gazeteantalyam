@@ -27,12 +27,25 @@
   }
   zamanlariYaz(document);
 
-  // Döviz kurları (Avrupa Merkez Bankası verisi, ücretsiz)
+  // Döviz ve altın (ücretsiz açık kaynak kur servisi; yedek: Avrupa Merkez Bankası)
   var sayi = new Intl.NumberFormat("tr-TR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-  fetch("https://api.frankfurter.app/latest?from=TRY&to=USD,EUR,GBP")
+  function kurYaz(oran) { $$("[data-kur]").forEach(function (b) { var x = oran[b.getAttribute("data-kur")]; b.textContent = x ? sayi.format(x) : "–"; }); }
+  fetch("https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/try.json")
     .then(function (r) { return r.json(); })
-    .then(function (v) { $$("[data-kur]").forEach(function (b) { var x = v.rates[b.getAttribute("data-kur")]; if (x) b.textContent = sayi.format(1 / x); }); })
-    .catch(function () { $$("[data-kur]").forEach(function (b) { b.textContent = "–"; }); });
+    .then(function (v) { var t = v["try"]; kurYaz({ USD: 1 / t.usd, EUR: 1 / t.eur, GBP: 1 / t.gbp, ALTIN: t.xau ? 1 / t.xau / 31.1035 : 0 }); })
+    .catch(function () {
+      fetch("https://api.frankfurter.dev/v1/latest?base=TRY&symbols=USD,EUR,GBP").then(function (r) { return r.json(); })
+        .then(function (v) { kurYaz({ USD: 1 / v.rates.USD, EUR: 1 / v.rates.EUR, GBP: 1 / v.rates.GBP }); })
+        .catch(function () { kurYaz({}); });
+    });
+
+  // Yüklenemeyen fotoğrafların yerine marka renkli yer tutucu koy
+  function gorselHata(img) {
+    var d = document.createElement("div"); d.className = "yer"; d.setAttribute("aria-hidden", "true");
+    var fig = img.closest("figure.kapak"); if (fig) { fig.remove(); return; }
+    img.replaceWith(d);
+  }
+  $$("img").forEach(function (img) { if (img.complete && img.naturalWidth === 0 && img.src) gorselHata(img); else img.addEventListener("error", function () { gorselHata(img); }); });
 
   // Hava durumu (Open-Meteo, ücretsiz, anahtar gerekmez)
   var KOD = { 0: ["Açık", "☀️"], 1: ["Az bulutlu", "🌤️"], 2: ["Parçalı bulutlu", "⛅"], 3: ["Bulutlu", "☁️"], 45: ["Sisli", "🌫️"], 48: ["Sisli", "🌫️"],

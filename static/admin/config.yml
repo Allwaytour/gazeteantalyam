@@ -31,6 +31,7 @@ collections:
     summary: "{{title}} — {{date | date('DD.MM.YYYY HH:mm')}}"
     sortable_fields: [date, title]
     view_filters:
+      - { label: Otomatik haberler, field: otomatik, pattern: true }
       - { label: Manşettekiler, field: manset, pattern: true }
       - { label: Son dakika, field: son_dakika, pattern: true }
     fields:
@@ -55,7 +56,12 @@ collections:
       - { label: Manşete al, name: manset, widget: boolean, default: false, hint: "Ana sayfadaki büyük slayta eklenir." }
       - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
       - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
-      - { label: Haber metni, name: body, widget: markdown }
+      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Örn: Fotoğraf: AA" }
+      - { label: Haber metni, name: body, widget: markdown, required: false }
+      - { label: Kaynak adı (otomatik haberler), name: kaynak, widget: string, required: false }
+      - { label: Kaynak bağlantısı (otomatik haberler), name: kaynak_url, widget: string, required: false }
+      - { label: Otomatik eklendi, name: otomatik, widget: boolean, required: false, default: false, hint: "Otomatik haberler 30 gün sonra silinir. Kalıcı olmasını istiyorsanız kapatın." }
+      - { label: Yapay zekâ ile yazıldı, name: yz, widget: boolean, required: false, default: false }
 
   - name: sayfalar
     label: Sayfalar
@@ -86,9 +92,12 @@ collections:
             name: ayarlar
             widget: object
             fields:
-              - { label: Kaynağın görselini kullan, name: gorsel_kullan, widget: boolean, hint: "Telif riski nedeniyle kapalı tutulması önerilir." }
-              - { label: Sitede tutulacak en fazla otomatik haber, name: en_fazla_haber, widget: number, value_type: int }
-              - { label: Kaç günden eski otomatik haberler silinsin, name: en_eski_gun, widget: number, value_type: int }
+              - { label: Yapay zekâ ile özgün haber yaz, name: yapay_zeka, widget: boolean }
+              - { label: Günlük yapay zekâ haber sınırı, name: yz_gunluk_limit, widget: number, value_type: int }
+              - { label: Her turda en fazla yeni haber, name: tur_basina_haber, widget: number, value_type: int }
+              - { label: Kaynağın fotoğrafını kullan, name: kaynak_gorseli, widget: boolean }
+              - { label: Kaç saatten eski kaynak haberleri alınmasın, name: en_eski_saat, widget: number, value_type: int }
+              - { label: Otomatik haberler kaç gün sonra silinsin, name: en_eski_gun, widget: number, value_type: int }
           - label: Kaynaklar
             name: kaynaklar
             widget: list

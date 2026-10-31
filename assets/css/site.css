@@ -207,3 +207,10 @@ footer a:hover{color:#ffb79e}
   .kartlar{gap:10px}
   .bolum-bas h2{font-size:16px}
 }
+
+.haber .kapak figcaption{font-size:12px;color:var(--soluk);padding:6px 2px 0}
+.kaynak-kutu{margin:22px 0 4px;padding:14px 16px;background:var(--lacivert-acik);border-left:4px solid var(--lacivert);border-radius:8px;font-size:14px;color:#3a4a51;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.kaynak-kutu p{margin:0}
+.kaynak-btn{background:var(--turuncu);color:#fff}
+.kaynak-btn:hover{background:var(--turuncu-koyu);color:#fff}
+@media (max-width:640px){.piyasa span:nth-child(3){display:none}}

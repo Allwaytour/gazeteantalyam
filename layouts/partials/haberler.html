@@ -10,10 +10,4 @@
     "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false
     "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}
 {{ end }}
-{{ range site.Data.otomatik.haberler }}
-  {{ $liste = $liste | append (dict
-    "baslik" .baslik "ozet" .ozet "link" .link "gorsel" (.gorsel | default "")
-    "ts" (int .ts) "iso" .iso "kategori" .kategori "ilce" (.ilce | default "")
-    "kaynak" .kaynak "dis" true "manset" false "son_dakika" false) }}
-{{ end }}
 {{ return sort $liste "ts" "desc" }}

@@ -12,9 +12,16 @@
       <span>Yayın: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span>
       {{ if gt .Lastmod .Date }}<span>· Güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
     </div>
-    {{ with .Params.gorsel }}<figure class="kapak"><img src="{{ . | relURL }}" alt="{{ $.Title }}"></figure>{{ end }}
+    {{ with .Params.gorsel }}<figure class="kapak"><img src="{{ . | relURL }}" alt="{{ $.Title }}" referrerpolicy="no-referrer">{{ with $.Params.gorsel_kredi }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>{{ end }}
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
+    {{ with .Params.kaynak }}
+    <div class="kaynak-kutu">
+      {{ if $.Params.yz }}<p>Bu haber, <b>{{ . }}</b> kaynağındaki bilgilerden yararlanılarak Gazete Antalya tarafından derlenmiştir.</p>
+      {{ else }}<p>Haberin ayrıntıları <b>{{ . }}</b> kaynağında yer almaktadır.</p>{{ end }}
+      {{ with $.Params.kaynak_url }}<a class="btn kaynak-btn" href="{{ . }}" target="_blank" rel="noopener nofollow">{{ if $.Params.yz }}Kaynağı görüntüle{{ else }}Haberin devamını oku{{ end }} ↗</a>{{ end }}
+    </div>
+    {{ end }}
     {{ partial "paylas.html" . }}
   </article>
   {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
