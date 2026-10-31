@@ -269,7 +269,12 @@ Kurallar:
 - Kaynak metin bir haber değilse "uygun": false döndür. Şunlar haber DEĞİLDİR: köşe yazısı, makale, yorum/görüş yazısı, deneme, anı, röportaj-söyleşi, reklam/tanıtım içeriği, liste, video/galeri sayfası, çok kısa metinler. Antalya ile ilgisi yoksa da "uygun": false döndür.
 
 Yalnızca şu biçimde JSON döndür:
-{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>"}
+{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>", "gorsel_arama": "..."}
+
+"gorsel_arama": Habere uygun, temsili bir fotoğraf bulmak için 2-4 kelimelik İNGİLİZCE arama ifadesi.
+Haberin konusunu anlatan genel bir sahne olsun (ör. "basketball game", "car crash police", "ambulance hospital",
+"tomato greenhouse", "forest fire firefighters", "classroom students", "airport airplane", "hotel swimming pool").
+Kişi adı, takım adı, marka veya kurum adı yazma.
 """
 
 
@@ -296,52 +301,83 @@ def yz_yaz(h, kaynak_metin):
 
 
 # ----------------------------------------------------------------- fotoğraf arşivi
-ARSIV_SORGULARI = {
-    "Antalya": "Antalya Konyaaltı beach", "Muratpaşa": "Kaleiçi Antalya", "Konyaaltı": "Konyaaltı Antalya",
-    "Kepez": "Kepez Antalya", "Alanya": "Alanya castle", "Manavgat": "Manavgat", "Side": "Side Antalya",
-    "Kemer": "Kemer Antalya", "Kaş": "Kaş Antalya", "Serik": "Belek Antalya", "Kumluca": "Kumluca", "Finike": "Finike",
-    "Demre": "Demre Myra", "Gazipaşa": "Gazipaşa", "Elmalı": "Elmalı", "Korkuteli": "Korkuteli", "Aksu": "Perge",
-    "Döşemealtı": "Döşemealtı", "Akseki": "Akseki", "İbradı": "İbradı", "Gündoğmuş": "Gündoğmuş",
-    "Spor": "Antalya Stadium", "Turizm": "Antalya hotel beach", "Kültür-Sanat": "Aspendos theatre",
-    "Sağlık": "Turkey ambulance", "Eğitim": "Akdeniz University", "Ekonomi": "Antalya greenhouse",
-    "Yaşam": "Antalya Düden waterfall", "Asayiş": "Turkish police car", "Gündem": "Antalya Hadrian Gate",
+# Habere uygun temsili fotoğraflar Wikimedia Commons'taki özgür lisanslı fotoğraflardan seçilir.
+KATEGORI_SORGU = {
+    "Spor": "football match", "Asayiş": "Turkish police car", "Sağlık": "ambulance", "Eğitim": "classroom students",
+    "Ekonomi": "greenhouse tomatoes", "Kültür-Sanat": "concert stage", "Yaşam": "rain street umbrella",
+    "Turizm": "Antalya beach", "Gündem": "Antalya city",
 }
+ILCE_SORGU = {
+    "Muratpaşa": "Kaleiçi Antalya", "Konyaaltı": "Konyaaltı Antalya", "Kepez": "Kepez Antalya", "Alanya": "Alanya",
+    "Manavgat": "Manavgat", "Kemer": "Kemer Antalya", "Kaş": "Kaş Antalya", "Serik": "Belek Antalya", "Demre": "Demre Myra",
+    "Aksu": "Perge", "Kumluca": "Kumluca", "Finike": "Finike", "Gazipaşa": "Gazipaşa", "Elmalı": "Elmalı",
+    "Korkuteli": "Korkuteli", "Döşemealtı": "Döşemealtı", "Akseki": "Akseki", "İbradı": "İbradı", "Gündoğmuş": "Gündoğmuş",
+}
+# Yer fotoğrafı (ilçe manzarası) yalnızca bu kategorilerde yedek olarak kullanılır
+YER_UYGUN = {"Gündem", "Turizm", "Kültür-Sanat", "Yaşam", "Ekonomi"}
+ISTENMEYEN = re.compile(r"map|logo|flag|coat|diagram|chart|plan|seal|emblem|icon|portrait|signature|poster|screenshot|harita|bayra", re.I)
 
 
-def arsiv_doldur(arsiv):
-    """Eksik konular için Wikimedia Commons'tan özgür lisanslı fotoğraf bulur (yalnızca bir kez)."""
-    for konu, sorgu in ARSIV_SORGULARI.items():
-        if arsiv.get(konu):
-            continue
-        try:
-            r = requests.get("https://commons.wikimedia.org/w/api.php", headers={"User-Agent": "GazeteAntalya/1.0 (iletisim@gazeteantalyam.com)"}, params={
-                "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": 25,
-                "gsrsearch": f"{sorgu} filetype:bitmap", "prop": "imageinfo", "iiprop": "url|size|extmetadata", "iiurlwidth": 1200,
-            }, timeout=25)
-            sonuc = []
-            for s in (r.json().get("query", {}).get("pages", {}) or {}).values():
-                ii = (s.get("imageinfo") or [{}])[0]
-                meta = ii.get("extmetadata", {})
-                lisans = (meta.get("LicenseShortName", {}) or {}).get("value", "")
-                if ii.get("width", 0) < 1000 or ii.get("width", 0) < ii.get("height", 1) * 1.2:
-                    continue
-                if not re.search(r"CC BY|CC0|Public domain", lisans, re.I):
-                    continue
-                yazar = temizle((meta.get("Artist", {}) or {}).get("value", ""), 60) or "Wikimedia Commons"
-                sonuc.append({"url": ii.get("thumburl") or ii.get("url"), "kredi": f"{yazar} / Wikimedia Commons ({lisans})",
-                              "sayfa": ii.get("descriptionurl", "")})
-            arsiv[konu] = sonuc[:6]
-            print(f"Arşiv: {konu}: {len(arsiv[konu])} fotoğraf")
-        except Exception as e:
-            print(f"Arşiv: {konu} alınamadı: {e}")
-    return arsiv
+def commons_ara(arsiv, sorgu):
+    """Sorgu için özgür lisanslı yatay fotoğraf listesi (önbellekli)."""
+    sorgu = (sorgu or "").strip()
+    if not sorgu:
+        return []
+    anahtar_ = "q:" + sorgu.lower()
+    if anahtar_ in arsiv:
+        return arsiv[anahtar_]
+    sonuc = []
+    try:
+        r = requests.get("https://commons.wikimedia.org/w/api.php", headers={"User-Agent": "GazeteAntalya/1.0 (iletisim@gazeteantalyam.com)"}, params={
+            "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": 30,
+            "gsrsearch": f"{sorgu} filetype:bitmap", "prop": "imageinfo", "iiprop": "url|size|extmetadata", "iiurlwidth": 1200,
+        }, timeout=25)
+        sayfalar = sorted((r.json().get("query", {}).get("pages", {}) or {}).values(), key=lambda p: p.get("index", 99))
+        for s in sayfalar:
+            if ISTENMEYEN.search(s.get("title", "")):
+                continue
+            ii = (s.get("imageinfo") or [{}])[0]
+            meta = ii.get("extmetadata", {})
+            lisans = (meta.get("LicenseShortName", {}) or {}).get("value", "")
+            if ii.get("width", 0) < 1000 or ii.get("width", 0) < ii.get("height", 1) * 1.2:
+                continue
+            if not re.search(r"CC BY|CC0|Public domain", lisans, re.I):
+                continue
+            yazar = temizle((meta.get("Artist", {}) or {}).get("value", ""), 60) or "Wikimedia Commons"
+            sonuc.append({"url": ii.get("thumburl") or ii.get("url"), "kredi": f"{yazar} / Wikimedia Commons ({lisans})"})
+            if len(sonuc) >= 6:
+                break
+    except Exception as e:
+        print(f"   Fotoğraf araması yapılamadı ({sorgu}): {e}")
+        return []
+    arsiv[anahtar_] = sonuc
+    return sonuc
 
 
-def arsiv_foto(arsiv, ilce, kategori, tohum):
-    for konu in ([kategori] if kategori in ("Spor", "Asayiş", "Sağlık", "Eğitim") else []) + [ilce, kategori, "Antalya"]:
-        if konu and arsiv.get(konu):
-            return random.Random(tohum).choice(arsiv[konu])
+def konu_foto(arsiv, gorsel_arama, kategori, ilce, tohum):
+    sorgular = [gorsel_arama, KATEGORI_SORGU.get(kategori, "")]
+    if kategori in YER_UYGUN:
+        sorgular += [ILCE_SORGU.get(ilce, ""), "Antalya"]
+    for q in sorgular:
+        liste = commons_ara(arsiv, q)
+        if liste:
+            a = random.Random(tohum).choice(liste[:5])
+            return {"url": a["url"], "kredi": "Temsili fotoğraf: " + a["kredi"]}
     return None
+
+
+def yz_gorsel_arama(baslik, ozet):
+    """Eski haberler için yalnızca fotoğraf arama ifadesi üretir."""
+    istek = {"contents": [{"role": "user", "parts": [{"text":
+        "Aşağıdaki haber için temsili bir fotoğraf bulmak üzere 2-4 kelimelik İNGİLİZCE arama ifadesi üret. "
+        "Haberin konusunu anlatan genel bir sahne olsun; kişi, takım, marka veya kurum adı yazma. "
+        'Yalnızca {"gorsel_arama": "..."} biçiminde JSON döndür.\n\nBaşlık: ' + baslik + "\nÖzet: " + (ozet or "")}]}],
+        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json", "maxOutputTokens": 100}}
+    r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model_sec()}:generateContent",
+                      headers={"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}, json=istek, timeout=40)
+    r.raise_for_status()
+    metin = "".join(p.get("text", "") for p in r.json()["candidates"][0]["content"]["parts"])
+    return json.loads(re.sub(r"^```(?:json)?|```$", "", metin.strip()).strip()).get("gorsel_arama", "")
 
 
 # ----------------------------------------------------------------- yazma
@@ -355,6 +391,7 @@ def md_yaz(h, yz, foto, kaynak_url):
         "ozet": re.sub(r"\s+", " ", (yz or {}).get("spot") or h["ozet"] or "").strip(),
         "gorsel": foto["url"] if foto else "",
         "gorsel_kredi": foto["kredi"] if foto else "",
+        "gorsel_v2": True,
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "manset": False,
@@ -371,9 +408,10 @@ def md_yaz(h, yz, foto, kaynak_url):
     return dosya
 
 
-def duzenle_eskiler(arsiv):
-    """Yapay zekâsız özet sayfalarını siler; kaynak fotoğraflarını arşiv fotoğraflarıyla değiştirir."""
-    for ad in os.listdir(HABER_KLASOR):
+def duzenle_eskiler(arsiv, yz_acik, limit=15):
+    """Özet sayfalarını siler; eski haberlerin fotoğraflarını konuya uygun temsili fotoğraflarla yeniler."""
+    yenilenen = 0
+    for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
         yol = os.path.join(HABER_KLASOR, ad)
         try:
             with open(yol, encoding="utf-8") as f:
@@ -384,14 +422,18 @@ def duzenle_eskiler(arsiv):
                 os.remove(yol)
                 print("Özet sayfası silindi:", ad)
                 continue
-            if re.search(r"\ngorsel_kredi: '?Fotoğraf: ", icerik):
-                on, govde = icerik[4:].split("\n---\n", 1)
-                v = yaml.safe_load(on)
-                a = arsiv_foto(arsiv, (v.get("ilceler") or [""])[0], (v.get("kategoriler") or ["Gündem"])[0], v.get("kaynak_url", ad))
-                v["gorsel"], v["gorsel_kredi"] = (a["url"], "Temsili fotoğraf: " + a["kredi"]) if a else ("", "")
-                with open(yol, "w", encoding="utf-8") as f:
-                    f.write("---\n" + yaml.safe_dump(v, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde)
-                print("Fotoğraf değiştirildi:", ad)
+            if "\ngorsel_v2: true" in icerik or not yz_acik or yenilenen >= limit:
+                continue
+            on, govde = icerik[4:].split("\n---\n", 1)
+            v = yaml.safe_load(on)
+            arama = yz_gorsel_arama(v.get("title", ""), v.get("ozet", ""))
+            foto = konu_foto(arsiv, arama, (v.get("kategoriler") or ["Gündem"])[0], (v.get("ilceler") or [""])[0], v.get("kaynak_url", ad))
+            v["gorsel"], v["gorsel_kredi"] = (foto["url"], foto["kredi"]) if foto else ("", "")
+            v["gorsel_v2"] = True
+            with open(yol, "w", encoding="utf-8") as f:
+                f.write("---\n" + yaml.safe_dump(v, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde)
+            yenilenen += 1
+            print(f"Fotoğraf yenilendi: {ad}  ({arama!r} → {'bulundu' if foto else 'yok'})")
         except Exception as e:
             print("Düzenlenemedi:", ad, e)
 
@@ -454,8 +496,7 @@ def main():
     limit = int(ayar.get("tur_basina_haber", 6))
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
-    arsiv = arsiv_doldur(json_oku(ARSIV_DOSYA, {}))
-    json_yaz(ARSIV_DOSYA, arsiv)
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith("q:")}
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
@@ -497,9 +538,10 @@ def main():
         if kaynak_gorsel and ayar.get("kaynak_gorseli", False):
             foto = {"url": kaynak_gorsel, "kredi": ""}
         if not foto:
-            a = arsiv_foto(arsiv, h["ilce"], h["kategori"], h["link"])
-            if a:
-                foto = {"url": a["url"], "kredi": f"Temsili fotoğraf: {a['kredi']}"}
+            kat = yz.get("kategori") if yz.get("kategori") in KATEGORILER else h["kategori"]
+            ilce = yz.get("ilce") if yz.get("ilce") in ILCE_ESLER else h["ilce"]
+            foto = konu_foto(arsiv, yz.get("gorsel_arama", ""), kat, ilce, h["link"])
+            print(f"   Fotoğraf: {yz.get('gorsel_arama', '')!r} → {'bulundu' if foto else 'yok'}")
         dosya = md_yaz(h, yz, foto, url)
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
         gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
@@ -507,7 +549,8 @@ def main():
             gorulen.append({"link": h["link"] + "#yz", "baslik": yz.get("baslik", ""), "ts": simdi})
         yazilan += 1
 
-    duzenle_eskiler(arsiv)
+    duzenle_eskiler(arsiv, yz_acik)
+    json_yaz(ARSIV_DOSYA, arsiv)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()
