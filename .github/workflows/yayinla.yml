@@ -32,6 +32,7 @@ jobs:
       - name: Otomatik haberleri hazırla
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder
           python scripts/haber_cek.py
