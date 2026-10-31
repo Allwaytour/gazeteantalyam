@@ -2,8 +2,8 @@
 title: Antalyaspor'dan U16 Milli Takimi'na besinci oyuncu takviyesi
 date: '2026-10-31T17:28:00+03:00'
 ozet: Antalya'da yapilan uluslararasi hazirlik turnuvasinda mucadele eden U16 Milli Takimi'nin kadrosunda degisiklige gidildi. Antalyaspor altyapisindan bir futbolcu daha aday kadroya cagrildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sarn_v_Bronington_football_match_%281529913%29.jpg/1280px-Sarn_v_Bronington_football_match_%281529913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Geoff Charles / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1600077063877-22118d6290eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8eW91dGglMjBzb2NjZXIlMjBwbGF5ZXJzJTIwdHJhaW5pbmd8ZW58MXwwfHx8MTc5MzQ4NDk5MHww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Omar Ramadan / Unsplash'
 kategoriler:
 - Spor
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalyaspordan-u16-milli-takima-besinci-isim-mehmet-alp-deniz-de-kadroda
-gorsel_v3: true
+gorsel_v4: true
 ---
 Kente duzenlenen Uluslararasi Hazirlik Turnuvasinda sahne alan Turkiye U16 Milli Takimi'nin oyuncu havuzunda guncelleme yapildi. Futbol federasyonunun yayimladigi son listede, kirmizi-beyazli kulubun altyapinda yetisen sporcularindan bir isim daha kadroya dahil edildi.
 

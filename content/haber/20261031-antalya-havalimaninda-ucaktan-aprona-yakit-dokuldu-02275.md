@@ -2,8 +2,8 @@
 title: Antalya Havalimanı'nda uçaktan aprona yakıt döküldü
 date: '2026-10-31T19:19:54+03:00'
 ozet: Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt sızdı. Ekipler bölgede güvenlik önlemi alarak temizlik çalışması başlattı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Police_car_in_Turkey.JPG/1280px-Police_car_in_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Dickelbers / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://images.unsplash.com/photo-1704964969666-489adbfc5bdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8YWlycGxhbmUlMjBmdWVsJTIwbGVhayUyMGFwcm9ufGVufDF8MHx8fDE3OTM0ODQ5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Sven Siegenthaler / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Herdem Aviation
 kaynak_url: https://herdemaviation.com/sunexpress-ucagindan-antalya-havalimaninda-aprona-yakit-dokuldu/
-gorsel_v3: true
+gorsel_v4: true
 ---
 Antalya Havalimanı'nda sefer için hazırlık yapan bir yolcu uçağında henüz belirlenemeyen bir nedenle aprona yakıt dökülmesi olayı yaşandı.
 

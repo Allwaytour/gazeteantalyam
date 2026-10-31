@@ -2,8 +2,8 @@
 title: 'Antalya Mutabakatı Aciklandi: Binalarda 2035 Hedefleri Belirlendi'
 date: '2026-10-31T22:56:44+03:00'
 ozet: COP31 Turkiye Baskanligi tarafindan duyurulan Antalya Mutabakati, binalarda enerji verimliligini artirmayi ve karbon emisyonlarini azaltmayi hedefliyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Exterior_Light_Shelves_-_Green_Office_Building%2C_Denver_Colorado.jpg/1280px-Exterior_Light_Shelves_-_Green_Office_Building%2C_Denver_Colorado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: USEPA Environmental-Protection-Agency / Wikimedia Commons (Public domain)'
+gorsel: https://images.unsplash.com/photo-1535689077097-a8726b5ff822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW5lcmd5JTIwZWZmaWNpZW50JTIwZ3JlZW4lMjBidWlsZGluZ3N8ZW58MXwwfHx8MTc5MzQ4NDk5NXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: CHUTTERSNAP / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Doğayı Dinle
 kaynak_url: https://www.dogayidinle.com/cevre-ve-iklim/cop31-antalya-mutabakati-aciklandi-binalarda-2035e-kadar-yuzde-25-enerji-verimliligi-hedefi/9782
-gorsel_v3: true
+gorsel_v4: true
 ---
 Turkiye'nin ev sahipliginde gerceklesecek COP31 Iklim Zirvesi'ne dogru, binalarin enerji tuketimini ve karbon salinimini dusurmek amaciyla hazirlanan Antalya Mutabakati kamuoyuna duyuruldu. COP31 Turkiye Baskanligi tarafindan aciklanan bu girisim, konutlardan okullara ve hastanelere kadar genis bir yapi stokunu kapsiyor.
 

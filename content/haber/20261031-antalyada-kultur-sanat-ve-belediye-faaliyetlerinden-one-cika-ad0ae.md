@@ -2,8 +2,8 @@
 title: Antalya'da kültür, sanat ve belediye faaliyetlerinden öne çıkanlar
 date: '2026-10-31T22:07:00+03:00'
 ozet: Antalya genelinde düzenlenen festival, konser ve çeşitli etkinliklerle hareketli günler yaşanırken, kent gündemindeki son gelişmeler dikkat çekti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://images.unsplash.com/photo-1619229665876-f54b2276b7bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y3VsdHVyYWwlMjBmZXN0aXZhbCUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzNDg0OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Colin Lloyd / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
@@ -14,7 +14,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-gundeminden-secmeler-31-ekim
-gorsel_v3: true
+gorsel_v4: true
 ---
 Antalya'da bu yıl 63'üncüsü gerçekleştirilen Antalya Altın Portakal Film Festivali'nin kapanış ve ödül töreni öncesinde kırmızı halıda şıklık yarışı yaşandı. Festival kapsamında izleyiciyle buluşan 'Anadolu'nun Kayıp Pençeleri' filminin 24 yaşındaki yönetmeni yüzde 90 fiziksel engelli Mert Can Altun, yapay zeka teknolojisini kullanarak tek eli ve 3 parmağıyla yapımlar ortaya koyduğunu belirtti. Ulusal ve uluslararası alanda ödüller kazanan Altun, gelecekte Hollywood'da film yapmayı hedefliyor.
 

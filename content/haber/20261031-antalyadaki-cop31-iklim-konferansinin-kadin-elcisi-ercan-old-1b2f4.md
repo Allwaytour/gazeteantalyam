@@ -2,8 +2,8 @@
 title: Antalya'daki COP31 İklim Konferansı'nın Kadın Elçisi Ercan Oldu
 date: '2026-10-31T22:39:43+03:00'
 ozet: AK Parti Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, Antalya'da yapılacak COP31'in Kadın Elçisi görevine getirildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Joint_press_conference_on_the_launch_of_the_largest_global_coalition_of_cities_committed_to_fighting_climate_change_%28P-031994-00-10%29.jpg/1280px-Joint_press_conference_on_the_launch_of_the_largest_global_coalition_of_cities_committed_to_fighting_climate_change_%28P-031994-00-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Europäische Kommission - Audiovisueller Dienst, Jennifer… / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://images.unsplash.com/photo-1715610258704-e8f9f5710fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMGNvbmZlcmVuY2UlMjB3b21hbiUyMHNwZWFrZXJ8ZW58MXwwfHx8MTc5MzQ4NDk5M3ww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Dámaris Azócar / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
@@ -14,7 +14,7 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/guncel/antalya-daki-cop31-in-kadin-elciligine-tugba-isik-20384300-haberi/
-gorsel_v3: true
+gorsel_v4: true
 ---
 Türkiye'nin ev sahipliğinde 9-20 Kasım tarihlerinde Antalya'da gerçekleştirilmesi planlanan Birleşmiş Milletler İklim Konferansı COP31 için önemli bir görevlendirme yapıldı. Ak Parti Genel Merkez Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, konferansın Kadın Elçisi olarak atandı.
 

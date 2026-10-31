@@ -2,8 +2,8 @@
 title: Antalya'daki COP31 tedbirlerine siyasi tepki
 date: '2026-10-31T19:21:00+03:00'
 ozet: Antalya'da ev sahipliği yapılacak COP31 İklim Zirvesi öncesi açıklanan ulaşım kısıtlamalarına tepkiler sürüyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Stachys_aleurites_from_Antalya_City_by_David_Merrick_08.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://images.unsplash.com/photo-1564906158598-041131af6a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMHN1bW1pdCUyMHRyYWZmaWMlMjByZXN0cmljdGlvbnN8ZW58MXwwfHx8MTc5MzQ4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Iwona Castiello d''Antonio / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-cop31-kisitlamalari-gundemde-tipten-antalya-cezaevine-donusturuluyor-iddiasi
-gorsel_v3: true
+gorsel_v4: true
 ---
 Antalya'da düzenlenecek COP31 İklim Zirvesi dolayısıyla kent genelinde hayata geçirileceği duyurulan trafik ve ulaşım önlemleri eleştirileri beraberinde getirdi. Planlanan düzenlemeler kapsamında, 9-13 Kasım 2026 tarihlerinde Dikmen Kavşağı ile Altınova Kavşağı arasında çeşitli tedbirlerin uygulanması kararlaştırıldı. Yapılan planlamaya göre yük taşımacılığı yapan kamyon ve benzeri araçların sevkiyatlarını 22.00 ile 06.00 saatleri arasında gerçekleştirmesi istenirken, akaryakıt tankerlerinin teslimatlarının ise 00.00 ile 06.00 saatleri arasında yapılması öngörüldü.
 
