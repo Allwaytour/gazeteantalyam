@@ -32,6 +32,7 @@ DURUM_DOSYA = os.path.join(KOK, "data", "otomatik_durum.json")
 ARSIV_DOSYA = os.path.join(KOK, "data", "foto_arsivi.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
+PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "").strip()
 
 KOSE_RE = re.compile(r"/(yazar|yazarlar|kose-?yazi|kose|koseyazisi|makale|makaleler|yorum|column|columnist|author|gorus)[/-]|köşe yazısı|yazının devamı")
 
@@ -361,15 +362,40 @@ def commons_ara(arsiv, sorgu):
     return sonuc
 
 
+def pexels_ara(arsiv, sorgu):
+    """Pexels'te konuya uygun yatay fotoğraflar (ücretsiz lisans, önbellekli)."""
+    sorgu = (sorgu or "").strip()
+    if not sorgu or not PEXELS_KEY:
+        return []
+    anahtar_ = "px:" + sorgu.lower()
+    if anahtar_ in arsiv:
+        return arsiv[anahtar_]
+    try:
+        r = requests.get("https://api.pexels.com/v1/search", headers={"Authorization": PEXELS_KEY},
+                         params={"query": sorgu, "orientation": "landscape", "per_page": 8}, timeout=20)
+        r.raise_for_status()
+        sonuc = [{"url": f["src"].get("landscape") or f["src"]["large"], "kredi": f"{f.get('photographer', '')} / Pexels"}
+                 for f in r.json().get("photos", [])]
+    except Exception as e:
+        print(f"   Pexels araması yapılamadı ({sorgu}): {e}")
+        return []
+    arsiv[anahtar_] = sonuc
+    return sonuc
+
+
 def konu_foto(arsiv, gorsel_arama, kategori, ilce, tohum):
-    sorgular = [gorsel_arama, KATEGORI_SORGU.get(kategori, "")]
-    if kategori in YER_UYGUN:
-        sorgular += [ILCE_SORGU.get(ilce, ""), "Antalya"]
-    for q in sorgular:
-        liste = commons_ara(arsiv, q)
+    """Önce konuya uygun Pexels fotoğrafı; yoksa (uygun kategorilerde) ilçe manzarası; o da yoksa fotoğrafsız."""
+    for q in [gorsel_arama, KATEGORI_SORGU.get(kategori, "")]:
+        liste = pexels_ara(arsiv, q)
         if liste:
-            a = random.Random(tohum).choice(liste[:5])
+            a = random.Random(tohum).choice(liste[:6])
             return {"url": a["url"], "kredi": "Temsili fotoğraf: " + a["kredi"]}
+    if kategori in YER_UYGUN:
+        for q in [ILCE_SORGU.get(ilce, ""), "Antalya Kaleiçi"]:
+            liste = commons_ara(arsiv, q)
+            if liste:
+                a = random.Random(tohum).choice(liste[:5])
+                return {"url": a["url"], "kredi": "Temsili fotoğraf: " + a["kredi"]}
     return None
 
 
@@ -398,7 +424,7 @@ def md_yaz(h, yz, foto, kaynak_url):
         "ozet": re.sub(r"\s+", " ", (yz or {}).get("spot") or h["ozet"] or "").strip(),
         "gorsel": foto["url"] if foto else "",
         "gorsel_kredi": foto["kredi"] if foto else "",
-        "gorsel_v3": True,
+        "gorsel_v4": bool(PEXELS_KEY),
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "manset": False,
@@ -429,15 +455,16 @@ def duzenle_eskiler(arsiv, yz_acik, limit=15):
                 os.remove(yol)
                 print("Özet sayfası silindi:", ad)
                 continue
-            if "\ngorsel_v3: true" in icerik or not yz_acik or yenilenen >= limit:
+            if "\ngorsel_v4: true" in icerik or not yz_acik or not PEXELS_KEY or yenilenen >= limit:
                 continue
             on, govde = icerik[4:].split("\n---\n", 1)
             v = yaml.safe_load(on)
             arama = yz_gorsel_arama(v.get("title", ""), v.get("ozet", ""))
             foto = konu_foto(arsiv, arama, (v.get("kategoriler") or ["Gündem"])[0], (v.get("ilceler") or [""])[0], v.get("kaynak_url", ad))
             v["gorsel"], v["gorsel_kredi"] = (foto["url"], foto["kredi"]) if foto else ("", "")
-            v.pop("gorsel_v2", None)
-            v["gorsel_v3"] = True
+            for eski in ("gorsel_v2", "gorsel_v3"):
+                v.pop(eski, None)
+            v["gorsel_v4"] = True
             with open(yol, "w", encoding="utf-8") as f:
                 f.write("---\n" + yaml.safe_dump(v, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde)
             yenilenen += 1
@@ -504,7 +531,7 @@ def main():
     limit = int(ayar.get("tur_basina_haber", 6))
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
-    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith("q2:")}
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("q2:", "px:"))}
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
