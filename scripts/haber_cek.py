@@ -347,12 +347,12 @@ def arsiv_foto(arsiv, ilce, kategori, tohum):
 # ----------------------------------------------------------------- yazma
 def md_yaz(h, yz, foto, kaynak_url):
     tarih = datetime.fromtimestamp(h["ts"], TR)
-    baslik = (yz or {}).get("baslik") or h["baslik"]
+    baslik = re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip()
     dosya = f"{tarih:%Y%m%d}-{slug(baslik, 60)}-{hashlib.md5(h['link'].encode()).hexdigest()[:5]}.md"
     on = {
         "title": baslik,
         "date": tarih.isoformat(),
-        "ozet": (yz or {}).get("spot") or h["ozet"],
+        "ozet": re.sub(r"\s+", " ", (yz or {}).get("spot") or h["ozet"] or "").strip(),
         "gorsel": foto["url"] if foto else "",
         "gorsel_kredi": foto["kredi"] if foto else "",
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
