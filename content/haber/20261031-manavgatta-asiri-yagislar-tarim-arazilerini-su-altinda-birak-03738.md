@@ -2,8 +2,8 @@
 title: Manavgat'ta aşırı yağışlar tarım arazilerini su altında bıraktı
 date: '2026-10-31T22:02:56+03:00'
 ozet: Manavgat'ta son günlerde etkili olan yoğun sağanak yağış nedeniyle Denizkent, Denizyaka, Bereket ve Perakende mahallelerindeki tarım arazileri zarar gördü.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Flood_waters_flooding_fields_and_houses_built_inside_the_fields_of_Fatehabad_District%2C_Haryana%3B_2023.jpg/1280px-Flood_waters_flooding_fields_and_houses_built_inside_the_fields_of_Fatehabad_District%2C_Haryana%3B_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Hemish / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20230116_Manavgat%2C_Turkey_15.jpg/1280px-20230116_Manavgat%2C_Turkey_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Nehir Haber
 kaynak_url: https://www.nehir.net/ekonomi/manavgat-ta-saganak-yagis-beyaz-altini-vurdu-27247994
-gorsel_v3: true
+gorsel_v4: true
 ---
 Manavgat genelinde geçtiğimiz günlerde etkisini gösteren kuvvetli sağanak yağmur, tarım üretimini olumsuz etkiledi. Bölgeye düşen yağış miktarının metrekareye 60 kilogramın üzerinde olduğu belirtilirken, özellikle Denizkent, Denizyaka, Bereket ve Perakende mahallelerindeki tarım arazileri su baskınlarına uğradı.
 

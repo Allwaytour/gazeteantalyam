@@ -2,8 +2,8 @@
 title: Serik'in ekolojik okul projesi Meclis gündeminde
 date: '2026-10-31T20:17:00+03:00'
 ozet: Antalya'da yapımına başlanan ve Türkiye'nin ilk ekolojik okulu olması planlanan 24 derslikli ortaokul inşaatının altı yıldır tamamlanmaması Meclise taşındı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Stachys_aleurites_from_Antalya_City_by_David_Merrick_08.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Turkey%2C_Antalya%2C_Belek%2C_Intourist_Club_Belek_%28ex._Justiniano_Club_Belek%29_2008_-_panoramio_-_Alx_R_%282%29.jpg/1280px-Turkey%2C_Antalya%2C_Belek%2C_Intourist_Club_Belek_%28ex._Justiniano_Club_Belek%29_2008_-_panoramio_-_Alx_R_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Alx R / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/serikteki-bitmeyen-okul-meclis-gundeminde
-gorsel_v3: true
+gorsel_v4: true
 ---
 YENİ Parti Antalya Milletvekili Aliye Coşar, Serik ilçesinde bir iş insanı tarafından inşa edilmesi planlanan 24 derslikli ortaokul projesinin uzun süredir atıl kalmasını Türkiye Büyük Millet Meclisi gündemine taşıdı. Türkiye'nin ilk ekolojik okulu olma hedefiyle yola çıkılan yatırımın altı yıldır bitirilemediğini belirten Coşar, konuyu Milli Eğitim Bakanı Yusuf Tekin'e iletti.
 

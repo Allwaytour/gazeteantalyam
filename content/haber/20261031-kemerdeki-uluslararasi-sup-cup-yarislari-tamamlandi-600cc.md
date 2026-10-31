@@ -2,8 +2,8 @@
 title: Kemer'deki uluslararası sup cup yarışları tamamlandı
 date: '2026-10-31T17:39:04+03:00'
 ozet: Kemer Belediyesi ana sponsorluğunda bu yıl dördüncüsü gerçekleştirilen uluslararası sup cup yarışları sona erdi ve dereceye giren sporcular ödüllerini aldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Shrewsbury_Schoolboys_v_Stafford_football_match_%281463474%29.jpg/1280px-Shrewsbury_Schoolboys_v_Stafford_football_match_%281463474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Geoff Charles / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: ''
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Ayancık Gazetesi
 kaynak_url: https://www.ayancikgazetesi.com/powered-by-kemiad-sup-cup-kemer-yarislari-sona-erdi/153889
-gorsel_v3: true
+gorsel_v4: true
 ---
 Kemer Turizmci ve İş İnsanları Derneği tarafından hayata geçirilen ve dördüncüsü düzenlenen Powered By KEMİAD Uluslararası Sup Cup Kemer Yarışları ile Dünya Sıralama Yarışları tamamlandı. Organizasyona yirmi üç farklı ülkeden iki yüz sporcu katılım sağladı.
 

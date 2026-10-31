@@ -2,8 +2,8 @@
 title: Manavgat'a 342 milyon liralık yeni otel yatırımı
 date: '2026-10-31T17:35:49+03:00'
 ozet: Antalya'nın Manavgat ilçesinde hayata geçirilecek Maranda Otel projesi için 342 milyon liralık yatırım planlanıyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey%2C_March_2022_-_Harrington_Park_Resort.jpg/1280px-Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey%2C_March_2022_-_Harrington_Park_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20230116_Manavgat%2C_Turkey_15.jpg/1280px-20230116_Manavgat%2C_Turkey_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: EmlakNews.com.tr
 kaynak_url: https://www.emlaknews.com.tr/haberler/manavgatta-342-milyon-liralik-maranda-otel-kuruluyor/
-gorsel_v3: true
+gorsel_v4: true
 ---
 Antalya'nın turizm merkezlerinden Manavgat'ta yeni bir konaklama tesisi projesi için hazırlıklar başladı. Üçhan Grup Gıda Ltd. Şti. tarafından Evren Mahallesi sınırları içinde inşa edilmesi planlanan Maranda Otel için toplam 342 milyon 195 bin lira yatırım bütçesi ayrıldı. Proje, şahıs mülkiyetindeki bir arazi üzerinde kurulacak.
 

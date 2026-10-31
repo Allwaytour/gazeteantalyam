@@ -2,9 +2,8 @@
 title: Pizza Tomato Alanya'da 75. şubesini hizmete açtı
 date: '2026-10-31T16:46:00+03:00'
 ozet: Şekerhane Mahallesi'nde faaliyete başlayan yeni şubenin açılışı, elverişsiz hava koşullarına rağmen yoğun katılımla gerçekleştirildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Interior_of_Pizza_Hut_Nangang_Restaurant_20090822.JPG/1280px-Interior_of_Pizza_Hut_Nangang_Restaurant_20090822.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: 玄史生 / Wikimedia Commons (CC0)'
-gorsel_v3: true
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pirate-Themed_Tour_Ships_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Pirate-Themed_Tour_Ships_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -16,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/pizza-tomato-75inci-subesini-alanyada-hizmete-acti
+gorsel_v4: true
 ---
 Alanya'da hizmet vermeye başlayan yeni işletmenin açılış törenine bölge protokolü, sivil toplum kuruluşu temsilcileri, siyasi parti başkanları ve çok sayıda davetli katıldı. Şekerhane Mahallesi Martı Sokak adresinde bulunan şubenin işletmeciliğini Cemalettin Demirtaş üstlendi.
 
