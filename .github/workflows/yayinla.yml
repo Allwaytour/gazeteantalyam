@@ -24,6 +24,8 @@ jobs:
       url: ${{ steps.dagit.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # her zaman en güncel hali (sıraya giren eski tetiklemeler eski veriyle çalışmasın)
 
       - uses: actions/setup-python@v5
         with:
@@ -44,7 +46,11 @@ jobs:
           git add content/haber data/otomatik_durum.json data/foto_arsivi.json
           if ! git diff --cached --quiet; then
             git commit -q -m "Otomatik haberler [skip ci]"
-            git pull -q --rebase origin main && git push -q origin HEAD:main || echo "Kaydedilemedi, bir sonraki turda tekrar denenecek"
+            if ! (git pull -q --rebase origin main && git push -q origin HEAD:main); then
+              echo "Kaydedilemedi, bir sonraki turda tekrar denenecek"
+              git rebase --abort 2>/dev/null || true
+              git fetch -q origin main && git reset -q --hard origin/main
+            fi
           fi
 
       - name: Kategori sayfalarını hazırla
