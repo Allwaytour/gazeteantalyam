@@ -1,0 +1,55 @@
+name: Haberleri güncelle ve yayınla
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "*/30 * * * *"   # Her 30 dakikada bir (GitHub yoğunluğa göre birkaç dakika geciktirebilir)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dagit.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Otomatik haberleri çek
+        env:
+          SITE_URL: https://www.gazeteantalyam.com
+        run: |
+          pip install -q feedparser requests pyyaml
+          python scripts/terimler.py
+          python scripts/haber_cek.py
+
+      - name: Hugo kur
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.140.2"
+          extended: true
+
+      - name: Siteyi oluştur
+        run: hugo --minify
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Yayınla
+        id: dagit
+        uses: actions/deploy-pages@v4
