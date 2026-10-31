@@ -2,8 +2,8 @@
 title: Altıntaş'ın imar ve altyapı sorunları masaya yatırıldı
 date: '2026-10-31T17:45:15+03:00'
 ozet: Altıntaş'ın imar ve altyapı eksikliklerinin ele alındığı istişare toplantısında çözüm adımları değerlendirildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hadrian%27s_Gate%2C_Antalya_05.jpg/1280px-Hadrian%27s_Gate%2C_Antalya_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/altintasin-imar-ve-altyapi-sorunu-masaya-yatirildi/388402
+gorsel_v2: true
 ---
 Altıntaş Platformu Başkanı Atılgan Sert, bölgede devam eden yapılaşma sürecindeki aksaklıkları ve çözüm bekleyen talepleri görüşmek üzere yerel yönetim ve oda temsilcileriyle bir araya geldi. Antalya Büyükşehir Belediye Başkanı Büşra Özdemir'in ev sahipliğinde gerçekleştirilen toplantıya, Antalya Ticaret ve Sanayi Odası ile ilgili meslek odalarının yöneticileri ve Altıntaş Mahallesi Muhtarı katılım gösterdi.
 

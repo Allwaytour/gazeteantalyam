@@ -2,8 +2,8 @@
 title: Antalya Gençlik Spor Pizza Bulls deplasmanda son anda kaybetti
 date: '2026-10-31T20:07:00+03:00'
 ozet: Türkiye Basketbol 2. Ligi'nde mücadele eden Antalya Gençlik Spor Pizza Bulls, İstanbul deplasmanında İTÜ Halkbank'a 93-91 mağlup oldu.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/HADRIAN%27S_GATE_-ANTALYA_-_panoramio.jpg/1280px-HADRIAN%27S_GATE_-ANTALYA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: HALUK COMERTEL / Wikimedia Commons (CC BY 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Loyola_Ramblers_1962%E2%80%9363_team_photo_%28restored%29.png/1280px-Loyola_Ramblers_1962%E2%80%9363_team_photo_%28restored%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Probably Loyola University Chicago / Wikimedia Commons (Public domain)'
 kategoriler:
 - Spor
 ilceler: []
@@ -14,6 +14,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-genclik-spor-pizza-bulls-itu-halkbanka-son-anda-kaybetti-93-91
+gorsel_v2: true
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin dördüncü haftasında İTÜ Merkez Spor Salonu'nda İTÜ Halkbank ile karşı karşıya geldi. Müsabakanın ilk periyodunu 25-22 geride kapatan Antalya temsilcisi, ikinci çeyrekte savunmada zorlanınca soyunma odasına 52-41 yenik durumda gitti.
 

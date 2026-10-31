@@ -2,8 +2,8 @@
 title: Kumluca'da sıcak asfalt mesaisi
 date: '2026-10-31T18:10:26+03:00'
 ozet: Kumluca Belediyesi, Temel Eğitim Mahallesi'nde gerçekleştirdiği asfalt çalışmalarıyla bazı cadde ve sokakların yollarını yeniledi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Adrasan_Beach_Kumluca_01.jpg/1280px-Adrasan_Beach_Kumluca_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Kadı / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Antalya%2C_Turkey_February_2022_-_Blue_Paradise_Fish_%26_Steak_%26_Kebap_House.jpg/1280px-Antalya%2C_Turkey_February_2022_-_Blue_Paradise_Fish_%26_Steak_%26_Kebap_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -15,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Milliyet
 kaynak_url: https://www.milliyet.com.tr/yerel-haberler/antalya/kumlucada-sicak-asfalt-calismasi-7691672
+gorsel_v2: true
 ---
 Kumluca Belediyesi, ilçe genelindeki altyapı ve yol yenileme çalışmaları kapsamında Temel Eğitim Mahallesi'nde sıcak asfalt serimi yaptı. Fen İşleri Müdürlüğü ekiplerinin yürüttüğü çalışmalar doğrultusunda mahalledeki ulaşım yolları elden geçirildi.
 

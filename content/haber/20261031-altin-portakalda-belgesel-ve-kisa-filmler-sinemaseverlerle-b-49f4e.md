@@ -2,8 +2,8 @@
 title: Altın Portakal'da Belgesel ve Kısa Filmler Sinemaseverlerle Buluştu
 date: '2026-10-31T18:05:00+03:00'
 ozet: Antalya'da düzenlenen festivalde, dünyanın dört bir yanından gelen belgeseller, kısa filmler ve sinema okulu öğrenci projeleri izleyiciyle bir araya geldi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Aspendos_Theatre_-_panoramio.jpg/1280px-Aspendos_Theatre_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: patano / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cambridge_Film_Festival_Audience_2023.jpg/1280px-Cambridge_Film_Festival_Audience_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Kitsonian / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -15,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/altin-portakalda-belgesel-ve-kisa-filmler-izleyiciyle-bulustu-altin-portakalda-gercek-119508974
+gorsel_v2: true
 ---
 Uluslararası Antalya Altın Portakal Film Festivali kapsamında belgesel ve kısa film gösterimleri sinemaseverlerin ilgisiyle devam ediyor. Festivalde yarışma ve özel gösterim kategorilerinde yer alan birbirinden farklı yapımlar beyaz perdeye taşınırken, gösterimlerin ardından yönetmenler ve film ekipleri izleyicilerin sorularını yanıtladı.
 

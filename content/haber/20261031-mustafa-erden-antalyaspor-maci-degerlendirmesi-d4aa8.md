@@ -2,8 +2,8 @@
 title: Mustafa Er'den Antalyaspor maçı değerlendirmesi
 date: '2026-10-31T20:20:28+03:00'
 ozet: Yoğun maç takvimi ve Antalyaspor deplasmanı öncesi açıklamalarda bulunan teknik adam, oyuncu tercihlerine ve gelecek haftaki karşılaşmaya değindi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Antalya_Arena_%C4%B0n%C5%9Faat%C4%B1_-_Nisan_2015.JPG/1280px-Antalya_Arena_%C4%B0n%C5%9Faat%C4%B1_-_Nisan_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: The original uploader was E-92 at Turkish Wikipedia . / Wikimedia Commons (CC BY 2.5)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Shrewsbury_Schoolboys_v_Stafford_football_match_%281463473%29.jpg/1280px-Shrewsbury_Schoolboys_v_Stafford_football_match_%281463473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Geoff Charles / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -15,6 +15,7 @@ otomatik: true
 yz: true
 kaynak: Bursasporluyuz
 kaynak_url: https://www.bursasporluyuz.org/mustafa-er-suphemiz-yoktu/
+gorsel_v2: true
 ---
 Sahada sergilenen futboldan duyduğu memnuniyeti dile getiren Mustafa Er, maç boyunca rakibe pozisyon şansı tanımadıklarını ve müsabakayı daha farklı bir skorla bitirebileceklerini belirtti. Karşılaşmaya arzulu bir giriş yaparak erken buldukları gollerle oyunun hakimiyetini ellerine aldıklarını kaydeden Er, maçın ikinci devresinde bazı futbolcuları korumak amacıyla oyuncu değişikliklerine gittiklerini ifade etti.
 
