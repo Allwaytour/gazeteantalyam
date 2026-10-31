@@ -11,7 +11,11 @@
 </div></div>
 <header class="baslik"><div class="kap">
   <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="87" height="64"></a>
-  {{ with site.Data.site.reklam_banner }}<a class="ust-reklam" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="Reklam: {{ site.Data.site.reklam_ad }}"><img src="{{ . | relURL }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320"></a>{{ end }}
+  {{ with site.Data.site.reklam_banner }}
+    {{ $src := . | relURL }}
+    {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $src = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
+    <a class="ust-vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}"><img src="{{ $src }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz></a>
+  {{ end }}
   <div class="baslik-sag">
     <form class="ara-form" action="{{ "arama/" | relURL }}" role="search">
       <label class="gizli" for="q">Haberlerde ara</label>
