@@ -31,3 +31,15 @@ summaryLength = 30
 [markup.goldmark.renderer]
   unsafe = true
 
+
+# static/images klasörü ayrıca "assets/img" olarak da kullanılabilsin (görseli yeniden adlandırmak için)
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static/images"
+    target = "assets/img"
