@@ -236,12 +236,12 @@ footer a:hover{color:#ffb79e}
 .yorumlar{margin-top:26px}
 @media (max-width:640px){.yazar-profil{flex-direction:column;align-items:center;text-align:center}}
 
-/* Üst reklam alanı */
-.ust-reklam{flex:1;display:flex;justify-content:center;min-width:0}
-.ust-reklam img{height:110px;width:auto;max-width:100%;object-fit:contain;border-radius:8px}
-@media (max-width:1100px){.ust-reklam img{height:90px}}
+/* Üst vitrin (banner) alanı */
+.ust-vitrin{flex:1;display:flex;justify-content:center;min-width:0}
+.ust-vitrin img{height:110px;width:auto;max-width:100%;object-fit:contain;border-radius:8px}
+@media (max-width:1100px){.ust-vitrin img{height:90px}}
 @media (max-width:860px){
   .baslik .kap{flex-wrap:wrap}
-  .ust-reklam{order:3;flex-basis:100%}
-  .ust-reklam img{height:auto;width:100%}
+  .ust-vitrin{order:3;flex-basis:100%}
+  .ust-vitrin img{height:auto;width:100%}
 }
