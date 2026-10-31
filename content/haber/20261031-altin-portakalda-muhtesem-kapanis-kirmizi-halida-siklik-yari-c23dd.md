@@ -2,8 +2,8 @@
 title: 'Altın Portakal''da muhteşem kapanış: Kırmızı halıda şıklık yarışı'
 date: '2026-10-31T22:32:22+03:00'
 ozet: Antalya'da düzenlenen 63. Uluslararası Antalya Altın Portakal Film Festivali, Cam Piramit'teki kapanış galasıyla sona erdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Emma_Stone_on_the_red_carpet_at_the_Battle_of_the_Sexes_London_gala_%2837526244772%29.jpg/1280px-Emma_Stone_on_the_red_carpet_at_the_Battle_of_the_Sexes_London_gala_%2837526244772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)'
+gorsel: https://images.unsplash.com/photo-1736766920028-ee18c15c02ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cmVkJTIwY2FycGV0JTIwbW92aWUlMjBnYWxhfGVufDF8MHx8fDE3OTM0ODU3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Euronewsweek Media / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-sinema-gecesi-kirmizi-halida-stil-ve-heyecan-385636
-gorsel_v3: true
+gorsel_v4: true
 ---
 Antalya Büyükşehir Belediyesi ev sahipliğinde gerçekleştirilen 63. Uluslararası Antalya Altın Portakal Film Festivali, 24-31 Ekim tarihleri arasındaki programını tamamladı. Cam Piramit'te düzenlenen kapanış galası ve ödül töreni öncesinde gerçekleştirilen geleneksel kırmızı halı geçişi, sinema dünyasının tanınmış isimleri ile genç yeteneklerin şıklık yarışına sahne oldu.
 
