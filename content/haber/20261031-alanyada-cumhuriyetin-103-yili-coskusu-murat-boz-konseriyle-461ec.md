@@ -2,8 +2,8 @@
 title: Alanya'da Cumhuriyet'in 103. yılı coşkusu Murat Boz konseriyle taçlandı
 date: '2026-10-31T22:25:26+03:00'
 ozet: Alanya'da Cumhuriyet'in 103'üncü yıl dönümü kutlamaları kapsamında binlerce kişinin katılımıyla fener alayı düzenlendi. Ardından sahne alan Murat Boz, sevilen şarkılarını seslendirirken bir klibini bu ilçede çekeceğinin sözünü verdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Harbourfront_Centre_Concert_Stage_offseason.jpg/1280px-Harbourfront_Centre_Concert_Stage_offseason.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Qviri / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1651910031211-42aaa52b87cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cmVwdWJsaWMlMjBkYXklMjBjb25jZXJ0JTIwY3Jvd2R8ZW58MXwwfHx8MTc5MzQ4NTUzNXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Temsili fotoğraf: Abhinav Sharma / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Medya Gazete
 kaynak_url: https://www.medyagazete.com/haber/unlu-popcu-murat-boz-alanyada-sahne-aldi-klip-sozu-verdi
-gorsel_v3: true
+gorsel_v4: true
 ---
 Alanya'da Cumhuriyet'in 103'üncü yıl dönümü, Alanya Belediyesi ile Alanya Kent Konseyi ortaklığında organize edilen etkinliklerle coşkuyla kutlandı. Atatürk Anıtı önünde başlayan program, Cumhuriyet meşalesinin yakılması ve binlerce vatandaşın katıldığı fener alayı ile devam etti. Kutlamalara yerel yöneticiler, siyasi parti temsilcileri, sivil toplum kuruluşları ve çok sayıda vatandaş iştirak etti. Ellerinde Türk bayraklarıyla Atatürk Caddesi ve İskele Caddesi'nde yürüyen kalabalık, marşlar eşliğinde kutlama coşkusunu sokaklara taşıdı.
 
