@@ -315,6 +315,7 @@ ILCE_SORGU = {
 }
 # Yer fotoğrafı (ilçe manzarası) yalnızca bu kategorilerde yedek olarak kullanılır
 YER_UYGUN = {"Gündem", "Turizm", "Kültür-Sanat", "Yaşam", "Ekonomi"}
+ESKI_FOTO = re.compile(r"\b1[89]\d\d\b|historic|vintage|black.and.white|\bbw\b|postcard|engraving|painting|drawing|illustration", re.I)
 ISTENMEYEN = re.compile(r"map|logo|flag|coat|diagram|chart|plan|seal|emblem|icon|portrait|signature|poster|screenshot|harita|bayra", re.I)
 
 
@@ -323,7 +324,7 @@ def commons_ara(arsiv, sorgu):
     sorgu = (sorgu or "").strip()
     if not sorgu:
         return []
-    anahtar_ = "q:" + sorgu.lower()
+    anahtar_ = "q2:" + sorgu.lower()
     if anahtar_ in arsiv:
         return arsiv[anahtar_]
     sonuc = []
@@ -333,8 +334,14 @@ def commons_ara(arsiv, sorgu):
             "gsrsearch": f"{sorgu} filetype:bitmap", "prop": "imageinfo", "iiprop": "url|size|extmetadata", "iiurlwidth": 1200,
         }, timeout=25)
         sayfalar = sorted((r.json().get("query", {}).get("pages", {}) or {}).values(), key=lambda p: p.get("index", 99))
+        kelime = [k for k in re.findall(r"[a-zçğıöşü]{3,}", sorgu.lower()) if k not in ("the", "and", "with")]
+        def puan(p):  # dosya adında arama kelimelerinden kaçı geçiyor
+            ad = p.get("title", "").lower()
+            return sum(1 for k in kelime if k[:5] in ad)
+        sayfalar = [p for p in sayfalar if puan(p) >= min(2, len(kelime))]
+        sayfalar.sort(key=lambda p: (-puan(p), p.get("index", 99)))
         for s in sayfalar:
-            if ISTENMEYEN.search(s.get("title", "")):
+            if ISTENMEYEN.search(s.get("title", "")) or ESKI_FOTO.search(s.get("title", "")):
                 continue
             ii = (s.get("imageinfo") or [{}])[0]
             meta = ii.get("extmetadata", {})
@@ -391,7 +398,7 @@ def md_yaz(h, yz, foto, kaynak_url):
         "ozet": re.sub(r"\s+", " ", (yz or {}).get("spot") or h["ozet"] or "").strip(),
         "gorsel": foto["url"] if foto else "",
         "gorsel_kredi": foto["kredi"] if foto else "",
-        "gorsel_v2": True,
+        "gorsel_v3": True,
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "manset": False,
@@ -422,14 +429,15 @@ def duzenle_eskiler(arsiv, yz_acik, limit=15):
                 os.remove(yol)
                 print("Özet sayfası silindi:", ad)
                 continue
-            if "\ngorsel_v2: true" in icerik or not yz_acik or yenilenen >= limit:
+            if "\ngorsel_v3: true" in icerik or not yz_acik or yenilenen >= limit:
                 continue
             on, govde = icerik[4:].split("\n---\n", 1)
             v = yaml.safe_load(on)
             arama = yz_gorsel_arama(v.get("title", ""), v.get("ozet", ""))
             foto = konu_foto(arsiv, arama, (v.get("kategoriler") or ["Gündem"])[0], (v.get("ilceler") or [""])[0], v.get("kaynak_url", ad))
             v["gorsel"], v["gorsel_kredi"] = (foto["url"], foto["kredi"]) if foto else ("", "")
-            v["gorsel_v2"] = True
+            v.pop("gorsel_v2", None)
+            v["gorsel_v3"] = True
             with open(yol, "w", encoding="utf-8") as f:
                 f.write("---\n" + yaml.safe_dump(v, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde)
             yenilenen += 1
@@ -496,7 +504,7 @@ def main():
     limit = int(ayar.get("tur_basina_haber", 6))
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
-    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith("q:")}
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith("q2:")}
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
