@@ -2,9 +2,8 @@
 title: COP31 iklim zirvesine Antalya ev sahipliği yapacak
 date: '2026-10-31T17:23:26+03:00'
 ozet: Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin ev sahipliğinde düzenlenecek COP31 zirvesinin Antalya'da gerçekleştirileceğini açıkladı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Governor_of_New_Jersey_Chris_Christie.._at_New_Hampshire_Education_Summit_The_Seventy-Four_August_19th%2C_2015_by_Michael_Vadon_10.jpg/1280px-Governor_of_New_Jersey_Chris_Christie.._at_New_Hampshire_Education_Summit_The_Seventy-Four_August_19th%2C_2015_by_Michael_Vadon_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Michael Vadon / Wikimedia Commons (CC BY-SA 4.0)'
-gorsel_v2: true
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Stachys_aleurites_from_Antalya_City_by_David_Merrick_01.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -15,6 +14,7 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/politika/bakan-kurum-turkiye-nin-cop31-e-antalya-da-ev-20383755-haberi/
+gorsel_v3: true
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31'e ev sahipliği yapacağını ve zirvenin Antalya'da düzenleneceğini duyurdu. Gerçekleştirilecek buluşmada dünyanın dört bir yanından devlet başkanları, uluslararası kuruluşlar, bilim insanları, iş dünyası ve sivil toplum temsilcilerinin bir araya geleceğini belirten Kurum, iklim, çevre, enerji ve insanlığın ortak geleceğinin bu toplantıda ele alınacağını ifade etti.
 

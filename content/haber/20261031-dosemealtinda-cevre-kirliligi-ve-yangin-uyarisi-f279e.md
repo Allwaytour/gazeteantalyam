@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/yeni-partili-baskan-cottan-cevre-kirliligine-karsi-cagri
-gorsel_v2: true
+gorsel_v3: true
 ---
 Yeni Parti Döşemealtı İlçe Başkanı Veli Çot, çevre kirliliğine karşı vatandaşlara yönelik önemli uyarılarda bulundu. Doğaya atılan çöplerin ekosisteme büyük zarar verdiğini belirten Çot, özellikle cam şişelerin yarattığı risklerin altını çizdi.
 
