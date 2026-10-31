@@ -1,0 +1,26 @@
+---
+title: Gazipaşa'daki Karayolları taşınmazı özelleştirme listesinde
+date: '2026-10-31T12:49:19+03:00'
+ozet: Cumhurbaşkanı kararıyla Türkiye genelindeki 37 kamu mülkü özelleştirme kapsamına alınırken, Antalya'nın Gazipaşa ilçesindeki bir arazi de satış listesine dahil edildi.
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg/1280px-Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Selçuk Kara / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_v4: true
+kategoriler:
+- Ekonomi
+ilceler:
+- Gazipaşa
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Antalya Hürses
+kaynak_url: https://www.antalyahurses.com/gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde/560711
+---
+Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı doğrultusunda, Türkiye genelinde Karayolları Genel Müdürlüğü mülkiyetinde bulunan 37 taşınmazın satış yoluyla özelleştirilmesinin önü açıldı. Ülke genelindeki 17 farklı ili kapsayan kararın Antalya ayağında, Gazipaşa ilçesi yer aldı.
+
+Alınan karar çerçevesinde, Gazipaşa'nın Çobanlar Mahallesi'nde bulunan 135 ada 5 parsel numaralı, mülkiyetin tamamı Karayolları Genel Müdürlüğü'ne ait olan taşınmaz özelleştirme kapsamına alındı. Satış süreçlerinin Özelleştirme İdaresi Başkanlığı tarafından yürütüleceği ve işlemlerin en geç 31 Aralık 2028 tarihine kadar tamamlanmasının hedeflendiği belirtildi. Devir işlemleri sonuçlanıncaya kadar arazinin bakım, onarım ve işletme sorumluluğu ile elde edilecek gelirler Karayolları Genel Müdürlüğü'nde kalmaya devam edecek.
+
+Özelleştirme sürecinden elde edilecek gelirlerin kullanım alanları da belirlendi. Gerekli masraflar düşüldükten sonra kalan tutarın, Karayolları Genel Müdürlüğü'nün yatırım ve hizmetlerinde değerlendirileceği kaydedildi. Kaynağın bir kısmının depremden etkilenen illerdeki yapıların yenilenmesi ile bölünmüş yol, devlet ve il yollarının yapım, bakım ve kamulaştırma çalışmalarına aktarılacağı ifade edildi.
+
+Gazipaşa'daki arazinin yanı sıra Aydın, Ankara, Van, İzmir ve Sivas gibi farklı illerdeki toplam 36 taşınmaz daha aynı karar kapsamında satış listesine eklendi. Listede en fazla taşınmazın yer aldığı il Aydın olurken, süreçle ilgili çalışmaların belirlenen takvim çerçevesinde sürdürüleceği bildirildi.
