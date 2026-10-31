@@ -61,8 +61,20 @@ def anahtar(baslik):
     return re.sub(r"[^\wçğıöşü]", "", tr_kucuk(baslik))[:70]
 
 
+ONEMSIZ = set("ve ile için da de bir bu şu o en çok daha olarak oldu olan gibi kadar sonra önce yeni antalya antalyada antalyanın ın in un ün".split())
+
+
+def kelimeler(s):
+    s = re.sub(r"['’‘]\w*", "", tr_kucuk(s))
+    return {k[:6] for k in re.findall(r"[\wçğıöşü]+", s) if len(k) > 2 and k not in ONEMSIZ}
+
+
 def benzer(a, b):
-    return difflib.SequenceMatcher(None, anahtar(a), anahtar(b)).ratio()
+    """İki başlığın aynı olayı anlatıp anlatmadığını tahmin eder (0-1)."""
+    oran = difflib.SequenceMatcher(None, anahtar(a), anahtar(b)).ratio()
+    ka, kb = kelimeler(a), kelimeler(b)
+    ortak = len(ka & kb) / max(1, min(len(ka), len(kb))) if ka and kb else 0
+    return max(oran, ortak * 0.9)
 
 
 # İlçe adları ve ilçeye bağlı bilinen yerler
@@ -288,8 +300,8 @@ ARSIV_SORGULARI = {
     "Demre": "Demre Myra", "Gazipaşa": "Gazipaşa", "Elmalı": "Elmalı", "Korkuteli": "Korkuteli", "Aksu": "Perge",
     "Döşemealtı": "Döşemealtı", "Akseki": "Akseki", "İbradı": "İbradı", "Gündoğmuş": "Gündoğmuş",
     "Spor": "Antalya Stadium", "Turizm": "Antalya hotel beach", "Kültür-Sanat": "Aspendos theatre",
-    "Sağlık": "Akdeniz University hospital", "Eğitim": "Akdeniz University", "Ekonomi": "Antalya greenhouse",
-    "Yaşam": "Antalya Düden waterfall", "Asayiş": "Türkiye polis aracı", "Gündem": "Antalya Hadrian Gate",
+    "Sağlık": "Turkey ambulance", "Eğitim": "Akdeniz University", "Ekonomi": "Antalya greenhouse",
+    "Yaşam": "Antalya Düden waterfall", "Asayiş": "Turkish police car", "Gündem": "Antalya Hadrian Gate",
 }
 
 
@@ -407,7 +419,7 @@ def main():
     # 2) Benzerleri ayıkla
     secilen = []
     for h in adaylar:
-        if any(benzer(h["baslik"], g["baslik"]) > 0.6 for g in gorulen + secilen):
+        if any(benzer(h["baslik"], g["baslik"]) > 0.6 for g in [x for x in gorulen if x["ts"] > simdi - 2 * 86400] + secilen):
             gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
             continue
         secilen.append(h)
@@ -439,6 +451,10 @@ def main():
             except Exception as e:
                 print("   Yapay zekâ hatası:", e)
                 yz = None
+        if yz and any(benzer(yz.get("baslik", ""), g["baslik"]) > 0.6 for g in gorulen if g["ts"] > simdi - 2 * 86400):
+            print("   Aynı olay daha önce yazılmış, atlandı.")
+            gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
+            continue
         if not yz and not h["ozet"] and metin:
             h["ozet"] = temizle(metin, 260)
         foto = None
@@ -452,6 +468,8 @@ def main():
         dosya = md_yaz(h, yz, foto, url)
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
         gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
+        if yz:
+            gorulen.append({"link": h["link"] + "#yz", "baslik": yz.get("baslik", ""), "ts": simdi})
         yazilan += 1
 
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
