@@ -32,7 +32,8 @@ DURUM_DOSYA = os.path.join(KOK, "data", "otomatik_durum.json")
 ARSIV_DOSYA = os.path.join(KOK, "data", "foto_arsivi.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
-PEXELS_KEY = os.environ.get("PEXELS_API_KEY", "").strip()
+UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
+FOTO_SAYAC = {"istek": 0}  # bu turdaki fotoğraf servisi istek sayısı (kota koruması)
 
 KOSE_RE = re.compile(r"/(yazar|yazarlar|kose-?yazi|kose|koseyazisi|makale|makaleler|yorum|column|columnist|author|gorus)[/-]|köşe yazısı|yazının devamı")
 
@@ -362,33 +363,59 @@ def commons_ara(arsiv, sorgu):
     return sonuc
 
 
-def pexels_ara(arsiv, sorgu):
-    """Pexels'te konuya uygun yatay fotoğraflar (ücretsiz lisans, önbellekli)."""
+def foto_ara(arsiv, sorgu):
+    """Konuya uygun yatay fotoğraflar: Unsplash anahtarı varsa Unsplash, yoksa Openverse (anahtarsız)."""
     sorgu = (sorgu or "").strip()
-    if not sorgu or not PEXELS_KEY:
+    if not sorgu:
         return []
-    anahtar_ = "px:" + sorgu.lower()
+    anahtar_ = ("us:" if UNSPLASH_KEY else "ov:") + sorgu.lower()
     if anahtar_ in arsiv:
         return arsiv[anahtar_]
+    if FOTO_SAYAC["istek"] >= (20 if UNSPLASH_KEY else 4):
+        return []
+    FOTO_SAYAC["istek"] += 1
+    sonuc = []
     try:
-        r = requests.get("https://api.pexels.com/v1/search", headers={"Authorization": PEXELS_KEY},
-                         params={"query": sorgu, "orientation": "landscape", "per_page": 8}, timeout=20)
-        r.raise_for_status()
-        sonuc = [{"url": f["src"].get("landscape") or f["src"]["large"], "kredi": f"{f.get('photographer', '')} / Pexels"}
-                 for f in r.json().get("photos", [])]
+        if UNSPLASH_KEY:
+            r = requests.get("https://api.unsplash.com/search/photos", headers={"Authorization": f"Client-ID {UNSPLASH_KEY}"},
+                             params={"query": sorgu, "orientation": "landscape", "per_page": 10, "content_filter": "high"}, timeout=20)
+            r.raise_for_status()
+            for f in r.json().get("results", []):
+                sonuc.append({"url": f["urls"]["regular"], "kredi": f"{f['user']['name']} / Unsplash",
+                              "indir": f.get("links", {}).get("download_location", "")})
+        else:
+            r = requests.get("https://api.openverse.org/v1/images/", headers={"User-Agent": "GazeteAntalya/1.0 (iletisim@gazeteantalyam.com)"},
+                             params={"q": sorgu, "license_type": "commercial", "category": "photograph", "aspect_ratio": "wide",
+                                     "size": "large", "mature": "false", "page_size": 10}, timeout=25)
+            r.raise_for_status()
+            for f in r.json().get("results", []):
+                if ESKI_FOTO.search(f.get("title") or "") or ISTENMEYEN.search(f.get("title") or ""):
+                    continue
+                lisans = f"CC {str(f.get('license', '')).upper()} {f.get('license_version') or ''}".strip()
+                sonuc.append({"url": f["url"], "kredi": f"{(f.get('creator') or 'Anonim')[:50]} ({lisans})"})
     except Exception as e:
-        print(f"   Pexels araması yapılamadı ({sorgu}): {e}")
+        print(f"   Fotoğraf araması yapılamadı ({sorgu}): {e}")
         return []
     arsiv[anahtar_] = sonuc
     return sonuc
 
 
+def unsplash_bildir(foto):
+    """Unsplash kuralı: kullanılan fotoğraf için indirme bildirimi gönderilir."""
+    if UNSPLASH_KEY and foto.get("indir"):
+        try:
+            requests.get(foto["indir"], headers={"Authorization": f"Client-ID {UNSPLASH_KEY}"}, timeout=10)
+        except Exception:
+            pass
+
+
 def konu_foto(arsiv, gorsel_arama, kategori, ilce, tohum):
-    """Önce konuya uygun Pexels fotoğrafı; yoksa (uygun kategorilerde) ilçe manzarası; o da yoksa fotoğrafsız."""
+    """Önce konuya uygun fotoğraf (Unsplash/Openverse); yoksa (uygun kategorilerde) ilçe manzarası; o da yoksa fotoğrafsız."""
     for q in [gorsel_arama, KATEGORI_SORGU.get(kategori, "")]:
-        liste = pexels_ara(arsiv, q)
+        liste = foto_ara(arsiv, q)
         if liste:
             a = random.Random(tohum).choice(liste[:6])
+            unsplash_bildir(a)
             return {"url": a["url"], "kredi": "Temsili fotoğraf: " + a["kredi"]}
     if kategori in YER_UYGUN:
         for q in [ILCE_SORGU.get(ilce, ""), "Antalya Kaleiçi"]:
@@ -424,7 +451,7 @@ def md_yaz(h, yz, foto, kaynak_url):
         "ozet": re.sub(r"\s+", " ", (yz or {}).get("spot") or h["ozet"] or "").strip(),
         "gorsel": foto["url"] if foto else "",
         "gorsel_kredi": foto["kredi"] if foto else "",
-        "gorsel_v4": bool(PEXELS_KEY),
+        "gorsel_v4": True,
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "manset": False,
@@ -441,7 +468,7 @@ def md_yaz(h, yz, foto, kaynak_url):
     return dosya
 
 
-def duzenle_eskiler(arsiv, yz_acik, limit=15):
+def duzenle_eskiler(arsiv, yz_acik, limit=6):
     """Özet sayfalarını siler; eski haberlerin fotoğraflarını konuya uygun temsili fotoğraflarla yeniler."""
     yenilenen = 0
     for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
@@ -455,7 +482,7 @@ def duzenle_eskiler(arsiv, yz_acik, limit=15):
                 os.remove(yol)
                 print("Özet sayfası silindi:", ad)
                 continue
-            if "\ngorsel_v4: true" in icerik or not yz_acik or not PEXELS_KEY or yenilenen >= limit:
+            if "\ngorsel_v4: true" in icerik or not yz_acik or yenilenen >= limit:
                 continue
             on, govde = icerik[4:].split("\n---\n", 1)
             v = yaml.safe_load(on)
@@ -531,7 +558,7 @@ def main():
     limit = int(ayar.get("tur_basina_haber", 6))
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
-    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("q2:", "px:"))}
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("q2:", "us:", "ov:"))}
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
