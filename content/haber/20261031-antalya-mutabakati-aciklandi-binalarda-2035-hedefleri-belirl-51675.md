@@ -2,8 +2,8 @@
 title: 'Antalya Mutabakatı Aciklandi: Binalarda 2035 Hedefleri Belirlendi'
 date: '2026-10-31T22:56:44+03:00'
 ozet: COP31 Turkiye Baskanligi tarafindan duyurulan Antalya Mutabakati, binalarda enerji verimliligini artirmayi ve karbon emisyonlarini azaltmayi hedefliyor.
-gorsel: https://www.dogayidinle.com/uploads/cop31-antalya-mutabakati-aciklandi-binalarda-2035e-kadar-yuzde-25-enerji-verimliligi-hedefi-1793476473.webp
-gorsel_kredi: 'Fotoğraf: Doğayı Dinle'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Antalya_Kaleici_museum_5860.jpg/1280px-Antalya_Kaleici_museum_5860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:

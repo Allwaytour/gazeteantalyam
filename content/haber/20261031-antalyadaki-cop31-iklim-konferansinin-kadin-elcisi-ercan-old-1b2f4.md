@@ -2,8 +2,8 @@
 title: Antalya'daki COP31 İklim Konferansı'nın Kadın Elçisi Ercan Oldu
 date: '2026-10-31T22:39:43+03:00'
 ozet: AK Parti Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, Antalya'da yapılacak COP31'in Kadın Elçisi görevine getirildi.
-gorsel: https://foto.haberler.com/haber/2026/10/31/antalya-daki-cop31-in-kadin-elciligine-tugba-20384300_amp.jpg
-gorsel_kredi: 'Fotoğraf: Haberler'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/HADRIAN%27S_GATE_-ANTALYA_-_panoramio.jpg/1280px-HADRIAN%27S_GATE_-ANTALYA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: HALUK COMERTEL / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Gündem
 ilceler: []

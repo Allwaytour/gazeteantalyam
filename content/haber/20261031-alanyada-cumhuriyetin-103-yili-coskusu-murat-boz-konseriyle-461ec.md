@@ -2,8 +2,8 @@
 title: Alanya'da Cumhuriyet'in 103. yılı coşkusu Murat Boz konseriyle taçlandı
 date: '2026-10-31T22:25:26+03:00'
 ozet: Alanya'da Cumhuriyet'in 103'üncü yıl dönümü kutlamaları kapsamında binlerce kişinin katılımıyla fener alayı düzenlendi. Ardından sahne alan Murat Boz, sevilen şarkılarını seslendirirken bir klibini bu ilçede çekeceğinin sözünü verdi.
-gorsel: https://www.medyagazete.com/images/contents/news/2026/10/unlu-popcu-murat-boz-alanyada-sahne-aldi-klip-sozu-verdi-01m6925wqveges6rb4wjv98ptn-detail.webp
-gorsel_kredi: 'Fotoğraf: Medya Gazete'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Alanya_Castle%2C_Citadel%2C_December_2023.jpg/1280px-Alanya_Castle%2C_Citadel%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Kawon Kez Sel / Wikimedia Commons (CC0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:

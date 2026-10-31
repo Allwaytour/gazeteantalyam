@@ -2,8 +2,8 @@
 title: AK Parti Kadın Kolları Başkanı Ercan COP31 Kadın Elçisi Oldu
 date: '2026-10-31T22:43:10+03:00'
 ozet: AK Parti Genel Merkez Kadın Kolları Başkanı Tuğba Işık Ercan, Antalya'da gerçekleştirilecek COP31'in Kadın Elçisi olarak görevlendirildi.
-gorsel: https://foto.sondakika.com/crop/1210x0/haber/2026/10/31/antalya-daki-cop31-in-kadin-elciligine-tugba-20384300_sd.jpg
-gorsel_kredi: 'Fotoğraf: Son Dakika'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Antalya_Kaleici_museum_5860.jpg/1280px-Antalya_Kaleici_museum_5860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
