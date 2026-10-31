@@ -33,6 +33,8 @@ ARSIV_DOSYA = os.path.join(KOK, "data", "foto_arsivi.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
 
+KOSE_RE = re.compile(r"/(yazar|yazarlar|kose-?yazi|kose|koseyazisi|makale|makaleler|yorum|column|columnist|author|gorus)[/-]|köşe yazısı|yazının devamı")
+
 KATEGORILER = ["Gündem", "Asayiş", "Ekonomi", "Turizm", "Spor", "Sağlık", "Eğitim", "Kültür-Sanat", "Yaşam"]
 
 
@@ -263,7 +265,8 @@ Kurallar:
 - Başlık en fazla 90 karakter, dikkat çekici ama abartısız olsun (tamamı büyük harf, ünlem ve tık tuzağı yok).
 - Spot 1-2 cümle olsun.
 - Metin 3-6 paragraf, toplam 150-350 kelime olsun. Paragrafları boş satırla ayır. Başlık/alt başlık, madde işareti kullanma.
-- Kaynak metin bir haber değilse (reklam, liste, video sayfası, çok kısa vb.) veya Antalya ile ilgisi yoksa "uygun": false döndür.
+- Metinde hiçbir gazete, ajans, site ya da muhabir adını kaynak olarak anma ("... haberine göre", "... muhabirinin aktardığı" gibi ifadeler kullanma).
+- Kaynak metin bir haber değilse "uygun": false döndür. Şunlar haber DEĞİLDİR: köşe yazısı, makale, yorum/görüş yazısı, deneme, anı, röportaj-söyleşi, reklam/tanıtım içeriği, liste, video/galeri sayfası, çok kısa metinler. Antalya ile ilgisi yoksa da "uygun": false döndür.
 
 Yalnızca şu biçimde JSON döndür:
 {"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>"}
@@ -368,6 +371,31 @@ def md_yaz(h, yz, foto, kaynak_url):
     return dosya
 
 
+def duzenle_eskiler(arsiv):
+    """Yapay zekâsız özet sayfalarını siler; kaynak fotoğraflarını arşiv fotoğraflarıyla değiştirir."""
+    for ad in os.listdir(HABER_KLASOR):
+        yol = os.path.join(HABER_KLASOR, ad)
+        try:
+            with open(yol, encoding="utf-8") as f:
+                icerik = f.read()
+            if "\notomatik: true" not in icerik:
+                continue
+            if "\nyz: false" in icerik:
+                os.remove(yol)
+                print("Özet sayfası silindi:", ad)
+                continue
+            if re.search(r"\ngorsel_kredi: '?Fotoğraf: ", icerik):
+                on, govde = icerik[4:].split("\n---\n", 1)
+                v = yaml.safe_load(on)
+                a = arsiv_foto(arsiv, (v.get("ilceler") or [""])[0], (v.get("kategoriler") or ["Gündem"])[0], v.get("kaynak_url", ad))
+                v["gorsel"], v["gorsel_kredi"] = (a["url"], "Temsili fotoğraf: " + a["kredi"]) if a else ("", "")
+                with open(yol, "w", encoding="utf-8") as f:
+                    f.write("---\n" + yaml.safe_dump(v, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde)
+                print("Fotoğraf değiştirildi:", ad)
+        except Exception as e:
+            print("Düzenlenemedi:", ad, e)
+
+
 def eski_otomatikleri_sil(gun):
     sinir = datetime.now(TR) - timedelta(days=gun)
     silinen = 0
@@ -431,13 +459,17 @@ def main():
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
-        print("Yapay zekâ kapalı (GEMINI_API_KEY tanımlı değil) → özet sayfaları oluşturulacak.")
+        print("Yapay zekâ kapalı (GEMINI_API_KEY tanımlı değil) → bu turda haber eklenmeyecek.")
 
     # 3) İşle
     yazilan = 0
     for h in secilen[:limit]:
         print(f"• {h['baslik'][:80]}  [{h['kaynak']}]")
         url = gercek_url(h)
+        if KOSE_RE.search(tr_kucuk(url)) or KOSE_RE.search(tr_kucuk(h["baslik"])):
+            print("   Köşe yazısı/makale, atlandı.")
+            gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
+            continue
         metin, og = sayfa_oku(url)
         yz = None
         if yz_acik and durum["yz_bugun"] < yz_limit and len(metin) > 400:
@@ -455,12 +487,15 @@ def main():
             print("   Aynı olay daha önce yazılmış, atlandı.")
             gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
             continue
-        if not yz and not h["ozet"] and metin:
-            h["ozet"] = temizle(metin, 260)
+        if not yz:
+            print("   Yapay zekâ metni yok, yayımlanmadı.")
+            if yz_acik and len(metin) <= 400:
+                gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
+            continue
         foto = None
         kaynak_gorsel = h["gorsel"] or og
-        if kaynak_gorsel and ayar.get("kaynak_gorseli", True):
-            foto = {"url": kaynak_gorsel, "kredi": f"Fotoğraf: {h['kaynak']}"}
+        if kaynak_gorsel and ayar.get("kaynak_gorseli", False):
+            foto = {"url": kaynak_gorsel, "kredi": ""}
         if not foto:
             a = arsiv_foto(arsiv, h["ilce"], h["kategori"], h["link"])
             if a:
@@ -472,6 +507,7 @@ def main():
             gorulen.append({"link": h["link"] + "#yz", "baslik": yz.get("baslik", ""), "ts": simdi})
         yazilan += 1
 
+    duzenle_eskiler(arsiv)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()
