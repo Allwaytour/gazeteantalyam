@@ -2,8 +2,8 @@
 title: Akdeniz ve Karadeniz balıkçılığı için Roma'da yeni kararlar alındı
 date: '2026-10-31T17:52:00+03:00'
 ozet: Akdeniz Genel Balıkçılık Komisyonu'nun Roma'da gerçekleştirdiği kritik oturumda, tükenme tehlikesindeki stokları korumak ve yasa dışı avcılığı önlemek amacıyla bağlayıcı kararlar yürürlüğe girdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Hadrian%27s_Gate%2C_Antalya_01.jpg/1280px-Hadrian%27s_Gate%2C_Antalya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg/1280px-Stachys_aleurites_from_Antalya_City_by_David_Merrick_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Temsili fotoğraf: Meteorquake / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -14,6 +14,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/akdenizde-balikciligi-kurtaracak-11-baglayici-karar-romada-alindi/388405
+gorsel_v3: true
 ---
 Birleşmiş Milletler Gıda ve Tarım Örgütü bünyesindeki Akdeniz Genel Balıkçılık Komisyonu, İtalya'nın başkenti Roma'da 25 kıyı ülkesinin katılımıyla önemli bir oturum düzenledi. Gerçekleştirilen toplantıda, bölgedeki su ürünleri stoklarını korumak, yasa dışı avcılık faaliyetlerini engellemek ve su ürünleri yetiştiriciliğini çevre standartlarına uygun hale getirmek amacıyla 11 bağlayıcı tavsiye kararı ile 2 karar kabul edildi.
 

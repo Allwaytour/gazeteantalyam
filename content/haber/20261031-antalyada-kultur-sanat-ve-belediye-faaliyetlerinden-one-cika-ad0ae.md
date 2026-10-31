@@ -14,7 +14,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-gundeminden-secmeler-31-ekim
-gorsel_v2: true
+gorsel_v3: true
 ---
 Antalya'da bu yıl 63'üncüsü gerçekleştirilen Antalya Altın Portakal Film Festivali'nin kapanış ve ödül töreni öncesinde kırmızı halıda şıklık yarışı yaşandı. Festival kapsamında izleyiciyle buluşan 'Anadolu'nun Kayıp Pençeleri' filminin 24 yaşındaki yönetmeni yüzde 90 fiziksel engelli Mert Can Altun, yapay zeka teknolojisini kullanarak tek eli ve 3 parmağıyla yapımlar ortaya koyduğunu belirtti. Ulusal ve uluslararası alanda ödüller kazanan Altun, gelecekte Hollywood'da film yapmayı hedefliyor.
 

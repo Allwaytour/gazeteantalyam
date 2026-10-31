@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/altin-portakalda-belgesel-ve-kisa-filmler-izleyiciyle-bulustu-altin-portakalda-gercek-119508974
-gorsel_v2: true
+gorsel_v3: true
 ---
 Uluslararası Antalya Altın Portakal Film Festivali kapsamında belgesel ve kısa film gösterimleri sinemaseverlerin ilgisiyle devam ediyor. Festivalde yarışma ve özel gösterim kategorilerinde yer alan birbirinden farklı yapımlar beyaz perdeye taşınırken, gösterimlerin ardından yönetmenler ve film ekipleri izleyicilerin sorularını yanıtladı.
 

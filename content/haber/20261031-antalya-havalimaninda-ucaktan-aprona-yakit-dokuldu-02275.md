@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Herdem Aviation
 kaynak_url: https://herdemaviation.com/sunexpress-ucagindan-antalya-havalimaninda-aprona-yakit-dokuldu/
-gorsel_v2: true
+gorsel_v3: true
 ---
 Antalya Havalimanı'nda sefer için hazırlık yapan bir yolcu uçağında henüz belirlenemeyen bir nedenle aprona yakıt dökülmesi olayı yaşandı.
 

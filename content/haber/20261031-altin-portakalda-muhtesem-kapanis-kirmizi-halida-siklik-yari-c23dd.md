@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-sinema-gecesi-kirmizi-halida-stil-ve-heyecan-385636
-gorsel_v2: true
+gorsel_v3: true
 ---
 Antalya Büyükşehir Belediyesi ev sahipliğinde gerçekleştirilen 63. Uluslararası Antalya Altın Portakal Film Festivali, 24-31 Ekim tarihleri arasındaki programını tamamladı. Cam Piramit'te düzenlenen kapanış galası ve ödül töreni öncesinde gerçekleştirilen geleneksel kırmızı halı geçişi, sinema dünyasının tanınmış isimleri ile genç yeteneklerin şıklık yarışına sahne oldu.
 

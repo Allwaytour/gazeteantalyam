@@ -15,7 +15,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/altintasin-imar-ve-altyapi-sorunu-masaya-yatirildi/388402
-gorsel_v2: true
+gorsel_v3: true
 ---
 Altıntaş Platformu Başkanı Atılgan Sert, bölgede devam eden yapılaşma sürecindeki aksaklıkları ve çözüm bekleyen talepleri görüşmek üzere yerel yönetim ve oda temsilcileriyle bir araya geldi. Antalya Büyükşehir Belediye Başkanı Büşra Özdemir'in ev sahipliğinde gerçekleştirilen toplantıya, Antalya Ticaret ve Sanayi Odası ile ilgili meslek odalarının yöneticileri ve Altıntaş Mahallesi Muhtarı katılım gösterdi.
 
