@@ -1,0 +1,5 @@
+{{- $o := slice -}}
+{{- range first 500 (partialCached "haberler.html" . "hepsi") -}}
+{{- $o = $o | append (dict "b" .baslik "o" (.ozet | plainify | truncate 220) "l" .link "g" .gorsel "k" .kategori "i" .ilce "t" .iso "d" .dis "s" .kaynak) -}}
+{{- end -}}
+{{- $o | jsonify -}}

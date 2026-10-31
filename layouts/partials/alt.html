@@ -1,0 +1,26 @@
+<footer><div class="kap">
+  <div class="sut">
+    <div>
+      <img src="{{ "images/logo-beyaz.png" | relURL }}" alt="{{ site.Title }}" width="95" height="70" loading="lazy">
+      <p>{{ site.Params.slogan }}. Antalya ve 19 ilçesinden güncel haberler.</p>
+      <p>Otomatik derlenen haberlerin tüm hakları ilgili yayın kuruluşlarına aittir; haberin tamamı kaynağında okunabilir.</p>
+    </div>
+    <div>
+      <h5>Kategoriler</h5>
+      <ul>{{ range site.Data.site.kategoriler }}<li><a href="{{ partial "terim-url.html" (slice "kategoriler" .) }}">{{ . }}</a></li>{{ end }}</ul>
+    </div>
+    <div>
+      <h5>Kurumsal</h5>
+      <ul style="columns:1">
+        <li><a href="{{ "kunye/" | relURL }}">Künye</a></li>
+        <li><a href="{{ "iletisim/" | relURL }}">İletişim</a></li>
+        <li><a href="{{ "gizlilik/" | relURL }}">Gizlilik Politikası</a></li>
+        <li><a href="{{ "index.xml" | relURL }}">RSS</a></li>
+        {{ with site.Data.site.instagram }}<li><a href="{{ . }}" target="_blank" rel="noopener">Instagram</a></li>{{ end }}
+        {{ with site.Data.site.x }}<li><a href="{{ . }}" target="_blank" rel="noopener">X (Twitter)</a></li>{{ end }}
+        {{ with site.Data.site.facebook }}<li><a href="{{ . }}" target="_blank" rel="noopener">Facebook</a></li>{{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="alt"><span>© {{ now.Year }} {{ site.Title }}. Tüm hakları saklıdır.</span><span>{{ site.Data.site.eposta }}</span></div>
+</div></footer>

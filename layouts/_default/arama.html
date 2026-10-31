@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="izgara">
+  <div>
+    <div class="sayfa-bas"><h1>Haberlerde Ara</h1>
+      <form action="" role="search" style="margin-top:12px;display:flex;gap:8px">
+        <label class="gizli" for="aq">Aranacak kelime</label>
+        <input id="aq" name="q" type="search" placeholder="Örn: Konyaaltı, trafik, Antalyaspor" style="flex:1;padding:11px 14px;border:1px solid var(--cizgi);border-radius:8px;font:inherit">
+        <button class="btn" style="background:var(--turuncu);color:#fff;border-radius:8px">Ara</button>
+      </form>
+    </div>
+    <p class="meta" id="arama-durum"></p>
+    <div class="liste" id="arama-sonuc"></div>
+  </div>
+  {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
+</div>
+{{ end }}

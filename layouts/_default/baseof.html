@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+{{ $baslik := cond .IsHome (printf "%s | %s" site.Title site.Params.slogan) (printf "%s | %s" .Title site.Title) }}
+<title>{{ $baslik }}</title>
+{{ $aciklama := site.Params.aciklama }}{{ with .Params.ozet }}{{ $aciklama = . }}{{ end }}
+<meta name="description" content="{{ $aciklama | plainify | truncate 160 }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
+<meta property="og:description" content="{{ $aciklama | plainify | truncate 200 }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:image" content="{{ with .Params.gorsel }}{{ . | absURL }}{{ else }}{{ "images/logo.png" | absURL }}{{ end }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#374F58">
+<link rel="icon" href="{{ "favicon.png" | relURL }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+{{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ if .IsPage }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ .Title | jsonify }},"datePublished":{{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},"dateModified":{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},{{ with .Params.gorsel }}"image":[{{ . | absURL | jsonify }}],{{ end }}"author":{"@type":"Organization","name":{{ .Params.yazar | default site.Title | jsonify }}},"publisher":{"@type":"Organization","name":{{ site.Title | jsonify }},"logo":{"@type":"ImageObject","url":{{ "images/logo.png" | absURL | jsonify }}}}}</script>
+{{ end }}
+</head>
+<body>
+{{ partial "ust.html" . }}
+<main><div class="kap">{{ block "main" . }}{{ end }}</div></main>
+{{ partial "alt.html" . }}
+{{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{{ $u := .Permalink }}{{ $t := .Title }}
+<div class="paylas">
+  <span class="meta" style="font-weight:700">Paylaş:</span>
+  <a class="p-wa" href="https://wa.me/?text={{ printf "%s %s" $t $u | urlquery }}" target="_blank" rel="noopener">WhatsApp</a>
+  <a class="p-x" href="https://x.com/intent/post?text={{ $t | urlquery }}&url={{ $u | urlquery }}" target="_blank" rel="noopener">X</a>
+  <a class="p-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ $u | urlquery }}" target="_blank" rel="noopener">Facebook</a>
+  <button class="p-kop" type="button" data-kopyala="{{ $u }}">Linki kopyala</button>
+</div>

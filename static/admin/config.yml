@@ -1,0 +1,100 @@
+# Gazete Antalya yönetim paneli ayarları (Sveltia CMS)
+backend:
+  name: github
+  repo: Allwaytour/gazeteantalyam
+  branch: main
+  commit_messages:
+    create: "Yeni haber: {{slug}}"
+    update: "Haber güncellendi: {{slug}}"
+    delete: "Haber silindi: {{slug}}"
+
+site_url: https://www.gazeteantalyam.com
+display_url: https://www.gazeteantalyam.com
+logo_url: /favicon.png
+
+media_folder: static/images/haberler
+public_folder: /images/haberler
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  - name: haber
+    label: Haberler
+    label_singular: Haber
+    description: Elle eklenen haberler. Kaydettikten 1-2 dakika sonra sitede görünür.
+    folder: content/haber
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{title}} — {{date | date('DD.MM.YYYY HH:mm')}}"
+    sortable_fields: [date, title]
+    view_filters:
+      - { label: Manşettekiler, field: manset, pattern: true }
+      - { label: Son dakika, field: son_dakika, pattern: true }
+    fields:
+      - { label: Başlık, name: title, widget: string }
+      - { label: Spot (kısa özet), name: ozet, widget: text, required: false, hint: "Başlığın altında kalın yazıyla görünür. 1-2 cümle." }
+      - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", hint: "İleri bir tarih seçerseniz haber o saatten sonraki ilk güncellemede yayımlanır." }
+      - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: false, hint: "Yatay fotoğraf önerilir (ör. 1200x750)." }
+      - label: Kategori
+        name: kategoriler
+        widget: select
+        multiple: true
+        min: 1
+        max: 1
+        default: [Gündem]
+        options: [Gündem, Asayiş, Ekonomi, Turizm, Spor, Sağlık, Eğitim, Kültür-Sanat, Yaşam]
+      - label: İlçe
+        name: ilceler
+        widget: select
+        multiple: true
+        required: false
+        options: [Akseki, Aksu, Alanya, Demre, Döşemealtı, Elmalı, Finike, Gazipaşa, Gündoğmuş, İbradı, Kaş, Kemer, Kepez, Konyaaltı, Korkuteli, Kumluca, Manavgat, Muratpaşa, Serik]
+      - { label: Manşete al, name: manset, widget: boolean, default: false, hint: "Ana sayfadaki büyük slayta eklenir." }
+      - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
+      - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
+      - { label: Haber metni, name: body, widget: markdown }
+
+  - name: sayfalar
+    label: Sayfalar
+    files:
+      - { label: Künye, name: kunye, file: content/kunye.md, fields: [ { label: Başlık, name: title, widget: string }, { label: URL, name: url, widget: hidden }, { label: İçerik, name: body, widget: markdown } ] }
+      - { label: İletişim, name: iletisim, file: content/iletisim.md, fields: [ { label: Başlık, name: title, widget: string }, { label: URL, name: url, widget: hidden }, { label: İçerik, name: body, widget: markdown } ] }
+      - { label: Gizlilik Politikası, name: gizlilik, file: content/gizlilik.md, fields: [ { label: Başlık, name: title, widget: string }, { label: URL, name: url, widget: hidden }, { label: İçerik, name: body, widget: markdown } ] }
+
+  - name: ayarlar
+    label: Ayarlar
+    files:
+      - name: site
+        label: Site Bilgileri
+        file: data/site.yaml
+        fields:
+          - { label: WhatsApp ihbar hattı, name: whatsapp, widget: string, required: false, hint: "Ülke koduyla, boşluksuz: 905551112233. Boş bırakılırsa buton gizlenir." }
+          - { label: E-posta, name: eposta, widget: string }
+          - { label: Instagram adresi, name: instagram, widget: string, required: false }
+          - { label: X (Twitter) adresi, name: x, widget: string, required: false }
+          - { label: Facebook adresi, name: facebook, widget: string, required: false }
+          - { label: Kategoriler, name: kategoriler, widget: list, hint: "Yeni kategori eklerseniz haber formundaki listeye de eklenmesi gerekir." }
+          - { label: İlçeler, name: ilceler, widget: list }
+      - name: kaynaklar
+        label: Haber Kaynakları
+        file: kaynaklar.yml
+        fields:
+          - label: Genel ayarlar
+            name: ayarlar
+            widget: object
+            fields:
+              - { label: Kaynağın görselini kullan, name: gorsel_kullan, widget: boolean, hint: "Telif riski nedeniyle kapalı tutulması önerilir." }
+              - { label: Sitede tutulacak en fazla otomatik haber, name: en_fazla_haber, widget: number, value_type: int }
+              - { label: Kaç günden eski otomatik haberler silinsin, name: en_eski_gun, widget: number, value_type: int }
+          - label: Kaynaklar
+            name: kaynaklar
+            widget: list
+            summary: "{{ad}}"
+            fields:
+              - { label: Kaynak adı, name: ad, widget: string }
+              - { label: RSS adresi, name: url, widget: string }
+              - { label: Sadece Antalya haberlerini al, name: antalya_filtresi, widget: boolean, default: true }
+              - { label: Sabit kategori (boşsa otomatik), name: kategori, widget: string, required: false }

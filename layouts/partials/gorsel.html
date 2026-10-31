@@ -1,0 +1,3 @@
+{{/* Haber görseli ya da marka renkli yer tutucu. Parametre: haber sözlüğü */}}
+{{ if .gorsel }}<img src="{{ .gorsel }}" alt="{{ .baslik }}" loading="lazy" referrerpolicy="no-referrer">
+{{ else }}<div class="yer" aria-hidden="true"><span>{{ .kategori }}</span></div>{{ end }}

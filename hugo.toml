@@ -1,0 +1,32 @@
+baseURL = "https://www.gazeteantalyam.com/"
+languageCode = "tr-TR"
+defaultContentLanguage = "tr"
+title = "Gazete Antalya"
+timeZone = "Europe/Istanbul"
+enableRobotsTXT = true
+removePathAccents = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 20
+
+[taxonomies]
+  kategori = "kategoriler"
+  ilce = "ilceler"
+
+[permalinks]
+  haber = "/haber/:filename/"
+
+[params]
+  slogan = "Antalya'nın haber merkezi"
+  aciklama = "Antalya ve ilçelerinden son dakika haberleri, gündem, asayiş, turizm, ekonomi ve spor."
+  # Hava durumu konumu (Antalya merkez)
+  enlem = 36.8969
+  boylam = 30.7133
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+

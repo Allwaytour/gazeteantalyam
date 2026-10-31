@@ -1,0 +1,19 @@
+{{/* Elle girilen ve otomatik çekilen tüm haberleri tek listede birleştirir (yeniden eskiye). */}}
+{{ $liste := slice }}
+{{ range where site.RegularPages "Section" "haber" }}
+  {{ $kat := index (.Params.kategoriler | default (slice "Gündem")) 0 }}
+  {{ $ilce := "" }}{{ with .Params.ilceler }}{{ $ilce = index . 0 }}{{ end }}
+  {{ $g := "" }}{{ with .Params.gorsel }}{{ $g = . | relURL }}{{ end }}
+  {{ $liste = $liste | append (dict
+    "baslik" .Title "ozet" (.Params.ozet | default (.Summary | plainify)) "link" .RelPermalink
+    "gorsel" $g "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false
+    "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}
+{{ end }}
+{{ range site.Data.otomatik.haberler }}
+  {{ $liste = $liste | append (dict
+    "baslik" .baslik "ozet" .ozet "link" .link "gorsel" (.gorsel | default "")
+    "ts" (int .ts) "iso" .iso "kategori" .kategori "ilce" (.ilce | default "")
+    "kaynak" .kaynak "dis" true "manset" false "son_dakika" false) }}
+{{ end }}
+{{ return sort $liste "ts" "desc" }}

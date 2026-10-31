@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $hepsi := partialCached "haberler.html" . "hepsi" }}
+{{ $alan := cond (eq .Data.Plural "ilceler") "ilce" "kategori" }}
+{{ $ad := .Title }}
+{{ $liste := slice }}
+{{ range $hepsi }}{{ if eq (index . $alan) $ad }}{{ $liste = $liste | append . }}{{ end }}{{ end }}
+<div class="izgara">
+  <div>
+    <div class="sayfa-bas"><h1>{{ $ad }}{{ if eq $alan "ilce" }} Haberleri{{ end }}</h1><p>{{ if eq $alan "ilce" }}Antalya {{ $ad }} ilçesinden{{ else }}Antalya {{ lower $ad }}{{ end }} son haberler</p></div>
+    {{ with $liste }}
+      <div class="kartlar" style="margin-bottom:20px">{{ range first 6 . }}{{ partial "kart.html" . }}{{ end }}</div>
+      {{ with after 6 . }}<div class="liste" data-sayfala="15">{{ range first 120 . }}{{ partial "liste-oge.html" . }}{{ end }}</div>
+      <button class="daha" type="button" data-daha hidden>Daha fazla haber yükle</button>{{ end }}
+    {{ else }}<div class="bos">Bu bölümde henüz haber yok. Yeni haberler eklendikçe burada görünecek.</div>{{ end }}
+  </div>
+  {{ partial "kenar.html" (dict "hepsi" $hepsi) }}
+</div>
+{{ end }}

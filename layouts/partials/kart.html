@@ -1,0 +1,8 @@
+<article class="kart">
+  <a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }} class="g">{{ partial "gorsel.html" . }}<span class="etiket">{{ .kategori }}</span></a>
+  <div class="m">
+    <h3><a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }}>{{ .baslik }}</a></h3>
+    {{ with .ozet }}<p>{{ . | plainify | truncate 180 }}</p>{{ end }}
+    {{ partial "meta.html" . }}
+  </div>
+</article>

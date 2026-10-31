@@ -1,0 +1,35 @@
+# Otomatik haber kaynakları
+# Bu dosya yönetim panelinden (Ayarlar > Haber Kaynakları) da düzenlenebilir.
+#
+# antalya_filtresi: true  -> Kaynaktaki haberlerden yalnızca Antalya veya bir ilçesi geçenler alınır
+#                          (ulusal kaynaklar için açık bırakın).
+# kategori                -> Boş bırakılırsa haberin kategorisi başlığına göre otomatik bulunur.
+
+ayarlar:
+  gorsel_kullan: false    # true yapılırsa kaynağın kendi görseli gösterilir (telif riski nedeniyle kapalı)
+  en_fazla_haber: 300     # Sitede tutulacak en fazla otomatik haber
+  en_eski_gun: 5          # Bundan eski otomatik haberler silinir
+
+kaynaklar:
+  - ad: Google Haberler – Antalya
+    url: https://news.google.com/rss/search?q=Antalya+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    antalya_filtresi: false
+  - ad: Google Haberler – İlçeler
+    url: https://news.google.com/rss/search?q=Alanya+OR+Manavgat+OR+Kemer+OR+Ka%C5%9F+OR+Serik+OR+Kumluca+OR+Finike+OR+Gazipa%C5%9Fa+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    antalya_filtresi: true
+  - ad: Google Haberler – Antalyaspor
+    url: https://news.google.com/rss/search?q=Antalyaspor+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    antalya_filtresi: false
+    kategori: Spor
+  - ad: TRT Haber
+    url: https://www.trthaber.com/turkiye_articles.rss
+    antalya_filtresi: true
+  - ad: TRT Haber
+    url: https://www.trthaber.com/gundem_articles.rss
+    antalya_filtresi: true
+  - ad: TRT Haber
+    url: https://www.trthaber.com/sondakika_articles.rss
+    antalya_filtresi: true
+  - ad: Anadolu Ajansı
+    url: https://www.aa.com.tr/tr/rss/default?cat=guncel
+    antalya_filtresi: true

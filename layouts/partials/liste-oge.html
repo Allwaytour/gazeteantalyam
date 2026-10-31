@@ -1,0 +1,9 @@
+<article class="liste-oge">
+  <a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }} class="g">{{ partial "gorsel.html" . }}</a>
+  <div>
+    <span class="etiket">{{ .kategori }}</span>
+    <h3><a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }}>{{ .baslik }}</a></h3>
+    {{ with .ozet }}<p>{{ . | plainify | truncate 200 }}</p>{{ end }}
+    {{ partial "meta.html" . }}
+  </div>
+</article>
