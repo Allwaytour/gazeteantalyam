@@ -41,6 +41,7 @@
 
   // Yüklenemeyen fotoğrafların yerine marka renkli yer tutucu koy
   function gorselHata(img) {
+    if (img.hasAttribute("data-yedeksiz")) return;
     var d = document.createElement("div"); d.className = "yer"; d.setAttribute("aria-hidden", "true");
     var fig = img.closest("figure.kapak"); if (fig) { fig.remove(); return; }
     img.replaceWith(d);
