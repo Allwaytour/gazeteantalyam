@@ -15,13 +15,6 @@
     {{ with .Params.gorsel }}<figure class="kapak"><img src="{{ . | relURL }}" alt="{{ $.Title }}" referrerpolicy="no-referrer">{{ with $.Params.gorsel_kredi }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>{{ end }}
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
-    {{ with .Params.kaynak }}
-    <div class="kaynak-kutu">
-      {{ if $.Params.yz }}<p>Bu haber, <b>{{ . }}</b> kaynağındaki bilgilerden yararlanılarak Gazete Antalya tarafından derlenmiştir.</p>
-      {{ else }}<p>Haberin ayrıntıları <b>{{ . }}</b> kaynağında yer almaktadır.</p>{{ end }}
-      {{ with $.Params.kaynak_url }}<a class="btn kaynak-btn" href="{{ . }}" target="_blank" rel="noopener nofollow">{{ if $.Params.yz }}Kaynağı görüntüle{{ else }}Haberin devamını oku{{ end }} ↗</a>{{ end }}
-    </div>
-    {{ end }}
     {{ partial "paylas.html" . }}
   </article>
   {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
