@@ -1,0 +1,23 @@
+{{/* Köşe yazarları şeridi: portre, ad, son yazı başlığı */}}
+{{ $yazarlar := where site.RegularPages "Section" "yazarlar" }}
+<section class="bolum yazarlar-bolum" aria-labelledby="b-yazarlar">
+  <header class="bolum-bas"><h2 id="b-yazarlar">Köşe Yazarları</h2>{{ with $yazarlar }}<a href="{{ "yazarlar/" | relURL }}">Tüm yazarlar</a>{{ end }}</header>
+  {{ with $yazarlar }}
+  <div class="yazar-serit">
+    {{ range $y := . }}
+      {{ $ad := $y.File.ContentBaseName }}
+      {{ $son := index (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad).ByDate.Reverse 0 }}
+      <a class="yazar-kart" href="{{ with $son }}{{ .RelPermalink }}{{ else }}{{ $y.RelPermalink }}{{ end }}">
+        {{ partial "yazar-foto.html" $y }}
+        <span class="yazar-ad">{{ $y.Title }}</span>
+        {{ with $son }}<span class="yazar-baslik">{{ .Title }}</span>{{ else }}{{ with $y.Params.unvan }}<span class="yazar-unvan">{{ . }}</span>{{ end }}{{ end }}
+      </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="yazar-bos">
+    <div class="yazar-bos-portreler" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+    <p><b>Köşe yazarlarımız çok yakında burada.</b> Antalya'yı yazan kalemler için: <a href="{{ "iletisim/" | relURL }}">iletişim</a></p>
+  </div>
+  {{ end }}
+</section>
