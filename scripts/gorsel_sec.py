@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7.5"
+SURUM = "g7.6"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -599,7 +599,12 @@ def kisi_adaylari(bag, konu, haber):
     anahtarlar = {kok(w) for w in kelimeler(" ".join(konu["etkinlik"]["anahtar_tr"] + konu["etkinlik"]["anahtar_en"] + [konu["etkinlik"]["tur"]]))}
     hedef_tarih = tarih_oku(konu.get("olay_tarihi")) or haber.get("tarih")
     yerler = {kok(w) for w in kelimeler(" ".join([konu.get("yer", ""), haber.get("ilce") or ""]))}
-    for kisi in konu.get("ana_kisiler") or []:
+    baslik_k = set(kelimeler(haber.get("baslik", "")))
+    for sira, kisi in enumerate(konu.get("ana_kisiler") or []):
+        if sira > 0 and not (set(kelimeler(kisi["ad"])) & baslik_k):
+            # İkinci kişi başlıkta yoksa haberin öznesi değildir; onun fotoğrafı haberi başka biri hakkındaymış gibi gösterir.
+            notlar.append(f"'{kisi['ad']}' haberin asıl öznesi değil (başlıkta geçmiyor); fotoğrafı kullanılmadı")
+            continue
         try:
             v = wikidata_varlik(bag, kisi["ad"], insan=True, ipucu=kisi.get("rol", ""))
         except Exception as e:
