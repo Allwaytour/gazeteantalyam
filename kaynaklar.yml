@@ -19,18 +19,18 @@ ayarlar:
   gorsel_duzeltme_tur: 4        # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_yz_gunluk: 100         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 3           # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 4           # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # karşılaştırmalı deneme (haber dosyalarını değiştirmez)
-    - 20261101-cop31-zirvesinde-antalya-ulasim-ve-yol-duzenlemeleri-4d804.md
-    - 20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md
-    - 20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4.md
-    - 20261101-kepezde-gecekondu-yangini-aile-cocuklarini-son-anda-kurtardi-2ca96.md
-    - 20261101-alanyada-losemi-tedavisi-goren-lise-ogrencisi-hayatini-kaybe-cb258.md
-    - 20261101-alanyada-milli-teknoloji-ve-savunma-sanayisi-icin-is-birligi-2d038.md
-    - 20261101-muratpasada-plastik-atiklar-muzige-donusuyor-daa9a.md
+    - 20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md
+    - 20261031-bakan-kurum-antalyadaki-cop31-zirvesinde-konya-da-yer-alacak-4c9ec.md
+    - 20261101-bakan-ersoydan-antalyada-dijital-konaklama-platformu-aciklam-28f93.md
+    - 20261031-ak-parti-kadin-kollari-baskani-ercan-cop31-kadin-elcisi-oldu-e454b.md
+    - 20261031-teoman-bugun-antalyada-konser-verecek-f7073.md
+    - 20261101-tarkanin-uyan-sarkisi-antalyadaki-cop31-icin-ingilizceye-uya-4c870.md
+    - 20261031-antalyasporda-ali-safak-ozturk-donemi-yeniden-basladi-2d2f7.md
     - 20261101-antalyaspor-deplasmandaki-sanssizligini-kasimpasa-maciyla-ki-09d68.md
-    - 20261101-alanya-ziraat-odasi-ureticinin-ayagina-gidiyor-65cc1.md
-    - 20261101-kas-ve-demredeki-cok-sayida-antik-alan-resmen-koruma-altina-ec141.md
+    - 20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md
+    - 20261031-antalya-havalimaninda-ucaktan-aprona-yakit-dokuldu-02275.md
     - gazete-antalya-yayin-hayatina-basladi.md
 
 kaynaklar:

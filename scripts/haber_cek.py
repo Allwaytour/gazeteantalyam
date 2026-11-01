@@ -409,7 +409,7 @@ def main():
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
     # Önbellekte yalnızca yeni hattın Commons arama sonuçları tutulur; eski hattın stok sorgu önbelleği silinir
-    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith("c6:")}
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("c6:", "wd:", "kat:", "cf:", "kut:"))}
     bag = gs.Baglam(ayar, durum, GEMINI_KEY if ayar.get("yapay_zeka", True) else "", model_sec, arsiv)
     gorsel_tur_limit = int(ayar.get("gorsel_tur_limit", 6))
     print("Görsel hattı:", gs.KURAL_SURUMU, "(gerçek → arşiv → fotoğrafsız kapak)")
@@ -500,6 +500,9 @@ def main():
     if bag.notlar:
         print("Kota/hata nedeniyle atlanan görsel kontrolleri:", *bag.notlar, sep="\n  ")
     print(f"Görsel hattı yapay zekâ kullanımı: bu tur {bag.yz_tur}, bugün {bag.g['yz_bugun']}/{bag.yz_gunluk}")
+    cf = [k for k in arsiv if k.startswith("cf:")]
+    for k in cf[:-2500]:          # Commons dosya bilgisi önbelleği büyümesin (en eski kayıtlar silinir)
+        arsiv.pop(k, None)
     json_yaz(ARSIV_DOSYA, arsiv)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
     durum["gorulen"] = gorulen[-3000:]

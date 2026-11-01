@@ -13,9 +13,9 @@
       {{ if gt .Lastmod .Date }}<span>· Güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
     </div>
     {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}
-    <figure class="kapak"><img src="{{ . | relURL }}" alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
+    <figure class="kapak"><img src="{{ . | relURL }}"{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
       {{ if or $tur $.Params.gorsel_kredi }}<figcaption>{{ partial "gorsel-not.html" (dict "tur" $tur "yil" $s.cekim_yili) }}
-        {{ if $s.fotografci }}{{ if eq $tur "arsiv" }}{{ with $s.gosterilen }}{{ . }} · {{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
+        {{ if $s.fotografci }}{{ if eq $tur "arsiv" }}{{ with $s.aciklama }}{{ . }} · {{ else }}{{ with $s.gosterilen }}{{ . }} · {{ end }}{{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
         {{ else }}{{ with $.Params.gorsel_kredi }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
     </figure>{{ end }}
     {{ partial "paylas.html" . }}
