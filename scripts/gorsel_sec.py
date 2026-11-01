@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7.2"
+SURUM = "g7.3"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -357,9 +357,14 @@ def commons_dosyalar(bag, sorgu, adet=15):
     return sonuc
 
 
-def kontrol_kucuk(url):
+def kontrol_kucuk(url, genislik=0):
     """Kontrol için küçük kopya. Commons yalnızca standart boyutları verir (500px)."""
-    return re.sub(r"/\d+px-", "/500px-", url) if "/thumb/" in url else url
+    if "/thumb/" in url:
+        return re.sub(r"/\d+px-", "/500px-", url)
+    m = re.match(r"(https://upload\.wikimedia\.org/wikipedia/commons/)([0-9a-f]/[0-9a-f]{2}/)([^/?]+)", url)
+    if m and genislik > 500:   # özgün boyutlu dosya: 500px küçük kopyası istenir
+        return f"{m.group(1)}thumb/{m.group(2)}{m.group(3)}/500px-{m.group(3)}"
+    return url
 
 
 def commons_metni(d):
@@ -423,7 +428,7 @@ def gercek_adaylar(bag, konu, haber):
                 if bag.yasakli_mi(d["url"]):
                     continue
                 adaylar.append({
-                    "tur": "gercek", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"]), "sayfa": d["sayfa"],
+                    "tur": "gercek", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]), "sayfa": d["sayfa"],
                     "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                     "kosul": commons.get("kosul", ""), "hedef": konu["gercek_arama"], "cekim": str(cekim),
                     "dogrulama": f"dosya açıklamasında olay adı ve yer geçiyor; çekim tarihi {cekim} (olay tarihiyle örtüşüyor)",
@@ -447,10 +452,13 @@ def _wd_get(params):
     return r.json()
 
 
-def wikidata_varlik(bag, ad, insan=True, ipucu=""):
+TAKIM_TURLERI = {"Q476028", "Q847017", "Q12973014", "Q1194951", "Q20639856"}   # futbol kulübü, spor kulübü, spor takımı, ulusal futbol takımı, kadın futbol takımı
+
+
+def wikidata_varlik(bag, ad, insan=True, ipucu="", turler=None):
     """Adı birebir tutan Wikidata kaydı. Kişi için P31=insan şartı; birden çok aday varsa açıklama ipucuyla
     tekil olarak ayrışmalı, ayrışmıyorsa None (yanlış kişiyi seçmemek için)."""
-    anahtar = f"wd:v2:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}"
+    anahtar = f"wd:v2:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}" + (":takim" if turler else "")
     if anahtar in bag.arsiv:
         return bag.arsiv[anahtar]
     hedef = " ".join(kelimeler(ad))
@@ -472,12 +480,14 @@ def wikidata_varlik(bag, ad, insan=True, ipucu=""):
             p31 = [c.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") for c in (e.get("claims", {}).get("P31") or [])]
             if insan != ("Q5" in p31):
                 continue
+            if turler and not (set(p31) & turler):   # ör. "Kasımpaşa" takımı ≠ Kasımpaşa semti
+                continue
             acik = " ".join(v.get("value", "") for v in (e.get("descriptions") or {}).values())
             deger = lambda p: [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get(p) or [])]
             adaylar.append({"qid": e["id"], "ad": ad, "aciklama": temiz(acik, 200), "p18": [x for x in deger("P18") if isinstance(x, str)],
                             "kategori": next((x for x in deger("P373") if isinstance(x, str)), ""),
                             "mekan": [x.get("id") for x in deger("P115") if isinstance(x, dict) and x.get("id")][:2]})
-        tek_kelime = len(hedef.split()) < 2
+        tek_kelime = insan and len(hedef.split()) < 2
         if len(adaylar) == 1 and not tek_kelime:
             sonuc = adaylar[0]
         elif adaylar and ipucu:
@@ -598,8 +608,10 @@ def kisi_adaylari(bag, konu, haber):
             if not d or d["url"] in gorulen or bag.yasakli_mi(d["url"]):
                 continue
             gorulen.add(d["url"])
-            ok, _ = commons_uygun(dict(d, genislik=max(d["genislik"], d["yukseklik"]), yukseklik=0))   # dikey portrelere izin
-            if not ok or min(d["genislik"], d["yukseklik"]) < 400:
+            resmi = d in p18
+            ok, _ = commons_uygun(dict(d, genislik=max(800, d["genislik"], d["yukseklik"]) if resmi else max(d["genislik"], d["yukseklik"]), yukseklik=0))
+            # dikey portrelere izin; Wikidata'daki resmî portre daha küçük olabilir (en az 380 px)
+            if not ok or min(d["genislik"], d["yukseklik"]) < (380 if resmi else 400):
                 continue
             metin = commons_metni(d)
             mk = {kok(w) for w in kelimeler(metin)}
@@ -616,7 +628,7 @@ def kisi_adaylari(bag, konu, haber):
             puan += 4 if d["genislik"] >= d["yukseklik"] else 0
             adaylar.append({
                 "tur": "gercek" if olay else "arsiv", "alt_tur": tur, "kaynak": "Wikimedia Commons", "url": d["url"],
-                "kucuk": kontrol_kucuk(d["url"]), "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"],
+                "kucuk": kontrol_kucuk(d["url"], d["genislik"]), "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"],
                 "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "kosul": commons.get("kosul", ""), "hedef": kisi["ad"],
                 "kisi": kisi["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "meta_puan": puan, "dikey": d["yukseklik"] > d["genislik"],
                 "portre": d in p18,
@@ -658,9 +670,10 @@ def kurum_wikidata_adaylari(bag, konu):
         return adaylar, notlar
     for h in (konu.get("hedefler") or [])[:3]:
         try:
-            v = wikidata_varlik(bag, h["ad"], insan=False, ipucu="Antalya " + (konu.get("yer") or ""))
+            tl = TAKIM_TURLERI if h.get("tur") == "takim" else None
+            v = wikidata_varlik(bag, h["ad"], insan=False, ipucu="Antalya " + (konu.get("yer") or ""), turler=tl)
             if not v and h.get("ad_en") and h["ad_en"] != h["ad"]:
-                v = wikidata_varlik(bag, h["ad_en"], insan=False, ipucu="Antalya")
+                v = wikidata_varlik(bag, h["ad_en"], insan=False, ipucu="Antalya", turler=tl)
         except Exception as e:
             notlar.append(f"Wikidata sorgusu yapılamadı ({h['ad']}): {e}")
             continue
@@ -680,7 +693,7 @@ def kurum_wikidata_adaylari(bag, konu):
             ok, _ = commons_uygun(d)
             if ok and not bag.yasakli_mi(d["url"]):
                 adaylar.append({
-                    "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"]),
+                    "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
                     "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                     "kosul": commons.get("kosul", ""), "hedef": f"{mekan_ad} ({h['ad']} kulübünün iç saha stadı)", "qid": v["qid"],
                     "cekim": str(tarih_oku(d.get("tarih")) or ""), "kayit": d, "meta_puan": 58, "gosterim_ad": mekan_ad,
@@ -693,7 +706,7 @@ def kurum_wikidata_adaylari(bag, konu):
                 continue
             cekim = tarih_oku(d.get("tarih"))
             adaylar.append({
-                "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"]),
+                "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
                 "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                 "kosul": commons.get("kosul", ""), "hedef": h["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "kayit": d,
                 "meta_puan": 50 + (10 if alinan == 0 else 0),
@@ -730,6 +743,10 @@ def arsiv_adaylari(bag, konu):
         for h in hedefler:
             if len([a for a in adaylar if a["hedef"] == h["ad"]]) >= 2:
                 continue
+            if h.get("tur") == "takim":
+                # Takım adları çoğu zaman semt/şehir adıyla aynıdır (Kasımpaşa, Kepez): serbest metin araması yapılmaz,
+                # yalnızca Wikidata'da spor kulübü olarak doğrulanan kaydın görselleri kullanılır.
+                continue
             sorgular = list(dict.fromkeys([h["ad_en"], h["ad"]]))
             bulunan = 0
             for q in sorgular:
@@ -747,7 +764,7 @@ def arsiv_adaylari(bag, konu):
                         continue
                     cekim = tarih_oku(d.get("tarih"))
                     adaylar.append({
-                        "tur": "arsiv", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"]), "sayfa": d["sayfa"],
+                        "tur": "arsiv", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]), "sayfa": d["sayfa"],
                         "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                         "kosul": commons.get("kosul", ""), "hedef": h["ad"], "cekim": str(cekim or ""),
                         "dogrulama": f"'{h['ad']}' adı dosya başlığı/açıklaması/kategorilerinde geçiyor" + (f"; çekim {cekim}" if cekim else ""),
@@ -829,6 +846,8 @@ def karar_ver(d, konu):
         nedenler.append("habere uygun değil")
     if d.get("yaniltici"):
         nedenler.append("yanıltıcı (başka olay/kişi/kurum izlenimi)")
+    if str(d.get("_alt_tur", "")).startswith("kisi") and not d.get("tek_kisi_odakli"):
+        nedenler.append("kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir)")
     if d.get("yabanci_unsur") and not str(d.get("_alt_tur", "")).startswith("kisi"):
         nedenler.append("Türkiye dışına ait unsur var")
     if d.get("taninabilir_kisi") and not str(d.get("_alt_tur", "")).startswith("kisi") and (konu.get("hassas", "yok") != "yok" or konu.get("kisiler")):
