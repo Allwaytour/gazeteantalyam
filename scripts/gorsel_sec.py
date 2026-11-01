@@ -350,7 +350,7 @@ def gercek_adaylar(bag, konu, haber):
                 if d["genislik"] < 800 or d["genislik"] < d["yukseklik"]:
                     continue
                 adaylar.append({
-                    "tur": "gercek", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": re.sub(r"/\d+px-", "/640px-", d["url"]),
+                    "tur": "gercek", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": re.sub(r"/\d+px-", "/500px-", d["url"]),
                     "sayfa": d["sayfa"], "fotografci": d["yazar"], "fotografci_sayfa": "", "lisans": d["lisans"],
                     "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "kosul": commons.get("kosul", ""), "dogrulama": neden,
                     "aciklama": d["aciklama"][:200],
@@ -424,7 +424,7 @@ def stok_adaylari(bag, konu, konu_imza, en_fazla=5):
                 if re.search(r"map|logo|flag|coat|diagram|plan|seal|emblem|poster|harita|\b1[89]\d\d\b", d["baslik"], re.I):
                     continue
                 adaylar.append({
-                    "tur": "stok", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": re.sub(r"/\d+px-", "/640px-", d["url"]),
+                    "tur": "stok", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": re.sub(r"/\d+px-", "/500px-", d["url"]),
                     "sayfa": d["sayfa"], "fotografci": d["yazar"], "fotografci_sayfa": "", "aciklama": d["aciklama"][:200],
                     "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "sorgu": konu["yer_arama"],
                     "kosul": commons.get("kosul", ""),
@@ -602,7 +602,8 @@ def gorsel_sec(bag, haber, konu, eski=None):
                    "model": bag.model_fn() if kontrol_yapildi else "", "puan": a.get("puan", 0)}
         return aday_secimi(a, kontrol, kimza), rapor
 
-    stok_getirilemedi = not stok and any(re.search(r"kota|sınır", n, re.I) for n in n2)
+    stok_getirilemedi = (any(re.search(r"kota|sınır", n, re.I) for n in n2)
+                         and not any(a.get("karar") == "kabul" for a in stok))   # kota yüzünden adayların bir kısmı hiç gelmediyse
     if stok_getirilemedi:
         kontrol_yapildi, hata = False, hata or next(n for n in n2 if re.search(r"kota|sınır", n, re.I))
         bag.notlar.append(f"{haber.get('baslik', '')[:60]}: stok aday getirilemedi ({hata})")
