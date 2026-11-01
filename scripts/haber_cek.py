@@ -581,6 +581,20 @@ def main():
     if not yz_acik:
         print("Yapay zekâ kapalı (GEMINI_API_KEY tanımlı değil) → bu turda haber eklenmeyecek.")
 
+    # Karşılaştırmalı görsel denemesi (haber dosyalarını değiştirmez). Aynı liste ve kural sürümü için bir kez tamamlanır;
+    # kota nedeniyle eksik kalan satırlar sonraki turlarda (önbellekteki kararlar korunarak) yeniden denenir.
+    deneme = [d for d in (ayar.get("gorsel_deneme") or []) if isinstance(d, str)]
+    deneme_imza = gs.imza(gs.KURAL_SURUMU, ayar.get("gorsel_deneme_no", 1), *deneme)
+    onceki = durum["gorsel"].get("deneme") or {}
+    if deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:8" and not bag.unsplash_kapali():
+        print(f"\nGörsel denemesi: {len(deneme)} haber")
+        rapor = gs.deneme_calistir(bag, deneme)
+        sayi = (onceki.get("deneme_sayisi", 0) + 1) if onceki.get("hedef") == deneme_imza else 1
+        rapor.update(hedef=deneme_imza, deneme_sayisi=sayi, imza=deneme_imza if not rapor["eksik"] else None,
+                     deneme_sayisi_imza=f"{deneme_imza}:{sayi}")
+        durum["gorsel"]["deneme"] = rapor
+        print(f"Görsel denemesi: {rapor['eksik']} satır kota nedeniyle eksik" if rapor["eksik"] else "Görsel denemesi tamamlandı")
+
     # 3) İşle
     yazilan = 0
     for h in secilen[:limit]:
@@ -657,14 +671,6 @@ def main():
     if yeni_hat and ayar.get("gorsel_toplu_duzeltme", False):
         n = gs.toplu_duzelt(bag, int(ayar.get("gorsel_duzeltme_tur", 3)))
         print(f"Görseli düzeltilen eski haber: {n}")
-    # Karşılaştırmalı deneme (haber dosyalarını değiştirmez); aynı liste ve kural sürümü için bir kez çalışır
-    deneme = [d for d in (ayar.get("gorsel_deneme") or []) if isinstance(d, str)]
-    deneme_imza = gs.imza(gs.KURAL_SURUMU, ayar.get("gorsel_deneme_no", 1), *deneme)
-    if deneme and (durum.get("gorsel", {}).get("deneme") or {}).get("imza") != deneme_imza:
-        print(f"\nGörsel denemesi: {len(deneme)} haber")
-        rapor = gs.deneme_calistir(bag, deneme)
-        rapor["imza"] = deneme_imza
-        durum["gorsel"]["deneme"] = rapor
     if bag.notlar:
         print("Kota/hata nedeniyle atlanan görsel kontrolleri:", *bag.notlar, sep="\n  ")
     print(f"Görsel hattı yapay zekâ kullanımı: bu tur {bag.yz_tur}, bugün {bag.g['yz_bugun']}/{bag.yz_gunluk}; "
