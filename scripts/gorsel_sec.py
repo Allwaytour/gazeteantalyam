@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7.1"
+SURUM = "g7.2"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -450,7 +450,7 @@ def _wd_get(params):
 def wikidata_varlik(bag, ad, insan=True, ipucu=""):
     """Adı birebir tutan Wikidata kaydı. Kişi için P31=insan şartı; birden çok aday varsa açıklama ipucuyla
     tekil olarak ayrışmalı, ayrışmıyorsa None (yanlış kişiyi seçmemek için)."""
-    anahtar = f"wd:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}"
+    anahtar = f"wd:v2:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}"
     if anahtar in bag.arsiv:
         return bag.arsiv[anahtar]
     hedef = " ".join(kelimeler(ad))
@@ -475,7 +475,8 @@ def wikidata_varlik(bag, ad, insan=True, ipucu=""):
             acik = " ".join(v.get("value", "") for v in (e.get("descriptions") or {}).values())
             deger = lambda p: [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get(p) or [])]
             adaylar.append({"qid": e["id"], "ad": ad, "aciklama": temiz(acik, 200), "p18": [x for x in deger("P18") if isinstance(x, str)],
-                            "kategori": next((x for x in deger("P373") if isinstance(x, str)), "")})
+                            "kategori": next((x for x in deger("P373") if isinstance(x, str)), ""),
+                            "mekan": [x.get("id") for x in deger("P115") if isinstance(x, dict) and x.get("id")][:2]})
         tek_kelime = len(hedef.split()) < 2
         if len(adaylar) == 1 and not tek_kelime:
             sonuc = adaylar[0]
@@ -618,12 +619,35 @@ def kisi_adaylari(bag, konu, haber):
                 "kucuk": kontrol_kucuk(d["url"]), "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"],
                 "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "kosul": commons.get("kosul", ""), "hedef": kisi["ad"],
                 "kisi": kisi["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "meta_puan": puan, "dikey": d["yukseklik"] > d["genislik"],
+                "portre": d in p18,
                 "kayit": d,
                 "dogrulama": (f"'{kisi['ad']}' kimliği Wikidata {v['qid']} ({v['aciklama'][:60]}) ve bu kişiye ait Commons kategorisiyle doğrulandı"
                               + ("; olay tarihi ve yeriyle örtüşüyor" if olay else (f"; benzer etkinlik ({benzer} anahtar eşleşmesi)" if benzer else "; genel fotoğraf"))),
             })
     adaylar.sort(key=lambda a: -a["meta_puan"])
-    return adaylar[:5], notlar
+    secilen = adaylar[:5]
+    # Wikidata'daki resmî portre (P18) her zaman adaylar arasında kalır: kalabalık/tören kareleri elenirse yedek olur.
+    for a in adaylar[5:]:
+        if a.get("portre") and not any(x.get("portre") and x.get("kisi") == a.get("kisi") for x in secilen):
+            secilen = secilen[:4] + [a]
+    return secilen, notlar
+
+
+def mekan_gorselleri(bag, qidler):
+    """Takımın Wikidata'daki iç saha stadı (P115) kaydının resmî görseli (P18). [(dosya, ad)]"""
+    if not qidler:
+        return []
+    anahtar = "wd:v2:mekan:" + "|".join(qidler)
+    if anahtar not in bag.arsiv:
+        ent = _wd_get({"action": "wbgetentities", "ids": "|".join(qidler), "props": "claims|labels", "languages": "tr|en"}).get("entities", {})
+        bag.arsiv[anahtar] = [{"ad": ((e.get("labels") or {}).get("tr") or (e.get("labels") or {}).get("en") or {}).get("value", ""),
+                               "p18": [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get("P18") or [])][:1]}
+                              for e in ent.values()]
+    sonuc = []
+    for m in bag.arsiv[anahtar] or []:
+        for d in _dosya_bilgisi(bag, ["File:" + x for x in m["p18"] if isinstance(x, str)]):
+            sonuc.append((d, m["ad"]))
+    return sonuc
 
 
 def kurum_wikidata_adaylari(bag, konu):
@@ -647,6 +671,21 @@ def kurum_wikidata_adaylari(bag, konu):
         except Exception as e:
             notlar.append(f"Commons okunamadı ({h['ad']}): {e}")
             continue
+        try:
+            stat = mekan_gorselleri(bag, v.get("mekan") or [])
+        except Exception as e:
+            stat = []
+            notlar.append(f"Stat kaydı okunamadı ({h['ad']}): {e}")
+        for d, mekan_ad in stat:
+            ok, _ = commons_uygun(d)
+            if ok and not bag.yasakli_mi(d["url"]):
+                adaylar.append({
+                    "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"]),
+                    "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
+                    "kosul": commons.get("kosul", ""), "hedef": f"{mekan_ad} ({h['ad']} kulübünün iç saha stadı)", "qid": v["qid"],
+                    "cekim": str(tarih_oku(d.get("tarih")) or ""), "kayit": d, "meta_puan": 58, "gosterim_ad": mekan_ad,
+                    "dogrulama": f"'{h['ad']}' Wikidata {v['qid']} kaydındaki iç saha (P115) bilgisiyle doğrulandı: {mekan_ad}",
+                })
         alinan = 0
         for d in dosyalar:
             ok, _ = commons_uygun(d)
@@ -663,6 +702,7 @@ def kurum_wikidata_adaylari(bag, konu):
             alinan += 1
             if alinan >= 2:
                 break
+    adaylar.sort(key=lambda a: -a["meta_puan"])
     return adaylar, notlar
 
 def arsiv_adaylari(bag, konu):
@@ -740,6 +780,11 @@ Her fotoğraf için değerlendir:
 - etkinlik_benzerligi (0-10): Fotoğraftaki sahne türü, haberdeki etkinlik türüne ("{etkinlik}") ne kadar benziyor?
 - tek_kisi_odakli: Fotoğrafta iddia edilen kişi tek başına ya da açıkça ön planda mı? (kalabalık zirve/toplu fotoğrafta false)
 - gerekce: En fazla 20 kelimelik Türkçe açıklama.
+ARŞİV KURALI: "arşiv fotoğrafı" iddiası olan kareler haberde "Arşiv" etiketi ve doğru alt yazıyla (ör. "X, önceki bir ziyaretten — Arşiv")
+yayımlanır. Fotoğrafın geçmiş bir tarihe ait olması TEK BAŞINA yanıltıcı ya da habere uygunsuz sayılmaz. Kişi iddialarında kişiyi
+nötr biçimde gösteren portre, kürsü, görüşme ya da etkinlik kareleri habere uygundur; yalnızca karedeki pankart, yazı, başka öne çıkan
+kişiler ya da belirgin başka bir olay güncel haber hakkında yanlış izlenim yaratıyorsa yanıltıcıdır. Takım/mekân iddialarında
+stadın, tesisin ya da binanın genel görünümü uygundur; haberdekinden farklı belirli bir rakip/maç öne çıkıyorsa yanıltıcıdır.
 ÖNEMLİ: Kişileri yüzlerinden tanımaya ÇALIŞMA ve kimlik hakkında yorum yapma; kişinin kimliği arşiv kaydıyla (Wikidata ve
 Commons kategorisi) doğrulanmıştır. Yalnızca sahneyi değerlendir: başka bir etkinliğe ait pankart, yazı, tarih, bayrak veya
 öne çıkan başka kişiler bu fotoğrafı güncel haberdeki etkinliğin görüntüsüymüş gibi gösterecekse "yaniltici": true.
@@ -863,7 +908,7 @@ def alt_yazi(a, konu):
     if alt == "kisi_genel":
         return f"{a['kisi']} — Arşiv fotoğrafı{ek}"
     if a["tur"] == "arsiv":
-        return f"{a.get('hedef', '')} — Arşiv fotoğrafı{ek}"
+        return f"{a.get('gosterim_ad') or a.get('hedef', '')} — Arşiv fotoğrafı{ek}"
     return ""
 
 
@@ -873,7 +918,7 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
     return {
         "tur": a["tur"], "gorsel": a["url"], "gorsel_kredi": ("Arşiv fotoğrafı: " if a["tur"] == "arsiv" else "Fotoğraf: ") + kredi,
         "kaynak_sayfa": a.get("sayfa", ""), "fotografci": a.get("fotografci", ""), "kredi": kredi, "lisans": a.get("lisans", ""),
-        "lisans_dayanagi": a.get("lisans_dayanagi", ""), "kosul": a.get("kosul", ""), "gosterilen": a.get("hedef", ""),
+        "lisans_dayanagi": a.get("lisans_dayanagi", ""), "kosul": a.get("kosul", ""), "gosterilen": a.get("gosterim_ad") or a.get("hedef", ""),
         "cekim_yili": yil, "gerekce": f"{a.get('dogrulama', '')}; görsel kontrol: {a.get('gerekce', '')}",
         "kontrol": kontrol, "surum": KURAL_SURUMU, "konu_imza": konu_imza,
         "aciklama": alt_yazi(a, konu or {}), "alt_tur": a.get("alt_tur", ""), "qid": a.get("qid", ""),
