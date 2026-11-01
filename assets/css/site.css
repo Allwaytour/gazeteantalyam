@@ -467,17 +467,6 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
 @media (max-width:900px){.kenar .vitrin-dikey{grid-column:1/-1}}
 @media (max-width:720px){.vitrin-dikey{max-width:280px}}
 
-/* Reklam alanı: banner alanı tam doldurmadığında kenarlar banner'ın bulanık kopyasıyla dolar (banner esnemez, kırpılmaz) */
-.kunye-reklam{overflow:hidden;isolation:isolate}
-.kunye-reklam-arka{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:blur(22px) saturate(1.1) brightness(.78);transform:scale(1.15);z-index:-1;pointer-events:none}
-.kunye-reklam .vitrin.vitrin-ust{position:relative;box-shadow:0 6px 22px rgba(0,0,0,.28)}
-.kunye-reklam-not{color:rgba(255,255,255,.75)}
-@media (max-width:720px){
-  .kunye-reklam{overflow:visible}
-  .kunye-reklam-arka{display:none}
-  .kunye-reklam .vitrin.vitrin-ust{box-shadow:none}
-  .kunye-reklam-not{color:var(--cok-soluk)}
-}
 
 /* Dikey reklam: ana sayfadaki ek yerleşimler (Ekonomi/Turizm yanı, Son Haberler yanı) */
 .ikili.ikili-vitrinli{grid-template-columns:minmax(0,1fr) minmax(0,1fr) 300px}
@@ -492,4 +481,24 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .ek-vitrin{display:none}
   .ikili.ikili-vitrinli{grid-template-columns:1fr}
   .son-duzen,.son-duzen:has(.son-vitrin){grid-template-columns:minmax(0,1fr)}
+}
+
+/* Header v3: banner gri çerçeve ve bulanık dolgu olmadan, sağ kenara hizalı "billboard" boyutunda */
+.kunye-ic{display:flex;align-items:center;justify-content:space-between;gap:36px;padding-top:14px;padding-bottom:20px}
+.kunye-marka{flex:1 1 auto}
+.logo img{height:104px}
+.kunye-reklam{flex:0 1 auto;max-width:72%;display:block;position:relative;background:none;border-top:0;padding:0}
+.vitrin.vitrin-ust{box-shadow:none}
+.vitrin.vitrin-ust img{display:block;width:auto;height:auto;max-width:100%;max-height:260px}
+.kunye-reklam-not{position:absolute;top:auto;bottom:-14px;right:0;left:auto;writing-mode:horizontal-tb;transform:none;color:var(--cok-soluk);font-size:9px}
+@media (max-width:1100px){
+  .logo img{height:84px}
+  .vitrin.vitrin-ust img{max-height:200px}
+}
+@media (max-width:720px){
+  .kunye-ic{display:grid;grid-template-columns:1fr auto;grid-template-areas:"marka dugme" "reklam reklam";gap:8px 10px;padding-top:8px;padding-bottom:18px}
+  .logo img{height:50px}
+  .kunye-reklam{max-width:none}
+  .vitrin.vitrin-ust img{width:100%;max-height:none}
+  .kunye-reklam-not{position:static;display:block;text-align:right;margin-top:3px}
 }
