@@ -586,6 +586,11 @@ def _ek_den(kelime):
     return k + ("t" if sert else "d") + unlu + "n"
 
 
+ETKINLIK_EN = {"ziyaret": "visit visits visiting", "toplanti": "meeting", "konser": "concert", "mac": "match game", "toren": "ceremony",
+               "acilis": "opening inauguration", "basin toplantisi": "press conference", "antrenman": "training", "aciklama": "statement",
+               "konusma": "speech", "zirve": "summit", "kongre": "congress", "festival": "festival", "gorusme": "talks meeting"}
+
+
 def kisi_adaylari(bag, konu, haber):
     """Haberdeki tanınmış kişinin doğrulanmış Commons kategorisinden adaylar: olay → benzer etkinlik → genel/portre."""
     adaylar, notlar = [], []
@@ -597,6 +602,9 @@ def kisi_adaylari(bag, konu, haber):
     if not (commons and commons.get("izin") is True):
         return adaylar, notlar
     anahtarlar = {kok(w) for w in kelimeler(" ".join(konu["etkinlik"]["anahtar_tr"] + konu["etkinlik"]["anahtar_en"] + [konu["etkinlik"]["tur"]]))}
+    # Alt yazıda "önceki bir konserden" denebilmesi için fotoğrafın KENDİ kaydında etkinlik türü (ör. konser/concert) geçmeli.
+    tur = konu["etkinlik"]["tur"]
+    tur_kokleri = {kok(w) for w in kelimeler(" ".join([tur, ETKINLIK_EN.get(kucult(tur), "")]))}
     hedef_tarih = tarih_oku(konu.get("olay_tarihi")) or haber.get("tarih")
     yerler = {kok(w) for w in kelimeler(" ".join([konu.get("yer", ""), haber.get("ilce") or ""]))}
     baslik_k = set(kelimeler(haber.get("baslik", "")))
@@ -648,7 +656,7 @@ def kisi_adaylari(bag, konu, haber):
                 "kucuk": kontrol_kucuk(d["url"], d["genislik"]), "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"],
                 "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "kosul": commons.get("kosul", ""), "hedef": kisi["ad"],
                 "kisi": kisi["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "meta_puan": puan, "dikey": d["yukseklik"] > d["genislik"],
-                "portre": d in p18,
+                "portre": d in p18, "etkinlik_eslesti": bool(tur_kokleri & mk),
                 "kayit": d,
                 "dogrulama": (f"'{kisi['ad']}' kimliği Wikidata {v['qid']} ({v['aciklama'][:60]}) ve bu kişiye ait Commons kategorisiyle doğrulandı"
                               + ("; olay tarihi ve yeriyle örtüşüyor" if olay else (f"; benzer etkinlik ({benzer} anahtar eşleşmesi)" if benzer else "; genel fotoğraf"))),
@@ -963,10 +971,10 @@ def alt_yazi(a, konu):
     yil = (a.get("cekim") or "")[:4]
     ek = f" ({yil})" if yil else ""
     alt = a.get("alt_tur", "")
-    if alt == "kisi_benzer":
+    if alt == "kisi_benzer" and a.get("etkinlik_eslesti", True):
         etk = (konu.get("etkinlik") or {}).get("tur") or "etkinlik"
         return f"{a['kisi']}, önceki bir {_ek_den(etk)} — Arşiv{ek}"
-    if alt == "kisi_genel":
+    if alt in ("kisi_genel", "kisi_benzer"):
         return f"{a['kisi']} — Arşiv fotoğrafı{ek}"
     if a["tur"] == "arsiv":
         return f"{a.get('gosterim_ad') or a.get('hedef', '')} — Arşiv fotoğrafı{ek}"
