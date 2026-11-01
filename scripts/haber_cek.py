@@ -24,6 +24,8 @@ import feedparser
 import requests
 import yaml
 
+import gorsel_sec as gs
+
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR = timezone(timedelta(hours=3))
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -271,20 +273,25 @@ Kurallar:
 - Kaynak metin bir haber değilse "uygun": false döndür. Şunlar haber DEĞİLDİR: köşe yazısı, makale, yorum/görüş yazısı, deneme, anı, röportaj-söyleşi, reklam/tanıtım içeriği, liste, video/galeri sayfası, çok kısa metinler. Antalya ile ilgisi yoksa da "uygun": false döndür.
 
 Yalnızca şu biçimde JSON döndür:
-{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>", "gorsel_arama": "..."}
+{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>", "gorsel_arama": "...",
+ "gorsel_konu": <GORSEL_KONU>}
 
 "gorsel_arama": Habere uygun, temsili bir fotoğraf bulmak için 2-4 kelimelik İNGİLİZCE arama ifadesi.
 Haberin konusunu anlatan genel bir sahne olsun (ör. "basketball game", "car crash police", "ambulance hospital",
 "tomato greenhouse", "forest fire firefighters", "classroom students", "airport airplane", "hotel swimming pool").
 Kişi adı, takım adı, marka veya kurum adı yazma.
+
+"gorsel_konu": Görsel seçimi için yazdığın haberin konusunun ayrıştırması.
+<GORSEL_KURAL>
 """
 
 
 def yz_yaz(h, kaynak_metin):
     talimat = YZ_TALIMAT.replace("<KATEGORILER>", " | ".join(KATEGORILER)).replace("<ILCELER veya boş>", " | ".join(ILCE_ESLER) + " | (boş)")
+    talimat = talimat.replace("<GORSEL_KONU>", gs.KONU_ALANLARI).replace("<GORSEL_KURAL>", gs.KONU_KURALLARI)
     istek = {
         "contents": [{"role": "user", "parts": [{"text": f"{talimat}\n\nKAYNAK BAŞLIK: {h['baslik']}\nKAYNAK: {h['kaynak']}\n\nKAYNAK METİN:\n{kaynak_metin}"}]}],
-        "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json", "maxOutputTokens": 2048},
+        "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json", "maxOutputTokens": 3072},
     }
     for deneme in range(3):
         r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model_sec()}:generateContent",
@@ -441,7 +448,7 @@ def yz_gorsel_arama(baslik, ozet):
 
 
 # ----------------------------------------------------------------- yazma
-def md_yaz(h, yz, foto, kaynak_url):
+def md_yaz(h, yz, foto, kaynak_url, secim=None):
     tarih = datetime.fromtimestamp(h["ts"], TR)
     baslik = re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip()
     dosya = f"{tarih:%Y%m%d}-{slug(baslik, 60)}-{hashlib.md5(h['link'].encode()).hexdigest()[:5]}.md"
@@ -462,6 +469,10 @@ def md_yaz(h, yz, foto, kaynak_url):
         "kaynak": h["kaynak"],
         "kaynak_url": kaynak_url or h["link"],
     }
+    if secim:
+        gs.secimi_uygula(on, secim)
+        for alan in ("manset", "son_dakika", "yazar", "otomatik", "yz", "kaynak", "kaynak_url"):
+            on[alan] = on.pop(alan)
     govde = (yz or {}).get("metin", "").strip()
     with open(os.path.join(HABER_KLASOR, dosya), "w", encoding="utf-8") as f:
         f.write("---\n" + yaml.safe_dump(on, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde + "\n")
@@ -482,7 +493,9 @@ def duzenle_eskiler(arsiv, yz_acik, limit=6):
                 os.remove(yol)
                 print("Özet sayfası silindi:", ad)
                 continue
-            if "\ngorsel_v4: true" in icerik or not yz_acik or yenilenen >= limit:
+            # Eski hattın toplu fotoğraf yenilemesi kapatıldı: eski görseller yalnızca yeni görsel hattıyla
+            # (gorsel_sec.toplu_duzelt) ve onaydan sonra düzeltilir.
+            if True or "\ngorsel_v4: true" in icerik or not yz_acik or yenilenen >= limit:
                 continue
             on, govde = icerik[4:].split("\n---\n", 1)
             v = yaml.safe_load(on)
@@ -558,7 +571,11 @@ def main():
     limit = int(ayar.get("tur_basina_haber", 6))
     print(f"\n{len(adaylar)} yeni aday, {len(secilen)} tekil haber; bu turda en fazla {limit} tanesi işlenecek.\n")
 
-    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("q2:", "us:", "ov:"))}
+    arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("q2:", "us:", "ov:", "u5:", "c5:"))}
+    bag = gs.Baglam(ayar, durum, GEMINI_KEY if ayar.get("yapay_zeka", True) else "", UNSPLASH_KEY, model_sec, arsiv)
+    yeni_hat = str(ayar.get("gorsel_hatti", "eski")).lower() == "yeni"
+    gorsel_tur_limit = int(ayar.get("gorsel_tur_limit", 6))
+    print("Görsel hattı:", "yeni (" + gs.KURAL_SURUMU + ")" if yeni_hat else "eski")
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
@@ -595,16 +612,37 @@ def main():
             if yz_acik and len(metin) <= 400:
                 gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
             continue
-        foto = None
+        foto = secim = None
         kaynak_gorsel = h["gorsel"] or og
-        if kaynak_gorsel and ayar.get("kaynak_gorseli", False):
+        if yeni_hat:
+            kat = yz.get("kategori") if yz.get("kategori") in KATEGORILER else h["kategori"]
+            ilce = yz.get("ilce") if yz.get("ilce") in ILCE_ESLER else h["ilce"]
+            hb = {"baslik": yz.get("baslik", ""), "spot": yz.get("spot", ""), "kategori": kat, "ilce": ilce,
+                  "tarih": datetime.fromtimestamp(h["ts"], TR).date(), "kaynak_url": url or "", "kaynak_gorsel": kaynak_gorsel}
+            konu = gs.konu_dogrula(yz.get("gorsel_konu"))
+            if gorsel_tur_limit <= 0:
+                secim = gs.kategori_secimi(kat, "Bu turun görsel kontrol sınırı doldu; sonraki turda yeniden değerlendirilecek.",
+                                           {"yapildi": False, "sonuc": "yapılamadı", "tarih": datetime.now(TR).isoformat(timespec="seconds"),
+                                            "yontem": "tur sınırı"}, gs.konu_imzasi(hb["baslik"], hb["spot"], kat))
+                secim["bekliyor"] = True
+            else:
+                gorsel_tur_limit -= 1
+                try:
+                    konu = konu or gs.konu_ayristir(bag, hb["baslik"], hb["spot"], yz.get("metin", ""))
+                except Exception as e:
+                    print("   Konu ayrıştırılamadı:", e)
+                secim, _ = gs.gorsel_sec(bag, hb, konu)
+            if secim["tur"] == "stok":
+                gs.unsplash_bildir(bag, secim)
+            print(f"   Görsel: {secim['tur']} – {secim['gerekce'][:90]}")
+        elif kaynak_gorsel and ayar.get("kaynak_gorseli", False):
             foto = {"url": kaynak_gorsel, "kredi": ""}
-        if not foto:
+        if not foto and not secim:
             kat = yz.get("kategori") if yz.get("kategori") in KATEGORILER else h["kategori"]
             ilce = yz.get("ilce") if yz.get("ilce") in ILCE_ESLER else h["ilce"]
             foto = konu_foto(arsiv, yz.get("gorsel_arama", ""), kat, ilce, h["link"])
             print(f"   Fotoğraf: {yz.get('gorsel_arama', '')!r} → {'bulundu' if foto else 'yok'}")
-        dosya = md_yaz(h, yz, foto, url)
+        dosya = md_yaz(h, yz, foto, url, secim)
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
         gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
         if yz:
@@ -612,6 +650,25 @@ def main():
         yazilan += 1
 
     duzenle_eskiler(arsiv, yz_acik)
+
+    if UNSPLASH_KEY and FOTO_SAYAC["istek"]:   # eski hattın Unsplash istekleri de saatlik sınıra sayılır
+        bag.g["unsplash"] += [time.time()] * FOTO_SAYAC["istek"]
+    # Görsel hattı: onaylandıktan sonra eski haberlerin otomatik görselleri küçük gruplar hâlinde düzeltilir
+    if yeni_hat and ayar.get("gorsel_toplu_duzeltme", False):
+        n = gs.toplu_duzelt(bag, int(ayar.get("gorsel_duzeltme_tur", 3)))
+        print(f"Görseli düzeltilen eski haber: {n}")
+    # Karşılaştırmalı deneme (haber dosyalarını değiştirmez); aynı liste ve kural sürümü için bir kez çalışır
+    deneme = [d for d in (ayar.get("gorsel_deneme") or []) if isinstance(d, str)]
+    deneme_imza = gs.imza(gs.KURAL_SURUMU, ayar.get("gorsel_deneme_no", 1), *deneme)
+    if deneme and (durum.get("gorsel", {}).get("deneme") or {}).get("imza") != deneme_imza:
+        print(f"\nGörsel denemesi: {len(deneme)} haber")
+        rapor = gs.deneme_calistir(bag, deneme)
+        rapor["imza"] = deneme_imza
+        durum["gorsel"]["deneme"] = rapor
+    if bag.notlar:
+        print("Kota/hata nedeniyle atlanan görsel kontrolleri:", *bag.notlar, sep="\n  ")
+    print(f"Görsel hattı yapay zekâ kullanımı: bu tur {bag.yz_tur}, bugün {bag.g['yz_bugun']}/{bag.yz_gunluk}; "
+          f"Unsplash son 1 saat: {len(bag.g['unsplash'])}/{bag.unsplash_saatlik}")
     json_yaz(ARSIV_DOSYA, arsiv)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
     durum["gorulen"] = gorulen[-3000:]

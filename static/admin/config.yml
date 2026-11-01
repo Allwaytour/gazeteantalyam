@@ -57,6 +57,7 @@ collections:
       - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
       - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
       - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Örn: Fotoğraf: AA" }
+      - { label: Görseli sabitle, name: gorsel_kilit, widget: boolean, required: false, default: false, hint: "Açıksa otomatik görsel seçimi bu haberin görseline dokunmaz." }
       - { label: Haber metni, name: body, widget: markdown, required: false }
       - { label: Kaynak adı (otomatik haberler), name: kaynak, widget: string, required: false }
       - { label: Kaynak bağlantısı (otomatik haberler), name: kaynak_url, widget: string, required: false }
@@ -133,6 +134,14 @@ collections:
               - { label: Kaynağın fotoğrafını kullan, name: kaynak_gorseli, widget: boolean }
               - { label: Kaç saatten eski kaynak haberleri alınmasın, name: en_eski_saat, widget: number, value_type: int }
               - { label: Otomatik haberler kaç gün sonra silinsin, name: en_eski_gun, widget: number, value_type: int }
+              - { label: Görsel hattı, name: gorsel_hatti, widget: select, options: [eski, yeni], default: eski, hint: "yeni: doğrulamalı görsel seçimi" }
+              - { label: Eski haberlerin görsellerini düzelt, name: gorsel_toplu_duzeltme, widget: boolean, default: false }
+              - { label: Turda düzeltilecek eski haber, name: gorsel_duzeltme_tur, widget: number, value_type: int, default: 3 }
+              - { label: Turda görseli kontrol edilecek yeni haber, name: gorsel_tur_limit, widget: number, value_type: int, default: 6 }
+              - { label: Görsel kontrolü günlük yapay zekâ sınırı, name: gorsel_yz_gunluk, widget: number, value_type: int, default: 100 }
+              - { label: Unsplash saatlik arama sınırı, name: unsplash_saatlik, widget: number, value_type: int, default: 35 }
+              - { label: Görsel denemesi numarası, name: gorsel_deneme_no, widget: number, value_type: int, default: 1, required: false }
+              - { label: Görsel denemesi haberleri, name: gorsel_deneme, widget: list, required: false, field: { label: Dosya adı, name: dosya, widget: string } }
           - label: Kaynaklar
             name: kaynaklar
             widget: list

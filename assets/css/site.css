@@ -404,3 +404,9 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .alt-marka{grid-column:1/-1}
   .yazar-profil{flex-direction:column;align-items:flex-start}
 }
+/* Görsel türü açıklaması (Temsili görsel / Kategori görseli) */
+.g-not{position:absolute;top:6px;right:6px;z-index:2;background:rgba(15,25,30,.72);color:#fff;font-size:10px;font-weight:600;letter-spacing:.02em;line-height:1;padding:4px 6px;border-radius:2px;pointer-events:none}
+.h-kucuk .g-not,.lo-g .g-not,.sd-liste .g-not{font-size:9px;padding:3px 4px;top:4px;right:4px}
+.haber .kapak figcaption .g-not{position:static;display:inline-block;margin-right:6px;background:var(--mavi-koyu);vertical-align:1px}
+.haber .kapak figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.kart-g,.lo-g{position:relative}

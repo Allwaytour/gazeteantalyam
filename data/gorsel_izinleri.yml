@@ -1,0 +1,59 @@
+# Görsel kullanım izni kaydı (kaynak bazında)
+#
+# Bir görselin internette ya da resmî bir kurum sitesinde bulunması kullanım izni DEĞİLDİR.
+# Yalnızca burada "izin: true" yazan ve dayanağı belgelenmiş kaynakların görselleri kullanılır.
+#   izin: true/false          -> kullanım izni doğrulandı mı?
+#   haber_gorseli: true       -> kaynağın haber sayfasındaki kendi görseli, aynı haber için kullanılabilir
+#   dayanak                   -> izin belgesi, sözleşme, lisans sayfası ya da yazışma bilgisi
+#   kosul / kredi             -> gösterilmesi gereken kredi ve uyulacak kullanım koşulları
+#   kontrol_tarihi            -> kaydın en son doğrulandığı tarih
+# Yeni bir kaynağa izin vermek için yazılı izin/sözleşme alınmalı ve dayanağı buraya yazılmalıdır.
+
+kaynaklar:
+  - ad: Wikimedia Commons
+    alan: commons.wikimedia.org
+    izin: true
+    haber_gorseli: false
+    tur: dosya bazında özgür lisans
+    dayanak: "Her dosyanın lisansı (CC0, CC BY, CC BY-SA, kamu malı) dosya sayfasından okunur ve haberle birlikte kaydedilir."
+    kosul: "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur."
+    kontrol_tarihi: 2026-11-01
+
+  - ad: Unsplash
+    alan: unsplash.com
+    izin: true
+    haber_gorseli: false
+    tur: stok (yalnızca temsili görsel)
+    dayanak: "https://unsplash.com/license ve Unsplash API kuralları"
+    kosul: "Fotoğrafçı ve Unsplash adı belirtilir; görsel Unsplash adresinden gösterilir; kullanımda indirme bildirimi gönderilir."
+    kontrol_tarihi: 2026-11-01
+
+  - ad: Anadolu Ajansı
+    alan: aa.com.tr
+    izin: false
+    dayanak: "Abonelik/sözleşme yok."
+
+  - ad: TRT Haber
+    alan: trthaber.com
+    izin: false
+    dayanak: "Yazılı izin yok."
+
+  - ad: Antalya Büyükşehir Belediyesi
+    alan: antalya.bel.tr
+    izin: false
+    dayanak: "Yazılı izin veya açık lisans doğrulanmadı; sitede yayımlanmış olması izin sayılmaz."
+
+  - ad: Antalya Valiliği
+    alan: antalya.gov.tr
+    izin: false
+    dayanak: "Yazılı izin veya açık lisans doğrulanmadı."
+
+  - ad: İhlas Haber Ajansı
+    alan: iha.com.tr
+    izin: false
+    dayanak: "Abonelik/sözleşme yok."
+
+  - ad: Demirören Haber Ajansı
+    alan: dha.com.tr
+    izin: false
+    dayanak: "Abonelik/sözleşme yok."

@@ -12,7 +12,12 @@
       <span>Yayın: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span>
       {{ if gt .Lastmod .Date }}<span>· Güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
     </div>
-    {{ with .Params.gorsel }}<figure class="kapak"><img src="{{ . | relURL }}" alt="{{ $.Title }}" referrerpolicy="no-referrer">{{ with $.Params.gorsel_kredi }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>{{ end }}
+    {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}
+    <figure class="kapak"><img src="{{ . | relURL }}" alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ $.Title }}{{ end }}" referrerpolicy="no-referrer">
+      {{ if or $tur $.Params.gorsel_kredi }}<figcaption>{{ partial "gorsel-not.html" $tur }}
+        {{ with $s.fotografci }}Fotoğraf: {{ with $s.fotografci_sayfa }}<a href="{{ . }}{{ if in . "unsplash.com" }}?utm_source=gazete_antalya&amp;utm_medium=referral{{ end }}" rel="nofollow noopener" target="_blank">{{ $s.fotografci }}</a>{{ else }}{{ . }}{{ end }} / {{ if $s.kaynak_sayfa }}<a href="{{ $s.kaynak_sayfa }}{{ if in $s.kaynak_sayfa "unsplash.com" }}?utm_source=gazete_antalya&amp;utm_medium=referral{{ end }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "unsplash.com" }}Unsplash{{ else }}Wikimedia Commons{{ end }}</a>{{ end }}{{ if and $s.lisans (not (in $s.kaynak_sayfa "unsplash.com")) }} ({{ $s.lisans }}){{ end }}
+        {{ else }}{{ with $.Params.gorsel_kredi }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
+    </figure>{{ end }}
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
     {{ partial "paylas.html" . }}

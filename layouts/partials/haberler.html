@@ -6,7 +6,7 @@
   {{ $g := "" }}{{ with .Params.gorsel }}{{ $g = . | relURL }}{{ end }}
   {{ $liste = $liste | append (dict
     "baslik" .Title "ozet" (.Params.ozet | default (.Summary | plainify)) "link" .RelPermalink
-    "gorsel" $g "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "gorsel" $g "gorsel_tur" (partial "gorsel-tur.html" .) "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
     "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false
     "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}
 {{ end }}

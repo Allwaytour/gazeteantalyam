@@ -1,0 +1,4 @@
+{{/* Görselin türü: gercek | stok | kategori | "" (elle seçilmiş). Eski hattın kayıtlarında "Temsili fotoğraf" kredisi stok sayılır. */}}
+{{ $t := .Params.gorsel_tur | default "" }}
+{{ if and (not $t) .Params.gorsel (hasPrefix (.Params.gorsel_kredi | default "") "Temsili") }}{{ $t = "stok" }}{{ end }}
+{{ return $t }}

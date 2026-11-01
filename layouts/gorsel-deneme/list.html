@@ -1,0 +1,62 @@
+{{ define "main" }}
+{{ $r := (index site.Data "otomatik_durum").gorsel | default dict }}{{ $d := $r.deneme }}
+<section class="gd">
+  <header class="bolum-bas"><h1>Görsel seçimi denemesi</h1></header>
+  {{ if not $d }}
+  <p>Deneme henüz çalışmadı. Bir sonraki otomatik turda (en geç 30 dakika) sonuçlar burada görünecek.</p>
+  {{ else }}
+  <p class="gd-ozet">Tarih: {{ $d.tarih }} · Kural sürümü: {{ $d.surum }} · Model: {{ $d.model | default "-" }} · Kullanılan yapay zekâ isteği: {{ $d.yz_kullanilan }}.
+    Bu deneme haberlerin canlıdaki görsellerini <b>değiştirmez</b>.</p>
+  {{ with $d.atlanan_kontroller }}<div class="gd-uyari"><b>Kota/hata nedeniyle atlanan kontroller:</b><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul></div>{{ end }}
+  {{ range $i, $s := $d.satirlar }}
+  <article class="gd-satir">
+    <h2>{{ add $i 1 }}. {{ with $s.link }}<a href="{{ . }}">{{ end }}{{ $s.baslik | default $s.dosya }}{{ if $s.link }}</a>{{ end }} <small>{{ $s.kategori }}</small></h2>
+    {{ with $s.hata }}<p class="gd-red">Hata: {{ . }}</p>{{ end }}
+    {{ if $s.sonuc }}<p class="gd-not">{{ $s.sonuc }} — görsele dokunulmadı.</p>{{ end }}
+    {{ with $s.konu }}<p class="gd-konu"><b>Konu:</b> {{ .ana_olay }} · <b>Somut:</b> {{ .nesne_faaliyet }} · <b>Yer:</b> {{ .yer | default "-" }}
+      {{ with .kisiler }}· <b>Kişi:</b> {{ delimit . ", " }}{{ end }} {{ with .kurumlar }}· <b>Kurum:</b> {{ delimit . ", " }}{{ end }}
+      {{ with .olay_tarihi }}· <b>Tarih:</b> {{ . }}{{ end }} · <b>Hassas:</b> {{ .hassas }} · <b>Stok sorguları:</b> {{ delimit .stok_sorgulari ", " }}
+      {{ with .gercek_arama }}· <b>Gerçek görsel araması:</b> {{ . }}{{ end }}</p>{{ end }}
+    <div class="gd-iki">
+      <div>
+        <p class="gd-bas">Eski görsel</p>
+        {{ $e := $s.eski | default dict }}
+        {{ with $e.gorsel }}<img src="{{ . | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ else }}<div class="gd-bos">görsel yok</div>{{ end }}
+        <p class="gd-kucuk">{{ $e.kredi }}</p>
+        {{ with $s.eski_degerlendirme }}<p class="{{ if eq .karar "kabul" }}gd-ok{{ else }}gd-red{{ end }}">
+          {{ if eq .karar "kabul" }}Eski görsel kontrolden geçti{{ else if .karar }}Neden elendi{{ else }}Değerlendirilemedi{{ end }}{{ with .puan }} (konu puanı {{ . }}/10){{ end }}: {{ .gerekce }}</p>{{ end }}
+      </div>
+      {{ with $s.yeni }}
+      <div>
+        <p class="gd-bas">Önerilen: {{ index (dict "gercek" "Gerçek haber fotoğrafı" "stok" "Temsili görsel (stok)" "kategori" "Kategori görseli") .tur }}</p>
+        <img src="{{ .gorsel | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <p class="gd-kucuk">{{ with .kredi }}{{ . }}{{ end }}{{ with .kaynak_sayfa }} · <a href="{{ . }}" target="_blank" rel="noopener">kaynak sayfası</a>{{ end }}</p>
+        <p><b>Gerekçe:</b> {{ .gerekce }}</p>
+        <p class="gd-kucuk"><b>Lisans:</b> {{ .lisans | default "-" }}{{ with .lisans_dayanagi }} ({{ . }}){{ end }}{{ with .kosul }}<br><b>Koşul:</b> {{ . }}{{ end }}</p>
+        <p class="gd-kucuk"><b>Görsel kontrol:</b> {{ $k := .kontrol | default dict }}{{ if $k.yapildi }}yapıldı{{ else }}yapılmadı{{ end }} – {{ $k.sonuc }} ({{ $k.yontem }}{{ with $k.neden }}: {{ . }}{{ end }}){{ with $k.tarih }}, {{ . }}{{ end }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ with $s.adaylar }}
+    <details class="gd-aday"><summary>İncelenen adaylar ({{ len . }})</summary>
+      <div class="gd-izgara">{{ range . }}
+        <figure><img src="{{ .url }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <figcaption class="{{ if eq .karar "kabul" }}gd-ok{{ else }}gd-red{{ end }}"><b>{{ .karar | default "kontrol yok" }}</b>{{ with .puan }} · {{ . }}/10{{ end }} · {{ .kaynak }}{{ with .sorgu }} («{{ . }}»){{ end }}<br>{{ .gerekce }}{{ with .dogrulama }}<br>{{ . }}{{ end }}</figcaption></figure>
+      {{ end }}</div>
+    </details>{{ end }}
+    {{ with $s.notlar }}<p class="gd-kucuk">Notlar: {{ delimit . "; " }}</p>{{ end }}
+  </article>
+  {{ end }}
+  {{ end }}
+</section>
+<style>
+.gd{max-width:1100px;margin:0 auto 40px}.gd-ozet{color:var(--soluk)}.gd-uyari{background:#FFF4E5;padding:10px 14px;margin:12px 0}
+.gd-satir{border-top:2px solid var(--mavi-koyu);padding:18px 0 22px}.gd-satir h2{font-size:20px;margin:0 0 6px}.gd-satir h2 small{font-size:12px;color:var(--turuncu);text-transform:uppercase}
+.gd-konu{font-size:13px;background:#F3F5F6;padding:8px 10px}.gd-iki{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.gd-iki img,.gd-bos{width:100%;aspect-ratio:16/9;object-fit:cover;background:#ddd;display:block}.gd-bos{display:grid;place-items:center;color:#777}
+.gd-bas{font-weight:800;text-transform:uppercase;font-size:12px;letter-spacing:.05em;margin:8px 0 6px}.gd-kucuk{font-size:12.5px;color:var(--soluk)}
+.gd-ok{color:#1F7A3A}.gd-red{color:#B3261E}.gd-izgara{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px;margin-top:10px}
+.gd-izgara img{width:100%;aspect-ratio:3/2;object-fit:cover}.gd-izgara figcaption{font-size:11.5px}.gd-aday summary{cursor:pointer;font-weight:700;margin-top:10px}
+@media (max-width:720px){.gd-iki{grid-template-columns:1fr}}
+</style>
+{{ end }}
