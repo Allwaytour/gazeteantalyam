@@ -5749,6 +5749,21 @@
    "lisans_url": "https://creativecommons.org/licenses/by/4.0",
    "yazar": "Turkish delight2",
    "onay": "2026-11-02"
+  },
+  {
+   "baslik": "File:COP30 - Murat Kurum 02.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/COP30_-_Murat_Kurum_02.jpg/1280px-COP30_-_Murat_Kurum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:COP30_-_Murat_Kurum_02.jpg",
+   "genislik": 3376,
+   "yukseklik": 6000,
+   "aciklama": "Murat Kurum walking with delegates at COP30 Blue Zone in Belém (Nov 21, 2025)",
+   "nesne": "COP30 - Murat Kurum 02",
+   "tarih": "2025-11-21 14:36:49",
+   "kategoriler": "CC-BY-SA-4.0 | Murat Kurum | People at the 2025 United Nations Climate Change Conference | Randy (Wikiportraits) | Self-published work | WikiPortraits at COP30",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Xuthoria",
+   "onay": "2026-11-02"
   }
  ],
  "wd:1:mehmet nuri ersoy:kultur ve turizm bakani": {
@@ -6884,6 +6899,21 @@
    "lisans": "CC BY-SA 3.0",
    "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "yazar": "AntalyasporFC",
+   "onay": "2026-11-02"
+  },
+  {
+   "baslik": "File:Yeni Antalya Stadyumu - 23.6.15.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+   "genislik": 2592,
+   "yukseklik": 1456,
+   "aciklama": "New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.",
+   "nesne": "Yeni Antalya Stadyumu - 23.6.15",
+   "tarih": "2015-06-23 19:03:28",
+   "kategoriler": "Antalya Arena | CC-BY-SA-4.0 | Self-published work",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Onur",
    "onay": "2026-11-02"
   }
  ],
@@ -11896,6 +11926,83 @@
   "aciklama": "Türk siyasetçi Turkish statesperson (born 1968)",
   "p18": [],
   "kategori": "",
+  "mekan": []
+ },
+ "wd:v3:0:akdeniz universitesi manavgat sosyal ve beseri bilimler fakultesi:antalya manavgat sosyal ve beseri biliml": null,
+ "wd:v3:0:akdeniz university manavgat faculty of social and humanities:antalya": null,
+ "wd:v3:mekan::": [],
+ "wd:v3:0:antalyaspor:antalya :takim": {
+  "qid": "Q43710",
+  "ad": "Antalyaspor",
+  "aciklama": "Turkish association football club Antalyaspor Kulübü futbol branşındaki takımı",
+  "p18": [
+   "Sinan Gümüş sign to Antalyaspor 20220210 1.jpg"
+  ],
+  "kategori": "Antalyaspor",
+  "mekan": [
+   "Q417007"
+  ]
+ },
+ "wd:v3:mekan:Q43710:Q417007": [
+  {
+   "qid": "Q7005353",
+   "acilis": "2015-00-00",
+   "ad": "Antalya Stadyumu",
+   "p18": [
+    "Yeni Antalya Stadyumu - 23.6.15.JPG"
+   ]
+  }
+ ],
+ "cf:File:Yeni Antalya Stadyumu - 23.6.15.JPG": {
+  "baslik": "File:Yeni Antalya Stadyumu - 23.6.15.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "sayfa": "https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+  "genislik": 2592,
+  "yukseklik": 1456,
+  "aciklama": "New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.",
+  "nesne": "Yeni Antalya Stadyumu - 23.6.15",
+  "tarih": "2015-06-23 19:03:28",
+  "kategoriler": "Antalya Arena | CC-BY-SA-4.0 | Self-published work",
+  "lisans": "CC BY-SA 4.0",
+  "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "yazar": "Onur"
+ },
+ "wd:v3:mekan:Q138230:Q1770357": [
+  {
+   "qid": "Q1770357",
+   "acilis": "2005-00-00",
+   "ad": "Recep Tayyip Erdoğan Stadyumu",
+   "p18": [
+    "Stadion Kasimpasa.JPG"
+   ]
+  }
+ ],
+ "wd:v3:0:kepez hasan dogan stadi:antalya kepez hasan dogan stadi": {
+  "qid": "Q72284673",
+  "ad": "Kepez Hasan Doğan Stadı",
+  "aciklama": "Türkiye'de bir stadyum.",
+  "p18": [],
+  "kategori": "",
+  "mekan": []
+ },
+ "wd:v3:0:kepezspor:antalya kepez hasan dogan stadi:takim": null,
+ "wd:v3:0:usakspor:antalya kepez hasan dogan stadi:takim": {
+  "qid": "Q734769",
+  "ad": "Uşakspor",
+  "aciklama": "professional association football club based in Turkey",
+  "p18": [],
+  "kategori": "",
+  "mekan": []
+ },
+ "wd:v3:mekan:Q734769:": [],
+ "wd:v3:0:antalya havalimani:antalya antalya havalimani": {
+  "qid": "Q827480",
+  "ad": "Antalya Havalimanı",
+  "aciklama": "international airport in Antalya, Turkey Antalya'da bulunan uluslararası bir havalimanı",
+  "p18": [
+   "Antalya Airport Karakas-2.jpg"
+  ],
+  "kategori": "Antalya Airport",
   "mekan": []
  }
 }
