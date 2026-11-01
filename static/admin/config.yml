@@ -117,6 +117,9 @@ collections:
           - { label: Üst reklam görseli (logonun yanı), name: reklam_banner, widget: image, required: false, hint: "Yatay görsel, en-boy oranı yaklaşık 3:1 (ör. 960x320). Boş bırakılırsa alan gizlenir." }
           - { label: Reklam bağlantısı, name: reklam_link, widget: string, required: false }
           - { label: Reklam adı, name: reklam_ad, widget: string, required: false }
+          - { label: Dikey reklam görseli (kenar sütunları), name: dikey_reklam, widget: image, required: false, hint: "Dikey görsel, 600x1066 (9:16) önerilir. Boş bırakılırsa alan gizlenir." }
+          - { label: Dikey reklam bağlantısı, name: dikey_reklam_link, widget: string, required: false, hint: "Web adresi ya da telefon (tel:+905xxxxxxxxx)" }
+          - { label: Dikey reklam adı, name: dikey_reklam_ad, widget: string, required: false }
           - { label: Cusdis uygulama kimliği (okur yorumları), name: cusdis_app_id, widget: string, required: false, hint: "cusdis.com'da sitenizi ekleyince verilen App ID. Boşsa yorum kısmı görünmez." }
           - { label: Kategoriler, name: kategoriler, widget: list, hint: "Yeni kategori eklerseniz haber formundaki listeye de eklenmesi gerekir." }
           - { label: İlçeler, name: ilceler, widget: list }

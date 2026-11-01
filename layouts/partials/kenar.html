@@ -1,5 +1,5 @@
 <aside class="kenar">
-  {{ partial "vitrin.html" "vitrin-kenar" }}
+  {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ else }}{{ partial "vitrin.html" "vitrin-kenar" }}{{ end }}
   <section class="hava-kutu">
     <h2 class="kenar-bas">Antalya'da hava</h2>
     <div class="hava-simdi"><span class="der" id="hava-der">–</span><div><b id="hava-durum">Yükleniyor…</b><small id="hava-ek"></small></div></div>
@@ -11,8 +11,10 @@
     <ol class="numarali">{{ range . }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ol>
   </section>
   {{ end }}
+  {{ if not site.Data.site.dikey_reklam }}
   <section>
     <h2 class="kenar-bas">İlçeler</h2>
     <div class="ilce-bulut">{{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</div>
   </section>
+  {{ end }}
 </aside>

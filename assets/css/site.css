@@ -459,3 +459,10 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .alt-grup li a{padding:8px 0}
   .alt-alt{border-top:0}
 }
+
+/* Dikey reklam (kenar sütunları) */
+.vitrin-dikey{max-width:300px;width:100%;margin:0 auto}
+.vitrin-dikey .vitrin{display:block;line-height:0;box-shadow:0 0 0 1px var(--cizgi)}
+.vitrin-dikey img{width:100%;height:auto}
+@media (max-width:900px){.kenar .vitrin-dikey{grid-column:1/-1}}
+@media (max-width:720px){.vitrin-dikey{max-width:280px}}

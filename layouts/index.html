@@ -69,18 +69,20 @@
     </div>
   </section>
   <aside class="kenar">
-    {{ partial "vitrin.html" "vitrin-kenar" }}
+    {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ else }}{{ partial "vitrin.html" "vitrin-kenar" }}{{ end }}
     <section class="hava-kutu">
       <h2 class="kenar-bas">Antalya'da hava</h2>
       <div class="hava-simdi"><span class="der" id="hava-der">–</span><div><b id="hava-durum">Yükleniyor…</b><small id="hava-ek"></small></div></div>
       <div class="hava-gunler" id="hava-gunler"></div>
     </section>
+    {{ if not site.Data.site.dikey_reklam }}
     <section>
       <h2 class="kenar-bas">Son dakika</h2>
       <ol class="sd-liste">
         {{ range first 6 $hepsi }}<li><time datetime="{{ .iso }}" data-saat></time><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}
       </ol>
     </section>
+    {{ end }}
   </aside>
 </div>
 
