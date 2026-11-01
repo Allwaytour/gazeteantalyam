@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7.3"
+SURUM = "g7.4"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -452,13 +452,25 @@ def _wd_get(params):
     return r.json()
 
 
+def guncel_mekan(iddialar):
+    """Takımın BUGÜNKÜ iç saha stadı: bitiş tarihi (P582) olan ya da geçersiz sayılan kayıtlar atlanır; 'tercih edilen' önce."""
+    gecerli = [c for c in iddialar if c.get("rank") != "deprecated" and "P582" not in (c.get("qualifiers") or {})]
+    tercih = [c for c in gecerli if c.get("rank") == "preferred"] or gecerli
+    idler = [c.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") for c in tercih]
+    return [i for i in idler if i][:1]
+
+
+# Takım fotoğrafında belirli bir maç/rakip öne çıkıyorsa başka bir karşılaşmanın görüntüsü sanılır.
+MAC_IPUCU = re.compile(r"(?i)\b(vs\.?|v\.|match|maçı?|derbi|derby|ceremony|seremoni)\b|\w+spor\s*[-–]\s*\w+|\w+\s*[-–]\s*\w+spor|\d+\s*[-–]\s*\d+")
+
+
 TAKIM_TURLERI = {"Q476028", "Q847017", "Q12973014", "Q1194951", "Q20639856"}   # futbol kulübü, spor kulübü, spor takımı, ulusal futbol takımı, kadın futbol takımı
 
 
 def wikidata_varlik(bag, ad, insan=True, ipucu="", turler=None):
     """Adı birebir tutan Wikidata kaydı. Kişi için P31=insan şartı; birden çok aday varsa açıklama ipucuyla
     tekil olarak ayrışmalı, ayrışmıyorsa None (yanlış kişiyi seçmemek için)."""
-    anahtar = f"wd:v2:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}" + (":takim" if turler else "")
+    anahtar = f"wd:v3:{int(insan)}:{kucult(ad)}:{kucult(ipucu)[:40]}" + (":takim" if turler else "")
     if anahtar in bag.arsiv:
         return bag.arsiv[anahtar]
     hedef = " ".join(kelimeler(ad))
@@ -486,7 +498,7 @@ def wikidata_varlik(bag, ad, insan=True, ipucu="", turler=None):
             deger = lambda p: [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get(p) or [])]
             adaylar.append({"qid": e["id"], "ad": ad, "aciklama": temiz(acik, 200), "p18": [x for x in deger("P18") if isinstance(x, str)],
                             "kategori": next((x for x in deger("P373") if isinstance(x, str)), ""),
-                            "mekan": [x.get("id") for x in deger("P115") if isinstance(x, dict) and x.get("id")][:2]})
+                            "mekan": guncel_mekan(e.get("claims", {}).get("P115") or [])})
         tek_kelime = insan and len(hedef.split()) < 2
         if len(adaylar) == 1 and not tek_kelime:
             sonuc = adaylar[0]
@@ -703,6 +715,8 @@ def kurum_wikidata_adaylari(bag, konu):
         for d in dosyalar:
             ok, _ = commons_uygun(d)
             if not ok or bag.yasakli_mi(d["url"]):
+                continue
+            if h.get("tur") == "takim" and MAC_IPUCU.search(d["baslik"].replace("File:", "") + " " + d["aciklama"][:160]):
                 continue
             cekim = tarih_oku(d.get("tarih"))
             adaylar.append({
