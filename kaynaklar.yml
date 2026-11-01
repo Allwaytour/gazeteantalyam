@@ -18,7 +18,7 @@ ayarlar:
   gorsel_toplu_duzeltme: false  # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
   gorsel_duzeltme_tur: 4        # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
-  gorsel_yz_gunluk: 100         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
+  gorsel_yz_gunluk: 200         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
   gorsel_deneme_no: 7           # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # karşılaştırmalı deneme (haber dosyalarını değiştirmez)
     - 20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md
