@@ -1,0 +1,14 @@
+# Gazete Antalya fotoğraf arşivi
+# Kendi çektiğimiz ya da kullanım hakkı yazılı olarak alınmış fotoğraflar. Görsel seçimi, haberde ADI GEÇEN
+# yer/kurum/tesis/takım bu kayıtlardaki "anahtarlar"la eşleşirse bu fotoğrafları "Arşiv" etiketiyle kullanır.
+# Yönetim panelinden (Ayarlar > Fotoğraf arşivi) eklenebilir. "dayanak" boş olan kayıt kullanılmaz.
+#
+# Örnek:
+#   - ad: Kepez Belediyesi Stadı
+#     gorsel: /images/arsiv/kepez-stadi.jpg
+#     anahtarlar: [Kepezspor, Kepez Belediyesi Stadı]
+#     kredi: Gazete Antalya
+#     dayanak: Gazete Antalya muhabirinin çekimi
+#     tarih: 2026-05-10
+
+fotograflar: []

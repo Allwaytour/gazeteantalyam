@@ -1,2 +1,3 @@
-{{/* Küçük görsel açıklaması. Parametre: görsel türü */}}
-{{ if eq . "stok" }}<span class="g-not">Temsili görsel</span>{{ else if eq . "kategori" }}<span class="g-not">Kategori görseli</span>{{ end }}
+{{/* Küçük görsel açıklaması. Parametre: dict "tur" "yil" */}}
+{{ $t := .tur | default "" }}
+{{ if eq $t "arsiv" }}<span class="g-not">Arşiv{{ with .yil }} · {{ . }}{{ end }}</span>{{ else if eq $t "stok" }}<span class="g-not">Temsili görsel</span>{{ else if eq $t "kategori" }}<span class="g-not">Kategori görseli</span>{{ end }}

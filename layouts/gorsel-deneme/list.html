@@ -13,9 +13,9 @@
     <h2>{{ add $i 1 }}. {{ with $s.link }}<a href="{{ . }}">{{ end }}{{ $s.baslik | default $s.dosya }}{{ if $s.link }}</a>{{ end }} <small>{{ $s.kategori }}</small></h2>
     {{ with $s.hata }}<p class="gd-red">Hata: {{ . }}</p>{{ end }}
     {{ if $s.sonuc }}<p class="gd-not">{{ $s.sonuc }} — görsele dokunulmadı.</p>{{ end }}
-    {{ with $s.konu }}<p class="gd-konu"><b>Konu:</b> {{ .ana_olay }} · <b>Somut:</b> {{ .nesne_faaliyet }} · <b>Yer:</b> {{ .yer | default "-" }}
+    {{ with $s.konu }}<p class="gd-konu"><b>Konu:</b> {{ .ana_olay }} · <b>Odak:</b> {{ .odak }} · <b>Yer:</b> {{ .yer | default "-" }}
       {{ with .kisiler }}· <b>Kişi:</b> {{ delimit . ", " }}{{ end }} {{ with .kurumlar }}· <b>Kurum:</b> {{ delimit . ", " }}{{ end }}
-      {{ with .olay_tarihi }}· <b>Tarih:</b> {{ . }}{{ end }} · <b>Hassas:</b> {{ .hassas }} · <b>Stok sorguları:</b> {{ delimit .stok_sorgulari ", " }}
+      {{ with .olay_tarihi }}· <b>Tarih:</b> {{ . }}{{ end }} · <b>Hassas:</b> {{ .hassas }} · <b>Fotoğraf aranan yer/kurum:</b> {{ with .hedefler }}{{ range $j, $h := . }}{{ if $j }}, {{ end }}{{ $h.ad }}{{ end }}{{ else }}yok{{ end }}
       {{ with .gercek_arama }}· <b>Gerçek görsel araması:</b> {{ . }}{{ end }}</p>{{ end }}
     <div class="gd-iki">
       <div>
@@ -24,13 +24,13 @@
         {{ with $e.gorsel }}<img src="{{ . | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ else }}<div class="gd-bos">görsel yok</div>{{ end }}
         <p class="gd-kucuk">{{ $e.kredi }}</p>
         {{ with $s.eski_degerlendirme }}<p class="{{ if eq .karar "kabul" }}gd-ok{{ else }}gd-red{{ end }}">
-          {{ if eq .karar "kabul" }}Eski görsel kontrolden geçti{{ else if .karar }}Neden elendi{{ else }}Değerlendirilemedi{{ end }}{{ with .puan }} (konu puanı {{ . }}/10){{ end }}: {{ .gerekce }}</p>{{ end }}
+          {{ if eq .karar "kabul" }}Görüntü kontrolünde sorun bulunmadı, ancak denetimsiz genel stok seçimi olduğu için değiştirilir{{ else if .karar }}Neden elendi{{ else }}Değerlendirilemedi{{ end }}: {{ .gerekce }}</p>{{ end }}
       </div>
       {{ with $s.yeni }}
       <div>
-        <p class="gd-bas">Önerilen: {{ index (dict "gercek" "Gerçek haber fotoğrafı" "stok" "Temsili görsel (stok)" "kategori" "Kategori görseli") .tur }}</p>
+        <p class="gd-bas">Önerilen: {{ index (dict "gercek" "Gerçek haber fotoğrafı" "arsiv" "Arşiv fotoğrafı" "stok" "Temsili görsel (stok)" "kategori" "Fotoğrafsız kapak") .tur }}</p>
         <img src="{{ .gorsel | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">
-        <p class="gd-kucuk">{{ with .kredi }}{{ . }}{{ end }}{{ with .kaynak_sayfa }} · <a href="{{ . }}" target="_blank" rel="noopener">kaynak sayfası</a>{{ end }}</p>
+        <p class="gd-kucuk">{{ with .gosterilen }}Gösterilen: {{ . }} · {{ end }}{{ with .kredi }}{{ . }}{{ end }}{{ with .kaynak_sayfa }} · <a href="{{ . }}" target="_blank" rel="noopener">kaynak sayfası</a>{{ end }}</p>
         <p><b>Gerekçe:</b> {{ .gerekce }}</p>
         <p class="gd-kucuk"><b>Lisans:</b> {{ .lisans | default "-" }}{{ with .lisans_dayanagi }} ({{ . }}){{ end }}{{ with .kosul }}<br><b>Koşul:</b> {{ . }}{{ end }}</p>
         <p class="gd-kucuk"><b>Görsel kontrol:</b> {{ $k := .kontrol | default dict }}{{ if $k.yapildi }}yapıldı{{ else }}yapılmadı{{ end }} – {{ $k.sonuc }} ({{ $k.yontem }}{{ with $k.neden }}: {{ . }}{{ end }}){{ with $k.tarih }}, {{ . }}{{ end }}</p>
@@ -41,7 +41,7 @@
     <details class="gd-aday"><summary>İncelenen adaylar ({{ len . }})</summary>
       <div class="gd-izgara">{{ range . }}
         <figure><img src="{{ .url }}" alt="" loading="lazy" referrerpolicy="no-referrer">
-          <figcaption class="{{ if eq .karar "kabul" }}gd-ok{{ else }}gd-red{{ end }}"><b>{{ .karar | default "kontrol yok" }}</b>{{ with .puan }} · {{ . }}/10{{ end }} · {{ .kaynak }}{{ with .sorgu }} («{{ . }}»){{ end }}<br>{{ .gerekce }}{{ with .dogrulama }}<br>{{ . }}{{ end }}</figcaption></figure>
+          <figcaption class="{{ if eq .karar "kabul" }}gd-ok{{ else }}gd-red{{ end }}"><b>{{ .karar | default "kontrol yok" }}</b> · {{ .kaynak }}{{ with .hedef }} («{{ . }}»){{ end }}{{ with .lisans }} · {{ . }}{{ end }}<br>{{ .gerekce }}{{ with .dogrulama }}<br>{{ . }}{{ end }}</figcaption></figure>
       {{ end }}</div>
     </details>{{ end }}
     {{ with $s.notlar }}<p class="gd-kucuk">Notlar: {{ delimit . "; " }}</p>{{ end }}

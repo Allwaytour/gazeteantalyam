@@ -14,19 +14,16 @@ kaynaklar:
     alan: commons.wikimedia.org
     izin: true
     haber_gorseli: false
-    tur: dosya bazında özgür lisans
+    tur: dosya bazında özgür lisans (yalnızca aynı olayın ya da haberde adı geçen yerin/kurumun fotoğrafı)
     dayanak: "Her dosyanın lisansı (CC0, CC BY, CC BY-SA, kamu malı) dosya sayfasından okunur ve haberle birlikte kaydedilir."
     kosul: "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur."
     kontrol_tarihi: 2026-11-01
 
   - ad: Unsplash
     alan: unsplash.com
-    izin: true
+    izin: false
     haber_gorseli: false
-    tur: stok (yalnızca temsili görsel)
-    dayanak: "https://unsplash.com/license ve Unsplash API kuralları"
-    kosul: "Fotoğrafçı ve Unsplash adı belirtilir; görsel Unsplash adresinden gösterilir; kullanımda indirme bildirimi gönderilir."
-    kontrol_tarihi: 2026-11-01
+    dayanak: "Lisans uygun olsa da genel stok fotoğraf haber görseli olarak KULLANILMAZ (görsel seçimi g6)."
 
   - ad: Anadolu Ajansı
     alan: aa.com.tr

@@ -120,6 +120,25 @@ collections:
           - { label: Cusdis uygulama kimliği (okur yorumları), name: cusdis_app_id, widget: string, required: false, hint: "cusdis.com'da sitenizi ekleyince verilen App ID. Boşsa yorum kısmı görünmez." }
           - { label: Kategoriler, name: kategoriler, widget: list, hint: "Yeni kategori eklerseniz haber formundaki listeye de eklenmesi gerekir." }
           - { label: İlçeler, name: ilceler, widget: list }
+      - name: fotograf_arsivi
+        label: Fotoğraf arşivi
+        file: data/gorsel_arsivi.yml
+        media_folder: /static/images/arsiv
+        public_folder: /images/arsiv
+        fields:
+          - label: Fotoğraflar
+            name: fotograflar
+            widget: list
+            required: false
+            summary: "{{ad}}"
+            hint: "Kendi çektiğimiz ya da kullanım izni yazılı olarak alınmış yer/kurum/tesis fotoğrafları. Haberde adı geçen yer bu anahtarlarla eşleşirse 'Arşiv' etiketiyle kullanılır."
+            fields:
+              - { label: Ne gösteriyor, name: ad, widget: string, hint: "Örn: Kepez Belediyesi Stadı" }
+              - { label: Fotoğraf, name: gorsel, widget: image }
+              - { label: Anahtarlar (yer/kurum/takım adları), name: anahtarlar, widget: list, hint: "Örn: Kepezspor, Kepez Stadı" }
+              - { label: Fotoğrafçı / kredi, name: kredi, widget: string, default: Gazete Antalya }
+              - { label: Kullanım dayanağı, name: dayanak, widget: string, hint: "Örn: Muhabirimizin çekimi / X Belediyesi'nin yazılı izni (tarih)" }
+              - { label: Çekim tarihi, name: tarih, widget: datetime, format: "YYYY-MM-DD", time_format: false, required: false }
       - name: kaynaklar
         label: Haber Kaynakları
         file: kaynaklar.yml
@@ -131,15 +150,12 @@ collections:
               - { label: Yapay zekâ ile özgün haber yaz, name: yapay_zeka, widget: boolean }
               - { label: Günlük yapay zekâ haber sınırı, name: yz_gunluk_limit, widget: number, value_type: int }
               - { label: Her turda en fazla yeni haber, name: tur_basina_haber, widget: number, value_type: int }
-              - { label: Kaynağın fotoğrafını kullan, name: kaynak_gorseli, widget: boolean }
               - { label: Kaç saatten eski kaynak haberleri alınmasın, name: en_eski_saat, widget: number, value_type: int }
               - { label: Otomatik haberler kaç gün sonra silinsin, name: en_eski_gun, widget: number, value_type: int }
-              - { label: Görsel hattı, name: gorsel_hatti, widget: select, options: [eski, yeni], default: eski, hint: "yeni: doğrulamalı görsel seçimi" }
               - { label: Eski haberlerin görsellerini düzelt, name: gorsel_toplu_duzeltme, widget: boolean, default: false }
-              - { label: Turda düzeltilecek eski haber, name: gorsel_duzeltme_tur, widget: number, value_type: int, default: 3 }
+              - { label: Turda düzeltilecek eski haber, name: gorsel_duzeltme_tur, widget: number, value_type: int, default: 4 }
               - { label: Turda görseli kontrol edilecek yeni haber, name: gorsel_tur_limit, widget: number, value_type: int, default: 6 }
               - { label: Görsel kontrolü günlük yapay zekâ sınırı, name: gorsel_yz_gunluk, widget: number, value_type: int, default: 100 }
-              - { label: Unsplash saatlik arama sınırı, name: unsplash_saatlik, widget: number, value_type: int, default: 35 }
               - { label: Görsel denemesi numarası, name: gorsel_deneme_no, widget: number, value_type: int, default: 1, required: false }
               - { label: Görsel denemesi haberleri, name: gorsel_deneme, widget: list, required: false, field: { label: Dosya adı, name: dosya, widget: string } }
           - label: Kaynaklar
