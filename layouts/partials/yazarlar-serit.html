@@ -8,9 +8,12 @@
       {{ $ad := $y.File.ContentBaseName }}
       {{ $son := index (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad).ByDate.Reverse 0 }}
       <a class="yazar-kart" href="{{ with $son }}{{ .RelPermalink }}{{ else }}{{ $y.RelPermalink }}{{ end }}">
-        {{ partial "yazar-foto.html" $y }}
-        <span class="yazar-ad">{{ $y.Title }}</span>
-        {{ with $son }}<span class="yazar-baslik">{{ .Title }}</span>{{ else }}{{ with $y.Params.unvan }}<span class="yazar-unvan">{{ . }}</span>{{ end }}{{ end }}
+        <span class="yk-portre">{{ partial "yazar-foto.html" $y }}</span>
+        <span class="yk-metin">
+          <span class="yk-kim"><span class="yazar-ad">{{ $y.Title }}</span>{{ with $y.Params.unvan }}<span class="yazar-unvan">{{ . }}</span>{{ end }}</span>
+          {{ with $son }}<span class="yazar-baslik">{{ .Title }}</span>
+          <span class="yk-tarih"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02.01.2006" }}</time> · Yazıyı oku <span aria-hidden="true">→</span></span>{{ end }}
+        </span>
       </a>
     {{ end }}
   </div>
