@@ -5181,16 +5181,21 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82QXkxUkc2RVh3b01xYmFEUk52TndnOUFLX1htQk9INkNadDBnYjFPd0g4SVZka2Rnc243eTVzRTIxS0tKU1lPdi1NSXVzTDRGNzJndTRYY284RW54WnZYTm1Gckdudw?oc=5",
    "baslik": "ANTALYASPOR A.Ş. YENİ BURDUR SPOR",
    "ts": 1793572219
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3BQRnhtZHpXYm5NS2x0bFB5bHY2YnVtdWxmT0JqOXJzZ2N1MFlpZVJXNkxoRkFVXzE0MEVWWkdJV2ZtRTljQWZBNlpRYnhtQmJhV2I5b2RfU28ybnFidm9FYUxQMGNsZ0ZQdUh5aE5xaHJxWE9HYUxEQUZEeXp0MG11bV9SQm9R?oc=5",
+   "baslik": "Alanya Belediye Tiyatrosu 3 şehirde kapalı gişe oynadı",
+   "ts": 1793572651
   }
  ],
- "son_calisma": "2026-11-02T01:33:47.826035+03:00",
+ "son_calisma": "2026-11-02T01:39:21.310132+03:00",
  "gorsel": {
   "gun": "2026-11-02",
-  "yz_bugun": 65,
+  "yz_bugun": 85,
   "onbellek": {
-   "konu:73f70c9bcac3": {
+   "konu:3ebb72c2440a": {
     "konu": {
-     "ana_olay": "Kuzey Kıbrıs Türk Cumhuriyeti 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret etti.",
+     "ana_olay": "KKTC 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret etti.",
      "odak": "kisi",
      "kisiler": [
       "Ersin Tatar",
@@ -5207,7 +5212,7 @@
      "hedefler": [
       {
        "ad": "Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi",
-       "ad_en": "Akdeniz University Manavgat Faculty of Social and Human Sciences",
+       "ad_en": "Akdeniz University Manavgat Faculty of Social and Humanities",
        "tur": "tesis"
       }
      ],
@@ -5231,60 +5236,60 @@
       ]
      }
     },
-    "t": "2026-11-02T01:30:28+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:37:39+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "18e5f66496be": {
+   "3452104cd437": {
     "karar": "kabul",
-    "gerekce": "Ersin Tatar'ın yer aldığı arşiv fotoğrafı, habere uygun bir portredir ve yanıltıcı değildir.",
-    "t": "2026-11-02T01:30:34+03:00",
-    "benzerlik": 5,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
+    "gerekce": "Ersin Tatar'ı net gösteren portre kare; arşiv kuralına uygun ve haber görseli olabilir.",
+    "t": "2026-11-02T01:37:51+03:00",
+    "benzerlik": 7,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
    },
-   "c1ce1b9691ee": {
-    "karar": "kabul",
-    "gerekce": "Ersin Tatar'ın katıldığı toplu bir etkinliği gösteren arşiv fotoğrafıdır.",
-    "t": "2026-11-02T01:30:34+03:00",
-    "benzerlik": 5,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "0b95d35467c5": {
-    "karar": "kabul",
-    "gerekce": "Ersin Tatar'ın ikili görüşmesini gösteren uygun bir arşiv fotoğrafıdır.",
-    "t": "2026-11-02T01:30:34+03:00",
-    "benzerlik": 6,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "daab3760c171": {
-    "karar": "kabul",
-    "gerekce": "Ersin Tatar'ın resmi görüşmesini gösteren arşiv fotoğrafıdır.",
-    "t": "2026-11-02T01:30:34+03:00",
-    "benzerlik": 6,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "3462bfcc0785": {
-    "karar": "kabul",
-    "gerekce": "Ersin Tatar'ın bir başka ikili görüşmesini gösteren arşiv karesidir.",
-    "t": "2026-11-02T01:30:34+03:00",
-    "benzerlik": 6,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "b9845d246c32": {
+   "be7a33043f36": {
     "karar": "red",
-    "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görüntü haber fotoğrafı değil, bir logo ve yazı içeren grafik görselidir.",
-    "t": "2026-11-02T01:30:34+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Başka bir ülkenin lideriyle resmi görüşmeyi gösteriyor, Manavgat ziyaretiyle uyuşmuyor.",
+    "t": "2026-11-02T01:37:51+03:00",
+    "benzerlik": 2,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "6e49b57bc698": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Dünya Göçebe Oyunları açılış törenini gösteriyor, üniversite ziyaretiyle bağdaşmıyor.",
+    "t": "2026-11-02T01:37:51+03:00",
+    "benzerlik": 1,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "eb01fee81099": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Cumhurbaşkanlığı göreve başlama törenini gösteriyor, Manavgat'taki fakülte ziyaretiyle ilgisi yok.",
+    "t": "2026-11-02T01:37:51+03:00",
+    "benzerlik": 1,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "db3239082dd3": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — İlham Aliyev ile ikili görüşmeyi gösteriyor, üniversite ziyaretiyle bağdaşmıyor.",
+    "t": "2026-11-02T01:37:51+03:00",
+    "benzerlik": 2,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "c8bbd4ef303f": {
+    "karar": "red",
+    "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Haber sitesinin logosunu/afişini gösteriyor, gerçek fotoğraf değil.",
+    "t": "2026-11-02T01:37:51+03:00",
     "benzerlik": 0,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:a886c94d9e1a": {
+   "konu:47b56b683d91": {
     "konu": {
-     "ana_olay": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'da düzenlenecek COP31 zirvesinde Konya'nın da yer alacağını açıkladı.",
+     "ana_olay": "Bakan Murat Kurum, Antalya'da düzenlenecek COP31 zirvesinde Konya'nın da yer alacağını ve organizasyonda en güçlü biçimde temsil edileceğini açıkladı.",
      "odak": "olay",
      "kisiler": [
       "Murat Kurum"
@@ -5304,114 +5309,127 @@
        "tur": "tesis"
       },
       {
-       "ad": "COP31",
-       "ad_en": "COP31",
-       "tur": "olay"
+       "ad": "Anadolu Bahçesi",
+       "ad_en": "Anatolian Garden",
+       "tur": "yer"
       }
      ],
      "ana_kisiler": [
       {
        "ad": "Murat Kurum",
-       "rol": "Çevre, Şehircilik ve İklim Değişikliği Bakanı / Minister of Environment, Urbanis"
+       "rol": "Çevre, Şehircilik ve İklim Değişikliği Bakanı / Environment Minister"
       }
      ],
      "etkinlik": {
       "tur": "açıklama",
       "anahtar_tr": [
        "açıklama",
-       "toplantı",
+       "basın toplantısı",
        "zirve"
       ],
       "anahtar_en": [
        "statement",
-       "meeting",
+       "press conference",
        "summit"
       ]
      }
     },
-    "t": "2026-11-02T01:30:37+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:37:52+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "8dd12e382646": {
-    "karar": "kabul",
-    "gerekce": "Bakan Murat Kurum'u etkinlik sahnesinde gösteren uygun bir arşiv fotoğrafı.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 7,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "a311a39c2f45": {
-    "karar": "kabul",
-    "gerekce": "Bakan Murat Kurum'u yakından gösteren arşiv niteliğinde uygun bir kare.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 7,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "d56489909459": {
-    "karar": "kabul",
-    "gerekce": "Murat Kurum'un konuşma anını gösteren uygun bir arşiv fotoğrafı.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 7,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "4a63073e97ab": {
-    "karar": "kabul",
-    "gerekce": "Bakan Kurum'u kürsüde gösteren uygun bir etkinlik arşiv fotoğrafı.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 7,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "15e859621732": {
+   "0bc3d35bec60": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kelebekler Vadisi manzarası, bakanlık açıklaması ve COP31 zirvesi haberiyle alakasız.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 1,
+    "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakan Kurum'un etkinlik içi arşiv fotoğrafı, habere uygundur.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 6,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "7faee42289f5": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Orman ve deniz manzarası güncel zirve haberiyle uyuşmuyor.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 1,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "7401e5890084": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Gelecek tarihli ve habersiz bir arazi çalışmasını gösterdiği için uygun değil.",
-    "t": "2026-11-02T01:30:45+03:00",
-    "benzerlik": 2,
+   "4f52631e0357": {
+    "karar": "kabul",
+    "gerekce": "Bakan Kurum'un kürsüdeki portre arşivi, haber için uygundur.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "6591ad90f44f": {
+   "f6ad6e702699": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kitaplık ve kafeterya içi görüntüsü haberin konusuyla tamamen alakasız.",
-    "t": "2026-11-02T01:30:45+03:00",
+    "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Etkinlik ortamını gösteren arşiv fotoğrafı habere uygundur.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 6,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "5f488142d0bf": {
+    "karar": "red",
+    "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakan Kurum'un katıldığı etkinlik arşivi, haberle uyumludur.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 6,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "d0d1f2f3ce69": {
+    "karar": "kabul",
+    "gerekce": "Bakan Kurum'u gösteren portre arşiv fotoğrafı habere uygundur.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 5,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "ce7681902840": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kelebekler Vadisi manzarası, bakan açıklaması ve Konya haberine uygun değildir.",
+    "t": "2026-11-02T01:38:00+03:00",
     "benzerlik": 0,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:395d7be3784d": {
+   "744841f6fecd": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Orman ve deniz manzarası habere konu olan zirveyle alakasızdır.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "ddd416de4611": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Müze bahçesi görüntüsü COP31 ve Antalya haberiyle uyuşmamaktadır.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "9d54328b50a1": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kütüphane veya kafe iç mekan görseli haberin konusuyla tamamen alakasızdır.",
+    "t": "2026-11-02T01:38:00+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "konu:515589d17037": {
     "konu": {
      "ana_olay": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'daki temasları sırasında yabancı dijital konaklama platformlarına yönelik hazırlanan yeni yasal düzenlemenin detaylarını paylaştı.",
-     "odak": "olay",
+     "odak": "kisi",
      "kisiler": [
       "Mehmet Nuri Ersoy"
      ],
      "kurumlar": [
-      "TBMM",
-      "Kültür ve Turizm Bakanlığı"
+      "TBMM"
      ],
      "yer": "Antalya",
      "olay_tarihi": "",
      "hassas": "yok",
      "gercek_arama": "",
-     "hedefler": [],
+     "hedefler": [
+      {
+       "ad": "TBMM",
+       "ad_en": "Turkish Parliament",
+       "tur": "kurum"
+      }
+     ],
      "ana_kisiler": [
       {
        "ad": "Mehmet Nuri Ersoy",
@@ -5422,7 +5440,7 @@
       "tur": "açıklama",
       "anahtar_tr": [
        "açıklama",
-       "basın toplantısı",
+       "toplantı",
        "turizm"
       ],
       "anahtar_en": [
@@ -5432,58 +5450,74 @@
       ]
      }
     },
-    "t": "2026-11-02T01:30:46+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:01+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "af2bdd391308": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğraf farklı bir uluslararası görüşmeyi göstermektedir ve yabancı bayraklar içermektedir.",
-    "t": "2026-11-02T01:30:54+03:00",
-    "benzerlik": 2,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "9317840c7248": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Farklı bir ülkedeki resmi kabine görüşmesini gösterdiği için habere uygun değildir.",
-    "t": "2026-11-02T01:30:54+03:00",
-    "benzerlik": 3,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "175554683a8d": {
+   "58fae00cdfad": {
     "karar": "kabul",
-    "gerekce": "Bakan Mehmet Nuri Ersoy'u net bir şekilde gösteren portre niteliğinde arşiv fotoğrafıdır.",
-    "t": "2026-11-02T01:30:54+03:00",
+    "gerekce": "Bakan Mehmet Nuri Ersoy'u yakın plan gösteren uygun bir arşiv karesi.",
+    "t": "2026-11-02T01:38:17+03:00",
     "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "cb2c2926a779": {
+   "674ae5c707da": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Toplu bir etkinlik açılışını gösterdiğinden bakanın açıklamasıyla uyuşmamaktadır.",
-    "t": "2026-11-02T01:30:54+03:00",
+    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Uluslararası bir görüşmeyi gösterdiği için Antalya'daki açıklama haberiyle uyuşmuyor.",
+    "t": "2026-11-02T01:38:17+03:00",
     "benzerlik": 2,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "f96139122a63": {
+   "8daed471b16e": {
+    "karar": "kabul",
+    "gerekce": "Mehmet Nuri Ersoy'un net portre arşiv fotoğrafı.",
+    "t": "2026-11-02T01:38:17+03:00",
+    "benzerlik": 7,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "8108cbc14a17": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Yurtdışındaki ikili görüşmeye ait olduğundan Antalya'daki açıklama haberiyle çelişir.",
-    "t": "2026-11-02T01:30:54+03:00",
+    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Maldivler lideriyle görüşme anı olduğundan habere uygun değil.",
+    "t": "2026-11-02T01:38:17+03:00",
     "benzerlik": 3,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "f106cf973df9": {
-    "karar": "kabul",
-    "gerekce": "Dijital konaklama platformları ve turizm haberine uygun genel bir otel havuzu görselidir.",
-    "t": "2026-11-02T01:30:54+03:00",
-    "benzerlik": 9,
+   "344ce3c96cda": {
+    "karar": "red",
+    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Göçebe Oyunları açılış törenini gösterdiği için haberle ilgisi yok.",
+    "t": "2026-11-02T01:38:17+03:00",
+    "benzerlik": 3,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:b3b9eb7ae443": {
+   "6641a60ded98": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Antalya'daki yerel bir açıklamayı konu alırken TBMM Genel Kurulu'nu göstermek yanıltıcıdır.",
+    "t": "2026-11-02T01:38:17+03:00",
+    "benzerlik": 4,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "4efc4d9fc886": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Meclis genel kurul salonu, Antalya'daki turizm açıklaması haberiyle uyumsuz.",
+    "t": "2026-11-02T01:38:17+03:00",
+    "benzerlik": 4,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "413e8239402e": {
+    "karar": "kabul",
+    "gerekce": "Konaklama ve turizm temalı habere uygun genel havuz ve otel görseli.",
+    "t": "2026-11-02T01:38:17+03:00",
+    "benzerlik": 8,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "konu:86709b03a590": {
     "konu": {
      "ana_olay": "AK Parti Genel Merkez Kadın Kolları Başkanı Tuğba Işık Ercan, Antalya'da düzenlenecek COP31'in Kadın Elçisi olarak görevlendirildi.",
      "odak": "kisi",
@@ -5495,19 +5529,18 @@
      "kurumlar": [
       "AK Parti",
       "AK Parti Genel Merkez Kadın Kolları",
-      "Birleşmiş Milletler",
-      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-      "COP31 Başkanlık Ofisi"
+      "COP31 Başkanlık Ofisi",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
      ],
      "yer": "Antalya",
      "olay_tarihi": "2025-10-07",
      "hassas": "yok",
-     "gercek_arama": "COP31 Antalya",
+     "gercek_arama": "COP31 Antalya Tuğba Işık Ercan",
      "hedefler": [],
      "ana_kisiler": [
       {
        "ad": "Tuğba Işık Ercan",
-       "rol": "AK Parti Kadın Kolları Başkanı ve Milletvekili / AK Parti Women's Branch Preside"
+       "rol": "AK Parti Kadın Kolları Başkanı ve Milletvekili / AK Parti Women's Branch Chair a"
       },
       {
        "ad": "Murat Kurum",
@@ -5528,52 +5561,60 @@
       ]
      }
     },
-    "t": "2026-11-02T01:30:56+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:18+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "89103beb1fee": {
+   "6f35d53d2a08": {
     "karar": "red",
-    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Tuğba Işık Ercan ile ilgili ancak fotoğrafta Murat Kurum yer alıyor.",
-    "t": "2026-11-02T01:31:28+03:00",
-    "benzerlik": 4,
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Haber Tuğba Işık Ercan hakkında ancak fotoğrafta Murat Kurum yer alıyor, bu nedenle habere uygun değil.",
+    "t": "2026-11-02T01:38:25+03:00",
+    "benzerlik": 3,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "9a5138f1e66d": {
+   "ccf3c885178f": {
     "karar": "red",
-    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Tuğba Işık Ercan hakkındayken görselde Murat Kurum yer alıyor, habere uygun değil.",
-    "t": "2026-11-02T01:31:28+03:00",
-    "benzerlik": 4,
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haberin konusuyla ilgisiz olarak Murat Kurum'u gösterdiğinden habere uygun değildir.",
+    "t": "2026-11-02T01:38:25+03:00",
+    "benzerlik": 3,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "dc48b31ba704": {
+   "caa9cdfb6466": {
     "karar": "red",
-    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Toplu görüşme ortamı, haberdeki kadın elçilik göreviyle ve Tuğba Işık Ercan ile ilgisiz.",
-    "t": "2026-11-02T01:31:28+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Toplu bir toplantı karesi olup haberde adı geçen ana kişiyi yansıtmadığı için uygun değil.",
+    "t": "2026-11-02T01:38:25+03:00",
     "benzerlik": 4,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "49bb8572bdc9": {
+   "120776064c5e": {
     "karar": "red",
-    "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Bakanlık toplantısını gösteriyor, haberin konusu olan kadın kolları görevlendirmesiyle uyuşmuyor.",
-    "t": "2026-11-02T01:31:28+03:00",
-    "benzerlik": 5,
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakanlık toplantısından bir kare olup haberin öznesiyle uyuşmamaktadır.",
+    "t": "2026-11-02T01:38:25+03:00",
+    "benzerlik": 4,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "36b580f47f11": {
+   "7dbe43dee3bb": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahnede konuşan yabancı uyruklu bir kadın var, AK Parti ve COP31 haberiyle tamamen alakasız.",
-    "t": "2026-11-02T01:31:28+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Murat Kurum'un portre fotoğrafı, Kadın Kolları Başkanının görevlendirilmesi haberiyle ilgisizdir.",
+    "t": "2026-11-02T01:38:25+03:00",
     "benzerlik": 2,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:9a0d8a50721d": {
+   "e5b3d30d913c": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahneye konuşma yapan yabancı bir kadını gösteriyor, haberle hiçbir bağı yok.",
+    "t": "2026-11-02T01:38:25+03:00",
+    "benzerlik": 2,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "konu:3e5b94d25805": {
     "konu": {
-     "ana_olay": "Ünlü şarkıcı Teoman, bugün Antalya'da konser verecek.",
+     "ana_olay": "Ünlü şarkıcı Teoman, Antalya'da hayranlarıyla buluşarak konser verecek.",
      "odak": "kisi",
      "kisiler": [
       "Teoman"
@@ -5604,58 +5645,58 @@
       ]
      }
     },
-    "t": "2026-11-02T01:31:29+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:27+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "ede0136a11ea": {
+   "51f682213e29": {
     "karar": "kabul",
-    "gerekce": "Sanatçının sahnede şarkı söylediği net bir konser fotoğrafıdır, habere uygundur.",
-    "t": "2026-11-02T01:31:36+03:00",
+    "gerekce": "Sanatçıyı sahnede mikrofonla gösteren güncel habere uygun konser fotoğrafı.",
+    "t": "2026-11-02T01:38:34+03:00",
     "benzerlik": 10,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "0d39d53f0e49": {
+   "fe8ed876a5e5": {
     "karar": "kabul",
-    "gerekce": "Sanatçının yakın plan konser anını gösteren uygun bir arşiv karesidir.",
-    "t": "2026-11-02T01:31:36+03:00",
-    "benzerlik": 10,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "e082e3798098": {
-    "karar": "kabul",
-    "gerekce": "Sahne ve enstrümanların göründüğü genel konser sahnesidir, habere uygundur.",
-    "t": "2026-11-02T01:31:36+03:00",
-    "benzerlik": 10,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "9f62fce4038f": {
-    "karar": "kabul",
-    "gerekce": "Konser ortamını ve sahneyi net bir şekilde yansıtan arşiv fotoğrafıdır.",
-    "t": "2026-11-02T01:31:36+03:00",
-    "benzerlik": 10,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "f482c10df271": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haberde adı geçen sanatçıyı değil, başka bir müzisyeni göstermektedir; yanıltıcıdır.",
-    "t": "2026-11-02T01:31:36+03:00",
+    "gerekce": "Sanatçının sahne performansını gösteren uygun bir arşiv portresi.",
+    "t": "2026-11-02T01:38:34+03:00",
     "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "b4eb94c9d75d": {
+   "8f2e0692d4e3": {
+    "karar": "kabul",
+    "gerekce": "Sahne üzerinde şarkı söyleyen sanatçıyı gösteren uygun konser karesi.",
+    "t": "2026-11-02T01:38:34+03:00",
+    "benzerlik": 10,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "8d583b10fdec": {
+    "karar": "kabul",
+    "gerekce": "Konser ortamını ve sanatçıyı net şekilde gösteren uygun arşiv fotoğrafı.",
+    "t": "2026-11-02T01:38:34+03:00",
+    "benzerlik": 10,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "72383f0d7612": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberdeki sanatçıyla uyuşmayan farklı bir kişiyi gösterdiği için yanıltıcıdır.",
-    "t": "2026-11-02T01:31:36+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Haberde adı geçen ana sanatçıyı değil, başka bir müzisyeni göstermektedir.",
+    "t": "2026-11-02T01:38:34+03:00",
+    "benzerlik": 8,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "fd3b94761d53": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberin başındaki sanatçıyla uyuşmayan farklı bir kişiyi gösterdiği için yanıltıcıdır.",
+    "t": "2026-11-02T01:38:34+03:00",
     "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:a308f3171523": {
+   "konu:ee7e0df7061c": {
     "konu": {
      "ana_olay": "Sanatçı Tarkan, Antalya'da düzenlenecek COP31 için 'Uyan' şarkısını İngilizceye uyarlayarak yeniden seslendirdi.",
      "odak": "genel",
@@ -5674,7 +5715,7 @@
      "ana_kisiler": [
       {
        "ad": "Tarkan",
-       "rol": "sanatçı / singer"
+       "rol": "şarkıcı / singer"
       }
      ],
      "etkinlik": {
@@ -5682,67 +5723,67 @@
       "anahtar_tr": [
        "iklim konferansı",
        "şarkı",
-       "uyarlama"
+       "tanıtım"
       ],
       "anahtar_en": [
        "climate conference",
        "song",
-       "adaptation"
+       "announcement"
       ]
      }
     },
-    "t": "2026-11-02T01:31:39+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:36+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "f1bbfdb7437c": {
+   "4854aa0d40e0": {
     "karar": "kabul",
-    "gerekce": "Tarkan'ın arşiv konser fotoğrafı; sanatçıyı gösterdiği için habere uygundur.",
-    "t": "2026-11-02T01:31:45+03:00",
+    "gerekce": "Tarkan'ın konser arşiv fotoğrafı, habere ve kişiye uygundur, yanıltıcı değildir.",
+    "t": "2026-11-02T01:38:44+03:00",
+    "benzerlik": 7,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "0dbbeca00aea": {
+    "karar": "kabul",
+    "gerekce": "Tarkan'ın sahne performansına ait arşiv karesi, haberle çelişmemektedir.",
+    "t": "2026-11-02T01:38:44+03:00",
+    "benzerlik": 7,
+    "tek": true,
+    "s": "g7.3-2026-11-02"
+   },
+   "4b8bcd0dc481": {
+    "karar": "kabul",
+    "gerekce": "Sanatçıyı net şekilde gösteren uygun bir arşiv fotoğrafıdır.",
+    "t": "2026-11-02T01:38:44+03:00",
     "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "150418cff3c0": {
+   "7dae7ac6ef93": {
     "karar": "kabul",
-    "gerekce": "Tarkan sahne arşiv fotoğrafı, habere uygundur.",
-    "t": "2026-11-02T01:31:45+03:00",
+    "gerekce": "Tarkan'ın sahnedeki arşiv portresi habere uygundur.",
+    "t": "2026-11-02T01:38:44+03:00",
     "benzerlik": 8,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "dc2f12f3806d": {
+   "42035b60e22d": {
     "karar": "kabul",
-    "gerekce": "Tarkan'ın arşiv sahne pozu, haberle uyumludur.",
-    "t": "2026-11-02T01:31:45+03:00",
-    "benzerlik": 8,
+    "gerekce": "Konfeti efektli sahne arşiv fotoğrafı haber için uygundur.",
+    "t": "2026-11-02T01:38:44+03:00",
+    "benzerlik": 7,
     "tek": true,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "3a9ab3df255e": {
-    "karar": "kabul",
-    "gerekce": "Tarkan'ın arşiv konser karelerinden biri.",
-    "t": "2026-11-02T01:31:45+03:00",
-    "benzerlik": 8,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "797e67587332": {
-    "karar": "kabul",
-    "gerekce": "Tarkan'ın sahne performansına ait arşiv fotoğrafı.",
-    "t": "2026-11-02T01:31:45+03:00",
-    "benzerlik": 8,
-    "tek": true,
-    "s": "g7.2-2026-11-02"
-   },
-   "b27e5bcdf6ca": {
+   "78d8d888f7a4": {
     "karar": "red",
-    "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber sitesinin logo/afiş görselidir, gerçek fotoğraf değildir.",
-    "t": "2026-11-02T01:31:45+03:00",
+    "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Görüntü bir haber fotoğrafı değil, haber sitesinin logo ve afişidir.",
+    "t": "2026-11-02T01:38:44+03:00",
     "benzerlik": 0,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:ccce54df0422": {
+   "konu:f60b287543ea": {
     "konu": {
      "ana_olay": "Cihan Bulut'un istifasının ardından yapılan yönetim kurulu toplantısında Ali Şafak Öztürk yeniden Antalyaspor kulüp başkanlığına getirildi.",
      "odak": "takim",
@@ -5768,66 +5809,67 @@
      "ana_kisiler": [
       {
        "ad": "Ali Şafak Öztürk",
-       "rol": "Antalyaspor Kulübü Başkanı / Antalyaspor club president"
+       "rol": "Kulüp Başkanı / Club President"
       },
       {
        "ad": "Bülent Korkmaz",
-       "rol": "Teknik Direktör / head coach"
+       "rol": "Teknik Direktör / Head Coach"
       }
      ],
      "etkinlik": {
       "tur": "toplantı",
       "anahtar_tr": [
+       "kulüp başkanı",
        "yönetim kurulu",
        "toplantı",
-       "başkan"
+       "antalyaspor"
       ],
       "anahtar_en": [
+       "club president",
        "board meeting",
-       "president",
-       "club"
+       "antalyaspor"
       ]
      }
     },
-    "t": "2026-11-02T01:31:48+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:46+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "f8eee02b0c49": {
-    "karar": "red",
-    "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor maçı görünümü var ancak yönetim kurulu başkanı değişimi haberi için stat görseli yanıltıcıdır.",
-    "t": "2026-11-02T01:32:01+03:00",
+   "093871c48a58": {
+    "karar": "kabul",
+    "gerekce": "Antalyaspor maçı stadı genel görünümü, yönetim haberi için genel arşiv görseli olarak kullanılabilir.",
+    "t": "2026-11-02T01:38:52+03:00",
     "benzerlik": 2,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "6cc52304062c": {
-    "karar": "red",
-    "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor stadyumu yer alıyor fakat yönetim kurulu haberiyle doğrudan ilgili bir etkinlik sahnesi değildir.",
-    "t": "2026-11-02T01:32:01+03:00",
+   "35a7ce129392": {
+    "karar": "kabul",
+    "gerekce": "Antalyaspor iç saha stadı Akdeniz Üniversitesi Stadyumu'nu gösteren uygun bir tesis arşiv fotoğrafı.",
+    "t": "2026-11-02T01:38:52+03:00",
     "benzerlik": 1,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "4a3764f9c8de": {
-    "karar": "red",
-    "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor futbol takımı seremonisi var ancak yönetim toplantısı ve başkanlık değişimi haberiyle uyuşmuyor.",
-    "t": "2026-11-02T01:32:01+03:00",
+   "42b79d1bbff0": {
+    "karar": "kabul",
+    "gerekce": "Antalyaspor futbol takımı seremonisi, kulüp haberi için uygun bir arşiv görselidir.",
+    "t": "2026-11-02T01:38:52+03:00",
     "benzerlik": 3,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "737564772094": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Futbol maçı detayı, yönetim kurulu başkanı seçimi haberiyle tamamen alakasızdır ve yanlış izlenim yaratır.",
-    "t": "2026-11-02T01:32:01+03:00",
-    "benzerlik": 0,
+   "189e6c0160dc": {
+    "karar": "kabul",
+    "gerekce": "Futbol maçı detayı, kulüp yönetim haberi için genel bir futbol arşivi olarak kullanılabilir.",
+    "t": "2026-11-02T01:38:52+03:00",
+    "benzerlik": 1,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:d7fdd5ad6b09": {
+   "konu:191f3d092833": {
     "konu": {
-     "ana_olay": "Antalyaspor, Süper Lig'de deplasmanda oynayacağı Kasımpaşa maçının hazırlıklarını sürdürürken, teknik direktör Jose Morais'in takımın başında sahaya çıkacağı belirtildi.",
-     "odak": "takim",
+     "ana_olay": "Antalyaspor, Süper Lig'de deplasmanda oynayacağı Kasımpaşa maçının hazırlıklarını sürdürüyor.",
+     "odak": "spor takımı",
      "kisiler": [
       "Jose Morais"
      ],
@@ -5848,66 +5890,66 @@
       },
       {
        "ad": "Kasımpaşa",
-       "ad_en": "Kasimpasa",
+       "ad_en": "Kasımpaşa",
        "tur": "takim"
       }
      ],
      "ana_kisiler": [
       {
        "ad": "Jose Morais",
-       "rol": "teknik direktör / head coach"
+       "rol": "teknik direktör / manager"
       }
      ],
      "etkinlik": {
       "tur": "antrenman",
       "anahtar_tr": [
        "antrenman",
-       "hazırlık",
-       "futbol takımı"
+       "futbol",
+       "hazırlık"
       ],
       "anahtar_en": [
        "training",
-       "preparation",
-       "football team"
+       "football",
+       "preparation"
       ]
      }
     },
-    "t": "2026-11-02T01:32:03+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:38:54+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "4daf39f8daa9": {
+   "d83d9d407bc7": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Beşiktaş maçı stadını gösteriyor, haber Antalyaspor-Kasımpaşa karşılaşmasıyla ilgilidir.",
-    "t": "2026-11-02T01:32:08+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Beşiktaş-Antalyaspor maçını gösteriyor, Kasımpaşa maçı haberiyle uyuşmuyor.",
+    "t": "2026-11-02T01:39:02+03:00",
     "benzerlik": 2,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "92dff053e3a7": {
-    "karar": "kabul",
-    "gerekce": "İstanbul manzarası, deplasman şehrini temsil etmek için uygundur.",
-    "t": "2026-11-02T01:32:08+03:00",
+   "4d34846a2001": {
+    "karar": "red",
+    "gerekce": "tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Kasımpaşa takımının genel kadro arşiv fotoğrafı, habere uygundur.",
+    "t": "2026-11-02T01:39:02+03:00",
+    "benzerlik": 8,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "b643b2733f40": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor'un eski stadyumunu gösteriyor, Kasımpaşa maçıyla ilgisi yok.",
+    "t": "2026-11-02T01:39:02+03:00",
     "benzerlik": 1,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "648743ebc2ba": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Akdeniz Üniversitesi Stadyumu iç saha görselidir, deplasman maçı haberine uygun değildir.",
-    "t": "2026-11-02T01:32:08+03:00",
-    "benzerlik": 4,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "8c12a278c173": {
+   "b7028c8730cd": {
     "karar": "kabul",
-    "gerekce": "Futbol sahası çizgilerini gösteren nötr bir futbol görselidir.",
-    "t": "2026-11-02T01:32:08+03:00",
-    "benzerlik": 6,
+    "gerekce": "Futbol sahası çizgilerini gösteren nötr bir stok görseldir.",
+    "t": "2026-11-02T01:39:02+03:00",
+    "benzerlik": 5,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "konu:6e316d9a9c68": {
+   "konu:6d4fd5d6df79": {
     "konu": {
      "ana_olay": "Kepezspor, kendi sahasında oynadığı maçta Uşakspor'u 2-0 mağlup etti.",
      "odak": "takim",
@@ -5944,39 +5986,31 @@
      "etkinlik": {
       "tur": "maç",
       "anahtar_tr": [
-       "futbol",
-       "maç",
-       "karşılaşma"
+       "futbol maçı",
+       "karşılaşma",
+       "stadyum"
       ],
       "anahtar_en": [
-       "football",
+       "football match",
        "match",
-       "game"
+       "stadium"
       ]
      }
     },
-    "t": "2026-11-02T01:32:11+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:39:05+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "a7b305d4d993": {
+   "d91b15fe79c4": {
     "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğrafta Eskişehirspor'a ait stadyum ve yazılar yer almaktadır, Kepezspor ve Uşakspor maçıyla uyuşmamaktadır.",
-    "t": "2026-11-02T01:32:17+03:00",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Fotoğraf yabancı bir stadyumu göstermektedir, Kepez Hasan Doğan Stadı ile uyuşmamaktadır.",
+    "t": "2026-11-02T01:39:10+03:00",
     "benzerlik": 8,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "8a31ab9d66a5": {
-    "karar": "red",
-    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Görüntü büyük ihtimalle Santiago Bernabéu Stadyumu'nu göstermektedir, Antalya Kepez Hasan Doğan Stadı ile ilgisi yoktur.",
-    "t": "2026-11-02T01:32:17+03:00",
-    "benzerlik": 7,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "konu:0bb372396104": {
+   "konu:6342f881f139": {
     "konu": {
-     "ana_olay": "Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt döküldü.",
+     "ana_olay": "Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt döküldü ve ekipler temizlik çalışması başlattı.",
      "odak": "olay",
      "kisiler": [],
      "kurumlar": [
@@ -5995,56 +6029,58 @@
      ],
      "ana_kisiler": [],
      "etkinlik": {
-      "tur": "olay",
+      "tur": "kaza",
       "anahtar_tr": [
-       "uçak yakıt sızıntısı",
-       "apron temizliği"
+       "uçak",
+       "yakıt sızıntısı",
+       "havalimanı"
       ],
       "anahtar_en": [
-       "aircraft fuel leak",
-       "airport apron"
+       "airplane",
+       "fuel leak",
+       "airport"
       ]
      }
     },
-    "t": "2026-11-02T01:32:20+03:00",
-    "s": "g7.2-2026-11-02"
+    "t": "2026-11-02T01:39:14+03:00",
+    "s": "g7.3-2026-11-02"
    },
-   "9da0669bf400": {
+   "d690b0933719": {
     "karar": "kabul",
-    "gerekce": "Antalya Havalimanı kulesini gösteren genel arşiv fotoğrafı, havalimanındaki olay haberi için uygundur.",
-    "t": "2026-11-02T01:32:26+03:00",
-    "benzerlik": 6,
+    "gerekce": "Antalya Havalimanı kontrol kulesini gösteren genel arşiv fotoğrafı, havacılık haberi için uygundur.",
+    "t": "2026-11-02T01:39:21+03:00",
+    "benzerlik": 2,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "eb50ed2ebbf7": {
+   "3e8ee7a938fd": {
     "karar": "kabul",
-    "gerekce": "Antalya Havalimanı TGS yer hizmetleri tabelasını gösteren arşiv görseli.",
-    "t": "2026-11-02T01:32:26+03:00",
-    "benzerlik": 4,
+    "gerekce": "Antalya Havalimanı yer hizmetleri tabelasını gösteren arşiv görseli, havalimanı haberine uygundur.",
+    "t": "2026-11-02T01:39:21+03:00",
+    "benzerlik": 1,
     "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    },
-   "42d53c0a68bd": {
+   "2cbb41e49121": {
     "karar": "kabul",
-    "gerekce": "Antalya Havalimanı apron çevresini gösteren genel arşiv karelerinden biridir.",
-    "t": "2026-11-02T01:32:26+03:00",
+    "gerekce": "Havalimanı içinden dışarıyı gösteren genel bir arşiv fotoğrafıdır, habere uygundur.",
+    "t": "2026-11-02T01:39:21+03:00",
+    "benzerlik": 1,
+    "tek": false,
+    "s": "g7.3-2026-11-02"
+   },
+   "d7c0c2c7b7aa": {
+    "karar": "kabul",
+    "gerekce": "Uçak kanat ve gövde detayını gösteren görsel, uçak yakıt sızıntısı haberiyle uyumludur.",
+    "t": "2026-11-02T01:39:21+03:00",
     "benzerlik": 5,
     "tek": false,
-    "s": "g7.2-2026-11-02"
-   },
-   "99acea7b1ef9": {
-    "karar": "kabul",
-    "gerekce": "Uçak kanadı ve gövdesini gösteren genel uçak görseli, yakıt sızıntısı haberiyle uyumludur.",
-    "t": "2026-11-02T01:32:26+03:00",
-    "benzerlik": 8,
-    "tek": false,
-    "s": "g7.2-2026-11-02"
+    "s": "g7.3-2026-11-02"
    }
   },
   "deneme": {
-   "tarih": "2026-11-02T01:33:47+03:00",
-   "surum": "g7.2-2026-11-02",
+   "tarih": "2026-11-02T01:39:21+03:00",
+   "surum": "g7.3-2026-11-02",
    "model": "gemini-3.5-flash-lite",
    "dosyalar": [
     "20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md",
@@ -6071,7 +6107,7 @@
      },
      "otomatik": "otomatik (kayıtlı seçim)",
      "konu": {
-      "ana_olay": "Kuzey Kıbrıs Türk Cumhuriyeti 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret etti.",
+      "ana_olay": "KKTC 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret etti.",
       "odak": "kisi",
       "kisiler": [
        "Ersin Tatar",
@@ -6088,7 +6124,7 @@
       "hedefler": [
        {
         "ad": "Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi",
-        "ad_en": "Akdeniz University Manavgat Faculty of Social and Human Sciences",
+        "ad_en": "Akdeniz University Manavgat Faculty of Social and Humanities",
         "tur": "tesis"
        }
       ],
@@ -6114,37 +6150,63 @@
      },
      "yeni": {
       "tur": "arsiv",
-      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ersin_Tatar_in_April_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "gorsel_kredi": "Arşiv fotoğrafı: Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Ersin_Tatar_in_April_2025_(cropped).jpg",
       "fotografci": "Press Service of the President of the Republic of Azerbaijan",
       "kredi": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons (CC BY 4.0)",
       "lisans": "CC BY 4.0",
       "lisans_dayanagi": "https://creativecommons.org/licenses/by/4.0",
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Ersin Tatar",
-      "cekim_yili": "2022",
-      "gerekce": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Ersin Tatar'ın ikili görüşmesini gösteren uygun bir arşiv fotoğrafıdır.",
+      "cekim_yili": "2025",
+      "gerekce": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Ersin Tatar'ı net gösteren portre kare; arşiv kuralına uygun ve haber görseli olabilir.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:30:34+03:00",
+       "tarih": "2026-11-02T01:37:51+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "b90671f3d632",
-      "aciklama": "Ersin Tatar — Arşiv fotoğrafı (2022)",
+      "aciklama": "Ersin Tatar — Arşiv fotoğrafı (2025)",
       "alt_tur": "kisi_genel",
       "qid": "Q6057339",
-      "konum": ""
+      "konum": "50% 22%"
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görüntü haber fotoğrafı değil, bir logo ve yazı içeren grafik görselidir.",
-      "bulgular": null
+      "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Haber sitesinin logosunu/afişini gösteriyor, gerçek fotoğraf değil.",
+      "bulgular": {
+       "fotograf_mi": false,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": false,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 0,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_genel",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ersin_Tatar_in_April_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Ersin_Tatar_in_April_2025_(cropped).jpg",
+       "fotografci": "Press Service of the President of the Republic of Azerbaijan",
+       "lisans": "CC BY 4.0",
+       "hedef": "Ersin Tatar",
+       "cekim": "2025-04-11",
+       "karar": "kabul",
+       "gerekce": "Ersin Tatar'ı net gösteren portre kare; arşiv kuralına uygun ve haber görseli olabilir.",
+       "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
+       "benzerlik": 7,
+       "tek": true,
+       "meta_puan": 131
+      },
       {
        "tur": "arsiv",
        "alt_tur": "kisi_genel",
@@ -6155,10 +6217,10 @@
        "lisans": "CC BY 4.0",
        "hedef": "Ersin Tatar",
        "cekim": "2022-08-09",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın ikili görüşmesini gösteren uygun bir arşiv fotoğrafıdır.",
+       "karar": "red",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Başka bir ülkenin lideriyle resmi görüşmeyi gösteriyor, Manavgat ziyaretiyle uyuşmuyor.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 6,
+       "benzerlik": 2,
        "tek": false,
        "meta_puan": 122
       },
@@ -6172,10 +6234,10 @@
        "lisans": "CC BY 4.0",
        "hedef": "Ersin Tatar",
        "cekim": "2022-09-30",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın yer aldığı arşiv fotoğrafı, habere uygun bir portredir ve yanıltıcı değildir.",
+       "karar": "red",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Dünya Göçebe Oyunları açılış törenini gösteriyor, üniversite ziyaretiyle bağdaşmıyor.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 5,
+       "benzerlik": 1,
        "tek": false,
        "meta_puan": 114
       },
@@ -6189,10 +6251,10 @@
        "lisans": "CC BY 4.0",
        "hedef": "Ersin Tatar",
        "cekim": "2023-06-03",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın katıldığı toplu bir etkinliği gösteren arşiv fotoğrafıdır.",
+       "karar": "red",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Cumhurbaşkanlığı göreve başlama törenini gösteriyor, Manavgat'taki fakülte ziyaretiyle ilgisi yok.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 5,
+       "benzerlik": 1,
        "tek": false,
        "meta_puan": 114
       },
@@ -6206,27 +6268,10 @@
        "lisans": "CC BY 4.0",
        "hedef": "Ersin Tatar",
        "cekim": "2022-08-09",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın resmi görüşmesini gösteren arşiv fotoğrafıdır.",
+       "karar": "red",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — İlham Aliyev ile ikili görüşmeyi gösteriyor, üniversite ziyaretiyle bağdaşmıyor.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 6,
-       "tek": false,
-       "meta_puan": 114
-      },
-      {
-       "tur": "arsiv",
-       "alt_tur": "kisi_genel",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_03.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_03.jpg",
-       "fotografci": "Press Service of the President of the Republic of Azerbaijan",
-       "lisans": "CC BY 4.0",
-       "hedef": "Ersin Tatar",
-       "cekim": "2022-08-09",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın bir başka ikili görüşmesini gösteren arşiv karesidir.",
-       "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 6,
+       "benzerlik": 2,
        "tek": false,
        "meta_puan": 114
       }
@@ -6247,7 +6292,7 @@
      },
      "otomatik": "otomatik (eski hat: denetimsiz stok/rastgele seçim)",
      "konu": {
-      "ana_olay": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'da düzenlenecek COP31 zirvesinde Konya'nın da yer alacağını açıkladı.",
+      "ana_olay": "Bakan Murat Kurum, Antalya'da düzenlenecek COP31 zirvesinde Konya'nın da yer alacağını ve organizasyonda en güçlü biçimde temsil edileceğini açıkladı.",
       "odak": "olay",
       "kisiler": [
        "Murat Kurum"
@@ -6267,62 +6312,71 @@
         "tur": "tesis"
        },
        {
-        "ad": "COP31",
-        "ad_en": "COP31",
-        "tur": "olay"
+        "ad": "Anadolu Bahçesi",
+        "ad_en": "Anatolian Garden",
+        "tur": "yer"
        }
       ],
       "ana_kisiler": [
        {
         "ad": "Murat Kurum",
-        "rol": "Çevre, Şehircilik ve İklim Değişikliği Bakanı / Minister of Environment, Urbanis"
+        "rol": "Çevre, Şehircilik ve İklim Değişikliği Bakanı / Environment Minister"
        }
       ],
       "etkinlik": {
        "tur": "açıklama",
        "anahtar_tr": [
         "açıklama",
-        "toplantı",
+        "basın toplantısı",
         "zirve"
        ],
        "anahtar_en": [
         "statement",
-        "meeting",
+        "press conference",
         "summit"
        ]
       }
      },
      "yeni": {
       "tur": "arsiv",
-      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_17.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "gorsel_kredi": "Arşiv fotoğrafı: Turkish delight2 / Wikimedia Commons (CC BY 4.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_17.jpg",
-      "fotografci": "Turkish delight2",
-      "kredi": "Turkish delight2 / Wikimedia Commons (CC BY 4.0)",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Visit_of_Murat_Kurum%2C_Turkish_Minister_for_Environment_and_Urban_Planning%2C_to_the_EC_%28P-051815-00-15%29.jpg/1280px-Visit_of_Murat_Kurum%2C_Turkish_Minister_for_Environment_and_Urban_Planning%2C_to_the_EC_%28P-051815-00-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel_kredi": "Arşiv fotoğrafı: Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Servic / Wikimedia Commons (CC BY 4.0)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-15).jpg",
+      "fotografci": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Servic",
+      "kredi": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Servic / Wikimedia Commons (CC BY 4.0)",
       "lisans": "CC BY 4.0",
       "lisans_dayanagi": "https://creativecommons.org/licenses/by/4.0",
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Murat Kurum",
-      "cekim_yili": "2024",
-      "gerekce": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi); görsel kontrol: Bakan Murat Kurum'u etkinlik sahnesinde gösteren uygun bir arşiv fotoğrafı.",
+      "cekim_yili": "",
+      "gerekce": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (2 anahtar eşleşmesi); görsel kontrol: Bakan Kurum'un kürsüdeki portre arşivi, haber için uygundur.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:30:45+03:00",
+       "tarih": "2026-11-02T01:38:00+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "5e1bc2283a6b",
-      "aciklama": "Murat Kurum, önceki bir açıklamadan — Arşiv (2024)",
+      "aciklama": "Murat Kurum, önceki bir açıklamadan — Arşiv",
       "alt_tur": "kisi_benzer",
       "qid": "Q56125668",
       "konum": ""
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kitaplık ve kafeterya içi görüntüsü haberin konusuyla tamamen alakasız.",
-      "bulgular": null
+      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kütüphane veya kafe iç mekan görseli haberin konusuyla tamamen alakasızdır.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 0,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
       {
@@ -6335,12 +6389,29 @@
        "lisans": "CC BY 4.0",
        "hedef": "Murat Kurum",
        "cekim": "2024-12-04",
-       "karar": "kabul",
-       "gerekce": "Bakan Murat Kurum'u etkinlik sahnesinde gösteren uygun bir arşiv fotoğrafı.",
+       "karar": "red",
+       "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakan Kurum'un etkinlik içi arşiv fotoğrafı, habere uygundur.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 7,
-       "tek": true,
+       "benzerlik": 6,
+       "tek": false,
        "meta_puan": 232
+      },
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_benzer",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Visit_of_Murat_Kurum%2C_Turkish_Minister_for_Environment_and_Urban_Planning%2C_to_the_EC_%28P-051815-00-15%29.jpg/1280px-Visit_of_Murat_Kurum%2C_Turkish_Minister_for_Environment_and_Urban_Planning%2C_to_the_EC_%28P-051815-00-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Visit_of_Murat_Kurum,_Turkish_Minister_for_Environment_and_Urban_Planning,_to_the_EC_(P-051815-00-15).jpg",
+       "fotografci": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus, Yügen, CE - Servic",
+       "lisans": "CC BY 4.0",
+       "hedef": "Murat Kurum",
+       "cekim": "",
+       "karar": "kabul",
+       "gerekce": "Bakan Kurum'un kürsüdeki portre arşivi, haber için uygundur.",
+       "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (2 anahtar eşleşmesi)",
+       "benzerlik": 8,
+       "tek": true,
+       "meta_puan": 220
       },
       {
        "tur": "arsiv",
@@ -6352,11 +6423,11 @@
        "lisans": "CC BY 4.0",
        "hedef": "Murat Kurum",
        "cekim": "2024-12-04",
-       "karar": "kabul",
-       "gerekce": "Bakan Murat Kurum'u yakından gösteren arşiv niteliğinde uygun bir kare.",
+       "karar": "red",
+       "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Etkinlik ortamını gösteren arşiv fotoğrafı habere uygundur.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 7,
-       "tek": true,
+       "benzerlik": 6,
+       "tek": false,
        "meta_puan": 220
       },
       {
@@ -6369,28 +6440,11 @@
        "lisans": "CC BY 4.0",
        "hedef": "Murat Kurum",
        "cekim": "2024-12-04",
-       "karar": "kabul",
-       "gerekce": "Murat Kurum'un konuşma anını gösteren uygun bir arşiv fotoğrafı.",
+       "karar": "red",
+       "gerekce": "kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakan Kurum'un katıldığı etkinlik arşivi, haberle uyumludur.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 7,
-       "tek": true,
-       "meta_puan": 220
-      },
-      {
-       "tur": "arsiv",
-       "alt_tur": "kisi_benzer",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_13.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_13.jpg",
-       "fotografci": "Turkish delight2",
-       "lisans": "CC BY 4.0",
-       "hedef": "Murat Kurum",
-       "cekim": "2024-12-04",
-       "karar": "kabul",
-       "gerekce": "Bakan Kurum'u kürsüde gösteren uygun bir etkinlik arşiv fotoğrafı.",
-       "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 7,
-       "tek": true,
+       "benzerlik": 6,
+       "tek": false,
        "meta_puan": 220
       },
       {
@@ -6403,11 +6457,11 @@
        "lisans": "CC BY-SA 4.0",
        "hedef": "Murat Kurum",
        "cekim": "2023-12-01",
-       "karar": "red",
-       "gerekce": "görsel indirilemedi: görsel uygun değil (image/jpeg, 1075136 bayt)",
+       "karar": "kabul",
+       "gerekce": "Bakan Kurum'u gösteren portre arşiv fotoğrafı habere uygundur.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": null,
-       "tek": null,
+       "benzerlik": 5,
+       "tek": true,
        "meta_puan": 131
       },
       {
@@ -6421,9 +6475,9 @@
        "hedef": "Kelebekler Vadisi",
        "cekim": "2019-09-03",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kelebekler Vadisi manzarası, bakanlık açıklaması ve COP31 zirvesi haberiyle alakasız.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kelebekler Vadisi manzarası, bakan açıklaması ve Konya haberine uygun değildir.",
        "dogrulama": "'Kelebekler Vadisi' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2019-09-03",
-       "benzerlik": 1,
+       "benzerlik": 0,
        "tek": false,
        "meta_puan": null
       },
@@ -6438,9 +6492,9 @@
        "hedef": "Kelebekler Vadisi",
        "cekim": "2012-11-12",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Orman ve deniz manzarası güncel zirve haberiyle uyuşmuyor.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Orman ve deniz manzarası habere konu olan zirveyle alakasızdır.",
        "dogrulama": "'Kelebekler Vadisi' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2012-11-12",
-       "benzerlik": 1,
+       "benzerlik": 0,
        "tek": false,
        "meta_puan": null
       },
@@ -6448,17 +6502,17 @@
        "tur": "arsiv",
        "alt_tur": "kurum",
        "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg/1280px-President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg",
-       "fotografci": "Masato Kanda / Asian Development Bank",
-       "lisans": "CC BY 4.0",
-       "hedef": "COP31",
-       "cekim": "2026-10-06",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/20180108_Anatolian_2555_%2824959728517%29.jpg/1280px-20180108_Anatolian_2555_%2824959728517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:20180108_Anatolian_2555_(24959728517).jpg",
+       "fotografci": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+       "lisans": "CC BY-SA 2.0",
+       "hedef": "Anadolu Bahçesi",
+       "cekim": "2018-01-08",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Gelecek tarihli ve habersiz bir arazi çalışmasını gösterdiği için uygun değil.",
-       "dogrulama": "'COP31' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2026-10-06",
-       "benzerlik": 2,
-       "tek": true,
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Müze bahçesi görüntüsü COP31 ve Antalya haberiyle uyuşmamaktadır.",
+       "dogrulama": "'Anadolu Bahçesi' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2018-01-08",
+       "benzerlik": 0,
+       "tek": false,
        "meta_puan": null
       }
      ],
@@ -6478,19 +6532,24 @@
      "otomatik": "otomatik (eski hat: denetimsiz stok/rastgele seçim)",
      "konu": {
       "ana_olay": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'daki temasları sırasında yabancı dijital konaklama platformlarına yönelik hazırlanan yeni yasal düzenlemenin detaylarını paylaştı.",
-      "odak": "olay",
+      "odak": "kisi",
       "kisiler": [
        "Mehmet Nuri Ersoy"
       ],
       "kurumlar": [
-       "TBMM",
-       "Kültür ve Turizm Bakanlığı"
+       "TBMM"
       ],
       "yer": "Antalya",
       "olay_tarihi": "",
       "hassas": "yok",
       "gercek_arama": "",
-      "hedefler": [],
+      "hedefler": [
+       {
+        "ad": "TBMM",
+        "ad_en": "Turkish Parliament",
+        "tur": "kurum"
+       }
+      ],
       "ana_kisiler": [
        {
         "ad": "Mehmet Nuri Ersoy",
@@ -6501,7 +6560,7 @@
        "tur": "açıklama",
        "anahtar_tr": [
         "açıklama",
-        "basın toplantısı",
+        "toplantı",
         "turizm"
        ],
        "anahtar_en": [
@@ -6513,37 +6572,63 @@
      },
      "yeni": {
       "tur": "arsiv",
-      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "gorsel_kredi": "Arşiv fotoğrafı: The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Mehmet_Nuri_Ersoy_in_November_2023.jpg",
-      "fotografci": "The President's Office, Maldives",
-      "kredi": "The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
-      "lisans": "CC BY 4.0",
-      "lisans_dayanagi": "https://creativecommons.org/licenses/by/4.0",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mehmetersoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "gorsel_kredi": "Arşiv fotoğrafı: Mehmet Karabulut / Wikimedia Commons (Public domain)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Mehmetersoy.jpg",
+      "fotografci": "Mehmet Karabulut",
+      "kredi": "Mehmet Karabulut / Wikimedia Commons (Public domain)",
+      "lisans": "Public domain",
+      "lisans_dayanagi": "https://commons.wikimedia.org/wiki/File:Mehmetersoy.jpg",
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Mehmet Nuri Ersoy",
-      "cekim_yili": "",
-      "gerekce": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Bakan Mehmet Nuri Ersoy'u net bir şekilde gösteren portre niteliğinde arşiv fotoğrafıdır.",
+      "cekim_yili": "2020",
+      "gerekce": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi); görsel kontrol: Bakan Mehmet Nuri Ersoy'u yakın plan gösteren uygun bir arşiv karesi.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:30:54+03:00",
+       "tarih": "2026-11-02T01:38:17+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "dfa1d817522a",
-      "aciklama": "Mehmet Nuri Ersoy — Arşiv fotoğrafı",
-      "alt_tur": "kisi_genel",
+      "aciklama": "Mehmet Nuri Ersoy, önceki bir açıklamadan — Arşiv (2020)",
+      "alt_tur": "kisi_benzer",
       "qid": "Q55526162",
       "konum": "50% 22%"
      },
      "eski_degerlendirme": {
       "karar": "kabul",
-      "gerekce": "Dijital konaklama platformları ve turizm haberine uygun genel bir otel havuzu görselidir.",
-      "bulgular": null
+      "gerekce": "Konaklama ve turizm temalı habere uygun genel havuz ve otel görseli.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": true,
+       "habere_uygun": true,
+       "yaniltici": false,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 8,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_benzer",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mehmetersoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Mehmetersoy.jpg",
+       "fotografci": "Mehmet Karabulut",
+       "lisans": "Public domain",
+       "hedef": "Mehmet Nuri Ersoy",
+       "cekim": "2020-05-04",
+       "karar": "kabul",
+       "gerekce": "Bakan Mehmet Nuri Ersoy'u yakın plan gösteren uygun bir arşiv karesi.",
+       "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
+       "benzerlik": 8,
+       "tek": true,
+       "meta_puan": 221
+      },
       {
        "tur": "arsiv",
        "alt_tur": "kisi_benzer",
@@ -6555,7 +6640,7 @@
        "hedef": "Mehmet Nuri Ersoy",
        "cekim": "2021-09-22",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğraf farklı bir uluslararası görüşmeyi göstermektedir ve yabancı bayraklar içermektedir.",
+       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Uluslararası bir görüşmeyi gösterdiği için Antalya'daki açıklama haberiyle uyuşmuyor.",
        "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 2,
        "tek": false,
@@ -6572,9 +6657,9 @@
        "hedef": "Mehmet Nuri Ersoy",
        "cekim": "",
        "karar": "kabul",
-       "gerekce": "Bakan Mehmet Nuri Ersoy'u net bir şekilde gösteren portre niteliğinde arşiv fotoğrafıdır.",
+       "gerekce": "Mehmet Nuri Ersoy'un net portre arşiv fotoğrafı.",
        "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 8,
+       "benzerlik": 7,
        "tek": true,
        "meta_puan": 123
       },
@@ -6589,7 +6674,7 @@
        "hedef": "Mehmet Nuri Ersoy",
        "cekim": "2023-11-17",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Farklı bir ülkedeki resmi kabine görüşmesini gösterdiği için habere uygun değildir.",
+       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Maldivler lideriyle görüşme anı olduğundan habere uygun değil.",
        "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 3,
        "tek": false,
@@ -6606,33 +6691,49 @@
        "hedef": "Mehmet Nuri Ersoy",
        "cekim": "2022-09-30",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Toplu bir etkinlik açılışını gösterdiğinden bakanın açıklamasıyla uyuşmamaktadır.",
+       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Göçebe Oyunları açılış törenini gösterdiği için haberle ilgisi yok.",
        "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 2,
+       "benzerlik": 3,
        "tek": false,
        "meta_puan": 114
       },
       {
        "tur": "arsiv",
-       "alt_tur": "kisi_genel",
+       "alt_tur": "kurum",
        "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2811%29.jpg/1280px-Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_(11).jpg",
-       "fotografci": "The President's Office, Maldives",
-       "lisans": "CC BY 4.0",
-       "hedef": "Mehmet Nuri Ersoy",
-       "cekim": "2023-11-17",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg",
+       "fotografci": "Yıldız Yazıcıoğlu",
+       "lisans": "Public domain",
+       "hedef": "TBMM",
+       "cekim": "2022-08-01",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Yurtdışındaki ikili görüşmeye ait olduğundan Antalya'daki açıklama haberiyle çelişir.",
-       "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 3,
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Antalya'daki yerel bir açıklamayı konu alırken TBMM Genel Kurulu'nu göstermek yanıltıcıdır.",
+       "dogrulama": "'TBMM' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-08-01",
+       "benzerlik": 4,
        "tek": false,
-       "meta_puan": 114
+       "meta_puan": null
+      },
+      {
+       "tur": "arsiv",
+       "alt_tur": "kurum",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/TBMM_2021_VOA.webp/1280px-TBMM_2021_VOA.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:TBMM_2021_VOA.webp",
+       "fotografci": "yıldız",
+       "lisans": "Public domain",
+       "hedef": "TBMM",
+       "cekim": "",
+       "karar": "red",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Meclis genel kurul salonu, Antalya'daki turizm açıklaması haberiyle uyumsuz.",
+       "dogrulama": "'TBMM' adı dosya başlığı/açıklaması/kategorilerinde geçiyor",
+       "benzerlik": 4,
+       "tek": false,
+       "meta_puan": null
       }
      ],
      "notlar": [
-      "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
-      "haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok"
+      "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok"
      ]
     },
     {
@@ -6656,19 +6757,18 @@
       "kurumlar": [
        "AK Parti",
        "AK Parti Genel Merkez Kadın Kolları",
-       "Birleşmiş Milletler",
-       "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
-       "COP31 Başkanlık Ofisi"
+       "COP31 Başkanlık Ofisi",
+       "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı"
       ],
       "yer": "Antalya",
       "olay_tarihi": "2025-10-07",
       "hassas": "yok",
-      "gercek_arama": "COP31 Antalya",
+      "gercek_arama": "COP31 Antalya Tuğba Işık Ercan",
       "hedefler": [],
       "ana_kisiler": [
        {
         "ad": "Tuğba Işık Ercan",
-        "rol": "AK Parti Kadın Kolları Başkanı ve Milletvekili / AK Parti Women's Branch Preside"
+        "rol": "AK Parti Kadın Kolları Başkanı ve Milletvekili / AK Parti Women's Branch Chair a"
        },
        {
         "ad": "Murat Kurum",
@@ -6703,17 +6803,26 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:33:47+03:00",
+       "tarih": "2026-11-02T01:38:18+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "f591f17a7fab"
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahnede konuşan yabancı uyruklu bir kadın var, AK Parti ve COP31 haberiyle tamamen alakasız.",
-      "bulgular": null
+      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahneye konuşma yapan yabancı bir kadını gösteriyor, haberle hiçbir bağı yok.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": true,
+       "etkinlik_benzerligi": 2,
+       "tek_kisi_odakli": true
+      }
      },
      "adaylar": [
       {
@@ -6727,9 +6836,9 @@
        "hedef": "Murat Kurum",
        "cekim": "2025-11-21",
        "karar": "red",
-       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Tuğba Işık Ercan ile ilgili ancak fotoğrafta Murat Kurum yer alıyor.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Haber Tuğba Işık Ercan hakkında ancak fotoğrafta Murat Kurum yer alıyor, bu nedenle habere uygun değil.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (2 anahtar eşleşmesi)",
-       "benzerlik": 4,
+       "benzerlik": 3,
        "tek": false,
        "meta_puan": 222
       },
@@ -6744,9 +6853,9 @@
        "hedef": "Murat Kurum",
        "cekim": "2025-11-21",
        "karar": "red",
-       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber Tuğba Işık Ercan hakkındayken görselde Murat Kurum yer alıyor, habere uygun değil.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haberin konusuyla ilgisiz olarak Murat Kurum'u gösterdiğinden habere uygun değildir.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (2 anahtar eşleşmesi)",
-       "benzerlik": 4,
+       "benzerlik": 3,
        "tek": true,
        "meta_puan": 218
       },
@@ -6761,7 +6870,7 @@
        "hedef": "Murat Kurum",
        "cekim": "2025-10-01",
        "karar": "red",
-       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Toplu görüşme ortamı, haberdeki kadın elçilik göreviyle ve Tuğba Işık Ercan ile ilgisiz.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Toplu bir toplantı karesi olup haberde adı geçen ana kişiyi yansıtmadığı için uygun değil.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 4,
        "tek": false,
@@ -6778,9 +6887,9 @@
        "hedef": "Murat Kurum",
        "cekim": "2025-10-01",
        "karar": "red",
-       "gerekce": "habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Bakanlık toplantısını gösteriyor, haberin konusu olan kadın kolları görevlendirmesiyle uyuşmuyor.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Bakanlık toplantısından bir kare olup haberin öznesiyle uyuşmamaktadır.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 5,
+       "benzerlik": 4,
        "tek": false,
        "meta_puan": 212
       },
@@ -6795,10 +6904,10 @@
        "hedef": "Murat Kurum",
        "cekim": "2023-12-01",
        "karar": "red",
-       "gerekce": "görsel indirilemedi: görsel uygun değil (image/jpeg, 1075136 bayt)",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Murat Kurum'un portre fotoğrafı, Kadın Kolları Başkanının görevlendirilmesi haberiyle ilgisizdir.",
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": null,
-       "tek": null,
+       "benzerlik": 2,
+       "tek": true,
        "meta_puan": 131
       }
      ],
@@ -6818,7 +6927,7 @@
      },
      "otomatik": "otomatik (eski hat: denetimsiz stok/rastgele seçim)",
      "konu": {
-      "ana_olay": "Ünlü şarkıcı Teoman, bugün Antalya'da konser verecek.",
+      "ana_olay": "Ünlü şarkıcı Teoman, Antalya'da hayranlarıyla buluşarak konser verecek.",
       "odak": "kisi",
       "kisiler": [
        "Teoman"
@@ -6861,15 +6970,15 @@
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Teoman",
       "cekim_yili": "2023",
-      "gerekce": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (3 anahtar eşleşmesi); görsel kontrol: Sanatçının sahnede şarkı söylediği net bir konser fotoğrafıdır, habere uygundur.",
+      "gerekce": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (3 anahtar eşleşmesi); görsel kontrol: Sanatçıyı sahnede mikrofonla gösteren güncel habere uygun konser fotoğrafı.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:31:36+03:00",
+       "tarih": "2026-11-02T01:38:34+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "7003775cba61",
       "aciklama": "Teoman, önceki bir konserden — Arşiv (2023)",
       "alt_tur": "kisi_benzer",
@@ -6878,8 +6987,17 @@
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberdeki sanatçıyla uyuşmayan farklı bir kişiyi gösterdiği için yanıltıcıdır.",
-      "bulgular": null
+      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberin başındaki sanatçıyla uyuşmayan farklı bir kişiyi gösterdiği için yanıltıcıdır.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": true,
+       "etkinlik_benzerligi": 8,
+       "tek_kisi_odakli": true
+      }
      },
      "adaylar": [
       {
@@ -6893,7 +7011,7 @@
        "hedef": "Teoman",
        "cekim": "2023-11-12",
        "karar": "kabul",
-       "gerekce": "Sanatçının sahnede şarkı söylediği net bir konser fotoğrafıdır, habere uygundur.",
+       "gerekce": "Sanatçıyı sahnede mikrofonla gösteren güncel habere uygun konser fotoğrafı.",
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (3 anahtar eşleşmesi)",
        "benzerlik": 10,
        "tek": true,
@@ -6910,9 +7028,9 @@
        "hedef": "Teoman",
        "cekim": "2013-06-21",
        "karar": "kabul",
-       "gerekce": "Sanatçının yakın plan konser anını gösteren uygun bir arşiv karesidir.",
+       "gerekce": "Sanatçının sahne performansını gösteren uygun bir arşiv portresi.",
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
-       "benzerlik": 10,
+       "benzerlik": 8,
        "tek": true,
        "meta_puan": 226
       },
@@ -6927,7 +7045,7 @@
        "hedef": "Teoman",
        "cekim": "2024-08-31",
        "karar": "kabul",
-       "gerekce": "Sahne ve enstrümanların göründüğü genel konser sahnesidir, habere uygundur.",
+       "gerekce": "Sahne üzerinde şarkı söyleyen sanatçıyı gösteren uygun konser karesi.",
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 10,
        "tek": true,
@@ -6944,7 +7062,7 @@
        "hedef": "Teoman",
        "cekim": "2024-08-31",
        "karar": "kabul",
-       "gerekce": "Konser ortamını ve sahneyi net bir şekilde yansıtan arşiv fotoğrafıdır.",
+       "gerekce": "Konser ortamını ve sanatçıyı net şekilde gösteren uygun arşiv fotoğrafı.",
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 10,
        "tek": true,
@@ -6961,10 +7079,10 @@
        "hedef": "Teoman",
        "cekim": "2024-08-31",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haberde adı geçen sanatçıyı değil, başka bir müzisyeni göstermektedir; yanıltıcıdır.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir) — Haberde adı geçen ana sanatçıyı değil, başka bir müzisyeni göstermektedir.",
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 8,
-       "tek": true,
+       "tek": false,
        "meta_puan": 220
       }
      ],
@@ -7001,7 +7119,7 @@
       "ana_kisiler": [
        {
         "ad": "Tarkan",
-        "rol": "sanatçı / singer"
+        "rol": "şarkıcı / singer"
        }
       ],
       "etkinlik": {
@@ -7009,20 +7127,20 @@
        "anahtar_tr": [
         "iklim konferansı",
         "şarkı",
-        "uyarlama"
+        "tanıtım"
        ],
        "anahtar_en": [
         "climate conference",
         "song",
-        "adaptation"
+        "announcement"
        ]
       }
      },
      "yeni": {
       "tur": "arsiv",
-      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tarkan_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tarkan_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "gorsel_kredi": "Arşiv fotoğrafı: Hakki.T (Hakki Topcu) / Wikimedia Commons (CC BY 2.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Tarkan_(9).jpg",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Tarkan_(14).jpg",
       "fotografci": "Hakki.T (Hakki Topcu)",
       "kredi": "Hakki.T (Hakki Topcu) / Wikimedia Commons (CC BY 2.0)",
       "lisans": "CC BY 2.0",
@@ -7030,25 +7148,34 @@
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Tarkan",
       "cekim_yili": "2011",
-      "gerekce": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Tarkan'ın arşiv konser fotoğrafı; sanatçıyı gösterdiği için habere uygundur.",
+      "gerekce": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Sanatçıyı net şekilde gösteren uygun bir arşiv fotoğrafıdır.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:31:45+03:00",
+       "tarih": "2026-11-02T01:38:44+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "397075de3870",
       "aciklama": "Tarkan — Arşiv fotoğrafı (2011)",
       "alt_tur": "kisi_genel",
       "qid": "Q485771",
-      "konum": "50% 22%"
+      "konum": ""
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber sitesinin logo/afiş görselidir, gerçek fotoğraf değildir.",
-      "bulgular": null
+      "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Görüntü bir haber fotoğrafı değil, haber sitesinin logo ve afişidir.",
+      "bulgular": {
+       "fotograf_mi": false,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 0,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
       {
@@ -7062,9 +7189,9 @@
        "hedef": "Tarkan",
        "cekim": "2011-04-24",
        "karar": "kabul",
-       "gerekce": "Tarkan'ın arşiv konser fotoğrafı; sanatçıyı gösterdiği için habere uygundur.",
+       "gerekce": "Tarkan'ın konser arşiv fotoğrafı, habere ve kişiye uygundur, yanıltıcı değildir.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 8,
+       "benzerlik": 7,
        "tek": true,
        "meta_puan": 123
       },
@@ -7079,9 +7206,9 @@
        "hedef": "Tarkan",
        "cekim": "2011-04-24",
        "karar": "kabul",
-       "gerekce": "Tarkan sahne arşiv fotoğrafı, habere uygundur.",
+       "gerekce": "Tarkan'ın sahne performansına ait arşiv karesi, haberle çelişmemektedir.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 8,
+       "benzerlik": 7,
        "tek": true,
        "meta_puan": 104
       },
@@ -7096,7 +7223,7 @@
        "hedef": "Tarkan",
        "cekim": "2011-04-24",
        "karar": "kabul",
-       "gerekce": "Tarkan'ın arşiv sahne pozu, haberle uyumludur.",
+       "gerekce": "Sanatçıyı net şekilde gösteren uygun bir arşiv fotoğrafıdır.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 8,
        "tek": true,
@@ -7113,7 +7240,7 @@
        "hedef": "Tarkan",
        "cekim": "2011-04-24",
        "karar": "kabul",
-       "gerekce": "Tarkan'ın arşiv konser karelerinden biri.",
+       "gerekce": "Tarkan'ın sahnedeki arşiv portresi habere uygundur.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 8,
        "tek": true,
@@ -7130,9 +7257,9 @@
        "hedef": "Tarkan",
        "cekim": "2011-04-24",
        "karar": "kabul",
-       "gerekce": "Tarkan'ın sahne performansına ait arşiv fotoğrafı.",
+       "gerekce": "Konfeti efektli sahne arşiv fotoğrafı haber için uygundur.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 8,
+       "benzerlik": 7,
        "tek": true,
        "meta_puan": 104
       }
@@ -7177,52 +7304,68 @@
       "ana_kisiler": [
        {
         "ad": "Ali Şafak Öztürk",
-        "rol": "Antalyaspor Kulübü Başkanı / Antalyaspor club president"
+        "rol": "Kulüp Başkanı / Club President"
        },
        {
         "ad": "Bülent Korkmaz",
-        "rol": "Teknik Direktör / head coach"
+        "rol": "Teknik Direktör / Head Coach"
        }
       ],
       "etkinlik": {
        "tur": "toplantı",
        "anahtar_tr": [
+        "kulüp başkanı",
         "yönetim kurulu",
         "toplantı",
-        "başkan"
+        "antalyaspor"
        ],
        "anahtar_en": [
+        "club president",
         "board meeting",
-        "president",
-        "club"
+        "antalyaspor"
        ]
       }
      },
      "yeni": {
-      "tur": "kategori",
-      "gorsel": "/images/kategori/spor.png",
-      "gorsel_kredi": "",
-      "kaynak_sayfa": "",
-      "fotografci": "",
-      "kredi": "Gazete Antalya",
-      "lisans": "Gazete Antalya'nın kendi tasarımı",
-      "lisans_dayanagi": "Sitenin kendi grafik dosyası",
-      "kosul": "",
-      "gerekce": "3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.",
+      "tur": "arsiv",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Be%C5%9Fikta%C5%9F-Antalyaspor_pre-match_ceremony.jpg/1280px-Be%C5%9Fikta%C5%9F-Antalyaspor_pre-match_ceremony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel_kredi": "Arşiv fotoğrafı: Esteban / Wikimedia Commons (CC BY-SA 3.0)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Be%C5%9Fikta%C5%9F-Antalyaspor_pre-match_ceremony.jpg",
+      "fotografci": "Esteban",
+      "kredi": "Esteban / Wikimedia Commons (CC BY-SA 3.0)",
+      "lisans": "CC BY-SA 3.0",
+      "lisans_dayanagi": "https://creativecommons.org/licenses/by-sa/3.0",
+      "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+      "gosterilen": "Antalyaspor",
+      "cekim_yili": "2009",
+      "gerekce": "'Antalyaspor' Wikidata Q43710 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Antalyaspor futbol takımı seremonisi, kulüp haberi için uygun bir arşiv görselidir.",
       "kontrol": {
        "yapildi": true,
-       "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:33:47+03:00",
-       "yontem": "Gemini görsel kontrol",
+       "sonuc": "onaylandı",
+       "tarih": "2026-11-02T01:38:52+03:00",
+       "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
-      "konu_imza": "eaf446920fbe"
+      "surum": "g7.3-2026-11-02",
+      "konu_imza": "eaf446920fbe",
+      "aciklama": "Antalyaspor — Arşiv fotoğrafı (2009)",
+      "alt_tur": "kurum",
+      "qid": "Q43710",
+      "konum": ""
      },
      "eski_degerlendirme": {
-      "karar": "red",
-      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Futbol maçı detayı, yönetim kurulu başkanı seçimi haberiyle tamamen alakasızdır ve yanlış izlenim yaratır.",
-      "bulgular": null
+      "karar": "kabul",
+      "gerekce": "Futbol maçı detayı, kulüp yönetim haberi için genel bir futbol arşivi olarak kullanılabilir.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": true,
+       "habere_uygun": true,
+       "yaniltici": false,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 1,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
       {
@@ -7235,8 +7378,8 @@
        "lisans": "CC BY-SA 3.0",
        "hedef": "Antalyaspor",
        "cekim": "2008-10-30",
-       "karar": "red",
-       "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor maçı görünümü var ancak yönetim kurulu başkanı değişimi haberi için stat görseli yanıltıcıdır.",
+       "karar": "kabul",
+       "gerekce": "Antalyaspor maçı stadı genel görünümü, yönetim haberi için genel arşiv görseli olarak kullanılabilir.",
        "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydı ve Commons kategorisiyle doğrulandı",
        "benzerlik": 2,
        "tek": false,
@@ -7252,8 +7395,8 @@
        "lisans": "CC BY-SA 3.0",
        "hedef": "Akdeniz Üniversitesi Stadyumu (Antalyaspor kulübünün iç saha stadı)",
        "cekim": "2012-05-09",
-       "karar": "red",
-       "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor stadyumu yer alıyor fakat yönetim kurulu haberiyle doğrudan ilgili bir etkinlik sahnesi değildir.",
+       "karar": "kabul",
+       "gerekce": "Antalyaspor iç saha stadı Akdeniz Üniversitesi Stadyumu'nu gösteren uygun bir tesis arşiv fotoğrafı.",
        "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Akdeniz Üniversitesi Stadyumu",
        "benzerlik": 1,
        "tek": false,
@@ -7269,8 +7412,8 @@
        "lisans": "CC BY-SA 3.0",
        "hedef": "Antalyaspor",
        "cekim": "2009-02-04",
-       "karar": "red",
-       "gerekce": "yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor futbol takımı seremonisi var ancak yönetim toplantısı ve başkanlık değişimi haberiyle uyuşmuyor.",
+       "karar": "kabul",
+       "gerekce": "Antalyaspor futbol takımı seremonisi, kulüp haberi için uygun bir arşiv görselidir.",
        "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydı ve Commons kategorisiyle doğrulandı",
        "benzerlik": 3,
        "tek": false,
@@ -7294,8 +7437,8 @@
      },
      "otomatik": "otomatik (eski hat: denetimsiz stok/rastgele seçim)",
      "konu": {
-      "ana_olay": "Antalyaspor, Süper Lig'de deplasmanda oynayacağı Kasımpaşa maçının hazırlıklarını sürdürürken, teknik direktör Jose Morais'in takımın başında sahaya çıkacağı belirtildi.",
-      "odak": "takim",
+      "ana_olay": "Antalyaspor, Süper Lig'de deplasmanda oynayacağı Kasımpaşa maçının hazırlıklarını sürdürüyor.",
+      "odak": "spor takımı",
       "kisiler": [
        "Jose Morais"
       ],
@@ -7316,61 +7459,64 @@
        },
        {
         "ad": "Kasımpaşa",
-        "ad_en": "Kasimpasa",
+        "ad_en": "Kasımpaşa",
         "tur": "takim"
        }
       ],
       "ana_kisiler": [
        {
         "ad": "Jose Morais",
-        "rol": "teknik direktör / head coach"
+        "rol": "teknik direktör / manager"
        }
       ],
       "etkinlik": {
        "tur": "antrenman",
        "anahtar_tr": [
         "antrenman",
-        "hazırlık",
-        "futbol takımı"
+        "futbol",
+        "hazırlık"
        ],
        "anahtar_en": [
         "training",
-        "preparation",
-        "football team"
+        "football",
+        "preparation"
        ]
       }
      },
      "yeni": {
-      "tur": "arsiv",
-      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa%2C_Beyo%C4%9Flu_-_Mart_2013_r6.JPG/1280px-%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa%2C_Beyo%C4%9Flu_-_Mart_2013_r6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "gorsel_kredi": "Arşiv fotoğrafı: VikiPicture / Wikimedia Commons (CC BY-SA 3.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa,_Beyo%C4%9Flu_-_Mart_2013_r6.JPG",
-      "fotografci": "VikiPicture",
-      "kredi": "VikiPicture / Wikimedia Commons (CC BY-SA 3.0)",
-      "lisans": "CC BY-SA 3.0",
-      "lisans_dayanagi": "https://creativecommons.org/licenses/by-sa/3.0",
-      "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
-      "gosterilen": "Kasımpaşa",
-      "cekim_yili": "2013",
-      "gerekce": "'Kasımpaşa' Wikidata Q1775820 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: İstanbul manzarası, deplasman şehrini temsil etmek için uygundur.",
+      "tur": "kategori",
+      "gorsel": "/images/kategori/spor.png",
+      "gorsel_kredi": "",
+      "kaynak_sayfa": "",
+      "fotografci": "",
+      "kredi": "Gazete Antalya",
+      "lisans": "Gazete Antalya'nın kendi tasarımı",
+      "lisans_dayanagi": "Sitenin kendi grafik dosyası",
+      "kosul": "",
+      "gerekce": "3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.",
       "kontrol": {
        "yapildi": true,
-       "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:32:08+03:00",
-       "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
+       "sonuc": "adaylar reddedildi",
+       "tarih": "2026-11-02T01:38:54+03:00",
+       "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
-      "konu_imza": "e8441e70568e",
-      "aciklama": "Kasımpaşa — Arşiv fotoğrafı (2013)",
-      "alt_tur": "kurum",
-      "qid": "Q1775820",
-      "konum": ""
+      "surum": "g7.3-2026-11-02",
+      "konu_imza": "e8441e70568e"
      },
      "eski_degerlendirme": {
       "karar": "kabul",
-      "gerekce": "Futbol sahası çizgilerini gösteren nötr bir futbol görselidir.",
-      "bulgular": null
+      "gerekce": "Futbol sahası çizgilerini gösteren nötr bir stok görseldir.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": true,
+       "habere_uygun": true,
+       "yaniltici": false,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 5,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
       {
@@ -7384,7 +7530,7 @@
        "hedef": "Antalyaspor",
        "cekim": "2008-10-30",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Beşiktaş maçı stadını gösteriyor, haber Antalyaspor-Kasımpaşa karşılaşmasıyla ilgilidir.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Beşiktaş-Antalyaspor maçını gösteriyor, Kasımpaşa maçı haberiyle uyuşmuyor.",
        "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydı ve Commons kategorisiyle doğrulandı",
        "benzerlik": 2,
        "tek": false,
@@ -7394,16 +7540,16 @@
        "tur": "arsiv",
        "alt_tur": "kurum",
        "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa%2C_Beyo%C4%9Flu_-_Mart_2013_r6.JPG/1280px-%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa%2C_Beyo%C4%9Flu_-_Mart_2013_r6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_-_Kas%C4%B1mpa%C5%9Fa,_Beyo%C4%9Flu_-_Mart_2013_r6.JPG",
-       "fotografci": "VikiPicture",
-       "lisans": "CC BY-SA 3.0",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Picture_of_kasimpasa_sk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Picture_of_kasimpasa_sk.jpg",
+       "fotografci": "Solomon joe",
+       "lisans": "CC BY-SA 4.0",
        "hedef": "Kasımpaşa",
-       "cekim": "2013-02-25",
-       "karar": "kabul",
-       "gerekce": "İstanbul manzarası, deplasman şehrini temsil etmek için uygundur.",
-       "dogrulama": "'Kasımpaşa' Wikidata Q1775820 kaydı ve Commons kategorisiyle doğrulandı",
-       "benzerlik": 1,
+       "cekim": "2017-04-04",
+       "karar": "red",
+       "gerekce": "tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Kasımpaşa takımının genel kadro arşiv fotoğrafı, habere uygundur.",
+       "dogrulama": "'Kasımpaşa' Wikidata Q138230 kaydı ve Commons kategorisiyle doğrulandı",
+       "benzerlik": 8,
        "tek": false,
        "meta_puan": 60
       },
@@ -7418,9 +7564,9 @@
        "hedef": "Akdeniz Üniversitesi Stadyumu (Antalyaspor kulübünün iç saha stadı)",
        "cekim": "2012-05-09",
        "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Akdeniz Üniversitesi Stadyumu iç saha görselidir, deplasman maçı haberine uygun değildir.",
+       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Antalyaspor'un eski stadyumunu gösteriyor, Kasımpaşa maçıyla ilgisi yok.",
        "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Akdeniz Üniversitesi Stadyumu",
-       "benzerlik": 4,
+       "benzerlik": 1,
        "tek": false,
        "meta_puan": 58
       }
@@ -7475,14 +7621,14 @@
       "etkinlik": {
        "tur": "maç",
        "anahtar_tr": [
-        "futbol",
-        "maç",
-        "karşılaşma"
+        "futbol maçı",
+        "karşılaşma",
+        "stadyum"
        ],
        "anahtar_en": [
-        "football",
+        "football match",
         "match",
-        "game"
+        "stadium"
        ]
       }
      },
@@ -7496,45 +7642,34 @@
       "lisans": "Gazete Antalya'nın kendi tasarımı",
       "lisans_dayanagi": "Sitenin kendi grafik dosyası",
       "kosul": "",
-      "gerekce": "1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.",
+      "gerekce": "Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.",
       "kontrol": {
-       "yapildi": true,
-       "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:33:47+03:00",
-       "yontem": "Gemini görsel kontrol",
-       "model": "gemini-3.5-flash-lite"
+       "yapildi": false,
+       "sonuc": "aday yok",
+       "tarih": "2026-11-02T01:39:05+03:00",
+       "yontem": "kaynak/arşiv taraması"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "a25f91c8a08e"
      },
      "eski_degerlendirme": {
       "karar": "red",
-      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Görüntü büyük ihtimalle Santiago Bernabéu Stadyumu'nu göstermektedir, Antalya Kepez Hasan Doğan Stadı ile ilgisi yoktur.",
-      "bulgular": null
-     },
-     "adaylar": [
-      {
-       "tur": "arsiv",
-       "alt_tur": "kurum",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bucak_Bld._O%C4%9Fuzhanspor_1-3_Uta%C5%9F_U%C5%9Fakspor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Bucak_Bld._O%C4%9Fuzhanspor_1-3_Uta%C5%9F_U%C5%9Fakspor.jpg",
-       "fotografci": "Sabri76",
-       "lisans": "CC0",
-       "hedef": "Uşakspor",
-       "cekim": "2017-04-24",
-       "karar": "red",
-       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğrafta Eskişehirspor'a ait stadyum ve yazılar yer almaktadır, Kepezspor ve Uşakspor maçıyla uyuşmamaktadır.",
-       "dogrulama": "'Uşakspor' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2017-04-24",
-       "benzerlik": 8,
-       "tek": false,
-       "meta_puan": null
+      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Fotoğraf yabancı bir stadyumu göstermektedir, Kepez Hasan Doğan Stadı ile uyuşmamaktadır.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": true,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 8,
+       "tek_kisi_odakli": false
       }
-     ],
+     },
+     "adaylar": [],
      "notlar": [
       "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
-      "'Kepez Hasan Doğan Stadı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı",
-      "'Kepezspor' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
+      "'Kepez Hasan Doğan Stadı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
      ]
     },
     {
@@ -7548,7 +7683,7 @@
      },
      "otomatik": "otomatik (eski hat: denetimsiz stok/rastgele seçim)",
      "konu": {
-      "ana_olay": "Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt döküldü.",
+      "ana_olay": "Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt döküldü ve ekipler temizlik çalışması başlattı.",
       "odak": "olay",
       "kisiler": [],
       "kurumlar": [
@@ -7567,14 +7702,16 @@
       ],
       "ana_kisiler": [],
       "etkinlik": {
-       "tur": "olay",
+       "tur": "kaza",
        "anahtar_tr": [
-        "uçak yakıt sızıntısı",
-        "apron temizliği"
+        "uçak",
+        "yakıt sızıntısı",
+        "havalimanı"
        ],
        "anahtar_en": [
-        "aircraft fuel leak",
-        "airport apron"
+        "airplane",
+        "fuel leak",
+        "airport"
        ]
       }
      },
@@ -7590,15 +7727,15 @@
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Antalya Havalimanı",
       "cekim_yili": "2023",
-      "gerekce": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Antalya Havalimanı kulesini gösteren genel arşiv fotoğrafı, havalimanındaki olay haberi için uygundur.",
+      "gerekce": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Antalya Havalimanı kontrol kulesini gösteren genel arşiv fotoğrafı, havacılık haberi için uygundur.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T01:32:26+03:00",
+       "tarih": "2026-11-02T01:39:21+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
-      "surum": "g7.2-2026-11-02",
+      "surum": "g7.3-2026-11-02",
       "konu_imza": "374feead745a",
       "aciklama": "Antalya Havalimanı — Arşiv fotoğrafı (2023)",
       "alt_tur": "kurum",
@@ -7607,8 +7744,17 @@
      },
      "eski_degerlendirme": {
       "karar": "kabul",
-      "gerekce": "Uçak kanadı ve gövdesini gösteren genel uçak görseli, yakıt sızıntısı haberiyle uyumludur.",
-      "bulgular": null
+      "gerekce": "Uçak kanat ve gövde detayını gösteren görsel, uçak yakıt sızıntısı haberiyle uyumludur.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": true,
+       "habere_uygun": true,
+       "yaniltici": false,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 5,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [
       {
@@ -7622,9 +7768,9 @@
        "hedef": "Antalya Havalimanı",
        "cekim": "2023-12-22",
        "karar": "kabul",
-       "gerekce": "Antalya Havalimanı kulesini gösteren genel arşiv fotoğrafı, havalimanındaki olay haberi için uygundur.",
+       "gerekce": "Antalya Havalimanı kontrol kulesini gösteren genel arşiv fotoğrafı, havacılık haberi için uygundur.",
        "dogrulama": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı",
-       "benzerlik": 6,
+       "benzerlik": 2,
        "tek": false,
        "meta_puan": 60
       },
@@ -7639,9 +7785,9 @@
        "hedef": "Antalya Havalimanı",
        "cekim": "2022-08-08",
        "karar": "kabul",
-       "gerekce": "Antalya Havalimanı TGS yer hizmetleri tabelasını gösteren arşiv görseli.",
+       "gerekce": "Antalya Havalimanı yer hizmetleri tabelasını gösteren arşiv görseli, havalimanı haberine uygundur.",
        "dogrulama": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı",
-       "benzerlik": 4,
+       "benzerlik": 1,
        "tek": false,
        "meta_puan": 50
       },
@@ -7656,9 +7802,9 @@
        "hedef": "Antalya Havalimanı",
        "cekim": "2022-02-05",
        "karar": "kabul",
-       "gerekce": "Antalya Havalimanı apron çevresini gösteren genel arşiv karelerinden biridir.",
+       "gerekce": "Havalimanı içinden dışarıyı gösteren genel bir arşiv fotoğrafıdır, habere uygundur.",
        "dogrulama": "'Antalya Havalimanı' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-02-05",
-       "benzerlik": 5,
+       "benzerlik": 1,
        "tek": false,
        "meta_puan": null
       }
@@ -7682,11 +7828,11 @@
    ],
    "eksik": 0,
    "atlanan_kontroller": [],
-   "yz_kullanilan": 0,
-   "hedef": "54ac138dcb64",
+   "yz_kullanilan": 20,
+   "hedef": "7676252e1c0b",
    "deneme_sayisi": 1,
-   "imza": "54ac138dcb64",
-   "deneme_sayisi_imza": "54ac138dcb64:1"
+   "imza": "7676252e1c0b",
+   "deneme_sayisi_imza": "7676252e1c0b:1"
   },
   "yasakli": []
  }
