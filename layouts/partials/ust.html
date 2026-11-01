@@ -1,55 +1,94 @@
 <a class="gizli" href="#icerik">İçeriğe geç</a>
-<div class="ustbar"><div class="kap">
-  <span id="bugun"></span>
-  <div class="piyasa" id="piyasa" data-enlem="{{ site.Params.enlem }}" data-boylam="{{ site.Params.boylam }}">
-    <span>DOLAR <b data-kur="USD">…</b></span>
-    <span>EURO <b data-kur="EUR">…</b></span>
-    <span>STERLİN <b data-kur="GBP">…</b></span>
-    <span>GRAM ALTIN <b data-kur="ALTIN">…</b></span>
-    <span class="hava">ANTALYA <b id="hava-kisa">…</b></span>
-  </div>
+{{/* İnce üst şerit: tarih, hava, piyasalar */}}
+<div class="serit" id="piyasa" data-enlem="{{ site.Params.enlem }}" data-boylam="{{ site.Params.boylam }}"><div class="kap serit-ic">
+  <span class="serit-tarih" id="bugun"></span>
+  <ul class="serit-veri">
+    <li class="serit-hava">Antalya <b id="hava-kisa">–</b></li>
+    <li>Dolar <b data-kur="USD">–</b></li>
+    <li>Euro <b data-kur="EUR">–</b></li>
+    <li class="serit-ek">Sterlin <b data-kur="GBP">–</b></li>
+    <li class="serit-ek">Gram altın <b data-kur="ALTIN">–</b></li>
+  </ul>
 </div></div>
-<header class="baslik"><div class="kap">
-  <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="87" height="64"></a>
-  {{ with site.Data.site.reklam_banner }}
-    {{ $src := . | relURL }}
-    {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $src = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
-    <a class="ust-vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}"><img src="{{ $src }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz></a>
+
+{{/* Logo + üst reklam */}}
+{{ $vitrin := "" }}
+{{ with site.Data.site.reklam_banner }}
+  {{ $vitrin = . | relURL }}
+  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $vitrin = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
+{{ end }}
+<header class="kunye-bas"><div class="kap kunye-ic">
+  <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="96" height="71"></a>
+  {{ with $vitrin }}
+  <a class="vitrin vitrin-ust" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}">
+    <img src="{{ . }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz>
+  </a>
   {{ end }}
-  <div class="baslik-sag">
-    <form class="ara-form" action="{{ "arama/" | relURL }}" role="search">
-      <label class="gizli" for="q">Haberlerde ara</label>
-      <input id="q" name="q" type="search" placeholder="Haberlerde ara…">
-      <button type="submit" aria-label="Ara">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
-      </button>
-    </form>
-    {{ with site.Data.site.whatsapp }}<a class="btn btn-wa" href="https://wa.me/{{ . }}" target="_blank" rel="noopener">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-3.4-.9-2.8-1.2-4.6-4.1-4.8-4.3-.1-.2-1.1-1.5-1.1-2.9s.7-2.1 1-2.4c.3-.3.6-.3.8-.3h.6c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .5l-.4.6-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.7-.1l2 1c.3.1.5.2.5.3.1.2.1.7-.2 1.2Z"/></svg>
-      <span>İhbar Hattı</span></a>{{ end }}
+  <div class="kunye-dugmeler">
+    <button class="ikon-dugme" type="button" data-ac="arama-panel" aria-label="Haberlerde ara" aria-expanded="false">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+    </button>
+    <button class="ikon-dugme menu-dugme" type="button" data-ac="mobil-menu" aria-label="Menüyü aç" aria-expanded="false">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
   </div>
 </div></header>
-<nav class="menu" aria-label="Kategoriler"><div class="kap"><ul>
-  <li><a href="{{ "/" | relURL }}" {{ if .IsHome }}class="aktif"{{ end }}>Ana Sayfa</a></li>
-{{ if where site.RegularPages "Section" "yazarlar" }}
-  <li><a href="{{ "yazarlar/" | relURL }}" {{ if or (eq .Section "kose") (eq .Section "yazarlar") }}class="aktif"{{ end }}>Yazarlar</a></li>
-  {{ end }}
-  {{ $simdiki := .RelPermalink }}
-  {{ range site.Data.site.kategoriler }}{{ $u := partial "terim-url.html" (slice "kategoriler" .) }}
-  <li><a href="{{ $u }}" {{ if eq $u $simdiki }}class="aktif"{{ end }}>{{ . }}</a></li>{{ end }}
-</ul></div></nav>
-<div class="ilcebar"><div class="kap"><ul>
-  <li class="etk">İlçeler:</li>
-  {{ range site.Data.site.ilceler }}<li><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a></li>{{ end }}
-</ul></div></div>
+
+{{/* Ana menü: kategoriler + İlçeler açılır paneli */}}
+{{ $simdiki := .RelPermalink }}
+<nav class="anamenu" aria-label="Kategoriler"><div class="kap anamenu-ic">
+  <ul class="kat-liste">
+    <li><a href="{{ "/" | relURL }}" {{ if .IsHome }}aria-current="page"{{ end }}>Ana Sayfa</a></li>
+    {{ range site.Data.site.kategoriler }}{{ $u := partial "terim-url.html" (slice "kategoriler" .) }}
+    <li><a href="{{ $u }}" {{ if eq $u $simdiki }}aria-current="page"{{ end }}>{{ . }}</a></li>{{ end }}
+    {{ if where site.RegularPages "Section" "yazarlar" }}
+    <li><a href="{{ "yazarlar/" | relURL }}" {{ if or (eq .Section "kose") (eq .Section "yazarlar") }}aria-current="page"{{ end }}>Yazarlar</a></li>
+    {{ end }}
+  </ul>
+  <details class="ilce-acilir">
+    <summary>İlçeler</summary>
+    <div class="ilce-panel">
+      {{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}
+    </div>
+  </details>
+  <button class="ikon-dugme ara-masaustu" type="button" data-ac="arama-panel" aria-label="Haberlerde ara" aria-expanded="false">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+  </button>
+</div></nav>
+
+<div class="arama-panel" id="arama-panel" hidden><div class="kap">
+  <form action="{{ "arama/" | relURL }}" role="search">
+    <label class="gizli" for="q">Haberlerde ara</label>
+    <input id="q" name="q" type="search" placeholder="Haberlerde ara: ilçe, konu, kişi…" autocomplete="off">
+    <button type="submit">Ara</button>
+  </form>
+</div></div>
+
+{{/* Mobil menü */}}
+<div class="mobil-menu" id="mobil-menu" hidden>
+  <div class="kap">
+    <p class="mm-baslik">Kategoriler</p>
+    <div class="mm-izgara">
+      <a href="{{ "/" | relURL }}">Ana Sayfa</a>
+      {{ range site.Data.site.kategoriler }}<a href="{{ partial "terim-url.html" (slice "kategoriler" .) }}">{{ . }}</a>{{ end }}
+      {{ if where site.RegularPages "Section" "yazarlar" }}<a href="{{ "yazarlar/" | relURL }}">Yazarlar</a>{{ end }}
+    </div>
+    <p class="mm-baslik">İlçeler</p>
+    <div class="mm-izgara mm-ilce">
+      {{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}
+    </div>
+  </div>
+</div>
+
+{{/* Son dakika şeridi */}}
 {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
 {{ $sd := where $hepsi "son_dakika" true | first 5 }}
-{{ $akis := slice }}{{ $al := slice }}{{ range ($sd | append (first 15 $hepsi)) }}{{ if not (in $al .link) }}{{ $al = $al | append .link }}{{ $akis = $akis | append . }}{{ end }}{{ end }}
+{{ $akis := slice }}{{ $al := slice }}{{ range ($sd | append (first 12 $hepsi)) }}{{ if not (in $al .link) }}{{ $al = $al | append .link }}{{ $akis = $akis | append . }}{{ end }}{{ end }}
 {{ if $akis }}
-<div class="sondakika" aria-label="Son dakika"><div class="kap">
-  <span class="sd-etiket"><i></i>SON DAKİKA</span>
+<div class="sondakika" aria-label="Son haberler akışı"><div class="kap sd-ic-kap">
+  <span class="sd-etiket">Son dakika</span>
   <div class="sd-akis"><div class="sd-ic">
-    {{ range seq 2 }}{{ range $akis }}<a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }}><time datetime="{{ .iso }}" data-saat></time>{{ .baslik }}</a>{{ end }}{{ end }}
+    {{ range seq 2 }}{{ range $akis }}<a href="{{ .link }}"><time datetime="{{ .iso }}" data-saat></time>{{ .baslik }}</a>{{ end }}{{ end }}
   </div></div>
 </div></div>
 {{ end }}

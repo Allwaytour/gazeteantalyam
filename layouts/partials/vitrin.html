@@ -1,0 +1,8 @@
+{{/* Sayfa içi reklam alanı (site.yaml'daki banner). Parametre: ek sınıf */}}
+{{ with site.Data.site.reklam_banner }}
+  {{ $src := . | relURL }}
+  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $src = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
+  <div class="vitrin-alan {{ $ }}"><span class="vitrin-not">Reklam</span>
+    <a class="vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}"><img src="{{ $src }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" loading="lazy" data-yedeksiz></a>
+  </div>
+{{ end }}

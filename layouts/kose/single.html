@@ -12,11 +12,11 @@
     {{ partial "paylas.html" . }}
     {{ partial "yorumlar.html" . }}
   </article>
-  <div>
+  <div class="kenar-sutun">
     {{ with $y }}{{ $ad := .File.ContentBaseName }}
     {{ $diger := where (where (where site.RegularPages "Section" "kose") "Params.yazar" $ad) "RelPermalink" "!=" $.RelPermalink }}
     {{ with first 5 $diger.ByDate.Reverse }}
-    <div class="kutu kutu-yan"><h4>Yazarın Diğer Yazıları</h4><ol class="numarali">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ol></div>
+    <section class="kutu"><h2 class="kenar-bas">Yazarın diğer yazıları</h2><ol class="numarali">{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ol></section>
     {{ end }}{{ end }}
     {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
   </div>

@@ -1,0 +1,2 @@
+{{/* Kategori · ilçe · zaman satırı. Parametre: haber sözlüğü */}}
+<div class="kicker"><a class="kicker-kat" href="{{ partial "terim-url.html" (slice "kategoriler" .kategori) }}">{{ .kategori }}</a>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>

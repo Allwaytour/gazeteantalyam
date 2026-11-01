@@ -20,14 +20,20 @@
   </article>
   {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
   {{ $ilgili := where (where $hepsi "kategori" $kat) "link" "!=" .RelPermalink }}
-  <div>
+  <div class="kenar-sutun">
     {{ with first 5 $ilgili }}
-    <div class="kutu" style="background:#fff;border-radius:10px;padding:16px;margin-bottom:20px;box-shadow:var(--golge)">
-      <h4 style="margin:0 0 12px;color:var(--lacivert);border-left:4px solid var(--turuncu);padding-left:10px">İlgili Haberler</h4>
-      <ol class="numarali">{{ range . }}<li><a href="{{ .link }}"{{ if .dis }} target="_blank" rel="noopener nofollow"{{ end }}>{{ .baslik }}</a></li>{{ end }}</ol>
-    </div>
+    <section class="kutu">
+      <h2 class="kenar-bas">İlgili haberler</h2>
+      <ol class="numarali">{{ range . }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ol>
+    </section>
     {{ end }}
     {{ partial "kenar.html" (dict "hepsi" $hepsi) }}
   </div>
 </div>
+{{ $devam := first 6 (after 5 $ilgili) }}
+{{ if lt (len $devam) 3 }}{{ $devam = first 6 (where $hepsi "link" "!=" .RelPermalink) }}{{ end }}
+<section class="bolum" aria-labelledby="b-devam">
+  <header class="bolum-bas"><h2 id="b-devam">Okumaya devam edin</h2></header>
+  <div class="kartlar">{{ range first 6 $devam }}{{ partial "kart.html" . }}{{ end }}</div>
+</section>
 {{ end }}
