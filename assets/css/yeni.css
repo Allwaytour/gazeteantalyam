@@ -118,6 +118,20 @@ article:hover .g img,.g:hover img{transform:scale(1.03)}
 .manset{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:22px;padding-bottom:20px;border-bottom:1px solid var(--cizgi)}
 .h-buyuk .g-etiket{font-size:12.5px;padding:6px 12px}
 .manset-yan{display:flex;flex-direction:column;gap:18px}
+.h-buyuk-kat{display:none}
+@media (min-width:901px){
+  .h-buyuk{position:relative}
+  .h-buyuk .g .g-etiket{display:none}
+  .h-buyuk .g::after{content:"";position:absolute;inset:45% 0 0 0;background:linear-gradient(180deg,rgba(13,24,29,0),rgba(13,24,29,.92));pointer-events:none}
+  .h-buyuk .g{position:relative}
+  .h-buyuk-yazi{position:absolute;left:0;right:0;top:0;aspect-ratio:16/9;display:flex;flex-direction:column;justify-content:flex-end;padding:0 30px 26px;pointer-events:none;margin:0}
+  .h-buyuk-yazi a{pointer-events:auto}
+  .h-buyuk-kat{display:inline-block;align-self:flex-start;background:var(--turuncu);color:#fff;font-size:12.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;margin-bottom:12px}
+  .h-buyuk .b-xl{margin:0}
+  .h-buyuk .b-xl a{color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+  .h-buyuk .b-xl a:hover{color:#fff;text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:6px}
+  .h-buyuk .spot{margin-top:14px}
+}
 .manset-yan .h-orta+.h-orta{padding-top:16px;border-top:1px solid var(--cizgi)}
 .foto-sira{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px;padding:18px 0;border-bottom:1px solid var(--cizgi)}
 .h-sira .g{margin-bottom:10px}
