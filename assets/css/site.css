@@ -30,12 +30,6 @@ main{padding:18px 0 40px;overflow-x:clip}
 .serit-veri b{color:#fff;font-weight:700;margin-left:4px;font-variant-numeric:tabular-nums}
 .serit-hava b{color:#FFC9B4}
 
-.kunye-bas{background:#fff}
-.kunye-ic{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-top:12px;padding-bottom:12px}
-.logo img{height:72px;width:auto}
-.vitrin.vitrin-ust{display:block}
-.vitrin.vitrin-ust img{height:112px;width:auto;max-width:100%}
-.kunye-dugmeler{display:none;gap:2px}
 .ikon-dugme{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;background:transparent;cursor:pointer;color:var(--mavi-koyu)}
 
 /* Kategori menüsü: güçlü turuncu bar */
@@ -294,26 +288,14 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
 .yorumlar{margin-top:30px}
 
 /* ================= ALT BÖLÜM ================= */
-.alt{background:var(--mavi-cok-koyu);color:#AFBEC5;margin-top:50px;padding:0 0 20px;font-size:14px;border-top:5px solid var(--turuncu)}
-.alt-ust{display:grid;grid-template-columns:1.3fr 1fr 1.4fr 1fr;gap:34px;padding-top:36px}
-.alt-marka img{height:64px;width:auto;margin-bottom:14px}
-.alt-marka p{margin:0;max-width:34ch;line-height:1.6}
-.alt h2{color:#fff;font-size:13px;font-weight:900;text-transform:uppercase;letter-spacing:.08em;margin:6px 0 12px}
-.alt ul{list-style:none;margin:0;padding:0}
-.alt li{padding:4px 0}
-.alt-ilce{columns:2;column-gap:16px}
-.alt a:hover{color:#fff}
-.alt-alt{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;border-top:1px solid rgba(255,255,255,.1);margin-top:30px;padding-top:16px;font-size:12.5px;color:#7F9198}
 
 /* ================= TABLET ================= */
 @media (max-width:1100px){
-  .vitrin.vitrin-ust img{height:90px}
   .duzen,.izgara{grid-template-columns:minmax(0,1fr) 270px;gap:24px}
   .foto-sira{grid-template-columns:repeat(2,minmax(0,1fr))}
   .h-sira:nth-child(3)::before{display:none}
   .sutunlar{grid-template-columns:repeat(2,minmax(0,1fr))}
   .ks-blok{grid-template-columns:1fr 1fr}.ks-blok .numarali{grid-column:1/-1}
-  .alt-ust{grid-template-columns:1fr 1fr}
 }
 @media (max-width:900px){
   .manset{grid-template-columns:1fr}
@@ -335,10 +317,6 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .serit-ic{height:28px;font-size:11.5px}
   .serit-tarih,.serit-ek{display:none}
   .serit-veri{gap:12px;width:100%;justify-content:space-between}
-  .kunye-ic{padding-top:8px;padding-bottom:8px;gap:10px}
-  .logo img{height:48px}
-  .vitrin-ust{display:none!important}
-  .kunye-dugmeler{display:flex}
   .anamenu-ic{height:44px}
   .kat-liste a{font-size:13.5px;padding:0 11px}
   .anamenu .ara-masaustu{display:none}
@@ -400,8 +378,6 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .haber .kapak figcaption{padding:6px 14px 0}
   .icerik{font-size:18.5px}
   .sayfa-bas h1{font-size:26px}
-  .alt-ust{grid-template-columns:1fr 1fr;gap:24px}
-  .alt-marka{grid-column:1/-1}
   .yazar-profil{flex-direction:column;align-items:flex-start}
 }
 /* Görsel türü açıklaması (Temsili görsel / Kategori görseli) */
@@ -410,3 +386,76 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
 .haber .kapak figcaption .g-not{position:static;display:inline-block;margin-right:6px;background:var(--mavi-koyu);vertical-align:1px}
 .haber .kapak figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 .kart-g,.lo-g{position:relative}
+
+/* ================= HEADER: logo + reklam alanı ================= */
+.kunye-bas{background:#fff;border-bottom:3px solid var(--mavi-koyu)}
+.kunye-ic{display:grid;grid-template-columns:minmax(0,30fr) minmax(0,70fr);align-items:center;gap:28px;padding-top:12px;padding-bottom:12px}
+.kunye-marka{display:flex;align-items:center;gap:20px;min-width:0}
+.logo{display:block;flex:none;line-height:0}
+.logo img{height:90px;width:auto}
+.kunye-slogan{margin:0;padding:4px 0 4px 16px;border-left:2px solid var(--turuncu);font-size:12px;font-weight:700;letter-spacing:.16em;
+  text-transform:uppercase;line-height:1.55;color:var(--mavi-koyu);max-width:12em}
+.kunye-reklam{position:relative;display:flex;justify-content:center;align-items:center;min-width:0;background:var(--zemin-2);border-top:2px solid var(--turuncu);padding:8px 12px}
+.vitrin.vitrin-ust{display:block;line-height:0;box-shadow:0 0 0 1px rgba(23,38,45,.08)}
+.vitrin.vitrin-ust img{height:auto;width:auto;max-height:142px;max-width:100%}
+.kunye-reklam-not{position:absolute;left:12px;top:8px;font-size:9.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--cok-soluk);line-height:1;writing-mode:vertical-rl;transform:rotate(180deg)}
+.kunye-dugmeler{display:none;gap:2px}
+
+/* ================= FOOTER ================= */
+.alt{background:var(--mavi-cok-koyu);color:#C9D4D9;margin-top:48px;border-top:4px solid var(--turuncu);font-size:14px}
+.alt a{color:#D6DFE3;text-decoration:none}
+.alt a:hover,.alt a:focus-visible{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.alt-marka{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:24px;padding:18px 0;border-bottom:1px solid rgba(255,255,255,.12)}
+.alt-logo{display:block;line-height:0}
+.alt-logo img{height:48px;width:auto}
+.alt-aciklama{margin:0;padding-left:22px;border-left:2px solid var(--turuncu);font-size:15px;color:#E4EBEE;line-height:1.5}
+.alt-iletisim{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 22px;justify-content:flex-end}
+.alt-iletisim a{color:#fff;font-weight:600}
+.alt-baglanti{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3.2fr) minmax(0,1.15fr);gap:44px;padding:20px 0 14px}
+.alt-grup summary{list-style:none;cursor:default}
+.alt-grup summary::-webkit-details-marker{display:none}
+.alt h2{display:flex;align-items:center;gap:10px;margin:0 0 8px;color:#fff;font-size:12.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
+.alt h2::before{content:"";width:16px;height:2px;background:var(--turuncu);flex:none}
+.alt-grup ul{list-style:none;margin:0;padding:0;column-gap:24px}
+.alt-kat ul{columns:2}
+.alt-ilc ul{columns:3}
+.alt-grup li{break-inside:avoid}
+.alt-grup li a{display:inline-block;padding:3px 0;line-height:1.3}
+.alt-alt{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 20px;border-top:1px solid rgba(255,255,255,.12);padding:12px 0 16px;font-size:12.5px;color:#9AABB2}
+.alt-alt .alt-yukari{color:#D6DFE3;font-weight:600}
+
+@media (max-width:1100px){
+  .logo img{height:80px}
+  .vitrin.vitrin-ust img{max-height:124px}
+  .alt-baglanti{gap:30px}
+}
+@media (max-width:900px){
+  .kunye-slogan{display:none}
+}
+@media (max-width:720px){
+  .kunye-ic{grid-template-columns:1fr auto;grid-template-areas:"marka dugme" "reklam reklam";gap:8px 10px;padding-top:8px;padding-bottom:10px}
+  .kunye-marka{grid-area:marka;gap:12px}
+  .kunye-dugmeler{grid-area:dugme;display:flex}
+  .logo img{height:50px}
+  .kunye-slogan{display:block;font-size:10px;letter-spacing:.12em;padding:2px 0 2px 10px;max-width:11em}
+  .kunye-reklam{grid-area:reklam;display:block;background:none;border-top:0;padding:0}
+  .vitrin.vitrin-ust{border:0}
+  .vitrin.vitrin-ust img{width:100%;max-height:none;height:auto}
+  .kunye-reklam-not{position:static;display:block;text-align:right;margin-top:3px;writing-mode:horizontal-tb;transform:none}
+
+  .alt{margin-top:36px}
+  .alt-marka{grid-template-columns:auto minmax(0,1fr);gap:14px 16px;padding:22px 0 18px}
+  .alt-logo img{height:44px}
+  .alt-aciklama{padding-left:14px;font-size:14px}
+  .alt-iletisim{grid-column:1/-1;justify-content:flex-start}
+  .alt-baglanti{display:block;padding:4px 0 0}
+  .alt-grup{border-bottom:1px solid rgba(255,255,255,.12)}
+  .alt-grup summary{cursor:pointer;display:flex;align-items:center;justify-content:space-between;min-height:48px}
+  .alt-grup summary::after{content:"+";color:#fff;font-size:20px;font-weight:400;line-height:1}
+  .alt-grup[open] summary::after{content:"−"}
+  .alt h2{margin:0}
+  .alt-grup ul{padding:0 0 12px}
+  .alt-ilc ul{columns:2}
+  .alt-grup li a{padding:8px 0}
+  .alt-alt{border-top:0}
+}

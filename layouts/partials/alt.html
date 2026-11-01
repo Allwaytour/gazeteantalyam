@@ -1,29 +1,35 @@
 <footer class="alt"><div class="kap">
-  <div class="alt-ust">
-    <div class="alt-marka">
-      <img src="{{ "images/logo-beyaz.png" | relURL }}" alt="{{ site.Title }}" width="95" height="70" loading="lazy">
-      <p>{{ site.Params.slogan }}. Antalya ve 19 ilçesinden gün boyu güncellenen haberler.</p>
-    </div>
-    <nav class="alt-sutun" aria-label="Kategoriler">
-      <h2>Kategoriler</h2>
+  <div class="alt-marka">
+    <a class="alt-logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo-beyaz.png" | relURL }}" alt="{{ site.Title }}" width="640" height="471"></a>
+    <p class="alt-aciklama">Antalya ve 19 ilçesinden güncel haberler.</p>
+    <ul class="alt-iletisim">
+      {{ with site.Data.site.eposta }}<li><a href="mailto:{{ . }}">{{ . }}</a></li>{{ end }}
+      {{ with site.Data.site.instagram }}<li><a href="{{ . }}" target="_blank" rel="noopener">Instagram</a></li>{{ end }}
+      {{ with site.Data.site.x }}<li><a href="{{ . }}" target="_blank" rel="noopener">X</a></li>{{ end }}
+      {{ with site.Data.site.facebook }}<li><a href="{{ . }}" target="_blank" rel="noopener">Facebook</a></li>{{ end }}
+    </ul>
+  </div>
+  <div class="alt-baglanti">
+    <details class="alt-grup alt-kat" open>
+      <summary><h2>Kategoriler</h2></summary>
       <ul>{{ range site.Data.site.kategoriler }}<li><a href="{{ partial "terim-url.html" (slice "kategoriler" .) }}">{{ . }}</a></li>{{ end }}</ul>
-    </nav>
-    <nav class="alt-sutun" aria-label="İlçeler">
-      <h2>İlçeler</h2>
-      <ul class="alt-ilce">{{ range site.Data.site.ilceler }}<li><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a></li>{{ end }}</ul>
-    </nav>
-    <nav class="alt-sutun" aria-label="Kurumsal">
-      <h2>Kurumsal</h2>
+    </details>
+    <details class="alt-grup alt-ilc" open>
+      <summary><h2>İlçeler</h2></summary>
+      <ul>{{ range site.Data.site.ilceler }}<li><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a></li>{{ end }}</ul>
+    </details>
+    <details class="alt-grup alt-kur" open>
+      <summary><h2>Kurumsal</h2></summary>
       <ul>
         <li><a href="{{ "kunye/" | relURL }}">Künye</a></li>
         <li><a href="{{ "iletisim/" | relURL }}">İletişim</a></li>
         <li><a href="{{ "gizlilik/" | relURL }}">Gizlilik Politikası</a></li>
         <li><a href="{{ "index.xml" | relURL }}">RSS</a></li>
-        {{ with site.Data.site.instagram }}<li><a href="{{ . }}" target="_blank" rel="noopener">Instagram</a></li>{{ end }}
-        {{ with site.Data.site.x }}<li><a href="{{ . }}" target="_blank" rel="noopener">X</a></li>{{ end }}
-        {{ with site.Data.site.facebook }}<li><a href="{{ . }}" target="_blank" rel="noopener">Facebook</a></li>{{ end }}
       </ul>
-    </nav>
+    </details>
   </div>
-  <div class="alt-alt"><span>© {{ now.Year }} {{ site.Title }}</span><span>{{ site.Data.site.eposta }}</span></div>
+  <div class="alt-alt">
+    <span>© {{ now.Year }} {{ site.Title }}. Tüm hakları saklıdır.</span>
+    <a class="alt-yukari" href="#sayfa-basi">Yukarı dön <span aria-hidden="true">↑</span></a>
+  </div>
 </div></footer>

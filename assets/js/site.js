@@ -94,6 +94,16 @@
     $$("details.ilce-acilir[open]").forEach(function (d) { d.removeAttribute("open"); });
   });
 
+  // Footer bağlantı grupları: mobilde açılıp kapanır, masaüstünde hep açık
+  (function () {
+    var gruplar = $$("details.alt-grup"); if (!gruplar.length || !window.matchMedia) return;
+    var mq = window.matchMedia("(max-width:720px)");
+    function uygula() { gruplar.forEach(function (d) { if (mq.matches) d.removeAttribute("open"); else d.setAttribute("open", ""); }); }
+    uygula();
+    if (mq.addEventListener) mq.addEventListener("change", uygula); else if (mq.addListener) mq.addListener(uygula);
+    gruplar.forEach(function (d) { d.querySelector("summary").addEventListener("click", function (e) { if (!mq.matches) e.preventDefault(); }); });
+  })();
+
   // Manşet slaytı
   $$("[data-slayt]").forEach(function (s) {
     var ic = $(".slayt-ic", s), noktalar = $$(".slayt-nok button", s), n = noktalar.length, i = 0, zaman;

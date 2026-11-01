@@ -17,12 +17,18 @@
   {{ $vitrin = . | relURL }}
   {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $vitrin = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
 {{ end }}
-<header class="kunye-bas"><div class="kap kunye-ic">
-  <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="104" height="77"></a>
+<header class="kunye-bas" id="sayfa-basi"><div class="kap kunye-ic">
+  <div class="kunye-marka">
+    <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="640" height="471"></a>
+    {{ with site.Params.slogan }}<p class="kunye-slogan">{{ . }}</p>{{ end }}
+  </div>
   {{ with $vitrin }}
-  <a class="vitrin vitrin-ust" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}">
-    <img src="{{ . }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz>
-  </a>
+  <div class="kunye-reklam">
+    <a class="vitrin vitrin-ust" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)">
+      <img src="{{ . }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz>
+    </a>
+    <span class="kunye-reklam-not" aria-hidden="true">Reklam</span>
+  </div>
   {{ end }}
   <div class="kunye-dugmeler">
     <button class="ikon-dugme" type="button" data-ac="arama-panel" aria-label="Haberlerde ara" aria-expanded="false">
