@@ -24,7 +24,6 @@
   </div>
   {{ with $vitrin }}
   <div class="kunye-reklam">
-    <img class="kunye-reklam-arka" src="{{ . }}" alt="" aria-hidden="true">
     <a class="vitrin vitrin-ust" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)">
       <img src="{{ . }}" alt="{{ site.Data.site.reklam_ad }}" width="{{ $vg }}" height="{{ $vy }}" data-yedeksiz>
     </a>
