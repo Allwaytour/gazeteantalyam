@@ -1,0 +1,8 @@
+<article class="liste-oge">
+  <a class="lo-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "y-gorsel.html" . }}</a>
+  <div class="lo-m">
+    {{ partial "y-kicker.html" . }}
+    <h3><a href="{{ .link }}">{{ .baslik }}</a></h3>
+    {{ with .ozet }}<p>{{ . | plainify | truncate 170 }}</p>{{ end }}
+  </div>
+</article>

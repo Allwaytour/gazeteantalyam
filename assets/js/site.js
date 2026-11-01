@@ -74,6 +74,26 @@
     }).catch(function () { var d = $("#hava-durum"); if (d) d.textContent = "Şu an alınamadı"; });
   }
 
+  // Menü ve arama panelleri
+  $$("[data-ac]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var hedef = document.getElementById(b.getAttribute("data-ac")); if (!hedef) return;
+      var ac = hedef.hidden; 
+      $$(".arama-panel, .mobil-menu").forEach(function (p) { p.hidden = true; });
+      $$("[data-ac]").forEach(function (x) { x.setAttribute("aria-expanded", "false"); });
+      hedef.hidden = !ac; b.setAttribute("aria-expanded", String(ac));
+      if (ac) { var g = hedef.querySelector("input"); if (g) g.focus(); }
+    });
+  });
+  document.addEventListener("click", function (e) {
+    $$("details.ilce-acilir[open]").forEach(function (d) { if (!d.contains(e.target)) d.removeAttribute("open"); });
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    $$(".arama-panel, .mobil-menu").forEach(function (p) { p.hidden = true; });
+    $$("details.ilce-acilir[open]").forEach(function (d) { d.removeAttribute("open"); });
+  });
+
   // Manşet slaytı
   $$("[data-slayt]").forEach(function (s) {
     var ic = $(".slayt-ic", s), noktalar = $$(".slayt-nok button", s), n = noktalar.length, i = 0, zaman;

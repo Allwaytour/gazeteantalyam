@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+{{ $t := .Title }}{{ if eq .Kind "section" }}{{ $t = index (dict "yazarlar" "Yazarlar" "kose" "Köşe Yazıları" "haber" "Tüm Haberler") .Section | default .Title }}{{ end }}
+{{ $baslik := cond .IsHome (printf "%s | %s" site.Title site.Params.slogan) (printf "%s | %s" $t site.Title) }}
+<title>{{ $baslik }}</title>
+{{ $aciklama := site.Params.aciklama }}{{ with .Params.ozet }}{{ $aciklama = . }}{{ end }}
+<meta name="description" content="{{ $aciklama | plainify | truncate 160 }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
+<meta property="og:description" content="{{ $aciklama | plainify | truncate 200 }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:image" content="{{ with .Params.gorsel }}{{ . | absURL }}{{ else }}{{ "images/logo.png" | absURL }}{{ end }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#374F58">
+<link rel="icon" href="{{ "favicon.png" | relURL }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+{{ $css := resources.Get "css/yeni.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ if .IsPage }}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ .Title | jsonify }},"datePublished":{{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},"dateModified":{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},{{ with .Params.gorsel }}"image":[{{ . | absURL | jsonify }}],{{ end }}"author":{"@type":"Organization","name":{{ .Params.yazar | default site.Title | jsonify }}},"publisher":{"@type":"Organization","name":{{ site.Title | jsonify }},"logo":{"@type":"ImageObject","url":{{ "images/logo.png" | absURL | jsonify }}}}}</script>
+{{ end }}
+</head>
+<body>
+{{ partial "y-ust.html" . }}
+<main><div class="kap">
+{{ $hepsi := partialCached "haberler.html" . "hepsi" }}
+{{ $sinir := sub now.Unix 21600 }}
+
+{{/* 1) MANŞET: son 6 saatte elle manşete alınmış haber, yoksa fotoğraflı en yeni haber */}}
+{{ $taze := where $hepsi "ts" "ge" $sinir }}
+{{ $adaylar := (where $taze "manset" true) | append (where $hepsi "gorsel" "!=" "") | append $hepsi }}
+{{ $ana := index $adaylar 0 }}
+{{ $kullanilan := slice $ana.link }}
+{{ $ikinci := slice }}
+{{ range (where $hepsi "gorsel" "!=" "") | append $hepsi }}
+  {{ if and (lt (len $ikinci) 4) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
+{{ end }}
+
+{{ with $ana }}
+<section class="manset" aria-label="Manşet">
+  <article class="manset-ana">
+    <a class="manset-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "y-gorsel.html" . }}</a>
+    <div class="manset-m">
+      {{ partial "y-kicker.html" . }}
+      <h2 class="manset-b"><a href="{{ .link }}">{{ .baslik }}</a></h2>
+      {{ with .ozet }}<p class="manset-spot">{{ . | plainify | truncate 220 }}</p>{{ end }}
+    </div>
+  </article>
+  <div class="manset-yan">
+    {{ range $i, $h := $ikinci }}
+    <article class="yan-oge{{ if eq $i 0 }} yan-oge-ilk{{ end }}">
+      <a class="yan-g" href="{{ $h.link }}" tabindex="-1" aria-hidden="true">{{ partial "y-gorsel.html" $h }}</a>
+      <div>
+        {{ partial "y-kicker.html" $h }}
+        <h3><a href="{{ $h.link }}">{{ $h.baslik }}</a></h3>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{/* 2) ANTALYA GÜNDEMİ: zaman akışı + kenar */}}
+{{ $akis := slice }}{{ range $hepsi }}{{ if and (lt (len $akis) 10) (not (in $kullanilan .link)) }}{{ $akis = $akis | append . }}{{ end }}{{ end }}
+{{ range $akis }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
+<div class="duzen">
+  <section class="bolum gundem" aria-labelledby="b-gundem">
+    <header class="bolum-bas"><h2 id="b-gundem">Antalya Gündemi</h2><span class="bolum-not">Gün boyu güncellenir</span></header>
+    <ol class="akis">
+      {{ range $h := $akis }}
+      <li class="akis-oge">
+        <time class="akis-saat" datetime="{{ $h.iso }}" data-saat></time>
+        <div class="akis-m">
+          <span class="akis-kat">{{ $h.kategori }}{{ with $h.ilce }} · {{ . }}{{ end }}</span>
+          <a class="akis-b" href="{{ $h.link }}">{{ $h.baslik }}</a>
+        </div>
+        {{ with $h.gorsel }}<a class="akis-g" href="{{ $h.link }}" tabindex="-1" aria-hidden="true"><img src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer"></a>{{ end }}
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  <aside class="kenar">
+    {{ partial "y-vitrin.html" "vitrin-kenar" }}
+    <section class="hava-kutu" aria-labelledby="b-hava">
+      <h2 id="b-hava" class="kenar-bas">Antalya'da hava</h2>
+      <div class="hava-simdi"><span class="der" id="hava-der">–</span><div><b id="hava-durum">Yükleniyor…</b><small id="hava-ek"></small></div></div>
+      <div class="hava-gunler" id="hava-gunler"></div>
+    </section>
+    {{ $ilceHaber := slice }}{{ $gorulenIlce := slice }}
+    {{ range $hepsi }}{{ if and .ilce (not (in $gorulenIlce .ilce)) (lt (len $ilceHaber) 6) }}{{ $gorulenIlce = $gorulenIlce | append .ilce }}{{ $ilceHaber = $ilceHaber | append . }}{{ end }}{{ end }}
+    {{ with $ilceHaber }}
+    <section aria-labelledby="b-ilce">
+      <h2 id="b-ilce" class="kenar-bas">İlçelerden</h2>
+      <ul class="ilce-son">
+        {{ range . }}<li><a class="ilce-ad" href="{{ partial "terim-url.html" (slice "ilceler" .ilce) }}">{{ .ilce }}</a><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}
+      </ul>
+    </section>
+    {{ end }}
+  </aside>
+</div>
+
+{{/* 3) Yazarlar (varsa) */}}
+{{ partial "yazarlar-serit.html" . }}
+
+{{/* 4) SPOR: koyu bant */}}
+{{ $spor := first 4 (where $hepsi "kategori" "Spor") }}
+{{ if ge (len $spor) 3 }}
+<section class="bant" aria-labelledby="b-spor"><div class="bant-ic">
+  <header class="bolum-bas bolum-bas-koyu"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tüm spor haberleri</a></header>
+  <div class="bant-izgara">
+    {{ range $i, $h := $spor }}
+    <article class="bant-oge{{ if eq $i 0 }} bant-oge-ilk{{ end }}">
+      <a class="bant-g" href="{{ $h.link }}" tabindex="-1" aria-hidden="true">{{ partial "y-gorsel.html" $h }}</a>
+      <div class="kicker"><time datetime="{{ $h.iso }}" data-zaman></time>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}</div>
+      <h3><a href="{{ $h.link }}">{{ $h.baslik }}</a></h3>
+    </article>
+    {{ end }}
+  </div>
+</div></section>
+{{ end }}
+
+{{/* 5) Reklam bandı */}}
+{{ partial "y-vitrin.html" "vitrin-genis" }}
+
+{{/* 6) Kategori sütunları: her sütunda 1 görselli haber + 3 başlık */}}
+{{ $sutunlar := slice "Turizm" "Ekonomi" "Kültür-Sanat" "Asayiş" "Sağlık" "Eğitim" "Yaşam" "Gündem" }}
+{{ $dolu := slice }}{{ range $sutunlar }}{{ if ge (len (where $hepsi "kategori" .)) 2 }}{{ $dolu = $dolu | append . }}{{ end }}{{ end }}
+{{ with $dolu }}
+<section class="sutunlar" aria-label="Kategoriler">
+  {{ range first 6 . }}
+    {{ $k := . }}{{ $kh := where $hepsi "kategori" $k }}
+    <div class="sutun">
+      <header class="bolum-bas bolum-bas-ince"><h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">{{ $k }}</a></h2></header>
+      {{ with index $kh 0 }}
+      <article class="sutun-ilk">
+        <a class="sutun-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "y-gorsel.html" . }}</a>
+        <h3><a href="{{ .link }}">{{ .baslik }}</a></h3>
+        <div class="kicker">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
+      </article>
+      {{ end }}
+      <ul class="sutun-liste">{{ range first 3 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
+    </div>
+  {{ end }}
+</section>
+{{ end }}
+
+{{/* 7) Daha fazla haber */}}
+{{ $diger := slice }}{{ range $hepsi }}{{ if not (in $kullanilan .link) }}{{ $diger = $diger | append . }}{{ end }}{{ end }}
+{{ with $diger }}
+<section class="bolum" aria-labelledby="b-diger">
+  <header class="bolum-bas"><h2 id="b-diger">Tüm haberler</h2></header>
+  <div class="liste" data-sayfala="10">{{ range first 60 . }}{{ partial "y-liste-oge.html" . }}{{ end }}</div>
+  <button class="daha" type="button" data-daha hidden>Daha fazla haber</button>
+</section>
+{{ end }}
+
+{{/* 8) İlçe dizini */}}
+<section class="ilce-dizin" aria-labelledby="b-ilceler">
+  <header class="bolum-bas bolum-bas-ince"><h2 id="b-ilceler">Antalya'nın 19 ilçesi</h2></header>
+  <div class="ilce-dizin-ic">{{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</div>
+</section>
+</div></main>
+{{ partial "y-alt.html" . }}
+{{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>
+</body>
+</html>
