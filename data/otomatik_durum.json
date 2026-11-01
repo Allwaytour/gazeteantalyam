@@ -5183,7 +5183,7 @@
    "ts": 1793572219
   }
  ],
- "son_calisma": "2026-11-02T01:32:38.685943+03:00",
+ "son_calisma": "2026-11-02T01:33:47.826035+03:00",
  "gorsel": {
   "gun": "2026-11-02",
   "yz_bugun": 65,
@@ -6043,7 +6043,7 @@
    }
   },
   "deneme": {
-   "tarih": "2026-11-02T01:32:26+03:00",
+   "tarih": "2026-11-02T01:33:47+03:00",
    "surum": "g7.2-2026-11-02",
    "model": "gemini-3.5-flash-lite",
    "dosyalar": [
@@ -6142,18 +6142,26 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görüntü haber fotoğrafı değil, bir logo ve yazı içeren grafik görselidir.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_genel",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg",
+       "fotografci": "Press Service of the President of the Republic of Azerbaijan",
+       "lisans": "CC BY 4.0",
+       "hedef": "Ersin Tatar",
+       "cekim": "2022-08-09",
+       "karar": "kabul",
+       "gerekce": "Ersin Tatar'ın ikili görüşmesini gösteren uygun bir arşiv fotoğrafıdır.",
+       "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
+       "benzerlik": 6,
+       "tek": false,
+       "meta_puan": 122
+      },
       {
        "tur": "arsiv",
        "alt_tur": "kisi_genel",
@@ -6185,23 +6193,6 @@
        "gerekce": "Ersin Tatar'ın katıldığı toplu bir etkinliği gösteren arşiv fotoğrafıdır.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 5,
-       "tek": false,
-       "meta_puan": 114
-      },
-      {
-       "tur": "arsiv",
-       "alt_tur": "kisi_genel",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_01.jpg",
-       "fotografci": "Press Service of the President of the Republic of Azerbaijan",
-       "lisans": "CC BY 4.0",
-       "hedef": "Ersin Tatar",
-       "cekim": "2022-08-09",
-       "karar": "kabul",
-       "gerekce": "Ersin Tatar'ın ikili görüşmesini gösteren uygun bir arşiv fotoğrafıdır.",
-       "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 6,
        "tek": false,
        "meta_puan": 114
       },
@@ -6331,16 +6322,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Kitaplık ve kafeterya içi görüntüsü haberin konusuyla tamamen alakasız.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6559,16 +6541,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Dijital konaklama platformları ve turizm haberine uygun genel bir otel havuzu görselidir.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 9,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6592,6 +6565,23 @@
        "tur": "arsiv",
        "alt_tur": "kisi_genel",
        "kaynak": "Wikimedia Commons",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Mehmet_Nuri_Ersoy_in_November_2023.jpg",
+       "fotografci": "The President's Office, Maldives",
+       "lisans": "CC BY 4.0",
+       "hedef": "Mehmet Nuri Ersoy",
+       "cekim": "",
+       "karar": "kabul",
+       "gerekce": "Bakan Mehmet Nuri Ersoy'u net bir şekilde gösteren portre niteliğinde arşiv fotoğrafıdır.",
+       "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
+       "benzerlik": 8,
+       "tek": true,
+       "meta_puan": 123
+      },
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_genel",
+       "kaynak": "Wikimedia Commons",
        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2816%29.jpg/1280px-Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
        "sayfa": "https://commons.wikimedia.org/wiki/File:Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_(16).jpg",
        "fotografci": "The President's Office, Maldives",
@@ -6604,23 +6594,6 @@
        "benzerlik": 3,
        "tek": false,
        "meta_puan": 122
-      },
-      {
-       "tur": "arsiv",
-       "alt_tur": "kisi_genel",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Mehmet_Nuri_Ersoy_in_November_2023.jpg",
-       "fotografci": "The President's Office, Maldives",
-       "lisans": "CC BY 4.0",
-       "hedef": "Mehmet Nuri Ersoy",
-       "cekim": "",
-       "karar": "kabul",
-       "gerekce": "Bakan Mehmet Nuri Ersoy'u net bir şekilde gösteren portre niteliğinde arşiv fotoğrafıdır.",
-       "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 8,
-       "tek": true,
-       "meta_puan": 115
       },
       {
        "tur": "arsiv",
@@ -6730,7 +6703,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:30:56+03:00",
+       "tarih": "2026-11-02T01:33:47+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -6740,16 +6713,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahnede konuşan yabancı uyruklu bir kadın var, AK Parti ve COP31 haberiyle tamamen alakasız.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 2,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6915,16 +6879,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberdeki sanatçıyla uyuşmayan farklı bir kişiyi gösterdiği için yanıltıcıdır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7093,16 +7048,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber sitesinin logo/afiş görselidir, gerçek fotoğraf değildir.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7266,7 +7212,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:31:48+03:00",
+       "tarih": "2026-11-02T01:33:47+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -7276,16 +7222,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Futbol maçı detayı, yönetim kurulu başkanı seçimi haberiyle tamamen alakasızdır ve yanlış izlenim yaratır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7433,16 +7370,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Futbol sahası çizgilerini gösteren nötr bir futbol görselidir.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 6,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7572,7 +7500,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:32:11+03:00",
+       "tarih": "2026-11-02T01:33:47+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -7582,16 +7510,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Görüntü büyük ihtimalle Santiago Bernabéu Stadyumu'nu göstermektedir, Antalya Kepez Hasan Doğan Stadı ile ilgisi yoktur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 7,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7689,16 +7608,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Uçak kanadı ve gövdesini gösteren genel uçak görseli, yakıt sızıntısı haberiyle uyumludur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7772,11 +7682,11 @@
    ],
    "eksik": 0,
    "atlanan_kontroller": [],
-   "yz_kullanilan": 20,
-   "hedef": "631c2c44a68a",
+   "yz_kullanilan": 0,
+   "hedef": "54ac138dcb64",
    "deneme_sayisi": 1,
-   "imza": "631c2c44a68a",
-   "deneme_sayisi_imza": "631c2c44a68a:1"
+   "imza": "54ac138dcb64",
+   "deneme_sayisi_imza": "54ac138dcb64:1"
   },
   "yasakli": []
  }
