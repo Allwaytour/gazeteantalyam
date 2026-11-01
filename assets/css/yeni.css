@@ -20,7 +20,7 @@ button{font:inherit;color:inherit}
 .kap{max-width:var(--kap);margin:0 auto;padding:0 20px}
 .gizli{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 [hidden]{display:none!important}
-main{padding:22px 0 56px}
+main{padding:20px 0 56px;overflow-x:clip}
 
 /* ---------- Üst şerit ---------- */
 .serit{background:var(--mavi-koyu);color:#C9D4D9;font-size:12.5px}
@@ -32,9 +32,9 @@ main{padding:22px 0 56px}
 
 /* ---------- Künye (logo + reklam) ---------- */
 .kunye-bas{background:var(--zemin);border-bottom:1px solid var(--cizgi)}
-.kunye-ic{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:104px;padding-top:10px;padding-bottom:10px}
-.logo img{height:68px;width:auto}
-.vitrin.vitrin-ust img{height:92px;width:auto;max-width:100%;border-radius:2px}
+.kunye-ic{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:92px;padding-top:8px;padding-bottom:8px}
+.logo img{height:62px;width:auto}
+.vitrin.vitrin-ust img{height:76px;width:auto;max-width:100%;border-radius:2px}
 .kunye-dugmeler{display:none;gap:4px}
 .ikon-dugme{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;background:transparent;cursor:pointer;color:var(--mavi-koyu);border-radius:var(--r)}
 .ikon-dugme:hover{background:var(--zemin-2);color:var(--turuncu-koyu)}
@@ -65,7 +65,7 @@ main{padding:22px 0 56px}
 
 /* ---------- Son dakika ---------- */
 .sondakika{border-bottom:1px solid var(--cizgi);background:#fff}
-.sd-ic-kap{display:flex;align-items:center;gap:14px;height:40px;overflow:hidden}
+.sd-ic-kap{display:flex;align-items:center;gap:14px;height:38px;overflow:hidden}
 .sd-etiket{flex:none;font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--turuncu-koyu);display:flex;align-items:center;gap:8px}
 .sd-etiket::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--turuncu);animation:nabiz 1.4s infinite}
 @keyframes nabiz{50%{opacity:.25}}
@@ -97,7 +97,7 @@ main{padding:22px 0 56px}
 
 /* ---------- Manşet ---------- */
 .manset{display:grid;grid-template-columns:minmax(0,1.85fr) minmax(0,1fr);gap:32px;padding-bottom:28px;border-bottom:1px solid var(--cizgi)}
-.manset-g{display:block;aspect-ratio:16/9;overflow:hidden;background:var(--mavi-acik);border-radius:var(--r)}
+.manset-g{display:block;aspect-ratio:2/1;overflow:hidden;background:var(--mavi-acik);border-radius:var(--r)}
 .manset-g img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
 .manset-ana:hover .manset-g img{transform:scale(1.015)}
 .manset-m{padding-top:16px}
