@@ -5161,12 +5161,17 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1I2dG9EaVNMaHNxWE0wSXBfYS1vRkFQMUpsUmQ4Yzd3YWI1OHRnSGpkM2JFUGhxNHZWZjh5RDlBY2s4RFRkWmNKVjNRZ2kwLVZKX0NoMHgyMmROVFlQZ01rRTR6ME96aXBjNzlZUHNkLTYwNUNNYlozUzI0Vnp0VERkWTMzMTV1VFdYWHZidXhGaV9qSUF4dFFMS3RXRk1Y?oc=5#yz",
    "baslik": "Antalya'daki Çalıştayda Batmanlı İhracatçıların Sorunları Ele Alındı",
    "ts": 1793571657
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV18wdExQemVpN0p2bXo2RDlWR3E0S282eXczYjVBSVJGWmk5UjFvRDBVVEZ4RW5VRVU2WmpkQmp1V2ZnOHUyb0piY1ItQ0FqS0VsY21BbUhmc18ySUNCajY0S3hFVlV3eVJNcXRtVHBCbDVFeE1DRGJFMXQyYnozdGd5M0N1LUwyYkpGTlpjVGw5LWczX0RvRUQyQXlCLWpa?oc=5",
+   "baslik": "Antalya Kültür Yolu Festivali başladı! 440'tan fazla etkinlik düzenlenecek",
+   "ts": 1793571892
   }
  ],
- "son_calisma": "2026-11-02T01:24:20.960495+03:00",
+ "son_calisma": "2026-11-02T01:25:04.956952+03:00",
  "gorsel": {
   "gun": "2026-11-02",
-  "yz_bugun": 44,
+  "yz_bugun": 45,
   "onbellek": {
    "konu:40d12c172e81": {
     "konu": {
@@ -6055,10 +6060,18 @@
     "benzerlik": 3,
     "tek": false,
     "s": "g7.1-2026-11-02"
+   },
+   "802c7e2a2929": {
+    "karar": "kabul",
+    "gerekce": "Tarkani gosteren konser sahnesi arSiv fotografi, haberle uyumludur.",
+    "t": "2026-11-02T01:25:04+03:00",
+    "benzerlik": 5,
+    "tek": true,
+    "s": "g7.1-2026-11-02"
    }
   },
   "deneme": {
-   "tarih": "2026-11-02T01:24:13+03:00",
+   "tarih": "2026-11-02T01:25:04+03:00",
    "surum": "g7.1-2026-11-02",
    "model": "gemini-3.5-flash-lite",
    "dosyalar": [
@@ -6135,7 +6148,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:21:07+03:00",
+       "tarih": "2026-11-02T01:25:01+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -6145,16 +6158,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görsel gerçek bir fotoğraf değil, haber sitesine ait logo ve grafik içeren statik bir tasarımdır.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6334,16 +6338,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Kitaplık ve uluslararası bayraklarla dolu iç mekân, haberle tamamen uyumsuz.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": true,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6361,7 +6356,7 @@
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 8,
        "tek": true,
-       "meta_puan": 224
+       "meta_puan": 232
       },
       {
        "tur": "arsiv",
@@ -6570,16 +6565,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Turizm ve konaklama haberine uygun havuzlu tatil tesisi görseli.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6614,7 +6600,7 @@
        "dogrulama": "'Mehmet Nuri Ersoy' kimliği Wikidata Q55526162 (Türkiye Cumhuriyeti Kültür ve Turizm Bakanı Turkish business) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 6,
        "tek": false,
-       "meta_puan": 212
+       "meta_puan": 220
       },
       {
        "tur": "arsiv",
@@ -6773,7 +6759,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:22:36+03:00",
+       "tarih": "2026-11-02T01:25:01+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -6783,16 +6769,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Sahnede konuşma yapan farklı bir kişiyi gösteriyor, haberle tamamen alakasız.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 1,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6958,16 +6935,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberle ilgisi olmayan başka bir sanatçıyı göstermektedir, yanıltıcıdır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6985,7 +6953,7 @@
        "dogrulama": "'Teoman' kimliği Wikidata Q982765 (Turkish singer (born 1967) Türk rock müzik sanatçısı) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (3 anahtar eşleşmesi)",
        "benzerlik": 10,
        "tek": true,
-       "meta_puan": 240
+       "meta_puan": 248
       },
       {
        "tur": "arsiv",
@@ -7136,16 +7104,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Haber sitesinin logo ve başlık görseli.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7163,24 +7122,7 @@
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 5,
        "tek": true,
-       "meta_puan": 115
-      },
-      {
-       "tur": "arsiv",
-       "alt_tur": "kisi_genel",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tarkan.JPG/1280px-Tarkan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Tarkan.JPG",
-       "fotografci": "Inge versteegt at Dutch Wikipedia ( Original text: Inge Versteegt )",
-       "lisans": "CC BY-SA 3.0",
-       "hedef": "Tarkan",
-       "cekim": "",
-       "karar": "red",
-       "gerekce": "gerçek fotoğraf değil; habere uygun değil — Tarkan'ın çizim portresi.",
-       "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
-       "benzerlik": 0,
-       "tek": true,
-       "meta_puan": 104
+       "meta_puan": 123
       },
       {
        "tur": "arsiv",
@@ -7228,6 +7170,23 @@
        "cekim": "2011-04-24",
        "karar": "kabul",
        "gerekce": "Tarkan'ın sahne üstündeki arşiv fotoğrafı.",
+       "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
+       "benzerlik": 5,
+       "tek": true,
+       "meta_puan": 104
+      },
+      {
+       "tur": "arsiv",
+       "alt_tur": "kisi_genel",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tarkan_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Tarkan_(17).jpg",
+       "fotografci": "Hakki.T (Hakki Topcu)",
+       "lisans": "CC BY 2.0",
+       "hedef": "Tarkan",
+       "cekim": "2011-04-24",
+       "karar": "kabul",
+       "gerekce": "Tarkani gosteren konser sahnesi arSiv fotografi, haberle uyumludur.",
        "dogrulama": "'Tarkan' kimliği Wikidata Q485771 (Turkish singer (born 1972) Türk şarkıcı ve söz yazarı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 5,
        "tek": true,
@@ -7311,7 +7270,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:23:41+03:00",
+       "tarih": "2026-11-02T01:25:04+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -7321,16 +7280,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Antrenman sahasinda gecen futbol haberi icin antrenman gorseli uygundur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 6,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7462,7 +7412,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:23:49+03:00",
+       "tarih": "2026-11-02T01:25:04+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -7472,16 +7422,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "habere uygun değil — Futbol sahası köşesini göstermektedir, ancak genel bir stok görseldir ve özel bir hazırlığı yansıtmaz.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 3,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7611,7 +7552,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T01:23:58+03:00",
+       "tarih": "2026-11-02T01:25:04+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -7621,16 +7562,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğraf yabancı bir stadyumu göstermektedir, Kepezspor ve Uşakspor maçıyla ilgisi yoktur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 7,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7728,16 +7660,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Uçak kanadını gösteriyor, haberdeki uçak sızıntısı konusuyla genel olarak uyumlu.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 3,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7811,11 +7734,11 @@
    ],
    "eksik": 0,
    "atlanan_kontroller": [],
-   "yz_kullanilan": 20,
-   "hedef": "bf5d81faf424",
+   "yz_kullanilan": 1,
+   "hedef": "128b6b106653",
    "deneme_sayisi": 1,
-   "imza": "bf5d81faf424",
-   "deneme_sayisi_imza": "bf5d81faf424:1"
+   "imza": "128b6b106653",
+   "deneme_sayisi_imza": "128b6b106653:1"
   },
   "yasakli": []
  }
