@@ -110,7 +110,7 @@
 {{/* Ekonomi + Turizm yan yana: büyük haber + başlık listesi */}}
 {{ $ikili := slice }}{{ range slice "Ekonomi" "Turizm" }}{{ if ge (len (where $hepsi "kategori" .)) 2 }}{{ $ikili = $ikili | append . }}{{ end }}{{ end }}
 {{ with $ikili }}
-<div class="ikili">
+<div class="ikili{{ if site.Data.site.dikey_reklam }} ikili-vitrinli{{ end }}">
   {{ range . }}
   {{ $k := . }}{{ $kh := where $hepsi "kategori" $k }}
   <section class="bolum" aria-label="{{ $k }}">
@@ -125,6 +125,7 @@
     <ul class="baslik-liste">{{ range first 4 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
   </section>
   {{ end }}
+  {{ if site.Data.site.dikey_reklam }}<div class="ek-vitrin">{{ partial "vitrin-dikey.html" . }}</div>{{ end }}
 </div>
 {{ end }}
 
@@ -214,8 +215,13 @@
 {{ with $diger }}
 <section class="bolum" aria-labelledby="b-diger">
   <header class="bolum-bas"><h2 id="b-diger">Son Haberler</h2></header>
-  <div class="liste liste-2" data-sayfala="12">{{ range first 60 . }}{{ partial "liste-oge.html" . }}{{ end }}</div>
-  <button class="daha" type="button" data-daha hidden>Daha fazla haber</button>
+  <div class="son-duzen">
+    <div>
+      <div class="liste liste-2" data-sayfala="12">{{ range first 60 . }}{{ partial "liste-oge.html" . }}{{ end }}</div>
+      <button class="daha" type="button" data-daha hidden>Daha fazla haber</button>
+    </div>
+    {{ if site.Data.site.dikey_reklam }}<aside class="ek-vitrin son-vitrin">{{ partial "vitrin-dikey.html" . }}</aside>{{ end }}
+  </div>
 </section>
 {{ end }}
 {{ end }}
