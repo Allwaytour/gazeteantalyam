@@ -20,7 +20,7 @@ ayarlar:
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_yz_gunluk: 100         # görsel hattının günlük Gemini istek sınırı (metin yazımından ayrı sayılır)
   unsplash_saatlik: 35          # Unsplash saatlik arama sınırı (ücretsiz demo anahtarı 50/saat)
-  gorsel_deneme_no: 1           # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 2           # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # karşılaştırmalı deneme (haber dosyalarını değiştirmez)
     - 20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4.md
     - 20261101-kepezde-gecekondu-yangini-aile-cocuklarini-son-anda-kurtardi-2ca96.md
