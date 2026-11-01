@@ -466,3 +466,15 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
 .vitrin-dikey img{width:100%;height:auto}
 @media (max-width:900px){.kenar .vitrin-dikey{grid-column:1/-1}}
 @media (max-width:720px){.vitrin-dikey{max-width:280px}}
+
+/* Reklam alanı: banner alanı tam doldurmadığında kenarlar banner'ın bulanık kopyasıyla dolar (banner esnemez, kırpılmaz) */
+.kunye-reklam{overflow:hidden;isolation:isolate}
+.kunye-reklam-arka{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:blur(22px) saturate(1.1) brightness(.78);transform:scale(1.15);z-index:-1;pointer-events:none}
+.kunye-reklam .vitrin.vitrin-ust{position:relative;box-shadow:0 6px 22px rgba(0,0,0,.28)}
+.kunye-reklam-not{color:rgba(255,255,255,.75)}
+@media (max-width:720px){
+  .kunye-reklam{overflow:visible}
+  .kunye-reklam-arka{display:none}
+  .kunye-reklam .vitrin.vitrin-ust{box-shadow:none}
+  .kunye-reklam-not{color:var(--cok-soluk)}
+}
