@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7.4"
+SURUM = "g7.5"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -657,16 +657,39 @@ def kisi_adaylari(bag, konu, haber):
     return secilen, notlar
 
 
-def mekan_gorselleri(bag, qidler):
-    """Takımın Wikidata'daki iç saha stadı (P115) kaydının resmî görseli (P18). [(dosya, ad)]"""
-    if not qidler:
-        return []
-    anahtar = "wd:v2:mekan:" + "|".join(qidler)
+def mekan_gorselleri(bag, qidler, takim_qid=""):
+    """Takımın BUGÜNKÜ iç saha stadının resmî görseli (P18). [(dosya, ad)]
+    Wikidata'da takımın P115 kaydı eski kalabilir; bu yüzden takımı "kullanıcı" (P466) olarak gösteren statlar da toplanır,
+    yıkılmış/kapanmış olanlar atlanır ve açılışı (P1619/P571) en yeni olan seçilir."""
+    anahtar = "wd:v3:mekan:" + takim_qid + ":" + "|".join(qidler)
     if anahtar not in bag.arsiv:
-        ent = _wd_get({"action": "wbgetentities", "ids": "|".join(qidler), "props": "claims|labels", "languages": "tr|en"}).get("entities", {})
-        bag.arsiv[anahtar] = [{"ad": ((e.get("labels") or {}).get("tr") or (e.get("labels") or {}).get("en") or {}).get("value", ""),
-                               "p18": [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get("P18") or [])][:1]}
-                              for e in ent.values()]
+        idler = list(qidler)
+        if takim_qid:
+            for x in (_wd_get({"action": "query", "list": "search", "srsearch": f"haswbstatement:P466={takim_qid}", "srlimit": 6})
+                      .get("query", {}).get("search") or []):
+                if x.get("title", "").startswith("Q") and x["title"] not in idler:
+                    idler.append(x["title"])
+        kayitlar = []
+        if idler:
+            ent = _wd_get({"action": "wbgetentities", "ids": "|".join(idler[:8]), "props": "claims|labels", "languages": "tr|en"}).get("entities", {})
+            for e in ent.values():
+                cl = e.get("claims", {})
+                if cl.get("P576") or cl.get("P582"):          # yıkılmış / kapanmış
+                    continue
+                if takim_qid and not any(c.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id") == takim_qid
+                                         and "P582" not in (c.get("qualifiers") or {}) for c in (cl.get("P466") or [])) \
+                        and e.get("id") not in qidler:
+                    continue
+                acilis = ""
+                for prop in ("P1619", "P571"):
+                    for c in cl.get(prop) or []:
+                        t = str(c.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("time", ""))
+                        acilis = max(acilis, t.lstrip("+")[:10])
+                kayitlar.append({"qid": e.get("id"), "acilis": acilis,
+                                 "ad": ((e.get("labels") or {}).get("tr") or (e.get("labels") or {}).get("en") or {}).get("value", ""),
+                                 "p18": [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (cl.get("P18") or [])][:1]})
+        kayitlar.sort(key=lambda m: m["acilis"], reverse=True)
+        bag.arsiv[anahtar] = kayitlar[:1]
     sonuc = []
     for m in bag.arsiv[anahtar] or []:
         for d in _dosya_bilgisi(bag, ["File:" + x for x in m["p18"] if isinstance(x, str)]):
@@ -697,7 +720,7 @@ def kurum_wikidata_adaylari(bag, konu):
             notlar.append(f"Commons okunamadı ({h['ad']}): {e}")
             continue
         try:
-            stat = mekan_gorselleri(bag, v.get("mekan") or [])
+            stat = mekan_gorselleri(bag, v.get("mekan") or [], v["qid"] if h.get("tur") == "takim" else "")
         except Exception as e:
             stat = []
             notlar.append(f"Stat kaydı okunamadı ({h['ad']}): {e}")
