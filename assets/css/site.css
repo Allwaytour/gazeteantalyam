@@ -478,3 +478,18 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .kunye-reklam .vitrin.vitrin-ust{box-shadow:none}
   .kunye-reklam-not{color:var(--cok-soluk)}
 }
+
+/* Dikey reklam: ana sayfadaki ek yerleşimler (Ekonomi/Turizm yanı, Son Haberler yanı) */
+.ikili.ikili-vitrinli{grid-template-columns:minmax(0,1fr) minmax(0,1fr) 300px}
+.ek-vitrin .vitrin-dikey{margin:34px 0 0}
+.son-vitrin .vitrin-dikey{margin:0}
+.son-duzen{display:grid;grid-template-columns:minmax(0,1fr);gap:30px;align-items:start}
+.son-duzen:has(.son-vitrin){grid-template-columns:minmax(0,1fr) 300px}
+.son-vitrin{position:sticky;top:64px}
+.son-vitrin .vitrin-dikey{margin:0}
+@media (max-width:1100px){.ikili.ikili-vitrinli{grid-template-columns:minmax(0,1fr) minmax(0,1fr) 240px;gap:24px}}
+@media (max-width:900px){
+  .ek-vitrin{display:none}
+  .ikili.ikili-vitrinli{grid-template-columns:1fr}
+  .son-duzen,.son-duzen:has(.son-vitrin){grid-template-columns:minmax(0,1fr)}
+}
