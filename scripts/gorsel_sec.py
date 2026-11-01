@@ -117,7 +117,13 @@ class Baglam:
         return bool(self.gemini_key) and self.g["yz_bugun"] + adet <= self.yz_gunluk
 
     def unsplash_hakki(self):
-        return bool(self.unsplash_key) and len(self.g["unsplash"]) < self.unsplash_saatlik
+        return bool(self.unsplash_key) and not self.unsplash_kapali() and len(self.g["unsplash"]) < self.unsplash_saatlik
+
+    def unsplash_kapali(self):
+        return self.g.get("unsplash_kapali", 0) > time.time()
+
+    def unsplash_kapat(self, dakika=60):
+        self.g["unsplash_kapali"] = time.time() + dakika * 60
 
     def unsplash_say(self):
         self.g["unsplash"].append(time.time())
@@ -362,11 +368,13 @@ def unsplash_ara(bag, sorgu):
     if anahtar in bag.arsiv:
         return bag.arsiv[anahtar]
     if not bag.unsplash_hakki():
-        raise KotaHatasi(f"Unsplash saatlik sınırı ({bag.unsplash_saatlik}) doldu")
+        raise KotaHatasi("Unsplash kotası dolu, bir saat içinde yeniden denenecek" if bag.unsplash_kapali()
+                         else f"Unsplash saatlik sınırı ({bag.unsplash_saatlik}) doldu")
     bag.unsplash_say()
     r = requests.get("https://api.unsplash.com/search/photos", headers={"Authorization": f"Client-ID {bag.unsplash_key}", "Accept-Version": "v1"},
                      params={"query": sorgu, "orientation": "landscape", "per_page": 10, "content_filter": "high"}, timeout=20)
     if r.status_code in (403, 429):
+        bag.unsplash_kapat()   # kalan istekleri boşa harcamamak için bir saat ara verilir
         raise KotaHatasi(f"Unsplash kotası ({r.status_code})")
     r.raise_for_status()
     sonuc = []
@@ -594,6 +602,10 @@ def gorsel_sec(bag, haber, konu, eski=None):
                    "model": bag.model_fn() if kontrol_yapildi else "", "puan": a.get("puan", 0)}
         return aday_secimi(a, kontrol, kimza), rapor
 
+    stok_getirilemedi = not stok and any(re.search(r"kota|sınır", n, re.I) for n in n2)
+    if stok_getirilemedi:
+        kontrol_yapildi, hata = False, hata or next(n for n in n2 if re.search(r"kota|sınır", n, re.I))
+        bag.notlar.append(f"{haber.get('baslik', '')[:60]}: stok aday getirilemedi ({hata})")
     if not kontrol_yapildi:
         neden = hata or "aday bulunamadı"
         k = {"yapildi": False, "sonuc": "yapılamadı", "tarih": simdi, "yontem": "Gemini görsel kontrol", "neden": neden}
@@ -763,4 +775,5 @@ def deneme_calistir(bag, dosyalar):
             satir["hata"] = str(e)[:200]
         satirlar.append(satir)
     return {"tarih": simdi_tr().isoformat(timespec="seconds"), "surum": KURAL_SURUMU, "model": bag.model_fn() if bag.gemini_key else "",
-            "dosyalar": dosyalar, "satirlar": satirlar, "atlanan_kontroller": bag.notlar[:], "yz_kullanilan": bag.yz_tur}
+            "dosyalar": dosyalar, "satirlar": satirlar,
+            "eksik": sum(1 for x in satirlar if (x.get("yeni") or {}).get("bekliyor")), "atlanan_kontroller": bag.notlar[:], "yz_kullanilan": bag.yz_tur}
