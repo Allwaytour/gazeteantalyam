@@ -18,7 +18,7 @@
   {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $vitrin = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ end }}
 {{ end }}
 <header class="kunye-bas"><div class="kap kunye-ic">
-  <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="96" height="71"></a>
+  <a class="logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="104" height="77"></a>
   {{ with $vitrin }}
   <a class="vitrin vitrin-ust" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }}">
     <img src="{{ . }}" alt="{{ site.Data.site.reklam_ad }}" width="960" height="320" data-yedeksiz>
@@ -45,16 +45,15 @@
     <li><a href="{{ "yazarlar/" | relURL }}" {{ if or (eq .Section "kose") (eq .Section "yazarlar") }}aria-current="page"{{ end }}>Yazarlar</a></li>
     {{ end }}
   </ul>
-  <details class="ilce-acilir">
-    <summary>İlçeler</summary>
-    <div class="ilce-panel">
-      {{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}
-    </div>
-  </details>
   <button class="ikon-dugme ara-masaustu" type="button" data-ac="arama-panel" aria-label="Haberlerde ara" aria-expanded="false">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
   </button>
 </div></nav>
+
+<div class="ilce-serit"><div class="kap ilce-serit-ic">
+  <span class="ilce-serit-bas">İlçeler</span>
+  {{ range site.Data.site.ilceler }}{{ $u := partial "terim-url.html" (slice "ilceler" .) }}<a href="{{ $u }}" {{ if eq $u $simdiki }}aria-current="page"{{ end }}>{{ . }}</a>{{ end }}
+</div></div>
 
 <div class="arama-panel" id="arama-panel" hidden><div class="kap">
   <form action="{{ "arama/" | relURL }}" role="search">
