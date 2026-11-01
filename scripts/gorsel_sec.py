@@ -38,7 +38,7 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
-SURUM = "g7"
+SURUM = "g7.1"
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -107,7 +107,16 @@ def kok(w):
 
 def json_ayikla(metin):
     metin = re.sub(r"^```(?:json)?|```$", "", (metin or "").strip()).strip()
-    return json.loads(metin)
+    try:
+        return json.loads(metin)
+    except ValueError:
+        pass
+    # Modelin JSON'dan önce/sonra yazdığı fazlalıkları at; ilk tam nesneyi oku.
+    bas = metin.find("{")
+    if bas < 0:
+        raise ValueError("yanıtta JSON nesnesi yok")
+    nesne, _ = json.JSONDecoder().raw_decode(metin[bas:])
+    return nesne
 
 
 # ----------------------------------------------------------------- bağlam: ayarlar, kota, önbellek
@@ -244,7 +253,8 @@ KONU_KURALLARI = """Alanlar:
   "ad_en" bilinen İngilizce/uluslararası adı (ör. "Antalya Airport", "Antiphellos theatre"); bilinmiyorsa "ad" ile aynı.
   Genel ifadeler (ör. "stadyum", "polis", "okul", "hastane", "otoyol", "Antalya") hedef DEĞİLDİR. Yoksa boş liste.
 - ana_kisiler: Haberin asıl konusu olan, kamuoyunca tanınan kişiler (siyasetçi, yönetici, sanatçı, sporcu, teknik direktör vb.; en fazla 2).
-  "ad" tam ad (ör. "Ersin Tatar", "Murat Kurum"); "rol" haberdeki görevi (ör. "KKTC 5. Cumhurbaşkanı", "Çevre Bakanı").
+  "ad" tam ad ya da kamuoyunun bildiği sahne adı (ör. "Ersin Tatar", "Murat Kurum", "Tarkan"); "rol" haberdeki görevi/mesleği,
+  Türkçe ve İngilizce (ör. "KKTC Cumhurbaşkanı / president", "Çevre Bakanı / minister", "şarkıcı / singer", "futbolcu / footballer").
   Suç şüphelisi, mağdur, hasta, çocuk ya da kamuya mal olmamış kişileri YAZMA. Yalnızca soyadı geçiyorsa tam adını metinden bul; bulamazsan yazma.
 - etkinlik: Haberdeki etkinliğin türü. "tur" tek kelime Türkçe (ör. "ziyaret", "toplantı", "konser", "maç", "tören", "açılış", "basın toplantısı", "antrenman", "açıklama").
   "anahtar_tr" ve "anahtar_en": benzer etkinlik fotoğraflarını bulmak için 2-4 kelime (ör. ["üniversite","ziyaret"], ["university","visit","campus"])."""
@@ -267,7 +277,8 @@ def konu_dogrula(k):
         "etkinlik": {"tur": "", "anahtar_tr": [], "anahtar_en": []},
     }
     for kisi in (k.get("ana_kisiler") or [])[:3]:
-        if isinstance(kisi, dict) and len(kelimeler(kisi.get("ad"))) >= 2:
+        # Tek kelimelik sahne adları (Teoman, Tarkan) da alınır; kimlik Wikidata'da rol ipucuyla ayrıca doğrulanır.
+        if isinstance(kisi, dict) and kelimeler(kisi.get("ad")) and len(" ".join(kelimeler(kisi.get("ad")))) >= 4:
             sonuc["ana_kisiler"].append({"ad": temiz(kisi.get("ad"), 60), "rol": temiz(kisi.get("rol"), 80)})
     sonuc["ana_kisiler"] = sonuc["ana_kisiler"][:2]
     e = k.get("etkinlik") if isinstance(k.get("etkinlik"), dict) else {}
@@ -303,7 +314,7 @@ def konu_ayristir(bag, baslik, spot, metin):
     talimat = ("Bir haberin görselini seçmek için haberin konusunu ayrıştır. Yalnızca metinde geçen bilgileri kullan, uydurma.\n"
                + KONU_KURALLARI + "\n\nYalnızca şu biçimde JSON döndür:\n" + KONU_ALANLARI
                + f"\n\nBAŞLIK: {baslik}\nSPOT: {spot}\n\nMETİN:\n{(metin or '')[:3500]}")
-    konu = konu_dogrula(bag.gemini([{"text": talimat}], en_fazla=1000))
+    konu = konu_dogrula(bag.gemini([{"text": talimat}], en_fazla=1600))
     if konu:
         bag.onbellek_koy(anahtar, {"konu": konu, "t": simdi_tr().isoformat(timespec="seconds")})
     return konu
@@ -465,13 +476,16 @@ def wikidata_varlik(bag, ad, insan=True, ipucu=""):
             deger = lambda p: [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get(p) or [])]
             adaylar.append({"qid": e["id"], "ad": ad, "aciklama": temiz(acik, 200), "p18": [x for x in deger("P18") if isinstance(x, str)],
                             "kategori": next((x for x in deger("P373") if isinstance(x, str)), "")})
-        if len(adaylar) == 1:
+        tek_kelime = len(hedef.split()) < 2
+        if len(adaylar) == 1 and not tek_kelime:
             sonuc = adaylar[0]
-        elif len(adaylar) > 1 and ipucu:
+        elif adaylar and ipucu:
+            # Tek kelimelik adlarda tek aday olsa bile açıklama rolle örtüşmeli (yanlış kişiyi seçmemek için).
             ip = {kok(w) for w in kelimeler(ipucu)}
-            puan = sorted(((len(ip & {kok(w) for w in kelimeler(a["aciklama"])}), a) for a in adaylar), key=lambda x: -x[0])
-            if puan[0][0] > 0 and puan[0][0] > puan[1][0]:
-                sonuc = puan[0][1]
+            puan = sorted((len(ip & {kok(w) for w in kelimeler(a["aciklama"])}) for a in adaylar), reverse=True) + [0]
+            en_iyi = max(adaylar, key=lambda a: len(ip & {kok(w) for w in kelimeler(a["aciklama"])}))
+            if puan[0] > 0 and puan[0] > puan[1]:
+                sonuc = en_iyi
     bag.arsiv[anahtar] = sonuc
     return sonuc
 
@@ -609,7 +623,7 @@ def kisi_adaylari(bag, konu, haber):
                               + ("; olay tarihi ve yeriyle örtüşüyor" if olay else (f"; benzer etkinlik ({benzer} anahtar eşleşmesi)" if benzer else "; genel fotoğraf"))),
             })
     adaylar.sort(key=lambda a: -a["meta_puan"])
-    return adaylar[:6], notlar
+    return adaylar[:5], notlar
 
 
 def kurum_wikidata_adaylari(bag, konu):
@@ -806,7 +820,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         kisiler=", ".join(konu.get("kisiler") or []) or "-", kurumlar=", ".join(konu.get("kurumlar") or []) or "-",
         yer=konu.get("yer") or "-", hassas=konu.get("hassas", "yok"), iddialar="\n".join(iddialar),
         etkinlik=(konu.get("etkinlik") or {}).get("tur") or konu.get("ana_olay", ""))
-    yanit = bag.gemini([{"text": metin}] + parcalar, en_fazla=1500)
+    yanit = bag.gemini([{"text": metin}] + parcalar, en_fazla=3500)
     liste = {int(d.get("no", 0)): d for d in (yanit.get("degerlendirmeler") or []) if isinstance(d, dict)}
     tarih = simdi_tr().isoformat(timespec="seconds")
     for i, a in enumerate(gonderilecek, 1):
@@ -892,7 +906,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
         if a["url"] not in gorulen:
             gorulen.add(a["url"])
             kurum.append(dict(a, alt_tur=a.get("alt_tur") or "kurum"))
-    kurum = kurum[:4]
+    kurum = kurum[:3]
     adaylar = gercek + kisi + kurum
     eski_aday = None
     if eski and eski.get("url"):
