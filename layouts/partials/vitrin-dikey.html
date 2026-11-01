@@ -5,6 +5,6 @@
     {{ $src = (resources.Copy (printf "vitrin/dikey%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ $g = .Width }}{{ $y = .Height }}
   {{ end }}
   <div class="vitrin-alan vitrin-dikey"><span class="vitrin-not">Reklam</span>
-    <a class="vitrin" href="{{ site.Data.site.dikey_reklam_link | default "#" }}"{{ if not (hasPrefix (site.Data.site.dikey_reklam_link | default "") "tel:") }} target="_blank"{{ end }} rel="sponsored noopener" aria-label="{{ site.Data.site.dikey_reklam_ad }} (reklam)"><img src="{{ $src }}" alt="{{ site.Data.site.dikey_reklam_ad }}" width="{{ $g }}" height="{{ $y }}" loading="lazy" data-yedeksiz></a>
+    <a class="vitrin" href="{{ site.Data.site.dikey_reklam_link | default "#" | safeURL }}"{{ if not (hasPrefix (site.Data.site.dikey_reklam_link | default "") "tel:") }} target="_blank"{{ end }} rel="sponsored noopener" aria-label="{{ site.Data.site.dikey_reklam_ad }} (reklam)"><img src="{{ $src }}" alt="{{ site.Data.site.dikey_reklam_ad }}" width="{{ $g }}" height="{{ $y }}" loading="lazy" data-yedeksiz></a>
   </div>
 {{ end }}
