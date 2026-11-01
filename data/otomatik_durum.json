@@ -5258,7 +5258,7 @@
    "ts": 1793573998
   }
  ],
- "son_calisma": "2026-11-02T02:00:12.271855+03:00",
+ "son_calisma": "2026-11-02T02:00:51.845933+03:00",
  "gorsel": {
   "gun": "2026-11-02",
   "yz_bugun": 140,
@@ -6097,7 +6097,7 @@
    }
   },
   "deneme": {
-   "tarih": "2026-11-02T01:58:11+03:00",
+   "tarih": "2026-11-02T02:00:51+03:00",
    "surum": "g7.6-2026-11-02",
    "model": "gemini-3.5-flash-lite",
    "dosyalar": [
@@ -6195,16 +6195,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görsel bir logo/afiş tasarımıdır, gerçek fotoğraf değildir.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6381,7 +6372,7 @@
       },
       "surum": "g7.6-2026-11-02",
       "konu_imza": "5e1bc2283a6b",
-      "aciklama": "Murat Kurum, önceki bir açıklamadan — Arşiv (2024)",
+      "aciklama": "Murat Kurum — Arşiv fotoğrafı (2024)",
       "alt_tur": "kisi_benzer",
       "qid": "Q56125668",
       "konum": "50% 22%"
@@ -6389,16 +6380,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Yabancı bayraklarla süslü kafe iç mekan görseli haberle tamamen alakasızdır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": true,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6433,7 +6415,7 @@
        "dogrulama": "'Murat Kurum' kimliği Wikidata Q56125668 (Minister of Environment, Urbanisation and Climate Change of ) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi)",
        "benzerlik": 6,
        "tek": true,
-       "meta_puan": 220
+       "meta_puan": 228
       },
       {
        "tur": "arsiv",
@@ -6615,7 +6597,7 @@
       },
       "surum": "g7.6-2026-11-02",
       "konu_imza": "dfa1d817522a",
-      "aciklama": "Mehmet Nuri Ersoy, önceki bir açıklamadan — Arşiv (2020)",
+      "aciklama": "Mehmet Nuri Ersoy — Arşiv fotoğrafı (2020)",
       "alt_tur": "kisi_benzer",
       "qid": "Q55526162",
       "konum": "50% 22%"
@@ -6623,16 +6605,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Konaklama ve turizm haberine uygun havuz ve tesis manzarası.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 9,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -6826,7 +6799,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-02T01:57:12+03:00",
+       "tarih": "2026-11-02T02:00:51+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g7.6-2026-11-02",
@@ -6835,16 +6808,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Fotoğraftaki kişi haberdeki Türk siyasetçiyle uyuşmamaktadır, bu nedenle haber görseli olamaz.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 2,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [],
      "notlar": [
@@ -6925,16 +6889,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Görseldeki kişi haberde adı geçen sanatçıyla uyuşmamaktadır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7095,7 +7050,7 @@
       },
       "surum": "g7.6-2026-11-02",
       "konu_imza": "397075de3870",
-      "aciklama": "Tarkan, önceki bir açıklamadan — Arşiv (2011)",
+      "aciklama": "Tarkan — Arşiv fotoğrafı (2011)",
       "alt_tur": "kisi_benzer",
       "qid": "Q485771",
       "konum": "50% 22%"
@@ -7103,16 +7058,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görsel bir logo ve kategori afişidir, gerçek fotoğraf değildir.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7292,16 +7238,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Futbol maçı görseli genel bir futbol haberi için uygundur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 4,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7415,16 +7352,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Jenerik futbol sahası görselidir, haberle uyumludur.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 5,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7554,7 +7482,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-02T01:57:56+03:00",
+       "tarih": "2026-11-02T02:00:51+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g7.6-2026-11-02",
@@ -7563,16 +7491,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Fotoğraftaki stat devasa boyutları ve yabancı reklam panolarıyla Kepez Hasan Doğan Stadı ile uyuşmamaktadır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": true,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 5,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [],
      "notlar": [
@@ -7653,16 +7572,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Uçak kanadı ve gövdesini gösteren genel bir görseldir, haber içeriğini destekler.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -7736,11 +7646,11 @@
    ],
    "eksik": 0,
    "atlanan_kontroller": [],
-   "yz_kullanilan": 20,
-   "hedef": "59bc0c63faf3",
+   "yz_kullanilan": 0,
+   "hedef": "c1f62d18e51c",
    "deneme_sayisi": 1,
-   "imza": "59bc0c63faf3",
-   "deneme_sayisi_imza": "59bc0c63faf3:1"
+   "imza": "c1f62d18e51c",
+   "deneme_sayisi_imza": "c1f62d18e51c:1"
   },
   "yasakli": []
  }
