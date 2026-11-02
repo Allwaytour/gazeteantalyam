@@ -1,0 +1,47 @@
+---
+title: 'Antalya''daki kongrede bir ilk: Lisans öğrencileri bildiri sundu'
+date: '2026-11-02T14:53:24+03:00'
+ozet: Antalya'da düzenlenen uluslararası kongrede, üç lisans öğrencisi akademik danışman eşliğinde bildiri sunarak yüksekokul tarihinde bir ilke imza attı.
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/T.C._K%C3%BClt%C3%BCr_Ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_K%C3%BC%C3%A7%C3%BCk_%C3%87alt%C4%B1cak_Halk_Plaj%C4%B1.jpg/1280px-T.C._K%C3%BClt%C3%BCr_Ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_K%C3%BC%C3%A7%C3%BCk_%C3%87alt%C4%B1cak_Halk_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Farosha / Wikimedia Commons (CC BY-SA 4.0)'
+kategoriler:
+- Eğitim
+ilceler: []
+gorsel_tur: arsiv
+gorsel_secim:
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:T.C._K%C3%BClt%C3%BCr_Ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_K%C3%BC%C3%A7%C3%BCk_%C3%87alt%C4%B1cak_Halk_Plaj%C4%B1.jpg
+  fotografci: Farosha
+  kredi: Farosha / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2024'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü, kongre haberi için uygun bir arşiv manzarasıdır.'
+  surum: g7.7-2026-11-02
+  konu_imza: 95035034aeaa
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/T.C._K%C3%BClt%C3%BCr_Ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_K%C3%BC%C3%A7%C3%BCk_%C3%87alt%C4%B1cak_Halk_Plaj%C4%B1.jpg/1280px-T.C._K%C3%BClt%C3%BCr_Ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_K%C3%BC%C3%A7%C3%BCk_%C3%87alt%C4%B1cak_Halk_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  kontrol:
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T15:09:34+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya — Arşiv fotoğrafı (2024)
+  alt_tur: yer
+  qid: Q6487
+  kurum: k1
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Son Dakika
+kaynak_url: https://www.sondakika.com/egitim/haber-du-beden-egitimi-ve-spor-yuksekokulunda-uc-ogrenci-20387995/
+---
+Antalya'da gerçekleştirilen 10. Uluslararası Akademik Spor Araştırmaları Kongresi, spor bilimleri alanında önemli bilim insanlarını ve araştırmacıları bir araya getirdi. Kongrede, Dicle Üniversitesi Beden Eğitimi ve Spor Yüksekokulundan üç lisans öğrencisi bilimsel çalışmalarını katılımcılarla paylaştı.
+
+Berfin Savuk, Sami Yusuf Eralp ve Berfin Akbulut isimli öğrenciler, Dr. Muhsin Duran'ın akademik danışmanlığında hazırladıkları bildirilerini uluslararası platformda sundu. Yüksekokul bünyesinde lisans düzeyindeki öğrencilerin uluslararası bir kongrede bildiri sunması kurum tarihinde ilk kez gerçekleşti ve akademik gelişim açısından önemli bir başarı olarak değerlendirildi.
+
+Öğrencilerin eğitim sürecinde bilimsel araştırma faaliyetlerine katılmasının önemine değinen Dr. Muhsin Duran, amaçlarının teorik bilgiyi aşarak sorgulayan ve bilim üreten gençler yetiştirmek olduğunu ifade etti. Elde edilen bu başarının yüksekokuldaki diğer öğrencilere de örnek olması ve ilerleyen dönemlerde benzer katılımların artması bekleniyor.

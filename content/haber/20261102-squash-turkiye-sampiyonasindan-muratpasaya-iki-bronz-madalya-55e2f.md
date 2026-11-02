@@ -2,34 +2,35 @@
 title: Squash Türkiye Şampiyonası'ndan Muratpaşa'ya iki bronz madalya
 date: '2026-11-02T12:42:16+03:00'
 ozet: Bursa'da düzenlenen Squash Büyükler Türkiye Şampiyonası'nda kürsüye çıkan Muratpaşa Belediyesporlu sporcular, iki bronz madalyayla Antalya'ya döndü.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/kurum/bb6477128cf7cbed.jpg
+gorsel_kredi: 'Fotoğraf: Muratpaşa Belediyesi'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: gercek
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: gercek
+  kaynak_sayfa: https://muratpasa-bld.gov.tr/haber/11122/muratpasa-dan-squash-turkiye-sampiyonasi-nda-iki-bronz-madalya
+  fotografci: Muratpaşa Belediyesi
+  kredi: Muratpaşa Belediyesi
+  lisans: Kurum izniyle
+  lisans_dayanagi: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
+  kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
+  gosterilen: Muratpaşa Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 'Haber Muratpaşa Belediyesi sitesinde bulundu (metin benzerliği %73); fotoğraf kurumun kendi sayfasından; görsel kontrol: Muratpaşa Belediyespor''un madalya kazanan sporcuları ve kulüp bayrağı squash kortunda başarıyla görüntülenmiştir.'
   surum: g7.7-2026-11-02
   konu_imza: 71c4e3bb0290
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: /images/kurum/bb6477128cf7cbed.jpg
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:00:51+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T15:14:37+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  alt_tur: kurum_haber
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +38,9 @@ otomatik: true
 yz: true
 kaynak: DHA | Demirören Haber Ajansı
 kaynak_url: https://www.dha.com.tr/yerel-haberler/antalya/muratpasadan-squash-turkiye-sampiyonasinda-ik-2973780
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Bursa'nın Nilüfer ilçesinde 30 Ekim - 1 Kasım tarihleri arasında gerçekleştirilen Squash Büyükler Türkiye Şampiyonası'nda Muratpaşa Belediyesporlu sporcular önemli derecelere imza attı. Turnuvada boy gösteren kulüp sporcuları, farklı kategorilerdeki mücadeleleriyle dikkat çekti.
 
