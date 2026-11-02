@@ -15,7 +15,7 @@ ayarlar:
 
   # Görsel seçimi (scripts/gorsel_sec.py): izinli gerçek fotoğraf → haberde adı geçen yerin/kurumun arşiv fotoğrafı
   # → fotoğrafsız kapak. Genel stok fotoğraf kullanılmaz.
-  gorsel_toplu_duzeltme: true  # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
+  gorsel_toplu_duzeltme: false  # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 20        # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); inceleme sonrası artırılır
   gorsel_duzeltme_tur: 8        # toplu düzeltmede bir turda en fazla kaç haber
