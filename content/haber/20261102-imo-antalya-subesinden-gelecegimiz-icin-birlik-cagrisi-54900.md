@@ -19,17 +19,17 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 55b627117a12
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T14:47:46+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T15:19:46+03:00'
     yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    model: gemini-3.5-flash-lite
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/imo-antalya-subesinden-talebimiz-gelecegimiz-cagrisi/388506
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 İnşaat Mühendisleri Odası (İMO) Antalya Şubesi, mesleki koşullara ve ekonomik sıkıntılara yönelik önemli bir açıklama yaptı. Derinleşen ekonomik kayıplar ile güvencesiz çalışma ortamlarının sadece mühendisleri hedef almadığı, aynı zamanda tüm toplumun can ve mal güvenliğini tehlikeye attığı vurgulandı.
 

@@ -2,36 +2,34 @@
 title: Doğan Hızlan Kütüphanesi yenilenen yüzüyle yeniden kapılarını açtı
 date: '2026-11-02T11:57:26+03:00'
 ozet: Antalya'da 14 yıllık geçmişe sahip Doğan Hızlan Kütüphanesi, kapsamlı tadilat çalışmalarının ardından modern bir görünüme kavuşarak okuyucularını yeniden ağırlamaya başladı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: /images/kategori/kultur-sanat.png
+gorsel_kredi: ''
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
-  fotografci: Joe Wallace
-  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel manzarasını gösteren arşiv fotoğrafı, kütüphane haberi için uygun ve yanıltıcı değil.'
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: a49aa9fabc18
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T12:53:24+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T15:21:07+03:00'
+    yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2022)
-  alt_tur: yer
-  qid: Q6487
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-hizmette-509924229
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 ---
 Antalya Büyükşehir Belediyesi bünyesinde faaliyet gösteren Doğan Hızlan Kütüphanesi, uzun yıllar boyunca yoğun şekilde kullanılmasının ardından ihtiyaç duyulan modernizasyon çalışmalarıyla yenilendi. Gerçekleştirilen kapsamlı tadilat çerçevesinde kütüphanenin çalışma alanları, çocuk bölümü ve kitap koleksiyonu baştan aşağı yenilendi. Aynı zamanda binanın dış cephe görsel uygulamaları ve bahçe düzenlemesi de elden geçirilerek daha kullanışlı bir yapı oluşturuldu.
 

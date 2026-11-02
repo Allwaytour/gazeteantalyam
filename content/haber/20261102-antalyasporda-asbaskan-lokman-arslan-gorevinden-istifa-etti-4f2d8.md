@@ -32,6 +32,7 @@ gorsel_secim:
   aciklama: Antalya Stadyumu — Arşiv fotoğrafı (2015)
   alt_tur: kurum
   qid: Q43710
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalyaspor-asde-surpriz-istifa-lokman-arslan-gorevinden-ayrildi
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Trendyol 1. Lig takımlarından Antalyaspor'da yönetim kademesinde sürpriz bir ayrılık yaşandı. Mustafa Ergün başkanlığındaki Antalyaspor A.Ş. Yönetim Kurulu'nda asbaşkan olarak görev yapan Lokman Arslan'ın görevini bıraktığı belirtildi. Arslan'ın istifa kararını kulüp yönetimine doğrudan iletmek yerine noter vasıtasıyla gönderdiği dilekçeyle bildirmesi dikkati çekti.
 
