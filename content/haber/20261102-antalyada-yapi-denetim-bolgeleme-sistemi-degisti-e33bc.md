@@ -25,10 +25,11 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:19:07+03:00'
+    tarih: '2026-11-02T16:24:54+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  kurum: k1
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/muteahhitlerin-3-yillik-mucadelesi-sonuc-verdi
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Antalya inşaat sektörünü yakından ilgilendiren yapı denetim bölgeleme sisteminde yeni bir düzenlemeye gidildi. Antalya İnşaat Müteahhitleri Derneği'nin yaklaşık üç yıldır ilgili bakanlıklar nezdinde sürdürdüğü girişimler ve görüşmeler sonuç verdi. Konuya ilişkin tebliğ Resmî Gazete'de yayımlanarak yürürlük tarihi duyuruldu.
 

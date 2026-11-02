@@ -32,7 +32,8 @@ gorsel_secim:
   aciklama: Antalya Stadyumu — Arşiv fotoğrafı (2015)
   alt_tur: kurum
   qid: Q43710
-  kurum: k1
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

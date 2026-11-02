@@ -2,34 +2,38 @@
 title: Antalyalı öğrenci Einstein Matematik Olimpiyatları'nda dünya birincisi oldu
 date: '2026-11-02T13:16:00+03:00'
 ozet: Almanya'nın başkenti Berlin'de düzenlenen uluslararası yarışmada 5. sınıflar kategorisinde yarışan Çağan Tuğra Sözel dünya birinciliği elde etti.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coastal_path.JPG/1280px-Coastal_path.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Cano58 / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Eğitim
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Coastal_path.JPG
+  fotografci: Cano58
+  kredi: Cano58 / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2012'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü gösteren arşiv fotoğrafı habere uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: ffc198f617b5
-  gorsel_url: /images/kategori/egitim.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coastal_path.JPG/1280px-Coastal_path.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:28:07+03:00'
-    yontem: Gemini görsel kontrol
+    sonuc: onaylandı
+    tarih: '2026-11-02T16:23:57+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  kurum: k1
+  aciklama: Antalya — Arşiv fotoğrafı (2012)
+  alt_tur: yer
+  qid: Q6487
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

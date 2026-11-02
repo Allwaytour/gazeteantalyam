@@ -18,17 +18,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later); kontrol edilmemiş fotoğraf kullanılmadı."
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 2647de6a7659
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T12:47:34+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T16:25:08+03:00'
     yontem: Gemini görsel kontrol
-    neden: "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
-  bekliyor: true
+    model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Diyarbakır Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-yagislara-hazirlik-hatlar-ve-mazgallarda-kapsamli-temizlik-386343
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya genelinde yağışlı dönemlerde yaşanabilecek su birikintisi ve taşkın risklerini en aza indirmek amacıyla altyapı hazırlıkları hız kesmeden devam ediyor. Kent genelindeki yağmur suyu altyapısının sorunsuz çalışmasını hedefleyen ekipler, hatlarda ve sokaklardaki mazgallarda kapsamlı bir temizlik süreci yürütüyor.
 

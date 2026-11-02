@@ -25,10 +25,11 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:28:15+03:00'
+    tarih: '2026-11-02T16:24:08+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  kurum: k1
+  kurum: k3
+  kurum_notu: T.C. Ticaret Bakanlığı Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
