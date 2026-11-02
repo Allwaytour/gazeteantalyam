@@ -2,8 +2,8 @@
 title: Alanya otellerinde yaz doluluğu yüzde 85’i aştı
 date: '2026-11-02T02:55:00+03:00'
 ozet: Antalya'nın gözde turizm merkezlerinden Alanya'da yaz sezonu yoğun geçerken, otellerdeki doluluk oranı yüzde 85'i geçti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Alanya_Harbour_8391.jpg/1280px-Alanya_Harbour_8391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -11,26 +11,29 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-  fotografci: Julian Lupyan
-  kredi: Julian Lupyan / Wikimedia Commons (CC0)
-  lisans: CC0
-  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Harbour_8391.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Alanya
-  cekim_yili: '2024'
-  gerekce: '''Alanya'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Alanya''da yaz sezonunu yansıtan uygun bir turizm ve tatil görselidir.'
+  cekim_yili: '2013'
+  gerekce: '''Alanya'' Wikidata Q171810 kaydı ve Commons kategorisi (Alanya) ile doğrulandı; haberde geçen yer; görsel kontrol: Alanya limanını gösteren nötr arşiv fotoğrafı, yaz turizmi haberi için uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 0c012729c0bf
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Alanya_Harbour_8391.jpg/1280px-Alanya_Harbour_8391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T12:48:41+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-02T18:25:12+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Alanya — Arşiv fotoğrafı (2024)
-  alt_tur: kurum
+  aciklama: Alanya — Arşiv fotoğrafı (2013)
+  alt_tur: yer
+  qid: Q171810
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

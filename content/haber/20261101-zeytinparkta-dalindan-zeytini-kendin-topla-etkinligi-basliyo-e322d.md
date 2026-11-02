@@ -29,16 +29,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 5d30afad3951
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T12:49:32+03:00'
+    tarih: '2026-11-02T18:26:03+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 ---
 Antalya'nın önemli doğal yaşam merkezlerinden biri olan Zeytinpark, doğaseverleri zeytin hasadı heyecanıyla buluşturmaya hazırlanıyor. Yaklaşık 2 milyon 630 bin metrekarelik alanda kurulan ve bünyesinde binlerce zeytin ağacı barındıran parkta, zeytin toplama etkinliği gerçekleştirilecek. Kentin yeşil dokusunun korunmasında önemli bir rol oynayan ve Antalya Ticaret Borsası öncülüğünde yürütülen çalışmalarla bugüne taşınan alan, düzenlenecek programla kapılarını ziyaretçilere açacak.
 

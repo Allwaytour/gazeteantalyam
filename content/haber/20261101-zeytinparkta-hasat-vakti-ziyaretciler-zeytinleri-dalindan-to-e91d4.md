@@ -39,6 +39,8 @@ gorsel_secim:
     tarih: '2026-11-02T12:49:18+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: Torbalı Belediyesi Antalya dışı kurum, kullanılmadı
 ---
 Kent merkezindeki önemli doğal yaşam alanları arasında yer alan ve yaklaşık 2 milyon 630 bin metrekarelik alana yayulan Zeytinpark'ta yeni bir etkinlik için hazırlıklar tamamlandı. Yaklaşık 25 bin zeytin ağacına ev sahipliği yapan ve kent sakinleri tarafından doğanın koruma alanlarından biri olarak görülen bölgede, ziyaretçilerin doğayla buluşması amaçlanıyor. 
 

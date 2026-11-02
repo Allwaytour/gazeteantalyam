@@ -2,34 +2,37 @@
 title: Alanya turizminde 12 ay hedefi ve organizasyon vurgusu
 date: '2026-11-02T13:33:00+03:00'
 ozet: Alanya turizmini yıl geneline yaymak için spor ve sanat etkinliklerinin önemine dikkat çekildi, entegre planlama çağrısı yapıldı.
-gorsel: /images/kategori/turizm.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
 kategoriler:
 - Turizm
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
+  fotografci: Julian Lupyan
+  kredi: Julian Lupyan / Wikimedia Commons (CC0)
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Alanya
+  cekim_yili: '2024'
+  gerekce: '''Alanya'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Alanya''da yillara yayilan turizm ve spor faaliyetlerini destekleyen gorsel niteligindedir.'
   surum: g7.7-2026-11-02
   konu_imza: 64e9a9d9d2c4
-  gorsel_url: /images/kategori/turizm.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:52:16+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T18:24:59+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  aciklama: Alanya — Arşiv fotoğrafı (2024)
+  alt_tur: kurum
+  kurum: k3
+  kurum_notu: Alanya Kaymakamlığı sayfası aynı haber değil (benzerlik %35); Antalya Valiliği sayfası aynı haber değil (benzerlik %41); Döşemealtı Kaymakamlığı sayfasında haber fotoğrafı yok (11 görsel; )
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyada-sezonu-12-aya-yayacak-recete-belli-oldu
+gorsel_onceki:
+  gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
 ---
 Alanya'da turizm sezonunun yılın tamamına yayılması amacıyla yürütülen çalışmalar kapsamında, düşük sezonda düzenlenen organizasyonların kritik bir role sahip olduğu ifade edildi. Konuya ilişkin değerlendirmelerde bulunan Alanya Turizm Tanıtma Vakfı Yönetim Kurulu Üyesi ve Basın Sözcüsü Alper Gencelli, bu tür etkinliklerin ilçe turizmine önemli bir hareketlilik kazandırdığını belirtti.
 
