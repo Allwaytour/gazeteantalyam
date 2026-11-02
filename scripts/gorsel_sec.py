@@ -1645,8 +1645,10 @@ def haber_isle(bag, yol):
     secim, _ = gorsel_sec(bag, h, konu, eski=eski_bilgi)
     if getattr(bag, "son_kurum_notu", ""):
         secim["kurum_notu"] = bag.son_kurum_notu
-    if secim.get("bekliyor") and eski_bilgi:
-        return None, "kontrol ertelendi; mevcut görsel şimdilik korundu"
+    if secim.get("bekliyor"):
+        # Konu ayrıştırılamadı ya da görsel kontrolü yapılamadı (yapay zekâ kotası/servis hatası): haber dosyasına dokunulmaz,
+        # mevcut görsel korunur; kota açılınca yeniden denenir.
+        return None, "kontrol yapılamadı; mevcut görsel korundu"
     if eski and eski != secim["gorsel"] and not eski.startswith("/images/kategori/") and secim["tur"] != "stok":
         bag.yasakla(eski)
     secimi_uygula(v, secim)
@@ -1682,6 +1684,12 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
             if yalniz_bekleyen and not (isinstance(v.get("gorsel_secim"), dict) and v["gorsel_secim"].get("bekliyor")):
                 continue
             secim, neden = haber_isle(bag, yol)
+            if secim is None:
+                print(f"Görsel düzeltilmedi: {ad} → {neden}")
+                if neden.startswith("kontrol yapılamadı"):
+                    print("Yapay zekâ kontrolü yapılamıyor; toplu düzeltme bu tur durduruldu (sayaç artmadı).")
+                    break
+                continue
             duzeltilen += 1
             if not yalniz_bekleyen:
                 sayac[KURAL_SURUMU] = sayac.get(KURAL_SURUMU, 0) + 1
@@ -1690,7 +1698,7 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
                             "aciklama": (secim or {}).get("aciklama", ""), "gorsel": (secim or {}).get("gorsel", ""),
                             "kapak_nedeni": ((secim or {}).get("kapak_nedeni") or {}).get("kod", ""), "surum": KURAL_SURUMU})
                 del son[:-60]
-            print(f"Görsel düzeltildi: {ad} → {secim['tur'] if secim else neden}")
+            print(f"Görsel düzeltildi: {ad} → {secim['tur']}")
         except Exception as e:
             print("Görsel düzeltilemedi:", ad, e)
     return duzeltilen
