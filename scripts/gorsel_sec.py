@@ -1091,6 +1091,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
         s["bekliyor"] = True
         return s, rapor
 
+    t0 = time.time()
     gercek, n1 = gercek_adaylar(bag, konu, haber)
     kisi, n3 = kisi_adaylari(bag, konu, haber)
     kurum_wd, n4 = kurum_wikidata_adaylari(bag, konu)
@@ -1115,6 +1116,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
     kontrol_listesi = adaylar + ([eski_aday] if eski_aday else [])
 
     kontrol_yapildi, hata = False, ""
+    t1 = time.time()
     if kontrol_listesi:
         try:
             gorsel_kontrol(bag, haber, konu, kimza, kontrol_listesi)
@@ -1123,6 +1125,8 @@ def gorsel_sec(bag, haber, konu, eski=None):
             hata = str(e)
             rapor["notlar"].append("görsel kontrol yapılamadı: " + hata)
             bag.notlar.append(f"{haber.get('baslik', '')[:60]}: {hata}")
+    print(f"   görsel süre: aday toplama {t1 - t0:.0f} sn, kontrol {time.time() - t1:.0f} sn, {len(kontrol_listesi)} görsel"
+          + (f" ({hata[:80]})" if hata else ""))
     if eski_aday:
         rapor["eski"] = {k: eski_aday.get(k) for k in ("karar", "gerekce", "bulgular")}
     rapor["adaylar"] = [{k: a.get(k) for k in ("tur", "alt_tur", "kaynak", "url", "sayfa", "fotografci", "lisans", "hedef", "cekim", "karar",
