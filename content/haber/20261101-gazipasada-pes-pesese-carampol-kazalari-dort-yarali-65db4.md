@@ -2,8 +2,8 @@
 title: 'Gazipaşa''da peş peşeşe çarampol kazaları: Dört yaralı'
 date: '2026-11-01T13:42:42+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde gün içinde meydana gelen iki ayrı kazada araçlar çarampole ve uçuruma devrildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg/1280px-Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Selçuk Kara / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/3b/Egemen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kral_koyu,_Gazipa%C5%9Fa,_Antalya.jpg
-  fotografci: Selçuk Kara
-  kredi: Selçuk Kara / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Egemen3.jpg
+  fotografci: GAZİPAŞA GENÇLİK
+  kredi: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Gazipaşa
-  cekim_yili: '2020'
-  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa''nın genel doğa görünümü, kaza haberi için nötr arşiv görseli olarak kullanılabilir.'
+  cekim_yili: '2015'
+  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa Koru sahilini gösteren genel manzara fotoğrafı, ilçe haberi için uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 6f21e872b6c4
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg/1280px-Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/3b/Egemen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T14:53:35+03:00'
+    tarih: '2026-11-02T19:54:42+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Gazipaşa — Arşiv fotoğrafı (2020)
+  aciklama: Gazipaşa — Arşiv fotoğrafı (2015)
   alt_tur: yer
   qid: Q844779
+  kurum: k3
+  kurum_notu: ADIYAMAN İL SAĞLIK MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı
 ---
 Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda gecti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
 

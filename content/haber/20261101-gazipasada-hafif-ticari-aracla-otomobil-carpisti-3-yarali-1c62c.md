@@ -2,8 +2,8 @@
 title: 'Gazipaşa''da hafif ticari araçla otomobil çarpıştı: 3 yaralı'
 date: '2026-11-01T12:05:40+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde hafif ticari araç ile otomobilin çarpıştığı kazada 3 kişi yaralandı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Egemen4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Seyir_Teras%C4%B1.jpg
-  fotografci: TutiTheAntiochian
-  kredi: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Egemen4.jpg
+  fotografci: GAZİPAŞA GENÇLİK
+  kredi: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Gazipaşa
-  cekim_yili: '2020'
-  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa''nın gün batımı manzarası; kaza haberi için nötr mekân görseli.'
+  cekim_yili: '2015'
+  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa Koru sahilini gösteren nötr arşiv manzarası, kaza haberi için uygundur ve yanıltıcı değildir.'
   surum: g7.7-2026-11-02
   konu_imza: d504184fb250
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Egemen4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T14:53:43+03:00'
+    tarih: '2026-11-02T19:55:18+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Gazipaşa — Arşiv fotoğrafı (2020)
+  aciklama: Gazipaşa — Arşiv fotoğrafı (2015)
   alt_tur: yer
   qid: Q844779
+  kurum: k3
+  kurum_notu: "kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında hafif ticari araçla otomobil çarpıştı ve 3 kişi yaralandı.
 

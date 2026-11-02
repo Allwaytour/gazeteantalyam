@@ -2,7 +2,7 @@
 title: Gazipaşa'da şarampole devrilen otomobilin sürücüsü ağır yaralandı
 date: '2026-11-01T12:44:43+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde kontrolden çıkarak yaklaşık 100 metrelik şarampole yuvarlanan otomobilin sürücüsü ağır yaralandı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5b/Cebeli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
@@ -21,7 +21,7 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Cebeli.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Egemen2.jpg
   fotografci: GAZİPAŞA GENÇLİK
   kredi: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
@@ -29,19 +29,21 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Gazipaşa
   cekim_yili: '2015'
-  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa''nın genel görünümünü gösteren arşiv fotoğrafı, kaza haberi için nötr ve uygundur.'
+  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa sahilini gösteren nötr arşiv fotoğrafı, kaza haberi için uygundur ve yanıltıcı değildir.'
   surum: g7.7-2026-11-02
   konu_imza: cad8f7a3bd93
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Cebeli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T14:51:23+03:00'
+    tarih: '2026-11-02T19:54:23+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
   aciklama: Gazipaşa — Arşiv fotoğrafı (2015)
   alt_tur: yer
   qid: Q844779
+  kurum: k3
+  kurum_notu: "TBMM sayfası aynı haber değil (benzerlik %46); kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
 ---
 Kaza, gece saat 01.00 sularında Gazipaşa'nın Ilıca Mahallesi sınırları içerisinde meydana geldi. Alınan bilgilere göre, Raşit G. yönetimindeki 07 BFK 071 plakalı otomobil, henüz bilinmeyen bir nedenle sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yoldan çıkarak şarampole devrildi. Yaklaşık 100 metre yuvarlanan araçta kaza yaşandı.
 

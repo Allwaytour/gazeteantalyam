@@ -32,6 +32,8 @@ gorsel_secim:
   aciklama: Elmalı — Arşiv fotoğrafı (2007)
   alt_tur: kurum
   qid: Q1013462
+  kurum: k3
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

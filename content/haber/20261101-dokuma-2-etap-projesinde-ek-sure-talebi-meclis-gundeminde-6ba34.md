@@ -2,7 +2,7 @@
 title: Dokuma 2. Etap Projesi’nde ek süre talebi meclis gündeminde
 date: '2026-11-01T12:40:52+03:00'
 ozet: Kepez Belediyesi'nin Dokuma 2. Etap Projesi hazırlıkları kapsamında kurulan çalışma grubuna ek süre verilmesi konusu kasım ayı meclis toplantısında görüşülecek.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
@@ -21,7 +21,7 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg
   fotografci: Dosseman
   kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
@@ -29,10 +29,10 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Kepez
   cekim_yili: '2011'
-  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez ilçesinin genel görünümünü gösteren uygun bir arşiv fotoğrafıdır.'
+  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez ilçesinin genel görünümünü yansıtan uygun bir arşiv karesidir.'
   surum: g7.7-2026-11-02
   konu_imza: 820d26a3af20
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
@@ -42,6 +42,8 @@ gorsel_secim:
   aciklama: Kepez — Arşiv fotoğrafı (2011)
   alt_tur: yer
   qid: Q727065
+  kurum: k3
+  kurum_notu: 'kurum sayfası okunamadı (Millî Savunma Bakanlığı): 404 Client Error: Not Found for url: https://www.msb.gov.tr/SlaytHaber/b3c515b3b; Millî Savunma Bakanlığı Antalya dışı kurum, kullanılmadı; Millî Savunma Bakanlığı Antalya dışı kurum, kullanılmadı'
 ---
 Kepez Belediye Başkanı Mesut Kocagöz'ün ortak akıl vurgusunun ardından hayata geçirilen Dokuma 2. Etap Projesi hazırlıkları sürerken, süreçle ilgili yeni bir aşamaya gelindi. Fabrikalar Mahallesi'nde yer alan büyük alan üzerinde hayata geçirilecek projeyi hazırlamakla görevlendirilen çalışma grubunun çalışmaları, kasım ayı belediye meclisi toplantısında ele alınacak.
 
