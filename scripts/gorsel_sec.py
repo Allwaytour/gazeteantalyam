@@ -785,7 +785,9 @@ YERLER = {
 GENEL_GORUNUM = re.compile(r"(?i)view|panorama|skyline|from|harbou?r|port\b|marina|beach|coast|bay\b|aerial|cliff|old.town|kaleiçi|"
                            r"görünüm|manzara|sahil|liman|plaj|genel|city|town|şehir|merkez|centre|center")
 YER_ISTENMEYEN = re.compile(r"(?i)hotel|resort|otel|museum|müze|interior|inside|detail|sign|tabela|bus\b|car\b|accident|kaza|fire|yangın|"
-                            r"protest|festival|concert|match|maç|wedding|portrait|people|crowd|menu|food|yemek|room|lobby|shop|store")
+                            r"protest|festival|concert|match|maç|wedding|portrait|people|crowd|menu|food|yemek|room|lobby|shop|store|"
+                            r"airport|havaliman|tower|kule|terminal|stadium|stadyum|stadı|university|üniversite|hospital|hastane|"
+                            r"school|okul|station|istasyon|tram|metro|plane|aircraft|uçak")
 HASSAS_YERSIZ = {"ölüm", "çocuk"}
 
 
@@ -832,7 +834,8 @@ def yer_adaylari(bag, konu, haber):
         gorulen.add(d["url"])
         ok, _ = commons_uygun(d)
         metin = d["baslik"] + " " + d["aciklama"][:160]
-        if not ok or YER_ISTENMEYEN.search(metin):
+        # Yalnızca yerin GENEL görünümü: belirli tesis/bina kareleri (havalimanı, stat, hastane…) başka bir yer sanılır.
+        if not ok or YER_ISTENMEYEN.search(metin) or not (d in p18 or GENEL_GORUNUM.search(metin)):
             continue
         cekim = tarih_oku(d.get("tarih"))
         kullanim = next((x.get("kullanim", 1) for x in kut if x.get("url") == d["url"]), 0)
@@ -1254,6 +1257,8 @@ def yeniden_gerekli(v):
     if not isinstance(s, dict):
         return True
     if s.get("surum") != KURAL_SURUMU:
+        return True
+    if s.get("alt_tur") == "yer" and YER_ISTENMEYEN.search(s.get("kaynak_sayfa", "")):   # sonradan daraltılan yer kuralı
         return True
     if s.get("konu_imza") != konu_imzasi(v.get("title"), v.get("ozet"), (v.get("kategoriler") or ["Gündem"])[0]):
         return True
