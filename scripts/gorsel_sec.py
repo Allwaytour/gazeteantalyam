@@ -1107,7 +1107,9 @@ def kurum_haber_adaylari(bag, konu, haber):
     try:
         bulunan, notlar = kf.kurum_adaylari(haber, konu, bag.arsiv)
     except Exception as e:
+        print(f"   kurum fotoğrafı aranamadı: {str(e)[:100]}")
         return [], [f"kurum fotoğrafı aranamadı: {str(e)[:100]}"]
+    print("   kurum fotoğrafı: " + (f"{bulunan[0]['kurum']} sayfasında bulundu" if bulunan else "; ".join(notlar)[:200]))
     adaylar = []
     for b in bulunan:
         kayit = kaynak_izni(bag.izinler, b["sayfa"]) or izin
@@ -1153,6 +1155,9 @@ def gorsel_sec(bag, haber, konu, eski=None):
             kurum.append(dict(a, alt_tur=a.get("alt_tur") or "kurum"))
     kurum = kurum[:3]
     yer = [a for a in yer if a["url"] not in gorulen]
+    # Görüntü kontrolü tek istekte yapılır; çok görsel modeli yavaşlatıp 503'e düşürüyor. Katman başına en iyi adaylar gönderilir.
+    portre = [a for a in kisi[2:] if a.get("portre")][:1]          # resmî portre her zaman yedek olarak kalır
+    gercek, kisi, kurum, yer = gercek[:2], kisi[:2] + portre, kurum[:1], yer[:1]
     adaylar = gercek + kisi + kurum + yer
     eski_aday = None
     if eski and eski.get("url"):
