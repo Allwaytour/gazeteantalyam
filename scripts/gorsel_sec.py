@@ -192,6 +192,9 @@ class Baglam:
                     time.sleep(20)
                     continue
                 raise KotaHatasi("Gemini kotası doldu (429)")
+            if r.status_code in (500, 502, 503, 504) and deneme == 0:   # model geçici olarak yoğun
+                time.sleep(12)
+                continue
             if r.status_code >= 400:
                 raise ServisHatasi(f"Gemini {r.status_code}: {r.text[:160]}")
             self.g["yz_bugun"] += 1
