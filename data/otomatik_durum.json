@@ -8943,10 +8943,10 @@
    "ts": 1793650958
   }
  ],
- "son_calisma": "2026-11-02T23:22:57.865166+03:00",
+ "son_calisma": "2026-11-02T23:28:28.533048+03:00",
  "gorsel": {
   "gun": "2026-11-02",
-  "yz_bugun": 442,
+  "yz_bugun": 446,
   "onbellek": {
    "konu:0942a56e4fe4": {
     "konu": {
@@ -9640,10 +9640,42 @@
     "benzerlik": 7,
     "tek": false,
     "s": "g8-2026-11-02"
+   },
+   "6ea346f6098f": {
+    "karar": "kabul",
+    "gerekce": "Antalyaspor'un iç saha stadını gösteren arşiv fotoğrafıdır, maç haberi için genel bir mekân görseli olarak uygundur.",
+    "t": "2026-11-02T23:24:11+03:00",
+    "benzerlik": 2,
+    "tek": false,
+    "s": "g8-2026-11-02"
+   },
+   "36b7e7d1730a": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğrafta bir kaya oluşumunu gösteren doğa manzarası vardır, futbol maçı haberiyle alakası yoktur.",
+    "t": "2026-11-02T23:24:52+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "s": "g8-2026-11-02"
+   },
+   "de794dc67518": {
+    "karar": "kabul",
+    "gerekce": "Antalya Havalimanı yer hizmetleri tabelasını gösteren uygun bir arşiv fotoğrafıdır.",
+    "t": "2026-11-02T23:26:49+03:00",
+    "benzerlik": 2,
+    "tek": false,
+    "s": "g8-2026-11-02"
+   },
+   "1c825bfe8a2e": {
+    "karar": "kabul",
+    "gerekce": "Alanya limanının gece görünümü, turizm ve doluluk haberi için uygundur.",
+    "t": "2026-11-02T23:26:58+03:00",
+    "benzerlik": 8,
+    "tek": false,
+    "s": "g8-2026-11-02"
    }
   },
   "deneme": {
-   "tarih": "2026-11-02T23:19:41+03:00",
+   "tarih": "2026-11-02T23:28:18+03:00",
    "surum": "g8-2026-11-02",
    "model": "gemini-3.5-flash-lite",
    "dosyalar": [
@@ -9749,16 +9781,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Haber sitesinin logo görselidir, haberle ilgili bilgi içermez.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -9776,7 +9799,7 @@
        "dogrulama": "'Muhittin Böcek' kimliği Wikidata Q77566969 (Turkish statesperson (born 1962) Eski Antalya Büyükşehir Bel) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 3,
        "tek": true,
-       "meta_puan": 124
+       "meta_puan": 132
       },
       {
        "tur": "arsiv",
@@ -9889,16 +9912,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Nötr portre arşiv fotoğrafı, uygun bir arşiv görselidir.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 4,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -9928,8 +9942,8 @@
        "lisans": "CC BY 4.0",
        "hedef": "Ersin Tatar",
        "cekim": "2025-04-11",
-       "karar": "kabul",
-       "gerekce": "Nötr portre arşiv fotoğrafı, arşiv etiketiyle kullanılabilir.",
+       "karar": "red",
+       "gerekce": "tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Nötr portre arşiv fotoğrafı, uygun bir arşiv görselidir.",
        "dogrulama": "'Ersin Tatar' kimliği Wikidata Q6057339 (President of Northern Cyprus from 2020 to 2025 5. KKTC cumhu) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf",
        "benzerlik": 4,
        "tek": true,
@@ -9954,6 +9968,7 @@
       }
      ],
      "notlar": [
+      "kurum fotoğrafı önbellekten",
       "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
       "'Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
      ]
@@ -10037,16 +10052,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Haberde adı geçen sanatçıyla uyuşmayan farklı bir kişiyi göstermektedir.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": true,
-       "etkinlik_benzerligi": 10,
-       "tek_kisi_odakli": true
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -10115,7 +10121,13 @@
       "olay_tarihi": "",
       "hassas": "yok",
       "gercek_arama": "",
-      "hedefler": [],
+      "hedefler": [
+       {
+        "ad": "Antalyaspor",
+        "ad_en": "Antalyaspor",
+        "tur": "takim"
+       }
+      ],
       "ana_kisiler": [
        {
         "ad": "Jose Morais",
@@ -10142,48 +10154,59 @@
       }
      },
      "yeni": {
-      "tur": "kategori",
-      "gorsel": "/images/kategori/spor.png",
-      "gorsel_kredi": "",
-      "kaynak_sayfa": "",
-      "fotografci": "",
-      "kredi": "Gazete Antalya",
-      "lisans": "Gazete Antalya'nın kendi tasarımı",
-      "lisans_dayanagi": "Sitenin kendi grafik dosyası",
-      "kosul": "",
-      "gerekce": "Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.",
+      "tur": "arsiv",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel_kredi": "Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+      "fotografci": "Onur",
+      "kredi": "Onur / Wikimedia Commons (CC BY-SA 4.0)",
+      "lisans": "CC BY-SA 4.0",
+      "lisans_dayanagi": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+      "gosterilen": "Antalya Stadyumu",
+      "cekim_yili": "2015",
+      "gerekce": "'Antalyaspor' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Antalya Stadyumu; görsel kontrol: Antalyaspor'un iç saha stadını gösteren arşiv fotoğrafıdır, maç haberi için genel bir mekân görseli olarak uygundur.",
       "kontrol": {
-       "yapildi": false,
-       "sonuc": "aday yok",
-       "tarih": "2026-11-02T23:12:56+03:00",
-       "yontem": "kaynak/arşiv taraması"
+       "yapildi": true,
+       "sonuc": "onaylandı",
+       "tarih": "2026-11-02T23:24:11+03:00",
+       "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
+       "model": "gemini-3.5-flash-lite"
       },
       "surum": "g8-2026-11-02",
       "konu_imza": "e8441e70568e",
-      "kapak_nedeni": {
-       "kod": "aday_bulunamadi",
-       "aciklama": "kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok"
-      }
+      "aciklama": "Antalya Stadyumu — Arşiv fotoğrafı (2015)",
+      "alt_tur": "kurum",
+      "qid": "Q43710",
+      "konum": ""
      },
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil — Görüntü bir logo veya grafik çalışmasıdır, gerçek fotoğraf değildir.",
-      "bulgular": {
-       "fotograf_mi": false,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
-     "adaylar": [],
+     "adaylar": [
+      {
+       "tur": "arsiv",
+       "alt_tur": "kurum",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+       "fotografci": "Onur",
+       "lisans": "CC BY-SA 4.0",
+       "hedef": "Antalya Stadyumu (Antalyaspor kulübünün iç saha stadı)",
+       "cekim": "2015-06-23",
+       "karar": "kabul",
+       "gerekce": "Antalyaspor'un iç saha stadını gösteren arşiv fotoğrafıdır, maç haberi için genel bir mekân görseli olarak uygundur.",
+       "dogrulama": "'Antalyaspor' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Antalya Stadyumu",
+       "benzerlik": 2,
+       "tek": false,
+       "meta_puan": 58
+      }
+     ],
      "notlar": [
       "kurum sitelerinde aynı haber bulunamadı",
-      "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
-      "haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok"
+      "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok"
      ]
     },
     {
@@ -10212,6 +10235,11 @@
       "hassas": "yok",
       "gercek_arama": "",
       "hedefler": [
+       {
+        "ad": "Kepezspor",
+        "ad_en": "Kepezspor",
+        "tur": "takim"
+       },
        {
         "ad": "Kepez Hasan Doğan Stadı",
         "ad_en": "Kepez Hasan Dogan Stadium",
@@ -10252,29 +10280,36 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-02T23:13:05+03:00",
+       "tarih": "2026-11-02T23:24:11+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g8-2026-11-02",
       "konu_imza": "a25f91c8a08e",
       "kapak_nedeni": {
-       "kod": "kota_veya_servis_hatasi",
-       "aciklama": "görsel kontrol yapılamadı: Gemini yanıtı okunamadı: Invalid \\uXXXX escape: line 1 column 275 (char 274)"
+       "kod": "aday_bulunamadi",
+       "aciklama": "Kepez Belediyesi sayfası aynı haber değil (benzerlik %20); ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Kepez Hasan Doğan Stadı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
       }
      },
      "eski_degerlendirme": {
-      "karar": null,
-      "gerekce": null,
-      "bulgular": null
+      "karar": "red",
+      "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğrafta bir kaya oluşumunu gösteren doğa manzarası vardır, futbol maçı haberiyle alakası yoktur.",
+      "bulgular": {
+       "fotograf_mi": true,
+       "iddiayla_tutarli": false,
+       "habere_uygun": false,
+       "yaniltici": true,
+       "yabanci_unsur": false,
+       "taninabilir_kisi": false,
+       "etkinlik_benzerligi": 0,
+       "tek_kisi_odakli": false
+      }
      },
      "adaylar": [],
      "notlar": [
       "Kepez Belediyesi sayfası aynı haber değil (benzerlik %20)",
-      "Kepez Belediyesi sayfası aynı haber değil (benzerlik %20)",
-      "Kepez Belediyesi sayfası aynı haber değil (benzerlik %13)",
+      "ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0)",
       "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
-      "'Kepez Hasan Doğan Stadı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı",
-      "görsel kontrol yapılamadı: Gemini yanıtı okunamadı: Invalid \\uXXXX escape: line 1 column 275 (char 274)"
+      "'Kepez Hasan Doğan Stadı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
      ]
     },
     {
@@ -10304,6 +10339,11 @@
       "hassas": "yok",
       "gercek_arama": "Kızılkule 800. yıl kutlamaları Alanya",
       "hedefler": [
+       {
+        "ad": "Kızılkule 800. yıl kutlamaları",
+        "ad_en": "Red Tower 800th anniversary celebration",
+        "tur": "olay"
+       },
        {
         "ad": "Kızılkule",
         "ad_en": "Kızılkule Red Tower",
@@ -10347,7 +10387,7 @@
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Kızılkule",
       "cekim_yili": "",
-      "gerekce": "'Kızılkule' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Alanya Kızılkule'nin genel görünümünü net şekilde gösteriyor, haberle doğrudan uyumlu.",
+      "gerekce": "'Kızılkule' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Kızılkule'nin genel görünümünü gösteren doğru bir arşiv karesi.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
@@ -10365,16 +10405,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Kızılkule'nin genel görünümünü gösteren doğru bir arşiv karesi.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 5,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -10388,7 +10419,7 @@
        "hedef": "Kızılkule",
        "cekim": "",
        "karar": "kabul",
-       "gerekce": "Alanya Kızılkule'nin genel görünümünü net şekilde gösteriyor, haberle doğrudan uyumlu.",
+       "gerekce": "Kızılkule'nin genel görünümünü gösteren doğru bir arşiv karesi.",
        "dogrulama": "'Kızılkule' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı",
        "benzerlik": 5,
        "tek": false,
@@ -10397,8 +10428,9 @@
      ],
      "notlar": [
       "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22)",
-      "Alanya Kaymakamlığı sayfası aynı haber değil (benzerlik %44)",
+      "Alanya Alaaddin Keykubat Üniversitesi sayfası aynı haber değil (benzerlik %27)",
       "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
+      "'Kızılkule 800. yıl kutlamaları' için kullanım hakkı doğrulanmış fotoğraf bulunamadı",
       "'Kuyularönü Meydanı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı"
      ]
     },
@@ -10467,7 +10499,7 @@
       "kosul": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
       "gosterilen": "Antalya Büyükşehir Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
       "cekim_yili": "",
-      "gerekce": "Haber Antalya Büyükşehir Belediyesi sitesinde bulundu (metin benzerliği %81); fotoğraf kurumun kendi sayfasından; görsel kontrol: Yenilenen kütüphanede ders çalışan insanları gösteren, haberle tamamen uyumlu gerçek bir fotoğraf.",
+      "gerekce": "Haber Antalya Büyükşehir Belediyesi sitesinde bulundu (metin benzerliği %81); fotoğraf kurumun kendi sayfasından; görsel kontrol: Kütüphane ortamını ve çalışan okuyucuları gösteren uygun bir arşiv görseli.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
@@ -10485,16 +10517,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Kütüphane ortamını ve çalışan okuyucuları gösteren uygun bir arşiv görseli.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 10,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -10508,7 +10531,7 @@
        "hedef": "Antalya Büyükşehir Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
        "cekim": "",
        "karar": "kabul",
-       "gerekce": "Yenilenen kütüphanede ders çalışan insanları gösteren, haberle tamamen uyumlu gerçek bir fotoğraf.",
+       "gerekce": "Kütüphane ortamını ve çalışan okuyucuları gösteren uygun bir arşiv görseli.",
        "dogrulama": "Haber Antalya Büyükşehir Belediyesi sitesinde bulundu (metin benzerliği %81); fotoğraf kurumun kendi sayfasından",
        "benzerlik": 10,
        "tek": false,
@@ -10572,59 +10595,52 @@
       }
      },
      "yeni": {
-      "tur": "kategori",
-      "gorsel": "/images/kategori/asayis.png",
-      "gorsel_kredi": "",
-      "kaynak_sayfa": "",
-      "fotografci": "",
-      "kredi": "Gazete Antalya",
-      "lisans": "Gazete Antalya'nın kendi tasarımı",
-      "lisans_dayanagi": "Sitenin kendi grafik dosyası",
-      "kosul": "",
-      "gerekce": "1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.",
+      "tur": "arsiv",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkish_Ground_services_sign.jpg/1280px-Turkish_Ground_services_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel_kredi": "Arşiv fotoğrafı: KeymasterOne / Wikimedia Commons (CC BY-SA 4.0)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Turkish_Ground_services_sign.jpg",
+      "fotografci": "KeymasterOne",
+      "kredi": "KeymasterOne / Wikimedia Commons (CC BY-SA 4.0)",
+      "lisans": "CC BY-SA 4.0",
+      "lisans_dayanagi": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+      "gosterilen": "Antalya Havalimanı",
+      "cekim_yili": "2022",
+      "gerekce": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Antalya Havalimanı yer hizmetleri tabelasını gösteren uygun bir arşiv fotoğrafıdır.",
       "kontrol": {
        "yapildi": true,
-       "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T23:15:02+03:00",
-       "yontem": "Gemini görsel kontrol",
+       "sonuc": "onaylandı",
+       "tarih": "2026-11-02T23:26:49+03:00",
+       "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
       "surum": "g8-2026-11-02",
       "konu_imza": "374feead745a",
-      "kapak_nedeni": {
-       "kod": "gorsel_reddedildi",
-       "aciklama": "1 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Uçak iniş anını gösteriyor, haberdeki yakıt sızıntısı olayı"
-      }
+      "aciklama": "Antalya Havalimanı — Arşiv fotoğrafı (2022)",
+      "alt_tur": "kurum",
+      "qid": "Q827480",
+      "konum": ""
      },
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Uçak kanadını gösteren temsilî bir görsel, haberle uyumlu.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 5,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
        "tur": "arsiv",
        "alt_tur": "kurum",
        "kaynak": "Wikimedia Commons",
-       "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/1024_DAHIG2_AYT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:1024_DAHIG2_AYT.jpg",
-       "fotografci": "Relax630",
-       "lisans": "CC BY-SA 3.0",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkish_Ground_services_sign.jpg/1280px-Turkish_Ground_services_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Turkish_Ground_services_sign.jpg",
+       "fotografci": "KeymasterOne",
+       "lisans": "CC BY-SA 4.0",
        "hedef": "Antalya Havalimanı",
-       "cekim": "2007-10-24",
-       "karar": "red",
-       "gerekce": "Türkiye dışına ait unsur var — Uçak iniş anını gösteriyor, haberdeki yakıt sızıntısı olayını yansıtmıyor.",
+       "cekim": "2022-08-08",
+       "karar": "kabul",
+       "gerekce": "Antalya Havalimanı yer hizmetleri tabelasını gösteren uygun bir arşiv fotoğrafıdır.",
        "dogrulama": "'Antalya Havalimanı' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı",
-       "benzerlik": 4,
+       "benzerlik": 2,
        "tek": false,
        "meta_puan": 60
       }
@@ -10689,9 +10705,9 @@
      },
      "yeni": {
       "tur": "arsiv",
-      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Alanya_Harbour_8460.jpg/1280px-Alanya_Harbour_8460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Alanya_Harbour_8528.jpg/1280px-Alanya_Harbour_8528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "gorsel_kredi": "Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)",
-      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Harbour_8460.jpg",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Harbour_8528.jpg",
       "fotografci": "Dosseman",
       "kredi": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)",
       "lisans": "CC BY-SA 4.0",
@@ -10699,11 +10715,11 @@
       "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
       "gosterilen": "Alanya",
       "cekim_yili": "2013",
-      "gerekce": "'Alanya' Wikidata Q171810 kaydı ve Commons kategorisi (Alanya) ile doğrulandı; haberde geçen yer; görsel kontrol: Alanya'nın genel görünümünü yansıtan bu arşiv karesi yaz sezonu haberi için uygundur.",
+      "gerekce": "'Alanya' Wikidata Q171810 kaydı ve Commons kategorisi (Alanya) ile doğrulandı; haberde geçen yer; görsel kontrol: Alanya limanının gece görünümü, turizm ve doluluk haberi için uygundur.",
       "kontrol": {
        "yapildi": true,
        "sonuc": "onaylandı",
-       "tarih": "2026-11-02T23:17:13+03:00",
+       "tarih": "2026-11-02T23:26:58+03:00",
        "yontem": "Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü",
        "model": "gemini-3.5-flash-lite"
       },
@@ -10717,16 +10733,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Alanya kıyılarını ve limanını gösteren nötr bir genel manzaradır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 8,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -10750,16 +10757,16 @@
        "tur": "arsiv",
        "alt_tur": "yer",
        "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Alanya_Harbour_8460.jpg/1280px-Alanya_Harbour_8460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Harbour_8460.jpg",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Alanya_Harbour_8528.jpg/1280px-Alanya_Harbour_8528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Harbour_8528.jpg",
        "fotografci": "Dosseman",
        "lisans": "CC BY-SA 4.0",
        "hedef": "Alanya (ilçenin genel görünümü)",
        "cekim": "2013-03-14",
        "karar": "kabul",
-       "gerekce": "Alanya'nın genel görünümünü yansıtan bu arşiv karesi yaz sezonu haberi için uygundur.",
+       "gerekce": "Alanya limanının gece görünümü, turizm ve doluluk haberi için uygundur.",
        "dogrulama": "'Alanya' Wikidata Q171810 kaydı ve Commons kategorisi (Alanya) ile doğrulandı; haberde geçen yer",
-       "benzerlik": 9,
+       "benzerlik": 8,
        "tek": false,
        "meta_puan": 11
       }
@@ -10841,16 +10848,7 @@
      "eski_degerlendirme": {
       "karar": "red",
       "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Yamaç paraşütü yapan birini gösteren bu kare, akaryakıt zam haberiyle tamamen alakasızdır ve yanıltıcıdır.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": false,
-       "habere_uygun": false,
-       "yaniltici": true,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 0,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -10962,7 +10960,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-02T23:19:03+03:00",
+       "tarih": "2026-11-02T23:28:02+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.5-flash-lite"
       },
@@ -10976,16 +10974,7 @@
      "eski_degerlendirme": {
       "karar": "kabul",
       "gerekce": "Antalya genel görünümü, elektrik desteği sınırının tartışıldığı haber için uygun bir şehir görselidir.",
-      "bulgular": {
-       "fotograf_mi": true,
-       "iddiayla_tutarli": true,
-       "habere_uygun": true,
-       "yaniltici": false,
-       "yabanci_unsur": false,
-       "taninabilir_kisi": false,
-       "etkinlik_benzerligi": 7,
-       "tek_kisi_odakli": false
-      }
+      "bulgular": null
      },
      "adaylar": [
       {
@@ -11032,14 +11021,12 @@
     }
    ],
    "eksik": 0,
-   "atlanan_kontroller": [
-    "Kepezspor kendi sahasında Uşakspor'u 2-0 mağlup etti: Gemini yanıtı okunamadı: Invalid \\uXXXX escape: line 1 column 275 (char 274)"
-   ],
-   "yz_kullanilan": 22,
-   "hedef": "d0f8049a97fb",
+   "atlanan_kontroller": [],
+   "yz_kullanilan": 4,
+   "hedef": "5b5434ca52e7",
    "deneme_sayisi": 1,
-   "imza": "d0f8049a97fb",
-   "deneme_sayisi_imza": "d0f8049a97fb:1"
+   "imza": "5b5434ca52e7",
+   "deneme_sayisi_imza": "5b5434ca52e7:1"
   },
   "yasakli": [
    "https://images.unsplash.com/photo-1706868934222-b0be7c86fb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmFpbiUyMHN0cmVldCUyMHVtYnJlbGxhfGVufDF8MHx8fDE3OTM0ODQ5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
