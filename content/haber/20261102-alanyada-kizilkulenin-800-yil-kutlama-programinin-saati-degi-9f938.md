@@ -2,34 +2,38 @@
 title: Alanya'da Kızılkule'nin 800. yıl kutlama programının saati değişti
 date: '2026-11-02T13:07:00+03:00'
 ozet: Akdeniz'in simgesi 800 yıllık Kızılkule'nin kutlama etkinliklerinde saat değişikliğine gidildi. 3 Kasım Salı akşamı düzenlenecek programın yeni akışı paylaşıldı.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: © CANONIER / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Hafen_-_panoramio.jpg
+  fotografci: © CANONIER
+  kredi: © CANONIER / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Kızılkule
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: '''Kızılkule'' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Fotoğraf Kızılkule''yi net şekilde göstermektedir ve haberle tamamen uyumludur.'
   surum: g7.7-2026-11-02
   konu_imza: bd17c9da4a6b
-  gorsel_url: /images/kategori/kultur-sanat.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:22:12+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T17:58:28+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Kızılkule — Arşiv fotoğrafı
+  alt_tur: kurum
+  qid: Q2470666
+  kurum: k3
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22); Alanya Kaymakamlığı sayfası aynı haber değil (benzerlik %44)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyada-800-yillik-cosku-kizilkule-etkinliklerinin-saati-degisti
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Akdeniz'in kadim kalesi Alanya, kentin en önemli sembolü olan Kızılkule'nin 800. yaşını görkemli etkinliklerle kutlamaya hazırlanıyor. Kültür ve Turizm Bakanlığı ile Millî Savunma Bakanlığı'nın katkıları, Antalya Valiliği'nin himayesi, Alanya Kaymakamlığı öncülüğü ve Alanya Belediyesi iş birliğiyle organize edilen dev kutlama programında saat değişikliğine gidildi. 3 Kasım Salı akşamı gerçekleştirilecek gösterilerin yeni akışı kamuoyuyla paylaşıldı.
 

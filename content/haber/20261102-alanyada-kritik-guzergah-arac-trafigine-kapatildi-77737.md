@@ -32,7 +32,8 @@ gorsel_secim:
   aciklama: Alanya — Arşiv fotoğrafı (2022)
   alt_tur: yer
   qid: Q171810
-  kurum: k2
+  kurum: k3
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; ATUS Antalya dışı kurum, kullanılmadı; ATUS Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/trafik-yogun-alanyanin-kalbindeki-o-yol-kapatildi
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Alanya_Harbor_view_atop_June_2022.jpg/1280px-Alanya_Harbor_view_atop_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: My-view2U / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Alanyaspor Mağazası önünden Karayolları istikametine uzanan güzergahta kapsamlı bir yenileme çalışması hayata geçirildi. Yürütülen projeyle birlikte yolun güney şeridi araç trafiğine kapatıldı. Sürücülerin herhangi bir mağduriyet yaşamaması amacıyla bölgedeki ulaşım, kuzey şeridi üzerinden gidiş ve geliş şeklinde çift yönlü olarak düzenlendi.
 

@@ -2,8 +2,8 @@
 title: Alanya'da hastane çevresi otopark düzenlemesi komisyondan geçmedi
 date: '2026-11-02T11:27:00+03:00'
 ozet: Alanya'da hastanelere gelen vatandaşlar için yol üstü otoparkların ilk 60 dakika ücretsiz olması yönündeki önerge, belediye komisyonunda oy çokluğuyla reddedildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg/1280px-Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Zafer / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alanya_Harbour_3160.jpg/1280px-Alanya_Harbour_3160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,26 +11,29 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_(8).jpg
-  fotografci: Zafer
-  kredi: Zafer / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Harbour_3160.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Başkent Hastanesi
-  cekim_yili: '2022'
-  gerekce: '''Başkent Hastanesi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-09-15; görsel kontrol: Haberde geçen Başkent Hastanesi çevresini gösterdiği için habere uygundur.'
+  gosterilen: Alanya
+  cekim_yili: '2013'
+  gerekce: '''Alanya'' Wikidata Q171810 kaydı ve Commons kategorisi (Alanya) ile doğrulandı; haberde geçen yer; görsel kontrol: Alanya''nın genel görünümünü gösteren nötr bir arşiv fotoğrafıdır.'
   surum: g7.7-2026-11-02
   konu_imza: e119d41bf193
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg/1280px-Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alanya_Harbour_3160.jpg/1280px-Alanya_Harbour_3160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T14:53:17+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-02T17:58:35+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Başkent Hastanesi — Arşiv fotoğrafı (2022)
-  alt_tur: kurum
+  aciklama: Alanya — Arşiv fotoğrafı (2013)
+  alt_tur: yer
+  qid: Q171810
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-hastane-cevresinde-ucretsiz-otopark-onerisine-ret
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg/1280px-Ba%C5%9Fkent_University_Istanbul_Hospital_20220915_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Zafer / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Alanya'da sağlık kuruluşlarından hizmet alan sürücülerin otopark ücretlerinden etkilenmemesi amacıyla hazırlanan düzenleme teklifi yerel yönetim gündeminde yer aldı. Hastane çevresindeki ücretli yol üstü otoparklarda ilk bir saatin ücretsiz olmasını öngören önerge, belediye meclisindeki değerlendirmenin ardından Plan ve Bütçe Komisyonu'na havale edildi. Kısa süreli park eden vatandaşların ekonomik yükünü azaltmayı hedefleyen teklif, beş üyeli komisyonda ele alındı.
 
