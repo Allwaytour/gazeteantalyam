@@ -2,38 +2,37 @@
 title: Kumluca Ağız ve Diş Sağlığı Merkezi yeni binasında hizmet vermeye başladı
 date: '2026-11-02T12:35:53+03:00'
 ozet: Kumluca Devlet Hastanesi bünyesinde hayırseverlerin desteğiyle yenilenen alana taşınan Ağız ve Diş Sağlığı Merkezi'nin poliklinik kapasitesi artırıldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/GEL%C4%B0DONYA_FENER%C4%B0_KUMLUCA_ANTALYA-20191222_145054.jpg/1280px-GEL%C4%B0DONYA_FENER%C4%B0_KUMLUCA_ANTALYA-20191222_145054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: BİSİKLETÇİ1234 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/saglik.png
+gorsel_kredi: ''
 kategoriler:
 - Sağlık
 ilceler:
 - Kumluca
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:GEL%C4%B0DONYA_FENER%C4%B0_KUMLUCA_ANTALYA-20191222_145054.jpg
-  fotografci: BİSİKLETÇİ1234
-  kredi: BİSİKLETÇİ1234 / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Kumluca
-  cekim_yili: '2019'
-  gerekce: '''Kumluca'' Wikidata Q1004471 kaydı ve Commons kategorisi (Kumluca) ile doğrulandı; haberde geçen yer; görsel kontrol: Kumluca''nın sahnesini gösteren nötr genel görünüm fotoğrafı, ilçe haberi için uygundur.'
-  surum: g7.7-2026-11-02
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g8.1-2026-11-02
   konu_imza: 0d7ea058a14d
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/GEL%C4%B0DONYA_FENER%C4%B0_KUMLUCA_ANTALYA-20191222_145054.jpg/1280px-GEL%C4%B0DONYA_FENER%C4%B0_KUMLUCA_ANTALYA-20191222_145054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/saglik.png
   kontrol:
-    yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T16:07:42+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Kumluca — Arşiv fotoğrafı (2019)
-  alt_tur: yer
-  qid: Q1004471
-  kurum: k3
-  kurum_notu: Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %36); Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %47); Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %36)
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-03T00:58:32+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k4
+  bekliyor: true
+  kapak_nedeni:
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

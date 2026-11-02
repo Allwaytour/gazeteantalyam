@@ -18,17 +18,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g8.1-2026-11-02
   konu_imza: 96ba3fa4b363
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T16:52:56+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-03T00:56:29+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k4
+  bekliyor: true
+  kapak_nedeni:
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: hibya.com
 kaynak_url: https://hibya.com/turk-saat-sektoru-2027-sezonu-icin-antalyada-bulustu-1078979
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Türkiye saat sektörünün önde gelen isimleri, 2027 sezonuna yönelik planlamaları görüşmek üzere Antalya'da bir araya geldi. Gerçekleştirilen zirvede, önümüzdeki yıllarda satışa çıkarılması hedeflenen yeni saat ve gözlük tasarımları görücüye çıkarken, iç piyasanın büyümesine dair stratejiler de masaya yatırıldı.
 

@@ -2,38 +2,37 @@
 title: Şanlıurfa'nın İlk Kadın Otobüs Şoförü COP31 İçin Antalya'da Göreve Başladı
 date: '2026-11-02T12:30:59+03:00'
 ozet: Şanlıurfa Büyükşehir Belediyesi'nde otobüs şoförlüğü yapan Fatma Hortkumaş, Antalya'da düzenlenecek COP31 İklim Zirvesi'nin ulaşım hizmetlerinde görev almak üzere kente geldi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/File_turkey_durar.jpg/1280px-File_turkey_durar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: دُررْ / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:File_turkey_durar.jpg
-  fotografci: دُررْ
-  kredi: دُررْ / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: '2021'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya sahilini gösteren nötr arşiv fotoğrafı, şehir genel görünümü habere uygundur.'
-  surum: g7.7-2026-11-02
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g8.1-2026-11-02
   konu_imza: d0da615c732f
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/File_turkey_durar.jpg/1280px-File_turkey_durar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T16:06:44+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2021)
-  alt_tur: yer
-  qid: Q6487
-  kurum: k3
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-03T00:57:18+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k4
+  bekliyor: true
+  kapak_nedeni:
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

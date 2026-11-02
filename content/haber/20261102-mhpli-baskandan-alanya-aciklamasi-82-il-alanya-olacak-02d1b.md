@@ -2,38 +2,37 @@
 title: 'MHP''li Başkan''dan Alanya açıklaması: 82. il Alanya olacak'
 date: '2026-11-02T17:37:00+03:00'
 ozet: MHP Antalya Milletvekili Abdurrahman Başkan, Alanya'da düzenlenen etkinlikte kentin il olması yönündeki temennilerini dile getirdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Abdurrahman_Ba%C5%9Fkan.jpg/1280px-Abdurrahman_Ba%C5%9Fkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Orhangazican / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: arsiv
-gorsel_konum: 50% 22%
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Abdurrahman_Ba%C5%9Fkan.jpg
-  fotografci: Orhangazican
-  kredi: Orhangazican / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Abdurrahman Başkan
-  cekim_yili: '2010'
-  gerekce: '''Abdurrahman Başkan'' kimliği Wikidata Q23920825 (Turkish statesperson (born 1964) Türk politikacı) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Haberde adı geçen milletvekilini gösteren portre niteliğinde uygun bir arşiv fotoğrafıdır.'
-  surum: g7.7-2026-11-02
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g8.1-2026-11-02
   konu_imza: a808a69e8dd3
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Abdurrahman_Ba%C5%9Fkan.jpg/1280px-Abdurrahman_Ba%C5%9Fkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T17:55:04+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Abdurrahman Başkan — Arşiv fotoğrafı (2010)
-  alt_tur: kisi_genel
-  qid: Q23920825
-  kurum: k3
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-03T00:57:43+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k4
+  bekliyor: true
+  kapak_nedeni:
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/mhp-antalya-milletvekili-baskanin-sozleri-alanyada-gundem-oldu
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Abdurrahman_Ba%C5%9Fkan.jpg/1280px-Abdurrahman_Ba%C5%9Fkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Orhangazican / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Milliyetçi Hareket Partisi Alanya İlçe Teşkilatı tarafından bir Cumhuriyet Bayramı programı düzenlendi. Gerçekleştirilen etkinlik kapsamında sanatçı Mustafa Yıldızdoğan sahne alırken, programda yapılan konuşmalar ilçe genelinde dikkat çekti.
 

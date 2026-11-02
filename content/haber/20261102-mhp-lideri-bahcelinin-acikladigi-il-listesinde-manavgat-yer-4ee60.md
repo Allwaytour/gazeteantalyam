@@ -2,38 +2,37 @@
 title: MHP Lideri Bahçeli'nin Açıkladığı İl Listesinde Manavgat Yer Almadı
 date: '2026-11-02T16:13:58+03:00'
 ozet: Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli'nin duyurduğu il olma potansiyeli taşıyan ilçeler listesinde Alanya yer alırken, Manavgat'ın bulunmaması ilçede tepki ve tartışmalara yol açtı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
 - Manavgat
-gorsel_tur: arsiv
-gorsel_konum: 50% 22%
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
-  fotografci: Yıldız Yazıcıoğlu
-  kredi: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)
-  lisans: Public domain
-  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Devlet Bahçeli
-  cekim_yili: '2015'
-  gerekce: '''Devlet Bahçeli'' kimliği Wikidata Q1206951 (Leader of the Nationalist Action Party Türk siyasetçi) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Haberde adı geçen lideri net şekilde gösteren uygun bir arşiv portresidir.'
-  surum: g7.7-2026-11-02
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g8.1-2026-11-02
   konu_imza: a328b6e8fda3
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T16:22:13+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Devlet Bahçeli — Arşiv fotoğrafı (2015)
-  alt_tur: kisi_genel
-  qid: Q1206951
-  kurum: k3
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-03T00:58:08+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k4
+  bekliyor: true
+  kapak_nedeni:
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/devlet-bahceliden-manavgatlilari-kizdiran-liste/388512
+gorsel_onceki:
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 ---
 Türkiye genelinde zaman zaman gündeme gelen idari yapılanma tartışmaları kapsamında yeni bir gelişme yaşandı. MHP Genel Başkanı Devlet Bahçeli, hazırladıkları "100 İl, 1000 İlçe" projesinin detaylarını paylaştı ve il statüsüne kavuşması önerilen 19 ilçenin yer aldığı listeyi kamuoyuna açıkladı. Açıklanan listede Akdeniz Bölgesi'nden Alanya, Tarsus, Kozan ve Elbistan yer aldı.
 
