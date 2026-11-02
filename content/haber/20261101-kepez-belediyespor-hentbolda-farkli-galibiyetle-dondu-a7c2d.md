@@ -2,32 +2,36 @@
 title: Kepez Belediyespor hentbolda farklı galibiyetle döndü
 date: '2026-11-01T21:55:00+03:00'
 ozet: Hentbol Kadınlar 1. Ligi A Grubu'nda mücadele eden Kepez Belediyespor, deplasmanda Isparta Gençlik ve Spor Kulübü'nü 41-17 mağlup etti.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
 - Kepez
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Kepez
+  cekim_yili: '2011'
+  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez ilçesinin simgesel bir anıtını gösteren genel görünüm fotoğrafı, arşiv kuralına uygundur.'
+  surum: g7.7-2026-11-02
   konu_imza: 6524fbbe4756
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T00:08:18+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T14:49:42+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Kepez — Arşiv fotoğrafı (2011)
+  alt_tur: yer
+  qid: Q727065
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -35,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/kepezli-hentbolcular-farkli-kazandi-gozler-artik-manisa-macina-cevrildi
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Hentbol Kadınlar 1. Ligi A Grubu'nda yer alan Kepez Belediyespor, dördüncü hafta karşılaşmasında deplasmanda Isparta Gençlik ve Spor Kulübü ile karşı karşıya geldi. Süleyman Demirel Üniversitesi Atatürk Spor Salonu'nda oynanan mücadele boyunca üstün bir performans sergileyen Antalya temsilcisi, sahadan 41-17 galip ayrılarak ligdeki üçüncü galibiyetini hanesine yazdırdı ve puan tablosundaki ikinci sıradaki yerini korudu.
 
