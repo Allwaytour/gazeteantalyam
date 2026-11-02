@@ -1109,7 +1109,8 @@ def kurum_haber_adaylari(bag, konu, haber):
     except Exception as e:
         print(f"   kurum fotoğrafı aranamadı: {str(e)[:100]}")
         return [], [f"kurum fotoğrafı aranamadı: {str(e)[:100]}"]
-    print("   kurum fotoğrafı: " + (f"{bulunan[0]['kurum']} sayfasında bulundu" if bulunan else "; ".join(notlar)[:200]))
+    bag.son_kurum_notu = (f"{bulunan[0]['kurum']} sayfasında bulundu" if bulunan else "; ".join(notlar))[:300]
+    print("   kurum fotoğrafı: " + bag.son_kurum_notu)
     adaylar = []
     for b in bulunan:
         kayit = kaynak_izni(bag.izinler, b["sayfa"]) or izin
@@ -1267,6 +1268,8 @@ def secimi_uygula(v, secim):
             kayit[k] = secim[k]
     if kf:
         kayit["kurum"] = kf.KURUM_SURUM
+        if secim.get("kurum_notu"):
+            kayit["kurum_notu"] = secim["kurum_notu"]
     if secim.get("konum"):
         v["gorsel_konum"] = secim["konum"]
     else:
@@ -1340,7 +1343,10 @@ def haber_isle(bag, yol):
     eski_bilgi = None
     if bag.ayar.get("gorsel_stok_koru", True) and eski.startswith("https://images.unsplash.com/"):
         eski_bilgi = {"url": eski, "kredi": v.get("gorsel_kredi", ""), "koru": True}
+    bag.son_kurum_notu = ""
     secim, _ = gorsel_sec(bag, h, konu, eski=eski_bilgi)
+    if getattr(bag, "son_kurum_notu", ""):
+        secim["kurum_notu"] = bag.son_kurum_notu
     if secim.get("bekliyor") and eski_bilgi:
         return None, "kontrol ertelendi; mevcut görsel şimdilik korundu"
     if eski and eski != secim["gorsel"] and not eski.startswith("/images/kategori/") and secim["tur"] != "stok":
