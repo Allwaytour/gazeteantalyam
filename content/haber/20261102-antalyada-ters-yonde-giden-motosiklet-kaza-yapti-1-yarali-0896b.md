@@ -2,34 +2,38 @@
 title: 'Antalya''da ters yönde giden motosiklet kaza yaptı: 1 yaralı'
 date: '2026-11-02T14:31:56+03:00'
 ozet: Muratpaşa ilçesinde ters yönde ilerleyerek iki ayrı kazaya karışan ve ehliyetsiz olduğu belirlenen motosiklet sürücüsü yaralandı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg/1280px-Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Muratpaşa
+  cekim_yili: '2013'
+  gerekce: '''Muratpaşa'' Wikidata Q1503514 kaydı ve Commons kategorisi (Muratpaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Muratpaşa''daki eski tarz bir binayı gösteren nötr ilçe görselidir, haberle çelişmiyor.'
   surum: g7.7-2026-11-02
   konu_imza: 383c58f46a2e
-  gorsel_url: /images/kategori/asayis.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg/1280px-Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T14:47:41+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T16:55:05+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Muratpaşa — Arşiv fotoğrafı (2013)
+  alt_tur: yer
+  qid: Q1503514
+  kurum: k3
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-ters-yonde-ilerleyen-motosikletli-ardi-ardina-carpisti-yaralanip-hastaneye-kaldirildi-386465
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Muratpaşa ilçesinde trafiği tehlikeye düşüren bir motosiklet kazası meydana geldi. Edinilen bilgilere göre olay, Güllük Caddesi ile Tonguç Caddesi kesişiminde öğle saatlerinde yaşandı. Ters yönde seyreden 35 BYJ 901 plakalı motosiklet, önce 07 BNJ 835 plakalı hafif ticari araçla çarpıştı.
 

@@ -2,34 +2,38 @@
 title: Antalya'da dış cephe işçileri iskelede mahsur kaldı
 date: '2026-11-02T11:37:00+03:00'
 ozet: Kepez ilçesinde 10 katlı bir binada boya yaparken iskelenin bağlantısının koptuğu olayda iki işçi mahsur kaldı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
 - Kepez
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Kepez
+  cekim_yili: '2011'
+  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez''in genel görünümünü gösteren nötr bir manzara fotoğrafıdır, haberle çelişmez.'
   surum: g7.7-2026-11-02
   konu_imza: db4752d0ce2c
-  gorsel_url: /images/kategori/asayis.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:01:24+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T16:57:13+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Kepez — Arşiv fotoğrafı (2011)
+  alt_tur: yer
+  qid: Q727065
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/10-katli-binada-korku-dolu-anlar-iki-isci-havada-mahsur-kaldi
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Kepez ilçesinde sabah saatlerinde yaşanan olay çevrede kısa süreli endişe yarattı. Yeşiltepe Mahallesi sınırları içerisinde yer alan 10 katlı bir sitede dış cephe boyama işlemleri sürdüren Sedat Y. ve Bülent Ç., çalıştıkları esnada iskelenin bağlantı noktasının kopmasıyla havada asılı kaldı.
 

@@ -2,36 +2,35 @@
 title: Antalya'da tarım sektöründen ekonomik kriz uyarısı
 date: '2026-11-02T10:55:00+03:00'
 ozet: Tarım sektöründeki yüksek maliyetler ve finansman sorunlarına dikkat çeken yetkililer, üreticiden ihracatçıya kadar herkesin zor durumda olduğunu belirtti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: /images/kategori/ekonomi.png
+gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
-  fotografci: Joe Wallace
-  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümünü gösteren nötr arşiv fotoğrafı, tarım haberi için uygundur.'
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: de1689ab628b
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T12:44:16+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T16:55:05+03:00'
+    yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2022)
-  alt_tur: yer
-  qid: Q6487
+  kurum: k3
+  kurum_notu: "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %11); kurum sayfası okunamadı (Bolu Belediyesi): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.bo"
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
