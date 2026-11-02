@@ -37,14 +37,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: |
-          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder
+          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright
           timeout 22m python -u scripts/haber_cek.py || echo "Haber turu süre sınırında durduruldu; kaydedilenler yayınlanacak"
 
       - name: Yeni haberleri kaydet
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/haber data/otomatik_durum.json data/foto_arsivi.json
+          mkdir -p static/images/kurum
+          git add content/haber data/otomatik_durum.json data/foto_arsivi.json static/images/kurum
           if ! git diff --cached --quiet; then
             git commit -q -m "Otomatik haberler [skip ci]"
             if ! (git pull -q --rebase origin main && git push -q origin HEAD:main); then
