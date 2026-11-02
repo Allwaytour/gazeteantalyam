@@ -4,7 +4,6 @@ date: '2026-11-01T14:23:00+03:00'
 ozet: Antalya'daki Zeytinpark'ta düzenlenecek hasat etkinliğiyle vatandaşlar, kilogramı 30 liradan zeytin toplayabilecek.
 gorsel: https://images.unsplash.com/photo-1789249581365-1a91977584ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8b2xpdmUlMjBoYXJ2ZXN0JTIwYnJhbmNofGVufDF8MHx8fDE3OTM1MzMwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_kredi: 'Temsili fotoğraf: Emre / Unsplash'
-gorsel_v4: true
 kategoriler:
 - Yaşam
 ilceler:
@@ -16,6 +15,30 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/zeytinin-kilosu-30-tl
+gorsel_onceki:
+  gorsel: https://images.unsplash.com/photo-1789249581365-1a91977584ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8b2xpdmUlMjBoYXJ2ZXN0JTIwYnJhbmNofGVufDF8MHx8fDE3OTM1MzMwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: Emre / Unsplash'
+gorsel_tur: stok
+gorsel_secim:
+  tur: stok
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: 'Temsili fotoğraf: Emre / Unsplash'
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  kosul: ''
+  gosterilen: Temsilî görsel
+  cekim_yili: ''
+  gerekce: 'Haberde kişi/kurum/yer odağı yok ve doğrulanmış gerçek fotoğraf bulunamadı; mevcut temsilî görsel görüntü kontrolünden geçtiği için korundu: Dalında zeytinleri gösteren kare hasat haberi için tamamen uygundur.'
+  surum: g7.7-2026-11-02
+  konu_imza: d332d09faaa2
+  gorsel_url: https://images.unsplash.com/photo-1789249581365-1a91977584ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8b2xpdmUlMjBoYXJ2ZXN0JTIwYnJhbmNofGVufDF8MHx8fDE3OTM1MzMwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080
+  kontrol:
+    yapildi: true
+    sonuc: mevcut görsel onaylandı
+    tarih: '2026-11-02T12:49:18+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
 ---
 Kent merkezindeki önemli doğal yaşam alanları arasında yer alan ve yaklaşık 2 milyon 630 bin metrekarelik alana yayulan Zeytinpark'ta yeni bir etkinlik için hazırlıklar tamamlandı. Yaklaşık 25 bin zeytin ağacına ev sahipliği yapan ve kent sakinleri tarafından doğanın koruma alanlarından biri olarak görülen bölgede, ziyaretçilerin doğayla buluşması amaçlanıyor. 
 
