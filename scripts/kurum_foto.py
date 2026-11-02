@@ -23,7 +23,7 @@ import requests
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KAYIT_KLASOR = os.path.join(KOK, "static", "images", "kurum")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-KURUM_SURUM = "k2"
+KURUM_SURUM = "k3"
 
 # İzin verilen resmî alan adları (izin kaydıyla birlikte kullanılır)
 KURUM_ALAN = re.compile(r"(?i)(^|\.)([a-z0-9\-]+\.bel\.tr|[a-z0-9\-]+-bld\.gov\.tr|[a-z0-9\-]+\.gov\.tr|akdeniz\.edu\.tr|alanya\.edu\.tr)$")
@@ -161,7 +161,11 @@ def _cizerek_oku(url):
     try:
         sayfa.goto(url, wait_until="domcontentloaded", timeout=30000)
         try:
-            sayfa.wait_for_load_state("networkidle", timeout=12000)
+            sayfa.wait_for_load_state("networkidle", timeout=15000)
+        except Exception:
+            pass
+        try:                            # içerik JavaScript ile sonradan geliyorsa büyük bir fotoğrafın çizilmesini bekle
+            sayfa.wait_for_function("() => [...document.images].some(i => i.getBoundingClientRect().width > 420)", timeout=8000)
         except Exception:
             pass
         for _ in range(3):              # tembel yüklenen fotoğraflar için sayfayı biraz kaydır
@@ -200,7 +204,8 @@ def haber_fotografi(veri, url):
         src = g.get("src") or ""
         if not src.startswith("http") or ISTENMEYEN_GORSEL.search(src + " " + str(g.get("sinif")) + " " + str(g.get("alt"))):
             continue
-        if g.get("w", 0) < 420 or g.get("h", 0) < 220 or g.get("nw", 0) < 600 or g.get("top", 0) > 2600:
+        # nw=0: fotoğraf henüz yüklenmemiş (tembel yükleme); gerçek boyut kaydederken ayrıca denetlenir
+        if g.get("w", 0) < 420 or g.get("h", 0) < 220 or 0 < g.get("nw", 0) < 600 or g.get("top", 0) > 2600:
             continue
         adaylar.append((g["w"] * g["h"], src))
     if adaylar:
@@ -287,7 +292,9 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
             continue
         foto = haber_fotografi(veri, url)
         if not foto:
-            notlar.append(f"{s['kurum']} sayfasında haber fotoğrafı yok")
+            buyuk = [g for g in veri.get("gorseller") or [] if g.get("w", 0) > 300]
+            ozet = ", ".join(f"{int(g['w'])}x{int(g['h'])}/{g.get('nw')}@{int(g.get('top', 0))} {str(g.get('src'))[:40]}" for g in buyuk[:3])
+            notlar.append(f"{s['kurum']} sayfasında haber fotoğrafı yok ({len(veri.get('gorseller') or [])} görsel; {ozet})")
             continue
         try:
             yol, _ = kaydet(foto, url)
