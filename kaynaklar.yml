@@ -19,8 +19,8 @@ ayarlar:
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_duzeltme_tur: 8        # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
-  gorsel_yeni_haber_payi: 120   # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
-  gorsel_yz_gunluk: 400         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
+  gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
+  gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
   gorsel_deneme_no: 8           # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme: []            # karşılaştırmalı deneme kapalı (toplu düzeltme açık). Yeniden denemek için dosya adlarını buraya yazın.
 
