@@ -5639,7 +5639,7 @@
    "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "yazar": "Zeynep Sena Saydam",
    "onay": "2026-11-02",
-   "kullanim": 4
+   "kullanim": 5
   }
  ],
  "wd:1:tarkan:sarkici / singer": {
@@ -51741,7 +51741,7 @@
    "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "yazar": "Onur",
    "onay": "2026-11-02",
-   "kullanim": 1
+   "kullanim": 2
   }
  ],
  "kur:b2c9fba849da": [
@@ -56598,6 +56598,30 @@
    "indirme": "https://api.unsplash.com/photos/Q3WVbAfdOoY/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8ZWxlY3RyaWNpdHklMjBzdXBwb3J0fGVufDF8MHx8fDE3OTM2NTI2MDZ8MA",
    "yazar": "Антон Дмитриев",
    "aciklama": "Electrician is repairing the wires"
+  }
+ ],
+ "kur:d5df69399093": [
+  {
+   "url": "/images/kurum/b7be2d578d3c38a8.jpg",
+   "kucuk": "/images/kurum/b7be2d578d3c38a8.jpg",
+   "sayfa": "https://www.akdeniz.edu.tr/tr/haber/akdeniz_universitesi_ve_ozbekistan_arasindaki_egitim_is_birligi_onlisans_duzeyinde_de_gelisiyor-4508",
+   "kurum": "Akdeniz Üniversitesi",
+   "alan": "https://www.akdeniz.edu.tr",
+   "oran": 0.67,
+   "kaynak_gorsel": "https://webis.akdeniz.edu.tr/uploads/1/contentGallery/4508/e2096a33-c261-41be-b32e-8759302dcaf3.jpeg",
+   "kendi_fotografi": "fotoğraf kurumun kendi sunucusunda (webis.akdeniz.edu.tr); sayfada ajans kredisi yok"
+  }
+ ],
+ "kur:771921ecd610": [
+  {
+   "url": "/images/kurum/61b4440e7cc0317c.jpg",
+   "kucuk": "/images/kurum/61b4440e7cc0317c.jpg",
+   "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-hizmette",
+   "kurum": "Antalya Büyükşehir Belediyesi",
+   "alan": "https://www.antalya.bel.tr",
+   "oran": 0.81,
+   "kaynak_gorsel": "https://mcmsmedia.antalya.bel.tr/MediaFolder/6770156cf267483097290291/fa625a7a-ccb1-432f-b026-0feecb11de32.JPG",
+   "kendi_fotografi": "fotoğraf kurumun kendi sunucusunda (mcmsmedia.antalya.bel.tr); sayfada ajans kredisi yok"
   }
  ]
 }
