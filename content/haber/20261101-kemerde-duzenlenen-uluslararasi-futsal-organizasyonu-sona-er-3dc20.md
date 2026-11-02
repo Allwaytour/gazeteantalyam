@@ -2,8 +2,8 @@
 title: Kemer'de düzenlenen uluslararası futsal organizasyonu sona erdi
 date: '2026-11-01T08:45:00+03:00'
 ozet: Göynük Atatürk Spor Salonu'nda gerçekleştirilen uluslararası futsal turnuvasına beş ülkeden çok sayıda sporcu katıldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Kemer_Streetview_2.jpg/1280px-Kemer_Streetview_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Alexander Annenkov / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -18,30 +18,29 @@ kaynak_url: https://www.antalyaekspres.com.tr/kemerde-futsal-sampiyonasi-sona-er
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzkzNDg1Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Mario Klassen / Unsplash'
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kemer_Streetview_2.jpg
-  fotografci: Alexander Annenkov
-  kredi: Alexander Annenkov / Wikimedia Commons (CC BY 2.0)
-  lisans: CC BY 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Kemer
-  cekim_yili: '2015'
-  gerekce: '''Kemer'' Wikidata Q217047 kaydı ve Commons kategorisi (Kemer) ile doğrulandı; haberde geçen yer; görsel kontrol: Kemer ilçesinden nötr sokak görünümü; haberle çelişmiyor ancak futsal turnuvasıyla doğrudan ilgili değil.'
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: ac90e1d27af7
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Kemer_Streetview_2.jpg/1280px-Kemer_Streetview_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T14:50:06+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T19:27:15+03:00'
+    yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Kemer — Arşiv fotoğrafı (2015)
-  alt_tur: yer
-  qid: Q217047
+  kurum: k3
+  kurum_notu: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %35); Akdeniz Üniversitesi fotoğrafı alınamadı: yatay ve yeterli boyutta değil (1080x1350)'
 ---
 Kemer'de sporseverlerin buluştuğu uluslararası bir futsal organizasyonu tamamlandı. Daha önceki dönemde kente kazandırılan kapalı spor salonunda yapılan şampiyonanın final karşılaşmaları büyük bir heyecana sahne oldu. Eleme usulüyle düzenlenen mücadelelerde farklı ülkelerden gelen takımlar sahada kıyasıya bir rekabet sergiledi.
 

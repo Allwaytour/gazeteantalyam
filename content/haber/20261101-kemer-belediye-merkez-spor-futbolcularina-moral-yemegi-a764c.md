@@ -29,16 +29,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 08633879e49b
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T14:50:09+03:00'
+    tarih: '2026-11-02T19:27:47+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; BURSA BÜYÜKŞEHIR BELEDIYESI Antalya dışı kurum, kullanılmadı
 ---
 Kemer Belediye Başkanı Necati Topaloğlu, ilçe genelindeki sporculara yönelik düzenlediği buluşmalara devam ediyor. Son olarak Kemer Belediye Merkez Spor Futbol Takımı oyuncuları onuruna bir yemek programı organize edildi.
 

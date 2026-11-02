@@ -2,7 +2,7 @@
 title: Kepez Belediyespor hentbolda farklı galibiyetle döndü
 date: '2026-11-01T21:55:00+03:00'
 ozet: Hentbol Kadınlar 1. Ligi A Grubu'nda mücadele eden Kepez Belediyespor, deplasmanda Isparta Gençlik ve Spor Kulübü'nü 41-17 mağlup etti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
@@ -11,7 +11,7 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg
   fotografci: Dosseman
   kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
@@ -19,10 +19,10 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Kepez
   cekim_yili: '2011'
-  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez ilçesinin simgesel bir anıtını gösteren genel görünüm fotoğrafı, arşiv kuralına uygundur.'
+  gerekce: '''Kepez'' Wikidata Q727065 kaydı ve Commons kategorisi (Kepez, Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Kepez ilçesini tanıtan geniş açılı genel görünüm fotoğrafı haber için uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 6524fbbe4756
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
@@ -32,6 +32,8 @@ gorsel_secim:
   aciklama: Kepez — Arşiv fotoğrafı (2011)
   alt_tur: yer
   qid: Q727065
+  kurum: k3
+  kurum_notu: ATUS Antalya dışı kurum, kullanılmadı; ATUS Antalya dışı kurum, kullanılmadı; TR Dizin sayfası aynı haber değil (benzerlik %16)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
