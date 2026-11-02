@@ -1,0 +1,38 @@
+name: Zamanlayıcı (30 dakikada bir haber turu)
+
+# GitHub'ın kendi zamanlayıcısı (cron) yoğun saatlerde saatlerce gecikebiliyor.
+# Bu iş, haber akışını 30 dakikada bir elle tetikler ve bitince kendini yeniden başlatır.
+# Herkese açık depolarda GitHub Actions ücretsizdir. Durdurmak için Actions > bu iş > "Disable workflow".
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */5 * * *"   # zincir koparsa yedek başlatma
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: zamanlayici
+  cancel-in-progress: false
+
+jobs:
+  tetikle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Haber akışını 30 dakikada bir başlat
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          for i in $(seq 1 11); do
+            gh workflow run yayinla.yml --ref main || echo "Bu tur tetiklenemedi"
+            sleep 1800
+          done
+      - name: Zamanlayıcıyı yeniden başlat
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run zamanlayici.yml --ref main
