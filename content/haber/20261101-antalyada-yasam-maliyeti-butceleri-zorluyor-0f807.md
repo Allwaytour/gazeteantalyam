@@ -4,7 +4,6 @@ date: '2026-11-01T11:28:00+03:00'
 ozet: Dört kişilik bir ailenin sağlıklı beslenebilmesi için gereken tutar 38 bin lirayı aşarken, yoksulluk sınırı 123 bin liraya ulaştı.
 gorsel: https://images.unsplash.com/photo-1574722772633-e401c33eb317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwc2hvcHBpbmclMjBncm9jZXJ5JTIwbWFya2V0fGVufDF8MHx8fDE3OTM1MzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_kredi: 'Temsili fotoğraf: M M / Unsplash'
-gorsel_v4: true
 kategoriler:
 - Ekonomi
 ilceler:
@@ -16,6 +15,32 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/sofrada-aclik-cepte-yoksulluk
+gorsel_onceki:
+  gorsel: https://images.unsplash.com/photo-1574722772633-e401c33eb317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwc2hvcHBpbmclMjBncm9jZXJ5JTIwbWFya2V0fGVufDF8MHx8fDE3OTM1MzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: M M / Unsplash'
+gorsel_tur: stok
+gorsel_secim:
+  tur: stok
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: 'Temsili fotoğraf: M M / Unsplash'
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  kosul: ''
+  gosterilen: Temsilî görsel
+  cekim_yili: ''
+  gerekce: 'Haberde kişi/kurum/yer odağı yok ve doğrulanmış gerçek fotoğraf bulunamadı; mevcut temsilî görsel görüntü kontrolünden geçtiği için korundu: Süpermarket reyonunda alışveriş yapan kişileri gösteren bu kare, artan yaşam maliyeti ve bütçe haberini destekler.'
+  surum: g7.7-2026-11-02
+  konu_imza: c0708b0c330d
+  gorsel_url: https://images.unsplash.com/photo-1574722772633-e401c33eb317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFtaWx5JTIwc2hvcHBpbmclMjBncm9jZXJ5JTIwbWFya2V0fGVufDF8MHx8fDE3OTM1MzE2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080
+  kontrol:
+    yapildi: true
+    sonuc: mevcut görsel onaylandı
+    tarih: '2026-11-02T21:27:22+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: TBMM sayfasında bulundu
 ---
 Antalya genelinde yükselen konut fiyatları ve yaşam maliyetleri, ücretli çalışanların bütçesinde ciddi bir baskı oluşturuyor. Dört kişilik bir ailenin sağlıklı ve dengeli beslenebilmesi için yapması gereken aylık gıda harcaması 38 bin 24 lira 3 kuruş olarak hesaplanırken, bu tablo aile bütçelerinin ne denli ağır bir yük altında kaldığını gözler önüne seriyor.
 

@@ -19,16 +19,20 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Rhodiapolis Antik Kenti
   cekim_yili: '2010'
-  gerekce: '''Rhodiapolis Antik Kenti'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2010-07-18; görsel kontrol: Rhodiapolis Antik Kenti''ndeki anıt mezara ait yazıtı göstermektedir.'
-  surum: g6-2026-11-01
+  gerekce: '''Rhodiapolis Antik Kenti'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2010-07-18; görsel kontrol: Rhodiapolis Antik Kenti''ne ait tarihi yazıt ve kalıntıları gösteriyor.'
+  surum: g7.7-2026-11-02
   konu_imza: 33f6b0341802
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rhodiapolis_Opramoas.JPG/1280px-Rhodiapolis_Opramoas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T00:03:51+03:00'
+    tarih: '2026-11-02T21:26:20+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  aciklama: Rhodiapolis Antik Kenti — Arşiv fotoğrafı (2010)
+  alt_tur: kurum
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-yasamisti-servetini-dagitan-adamin-hikayesi/560784
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rhodiapolis_Opramoas.JPG/1280px-Rhodiapolis_Opramoas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Gunthram / Wikimedia Commons (CC BY-SA 3.0)'
 ---
 Antalya'nın Kumluca ilçesinde yer alan Rhodiapolis Antik Kenti, Roma dönemine uzanan etkileyici bir hayırseverlik hikâyesine ev sahipliği yapıyor. Bugün tepeler üzerindeki kalıntılarıyla bilinen antik kentte yaklaşık 1900 yıl önce yaşayan Opramoas, dönemin en zengin isimlerinden biri olarak bilinirken servetini yalnızca kendi yaşadığı şehre değil, bölgedeki pek çok antik kente dağıtmasıyla tarihe geçti.
 
