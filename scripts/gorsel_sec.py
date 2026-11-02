@@ -1303,7 +1303,8 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
     duzeltilen = 0
     sure = int(bag.ayar.get("gorsel_sure_dk", 10)) * 60   # bir turun 30 dakikayı aşmaması için süre sınırı
     for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
-        if duzeltilen >= limit or not bag.yz_hakki(2):
+        # Yeni gelen haberlerin görsel kontrolü için günlük hakkın bir kısmı her zaman ayrılır (toplu düzeltme onu tüketmez).
+        if duzeltilen >= limit or not bag.yz_hakki(2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
             break
         if time.time() - BASLANGIC > sure:
             print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
