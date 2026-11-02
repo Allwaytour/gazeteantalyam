@@ -123,7 +123,12 @@ def json_ayikla(metin):
     bas = metin.find("{")
     if bas < 0:
         raise ValueError("yanıtta JSON nesnesi yok")
-    nesne, _ = json.JSONDecoder().raw_decode(metin[bas:])
+    try:
+        nesne, _ = json.JSONDecoder().raw_decode(metin[bas:])
+    except ValueError:
+        # Modelin metne koyduğu geçersiz ters bölüler (ör. "\ş", yarım "\u12") JSON'u bozmasın
+        temiz_metin = re.sub(r'\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})', r"\\\\", metin[bas:])
+        nesne, _ = json.JSONDecoder().raw_decode(temiz_metin)
     return nesne
 
 
@@ -323,6 +328,11 @@ def konu_dogrula(k):
         tur = str(h.get("tur") or "").strip().lower()
         if ad and ayirt_edici(ad) and tur in HEDEF_TURLERI:
             sonuc["hedefler"].append({"ad": ad, "ad_en": ad_en if ayirt_edici(ad_en) else ad, "tur": tur})
+    oz = sonuc["ana_ozne"]
+    if oz["tur"] in ("takim", "kurum", "yer", "olay") and ayirt_edici(oz["ad"]) \
+            and not any(kucult(h["ad"]) == kucult(oz["ad"]) for h in sonuc["hedefler"]):
+        # Ana özne bir takım/kurum/yer ise fotoğrafı her zaman doğrudan aranır (model hedef listesine yazmasa da)
+        sonuc["hedefler"].insert(0, {"ad": oz["ad"], "ad_en": oz["ad_en"] if ayirt_edici(oz["ad_en"]) else oz["ad"], "tur": oz["tur"]})
     sonuc["hedefler"] = sonuc["hedefler"][:3]
     if not sonuc["ana_olay"]:
         return None
@@ -339,7 +349,7 @@ def konu_ayristir(bag, baslik, spot, metin):
     anahtar = "konu:" + imza(KURAL_SURUMU, baslik, spot)
     ob = bag.onbellek_al(anahtar)
     if ob and ob.get("konu"):
-        return ob["konu"]
+        return konu_dogrula(ob["konu"]) or ob["konu"]     # önbellekteki konu da güncel kurallardan geçer
     talimat = ("Bir haberin görselini seçmek için haberin konusunu ayrıştır. Yalnızca metinde geçen bilgileri kullan, uydurma.\n"
                + KONU_KURALLARI + "\n\nYalnızca şu biçimde JSON döndür:\n" + KONU_ALANLARI
                + f"\n\nBAŞLIK: {baslik}\nSPOT: {spot}\n\nMETİN:\n{(metin or '')[:3500]}")
