@@ -1066,7 +1066,7 @@ def karar_ver(d, konu):
         nedenler.append("habere uygun değil")
     if d.get("yaniltici"):
         nedenler.append("yanıltıcı (başka olay/kişi/kurum izlenimi)")
-    if d.get("_alt_tur") in KONU_ILISKISI_SART and int(d.get("konu_iliskisi") or 0) < 7:
+    if d.get("_alt_tur") in KONU_ILISKISI_SART and int(d.get("konu_iliskisi") or 0) < KONU_ILISKISI_ESIK:
         nedenler.append(f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {int(d.get('konu_iliskisi') or 0)}/10)")
     if d.get("_alt_tur") == "nesne" and d.get("taninabilir_kisi"):
         nedenler.append("temsilî fotoğrafta tanınabilir kişi var")
@@ -1089,6 +1089,10 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         if ob:
             a.update(karar=ob["karar"], gerekce=ob.get("gerekce", ""), kontrol_tarih=ob.get("t", ""), onbellekten=True,
                      benzerlik=ob.get("benzerlik", 0), tek=ob.get("tek", False), iliski=ob.get("iliski", 0))
+            if (a["karar"] == "kabul" and a.get("alt_tur") in KONU_ILISKISI_SART
+                    and int(a.get("iliski") or 0) < KONU_ILISKISI_ESIK):   # eşik sonradan yükseldiyse eski kabul geçersiz
+                a.update(karar="red", gerekce=f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {a['iliski']}/10, "
+                                              f"eşik {KONU_ILISKISI_ESIK}) — {a['gerekce']}")
             continue
         try:
             tip, veri = gorsel_indir(a.get("kucuk") or a["url"])
@@ -1178,6 +1182,7 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
 
 
 KURUM_HASSAS = {"suç", "çocuk", "ölüm"}
+KONU_ILISKISI_ESIK = 7
 KONU_ILISKISI_SART = {"kurum", "yer", "yer_konu", "nesne"}   # aynı yerde/kurumda olmak yetmez; konuyla doğrudan ilişki gerekir
 NESNE_HASSAS = {"suç", "kaza", "ölüm", "afet", "çocuk"}   # bu haberlerde temsilî fotoğraf olayın görüntüsü sanılır
 UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
@@ -1470,7 +1475,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
             try:
                 gorsel_kontrol(bag, haber, konu, kimza, ek)
                 rapor["adaylar"] += [{k: a.get(k) for k in ("tur", "alt_tur", "kaynak", "url", "sayfa", "fotografci", "lisans", "hedef", "cekim",
-                                                            "karar", "gerekce", "dogrulama", "benzerlik", "tek", "meta_puan")} for a in ek]
+                                                            "karar", "gerekce", "dogrulama", "benzerlik", "tek", "iliski", "meta_puan")} for a in ek]
                 adaylar = adaylar + ek
                 nesne = nesne + [a for a in ek if a.get("alt_tur") == "nesne"]
                 kurum = kurum + [a for a in ek if a.get("alt_tur") == "yer_konu"]
