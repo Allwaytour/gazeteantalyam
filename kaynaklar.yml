@@ -15,14 +15,25 @@ ayarlar:
 
   # Görsel seçimi (scripts/gorsel_sec.py): izinli gerçek fotoğraf → haberde adı geçen yerin/kurumun arşiv fotoğrafı
   # → fotoğrafsız kapak. Genel stok fotoğraf kullanılmaz.
-  gorsel_toplu_duzeltme: true   # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
+  gorsel_toplu_duzeltme: false  # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_duzeltme_tur: 8        # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 8           # aynı denemeyi yeniden çalıştırmak için artırın
-  gorsel_deneme: []            # karşılaştırmalı deneme kapalı (toplu düzeltme açık). Yeniden denemek için dosya adlarını buraya yazın.
+  gorsel_deneme_no: 9           # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme:                # karşılaştırmalı deneme (haber dosyalarını değiştirmez); g8: önce Muhittin Böcek, sonra kişi/takım/yer/nesne
+    - 20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa.md
+    - 20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md
+    - 20261031-teoman-bugun-antalyada-konser-verecek-f7073.md
+    - 20261101-antalyaspor-deplasmandaki-sanssizligini-kasimpasa-maciyla-ki-09d68.md
+    - 20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md
+    - 20261102-alanyada-kizilkulenin-800-yil-kutlama-programinin-saati-degi-9f938.md
+    - 20261102-dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-yeniden-kapilarin-6de9a.md
+    - 20261031-antalya-havalimaninda-ucaktan-aprona-yakit-dokuldu-02275.md
+    - 20261102-alanya-otellerinde-yaz-dolulugu-yuzde-85i-asti-9269c.md
+    - 20261102-antalya-ve-alanyada-lpg-fiyatlarina-buyuk-zam-beklentisi-9f0a2.md
+    - 20261102-antalya-icin-3-bin-kilowatt-saatlik-elektrik-destegi-siniri-dd61d.md
 
 kaynaklar:
   - ad: Google Haberler – Antalya
