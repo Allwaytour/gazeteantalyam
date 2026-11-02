@@ -23,7 +23,7 @@ import requests
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KAYIT_KLASOR = os.path.join(KOK, "static", "images", "kurum")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-KURUM_SURUM = "k3"
+KURUM_SURUM = "k4"
 
 # İzin verilen resmî alan adları (izin kaydıyla birlikte kullanılır)
 KURUM_ALAN = re.compile(r"(?i)(^|\.)([a-z0-9\-]+\.bel\.tr|[a-z0-9\-]+-bld\.gov\.tr|[a-z0-9\-]+\.gov\.tr|akdeniz\.edu\.tr|alanya\.edu\.tr)$")
@@ -69,6 +69,27 @@ def yerel_mi(url):
     """Antalya ve ilçelerinin kurumu mu? (ör. antalya.bel.tr, muratpasa-bld.gov.tr, alanya.gov.tr, antalyaism.saglik.gov.tr)"""
     parcalar = (urlparse(url).hostname or "").lower().replace("www.", "").split(".")
     return any(p.replace("-bld", "") in YEREL for p in parcalar[:-2])
+
+
+AJANS_KREDISI = re.compile(r"(?i)(foto(ğraf)?|görsel|kaynak)\s*[:：]\s*(aa|anadolu ajans[ıi]|[iİ]ha|dha|anka|reuters|afp|getty|shutterstock)\b"
+                           r"|©\s*(aa|[iİ]ha|dha|anka|reuters|afp|getty)")
+
+
+def kok_alan(url):
+    """Kurumun kök alan adı: antalya.bel.tr, muratpasa-bld.gov.tr, akdeniz.edu.tr, alanya.gov.tr…"""
+    parcalar = (urlparse(url).hostname or "").lower().split(".")
+    return ".".join(parcalar[-3:]) if len(parcalar) >= 3 and parcalar[-1] == "tr" else ".".join(parcalar[-2:])
+
+
+def kendi_fotografi_mi(foto_url, sayfa_url, metin):
+    """KONTROL 1 — kurumun kendi fotoğrafı mı? Fotoğraf kurumun kendi sunucusunda olmalı ve sayfada ajans/başka kaynak kredisi
+    bulunmamalı. (KONTROL 2 — yeniden kullanım izni — gorsel_sec içinde izin kaydından ayrıca yapılır.)"""
+    if kok_alan(foto_url) != kok_alan(sayfa_url):
+        return False, f"fotoğraf kurumun kendi sunucusunda değil ({urlparse(foto_url).hostname})"
+    m = AJANS_KREDISI.search(metin or "")
+    if m:
+        return False, f"sayfada başka kaynağın fotoğraf kredisi var ({m.group(0)[:40]})"
+    return True, f"fotoğraf kurumun kendi sunucusunda ({urlparse(foto_url).hostname}); sayfada ajans kredisi yok"
 
 
 def uygun_kurum(url, metin):
@@ -291,6 +312,10 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
             notlar.append(f"{s['kurum']} sayfası aynı haber değil (benzerlik %{int(oran * 100)})")
             continue
         foto = haber_fotografi(veri, url)
+        kendi, kendi_not = kendi_fotografi_mi(foto, url, veri.get("metin", "")) if foto else (False, "")
+        if foto and not kendi:
+            notlar.append(f"{s['kurum']}: {kendi_not}; kullanılmadı")
+            continue
         if not foto:
             buyuk = [g for g in veri.get("gorseller") or [] if g.get("w", 0) > 300]
             ozet = ", ".join(f"{int(g['w'])}x{int(g['h'])}/{g.get('nw')}@{int(g.get('top', 0))} {str(g.get('src'))[:40]}" for g in buyuk[:3])
@@ -302,7 +327,7 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
             notlar.append(f"{s['kurum']} fotoğrafı alınamadı: {str(e)[:80]}")
             continue
         adaylar.append({"url": yol, "kucuk": yol, "sayfa": url, "kurum": s["kurum"], "alan": s["alan"], "oran": round(oran, 2),
-                        "kaynak_gorsel": foto})
+                        "kaynak_gorsel": foto, "kendi_fotografi": kendi_not})
     if adaylar:                      # olumsuz sonuç saklanmaz: kurum haberi sonradan yayımlayabilir
         onbellek[anahtar] = adaylar
     if not adaylar and not notlar:
