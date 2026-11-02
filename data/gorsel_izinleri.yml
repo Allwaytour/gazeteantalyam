@@ -35,15 +35,56 @@ kaynaklar:
     izin: false
     dayanak: "Yazılı izin yok."
 
+  # Resmî kurumlar: site sahibi 2026-11-02 tarihinde kurumlardan yazılı izin alındığını bildirdi.
+  # İzin yazışmalarını saklayın; bir kurum izni geri çekerse aşağıya o kurumun alan adıyla "izin: false" satırı ekleyin
+  # (önce yazılan kayıt geçerlidir). Yalnızca kurumun KENDİ sitesinde, AYNI habere ait yayımladığı fotoğraf kullanılır.
   - ad: Antalya Büyükşehir Belediyesi
     alan: antalya.bel.tr
-    izin: false
-    dayanak: "Yazılı izin veya açık lisans doğrulanmadı; sitede yayımlanmış olması izin sayılmaz."
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
 
   - ad: Antalya Valiliği
     alan: antalya.gov.tr
-    izin: false
-    dayanak: "Yazılı izin veya açık lisans doğrulanmadı."
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
+
+  - ad: Belediyeler (bel.tr)
+    alan: bel.tr
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
+
+  - ad: Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)
+    alan: gov.tr
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
+
+  - ad: Akdeniz Üniversitesi
+    alan: akdeniz.edu.tr
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
+
+  - ad: Alanya Alaaddin Keykubat Üniversitesi
+    alan: alanya.edu.tr
+    izin: true
+    haber_gorseli: true
+    dayanak: "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02)."
+    kosul: "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir."
+    kontrol_tarihi: 2026-11-02
 
   - ad: İhlas Haber Ajansı
     alan: iha.com.tr
