@@ -38,6 +38,11 @@ from datetime import date, datetime, timedelta, timezone
 import requests
 import yaml
 
+try:
+    import kurum_foto as kf
+except Exception:          # tarayıcı/Pillow yoksa kurum fotoğrafı katmanı devre dışı kalır
+    kf = None
+
 SURUM = "g7.7"
 BASLANGIC = time.time()
 KURAL_TARIHI = "2026-11-02"
@@ -988,11 +993,12 @@ def karar_ver(d, konu):
         nedenler.append("habere uygun değil")
     if d.get("yaniltici"):
         nedenler.append("yanıltıcı (başka olay/kişi/kurum izlenimi)")
+    kurum_h = d.get("_alt_tur") == "kurum_haber"   # kurumun aynı habere ait kendi fotoğrafı: karedeki kişiler olayın kendisidir
     if str(d.get("_alt_tur", "")).startswith("kisi") and not d.get("tek_kisi_odakli"):
         nedenler.append("kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir)")
-    if d.get("yabanci_unsur") and not str(d.get("_alt_tur", "")).startswith("kisi"):
+    if d.get("yabanci_unsur") and not str(d.get("_alt_tur", "")).startswith("kisi") and not kurum_h:
         nedenler.append("Türkiye dışına ait unsur var")
-    if d.get("taninabilir_kisi") and not str(d.get("_alt_tur", "")).startswith("kisi") and (konu.get("hassas", "yok") != "yok" or konu.get("kisiler")):
+    if d.get("taninabilir_kisi") and not str(d.get("_alt_tur", "")).startswith("kisi") and not kurum_h and (konu.get("hassas", "yok") != "yok" or konu.get("kisiler")):
         nedenler.append("tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir)")
     return ("kabul" if not nedenler else "red"), nedenler
 
@@ -1074,7 +1080,8 @@ def alt_yazi(a, konu):
 
 
 def aday_secimi(a, kontrol, konu_imza, konu=None):
-    kredi = f"{a['fotografci']} / {a['kaynak']}" + (f" ({a['lisans']})" if a["kaynak"] == "Wikimedia Commons" else "")
+    kredi = (a["kaynak"] if a.get("fotografci") == a["kaynak"] else f"{a['fotografci']} / {a['kaynak']}") \
+        + (f" ({a['lisans']})" if a["kaynak"] == "Wikimedia Commons" else "")
     yil = (a.get("cekim") or "")[:4] if a["tur"] == "arsiv" else ""
     return {
         "tur": a["tur"], "gorsel": a["url"], "gorsel_kredi": ("Arşiv fotoğrafı: " if a["tur"] == "arsiv" else "Fotoğraf: ") + kredi,
@@ -1085,6 +1092,33 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
         "aciklama": alt_yazi(a, konu or {}), "alt_tur": a.get("alt_tur", ""), "qid": a.get("qid", ""),
         "konum": "50% 22%" if a.get("dikey") else "",
     }
+
+
+KURUM_HASSAS = {"suç", "çocuk", "ölüm"}
+
+
+def kurum_haber_adaylari(bag, konu, haber):
+    """En üst katman: aynı haberin resmî kurum (belediye, valilik, bakanlık…) sitesindeki kendi fotoğrafı."""
+    izin = kaynak_izni(bag.izinler, "https://www.antalya.bel.tr/")
+    if kf is None or not (izin and izin.get("izin") is True) or konu.get("hassas", "yok") in KURUM_HASSAS:
+        return [], []
+    if not bag.ayar.get("kurum_fotografi", True):
+        return [], []
+    try:
+        bulunan, notlar = kf.kurum_adaylari(haber, konu, bag.arsiv)
+    except Exception as e:
+        return [], [f"kurum fotoğrafı aranamadı: {str(e)[:100]}"]
+    adaylar = []
+    for b in bulunan:
+        kayit = kaynak_izni(bag.izinler, b["sayfa"]) or izin
+        adaylar.append({
+            "tur": "gercek", "alt_tur": "kurum_haber", "kaynak": b["kurum"], "url": b["url"], "kucuk": b["kucuk"], "sayfa": b["sayfa"],
+            "fotografci": b["kurum"], "lisans": "Kurum izniyle", "lisans_dayanagi": kayit.get("dayanak", ""), "kosul": kayit.get("kosul", ""),
+            "hedef": f"{b['kurum']} sitesinde yayımlanan aynı haberin fotoğrafı", "cekim": "",
+            "dogrulama": f"Haber {b['kurum']} sitesinde bulundu (metin benzerliği %{int(b['oran'] * 100)}); fotoğraf kurumun kendi sayfasından",
+            "meta_puan": 400,
+        })
+    return adaylar, notlar
 
 
 def gorsel_sec(bag, haber, konu, eski=None):
@@ -1101,6 +1135,9 @@ def gorsel_sec(bag, haber, konu, eski=None):
 
     t0 = time.time()
     gercek, n1 = gercek_adaylar(bag, konu, haber)
+    kurum_h, n6 = kurum_haber_adaylari(bag, konu, haber)
+    gercek = kurum_h + gercek
+    n1 = n6 + n1
     kisi, n3 = kisi_adaylari(bag, konu, haber)
     kurum_wd, n4 = kurum_wikidata_adaylari(bag, konu)
     arsiv, n2 = arsiv_adaylari(bag, konu)
@@ -1151,6 +1188,12 @@ def gorsel_sec(bag, haber, konu, eski=None):
             katman = 4
         return (katman, (a.get("benzerlik") or 0) + (3 if a.get("tek") else 0) + (a.get("meta_puan") or 0) / 100)
     kabul = sorted([a for a in gercek + kisi + kurum + yer if a.get("karar") == "kabul"], key=sira, reverse=True)
+    for a in kurum_h:                # görüntü kontrolünden geçmeyen kurum fotoğrafı sitede tutulmaz
+        if a.get("karar") != "kabul" and a["url"].startswith("/images/kurum/"):
+            try:
+                os.remove(os.path.join(KOK, "static", a["url"].lstrip("/")))
+            except OSError:
+                pass
     if kabul:
         a = kabul[0]
         kontrol = {"yapildi": True, "sonuc": "onaylandı", "tarih": a.get("kontrol_tarih") or simdi,
@@ -1217,6 +1260,8 @@ def secimi_uygula(v, secim):
     for k in ("aciklama", "alt_tur", "qid"):
         if secim.get(k):
             kayit[k] = secim[k]
+    if kf:
+        kayit["kurum"] = kf.KURUM_SURUM
     if secim.get("konum"):
         v["gorsel_konum"] = secim["konum"]
     else:
@@ -1259,6 +1304,9 @@ def yeniden_gerekli(v):
     if s.get("surum") != KURAL_SURUMU:
         return True
     if s.get("alt_tur") == "yer" and YER_ISTENMEYEN.search(s.get("kaynak_sayfa", "")):   # sonradan daraltılan yer kuralı
+        return True
+    # Kurum fotoğrafı katmanı eklendi: kapak, temsilî ya da genel yer/kurum fotoğrafı olan haberler bir kez yeniden denenir.
+    if kf and s.get("kurum") != kf.KURUM_SURUM and (s.get("tur") in ("kategori", "stok") or s.get("alt_tur") in ("yer", "kurum")):
         return True
     if s.get("konu_imza") != konu_imzasi(v.get("title"), v.get("ozet"), (v.get("kategoriler") or ["Gündem"])[0]):
         return True
