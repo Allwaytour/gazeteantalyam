@@ -19,17 +19,17 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: ffc198f617b5
   gorsel_url: /images/kategori/egitim.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:21:57+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T15:28:07+03:00'
     yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    model: gemini-3.5-flash-lite
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalyali-ogrenci-dunya-birincisi-oldu
+gorsel_onceki:
+  gorsel: /images/kategori/egitim.png
+  gorsel_kredi: ''
 ---
 Dünyanın farklı ülkelerinden genç yeteneklerin katılımıyla gerçekleştirilen Einstein Matematik Olimpiyatları'nın uluslararası finali Almanya'nın Berlin kentinde tamamlandı. Problem çözme becerileri, bilimsel düşünme ve matematiksel yeteneklerin değerlendirildiği organizasyon, 26 ile 30 Ekim 2026 tarihleri arasında yapıldı. Kırktan fazla ülkenin temsil edildiği dev finalde, 5. sınıflar kategorisinde yarışan Antalyalı öğrenci Çağan Tuğra Sözel büyük bir başarıya imza atarak zirveye yerleşti.
 

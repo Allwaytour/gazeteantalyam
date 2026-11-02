@@ -2,35 +2,33 @@
 title: Antalya'daki Çalıştayda Batmanlı İhracatçıların Sorunları Ele Alındı
 date: '2026-11-02T00:58:19+03:00'
 ozet: Antalya'da düzenlenen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Batmanlı ihracatçı firmaların yaşadığı sorunlar ve çözüm önerileri yetkililere aktarıldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: /images/kategori/ekonomi.png
+gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
-  fotografci: Joe Wallace
-  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü yansıtan nötr bir manzara fotoğrafı olup haberle uyumludur.'
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 29ecfb2cc284
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T12:43:31+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T15:28:15+03:00'
+    yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2022)
-  alt_tur: yer
-  qid: Q6487
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
