@@ -19,16 +19,18 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü
   cekim_yili: '2019'
-  gerekce: '''Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2019-04-01; görsel kontrol: Fotoğraf, haberde adı geçen Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü''nün iç mekanını göstermektedir.'
-  surum: g6-2026-11-01
+  gerekce: '''Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2019-04-01; görsel kontrol: Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü''nün iç mekanını göstermektedir.'
+  surum: g7.7-2026-11-02
   konu_imza: 5f98ac0e1211
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg/1280px-Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T00:45:02+03:00'
+    tarih: '2026-11-02T15:05:08+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  aciklama: Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü — Arşiv fotoğrafı (2019)
+  alt_tur: kurum
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +38,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/atalmedden-antalyanin-gelecegi-icin-kent-bulusmasi
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg/1280px-Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Adem Tolunay Anadolu Lisesi Mezunları Derneği (ATALMED), kentin kimliğini ve geleceğini farklı meslek gruplarının katılımıyla değerlendirmek üzere yeni bir etkinlik serisi hayata geçirdi. Bir Arada Sohbetleri adı verilen programın ilki, Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü'nde gerçekleştirildi. Antalya'da Kentleşme, Mimarlık ve Altyapı - Geçmişten Geleceğe Antalya'nın Kent Hikâyesi başlığını taşıyan toplantıda, kentin geçirdiği değişim süreci ve ilerleyen dönemdeki gereksinimleri masaya yatırıldı.
 

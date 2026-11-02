@@ -2,32 +2,36 @@
 title: Antalyaspor Futbol Okulları Kış Kampı Kundu'da Başladı
 date: '2026-11-01T17:54:00+03:00'
 ozet: Antalyaspor Kulübü Derneği tarafından düzenlenen 3. Kış Kampı, farklı illerden çok sayıda genç sporcunun katılımıyla Kundu'da start aldı.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/12-02-2012_-_panoramio.jpg/1280px-12-02-2012_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Валерий Дед / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Spor
 ilceler:
 - Aksu
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:12-02-2012_-_panoramio.jpg
+  fotografci: Валерий Дед
+  kredi: Валерий Дед / Wikimedia Commons (CC BY 3.0)
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Kundu
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  gerekce: '''Kundu'' Wikidata Q4831045 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Kundu bölgesinde bir otel görünümü, kamp haberine uygun ancak etkinlik içermiyor.'
+  surum: g7.7-2026-11-02
   konu_imza: 8f9f4162718f
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/12-02-2012_-_panoramio.jpg/1280px-12-02-2012_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T00:17:35+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T15:01:32+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Kundu — Arşiv fotoğrafı
+  alt_tur: kurum
+  qid: Q4831045
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -35,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/1771234-antalyaspor-merkez-futbol-okullari-kis-kampi-basladi
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Antalyaspor Kulübü Derneği tarafından, yetenekli futbolcu adaylarını gözlemlemek ve kulüp bilincini aşılamak amacıyla organize edilen Antalya Futbol Okulları Futbol Akademileri Halil Fidan 3. Kış Kampı başladı.
 
