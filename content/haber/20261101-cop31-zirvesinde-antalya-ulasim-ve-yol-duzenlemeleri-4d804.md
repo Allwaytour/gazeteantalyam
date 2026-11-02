@@ -2,8 +2,8 @@
 title: COP31 Zirvesi'nde Antalya Ulaşım ve Yol Düzenlemeleri
 date: '2026-11-01T20:24:35+03:00'
 ozet: Antalya Valiliği, ev sahipliği yapılacak COP31 İklim Zirvesi süresince şehir genelinde uygulanacak trafik ve güvenlik önlemlerini duyurdu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/9/93/D400_E90_Highway.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Myararat83 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_-_Golfing.jpg/1280px-Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_-_Golfing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -21,26 +21,28 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:D400_E90_Highway.JPG
-  fotografci: Myararat83
-  kredi: Myararat83 / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Regnum_Carya_Golf_Spa_%26_Resort,_Belek,_Serik_District,_Antalya,_Turkey_-_Golfing.jpg
+  fotografci: Sharon Hahn Darlin
+  kredi: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: D-400 Karayolu
-  cekim_yili: '2014'
-  gerekce: '''D-400 Karayolu'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2014-05-25; görsel kontrol: D-400 karayolu arşivi, ulaşım ve yol düzenlemeleri haberi için uygundur.'
+  gosterilen: Belek Oteller Bölgesi
+  cekim_yili: '2022'
+  gerekce: '''Belek Oteller Bölgesi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-03-11; görsel kontrol: Belek oteller bölgesinden arşiv golf sahası görüntüsü, çevre düzenleme haberine uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: a560980a7932
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/93/D400_E90_Highway.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_-_Golfing.jpg/1280px-Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_-_Golfing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
     tarih: '2026-11-02T14:59:05+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: D-400 Karayolu — Arşiv fotoğrafı (2014)
+  aciklama: Belek Oteller Bölgesi — Arşiv fotoğrafı (2022)
   alt_tur: kurum
+  kurum: k3
+  kurum_notu: 'kurum sayfası okunamadı (anadoluajansi.gov.tr): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce; kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with'
 ---
 Antalya, küresel önem taşıyan COP31 İklim Zirvesi için hazırlıklarını sürdürürken, etkinlik boyunca yaşanabilecek yoğunluğun önüne geçmek amacıyla kapsamlı trafik ve güvenlik önlemleri alındı. Antalya Valiliği tarafından paylaşılan bilgilere göre, şehir içi ulaşımda aksama yaşanmaması adına kritik güzergâhlarda düzenlemelere gidildi.
 

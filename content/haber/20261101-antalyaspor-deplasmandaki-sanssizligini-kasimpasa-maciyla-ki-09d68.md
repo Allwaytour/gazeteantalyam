@@ -29,16 +29,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: e8441e70568e
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:01:32+03:00'
+    tarih: '2026-11-02T20:24:31+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 ---
 Antalyaspor, Süper Lig'de deplasmanda oynayacağı Kasımpaşa mücadelesinin hazırlıklarını sürdürüyor. Kasımpaşa'nın zorlu ve güçlü bir kadroya sahip olduğuna dikkat çekilirken, karşılaşmanın çetin geçeceği öngörülüyor. Kırmızı-beyazlılar, İstanbul deplasmanından kayıpsız ayrılarak sahadan üç puanla ayrılmayı ve ligde rahat bir nefes almayı amaçlıyor.
 

@@ -2,8 +2,8 @@
 title: BBP Antalya İl Kadın Kolları'nda yeni görevlendirme yapıldı
 date: '2026-11-01T11:32:00+03:00'
 ozet: Büyük Birlik Partisi Antalya İl Kadın Kolları teşkilatında gerçekleştirilen atamayla Ezgi Cengiz, başkan yardımcılığı görevine getirildi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minicity_entry_%28152409826%29.jpg/1280px-Minicity_entry_%28152409826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Till Krech from Berlin, Germany / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -20,27 +20,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Seyir_Teras%C4%B1.jpg
-  fotografci: TutiTheAntiochian
-  kredi: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Minicity_entry_(152409826).jpg
+  fotografci: Till Krech from Berlin, Germany
+  kredi: Till Krech from Berlin, Germany / Wikimedia Commons (CC BY 2.0)
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2020'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü, siyasi atama haberi için arşiv görseli olarak uygundur.'
+  cekim_yili: '2006'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya Minicity girişini gösteren genel arşiv fotoğrafı, atama haberiyle doğrudan ilişkilidir ancak etkinlik benzerliği düşüktür.'
   surum: g7.7-2026-11-02
   konu_imza: e3f15614b26e
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Minicity_entry_%28152409826%29.jpg/1280px-Minicity_entry_%28152409826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T14:59:25+03:00'
+    tarih: '2026-11-02T20:24:27+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2020)
+  aciklama: Antalya — Arşiv fotoğrafı (2006)
   alt_tur: yer
   qid: Q6487
+  kurum: k3
+  kurum_notu: van - edremit ilçe millî eğitim müdürlüğü Antalya dışı kurum, kullanılmadı; Demre İlçe Milli Eğitim Müdürlüğü sayfası aynı haber değil (benzerlik %28); Develi İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı
 ---
 Büyük Birlik Partisi Antalya İl Kadın Kolları teşkilatında yeni bir yönetim hamlesi hayata geçirildi. Yapılan son görevlendirme doğrultusunda Ezgi Cengiz, İl Kadın Kolları Başkanlığı bünyesinde Toplumsal İlişkilerden Sorumlu İl Kadın Kolları Başkan Yardımcısı olarak atandı.
 
