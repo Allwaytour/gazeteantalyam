@@ -39,6 +39,7 @@ import requests
 import yaml
 
 SURUM = "g7.7"
+BASLANGIC = time.time()
 KURAL_TARIHI = "2026-11-02"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
 
@@ -1283,8 +1284,12 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
     """Otomatik görselleri küçük gruplar hâlinde düzeltir (yenilerden eskiye).
     yalniz_bekleyen=True: yalnızca kontrolü kota yüzünden ertelenmiş yeni hat kayıtlarını yeniden dener."""
     duzeltilen = 0
+    sure = int(bag.ayar.get("gorsel_sure_dk", 10)) * 60   # bir turun 30 dakikayı aşmaması için süre sınırı
     for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
         if duzeltilen >= limit or not bag.yz_hakki(2):
+            break
+        if time.time() - BASLANGIC > sure:
+            print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
             break
         yol = os.path.join(HABER_KLASOR, ad)
         try:
