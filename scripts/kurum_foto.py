@@ -23,10 +23,14 @@ import requests
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KAYIT_KLASOR = os.path.join(KOK, "static", "images", "kurum")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-KURUM_SURUM = "k1"
+KURUM_SURUM = "k2"
 
 # İzin verilen resmî alan adları (izin kaydıyla birlikte kullanılır)
 KURUM_ALAN = re.compile(r"(?i)(^|\.)([a-z0-9\-]+\.bel\.tr|[a-z0-9\-]+-bld\.gov\.tr|[a-z0-9\-]+\.gov\.tr|akdeniz\.edu\.tr|alanya\.edu\.tr)$")
+# Antalya'nın yerel kurumları (alan adının ilk parçası); diğer illerin belediyeleri kullanılmaz
+YEREL = {"antalya", "muratpasa", "konyaalti", "kepez", "aksu", "dosemealti", "alanya", "manavgat", "serik", "kemer", "kumluca",
+         "finike", "kas", "demre", "elmali", "korkuteli", "gazipasa", "akseki", "gundogmus", "ibradi", "akdeniz", "antalyaism",
+         "antalyailmem", "antalyadsi", "asat"}
 DISLA = re.compile(r"(?i)(^|\.)(turkiye\.gov\.tr|resmigazete\.gov\.tr|ekap\.kik\.gov\.tr|e-devlet)$")
 ISTENMEYEN_GORSEL = re.compile(r"(?i)logo|banner|icon|ikon|favicon|sprite|placeholder|baskan|president|avatar|qr|whatsapp|"
                                r"facebook|twitter|instagram|youtube|app-?store|google-?play|bayrak|flag|svg")
@@ -59,6 +63,22 @@ def benzerlik(bizim, onlarin):
 def izinli_alan(url):
     host = (urlparse(url).hostname or "").lower()
     return bool(host and KURUM_ALAN.search(host) and not DISLA.search(host))
+
+
+def yerel_mi(url):
+    """Antalya ve ilçelerinin kurumu mu? (ör. antalya.bel.tr, muratpasa-bld.gov.tr, alanya.gov.tr, antalyaism.saglik.gov.tr)"""
+    parcalar = (urlparse(url).hostname or "").lower().replace("www.", "").split(".")
+    return any(p.replace("-bld", "") in YEREL for p in parcalar[:-2])
+
+
+def uygun_kurum(url, metin):
+    """Yerel kurum her zaman; il dışındaki belediyeler asla; bakanlık gibi ulusal kurumlar yalnızca sayfa Antalya'dan söz ediyorsa."""
+    host = (urlparse(url).hostname or "").lower()
+    if yerel_mi(url):
+        return True
+    if host.endswith(".bel.tr") or "-bld." in host:
+        return False
+    return "antalya" in _kucult(metin)
 
 
 def arama_ifadeleri(haber, konu):
@@ -144,12 +164,16 @@ def _cizerek_oku(url):
             sayfa.wait_for_load_state("networkidle", timeout=12000)
         except Exception:
             pass
-        sayfa.mouse.wheel(0, 900)
-        time.sleep(1.5)
+        for _ in range(3):              # tembel yüklenen fotoğraflar için sayfayı biraz kaydır
+            sayfa.mouse.wheel(0, 600)
+            time.sleep(0.7)
         veri = sayfa.evaluate("""() => {
             const og = (document.querySelector('meta[property="og:image"]')||{}).content || "";
             const g = [...document.images].map(i => { const r = i.getBoundingClientRect();
-                return {src: i.currentSrc || i.src, w: r.width, h: r.height, nw: i.naturalWidth, nh: i.naturalHeight,
+                let src = i.currentSrc || i.src || "";
+                if (!src.startsWith("http")) src = i.dataset.src || i.getAttribute("data-lazy-src") || i.getAttribute("data-original") || src;
+                try { if (src && !src.startsWith("data:")) src = new URL(src, location.href).href; } catch (e) {}
+                return {src: src, w: r.width, h: r.height, nw: i.naturalWidth, nh: i.naturalHeight,
                         top: r.top + window.scrollY, alt: i.alt || "", sinif: (i.className || "") + " " + ((i.closest('[class]')||{}).className || "")}; });
             return {og, metin: document.body.innerText || "", gorseller: g};
         }""")
@@ -239,7 +263,10 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
         if hedef_tarih and s["tarih"] and abs((s["tarih"].date() - hedef_tarih).days) > 4:
             continue
         url = cozumle(s["link"])
-        if not url or not izinli_alan(url):
+        if not url:
+            notlar.append(f"{s['kurum']} bağlantısı çözülemedi")
+            continue
+        if not izinli_alan(url):
             continue
         bakilan += 1
         try:
@@ -248,6 +275,9 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
                 veri = _cizerek_oku(url)
         except Exception as e:
             notlar.append(f"kurum sayfası okunamadı ({s['kurum']}): {str(e)[:80]}")
+            continue
+        if not uygun_kurum(url, veri.get("metin", "")):
+            notlar.append(f"{s['kurum']} Antalya dışı kurum, kullanılmadı")
             continue
         oran = benzerlik(bizim, veri.get("metin", ""))
         ozel_ok = all(kok(w) in {kok(x) for x in anahtar_kelimeler(veri.get("metin", ""))}
