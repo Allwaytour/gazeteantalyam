@@ -2,8 +2,8 @@
 title: Kumluca Ağız ve Diş Sağlığı Merkezi yeni binasında hizmet vermeye başladı
 date: '2026-11-02T12:35:53+03:00'
 ozet: Kumluca Devlet Hastanesi bünyesinde hayırseverlerin desteğiyle yenilenen alana taşınan Ağız ve Diş Sağlığı Merkezi'nin poliklinik kapasitesi artırıldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Adrasan_Beach_Kumluca_01.jpg/1280px-Adrasan_Beach_Kumluca_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Kadı / Wikimedia Commons (CC BY 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turquoise_blue_and_earth.jpg/1280px-Turquoise_blue_and_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Wanderlust go / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Sağlık
 ilceler:
@@ -11,28 +11,29 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adrasan_Beach_Kumluca_01.jpg
-  fotografci: Kadı
-  kredi: Kadı / Wikimedia Commons (CC BY 4.0)
-  lisans: CC BY 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turquoise_blue_and_earth.jpg
+  fotografci: Wanderlust go
+  kredi: Wanderlust go / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Kumluca
-  cekim_yili: '2024'
-  gerekce: '''Kumluca'' Wikidata Q1004471 kaydı ve Commons kategorisi (Kumluca) ile doğrulandı; haberde geçen yer; görsel kontrol: Kumluca''ya bağlı Adrasan sahilinin gece görünümüdür, ilçe genel görünümü olarak uygundur.'
+  cekim_yili: '2021'
+  gerekce: '''Kumluca'' Wikidata Q1004471 kaydı ve Commons kategorisi (Kumluca) ile doğrulandı; haberde geçen yer; görsel kontrol: Kumluca''nın genel görünümünü yansıtan doğa manzarası arşiv kuralına uygundur ve yanıltıcı değildir.'
   surum: g7.7-2026-11-02
   konu_imza: 0d7ea058a14d
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Adrasan_Beach_Kumluca_01.jpg/1280px-Adrasan_Beach_Kumluca_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turquoise_blue_and_earth.jpg/1280px-Turquoise_blue_and_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T12:46:03+03:00'
+    tarih: '2026-11-02T15:56:03+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Kumluca — Arşiv fotoğrafı (2024)
+  aciklama: Kumluca — Arşiv fotoğrafı (2021)
   alt_tur: yer
   qid: Q1004471
-  kurum: k1
+  kurum: k2
+  kurum_notu: Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %36); Kaynaşlı Kaymakamlığı Antalya dışı kurum, kullanılmadı; Akdeniz Üniversitesi sayfası aynı haber değil (benzerlik %36)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

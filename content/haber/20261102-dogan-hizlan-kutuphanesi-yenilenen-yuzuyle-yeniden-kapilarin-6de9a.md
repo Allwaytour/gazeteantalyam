@@ -2,34 +2,38 @@
 title: Doğan Hızlan Kütüphanesi yenilenen yüzüyle yeniden kapılarını açtı
 date: '2026-11-02T11:57:26+03:00'
 ozet: Antalya'da 14 yıllık geçmişe sahip Doğan Hızlan Kütüphanesi, kapsamlı tadilat çalışmalarının ardından modern bir görünüme kavuşarak okuyucularını yeniden ağırlamaya başladı.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Turkey_random_%2826_of_30%29.jpg/1280px-Turkey_random_%2826_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: nafrenkel88 / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_random_(26_of_30).jpg
+  fotografci: nafrenkel88
+  kredi: nafrenkel88 / Wikimedia Commons (CC BY 2.0)
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2016'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü kütüphane haberi için nötr bir arka plan sunmaktadır.'
   surum: g7.7-2026-11-02
   konu_imza: a49aa9fabc18
-  gorsel_url: /images/kategori/kultur-sanat.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Turkey_random_%2826_of_30%29.jpg/1280px-Turkey_random_%2826_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:21:07+03:00'
-    yontem: Gemini görsel kontrol
+    sonuc: onaylandı
+    tarih: '2026-11-02T15:58:54+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  kurum: k1
+  aciklama: Antalya — Arşiv fotoğrafı (2016)
+  alt_tur: yer
+  qid: Q6487
+  kurum: k2
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında haber fotoğrafı yok; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); Antalya Büyükşehir Belediyesi sayfasında haber fotoğrafı yok
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

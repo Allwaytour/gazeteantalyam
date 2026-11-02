@@ -2,8 +2,8 @@
 title: Şanlıurfa'nın İlk Kadın Otobüs Şoförü COP31 İçin Antalya'da Göreve Başladı
 date: '2026-11-02T12:30:59+03:00'
 ozet: Şanlıurfa Büyükşehir Belediyesi'nde otobüs şoförlüğü yapan Fatma Hortkumaş, Antalya'da düzenlenecek COP31 İklim Zirvesi'nin ulaşım hizmetlerinde görev almak üzere kente geldi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Mountain_view_The_semuz.jpg/1280px-Antalya_Mountain_view_The_semuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: The semuz / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/20180111_AntalyaMarina_5296_%2826236632848%29.jpg/1280px-20180111_AntalyaMarina_5296_%2826236632848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Ray Swi-hymn from Sijhih-Taipei, Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -11,28 +11,29 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Mountain_view_The_semuz.jpg
-  fotografci: The semuz
-  kredi: The semuz / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:20180111_AntalyaMarina_5296_(26236632848).jpg
+  fotografci: Ray Swi-hymn from Sijhih-Taipei, Taiwan
+  kredi: Ray Swi-hymn from Sijhih-Taipei, Taiwan / Wikimedia Commons (CC BY-SA 2.0)
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2019'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü ve dağ manzarasını gösteren tarafsız bir arşiv karesi.'
+  cekim_yili: '2018'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya meydan ve sokak yaşamını yansıtan genel bir arşiv fotoğrafı.'
   surum: g7.7-2026-11-02
   konu_imza: d0da615c732f
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Mountain_view_The_semuz.jpg/1280px-Antalya_Mountain_view_The_semuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/20180111_AntalyaMarina_5296_%2826236632848%29.jpg/1280px-20180111_AntalyaMarina_5296_%2826236632848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
     tarih: '2026-11-02T15:16:29+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2019)
+  aciklama: Antalya — Arşiv fotoğrafı (2018)
   alt_tur: yer
   qid: Q6487
-  kurum: k1
+  kurum: k2
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

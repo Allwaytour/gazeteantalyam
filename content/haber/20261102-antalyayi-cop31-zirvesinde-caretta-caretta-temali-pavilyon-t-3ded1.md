@@ -19,17 +19,19 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 'Adaylar görsel kontrolden geçirilemedi (bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)); kontrol edilmemiş fotoğraf kullanılmadı.'
   surum: g7.7-2026-11-02
   konu_imza: 0beeb748651e
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:23:43+03:00'
+    yapildi: false
+    sonuc: yapılamadı
+    tarih: '2026-11-02T16:00:13+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k1
+    neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
+  kurum: k2
+  kurum_notu: Antalya Valiliği sayfası aynı haber değil (benzerlik %36); Çay Kaymakamlığı sayfası aynı haber değil (benzerlik %22)
+  bekliyor: true
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
