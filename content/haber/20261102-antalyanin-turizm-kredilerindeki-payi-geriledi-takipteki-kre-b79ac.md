@@ -19,15 +19,17 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g7.6-2026-11-02
+  gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 500: {\n  \"error\": {\n    \"code\": 500,\n    \"message\": \"Internal error encountered.\",\n    \"status\": \"INTERNAL\"\n  }\n}\n); kontrol edilmemiş fotoğraf kullanılmadı."
+  surum: g7.7-2026-11-02
   konu_imza: 680057f2688b
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T11:05:13+03:00'
-    yontem: kaynak/arşiv taraması
+    sonuc: yapılamadı
+    tarih: '2026-11-02T12:42:50+03:00'
+    yontem: Gemini görsel kontrol
+    neden: "Gemini 500: {\n  \"error\": {\n    \"code\": 500,\n    \"message\": \"Internal error encountered.\",\n    \"status\": \"INTERNAL\"\n  }\n}\n"
+  bekliyor: true
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -35,6 +37,9 @@ otomatik: true
 yz: true
 kaynak: Turizm Gazetesi
 kaynak_url: https://www.turizmgazetesi.com/haber/sehirlere-gore-turizm-kredilerinin-dagilimi-takipteki-kredilerde-antalya-ve-mugla-nin-payi-yukseldi/95489
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Türkiye genelinde turizm sektörünün bankalardan kullandığı kredi miktarı, yılın ilk dokuz aylık döneminde artış kaydetti. Elde edilen verilere göre, ülke genelindeki toplam kredi stoku yüzde 16 oranında bir büyüme göstererek 18,6 milyar dolar seviyesine ulaştı. Aynı süreçte gayri nakdi kredilerin toplam stoku da yüzde 13,7'lik artışla 2,62 milyar dolara yükseldi.
 

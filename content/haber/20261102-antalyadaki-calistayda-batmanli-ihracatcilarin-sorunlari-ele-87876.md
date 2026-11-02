@@ -2,31 +2,35 @@
 title: Antalya'daki Çalıştayda Batmanlı İhracatçıların Sorunları Ele Alındı
 date: '2026-11-02T00:58:19+03:00'
 ozet: Antalya'da düzenlenen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Batmanlı ihracatçı firmaların yaşadığı sorunlar ve çözüm önerileri yetkililere aktarıldı.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g7.1-2026-11-02
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
+  fotografci: Joe Wallace
+  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2022'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü yansıtan nötr bir manzara fotoğrafı olup haberle uyumludur.'
+  surum: g7.7-2026-11-02
   konu_imza: 29ecfb2cc284
-  gorsel_url: /images/kategori/ekonomi.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T01:24:18+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T12:43:31+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya — Arşiv fotoğrafı (2022)
+  alt_tur: yer
+  qid: Q6487
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,6 +38,9 @@ otomatik: true
 yz: true
 kaynak: Bağımsız Batman Gazetesi
 kaynak_url: https://www.bagimsizbatmangazetesi.com/batmanli-ihracatcilarin-sorunlari-antalyada-gundeme-tasindi/
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Antalya'da gerçekleştirilen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Doğu Anadolu İhracatçılar Birliği yönetimi tarafından Batmanlı ihracatçıların talepleri gündeme taşındı. Etkinliğe Doğu Anadolu İhracatçılar Birliği Yönetim Kurulu Başkanı Ömer Madırlı ve Yönetim Kurulu Üyesi Mehmet Özel katılım sağladı.
 
