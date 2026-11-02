@@ -2,36 +2,38 @@
 title: Antalya için 3 bin kilowatt saatlik elektrik desteği sınırı yetersiz
 date: '2026-11-02T12:43:00+03:00'
 ozet: Elektrik Mühendisleri Odası Antalya Şubesi, yıllık 3 bin kilowatt saatlik elektrik tüketim sınırının Antalya'nın iklim şartları için yetersiz olduğunu belirtti.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_city_view_-_panoramio_%281%29.jpg/1280px-Old_city_view_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Eric Spenle / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Old_city_view_-_panoramio_(1).jpg
+  fotografci: Eric Spenle
+  kredi: Eric Spenle / Wikimedia Commons (CC BY 3.0)
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
   cekim_yili: ''
-  gerekce: 'Adaylar görsel kontrolden geçirilemedi (Gemini yanıtı okunamadı: Invalid \uXXXX escape: line 1 column 291 (char 290)); kontrol edilmemiş fotoğraf kullanılmadı.'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümünü gösteren arşiv fotoğrafı, enerji desteği haberiyle uyumludur.'
   surum: g7.7-2026-11-02
   konu_imza: afb0e66d53f1
-  gorsel_url: /images/kategori/ekonomi.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_city_view_-_panoramio_%281%29.jpg/1280px-Old_city_view_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T17:28:05+03:00'
-    yontem: Gemini görsel kontrol
-    neden: 'Gemini yanıtı okunamadı: Invalid \uXXXX escape: line 1 column 291 (char 290)'
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T20:53:15+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya — Arşiv fotoğrafı
+  alt_tur: yer
+  qid: Q6487
   kurum: k3
   kurum_notu: Mevzuat Antalya dışı kurum, kullanılmadı
-  bekliyor: true
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

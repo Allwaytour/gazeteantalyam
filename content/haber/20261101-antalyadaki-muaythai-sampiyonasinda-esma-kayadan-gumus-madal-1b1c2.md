@@ -2,31 +2,37 @@
 title: Antalya'daki Muaythai Şampiyonası'nda Esma Kaya'dan Gümüş Madalya
 date: '2026-11-01T19:24:00+03:00'
 ozet: Cumhuriyet'in 103. yıl dönümü kutlamaları kapsamında Antalya'da düzenlenen Muaythai Şampiyonası'nda ringe çıkan Elazığlı sporcu Esma Kaya Türkiye ikincisi oldu.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coastal_path.JPG/1280px-Coastal_path.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Cano58 / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Coastal_path.JPG
+  fotografci: Cano58
+  kredi: Cano58 / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2012'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü gösteren arşiv fotoğrafı, şehir haberi için uygundur.'
+  surum: g7.7-2026-11-02
   konu_imza: 110c030f9ee6
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coastal_path.JPG/1280px-Coastal_path.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T00:09:26+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T21:00:05+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya — Arşiv fotoğrafı (2012)
+  alt_tur: yer
+  qid: Q6487
+  kurum: k3
+  kurum_notu: Karate Federasyonu Antalya dışı kurum, kullanılmadı; MEB Antalya dışı kurum, kullanılmadı; ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/spor/antalyada-ringe-cikan-esma-kayadan-turkiye-ikinciligi/388466
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Cumhuriyet'in 103. yıl dönümü kutlamaları çerçevesinde Antalya'da gerçekleştirilen Muaythai Şampiyonası, Türkiye'nin dört bir yanından gelen yüzlerce sporcunun katılımıyla yapıldı. Farklı illerden kente gelen sporcuların mücadele ettiği organizasyon, sporseverlere heyecanlı anlar yaşattı.
 

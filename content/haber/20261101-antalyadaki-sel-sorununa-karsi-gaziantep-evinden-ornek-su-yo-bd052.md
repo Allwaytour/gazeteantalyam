@@ -18,16 +18,20 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Gaziantep Evi
   cekim_yili: '2014'
-  gerekce: '''Gaziantep Evi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2014-09-17; görsel kontrol: Gaziantep Evi iç mekan sergi alanını gösteriyor, haberle uyumlu.'
-  surum: g6-2026-11-01
+  gerekce: '''Gaziantep Evi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2014-09-17; görsel kontrol: Gaziantep Evi iç mekanını gösteren gerçek bir arşiv fotoğrafıdır.'
+  surum: g7.7-2026-11-02
   konu_imza: bf908885ded1
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T00:24:58+03:00'
+    tarih: '2026-11-02T20:59:14+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  aciklama: Gaziantep Evi — Arşiv fotoğrafı (2014)
+  alt_tur: kurum
+  kurum: k3
+  kurum_notu: Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Aile ve Sosyal Hizmetler Bakanlığı Antalya dışı kurum, kullanılmadı; Akçaabat Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -35,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyadaki-sel-soruna-cozum-gaziantepten-geldi
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Antalya'da sık aralıklarla meydana gelen sel felaketleri, yağmur sularının yalnızca kriz anlarında tahliye edilmesinin ötesinde, doğru yöntemlerle yönetilip tekrar kazandırılmasının hayati önem taşıdığını bir kez daha gösterdi. Tarım arazilerinin, yerleşim yerlerinin ve ulaşım altyapısının zarar gördüğü kentte, sürdürülebilir su yönetimi uygulamaları üzerine yürütülen tartışmalar hız kazandı.
 

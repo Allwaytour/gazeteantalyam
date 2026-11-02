@@ -31,6 +31,8 @@ gorsel_secim:
     model: gemini-3.5-flash-lite
   aciklama: Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü — Arşiv fotoğrafı (2019)
   alt_tur: kurum
+  kurum: k3
+  kurum_notu: Manisa Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
