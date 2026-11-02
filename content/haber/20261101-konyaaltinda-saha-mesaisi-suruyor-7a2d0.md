@@ -2,8 +2,8 @@
 title: Konyaaltı'nda saha mesaisi sürüyor
 date: '2026-11-01T10:39:04+03:00'
 ozet: Konyaaltı Belediye Başkanı Cem Kotan, ilçe genelindeki saha çalışmalarında esnaf ve vatandaşlarla bir araya gelerek talepleri dinliyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/1280px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Esginmurat / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Konyaalt%C4%B1_Beach_and_cliffs.jpg/1280px-Konyaalt%C4%B1_Beach_and_cliffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: MrEfeS / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
-  fotografci: Esginmurat
-  kredi: Esginmurat / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Konyaalt%C4%B1_Beach_and_cliffs.jpg
+  fotografci: MrEfeS
+  kredi: MrEfeS / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Konyaaltı
-  cekim_yili: '2018'
-  gerekce: '''Konyaaltı'' Wikidata Q1783599 kaydı ve Commons kategorisi (Konyaaltı) ile doğrulandı; haberde geçen yer; görsel kontrol: Konyaaltı''nın genel manzarasını gösteren uygun bir arşiv fotoğrafıdır.'
+  cekim_yili: '2022'
+  gerekce: '''Konyaaltı'' Wikidata Q1783599 kaydı ve Commons kategorisi (Konyaaltı) ile doğrulandı; haberde geçen yer; görsel kontrol: Konyaaltı''nın genel görünümünü gösteren nötr arşiv manzarası, ilçe haberi için uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: afcb2c2b456b
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/1280px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Konyaalt%C4%B1_Beach_and_cliffs.jpg/1280px-Konyaalt%C4%B1_Beach_and_cliffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T12:53:56+03:00'
+    tarih: '2026-11-02T18:54:41+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Konyaaltı — Arşiv fotoğrafı (2018)
+  aciklama: Konyaaltı — Arşiv fotoğrafı (2022)
   alt_tur: yer
   qid: Q1783599
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 ---
 Konyaaltı Belediye Başkanı Cem Kotan, sürdürdüğü saha çalışmaları kapsamında ilçe sakinleri ve esnafla buluşmaya devam ediyor. Gerçekleştirilen ziyaretlerde belediye birimleriyle koordineli şekilde hareket ediliyor.
 

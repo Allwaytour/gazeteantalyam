@@ -2,8 +2,8 @@
 title: Koray Avci bu aksam Antalya Acikhava Sahnesi'nde konser verecek
 date: '2026-11-01T13:11:37+03:00'
 ozet: Unlu sarkici Koray Avci, sevilen parcalarini seslendirmek uzere bu aksam Antalyali muzikseverlerle bulusacak.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Deniz%2CAntalya%2C%2CLiman.JPG/1280px-Deniz%2CAntalya%2C%2CLiman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: The original uploader was Umut.A at Turkish Wikipedia . / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
-  fotografci: Joe Wallace
-  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Deniz,Antalya,,Liman.JPG
+  fotografci: The original uploader was Umut.A at Turkish Wikipedia .
+  kredi: The original uploader was Umut.A at Turkish Wikipedia . / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: http://creativecommons.org/licenses/by-sa/3.0/
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya manzara fotoğrafı, haberin şehriyle uyumlu ancak konser etkinliğini doğrudan yansıtmaz.'
+  cekim_yili: ''
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nin genel gorunumu yer aliyor, konser haberi icin sehir manzarasi olarak kullanilabilir.'
   surum: g7.7-2026-11-02
   konu_imza: 9bcf06bfc5c4
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Deniz%2CAntalya%2C%2CLiman.JPG/1280px-Deniz%2CAntalya%2C%2CLiman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T12:53:47+03:00'
+    tarih: '2026-11-02T18:54:37+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2022)
+  aciklama: Antalya — Arşiv fotoğrafı
   alt_tur: yer
   qid: Q6487
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 ---
 Turkiye'nin taninan seslerinden Koray Avci, hayranlarinin merakla bekledigi konseri icin bu aksam Antalya'da sahne alacak. Muzik dolu gece, kent merkezindeki etkinlik alaninda gerceklestirilecek.
 

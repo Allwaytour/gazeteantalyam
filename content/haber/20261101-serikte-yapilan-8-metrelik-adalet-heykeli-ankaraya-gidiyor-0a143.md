@@ -2,8 +2,8 @@
 title: Serik'te yapılan 8 metrelik adalet heykeli Ankara'ya gidiyor
 date: '2026-11-01T14:08:07+03:00'
 ozet: Antalya'nın Serik ilçesinde heykeltıraş Utku Karakurt tarafından hazırlanan 8 metre yüksekliğindeki adalet heykeli, başkentteki özel bir yaşam alanında sergilenecek.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg/1280px-Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Eugene Yakovenko / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Aspendos_Unidentified_temple_area_3248_panorama.jpg/1280px-Aspendos_Unidentified_temple_area_3248_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Belek,_07506_Belek-Serik-Antalya,_Turkey_-_panoramio_(1).jpg
-  fotografci: Eugene Yakovenko
-  kredi: Eugene Yakovenko / Wikimedia Commons (CC BY-SA 3.0)
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Aspendos_Unidentified_temple_area_3248_panorama.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Serik
-  cekim_yili: ''
-  gerekce: '''Serik'' Wikidata Q1012849 kaydı ve Commons kategorisi (Serik) ile doğrulandı; haberde geçen yer; görsel kontrol: Serik ilçesinin genel görünümü (Belek sokağı), ilçe haberine uygundur ve yanıltıcı değildir.'
+  cekim_yili: '2013'
+  gerekce: '''Serik'' Wikidata Q1012849 kaydı ve Commons kategorisi (Serik) ile doğrulandı; haberde geçen yer; görsel kontrol: Serik ilcesine ait genel manzara gorseli haberle uyumludur.'
   surum: g7.7-2026-11-02
   konu_imza: 046bdec977ff
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg/1280px-Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Aspendos_Unidentified_temple_area_3248_panorama.jpg/1280px-Aspendos_Unidentified_temple_area_3248_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T12:51:08+03:00'
+    tarih: '2026-11-02T18:53:47+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Serik — Arşiv fotoğrafı
+  aciklama: Serik — Arşiv fotoğrafı (2013)
   alt_tur: yer
   qid: Q1012849
+  kurum: k3
+  kurum_notu: 'kurum sayfası okunamadı (BURSA BÜYÜKŞEHIR BELEDIYESI): (''Connection broken: IncompleteRead(147051 bytes read, 56675532 more expected)'',; kurum sayfası okunamadı (İlan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kurum sayfası okunamadı (İlan.gov.tr): HTT'
 ---
 Antalya'nın Serik ilçesinde D-400 kara yolu üzerindeki atölyesinde çalışmalarını yürüten heykeltıraş Utku Karakurt, Ankara'daki bir iş insanının özel yaşam alanı için yeni eserler tasarladı. Bu kapsamda hazırlanan ve yaklaşık dört ay süren yoğun bir çalışmanın ardından tamamlanan adalet heykeli, sekiz metre yüksekliğe ulaştı. Eserin, Türkiye'nin en büyük adalet heykeli olduğu ifade edilirken, yapıtın hemen yanında yine aynı sanatçı tarafından tasarlanan özgürlük heykelinin de yer alacağı belirtildi.
 

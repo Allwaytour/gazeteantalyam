@@ -2,8 +2,8 @@
 title: Uluslararası hazırlık turnuvasında Türkiye, Ukrayna'ya mağlup oldu
 date: '2026-11-01T09:45:58+03:00'
 ozet: Antalya'da düzenlenen Uluslararası Hazırlık Turnuvası'nda 16 Yaş Altı Futbol Milli Takımı, Ukrayna ile karşı karşıya geldi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lyrbe_Seleukia_Ancient_City_Ruins.jpg/1280px-Lyrbe_Seleukia_Ancient_City_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: HeritageSinan / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -21,27 +21,29 @@ gorsel_onceki:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_560DSC_0226_(48104102833).jpg
-  fotografci: János Korom Dr. >17 Million views from Wien, Austria
-  kredi: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Lyrbe_Seleukia_Ancient_City_Ruins.jpg
+  fotografci: HeritageSinan
+  kredi: HeritageSinan / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Manavgat
-  cekim_yili: '2019'
-  gerekce: '''Manavgat'' Wikidata Q81643 kaydı ve Commons kategorisi (Manavgat) ile doğrulandı; haberde geçen yer; görsel kontrol: Manavgat ilçesinin genel görünümü, turnuvanın yapıldığı yer için uygundur.'
+  cekim_yili: '2021'
+  gerekce: '''Manavgat'' Wikidata Q81643 kaydı ve Commons kategorisi (Manavgat) ile doğrulandı; haberde geçen yer; görsel kontrol: Manavgat bölgesindeki tarihi kalıntıların genel görünümüdür, habere uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 9877fc680b58
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lyrbe_Seleukia_Ancient_City_Ruins.jpg/1280px-Lyrbe_Seleukia_Ancient_City_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
     tarih: '2026-11-02T12:50:27+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Manavgat — Arşiv fotoğrafı (2019)
+  aciklama: Manavgat — Arşiv fotoğrafı (2021)
   alt_tur: yer
   qid: Q81643
+  kurum: k3
+  kurum_notu: ATUS Antalya dışı kurum, kullanılmadı; ATUS Antalya dışı kurum, kullanılmadı; Tuzla İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı
 ---
 Türkiye 16 Yaş Altı Futbol Milli Takımı, Manavgat ilçesinde gerçekleştirilen Uluslararası Hazırlık Turnuvası kapsamındaki karşılaşmada Ukrayna'ya 3-2 yenildi. Arslan Zeki Demirci Spor Kompleksi'nde oynanan çekişmeli mücadelenin ilk golü Ukrayna'dan geldi. Karşılaşmada ay-yıldızlı ekibin gollerini 13. dakikada Utku Efe Özkan ile 66. dakikada Eren Timur Yurga kaydetti.
 
