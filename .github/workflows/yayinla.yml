@@ -19,6 +19,7 @@ concurrency:
 jobs:
   yayinla:
     runs-on: ubuntu-latest
+    timeout-minutes: 28
     environment:
       name: github-pages
       url: ${{ steps.dagit.outputs.page_url }}
@@ -37,7 +38,7 @@ jobs:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: |
           pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder
-          python scripts/haber_cek.py
+          timeout 22m python -u scripts/haber_cek.py || echo "Haber turu süre sınırında durduruldu; kaydedilenler yayınlanacak"
 
       - name: Yeni haberleri kaydet
         run: |
