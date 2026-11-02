@@ -17,11 +17,12 @@ ayarlar:
   # → fotoğrafsız kapak. Genel stok fotoğraf kullanılmaz.
   gorsel_toplu_duzeltme: false  # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
+  gorsel_toplu_sinir: 20        # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); inceleme sonrası artırılır
   gorsel_duzeltme_tur: 8        # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 10           # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 11           # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # karşılaştırmalı deneme (haber dosyalarını değiştirmez); g8: önce Muhittin Böcek, sonra kişi/takım/yer/nesne
     - 20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa.md
     - 20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md
