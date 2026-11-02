@@ -2,37 +2,35 @@
 title: Squash Türkiye Şampiyonası'ndan Muratpaşa'ya iki bronz madalya
 date: '2026-11-02T12:42:16+03:00'
 ozet: Bursa'da düzenlenen Squash Büyükler Türkiye Şampiyonası'nda kürsüye çıkan Muratpaşa Belediyesporlu sporcular, iki bronz madalyayla Antalya'ya döndü.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/kurum/bb6477128cf7cbed.jpg
+gorsel_kredi: 'Fotoğraf: Muratpaşa Belediyesi'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: gercek
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: gercek
+  kaynak_sayfa: https://muratpasa-bld.gov.tr/haber/11122/muratpasa-dan-squash-turkiye-sampiyonasi-nda-iki-bronz-madalya
+  fotografci: Muratpaşa Belediyesi
+  kredi: Muratpaşa Belediyesi
+  lisans: Kurum izniyle
+  lisans_dayanagi: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
+  kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
+  gosterilen: Muratpaşa Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 'Haber Muratpaşa Belediyesi sitesinde bulundu (metin benzerliği %73); fotoğraf kurumun kendi sayfasından; görsel kontrol: Muratpaşa Belediyespor''un madalya kazanan sporcuları ve kulüp bayrağı squash kortunda başarıyla görüntülenmiştir.'
+  surum: g7.7-2026-11-02
   konu_imza: 71c4e3bb0290
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: /images/kurum/bb6477128cf7cbed.jpg
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:56:54+03:00'
-    yontem: konu ayrıştırılamadı
-  kurum: k4
-  bekliyor: true
-  kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T15:14:37+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  alt_tur: kurum_haber
+  kurum: k1
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
