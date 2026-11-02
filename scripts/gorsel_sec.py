@@ -835,11 +835,13 @@ def yer_adaylari(bag, konu, haber):
         if not ok or YER_ISTENMEYEN.search(metin):
             continue
         cekim = tarih_oku(d.get("tarih"))
-        puan = (20 if d in p18 else 0) + (12 if d in kut else 0) + (8 if GENEL_GORUNUM.search(metin) else 0) \
-            + (min(10, max(0, cekim.year - 2010)) if cekim else 0)
+        kullanim = next((x.get("kullanim", 1) for x in kut if x.get("url") == d["url"]), 0)
+        # Aynı ilçe fotoğrafı ana sayfada tekrar tekrar görünmesin: kullanıldıkça sırası düşer.
+        puan = (20 if d in p18 else 0) + (12 if kullanim else 0) + (8 if GENEL_GORUNUM.search(metin) else 0) \
+            + (min(10, max(0, cekim.year - 2010)) if cekim else 0) - 18 * kullanim
         puanli.append((puan, d, cekim))
     puanli.sort(key=lambda x: -x[0])
-    for puan, d, cekim in puanli[:2]:
+    for puan, d, cekim in puanli[:3]:
         adaylar.append({
             "tur": "arsiv", "alt_tur": "yer", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
             "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
@@ -1153,8 +1155,11 @@ def gorsel_sec(bag, haber, konu, eski=None):
                    "model": bag.model_fn()}
         if a.get("qid") and a.get("kayit"):
             kut = bag.arsiv.setdefault("kut:" + a["qid"], [])
-            if not any(isinstance(x, dict) and x.get("url") == a["url"] for x in kut):
-                kut.append(dict(a["kayit"], onay=simdi[:10]))
+            mevcut = next((x for x in kut if isinstance(x, dict) and x.get("url") == a["url"]), None)
+            if mevcut:
+                mevcut["kullanim"] = mevcut.get("kullanim", 1) + 1
+            else:
+                kut.append(dict(a["kayit"], onay=simdi[:10], kullanim=1))
                 del kut[:-30]
         return aday_secimi(a, kontrol, kimza, konu), rapor
     if (eski_aday and eski_aday.get("karar") == "kabul" and eski.get("koru")
