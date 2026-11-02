@@ -1354,12 +1354,13 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
     """Otomatik görselleri küçük gruplar hâlinde düzeltir (yenilerden eskiye).
     yalniz_bekleyen=True: yalnızca kontrolü kota yüzünden ertelenmiş yeni hat kayıtlarını yeniden dener."""
     duzeltilen = 0
-    sure = int(bag.ayar.get("gorsel_sure_dk", 10)) * 60   # bir turun 30 dakikayı aşmaması için süre sınırı
+    sure = int(bag.ayar.get("gorsel_sure_dk", 8)) * 60   # bir turun 30 dakikayı aşmaması için toplu düzeltmeye ayrılan süre
+    baslangic = time.time()
     for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
         # Yeni gelen haberlerin görsel kontrolü için günlük hakkın bir kısmı her zaman ayrılır (toplu düzeltme onu tüketmez).
         if duzeltilen >= limit or not bag.yz_hakki(2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
             break
-        if time.time() - BASLANGIC > sure:
+        if time.time() - baslangic > sure:
             print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
             break
         yol = os.path.join(HABER_KLASOR, ad)
