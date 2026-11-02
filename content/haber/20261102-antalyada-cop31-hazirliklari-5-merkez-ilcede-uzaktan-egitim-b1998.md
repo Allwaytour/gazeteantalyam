@@ -19,17 +19,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later); kontrol edilmemiş fotoğraf kullanılmadı."
+  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 3badfdc609da
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T12:47:08+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-02T17:23:58+03:00'
     yontem: Gemini görsel kontrol
-    neden: "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
-  bekliyor: true
+    model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +38,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/cop31-icin-antalyada-trafik-ve-egitim-mesaisi-5-merkez-ilcede-uzaktan-egitim
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Türkiye’nin ev sahipliğinde 9-20 Kasım 2026 tarihlerinde Antalya’da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde kentteki hazırlık çalışmalarına hız verildi. Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Burak Demiralp ile Antalya Valisi Hulusi Şahin, zirvenin yapılacağı alanda incelemelerde bulunarak basın mensuplarına açıklamalarda bulundu. Mavi ve Yeşil Alan’da yapılan saha gezisinin ardından Antalya Pavilyonu önünde düzenlenen toplantıda organizasyonun detayları paylaşıldı.
 

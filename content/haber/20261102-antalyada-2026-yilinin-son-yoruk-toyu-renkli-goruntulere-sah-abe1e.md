@@ -2,34 +2,36 @@
 title: Antalya'da 2026 yılının son Yörük toyu renkli görüntülere sahne oldu
 date: '2026-11-02T10:33:00+03:00'
 ozet: Toroslar'daki yaylalardan dönüş yapan Yörüklerin geleneklerini yaşattığı yılın son toyu Aksu'da gerçekleştirildi.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Antalya_Glass_Pyramid_at_night_Feb2007.JPG/1280px-Antalya_Glass_Pyramid_at_night_Feb2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Onur ( talk ) ( Uploads ) / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Aksu
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Glass_Pyramid_at_night_Feb2007.JPG
+  fotografci: Onur ( talk ) ( Uploads )
+  kredi: Onur ( talk ) ( Uploads ) / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: http://creativecommons.org/licenses/by-sa/3.0/
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya Fuar ve Kongre Merkezi
+  cekim_yili: '2007'
+  gerekce: '''Antalya Fuar ve Kongre Merkezi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2007-02-26; görsel kontrol: Antalya''daki bir merkezi gösteren arşiv fotoğrafı, Yörük toyu haberi için mekansal bağlamda kullanılabilir.'
   surum: g7.7-2026-11-02
   konu_imza: c4639f0f4e4d
-  gorsel_url: /images/kategori/kultur-sanat.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Antalya_Glass_Pyramid_at_night_Feb2007.JPG/1280px-Antalya_Glass_Pyramid_at_night_Feb2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T15:27:15+03:00'
-    yontem: Gemini görsel kontrol
+    sonuc: onaylandı
+    tarih: '2026-11-02T17:25:31+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  kurum: k1
+  aciklama: Antalya Fuar ve Kongre Merkezi — Arşiv fotoğrafı (2007)
+  alt_tur: kurum
+  kurum: k3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: TRT Haber
 kaynak_url: https://www.trthaber.com/foto-galeri/antalyada-2026-yilinin-son-yoruk-toyu-gerceklestirildi/78919.html
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Yaz aylarını Torosların yüksek kesimlerindeki yaylalarda geçiren Yörükler, hayvanları ve eşyalarıyla birlikte dönüş yolculuğunu tamamladı. Yayla sezonunun sona ermesiyle birlikte ilçe ve köylerde düzenlenen etkinliklerin finali Antalya'da yapıldı.
 

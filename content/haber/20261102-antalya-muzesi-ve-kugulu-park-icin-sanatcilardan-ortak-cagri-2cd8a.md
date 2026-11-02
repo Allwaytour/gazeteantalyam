@@ -2,34 +2,38 @@
 title: Antalya Müzesi ve Kuğulu Park İçin Sanatçılardan Ortak Çağrı
 date: '2026-11-02T11:49:00+03:00'
 ozet: Antalya Arkeoloji Müzesi'nin yıkılması ve Kuğulu Park'ın gündeme gelen satışıyla ilgili tartışmalara sanat dünyasından isimler de katıldı.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (görsel hattı günlük yapay zekâ sınırı (200) doldu); kontrol edilmemiş fotoğraf kullanılmadı.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey-2622_(2216327975).jpg
+  fotografci: Dennis G. Jarvis
+  kredi: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya Arkeoloji Müzesi
+  cekim_yili: '2005'
+  gerekce: '''Antalya Arkeoloji Müzesi'' Wikidata Q843241 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Antalya Arkeoloji Müzesi''ni gösteren net bir arşiv fotoğraflarındandır.'
   surum: g7.7-2026-11-02
   konu_imza: 62ed230ab14f
-  gorsel_url: /images/kategori/kultur-sanat.png
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T13:01:02+03:00'
-    yontem: Gemini görsel kontrol
-    neden: görsel hattı günlük yapay zekâ sınırı (200) doldu
-  bekliyor: true
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T17:28:05+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya Arkeoloji Müzesi — Arşiv fotoğrafı (2005)
+  alt_tur: kurum
+  qid: Q843241
+  kurum: k3
+  kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalya-muzesi-icin-sanatcilardan-ortak-cagri
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Antalya Arkeoloji Müzesi'nin yıkım süreci ve Kuğulu Park'ın satışa çıkarılmasıyla başlayan tartışmalar sürerken, sanat dünyasından pek çok isim kültürel mirasın korunması için ortak çağrıda bulundu. Tiyatro, sinema, müzik ve resim alanından pek çok sanatçı, Antalya Müze Çalışma Grubu'nun kamusal alanların korunmasına yönelik girişimlerine destek verdi. Sanatçılar, müzelerin toplumların kültürel belleğindeki rolüne dikkat çekerek sürecin şeffaf yürütülmesini ve Kuğulu Park'ın kamusal niteliğinin güvence altına alınmasını istedi.
 

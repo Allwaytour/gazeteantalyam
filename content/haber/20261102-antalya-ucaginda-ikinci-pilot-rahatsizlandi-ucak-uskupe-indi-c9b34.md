@@ -19,16 +19,18 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 6 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g7.7-2026-11-02
   konu_imza: 1005b75dc9ff
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-02T13:00:36+03:00'
+    tarih: '2026-11-02T17:27:39+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
+  kurum: k3
+  kurum_notu: 'kurum sayfası okunamadı (anadoluajansi.gov.tr): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +38,9 @@ otomatik: true
 yz: true
 kaynak: HavaHaber
 kaynak_url: https://havahaber.com/sunexpressin-antalya-ucagi-uskupe-yonlendirildi-ikinci-pilot-rahatsizlandi/
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Almanya'nın Köln şehrinden Antalya'ya hareket eden yolcu uçağında beklenmedik bir sağlık durumu yaşandı. Havada ilerleyen uçağın ikinci pilotunun rahatsızlanması üzerine uçuş ekibi ve hava trafik kontrol merkezleri ortak bir karar aldı. Güzergâh değiştirilerek uçuşun Kuzey Makedonya'nın başkenti Üsküp'e yönlendirilmesi kararlaştırıldı.
 
