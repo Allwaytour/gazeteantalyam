@@ -2,33 +2,36 @@
 title: Demre için 3 aşamalı sel mastır planı önerisi
 date: '2026-11-01T23:00:00+03:00'
 ozet: Kısa aralıklarla yaşanan sel felaketlerinin ardından Demre'de kalıcı çözümler için kurumlar arası iş birliği ve üç aşamalı mastır planı çağrısı yapıldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Demre_town_4135.jpg/1280px-Demre_town_4135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Demre
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Demre_town_4135.jpg
+  fotografci: Dosseman
+  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Demre
+  cekim_yili: '2013'
+  gerekce: '''Demre'' Wikidata Q34801304 kaydı ve Commons kategorisi (Demre (town)) ile doğrulandı; haberde geçen yer; görsel kontrol: Demre ilçesinin seralarla kaplı genel görünümünü gösterdiği için afet ve altyapı haberine uygundur.'
+  surum: g7.7-2026-11-02
   konu_imza: d3b8aa249440
-  gorsel_url: /images/kategori/gundem.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Demre_town_4135.jpg/1280px-Demre_town_4135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T00:04:03+03:00'
-    yontem: Gemini görsel kontrol
+    sonuc: onaylandı
+    tarih: '2026-11-02T14:54:34+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
+  aciklama: Demre — Arşiv fotoğrafı (2013)
+  alt_tur: yer
+  qid: Q34801304
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyanin-tarim-merkezi-icin-sel-alarmi-3-asamali-sel-mastir-plani-aciklandi
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'nın tarım ve turizm merkezlerinden Demre'de peş peşe yaşanan sel felaketleri, ilçenin altyapı sorunlarını ve taşkın riskini yeniden gündeme getirdi. Seraların, evlerin ve ulaşımın olumsuz etkilendiği süreçte, bölgenin aynı sorunlarla tekrar karşılaşmaması için günübirlik müdahaleler yerine kalıcı çözümler geliştirilmesi gerektiği belirtildi. Dağlardan inen suların kıskacındaki ilçenin korunması için entegre havza yönetimi modelinin hayata geçirilmesi istendi.
 
