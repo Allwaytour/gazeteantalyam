@@ -1066,7 +1066,7 @@ def karar_ver(d, konu):
         nedenler.append("habere uygun değil")
     if d.get("yaniltici"):
         nedenler.append("yanıltıcı (başka olay/kişi/kurum izlenimi)")
-    if d.get("_alt_tur") in KONU_ILISKISI_SART and int(d.get("konu_iliskisi") or 0) < 6:
+    if d.get("_alt_tur") in KONU_ILISKISI_SART and int(d.get("konu_iliskisi") or 0) < 7:
         nedenler.append(f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {int(d.get('konu_iliskisi') or 0)}/10)")
     if d.get("_alt_tur") == "nesne" and d.get("taninabilir_kisi"):
         nedenler.append("temsilî fotoğrafta tanınabilir kişi var")
