@@ -2,37 +2,37 @@
 title: Konyaspor'dan Türk lirası simgeli forma kararı
 date: '2026-11-02T12:57:00+03:00'
 ozet: Atiker Konyaspor, Antalyaspor deplasmanına formalarının sol kolunda Türk lirası simgesiyle çıkma kararı aldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/1280px-Antalya_Serik_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Photon2297 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/23/FlughafentransferAntalya.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Ernestohit1 / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Spor
 ilceler: []
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Serik_Plaj%C4%B1.jpg
-  fotografci: Photon2297
-  kredi: Photon2297 / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:FlughafentransferAntalya.png
+  fotografci: Ernestohit1
+  kredi: Ernestohit1 / Wikimedia Commons (CC BY 4.0)
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2018'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü, Antalyaspor maçı haberi için nötr bir şehir/sahil görseli olarak uygundur.'
+  cekim_yili: '2026'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü gösteren nötr bir arşiv fotoğrafıdır, haberle çelişmez.'
   surum: g7.7-2026-11-02
   konu_imza: dc4fb21d02d8
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/1280px-Antalya_Serik_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/23/FlughafentransferAntalya.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T15:56:30+03:00'
+    tarih: '2026-11-02T16:07:46+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2018)
+  aciklama: Antalya — Arşiv fotoğrafı (2026)
   alt_tur: yer
   qid: Q6487
-  kurum: k2
-  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  kurum: k3
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

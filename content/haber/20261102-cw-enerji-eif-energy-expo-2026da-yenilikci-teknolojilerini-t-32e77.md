@@ -2,8 +2,8 @@
 title: CW Enerji, EIF Energy Expo 2026'da Yenilikçi Teknolojilerini Tanıtacak
 date: '2026-11-02T12:50:40+03:00'
 ozet: Fotovoltaik güneş paneli üreticisi CW Enerji, Antalya'da düzenlenecek EIF Energy Expo 2026 fuarında geniş ürün yelpazesini ve entegre enerji ekosistemini ziyaretçilerle buluşturacak.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Antalya_Cliff_June_15_-2022.jpg/1280px-Antalya_Cliff_June_15_-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: My-view2U / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -11,28 +11,28 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Cliff_June_15_-2022.jpg
-  fotografci: My-view2U
-  kredi: My-view2U / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Seyir_Teras%C4%B1.jpg
+  fotografci: TutiTheAntiochian
+  kredi: TutiTheAntiochian / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü fuar haberi için nötr ve uygundur.'
+  cekim_yili: '2020'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa sahil gün batımı manzarası, Antalya merkezli fuar haberi için kullanılabilir.'
   surum: g7.7-2026-11-02
   konu_imza: c2c5f3d62f31
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Antalya_Cliff_June_15_-2022.jpg/1280px-Antalya_Cliff_June_15_-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Seyir_Teras%C4%B1.jpg/1280px-Seyir_Teras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T16:00:13+03:00'
+    tarih: '2026-11-02T14:52:38+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2022)
+  aciklama: Antalya — Arşiv fotoğrafı (2020)
   alt_tur: yer
   qid: Q6487
-  kurum: k2
+  kurum: k3
   kurum_notu: Adana Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20); İnegöl Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false

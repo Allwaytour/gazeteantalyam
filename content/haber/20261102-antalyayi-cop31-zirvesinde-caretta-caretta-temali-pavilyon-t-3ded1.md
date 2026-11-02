@@ -2,36 +2,38 @@
 title: Antalya'yı COP31 Zirvesi'nde Caretta Caretta Temalı Pavilyon Temsil Edecek
 date: '2026-11-02T12:24:00+03:00'
 ozet: COP31 İklim Zirvesi'nde kenti temsil edecek caretta caretta tasarımlı Antalya Pavilyonu tanıtıldı. Geri dönüştürülmüş malzemelerden inşa edilen yapının zirve sonrasında kreş olarak hizmet vermesi planlanıyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Aksu
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Adaylar görsel kontrolden geçirilemedi (bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)); kontrol edilmemiş fotoğraf kullanılmadı.'
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Side_Ancient_City_Antalya.jpg
+  fotografci: Unknown author Unknown author
+  kredi: Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya
+  cekim_yili: '2025'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın Side Antik Kenti''ni gösteren nötr arşiv fotoğrafı, genel il tanıtımına uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 0beeb748651e
-  gorsel_url: /images/kategori/gundem.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-02T16:00:13+03:00'
-    yontem: Gemini görsel kontrol
-    neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
-  kurum: k2
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-02T16:12:17+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.5-flash-lite
+  aciklama: Antalya — Arşiv fotoğrafı (2025)
+  alt_tur: yer
+  qid: Q6487
+  kurum: k3
   kurum_notu: Antalya Valiliği sayfası aynı haber değil (benzerlik %36); Çay Kaymakamlığı sayfası aynı haber değil (benzerlik %22)
-  bekliyor: true
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

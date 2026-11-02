@@ -2,38 +2,36 @@
 title: Doğan Hızlan Kütüphanesi yenilenen yüzüyle yeniden kapılarını açtı
 date: '2026-11-02T11:57:26+03:00'
 ozet: Antalya'da 14 yıllık geçmişe sahip Doğan Hızlan Kütüphanesi, kapsamlı tadilat çalışmalarının ardından modern bir görünüme kavuşarak okuyucularını yeniden ağırlamaya başladı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Turkey_random_%2826_of_30%29.jpg/1280px-Turkey_random_%2826_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: nafrenkel88 / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kurum/61b4440e7cc0317c.jpg
+gorsel_kredi: 'Fotoğraf: Antalya Büyükşehir Belediyesi'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: gercek
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_random_(26_of_30).jpg
-  fotografci: nafrenkel88
-  kredi: nafrenkel88 / Wikimedia Commons (CC BY 2.0)
-  lisans: CC BY 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: '2016'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü kütüphane haberi için nötr bir arka plan sunmaktadır.'
+  tur: gercek
+  kaynak_sayfa: https://www.antalya.bel.tr/tr/haber-detay/dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-hizmette
+  fotografci: Antalya Büyükşehir Belediyesi
+  kredi: Antalya Büyükşehir Belediyesi
+  lisans: Kurum izniyle
+  lisans_dayanagi: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
+  kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
+  gosterilen: Antalya Büyükşehir Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
+  cekim_yili: ''
+  gerekce: 'Haber Antalya Büyükşehir Belediyesi sitesinde bulundu (metin benzerliği %81); fotoğraf kurumun kendi sayfasından; görsel kontrol: Yenilenen kütüphane ortamını ve çalışan okuyucuları doğrudan gösteren uygun bir fotoğraf.'
   surum: g7.7-2026-11-02
   konu_imza: a49aa9fabc18
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Turkey_random_%2826_of_30%29.jpg/1280px-Turkey_random_%2826_of_30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kurum/61b4440e7cc0317c.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T15:58:54+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    tarih: '2026-11-02T16:09:34+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2016)
-  alt_tur: yer
-  qid: Q6487
-  kurum: k2
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında haber fotoğrafı yok; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); Antalya Büyükşehir Belediyesi sayfasında haber fotoğrafı yok
+  alt_tur: kurum_haber
+  kurum: k3
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

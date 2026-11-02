@@ -32,8 +32,8 @@ gorsel_secim:
   aciklama: İbradı — Arşiv fotoğrafı (2022)
   alt_tur: yer
   qid: Q343180
-  kurum: k2
-  kurum_notu: "TEDAŞ Antalya dışı kurum, kullanılmadı; Döşemealtı Kaymakamlığı sayfası aynı haber değil (benzerlik %30); kurum sayfası okunamadı (Alanya Kaymakamlığı): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.al"
+  kurum: k3
+  kurum_notu: 'TEDAŞ Antalya dışı kurum, kullanılmadı; Döşemealtı Kaymakamlığı sayfası aynı haber değil (benzerlik %30); kurum sayfası okunamadı (Alanya Kaymakamlığı): Page.goto: net::ERR_EMPTY_RESPONSE at https://www.alanya.gov.tr/cumhuriyetimizin'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -2,8 +2,8 @@
 title: İMO Antalya Şubesinden Geleceğimiz İçin Birlik Çağrısı
 date: '2026-11-02T14:25:48+03:00'
 ozet: İnşaat Mühendisleri Odası Antalya Şubesi, yaşanan ekonomik zorluklara ve güvencesiz çalışma şartlarına dikkat çekerek meslektaşlarını ortak mücadeleye çağırdı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pink_Vibrant_Reflections_of_Serik_Beach.jpg/1280px-Pink_Vibrant_Reflections_of_Serik_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Photon2297 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Roman_Harbour_and_Marina.jpg/1280px-Roman_Harbour_and_Marina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,28 +11,28 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Pink_Vibrant_Reflections_of_Serik_Beach.jpg
-  fotografci: Photon2297
-  kredi: Photon2297 / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Roman_Harbour_and_Marina.jpg
+  fotografci: Joe Wallace
+  kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
-  cekim_yili: '2017'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü niteliğinde sahil manzarası, haberin yerel bağlamına uygundur.'
+  cekim_yili: '2022'
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü gösteren arşiv fotoğrafıdır, habere uygundur.'
   surum: g7.7-2026-11-02
   konu_imza: 55b627117a12
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pink_Vibrant_Reflections_of_Serik_Beach.jpg/1280px-Pink_Vibrant_Reflections_of_Serik_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Roman_Harbour_and_Marina.jpg/1280px-Roman_Harbour_and_Marina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T15:56:33+03:00'
+    tarih: '2026-11-02T16:07:50+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı (2017)
+  aciklama: Antalya — Arşiv fotoğrafı (2022)
   alt_tur: yer
   qid: Q6487
-  kurum: k2
+  kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
