@@ -21,9 +21,12 @@ kaynaklar:
 
   - ad: Unsplash
     alan: unsplash.com
-    izin: false
+    izin: true
     haber_gorseli: false
-    dayanak: "Lisans uygun olsa da genel stok fotoğraf haber görseli olarak KULLANILMAZ (görsel seçimi g6)."
+    tur: "YALNIZCA nesne odaklı genel haberlerde temsilî görsel (akaryakıt, ekmek, fatura vb.); kişi, kurum, yer, olay ve hassas haberlerde kullanılmaz"
+    dayanak: "Unsplash Lisansı (https://unsplash.com/license): ücretsiz ticari ve editoryal kullanım; fotoğrafçı adı ve Unsplash belirtilir."
+    kosul: "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır."
+    kontrol_tarihi: 2026-11-02
 
   - ad: Anadolu Ajansı
     alan: aa.com.tr
