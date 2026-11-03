@@ -19,21 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: a6ff348fd25f
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T01:11:50+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-03T11:32:29+03:00'
     yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    model: gemini-3.5-flash-lite
   kurum: k4
-  bekliyor: true
+  kurum_notu: Türkiye Adalet Akademisi Antalya dışı kurum, kullanılmadı; Ümraniye Belediyesi Antalya dışı kurum, kullanılmadı; MEB Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+    kod: gorsel_reddedildi
+    aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Manavgat Belediyesi''ne ai; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Manavgat bölgesinden gene; haberin konusuyla doğrud'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/ulualanda-hukuki-surecte-yeni-gelisme
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Manavgat Belediyesi tarafından yapılan açıklamaya göre, Ulualan bölgesiyle ilgili gazeteci Nalan Akpınaroğlu'nun başlattığı hukuki süreçte önemli bir karar alındı. Antalya Bölge İdare Mahkemesi, bölgenin golf turizm alanı olarak planlanmasına ilişkin imar planlarının iptal edilmesi yönündeki ilk derece mahkemesi kararına karşı yapılan istinaf başvurusunu geri çevirdi. Bu kararla birlikte söz konusu imar planlarını iptal eden ilk derece mahkemesi kararı hukuken korundu.
 

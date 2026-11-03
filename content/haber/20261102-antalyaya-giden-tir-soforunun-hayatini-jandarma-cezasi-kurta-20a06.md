@@ -19,21 +19,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: 3e30e1a96106
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T03:26:20+03:00'
-    yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    sonuc: aday yok
+    tarih: '2026-11-03T11:32:21+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
-  bekliyor: true
+  kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
   kapak_nedeni:
     kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+    aciklama: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/guncel/haber-kemer-cezasi-hayatini-kurtaran-tir-surucusu-ispart-20388694/
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Isparta'dan Antalya yönüne odun taşıyan bir tır sürücüsü, 9 Eylül tarihinde Çobanpınar Jandarma Kontrol Noktası'nda Bucak Jandarma Trafik ekipleri tarafından durduruldu. Gerçekleştirilen denetimde emniyet kemeri takmadığı tespit edilen şoföre trafik kurallarına uymadığı gerekçesiyle idari para cezası uygulandı.
 

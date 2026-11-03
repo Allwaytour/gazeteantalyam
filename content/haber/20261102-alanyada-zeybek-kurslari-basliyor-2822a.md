@@ -19,21 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: f1c57b8e1236
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T06:26:26+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-03T11:34:05+03:00'
     yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    model: gemini-3.5-flash-lite
   kurum: k4
-  bekliyor: true
+  kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+    kod: gorsel_reddedildi
+    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Hasanağalar Konağı''nın dı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-zeybek-kurslari-basliyor-1
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Alanya'da geleneksel halk oyunlarının yaşatılması ve kültürel mirasın gelecek kuşaklara aktarılması amacıyla düzenlenen zeybek kursları yeniden başlıyor. Alanya Belediyesi ile Alanya Kültür Sanat ve Turizm Vakfı iş birliğinde gerçekleştirilecek Alanya ve Ege Yöresi Zeybek Kursları, altıncı döneminde vatandaşlarla buluşmaya hazırlanıyor.
 
