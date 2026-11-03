@@ -19,21 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: 21ab9040ffad
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T02:59:07+03:00'
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-03T11:25:23+03:00'
     yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    model: gemini-3.5-flash-lite
   kurum: k4
-  bekliyor: true
+  kurum_notu: kurum fotoğrafı önbellekten
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalya-buyuksehir-belediyesi-duyurdu-antalyada-8-mahallede-9-saatlik-su-kesintisi-yasanacak
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya Büyükşehir Belediyesi tarafından yapılan açıklamaya göre, Kemer ilçesindeki Arslanbucak Mahallesi Çamarası Caddesi'nde yeni imal edilen içme suyu hatlarının bağlantı işlemleri gerçekleştirilecek. Bu altyapı çalışmaları dolayısıyla 3 Kasım Salı günü Kemer genelinde planlı bir su kesintisi hayata geçirilecek.
 
