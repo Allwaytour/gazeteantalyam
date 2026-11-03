@@ -2,36 +2,36 @@
 title: Türk saat sektörü 2027 sezonu için Antalya’da buluştu
 date: '2026-11-02T16:23:58+03:00'
 ozet: Sektör temsilcileri Antalya'daki buluşmada yeni sezon ürünlerini tanıttı ve pazar hedeflerini paylaştı.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolution_DSF3402-PSMS.jpg/1280px-Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolution_DSF3402-PSMS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Franz van Duns / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: stok
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolution_DSF3402-PSMS.jpg
+  fotografci: Franz van Duns
+  kredi: Franz van Duns / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: saat (temsilî fotoğraf, olayın kendisi değil)
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  gerekce: 'Commons dosya açıklamasında ''watch'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Saat sektörüne dair temsilî bir cep saati fotoğrafıdır.'
   surum: g8.1-2026-11-02
   konu_imza: 96ba3fa4b363
-  gorsel_url: /images/kategori/ekonomi.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolution_DSF3402-PSMS.jpg/1280px-Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolution_DSF3402-PSMS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:56:29+03:00'
-    yontem: konu ayrıştırılamadı
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-03T11:01:50+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
   kurum: k4
-  bekliyor: true
-  kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Susurluk İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

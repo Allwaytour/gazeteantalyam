@@ -19,20 +19,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: 0d7ea058a14d
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:58:32+03:00'
-    yontem: konu ayrıştırılamadı
+    sonuc: aday yok
+    tarih: '2026-11-03T11:03:07+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
-  bekliyor: true
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    kod: kimlik_eslesmedi
+    aciklama: '''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

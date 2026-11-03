@@ -19,21 +19,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: 225317034f45
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:30:11+03:00'
-    yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    sonuc: aday yok
+    tarih: '2026-11-03T11:01:55+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
-  bekliyor: true
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+    kod: kimlik_eslesmedi
+    aciklama: '''Cansu Keller'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/serikte-siyasi-tablo-bir-kez-daha-degisti-bagimsiz-meclis-uyesi-ak-partiye-gecti
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya’nın Serik ilçesinde belediye meclisindeki siyasi dengeler yeniden şekillendi. Geçtiğimiz aylarda yaşanan parti değişimlerinin ardından, yerel yönetimde yeni bir katılım gerçekleşti.
 

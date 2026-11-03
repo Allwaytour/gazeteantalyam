@@ -19,20 +19,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: d0da615c732f
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:57:18+03:00'
-    yontem: konu ayrıştırılamadı
+    sonuc: aday yok
+    tarih: '2026-11-03T11:01:59+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
-  bekliyor: true
+  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; T.C. KASTAMONU BELEDİYESİ Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    kod: kimlik_eslesmedi
+    aciklama: '''Fatma Hortkumaş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

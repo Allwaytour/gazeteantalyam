@@ -18,20 +18,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: dc4fb21d02d8
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:58:57+03:00'
-    yontem: konu ayrıştırılamadı
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-03T11:03:51+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
   kurum: k4
-  bekliyor: true
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

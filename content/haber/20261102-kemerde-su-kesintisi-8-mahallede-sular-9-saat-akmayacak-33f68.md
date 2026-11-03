@@ -2,38 +2,37 @@
 title: 'Kemer''de Su Kesintisi: 8 Mahallede Sular 9 Saat Akmayacak'
 date: '2026-11-02T19:30:40+03:00'
 ozet: Kemer ilçesinde yürütülen içme suyu hattı çalışmaları nedeniyle 3 Kasım Salı günü 8 mahallede uzun süreli su kesintisi uygulanacak.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kemer_-_panoramio_%2832%29.jpg/1280px-Kemer_-_panoramio_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Tanya Dedyukhina / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Yaşam
 ilceler:
 - Kemer
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kemer_-_panoramio_(32).jpg
+  fotografci: Tanya Dedyukhina
+  kredi: Tanya Dedyukhina / Wikimedia Commons (CC BY 3.0)
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Kemer
   cekim_yili: ''
-  gerekce: Adaylar görsel kontrolden geçirilemedi (Gemini kotası doldu (429)); kontrol edilmemiş fotoğraf kullanılmadı.
+  gerekce: 'dosya kaydında yer (''Kemer'') ve konu ipucu (water pipe, infrastructure works) birlikte geçiyor; görsel kontrol: Kemer ilçesini gösteren arşiv fotoğrafı, altyapı ve çevre düzenlemesi bağlamında habere uygundur.'
   surum: g8.1-2026-11-02
   konu_imza: a5a7759bf9af
-  gorsel_url: /images/kategori/yasam.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kemer_-_panoramio_%2832%29.jpg/1280px-Kemer_-_panoramio_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-03T00:34:13+03:00'
-    yontem: Gemini görsel kontrol
-    neden: Gemini kotası doldu (429)
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-03T11:04:47+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  aciklama: Kemer — Arşiv fotoğrafı
+  alt_tur: yer_konu
   kurum: k4
-  bekliyor: true
-  kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: Gemini kotası doldu (429)
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/gundem/kemerde-yarin-sular-kesiliyor-peki-su-kesintisi-hangi-mahalleleri-vuracak/388528
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya Büyükşehir Belediyesi, Kemer'de gerçekleştirilecek içme suyu hattı bağlantı çalışmaları dolayısıyla su kesintisine gidileceğini bildirdi. Yapılan açıklamada, ilçede sürdürülen altyapı projeleri kapsamında geçici su kesintisi yapılmasının zorunlu hale geldiği aktarıldı.
 
