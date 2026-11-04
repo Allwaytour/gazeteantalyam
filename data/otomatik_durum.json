@@ -1,82 +1,7 @@
 {
  "gun": "2026-11-04",
- "yz_bugun": 147,
+ "yz_bugun": 150,
  "gorulen": [
-  {
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGRrVGwxWmdDTHpjVHFnTnM5NFMtVzBacnVPbnRTRG8tZDFmTm9PQ0V2dkM2OVhEdzNLS2dwZzA4MFVBYnBNZi1nZzJ2WUkxZXVoZ1c1UEVWUHQ3bjRNZVEwRDlsZC12UHktSDFwTXp3UVVYemhZSw?oc=5#yz",
-   "baslik": "Antalya'da kültür, sanat ve belediye faaliyetlerinden öne çıkanlar",
-   "ts": 1793481357
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWFLeGRDZ2JiRkNrT2Jmc0pmWDZQdldPbkxpclotVGpIWnhrNE9oZnpWWXJyYmlHTmRBejcyaFBqcnZRQUFxNktYd0lpNzg3SHdiRWRabUpBeGQzMmx0Qmt6eFNvdF9RVGJyaUxMcDlSRHRiZGV3Q0tBN003bmVNeElCaks?oc=5",
-   "baslik": "Bursaspor'un hocasından flaş açıklamalar",
-   "ts": 1793481357
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlpjMy1mSUxPdGVPNFA1VTU4NlZhZkJ5dVc3NTdDUEI4SWFkakw2OTVtbF82elZjaWlOS2N0QlowS29ub25qOXhpNnNOWEQ3TFNwVlJOanA2SFRrTG5hdm8yS090NGR3TzZZXzRQdV9Ga1k1SjN4ZVE4Q1l2dUpCU01KMW5zei0wTkdzYXV5QjI1MXRmV0w4YllKLWdFS3FC?oc=5",
-   "baslik": "BTP Antalya İl Başkanlığı'ndan dernek ve esnaf ziyaretleri",
-   "ts": 1793481357
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWHNoSDh5X2dUMW5CTlpsTWtfZUxUY0R0SjJtTGhLYTktaGRNdDc4cDA2bndmakhLandSLW9Tajl3ZVVZdHRwRHhXY2tmR2lfX0VwRXZuQWctQmZCSTBXMXNYeVM0WFctbDIyWG5SaFpiNFpPY0V2Y0ViWFotZjA?oc=5",
-   "baslik": "\"Ligde artık sağlam bir Göztepe var\"",
-   "ts": 1793481357
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGY4bzNQd2I2eEtMODZ3R0JneDBxSFcySFR6NUdsZ2NmZDA1Wi1jOWMxNDlkakp5YkRYaVV1bFpvVWFTTUh0YnFHbDVENk1RWklaeEQyRzNLSjdKLXI5XzFWQmVkRUltV1VCTXc0QXg5d1N2WVlnb2dtdDg5R1FjSEVFUHpIakc4QXRDbDh0RTR3ZVE?oc=5",
-   "baslik": "Altın Portakal'da ünlüler kırmızı halıda buluştu",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0lodXo3blJFNmlZRlFtZFZzN1JPMVpqalJFOV9TSy1qV0FQSktSTFBoMlNDaFRRZWhkLVVKYkZiSkk3bF9EZjVaR3pfMm03Z3ZsUzNLSWlVbU1MRzRjdU5OaGI3VnVBamN2LWlfOWo2Wlh3bFBSX0NWRWgtOHhzcWJETmh2a3ZVckNV?oc=5",
-   "baslik": "Antalyaspor'da Galatasaray maçı hazırlıkları",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORktQMTR2a0xOREFRdGhlZWw5emI2ZzhvN1FCbXFqUWlLOHk3SllWdDN1R0tHMzJDNlJSekwzaC1MVXZxS3U2aGNuYmFYV1F6VEZkUzgyc0pvUnVUMDZTVkNUZ2Q3Q1BzanY0djNDQmFHNllvX2h4ZDNQOWpRVnN6UWxMUEdkZi00OHFjb00tSQ?oc=5",
-   "baslik": "Antalya Kültür Yolu Festivali 440 Etkinlikle Başladı",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RNmJlaDdIQ0ZGbGVFc1pyYUs5ckhNcDI4TW9HTmVCMGsxSmlWcEQ5V3lQNnJHeUpnS3FMS2xKYnNJeVRxc0RKQmZSelI1Y05TUUt3Z2prQ3dlb3FtaENKZlVGOU5IOWFoRVFLR0c1cEIyQ0ZVakR2Zm5QZG3SAX9BVV95cUxNeHM3MmU4bWloQ19ZX1M3U1NNTzVDdV9RQm9XekZYajZQTlBDMWY0Ulp5MlpBVDhla0RPZ25FdTAyT0dpbzl5UE5KMU5ZZ3JGSVN4T0Ywc21OQXA0SHQ1LUNUQUtuX2tKTk56Rng5VUxnSVJwQWZZdFVGMU9tVGM0?oc=5",
-   "baslik": "Alanya'da sahillerde yoğunluk",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXpjQlZFUnZGd3lIaFlkMFZ6Rnl2MlVseTVuX2dFV29fYzA4TmFlZ0lJd3gydFJKSVUxWE9yeE9NNVZKa0dnaU9sU0tVbmxkQ3RfbkpzdndKa3B6WU1lMFdUR2hYaUZFcUV0SlF4cUlPYTJEcFZfNS1lQ0NvRUlEWXZLWFF3Nk5Jb0xZVFFGbEVESVpkZ3hOdjZTM1pQWkNFYnJqQzgxMjhLM0nSAa4BQVVfeXFMUFRFQ3ByeTZ1VmxRa3pRbXU2YTNnV2NVQ2ZUbGxjNEdyckFIQnRrWEZxcnlNdXJiNy12WUphWGVSSnotLUMwWjNIRm1xZXN3Z05qQlpvTWtzTTJ0LWxLMVgzbXVNUFdlemkza3dhRVdrbkxNdlB6akVkVjJsZi1CaFZ1OXAyRmZmSEowb2c3c2luamJ4T3A1M0lYQnVldFQyQVBPVkIyRXBSY0hBMVJ3?oc=5",
-   "baslik": "Antalya EXPO alanı Türkiye’nin en büyük fuar ve kongre merkezi oluyor",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjdfamJYS3RHcm1ZeGFfTmJidG9laXZROUZ0UWY3eUwyVUtXSElaMzUzUWJESlVUUnpZVDUtN2pTTGFfanJZMUFKaVREQkVFN25BbWR2NDAtTFVJdG5wVUllODBtLTY5T2RsYUpDQUlONjNtYmxEX1JZMEFMS1lrQ1YxYk9HRl9CR1hmM3JEdWR3WGoycy1kWExhTzgwLUJHVHZrSFFBcFUzQQ?oc=5",
-   "baslik": "Antalya Haberleri - Antalya’da 786 okul geçit görevlisine yönelik eğitim - Yerel Haberler",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2kwX0MxTVgzOElWVlAySktJdXdIM0o3OFFCRGJ4MHhRa3ozanh3RUMxOXkxa2E3ZFlfX2RyQm5YRFFTRk9iN1hLSGJybXgxQVJidE5wM3huM0V1OU9ZcUFTalJkeDFabHVKdDFERWhpQk9nd20yTktLNnYyMlpTYmQ1cHJBT3Z4VXozdXhoa2hsZWVpZHVPc1dyZ2xtbENYT0s0?oc=5",
-   "baslik": "Antalya'da 5 İlçeden 786 Okul Geçit Görevlisine Eğitim",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVRib3BNR2pSR3BzR285b1FMTjJfeHJpS3lYSUhtUVlNblBOVWZETFFQZ2ZPMmtGV0p2SmZwWDZXNEYxbEpvU0ExdnBCTkdxT3VzRHgzUVRXejN3cnExdEVsTGs3UVJMUlhOaFptUVVwckQyYng3cERWLW9pd3U1bg?oc=5",
-   "baslik": "Antalyaspor Fenerbahçe maçına hazır",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQejAzTW45TFZ6RUNlSWJfZDBVNVJlOWpKdWx3UE9vRjJudHN5ZmRwbmtIMjhhN3ZiNnhOSzJOTjc2WHh6UXd3bGw0Skk2M1lYcU5DRklIRk1ENGh5aV9WQ1Ewa2s0eXQ3MmpxcjFNS1hLZmZUcHpFaVJ1YWEyTE11UFJPckpNcllUa0tfWjVKOVJsZVVrcXA0U3U3ZUZLOXFQSkE?oc=5",
-   "baslik": "Antalya Havalimanı’nda iniş trafiğinde yoğunluk: Uçaklar havada tur atıyor",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVW9RU01aelRiUFExMlV4TlBmWktCd0Zkc3FKQS00X0c3NFN6bkFTbnVjaDBKOG41R2ZkQ3BNYzQxQ09NNW5oUDFpMmtYX2tiS3JFdkFIV29NV0hFcTg4ckpwTzhodDNfNUhuZDFja3NOMUc4bEp3M0xtRG00azR6bVdzZzZGaTljZHU0b1BLWUJTLTJw?oc=5",
-   "baslik": "Kyrenia SUP Spor Derneği’nden Antalya’da derece",
-   "ts": 1793481611
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjNONzRQNXpCRnl1TkVBVTRrdElSLW1sOW1DMmtLYU5JWllIUnV4T3NUX2dCbDFRcFRxRXI3NVVWUHY4SDAzaGFBU3AtMzJ0ZHVKOFAxQVlheUNJOUNNQ0otTWdqVHdvR3RuZHZjMEY5elFoOG00eDM0QVQ5M1Y4SjBERVNFWURyWkNheE9aRXpyVVAxMXJ3?oc=5",
-   "baslik": "Fuhuş çetesinden 977 milyonluk trafik: Antalya dahil 10 ile baskın",
-   "ts": 1793481611
-  },
   {
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHBsNmRuQVVQUkhabmZ6T1liWElkcGl5eG8zMVluZnI5bUcwNXVxb1dPZlBVSHRPN1dIOWpXb2d0VDVEajByWW1uNEdGUXIzbVVRRGd1N3dEVWNvN2xYR3ZKWFpGRmF5RzEtdWZkWmVPdGN3TENkcDdNMDdub1ZUX2R0WlRuOTQtMENjbEliYlp4QQ?oc=5",
    "baslik": "Alanya Belediyesi’nin kırsal mahallelere desteği sürüyor",
@@ -15001,12 +14926,87 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjRnMDZFdjViQjVwVWp4Z0JGcWxydVU2OG1fR3FYaXBJRERpa1RhMHRKSDNOWFZWOE1lUlNSRWR5S0JsQnRVRjNjUThPTHcyYzN5OFVUNU8ySkR3UDNleTNvRlFjd0lGZXdUaHJ0RjJ1TnI3UFI4cHUyaER6Mmh3TkZVTlQwUDk1N0V1a3FiM1Jvb0EtWmxyRWo2ZnNMamhLdllfOXZGNFp0LUZUbldMMmE3S1JFUmFmUk9j?oc=5",
    "baslik": "Türkiye'de 30 Bin Hasta Şifa Bekliyor: Antalya'dan Organ Bağışı İçin Çağrı",
    "ts": 1793811379
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05YnpFUWxldGdWQzI0Q01rOW1xREh5eFBjV1Z1RlU1YVNsdWFUVTF5RlRLbGxpOVBoTzdQOFdIenkzZjBZclJMZUpXNV9MemNMXzBIdEZyRTRVeVhKbzN5dTNTM2JQYkV0emkzVmRn?oc=5",
+   "baslik": "Antalya'da seramik sergisi",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUVVMHNXQ0gyNTdHamU3Wmt6VmxINTFCU0w4SlBYNlRwSU5McUZNYWd5UTV1dzhxM0Z3UVdIdTgxaFNSYko4anpLbmxyaEU5TkQ0WHZaaTBjaGk4ZGF4X3A0ZlpkcFhvRjB0SUpBYnJpclZGMlN1bXotaWZiTU80TmhtWXNnT1pId2J1SU1PT2VnOXVJRko4b044MzZHQlZUQXpjWGw1X0FZTGR0Rklz?oc=5",
+   "baslik": "Antalya'daki COP31 Zirvesi Öncesi DSÖ'den Sağlık ve İklim Raporu",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjVOd1RkSTZBVVdzYUsyZHd4cU1kOFJkeHZFb2ZVeUtkSGJDY3FoVUpwVlVMOGhFY2J6V3lKWWtjSks3R0ZDTnVTbmxpX1BYV1NIaDZzLW5ULXdhYlhDWGFESjVDUF9zeFg5VjBzVVVCTjRjdFk0NE5qZ19YQnpMX1p5LTJPNnpPNFlPZm9RZWI0MjdhaDI5d2hsaldKd2JBSHpYVHVTVGV3MzNkR2hEcEdoYXJnNnRMMnN5YW56c3pUdmF6LTBHWWQ2czM4dVFNQ0k3UUt1Zkt6RDg?oc=5",
+   "baslik": "Antalya’da 11-12 Kasım 2026’da okullar tatil mi? Kimler idari izinli? 7 ilçede uzaktan eğitim kararı | Özgün Haberler",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUhOcTRyM0tJVEkyM1M0ZWtZYm1DVXZzWkxSTmxKV25JNmV5T1JpbHJ6V2V4SDA1THN6TkNpSkNNZ01RSk1sTXh3OENDZ2VpMTB2LTlGb3JXSXhZQ1pqVl9hM1JxVTF6NUhYa2lObHRRSDkxU01tSFNnNzN0YW5ObTBPelJvU25WVkRwS3V4eHZ4YW1pd2twNmdTQ2RmazdlOGdtWU5ZMEFHOEpLeFBTUlhFOEV1NG94QlRR0gG-AUFVX3lxTE41YXJzeEdRQ1ZkalVGTTVXUDhYbnA2UTF5OUV6Xy1NWGJYWFpJYXc5WFJfZ0Z1N2JxWS1LdXZyMDF2ZDJWNWZKMjZFeERaUFplQkhoa0RhdDAwVEZHUmxUSlpSNUpoUm9ZOEszY3RWQ0ppUWtaTUZ6ZTR2czB3OFlma2lOU1RBYXRTYUwyX1BPUnNXRDJBS1ZHNWtaZVVtVjMxQm95d1dMdS1GSUZvM083em12cWdnVjJNb2txQVE?oc=5",
+   "baslik": "Antalya'da kendilerini MİT görevlisi olarak tanıtan dolandırıcılar yakalandı",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQeWNEYVBmOXhYQ1p3RUhqTTV0VGZKYVFkT1VIYzc2cUlNTW9JdU5xVHZkZHpkY3VxOEtsMF9GM0xEUzROYldvRjF5WGt3VzdicDlHZXA4Y1BNY2ttNFIyTzN4U05UdnhJemJRQXh3RU94MjZDdHBEbndWUzA?oc=5",
+   "baslik": "CHP Alanya’dan Emniyet Müdürü Özgönül’e ziyaret",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1YSUM4U1FtbmZ3Qk5SNmprcmlHd0RYTXZNYWg4c0hVYlJ0WVhvYm5ydUQ5eHdsYS1uRV9zVzRxc19ER3puREJMQU1aRGpWRnBMTHRsUkZsZ3U5dEtINGpHUEFzMEpwdm80bUdoOEcwZUtuNlktNkIyNGhONzVKQno5MWZkcVHSAYcBQVVfeXFMTnlNWElDOFNRbW5md0JOUjZqa3JpR3dEWE12TWFoOHNIVWJSdFlYb2JucnVEOXh3bGEtbkVfc1c0cXNfREd6bkRCTEFNWkRqVkZwTEx0bFJGbGd1OXRLSDRqR1BBczBKcHZvNG1HaDhHMGVLbjZZLTZCMjRoTjc1SkJ6OTFmZHFR?oc=5",
+   "baslik": "Alanya’da sağanak yağış etkili oldu",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MWVV1RVBZR1A3Tk5lN0psVzE1b2FHM3ZtVWgzU1E2X01FQldXSjdaX0puRzZVYU9KNkRrWTJ5WUoyZS0tbzFfQ0ljTktoLXN1cFBmakhveG14VnlaMTdXc1BJWHoxWkVBcjRFSA?oc=5",
+   "baslik": "Alanya'da sağanak seraları vurdu",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkF1UzZIWkpzdzJLMk5fOHJiZVN2bTJUNGFGeUkzUTNwYWhWWGFDX2lkbXIxYnYzYTNTVFJPSjZveVV1N005SnlDNzlmMVJjMGhGX1dvRFplazJPMmVvUW1DZEdKOWJ0RzVXNENXcm5sRkE2NW9TVGxMTHN6SmJMdGt1RWtaYTFWd0RETg?oc=5",
+   "baslik": "Manavgat'ta Zeytin ve Zeytinyağı Festivali Başlıyor",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2tnaVREaFZscEpna1ZrYi1GM2Vya3ZTT2lLUTI1QndYRnJyS3o4VE1ybWdDbnlQZmhzS0d2NEQ0VUg5eHlQZ29EOEdrajEyRDNydzNmRmtxY2oxcTVwZnZWdVJENFF3VDBIVDlkSmhJTldmMGlyU1RSVzZRNi1zcGEyc2o5eFE0VDEyWnBGME9nSlJfcUM4?oc=5",
+   "baslik": "Hakan Özmert kimdir? Hakan Özmert kaç yaşında, hangi takımlarda oynadı?",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakN4enM3b0VYNTZHeHN6SDJiOTZKeUNnajBhdU1CQnNlcS1ObnJUdjdJOFdaMm9Cd21rc2lfSWpNTFQ1b25QRF9xaFBPLVRXNWhFY0dHRzhLcXNYS29MMnBZdjZXQ1BBVnJaZHozd2N6NVFiQ25KbTBXcHZpSEE4UWQyRGRfUXFMVVBMd2xSNUFPa3pMQ2FWLS1MblNtVGJIb1haVkttUFg2SXJuTG0yMlBDMzROeVZC?oc=5",
+   "baslik": "Sarıgül Soruşturmasında Antalya Bağlantısı: Emir Sarıgül Serbest Kaldı",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakN4enM3b0VYNTZHeHN6SDJiOTZKeUNnajBhdU1CQnNlcS1ObnJUdjdJOFdaMm9Cd21rc2lfSWpNTFQ1b25QRF9xaFBPLVRXNWhFY0dHRzhLcXNYS29MMnBZdjZXQ1BBVnJaZHozd2N6NVFiQ25KbTBXcHZpSEE4UWQyRGRfUXFMVVBMd2xSNUFPa3pMQ2FWLS1MblNtVGJIb1haVkttUFg2SXJuTG0yMlBDMzROeVZC?oc=5#yz",
+   "baslik": "Sarigul Soruşturmasında Antalya Baglantisi: Emir Sarigul Serbest Birakildi",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmxsYWFPeURKQ1NTM1RXbFp5OHpEMXM2QkNOekdSaWNRMWxlbGVGb2FYV2xKUGl2aktHNk9xSnBFS2tEZkQtRDJpNGhQMzJoNkN1VXNuUWlTdHVJU2w0Smp0dHRxNmZ3VU01a2ZxQjZZcEhjbWlIZS1mc0tWY0VRQUktRkpxejcwWDJRbU1XQnJEOC16ZGc?oc=5",
+   "baslik": "Antalya'da 44 ülkeden iklim hareketleri buluşacak",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmxsYWFPeURKQ1NTM1RXbFp5OHpEMXM2QkNOekdSaWNRMWxlbGVGb2FYV2xKUGl2aktHNk9xSnBFS2tEZkQtRDJpNGhQMzJoNkN1VXNuUWlTdHVJU2w0Smp0dHRxNmZ3VU01a2ZxQjZZcEhjbWlIZS1mc0tWY0VRQUktRkpxejcwWDJRbU1XQnJEOC16ZGc?oc=5#yz",
+   "baslik": "Antalya 44 ülkeden iklim hareketlerini ağırlayacak",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVVwWHVySmhMaklWNjNYWEYydk10RDVCQmY2VHQ2SFJScU5KNS1yREE3YTUwWkMtYjRyLVlwNF9VV01FVTlBRkxRYWZQQ2k5bXJoSy1rQ3dXWHNDdU5jMDI4ck1zZTFiYzl3TU5OczlpUGlnSExhd0diSElkYnhzbGE0UXlweUtEb0Qw?oc=5",
+   "baslik": "İYİ Parti’den çağrı “Alanya’nın il olma hakkını teslim edin”",
+   "ts": 1793814265
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVVwWHVySmhMaklWNjNYWEYydk10RDVCQmY2VHQ2SFJScU5KNS1yREE3YTUwWkMtYjRyLVlwNF9VV01FVTlBRkxRYWZQQ2k5bXJoSy1rQ3dXWHNDdU5jMDI4ck1zZTFiYzl3TU5OczlpUGlnSExhd0diSElkYnhzbGE0UXlweUtEb0Qw?oc=5#yz",
+   "baslik": "İyi Parti'den Alanya çağrısı: İl olma hakkını teslim edin",
+   "ts": 1793814265
   }
  ],
- "son_calisma": "2026-11-04T19:59:10.646780+03:00",
+ "son_calisma": "2026-11-04T20:50:58.148628+03:00",
  "gorsel": {
   "gun": "2026-11-04",
-  "yz_bugun": 52,
+  "yz_bugun": 54,
   "onbellek": {
    "konu:21ec80a008b4": {
     "konu": {
@@ -18656,6 +18656,92 @@
     "benzerlik": 7,
     "tek": false,
     "iliski": 8,
+    "s": "g8.1-2026-11-02"
+   },
+   "konu:b5946cab2bd8": {
+    "konu": {
+     "ana_olay": "İyi Parti Antalya İl Başkanı Ali Adnan Kaya ve beraberindeki heyet, ATSO Başkanı seçilen Berkay Bahar'ı tebrik ziyaretinde bulundu.",
+     "odak": "kisi",
+     "kisiler": [
+      "Ali Adnan Kaya",
+      "Berkay Bahar"
+     ],
+     "kurumlar": [
+      "İyi Parti Antalya",
+      "Antalya Ticaret ve Sanayi Odası"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Antalya Ticaret ve Sanayi Odası",
+       "ad_en": "Antalya Chamber of Commerce and Industry",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Ali Adnan Kaya",
+       "rol": "İyi Parti Antalya İl Başkanı / İYI Party Antalya Provincial President",
+       "kamusal": true,
+       "hassas_rol": ""
+      },
+      {
+       "ad": "Berkay Bahar",
+       "rol": "ATSO Başkanı / ATSO President",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kisi",
+      "ad": "Berkay Bahar",
+      "ad_en": "Berkay Bahar"
+     },
+     "etkinlik": {
+      "tur": "ziyaret",
+      "anahtar_tr": [
+       "ziyaret",
+       "tebrik",
+       "görüşme"
+      ],
+      "anahtar_en": [
+       "visit",
+       "congratulations",
+       "meeting"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya Ticaret ve Sanayi Odası",
+      "ad_en": "Antalya Chamber of Commerce and Industry"
+     },
+     "ne": {
+      "ad": "tebrik ziyareti",
+      "ad_en": "congratulatory visit"
+     },
+     "gorsel_ipucu_en": [
+      "meeting room",
+      "handshake",
+      "business meeting"
+     ],
+     "alternatif_sorgular_en": [
+      "chamber of commerce meeting Turkey",
+      "official visit Turkey",
+      "business delegation meeting"
+     ]
+    },
+    "t": "2026-11-04T20:50:03+03:00",
+    "s": "g8.1-2026-11-02"
+   },
+   "cd6690bc2bfa": {
+    "karar": "red",
+    "gerekce": "haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Fotoğraf Antalya Ticaret ve Sanayi Odası binasını göstermektedir, arşiv görseli olarak uygundur.",
+    "t": "2026-11-04T20:50:56+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "iliski": 5,
     "s": "g8.1-2026-11-02"
    }
   },
