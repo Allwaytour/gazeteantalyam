@@ -19,21 +19,19 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Adaylar görsel kontrolden geçirilemedi (bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)); kontrol edilmemiş fotoğraf kullanılmadı.'
+  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g8.1-2026-11-02
   konu_imza: 48a0239de320
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-04T20:44:52+03:00'
-    yontem: Gemini görsel kontrol
-    neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
+    sonuc: aday yok
+    tarih: '2026-11-04T23:56:55+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
-  bekliyor: true
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
+    kod: kimlik_eslesmedi
+    aciklama: '''Emir Sarıgül'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +39,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/sarigul-sorusturmasinda-antalya-baglantisi-emir-sarigul-serbest-kaldi/388657
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Mustafa Sarıgül ile ailesine yönelik yürütülen soruşturmada yeni adımlar atıldı. Gözaltına alınan isimler arasında yer alan Mustafa Sarıgül’ün oğlu Emir Sarıgül, etkin pişmanlık hükümlerinden faydalandı. Emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edilen Emir Sarıgül hakkında mahkemece ev hapsi kararı verilerek tahliyesi gerçekleştirildi. Öte yandan Mustafa Sarıgül’ün geçtiğimiz hafta savcılığa ek ifade verdiği kaydedildi.
 
