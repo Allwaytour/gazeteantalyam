@@ -1393,6 +1393,7 @@ ESANLAM = {"gasoline": {"gas", "petrol", "fuel"}, "petrol": {"gas", "gasoline", 
 
 
 STOK_GENEL = set("fight fighting match game championship competition tournament pump station sign price photo picture image ring people "
+                 "event events festival workshop activity activities kids children child "
                  "men women man woman training facility field building street view close up closeup detail scene the of and in at with "
                  "a an for on".split())
 
@@ -1434,7 +1435,8 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
     konu_ad = (konu.get("ne") or {}).get("ad") or oz.get("ad") or sorgular[0]
     # Çekirdek terim: konunun ilk (en somut) sorgusundaki özgül kelimeler (ör. "LPG", "muay thai"). Alternatif sorgular genelleşse de
     # ("fuel station") her aday kendi kaydında bu terimi taşımalı; yoksa LPG haberine benzin pompası gelir.
-    cekirdek = " ".join(w for w in kelimeler((kg.get("sorgular_en") or sorgular)[0]) if w not in STOK_GENEL)
+    # (yalnızca ilk özgül kelime zorunlu: "lpg", "muay", "gasoline"; diğerleri sorgunun kendi eşleşmesine bırakılır)
+    cekirdek = " ".join([w for w in kelimeler((kg.get("sorgular_en") or sorgular)[0]) if w not in STOK_GENEL][:1])
     gorulen = set(gorulen)
     commons = kaynak_izni(bag.izinler, "https://commons.wikimedia.org/")
     us = kaynak_izni(bag.izinler, "https://unsplash.com/")
@@ -1679,7 +1681,7 @@ def eski_gecerli(eski, konu, haber):
         kg = konu_gorseli(konu)
         if not kg.get("uygun"):
             return False
-        cekirdek = " ".join(w for w in kelimeler((kg.get("sorgular_en") or [""])[0]) if w not in STOK_GENEL)
+        cekirdek = " ".join([w for w in kelimeler((kg.get("sorgular_en") or [""])[0]) if w not in STOK_GENEL][:1])
         kaynak = unquote(s.get("kaynak_sayfa") or "").replace("-", " ").replace("_", " ") + " " + (s.get("kaynak_aciklama") or "")
         return not cekirdek or stok_metni_uygun(cekirdek, kaynak)
     if alt == "yer_konu":
