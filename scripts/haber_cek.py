@@ -352,9 +352,113 @@ def yz_yaz(h, kaynak_metin):
 
 
 # ----------------------------------------------------------------- yazma
-def md_yaz(h, yz, kaynak_url, secim):
+# ----------------------------------------------------------------- başlık ve etiketler
+# Kaynaktan TAMAMI BÜYÜK HARFLE gelen başlıklar sitenin başlık yazımına (her kelimenin ilk harfi büyük) çevrilir.
+KISALTMALAR = set("""TL ABD AB AK CHP MHP DEM TBMM TFF KKTC ÇED TOKİ SGK DSİ ATSO ALTSO ATB ATİB TÜRSAK BAİB AKUT AFAD UEFA FIFA NATO BM
+AA İHA DHA TRT PTT TCDD YKS LGS KPSS ALES ÖSYM MEB TÜİK TÜBİTAK KDV ÖTV LPG CNG AVM OSB GES HES COP COP31 ASAT MTA TEMA TSK MİT EGM
+HSK YSK TÜSİAD MÜSİAD TOBB TESK KOAH MR BT AŞ FK SK BB İŞKUR KOSGEB TMMOB TTB TDK AKM ATM SMS GSM PKK FETÖ DEAŞ IŞİD
+İYİ ODTÜ İTÜ YTÜ ALKÜ AÜ AKÜ EXPO NBA FIBA EHF TVF THF TBF UNESCO WHO UNICEF FAO IMF OECD G20""".split())
+KUCUK_KALAN = {"ve", "ile", "ya", "veya", "de", "da", "ki", "mi", "mı", "mu", "mü"}
+
+
+def _tr_kucuk(s):
+    return s.replace("I", "ı").replace("İ", "i").lower()
+
+
+def _tr_buyuk_ilk(s):
+    if not s:
+        return s
+    ilk = {"i": "İ", "ı": "I"}.get(s[0], s[0].upper())
+    return ilk + s[1:]
+
+
+def _kelime_duzelt(k, ilk):
+    on = re.match(r"^[^\wÇĞİÖŞÜçğıöşü]*", k).group(0)
+    son = re.search(r"[^\wÇĞİÖŞÜçğıöşü.]*$", k[len(on):]).group(0)
+    govde = k[len(on):len(k) - len(son)] if son else k[len(on):]
+    if not govde:
+        return k
+    if "-" in govde and not re.search(r"\d", govde):
+        return on + "-".join(_kelime_duzelt(p, True) for p in govde.split("-")) + son
+    parca = re.split(r"(['’])", govde, maxsplit=1)
+    kok, ayrac, ek = (parca + ["", ""])[:3]
+    if kok in KISALTMALAR or kok.rstrip(".") in KISALTMALAR or (re.search(r"\d", kok) and re.search(r"[A-ZÇĞİÖŞÜ]", kok)):
+        yeni = kok
+    elif not ilk and _tr_kucuk(kok) in KUCUK_KALAN:
+        yeni = _tr_kucuk(kok)
+    else:
+        yeni = _tr_buyuk_ilk(_tr_kucuk(kok))
+    return on + yeni + ayrac + _tr_kucuk(ek) + son
+
+
+def baslik_duzelt(baslik):
+    """'ALANYA'DA MUTFAK TÜPÜNE ZAM: FİYAT 1.855 TL'YE YÜKSELDİ' → 'Alanya'da Mutfak Tüpüne Zam: Fiyat 1.855 TL'ye Yükseldi'.
+    Yalnızca harflerinin çoğu büyük olan başlıklar değiştirilir; kısaltmalar (TL, CHP, COP31…) korunur."""
+    harf = [c for c in baslik if c.isalpha()]
+    if len(harf) < 8 or sum(c.isupper() for c in harf) / len(harf) < 0.8:
+        return baslik
+    kelimeler = baslik.split(" ")
+    return " ".join(_kelime_duzelt(k, i == 0 or kelimeler[i - 1].endswith((":", "!", "?", "."))) for i, k in enumerate(kelimeler))
+
+
+GENEL_ETIKET = {"antalya", "türkiye", "turkiye", "belediye", "valilik", "polis", "jandarma", "hastane", "okul"}
+
+
+def etiketler_cikar(konu):
+    """Haberin kişi ve kurum etiketleri: kamuoyunca tanınan ana kişiler, kurumlar ve ana özne (takım/kurum); en çok 5.
+    Hassas haberlerde yalnızca kamusal kişiler ve kurumlar etiketlenir (özel kişiler etiketlenmez)."""
+    if not isinstance(konu, dict):
+        return []
+    adlar = [k.get("ad", "") for k in konu.get("ana_kisiler") or [] if isinstance(k, dict) and k.get("kamusal") and not k.get("hassas_rol")]
+    oz = konu.get("ana_ozne") or {}
+    if oz.get("tur") in ("takim", "kurum"):
+        adlar.append(oz.get("ad", ""))
+    adlar += list(konu.get("kurumlar") or [])[:3]
+    sonuc, gorulen = [], set()
+    for a in adlar:
+        a = re.sub(r"\s+", " ", str(a or "")).strip(" .,-")
+        k = _tr_kucuk(a)
+        if len(a) < 3 or len(a) > 60 or k in GENEL_ETIKET or k in gorulen:
+            continue
+        gorulen.add(k)
+        sonuc.append(a)
+    return sonuc[:5]
+
+
+def gecmis_haberleri_duzelt(bag):
+    """Bir kerelik ve tekrarlanabilir: büyük harfli eski başlıklar düzeltilir; etiketi olmayan haberlere, konu ayrıştırması
+    önbellekte varsa etiket eklenir. Metin, adres (URL), tarih ve görsel değişmez. Değişiklik yoksa dosyaya yazılmaz."""
+    duzeltilen = 0
+    for ad in sorted(os.listdir(HABER_KLASOR)):
+        yol = os.path.join(HABER_KLASOR, ad)
+        try:
+            v, govde = gs.md_oku(yol)
+        except Exception:
+            continue
+        if not v.get("otomatik"):
+            continue
+        degisti = False
+        if "etiketler" not in v:
+            ob = bag.onbellek_al("konu:" + gs.imza(gs.KURAL_SURUMU, v.get("title", ""), v.get("ozet", "")))
+            et = etiketler_cikar((ob or {}).get("konu"))
+            if et:
+                v["etiketler"] = et
+                degisti = True
+        yeni = baslik_duzelt(v.get("title", ""))
+        if yeni != v.get("title", ""):
+            v.setdefault("baslik_ozgun", v["title"])
+            v["title"] = yeni
+            degisti = True
+        if degisti:
+            gs.md_yaz(yol, v, govde)
+            duzeltilen += 1
+    if duzeltilen:
+        print(f"Başlığı/etiketi düzeltilen eski haber: {duzeltilen}")
+
+
+def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
     tarih = datetime.fromtimestamp(h["ts"], TR)
-    baslik = re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip()
+    baslik = baslik_duzelt(re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip())
     dosya = f"{tarih:%Y%m%d}-{slug(baslik, 60)}-{hashlib.md5(h['link'].encode()).hexdigest()[:5]}.md"
     on = {
         "title": baslik,
@@ -364,6 +468,7 @@ def md_yaz(h, yz, kaynak_url, secim):
         "gorsel_kredi": "",
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
+        "etiketler": list(etiketler or []),
         "manset": False,
         "son_dakika": False,
         "yazar": "Gazete Antalya",
@@ -397,6 +502,9 @@ def duzenle_eskiler():
 
 
 def eski_otomatikleri_sil(gun):
+    """gun <= 0: hiçbir haber silinmez (arşiv). Arama motorlarının dizine aldığı sayfalar kalıcı kalır."""
+    if gun <= 0:
+        return
     sinir = datetime.now(TR) - timedelta(days=gun)
     silinen = 0
     for ad in os.listdir(HABER_KLASOR):
@@ -547,7 +655,7 @@ def main():
                 print("   Konu ayrıştırılamadı:", e)
             secim, _ = gs.gorsel_sec(bag, hb, konu)
         print(f"   Görsel: {secim['tur']} – {secim['gerekce'][:100]}")
-        dosya = md_yaz(h, yz, url, secim)
+        dosya = md_yaz(h, yz, url, secim, etiketler_cikar(konu))
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
         gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
         if yz:
@@ -555,6 +663,10 @@ def main():
         yazilan += 1
 
     duzenle_eskiler()
+    try:
+        gecmis_haberleri_duzelt(bag)
+    except Exception as e:
+        print("Eski haber başlık/etiket düzeltmesi yapılamadı:", e)
     if GUNLUK_KOTA["bitti"]:
         bag.g["kota_bitti"] = gs.gemini_gunu()
 
@@ -573,7 +685,7 @@ def main():
     for k in cf[:-2500]:          # Commons dosya bilgisi önbelleği büyümesin (en eski kayıtlar silinir)
         arsiv.pop(k, None)
     json_yaz(ARSIV_DOSYA, arsiv)
-    eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
+    eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 0)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()
     durum["gorsel"]["kota_modeller"] = {"gun": gs.gemini_gunu(), "modeller": sorted(_biten)}
