@@ -640,7 +640,7 @@ def wikidata_varlik(bag, ad, insan=True, ipucu="", turler=None):
             deger = lambda p: [c.get("mainsnak", {}).get("datavalue", {}).get("value") for c in (e.get("claims", {}).get(p) or [])]
             adaylar.append({"qid": e["id"], "ad": ad, "aciklama": temiz(acik, 200), "p18": [x for x in deger("P18") if isinstance(x, str)],
                             "kategori": next((x for x in deger("P373") if isinstance(x, str)), ""),
-                            "mekan": guncel_mekan(e.get("claims", {}).get("P115") or [])})
+                            "mekan": guncel_mekan(e.get("claims", {}).get("P115") or []), "p31": [x for x in p31 if x]})
         tek_kelime = insan and len(hedef.split()) < 2
         if len(adaylar) == 1 and not tek_kelime:
             sonuc = adaylar[0]
@@ -1503,6 +1503,36 @@ TESIS_TURU = re.compile(r"(?i)stadium|stadyum|stadı|arena|airport|havaliman|hos
                         r"court|adliye|school|okul|terminal|station|istasyon|prison|cezaevi|factory|fabrika")
 
 
+def yerel_gorsel_kullaniliyor(url):
+    """/images/kurum/... dosyası herhangi bir haberin mevcut görseli ya da geri alma kaydında (gorsel_gecmis) geçiyor mu?
+    Geçiyorsa silinmez: aynı kurum fotoğrafı başka bir haberde onaylı kullanılıyor olabilir, eski görsel de geri alınabilir kalmalı."""
+    try:
+        for ad in os.listdir(HABER_KLASOR):
+            with open(os.path.join(HABER_KLASOR, ad), encoding="utf-8") as f:
+                if url in f.read():
+                    return True
+    except OSError:
+        return True
+    return False
+
+
+def yerel_gorsel_sil(url):
+    if url.startswith("/images/kurum/") and not yerel_gorsel_kullaniliyor(url):
+        try:
+            os.remove(os.path.join(KOK, "static", url.lstrip("/")))
+        except OSError:
+            pass
+
+
+def yerel_gorsel_eksik(url):
+    return bool(url) and url.startswith("/images/") and not url.startswith("/images/kategori/") \
+        and not os.path.exists(os.path.join(KOK, "static", url.lstrip("/")))
+
+
+# Ülke ve kıta düzeyindeki yerler: "Çin + doğal taş" gibi bir aramada ülkenin herhangi bir taşı haberdeki konu değildir.
+ULKE_TURLERI = {"Q6256", "Q3624078", "Q5107", "Q112099", "Q7275", "Q3336843"}
+
+
 def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
     """NEREDE + NE: haberin geçtiği yerde, konuyla doğrudan ilişkili alanın arşiv fotoğrafı
     (ör. Antalya Havalimanı + yakıt sızıntısı → apron/uçak; Alanya + otel doluluğu → oteller/otel bölgesi).
@@ -1536,6 +1566,9 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
     try:
         v = wikidata_varlik(bag, yer["ad"], insan=False, ipucu="Antalya") or (wikidata_varlik(bag, yer_en, insan=False, ipucu="Antalya")
                                                                               if yer_en != yer["ad"] else None)
+        if v and set(v.get("p31") or []) & ULKE_TURLERI:
+            notlar.append(f"'{yer['ad']}' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)")
+            return adaylar, notlar
         if v and v.get("kategori"):
             dosyalar += kategori_dosyalari(bag, v["kategori"], alt_kategori=6)
     except Exception as e:
@@ -1557,7 +1590,8 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
         metin = commons_metni(d)
         mk = {kok(w) for w in kelimeler(metin)}
         yer_tutar = ad_eslesir(yer["ad"], metin) or ad_eslesir(yer_en, metin)
-        if not yer_tutar or not (ip_kok & mk) or yasak_metin(konu, metin) or (not tesis_adi and TESIS_TURU.search(d["baslik"])):
+        # konu ipucu tek kelimeyle değil, ifadenin bütün özgül kelimeleriyle tutmalı ("natural stone" ≠ "tektite stone structure")
+        if not yer_tutar or not any(stok_metni_uygun(ip, metin) for ip in ipuclari) or yasak_metin(konu, metin) or (not tesis_adi and TESIS_TURU.search(d["baslik"])):
             continue
         if MAC_IPUCU.search(d["baslik"].replace("File:", "") + " " + d["aciklama"][:160]):
             continue              # belirli bir karşılaşmanın (A vs B) karesi başka takımları gösterir
@@ -1634,10 +1668,7 @@ def kurum_haber_adaylari(bag, konu, haber):
         kayit = kaynak_izni(bag.izinler, b["sayfa"])
         if not (kayit and kayit.get("izin") is True and kayit.get("haber_gorseli") is True and str(kayit.get("dayanak") or "").strip()):
             notlar.append(f"{b['kurum']}: yeniden kullanım izni kaydı/dayanağı yok; kurumun fotoğrafı kullanılmadı")
-            try:
-                os.remove(os.path.join(KOK, "static", b["url"].lstrip("/")))
-            except OSError:
-                pass
+            yerel_gorsel_sil(b["url"])
             continue
         adaylar.append({
             "izin_kontrolu": {"kendi_fotografi": b.get("kendi_fotografi", ""), "yeniden_kullanim": kayit.get("dayanak", ""),
@@ -1685,6 +1716,10 @@ def eski_gecerli(eski, konu, haber):
         kaynak = unquote(s.get("kaynak_sayfa") or "").replace("-", " ").replace("_", " ") + " " + (s.get("kaynak_aciklama") or "")
         return not cekirdek or stok_metni_uygun(cekirdek, kaynak)
     if alt == "yer_konu":
+        ipl = [ip for ip in (konu.get("gorsel_ipucu_en") or []) if not TESIS_TURU.search(ip)] or (konu.get("gorsel_ipucu_en") or [])
+        kaynak = metin + " " + (s.get("kaynak_aciklama") or "")
+        if ipl and not any(stok_metni_uygun(ip, kaynak) for ip in ipl):
+            return False
         return oz != "takim" and not MAC_IPUCU.search(metin) and (bool(TESIS_TURU.search(s.get("gosterilen") or "")) or not TESIS_TURU.search(metin))
     if alt == "yer":
         return bool(haber_yeri(konu, haber))
@@ -1856,10 +1891,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
                                                "gerekce", "dogrulama", "benzerlik", "tek", "iliski", "meta_puan", "onayli")} for a in gonderilen]
     for a in kurum_h:                # görüntü kontrolünden geçmeyen kurum fotoğrafı sitede tutulmaz
         if a.get("karar") != "kabul" and a["url"].startswith("/images/kurum/"):
-            try:
-                os.remove(os.path.join(KOK, "static", a["url"].lstrip("/")))
-            except OSError:
-                pass
+            yerel_gorsel_sil(a["url"])
 
     if kabul:
         a = kabul[0]
@@ -2052,6 +2084,8 @@ def yeniden_gerekli(v):
     s = v.get("gorsel_secim")
     if not isinstance(s, dict):
         return True
+    if yerel_gorsel_eksik(v.get("gorsel") or ""):
+        return True
     if s.get("surum") != KURAL_SURUMU:
         return True
     if s.get("alt_tur") == "yer" and YER_ISTENMEYEN.search(s.get("kaynak_sayfa", "")):   # sonradan daraltılan yer kuralı
@@ -2100,6 +2134,9 @@ def haber_isle(bag, yol, zorla=""):
     eski = v.get("gorsel") or ""
     eski_secim = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
     eski_bilgi = None
+    if yerel_gorsel_eksik(eski):
+        print(f"   mevcut görsel dosyası yok ({eski}); yeniden seçilecek")
+        eski = ""
     if eski and not eski.startswith("/images/kategori/"):
         # Mevcut fotoğraf da aynı görüntü kontrolünden geçer: yeni fotoğraf doğrulanmadıkça mevcut fotoğraf değiştirilmez;
         # mevcut fotoğraf açıkça uygunsuz bulunursa (red) kaldırılır.
