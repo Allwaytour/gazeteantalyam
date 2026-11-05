@@ -20,20 +20,22 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Emre Belözoğlu
   cekim_yili: ''
-  gerekce: '''Emre Belözoğlu'' kimliği Wikidata Q202569 (Turkish association football player and coach (born 1980) Tü) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi); görsel kontrol: Emre Belözoğlu''nun basın toplantısındaki güncel arşivi haberle uyumlu.'
-  surum: g8.1-2026-11-02
+  gerekce: '''Emre Belözoğlu'' kimliği Wikidata Q202569 (Turkish association football player and coach (born 1980) Tü) ve bu kişiye ait Commons kategorisiyle doğrulandı; benzer etkinlik (1 anahtar eşleşmesi); görsel kontrol: Teknik direktörün basın toplantısındaki güncel ve konuyla doğrudan ilişkili bir karesidir.'
+  surum: g9.4-2026-11-05
   konu_imza: 1fd618e2d851
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg/1280px-Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-04T09:27:41+03:00'
+    tarih: '2026-11-05T21:37:33+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   aciklama: Emre Belözoğlu, önceki bir açıklamadan — Arşiv
   alt_tur: kisi_benzer
   qid: Q202569
-  kurum: k4
+  kaynak_aciklama: Emre Belözoğlu Kasımpaşa SK 20260130
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +43,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Körfez Gazetesi
 kaynak_url: https://www.antalyakorfez.com/antalyasporun-eski-teknik-direktoru-fenerbahcede
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg/1280px-Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Zafer / Wikimedia Commons (CC BY 4.0)'
 ---
 Antalyaspor'da son iki yılda teknik direktörlük yapan isimler, kariyerlerine farklı kulüp ve milli takımlarda devam ediyor. Akdeniz ekibinde 2024 yılında görev alan Sergen Yalçın A Milli Futbol Takımı'nın teknik direktörlüğünü üstlenirken, 2025 yılında takımın başına gelen Emre Belözoğlu'nun yeni adresi Fenerbahçe oldu. Sarı-lacivertli kulüpte gerçekleştirilen teknik direktörlük görüşmeleri sonucunda Belözoğlu ile anlaşma sağlandı.
 

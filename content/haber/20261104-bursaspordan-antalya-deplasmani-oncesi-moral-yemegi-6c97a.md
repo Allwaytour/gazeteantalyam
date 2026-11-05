@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 4922354e4a0a
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T01:58:29+03:00'
+    tarih: '2026-11-05T21:32:49+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Enes Çelik'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Enes Çelik'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Er'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özlüce İ'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Enes Çelik'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Er'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özlüce İbrahim Yazıcı Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Özlüce İbrahim Yazıcı Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: SporBursa
 kaynak_url: https://sporbursa.tr/bursaspor-kebap-ziyafetiyle-moral-depoladi
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 TFF 1. Lig ekiplerinden Bursaspor, deplasmanda oynayacağı Antalyaspor mücadelesinin hazırlıklarını sürdürüyor. Kritik karşılaşma öncesinde yeşil-beyazlı ekip, Özlüce İbrahim Yazıcı Tesisleri’nde düzenlenen akşam yemeğinde bir araya geldi. Uludağ Kebapçısı tarafından organize edilen etkinlikte takım, Bursa’nın meşhur döner kebabını yedi.
 
