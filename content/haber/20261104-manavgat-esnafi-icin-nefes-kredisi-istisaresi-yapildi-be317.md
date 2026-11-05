@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: aff927d7a6a9
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T15:28:56+03:00'
+    tarih: '2026-11-05T21:21:37+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Önem Gök'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' içi'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' için konuyla (meeting room, business meeting, bankers) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/manavgat/manavgat-esnafi-nefes-kredisinden-nasil-yararlanacak-matso-bankalarla-gorustu/388623
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Manavgat ilçesinde, yükselen işletme maliyetleri karşısında yerel ekonomiyi desteklemek üzere bir finans toplantısı gerçekleştirildi. Manavgat Ticaret ve Sanayi Odası oda hizmet binasında düzenlenen istişare buluşmasında, TOBB Nefes Kredisi çerçevesinde kaynak sağlayacak bankaların ilçe merkezindeki şube müdürleri bir araya geldi. Oda yönetim kurulu üyelerinin de katıldığı oturumda, işletmelerin finansmana ulaşımını kolaylaştıracak başvuru adımları ve pratik çözümler masaya yatırıldı.
 

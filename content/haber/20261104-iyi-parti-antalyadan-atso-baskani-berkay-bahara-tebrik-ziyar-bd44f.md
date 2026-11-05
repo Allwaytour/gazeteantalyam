@@ -19,21 +19,30 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 3319ee1daf92
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-04T20:50:03+03:00'
+    tarih: '2026-11-05T21:23:10+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
-  kurum_notu: 'Mevzuat Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce; TBMM Antalya dışı kurum, kullanılmadı'
+    model: gemini-3.1-flash-lite
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Fotoğraf Antalya Ticaret '
+    aciklama: '2 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ali Adnan Kaya'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Berkay Bahar'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Antalya Ticaret ve Sanayi Odası'' için konuyla (meeting room, handshake, office) ilişkili lisanslı fotoğraf bulunamadı'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_(2).jpg
+      katman: kurum
+      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Ali Adnan Kaya, Berkay Bahar) — ATSO binasının dış görünü
+    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_(1).jpg
+      katman: kurum
+      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Ali Adnan Kaya, Berkay Bahar) — ATSO binasının gece çekil
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

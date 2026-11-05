@@ -19,20 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 5a5ff897d9cb
   gorsel_url: /images/kategori/asayis.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-04T14:57:31+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T21:23:28+03:00'
+    yontem: kaynak/arşiv taraması
+  kurum: k5
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
+    kod: aday_bulunamadi
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Gazipaşa Devlet Hastanesi, Alanya Alaaddin Keykubat Üniversitesi Eğitim ve Araştırma Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Gazipaşa Devlet Hastanesi, Alanya Alaaddin Keykubat Üniversitesi Eğitim ve Araştırma Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/gazipasa/gazipasada-sarampole-yuvarlanan-otomobilin-surucusu-yasam-savasini-kaybetti/388629
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Gazipaşa ilçesinde geçtiğimiz günlerde meydana gelen trafik kazasında ağır yaralanan otomobil sürücüsü, tedavi gördüğü hastanede yaşamını yitirdi. Kaza, 1 Kasım 2026 tarihinde gece saat 01.00 sıralarında Ilıca Mahallesi'nde yaşandı.
 

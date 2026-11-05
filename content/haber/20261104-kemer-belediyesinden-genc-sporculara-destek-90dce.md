@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: ae82238385f3
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T11:27:40+03:00'
+    tarih: '2026-11-05T21:21:56+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
+  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %6)
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Necati Topaloğlu'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: aday_bulunamadi
+    aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %6); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kemer İlçe Stadı'' için konuyla (youth football training, football stadium, young soccer players) '
+    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %6); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kemer İlçe Stadı'' için konuyla (youth football training, football stadium, young soccer players) ilişkili lisanslı fotoğraf bulunamadı; ''altyapı futbol eğitimi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: youth football training, soccer practice)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Ayancık Gazetesi
 kaynak_url: https://www.ayancikgazetesi.com/kemer-belediyesinden-turk-futboluna-200-genc-yetenek-yatirimi/154408
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Kemer Belediyesi öncülüğünde faaliyetlerini sürdüren Kemer Belediye Merkez Spor, U10'dan U19'a kadar farklı yaş kategorilerinde toplam 200 sporcuya ücretsiz futbol eğitimi sunuyor. Kulüpte gençlerin forma, krampon, futbol topu, teknik malzeme ve ulaşım gibi tüm temel ihtiyaçları belediye tarafından karşılanıyor. Altyapıya verilen bu destekler sayesinde daha önceki dönemlerde bazı sporcular profesyonel kulüplerin altyapı kadrolarına transfer olma başarısı gösterdi.
 

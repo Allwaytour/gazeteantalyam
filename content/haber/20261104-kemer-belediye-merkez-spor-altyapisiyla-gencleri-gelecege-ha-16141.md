@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 1edc6884773a
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T11:26:02+03:00'
+    tarih: '2026-11-05T21:22:19+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
+  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18)
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Konya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; BURSA BÜYÜKŞEHIR BELEDIYESI Antalya dışı kurum, kullanılmadı; BURSA BÜYÜKŞEHIR BELEDIYESI Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrula'
+    aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi '
+    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/kemer/kemerin-gencleri-turk-futboluna-hazirlaniyor-merkez-sporda-hedef-buyuk/388610
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Kemer Belediyesi’nin desteğiyle çalışmalarını yürüten Kemer Belediye Merkez Spor, bünyesindeki 200 genç sporcuyla altyapıya yatırım yapmaya devam ediyor. U10’dan U19’a kadar farklı yaş kategorilerinde ücretsiz futbol eğitimi veren kulüpte, sporcuların forma, krampon, futbol topu, ulaşım ve teknik malzeme gibi tüm gereksinimleri belediye tarafından karşılanıyor. Çocukları sporla buluşturan belediye, düzenlediği motivasyon etkinlikleriyle de gençlerin sosyal gelişimine katkı sağlıyor.
 
