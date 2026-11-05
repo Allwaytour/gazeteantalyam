@@ -19,26 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: f349768efe8f
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:21:48+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    sonuc: aday yok
+    tarih: '2026-11-05T20:44:31+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberi'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Korkuteli Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:%D0%9D%D0%9B%D0%9E_%D0%BD%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B5%D0%B9_-_panoramio.jpg
-      katman: yer_konu
-      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (Saniye Caran) — Fotoğraf Korkuteli ge
+    kod: kimlik_eslesmedi
+    aciklama: '''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Korkuteli Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Korkuteli'' için konuyla (mayor, office, political statement) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

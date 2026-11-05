@@ -2,7 +2,7 @@
 title: Antalyali Ihracatcilardan Cin'e Dogaltas Cikarmasi
 date: '2026-11-05T02:35:00+03:00'
 ozet: Bati Akdeniz Ihracatcilar Birligi yoneticileri, dogaltas ihracatini artirmak amaciyla Cin'in Yunfu ve Shuitou kentlerinde temaslarda bulundu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/8/84/Saffordite_stone_structure_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5c/Saffordite_stone_structure_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_kredi: 'Arşiv fotoğrafı: Jxd / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
@@ -10,7 +10,7 @@ ilceler: []
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Saffordite_stone_structure_6.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Saffordite_stone_structure_5.jpg
   fotografci: Jxd
   kredi: Jxd / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
@@ -18,21 +18,22 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Çin
   cekim_yili: '2019'
-  gerekce: 'dosya kaydında yer (''Çin'') ve konu ipucu (natural stone, marble blocks) birlikte geçiyor; görsel kontrol: Doğal taş yapısını gösteren konuyla doğrudan ilişkili temsilî arşiv fotoğrafı.'
+  gerekce: 'dosya kaydında yer (''Çin'') ve konu ipucu (natural stone, marble blocks) birlikte geçiyor; görsel kontrol: Doğal taş ve mermer dokusunu yakından gösteren temsilî arşiv karesi.'
   surum: g9.4-2026-11-05
   konu_imza: d10342a2793a
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/84/Saffordite_stone_structure_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Saffordite_stone_structure_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
     tarih: '2026-11-05T20:10:59+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   aciklama: Çin — Arşiv fotoğrafı (2019)
   alt_tur: yer_konu
   kaynak_aciklama: Saffordite (tektite) stone structure
-  kurum: k4
-  kurum_notu: Batı Akdeniz İhracatçılar Birliği sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  zorla: g9.4-2026-11-05:3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -76,6 +77,36 @@ gorsel_gecmis:
       kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
     kurum: k4
   degisim: '2026-11-05T20:10:59+03:00'
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/8/84/Saffordite_stone_structure_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: Jxd / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Saffordite_stone_structure_6.jpg
+    fotografci: Jxd
+    kredi: Jxd / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Çin
+    cekim_yili: '2019'
+    gerekce: 'dosya kaydında yer (''Çin'') ve konu ipucu (natural stone, marble blocks) birlikte geçiyor; görsel kontrol: Doğal taş yapısını gösteren konuyla doğrudan ilişkili temsilî arşiv fotoğrafı.'
+    surum: g9.4-2026-11-05
+    konu_imza: d10342a2793a
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/84/Saffordite_stone_structure_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T20:10:59+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Çin — Arşiv fotoğrafı (2019)
+    alt_tur: yer_konu
+    kaynak_aciklama: Saffordite (tektite) stone structure
+    kurum: k4
+    kurum_notu: Batı Akdeniz İhracatçılar Birliği sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  degisim: '2026-11-05T20:43:59+03:00'
 ---
 Bati Akdeniz Ihracatcilar Birligi, dunyanin en buyuk tas isleme merkezleri arasinda yer alan Cin'in Yunfu ve Shuitou sehirlerine dogaltas sektorel ticaret heyeti duzenledi. Gerceklestirilen ziyaretlerde resmi kurum temsilcileri ile sektore yon veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Bati Akdeniz Ihracatcilar Birligi'ni Baskan Yardimcisi Mustafa Kucukyaman ve Denetim Kurulu Uyesi Mustafa Tekin temsil etti.
 

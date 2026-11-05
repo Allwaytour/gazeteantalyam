@@ -26,13 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:21:47+03:00'
+    tarih: '2026-11-05T20:44:30+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Şifa Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Şifa Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

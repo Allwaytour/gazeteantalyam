@@ -25,19 +25,20 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:21:13+03:00'
+    tarih: '2026-11-05T20:44:02+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
-  kurum_notu: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without'
+  kurum_notu: Antalya Valiliği sayfası aynı haber değil (benzerlik %57); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50)
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panel discussion, climate change presentation) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %57); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panel discussion, climate change presentation) ilişkili lisanslı fotoğraf bulunamadı'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

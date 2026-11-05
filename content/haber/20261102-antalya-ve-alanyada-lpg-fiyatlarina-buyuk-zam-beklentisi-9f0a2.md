@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:21:47+03:00'
+    tarih: '2026-11-05T20:44:30+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -34,6 +34,7 @@ gorsel_secim:
     kod: aday_bulunamadi
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisans'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG gas pump, gas station price display)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

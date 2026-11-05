@@ -26,9 +26,9 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:21:46+03:00'
+    tarih: '2026-11-05T20:44:29+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
@@ -39,6 +39,7 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
       katman: kurum
       neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Antalyaspor tesis binası, futbol sahası) — Fotoğraf stady
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

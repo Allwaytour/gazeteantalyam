@@ -19,21 +19,33 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 9bc2bf60d984
   gorsel_url: /images/kategori/saglik.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T20:29:18+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T20:44:33+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için '
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: '3 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı; ''organ bağışı bilgilendirme standı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: organ bağışı farkındalık, organ bağışı standı)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:ETS_Bus_Be_an_Organ_Donor.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Organ-donation-bill-signing_5540656872_o.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Sheila_dixit_signing_organ_donation_card.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
