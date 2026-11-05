@@ -19,26 +19,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 997ce3cab596
   gorsel_url: /images/kategori/egitim.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:15:31+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T22:09:55+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %27); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yusuf Yılmaz'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Alanya İlçe Millî Eğitim Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:ADO_5721.jpg
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+    kod: kimlik_eslesmedi
+    aciklama: '''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Yusuf Yılmaz'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Alanya İlçe Millî Eğitim Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (chess, chess board, meeting) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c3
+  zorla: g9.4-2026-11-05:5
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +43,9 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanya-ilce-egitim-muduru-yilmazdan-basarili-ogrenciye-tebrik
+gorsel_onceki:
+  gorsel: /images/kategori/egitim.png
+  gorsel_kredi: ''
 ---
 Alanya'da satranç alanında gösterdiği üstün başarıyla adından söz ettiren Elif Cemre Uysal, katıldığı turnuvada önemli bir başarıya imza attı. 13 yaş genel kategorisinde il üçüncülüğü elde eden genç sporcu, aynı zamanda 13 yaş kızlar kategorisinde il birincisi olma başarısını gösterdi.
 

@@ -19,21 +19,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: c90ebc8b9b63
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-05T20:34:09+03:00'
-    yontem: konu ayrıştırılamadı
+    sonuc: aday yok
+    tarih: '2026-11-05T22:07:21+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPS'
   kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    kod: aday_bulunamadi
+    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPS'
+    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya EXPO Fuar Alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya EXPO Fuar Alanı'' için konuyla (exhibition center, security pers'
+  kapak_surum: c3
+  zorla: g9.4-2026-11-05:5
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

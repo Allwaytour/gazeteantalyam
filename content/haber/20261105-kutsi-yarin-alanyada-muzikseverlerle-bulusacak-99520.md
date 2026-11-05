@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T21:45:29+03:00'
+    tarih: '2026-11-05T22:07:20+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -35,6 +35,7 @@ gorsel_secim:
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (si'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı'
   kapak_surum: c3
+  zorla: g9.4-2026-11-05:5
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

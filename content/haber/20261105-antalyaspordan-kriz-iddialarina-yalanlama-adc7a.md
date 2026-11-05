@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:49:24+03:00'
+    tarih: '2026-11-05T22:09:54+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -40,6 +40,7 @@ gorsel_secim:
       katman: kurum
       neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalyaspor'un stadını gösteren nötr bir arşiv fotoğrafıdır. Kulüp haberlerinde genel görsel ol
   kapak_surum: c3
+  zorla: g9.4-2026-11-05:5
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
