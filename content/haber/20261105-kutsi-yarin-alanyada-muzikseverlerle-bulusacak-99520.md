@@ -19,23 +19,30 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 6750f69bf497
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T22:07:20+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T22:15:59+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (si'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c3
-  zorla: g9.4-2026-11-05:5
+    kod: gorsel_reddedildi
+    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı; ''konser'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: canlı müzik performansı, sahnede şarkıcı)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Live_music_performance_during_the_exhibition_opening_01.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Live_music_performance_during_the_exhibition_opening_02.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+  kapak_surum: c4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

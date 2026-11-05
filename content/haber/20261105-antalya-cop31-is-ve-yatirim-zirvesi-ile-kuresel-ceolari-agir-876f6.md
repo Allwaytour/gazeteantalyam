@@ -26,16 +26,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:09:08+03:00'
+    tarih: '2026-11-05T22:18:06+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
-  kurum_notu: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed ou'
+  kurum_notu: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43'
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed ou'
-    notlar: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Rifat Hisarcıklıoğlu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İş ve Yatırım Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (business conference, summit meeting, international forum) ilişkili lisanslı fo'
-  kapak_surum: c3
-  zorla: g9.4-2026-11-05:5
+    aciklama: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43'
+    notlar: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Rifat Hisarcıklıoğlu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İş ve Yatırım Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+  kapak_surum: c4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
