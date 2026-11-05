@@ -19,10 +19,10 @@ concurrency:
 jobs:
   yayinla:
     runs-on: ubuntu-latest
-    timeout-minutes: 28
+    timeout-minutes: 45
     environment:
       name: github-pages
-      url: ${{ steps.dagit.outputs.page_url }}
+      url: ${{ steps.dagit.outputs.page_url || steps.dagit2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -71,6 +71,22 @@ jobs:
         with:
           path: public
 
+      # GitHub Pages yayın servisi zaman zaman yanıt vermiyor ("Timeout reached, aborting!").
+      # İlk deneme başarısız olursa bir dakika beklenip bir kez daha denenir; site bir sonraki tura kalmaz.
       - name: Yayınla
         id: dagit
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
+
+      - name: Yayın servisi yanıt vermedi, bekleniyor
+        if: steps.dagit.outcome == 'failure'
+        run: sleep 60
+
+      - name: Yayınla (ikinci deneme)
+        id: dagit2
+        if: steps.dagit.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
