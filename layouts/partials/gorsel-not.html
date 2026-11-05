@@ -1,3 +1,2 @@
-{{/* Küçük görsel açıklaması. Parametre: dict "tur" "yil" */}}
-{{ $t := .tur | default "" }}
-{{ if eq $t "arsiv" }}<span class="g-not">Arşiv{{ with .yil }} · {{ . }}{{ end }}</span>{{ else if eq $t "stok" }}<span class="g-not">Temsili görsel</span>{{ else if eq $t "kategori" }}<span class="g-not">Kategori görseli</span>{{ end }}
+{{/* Kaldırıldı (g9): görsellerin üzerine "Arşiv", "Temsilî görsel", "Kategori görseli" rozeti konmaz.
+     Görsel türü ve tarihi veri kayıtlarında (gorsel_tur, gorsel_secim) korunur; açıklama haber detayında fotoğrafın altındadır. */}}
