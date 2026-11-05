@@ -2,8 +2,8 @@
 title: Antalya ve Alanya'da LPG Fiyatlarına Büyük Zam Beklentisi
 date: '2026-11-02T15:05:00+03:00'
 ozet: Akaryakıt piyasasındaki hareketliliğin ardından otogaz fiyatlarına litre başına 9 TL'yi aşan bir zam yapılması bekleniyor.
-gorsel: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Dawn McDonald / Unsplash'
+gorsel: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZnVlbCUyMHN0YXRpb258ZW58MXwwfHx8MTc5Mzg4NjgzMHww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: engin akyurt / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -11,22 +11,22 @@ ilceler:
 gorsel_tur: stok
 gorsel_secim:
   tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94
-  fotografci: Dawn McDonald
-  kredi: Dawn McDonald / Unsplash
+  kaynak_sayfa: https://unsplash.com/photos/a-white-car-with-a-green-gas-pump-ATiv-MR0d4U
+  fotografci: engin akyurt
+  kredi: engin akyurt / Unsplash
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
   gosterilen: LPG zammı
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''LPG gas pump''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Akaryakıt pompası detayı, LPG zammı haberi için doğrudan ilgili ve uygun bir görseldir.'
-  surum: g9.1-2026-11-05
+  gerekce: 'Unsplash araması ''fuel station''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Akaryakıt dolumunu gösteren genel ve uygun bir temsilî fotoğraftır.'
+  surum: g9.3-2026-11-05
   konu_imza: fe4d0e29c7cc
-  gorsel_url: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZnVlbCUyMHN0YXRpb258ZW58MXwwfHx8MTc5Mzg4NjgzMHww&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T17:06:00+03:00'
+    tarih: '2026-11-05T18:05:04+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
@@ -73,6 +73,35 @@ gorsel_gecmis:
     kurum: k3
     kurum_notu: Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %15); ATUS Antalya dışı kurum, kullanılmadı
   degisim: '2026-11-05T17:06:00+03:00'
+- gorsel: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Dawn McDonald / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94
+    fotografci: Dawn McDonald
+    kredi: Dawn McDonald / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: LPG zammı
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''LPG gas pump''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Akaryakıt pompası detayı, LPG zammı haberi için doğrudan ilgili ve uygun bir görseldir.'
+    surum: g9.1-2026-11-05
+    konu_imza: fe4d0e29c7cc
+    gorsel_url: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T17:06:00+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kurum: k4
+    kurum_notu: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
+  degisim: '2026-11-05T18:05:04+03:00'
 ---
 Akaryakıt fiyatlarında kasım ayının ilk günlerinde yaşanan gelişmelerin ardından LPG kullanıcılarını yakından ilgilendiren yeni bir zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgiye göre, 3 Kasım 2026 Salı günü saat 00.01'den itibaren otogazin litre fiyatına 9,09 ile 9,15 TL arasında artış yansıtılması öngörülüyor. Gerçekleşmesi beklenen bu artışla birlikte Antalya ve Alanya genelinde LPG litre fiyatlarının 50 TL sınırını aşabileceği hesaplanıyor. Dağıtım şirketlerinin resmi tarifeleri henüz netleşmezken, nihai rakamların istasyonların pompa fiyatlarını güncellemesiyle kesinleşeceği belirtiliyor.
 

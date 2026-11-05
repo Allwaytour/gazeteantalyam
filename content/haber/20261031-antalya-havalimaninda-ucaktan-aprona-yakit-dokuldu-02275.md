@@ -2,8 +2,8 @@
 title: Antalya Havalimanı'nda uçaktan aprona yakıt döküldü
 date: '2026-10-31T19:19:54+03:00'
 ozet: Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt sızdı. Ekipler bölgede güvenlik önlemi alarak temizlik çalışması başlattı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Simply Aviation / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -25,30 +25,59 @@ gorsel_gecmis:
   gorsel_konum: ''
   gorsel_secim: {}
   degisim: '2026-11-05T17:10:27+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Simply Aviation / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:12-NOV-2023_-_XQ190_AYT-VIE_(TC-SMI_-_B737_MAX_8)_(01).jpg
+    fotografci: Simply Aviation
+    kredi: Simply Aviation / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya Havalimanı
+    cekim_yili: ''
+    gerekce: '''Antalya Havalimanı'' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Havalimanı apronunu ve uçakları gösteren genel bir arşiv fotoğrafıdır, haberle uyumludur.'
+    surum: g9.1-2026-11-05
+    konu_imza: 374feead745a
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T17:10:27+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.1-flash-lite
+    aciklama: Antalya Havalimanı — Arşiv fotoğrafı
+    alt_tur: kurum
+    qid: Q827480
+    kurum: k4
+    kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  degisim: '2026-11-05T18:08:43+03:00'
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:12-NOV-2023_-_XQ190_AYT-VIE_(TC-SMI_-_B737_MAX_8)_(01).jpg
-  fotografci: Simply Aviation
-  kredi: Simply Aviation / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyahavaliman%C4%B12.JPG
+  fotografci: Vikiçizer
+  kredi: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya Havalimanı
-  cekim_yili: ''
-  gerekce: '''Antalya Havalimanı'' Wikidata Q827480 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Havalimanı apronunu ve uçakları gösteren genel bir arşiv fotoğrafıdır, haberle uyumludur.'
-  surum: g9.1-2026-11-05
+  cekim_yili: '2013'
+  gerekce: 'dosya kaydında yer (''Antalya Havalimanı'') ve konu ipucu (apron, aircraft) birlikte geçiyor; görsel kontrol: Antalya Havalimanı apronunda uçakları gösteren uygun bir arşiv fotoğrafı.'
+  surum: g9.3-2026-11-05
   konu_imza: 374feead745a
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T17:10:27+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    tarih: '2026-11-05T18:08:43+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  aciklama: Antalya Havalimanı — Arşiv fotoğrafı
-  alt_tur: kurum
-  qid: Q827480
+  aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2013)
+  alt_tur: yer_konu
   kurum: k4
   kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 ---

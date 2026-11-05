@@ -20,19 +20,19 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.2-2026-11-05
+  surum: g9.3-2026-11-05
   konu_imza: 4778ef418395
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T17:44:18+03:00'
+    tarih: '2026-11-05T18:01:12+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Şifa Hastanesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Şifa Hastanesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Şifa Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Şifa Hastanesi; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''şüpheli ölüm'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

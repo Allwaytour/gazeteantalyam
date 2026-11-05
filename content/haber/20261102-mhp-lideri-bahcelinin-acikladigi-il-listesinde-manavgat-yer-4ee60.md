@@ -2,8 +2,8 @@
 title: MHP Lideri Bahçeli'nin Açıkladığı İl Listesinde Manavgat Yer Almadı
 date: '2026-11-02T16:13:58+03:00'
 ozet: Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli'nin duyurduğu il olma potansiyeli taşıyan ilçeler listesinde Alanya yer alırken, Manavgat'ın bulunmaması ilçede tepki ve tartışmalara yol açtı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,29 +11,29 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
-  fotografci: Yıldız Yazıcıoğlu
-  kredi: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)
-  lisans: Public domain
-  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_560DSC_0226_(48104102833).jpg
+  fotografci: János Korom Dr. >17 Million views from Wien, Austria
+  kredi: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Devlet Bahçeli
-  cekim_yili: '2015'
-  gerekce: '''Devlet Bahçeli'' kimliği Wikidata Q1206951 (Leader of the Nationalist Action Party Türk siyasetçi) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Devlet Bahçeli''nin net bir portre fotoğrafıdır, haber için oldukça uygundur.'
-  surum: g9.2-2026-11-05
+  gosterilen: Manavgat
+  cekim_yili: '2019'
+  gerekce: '''Manavgat'' Wikidata Q81643 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Manavgat şehir merkezini gösteren nötr bir arşiv fotoğrafıdır, haberle uyumludur.'
+  surum: g9.3-2026-11-05
   konu_imza: a328b6e8fda3
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T17:46:21+03:00'
+    tarih: '2026-11-05T18:03:03+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.1-flash-lite
-  aciklama: Devlet Bahçeli — Arşiv fotoğrafı (2015)
-  alt_tur: kisi_genel
-  qid: Q1206951
+  aciklama: Manavgat — Arşiv fotoğrafı (2019)
+  alt_tur: kurum
+  qid: Q81643
   kurum: k4
-  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Sarıçam Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
+  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Sarıçam Belediyesi Antalya dışı kurum, kullanılmadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -103,7 +103,36 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
   degisim: '2026-11-05T17:46:21+03:00'
-gorsel_konum: 50% 22%
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
+  gorsel_tur: arsiv
+  gorsel_konum: 50% 22%
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
+    fotografci: Yıldız Yazıcıoğlu
+    kredi: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)
+    lisans: Public domain
+    lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Devlet Bahçeli
+    cekim_yili: '2015'
+    gerekce: '''Devlet Bahçeli'' kimliği Wikidata Q1206951 (Leader of the Nationalist Action Party Türk siyasetçi) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Devlet Bahçeli''nin net bir portre fotoğrafıdır, haber için oldukça uygundur.'
+    surum: g9.2-2026-11-05
+    konu_imza: a328b6e8fda3
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T17:46:21+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.1-flash-lite
+    aciklama: Devlet Bahçeli — Arşiv fotoğrafı (2015)
+    alt_tur: kisi_genel
+    qid: Q1206951
+    kurum: k4
+    kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Sarıçam Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
+  degisim: '2026-11-05T18:03:03+03:00'
 ---
 Türkiye genelinde zaman zaman gündeme gelen idari yapılanma tartışmaları kapsamında yeni bir gelişme yaşandı. MHP Genel Başkanı Devlet Bahçeli, hazırladıkları "100 İl, 1000 İlçe" projesinin detaylarını paylaştı ve il statüsüne kavuşması önerilen 19 ilçenin yer aldığı listeyi kamuoyuna açıkladı. Açıklanan listede Akdeniz Bölgesi'nden Alanya, Tarsus, Kozan ve Elbistan yer aldı.
 
