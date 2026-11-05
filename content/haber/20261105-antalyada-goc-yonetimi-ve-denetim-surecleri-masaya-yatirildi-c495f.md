@@ -25,7 +25,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:19:56+03:00'
+    tarih: '2026-11-05T22:29:32+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -34,6 +34,7 @@ gorsel_secim:
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönet'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönetimi toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
   kapak_surum: c4
+  zorla: g9.4-2026-11-05:6
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

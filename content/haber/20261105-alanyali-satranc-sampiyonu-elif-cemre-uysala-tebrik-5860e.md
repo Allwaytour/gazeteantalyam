@@ -19,23 +19,43 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 8 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 997ce3cab596
   gorsel_url: /images/kategori/egitim.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T22:09:55+03:00'
-    yontem: kaynak/arşiv taraması
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T22:29:32+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k5
-  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %27)
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Yusuf Yılmaz'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Alanya İlçe Millî Eğitim Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (chess, chess board, meeting) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c3
-  zorla: g9.4-2026-11-05:5
+    kod: gorsel_reddedildi
+    aciklama: '8 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satran; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
+    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %27); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Elif Cemre Uysal'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Yusuf Yılmaz'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Alanya İlçe Millî Eğitim Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (chess, chess board) ilişkili lisanslı fotoğraf bulunamadı'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg
+      katman: nesne
+      neden: haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko
+    - sayfa: https://commons.wikimedia.org/wiki/File:Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg
+      katman: nesne
+      neden: haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko
+    - sayfa: https://unsplash.com/photos/black-and-white-chess-knights-7SjEuEF06Zw
+      katman: nesne
+      neden: haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko
+    - sayfa: https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE
+      katman: nesne
+      neden: haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko
+    - sayfa: https://commons.wikimedia.org/wiki/File:Kim_Steven_Yap_Dubai_Open_Chess_Tournament_2013.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Chess_Tournament_at_Schriever_SFB_(8337425).jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+  kapak_surum: c4
+  zorla: g9.4-2026-11-05:6
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

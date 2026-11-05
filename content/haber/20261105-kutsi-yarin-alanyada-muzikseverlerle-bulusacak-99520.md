@@ -24,9 +24,9 @@ gorsel_secim:
   konu_imza: 6750f69bf497
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T22:15:59+03:00'
+    tarih: '2026-11-05T22:26:51+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -34,7 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı; ''konser'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: canlı müzik performansı, sahnede şarkıcı)'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:Live_music_performance_during_the_exhibition_opening_01.jpg
       katman: nesne
@@ -43,6 +43,7 @@ gorsel_secim:
       katman: nesne
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
   kapak_surum: c4
+  zorla: g9.4-2026-11-05:6
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

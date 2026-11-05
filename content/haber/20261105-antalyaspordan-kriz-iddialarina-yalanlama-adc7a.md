@@ -35,6 +35,7 @@ gorsel_secim:
   kaynak_aciklama: New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  zorla: g9.4-2026-11-05:6
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
