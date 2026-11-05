@@ -19,21 +19,21 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.2-2026-11-05
+  surum: g9.3-2026-11-05
   konu_imza: e11d50673d18
   gorsel_url: /images/kategori/egitim.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:38:45+03:00'
+    tarih: '2026-11-05T17:50:36+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   kurum: k4
-  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Süleyman Kerli'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Yükseköğretim Kurulu Pavilyonu'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, climate summit) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Yükseköğretim Kurulu Pavilyonu; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Süleyman Kerli'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (scientific exhibition, conference pavilion, academic poster) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

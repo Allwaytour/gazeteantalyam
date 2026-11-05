@@ -18,22 +18,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.2-2026-11-05
+  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.3-2026-11-05
   konu_imza: 848237ab2e8b
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:40:48+03:00'
+    tarih: '2026-11-05T17:53:31+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k4
   kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muay thai ring, muay thai fighters, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası madalya sevinci'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai maçı ring)'
+    aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muaythai ring, muaythai match, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai ringi)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

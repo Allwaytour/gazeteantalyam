@@ -2,37 +2,37 @@
 title: Beşiktaş ile Antalyaspor 45. randevuda
 date: '2026-11-04T15:17:00+03:00'
 ozet: Süper Lig'de köklü bir geçmişe sahip olan Beşiktaş ve Antalyaspor, tarihlerindeki 45inci lig maçına hazırlanıyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Math34 / Wikimedia Commons (Public domain)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/9/9c/%C5%9Eenol_G%C3%BCne%C5%9F_beUNITED.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: beIN SPORTS Türkiye / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Spor
 ilceler: []
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG
-  fotografci: Math34
-  kredi: Math34 / Wikimedia Commons (Public domain)
-  lisans: Public domain
-  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:%C5%9Eenol_G%C3%BCne%C5%9F_beUNITED.png
+  fotografci: beIN SPORTS Türkiye
+  kredi: beIN SPORTS Türkiye / Wikimedia Commons (CC BY 3.0)
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Beşiktaş
-  cekim_yili: '2007'
-  gerekce: '''Beşiktaş'' Wikidata Q172567 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Beşiktaş futbolcularının stadyumdaki maç karesi, haberin konusuyla tam uyumludur.'
-  surum: g9.2-2026-11-05
+  gosterilen: Şenol Güneş
+  cekim_yili: '2021'
+  gerekce: '''Şenol Güneş'' kimliği Wikidata Q388904 (Turkish association football player and trainer (born 1952) ) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Şenol Güneş''in nötr bir portre fotoğrafı, teknik direktör vurgusu için arşiv olarak kullanılabilir.'
+  surum: g9.3-2026-11-05
   konu_imza: 6816a1ccfbaa
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/9c/%C5%9Eenol_G%C3%BCne%C5%9F_beUNITED.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T17:43:58+03:00'
+    tarih: '2026-11-05T17:58:56+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.1-flash-lite
-  aciklama: Beşiktaş — Arşiv fotoğrafı (2007)
-  alt_tur: kurum
-  qid: Q172567
+  aciklama: Şenol Güneş — Arşiv fotoğrafı (2021)
+  alt_tur: kisi_genel
+  qid: Q388904
   kurum: k4
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -102,6 +102,37 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
   degisim: '2026-11-05T17:43:58+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Math34 / Wikimedia Commons (Public domain)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG
+    fotografci: Math34
+    kredi: Math34 / Wikimedia Commons (Public domain)
+    lisans: Public domain
+    lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Beşiktaş
+    cekim_yili: '2007'
+    gerekce: '''Beşiktaş'' Wikidata Q172567 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Beşiktaş futbolcularının stadyumdaki maç karesi, haberin konusuyla tam uyumludur.'
+    surum: g9.2-2026-11-05
+    konu_imza: 6816a1ccfbaa
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T17:43:58+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.1-flash-lite
+    aciklama: Beşiktaş — Arşiv fotoğrafı (2007)
+    alt_tur: kurum
+    qid: Q172567
+    kurum: k4
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-05T17:58:56+03:00'
+gorsel_konum: 50% 22%
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 
