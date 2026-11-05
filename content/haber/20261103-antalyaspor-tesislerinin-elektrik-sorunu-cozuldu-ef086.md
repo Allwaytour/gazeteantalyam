@@ -2,44 +2,39 @@
 title: Antalyaspor tesislerinin elektrik sorunu çözüldü
 date: '2026-11-03T16:02:59+03:00'
 ozet: Atilla Vehbi Konuk Tesisleri'nde yaşanan elektrik kesintisi, yapılan ödemeler ve varılan anlaşmanın ardından sona erdi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
 - Döşemealtı
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+  fotografci: Onur
+  kredi: Onur / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Antalya Stadyumu
+  cekim_yili: '2015'
+  gerekce: '''Antalyaspor'' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Antalya Stadyumu; görsel kontrol: ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — Fotoğraf stadyumu gösteriyor ancak haber Atilla Vehbi Konuk Tesisleri ile ilgili olduğundan konuyla doğrudan ilişkisi zayıftır.'
   surum: g9.4-2026-11-05
   konu_imza: e1769ca0c73a
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:42:01+03:00'
-    yontem: Gemini görsel kontrol
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-05T18:19:29+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.1-flash-lite
+  aciklama: Antalya Stadyumu — Arşiv fotoğrafı (2015)
+  alt_tur: kurum
+  qid: Q43710
+  kaynak_aciklama: New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ali Topuz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Atilla Vehbi Konuk Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Atilla Vehbi Konuk Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Antalyaspor tesis binası, futbol sahası) — Fotoğraf stady
-  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -109,6 +104,42 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   degisim: '2026-11-05T16:57:38+03:00'
+- gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+    surum: g9.4-2026-11-05
+    konu_imza: e1769ca0c73a
+    gorsel_url: /images/kategori/spor.png
+    kontrol:
+      yapildi: false
+      sonuc: adaylar reddedildi
+      tarih: '2026-11-05T21:42:01+03:00'
+      yontem: Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ali Topuz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Atilla Vehbi Konuk Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Atilla Vehbi Konuk Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Antalyaspor tesis binası, futbol sahası) — Fotoğraf stady
+    kapak_surum: c3
+  degisim: '2026-11-05T22:33:08+03:00'
 ---
 Antalya'nın spor kulübü Antalyaspor'un tesislerinde daha önce yaşanan elektrik kesintisi çözüme kavuştu. Atilla Vehbi Konuk Tesisleri'nde elektriklerin kesilmesi ve kulübün ödeme girişimlerine rağmen yetkililere ulaşılamadığı yönündeki gelişmelerin ardından süreç olumlu sonuçlandı. Tesislerin elektriği yeniden açıldı.
 

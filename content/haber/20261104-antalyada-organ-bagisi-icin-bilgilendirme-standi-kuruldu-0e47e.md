@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:42:05+03:00'
+    tarih: '2026-11-05T22:33:13+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -45,7 +45,7 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Sheila_dixit_signing_organ_donation_card.jpg
       katman: nesne
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c3
+  kapak_surum: c4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -19,22 +19,27 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: fe4d0e29c7cc
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T21:42:03+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T22:33:08+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisans'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG gas pump, gas station price display)'
-  kapak_surum: c3
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''LPG zammı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG gas pump, gas station price display); ''LPG zammı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG pompası, akaryakıt istasyonu fiyat tabelası)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Miner_Kilbourne_Kellogg_-_Adalia,_Asia_Minor_-_1991.56.168_-_Smithsonian_American_Art_Museum.jpg
+      katman: yer_konu
+      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+  kapak_surum: c4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

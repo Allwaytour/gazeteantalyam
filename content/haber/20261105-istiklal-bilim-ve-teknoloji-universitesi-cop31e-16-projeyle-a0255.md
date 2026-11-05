@@ -25,15 +25,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T21:41:30+03:00'
+    tarih: '2026-11-05T22:32:27+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science project) ilişkili lisansl'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science project) ilişkili lisanslı fotoğraf bulunamadı; ''COP31 proje sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: science project exhibition)'
-  kapak_surum: c3
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (exhibition pavilion, science project) ilişkili lisanslı fotoğraf buluna'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (exhibition pavilion, science project) ilişkili lisanslı fotoğraf bulunamadı; ''COP31 proje sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: science project exhibition)'
+  kapak_surum: c4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
