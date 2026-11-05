@@ -106418,7 +106418,7 @@
    "yazar": "Math34",
    "onay": "2026-11-05",
    "son": "2026-11-05",
-   "kullanim": 1,
+   "kullanim": 2,
    "kimlik": {
     "tur": "kurum",
     "ad": "Beşiktaş",
@@ -106444,12 +106444,12 @@
     "uygun_olmayan_baglamlar": [
      "konusu farklı haberler (her haberde ayrıca görüntü kontrolü gerekir)"
     ],
-    "gerekce": "'Beşiktaş' Wikidata Q172567 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Beşiktaş futbolcularının stadyumdaki maç karesi, haberin konusuyla tam uyumludur.",
+    "gerekce": "'Beşiktaş' Wikidata Q172567 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Beşiktaş futbolcularını sahada gösteren arşiv karesi, maç haberiyle doğrudan ilişkilidir.",
     "dogrulama_tarihi": "2026-11-05",
-    "kural_surumu": "g9.2-2026-11-05",
+    "kural_surumu": "g9.4-2026-11-05",
     "kontrol": {
      "tek": false,
-     "benzerlik": 10,
+     "benzerlik": 8,
      "iliski": 10
     }
    }
@@ -116456,6 +116456,224 @@
    "indirme": "https://api.unsplash.com/photos/qocl0mMijZU/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8ZHJhZyUyMHN0cmlwJTIwc3RhcnQlMjBsaW5lfGVufDF8MHx8fDE3OTM4OTM5NjF8MA",
    "yazar": "Matthew Valentino",
    "aciklama": "PROSPEC Competition at Formula Drift New Jersey, 2021."
+  }
+ ],
+ "wd:v4:0:22. tursak cocuk filmleri festivali:antalya antalya": {
+  "_yok": "2026-11-05"
+ },
+ "wd:v4:0:tursak children's film festival:antalya": {
+  "_yok": "2026-11-05"
+ },
+ "c6:kids cinema event": [
+  {
+   "baslik": "File:Cinema Ritrovato 2019 Cinema Arlecchino.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cinema_Ritrovato_2019_Cinema_Arlecchino.jpg/1280px-Cinema_Ritrovato_2019_Cinema_Arlecchino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Cinema_Ritrovato_2019_Cinema_Arlecchino.jpg",
+   "genislik": 3264,
+   "yukseklik": 2448,
+   "aciklama": "Saal des Cinema Arlecchino in Bologna mit schwarzen Stuhlreihen vor einer Vorführung während des Filmfestivals \"Il Cinema Ritrovato 2019\". Auf der Leinwand ist das Festivalposter mit Marlene Dietrich und Jean Gabin zu sehen.",
+   "nesne": "Cinema Ritrovato 2019 Cinema Arlecchino",
+   "tarih": "2019-06-22 14:23:09",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Sundance Kid"
+  },
+  {
+   "baslik": "File:Cinema Ritrovato 2019 Cinema Jolly.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cinema_Ritrovato_2019_Cinema_Jolly.jpg/1280px-Cinema_Ritrovato_2019_Cinema_Jolly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Cinema_Ritrovato_2019_Cinema_Jolly.jpg",
+   "genislik": 3264,
+   "yukseklik": 2448,
+   "aciklama": "Saal des Cinema Jolly in Bologna mit blauen Stuhlreihen vor einer Vorführung während des Filmfestivals \"Il Cinema Ritrovato 2019\". Auf der Leinwand ist das Festivalposter mit Marlene Dietrich und Jean Gabin zu sehen.",
+   "nesne": "Cinema Ritrovato 2019 Cinema Jolly",
+   "tarih": "2019-06-22 10:33:43",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Sundance Kid"
+  },
+  {
+   "baslik": "File:Cinema Ritrovato 2019 Arlecchino.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cinema_Ritrovato_2019_Arlecchino.jpg/1280px-Cinema_Ritrovato_2019_Arlecchino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Cinema_Ritrovato_2019_Arlecchino.jpg",
+   "genislik": 3264,
+   "yukseklik": 2448,
+   "aciklama": "Vor einer Vorstellung im Cinema Arlecchino in Bologna im Rahmen des Filmfestivals \" Il Cinema Ritrovato 2019\" hat sich eine Schlange gebildet, die auf Einlass wartet.",
+   "nesne": "Cinema Ritrovato 2019 Arlecchino",
+   "tarih": "2019-06-22 10:31:58",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Sundance Kid"
+  },
+  {
+   "baslik": "File:Cinema Ritrovato 2019 Festivalposter.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cinema_Ritrovato_2019_Festivalposter.jpg/1280px-Cinema_Ritrovato_2019_Festivalposter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Cinema_Ritrovato_2019_Festivalposter.jpg",
+   "genislik": 2448,
+   "yukseklik": 3264,
+   "aciklama": "Poster des Filmfestivals \"Il Cinema Ritrovato 2019\" unter einem Baum auf der Piazzetta Pier Paolo Pasolini in Bologna. Auf dem Poster sind Marlene Dietrich und Jean Gabin zu sehen.",
+   "nesne": "Cinema Ritrovato 2019 Festivalposter",
+   "tarih": "2019-06-22 09:31:58",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Sundance Kid"
+  },
+  {
+   "baslik": "File:Fort McCoy Day for Kids event attracts 400 participants - FMWRC - US Army - 101007.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fort_McCoy_Day_for_Kids_event_attracts_400_participants_-_FMWRC_-_US_Army_-_101007.jpg/1280px-Fort_McCoy_Day_for_Kids_event_attracts_400_participants_-_FMWRC_-_US_Army_-_101007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Fort_McCoy_Day_for_Kids_event_attracts_400_participants_-_FMWRC_-_US_Army_-_101007.jpg",
+   "genislik": 3264,
+   "yukseklik": 2448,
+   "aciklama": "PHOTO CAPTION: Miss Anna provides musical entertainment to youth attending the Fort McCoy Day for Kids event. (Photo by Fort McCoy Child, Youth and School Services staff, cleared for public release, not for commercial use, attribution requested.) www.armymwr.com Fort McCoy Day for Kids event attracts 400 participants Oct 7, 2010 By Fort McCoy Public Affairs FORT MCCOY, Wisc. -- More than 400 adults and youth attended the annual Day for Kids event at Fort McCoy Sept. 18, which featured Family, ed",
+   "nesne": "Fort McCoy Day for Kids event attracts 400 participants - FMWRC - US Army - 101007",
+   "tarih": "2010-09-17 17:22",
+   "kategoriler": "Boys standing | CC-BY-2.0 | Flickr images missing SDC creator | Flickr images reviewed by File Upload Bot (Magnus Manske) | Fort McCoy, Wisconsin | Photographs taken on 2010-09-17 | September 2010 in Wisconsin | Taken with Sanyo Xacti VPC-S880",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "U.S. Army"
+  },
+  {
+   "baslik": "File:Busan International Kids & Youth Film Festival.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Busan_International_Kids_%26_Youth_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Busan_International_Kids_%26_Youth_Film_Festival.jpg",
+   "genislik": 725,
+   "yukseklik": 483,
+   "aciklama": "BIKY is a cultural festival that is led by children and youth through film and communication. The festival is a participatory and educational event for all ages. The 2018 BIKY was held in July at the Busan Cinema Center.",
+   "nesne": "Busan International Kids & Youth Film Festival",
+   "tarih": "2018-06-05",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Appleysj"
+  },
+  {
+   "baslik": "File:Ho Gor 20240810.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ho_Gor_20240810.jpg/1280px-Ho_Gor_20240810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Ho_Gor_20240810.jpg",
+   "genislik": 4000,
+   "yukseklik": 6000,
+   "aciklama": "So Chi Ho is at Festival Grand Cinema on 10-Aug-2024 for Once Upon a Time in HKDSE events.",
+   "nesne": "Ho Gor 20240810",
+   "tarih": "2024-08-10",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Herbertman"
+  },
+  {
+   "baslik": "File:2016-07-09 13-41-04 ILCE-6300 DSC05992 (28196885002).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2016-07-09_13-41-04_ILCE-6300_DSC05992_%2828196885002%29.jpg/1280px-2016-07-09_13-41-04_ILCE-6300_DSC05992_%2828196885002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:2016-07-09_13-41-04_ILCE-6300_DSC05992_(28196885002).jpg",
+   "genislik": 3376,
+   "yukseklik": 6000,
+   "aciklama": "Japan Expo is a French professional event show on Japanese popular culture, which takes place at the Paris-Nord Villepinte exhibition center every year at the beginning of July, or even at the end of June over a period of four days. It is a cultural event dedicated to manga, video games, anime, but also to martial arts, fashion, music (J-pop, Jrock, traditional), cinema, traditions and cultures, to young artists and creators, to mechanical sport.",
+   "nesne": "2016-07-09 13-41-04 ILCE-6300 DSC05992 (28196885002)",
+   "tarih": "Taken on 9 July 2016, 13:41",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Miguel Discart"
+  },
+  {
+   "baslik": "File:André Luiz Oliveira.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Andr%C3%A9_Luiz_Oliveira.jpg/1280px-Andr%C3%A9_Luiz_Oliveira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Luiz_Oliveira.jpg",
+   "genislik": 2112,
+   "yukseklik": 2816,
+   "aciklama": "André Luiz Oliveira is a Brazilian Cinemotographer, musician composer and the Director of \"Meterango Kid, the Intergalatic Hero\", considered as classic of Brazilian Underground cinema More details at https://www.imdb.com/name/nm0646644/",
+   "nesne": "André Luiz Oliveira",
+   "tarih": "2010-02-18 16:27:54",
+   "kategoriler": "2010 ViBGYOR Film Festival | CC-BY-2.0 | Flickr images uploaded by Flickr upload bot | Malayalam loves Wikimedia event - 2011 April | Oliveira (surname) | Taken with Canon PowerShot S3 IS",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "ViBGYOR Film Collective"
+  },
+  {
+   "baslik": "File:Jessica Origliasso (7400720356).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jessica_Origliasso_%287400720356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Jessica_Origliasso_(7400720356).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "w:Jessica Origliasso of Category:The Veronicas attend 'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of this h",
+   "nesne": "Jessica Origliasso (7400720356)",
+   "tarih": "2012-06-19 19:13",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
+  },
+  {
+   "baslik": "File:Kristen Stewart (7400743316).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kristen_Stewart_%287400743316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Kristen_Stewart_(7400743316).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "Kristen Stewart and Chris Hemsworth attend 'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of this hot new Holl",
+   "nesne": "Kristen Stewart (7400743316)",
+   "tarih": "2012-06-19 19:44",
+   "kategoriler": "CC-BY-SA-2.0 | Files from Eva Rinaldi Flickr stream | Flickr images reviewed by File Upload Bot (Magnus Manske) | Kristen Stewart in 2012 | Photographs by Eva Rinaldi | Snow White and the Huntsman movie premiere in Sydney 2012 | Taken with Canon EOS 40D",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
+  },
+  {
+   "baslik": "File:Lisa, Jessica Origliasso (7400844946).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lisa%2C_Jessica_Origliasso_%287400844946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Lisa,_Jessica_Origliasso_(7400844946).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "Category:The Veronicas attend 'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of this hot new Hollywood movie. ",
+   "nesne": "Lisa, Jessica Origliasso (7400844946)",
+   "tarih": "2012-06-19 19:11",
+   "kategoriler": "CC-BY-SA-2.0 | Files from Eva Rinaldi Flickr stream | Flickr images reviewed by File Upload Bot (Magnus Manske) | Photographs by Eva Rinaldi | Snow White and the Huntsman movie premiere in Sydney 2012 | Taken with Canon EOS 40D | The Veronicas",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
+  },
+  {
+   "baslik": "File:Kristen Stewart (7400741956).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Kristen_Stewart_%287400741956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Kristen_Stewart_(7400741956).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "Kristen Stewart and Chris Hemsworth attend 'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of this hot new Holl",
+   "nesne": "Kristen Stewart (7400741956)",
+   "tarih": "2012-06-19 19:44",
+   "kategoriler": "CC-BY-SA-2.0 | Files from Eva Rinaldi Flickr stream | Flickr images missing SDC creator | Flickr images reviewed by File Upload Bot (Magnus Manske) | Kristen Stewart in 2012",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
+  },
+  {
+   "baslik": "File:Rupert Sanders (7400891466).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rupert_Sanders_%287400891466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Rupert_Sanders_(7400891466).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "w:Rupert Sanders Kristen Stewart and Chris Hemsworth attend 'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of ",
+   "nesne": "Rupert Sanders (7400891466)",
+   "tarih": "2012-06-19 19:38",
+   "kategoriler": "CC-BY-SA-2.0 | Files from Eva Rinaldi Flickr stream | Flickr images reviewed by File Upload Bot (Magnus Manske) | Photographs by Eva Rinaldi | Rupert Sanders | Snow White and the Huntsman movie premiere in Sydney 2012 | Taken with Canon EOS 40D",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
+  },
+  {
+   "baslik": "File:Michelle Bridges (7400731094).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Michelle_Bridges_%287400731094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Michelle_Bridges_(7400731094).jpg",
+   "genislik": 1000,
+   "yukseklik": 1500,
+   "aciklama": "'Snow White and the Huntsman' movie premiere - Bondi Junction, Sydney Kristen Stewart, Australia's own Chris Hemsworth and a swag of other celebrities attended the Sydney premiere of 'Snow White' at Bondi Junction in Sydney earlier this evening. Hundreds of fans and dozens of news media covered the event for the movie which is tipped to be a big money winner and a favourite with critics. Well done to everyone involved in the success of this hot new Hollywood movie. News Update... Australian star",
+   "nesne": "Michelle Bridges (7400731094)",
+   "tarih": "2012-06-19 19:28",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Eva Rinaldi"
   }
  ]
 }
