@@ -1212,7 +1212,18 @@ def gorsel_indir(url, en_fazla=900_000):
 YABANCI_SOMUT = re.compile(r"(?i)tabela|yazı|plaka|polis|ambulans|bayrak|para birimi|sign|plate|flag|police|landmark|simge|şehir")
 
 
-def eski_red_yeniden(a, ob):
+def gerekli_unsurlar(konu):
+    """'Görselde olmalı' listesinden kişi adları çıkarılır: temsilî ya da yer fotoğrafında haberdeki kişinin kendisi bulunamaz
+    (ör. satranç haberinde "Elif Cemre Uysal" şartı her satranç fotoğrafını eler)."""
+    adlar = [k.get("ad", "") for k in konu.get("ana_kisiler") or [] if isinstance(k, dict)] + list(konu.get("kisiler") or [])
+    oz = konu.get("ana_ozne") or {}
+    if oz.get("tur") == "kisi":
+        adlar.append(oz.get("ad", ""))
+    kisi_k = {w for ad in adlar for w in kelimeler(ad) if len(w) >= 3}
+    return [u for u in konu.get("gorselde_olmali") or [] if not (set(kelimeler(u)) & kisi_k)]
+
+
+def eski_red_yeniden(a, ob, konu=None):
     """Önbellekteki red kararı bugünkü kurallara göre geçersiz mi? 'kabul' → yalnızca konu ilişkisi yüzünden elenmiş, ana öznenin
     kimliği doğrulanmış kendi fotoğrafı; 'tekrar' → yalnızca 'Türkiye dışına ait unsur' (somut tabela/plaka/bayrak/simge
     belirtilmeden) yüzünden elenmiş kare yeni kuralla bir kez daha görüntü kontrolüne gönderilir; '' → red geçerli."""
@@ -1226,6 +1237,10 @@ def eski_red_yeniden(a, ob):
             n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
         return "kabul"
     aciklama = g.split(" — ", 1)[1] if " — " in g else ""
+    if (all(n.startswith("haberin gerektirdiği unsur görünmüyor") for n in ned) and konu \
+            and len(gerekli_unsurlar(konu)) < len(konu.get("gorselde_olmali") or [])
+            and not ob.get("yeniden_bakildi")):
+        return "tekrar"               # şart listesinde kişi adı vardı (artık çıkarılıyor): yeniden bakılır
     if (all(n.startswith("Türkiye dışına ait unsur var") for n in ned) and not YABANCI_SOMUT.search(aciklama)
             and not ob.get("yeniden_bakildi")):
         return "tekrar"
@@ -1250,9 +1265,9 @@ def karar_ver(d, konu):
         nedenler.append(f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {int(d.get('konu_iliskisi') or 0)}/10)")
     if d.get("yasak_unsur_var") is True:
         nedenler.append("görselde olmaması gereken unsur var (" + ", ".join((konu.get("gorselde_olmamali") or [])[:3]) + ")")
-    if (konu.get("gorselde_olmali") and d.get("_alt_tur") in KONU_ILISKISI_SART and not ana_ozne_kurum
+    if (gerekli_unsurlar(konu) and d.get("_alt_tur") in KONU_ILISKISI_SART and not ana_ozne_kurum
             and d.get("gerekli_unsur_var") is False):
-        nedenler.append("haberin gerektirdiği unsur görünmüyor (" + ", ".join(konu["gorselde_olmali"][:2]) + ")")
+        nedenler.append("haberin gerektirdiği unsur görünmüyor (" + ", ".join(gerekli_unsurlar(konu)[:2]) + ")")
     if d.get("_alt_tur") == "nesne" and d.get("taninabilir_kisi"):
         nedenler.append("temsilî fotoğrafta tanınabilir kişi var")
     if d.get("_hedef_tur") == "takim" and d.get("taninabilir_kisi"):
@@ -1273,7 +1288,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
     gonderilecek, parcalar, iddialar = [], [], []
     for a in adaylar:
         ob = bag.onbellek_al(imza(KURAL_SURUMU, konu_imza, a["url"]))
-        if ob and eski_red_yeniden(a, ob) == "tekrar":
+        if ob and eski_red_yeniden(a, ob, konu) == "tekrar":
             ob = None                     # kural değişti: bu kare bir kez daha görüntü kontrolüne gönderilir
             a["yeniden_bakildi"] = True
         if ob:
@@ -1312,7 +1327,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         yer=konu.get("yer") or "-", hassas=konu.get("hassas", "yok"), iddialar="\n".join(iddialar),
         etkinlik=(konu.get("etkinlik") or {}).get("tur") or konu.get("ana_olay", ""),
         ne=(konu.get("ne") or {}).get("ad") or konu.get("ana_olay", ""),
-        olmali=", ".join(konu.get("gorselde_olmali") or []) or "-", olmamali=", ".join(konu.get("gorselde_olmamali") or []) or "-")
+        olmali=", ".join(gerekli_unsurlar(konu)) or "-", olmamali=", ".join(konu.get("gorselde_olmamali") or []) or "-")
     yanit = bag.gemini([{"text": metin}] + parcalar, en_fazla=3500)
     liste = {int(d.get("no", 0)): d for d in (yanit.get("degerlendirmeler") or []) if isinstance(d, dict)}
     tarih = simdi_tr().isoformat(timespec="seconds")
@@ -1344,7 +1359,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # c3: turizm haberinde ilçenin genel görünümü; ülkesi belli olmayan doğal sahne/ürün kareleri "yabancı unsur" sayılmaz.
 # c4: yer+konu aramasında "Antalya" gibi geniş yer adı da tutar; ana öznenin kendi fotoğrafı ve "yabancı sahne" redleri yeniden
 #     değerlendirilir; hassas olmayan kişi haberinde konuyu anlatan temsilî fotoğraf.
-KAPAK_SURUM = "c4"
+# c5: "görselde olmalı" şartından kişi adları çıkarılır (temsilî fotoğrafta haberdeki kişi bulunamaz).
+KAPAK_SURUM = "c5"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
@@ -1927,7 +1943,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
                 while havuz[ad] and len(secilen) < butce and al < sinir:
                     a = havuz[ad].pop(0)
                     ob = onceki_karar(a)
-                    if ob and ob.get("karar") == "red" and not eski_red_yeniden(a, ob):
+                    if ob and ob.get("karar") == "red" and not eski_red_yeniden(a, ob, konu):
                         eski_red.append(a)
                         continue
                     secilen.append(a)
