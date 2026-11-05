@@ -19,19 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: 9bc2bf60d984
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T14:56:40+03:00'
+    tarih: '2026-11-05T17:33:49+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
+  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'İzmir Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Behzat Özkan'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı '
+    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (organ donation, information stand, health aw'
+    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (organ donation, information stand, health awareness) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-il-saglik-mudurlugunden-anlamli-farkindalik-etkinligi/388630
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Antalya İl Sağlık Müdürlüğü, 3-9 Kasım Organ Bağışı Haftası vesilesiyle kentteki bir alışveriş merkezinde bilgilendirme stantları açtı. Sağlık çalışanlarının yer aldığı stantlarda, ziyaretçilere organ bağışı süreci ve başvuru adımları detaylı bir şekilde aktarıldı. Etkinlik boyunca bilgilendirici broşürler dağıtılırken, vatandaşlara defne fidanı hediye edildi ve canlı müzik dinletisi sunuldu.
 

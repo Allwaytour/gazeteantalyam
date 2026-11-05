@@ -19,20 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: a73321659ea5
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-04T01:24:57+03:00'
+    tarih: '2026-11-05T17:30:37+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   kurum: k4
+  kurum_notu: ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %12); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalyaspor kulübünün sta'
+    aciklama: '5 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
+    notlar: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %12); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hakan İrban'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); takım haberi: ''İzmir'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/2071394-antalyaspor-hentbol-sube-sorumlusu-irban
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Antalyaspor hentbol takımı, yeni sezon öncesindeki ilk hazırlık devresini yoğun antrenmanlarla geride bıraktı. Kuvvet, kondisyon ve teknik çalışmaların yer aldığı bu ilk dönemin ardından kırmızı-beyazlı ekip, İzmir Cup Turnuvası'na katılmak üzere hazırlıklarına devam ediyor. Turnuva kapsamında Göztepe, Merzifon Belediyesi, Beykoz Belediyesi ve Bursa Nilüfer Belediyesi ile karşılaşmalar oynanacak.
 

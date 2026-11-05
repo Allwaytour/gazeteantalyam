@@ -38,6 +38,11 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/seralari-sel-vurmasina-ragmen-sebze-fiyatlari-dustu-119512714
+gorsel_bekleyen:
+  surum: g9.1-2026-11-05
+  tarih: '2026-11-05T17:37:05+03:00'
+  sayi: 1
+  neden: 'kurum sayfası okunamadı (T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı): HTTPSConnectionPool(host=''antalya.csb.gov.tr'', port=443): Max retries exceeded w'
 ---
 Antalya'da son haftalarda etkili olan şiddetli yağış, sel, dolu ve hortum tarım alanlarında zarara yol açtı. Özellikle Kaş, Demre, Kumluca ve Finike ilçelerinde seralar su altında kalırken, Manavgat'ta dolu ve hortum, Aksu ve Serik'te ise kuvvetli yağışlar etkili oldu. Afetlerin ardından üretimde azalma ve fiyat artışı beklenirken, Antalya Toptancı Hali'nde domates ve biber başta olmak üzere sebze fiyatlarında yüzde 10 ile 20 arasında düşüş kaydedildi.
 

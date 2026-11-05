@@ -19,19 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: 5c21d82a8087
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T20:47:05+03:00'
+    tarih: '2026-11-05T17:34:45+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
+  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mimar Sinan Kongre Merkezi'' için ku'
+    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mimar Sinan Kongre Merkezi'' için kullanım hakkı doğrulanmış fotoğraf bulunamad'
+    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mimar Sinan Kongre Merkezi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Aydın Kanza Parkı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (convention center, climate summit, conference hall) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Toplumsal Haber
 kaynak_url: https://www.toplumsal.com.tr/haber/antalya-da-44-ulkeden-iklim-hareketleri-bulusacak_32887/
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı COP31'e ev sahipliği yapmaya hazırlanan Antalya, bu kapsamda önemli uluslararası buluşmalardan birine ev sahipliği yapacak. Kentte gerçekleştirilecek olan Halkların İklim Zirvesi, 15-18 Kasım tarihleri arasında düzenlenecek. Mimar Sinan Kongre Merkezi'nde yapılacak dört günlük etkinliğe 44 farklı ülkeden toplumsal hareketler katılacak. Buluşma boyunca iklim adaleti, fosil yakıtlardan çıkış ve enerji demokrasisi gibi kritik başlıklarda 100'ün üzerinde oturum gerçekleştirilecek. Öte yandan COP31 zirvesinin ise 9-20 Kasım tarihlerinde yapılması planlanıyor.
 
