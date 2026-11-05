@@ -1,0 +1,19 @@
+{{/* Görselin istenen genişlikteki kopyasının adresi. Kullanım: partial "gorsel-url.html" (dict "u" $url "w" 500)
+     Wikimedia Commons: standart küçük kopya (…/thumb/…/500px-Dosya.jpg); Unsplash: w/q parametresi; diğerleri olduğu gibi. */}}
+{{ $u := .u | default "" }}{{ $w := .w | default 1280 }}
+{{ $sonuc := $u }}
+{{ if in $u "upload.wikimedia.org/wikipedia/commons/thumb/" }}
+  {{ $sonuc = replaceRE `/[0-9]+px-` (printf "/%dpx-" $w) $u }}
+  {{ $sonuc = replaceRE `\?.*$` "" $sonuc }}
+{{ else if in $u "upload.wikimedia.org/wikipedia/commons/" }}
+  {{ $temiz := replaceRE `\?.*$` "" $u }}
+  {{ $m := findRESubmatch `^(https://upload\.wikimedia\.org/wikipedia/commons/)([0-9a-f]/[0-9a-f]{2}/)([^/]+)$` $temiz 1 }}
+  {{ with $m }}{{ $p := index . 0 }}{{ $ad := index $p 3 }}
+    {{ $ek := "" }}{{ if or (strings.HasSuffix (lower $ad) ".svg") (strings.HasSuffix (lower $ad) ".tif") (strings.HasSuffix (lower $ad) ".tiff") }}{{ $ek = ".png" }}{{ end }}
+    {{ $sonuc = printf "%sthumb/%s%s/%dpx-%s%s" (index $p 1) (index $p 2) $ad $w $ad $ek }}
+  {{ end }}
+{{ else if in $u "images.unsplash.com/" }}
+  {{ $temiz := replaceRE `([?&])(w|q|auto|fit)=[^&]*` "$1" $u | replaceRE `[?&]+$` "" | replaceRE `\?&+` "?" | replaceRE `&&+` "&" }}
+  {{ $sonuc = printf "%s%sw=%d&q=75&auto=format&fit=max" $temiz (cond (in $temiz "?") "&" "?") $w }}
+{{ end }}
+{{ return $sonuc }}

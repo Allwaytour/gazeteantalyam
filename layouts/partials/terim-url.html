@@ -1,4 +1,4 @@
 {{/* Kullanım: partial "terim-url.html" (slice "kategoriler" "Sağlık") -> /kategoriler/saglik/ */}}
-{{ $s := index . 1 | urlize | replaceRE "ı" "i" }}
+{{ $s := index . 1 | replaceRE "ı" "i" | replaceRE "İ" "i" | urlize }}
 {{ $u := printf "/%s/%s/" (index . 0) $s | relURL }}
 {{ return $u }}
