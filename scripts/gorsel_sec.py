@@ -43,7 +43,7 @@ try:
 except Exception:          # tarayıcı/Pillow yoksa kurum fotoğrafı katmanı devre dışı kalır
     kf = None
 
-SURUM = "g9.1"
+SURUM = "g9.2"
 BASLANGIC = time.time()
 KURAL_TARIHI = "2026-11-05"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
@@ -900,7 +900,15 @@ def kurum_wikidata_adaylari(bag, konu):
         except Exception as e:
             stat = []
             notlar.append(f"Stat kaydı okunamadı ({h['ad']}): {e}")
+        oz = konu.get("ana_ozne") or {}
+        nerede = (konu.get("nerede") or {}).get("ad", "")
         for d, mekan_ad in stat:
+            # Stat yalnızca haberin ana öznesi olan takımın sahasıysa ya da olayın geçtiği yer bu statsa kullanılır:
+            # rakip takımın stadı, maç orada oynanmıyorsa haberi başka bir yerde geçiyormuş gibi gösterir.
+            ana_takim = kucult(oz.get("ad", "")) == kucult(h["ad"]) or ad_eslesir(h["ad"], oz.get("ad", ""))
+            if not ana_takim and not (nerede and (ad_eslesir(nerede, mekan_ad) or ad_eslesir(mekan_ad, nerede))):
+                notlar.append(f"'{mekan_ad}' ({h['ad']} stadı) haberin ana takımına ait değil ve olay yeri olarak geçmiyor; kullanılmadı")
+                continue
             ok, _ = commons_uygun(d)
             if ok and not bag.yasakli_mi(d["url"]):
                 adaylar.append({
@@ -1363,6 +1371,21 @@ def konu_sorgulari(konu, alternatif=False):
     return [q for q in dict.fromkeys(liste) if ayirt_edici(q)]
 
 
+ESANLAM = {"gasoline": {"gas", "petrol", "fuel"}, "petrol": {"gas", "gasoline", "fuel"}, "fuel": {"gas", "gasoline", "petrol"},
+           "gas": {"autogas", "gasoline", "petrol", "fuel"}, "muaythai": {"muay"}, "lpg": {"autogas", "propane"}, "autogas": {"lpg"}}
+
+
+def stok_metni_uygun(sorgu, metin):
+    """Stok fotoğrafın kendi açıklamasında sorgunun bütün kelimeleri (eş anlamlılarıyla) geçmeli: "LPG gas pump" araması
+    benzin pompası döndürdüğünde ("a gas pump next to a wall") LPG geçmediği için elenir; görsel model buna tek başına bırakılmaz."""
+    mk = set(kelimeler(metin))
+    for w in kelimeler(sorgu):
+        adaylar = {w} | ESANLAM.get(w, set())
+        if not any(_kelime_tutar(a, m) or _kelime_tutar(m, a) for a in adaylar for m in mk):
+            return False
+    return True
+
+
 def yasak_metin(konu, metin):
     """Dosya kaydında 'görselde olmamalı' unsurlardan biri açıkça geçiyor mu? (ör. muaythai haberinde 'boxing')"""
     yasak = " ".join(konu.get("gorselde_olmamali") or [])
@@ -1424,7 +1447,8 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
             try:
                 alinan = 0
                 for f in unsplash_ara(bag, sorgu):
-                    if bag.yasakli_mi(f["url"]) or f["url"] in gorulen or yasak_metin(konu, f["aciklama"]):
+                    if bag.yasakli_mi(f["url"]) or f["url"] in gorulen or yasak_metin(konu, f["aciklama"]) \
+                            or not stok_metni_uygun(sorgu, f["aciklama"]):
                         continue
                     gorulen.add(f["url"])
                     adaylar.append({"tur": "stok", "alt_tur": "nesne", "kaynak": "Unsplash", "url": f["url"], "kucuk": f["kucuk"],
