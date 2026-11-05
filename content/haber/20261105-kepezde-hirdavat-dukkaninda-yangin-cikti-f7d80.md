@@ -24,17 +24,17 @@ gorsel_secim:
   konu_imza: ce0ed2db570e
   gorsel_url: /images/kategori/asayis.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T18:35:16+03:00'
+    tarih: '2026-11-05T20:29:17+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  kurum: k4
-  kurum_notu: Türkiye İş Kurumu (İŞKUR) Antalya dışı kurum, kullanılmadı; Isparta İl Sağlık Müdürlüğü Antalya dışı kurum, kullanılmadı; senirkent.gov.tr Antalya dışı kurum, kullanılmadı
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Sütçüler Caddesi; Türkiye İş Kurumu (İŞKUR) Antalya dışı kurum, kullanılmadı; Isparta İl Sağlık Müdürlüğü Antalya dışı kurum, kullanılmadı; senirkent.gov.tr Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Sütçüler Caddesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D1%83_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0_%D0%90%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%B8._-_panoramio.jpg
       katman: yer_konu

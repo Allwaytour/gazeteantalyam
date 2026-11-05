@@ -27,13 +27,14 @@ gorsel_secim:
     sonuc: onaylandı
     tarih: '2026-11-05T19:13:50+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   aciklama: Beşiktaş Stadyumu — Arşiv fotoğrafı (2022)
   alt_tur: kurum
   qid: Q172567
   kaynak_aciklama: Vodafone Park in Beşiktaş, Istanbul, Turkey. Home of Beşiktaş J. K. Image taken Sunday 1st May 2022.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  zorla: g9.4-2026-11-05:2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

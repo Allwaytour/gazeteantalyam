@@ -26,14 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T18:45:09+03:00'
+    tarih: '2026-11-05T20:29:18+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
-  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulan'
-    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için '
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

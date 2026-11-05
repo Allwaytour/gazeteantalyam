@@ -19,7 +19,7 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: kuş gözlemi
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''buff-breasted sandpiper'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Haberde adı geçen çayırkoşarı kuşunu net bir şekilde gösteren temsilî görsel.'
+  gerekce: 'Commons dosya kaydında ''buff-breasted sandpiper'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Haberin odak noktasındaki çayırkoşarı kuşunu doğrudan gösteren uygun görsel.'
   surum: g9.4-2026-11-05
   konu_imza: 3b4874c1ce89
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -31,8 +31,9 @@ gorsel_secim:
     model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
-  kurum: k4
-  kurum_notu: "kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
+  kaynak_aciklama: madayippara Kannur kerala India afsarnayakkan
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

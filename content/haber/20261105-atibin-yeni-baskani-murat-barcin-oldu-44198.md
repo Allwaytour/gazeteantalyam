@@ -26,9 +26,9 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:09:31+03:00'
+    tarih: '2026-11-05T20:30:04+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: kimlik_eslesmedi

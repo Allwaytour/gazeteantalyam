@@ -26,9 +26,9 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T18:51:35+03:00'
+    tarih: '2026-11-05T20:29:28+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
