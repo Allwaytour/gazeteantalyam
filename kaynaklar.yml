@@ -17,7 +17,7 @@ ayarlar:
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
   gorsel_toplu_duzeltme: true   # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
-  gorsel_toplu_sinir: 20        # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); inceleme sonrası artırılır
+  gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
   gorsel_duzeltme_tur: 10       # toplu düzeltmede bir turda en fazla kaç haber
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_aday_butcesi: 5        # bir görüntü kontrolünde en fazla kaç aday (katmanlar arasında dengeli dağıtılır)
