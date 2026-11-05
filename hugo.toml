@@ -5,6 +5,7 @@ title = "Gazete Antalya"
 timeZone = "Europe/Istanbul"
 enableRobotsTXT = true
 removePathAccents = true
+titleCaseStyle = "none"   # etiket/terim adları olduğu gibi yazılsın ("Ticaret ve Sanayi Odası")
 summaryLength = 30
 
 [pagination]
