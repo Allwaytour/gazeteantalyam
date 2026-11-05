@@ -230,12 +230,39 @@ _model = None
 
 
 _modeller = []
+_biten = set()          # bugün (Pasifik günü) günlük kotası dolan modeller; ücretsiz kota her model için ayrıdır
+
+
+def _surum(ad):
+    s = re.findall(r"(\d+(?:\.\d+)?)", ad)
+    return float(s[0]) if s else 0.0
+
+
+def yedek_modeller():
+    """Kotası dolmamış, aynı işe uygun 'lite' modeller (düşünme kipi kapalı; JSON yanıtı kısa). Sıra: model listesindeki sıra."""
+    model_sec()
+    return [m for m in _modeller if "lite" in m and _surum(m) >= 2.5 and m not in _biten]
 
 
 def yedek_model():
-    """Seçili model yoğunken (503) bir kez denenecek ikinci model: listedeki bir sonraki 'flash' modeli."""
+    """Seçili model yoğunken (503) bir kez denenecek ikinci model: listedeki bir sonraki uygun model."""
     model_sec()
-    return next((m for m in _modeller if m != _model), "")
+    return next((m for m in yedek_modeller() if m != _model), "")
+
+
+def model_bitti(model):
+    """Bir modelin günlük kotası doldu (429 PerDay): o gün kotası dolmamış bir sonraki modele geçilir. Yoksa '' döner
+    (o zaman bütün modellerin kotası dolmuştur)."""
+    global _model
+    model_sec()
+    _biten.add(model)
+    kalan = yedek_modeller()
+    if kalan:
+        if _model in _biten:
+            print(f"   {model} günlük kotası doldu; {kalan[0]} modeline geçildi")
+            _model = kalan[0]
+        return _model
+    return ""
 
 
 def model_sec():
@@ -303,6 +330,9 @@ def yz_yaz(h, kaynak_metin):
                           headers={"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}, json=istek, timeout=60)
         if r.status_code == 429:
             if gs.GUNLUK_KOTA_RE.search(r.text or ""):
+                onceki_model = model_sec()
+                if model_bitti(onceki_model) and model_sec() != onceki_model:
+                    continue                  # başka bir modelin günlük kotası var
                 GUNLUK_KOTA["bitti"] = True
                 raise RuntimeError("Gemini günlük kotası doldu; kota yenilenince yeniden denenecek")
             print("   Yapay zekâ kotası doldu, bekleniyor…")
@@ -428,6 +458,21 @@ def main():
     arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("c6:", "wd:", "kat:", "cf:", "kut:", "kur:"))}
     bag = gs.Baglam(ayar, durum, GEMINI_KEY if ayar.get("yapay_zeka", True) else "", model_sec, arsiv)
     bag.yedek_model_fn = yedek_model
+    bag.model_bitti_fn = model_bitti
+    bag.kalan_modeller_fn = yedek_modeller
+    bag.biten_modeller = _biten
+    # Günlük kotası dolan modeller (Pasifik günü). Eski kayıtta yalnızca "kota_bitti" varsa o gün yalnızca ana model dolmuş sayılır;
+    # diğer modeller denenir (her modelin ücretsiz kotası ayrıdır).
+    km = durum["gorsel"].get("kota_modeller") or {}
+    if km.get("gun") == gs.gemini_gunu():
+        _biten.update(km.get("modeller") or [])
+    elif durum["gorsel"].get("kota_bitti") == gs.gemini_gunu() and GEMINI_KEY:
+        _biten.add(model_sec())
+    if GEMINI_KEY and _biten:
+        if model_sec() in _biten:
+            model_bitti(model_sec())          # kotası olan bir sonraki modele geçer
+        if yedek_modeller():
+            durum["gorsel"].pop("kota_bitti", None)
     gorsel_tur_limit = int(ayar.get("gorsel_tur_limit", 6))
     print("Görsel hattı:", gs.KURAL_SURUMU, "(gerçek → arşiv → fotoğrafsız kapak)")
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
@@ -531,6 +576,7 @@ def main():
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 30)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()
+    durum["gorsel"]["kota_modeller"] = {"gun": gs.gemini_gunu(), "modeller": sorted(_biten)}
     json_yaz(DURUM_DOSYA, durum)
     print(f"\nBu turda {yazilan} haber eklendi. Bugün yapay zekâ ile yazılan: {durum['yz_bugun']}/{yz_limit}")
 
