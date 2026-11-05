@@ -2,37 +2,37 @@
 title: Antalya ve Alanya'da LPG Fiyatlarına Büyük Zam Beklentisi
 date: '2026-11-02T15:05:00+03:00'
 ozet: Akaryakıt piyasasındaki hareketliliğin ardından otogaz fiyatlarına litre başına 9 TL'yi aşan bir zam yapılması bekleniyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
+gorsel: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Dawn McDonald / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Alanya
-gorsel_tur: arsiv
+gorsel_tur: stok
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-  fotografci: Julian Lupyan
-  kredi: Julian Lupyan / Wikimedia Commons (CC0)
-  lisans: CC0
-  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Alanya
-  cekim_yili: '2024'
-  gerekce: '''Alanya'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Alanya''nın genel manzarasını gösteren arşiv fotoğrafı, bölgesel haber için uygundur.'
-  surum: g7.7-2026-11-02
+  tur: stok
+  kaynak_sayfa: https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94
+  fotografci: Dawn McDonald
+  kredi: Dawn McDonald / Unsplash
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+  gosterilen: LPG zammı
+  cekim_yili: ''
+  gerekce: 'Unsplash araması ''LPG gas pump''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Akaryakıt pompası detayı, LPG zammı haberi için doğrudan ilgili ve uygun bir görseldir.'
+  surum: g9.1-2026-11-05
   konu_imza: fe4d0e29c7cc
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8TFBHJTIwZ2FzJTIwcHVtcHxlbnwxfDB8fHwxNzkzNjUwNzA2fDA&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-02T17:27:37+03:00'
+    tarih: '2026-11-05T17:06:00+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  aciklama: Alanya — Arşiv fotoğrafı (2024)
-  alt_tur: kurum
-  kurum: k3
-  kurum_notu: Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %15); ATUS Antalya dışı kurum, kullanılmadı
+    model: gemini-3.1-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
+  kurum: k4
+  kurum_notu: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +43,36 @@ kaynak_url: https://www.yenialanya.com/lpgye-9-tl-zam-bekleniyor-alanyada-fiyatl
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Accompaniment_Of_The_Little_Dog.jpg/1280px-Accompaniment_Of_The_Little_Dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Şeyma Şanal / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
+    fotografci: Julian Lupyan
+    kredi: Julian Lupyan / Wikimedia Commons (CC0)
+    lisans: CC0
+    lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Alanya
+    cekim_yili: '2024'
+    gerekce: '''Alanya'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Alanya''nın genel manzarasını gösteren arşiv fotoğrafı, bölgesel haber için uygundur.'
+    surum: g7.7-2026-11-02
+    konu_imza: fe4d0e29c7cc
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-02T17:27:37+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Alanya — Arşiv fotoğrafı (2024)
+    alt_tur: kurum
+    kurum: k3
+    kurum_notu: Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %15); ATUS Antalya dışı kurum, kullanılmadı
+  degisim: '2026-11-05T17:06:00+03:00'
 ---
 Akaryakıt fiyatlarında kasım ayının ilk günlerinde yaşanan gelişmelerin ardından LPG kullanıcılarını yakından ilgilendiren yeni bir zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgiye göre, 3 Kasım 2026 Salı günü saat 00.01'den itibaren otogazin litre fiyatına 9,09 ile 9,15 TL arasında artış yansıtılması öngörülüyor. Gerçekleşmesi beklenen bu artışla birlikte Antalya ve Alanya genelinde LPG litre fiyatlarının 50 TL sınırını aşabileceği hesaplanıyor. Dağıtım şirketlerinin resmi tarifeleri henüz netleşmezken, nihai rakamların istasyonların pompa fiyatlarını güncellemesiyle kesinleşeceği belirtiliyor.
 

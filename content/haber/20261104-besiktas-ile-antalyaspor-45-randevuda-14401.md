@@ -2,35 +2,37 @@
 title: Beşiktaş ile Antalyaspor 45. randevuda
 date: '2026-11-04T15:17:00+03:00'
 ozet: Süper Lig'de köklü bir geçmişe sahip olan Beşiktaş ve Antalyaspor, tarihlerindeki 45inci lig maçına hazırlanıyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg/1280px-Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Sakhalinio / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Vodafone_Park.jpg/1280px-Vodafone_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Matt Growcoot / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler: []
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_(3)_cropped.jpg
-  fotografci: Sakhalinio
-  kredi: Sakhalinio / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Vodafone_Park.jpg
+  fotografci: Matt Growcoot
+  kredi: Matt Growcoot / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: İstanbul
-  cekim_yili: '2016'
-  gerekce: 'dosya kaydında yer (''İstanbul'') ve konu ipucu (football match, stadium) birlikte geçiyor; görsel kontrol: Dolu tribünler ve futbol sahası içeren stadyum içi görünümü, maç haberiyle birebir uyuşur.'
-  surum: g8.1-2026-11-02
+  gosterilen: Beşiktaş Stadyumu
+  cekim_yili: '2022'
+  gerekce: '''Beşiktaş'' Wikidata Q172567 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Beşiktaş Stadyumu; görsel kontrol: Beşiktaş''ın iç saha stadyumunun genel görünümüdür, haberin konusuyla uyumlu ve nötr bir arşiv görselidir.'
+  surum: g9.1-2026-11-05
   konu_imza: 6816a1ccfbaa
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg/1280px-Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Vodafone_Park.jpg/1280px-Vodafone_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T03:14:27+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  aciklama: İstanbul — Arşiv fotoğrafı (2016)
-  alt_tur: yer_konu
+    tarih: '2026-11-05T17:02:22+03:00'
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    model: gemini-3.1-flash-lite
+  aciklama: Beşiktaş Stadyumu — Arşiv fotoğrafı (2022)
+  alt_tur: kurum
+  qid: Q172567
   kurum: k4
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,6 +40,38 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/2697849-besiktas-ile-antalyaspor-45-maca-cikiyor
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg/1280px-Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Sakhalinio / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg/1280px-Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Sakhalinio / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_(3)_cropped.jpg
+    fotografci: Sakhalinio
+    kredi: Sakhalinio / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: İstanbul
+    cekim_yili: '2016'
+    gerekce: 'dosya kaydında yer (''İstanbul'') ve konu ipucu (football match, stadium) birlikte geçiyor; görsel kontrol: Dolu tribünler ve futbol sahası içeren stadyum içi görünümü, maç haberiyle birebir uyuşur.'
+    surum: g8.1-2026-11-02
+    konu_imza: 6816a1ccfbaa
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg/1280px-Be%C5%9Fikta%C5%9F_J.K._vs_Bursaspor_11_April_2016_%283%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T03:14:27+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: İstanbul — Arşiv fotoğrafı (2016)
+    alt_tur: yer_konu
+    kurum: k4
+  degisim: '2026-11-05T17:02:22+03:00'
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 

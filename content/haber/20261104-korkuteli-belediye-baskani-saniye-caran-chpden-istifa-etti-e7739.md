@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: f349768efe8f
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-04T16:59:42+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T17:06:22+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
   kurum: k4
+  kurum_notu: 'Korkuteli Belediyesi sayfasında haber fotoğrafı yok (4 görsel; ); kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceede'
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberi'
+    notlar: 'Korkuteli Belediyesi sayfasında haber fotoğrafı yok (4 görsel; ); kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Korkuteli Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Bomba 15
 kaynak_url: https://www.bomba15.com/antalyada-siyaset-gundemini-sarsan-istifa-chpli-belediye-baskani-partisinden-ayrildi-bagimsiz-devam-edecek
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Korkuteli ilçesinde siyasi gündemi değiştiren önemli bir gelişme yaşandı. 31 Mart 2024 Mahalli İdareler Seçimleri'nde Cumhuriyet Halk Partisi'nden aday olarak belediye başkanlığı koltuğuna oturan Saniye Caran, partisinden ayrıldığını duyurdu. Yazılı bir açıklama yapan Caran, bundan sonraki süreçte görevine bağımsız belediye başkanı olarak devam edeceğini bildirdi.
 
