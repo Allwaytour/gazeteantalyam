@@ -18,21 +18,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.2-2026-11-05
   konu_imza: 2e69cdbac817
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T16:53:26+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T17:41:32+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k4
   kurum_notu: kurum fotoğrafı önbellekten
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panelists, audience) i'
-    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panelists, audience) ilişkili lisanslı fotoğraf bulunamadı; mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı'
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İklim Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panelists, audience) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

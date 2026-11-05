@@ -2,8 +2,8 @@
 title: Antalya turizmde 12 milyonu geride bıraktı
 date: '2026-11-05T11:04:00+03:00'
 ozet: Yılın ilk dokuz ayında Türkiye genelinde turizm gelirleri artarken, Antalya'da ağırlanan yabancı ziyaretçi sayısı 12,4 milyonun üzerine çıktı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Bestalex / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg/1280px-MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -11,28 +11,28 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg
-  fotografci: Bestalex
-  kredi: Bestalex / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:MS_Oosterdam_in_the_Port_of_Alanya,_2024.jpg
+  fotografci: Julian Lupyan
+  kredi: Julian Lupyan / Wikimedia Commons (CC0)
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Gazipaşa-Alanya Havalimanı
-  cekim_yili: '2017'
-  gerekce: '''Gazipaşa-Alanya Havalimanı'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2017-08-29; görsel kontrol: Havalimanı ve uçak görseli turizm haberi için uygundur. Arşiv kaydı belirtilerek kullanılabilir.'
-  surum: g9.1-2026-11-05
+  gosterilen: Alanya Limanı
+  cekim_yili: '2024'
+  gerekce: '''Alanya Limanı'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Liman ve kruvaziyer turizmini gösteren, haberin turizm verileri konusuyla doğrudan ilişkili uygun bir arşiv fotoğrafıdır.'
+  surum: g9.2-2026-11-05
   konu_imza: 06f0173745fc
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg/1280px-MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T16:51:20+03:00'
+    tarih: '2026-11-05T17:40:32+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  aciklama: Gazipaşa-Alanya Havalimanı — Arşiv fotoğrafı (2017)
+  aciklama: Alanya Limanı — Arşiv fotoğrafı (2024)
   alt_tur: kurum
   kurum: k4
-  kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  kurum_notu: kurum fotoğrafı önbellekten
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -74,6 +74,35 @@ gorsel_gecmis:
       kod: arama_yapilmadi
       aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
   degisim: '2026-11-05T16:51:20+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Bestalex / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg
+    fotografci: Bestalex
+    kredi: Bestalex / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Gazipaşa-Alanya Havalimanı
+    cekim_yili: '2017'
+    gerekce: '''Gazipaşa-Alanya Havalimanı'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2017-08-29; görsel kontrol: Havalimanı ve uçak görseli turizm haberi için uygundur. Arşiv kaydı belirtilerek kullanılabilir.'
+    surum: g9.1-2026-11-05
+    konu_imza: 06f0173745fc
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T16:51:20+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Gazipaşa-Alanya Havalimanı — Arşiv fotoğrafı (2017)
+    alt_tur: kurum
+    kurum: k4
+    kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  degisim: '2026-11-05T17:40:32+03:00'
 ---
 Kültür ve Turizm Bakanlığından paylaşılan verilere göre, yılın ocak-eylül döneminde Türkiye'yi ziyaret edenlerin toplam sayısı 49 milyon 132 bine ulaştı. Bu dönemde elde edilen turizm gelirleri geçen yılın aynı dönemine kıyasla yüzde 2,4 artış göstererek 51 milyar 278 milyon dolara çıktı. Ülkeye en çok ziyaretçi gönderen ülkeler sıralamasında Rusya ilk sırada yer alırken, bu ülkeyi Almanya ve İngiltere takip etti.
 

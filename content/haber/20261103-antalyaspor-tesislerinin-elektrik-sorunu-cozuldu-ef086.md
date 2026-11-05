@@ -20,21 +20,21 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  surum: g9.2-2026-11-05
   konu_imza: e1769ca0c73a
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T16:56:24+03:00'
+    tarih: '2026-11-05T17:43:02+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k4
-  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Atilla Vehbi Konuk Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Atilla Vehbi Konuk Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir); mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı'
+    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Atilla Vehbi Konuk Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Atilla Vehbi Konuk Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

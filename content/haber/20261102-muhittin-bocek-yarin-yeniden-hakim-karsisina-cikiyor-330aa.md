@@ -20,7 +20,7 @@ gorsel_secim:
   gosterilen: Muhittin Böcek
   cekim_yili: '2015'
   gerekce: '''Muhittin Böcek'' kimliği Wikidata Q77566969 (Turkish statesperson (born 1962) Eski Antalya Büyükşehir Bel) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: önceden onaylanmış nötr arşiv portresi (2026-11-05); ''hassas'' bağlamına uygun olarak kayıtlı'
-  surum: g9.1-2026-11-05
+  surum: g9.2-2026-11-05
   konu_imza: 85d817726eb5
   gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:

@@ -2,36 +2,38 @@
 title: Antalya'da düzenlenen muaythai şampiyonasında madalya sevinci
 date: '2026-11-05T10:09:08+03:00'
 ozet: Bilecikli muaythai sporcuları, Antalya'daki 29 Ekim Cumhuriyet Kupası'ndan 1 altın ve 2 gümüş madalya ile döndü.
-gorsel: https://images.unsplash.com/photo-1601039833801-25f595bfbaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg2Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Jonathan Tomas / Unsplash'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/woman-in-blue-sports-bra-and-white-shorts-4RbUAn1fnKo
-  fotografci: Jonathan Tomas
-  kredi: Jonathan Tomas / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: muaythai şampiyonası madalya sevinci
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''muaythai fight''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Muaythai müsabakasını doğrudan gösteren uygun bir temsilî fotoğraftır.'
-  surum: g9.1-2026-11-05
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.2-2026-11-05
   konu_imza: 848237ab2e8b
-  gorsel_url: https://images.unsplash.com/photo-1601039833801-25f595bfbaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg2Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T16:53:23+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T17:40:48+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k4
   kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muay thai ring, muay thai fighters, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası madalya sevinci'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai maçı ring)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -100,6 +102,35 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
   degisim: '2026-11-05T16:53:23+03:00'
+- gorsel: https://images.unsplash.com/photo-1601039833801-25f595bfbaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg2Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Jonathan Tomas / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/woman-in-blue-sports-bra-and-white-shorts-4RbUAn1fnKo
+    fotografci: Jonathan Tomas
+    kredi: Jonathan Tomas / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: muaythai şampiyonası madalya sevinci
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''muaythai fight''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Muaythai müsabakasını doğrudan gösteren uygun bir temsilî fotoğraftır.'
+    surum: g9.1-2026-11-05
+    konu_imza: 848237ab2e8b
+    gorsel_url: https://images.unsplash.com/photo-1601039833801-25f595bfbaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg2Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T16:53:23+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kurum: k4
+    kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
+  degisim: '2026-11-05T17:41:26+03:00'
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilen 29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası, kıyasıya mücadelelere sahne oldu. Şampiyonada farklı yaş ve kilo gruplarında ter döken Bilecikli sporcular, başarılı sonuçlar elde ederek kürsüye çıkmayı başardı.
 

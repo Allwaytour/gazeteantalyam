@@ -14726,7 +14726,36 @@
    "lisans_url": "",
    "yazar": "Yıldız Yazıcıoğlu",
    "onay": "2026-11-02",
-   "kullanim": 3
+   "kullanim": 4,
+   "son": "2026-11-05",
+   "arsiv_kaydi": {
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg",
+    "fotografci": "Yıldız Yazıcıoğlu",
+    "lisans": "Public domain",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Devlet_Bah%C3%A7eli_VOA_2015_(cropped).jpg",
+    "atif": "Fotoğraf: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
+    "kimlik": {
+     "tur": "kisi_genel",
+     "ad": "Devlet Bahçeli",
+     "qid": "Q1206951"
+    },
+    "cekim": "2015-05-07",
+    "gorsel_turu": "kisi_genel",
+    "uygun_baglamlar": [
+     "genel",
+     "hassas"
+    ],
+    "uygun_olmayan_baglamlar": [],
+    "gerekce": "'Devlet Bahçeli' kimliği Wikidata Q1206951 (Leader of the Nationalist Action Party Türk siyasetçi) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Devlet Bahçeli'nin net bir portre fotoğrafıdır, haber için oldukça uygundur.",
+    "dogrulama_tarihi": "2026-11-05",
+    "kural_surumu": "g9.2-2026-11-05",
+    "kontrol": {
+     "tek": true,
+     "benzerlik": 0,
+     "iliski": 10
+    }
+   }
   }
  ],
  "c6:alanya belediyesi": [
@@ -21807,7 +21836,7 @@
    "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "yazar": "Cemilbocek",
    "onay": "2026-11-02",
-   "kullanim": 5,
+   "kullanim": 6,
    "son": "2026-11-05",
    "arsiv_kaydi": {
     "gorsel": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -108355,6 +108384,57 @@
      "iliski": 10
     }
    }
+  },
+  {
+   "baslik": "File:Besiktas JK defenders 2007.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG",
+   "genislik": 1600,
+   "yukseklik": 1200,
+   "aciklama": "Besiktas defenders at BJK İnönü Stadyum",
+   "nesne": "Besiktas JK defenders 2007",
+   "tarih": "2007-04-22",
+   "kategoriler": "Baki Mercimek | Group photographs of Beşiktaş JK | Gökhan Zan | Images with annotations | PD-self | Self-published work | Serdar Kurtuluş | Taken with Konica Minolta Dimage Z6 | İbrahim Toraman",
+   "lisans": "Public domain",
+   "lisans_url": "",
+   "yazar": "Math34",
+   "onay": "2026-11-05",
+   "son": "2026-11-05",
+   "kullanim": 1,
+   "kimlik": {
+    "tur": "kurum",
+    "ad": "Beşiktaş",
+    "qid": "Q172567"
+   },
+   "arsiv_kaydi": {
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Besiktas_JK_defenders_2007.JPG/1280px-Besiktas_JK_defenders_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG",
+    "fotografci": "Math34",
+    "lisans": "Public domain",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Besiktas_JK_defenders_2007.JPG",
+    "atif": "Fotoğraf: Math34 / Wikimedia Commons (Public domain)",
+    "kimlik": {
+     "tur": "kurum",
+     "ad": "Beşiktaş",
+     "qid": "Q172567"
+    },
+    "cekim": "2007-04-22",
+    "gorsel_turu": "kurum",
+    "uygun_baglamlar": [
+     "konu: futbol maçı"
+    ],
+    "uygun_olmayan_baglamlar": [
+     "konusu farklı haberler (her haberde ayrıca görüntü kontrolü gerekir)"
+    ],
+    "gerekce": "'Beşiktaş' Wikidata Q172567 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Beşiktaş futbolcularının stadyumdaki maç karesi, haberin konusuyla tam uyumludur.",
+    "dogrulama_tarihi": "2026-11-05",
+    "kural_surumu": "g9.2-2026-11-05",
+    "kontrol": {
+     "tek": false,
+     "benzerlik": 10,
+     "iliski": 10
+    }
+   }
   }
  ],
  "wd:v4:0:supheli olum:antalya kadipasa mahallesi, alanya": {
@@ -112052,5 +112132,918 @@
    "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
    "yazar": "vlidi"
   }
- ]
+ ],
+ "wd:v4:1:suleyman kerli:muhendislik, mimarlik ve tasarim fakulte": {
+  "_yok": "2026-11-05"
+ },
+ "wd:v4:0:yuksekogretim kurulu pavilyonu:antalya antalya": {
+  "_yok": "2026-11-05"
+ },
+ "wd:v4:0:higher education council pavilion:antalya": {
+  "_yok": "2026-11-05"
+ },
+ "c6:gazipaşa-alanya havalimanı": [
+  {
+   "baslik": "File:Gazipaşa-Alanya Airport Terminal.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg",
+   "genislik": 2239,
+   "yukseklik": 1658,
+   "aciklama": "Терминал аэропорта Газипаша-Аланья, Турция",
+   "nesne": "Gazipaşa-Alanya Airport Terminal",
+   "tarih": "2017-08-20 06:21:06",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Bestalex"
+  },
+  {
+   "baslik": "File:Boeing 737-800 in Gazipaşa-Alanya Airport.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg",
+   "genislik": 5184,
+   "yukseklik": 3456,
+   "aciklama": "Самолёт Boeing 737-800 в аэропорту Газипаша-Аланья",
+   "nesne": "Boeing 737-800 in Gazipaşa-Alanya Airport",
+   "tarih": "2017-08-29 09:10:01",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Bestalex"
+  },
+  {
+   "baslik": "File:Gazipasa-Alanya coast 01-3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gazipasa-Alanya_coast_01-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Gazipasa-Alanya_coast_01-3.jpg",
+   "genislik": 1200,
+   "yukseklik": 900,
+   "aciklama": "View of the coast between Gazipaşa and Alanya",
+   "nesne": "Gazipasa-Alanya coast 01-3",
+   "tarih": "2010-08-22 17:49:44",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Stegop"
+  },
+  {
+   "baslik": "File:Gazipasa-Alanya coast 02-3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gazipasa-Alanya_coast_02-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Gazipasa-Alanya_coast_02-3.jpg",
+   "genislik": 1200,
+   "yukseklik": 900,
+   "aciklama": "View of the coast between Gazipaşa and Alanya",
+   "nesne": "Gazipasa-Alanya coast 02-3",
+   "tarih": "2010-08-22 17:51:07",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Stegop"
+  },
+  {
+   "baslik": "File:Gazipasa-Alanya coast 03-1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gazipasa-Alanya_coast_03-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Gazipasa-Alanya_coast_03-1.jpg",
+   "genislik": 1200,
+   "yukseklik": 900,
+   "aciklama": "View of the coast between Gazipaşa and Alanya",
+   "nesne": "Gazipasa-Alanya coast 03-1",
+   "tarih": "2010-08-22 17:51:49",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Stegop"
+  },
+  {
+   "baslik": "File:School Uniform for GZP&CMS (L).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/School_Uniform_for_GZP%26CMS_%28L%29.jpg/1280px-School_Uniform_for_GZP%26CMS_%28L%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:School_Uniform_for_GZP%26CMS_(L).jpg",
+   "genislik": 1836,
+   "yukseklik": 1836,
+   "aciklama": "廣州石化中學嘅校服（長袖）",
+   "nesne": "School Uniform for GZP&CMS (L)",
+   "tarih": "2016-01-08 13:17:03",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "WKDx417"
+  },
+  {
+   "baslik": "File:Bluestar 1125 HF58 GZP 4.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bluestar_1125_HF58_GZP_4.JPG/1280px-Bluestar_1125_HF58_GZP_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Bluestar_1125_HF58_GZP_4.JPG",
+   "genislik": 3065,
+   "yukseklik": 1906,
+   "aciklama": "Bluestar 1125 (HF58 GZP), a Scania CN230UD 4x2 EB OmniCity (built 2008), in Castle Way, Southampton , laying over out of service.",
+   "nesne": "Bluestar 1125 HF58 GZP 4",
+   "tarih": "2009-05-23",
+   "kategoriler": "2009 in Southampton | 58 registered buses in the United Kingdom | Bluestar buses in Southampton | Buses in the United Kingdom photographed in May 2009 | CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation (50° N, 2° W) | GFDL | Images by Arriva436 | License migration redundant | May 2009 in Hampshire | Public transport buses in the United Kingdom | Scania CN230UD OmniCity buses in the United Kingdom | Self-published work | Taken with Panasonic Lumix DMC-TZ5 | United Kingdom photographs taken on 2009-05-23",
+   "lisans": "CC BY-SA 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "yazar": "Arriva436"
+  },
+  {
+   "baslik": "File:Bluestar 1125 HF58 GZP rear 4.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bluestar_1125_HF58_GZP_rear_4.JPG/1280px-Bluestar_1125_HF58_GZP_rear_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Bluestar_1125_HF58_GZP_rear_4.JPG",
+   "genislik": 3362,
+   "yukseklik": 2088,
+   "aciklama": "Bluestar 1125 (HF58 GZP), a Scania CN230UD 4x2 EB OmniCity (built 2008), seen at the Bustival event, Havenstreet , Isle of Wight , celebrating the 80th anniversary of Southern Vectis .",
+   "nesne": "Bluestar 1125 HF58 GZP rear 4",
+   "tarih": "2009-05-25",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "yazar": "Arriva436"
+  },
+  {
+   "baslik": "File:School Uniform for GZP&CMS (S).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/School_Uniform_for_GZP%26CMS_%28S%29.jpg/1280px-School_Uniform_for_GZP%26CMS_%28S%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:School_Uniform_for_GZP%26CMS_(S).jpg",
+   "genislik": 1836,
+   "yukseklik": 1836,
+   "aciklama": "广州石化中学嘅短袖校服",
+   "nesne": "School Uniform for GZP&CMS (S)",
+   "tarih": "2016-07-07 15:01:35",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "WKDx417"
+  },
+  {
+   "baslik": "File:Bluestar 1125 HF58 GZP rear 2.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bluestar_1125_HF58_GZP_rear_2.JPG/1280px-Bluestar_1125_HF58_GZP_rear_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Bluestar_1125_HF58_GZP_rear_2.JPG",
+   "genislik": 3457,
+   "yukseklik": 2088,
+   "aciklama": "The rear of Bluestar 1125 (HF58 GZP), a Scania CN230UD 4x2 EB OmniCity (built 2008), in Castle Way, Southampton , laying over out of service.",
+   "nesne": "Bluestar 1125 HF58 GZP rear 2",
+   "tarih": "2009-05-23",
+   "kategoriler": "2009 in Southampton | 58 registered buses in the United Kingdom | Bluestar buses in Southampton | Buses in the United Kingdom photographed in May 2009 | CC-BY-SA-3.0 | Files with coordinates missing SDC location of creation (50° N, 2° W) | GFDL | Images by Arriva436 | License migration redundant | May 2009 in Hampshire | Public transport buses in the United Kingdom | Scania CN230UD OmniCity buses in the United Kingdom | Self-published work | Taken with Panasonic Lumix DMC-TZ5 | United Kingdom photographs taken on 2009-05-23",
+   "lisans": "CC BY-SA 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "yazar": "Arriva436"
+  },
+  {
+   "baslik": "File:Bluestar 1125 HF58 GZP 5.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bluestar_1125_HF58_GZP_5.JPG/1280px-Bluestar_1125_HF58_GZP_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Bluestar_1125_HF58_GZP_5.JPG",
+   "genislik": 2908,
+   "yukseklik": 2088,
+   "aciklama": "Bluestar 1125 (HF58 GZP), a Scania CN230UD 4x2 EB OmniCity (built 2008), seen at the Bustival event, Havenstreet , Isle of Wight , celebrating the 80th anniversary of Southern Vectis . The very bright sunlight that had come out at the time makes the darker blue livery this bus carries look much lighter.",
+   "nesne": "Bluestar 1125 HF58 GZP 5",
+   "tarih": "2009-05-25",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "yazar": "Arriva436"
+  },
+  {
+   "baslik": "File:Bluestar 1125 HF58 GZP rear 3.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bluestar_1125_HF58_GZP_rear_3.JPG/1280px-Bluestar_1125_HF58_GZP_rear_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Bluestar_1125_HF58_GZP_rear_3.JPG",
+   "genislik": 2669,
+   "yukseklik": 2088,
+   "aciklama": "Bluestar 1125 (HF58 GZP), a Scania CN230UD 4x2 EB OmniCity (built 2008), seen at the Bustival event, Havenstreet , Isle of Wight , celebrating the 80th anniversary of Southern Vectis .",
+   "nesne": "Bluestar 1125 HF58 GZP rear 3",
+   "tarih": "2009-05-25",
+   "kategoriler": "58 registered buses in the United Kingdom | Bluestar (bus company) | CC-BY-SA-3.0 | GFDL | Images by Arriva436 | License migration redundant | Public transport buses in the United Kingdom | Scania CN230UD OmniCity buses in the United Kingdom | Self-published work | Southern Vectis Bustival 2009",
+   "lisans": "CC BY-SA 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "yazar": "Arriva436"
+  },
+  {
+   "baslik": "File:YN05 GZP (Route 37) at North Street, Brighton (14907947319).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/YN05_GZP_%28Route_37%29_at_North_Street%2C_Brighton_%2814907947319%29.jpg/1280px-YN05_GZP_%28Route_37%29_at_North_Street%2C_Brighton_%2814907947319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:YN05_GZP_(Route_37)_at_North_Street,_Brighton_(14907947319).jpg",
+   "genislik": 2736,
+   "yukseklik": 3648,
+   "aciklama": "Bus: YN05 GZP Route: 37 Destination: Brighton Station Location: North Street, Brighton Date: 20th July 2014",
+   "nesne": "YN05 GZP (Route 37) at North Street, Brighton (14907947319)",
+   "tarih": "2014-07-20 18:11",
+   "kategoriler": "",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "Matt Davis"
+  },
+  {
+   "baslik": "File:Trentbarton - Ilkeston Flyer (307 - YY24 GZP) - 20 June 2025.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Trentbarton_-_Ilkeston_Flyer_%28307_-_YY24_GZP%29_-_20_June_2025.jpg/1280px-Trentbarton_-_Ilkeston_Flyer_%28307_-_YY24_GZP%29_-_20_June_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Trentbarton_-_Ilkeston_Flyer_(307_-_YY24_GZP)_-_20_June_2025.jpg",
+   "genislik": 4505,
+   "yukseklik": 3006,
+   "aciklama": "Ilkeston Flyer-branded Trentbarton bus in Derby.",
+   "nesne": "Trentbarton - Ilkeston Flyer (307 - YY24 GZP) - 20 June 2025",
+   "tarih": "2025-06-20 10:41",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Aethonatic"
+  },
+  {
+   "baslik": "File:YN05 GZP (Route 49) at Western Road, Hove (8403208826).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/YN05_GZP_%28Route_49%29_at_Western_Road%2C_Hove_%288403208826%29.jpg/1280px-YN05_GZP_%28Route_49%29_at_Western_Road%2C_Hove_%288403208826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:YN05_GZP_(Route_49)_at_Western_Road,_Hove_(8403208826).jpg",
+   "genislik": 1944,
+   "yukseklik": 1944,
+   "aciklama": "Operator: Brighton & Hove Bus Company Bus: YN05 GZP Route: 49 Destination: Portslade Station Location: Western Road, Hove Date: 19th January 2013 Services had been subject to alteration citywide for about 24 hours because of snow. They were just getting back to normal on this Saturday lunchtime.",
+   "nesne": "YN05 GZP (Route 49) at Western Road, Hove (8403208826)",
+   "tarih": "2013-01-19 12:07",
+   "kategoriler": "",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "Matt Davis"
+  }
+ ],
+ "kut:ad:alanya limani": [
+  {
+   "baslik": "File:MS Oosterdam in the Port of Alanya, 2024.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg/1280px-MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:MS_Oosterdam_in_the_Port_of_Alanya,_2024.jpg",
+   "genislik": 5898,
+   "yukseklik": 3512,
+   "aciklama": "MS Oosterdam in the Port of Alanya, viewed from Red Tower, 2024",
+   "nesne": "MS Oosterdam in the Port of Alanya, 2024",
+   "tarih": "2024-08-14 11:30:16",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Julian Lupyan",
+   "onay": "2026-11-05",
+   "son": "2026-11-05",
+   "kullanim": 1,
+   "kimlik": {
+    "tur": "kurum",
+    "ad": "Alanya Limanı",
+    "qid": ""
+   },
+   "arsiv_kaydi": {
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg/1280px-MS_Oosterdam_in_the_Port_of_Alanya%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:MS_Oosterdam_in_the_Port_of_Alanya,_2024.jpg",
+    "fotografci": "Julian Lupyan",
+    "lisans": "CC0",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "atif": "Fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)",
+    "kimlik": {
+     "tur": "kurum",
+     "ad": "Alanya Limanı",
+     "qid": ""
+    },
+    "cekim": "2024-08-14",
+    "gorsel_turu": "kurum",
+    "uygun_baglamlar": [
+     "konu: turizm verileri"
+    ],
+    "uygun_olmayan_baglamlar": [
+     "konusu farklı haberler (her haberde ayrıca görüntü kontrolü gerekir)"
+    ],
+    "gerekce": "'Alanya Limanı' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2024-08-14; görsel kontrol: Liman ve kruvaziyer turizmini gösteren, haberin turizm verileri konusuyla doğrudan ilişkili uygun bir arşiv fotoğrafıdır.",
+    "dogrulama_tarihi": "2026-11-05",
+    "kural_surumu": "g9.2-2026-11-05",
+    "kontrol": {
+     "tek": false,
+     "benzerlik": 7,
+     "iliski": 9
+    }
+   }
+  }
+ ],
+ "wd:v4:0:october 29 republic cup muaythai championship:antalya": {
+  "_yok": "2026-11-05"
+ },
+ "c6:muay thai fight": [
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668035).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Muay_Thai_Fight_Us_Vs_Burma_%2880668035%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668035%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668035).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1365,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668079).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Muay_Thai_Fight_Us_Vs_Burma_%2880668079%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668079%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668079).jpeg",
+   "genislik": 1364,
+   "yukseklik": 2048,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:44 (UTC)",
+   "kategoriler": "",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668029).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Muay_Thai_Fight_Us_Vs_Burma_%2880668029%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668029%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668029).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1365,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668027).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Muay_Thai_Fight_Us_Vs_Burma_%2880668027%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668027%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668027).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668041).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Muay_Thai_Fight_Us_Vs_Burma_%2880668041%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668041%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668041).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668073).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Muay_Thai_Fight_Us_Vs_Burma_%2880668073%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668073%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668073).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668025).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668025%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668025%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668025).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668055).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Muay_Thai_Fight_Us_Vs_Burma_%2880668055%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668055%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668055).jpeg",
+   "genislik": 1366,
+   "yukseklik": 2048,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668063).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Muay_Thai_Fight_Us_Vs_Burma_%2880668063%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668063%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668063).jpeg",
+   "genislik": 1366,
+   "yukseklik": 2048,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668065).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668065).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668053).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Muay_Thai_Fight_Us_Vs_Burma_%2880668053%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668053%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668053).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1365,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668067).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Muay_Thai_Fight_Us_Vs_Burma_%2880668067%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668067%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668067).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668023).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Muay_Thai_Fight_Us_Vs_Burma_%2880668023%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668023%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668023).jpeg",
+   "genislik": 1366,
+   "yukseklik": 2048,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:42 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668047).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Muay_Thai_Fight_Us_Vs_Burma_%2880668047%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668047%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668047).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  },
+  {
+   "baslik": "File:Muay Thai Fight Us Vs Burma (80668045).jpeg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Muay_Thai_Fight_Us_Vs_Burma_%2880668045%29.jpeg/1280px-Muay_Thai_Fight_Us_Vs_Burma_%2880668045%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668045).jpeg",
+   "genislik": 2048,
+   "yukseklik": 1366,
+   "aciklama": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "nesne": "Muay Thai Fight Us Vs Burma",
+   "tarih": "before 23 August 2014, 02:36:43 (UTC)",
+   "kategoriler": "CC-BY-3.0 | Muay Thai | Photos imported with import-500px",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Gerrit Phil Baumann"
+  }
+ ],
+ "c6:us:muay thai fight": [
+  {
+   "url": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/muay-thai-boxer-kick-opponent-h8sl-oNcat0",
+   "indirme": "https://api.unsplash.com/photos/h8sl-oNcat0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Pablo Rebolledo",
+   "aciklama": "Muay Thai Fight at Cambodia"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/man-in-black-and-red-jersey-shirt-YyDdZMFhTpk",
+   "indirme": "https://api.unsplash.com/photos/YyDdZMFhTpk/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "man in black and red jersey shirt"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1729673517080-44353fa68fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1729673517080-44353fa68fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-in-a-gym-j_7Rd7uFl_g",
+   "indirme": "https://api.unsplash.com/photos/j_7Rd7uFl_g/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Antonio Araujo",
+   "aciklama": "A couple of men standing next to each other in a gym"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1611824916152-aa0bb8fab162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1611824916152-aa0bb8fab162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/2-men-holding-blue-and-white-labeled-bottle-vXDldWRLJw4",
+   "indirme": "https://api.unsplash.com/photos/vXDldWRLJw4/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "2 men holding blue and white labeled bottle"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1762336219284-a0a5488342a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1762336219284-a0a5488342a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/two-boxers-in-a-dark-boxing-ring-SVN80Ss-cQs",
+   "indirme": "https://api.unsplash.com/photos/SVN80Ss-cQs/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Rémi METIN",
+   "aciklama": "RWS"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1558366972-9db89881cbdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1558366972-9db89881cbdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/grayscale-photo-of-people-watching-boxing-with-man-wearing-white-bottoms-inside-boxing-ring-gpOz1RcIrPE",
+   "indirme": "https://api.unsplash.com/photos/gpOz1RcIrPE/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg5NjU5fDA",
+   "yazar": "Wade Austin Ellis",
+   "aciklama": "grayscale photo of people watching boxing with man wearing white bottoms inside boxing ring"
+  }
+ ],
+ "c6:muay thai ring match": [
+  {
+   "baslik": "File:Womens Muay Thai teep.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Womens_Muay_Thai_teep.jpg",
+   "genislik": 1200,
+   "yukseklik": 795,
+   "aciklama": "One fighter executes a Muay Thai teep kick against her opponent in a women's Muay Thai match.",
+   "nesne": "Womens Muay Thai teep",
+   "tarih": "2011-07-30 20:56:11",
+   "kategoriler": "Boxing ring | CC-BY-2.0 | Flickr images uploaded by Flickr upload bot | Kickboxers | Muay Thai | People with boxing gloves | Shin guards | Taken with Nikon D7000",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "Eric Langley"
+  },
+  {
+   "baslik": "File:Basement boxing ring - Preview (Poly Haven).png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Basement_boxing_ring_-_Preview_%28Poly_Haven%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Basement_boxing_ring_-_Preview_(Poly_Haven).png",
+   "genislik": 1024,
+   "yukseklik": 768,
+   "aciklama": "View of a boxing ring (or a facility of a boxing ring) in Ukraine. The area is illuminated only with artificial light. The shot is 15 exposure values and a relatively cool white balance of 3500 K. The photographer is Sergey Majboroda.",
+   "nesne": "Basement boxing ring - Preview (Poly Haven)",
+   "tarih": "2023-03-13",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Sergej Majboroda ( https://polyhaven.com/all?a=Sergej%20Majboroda / https://web."
+  },
+  {
+   "baslik": "File:Basement boxing ring 16k - HDR-Panorama (Poly Haven).tif",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Basement_boxing_ring_16k_-_HDR-Panorama_%28Poly_Haven%29.tif/lossy-page1-1280px-Basement_boxing_ring_16k_-_HDR-Panorama_%28Poly_Haven%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Basement_boxing_ring_16k_-_HDR-Panorama_(Poly_Haven).tif",
+   "genislik": 16384,
+   "yukseklik": 8192,
+   "aciklama": "View of a boxing ring (or a facility of a boxing ring) in Ukraine. The area is illuminated only with artificial light. The shot is 15 exposure values and a relatively cool white balance of 3500 K. The photographer is Sergey Majboroda.",
+   "nesne": "Basement boxing ring 16k - HDR-Panorama (Poly Haven)",
+   "tarih": "2023-03-13",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Sergej Majboroda ( https://polyhaven.com/all?a=Sergej%20Majboroda / https://web."
+  },
+  {
+   "baslik": "File:Basement boxing ring - Panorama (Poly Haven).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Basement_boxing_ring_-_Panorama_%28Poly_Haven%29.jpg/1280px-Basement_boxing_ring_-_Panorama_%28Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Basement_boxing_ring_-_Panorama_(Poly_Haven).jpg",
+   "genislik": 8192,
+   "yukseklik": 4096,
+   "aciklama": "View of a boxing ring (or a facility of a boxing ring) in Ukraine. The area is illuminated only with artificial light. The shot is 15 exposure values and a relatively cool white balance of 3500 K. The photographer is Sergey Majboroda.",
+   "nesne": "Basement boxing ring - Panorama (Poly Haven)",
+   "tarih": "2023-03-13",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Sergej Majboroda ( https://polyhaven.com/all?a=Sergej%20Majboroda / https://web."
+  },
+  {
+   "baslik": "File:Basement Boxing Ring - HDR Color Checker (Poly Haven).tif",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Basement_Boxing_Ring_-_HDR_Color_Checker_%28Poly_Haven%29.tif/lossy-page1-1280px-Basement_Boxing_Ring_-_HDR_Color_Checker_%28Poly_Haven%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Basement_Boxing_Ring_-_HDR_Color_Checker_(Poly_Haven).tif",
+   "genislik": 3712,
+   "yukseklik": 5568,
+   "aciklama": "View of a boxing ring (or a facility of a boxing ring) in Ukraine. The area is illuminated only with artificial light. The shot is 15 exposure values and a relatively cool white balance of 3500 K. The photographer is Sergey Majboroda.",
+   "nesne": "Basement Boxing Ring - HDR Color Checker (Poly Haven)",
+   "tarih": "2023-03-13",
+   "kategoriler": "",
+   "lisans": "CC0",
+   "lisans_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "yazar": "Sergej Majboroda ( https://polyhaven.com/all?a=Sergej%20Majboroda / https://web."
+  },
+  {
+   "baslik": "File:Set-up of a boxing Ring.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Set-up_of_a_boxing_Ring.jpg/1280px-Set-up_of_a_boxing_Ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Set-up_of_a_boxing_Ring.jpg",
+   "genislik": 4032,
+   "yukseklik": 1908,
+   "aciklama": "Set-up of a boxing Ring at MTN Arena Lugogo on Games day 25th May 2024",
+   "nesne": "Set-up of a boxing Ring",
+   "tarih": "2024-05-25 19:08:57",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Micheal Kaluba"
+  },
+  {
+   "baslik": "File:Boxing ring at Gleason's Gym.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Boxing_ring_at_Gleason%27s_Gym.jpg/1280px-Boxing_ring_at_Gleason%27s_Gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boxing_ring_at_Gleason%27s_Gym.jpg",
+   "genislik": 1936,
+   "yukseklik": 1936,
+   "aciklama": "Boxing ring at Gleason's Gym",
+   "nesne": "Boxing ring at Gleason's Gym",
+   "tarih": "Taken on 24 June 2012, 18:23:40",
+   "kategoriler": "1937 establishments in New York City | Boxing in New York City | Boxing ring | Buildings in Brooklyn, New York City | CC-BY-SA-2.0 | Dumbo, Brooklyn | Files with coordinates missing SDC location of creation | Flickr images uploaded by Flickr upload bot | June 2012 in Brooklyn, New York City | United States photographs taken on 2012-06-24",
+   "lisans": "CC BY-SA 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "yazar": "Carlos Pacheco"
+  },
+  {
+   "baslik": "File:Boxing ring at the 2012 Summer Olympics.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Boxing_ring_at_the_2012_Summer_Olympics.jpg/1280px-Boxing_ring_at_the_2012_Summer_Olympics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boxing_ring_at_the_2012_Summer_Olympics.jpg",
+   "genislik": 4320,
+   "yukseklik": 2432,
+   "aciklama": "Boxing ring at the ExCeL London during the 2012 Summer Olympics. The person on the screen is Barry McGuigan .",
+   "nesne": "Boxing ring at the 2012 Summer Olympics",
+   "tarih": "2012-08-02 13:05:03",
+   "kategoriler": "Boxing at the 2012 Summer Olympics | Boxing ring | CC-BY-2.0 | Flickr images uploaded by Flickr upload bot | Taken with Sony DSC-W350",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "sachab"
+  },
+  {
+   "baslik": "File:Driscoll vs Welsh 1910.jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Driscoll_vs_Welsh_1910.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Driscoll_vs_Welsh_1910.jpeg",
+   "genislik": 650,
+   "yukseklik": 488,
+   "aciklama": "The chaotic scene at the end of the Jim Driscoll vs Freddie Welsh match hosted at the American Skating Ring in Cardiff, Wales, 20 December 1910. The bout was for the European Lightweight belt, which saw Driscoll disqualified for headbutting Welsh in the tenth.",
+   "nesne": "Driscoll vs Welsh 1910",
+   "tarih": "1910-12-20",
+   "kategoriler": "1910 in Wales | 1910 in boxing | Boxing in Wales | Boxing ring | Freddie Welsh | History of Cardiff | Jim Driscoll | Male boxers from Wales | PD-US missing SDC copyright status | PD US | Photographs in the National Library of Wales | Template Unknown (author)",
+   "lisans": "Public domain",
+   "lisans_url": "",
+   "yazar": "Unknown author Unknown author"
+  },
+  {
+   "baslik": "File:Boxing ring at AIS - Australian Institute of Sport.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Boxing_ring_at_AIS_-_Australian_Institute_of_Sport.jpg/1280px-Boxing_ring_at_AIS_-_Australian_Institute_of_Sport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boxing_ring_at_AIS_-_Australian_Institute_of_Sport.jpg",
+   "genislik": 4608,
+   "yukseklik": 3456,
+   "aciklama": "Boxing ring at Australian Institute of Sport - Australia",
+   "nesne": "Boxing ring at AIS - Australian Institute of Sport",
+   "tarih": "2023-12-29 11:14:21",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "KeepActive Australia from Melbourne, VIC, Australia"
+  },
+  {
+   "baslik": "File:Boxing ring at the 2012 Summer Olympics (2).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Boxing_ring_at_the_2012_Summer_Olympics_%282%29.jpg/1280px-Boxing_ring_at_the_2012_Summer_Olympics_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boxing_ring_at_the_2012_Summer_Olympics_(2).jpg",
+   "genislik": 4320,
+   "yukseklik": 3240,
+   "aciklama": "During the fight Soltan Migitinov (AZE, red) vs. Esquiva Falcão Florentino (BRA, blue) at the ExCeL London during the 2012 Summer Olympics.",
+   "nesne": "Boxing ring at the 2012 Summer Olympics (2)",
+   "tarih": "2012-08-02 15:21:59",
+   "kategoriler": "Boxing at the 2012 Summer Olympics | Boxing ring",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "sachab"
+  },
+  {
+   "baslik": "File:Boxing ring.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boxing_ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Boxing_ring.jpg",
+   "genislik": 500,
+   "yukseklik": 283,
+   "aciklama": "Boxing ring",
+   "nesne": "Boxing ring",
+   "tarih": "2009",
+   "kategoriler": "Boxing ring | CC-BY-3.0 | Items with VRTS permission confirmed",
+   "lisans": "CC BY 3.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/3.0",
+   "yazar": "Slr722x"
+  },
+  {
+   "baslik": "File:CES 2012 - ESPN 3D boxing ring (6764178361).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CES_2012_-_ESPN_3D_boxing_ring_%286764178361%29.jpg/1280px-CES_2012_-_ESPN_3D_boxing_ring_%286764178361%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:CES_2012_-_ESPN_3D_boxing_ring_(6764178361).jpg",
+   "genislik": 1600,
+   "yukseklik": 1200,
+   "aciklama": "photo 2012 Pop Culture Geek taken by Doug Kline If you're interested in higher resolution versions of my images, contact me via my profile page.",
+   "nesne": "CES 2012 - ESPN 3D boxing ring (6764178361)",
+   "tarih": "2012-01-10 16:58",
+   "kategoriler": "",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA"
+  },
+  {
+   "baslik": "File:CES 2012 - ESPN 3D boxing ring (6937783467).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/CES_2012_-_ESPN_3D_boxing_ring_%286937783467%29.jpg/1280px-CES_2012_-_ESPN_3D_boxing_ring_%286937783467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:CES_2012_-_ESPN_3D_boxing_ring_(6937783467).jpg",
+   "genislik": 1600,
+   "yukseklik": 1200,
+   "aciklama": "photo 2012 Pop Culture Geek taken by Doug Kline If you're interested in higher resolution versions of my images, contact me via my profile page.",
+   "nesne": "CES 2012 - ESPN 3D boxing ring (6937783467)",
+   "tarih": "2012-01-12 13:54",
+   "kategoriler": "",
+   "lisans": "CC BY 2.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/2.0",
+   "yazar": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA"
+  },
+  {
+   "baslik": "File:The Soviet Union 1963 CPA 2880 stamp (15th European Boxing Championships, Moscow. Boxers in the ring).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Soviet_Union_1963_CPA_2880_stamp_%2815th_European_Boxing_Championships%2C_Moscow._Boxers_in_the_ring%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1963_CPA_2880_stamp_(15th_European_Boxing_Championships,_Moscow._Boxers_in_the_ring).jpg",
+   "genislik": 786,
+   "yukseklik": 786,
+   "aciklama": "15th European Boxing Championships, Moscow. Boxers on \"Glove\".",
+   "nesne": "The Soviet Union 1963 CPA 2880 stamp (15th European Boxing Championships, Moscow. Boxers in the ring)",
+   "tarih": "1963-05-29",
+   "kategoriler": "",
+   "lisans": "Public domain",
+   "lisans_url": "",
+   "yazar": "Post of the Soviet Union (Рис.: Лев Васильевич Завьялов (1932—?))."
+  }
+ ],
+ "c6:us:muay thai ring match": [
+  {
+   "url": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/muay-thai-boxer-kick-opponent-h8sl-oNcat0",
+   "indirme": "https://api.unsplash.com/photos/h8sl-oNcat0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Pablo Rebolledo",
+   "aciklama": "Muay Thai Fight at Cambodia"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1657672825833-7b2ad6fae220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1657672825833-7b2ad6fae220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/a-person-holding-another-man-in-a-ring-with-a-crowd-watching-oucIW6G-3h4",
+   "indirme": "https://api.unsplash.com/photos/oucIW6G-3h4/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Claudia Raya",
+   "aciklama": "a person holding another man in a ring with a crowd watching"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1486215397028-cb4f31efea3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1486215397028-cb4f31efea3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/two-person-doing-mix-martial-arts-on-white-and-blue-stadium-5QIPyaDT1V0",
+   "indirme": "https://api.unsplash.com/photos/5QIPyaDT1V0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Solal Ohayon",
+   "aciklama": "two person doing mix martial arts on white and blue stadium"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/man-in-black-and-red-jersey-shirt-YyDdZMFhTpk",
+   "indirme": "https://api.unsplash.com/photos/YyDdZMFhTpk/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "man in black and red jersey shirt"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1611824916152-aa0bb8fab162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1611824916152-aa0bb8fab162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/2-men-holding-blue-and-white-labeled-bottle-vXDldWRLJw4",
+   "indirme": "https://api.unsplash.com/photos/vXDldWRLJw4/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "2 men holding blue and white labeled bottle"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1762336219284-a0a5488342a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1762336219284-a0a5488342a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/two-boxers-in-a-dark-boxing-ring-SVN80Ss-cQs",
+   "indirme": "https://api.unsplash.com/photos/SVN80Ss-cQs/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheSUyMHRoYWklMjByaW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5Mzg4OTY2MHww",
+   "yazar": "Rémi METIN",
+   "aciklama": "RWS"
+  }
+ ],
+ "c6:us:muaythai maçı ring": [
+  {
+   "url": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/muay-thai-boxer-kick-opponent-h8sl-oNcat0",
+   "indirme": "https://api.unsplash.com/photos/h8sl-oNcat0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Pablo Rebolledo",
+   "aciklama": "Muay Thai Fight at Cambodia"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1601039834076-c41cf1766d4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/man-in-black-and-red-jersey-shirt-YyDdZMFhTpk",
+   "indirme": "https://api.unsplash.com/photos/YyDdZMFhTpk/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "man in black and red jersey shirt"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1696454411305-311d11bb8c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1696454411305-311d11bb8c30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-in-a-boxing-ring-9WqNAic60wI",
+   "indirme": "https://api.unsplash.com/photos/9WqNAic60wI/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Antonio Araujo",
+   "aciklama": "a couple of men standing next to each other in a boxing ring"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1601588462477-e76b16de79f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1601588462477-e76b16de79f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/2-men-in-blue-and-red-shorts-AFVwA960LUc",
+   "indirme": "https://api.unsplash.com/photos/AFVwA960LUc/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Nick Wang",
+   "aciklama": "Get up, I dare you"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1601039834001-7d32a613c60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1601039834001-7d32a613c60d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/man-in-blue-jersey-shirt-holding-white-and-blue-soccer-ball-Wyta6ocqCSQ",
+   "indirme": "https://api.unsplash.com/photos/Wyta6ocqCSQ/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Jonathan Tomas",
+   "aciklama": "man in blue jersey shirt holding white and blue soccer ball"
+  },
+  {
+   "url": "https://images.unsplash.com/photo-1586204723173-94e043453715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "kucuk": "https://images.unsplash.com/photo-1586204723173-94e043453715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww&ixlib=rb-4.1.0&q=80&w=400",
+   "sayfa": "https://unsplash.com/photos/man-in-blue-shorts-standing-beside-man-in-black-shorts-UhA_rFo2nvg",
+   "indirme": "https://api.unsplash.com/photos/UhA_rFo2nvg/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bXVheXRoYWklMjBtYSVDMyVBNyVDNCVCMSUyMHJpbmd8ZW58MXwwfHx8MTc5Mzg4OTY4NXww",
+   "yazar": "Lkszy Dgtl",
+   "aciklama": "Two box thai fighter on a ring."
+  }
+ ],
+ "wd:v4:0:iklim konferansi:antalya mersin": {
+  "_yok": "2026-11-05"
+ },
+ "wd:v4:0:cop31:antalya mersin": {
+  "qid": "Q115379423",
+  "ad": "COP31",
+  "aciklama": "31st UN climate conference 31. Birleşmiş Milletler İklim Değişikliği Konferansı",
+  "p18": [],
+  "kategori": "2026 United Nations Climate Change Conference",
+  "mekan": []
+ },
+ "wd:v4:1:ali topuz:antalyaspor basin sozcusu / club spokesm": {
+  "qid": "Q6061354",
+  "ad": "Ali Topuz",
+  "aciklama": "Turkish statesperson (1932–2019) Türk siyasetçi",
+  "p18": [],
+  "kategori": "",
+  "mekan": []
+ },
+ "wd:v4:1:senol gunes:teknik direktor / football manager": {
+  "qid": "Q388904",
+  "ad": "Şenol Güneş",
+  "aciklama": "Turkish association football player and trainer (born 1952) Türk teknik direktör ve milli futbolcu",
+  "p18": [
+   "Şenol Güneş beUNITED.png"
+  ],
+  "kategori": "Şenol Güneş",
+  "mekan": []
+ },
+ "wd:v4:0:besiktas:antalya istanbul:takim": {
+  "qid": "Q172567",
+  "ad": "Beşiktaş",
+  "aciklama": "Turkish association football club based in Istanbul Türk futbol takımı",
+  "p18": [
+   "Beşiktaş footballteam photo (November 2017).jpg"
+  ],
+  "kategori": "Beşiktaş J.K. (football)",
+  "mekan": [
+   "Q14914703"
+  ]
+ },
+ "wd:v4:1:devlet bahceli:mhp genel baskani / mhp leader": {
+  "qid": "Q1206951",
+  "ad": "Devlet Bahçeli",
+  "aciklama": "Leader of the Nationalist Action Party Türk siyasetçi",
+  "p18": [
+   "Devlet Bahçeli VOA 2015 (cropped).jpg"
+  ],
+  "kategori": "Devlet Bahçeli",
+  "mekan": []
+ },
+ "wd:v4:0:turkiye buyuk millet meclisi:antalya manavgat": {
+  "qid": "Q274918",
+  "ad": "Türkiye Büyük Millet Meclisi",
+  "aciklama": "Parliament of the Republic of Turkey Türkiye Cumhuriyeti'nin parlamentosu",
+  "p18": [
+   "Building of the Grand National Assembly of Turkey.jpg",
+   "TBMM, August 2022.jpg"
+  ],
+  "kategori": "Grand National Assembly of Turkey",
+  "mekan": []
+ }
 }
