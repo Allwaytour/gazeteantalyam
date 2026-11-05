@@ -11,7 +11,7 @@ ayarlar:
   tur_basina_haber: 6       # Her 30 dakikalık turda en fazla kaç yeni haber eklensin
   kaynak_gorseli: false     # kullanılmıyor: kaynak görseli yalnızca data/gorsel_izinleri.yml'de izni kayıtlı kaynaklardan alınır
   en_eski_saat: 24          # Bundan eski kaynak haberleri alınmaz
-  en_eski_gun: 30           # Otomatik haberler bu kadar gün sonra siteden silinir (elle eklenenler silinmez)
+  en_eski_gun: 0            # 0 = otomatik haberler silinmez (arşiv; arama motorlarındaki sayfalar kalır). Sayı yazılırsa o kadar gün sonra silinir
 
   # Görsel seçimi (scripts/gorsel_sec.py): izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
