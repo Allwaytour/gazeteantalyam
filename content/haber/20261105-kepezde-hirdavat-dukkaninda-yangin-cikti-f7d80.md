@@ -20,21 +20,25 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: ce0ed2db570e
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:28:55+03:00'
+    tarih: '2026-11-05T18:35:16+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   kurum: k4
   kurum_notu: Türkiye İş Kurumu (İŞKUR) Antalya dışı kurum, kullanılmadı; Isparta İl Sağlık Müdürlüğü Antalya dışı kurum, kullanılmadı; senirkent.gov.tr Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Türkiye İş Kurumu (İŞKUR) Antalya dışı kurum, kullanılmadı; Isparta İl Sağlık Müdürlüğü Antalya dışı kurum, kullanılmadı; senirkent.gov.tr Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Sütçüler Caddesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Sütçüler Caddesi; Türkiye İş Kurumu (İŞKUR) Antalya dışı kurum, kullanılmadı; Isparta İl Sağlık Müdürlüğü Antalya dışı kurum, kullanılmadı; senirkent.gov.tr Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D1%83_%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0_%D0%90%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%B8._-_panoramio.jpg
+      katman: yer_konu
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -20,13 +20,13 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.3-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: 4778ef418395
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T18:01:12+03:00'
+    tarih: '2026-11-05T18:28:54+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
   kapak_nedeni:

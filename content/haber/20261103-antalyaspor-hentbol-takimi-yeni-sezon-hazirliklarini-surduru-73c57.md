@@ -19,22 +19,26 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: a73321659ea5
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:30:37+03:00'
+    tarih: '2026-11-05T18:36:36+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   kurum: k4
   kurum_notu: ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %12); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '5 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
-    notlar: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %12); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hakan İrban'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); takım haberi: ''İzmir'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
+    notlar: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %12); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hakan İrban'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+      katman: kurum
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

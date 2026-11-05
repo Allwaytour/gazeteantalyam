@@ -20,13 +20,13 @@ gorsel_secim:
   gosterilen: Akdeniz Üniversitesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
   gerekce: 'Haber Akdeniz Üniversitesi sitesinde bulundu (metin benzerliği %67); fotoğraf kurumun kendi sayfasından; görsel kontrol: Haberdeki üniversite ziyaretini doğrudan gösteren güncel ve uygun bir görseldir.'
-  surum: g9.3-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: b90671f3d632
   gorsel_url: /images/kurum/b7be2d578d3c38a8.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T18:06:37+03:00'
+    tarih: '2026-11-05T18:33:07+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   alt_tur: kurum_haber

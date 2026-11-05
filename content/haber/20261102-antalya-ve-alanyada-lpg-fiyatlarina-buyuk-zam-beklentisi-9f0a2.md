@@ -102,6 +102,11 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
   degisim: '2026-11-05T18:05:04+03:00'
+gorsel_bekleyen:
+  surum: g9.4-2026-11-05
+  tarih: '2026-11-05T18:31:01+03:00'
+  sayi: 1
+  neden: "kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
 ---
 Akaryakıt fiyatlarında kasım ayının ilk günlerinde yaşanan gelişmelerin ardından LPG kullanıcılarını yakından ilgilendiren yeni bir zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgiye göre, 3 Kasım 2026 Salı günü saat 00.01'den itibaren otogazin litre fiyatına 9,09 ile 9,15 TL arasında artış yansıtılması öngörülüyor. Gerçekleşmesi beklenen bu artışla birlikte Antalya ve Alanya genelinde LPG litre fiyatlarının 50 TL sınırını aşabileceği hesaplanıyor. Dağıtım şirketlerinin resmi tarifeleri henüz netleşmezken, nihai rakamların istasyonların pompa fiyatlarını güncellemesiyle kesinleşeceği belirtiliyor.
 

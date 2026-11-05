@@ -19,23 +19,26 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.3-2026-11-05
+  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: f349768efe8f
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T18:05:27+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T18:31:21+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
   kurum: k4
   kurum_notu: 'Korkuteli Belediyesi sayfasında haber fotoğrafı yok (4 görsel; ); kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceede'
-  bekliyor: true
-  bekleme_sayisi: 1
   kapak_nedeni:
-    kod: arama_hatasi
-    aciklama: 'kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with'
-    notlar: 'Korkuteli Belediyesi sayfasında haber fotoğrafı yok (4 görsel; ); kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Korkuteli Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Korkuteli'' için konuyla (mayor, office, politician) ilişkili lisanslı fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberi'
+    notlar: 'Korkuteli Belediyesi sayfasında haber fotoğrafı yok (4 görsel; ); kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Saniye Caran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Korkuteli Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:%D0%9D%D0%9B%D0%9E_%D0%BD%D0%B0%D0%B4_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B5%D0%B9_-_panoramio.jpg
+      katman: yer_konu
+      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (Saniye Caran) — Fotoğraf Korkuteli ge
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -66,18 +66,18 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya Havalimanı
   cekim_yili: '2013'
-  gerekce: 'dosya kaydında yer (''Antalya Havalimanı'') ve konu ipucu (apron, aircraft) birlikte geçiyor; görsel kontrol: Antalya Havalimanı apronunda uçakları gösteren uygun bir arşiv fotoğrafı.'
-  surum: g9.3-2026-11-05
+  gerekce: '''Antalya Havalimanı'' için daha önce onaylanmış arşiv fotoğrafı (2026-11-05); lisans dosya sayfasından; görsel kontrol: Apron ve uçakları gösterdiği için haberin konusuyla doğrudan ilişkili, uygun bir görsel.'
+  surum: g9.4-2026-11-05
   konu_imza: 374feead745a
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T18:08:43+03:00'
+    tarih: '2026-11-05T18:34:56+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2013)
-  alt_tur: yer_konu
+  alt_tur: kurum
   kurum: k4
   kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
 ---
