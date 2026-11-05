@@ -1153,8 +1153,8 @@ ya da haberin tonuyla açıkça çelişiyorsa (ör. ölüm/kaza haberi için şe
 HASSAS HABER (dava, soruşturma, sağlık vb.) kişi iddialarında: kişinin nötr portresi ya da genel arşiv karesi uygundur ve
 "Arşiv" olarak sunulur; kelepçe, adliye, gözaltı, hastane gibi güncel olay izlenimi veren ya da kişiyi küçük düşüren kareler yanıltıcıdır.
 "temsilî fotoğraf" iddialarında: fotoğraf haberin konusunu doğrudan göstermeli (ör. akaryakıt haberinde pompa, muaythai haberinde
-muaythai müsabakası); benzer ama farklı bir şey (boks, karate; LPG yerine benzin) habere uygun değildir. Karede belirli bir organizasyonun
-pankartı/afişi ya da öne çıkan tanınabilir yüzler varsa haberdeki olayın kendisi sanılabilir → yaniltici: true.
+muaythai müsabakası); benzer ama farklı bir şey (boks, karate; LPG yerine benzin) habere uygun değildir. Karede belirli bir organizasyonun/kurumun
+pankartı, afişi, logosu, tabelası ya da öne çıkan tanınabilir yüzler varsa haberdeki olayın kendisi sanılabilir → yaniltici: true.
 Yabancı tabela, plaka, para birimi, polis/ambulans aracı ya da Türkiye'de olmayan bir sahne varsa yabanci_unsur: true.
 ÖNEMLİ: Kişileri yüzlerinden tanımaya ÇALIŞMA ve kimlik hakkında yorum yapma; kişinin kimliği arşiv kaydıyla (Wikidata ve
 Commons kategorisi) doğrulanmıştır. Yalnızca sahneyi değerlendir: başka bir etkinliğe ait pankart, yazı, tarih, bayrak veya
@@ -1284,6 +1284,11 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 
 
 # ----------------------------------------------------------------- seçim
+# Kapak kalan haberler, aday kuralları genişletildiğinde (tüm kararlar sıfırlanmadan) bir kez yeniden denenir.
+# c2: kurum haberinde konu fotoğrafı (kurumun binası/kadrosu değil, konunun kendisi) ve ilçe/şehir haberinde konu fotoğrafı.
+KAPAK_SURUM = "c2"
+
+
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
     kat = kategori if kategori in KATEGORI_DOSYA else "Gündem"
     return {
@@ -1359,6 +1364,11 @@ TOPLANTI = re.compile(r"(?i)\b(konferans\w*|conference|toplantı\w*|meeting|zirv
 MANZARA = re.compile(r"(?i)\b(hotels?|otel\w*|resorts?|beach(es)?|plaj\w*|sahil\w*|coast\w*|city|şehir\w*|skyline|panorama|harbou?r|liman\w*|marina|old town|kaleiçi)\b")
 
 
+# Kurumun KENDİSİNİ (binası, kampüsü, kadrosu, kulübü) anlatan konu sorguları: rastgele bir fotoğraf o kurum sanılır.
+KURUM_YAPI = re.compile(r"(?i)\b(building|headquarters?|office|offices|campus|universit\w*|school|hospital|club|staff|employees?|"
+                        r"team|facility|facilities|stadium|town hall|city hall|municipality|ministry|directorate|bina\w*|kampüs\w*)\b")
+
+
 def konu_gorseli(konu):
     """Konu fotoğrafı ayarı. Genel konu fotoğrafı yalnızca haberin öznesi genel bir nesne/olgu ya da (insan odaklı olmayan) bir etkinlik
     türüyse kullanılır: belirli bir kişi, kurum, takım ya da yer haberinde rastgele bir fotoğraf o kişi/kurum/tesis/yer sanılır."""
@@ -1366,8 +1376,15 @@ def konu_gorseli(konu):
     oz = konu.get("ana_ozne") or {}
     if not kg.get("sorgular_en") and oz.get("tur") == "nesne" and oz.get("ad_en"):
         kg.update(uygun=True, sorgular_en=[oz["ad_en"]] + (konu.get("alternatif_sorgular_en") or [])[:2])
-    if konu.get("hassas", "yok") in NESNE_HASSAS or oz.get("tur") in ("kisi", "kurum", "takim", "yer"):
+    if konu.get("hassas", "yok") in NESNE_HASSAS or oz.get("tur") in ("kisi", "takim"):
         kg["uygun"] = False
+    elif oz.get("tur") == "kurum":
+        # Kurum haberinde konu fotoğrafı yalnızca KONUYU (organ bağışı, doğal taş, bilim projesi) anlatan sorgularla aranır;
+        # kurumun binası/kadrosu/kulübü gibi sorgular çıkarılır. Görüntü kontrolünde kurumun kendisi sanılabilecek kare elenir.
+        kg["sorgular_en"] = [q for q in kg.get("sorgular_en") or [] if not KURUM_YAPI.search(q)]
+        kg["sorgular_tr"] = [q for q in kg.get("sorgular_tr") or [] if not KURUM_YAPI.search(q)]
+    elif oz.get("tur") == "yer" and not (oz.get("ad") in YERLER and not TESIS_TURU.search(oz.get("ad", ""))):
+        kg["uygun"] = False      # belirli bir tesis/mekân haberinde (ör. sosyal tesis) başka bir mekânın karesi o tesis sanılır
     etkinlik = " ".join([(konu.get("etkinlik") or {}).get("tur", ""), (konu.get("ne") or {}).get("ad", ""), oz.get("ad", "")])
     if oz.get("tur") == "olay" and TOPLANTI.search(etkinlik):
         kg["uygun"] = False
@@ -2051,6 +2068,8 @@ def secimi_uygula(v, secim):
         kayit["bekleme_sayisi"] = secim.get("bekleme_sayisi", 1)
     if secim.get("kapak_nedeni"):
         kayit["kapak_nedeni"] = secim["kapak_nedeni"]
+    if kayit.get("tur") == "kategori":
+        kayit["kapak_surum"] = KAPAK_SURUM
     v["gorsel_secim"] = kayit
     v.pop("gorsel_v4", None)
     return v
@@ -2085,6 +2104,9 @@ def yeniden_gerekli(v):
     if not isinstance(s, dict):
         return True
     if yerel_gorsel_eksik(v.get("gorsel") or ""):
+        return True
+    if s.get("tur") == "kategori" and s.get("kapak_surum") != KAPAK_SURUM and not s.get("bekliyor") \
+            and (s.get("kapak_nedeni") or {}).get("kod") in ("aday_bulunamadi", "gorsel_reddedildi", "arama_yapilmadi"):
         return True
     if s.get("surum") != KURAL_SURUMU:
         return True
