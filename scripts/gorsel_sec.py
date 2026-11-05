@@ -1556,6 +1556,17 @@ def yerel_gorsel_eksik(url):
 
 # Ülke ve kıta düzeyindeki yerler: "Çin + doğal taş" gibi bir aramada ülkenin herhangi bir taşı haberdeki konu değildir.
 ULKE_TURLERI = {"Q6256", "Q3624078", "Q5107", "Q112099", "Q7275", "Q3336843"}
+ULKE_ADLARI = {kucult(x) for x in (
+    "Çin China Japonya Japan Kore Korea Hindistan India Rusya Russia Ukrayna Ukraine Almanya Germany Fransa France İngiltere England "
+    "Birleşik Krallık United Kingdom Britanya Britain İtalya Italy İspanya Spain Portekiz Portugal Hollanda Netherlands Belçika Belgium "
+    "Avusturya Austria İsviçre Switzerland Polonya Poland Yunanistan Greece Bulgaristan Bulgaria Romanya Romania Sırbistan Serbia "
+    "Macaristan Hungary Çekya Czechia İsveç Sweden Norveç Norway Danimarka Denmark Finlandiya Finland İrlanda Ireland "
+    "Amerika ABD USA America Kanada Canada Meksika Mexico Brezilya Brazil Arjantin Argentina Avustralya Australia Mısır Egypt "
+    "İran Iran Irak Iraq Suriye Syria İsrail Israel Filistin Palestine Lübnan Lebanon Ürdün Jordan Suudi Arabistan Saudi Arabia "
+    "Katar Qatar Kuveyt Kuwait Azerbaycan Azerbaijan Gürcistan Georgia Ermenistan Armenia Kazakistan Kazakhstan Özbekistan Uzbekistan "
+    "Türkmenistan Turkmenistan Kırgızistan Kyrgyzstan Pakistan Afganistan Afghanistan Endonezya Indonesia Malezya Malaysia Tayland Thailand "
+    "Vietnam Filipinler Philippines Libya Tunus Tunisia Cezayir Algeria Fas Morocco Nijerya Nigeria Etiyopya Ethiopia Somali Somalia "
+    "Kıbrıs Cyprus KKTC Avrupa Europe Asya Asia Afrika Africa Ortadoğu Türkiye Turkey Türkiye'de").split()}
 
 
 def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
@@ -1591,7 +1602,7 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
     try:
         v = wikidata_varlik(bag, yer["ad"], insan=False, ipucu="Antalya") or (wikidata_varlik(bag, yer_en, insan=False, ipucu="Antalya")
                                                                               if yer_en != yer["ad"] else None)
-        if v and set(v.get("p31") or []) & ULKE_TURLERI:
+        if (v and set(v.get("p31") or []) & ULKE_TURLERI) or kucult(yer["ad"]) in ULKE_ADLARI or kucult(yer_en) in ULKE_ADLARI:
             notlar.append(f"'{yer['ad']}' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)")
             return adaylar, notlar
         if v and v.get("kategori"):
@@ -1744,6 +1755,8 @@ def eski_gecerli(eski, konu, haber):
         ipl = [ip for ip in (konu.get("gorsel_ipucu_en") or []) if not TESIS_TURU.search(ip)] or (konu.get("gorsel_ipucu_en") or [])
         kaynak = metin + " " + (s.get("kaynak_aciklama") or "")
         if ipl and not any(stok_metni_uygun(ip, kaynak) for ip in ipl):
+            return False
+        if kucult(s.get("gosterilen") or "") in ULKE_ADLARI:
             return False
         return oz != "takim" and not MAC_IPUCU.search(metin) and (bool(TESIS_TURU.search(s.get("gosterilen") or "")) or not TESIS_TURU.search(metin))
     if alt == "yer":
