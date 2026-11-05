@@ -2,7 +2,7 @@
 title: Antalya turizmde 12 milyonu geride bıraktı
 date: '2026-11-05T11:04:00+03:00'
 ozet: Yılın ilk dokuz ayında Türkiye genelinde turizm gelirleri artarken, Antalya'da ağırlanan yabancı ziyaretçi sayısı 12,4 milyonun üzerine çıktı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Near_the_Roman_Harbour.jpg/1280px-Near_the_Roman_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Turizm
@@ -11,7 +11,7 @@ ilceler:
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Near_the_Roman_Harbour.jpg
   fotografci: Joe Wallace
   kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
   lisans: CC BY-SA 2.0
@@ -19,21 +19,22 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
   cekim_yili: '2022'
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü yansıtan, turizm haberine uygun, nötr bir manzara fotoğrafıdır.'
-  surum: g9.3-2026-11-05
+  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü yansıtan, turizm haberine uygun, nötr bir arşiv fotoğrafıdır.'
+  surum: g9.4-2026-11-05
   konu_imza: 06f0173745fc
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Near_the_Roman_Harbour.jpg/1280px-Near_the_Roman_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T17:52:57+03:00'
+    tarih: '2026-11-05T21:16:40+03:00'
     yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.1-flash-lite
   aciklama: Antalya — Arşiv fotoğrafı (2022)
   alt_tur: yer
   qid: Q6487
-  kurum: k4
-  kurum_notu: kurum fotoğrafı önbellekten
+  kaynak_aciklama: From Karaaalioğlu Parkı Batı Seyir Terrace
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,36 +46,6 @@ gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
 gorsel_gecmis:
-- gorsel: /images/kategori/turizm.png
-  gorsel_kredi: ''
-  gorsel_tur: kategori
-  gorsel_konum: ''
-  gorsel_secim:
-    tur: kategori
-    kaynak_sayfa: ''
-    fotografci: ''
-    kredi: Gazete Antalya
-    lisans: Gazete Antalya'nın kendi tasarımı
-    lisans_dayanagi: Sitenin kendi grafik dosyası
-    kosul: ''
-    gosterilen: ''
-    cekim_yili: ''
-    gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
-    surum: g9-2026-11-05
-    konu_imza: 06f0173745fc
-    gorsel_url: /images/kategori/turizm.png
-    kontrol:
-      yapildi: false
-      sonuc: yapılamadı
-      tarih: '2026-11-05T16:32:06+03:00'
-      yontem: konu ayrıştırılamadı
-    kurum: k4
-    bekliyor: true
-    bekleme_sayisi: 1
-    kapak_nedeni:
-      kod: arama_yapilmadi
-      aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
-  degisim: '2026-11-05T16:51:20+03:00'
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Bestalex / Wikimedia Commons (CC BY-SA 4.0)'
   gorsel_tur: arsiv
@@ -133,11 +104,36 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum fotoğrafı önbellekten
   degisim: '2026-11-05T17:52:57+03:00'
-gorsel_bekleyen:
-  surum: g9.4-2026-11-05
-  tarih: '2026-11-05T18:14:04+03:00'
-  sayi: 1
-  neden: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
+    fotografci: Joe Wallace
+    kredi: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)
+    lisans: CC BY-SA 2.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya
+    cekim_yili: '2022'
+    gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya''nın genel görünümünü yansıtan, turizm haberine uygun, nötr bir manzara fotoğrafıdır.'
+    surum: g9.3-2026-11-05
+    konu_imza: 06f0173745fc
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T17:52:57+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.1-flash-lite
+    aciklama: Antalya — Arşiv fotoğrafı (2022)
+    alt_tur: yer
+    qid: Q6487
+    kurum: k4
+    kurum_notu: kurum fotoğrafı önbellekten
+  degisim: '2026-11-05T21:16:40+03:00'
 ---
 Kültür ve Turizm Bakanlığından paylaşılan verilere göre, yılın ocak-eylül döneminde Türkiye'yi ziyaret edenlerin toplam sayısı 49 milyon 132 bine ulaştı. Bu dönemde elde edilen turizm gelirleri geçen yılın aynı dönemine kıyasla yüzde 2,4 artış göstererek 51 milyar 278 milyon dolara çıktı. Ülkeye en çok ziyaretçi gönderen ülkeler sıralamasında Rusya ilk sırada yer alırken, bu ülkeyi Almanya ve İngiltere takip etti.
 

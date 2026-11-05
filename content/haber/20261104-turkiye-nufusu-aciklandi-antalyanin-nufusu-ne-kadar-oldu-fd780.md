@@ -18,20 +18,36 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 76fbcfe351b2
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-04T15:56:34+03:00'
+    tarih: '2026-11-05T21:16:46+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
+    model: gemini-3.1-flash-lite
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '3 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Pandemi döneminde nüfus sayımı görevlisini gösteren temsilî; gerçek fotoğraf değil — Görüntü bir harita/grafik olup gerçek fotoğraf değildir, ancak nüf; gerçek fotoğraf değil; Türkiye dışına ait unsur var — Pakistan nüfus piramidini gösteren g'
+    aciklama: '4 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Türkiye'' için konuyla (population statistics, demographic data, census) ilişkili lisanslı fotoğraf bulunamadı; ''nüfus verileri'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: nüfus istatistikleri grafiği, demografik veri görselleştirme)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Siegen.png
+      katman: nesne
+      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+    - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Plauen.png
+      katman: nesne
+      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+    - sayfa: https://commons.wikimedia.org/wiki/File:R%C3%A9sum%C3%A9_graphique_g%C3%A9n%C3%A9ral_de_l%27Atlas_statistique_de_la_population_de_Paris.jpg
+      katman: nesne
+      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+    - sayfa: https://commons.wikimedia.org/wiki/File:Growth_Rate_vs_Median_Age,_2021.png
+      katman: nesne
+      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +55,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/turkiye-nufusu-86-milyon-502-bini-gecti-antalya-ne-kadar-oldu/560910
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Türkiye İstatistik Kurumu, dönemsel nüfus istatistiklerini kamuoyuyla paylaştı. Açıklanan verilere göre ülke genelindeki nüfus, 2026 yılının ilk dokuz aylık sürecinde 410 bin 118 kişilik bir artış kaydetti. Yılın belirli bir döneminde ise nüfus 181 bin 684 kişi daha yükseldi ve 1 Ekim 2026 tarihi itibarıyla toplam nüfus 86 milyon 502 bin 286 kişiye ulaştı. Ülke genelindeki nüfusun dağılımında erkekler yüzde 50,02 oranla 43 milyon 264 bin 337 kişi olurken, kadınlar yüzde 49,98 oranla 43 milyon 237 bin 949 kişi olarak kayıtlara geçti.
 

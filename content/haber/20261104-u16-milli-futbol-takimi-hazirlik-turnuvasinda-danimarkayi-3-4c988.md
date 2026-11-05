@@ -26,14 +26,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:16:47+03:00'
+    tarih: '2026-11-05T21:16:43+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
-  kurum_notu: ADANA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ADANA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor'
-    notlar: 'ADANA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı ('
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -32,8 +32,8 @@ gorsel_secim:
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Parliamentary elections and referendum in Poland in October 2023. Ballot box in Tomaszów Mazowiecki, Sikorskiego Street 6A
-  kurum: k4
-  kurum_notu: 'Mevzuat Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (anadoluajansi.gov.tr): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

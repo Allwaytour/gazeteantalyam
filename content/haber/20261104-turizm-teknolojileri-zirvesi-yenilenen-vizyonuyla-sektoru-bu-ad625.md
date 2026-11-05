@@ -19,19 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 99b3f677fa62
   gorsel_url: /images/kategori/turizm.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-04T12:28:52+03:00'
+    tarih: '2026-11-05T21:17:03+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Ali Arıcı'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Turizm Teknolojileri Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (technology conference, tourism industry event, d'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Turizm Teknolojileri Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (technology conference, tourism industry event, digital transformation) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/turizm-teknolojileri-zirvesi-gelecegin-turizmine-yon-veren-bulusma
+gorsel_onceki:
+  gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
 ---
 Türkiye Bilişim Derneği Antalya Şubesi, geride bıraktığı on yıllık birikimi ve sektörle kurduğu güçlü bağları yeni bir etkinlik kimliğine taşıyor. Yenilenen stratejik vizyon doğrultusunda, turizmin tüm bileşenlerinde dijitalleşmeyi desteklemek ve ulusal ölçekteki iş birliklerini uluslararası etki alanıyla geliştirmek amaçlanıyor.
 
