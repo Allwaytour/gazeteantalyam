@@ -4,12 +4,16 @@ url: "/kunye/"
 ---
 **Yayın Adı:** Gazete Antalya (gazeteantalyam.com)
 
-**İmtiyaz Sahibi:** _Ad Soyad_
+**Sorumlu Yazı İşleri Müdürü:** Musa Şimşek
 
-**Sorumlu Yazı İşleri Müdürü:** _Ad Soyad_
+**Editör:** Mustafa Şimşek
 
-**Adres:** _Adres bilgisi_, Antalya
+**Adres:** Antalya
 
 **E-posta:** iletisim@gazeteantalyam.com
 
-Sitemizde yer alan ve başka yayın kuruluşlarından otomatik olarak derlenen haberlerde yalnızca başlık ve kısa özet gösterilir; haberin tamamı ve tüm hakları ilgili yayın kuruluşuna aittir.
+**Yer Sağlayıcı:** GitHub Pages (GitHub, Inc.)
+
+Sitemizdeki haberlerin bir bölümü, başka yayın kuruluşlarında yayımlanan haberlerdeki bilgilerden yararlanılarak yeniden yazılır. Bu haberlerin altında kaynak yayın kuruluşunun adı ve haberin bağlantısı belirtilir. Fotoğrafların kaynağı, sahibi ve kullanım koşulu fotoğrafın altında yer alır.
+
+Düzeltme, cevap ve kaldırma talepleriniz için haberin bağlantısıyla birlikte iletisim@gazeteantalyam.com adresine yazabilirsiniz.
