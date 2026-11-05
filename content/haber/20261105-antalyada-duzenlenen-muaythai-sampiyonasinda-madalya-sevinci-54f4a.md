@@ -2,38 +2,36 @@
 title: Antalya'da düzenlenen muaythai şampiyonasında madalya sevinci
 date: '2026-11-05T10:09:08+03:00'
 ozet: Bilecikli muaythai sporcuları, Antalya'daki 29 Ekim Cumhuriyet Kupası'ndan 1 altın ve 2 gümüş madalya ile döndü.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Olena Pereiaslavets / Unsplash'
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: stok
+  kaynak_sayfa: https://unsplash.com/photos/two-men-training-in-a-boxing-ring-tzUJ-v4txHM
+  fotografci: Olena Pereiaslavets
+  kredi: Olena Pereiaslavets / Unsplash
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+  gosterilen: muaythai şampiyonası
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.3-2026-11-05
+  gerekce: 'Unsplash araması ''muaythai ring''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Ringde antrenman yapan muaythai sporcularını gösteren uygun temsilî görsel.'
+  surum: g9.4-2026-11-05
   konu_imza: 848237ab2e8b
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:53:31+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    sonuc: onaylandı
+    tarih: '2026-11-05T18:14:53+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
   kurum: k4
   kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muaythai ring, muaythai match, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai ringi)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,34 +43,6 @@ gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
 gorsel_gecmis:
-- gorsel: /images/kategori/spor.png
-  gorsel_kredi: ''
-  gorsel_tur: kategori
-  gorsel_konum: ''
-  gorsel_secim:
-    tur: kategori
-    kaynak_sayfa: ''
-    fotografci: ''
-    kredi: Gazete Antalya
-    lisans: Gazete Antalya'nın kendi tasarımı
-    lisans_dayanagi: Sitenin kendi grafik dosyası
-    kosul: ''
-    gosterilen: ''
-    cekim_yili: ''
-    gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-    surum: g8.1-2026-11-02
-    konu_imza: 848237ab2e8b
-    gorsel_url: /images/kategori/spor.png
-    kontrol:
-      yapildi: false
-      sonuc: aday yok
-      tarih: '2026-11-05T10:13:34+03:00'
-      yontem: kaynak/arşiv taraması
-    kurum: k4
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya'' için konuyla (muaythai match, ring, medals) ilişkili lisanslı fotoğraf bulunamadı'
-  degisim: '2026-11-05T16:37:19+03:00'
 - gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Fotoğraf: Eric Langley / Wikimedia Commons (CC BY 2.0)'
   gorsel_tur: stok
@@ -131,6 +101,37 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
   degisim: '2026-11-05T17:41:26+03:00'
+- gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+    surum: g9.3-2026-11-05
+    konu_imza: 848237ab2e8b
+    gorsel_url: /images/kategori/spor.png
+    kontrol:
+      yapildi: true
+      sonuc: adaylar reddedildi
+      tarih: '2026-11-05T17:53:31+03:00'
+      yontem: Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    kurum: k4
+    kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+      notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muaythai ring, muaythai match, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai ringi)'
+  degisim: '2026-11-05T18:14:53+03:00'
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilen 29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası, kıyasıya mücadelelere sahne oldu. Şampiyonada farklı yaş ve kilo gruplarında ter döken Bilecikli sporcular, başarılı sonuçlar elde ederek kürsüye çıkmayı başardı.
 

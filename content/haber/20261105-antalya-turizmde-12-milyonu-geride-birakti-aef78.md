@@ -133,6 +133,11 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum fotoğrafı önbellekten
   degisim: '2026-11-05T17:52:57+03:00'
+gorsel_bekleyen:
+  surum: g9.4-2026-11-05
+  tarih: '2026-11-05T18:14:04+03:00'
+  sayi: 1
+  neden: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 ---
 Kültür ve Turizm Bakanlığından paylaşılan verilere göre, yılın ocak-eylül döneminde Türkiye'yi ziyaret edenlerin toplam sayısı 49 milyon 132 bine ulaştı. Bu dönemde elde edilen turizm gelirleri geçen yılın aynı dönemine kıyasla yüzde 2,4 artış göstererek 51 milyar 278 milyon dolara çıktı. Ülkeye en çok ziyaretçi gönderen ülkeler sıralamasında Rusya ilk sırada yer alırken, bu ülkeyi Almanya ve İngiltere takip etti.
 

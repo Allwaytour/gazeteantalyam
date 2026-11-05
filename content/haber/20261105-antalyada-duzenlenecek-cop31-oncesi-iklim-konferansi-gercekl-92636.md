@@ -19,21 +19,25 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.3-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: 2e69cdbac817
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T17:54:24+03:00'
+    tarih: '2026-11-05T18:15:22+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   kurum: k4
   kurum_notu: kurum fotoğrafı önbellekten
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
     notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panel discussion, climate change presentation) ilişkili lisanslı fotoğraf bulunamadı'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
+      katman: kurum
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
