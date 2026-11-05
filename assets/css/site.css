@@ -523,3 +523,9 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
   .yazarlar-bolum .yazar-baslik{font-size:17.5px}
   .yk-metin{padding:12px 14px 12px 0}
 }
+.haber-kaynak{font-size:.88rem;color:var(--soluk);margin:18px 0 6px;padding-top:10px;border-top:1px solid #e6e8ea}
+.haber-kaynak a{color:inherit;text-decoration:underline}
+.haber-etiketler{font-size:.9rem;margin:16px 0 0;display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center}
+.haber-etiketler span{color:var(--soluk);font-weight:600}
+.haber-etiketler a{background:#eef1f3;color:var(--metin);padding:3px 9px;border-radius:3px;text-decoration:none}
+.haber-etiketler a:hover{background:#e2e7ea}
