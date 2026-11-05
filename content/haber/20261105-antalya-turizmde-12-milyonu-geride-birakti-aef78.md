@@ -19,21 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later); kontrol edilmemiş fotoğraf kullanılmadı."
-  surum: g8.1-2026-11-02
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
+  surum: g9-2026-11-05
   konu_imza: 06f0173745fc
   gorsel_url: /images/kategori/turizm.png
   kontrol:
     yapildi: false
     sonuc: yapılamadı
-    tarih: '2026-11-05T11:28:02+03:00'
-    yontem: Gemini görsel kontrol
-    neden: "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
+    tarih: '2026-11-05T16:32:06+03:00'
+    yontem: konu ayrıştırılamadı
   kurum: k4
   bekliyor: true
+  bekleme_sayisi: 1
   kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later"
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/turkiyeye-turist-akini-antalya-12-milyonu-asti-alanyanin-rakamlari-dikkat-cekti
+gorsel_onceki:
+  gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
 ---
 Kültür ve Turizm Bakanlığından paylaşılan verilere göre, yılın ocak-eylül döneminde Türkiye'yi ziyaret edenlerin toplam sayısı 49 milyon 132 bine ulaştı. Bu dönemde elde edilen turizm gelirleri geçen yılın aynı dönemine kıyasla yüzde 2,4 artış göstererek 51 milyar 278 milyon dolara çıktı. Ülkeye en çok ziyaretçi gönderen ülkeler sıralamasında Rusya ilk sırada yer alırken, bu ülkeyi Almanya ve İngiltere takip etti.
 
