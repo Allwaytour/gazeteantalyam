@@ -27,11 +27,12 @@ gorsel_secim:
     sonuc: onaylandı
     tarih: '2026-11-05T18:14:53+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
-  kurum: k4
-  kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
+  kaynak_aciklama: Muay Thai training at Dee Muay Thai gym in Bali, Indonesia.
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

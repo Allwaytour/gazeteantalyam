@@ -25,14 +25,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T18:11:51+03:00'
+    tarih: '2026-11-05T20:21:10+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
-  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science pr'
-    notlar: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science project) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science project) ilişkili lisansl'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (conference hall, exhibition pavilion, science project) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -24,12 +24,12 @@ gorsel_secim:
   konu_imza: e1769ca0c73a
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T18:19:07+03:00'
+    tarih: '2026-11-05T20:21:46+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k4
+    model: gemini-3.5-flash-lite
+  kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi

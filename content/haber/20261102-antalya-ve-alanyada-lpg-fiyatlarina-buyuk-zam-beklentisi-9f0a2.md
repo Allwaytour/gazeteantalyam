@@ -26,15 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T19:12:10+03:00'
+    tarih: '2026-11-05T20:21:47+03:00'
     yontem: kaynak/arşiv taraması
-  kurum: k4
-  kurum_notu: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/ku"
-    notlar: "TBMM Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; 'Antalya' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; 'LPG zammı' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG gas pump, gas station price display); mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı"
-  zorla: g9.4-2026-11-05:1
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisans'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (lpg gas pump, fuel price sign) ilişkili lisanslı fotoğraf bulunamadı; ''LPG zammı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: LPG gas pump, gas station price display)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -2,8 +2,8 @@
 title: Antalya Havalimanı'nda uçaktan aprona yakıt döküldü
 date: '2026-10-31T19:19:54+03:00'
 ozet: Antalya Havalimanı'nda sefere hazırlanan bir yolcu uçağından aprona yakıt sızdı. Ekipler bölgede güvenlik önlemi alarak temizlik çalışması başlattı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -55,31 +55,61 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   degisim: '2026-11-05T18:08:43+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyahavaliman%C4%B12.JPG
+    fotografci: Vikiçizer
+    kredi: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)
+    lisans: CC BY-SA 3.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya Havalimanı
+    cekim_yili: '2013'
+    gerekce: '''Antalya Havalimanı'' için daha önce onaylanmış arşiv fotoğrafı (2026-11-05); lisans dosya sayfasından; görsel kontrol: Apron ve uçakları gösterdiği için haberin konusuyla doğrudan ilişkili, uygun bir görsel.'
+    surum: g9.4-2026-11-05
+    konu_imza: 374feead745a
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T18:34:56+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2013)
+    alt_tur: kurum
+    kurum: k4
+    kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  degisim: '2026-11-05T20:22:10+03:00'
 gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyahavaliman%C4%B12.JPG
-  fotografci: Vikiçizer
-  kredi: Vikiçizer / Wikimedia Commons (CC BY-SA 3.0)
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Airport_(AYT)_Turkey_Feb_2022.jpg
+  fotografci: Sharon Hahn Darlin
+  kredi: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya Havalimanı
-  cekim_yili: '2013'
-  gerekce: '''Antalya Havalimanı'' için daha önce onaylanmış arşiv fotoğrafı (2026-11-05); lisans dosya sayfasından; görsel kontrol: Apron ve uçakları gösterdiği için haberin konusuyla doğrudan ilişkili, uygun bir görsel.'
+  cekim_yili: '2022'
+  gerekce: '''Antalya Havalimanı'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-02-05; görsel kontrol: Antalya Havalimanı''nın genel görünümü, haberin geçtiği yeri temsil etmek için uygun bir arşiv fotoğrafıdır.'
   surum: g9.4-2026-11-05
   konu_imza: 374feead745a
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T18:34:56+03:00'
+    tarih: '2026-11-05T20:22:10+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2013)
+  aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2022)
   alt_tur: kurum
-  kurum: k4
-  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; Devlet Hava Meydanları İşletmesi Genel Müdürlüğü sayfası aynı haber değil (benzerlik %33); Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  kaynak_aciklama: Antalya Airport (AYT) Turkey 🇹🇷
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 ---
 Antalya Havalimanı'nda sefer için hazırlık yapan bir yolcu uçağında henüz belirlenemeyen bir nedenle aprona yakıt dökülmesi olayı yaşandı.
 

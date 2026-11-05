@@ -23,17 +23,17 @@ gorsel_secim:
   konu_imza: 2e69cdbac817
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T18:15:22+03:00'
+    tarih: '2026-11-05T20:21:13+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  kurum: k4
-  kurum_notu: kurum fotoğrafı önbellekten
+  kurum: k5
+  kurum_notu: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without'
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panel discussion, climate change presentation) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panel discussion, climate change presentation) ilişkili lisanslı fotoğraf bulunamadı'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
