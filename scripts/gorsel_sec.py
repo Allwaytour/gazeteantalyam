@@ -1209,6 +1209,29 @@ def gorsel_indir(url, en_fazla=900_000):
     return tip, base64.b64encode(r.content).decode()
 
 
+YABANCI_SOMUT = re.compile(r"(?i)tabela|yazı|plaka|polis|ambulans|bayrak|para birimi|sign|plate|flag|police|landmark|simge|şehir")
+
+
+def eski_red_yeniden(a, ob):
+    """Önbellekteki red kararı bugünkü kurallara göre geçersiz mi? 'kabul' → yalnızca konu ilişkisi yüzünden elenmiş, ana öznenin
+    kimliği doğrulanmış kendi fotoğrafı; 'tekrar' → yalnızca 'Türkiye dışına ait unsur' (somut tabela/plaka/bayrak/simge
+    belirtilmeden) yüzünden elenmiş kare yeni kuralla bir kez daha görüntü kontrolüne gönderilir; '' → red geçerli."""
+    if not ob or ob.get("karar") != "red":
+        return ""
+    g = ob.get("gerekce", "")
+    ned = [n.strip() for n in g.split(" — ")[0].split(";") if n.strip()]
+    if not ned:
+        return ""
+    if a.get("alt_tur") == "kurum" and a.get("ana_ozne") and all(
+            n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
+        return "kabul"
+    aciklama = g.split(" — ", 1)[1] if " — " in g else ""
+    if (all(n.startswith("Türkiye dışına ait unsur var") for n in ned) and not YABANCI_SOMUT.search(aciklama)
+            and not ob.get("yeniden_bakildi")):
+        return "tekrar"
+    return ""
+
+
 def karar_ver(d, konu):
     """Yapay zekânın gözleminden kesin karar; kurallar kodda. Hepsi sağlanmazsa red."""
     nedenler = []
@@ -1250,6 +1273,9 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
     gonderilecek, parcalar, iddialar = [], [], []
     for a in adaylar:
         ob = bag.onbellek_al(imza(KURAL_SURUMU, konu_imza, a["url"]))
+        if ob and eski_red_yeniden(a, ob) == "tekrar":
+            ob = None                     # kural değişti: bu kare bir kez daha görüntü kontrolüne gönderilir
+            a["yeniden_bakildi"] = True
         if ob:
             a.update(karar=ob["karar"], gerekce=ob.get("gerekce", ""), kontrol_tarih=ob.get("t", ""), onbellekten=True,
                      benzerlik=ob.get("benzerlik", 0), tek=ob.get("tek", False), iliski=ob.get("iliski", 0))
@@ -1308,7 +1334,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
                                                   "taninabilir_kisi", "etkinlik_benzerligi", "tek_kisi_odakli", "konu_iliskisi",
                                                   "gerekli_unsur_var", "yasak_unsur_var")})
         bag.onbellek_koy(imza(KURAL_SURUMU, konu_imza, a["url"]), {"karar": karar, "gerekce": gerekce, "t": tarih, "benzerlik": benz, "tek": tek,
-                                                                 "iliski": ilis})
+                                                                 "iliski": ilis, "yeniden_bakildi": bool(a.get("yeniden_bakildi"))})
     return adaylar
 
 
@@ -1316,7 +1342,9 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # Kapak kalan haberler, aday kuralları genişletildiğinde (tüm kararlar sıfırlanmadan) bir kez yeniden denenir.
 # c2: kurum haberinde konu fotoğrafı (kurumun binası/kadrosu değil, konunun kendisi) ve ilçe/şehir haberinde konu fotoğrafı.
 # c3: turizm haberinde ilçenin genel görünümü; ülkesi belli olmayan doğal sahne/ürün kareleri "yabancı unsur" sayılmaz.
-KAPAK_SURUM = "c3"
+# c4: yer+konu aramasında "Antalya" gibi geniş yer adı da tutar; ana öznenin kendi fotoğrafı ve "yabancı sahne" redleri yeniden
+#     değerlendirilir; hassas olmayan kişi haberinde konuyu anlatan temsilî fotoğraf.
+KAPAK_SURUM = "c4"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
@@ -1406,8 +1434,13 @@ def konu_gorseli(konu):
     oz = konu.get("ana_ozne") or {}
     if not kg.get("sorgular_en") and oz.get("tur") == "nesne" and oz.get("ad_en"):
         kg.update(uygun=True, sorgular_en=[oz["ad_en"]] + (konu.get("alternatif_sorgular_en") or [])[:2])
-    if konu.get("hassas", "yok") in NESNE_HASSAS or oz.get("tur") in ("kisi", "takim"):
+    if konu.get("hassas", "yok") != "yok" or oz.get("tur") == "takim":
         kg["uygun"] = False
+    elif oz.get("tur") == "kisi":
+        # Kişi haberinde temsilî fotoğraf yalnızca konuyu (satranç, sahne, ürün) gösterir; görüntü kontrolünde tanınabilir kişi
+        # bulunan kare elenir (fotoğraftaki kişi haberin kişisi sanılmasın). Kişinin doğrulanmış portresi her zaman önce gelir.
+        kg["sorgular_en"] = [q for q in kg.get("sorgular_en") or [] if not INSAN_IPUCU.search(q)]
+        kg["sorgular_tr"] = [q for q in kg.get("sorgular_tr") or [] if not INSAN_IPUCU.search(q)]
     elif oz.get("tur") == "kurum":
         # Kurum haberinde konu fotoğrafı yalnızca KONUYU (organ bağışı, doğal taş, bilim projesi) anlatan sorgularla aranır;
         # kurumun binası/kadrosu/kulübü gibi sorgular çıkarılır. Görüntü kontrolünde kurumun kendisi sanılabilecek kare elenir.
@@ -1554,6 +1587,20 @@ TESIS_TURU = re.compile(r"(?i)stadium|stadyum|stadı|arena|airport|havaliman|hos
                         r"court|adliye|school|okul|terminal|station|istasyon|prison|cezaevi|factory|fabrika")
 
 
+INSAN_IPUCU = re.compile(r"(?i)\b(officials?|people|crowd|lawyers?|staff|members?|delegation|participants?|audience|students?|"
+                         r"workers?|police officers?|politicians?|speakers?|guests?|visitors?|team|players?)\b")
+
+
+def yer_eslesir(ad, metin):
+    """Yer adının bütün kelimeleri dosya kaydında geçiyor mu? (ad_eslesir'den farkı: "Antalya" gibi geniş bir ad da YER olarak
+    tutar; dosyanın konuyla ilişkisi ayrıca konu ipucunun tam ifadesiyle aranır.)"""
+    k = kelimeler(ad)
+    if not k or kucult(ad) in ULKE_ADLARI:
+        return False
+    m = kelimeler(metin)
+    return all(any(_kelime_tutar(t, w) for w in m) for t in k)
+
+
 def ele(bag, d, neden):
     """Görüntü kontrolüne gönderilmeden elenen dosyanın tanı kaydı (en çok 40)."""
     if isinstance(getattr(bag, "elenen", None), list) and len(bag.elenen) < 40:
@@ -1606,7 +1653,8 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
     (ör. Antalya Havalimanı + yakıt sızıntısı → apron/uçak; Alanya + otel doluluğu → oteller/otel bölgesi).
     Dosyanın kendi kaydında hem YER adı hem KONU ipucu geçmeli; yalnızca şehir/yer eşleşmesi yetmez."""
     yer = konu.get("nerede") or {}
-    ipuclari = konu.get("gorsel_ipucu_en") or []
+    # Toplantı/insan ipuçları ("meeting", "officials", "lawyer") başka bir etkinliğin insanlarını gösterir: yer+konu için kullanılmaz.
+    ipuclari = [ip for ip in (konu.get("gorsel_ipucu_en") or []) if not TOPLANTI.search(ip) and not INSAN_IPUCU.search(ip)]
     adaylar, notlar = [], []
     if not (yer.get("ad") and ipuclari) or konu.get("hassas", "yok") in ("ölüm", "çocuk"):
         return adaylar, notlar
@@ -1657,7 +1705,7 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
         seen.add(d["url"])
         metin = commons_metni(d)
         mk = {kok(w) for w in kelimeler(metin)}
-        yer_tutar = ad_eslesir(yer["ad"], metin) or ad_eslesir(yer_en, metin)
+        yer_tutar = yer_eslesir(yer["ad"], metin) or yer_eslesir(yer_en, metin)
         # konu ipucu tek kelimeyle değil, ifadenin bütün özgül kelimeleriyle tutmalı ("natural stone" ≠ "tektite stone structure")
         if not yer_tutar:
             ele(bag, d, f"yer/konu: kayıtta '{yer['ad']}' geçmiyor"); continue
@@ -1879,7 +1927,7 @@ def gorsel_sec(bag, haber, konu, eski=None):
                 while havuz[ad] and len(secilen) < butce and al < sinir:
                     a = havuz[ad].pop(0)
                     ob = onceki_karar(a)
-                    if ob and ob.get("karar") == "red":
+                    if ob and ob.get("karar") == "red" and not eski_red_yeniden(a, ob):
                         eski_red.append(a)
                         continue
                     secilen.append(a)
