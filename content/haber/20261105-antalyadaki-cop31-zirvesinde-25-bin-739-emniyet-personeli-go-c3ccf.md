@@ -19,20 +19,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: c90ebc8b9b63
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T20:08:20+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
+    sonuc: yapılamadı
+    tarih: '2026-11-05T20:34:09+03:00'
+    yontem: konu ayrıştırılamadı
+  kurum: k5
+  bekliyor: true
+  bekleme_sayisi: 1
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'İzmir Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Mersin Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 zirvesi güvenlik önlemleri'' bir olay: başka bir etkinliğin ar'
-    notlar: 'İzmir Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Mersin Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 zirvesi güvenlik önlemleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya EXPO Fuar Alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/cop31-zirvesinde-25-bin-739-emniyet-personeli-gorev-yapacak
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'da düzenlenecek küresel ölçekteki COP31 zirvesinin huzur ve güven ortamında gerçekleştirilmesi amacıyla kapsamlı bir güvenlik planlaması hayata geçirildi. Emniyet Teşkilatı, devlet ve hükümet başkanları ile çok sayıda uluslararası delegenin katılacağı dev organizasyon için hazırlıklarını titizlikle sürdürüyor.
 

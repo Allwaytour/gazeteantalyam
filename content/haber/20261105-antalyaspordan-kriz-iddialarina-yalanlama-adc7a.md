@@ -24,16 +24,17 @@ gorsel_secim:
   konu_imza: 3a1d55abd202
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T19:22:13+03:00'
+    tarih: '2026-11-05T20:33:56+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  kurum: k4
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalyaspor''un stadını gö'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Antalya'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
       katman: kurum
@@ -45,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: Haber Antalya
 kaynak_url: https://www.haberantalya.com/antalyaspordan-kriz-iddialarina-sert-yanit/533075
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Antalyaspor Kulübü, son günlerde basında yer alan ve futbolcuların ödemelerini alamadıkları gerekçesiyle antrenmana çıkmayı reddettiğini öne süren iddialara sert bir dille tepki gösterdi. Yapılan açıklamada, söz konusu haberlerin kasıtlı olduğu ve kulübü yıpratmayı amaçladığı vurgulandı.
 
