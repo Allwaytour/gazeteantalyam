@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 {{ if .Params.noindex }}<meta name="robots" content="noindex,nofollow">{{ end }}
-{{ $t := .Title }}{{ if eq .Kind "section" }}{{ $t = index (dict "yazarlar" "Yazarlar" "kose" "Köşe Yazıları" "haber" "Tüm Haberler") .Section | default .Title }}{{ end }}
+{{ $t := .Title }}{{ if eq .Kind "404" }}{{ $t = "Sayfa bulunamadı" }}{{ end }}{{ if eq .Kind "section" }}{{ $t = index (dict "yazarlar" "Yazarlar" "kose" "Köşe Yazıları" "haber" "Tüm Haberler") .Section | default .Title }}{{ end }}
 {{ $baslik := cond .IsHome (printf "%s | %s" site.Title site.Params.slogan) (printf "%s | %s" $t site.Title) }}
 <title>{{ $baslik }}</title>
 {{ $aciklama := site.Params.aciklama }}{{ with .Params.ozet }}{{ $aciklama = . }}{{ end }}
@@ -15,17 +15,28 @@
 <meta property="og:description" content="{{ $aciklama | plainify | truncate 200 }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:image" content="{{ with .Params.gorsel }}{{ . | absURL }}{{ else }}{{ "images/logo.png" | absURL }}{{ end }}">
+{{ $paylasim := "images/logo.png" | absURL }}{{ with .Params.gorsel }}{{ $paylasim = partial "gorsel-url.html" (dict "u" (. | absURL) "w" 1280) }}{{ end }}
+<meta property="og:image" content="{{ $paylasim }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#374F58">
 <link rel="icon" href="{{ "favicon.png" | relURL }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-{{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+<link rel="preload" href="{{ "fonts/inter-latin-wght-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+{{ $css := slice (resources.Get "css/fontlar.css") (resources.Get "css/site.css") | resources.Concat "css/site.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
-{{ if .IsPage }}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":{{ .Title | jsonify }},"datePublished":{{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},"dateModified":{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},{{ with .Params.gorsel }}{{ if ne $.Params.gorsel_tur "kategori" }}"image":[{{ . | absURL | jsonify }}],{{ end }}{{ end }}"author":{"@type":"Organization","name":{{ .Params.yazar | default site.Title | jsonify }}},"publisher":{"@type":"Organization","name":{{ site.Title | jsonify }},"logo":{"@type":"ImageObject","url":{{ "images/logo.png" | absURL | jsonify }}}}}</script>
+{{/* Yapılandırılmış veri: dict + jsonify | safeJS (şablon motoru metni ikinci kez kaçışlamasın). Yalnızca haber ve köşe yazıları
+     NewsArticle; ana sayfa WebSite + NewsMediaOrganization; künye/iletişim gibi sayfalar işaretlenmez. */}}
+{{ $kurulus := dict "@type" "NewsMediaOrganization" "name" site.Title "url" ("/" | absURL) "logo" (dict "@type" "ImageObject" "url" ("images/logo.png" | absURL)) "publishingPrinciples" ("kunye/" | absURL) }}
+{{ if and .IsPage (in (slice "haber" "kose") .Section) }}
+{{ $ld := dict "@context" "https://schema.org" "@type" "NewsArticle" "headline" (.Title | truncate 110 "" | htmlUnescape) "mainEntityOfPage" .Permalink "url" .Permalink "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "description" ($aciklama | plainify | truncate 200 | htmlUnescape) "inLanguage" "tr-TR" "publisher" $kurulus }}
+{{ with .Params.kategoriler }}{{ $ld = merge $ld (dict "articleSection" (index . 0)) }}{{ end }}
+{{ if and .Params.gorsel (ne .Params.gorsel_tur "kategori") }}{{ $ld = merge $ld (dict "image" (slice $paylasim)) }}{{ end }}
+{{ $yazar := .Params.yazar | default site.Title }}
+{{ if eq $yazar site.Title }}{{ $ld = merge $ld (dict "author" (dict "@type" "Organization" "name" site.Title "url" ("/" | absURL))) }}{{ else }}{{ $ld = merge $ld (dict "author" (dict "@type" "Person" "name" $yazar)) }}{{ end }}
+{{ with .Params.kaynak_url }}{{ if $.Params.otomatik }}{{ $ld = merge $ld (dict "isBasedOn" .) }}{{ end }}{{ end }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{ else if .IsHome }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice (merge $kurulus (dict "@id" ("/#kurulus" | absURL))) (dict "@type" "WebSite" "name" site.Title "url" ("/" | absURL) "inLanguage" "tr-TR" "publisher" (dict "@id" ("/#kurulus" | absURL)) "potentialAction" (dict "@type" "SearchAction" "target" (printf "%s?q={search_term_string}" ("arama/" | absURL)) "query-input" "required name=search_term_string"))) | jsonify | safeJS }}</script>
 {{ end }}
 </head>
 <body>

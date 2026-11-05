@@ -1,7 +1,11 @@
 {{ define "main" }}
 <div class="sayfa-bas"><h1>{{ .Title }}</h1></div>
 <div class="kutu ilce-bulut" style="background:#fff;padding:20px;border-radius:10px">
+  {{ if eq .Data.Plural "etiketler" }}
+  {{ range .Data.Terms.ByCount }}<a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }} ({{ .Count }})</a>{{ end }}
+  {{ else }}
   {{ $liste := cond (eq .Data.Plural "ilceler") site.Data.site.ilceler site.Data.site.kategoriler }}
   {{ range $liste }}<a href="{{ partial "terim-url.html" (slice $.Data.Plural .) }}">{{ . }}</a>{{ end }}
+  {{ end }}
 </div>
 {{ end }}

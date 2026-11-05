@@ -3,10 +3,15 @@
 {{ $alan := cond (eq .Data.Plural "ilceler") "ilce" "kategori" }}
 {{ $ad := .Title }}
 {{ $liste := slice }}
+{{ if eq .Data.Plural "etiketler" }}
+  {{ $linkler := slice }}{{ range .Pages }}{{ $linkler = $linkler | append .RelPermalink }}{{ end }}
+  {{ $liste = where $hepsi "link" "in" $linkler }}
+{{ else }}
 {{ range $hepsi }}{{ if eq (index . $alan) $ad }}{{ $liste = $liste | append . }}{{ end }}{{ end }}
+{{ end }}
 <div class="izgara">
   <div>
-    <div class="sayfa-bas"><h1>{{ $ad }}{{ if eq $alan "ilce" }} Haberleri{{ end }}</h1><p>{{ if eq $alan "ilce" }}Antalya {{ $ad }} ilçesinden{{ else }}Antalya {{ lower $ad }}{{ end }} son haberler</p></div>
+    <div class="sayfa-bas"><h1>{{ $ad }}{{ if or (eq $alan "ilce") (eq .Data.Plural "etiketler") }} Haberleri{{ end }}</h1><p>{{ if eq .Data.Plural "etiketler" }}{{ $ad }} ile ilgili son haberler{{ else if eq $alan "ilce" }}Antalya {{ $ad }} ilçesinden son haberler{{ else }}Antalya {{ lower $ad }} son haberler{{ end }}</p></div>
     {{ with $liste }}
       <div class="kartlar" style="margin-bottom:20px">{{ range first 6 . }}{{ partial "kart.html" . }}{{ end }}</div>
       {{ with after 6 . }}<div class="liste" data-sayfala="15">{{ range first 120 . }}{{ partial "liste-oge.html" . }}{{ end }}</div>
