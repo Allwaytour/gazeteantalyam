@@ -906,10 +906,10 @@ def kurum_wikidata_adaylari(bag, konu):
             notlar.append(f"Stat kaydı okunamadı ({h['ad']}): {e}")
         oz = konu.get("ana_ozne") or {}
         nerede = (konu.get("nerede") or {}).get("ad", "")
+        ana_takim = kucult(oz.get("ad", "")) == kucult(h["ad"]) or ad_eslesir(h["ad"], oz.get("ad", ""))
         for d, mekan_ad in stat:
             # Stat yalnızca haberin ana öznesi olan takımın sahasıysa ya da olayın geçtiği yer bu statsa kullanılır:
             # rakip takımın stadı, maç orada oynanmıyorsa haberi başka bir yerde geçiyormuş gibi gösterir.
-            ana_takim = kucult(oz.get("ad", "")) == kucult(h["ad"]) or ad_eslesir(h["ad"], oz.get("ad", ""))
             if not ana_takim and not (nerede and (ad_eslesir(nerede, mekan_ad) or ad_eslesir(mekan_ad, nerede))):
                 notlar.append(f"'{mekan_ad}' ({h['ad']} stadı) haberin ana takımına ait değil ve olay yeri olarak geçmiyor; kullanılmadı")
                 continue
@@ -927,6 +927,9 @@ def kurum_wikidata_adaylari(bag, konu):
             if not d or d["url"] in gorulen_url:
                 continue
             gorulen_url.add(d["url"])
+            if h.get("tur") == "takim" and not ana_takim and re.search(r"(?i)stad|stadium|\bpark\b|arena", commons_metni(d)) \
+                    and not (nerede and ad_eslesir(nerede, commons_metni(d))):
+                continue      # rakip takımın stadı, maç orada oynanmıyorsa kullanılmaz (kategori/arşiv yolundan da)
             ok, _ = commons_uygun(d)
             if not ok or bag.yasakli_mi(d["url"]):
                 continue
@@ -1314,6 +1317,7 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
         "aciklama": alt_yazi(a, konu or {}) if a["tur"] != "stok" else "Temsilî fotoğraf",
         "izin_kontrolu": a.get("izin_kontrolu") or {},
         "alt_tur": a.get("alt_tur", ""), "qid": a.get("qid", ""),
+        "kaynak_aciklama": temiz(((a.get("kayit") or {}).get("aciklama") or ""), 160),
         "konum": "50% 22%" if a.get("dikey") else "",
     }
 
@@ -1567,6 +1571,11 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
     return adaylar[:en_fazla], notlar
 
 
+# Arama servisinin kendisi (Wikidata, Commons, Unsplash, kurum haber araması) yanıt vermediyse; tek bir kurum sayfasının okunamaması değil.
+ARAMA_HATA_RE = re.compile(r"(araması|sorgusu) yapılamadı|Commons okunamadı|kategorisi okunamadı|yer fotoğrafları okunamadı|fotoğrafı aranamadı|"
+                           r"kategorisi okunamadı|kurum fotoğrafı araması yapılamadı")
+
+
 def kapak_nedeni(adaylar, notlar, kontrol_hatasi="", konu=None, kalan=0, butce=False, arama_hatasi=False):
     """Kategori kapağı neden kullanıldı? Kota/servis hatası, bütçe dolması ve arama hatası "fotoğraf yok" sayılmaz (ayrı kodlar;
     bunlarda haber sonra yeniden denenir). 'notlar' alanı her katmanın arama sonucunu tanı için saklar."""
@@ -1583,9 +1592,9 @@ def kapak_nedeni(adaylar, notlar, kontrol_hatasi="", konu=None, kalan=0, butce=F
         return {"kod": "gorsel_reddedildi", "aciklama": f"{len(red)} aday görüntü kontrolünde elendi: {nedenler}", "notlar": ozet,
                 "elenenler": [{"sayfa": a.get("sayfa") or a.get("url", ""), "katman": a.get("alt_tur", ""), "neden": (a.get("gerekce") or "")[:160]}
                               for a in red[:6]]}
-    if arama_hatasi or "yapılamadı" in metin or "okunamadı" in metin or "aranamadı" in metin:
-        return {"kod": "arama_hatasi", "aciklama": next((n for n in notlar if "yapılamadı" in n or "okunamadı" in n or "aranamadı" in n),
-                                                         "arama servisi yanıt vermedi")[:200], "notlar": ozet}
+    servis = [n for n in notlar if ARAMA_HATA_RE.search(n)]
+    if arama_hatasi or servis:
+        return {"kod": "arama_hatasi", "aciklama": (servis[0] if servis else "arama servisi yanıt vermedi")[:200], "notlar": ozet}
     oz = (konu or {}).get("ana_ozne") or {}
     if oz.get("tur") == "kisi" and any("kimliği kesin doğrulanan" in n and set(kelimeler(oz.get("ad", ""))) & set(kelimeler(n)) for n in notlar):
         return {"kod": "kimlik_eslesmedi", "aciklama": next(n for n in notlar if "kimliği kesin doğrulanan" in n)[:200], "notlar": ozet}
@@ -1662,7 +1671,12 @@ def eski_gecerli(eski, konu, haber):
     if tur == "gercek":
         return True
     if alt == "nesne" or tur == "stok" or "unsplash" in eski.get("url", ""):
-        return bool(konu_gorseli(konu).get("uygun"))
+        kg = konu_gorseli(konu)
+        if not kg.get("uygun"):
+            return False
+        cekirdek = " ".join(w for w in kelimeler((kg.get("sorgular_en") or [""])[0]) if w not in STOK_GENEL)
+        kaynak = unquote(s.get("kaynak_sayfa") or "").replace("-", " ").replace("_", " ") + " " + (s.get("kaynak_aciklama") or "")
+        return not cekirdek or stok_metni_uygun(cekirdek, kaynak)
     if alt == "yer_konu":
         return oz != "takim" and not MAC_IPUCU.search(metin) and (bool(TESIS_TURU.search(s.get("gosterilen") or "")) or not TESIS_TURU.search(metin))
     if alt == "yer":
@@ -1982,7 +1996,7 @@ def secimi_uygula(v, secim):
                                            "gosterilen", "cekim_yili", "gerekce", "surum", "konu_imza")}
     kayit["gorsel_url"] = secim["gorsel"]
     kayit["kontrol"] = secim.get("kontrol", {})
-    for k in ("aciklama", "alt_tur", "qid", "izin_kontrolu"):
+    for k in ("aciklama", "alt_tur", "qid", "izin_kontrolu", "kaynak_aciklama"):
         if secim.get(k):
             kayit[k] = secim[k]
     if kf:
@@ -2064,7 +2078,7 @@ def bekleyen_deneme_yakin(v):
         return False
 
 
-def haber_isle(bag, yol):
+def haber_isle(bag, yol, zorla=""):
     """Tek bir haberin görselini yeni yöntemle seçer ve dosyaya yazar. Eski görsel yasaklı listeye girer."""
     v, govde = md_oku(yol)
     oto, neden = otomatik_gorsel_mi(v)
@@ -2097,18 +2111,23 @@ def haber_isle(bag, yol):
                                            "yeni_aday_sonucu": (secim.get("kapak_nedeni") or {}).get("kod", "")})
         if not eski_secim.get("gorsel_url"):
             eski_secim["gorsel_url"] = eski
+        if zorla:
+            eski_secim["zorla"] = zorla
         v["gorsel_secim"] = eski_secim
         v.pop("gorsel_bekleyen", None)
         md_yaz(yol, v, govde)
         return {"tur": "korundu", "gorsel": eski, "alt_tur": eski_secim.get("alt_tur", ""), "aciklama": eski_secim.get("aciklama", ""),
                 "kapak_nedeni": secim.get("kapak_nedeni")}, "mevcut fotoğraf yeniden kontrolden geçti; korundu"
-    if secim.get("bekliyor") and eski and not eski.startswith("/images/kategori/") and secim["tur"] == "kategori":
+    gecersiz = bool(konu and eski_bilgi and not eski_gecerli(eski_bilgi, konu, h))
+    if secim.get("bekliyor") and eski and not eski.startswith("/images/kategori/") and secim["tur"] == "kategori" and not gecersiz:
         # Konu ayrıştırılamadı, görsel kontrolü ya da arama yapılamadı (kota/servis): mevcut fotoğraf kategori kapağıyla
         # değiştirilmez. Yalnızca deneme kaydı tutulur; 3 saat sonra (en çok 4 kez) yeniden denenir.
         b = v.get("gorsel_bekleyen") if isinstance(v.get("gorsel_bekleyen"), dict) else {}
         v["gorsel_bekleyen"] = {"surum": KURAL_SURUMU, "tarih": simdi_tr().isoformat(timespec="seconds"),
                                 "sayi": (int(b.get("sayi") or 0) + 1) if b.get("surum") == KURAL_SURUMU else 1,
                                 "neden": ((secim.get("kapak_nedeni") or {}).get("aciklama") or secim.get("gerekce", ""))[:200]}
+        if zorla and isinstance(v.get("gorsel_secim"), dict):
+            v["gorsel_secim"]["zorla"] = zorla
         md_yaz(yol, v, govde)
         return None, "kontrol yapılamadı; mevcut görsel korundu"
     # Eski görsel yalnızca eski hattın denetimsiz stok seçimiyse bir daha kullanılmamak üzere yasaklanır. Kimliği doğrulanmış
@@ -2121,6 +2140,8 @@ def haber_isle(bag, yol):
         secim["bekleme_sayisi"] = (int(onceki.get("bekleme_sayisi") or 0) + 1) if onceki.get("bekliyor") and onceki.get("surum") == KURAL_SURUMU else 1
     v.pop("gorsel_bekleyen", None)
     secimi_uygula(v, secim)
+    if zorla:
+        v["gorsel_secim"]["zorla"] = zorla       # elle istenen yeniden işleme bir kez yapılır
     md_yaz(yol, v, govde)
     return secim, "düzeltildi"
 
@@ -2135,7 +2156,8 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
     sure = int(bag.ayar.get("gorsel_sure_dk", 8)) * 60   # bir turun 30 dakikayı aşmaması için toplu düzeltmeye ayrılan süre
     baslangic = time.time()
     tum = sorted(os.listdir(HABER_KLASOR), reverse=True)
-    oncelikli = [a for a in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(a, str) and a in tum]
+    yeniden = [a for a in (bag.ayar.get("gorsel_yeniden") or []) if isinstance(a, str) and a in tum]
+    oncelikli = yeniden + [a for a in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(a, str) and a in tum and a not in yeniden]
     for ad in oncelikli + [a for a in tum if a not in oncelikli]:
         # Yeni gelen haberlerin görsel kontrolü için günlük hakkın bir kısmı her zaman ayrılır (toplu düzeltme onu tüketmez).
         if duzeltilen >= limit or not bag.yz_hakki(2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
@@ -2143,18 +2165,22 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
         if time.time() - baslangic > sure:
             print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
             break
-        if not yalniz_bekleyen and sinir and sayac.get(KURAL_SURUMU, 0) >= sinir:
-            print(f"Toplu düzeltme bu sürümde {sinir} haber sınırına ulaştı; inceleme sonrası sınır artırılmalı.")
-            break
+        if not yalniz_bekleyen and sinir and sayac.get(KURAL_SURUMU, 0) >= sinir and ad not in yeniden:
+            if not yeniden or ad not in oncelikli:
+                print(f"Toplu düzeltme bu sürümde {sinir} haber sınırına ulaştı; inceleme sonrası sınır artırılmalı.")
+                break
+            continue
         yol = os.path.join(HABER_KLASOR, ad)
         try:
             v, _ = md_oku(yol)
             oto, _ = otomatik_gorsel_mi(v)
-            if not oto or not yeniden_gerekli(v) or bekleyen_deneme_yakin(v):
+            zorla = ad in (bag.ayar.get("gorsel_yeniden") or []) and (v.get("gorsel_secim") or {}).get("zorla") != \
+                f"{KURAL_SURUMU}:{bag.ayar.get('gorsel_yeniden_no', 1)}"
+            if not oto or (not zorla and (not yeniden_gerekli(v) or bekleyen_deneme_yakin(v))):
                 continue
             if yalniz_bekleyen and not (isinstance(v.get("gorsel_secim"), dict) and v["gorsel_secim"].get("bekliyor")):
                 continue
-            secim, neden = haber_isle(bag, yol)
+            secim, neden = haber_isle(bag, yol, zorla=f"{KURAL_SURUMU}:{bag.ayar.get('gorsel_yeniden_no', 1)}" if zorla else "")
             if secim is None:
                 print(f"Görsel düzeltilmedi: {ad} → {neden}")
                 if neden.startswith("kontrol yapılamadı") and not bag.yz_hakki(2):
