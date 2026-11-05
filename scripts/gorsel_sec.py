@@ -43,7 +43,7 @@ try:
 except Exception:          # tarayıcı/Pillow yoksa kurum fotoğrafı katmanı devre dışı kalır
     kf = None
 
-SURUM = "g9.2"
+SURUM = "g9.3"
 BASLANGIC = time.time()
 KURAL_TARIHI = "2026-11-05"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
@@ -933,6 +933,7 @@ def kurum_wikidata_adaylari(bag, konu):
                 "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
                 "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                 "kosul": commons.get("kosul", ""), "hedef": h["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "kayit": d,
+                "hedef_tur": h.get("tur", ""),
                 "meta_puan": 50 + (10 if alinan == 0 else 0) - (6 * int(d.get("kullanim", 0))), "onayli": "onay" in d,
                 "dogrulama": f"'{h['ad']}' Wikidata {v['qid']} kaydı ve Commons kategorisiyle doğrulandı",
             })
@@ -1197,6 +1198,8 @@ def karar_ver(d, konu):
         nedenler.append("haberin gerektirdiği unsur görünmüyor (" + ", ".join(konu["gorselde_olmali"][:2]) + ")")
     if d.get("_alt_tur") == "nesne" and d.get("taninabilir_kisi"):
         nedenler.append("temsilî fotoğrafta tanınabilir kişi var")
+    if d.get("_hedef_tur") == "takim" and d.get("taninabilir_kisi"):
+        nedenler.append("takım arşiv karesinde tanınabilir oyuncular var (başka dönemin kadrosu/maçı bugünkü haber sanılır)")
     kurum_h = d.get("_alt_tur") == "kurum_haber"   # kurumun aynı habere ait kendi fotoğrafı: karedeki kişiler olayın kendisidir
     if str(d.get("_alt_tur", "")).startswith("kisi") and not d.get("tek_kisi_odakli"):
         nedenler.append("kişi tek başına ya da açıkça ön planda değil (karedeki başka kişiler/tören yanlış izlenim yaratabilir)")
@@ -1252,7 +1255,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         if not d:
             a.update(karar="red", gerekce="değerlendirme yanıtında yok", kontrol_tarih=tarih)
             continue
-        karar, nedenler = karar_ver(dict(d, _alt_tur=a.get("alt_tur", "")), konu)
+        karar, nedenler = karar_ver(dict(d, _alt_tur=a.get("alt_tur", ""), _hedef_tur=a.get("hedef_tur", "")), konu)
         gerekce = temiz(d.get("gerekce"), 200)
         if nedenler:
             gerekce = "; ".join(nedenler) + (f" — {gerekce}" if gerekce else "")
@@ -1367,7 +1370,8 @@ def konu_sorgulari(konu, alternatif=False):
     alt = (kg.get("sorgular_tr") or []) + [q for q in (konu.get("alternatif_sorgular_en") or []) if not TOPLANTI.search(q)]
     liste = alt if alternatif else ana[:2]
     if alternatif:
-        liste = ana[2:] + liste
+        oz = konu.get("ana_ozne") or {}
+        liste = ana[2:] + liste + [x for x in ((konu.get("ne") or {}).get("ad_en", ""), oz.get("ad_en", "")) if x and not TOPLANTI.search(x)]
     return [q for q in dict.fromkeys(liste) if ayirt_edici(q)]
 
 
@@ -1375,11 +1379,17 @@ ESANLAM = {"gasoline": {"gas", "petrol", "fuel"}, "petrol": {"gas", "gasoline", 
            "gas": {"autogas", "gasoline", "petrol", "fuel"}, "muaythai": {"muay"}, "lpg": {"autogas", "propane"}, "autogas": {"lpg"}}
 
 
+STOK_GENEL = set("fight fighting match game championship competition tournament pump station sign price photo picture image ring people "
+                 "men women man woman training facility field building street view close up closeup detail scene the of and in at with "
+                 "a an for on".split())
+
+
 def stok_metni_uygun(sorgu, metin):
     """Stok fotoğrafın kendi açıklamasında sorgunun bütün kelimeleri (eş anlamlılarıyla) geçmeli: "LPG gas pump" araması
     benzin pompası döndürdüğünde ("a gas pump next to a wall") LPG geçmediği için elenir; görsel model buna tek başına bırakılmaz."""
     mk = set(kelimeler(metin))
-    for w in kelimeler(sorgu):
+    ozgul = [w for w in kelimeler(sorgu) if w not in STOK_GENEL]
+    for w in ozgul or kelimeler(sorgu):
         adaylar = {w} | ESANLAM.get(w, set())
         if not any(_kelime_tutar(a, m) or _kelime_tutar(m, a) for a in adaylar for m in mk):
             return False
@@ -1676,8 +1686,22 @@ def gorsel_sec(bag, haber, konu, eski=None):
     gercek, n1 = gercek_adaylar(bag, konu, haber)
     kurum_h, n6 = kurum_haber_adaylari(bag, konu, haber)
     kisi, n3 = kisi_adaylari(bag, konu, haber)
-    kurum_wd, n4 = kurum_wikidata_adaylari(bag, konu)
-    arsiv, n2 = arsiv_adaylari(bag, konu)
+    # Kurum/tesis/takım fotoğrafı yalnızca haberin öznesi olan hedefler için aranır: başlıkta ya da spotta adı geçen, ana özne olan
+    # ya da olayın geçtiği yer olan. Metnin içinde ikincil olarak geçen bir liman/havalimanı (ör. turizm istatistiği haberinde)
+    # haberin konusunu anlatmaz.
+    bs = f"{haber.get('baslik', '')} {haber.get('spot', '')}"
+    oz_ad = (konu.get("ana_ozne") or {}).get("ad", "")
+    ner = (konu.get("nerede") or {}).get("ad", "")
+    secili, ikincil = [], []
+    for h in konu.get("hedefler") or []:
+        ana = (ad_eslesir(h["ad"], bs) or ad_eslesir(h.get("ad_en") or h["ad"], bs) or kucult(h["ad"]) == kucult(oz_ad)
+               or (ner and (ad_eslesir(h["ad"], ner) or ad_eslesir(ner, h["ad"]))))
+        (secili if ana else ikincil).append(h)
+    if ikincil:
+        rapor["notlar"].append("ikincil hedefler (başlık/spotta yok) aranmadı: " + ", ".join(h["ad"] for h in ikincil))
+    konu_h = dict(konu, hedefler=secili)
+    kurum_wd, n4 = kurum_wikidata_adaylari(bag, konu_h)
+    arsiv, n2 = arsiv_adaylari(bag, konu_h)
     yer, n5 = yer_adaylari(bag, konu, haber)
     yk, n8 = yer_konu_adaylari(bag, konu)
     nesne, n7 = nesne_adaylari(bag, konu, haber)
