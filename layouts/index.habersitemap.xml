@@ -1,0 +1,15 @@
+{{- /* Google Haberler site haritası: son 48 saatte yayımlanan haberler (Google en çok 1000 adres ve 2 gün ister). */ -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+{{- $sinir := now.AddDate 0 0 -2 }}
+{{- range first 1000 (sort (where (where site.RegularPages "Section" "haber") "Date" "ge" $sinir) "Date" "desc") }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <news:news>
+      <news:publication><news:name>{{ site.Title }}</news:name><news:language>tr</news:language></news:publication>
+      <news:publication_date>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</news:publication_date>
+      <news:title>{{ .Title }}</news:title>
+    </news:news>
+  </url>
+{{- end }}
+</urlset>

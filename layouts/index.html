@@ -11,10 +11,11 @@
 {{ $ikinci := slice }}{{ range $fotolu | append $hepsi }}{{ if and (lt (len $ikinci) 2) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 {{ $sira := slice }}{{ range $fotolu | append $hepsi }}{{ if and (lt (len $sira) 4) (not (in $kullanilan .link)) }}{{ $sira = $sira | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 
+<h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
 <section class="manset" aria-label="Manşet">
   {{ with $ana }}
   <article class="h-buyuk">
-    <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>
+    <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" (merge . (dict "buyuk" true)) }}<span class="g-etiket">{{ .kategori }}</span></a>
     <div class="h-buyuk-yazi"><span class="h-buyuk-kat">{{ .kategori }}</span><h2 class="b-xl"><a href="{{ .link }}">{{ .baslik }}</a></h2></div>
     {{ with .ozet }}<p class="spot">{{ . | plainify | truncate 200 }}</p>{{ end }}
     <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>

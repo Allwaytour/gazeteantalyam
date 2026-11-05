@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /onizleme/
+Disallow: /gorsel-deneme/
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+Sitemap: {{ "haber-sitemap.xml" | absURL }}
