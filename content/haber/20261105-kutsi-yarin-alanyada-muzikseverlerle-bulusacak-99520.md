@@ -19,28 +19,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 6750f69bf497
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:18:10+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T20:58:54+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Pasha Et & Balık Restaurant; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Presidential_Cycling_Tour_of_Turkey_2012_Alanya-Alanya_stage_2.JPG
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Presidential_Cycling_Tour_of_Turkey_2012_Alanya-Alanya_stage.JPG
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    kod: aday_bulunamadi
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (si'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -48,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanyada-kutsi-yarin-pashada-kulaklarin-pasini-silecek
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Alanya'da hizmet veren Pasha Et & Balık Restaurant, yarın akşam ünlü sanatçı Kutsi'yi ağırlamaya hazırlanıyor. Canlı müzik ve gastronomiyi buluşturan mekan, yoğun istek üzerine sanatçıyı yeniden konuk edecek.
 

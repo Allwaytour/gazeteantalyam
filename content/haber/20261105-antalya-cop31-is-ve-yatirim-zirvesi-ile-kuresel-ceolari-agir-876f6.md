@@ -26,13 +26,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:18:47+03:00'
+    tarih: '2026-11-05T20:59:30+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed ou"
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43"
-    notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (business summit, conference hall, businesspeople) ilişkili lisanslı fotoğraf bulunamad"
+    aciklama: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed ou"
+    notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %43); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (business conference"
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +42,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalyada-tarihi-cop31-zirvesi-55-ulkeden-binlerce-ceo-geliyor
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Türkiye Odalar ve Borsalar Birliği koordinasyonunda hayata geçirilecek COP31 İş ve Yatırım Zirvesi, 12 ile 13 Kasım 2026 tarihlerinde Antalya'da düzenlenecek. İklim hedeflerini somut yatırımlara dönüştürmeyi amaçlayan dev organizasyon, dünyanın dört bir yanından kamu ve özel sektör temsilcilerini aynı masada buluşturacak.
 

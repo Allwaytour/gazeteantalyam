@@ -24,21 +24,22 @@ gorsel_secim:
   konu_imza: 9373c0a2aa9e
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:14:57+03:00'
+    tarih: '2026-11-05T21:01:12+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
-  kurum: k4
+  kurum: k5
   kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mahmutlar Sosyal Tesisi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar, Alanya'' için konuyla (social facility, cafe, outdoor seating) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mahmutlar Sosyal Tesisi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar, Alanya'' için konuyla (social facility, cafe, outdoor seating) ilişkili lisanslı fotoğraf bulunamadı'
     elenenler:
     - sayfa: https://www.alanya.bel.tr/haberler/alanya-belediyesi-kasim-ayi-meclis-toplantisi-yapildi/126631
       katman: kurum_haber
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğraf bir belediye meclis topla
+      neden: 'görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Sosyal tesis haberi için belediye '
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

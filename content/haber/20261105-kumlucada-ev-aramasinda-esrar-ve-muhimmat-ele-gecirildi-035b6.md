@@ -26,13 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:29:29+03:00'
+    tarih: '2026-11-05T20:58:57+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''ev araması ve uyuşturucu operasyonu'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''ev araması ve uyuşturucu operasyonu'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

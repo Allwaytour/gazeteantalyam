@@ -18,20 +18,30 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: c3e649195e85
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T19:10:49+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T20:59:00+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
+  kurum: k5
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); Alanya Belediyesi sayfası aynı haber değil (benzerlik %56)
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'EDİRNE GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''22. TÜRSAK Çocuk Filmleri Festivali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz ('
-    notlar: 'EDİRNE GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''22. TÜRSAK Çocuk Filmleri Festivali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (children film festival, kids cinema workshop, puppet workshop children) ilişkili lisanslı fotoğraf bulunamadı; ''çocuk filmleri festivali'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: kids cinema event)'
+    kod: gorsel_reddedildi
+    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''22. TÜRSAK Çocuk Filmleri Festivali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (children cinema festival, kids workshop, film screening) ilişkili lisanslı fotoğraf bulunamadı; ''Çocuk Filmleri Festivali'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: çocuk film festivali, çocuk atölye çalışması)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Children_Untold_at_2026_Toronto_International_Film_Festival_Group_Shot.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Children_Untold_at_2026_Toronto_International_Film_Festival_Group_Pose.jpg
+      katman: nesne
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+  kapak_surum: c2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: gazetegundem.tr
 kaynak_url: https://www.gazetegundem.tr/haber/antalyada-cocuklar-icin-sinema-ve-sanat-dolu-bir-festival-gerceklesti-55675
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Türkiye Sinema ve Audiovisüel Kültür Vakfı bünyesinde uzun yıllardır sürdürülen 22. TÜRSAK Çocuk Filmleri Festivali, Antalya'da sinemasever çocuklarla buluştu. Şehirde 31 Ekim ile 4 Kasım tarihleri arasında gerçekleştirilen organizasyon, beş gün boyunca geniş kapsamlı film gösterimleri ve interaktif atölye çalışmalarına ev sahipliği yaptı.
 

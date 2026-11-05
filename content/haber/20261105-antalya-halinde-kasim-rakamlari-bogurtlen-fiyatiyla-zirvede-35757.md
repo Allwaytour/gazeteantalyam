@@ -28,12 +28,12 @@ gorsel_secim:
     sonuc: onaylandı
     tarih: '2026-11-05T20:14:38+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Fresh fruits such as blackberries, raspberries, blueberries, strawberries, yellow Napoleone cherries, red sweet cherries and dried dates. Seen at the Atwater Ma
-  kurum: k4
-  kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
