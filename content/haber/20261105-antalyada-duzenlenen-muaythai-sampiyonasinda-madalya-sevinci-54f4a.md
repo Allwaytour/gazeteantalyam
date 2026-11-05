@@ -2,35 +2,36 @@
 title: Antalya'da düzenlenen muaythai şampiyonasında madalya sevinci
 date: '2026-11-05T10:09:08+03:00'
 ozet: Bilecikli muaythai sporcuları, Antalya'daki 29 Ekim Cumhuriyet Kupası'ndan 1 altın ve 2 gümüş madalya ile döndü.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Fotoğraf: Eric Langley / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: stok
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Womens_Muay_Thai_teep.jpg
+  fotografci: Eric Langley
+  kredi: Eric Langley / Wikimedia Commons (CC BY 2.0)
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: muaythai şampiyonası madalya sevinci
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 'Commons dosya kaydında ''muay thai match'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Muaythai müsabakasını gösteren uygun bir temsilî arşiv fotoğrafıdır.'
+  surum: g9-2026-11-05
   konu_imza: 848237ab2e8b
-  gorsel_url: /images/kategori/spor.png
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T10:13:34+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-05T16:37:19+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
   kurum: k4
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya'' için konuyla (muaythai match, ring, medals) ilişkili lisanslı fotoğraf bulunamadı'
+  kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,6 +39,38 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/spor/haber-bilecikli-muaythai-sporculari-antalya-da-1-altin-v-20397206/
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
+gorsel_gecmis:
+- gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+    surum: g8.1-2026-11-02
+    konu_imza: 848237ab2e8b
+    gorsel_url: /images/kategori/spor.png
+    kontrol:
+      yapildi: false
+      sonuc: aday yok
+      tarih: '2026-11-05T10:13:34+03:00'
+      yontem: kaynak/arşiv taraması
+    kurum: k4
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya'' için konuyla (muaythai match, ring, medals) ilişkili lisanslı fotoğraf bulunamadı'
+  degisim: '2026-11-05T16:37:19+03:00'
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilen 29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası, kıyasıya mücadelelere sahne oldu. Şampiyonada farklı yaş ve kilo gruplarında ter döken Bilecikli sporcular, başarılı sonuçlar elde ederek kürsüye çıkmayı başardı.
 

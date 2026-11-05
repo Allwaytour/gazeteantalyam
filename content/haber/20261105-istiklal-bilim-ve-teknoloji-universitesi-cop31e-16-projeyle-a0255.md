@@ -18,19 +18,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: 10 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9-2026-11-05
   konu_imza: e11d50673d18
   gorsel_url: /images/kategori/egitim.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T12:28:29+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T16:34:00+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
   kurum: k4
+  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Süleyman Kerli'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    kod: gorsel_reddedildi
+    aciklama: '10 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin gerektirdiği unsur görünmüyor (bilimsel proje posteri, üniversite standı) — Labora; temsilî fotoğrafta tanın'
+    notlar: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Süleyman Kerli'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (scientific exhibition, climate conference) ilişkili lisanslı fotoğraf bulunamadı; ilk adaylar elendi; 2. turda 5 aday daha denendi'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/teknoloji/haber-istiklal-bilim-ve-teknoloji-universitesi-16-projes-20397844/
+gorsel_onceki:
+  gorsel: /images/kategori/egitim.png
+  gorsel_kredi: ''
 ---
 İstiklal Bilim ve Teknoloji Üniversitesinin hazırladığı 16 bilimsel proje, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı'nda tanıtılacak. Enerji teknolojileri, sürdürülebilir tarım, atık yönetimi ve iklim dostu binalar gibi çeşitli alanları kapsayan çalışmalar, Yükseköğretim Kurulu Pavilyonu'nda uluslararası katılımcıların izlenimine sunulacak.
 
