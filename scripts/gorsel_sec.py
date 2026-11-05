@@ -176,6 +176,9 @@ class Baglam:
         self.notlar = []
         self.son_model = ""
         self.yedek_model_fn = None          # 503'te bir kez denenecek ikinci model (haber_cek verir)
+        self.model_bitti_fn = None          # günlük kotası dolan modelden sonraki modele geçiş (haber_cek verir)
+        self.kalan_modeller_fn = None       # bugün kotası dolmamış modeller
+        self.biten_modeller = set()         # bugün kotası dolan modeller (haber_cek ile ortak küme)
         self.yeni_secim()
 
     def yeni_secim(self):
@@ -238,6 +241,11 @@ class Baglam:
                 raise ServisHatasi(f"bağlantı: {e}")
             if r.status_code == 429:
                 if GUNLUK_KOTA_RE.search(r.text or ""):
+                    # Ücretsiz kota her model için ayrıdır: kotası dolan model bırakılır, kotası olan bir sonraki modelle denenir.
+                    yeni = self.model_bitti_fn(model) if self.model_bitti_fn else ""
+                    if yeni and yeni != model:
+                        print(f"   {model} günlük kotası doldu; {yeni} ile devam ediliyor")
+                        return self.gemini(parcalar, en_fazla, sicaklik, model=yeni)
                     self.g["kota_bitti"] = gemini_gunu()
                     raise KotaHatasi("Gemini günlük kotası doldu (429); kota yenilenince yeniden denenecek")
                 if deneme == 0:
@@ -2231,6 +2239,15 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
         if time.time() - baslangic > sure:
             print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
             break
+        if not yalniz_bekleyen and bag.kalan_modeller_fn and ad not in yeniden:
+            # Eski haberlerin düzeltilmesi, kotası dolmamış SON modeli tüketmez: o model gün sonuna kadar yeni haberlere kalır.
+            try:
+                kalan_m = bag.kalan_modeller_fn()
+            except Exception:
+                kalan_m = ["?", "?"]
+            if len(kalan_m) <= 1 and getattr(bag, "biten_modeller", None):
+                print("Toplu düzeltme durdu: kotası kalan son yapay zekâ modeli yeni haberlere ayrıldı.")
+                break
         if not yalniz_bekleyen and sinir and sayac.get(KURAL_SURUMU, 0) >= sinir and ad not in yeniden:
             if not yeniden or ad not in oncelikli:
                 print(f"Toplu düzeltme bu sürümde {sinir} haber sınırına ulaştı; inceleme sonrası sınır artırılmalı.")
