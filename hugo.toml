@@ -13,6 +13,10 @@ summaryLength = 30
 [taxonomies]
   kategori = "kategoriler"
   ilce = "ilceler"
+  etiket = "etiketler"
+
+[sitemap]
+  changefreq = "hourly"
 
 [permalinks]
   haber = "/haber/:filename/"
@@ -26,7 +30,14 @@ summaryLength = 30
   boylam = 30.7133
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "HABERSITEMAP"]
+
+# Google Haberler site haritası (/haber-sitemap.xml)
+[outputFormats.HABERSITEMAP]
+  mediaType = "application/xml"
+  baseName = "haber-sitemap"
+  isPlainText = true
+  notAlternative = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -43,3 +54,21 @@ summaryLength = 30
   [[module.mounts]]
     source = "static/images"
     target = "assets/img"
+
+# İlgili haberler: aynı kişi/kurum etiketi en ağır, sonra kategori ve ilçe; yakın tarihliler önce
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = true
+  [[related.indices]]
+    name = "etiketler"
+    weight = 100
+  [[related.indices]]
+    name = "kategoriler"
+    weight = 20
+  [[related.indices]]
+    name = "ilceler"
+    weight = 20
+  [[related.indices]]
+    name = "date"
+    weight = 10
