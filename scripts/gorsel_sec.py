@@ -601,6 +601,8 @@ def guncel_mekan(iddialar):
 MAC_IPUCU = re.compile(r"(?i)\b(vs\.?|v\.|match|maçı?|derbi|derby|ceremony|seremoni)\b|\w+spor\s*[-–]\s*\w+|\w+\s*[-–]\s*\w+spor|\d+\s*[-–]\s*\d+")
 
 
+OYUNCU_IPUCU = re.compile(r"(?i)\b(players?|defenders?|forwards?|goalkeepers?|squad|line-?up|team photo|futbolcu\w*|oyuncu\w*|kadro\w*|"
+                          r"kaleci\w*|fans?|supporters?|taraftar\w*|celebrat\w*|training session)\b")
 TAKIM_TURLERI = {"Q476028", "Q847017", "Q12973014", "Q1194951", "Q20639856"}   # futbol kulübü, spor kulübü, spor takımı, ulusal futbol takımı, kadın futbol takımı
 
 
@@ -927,9 +929,12 @@ def kurum_wikidata_adaylari(bag, konu):
             if not d or d["url"] in gorulen_url:
                 continue
             gorulen_url.add(d["url"])
-            if h.get("tur") == "takim" and not ana_takim and re.search(r"(?i)stad|stadium|\bpark\b|arena", commons_metni(d)) \
-                    and not (nerede and ad_eslesir(nerede, commons_metni(d))):
-                continue      # rakip takımın stadı, maç orada oynanmıyorsa kullanılmaz (kategori/arşiv yolundan da)
+            rakip = h.get("tur") == "takim" and not ana_takim and (oz.get("tur") == "takim"
+                                                                   or re.search(r"(?i)stad|stadium|\bpark\b|arena", commons_metni(d)))
+            if rakip and not (nerede and ad_eslesir(nerede, commons_metni(d))):
+                continue      # haberin ana takımı başka bir takımsa rakibin kareleri/stadı kullanılmaz (maç orada oynanmıyorsa)
+            if h.get("tur") == "takim" and OYUNCU_IPUCU.search(d["baslik"].replace("File:", "") + " " + d["aciklama"][:160]):
+                continue      # oyuncu/kadro/maç karesi: başka dönemin kadrosu bugünkü haber sanılır
             ok, _ = commons_uygun(d)
             if not ok or bag.yasakli_mi(d["url"]):
                 continue
