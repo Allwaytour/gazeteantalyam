@@ -43,7 +43,7 @@ try:
 except Exception:          # tarayıcı/Pillow yoksa kurum fotoğrafı katmanı devre dışı kalır
     kf = None
 
-SURUM = "g9.3"
+SURUM = "g9.4"
 BASLANGIC = time.time()
 KURAL_TARIHI = "2026-11-05"
 KURAL_SURUMU = f"{SURUM}-{KURAL_TARIHI}"   # kurallar değişince artırılır → eski kararlar önbellekten silinir
@@ -755,6 +755,10 @@ def kisi_adaylari(bag, konu, haber):
     oz = konu.get("ana_ozne") or {}
     for sira, kisi in enumerate(konu.get("ana_kisiler") or []):
         adi_basta = bool(set(kelimeler(kisi["ad"])) & baslik_k)
+        ana_kisi = oz.get("tur") == "kisi" and bool(set(kelimeler(oz.get("ad", ""))) & set(kelimeler(kisi["ad"])))
+        if not adi_basta and not ana_kisi:
+            notlar.append(f"'{kisi['ad']}' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı")
+            continue
         if sira > 0 and not adi_basta:
             # İkinci kişi başlıkta yoksa haberin öznesi değildir; onun fotoğrafı haberi başka biri hakkındaymış gibi gösterir.
             notlar.append(f"'{kisi['ad']}' haberin asıl öznesi değil (başlıkta geçmiyor); fotoğrafı kullanılmadı")
@@ -1419,6 +1423,9 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
         return adaylar, notlar
     oz = konu.get("ana_ozne") or {}
     konu_ad = (konu.get("ne") or {}).get("ad") or oz.get("ad") or sorgular[0]
+    # Çekirdek terim: konunun ilk (en somut) sorgusundaki özgül kelimeler (ör. "LPG", "muay thai"). Alternatif sorgular genelleşse de
+    # ("fuel station") her aday kendi kaydında bu terimi taşımalı; yoksa LPG haberine benzin pompası gelir.
+    cekirdek = " ".join(w for w in kelimeler((kg.get("sorgular_en") or sorgular)[0]) if w not in STOK_GENEL)
     gorulen = set(gorulen)
     commons = kaynak_izni(bag.izinler, "https://commons.wikimedia.org/")
     us = kaynak_izni(bag.izinler, "https://unsplash.com/")
@@ -1434,6 +1441,8 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
                     metin = commons_metni(d)
                     # önce ilgi (sorgunun ayırt edici kelimeleri dosyanın kendi kaydında geçmeli), sonra lisans
                     if bag.yasakli_mi(d["url"]) or d["url"] in gorulen or not ad_eslesir(sorgu, metin) or yasak_metin(konu, metin):
+                        continue
+                    if cekirdek and not stok_metni_uygun(cekirdek, metin):
                         continue
                     if manzara and not (ad_eslesir(yer["ad"], metin) or ad_eslesir(yer.get("ad_en") or yer["ad"], metin)):
                         continue          # otel/sahil gibi yer fotoğrafı: haberdeki yerin adı dosya kaydında doğrulanmalı
@@ -1458,7 +1467,7 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
                 alinan = 0
                 for f in unsplash_ara(bag, sorgu):
                     if bag.yasakli_mi(f["url"]) or f["url"] in gorulen or yasak_metin(konu, f["aciklama"]) \
-                            or not stok_metni_uygun(sorgu, f["aciklama"]):
+                            or not stok_metni_uygun(sorgu, f["aciklama"]) or (cekirdek and not stok_metni_uygun(cekirdek, f["aciklama"])):
                         continue
                     gorulen.add(f["url"])
                     adaylar.append({"tur": "stok", "alt_tur": "nesne", "kaynak": "Unsplash", "url": f["url"], "kucuk": f["kucuk"],
@@ -1571,7 +1580,9 @@ def kapak_nedeni(adaylar, notlar, kontrol_hatasi="", konu=None, kalan=0, butce=F
         return {"kod": "butce_doldu", "aciklama": f"{len(red)} aday elendi; {kalan} aday bu turun bütçesi nedeniyle kontrol edilmedi "
                                                   "(sonraki turda denenecek)", "notlar": ozet}
     if red:
-        return {"kod": "gorsel_reddedildi", "aciklama": f"{len(red)} aday görüntü kontrolünde elendi: {nedenler}", "notlar": ozet}
+        return {"kod": "gorsel_reddedildi", "aciklama": f"{len(red)} aday görüntü kontrolünde elendi: {nedenler}", "notlar": ozet,
+                "elenenler": [{"sayfa": a.get("sayfa") or a.get("url", ""), "katman": a.get("alt_tur", ""), "neden": (a.get("gerekce") or "")[:160]}
+                              for a in red[:6]]}
     if arama_hatasi or "yapılamadı" in metin or "okunamadı" in metin or "aranamadı" in metin:
         return {"kod": "arama_hatasi", "aciklama": next((n for n in notlar if "yapılamadı" in n or "okunamadı" in n or "aranamadı" in n),
                                                          "arama servisi yanıt vermedi")[:200], "notlar": ozet}
