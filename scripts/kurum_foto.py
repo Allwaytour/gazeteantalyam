@@ -23,7 +23,7 @@ import requests
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KAYIT_KLASOR = os.path.join(KOK, "static", "images", "kurum")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-KURUM_SURUM = "k4"
+KURUM_SURUM = "k5"
 
 # İzin verilen resmî alan adları (izin kaydıyla birlikte kullanılır)
 KURUM_ALAN = re.compile(r"(?i)(^|\.)([a-z0-9\-]+\.bel\.tr|[a-z0-9\-]+-bld\.gov\.tr|[a-z0-9\-]+\.gov\.tr|akdeniz\.edu\.tr|alanya\.edu\.tr)$")
@@ -115,8 +115,15 @@ def arama_ifadeleri(haber, konu):
     return [i for i in dict.fromkeys(x.strip() for x in ifadeler) if len(i.split()) >= 2]
 
 
-def google_ara(ifade, gun=7):
-    q = f"{ifade} (site:bel.tr OR site:gov.tr OR site:edu.tr) when:{gun}d"
+# Antalya'nın kendi kurumları: ulusal sonuçlar (başka illerin belediyeleri, bakanlıklar) yerel kurumun haberini
+# arama sonuçlarının dışına itmesin diye önce yalnızca bu alanlarda aranır.
+YEREL_SITELER = ("antalya.bel.tr", "antalya.gov.tr", "muratpasa-bld.gov.tr", "konyaalti.bel.tr", "kepez-bld.gov.tr", "alanya.bel.tr",
+                 "manavgat.bel.tr", "akdeniz.edu.tr", "alanya.edu.tr", "antalyaism.saglik.gov.tr")
+
+
+def google_ara(ifade, gun=7, yerel=False):
+    siteler = " OR ".join(f"site:{s}" for s in YEREL_SITELER) if yerel else "site:bel.tr OR site:gov.tr OR site:edu.tr"
+    q = f"{ifade} ({siteler}) when:{gun}d"
     r = requests.get("https://news.google.com/rss/search?q=" + quote(q) + "&hl=tr&gl=TR&ceid=TR:tr",
                      headers={"User-Agent": UA}, timeout=20)
     r.raise_for_status()
@@ -259,7 +266,7 @@ def kaydet(gorsel_url, sayfa_url):
     return "/images/kurum/" + ad, veri
 
 
-def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
+def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=4):
     """Aynı haberin resmî kurum sayfasındaki fotoğrafı. Dönüş: (aday listesi, notlar)."""
     notlar = []
     ifadeler = arama_ifadeleri(haber, konu)
@@ -270,16 +277,24 @@ def kurum_adaylari(haber, konu, onbellek, en_fazla_sayfa=3):
         return [a for a in onbellek[anahtar] if os.path.exists(os.path.join(KOK, "static", a["url"].lstrip("/")))], ["kurum fotoğrafı önbellekten"]
     yas = (datetime.now().date() - haber["tarih"]).days if haber.get("tarih") else 0
     sonuclar, gorulen = [], set()
-    for ifade in ifadeler[:3]:
-        try:
-            for x in google_ara(ifade, gun=min(40, max(7, yas + 4))):
-                if x["link"] not in gorulen:
-                    gorulen.add(x["link"])
-                    sonuclar.append(x)
-        except Exception as e:
-            notlar.append(f"kurum fotoğrafı araması yapılamadı: {str(e)[:80]}")
-        if len(sonuclar) >= 3:
+    for yerel in (True, False):            # önce Antalya'nın kendi kurumları, sonra genel resmî alanlar
+        for ifade in ifadeler[:3]:
+            try:
+                for x in google_ara(ifade, gun=min(40, max(7, yas + 4)), yerel=yerel):
+                    host = (urlparse(x["alan"]).hostname or "").lower()
+                    # başka illerin belediyeleri hiç açılmaz (sayfa okuma hakkını harcamasın)
+                    if (host.endswith(".bel.tr") or "-bld." in host) and not yerel_mi(x["alan"]):
+                        continue
+                    if x["link"] not in gorulen:
+                        gorulen.add(x["link"])
+                        sonuclar.append(x)
+            except Exception as e:
+                notlar.append(f"kurum fotoğrafı araması yapılamadı: {str(e)[:80]}")
+            if len(sonuclar) >= 6:
+                break
+        if sonuclar:
             break
+    sonuclar.sort(key=lambda x: not yerel_mi(x["alan"]))
     hedef_tarih = haber.get("tarih")
     bizim = " ".join([haber.get("baslik", ""), haber.get("spot", "")])
     adaylar, bakilan = [], 0
