@@ -15003,10 +15003,10 @@
    "ts": 1793907122
   }
  ],
- "son_calisma": "2026-11-05T22:33:16.178797+03:00",
+ "son_calisma": "2026-11-05T22:43:44.059184+03:00",
  "gorsel": {
   "gun": "2026-11-05",
-  "yz_bugun": 288,
+  "yz_bugun": 289,
   "onbellek": {
    "konu:089f6e7db096": {
     "konu": {
@@ -23294,43 +23294,43 @@
     "s": "g9.4-2026-11-05"
    },
    "1e7c9f2dd308": {
-    "karar": "red",
-    "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-    "t": "2026-11-05T22:26:07+03:00",
+    "karar": "kabul",
+    "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, nötr bir satranç tahtası fotoğrafıdır.",
+    "t": "2026-11-05T22:39:43+03:00",
     "benzerlik": 5,
     "tek": false,
     "iliski": 8,
-    "yeniden_bakildi": false,
+    "yeniden_bakildi": true,
     "s": "g9.4-2026-11-05"
    },
    "9e4322603749": {
-    "karar": "red",
-    "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-    "t": "2026-11-05T22:26:07+03:00",
+    "karar": "kabul",
+    "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, oyun halindeki bir satranç tahtası fotoğrafıdır.",
+    "t": "2026-11-05T22:39:43+03:00",
     "benzerlik": 5,
     "tek": false,
     "iliski": 8,
-    "yeniden_bakildi": false,
+    "yeniden_bakildi": true,
     "s": "g9.4-2026-11-05"
    },
    "4f34f4d94de0": {
-    "karar": "red",
-    "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-    "t": "2026-11-05T22:26:07+03:00",
+    "karar": "kabul",
+    "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, sanatsal bir satranç taşı fotoğrafıdır.",
+    "t": "2026-11-05T22:39:43+03:00",
     "benzerlik": 4,
     "tek": false,
     "iliski": 7,
-    "yeniden_bakildi": false,
+    "yeniden_bakildi": true,
     "s": "g9.4-2026-11-05"
    },
    "0470b68278af": {
-    "karar": "red",
-    "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-    "t": "2026-11-05T22:26:07+03:00",
+    "karar": "kabul",
+    "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, oyun sonunu simgeleyen bir satranç fotoğrafıdır.",
+    "t": "2026-11-05T22:39:43+03:00",
     "benzerlik": 4,
     "tek": false,
     "iliski": 7,
-    "yeniden_bakildi": false,
+    "yeniden_bakildi": true,
     "s": "g9.4-2026-11-05"
    },
    "39ac060dee78": {
@@ -23405,7 +23405,7 @@
    }
   },
   "deneme": {
-   "tarih": "2026-11-05T22:26:26+03:00",
+   "tarih": "2026-11-05T22:39:43+03:00",
    "surum": "g9.4-2026-11-05",
    "model": "gemini-3.1-flash-lite",
    "dosyalar": [
@@ -23526,7 +23526,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-05T22:20:41+03:00",
+       "tarih": "2026-11-05T22:34:02+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g9.4-2026-11-05",
@@ -23723,7 +23723,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-05T22:20:42+03:00",
+       "tarih": "2026-11-05T22:34:03+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.1-flash-lite"
       },
@@ -23960,7 +23960,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-05T22:20:44+03:00",
+       "tarih": "2026-11-05T22:34:04+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g9.4-2026-11-05",
@@ -24123,15 +24123,15 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-05T22:22:44+03:00",
+       "tarih": "2026-11-05T22:35:58+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g9.4-2026-11-05",
       "konu_imza": "4cc41389ca42",
       "kapak_nedeni": {
        "kod": "aday_bulunamadi",
-       "aciklama": "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connectio",
-       "notlar": "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)"
+       "aciklama": "kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanı",
+       "notlar": "kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)"
       }
      },
      "eski_degerlendirme": {
@@ -24141,10 +24141,10 @@
      },
      "adaylar": [],
      "notlar": [
-      "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an",
+      "kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ",
       "Antalya Valiliği sayfası aynı haber değil (benzerlik %25)",
-      "kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
-      "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an",
+      "Antalya Valiliği sayfası aynı haber değil (benzerlik %18)",
+      "kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ",
       "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok",
       "'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı",
       "'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)"
@@ -24488,7 +24488,7 @@
       "kontrol": {
        "yapildi": true,
        "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-05T22:24:30+03:00",
+       "tarih": "2026-11-05T22:37:21+03:00",
        "yontem": "Gemini görsel kontrol",
        "model": "gemini-3.1-flash-lite"
       },
@@ -24727,7 +24727,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-05T22:24:38+03:00",
+       "tarih": "2026-11-05T22:37:28+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g9.4-2026-11-05",
@@ -25035,7 +25035,7 @@
       "kontrol": {
        "yapildi": false,
        "sonuc": "aday yok",
-       "tarih": "2026-11-05T22:24:39+03:00",
+       "tarih": "2026-11-05T22:37:29+03:00",
        "yontem": "kaynak/arşiv taraması"
       },
       "surum": "g9.4-2026-11-05",
@@ -25173,62 +25173,33 @@
       ]
      },
      "yeni": {
-      "tur": "kategori",
-      "gorsel": "/images/kategori/egitim.png",
-      "gorsel_kredi": "",
-      "kaynak_sayfa": "",
-      "fotografci": "",
-      "kredi": "Gazete Antalya",
-      "lisans": "Gazete Antalya'nın kendi tasarımı",
-      "lisans_dayanagi": "Sitenin kendi grafik dosyası",
-      "kosul": "",
-      "gerekce": "8 aday görsel kontrolden geçemedi; fotoğrafsız kapak.",
+      "tur": "stok",
+      "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "gorsel_kredi": "Fotoğraf: Wilfredor / Wikimedia Commons (CC0)",
+      "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
+      "fotografci": "Wilfredor",
+      "kredi": "Wilfredor / Wikimedia Commons (CC0)",
+      "lisans": "CC0",
+      "lisans_dayanagi": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "kosul": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+      "gosterilen": "satranç başarısı ve tebrik ziyareti",
+      "cekim_yili": "",
+      "gerekce": "Commons dosya kaydında 'chess game' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Satranç başarısı haberinde temsilî görsel olarak uygun, nötr bir satranç tahtası fotoğrafıdır.",
       "kontrol": {
        "yapildi": true,
-       "sonuc": "adaylar reddedildi",
-       "tarih": "2026-11-05T22:24:39+03:00",
-       "yontem": "Gemini görsel kontrol",
+       "sonuc": "onaylandı",
+       "tarih": "2026-11-05T22:39:43+03:00",
+       "yontem": "kaynak/açıklama doğrulaması + Gemini görsel kontrol",
        "model": "gemini-3.1-flash-lite"
       },
       "surum": "g9.4-2026-11-05",
       "konu_imza": "997ce3cab596",
-      "kapak_nedeni": {
-       "kod": "gorsel_reddedildi",
-       "aciklama": "8 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satran; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur",
-       "notlar": "Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %27); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Elif Cemre Uysal' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); 'Yusuf Yılmaz' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); 'Alanya İlçe Millî Eğitim Müdürlüğü' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; 'Alanya' için konuyla (chess, chess board) ilişkili lisanslı fotoğraf bulunamadı; 'satranç başarısı ve tebrik ziyareti' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: satranç oyun",
-       "elenenler": [
-        {
-         "sayfa": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
-         "katman": "nesne",
-         "neden": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko"
-        },
-        {
-         "sayfa": "https://commons.wikimedia.org/wiki/File:Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg",
-         "katman": "nesne",
-         "neden": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko"
-        },
-        {
-         "sayfa": "https://unsplash.com/photos/black-and-white-chess-knights-7SjEuEF06Zw",
-         "katman": "nesne",
-         "neden": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko"
-        },
-        {
-         "sayfa": "https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE",
-         "katman": "nesne",
-         "neden": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç ko"
-        },
-        {
-         "sayfa": "https://commons.wikimedia.org/wiki/File:Kim_Steven_Yap_Dubai_Open_Chess_Tournament_2013.jpg",
-         "katman": "nesne",
-         "neden": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili"
-        },
-        {
-         "sayfa": "https://commons.wikimedia.org/wiki/File:Chess_Tournament_at_Schriever_SFB_(8337425).jpg",
-         "katman": "nesne",
-         "neden": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili"
-        }
-       ]
-      }
+      "aciklama": "Temsilî fotoğraf",
+      "izin_kontrolu": {},
+      "alt_tur": "nesne",
+      "qid": "",
+      "kaynak_aciklama": "Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with tr",
+      "konum": ""
      },
      "eski_degerlendirme": {
       "karar": "red",
@@ -25236,82 +25207,6 @@
       "bulgular": null
      },
      "adaylar": [
-      {
-       "tur": "stok",
-       "alt_tur": "nesne",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
-       "fotografci": "Wilfredor",
-       "lisans": "CC0",
-       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
-       "cekim": "2024-04-26",
-       "karar": "red",
-       "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-       "dogrulama": "Commons dosya kaydında 'chess game' geçiyor; lisans dosya sayfasından okundu",
-       "benzerlik": 5,
-       "tek": false,
-       "iliski": 8,
-       "meta_puan": 30,
-       "onayli": null
-      },
-      {
-       "tur": "stok",
-       "alt_tur": "nesne",
-       "kaynak": "Wikimedia Commons",
-       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg/1280px-Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-       "sayfa": "https://commons.wikimedia.org/wiki/File:Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg",
-       "fotografci": "Wilfredor",
-       "lisans": "CC0",
-       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
-       "cekim": "2024-04-26",
-       "karar": "red",
-       "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-       "dogrulama": "Commons dosya kaydında 'chess game' geçiyor; lisans dosya sayfasından okundu",
-       "benzerlik": 5,
-       "tek": false,
-       "iliski": 8,
-       "meta_puan": 30,
-       "onayli": null
-      },
-      {
-       "tur": "stok",
-       "alt_tur": "nesne",
-       "kaynak": "Unsplash",
-       "url": "https://images.unsplash.com/photo-1586165368502-1bad197a6461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2hlc3MlMjBnYW1lfGVufDF8MHx8fDE3OTM5MDY3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-       "sayfa": "https://unsplash.com/photos/black-and-white-chess-knights-7SjEuEF06Zw",
-       "fotografci": "Hassan Pasha",
-       "lisans": "Unsplash Lisansı",
-       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
-       "cekim": "",
-       "karar": "red",
-       "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-       "dogrulama": "Unsplash araması 'chess game'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
-       "benzerlik": 4,
-       "tek": false,
-       "iliski": 7,
-       "meta_puan": 10,
-       "onayli": null
-      },
-      {
-       "tur": "stok",
-       "alt_tur": "nesne",
-       "kaynak": "Unsplash",
-       "url": "https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2hlc3MlMjBnYW1lfGVufDF8MHx8fDE3OTM5MDY3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-       "sayfa": "https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE",
-       "fotografci": "GR Stocks",
-       "lisans": "Unsplash Lisansı",
-       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
-       "cekim": "",
-       "karar": "red",
-       "gerekce": "haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görseli. Haberle doğrudan ilgili kişileri içermiyor ancak satranç konusunu temsil ediyor.",
-       "dogrulama": "Unsplash araması 'chess game'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
-       "benzerlik": 4,
-       "tek": false,
-       "iliski": 7,
-       "meta_puan": 10,
-       "onayli": null
-      },
       {
        "tur": "stok",
        "alt_tur": "nesne",
@@ -25325,8 +25220,8 @@
        "karar": "red",
        "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal); temsilî fotoğrafta tanınabilir kişi var; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Yabancı bir turnuvadan fotoğraf. Haberdeki kişilerle ilgisi yok, yanıltıcı izlenim yaratabilir.",
        "dogrulama": "Commons dosya kaydında 'chess tournament' geçiyor; lisans dosya sayfasından okundu",
-       "benzerlik": 2,
-       "tek": false,
+       "benzerlik": null,
+       "tek": null,
        "iliski": 2,
        "meta_puan": 25,
        "onayli": null
@@ -25344,8 +25239,8 @@
        "karar": "red",
        "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal); temsilî fotoğrafta tanınabilir kişi var; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Yabancı askeri üniforma ve ortam, yerel bir makam ziyaretini yansıtmaz, yanıltıcı izlenim oluşturur.",
        "dogrulama": "Commons dosya kaydında 'chess tournament' geçiyor; lisans dosya sayfasından okundu",
-       "benzerlik": 2,
-       "tek": false,
+       "benzerlik": null,
+       "tek": null,
        "iliski": 3,
        "meta_puan": 30,
        "onayli": null
@@ -25363,8 +25258,8 @@
        "karar": "red",
        "gerekce": "haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görselidir. Kişi veya kurum içermediği için yanıltıcı değildir, konuyla doğrudan ilişkilidir.",
        "dogrulama": "Unsplash araması 'chess tournament'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
-       "benzerlik": 0,
-       "tek": false,
+       "benzerlik": null,
+       "tek": null,
        "iliski": 5,
        "meta_puan": 10,
        "onayli": null
@@ -25382,9 +25277,85 @@
        "karar": "red",
        "gerekce": "haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (satranç tahtası, Elif Cemre Uysal) — Temsili satranç görselidir. Kişi veya kurum içermediği için yanıltıcı değildir, konuyla doğrudan ilişkilidir.",
        "dogrulama": "Unsplash araması 'chess tournament'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
-       "benzerlik": 0,
-       "tek": false,
+       "benzerlik": null,
+       "tek": null,
        "iliski": 5,
+       "meta_puan": 10,
+       "onayli": null
+      },
+      {
+       "tur": "stok",
+       "alt_tur": "nesne",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg",
+       "fotografci": "Wilfredor",
+       "lisans": "CC0",
+       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
+       "cekim": "2024-04-26",
+       "karar": "kabul",
+       "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, nötr bir satranç tahtası fotoğrafıdır.",
+       "dogrulama": "Commons dosya kaydında 'chess game' geçiyor; lisans dosya sayfasından okundu",
+       "benzerlik": 5,
+       "tek": false,
+       "iliski": 8,
+       "meta_puan": 30,
+       "onayli": null
+      },
+      {
+       "tur": "stok",
+       "alt_tur": "nesne",
+       "kaynak": "Wikimedia Commons",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg/1280px-Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+       "sayfa": "https://commons.wikimedia.org/wiki/File:Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg",
+       "fotografci": "Wilfredor",
+       "lisans": "CC0",
+       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
+       "cekim": "2024-04-26",
+       "karar": "kabul",
+       "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, oyun halindeki bir satranç tahtası fotoğrafıdır.",
+       "dogrulama": "Commons dosya kaydında 'chess game' geçiyor; lisans dosya sayfasından okundu",
+       "benzerlik": 5,
+       "tek": false,
+       "iliski": 8,
+       "meta_puan": 30,
+       "onayli": null
+      },
+      {
+       "tur": "stok",
+       "alt_tur": "nesne",
+       "kaynak": "Unsplash",
+       "url": "https://images.unsplash.com/photo-1586165368502-1bad197a6461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2hlc3MlMjBnYW1lfGVufDF8MHx8fDE3OTM5MDY3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+       "sayfa": "https://unsplash.com/photos/black-and-white-chess-knights-7SjEuEF06Zw",
+       "fotografci": "Hassan Pasha",
+       "lisans": "Unsplash Lisansı",
+       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
+       "cekim": "",
+       "karar": "kabul",
+       "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, sanatsal bir satranç taşı fotoğrafıdır.",
+       "dogrulama": "Unsplash araması 'chess game'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
+       "benzerlik": 4,
+       "tek": false,
+       "iliski": 7,
+       "meta_puan": 10,
+       "onayli": null
+      },
+      {
+       "tur": "stok",
+       "alt_tur": "nesne",
+       "kaynak": "Unsplash",
+       "url": "https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2hlc3MlMjBnYW1lfGVufDF8MHx8fDE3OTM5MDY3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+       "sayfa": "https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE",
+       "fotografci": "GR Stocks",
+       "lisans": "Unsplash Lisansı",
+       "hedef": "satranç başarısı ve tebrik ziyareti (temsilî fotoğraf, olayın kendisi değil)",
+       "cekim": "",
+       "karar": "kabul",
+       "gerekce": "Satranç başarısı haberinde temsilî görsel olarak uygun, oyun sonunu simgeleyen bir satranç fotoğrafıdır.",
+       "dogrulama": "Unsplash araması 'chess game'; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası)",
+       "benzerlik": 4,
+       "tek": false,
+       "iliski": 7,
        "meta_puan": 10,
        "onayli": null
       }
@@ -25398,9 +25369,7 @@
       "'Elif Cemre Uysal' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)",
       "'Yusuf Yılmaz' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)",
       "'Alanya İlçe Millî Eğitim Müdürlüğü' için kullanım hakkı doğrulanmış fotoğraf bulunamadı",
-      "'Alanya' için konuyla (chess, chess board) ilişkili lisanslı fotoğraf bulunamadı",
-      "'satranç başarısı ve tebrik ziyareti' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: satranç oyunu, satranç turnuvası)",
-      "ilk adaylar elendi; 2. turda 3 aday daha denendi"
+      "'Alanya' için konuyla (chess, chess board) ilişkili lisanslı fotoğraf bulunamadı"
      ],
      "havuz": {
       "gercek": 0,
@@ -25423,56 +25392,21 @@
       "Commons arama: chess game → 15 sonuç",
       "Unsplash arama: chess game → 6 sonuç",
       "Commons arama: chess tournament → 15 sonuç",
-      "Unsplash arama: chess tournament → 6 sonuç",
-      "Commons arama: satranç oyunu → 15 sonuç",
-      "Unsplash arama: satranç oyunu → 6 sonuç",
-      "Commons arama: satranç turnuvası → 15 sonuç",
-      "Unsplash arama: satranç turnuvası → 6 sonuç",
-      "Wikidata: Alanya → yok"
+      "Unsplash arama: chess tournament → 6 sonuç"
      ],
      "on_elenen": [
       "Cruise ship Seven Seas Mariner in Alanya harbor.jpg: yer/konu: konu ipucu (chess, chess board) kayıtta yok",
-      "The Chess Game (Sofonisba Anguissola) 1555 (4096x3236px).jpg: konu: görselde olmaması gereken unsur kayıtta geçiyor",
-      "Hou Yifan (29762728494) (cropped).jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Chess players, kiev.JPG: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "A Chess Dispute.jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Paris - Playing chess at the Jardins du Luxembourg - 2966.jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Chess game Staunton No. 6.jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Kasparov vs ChessGenius, 1994.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "The Chess Queen.jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Knight's tour anim 2.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Botvinnik vs Sargon, 1983.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Coffeehouse chessmen.jpg: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "MChess Pro vs Susan Polgar, 1995.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Roesch vs Schlage, 1910.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Lasker vs Bauer, 1889.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "TUROCHAMP vs Glennie, 1952.gif: konu: 'satranç oyunu' kayıtta geçmiyor",
-      "Divya Deshmukh at the Tata Steel Chess Tournament 2024.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2014 IJmondtrofee Tata Steel Chess in Wijk aan Zee.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Carlsen Giri draw in Tata Steel Chess 2020.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2000 01 14 Loting Corus Chess Toernooi - 40.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2000 01 14 Loting Corus Chess Toernooi - 42.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2000 01 14 Loting Corus Chess Toernooi - 35.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2004 CCT (Corus Chess Tournment) Piet Zwart.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "2000 CCT, Piet Zwart, oud organisator (Corus Chess Toernooi).jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Eline Roebers at the Tata Steel Chess Tournament 2024.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Praggnanandhaa R, Tata Steel chess tournament 2025, Round 1 (02) : konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Praggnanandhaa R, Tata Steel chess tournament 2025, Round 1 (02).: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Tata Steel Chess-poster.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Tata Steel Chess 2019 - flags.jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Vlaggen Tata Steel Chess (2024).jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Tata Steel Chess 2026 - Moriaan (2).jpg: konu: 'satranç turnuvası' kayıtta geçmiyor",
-      "Cruise ship Seven Seas Mariner in Alanya harbor.jpg: yer/konu: konu ipucu (chess, chess board) kayıtta yok"
+      "The Chess Game (Sofonisba Anguissola) 1555 (4096x3236px).jpg: konu: görselde olmaması gereken unsur kayıtta geçiyor"
      ]
     }
    ],
    "eksik": 0,
    "atlanan_kontroller": [],
-   "yz_kullanilan": 2,
-   "hedef": "a637dc8c99cc",
+   "yz_kullanilan": 1,
+   "hedef": "0a40304e0eca",
    "deneme_sayisi": 1,
-   "imza": "a637dc8c99cc",
-   "deneme_sayisi_imza": "a637dc8c99cc:1"
+   "imza": "0a40304e0eca",
+   "deneme_sayisi_imza": "0a40304e0eca:1"
   },
   "yasakli": [
    "https://images.unsplash.com/photo-1706868934222-b0be7c86fb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmFpbiUyMHN0cmVldCUyMHVtYnJlbGxhfGVufDF8MHx8fDE3OTM0ODQ5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -25510,119 +25444,9 @@
    "g9.1-2026-11-05": 18,
    "g9.2-2026-11-05": 10,
    "g9.3-2026-11-05": 13,
-   "g9.4-2026-11-05": 160
+   "g9.4-2026-11-05": 170
   },
   "toplu_son": [
-   {
-    "dosya": "20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/ekonomi.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:41:30+03:00"
-   },
-   {
-    "dosya": "20261105-istiklal-bilim-ve-teknoloji-universitesi-cop31e-16-projeyle-a0255.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/egitim.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:41:32+03:00"
-   },
-   {
-    "dosya": "20261105-antalyada-duzenlenecek-cop31-oncesi-iklim-konferansi-gercekl-92636.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:01+03:00"
-   },
-   {
-    "dosya": "20261103-antalyaspor-tesislerinin-elektrik-sorunu-cozuldu-ef086.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/spor.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:02+03:00"
-   },
-   {
-    "dosya": "20261105-alanyada-10-katli-binanin-zemininde-supheli-kadin-cesedi-bul-82011.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/asayis.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:03+03:00"
-   },
-   {
-    "dosya": "20261102-antalya-ve-alanyada-lpg-fiyatlarina-buyuk-zam-beklentisi-9f0a2.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/ekonomi.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:03+03:00"
-   },
-   {
-    "dosya": "20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/asayis.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:04+03:00"
-   },
-   {
-    "dosya": "20261103-antalyaspor-hentbol-takimi-yeni-sezon-hazirliklarini-surduru-73c57.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/spor.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:05+03:00"
-   },
-   {
-    "dosya": "20261104-antalyada-organ-bagisi-icin-bilgilendirme-standi-kuruldu-0e47e.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/saglik.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:07+03:00"
-   },
-   {
-    "dosya": "20261104-antalya-44-ulkeden-iklim-hareketlerini-agirlayacak-66615.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/yasam.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:42:07+03:00"
-   },
    {
     "dosya": "20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md",
     "tur": "kategori",
@@ -26172,6 +25996,116 @@
     "surum": "g9.4-2026-11-05",
     "bekliyor": false,
     "tarih": "2026-11-05T22:33:15+03:00"
+   },
+   {
+    "dosya": "20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/asayis.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:39:43+03:00"
+   },
+   {
+    "dosya": "20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/kultur-sanat.png",
+    "kapak_nedeni": "gorsel_reddedildi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:39:44+03:00"
+   },
+   {
+    "dosya": "20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/gundem.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:41:41+03:00"
+   },
+   {
+    "dosya": "20261105-antalya-cop31-is-ve-yatirim-zirvesi-ile-kuresel-ceolari-agir-876f6.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/ekonomi.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:51+03:00"
+   },
+   {
+    "dosya": "20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b40e9.md",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "aciklama": "Temsilî fotoğraf",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg/1280px-Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:51+03:00"
+   },
+   {
+    "dosya": "20261105-antalyada-cocuk-filmleri-festivali-sona-erdi-0190e.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/kultur-sanat.png",
+    "kapak_nedeni": "gorsel_reddedildi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:57+03:00"
+   },
+   {
+    "dosya": "20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha-90d73.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/yasam.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:57+03:00"
+   },
+   {
+    "dosya": "20261105-antalyaspordan-kriz-iddialarina-yalanlama-adc7a.md",
+    "tur": "arsiv",
+    "alt_tur": "kurum",
+    "aciklama": "Antalya Stadyumu — Arşiv fotoğrafı (2015)",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:58+03:00"
+   },
+   {
+    "dosya": "20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi-c495f.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/gundem.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:42:58+03:00"
+   },
+   {
+    "dosya": "20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e.md",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "aciklama": "Temsilî fotoğraf",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-05T22:43:43+03:00"
    }
   ],
   "yasakli_surum": "g9",

@@ -26,16 +26,16 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:28:44+03:00'
+    tarih: '2026-11-05T22:41:41+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
-  kurum_notu: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed ou'
+  kurum_notu: "kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; kurum sayfası okunamadı (Antalya Valiliği): ('Co"
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed ou'
-    notlar: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %50); kurum sayfası okunamadı (Antalya Valiliği): (''Connection aborted.'', RemoteDisconnected(''Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Rifat Hisarcıklıoğlu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İş ve Yatırım Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-  kapak_surum: c4
-  zorla: g9.4-2026-11-05:6
+    aciklama: "kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benze"
+    notlar: "kurum sayfası okunamadı (Antalya Valiliği): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without; kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %43); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)"
+  kapak_surum: c5
+  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

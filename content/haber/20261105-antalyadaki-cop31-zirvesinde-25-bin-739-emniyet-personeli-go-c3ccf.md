@@ -26,16 +26,16 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:26:52+03:00'
+    tarih: '2026-11-05T22:39:44+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
-  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPS'
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); Antalya Valiliği sayfası aynı haber değil (benzer'
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPS'
-    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya EXPO Fuar Alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya EXPO Fuar Alanı'' için konuyla (exhibition center, security pers'
-  kapak_surum: c4
-  zorla: g9.4-2026-11-05:6
+    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); Antalya Valiliği sayfası aynı haber değil (benzer'
+    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %15); Antalya Valiliği sayfası aynı haber değil (benzerlik %20); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya EXPO Fuar Alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya EXPO Fuar Alanı'' için konuyla (exhibition center, security personnel, police) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c5
+  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
