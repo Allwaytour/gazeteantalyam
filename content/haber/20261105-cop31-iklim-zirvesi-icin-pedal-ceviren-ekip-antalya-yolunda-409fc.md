@@ -25,14 +25,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T21:18:37+03:00'
+    tarih: '2026-11-05T21:48:02+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22); Antalya Valiliği sayfası aynı haber değil (benzerlik %31); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil ('
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Linda Nihal Lafcı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İklim Zirvesi bisiklet turu'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılma'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Linda Nihal Lafcı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İklim Zirvesi bisiklet turu'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Beyşehir Bisiklet Evi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Beyşehir'' için konuyla (cyclists, bicycles, touring bikes) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22); Antalya Valiliği sayfası aynı haber değil (benzerlik %31); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için ka'
+    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22); Antalya Valiliği sayfası aynı haber değil (benzerlik %31); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Linda Nihal Lafcı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Beyşehir Bisiklet Evi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Beyşehir'' için konuyla (cyclists, bicycles, bicycle touring) ilişkili lisanslı fotoğraf b'
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/guncel/haber-antalya-daki-cop31-icin-5-aydir-bisiklet-suren-16--20399126/
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'ne yönelik farkındalık oluşturmak isteyen 16 kişilik uluslararası bisikletli grup, uzun süredir devam eden yolculuklarını sürdürüyor. İklim değişikliği ve çevre kirliliği gibi küresel sorunlara dikkat çekmeyi amaçlayan bisiklet tutkunları, yaklaşık 5 aydır pedallara basarak sürdürülebilir ulaşımın önemini vurguluyor.
 

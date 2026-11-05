@@ -26,14 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:58:25+03:00'
+    tarih: '2026-11-05T21:45:33+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; hassas haber: ''Ulaş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adı'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; hassas haber: ''Ulaş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (legal documents) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; hassas haber: ''Ulaş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (legal proceedings, lawyer) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/is-insani-durmus-ozgen-tahliye-oldu
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya Cumhuriyet Başsavcılığı Örgütlü Suçlar Bürosu tarafından yürütülen soruşturma dosyası kapsamında geçtiğimiz ay gözaltına alınan ve ardından tutuklanarak cezaevine gönderilen iş insanı Durmuş Özgen hakkında yeni bir gelişme yaşandı. Tutuklama kararı sonrası iş dünyasında geniş yankı uyandıran süreç, hukuki değerlendirmelerin ardından değişti.
 

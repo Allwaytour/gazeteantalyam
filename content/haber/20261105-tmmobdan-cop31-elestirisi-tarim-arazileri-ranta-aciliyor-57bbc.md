@@ -25,14 +25,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T21:29:29+03:00'
+    tarih: '2026-11-05T21:45:14+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Karancı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İsmail Küçük'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''T'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Karancı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İsmail Küçük'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''TMMOB'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (press conference, microphone, banner) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +41,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/tmmobdan-antalyadaki-cop31e-yesil-yalan-isyani-tarim-arazileri-ranta-aciliyor/388704
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) hazırlıkları sürerken, Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Antalya'da düzenlediği basın toplantısıyla sürece dair çekincelerini dile getirdi. "Sıfır Emisyon mu, Emisyon Ticareti mi: Karbon Piyasalarının Gölgesinde COP31" başlıklı raporunu kamuoyuyla paylaşan birlik, iklim krizine karşı geliştirilen piyasa odaklı çözümlerin çevresel tahribatı artırdığını savundu.
 

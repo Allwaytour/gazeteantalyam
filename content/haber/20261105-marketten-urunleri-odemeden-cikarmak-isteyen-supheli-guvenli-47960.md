@@ -26,14 +26,14 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:58:51+03:00'
+    tarih: '2026-11-05T21:45:29+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
     notlar: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -25,7 +25,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:41:29+03:00'
+    tarih: '2026-11-05T21:45:11+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -54,6 +54,7 @@ gorsel_secim:
       katman: kurum
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
   kapak_surum: c3
+  zorla: g9.4-2026-11-05:4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
