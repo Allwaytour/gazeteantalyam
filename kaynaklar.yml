@@ -25,10 +25,30 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 14          # aynı denemeyi yeniden çalıştırmak için artırın
-  gorsel_deneme: []             # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
-  gorsel_yeniden_no: 4          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
+  gorsel_deneme_no: 15          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme:              # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
+    - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
+    - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
+    - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
+    - 20261105-antalya-cop31-is-ve-yatirim-zirvesi-ile-kuresel-ceolari-agir-876f6.md
+    - 20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b40e9.md
+    - 20261105-antalyada-cocuk-filmleri-festivali-sona-erdi-0190e.md
+    - 20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha-90d73.md
+    - 20261105-antalyaspordan-kriz-iddialarina-yalanlama-adc7a.md
+    - 20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi-c495f.md
+    - 20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e.md
+  gorsel_yeniden_no: 5          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
+    - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
+    - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
+    - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
+    - 20261105-antalya-cop31-is-ve-yatirim-zirvesi-ile-kuresel-ceolari-agir-876f6.md
+    - 20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b40e9.md
+    - 20261105-antalyada-cocuk-filmleri-festivali-sona-erdi-0190e.md
+    - 20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha-90d73.md
+    - 20261105-antalyaspordan-kriz-iddialarina-yalanlama-adc7a.md
+    - 20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi-c495f.md
+    - 20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e.md
     - 20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md
   gorsel_oncelikli:             # toplu düzeltmede önce bu haberler işlenir (g9 doğrulama örnekleri)
     - 20261105-istiklal-bilim-ve-teknoloji-universitesi-cop31e-16-projeyle-a0255.md
