@@ -42,6 +42,9 @@
   // Yüklenemeyen fotoğrafların yerine marka renkli yer tutucu koy
   function gorselHata(img) {
     if (img.hasAttribute("data-yedeksiz")) return;
+    // Küçük kopya (Commons/Unsplash) alınamazsa önce özgün dosya denenir; o da yoksa yer tutucu konur.
+    var asil = img.getAttribute("data-asil");
+    if (asil && img.src !== asil) { img.removeAttribute("data-asil"); img.removeAttribute("srcset"); img.src = asil; return; }
     var d = document.createElement("div"); d.className = "yer"; d.setAttribute("aria-hidden", "true");
     var fig = img.closest("figure.kapak"); if (fig) { fig.remove(); return; }
     img.replaceWith(d);
