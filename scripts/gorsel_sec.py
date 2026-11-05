@@ -987,6 +987,12 @@ def haber_yeri(konu, haber):
     Haberde il/ilçe adı geçiyor diye herhangi bir şehir fotoğrafı kullanılmaz."""
     oz = konu.get("ana_ozne") or {}
     if oz.get("tur") != "yer":
+        # Turizm haberinde (ör. "Alanya Avrupa pazarlarında yükselişini sürdürüyor") ilçenin genel görünümü konuyu doğrudan anlatır.
+        if haber.get("kategori") == "Turizm" and konu.get("hassas", "yok") == "yok":
+            for aday in ((konu.get("nerede") or {}).get("ad", ""), haber.get("ilce") or ""):
+                for ad in YERLER:
+                    if aday and kucult(ad) == kucult(aday):
+                        return ad
         return ""
     ad_k = kucult(oz.get("ad", ""))
     for ad in YERLER:
@@ -1163,7 +1169,8 @@ HASSAS HABER (dava, soruşturma, sağlık vb.) kişi iddialarında: kişinin nö
 "temsilî fotoğraf" iddialarında: fotoğraf haberin konusunu doğrudan göstermeli (ör. akaryakıt haberinde pompa, muaythai haberinde
 muaythai müsabakası); benzer ama farklı bir şey (boks, karate; LPG yerine benzin) habere uygun değildir. Karede belirli bir organizasyonun/kurumun
 pankartı, afişi, logosu, tabelası ya da öne çıkan tanınabilir yüzler varsa haberdeki olayın kendisi sanılabilir → yaniltici: true.
-Yabancı tabela, plaka, para birimi, polis/ambulans aracı ya da Türkiye'de olmayan bir sahne varsa yabanci_unsur: true.
+Yabancı tabela, plaka, para birimi, polis/ambulans aracı ya da tanınır bir yabancı şehir/simge yapı varsa yabanci_unsur: true.
+Doğal manzara, tarla, mera, deniz, ürün, hayvan ya da iç mekân gibi ülkesi belli olmayan sahneler tek başına yabancı unsur sayılmaz.
 ÖNEMLİ: Kişileri yüzlerinden tanımaya ÇALIŞMA ve kimlik hakkında yorum yapma; kişinin kimliği arşiv kaydıyla (Wikidata ve
 Commons kategorisi) doğrulanmıştır. Yalnızca sahneyi değerlendir: başka bir etkinliğe ait pankart, yazı, tarih, bayrak veya
 öne çıkan başka kişiler bu fotoğrafı güncel haberdeki etkinliğin görüntüsüymüş gibi gösterecekse "yaniltici": true.
@@ -1294,7 +1301,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # ----------------------------------------------------------------- seçim
 # Kapak kalan haberler, aday kuralları genişletildiğinde (tüm kararlar sıfırlanmadan) bir kez yeniden denenir.
 # c2: kurum haberinde konu fotoğrafı (kurumun binası/kadrosu değil, konunun kendisi) ve ilçe/şehir haberinde konu fotoğrafı.
-KAPAK_SURUM = "c2"
+# c3: turizm haberinde ilçenin genel görünümü; ülkesi belli olmayan doğal sahne/ürün kareleri "yabancı unsur" sayılmaz.
+KAPAK_SURUM = "c3"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
