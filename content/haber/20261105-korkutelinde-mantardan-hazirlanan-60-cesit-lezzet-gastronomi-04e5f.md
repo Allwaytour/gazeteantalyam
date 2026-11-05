@@ -17,21 +17,22 @@ gorsel_secim:
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: mantar yemekleri (temsilî fotoğraf, olayın kendisi değil)
+  gosterilen: mantar yemekleri
   cekim_yili: ''
-  gerekce: 'Commons dosya açıklamasında ''mushroom dishes'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Mantar yemeğini gösteren temsili fotoğraf habere uygundur.'
-  surum: g8.1-2026-11-02
+  gerekce: 'Commons dosya kaydında ''mushroom dishes'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Mantar yemeği görseli, haberin gastronomi içeriğiyle doğrudan ilişkilidir ve temsilî fotoğraf olarak uygundur.'
+  surum: g9.4-2026-11-05
   konu_imza: 3efc149c5f58
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mushroom_sisig.jpg/1280px-Mushroom_sisig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T08:58:11+03:00'
+    tarih: '2026-11-05T18:52:32+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kurum: k4
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/korkutelinde-mantardan-60-cesit-lezzet-hazirlaniyor-119512604
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mushroom_sisig.jpg/1280px-Mushroom_sisig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Bagoto / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Antalya'nın Korkuteli ilçesinde yaklaşık 40 yıldır sürdürülen mantar üretimi, farklı tariflerle gastronomiye kazandırılıyor. Bölgede yetiştirilen kültür ve istiridye mantarları, yerel işletmelerde hazırlanan 60 çeşit yemekle misafirlerin beğenisine sunuluyor.
 

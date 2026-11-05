@@ -19,20 +19,20 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
   konu_imza: 41332a893b89
   gorsel_url: /images/kategori/asayis.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T09:59:04+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T18:51:35+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    kod: aday_bulunamadi
+    aciklama: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/marketten-alisveris-yapti-parasini-odemeden-gittigini-fark-eden-guvenlik-gorevlisini-bicakladi-511368937
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Muratpaşa ilçesinde faaliyet gösteren bir zincir markette meydana gelen olayda, reyonlardan yaklaşık 3 bin 500 lira tutarında ürün alan şüpheli, kasadan ödeme yapmadan çıkışa yöneldi. Durumu fark eden güvenlik görevlisi şüpheliye müdahale etmek istedi. Güvenlik görevlisini fark etmesi üzerine arbede yaşandı ve şüpheli, görevliyi kesici aletle vücudunun çeşitli yerlerinden yaralayarak olay yerinden kaçtı.
 

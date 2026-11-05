@@ -39,8 +39,8 @@ yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/seralari-sel-vurmasina-ragmen-sebze-fiyatlari-dustu-119512714
 gorsel_bekleyen:
-  surum: g9.1-2026-11-05
-  tarih: '2026-11-05T17:37:05+03:00'
+  surum: g9.4-2026-11-05
+  tarih: '2026-11-05T18:48:43+03:00'
   sayi: 1
   neden: 'kurum sayfası okunamadı (T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı): HTTPSConnectionPool(host=''antalya.csb.gov.tr'', port=443): Max retries exceeded w'
 ---

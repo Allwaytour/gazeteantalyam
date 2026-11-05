@@ -20,20 +20,20 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: 5c21d82a8087
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T17:34:45+03:00'
+    tarih: '2026-11-05T18:46:28+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
   kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mimar Sinan Kongre Merkezi'' için kullanım hakkı doğrulanmış fotoğraf bulunamad'
-    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mimar Sinan Kongre Merkezi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Aydın Kanza Parkı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (convention center, climate summit, conference hall) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (climate change conference, international summit, congress center) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

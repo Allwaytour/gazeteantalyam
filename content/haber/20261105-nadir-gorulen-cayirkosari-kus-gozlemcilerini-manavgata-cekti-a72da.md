@@ -17,21 +17,22 @@ gorsel_secim:
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: çayırkoşarı (temsilî fotoğraf, olayın kendisi değil)
+  gosterilen: kuş gözlemi
   cekim_yili: ''
-  gerekce: 'Commons dosya açıklamasında ''buff-breasted sandpiper'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Fotoğraf habere konu olan çayırkoşarı kuşunu temsilî olarak doğru şekilde göstermektedir.'
-  surum: g8.1-2026-11-02
+  gerekce: 'Commons dosya kaydında ''buff-breasted sandpiper'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Haberde adı geçen çayırkoşarı kuşunu net bir şekilde gösteren temsilî görsel.'
+  surum: g9.4-2026-11-05
   konu_imza: 3b4874c1ce89
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T07:28:14+03:00'
+    tarih: '2026-11-05T18:51:02+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kurum: k4
+  kurum_notu: "kurum sayfası okunamadı (Maden Tetkik ve Arama Genel Müdürlüğü): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.mta.gov"
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +40,9 @@ otomatik: true
 yz: true
 kaynak: Hürriyet
 kaynak_url: http://mobil.hurriyet.com.tr/gundem/cayirkosarindan-yeni-surpriz-kus-gozlemcileri-antalyaya-akin-etti-43366387
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Afsarnayakkan / Wikimedia Commons (CC BY-SA 4.0)'
 ---
 Kuzey Amerika'da üreyip Güney Amerika'da kışlayan ve göç güzergahı bu kıtalar arasında bulunan çayırkoşarı, Türkiye'de ilk defa kayıt altına alındı. Bu gelişmenin ardından ülkenin çeşitli illerinden gelen çok sayıda kuş gözlemcisi Manavgat ilçesine geldi.
 

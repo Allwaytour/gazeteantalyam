@@ -19,16 +19,16 @@ gorsel_secim:
   kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   gosterilen: Kepez Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: 'Haber Kepez Belediyesi sitesinde bulundu (metin benzerliği %88); fotoğraf kurumun kendi sayfasından; görsel kontrol: Fotoğraf Kepez Drag Pisti''nde gerçekleşen drag yarışını ve pisti doğru bir şekilde göstermektedir.'
-  surum: g8.1-2026-11-02
+  gerekce: 'Haber Kepez Belediyesi sitesinde bulundu (metin benzerliği %88); fotoğraf kurumun kendi sayfasından; görsel kontrol: Kepez Drag Pisti''ndeki yarışları doğrudan gösteren, haberle tam uyumlu güncel bir görseldir.'
+  surum: g9.4-2026-11-05
   konu_imza: 64b34d286754
   gorsel_url: /images/kurum/415e8b37beec347b.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T11:58:22+03:00'
+    tarih: '2026-11-05T18:53:16+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    model: gemini-3.1-flash-lite
   alt_tur: kurum_haber
   izin_kontrolu:
     kendi_fotografi: fotoğraf kurumun kendi sunucusunda (www.kepez-bld.gov.tr); sayfada ajans kredisi yok
@@ -36,6 +36,7 @@ gorsel_secim:
     izin_kaydi: Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)
     kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   kurum: k4
+  kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +44,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/kepez/antalyada-drag-heyecani-kepezde-hiz-ve-rekabet-yarislari-basliyor/388685
+gorsel_onceki:
+  gorsel: /images/kurum/415e8b37beec347b.jpg
+  gorsel_kredi: 'Fotoğraf: Kepez Belediyesi'
 ---
 Antalya'nın Kepez ilçesi, hafta sonu motor sporları tutkunlarını buluşturacak önemli bir organizasyona ev sahipliği yapmaya hazırlanıyor. Türkiye Otomobil Sporları Federasyonu organizatörlüğünde gerçekleştirilecek Türkiye OtoDrag Şampiyonası 4. Ayak yarışları, 7-8 Kasım 2026 tarihlerinde Kepez Yeni Drag Pisti'nde sporseverlerle buluşacak. Ülkenin farklı illerinden gelen sporcular, yüksek performanslı araçlarıyla dereceye girebilmek için pistte ter dökecek.
 

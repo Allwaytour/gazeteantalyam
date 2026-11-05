@@ -20,20 +20,20 @@ gorsel_secim:
   gosterilen: ''
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.1-2026-11-05
+  surum: g9.4-2026-11-05
   konu_imza: 9bc2bf60d984
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T17:33:49+03:00'
+    tarih: '2026-11-05T18:45:09+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k4
   kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (organ donation, information stand, health aw'
-    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (organ donation, information stand, health awareness) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulan'
+    notlar: 'TBMM Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
