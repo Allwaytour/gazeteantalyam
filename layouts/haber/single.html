@@ -13,7 +13,8 @@
       {{ if gt .Lastmod .Date }}<span>· Güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
     </div>
     {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}
-    <figure class="kapak"><img src="{{ . | relURL }}"{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
+    {{ $g := . | relURL }}{{ $buyuk := partial "gorsel-url.html" (dict "u" $g "w" 1280) }}{{ $orta := partial "gorsel-url.html" (dict "u" $g "w" 960) }}
+    <figure class="kapak"><img src="{{ $buyuk }}"{{ if ne $buyuk $g }} srcset="{{ $orta }} 960w, {{ $buyuk }} 1280w" sizes="(max-width:1000px) 100vw, 760px" data-asil="{{ $g }}"{{ end }}{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
       {{/* Görsel üzerine tür/tarih rozeti konmaz. Gerekli açıklama ve lisans atfı fotoğrafın altında tek satırdır;
            arşiv fotoğrafında çekim yılı ve "Arşiv fotoğrafı" ifadesi bu satırda yer alır. Kategori kapağında satır yoktur. */}}
       {{ if and (ne $tur "kategori") (or $s.fotografci $.Params.gorsel_kredi) }}<figcaption>
@@ -22,13 +23,19 @@
     </figure>{{ end }}
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
+    {{ with .GetTerms "etiketler" }}<p class="haber-etiketler"><span>Etiketler:</span>{{ range . }} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
+    {{ with .Params.kaynak }}{{ if $.Params.otomatik }}<p class="haber-kaynak">Haber kaynağı: {{ with $.Params.kaynak_url }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">{{ $.Params.kaynak }}</a>{{ else }}{{ . }}{{ end }}{{ if $.Params.yz }} · Bu haber, kaynaktaki bilgilerden yararlanılarak yeniden yazılmıştır.{{ end }}</p>{{ end }}{{ end }}
     {{ partial "paylas.html" . }}
     {{ partial "yorumlar.html" . }}
   </article>
   {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
   {{ $ilgili := where (where $hepsi "kategori" $kat) "link" "!=" .RelPermalink }}
   <div class="kenar-sutun">
-    {{ with first 5 $ilgili }}
+    {{/* İlgili haberler: önce aynı kişi/kurum etiketini taşıyanlar, sonra aynı kategoridekiler */}}
+    {{ $yakin := slice }}{{ $gorulen := slice .RelPermalink }}
+    {{ if .Params.etiketler }}{{ range first 5 (where (site.RegularPages.Related .) "Section" "haber") }}{{ if not (in $gorulen .RelPermalink) }}{{ $yakin = $yakin | append (dict "baslik" .Title "link" .RelPermalink) }}{{ $gorulen = $gorulen | append .RelPermalink }}{{ end }}{{ end }}{{ end }}
+    {{ range $ilgili }}{{ if and (lt (len $yakin) 5) (not (in $gorulen .link)) }}{{ $yakin = $yakin | append . }}{{ $gorulen = $gorulen | append .link }}{{ end }}{{ end }}
+    {{ with $yakin }}
     <section class="kutu">
       <h2 class="kenar-bas">İlgili haberler</h2>
       <ol class="numarali">{{ range . }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ol>
