@@ -27,9 +27,9 @@ ayarlar:
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
   gorsel_deneme_no: 14          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme: []             # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
-  gorsel_yeniden_no: 2          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
+  gorsel_yeniden_no: 3          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
-    - 20261104-besiktas-ile-antalyaspor-45-randevuda-14401.md
+    - 20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md
   gorsel_oncelikli:             # toplu düzeltmede önce bu haberler işlenir (g9 doğrulama örnekleri)
     - 20261105-istiklal-bilim-ve-teknoloji-universitesi-cop31e-16-projeyle-a0255.md
     - 20261105-antalya-turizmde-12-milyonu-geride-birakti-aef78.md
