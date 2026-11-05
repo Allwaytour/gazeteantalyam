@@ -33,6 +33,7 @@ gorsel_secim:
   kaynak_aciklama: A concentrated solution of potassium humate added to a beaker of distilled water. The potassium humate is made from highly oxidised lignite mined from the Latro
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

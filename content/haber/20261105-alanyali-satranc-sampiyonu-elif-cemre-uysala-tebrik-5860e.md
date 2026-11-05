@@ -34,6 +34,7 @@ gorsel_secim:
   kaynak_aciklama: Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with tr
   kurum: k5
   kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
+  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
