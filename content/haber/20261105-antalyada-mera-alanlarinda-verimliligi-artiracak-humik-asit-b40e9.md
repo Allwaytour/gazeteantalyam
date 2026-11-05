@@ -1,39 +1,38 @@
 ---
-title: ANTALYA'DA MERA ALANLARINDA VERİMLİLİĞİ ARTIRACAK HÜMİK ASİT DESTEĞİ
+title: Antalya'da Mera Alanlarında Verimliliği Artıracak Hümik Asit Desteği
 date: '2026-11-05T19:10:00+03:00'
 ozet: Antalya'da mera alanlarının iyileştirilmesi ve hayvancılığın desteklenmesi amacıyla 5 bin 120 litre hümik asit teslim alındı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg/1280px-Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Eric Jones / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Fotoğraf: UlmicA / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
 gorsel_tur: stok
 gorsel_secim:
   tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg
-  fotografci: Eric Jones
-  kredi: Eric Jones / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Liquid_Potassium_Humate.jpg
+  fotografci: UlmicA
+  kredi: UlmicA / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: mera ıslahı
+  gosterilen: hümik asit desteği
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''pasture land'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Mera alanını temsil eden genel bir manzara fotoğrafıdır, haberin konusuyla uyumlu ve yanıltıcı bir unsur içermemektedir.'
+  gerekce: 'Commons dosya kaydında ''humic acid liquid'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Hümik asit çözeltisini gösteren temsilî bir fotoğraf, haberin içeriğiyle doğrudan ilgili ve yanıltıcı bir unsur içermiyor.'
   surum: g9.4-2026-11-05
-  konu_imza: b8618cad5104
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg/1280px-Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  konu_imza: fa128f4802ad
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T22:19:47+03:00'
+    tarih: '2026-11-06T00:34:27+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
-  kaynak_aciklama: Pasture land and forest plantations
+  kaynak_aciklama: A concentrated solution of potassium humate added to a beaker of distilled water. The potassium humate is made from highly oxidised lignite mined from the Latro
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -85,6 +84,42 @@ gorsel_gecmis:
     kapak_surum: c3
     zorla: g9.4-2026-11-05:5
   degisim: '2026-11-05T22:19:47+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg/1280px-Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Eric Jones / Wikimedia Commons (CC BY-SA 2.0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg
+    fotografci: Eric Jones
+    kredi: Eric Jones / Wikimedia Commons (CC BY-SA 2.0)
+    lisans: CC BY-SA 2.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: mera ıslahı
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''pasture land'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Mera alanını temsil eden genel bir manzara fotoğrafıdır, haberin konusuyla uyumlu ve yanıltıcı bir unsur içermemektedir.'
+    surum: g9.4-2026-11-05
+    konu_imza: b8618cad5104
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg/1280px-Pasture_land_and_forest_plantations_-_geograph.org.uk_-_4952698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T22:19:47+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Pasture land and forest plantations
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:7
+  degisim: '2026-11-06T00:34:27+03:00'
+etiketler:
+- Tarım ve Orman Bakanlığı
+- Türkiye Kömür İşletmeleri Kurumu
+- İl Tarım ve Orman Müdürlüğü
+baslik_ozgun: ANTALYA'DA MERA ALANLARINDA VERİMLİLİĞİ ARTIRACAK HÜMİK ASİT DESTEĞİ
 ---
 Antalya'da tarımsal üretimi güçlendirmek ve mera alanlarının verimini yükseltmek için yeni bir adım atıldı. Tarım ve Orman Bakanlığı ile Türkiye Kömür İşletmeleri Kurumu arasında imzalanan protokol çerçevesinde, kente 5 bin 120 litre hümik asit ulaştırıldı. İl Tarım ve Orman Müdürlüğü tarafından yürütülecek çalışmalarla, söz konusu organik maddenin mera ıslahında kullanılması planlanıyor.
 

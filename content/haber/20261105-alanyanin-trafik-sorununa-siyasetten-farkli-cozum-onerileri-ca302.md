@@ -1,5 +1,5 @@
 ---
-title: ALANYA'NIN TRAFİK SORUNUNA SİYASETTEN FARKLI ÇÖZÜM ÖNERİLERİ
+title: Alanya'nın Trafik Sorununa Siyasetten Farklı Çözüm Önerileri
 date: '2026-11-05T15:06:00+03:00'
 ozet: Alanya'da ulaşım yoğunluğunu azaltmak için gündeme gelen yeni projeler ve kavşak düzenlemeleri, ilçe siyasetinde farklı görüşleri beraberinde getirdi.
 gorsel: /images/kurum/6d968980df34cba6.jpg
@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyada-trafik-hamlesine-siyasetten-farkli-receteler
+baslik_ozgun: ALANYA'NIN TRAFİK SORUNUNA SİYASETTEN FARKLI ÇÖZÜM ÖNERİLERİ
 ---
 Alanya'da uzun süredir devam eden trafik sorununa karşı AK Parti Alanya İlçe Başkanı Mehmet Şarani Tavlı tarafından duyurulan Oba Tüneli bağlantısı, köprülü geçiş ve kavşak düzenlemeleri ilçede hareketliliğe neden oldu. Söz konusu girişimler, bölgedeki ulaşım altyapısını güçlendirmeyi hedefliyor.
 

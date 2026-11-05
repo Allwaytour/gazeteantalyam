@@ -1,5 +1,5 @@
 ---
-title: ALANYA TURİZMİ LONDRA'DAKİ FUARDA BÜYÜME HEDEFLERİNİ BELİRLEDİ
+title: Alanya Turizmi Londra'daki Fuarda Büyüme Hedeflerini Belirledi
 date: '2026-11-05T22:35:00+03:00'
 ozet: Dünyanın en önemli turizm etkinliklerinden WTM Londra Fuarı'na katılan Alanya heyeti, İngiltere ve Polonya pazarlarındaki başarısını 2027 hedefleriyle pekiştirdi.
 gorsel: /images/kurum/c3ea3910914e2b78.jpg
@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyanin-turizmdeki-yukselisi-suruyor-2027-icin-yeni-hedefler-belirlendi
+baslik_ozgun: ALANYA TURİZMİ LONDRA'DAKİ FUARDA BÜYÜME HEDEFLERİNİ BELİRLEDİ
 ---
 İngiltere'nin başkenti Londra'da düzenlenen World Travel Market (WTM) Londra 2026 Fuarı, Alanya turizmi için verimli temaslara sahne oldu. Alanya Belediye Başkanı Osman Tarık Özçelik, ALTAV Başkanı Abdurrahman Açıkalın ve sektör temsilcilerinden oluşan heyet, uluslararası tur operatörleriyle bir araya gelerek bölgenin pazar payındaki artışı ve gelecek sezon stratejilerini değerlendirdi.
 

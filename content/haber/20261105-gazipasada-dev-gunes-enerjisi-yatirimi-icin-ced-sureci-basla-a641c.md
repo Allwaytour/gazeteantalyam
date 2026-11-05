@@ -1,5 +1,5 @@
 ---
-title: GAZİPAŞA'DA DEV GÜNEŞ ENERJİSİ YATIRIMI İÇİN ÇED SÜRECİ BAŞLATILDI
+title: Gazipaşa'da Dev Güneş Enerjisi Yatırımı İçin ÇED Süreci Başlatıldı
 date: '2026-11-05T12:31:00+03:00'
 ozet: Elmalı'da iki kez engellenen güneş enerjisi ve depolama tesisi projesi, Gazipaşa'nın Şahinler Mahallesi'ne taşındı. Yaklaşık 970 milyon liralık yatırım için ÇED süreci resmen başladı.
 gorsel: https://images.unsplash.com/photo-1670519808965-16b9b2f724af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c29sYXIlMjBlbmVyZ3klMjBmYXJtfGVufDF8MHx8fDE3OTM5MDU1ODl8MA&ixlib=rb-4.1.0&q=80&w=1080
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/cengiz-holding-gazipasaya-ges-yapiyor-devasa-yatirim
+baslik_ozgun: GAZİPAŞA'DA DEV GÜNEŞ ENERJİSİ YATIRIMI İÇİN ÇED SÜRECİ BAŞLATILDI
 ---
 Cengiz Elektrik Toptan Satış A.Ş. tarafından Gazipaşa'nın Şahinler Mahallesi'nde kurulması planlanan güneş enerji santrali ve enerji depolama tesisi projesi için Çevresel Etki Değerlendirmesi (ÇED) süreci başlatıldı. Toplam 76,34 hektarlık alana yayılması öngörülen tesis, 50 MWm/50 MWe kurulu gücüyle yıllık yaklaşık 100 milyon kilovatsaat elektrik üretmeyi hedefliyor. Proje kapsamında 100 bin güneş paneli ve batarya depolama sistemlerinin kurulması planlanıyor.
 

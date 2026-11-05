@@ -1,5 +1,5 @@
 ---
-title: COP31 İKLİM ZİRVESİ İÇİN PEDAL ÇEVİREN EKİP ANTALYA YOLUNDA
+title: COP31 İklim Zirvesi İçin Pedal Çeviren Ekip Antalya Yolunda
 date: '2026-11-05T16:26:11+03:00'
 ozet: İklim krizine dikkat çekmek amacıyla 5 aydır bisiklet süren 16 kişilik uluslararası grup, Antalya'da düzenlenecek COP31 öncesi Konya'da mola verdi.
 gorsel: /images/kategori/gundem.png
@@ -44,6 +44,9 @@ kaynak_url: https://www.sondakika.com/guncel/haber-antalya-daki-cop31-icin-5-ayd
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Beyşehir Bisiklet Evi
+baslik_ozgun: COP31 İKLİM ZİRVESİ İÇİN PEDAL ÇEVİREN EKİP ANTALYA YOLUNDA
 ---
 Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'ne yönelik farkındalık oluşturmak isteyen 16 kişilik uluslararası bisikletli grup, uzun süredir devam eden yolculuklarını sürdürüyor. İklim değişikliği ve çevre kirliliği gibi küresel sorunlara dikkat çekmeyi amaçlayan bisiklet tutkunları, yaklaşık 5 aydır pedallara basarak sürdürülebilir ulaşımın önemini vurguluyor.
 

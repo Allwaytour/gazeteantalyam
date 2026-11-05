@@ -45,6 +45,12 @@ kaynak_url: https://sporbursa.tr/bursaspor-kebap-ziyafetiyle-moral-depoladi
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+etiketler:
+- Enes Çelik
+- Mustafa Er
+- Bursaspor
+- Antalyaspor
+- Uludağ Kebapçısı
 ---
 TFF 1. Lig ekiplerinden Bursaspor, deplasmanda oynayacağı Antalyaspor mücadelesinin hazırlıklarını sürdürüyor. Kritik karşılaşma öncesinde yeşil-beyazlı ekip, Özlüce İbrahim Yazıcı Tesisleri’nde düzenlenen akşam yemeğinde bir araya geldi. Uludağ Kebapçısı tarafından organize edilen etkinlikte takım, Bursa’nın meşhur döner kebabını yedi.
 

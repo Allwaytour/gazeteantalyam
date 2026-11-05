@@ -45,6 +45,11 @@ kaynak_url: https://www.antalyaekspres.com.tr/muhittin-bocekten-devlet-bahceliye
 gorsel_onceki:
   gorsel: https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: Cemilbocek / Wikimedia Commons (CC BY-SA 4.0)'
+etiketler:
+- Devlet Bahçeli
+- Milliyetçi Hareket Partisi
+- Antalya Büyükşehir Belediyesi
+- Antalya 6. Ağır Ceza Mahkemesi
 ---
 Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli hayatını kaybetti. Vefat haberinin ardından siyaset dünyasından taziye mesajları paylaşılırken, bu isimler arasında Muhittin Böcek de yer aldı. Sosyal medya hesabı üzerinden bir mesaj yayımlayan Böcek, Bahçeli ailesine sabır ve başsağlığı dileklerini iletti.
 

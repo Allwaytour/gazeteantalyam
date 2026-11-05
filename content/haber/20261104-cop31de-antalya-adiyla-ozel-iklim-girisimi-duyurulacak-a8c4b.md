@@ -85,6 +85,9 @@ gorsel_gecmis:
     alt_tur: kurum
     kurum: k4
   degisim: '2026-11-05T21:31:21+03:00'
+etiketler:
+- Birleşmiş Milletler Gıda ve Tarım Örgütü
+- Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı (COP31), 9 ila 20 Kasım tarihleri arasında Antalya'da gerçekleştirilecek. Konferansın açılış günü gıda, tarım ve sağlık temasına ayrılırken, resmi programa Antalya'nın adını taşıyan özel bir etkinlik dahil edildi.
 

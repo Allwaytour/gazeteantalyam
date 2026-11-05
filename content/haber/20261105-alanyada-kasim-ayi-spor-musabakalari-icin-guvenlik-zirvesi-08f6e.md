@@ -1,5 +1,5 @@
 ---
-title: ALANYA'DA KASIM AYI SPOR MÜSABAKALARI İÇİN GÜVENLİK ZİRVESİ
+title: Alanya'da Kasım Ayı Spor Müsabakaları İçin Güvenlik Zirvesi
 date: '2026-11-05T23:35:00+03:00'
 ozet: Alanya'da kasım ayında gerçekleşecek profesyonel spor müsabakaları öncesinde, İlçe Spor Güvenlik Kurulu toplanarak alınacak tedbirleri belirledi.
 gorsel: /images/kategori/spor.png
@@ -52,6 +52,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-kasim-ayi-spor-etkinlikleri-icin-kritik-toplanti-guvenlik-onlemleri-masaya-yatirildi
+baslik_ozgun: ALANYA'DA KASIM AYI SPOR MÜSABAKALARI İÇİN GÜVENLİK ZİRVESİ
 ---
 Alanya, kasım ayı boyunca ev sahipliği yapacağı ulusal ve yerel spor organizasyonlarına hazırlanıyor. Kentte sporun huzur ve güven ortamında sürmesi amacıyla düzenlenen İlçe Spor Güvenlik Kurulu Toplantısı, Kaymakam Şakir Öner Öztürk başkanlığında gerçekleştirildi. İlgili kurum ve kuruluş temsilcilerinin katıldığı toplantıda, sporcuların, teknik ekiplerin ve taraftarların güvenliği için atılacak adımlar detaylıca ele alındı.
 

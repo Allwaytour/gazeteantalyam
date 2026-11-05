@@ -45,6 +45,8 @@ kaynak_url: https://www.antalyagundem.com.tr/turizm-teknolojileri-zirvesi-gelece
 gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
+etiketler:
+- Türkiye Bilişim Derneği Antalya Şubesi
 ---
 Türkiye Bilişim Derneği Antalya Şubesi, geride bıraktığı on yıllık birikimi ve sektörle kurduğu güçlü bağları yeni bir etkinlik kimliğine taşıyor. Yenilenen stratejik vizyon doğrultusunda, turizmin tüm bileşenlerinde dijitalleşmeyi desteklemek ve ulusal ölçekteki iş birliklerini uluslararası etki alanıyla geliştirmek amaçlanıyor.
 

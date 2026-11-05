@@ -45,6 +45,9 @@ kaynak_url: https://www.bursasaati.com.tr/antalyada-hirdavat-dukkaninda-yangin-a
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- 112 Acil Çağrı Merkezi
+- İtfaiye
 ---
 Antalya'nın Kepez ilçesi Sütçüler Mahallesi Sütçüler Caddesi üzerinde bulunan yapı ve hırdavat malzemeleri satışı yapılan bir iş yerinde, dükkanın kapatılmasından kısa süre sonra henüz belirlenemeyen bir nedenle yangın çıktı. Çevre sakinlerinin dumanları fark ederek 112 Acil Çağrı Merkezi'ne ihbarda bulunması üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.
 

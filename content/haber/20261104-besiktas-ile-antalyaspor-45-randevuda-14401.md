@@ -140,6 +140,11 @@ gorsel_gecmis:
     kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce; Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18)'
     zorla: g9.4-2026-11-05:1
   degisim: '2026-11-05T19:24:24+03:00'
+etiketler:
+- Şenol Güneş
+- Beşiktaş ve Antalyaspor
+- Beşiktaş
+- Antalyaspor
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 

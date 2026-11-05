@@ -74,6 +74,10 @@ gorsel_gecmis:
     qid: Q77566969
     kurum: k4
   degisim: '2026-11-05T16:40:04+03:00'
+etiketler:
+- Antalya Büyükşehir Belediyesi
+- ALDAŞ
+- Antalya 3. Ağır Ceza Mahkemesi
 ---
 Antalya Büyükşehir Belediyesi’ne dünen rüşvet ve yolsuzluk soruşturması çerçevesinde tutuklanarak görevinden uzaklaştırılan Antalya Büyükşehir Belediye Başkanı Muhittin Böcek’in yargı lanma süreci sürüyor. Geçtiğimiz temmuz ayında tutuklanan Böcek, yarın ana dava kapsamında beşinci kez savunma yapmak üzere hakim karşısına çıkmaya hazırlanıyor. Böcek, geçtiğimiz hafta görülen ALDAŞ davasıyla birlikte toplamda altıncı kez mahkeme salonunda yer almış olacak.
 

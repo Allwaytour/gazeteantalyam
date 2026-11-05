@@ -44,6 +44,9 @@ kaynak_url: https://www.aksiyon.com.tr/kumluca-da-ev-aramasinda-cok-sayida-muhim
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- İl Jandarma Komutanlığı
+- Kumluca Cumhuriyet Başsavcılığı
 ---
 Antalya'nın Kumluca ilçesinde gerçekleştirilen bir operasyonda, adresinde arama yapılan bir şüphelinin evinde çok sayıda yasaklı madde ve mühimmat ele geçirildi. Çalışma, İl Jandarma Komutanlığı ekipleri tarafından Kumluca Cumhuriyet Başsavcılığı koordinasyonunda yürütüldü.
 

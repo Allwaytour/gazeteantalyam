@@ -53,6 +53,9 @@ kaynak_url: https://www.gazetegundem.tr/haber/antalyada-cocuklar-icin-sinema-ve-
 gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
+etiketler:
+- Türkiye Sinema ve Audiovisüel Kültür Vakfı
+- TÜRSAK
 ---
 Türkiye Sinema ve Audiovisüel Kültür Vakfı bünyesinde uzun yıllardır sürdürülen 22. TÜRSAK Çocuk Filmleri Festivali, Antalya'da sinemasever çocuklarla buluştu. Şehirde 31 Ekim ile 4 Kasım tarihleri arasında gerçekleştirilen organizasyon, beş gün boyunca geniş kapsamlı film gösterimleri ve interaktif atölye çalışmalarına ev sahipliği yaptı.
 

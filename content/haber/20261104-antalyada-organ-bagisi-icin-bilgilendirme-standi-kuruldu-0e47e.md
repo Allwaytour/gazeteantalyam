@@ -56,6 +56,9 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-il-saglik-mudurlugu
 gorsel_onceki:
   gorsel: /images/kategori/saglik.png
   gorsel_kredi: ''
+etiketler:
+- Behzat Özkan
+- Antalya İl Sağlık Müdürlüğü
 ---
 Antalya İl Sağlık Müdürlüğü, 3-9 Kasım Organ Bağışı Haftası vesilesiyle kentteki bir alışveriş merkezinde bilgilendirme stantları açtı. Sağlık çalışanlarının yer aldığı stantlarda, ziyaretçilere organ bağışı süreci ve başvuru adımları detaylı bir şekilde aktarıldı. Etkinlik boyunca bilgilendirici broşürler dağıtılırken, vatandaşlara defne fidanı hediye edildi ve canlı müzik dinletisi sunuldu.
 

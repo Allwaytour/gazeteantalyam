@@ -1,5 +1,5 @@
 ---
-title: SAKARYALI GENÇ KUAFÖRLER ANTALYA'DAKİ YARIŞMADA ZİRVEYİ KİMSELER BIRAKMADI
+title: Sakaryalı Genç Kuaförler Antalya'daki Yarışmada Zirveyi Kimseler Bırakmadı
 date: '2026-11-05T19:30:23+03:00'
 ozet: Antalya'da düzenlenen ulusal saç kesim yarışmasına katılan Sakaryalı öğrenciler, sergiledikleri tasarımlarla ilk üç dereceyi elde ederek büyük bir başarıya imza attı.
 gorsel: https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5MzkwMDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080
@@ -39,6 +39,7 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/sakarya-haberleri/sakaryali-gelecegin-kuaforleri-antalyadaki-yarismada-kursuyu-kapatti-511578578
+baslik_ozgun: SAKARYALI GENÇ KUAFÖRLER ANTALYA'DAKİ YARIŞMADA ZİRVEYİ KİMSELER BIRAKMADI
 ---
 Antalya'da My Akademi tarafından organize edilen ve Türkiye genelinden yaklaşık 100 öğrencinin katılımıyla gerçekleşen ulusal saç kesim yarışması, genç yeteneklerin kıyasıya rekabetine sahne oldu. Mesleki becerilerini ve yaratıcılıklarını sergileme fırsatı bulan öğrenciler, tasarımlarıyla jüri üyelerini etkilemek için ter döktü.
 

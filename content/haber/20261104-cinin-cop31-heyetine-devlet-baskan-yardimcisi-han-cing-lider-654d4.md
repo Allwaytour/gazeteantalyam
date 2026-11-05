@@ -49,6 +49,11 @@ kaynak_url: https://www.aa.com.tr/tr/gundem/cini-cop31de-devlet-baskan-yardimcis
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Han Cıng
+- Murat Kurum
+- Çin Dışişleri Bakanlığı
+- Birleşmiş Milletler
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na yönelik uluslararası düzeyde hazırlıklar sürerken, Çin'den üst düzey katılım kararı geldi. 9-20 Kasım tarihleri arasında Antalya'nın ev sahipliğinde toplanacak olan zirvede Çin'i, Devlet Başkan Yardımcısı Han Cıng temsil edecek.
 

@@ -74,6 +74,8 @@ gorsel_gecmis:
     qid: Q17046812
     kurum: k4
   degisim: '2026-11-05T20:16:43+03:00'
+etiketler:
+- Yeni Parti
 ---
 Yeni Parti'nin Türkiye genelinde gerçekleştireceği genel başkanlık önseçimi kapsamında Alanya'daki oy verme noktaları netleşti. İlçe teşkilatının paylaştığı takvime göre üyeler, 8 Kasım Pazar günü sabah saat 08.00 ile akşam 19.00 arasında oylarını kullanabilecek. Önseçim sürecinde Alanya'da iki ayrı sandık bölgesi oluşturuldu.
 

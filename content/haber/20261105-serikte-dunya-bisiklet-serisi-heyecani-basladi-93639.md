@@ -1,5 +1,5 @@
 ---
-title: SERİK'TE DÜNYA BİSİKLET SERİSİ HEYECANI BAŞLADI
+title: Serik'te Dünya Bisiklet Serisi Heyecanı Başladı
 date: '2026-11-05T11:56:00+03:00'
 ozet: Uluslararası Bisiklet Birliği'nin dünya serisi Türkiye ayağı, 40'tan fazla ülkeden 1000'i aşkın sporcunun katılımıyla Serik'te start aldı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg/1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/serikte-uci-gran-fondo-world-series-turkiye-basladi
+baslik_ozgun: SERİK'TE DÜNYA BİSİKLET SERİSİ HEYECANI BAŞLADI
 ---
 Serik, bu yıl ilk kez düzenlenen UCI Gran Fondo World Series Türkiye organizasyonuna ev sahipliği yapıyor. 5-8 Kasım tarihleri arasında gerçekleştirilen dev organizasyon, The Land of Legends'ta kurulan Expo Alanı'nın açılışı ve yarış kitlerinin dağıtımıyla başladı. 40'ı aşkın ülkeden 1000'den fazla bisikletçiyi bir araya getiren etkinlik, ilk gün düzenlenen 'Go Türkiye- Go Cycling' paneliyle spor dünyasının dikkatini bölgeye çekti.
 

@@ -83,6 +83,8 @@ gorsel_gecmis:
       kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
     kurum: k4
   degisim: '2026-11-05T20:15:23+03:00'
+etiketler:
+- Alanya Belediyesi
 ---
 Alanya Belediyesi'nin Mahmutlar Mahallesi'nde hayata geçirdiği yeni sosyal tesis, açılışının hemen ardından hem yerli hem de yabancı ziyaretçilerin akınına uğradı. Geniş sosyal alanları ve bütçe dostu menü seçenekleriyle dikkat çeken merkez, güneşli havalarda bölge halkının en çok tercih ettiği buluşma noktalarından biri haline geldi.
 

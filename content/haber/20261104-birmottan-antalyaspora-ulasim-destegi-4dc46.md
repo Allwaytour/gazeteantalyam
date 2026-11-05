@@ -83,6 +83,10 @@ gorsel_gecmis:
     qid: Q43710
     kurum: k4
   degisim: '2026-11-05T21:34:33+03:00'
+etiketler:
+- Taylan Filiz
+- Birmot
+- Antalyaspor
 ---
 Otomotiv perakendeciliği sektöründe faaliyet gösteren Birmot, Antalya'nın en önemli futbol değerlerinden biri olan Antalyaspor ile sponsorluk anlaşmasına imza attı. Şirket tarafından yapılan yazılı açıklamaya göre, gerçekleştirilen iş birliği kapsamında Akdeniz ekibine ulaşım alanında destek sağlanacak.
 

@@ -45,6 +45,10 @@ kaynak_url: https://www.akdenizgercek.com.tr/manavgat/manavgat-esnafi-nefes-kred
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+etiketler:
+- Önem Gök
+- Manavgat Ticaret ve Sanayi Odası
+- TOBB
 ---
 Antalya'nın Manavgat ilçesinde, yükselen işletme maliyetleri karşısında yerel ekonomiyi desteklemek üzere bir finans toplantısı gerçekleştirildi. Manavgat Ticaret ve Sanayi Odası oda hizmet binasında düzenlenen istişare buluşmasında, TOBB Nefes Kredisi çerçevesinde kaynak sağlayacak bankaların ilçe merkezindeki şube müdürleri bir araya geldi. Oda yönetim kurulu üyelerinin de katıldığı oturumda, işletmelerin finansmana ulaşımını kolaylaştıracak başvuru adımları ve pratik çözümler masaya yatırıldı.
 

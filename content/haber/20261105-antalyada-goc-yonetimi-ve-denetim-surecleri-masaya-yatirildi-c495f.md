@@ -1,5 +1,5 @@
 ---
-title: ANTALYA'DA GÖÇ YÖNETİMİ VE DENETİM SÜREÇLERİ MASAYA YATIRILDI
+title: Antalya'da Göç Yönetimi ve Denetim Süreçleri Masaya Yatırıldı
 date: '2026-11-05T17:19:30+03:00'
 ozet: Antalya'da düzenlenen dört günlük toplantıda göç yönetimi stratejileri, denetim mekanizmaları ve insan hakları odaklı uygulamalar ele alındı.
 gorsel: /images/kategori/gundem.png
@@ -20,12 +20,12 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: fdc263a65441
+  konu_imza: ac3b98004bc2
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:42:58+03:00'
+    tarih: '2026-11-06T00:34:36+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -34,7 +34,6 @@ gorsel_secim:
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönet'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönetimi toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
   kapak_surum: c5
-  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +44,12 @@ kaynak_url: https://www.yenisafak.com/gundem/antalyada-goc-yonetimi-toplantisi-d
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Halil Avşar
+- Zafer Öz
+- Mülkiye Teftiş Kurulu
+- Göç İdaresi Başkanlığı
+baslik_ozgun: ANTALYA'DA GÖÇ YÖNETİMİ VE DENETİM SÜREÇLERİ MASAYA YATIRILDI
 ---
 Antalya'da gerçekleştirilen ve dört gün süren kapsamlı bir eğitim ve değerlendirme toplantısında göç yönetimi alanındaki stratejik hedefler masaya yatırıldı. Toplantının açılış konuşmalarını Antalya Vali Yardımcısı Halil Avşar ile Rehberlik ve Denetim Başkanı Zafer Öz yaptı. Etkinliğe Mülkiye Teftiş Kurulu Başkan Yardımcıları, Mülkiye Başmüfettişleri, Göç İdaresi Başkanlığı birim amirleri ve denetim personeli katılım sağladı.
 

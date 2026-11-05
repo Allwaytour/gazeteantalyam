@@ -1,5 +1,5 @@
 ---
-title: FENERBAHÇE BASKONI'YI RAHAT GEÇTİ
+title: Fenerbahçe Baskonı'yı Rahat Geçti
 date: '2026-11-05T23:26:00+03:00'
 ozet: Euroleague mücadelesinde Fenerbahçe, rakibi Kosner Baskonia'yı 84-65'lik skorla mağlup ederek sahadan galibiyetle ayrıldı.
 gorsel: /images/kategori/spor.png
@@ -51,6 +51,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/euroleague-fenerbahce-84-kosner-baskonia-65
+baslik_ozgun: FENERBAHÇE BASKONI'YI RAHAT GEÇTİ
 ---
 Ülker Spor ve Etkinlik Salonu'nda oynanan Euroleague karşılaşmasında Fenerbahçe, Kosner Baskonia'yı konuk etti. Mücadeleye hızlı başlayan sarı-lacivertli ekip, ilk periyodu 33-18 önde tamamlarken, oyunun kontrolünü elinde tutmaya devam etti.
 

@@ -47,6 +47,10 @@ kaynak_url: https://www.akdenizgercek.com.tr/kepez/antalyada-drag-heyecani-kepez
 gorsel_onceki:
   gorsel: /images/kurum/415e8b37beec347b.jpg
   gorsel_kredi: 'Fotoğraf: Kepez Belediyesi'
+etiketler:
+- Mesut Kocagöz
+- Türkiye Otomobil Sporları Federasyonu
+- Kepez Belediyesi
 ---
 Antalya'nın Kepez ilçesi, hafta sonu motor sporları tutkunlarını buluşturacak önemli bir organizasyona ev sahipliği yapmaya hazırlanıyor. Türkiye Otomobil Sporları Federasyonu organizatörlüğünde gerçekleştirilecek Türkiye OtoDrag Şampiyonası 4. Ayak yarışları, 7-8 Kasım 2026 tarihlerinde Kepez Yeni Drag Pisti'nde sporseverlerle buluşacak. Ülkenin farklı illerinden gelen sporcular, yüksek performanslı araçlarıyla dereceye girebilmek için pistte ter dökecek.
 

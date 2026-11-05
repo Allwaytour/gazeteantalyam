@@ -1,5 +1,5 @@
 ---
-title: 'GAZİPAŞA-ALANYA HATTINDA TURİZM HAREKETLİLİĞİ: 730 BİN YOLCU AŞILDI'
+title: 'Gazipaşa-Alanya Hattında Turizm Hareketliliği: 730 Bin Yolcu Aşıldı'
 date: '2026-11-05T14:50:00+03:00'
 ozet: Antalya'nın turizm merkezlerinden Gazipaşa-Alanya hattı, yılın ilk 9 ayında 730 bini aşkın yolcuyu ağırlayarak bölge ekonomisine önemli katkı sağladı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg/1280px-Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanya-ve-gazipasa-hattinda-turizm-hareketliligi
+baslik_ozgun: 'GAZİPAŞA-ALANYA HATTINDA TURİZM HAREKETLİLİĞİ: 730 BİN YOLCU AŞILDI'
 ---
 Türkiye genelinde turizm verileri yılın ilk 9 ayında güçlü bir ivme yakalarken, Antalya bu hareketliliğin merkezinde yer aldı. Kültür ve Turizm Bakanlığı verilerine göre ülke genelinde 49 milyonu aşkın ziyaretçi ağırlanırken, Antalya tek başına 12,4 milyon yabancı turiste ev sahipliği yaptı.
 

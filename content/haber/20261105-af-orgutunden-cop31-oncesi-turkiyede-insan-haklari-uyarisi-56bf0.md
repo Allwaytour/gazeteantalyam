@@ -1,5 +1,5 @@
 ---
-title: AF ÖRGÜTÜ'NDEN COP31 ÖNCESİ TÜRKİYE'DE İNSAN HAKLARI UYARISI
+title: Af Örgütü'nden COP31 Öncesi Türkiye'de İnsan Hakları Uyarısı
 date: '2026-11-05T21:15:31+03:00'
 ozet: Uluslararası Af Örgütü, Türkiye'de düzenlenecek BM İklim Konferansı öncesinde insan hakları ihlallerine dikkat çekerek, ifade ve protesto özgürlüğünün korunması çağrısında bulundu.
 gorsel: /images/kategori/gundem.png
@@ -48,6 +48,7 @@ otomatik: true
 yz: true
 kaynak: DW.com
 kaynak_url: https://amp.dw.com/tr/af-%C3%B6rg%C3%BCt%C3%BCnden-cop31-%C3%B6ncesi-t%C3%BCrkiyede-insan-haklar%C4%B1-ihlalleri-uyar%C4%B1s%C4%B1-g%C3%B6rmezden-gelmeyin/a-79869839
+baslik_ozgun: AF ÖRGÜTÜ'NDEN COP31 ÖNCESİ TÜRKİYE'DE İNSAN HAKLARI UYARISI
 ---
 Uluslararası Af Örgütü, 9-20 Kasım tarihleri arasında Türkiye'nin ev sahipliğinde gerçekleştirilecek 31. Birleşmiş Milletler İklim Konferansı (COP31) öncesinde bir açıklama yayımladı. Örgüt, Türkiye'de gazeteciler, çevre aktivistleri ve LGBTI topluluğu üyelerine yönelik baskıların derinleştiğini belirterek, bu durumun göz ardı edilmemesi gerektiğini vurguladı.
 

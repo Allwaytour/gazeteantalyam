@@ -1,5 +1,5 @@
 ---
-title: GAZİPAŞA BELEDİYESPOR TARAFTARINA DENİZLİ DEPLASMANINDA TRİBÜN YASAĞI
+title: Gazipaşa Belediyespor Taraftarına Denizli Deplasmanında Tribün Yasağı
 date: '2026-11-05T11:42:00+03:00'
 ozet: Gazipaşa Belediyespor'un deplasmanda oynayacağı Yeşil Çivril Belediyespor karşılaşmasına, stadyumun fiziki yetersizliği nedeniyle misafir seyirci alınmayacak.
 gorsel: /images/kategori/spor.png
@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/gazipasa-belediyespor-taraftarina-civril-deplasmani-yasagi
+baslik_ozgun: GAZİPAŞA BELEDİYESPOR TARAFTARINA DENİZLİ DEPLASMANINDA TRİBÜN YASAĞI
 ---
 Profesyonelliğe Geçiş Ligi 12'nci Grup'ta mücadele eden Gazipaşa Belediyespor, ligin 4'üncü haftasında Denizli temsilcisi Yeşil Çivril Belediyespor'a konuk olmaya hazırlanıyor. 8 Kasım Pazar günü saat 14.00'te Çivril İlçe Stadı'nda oynanacak müsabaka öncesinde, ev sahibi ekibin stadyum koşulları nedeniyle önemli bir güvenlik kararı alındı.
 

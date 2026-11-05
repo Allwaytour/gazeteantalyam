@@ -84,6 +84,8 @@ gorsel_gecmis:
     kapak_surum: c3
     zorla: g9.4-2026-11-05:5
   degisim: '2026-11-05T22:19:56+03:00'
+etiketler:
+- Antalyaspor
 ---
 Antalyaspor Kulübü, son günlerde basında yer alan ve futbolcuların ödemelerini alamadıkları gerekçesiyle antrenmana çıkmayı reddettiğini öne süren iddialara sert bir dille tepki gösterdi. Yapılan açıklamada, söz konusu haberlerin kasıtlı olduğu ve kulübü yıpratmayı amaçladığı vurgulandı.
 

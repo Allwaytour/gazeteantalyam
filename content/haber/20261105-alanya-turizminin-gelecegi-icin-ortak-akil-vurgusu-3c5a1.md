@@ -1,5 +1,5 @@
 ---
-title: ALANYA TURİZMİNİN GELECEĞİ İÇİN ORTAK AKIL VURGUSU
+title: Alanya Turizminin Geleceği İçin Ortak Akıl Vurgusu
 date: '2026-11-05T16:20:00+03:00'
 ozet: Alanya'nın turizm potansiyelini artırmak ve marka değerini güçlendirmek amacıyla sektör temsilcileriyle bir araya gelindi.
 gorsel: /images/kategori/turizm.png
@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/altsoda-gundem-alanya-turizmi
+baslik_ozgun: ALANYA TURİZMİNİN GELECEĞİ İÇİN ORTAK AKIL VURGUSU
 ---
 Alanya ekonomisinin en önemli yapı taşlarından biri olan turizm sektörü, düzenlenen toplantıda masaya yatırıldı. Sektörün gelişimine katkı sağlamak amacıyla düzenlenen görüşmede, ortak akıl ve istişare kültürünün önemine vurgu yapıldı.
 

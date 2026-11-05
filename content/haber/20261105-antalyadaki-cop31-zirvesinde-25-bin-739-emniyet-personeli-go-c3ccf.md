@@ -46,6 +46,9 @@ kaynak_url: https://www.akdenizmanset.com.tr/cop31-zirvesinde-25-bin-739-emniyet
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Emniyet Genel Müdürlüğü
+- Antalya Emniyet Müdürlüğü
 ---
 Antalya'da düzenlenecek küresel ölçekteki COP31 zirvesinin huzur ve güven ortamında gerçekleştirilmesi amacıyla kapsamlı bir güvenlik planlaması hayata geçirildi. Emniyet Teşkilatı, devlet ve hükümet başkanları ile çok sayıda uluslararası delegenin katılacağı dev organizasyon için hazırlıklarını titizlikle sürdürüyor.
 

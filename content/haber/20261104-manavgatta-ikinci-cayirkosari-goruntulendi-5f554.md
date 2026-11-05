@@ -94,6 +94,9 @@ gorsel_gecmis:
     alt_tur: yer_konu
     kurum: k4
   degisim: '2026-11-05T21:21:24+03:00'
+etiketler:
+- Gökçe Coşkun
+- Antalya Kuş Gözlem Topluluğu
 ---
 Türkiye'de ilk kez Antalya'nın Manavgat ilçesinde rastlanan çayırkoşarı kuşunun ikinci bireyi de aynı bölgede tespit edildi. Kuzey ile Güney Amerika arasında yaklaşık 10 bin kilometrelik göç yolculuğu yapan türün ilk bireyi, Manavgat Nehri'nin denize döküldüğü alanda Hollandalı bir kuş gözlemcisi tarafından kayıt altına alınmıştı. Bu gelişmenin ardından ülkenin farklı kentlerinden çok sayıda kuş gözlemcisi bölgeye akın etmişti.
 

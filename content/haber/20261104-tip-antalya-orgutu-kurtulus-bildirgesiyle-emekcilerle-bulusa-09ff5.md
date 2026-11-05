@@ -53,6 +53,9 @@ kaynak_url: https://www.antalyagundem.com.tr/tip-antalya-orgutunden-sert-elestir
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Yunus Başaran
+- Türkiye İşçi Partisi
 ---
 Türkiye İşçi Partisi tarafından "Kurtuluş Ellerimizde" sloganıyla hazırlanan bildirgede vatandaşlar emek, eşitlik ve dayanışma etrafında birleşmeye davet edildi. Siyasi düzen ile sağ politikaların eleştirildiği metinde; eğitim, sağlık, barınma, iş güvencesi, kadın hakları ve çevre koruma başlıklarında çözüm yollarının birlikte aranması amaçlandığı ifade edildi.
 

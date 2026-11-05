@@ -54,6 +54,9 @@ kaynak_url: https://www.alanyaturk.com/alanyada-kutsi-yarin-pashada-kulaklarin-p
 gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
+etiketler:
+- Kutsi
+- Pasha Et & Balık Restaurant
 ---
 Alanya'da hizmet veren Pasha Et & Balık Restaurant, yarın akşam ünlü sanatçı Kutsi'yi ağırlamaya hazırlanıyor. Canlı müzik ve gastronomiyi buluşturan mekan, yoğun istek üzerine sanatçıyı yeniden konuk edecek.
 

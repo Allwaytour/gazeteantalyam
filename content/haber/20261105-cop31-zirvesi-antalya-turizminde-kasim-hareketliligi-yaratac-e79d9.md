@@ -1,5 +1,5 @@
 ---
-title: COP31 ZİRVESİ ANTALYA TURİZMİNDE KASIM HAREKETLİLİĞİ YARATACAK
+title: COP31 Zirvesi Antalya Turizminde Kasım Hareketliliği Yaratacak
 date: '2026-11-05T16:59:24+03:00'
 ozet: Kasım ayında Antalya EXPO alanında düzenlenecek COP31 İklim Zirvesi, kentteki turizm tesislerinde yoğun bir hareketlilik beklentisi oluşturdu.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Expo_2016_Antalya_-_West_View.jpg/1280px-Expo_2016_Antalya_-_West_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Haber Antalya
 kaynak_url: https://www.haberantalya.com/cop31-antalyada-turizmi-hareketlendirecek-kasimda-otellere-yogun-talep/533072
+baslik_ozgun: COP31 ZİRVESİ ANTALYA TURİZMİNDE KASIM HAREKETLİLİĞİ YARATACAK
 ---
 Antalya, kasım ayında turizm sezonunun normal seyrinin ötesinde uluslararası bir organizasyona ev sahipliği yapmaya hazırlanıyor. 9-20 Kasım tarihleri arasında Antalya EXPO alanında gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında düzenlenecek COP31, kentin turizm sektöründe önemli bir hareketlilik yaratması bekleniyor. Zirveye 196 ülkeden on binlerce ziyaretçinin yanı sıra çok sayıda devlet başkanı ve bakanın katılması öngörülüyor.
 

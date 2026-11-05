@@ -45,6 +45,10 @@ kaynak_url: https://www.bomba15.com/antalyada-siyaset-gundemini-sarsan-istifa-ch
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Saniye Caran
+- Cumhuriyet Halk Partisi
+- Korkuteli Belediyesi
 ---
 Antalya'nın Korkuteli ilçesinde siyasi gündemi değiştiren önemli bir gelişme yaşandı. 31 Mart 2024 Mahalli İdareler Seçimleri'nde Cumhuriyet Halk Partisi'nden aday olarak belediye başkanlığı koltuğuna oturan Saniye Caran, partisinden ayrıldığını duyurdu. Yazılı bir açıklama yapan Caran, bundan sonraki süreçte görevine bağımsız belediye başkanı olarak devam edeceğini bildirdi.
 

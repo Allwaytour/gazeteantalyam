@@ -1,5 +1,5 @@
 ---
-title: TOSMUR MUHTARI YAKUP GÜNDOĞAN'DAN ALTYAPI TEPKİSİ
+title: Tosmur Muhtarı Yakup Gündoğan'dan Altyapı Tepkisi
 date: '2026-11-05T10:37:00+03:00'
 ozet: Alanya'nın Tosmur Mahallesi'nde yaşanan su baskını sonrası Muhtar Yakup Gündoğan, yapılan altyapı çalışmalarının yetersiz kaldığını belirterek kalıcı çözüm çağrısında bulundu.
 gorsel: /images/kategori/gundem.png
@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-muhtar-isyan-etti-ben-gercekten-yoruldum
+baslik_ozgun: TOSMUR MUHTARI YAKUP GÜNDOĞAN'DAN ALTYAPI TEPKİSİ
 ---
 Alanya'nın Tosmur Mahallesi'nde etkili olan yağışlar, bölgedeki yağmur suyu altyapısı sorununu yeniden gün yüzüne çıkardı. Mahallede bir sokakta meydana gelen su birikintileri üzerine tepkisini dile getiren Tosmur Mahalle Muhtarı Yakup Gündoğan, daha önce gerçekleştirilen drenaj çalışmalarının sorunu çözmekte yetersiz kaldığını ifade etti.
 

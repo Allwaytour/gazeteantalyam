@@ -1,5 +1,5 @@
 ---
-title: ALANYA'NIN İL OLMASI İÇİN SİYASİLERDEN ORTAK ÇAĞRI
+title: Alanya'nın İl Olması İçin Siyasilerden Ortak Çağrı
 date: '2026-11-05T11:38:00+03:00'
 ozet: Alanya'nın il statüsü kazanması talebi gündemdeki yerini korurken, ilçe siyasetinden konuya dair önemli açıklamalar geldi.
 gorsel: /images/kategori/gundem.png
@@ -55,6 +55,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyanin-il-statusu-icin-muhalefetten-ortak-destek
+baslik_ozgun: ALANYA'NIN İL OLMASI İÇİN SİYASİLERDEN ORTAK ÇAĞRI
 ---
 Alanya'nın il statüsüne kavuşması yönündeki beklentiler devam ederken, ilçedeki siyasi parti temsilcilerinden konuya ilişkin değerlendirmeler geldi. Zafer Partisi Alanya İlçe Başkanı Fikret Türkoğlu, ilçenin il olma hedefini desteklediklerini ancak bu sürecin Türkiye'nin üniter yapısını zedeleyecek veya eyaletleşme tartışmalarına zemin hazırlayacak bir formata dönüşmemesi gerektiğini belirtti. Türkoğlu, üniter yapının kırmızı çizgileri olduğunu ifade ederek, il olma sürecinin bu hassasiyetler gözetilerek yürütülmesi gerektiğini vurguladı.
 

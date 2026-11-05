@@ -1,5 +1,5 @@
 ---
-title: 'ALANYA''DA MUTFAK TÜPÜNE ZAM: FİYAT 1.855 TL''YE YÜKSELDİ'
+title: 'Alanya''da Mutfak Tüpüne Zam: Fiyat 1.855 TL''ye Yükseldi'
 date: '2026-11-05T23:14:00+03:00'
 ozet: Alanya'da 12 kilogramlık mutfak tüpünün fiyatına 200 TL zam geldi. Yeni Parti İlçe Başkanı Bülent Kandemir, artan hayat pahalılığına tepki gösterdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a1/Cooking_gas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-mutfak-tupune-200-tl-zam-tepkisi-kandemir-vatandas-bu-yuku-hak-etmiyor
+baslik_ozgun: 'ALANYA''DA MUTFAK TÜPÜNE ZAM: FİYAT 1.855 TL''YE YÜKSELDİ'
 ---
 Alanya'da temel ihtiyaç ürünlerine gelen zamlar, vatandaşın mutfak giderlerini zorlamaya devam ediyor. Son olarak 12 kilogramlık mutfak tüpünün fiyatında yapılan 200 TL'lik artış, bölgedeki ekonomik tartışmaları yeniden alevlendirdi. Söz konusu zammın ardından tüpün satış fiyatı 1.655 TL'den 1.855 TL seviyesine çıktı.
 

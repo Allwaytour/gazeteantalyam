@@ -1,5 +1,5 @@
 ---
-title: EDWARD BURTYNSKY'NİN DÖNÜŞEN YERYÜZÜ SERGİSİ COP31 KAPSAMINDA ANTALYA'DA
+title: Edward Burtynsky'nin Dönüşen Yeryüzü Sergisi COP31 Kapsamında Antalya'da
 date: '2026-11-05T16:11:25+03:00'
 ozet: Dünyaca ünlü fotoğraf sanatçısı Edward Burtynsky'nin insan müdahalesini belgeleyen özel sergisi, COP31 İklim Değişikliği Konferansı süresince Akra Antalya'da sanatseverlerle buluşuyor.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ed_Burtynsky_%2838148537%29.jpg/1280px-Ed_Burtynsky_%2838148537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: NTV Haber
 kaynak_url: https://www.ntv.com.tr/yasam/edward-burtynsky-donusen-yeryuzu-cop31-ozel-seckisi-akra-antalyada-1749556
+baslik_ozgun: EDWARD BURTYNSKY'NİN DÖNÜŞEN YERYÜZÜ SERGİSİ COP31 KAPSAMINDA ANTALYA'DA
 ---
 Çağdaş fotoğraf sanatının önde gelen isimlerinden Edward Burtynsky'nin "Dönüşen Yeryüzü" adlı sergisinden özel bir seçki, 9-20 Kasım tarihleri arasında Antalya'da ziyarete açılıyor. COP31 Birleşmiş Milletler İklim Değişikliği Konferansı ile eş zamanlı olarak düzenlenen etkinlik, iklim değişikliği ve sürdürülebilirlik konularına sanatın penceresinden bakmayı hedefliyor.
 

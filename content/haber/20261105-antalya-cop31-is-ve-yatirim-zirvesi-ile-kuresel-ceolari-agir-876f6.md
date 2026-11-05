@@ -46,6 +46,10 @@ kaynak_url: https://www.yenialanya.com/antalyada-tarihi-cop31-zirvesi-55-ulkeden
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+etiketler:
+- Rifat Hisarcıklıoğlu
+- Türkiye Odalar ve Borsalar Birliği
+- TOBB
 ---
 Türkiye Odalar ve Borsalar Birliği koordinasyonunda hayata geçirilecek COP31 İş ve Yatırım Zirvesi, 12 ile 13 Kasım 2026 tarihlerinde Antalya'da düzenlenecek. İklim hedeflerini somut yatırımlara dönüştürmeyi amaçlayan dev organizasyon, dünyanın dört bir yanından kamu ve özel sektör temsilcilerini aynı masada buluşturacak.
 

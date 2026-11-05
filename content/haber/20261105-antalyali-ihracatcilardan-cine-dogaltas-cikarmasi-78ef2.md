@@ -159,6 +159,12 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:3
   degisim: '2026-11-05T21:21:07+03:00'
+etiketler:
+- Mustafa Küçükyaman
+- Mustafa Tekin
+- Batı Akdeniz İhracatçılar Birliği
+- Yunfu Belediye Başkanlığı
+- Yunfu Stone Industry Association
 ---
 Bati Akdeniz Ihracatcilar Birligi, dunyanin en buyuk tas isleme merkezleri arasinda yer alan Cin'in Yunfu ve Shuitou sehirlerine dogaltas sektorel ticaret heyeti duzenledi. Gerceklestirilen ziyaretlerde resmi kurum temsilcileri ile sektore yon veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Bati Akdeniz Ihracatcilar Birligi'ni Baskan Yardimcisi Mustafa Kucukyaman ve Denetim Kurulu Uyesi Mustafa Tekin temsil etti.
 

@@ -74,6 +74,10 @@ gorsel_gecmis:
     qid: Q274918
     kurum: k4
   degisim: '2026-11-05T21:17:24+03:00'
+etiketler:
+- Sururi Çorabatır
+- CHP
+- TBMM Plan ve Bütçe Komisyonu
 ---
 Cumhuriyet Halk Partisi (CHP) Antalya Milletvekili Sururi Çorabatır, Türkiye Büyük Millet Meclisi (TBMM) Plan ve Bütçe Komisyonu’nda ekonomiye dair değerlendirmelerde bulundu. İhracat rakamlarında rekor artışlardan söz edilmesine rağmen bu tablonun ülke refahına aynı ölçüde yansımadığını belirten Çorabatır, sanayici, üretici, esnaf ve vatandaşın yaşadığı ekonomik zorlukların ele alınması gerektiğini ifade etti.
 

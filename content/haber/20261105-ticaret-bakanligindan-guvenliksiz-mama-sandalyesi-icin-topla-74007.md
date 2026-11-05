@@ -1,5 +1,5 @@
 ---
-title: TİCARET BAKANLIĞI'NDAN GÜVENLİKSİZ MAMA SANDALYESİ İÇİN TOPLATMA KARARI
+title: Ticaret Bakanlığı'ndan Güvenliksiz Mama Sandalyesi İçin Toplatma Kararı
 date: '2026-11-05T21:49:00+03:00'
 ozet: Ticaret Bakanlığı, güvenlik standartlarına uymadığı ve düşme riski taşıdığı belirlenen bir mama sandalyesi modeli için toplatma kararı aldı.
 gorsel: /images/kategori/gundem.png
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/ticaret-bakanligindan-dusme-riski-bulunan-mama-sandalyesine-yasak
+baslik_ozgun: TİCARET BAKANLIĞI'NDAN GÜVENLİKSİZ MAMA SANDALYESİ İÇİN TOPLATMA KARARI
 ---
 Ticaret Bakanlığı tarafından yürütülen piyasa gözetimi ve denetim çalışmaları sonucunda, bebek ve çocukların kullanımı için üretilen bir mama sandalyesinde ciddi güvenlik eksiklikleri tespit edildi. Yapılan teknik incelemelerde, ürünün güvenlik barı ile bacak açıklığı arasındaki mesafenin belirlenen standartların altında kaldığı saptandı.
 

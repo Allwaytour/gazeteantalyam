@@ -1,5 +1,5 @@
 ---
-title: AKSU TURİZM VERİLERİNDE YÜZDE 132 DOLULUK ORANI TARTIŞMALARI
+title: Aksu Turizm Verilerinde Yüzde 132 Doluluk Oranı Tartışmaları
 date: '2026-11-05T20:09:00+03:00'
 ozet: Aksu'da basit belgeli otellerin doluluk oranının yüzde 132'yi aşması, turizm istatistiklerinin hesaplama yöntemlerini yeniden gündeme getirdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalyada-otel-dolulugu-yuzde-132yi-asti-veriler-tartisiliyor
+baslik_ozgun: AKSU TURİZM VERİLERİNDE YÜZDE 132 DOLULUK ORANI TARTIŞMALARI
 ---
 Antalya'nın turizm merkezlerinden Aksu'da, 2026 yılının ilk sekiz ayına ait konaklama istatistikleri dikkat çekici bir tabloyu ortaya koydu. Kültür ve Turizm Bakanlığı verilerine dayanan analizlere göre, ilçedeki basit konaklama belgeli otellerin doluluk oranı yüzde 132,43 seviyesine ulaştı. Ancak bu artışa rağmen, ilçedeki toplam geceleme sayısında bir önceki yılın aynı dönemine göre yaklaşık yüzde 2'lik bir düşüş yaşanarak 4 milyon 272 bin 638 seviyesine gerilediği görüldü.
 

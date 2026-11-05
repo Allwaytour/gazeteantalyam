@@ -59,6 +59,9 @@ kaynak_url: https://www.yenialanya.com/iyi-partiden-cagri-alanyanin-il-olma-hakk
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Hilmi Er
+- İyi Parti
 ---
 Alanya'nın il yapılması tartışmaları sürerken, süreçle ilgili kamuoyunda yoğun bir bilgi kirliliği yaşandığı bildirildi. Konuya ilişkin değerlendirmelerde bulunan İyi Parti Alanya İlçe Başkanı Hilmi Er, kentin il statüsü kazanmasının herhangi bir siyasi iradenin veya iktidarın lütfu olmadığını savundu. Alanya'nın il olmasının Selçuklu'dan bugüne taşınan tarihsel bir hak ile ekonomik, sosyal ve kültürel bir zorunluluk olduğunu ifade etti.
 

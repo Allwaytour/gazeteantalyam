@@ -1,5 +1,5 @@
 ---
-title: ALANYA ULUSLARARASI BARMENLER YARIŞMASINA EV SAHİPLİĞİ YAPACAK
+title: Alanya Uluslararası Barmenler Yarışmasına Ev Sahipliği Yapacak
 date: '2026-11-05T12:52:00+03:00'
 ozet: Avrupa ve Asya'dan profesyonelleri buluşturacak Eurasia Mixology Cup 2026, 6-9 Kasım tarihleri arasında Alanya'da düzenlenecek.
 gorsel: https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29ja3RhaWwlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTA0MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/dunyanin-en-iyileri-geliyor-avrupa-ve-asya-alanyada-bulusuyor
+baslik_ozgun: ALANYA ULUSLARARASI BARMENLER YARIŞMASINA EV SAHİPLİĞİ YAPACAK
 ---
 Alanya, 6–9 Kasım 2026 tarihleri arasında düzenlenecek Eurasia Mixology Cup 2026 Uluslararası Barmenler Yarışması ile önemli bir organizasyona ev sahipliği yapmaya hazırlanıyor. NoxInn Deluxe Hotel'in ev sahipliğinde gerçekleşecek etkinlik; Uluslararası Barmenler Birliği (IBA), Alanya Yiyecek İçecek Yöneticileri Derneği (AYİY-DER), TAMDER ve Türkiye Barmenler Topluluğu iş birliğiyle organize ediliyor. Etkinlik, Avrupa ve Asya'dan gelecek çok sayıda profesyonel barmen, jüri üyesi ve sektör temsilcisini bir araya getirecek.
 

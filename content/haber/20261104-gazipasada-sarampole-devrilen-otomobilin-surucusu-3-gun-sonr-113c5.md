@@ -44,6 +44,9 @@ kaynak_url: https://www.akdenizgercek.com.tr/gazipasa/gazipasada-sarampole-yuvar
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- Antalya Büyükşehir Belediyesi İtfaiye
+- Gazipaşa Devlet Hastanesi
 ---
 Antalya'nın Gazipaşa ilçesinde geçtiğimiz günlerde meydana gelen trafik kazasında ağır yaralanan otomobil sürücüsü, tedavi gördüğü hastanede yaşamını yitirdi. Kaza, 1 Kasım 2026 tarihinde gece saat 01.00 sıralarında Ilıca Mahallesi'nde yaşandı.
 

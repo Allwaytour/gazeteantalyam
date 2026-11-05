@@ -58,6 +58,8 @@ kaynak_url: https://www.antalyahurses.com/turkiye-nufusu-86-milyon-502-bini-gect
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Türkiye İstatistik Kurumu
 ---
 Türkiye İstatistik Kurumu, dönemsel nüfus istatistiklerini kamuoyuyla paylaştı. Açıklanan verilere göre ülke genelindeki nüfus, 2026 yılının ilk dokuz aylık sürecinde 410 bin 118 kişilik bir artış kaydetti. Yılın belirli bir döneminde ise nüfus 181 bin 684 kişi daha yükseldi ve 1 Ekim 2026 tarihi itibarıyla toplam nüfus 86 milyon 502 bin 286 kişiye ulaştı. Ülke genelindeki nüfusun dağılımında erkekler yüzde 50,02 oranla 43 milyon 264 bin 337 kişi olurken, kadınlar yüzde 49,98 oranla 43 milyon 237 bin 949 kişi olarak kayıtlara geçti.
 

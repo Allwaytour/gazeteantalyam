@@ -44,6 +44,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/atib-baskanli
 gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
+etiketler:
+- Murat Barçın
 ---
 Antalya Alternatif Turizm Etkinlikleri ve İşletmeleri Birliği Derneğinde gerçekleştirilen olağan genel kurul toplantısıyla yeni yönetim belirlendi. Muratpaşa ilçesinde yapılan seçimlerde, Murat Barçın başkanlığındaki liste oy birliğiyle görevi devraldı. Gerçekleşen genel kurulla birlikte derneğin yeni yönetiminde Adnan Doğukan Ak, Haydar Culfa, Süleyman Yüce ve Tolga Özgüven isimleri yer aldı.
 

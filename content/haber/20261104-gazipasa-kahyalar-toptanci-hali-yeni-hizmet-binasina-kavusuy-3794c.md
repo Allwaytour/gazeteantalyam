@@ -59,6 +59,9 @@ kaynak_url: https://ajanscanka.com/gazipasa-kahyalar-toptanci-haline-yeni-hizmet
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+etiketler:
+- Mehmet Ali Yılmaz
+- Gazipaşa Belediyesi
 ---
 Antalya’nın Gazipaşa ilçesinde, belediye tarafından esnaf ve üreticilerin talepleri doğrultusunda planlanan Kahyalar Toptancı Hali için yeni ek hizmet binası yapım çalışmaları hızla sürüyor. Yapılan projeyle bölgedeki ticaret koşullarının daha modern bir yapıya kavuşturulması hedefleniyor.
 

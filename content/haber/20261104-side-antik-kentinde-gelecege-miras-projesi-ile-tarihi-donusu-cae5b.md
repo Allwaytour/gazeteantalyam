@@ -75,6 +75,10 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: 'Trabzon Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; MEB Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
   degisim: '2026-11-05T21:17:34+03:00'
+etiketler:
+- Feriştah Alanyalı
+- Kültür ve Turizm Bakanlığı
+- Side Müzesi
 ---
 Antalya'nın Manavgat ilçesinde yer alan tarihi Side Antik Kenti, yürütülen kapsamlı çalışmalarla yeniden şekilleniyor. Kültür ve Turizm Bakanlığı öncülüğünde hayata geçirilen proje kapsamında, bölgede çok sayıda noktada kazı, restorasyon ve çevre düzenlemesi yapılıyor.
 

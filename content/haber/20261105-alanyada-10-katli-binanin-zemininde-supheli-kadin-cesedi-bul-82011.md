@@ -44,6 +44,9 @@ kaynak_url: https://www.yenialanya.com/alanyada-korkunc-olay-bahcedeki-ceset-dus
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- Şifa Hastanesi
+- Emniyet güçleri
 ---
 Antalya'nın Alanya ilçesinde yer alan Kadıpaşa Mahallesi'nde şüpheli bir ölüm olayı yaşandı. Şifa Hastanesi yakınlarında konumlanan 10 katlı bir binanın beşinci katında ikamet eden yabancı uyruklu bir kadın, apartmanın zemin katında hareketsiz şekilde yatarken bulundu.
 

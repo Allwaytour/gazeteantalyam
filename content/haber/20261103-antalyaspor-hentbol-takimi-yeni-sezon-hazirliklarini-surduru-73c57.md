@@ -50,6 +50,12 @@ kaynak_url: https://m.haber7.com/spor/haber/2071394-antalyaspor-hentbol-sube-sor
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+etiketler:
+- Hakan İrban
+- Antalyaspor Hentbol Takımı
+- Antalyaspor
+- Göztepe
+- Merzifon Belediyesi
 ---
 Antalyaspor hentbol takımı, yeni sezon öncesindeki ilk hazırlık devresini yoğun antrenmanlarla geride bıraktı. Kuvvet, kondisyon ve teknik çalışmaların yer aldığı bu ilk dönemin ardından kırmızı-beyazlı ekip, İzmir Cup Turnuvası'na katılmak üzere hazırlıklarına devam ediyor. Turnuva kapsamında Göztepe, Merzifon Belediyesi, Beykoz Belediyesi ve Bursa Nilüfer Belediyesi ile karşılaşmalar oynanacak.
 

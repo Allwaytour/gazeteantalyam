@@ -44,6 +44,8 @@ kaynak_url: https://www.iha.com.tr/antalya-haberleri/marketten-alisveris-yapti-p
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- Antalya Emniyet Müdürlüğü
 ---
 Antalya'nın Muratpaşa ilçesinde faaliyet gösteren bir zincir markette meydana gelen olayda, reyonlardan yaklaşık 3 bin 500 lira tutarında ürün alan şüpheli, kasadan ödeme yapmadan çıkışa yöneldi. Durumu fark eden güvenlik görevlisi şüpheliye müdahale etmek istedi. Güvenlik görevlisini fark etmesi üzerine arbede yaşandı ve şüpheli, görevliyi kesici aletle vücudunun çeşitli yerlerinden yaralayarak olay yerinden kaçtı.
 

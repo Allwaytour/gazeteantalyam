@@ -1,5 +1,5 @@
 ---
-title: ALANYA AVRUPA TURİZM PAZARLARINDAKİ YÜKSELİŞİNİ SÜRDÜRÜYOR
+title: Alanya Avrupa Turizm Pazarlarındaki Yükselişini Sürdürüyor
 date: '2026-11-05T19:07:30+03:00'
 ozet: Londra'da düzenlenen turizm fuarında temaslarda bulunan Alanya heyeti, Polonya ve İngiltere pazarlarındaki büyüme rakamlarını değerlendirdi.
 gorsel: /images/kurum/552e5f8c7c6f530a.jpg
@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Turizm Ajansı
 kaynak_url: https://www.turizmajansi.com/amp/alanya-nin-polonya-turizmindeki-gucu-coral-travel-rakamlarina-yansidi-h74618
+baslik_ozgun: ALANYA AVRUPA TURİZM PAZARLARINDAKİ YÜKSELİŞİNİ SÜRDÜRÜYOR
 ---
 Alanya, uluslararası turizm pazarlarındaki güçlü performansıyla dikkat çekmeye devam ediyor. Londra'da gerçekleştirilen World Travel Market (WTM) Fuarı'na katılan Alanya heyeti, tur operatörleriyle bir araya gelerek 2026 sezonunu değerlendirdi ve 2027 hedeflerini belirledi. Belediye Başkanı Osman Tarık Özçelik'in başkanlık ettiği heyet, bölgenin turizmdeki rekabetçi gücünü artırmak adına yoğun temaslarda bulundu.
 

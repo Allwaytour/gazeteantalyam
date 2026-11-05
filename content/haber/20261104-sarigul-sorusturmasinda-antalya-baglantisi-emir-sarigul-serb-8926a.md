@@ -44,6 +44,10 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/sarigul-sorusturmasinda-ant
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- Mustafa Sarıgül
+- İstanbul Cumhuriyet Başsavcılığı
+- Titanic Hotels
 ---
 Mustafa Sarıgül ile ailesine yönelik yürütülen soruşturmada yeni adımlar atıldı. Gözaltına alınan isimler arasında yer alan Mustafa Sarıgül’ün oğlu Emir Sarıgül, etkin pişmanlık hükümlerinden faydalandı. Emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edilen Emir Sarıgül hakkında mahkemece ev hapsi kararı verilerek tahliyesi gerçekleştirildi. Öte yandan Mustafa Sarıgül’ün geçtiğimiz hafta savcılığa ek ifade verdiği kaydedildi.
 

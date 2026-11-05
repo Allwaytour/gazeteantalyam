@@ -45,6 +45,9 @@ kaynak_url: https://www.ayancikgazetesi.com/kemer-belediyesinden-turk-futboluna-
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+etiketler:
+- Kemer Belediye Merkez Spor
+- Kemer Belediyesi
 ---
 Kemer Belediyesi öncülüğünde faaliyetlerini sürdüren Kemer Belediye Merkez Spor, U10'dan U19'a kadar farklı yaş kategorilerinde toplam 200 sporcuya ücretsiz futbol eğitimi sunuyor. Kulüpte gençlerin forma, krampon, futbol topu, teknik malzeme ve ulaşım gibi tüm temel ihtiyaçları belediye tarafından karşılanıyor. Altyapıya verilen bu destekler sayesinde daha önceki dönemlerde bazı sporcular profesyonel kulüplerin altyapı kadrolarına transfer olma başarısı gösterdi.
 

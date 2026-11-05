@@ -44,6 +44,9 @@ kaynak_url: http://mobil.hurriyet.com.tr/gundem/cayirkosarindan-yeni-surpriz-kus
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Fotoğraf: Afsarnayakkan / Wikimedia Commons (CC BY-SA 4.0)'
+etiketler:
+- Gökçe Coşkun
+- Antalya Kuş Gözlem Topluluğu
 ---
 Kuzey Amerika'da üreyip Güney Amerika'da kışlayan ve göç güzergahı bu kıtalar arasında bulunan çayırkoşarı, Türkiye'de ilk defa kayıt altına alındı. Bu gelişmenin ardından ülkenin çeşitli illerinden gelen çok sayıda kuş gözlemcisi Manavgat ilçesine geldi.
 

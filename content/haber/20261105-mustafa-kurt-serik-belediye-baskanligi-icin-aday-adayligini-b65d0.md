@@ -1,5 +1,5 @@
 ---
-title: MUSTAFA KURT SERİK BELEDİYE BAŞKANLIĞI İÇİN ADAY ADAYLIĞINI AÇIKLADI
+title: Mustafa Kurt Serik Belediye Başkanlığı İçin Aday Adaylığını Açıkladı
 date: '2026-11-05T16:01:14+03:00'
 ozet: Yeni Parti'den Serik Belediye Başkan aday adayı olan sanayi esnafı Mustafa Kurt, ilçenin tapu, trafik ve park gibi kronikleşmiş sorunlarını çözmek için yola çıktığını belirtti.
 gorsel: /images/kategori/gundem.png
@@ -65,6 +65,10 @@ kaynak_url: https://serikpostasi.com/haber/serikte-mustafa-kurt-belediye-baskan-
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Mustafa Kurt
+- Yeni Parti
+baslik_ozgun: MUSTAFA KURT SERİK BELEDİYE BAŞKANLIĞI İÇİN ADAY ADAYLIĞINI AÇIKLADI
 ---
 Serik ilçesinde uzun yıllardır sanayi esnafı olarak faaliyet gösteren Mustafa Kurt, Yeni Parti çatısı altında Serik Belediye Başkanlığı için aday adaylığını duyurdu. Yaklaşık 60 yıldır ilçede yaşayan ve bölgenin sorunlarına hakim olduğunu ifade eden Kurt, adaylık sürecine sanayi esnafının teşvikiyle girdiğini vurguladı.
 

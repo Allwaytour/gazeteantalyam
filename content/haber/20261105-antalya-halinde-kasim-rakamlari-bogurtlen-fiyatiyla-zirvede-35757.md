@@ -73,6 +73,8 @@ gorsel_gecmis:
     alt_tur: nesne
     kurum: k4
   degisim: '2026-11-05T20:14:38+03:00'
+etiketler:
+- Antalya Büyükşehir Belediyesi Toptancı Hali
 ---
 Antalya Büyükşehir Belediyesi Toptancı Hali’nin 4 Kasım 2026 tarihli günlük fiyat bülteni açıklandı. Yayımlanan listede sebze ve meyve ürünlerinin en düşük ile en yüksek işlem fiyatları netlik kazandı. Açıklanan rakamlar arasında ithal meyvelerin yüksek fiyat etiketleri göze çarptı.
 

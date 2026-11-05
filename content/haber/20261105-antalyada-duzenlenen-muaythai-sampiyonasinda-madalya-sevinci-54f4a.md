@@ -133,6 +133,8 @@ gorsel_gecmis:
       aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
       notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muaythai ring, muaythai match, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai ringi)'
   degisim: '2026-11-05T18:14:53+03:00'
+etiketler:
+- Bilecik Gençlik ve Spor İl Müdürlüğü
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilen 29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası, kıyasıya mücadelelere sahne oldu. Şampiyonada farklı yaş ve kilo gruplarında ter döken Bilecikli sporcular, başarılı sonuçlar elde ederek kürsüye çıkmayı başardı.
 

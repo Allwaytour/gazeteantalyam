@@ -75,6 +75,11 @@ gorsel_gecmis:
     kurum: k4
   degisim: '2026-11-05T21:34:49+03:00'
 gorsel_konum: 50% 22%
+etiketler:
+- Murat Kurum
+- Berkay Bahar
+- Antalya Ticaret ve Sanayi Odası
+- Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 ---
 Antalya'nın gayrimenkul ve inşaat sektöründe önemli bir yere sahip olan Aksu Altıntaş bölgesinde uzun süredir yaşanan imar ve parselasyon belirsizliği, en üst düzeyde çözüm masasına taşındı. Antalya Ticaret ve Sanayi Odası (ATSO) Yönetim Kurulu Başkan Yardımcısı Murat Totoş ve Yönetim Kurulu Üyesi Recep Mavi, bölgedeki ticari hayatı ve yatırımları olumsuz etkileyen meselelerin çözümü için hazırlanan ayrıntılı dosyayı Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'a sundu.
 

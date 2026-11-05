@@ -53,6 +53,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/boyle-tatbikat-gorulmedi
 gorsel_onceki:
   gorsel: /images/kategori/saglik.png
   gorsel_kredi: ''
+etiketler:
+- Manavgat Devlet Hastanesi
 ---
 Manavgat Devlet Hastanesi'nde olası afet ve acil durumlara hazırlıklı olmak amacıyla Hastane Afet Planı çerçevesinde kapsamlı bir tatbikat yapıldı. Hastane bahçesinde oluşturulan özel platoda gerçekleştirilen çalışmada, senaryo gereği bir kaza meydana geldi. Kazada yaralanan vatandaşlar hızla hastaneye ulaştırıldı ve acil serviste görev yapan doktor, hemşire ile sağlık çalışanları tarafından gerçeğe uygun müdahalelerde bulunuldu.
 

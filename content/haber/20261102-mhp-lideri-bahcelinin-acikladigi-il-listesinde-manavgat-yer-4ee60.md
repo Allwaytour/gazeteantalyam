@@ -135,6 +135,10 @@ gorsel_gecmis:
     kurum_notu: TBMM Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Sarıçam Belediyesi Antalya dışı kurum, kullanılmadı
   degisim: '2026-11-05T18:29:53+03:00'
 gorsel_konum: 50% 22%
+etiketler:
+- Devlet Bahçeli
+- Milliyetçi Hareket Partisi
+- Türkiye Büyük Millet Meclisi
 ---
 Türkiye genelinde zaman zaman gündeme gelen idari yapılanma tartışmaları kapsamında yeni bir gelişme yaşandı. MHP Genel Başkanı Devlet Bahçeli, hazırladıkları "100 İl, 1000 İlçe" projesinin detaylarını paylaştı ve il statüsüne kavuşması önerilen 19 ilçenin yer aldığı listeyi kamuoyuna açıkladı. Açıklanan listede Akdeniz Bölgesi'nden Alanya, Tarsus, Kozan ve Elbistan yer aldı.
 

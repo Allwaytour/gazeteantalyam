@@ -53,6 +53,11 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/iyi-parti-antalyadan-atso-b
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Ali Adnan Kaya
+- Berkay Bahar
+- İyi Parti
+- Antalya Ticaret ve Sanayi Odası
 ---
 İyi Parti Antalya İl Başkanı Ali Adnan Kaya ile İl Divan Kurulu üyeleri, Antalya Ticaret ve Sanayi Odası Başkanlığı görevine seçilen Berkay Bahar ile Yönetim Kurulu üyelerine konuk oldu. Gerçekleşen buluşmada, oda yönetiminin yeni dönemi tebrik edilirken kentteki iş dünyasının geleceğine dair iyi dilekler karşılıklı olarak paylaşıldı.
 

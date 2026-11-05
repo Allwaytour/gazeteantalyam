@@ -1,5 +1,5 @@
 ---
-title: ANTALYASPOR'DA SALİH DURSUN İLE YOLA DEVAM
+title: Antalyaspor'da Salih Dursun ile Yola Devam
 date: '2026-11-05T12:58:37+03:00'
 ozet: Antalyaspor, kiralık olarak forma giyen Salih Dursun ile 2+1 yıllık resmi sözleşme imzaladı.
 gorsel: /images/kategori/spor.png
@@ -52,6 +52,7 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/2351216-antalyaspor-salih-dursunu-kadrosuna-katti
+baslik_ozgun: ANTALYASPOR'DA SALİH DURSUN İLE YOLA DEVAM
 ---
 Antalyaspor, devre arasında Galatasaray'dan kiralık olarak kadrosuna kattığı Salih Dursun ile yola devam etme kararı aldı. Kırmızı-beyazlı kulübün asbaşkanı Bora Terzioğlu, 26 yaşındaki futbolcunun kiralık döneminde gösterdiği başarılı performansın ardından teknik heyet ve yönetimin ortak kararıyla transferin kalıcı hale getirildiğini açıkladı.
 

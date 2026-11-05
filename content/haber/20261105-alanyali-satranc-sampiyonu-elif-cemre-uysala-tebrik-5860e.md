@@ -1,5 +1,5 @@
 ---
-title: ALANYALI SATRANÇ ŞAMPİYONU ELİF CEMRE UYSAL'A TEBRİK
+title: Alanyalı Satranç Şampiyonu Elif Cemre Uysal'a Tebrik
 date: '2026-11-05T16:51:00+03:00'
 ozet: Satranç turnuvasında elde ettiği derecelerle dikkat çeken Elif Cemre Uysal, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz tarafından makamında ağırlandı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -19,22 +19,21 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: satranç başarısı ve tebrik ziyareti
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''chess game'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Satranç başarısı haberinde temsilî görsel olarak uygun, nötr bir satranç tahtası fotoğrafıdır.'
+  gerekce: 'Commons dosya kaydında ''chess game'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Satranç tahtası ve taşlarını gösteren nötr bir temsilî görsel, haberin konusuyla uyumludur.'
   surum: g9.4-2026-11-05
-  konu_imza: 997ce3cab596
+  konu_imza: a99326c8db7c
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T22:39:43+03:00'
+    tarih: '2026-11-06T00:35:48+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with tr
   kurum: k5
-  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %27)
-  zorla: g9.4-2026-11-05:7
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -98,6 +97,10 @@ gorsel_gecmis:
     kapak_surum: c4
     zorla: g9.4-2026-11-05:6
   degisim: '2026-11-05T22:43:43+03:00'
+etiketler:
+- Yusuf Yılmaz
+- Alanya İlçe Millî Eğitim Müdürlüğü
+baslik_ozgun: ALANYALI SATRANÇ ŞAMPİYONU ELİF CEMRE UYSAL'A TEBRİK
 ---
 Alanya'da satranç alanında gösterdiği üstün başarıyla adından söz ettiren Elif Cemre Uysal, katıldığı turnuvada önemli bir başarıya imza attı. 13 yaş genel kategorisinde il üçüncülüğü elde eden genç sporcu, aynı zamanda 13 yaş kızlar kategorisinde il birincisi olma başarısını gösterdi.
 

@@ -44,6 +44,10 @@ kaynak_url: https://www.sondakika.com/teknoloji/haber-istiklal-bilim-ve-teknoloj
 gorsel_onceki:
   gorsel: /images/kategori/egitim.png
   gorsel_kredi: ''
+etiketler:
+- İstiklal Bilim ve Teknoloji Üniversitesi
+- Yükseköğretim Kurulu
+- Tokyo Üniversitesi
 ---
 İstiklal Bilim ve Teknoloji Üniversitesinin hazırladığı 16 bilimsel proje, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı'nda tanıtılacak. Enerji teknolojileri, sürdürülebilir tarım, atık yönetimi ve iklim dostu binalar gibi çeşitli alanları kapsayan çalışmalar, Yükseköğretim Kurulu Pavilyonu'nda uluslararası katılımcıların izlenimine sunulacak.
 

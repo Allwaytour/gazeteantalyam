@@ -1,5 +1,5 @@
 ---
-title: ALANYA'DA 32 YAŞINDAKİ MİMAR SERKAN DERE KALP KRİZİ SONUCU HAYATINI KAYBETTİ
+title: Alanya'da 32 Yaşındaki Mimar Serkan Dere Kalp Krizi Sonucu Hayatını Kaybetti
 date: '2026-11-05T17:43:00+03:00'
 ozet: Alanya'da mobilya imalatçısı ve iç mimar Serkan Dere, henüz 40 günlük baba iken geçirdiği kalp krizi sonucu yaşamını yitirdi.
 gorsel: /images/kategori/yasam.png
@@ -21,12 +21,12 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: 54778a86d97a
+  konu_imza: 120d3b45c7b2
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:42:57+03:00'
+    tarih: '2026-11-06T00:34:31+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
@@ -34,7 +34,6 @@ gorsel_secim:
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
   kapak_surum: c5
-  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +44,7 @@ kaynak_url: https://www.gazetealanya.com/alanyada-32-yasindaki-mimar-kalbine-yen
 gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
+baslik_ozgun: ALANYA'DA 32 YAŞINDAKİ MİMAR SERKAN DERE KALP KRİZİ SONUCU HAYATINI KAYBETTİ
 ---
 Alanya, genç bir ismin ani ölümüyle yasa boğuldu. Bayır Mahallesi'nde ikamet eden 32 yaşındaki iç mimar ve mobilya fabrikası sahibi Serkan Dere, evinde geçirdiği kalp krizi sonucu hayatını kaybetti. Kısa süre önce baba olma sevincini yaşayan Dere'nin vefatı, ailesi ve sevenleri arasında büyük bir üzüntüye yol açtı.
 

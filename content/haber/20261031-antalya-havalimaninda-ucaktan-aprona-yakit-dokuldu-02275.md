@@ -110,6 +110,8 @@ gorsel_secim:
   kaynak_aciklama: Antalya Airport (AYT) Turkey 🇹🇷
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+etiketler:
+- SunExpress
 ---
 Antalya Havalimanı'nda sefer için hazırlık yapan bir yolcu uçağında henüz belirlenemeyen bir nedenle aprona yakıt dökülmesi olayı yaşandı.
 

@@ -80,6 +80,9 @@ gorsel_gecmis:
     qid: Q43710
     kurum: k4
   degisim: '2026-11-05T21:36:25+03:00'
+etiketler:
+- Antalyaspor
+- FIFA
 ---
 Antalyaspor'un FIFA sistemindeki bekleyen dosyalarına bir yenisi daha eklendi. Daha önce üç farklı dosya sebebiyle transfer cezası alan Akdeniz temsilcisinin FIFA'daki toplam dosya sayısı dörde çıktı. Kırmızı-beyazlı ekip, bu süreçte üç dönem transfer yasağı cezasıyla da karşı karşıya kaldı.
 

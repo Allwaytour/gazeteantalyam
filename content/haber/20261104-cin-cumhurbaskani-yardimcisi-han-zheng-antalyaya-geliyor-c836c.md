@@ -45,6 +45,10 @@ kaynak_url: https://www.sondakika.com/guncel/haber-cin-cumhurbaskani-yardimcisi-
 gorsel_onceki:
   gorsel: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: Foreign, Commonwealth & Development Office / Wikimedia Commons (CC BY 4.0)'
+etiketler:
+- Han Zheng
+- Çin Dışişleri Bakanlığı
+- Birleşmiş Milletler
 ---
 Cin Cumhurbaskani Yardimcisi Han Zheng, Antalya'da duzenlenecek Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi Liderler Zirvesi'ne istirahat edecek. Soz konusu zirve, 6-12 Kasim tarihlerinde Antalya'da gerceklestirilecek.
 

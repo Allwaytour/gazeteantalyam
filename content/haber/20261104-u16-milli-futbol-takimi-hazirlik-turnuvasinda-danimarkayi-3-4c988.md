@@ -45,6 +45,10 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/turkiye-16-ya
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+etiketler:
+- U16 Milli Futbol Takımı
+- Türkiye 16 Yaş Altı Futbol Milli Takımı
+- Danimarka U16 Milli Futbol Takımı
 ---
 Türkiye 16 Yaş Altı Futbol Milli Takımı, Antalya'nın Manavgat ilçesinde gerçekleştirilen Uluslararası Hazırlık Turnuvası'nın son maçında Danimarka ile karşı karşıya geldi. Arslan Zeki Demirci Spor Kompleksi'nde oynanan mücadele, milli takımın üstün mücadelesine sahne oldu ve karşılaşma 3-1'lik galibiyetle sonuçlandı.
 

@@ -140,6 +140,9 @@ gorsel_gecmis:
         neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Antalyaspor tesis binası, futbol sahası) — Fotoğraf stady
     kapak_surum: c3
   degisim: '2026-11-05T22:33:08+03:00'
+etiketler:
+- Ali Topuz
+- Antalyaspor
 ---
 Antalya'nın spor kulübü Antalyaspor'un tesislerinde daha önce yaşanan elektrik kesintisi çözüme kavuştu. Atilla Vehbi Konuk Tesisleri'nde elektriklerin kesilmesi ve kulübün ödeme girişimlerine rağmen yetkililere ulaşılamadığı yönündeki gelişmelerin ardından süreç olumlu sonuçlandı. Tesislerin elektriği yeniden açıldı.
 

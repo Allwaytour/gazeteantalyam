@@ -78,6 +78,9 @@ gorsel_gecmis:
       aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
       notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Hauptmarkt Meydanı; Diyarbakır Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Arnavutköy Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kardeş Şehirler Pazarı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Nürnberg Christkindlesmarkt'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); görsel kontrol yapılamadı: bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
   degisim: '2026-11-05T20:59:23+03:00'
+etiketler:
+- Nürnberg Belediyesi
+- Antalya Belediyesi
 ---
 Almanya'nın en köklü ve tanınmış Noel pazarlarından biri olan Nürnberg Christkindlesmarkt, bu yıl da tarihi Hauptmarkt Meydanı'nda kapılarını açmaya hazırlanıyor. Tarihi 16'ncı yüzyılın ortalarına kadar uzanan ve her yıl milyonlarca ziyaretçiyi ağırlayan pazar, 27 Kasım ile 24 Aralık tarihleri arasında ziyaretçilerini kabul edecek. Geleneksel lezzetler, el sanatları ve renkli süslemelerle donatılacak olan etkinlik, her yıl olduğu gibi bu yıl da kentin en hareketli noktalarından biri haline gelecek.
 

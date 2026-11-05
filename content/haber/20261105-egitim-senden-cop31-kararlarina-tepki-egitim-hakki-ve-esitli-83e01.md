@@ -1,5 +1,5 @@
 ---
-title: 'EĞİTİM SEN''DEN COP31 KARARLARINA TEPKİ: EĞİTİM HAKKI VE EŞİTLİK GÖZ ARDI EDİLMEMELİ'
+title: 'Eğitim Sen''den COP31 Kararlarına Tepki: Eğitim Hakkı ve Eşitlik Göz Ardı Edilmemeli'
 date: '2026-11-05T16:23:00+03:00'
 ozet: Antalya'da COP31 Zirvesi nedeniyle 7 ilçede eğitime ara verilmesini eleştiren Eğitim Sen, kararların eğitimde eşitsizliği derinleştirdiğini savundu.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/1280px-Palamuse_kihelkonnakooli_klassiruum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -89,6 +89,10 @@ gorsel_gecmis:
         neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
     kapak_surum: c2
   degisim: '2026-11-05T21:48:00+03:00'
+etiketler:
+- Eğitim Sen
+- Antalya Valiliği
+baslik_ozgun: 'EĞİTİM SEN''DEN COP31 KARARLARINA TEPKİ: EĞİTİM HAKKI VE EŞİTLİK GÖZ ARDI EDİLMEMELİ'
 ---
 Eğitim ve Bilim Emekçileri Sendikası (Eğitim Sen), Antalya Valiliği tarafından COP31 Liderler Zirvesi gerekçesiyle 11-12 Kasım tarihlerinde 7 ilçede yüz yüze eğitime ara verilerek uzaktan eğitime geçilmesi yönündeki karara tepki gösterdi. Sendika, uluslararası organizasyonlar bahane edilerek eğitim hakkının sınırlandırılmasının ve emekçi haklarının ihlal edilmesinin kabul edilemez olduğunu belirtti.
 

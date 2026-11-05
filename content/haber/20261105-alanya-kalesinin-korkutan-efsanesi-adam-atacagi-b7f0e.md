@@ -1,5 +1,5 @@
 ---
-title: 'ALANYA KALESİ''NİN KORKUTAN EFSANESİ: ADAM ATACAĞI'
+title: 'Alanya Kalesi''nin Korkutan Efsanesi: Adam Atacağı'
 date: '2026-11-05T23:01:32+03:00'
 ozet: Alanya Kalesi'nde bulunan ve halk arasında 'Adam Atacağı' olarak bilinen yapı, mahkûmların üç taşla özgürlüklerini kazanmaya çalıştığı ürpertici bir efsaneyle anılıyor.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eastern_Walls_of_Alanya_Castle.jpg/1280px-Eastern_Walls_of_Alanya_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-mahkumlara-3-tas-veriliyordu-basaramayanin-sonu-kotuydu/560981
+baslik_ozgun: 'ALANYA KALESİ''NİN KORKUTAN EFSANESİ: ADAM ATACAĞI'
 ---
 Antalya'nın simge yapılarından Alanya Kalesi, sadece eşsiz manzarasıyla değil, geçmişten günümüze ulaşan sıra dışı hikâyeleriyle de dikkat çekiyor. Kalenin iç kısmında yer alan ve 'Adam Atacağı' olarak isimlendirilen bölge, mahkûmların kaderinin üç küçük taşa bağlandığı bir efsaneye ev sahipliği yapıyor. Roma dönemine dayandırılan bu anlatıya göre, idama mahkûm edilen kişiler, özgürlüklerini kazanabilmeleri için zorlu bir sınava tabi tutuluyordu.
 

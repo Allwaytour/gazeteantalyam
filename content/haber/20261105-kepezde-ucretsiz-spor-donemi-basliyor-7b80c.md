@@ -1,5 +1,5 @@
 ---
-title: KEPEZ'DE ÜCRETSİZ SPOR DÖNEMİ BAŞLIYOR
+title: Kepez'de Ücretsiz Spor Dönemi Başlıyor
 date: '2026-11-05T14:41:50+03:00'
 ozet: Kepez Belediyesi, vatandaşları daha sağlıklı bir yaşama teşvik etmek amacıyla ücretsiz step aerobik ve pilates kursları düzenliyor.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg/1280px-US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -40,6 +40,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/kepez/antalyada-kepez-belediyesinin-saglikli-yasam-etkinlikleri-basliyor/388699
+baslik_ozgun: KEPEZ'DE ÜCRETSİZ SPOR DÖNEMİ BAŞLIYOR
 ---
 Kepez Belediyesi, ilçe sakinlerini hareketli bir yaşamla buluşturmak için yeni bir projeyi hayata geçiriyor. 'Sağlıklı Bir Kepez' sloganıyla başlatılan çalışma kapsamında, vatandaşlara yönelik ücretsiz step aerobik ve pilates dersleri verilecek. Sporun birleştirici gücünden faydalanmayı hedefleyen etkinlikler, katılımcıların hem fiziksel sağlıklarını korumalarına hem de sosyalleşmelerine olanak tanıyacak.
 

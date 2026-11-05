@@ -1,5 +1,5 @@
 ---
-title: 'TMMOB''DAN COP31 ELEŞTİRİSİ: TARIM ARAZİLERİ RANTA AÇILIYOR'
+title: 'TMMOB''dan COP31 Eleştirisi: Tarım Arazileri Ranta Açılıyor'
 date: '2026-11-05T15:26:00+03:00'
 ozet: Antalya'da düzenlenecek COP31 öncesi rapor yayımlayan TMMOB, iklim politikalarının piyasacı yaklaşımlarını ve tarım arazilerindeki yapılaşmayı sert bir dille eleştirdi.
 gorsel: /images/kategori/gundem.png
@@ -44,6 +44,12 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/tmmobdan-antalyadaki-cop31e
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+etiketler:
+- Mustafa Karancı
+- İsmail Küçük
+- TMMOB
+- Jeoloji Mühendisleri Odası
+baslik_ozgun: 'TMMOB''DAN COP31 ELEŞTİRİSİ: TARIM ARAZİLERİ RANTA AÇILIYOR'
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) hazırlıkları sürerken, Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Antalya'da düzenlediği basın toplantısıyla sürece dair çekincelerini dile getirdi. "Sıfır Emisyon mu, Emisyon Ticareti mi: Karbon Piyasalarının Gölgesinde COP31" başlıklı raporunu kamuoyuyla paylaşan birlik, iklim krizine karşı geliştirilen piyasa odaklı çözümlerin çevresel tahribatı artırdığını savundu.
 

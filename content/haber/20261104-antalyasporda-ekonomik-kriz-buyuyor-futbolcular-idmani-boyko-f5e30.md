@@ -80,6 +80,10 @@ gorsel_gecmis:
     qid: Q43710
     kurum: k4
   degisim: '2026-11-05T21:37:39+03:00'
+etiketler:
+- Osman Özköylü
+- Antalyaspor
+- Bursaspor
 ---
 Antalyaspor bünyesinde yaşanan ekonomik sıkıntılar derinleşmeye devam ediyor. Kırmızı-beyazlı kulüpte tesislerin elektriklerinin kesildiği, jeneratör için yakıt temininde zorluk yaşandığı ve personelin aylardır maaş alamadığı belirtildi. Bu olumsuz tablonun yanı sıra, sezon başından bu yana ücretlerini tahsil edemeyen futbolcular da duruma tepki gösterdi.
 

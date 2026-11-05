@@ -45,6 +45,8 @@ kaynak_url: https://www.toplumsal.com.tr/haber/antalya-da-44-ulkeden-iklim-harek
 gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
+etiketler:
+- Birleşmiş Milletler
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı COP31'e ev sahipliği yapmaya hazırlanan Antalya, bu kapsamda önemli uluslararası buluşmalardan birine ev sahipliği yapacak. Kentte gerçekleştirilecek olan Halkların İklim Zirvesi, 15-18 Kasım tarihleri arasında düzenlenecek. Mimar Sinan Kongre Merkezi'nde yapılacak dört günlük etkinliğe 44 farklı ülkeden toplumsal hareketler katılacak. Buluşma boyunca iklim adaleti, fosil yakıtlardan çıkış ve enerji demokrasisi gibi kritik başlıklarda 100'ün üzerinde oturum gerçekleştirilecek. Öte yandan COP31 zirvesinin ise 9-20 Kasım tarihlerinde yapılması planlanıyor.
 

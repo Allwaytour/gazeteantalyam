@@ -1,5 +1,5 @@
 ---
-title: KONYAALTI'NDA ULUSLARARASI HALK DANSLARI FESTİVALİ HEYECANI
+title: Konyaaltı'nda Uluslararası Halk Dansları Festivali Heyecanı
 date: '2026-11-05T15:44:41+03:00'
 ozet: Konyaaltı Belediyesi tarafından düzenlenen 3. Uluslararası Halk Dansları Kültür Festivali, 8 Kasım Pazar günü HayatPark'ta kapılarını açıyor.
 gorsel: /images/kurum/e3c7221701dca071.jpg
@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/konyaalti/antalyada-ritim-ve-renk-karnavali-kulturlerin-bulusma-adresi-hayatpark/388707
+baslik_ozgun: KONYAALTI'NDA ULUSLARARASI HALK DANSLARI FESTİVALİ HEYECANI
 ---
 Antalya'nın kültür ve sanat yaşamına renk katacak olan 3. Uluslararası Halk Dansları Kültür Festivali için geri sayım başladı. Konyaaltı Belediyesi ev sahipliğinde gerçekleşecek olan etkinlik, 8 Kasım Pazar günü saat 14.00 itibarıyla HayatPark'ta ziyaretçilerini ağırlamaya başlayacak. Farklı ülkelerden ve yörelerden gelen halk oyunları topluluklarının sahne alacağı festival, katılımcılara zengin bir kültürel şölen sunmayı hedefliyor.
 

@@ -45,6 +45,10 @@ kaynak_url: https://www.akdenizgercek.com.tr/kemer/kemerin-gencleri-turk-futbolu
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+etiketler:
+- Kemer Belediye Merkez Spor
+- Kemer Belediyesi
+- Alanyaspor
 ---
 Kemer Belediyesi’nin desteğiyle çalışmalarını yürüten Kemer Belediye Merkez Spor, bünyesindeki 200 genç sporcuyla altyapıya yatırım yapmaya devam ediyor. U10’dan U19’a kadar farklı yaş kategorilerinde ücretsiz futbol eğitimi veren kulüpte, sporcuların forma, krampon, futbol topu, ulaşım ve teknik malzeme gibi tüm gereksinimleri belediye tarafından karşılanıyor. Çocukları sporla buluşturan belediye, düzenlediği motivasyon etkinlikleriyle de gençlerin sosyal gelişimine katkı sağlıyor.
 

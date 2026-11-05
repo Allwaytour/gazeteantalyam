@@ -53,6 +53,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/video/manavgat/manavgatta-luks-cipe
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+etiketler:
+- Emniyet Genel Müdürlüğü
 ---
 Antalya'nın Manavgat ilçesinde gerçekleştirilen rutin trafik denetimleri sırasında, güvenlik güçleri ilçe merkezinde yüksek hız yapan ve abartılı egzoz sesi çıkaran bir aracı takibe aldı. Antalya Caddesi üzerinde başlayan takip, yapay şelale mevkiinde aracın durdurulmasıyla sonuçlandı.
 

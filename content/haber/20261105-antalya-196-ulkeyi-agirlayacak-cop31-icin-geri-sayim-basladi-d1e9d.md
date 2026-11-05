@@ -1,5 +1,5 @@
 ---
-title: 'ANTALYA 196 ÜLKEYİ AĞIRLAYACAK: COP31 İÇİN GERİ SAYIM BAŞLADI'
+title: 'Antalya 196 Ülkeyi Ağırlayacak: COP31 İçin Geri Sayım Başladı'
 date: '2026-11-05T14:20:00+03:00'
 ozet: Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), küresel iklim eylemlerini uygulama aşamasına taşıyacak.
 gorsel: /images/kategori/gundem.png
@@ -45,6 +45,7 @@ otomatik: true
 yz: true
 kaynak: Manşet Haber
 kaynak_url: https://mansethaber.com/gundem/dunyanin-gozu-antalyada-olacak-196-ulke-bulusuyor
+baslik_ozgun: 'ANTALYA 196 ÜLKEYİ AĞIRLAYACAK: COP31 İÇİN GERİ SAYIM BAŞLADI'
 ---
 Antalya, küresel iklim değişikliğiyle mücadelede kritik bir zirveye ev sahipliği yapmaya hazırlanıyor. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, dünyanın dört bir yanından 196 ülkeden devlet yetkilileri, delegasyonlar ve müzakere ekipleri kentte bir araya gelecek. Uluslararası iş birliğinin güçlendirilmesi ve iklim politikalarının somut adımlara dönüştürülmesi hedeflenen zirve, çevre ve ekonomi gündeminin merkezinde yer alacak.
 

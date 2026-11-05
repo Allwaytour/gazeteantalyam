@@ -1,5 +1,5 @@
 ---
-title: KEMAL KARAKUZEY ANTALYA’DA KÜLTÜR VE SİYASET TEMASLARINDA BULUNDU
+title: Kemal Karakuzey Antalya’da Kültür ve Siyaset Temaslarında Bulundu
 date: '2026-11-05T14:08:00+03:00'
 ozet: Tarihçi-Yazar Kemal Karakuzey, Antalya’da katıldığı konser ve festival etkinliklerinin ardından siyasi ve sivil toplum kuruluşu ziyaretleri gerçekleştirdi.
 gorsel: /images/kategori/gundem.png
@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/karakuzeyden-antalyada-anlamli-temaslar
+baslik_ozgun: KEMAL KARAKUZEY ANTALYA’DA KÜLTÜR VE SİYASET TEMASLARINDA BULUNDU
 ---
 Tarihçi-Yazar Kemal Karakuzey, Antalya’da gerçekleştirdiği bir dizi programla kültür, sanat ve siyaset dünyasıyla bir araya geldi. İlk olarak Konyaaltı Belediyesi Feslikan Salonu’nda düzenlenen Cumhuriyet Bayramı özel konserine katılan Karakuzey, burada yabancı uyruklu yerleşik sakinlerin Türkiye’nin milli değerlerine gösterdiği ilgiyi takdirle karşıladı. Koro Şefi Zera Vareldzhi’ye Türk Silahlı Kuvvetleri’ni simgeleyen bir kılıç takdim eden Karakuzey, sanatın birleştirici gücüne vurgu yaptı.
 

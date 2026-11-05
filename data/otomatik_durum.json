@@ -15003,10 +15003,10 @@
    "ts": 1793914001
   }
  ],
- "son_calisma": "2026-11-06T00:32:51.092718+03:00",
+ "son_calisma": "2026-11-06T00:35:48.428057+03:00",
  "gorsel": {
   "gun": "2026-11-05",
-  "yz_bugun": 295,
+  "yz_bugun": 302,
   "onbellek": {
    "konu:089f6e7db096": {
     "konu": {
@@ -23642,6 +23642,486 @@
     "iliski": 5,
     "yeniden_bakildi": false,
     "s": "g9.4-2026-11-05"
+   },
+   "konu:5622705f4e46": {
+    "konu": {
+     "ana_olay": "Antalya'da yürütülen bir soruşturma kapsamında tutuklu bulunan iş insanı Durmuş Özgen tahliye edildi.",
+     "odak": "olay",
+     "kisiler": [
+      "Durmuş Özgen",
+      "Ulaş Özgen"
+     ],
+     "kurumlar": [
+      "Antalya Cumhuriyet Başsavcılığı",
+      "Antalya Büyükşehir Belediyesi",
+      "Gazipaşa Belediyesi"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "suç",
+     "gercek_arama": "",
+     "hedefler": [],
+     "ana_kisiler": [
+      {
+       "ad": "Durmuş Özgen",
+       "rol": "iş insanı / businessman",
+       "kamusal": false,
+       "hassas_rol": "sanık"
+      },
+      {
+       "ad": "Ulaş Özgen",
+       "rol": "belediye meclis üyesi / municipal council member",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kisi",
+      "ad": "Durmuş Özgen",
+      "ad_en": "Durmuş Özgen"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "hukuki süreç",
+       "tahliye"
+      ],
+      "anahtar_en": [
+       "legal process",
+       "release"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "tahliye",
+      "ad_en": "release from prison"
+     },
+     "gorsel_ipucu_en": [
+      "courthouse",
+      "legal document",
+      "gavel"
+     ],
+     "alternatif_sorgular_en": [
+      "Antalya courthouse",
+      "Turkish justice system"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "adliye binası"
+     ],
+     "gorselde_olmamali": [
+      "Durmuş Özgen",
+      "Ulaş Özgen",
+      "kelepçe",
+      "cezaevi parmaklığı"
+     ]
+    },
+    "t": "2026-11-06T00:34:18+03:00",
+    "s": "g9.4-2026-11-05"
+   },
+   "konu:7e6fb971f51a": {
+    "konu": {
+     "ana_olay": "Antalya'da mera alanlarının verimliliğini artırmak amacıyla 5 bin 120 litre hümik asit teslim alındı.",
+     "odak": "olay",
+     "kisiler": [],
+     "kurumlar": [
+      "Tarım ve Orman Bakanlığı",
+      "Türkiye Kömür İşletmeleri Kurumu",
+      "İl Tarım ve Orman Müdürlüğü"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "nesne",
+      "ad": "hümik asit",
+      "ad_en": "humic acid"
+     },
+     "etkinlik": {
+      "tur": "teslimat",
+      "anahtar_tr": [
+       "tarımsal destek",
+       "teslimat"
+      ],
+      "anahtar_en": [
+       "agricultural support",
+       "delivery"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "hümik asit desteği",
+      "ad_en": "humic acid support"
+     },
+     "gorsel_ipucu_en": [
+      "humic acid liquid",
+      "pasture",
+      "agricultural land"
+     ],
+     "alternatif_sorgular_en": [
+      "organic fertilizer application",
+      "pasture improvement",
+      "liquid fertilizer barrel"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "humic acid liquid",
+       "pasture land"
+      ],
+      "sorgular_tr": [
+       "hümik asit",
+       "mera alanı"
+      ]
+     },
+     "gorselde_olmali": [
+      "hümik asit bidonları",
+      "mera alanı"
+     ],
+     "gorselde_olmamali": [
+      "kimyasal gübre",
+      "fabrika bacası"
+     ]
+    },
+    "t": "2026-11-06T00:34:22+03:00",
+    "s": "g9.4-2026-11-05"
+   },
+   "1ebac9cc992d": {
+    "karar": "kabul",
+    "gerekce": "Hümik asit çözeltisini gösteren temsilî bir fotoğraf, haberin içeriğiyle doğrudan ilgili ve yanıltıcı bir unsur içermiyor.",
+    "t": "2026-11-06T00:34:27+03:00",
+    "benzerlik": 5,
+    "tek": false,
+    "iliski": 8,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
+   },
+   "konu:e009b0b9a1fb": {
+    "konu": {
+     "ana_olay": "Alanya'da yaşayan 32 yaşındaki iç mimar Serkan Dere, geçirdiği kalp krizi sonucu hayatını kaybetti.",
+     "odak": "olay",
+     "kisiler": [
+      "Serkan Dere",
+      "Ümran Dere"
+     ],
+     "kurumlar": [],
+     "yer": "Alanya",
+     "olay_tarihi": "2026-11-06",
+     "hassas": "ölüm",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Cikcilli Hacıbaba Mezarlığı",
+       "ad_en": "Cikcilli Hacıbaba Cemetery",
+       "tur": "tesis"
+      }
+     ],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "kisi",
+      "ad": "Serkan Dere",
+      "ad_en": "Serkan Dere"
+     },
+     "etkinlik": {
+      "tur": "tören",
+      "anahtar_tr": [
+       "cenaze",
+       "tören",
+       "mezarlık"
+      ],
+      "anahtar_en": [
+       "funeral",
+       "cemetery",
+       "burial"
+      ]
+     },
+     "nerede": {
+      "ad": "Alanya",
+      "ad_en": "Alanya"
+     },
+     "ne": {
+      "ad": "ölüm",
+      "ad_en": "death"
+     },
+     "gorsel_ipucu_en": [
+      "cemetery",
+      "funeral"
+     ],
+     "alternatif_sorgular_en": [
+      "cemetery entrance",
+      "funeral ceremony"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "mezarlık"
+     ],
+     "gorselde_olmamali": [
+      "ceset",
+      "cenaze töreni",
+      "insan yüzü",
+      "tabut"
+     ]
+    },
+    "t": "2026-11-06T00:34:31+03:00",
+    "s": "g9.4-2026-11-05"
+   },
+   "konu:ebde7f46dbe4": {
+    "konu": {
+     "ana_olay": "Antalya'da göç yönetimi stratejileri, denetim mekanizmaları ve insan hakları odaklı uygulamaların ele alındığı dört günlük bir değerlendirme toplantısı düzenlendi.",
+     "odak": "olay",
+     "kisiler": [
+      "Halil Avşar",
+      "Zafer Öz"
+     ],
+     "kurumlar": [
+      "Mülkiye Teftiş Kurulu",
+      "Göç İdaresi Başkanlığı"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Göç yönetimi toplantısı",
+       "ad_en": "migration management meeting",
+       "tur": "olay"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Halil Avşar",
+       "rol": "Antalya Vali Yardımcısı / Deputy Governor of Antalya",
+       "kamusal": true,
+       "hassas_rol": ""
+      },
+      {
+       "ad": "Zafer Öz",
+       "rol": "Rehberlik ve Denetim Başkanı / Head of Guidance and Inspection",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "olay",
+      "ad": "Göç yönetimi toplantısı",
+      "ad_en": "migration management meeting"
+     },
+     "etkinlik": {
+      "tur": "toplantı",
+      "anahtar_tr": [
+       "toplantı",
+       "değerlendirme"
+      ],
+      "anahtar_en": [
+       "meeting",
+       "conference",
+       "evaluation"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "Göç yönetimi toplantısı",
+      "ad_en": "migration management meeting"
+     },
+     "gorsel_ipucu_en": [
+      "conference room",
+      "meeting",
+      "official meeting"
+     ],
+     "alternatif_sorgular_en": [
+      "government meeting Turkey",
+      "official seminar Turkey"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "official meeting room",
+       "conference table"
+      ],
+      "sorgular_tr": [
+       "resmi toplantı salonu",
+       "toplantı masası"
+      ]
+     },
+     "gorselde_olmali": [
+      "toplantı masası",
+      "katılımcılar"
+     ],
+     "gorselde_olmamali": [
+      "göçmen",
+      "sınır kapısı",
+      "polis",
+      "gözaltı"
+     ]
+    },
+    "t": "2026-11-06T00:34:36+03:00",
+    "s": "g9.4-2026-11-05"
+   },
+   "konu:3966af876037": {
+    "konu": {
+     "ana_olay": "Satranç şampiyonu Elif Cemre Uysal, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz tarafından makamında ağırlandı.",
+     "odak": "olay",
+     "kisiler": [
+      "Elif Cemre Uysal",
+      "Yusuf Yılmaz"
+     ],
+     "kurumlar": [
+      "Alanya İlçe Millî Eğitim Müdürlüğü"
+     ],
+     "yer": "Alanya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Alanya İlçe Millî Eğitim Müdürlüğü",
+       "ad_en": "Alanya District Directorate of National Education",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Elif Cemre Uysal",
+       "rol": "satranç sporcusu / chess player",
+       "kamusal": false,
+       "hassas_rol": ""
+      },
+      {
+       "ad": "Yusuf Yılmaz",
+       "rol": "İlçe Millî Eğitim Müdürü / District Director of National Education",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kisi",
+      "ad": "Elif Cemre Uysal",
+      "ad_en": "Elif Cemre Uysal"
+     },
+     "etkinlik": {
+      "tur": "ziyaret",
+      "anahtar_tr": [
+       "makam ziyareti",
+       "tebrik",
+       "satranç"
+      ],
+      "anahtar_en": [
+       "official visit",
+       "congratulations",
+       "chess"
+      ]
+     },
+     "nerede": {
+      "ad": "Alanya",
+      "ad_en": "Alanya"
+     },
+     "ne": {
+      "ad": "satranç başarısı ve tebrik ziyareti",
+      "ad_en": "chess success and congratulatory visit"
+     },
+     "gorsel_ipucu_en": [
+      "chess board",
+      "chess player",
+      "meeting"
+     ],
+     "alternatif_sorgular_en": [
+      "chess tournament award ceremony",
+      "student meeting with official"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "chess game",
+       "chess board"
+      ],
+      "sorgular_tr": [
+       "satranç oyunu",
+       "satranç tahtası"
+      ]
+     },
+     "gorselde_olmali": [
+      "satranç tahtası",
+      "Elif Cemre Uysal",
+      "Yusuf Yılmaz"
+     ],
+     "gorselde_olmamali": [
+      "başka spor dalı",
+      "siyasi parti amblemi"
+     ]
+    },
+    "t": "2026-11-06T00:34:41+03:00",
+    "s": "g9.4-2026-11-05"
+   },
+   "fac2c6629cd3": {
+    "karar": "kabul",
+    "gerekce": "Satranç tahtası ve taşlarını gösteren nötr bir temsilî görsel, haberin konusuyla uyumludur.",
+    "t": "2026-11-06T00:35:48+03:00",
+    "benzerlik": 5,
+    "tek": false,
+    "iliski": 8,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
+   },
+   "e2ee03e2f64d": {
+    "karar": "kabul",
+    "gerekce": "Satranç oyununu gösteren nötr bir temsilî görsel, haberin konusuyla uyumludur.",
+    "t": "2026-11-06T00:35:48+03:00",
+    "benzerlik": 5,
+    "tek": false,
+    "iliski": 8,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
+   },
+   "3cc2e963cc53": {
+    "karar": "kabul",
+    "gerekce": "Satranç taşlarını gösteren sanatsal bir temsilî görsel, haberin konusuyla uyumludur.",
+    "t": "2026-11-06T00:35:48+03:00",
+    "benzerlik": 4,
+    "tek": false,
+    "iliski": 7,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
+   },
+   "5bec558b80a8": {
+    "karar": "kabul",
+    "gerekce": "Satranç oyununu gösteren temsilî bir görsel, haberin konusuyla uyumludur.",
+    "t": "2026-11-06T00:35:48+03:00",
+    "benzerlik": 4,
+    "tek": false,
+    "iliski": 7,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
+   },
+   "e8c799aff5c2": {
+    "karar": "red",
+    "gerekce": "görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); görselde olmaması gereken unsur var (başka spor dalı, siyasi parti amblemi) — Satranç tahtası üzerinde dikenli bitkiler olması haberin ciddiyetiyle çelişiyor ve görseli yanıltıcı kılıyor.",
+    "t": "2026-11-06T00:35:48+03:00",
+    "benzerlik": 0,
+    "tek": false,
+    "iliski": 2,
+    "yeniden_bakildi": false,
+    "s": "g9.4-2026-11-05"
    }
   },
   "deneme": {
@@ -25684,64 +26164,9 @@
    "g9.1-2026-11-05": 18,
    "g9.2-2026-11-05": 10,
    "g9.3-2026-11-05": 13,
-   "g9.4-2026-11-05": 171
+   "g9.4-2026-11-05": 176
   },
   "toplu_son": [
-   {
-    "dosya": "20261105-tmmobdan-cop31-elestirisi-tarim-arazileri-ranta-aciliyor-57bbc.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:45:15+03:00"
-   },
-   {
-    "dosya": "20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b65d0.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:45:29+03:00"
-   },
-   {
-    "dosya": "20261105-marketten-urunleri-odemeden-cikarmak-isteyen-supheli-guvenli-47960.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/asayis.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:45:29+03:00"
-   },
-   {
-    "dosya": "20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/kultur-sanat.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:45:31+03:00"
-   },
-   {
-    "dosya": "20261105-kumlucada-ev-aramasinda-esrar-ve-muhimmat-ele-gecirildi-035b6.md",
-    "tur": "kategori",
-    "alt_tur": "",
-    "aciklama": "",
-    "gorsel": "/images/kategori/asayis.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "g9.4-2026-11-05",
-    "bekliyor": false,
-    "tarih": "2026-11-05T21:45:31+03:00"
-   },
    {
     "dosya": "20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md",
     "tur": "kategori",
@@ -26346,6 +26771,61 @@
     "surum": "g9.4-2026-11-05",
     "bekliyor": false,
     "tarih": "2026-11-05T22:58:32+03:00"
+   },
+   {
+    "dosya": "20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/asayis.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-06T00:34:19+03:00"
+   },
+   {
+    "dosya": "20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b40e9.md",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "aciklama": "Temsilî fotoğraf",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "kapak_nedeni": "",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-06T00:34:27+03:00"
+   },
+   {
+    "dosya": "20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha-90d73.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/yasam.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-06T00:34:31+03:00"
+   },
+   {
+    "dosya": "20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi-c495f.md",
+    "tur": "kategori",
+    "alt_tur": "",
+    "aciklama": "",
+    "gorsel": "/images/kategori/gundem.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-06T00:34:37+03:00"
+   },
+   {
+    "dosya": "20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e.md",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "aciklama": "Temsilî fotoğraf",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "g9.4-2026-11-05",
+    "bekliyor": false,
+    "tarih": "2026-11-06T00:35:48+03:00"
    }
   ],
   "yasakli_surum": "g9",

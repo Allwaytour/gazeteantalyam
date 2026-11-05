@@ -1,5 +1,5 @@
 ---
-title: MUSTAFA ERTUĞRUL AKER KABRİ BAŞINDA ANILDI
+title: Mustafa Ertuğrul Aker Kabri Başında Anıldı
 date: '2026-11-05T14:44:48+03:00'
 ozet: Kurtuluş Savaşı kahramanı Mustafa Ertuğrul Aker, vefat yıl dönümünde Antalya'da düzenlenen törenle anıldı.
 gorsel: /images/kurum/68081088bdeea779.jpg
@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-mustafa-ertugrul-aker-vefat-yil-donumunde-kabri-basinda-anildi/388700
+baslik_ozgun: MUSTAFA ERTUĞRUL AKER KABRİ BAŞINDA ANILDI
 ---
 Kurtuluş Savaşı'nın unutulmaz denizcilerinden Mustafa Ertuğrul Aker, vefatının yıl dönümünde kabri başında gerçekleştirilen bir törenle yad edildi. Anma programına katılan Antalya Valisi Hulusi Şahin, Aker'in sadece Antalya için değil, tüm Türkiye için büyük bir değer ve kahraman olduğunu vurguladı. Vali Şahin, bu tarihi şahsiyetin askeri dehasını ve fedakarlıklarını gelecek kuşaklara aktarmanın önemine dikkat çekti.
 

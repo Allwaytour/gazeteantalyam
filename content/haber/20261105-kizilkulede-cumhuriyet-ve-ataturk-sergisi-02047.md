@@ -1,5 +1,5 @@
 ---
-title: KIZILKULE'DE CUMHURİYET VE ATATÜRK SERGİSİ
+title: Kızılkule'de Cumhuriyet ve Atatürk Sergisi
 date: '2026-11-05T23:20:00+03:00'
 ozet: Alanya'nın tarihi simgesi Kızılkule, 800. yıl kutlamaları kapsamında genç sanatçıların Cumhuriyet temalı eserlerine ev sahipliği yaptı.
 gorsel: /images/kategori/kultur-sanat.png
@@ -58,6 +58,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-800-yillik-kizilkulede-cumhuriyet-ve-ataturk-bulusmasi-genc-yeteneklerden-anlamli-sergi
+baslik_ozgun: KIZILKULE'DE CUMHURİYET VE ATATÜRK SERGİSİ
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 

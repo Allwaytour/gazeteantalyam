@@ -134,6 +134,10 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum fotoğrafı önbellekten
   degisim: '2026-11-05T21:16:40+03:00'
+etiketler:
+- Kültür ve Turizm Bakanlığı
+- İl Kültür ve Turizm Müdürlüğü
+- Gazipaşa-Alanya Havalimanı
 ---
 Kültür ve Turizm Bakanlığından paylaşılan verilere göre, yılın ocak-eylül döneminde Türkiye'yi ziyaret edenlerin toplam sayısı 49 milyon 132 bine ulaştı. Bu dönemde elde edilen turizm gelirleri geçen yılın aynı dönemine kıyasla yüzde 2,4 artış göstererek 51 milyar 278 milyon dolara çıktı. Ülkeye en çok ziyaretçi gönderen ülkeler sıralamasında Rusya ilk sırada yer alırken, bu ülkeyi Almanya ve İngiltere takip etti.
 
