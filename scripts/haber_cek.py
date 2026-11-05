@@ -32,6 +32,7 @@ HABER_KLASOR = os.path.join(KOK, "content", "haber")
 DURUM_DOSYA = os.path.join(KOK, "data", "otomatik_durum.json")
 ARSIV_DOSYA = os.path.join(KOK, "data", "foto_arsivi.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GUNLUK_KOTA = {"bitti": False}   # Gemini günlük kotası (429 PerDay) dolduysa bu turda yeni istek denenmez
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
 
 KOSE_RE = re.compile(r"/(yazar|yazarlar|kose-?yazi|kose|koseyazisi|makale|makaleler|yorum|column|columnist|author|gorus)[/-]|köşe yazısı|yazının devamı")
@@ -228,6 +229,15 @@ def sayfa_oku(url):
 _model = None
 
 
+_modeller = []
+
+
+def yedek_model():
+    """Seçili model yoğunken (503) bir kez denenecek ikinci model: listedeki bir sonraki 'flash' modeli."""
+    model_sec()
+    return next((m for m in _modeller if m != _model), "")
+
+
 def model_sec():
     global _model
     if _model is not None:
@@ -248,6 +258,7 @@ def model_sec():
                 surum = [float(x) for x in re.findall(r"(\d+(?:\.\d+)?)", ad)[:1]] or [0]
                 adaylar.append((("preview" not in ad), ("lite" in ad), surum[0], ad))
             adaylar.sort(reverse=True)
+            _modeller[:] = [a[3] for a in adaylar]
             _model = adaylar[0][3] if adaylar else "gemini-2.5-flash-lite"
         except Exception as e:
             print("Model listesi alınamadı:", e)
@@ -285,10 +296,15 @@ def yz_yaz(h, kaynak_metin):
         "contents": [{"role": "user", "parts": [{"text": f"{talimat}\n\nKAYNAK BAŞLIK: {h['baslik']}\nKAYNAK: {h['kaynak']}\n\nKAYNAK METİN:\n{kaynak_metin}"}]}],
         "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json", "maxOutputTokens": 3072},
     }
+    if GUNLUK_KOTA["bitti"]:
+        raise RuntimeError("Gemini günlük kotası dolu")
     for deneme in range(3):
         r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model_sec()}:generateContent",
                           headers={"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"}, json=istek, timeout=60)
         if r.status_code == 429:
+            if gs.GUNLUK_KOTA_RE.search(r.text or ""):
+                GUNLUK_KOTA["bitti"] = True
+                raise RuntimeError("Gemini günlük kotası doldu; kota yenilenince yeniden denenecek")
             print("   Yapay zekâ kotası doldu, bekleniyor…")
             time.sleep(20 * (deneme + 1))
             continue
@@ -377,7 +393,7 @@ def main():
     ayar = yap.get("ayarlar") or {}
     os.makedirs(HABER_KLASOR, exist_ok=True)
     simdi = int(time.time())
-    bugun = datetime.now(TR).strftime("%Y-%m-%d")
+    bugun = gs.gemini_gunu()   # Gemini kotası Pasifik saatiyle yenilenir
 
     durum = json_oku(DURUM_DOSYA, {})
     gorulen = [g for g in durum.get("gorulen", []) if g["ts"] > simdi - 10 * 86400]
@@ -411,6 +427,7 @@ def main():
     # Önbellekte yalnızca yeni hattın Commons arama sonuçları tutulur; eski hattın stok sorgu önbelleği silinir
     arsiv = {k: v for k, v in json_oku(ARSIV_DOSYA, {}).items() if k.startswith(("c6:", "wd:", "kat:", "cf:", "kut:", "kur:"))}
     bag = gs.Baglam(ayar, durum, GEMINI_KEY if ayar.get("yapay_zeka", True) else "", model_sec, arsiv)
+    bag.yedek_model_fn = yedek_model
     gorsel_tur_limit = int(ayar.get("gorsel_tur_limit", 6))
     print("Görsel hattı:", gs.KURAL_SURUMU, "(gerçek → arşiv → fotoğrafsız kapak)")
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
@@ -433,6 +450,9 @@ def main():
         print(f"Görsel denemesi: {rapor['eksik']} satır kota nedeniyle eksik" if rapor["eksik"] else "Görsel denemesi tamamlandı")
 
     # 3) İşle
+    if durum["gorsel"].get("kota_bitti") == gs.gemini_gunu():
+        GUNLUK_KOTA["bitti"] = True
+        print("Gemini günlük kotası dolu; kota yenilenene kadar yapay zekâ istekleri denenmeyecek.")
     yazilan = 0
     for h in secilen[:limit]:
         print(f"• {h['baslik'][:80]}  [{h['kaynak']}]")
@@ -490,6 +510,8 @@ def main():
         yazilan += 1
 
     duzenle_eskiler()
+    if GUNLUK_KOTA["bitti"]:
+        bag.g["kota_bitti"] = gs.gemini_gunu()
 
     # Otomatik görsellerin düzeltilmesi: onaydan sonra eski haberler küçük gruplar hâlinde;
     # onaydan önce yalnızca kota yüzünden ertelenmiş yeni hat kayıtları yeniden denenir.
