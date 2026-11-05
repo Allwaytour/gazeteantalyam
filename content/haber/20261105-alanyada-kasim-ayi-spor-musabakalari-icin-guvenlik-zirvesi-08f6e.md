@@ -1,0 +1,60 @@
+---
+title: ALANYA'DA KASIM AYI SPOR MÜSABAKALARI İÇİN GÜVENLİK ZİRVESİ
+date: '2026-11-05T23:35:00+03:00'
+ozet: Alanya'da kasım ayında gerçekleşecek profesyonel spor müsabakaları öncesinde, İlçe Spor Güvenlik Kurulu toplanarak alınacak tedbirleri belirledi.
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
+kategoriler:
+- Spor
+ilceler:
+- Alanya
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  surum: g9.4-2026-11-05
+  konu_imza: e613b70b064d
+  gorsel_url: /images/kategori/spor.png
+  kontrol:
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-05T23:58:40+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.1-flash-lite
+  kurum: k5
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Şakir Öner Öztürk'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İlçe Spor Güvenlik Kurulu Toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
+      katman: kurum
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
+    - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
+      katman: kurum
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
+    - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
+      katman: kurum
+      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (toplantı masası, yetkililer) — Alanya genel görünümü, hab
+  kapak_surum: c5
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Yeni Alanya
+kaynak_url: https://www.yenialanya.com/alanyada-kasim-ayi-spor-etkinlikleri-icin-kritik-toplanti-guvenlik-onlemleri-masaya-yatirildi
+---
+Alanya, kasım ayı boyunca ev sahipliği yapacağı ulusal ve yerel spor organizasyonlarına hazırlanıyor. Kentte sporun huzur ve güven ortamında sürmesi amacıyla düzenlenen İlçe Spor Güvenlik Kurulu Toplantısı, Kaymakam Şakir Öner Öztürk başkanlığında gerçekleştirildi. İlgili kurum ve kuruluş temsilcilerinin katıldığı toplantıda, sporcuların, teknik ekiplerin ve taraftarların güvenliği için atılacak adımlar detaylıca ele alındı.
+
+Toplantının ana gündem maddelerini, farklı branşlarda düzenlenecek müsabakalar oluşturdu. Özellikle Trendyol Süper Lig'de mücadele eden Corendon Alanyaspor'un iç saha maçları, TFF 3. Lig'de yer alan Alanya 1221 Futbol Spor Kulübü'nün karşılaşmaları ve Efeler Ligi'nde boy gösteren On Hotels Alanya Belediyespor'un müsabakaları için özel güvenlik planlamaları yapıldı. Taraftarların yoğun ilgi göstermesi beklenen bu organizasyonlarda, herhangi bir aksaklık yaşanmaması için kurumlar arası koordinasyonun önemi vurgulandı.
+
+Kurul üyeleri, sadece saha içindeki mücadelenin değil, organizasyon sürecinin tamamının güvenli bir şekilde yürütülmesi için gerekli tedbirleri karara bağladı. Spor salonları ve stadyumlarda görev alacak birimlerin sorumlulukları belirlenirken, kasım ayı boyunca sürecek spor heyecanının güvenle yaşanması hedefleniyor.
