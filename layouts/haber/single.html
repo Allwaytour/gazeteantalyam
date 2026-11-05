@@ -14,9 +14,11 @@
     </div>
     {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}
     <figure class="kapak"><img src="{{ . | relURL }}"{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
-      {{ if or $tur $.Params.gorsel_kredi }}<figcaption>{{ partial "gorsel-not.html" (dict "tur" $tur "yil" $s.cekim_yili) }}
-        {{ if $s.fotografci }}{{ if eq $tur "arsiv" }}{{ with $s.aciklama }}{{ . }} · {{ else }}{{ with $s.gosterilen }}{{ . }} · {{ end }}{{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
-        {{ else }}{{ with $.Params.gorsel_kredi }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
+      {{/* Görsel üzerine tür/tarih rozeti konmaz. Gerekli açıklama ve lisans atfı fotoğrafın altında tek satırdır;
+           arşiv fotoğrafında çekim yılı ve "Arşiv fotoğrafı" ifadesi bu satırda yer alır. Kategori kapağında satır yoktur. */}}
+      {{ if and (ne $tur "kategori") (or $s.fotografci $.Params.gorsel_kredi) }}<figcaption>
+        {{ if $s.fotografci }}{{ with $s.aciklama }}{{ . }} · {{ else }}{{ if eq $tur "arsiv" }}{{ with $s.gosterilen }}{{ . }} — Arşiv fotoğrafı{{ with $s.cekim_yili }} ({{ . }}){{ end }} · {{ end }}{{ else if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else if in $s.kaynak_sayfa "unsplash.com" }}Unsplash{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
+        {{ else }}{{ with $.Params.gorsel_kredi }}{{ if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
     </figure>{{ end }}
     {{ partial "paylas.html" . }}
     <div class="icerik">{{ .Content }}</div>
