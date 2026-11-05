@@ -24,9 +24,9 @@ gorsel_secim:
   konu_imza: 9bc2bf60d984
   gorsel_url: /images/kategori/saglik.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:44:33+03:00'
+    tarih: '2026-11-05T21:42:05+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -34,7 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '3 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı; ''organ bağışı bilgilendirme standı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: organ bağışı farkındalık, organ bağışı standı)'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (information stand, health awareness, organ donation) ilişkili lisanslı fotoğraf bulunamadı'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:ETS_Bus_Be_an_Organ_Donor.jpg
       katman: nesne
@@ -45,7 +45,7 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Sheila_dixit_signing_organ_donation_card.jpg
       katman: nesne
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

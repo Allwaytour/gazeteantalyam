@@ -25,7 +25,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T20:44:02+03:00'
+    tarih: '2026-11-05T21:41:32+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
@@ -38,7 +38,7 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

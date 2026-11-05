@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T20:58:50+03:00'
+    tarih: '2026-11-05T21:42:07+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -34,7 +34,7 @@ gorsel_secim:
     kod: aday_bulunamadi
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca ay'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (climate change conference, international summit, congress center) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+  kapak_surum: c3
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
