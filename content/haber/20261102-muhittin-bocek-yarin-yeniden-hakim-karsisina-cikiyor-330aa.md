@@ -19,16 +19,16 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Muhittin Böcek
   cekim_yili: '2015'
-  gerekce: '''Muhittin Böcek'' kimliği Wikidata Q77566969 (Turkish statesperson (born 1962) Eski Antalya Büyükşehir Bel) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Muhittin Böcek''in nötr bir portre fotoğrafıdır, arşiv olarak kullanımı uygundur.'
-  surum: g9-2026-11-05
+  gerekce: '''Muhittin Böcek'' kimliği Wikidata Q77566969 (Turkish statesperson (born 1962) Eski Antalya Büyükşehir Bel) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: önceden onaylanmış nötr arşiv portresi (2026-11-05); ''hassas'' bağlamına uygun olarak kayıtlı'
+  surum: g9.1-2026-11-05
   konu_imza: 85d817726eb5
   gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T16:40:04+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.1-flash-lite
+    sonuc: onaylı arşiv kaydından
+    tarih: '2026-11-05'
+    yontem: Wikidata kimliği + lisans + önceki görsel onayı (arşiv kaydı)
+    model: ''
   aciklama: Muhittin Böcek — Arşiv fotoğrafı (2015)
   alt_tur: kisi_genel
   qid: Q77566969

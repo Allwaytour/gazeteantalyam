@@ -2,36 +2,37 @@
 title: Antalya'da duzenlenecek COP31 oncesi iklim konferansi gerceklestirildi
 date: '2026-11-05T10:08:00+03:00'
 ozet: Mersin'de gerceklestirilen iklim konferansinda, Antalya'da duzenlenmesi planlanan COP31 oncesinde yerel yonetimlerin uluslararasi projeleri ve iklim riskleri ele alindi.
-gorsel: https://images.unsplash.com/photo-1704455312325-c0c5fdddc609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW52aXJvbm1lbnRhbCUyMHN5bXBvc2l1bSUyMHByZXNlbnRhdGlvbnxlbnwxfDB8fHwxNzkzODg1ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Kari Bjorn Photography / Unsplash'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/a-man-giving-a-presentation-to-a-group-of-people-bDsVfVh3i3E
-  fotografci: Kari Bjorn Photography
-  kredi: Kari Bjorn Photography / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: iklim konferansı
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''environmental symposium presentation''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Konferans ortamını temsil eden genel ve uygun bir görseldir.'
-  surum: g9-2026-11-05
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: 2e69cdbac817
-  gorsel_url: https://images.unsplash.com/photo-1704455312325-c0c5fdddc609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW52aXJvbm1lbnRhbCUyMHN5bXBvc2l1bSUyMHByZXNlbnRhdGlvbnxlbnwxfDB8fHwxNzkzODg1ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T16:37:52+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T16:53:26+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
   kurum_notu: kurum fotoğrafı önbellekten
+  kapak_nedeni:
+    kod: aday_bulunamadi
+    aciklama: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panelists, audience) i'
+    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Mersin'' için konuyla (conference hall, panelists, audience) ilişkili lisanslı fotoğraf bulunamadı; mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,6 +72,35 @@ gorsel_gecmis:
     alt_tur: kurum
     kurum: k4
   degisim: '2026-11-05T16:37:52+03:00'
+- gorsel: https://images.unsplash.com/photo-1704455312325-c0c5fdddc609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW52aXJvbm1lbnRhbCUyMHN5bXBvc2l1bSUyMHByZXNlbnRhdGlvbnxlbnwxfDB8fHwxNzkzODg1ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Kari Bjorn Photography / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/a-man-giving-a-presentation-to-a-group-of-people-bDsVfVh3i3E
+    fotografci: Kari Bjorn Photography
+    kredi: Kari Bjorn Photography / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: iklim konferansı
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''environmental symposium presentation''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Konferans ortamını temsil eden genel ve uygun bir görseldir.'
+    surum: g9-2026-11-05
+    konu_imza: 2e69cdbac817
+    gorsel_url: https://images.unsplash.com/photo-1704455312325-c0c5fdddc609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW52aXJvbm1lbnRhbCUyMHN5bXBvc2l1bSUyMHByZXNlbnRhdGlvbnxlbnwxfDB8fHwxNzkzODg1ODQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T16:37:52+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kurum: k4
+    kurum_notu: kurum fotoğrafı önbellekten
+  degisim: '2026-11-05T16:53:28+03:00'
 ---
 Antalya'da duzenlenmesi planlanan COP31 oncesinde gerceklestirilen "COP31 Yolunda Bolgesel Iklim Is Birligi Konferansi"nda, iklim degisikligiyle mucadele kapsaminda yurutulen calismalar degerlendirildi. Universiteler ve yerel yonetimlerin temsilcilerini bir araya getiren programda, bolgesel is birliginin guclendirilmesi ve surdurulebilirlik politikalarinin gelistirilmesi amacladi.
 

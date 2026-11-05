@@ -18,22 +18,21 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 10 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9-2026-11-05
+  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  surum: g9.1-2026-11-05
   konu_imza: e11d50673d18
   gorsel_url: /images/kategori/egitim.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T16:34:00+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-05T16:48:47+03:00'
+    yontem: kaynak/arşiv taraması
   kurum: k4
   kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '10 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin gerektirdiği unsur görünmüyor (bilimsel proje posteri, üniversite standı) — Labora; temsilî fotoğrafta tanın'
-    notlar: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Süleyman Kerli'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (scientific exhibition, climate conference) ilişkili lisanslı fotoğraf bulunamadı; ilk adaylar elendi; 2. turda 5 aday daha denendi'
+    kod: aday_bulunamadi
+    aciklama: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (scientific projects exhibition, conference pavil'
+    notlar: 'Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (scientific projects exhibition, conference pavilion) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
