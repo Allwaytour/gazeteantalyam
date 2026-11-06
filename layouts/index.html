@@ -1,11 +1,14 @@
 {{ define "main" }}
 {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
-{{ $fotolu := where $hepsi "gorsel" "!=" "" }}
+{{/* Fotoğraflı haberler: kategori kapağı (/images/kategori/…) fotoğraf sayılmaz; manşet ve öne çıkanlarda önce gerçek fotoğraflılar. */}}
+{{ $fotolu := slice }}{{ range $hepsi }}{{ if and .gorsel (not (in .gorsel "/images/kategori/")) }}{{ $fotolu = $fotolu | append . }}{{ end }}{{ end }}
 {{ $sinir := sub now.Unix 21600 }}
 {{ $kullanilan := slice }}
 
 {{/* ===== 1) MANŞET: büyük ana haber + 2 ikincil + fotoğraflı sıra ===== */}}
-{{ $adaylar := (where (where $hepsi "ts" "ge" $sinir) "manset" true) | append $fotolu | append $hepsi }}
+{{ $mansetler := where (where $hepsi "ts" "ge" $sinir) "manset" true }}
+{{ $fotolu_manset := slice }}{{ range $mansetler }}{{ if in $fotolu . }}{{ $fotolu_manset = $fotolu_manset | append . }}{{ end }}{{ end }}
+{{ $adaylar := $fotolu_manset | append $fotolu | append $mansetler | append $hepsi }}
 {{ $ana := index $adaylar 0 }}
 {{ $kullanilan = $kullanilan | append $ana.link }}
 {{ $ikinci := slice }}{{ range $fotolu | append $hepsi }}{{ if and (lt (len $ikinci) 2) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
