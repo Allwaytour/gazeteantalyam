@@ -1,5 +1,6 @@
-<article class="kart">
-  <a class="kart-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+<article class="kart{{ if not .foto }} metin-kart{{ end }}">
+  {{ if .foto }}<a class="kart-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
   {{ partial "kicker.html" . }}
   <h3 class="kart-b"><a href="{{ .link }}">{{ .baslik }}</a></h3>
+  {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
 </article>

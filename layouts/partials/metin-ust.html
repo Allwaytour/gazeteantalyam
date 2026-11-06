@@ -1,0 +1,3 @@
+{{/* Fotoğrafı olmayan haberin kompakt metin kartı üst satırı: kategori · ilçe · yayın saati. Fotoğraf bulununca kart kendiliğinden
+     fotoğraflı düzene geçer (kategori kapağı büyük görsel olarak gösterilmez). Parametre: haber sözlüğü */}}
+<div class="metin-ust"><span class="metin-kat">{{ .kategori }}</span>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>

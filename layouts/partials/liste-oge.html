@@ -1,5 +1,5 @@
-<article class="liste-oge">
-  <a class="lo-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+<article class="liste-oge{{ if not .foto }} metin-kart{{ end }}">
+  {{ if .foto }}<a class="lo-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
   <div class="lo-m">
     {{ partial "kicker.html" . }}
     <h3><a href="{{ .link }}">{{ .baslik }}</a></h3>
