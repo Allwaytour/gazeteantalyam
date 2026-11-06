@@ -1,35 +1,33 @@
 <footer class="alt"><div class="kap">
-  <div class="alt-marka">
-    <a class="alt-logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo-beyaz.png" | relURL }}" alt="{{ site.Title }}" width="640" height="471"></a>
-    <p class="alt-aciklama">Antalya ve 19 ilçesinden güncel haberler.</p>
-    <ul class="alt-iletisim">
-      {{ with site.Data.site.eposta }}<li><a href="mailto:{{ . }}">{{ . }}</a></li>{{ end }}
-      {{ with site.Data.site.instagram }}<li><a href="{{ . }}" target="_blank" rel="noopener">Instagram</a></li>{{ end }}
-      {{ with site.Data.site.x }}<li><a href="{{ . }}" target="_blank" rel="noopener">X</a></li>{{ end }}
-      {{ with site.Data.site.facebook }}<li><a href="{{ . }}" target="_blank" rel="noopener">Facebook</a></li>{{ end }}
-    </ul>
-  </div>
-  <div class="alt-baglanti">
-    <details class="alt-grup alt-kat" open>
-      <summary><h2>Kategoriler</h2></summary>
-      <ul>{{ range site.Data.site.kategoriler }}<li><a href="{{ partial "terim-url.html" (slice "kategoriler" .) }}">{{ . }}</a></li>{{ end }}</ul>
-    </details>
-    <details class="alt-grup alt-ilc" open>
-      <summary><h2>İlçeler</h2></summary>
-      <ul>{{ range site.Data.site.ilceler }}<li><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a></li>{{ end }}</ul>
-    </details>
-    <details class="alt-grup alt-kur" open>
-      <summary><h2>Kurumsal</h2></summary>
+  <div class="alt-ust">
+    <div class="alt-marka">
+      <a class="alt-logo" href="{{ "/" | relURL }}" aria-label="{{ site.Title }} ana sayfa"><img src="{{ "images/logo.png" | relURL }}" alt="{{ site.Title }}" width="640" height="471" loading="lazy"></a>
+      <p class="alt-aciklama">Antalya ve 19 ilçesinden yerel haberler.{{ with site.Data.site.eposta }} Haber, düzeltme ve reklam için: <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}</p>
+      <ul class="alt-sosyal">
+        {{ with site.Data.site.whatsapp }}<li><a class="alt-wa" href="https://wa.me/{{ . }}" target="_blank" rel="noopener">{{ partial "wa-ikon.html" 18 }}<span>İhbar Hattı{{ with site.Data.site.telefon }}: {{ . }}{{ end }}</span></a></li>{{ end }}
+        {{ with site.Data.site.instagram }}<li><a class="alt-ig" href="{{ . }}" target="_blank" rel="noopener">{{ partial "ig-ikon.html" 18 }}<span>Instagram</span></a></li>{{ end }}
+        {{ with site.Data.site.x }}<li><a href="{{ . }}" target="_blank" rel="noopener">X</a></li>{{ end }}
+        {{ with site.Data.site.facebook }}<li><a href="{{ . }}" target="_blank" rel="noopener">Facebook</a></li>{{ end }}
+      </ul>
+    </div>
+    <nav class="alt-kurumsal" aria-label="Kurumsal">
+      <h2>Kurumsal</h2>
       <ul>
         <li><a href="{{ "kunye/" | relURL }}">Künye</a></li>
         <li><a href="{{ "iletisim/" | relURL }}">İletişim</a></li>
         <li><a href="{{ "gizlilik/" | relURL }}">Gizlilik Politikası</a></li>
         <li><a href="{{ "index.xml" | relURL }}">RSS</a></li>
       </ul>
-    </details>
+    </nav>
+    <nav class="alt-ilceler" aria-label="İlçeler">
+      <h2>İlçeler</h2>
+      <ul>{{ range site.Data.site.ilceler }}<li><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a></li>{{ end }}</ul>
+    </nav>
   </div>
-  <div class="alt-alt">
+</div>
+  <div class="alt-alt"><div class="kap alt-alt-ic">
     <span>© {{ now.Year }} {{ site.Title }}. Tüm hakları saklıdır.</span>
     <a class="alt-yukari" href="#sayfa-basi">Yukarı dön <span aria-hidden="true">↑</span></a>
-  </div>
-</div></footer>
+  </div></div>
+</footer>
+{{ with site.Data.site.whatsapp }}<a class="wa-yuzen" href="https://wa.me/{{ . }}?text={{ "Merhaba Gazete Antalya, bir haber ihbarım var:" | urlquery }}" target="_blank" rel="noopener" aria-label="WhatsApp ihbar hattı">{{ partial "wa-ikon.html" 28 }}</a>{{ end }}

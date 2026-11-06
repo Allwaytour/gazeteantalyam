@@ -1,0 +1,7 @@
+{{/* Manşet yanındaki kart: fotoğraflıysa başlık fotoğrafın alt kısmında koyu geçiş üzerinde; fotoğrafsızsa metin kartı. */}}
+<article class="yn {{ if .foto }}yn-foto{{ else }}yn-metin{{ end }}">
+  <a href="{{ .link }}">
+    {{ if .foto }}{{ partial "gorsel.html" . }}{{ end }}
+    <span class="yn-yazi">{{ if not .foto }}<span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}<span class="yn-b">{{ .baslik }}</span>{{ if not .foto }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 140 }}</span>{{ end }}{{ end }}</span>
+  </a>
+</article>

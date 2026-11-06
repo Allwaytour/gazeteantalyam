@@ -1,8 +1,2 @@
-<article class="liste-oge{{ if not .foto }} metin-kart{{ end }}">
-  {{ if .foto }}<a class="lo-g" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
-  <div class="lo-m">
-    {{ partial "kicker.html" . }}
-    <h3><a href="{{ .link }}">{{ .baslik }}</a></h3>
-    {{ with .ozet }}<p>{{ . | plainify | truncate 170 }}</p>{{ end }}
-  </div>
-</article>
+{{/* Liste/ızgara öğesi (kategori, ilçe ve son haberler): ortak kart; "liste-oge" sınıfı sayfalama için */}}
+{{ partial "hk.html" (merge . (dict "tip" (.tip | default "ozetli") "sinif" "liste-oge")) }}

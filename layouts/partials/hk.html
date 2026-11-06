@@ -1,0 +1,17 @@
+{{/* Haber kartı (beyaz kutu, gri zemin üzerinde). İki bilinçli düzen:
+     fotoğraflı → görsel + başlık (+ kısa özet); fotoğrafsız → turuncu üst çizgili metin kartı: kategori · ilçe · zaman, başlık, özet.
+     Fotoğraf sonradan bulunursa kart kendiliğinden fotoğraflı düzene geçer. Görsel üzerinde rozet yoktur.
+     Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once". */}}
+{{ $t := .tip | default "kart" }}
+{{ $foto := .foto }}
+{{ $onemli := ge (int (.onem | default 3)) 4 }}
+<article class="hk hk-{{ $t }} {{ if $foto }}hk-foto{{ else }}hk-metin{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
+  <a class="hk-a" href="{{ .link }}">
+    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" . }}</span>{{ end }}
+    <span class="hk-m">
+      {{ if or (not $foto) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
+      <span class="hk-b">{{ .baslik }}</span>
+      {{ if or (not $foto) (eq $t "ozetli") }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 180 }}</span>{{ end }}{{ end }}
+    </span>
+  </a>
+</article>

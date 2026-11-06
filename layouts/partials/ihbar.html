@@ -1,0 +1,8 @@
+{{/* WhatsApp ihbar hattı kutusu (haber detayı ve iletişim). Numara: site.yaml → whatsapp */}}
+{{ with site.Data.site.whatsapp }}
+<aside class="ihbar" aria-label="WhatsApp ihbar hattı">
+  <span class="ihbar-ikon">{{ partial "wa-ikon.html" 30 }}</span>
+  <div class="ihbar-m"><b>WhatsApp İhbar Hattı</b><span>Gördüğünü çek, WhatsApp'tan gönder; haberin sesi ol!</span></div>
+  <a class="ihbar-btn" href="https://wa.me/{{ . }}?text={{ "Merhaba Gazete Antalya, bir haber ihbarım var:" | urlquery }}" target="_blank" rel="noopener">{{ site.Data.site.telefon | default . }}</a>
+</aside>
+{{ end }}
