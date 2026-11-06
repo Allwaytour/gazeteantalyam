@@ -887,6 +887,11 @@ def mekan_gorselleri(bag, qidler, takim_qid=""):
     return sonuc
 
 
+# Kurumun arşivindeki belirli bir eylem/anma/kampanya karesi (pankartlar, katılımcılar) başka bir olayı bugünkü haber gibi gösterir.
+EYLEM_IPUCU = re.compile(r"(?i)\b(vigils?|protest\w*|demonstrat\w*|rally|rallies|campaign\w*|activists?|sit-in|banners?|placards?|"
+                         r"in memory of|commemorat\w*|eylem\w*|gösteri\w*|miting\w*|anma)\b")
+
+
 def kurum_wikidata_adaylari(bag, konu):
     """Haberdeki kurum/takım/mekânın Wikidata görseli ve Commons kategorisi (ad birebir eşleşmeli)."""
     adaylar, notlar = [], []
@@ -952,6 +957,9 @@ def kurum_wikidata_adaylari(bag, konu):
                 continue      # haberin ana takımı başka bir takımsa rakibin kareleri/stadı kullanılmaz (maç orada oynanmıyorsa)
             if h.get("tur") == "takim" and OYUNCU_IPUCU.search(d["baslik"].replace("File:", "") + " " + d["aciklama"][:160]):
                 continue      # oyuncu/kadro/maç karesi: başka dönemin kadrosu bugünkü haber sanılır
+            if h.get("tur") != "takim" and EYLEM_IPUCU.search(d["baslik"].replace("File:", "") + " " + d["aciklama"][:200]):
+                ele(bag, d, f"kurum: '{h['ad']}' arşivindeki kare başka bir eylem/anma/kampanyaya ait (bugünkü haber sanılır)")
+                continue
             ok, _ = commons_uygun(d)
             if not ok or bag.yasakli_mi(d["url"]):
                 continue
@@ -1387,7 +1395,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # c5: "görselde olmalı" şartından kişi adları çıkarılır (temsilî fotoğrafta haberdeki kişi bulunamaz).
 # c6: olayın geçtiği adı belli mekânın (Kızılkule gibi) doğrulanmış fotoğrafı aynı olay şartı olmadan kabul edilir.
 # c7: Unsplash etiketleri de okunur; konu sorgusunun tamamı yerine çekirdek terim + kelimelerin yarısı yeterli; çocuk ürünü fotoğrafı.
-# c8: olayın geçtiği tesisin (Kızılkule) kendi fotoğrafı; temsilî fotoğrafta konu ilişkisi eşiği 6; çocuk ürünü önbellek düzeltmesi.
+# c8: olayın geçtiği tesisin (Kızılkule) kendi fotoğrafı; temsilî fotoğrafta konu ilişkisi eşiği 6; çocuk ürünü önbellek düzeltmesi;
+#     hassas haberde kişili temsilî kare ve kurum arşivindeki başka eylem/anma karesi kullanılmaz.
 KAPAK_SURUM = "c8"
 
 
@@ -1559,6 +1568,16 @@ def yasak_metin(konu, metin):
     return bool({kok(w) for w in kelimeler(yasak + " " + ek) if len(w) >= 4} & mk)
 
 
+KISI_VAR = re.compile(r"(?i)\b(bab(y|ies)|child(ren)?|kids?|toddlers?|infants?|boys?|girls?|m[ae]n|wom[ae]n|persons?|people|"
+                      r"mothers?|fathers?|parents?|famil(y|ies)|bebek\w*|çocu\w*|kişi\w*|kadın\w*|adam\w*)\b")
+
+
+def hassas_kisili(konu, metin):
+    """Hassas (çocuk/suç/kaza…) haberde temsilî ürün/konu karesinde kişi olmamalı: güvensiz ürün haberinde bebekli kare
+    o çocuğun zarar gördüğü izlenimini verir. Kayıt/açıklamada kişi geçen kare görüntü kontrolüne gönderilmez."""
+    return konu.get("hassas", "yok") != "yok" and bool(KISI_VAR.search(metin or ""))
+
+
 def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
     """KONU fotoğrafı (spor dalı, ürün, faaliyet, sektör): konuyu doğrudan gösteren ücretsiz fotoğraf. Yalnızca konu ayrıştırması
     "konu_gorseli.uygun" dediğinde ve hassas olmayan haberlerde aranır (ana öznenin tek etiketine bakılmaz: "muaythai şampiyonası"
@@ -1597,6 +1616,8 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
                         ele(bag, d, f"konu: '{sorgu}' kayıtta geçmiyor"); continue
                     if yasak_metin(konu, metin):
                         ele(bag, d, "konu: görselde olmaması gereken unsur kayıtta geçiyor"); continue
+                    if hassas_kisili(konu, metin):
+                        ele(bag, d, "hassas haber: temsilî karede kişi/çocuk var"); continue
                     if cekirdek and not stok_metni_uygun(cekirdek, metin):
                         ele(bag, d, f"konu: çekirdek terim '{cekirdek}' kayıtta yok"); continue
                     if manzara and not (ad_eslesir(yer["ad"], metin) or ad_eslesir(yer.get("ad_en") or yer["ad"], metin)):
@@ -1625,6 +1646,8 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
                         continue
                     if yasak_metin(konu, f["aciklama"]):
                         ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, "konu: görselde olmaması gereken unsur açıklamada geçiyor"); continue
+                    if hassas_kisili(konu, f["aciklama"] + " " + f.get("sayfa", "").replace("-", " ")):
+                        ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, "hassas haber: temsilî karede kişi/çocuk var"); continue
                     if not (stok_metni_uygun(sorgu, f["aciklama"]) or (cekirdek and stok_kismen_uygun(sorgu, f["aciklama"]))):
                         ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, f"konu: '{sorgu}' açıklamada yeterince geçmiyor"); continue
                     if cekirdek and not stok_metni_uygun(cekirdek, f["aciklama"]):
@@ -1900,6 +1923,8 @@ def eski_gecerli(eski, konu, haber):
         kg = konu_gorseli(konu)
         if not kg.get("uygun"):
             return False
+        if hassas_kisili(konu, unquote(s.get("kaynak_sayfa") or "").replace("-", " ").replace("_", " ") + " " + (s.get("kaynak_aciklama") or "")):
+            return False
         cekirdek = " ".join([w for w in kelimeler((kg.get("sorgular_en") or [""])[0]) if w not in STOK_GENEL][:1])
         kaynak = unquote(s.get("kaynak_sayfa") or "").replace("-", " ").replace("_", " ") + " " + (s.get("kaynak_aciklama") or "")
         return not cekirdek or stok_metni_uygun(cekirdek, kaynak)
@@ -1919,7 +1944,8 @@ def eski_gecerli(eski, konu, haber):
     if alt == "kurum":
         ad = s.get("gosterilen") or ""
         return any(h.get("tur") != "olay" and (ad_eslesir(h["ad"], ad) or ad_eslesir(ad, h["ad"])) for h in konu.get("hedefler") or []) \
-            and not (oz == "takim" and MAC_IPUCU.search(metin))
+            and not (oz == "takim" and MAC_IPUCU.search(metin)) \
+            and not (oz != "takim" and EYLEM_IPUCU.search(metin))
     return False
 
 
