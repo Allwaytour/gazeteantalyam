@@ -3,17 +3,33 @@ backend:
   name: github
   repo: Allwaytour/gazeteantalyam
   branch: main
+  # Giriş: GitHub erişim anahtarı (token) ile. "GitHub ile giriş" düğmesi ayrı bir OAuth sunucusu gerektirdiği için kapalı.
+  auth_methods: [token]
   commit_messages:
     create: "Yeni haber: {{slug}}"
     update: "Haber güncellendi: {{slug}}"
     delete: "Haber silindi: {{slug}}"
+    uploadMedia: "Görsel yüklendi: {{path}}"
+    deleteMedia: "Görsel silindi: {{path}}"
 
 site_url: https://www.gazeteantalyam.com
 display_url: https://www.gazeteantalyam.com
-logo_url: /favicon.png
+logo:
+  src: /favicon.png
 
 media_folder: static/images/haberler
 public_folder: /images/haberler
+
+# Yüklenen fotoğraflar tarayıcıda küçültülür (en uzun kenar 1920 px, WebP): telefondan çekilen 5-10 MB'lık
+# fotoğraflar sayfayı yavaşlatmasın. iPhone HEIC fotoğrafları da otomatik dönüştürülür.
+media_libraries:
+  default:
+    config:
+      max_file_size: 26214400
+      slugify_filename: true
+      filename_template: "{{year}}{{month}}{{day}}-{{filename}}-{{uuid_short}}"
+      transformations:
+        raster_image: { format: webp, quality: 82, width: 1920, height: 1920 }
 
 slug:
   encoding: ascii
@@ -23,13 +39,17 @@ collections:
   - name: haber
     label: Haberler
     label_singular: Haber
-    description: Elle eklenen haberler. Kaydettikten 1-2 dakika sonra sitede görünür.
+    description: Elle eklenen ve otomatik gelen tüm haberler. Düzenleyip kaydettiğiniz haber 1-2 dakika sonra sitede güncellenir.
     folder: content/haber
     create: true
     delete: true
-    slug: "{{slug}}"
+    slug: "{{year}}{{month}}{{day}}-{{slug}}"
+    identifier_field: title
+    thumbnail: gorsel
     summary: "{{title}} — {{date | date('DD.MM.YYYY HH:mm')}}"
-    sortable_fields: [date, title]
+    sortable_fields:
+      fields: [date, title]
+      default: { field: date, direction: descending }
     view_filters:
       - { label: Otomatik haberler, field: otomatik, pattern: true }
       - { label: Manşettekiler, field: manset, pattern: true }
@@ -38,7 +58,7 @@ collections:
       - { label: Başlık, name: title, widget: string }
       - { label: Spot (kısa özet), name: ozet, widget: text, required: false, hint: "Başlığın altında kalın yazıyla görünür. 1-2 cümle." }
       - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", hint: "İleri bir tarih seçerseniz haber o saatten sonraki ilk güncellemede yayımlanır." }
-      - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: false, hint: "Yatay fotoğraf önerilir (ör. 1200x750)." }
+      - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: false, hint: "Yatay fotoğraf önerilir. Yalnızca kendi çektiğiniz ya da kullanım izni olan fotoğrafları yükleyin. Fotoğrafı değiştirirseniz aşağıdaki 'Fotoğraf kredisi' alanını da güncelleyin; otomatik sistem elle konan fotoğrafa dokunmaz." }
       - label: Kategori
         name: kategoriler
         widget: select
@@ -56,9 +76,10 @@ collections:
       - { label: Manşete al, name: manset, widget: boolean, default: false, hint: "Ana sayfadaki büyük slayta eklenir." }
       - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
       - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
-      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Örn: Fotoğraf: AA" }
+      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Fotoğrafın altında görünür. Örn: Fotoğraf: Gazete Antalya / Fotoğraf: Antalya Büyükşehir Belediyesi" }
+      - { label: Etiketler, name: etiketler, widget: list, required: false, hint: "Haberde geçen kişi, kurum ve yer adları; her biri için Ekle düğmesine basın." }
       - { label: Görseli sabitle, name: gorsel_kilit, widget: boolean, required: false, default: false, hint: "Açıksa otomatik görsel seçimi bu haberin görseline dokunmaz." }
-      - { label: Haber metni, name: body, widget: markdown, required: false }
+      - { label: Haber metni, name: body, widget: markdown, required: false, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
       - { label: Kaynak adı (otomatik haberler), name: kaynak, widget: string, required: false }
       - { label: Kaynak bağlantısı (otomatik haberler), name: kaynak_url, widget: string, required: false }
       - { label: Otomatik eklendi, name: otomatik, widget: boolean, required: false, default: false, hint: "Otomatik haberler 30 gün sonra silinir. Kalıcı olmasını istiyorsanız kapatın." }
@@ -71,15 +92,18 @@ collections:
     folder: content/kose
     create: true
     delete: true
-    slug: "{{slug}}"
+    slug: "{{year}}{{month}}{{day}}-{{slug}}"
+    identifier_field: title
     summary: "{{title}} — {{yazar}} — {{date | date('DD.MM.YYYY')}}"
-    sortable_fields: [date, title]
+    sortable_fields:
+      fields: [date, title]
+      default: { field: date, direction: descending }
     fields:
       - { label: Başlık, name: title, widget: string }
       - { label: Yazar, name: yazar, widget: relation, collection: yazarlar, value_field: "{{slug}}", search_fields: [title], display_fields: [title] }
       - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: Kısa özet, name: ozet, widget: text, required: false }
-      - { label: Yazı, name: body, widget: markdown }
+      - { label: Yazı, name: body, widget: markdown, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
 
   - name: yazarlar
     label: Yazarlar
