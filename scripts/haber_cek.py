@@ -308,8 +308,12 @@ Kurallar:
 - Kaynak metin bir haber değilse "uygun": false döndür. Şunlar haber DEĞİLDİR: köşe yazısı, makale, yorum/görüş yazısı, deneme, anı, röportaj-söyleşi, reklam/tanıtım içeriği, liste, video/galeri sayfası, çok kısa metinler. Antalya ile ilgisi yoksa da "uygun": false döndür.
 
 Yalnızca şu biçimde JSON döndür:
-{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>",
+{"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>", "onem": 3,
  "gorsel_konu": <GORSEL_KONU>}
+
+"onem": Haberin Antalya okuru için önemi, 1-5 tam sayı. 5: il genelini etkileyen çok önemli gelişme (can kaybı çok olan kaza/afet,
+il çapında karar, Antalya'da yapılan büyük ulusal/uluslararası olay). 4: önemli il/ilçe gündemi (büyük yatırım, önemli karar, takımın
+kritik maçı). 3: olağan haber. 2: küçük yerel haber, duyuru. 1: magazin, tanıtım, rutin etkinlik.
 
 "gorsel_konu": Görsel seçimi için yazdığın haberin konusunun ayrıştırması.
 <GORSEL_KURAL>
@@ -469,6 +473,7 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "etiketler": list(etiketler or []),
+        "onem": max(1, min(5, int((yz or {}).get("onem") or 3))) if str((yz or {}).get("onem") or "3").strip().isdigit() else 3,
         "manset": False,
         "son_dakika": False,
         "yazar": "Gazete Antalya",
