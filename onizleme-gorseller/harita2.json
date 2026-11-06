@@ -1,0 +1,42 @@
+[
+ {
+  "ad": "30.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/960px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG"
+ },
+ {
+  "ad": "31.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/960px-Chess_game_Staunton_No._6_perfil_view_8.jpg"
+ },
+ {
+  "ad": "32.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/960px-Palamuse_kihelkonnakooli_klassiruum.jpg"
+ },
+ {
+  "ad": "33.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ed_Burtynsky_%2838148537%29.jpg/960px-Ed_Burtynsky_%2838148537%29.jpg"
+ },
+ {
+  "ad": "34.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nikol_Pashinyan_2026-04-01.png/960px-Nikol_Pashinyan_2026-04-01.png"
+ },
+ {
+  "ad": "35.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg/960px-US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg"
+ },
+ {
+  "ad": "36.jpg",
+  "url": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29ja3RhaWwlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTA0MjQ5fDA&ixlib=rb-4.1.0&w=960&q=75&auto=format&fit=max"
+ },
+ {
+  "ad": "api-kur-try.json",
+  "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/try.json"
+ },
+ {
+  "ad": "api-hava.json",
+  "url": "https://api.open-meteo.com/v1/forecast?latitude=36.8969&longitude=30.7133&current=temperature_2m,weather_code,relative_humidity_2m,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FIstanbul&forecast_days=4"
+ },
+ {
+  "ad": "api-frankfurter.json",
+  "url": "https://api.frankfurter.dev/v1/latest?base=TRY&symbols=USD,EUR,GBP"
+ }
+]
