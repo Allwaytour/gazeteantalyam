@@ -30,7 +30,7 @@
 {{ if and .IsPage (in (slice "haber" "kose") .Section) }}
 {{ $ld := dict "@context" "https://schema.org" "@type" "NewsArticle" "headline" (.Title | truncate 110 "" | htmlUnescape) "mainEntityOfPage" .Permalink "url" .Permalink "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "description" ($aciklama | plainify | truncate 200 | htmlUnescape) "inLanguage" "tr-TR" "publisher" $kurulus }}
 {{ with .Params.kategoriler }}{{ $ld = merge $ld (dict "articleSection" (index . 0)) }}{{ end }}
-{{ if and .Params.gorsel (ne .Params.gorsel_tur "kategori") }}{{ $ld = merge $ld (dict "image" (slice $paylasim)) }}{{ end }}
+{{ if and .Params.gorsel (ne (partial "gorsel-tur.html" .) "kategori") (not (in .Params.gorsel "/images/kategori/")) }}{{ $ld = merge $ld (dict "image" (slice $paylasim)) }}{{ end }}
 {{ $yazar := .Params.yazar | default site.Title }}
 {{ if eq $yazar site.Title }}{{ $ld = merge $ld (dict "author" (dict "@type" "Organization" "name" site.Title "url" ("/" | absURL))) }}{{ else }}{{ $ld = merge $ld (dict "author" (dict "@type" "Person" "name" $yazar)) }}{{ end }}
 {{ with .Params.kaynak_url }}{{ if $.Params.otomatik }}{{ $ld = merge $ld (dict "isBasedOn" .) }}{{ end }}{{ end }}
