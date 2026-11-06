@@ -25,7 +25,7 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 18          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 19          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:              # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
     - 20261106-antalya-ve-kocaelide-kazi-kazan-talihlileri-toplam-32-milyon-85893.md
     - 20261106-antalyadaki-cop31-alaninda-saglik-onlemleri-artirildi-f1e13.md
@@ -47,19 +47,28 @@ ayarlar:
     - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
     - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
     - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
-  gorsel_yeniden_no: 7          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
+  gorsel_yeniden_no: 8          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
+    - 20261106-antalya-ve-kocaelide-kazi-kazan-talihlileri-toplam-32-milyon-85893.md
+    - 20261106-antalyadaki-cop31-alaninda-saglik-onlemleri-artirildi-f1e13.md
+    - 20261106-antalyada-mobilya-fabrikasinda-yangin-cikti-4eaa2.md
+    - 20261106-antalyada-ormanda-kaybolan-doga-yuruyuscusu-3-saatte-bulundu-2d5b6.md
+    - 20261106-kepezde-baris-manco-bulvari-yenileniyor-bf191.md
+    - 20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk-5d53d.md
+    - 20261106-alanya-genc-is-insani-serkan-derenin-vefatiyla-yasa-boguldu-26ebd.md
+    - 20261106-dunyanin-iklim-zirvesi-antalyada-basliyor-8b6fe.md
+    - 20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f.md
+    - 20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv-ea8ae.md
+    - 20261106-emeklilik-dilekcesi-verecekler-icin-kritik-surec-2026-mi-202-a3af8.md
+    - 20261105-alanyada-kasim-ayi-spor-musabakalari-icin-guvenlik-zirvesi-08f6e.md
+    - 20261105-fenerbahce-baskoniyi-rahat-gecti-a37b3.md
+    - 20261105-kizilkulede-cumhuriyet-ve-ataturk-sergisi-02047.md
+    - 20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b-87900.md
+    - 20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla-74007.md
+    - 20261105-af-orgutunden-cop31-oncesi-turkiyede-insan-haklari-uyarisi-56bf0.md
     - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
     - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
     - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
-    - 20261105-antalya-cop31-is-ve-yatirim-zirvesi-ile-kuresel-ceolari-agir-876f6.md
-    - 20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b40e9.md
-    - 20261105-antalyada-cocuk-filmleri-festivali-sona-erdi-0190e.md
-    - 20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha-90d73.md
-    - 20261105-antalyaspordan-kriz-iddialarina-yalanlama-adc7a.md
-    - 20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi-c495f.md
-    - 20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e.md
-    - 20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md
   gorsel_oncelikli:             # toplu düzeltmede önce bu haberler işlenir (g9 doğrulama örnekleri)
     - 20261105-istiklal-bilim-ve-teknoloji-universitesi-cop31e-16-projeyle-a0255.md
     - 20261105-antalya-turizmde-12-milyonu-geride-birakti-aef78.md
