@@ -748,6 +748,22 @@ ETKINLIK_EN = {"ziyaret": "visit visits visiting", "toplanti": "meeting", "konse
                "konusma": "speech", "zirve": "summit", "kongre": "congress", "festival": "festival", "gorusme": "talks meeting"}
 
 
+def baska_kisinin_haberi(konu, haber, ad):
+    """Haberin ana kişisi (ana özne ya da başlıkta adı geçen kişi) başka biriyse onun adı; değilse ''.
+    (ör. "Hakan Özmert yeni göreviyle Fenerbahçe antrenmanında" haberinde Emre Belözoğlu portresi kullanılmaz.)"""
+    kk = set(kelimeler(ad))
+    oz = konu.get("ana_ozne") or {}
+    if oz.get("tur") == "kisi" and ayirt_edici(oz.get("ad", "")) and not (set(kelimeler(oz["ad"])) & kk):
+        return oz["ad"]
+    bas = set(kelimeler(haber.get("baslik", "")))
+    if kk & bas:
+        return ""
+    for k in konu.get("ana_kisiler") or []:
+        if isinstance(k, dict) and k.get("ad") and set(kelimeler(k["ad"])) & bas and not (set(kelimeler(k["ad"])) & kk):
+            return k["ad"]
+    return ""
+
+
 def kisi_adaylari(bag, konu, haber):
     """Haberdeki tanınmış kişinin doğrulanmış Commons kategorisinden adaylar: olay → benzer etkinlik → genel/portre."""
     adaylar, notlar = [], []
@@ -772,6 +788,10 @@ def kisi_adaylari(bag, konu, haber):
         ana_kisi = oz.get("tur") == "kisi" and bool(set(kelimeler(oz.get("ad", ""))) & set(kelimeler(kisi["ad"])))
         if not adi_basta and not ana_kisi:
             notlar.append(f"'{kisi['ad']}' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı")
+            continue
+        baskasi = baska_kisinin_haberi(konu, haber, kisi["ad"])
+        if baskasi:
+            notlar.append(f"haberin ana kişisi '{baskasi}'; '{kisi['ad']}' fotoğrafı haberi onun hakkındaymış gibi gösterir, kullanılmadı")
             continue
         if sira > 0 and not adi_basta:
             # İkinci kişi başlıkta yoksa haberin öznesi değildir; onun fotoğrafı haberi başka biri hakkındaymış gibi gösterir.
@@ -1396,7 +1416,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # c6: olayın geçtiği adı belli mekânın (Kızılkule gibi) doğrulanmış fotoğrafı aynı olay şartı olmadan kabul edilir.
 # c7: Unsplash etiketleri de okunur; konu sorgusunun tamamı yerine çekirdek terim + kelimelerin yarısı yeterli; çocuk ürünü fotoğrafı.
 # c8: olayın geçtiği tesisin (Kızılkule) kendi fotoğrafı; temsilî fotoğrafta konu ilişkisi eşiği 6; çocuk ürünü önbellek düzeltmesi;
-#     hassas haberde kişili temsilî kare ve kurum arşivindeki başka eylem/anma karesi kullanılmaz.
+#     hassas haberde kişili temsilî kare ve kurum arşivindeki başka eylem/anma karesi kullanılmaz;
+#     haberin ana kişisi başkasıysa ikinci kişinin portresi kullanılmaz.
 KAPAK_SURUM = "c8"
 
 
@@ -1940,7 +1961,8 @@ def eski_gecerli(eski, konu, haber):
         return bool(haber_yeri(konu, haber))
     if alt.startswith("kisi"):
         ad = s.get("gosterilen") or ""
-        return any(set(kelimeler(ad)) & set(kelimeler(k["ad"])) for k in konu.get("ana_kisiler") or [])
+        return any(set(kelimeler(ad)) & set(kelimeler(k["ad"])) for k in konu.get("ana_kisiler") or []) \
+            and not baska_kisinin_haberi(konu, haber or {}, ad)
     if alt == "kurum":
         ad = s.get("gosterilen") or ""
         return any(h.get("tur") != "olay" and (ad_eslesir(h["ad"], ad) or ad_eslesir(ad, h["ad"])) for h in konu.get("hedefler") or []) \
