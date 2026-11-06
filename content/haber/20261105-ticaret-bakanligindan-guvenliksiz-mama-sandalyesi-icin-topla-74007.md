@@ -20,19 +20,20 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: a5d5e54628b8
+  konu_imza: 1324116a368b
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T00:26:07+03:00'
+    tarih: '2026-11-06T12:54:06+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; çocuk içeren haber: kişi fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; çocuk içeren haber: kişi fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-  kapak_surum: c5
+    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +44,9 @@ kaynak_url: https://www.akdenizmanset.com.tr/ticaret-bakanligindan-dusme-riski-b
 baslik_ozgun: TİCARET BAKANLIĞI'NDAN GÜVENLİKSİZ MAMA SANDALYESİ İÇİN TOPLATMA KARARI
 etiketler:
 - Ticaret Bakanlığı
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Ticaret Bakanlığı tarafından yürütülen piyasa gözetimi ve denetim çalışmaları sonucunda, bebek ve çocukların kullanımı için üretilen bir mama sandalyesinde ciddi güvenlik eksiklikleri tespit edildi. Yapılan teknik incelemelerde, ürünün güvenlik barı ile bacak açıklığı arasındaki mesafenin belirlenen standartların altında kaldığı saptandı.
 

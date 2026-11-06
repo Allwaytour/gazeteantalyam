@@ -23,19 +23,21 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: e9a757aa531a
+  konu_imza: e5862d6146d8
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T01:28:49+03:00'
+    tarih: '2026-11-06T12:54:01+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Sosyal Güvenlik Kurumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (pension, retirement, calculator) ili'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Sosyal Güvenlik Kurumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (pension, retirement, calculator) ilişkili lisanslı fotoğraf bulunamadı; ''emeklilik dilekçesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: pension calculation, retirement planning)'
-  kapak_surum: c5
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''emeklilik dilekçesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: retirement application document, pension calculati'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''emeklilik dilekçesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: retirement application document, pension calculation Turkey)'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +45,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/emeklilik-dilekcesinde-kritik-tarih-2026-mi-2027-mi
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Emeklilik koşullarını tamamlayan sigortalılar için başvuru yapılacak yılın önemi artıyor. 2026 yılı içerisinde emeklilik dilekçesi verenler ile 2027 yılını bekleyenlerin alacağı aylıklar arasında fark oluşabileceği öngörülüyor. Güncel enflasyon tahminleri ve ekonomik veriler ışığında yapılan hesaplamalar, 2026 yılının emekli maaşı açısından avantajlı olabileceğine işaret ediyor. Ancak kesin sonuçlar için yıl sonu enflasyon verilerinin netleşmesi bekleniyor.
 

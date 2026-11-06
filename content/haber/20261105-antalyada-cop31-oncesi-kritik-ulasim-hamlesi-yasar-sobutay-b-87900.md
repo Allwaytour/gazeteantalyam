@@ -21,19 +21,21 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: f6b9dc844a30
+  konu_imza: 5d3728767989
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:26:31+03:00'
+    tarih: '2026-11-06T12:54:04+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulva'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulvarı'' için konuyla (asphalt road, road construction, traffic lanes) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c4
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulvarı'' için konuyla (boulevard, road construction, bicycle lane) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +47,9 @@ baslik_ozgun: 'ANTALYA''DA COP31 ÖNCESİ KRİTİK ULAŞIM HAMLESİ: YAŞAR SOBU
 etiketler:
 - Büşra Özdemir
 - Antalya Büyükşehir Belediyesi
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya Büyükşehir Belediyesi, Birleşmiş Milletler İklim Değişikliği Taraflar Konferansı (COP31) hazırlıkları kapsamında kent genelindeki ulaşım ve altyapı ağını modernize etmeye devam ediyor. Bu çalışmaların merkezinde yer alan önemli güzergahlardan Yaşar Sobutay Bulvarı, kapsamlı bir dönüşümle trafiğe açıldı. Daha önce tek gidiş ve tek geliş şeklinde hizmet veren 4 kilometrelik yol, yapılan düzenlemeyle iki gidiş ve iki geliş olmak üzere toplam dört şeride çıkarıldı.
 

@@ -2,55 +2,39 @@
 title: Kızılkule'de Cumhuriyet ve Atatürk Sergisi
 date: '2026-11-05T23:20:00+03:00'
 ozet: Alanya'nın tarihi simgesi Kızılkule, 800. yıl kutlamaları kapsamında genç sanatçıların Cumhuriyet temalı eserlerine ev sahipliği yaptı.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: stok
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_(upper_floor),_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_(September_2026)_06.jpg
+  fotografci: ZemplinTemplar
+  kredi: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: resim sergisi
   cekim_yili: ''
-  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 'Commons dosya kaydında ''historical art exhibition'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Temsili resim sergisi görseli; tablo ve sergi ortamını yansıtıyor.'
   surum: g9.4-2026-11-05
-  konu_imza: 6b64427dc699
-  gorsel_url: /images/kategori/kultur-sanat.png
+  konu_imza: 8b466a3d3d05
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T23:59:07+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    sonuc: onaylandı
+    tarih: '2026-11-06T12:30:50+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
+  kaynak_aciklama: Vihorlat Museum in Humenné - History and art history permanent exhibition - Entry hall (upper floor), framed pictures with historical images of the Humenné mano
   kurum: k5
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '5 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberi; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Şakir Öner Öztürk'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Cumhuriyet ve Atatürk Sergisi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Kızılkule'' için konuyla (historical tower, art exhibition) ilişkili lisanslı fotoğraf bulunamadı; ''sanat sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: art exhibition in historical building, painting exhibition); ''sanat sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: tarihi binada resim sergisi, sanat sergisi)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:%22CLIMBING_AND_JUMPING_ARE_FORBIDDEN%22_Sign,_Red_Tower,_Alanya,_T%C3%BCrkiye,_2024.jpg
-      katman: kurum
-      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mek
-    - sayfa: https://commons.wikimedia.org/wiki/File:ALANYA_2025.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule'nin
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Hafen_-_panoramio.jpg
-      katman: kurum
-      neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule ve '
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Tershanesi_ve_K%C4%B1z%C4%B1lkule.jpg
-      katman: kurum
-      neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule''yi '
-    - sayfa: https://commons.wikimedia.org/wiki/File:K%C4%B1z%C4%B1lkule_2021_d%C4%B1%C5%9F_16.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule'nin
-  kapak_surum: c5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -64,6 +48,57 @@ etiketler:
 - Alanya Güzel Sanatlar Lisesi
 - Alanya Kaymakamlığı
 - Alanya İlçe Millî Eğitim Müdürlüğü
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
+gorsel_gecmis:
+- gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+    surum: g9.4-2026-11-05
+    konu_imza: 6b64427dc699
+    gorsel_url: /images/kategori/kultur-sanat.png
+    kontrol:
+      yapildi: true
+      sonuc: adaylar reddedildi
+      tarih: '2026-11-05T23:59:07+03:00'
+      yontem: Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    kurum: k5
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '5 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberi; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Şakir Öner Öztürk'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Cumhuriyet ve Atatürk Sergisi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Kızılkule'' için konuyla (historical tower, art exhibition) ilişkili lisanslı fotoğraf bulunamadı; ''sanat sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: art exhibition in historical building, painting exhibition); ''sanat sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: tarihi binada resim sergisi, sanat sergisi)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:%22CLIMBING_AND_JUMPING_ARE_FORBIDDEN%22_Sign,_Red_Tower,_Alanya,_T%C3%BCrkiye,_2024.jpg
+        katman: kurum
+        neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mek
+      - sayfa: https://commons.wikimedia.org/wiki/File:ALANYA_2025.jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule'nin
+      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Hafen_-_panoramio.jpg
+        katman: kurum
+        neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule ve '
+      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Tershanesi_ve_K%C4%B1z%C4%B1lkule.jpg
+        katman: kurum
+        neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule''yi '
+      - sayfa: https://commons.wikimedia.org/wiki/File:K%C4%B1z%C4%B1lkule_2021_d%C4%B1%C5%9F_16.jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule'nin
+    kapak_surum: c5
+  degisim: '2026-11-06T12:54:04+03:00'
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 

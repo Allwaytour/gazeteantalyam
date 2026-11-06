@@ -19,32 +19,37 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: e613b70b064d
+  konu_imza: 14aafbb3daa8
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T23:58:40+03:00'
+    tarih: '2026-11-06T12:54:02+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur'
+    aciklama: '4 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya limanını gösteren ; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya''da parasailing yap; haberin konusuyla doğrud'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Şakir Öner Öztürk'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İlçe Spor Güvenlik Kurulu Toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
       katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
+      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya limanını gösteren genel arşiv fotoğrafı, güvenlik zirvesi toplantısını temsil etmez.
+    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Volleyball.jpg
+      katman: kurum
+      neden: 'habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); görselde olmaması gereken unsur '
     - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
       katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
+      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya'da parasailing yapan kişileri gösteren arşiv görseli, güvenlik kurulu toplantısıyla iliş
     - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
       katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (toplantı masası, yetkililer) — Alanya genel görünümü, hab
-  kapak_surum: c5
+      neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Alanya genel görünümünü gösteren arşiv karesi, spor güvenlik zirvesi konusuyla doğrudan ilgili '
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -58,6 +63,9 @@ etiketler:
 - İlçe Spor Güvenlik Kurulu
 - Corendon Alanyaspor
 - Alanya 1221 Futbol Spor Kulübü
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Alanya, kasım ayı boyunca ev sahipliği yapacağı ulusal ve yerel spor organizasyonlarına hazırlanıyor. Kentte sporun huzur ve güven ortamında sürmesi amacıyla düzenlenen İlçe Spor Güvenlik Kurulu Toplantısı, Kaymakam Şakir Öner Öztürk başkanlığında gerçekleştirildi. İlgili kurum ve kuruluş temsilcilerinin katıldığı toplantıda, sporcuların, teknik ekiplerin ve taraftarların güvenliği için atılacak adımlar detaylıca ele alındı.
 
