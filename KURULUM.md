@@ -39,6 +39,10 @@ Site ücretsiz GitHub altyapısında çalışır:
    - Permissions: **Contents → Read and write**
 2. `www.gazeteantalyam.com/admin` adresine git, **Sign In with Token** seçeneğine tıkla ve token'ı yapıştır.
 3. **Haberler → Yeni** ile haber ekle. Kaydettikten 1-2 dakika sonra haber sitede görünür.
+4. Köşe yazısı için **Köşe Yazıları → Yeni**; yeni yazar için önce **Yazarlar → Yeni**.
+5. Girilmiş bir haberi düzeltmek için **Haberler** listesinde habere tıkla, değiştir, **Kaydet**. Kapak fotoğrafını
+   değiştirirsen "Fotoğraf kredisi" alanını da güncelle. Panelden konan fotoğrafa otomatik görsel sistemi dokunmaz.
+   Yüklenen fotoğraflar tarayıcıda küçültülür (en uzun kenar 1920 px, WebP).
 
 Başka muhabirler eklemek için: Her muhabir kendi GitHub hesabını açar. Sen depo **Settings → Collaborators** sayfasından onu eklersin, o da kendi token'ıyla giriş yapar.
 
