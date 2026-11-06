@@ -76,7 +76,7 @@ collections:
       - { label: Manşete al, name: manset, widget: boolean, default: false, hint: "Ana sayfadaki büyük slayta eklenir." }
       - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
       - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
-      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Fotoğrafın altında görünür. Örn: Fotoğraf: Gazete Antalya / Fotoğraf: Antalya Büyükşehir Belediyesi" }
+      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Haber sayfasında görünmez; alt bölümdeki Fotoğraf Kaynakları sayfasında listelenir. Örn: Fotoğraf: Gazete Antalya" }
       - { label: Etiketler, name: etiketler, widget: list, required: false, hint: "Haberde geçen kişi, kurum ve yer adları; her biri için Ekle düğmesine basın." }
       - { label: Görseli sabitle, name: gorsel_kilit, widget: boolean, required: false, default: false, hint: "Açıksa otomatik görsel seçimi bu haberin görseline dokunmaz." }
       - { label: Haber metni, name: body, widget: markdown, required: false, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
