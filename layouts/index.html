@@ -1,24 +1,24 @@
 {{ define "main" }}
 {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
-{{/* Fotoğraflı haberler: kategori kapağı (/images/kategori/…) fotoğraf sayılmaz; manşet ve öne çıkanlarda önce gerçek fotoğraflılar. */}}
-{{ $fotolu := slice }}{{ range $hepsi }}{{ if and .gorsel (not (in .gorsel "/images/kategori/")) }}{{ $fotolu = $fotolu | append . }}{{ end }}{{ end }}
 {{ $sinir := sub now.Unix 21600 }}
 {{ $kullanilan := slice }}
 
-{{/* ===== 1) MANŞET: büyük ana haber + 2 ikincil + fotoğraflı sıra ===== */}}
-{{ $mansetler := where (where $hepsi "ts" "ge" $sinir) "manset" true }}
-{{ $fotolu_manset := slice }}{{ range $mansetler }}{{ if in $fotolu . }}{{ $fotolu_manset = $fotolu_manset | append . }}{{ end }}{{ end }}
-{{ $adaylar := $fotolu_manset | append $fotolu | append $mansetler | append $hepsi }}
-{{ $ana := index $adaylar 0 }}
+{{/* ===== 1) MANŞET =====
+     Önce haberin önemi (onem 1-5; elle "manşet" işaretli = 5), son 6 saatteki haberler arasından. Aynı önemdeki haberlerden
+     fotoğraflı olan öne alınır; önemli bir haber fotoğrafı yok diye geri plana atılmaz (metin kartıyla manşette kalır). */}}
+{{ $son := where $hepsi "ts" "ge" $sinir }}{{ if lt (len $son) 7 }}{{ $son = first 12 $hepsi }}{{ end }}
+{{ $sirali := slice }}
+{{ range $p := seq 51 -1 10 }}{{ range $son }}{{ if eq (add (mul .onem 10) (cond .foto 1 0)) $p }}{{ $sirali = $sirali | append . }}{{ end }}{{ end }}{{ end }}
+{{ $ana := index $sirali 0 }}
 {{ $kullanilan = $kullanilan | append $ana.link }}
-{{ $ikinci := slice }}{{ range $fotolu | append $hepsi }}{{ if and (lt (len $ikinci) 2) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
-{{ $sira := slice }}{{ range $fotolu | append $hepsi }}{{ if and (lt (len $sira) 4) (not (in $kullanilan .link)) }}{{ $sira = $sira | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $ikinci := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $ikinci) 2) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $sira := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $sira) 4) (not (in $kullanilan .link)) }}{{ $sira = $sira | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 
 <h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
 <section class="manset" aria-label="Manşet">
   {{ with $ana }}
-  <article class="h-buyuk">
-    <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" (merge . (dict "buyuk" true)) }}<span class="g-etiket">{{ .kategori }}</span></a>
+  <article class="h-buyuk{{ if not .foto }} metin-kart{{ end }}">
+    {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" (merge . (dict "buyuk" true)) }}<span class="g-etiket">{{ .kategori }}</span></a>{{ end }}
     <div class="h-buyuk-yazi"><span class="h-buyuk-kat">{{ .kategori }}</span><h2 class="b-xl"><a href="{{ .link }}">{{ .baslik }}</a></h2></div>
     {{ with .ozet }}<p class="spot">{{ . | plainify | truncate 200 }}</p>{{ end }}
     <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
@@ -26,9 +26,10 @@
   {{ end }}
   <div class="manset-yan">
     {{ range $ikinci }}
-    <article class="h-orta">
-      <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>
+    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
+      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
       <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
+      {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
     </article>
     {{ end }}
   </div>
@@ -37,10 +38,11 @@
 {{ with $sira }}
 <section class="foto-sira" aria-label="Öne çıkanlar">
   {{ range . }}
-  <article class="h-sira">
-    <a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+  <article class="h-sira{{ if not .foto }} metin-kart{{ end }}">
+    {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
     <span class="ust-etiket">{{ .kategori }}</span>
     <h3 class="b-s"><a href="{{ .link }}">{{ .baslik }}</a></h3>
+    {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
   </article>
   {{ end }}
 </section>
@@ -55,8 +57,8 @@
     <header class="bolum-bas"><h2 id="b-gundem">Antalya Gündemi</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
     <div class="gundem-blok">
       {{ with index $gundem 0 }}
-      <article class="h-orta h-orta-buyuk">
-        <a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>
+      <article class="h-orta h-orta-buyuk{{ if not .foto }} metin-kart{{ end }}">
+        {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
         <h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>
         {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 160 }}</p>{{ end }}
         <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
@@ -64,9 +66,9 @@
       {{ end }}
       <ul class="kucuk-liste">
         {{ range after 1 $gundem }}
-        <li class="h-kucuk">
-          <a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
-          <div><span class="ust-etiket">{{ .kategori }}{{ with .ilce }} · {{ . }}{{ end }}</span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3></div>
+        <li class="h-kucuk{{ if not .foto }} metin-kart{{ end }}">
+          {{ if .foto }}<a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
+          <div><span class="ust-etiket">{{ .kategori }}{{ with .ilce }} · {{ . }}{{ end }}</span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 110 }}</p>{{ end }}{{ end }}</div>
         </li>
         {{ end }}
       </ul>
@@ -101,9 +103,10 @@
   <header class="bolum-bas"><h2 id="b-k-gundem">Gündem</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
   <div class="izgara-3">
     {{ range first 6 $g }}
-    <article class="h-orta">
-      <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
+      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
       <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
+      {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
       <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
     </article>
     {{ end }}
@@ -120,10 +123,10 @@
   <section class="bolum" aria-label="{{ $k }}">
     <header class="bolum-bas"><h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">{{ $k }}</a></h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">Tümü</a></header>
     {{ with index $kh 0 }}
-    <article class="h-bindirme">
-      <a class="g g-16x9" href="{{ .link }}">{{ partial "gorsel.html" . }}
+    <article class="h-bindirme{{ if not .foto }} metin-kart{{ end }}">
+      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}">{{ partial "gorsel.html" . }}
         <span class="bindirme-m"><span class="ust-etiket">{{ with .ilce }}{{ . }} · {{ end }}<time datetime="{{ .iso }}" data-zaman></time></span><span class="b-l">{{ .baslik }}</span></span>
-      </a>
+      </a>{{ else }}{{ partial "metin-ust.html" . }}<h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}{{ end }}
     </article>
     {{ end }}
     <ul class="baslik-liste">{{ range first 4 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
@@ -140,17 +143,17 @@
   <header class="bolum-bas bolum-bas-koyu"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tüm spor haberleri</a></header>
   <div class="bant-izgara">
     {{ with index $spor 0 }}
-    <article class="bant-ana">
-      <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+    <article class="bant-ana{{ if not .foto }} metin-kart{{ end }}">
+      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
       <h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>
       {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 140 }}</p>{{ end }}
     </article>
     {{ end }}
     <div class="bant-yan">
       {{ range after 1 $spor }}
-      <article class="h-kucuk">
-        <a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
-        <div><span class="ust-etiket"><time datetime="{{ .iso }}" data-zaman></time></span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3></div>
+      <article class="h-kucuk{{ if not .foto }} metin-kart{{ end }}">
+        {{ if .foto }}<a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
+        <div><span class="ust-etiket"><time datetime="{{ .iso }}" data-zaman></time></span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 110 }}</p>{{ end }}{{ end }}</div>
       </article>
       {{ end }}
     </div>
@@ -165,8 +168,8 @@
   <header class="bolum-bas"><h2 id="b-ks">Kültür-Sanat</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Kültür-Sanat") }}">Tümü</a></header>
   <div class="ks-blok">
     {{ range first 2 $ks }}
-    <article class="h-orta">
-      <a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
+      {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
       <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
       {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 130 }}</p>{{ end }}
     </article>
@@ -203,9 +206,10 @@
     <div class="sutun">
       <header class="bolum-bas"><h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">{{ $k }}</a></h2></header>
       {{ with index $kh 0 }}
-      <article class="h-orta">
-        <a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>
+      <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
+        {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
         <h3 class="b-s"><a href="{{ .link }}">{{ .baslik }}</a></h3>
+        {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
       </article>
       {{ end }}
       <ul class="baslik-liste">{{ range first 3 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
