@@ -31,14 +31,16 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T11:29:27+03:00'
+    tarih: '2026-11-06T12:49:24+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Kepez Devlet Hastanesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; foto'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Kepez Devlet Hastanesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 sağlık tedbirleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (ambulance, medical tent, health center) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c6
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bi'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (infirmary, ambulance) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Anadolu Ajansı
 kaynak_url: https://www.aa.com.tr/tr/gundem/cop31-alaninda-saglik-tedbirleri-ust-seviyeye-cikarildi/4113726
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında Antalya'daki etkinlik alanında sağlık tedbirleri alınmaya başlandı. Yaklaşık 1,1 milyon metrekarelik alanda yapılacak organizasyon boyunca hızlı ve kesintisiz sağlık hizmeti verilmesi amacıyla 5 tam donanımlı revir kuruldu. Liderler Zirvesi'nin yapılacağı mavi alanda 3, sivil toplum kuruluşları ile yan etkinliklerin yer alacağı yeşil alanda ise 2 revir hizmet verecek.
 

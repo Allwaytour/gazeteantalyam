@@ -23,19 +23,20 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: 3e834a03df34
+  konu_imza: 9d22b86891e5
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T08:45:13+03:00'
+    tarih: '2026-11-06T12:50:05+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Serkan Dere'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Serkan Dere'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-  kapak_surum: c6
+    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +44,9 @@ otomatik: true
 yz: true
 kaynak: Manşet Alanya
 kaynak_url: https://www.mansetalanya.com/alanya-bu-olume-agliyor-40-gun-once-baba-olmustu-32-yasinda-hayata-veda-etti
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Alanya iş dünyasının sevilen isimlerinden biri olan iç mimar ve iş insanı Serkan Dere, evinde aniden fenalaşarak yaşamını yitirdi. Genç yaşta hayata veda eden Dere'nin, yapılan ilk incelemeler sonucunda kalp krizi geçirdiği belirlendi. Daha önce kalp rahatsızlığı nedeniyle anjiyo olduğu öğrenilen Dere'nin ani ölümü, yakınlarını ve iş çevresini derin bir yasa boğdu.
 

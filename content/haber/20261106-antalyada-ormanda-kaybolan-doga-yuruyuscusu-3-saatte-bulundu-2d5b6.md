@@ -28,14 +28,16 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T11:29:50+03:00'
+    tarih: '2026-11-06T12:49:48+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''orman kaybolma olayı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Hisarçandır Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Hi'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''orman kaybolma olayı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Hisarçandır Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Hisarçandır Mahallesi'' için konuyla (search and rescue, forest) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c6
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''doğa yürüyüşçüsü arama kurtarma'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Hisarçandır Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulu'
+    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''doğa yürüyüşçüsü arama kurtarma'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Hisarçandır Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Hisarçandır Mahallesi, Dastaratağacı Dağı'' için konuyla (search and rescue, mountain, forest) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +45,9 @@ otomatik: true
 yz: true
 kaynak: Notbir
 kaynak_url: https://notbir.com.tr/gundem/ormanda-kayboldu-kendisini-bulan-ekiplerde-helallik-istedi
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Konyaaltı ilçesine bağlı Hisarçandır Mahallesi'nde motosikletiyle bölgeye gelen bir kişi, yürüyüş yapmak amacıyla 1568 rakımlı Dastaratağacı Dağı'na çıktı. Üçsögüt Yaylası civarında doğa yürüyüşü gerçekleştiren kişi, bir süre sonra güzergahından ayrılarak arazide mahsur kaldı. Geri dönüş yolunu bulamayan vatandaş, durumu 112 Acil Çağrı Merkezi'ne bildirerek yardım çağrısında bulundu.
 

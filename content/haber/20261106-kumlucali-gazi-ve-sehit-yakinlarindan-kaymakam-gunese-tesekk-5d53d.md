@@ -24,19 +24,21 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: 138b2155aad1
+  konu_imza: 2e3381998686
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T09:29:14+03:00'
+    tarih: '2026-11-06T12:49:49+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
+  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0)
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kumluca'' için konuyla (district governor, office) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c6
+    kod: aday_bulunamadi
+    aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış '
+    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kumluca Kaymakamlığı'' için konuyla (district governor office) ilişkili lisanslı fotoğraf bulunamadı'
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/kumlucada-istanbul-gezisine-katilan-gazi-ve-sehit-yakinlari-kaymakam-gunese-tesekker-etti-119513787
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Kumluca Kaymakamlığı öncülüğünde gerçekleştirilen İstanbul Kültür ve Tarih Gezisi, şehit yakınları ve gaziler için anlamlı bir buluşmaya vesile oldu. Üç gün süren ve İstanbul'un tarihi, kültürel ve manevi değerlerini yakından tanıma fırsatı sunan programın tamamlanmasıyla birlikte katılımcılar, Kumluca Kaymakamı Bahadır Güneş'i makamında ziyaret etti.
 

@@ -2,8 +2,8 @@
 title: Kepez'de Barış Manço Bulvarı Yenileniyor
 date: '2026-11-06T09:26:00+03:00'
 ozet: Kepez Belediyesi, ulaşım ağını güçlendirmek amacıyla Çankaya Mahallesi'ndeki Barış Manço Bulvarı'nda kapsamlı yol yenileme çalışmalarına başladı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/kurum/0552fc8ebff04913.jpg
+gorsel_kredi: 'Fotoğraf: Kepez Belediyesi'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,35 +11,36 @@ ilceler:
 etiketler:
 - Mesut Kocagöz
 - Kepez Belediyesi
-gorsel_tur: kategori
+gorsel_tur: gercek
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
+  tur: gercek
+  kaynak_sayfa: https://www.kepez-bld.gov.tr/news_12733_kepez-de-baris-manco-bulvari-yenileniyor
+  fotografci: Kepez Belediyesi
+  kredi: Kepez Belediyesi
+  lisans: Kurum izniyle
+  lisans_dayanagi: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
+  kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
+  gosterilen: Kepez Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code); kontrol edilmemiş fotoğraf kullanılmadı."
+  gerekce: 'Haber Kepez Belediyesi sitesinde bulundu (metin benzerliği %87); fotoğraf kurumun kendi sayfasından; görsel kontrol: Yol yapim ve asfalt calismasini dogrudan gosteren gercek bir haber fotografidir.'
   surum: g9.4-2026-11-05
-  konu_imza: fb9c022c7889
-  gorsel_url: /images/kategori/gundem.png
+  konu_imza: c1fb8b80e0b6
+  gorsel_url: /images/kurum/0552fc8ebff04913.jpg
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-06T09:59:36+03:00'
-    yontem: Gemini görsel kontrol
-    neden: "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-06T12:36:43+03:00'
+    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
+  alt_tur: kurum_haber
+  izin_kontrolu:
+    kendi_fotografi: fotoğraf kurumun kendi sunucusunda (www.kepez-bld.gov.tr); sayfada ajans kredisi yok
+    yeniden_kullanim: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
+    izin_kaydi: Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)
+    kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
-    notlar: "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Mesut Kocagöz' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'Barış Manço Bulvarı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; 'Kepez' için konuyla (road construction, asphalt paving, construction machinery) ilişkili lisanslı fotoğraf bulunamadı; görsel kontrol yapılamadı: Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
-  kapak_surum: c6
+  kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,6 +48,43 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/baris-manco-bulvari-yenileniyor
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
+gorsel_gecmis:
+- gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: "Adaylar görsel kontrolden geçirilemedi (Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code); kontrol edilmemiş fotoğraf kullanılmadı."
+    surum: g9.4-2026-11-05
+    konu_imza: fb9c022c7889
+    gorsel_url: /images/kategori/gundem.png
+    kontrol:
+      yapildi: false
+      sonuc: yapılamadı
+      tarih: '2026-11-06T09:59:36+03:00'
+      yontem: Gemini görsel kontrol
+      neden: "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
+    kurum: k5
+    bekliyor: true
+    bekleme_sayisi: 1
+    kapak_nedeni:
+      kod: kota_veya_servis_hatasi
+      aciklama: "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
+      notlar: "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Mesut Kocagöz' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'Barış Manço Bulvarı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; 'Kepez' için konuyla (road construction, asphalt paving, construction machinery) ilişkili lisanslı fotoğraf bulunamadı; görsel kontrol yapılamadı: Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
+    kapak_surum: c6
+  degisim: '2026-11-06T12:49:49+03:00'
 ---
 Kepez Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçedeki ulaşım altyapısını iyileştirmek ve sürücülere daha konforlu bir yol deneyimi sunmak için harekete geçti. Bu kapsamda, altyapı çalışmaları nedeniyle yüzeyinde bozulmalar meydana gelen Çankaya Mahallesi'ndeki Barış Manço Bulvarı'nda yenileme süreci başlatıldı. Çalışmaların, yolun zamanla daha büyük deformasyonlara uğramasını engellemek ve vatandaşların ulaşım mağduriyetini gidermek amacıyla yapıldığı belirtildi.
 

@@ -20,21 +20,31 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
+  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: 569dd2d11c9b
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T11:29:44+03:00'
-    yontem: kaynak/arşiv taraması
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-06T12:49:47+03:00'
+    yontem: Gemini görsel kontrol
+    model: gemini-3.5-flash-lite
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Yenigöl Mahallesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; ''mobilya fabrikası yangını'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Yenigöl Mahallesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; ''mobilya fabrikası yangını'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-  kapak_surum: c6
+    kod: gorsel_reddedildi
+    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Yenigöl Mahallesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; ''fabrika yangını'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:Boans_Furniture_Factory,_Perth,_January_2021_02.jpg
+      katman: yer_konu
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Foto
+    - sayfa: https://commons.wikimedia.org/wiki/File:Boans_Furniture_Factory,_Perth,_January_2021_01.jpg
+      katman: yer_konu
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Yaba
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,6 +52,9 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/antalyada-mobilya-fabrikasi-alev-alev-yandi-sahibi-genc-kadin-gozyaslarina-boguldu-511904543
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Muratpaşa ilçesi Yenigöl Mahallesi Özer Sokak'ta yer alan mobilya fabrikasında gece saatlerinde henüz belirlenemeyen bir sebepten dolayı alevler yükseldi. İçinde atölye ve deponun bulunduğu işletmeden çıkan dumanları fark eden çevre sakinleri, durumu hemen 112 Acil Çağrı Merkezi'ne bildirdi.
 

@@ -21,38 +21,34 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
+  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
-  konu_imza: 3a13881059a3
+  konu_imza: 58ab7b115aed
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
+    yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T06:59:09+03:00'
+    tarih: '2026-11-06T12:50:05+03:00'
     yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '5 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur'
-    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); kaynak görseli kullanılmadı: TRT Haber için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ilk adaylar elendi; 2. turda 2 aday daha denendi'
+    aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur v; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
+    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); kaynak görseli kullanılmadı: TRT Haber için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Foto
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Fotoğrafta konferans salonu yok, Tuvalu'dan bir dış mekan görseli
     - sayfa: https://commons.wikimedia.org/wiki/File:Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg
       katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
     - sayfa: https://commons.wikimedia.org/wiki/File:Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg
       katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Bight.jpg
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (konferans salonu, zirve tabelası) — Antalya'nın genel man
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_G%C3%BCn_Do%C4%9Fumu.jpg
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (konferans salonu, zirve tabelası) — Antalya'da gün doğumu
-  kapak_surum: c5
+      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
+  kapak_surum: c7
+  zorla: g9.4-2026-11-05:8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -60,6 +56,9 @@ otomatik: true
 yz: true
 kaynak: TRT Haber
 kaynak_url: https://www.trthaber.com/haber/gundem/cop31-pazartesi-gunu-basliyor-iklim-diplomasisinin-kalbi-turkiyede-atacak-962396.html
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Dünyanın geleceğini şekillendirecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), 9 Kasım 2026 tarihinde Antalya'da kapılarını açıyor. "Dünyanın İklim Zirvesi Türkiye’de. Hep Birlikte Daha Temiz Bir Geleceğe" mottosuyla gerçekleştirilecek dev organizasyon, 20 Kasım'a kadar devam edecek. Zirveye devlet başkanları, bakanlar, bilim insanları ve çok sayıda küresel aktör katılım sağlayacak.
 
