@@ -7,10 +7,10 @@
   --metin:#111; --metin-2:#3A3F44; --soluk:#6B7176; --cok-soluk:#9AA0A5;
   --cizgi:#E6E7E9; --zemin:#F3F3F3; --kutu:#FFFFFF;
   --font:"Mulish",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
-  --kap:1080px; --ara:20px;
+  --kap:1280px; --ara:20px;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;scroll-padding-top:70px}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:84px}
 body{margin:0;font-family:var(--font);font-size:16px;line-height:1.5;color:var(--metin);background:var(--zemin);-webkit-font-smoothing:antialiased;overflow-x:hidden}
 a{color:inherit;text-decoration:none}
 img{max-width:100%;display:block}
@@ -26,9 +26,9 @@ main>.kap>*:first-child{margin-top:0}
 
 /* ================= ÜST ÇUBUK ================= */
 .bas{background:#fff;position:sticky;top:0;z-index:40;box-shadow:0 1px 0 var(--cizgi)}
-.bas-ic{display:flex;align-items:center;gap:18px;height:64px;max-width:1280px}
+.bas-ic{display:flex;align-items:center;gap:18px;height:76px;max-width:var(--kap)}
 .logo{display:block;line-height:0;flex:none}
-.logo img{height:50px;width:auto}
+.logo img{height:64px;width:auto}
 .anamenu{flex:1;min-width:0;display:flex;justify-content:center}
 .kat-liste{display:flex;list-style:none;margin:0;padding:0;gap:2px;overflow-x:auto;scrollbar-width:none}
 .kat-liste::-webkit-scrollbar{display:none}
@@ -63,7 +63,7 @@ main>.kap>*:first-child{margin-top:0}
 
 /* İlçeler: ikinci, düşük ağırlıklı satır */
 .ilce-serit{background:#fff;border-bottom:1px solid var(--cizgi)}
-.ilce-serit-ic{max-width:1280px;justify-content:center;display:flex;align-items:center;height:36px;overflow-x:auto;scrollbar-width:none;white-space:nowrap}
+.ilce-serit-ic{max-width:var(--kap);justify-content:center;display:flex;align-items:center;height:36px;overflow-x:auto;scrollbar-width:none;white-space:nowrap}
 .ilce-serit-ic::-webkit-scrollbar{display:none}
 .ilce-serit-bas{font-size:12px;font-weight:900;text-transform:uppercase;color:var(--turuncu-koyu);margin-right:10px}
 .ilce-serit a{font-size:13px;font-weight:600;color:var(--soluk);padding:4px 7px}
@@ -71,7 +71,7 @@ main>.kap>*:first-child{margin-top:0}
 
 /* Üst reklam: oran korunur */
 .ust-reklam{padding:16px 0 0}
-.ust-reklam .kap{max-width:760px}
+.ust-reklam .kap{max-width:970px}
 .vitrin{display:block;line-height:0}
 .vitrin img{width:100%;height:auto}
 .vitrin-not{display:block;font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--cok-soluk);line-height:1;margin-top:4px;text-align:right}
@@ -262,7 +262,7 @@ main>.kap>*:first-child{margin-top:0}
 .paylas a,.paylas button{display:inline-flex;align-items:center;justify-content:center;min-width:38px;height:38px;padding:0 10px;border:0;border-radius:999px;color:#fff;cursor:pointer;font-size:12px;font-weight:800}
 .paylas .p-wa{background:#1FA855}.paylas .p-x{background:#111}.paylas .p-fb{background:#1877F2}.paylas .p-kop{background:#fff;color:#333;box-shadow:inset 0 0 0 1px #C9CDD0}
 .paylas a:hover,.paylas button:hover{opacity:.88}
-.haber-izgara{max-width:var(--kap);margin:0 auto;gap:34px}
+.haber-izgara{max-width:var(--kap);margin:0 auto;gap:34px;grid-template-columns:minmax(0,1fr) 340px}
 .haber{min-width:0}
 .haber-etiketler{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
 .haber-etiketler a{background:#EFF0F1;border-radius:999px;padding:5px 12px;font-size:14px;font-weight:800;color:#222}
@@ -270,16 +270,16 @@ main>.kap>*:first-child{margin-top:0}
 .haber .spot{font-size:19px;line-height:1.6;color:var(--metin-2);margin:0 0 20px;padding:0 0 0 16px;border-left:4px solid var(--turuncu);font-weight:500}
 .haber .kapak{margin:0 0 22px}
 .haber .kapak img{width:100%;height:auto;border-radius:4px;background:#EEE}
-.haber .kapak figcaption{font-size:13px;line-height:1.45;color:var(--soluk);padding:8px 2px 0}
+.haber .kapak figcaption{font-size:11.5px;line-height:1.4;color:var(--cok-soluk);padding:6px 2px 0}
 .haber .kapak figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
-.icerik{font-size:18px;line-height:1.75;color:#222;max-width:700px}
+.icerik{font-size:18px;line-height:1.75;color:#222;max-width:none}
 .icerik p{margin:0 0 1.15em}
 .icerik h2,.icerik h3{font-weight:900;line-height:1.25;margin:1.5em 0 .6em}
 .icerik a{color:var(--turuncu-koyu);text-decoration:underline;text-underline-offset:3px}
 .icerik blockquote{border-left:4px solid var(--turuncu);margin:24px 0;padding:4px 20px;font-size:20px;font-weight:800;color:var(--antrasit)}
-.haber-kaynak{font-size:14px;color:var(--soluk);max-width:700px;margin:22px 0 0;padding-top:12px;border-top:1px solid var(--cizgi)}
+.haber-kaynak{font-size:12px;color:var(--cok-soluk);margin:18px 0 0}
 .haber-kaynak a{color:inherit;text-decoration:underline}
-.yorumlar{margin-top:30px;max-width:700px}
+.yorumlar{margin-top:30px}
 .haber-izgara .kenar>section{padding:0;background:transparent}
 .haber-izgara .kenar-kartlar .hk{background:#fff;box-shadow:0 0 0 1px var(--cizgi)}
 .haber-izgara .kenar-kartlar .hk-metin{box-shadow:inset 0 3px 0 var(--turuncu),0 0 0 1px var(--cizgi);background:#fff}
@@ -334,8 +334,8 @@ main>.kap>*:first-child{margin-top:0}
   :root{--ara:12px}
   .kap{padding:0 12px}
   main{padding-top:12px}
-  .bas-ic{height:56px}
-  .logo img{height:42px}
+  .bas-ic{height:60px}
+  .logo img{height:48px}
   .sd-etiket{font-size:12px;padding:0 10px}
   .sd-ic a{font-size:13.5px}
   .ilce-serit{display:none}
@@ -397,7 +397,7 @@ main>.kap>*:first-child{margin-top:0}
 .flas-etiket{flex:none;font-size:13px;font-weight:900;text-transform:uppercase;color:var(--turuncu-koyu)}
 .flas a{font-size:15.5px;font-weight:800;color:var(--metin)}
 .flas a:hover{color:var(--turuncu-koyu)}
-.ihbar{display:flex;align-items:center;gap:14px;max-width:700px;margin:26px 0 0;padding:16px 18px;background:#EAF7EF;border-radius:6px}
+.ihbar{display:flex;align-items:center;gap:14px;margin:26px 0 0;padding:16px 18px;background:#EAF7EF;border-radius:6px}
 .ihbar-ikon{flex:none;width:52px;height:52px;border-radius:50%;background:#1FA855;color:#fff;display:flex;align-items:center;justify-content:center}
 .ihbar-m{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
 .ihbar-m b{font-size:17px;font-weight:900}
