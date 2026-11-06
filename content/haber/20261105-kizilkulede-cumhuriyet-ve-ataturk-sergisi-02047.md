@@ -35,7 +35,7 @@ gorsel_secim:
   kaynak_aciklama: Alanya_Hafen
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -25,7 +25,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:15:34+03:00'
+    tarih: '2026-11-06T13:46:42+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
@@ -33,7 +33,7 @@ gorsel_secim:
     aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: baby high chair, highchair)'
     notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: baby high chair, highchair)'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

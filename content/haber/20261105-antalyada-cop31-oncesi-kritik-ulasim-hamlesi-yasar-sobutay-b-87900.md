@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:15:32+03:00'
+    tarih: '2026-11-06T13:46:41+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -35,7 +35,7 @@ gorsel_secim:
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulva'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulvarı'' için konuyla (boulevard, road construction, bicycle lane) ilişkili lisanslı fotoğraf bulunamadı'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

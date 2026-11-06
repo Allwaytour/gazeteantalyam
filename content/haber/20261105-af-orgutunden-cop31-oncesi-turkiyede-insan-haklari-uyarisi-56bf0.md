@@ -25,18 +25,21 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:15:35+03:00'
+    tarih: '2026-11-06T13:46:42+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   kurum: k5
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '6 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Af Örgütü''nün insan hakları odaklı bir eylemini gösteren uy; Türkiye dışına ait unsur var — Uluslararası Af Örgütü logosunu taşıyan protesto pankartı, ; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir); görüntü, kaydın iddia et'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Julia Duchrow'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Osman Kavala'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Türkiye'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil); mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı'
+    aciklama: '6 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Uluslararası Af Örgütü protestosunu gösteren uygun bir arşi; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir); görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; yanıltıcı (başka olay/ki'
+    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Julia Duchrow'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Osman Kavala'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Türkiye'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Alison_Stop_Torture_Broughton_High_(14333602328).jpg
+      katman: kurum
+      neden: Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Uluslararası Af Örgütü'nün hak savunuculuğu faaliyetini gösteren ar
     - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_International_in_Brighton_Pride_2023_parade.jpg
       katman: kurum
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
@@ -45,15 +48,12 @@ gorsel_secim:
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
     - sayfa: https://commons.wikimedia.org/wiki/File:2024_ColognePride,_Parade-10283.jpg
       katman: kurum
-      neden: Türkiye dışına ait unsur var — Uluslararası Af Örgütü logosunu taşıyan protesto pankartı, insan hakları konusuna uygun ve arşiv kaydıyla uyumlu.
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alison_Stop_Torture_Broughton_High_(14333602328).jpg
-      katman: kurum
-      neden: Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Uluslararası Af Örgütü'nün hak savunuculuğu faaliyetini gösteren ar
+      neden: yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Af Örgütü pankartı var ancak ColognePride yürüyüşü olduğu için haberin bağlamı ve yer
     - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_2013_Gautanamo_demo.jpg
       katman: kurum
-      neden: Türkiye dışına ait unsur var — Af Örgütü'nün insan hakları odaklı bir eylemini gösteren uygun bir arşiv fotoğrafıdır.
+      neden: Türkiye dışına ait unsur var — Uluslararası Af Örgütü protestosunu gösteren uygun bir arşiv görselidir.
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -2,8 +2,8 @@
 title: Antalya'daki Saç Kesim Yarışmasında Sakaryalı Öğrenciler Zirveye Yerleşti
 date: '2026-11-06T04:12:00+03:00'
 ozet: Antalya'da düzenlenen ulusal saç kesim yarışmasına katılan Sakaryalı üç öğrenci, sergiledikleri performansla ilk üç dereceyi elde etti.
-gorsel: https://images.unsplash.com/photo-1606333259737-6da197890fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU5NDI4fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Jonathan Cooper / Unsplash'
+gorsel: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: John Karlo Mendoza / Unsplash'
 kategoriler:
 - Eğitim
 ilceler: []
@@ -14,30 +14,30 @@ etiketler:
 gorsel_tur: stok
 gorsel_secim:
   tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/person-holding-white-and-gold-hair-comb-sS3qRFsKZlg
-  fotografci: Jonathan Cooper
-  kredi: Jonathan Cooper / Unsplash
+  kaynak_sayfa: https://unsplash.com/photos/barber-cutting-mans-hair-idzUojjazCg
+  fotografci: John Karlo Mendoza
+  kredi: John Karlo Mendoza / Unsplash
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
   gosterilen: saç kesim yarışması
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''hair cutting competition''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Tarak ve makasla saç kesimini gösteren temsilî bir kare.'
+  gerekce: 'Unsplash araması ''hair cutting competition''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: temsilî konu fotoğrafı (konu ilişkisi eşiği 6) — Saç kesimini gösteren genel temsilî bir fotoğraftır.'
   surum: g9.4-2026-11-05
   konu_imza: 2f03c5acfe97
-  gorsel_url: https://images.unsplash.com/photo-1606333259737-6da197890fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU5NDI4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-06T13:03:50+03:00'
+    tarih: '2026-11-06T12:45:02+03:00'
     yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
-  kaynak_aciklama: person holding white and gold hair comb
+  kaynak_aciklama: Want to look good? Find a barber. But they don’t only make you look good, they make you feel more confident stepping out of that barbershop, making you feel lik
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -95,6 +95,37 @@ gorsel_gecmis:
     kapak_surum: c7
     zorla: g9.4-2026-11-05:8
   degisim: '2026-11-06T13:07:32+03:00'
+- gorsel: https://images.unsplash.com/photo-1606333259737-6da197890fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU5NDI4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Jonathan Cooper / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/person-holding-white-and-gold-hair-comb-sS3qRFsKZlg
+    fotografci: Jonathan Cooper
+    kredi: Jonathan Cooper / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: saç kesim yarışması
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''hair cutting competition''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Tarak ve makasla saç kesimini gösteren temsilî bir kare.'
+    surum: g9.4-2026-11-05
+    konu_imza: 2f03c5acfe97
+    gorsel_url: https://images.unsplash.com/photo-1606333259737-6da197890fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU5NDI4fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T13:03:50+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: person holding white and gold hair comb
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:9
+  degisim: '2026-11-06T13:46:38+03:00'
 ---
 Antalya'da My Akademi tarafından organize edilen ulusal saç kesim yarışması, Türkiye'nin dört bir yanından gelen yetenekli gençleri bir araya getirdi. Yaklaşık 100 öğrencinin hünerlerini sergilediği etkinlikte, Sakarya Mesleki Eğitim Merkezi (MESEM) Güzellik ve Saç Bakım Hizmetleri Bölümü öğrencileri büyük bir başarıya imza attı.
 

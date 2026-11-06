@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:15:40+03:00'
+    tarih: '2026-11-06T13:46:44+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
@@ -34,7 +34,7 @@ gorsel_secim:
     aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; hassas haber: ''Ulaş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adı'
     notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; hassas haber: ''Ulaş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (legal document, gavel) ilişkili lisanslı fotoğraf bulunamadı'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

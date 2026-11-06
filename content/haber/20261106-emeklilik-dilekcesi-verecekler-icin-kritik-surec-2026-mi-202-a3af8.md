@@ -28,7 +28,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:15:29+03:00'
+    tarih: '2026-11-06T13:46:38+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
@@ -37,7 +37,7 @@ gorsel_secim:
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''emeklilik dilekçesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: retirement application document, pension calculati'
     notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''emeklilik dilekçesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: retirement application document, pension calculation Turkey)'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
