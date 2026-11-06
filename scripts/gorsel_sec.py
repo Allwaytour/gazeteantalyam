@@ -1363,7 +1363,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 #     değerlendirilir; hassas olmayan kişi haberinde konuyu anlatan temsilî fotoğraf.
 # c5: "görselde olmalı" şartından kişi adları çıkarılır (temsilî fotoğrafta haberdeki kişi bulunamaz).
 # c6: olayın geçtiği adı belli mekânın (Kızılkule gibi) doğrulanmış fotoğrafı aynı olay şartı olmadan kabul edilir.
-KAPAK_SURUM = "c6"
+# c7: Unsplash etiketleri de okunur; konu sorgusunun tamamı yerine çekirdek terim + kelimelerin yarısı yeterli; çocuk ürünü fotoğrafı.
+KAPAK_SURUM = "c7"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
@@ -1418,7 +1419,7 @@ LISANS_RED = []       # bir seçim turunda lisans nedeniyle elenen dosyalar (kap
 
 
 def unsplash_ara(bag, sorgu, adet=6):
-    anahtar = "c6:us:" + sorgu.lower()
+    anahtar = "c7:us:" + sorgu.lower()
     if bag.arsiv.get(anahtar):
         return bag.arsiv[anahtar]
     r = requests.get("https://api.unsplash.com/search/photos", headers={"Authorization": f"Client-ID {UNSPLASH_KEY}", "Accept-Version": "v1"},
@@ -1426,7 +1427,9 @@ def unsplash_ara(bag, sorgu, adet=6):
     r.raise_for_status()
     sonuc = [{"url": f["urls"]["regular"], "kucuk": f["urls"]["small"], "sayfa": f["links"]["html"],
               "indirme": f["links"].get("download_location", ""), "yazar": (f.get("user") or {}).get("name", "Unsplash"),
-              "aciklama": temiz(f.get("description") or f.get("alt_description") or "", 160)}
+              # açıklama + alternatif metin + etiketler: tek bir kısa açıklamada konu kelimesi çoğu zaman geçmez
+              "aciklama": temiz(" ".join(x for x in [f.get("description") or "", f.get("alt_description") or "",
+                                                       " ".join(str((t or {}).get("title") or "") for t in (f.get("tags") or []))] if x), 300)}
              for f in r.json().get("results") or [] if f.get("urls")]
     if sonuc:
         bag.arsiv[anahtar] = sonuc
@@ -1453,7 +1456,10 @@ def konu_gorseli(konu):
     oz = konu.get("ana_ozne") or {}
     if not kg.get("sorgular_en") and oz.get("tur") == "nesne" and oz.get("ad_en"):
         kg.update(uygun=True, sorgular_en=[oz["ad_en"]] + (konu.get("alternatif_sorgular_en") or [])[:2])
-    if konu.get("hassas", "yok") != "yok" or oz.get("tur") == "takim":
+    hassas = konu.get("hassas", "yok")
+    # Çocuk ürünü haberinde (ör. mama sandalyesi toplatması) ürünün kendisi gösterilebilir; görüntü kontrolünde kişi bulunan kare elenir.
+    urun = hassas == "çocuk" and oz.get("tur") == "nesne"
+    if (hassas != "yok" and not urun) or oz.get("tur") == "takim":
         kg["uygun"] = False
     elif oz.get("tur") == "kisi":
         # Kişi haberinde temsilî fotoğraf yalnızca konuyu (satranç, sahne, ürün) gösterir; görüntü kontrolünde tanınabilir kişi
@@ -1495,6 +1501,14 @@ STOK_GENEL = set("fight fighting match game championship competition tournament 
                  "event events festival workshop activity activities kids children child "
                  "men women man woman training facility field building street view close up closeup detail scene the of and in at with "
                  "a an for on".split())
+
+
+def stok_kismen_uygun(sorgu, metin, oran=0.5):
+    """Sorgunun özgül kelimelerinin en az yarısı (eş anlamlılarıyla) kayıtta geçiyor mu? Çekirdek terim ayrıca zorunludur."""
+    mk = set(kelimeler(metin))
+    ozgul = [w for w in kelimeler(sorgu) if w not in STOK_GENEL] or kelimeler(sorgu)
+    tutan = sum(1 for w in ozgul if any(_kelime_tutar(a, m) or _kelime_tutar(m, a) for a in {w} | ESANLAM.get(w, set()) for m in mk))
+    return bool(ozgul) and tutan / len(ozgul) >= oran
 
 
 def stok_metni_uygun(sorgu, metin):
@@ -1552,7 +1566,7 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
                     # önce ilgi (sorgunun ayırt edici kelimeleri dosyanın kendi kaydında geçmeli), sonra lisans
                     if bag.yasakli_mi(d["url"]) or d["url"] in gorulen:
                         continue
-                    if not ad_eslesir(sorgu, metin):
+                    if not ad_eslesir(sorgu, metin) and not (cekirdek and stok_kismen_uygun(sorgu, metin)):
                         ele(bag, d, f"konu: '{sorgu}' kayıtta geçmiyor"); continue
                     if yasak_metin(konu, metin):
                         ele(bag, d, "konu: görselde olmaması gereken unsur kayıtta geçiyor"); continue
@@ -1580,9 +1594,14 @@ def nesne_adaylari(bag, konu, haber, sorgular=None, gorulen=()):
             try:
                 alinan = 0
                 for f in unsplash_ara(bag, sorgu):
-                    if bag.yasakli_mi(f["url"]) or f["url"] in gorulen or yasak_metin(konu, f["aciklama"]) \
-                            or not stok_metni_uygun(sorgu, f["aciklama"]) or (cekirdek and not stok_metni_uygun(cekirdek, f["aciklama"])):
+                    if bag.yasakli_mi(f["url"]) or f["url"] in gorulen:
                         continue
+                    if yasak_metin(konu, f["aciklama"]):
+                        ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, "konu: görselde olmaması gereken unsur açıklamada geçiyor"); continue
+                    if not (stok_metni_uygun(sorgu, f["aciklama"]) or (cekirdek and stok_kismen_uygun(sorgu, f["aciklama"]))):
+                        ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, f"konu: '{sorgu}' açıklamada yeterince geçmiyor"); continue
+                    if cekirdek and not stok_metni_uygun(cekirdek, f["aciklama"]):
+                        ele(bag, {"baslik": "Unsplash: " + f["aciklama"][:60]}, f"konu: çekirdek terim '{cekirdek}' açıklamada yok"); continue
                     gorulen.add(f["url"])
                     adaylar.append({"tur": "stok", "alt_tur": "nesne", "kaynak": "Unsplash", "url": f["url"], "kucuk": f["kucuk"],
                                     "sayfa": f["sayfa"], "fotografci": f["yazar"], "lisans": "Unsplash Lisansı",
