@@ -12,7 +12,7 @@ etiketler:
 - Emre Belözoğlu
 - Fenerbahçe
 gorsel_tur: arsiv
-gorsel_konum: 50% 22%
+gorsel_konum: 50% 5%
 gorsel_secim:
   tur: arsiv
   kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_(4)_(cropped).jpg
