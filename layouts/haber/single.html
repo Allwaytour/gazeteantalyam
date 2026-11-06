@@ -1,53 +1,53 @@
 {{ define "main" }}
-<div class="izgara">
-  <article class="haber">
-    {{ $kat := index (.Params.kategoriler | default (slice "Gündem")) 0 }}
-    <div class="yol"><a href="{{ "/" | relURL }}">Ana Sayfa</a> › <a href="{{ partial "terim-url.html" (slice "kategoriler" $kat) }}">{{ $kat }}</a></div>
-    <span class="etiket">{{ $kat }}</span>
-    {{ range .Params.ilceler }} <a class="etiket ilce" href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}
+{{ $kat := index (.Params.kategoriler | default (slice "Gündem")) 0 }}
+<div class="haber-sayfa">
+  {{/* Sıra: yol → başlık → yayın bilgisi + paylaş → (sol) spot, fotoğraf + açıklama, metin | (sağ) son haberler, reklam */}}
+  <div class="haber-bas">
+    <div class="yol"><a href="{{ "/" | relURL }}">Haberler</a><span aria-hidden="true">›</span><a href="{{ partial "terim-url.html" (slice "kategoriler" $kat) }}">{{ $kat }} Haberleri</a>{{ range .Params.ilceler }}<span aria-hidden="true">›</span><a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</div>
     <h1>{{ .Title }}</h1>
-    {{ with .Params.ozet }}<p class="spot">{{ . }}</p>{{ end }}
-    <div class="meta">
-      {{ with .Params.yazar }}<span class="kaynak">{{ . }}</span> ·{{ end }}
-      <span>Yayın: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span>
-      {{ if gt .Lastmod .Date }}<span>· Güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
+    <div class="haber-meta">
+      <div class="meta">
+        <span class="kaynak">{{ .Params.yazar | default site.Title }}</span>
+        <span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span>
+        {{ if gt .Lastmod .Date }}<span>Son güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
+      </div>
+      {{ partial "paylas.html" . }}
     </div>
-    {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}{{ if and (ne $tur "kategori") (not (in . "/images/kategori/")) }}
-    {{ $g := . | relURL }}{{ $buyuk := partial "gorsel-url.html" (dict "u" $g "w" 1280) }}{{ $orta := partial "gorsel-url.html" (dict "u" $g "w" 960) }}
-    <figure class="kapak"><img src="{{ $buyuk }}"{{ if ne $buyuk $g }} srcset="{{ $orta }} 960w, {{ $buyuk }} 1280w" sizes="(max-width:1000px) 100vw, 760px" data-asil="{{ $g }}"{{ end }}{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ if eq $tur "kategori" }}{{ index ($.Params.kategoriler | default (slice "")) 0 }} kategori görseli{{ else }}{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}{{ end }}" referrerpolicy="no-referrer">
-      {{/* Görsel üzerine tür/tarih rozeti konmaz. Gerekli açıklama ve lisans atfı fotoğrafın altında tek satırdır;
-           arşiv fotoğrafında çekim yılı ve "Arşiv fotoğrafı" ifadesi bu satırda yer alır. Kategori kapağında satır yoktur. */}}
-      {{ if and (ne $tur "kategori") (or $s.fotografci $.Params.gorsel_kredi) }}<figcaption>
-        {{ if $s.fotografci }}{{ with $s.aciklama }}{{ . }} · {{ else }}{{ if eq $tur "arsiv" }}{{ with $s.gosterilen }}{{ . }} — Arşiv fotoğrafı{{ with $s.cekim_yili }} ({{ . }}){{ end }} · {{ end }}{{ else if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else if in $s.kaynak_sayfa "unsplash.com" }}Unsplash{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
-        {{ else }}{{ with $.Params.gorsel_kredi }}{{ if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
-    </figure>{{ end }}{{ end }}
-    {{ partial "paylas.html" . }}
-    <div class="icerik">{{ .Content }}</div>
-    {{ with .GetTerms "etiketler" }}<p class="haber-etiketler"><span>Etiketler:</span>{{ range . }} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
-    {{ with .Params.kaynak }}{{ if $.Params.otomatik }}<p class="haber-kaynak">Haber kaynağı: {{ with $.Params.kaynak_url }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">{{ $.Params.kaynak }}</a>{{ else }}{{ . }}{{ end }}{{ if $.Params.yz }} · Bu haber, kaynaktaki bilgilerden yararlanılarak yeniden yazılmıştır.{{ end }}</p>{{ end }}{{ end }}
-    {{ partial "paylas.html" . }}
-    {{ partial "yorumlar.html" . }}
-  </article>
-  {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
-  {{ $ilgili := where (where $hepsi "kategori" $kat) "link" "!=" .RelPermalink }}
-  <div class="kenar-sutun">
-    {{/* İlgili haberler: önce aynı kişi/kurum etiketini taşıyanlar, sonra aynı kategoridekiler */}}
-    {{ $yakin := slice }}{{ $gorulen := slice .RelPermalink }}
-    {{ if .Params.etiketler }}{{ range first 5 (where (site.RegularPages.Related .) "Section" "haber") }}{{ if not (in $gorulen .RelPermalink) }}{{ $yakin = $yakin | append (dict "baslik" .Title "link" .RelPermalink) }}{{ $gorulen = $gorulen | append .RelPermalink }}{{ end }}{{ end }}{{ end }}
-    {{ range $ilgili }}{{ if and (lt (len $yakin) 5) (not (in $gorulen .link)) }}{{ $yakin = $yakin | append . }}{{ $gorulen = $gorulen | append .link }}{{ end }}{{ end }}
-    {{ with $yakin }}
-    <section class="kutu">
-      <h2 class="kenar-bas">İlgili haberler</h2>
-      <ol class="numarali">{{ range . }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ol>
-    </section>
-    {{ end }}
-    {{ partial "kenar.html" (dict "hepsi" $hepsi) }}
+  </div>
+  <div class="izgara haber-izgara">
+    <article class="haber">
+      {{ with .GetTerms "etiketler" }}<p class="haber-etiketler">{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
+      {{ with .Params.ozet }}<p class="spot">{{ . }}</p>{{ end }}
+      {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := $.Params.gorsel_secim | default dict }}{{ if and (ne $tur "kategori") (not (in . "/images/kategori/")) }}
+      {{ $g := . | relURL }}{{ $buyuk := partial "gorsel-url.html" (dict "u" $g "w" 1280) }}{{ $orta := partial "gorsel-url.html" (dict "u" $g "w" 960) }}
+      <figure class="kapak"><img src="{{ $buyuk }}"{{ if ne $buyuk $g }} srcset="{{ $orta }} 960w, {{ $buyuk }} 1280w" sizes="(max-width:1000px) 100vw, 760px" data-asil="{{ $g }}"{{ end }}{{ with $.Params.gorsel_konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" referrerpolicy="no-referrer">
+        {{/* Görsel üzerinde rozet yok. Açıklama ve lisans atfı fotoğrafın altında tek satırdır. */}}
+        {{ if or $s.fotografci $.Params.gorsel_kredi }}<figcaption>
+          {{ if $s.fotografci }}{{ with $s.aciklama }}{{ . }} · {{ else }}{{ if eq $tur "arsiv" }}{{ with $s.gosterilen }}{{ . }} — Arşiv fotoğrafı{{ with $s.cekim_yili }} ({{ . }}){{ end }} · {{ end }}{{ else if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ end }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else if in $s.kaynak_sayfa "unsplash.com" }}Unsplash{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }} ({{ . }}){{ end }}
+          {{ else }}{{ with $.Params.gorsel_kredi }}{{ if eq $tur "stok" }}Temsilî fotoğraf · {{ end }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
+      </figure>{{ end }}{{ end }}
+      <div class="icerik">{{ .Content }}</div>
+      {{ with .Params.kaynak }}{{ if $.Params.otomatik }}<p class="haber-kaynak">Haber kaynağı: {{ with $.Params.kaynak_url }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">{{ $.Params.kaynak }}</a>{{ else }}{{ . }}{{ end }}{{ if $.Params.yz }} · Bu haber, kaynaktaki bilgilerden yararlanılarak yeniden yazılmıştır.{{ end }}</p>{{ end }}{{ end }}
+      {{ partial "ihbar.html" . }}
+      {{ partial "yorumlar.html" . }}
+    </article>
+    {{ $hepsi := partialCached "haberler.html" . "hepsi" }}
+    <aside class="kenar">
+      {{ $yakin := slice }}{{ $gorulen := slice .RelPermalink }}
+      {{ range where (where $hepsi "kategori" $kat) "link" "!=" .RelPermalink }}{{ if and (lt (len $yakin) 4) (not (in $gorulen .link)) }}{{ $yakin = $yakin | append . }}{{ $gorulen = $gorulen | append .link }}{{ end }}{{ end }}
+      {{ with $yakin }}
+      <section>
+        <h2 class="bolum-kucuk">{{ $kat }} haberleri</h2>
+        <div class="kenar-kartlar">{{ range . }}{{ partial "hk.html" (merge . (dict "tip" "kart")) }}{{ end }}</div>
+      </section>
+      {{ end }}
+      {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ end }}
+    </aside>
   </div>
 </div>
-{{ $devam := first 6 (after 5 $ilgili) }}
-{{ if lt (len $devam) 3 }}{{ $devam = first 6 (where $hepsi "link" "!=" .RelPermalink) }}{{ end }}
+{{ $devam := slice }}{{ range $hepsi }}{{ if and (lt (len $devam) 8) (not (in $gorulen .link)) }}{{ $devam = $devam | append . }}{{ end }}{{ end }}
 <section class="bolum" aria-labelledby="b-devam">
-  <header class="bolum-bas"><h2 id="b-devam">Okumaya devam edin</h2></header>
-  <div class="kartlar">{{ range first 6 $devam }}{{ partial "kart.html" . }}{{ end }}</div>
+  <header class="bolum-bas"><h2 id="b-devam">Son Haberler</h2></header>
+  <div class="izgara-4">{{ range $devam }}{{ partial "hk.html" (merge . (dict "tip" "kart")) }}{{ end }}</div>
 </section>
 {{ end }}
