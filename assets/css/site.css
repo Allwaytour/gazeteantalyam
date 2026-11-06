@@ -442,3 +442,8 @@ main>.kap>*:first-child{margin-top:0}
   .saatli-oge{font-size:14.5px;padding:11px 12px}
   .kap>.haber,.izgara:not(.haber-izgara)>.haber{padding:18px 16px}
 }
+.foto-kaynak{list-style:none;margin:20px 0 0;padding:0;font-size:14px}
+.foto-kaynak li{padding:10px 0;border-bottom:1px solid var(--cizgi)}
+.foto-kaynak li>a{font-weight:700}
+.foto-kaynak span{color:var(--soluk);font-size:13px}
+.foto-kaynak span a{text-decoration:underline}
