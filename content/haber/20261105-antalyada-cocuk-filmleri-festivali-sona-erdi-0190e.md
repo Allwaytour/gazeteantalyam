@@ -25,15 +25,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T22:42:51+03:00'
+    tarih: '2026-11-06T08:48:49+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.1-flash-lite
   kurum: k5
-  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); Alanya Belediyesi sayfası aynı haber değil (benzerlik %56)
+  kurum_notu: "Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); kurum sayfası okunamadı (Alanya Belediyesi): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.alanya.; Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); Alanya Belediyesi sayfası aynı haber değil (benzerlik"
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''22. TÜRSAK Çocuk Filmleri Festivali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (children cinema festival, film screening) ilişkili lisanslı fotoğraf bulunamadı'
+    notlar: "Alanya Belediyesi sayfası aynı haber değil (benzerlik %56); kurum sayfası okunamadı (Alanya Belediyesi): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.alanya.; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; '22. TÜRSAK Çocuk Filmleri Festivali' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (children cinema festival, film screening) ilişkili lisanslı fotoğraf bulunamadı"
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:Children_Untold_at_2026_Toronto_International_Film_Festival_Group_Shot.jpg
       katman: nesne
@@ -41,8 +41,7 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Children_Untold_at_2026_Toronto_International_Film_Festival_Group_Pose.jpg
       katman: nesne
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c5
-  zorla: g9.4-2026-11-05:7
+  kapak_surum: c6
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
