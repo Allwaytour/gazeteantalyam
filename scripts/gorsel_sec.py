@@ -541,6 +541,8 @@ def ad_eslesir(ad, metin):
     if not ayirt_edici(ad):
         return False
     m = kelimeler(metin)
+    # bitişik/ayrı yazım farkı: "Kızılkule" ~ "Kızıl Kulesi", "Kızıl Kule"
+    m = m + [a + b for a, b in zip(m, m[1:]) if len(a + b) >= 7]
     return all(any(_kelime_tutar(t, w) for w in m) for t in kelimeler(ad))
 
 
@@ -919,6 +921,10 @@ def kurum_wikidata_adaylari(bag, konu):
         oz = konu.get("ana_ozne") or {}
         nerede = (konu.get("nerede") or {}).get("ad", "")
         ana_takim = kucult(oz.get("ad", "")) == kucult(h["ad"]) or ad_eslesir(h["ad"], oz.get("ad", ""))
+        # Olayın geçtiği adı belli tesis/yapı (Kızılkule'de sergi, kongre merkezinde zirve): şehir/ilçe/mahalle adları sayılmaz
+        olay_mekani = bool(nerede) and h.get("tur") in ("tesis", "yer") and h["ad"] not in YERLER \
+            and not re.search(r"(?i)mahalle|köy|\bkoy\b|semt|bölge|region|district", h["ad"]) \
+            and (kucult(h["ad"]) == kucult(nerede) or ad_eslesir(h["ad"], nerede) or ad_eslesir(nerede, h["ad"]))
         for d, mekan_ad in stat:
             # Stat yalnızca haberin ana öznesi olan takımın sahasıysa ya da olayın geçtiği yer bu statsa kullanılır:
             # rakip takımın stadı, maç orada oynanmıyorsa haberi başka bir yerde geçiyormuş gibi gösterir.
@@ -956,7 +962,7 @@ def kurum_wikidata_adaylari(bag, konu):
                 "tur": "arsiv", "alt_tur": "kurum", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
                 "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
                 "kosul": commons.get("kosul", ""), "hedef": h["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "kayit": d,
-                "hedef_tur": h.get("tur", ""), "ana_ozne": bool(ana_takim),
+                "hedef_tur": h.get("tur", ""), "ana_ozne": bool(ana_takim), "mekan": olay_mekani,
                 "meta_puan": 50 + (10 if alinan == 0 else 0) - (6 * int(d.get("kullanim", 0))), "onayli": "onay" in d,
                 "dogrulama": f"'{h['ad']}' Wikidata {v['qid']} kaydı ve Commons kategorisiyle doğrulandı",
             })
@@ -1223,6 +1229,13 @@ def gerekli_unsurlar(konu):
     return [u for u in konu.get("gorselde_olmali") or [] if not (set(kelimeler(u)) & kisi_k)]
 
 
+def ana_ozne_fotografi(a):
+    """Konu ilişkisi şartı aranmayan aday: haberin ana öznesi olan kurumun/takımın ya da olayın geçtiği adı belli mekânın
+    (Kızılkule, stat, kongre merkezi) kimliği doğrulanmış kendi fotoğrafı. Aynı olayda çekilmiş olması gerekmez."""
+    return bool((a.get("alt_tur") == "kurum" and (a.get("ana_ozne") or a.get("mekan")))
+                or (a.get("alt_tur") == "yer_konu" and a.get("mekan")))
+
+
 def eski_red_yeniden(a, ob, konu=None):
     """Önbellekteki red kararı bugünkü kurallara göre geçersiz mi? 'kabul' → yalnızca konu ilişkisi yüzünden elenmiş, ana öznenin
     kimliği doğrulanmış kendi fotoğrafı; 'tekrar' → yalnızca 'Türkiye dışına ait unsur' (somut tabela/plaka/bayrak/simge
@@ -1233,9 +1246,13 @@ def eski_red_yeniden(a, ob, konu=None):
     ned = [n.strip() for n in g.split(" — ")[0].split(";") if n.strip()]
     if not ned:
         return ""
-    if ((a.get("alt_tur") == "kurum" and a.get("ana_ozne")) or (a.get("alt_tur") == "yer_konu" and a.get("mekan"))) and all(
+    if ana_ozne_fotografi(a) and all(
             n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
         return "kabul"
+    if a.get("alt_tur") == "nesne" and all(n.startswith("haberin konusuyla doğrudan ilişkili değil") for n in ned):
+        m = re.search(r"konu ilişkisi (\d+)/10", ned[0])
+        if m and int(m.group(1)) >= KONU_ILISKISI_ESIK_NESNE:
+            return "kabul"        # temsilî fotoğraf eşiği 6'ya indi: yalnızca 6/10 yüzünden elenen konu fotoğrafı geçerli
     aciklama = g.split(" — ", 1)[1] if " — " in g else ""
     if (all(n.startswith("haberin gerektirdiği unsur görünmüyor") for n in ned) and konu \
             and len(gerekli_unsurlar(konu)) < len(konu.get("gorselde_olmali") or [])
@@ -1261,8 +1278,10 @@ def karar_ver(d, konu):
     # Haberin ANA ÖZNESİ olan kurumun/takımın/tesisin kimliği doğrulanmış kendi fotoğrafı (ör. Antalyaspor haberinde kendi stadı)
     # aynı olayda çekilmiş olmak zorunda değildir: konu ilişkisi eşiği uygulanmaz (yanıltıcılık ve tutarlılık yine aranır).
     # Olayın geçtiği adı belli mekânın (tesis, yapı, tarihî yer) doğrulanmış fotoğrafı da aynı olay şartı olmadan kabul edilir.
-    ana_ozne_kurum = (d.get("_alt_tur") == "kurum" and d.get("_ana_ozne")) or (d.get("_alt_tur") == "yer_konu" and d.get("_mekan"))
-    if d.get("_alt_tur") in KONU_ILISKISI_SART and not ana_ozne_kurum and int(d.get("konu_iliskisi") or 0) < KONU_ILISKISI_ESIK:
+    ana_ozne_kurum = ana_ozne_fotografi({"alt_tur": d.get("_alt_tur"), "ana_ozne": d.get("_ana_ozne"), "mekan": d.get("_mekan")})
+    # Temsilî konu fotoğrafı tanımı gereği geneldir ("saç kesimi yapan berber"): eşik 6; yer/kurum fotoğraflarında 7.
+    esik = KONU_ILISKISI_ESIK_NESNE if d.get("_alt_tur") == "nesne" else KONU_ILISKISI_ESIK
+    if d.get("_alt_tur") in KONU_ILISKISI_SART and not ana_ozne_kurum and int(d.get("konu_iliskisi") or 0) < esik:
         nedenler.append(f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {int(d.get('konu_iliskisi') or 0)}/10)")
     if d.get("yasak_unsur_var") is True:
         nedenler.append("görselde olmaması gereken unsur var (" + ", ".join((konu.get("gorselde_olmamali") or [])[:3]) + ")")
@@ -1295,17 +1314,21 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         if ob:
             a.update(karar=ob["karar"], gerekce=ob.get("gerekce", ""), kontrol_tarih=ob.get("t", ""), onbellekten=True,
                      benzerlik=ob.get("benzerlik", 0), tek=ob.get("tek", False), iliski=ob.get("iliski", 0))
-            if a["karar"] == "red" and ((a.get("alt_tur") == "kurum" and a.get("ana_ozne")) or (a.get("alt_tur") == "yer_konu" and a.get("mekan"))):
+            if a["karar"] == "red" and a.get("alt_tur") == "nesne" and eski_red_yeniden(a, ob, konu) == "kabul":
+                a.update(karar="kabul", gerekce="temsilî konu fotoğrafı (konu ilişkisi eşiği 6) — "
+                                                + (a["gerekce"].split(" — ", 1)[1] if " — " in a["gerekce"] else ""))
+            if a["karar"] == "red" and ana_ozne_fotografi(a):
                 # Ana özne kurumun/takımın ya da olayın geçtiği adı belli mekânın (Kızılkule, Alanya Kalesi…) kendi fotoğrafı yalnızca
                 # "konu ilişkisi" yüzünden elenmişse (kural değişti) kabul edilir.
                 ned = [n.strip() for n in a["gerekce"].split(" — ")[0].split(";") if n.strip()]
                 if ned and all(n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
                     a.update(karar="kabul", gerekce="ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — "
                                                     + (a["gerekce"].split(" — ", 1)[1] if " — " in a["gerekce"] else ""))
-            if (a["karar"] == "kabul" and a.get("alt_tur") in KONU_ILISKISI_SART and not a.get("ana_ozne")
-                    and int(a.get("iliski") or 0) < KONU_ILISKISI_ESIK):   # eşik sonradan yükseldiyse eski kabul geçersiz
+            esik = KONU_ILISKISI_ESIK_NESNE if a.get("alt_tur") == "nesne" else KONU_ILISKISI_ESIK
+            if (a["karar"] == "kabul" and a.get("alt_tur") in KONU_ILISKISI_SART and not ana_ozne_fotografi(a)
+                    and int(a.get("iliski") or 0) < esik):   # eşik sonradan yükseldiyse eski kabul geçersiz
                 a.update(karar="red", gerekce=f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {a['iliski']}/10, "
-                                              f"eşik {KONU_ILISKISI_ESIK}) — {a['gerekce']}")
+                                              f"eşik {esik}) — {a['gerekce']}")
             continue
         try:
             tip, veri = gorsel_indir(a.get("kucuk") or a["url"])
@@ -1364,7 +1387,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # c5: "görselde olmalı" şartından kişi adları çıkarılır (temsilî fotoğrafta haberdeki kişi bulunamaz).
 # c6: olayın geçtiği adı belli mekânın (Kızılkule gibi) doğrulanmış fotoğrafı aynı olay şartı olmadan kabul edilir.
 # c7: Unsplash etiketleri de okunur; konu sorgusunun tamamı yerine çekirdek terim + kelimelerin yarısı yeterli; çocuk ürünü fotoğrafı.
-KAPAK_SURUM = "c7"
+# c8: olayın geçtiği tesisin (Kızılkule) kendi fotoğrafı; temsilî fotoğrafta konu ilişkisi eşiği 6; çocuk ürünü önbellek düzeltmesi.
+KAPAK_SURUM = "c8"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
@@ -1412,6 +1436,7 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
 
 KURUM_HASSAS = {"suç", "çocuk", "ölüm"}
 KONU_ILISKISI_ESIK = 7
+KONU_ILISKISI_ESIK_NESNE = 6
 KONU_ILISKISI_SART = {"kurum", "yer", "yer_konu", "nesne"}   # aynı yerde/kurumda olmak yetmez; konuyla doğrudan ilişki gerekir
 NESNE_HASSAS = {"suç", "kaza", "ölüm", "afet", "çocuk"}   # bu haberlerde temsilî fotoğraf olayın görüntüsü sanılır
 UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
@@ -1461,6 +1486,8 @@ def konu_gorseli(konu):
     urun = hassas == "çocuk" and oz.get("tur") == "nesne"
     if (hassas != "yok" and not urun) or oz.get("tur") == "takim":
         kg["uygun"] = False
+    elif urun and kg.get("sorgular_en"):
+        kg["uygun"] = True       # konu ayrıştırmada (eski kural/önbellek) kapatılmış olabilir
     elif oz.get("tur") == "kisi":
         # Kişi haberinde temsilî fotoğraf yalnızca konuyu (satranç, sahne, ürün) gösterir; görüntü kontrolünde tanınabilir kişi
         # bulunan kare elenir (fotoğraftaki kişi haberin kişisi sanılmasın). Kişinin doğrulanmış portresi her zaman önce gelir.
