@@ -529,3 +529,18 @@ aside h4{margin:0 0 10px;font-size:14px;font-weight:900;text-transform:uppercase
 .haber-etiketler span{color:var(--soluk);font-weight:600}
 .haber-etiketler a{background:#eef1f3;color:var(--metin);padding:3px 9px;border-radius:3px;text-decoration:none}
 .haber-etiketler a:hover{background:#e2e7ea}
+/* Fotoğrafı olmayan haber: kompakt metin kartı (kategori kapağı büyük görsel olarak gösterilmez) */
+.metin-ust{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;font-size:12px;color:var(--soluk);margin:0 0 8px}
+.metin-ust .metin-kat{color:var(--turuncu-koyu);font-weight:800;text-transform:uppercase;letter-spacing:.05em}
+.metin-ozet{margin:6px 0 0;color:var(--soluk);font-size:14px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.metin-kart{border-top:3px solid var(--turuncu);padding-top:10px}
+.metin-kart.h-kucuk,.metin-kart.liste-oge{grid-template-columns:minmax(0,1fr);border-top-width:0;border-left:3px solid var(--turuncu);padding-left:12px}
+.metin-kart.h-kucuk:first-child{padding-top:0}
+.bant .metin-ust{color:#B9C6CC}.bant .metin-ust .metin-kat{color:#FFC9B4}.bant .metin-ozet{color:#B9C6CC}
+.metin-kart.h-bindirme h3{margin:0}
+.h-buyuk.metin-kart{border-top-width:4px;padding-top:16px}
+.h-buyuk.metin-kart .h-buyuk-yazi{position:static;aspect-ratio:auto;padding:0;display:block;pointer-events:auto}
+.h-buyuk.metin-kart .h-buyuk-kat{display:inline-block;background:var(--turuncu);color:#fff;font-size:12.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;margin-bottom:12px}
+.h-buyuk.metin-kart .b-xl a{color:var(--metin);text-shadow:none}
+.h-buyuk.metin-kart .b-xl a:hover{color:var(--turuncu-koyu)}
+.h-sira.metin-kart > .ust-etiket{display:none}
