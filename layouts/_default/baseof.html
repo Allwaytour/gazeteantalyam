@@ -21,7 +21,7 @@
 <meta name="theme-color" content="#374F58">
 <link rel="icon" href="{{ "favicon.png" | relURL }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
-<link rel="preload" href="{{ "fonts/inter-latin-wght-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/mulish-latin-wght-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
 {{ $css := slice (resources.Get "css/fontlar.css") (resources.Get "css/site.css") | resources.Concat "css/site.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{/* Yapılandırılmış veri: dict + jsonify | safeJS (şablon motoru metni ikinci kez kaçışlamasın). Yalnızca haber ve köşe yazıları

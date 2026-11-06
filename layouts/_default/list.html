@@ -3,7 +3,7 @@
 <div class="izgara">
   <div>
     <div class="sayfa-bas"><h1>{{ .Title }}</h1></div>
-    <div class="liste" data-sayfala="15">{{ range first 150 $hepsi }}{{ partial "liste-oge.html" . }}{{ end }}</div>
+    <div class="izgara-3" data-sayfala="15">{{ range first 150 $hepsi }}{{ partial "liste-oge.html" . }}{{ end }}</div>
     <button class="daha" type="button" data-daha hidden>Daha fazla haber yükle</button>
   </div>
   {{ partial "kenar.html" (dict "hepsi" $hepsi) }}
