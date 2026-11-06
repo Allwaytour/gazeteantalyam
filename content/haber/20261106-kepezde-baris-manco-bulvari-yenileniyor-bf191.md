@@ -40,7 +40,7 @@ gorsel_secim:
     kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   kurum: k5
   kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

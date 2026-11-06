@@ -29,7 +29,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:07:15+03:00'
+    tarih: '2026-11-06T13:39:27+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0)
@@ -38,7 +38,7 @@ gorsel_secim:
     aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış '
     notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kumluca Kaymakamlığı'' için konuyla (district governor office) ilişkili lisanslı fotoğraf bulunamadı'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:9
+  zorla: g9.4-2026-11-05:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
