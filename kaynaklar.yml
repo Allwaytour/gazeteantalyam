@@ -25,7 +25,7 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 19          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 20          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:              # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
     - 20261106-antalya-ve-kocaelide-kazi-kazan-talihlileri-toplam-32-milyon-85893.md
     - 20261106-antalyadaki-cop31-alaninda-saglik-onlemleri-artirildi-f1e13.md
@@ -47,7 +47,7 @@ ayarlar:
     - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
     - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
     - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
-  gorsel_yeniden_no: 8          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
+  gorsel_yeniden_no: 9          # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
     - 20261106-antalya-ve-kocaelide-kazi-kazan-talihlileri-toplam-32-milyon-85893.md
     - 20261106-antalyadaki-cop31-alaninda-saglik-onlemleri-artirildi-f1e13.md
