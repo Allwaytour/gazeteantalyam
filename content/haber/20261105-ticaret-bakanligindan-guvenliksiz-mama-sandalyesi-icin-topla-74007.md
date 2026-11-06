@@ -41,6 +41,8 @@ yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/ticaret-bakanligindan-dusme-riski-bulunan-mama-sandalyesine-yasak
 baslik_ozgun: TİCARET BAKANLIĞI'NDAN GÜVENLİKSİZ MAMA SANDALYESİ İÇİN TOPLATMA KARARI
+etiketler:
+- Ticaret Bakanlığı
 ---
 Ticaret Bakanlığı tarafından yürütülen piyasa gözetimi ve denetim çalışmaları sonucunda, bebek ve çocukların kullanımı için üretilen bir mama sandalyesinde ciddi güvenlik eksiklikleri tespit edildi. Yapılan teknik incelemelerde, ürünün güvenlik barı ile bacak açıklığı arasındaki mesafenin belirlenen standartların altında kaldığı saptandı.
 

@@ -53,6 +53,11 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-kasim-ayi-spor-etkinlikleri-icin-kritik-toplanti-guvenlik-onlemleri-masaya-yatirildi
 baslik_ozgun: ALANYA'DA KASIM AYI SPOR MÜSABAKALARI İÇİN GÜVENLİK ZİRVESİ
+etiketler:
+- Şakir Öner Öztürk
+- İlçe Spor Güvenlik Kurulu
+- Corendon Alanyaspor
+- Alanya 1221 Futbol Spor Kulübü
 ---
 Alanya, kasım ayı boyunca ev sahipliği yapacağı ulusal ve yerel spor organizasyonlarına hazırlanıyor. Kentte sporun huzur ve güven ortamında sürmesi amacıyla düzenlenen İlçe Spor Güvenlik Kurulu Toplantısı, Kaymakam Şakir Öner Öztürk başkanlığında gerçekleştirildi. İlgili kurum ve kuruluş temsilcilerinin katıldığı toplantıda, sporcuların, teknik ekiplerin ve taraftarların güvenliği için atılacak adımlar detaylıca ele alındı.
 

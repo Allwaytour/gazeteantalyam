@@ -52,6 +52,10 @@ yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/euroleague-fenerbahce-84-kosner-baskonia-65
 baslik_ozgun: FENERBAHÇE BASKONI'YI RAHAT GEÇTİ
+etiketler:
+- Sarunas Jasikevicius
+- Fenerbahçe
+- Kosner Baskonia
 ---
 Ülker Spor ve Etkinlik Salonu'nda oynanan Euroleague karşılaşmasında Fenerbahçe, Kosner Baskonia'yı konuk etti. Mücadeleye hızlı başlayan sarı-lacivertli ekip, ilk periyodu 33-18 önde tamamlarken, oyunun kontrolünü elinde tutmaya devam etti.
 

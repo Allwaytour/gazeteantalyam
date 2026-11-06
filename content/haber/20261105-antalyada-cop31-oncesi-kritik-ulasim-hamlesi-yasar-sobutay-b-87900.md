@@ -42,6 +42,9 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalyada-cop31-hazirligi-yasar-sobutay-bulvari-4-seride-cikti
 baslik_ozgun: 'ANTALYA''DA COP31 ÖNCESİ KRİTİK ULAŞIM HAMLESİ: YAŞAR SOBUTAY BULVARI GENİŞLETİLDİ'
+etiketler:
+- Büşra Özdemir
+- Antalya Büyükşehir Belediyesi
 ---
 Antalya Büyükşehir Belediyesi, Birleşmiş Milletler İklim Değişikliği Taraflar Konferansı (COP31) hazırlıkları kapsamında kent genelindeki ulaşım ve altyapı ağını modernize etmeye devam ediyor. Bu çalışmaların merkezinde yer alan önemli güzergahlardan Yaşar Sobutay Bulvarı, kapsamlı bir dönüşümle trafiğe açıldı. Daha önce tek gidiş ve tek geliş şeklinde hizmet veren 4 kilometrelik yol, yapılan düzenlemeyle iki gidiş ve iki geliş olmak üzere toplam dört şeride çıkarıldı.
 

@@ -59,6 +59,11 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-800-yillik-kizilkulede-cumhuriyet-ve-ataturk-bulusmasi-genc-yeteneklerden-anlamli-sergi
 baslik_ozgun: KIZILKULE'DE CUMHURİYET VE ATATÜRK SERGİSİ
+etiketler:
+- Şakir Öner Öztürk
+- Alanya Güzel Sanatlar Lisesi
+- Alanya Kaymakamlığı
+- Alanya İlçe Millî Eğitim Müdürlüğü
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 
