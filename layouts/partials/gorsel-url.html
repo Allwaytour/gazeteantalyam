@@ -2,7 +2,7 @@
      Wikimedia Commons: standart küçük kopya (…/thumb/…/500px-Dosya.jpg); Unsplash: w/q parametresi; diğerleri olduğu gibi. */}}
 {{ $u := .u | default "" }}{{ $w := .w | default 1280 }}
 {{ $sonuc := $u }}
-{{ if in $u "upload.wikimedia.org/wikipedia/commons/thumb/" }}
+{{ if in $u "wikimedia.org/wikipedia/commons/thumb/" }}
   {{ $sonuc = replaceRE `/[0-9]+px-` (printf "/%dpx-" $w) $u }}
   {{ $sonuc = replaceRE `\?.*$` "" $sonuc }}
 {{ else if in $u "upload.wikimedia.org/wikipedia/commons/" }}
