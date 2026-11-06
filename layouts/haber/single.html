@@ -22,13 +22,9 @@
       {{ $g := . | relURL }}{{ $buyuk := partial "gorsel-url.html" (dict "u" $g "w" 1280) }}{{ $orta := partial "gorsel-url.html" (dict "u" $g "w" 960) }}
       <figure class="kapak"><img src="{{ $buyuk }}"{{ if ne $buyuk $g }} srcset="{{ $orta }} 960w, {{ $buyuk }} 1280w" sizes="(max-width:1000px) 100vw, 760px" data-asil="{{ $g }}"{{ end }}{{ with $konum }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ . | safeCSS }}"{{ end }} alt="{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" referrerpolicy="no-referrer">
         {{/* Görsel üzerinde rozet yok. Açıklama ve lisans atfı fotoğrafın altında tek satırdır. */}}
-        {{ if or $s.fotografci $.Params.gorsel_kredi }}<figcaption>
-          {{/* Yalnızca lisansın gerektirdiği kısa atıf: fotoğrafçı / kaynak bağlantısı (CC lisans adı) */}}
-          {{ if $s.fotografci }}Fotoğraf: {{ $s.fotografci }}{{ if $s.kaynak_sayfa }} / <a href="{{ $s.kaynak_sayfa }}" rel="nofollow noopener" target="_blank">{{ if in $s.kaynak_sayfa "commons.wikimedia.org" }}Wikimedia Commons{{ else if in $s.kaynak_sayfa "unsplash.com" }}Unsplash{{ else }}kaynak{{ end }}</a>{{ end }}{{ with $s.lisans }}{{ if or (hasPrefix . "CC") (hasPrefix . "Kamu") (hasPrefix . "Public") }} ({{ . }}){{ end }}{{ end }}
-          {{ else }}{{ with $.Params.gorsel_kredi }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
+        {{/* Fotoğraf atıfları haber sayfasında gösterilmez; lisansın istediği atıf "Fotoğraf Kaynakları" sayfasındadır (alt bölümde bağlantı). */}}
       </figure>{{ end }}{{ end }}
       <div class="icerik">{{ .Content }}</div>
-      {{ with .Params.kaynak }}{{ if $.Params.otomatik }}<p class="haber-kaynak">Kaynak: {{ with $.Params.kaynak_url }}<a href="{{ . }}" rel="nofollow noopener" target="_blank">{{ $.Params.kaynak }}</a>{{ else }}{{ . }}{{ end }}</p>{{ end }}{{ end }}
       {{ partial "ihbar.html" . }}
       {{ partial "yorumlar.html" . }}
     </article>
