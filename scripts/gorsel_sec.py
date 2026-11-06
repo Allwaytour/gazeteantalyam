@@ -1233,7 +1233,7 @@ def eski_red_yeniden(a, ob, konu=None):
     ned = [n.strip() for n in g.split(" — ")[0].split(";") if n.strip()]
     if not ned:
         return ""
-    if a.get("alt_tur") == "kurum" and a.get("ana_ozne") and all(
+    if ((a.get("alt_tur") == "kurum" and a.get("ana_ozne")) or (a.get("alt_tur") == "yer_konu" and a.get("mekan"))) and all(
             n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
         return "kabul"
     aciklama = g.split(" — ", 1)[1] if " — " in g else ""
@@ -1260,7 +1260,8 @@ def karar_ver(d, konu):
         nedenler.append("yanıltıcı (başka olay/kişi/kurum izlenimi)")
     # Haberin ANA ÖZNESİ olan kurumun/takımın/tesisin kimliği doğrulanmış kendi fotoğrafı (ör. Antalyaspor haberinde kendi stadı)
     # aynı olayda çekilmiş olmak zorunda değildir: konu ilişkisi eşiği uygulanmaz (yanıltıcılık ve tutarlılık yine aranır).
-    ana_ozne_kurum = d.get("_alt_tur") == "kurum" and d.get("_ana_ozne")
+    # Olayın geçtiği adı belli mekânın (tesis, yapı, tarihî yer) doğrulanmış fotoğrafı da aynı olay şartı olmadan kabul edilir.
+    ana_ozne_kurum = (d.get("_alt_tur") == "kurum" and d.get("_ana_ozne")) or (d.get("_alt_tur") == "yer_konu" and d.get("_mekan"))
     if d.get("_alt_tur") in KONU_ILISKISI_SART and not ana_ozne_kurum and int(d.get("konu_iliskisi") or 0) < KONU_ILISKISI_ESIK:
         nedenler.append(f"haberin konusuyla doğrudan ilişkili değil (konu ilişkisi {int(d.get('konu_iliskisi') or 0)}/10)")
     if d.get("yasak_unsur_var") is True:
@@ -1294,8 +1295,9 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
         if ob:
             a.update(karar=ob["karar"], gerekce=ob.get("gerekce", ""), kontrol_tarih=ob.get("t", ""), onbellekten=True,
                      benzerlik=ob.get("benzerlik", 0), tek=ob.get("tek", False), iliski=ob.get("iliski", 0))
-            if a["karar"] == "red" and a.get("alt_tur") == "kurum" and a.get("ana_ozne"):
-                # Ana özne kurumun/takımın kendi fotoğrafı yalnızca "konu ilişkisi" yüzünden elenmişse (kural değişti) kabul edilir.
+            if a["karar"] == "red" and ((a.get("alt_tur") == "kurum" and a.get("ana_ozne")) or (a.get("alt_tur") == "yer_konu" and a.get("mekan"))):
+                # Ana özne kurumun/takımın ya da olayın geçtiği adı belli mekânın (Kızılkule, Alanya Kalesi…) kendi fotoğrafı yalnızca
+                # "konu ilişkisi" yüzünden elenmişse (kural değişti) kabul edilir.
                 ned = [n.strip() for n in a["gerekce"].split(" — ")[0].split(";") if n.strip()]
                 if ned and all(n.startswith(("haberin konusuyla doğrudan ilişkili değil", "haberin gerektirdiği unsur görünmüyor")) for n in ned):
                     a.update(karar="kabul", gerekce="ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — "
@@ -1337,7 +1339,7 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
             a.update(karar="red", gerekce="değerlendirme yanıtında yok", kontrol_tarih=tarih)
             continue
         karar, nedenler = karar_ver(dict(d, _alt_tur=a.get("alt_tur", ""), _hedef_tur=a.get("hedef_tur", ""),
-                                         _ana_ozne=bool(a.get("ana_ozne"))), konu)
+                                         _ana_ozne=bool(a.get("ana_ozne")), _mekan=bool(a.get("mekan"))), konu)
         gerekce = temiz(d.get("gerekce"), 200)
         if nedenler:
             gerekce = "; ".join(nedenler) + (f" — {gerekce}" if gerekce else "")
@@ -1360,7 +1362,8 @@ def gorsel_kontrol(bag, haber, konu, konu_imza, adaylar):
 # c4: yer+konu aramasında "Antalya" gibi geniş yer adı da tutar; ana öznenin kendi fotoğrafı ve "yabancı sahne" redleri yeniden
 #     değerlendirilir; hassas olmayan kişi haberinde konuyu anlatan temsilî fotoğraf.
 # c5: "görselde olmalı" şartından kişi adları çıkarılır (temsilî fotoğrafta haberdeki kişi bulunamaz).
-KAPAK_SURUM = "c5"
+# c6: olayın geçtiği adı belli mekânın (Kızılkule gibi) doğrulanmış fotoğrafı aynı olay şartı olmadan kabul edilir.
+KAPAK_SURUM = "c6"
 
 
 def kapak_secimi(kategori, gerekce, kontrol, konu_imza):
@@ -1693,6 +1696,8 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
             notlar.append(f"'{yer['ad']}' bir şehir/ilçe; tesis türü ipucuyla rastgele tesis fotoğrafı aranmadı")
             return adaylar, notlar
     sorgular = sorgular or [f"{yer_en} {ip}" for ip in ipuclari[:2]]
+    # Adı belli mekân (Kızılkule, Alanya Kalesi, Yaşar Sobutay Bulvarı…): şehir/ilçe, mahalle ya da köy değil.
+    mekan = bool(tesis_adi or (yer["ad"] not in YERLER and not re.search(r"(?i)mahalle|köy|\bkoy\b|semt|bölge|region|district", yer["ad"])))
     ip_kok = {kok(w) for ip in ipuclari for w in kelimeler(ip)}
     dosyalar = []
     try:
@@ -1736,6 +1741,7 @@ def yer_konu_adaylari(bag, konu, sorgular=None, en_fazla=2, gorulen=()):
         cekim = tarih_oku(d.get("tarih"))
         adaylar.append({
             "tur": "arsiv", "alt_tur": "yer_konu", "kaynak": "Wikimedia Commons", "url": d["url"], "kucuk": kontrol_kucuk(d["url"], d["genislik"]),
+            "mekan": mekan,
             "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"], "lisans_dayanagi": d["lisans_url"] or d["sayfa"],
             "kosul": commons.get("kosul", ""), "hedef": f"{yer['ad']} — {', '.join(ipuclari[:2])} (konuyla ilişkili alan, arşiv)",
             "gosterim_ad": yer["ad"], "cekim": str(cekim or ""), "kayit": d, "onayli": "onay" in d,
