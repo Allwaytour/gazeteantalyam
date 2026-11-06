@@ -748,6 +748,16 @@ ETKINLIK_EN = {"ziyaret": "visit visits visiting", "toplanti": "meeting", "konse
                "konusma": "speech", "zirve": "summit", "kongre": "congress", "festival": "festival", "gorusme": "talks meeting"}
 
 
+def portre_konumu(a):
+    """Dikey kişi fotoğrafında yatay kırpmanın odağı: boy fotoğrafında (yükseklik/genişlik ≥ 1.8) yüz en üstte kalır;
+    sabit %22 bu karelerde gövdeyi gösterir."""
+    if not a.get("dikey"):
+        return ""
+    k = a.get("kayit") or {}
+    oran = a.get("oran") or (k.get("yukseklik") or 0) / (k.get("genislik") or 1)
+    return "50% 5%" if oran >= 1.8 else "50% 22%"
+
+
 def baska_kisinin_haberi(konu, haber, ad):
     """Haberin ana kişisi (ana özne ya da başlıkta adı geçen kişi) başka biriyse onun adı; değilse ''.
     (ör. "Hakan Özmert yeni göreviyle Fenerbahçe antrenmanında" haberinde Emre Belözoğlu portresi kullanılmaz.)"""
@@ -852,6 +862,7 @@ def kisi_adaylari(bag, konu, haber):
                 "kucuk": kontrol_kucuk(d["url"], d["genislik"]), "sayfa": d["sayfa"], "fotografci": d["yazar"], "lisans": d["lisans"],
                 "lisans_dayanagi": d["lisans_url"] or d["sayfa"], "kosul": commons.get("kosul", ""), "hedef": kisi["ad"],
                 "kisi": kisi["ad"], "qid": v["qid"], "cekim": str(cekim or ""), "meta_puan": puan, "dikey": d["yukseklik"] > d["genislik"],
+                "oran": round(d["yukseklik"] / d["genislik"], 2) if d["genislik"] else 0,
                 "portre": d in p18, "etkinlik_eslesti": bool(tur_kokleri & mk), "hassas_kip": hassas,
                 "onayli": any(isinstance(x, dict) and x.get("url") == d["url"] for x in kut),
                 "kayit": next((x for x in kut if isinstance(x, dict) and x.get("url") == d["url"]), d),
@@ -1460,7 +1471,7 @@ def aday_secimi(a, kontrol, konu_imza, konu=None):
         "izin_kontrolu": a.get("izin_kontrolu") or {},
         "alt_tur": a.get("alt_tur", ""), "qid": a.get("qid", ""),
         "kaynak_aciklama": temiz(((a.get("kayit") or {}).get("aciklama") or ""), 160),
-        "konum": "50% 22%" if a.get("dikey") else "",
+        "konum": portre_konumu(a),
     }
 
 
