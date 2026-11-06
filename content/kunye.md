@@ -4,13 +4,19 @@ url: "/kunye/"
 ---
 **Yayın Adı:** Gazete Antalya (gazeteantalyam.com)
 
-**Sorumlu Yazı İşleri Müdürü:** Musa Şimşek
+**Sorumlu Müdür:** Mustafa Şimşek
 
-**Editör:** Mustafa Şimşek
+**Yazı İşleri Müdürü:** Musa Şimşek
 
 **Adres:** Antalya
 
+**Telefon:** 0551 340 13 61
+
+**WhatsApp İhbar Hattı:** [0551 340 13 61](https://wa.me/905513401361)
+
 **E-posta:** iletisim@gazeteantalyam.com
+
+**Instagram:** [@gazeteantalyam](https://www.instagram.com/gazeteantalyam/)
 
 **Yer Sağlayıcı:** GitHub Pages (GitHub, Inc.)
 
