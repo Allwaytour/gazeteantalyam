@@ -33,7 +33,6 @@
 {{ if and .Params.gorsel (ne (partial "gorsel-tur.html" .) "kategori") (not (in .Params.gorsel "/images/kategori/")) }}{{ $ld = merge $ld (dict "image" (slice $paylasim)) }}{{ end }}
 {{ $yazar := .Params.yazar | default site.Title }}
 {{ if eq $yazar site.Title }}{{ $ld = merge $ld (dict "author" (dict "@type" "Organization" "name" site.Title "url" ("/" | absURL))) }}{{ else }}{{ $ld = merge $ld (dict "author" (dict "@type" "Person" "name" $yazar)) }}{{ end }}
-{{ with .Params.kaynak_url }}{{ if $.Params.otomatik }}{{ $ld = merge $ld (dict "isBasedOn" .) }}{{ end }}{{ end }}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{ else if .IsHome }}
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" (slice (merge $kurulus (dict "@id" ("/#kurulus" | absURL))) (dict "@type" "WebSite" "name" site.Title "url" ("/" | absURL) "inLanguage" "tr-TR" "publisher" (dict "@id" ("/#kurulus" | absURL)) "potentialAction" (dict "@type" "SearchAction" "target" (printf "%s?q={search_term_string}" ("arama/" | absURL)) "query-input" "required name=search_term_string"))) | jsonify | safeJS }}</script>

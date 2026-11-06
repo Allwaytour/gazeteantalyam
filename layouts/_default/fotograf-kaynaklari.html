@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{/* Lisansların istediği fotoğraf atıfları: haber sayfalarında gösterilmez, burada haber haber listelenir. */}}
+<article class="haber" style="max-width:860px;margin:0 auto">
+  <h1>{{ .Title }}</h1>
+  <div class="icerik">{{ .Content }}</div>
+  <ul class="foto-kaynak">
+  {{ range sort (where site.RegularPages "Section" "in" (slice "haber" "kose")) "Date" "desc" }}{{ $p := . }}
+    {{ with .Params.gorsel }}{{ if not (in . "/images/kategori/") }}{{ if ne (partial "gorsel-tur.html" $p) "kategori" }}
+    {{ $s := partial "gorsel-secim.html" $p }}
+    {{ $atif := "" }}
+    {{ if $s.fotografci }}
+      {{ $site := "" }}{{ with $s.kaynak_sayfa }}{{ $site = cond (in . "commons.wikimedia.org") "Wikimedia Commons" (cond (in . "unsplash.com") "Unsplash" "kaynak") }}{{ end }}
+      {{ $atif = printf "Fotoğraf: %s" (htmlEscape $s.fotografci) }}
+      {{ with $s.kaynak_sayfa }}{{ $atif = printf `%s / <a href="%s" rel="nofollow noopener" target="_blank">%s</a>` $atif . $site }}{{ end }}
+      {{ with $s.lisans }}{{ if or (hasPrefix . "CC") (hasPrefix . "Public") (hasPrefix . "Kurum") }}{{ $atif = printf "%s (%s)" $atif (htmlEscape .) }}{{ end }}{{ end }}
+    {{ else if $p.Params.gorsel_kredi }}{{ $atif = $p.Params.gorsel_kredi | htmlEscape }}{{ end }}
+    {{ if $atif }}<li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a><br><span>{{ $atif | safeHTML }}</span></li>{{ end }}
+    {{ end }}{{ end }}{{ end }}
+  {{ end }}
+  </ul>
+</article>
+{{ end }}
