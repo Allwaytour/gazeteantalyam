@@ -5,10 +5,11 @@
   {{ $ilce := "" }}{{ with .Params.ilceler }}{{ $ilce = index . 0 }}{{ end }}
   {{ $g := "" }}{{ with .Params.gorsel }}{{ $g = . | relURL }}{{ end }}
   {{ $foto := and (ne $g "") (not (in $g "/images/kategori/")) }}
+  {{ $sec := partial "gorsel-secim.html" . }}
   {{ $onem := int (.Params.onem | default 3) }}{{ if .Params.manset }}{{ $onem = 5 }}{{ end }}
   {{ $liste = $liste | append (dict
     "baslik" .Title "ozet" (.Params.ozet | default (.Summary | plainify)) "link" .RelPermalink
-    "gorsel" $g "gorsel_tur" (partial "gorsel-tur.html" .) "gorsel_yil" ((.Params.gorsel_secim | default dict).cekim_yili | default "") "gorsel_konum" (.Params.gorsel_konum | default "") "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "gorsel" $g "gorsel_tur" (partial "gorsel-tur.html" .) "gorsel_yil" ($sec.cekim_yili | default "") "gorsel_konum" (cond (or $sec (not .Params.gorsel_secim)) (.Params.gorsel_konum | default "") "") "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
     "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false "foto" $foto "onem" $onem
     "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}
 {{ end }}

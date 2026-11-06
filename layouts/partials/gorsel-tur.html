@@ -1,4 +1,6 @@
 {{/* Görselin türü: gercek | stok | kategori | "" (elle seçilmiş). Eski hattın kayıtlarında "Temsili fotoğraf" kredisi stok sayılır. */}}
 {{ $t := .Params.gorsel_tur | default "" }}
 {{ if and (not $t) .Params.gorsel (hasPrefix (.Params.gorsel_kredi | default "") "Temsili") }}{{ $t = "stok" }}{{ end }}
+{{/* Editör otomatik seçimin yerine kendi fotoğrafını koyduysa görsel elle seçilmiş sayılır. */}}
+{{ if and (reflect.IsMap .Params.gorsel_secim) (ne (.Params.gorsel | default "") (.Params.gorsel_secim.gorsel_url | default "")) }}{{ $t = "" }}{{ end }}
 {{ return $t }}

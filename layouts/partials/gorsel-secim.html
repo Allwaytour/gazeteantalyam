@@ -1,0 +1,6 @@
+{{/* Otomatik görsel seçiminin kaydı (gorsel_secim) yalnızca haberdeki görsel hâlâ o seçimse geçerlidir.
+     Editör panelden başka bir fotoğraf koyduysa kayıt (tür, fotoğrafçı, lisans, kırpma) o fotoğrafa ait değildir: boş döner. */}}
+{{ $s := .Params.gorsel_secim }}
+{{ $sonuc := dict }}
+{{ if reflect.IsMap $s }}{{ if eq (.Params.gorsel | default "") ($s.gorsel_url | default "") }}{{ $sonuc = $s }}{{ end }}{{ end }}
+{{ return $sonuc }}
