@@ -3,233 +3,129 @@
 {{ $sinir := sub now.Unix 21600 }}
 {{ $kullanilan := slice }}
 
-{{/* ===== 1) MANŞET =====
-     Önce haberin önemi (onem 1-5; elle "manşet" işaretli = 5), son 6 saatteki haberler arasından. Aynı önemdeki haberlerden
-     fotoğraflı olan öne alınır; önemli bir haber fotoğrafı yok diye geri plana atılmaz (metin kartıyla manşette kalır). */}}
-{{ $son := where $hepsi "ts" "ge" $sinir }}{{ if lt (len $son) 7 }}{{ $son = first 12 $hepsi }}{{ end }}
+{{/* ===== MANŞET =====
+     Haberin önemi esas alınır (onem 1-5; elle "manşet" işaretli = 5), son 6 saatteki haberler arasından. Aynı önemdeki haberlerden
+     fotoğraflı olan öne alınır; önemli bir haber fotoğrafı yok diye geri plana atılmaz (manşette güçlü tipografili metin slaytı olur). */}}
+{{ $son := where $hepsi "ts" "ge" $sinir }}{{ if lt (len $son) 14 }}{{ $son = first 20 $hepsi }}{{ end }}
 {{ $sirali := slice }}
 {{ range $p := seq 51 -1 10 }}{{ range $son }}{{ if eq (add (mul .onem 10) (cond .foto 1 0)) $p }}{{ $sirali = $sirali | append . }}{{ end }}{{ end }}{{ end }}
-{{ $ana := index $sirali 0 }}
-{{ $kullanilan = $kullanilan | append $ana.link }}
-{{ $ikinci := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $ikinci) 2) (not (in $kullanilan .link)) }}{{ $ikinci = $ikinci | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
-{{ $sira := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $sira) 4) (not (in $kullanilan .link)) }}{{ $sira = $sira | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $slayt := first 7 $sirali }}
+{{ range $slayt }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
+{{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) (not (in $kullanilan .link)) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $one := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $one) 8) (not (in $kullanilan .link)) }}{{ $one = $one | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+
+{{/* ===== BÖLÜMLER (her haber ana sayfada yalnızca bir kez) ===== */}}
+{{ $merkez := slice "Muratpaşa" "Kepez" "Konyaaltı" }}
+{{ $spor := slice }}{{ range where $hepsi "kategori" "Spor" }}{{ if and (lt (len $spor) 8) (not (in $kullanilan .link)) }}{{ $spor = $spor | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $turizm := slice }}{{ range where $hepsi "kategori" "Turizm" }}{{ if and (lt (len $turizm) 4) (not (in $kullanilan .link)) }}{{ $turizm = $turizm | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $ilceden := slice }}{{ range $hepsi }}{{ if and (lt (len $ilceden) 8) .ilce (not (in $merkez .ilce)) (not (in $kullanilan .link)) }}{{ $ilceden = $ilceden | append (merge . (dict "ilce_once" true)) }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $sekmeler := slice }}
+{{ range $k := slice "Asayiş" "Ekonomi" "Eğitim" "Sağlık" "Kültür-Sanat" "Yaşam" }}{{ $kh := slice }}{{ range where $hepsi "kategori" $k }}{{ if and (lt (len $kh) 4) (not (in $kullanilan .link)) }}{{ $kh = $kh | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}{{ if ge (len $kh) 2 }}{{ $sekmeler = $sekmeler | append (dict "ad" $k "h" $kh) }}{{ end }}{{ end }}
+{{ $gundem := slice }}{{ range $hepsi }}{{ if and (lt (len $gundem) 9) (not (in $kullanilan .link)) }}{{ $gundem = $gundem | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haber metin kartıyla gösterilir. */}}
+{{ $gg := slice }}
 
 <h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
-<section class="manset" aria-label="Manşet">
-  {{ with $ana }}
-  <article class="h-buyuk{{ if not .foto }} metin-kart{{ end }}">
-    {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" (merge . (dict "buyuk" true)) }}<span class="g-etiket">{{ .kategori }}</span></a>{{ end }}
-    <div class="h-buyuk-yazi"><span class="h-buyuk-kat">{{ .kategori }}</span><h2 class="b-xl"><a href="{{ .link }}">{{ .baslik }}</a></h2></div>
-    {{ with .ozet }}<p class="spot">{{ . | plainify | truncate 200 }}</p>{{ end }}
-    <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
-  </article>
-  {{ end }}
-  <div class="manset-yan">
-    {{ range $ikinci }}
-    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
-      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-      <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-      {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
-    </article>
-    {{ end }}
+
+<section class="ust-blok" aria-label="Manşet">
+  <div class="manset" data-slayt>
+    <div class="slayt-pencere">
+      <div class="slayt-ic">
+        {{ range $slayt }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}
+        <article class="slayt {{ if $h.foto }}slayt-foto{{ else }}slayt-metin{{ end }}">
+          <a href="{{ $h.link }}">
+            {{ if $h.foto }}{{ partial "gorsel.html" (merge $h (dict "buyuk" true)) }}{{ end }}
+            <span class="slayt-yazi">
+              {{ if not $h.foto }}<span class="hk-ust"><b>{{ $h.kategori }}</b>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ $h.iso }}" data-zaman></time></span>{{ end }}
+              <span class="slayt-b">{{ $h.baslik }}</span>
+              {{ if not $h.foto }}{{ with $h.ozet }}<span class="slayt-o">{{ . | plainify | truncate 230 }}</span>{{ end }}{{ end }}
+            </span>
+          </a>
+        </article>
+        {{ end }}
+      </div>
+      <button class="slayt-ok sol" type="button" aria-label="Önceki manşet"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.6"><path d="m15 5-7 7 7 7"/></svg></button>
+      <button class="slayt-ok sag" type="button" aria-label="Sonraki manşet"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.6"><path d="m9 5 7 7-7 7"/></svg></button>
+    </div>
+    <div class="slayt-nok">{{ range $i, $_ := $slayt }}<button type="button" aria-label="{{ add $i 1 }}. manşet">{{ add $i 1 }}</button>{{ end }}</div>
+  </div>
+  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
+</section>
+
+{{/* Piyasalar + hava durumu */}}
+<section class="bilgi-sira" aria-label="Piyasalar ve hava durumu">
+  <div class="kutu piyasa">
+    <div><span>Dolar</span><b data-kur="USD">–</b></div>
+    <div><span>Euro</span><b data-kur="EUR">–</b></div>
+    <div><span>Sterlin</span><b data-kur="GBP">–</b></div>
+    <div><span>Gram altın</span><b data-kur="ALTIN">–</b></div>
+  </div>
+  <div class="kutu hava-kutu">
+    <div class="hava-simdi"><span class="der" id="hava-der">–</span><div><b id="hava-durum">Antalya</b><small id="hava-ek"></small></div></div>
+    <div class="hava-gunler" id="hava-gunler"></div>
   </div>
 </section>
 
-{{ with $sira }}
-<section class="foto-sira" aria-label="Öne çıkanlar">
-  {{ range . }}
-  <article class="h-sira{{ if not .foto }} metin-kart{{ end }}">
-    {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-    <span class="ust-etiket">{{ .kategori }}</span>
-    <h3 class="b-s"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-    {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
-  </article>
-  {{ end }}
-</section>
-{{ end }}
+{{ with $one }}<section class="izgara-4" aria-label="Öne çıkanlar">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</section>{{ end }}
 
-{{ partial "vitrin.html" "vitrin-genis" }}
 
-{{/* ===== 2) ANTALYA GÜNDEMİ: büyük haber + küçük haberler + kenar ===== */}}
-{{ $gundem := slice }}{{ range $hepsi }}{{ if and (lt (len $gundem) 7) (not (in $kullanilan .link)) }}{{ $gundem = $gundem | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{/* Antalya Gündemi + kenar */}}
 <div class="duzen">
   <section class="bolum" aria-labelledby="b-gundem">
     <header class="bolum-bas"><h2 id="b-gundem">Antalya Gündemi</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
-    <div class="gundem-blok">
-      {{ with index $gundem 0 }}
-      <article class="h-orta h-orta-buyuk{{ if not .foto }} metin-kart{{ end }}">
-        {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}<span class="g-etiket">{{ .kategori }}</span></a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-        <h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-        {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 160 }}</p>{{ end }}
-        <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
-      </article>
-      {{ end }}
-      <ul class="kucuk-liste">
-        {{ range after 1 $gundem }}
-        <li class="h-kucuk{{ if not .foto }} metin-kart{{ end }}">
-          {{ if .foto }}<a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
-          <div><span class="ust-etiket">{{ .kategori }}{{ with .ilce }} · {{ . }}{{ end }}</span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 110 }}</p>{{ end }}{{ end }}</div>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
+    <div class="izgara-3">{{ range $gundem }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
   </section>
-  <aside class="kenar">
-    {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ else }}{{ partial "vitrin.html" "vitrin-kenar" }}{{ end }}
-    <section class="hava-kutu">
-      <h2 class="kenar-bas">Antalya'da hava</h2>
-      <div class="hava-simdi"><span class="der" id="hava-der">–</span><div><b id="hava-durum">Yükleniyor…</b><small id="hava-ek"></small></div></div>
-      <div class="hava-gunler" id="hava-gunler"></div>
-    </section>
-    {{ if not site.Data.site.dikey_reklam }}
-    <section>
-      <h2 class="kenar-bas">Son dakika</h2>
-      <ol class="sd-liste">
-        {{ range first 6 $hepsi }}<li><time datetime="{{ .iso }}" data-saat></time><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}
-      </ol>
-    </section>
-    {{ end }}
+  <aside class="kenar kenar-yapiskan">
+    {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ end }}
   </aside>
 </div>
 
-{{/* ===== 3) KÖŞE YAZARLARI ===== */}}
+{{/* İlçelerden */}}
+{{ with $ilceden }}
+<section class="bolum" aria-labelledby="b-ilce">
+  <header class="bolum-bas"><h2 id="b-ilce">İlçelerden</h2></header>
+  <nav class="ilce-cipler" aria-label="İlçe haberleri">{{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</nav>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+</section>
+{{ end }}
+
+{{/* Spor */}}
+{{ with $spor }}
+<section class="bolum" aria-labelledby="b-spor">
+  <header class="bolum-bas"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tümü</a></header>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+</section>
+{{ end }}
+
+{{/* Turizm */}}
+{{ with $turizm }}
+<section class="bolum" aria-labelledby="b-turizm">
+  <header class="bolum-bas"><h2 id="b-turizm">Turizm</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Turizm") }}">Tümü</a></header>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
+</section>
+{{ end }}
+
+{{/* Kategoriler: sekmeli kutu (her sekmede 4 haber) */}}
+{{ with $sekmeler }}
+<section class="bolum sekmeli" aria-labelledby="b-sekme" data-sekme>
+  <header class="bolum-bas"><h2 id="b-sekme">Kategoriler</h2></header>
+  <div class="sekme-dugmeler" role="tablist">{{ range $i, $s := . }}<button type="button" role="tab" aria-selected="{{ if eq $i 0 }}true{{ else }}false{{ end }}" aria-controls="sk-{{ $i }}" id="skd-{{ $i }}">{{ $s.ad }}</button>{{ end }}</div>
+  {{ range $i, $s := . }}<div class="izgara-4 sekme-panel" role="tabpanel" id="sk-{{ $i }}" aria-labelledby="skd-{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>{{ range $s.h }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>{{ end }}
+  <p class="sekme-tumu">{{ range $i, $s := . }}<a href="{{ partial "terim-url.html" (slice "kategoriler" $s.ad) }}" data-sekme-link="{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>Tüm {{ lower $s.ad }} haberleri ›</a>{{ end }}</p>
+</section>
+{{ end }}
+
 {{ partial "yazarlar-serit.html" . }}
-
-{{/* ===== 4) KATEGORİ BLOKLARI (farklı düzenler) ===== */}}
-{{/* Gündem: 3 sütun fotoğraflı ızgara */}}
-{{ $g := slice }}{{ range where $hepsi "kategori" "Gündem" }}{{ if and (lt (len $g) 6) (not (in $kullanilan .link)) }}{{ $g = $g | append . }}{{ end }}{{ end }}
-{{ if ge (len $g) 3 }}
-<section class="bolum" aria-labelledby="b-k-gundem">
-  <header class="bolum-bas"><h2 id="b-k-gundem">Gündem</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
-  <div class="izgara-3">
-    {{ range first 6 $g }}
-    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
-      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-      <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-      {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
-      <div class="bilgi">{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></div>
-    </article>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
-
-{{/* Ekonomi + Turizm yan yana: büyük haber + başlık listesi */}}
-{{ $ikili := slice }}{{ range slice "Ekonomi" "Turizm" }}{{ if ge (len (where $hepsi "kategori" .)) 2 }}{{ $ikili = $ikili | append . }}{{ end }}{{ end }}
-{{ with $ikili }}
-<div class="ikili{{ if site.Data.site.dikey_reklam }} ikili-vitrinli{{ end }}">
-  {{ range . }}
-  {{ $k := . }}{{ $kh := where $hepsi "kategori" $k }}
-  <section class="bolum" aria-label="{{ $k }}">
-    <header class="bolum-bas"><h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">{{ $k }}</a></h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">Tümü</a></header>
-    {{ with index $kh 0 }}
-    <article class="h-bindirme{{ if not .foto }} metin-kart{{ end }}">
-      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}">{{ partial "gorsel.html" . }}
-        <span class="bindirme-m"><span class="ust-etiket">{{ with .ilce }}{{ . }} · {{ end }}<time datetime="{{ .iso }}" data-zaman></time></span><span class="b-l">{{ .baslik }}</span></span>
-      </a>{{ else }}{{ partial "metin-ust.html" . }}<h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}{{ end }}
-    </article>
-    {{ end }}
-    <ul class="baslik-liste">{{ range first 4 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
-  </section>
-  {{ end }}
-  {{ if site.Data.site.dikey_reklam }}<div class="ek-vitrin">{{ partial "vitrin-dikey.html" . }}</div>{{ end }}
-</div>
-{{ end }}
-
-{{/* Spor: koyu bant */}}
-{{ $spor := first 5 (where $hepsi "kategori" "Spor") }}
-{{ if ge (len $spor) 3 }}
-<section class="bant" aria-labelledby="b-spor"><div class="bant-ic">
-  <header class="bolum-bas bolum-bas-koyu"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tüm spor haberleri</a></header>
-  <div class="bant-izgara">
-    {{ with index $spor 0 }}
-    <article class="bant-ana{{ if not .foto }} metin-kart{{ end }}">
-      {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-      <h3 class="b-l"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-      {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 140 }}</p>{{ end }}
-    </article>
-    {{ end }}
-    <div class="bant-yan">
-      {{ range after 1 $spor }}
-      <article class="h-kucuk{{ if not .foto }} metin-kart{{ end }}">
-        {{ if .foto }}<a class="g g-4x3" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ end }}
-        <div><span class="ust-etiket"><time datetime="{{ .iso }}" data-zaman></time></span><h3 class="b-xs"><a href="{{ .link }}">{{ .baslik }}</a></h3>{{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 110 }}</p>{{ end }}{{ end }}</div>
-      </article>
-      {{ end }}
-    </div>
-  </div>
-</div></section>
-{{ end }}
-
-{{/* Kültür-Sanat: iki büyük + metin listesi */}}
-{{ $ks := where $hepsi "kategori" "Kültür-Sanat" }}
-{{ if ge (len $ks) 3 }}
-<section class="bolum" aria-labelledby="b-ks">
-  <header class="bolum-bas"><h2 id="b-ks">Kültür-Sanat</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Kültür-Sanat") }}">Tümü</a></header>
-  <div class="ks-blok">
-    {{ range first 2 $ks }}
-    <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
-      {{ if .foto }}<a class="g g-3x2" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-      <h3 class="b-m"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-      {{ with .ozet }}<p class="spot spot-k">{{ . | plainify | truncate 130 }}</p>{{ end }}
-    </article>
-    {{ end }}
-    <ol class="numarali">{{ range first 5 (after 2 $ks) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ol>
-  </div>
-</section>
-{{ end }}
-
-{{/* Video (içerikte "video" alanı olan haberler varsa) */}}
-{{ $video := where site.RegularPages "Params.video" "!=" nil }}
-{{ with first 4 $video }}
-<section class="bant bant-video" aria-labelledby="b-video"><div class="bant-ic">
-  <header class="bolum-bas bolum-bas-koyu"><h2 id="b-video">Video</h2></header>
-  <div class="izgara-4">
-    {{ range . }}
-    <article class="h-sira h-video">
-      <a class="g g-16x9" href="{{ .RelPermalink }}">{{ with .Params.gorsel }}<img src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}<span class="oynat" aria-hidden="true"></span></a>
-      <h3 class="b-s"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-    </article>
-    {{ end }}
-  </div>
-</div></section>
-{{ end }}
 
 {{ partial "vitrin.html" "vitrin-genis" }}
 
-{{/* Diğer kategoriler: 4 sütun, ilk haber fotoğraflı */}}
-{{ $kalan := slice }}{{ range slice "Asayiş" "Sağlık" "Eğitim" "Yaşam" }}{{ if ge (len (where $hepsi "kategori" .)) 2 }}{{ $kalan = $kalan | append . }}{{ end }}{{ end }}
-{{ with $kalan }}
-<section class="sutunlar" aria-label="Diğer kategoriler">
-  {{ range . }}
-    {{ $k := . }}{{ $kh := where $hepsi "kategori" $k }}
-    <div class="sutun">
-      <header class="bolum-bas"><h2><a href="{{ partial "terim-url.html" (slice "kategoriler" $k) }}">{{ $k }}</a></h2></header>
-      {{ with index $kh 0 }}
-      <article class="h-orta{{ if not .foto }} metin-kart{{ end }}">
-        {{ if .foto }}<a class="g g-16x9" href="{{ .link }}" tabindex="-1" aria-hidden="true">{{ partial "gorsel.html" . }}</a>{{ else }}{{ partial "metin-ust.html" . }}{{ end }}
-        <h3 class="b-s"><a href="{{ .link }}">{{ .baslik }}</a></h3>
-        {{ if not .foto }}{{ with .ozet }}<p class="metin-ozet">{{ . | plainify | truncate 150 }}</p>{{ end }}{{ end }}
-      </article>
-      {{ end }}
-      <ul class="baslik-liste">{{ range first 3 (after 1 $kh) }}<li><a href="{{ .link }}">{{ .baslik }}</a></li>{{ end }}</ul>
-    </div>
-  {{ end }}
-</section>
-{{ end }}
-
-{{/* Tüm haberler */}}
+{{/* Son haberler: ana sayfada gösterilmemiş tüm haberler (hiçbir haber gizlenmez) */}}
 {{ $diger := slice }}{{ range $hepsi }}{{ if not (in $kullanilan .link) }}{{ $diger = $diger | append . }}{{ end }}{{ end }}
 {{ with $diger }}
 <section class="bolum" aria-labelledby="b-diger">
   <header class="bolum-bas"><h2 id="b-diger">Son Haberler</h2></header>
-  <div class="son-duzen">
-    <div>
-      <div class="liste liste-2" data-sayfala="12">{{ range first 60 . }}{{ partial "liste-oge.html" . }}{{ end }}</div>
-      <button class="daha" type="button" data-daha hidden>Daha fazla haber</button>
-    </div>
-    {{ if site.Data.site.dikey_reklam }}<aside class="ek-vitrin son-vitrin">{{ partial "vitrin-dikey.html" . }}</aside>{{ end }}
-  </div>
+  <div class="saatli" data-sayfala="20">{{ range first 80 . }}<a class="liste-oge saatli-oge" href="{{ .link }}"><time datetime="{{ .iso }}" data-saat></time><span>{{ .baslik }}</span></a>{{ end }}</div>
+  <button class="daha" type="button" data-daha hidden>Daha fazla haber</button>
 </section>
 {{ end }}
 {{ end }}
