@@ -27,7 +27,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T12:49:47+03:00'
+    tarih: '2026-11-06T13:07:13+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   kurum: k5
@@ -43,8 +43,8 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Boans_Furniture_Factory,_Perth,_January_2021_01.jpg
       katman: yer_konu
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Yaba
-  kapak_surum: c7
-  zorla: g9.4-2026-11-05:8
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

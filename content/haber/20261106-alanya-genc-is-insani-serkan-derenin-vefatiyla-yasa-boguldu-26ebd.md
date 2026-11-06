@@ -28,15 +28,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T12:50:05+03:00'
+    tarih: '2026-11-06T13:07:31+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-  kapak_surum: c7
-  zorla: g9.4-2026-11-05:8
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

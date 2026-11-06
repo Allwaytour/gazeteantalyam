@@ -28,15 +28,15 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T12:50:05+03:00'
+    tarih: '2026-11-06T13:07:31+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42)
+  kurum_notu: kurum fotoğrafı önbellekten
   kapak_nedeni:
     kod: gorsel_reddedildi
     aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur v; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-    notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %26); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42); kaynak görseli kullanılmadı: TRT Haber için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: TRT Haber için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     elenenler:
     - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
       katman: kurum
@@ -47,8 +47,8 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg
       katman: yer_konu
       neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-  kapak_surum: c7
-  zorla: g9.4-2026-11-05:8
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

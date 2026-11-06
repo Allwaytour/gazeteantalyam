@@ -31,7 +31,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T12:49:24+03:00'
+    tarih: '2026-11-06T13:06:50+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)
@@ -39,8 +39,8 @@ gorsel_secim:
     kod: aday_bulunamadi
     aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bi'
     notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (infirmary, ambulance) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c7
-  zorla: g9.4-2026-11-05:8
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
