@@ -124,6 +124,18 @@
     git(0); baslat();
   });
 
+  // Sekmeli kategori kutusu
+  $$("[data-sekme]").forEach(function (k) {
+    var d = $$("[role=tab]", k), p = $$("[role=tabpanel]", k), l = $$("[data-sekme-link]", k);
+    d.forEach(function (b, x) {
+      b.addEventListener("click", function () {
+        d.forEach(function (o, y) { o.setAttribute("aria-selected", y === x ? "true" : "false"); });
+        p.forEach(function (o, y) { o.hidden = y !== x; });
+        l.forEach(function (o, y) { o.hidden = y !== x; });
+      });
+    });
+  });
+
   // "Daha fazla haber yükle"
   $$("[data-sayfala]").forEach(function (l) {
     var adim = +l.dataset.sayfala, ogeler = $$(".liste-oge", l), btn = l.nextElementSibling, goster = adim;
@@ -158,10 +170,11 @@
         durum.textContent = "“" + q + "” için " + bul.length + " sonuç bulundu.";
         sonuc.innerHTML = bul.slice(0, 100).map(function (h) {
           var hedef = h.d ? ' target="_blank" rel="noopener nofollow"' : "";
-          var g = h.g ? '<img src="' + esc(h.g) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '<div class="yer"><span>' + esc(h.k) + "</span></div>";
-          return '<article class="liste-oge"><a class="g" href="' + esc(h.l) + '"' + hedef + ">" + g + '</a><div><span class="etiket">' + esc(h.k) +
-            '</span><h3><a href="' + esc(h.l) + '"' + hedef + ">" + esc(h.b) + "</a></h3><p>" + esc(h.o) + '</p><div class="meta"><time datetime="' + esc(h.t) +
-            '" data-zaman></time>' + (h.i ? "<span>· " + esc(h.i) + "</span>" : "") + (h.d ? '<span class="kaynak dis">' + esc(h.s) + "</span>" : "") + "</div></div></article>";
+          var foto = h.g && h.g.indexOf("/images/kategori/") < 0;
+          return '<article class="hk hk-ozetli liste-oge ' + (foto ? "hk-foto" : "hk-metin") + '"><a class="hk-a" href="' + esc(h.l) + '"' + hedef + ">" +
+            (foto ? '<span class="hk-g"><img src="' + esc(h.g) + '" alt="" loading="lazy" referrerpolicy="no-referrer"></span>' : "") +
+            '<span class="hk-m">' + (foto ? "" : '<span class="hk-ust"><b>' + esc(h.k) + "</b>" + (h.i ? "<span>" + esc(h.i) + "</span>" : "") + '<time datetime="' + esc(h.t) + '" data-zaman></time></span>') +
+            '<span class="hk-b">' + esc(h.b) + '</span><span class="hk-o">' + esc(h.o) + "</span></span></a></article>";
         }).join("");
         if (!bul.length) sonuc.innerHTML = '<div class="bos">Sonuç bulunamadı. Farklı bir kelime deneyin.</div>';
         zamanlariYaz(sonuc);
