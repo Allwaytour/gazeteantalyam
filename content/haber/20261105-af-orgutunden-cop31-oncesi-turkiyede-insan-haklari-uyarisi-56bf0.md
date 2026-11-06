@@ -2,38 +2,58 @@
 title: Af Örgütü'nden COP31 Öncesi Türkiye'de İnsan Hakları Uyarısı
 date: '2026-11-05T21:15:31+03:00'
 ozet: Uluslararası Af Örgütü, Türkiye'de düzenlenecek BM İklim Konferansı öncesinde insan hakları ihlallerine dikkat çekerek, ifade ve protesto özgürlüğünün korunması çağrısında bulundu.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg/1280px-%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Alisdare Hickson from Canterbury, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._(31854636454).jpg
-  fotografci: Alisdare Hickson from Canterbury, United Kingdom
-  kredi: Alisdare Hickson from Canterbury, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Uluslararası Af Örgütü
-  cekim_yili: '2017'
-  gerekce: '''Uluslararası Af Örgütü'' Wikidata Q42970 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Uluslararası Af Örgütü temalı bir eylem/basın açıklaması karesi.'
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 6 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
   surum: g9.4-2026-11-05
   konu_imza: cd94faa29851
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg/1280px-%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T12:31:28+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-06T13:15:35+03:00'
+    yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
-  aciklama: Uluslararası Af Örgütü — Arşiv fotoğrafı (2017)
-  alt_tur: kurum
-  qid: Q42970
-  kaynak_aciklama: About one hundred people gathered in the English city of Cambridge for a vigil to mark the first anniversary of the discovery of the horrificly mutilated corpse
   kurum: k5
-  zorla: g9.4-2026-11-05:8
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: '6 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Af Örgütü''nün insan hakları odaklı bir eylemini gösteren uy; Türkiye dışına ait unsur var — Uluslararası Af Örgütü logosunu taşıyan protesto pankartı, ; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir); görüntü, kaydın iddia et'
+    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Julia Duchrow'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Osman Kavala'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Türkiye'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil); mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı'
+    elenenler:
+    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
+      katman: kurum
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_International_in_Brighton_Pride_2023_parade.jpg
+      katman: kurum
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_International_at_London_Pride_2015_-_29445624290.jpg
+      katman: kurum
+      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    - sayfa: https://commons.wikimedia.org/wiki/File:2024_ColognePride,_Parade-10283.jpg
+      katman: kurum
+      neden: Türkiye dışına ait unsur var — Uluslararası Af Örgütü logosunu taşıyan protesto pankartı, insan hakları konusuna uygun ve arşiv kaydıyla uyumlu.
+    - sayfa: https://commons.wikimedia.org/wiki/File:Alison_Stop_Torture_Broughton_High_(14333602328).jpg
+      katman: kurum
+      neden: Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Uluslararası Af Örgütü'nün hak savunuculuğu faaliyetini gösteren ar
+    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_2013_Gautanamo_demo.jpg
+      katman: kurum
+      neden: Türkiye dışına ait unsur var — Af Örgütü'nün insan hakları odaklı bir eylemini gösteren uygun bir arşiv fotoğrafıdır.
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -88,6 +108,37 @@ gorsel_gecmis:
         neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
     kapak_surum: c4
   degisim: '2026-11-06T12:54:06+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg/1280px-%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Alisdare Hickson from Canterbury, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._(31854636454).jpg
+    fotografci: Alisdare Hickson from Canterbury, United Kingdom
+    kredi: Alisdare Hickson from Canterbury, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)
+    lisans: CC BY-SA 2.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Uluslararası Af Örgütü
+    cekim_yili: '2017'
+    gerekce: '''Uluslararası Af Örgütü'' Wikidata Q42970 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Uluslararası Af Örgütü temalı bir eylem/basın açıklaması karesi.'
+    surum: g9.4-2026-11-05
+    konu_imza: cd94faa29851
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg/1280px-%22Truth_for_Giulio%22_-_A_silent_vigil_in_Cambridge_for_Giulio_Regeni_and_the_hundreds_of_Egyptians_forcibly_disappeared_and_tortured_every_year._%2831854636454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T12:31:28+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.5-flash-lite
+    aciklama: Uluslararası Af Örgütü — Arşiv fotoğrafı (2017)
+    alt_tur: kurum
+    qid: Q42970
+    kaynak_aciklama: About one hundred people gathered in the English city of Cambridge for a vigil to mark the first anniversary of the discovery of the horrificly mutilated corpse
+    kurum: k5
+    zorla: g9.4-2026-11-05:8
+  degisim: '2026-11-06T13:15:40+03:00'
 ---
 Uluslararası Af Örgütü, 9-20 Kasım tarihleri arasında Türkiye'nin ev sahipliğinde gerçekleştirilecek 31. Birleşmiş Milletler İklim Konferansı (COP31) öncesinde bir açıklama yayımladı. Örgüt, Türkiye'de gazeteciler, çevre aktivistleri ve LGBTI topluluğu üyelerine yönelik baskıların derinleştiğini belirterek, bu durumun göz ardı edilmemesi gerektiğini vurguladı.
 

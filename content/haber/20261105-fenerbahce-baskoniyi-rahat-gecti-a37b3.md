@@ -34,7 +34,7 @@ gorsel_secim:
   kaynak_aciklama: 'Ülker Sports Arena: Fenerbahçe vs. Armani Milano'
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

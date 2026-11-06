@@ -2,39 +2,40 @@
 title: Kızılkule'de Cumhuriyet ve Atatürk Sergisi
 date: '2026-11-05T23:20:00+03:00'
 ozet: Alanya'nın tarihi simgesi Kızılkule, 800. yıl kutlamaları kapsamında genç sanatçıların Cumhuriyet temalı eserlerine ev sahipliği yaptı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: © CANONIER / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Alanya
-gorsel_tur: stok
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_(upper_floor),_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_(September_2026)_06.jpg
-  fotografci: ZemplinTemplar
-  kredi: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Hafen_-_panoramio.jpg
+  fotografci: © CANONIER
+  kredi: © CANONIER / Wikimedia Commons (CC BY-SA 3.0)
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: resim sergisi
+  gosterilen: Kızılkule
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''historical art exhibition'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Temsili resim sergisi görseli; tablo ve sergi ortamını yansıtıyor.'
+  gerekce: '''Kızılkule'' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — Kızılkule ve limanın genel hava açıdan arşiv fotoğrafı, mekânı doğru gösteriyor.'
   surum: g9.4-2026-11-05
   konu_imza: 8b466a3d3d05
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
     tarih: '2026-11-06T12:30:50+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
     model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Vihorlat Museum in Humenné - History and art history permanent exhibition - Entry hall (upper floor), framed pictures with historical images of the Humenné mano
+  aciklama: Kızılkule — Arşiv fotoğrafı
+  alt_tur: kurum
+  qid: Q2470666
+  kaynak_aciklama: Alanya_Hafen
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -99,6 +100,37 @@ gorsel_gecmis:
         neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (sergilenen tablolar, Kızılkule iç mekanı) — Kızılkule'nin
     kapak_surum: c5
   degisim: '2026-11-06T12:54:04+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_(upper_floor),_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_(September_2026)_06.jpg
+    fotografci: ZemplinTemplar
+    kredi: ZemplinTemplar / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: resim sergisi
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''historical art exhibition'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Temsili resim sergisi görseli; tablo ve sergi ortamını yansıtıyor.'
+    surum: g9.4-2026-11-05
+    konu_imza: 8b466a3d3d05
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vihorlat_Museum_in_Humenn%C3%A9_-_History_and_art_history_permanent_exhibition_-_Entry_hall_%28upper_floor%29%2C_framed_pictures_with_historical_images_of_the_Humenn%C3%A9_manor_house_%28September_2026%29_06.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T12:30:50+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Vihorlat Museum in Humenné - History and art history permanent exhibition - Entry hall (upper floor), framed pictures with historical images of the Humenné mano
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:8
+  degisim: '2026-11-06T13:15:32+03:00'
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 

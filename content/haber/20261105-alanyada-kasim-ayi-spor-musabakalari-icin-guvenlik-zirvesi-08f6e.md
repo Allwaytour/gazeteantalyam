@@ -26,7 +26,7 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T12:54:02+03:00'
+    tarih: '2026-11-06T13:15:30+03:00'
     yontem: Gemini görsel kontrol
     model: gemini-3.5-flash-lite
   kurum: k5
@@ -48,8 +48,8 @@ gorsel_secim:
     - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
       katman: kurum
       neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Alanya genel görünümünü gösteren arşiv karesi, spor güvenlik zirvesi konusuyla doğrudan ilgili '
-  kapak_surum: c7
-  zorla: g9.4-2026-11-05:8
+  kapak_surum: c8
+  zorla: g9.4-2026-11-05:9
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
