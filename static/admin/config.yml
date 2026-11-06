@@ -111,6 +111,7 @@ collections:
         fields:
           - { label: WhatsApp ihbar hattı, name: whatsapp, widget: string, required: false, hint: "Ülke koduyla, boşluksuz: 905551112233. Boş bırakılırsa buton gizlenir." }
           - { label: E-posta, name: eposta, widget: string }
+          - { label: Telefon, name: telefon, widget: string, required: false, hint: "Künye, iletişim sayfası ve alt bölümde görünür. Örn: 0551 340 13 61" }
           - { label: Instagram adresi, name: instagram, widget: string, required: false }
           - { label: X (Twitter) adresi, name: x, widget: string, required: false }
           - { label: Facebook adresi, name: facebook, widget: string, required: false }
