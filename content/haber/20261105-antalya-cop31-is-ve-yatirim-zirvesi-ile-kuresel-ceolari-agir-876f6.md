@@ -26,15 +26,16 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T08:47:20+03:00'
+    tarih: '2026-11-06T08:52:08+03:00'
     yontem: kaynak/arşiv taraması
   kurum: k5
-  kurum_notu: 'kurum sayfası okunamadı (Antalya Valiliği): Page.goto: net::ERR_EMPTY_RESPONSE at https://www.antalya.gov.tr/cop31-iklim-zir; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43'
+  kurum_notu: "Antalya Valiliği sayfası aynı haber değil (benzerlik %50); Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.a"
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sayfası okunamadı (Antalya Valiliği): Page.goto: net::ERR_EMPTY_RESPONSE at https://www.antalya.gov.tr/cop31-iklim-zir; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43'
-    notlar: 'kurum sayfası okunamadı (Antalya Valiliği): Page.goto: net::ERR_EMPTY_RESPONSE at https://www.antalya.gov.tr/cop31-iklim-zir; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); Antalya Valiliği sayfası aynı haber değil (benzerlik %43); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Rifat Hisarcıklıoğlu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31 İş ve Yatırım Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    aciklama: "Antalya Valiliği sayfası aynı haber değil (benzerlik %50); Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.a"
+    notlar: "Antalya Valiliği sayfası aynı haber değil (benzerlik %50); Antalya Valiliği sayfası aynı haber değil (benzerlik %25); Antalya Valiliği sayfası aynı haber değil (benzerlik %18); kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Rifat Hisarcıklıoğlu' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31 İş ve Yatırım Zirvesi' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)"
   kapak_surum: c6
+  zorla: g9.4-2026-11-05:7
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
