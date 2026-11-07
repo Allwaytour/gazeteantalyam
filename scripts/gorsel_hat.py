@@ -34,7 +34,7 @@ import requests
 
 import gorsel_sec as gs
 
-HAT_SURUM = "h1b"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
+HAT_SURUM = "h1c"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
 ICERIK_SURUM = "i2"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y2"
@@ -355,7 +355,10 @@ Her fotoğraf için iki bölüm doldur:
 - notr_portre: tek bir kişinin olaysız, nötr portresi mi
 - uygun_baglamlar / uygunsuz_baglamlar: bu fotoğrafın kullanılabileceği ve kullanılamayacağı haber türleri (en fazla 3'er, kısa)
 
-"iliski" — bu fotoğraf BU haber için:
+"iliski" — bu fotoğraf BU haber için. İddiası "haberin ana kişisinin arşiv fotoğrafı" olan karelerde haberdeki olayın (toplantı,
+ziyaret, buluşma) görülmesi BEKLENMEZ: kişinin nötr portresi uygundur; bu karelerde olay_gorunuyor false olabilir ve ilgisiz_yer_nesne
+yalnızca karede kişiden başka, haberle çelişen bir yer/nesne öne çıkıyorsa true olur. Aynı şekilde "kurumun/takımın/tesisin fotoğrafı"
+iddiasında binanın ya da tesisin kendisi yeterlidir.
 - ana_ozne_gorunuyor: haberin ana öznesi fotoğrafta görülüyor mu? (kişi fotoğrafında: kaynak kaydındaki kişi tek başına ya da açıkça öne çıkıyorsa true)
 - olay_gorunuyor: haberdeki olay/eylem fotoğrafta görülüyor mu?
 - gerekli: her "GÖRSELDE OLMALI" unsuru için {{"unsur": "...", "var": true/false}} (liste boşsa [])
@@ -554,7 +557,10 @@ def karar(a, konu):
         if not gs.gerekli_unsurlar(konu) and not (il.get("olay_gorunuyor") or il.get("ana_ozne_gorunuyor")):
             ned.append(("konu", "ne haberin öznesi ne de olayı görünüyor"))
         kk = il.get("konu_kutusu")
-        if il and (il.get("konu_ana_unsur") is False or (kk and (kk[2] - kk[0]) * (kk[3] - kk[1]) < 0.06 * 1000 * 1000)):
+        alan_payi = ((kk[2] - kk[0]) * (kk[3] - kk[1]) / 1e6) if kk else None
+        # aerial manzarada uzaktan görülen saha (%1-2) elenir; caddede sıralanmış taksiler gibi belirgin unsur kalır
+        if il and ((alan_payi is not None and alan_payi < 0.03)
+                   or (il.get("konu_ana_unsur") is False and (alan_payi is None or alan_payi < 0.10))):
             ned.append(("konu", "haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha)"))
         if sinif != "ayni_olay":
             if il.get("baska_olay_sanilir"):

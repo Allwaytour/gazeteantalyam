@@ -2579,7 +2579,7 @@ def _ince(a):
                 icerik={k: ic.get(k) for k in ("tur", "donem", "sahne", "nesneler", "ana_kutu", "yuzler", "ulke", "notr_portre", "kisi_sayisi")} if ic else None,
                 iliski={k: (a.get("iliski") or {}).get(k) for k in ("ana_ozne_gorunuyor", "olay_gorunuyor", "gerekli", "yasak", "uygunluk", "gerekce",
                                                                      "yanlis_kisi", "yanlis_takim", "yanlis_spor", "yaniltici_donem",
-                                                                     "ilgisiz_yer_nesne", "baska_olay_sanilir")} if a.get("iliski") else None)
+                                                                     "ilgisiz_yer_nesne", "baska_olay_sanilir", "konu_ana_unsur", "konu_kutusu")} if a.get("iliski") else None)
 
 
 def deneme_calistir(bag, dosyalar, onceki=None, sure=600):
