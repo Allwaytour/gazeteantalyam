@@ -158,7 +158,8 @@ def kutuphane_adaylari(konu):
     for kid, r in kut.items():
         if r.get("dogrulama_surumu", "").split("-")[0] != HAT_SURUM:
             continue
-        if r.get("sinif") == "ayni_olay" or r.get("yalniz_ayni_olay"):
+        if r.get("sinif") == "ayni_olay" or r.get("yalniz_ayni_olay") or r.get("alt_tur") == "kurum_haber" \
+                or (r.get("kaynak") or {}).get("lisans") == "Kurum izniyle":
             # bir haberin kendi olay fotoğrafı (kurum izniyle o haber için) başka bir haberin temsilî görseli olamaz:
             # başka bir yerin/olayın gerçek karesi bu haberin görüntüsü sanılır (ör. bir bulvarın çalışma karesi başka bulvara)
             continue
@@ -241,6 +242,10 @@ def aday_bul(bag, haber, konu):
 def lisans_kontrol(bag, a):
     """Kullanım dayanağı yoksa aday elenir. İnternette ya da resmî sitede bulunmak izin sayılmaz."""
     lis = (a.get("lisans") or "").strip()
+    if (a.get("alt_tur") == "kurum_haber" or lis == "Kurum izniyle") and a.get("sinif") != "ayni_olay":
+        # kurum izni, kurumun kendi haberindeki fotoğrafı AYNI haberde kullanmak içindir; başka bir habere temsilî
+        # (kütüphaneden ya da eski seçimden) taşınamaz — ayrıca başka bir yerin/olayın gerçek karesi bu haberin sanılır
+        return False, "kurum izniyle alınan olay fotoğrafı yalnızca kendi haberinde kullanılabilir"
     if a.get("sinif") == "ayni_olay" and a.get("alt_tur") == "kurum_haber":
         ik = a.get("izin_kontrolu") or {}
         return (True, "") if (a.get("lisans_dayanagi") or ik.get("yeniden_kullanim")) else (False, "kurum fotoğrafı için izin dayanağı yok")
