@@ -34,7 +34,7 @@ import requests
 
 import gorsel_sec as gs
 
-HAT_SURUM = "h1d"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
+HAT_SURUM = "h1e"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
 ICERIK_SURUM = "i2"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y2"
@@ -541,6 +541,10 @@ def karar(a, konu):
             ned.append(("konu", "haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor"))
         if ic.get("kisi_sayisi", 0) > 3 and not ic.get("notr_portre"):
             ned.append(("konu", "kalabalık kare: başka kişiler haberin kişisi sanılabilir"))
+        elif not ic.get("notr_portre"):
+            # kişi fotoğrafı ile olay fotoğrafı ayrıdır: arşivden yalnızca kişinin nötr portresi kullanılır; başka bir
+            # olaydaki karesi (gol sevinci, tören, ziyaret) bu haberin olayı sanılabilir
+            ned.append(("konu", "kişinin nötr portresi değil (başka bir olaydaki karesi)"))
         if il.get("baska_olay_sanilir"):
             ned.append(("konu", "başka bir etkinliğin karesi güncel olayın görüntüsü sanılır"))
         if konu.get("hassas", "yok") != "yok" and not ic.get("notr_portre"):
