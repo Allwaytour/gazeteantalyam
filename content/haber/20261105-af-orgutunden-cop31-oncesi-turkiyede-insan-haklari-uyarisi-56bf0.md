@@ -18,42 +18,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 6 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: cd94faa29851
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:46:42+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-07T22:32:56+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '6 aday görüntü kontrolünde elendi: Türkiye dışına ait unsur var — Uluslararası Af Örgütü protestosunu gösteren uygun bir arşi; Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir); görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; yanıltıcı (başka olay/ki'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Julia Duchrow'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Osman Kavala'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Türkiye'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alison_Stop_Torture_Broughton_High_(14333602328).jpg
-      katman: kurum
-      neden: Türkiye dışına ait unsur var; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — Uluslararası Af Örgütü'nün hak savunuculuğu faaliyetini gösteren ar
-    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_International_in_Brighton_Pride_2023_parade.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_International_at_London_Pride_2015_-_29445624290.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:2024_ColognePride,_Parade-10283.jpg
-      katman: kurum
-      neden: yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Af Örgütü pankartı var ancak ColognePride yürüyüşü olduğu için haberin bağlamı ve yer
-    - sayfa: https://commons.wikimedia.org/wiki/File:Amnesty_2013_Gautanamo_demo.jpg
-      katman: kurum
-      neden: Türkiye dışına ait unsur var — Uluslararası Af Örgütü protestosunu gösteren uygun bir arşiv görselidir.
+    aciklama: başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

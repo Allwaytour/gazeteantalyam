@@ -19,31 +19,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 6750f69bf497
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
     yapildi: false
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:46:44+03:00'
-    yontem: Gemini görsel kontrol
+    sonuc: aday yok
+    tarih: '2026-11-07T22:33:09+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %15)
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Alanya Kalesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Pasha Et & Balık Restaurant'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Pasha Et & Balık Restaurant'' için konuyla (singer, microphone, restaurant stage) ilişkili lisanslı fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Live_music_performance_during_the_exhibition_opening_01.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Live_music_performance_during_the_exhibition_opening_02.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    kod: aday_bulunamadi
+    aciklama: '''Alanya Kalesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; Alanya Belediyesi sayfası aynı haber değil (benzerlik %15); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (singer, co'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

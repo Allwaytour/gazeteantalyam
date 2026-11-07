@@ -2,8 +2,8 @@
 title: Antalya'daki Saç Kesim Yarışmasında Sakaryalı Öğrenciler Zirveye Yerleşti
 date: '2026-11-06T04:12:00+03:00'
 ozet: Antalya'da düzenlenen ulusal saç kesim yarışmasına katılan Sakaryalı üç öğrenci, sergiledikleri performansla ilk üç dereceyi elde etti.
-gorsel: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: John Karlo Mendoza / Unsplash'
+gorsel: /images/kategori/egitim.png
+gorsel_kredi: ''
 kategoriler:
 - Eğitim
 ilceler: []
@@ -11,33 +11,35 @@ etiketler:
 - Ayhan Ersoy
 - Sakarya Mesleki Eğitim Merkezi
 - My Akademi
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/barber-cutting-mans-hair-idzUojjazCg
-  fotografci: John Karlo Mendoza
-  kredi: John Karlo Mendoza / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: saç kesim yarışması
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''hair cutting competition''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: temsilî konu fotoğrafı (konu ilişkisi eşiği 6) — Saç kesimini gösteren genel temsilî bir fotoğraftır.'
-  surum: g9.4-2026-11-05
+  gerekce: 7 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 2f03c5acfe97
-  gorsel_url: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: /images/kategori/egitim.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T12:45:02+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-07T22:31:54+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Want to look good? Find a barber. But they don’t only make you look good, they make you feel more confident stepping out of that barbershop, making you feel lik
+  hat: h1e
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:10
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: Türkiye dışına ait unsurlar (yanıltıcı yer); aşırı karanlık (medyan parlaklık 27, karanlık pay %83); aşırı karanlık (medyan parlaklık 31, karanlık pay %62); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberdeki kişi sanıla
+  kapak_surum: c8
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -126,6 +128,37 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:9
   degisim: '2026-11-06T13:46:38+03:00'
+- gorsel: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: John Karlo Mendoza / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/barber-cutting-mans-hair-idzUojjazCg
+    fotografci: John Karlo Mendoza
+    kredi: John Karlo Mendoza / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: saç kesim yarışması
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''hair cutting competition''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: temsilî konu fotoğrafı (konu ilişkisi eşiği 6) — Saç kesimini gösteren genel temsilî bir fotoğraftır.'
+    surum: g9.4-2026-11-05
+    konu_imza: 2f03c5acfe97
+    gorsel_url: https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T12:45:02+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Want to look good? Find a barber. But they don’t only make you look good, they make you feel more confident stepping out of that barbershop, making you feel lik
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:10
+  degisim: '2026-11-07T22:32:03+03:00'
 ---
 Antalya'da My Akademi tarafından organize edilen ulusal saç kesim yarışması, Türkiye'nin dört bir yanından gelen yetenekli gençleri bir araya getirdi. Yaklaşık 100 öğrencinin hünerlerini sergilediği etkinlikte, Sakarya Mesleki Eğitim Merkezi (MESEM) Güzellik ve Saç Bakım Hizmetleri Bölümü öğrencileri büyük bir başarıya imza attı.
 

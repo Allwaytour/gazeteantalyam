@@ -19,37 +19,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 4 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 14aafbb3daa8
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: false
+    yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:46:39+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-07T22:32:09+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya limanını gösteren ; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya''da parasailing yap; haberin konusuyla doğrud'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Şakir Öner Öztürk'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İlçe Spor Güvenlik Kurulu Toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya limanını gösteren genel arşiv fotoğrafı, güvenlik zirvesi toplantısını temsil etmez.
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Volleyball.jpg
-      katman: kurum
-      neden: 'habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); görselde olmaması gereken unsur '
-    - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10) — Alanya'da parasailing yapan kişileri gösteren arşiv görseli, güvenlik kurulu toplantısıyla iliş
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-      katman: kurum
-      neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Alanya genel görünümünü gösteren arşiv karesi, spor güvenlik zirvesi konusuyla doğrudan ilgili '
+    aciklama: 'görselde olmaması gereken unsur: spor müsabakası; habere uygunluk düşük (1/10, en az 5); habere uygunluk düşük (2/10, en az 5); habere uygunluk düşük (3/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

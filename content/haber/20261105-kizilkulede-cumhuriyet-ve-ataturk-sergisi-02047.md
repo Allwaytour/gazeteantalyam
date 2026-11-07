@@ -19,23 +19,69 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Kızılkule
   cekim_yili: ''
-  gerekce: '''Kızılkule'' Wikidata Q2470666 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — Kızılkule ve limanın genel hava açıdan arşiv fotoğrafı, mekânı doğru gösteriyor.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Haberin geçtiği tarihî Kızılkule yapısı ve çevresi net olarak görülüyor.
+  surum: h1-2026-11-07
   konu_imza: 8b466a3d3d05
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-06T12:30:50+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    tarih: '2026-11-07T22:32:40+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Kızılkule — Arşiv fotoğrafı
   alt_tur: kurum
   qid: Q2470666
   kaynak_aciklama: Alanya_Hafen
+  sinif: yer
+  hat: h1e
+  inceleme:
+    teknik:
+      doygunluk: 30.0
+      inen:
+      - 500
+      - 333
+      karanlik_oran: 0.121
+      keskinlik: 3515
+      kontrast: 49
+      medyan: 77
+      parlaklik: 96
+      s: t1
+    icerik:
+      sahne: Kızılkule ve limanın kuşbakışı görünümü.
+      nesneler:
+      - Kızılkule
+      - tekneler
+      - liman
+      - binalar
+      - minare
+      - surlar
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: Kızılkule
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      konu_kutusu:
+      - 215
+      - 252
+      - 606
+      - 477
+      uygunluk: 10
+      gerekce: Haberin geçtiği tarihî Kızılkule yapısı ve çevresi net olarak görülüyor.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -131,6 +177,25 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:8
   degisim: '2026-11-06T13:15:32+03:00'
+gorsel_yerlesim:
+  boyut:
+  - 2576
+  - 1716
+  dikey: false
+  surum: y2
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  o_manset_d: 50% 100%
+  o_manset_m: 0% 50%
+  o_mansetyan_d: 26% 50%
+  o_mansetyan_m: 26% 50%
+  o_yan_d: 50% 79%
+  o_yan_t: 0% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 0%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 

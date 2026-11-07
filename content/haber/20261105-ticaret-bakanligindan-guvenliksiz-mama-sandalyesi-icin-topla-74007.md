@@ -18,22 +18,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 1324116a368b
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:46:42+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T22:32:51+03:00'
+    yontem: h1
+    model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: baby high chair, highchair)'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: baby high chair, highchair)'
+    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: high chair, baby high chair product safety)'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
