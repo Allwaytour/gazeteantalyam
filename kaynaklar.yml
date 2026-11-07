@@ -16,7 +16,7 @@ ayarlar:
   # Görsel hattı h1 (scripts/gorsel_hat.py): aday bulma → yayın uygunluğu (lisans, teknik kalite, içerik, haber ilişkisi) → yerleşim.
   # Eski açıklama: izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
-  gorsel_toplu_duzeltme: false  # h1 kabul testi tamamlanana kadar kapalı; açılınca önce ana sayfadaki haberler düzeltilir
+  gorsel_toplu_duzeltme: true   # h1 kabul testi (deneme 26) sonrası açıldı: önce zorunlu beş örnek ve ana sayfadaki haberler düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
   gorsel_duzeltme_tur: 10       # toplu düzeltmede bir turda en fazla kaç haber
