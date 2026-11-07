@@ -158,6 +158,10 @@ def kutuphane_adaylari(konu):
     for kid, r in kut.items():
         if r.get("dogrulama_surumu", "").split("-")[0] != HAT_SURUM:
             continue
+        if r.get("sinif") == "ayni_olay" or r.get("yalniz_ayni_olay"):
+            # bir haberin kendi olay fotoğrafı (kurum izniyle o haber için) başka bir haberin temsilî görseli olamaz:
+            # başka bir yerin/olayın gerçek karesi bu haberin görüntüsü sanılır (ör. bir bulvarın çalışma karesi başka bulvara)
+            continue
         kim = r.get("kimlikler") or {}
         neden, sinif = "", ""
         for ad in kisiler:
@@ -759,7 +763,9 @@ def kutuphaneye_ekle(a, konu, s):
         "kimlikler": kim, "qid": a.get("qid", ""), "gosterim_ad": a.get("gosterim_ad", ""),
         "cekim_tarihi": a.get("cekim", "") or eski.get("cekim_tarihi", ""),
         "gosterdigi": ic.get("sahne") or a.get("hedef", ""), "konular": sorted(set((eski.get("konular") or []) + gorulen + ic.get("nesneler", [])))[:16],
-        "kullanilabilir": ic.get("uygun_baglamlar") or [], "kullanilamaz": ic.get("uygunsuz_baglamlar") or [],
+        "kullanilabilir": ic.get("uygun_baglamlar") or [], "kullanilamaz": (ic.get("uygunsuz_baglamlar") or [])
+        + (["başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"] if a["sinif"] == "ayni_olay" else []),
+        "yalniz_ayni_olay": a["sinif"] == "ayni_olay",
         "boyut": a["yerlesim"]["boyut"],
         "uygun_yerlesimler": [k for k in ("manset", "yan", "kart", "detay") if a["yerlesim"].get(k)],
         "notr_portre": ic.get("notr_portre", False), "dogrulama_surumu": f"{HAT_SURUM}-{ICERIK_SURUM}-{YERLESIM_SURUM}",
