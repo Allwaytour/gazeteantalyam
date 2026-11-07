@@ -1,6 +1,7 @@
 {{/* Elle girilen ve otomatik çekilen tüm haberleri tek listede birleştirir (yeniden eskiye).
      Görsel hattı h1'in yerleşim kararı (gorsel_yerlesim) her alan için ayrıdır: "foto" = haber kartında fotoğraf,
      "manset_duzen" = manşette kaplama/yan düzen, "yan_foto" = manşet yanı kartında fotoğraf; "o_*" = o alanın odak noktası.
+     "foto_p"/"yan_p": geniş kart uymayan dikey portre için küçük fotoğraf solda, başlık sağda kart varyantı (yüz büyütülmez/kesilmez).
      Yerleşim kaydı yoksa (elle seçilmiş görsel ya da henüz yeniden değerlendirilmemiş eski kayıt) eski davranış sürer. */}}
 {{ $liste := slice }}
 {{ range where site.RegularPages "Section" "haber" }}{{ $p := . }}
@@ -10,14 +11,15 @@
   {{ $foto := and (ne $g "") (not (in $g "/images/kategori/")) }}
   {{ $sec := partial "gorsel-secim.html" . }}
   {{ $y := dict }}{{ with .Params.gorsel_yerlesim }}{{ if eq .url ($p.Params.gorsel | default "") }}{{ $y = . }}{{ end }}{{ end }}
-  {{ $kart := $foto }}{{ $md := cond $foto "kaplama" "" }}{{ $yan := $foto }}
-  {{ if $y }}{{ $kart = and $foto ($y.kart | default false) }}{{ $md = cond $foto ($y.manset | default "") "" }}{{ $yan = and $foto ($y.yan | default false) }}{{ end }}
+  {{ $kart := $foto }}{{ $md := cond $foto "kaplama" "" }}{{ $yan := $foto }}{{ $kartp := false }}{{ $yanp := false }}
+  {{ if $y }}{{ $kart = and $foto ($y.kart | default false) }}{{ $md = cond $foto ($y.manset | default "") "" }}{{ $yan = and $foto ($y.yan | default false) }}
+    {{ $kartp = and $foto (not $kart) ($y.kart_portre | default false) }}{{ $yanp = and $foto (not $yan) ($y.yan_portre | default false) }}{{ end }}
   {{ $onem := int (.Params.onem | default 3) }}{{ if .Params.manset }}{{ $onem = 5 }}{{ end }}
   {{ $liste = $liste | append (dict
     "baslik" .Title "ozet" (.Params.ozet | default (.Summary | plainify)) "link" .RelPermalink
     "gorsel" $g "gorsel_tur" (partial "gorsel-tur.html" .) "gorsel_yil" ($sec.cekim_yili | default "") "gorsel_konum" (cond (or $sec (not .Params.gorsel_secim)) (.Params.gorsel_konum | default "") "") "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
-    "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false "foto" $kart "foto_var" $foto "manset_duzen" $md "yan_foto" $yan
-    "o_kart" ($y.o_kart | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "")
+    "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false "foto" $kart "foto_p" $kartp "foto_var" $foto "manset_duzen" $md "yan_foto" $yan "yan_p" $yanp
+    "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "")
     "o_myd" ($y.o_mansetyan_d | default "") "o_mym" ($y.o_mansetyan_m | default "")
     "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")
     "onem" $onem "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}

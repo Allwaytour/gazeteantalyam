@@ -3,11 +3,11 @@
      Fotoğraf sonradan bulunursa kart kendiliğinden fotoğraflı düzene geçer. Görsel üzerinde rozet yoktur.
      Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once". */}}
 {{ $t := .tip | default "kart" }}
-{{ $foto := .foto }}
+{{ $foto := .foto }}{{ $portre := and (not .foto) (.foto_p | default false) (ne $t "liste") }}
 {{ $onemli := ge (int (.onem | default 3)) 4 }}
-<article class="hk hk-{{ $t }} {{ if $foto }}hk-foto{{ else }}hk-metin{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
+<article class="hk hk-{{ $t }} {{ if $foto }}hk-foto{{ else if $portre }}hk-portre{{ else }}hk-metin{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
   <a class="hk-a" href="{{ .link }}">
-    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "odak" .o_kart)) }}</span>{{ end }}
+    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "odak" .o_kart)) }}</span>{{ else if $portre }}<span class="hk-pg">{{ partial "gorsel.html" (merge . (dict "odak" .o_kp)) }}</span>{{ end }}
     <span class="hk-m">
       {{ if or (not $foto) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
       <span class="hk-b">{{ .baslik }}</span>
