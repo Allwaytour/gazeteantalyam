@@ -4,13 +4,22 @@
 {{ $kullanilan := slice }}
 
 {{/* ===== MANŞET =====
-     Haberin önemi esas alınır (onem 1-5; elle "manşet" işaretli = 5), son 6 saatteki haberler arasından. Aynı önemdeki haberlerden
-     fotoğraflı olan öne alınır; önemli bir haber fotoğrafı yok diye geri plana atılmaz (manşette güçlü tipografili metin slaytı olur). */}}
+     Haberin önemi esas alınır (onem 1-5; elle "manşet" işaretli = 5), son 6 saatteki haberler arasından. Slayta yalnızca manşet
+     için uygun bulunan fotoğrafı olan haberler girer: geniş fotoğraf "kaplama" (başlık fotoğrafın üzerinde), dikey/yakın portre
+     "yan" düzen (fotoğraf başlığın yanında, küçük). Fotoğrafı olmayan önemli haber geri plana atılmaz: slaytın altında başlık ve
+     spot boyutunda kompakt bir "öne çıkan" kutusunda yer alır (dev boş panel yok). */}}
 {{ $son := where $hepsi "ts" "ge" $sinir }}{{ if lt (len $son) 14 }}{{ $son = first 20 $hepsi }}{{ end }}
 {{ $sirali := slice }}
-{{ range $p := seq 51 -1 10 }}{{ range $son }}{{ if eq (add (mul .onem 10) (cond .foto 1 0)) $p }}{{ $sirali = $sirali | append . }}{{ end }}{{ end }}{{ end }}
-{{ $slayt := first 7 $sirali }}
-{{ range $slayt }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
+{{ range $p := seq 51 -1 10 }}{{ range $son }}{{ if eq (add (mul .onem 10) (cond (ne .manset_duzen "") 1 0)) $p }}{{ $sirali = $sirali | append . }}{{ end }}{{ end }}{{ end }}
+{{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haber metin kartıyla gösterilir. */}}
+{{ $gg := slice }}
+{{ $slayt := slice }}{{ $mmetin := slice }}
+{{ range $sirali }}{{ if lt (len $slayt) 7 }}
+  {{ if and .manset_duzen (not (in $gg .gorsel)) }}{{ $slayt = $slayt | append . }}{{ $gg = $gg | append .gorsel }}
+  {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not .manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
+{{ end }}{{ end }}
+{{ if not $slayt }}{{ $mmetin = slice }}{{ range first 3 $sirali }}{{ $mmetin = $mmetin | append . }}{{ end }}{{ end }}
+{{ range $slayt | append $mmetin }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
 {{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) (not (in $kullanilan .link)) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 {{ $one := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $one) 8) (not (in $kullanilan .link)) }}{{ $one = $one | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 
@@ -22,26 +31,34 @@
 {{ $sekmeler := slice }}
 {{ range $k := slice "Asayiş" "Ekonomi" "Eğitim" "Sağlık" "Kültür-Sanat" "Yaşam" }}{{ $kh := slice }}{{ range where $hepsi "kategori" $k }}{{ if and (lt (len $kh) 4) (not (in $kullanilan .link)) }}{{ $kh = $kh | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}{{ if ge (len $kh) 2 }}{{ $sekmeler = $sekmeler | append (dict "ad" $k "h" $kh) }}{{ end }}{{ end }}
 {{ $gundem := slice }}{{ range $hepsi }}{{ if and (lt (len $gundem) 9) (not (in $kullanilan .link)) }}{{ $gundem = $gundem | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
-{{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haber metin kartıyla gösterilir. */}}
-{{ $gg := slice }}
 
 <h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
 
-<section class="ust-blok" aria-label="Manşet">
+<section class="ust-blok{{ if not $slayt }} ust-blok-metin{{ end }}" aria-label="Manşet">
+  {{ if $slayt }}
   <div class="manset" data-slayt>
     <div class="slayt-pencere">
       <div class="slayt-ic">
-        {{ range $slayt }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}
-        <article class="slayt {{ if $h.foto }}slayt-foto{{ else }}slayt-metin{{ end }}">
+        {{ range $slayt }}{{ $h := . }}
+        {{ if eq $h.manset_duzen "kaplama" }}
+        <article class="slayt slayt-foto">
           <a href="{{ $h.link }}">
-            {{ if $h.foto }}{{ partial "gorsel.html" (merge $h (dict "buyuk" true)) }}{{ end }}
-            <span class="slayt-yazi">
-              {{ if not $h.foto }}<span class="hk-ust"><b>{{ $h.kategori }}</b>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ $h.iso }}" data-zaman></time></span>{{ end }}
-              <span class="slayt-b">{{ $h.baslik }}</span>
-              {{ if not $h.foto }}{{ with $h.ozet }}<span class="slayt-o">{{ . | plainify | truncate 230 }}</span>{{ end }}{{ end }}
-            </span>
+            {{ partial "gorsel.html" (merge $h (dict "buyuk" true "odak" $h.o_md "odak_m" $h.o_mm)) }}
+            <span class="slayt-yazi"><span class="slayt-b">{{ $h.baslik }}</span></span>
           </a>
         </article>
+        {{ else }}
+        <article class="slayt slayt-yan">
+          <a href="{{ $h.link }}">
+            <span class="slayt-yazi">
+              <span class="hk-ust"><b>{{ $h.kategori }}</b>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ $h.iso }}" data-zaman></time></span>
+              <span class="slayt-b">{{ $h.baslik }}</span>
+              {{ with $h.ozet }}<span class="slayt-o">{{ . | plainify | truncate 200 }}</span>{{ end }}
+            </span>
+            <span class="slayt-yan-g">{{ partial "gorsel.html" (merge $h (dict "buyuk" true "odak" $h.o_myd "odak_m" $h.o_mym)) }}</span>
+          </a>
+        </article>
+        {{ end }}
         {{ end }}
       </div>
       <button class="slayt-ok sol" type="button" aria-label="Önceki manşet"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.6"><path d="m15 5-7 7 7 7"/></svg></button>
@@ -49,8 +66,21 @@
     </div>
     <div class="slayt-nok">{{ range $i, $_ := $slayt }}<button type="button" aria-label="{{ add $i 1 }}. manşet">{{ add $i 1 }}</button>{{ end }}</div>
   </div>
-  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
+  {{ else }}
+  <div class="manset-yazi">{{ with index $mmetin 0 }}
+    <a href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>
+    <span class="manset-yazi-b">{{ .baslik }}</span>{{ with .ozet }}<span class="manset-yazi-o">{{ . | plainify | truncate 260 }}</span>{{ end }}</a>{{ end }}
+  </div>
+  {{ $mmetin = after 1 $mmetin }}
+  {{ end }}
+  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if .yan_foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "yan_foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
 </section>
+{{ with $mmetin }}
+<section class="one-metin" aria-label="Öne çıkan haberler">{{ range . }}
+  <a class="one-metin-k" href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>
+    <span class="one-metin-b">{{ .baslik }}</span>{{ with .ozet }}<span class="one-metin-o">{{ . | plainify | truncate 200 }}</span>{{ end }}</a>{{ end }}
+</section>
+{{ end }}
 
 {{/* Piyasalar + hava durumu */}}
 <section class="bilgi-sira" aria-label="Piyasalar ve hava durumu">
