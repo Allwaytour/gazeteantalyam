@@ -19,14 +19,17 @@ ayarlar:
   gorsel_toplu_duzeltme: true   # h1 kabul testi (deneme 26) sonrası açıldı: önce zorunlu beş örnek ve ana sayfadaki haberler düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
-  gorsel_duzeltme_tur: 10       # toplu düzeltmede bir turda en fazla kaç haber
+  gorsel_duzeltme_tur: 10       # 1. kuyruk: bir turda en fazla kaç otomatik fotoğraf değerlendirilsin (yanlışsa kaldırılır/düzeltilir)
+  gorsel_bulma_tur: 6           # 2. kuyruk: bir turda en fazla kaç fotoğrafsız habere doğrulanmış fotoğraf aransın
+  gorsel_alternatif_arama: true # adaylar elenirse ret nedenlerine göre ana özneyi koruyan yeni sorgularla bir tur daha aranır
+  gorsel_alternatif_sorgu: 6    # bu ek tur için haber başına ayrılan arama (Commons/Unsplash) payı
   gorsel_tur_limit: 6           # bir turda yeni haberlerden en fazla kaçının görseli kontrol edilsin
   gorsel_aday_butcesi: 5        # bir görüntü kontrolünde en fazla kaç aday (katmanlar arasında dengeli dağıtılır)
   gorsel_kontrol_turu: 2        # adaylar elenirse alternatif sorgularla en fazla kaç kontrol turu
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 26          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 27          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # h1 kabul testi: ilk beşi zorunlu hatalı örnekler (haber dosyalarını değiştirmez; sonuç: /gorsel-deneme/)
     - 20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md
     - 20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md
