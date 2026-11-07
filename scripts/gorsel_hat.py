@@ -35,9 +35,9 @@ import requests
 import gorsel_sec as gs
 
 HAT_SURUM = "h1"
-ICERIK_SURUM = "i1"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
+ICERIK_SURUM = "i2"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
-YERLESIM_SURUM = "y1"
+YERLESIM_SURUM = "y2"
 KUTUPHANE_DOSYA = os.path.join(gs.KOK, "data", "gorsel_kutuphanesi.json")
 
 SINIF_ACIKLAMA = {
@@ -339,13 +339,15 @@ Her fotoğraf için iki bölüm doldur:
 "icerik" — yalnızca "İÇERİK İNCELENECEK" yazan fotoğraflarda doldur, diğerlerinde null yaz. Haberden bağımsız, fotoğrafın kendisi:
 - tur: "fotograf" | "cizim" | "oyun_goruntusu" | "yapay_gorunumlu" | "harita_logo_belge" | "ekran_goruntusu" | "kolaj"
 - siyah_beyaz: true/false
-- donem: "guncel" (son ~20 yılın görünümü) | "eski" (eski araçlar, giysiler, film dokusu, tarihî kare)
+- donem: fotoğrafın ÇEKİLDİĞİ dönem (konusunun tarihî olması değil: antik kent, heykel ya da müze eserinin bugün çekilmiş fotoğrafı
+  "guncel"dir): "guncel" (son ~20 yılın çekimi) | "eski" (eski araçlar, giysiler, film dokusu, solmuş renkler, arşiv karesi)
 - karanlik: ana konu karanlıkta seçilemiyor mu? bulanik: belirgin bulanık mı?
 - yazi_filigran: "yok" | "kucuk" (köşede küçük imza/logo) | "buyuk" (görüntüyü kaplayan filigran, gömülü başlık, afiş/poster yazısı)
 - sahne: en fazla 15 kelime, ne görünüyor (Türkçe)
 - nesneler: görülen somut unsurlar, en fazla 8 (Türkçe, ör. "plaj voleybolu filesi", "taksi", "yolcu uçağı", "stadyum tribünü")
 - kisi_sayisi: tahmini sayı; yuz_belirgin: yakın ve net bir yüz var mı
-- ana_kutu: fotoğrafın ana konusunu çevreleyen kutu [ymin, xmin, ymax, xmax], 0-1000 arası
+- ana_kutu: fotoğrafın ana konusunu (ör. uçak, bina, taksi sırası, kişi) çevreleyen DAR kutu [ymin, xmin, ymax, xmax], 0-1000 arası;
+  tüm kareyi değil, yalnızca ana konunun kapladığı bölgeyi ver
 - yuzler: belirgin yüzlerin kutuları (en fazla 4), saç tepesinden çeneye: [[ymin, xmin, ymax, xmax], ...]; yoksa []
 - ulke: "turkiye" | "yabanci" | "belirsiz" (tabela, plaka, yazı dili, simge yapılar)
 - notr_portre: tek bir kişinin olaysız, nötr portresi mi
@@ -363,6 +365,8 @@ Her fotoğraf için iki bölüm doldur:
 - ilgisiz_yer_nesne: fotoğrafın asıl konusu haberin konusuyla ilgisiz bir yer/nesne mi? (ör. taksi haberinde uçak; plaj voleybolu
   haberinde yalnızca sahil manzarası; maç haberinde heykel)
 - baska_olay_sanilir: başka bir olaya ait sahne bu haberin görüntüsü sanılır mı? ("aynı olayın fotoğrafı" iddiasında false)
+- konu_kutusu: fotoğrafı BU haberle ilişkili kılan unsurun dar kutusu [ymin, xmin, ymax, xmax] (ör. taksi haberinde taksiler,
+  maç haberinde sahadaki oyuncular, kişi haberinde kişinin yüzü ve gövdesi); böyle bir unsur yoksa null
 - uygunluk: 0-10, bu fotoğraf bu haberin görseli olarak ne kadar doğru
 - gerekce: en fazla 20 kelime (Türkçe)
 
@@ -380,7 +384,8 @@ Yalnızca şu biçimde JSON döndür:
  "yazi_filigran": "yok", "sahne": "...", "nesneler": ["..."], "kisi_sayisi": 0, "yuz_belirgin": false, "ana_kutu": [0, 0, 1000, 1000],
  "yuzler": [], "ulke": "belirsiz", "notr_portre": false, "uygun_baglamlar": ["..."], "uygunsuz_baglamlar": ["..."]}},
  "iliski": {{"ana_ozne_gorunuyor": false, "olay_gorunuyor": false, "gerekli": [], "yasak": [], "yanlis_kisi": false, "yanlis_takim": false,
- "yanlis_spor": false, "yaniltici_donem": false, "ilgisiz_yer_nesne": false, "baska_olay_sanilir": false, "uygunluk": 0, "gerekce": "..."}}}}]}}"""
+ "yanlis_spor": false, "yaniltici_donem": false, "ilgisiz_yer_nesne": false, "baska_olay_sanilir": false, "konu_kutusu": null,
+ "uygunluk": 0, "gerekce": "..."}}}}]}}"""
 
 
 def _kutu(x):
@@ -422,7 +427,7 @@ def iliski_dogrula(d):
         "gerekli": [{"unsur": gs.temiz(x.get("unsur"), 60), "var": x.get("var") is True} for x in (d.get("gerekli") or []) if isinstance(x, dict)],
         "yasak": [gs.temiz(x, 60) for x in (d.get("yasak") or []) if gs.temiz(x)],
         **{k: d.get(k) is True for k in ("yanlis_kisi", "yanlis_takim", "yanlis_spor", "yaniltici_donem", "ilgisiz_yer_nesne", "baska_olay_sanilir")},
-        "uygunluk": uyg, "gerekce": gs.temiz(d.get("gerekce"), 200),
+        "konu_kutusu": _kutu(d.get("konu_kutusu") or []), "uygunluk": uyg, "gerekce": gs.temiz(d.get("gerekce"), 200),
     }
 
 
@@ -456,7 +461,22 @@ def incele(bag, haber, konu, adaylar):
         spor=konu.get("spor_dali") or "-", hassas=konu.get("hassas", "yok"),
         olmali=", ".join(gs.gerekli_unsurlar(konu)) or "-", olmamali=", ".join(konu.get("gorselde_olmamali") or []) or "-",
         fotolar="\n".join(fotolar))
-    yanit = bag.gemini([{"text": metin}] + parcalar, en_fazla=900 * len(adaylar) + 400)
+    try:
+        yanit = bag.gemini([{"text": metin}] + parcalar, en_fazla=1200 * len(adaylar) + 800)
+    except gs.ServisHatasi as e:
+        # Yanıt yarım/bozuk JSON geldiyse parti ikiye bölünüp yeniden sorulur (tek fotoğrafta bir kez daha denenir)
+        if "okunamadı" not in str(e) or getattr(bag, "_bolundu", 0) >= 3:
+            raise
+        bag._bolundu = getattr(bag, "_bolundu", 0) + 1
+        try:
+            if len(adaylar) == 1:
+                return incele(bag, haber, konu, adaylar)
+            yari = len(adaylar) // 2
+            incele(bag, haber, konu, adaylar[:yari])
+            incele(bag, haber, konu, adaylar[yari:])
+            return adaylar
+        finally:
+            bag._bolundu -= 1
     liste = {}
     for d in yanit.get("fotograflar") or []:
         if isinstance(d, dict):
@@ -550,11 +570,13 @@ ALANLAR = {
     # yazi: üç satırlık başlığın ve koyu geçişin kapladığı alt pay (masaüstü 26 px alt boşluk + 3 × 38 px satır + geçiş ≈ %36)
     "manset_d": {"oran": 1.6, "en_az": 760, "yazi": 0.36, "yuz": 0.40},       # masaüstü/tablet manşet, 16:10, başlık altta
     "manset_m": {"oran": 4 / 3, "en_az": 380, "yazi": 0.40, "yuz": 0.42},     # mobil manşet, 4:3
-    "mansetyan_d": {"oran": 0.66, "en_az": 330, "yazi": 0.0, "yuz": 0.48},    # yan düzen: fotoğraf başlığın yanında (masaüstü)
-    "mansetyan_m": {"oran": 0.6, "en_az": 170, "yazi": 0.0, "yuz": 0.48},     # yan düzen, mobil
-    "yan_d": {"oran": 2.3, "en_az": 390, "yazi": 0.45, "yuz": 0.45},          # manşet yanı kartı, masaüstü (≈401×176)
-    "yan_t": {"oran": 4 / 3, "en_az": 300, "yazi": 0.40, "yuz": 0.45},        # manşet yanı kartı, tablet
-    "yan_m": {"oran": 16 / 9, "en_az": 360, "yazi": 0.40, "yuz": 0.45},       # manşet yanı kartı, mobil
+    # yan düzen: başlığın yanındaki dar portre sütunu; vesikalık yakın portre burada uygundur (tepe ve çene payı yine aranır)
+    "mansetyan_d": {"oran": 0.66, "en_az": 330, "yazi": 0.0, "yuz": 0.80},    # yan düzen: fotoğraf başlığın yanında (masaüstü)
+    "mansetyan_m": {"oran": 0.67, "en_az": 190, "yazi": 0.0, "yuz": 0.80},    # yan düzen, mobil (sütun %50, 4:3 pencere)
+    # manşet yanı kartında iki satırlık başlık ve geçiş ≈401×176 kutunun alttan %58'ini kaplar (canlı sayfada ölçüldü)
+    "yan_d": {"oran": 2.3, "en_az": 390, "yazi": 0.58, "yuz": 0.40},          # manşet yanı kartı, masaüstü (≈401×176)
+    "yan_t": {"oran": 4 / 3, "en_az": 300, "yazi": 0.45, "yuz": 0.45},        # manşet yanı kartı, tablet
+    "yan_m": {"oran": 16 / 9, "en_az": 360, "yazi": 0.50, "yuz": 0.45},       # manşet yanı kartı, mobil
     "kart": {"oran": 1.6, "en_az": 290, "yazi": 0.0, "yuz": 0.55},            # haber kartı
 }
 
@@ -588,6 +610,7 @@ def kirp(w, h, alan, ana_kutu, yuzler):
         F = [max(0, F[0]), max(0, F[1]), min(w, F[2]), min(h, F[3])]
         if F[2] - F[0] > vw or F[3] - F[1] > vh * (1 - alan["yazi"]):
             return None, "yüzler aynı anda tam görünemiyor ya da başlık bandına giriyor"
+    bilinen = ana_kutu is not None
     ak = _px(ana_kutu or [150, 150, 850, 850], w, h)
     cx, cy = (ak[0] + ak[2]) / 2, (ak[1] + ak[3]) / 2
 
@@ -601,7 +624,7 @@ def kirp(w, h, alan, ana_kutu, yuzler):
 
     vx = aralik(cx - vw / 2, vw, w, F[0] if F else None, F[2] if F else None)
     # yüz varsa yüzler görünen alanın üst üçte birine yakın; yoksa ana konu başlık bandının dışında kalan alanın ortasına
-    ideal_y = ((F[1] + F[3]) / 2 - 0.38 * vh) if F else (cy - vh * (1 - alan["yazi"]) / 2 if alan["yazi"] else cy - vh / 2)
+    ideal_y = ((F[1] + F[3]) / 2 - 0.38 * vh) if F else (cy - vh * (1 - alan["yazi"]) / 2 if (alan["yazi"] and bilinen) else cy - vh / 2)
     vy = aralik(ideal_y, vh, h, F[1] if F else None, F[3] if F else None, vh * (1 - alan["yazi"]) if F else None)
     if vx is None or vy is None:
         return None, "zorunlu bölge (yüzler) bu oranda kırpılmadan sığmıyor"
@@ -609,19 +632,26 @@ def kirp(w, h, alan, ana_kutu, yuzler):
     gy = max(0, min(ak[3], vy + vh) - max(ak[1], vy)) / max(1, ak[3] - ak[1])
     if gx * gy < 0.55:
         return None, f"ana konunun ancak %{int(100 * gx * gy)}'i görünür"
-    if alan["yazi"] and not F:
-        # başlık bandı ana konuyu örtmesin: görünen ana konunun en az %40'ı bandın üstünde kalmalı
+    if alan["yazi"] and not F and bilinen:
+        # başlık bandı ana konuyu örtmesin: görünen ana konunun en az üçte biri bandın üstünde kalmalı
         ust = vy + vh * (1 - alan["yazi"])
-        if (min(ak[3], ust) - max(ak[1], vy)) / max(1, min(ak[3], vy + vh) - max(ak[1], vy)) < 0.4:
+        if (min(ak[3], ust) - max(ak[1], vy)) / max(1, min(ak[3], vy + vh) - max(ak[1], vy)) < 0.33:
             return None, "başlık bandı ana konunun büyük kısmını örtüyor"
     px = 50 if w - vw < 1 else round(100 * vx / (w - vw))
     py = 50 if h - vh < 1 else round(100 * vy / (h - vh))
     return {"odak": f"{px}% {py}%", "gorunen": [round(vx), round(vy), round(vw), round(vh)]}, ""
 
 
-def yerlesim(w, h, icerik):
-    """Her alan için uygunluk ve odak noktası. Dönüş: (yerlesim sözlüğü, alan bazında nedenler)."""
-    ak, yz = (icerik or {}).get("ana_kutu"), (icerik or {}).get("yuzler") or []
+def _anlamli(k):
+    """Karenin neredeyse tamamını kaplayan kutu odak bilgisi taşımaz."""
+    return k if k and (k[2] - k[0]) * (k[3] - k[1]) < 0.8 * 1000 * 1000 else None
+
+
+def yerlesim(w, h, icerik, iliski=None):
+    """Her alan için uygunluk ve odak noktası. Öncelik: fotoğrafı bu haberle ilişkili kılan unsurun kutusu (haber başına),
+    yoksa fotoğrafın ana konusunun kutusu. Dönüş: (yerlesim sözlüğü, alan bazında nedenler)."""
+    ak = _anlamli((iliski or {}).get("konu_kutusu")) or _anlamli((icerik or {}).get("ana_kutu"))
+    yz = (icerik or {}).get("yuzler") or []
     sonuc, neden = {}, {}
     for ad, alan in ALANLAR.items():
         r, n = kirp(w, h, alan, ak, yz)
@@ -841,7 +871,7 @@ def sec(bag, haber, konu, eski=None):
             else:
                 a["nedenler"] = karar(a, konu)
                 if not a["nedenler"]:
-                    a["yerlesim"], a["yerlesim_neden"] = yerlesim(a["boyut"][0], a["boyut"][1], a.get("icerik"))
+                    a["yerlesim"], a["yerlesim_neden"] = yerlesim(a["boyut"][0], a["boyut"][1], a.get("icerik"), a.get("iliski"))
                     if not (a["yerlesim"]["kart"] or a["yerlesim"]["manset"] or a["yerlesim"]["detay"]):
                         a["nedenler"] = [("yerlesim", "hiçbir alan için uygun değil: " + "; ".join(sorted(set(a["yerlesim_neden"].values())))[:200])]
             incelenen.append(a)
