@@ -2576,7 +2576,7 @@ def _ince(a):
     ic = a.get("icerik") or {}
     return dict({k: a.get(k) for k in ("sinif", "kaynak", "url", "sayfa", "fotografci", "lisans", "hedef", "nedenler", "boyut", "mevcut",
                                        "kutuphane_id", "teknik", "yerlesim", "yerlesim_neden")},
-                icerik={k: ic.get(k) for k in ("tur", "donem", "sahne", "nesneler", "ana_kutu", "yuzler", "ulke", "notr_portre", "kisi_sayisi")} if ic else None,
+                icerik={k: ic.get(k) for k in ("tur", "donem", "siyah_beyaz", "yazi_filigran", "sahne", "nesneler", "ana_kutu", "yuzler", "yuz_belirgin", "ulke", "notr_portre", "kisi_sayisi")} if ic else None,
                 iliski={k: (a.get("iliski") or {}).get(k) for k in ("ana_ozne_gorunuyor", "olay_gorunuyor", "gerekli", "yasak", "uygunluk", "gerekce",
                                                                      "yanlis_kisi", "yanlis_takim", "yanlis_spor", "yaniltici_donem",
                                                                      "ilgisiz_yer_nesne", "baska_olay_sanilir", "konu_ana_unsur", "konu_kutusu")} if a.get("iliski") else None)

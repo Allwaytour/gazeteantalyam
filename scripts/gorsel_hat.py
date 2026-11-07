@@ -34,7 +34,7 @@ import requests
 
 import gorsel_sec as gs
 
-HAT_SURUM = "h1c"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
+HAT_SURUM = "h1d"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
 ICERIK_SURUM = "i2"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y2"
@@ -558,8 +558,16 @@ def karar(a, konu):
             ned.append(("konu", "ne haberin öznesi ne de olayı görünüyor"))
         kk = il.get("konu_kutusu")
         alan_payi = ((kk[2] - kk[0]) * (kk[3] - kk[1]) / 1e6) if kk else None
-        # aerial manzarada uzaktan görülen saha (%1-2) elenir; caddede sıralanmış taksiler gibi belirgin unsur kalır
-        if il and ((alan_payi is not None and alan_payi < 0.03)
+        # Konunun karedeki payı ölçüyle denetlenir (modelin "ana unsur" yorumu tek başına yeterli sayılmaz; aynı kare için
+        # farklı haberlerde farklı yanıt verebiliyor). Olay/spor haberinde olayı gösterdiği söylenen kare (aynı olay ya da
+        # temsilî) olayı karenin en az %15'inde göstermeli: gün batımı manzarasında uzaktan görülen saha (≈%6-10) elenir.
+        # Yer fotoğraflarında (yer/yer_genel) yerin kendisi konudur; yalnızca %3 altı ayrıntılar elenir.
+        olay_haberi = (konu.get("ana_ozne") or {}).get("tur") == "olay" or bool(konu.get("spor_dali"))
+        esik_alan = 0.15 if (olay_haberi and sinif in ("ayni_olay", "konu")) else 0.03
+        if alan_payi is None and esik_alan > 0.03 and _kutu(ic.get("ana_kutu") or []):
+            ak = ic["ana_kutu"]
+            alan_payi = (ak[2] - ak[0]) * (ak[3] - ak[1]) / 1e6
+        if il and ((alan_payi is not None and alan_payi < esik_alan)
                    or (il.get("konu_ana_unsur") is False and (alan_payi is None or alan_payi < 0.10))):
             ned.append(("konu", "haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha)"))
         if sinif != "ayni_olay":
