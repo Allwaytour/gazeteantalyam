@@ -44,6 +44,9 @@ gorsel_secim:
   qid: Q727065
   kurum: k3
   kurum_notu: Kepez Belediyesi sayfası aynı haber değil (benzerlik %20); Kepez Belediyesi sayfası aynı haber değil (benzerlik %20); Kepez Belediyesi sayfası aynı haber değil (benzerlik %13)
+etiketler:
+- Kepezspor
+- Uşakspor
 ---
 Lig mücadelesi kapsamında Kepez Hasan Doğan Stadı'nda oynanan karşılaşmada Antalya temsilcisi Kepezspor, rakibi Uşakspor'u ağırladı. Mücadelenin hakemliğini Cem Arayan üstlendi.
 

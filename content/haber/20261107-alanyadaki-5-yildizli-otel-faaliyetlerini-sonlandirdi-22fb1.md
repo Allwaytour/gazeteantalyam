@@ -2,8 +2,8 @@
 title: Alanya'daki 5 yıldızlı otel faaliyetlerini sonlandırdı
 date: '2026-11-07T14:31:36+03:00'
 ozet: Antalya'nın Alanya ilçesinde faaliyet gösteren 5 yıldızlı Insula Resort & Spa Hotel kapandı. 294 odalı tesisin kiraya verildiği belirtildi.
-gorsel: /images/kategori/turizm.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Falk2 / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -11,35 +11,72 @@ ilceler:
 etiketler:
 - Insula Resort & Spa Hotel
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Adaylar görsel kontrolden geçirilemedi (Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)); kontrol edilmemiş fotoğraf kullanılmadı.'
-  surum: g9.4-2026-11-05
+  tur: arsiv
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg
+  fotografci: Falk2
+  kredi: Falk2 / Wikimedia Commons (CC BY-SA 4.0)
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+  gosterilen: Alanya
+  cekim_yili: '2015'
+  gerekce: 'dosya kaydında yer (''Alanya'') ve konu ipucu (hotel building, resort) birlikte geçiyor; görsel kontrol: Kapanan otelin binası ve tesisi net bir şekilde görülüyor, haberle doğrudan uyumlu.'
+  surum: h1-2026-11-07
   konu_imza: f01885b5696f
-  gorsel_url: /images/kategori/turizm.png
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-07T15:01:37+03:00'
-    yontem: Gemini görsel kontrol
-    neden: 'Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
+    yapildi: true
+    sonuc: onaylandı
+    tarih: '2026-11-07T20:54:40+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
+  aciklama: Alanya — Arşiv fotoğrafı (2015)
+  alt_tur: yer_konu
+  kaynak_aciklama: Zwischen Manavgat und Alanya bzw. Karburun und Okurcalar; die Gartenfront liegt auf der Ostseite.
+  sinif: konu
+  hat: h1
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 348
+      parlaklik: 113
+      medyan: 98
+      karanlik_oran: 0.201
+      kontrast: 70
+      doygunluk: 26.8
+      keskinlik: 2027
+      s: t1
+    icerik:
+      sahne: Büyük otel binası ve önünde açık havuz ve şezlonglar yer alıyor.
+      nesneler:
+      - otel binası
+      - açık havuz
+      - şezlong
+      - balkon
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: otel binası
+        var: true
+      - unsur: tatil köyü
+        var: true
+      yasak: []
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      uygunluk: 9
+      gerekce: Kapanan otelin binası ve tesisi net bir şekilde görülüyor, haberle doğrudan uyumlu.
   kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: kota_veya_servis_hatasi
-    aciklama: 'Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
-    notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %35); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Insula Resort & Spa Hotel'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Insula Resort & Spa Hotel'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: resort hotel exterior); görsel kontrol yapılamadı: Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
-  kapak_surum: c8
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,6 +84,60 @@ otomatik: true
 yz: true
 kaynak: Turizm Aktüel
 kaynak_url: https://www.turizmaktuel.com/haber/alanya-nin-5-yildizli-oteli-kapandi
+gorsel_onceki:
+  gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
+gorsel_gecmis:
+- gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
+  gorsel_tur: kategori
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: kategori
+    kaynak_sayfa: ''
+    fotografci: ''
+    kredi: Gazete Antalya
+    lisans: Gazete Antalya'nın kendi tasarımı
+    lisans_dayanagi: Sitenin kendi grafik dosyası
+    kosul: ''
+    gosterilen: ''
+    cekim_yili: ''
+    gerekce: 'Adaylar görsel kontrolden geçirilemedi (Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)); kontrol edilmemiş fotoğraf kullanılmadı.'
+    surum: g9.4-2026-11-05
+    konu_imza: f01885b5696f
+    gorsel_url: /images/kategori/turizm.png
+    kontrol:
+      yapildi: false
+      sonuc: yapılamadı
+      tarih: '2026-11-07T15:01:37+03:00'
+      yontem: Gemini görsel kontrol
+      neden: 'Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
+    kurum: k5
+    bekliyor: true
+    bekleme_sayisi: 1
+    kapak_nedeni:
+      kod: kota_veya_servis_hatasi
+      aciklama: 'Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
+      notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %35); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Insula Resort & Spa Hotel'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Insula Resort & Spa Hotel'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: resort hotel exterior); görsel kontrol yapılamadı: Gemini yanıtı okunamadı: Expecting property name enclosed in double quotes: line 44 column 7 (char 1237)'
+    kapak_surum: c8
+  degisim: '2026-11-07T20:54:40+03:00'
+gorsel_yerlesim:
+  boyut:
+  - 5093
+  - 3540
+  dikey: false
+  surum: y1
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 88%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Alanya ilçesinde konuklarını ağırlayan 5 yıldızlı Insula Resort & Spa Hotel kapılarını kapattı. Denize sıfır konumuyla bilinen 294 odalı turizm tesisinin faaliyetlerine son verdiği ve kiraya verildiği öğrenildi.
 

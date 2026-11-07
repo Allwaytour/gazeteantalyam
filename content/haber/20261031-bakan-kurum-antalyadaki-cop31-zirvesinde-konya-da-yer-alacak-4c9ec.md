@@ -16,6 +16,10 @@ yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/amp/haber-cevre-bakani-kurum-antalya-daki-cop31-de-konya-nin-20383765/
 gorsel_v4: true
+etiketler:
+- Murat Kurum
+- Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+- Selçuklu Belediyesi
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, memleketi Konya'da katıldığı bir programda Türkiye'nin ev sahipliğinde gerçekleştirilecek olan COP31 hazırlıklarına ilişkin açıklamalarda bulundu. Zirvenin Antalya'da yapılacağını hatırlatan Bakan Kurum, küresel ölçekteki bu buluşmanın önemine dikkat çekti.
 
