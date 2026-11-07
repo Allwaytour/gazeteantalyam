@@ -34,7 +34,7 @@ import requests
 
 import gorsel_sec as gs
 
-HAT_SURUM = "h1"
+HAT_SURUM = "h1b"        # kural sürümü: değişince kütüphanenin eski kayıtları aday olarak kullanılmaz
 ICERIK_SURUM = "i2"        # fotoğrafın kendisine ait inceleme (tür, dönem, kutular) – değişirse yeniden incelenir
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y2"
@@ -73,6 +73,8 @@ def kutuphane():
 def kaydet():
     if _KUT is None:
         return
+    # Bugünkü kurallarla kabul edilmemiş kütüphane kayıtları (önceki kural sürümü) aday olarak kullanılmaz ve silinir
+    _KUT["kayitlar"] = {k: v for k, v in _KUT["kayitlar"].items() if str(v.get("dogrulama_surumu", "")).split("-")[0] == HAT_SURUM}
     inc = _KUT["inceleme"]
     if len(inc) > 3000:
         for k in sorted(inc, key=lambda k: inc[k].get("t", ""))[: len(inc) - 3000]:
@@ -365,6 +367,8 @@ Her fotoğraf için iki bölüm doldur:
 - ilgisiz_yer_nesne: fotoğrafın asıl konusu haberin konusuyla ilgisiz bir yer/nesne mi? (ör. taksi haberinde uçak; plaj voleybolu
   haberinde yalnızca sahil manzarası; maç haberinde heykel)
 - baska_olay_sanilir: başka bir olaya ait sahne bu haberin görüntüsü sanılır mı? ("aynı olayın fotoğrafı" iddiasında false)
+- konu_ana_unsur: haberin konusu (olay, özne ya da nesne) fotoğrafın ANA konusu mu? Geniş bir manzara, şehir ya da kalabalık içinde
+  zor seçilen küçük bir ayrıntıysa false (ör. gün batımı sahil manzarasında uzaktan görülen voleybol sahası → false)
 - konu_kutusu: fotoğrafı BU haberle ilişkili kılan unsurun dar kutusu [ymin, xmin, ymax, xmax] (ör. taksi haberinde taksiler,
   maç haberinde sahadaki oyuncular, kişi haberinde kişinin yüzü ve gövdesi); böyle bir unsur yoksa null
 - uygunluk: 0-10, bu fotoğraf bu haberin görseli olarak ne kadar doğru
@@ -384,7 +388,7 @@ Yalnızca şu biçimde JSON döndür:
  "yazi_filigran": "yok", "sahne": "...", "nesneler": ["..."], "kisi_sayisi": 0, "yuz_belirgin": false, "ana_kutu": [0, 0, 1000, 1000],
  "yuzler": [], "ulke": "belirsiz", "notr_portre": false, "uygun_baglamlar": ["..."], "uygunsuz_baglamlar": ["..."]}},
  "iliski": {{"ana_ozne_gorunuyor": false, "olay_gorunuyor": false, "gerekli": [], "yasak": [], "yanlis_kisi": false, "yanlis_takim": false,
- "yanlis_spor": false, "yaniltici_donem": false, "ilgisiz_yer_nesne": false, "baska_olay_sanilir": false, "konu_kutusu": null,
+ "yanlis_spor": false, "yaniltici_donem": false, "ilgisiz_yer_nesne": false, "baska_olay_sanilir": false, "konu_ana_unsur": true, "konu_kutusu": null,
  "uygunluk": 0, "gerekce": "..."}}}}]}}"""
 
 
@@ -425,7 +429,9 @@ def iliski_dogrula(d):
     return {
         "ana_ozne_gorunuyor": d.get("ana_ozne_gorunuyor") is True, "olay_gorunuyor": d.get("olay_gorunuyor") is True,
         "gerekli": [{"unsur": gs.temiz(x.get("unsur"), 60), "var": x.get("var") is True} for x in (d.get("gerekli") or []) if isinstance(x, dict)],
-        "yasak": [gs.temiz(x, 60) for x in (d.get("yasak") or []) if gs.temiz(x)],
+        "yasak": [gs.temiz(x.get("unsur") if isinstance(x, dict) else x, 60) for x in (d.get("yasak") or [])
+                  if (not isinstance(x, dict) or x.get("var") is not False) and gs.temiz(x.get("unsur") if isinstance(x, dict) else x)],
+        "konu_ana_unsur": d.get("konu_ana_unsur") is not False,
         **{k: d.get(k) is True for k in ("yanlis_kisi", "yanlis_takim", "yanlis_spor", "yaniltici_donem", "ilgisiz_yer_nesne", "baska_olay_sanilir")},
         "konu_kutusu": _kutu(d.get("konu_kutusu") or []), "uygunluk": uyg, "gerekce": gs.temiz(d.get("gerekce"), 200),
     }
@@ -547,6 +553,9 @@ def karar(a, konu):
             ned.append(("konu", "zorunlu unsur görünmüyor: " + ", ".join(eksik[:3])))
         if not gs.gerekli_unsurlar(konu) and not (il.get("olay_gorunuyor") or il.get("ana_ozne_gorunuyor")):
             ned.append(("konu", "ne haberin öznesi ne de olayı görünüyor"))
+        kk = il.get("konu_kutusu")
+        if il and (il.get("konu_ana_unsur") is False or (kk and (kk[2] - kk[0]) * (kk[3] - kk[1]) < 0.06 * 1000 * 1000)):
+            ned.append(("konu", "haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha)"))
         if sinif != "ayni_olay":
             if il.get("baska_olay_sanilir"):
                 ned.append(("konu", "başka bir olayın karesi bu haberin görüntüsü sanılır"))
