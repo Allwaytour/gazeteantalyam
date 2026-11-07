@@ -3,39 +3,43 @@
  "inceleme": {
   "0220242430c5df84": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     20,
+     22,
+     995,
+     995
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "su ısıtıcı cihaz",
      "musluk",
-     "karton kutu",
+     "su ısıtıcı",
+     "kutu",
      "hortum",
-     "su filtresi"
+     "filtre"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Tezgah üzerinde kutusundan çıkarılmış su ısıtıcı ve musluk ünitesi parçaları",
+    "s": "i2",
+    "sahne": "Kutudan çıkarılmış mutfak musluğu seti ve su ısıtma cihazı.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "tesisat haberi",
-     "ev aletleri incelemesi",
-     "su arıtma sistemleri"
+     "tesisat ürünleri",
+     "ev tadilatı",
+     "musluk montajı"
     ],
     "uygunsuz_baglamlar": [
-     "su kesintisi duyurusu",
-     "belediye altyapı çalışması",
-     "siyaset haberi"
+     "genel su kesintisi uyarısı",
+     "belediye altyapı haberleri"
     ],
-    "yazi_filigran": "yok",
+    "yazi_filigran": "kucuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:27+03:00",
+   "t": "2026-11-07T21:09:31+03:00",
    "teknik": {
     "doygunluk": 13.3,
     "inen": [
@@ -164,43 +168,42 @@
   "08baf79bc2743c21": {
    "icerik": {
     "ana_kutu": [
-     300,
-     30,
+     283,
+     106,
      775,
-     908
+     905
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "asma yaprağı",
+     "yaprak sarması",
      "terazi",
-     "kuru yemiş sepeti",
-     "fiyat etiketleri",
-     "plastik kasa"
+     "kuruyemiş sepeti",
+     "etiket"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Pazar tezgahında asma yaprağı ve arkada kuruyemiş sepetleri",
+    "s": "i2",
+    "sahne": "Pazarda satılan yaprak sarmaları, kuruyemişler ve terazili tezgah",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "pazar alışverişi",
      "enflasyon",
-     "gıda fiyatları"
+     "gıda fiyatları",
+     "pazar alışverişi"
     ],
     "uygunsuz_baglamlar": [
+     "siyaset",
      "asgari ücret",
-     "ekonomi makro",
-     "ekonomist açıklaması"
+     "makro ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:24+03:00",
+   "t": "2026-11-07T21:07:49+03:00",
    "teknik": {
     "doygunluk": 58.2,
     "inen": [
@@ -273,41 +276,46 @@
   },
   "0d6dd9a1e15a2e36": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     26,
+     44,
+     994,
+     963
+    ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
      "futbol forması",
-     "çim saha"
+     "kaptan pazubendi"
     ],
     "notr_portre": true,
-    "s": "i1",
-    "sahne": "Milli form giymiş futbolcu sahada duruyor.",
+    "s": "i2",
+    "sahne": "Milli form giymiş futbolcu sahada portre pozu veriyor.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "futbolcu profili",
-     "milli maç haberi"
+     "futbolcu portresi",
+     "milli takim haberi"
     ],
     "uygunsuz_baglamlar": [
-     "güncel transfer haberi",
-     "maç özeti"
+     "fenerbahce maci",
+     "corum fk maci"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      20,
-      320,
-      325,
-      630
+      26,
+      329,
+      324,
+      649
      ]
     ]
    },
-   "t": "2026-11-07T21:02:41+03:00",
+   "t": "2026-11-07T21:09:21+03:00",
    "teknik": {
     "doygunluk": 34.3,
     "inen": [
@@ -432,39 +440,40 @@
   "13086526d8f3f1b3": {
    "icerik": {
     "ana_kutu": [
-     270,
+     320,
      220,
-     650,
-     780
+     670,
+     980
     ],
     "bulanik": false,
-    "donem": "guncel",
+    "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 15,
     "nesneler": [
-     "futbol sahası",
      "kale",
-     "futbolcular",
-     "hakem"
+     "futbol sahası",
+     "çizgi",
+     "reklam panosu"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Stadyumda oynanan genç kadınlar futbol maçı ve sahada mücadele eden oyuncular.",
+    "s": "i2",
+    "sahne": "Kapalı salonda veya tesiste genç futbolcuların oynadığı maç",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "kadın futbol turnuvası",
-     "gençler olimpiyatları"
+     "gençler futbol turnuvası",
+     "altyapı maçı"
     ],
     "uygunsuz_baglamlar": [
-     "erkek milli takım haberi"
+     "A milli maç",
+     "stadyum maçı"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:46:30+03:00",
+   "t": "2026-11-07T21:06:02+03:00",
    "teknik": {
     "doygunluk": 32.5,
     "inen": [
@@ -491,35 +500,34 @@
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 10,
+    "kisi_sayisi": 5,
     "nesneler": [
-     "sahil",
-     "deniz",
      "kumsal",
-     "dağ",
-     "bulut"
+     "deniz",
+     "bulut",
+     "güneş",
+     "dağ silueti"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Güneşli günde Konyaaltı Plajı ve deniz kıyısı manzarası.",
+    "s": "i2",
+    "sahne": "Güneşli ve bulutlu gökyüzü altında sahil ve deniz manzarası",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm",
-     "hava durumu",
-     "plaj haberleri"
+     "turizm haberi",
+     "sahil haberi",
+     "hava durumu"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem",
-     "greenpeace",
-     "iklim zirvesi"
+     "siyasi eylem haberi",
+     "suç haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:38+03:00",
+   "t": "2026-11-07T21:08:34+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -606,10 +614,10 @@
   "20729f703e02fbaf": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     323,
+     665,
+     916,
+     999
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -618,31 +626,31 @@
     "nesneler": [
      "uçak motoru",
      "uçak kanadı",
-     "havalimanı apronu",
-     "uçaklar",
-     "bulutlu gökyüzü"
+     "havalimanı terminali",
+     "park halindeki uçaklar",
+     "bulutlar"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Uçak penceresinden Antalya Havalimanı ve apron görünümü",
+    "s": "i2",
+    "sahne": "Uçak penceresinden Antalya Havalimanı apronu ve park halindeki uçaklar.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havalimanı haberi",
-     "uçuş güvenliği",
-     "turizm haberi"
+     "havacılık haberleri",
+     "Antalya Havalimanı",
+     "turizm sezonu"
     ],
     "uygunsuz_baglamlar": [
-     "taksi haberi",
-     "kısa mesafe yolcu sorunu",
-     "ulaşım esnafı haberi"
+     "taksi sorunu",
+     "trafik cezaları",
+     "şehir içi ulaşım"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:30+03:00",
+   "t": "2026-11-07T21:05:08+03:00",
    "teknik": {
     "doygunluk": 20.2,
     "inen": [
@@ -659,7 +667,43 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2198654e3eb80884": {
-   "t": "2026-11-07T20:53:31+03:00",
+   "icerik": {
+    "ana_kutu": [
+     295,
+     55,
+     645,
+     935
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "otel binası",
+     "otopark",
+     "minibüs",
+     "bisiklet"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Hilton Garden Inn otel binası ve önündeki peyzaj",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "konya haberi",
+     "turizm haberi",
+     "otel tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "zirve haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:10:53+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -677,35 +721,40 @@
   },
   "237cb49bf2b35b43": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     168,
+     0,
+     715,
+     1000
+    ],
     "bulanik": false,
-    "donem": "guncel",
+    "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 100,
+    "kisi_sayisi": 50,
     "nesneler": [
      "stadyum tribünü",
-     "pankart",
-     "çim saha",
-     "projektör"
+     "dev pankart",
+     "projektör ışığı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Gece stadyumunda taraftarlar dev pankart açmış.",
+    "s": "i2",
+    "sahne": "Gece stadyumunda tribünlerde dev pankart açılmış ve taraftarlar var.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "stadyum atmosferi",
-     "taraftar haberi"
+     "taraftar grubu"
     ],
     "uygunsuz_baglamlar": [
-     "deplasman maçı haberi"
+     "deprem haberi",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:02:41+03:00",
+   "t": "2026-11-07T21:09:21+03:00",
    "teknik": {
     "doygunluk": 32.6,
     "inen": [
@@ -722,7 +771,44 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Herkes_haddini_bilecek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "2723e53e32b39d3d": {
-   "t": "2026-11-07T20:49:38+03:00",
+   "icerik": {
+    "ana_kutu": [
+     230,
+     279,
+     412,
+     353
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Kızılkule",
+     "surlar",
+     "deniz",
+     "sahil",
+     "dağlar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Alanya sahilinden Kızılkule ve surların panoramik görünümü.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya tanıtım haberleri",
+     "tarihi yapı haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:08:02+03:00",
    "teknik": {
     "doygunluk": 31.0,
     "inen": [
@@ -741,7 +827,7 @@
   "28178c22cede1853": {
    "icerik": {
     "ana_kutu": [
-     0,
+     380,
      0,
      1000,
      1000
@@ -752,32 +838,32 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "deniz",
-     "plaj",
+     "sahil",
      "dağ",
      "bulut",
-     "çalılık"
+     "kayalık"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Bulutlu havada deniz kıyısındaki plaj ve arka planda dağlar",
+    "s": "i2",
+    "sahne": "Bulutlu havada deniz kıyısında uzanan sahil ve dağ manzarası",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "turizm haberi",
-     "şehir tanıtımı",
-     "coğrafi haber"
+     "hava durumu",
+     "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem haberi",
-     "çatışma haberi",
-     "magazin haberi"
+     "eylem haberi",
+     "siyaset",
+     "kaza"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:46+03:00",
+   "t": "2026-11-07T21:08:54+03:00",
    "teknik": {
     "doygunluk": 17.5,
     "inen": [
@@ -796,41 +882,39 @@
   "29585bacbd11f548": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     235,
+     177,
+     626,
+     897
     ],
     "bulanik": false,
-    "donem": "guncel",
+    "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "kruvaziyer gemi",
+     "kruvaziyer gemisi",
      "liman",
      "deniz"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Alanya limanında demirli büyük bir yolcu gemisi",
+    "s": "i2",
+    "sahne": "Alanya limanında demirli büyük bir kruvaziyer gemisi",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "turizm",
-     "denizcilik",
-     "şehir haberleri"
+     "liman",
+     "deniz taşımacılığı"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol maç haberi",
-     "spor turnuvası",
-     "maç sonucu"
+     "voleybol turnuvası"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:52+03:00",
+   "t": "2026-11-07T21:05:18+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -848,40 +932,47 @@
   },
   "2f96a54c7f563dba": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     21,
+     0,
+     998,
+     1000
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
-     "mont",
+     "beyaz ceket",
      "kol saati"
     ],
     "notr_portre": true,
-    "s": "i1",
-    "sahne": "Beyaz montlu bir adam ellerini kavuşturmuş oturuyor.",
+    "s": "i2",
+    "sahne": "Beyaz ceketli erkek ellerini kavuşturmuş oturuyor.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "teknik direktör profili",
-     "röportaj"
+     "teknik direktor aciklamasi",
+     "basin toplantisi",
+     "roportaj"
     ],
     "uygunsuz_baglamlar": [
-     "maç içi aksiyonu"
+     "canli mac",
+     "stadyum atmosferi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      0,
-      245,
-      620,
-      810
+      30,
+      237,
+      616,
+      811
      ]
     ]
    },
-   "t": "2026-11-07T21:02:41+03:00",
+   "t": "2026-11-07T21:09:21+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
@@ -917,15 +1008,15 @@
   "32f8aa3cefac1d57": {
    "icerik": {
     "ana_kutu": [
-     168,
-     0,
-     712,
-     999
+     88,
+     32,
+     613,
+     966
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 2,
+    "kisi_sayisi": 0,
     "nesneler": [
      "terminal binası",
      "tabela",
@@ -934,25 +1025,25 @@
      "valiz"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü",
+    "s": "i2",
+    "sahne": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü ve merdivenler",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havalimanı haberi",
-     "ulaşım yatırımları",
-     "turizm verileri"
+     "havalimanı haberleri",
+     "ulaşım haberleri",
+     "turizm haberleri"
     ],
     "uygunsuz_baglamlar": [
      "spor müsabakası",
-     "magazin"
+     "siyaset meydanı"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:56+03:00",
+   "t": "2026-11-07T21:09:11+03:00",
    "teknik": {
     "doygunluk": 18.6,
     "inen": [
@@ -1024,7 +1115,50 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3781092e6401f525": {
-   "t": "2026-11-07T20:53:30+03:00",
+   "icerik": {
+    "ana_kutu": [
+     342,
+     45,
+     687,
+     196
+    ],
+    "bulanik": true,
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "dev ekran",
+     "sahne",
+     "kürsü",
+     "izleyici"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Büyük ekranlı bir salonda kürsüde konuşma yapan kişi ve izleyiciler.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset haberi",
+     "zirve haberi",
+     "konferans haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      339,
+      83,
+      439,
+      144
+     ]
+    ]
+   },
+   "t": "2026-11-07T21:10:47+03:00",
    "teknik": {
     "doygunluk": 73.4,
     "inen": [
@@ -1042,46 +1176,53 @@
   },
   "3e846000e879df1e": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     250,
+     270,
+     890,
+     620
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
-     "futbol formu",
-     "çim saha"
+     "futbol sahası",
+     "forma",
+     "çim"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "İki futbolcu çim sahada sevinç yaşıyor.",
+    "s": "i2",
+    "sahne": "Çim sahada Fenerbahçe formalı iki futbolcu sevinç yaşıyor",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "turkiye",
     "uygun_baglamlar": [
-     "maç haberi",
-     "gol sevinci"
+     "Fenerbahçe maçı",
+     "Süper Lig"
     ],
     "uygunsuz_baglamlar": [
-     "antrenman haberi"
+     "milli takım hazırlık turnuvası",
+     "Manavgat turnuvası"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      255,
-      375,
-      385,
-      445
+      260,
+      380,
+      360,
+      440
      ],
      [
-      395,
+      400,
       460,
-      500,
-      535
+      510,
+      530
      ]
     ]
    },
-   "t": "2026-11-07T21:02:41+03:00",
+   "t": "2026-11-07T21:06:02+03:00",
    "teknik": {
     "doygunluk": 52.8,
     "inen": [
@@ -1100,10 +1241,10 @@
   "42d9bccf79c236b4": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     12,
+     1,
+     998,
+     999
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -1112,30 +1253,30 @@
     "nesneler": [
      "bina",
      "tabela",
-     "cam cephe",
-     "palmiye ağacı"
+     "palmiye",
+     "cam cephe"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Modern mimariye sahip Antalya Ticaret ve Sanayi Odası binası ve tabelası.",
+    "s": "i2",
+    "sahne": "Modern mimariye sahip Antalya Ticaret ve Sanayi Odası dış cephesi",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "ekonomi",
      "ticaret odası",
-     "kurum haberi"
+     "yerel haber"
     ],
     "uygunsuz_baglamlar": [
      "spor",
      "magazin",
-     "uluslararası ilişki"
+     "uluslararası zirve"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:09+03:00",
+   "t": "2026-11-07T21:06:54+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -1164,30 +1305,29 @@
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "karlı dağ",
-     "bulut",
-     "zirve"
+     "dağ",
+     "kar",
+     "bulut"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Bulutlarla kaplı karlı dağ zirveleri ve manzarası.",
+    "s": "i2",
+    "sahne": "Karlı dağlar ve bulutlar",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "dağcılık haberi",
-     "kış turizmi",
-     "hava durumu"
+     "dağcılık",
+     "doğa"
     ],
     "uygunsuz_baglamlar": [
      "yaz turizmi",
-     "otel doluluk haberi"
+     "eylül ayı geceleme rekoru"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:57+03:00",
+   "t": "2026-11-07T21:08:13+03:00",
    "teknik": {
     "doygunluk": 20.6,
     "inen": [
@@ -1206,44 +1346,42 @@
   "451d07c5f3e4f59a": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     590,
+     285,
+     875,
+     610
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
+     "plaj voleybolu sahası",
      "sahil",
-     "deniz",
      "bina",
-     "voleybol sahası",
      "yol",
-     "dağ"
+     "deniz"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Alanya sahilinin gün batımındaki havadan görünümü ve plaj voleybolu sahaları",
+    "s": "i2",
+    "sahne": "Alanya sahilinin gün batımındaki genel görünümü ve plaj voleybolu sahaları",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "spor haberleri",
-     "turizm haberleri",
-     "şehir tanıtımı"
+     "Alanya haberleri",
+     "turizm tanıtımı",
+     "plaj voleybolu"
     ],
     "uygunsuz_baglamlar": [
-     "magazin",
-     "ekonomi",
-     "siyaset"
+     "siyaset",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:52+03:00",
+   "t": "2026-11-07T21:05:18+03:00",
    "teknik": {
     "doygunluk": 57.5,
     "inen": [
@@ -1346,15 +1484,15 @@
   "4d69b680904b3b07": {
    "icerik": {
     "ana_kutu": [
-     280,
-     310,
-     740,
-     740
+     320,
+     400,
+     770,
+     730
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 15,
+    "kisi_sayisi": 12,
     "nesneler": [
      "futbol topu",
      "futbolcular",
@@ -1362,24 +1500,24 @@
      "çim saha"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Eski dönem siyah beyaz futbol maçında hava topu mücadelesi yapan futbolcular.",
+    "s": "i2",
+    "sahne": "Eski dönem siyah beyaz futbol maçında kafa topu mücadelesi yapan futbolcular",
     "siyah_beyaz": true,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
      "tarihi futbol maçı",
-     "nostaljik spor haberi"
+     "nostaljik futbol"
     ],
     "uygunsuz_baglamlar": [
-     "güncel turnuva haberi",
-     "altyağ hazırlık maçı"
+     "güncel turnuva",
+     "Manavgat turnuvası"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:46:30+03:00",
+   "t": "2026-11-07T21:06:02+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -1409,30 +1547,27 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "lahit kapağı",
-     "mermer heykel",
-     "uzanan kadın figürü"
+     "mermer heykel"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Müzede sergilenen antik lahit kapağı üzerindeki uzanan kadın figürü",
+    "s": "i2",
+    "sahne": "Müzede sergilenen antik lahit kapağı üzerindeki uzanan kadın heykeli.",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "arkeoloji haberleri",
-     "tarihi eserler",
-     "müze sergileri"
+     "arkeoloji haberi",
+     "tarihi eser sergisi"
     ],
     "uygunsuz_baglamlar": [
      "güncel politika",
-     "ekonomi",
      "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:15+03:00",
+   "t": "2026-11-07T21:07:43+03:00",
    "teknik": {
     "doygunluk": 25.4,
     "inen": [
@@ -1451,10 +1586,10 @@
   "5014492c29ca2fc4": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     235,
+     437,
+     735,
+     563
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -1465,26 +1600,26 @@
      "su dalgaları"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Su yüzeyine düşen damlanın oluşturduğu dalgalar.",
+    "s": "i2",
+    "sahne": "Su yüzeyine düşen damla ve dalgalar",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
      "su tasarrufu",
-     "baraj doluluk oranları",
-     "su analizi"
+     "su kesintisi",
+     "genel su haberleri"
     ],
     "uygunsuz_baglamlar": [
-     "su kesintisi duyuruları",
-     "kanalizasyon arızası",
-     "su baskını"
+     "siyaset",
+     "spor",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:33+03:00",
+   "t": "2026-11-07T21:09:34+03:00",
    "teknik": {
     "doygunluk": 42.8,
     "inen": [
@@ -1498,7 +1633,7 @@
     "parlaklik": 150,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1526599256864-6bedb9d7dfb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDA3Mzg3OHww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1526599256864-6bedb9d7dfb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDA3NDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "5413f6c1ef4c7622": {
    "icerik": {
@@ -1515,30 +1650,27 @@
     "nesneler": [
      "mermer lahit",
      "mitolojik kabartma",
-     "savaşçı figürleri",
-     "kalkan"
+     "savaşçı figürleri"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antik lahit yüzeyindeki mitolojik figürler ve savaş sahneleri kabartması",
+    "s": "i2",
+    "sahne": "Mermer lahit üzerinde mitolojik figürlerin yer aldığı kabartma sahne.",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "arkeoloji",
-     "tarihi eser",
-     "antidepresan/müze haberleri"
+     "arkeoloji haberi",
+     "tarihi eser sergisi"
     ],
     "uygunsuz_baglamlar": [
-     "magazin",
-     "hava durumu",
-     "teknoloji"
+     "güncel politika",
+     "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:15+03:00",
+   "t": "2026-11-07T21:07:43+03:00",
    "teknik": {
     "doygunluk": 14.5,
     "inen": [
@@ -1574,41 +1706,39 @@
   "55782e7faa246a01": {
    "icerik": {
     "ana_kutu": [
-     290,
+     300,
      105,
      950,
-     850
+     830
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "çim alan",
+     "bahçe",
+     "çim",
      "ağaç",
-     "bahçe duvarı",
      "dağ"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Ev bahçesi, çim alan, sıra ağaçlar ve arka planda dağlar.",
+    "s": "i2",
+    "sahne": "Ev bahçesi ve uzakta dağ manzarası",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "emlak haberi",
-     "bahçe peyzaj",
-     "hava durumu"
+     "emlak",
+     "peyzaj"
     ],
     "uygunsuz_baglamlar": [
-     "turizm rekoru",
-     "otel haberi"
+     "turizm istatistiği"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:57+03:00",
+   "t": "2026-11-07T21:08:13+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -1627,9 +1757,9 @@
   "56426e87a6dc039d": {
    "icerik": {
     "ana_kutu": [
+     118,
      0,
-     0,
-     1000,
+     817,
      1000
     ],
     "bulanik": false,
@@ -1638,31 +1768,30 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "mermer lahit",
-     "kabartma figür",
-     "Medusa başı",
-     "dekoratif çelenk"
+     "kabartma heykel",
+     "Medusa başı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antik dönem mermer lahit üzerindeki kabartma figürler ve Medusa başı motifi",
+    "s": "i2",
+    "sahne": "Antik mermer lahit üzerindeki Medusa kabartması ve kanatlı figürler.",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "arkeoloji haberleri",
-     "tarihi eser keşifleri",
-     "müze tanıtımları"
+     "tarihi eser haberi",
+     "arkeoloji haberi",
+     "müze tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "güncel siyaset",
-     "spor müsabakaları",
-     "magazin"
+     "spor haberi",
+     "magazin haberi",
+     "ekonomi haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:15+03:00",
+   "t": "2026-11-07T21:07:43+03:00",
    "teknik": {
     "doygunluk": 19.8,
     "inen": [
@@ -1717,7 +1846,7 @@
     "ana_kutu": [
      200,
      290,
-     430,
+     425,
      1000
     ],
     "bulanik": false,
@@ -1725,33 +1854,31 @@
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "iskele",
      "deniz",
      "dalga",
-     "bayrak",
-     "şezlong"
+     "iskele",
+     "bayrak"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Deniz kıyısındaki iskele ve dalgalar, gün batımı gökyüzü altında.",
+    "s": "i2",
+    "sahne": "Deniz kıyısında dalgalar ve iskele",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm haberi",
-     "tatil haberi",
-     "antalya haberi"
+     "turizm",
+     "tatil",
+     "sahil"
     ],
     "uygunsuz_baglamlar": [
-     "kış haberi",
-     "ekonomi haberi",
-     "spor haberi"
+     "ekonomi",
+     "politika"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:57+03:00",
+   "t": "2026-11-07T21:08:13+03:00",
    "teknik": {
     "doygunluk": 29.4,
     "inen": [
@@ -1770,10 +1897,10 @@
   "631527db7d89cfa6": {
    "icerik": {
     "ana_kutu": [
-     160,
-     41,
-     915,
-     843
+     168,
+     62,
+     936,
+     836
     ],
     "bulanik": false,
     "donem": "eski",
@@ -1782,54 +1909,54 @@
     "nesneler": [
      "kupa",
      "koltuk",
-     "pencereler"
+     "klima"
     ],
     "notr_portre": false,
-    "s": "i1",
+    "s": "i2",
     "sahne": "Koltukta oturmuş kupa tutan dört kişi",
     "siyah_beyaz": true,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "ödül töreni haberi",
-     "kuaför yarışması",
-     "başarı haberi"
+     "ödül töreni",
+     "öğrenci başarısı",
+     "yarışma derecesi"
     ],
     "uygunsuz_baglamlar": [
-     "güncel yerel haber",
-     "politika",
-     "spor karşılaşması"
+     "güncel yarışma",
+     "saç kesim anı",
+     "antalya haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      162,
-      137,
-      281,
-      221
-     ],
-     [
-      168,
-      298,
-      381,
-      396
-     ],
-     [
       170,
-      477,
-      360,
-      563
+      137,
+      497,
+      274
+     ],
+     [
+      167,
+      274,
+      938,
+      439
+     ],
+     [
+      173,
+      409,
+      936,
+      617
      ],
      [
       191,
-      659,
-      362,
-      740
+      611,
+      933,
+      834
      ]
     ]
    },
-   "t": "2026-11-07T20:52:16+03:00",
+   "t": "2026-11-07T21:09:43+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -1846,7 +1973,42 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/In_the_Winner%27s_Circle_-_DPLA_-_2fbeba9fb6643c40c1d9ecfee207039e.jpg/1280px-In_the_Winner%27s_Circle_-_DPLA_-_2fbeba9fb6643c40c1d9ecfee207039e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "67f6cdb5b199b163": {
-   "t": "2026-11-07T20:49:38+03:00",
+   "icerik": {
+    "ana_kutu": [
+     304,
+     556,
+     650,
+     978
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "tuğla duvar",
+     "dağ manzarası"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Tuğla duvar üzerindeki 'Dendanlara Çıkmak Yasaktır' tabelası.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi yapı güvenlik haberleri",
+     "Alanya haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "çalıştay haberleri",
+     "bilimsel toplantılar",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:08:02+03:00",
    "teknik": {
     "doygunluk": 39.6,
     "inen": [
@@ -1865,9 +2027,9 @@
   "69b99e6cccf3be2b": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
+     35,
+     1,
+     999,
      1000
     ],
     "bulanik": false,
@@ -1875,36 +2037,35 @@
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
-     "ceket",
+     "mavi ceket",
      "gömlek"
     ],
     "notr_portre": true,
-    "s": "i1",
-    "sahne": "Bakan Murat Kurum'un yakın plan portre fotoğrafı.",
+    "s": "i2",
+    "sahne": "Murat Kurum'un yakın plan portre fotoğrafı",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "siyasetçi portresi",
-     "bakan haberi",
-     "kurum biyografisi"
+     "siyaset haberleri",
+     "biyografi"
     ],
     "uygunsuz_baglamlar": [
-     "spordan kopuk etkinlik",
-     "farklı bir toplantı"
+     "spor",
+     "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      72,
-      190,
-      649,
+      88,
+      301,
+      629,
       814
      ]
     ]
    },
-   "t": "2026-11-07T20:47:03+03:00",
+   "t": "2026-11-07T21:06:35+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -1923,10 +2084,10 @@
   "7195fd0c99005d02": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     168,
+     513,
+     764,
+     712
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -1935,31 +2096,31 @@
     "nesneler": [
      "musluk",
      "bardak",
-     "su",
-     "evye",
-     "kol saati"
+     "el",
+     "lavabo",
+     "saat"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Mutfak evyesinde musluktan bardağa su dolduran bir insan eli.",
+    "s": "i2",
+    "sahne": "Musluktan bardağa su dolduran bir el",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "su kesintisi uyarısı",
-     "su tasarrufu",
-     "içme suyu"
+     "su kesintisi",
+     "içme suyu",
+     "su tasarrufu"
     ],
     "uygunsuz_baglamlar": [
-     "su baskını",
-     "kanalizasyon patlaması",
-     "baraj açılışı"
+     "siyaset",
+     "spor",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:33+03:00",
+   "t": "2026-11-07T21:09:34+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -1973,14 +2134,14 @@
     "parlaklik": 168,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDA3Mzg3OHww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDA3NDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "7547c0c0d7ff88c5": {
    "icerik": {
     "ana_kutu": [
-     151,
-     5,
-     725,
+     156,
+     4,
+     717,
      966
     ],
     "bulanik": false,
@@ -1989,29 +2150,27 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "yolcu uçağı",
-     "gökyüzü"
+     "gökyüzو"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Mavi gökyüzünde uçan SunExpress yolcu uçağı",
+    "s": "i2",
+    "sahne": "Mavi gökyüzünde uçmakta olan SunExpress yolcu uçağı",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "yabanci",
     "uygun_baglamlar": [
      "havacılık haberleri",
-     "şirket duyuruları",
-     "uçak seferleri"
+     "şirket duyuruları"
     ],
     "uygunsuz_baglamlar": [
-     "kaza haberleri",
-     "spor karşılaşmaları",
-     "siyaset haberleri"
+     "kaza",
+     "spor"
     ],
     "yazi_filigran": "kucuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:53+03:00",
+   "t": "2026-11-07T21:07:26+03:00",
    "teknik": {
     "doygunluk": 38.0,
     "inen": [
@@ -2030,10 +2189,10 @@
   "7bf56c54c2aa1113": {
    "icerik": {
     "ana_kutu": [
-     199,
-     58,
-     712,
-     963
+     195,
+     23,
+     732,
+     965
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -2044,26 +2203,26 @@
      "gökyüzü"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Mavi gökyüzünde uçuş yapan SunExpress yolcu uçağı",
+    "s": "i2",
+    "sahne": "Mavi gökyüzünde iniş takımlarını açmış SunExpress yolcu uçağı",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "yabanci",
     "uygun_baglamlar": [
      "havacılık haberleri",
      "şirket duyuruları",
-     "uçak seferleri"
+     "uçuş operasyonları"
     ],
     "uygunsuz_baglamlar": [
-     "kaza haberleri",
-     "spor karşılaşmaları",
-     "siyaset haberleri"
+     "uçak kazası",
+     "spor müsabakası",
+     "ekonomi analizi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:53+03:00",
+   "t": "2026-11-07T21:07:26+03:00",
    "teknik": {
     "doygunluk": 56.0,
     "inen": [
@@ -2082,9 +2241,9 @@
   "7cd86c05b20d846f": {
    "icerik": {
     "ana_kutu": [
-     262,
-     59,
-     617,
+     269,
+     63,
+     599,
      953
     ],
     "bulanik": false,
@@ -2094,30 +2253,30 @@
     "nesneler": [
      "yolcu uçağı",
      "akaryakıt tankeri",
-     "bagaj araçları",
-     "havalimanı apronu"
+     "yer hizmetleri aracı",
+     "havalimanı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Havalimanı pistinde bekleyen SunExpress uçağı ve yer hizmetleri araçları",
+    "s": "i2",
+    "sahne": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
      "havacılık haberleri",
-     "sürdürülebilirlik",
-     "havalimanı operasyonları"
+     "sürdürülebilir havacılık yakıtı",
+     "yer hizmetleri"
     ],
     "uygunsuz_baglamlar": [
      "kaza haberleri",
-     "spor haberleri",
-     "magazin"
+     "magazin",
+     "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:53+03:00",
+   "t": "2026-11-07T21:07:26+03:00",
    "teknik": {
     "doygunluk": 13.6,
     "inen": [
@@ -2136,41 +2295,39 @@
   "7d7a8b32d0e08d37": {
    "icerik": {
     "ana_kutu": [
-     500,
-     240,
-     990,
+     504,
+     239,
+     999,
      725
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 20,
+    "kisi_sayisi": 15,
     "nesneler": [
      "palmiye",
-     "merdiven",
-     "mağaza"
+     "mağaza",
+     "sütun",
+     "korkuluk"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya Havalimanı terminal içi, katlar ve palmiye ağaçları.",
+    "s": "i2",
+    "sahne": "Havalimanı iç mekanında palmiyeler ve mağazalar",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm haberleri",
-     "havalimanı",
-     "Antalya"
+     "turizm",
+     "havalimanı"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberleri",
-     "siyaset",
-     "güncel ekonomi"
+     "son dakika siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:02:48+03:00",
+   "t": "2026-11-07T21:09:49+03:00",
    "teknik": {
     "doygunluk": 28.5,
     "inen": [
@@ -2188,7 +2345,12 @@
   },
   "7decedaba8e4dbd8": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     196,
+     292,
+     974,
+     703
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
@@ -2198,29 +2360,28 @@
      "musluk",
      "ağaç",
      "duvar",
-     "tabela"
+     "çiçek"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Açık alanda turuncu seramik kaplı içme suyu çeşmesi ve ağaçlar",
+    "s": "i2",
+    "sahne": "Açık alanda turuncu seramik kaplı içme suyu çeşmesi.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "içme suyu",
-     "çeşme haberi",
-     "kamusal alan"
+     "su çeşmesi",
+     "park ve bahçeler",
+     "kuraklık haberleri"
     ],
     "uygunsuz_baglamlar": [
-     "su kesintisi uyarısı",
-     "altyapı çalışması",
-     "ekonomi haberi"
+     "su kesintisi duyurusu",
+     "altyapı çalışması"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:27+03:00",
+   "t": "2026-11-07T21:09:31+03:00",
    "teknik": {
     "doygunluk": 39.3,
     "inen": [
@@ -2239,61 +2400,61 @@
   "7ebfb1673d3d32f7": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     471,
+     62,
+     760,
+     954
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 20,
     "nesneler": [
-     "büyük pankart",
+     "pankart",
+     "trafik lambası",
      "bina",
-     "trafik ışığı",
-     "kalabalık"
+     "tabela"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Sokakta dev pankart açmış eylemciler kalabalığı.",
+    "s": "i2",
+    "sahne": "Cadde üzerinde geniş bir pankart taşıyan eylemciler ve tarihi binalar.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "iklim eylemi",
-     "greenpeace",
-     "protesto"
+     "iklim protestosu arşivi",
+     "küresel iklim zirvesi",
+     "çevre eylemi"
     ],
     "uygunsuz_baglamlar": [
-     "antalya haberleri",
-     "konyaaltı plajı",
-     "güncel olaylar"
+     "Antalya haberi",
+     "Konyaaltı Plajı haberi",
+     "güncel eylem"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
       362,
-      513,
-      471,
-      587
-     ],
-     [
-      359,
       417,
-      477,
-      497
+      483,
+      496
      ],
      [
-      376,
-      608,
-      482,
-      689
+      362,
+      510,
+      473,
+      586
+     ],
+     [
+      371,
+      610,
+      485,
+      688
      ]
     ]
    },
-   "t": "2026-11-07T20:50:38+03:00",
+   "t": "2026-11-07T21:08:46+03:00",
    "teknik": {
     "doygunluk": 21.3,
     "inen": [
@@ -2365,12 +2526,7 @@
   },
   "7f5837409482c1f0": {
    "icerik": {
-    "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
@@ -2379,37 +2535,29 @@
      "palmiye",
      "yürüyüş yolu",
      "kafe",
-     "bank",
-     "insan"
+     "dağ",
+     "bank"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Açık havada yürüyüş yolunda yürüyen insanlar ve kafe binası",
+    "s": "i2",
+    "sahne": "Sahil boyunca yürüyen insanlar, palmiyeler ve kafe binası.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "şehir yaşamı",
-     "turizm haberi",
-     "sahil yürüyüşü"
+     "antalya tanıtım",
+     "sahil yürüyüşü",
+     "turizm haberi"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem haberi",
-     "iklim krizi eylemi",
-     "protesto haberi"
+     "greenpeace eylemi",
+     "iklim krizi haberi"
     ],
-    "yazi_filigran": "kucuk",
-    "yuz_belirgin": true,
-    "yuzler": [
-     [
-      557,
-      486,
-      608,
-      513
-     ]
-    ]
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
    },
-   "t": "2026-11-07T20:50:46+03:00",
+   "t": "2026-11-07T21:08:59+03:00",
    "teknik": {
     "doygunluk": 41.3,
     "inen": [
@@ -2428,7 +2576,7 @@
   "7fbb3329bc3eb5c2": {
    "icerik": {
     "ana_kutu": [
-     0,
+     330,
      0,
      1000,
      1000
@@ -2438,33 +2586,33 @@
     "karanlik": false,
     "kisi_sayisi": 5,
     "nesneler": [
+     "ahşap korkuluk",
      "sahil",
      "deniz",
      "dağ",
-     "korkuluk",
-     "yürüyüş yolu"
+     "seyir terası"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Güneşli günde sahil şeridi, deniz ve uzaktaki dağ manzarası",
+    "s": "i2",
+    "sahne": "Güneşli günde seyir terasından görünen sahil ve dağlar",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "turizm haberi",
-     "hava durumu",
+     "gezi rehberi",
      "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem haberi",
-     "ekonomi haberi",
-     "kaza haberi"
+     "eylem haberi",
+     "siyaset",
+     "kaza"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:46+03:00",
+   "t": "2026-11-07T21:08:54+03:00",
    "teknik": {
     "doygunluk": 25.8,
     "inen": [
@@ -2483,41 +2631,40 @@
   "810da0ec18982b76": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     58,
+     733,
+     218,
+     853
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
-     "yamaç paraşütü",
+     "parasailing",
      "dağ",
      "gökyüzü"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Açık havada yamaç paraşütü yapan bir kişi ve dağ manzarası",
+    "s": "i2",
+    "sahne": "Dağlar üzerinde parasailing yapan bir kişi",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "turizm haberleri",
+     "turizm",
      "tatil",
-     "ekstrem sporlar"
+     "su sporları"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol maç haberi",
-     "salon sporları",
-     "maç sonucu"
+     "voleybol maçı",
+     "kapalı salon"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:52+03:00",
+   "t": "2026-11-07T21:05:18+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -2536,9 +2683,9 @@
   "81675667c962c4ed": {
    "icerik": {
     "ana_kutu": [
-     262,
-     59,
-     617,
+     269,
+     63,
+     599,
      953
     ],
     "bulanik": false,
@@ -2548,30 +2695,30 @@
     "nesneler": [
      "yolcu uçağı",
      "akaryakıt tankeri",
-     "bagaj araçları",
-     "havalimanı apronu"
+     "yer hizmetleri aracı",
+     "havalimanı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Havalimanı pistinde bekleyen SunExpress uçağı ve yer hizmetleri araçları",
+    "s": "i2",
+    "sahne": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
      "havacılık haberleri",
-     "sürdürülebilirlik",
-     "havalimanı operasyonları"
+     "sürdürülebilir havacılık yakıtı",
+     "yer hizmetleri"
     ],
     "uygunsuz_baglamlar": [
      "kaza haberleri",
-     "spor haberleri",
-     "magazin"
+     "magazin",
+     "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:53+03:00",
+   "t": "2026-11-07T21:07:26+03:00",
    "teknik": {
     "doygunluk": 13.8,
     "inen": [
@@ -2590,66 +2737,65 @@
   "8227e57e0bfc56de": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     308,
+     498,
+     575,
+     642
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 10,
+    "kisi_sayisi": 9,
     "nesneler": [
      "toplantı masası",
-     "türk bayrağı",
-     "sandalyeler",
-     "not defteri"
+     "Türk bayrağı",
+     "sandalye"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Büyük bir masanın etrafında toplanmış yetkililer ve bakanlık heyeti.",
+    "s": "i2",
+    "sahne": "Toplantı masasında oturan heyet ve Türk bayrakları",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "resmi toplantı",
-     "kabine veya bakanlık görüşmesi",
-     "üst düzey kabul"
+     "kabine",
+     "siyaset"
     ],
     "uygunsuz_baglamlar": [
-     "gençlik buluşması",
-     "gönüllü etkinliği"
+     "spor",
+     "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      284,
-      13,
-      679,
-      276
+      272,
+      0,
+      786,
+      285
      ],
      [
-      356,
-      129,
-      659,
-      292
+      337,
+      755,
+      608,
+      831
      ],
      [
-      356,
-      212,
-      638,
-      404
+      337,
+      786,
+      756,
+      933
      ],
      [
-      338,
-      747,
-      591,
-      829
+      337,
+      810,
+      802,
+      994
      ]
     ]
    },
-   "t": "2026-11-07T20:47:03+03:00",
+   "t": "2026-11-07T21:06:35+03:00",
    "teknik": {
     "doygunluk": 19.6,
     "inen": [
@@ -2666,7 +2812,41 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_3.jpg/1280px-Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8510ecf75c3df014": {
-   "t": "2026-11-07T20:53:31+03:00",
+   "icerik": {
+    "ana_kutu": [
+     210,
+     230,
+     545,
+     745
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "kamyonet",
+     "meyve kasası",
+     "kisi"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kamyonet arkasında meyve kasalarıyla ilgilenen işçiler",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "hasat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "uluslararası zirve haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:10:53+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -2701,69 +2881,64 @@
   },
   "8ae609936fea2061": {
    "icerik": {
-    "ana_kutu": [
-     206,
-     0,
-     994,
-     989
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 18,
+    "kisi_sayisi": 15,
     "nesneler": [
      "toplantı masası",
      "bayrak",
-     "çiçek",
+     "harita",
      "su şişesi",
-     "tabak"
+     "çiçek"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Uzun bir toplantı masasında oturan siyasetçiler ve heyetler.",
+    "s": "i2",
+    "sahne": "Uzun bir toplantı masasında oturan kalabalık heyetler.",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "yabanci",
+    "ulke": "turkiye",
     "uygun_baglamlar": [
-     "siyaset haberi",
-     "diplomatik zirve",
-     "kabine toplantısı"
+     "üst düzey heyet görüşmesi",
+     "uluslararası zirve",
+     "diplomatik toplantı"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberi",
-     "magazin haberi",
-     "sanat haberi"
+     "yerel esnaf ziyareti",
+     "dernek buluşması",
+     "parti içi toplantı"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      349,
+      350,
       0,
       755,
-      187
+      172
      ],
      [
-      275,
-      93,
-      621,
-      244
+      281,
+      88,
+      620,
+      247
      ],
      [
-      273,
-      195,
-      529,
-      323
+      272,
+      192,
+      532,
+      324
      ],
      [
-      253,
-      283,
-      461,
-      417
+      335,
+      730,
+      936,
+      969
      ]
     ]
    },
-   "t": "2026-11-07T20:49:04+03:00",
+   "t": "2026-11-07T21:07:36+03:00",
    "teknik": {
     "doygunluk": 37.0,
     "inen": [
@@ -2783,65 +2958,66 @@
    "icerik": {
     "ana_kutu": [
      223,
-     0,
-     988,
-     988
+     126,
+     994,
+     524
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 6,
+    "kisi_sayisi": 7,
     "nesneler": [
      "ayna",
+     "sandalye",
      "masa",
-     "sandalye"
+     "makas"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Salonda saç kesim yarışması yapan kuaförler",
+    "s": "i2",
+    "sahne": "Salonda saç kesimi yapan kuaförler ve aynaya bakan müşteriler",
     "siyah_beyaz": true,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "kuaförlük yarışması",
-     "tarihi salon haberi",
-     "mesleki eğitim"
+     "kuaför salonu",
+     "eski berberler",
+     "saç bakımı"
     ],
     "uygunsuz_baglamlar": [
      "güncel yarışma",
-     "spor",
-     "siyaset"
+     "antalya haberi",
+     "ödül töreni"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
       262,
-      10,
-      344,
-      71
+      1,
+      591,
+      159
      ],
      [
-      225,
-      129,
-      604,
-      401
+      223,
+      128,
+      988,
+      381
      ],
      [
-      392,
-      321,
-      606,
-      452
+      389,
+      308,
+      622,
+      439
      ],
      [
-      275,
-      569,
-      452,
-      679
+      361,
+      437,
+      614,
+      583
      ]
     ]
    },
-   "t": "2026-11-07T20:52:16+03:00",
+   "t": "2026-11-07T21:09:43+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -2894,59 +3070,65 @@
   "96d0f52aa33036e6": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     113,
+     376,
+     996,
+     582
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 7,
     "nesneler": [
+     "takım elbise",
      "pano",
-     "giyim",
-     "çanta"
+     "sergi alanı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Murat Kurum ve beraberindeki heyet kapalı alanda yürürken görülüyor.",
+    "s": "i2",
+    "sahne": "Kapalı alanda yürüyen Murat Kurum ve beraberindeki heyet",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "uluslararası zirve",
-     "bakan ziyareti",
-     "müzakere"
+     "siyaset",
+     "uluslararası konferans",
+     "ziyaret"
     ],
     "uygunsuz_baglamlar": [
-     "antalya gençlik buluşması",
-     "yerli toplantı"
+     "spor",
+     "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      214,
-      137,
-      400,
-      296
-     ],
-     [
-      242,
+      213,
+      114,
       381,
-      781,
-      584
+      292
      ],
      [
-      302,
-      622,
+      240,
+      372,
+      995,
+      582
+     ],
+     [
+      328,
+      514,
+      959,
+      626
+     ],
+     [
+      299,
+      616,
       994,
       804
      ]
     ]
    },
-   "t": "2026-11-07T20:47:03+03:00",
+   "t": "2026-11-07T21:06:35+03:00",
    "teknik": {
     "doygunluk": 25.4,
     "inen": [
@@ -2965,10 +3147,10 @@
   "981dae1714eda3ae": {
    "icerik": {
     "ana_kutu": [
-     200,
-     245,
-     621,
-     825
+     217,
+     404,
+     513,
+     555
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -2977,29 +3159,28 @@
     "nesneler": [
      "kontrol kulesi",
      "pist",
-     "direk"
+     "apron",
+     "aydınlatma direği"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya Havalimanı kontrol kulesi ve pist görünümü.",
+    "s": "i2",
+    "sahne": "Antalya Havalimanı hava trafik kontrol kulesi",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havalimanı haberleri",
-     "turizm haberleri",
-     "Antalya haberleri"
+     "havacılık haberleri",
+     "Antalya turizm haberleri"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberleri",
-     "ekonomi analizleri",
-     "siyaset haberleri"
+     "spor müsabakaları",
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:02:48+03:00",
+   "t": "2026-11-07T21:09:49+03:00",
    "teknik": {
     "doygunluk": 26.0,
     "inen": [
@@ -3018,9 +3199,9 @@
   "99561dfaf9d2f06c": {
    "icerik": {
     "ana_kutu": [
-     200,
+     208,
      0,
-     1000,
+     995,
      1000
     ],
     "bulanik": false,
@@ -3029,32 +3210,30 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "şehir",
-     "binalar",
      "deniz",
-     "dağ",
-     "sahil"
+     "sahil",
+     "dağ"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Havadan çekilmiş Antalya şehir manzarası ve sahil şeridi",
+    "s": "i2",
+    "sahne": "Antalya sahil şeridinin ve şehir merkezinin havadan görünümü",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "Antalya haberleri",
+     "Antalya tanıtım",
      "turizm",
-     "şehir tanıtımı"
+     "şehir manzarası"
     ],
     "uygunsuz_baglamlar": [
-     "havacılık şirket detayları",
-     "kaza haberleri",
-     "spor haberleri"
+     "şirket finans raporu",
+     "uçak kazası"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:48:53+03:00",
+   "t": "2026-11-07T21:07:26+03:00",
    "teknik": {
     "doygunluk": 39.3,
     "inen": [
@@ -3073,43 +3252,40 @@
   "9cf59f6b7a7c331e": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     65,
+     2,
+     990,
+     995
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "kaleler",
+     "kale",
      "liman",
-     "şehir",
      "deniz",
-     "dağ"
+     "şehir"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Alanya Kalesi'nden sahilin ve limanın yüksekten genel görünümü",
+    "s": "i2",
+    "sahne": "Alanya Kalesi ve limanının yüksekten genel görünümü",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm",
-     "şehir tanıtımı",
-     "coğrafi haberler"
+     "Alanya manzarası",
+     "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol maç haberi",
-     "maç sonucu",
-     "spor turnuvası"
+     "voleybol turnuvası",
+     "maç haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:52+03:00",
+   "t": "2026-11-07T21:05:18+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -3127,59 +3303,65 @@
   },
   "9f7b00bc2519522a": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     193,
+     126,
+     917,
+     873
+    ],
     "bulanik": false,
-    "donem": "guncel",
+    "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 11,
     "nesneler": [
-     "futbol forması",
-     "reklam panosu",
-     "stadyum tribünü"
+     "turuncu forma",
+     "futbol topu",
+     "reklam panosu"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Turuncu formalı futbol takımı sahada poz veriyor.",
+    "s": "i2",
+    "sahne": "Turuncu formalı futbol takımı stadyumda maç öncesi dizilmiş poz veriyor.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "takım kadrosu",
-     "maç öncesi seremoni"
+     "takim kadrosu",
+     "mac oncesi dizilis"
     ],
     "uygunsuz_baglamlar": [
-     "Fenerbahçe maç haberi"
+     "fenerbahce maci",
+     "corum fk"
     ],
-    "yazi_filigran": "yok",
+    "yazi_filigran": "buyuk",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      205,
-      195,
-      300,
-      255
+      194,
+      196,
+      303,
+      258
      ],
      [
-      185,
-      310,
-      275,
-      365
+      175,
+      309,
+      321,
+      381
      ],
      [
-      200,
-      435,
-      290,
-      490
+      189,
+      401,
+      311,
+      497
      ],
      [
-      220,
-      535,
-      325,
-      595
+      216,
+      513,
+      335,
+      609
      ]
     ]
    },
-   "t": "2026-11-07T21:02:41+03:00",
+   "t": "2026-11-07T21:09:21+03:00",
    "teknik": {
     "doygunluk": 50.3,
     "inen": [
@@ -3216,41 +3398,40 @@
    "icerik": {
     "ana_kutu": [
      0,
-     0,
-     1000,
-     1000
+     100,
+     800,
+     750
     ],
     "bulanik": false,
-    "donem": "eski",
+    "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "dağ",
-     "heykel",
+     "kaya heykel",
      "ağaç",
      "çalı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya'da dağa oyulmuş dev Atatürk heykeli ve ağaçlar",
+    "s": "i2",
+    "sahne": "Antalya'da bulunan dev Atatürk kaya heykeli ve ağaçlar",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "şehir tanıtımı",
-     "turizm haberi",
-     "sanat haberi"
+     "Antalya tanıtım haberi",
+     "Atatürk heykeli haberleri",
+     "turizm haberi"
     ],
     "uygunsuz_baglamlar": [
      "futbol maçı haberi",
      "spor karşılaşması",
-     "maç sonucu"
+     "stadyum haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:47:43+03:00",
+   "t": "2026-11-07T21:06:47+03:00",
    "teknik": {
     "doygunluk": 18.5,
     "inen": [
@@ -3267,7 +3448,44 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a570d611cb5da5c1": {
-   "t": "2026-11-07T20:49:38+03:00",
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuğla duvar",
+     "merdiven",
+     "Türk bayrağı",
+     "kemerli pencereler"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kızılkule'nin iç avlusu ve tuğla duvarları.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi yapı haberleri",
+     "Alanya haberleri",
+     "müze tanıtımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:08:02+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -3286,10 +3504,10 @@
   "a6ce16d2ec3dbf54": {
    "icerik": {
     "ana_kutu": [
-     223,
+     232,
      137,
-     735,
-     788
+     715,
+     836
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -3303,25 +3521,26 @@
      "koni"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Açık havada uçak ve merdivenden inen yolcular",
+    "s": "i2",
+    "sahne": "Havalimanı pistinde bekleyen uçaklar ve merdivenden inen yolcular",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havalimanı haberi",
-     "uçak seferleri",
-     "turizm haberi"
+     "havalimanı haberleri",
+     "turizm",
+     "uçak seferleri"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakası",
-     "siyaset haberi"
+     "kaza kırım",
+     "protesto",
+     "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:56+03:00",
+   "t": "2026-11-07T21:09:07+03:00",
    "teknik": {
     "doygunluk": 51.1,
     "inen": [
@@ -3340,10 +3559,10 @@
   "a875d22a0b5f29b6": {
    "icerik": {
     "ana_kutu": [
-     300,
-     120,
-     820,
-     900
+     440,
+     137,
+     720,
+     391
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -3355,26 +3574,23 @@
      "kamera"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Turkish Ground Services (TGS) tabelası.",
+    "s": "i2",
+    "sahne": "Turkish Ground Services TGS tabelası",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "yer hizmetleri",
-     "Antalya Havalimanı"
+     "havacılık",
+     "yer hizmetleri"
     ],
     "uygunsuz_baglamlar": [
-     "turist sayısı haberleri",
-     "spor",
-     "magazin"
+     "turist istatistikleri"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:02:48+03:00",
+   "t": "2026-11-07T21:09:49+03:00",
    "teknik": {
     "doygunluk": 14.8,
     "inen": [
@@ -3409,40 +3625,44 @@
   },
   "ac90dd5e9c9582fe": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     287,
+     403,
+     843,
+     930
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
+     "hamam",
      "taş duvar",
      "kubbe",
-     "bina",
      "ağaç",
-     "tabela",
-     "bayrak direği"
+     "tabela"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Korkuteli'nde tarihi taş hamam binası ve çevresi",
+    "s": "i2",
+    "sahne": "Tarihi taş hamam binası ve kubbesi, ağaçlar ve mavi gökyüzü.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "tarihi eser haberi",
-     "turizm haberi",
-     "şehir tanıtımı"
+     "tarihi mekan haberi",
+     "korkuteli tanıtım",
+     "mimari haber"
     ],
     "uygunsuz_baglamlar": [
      "su kesintisi haberi",
-     "altyapı çalışması",
-     "kaza haberi"
+     "altyapı çalışmaları",
+     "günlük olaylar"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:27+03:00",
+   "t": "2026-11-07T21:09:31+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -3461,10 +3681,10 @@
   "ae5ddaefc2d8ed10": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     478,
+     363,
+     762,
+     856
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -3473,36 +3693,33 @@
     "nesneler": [
      "elektrik panosu",
      "kablo",
-     "çocuk"
+     "çocuk",
+     "duvar"
     ],
     "notr_portre": false,
-    "s": "i1",
+    "s": "i2",
     "sahne": "Karmaşık elektrik panoları önünde duran bir çocuk.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "elektrik kesintisi",
-     "altyapı sorunları",
-     "enerji"
-    ],
-    "uygunsuz_baglamlar": [
      "spor",
-     "ekonomi",
-     "magazin"
+     "magazin",
+     "sanat"
     ],
+    "uygunsuz_baglamlar": [],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      575,
-      620,
-      995,
-      755
+      578,
+      622,
+      990,
+      756
      ]
     ]
    },
-   "t": "2026-11-07T20:49:33+03:00",
+   "t": "2026-11-07T21:07:54+03:00",
    "teknik": {
     "doygunluk": 18.2,
     "inen": [
@@ -3521,48 +3738,61 @@
   "af8fe031edca2633": {
    "icerik": {
     "ana_kutu": [
-     200,
-     0,
-     1000,
-     1000
+     267,
+     342,
+     574,
+     980
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 25,
+    "kisi_sayisi": 30,
     "nesneler": [
      "toplantı masası",
      "mikrofon",
-     "pankart"
+     "pankart",
+     "bilgisayar"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Toplantı salonunda bir araya gelen kalabalık heyet ayakta duruyor.",
+    "s": "i2",
+    "sahne": "Toplantı salonunda bir araya gelen kalabalık grup ayakta poz veriyor",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "yabanci",
     "uygun_baglamlar": [
      "siyaset",
      "bakanlık ziyareti",
-     "toplantı"
+     "kurumsal toplantı"
     ],
     "uygunsuz_baglamlar": [
-     "magazin",
      "spor",
+     "magazin",
      "sanat"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      300,
-      460,
-      560,
-      500
+      303,
+      448,
+      569,
+      508
+     ],
+     [
+      304,
+      503,
+      555,
+      563
+     ],
+     [
+      330,
+      553,
+      514,
+      608
      ]
     ]
    },
-   "t": "2026-11-07T20:48:09+03:00",
+   "t": "2026-11-07T21:06:54+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -3665,31 +3895,32 @@
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "grafik",
-     "eksen",
-     "veri noktaları"
+     "çizgi grafik",
+     "veri noktaları",
+     "yıl ekseni",
+     "fiyat ekseni"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "2009-2024 yılları arası Slovakya asgari ücret değişim grafiği",
+    "s": "i2",
+    "sahne": "2009-2024 yıllarını kapsayan Slovakya asgari ücret artış grafiği",
     "siyah_beyaz": false,
     "tur": "harita_logo_belge",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "asgari ücret artışı",
-     "enflasyon",
-     "satın alma gücü grafiği"
+     "ekonomi",
+     "asgari ücret",
+     "enflasyon"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakası",
-     "yerel pazar",
+     "spor",
+     "sanat",
      "magazin"
     ],
-    "yazi_filigran": "yok",
+    "yazi_filigran": "buyuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:24+03:00",
+   "t": "2026-11-07T21:07:49+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -3708,42 +3939,40 @@
   "b485eb3c5492a269": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     145,
+     235,
+     775,
+     995
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 8,
+    "kisi_sayisi": 10,
     "nesneler": [
-     "voleybol sahası",
      "voleybol filesi",
-     "skor tabelası",
-     "seyirci tribünü"
+     "kum saha",
+     "sporcular",
+     "skor tabelası"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Kumsalda oynanan plaj voleybolu maçı ve çevredeki seyirciler",
+    "s": "i2",
+    "sahne": "Kum sahilde oynanan plaj voleybolu maçı",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
      "plaj voleybolu",
-     "spor haberleri",
-     "turnuva"
+     "spor karşılaşması"
     ],
     "uygunsuz_baglamlar": [
-     "siyaset",
-     "ekonomi",
-     "magazin"
+     "güncel turnuva",
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:52+03:00",
+   "t": "2026-11-07T21:05:18+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -3780,52 +4009,51 @@
    "icerik": {
     "ana_kutu": [
      103,
-     150,
-     908,
-     770
+     149,
+     938,
+     765
     ],
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
-     "büyük kupa",
+     "kupa",
      "plaket"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Büyük kupalar tutan iki kişi duruyor",
+    "s": "i2",
+    "sahne": "Büyük kupalar tutan iki kişi",
     "siyah_beyaz": true,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "ödül töreni haberi",
-     "yarışma derecesi",
-     "başarı haberi"
+     "ödül töreni",
+     "yarışma birinciliği"
     ],
     "uygunsuz_baglamlar": [
-     "güncel olay",
-     "politika",
-     "maç haberi"
+     "güncel yarışma",
+     "saç kesim anı",
+     "antalya haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      284,
-      206,
-      542,
-      388
+      303,
+      196,
+      563,
+      401
      ],
      [
-      105,
-      477,
-      362,
-      638
+      103,
+      411,
+      938,
+      765
      ]
     ]
    },
-   "t": "2026-11-07T20:52:16+03:00",
+   "t": "2026-11-07T21:09:43+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -3898,43 +4126,39 @@
   },
   "c5ededdd3bd750a1": {
    "icerik": {
-    "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "taş bina",
-     "çam ağacı",
-     "çim",
+     "ağaç",
+     "taş duvar",
+     "çimen",
+     "orman",
      "toprak yol"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Ormanlık alan içindeki tarihi taş yapı ve ağaçlar.",
+    "s": "i2",
+    "sahne": "Ağaçların arasında tarihi taş yapı ve ormanlık alan.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "tarih haberi",
-     "turizm haberi",
-     "yerel kültür"
+     "tarihi yapı haberi",
+     "Antalya turizm",
+     "arkeolojik sit alanı"
     ],
     "uygunsuz_baglamlar": [
-     "siyaset haberi",
-     "ekonomi haberi",
-     "spor haberi"
+     "siyasi ziyaret",
+     "ekonomi toplantısı",
+     "lider açıklaması"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:04+03:00",
+   "t": "2026-11-07T21:07:36+03:00",
    "teknik": {
     "doygunluk": 37.0,
     "inen": [
@@ -3951,7 +4175,46 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg/1280px-Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cb62245dfbf1fa5d": {
-   "t": "2026-11-07T20:49:38+03:00",
+   "icerik": {
+    "ana_kutu": [
+     307,
+     701,
+     664,
+     988
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Kızılkule",
+     "surlar",
+     "liman",
+     "deniz",
+     "şehir manzarası",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kızılkule, surlar ve Alanya limanının genel görünümü.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya turizm haberleri",
+     "tarihi yapı tanıtımları",
+     "şehir haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:08:02+03:00",
    "teknik": {
     "doygunluk": 20.8,
     "inen": [
@@ -3970,43 +4233,43 @@
   "ceb3c047d0326550": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     200,
+     250,
+     900,
+     980
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 5,
+    "kisi_sayisi": 0,
     "nesneler": [
-     "sahil",
+     "plaj",
      "deniz",
-     "dağ",
-     "tabela",
-     "şehir"
+     "dag",
+     "bitki",
+     "tabela"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Yukarıdan Konyaaltı Plajı ve arka planda dağlar.",
+    "s": "i2",
+    "sahne": "Karpuzkaldiran veya yakinindan Konyaalti plaji ve dag manzarasi",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm",
-     "şehir tanıtımı",
-     "plaj haberleri"
+     "turizm haberi",
+     "antalya haberi",
+     "plaj manzarasi"
     ],
     "uygunsuz_baglamlar": [
      "siyasi eylem",
-     "greenpeace",
-     "iklim zirvesi"
+     "greenpeace haberi",
+     "cop31 zirvesi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:38+03:00",
+   "t": "2026-11-07T21:08:39+03:00",
    "teknik": {
     "doygunluk": 19.9,
     "inen": [
@@ -4082,7 +4345,7 @@
      180,
      180,
      900,
-     920
+     930
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -4091,34 +4354,27 @@
     "nesneler": [
      "kale",
      "futbol topu",
-     "kaleci",
-     "futbolcular"
+     "kale ağı",
+     "reklam panosu"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Futbol maçında kaleci ve oyuncuların gol anı mücadelesi.",
+    "s": "i2",
+    "sahne": "Futbol maçında kaleci ve oyuncuların aksiyon anı",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "altyapı futbol turnuvası",
-     "gençler futbol maçı"
+     "altyapı futbol maçı",
+     "gençler turnuvası"
     ],
     "uygunsuz_baglamlar": [
-     "A milli takım haberi"
+     "A milli maç"
     ],
     "yazi_filigran": "yok",
-    "yuz_belirgin": true,
-    "yuzler": [
-     [
-      375,
-      420,
-      915,
-      610
-     ]
-    ]
+    "yuz_belirgin": false,
+    "yuzler": []
    },
-   "t": "2026-11-07T20:46:30+03:00",
+   "t": "2026-11-07T21:06:02+03:00",
    "teknik": {
     "doygunluk": 30.9,
     "inen": [
@@ -4137,41 +4393,37 @@
   "dc075df13ec68cb2": {
    "icerik": {
     "ana_kutu": [
-     300,
-     200,
+     308,
+     203,
      775,
-     815
+     810
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "elektrik saati",
+     "elektrik sayacı",
      "duvar",
      "kablo"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Duvara monte edilmiş üç adet elektrik saati.",
+    "s": "i2",
+    "sahne": "Duvara monte edilmiş üç adet gri elektrik sayacı.",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "yabanci",
     "uygun_baglamlar": [
-     "elektrik kesintisi",
-     "enerji tasarrufu",
-     "elektrik tarifesi"
+     "siyaset",
+     "spor",
+     "sanat"
     ],
-    "uygunsuz_baglamlar": [
-     "spor müsabakası",
-     "magazin",
-     "siyaset"
-    ],
+    "uygunsuz_baglamlar": [],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:33+03:00",
+   "t": "2026-11-07T21:07:54+03:00",
    "teknik": {
     "doygunluk": 10.8,
     "inen": [
@@ -4191,39 +4443,39 @@
    "icerik": {
     "ana_kutu": [
      121,
-     269,
-     998,
-     796
+     264,
+     1000,
+     804
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
+     "bigudi",
      "saç maşası",
-     "toka"
+     "tarak"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Kuaför salonda müşterinin saçını şekillendiriyor",
+    "s": "i2",
+    "sahne": "Kuaför saçlara bigudi ve maşa takıyor",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "kuaförlük hizmeti",
-     "saç bakım haberi",
+     "kuaförlük",
+     "saç tasarımı",
      "güzellik salonu"
     ],
     "uygunsuz_baglamlar": [
      "ödül töreni",
-     "yarışma derecesi",
-     "siyaset"
+     "yarışma derecesi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:52:16+03:00",
+   "t": "2026-11-07T21:09:43+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -4237,15 +4489,15 @@
     "parlaklik": 166,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3MzkyNXww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3NDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "dcaa37c3c40c863e": {
    "icerik": {
     "ana_kutu": [
      0,
-     0,
+     298,
      1000,
-     1000
+     946
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -4253,30 +4505,29 @@
     "kisi_sayisi": 3,
     "nesneler": [
      "yeşil mont",
-     "kırmızı kapşon",
-     "kalabalık"
+     "kırmızı kapüşon",
+     "sırt çantası"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Greenpeace yazılı yeşil montlu kişinin sırt görünümü.",
+    "s": "i2",
+    "sahne": "Sırtı dönük yeşil Greenpeace montlu bir eylemci.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "greenpeace",
-     "çevre eylemi",
-     "aktivizm"
+     "çevre eylemi detayı",
+     "Greenpeace haberi",
+     "iklim protestosu"
     ],
     "uygunsuz_baglamlar": [
-     "antalya haberleri",
-     "konyaaltı plajı",
-     "sahil eylemi"
+     "Antalya plaj haberi",
+     "ana eylem görseli"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:38+03:00",
+   "t": "2026-11-07T21:08:46+03:00",
    "teknik": {
     "doygunluk": 67.0,
     "inen": [
@@ -4290,7 +4541,7 @@
     "parlaklik": 103,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3NDg5OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "ded98d17dfce580a": {
    "icerik": {
@@ -4305,30 +4556,27 @@
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "elektrik saati",
-     "sayaç panosu"
+     "elektrik sayacı",
+     "pano",
+     "dijital ekran"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Duvara dizilmiş çok sayıda siyah beyaz elektrik saati.",
-    "siyah_beyaz": true,
+    "s": "i2",
+    "sahne": "Duvara yan yana dizilmiş çok sayıda dijital elektrik sayacı.",
+    "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "elektrik kesintisi",
-     "enerji",
-     "altyapı"
-    ],
-    "uygunsuz_baglamlar": [
      "spor",
      "magazin",
      "sanat"
     ],
+    "uygunsuz_baglamlar": [],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:33+03:00",
+   "t": "2026-11-07T21:07:54+03:00",
    "teknik": {
     "doygunluk": 23.5,
     "inen": [
@@ -4342,65 +4590,64 @@
     "parlaklik": 106,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDczNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDc0ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "e17e2422a68fc715": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
+     342,
+     169,
      1000,
-     1000
+     810
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 15,
+    "kisi_sayisi": 10,
     "nesneler": [
      "pankart",
-     "tişört",
+     "yeşil tişört",
      "kalabalık"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Kolları havada pankart tutan eylemciler ve kalabalık.",
+    "s": "i2",
+    "sahne": "Kürsüye benzer pankart tutan kalabalık arasında slogan atan kadın aktivist.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "iklim eylemi",
-     "greenpeace",
-     "çevre protestoları"
+     "iklim eylemi haberi",
+     "çevre protestosu",
+     "Greenpeace haberi"
     ],
     "uygunsuz_baglamlar": [
-     "antalya haberleri",
-     "konyaaltı plajı",
-     "cop31"
+     "Antalya yerel haberi",
+     "kapalı alan toplantısı"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      347,
-      508,
+      343,
+      502,
       706,
-      715
+      672
      ],
      [
-      452,
-      292,
-      994,
+      455,
+      303,
+      783,
       532
      ],
      [
-      505,
+      507,
       755,
-      994,
-      989
+      915,
+      966
      ]
     ]
    },
-   "t": "2026-11-07T20:50:38+03:00",
+   "t": "2026-11-07T21:08:46+03:00",
    "teknik": {
     "doygunluk": 25.9,
     "inen": [
@@ -4419,10 +4666,10 @@
   "e3df6586de687e30": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     540,
+     496,
+     870,
+     945
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -4436,33 +4683,33 @@
      "klima dış ünitesi"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya'da sokak ve sarı taksi",
+    "s": "i2",
+    "sahne": "Antalya'da kaldırım kenarında park etmiş sarı taksi.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "taksi haberi",
+     "taksi haberleri",
      "şehir içi ulaşım",
-     "Antalya yerel haber"
+     "esnaf sorunları"
     ],
     "uygunsuz_baglamlar": [
-     "uçak kazası",
-     "spor karşılaşması",
-     "ekonomi borsası"
+     "spor",
+     "siyaset genel",
+     "uluslararası ilişkiler"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      594,
-      743,
-      663,
-      797
+      593,
+      746,
+      646,
+      803
      ]
     ]
    },
-   "t": "2026-11-07T20:45:30+03:00",
+   "t": "2026-11-07T21:05:08+03:00",
    "teknik": {
     "doygunluk": 20.4,
     "inen": [
@@ -4481,41 +4728,41 @@
   "e4b4a926b1b1ce27": {
    "icerik": {
     "ana_kutu": [
-     356,
-     381,
-     998,
-     867
+     363,
+     230,
+     994,
+     874
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 3,
     "nesneler": [
+     "saç boyası",
      "eldiven",
      "raf",
-     "ürün şişeleri"
+     "ürünler"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Kuaför salonunda saç boyayan stilistler",
+    "s": "i2",
+    "sahne": "Kuaför salonunda müşterinin saçına işlem yapan kuaförler",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "kuaförlük hizmeti",
+     "kuaförlük",
      "saç boyama",
-     "güzellik salonu"
+     "güzellik merkezi"
     ],
     "uygunsuz_baglamlar": [
      "ödül töreni",
-     "yarışma derecesi",
-     "politika"
+     "yarışma derecesi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:52:16+03:00",
+   "t": "2026-11-07T21:09:43+03:00",
    "teknik": {
     "doygunluk": 31.0,
     "inen": [
@@ -4529,16 +4776,11 @@
     "parlaklik": 91,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3MzkyNXww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3NDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "ead73a422205258a": {
    "icerik": {
-    "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
@@ -4546,25 +4788,24 @@
     "nesneler": [
      "masa",
      "sandalye",
-     "garson",
      "ahşap zemin",
-     "ağaç"
+     "tepsi",
+     "deniz"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Sahil kenarındaki bir kafede yürüyen garson ve masa sandalyeler",
+    "s": "i2",
+    "sahne": "Deniz kenarındaki ahşap terasta yürüyen garson ve masa sandalyeler.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "kafe tanıtımı",
-     "sahil yaşamı",
-     "turizm haberi"
+     "turizm haberi",
+     "antalya haberi",
+     "kafe haberi"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem haberi",
-     "iklim zirvesi haberi",
-     "kriz haberi"
+     "greenpeace eylemi",
+     "iklim krizi haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
@@ -4573,11 +4814,11 @@
       485,
       891,
       532,
-      922
+      924
      ]
     ]
    },
-   "t": "2026-11-07T20:50:46+03:00",
+   "t": "2026-11-07T21:08:59+03:00",
    "teknik": {
     "doygunluk": 19.2,
     "inen": [
@@ -4613,41 +4854,40 @@
   "f01a6a701c5c5fa9": {
    "icerik": {
     "ana_kutu": [
-     350,
-     480,
-     775,
-     1000
+     447,
+     495,
+     764,
+     994
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 50,
+    "kisi_sayisi": 30,
     "nesneler": [
      "terminal",
      "yolcular",
-     "bagaj arabası"
+     "bavul",
+     "banko"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya Havalimanı iç hatlar terminali ve bekleyen yolcular.",
+    "s": "i2",
+    "sahne": "Geniş bir havalimanı terminal içi ve bekleyen yolcular",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "turizm haberleri",
-     "havalimanı yoğunluğu",
-     "turist haberleri"
+     "havalimanı yoğunluk haberleri"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberleri",
-     "magazin",
-     "teknoloji"
+     "spor",
+     "ekonomi analizleri"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:02:48+03:00",
+   "t": "2026-11-07T21:09:49+03:00",
    "teknik": {
     "doygunluk": 22.1,
     "inen": [
@@ -4665,57 +4905,52 @@
   },
   "f08bc61d5dafe762": {
    "icerik": {
-    "ana_kutu": [
-     93,
-     317,
-     994,
-     856
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
-     "takım elbise",
      "balkon",
+     "takım elbise",
      "şehir manzarası",
-     "gömlek",
-     "kravat"
+     "bina",
+     "ağaç"
     ],
     "notr_portre": false,
-    "s": "i1",
+    "s": "i2",
     "sahne": "Balkonda duran iki erkek siyasetçi şehir manzarasını izliyor.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "siyaset haberi",
-     "diplomatik ziyaret",
-     "portre haberi"
+     "siyasetçi portresi",
+     "uluslararası ziyaret",
+     "lider profili"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberi",
-     "magazin haberi",
-     "ekonomi haberi"
+     "yerel dernek ziyareti",
+     "ekonomi toplantısı",
+     "Antalya teması"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      117,
-      401,
-      370,
+      119,
+      396,
+      363,
       532
      ],
      [
-      163,
-      558,
-      381,
-      676
+      169,
+      523,
+      376,
+      672
      ]
     ]
    },
-   "t": "2026-11-07T20:49:04+03:00",
+   "t": "2026-11-07T21:07:36+03:00",
    "teknik": {
     "doygunluk": 27.3,
     "inen": [
@@ -4734,43 +4969,44 @@
   "f0d7d258667b996a": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     679,
+     698,
+     821,
+     871
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 0,
+    "kisi_sayisi": 1,
     "nesneler": [
      "sarı taksi",
-     "cadde",
      "bina",
      "cami minaresi",
-     "taksi durak kulübesi"
+     "durak kulübesi",
+     "otomobil",
+     "yol"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Antalya'da caddede sıralanmış sarı taksiler ve cami minaresi",
+    "s": "i2",
+    "sahne": "Antalya'da caddede sıralanmış sarı taksiler ve cami minaresi.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "taksi durağı haberi",
+     "taksi haberleri",
      "şehir içi ulaşım",
-     "Antalya haberleri"
+     "Antalya ulaşım"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakası",
-     "teknoloji lansmanı",
-     "magazin haberi"
+     "spor karşılaşmaları",
+     "magazin",
+     "ekonomi borsa"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:45:30+03:00",
+   "t": "2026-11-07T21:05:08+03:00",
    "teknik": {
     "doygunluk": 27.0,
     "inen": [
@@ -4788,39 +5024,43 @@
   },
   "f11c537aa6a86bc5": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     188,
+     3,
+     995,
+     622
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
-     "toprak kazısı",
+     "toprak kazı",
      "su borusu",
-     "ev",
-     "tuğla yığını",
-     "insan"
+     "köy evi",
+     "insan",
+     "toprak yığını"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Köy veya kasaba sokağında kazılmış su borusu hendeği ve toprak yığınları",
+    "s": "i2",
+    "sahne": "Kırsal bir sokakta kazılmış toprak su hattı ve borular.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
      "altyapı çalışması",
-     "su borusu döşeme",
-     "köy kazı çalışması"
+     "su hattı döşeme",
+     "kazı haberi"
     ],
     "uygunsuz_baglamlar": [
-     "deprem haberi",
-     "trafik kazası",
+     "şehir içi su kesintisi",
      "spor müsabakası"
     ],
     "yazi_filigran": "kucuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:27+03:00",
+   "t": "2026-11-07T21:09:31+03:00",
    "teknik": {
     "doygunluk": 23.1,
     "inen": [
@@ -4838,39 +5078,43 @@
   },
   "f12a0636a5220839": {
    "icerik": {
-    "ana_kutu": null,
+    "ana_kutu": [
+     559,
+     107,
+     750,
+     818
+    ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "kazı alanı",
-     "güvenlik bariyeri",
-     "tabela",
-     "yol",
-     "bulutlu gökyüzü"
+     "bariyer",
+     "toprak",
+     "mavi boru",
+     "yol"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Açık arazide yol kenarında su borusu döşeme çalışma alanı ve bariyerler",
+    "s": "i2",
+    "sahne": "Yol kenarında altyapı kazı çalışmaları yapılan açık arazi ve bariyerler.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
      "altyapı çalışması",
-     "boru hattı döşeme",
-     "kazı çalışması"
+     "kazı sahası",
+     "boru hattı döşeme"
     ],
     "uygunsuz_baglamlar": [
-     "trafik kazası",
-     "spor haberi",
-     "magazin"
+     "kapalı alan haberleri",
+     "spor etkinlikleri"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:51:27+03:00",
+   "t": "2026-11-07T21:09:31+03:00",
    "teknik": {
     "doygunluk": 29.1,
     "inen": [
@@ -4904,7 +5148,45 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_12.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f39290dc4c70af6f": {
-   "t": "2026-11-07T20:49:38+03:00",
+   "icerik": {
+    "ana_kutu": [
+     223,
+     252,
+     609,
+     467
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Kızılkule",
+     "tekneler",
+     "liman",
+     "binalar",
+     "minare",
+     "surlar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kızılkule ve limanın kuşbakışı görünümü.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya haberleri",
+     "tarihi yapı haberleri",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:08:02+03:00",
    "teknik": {
     "doygunluk": 30.0,
     "inen": [
@@ -4938,7 +5220,43 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg/1280px-Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f545eea18b2ad7f3": {
-   "t": "2026-11-07T20:53:31+03:00",
+   "icerik": {
+    "ana_kutu": [
+     385,
+     0,
+     540,
+     195
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kamyonet",
+     "kasa",
+     "ağaç",
+     "dağ",
+     "toprak yol"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kırsal alanda kamyonet, kasalar ve dağ manzarası",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "antalya haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "zirve haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T21:10:53+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -4968,29 +5286,30 @@
     "kisi_sayisi": 0,
     "nesneler": [
      "dünya haritası",
-     "renk lejandı"
+     "renk lejandı",
+     "veri görselleştirmesi"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Renklendirilmiş dünya asgari ücret haritası",
+    "s": "i2",
+    "sahne": "Dünya haritası üzerinde asgari ücret seviyelerini gösteren renkli veri haritası",
     "siyah_beyaz": false,
     "tur": "harita_logo_belge",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "asgari ücret",
      "küresel ekonomi",
-     "uluslararası karşılaştırma"
+     "asgari ücret",
+     "veri analizi"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakası",
      "magazin",
+     "spor",
      "yerel politika"
     ],
-    "yazi_filigran": "yok",
+    "yazi_filigran": "kucuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:24+03:00",
+   "t": "2026-11-07T21:07:49+03:00",
    "teknik": {
     "doygunluk": 14.7,
     "inen": [
@@ -5009,10 +5328,10 @@
   "f6f366199e930cea": {
    "icerik": {
     "ana_kutu": [
-     280,
-     0,
-     640,
-     1000
+     300,
+     50,
+     580,
+     630
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -5025,25 +5344,24 @@
      "deniz"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Otel terasında şezlonglar, deniz manzarası ve yürüyen bir kedi.",
+    "s": "i2",
+    "sahne": "Otel terasında şezlonglar ve kedi",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "otel haberi",
-     "turizm haberi",
-     "tatil haberi"
+     "otel",
+     "tatil",
+     "turizm"
     ],
     "uygunsuz_baglamlar": [
-     "kış haberi",
-     "spor haberi"
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:57+03:00",
+   "t": "2026-11-07T21:08:13+03:00",
    "teknik": {
     "doygunluk": 8.6,
     "inen": [
@@ -5061,12 +5379,7 @@
   },
   "f8666bf6374effb3": {
    "icerik": {
-    "ana_kutu": [
-     39,
-     0,
-     997,
-     998
-    ],
+    "ana_kutu": null,
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
@@ -5074,36 +5387,36 @@
     "nesneler": [
      "ceket",
      "gömlek",
-     "duvar deseni"
+     "duvar"
     ],
     "notr_portre": true,
-    "s": "i1",
-    "sahne": "Erkek siyasetçinin yakın plan gülen yüz portresi.",
+    "s": "i2",
+    "sahne": "Mavi ceketli bir erkeğin gülümseyen portresi.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "siyaset haberi",
-     "portre haberi",
-     "röportaj"
+     "siyasetçi portresi",
+     "profil haberi",
+     "lider tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberi",
-     "magazin haberi",
-     "hava durumu"
+     "maç haberi",
+     "doğa olayı",
+     "sokak röportajı"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      44,
-      269,
-      560,
-      735
+      49,
+      276,
+      552,
+      734
      ]
     ]
    },
-   "t": "2026-11-07T20:49:04+03:00",
+   "t": "2026-11-07T21:07:36+03:00",
    "teknik": {
     "doygunluk": 58.1,
     "inen": [
@@ -5122,42 +5435,42 @@
   "fb228ddab0fa19bb": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     140,
+     270,
+     500,
+     995
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "havalimanı körüğü",
+     "havalimanı pisti",
+     "körük",
      "kar",
-     "tabela",
-     "pist"
+     "tabela"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Karlı bir günde havalimanı apronu ve körük görünümü.",
+    "s": "i2",
+    "sahne": "Karlı bir gecede havalimanı pisti ve körük.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "havalimanı haberleri",
-     "uçuş iptali",
-     "kış turizmi"
+     "havacılık haberleri",
+     "hava durumu haberleri",
+     "uçuş gecikmeleri"
     ],
     "uygunsuz_baglamlar": [
+     "spor haberleri",
      "siyaset",
-     "spor",
      "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:50:04+03:00",
+   "t": "2026-11-07T21:08:17+03:00",
    "teknik": {
     "doygunluk": 76.3,
     "inen": [
@@ -5176,10 +5489,10 @@
   "fed7fc209ece6c57": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     110,
+     80,
+     550,
+     510
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -5189,28 +5502,26 @@
      "şemsiye",
      "merdiven",
      "köpek",
-     "yağmurluk"
+     "bina"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Yağmurlu günde merdivenlerde yürüyen insanlar ve sokak köpekleri.",
+    "s": "i2",
+    "sahne": "Yağmurlu günde sokakta yürüyen insanlar ve köpekler",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "sokak haberi",
-     "yağmur haberi",
-     "sokak hayvanları"
+     "sokak",
+     "yağmur"
     ],
     "uygunsuz_baglamlar": [
-     "turizm rekoru",
-     "tatil haberi"
+     "turizm otelcilik"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:49:57+03:00",
+   "t": "2026-11-07T21:08:13+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -5230,63 +5541,63 @@
    "icerik": {
     "ana_kutu": [
      80,
-     30,
+     40,
      870,
-     910
+     900
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 12,
+    "kisi_sayisi": 14,
     "nesneler": [
-     "futbolcular",
-     "forma",
+     "futbol forması",
      "çim saha",
-     "kalerey"
+     "kale arkası ağı"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Saha kenarında dizilmiş genç erkek futbolcular ve antrenman ortamı.",
+    "s": "i2",
+    "sahne": "Saha kenarında dizilmiş genç futbolcular",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "altyapı futbol turnuvası",
+     "altyapı turnuvası",
      "genç futbolcular"
     ],
     "uygunsuz_baglamlar": [
-     "A milli takım haberi"
+     "A milli maç",
+     "Süper Lig"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      200,
-      185,
-      830,
-      280
-     ],
-     [
-      185,
+      260,
       280,
-      850,
-      365
+      550,
+      360
      ],
      [
       180,
-      350,
-      850,
-      440
+      180,
+      820,
+      280
      ],
      [
-      155,
+      160,
       410,
       870,
-      500
+      490
+     ],
+     [
+      110,
+      490,
+      870,
+      590
      ]
     ]
    },
-   "t": "2026-11-07T20:46:30+03:00",
+   "t": "2026-11-07T21:06:02+03:00",
    "teknik": {
     "doygunluk": 42.2,
     "inen": [
@@ -5359,6 +5670,63 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ]
+  },
+  "2f96a54c7f563dba": {
+   "alt_tur": "kisi_benzer",
+   "boyut": [
+    644,
+    881
+   ],
+   "cekim_tarihi": "2021-11-23",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Beyaz ceketli erkek ellerini kavuşturmuş oturuyor.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:09:21+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "beIN SPORTS Türkiye / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "beIN SPORTS Türkiye",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Emre Belözoğlu",
+      "qid": "Q202569"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "beyaz ceket",
+    "kol saati"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png/500px-Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png",
+   "kullanilabilir": [
+    "teknik direktor aciklamasi",
+    "basin toplantisi",
+    "roportaj"
+   ],
+   "kullanilamaz": [
+    "canli mac",
+    "stadyum atmosferi"
+   ],
+   "notr_portre": true,
+   "qid": "Q202569",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-07T21:09:21+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ]
   },
@@ -5482,6 +5850,124 @@
     "detay"
    ]
   },
+  "42d9bccf79c236b4": {
+   "alt_tur": "kurum",
+   "boyut": [
+    1535,
+    1021
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Modern mimariye sahip Antalya Ticaret ve Sanayi Odası dış cephesi",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:06:54+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Muhsin Sevgen / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "Muhsin Sevgen",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_(2).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Ticaret ve Sanayi Odası",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bina",
+    "cam cephe",
+    "palmiye",
+    "tabela"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/500px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "ekonomi",
+    "ticaret odası",
+    "yerel haber"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "uluslararası zirve"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T21:06:54+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
+  "451d07c5f3e4f59a": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    536
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Alanya sahilinin gün batımındaki genel görünümü ve plaj voleybolu sahaları",
+   "gosterim_ad": "Alanya Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "ilk_kabul": "2026-11-07T21:05:18+03:00",
+   "kabul_sayisi": 2,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/avrupa-nin-plaj-voleybolu-yildizlari-alanya-da-kupa-icin-yarisiyor/126637"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bina",
+    "deniz",
+    "plaj voleybolu sahası",
+    "plaj voleybolu sahası, filesi ya da oyun",
+    "sahil",
+    "yol"
+   ],
+   "kucuk": "/images/kurum/256173dbfa65d23e.jpg",
+   "kullanilabilir": [
+    "Alanya haberleri",
+    "turizm tanıtımı",
+    "plaj voleybolu"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T21:06:39+03:00",
+   "url": "/images/kurum/256173dbfa65d23e.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ]
+  },
   "56426e87a6dc039d": {
    "alt_tur": "kurum",
    "boyut": [
@@ -5489,11 +5975,11 @@
     3939
    ],
    "cekim_tarihi": "2020",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Antik dönem mermer lahit üzerindeki kabartma figürler ve Medusa başı motifi",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Antik mermer lahit üzerindeki Medusa kabartması ve kanatlı figürler.",
    "gosterim_ad": "Antalya Nekropol Müzesi",
    "ilk_kabul": "2026-11-07T20:49:15+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Engin_Akyurt / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5520,24 +6006,25 @@
     "antik lahit",
     "dekoratif çelenk",
     "kabartma figür",
+    "kabartma heykel",
     "mermer lahit",
     "mezar kalıntıları"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg/500px-Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
-    "arkeoloji haberleri",
-    "tarihi eser keşifleri",
-    "müze tanıtımları"
+    "tarihi eser haberi",
+    "arkeoloji haberi",
+    "müze tanıtımı"
    ],
    "kullanilamaz": [
-    "güncel siyaset",
-    "spor müsabakaları",
-    "magazin"
+    "spor haberi",
+    "magazin haberi",
+    "ekonomi haberi"
    ],
    "notr_portre": false,
    "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T20:49:15+03:00",
+   "son_kabul": "2026-11-07T21:07:43+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg/1280px-Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -5553,11 +6040,11 @@
     1424
    ],
    "cekim_tarihi": "2023",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Bakan Murat Kurum'un yakın plan portre fotoğrafı.",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Murat Kurum'un yakın plan portre fotoğrafı",
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5581,24 +6068,25 @@
    },
    "konular": [
     "ceket",
-    "gömlek"
+    "gömlek",
+    "mavi ceket"
    ],
    "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg/500px-AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg",
    "kullanilabilir": [
-    "siyasetçi portresi",
-    "bakan haberi",
-    "kurum biyografisi"
+    "siyaset haberleri",
+    "biyografi"
    ],
    "kullanilamaz": [
-    "spordan kopuk etkinlik",
-    "farklı bir toplantı"
+    "spor",
+    "magazin"
    ],
    "notr_portre": true,
    "qid": "Q56125668",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T20:48:09+03:00",
+   "son_kabul": "2026-11-07T21:10:53+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
+    "manset",
     "detay"
    ]
   },
@@ -5609,11 +6097,11 @@
     4344
    ],
    "cekim_tarihi": "2025-08-16",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Havalimanı pistinde bekleyen SunExpress uçağı ve yer hizmetleri araçları",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T20:48:53+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "CAPTAIN RAJU / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5626,6 +6114,10 @@
    "kimlikler": {
     "kisiler": [],
     "kurumlar": [
+     {
+      "ad": "Havalimanı pistinde bekleyen SunExpress uçağı ve yer hizmetleri araçları",
+      "qid": "Q1137136"
+     },
      {
       "ad": "SunExpress",
       "qid": "Q1137136"
@@ -5641,24 +6133,154 @@
     "bagaj araçları",
     "havalimanı",
     "havalimanı apronu",
+    "yer hizmetleri aracı",
     "yolcu uçağı"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SunExpress_%28Dublin%29_in_2025.01.jpg/500px-SunExpress_%28Dublin%29_in_2025.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
     "havacılık haberleri",
-    "sürdürülebilirlik",
-    "havalimanı operasyonları"
+    "sürdürülebilir havacılık yakıtı",
+    "yer hizmetleri"
    ],
    "kullanilamaz": [
     "kaza haberleri",
-    "spor haberleri",
-    "magazin"
+    "magazin",
+    "spor"
    ],
    "notr_portre": false,
    "qid": "Q1137136",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T20:48:53+03:00",
+   "son_kabul": "2026-11-07T21:07:26+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SunExpress_%28Dublin%29_in_2025.01.jpg/1280px-SunExpress_%28Dublin%29_in_2025.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
+  "a6ce16d2ec3dbf54": {
+   "alt_tur": "kurum",
+   "boyut": [
+    5184,
+    3456
+   ],
+   "cekim_tarihi": "2017",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Havalimanı pistinde bekleyen uçaklar ve merdivenden inen yolcular",
+   "gosterim_ad": "Gazipaşa Alanya Havalimanı",
+   "ilk_kabul": "2026-11-07T21:09:11+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Bestalex / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Bestalex",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [
+     {
+      "ad": "Gazipaşa Alanya Havalimanı",
+      "qid": ""
+     }
+    ],
+    "yerler": []
+   },
+   "konular": [
+    "Gazipaşa Alanya Havalimanı",
+    "asfalt",
+    "koni",
+    "merdiven",
+    "uçak",
+    "yolcu"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/500px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "havalimanı haberleri",
+    "turizm",
+    "uçak seferleri"
+   ],
+   "kullanilamaz": [
+    "kaza kırım",
+    "protesto",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T21:09:11+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
+  "cb62245dfbf1fa5d": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4080,
+    3060
+   ],
+   "cekim_tarihi": "2025-08-31",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Kızılkule, surlar ve Alanya limanının genel görünümü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:08:02+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "August Dominus / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "August Dominus",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:ALANYA_2025.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Kızılkule",
+      "qid": "Q2470666"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Kızılkule",
+    "ağaçlar",
+    "deniz",
+    "liman",
+    "surlar",
+    "tarihi yapı",
+    "şehir manzarası"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/500px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Alanya turizm haberleri",
+    "tarihi yapı tanıtımları",
+    "şehir haberleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "teknoloji"
+   ],
+   "notr_portre": false,
+   "qid": "Q2470666",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T21:08:02+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/1280px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -5723,6 +6345,59 @@
     "detay"
    ]
   },
+  "ded98d17dfce580a": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4807,
+    3205
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Duvara yan yana dizilmiş çok sayıda dijital elektrik sayacı.",
+   "gosterim_ad": "elektrik kesintisi",
+   "ilk_kabul": "2026-11-07T21:07:55+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Jon Moore / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Jon Moore",
+    "sayfa": "https://unsplash.com/photos/black-and-white-electric-meter-0MKzwPmehRE"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "dijital ekran",
+    "elektrik saati, sayaç",
+    "elektrik sayacı",
+    "pano"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDc0ODcwfDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "spor",
+    "magazin",
+    "sanat"
+   ],
+   "kullanilamaz": [],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T21:07:55+03:00",
+   "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDc0ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
   "f01a6a701c5c5fa9": {
    "alt_tur": "nesne",
    "boyut": [
@@ -5730,11 +6405,11 @@
     2292
    ],
    "cekim_tarihi": "",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Antalya Havalimanı iç hatlar terminali ve bekleyen yolcular.",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Geniş bir havalimanı terminal içi ve bekleyen yolcular",
    "gosterim_ad": "Alman turist sayısındaki artış",
    "ilk_kabul": "2026-11-07T21:02:48+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Marcel Heinrichs / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5754,6 +6429,8 @@
    "konular": [
     "Antalya Havalimanı",
     "bagaj arabası",
+    "banko",
+    "bavul",
     "terminal",
     "turistler",
     "yolcular"
@@ -5761,22 +6438,19 @@
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/500px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
     "turizm haberleri",
-    "havalimanı yoğunluğu",
-    "turist haberleri"
+    "havalimanı yoğunluk haberleri"
    ],
    "kullanilamaz": [
-    "spor haberleri",
-    "magazin",
-    "teknoloji"
+    "spor",
+    "ekonomi analizleri"
    ],
    "notr_portre": false,
    "qid": "",
    "sinif": "konu",
-   "son_kabul": "2026-11-07T21:02:48+03:00",
+   "son_kabul": "2026-11-07T21:09:49+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
-    "yan",
     "kart",
     "detay"
    ]
@@ -5788,11 +6462,11 @@
     2620
    ],
    "cekim_tarihi": "2022-02-13",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Antalya'da caddede sıralanmış sarı taksiler ve cami minaresi",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Antalya'da caddede sıralanmış sarı taksiler ve cami minaresi.",
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-07T20:45:30+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5813,29 +6487,31 @@
     "bina",
     "cadde",
     "cami minaresi",
+    "durak kulübesi",
+    "otomobil",
     "sarı taksi",
     "taksi",
-    "taksi durak kulübesi"
+    "taksi durak kulübesi",
+    "yol"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/500px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
-    "taksi durağı haberi",
+    "taksi haberleri",
     "şehir içi ulaşım",
-    "Antalya haberleri"
+    "Antalya ulaşım"
    ],
    "kullanilamaz": [
-    "spor müsabakası",
-    "teknoloji lansmanı",
-    "magazin haberi"
+    "spor karşılaşmaları",
+    "magazin",
+    "ekonomi borsa"
    ],
    "notr_portre": false,
    "qid": "",
    "sinif": "konu",
-   "son_kabul": "2026-11-07T20:45:30+03:00",
+   "son_kabul": "2026-11-07T21:05:08+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
-    "yan",
     "kart",
     "detay"
    ]
@@ -5847,11 +6523,11 @@
     3024
    ],
    "cekim_tarihi": "2021-12-29",
-   "dogrulama_surumu": "h1-i1-y1",
-   "gosterdigi": "Otel terasında şezlonglar, deniz manzarası ve yürüyen bir kedi.",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Otel terasında şezlonglar ve kedi",
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-07T20:49:57+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Insidderr / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5878,23 +6554,81 @@
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/500px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
-    "otel haberi",
-    "turizm haberi",
-    "tatil haberi"
+    "otel",
+    "tatil",
+    "turizm"
    ],
    "kullanilamaz": [
-    "kış haberi",
-    "spor haberi"
+    "siyaset"
    ],
    "notr_portre": false,
    "qid": "",
    "sinif": "konu",
-   "son_kabul": "2026-11-07T20:49:57+03:00",
+   "son_kabul": "2026-11-07T21:08:13+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
+    "detay"
+   ]
+  },
+  "f8666bf6374effb3": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    641,
+    872
+   ],
+   "cekim_tarihi": "2022-05-21",
+   "dogrulama_surumu": "h1-i2-y2",
+   "gosterdigi": "Mavi ceketli bir erkeğin gülümseyen portresi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:07:36+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "Yıldız Yazıcıoğlu",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Ali Babacan",
+      "qid": "Q714518"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ceket",
+    "duvar",
+    "gömlek"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg/500px-Ali_Babacan%2C_May_21%2C_2022.jpg",
+   "kullanilabilir": [
+    "siyasetçi portresi",
+    "profil haberi",
+    "lider tanıtımı"
+   ],
+   "kullanilamaz": [
+    "maç haberi",
+    "doğa olayı",
+    "sokak röportajı"
+   ],
+   "notr_portre": true,
+   "qid": "Q714518",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-07T21:07:36+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ]
   }
