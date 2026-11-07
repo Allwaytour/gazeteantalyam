@@ -19,24 +19,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: 5d3728767989
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:04:38+03:00'
-    yontem: h1
-    model: ''
-  hat: h1e
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-07T23:54:13+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: kurum izniyle alınan olay fotoğrafı yalnızca kendi haberinde kullanılabilir
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Büşra Özdemir'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Yaşar Sobutay Bulvarı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yaşar Sobutay Bulva'
   kapak_surum: c8
-  zorla: h1-2026-11-07:12
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

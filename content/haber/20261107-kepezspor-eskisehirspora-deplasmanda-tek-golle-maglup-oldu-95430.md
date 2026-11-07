@@ -23,22 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: 4bcce068a9e6
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T22:40:26+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-07T23:55:46+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: aşırı karanlık (medyan parlaklık 49, karanlık pay %51)
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ret sonrası yeni arama yapılmadı: takım haberi: genel maç/oyuncu karesi başka takımı gösterir; yalnızca takımın kendi kaydı ya da kendi tesisi'
   kapak_surum: c8
 manset: false
 son_dakika: false

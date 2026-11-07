@@ -77,6 +77,27 @@ gorsel_secim:
       gerekce: Kapanan otelin binası ve tesisi net bir şekilde görülüyor, haberle doğrudan uyumlu.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  yerlesim:
+    boyut: &id001
+    - 5093
+    - 3540
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 50%
+    o_manset_m: 50% 50%
+    o_mansetyan_d: 50% 50%
+    o_mansetyan_m: 50% 50%
+    o_yan_d: 50% 50%
+    o_yan_t: 50% 50%
+    o_yan_m: 50% 50%
+    o_kart: 50% 50%
+    o_kart_p: 50% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -122,21 +143,24 @@ gorsel_gecmis:
     kapak_surum: c8
   degisim: '2026-11-07T20:54:40+03:00'
 gorsel_yerlesim:
-  boyut:
-  - 5093
-  - 3540
+  boyut: *id001
   dikey: false
-  surum: y1
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
-  o_manset_d: 50% 100%
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 88%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
   o_yan_t: 50% 50%
-  o_yan_m: 50% 100%
+  o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Alanya ilçesinde konuklarını ağırlayan 5 yıldızlı Insula Resort & Spa Hotel kapılarını kapattı. Denize sıfır konumuyla bilinen 294 odalı turizm tesisinin faaliyetlerine son verdiği ve kiraya verildiği öğrenildi.

@@ -85,6 +85,27 @@ gorsel_secim:
       gerekce: Parti logosu ve kurumsal kimliği yansıtan uygun bir mekan görseli.
   kurum: k5
   kurum_notu: Manavgat Belediyesi sayfası aynı haber değil (benzerlik %22)
+  yerlesim:
+    boyut: &id001
+    - 4032
+    - 3024
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 100%
+    o_manset_m: 50% 50%
+    o_mansetyan_d: 93% 50%
+    o_mansetyan_m: 93% 50%
+    o_yan_d: 50% 80%
+    o_yan_t: 50% 50%
+    o_yan_m: 50% 100%
+    o_kart: 50% 26%
+    o_kart_p: 99% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -96,15 +117,15 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Kadı Kadı / Wikimedia Commons (CC BY 2.0)'
 gorsel_yerlesim:
-  boyut:
-  - 4032
-  - 3024
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: false
   o_manset_d: 50% 100%
   o_manset_m: 50% 50%
   o_mansetyan_d: 93% 50%
@@ -113,6 +134,7 @@ gorsel_yerlesim:
   o_yan_t: 50% 50%
   o_yan_m: 50% 100%
   o_kart: 50% 26%
+  o_kart_p: 99% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 SONAR Araştırma tarafından paylaşılan ekim ayı kamuoyu araştırması, siyasi partilerin oy oranlarındaki son durumu gözler önüne serdi. Paylaşılan verilere göre, İyi Parti yüzde 10,91 oy oranıyla listede üçüncü parti konumuna yerleşti. Araştırma sonuçlarının ardından konuya ilişkin değerlendirmede bulunan İyi Parti Antalya İl Başkanlığı yönetimi, Genel Başkan Müsavat Dervişoğlu öncülüğünde sürdürülen çalışmaların aynı inançla devam edeceğini ifade etti.

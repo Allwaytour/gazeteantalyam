@@ -81,6 +81,25 @@ gorsel_secim:
       gerekce: Antalya'da bir otel ortamını gösterdiği için haberle oldukça uyumlu.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  yerlesim:
+    boyut: &id001
+    - 4032
+    - 3024
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 100%
+    o_manset_m: 50% 50%
+    o_yan_d: 50% 77%
+    o_yan_t: 50% 50%
+    o_yan_m: 50% 100%
+    o_kart: 50% 17%
+    o_kart_p: 50% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -123,21 +142,22 @@ gorsel_gecmis:
     kurum: k5
   degisim: '2026-11-07T23:46:15+03:00'
 gorsel_yerlesim:
-  boyut:
-  - 4032
-  - 3024
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: false
   o_manset_d: 50% 100%
   o_manset_m: 50% 50%
   o_yan_d: 50% 77%
   o_yan_t: 50% 50%
   o_yan_m: 50% 100%
   o_kart: 50% 17%
+  o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Kültür ve Turizm Bakanlığı tarafından paylaşılan konaklama verilerine göre, eylül ayında Türkiye genelinde otellere toplam 12 milyon 391 bin giriş yapıldı. Bu dönemde yurt genelinde toplam 33 milyon 451 bin geceleme kaydedilirken, ortalama geceleme süresi 2,70 gece, doluluk oranı ise yüzde 62,31 olarak açıklandı.

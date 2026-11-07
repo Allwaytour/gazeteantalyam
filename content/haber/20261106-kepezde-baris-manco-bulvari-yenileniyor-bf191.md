@@ -90,6 +90,24 @@ gorsel_secim:
   kurum: k5
   kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   zorla: h1-2026-11-07:10
+  yerlesim:
+    boyut: &id001
+    - 800
+    - 533
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 100%
+    o_manset_m: 41% 50%
+    o_yan_d: 50% 100%
+    o_yan_t: 41% 50%
+    o_yan_m: 50% 100%
+    o_kart: 50% 100%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -135,15 +153,15 @@ gorsel_gecmis:
     kapak_surum: c6
   degisim: '2026-11-06T12:49:49+03:00'
 gorsel_yerlesim:
-  boyut:
-  - 800
-  - 533
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: false
   o_manset_d: 50% 100%
   o_manset_m: 41% 50%
   o_yan_d: 50% 100%

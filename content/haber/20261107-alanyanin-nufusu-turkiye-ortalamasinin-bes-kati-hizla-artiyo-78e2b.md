@@ -81,6 +81,26 @@ gorsel_secim:
       gerekce: Alanya'nın genel şehir dokusunu ve yoğun yapılaşmasını gösterdiği için nüfus artışı haberine uygundur.
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %12); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16)
+  yerlesim:
+    boyut: &id001
+    - 3072
+    - 2304
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: false
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: true
+    o_manset_d: 50% 100%
+    o_manset_m: 50% 50%
+    o_mansetyan_d: 73% 50%
+    o_mansetyan_m: 73% 50%
+    o_yan_d: 50% 100%
+    o_yan_m: 50% 100%
+    o_kart: 50% 100%
+    o_kart_p: 76% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -92,15 +112,15 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Fotoğraf: Kornelka2 / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yerlesim:
-  boyut:
-  - 3072
-  - 2304
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: false
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: true
   o_manset_d: 50% 100%
   o_manset_m: 50% 50%
   o_mansetyan_d: 73% 50%
@@ -108,6 +128,7 @@ gorsel_yerlesim:
   o_yan_d: 50% 100%
   o_yan_m: 50% 100%
   o_kart: 50% 100%
+  o_kart_p: 76% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Türkiye'nin önemli turizm merkezlerinden biri olan Alanya, son yıllarda kaydettiği nüfus artış hızıyla dikkatleri üzerine çekiyor. Türkiye İstatistik Kurumu verilerine göre, 2015 yılında 291 bin 643 olan ilçe nüfusu, 2025 yılı itibarıyla 371 bin 547 kişiye ulaştı. Geride kalan on yıllık süreçte yaşanan yaklaşık seksen bin kişilik bu artış, bölgenin demografik yapısındaki değişimi gözler önüne seriyor.

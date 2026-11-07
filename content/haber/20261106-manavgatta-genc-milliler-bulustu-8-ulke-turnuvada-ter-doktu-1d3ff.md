@@ -29,15 +29,16 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T22:39:55+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
+    tarih: '2026-11-07T23:54:54+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %11)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'Türkiye dışına ait unsurlar (yanıltıcı yer); başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: yaşlı futbolcular, profesyonel A milli takım; habere uygunluk düşük (2/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem; zorunlu unsur görünmüyor: futbol maçı; zorunlu unsur görünmüyor: genç futbolcular'
+    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: yaşlı futbolcular, profesyonel A milli takım; habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (4/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem'
   kapak_surum: c8
 manset: false
 son_dakika: false

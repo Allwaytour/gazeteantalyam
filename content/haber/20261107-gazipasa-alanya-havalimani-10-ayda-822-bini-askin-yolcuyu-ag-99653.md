@@ -86,6 +86,25 @@ gorsel_secim:
       gerekce: Havalimanının kendisini doğrudan gösteren, haberle tam uyumlu bir görsel.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  yerlesim:
+    boyut: &id001
+    - 2239
+    - 1658
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 67%
+    o_manset_m: 50% 50%
+    o_yan_d: 50% 61%
+    o_yan_t: 50% 50%
+    o_yan_m: 50% 77%
+    o_kart: 50% 0%
+    o_kart_p: 50% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -127,21 +146,22 @@ gorsel_gecmis:
     kurum: k5
   degisim: '2026-11-07T23:05:10+03:00'
 gorsel_yerlesim:
-  boyut:
-  - 2239
-  - 1658
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: false
   o_manset_d: 50% 67%
   o_manset_m: 50% 50%
   o_yan_d: 50% 61%
   o_yan_t: 50% 50%
   o_yan_m: 50% 77%
   o_kart: 50% 0%
+  o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Gazipaşa Alanya Havalimanı, yılın ilk on ayında kaydettiği yolcu sayısıyla bölge turizmine önemli bir katkı sundu. Devlet Hava Meydanları İşletmesi Genel Müdürlüğü verilerine yansıyan rakamlara göre, ocak ve ekim ayları arasında toplam 822 bin 145 yolcu bu merkezi kullandı.

@@ -76,6 +76,21 @@ gorsel_secim:
       gerekce: Haberin ana öznesinin portre fotoğrafıdır, ancak güncel toplantı ortamını yansıtmaz.
   kurum: k5
   kurum_notu: Kepez Belediyesi sayfası aynı haber değil (benzerlik %22); Kepez Belediyesi sayfası aynı haber değil (benzerlik %50)
+  yerlesim:
+    boyut: &id001
+    - 1213
+    - 1424
+    dikey: true
+    surum: y3
+    manset: yan
+    yan: false
+    kart: false
+    detay: true
+    kart_portre: true
+    yan_portre: true
+    o_mansetyan_d: 50% 50%
+    o_mansetyan_m: 50% 50%
+    o_kart_p: 50% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -87,17 +102,18 @@ gorsel_onceki:
   gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yerlesim:
-  boyut:
-  - 1213
-  - 1424
+  boyut: *id001
   dikey: true
-  surum: y2
+  surum: y3
   manset: yan
   yan: false
   kart: false
   detay: true
+  kart_portre: true
+  yan_portre: true
   o_mansetyan_d: 50% 50%
   o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı hazırlıkları sürüyor. Bu kapsamda düzenlenen COP31 Gönüllüler Buluşması etkinliği gerçekleştirildi.

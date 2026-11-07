@@ -55,6 +55,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Under-sink_hot_water_boiler_and_tap_unit.jpg/1280px-Under-sink_hot_water_boiler_and_tap_unit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "02c7a45eb918ebed": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     250,
+     450,
+     320
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "minare",
+     "kiremit çatı",
+     "ağaç",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kaleiçi'nin genel şehir manzarası ve minareler.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "zirve hazırlıkları",
+     "konferans merkezi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nın genel bir manzarasıdır, zirve hazırlıkları veya konferans merkezi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:17+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:17+03:00",
+   "teknik": {
+    "doygunluk": 33.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.3,
+    "keskinlik": 2472,
+    "kontrast": 85,
+    "medyan": 95,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_city_view_-_panoramio_%281%29.jpg/1280px-Old_city_view_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0489b41d5c4f896d": {
    "icerik": {
     "ana_kutu": [
@@ -389,40 +475,128 @@
   "0e369e4a8d6abda6": {
    "icerik": {
     "ana_kutu": [
-     310,
-     480,
-     610,
-     950
+     0,
+     0,
+     1000,
+     1000
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
      "sandalye",
      "bayrak",
-     "konferans salonu",
-     "sahne"
+     "konferans salonu"
     ],
     "notr_portre": false,
-    "s": "i2",
+    "s": "i3",
     "sahne": "İyi Parti logolu bayraklarla süslenmiş boş bir konferans salonu.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "siyaset",
-     "parti etkinliği"
+     "siyaset"
     ],
     "uygunsuz_baglamlar": [
-     "sokak röportajı",
-     "ekonomi haberi"
+     "spor",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T23:05:06+03:00",
+   "iliski": {
+    "r1:5e1bc2283a6b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İyi Parti logoları haberle çelişmektedir, siyasi taraflılık yaratır.",
+      "gerekli": [
+       {
+        "unsur": "toplantı veya konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:11+03:00"
+    },
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta siyasi parti logoları ve pankartları bulunmaktadır, COP31 ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:17+03:00"
+    },
+    "r1:f0c8a1f63330:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir siyasi partinin toplantısına aittir, COP31 zirvesi ile hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:53+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:53+03:00",
    "teknik": {
     "doygunluk": 40.9,
     "inen": [
@@ -437,6 +611,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "111f1ab8ce082538": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     150,
+     900,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "radar ekranı",
+     "kontrol paneli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gemi köprüüstünde bulunan bir radar ekranı ve kontrol paneli.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "navigasyon",
+     "teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi",
+     "askeri operasyon"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Deniz veya gemi görseli içermiyor, sadece bir radar ekranı.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": false
+       },
+       {
+        "unsur": "gemi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:07+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:07+03:00",
+   "teknik": {
+    "doygunluk": 51.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.097,
+    "keskinlik": 1274,
+    "kontrast": 52,
+    "medyan": 109,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Navigation_system_on_a_merchant_ship_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "1249279455a00903": {
    "icerik": {
@@ -542,43 +802,299 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Turkish_parliament_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
-  "13086526d8f3f1b3": {
+  "12c19620fac7202b": {
    "icerik": {
     "ana_kutu": [
-     320,
-     220,
-     670,
-     980
+     168,
+     54,
+     915,
+     950
     ],
     "bulanik": false,
-    "donem": "eski",
+    "cekim": "genis",
+    "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 15,
+    "kisi_sayisi": 0,
     "nesneler": [
-     "kale",
-     "futbol sahası",
-     "çizgi",
-     "reklam panosu"
+     "saat kulesi",
+     "cami",
+     "minare",
+     "tarihi evler",
+     "ağaçlar"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Kapalı salonda veya tesiste genç futbolcuların oynadığı maç",
+    "s": "i3",
+    "sahne": "Antalya'da tarihi saat kulesi, cami ve eski şehir dokusu görünümü.",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "yabanci",
+    "ulke": "turkiye",
     "uygun_baglamlar": [
-     "gençler futbol turnuvası",
-     "altyapı maçı"
+     "turizm",
+     "şehir tanıtımı",
+     "tarihi mekan"
     ],
     "uygunsuz_baglamlar": [
-     "A milli maç",
-     "stadyum maçı"
+     "iklim zirvesi",
+     "siyaset",
+     "güncel olay"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:06:02+03:00",
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nın genel bir şehir manzarasıdır, zirve ile doğrudan bir görsel bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:42+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:42+03:00",
+   "teknik": {
+    "doygunluk": 26.4,
+    "inen": [
+     500,
+     326
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 3425,
+    "kontrast": 65,
+    "medyan": 149,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Antalya_Old_Town_View_from_high_%C4%B1n_2018_03.jpg/1280px-Antalya_Old_Town_View_from_high_%C4%B1n_2018_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "12c1b444cd2ecff2": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     100,
+     600,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 100,
+    "nesneler": [
+     "voleybol filesi",
+     "tribün",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şehir manzaralı bir plaj voleybolu turnuvası.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor",
+     "voleybol",
+     "turnuva"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Turnuva atmosferini ve voleybol maçını başarıyla yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       100,
+       600,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:58+03:00"
+    },
+    "r1:d76e42a35633:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu turnuvası genel görünümü, ancak yabancı bir şehir manzarası içerdiği için yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       130,
+       600,
+       870
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:03+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:03+03:00",
+   "teknik": {
+    "doygunluk": 38.6,
+    "inen": [
+     400,
+     188
+    ],
+    "karanlik_oran": 0.263,
+    "keskinlik": 1683,
+    "kontrast": 54,
+    "medyan": 78,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "13086526d8f3f1b3": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     130,
+     680,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "futbol topu",
+     "futbol kalesi",
+     "futbol sahası",
+     "hakem"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Futbol sahasında maç yapan genç kadın futbolcular ve hakem.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "futbol haberi",
+     "gençler turnuvası",
+     "spor etkinliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "erkek futbolu",
+     "yerel haber",
+     "profesyonel lig"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e4124f859564:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kadın futbolu olması ve başka bir turnuvaya ait olması nedeniyle temsilî olarak zayıf bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "genç futbolcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       330,
+       130,
+       680,
+       980
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yaşlı futbolcular",
+       "profesyonel A milli takım"
+      ]
+     },
+     "t": "2026-11-07T23:55:31+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:31+03:00",
    "teknik": {
     "doygunluk": 32.5,
     "inen": [
@@ -945,50 +1461,138 @@
   "226bc59d1be712a4": {
    "icerik": {
     "ana_kutu": [
-     250,
+     245,
      547,
-     810,
+     791,
      677
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
-     "erkek",
      "iş makinesi",
      "su birikintisi",
-     "toprak yığını",
-     "araba"
+     "toprak zemin",
+     "araç"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Açık alanda, su kenarında ve toprak yığınları arasında duran bir erkek ve arkasında iş makinesi.",
+    "s": "i3",
+    "sahne": "Açık alanda, su kenarında duran bir kişi ve arka planda iş makinesi.",
+    "sahne_turu": "diger",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "yabanci",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "iklim konferansı",
-     "çevre gezisi",
-     "enerji yatırımları"
+     "iklim değişikliği",
+     "çevre projesi",
+     "ziyaret"
     ],
     "uygunsuz_baglamlar": [
-     "mahkeme",
-     "suç haberi",
-     "spor karşılaşması"
+     "konferans",
+     "şehir içi etkinlik",
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      250,
-      584,
-      335,
-      629
+      245,
+      583,
+      315,
+      625
      ]
     ]
    },
-   "t": "2026-11-07T22:33:01+03:00",
+   "iliski": {
+    "r1:0308ffb376bf:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'da çekilmiş olup haberin konusu olan Antalya ve COP31 ile ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:06+03:00"
+    },
+    "r1:75ba8397dee1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'daki bir saha ziyaretini göstermektedir, Antalya'daki COP31 zirvesiyle görsel bir bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "zirve panosu",
+        "var": false
+       },
+       {
+        "unsur": "sürdürülebilirlik temalı görseller",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:38+03:00"
+    },
+    "r1:f0c8a1f63330:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'daki bir ziyarete aittir, COP31 veya Antalya-Rabat iş birliği ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:53+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:53+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -1111,43 +1715,75 @@
   "2663faae650e281e": {
    "icerik": {
     "ana_kutu": [
-     26,
      0,
-     992,
+     0,
+     1000,
      1000
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
      "akaryakıt pompası",
      "market",
-     "otomobil",
      "yangın tüpü",
-     "tabela"
+     "trafik konisi"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Bir akaryakıt istasyonu ve marketi görünmektedir.",
+    "s": "i3",
+    "sahne": "Bir akaryakıt istasyonunun pompa ve market alanı.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "akaryakıt",
      "ekonomi",
-     "ulaşım"
+     "akaryakıt istasyonu"
     ],
     "uygunsuz_baglamlar": [
      "denizcilik",
      "askeri operasyon",
-     "uluslararası ilişki"
+     "navtex"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T22:40:58+03:00",
+   "iliski": {
+    "r1:3460355d6911:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber denizcilik ve NAVTEX ile ilgili, ancak görsel bir benzin istasyonuna ait.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": false
+       },
+       {
+        "unsur": "gemi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:55:53+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:53+03:00",
    "teknik": {
     "doygunluk": 19.6,
     "inen": [
@@ -1220,43 +1856,73 @@
   "28178c22cede1853": {
    "icerik": {
     "ana_kutu": [
-     380,
+     250,
      0,
-     1000,
+     900,
      1000
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
+     "plaj",
      "deniz",
-     "sahil",
-     "dağ",
-     "bulut",
-     "kayalık"
+     "dağ"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Bulutlu havada deniz kıyısında uzanan sahil ve dağ manzarası",
+    "s": "i3",
+    "sahne": "Konyaaltı plajı ve dağ manzarası",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm haberi",
-     "hava durumu",
+     "turizm",
      "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
      "eylem haberi",
-     "siyaset",
-     "kaza"
+     "siyasi protesto"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:08:54+03:00",
+   "iliski": {
+    "r1:0c4e33b90616:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece plaj manzarası, haberin konusu olan eylemden hiçbir iz yok.",
+      "gerekli": [
+       {
+        "unsur": "sahilde açılmış dev pankart",
+        "var": false
+       },
+       {
+        "unsur": "Greenpeace aktivistleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:53:12+03:00"
+    }
+   },
+   "t": "2026-11-07T23:53:12+03:00",
    "teknik": {
     "doygunluk": 17.5,
     "inen": [
@@ -1327,39 +1993,77 @@
   "29585bacbd11f548": {
    "icerik": {
     "ana_kutu": [
-     235,
-     177,
-     626,
-     897
+     268,
+     175,
+     639,
+     890
     ],
     "bulanik": false,
-    "donem": "eski",
+    "cekim": "panorama",
+    "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "kruvaziyer gemisi",
-     "liman",
-     "deniz"
+     "yolcu gemisi",
+     "deniz",
+     "iskele"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Alanya limanında demirli büyük bir kruvaziyer gemisi",
+    "s": "i3",
+    "sahne": "Alanya limanında demirlemiş büyük bir yolcu gemisi.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm",
-     "liman",
-     "deniz taşımacılığı"
+     "turizm haberi",
+     "liman haberi"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol turnuvası"
+     "spor haberi",
+     "voleybol haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:18+03:00",
+   "iliski": {
+    "r1:e86b796573be:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber plaj voleybolu ile ilgili, ancak görselde sadece bir yolcu gemisi yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:54+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:54+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -1374,6 +2078,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg/1280px-Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2b8a770ee5e7df33": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     100,
+     700,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yük gemisi",
+     "deniz",
+     "küçük tekne"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık denizde seyreden büyük bir yük gemisi.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "lojistik",
+     "deniz ticareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan denizcilik ve gemi unsurlarını temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "gemi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       100,
+       700,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:07+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:07+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     400,
+     298
+    ],
+    "karanlik_oran": 0.086,
+    "keskinlik": 276,
+    "kontrast": 61,
+    "medyan": 164,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "2d5a3be02b38f29c": {
    "icerik": {
@@ -1490,6 +2285,92 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "31fd8d0b946c62fb": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     100,
+     950,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gökdelenler",
+     "kongre merkezi",
+     "havuz",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "San Francisco'da bir şehir merkezi ve kongre merkezi binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari",
+     "yurt dışı haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "türkiye haberleri",
+     "antalya haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf San Francisco'ya aittir, Antalya'daki zirve haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:42+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:42+03:00",
+   "teknik": {
+    "doygunluk": 45.5,
+    "inen": [
+     1280,
+     986
+    ],
+    "karanlik_oran": 0.182,
+    "keskinlik": 1830,
+    "kontrast": 46,
+    "medyan": 79,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Yerba_Buena_Gardens%2C_built_atop_Moscone_Convention_Center%2C_San_Francisco%2C_California_LCCN2011635401.tif/lossy-page1-1280px-Yerba_Buena_Gardens%2C_built_atop_Moscone_Convention_Center%2C_San_Francisco%2C_California_LCCN2011635401.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "32af051e13e655f4": {
    "t": "2026-11-07T20:49:28+03:00",
@@ -1636,48 +2517,68 @@
   "3781092e6401f525": {
    "icerik": {
     "ana_kutu": [
-     342,
-     45,
-     687,
-     196
+     360,
+     40,
+     680,
+     200
     ],
-    "bulanik": true,
+    "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
-    "karanlik": true,
-    "kisi_sayisi": 30,
+    "karanlik": false,
+    "kisi_sayisi": 100,
     "nesneler": [
      "dev ekran",
      "sahne",
-     "kürsü",
-     "izleyici"
+     "konuşmacı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Büyük ekranlı bir salonda kürsüde konuşma yapan kişi ve izleyiciler.",
+    "s": "i3",
+    "sahne": "Bir sahnede konuşma yapan kişi ve dev ekranlar.",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "siyaset haberi",
-     "zirve haberi",
-     "konferans haberi"
+     "siyaset",
+     "etkinlik"
     ],
     "uygunsuz_baglamlar": [
-     "magazin haberi",
-     "spor haberi"
+     "spor"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
-    "yuzler": [
-     [
-      339,
-      83,
-      439,
-      144
-     ]
-    ]
+    "yuzler": []
    },
-   "t": "2026-11-07T21:10:47+03:00",
+   "iliski": {
+    "r1:5e1bc2283a6b:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın başka bir etkinlikteki görüntüsüdür, COP31 ile ilgisi yoktur ancak ortamı yansıtır.",
+      "gerekli": [
+       {
+        "unsur": "toplantı veya konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:11+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:11+03:00",
    "teknik": {
     "doygunluk": 73.4,
     "inen": [
@@ -1692,6 +2593,241 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_17.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "378476e0814ca962": {
+   "icerik": {
+    "ana_kutu": [
+     420,
+     360,
+     770,
+     610
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "voleybol topu",
+     "kum"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kum üzerinde duran bir plaj voleybolu topu.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "voleybol haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece topu gösteriyor, turnuva veya saha atmosferi hakkında bilgi vermiyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:34+03:00"
+    },
+    "r1:d76e42a35633:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu topu ve saha zemini temsilî olarak uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       360,
+       780,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:03+03:00"
+    },
+    "r1:e86b796573be:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu topu, haberin konusuyla doğrudan ilişkili temsilî bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       360,
+       770,
+       610
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:54+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:03+03:00",
+   "teknik": {
+    "doygunluk": 39.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.25,
+    "keskinlik": 285,
+    "kontrast": 64,
+    "medyan": 134,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "3a084d6e4cb296e8": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     375,
+     680,
+     575
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "voleybol topu",
+     "kum"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda duran bir voleybol topu.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "voleybol haberi",
+     "spor ekipmanı",
+     "plaj voleybolu"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "ekonomi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece bir top görseli, turnuva heyecanını veya Alanya'daki kupa mücadelesini yansıtmaktan çok uzak.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": false
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:40+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:40+03:00",
+   "teknik": {
+    "doygunluk": 24.6,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.008,
+    "keskinlik": 700,
+    "kontrast": 33,
+    "medyan": 197,
+    "parlaklik": 187,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1645398709708-eca899c71a11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "3e846000e879df1e": {
    "icerik": {
@@ -1924,41 +3060,116 @@
    "icerik": {
     "ana_kutu": [
      590,
-     285,
-     875,
+     280,
+     900,
      610
     ],
     "bulanik": false,
+    "cekim": "panorama",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "plaj voleybolu sahası",
+     "futbol sahası",
+     "deniz",
      "sahil",
-     "bina",
-     "yol",
-     "deniz"
+     "şehir"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Alanya sahilinin gün batımındaki genel görünümü ve plaj voleybolu sahaları",
+    "s": "i3",
+    "sahne": "Alanya sahilinde gün batımı, plaj voleybolu sahaları ve futbol sahası içeren spor tesisi.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "Alanya haberleri",
-     "turizm tanıtımı",
-     "plaj voleybolu"
+     "spor tesisi tanıtımı",
+     "Alanya turizm",
+     "etkinlik alanı"
     ],
     "uygunsuz_baglamlar": [
-     "siyaset",
-     "ekonomi"
+     "maç haberi",
+     "sporcu portresi",
+     "aksiyon karesi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:18+03:00",
+   "iliski": {
+    "r1:834bc02dd005:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'daki turnuva alanını gösteren genel bir plan, etkinlik atmosferini yansıtmak için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       590,
+       470,
+       890,
+       610
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:34+03:00"
+    },
+    "r1:e86b796573be:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Etkinliğin yapıldığı tesisin genel görünümü, ancak müsabaka anını veya sporcuları içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       590,
+       280,
+       900,
+       610
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:44+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:34+03:00",
    "teknik": {
     "doygunluk": 57.5,
     "inen": [
@@ -2160,43 +3371,176 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calle_Larga_at_night_during_power_cut.jpg/1280px-Calle_Larga_at_night_during_power_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
-  "4d69b680904b3b07": {
+  "4d106ea4c232d0f4": {
    "icerik": {
     "ana_kutu": [
-     320,
      400,
-     770,
-     730
+     0,
+     950,
+     1000
     ],
     "bulanik": false,
-    "donem": "eski",
+    "cekim": "orta",
+    "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 12,
+    "kisi_sayisi": 8,
     "nesneler": [
-     "futbol topu",
-     "futbolcular",
-     "tribün",
-     "çim saha"
+     "voleybol filesi",
+     "voleybol topu",
+     "kum"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Eski dönem siyah beyaz futbol maçında kafa topu mücadelesi yapan futbolcular",
-    "siyah_beyaz": true,
+    "s": "i3",
+    "sahne": "Sahilde voleybol oynayan bir grup insan.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "tarihi futbol maçı",
-     "nostaljik futbol"
+     "spor",
+     "voleybol",
+     "plaj"
     ],
     "uygunsuz_baglamlar": [
-     "güncel turnuva",
-     "Manavgat turnuvası"
+     "siyaset",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:06:02+03:00",
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçını göstermektedir, ancak profesyonel turnuva atmosferinden ziyade amatör bir maçı andırıyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       0,
+       950,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:58+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:58+03:00",
+   "teknik": {
+    "doygunluk": 20.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.116,
+    "keskinlik": 2204,
+    "kontrast": 65,
+    "medyan": 188,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Continuing_Promise_2024_personnel_play_sports_with_members_of_the_Fuerza_Naval_de_Honduras_as_part_of_a_community_relations_event_%288555149%29.jpg/1280px-Continuing_Promise_2024_personnel_play_sports_with_members_of_the_Fuerza_Naval_de_Honduras_as_part_of_a_community_relations_event_%288555149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4d69b680904b3b07": {
+   "icerik": {
+    "ana_kutu": [
+     320,
+     260,
+     750,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "futbol topu",
+     "futbol sahası",
+     "futbol forması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski dönem futbol maçı karesi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "futbol tarihi",
+     "nostalji"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "gençler turnuvası",
+     "spor etkinliği"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e4124f859564:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf siyah-beyaz ve çok eski dönemden, güncel bir gençlik turnuvası haberiyle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "genç futbolcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       260,
+       750,
+       750
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yaşlı futbolcular",
+       "profesyonel A milli takım"
+      ]
+     },
+     "t": "2026-11-07T23:55:31+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:31+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
@@ -2212,6 +3556,115 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shrewsbury_Town_v_Shrewsbury_Youth_football_match_%281455555%29.jpg/1280px-Shrewsbury_Town_v_Shrewsbury_Youth_football_match_%281455555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4d96033bad0b27cf": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     650,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "konser sahnesi",
+     "sahne ışıkları",
+     "müzik grubu",
+     "izleyiciler",
+     "hoparlör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada konser sahnesi ve önünde kalabalık bir izleyici grubu görülüyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "etkinlik duyurusu",
+     "festival haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "kaza haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      620,
+      150,
+      850,
+      280
+     ],
+     [
+      680,
+      580,
+      920,
+      710
+     ],
+     [
+      620,
+      730,
+      850,
+      860
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:05b98b1641d7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki konser etkinliğini temsil eden uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "konser sahnesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       650,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:26+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:26+03:00",
+   "teknik": {
+    "doygunluk": 41.4,
+    "inen": [
+     1080,
+     724
+    ],
+    "karanlik_oran": 0.378,
+    "keskinlik": 1917,
+    "kontrast": 61,
+    "medyan": 72,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "4de16afa41bdd510": {
    "icerik": {
     "ana_kutu": [
@@ -2221,32 +3674,70 @@
      1000
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "lahit kapağı",
-     "mermer heykel"
+     "lahit",
+     "heykel",
+     "mermer"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Müzede sergilenen antik lahit kapağı üzerindeki uzanan kadın heykeli.",
+    "s": "i3",
+    "sahne": "Müzede sergilenen antik mermer lahit kapağı üzerindeki uzanan figür.",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
      "arkeoloji haberi",
-     "tarihi eser sergisi"
+     "müze tanıtımı",
+     "tarihi eser"
     ],
     "uygunsuz_baglamlar": [
-     "güncel politika",
-     "spor"
+     "siyaset",
+     "spor",
+     "güncel olay"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:43+03:00",
+   "iliski": {
+    "r1:babf5bec81de:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen antik lahitlerden birinin detaylı ve net bir görselidir.",
+      "gerekli": [
+       {
+        "unsur": "antik lahit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:08+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:08+03:00",
    "teknik": {
     "doygunluk": 25.4,
     "inen": [
@@ -2369,39 +3860,76 @@
   "5413f6c1ef4c7622": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     50,
+     50,
+     950,
+     950
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "mermer lahit",
-     "mitolojik kabartma",
-     "savaşçı figürleri"
+     "lahit",
+     "kabartma",
+     "heykel"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Mermer lahit üzerinde mitolojik figürlerin yer aldığı kabartma sahne.",
+    "s": "i3",
+    "sahne": "Antik lahit üzerinde savaşçı figürlerinin olduğu mermer kabartma.",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
      "arkeoloji haberi",
-     "tarihi eser sergisi"
+     "müze tanıtımı",
+     "tarihi eser"
     ],
     "uygunsuz_baglamlar": [
-     "güncel politika",
-     "spor"
+     "siyaset",
+     "spor",
+     "güncel olay"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:43+03:00",
+   "iliski": {
+    "r1:babf5bec81de:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen antik lahitlerden birinin detaylı ve net bir görselidir.",
+      "gerekli": [
+       {
+        "unsur": "antik lahit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:08+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:08+03:00",
    "teknik": {
     "doygunluk": 14.5,
     "inen": [
@@ -2590,41 +4118,76 @@
   "56426e87a6dc039d": {
    "icerik": {
     "ana_kutu": [
-     118,
-     0,
-     817,
-     1000
+     120,
+     180,
+     880,
+     820
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "mermer lahit",
-     "kabartma heykel",
-     "Medusa başı"
+     "lahit",
+     "kabartma",
+     "mermer"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antik mermer lahit üzerindeki Medusa kabartması ve kanatlı figürler.",
+    "s": "i3",
+    "sahne": "Antik mermer lahit üzerindeki Medusa başı ve figürlü kabartma detayı.",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "tarihi eser haberi",
      "arkeoloji haberi",
-     "müze tanıtımı"
+     "müze tanıtımı",
+     "tarihi eser"
     ],
     "uygunsuz_baglamlar": [
-     "spor haberi",
-     "magazin haberi",
-     "ekonomi haberi"
+     "siyaset",
+     "spor",
+     "güncel olay"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:43+03:00",
+   "iliski": {
+    "r1:babf5bec81de:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen antik lahitlerden birinin detaylı ve net bir görselidir.",
+      "gerekli": [
+       {
+        "unsur": "antik lahit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       120,
+       180,
+       880,
+       820
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:08+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:08+03:00",
    "teknik": {
     "doygunluk": 19.8,
     "inen": [
@@ -2768,43 +4331,74 @@
   "5d1eab52dd9d6b93": {
    "icerik": {
     "ana_kutu": [
-     486,
-     0,
-     1000,
-     1000
+     500,
+     100,
+     950,
+     900
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 3,
     "nesneler": [
-     "bilgisayar monitörü",
+     "bilgisayar ekranı",
      "klavye",
      "ofis koltuğu",
-     "klima",
-     "duvar ekranı"
+     "duvar yazısı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Ofiste bilgisayar ekranları ve duvardaki çoklu monitörlerde kameraları izleyen üç kişi",
+    "s": "i3",
+    "sahne": "Antalya Büyükşehir Belediyesi Elektronik Gemi Denetim Merkezi'nde çalışan üç kişi ve ekranlar.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "yerel yönetim",
-     "teknoloji merkezi",
-     "güvenlik izleme"
+     "belediye haberi",
+     "teknoloji haberi"
     ],
     "uygunsuz_baglamlar": [
-     "iklim zirvesi",
-     "uluslararası konferans",
-     "spor maçı"
+     "COP31 haberi",
+     "uluslararası zirve"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T22:30:20+03:00",
+   "iliski": {
+    "r1:f0c8a1f63330:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki bir yerel birimle ilgilidir, COP31 zirvesi veya çevre iş birliğiyle alakası yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:53+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:53+03:00",
    "teknik": {
     "doygunluk": 30.7,
     "inen": [
@@ -2985,6 +4579,83 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/In_the_Winner%27s_Circle_-_DPLA_-_2fbeba9fb6643c40c1d9ecfee207039e.jpg/1280px-In_the_Winner%27s_Circle_-_DPLA_-_2fbeba9fb6643c40c1d9ecfee207039e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6497172fa9907532": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "evler",
+     "ağaçlar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yerleşim yeri, evler ve arkada dağ manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "gezi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d797366af7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan genel bir yerleşim yeri fotoğrafıdır, COP31 ile ilişkisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:19+03:00"
+    }
+   },
+   "t": "2026-11-07T23:59:19+03:00",
+   "teknik": {
+    "doygunluk": 34.3,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.244,
+    "keskinlik": 2409,
+    "kontrast": 53,
+    "medyan": 114,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Panoramio_-_V%26A_Dudush_-_Sport_centre_vicinities_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "6637361db2b84bf6": {
    "icerik": {
     "ana_kutu": [
@@ -3095,28 +4766,27 @@
   "69b99e6cccf3be2b": {
    "icerik": {
     "ana_kutu": [
-     35,
-     1,
-     999,
-     1000
+     100,
+     200,
+     900,
+     800
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
-    "nesneler": [
-     "mavi ceket",
-     "gömlek"
-    ],
+    "nesneler": [],
     "notr_portre": true,
-    "s": "i2",
-    "sahne": "Murat Kurum'un yakın plan portre fotoğrafı",
+    "s": "i3",
+    "sahne": "Murat Kurum'un vesikalık portre fotoğrafı.",
+    "sahne_turu": "portre",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "siyaset haberleri",
-     "biyografi"
+     "siyaset",
+     "haber"
     ],
     "uygunsuz_baglamlar": [
      "spor",
@@ -3126,14 +4796,68 @@
     "yuz_belirgin": true,
     "yuzler": [
      [
-      88,
-      301,
-      629,
-      814
+      100,
+      200,
+      900,
+      800
      ]
     ]
    },
-   "t": "2026-11-07T21:06:35+03:00",
+   "iliski": {
+    "r1:0308ffb376bf:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan Bakan Murat Kurum'un güncel ve uygun bir portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:06+03:00"
+    },
+    "r1:5e1bc2283a6b:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan Bakan Murat Kurum'un arşiv portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       200,
+       900,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:11+03:00"
+    }
+   },
+   "t": "2026-11-07T23:59:06+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -3203,6 +4927,157 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg/1280px-Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6b98794efb86b6b2": {
+   "t": "2026-11-07T23:58:23+03:00",
+   "teknik": {
+    "doygunluk": 21.4,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.841,
+    "keskinlik": 634,
+    "kontrast": 43,
+    "medyan": 21,
+    "parlaklik": 33,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nick_Borrego_-_Best_Companies_Award.jpg/1280px-Nick_Borrego_-_Best_Companies_Award.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6bc676e24e86a7c9": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     350,
+     950,
+     820
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "voleybolcu",
+     "güneş gözlüğü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Güneş gözlüklü bir kadın voleybolcu servis atışı yapıyor.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "voleybol haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      300,
+      570,
+      550,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu aksiyonu var ancak yabancı sponsor tabelası ve mekanın Alanya olmadığı izlenimi baskın.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       350,
+       1000,
+       820
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:40+03:00"
+    },
+    "r1:e86b796573be:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir plaj voleybolu karesi, haberin konusuyla uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       350,
+       950,
+       820
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:54+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:40+03:00",
+   "teknik": {
+    "doygunluk": 27.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 503,
+    "kontrast": 58,
+    "medyan": 124,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Oakley_sunglasses_at_volleyball_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "6e4ace25ef64d248": {
    "icerik": {
@@ -3316,38 +5191,71 @@
   "7547c0c0d7ff88c5": {
    "icerik": {
     "ana_kutu": [
-     156,
-     4,
-     717,
-     966
+     280,
+     50,
+     720,
+     950
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "yolcu uçağı",
-     "gökyüzو"
+     "yolcu uçağı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Mavi gökyüzünde uçmakta olan SunExpress yolcu uçağı",
+    "s": "i3",
+    "sahne": "Havada uçan SunExpress yolcu uçağı",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "yabanci",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "şirket duyuruları"
+     "havacılık haberi",
+     "şirket haberi"
     ],
     "uygunsuz_baglamlar": [
-     "kaza",
-     "spor"
+     "kaza haberi"
     ],
     "yazi_filigran": "kucuk",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:26+03:00",
+   "iliski": {
+    "r1:7664b47cddde:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "SunExpress uçağı net bir şekilde görülüyor, kurumun haber görseli için oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       50,
+       720,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:37+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:37+03:00",
    "teknik": {
     "doygunluk": 38.0,
     "inen": [
@@ -3379,6 +5287,109 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/ELTON_JOHN_THE_ROCKET_MAN.jpg/1280px-ELTON_JOHN_THE_ROCKET_MAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "75b041e41dfbb2bb": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "voleybol filesi",
+     "voleybol topu",
+     "askeri üniforma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı kişilerin voleybol maçı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor",
+     "askeri"
+    ],
+    "uygunsuz_baglamlar": [
+     "profesyonel_spor",
+     "turnuva"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      215,
+      280,
+      380,
+      405
+     ],
+     [
+      275,
+      580,
+      450,
+      680
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Askeri bir etkinliktir, profesyonel plaj voleybolu turnuvası ile bağdaşmaz.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:58+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:58+03:00",
+   "teknik": {
+    "doygunluk": 36.8,
+    "inen": [
+     500,
+     360
+    ],
+    "karanlik_oran": 0.097,
+    "keskinlik": 2541,
+    "kontrast": 37,
+    "medyan": 110,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Flickr_-_The_U.S._Army_-_Raider_Brigades_volleyball_team_joins_Iraqi_security_forces_counterparts_in_friendly_competition.jpg/1280px-Flickr_-_The_U.S._Army_-_Raider_Brigades_volleyball_team_joins_Iraqi_security_forces_counterparts_in_friendly_competition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "75f487ead28f9593": {
    "icerik": {
@@ -3438,40 +5449,71 @@
   "7bf56c54c2aa1113": {
    "icerik": {
     "ana_kutu": [
-     195,
-     23,
-     732,
-     965
+     200,
+     20,
+     730,
+     980
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "yolcu uçağı",
-     "gökyüzü"
+     "yolcu uçağı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Mavi gökyüzünde iniş takımlarını açmış SunExpress yolcu uçağı",
+    "s": "i3",
+    "sahne": "Havada uçan SunExpress yolcu uçağı",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "yabanci",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "şirket duyuruları",
-     "uçuş operasyonları"
+     "havacılık haberi",
+     "şirket haberi"
     ],
     "uygunsuz_baglamlar": [
-     "uçak kazası",
-     "spor müsabakası",
-     "ekonomi analizi"
+     "kaza haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:26+03:00",
+   "iliski": {
+    "r1:7664b47cddde:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "SunExpress uçağı net bir şekilde görülüyor, kurumun haber görseli için oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       20,
+       730,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:37+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:37+03:00",
    "teknik": {
     "doygunluk": 56.0,
     "inen": [
@@ -3490,42 +5532,77 @@
   "7cd86c05b20d846f": {
    "icerik": {
     "ana_kutu": [
-     269,
-     63,
-     599,
-     953
+     260,
+     60,
+     580,
+     940
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "yolcu uçağı",
-     "akaryakıt tankeri",
-     "yer hizmetleri aracı",
+     "yakıt tankeri",
      "havalimanı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
+    "s": "i3",
+    "sahne": "Havalimanı apronunda park halindeki SunExpress uçağı ve yakıt tankeri",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "sürdürülebilir havacılık yakıtı",
-     "yer hizmetleri"
+     "havacılık haberi",
+     "şirket haberi"
     ],
     "uygunsuz_baglamlar": [
-     "kaza haberleri",
-     "magazin",
-     "spor"
+     "kaza haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:26+03:00",
+   "iliski": {
+    "r1:7664b47cddde:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "SunExpress uçağı ve havalimanı ortamı görülüyor ancak yabancı havalimanı olduğu izlenimi veriyor.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       60,
+       580,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:37+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:37+03:00",
    "teknik": {
     "doygunluk": 13.6,
     "inen": [
@@ -3646,64 +5723,192 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Drinking_water_tap_at_Annavaram_Railway_station.jpg/1280px-Drinking_water_tap_at_Annavaram_Railway_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7e96dbacce5a169c": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     100,
+     950,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "radar ekranı",
+     "kontrol paneli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gemi köprüüstünde bulunan bir radar ekranı ve kontrol paneli.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "navigasyon",
+     "teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi",
+     "askeri operasyon"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Deniz veya gemi görseli içermiyor, sadece bir radar ekranı.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": false
+       },
+       {
+        "unsur": "gemi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:07+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:07+03:00",
+   "teknik": {
+    "doygunluk": 45.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.385,
+    "keskinlik": 1611,
+    "kontrast": 81,
+    "medyan": 63,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Radar_screen.JPG/1280px-Radar_screen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7ebfb1673d3d32f7": {
    "icerik": {
     "ana_kutu": [
-     471,
-     62,
-     760,
-     954
+     450,
+     50,
+     750,
+     950
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 20,
+    "kisi_sayisi": 15,
     "nesneler": [
      "pankart",
-     "trafik lambası",
-     "bina",
-     "tabela"
+     "trafik ışığı",
+     "bina"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Cadde üzerinde geniş bir pankart taşıyan eylemciler ve tarihi binalar.",
+    "s": "i3",
+    "sahne": "Caddede yürüyen ve pankart taşıyan bir grup eylemci",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "iklim protestosu arşivi",
-     "küresel iklim zirvesi",
-     "çevre eylemi"
+     "iklim eylemi",
+     "çevre protestosu"
     ],
     "uygunsuz_baglamlar": [
-     "Antalya haberi",
-     "Konyaaltı Plajı haberi",
-     "güncel eylem"
+     "yerel haber",
+     "Antalya özelinde haber"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      362,
-      417,
-      483,
-      496
+      380,
+      420,
+      470,
+      490
      ],
      [
-      362,
+      400,
       510,
-      473,
-      586
+      470,
+      580
      ],
      [
-      371,
+      400,
       610,
-      485,
-      688
+      480,
+      670
+     ],
+     [
+      400,
+      700,
+      490,
+      760
      ]
     ]
    },
-   "t": "2026-11-07T21:08:46+03:00",
+   "iliski": {
+    "r1:0c4e33b90616:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "2009 yılından, yurt dışı kaynaklı bir eylem. Güncel Antalya haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "sahilde açılmış dev pankart",
+        "var": false
+       },
+       {
+        "unsur": "Greenpeace aktivistleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       50,
+       750,
+       950
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:53:12+03:00"
+    }
+   },
+   "t": "2026-11-07T23:53:12+03:00",
    "teknik": {
     "doygunluk": 21.3,
     "inen": [
@@ -3877,43 +6082,173 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg/1280px-Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
-  "810da0ec18982b76": {
+  "80e7030514812c2e": {
    "icerik": {
     "ana_kutu": [
-     58,
-     733,
-     218,
-     853
+     400,
+     310,
+     580,
+     530
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 1,
+    "kisi_sayisi": 0,
     "nesneler": [
-     "parasailing",
-     "dağ",
-     "gökyüzü"
+     "kubbeli bina",
+     "havuz",
+     "aydınlatma direği",
+     "yürüyüş yolu"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Dağlar üzerinde parasailing yapan bir kişi",
+    "s": "i3",
+    "sahne": "Antalya EXPO alanında gün batımında kubbeli modern bir yapı ve çevre düzenlemesi.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "turkiye",
     "uygun_baglamlar": [
      "turizm",
-     "tatil",
-     "su sporları"
+     "mimari",
+     "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol maçı",
-     "kapalı salon"
+     "siyaset",
+     "kaza",
+     "suç"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:18+03:00",
+   "iliski": {
+    "r1:74d797366af7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya EXPO alanındaki yapı, haberdeki COP31 altyapı yatırımları için uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "kongre merkezi binası",
+        "var": true
+       },
+       {
+        "unsur": "fuar alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       310,
+       580,
+       530
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:19+03:00"
+    }
+   },
+   "t": "2026-11-07T23:59:19+03:00",
+   "teknik": {
+    "doygunluk": 18.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.189,
+    "keskinlik": 801,
+    "kontrast": 63,
+    "medyan": 90,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "810da0ec18982b76": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     760,
+     220,
+     860
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "yamaç paraşütü",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gökyüzünde yamaç paraşütü yapan bir kişi.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya turizm",
+     "hava sporları"
+    ],
+    "uygunsuz_baglamlar": [
+     "voleybol haberi",
+     "spor müsabakası",
+     "etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e86b796573be:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla tamamen ilgisiz bir spor dalı ve görsel içerik.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:44+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:44+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -3932,42 +6267,77 @@
   "81675667c962c4ed": {
    "icerik": {
     "ana_kutu": [
-     269,
-     63,
-     599,
-     953
+     260,
+     60,
+     580,
+     940
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "yolcu uçağı",
-     "akaryakıt tankeri",
-     "yer hizmetleri aracı",
+     "yakıt tankeri",
      "havalimanı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
+    "s": "i3",
+    "sahne": "Havalimanı apronunda park halindeki SunExpress uçağı ve yakıt tankeri",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "sürdürülebilir havacılık yakıtı",
-     "yer hizmetleri"
+     "havacılık haberi",
+     "şirket haberi"
     ],
     "uygunsuz_baglamlar": [
-     "kaza haberleri",
-     "magazin",
-     "spor"
+     "kaza haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:26+03:00",
+   "iliski": {
+    "r1:7664b47cddde:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "SunExpress uçağı ve havalimanı ortamı görülüyor ancak yabancı havalimanı olduğu izlenimi veriyor.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       60,
+       580,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:37+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:37+03:00",
    "teknik": {
     "doygunluk": 13.8,
     "inen": [
@@ -4214,6 +6584,84 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Sara%C3%A7o%C4%9Flu_Mahallesi_%28Nam%C4%B1k_Kemal_Mahallesi%29%2C_2021_03.jpg/1280px-Sara%C3%A7o%C4%9Flu_Mahallesi_%28Nam%C4%B1k_Kemal_Mahallesi%29%2C_2021_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "88dd8e7e2d5bef01": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     240,
+     820,
+     520
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami",
+     "minare",
+     "ağaçlar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Uzaktan görünen bir cami ve arkasında dağ manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "gezi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d797366af7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir cami ve manzara fotoğrafıdır, COP31 ile ilişkisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:19+03:00"
+    }
+   },
+   "t": "2026-11-07T23:59:19+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     500,
+     303
+    ],
+    "karanlik_oran": 0.169,
+    "keskinlik": 1203,
+    "kontrast": 45,
+    "medyan": 130,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Panoramio_-_V%26A_Dudush_-_Sport_centre_vicinities.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8956948e35f5ee4a": {
    "t": "2026-11-07T20:47:47+03:00",
    "teknik": {
@@ -4309,39 +6757,67 @@
   "8bd0cd3e783e8f44": {
    "icerik": {
     "ana_kutu": [
-     180,
-     150,
-     850,
-     850
+     200,
+     100,
+     800,
+     900
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 50,
     "nesneler": [
-     "milletvekili koltukları",
-     "kürsü",
-     "Türk bayrağı"
+     "meclis kürsüsü",
+     "koltuklar",
+     "salon"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "TBMM genel kurul salonunun genel görünümü",
+    "s": "i3",
+    "sahne": "TBMM genel kurul salonunun genel görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "siyaset",
-     "meclis haberleri"
+     "siyaset"
     ],
     "uygunsuz_baglamlar": [
-     "turizm",
-     "ekonomi"
+     "spor"
     ],
-    "yazi_filigran": "kucuk",
+    "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T23:49:18+03:00",
+   "iliski": {
+    "r1:5e1bc2283a6b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM salonu COP31 zirvesi ile doğrudan ilişkili değildir, genel bir siyasi görseldir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı veya konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:11+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:11+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -4487,6 +6963,93 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "904d4b7b12a010b0": {
+   "icerik": {
+    "ana_kutu": [
+     120,
+     150,
+     900,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ağaçlar",
+     "palmiye",
+     "binalar",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya şehir merkezi, ağaçlar ve uzaktan görünen binalar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim zirvesi",
+     "siyaset",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nın genel bir şehir manzarasıdır, zirve ile doğrudan bir görsel bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:42+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:42+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     323
+    ],
+    "karanlik_oran": 0.245,
+    "keskinlik": 4244,
+    "kontrast": 63,
+    "medyan": 105,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Antalya_Old_Town_View_from_high_%C4%B1n_2018_04.jpg/1280px-Antalya_Old_Town_View_from_high_%C4%B1n_2018_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "905d498ba762d205": {
    "t": "2026-11-07T20:46:33+03:00",
    "teknik": {
@@ -4520,6 +7083,169 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/COP30_-_Murat_Kurum_02.jpg/1280px-COP30_-_Murat_Kurum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "93196d792a12926f": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     300,
+     900,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "voleybol filesi",
+     "voleybol topu",
+     "kum saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Plaj voleybolu maçında smaç vuran bir sporcu ve karşılayan diğer sporcu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "plaj voleybolu",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "Alanya özel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      370,
+      680,
+      450,
+      740
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ABD'deki bir üniversite maçına ait, Alanya'daki turnuvayla ilgisi olmayan yabancı bir kare.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       600,
+       850,
+       850
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:34+03:00"
+    },
+    "r1:d76e42a35633:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Stanford Üniversitesi'ne ait bir maçtır, Alanya'daki turnuva ile ilgisi yoktur ve yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       310,
+       870,
+       830
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:03+03:00"
+    },
+    "r1:e86b796573be:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili görsel olarak uygun ancak yabancı bir üniversite turnuvası olduğu açıkça belli.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       300,
+       900,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:44+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:03+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     318
+    ],
+    "karanlik_oran": 0.15,
+    "keskinlik": 2417,
+    "kontrast": 61,
+    "medyan": 147,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826517288255%29.jpg/1280px-NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826517288255%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "96d0f52aa33036e6": {
    "icerik": {
@@ -4653,41 +7379,72 @@
   "99561dfaf9d2f06c": {
    "icerik": {
     "ana_kutu": [
-     208,
      0,
-     995,
+     0,
+     1000,
      1000
     ],
     "bulanik": false,
+    "cekim": "panorama",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "şehir",
      "deniz",
-     "sahil",
-     "dağ"
+     "sahil"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antalya sahil şeridinin ve şehir merkezinin havadan görünümü",
+    "s": "i3",
+    "sahne": "Antalya şehir merkezi ve sahil şeridinin havadan görünümü",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "Antalya tanıtım",
-     "turizm",
-     "şehir manzarası"
+     "turizm haberi",
+     "şehir haberi"
     ],
     "uygunsuz_baglamlar": [
-     "şirket finans raporu",
-     "uçak kazası"
+     "şirket haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:07:26+03:00",
+   "iliski": {
+    "r1:7664b47cddde:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan SunExpress uçağı veya havalimanı görselde yer almıyor, sadece şehir manzarası var.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": false
+       },
+       {
+        "unsur": "havalimanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:37+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:37+03:00",
    "teknik": {
     "doygunluk": 39.3,
     "inen": [
@@ -4810,13 +7567,14 @@
   "9cf59f6b7a7c331e": {
    "icerik": {
     "ana_kutu": [
-     65,
-     2,
-     990,
-     995
+     0,
+     0,
+     1000,
+     1000
     ],
     "bulanik": false,
-    "donem": "eski",
+    "cekim": "panorama",
+    "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
@@ -4826,24 +7584,60 @@
      "şehir"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Alanya Kalesi ve limanının yüksekten genel görünümü",
+    "s": "i3",
+    "sahne": "Alanya kalesi ve limanının kuşbakışı görünümü.",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "Alanya manzarası",
+     "turizm haberi",
      "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "voleybol turnuvası",
-     "maç haberi"
+     "spor haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:18+03:00",
+   "iliski": {
+    "r1:e86b796573be:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel bir manzarası, voleybol etkinliği ile doğrudan bir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:54+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:54+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -4951,6 +7745,114 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "a1981d3310ea8119": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     150,
+     750,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yük gemisi",
+     "deniz",
+     "liman vinci"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Liman yakınında seyreden büyük bir yük gemisi.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "lojistik",
+     "deniz ticareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan denizcilik ve gemi unsurlarını temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "gemi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       150,
+       750,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:07+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:07+03:00",
+   "teknik": {
+    "doygunluk": 29.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 740,
+    "kontrast": 37,
+    "medyan": 102,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Car_carrier_MEDITERRANEAN_SEA_en_manoeuvre.jpg/1280px-Car_carrier_MEDITERRANEAN_SEA_en_manoeuvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a1aa119663502ff5": {
+   "t": "2026-11-07T23:58:22+03:00",
+   "teknik": {
+    "doygunluk": 16.9,
+    "inen": [
+     1280,
+     720
+    ],
+    "karanlik_oran": 0.293,
+    "keskinlik": 992,
+    "kontrast": 70,
+    "medyan": 134,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "/images/kurum/647d878054ddd690.jpg"
   },
   "a315a2a0930fca45": {
    "icerik": {
@@ -5414,6 +8316,93 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Korkuteli%3B_Tarihi_Hamam%3B_13._Jahrhundert.jpg/1280px-Korkuteli%3B_Tarihi_Hamam%3B_13._Jahrhundert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ad6f3a87354780c7": {
+   "icerik": {
+    "ana_kutu": [
+     315,
+     145,
+     780,
+     865
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "ahşap bina",
+     "uçurtma",
+     "yürüyüş yolu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahil kenarında ahşap bir yapı ve çevresinde yürüyen insanlar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mimari",
+     "park",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "voleybol",
+     "turnuva"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta voleybol sahası veya oyuncuları bulunmamaktadır, konuyla ilgisiz bir yapı görselidir.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:58+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:58+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     270
+    ],
+    "karanlik_oran": 0.068,
+    "keskinlik": 2189,
+    "kontrast": 53,
+    "medyan": 149,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hammonasset_rendering_of_the_new_West_Beach_building_%2817784027628%29.jpg/1280px-Hammonasset_rendering_of_the_new_West_Beach_building_%2817784027628%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ae5ddaefc2d8ed10": {
    "icerik": {
     "ana_kutu": [
@@ -5781,46 +8770,163 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Minimum_wage_Slovakia.png/1280px-Minimum_wage_Slovakia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
-  "b41edc9a61cdf0cc": {
+  "b269e66cba79a340": {
    "icerik": {
     "ana_kutu": [
-     39,
-     143,
-     936,
-     453
+     0,
+     150,
+     980,
+     850
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "akaryakıt tabelası",
-     "fiyat panosu",
-     "araç yıkama ünitesi",
-     "bina",
-     "sokak lambası"
+     "belediye binası",
+     "türk bayrağı",
+     "palmiye"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antalya'da bir akaryakıt istasyonunun fiyat tabelası ve otomatik araç yıkama ünitesi",
+    "s": "i3",
+    "sahne": "Antalya Büyükşehir Belediyesi binası girişi.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "akaryakıt fiyatları",
-     "ekonomi",
-     "akaryakıt istasyonu"
+     "belediye haberleri",
+     "yerel yönetim"
     ],
     "uygunsuz_baglamlar": [
-     "denizcilik",
-     "NAVTEX",
-     "askeri operasyon"
+     "iklim zirvesi",
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T22:40:54+03:00",
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Belediye binasıdır, zirve ile doğrudan bir görsel bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:42+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:42+03:00",
+   "teknik": {
+    "doygunluk": 15.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.105,
+    "keskinlik": 1567,
+    "kontrast": 58,
+    "medyan": 145,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Antalya_Metropolitan_city_building_in_2011_24.jpg/1280px-Antalya_Metropolitan_city_building_in_2011_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b41edc9a61cdf0cc": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     220,
+     950,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fiyat tabelası",
+     "araç yıkama ünitesi",
+     "sokak lambası",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir akaryakıt istasyonunun fiyat tabelası ve otomatik araç yıkama ünitesi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ekonomi",
+     "akaryakıt fiyatları"
+    ],
+    "uygunsuz_baglamlar": [
+     "denizcilik",
+     "askeri operasyon",
+     "navtex"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber denizcilik ve NAVTEX ile ilgili, ancak görsel bir benzin istasyonuna ait.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": false
+       },
+       {
+        "unsur": "gemi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:55:53+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:53+03:00",
    "teknik": {
     "doygunluk": 26.9,
     "inen": [
@@ -5836,43 +8942,239 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg/1280px-Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b45f759d2eeea617": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     110,
+     570,
+     760
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kubbeli bina",
+     "gölgelik",
+     "havuz",
+     "çalışanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "EXPO alanında büyük bir kubbeli yapı ve önünde gölgelikli oturma alanları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "mimari",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "suç"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d797366af7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "EXPO alanındaki tesis, haberin konusu olan altyapı yatırımları için doğrudan görsel kanıttır.",
+      "gerekli": [
+       {
+        "unsur": "kongre merkezi binası",
+        "var": true
+       },
+       {
+        "unsur": "fuar alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       110,
+       570,
+       760
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:19+03:00"
+    }
+   },
+   "t": "2026-11-07T23:59:19+03:00",
+   "teknik": {
+    "doygunluk": 35.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 2001,
+    "kontrast": 57,
+    "medyan": 140,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87ocuk_Adas%C4%B1_Yandan_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/1280px-%C3%87ocuk_Adas%C4%B1_Yandan_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b485eb3c5492a269": {
    "icerik": {
     "ana_kutu": [
-     145,
-     235,
-     775,
-     995
+     280,
+     580,
+     760,
+     760
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "eski",
     "karanlik": false,
-    "kisi_sayisi": 10,
+    "kisi_sayisi": 5,
     "nesneler": [
      "voleybol filesi",
      "kum saha",
-     "sporcular",
-     "skor tabelası"
+     "skorbord"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Kum sahilde oynanan plaj voleybolu maçı",
+    "s": "i3",
+    "sahne": "Plaj voleybolu maçında file önünde mücadele eden sporcular.",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "belirsiz",
+    "ulke": "turkiye",
     "uygun_baglamlar": [
-     "plaj voleybolu",
-     "spor karşılaşması"
+     "spor haberi",
+     "voleybol haberi"
     ],
     "uygunsuz_baglamlar": [
-     "güncel turnuva",
-     "siyaset"
+     "siyaset haberi"
     ],
     "yazi_filigran": "yok",
-    "yuz_belirgin": true,
+    "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:18+03:00",
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "2006 yılına ait eski bir arşiv karesi, güncel bir turnuva haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       580,
+       750,
+       760
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:34+03:00"
+    },
+    "r1:d76e42a35633:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçı görülüyor ancak 2006 yılına ait olması ve yabancı turnuva olması nedeniyle yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       210,
+       750,
+       820
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:03+03:00"
+    },
+    "r1:e86b796573be:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu etkinliğini gösteriyor ancak 2006 yılına ait olduğu için dönem olarak yanıltıcı.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       580,
+       760,
+       760
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:54+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:03+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -5939,6 +9241,348 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg/1280px-TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b5da03a28525922a": {
+   "icerik": {
+    "ana_kutu": [
+     145,
+     290,
+     550,
+     480
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "tarihi surlar",
+     "yürüyüş yolu",
+     "banklar",
+     "insanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da tarihi surlar ve yürüyüş yolu.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim zirvesi",
+     "siyaset",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da sıradan bir gün karesidir, zirve hazırlıklarıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:42+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:42+03:00",
+   "teknik": {
+    "doygunluk": 21.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.098,
+    "keskinlik": 2337,
+    "kontrast": 53,
+    "medyan": 161,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_2839.jpg/1280px-Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_2839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b93179f337eb0628": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     250,
+     850,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "voleybol filesi",
+     "voleybol topu",
+     "kum saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kuş bakışı plaj voleybolu sahasında oynayan oyuncular.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor",
+     "voleybol",
+     "plaj"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçını net bir şekilde göstermektedir, haberle tam uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       250,
+       850,
+       750
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:58+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:58+03:00",
+   "teknik": {
+    "doygunluk": 43.9,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.007,
+    "keskinlik": 688,
+    "kontrast": 16,
+    "medyan": 119,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1628314200733-5f7785cdc925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "b9f5c633c02bccf9": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     450,
+     900,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "voleybol filesi",
+     "voleybol topu",
+     "kum saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Plaj voleybolu maçında topa vuran bir sporcu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "plaj voleybolu",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "Alanya özel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      260,
+      520,
+      340,
+      570
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ABD'deki bir üniversite maçına ait, Alanya'daki turnuvayla ilgisi olmayan yabancı bir kare.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       450,
+       850,
+       650
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:34+03:00"
+    },
+    "r1:d76e42a35633:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Stanford Üniversitesi'ne ait bir maçtır, Alanya'daki turnuva ile ilgisi yoktur ve yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       460,
+       920,
+       640
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:58:03+03:00"
+    },
+    "r1:e86b796573be:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili görsel olarak uygun ancak yabancı bir üniversite turnuvası olduğu açıkça belli.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       450,
+       900,
+       700
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:44+03:00"
+    }
+   },
+   "t": "2026-11-07T23:58:03+03:00",
+   "teknik": {
+    "doygunluk": 23.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.272,
+    "keskinlik": 2467,
+    "kontrast": 64,
+    "medyan": 92,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826491334766%29.jpg/1280px-NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826491334766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ba003a40fa582531": {
    "t": "2026-11-07T23:51:12+03:00",
@@ -6057,6 +9701,123 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gabar_mointain.jpg/1280px-Gabar_mointain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "bfae0ee9172d0a8d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     200,
+     900,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi konak",
+     "sokak lambası",
+     "ağaç",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kaleiçi'nde tarihi bir konak ve sokak görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 haberleri",
+     "iklim değişikliği",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0308ffb376bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş olsa da COP31 ile görsel bir bağı yoktur, sadece genel bir şehir dokusu fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "COP31 logosu",
+        "var": false
+       },
+       {
+        "unsur": "iklim değişikliği temalı görsel",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:06+03:00"
+    },
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi Müzesi'nin dış görünüşüdür, zirve hazırlıkları veya konferans merkezi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:17+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:17+03:00",
+   "teknik": {
+    "doygunluk": 23.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.205,
+    "keskinlik": 2781,
+    "kontrast": 64,
+    "medyan": 100,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Antalya_Kaleici_museum_5860.jpg/1280px-Antalya_Kaleici_museum_5860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "bfc1778bbd0a6e4a": {
    "t": "2026-11-07T20:48:56+03:00",
@@ -6353,6 +10114,233 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg/1280px-Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c6b6dd510f0243bd": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     250,
+     750,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yük gemisi",
+     "deniz",
+     "liman vinci"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz üzerinde seyreden büyük bir yük gemisi.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "lojistik",
+     "deniz ticareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3460355d6911:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan denizcilik ve gemi unsurlarını temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "gemi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       250,
+       750,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:56:07+03:00"
+    }
+   },
+   "t": "2026-11-07T23:56:07+03:00",
+   "teknik": {
+    "doygunluk": 9.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.013,
+    "keskinlik": 275,
+    "kontrast": 42,
+    "medyan": 174,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Car_carrier_MEDITERRANEAN_SEA_au_port.jpg/1280px-Car_carrier_MEDITERRANEAN_SEA_au_port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c75a3a6642e7c7ec": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     350,
+     900,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "voleybol filesi",
+     "voleybol topu",
+     "kum saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Plaj voleybolu maçında blok yapan sporcular.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "plaj voleybolu",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "Alanya özel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      430,
+      280,
+      490
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:834bc02dd005:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçı görülüyor ancak yabancı sponsor logoları ve mekanın Alanya olmadığı izlenimi veriyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
+        "var": true
+       },
+       {
+        "unsur": "voleybol oyuncuları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       18,
+       350,
+       900,
+       870
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:40+03:00"
+    },
+    "r1:e86b796573be:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili görsel olarak uygun ancak yabancı bir turnuva olduğu açıkça belli.",
+      "gerekli": [
+       {
+        "unsur": "plaj voleybolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "voleybol filesi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       350,
+       900,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:44+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:40+03:00",
+   "teknik": {
+    "doygunluk": 42.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.211,
+    "keskinlik": 2730,
+    "kontrast": 61,
+    "medyan": 118,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Steve_Carmichael_-_2017_08_04_Beach_Volleyball-2960_%2836384390825%29.jpg/1280px-Steve_Carmichael_-_2017_08_04_Beach_Volleyball-2960_%2836384390825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ca2454ae559375cd": {
    "icerik": {
     "ana_kutu": [
@@ -6462,43 +10450,74 @@
   "ceb3c047d0326550": {
    "icerik": {
     "ana_kutu": [
-     200,
      250,
+     0,
      900,
-     980
+     1000
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "plaj",
      "deniz",
-     "dag",
-     "bitki",
+     "dağ",
      "tabela"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Karpuzkaldiran veya yakinindan Konyaalti plaji ve dag manzarasi",
+    "s": "i3",
+    "sahne": "Konyaaltı plajı ve arkasında dağ manzarası",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm haberi",
-     "antalya haberi",
-     "plaj manzarasi"
+     "turizm",
+     "şehir tanıtımı"
     ],
     "uygunsuz_baglamlar": [
-     "siyasi eylem",
-     "greenpeace haberi",
-     "cop31 zirvesi"
+     "eylem haberi",
+     "siyasi protesto"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:08:39+03:00",
+   "iliski": {
+    "r1:0c4e33b90616:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki eylemden eser yok, sadece boş bir plaj manzarası.",
+      "gerekli": [
+       {
+        "unsur": "sahilde açılmış dev pankart",
+        "var": false
+       },
+       {
+        "unsur": "Greenpeace aktivistleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:53:12+03:00"
+    }
+   },
+   "t": "2026-11-07T23:53:12+03:00",
    "teknik": {
     "doygunluk": 19.9,
     "inen": [
@@ -6625,36 +10644,81 @@
      180,
      180,
      900,
-     930
+     920
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 4,
+    "kisi_sayisi": 3,
     "nesneler": [
-     "kale",
      "futbol topu",
+     "futbol kalesi",
      "kale ağı",
-     "reklam panosu"
+     "futbol forması"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Futbol maçında kaleci ve oyuncuların aksiyon anı",
+    "s": "i3",
+    "sahne": "Futbol maçında kalecinin topu kurtarma anı.",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "altyapı futbol maçı",
-     "gençler turnuvası"
+     "futbol haberi",
+     "gençler turnuvası",
+     "spor etkinliği"
     ],
     "uygunsuz_baglamlar": [
-     "A milli maç"
+     "yerel haber",
+     "profesyonel lig",
+     "siyasi haber"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:06:02+03:00",
+   "iliski": {
+    "r1:e4124f859564:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genç futbolcuların maç anını göstermesi açısından uygun ancak başka bir turnuvaya ait.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "genç futbolcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       180,
+       180,
+       900,
+       920
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yaşlı futbolcular",
+       "profesyonel A milli takım"
+      ]
+     },
+     "t": "2026-11-07T23:55:31+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:31+03:00",
    "teknik": {
     "doygunluk": 30.9,
     "inen": [
@@ -6669,6 +10733,110 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_29.jpg/1280px-West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d5555268a1516aeb": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     0,
+     780,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "beton pompası",
+     "işçi",
+     "beton mikseri",
+     "türk bayrağı",
+     "inşaat kalıbı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İnşaat alanında çalışan işçiler ve beton dökme makinesi görülüyor.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "altyapı çalışması",
+     "belediye hizmeti"
+    ],
+    "uygunsuz_baglamlar": [
+     "konser haberi",
+     "sanat haberi",
+     "eğlence haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      180,
+      80,
+      350,
+      130
+     ],
+     [
+      450,
+      580,
+      550,
+      630
+     ],
+     [
+      200,
+      880,
+      350,
+      930
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:05b98b1641d7:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir inşaat çalışmasını göstermektedir, konser haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konser sahnesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:57:26+03:00"
+    }
+   },
+   "t": "2026-11-07T23:57:26+03:00",
+   "teknik": {
+    "doygunluk": 19.7,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.172,
+    "keskinlik": 2745,
+    "kontrast": 80,
+    "medyan": 152,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "/images/kurum/c50ffe22998bb3d2.jpg"
   },
   "d65a6aff9fcab01c": {
    "icerik": {
@@ -6845,39 +11013,75 @@
    "icerik": {
     "ana_kutu": [
      0,
-     298,
+     250,
      1000,
-     946
+     950
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 3,
+    "kisi_sayisi": 1,
     "nesneler": [
-     "yeşil mont",
-     "kırmızı kapüşon",
-     "sırt çantası"
+     "yeşil ceket",
+     "Greenpeace logosu"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Sırtı dönük yeşil Greenpeace montlu bir eylemci.",
+    "s": "i3",
+    "sahne": "Greenpeace logolu yeşil ceket giyen bir kişi",
+    "sahne_turu": "portre",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "çevre eylemi detayı",
      "Greenpeace haberi",
-     "iklim protestosu"
+     "çevre aktivizmi"
     ],
     "uygunsuz_baglamlar": [
-     "Antalya plaj haberi",
-     "ana eylem görseli"
+     "olay anı haberi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:08:46+03:00",
+   "iliski": {
+    "r1:0c4e33b90616:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Greenpeace aktivistini gösteriyor, temsilî görsel olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "sahilde açılmış dev pankart",
+        "var": false
+       },
+       {
+        "unsur": "Greenpeace aktivistleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       250,
+       1000,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:53:12+03:00"
+    }
+   },
+   "t": "2026-11-07T23:53:12+03:00",
    "teknik": {
     "doygunluk": 67.0,
     "inen": [
@@ -6891,7 +11095,7 @@
     "parlaklik": 103,
     "s": "t1"
    },
-   "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3NDg5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+   "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "de4defb683c7ceb9": {
    "icerik": {
@@ -7103,59 +11307,102 @@
   "e17e2422a68fc715": {
    "icerik": {
     "ana_kutu": [
-     342,
-     169,
+     150,
+     150,
      1000,
-     810
+     850
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 10,
+    "kisi_sayisi": 20,
     "nesneler": [
      "pankart",
-     "yeşil tişört",
-     "kalabalık"
+     "insan grubu"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Kürsüye benzer pankart tutan kalabalık arasında slogan atan kadın aktivist.",
+    "s": "i3",
+    "sahne": "İklim eylemi yapan bir grup insan ve pankart tutan bir kadın",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "iklim eylemi haberi",
-     "çevre protestosu",
-     "Greenpeace haberi"
+     "iklim eylemi",
+     "çevre protestosu"
     ],
     "uygunsuz_baglamlar": [
-     "Antalya yerel haberi",
-     "kapalı alan toplantısı"
+     "yerel haber",
+     "Antalya özelinde haber"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      343,
-      502,
-      706,
-      672
+      340,
+      510,
+      670,
+      670
      ],
      [
-      455,
-      303,
-      783,
-      532
+      550,
+      750,
+      880,
+      900
      ],
      [
-      507,
-      755,
-      915,
-      966
+      270,
+      390,
+      470,
+      490
+     ],
+     [
+      450,
+      380,
+      680,
+      510
      ]
     ]
    },
-   "t": "2026-11-07T21:08:46+03:00",
+   "iliski": {
+    "r1:0c4e33b90616:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Greenpeace eylemi ancak yurt dışındaki bir eylem, Antalya ile ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "sahilde açılmış dev pankart",
+        "var": false
+       },
+       {
+        "unsur": "Greenpeace aktivistleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       150,
+       650,
+       370
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:53:12+03:00"
+    }
+   },
+   "t": "2026-11-07T23:53:12+03:00",
    "teknik": {
     "doygunluk": 25.9,
     "inen": [
@@ -7171,53 +11418,196 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Edinburgh_Climate_March_COP27_November_2022_%2852501905170%29.jpg/1280px-Edinburgh_Climate_March_COP27_November_2022_%2852501905170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e363a84d4ac7f00c": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "antik sütun",
+     "taş duvar",
+     "tarihi kalıntı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Side Antik Kenti'ndeki tarihi kalıntılar ve taş yapılar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "tarihi mekan"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 haberleri",
+     "iklim değişikliği",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0308ffb376bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş olsa da COP31 ile doğrudan bir görsel bağı yoktur, sadece genel bir mekan fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "COP31 logosu",
+        "var": false
+       },
+       {
+        "unsur": "iklim değişikliği temalı görsel",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:59:06+03:00"
+    },
+    "r1:98ba9c3cb8ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Side Antik Kenti'nden bir karedir, COP31 zirvesi veya konferans merkezi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "COP31 zirve tabelası veya logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans merkezi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:01:17+03:00"
+    }
+   },
+   "t": "2026-11-08T00:01:17+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.076,
+    "keskinlik": 3589,
+    "kontrast": 60,
+    "medyan": 140,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e3df6586de687e30": {
    "icerik": {
     "ana_kutu": [
-     540,
-     496,
-     870,
-     945
+     538,
+     501,
+     872,
+     944
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 1,
     "nesneler": [
-     "sarı taksi",
-     "kaldırım",
+     "taksi",
      "bina",
      "ağaç",
-     "klima dış ünitesi"
+     "kaldırım"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antalya'da kaldırım kenarında park etmiş sarı taksi.",
+    "s": "i3",
+    "sahne": "Antalya'da bir cadde kenarında bekleyen sarı ticari taksi ve yanında bir bina.",
+    "sahne_turu": "gunluk_yasam",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "taksi haberleri",
-     "şehir içi ulaşım",
-     "esnaf sorunları"
+     "ulaşım haberleri",
+     "Antalya yerel haber"
     ],
     "uygunsuz_baglamlar": [
+     "siyaset",
      "spor",
-     "siyaset genel",
-     "uluslararası ilişkiler"
+     "magazin"
     ],
     "yazi_filigran": "yok",
-    "yuz_belirgin": true,
-    "yuzler": [
-     [
-      593,
-      746,
-      646,
-      803
-     ]
-    ]
+    "yuz_belirgin": false,
+    "yuzler": []
    },
-   "t": "2026-11-07T21:05:08+03:00",
+   "iliski": {
+    "r1:94e6791ea020:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Taksi haberini destekleyen, Antalya'da çekilmiş güncel bir taksi görselidir.",
+      "gerekli": [
+       {
+        "unsur": "taksi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       538,
+       501,
+       872,
+       944
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:29+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:29+03:00",
    "teknik": {
     "doygunluk": 20.4,
     "inen": [
@@ -7477,44 +11867,77 @@
   "f0d7d258667b996a": {
    "icerik": {
     "ana_kutu": [
-     679,
-     698,
-     821,
-     871
+     683,
+     485,
+     822,
+     870
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 1,
+    "kisi_sayisi": 0,
     "nesneler": [
-     "sarı taksi",
+     "taksi",
+     "taksi durağı",
      "bina",
-     "cami minaresi",
-     "durak kulübesi",
-     "otomobil",
-     "yol"
+     "cami minaresi"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antalya'da caddede sıralanmış sarı taksiler ve cami minaresi.",
+    "s": "i3",
+    "sahne": "Antalya'da bir taksi durağı önünde sıralanmış sarı taksiler ve şehir görünümü.",
+    "sahne_turu": "gunluk_yasam",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
      "taksi haberleri",
-     "şehir içi ulaşım",
-     "Antalya ulaşım"
+     "ulaşım haberleri",
+     "Antalya yerel haber"
     ],
     "uygunsuz_baglamlar": [
-     "spor karşılaşmaları",
-     "magazin",
-     "ekonomi borsa"
+     "siyaset",
+     "spor",
+     "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:05:08+03:00",
+   "iliski": {
+    "r1:94e6791ea020:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Taksi durağı ve taksileri gösteren, haberin konusuyla doğrudan ilişkili temsilî bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "taksi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       683,
+       485,
+       822,
+       870
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:29+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:29+03:00",
    "teknik": {
     "doygunluk": 27.0,
     "inen": [
@@ -7838,41 +12261,62 @@
   "f545eea18b2ad7f3": {
    "icerik": {
     "ana_kutu": [
-     385,
+     400,
      0,
-     540,
-     195
+     500,
+     200
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 3,
     "nesneler": [
      "kamyonet",
-     "kasa",
-     "ağaç",
      "dağ",
-     "toprak yol"
+     "arazi"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Kırsal alanda kamyonet, kasalar ve dağ manzarası",
+    "s": "i3",
+    "sahne": "Antalya'da kırsal bir alan ve dağ manzarası.",
+    "sahne_turu": "manzara",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "tarım haberi",
-     "antalya haberi"
+     "haber"
     ],
     "uygunsuz_baglamlar": [
-     "siyaset haberi",
-     "zirve haberi"
+     "siyaset"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:10:53+03:00",
+   "iliski": {
+    "r1:5e1bc2283a6b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş olsa da COP31 zirvesi ile hiçbir görsel bağı yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-07T23:54:11+03:00"
+    }
+   },
+   "t": "2026-11-07T23:54:11+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -8310,64 +12754,108 @@
   "ff034b000fa67ac2": {
    "icerik": {
     "ana_kutu": [
-     80,
+     100,
      40,
-     870,
-     900
+     880,
+     920
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 14,
+    "kisi_sayisi": 15,
     "nesneler": [
      "futbol forması",
-     "çim saha",
-     "kale arkası ağı"
+     "futbol sahası",
+     "kale ağı"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Saha kenarında dizilmiş genç futbolcular",
+    "s": "i3",
+    "sahne": "Saha kenarında dizilmiş genç futbolcular.",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "yabanci",
     "uygun_baglamlar": [
-     "altyapı turnuvası",
-     "genç futbolcular"
+     "futbol haberi",
+     "gençler turnuvası",
+     "spor etkinliği"
     ],
     "uygunsuz_baglamlar": [
-     "A milli maç",
-     "Süper Lig"
+     "yerel haber",
+     "profesyonel lig",
+     "siyasi haber"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      260,
-      280,
-      550,
+      200,
+      200,
+      350,
+      260
+     ],
+     [
+      180,
+      300,
+      350,
       360
      ],
      [
-      180,
-      180,
-      820,
-      280
-     ],
-     [
-      160,
+      150,
       410,
-      870,
-      490
+      320,
+      470
      ],
      [
       110,
-      490,
-      870,
-      590
+      500,
+      280,
+      560
      ]
     ]
    },
-   "t": "2026-11-07T21:06:02+03:00",
+   "iliski": {
+    "r1:e4124f859564:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genç futbolcuları göstermesi açısından uygun ancak başka bir turnuvaya ait olduğu belli.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "genç futbolcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       40,
+       880,
+       920
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yaşlı futbolcular",
+       "profesyonel A milli takım"
+      ]
+     },
+     "t": "2026-11-07T23:55:31+03:00"
+    }
+   },
+   "t": "2026-11-07T23:55:31+03:00",
    "teknik": {
     "doygunluk": 42.2,
     "inen": [
@@ -8439,6 +12927,128 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-07T23:05:06+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "12c1b444cd2ecff2": {
+   "alt_tur": "nesne",
+   "boyut": [
+    7178,
+    3378
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Şehir manzaralı bir plaj voleybolu turnuvası.",
+   "gosterim_ad": "plaj voleybolu turnuvası",
+   "ilk_kabul": "2026-11-07T23:57:58+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "chaim weingarten / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "chaim weingarten",
+    "sayfa": "https://unsplash.com/photos/beach-volleyball-court-with-spectators-and-city-skyline-JR_uYUE2qD4"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "binalar",
+    "plaj voleybolu sahası",
+    "tribün",
+    "voleybol filesi",
+    "voleybol oyuncuları"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "spor",
+    "voleybol",
+    "turnuva"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:57:58+03:00",
+   "url": "https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "2b8a770ee5e7df33": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3944,
+    2943
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık denizde seyreden büyük bir yük gemisi.",
+   "gosterim_ad": "NAVTEX iptali",
+   "ilk_kabul": "2026-11-07T23:56:08+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Baptiste Buisson / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Baptiste Buisson",
+    "sayfa": "https://unsplash.com/photos/a-large-cargo-ship-in-the-middle-of-the-ocean-Nmco1yiSClQ"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "deniz",
+    "gemi",
+    "küçük tekne",
+    "yük gemisi"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "denizcilik",
+    "lojistik",
+    "deniz ticareti"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "diplomasi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:56:08+03:00",
+   "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -8578,6 +13188,64 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "378476e0814ca962": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6240,
+    4160
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kum üzerinde duran bir plaj voleybolu topu.",
+   "gosterim_ad": "plaj voleybolu turnuvası",
+   "ilk_kabul": "2026-11-07T23:54:54+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 2,
+   "kaynak": {
+    "atif": "Miguel Teirlinck / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Miguel Teirlinck",
+    "sayfa": "https://unsplash.com/photos/yellow-and-white-volleyball-on-brown-sand-during-daytime-VDkRsT649C0"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kum",
+    "plaj voleybolu sahası",
+    "plaj voleybolu sahası, filesi ya da oyun",
+    "voleybol topu"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "spor haberi",
+    "voleybol haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:58:03+03:00",
+   "url": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "42d9bccf79c236b4": {
    "alt_tur": "kurum",
    "boyut": [
@@ -8640,6 +13308,66 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "4d96033bad0b27cf": {
+   "alt_tur": "nesne",
+   "boyut": [
+    1080,
+    724
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık havada konser sahnesi ve önünde kalabalık bir izleyici grubu görülüyor.",
+   "gosterim_ad": "konser",
+   "ilk_kabul": "2026-11-07T23:57:26+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Barney Goodman / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Barney Goodman",
+    "sayfa": "https://unsplash.com/photos/crowd-watching-band-at-outdoor-concert-QAcdqJ4qXmw"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "hoparlör",
+    "izleyiciler",
+    "konser sahnesi",
+    "müzik grubu",
+    "sahne ışıkları"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "kullanilabilir": [
+    "konser haberi",
+    "etkinlik duyurusu",
+    "festival haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset haberi",
+    "kaza haberi",
+    "ekonomi haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:57:26+03:00",
+   "url": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
     "kart",
     "detay"
    ],
@@ -8717,12 +13445,14 @@
     1213,
     1424
    ],
+   "cekim": "yakin",
    "cekim_tarihi": "2023",
-   "dogrulama_surumu": "h1e-i2-y2",
-   "gosterdigi": "Murat Kurum'un yakın plan portre fotoğrafı",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Murat Kurum'un vesikalık portre fotoğrafı.",
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
-   "kabul_sayisi": 16,
+   "izin_kapsami": "",
+   "kabul_sayisi": 18,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -8751,8 +13481,8 @@
    ],
    "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg/500px-AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg",
    "kullanilabilir": [
-    "siyaset haberleri",
-    "biyografi"
+    "siyaset",
+    "haber"
    ],
    "kullanilamaz": [
     "spor",
@@ -8760,8 +13490,9 @@
    ],
    "notr_portre": true,
    "qid": "Q56125668",
+   "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T23:32:56+03:00",
+   "son_kabul": "2026-11-07T23:59:06+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -8834,12 +13565,14 @@
     5636,
     3171
    ],
+   "cekim": "orta",
    "cekim_tarihi": "2022",
-   "dogrulama_surumu": "h1e-i2-y2",
-   "gosterdigi": "Mavi gökyüzünde iniş takımlarını açmış SunExpress yolcu uçağı",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Havada uçan SunExpress yolcu uçağı",
    "gosterim_ad": "SunExpress",
    "ilk_kabul": "2026-11-07T22:18:51+03:00",
-   "kabul_sayisi": 2,
+   "izin_kapsami": "",
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "MarcelX42 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -8868,20 +13601,86 @@
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/500px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
-    "havacılık haberleri",
-    "şirket duyuruları",
-    "uçuş operasyonları"
+    "havacılık haberi",
+    "şirket haberi"
    ],
    "kullanilamaz": [
-    "uçak kazası",
-    "spor müsabakası",
-    "ekonomi analizi"
+    "kaza haberi"
    ],
    "notr_portre": false,
    "qid": "Q1137136",
+   "sahne_turu": "nesne_urun",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T23:33:43+03:00",
+   "son_kabul": "2026-11-07T23:56:37+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "80e7030514812c2e": {
+   "alt_tur": "yer",
+   "boyut": [
+    4608,
+    2592
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2016",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya EXPO alanında gün batımında kubbeli modern bir yapı ve çevre düzenlemesi.",
+   "gosterim_ad": "Aksu",
+   "ilk_kabul": "2026-11-07T23:59:19+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "TechnoHawk",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": [
+     {
+      "ad": "Aksu",
+      "qid": "Q421618"
+     }
+    ]
+   },
+   "konular": [
+    "aydınlatma direği",
+    "fuar alanı",
+    "havuz",
+    "kongre merkezi binası",
+    "kubbeli bina",
+    "yürüyüş yolu"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/500px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm",
+    "mimari",
+    "şehir tanıtımı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "kaza",
+    "suç"
+   ],
+   "notr_portre": false,
+   "qid": "Q421618",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "yer_genel",
+   "son_kabul": "2026-11-07T23:59:19+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -9133,6 +13932,63 @@
     "detay"
    ]
   },
+  "dcaa37c3c40c863e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3500,
+    2333
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Greenpeace logolu yeşil ceket giyen bir kişi",
+   "gosterim_ad": "iklim eylemi pankartı",
+   "ilk_kabul": "2026-11-07T23:53:12+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Markus Spiske / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Markus Spiske",
+    "sayfa": "https://unsplash.com/photos/man-in-green-hoodie-walking-on-street-during-daytime-dkGjswObGPY"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Greenpeace aktivistleri",
+    "Greenpeace logosu",
+    "yeşil ceket"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "Greenpeace haberi",
+    "çevre aktivizmi"
+   ],
+   "kullanilamaz": [
+    "olay anı haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "portre",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:53:12+03:00",
+   "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "f01a6a701c5c5fa9": {
    "alt_tur": "nesne",
    "boyut": [
@@ -9188,6 +14044,66 @@
     "kart",
     "detay"
    ]
+  },
+  "f0d7d258667b996a": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    3630,
+    2620
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2022-02-13",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya'da bir taksi durağı önünde sıralanmış sarı taksiler ve şehir görünümü.",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-07T23:54:29+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 2.0",
+    "sahibi": "Sharon Hahn Darlin",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya,_Turkey,_February_2022_-_Row_of_Taxis.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bina",
+    "cami minaresi",
+    "taksi",
+    "taksi durağı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/500px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "taksi haberleri",
+    "ulaşım haberleri",
+    "Antalya yerel haber"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:54:29+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "f39290dc4c70af6f": {
    "alt_tur": "kurum",

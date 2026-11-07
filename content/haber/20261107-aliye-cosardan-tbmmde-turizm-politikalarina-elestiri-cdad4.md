@@ -81,6 +81,24 @@ gorsel_secim:
       gerekce: TBMM genel kurul salonunun genel görünümü, haberin mekanıyla tam uyumludur.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  yerlesim:
+    boyut: &id001
+    - 1280
+    - 720
+    dikey: false
+    surum: y3
+    manset: kaplama
+    yan: true
+    kart: true
+    detay: true
+    kart_portre: false
+    yan_portre: false
+    o_manset_d: 50% 50%
+    o_manset_m: 50% 50%
+    o_yan_d: 50% 100%
+    o_yan_t: 50% 50%
+    o_yan_m: 50% 50%
+    o_kart: 50% 50%
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -123,15 +141,15 @@ gorsel_gecmis:
     kurum: k5
   degisim: '2026-11-07T23:49:29+03:00'
 gorsel_yerlesim:
-  boyut:
-  - 1280
-  - 720
+  boyut: *id001
   dikey: false
-  surum: y2
+  surum: y3
   manset: kaplama
   yan: true
   kart: true
   detay: true
+  kart_portre: false
+  yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 100%
