@@ -4,6 +4,10 @@
 # Yalnızca burada "izin: true" yazan ve dayanağı belgelenmiş kaynakların görselleri kullanılır.
 #   izin: true/false          -> kullanım izni doğrulandı mı?
 #   haber_gorseli: true       -> kaynağın haber sayfasındaki kendi görseli, aynı haber için kullanılabilir
+#   yeniden_kullanim          -> izin kapsamı: "ayni_haber" (varsayılan; yazılmamışsa bu) = fotoğraf yalnızca kurumun aynı haberinde;
+#                                "genel" = yazılı izin genel yeniden kullanımı da kapsıyorsa. "genel" kapsamda bile yalnızca kurumun
+#                                OLAYSIZ bina/tesis kareleri başka uygun haberlerde kullanılır; bir olayın karesi başka olaymış gibi kullanılmaz.
+#                                "genel" yalnızca izin belgesinde bu kapsam açıkça yazıyorsa ve dayanak alanına işlenerek yazılmalıdır.
 #   dayanak                   -> izin belgesi, sözleşme, lisans sayfası ya da yazışma bilgisi
 #   kosul / kredi             -> gösterilmesi gereken kredi ve uyulacak kullanım koşulları
 #   kontrol_tarihi            -> kaydın en son doğrulandığı tarih
