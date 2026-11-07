@@ -22,15 +22,15 @@ gorsel_secim:
   kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   gosterilen: Kepez Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: 'Haber Kepez Belediyesi sitesinde bulundu (metin benzerliği %87); fotoğraf kurumun kendi sayfasından; görsel kontrol: Yol yapim ve asfalt calismasini dogrudan gosteren gercek bir haber fotografidir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Fotoğraf, haberde geçen yol yenileme çalışmalarını ve iş makinelerini doğrudan göstermektedir.
+  surum: h1-2026-11-07
   konu_imza: c1fb8b80e0b6
   gorsel_url: /images/kurum/0552fc8ebff04913.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-06T12:36:43+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-07T22:29:20+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   alt_tur: kurum_haber
   izin_kontrolu:
@@ -38,9 +38,58 @@ gorsel_secim:
     yeniden_kullanim: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
     izin_kaydi: Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)
     kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
+  sinif: ayni_olay
+  hat: h1e
+  inceleme:
+    teknik:
+      inen:
+      - 800
+      - 533
+      parlaklik: 148
+      medyan: 150
+      karanlik_oran: 0.043
+      kontrast: 49
+      doygunluk: 29.8
+      keskinlik: 1398
+      s: t1
+    icerik:
+      sahne: Asfalt kazıma makinesi ve kamyonun çalıştığı yol yenileme sahası
+      nesneler:
+      - asfalt kazıma makinesi
+      - kamyon
+      - bina
+      - trafik lambası
+      - bulvar
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: true
+      gerekli:
+      - unsur: yol yapım çalışması
+        var: true
+      - unsur: asfalt yenileme makinesi
+        var: true
+      - unsur: bulvar
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      konu_kutusu:
+      - 326
+      - 30
+      - 796
+      - 951
+      uygunluk: 10
+      gerekce: Fotoğraf, haberde geçen yol yenileme çalışmalarını ve iş makinelerini doğrudan göstermektedir.
   kurum: k5
   kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -85,6 +134,23 @@ gorsel_gecmis:
       notlar: "kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; 'Mesut Kocagöz' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'Barış Manço Bulvarı' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; 'Kepez' için konuyla (road construction, asphalt paving, construction machinery) ilişkili lisanslı fotoğraf bulunamadı; görsel kontrol yapılamadı: Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use mode"
     kapak_surum: c6
   degisim: '2026-11-06T12:49:49+03:00'
+gorsel_yerlesim:
+  boyut:
+  - 800
+  - 533
+  dikey: false
+  surum: y2
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  o_manset_d: 50% 100%
+  o_manset_m: 41% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 41% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  url: /images/kurum/0552fc8ebff04913.jpg
 ---
 Kepez Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçedeki ulaşım altyapısını iyileştirmek ve sürücülere daha konforlu bir yol deneyimi sunmak için harekete geçti. Bu kapsamda, altyapı çalışmaları nedeniyle yüzeyinde bozulmalar meydana gelen Çankaya Mahallesi'ndeki Barış Manço Bulvarı'nda yenileme süreci başlatıldı. Çalışmaların, yolun zamanla daha büyük deformasyonlara uğramasını engellemek ve vatandaşların ulaşım mağduriyetini gidermek amacıyla yapıldığı belirtildi.
 

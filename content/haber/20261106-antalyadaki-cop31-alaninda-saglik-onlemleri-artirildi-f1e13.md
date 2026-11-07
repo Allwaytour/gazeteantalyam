@@ -24,23 +24,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 3a80f8dfa5dc
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:38:52+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T22:28:28+03:00'
+    yontem: h1
+    model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bi'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi, Aksu Devlet Hastanesi; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; ''COP31 sağlık önlemleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (infirmary, ambulance) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: '''Aksu Devlet Hastanesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Kepez Devlet Hastanesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36); kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtl'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

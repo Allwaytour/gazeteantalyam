@@ -21,22 +21,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 9d22b86891e5
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:39:43+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T22:30:10+03:00'
+    yontem: h1
+    model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    aciklama: '''Cikcilli Hacıbaba Mezarlığı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Serkan Dere'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -21,34 +21,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 58ab7b115aed
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
+    yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:39:43+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-07T22:30:16+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
-  kurum_notu: kurum fotoğrafı önbellekten
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur v; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-    notlar: 'kurum fotoğrafı önbellekten; kaynak görseli kullanılmadı: TRT Haber için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Fotoğrafta konferans salonu yok, Tuvalu'dan bir dış mekan görseli
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg
-      katman: yer_konu
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg
-      katman: yer_konu
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
+    aciklama: 'habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (0/10, en az 6); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zorunlu unsur görünmüyor: iklim konferansı salonu, bayraklar, katılımcılar'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

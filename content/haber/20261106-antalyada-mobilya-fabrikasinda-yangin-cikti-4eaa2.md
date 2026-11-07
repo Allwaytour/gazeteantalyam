@@ -20,31 +20,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 569dd2d11c9b
   gorsel_url: /images/kategori/asayis.png
   kontrol:
-    yapildi: false
+    yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:39:22+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-07T22:28:55+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Yenigöl Mahallesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; ''fabrika yangını'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Boans_Furniture_Factory,_Perth,_January_2021_02.jpg
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Foto
-    - sayfa: https://commons.wikimedia.org/wiki/File:Boans_Furniture_Factory,_Perth,_January_2021_01.jpg
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Yaba
+    aciklama: Türkiye dışına ait unsurlar (yanıltıcı yer); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

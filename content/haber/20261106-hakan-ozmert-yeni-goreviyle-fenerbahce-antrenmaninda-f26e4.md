@@ -2,8 +2,8 @@
 title: Hakan Özmert Yeni Göreviyle Fenerbahçe Antrenmanında
 date: '2026-11-06T09:14:00+03:00'
 ozet: Daha önce Antalyaspor ve Kasımpaşa'da görev alan Hakan Özmert, teknik direktör Emre Belözoğlu'nun ekibine katılarak Fenerbahçe'nin antrenmanında yer aldı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Antalyaspor A.Ş. / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler: []
@@ -11,35 +11,35 @@ etiketler:
 - Hakan Özmert
 - Emre Belözoğlu
 - Fenerbahçe
-gorsel_tur: arsiv
-gorsel_konum: 50% 5%
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_(4)_(cropped).jpg
-  fotografci: Antalyaspor A.Ş.
-  kredi: Antalyaspor A.Ş. / Wikimedia Commons (CC BY 2.0)
-  lisans: CC BY 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Hakan Özmert
-  cekim_yili: '2021'
-  gerekce: '''Hakan Özmert'' kimliği Wikidata Q550735 (Turkish association football player (born 1985) Türk futbolc) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Hakan Özmert''in futbolculuk döneminden arşiv portresidir, habere uygundur.'
-  surum: g9.4-2026-11-05
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 7ec568a8d3a2
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T13:38:51+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-07T22:27:54+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
-  aciklama: Hakan Özmert — Arşiv fotoğrafı (2021)
-  alt_tur: kisi_genel
-  qid: Q550735
-  kaynak_aciklama: Antalyaspor vs Amed SK 20211130
+  hat: h1e
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:10
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'başka bir etkinliğin karesi güncel olayın görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; görselde olmaması gereken unsur: başka takımın forması; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (3/10, en az 5); habere uygunluk düşük (4/10, en az 5); haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor; kalabalık kare: başka kişiler haberin kişisi sanılabilir; kişi'
+  kapak_surum: c8
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -81,6 +81,38 @@ gorsel_gecmis:
     kaynak_aciklama: İstanbul Başakşehir Futbol Kulübü teknik direktörü Emre Belözoğlu.
     kurum: k5
   degisim: '2026-11-06T13:38:51+03:00'
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: Antalyaspor A.Ş. / Wikimedia Commons (CC BY 2.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: 50% 5%
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_(4)_(cropped).jpg
+    fotografci: Antalyaspor A.Ş.
+    kredi: Antalyaspor A.Ş. / Wikimedia Commons (CC BY 2.0)
+    lisans: CC BY 2.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Hakan Özmert
+    cekim_yili: '2021'
+    gerekce: '''Hakan Özmert'' kimliği Wikidata Q550735 (Turkish association football player (born 1985) Türk futbolc) ve bu kişiye ait Commons kategorisiyle doğrulandı; genel fotoğraf; görsel kontrol: Hakan Özmert''in futbolculuk döneminden arşiv portresidir, habere uygundur.'
+    surum: g9.4-2026-11-05
+    konu_imza: 7ec568a8d3a2
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T13:38:51+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.5-flash-lite
+    aciklama: Hakan Özmert — Arşiv fotoğrafı (2021)
+    alt_tur: kisi_genel
+    qid: Q550735
+    kaynak_aciklama: Antalyaspor vs Amed SK 20211130
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:10
+  degisim: '2026-11-07T22:28:06+03:00'
 ---
 Fenerbahçe'de teknik ekipte yaşanan değişimlerin ardından yeni bir yapılanma sürecine girildi. Teknik direktör Emre Belözoğlu'nun göreve başlamasıyla birlikte, sarı-lacivertli ekibin teknik kadrosunda da önemli bir isim dikkat çekti. Daha önce futbolculuk kariyerinde farklı kulüplerde ter döken Hakan Özmert, Belözoğlu'nun teknik ekibine dahil oldu.
 

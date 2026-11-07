@@ -22,23 +22,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 2e3381998686
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:39:27+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T22:29:22+03:00'
+    yontem: h1
+    model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
-  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0)
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded'
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış '
-    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Kumluca Kaymakamlığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kumluca Kaymakamlığı'' için konuyla (district governor office) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği ke'
   kapak_surum: c8
-  zorla: g9.4-2026-11-05:10
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -2,40 +2,42 @@
 title: Antalya'da Olta Balıkçılığı İçin En Gözde Rotalar
 date: '2026-11-06T04:20:00+03:00'
 ozet: Antalya'nın uzun sahil şeridi ve tatlı su kaynakları, amatör balıkçılık tutkunlarına yılın her döneminde farklı alternatifler sunuyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shore_fishing_2441.jpg/1280px-Shore_fishing_2441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Chris Light / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler:
 - Konyaaltı
 etiketler: []
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Shore_fishing_2441.jpg
-  fotografci: Chris Light
-  kredi: Chris Light / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: olta balıkçılığı rotaları
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''shore fishing'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Göl veya nehir kenarında olta balıkçılığı yapan kişileri net şekilde gösteriyor.'
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 817bfc399f5d
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shore_fishing_2441.jpg/1280px-Shore_fishing_2441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T12:29:49+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-07T22:30:23+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Shore fishing in Lake Tapps.
+  hat: h1e
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:10
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'Türkiye dışına ait unsurlar (yanıltıcı yer); habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zorunlu unsur görünmüyor: deniz kıyısı; zorunlu unsur görünmüyor: olta, balıkçı, deniz kıyısı'
+  kapak_surum: c8
+  zorla: h1-2026-11-07:10
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -91,6 +93,37 @@ gorsel_gecmis:
         neden: 'habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); görselde olmaması gereken unsur var (balıkçı teknesi, ağ ile balık avlama); '
     kapak_surum: c5
   degisim: '2026-11-06T12:51:32+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shore_fishing_2441.jpg/1280px-Shore_fishing_2441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Chris Light / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Shore_fishing_2441.jpg
+    fotografci: Chris Light
+    kredi: Chris Light / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: olta balıkçılığı rotaları
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''shore fishing'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Göl veya nehir kenarında olta balıkçılığı yapan kişileri net şekilde gösteriyor.'
+    surum: g9.4-2026-11-05
+    konu_imza: 817bfc399f5d
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shore_fishing_2441.jpg/1280px-Shore_fishing_2441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T12:29:49+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Shore fishing in Lake Tapps.
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:10
+  degisim: '2026-11-07T22:30:31+03:00'
 ---
 Dünyaca ünlü sahilleriyle tanınan Antalya, olta balıkçılığına ilgi duyanlar için hem deniz hem de tatlı su kıyılarında pek çok seçenek barındırıyor. Şehir merkezinden ilçelere kadar uzanan geniş bir yelpazede, amatör balıkçılar için uygun noktalar bulunsa da avlanma kurallarına ve bölgelerin kullanım amaçlarına dikkat edilmesi büyük önem taşıyor.
 
