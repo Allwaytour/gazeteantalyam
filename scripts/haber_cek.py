@@ -587,7 +587,7 @@ def main():
         if yedek_modeller():
             durum["gorsel"].pop("kota_bitti", None)
     gorsel_tur_limit = int(ayar.get("gorsel_tur_limit", 6))
-    print("Görsel hattı:", gs.KURAL_SURUMU, "(gerçek → arşiv → fotoğrafsız kapak)")
+    print("Görsel hattı:", gs.KURAL_SURUMU, "(aday bulma → yayın uygunluğu → yerleşim)")
     yz_limit = int(ayar.get("yz_gunluk_limit", 150))
     yz_acik = bool(GEMINI_KEY) and ayar.get("yapay_zeka", True)
     if not yz_acik:
@@ -598,9 +598,10 @@ def main():
     deneme = [d for d in (ayar.get("gorsel_deneme") or []) if isinstance(d, str)]
     deneme_imza = gs.imza(gs.KURAL_SURUMU, ayar.get("gorsel_deneme_no", 1), *deneme)
     onceki = durum["gorsel"].get("deneme") or {}
-    if deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:8":
+    if deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:12":
         print(f"\nGörsel denemesi: {len(deneme)} haber")
-        rapor = gs.deneme_calistir(bag, deneme)
+        rapor = gs.deneme_calistir(bag, deneme, onceki.get("satirlar") if onceki.get("hedef") == deneme_imza else None,
+                                   sure=int(ayar.get("gorsel_deneme_sure", 600)))
         sayi = (onceki.get("deneme_sayisi", 0) + 1) if onceki.get("hedef") == deneme_imza else 1
         rapor.update(hedef=deneme_imza, deneme_sayisi=sayi, imza=deneme_imza if not rapor["eksik"] else None,
                      deneme_sayisi_imza=f"{deneme_imza}:{sayi}")
@@ -690,6 +691,11 @@ def main():
     for k in cf[:-2500]:          # Commons dosya bilgisi önbelleği büyümesin (en eski kayıtlar silinir)
         arsiv.pop(k, None)
     json_yaz(ARSIV_DOSYA, arsiv)
+    try:
+        import gorsel_hat
+        gorsel_hat.kaydet()          # doğrulanmış görsel kütüphanesi ve inceleme önbelleği
+    except Exception as e:
+        print("Görsel kütüphanesi kaydedilemedi:", e)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 0)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()
