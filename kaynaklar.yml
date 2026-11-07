@@ -54,7 +54,7 @@ ayarlar:
     - 20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv-ea8ae.md
     - 20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md
     - 20261031-bakan-kurum-antalyadaki-cop31-zirvesinde-konya-da-yer-alacak-4c9ec.md
-  gorsel_yeniden_no: 11         # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
+  gorsel_yeniden_no: 12         # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
     - 20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b-87900.md   # başka haberin olay fotoğrafı temsilî kullanılmıştı
   gorsel_oncelikli:             # toplu düzeltmede önce bu haberler işlenir (g9 doğrulama örnekleri)
