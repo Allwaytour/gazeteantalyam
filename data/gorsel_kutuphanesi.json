@@ -5677,11 +5677,11 @@
     881
    ],
    "cekim_tarihi": "2021-11-23",
-   "dogrulama_surumu": "h1b-i2-y2",
+   "dogrulama_surumu": "h1c-i2-y2",
    "gosterdigi": "Beyaz ceketli erkek ellerini kavuşturmuş oturuyor.",
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T21:09:21+03:00",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "beIN SPORTS Türkiye / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5720,72 +5720,65 @@
    "notr_portre": true,
    "qid": "Q202569",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T21:27:46+03:00",
+   "son_kabul": "2026-11-07T21:39:45+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "detay"
    ]
   },
-  "32f8aa3cefac1d57": {
-   "alt_tur": "kurum",
+  "451d07c5f3e4f59a": {
+   "alt_tur": "kurum_haber",
    "boyut": [
-    2239,
-    1658
+    1000,
+    536
    ],
-   "cekim_tarihi": "2017-08-20",
-   "dogrulama_surumu": "h1b-i2-y2",
-   "gosterdigi": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü ve merdivenler",
-   "gosterim_ad": "",
-   "ilk_kabul": "2026-11-07T20:50:56+03:00",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Alanya sahilinin gün batımındaki genel görünümü ve plaj voleybolu sahaları",
+   "gosterim_ad": "Alanya Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "ilk_kabul": "2026-11-07T21:35:41+03:00",
    "kabul_sayisi": 2,
    "kaynak": {
-    "atif": "Bestalex / Wikimedia Commons (CC0)",
-    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
-    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "kaynak": "Wikimedia Commons",
-    "lisans": "CC0",
-    "sahibi": "Bestalex",
-    "sayfa": "https://commons.wikimedia.org/wiki/File:Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg"
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/avrupa-nin-plaj-voleybolu-yildizlari-alanya-da-kupa-icin-yarisiyor/126637"
    },
    "kimlikler": {
     "kisiler": [],
-    "kurumlar": [
-     {
-      "ad": "Gazipaşa Alanya Havalimanı",
-      "qid": ""
-     }
-    ],
+    "kurumlar": [],
     "takimlar": [],
     "tesisler": [],
     "yerler": []
    },
    "konular": [
-    "Gazipaşa Alanya Havalimanı",
-    "korkuluk",
-    "merdiven",
-    "tabela",
-    "terminal binası",
-    "valiz"
+    "bina",
+    "deniz",
+    "plaj voleybolu sahası",
+    "plaj voleybolu sahası, filesi ya da oyun",
+    "sahil",
+    "yol"
    ],
-   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/500px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kucuk": "/images/kurum/256173dbfa65d23e.jpg",
    "kullanilabilir": [
-    "havalimanı haberleri",
-    "ulaşım haberleri",
-    "turizm haberleri"
+    "Alanya haberleri",
+    "turizm tanıtımı",
+    "plaj voleybolu"
    ],
    "kullanilamaz": [
-    "spor müsabakası",
-    "siyaset meydanı"
+    "siyaset",
+    "ekonomi"
    ],
    "notr_portre": false,
    "qid": "",
-   "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T21:27:35+03:00",
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T21:36:18+03:00",
+   "url": "/images/kurum/256173dbfa65d23e.jpg",
    "uygun_yerlesimler": [
-    "manset",
-    "yan",
     "kart",
     "detay"
    ]
@@ -5797,11 +5790,11 @@
     3939
    ],
    "cekim_tarihi": "2020",
-   "dogrulama_surumu": "h1b-i2-y2",
+   "dogrulama_surumu": "h1c-i2-y2",
    "gosterdigi": "Antik mermer lahit üzerindeki Medusa kabartması ve kanatlı figürler.",
    "gosterim_ad": "Antalya Nekropol Müzesi",
    "ilk_kabul": "2026-11-07T20:49:15+03:00",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Engin_Akyurt / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5846,7 +5839,7 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T21:26:12+03:00",
+   "son_kabul": "2026-11-07T21:37:36+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg/1280px-Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -5862,11 +5855,11 @@
     2358
    ],
    "cekim_tarihi": "2017-06-29",
-   "dogrulama_surumu": "h1b-i2-y2",
+   "dogrulama_surumu": "h1c-i2-y2",
    "gosterdigi": "Deniz kıyısında gün batımı, iskele ve sahildeki insanlar",
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-07T21:27:10+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Photon2297 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5893,6 +5886,7 @@
     "deniz",
     "iskele",
     "otel",
+    "otel, tatil bölgesi, turistler",
     "sahil",
     "tatil bölgesi",
     "turistler",
@@ -5912,7 +5906,7 @@
    "notr_portre": false,
    "qid": "Q6487",
    "sinif": "yer_genel",
-   "son_kabul": "2026-11-07T21:27:10+03:00",
+   "son_kabul": "2026-11-07T21:38:19+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pink_Vibrant_Reflections_of_Serik_Beach.jpg/1280px-Pink_Vibrant_Reflections_of_Serik_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -5928,11 +5922,11 @@
     1424
    ],
    "cekim_tarihi": "2023",
-   "dogrulama_surumu": "h1b-i2-y2",
+   "dogrulama_surumu": "h1c-i2-y2",
    "gosterdigi": "Murat Kurum'un yakın plan portre fotoğrafı",
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
-   "kabul_sayisi": 6,
+   "kabul_sayisi": 9,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -5971,136 +5965,67 @@
    "notr_portre": true,
    "qid": "Q56125668",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T21:29:03+03:00",
+   "son_kabul": "2026-11-07T21:41:03+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "detay"
    ]
   },
-  "81675667c962c4ed": {
+  "7bf56c54c2aa1113": {
    "alt_tur": "kurum",
    "boyut": [
-    5792,
-    4344
+    5636,
+    3171
    ],
-   "cekim_tarihi": "2025-08-16",
-   "dogrulama_surumu": "h1b-i2-y2",
-   "gosterdigi": "Havalimanı pistinde park etmiş SunExpress uçağı ve akaryakıt tankeri",
-   "gosterim_ad": "",
-   "ilk_kabul": "2026-11-07T20:48:53+03:00",
-   "kabul_sayisi": 3,
-   "kaynak": {
-    "atif": "CAPTAIN RAJU / Wikimedia Commons (CC0)",
-    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
-    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "kaynak": "Wikimedia Commons",
-    "lisans": "CC0",
-    "sahibi": "CAPTAIN RAJU",
-    "sayfa": "https://commons.wikimedia.org/wiki/File:SunExpress_(Dublin)_in_2025.01.jpg"
-   },
-   "kimlikler": {
-    "kisiler": [],
-    "kurumlar": [
-     {
-      "ad": "SunExpress",
-      "qid": "Q1137136"
-     },
-     {
-      "ad": "Havalimanı pistinde bekleyen SunExpress uçağı ve yer hizmetleri araçları",
-      "qid": "Q1137136"
-     }
-    ],
-    "takimlar": [],
-    "tesisler": [],
-    "yerler": []
-   },
-   "konular": [
-    "SunExpress uçağı",
-    "akaryakıt tankeri",
-    "bagaj araçları",
-    "havalimanı",
-    "havalimanı apronu",
-    "yer hizmetleri aracı",
-    "yolcu uçağı"
-   ],
-   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SunExpress_%28Dublin%29_in_2025.01.jpg/500px-SunExpress_%28Dublin%29_in_2025.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "kullanilabilir": [
-    "havacılık haberleri",
-    "sürdürülebilir havacılık yakıtı",
-    "yer hizmetleri"
-   ],
-   "kullanilamaz": [
-    "kaza haberleri",
-    "magazin",
-    "spor"
-   ],
-   "notr_portre": false,
-   "qid": "Q1137136",
-   "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T21:25:46+03:00",
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SunExpress_%28Dublin%29_in_2025.01.jpg/1280px-SunExpress_%28Dublin%29_in_2025.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "uygun_yerlesimler": [
-    "manset",
-    "yan",
-    "kart",
-    "detay"
-   ]
-  },
-  "981dae1714eda3ae": {
-   "alt_tur": "kurum",
-   "boyut": [
-    4000,
-    3000
-   ],
-   "cekim_tarihi": "2023",
-   "dogrulama_surumu": "h1b-i2-y2",
-   "gosterdigi": "Antalya Havalimanı hava trafik kontrol kulesi",
-   "gosterim_ad": "Antalya Havalimanı",
-   "ilk_kabul": "2026-11-07T21:28:10+03:00",
+   "cekim_tarihi": "2022",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Mavi gökyüzünde iniş takımlarını açmış SunExpress yolcu uçağı",
+   "gosterim_ad": "SunExpress",
+   "ilk_kabul": "2026-11-07T21:37:00+03:00",
    "kabul_sayisi": 1,
    "kaynak": {
-    "atif": "Zalasem1 / Wikimedia Commons (CC BY 4.0)",
+    "atif": "MarcelX42 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
-    "dayanak": "https://creativecommons.org/licenses/by/4.0",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
     "kaynak": "Wikimedia Commons",
-    "lisans": "CC BY 4.0",
-    "sahibi": "Zalasem1",
-    "sayfa": "https://commons.wikimedia.org/wiki/File:Control_tower_at_the_airport_in_Antalya.jpg"
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "MarcelX42",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_SunExpress_Boeing_737-8HC(WL)_TC-SOE_(DSC00365).jpg"
    },
    "kimlikler": {
     "kisiler": [],
     "kurumlar": [],
     "takimlar": [],
-    "tesisler": [],
-    "yerler": [
+    "tesisler": [
      {
-      "ad": "Antalya Havalimanı",
-      "qid": "Q827480"
+      "ad": "SunExpress",
+      "qid": "Q1137136"
      }
-    ]
+    ],
+    "yerler": []
    },
    "konular": [
-    "Antalya Havalimanı",
-    "apron",
-    "aydınlatma direği",
-    "kontrol kulesi",
-    "pist"
+    "SunExpress uçağı",
+    "gökyüzü",
+    "yolcu uçağı"
    ],
-   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/500px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/500px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
     "havacılık haberleri",
-    "Antalya turizm haberleri"
+    "şirket duyuruları",
+    "uçuş operasyonları"
    ],
    "kullanilamaz": [
-    "spor müsabakaları",
-    "siyaset"
+    "uçak kazası",
+    "spor müsabakası",
+    "ekonomi analizi"
    ],
    "notr_portre": false,
-   "qid": "Q827480",
-   "sinif": "yer",
-   "son_kabul": "2026-11-07T21:28:10+03:00",
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/1280px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "qid": "Q1137136",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T21:37:00+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -6108,66 +6033,63 @@
     "detay"
    ]
   },
-  "cb62245dfbf1fa5d": {
+  "a6ce16d2ec3dbf54": {
    "alt_tur": "kurum",
    "boyut": [
-    4080,
-    3060
+    5184,
+    3456
    ],
-   "cekim_tarihi": "2025-08-31",
-   "dogrulama_surumu": "h1b-i2-y2",
-   "gosterdigi": "Kızılkule, surlar ve Alanya limanının genel görünümü.",
-   "gosterim_ad": "",
-   "ilk_kabul": "2026-11-07T21:08:02+03:00",
-   "kabul_sayisi": 2,
+   "cekim_tarihi": "2017",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Havalimanı pistinde bekleyen uçaklar ve merdivenden inen yolcular",
+   "gosterim_ad": "Gazipaşa Alanya Havalimanı",
+   "ilk_kabul": "2026-11-07T21:39:25+03:00",
+   "kabul_sayisi": 1,
    "kaynak": {
-    "atif": "August Dominus / Wikimedia Commons (CC0)",
+    "atif": "Bestalex / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
-    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
     "kaynak": "Wikimedia Commons",
-    "lisans": "CC0",
-    "sahibi": "August Dominus",
-    "sayfa": "https://commons.wikimedia.org/wiki/File:ALANYA_2025.jpg"
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Bestalex",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg"
    },
    "kimlikler": {
     "kisiler": [],
-    "kurumlar": [
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [
      {
-      "ad": "Kızılkule",
-      "qid": "Q2470666"
+      "ad": "Gazipaşa Alanya Havalimanı",
+      "qid": ""
      }
     ],
-    "takimlar": [],
-    "tesisler": [],
     "yerler": []
    },
    "konular": [
-    "Kizilkule",
-    "Kızılkule",
-    "ağaçlar",
-    "deniz",
-    "liman",
-    "surlar",
-    "tarihi yapi",
-    "tarihi yapı",
-    "şehir manzarası"
+    "Gazipaşa Alanya Havalimanı",
+    "asfalt",
+    "koni",
+    "merdiven",
+    "uçak",
+    "yolcu"
    ],
-   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/500px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/500px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
-    "Alanya turizm haberleri",
-    "tarihi yapı tanıtımları",
-    "şehir haberleri"
+    "havalimanı haberleri",
+    "turizm",
+    "uçak seferleri"
    ],
    "kullanilamaz": [
-    "spor",
-    "magazin",
-    "teknoloji"
+    "kaza kırım",
+    "protesto",
+    "spor"
    ],
    "notr_portre": false,
-   "qid": "Q2470666",
+   "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T21:27:00+03:00",
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/1280px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "son_kabul": "2026-11-07T21:39:25+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -6182,11 +6104,11 @@
     3205
    ],
    "cekim_tarihi": "",
-   "dogrulama_surumu": "h1b-i2-y2",
+   "dogrulama_surumu": "h1c-i2-y2",
    "gosterdigi": "Duvara yan yana dizilmiş çok sayıda dijital elektrik sayacı.",
    "gosterim_ad": "elektrik kesintisi",
    "ilk_kabul": "2026-11-07T21:07:55+03:00",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Jon Moore / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -6211,7 +6133,7 @@
     "pano",
     "sayaç"
    ],
-   "kucuk": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDQzODg5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kucuk": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDc2NjYxfDA&ixlib=rb-4.1.0&q=80&w=400",
    "kullanilabilir": [
     "spor",
     "magazin",
@@ -6221,12 +6143,192 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "konu",
-   "son_kabul": "2026-11-07T21:26:54+03:00",
-   "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDQzODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "son_kabul": "2026-11-07T21:37:46+03:00",
+   "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MDc2NjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
+    "detay"
+   ]
+  },
+  "f01a6a701c5c5fa9": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3056,
+    2292
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Geniş bir havalimanı terminal içi ve bekleyen yolcular",
+   "gosterim_ad": "Alman turist sayısındaki artış",
+   "ilk_kabul": "2026-11-07T21:40:11+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Marcel Heinrichs / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Marcel Heinrichs",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya_Airport_-_International_Terminal_1.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Antalya Havalimanı",
+    "banko",
+    "bavul",
+    "terminal",
+    "turistler",
+    "yolcular"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/500px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm haberleri",
+    "havalimanı yoğunluk haberleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "ekonomi analizleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T21:40:11+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
+  "f39290dc4c70af6f": {
+   "alt_tur": "kurum",
+   "boyut": [
+    2576,
+    1716
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Kızılkule ve limanın kuşbakışı görünümü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:37:53+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "© CANONIER / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "© CANONIER",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Hafen_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Kızılkule",
+      "qid": "Q2470666"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Kızılkule",
+    "binalar",
+    "liman",
+    "minare",
+    "surlar",
+    "tarihi yapı",
+    "tekneler"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/500px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Alanya haberleri",
+    "tarihi yapı haberleri",
+    "turizm"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "Q2470666",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T21:37:53+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ]
+  },
+  "f8666bf6374effb3": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    641,
+    872
+   ],
+   "cekim_tarihi": "2022-05-21",
+   "dogrulama_surumu": "h1c-i2-y2",
+   "gosterdigi": "Mavi ceketli bir erkeğin gülümseyen portresi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-07T21:37:08+03:00",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "Yıldız Yazıcıoğlu",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Ali Babacan",
+      "qid": "Q714518"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ceket",
+    "duvar",
+    "gömlek"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg/500px-Ali_Babacan%2C_May_21%2C_2022.jpg",
+   "kullanilabilir": [
+    "siyasetçi portresi",
+    "profil haberi",
+    "lider tanıtımı"
+   ],
+   "kullanilamaz": [
+    "maç haberi",
+    "doğa olayı",
+    "sokak röportajı"
+   ],
+   "notr_portre": true,
+   "qid": "Q714518",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-07T21:37:08+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ]
   }
