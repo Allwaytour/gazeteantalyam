@@ -6430,6 +6430,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_3.jpg/1280px-Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8280970ba0636b78": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     150,
+     850,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "yolcu uçağı",
+     "uçak merdiveni"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti uçak merdiveninde tokalaşan insanlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "diplomasi",
+     "ziyaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza",
+     "teknik arıza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      150,
+      350,
+      250
+     ],
+     [
+      250,
+      300,
+      400,
+      400
+     ],
+     [
+      300,
+      450,
+      450,
+      550
+     ],
+     [
+      300,
+      600,
+      450,
+      700
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:08838d4110d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Siyasi bir ziyaret karesidir, kaza haberiyle ilgisi yoktur ve yanlış kişi odaklıdır.",
+      "gerekli": [
+       {
+        "unsur": "yolcu uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı apronu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       200,
+       400,
+       400,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza anı",
+       "hasarlı uçak parçası"
+      ]
+     },
+     "t": "2026-11-08T00:32:38+03:00"
+    }
+   },
+   "t": "2026-11-08T00:32:38+03:00",
+   "teknik": {
+    "doygunluk": 23.1,
+    "inen": [
+     500,
+     361
+    ],
+    "karanlik_oran": 0.342,
+    "keskinlik": 1611,
+    "kontrast": 63,
+    "medyan": 89,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Secretary_Rubio_Arrives_in_Antalya_%2854518776052%29.jpg/1280px-Secretary_Rubio_Arrives_in_Antalya_%2854518776052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8466935f80aea645": {
    "icerik": {
     "ana_kutu": [
@@ -6963,6 +7080,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8f644a625dec731c": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     50,
+     700,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yolcu uçağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havada süzülen yolcu uçağı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "havacılık",
+     "uçak"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza",
+     "teknik arıza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:08838d4110d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uçak fotoğrafı temsilî olarak kullanılabilir ancak apron detayı eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "yolcu uçağı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       50,
+       700,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:32:38+03:00"
+    }
+   },
+   "t": "2026-11-08T00:32:38+03:00",
+   "teknik": {
+    "doygunluk": 43.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.011,
+    "keskinlik": 471,
+    "kontrast": 27,
+    "medyan": 106,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "904d4b7b12a010b0": {
    "icerik": {
     "ana_kutu": [
@@ -7327,40 +7528,73 @@
   "981dae1714eda3ae": {
    "icerik": {
     "ana_kutu": [
-     217,
-     404,
-     513,
-     555
+     200,
+     350,
+     550,
+     650
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "kontrol kulesi",
-     "pist",
-     "apron",
-     "aydınlatma direği"
+     "apron"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Antalya Havalimanı hava trafik kontrol kulesi",
+    "s": "i3",
+    "sahne": "Antalya Havalimanı kontrol kulesi ve apron alanı.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "havacılık haberleri",
-     "Antalya turizm haberleri"
+     "havalimanı",
+     "altyapı"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakaları",
-     "siyaset"
+     "kaza",
+     "teknik arıza"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:09:49+03:00",
+   "iliski": {
+    "r1:08838d4110d8:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı tesisi olarak uygundur ancak uçak görseli içermemektedir.",
+      "gerekli": [
+       {
+        "unsur": "havalimanı apronu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       350,
+       550,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:32:38+03:00"
+    }
+   },
+   "t": "2026-11-08T00:32:38+03:00",
    "teknik": {
     "doygunluk": 26.0,
     "inen": [
@@ -8144,23 +8378,23 @@
   "a875d22a0b5f29b6": {
    "icerik": {
     "ana_kutu": [
-     440,
-     137,
-     720,
-     391
+     300,
+     100,
+     800,
+     900
     ],
     "bulanik": false,
+    "cekim": "yakin",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "tabela",
-     "havalandırma",
-     "kamera"
+     "tabela"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Turkish Ground Services TGS tabelası",
+    "s": "i3",
+    "sahne": "Turkish Ground Services tabelası.",
+    "sahne_turu": "nesne_urun",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
@@ -8169,13 +8403,42 @@
      "yer hizmetleri"
     ],
     "uygunsuz_baglamlar": [
-     "turist istatistikleri"
+     "kaza",
+     "teknik arıza"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:09:49+03:00",
+   "iliski": {
+    "r1:08838d4110d8:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Sadece bir tabela görselidir, haberin konusu olan uçak ve olay yeri ile ilgisi zayıftır.",
+      "gerekli": [
+       {
+        "unsur": "havalimanı apronu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:32:38+03:00"
+    }
+   },
+   "t": "2026-11-08T00:32:38+03:00",
    "teknik": {
     "doygunluk": 14.8,
     "inen": [
@@ -11752,40 +12015,72 @@
   "f01a6a701c5c5fa9": {
    "icerik": {
     "ana_kutu": [
-     447,
-     495,
-     764,
-     994
+     150,
+     100,
+     900,
+     900
     ],
     "bulanik": false,
+    "cekim": "genis",
     "donem": "guncel",
     "karanlik": false,
-    "kisi_sayisi": 30,
+    "kisi_sayisi": 50,
     "nesneler": [
      "terminal",
-     "yolcular",
-     "bavul",
-     "banko"
+     "yolcu"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Geniş bir havalimanı terminal içi ve bekleyen yolcular",
+    "s": "i3",
+    "sahne": "Antalya Havalimanı terminali içi, geniş ve boş bir alan.",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "turizm haberleri",
-     "havalimanı yoğunluk haberleri"
+     "havalimanı",
+     "seyahat"
     ],
     "uygunsuz_baglamlar": [
-     "spor",
-     "ekonomi analizleri"
+     "kaza",
+     "teknik arıza"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:09:49+03:00",
+   "iliski": {
+    "r1:08838d4110d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı genel görünümü, uçak veya apron içermediği için teknik arıza haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "yolcu uçağı",
+        "var": false
+       },
+       {
+        "unsur": "havalimanı apronu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T00:32:38+03:00"
+    }
+   },
+   "t": "2026-11-08T00:32:38+03:00",
    "teknik": {
     "doygunluk": 22.1,
     "inen": [
@@ -13738,6 +14033,62 @@
    "sinif": "konu",
    "son_kabul": "2026-11-07T23:49:29+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "8f644a625dec731c": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    5120,
+    3413
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2023-03-24",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Havada süzülen yolcu uçağı.",
+   "gosterim_ad": "Antalya Havalimanı",
+   "ilk_kabul": "2026-11-08T00:32:38+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Michael Steffen from Schweiz / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "Michael Steffen from Schweiz",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:UR-UBB_AYT_08.07.21_(52769136619).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "yolcu uçağı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/500px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "havacılık",
+    "uçak"
+   ],
+   "kullanilamaz": [
+    "kaza",
+    "teknik arıza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T00:32:38+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
