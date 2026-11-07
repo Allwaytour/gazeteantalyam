@@ -10,8 +10,10 @@
   {{ with $d.ozet }}<div class="gd-sayac">
     <span><b>{{ .satir }}</b> haber</span><span><b>{{ .fotografli }}</b> fotoğraflı</span><span><b>{{ .fotografsiz }}</b> fotoğrafsız</span>
     <span><b>{{ .bekleyen }}</b> bekleyen (kota/servis)</span><span><b>{{ .hata }}</b> hata</span>
-    <span>Manşet: <b>{{ .yerlesim.manset_kaplama }}</b> kaplama, <b>{{ .yerlesim.manset_yan }}</b> yan düzen · kart <b>{{ .yerlesim.kart }}</b> · yan kart <b>{{ .yerlesim.yan }}</b></span>
-    <span>Elenen adaylar — konu: <b>{{ .red.konu }}</b>, kalite: <b>{{ .red.kalite }}</b>, yerleşim: <b>{{ .red.yerlesim }}</b>, lisans: <b>{{ .red.lisans }}</b>, servis: <b>{{ .red.servis }}</b></span>
+    <span>Manşet: <b>{{ .yerlesim.manset_kaplama }}</b> kaplama, <b>{{ .yerlesim.manset_yan }}</b> yan düzen · kart <b>{{ .yerlesim.kart }}</b>{{ with .yerlesim.kart_portre }} + <b>{{ . }}</b> portre kartı{{ end }} · yan kart <b>{{ .yerlesim.yan }}</b>{{ with .yerlesim.yan_portre }} + <b>{{ . }}</b> portre{{ end }}</span>
+    <span>Elenen adaylar — konu: <b>{{ .red.konu }}</b>, kalite: <b>{{ .red.kalite }}</b>, yerleşim: <b>{{ .red.yerlesim }}</b>, lisans: <b>{{ .red.lisans }}</b>{{ with .red.kaynak }}, dosya açılamadı: <b>{{ . }}</b>{{ end }}, servis: <b>{{ .red.servis }}</b></span>
+    {{ with .ret_sonrasi_bulunan }}<span>Ret sonrası yeni aramayla bulunan fotoğraf: <b>{{ . }}</b></span>{{ end }}
+    {{ if isset . "gemini_sorulan" }}<span>Gemini'ye sorulan fotoğraf: <b>{{ .gemini_sorulan }}</b> · kayıtlı kararla değerlendirilen: <b>{{ .kayitli_karar }}</b></span>{{ end }}
     <span>Eski (mevcut) görsellerin elenme nedeni — konu: <b>{{ .eski_red.konu }}</b>, kalite: <b>{{ .eski_red.kalite }}</b>, servis: <b>{{ .eski_red.servis }}</b></span>
   </div>{{ end }}
   {{ with $d.atlanan_kontroller }}<div class="gd-uyari"><b>Kota/hata nedeniyle atlanan kontroller:</b><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul></div>{{ end }}
@@ -38,14 +40,14 @@
       </div>
       {{/* ---------- YENİ ---------- */}}
       <div class="gd-sut">
-        <p class="gd-bas">Yeni görsel (h1)</p>
-        {{ with $s.yeni }}{{ $y := .yerlesim | default dict }}{{ $yfoto := and (ne .tur "kategori") (ne (.gorsel | default "") "") }}
+        {{ with $s.yeni }}<p class="gd-bas">Yeni görsel ({{ .hat | default "h1" }})</p>{{ $y := .yerlesim | default dict }}{{ $yfoto := and (ne .tur "kategori") (ne (.gorsel | default "") "") }}
         <p class="gd-kucuk">{{ with .sinif }}<b>{{ . }}</b> · {{ end }}{{ with .gosterilen }}«{{ . }}» · {{ end }}{{ .kredi }}{{ with .kaynak_sayfa }} · <a href="{{ . }}" target="_blank" rel="noopener">kaynak</a>{{ end }}
           {{ with .lisans }}<br>Lisans/dayanak: {{ . }}{{ end }}{{ with .lisans_dayanagi }} ({{ . }}){{ end }}{{ with .aciklama }}<br>Fotoğraf altı: {{ . }}{{ end }}</p>
         <p class="{{ if $yfoto }}gd-ok{{ else }}gd-red{{ end }}"><b>{{ if $yfoto }}Kabul{{ else if .bekliyor }}Bekliyor{{ else }}Fotoğrafsız{{ end }}:</b> {{ .gerekce }}{{ with .kapak_nedeni }}<br>[{{ .kod }}] {{ .aciklama }}{{ end }}</p>
-        {{ if $yfoto }}<p class="gd-kucuk">Yerleşim: manşet <b>{{ $y.manset | default "yok" }}</b> · yan kart <b>{{ if $y.yan }}evet{{ else }}hayır{{ end }}</b> · kart <b>{{ if $y.kart }}evet{{ else }}hayır{{ end }}</b>{{ with $y.boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}</p>{{ end }}
+        {{ if $yfoto }}<p class="gd-kucuk">Yerleşim: manşet <b>{{ $y.manset | default "yok" }}</b> · yan kart <b>{{ if $y.yan }}evet{{ else if $y.yan_portre }}portre{{ else }}hayır{{ end }}</b> · kart <b>{{ if $y.kart }}evet{{ else if $y.kart_portre }}portre{{ else }}hayır{{ end }}</b>{{ with $y.boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}</p>{{ end }}
         {{ $h := merge $taban (dict "gorsel" (cond $yfoto (.gorsel | relURL) "") "foto" (and $yfoto ($y.kart | default false)) "yan_foto" (and $yfoto ($y.yan | default false))
-              "o_kart" ($y.o_kart | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "") "o_myd" ($y.o_mansetyan_d | default "")
+              "foto_p" (and $yfoto (not ($y.kart | default false)) ($y.kart_portre | default false)) "yan_p" (and $yfoto (not ($y.yan | default false)) ($y.yan_portre | default false))
+              "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "") "o_myd" ($y.o_mansetyan_d | default "")
               "o_mym" ($y.o_mansetyan_m | default "") "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")) }}
         {{ partial "gd-bilesen.html" (dict "h" $h "duzen" (cond $yfoto ($y.manset | default "") "")) }}
         {{ end }}
@@ -55,7 +57,7 @@
     <details class="gd-aday"><summary>İncelenen adaylar ({{ len . }})</summary>
       <div class="gd-izgara">{{ range . }}
         <figure><img src="{{ .url | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">
-          <figcaption class="{{ if .nedenler }}gd-red{{ else }}gd-ok{{ end }}"><b>{{ if .nedenler }}ret{{ else }}kabul{{ end }}</b> · {{ .sinif }}{{ if .mevcut }} (mevcut){{ end }}{{ with .kutuphane_id }} · kütüphane{{ end }} · {{ .kaynak }}{{ with .lisans }} · {{ . }}{{ end }}{{ with .boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}
+          <figcaption class="{{ if .nedenler }}gd-red{{ else }}gd-ok{{ end }}"><b>{{ if .nedenler }}ret{{ else }}kabul{{ end }}</b> · {{ .sinif }}{{ if .mevcut }} (mevcut){{ end }}{{ if .alternatif }} (ret sonrası arama){{ end }}{{ if .onbellekten }} (kayıtlı karar){{ end }}{{ with .kutuphane_id }} · kütüphane{{ end }} · {{ .kaynak }}{{ with .lisans }} · {{ . }}{{ end }}{{ with .boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}
             {{ with .hedef }}<br>İddia: {{ . }}{{ end }}
             {{ range .nedenler }}<br>[{{ index . 0 }}] {{ index . 1 }}{{ end }}
             {{ if reflect.IsMap .icerik }}{{ with .icerik }}<br>Görülen: {{ .sahne }}{{ end }}{{ end }}
@@ -65,6 +67,8 @@
       {{ end }}</div>
     </details>{{ end }}
     {{ with $s.notlar }}<p class="gd-kucuk">Notlar: {{ delimit . "; " }}</p>{{ end }}
+    {{ with $s.sorgular }}<details class="gd-aday"><summary>Aramalar ({{ len . }})</summary><p class="gd-kucuk">{{ delimit . " · " }}</p>
+      {{ with $s.elenen_kayitlar }}<p class="gd-kucuk">İncelemeye gönderilmeden elenen kayıtlar: {{ delimit . " · " }}</p>{{ end }}</details>{{ end }}
   </article>
   {{ end }}{{ end }}
 </section>
