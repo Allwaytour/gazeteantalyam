@@ -495,40 +495,38 @@
   "12a617fef5a852a3": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     50,
+     50,
+     950,
+     950
     ],
     "bulanik": false,
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
-     "renkli daireler",
-     "grafik"
+     "grafik",
+     "daire"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Meclis sandalye dağılımını gösteren renkli nokta grafiği.",
+    "s": "i2",
+    "sahne": "TBMM milletvekili dağılımını gösteren renkli grafik.",
     "siyah_beyaz": false,
-    "tur": "harita_logo_belge",
+    "tur": "cizim",
     "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "seçim analizleri",
-     "meclis sandalye dağılımı",
-     "siyasi haber"
+     "siyaset",
+     "analiz"
     ],
     "uygunsuz_baglamlar": [
-     "kurum ziyareti",
-     "magazin",
-     "spor"
+     "haber",
+     "turizm"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:55:18+03:00",
+   "t": "2026-11-07T23:49:29+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -595,6 +593,23 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Women_football_youth_olympic_games.JPG/1280px-Women_football_youth_olympic_games.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "13fa159ed0378ba0": {
+   "t": "2026-11-07T23:51:13+03:00",
+   "teknik": {
+    "doygunluk": 31.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.453,
+    "keskinlik": 3405,
+    "kontrast": 76,
+    "medyan": 60,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Presidential_inauguration_of_Recep_Tayyip_Erdogan_06.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "16a38e6e222f06d0": {
    "icerik": {
@@ -1360,6 +1375,64 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg/1280px-Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2d5a3be02b38f29c": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     830,
+     930,
+     980
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "masa",
+     "çiçek",
+     "sandalye",
+     "avize"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Resmi bir törende oturan protokol üyeleri ve Devlet Bahçeli",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "Devlet Bahçeli haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Alanya il olma haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      400,
+      850,
+      550,
+      950
+     ]
+    ]
+   },
+   "t": "2026-11-07T23:51:20+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     500,
+     310
+    ],
+    "karanlik_oran": 0.401,
+    "keskinlik": 3788,
+    "kontrast": 77,
+    "medyan": 73,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_04.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2f96a54c7f563dba": {
    "icerik": {
     "ana_kutu": [
@@ -1492,10 +1565,10 @@
   "35584de51d9b2c91": {
    "icerik": {
     "ana_kutu": [
-     0,
-     0,
-     1000,
-     1000
+     150,
+     100,
+     900,
+     900
     ],
     "bulanik": false,
     "donem": "guncel",
@@ -1503,32 +1576,31 @@
     "kisi_sayisi": 50,
     "nesneler": [
      "koltuk",
-     "masa",
+     "kürsü",
      "avize",
-     "mikrofon",
-     "ekran"
+     "bayrak"
     ],
     "notr_portre": false,
-    "s": "i1",
-    "sahne": "Türkiye Büyük Millet Meclisi Genel Kurul salonunun yukarıdan geniş açılı görünümü.",
+    "s": "i2",
+    "sahne": "TBMM genel kurul salonunun geniş açılı görünümü.",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "siyaset haberleri",
-     "meclis oturumu",
-     "kurum ziyareti"
+     "siyaset",
+     "meclis",
+     "haber"
     ],
     "uygunsuz_baglamlar": [
-     "spor müsabakası",
-     "magazin",
-     "sanat"
+     "turizm",
+     "spor",
+     "magazin"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T20:55:18+03:00",
+   "t": "2026-11-07T23:49:29+03:00",
    "teknik": {
     "doygunluk": 50.4,
     "inen": [
@@ -1543,6 +1615,23 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "35a4f6708fd7d4ef": {
+   "t": "2026-11-07T23:48:18+03:00",
+   "teknik": {
+    "doygunluk": 55.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.851,
+    "keskinlik": 1527,
+    "kontrast": 51,
+    "medyan": 8,
+    "parlaklik": 29,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Away_Days_-_15.2.22.jpg/1280px-The_Away_Days_-_15.2.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3781092e6401f525": {
    "icerik": {
@@ -2003,6 +2092,57 @@
    },
    "url": "https://images.unsplash.com/photo-1711996151738-657bd95b7cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGlja2xlYmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTQwNzQwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "4aee6d52e9c0a627": {
+   "icerik": {
+    "ana_kutu": [
+     690,
+     220,
+     990,
+     950
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "nehir",
+     "kaz"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Nehirde yüzen bir grup kaz.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doga",
+     "yasam"
+    ],
+    "uygunsuz_baglamlar": [
+     "insaat",
+     "otoyol",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:44:38+03:00",
+   "teknik": {
+    "doygunluk": 13.6,
+    "inen": [
+     500,
+     267
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 3648,
+    "kontrast": 51,
+    "medyan": 111,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Antalya%2C_K%C3%B6pr%C3%BCl%C3%BC%2C_Kanyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "4afe084f625f87c2": {
    "t": "2026-11-07T20:49:28+03:00",
    "teknik": {
@@ -2174,6 +2314,58 @@
    },
    "url": "https://images.unsplash.com/photo-1526599256864-6bedb9d7dfb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDA3NDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "525c9a3992e710c0": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sahil",
+     "deniz",
+     "çöp kutusu"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Fırtına öncesi bulutlu bir gökyüzü altında sahil şeridi.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hava_durumu",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "insaat",
+     "otoyol",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:44:38+03:00",
+   "teknik": {
+    "doygunluk": 17.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.01,
+    "keskinlik": 988,
+    "kontrast": 44,
+    "medyan": 128,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Before_storm_in_antalya.jpg/1280px-Before_storm_in_antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5413f6c1ef4c7622": {
    "icerik": {
     "ana_kutu": [
@@ -2224,6 +2416,56 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg/1280px-Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5526a1445f7b90e8": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "daire grafiği",
+     "noktalar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Siyasi partilerin meclis dağılımını gösteren renkli grafik",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "seçim analizi"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm",
+     "güncel olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:49:18+03:00",
+   "teknik": {
+    "doygunluk": 30.2,
+    "inen": [
+     500,
+     413
+    ],
+    "karanlik_oran": 0.021,
+    "keskinlik": 1915,
+    "kontrast": 63,
+    "medyan": 255,
+    "parlaklik": 216,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Turkish_parliament_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "5556cb5decfca73d": {
    "t": "2026-11-07T20:46:47+03:00",
@@ -2292,6 +2534,58 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Mountain_view_The_semuz.jpg/1280px-Antalya_Mountain_view_The_semuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "55abcd76afadce82": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     90,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami minaresi",
+     "ev",
+     "elektrik direği",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kırsal bir yerleşim yerinde evler, cami minaresi ve elektrik direkleri",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel haber",
+     "kırsal yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "sıfır atık projesi",
+     "çevre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:48:44+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.389,
+    "keskinlik": 1945,
+    "kontrast": 75,
+    "medyan": 76,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Village_of_Solak.jpg/1280px-Village_of_Solak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "56426e87a6dc039d": {
    "icerik": {
@@ -2855,6 +3149,115 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6b4125998d2840c1": {
+   "icerik": {
+    "ana_kutu": [
+     345,
+     375,
+     630,
+     930
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "otobüs",
+     "otopark",
+     "el dezenfektanı",
+     "trafik levhası",
+     "viyadük"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Otobüs içinden görünen Antalya Havalimanı çevresi ve otopark alanı.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ulaşım",
+     "havalimanı",
+     "şehir içi ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm istatistikleri",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:41:49+03:00",
+   "teknik": {
+    "doygunluk": 12.6,
+    "inen": [
+     500,
+     363
+    ],
+    "karanlik_oran": 0.317,
+    "keskinlik": 2139,
+    "kontrast": 66,
+    "medyan": 72,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg/1280px-Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6e4ace25ef64d248": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     280,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "binalar",
+     "deniz",
+     "kale",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Alanya'nın genel şehir ve kale manzarası",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir haberleri",
+     "turizm",
+     "genel tanıtım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "siyaset",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:51:06+03:00",
+   "teknik": {
+    "doygunluk": 22.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.053,
+    "keskinlik": 2084,
+    "kontrast": 40,
+    "medyan": 149,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7195fd0c99005d02": {
    "icerik": {
     "ana_kutu": [
@@ -2959,6 +3362,78 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/TC-SMI_AIRCRAFT_Boeing_737_MAX_8_%281d%29.jpg/1280px-TC-SMI_AIRCRAFT_Boeing_737_MAX_8_%281d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7566a70a1b740ed5": {
+   "t": "2026-11-07T23:48:18+03:00",
+   "teknik": {
+    "doygunluk": 30.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.934,
+    "keskinlik": 564,
+    "kontrast": 26,
+    "medyan": 2,
+    "parlaklik": 12,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/ELTON_JOHN_THE_ROCKET_MAN.jpg/1280px-ELTON_JOHN_THE_ROCKET_MAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "75f487ead28f9593": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     100,
+     850,
+     900
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "park",
+     "gölet",
+     "yürüyüş yolu",
+     "ağaçlar",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Yüksekten çekilmiş geniş bir park ve peyzaj alanı manzarası.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir planlama",
+     "peyzaj"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "suç",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:48:21+03:00",
+   "teknik": {
+    "doygunluk": 19.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.006,
+    "keskinlik": 2575,
+    "kontrast": 52,
+    "medyan": 139,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Expo_2016_Antalya_-_West_View.jpg/1280px-Expo_2016_Antalya_-_West_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7bf56c54c2aa1113": {
    "icerik": {
@@ -3831,6 +4306,57 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Medvedev_and_Erdogan_in_Turkey21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "8bd0cd3e783e8f44": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     150,
+     850,
+     850
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "milletvekili koltukları",
+     "kürsü",
+     "Türk bayrağı"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "TBMM genel kurul salonunun genel görünümü",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "meclis haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm",
+     "ekonomi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:49:18+03:00",
+   "teknik": {
+    "doygunluk": 56.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.318,
+    "keskinlik": 3534,
+    "kontrast": 70,
+    "medyan": 75,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8eaae487e846d64b": {
    "icerik": {
     "ana_kutu": [
@@ -3909,6 +4435,57 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Hairdressing_competition_in_Rhyl_%281495618%29.jpg/1280px-Hairdressing_competition_in_Rhyl_%281495618%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8eba14ceaac607d2": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     750,
+     550,
+     850
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 100,
+    "nesneler": [
+     "kürsü",
+     "çiçek",
+     "sandalye",
+     "avize"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Resmi bir tören salonunda kürsüde konuşan kişi ve izleyenler",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "tören haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Alanya il olma haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:51:20+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.335,
+    "keskinlik": 4246,
+    "kontrast": 75,
+    "medyan": 80,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "905d498ba762d205": {
    "t": "2026-11-07T20:46:33+03:00",
@@ -4126,6 +4703,59 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Antalya_from_an_airplane_window_2022.jpg/1280px-Antalya_from_an_airplane_window_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9aa43f45871a3059": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     50,
+     300,
+     450
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "viyadük",
+     "inşaat iskelesi",
+     "yeşil koruyucu örtü",
+     "toprak"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "İnşaat halindeki bir viyadük ve yeşil örtüyle kaplı şantiye alanı.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "altyapı projesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:48:35+03:00",
+   "teknik": {
+    "doygunluk": 33.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 4154,
+    "kontrast": 57,
+    "medyan": 119,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jiangsu_Provincial_Highway_238_construction_site_%2820240714%29_P34.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240714%29_P34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9c3e4ef0cd4ef610": {
    "icerik": {
     "ana_kutu": [
@@ -4305,6 +4935,23 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Istan-Schah16_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "9fd6d9c865a7c0a5": {
+   "t": "2026-11-07T23:51:12+03:00",
+   "teknik": {
+    "doygunluk": 18.3,
+    "inen": [
+     500,
+     667
+    ],
+    "karanlik_oran": 0.452,
+    "keskinlik": 347,
+    "kontrast": 104,
+    "medyan": 118,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "a315a2a0930fca45": {
    "icerik": {
     "ana_kutu": [
@@ -4429,6 +5076,59 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a449d608a1e5dafc": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     130,
+     610,
+     950
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "uçak",
+     "apron",
+     "havalimanı binası"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Antalya Havalimanı apronunda park halindeki uçaklar.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "havacılık",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:41:49+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.01,
+    "keskinlik": 849,
+    "kontrast": 30,
+    "medyan": 161,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a570d611cb5da5c1": {
    "icerik": {
@@ -4588,6 +5288,59 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkish_Ground_services_sign.jpg/1280px-Turkish_Ground_services_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a893427f5dd019e8": {
+   "icerik": {
+    "ana_kutu": [
+     560,
+     700,
+     780,
+     735
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kontrol kulesi",
+     "apron",
+     "uçak"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Antalya Havalimanı apronu ve kontrol kulesi.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "havacılık",
+     "turizm",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:41:49+03:00",
+   "teknik": {
+    "doygunluk": 35.3,
+    "inen": [
+     500,
+     309
+    ],
+    "karanlik_oran": 0.016,
+    "keskinlik": 923,
+    "kontrast": 39,
+    "medyan": 150,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a9364225da046b40": {
    "t": "2026-11-07T20:48:56+03:00",
@@ -5186,6 +5939,23 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg/1280px-TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ba003a40fa582531": {
+   "t": "2026-11-07T23:51:12+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.521,
+    "keskinlik": 2702,
+    "kontrast": 64,
+    "medyan": 46,
+    "parlaklik": 71,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "be88196d1a62037a": {
    "icerik": {
@@ -5798,6 +6568,57 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d34f3d1a8b63a179": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     200,
+     700,
+     800
+    ],
+    "bulanik": false,
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "anıt",
+     "ağaç",
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "TBMM binasının dış cephesi ve önündeki rölyefli anıt.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "tarih"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:49:29+03:00",
+   "teknik": {
+    "doygunluk": 32.1,
+    "inen": [
+     500,
+     233
+    ],
+    "karanlik_oran": 0.177,
+    "keskinlik": 1831,
+    "kontrast": 80,
+    "medyan": 147,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Building_of_the_Grand_National_Assembly_of_Turkey.jpg/1280px-Building_of_the_Grand_National_Assembly_of_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d503f335dc699ae8": {
    "icerik": {
     "ana_kutu": [
@@ -6071,6 +6892,59 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3NDg5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "de4defb683c7ceb9": {
+   "icerik": {
+    "ana_kutu": [
+     580,
+     480,
+     760,
+     650
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "havalimanı terminali",
+     "uçak",
+     "apron"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Antalya Havalimanı terminal binası ve apron görünümü.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "havacılık",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:41:49+03:00",
+   "teknik": {
+    "doygunluk": 39.4,
+    "inen": [
+     500,
+     345
+    ],
+    "karanlik_oran": 0.011,
+    "keskinlik": 1004,
+    "kontrast": 31,
+    "medyan": 144,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Antalya_Airport_%28AYT%29_Turkey_-_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "dea844570904eb40": {
    "icerik": {
@@ -7119,6 +7993,109 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f77db9d2d37b71ce": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     0,
+     650,
+     720
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş bina",
+     "pencere",
+     "yabani otlar"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Eski taş bir bina ve önünde yabani otlar",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari",
+     "tarihi yapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sıfır atık projesi",
+     "güncel çevre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:48:44+03:00",
+   "teknik": {
+    "doygunluk": 15.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.006,
+    "keskinlik": 1599,
+    "kontrast": 64,
+    "medyan": 128,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Solak.jpg/1280px-Solak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f7cdf4660ba571e7": {
+   "icerik": {
+    "ana_kutu": [
+     550,
+     320,
+     690,
+     600
+    ],
+    "bulanik": false,
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil",
+     "trafik ışığı",
+     "yol",
+     "inşaat yapısı"
+    ],
+    "notr_portre": false,
+    "s": "i2",
+    "sahne": "Kavşak noktası ve uzakta görünen inşaat yapıları.",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ulaşım haberi",
+     "altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "t": "2026-11-07T23:48:35+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.057,
+    "keskinlik": 765,
+    "kontrast": 71,
+    "medyan": 199,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f8666bf6374effb3": {
    "icerik": {
     "ana_kutu": null,
@@ -7481,7 +8458,7 @@
    "gosterdigi": "Beyaz ceketli erkek ellerini kavuşturmuş oturuyor.",
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T22:20:34+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "beIN SPORTS Türkiye / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7520,12 +8497,13 @@
    "notr_portre": true,
    "qid": "Q202569",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T22:20:34+03:00",
+   "son_kabul": "2026-11-07T23:38:54+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   },
   "32f8aa3cefac1d57": {
    "alt_tur": "kurum",
@@ -7533,12 +8511,12 @@
     2239,
     1658
    ],
-   "cekim_tarihi": "2017-08-20",
+   "cekim_tarihi": "2017",
    "dogrulama_surumu": "h1e-i2-y2",
    "gosterdigi": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü ve merdivenler",
-   "gosterim_ad": "",
+   "gosterim_ad": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü ve merdivenler",
    "ilk_kabul": "2026-11-07T22:08:51+03:00",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Bestalex / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7561,7 +8539,12 @@
      }
     ],
     "takimlar": [],
-    "tesisler": [],
+    "tesisler": [
+     {
+      "ad": "Gazipaşa Alanya Havalimanı terminal binası dış görünümü ve merdivenler",
+      "qid": ""
+     }
+    ],
     "yerler": []
    },
    "konular": [
@@ -7585,7 +8568,7 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T23:05:10+03:00",
+   "son_kabul": "2026-11-07T23:38:41+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -7606,7 +8589,7 @@
    "gosterdigi": "Modern mimariye sahip Antalya Ticaret ve Sanayi Odası dış cephesi",
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T22:18:24+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Muhsin Sevgen / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7619,6 +8602,10 @@
    "kimlikler": {
     "kisiler": [],
     "kurumlar": [
+     {
+      "ad": "Modern mimariye sahip Antalya Ticaret ve Sanayi Odası dış cephesi",
+      "qid": ""
+     },
      {
       "ad": "Antalya Ticaret ve Sanayi Odası",
       "qid": ""
@@ -7648,14 +8635,15 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T22:18:24+03:00",
+   "son_kabul": "2026-11-07T23:33:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   },
   "56426e87a6dc039d": {
    "alt_tur": "kurum",
@@ -7668,7 +8656,7 @@
    "gosterdigi": "Antik mermer lahit üzerindeki Medusa kabartması ve kanatlı figürler.",
    "gosterim_ad": "Antalya Nekropol Müzesi",
    "ilk_kabul": "2026-11-07T20:49:15+03:00",
-   "kabul_sayisi": 6,
+   "kabul_sayisi": 7,
    "kaynak": {
     "atif": "Engin_Akyurt / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7713,14 +8701,15 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T22:19:05+03:00",
+   "son_kabul": "2026-11-07T23:34:23+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg/1280px-Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   },
   "69b99e6cccf3be2b": {
    "alt_tur": "kisi_genel",
@@ -7733,7 +8722,7 @@
    "gosterdigi": "Murat Kurum'un yakın plan portre fotoğrafı",
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
-   "kabul_sayisi": 15,
+   "kabul_sayisi": 16,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7772,10 +8761,69 @@
    "notr_portre": true,
    "qid": "Q56125668",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T22:40:43+03:00",
+   "son_kabul": "2026-11-07T23:32:56+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "6e4ace25ef64d248": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3072,
+    2304
+   ],
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h1e-i2-y2",
+   "gosterdigi": "Alanya'nın genel şehir ve kale manzarası",
+   "gosterim_ad": "Alanya",
+   "ilk_kabul": "2026-11-07T23:51:06+03:00",
+   "kabul_sayisi": 2,
+   "kaynak": {
+    "atif": "Kornelka2 / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Kornelka2",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Turcja.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Alanya şehir manzarası",
+    "Alanya şehir merkezi",
+    "ağaç",
+    "binalar",
+    "deniz",
+    "kale"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/500px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "şehir haberleri",
+    "turizm",
+    "genel tanıtım"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "siyaset",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:51:20+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
@@ -7791,7 +8839,7 @@
    "gosterdigi": "Mavi gökyüzünde iniş takımlarını açmış SunExpress yolcu uçağı",
    "gosterim_ad": "SunExpress",
    "ilk_kabul": "2026-11-07T22:18:51+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "MarcelX42 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -7832,14 +8880,72 @@
    "notr_portre": false,
    "qid": "Q1137136",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-07T22:18:51+03:00",
+   "son_kabul": "2026-11-07T23:33:43+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "8bd0cd3e783e8f44": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1280,
+    720
+   ],
+   "cekim_tarihi": "2020-06-02",
+   "dogrulama_surumu": "h1e-i2-y2",
+   "gosterdigi": "TBMM genel kurul salonunun genel görünümü",
+   "gosterim_ad": "TBMM",
+   "ilk_kabul": "2026-11-07T23:49:18+03:00",
+   "kabul_sayisi": 2,
+   "kaynak": {
+    "atif": "Yildiz Yazicioglu (VOA) / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "Yildiz Yazicioglu (VOA)",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "TBMM kürsüsü",
+    "TBMM kürsüsü veya salonu",
+    "Türk bayrağı",
+    "kürsü",
+    "milletvekili koltukları"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg/500px-Turkish_parliament_after_COVID-19_hiatus.jpg",
+   "kullanilabilir": [
+    "siyaset",
+    "meclis haberleri"
+   ],
+   "kullanilamaz": [
+    "turizm",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sinif": "konu",
+   "son_kabul": "2026-11-07T23:49:29+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "a315a2a0930fca45": {
    "alt_tur": "kurum_haber",
@@ -8094,7 +9200,7 @@
    "gosterdigi": "Kızılkule ve limanın kuşbakışı görünümü.",
    "gosterim_ad": "Kızılkule",
    "ilk_kabul": "2026-11-07T22:32:40+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "© CANONIER / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -8108,7 +9214,12 @@
     "kisiler": [],
     "kurumlar": [],
     "takimlar": [],
-    "tesisler": [],
+    "tesisler": [
+     {
+      "ad": "Kızılkule",
+      "qid": "Q2470666"
+     }
+    ],
     "yerler": [
      {
       "ad": "Kızılkule",
@@ -8122,6 +9233,7 @@
     "liman",
     "minare",
     "surlar",
+    "tarihi yapı",
     "tekneler"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/500px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8136,15 +9248,16 @@
    ],
    "notr_portre": false,
    "qid": "Q2470666",
-   "sinif": "yer",
-   "son_kabul": "2026-11-07T22:32:40+03:00",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-07T23:34:53+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   },
   "f6f366199e930cea": {
    "alt_tur": "yer_konu",
@@ -8157,7 +9270,7 @@
    "gosterdigi": "Otel terasında şezlonglar ve kedi",
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-07T22:19:46+03:00",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Insidderr / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -8178,6 +9291,7 @@
     "deniz",
     "kedi",
     "otel",
+    "otel, tatil bölgesi, turistler",
     "teras",
     "şezlong"
    ],
@@ -8193,14 +9307,15 @@
    "notr_portre": false,
    "qid": "",
    "sinif": "konu",
-   "son_kabul": "2026-11-07T22:19:46+03:00",
+   "son_kabul": "2026-11-07T23:46:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
     "kart",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   },
   "f8666bf6374effb3": {
    "alt_tur": "kisi_genel",
@@ -8213,7 +9328,7 @@
    "gosterdigi": "Mavi ceketli bir erkeğin gülümseyen portresi.",
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T21:37:08+03:00",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -8254,12 +9369,13 @@
    "notr_portre": true,
    "qid": "Q714518",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T22:18:59+03:00",
+   "son_kabul": "2026-11-07T23:34:15+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "detay"
-   ]
+   ],
+   "yalniz_ayni_olay": false
   }
  }
 }

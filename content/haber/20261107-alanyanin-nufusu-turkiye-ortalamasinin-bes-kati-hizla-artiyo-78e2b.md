@@ -22,20 +22,65 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Alanya
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''Alanya cityscape'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Alanya genel görünümü, nüfus yoğunluğu ve şehirleşme haberi için çok uygundur.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Alanya'nın genel şehir dokusunu ve yoğun yapılaşmasını gösterdiği için nüfus artışı haberine uygundur.
+  surum: h1-2026-11-07
   konu_imza: a122182fb2bf
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-07T18:54:51+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    tarih: '2026-11-07T23:51:06+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.1-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Alanya - Turkish city
+  sinif: konu
+  hat: h1e
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 375
+      parlaklik: 135
+      medyan: 149
+      karanlik_oran: 0.053
+      kontrast: 40
+      doygunluk: 22.4
+      keskinlik: 2084
+      s: t1
+    icerik:
+      sahne: Alanya'nın genel şehir ve kale manzarası
+      nesneler:
+      - binalar
+      - deniz
+      - kale
+      - ağaç
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: Alanya şehir merkezi
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      konu_kutusu:
+      - 380
+      - 280
+      - 950
+      - 950
+      uygunluk: 9
+      gerekce: Alanya'nın genel şehir dokusunu ve yoğun yapılaşmasını gösterdiği için nüfus artışı haberine uygundur.
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %12); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,6 +88,27 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-ulke-ortalamasinin-5-kati-hizla-buyuyor-altyapi-bu-hiza-yetisebiliyor-mu
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Kornelka2 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yerlesim:
+  boyut:
+  - 3072
+  - 2304
+  dikey: false
+  surum: y2
+  manset: kaplama
+  yan: false
+  kart: true
+  detay: true
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 73% 50%
+  o_mansetyan_m: 73% 50%
+  o_yan_d: 50% 100%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Türkiye'nin önemli turizm merkezlerinden biri olan Alanya, son yıllarda kaydettiği nüfus artış hızıyla dikkatleri üzerine çekiyor. Türkiye İstatistik Kurumu verilerine göre, 2015 yılında 291 bin 643 olan ilçe nüfusu, 2025 yılı itibarıyla 371 bin 547 kişiye ulaştı. Geride kalan on yıllık süreçte yaşanan yaklaşık seksen bin kişilik bu artış, bölgenin demografik yapısındaki değişimi gözler önüne seriyor.
 

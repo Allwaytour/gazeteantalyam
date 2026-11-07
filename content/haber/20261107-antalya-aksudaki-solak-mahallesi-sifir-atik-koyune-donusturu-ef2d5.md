@@ -23,20 +23,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 0e6bc01845c9
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T14:31:34+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-07T23:48:37+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Solak Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Solak Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (0/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/guncel/antalya-aksu-da-solak-mahallesi-cop31-oncesi-sifir-20404988-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Aksu ilçesine bağlı yaklaşık 800 nüfuslu Solak Mahallesi, COP31 İklim Zirvesi öncesinde gerçekleştirilen kapsamlı bir projeyle Sıfır Atık Köyü'ne dönüştürüldü. Zirvenin yapılacağı EXPO alanının hemen yanında yer alan mahallede, altyapıdan binalara kadar pek çok nokta baştan aşağı yenilendi. Proje kapsamında mahallenin yolları asfaltlanırken, yol kenarları çiçekler ve bitkilerle donatıldı.
 
