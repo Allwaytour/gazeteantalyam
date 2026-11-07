@@ -25,20 +25,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: fce12b75956d
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T16:01:35+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T23:08:43+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ul'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ulusal Hematoloji Kongresi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''52'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -47,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-52-ulusal-hematoloji-kongresinde-tedavi-yontemlerindeki-gelismeler-ele-alindi-119515345
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Türk Hematoloji Derneği öncülüğünde Antalya'da düzenlenen 52. Ulusal Hematoloji Kongresi sona erdi. Belek bölgesindeki bir otelde beş gün süren bilimsel buluşmada, uzman hekimler, araştırmacılar ve sektör paydaşları bir araya geldi. Etkinliğe bin 200'ün üzerinde katılım sağlandı.
 

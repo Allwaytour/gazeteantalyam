@@ -24,20 +24,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 5db65abe3061
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T18:31:41+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-07T23:06:51+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Türk Hematoloji Derneği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Türk Hematoloji Derneği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''52'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/saglik/antalya-daki-kongrede-cocukluk-cagi-losemisinde-20405242-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Türk Hematoloji Derneği'nin ev sahipliğinde gerçekleştirilen 52. Ulusal Hematoloji Kongresi, Belek'teki bir otelde bin 200'ün üzerinde katılımcıyla tamamlandı. Beş gün süren bilimsel buluşmada, uzman hekimler ve araştırmacılar hematoloji alanındaki son gelişmeleri değerlendirdi. Avrupa Patoloji Derneği ile ortak bir toplantının da yapıldığı kongrede, yurt dışından gelen bilim insanlarının katılımıyla uluslararası bir boyut kazandı.
 

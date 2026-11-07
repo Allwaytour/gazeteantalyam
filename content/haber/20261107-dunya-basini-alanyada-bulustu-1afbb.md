@@ -26,34 +26,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: c2563c9b8e73
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T16:31:56+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-07T23:06:46+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 4/10); haberin gerektirdiği unsur'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Kızılkule; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Dim'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Levent Eraslan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''6. Küresel Medya Buluşması'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Volleyball.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 4/10); haberin gerektirdiği unsur görünmüyor (gazeteciler, konferans salonu) — Alanya'nın genel şehir v
+    kod: aday_bulunamadi
+    aciklama: '''Eftelia Marin Resort Otel'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Lonicera World Otel'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Dim'' '
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -62,6 +50,9 @@ otomatik: true
 yz: true
 kaynak: Merzifon Bilgi Gazetesi
 kaynak_url: https://www.merzifonbilgigazetesi.com/gundem/dunya-basini-alanyada-bulustu/76200
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Küresel Gazeteciler Konseyi tarafından organize edilen 6. Küresel Medya Buluşması, Antalya'nın Alanya ilçesinde başladı. Eftelia Marin Resort Otel'de gerçekleştirilen ve Türkiye dahil 32 farklı ülkeden yaklaşık 350 gazetecinin yer aldığı buluşma, 6 ile 10 Kasım 2026 tarihleri arasında düzenleniyor. Program kapsamında ulusal ve uluslararası medya temsilcileri bir araya geliyor.
 

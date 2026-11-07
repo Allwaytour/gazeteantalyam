@@ -46,6 +46,11 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/fenerbahce-corum-fkya-konuk-olacak/561047
+gorsel_bekleyen:
+  surum: h1-2026-11-07
+  tarih: '2026-11-07T23:06:44+03:00'
+  sayi: 1
+  neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
 ---
 Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin saat 16.00'da deplasmanda Corum FK ile karsilikli mucadele verecek. Ligde geride kalan 10 karsilasmada her iki ekip de 5 galibiyet, 1 beraberlik ve 4 maglubiyet alarak 16'sar puan topladi. Fenerbahce averajla 6. sirada yer alirken, kirmizisiyahli ev sahibi ekip 7. sirada bulunuyor.
 

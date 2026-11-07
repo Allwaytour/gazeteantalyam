@@ -22,37 +22,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 5 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 5b9ac698b69f
   gorsel_url: /images/kategori/turizm.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T13:01:23+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    tarih: '2026-11-07T23:08:48+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '5 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 hediye paketleri'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (gift box, local products, jam jar) ilişkili lisanslı fotoğraf bulunamadı; ''yöresel lezzetlerden oluşan hediye paketleri'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: yöresel ürünler hediye kutusu, reçel kavanozları yöresel)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Rheinland-Pfalz_Sergeant_Morales_Club,_BurgGymnasium_Partner_to_Support_Local_Food_Bank_(9451090).jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:40-et-8_boxcar_P1020424.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Mountain_view_The_semuz.jpg
-      katman: yer
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (ahşap hediye kutusu, cam kavanoz reçel) — Antalya manzara
-    - sayfa: https://commons.wikimedia.org/wiki/File:20180111_AntalyaMarina_5296_(26236632848).jpg
-      katman: yer
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (ahşap hediye kutusu, cam kavanoz reçel) — Antalya'dan sok
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Serik_Plaj%C4%B1.jpg
-      katman: yer
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (ahşap hediye kutusu, cam kavanoz reçel) — Antalya sahil v
+    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: siyasetçi; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (1/10, en az 5); habere uygunluk düşük (1/10, en az 7); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara '
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -61,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: AjansHaber
 kaynak_url: https://ajanshaber.com.tr/haber/cop31-icin-antalya-dan-dunya-liderlerine-ozel-hediye-yoresel-lezzetler
+gorsel_onceki:
+  gorsel: /images/kategori/turizm.png
+  gorsel_kredi: ''
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı için hazırlıklar devam ediyor. Küresel iklim politikalarının ele alınacağı ve çok sayıda ülkeden devlet yetkilisinin bir araya geleceği organizasyon için kentte kapsamlı çalışmalar yürütülüyor.
 

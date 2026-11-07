@@ -22,28 +22,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: ce93c1418ae8
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T15:31:34+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-07T23:09:44+03:00'
+    yontem: h1
+    model: gemini-3.1-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-    notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Antalya Valiliği sayfası aynı haber değil (benzerlik %25); kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host='www.antalya.gov.tr', port=443): Read timed out. (read ; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; 'Antalya Evi' için konuyla (breakfast table) ilişkili lisanslı fotoğraf bulunamadı; 'gastronomi buluşması' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: gastronomi buluşması, Antalya local dishes)"
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Mashhad_Traditional_Foods_Festival_20_(Mehr,_2025).jpg
-      katman: nesne
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Mashhad_Traditional_Foods_Festival_24_(Mehr,_2025).jpg
-      katman: nesne
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur görün
+    kod: aday_bulunamadi
+    aciklama: '''Antalya Evi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''gastronomi buluşması'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Ant'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -52,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-valisi-hulusi-sahinden-cop31-sponsorlarina-ozel-davet/388832
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Antalya'nın ev sahipliğinde yürütülen çalışmalar çerçevesinde, COP31 boyunca Antalya Evi’nde misafirlere sunulacak geleneksel tatların tanıtıldığı bir gastronomi buluşması gerçekleştirildi. Antalya Valisi Hulusi Şahin ve eşi Ebru Şahin'in ev sahipliğinde yapılan programa, projeye destek veren sponsorlar katıldı. Toplantıda, kentin köklü mutfak kültürünü uluslararası platforma taşıyacak menü üzerine ayrıntılı bir sunum yapıldı.
 
