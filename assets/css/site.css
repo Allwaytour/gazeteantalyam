@@ -490,3 +490,22 @@ main>.kap>*:first-child{margin-top:0}
   .manset-yazi-b{font-size:24px}
   .haber .kapak-dikey img{max-height:520px}
 }
+/* Dikey portre kartı (görsel hattı yerleşimi kart_portre): geniş kartta yüz büyütülmesin/kesilmesin diye küçük 3:4 fotoğraf solda,
+   başlık sağda. Fotoğrafın geniş karta uymaması haberi fotoğrafsız bırakmaz. */
+.hk-portre{box-shadow:inset 0 3px 0 var(--turuncu);align-self:start}
+.hk-portre .hk-a{flex-direction:row;align-items:flex-start}
+.hk-pg{flex:none;width:34%;max-width:118px;aspect-ratio:3/4;overflow:hidden;background:#E9EAEC;margin:17px 0 16px 16px}
+.hk-pg img{display:block;width:100%;height:100%;object-fit:cover;object-position:var(--o,50% 30%)}
+.hk-portre .hk-m{padding:15px 16px 16px 14px;gap:7px;min-width:0}
+.hk-portre .hk-b{-webkit-line-clamp:4}
+.hk-portre .hk-o{-webkit-line-clamp:3}
+.yn-portre>a{display:flex;align-items:stretch}
+.yn-pg{flex:none;width:31%;max-width:128px;overflow:hidden;background:#E9EAEC}
+.yn-pg img{display:block;width:100%;height:100%;object-fit:cover;object-position:var(--o,50% 30%)}
+.yn-portre .yn-yazi{flex:1;min-width:0}
+@media (max-width:640px){
+  .hk-pg{width:36%;margin:13px 0 12px 11px}
+  .hk-portre .hk-m{padding:11px 10px 12px 9px;gap:5px}
+  .hk-portre .hk-b{font-size:15px;-webkit-line-clamp:5}
+  .yn-portre{aspect-ratio:auto}
+}
