@@ -23,28 +23,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 3460355d6911
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T14:32:05+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-07T22:40:44+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''NAVTEX iptali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_9_March_2022_-_Gas_Station_Prices.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_9_March_2022_-_Shel_Petrol_Station_Deli2Go.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    aciklama: 'habere uygunluk düşük (0/10, en az 7); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zorunlu unsur görünmüyor: deniz, gemi'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -53,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: ssbulten.com.tr
 kaynak_url: https://ssbulten.com.tr/gundem/detay/yunanistan-navtexi-antalya-istasyonu-iptal-etti-disisleri-izin-verilmedi--28726
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Yunanistan ve Fransa ortaklığındaki Girit-Kıbrıs hattı projesi kapsamında planlanan deniz dibi taraması girişimi, Türkiye'nin kararlı tutumuyla karşılaştı. Türk kıta sahanlığında izinsiz elektrik kablo araştırması yapmak amacıyla yayımlanan NAVTEX ilanı, Antalya İstasyonu tarafından geçersiz kılındı. Fransa bayraklı bir gemiyle yapılması planlanan ve rotasının büyük bölümü Türkiye'nin deniz yetki alanlarında kalan faaliyet için Ankara'dan herhangi bir izin talebinde bulunulmadığı bildirildi.
 

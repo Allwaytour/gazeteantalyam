@@ -19,14 +19,14 @@ gorsel_secim:
   kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   gosterilen: Kepez Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: 'kütüphane: somut konu (genişletilmiş asfalt yol, Yaşar Sobutay Bulvarı) (doğrulama h1e-i2-y2); görsel kontrol: Yol genisletme ve altyazi calismalarini dogrudan gosteren temsilî bir calisma sahasidir.'
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Fotoğrafta Yaşar Sobutay Bulvarı'ndaki yol genişletme ve altyapı çalışmaları net bir şekilde görülmektedir.
   surum: h1-2026-11-07
   konu_imza: 5d3728767989
   gorsel_url: /images/kurum/0552fc8ebff04913.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-07T22:32:47+03:00'
+    tarih: '2026-11-07T22:39:38+03:00'
     yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
@@ -59,9 +59,9 @@ gorsel_secim:
       ana_ozne_gorunuyor: true
       olay_gorunuyor: true
       gerekli:
-      - unsur: genisletilmis asfalt yol
+      - unsur: genişletilmiş asfalt yol
         var: true
-      - unsur: Yasar Sobutay Bulvari
+      - unsur: Yaşar Sobutay Bulvarı
         var: true
       yasak: []
       konu_ana_unsur: true
@@ -72,15 +72,15 @@ gorsel_secim:
       ilgisiz_yer_nesne: false
       baska_olay_sanilir: false
       konu_kutusu:
-      - 321
-      - 41
-      - 808
-      - 951
-      uygunluk: 9
-      gerekce: Yol genisletme ve altyazi calismalarini dogrudan gosteren temsilî bir calisma sahasidir.
+      - 342
+      - 38
+      - 810
+      - 955
+      uygunluk: 10
+      gerekce: Fotoğrafta Yaşar Sobutay Bulvarı'ndaki yol genişletme ve altyapı çalışmaları net bir şekilde görülmektedir.
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: h1-2026-11-07:10
+  zorla: h1-2026-11-07:11
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -139,9 +139,9 @@ gorsel_yerlesim:
   kart: true
   detay: true
   o_manset_d: 50% 100%
-  o_manset_m: 46% 50%
+  o_manset_m: 47% 50%
   o_yan_d: 50% 100%
-  o_yan_t: 46% 50%
+  o_yan_t: 47% 50%
   o_yan_m: 50% 100%
   o_kart: 50% 100%
   url: /images/kurum/0552fc8ebff04913.jpg

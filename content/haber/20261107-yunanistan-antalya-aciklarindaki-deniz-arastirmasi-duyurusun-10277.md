@@ -23,34 +23,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: f1f4b20621c2
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T14:31:41+03:00'
-    yontem: Gemini görsel kontrol
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-07T22:41:03+03:00'
+    yontem: h1
     model: gemini-3.5-flash-lite
+  hat: h1e
   kurum: k5
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %5); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded'
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya açıklarında seyre; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya liman ve deniz gö; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya sahil ve deniz ma; haberin konusuyla doğrud'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''NAVTEX iptali'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ilk adaylar elendi; 2. turda 2 aday daha denendi'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:FlughafentransferAntalya.png
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya liman ve deniz görünümü, haberin Akdeniz'deki denizcilik duyurusu konusuyla uyumlu.
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Serik_Plaj%C4%B1.jpg
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya sahil ve deniz manzarası, haberin bölgeyle ilgili içeriğine uygundur.
-    - sayfa: https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_-_panoramio_(2).jpg
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya açıklarında seyreden bir tekne ve deniz manzarası; haberin konusuyla uyumlu ve arşiv am
-    - sayfa: https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_-_panoramio_(3).jpg
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalya sahilini ve Akdeniz'i gösteren genel deniz manzarası; NAVTEX iptali haberi için uygun b
+    kod: aday_bulunamadi
+    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %5); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''deniz araştırması iptali'' bir '
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -59,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: ssbulten.com.tr
 kaynak_url: https://ssbulten.com.tr/en/gundem/detay/greece-cancels-navtex-for-cable-survey-off-antalya-after-turkey-denies-permission--28727
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Yunanistan, Türkiye'nin izin verilmediğini açıklamasının ardından Antalya açıklarında planlanan deniz tabanı kablo araştırması için yayınladığı NAVTEX denizcilik duyurusunu iptal etti. Türkiye Dışişleri Bakanlığı, Atina yönetimini uyararak Türk deniz yetki alanlarındaki her türlü araştırma faaliyetinin Türk makamlarıyla koordine edilmesi gerektiğini vurguladı.
 
