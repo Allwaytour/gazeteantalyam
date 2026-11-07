@@ -2515,8 +2515,13 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
     baslangic = time.time()
     tum = sorted(os.listdir(HABER_KLASOR), reverse=True)
     yeniden = [a for a in (bag.ayar.get("gorsel_yeniden") or []) if isinstance(a, str) and a in tum]
-    oncelikli = yeniden + [a for a in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(a, str) and a in tum and a not in yeniden]
-    oncelikli += [a for a in ana_sayfa_onceligi(tum) if a not in oncelikli]
+    # Sıra: tek seferlik yeniden işleme → kabul testinin zorunlu beş örneği → ana sayfada görünen haberler → eski doğrulama
+    # örnekleri → kalanlar (yenilerden eskiye). Elle seçilmiş görseller aşağıda atlanır; eski görsel gorsel_gecmis'te kalır.
+    oncelikli = list(yeniden)
+    for a in ([d for d in (bag.ayar.get("gorsel_deneme") or [])[:5] if isinstance(d, str)] + ana_sayfa_onceligi(tum)
+              + [d for d in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(d, str)]):
+        if a in tum and a not in oncelikli:
+            oncelikli.append(a)
     for ad in oncelikli + [a for a in tum if a not in oncelikli]:
         # Yeni gelen haberlerin görsel kontrolü için günlük hakkın bir kısmı her zaman ayrılır (toplu düzeltme onu tüketmez).
         if duzeltilen >= limit or not bag.yz_hakki(2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
