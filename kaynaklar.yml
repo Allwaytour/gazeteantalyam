@@ -13,9 +13,10 @@ ayarlar:
   en_eski_saat: 24          # Bundan eski kaynak haberleri alınmaz
   en_eski_gun: 0            # 0 = otomatik haberler silinmez (arşiv; arama motorlarındaki sayfalar kalır). Sayı yazılırsa o kadar gün sonra silinir
 
-  # Görsel seçimi (scripts/gorsel_sec.py): izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
+  # Görsel hattı h1 (scripts/gorsel_hat.py): aday bulma → yayın uygunluğu (lisans, teknik kalite, içerik, haber ilişkisi) → yerleşim.
+  # Eski açıklama: izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
-  gorsel_toplu_duzeltme: true   # true: eski haberlerin otomatik görselleri her turda küçük gruplar hâlinde düzeltilir
+  gorsel_toplu_duzeltme: false  # h1 kabul testi tamamlanana kadar kapalı; açılınca önce ana sayfadaki haberler düzeltilir
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
   gorsel_duzeltme_tur: 10       # toplu düzeltmede bir turda en fazla kaç haber
@@ -25,28 +26,34 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 20          # aynı denemeyi yeniden çalıştırmak için artırın
-  gorsel_deneme:              # karşılaştırmalı deneme listesi (haber dosyalarını değiştirmez)
-    - 20261106-antalya-ve-kocaelide-kazi-kazan-talihlileri-toplam-32-milyon-85893.md
-    - 20261106-antalyadaki-cop31-alaninda-saglik-onlemleri-artirildi-f1e13.md
-    - 20261106-antalyada-mobilya-fabrikasinda-yangin-cikti-4eaa2.md
-    - 20261106-antalyada-ormanda-kaybolan-doga-yuruyuscusu-3-saatte-bulundu-2d5b6.md
-    - 20261106-kepezde-baris-manco-bulvari-yenileniyor-bf191.md
-    - 20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk-5d53d.md
-    - 20261106-alanya-genc-is-insani-serkan-derenin-vefatiyla-yasa-boguldu-26ebd.md
-    - 20261106-dunyanin-iklim-zirvesi-antalyada-basliyor-8b6fe.md
-    - 20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f.md
+  gorsel_deneme_no: 21          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme:                # h1 kabul testi: ilk beşi zorunlu hatalı örnekler (haber dosyalarını değiştirmez; sonuç: /gorsel-deneme/)
+    - 20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md
+    - 20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md
+    - 20261106-manavgatta-genc-milliler-bulustu-8-ulke-turnuvada-ter-doktu-1d3ff.md
+    - 20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95430.md
+    - 20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275.md
+    - 20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md
+    - 20261106-avrupanin-devleri-alanya-sahillerinde-kupa-mucadelesi-veriyo-ca857.md
+    - 20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md
+    - 20261104-atsodan-bakan-kuruma-aksu-altintas-dosyasi-df983.md
+    - 20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md
+    - 20261106-babacandan-yorsiada-ziyaret-64399.md
+    - 20261106-antalyanin-merkezindeki-nekropolde-2-bin-300-yillik-lahit-uy-eebff.md
+    - 20261106-asgari-ucret-tartismalarinda-satin-alma-gucu-ve-enflasyon-vu-1c2b2.md
+    - 20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md
+    - 20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12-85f66.md
+    - 20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi-b2e30.md
+    - 20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51cd5.md
+    - 20261107-antalyada-greenpeaceten-cop31-oncesi-pankartli-eylem-5b7fb.md
+    - 20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag-99653.md
+    - 20261107-fenerbahce-corum-fk-deplasmaninda-78952.md
+    - 20261107-korkutelinde-su-kesintisi-uyarisi-3ee2c.md
+    - 20261106-antalyaspor-ve-alanyaspordan-4-futbolcu-umit-milli-takim-kad-d3d42.md
+    - 20261107-alanyada-ceren-karadayinin-olumune-verilen-hapis-cezasina-an-3a86c.md
     - 20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv-ea8ae.md
-    - 20261106-emeklilik-dilekcesi-verecekler-icin-kritik-surec-2026-mi-202-a3af8.md
-    - 20261105-alanyada-kasim-ayi-spor-musabakalari-icin-guvenlik-zirvesi-08f6e.md
-    - 20261105-fenerbahce-baskoniyi-rahat-gecti-a37b3.md
-    - 20261105-kizilkulede-cumhuriyet-ve-ataturk-sergisi-02047.md
-    - 20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b-87900.md
-    - 20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla-74007.md
-    - 20261105-af-orgutunden-cop31-oncesi-turkiyede-insan-haklari-uyarisi-56bf0.md
-    - 20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae.md
-    - 20261105-kutsi-yarin-alanyada-muzikseverlerle-bulusacak-99520.md
-    - 20261105-antalyadaki-cop31-zirvesinde-25-bin-739-emniyet-personeli-go-c3ccf.md
+    - 20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md
+    - 20261031-bakan-kurum-antalyadaki-cop31-zirvesinde-konya-da-yer-alacak-4c9ec.md
   gorsel_yeniden_no: 10         # aşağıdaki haberler bu numarayla bir kez yeniden işlenir (artırınca yeniden)
   gorsel_yeniden:               # tek seferlik yeniden işleme (sınırdan bağımsız)
     - 20261106-hakan-ozmert-yeni-goreviyle-fenerbahce-antrenmaninda-f26e4.md
