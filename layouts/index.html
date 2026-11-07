@@ -73,7 +73,7 @@
   </div>
   {{ $mmetin = after 1 $mmetin }}
   {{ end }}
-  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if .yan_foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "yan_foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
+  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if or .yan_foto .yan_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "yan_foto" false "yan_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
 </section>
 {{ with $mmetin }}
 <section class="one-metin" aria-label="Öne çıkan haberler">{{ range . }}
@@ -96,14 +96,14 @@
   </div>
 </section>
 
-{{ with $one }}<section class="izgara-4" aria-label="Öne çıkanlar">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</section>{{ end }}
+{{ with $one }}<section class="izgara-4" aria-label="Öne çıkanlar">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</section>{{ end }}
 
 
 {{/* Antalya Gündemi + kenar */}}
 <div class="duzen">
   <section class="bolum" aria-labelledby="b-gundem">
     <header class="bolum-bas"><h2 id="b-gundem">Antalya Gündemi</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
-    <div class="izgara-3">{{ range $gundem }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
+    <div class="izgara-3">{{ range $gundem }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
   </section>
   <aside class="kenar kenar-yapiskan">
     {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ end }}
@@ -115,7 +115,7 @@
 <section class="bolum" aria-labelledby="b-ilce">
   <header class="bolum-bas"><h2 id="b-ilce">İlçelerden</h2></header>
   <nav class="ilce-cipler" aria-label="İlçe haberleri">{{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</nav>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -123,7 +123,7 @@
 {{ with $spor }}
 <section class="bolum" aria-labelledby="b-spor">
   <header class="bolum-bas"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tümü</a></header>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -131,7 +131,7 @@
 {{ with $turizm }}
 <section class="bolum" aria-labelledby="b-turizm">
   <header class="bolum-bas"><h2 id="b-turizm">Turizm</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Turizm") }}">Tümü</a></header>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -140,7 +140,7 @@
 <section class="bolum sekmeli" aria-labelledby="b-sekme" data-sekme>
   <header class="bolum-bas"><h2 id="b-sekme">Kategoriler</h2></header>
   <div class="sekme-dugmeler" role="tablist">{{ range $i, $s := . }}<button type="button" role="tab" aria-selected="{{ if eq $i 0 }}true{{ else }}false{{ end }}" aria-controls="sk-{{ $i }}" id="skd-{{ $i }}">{{ $s.ad }}</button>{{ end }}</div>
-  {{ range $i, $s := . }}<div class="izgara-4 sekme-panel" role="tabpanel" id="sk-{{ $i }}" aria-labelledby="skd-{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>{{ range $s.h }}{{ $h := . }}{{ if .foto }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>{{ end }}
+  {{ range $i, $s := . }}<div class="izgara-4 sekme-panel" role="tabpanel" id="sk-{{ $i }}" aria-labelledby="skd-{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>{{ range $s.h }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>{{ end }}
   <p class="sekme-tumu">{{ range $i, $s := . }}<a href="{{ partial "terim-url.html" (slice "kategoriler" $s.ad) }}" data-sekme-link="{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>Tüm {{ lower $s.ad }} haberleri ›</a>{{ end }}</p>
 </section>
 {{ end }}
