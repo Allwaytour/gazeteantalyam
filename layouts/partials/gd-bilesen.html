@@ -1,0 +1,19 @@
+{{/* Kabul testi: bir haberin görselini sitenin gerçek bileşenleriyle çizer (manşet slaytı, manşet yanı kartı, haber kartı).
+     Parametre: h (haber sözlüğü, haberler.html alanları), duzen ("kaplama" | "yan" | ""). */}}
+{{ $h := .h }}
+<div class="gd-r gd-r-manset"><small>Manşet — {{ if eq .duzen "kaplama" }}kaplama{{ else if eq .duzen "yan" }}yan düzen{{ else }}fotoğrafsız (öne çıkan kutusu){{ end }}</small>
+  {{ if eq .duzen "kaplama" }}
+  <div class="manset"><div class="slayt-pencere"><div class="slayt-ic"><article class="slayt slayt-foto"><a href="{{ $h.link }}">
+    {{ partial "gorsel.html" (merge $h (dict "buyuk" true "odak" $h.o_md "odak_m" $h.o_mm)) }}
+    <span class="slayt-yazi"><span class="slayt-b">{{ $h.baslik }}</span></span></a></article></div></div></div>
+  {{ else if eq .duzen "yan" }}
+  <div class="manset"><div class="slayt-pencere"><div class="slayt-ic"><article class="slayt slayt-yan"><a href="{{ $h.link }}">
+    <span class="slayt-yazi"><span class="hk-ust"><b>{{ $h.kategori }}</b>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}</span><span class="slayt-b">{{ $h.baslik }}</span>{{ with $h.ozet }}<span class="slayt-o">{{ . | plainify | truncate 200 }}</span>{{ end }}</span>
+    <span class="slayt-yan-g">{{ partial "gorsel.html" (merge $h (dict "buyuk" true "odak" $h.o_myd "odak_m" $h.o_mym)) }}</span></a></article></div></div></div>
+  {{ else }}
+  <div class="one-metin" style="margin-top:0"><a class="one-metin-k" href="{{ $h.link }}"><span class="hk-ust"><b>{{ $h.kategori }}</b>{{ with $h.ilce }}<span>{{ . }}</span>{{ end }}</span>
+    <span class="one-metin-b">{{ $h.baslik }}</span>{{ with $h.ozet }}<span class="one-metin-o">{{ . | plainify | truncate 200 }}</span>{{ end }}</a></div>
+  {{ end }}
+</div>
+<div class="gd-r gd-r-yan"><small>Manşet yanı kartı</small>{{ partial "yan-kart.html" $h }}</div>
+<div class="gd-r gd-r-kart"><small>Haber kartı</small>{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}</div>

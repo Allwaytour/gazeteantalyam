@@ -7,7 +7,7 @@
 {{ $onemli := ge (int (.onem | default 3)) 4 }}
 <article class="hk hk-{{ $t }} {{ if $foto }}hk-foto{{ else }}hk-metin{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
   <a class="hk-a" href="{{ .link }}">
-    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" . }}</span>{{ end }}
+    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "odak" .o_kart)) }}</span>{{ end }}
     <span class="hk-m">
       {{ if or (not $foto) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
       <span class="hk-b">{{ .baslik }}</span>
