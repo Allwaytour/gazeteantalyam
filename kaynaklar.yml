@@ -19,11 +19,15 @@ ayarlar:
   # Yayın kapısı: yeni görsel hattı sürümü kabul testinden geçmeden canlı haber görseli yazmaz (deneme modu). Kabul testi geçince
   # surum kodun görsel hattı kimliğine (gorsel_hat.HAT_KIMLIK) eşitlenir; grup_siniri > 0 ise önce o kadar haberde etkinleşir,
   # sonuçlar aynı kontrollerle doğrulanınca grup_siniri 0 (sınırsız) yapılır. Bilinen yanlış görsellerin temizliği her durumda çalışır.
+  # Pilot: grup_siniri > 0 iken yeni sürüm yalnızca YENİ gelen, örneklemden ve birbirinden farklı haberlerde (kategori başına en çok 3)
+  # çalışır; eski haber kuyrukları kapalı kalır. Pilotta yanlış eşleşme bulunursa (data/gorsel_inceleme.yml'de kapsam: pilot, karar: yanlis
+  # ya da kural denetimi) fotoğraf kaldırılır ve geniş yayın durur; devam için devam_onayi'na durdurma kimliği yazılır. Haber yayını sürer.
   gorsel_yayin:
     surum: ""
     grup_siniri: 10
+    devam_onayi: ""
   gorsel_deneme_hat: "h2.k4.a2.i3.r1.y3"   # kabul testi yalnızca kodun görsel hattı kimliği bununla aynıysa başlar
-  gorsel_test_payi: 150         # kabul testi bitene kadar günlük görsel hakkından teste ayrılan pay (toplu arama bunu kullanmaz)
+  gorsel_test_payi: 150         # yazılımsal bütçe (sağlayıcı kotası değil): kabul testi bitene kadar eski haber taraması bu kadar isteği teste bırakır
   gorsel_toplu_duzeltme: true   # temizlik (bilinen yanlış görseller) her turda; yeni seçim yalnızca yayın açıkken
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
