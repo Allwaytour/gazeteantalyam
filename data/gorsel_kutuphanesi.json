@@ -3135,6 +3135,91 @@
    },
    "url": "https://images.unsplash.com/photo-1645398709708-eca899c71a11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "3cad480f15bb2740": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gökyüzü",
+     "tarla",
+     "elektrik direği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bulutlu bir gökyüzü altında geniş tarım arazisi.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hava durumu",
+     "tarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:318549fb61ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hava durumu için uygun ancak gökyüzü parçalı bulutlu, 'açık' beklentisini tam karşılamıyor.",
+      "gerekli": [
+       {
+        "unsur": "açık gökyüzü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T06:02:39+03:00"
+    }
+   },
+   "t": "2026-11-08T06:02:39+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     225
+    ],
+    "karanlik_oran": 0.215,
+    "keskinlik": 700,
+    "kontrast": 61,
+    "medyan": 151,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sunny_weather_condition.jpg/1280px-Sunny_weather_condition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3e846000e879df1e": {
    "icerik": {
     "ana_kutu": [
@@ -6255,6 +6340,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:318549fb61ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hava durumu haberi için uçak görseli ilgisizdir, sadece gökyüzü detayı kısmen uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "açık gökyüzü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T06:02:39+03:00"
+    },
     "r1:7664b47cddde:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -6287,7 +6398,7 @@
      "t": "2026-11-07T23:56:37+03:00"
     }
    },
-   "t": "2026-11-07T23:56:37+03:00",
+   "t": "2026-11-08T06:02:39+03:00",
    "teknik": {
     "doygunluk": 56.0,
     "inen": [
@@ -11146,6 +11257,37 @@
      },
      "t": "2026-11-07T23:59:06+03:00"
     },
+    "r1:318549fb61ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da açık havayı gösteren temsilî bir şehir karesidir.",
+      "gerekli": [
+       {
+        "unsur": "açık gökyüzü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T06:02:39+03:00"
+    },
     "r1:98ba9c3cb8ab:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -11177,7 +11319,7 @@
      "t": "2026-11-08T00:01:17+03:00"
     }
    },
-   "t": "2026-11-08T00:01:17+03:00",
+   "t": "2026-11-08T06:02:39+03:00",
    "teknik": {
     "doygunluk": 23.7,
     "inen": [
@@ -12549,6 +12691,90 @@
    },
    "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "ddc60231f3363a10": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "palmiye ağacı",
+     "çatı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tropikal palmiye ağaçları ve çatı detayı.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "hava durumu",
+     "tatil"
+    ],
+    "uygunsuz_baglamlar": [
+     "turkiye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:318549fb61ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel Antalya ile uyuşmuyor, yabancı bir coğrafyayı yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "açık gökyüzü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T06:02:39+03:00"
+    }
+   },
+   "t": "2026-11-08T06:02:39+03:00",
+   "teknik": {
+    "doygunluk": 21.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.015,
+    "keskinlik": 3921,
+    "kontrast": 54,
+    "medyan": 131,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sunny_weather_in_unknown_location.jpg/1280px-Sunny_weather_in_unknown_location.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "de4defb683c7ceb9": {
    "icerik": {
     "ana_kutu": [
@@ -12939,6 +13165,37 @@
      },
      "t": "2026-11-07T23:59:06+03:00"
     },
+    "r1:318549fb61ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da açık bir havayı temsil eden uygun bir şehir/mekan görselidir.",
+      "gerekli": [
+       {
+        "unsur": "açık gökyüzü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T06:02:39+03:00"
+    },
     "r1:98ba9c3cb8ab:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -12970,7 +13227,7 @@
      "t": "2026-11-08T00:01:17+03:00"
     }
    },
-   "t": "2026-11-08T00:01:17+03:00",
+   "t": "2026-11-08T06:02:39+03:00",
    "teknik": {
     "doygunluk": 22.3,
     "inen": [
@@ -15666,6 +15923,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-07T23:53:12+03:00",
    "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "e363a84d4ac7f00c": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1600,
+    1200
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2025-11-05",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Side Antik Kenti'ndeki tarihi kalıntılar ve taş yapılar.",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-08T06:02:39+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 4.0",
+    "sahibi": "Unknown author Unknown author",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Side_Ancient_City_Antalya.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "antik sütun",
+    "açık gökyüzü",
+    "tarihi kalıntı",
+    "taş duvar"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/500px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm",
+    "tarihi mekan"
+   ],
+   "kullanilamaz": [
+    "COP31 haberleri",
+    "iklim değişikliği",
+    "siyaset"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T06:02:39+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
