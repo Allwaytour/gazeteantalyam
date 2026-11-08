@@ -8,9 +8,19 @@
   <header class="bolum-bas"><h1>Görsel seçimi kabul testi</h1></header>
   {{ with $r.yayin_durum }}<div class="gd-uyari"><b>Yayın kontrolü:</b> {{ .aciklama }} (son tur {{ .tarih }}).
     Bilinen yanlış ya da doğrulanmamış olduğu için yayından çıkarılan görsel: son turda {{ .son_tur.kaldirilan }}, toplam {{ .toplam_kaldirilan }}.
+    {{ with .son_tur.inceleme_kaldirilan }}Editör incelemesinde yanlış bulunduğu için kaldırılan: {{ . }}. {{ end }}{{ with .son_tur.onceki_onayli }}Bu haber için önceden onaylanmış görsele dönülen: {{ . }}. {{ end }}
+    {{ with .durdu }}<b>Geniş yayın durduruldu</b> ({{ .tarih }}): {{ .neden }} — devam için kaynaklar.yml gorsel_yayin.devam_onayi: "{{ .kimlik }}". {{ end }}
     {{ with .kota_engel }}Yapay zekâ servisi günlük kota dolu yanıtı verdi ({{ .zaman }}); servis yeniden yanıt verene kadar saatte bir deneme isteği yapılır.{{ end }}
     {{ with $r.temizlik_son }}<details class="gd-aday"><summary>Yayından çıkarılan görseller ({{ len . }})</summary><ol class="gd-kucuk">
     {{ range . }}<li><a href="/haber/{{ strings.TrimSuffix ".md" .dosya }}/">{{ .dosya }}</a> — {{ .neden }} → {{ .sonuc }}</li>{{ end }}</ol></details>{{ end }}</div>{{ end }}
+  {{ with $r.pilot }}<details class="gd-aday" open><summary><b>Pilot ({{ .hat }}, {{ .baslangic }}): {{ len .haberler }} yeni haber</b></summary><ol class="gd-kucuk">
+    {{ range .haberler }}<li><a href="/haber/{{ strings.TrimSuffix ".md" .dosya }}/">{{ .baslik }}</a> <small>{{ .kategori }}</small> — {{ if .gorsel }}fotoğraf ({{ .sinif }}, {{ .gosterilen }}){{ else }}fotoğrafsız{{ with .kapak_nedeni }} ({{ .kod }}){{ end }}{{ end }}{{ with .gorsel }}<br><img src="{{ . }}" alt="" loading="lazy" style="max-width:220px;max-height:140px">{{ end }}</li>{{ end }}</ol></details>{{ end }}
+  {{ with (index site.Data "gorsel_envanter") }}<details class="gd-aday"><summary><b>Yayındaki fotoğrafların denetim sürümü envanteri ({{ .tarih }})</b></summary>
+    <p class="gd-kucuk">{{ .aciklama }}</p>
+    {{ $f := .fotograflar }}<table class="gd-kucuk"><tr><th>Denetim grubu</th><th>Fotoğraf</th><th>İncelenen</th><th>doğru</th><th>zayıf</th><th>yanlış (kaldırıldı)</th><th>incelenmedi</th></tr>
+    {{ range $k, $ac := .risk_gruplari }}{{ $g := where $f "risk" $k }}<tr><td>{{ $ac }}</td><td>{{ len $g }}</td><td>{{ len (where $g "inceleme" "ne" "incelenmedi") }}</td><td>{{ len (where $g "inceleme" "dogru") }}</td><td>{{ len (where $g "inceleme" "zayif") }}</td><td>{{ len (where $g "inceleme" "yanlis") }}</td><td>{{ len (where $g "inceleme" "incelenmedi") }}</td></tr>{{ end }}</table>
+    {{ range $k, $ac := .risk_gruplari }}{{ $g := where (where $f "risk" $k) "inceleme" "incelenmedi" }}{{ if $g }}<details><summary>{{ $ac }} — incelenmeyen {{ len $g }}</summary><ul class="gd-kucuk">{{ range $g }}<li><a href="/haber/{{ strings.TrimSuffix ".md" .dosya }}/">{{ .dosya }}</a> · {{ .denetim }} · {{ .sinif }} · {{ .gorsel }}</li>{{ end }}</ul></details>{{ end }}{{ end }}
+  </details>{{ end }}
   {{ if not $d }}<p>Deneme henüz çalışmadı.</p>{{ else }}
   <p class="gd-ozet">Tarih: {{ $d.tarih }} · Görsel hattı: <b>{{ $d.hat_kimlik | default $d.surum }}</b> · Kod: {{ $d.kod_surumu | default "-" }} · Ayar: {{ $d.ayar_surumu | default "-" }}
     · Örneklem: {{ $d.orneklem | default "-" }} · Model: {{ $d.model | default "-" }} · Yapay zekâ isteği: {{ $d.yz_kullanilan }}</p>
@@ -19,6 +29,7 @@
   {{ with $d.ozet }}<div class="gd-sayac">
     <span><b>{{ .satir }}</b> haber</span><span><b>{{ .fotografli }}</b> fotoğraflı</span><span><b>{{ .fotografsiz }}</b> fotoğrafsız</span>
     <span><b>{{ .bekleyen }}</b> bekleyen (kota/servis)</span><span><b>{{ .hata }}</b> hata</span>
+    {{ with .sonuc_turleri }}<span>Sonuç: fotoğraf geldi <b>{{ index . "fotoğraf geldi" }}</b> · uygun aday bulunamadı <b>{{ index . "uygun aday bulunamadı" }}</b> · adaylar reddedildi <b>{{ index . "adaylar reddedildi" }}</b> · kota nedeniyle tamamlanamadı <b>{{ index . "kota nedeniyle tamamlanamadı" }}</b></span>{{ end }}
     <span>Manşet: <b>{{ .yerlesim.manset_kaplama }}</b> kaplama, <b>{{ .yerlesim.manset_yan }}</b> yan düzen · kart <b>{{ .yerlesim.kart }}</b>{{ with .yerlesim.kart_portre }} + <b>{{ . }}</b> portre kartı{{ end }} · yan kart <b>{{ .yerlesim.yan }}</b>{{ with .yerlesim.yan_portre }} + <b>{{ . }}</b> portre{{ end }}</span>
     <span>Elenen adaylar — konu: <b>{{ .red.konu }}</b>, kalite: <b>{{ .red.kalite }}</b>, yerleşim: <b>{{ .red.yerlesim }}</b>, lisans: <b>{{ .red.lisans }}</b>{{ with .red.kaynak }}, dosya açılamadı: <b>{{ . }}</b>{{ end }}, servis: <b>{{ .red.servis }}</b></span>
     {{ with .ret_sonrasi_bulunan }}<span>Ret sonrası yeni aramayla bulunan fotoğraf: <b>{{ . }}</b></span>{{ end }}
@@ -31,6 +42,7 @@
   <article class="gd-satir" id="s{{ add $i 1 }}">
     <h2>{{ add $i 1 }}. <a href="{{ $s.link }}">{{ $s.baslik | default $s.dosya }}</a> <small>{{ $s.kategori }}{{ with $s.ilce }} · {{ . }}{{ end }}</small></h2>
     {{ with $s.hata }}<p class="gd-red">Hata: {{ . }}</p>{{ end }}
+    {{ with $s.sonuc_turu }}<p class="gd-kucuk"><b>Sonuç:</b> {{ . }}</p>{{ end }}
     {{ with $s.sonuc }}<p class="gd-not">{{ . }} — görsele dokunulmadı.</p>{{ end }}
     {{ with $s.onceki_surum }}<p class="gd-kucuk">Önceki sürüm ({{ .surum }}): {{ if eq .tur "kategori" }}fotoğrafsız{{ with .kapak_nedeni }} ({{ . }}){{ end }}{{ else }}{{ .tur }} · {{ .sinif }} · manşet {{ .manset | default "yok" }}{{ end }}</p>{{ end }}
     {{ with index $degs $s.dosya }}<p class="{{ if eq .karar "dogru" }}gd-ok{{ else }}gd-red{{ end }}"><b>Görsel inceleme:</b> {{ .karar }}{{ with .not }} — {{ . }}{{ end }}</p>{{ end }}
