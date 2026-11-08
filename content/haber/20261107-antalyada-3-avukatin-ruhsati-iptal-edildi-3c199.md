@@ -23,20 +23,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: f8018a5432c8
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T12:07:45+03:00'
-    yontem: kaynak/arşiv taraması
+    sonuc: yapılamadı
+    tarih: '2026-11-08T15:38:44+03:00'
+    yontem: konu ayrıştırılamadı
+  hat: h2
   kurum: k5
+  bekliyor: true
+  bekleme_sayisi: 1
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya Barosu'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya Barosu'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalyada-3-avukatin-ruhsati-iptal-edildi
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Türkiye Barolar Birliği Başkanlığı tarafından yayımlanan Resmi Gazete ilanlarıyla, Antalya Barosu'na kayıtlı üç kişinin avukatlık ruhsatnamesinin iptal edildiği duyuruldu. Antalya Barosu Yönetim Kurulu'nun aldığı kararların kesinleştiği belirtilirken, söz konusu kişilerin avukatlık mesleğini icra etme haklarının kaldırıldığı açıklandı.
 

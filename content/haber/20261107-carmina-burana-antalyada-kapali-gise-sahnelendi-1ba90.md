@@ -22,21 +22,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 4e766fe3cbf1
+  konu_imza: 69f9de998ca9
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T23:44:09+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T15:36:03+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: '''Haşim İşcan Kültür Merkezi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Carmina Burana temsili'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı o'
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (4/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/kultur-sanat/haber-antalya-devlet-opera-ve-balesi-carmina-burana-yi-s-20406088/
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Antalya Devlet Opera ve Balesi, Antalya Kültür Yolu Festivali'nin kapanış etkinlikleri çerçevesinde sahneye taşıdığı Carmina Burana ile unutulmaz bir geceye imza attı. Haşim İşcan Kültür Merkezi Opera Sahnesi'nde gerçekleşen temsil, sanatseverlerin yoğun ilgisiyle karşılaştı ve kapalı gişe olarak sahnelendi.
 

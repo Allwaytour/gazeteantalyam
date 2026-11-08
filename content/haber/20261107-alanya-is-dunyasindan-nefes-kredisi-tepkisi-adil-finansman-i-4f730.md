@@ -25,22 +25,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız.
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: c23dc42636f0
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-08T12:34:23+03:00'
-    yontem: konu ayrıştırılamadı
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T15:35:38+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
   hat: h2
+  arama_surum: a2
   kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
+  kurum_notu: Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %27)
   kapak_nedeni:
-    kod: arama_yapilmadi
-    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+    kod: gorsel_reddedildi
+    aciklama: büyük filigran ya da görüntüye gömülü yazı; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
 manset: false
 son_dakika: false

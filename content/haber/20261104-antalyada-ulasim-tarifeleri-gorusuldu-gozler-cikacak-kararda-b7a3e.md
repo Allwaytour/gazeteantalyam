@@ -76,6 +76,11 @@ gorsel_gecmis:
     alt_tur: kurum
     kurum: k4
   degisim: '2026-11-08T15:23:28+03:00'
+etiketler:
+- Mehmet Ali Alkan
+- Büşra Özdemir
+- Antalya Büyükşehir Belediyesi
+- Antalya Şoförler Odası
 ---
 Antalya'da şoför esnafının oda başkanları ile büyükşehir belediyesi yönetimi bir araya gelerek kentteki ulaşım sektörüyle ilgili sorunları görüştü. Gerçekleşen toplantıda, ulaşım hizmetlerinin sürdürülebilirliği ile vatandaşların ekonomik durumları ele alındı.
 

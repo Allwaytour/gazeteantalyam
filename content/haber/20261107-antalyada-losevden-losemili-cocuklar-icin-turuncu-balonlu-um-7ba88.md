@@ -23,20 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 226411fb1653
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T12:31:40+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T15:37:11+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''turuncu balon etkinliği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay '
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Eğitim ve Araştırma Hastanesi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''turuncu balon etkinliği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    aciklama: '''Antalya Eğitim ve Araştırma Hastanesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''turuncu balon etkinliği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yal'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/video/antalya/antalyada-losemili-cocuklar-icin-gokyuzu-turuncuya-boyandi/388814
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Antalya'da Lösemili Çocuklar Haftası kapsamında, tedavi süreci devam eden miniklerin motivasyonunu artırmak amacıyla anlamlı bir farkındalık programı organize edildi. Lösemili Çocuklar Sağlık ve Eğitim Vakfı öncülüğünde Antalya Eğitim ve Araştırma Hastanesi bahçesinde bir araya gelen gönüllüler, eski hastalar ve aileler hastalıkla mücadele eden çocuklara destek oldu.
 

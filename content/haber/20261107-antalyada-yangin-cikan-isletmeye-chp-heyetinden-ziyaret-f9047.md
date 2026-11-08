@@ -22,31 +22,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 2e0c82782aa6
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T18:27:13+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T15:36:57+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '3 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''yangın ziyareti'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Kapalı Yol'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kapalı Yol'' için konuyla (fire damage, commercial building) ilişkili lisanslı fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:HK_%E7%9F%B3%E5%A1%98%E5%92%80_Shek_Tong_Tsui_%E5%B1%B1%E9%81%93_Hill_Road_%E4%BF%9D%E5%BE%B7%E8%A1%97_Po_Tuck_Street_%E6%A8%82%E5%AF%B6%E5%A4%A7%E6%A8%93_Lok_Po_Mansion.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:%27Greenple%27_Toyota_GT86,_Bangladesh._(38155998621).jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:2023_Amsterdam,_KNSM-eiland,_Levantkade_(06).jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -55,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalya-kapali-yolda-yangin-sonrasi-esnafa-chp-heyetinden-gecmis-olsun-ziyareti
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Muratpaşa ilçesine bağlı Kışla Mahallesi Kapalı Yol mevkisinde bulunan üç katlı bir kafe restoranda henüz belirlenemeyen bir nedenle yangın çıktı. Gece yarısından sonra saat 04.30 sıralarında meydana gelen olayı gece bekçisi fark etti. 
 

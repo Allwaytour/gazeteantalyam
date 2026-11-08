@@ -76,6 +76,11 @@ gorsel_gecmis:
     alt_tur: yer_konu
     kurum: k4
   degisim: '2026-11-08T15:20:12+03:00'
+etiketler:
+- Lelya Bayramoğulları
+- Yunus Emre Enstitüsü
+- Türkiye'nin Londra Başkonsolosluğu
+- Manchester Başkonsolosluğu
 ---
 Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda gerçeklestirdigi konserlerde Türk müzigini uluslararasi dinleyicilerle bulusturdu. 24-30 Ekim tarihleri arasinda Londra ve Manchester'da üç konser veren sanatçi, ayrica Manchester'daki bir yasli bakim evini ziyaret ederek düzenledigi dinletiyle müzigi sosyal sorumluluk çalismasiyla bir araya getirdi.
 
