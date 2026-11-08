@@ -16,7 +16,15 @@ ayarlar:
   # Görsel hattı h1 (scripts/gorsel_hat.py): aday bulma → yayın uygunluğu (lisans, teknik kalite, içerik, haber ilişkisi) → yerleşim.
   # Eski açıklama: izinli aynı olay fotoğrafı → haberin öznesinin (kişi/kurum/takım/tesis) doğrulanmış
   # arşiv fotoğrafı → yer + konu fotoğrafı → uygun haberlerde konuyu doğrudan anlatan ücretsiz fotoğraf → sade kategori kapağı.
-  gorsel_toplu_duzeltme: true   # h1 kabul testi (deneme 26) sonrası açıldı: önce zorunlu beş örnek ve ana sayfadaki haberler düzeltilir
+  # Yayın kapısı: yeni görsel hattı sürümü kabul testinden geçmeden canlı haber görseli yazmaz (deneme modu). Kabul testi geçince
+  # surum kodun görsel hattı kimliğine (gorsel_hat.HAT_KIMLIK) eşitlenir; grup_siniri > 0 ise önce o kadar haberde etkinleşir,
+  # sonuçlar aynı kontrollerle doğrulanınca grup_siniri 0 (sınırsız) yapılır. Bilinen yanlış görsellerin temizliği her durumda çalışır.
+  gorsel_yayin:
+    surum: ""
+    grup_siniri: 10
+  gorsel_deneme_hat: "h2.k4.a2.i3.r1.y3"   # kabul testi yalnızca kodun görsel hattı kimliği bununla aynıysa başlar
+  gorsel_test_payi: 150         # kabul testi bitene kadar günlük görsel hakkından teste ayrılan pay (toplu arama bunu kullanmaz)
+  gorsel_toplu_duzeltme: true   # temizlik (bilinen yanlış görseller) her turda; yeni seçim yalnızca yayın açıkken
   gorsel_stok_koru: true        # yeni fotoğraf yoksa, görüntü kontrolünden geçen eski temsilî görsel korunur (genel konulu haberlerde)
   gorsel_toplu_sinir: 160       # bu kural sürümüyle toplu düzeltilecek en fazla haber (0 = sınırsız); 1-2 günlük deneme
   gorsel_duzeltme_tur: 10       # 1. kuyruk: bir turda en fazla kaç otomatik fotoğraf değerlendirilsin (yanlışsa kaldırılır/düzeltilir)
@@ -29,7 +37,7 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 28          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 29          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # h1 kabul testi: ilk beşi zorunlu hatalı örnekler (haber dosyalarını değiştirmez; sonuç: /gorsel-deneme/)
     - 20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md
     - 20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md
