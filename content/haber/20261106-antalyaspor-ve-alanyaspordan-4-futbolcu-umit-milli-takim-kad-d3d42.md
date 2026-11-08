@@ -24,20 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: f272d7c2115e
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T18:01:29+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T13:06:34+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Çaykur Didi Stadyumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mevlüt Şimşek'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Çaykur Didi Stadyumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mevlüt Şimşek'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı'
+    aciklama: '''Çaykur Didi Stadyumu'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Egemen Korkmaz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; takım haber'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalyasporlu-mevlut-simseke-umit-milli-takim-daveti
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Antalyaspor forması giyen genç futbolcu Mevlüt Şimşek, 2027 UEFA Avrupa U21 Şampiyonası Elemeleri play-off turunda Çekya ile karşılaşacak Ümit Milli Takım'ın aday kadrosuna çağrıldı. Teknik direktör Egemen Korkmaz yönetimindeki ay-yıldızlı ekibin kadrosunda yer alan Antalya doğumlu 19 yaşındaki forvet, milli takım kampına dahil oldu.
 

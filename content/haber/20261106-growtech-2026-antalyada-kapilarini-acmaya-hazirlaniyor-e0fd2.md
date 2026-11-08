@@ -24,28 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 4d6f5e206013
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T16:31:17+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T13:04:09+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Farkli bir ulke'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Engin Er'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Growtech Fuarı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''ANFAŞ Fuar Merkezi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Growtech'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''ANFAŞ Fuar Merkezi'' için konuyla (agricultural exhibition, greenhouse technologies, expo center) ilişkili lisanslı fotoğraf bulunamadı; ''tarım fuarı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: tarım teknolojileri fuarı, seracılık fuarı)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Tajul_Islam_Inaugurates_Agricultural_Technology_Exhibition_Dhaka_2019-04-08_(PID-0039249).jpg
-      katman: nesne
-      neden: yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Farkli bir ulkedeki fuar acilisini gosteriyor, yabanci tabelalar icerdigi icin yanilt
-    - sayfa: https://commons.wikimedia.org/wiki/File:Inauguration_Bangabandhu_Sheikh_Mujibur_Rahman_Agricultural_University_25th_Anniversary_and_Technology_Exhibition_by_Sheikh_Hasina_2022-12-19_(PID-0019264).jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    aciklama: 'habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri görünmüyor: tarım fuarı standları, fuar alanı'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -54,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/tarim-fuari-growtech-sektor-paydaslarini-antalyada-bulusturacak-119514200
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Uluslararası tarım sektörünün önemli buluşmalarından biri olan Growtech 2026, bu yıl çeyrek asırlık geçmişiyle kapılarını aralamaya hazırlanıyor. Küresel ölçekte sektörün gelişimine ve yeni iş birliklerine zemin hazırlayan organizasyon, 24 Kasım tarihinde ANFAŞ Fuar Merkezi'nde ziyaretçilerini ağırlamaya başlayacak.
 

@@ -23,28 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 25c978d97273
   gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:29:54+03:00'
-    yontem: Gemini görsel kontrol
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-08T13:06:30+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya EXPO alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya EXPO alanı'' için konuyla (amphitheater, convention center, outdoor venue) ilişkili lisanslı fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Anfiteatro_de_las_ruinas_romanas_de_It%C3%A1lica,_Santiponce,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_34-45_PAN_HDR.JPG
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-16,_DD_01-06_PAN.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    kod: aday_bulunamadi
+    aciklama: '''Antalya EXPO alanı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Türk Telekom Büyük Amfitiyatro'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya EXPO alanı'' i'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -53,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/turk-telekom-buyuk-amfitiyatro-nerede
+gorsel_onceki:
+  gorsel: /images/kategori/kultur-sanat.png
+  gorsel_kredi: ''
 ---
 Antalya'da duzenlenecek COP31 Birlestirilmis Milletler Iklim Zirvesi kapsaminda kulturel etkinliklere ev sahipligi yapacak olan Turk Telekom Buyuk Amfitiyatro'nun konumu arastirilmaya baslandi. Zirve kapsamindaki ucretsiz etkinliklere katilmak isteyen vatandaslar, amfitiyatronun nerede oldugunu ogrenmek istiyor.
 
