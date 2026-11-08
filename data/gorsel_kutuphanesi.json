@@ -1,6 +1,88 @@
 {
  "aciklama": "Doğrulanmış görsel kütüphanesi (görsel hattı h1).",
  "inceleme": {
+  "002461817d9b7f68": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     150,
+     800,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "polis aracı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karlı bir yolda duran yabancı bir polis aracı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "polis aracı"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Polis aracı var ancak yabancı dilde yazı ve kar manzarası Antalya ile uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "polis aracı veya motosikleti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       150,
+       800,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:08+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:08+03:00",
+   "teknik": {
+    "doygunluk": 39.1,
+    "inen": [
+     500,
+     330
+    ],
+    "karanlik_oran": 0.126,
+    "keskinlik": 913,
+    "kontrast": 48,
+    "medyan": 101,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astra_politia_14.jpg/1280px-Astra_politia_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "004a82d21194a5af": {
    "icerik": {
     "ana_kutu": [
@@ -6957,6 +7039,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/FEMA_-_34866_-_Firefighters_working_at_an_airport_in_Arkansas.jpg/1280px-FEMA_-_34866_-_Firefighters_working_at_an_airport_in_Arkansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1ebec4617cf89132": {
+   "icerik": {
+    "ana_kutu": [
+     620,
+     170,
+     830,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "tramvay",
+     "eski otomobil",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir şehir meydanında tramvaylar ve eski model otomobiller.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih",
+     "şehir planlama"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "trafik polisi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf haberle tamamen ilgisiz, eski bir şehir manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi",
+        "var": false
+       },
+       {
+        "unsur": "polis aracı veya motosikleti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:08+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:08+03:00",
+   "teknik": {
+    "doygunluk": 23.6,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.119,
+    "keskinlik": 4424,
+    "kontrast": 50,
+    "medyan": 113,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/4bondes%40MMoniz1967.jpg/1280px-4bondes%40MMoniz1967.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1f3f185cc8821f23": {
    "icerik": {
     "ana_kutu": [
@@ -8271,6 +8438,32 @@
      },
      "t": "2026-11-08T14:04:45+03:00"
     },
+    "r1:e8a72ca09f4d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'da çekilmiştir, Antalya'daki zirve ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:03:09+03:00"
+    },
     "r1:f0c8a1f63330:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8302,7 +8495,7 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T17:37:20+03:00",
+   "t": "2026-11-08T21:03:09+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -15402,6 +15595,36 @@
      },
      "t": "2026-11-08T19:35:22+03:00"
     },
+    "r1:dfd9b69a4e14:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde belirtilen trafik polisi veya resmi araç unsurları fotoğrafta yer almamaktadır, sadece genel bir cadde görüntüsüdür.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi",
+        "var": false
+       },
+       {
+        "unsur": "polis aracı veya motosikleti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:11+03:00"
+    },
     "r1:ed423976bd8a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -15429,7 +15652,7 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T19:35:22+03:00",
+   "t": "2026-11-08T21:05:11+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -22419,6 +22642,36 @@
      },
      "t": "2026-11-08T12:04:05+03:00"
     },
+    "r1:e8a72ca09f4d:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Gemi denetim merkezi görüntüsü, iklim zirvesi haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "zirve katılımcıları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:03:09+03:00"
+    },
     "r1:f0c8a1f63330:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -22450,7 +22703,7 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T14:04:07+03:00",
+   "t": "2026-11-08T21:03:09+03:00",
    "teknik": {
     "doygunluk": 30.7,
     "inen": [
@@ -25388,6 +25641,27 @@
      },
      "t": "2026-11-08T07:02:41+03:00"
     },
+    "r1:e8a72ca09f4d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Murat Kurum, COP31 zirvesinin ana öznesi veya katılımcısı değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:03:09+03:00"
+    },
     "r1:fd30b4067cb0:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -25415,7 +25689,7 @@
      "t": "2026-11-08T15:42:15+03:00"
     }
    },
-   "t": "2026-11-08T15:42:15+03:00",
+   "t": "2026-11-08T21:03:09+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -29428,6 +29702,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg/1280px-Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7a6ddf3389c396d7": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     250,
+     1000,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "trafik polisi",
+     "taksi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Trafik polisi işaret veriyor, arka planda yoğun trafik.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik yönetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      450,
+      450,
+      650
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik polisi görülüyor ancak yabancı bir ülkede çekildiği çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       250,
+       1000,
+       780
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:08+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:08+03:00",
+   "teknik": {
+    "doygunluk": 28.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.219,
+    "keskinlik": 941,
+    "kontrast": 67,
+    "medyan": 114,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Traffic_in_central_Bangkok%2C_Traffic_police%2C_Thailand.jpg/1280px-Traffic_in_central_Bangkok%2C_Traffic_police%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7a9e49bb37182c0e": {
    "icerik": {
     "ana_kutu": [
@@ -31376,6 +31740,37 @@
      },
      "t": "2026-11-08T11:10:32+03:00"
     },
+    "r1:e8a72ca09f4d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zirvenin yapılacağı mekanın genel görünümü, temsilî görsel olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       310,
+       590,
+       540
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:03:09+03:00"
+    },
     "r1:ed423976bd8a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31403,7 +31798,7 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T16:34:21+03:00",
+   "t": "2026-11-08T21:03:09+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -35480,6 +35875,89 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Learning_to_ride_a_bike_at_Sunnysands%2C_Barmouth._2012..jpg/1280px-Learning_to_ride_a_bike_at_Sunnysands%2C_Barmouth._2012..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9190beae8a0a6e19": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     50,
+     850,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "polis aracı",
+     "kamyonet"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta park halinde duran bir polis kamyoneti.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "polis aracı"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Polis aracı var ancak yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "polis aracı veya motosikleti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       50,
+       850,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:08+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:08+03:00",
+   "teknik": {
+    "doygunluk": 22.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.313,
+    "keskinlik": 2462,
+    "kontrast": 61,
+    "medyan": 84,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Royal_Thai_Police%2C_Toyota_Hilux_traffic_police_car..jpg/1280px-Royal_Thai_Police%2C_Toyota_Hilux_traffic_police_car..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9219612886f8763a": {
    "icerik": {
@@ -42338,6 +42816,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Drag_Racing_Cars.jpg/1280px-Drag_Racing_Cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ae0a702911bf063f": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     30,
+     750,
+     260
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "polis aracı",
+     "trafik polisi",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol kenarında duran bir polis aracı ve iki trafik polisi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik denetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik polisi görülüyor ancak yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       30,
+       750,
+       260
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:08+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:08+03:00",
+   "teknik": {
+    "doygunluk": 11.0,
+    "inen": [
+     500,
+     399
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 621,
+    "kontrast": 32,
+    "medyan": 174,
+    "parlaklik": 169,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aleje_jerozolimskie_interwencja_drog%C3%B3wki.jpg/1280px-Aleje_jerozolimskie_interwencja_drog%C3%B3wki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ae2b2cff81a0ca52": {
    "icerik": {
     "ana_kutu": [
@@ -48901,9 +49463,30 @@
       "yasak": []
      },
      "t": "2026-11-08T14:39:02+03:00"
+    },
+    "r1:e8a72ca09f4d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:03:09+03:00"
     }
    },
-   "t": "2026-11-08T17:04:42+03:00",
+   "t": "2026-11-08T21:03:09+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -49190,6 +49773,111 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Antalya_Museum_Covered_statue_X_9619.jpg/1280px-Antalya_Museum_Covered_statue_X_9619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c920d8e04344a40d": {
+   "icerik": {
+    "ana_kutu": [
+     294,
+     76,
+     930,
+     712
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "trafik polisi",
+     "trafik ışığı",
+     "yaya üst geçidi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Trafik polisi memurları kavşakta duruyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "polis haberleri",
+     "trafik denetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "suç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      325,
+      148,
+      435,
+      232
+     ],
+     [
+      294,
+      464,
+      415,
+      544
+     ],
+     [
+      325,
+      596,
+      435,
+      676
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Polisler görülüyor ancak üniformalar ve 'POLISI' yazısı olayın Türkiye'de geçmediğini açıkça belli ediyor.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi, polis aracı veya motosikleti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       294,
+       76,
+       930,
+       712
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:24+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:24+03:00",
+   "teknik": {
+    "doygunluk": 16.0,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.311,
+    "keskinlik": 1858,
+    "kontrast": 56,
+    "medyan": 95,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Jakarta_Indonesia_Police-officers-01.jpg/1280px-Jakarta_Indonesia_Police-officers-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ca2454ae559375cd": {
    "icerik": {
@@ -49840,6 +50528,91 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1575997828720-e14e56396cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c2NpZW5jZSUyMGV4aGliaXRpb258ZW58MXwwfHx8MTc5NDEzNTg3NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "cc35c1c0bd8134ba": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "motosiklet",
+     "polis üniforması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Motosiklet üzerindeki trafik polisi detayı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "polis haberleri",
+     "trafik denetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "suç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik polisi ve motosiklet detayı temsilî olarak kullanılabilir, yabancı unsur içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi, polis aracı veya motosikleti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:24+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:24+03:00",
+   "teknik": {
+    "doygunluk": 24.7,
+    "inen": [
+     400,
+     250
+    ],
+    "karanlik_oran": 0.216,
+    "keskinlik": 526,
+    "kontrast": 72,
+    "medyan": 143,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "cc592cae130e9c36": {
    "icerik": {
@@ -58185,6 +58958,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/School_lunch_tray_MyPlate_20210810-FNS-UNC-0015.jpg/1280px-School_lunch_tray_MyPlate_20210810-FNS-UNC-0015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f0be5aac1e585acf": {
+   "icerik": {
+    "ana_kutu": [
+     178,
+     368,
+     956,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "polis motosikleti",
+     "ağaç",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Park halindeki polis motosikletleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "polis haberleri",
+     "trafik denetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "suç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dfd9b69a4e14:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Polis motosikletleri haberle ilgili ancak yabancı dildeki yazılar ve yabancı ülke izlenimi uygunluğu düşürüyor.",
+      "gerekli": [
+       {
+        "unsur": "trafik polisi, polis aracı veya motosikleti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       178,
+       368,
+       956,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:05:24+03:00"
+    }
+   },
+   "t": "2026-11-08T21:05:24+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     500,
+     292
+    ],
+    "karanlik_oran": 0.166,
+    "keskinlik": 4276,
+    "kontrast": 59,
+    "medyan": 122,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/BMW_R1200RT_saobra%C4%87ajna_policija_-_dan_policije_2019_01.jpg/1280px-BMW_R1200RT_saobra%C4%87ajna_policija_-_dan_policije_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f0d7d258667b996a": {
    "icerik": {
     "ana_kutu": [
@@ -65508,7 +66367,7 @@
    "gosterim_ad": "Aksu",
    "ilk_kabul": "2026-11-07T23:59:19+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -65535,6 +66394,7 @@
     "fuar alanı",
     "havuz",
     "konferans binasi",
+    "konferans salonu",
     "kongre merkezi binası",
     "kubbeli bina",
     "yürüyüş yolu",
@@ -65555,7 +66415,7 @@
    "qid": "Q421618",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T11:03:55+03:00",
+   "son_kabul": "2026-11-08T21:03:09+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -67834,6 +68694,64 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T17:35:28+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "cc35c1c0bd8134ba": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3001,
+    1876
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Motosiklet üzerindeki trafik polisi detayı",
+   "gosterim_ad": "trafik denetimi",
+   "ilk_kabul": "2026-11-08T21:05:24+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Anshul Gurjar / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Anshul Gurjar",
+    "sayfa": "https://unsplash.com/photos/traffic-police-officer-sitting-on-a-motorcycle-H8ib5QdhTGM"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "motosiklet",
+    "polis üniforması",
+    "trafik polisi, polis aracı veya motosikleti"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "polis haberleri",
+    "trafik denetimi"
+   ],
+   "kullanilamaz": [
+    "kaza haberi",
+    "suç haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T21:05:24+03:00",
+   "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
