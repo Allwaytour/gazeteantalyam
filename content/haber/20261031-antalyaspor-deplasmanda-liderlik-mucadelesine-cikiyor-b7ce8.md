@@ -33,6 +33,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1544366981-43d8d59eeba9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c29jY2VyJTIwbWF0Y2glMjBzdGFkaXVtfGVufDF8MHx8fDE3OTM0ODYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Fikri Rasyid / Unsplash'

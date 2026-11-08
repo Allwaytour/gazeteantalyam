@@ -40,6 +40,7 @@ gorsel_secim:
       katman: kurum
       neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 4/10); haberin gerektirdiği unsur görünmüyor (futbolcular, antrenman sahası) — Antalyaspor'un stadını g
   kapak_surum: c2
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

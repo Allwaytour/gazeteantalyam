@@ -40,6 +40,7 @@ gorsel_secim:
       katman: kurum_haber
       neden: 'görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Sosyal tesis haberi için belediye '
   kapak_surum: c2
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

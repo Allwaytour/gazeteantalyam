@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/1280px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'

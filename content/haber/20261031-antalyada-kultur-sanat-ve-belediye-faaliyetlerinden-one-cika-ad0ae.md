@@ -33,6 +33,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1619229665876-f54b2276b7bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y3VsdHVyYWwlMjBmZXN0aXZhbCUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzNDg0OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Colin Lloyd / Unsplash'

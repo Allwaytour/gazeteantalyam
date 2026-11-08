@@ -26,6 +26,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: bilinen_yanlis_kaldirildi
     aciklama: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -35,6 +35,7 @@ gorsel_secim:
     aciklama: başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
   zorla: h1-2026-11-07:10
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

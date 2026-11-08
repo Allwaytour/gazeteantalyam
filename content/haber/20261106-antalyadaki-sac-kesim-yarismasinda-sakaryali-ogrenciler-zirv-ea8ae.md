@@ -40,6 +40,7 @@ gorsel_secim:
     aciklama: Türkiye dışına ait unsurlar (yanıltıcı yer); aşırı karanlık (medyan parlaklık 27, karanlık pay %83); aşırı karanlık (medyan parlaklık 31, karanlık pay %62); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberdeki kişi sanıla
   kapak_surum: c8
   zorla: h1-2026-11-07:10
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

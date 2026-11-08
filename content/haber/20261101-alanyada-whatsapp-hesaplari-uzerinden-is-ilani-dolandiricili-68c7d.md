@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1615985250204-b48c0936d4fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c21hcnRwaG9uZSUyMHNlY3VyaXR5JTIwd2FybmluZ3xlbnwxfDB8fHwxNzkzNTMxMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Tech Daily / Unsplash'

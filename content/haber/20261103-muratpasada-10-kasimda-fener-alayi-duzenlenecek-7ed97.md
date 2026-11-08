@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: aşırı karanlık (medyan parlaklık 11, karanlık pay %96); aşırı karanlık (medyan parlaklık 48, karanlık pay %51); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

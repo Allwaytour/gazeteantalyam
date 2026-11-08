@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg/1280px-Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Selçuk Kara / Wikimedia Commons (CC BY-SA 4.0)'

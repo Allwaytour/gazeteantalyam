@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem; zorunlu unsurlardan hiçbiri görünmüyor: otoyol, tünel girişi'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

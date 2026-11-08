@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)'

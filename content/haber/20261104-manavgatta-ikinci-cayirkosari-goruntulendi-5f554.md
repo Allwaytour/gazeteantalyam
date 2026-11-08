@@ -55,6 +55,7 @@ gorsel_secim:
       katman: kurum
       neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
   kapak_surum: c2
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

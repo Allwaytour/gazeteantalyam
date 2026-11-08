@@ -40,6 +40,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: yaşlı futbolcular, profesyonel A milli takım; habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (4/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

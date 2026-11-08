@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Turkey%2C_Antalya%2C_Belek%2C_Intourist_Club_Belek_%28ex._Justiniano_Club_Belek%29_2008_-_panoramio_-_Alx_R_%282%29.jpg/1280px-Turkey%2C_Antalya%2C_Belek%2C_Intourist_Club_Belek_%28ex._Justiniano_Club_Belek%29_2008_-_panoramio_-_Alx_R_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Alx R / Wikimedia Commons (CC BY 3.0)'

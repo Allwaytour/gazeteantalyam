@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: uzaktan eğitim ekranı; görselde olmaması gereken unsur: uzaktan eğitim ekranı, COP31 logosu; habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 5); habere uygunluk düşük (5/10, en az 8); ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

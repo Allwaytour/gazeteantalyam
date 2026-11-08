@@ -38,6 +38,7 @@ gorsel_secim:
     aciklama: 'Türkiye dışına ait unsurlar (yanıltıcı yer); habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zorunlu unsur görünmüyor: deniz kıyısı; zorunlu unsur görünmüyor: olta, balıkçı, deniz kıyısı'
   kapak_surum: c8
   zorla: h1-2026-11-07:10
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

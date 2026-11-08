@@ -36,6 +36,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: aşırı karanlık (medyan parlaklık 40, karanlık pay %54); aşırı karanlık (medyan parlaklık 48, karanlık pay %52)
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

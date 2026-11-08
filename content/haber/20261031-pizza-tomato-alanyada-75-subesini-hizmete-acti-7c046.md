@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pirate-Themed_Tour_Ships_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Pirate-Themed_Tour_Ships_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)'

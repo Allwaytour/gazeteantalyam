@@ -36,6 +36,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: bilinen_yanlis_kaldirildi
     aciklama: kaynak kaydı başka bir yere ait (Kaş); haberde bu yer geçmiyor
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kaya_mezar_ve_liman-Ka%C5%9F_-_panoramio.jpg/1280px-Kaya_mezar_ve_liman-Ka%C5%9F_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: HALUK COMERTEL / Wikimedia Commons (CC BY 3.0)'

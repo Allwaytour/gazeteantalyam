@@ -33,6 +33,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1610528519769-8dd585a4226d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YW5pbWFsJTIwcmlnaHRzJTIwcHJvdGVzdCUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5MzUzMDk1OHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Jorge Maya / Unsplash'

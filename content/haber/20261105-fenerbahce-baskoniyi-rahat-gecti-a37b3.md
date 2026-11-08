@@ -36,6 +36,7 @@ gorsel_secim:
     aciklama: aşırı karanlık (medyan parlaklık 15, karanlık pay %71); başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (2/10, en az 5); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanlış spor dalı
   kapak_surum: c8
   zorla: h1-2026-11-07:10
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

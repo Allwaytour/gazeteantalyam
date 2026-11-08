@@ -26,6 +26,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: bilinen_yanlis_kaldirildi
     aciklama: kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

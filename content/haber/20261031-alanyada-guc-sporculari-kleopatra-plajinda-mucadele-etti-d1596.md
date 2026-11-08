@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzkzNDg1Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Mario Klassen / Unsplash'

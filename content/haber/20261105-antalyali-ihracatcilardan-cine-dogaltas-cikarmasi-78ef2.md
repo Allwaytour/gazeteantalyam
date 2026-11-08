@@ -55,6 +55,7 @@ gorsel_secim:
       neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
   kapak_surum: c6
   zorla: g9.4-2026-11-05:7
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

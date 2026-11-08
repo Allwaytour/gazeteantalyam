@@ -44,6 +44,7 @@ gorsel_secim:
     kod: kontrol_yapilamadi
     aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

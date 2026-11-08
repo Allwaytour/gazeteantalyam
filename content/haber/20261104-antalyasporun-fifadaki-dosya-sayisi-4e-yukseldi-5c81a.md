@@ -40,6 +40,7 @@ gorsel_secim:
       katman: kurum
       neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Antalyaspor'un stadını gösteren nötr bir arşiv fotoğrafıdır, haberin konusuyla doğrudan çelişme
   kapak_surum: c2
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

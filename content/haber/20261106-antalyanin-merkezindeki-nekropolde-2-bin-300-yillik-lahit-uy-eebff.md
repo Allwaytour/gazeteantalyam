@@ -41,6 +41,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: farklı bir spor dalı, açık alan; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; olumsuz haberde belirli bir kişi, araç (plaka) ya da'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

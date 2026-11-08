@@ -2,39 +2,30 @@
 title: Antalya'da Isıtma Sezonu Öncesi Kazan Bakımı Uyarısı
 date: '2026-11-02T16:42:45+03:00'
 ozet: Makina Mühendisleri Odası Antalya Şube Başkanı Devrim Kılıç, kış mevsimi yaklaşırken merkezi ısıtma kazanlarının bakım ve kontrollerinin aksatılmaması gerektiğini belirtti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg/1280px-D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Sinan Şahin / Wikimedia Commons (CC BY 3.0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler: []
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg
-  fotografci: Sinan Şahin
-  kredi: Sinan Şahin / Wikimedia Commons (CC BY 3.0)
-  lisans: CC BY 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya
-  cekim_yili: ''
-  gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü, ısıtma kazanları uyarısı haberi için nötr ve uygundur.'
-  surum: g7.7-2026-11-02
-  konu_imza: 02c783a6b90a
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg/1280px-D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  tur: kategori
+  gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T20:22:46+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Antalya — Arşiv fotoğrafı
-  alt_tur: yer
-  qid: Q6487
-  kurum: k3
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T23:03:49+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 02c783a6b90a
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
   kural_denetim: k4
-  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  kapak_nedeni:
+    kod: incelemede_yanlis
+    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +36,40 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/mmodan-kis-uyarisi-kazanlar
 gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg/1280px-D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Sinan Şahin / Wikimedia Commons (CC BY 3.0)'
+  gorsel_tur: arsiv
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg
+    fotografci: Sinan Şahin
+    kredi: Sinan Şahin / Wikimedia Commons (CC BY 3.0)
+    lisans: CC BY 3.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya
+    cekim_yili: ''
+    gerekce: '''Antalya'' Wikidata Q6487 kaydı ve Commons kategorisi (Antalya) ile doğrulandı; haberde geçen yer; görsel kontrol: Antalya genel görünümü, ısıtma kazanları uyarısı haberi için nötr ve uygundur.'
+    surum: g7.7-2026-11-02
+    konu_imza: 02c783a6b90a
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg/1280px-D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-02T20:22:46+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.5-flash-lite
+    aciklama: Antalya — Arşiv fotoğrafı
+    alt_tur: yer
+    qid: Q6487
+    kurum: k3
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    kural_denetim: k4
+    kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  gorsel_yerlesim: {}
+  degisim: '2026-11-08T23:03:49+03:00'
+  kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 ---
 Kış mevsiminin yaklaşmasıyla birlikte konutlarda ısıtma sezonu açılırken, yaz boyunca çalıştırılmayan kalorifer kazanlarının yeniden devreye alınmadan önce bakım ve kontrollerden geçirilmesi gerektiği bildirildi. Isıtma sistemlerinin güvenli kullanımı ve enerji tasarrufu açısından düzenli bakımın büyük önem taşıdığı ifade edildi.
 

@@ -41,6 +41,7 @@ gorsel_secim:
     kod: aday_bulunamadi
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ret sonrası yeni arama yapılmadı: takım haberi: genel maç/oyuncu karesi başka takımı gösterir; yalnızca takımın kendi kaydı ya da kendi tesisi'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

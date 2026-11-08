@@ -41,6 +41,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; y
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

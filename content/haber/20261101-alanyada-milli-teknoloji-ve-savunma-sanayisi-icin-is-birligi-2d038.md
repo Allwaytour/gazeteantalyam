@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1784869054223-62729f8bea67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c3R1ZGVudHMlMjB0ZWNobm9sb2d5JTIwY2xhc3Nyb29tJTIwcm9ib3RpY3N8ZW58MXwwfHx8MTc5MzUyOTAzOHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: AMONWAT DUMKRUT / Unsplash'

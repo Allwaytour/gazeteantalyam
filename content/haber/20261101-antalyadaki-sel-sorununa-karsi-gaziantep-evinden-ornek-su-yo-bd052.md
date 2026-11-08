@@ -2,38 +2,30 @@
 title: Antalya'daki sel sorununa karşı Gaziantep Evi'nden örnek su yönetimi
 date: '2026-11-01T16:05:00+03:00'
 ozet: Antalya'da yaşanan sel felaketleri sürdürülebilir su yönetimini gündeme getirirken, bakanlık tarafından tahsis edilen Gaziantep Evi Projesi'nde hayata geçirilen yağmur suyu toplama sistemleri örnek bir model oluşturdu.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg
-  fotografci: Dosseman
-  kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Gaziantep Evi
-  cekim_yili: '2014'
-  gerekce: '''Gaziantep Evi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2014-09-17; görsel kontrol: Gaziantep Evi iç mekanını gösteren gerçek bir arşiv fotoğrafıdır.'
-  surum: g7.7-2026-11-02
-  konu_imza: bf908885ded1
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  tur: kategori
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T20:59:14+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  aciklama: Gaziantep Evi — Arşiv fotoğrafı (2014)
-  alt_tur: kurum
-  kurum: k3
-  kurum_notu: Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Aile ve Sosyal Hizmetler Bakanlığı Antalya dışı kurum, kullanılmadı; Akçaabat Belediyesi Antalya dışı kurum, kullanılmadı
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T23:03:49+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: bf908885ded1
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
   kural_denetim: k4
-  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  kapak_nedeni:
+    kod: incelemede_yanlis
+    aciklama: 'editör incelemesi (Claude, 2026-11-08): Gaziantep Atatürk Müzesi sergi salonu; haberin konusu olan su yönetimini göstermiyor'
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,6 +36,39 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyadaki-sel-soruna-cozum-gazian
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg
+    fotografci: Dosseman
+    kredi: Dosseman / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Gaziantep Evi
+    cekim_yili: '2014'
+    gerekce: '''Gaziantep Evi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2014-09-17; görsel kontrol: Gaziantep Evi iç mekanını gösteren gerçek bir arşiv fotoğrafıdır.'
+    surum: g7.7-2026-11-02
+    konu_imza: bf908885ded1
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-02T20:59:14+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Gaziantep Evi — Arşiv fotoğrafı (2014)
+    alt_tur: kurum
+    kurum: k3
+    kurum_notu: Kayseri Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Aile ve Sosyal Hizmetler Bakanlığı Antalya dışı kurum, kullanılmadı; Akçaabat Belediyesi Antalya dışı kurum, kullanılmadı
+    kural_denetim: k4
+    kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  gorsel_yerlesim: {}
+  degisim: '2026-11-08T23:03:49+03:00'
+  kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): Gaziantep Atatürk Müzesi sergi salonu; haberin konusu olan su yönetimini göstermiyor'
 ---
 Antalya'da sık aralıklarla meydana gelen sel felaketleri, yağmur sularının yalnızca kriz anlarında tahliye edilmesinin ötesinde, doğru yöntemlerle yönetilip tekrar kazandırılmasının hayati önem taşıdığını bir kez daha gösterdi. Tarım arazilerinin, yerleşim yerlerinin ve ulaşım altyapısının zarar gördüğü kentte, sürdürülebilir su yönetimi uygulamaları üzerine yürütülen tartışmalar hız kazandı.
 

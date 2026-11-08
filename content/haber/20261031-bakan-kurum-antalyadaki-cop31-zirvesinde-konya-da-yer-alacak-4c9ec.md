@@ -38,6 +38,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg/1280px-Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'

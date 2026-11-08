@@ -27,6 +27,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: bilinen_yanlis_kaldirildi
     aciklama: habere uygunluk düşük (6/10, en az 7)
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

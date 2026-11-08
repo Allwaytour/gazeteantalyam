@@ -2,8 +2,8 @@
 title: Gazipaşa'da şarampole devrilen otomobilin sürücüsü ağır yaralandı
 date: '2026-11-01T12:44:43+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde kontrolden çıkarak yaklaşık 100 metrelik şarampole yuvarlanan otomobilin sürücüsü ağır yaralandı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/asayis.png
+gorsel_kredi: ''
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,34 +18,59 @@ kaynak_url: https://www.milliyet.com.tr/yerel-haberler/antalya/gazipasa/sarampol
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyJTIwY3Jhc2glMjBwb2xpY2UlMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MzUyOTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Anthony Maw / Unsplash'
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Egemen2.jpg
-  fotografci: GAZİPAŞA GENÇLİK
-  kredi: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Gazipaşa
-  cekim_yili: '2015'
-  gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa sahilini gösteren nötr arşiv fotoğrafı, kaza haberi için uygundur ve yanıltıcı değildir.'
-  surum: g7.7-2026-11-02
-  konu_imza: cad8f7a3bd93
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  tur: kategori
+  gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-02T19:54:23+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.5-flash-lite
-  aciklama: Gazipaşa — Arşiv fotoğrafı (2015)
-  alt_tur: yer
-  qid: Q844779
-  kurum: k3
-  kurum_notu: "TBMM sayfası aynı haber değil (benzerlik %46); kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T23:03:49+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: cad8f7a3bd93
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
   kural_denetim: k4
-  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  kapak_nedeni:
+    kod: incelemede_yanlis
+    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+  onceki_kontrol: k4
+gorsel_gecmis:
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Egemen2.jpg
+    fotografci: GAZİPAŞA GENÇLİK
+    kredi: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Gazipaşa
+    cekim_yili: '2015'
+    gerekce: '''Gazipaşa'' Wikidata Q844779 kaydı ve Commons kategorisi (Gazipaşa) ile doğrulandı; haberde geçen yer; görsel kontrol: Gazipaşa sahilini gösteren nötr arşiv fotoğrafı, kaza haberi için uygundur ve yanıltıcı değildir.'
+    surum: g7.7-2026-11-02
+    konu_imza: cad8f7a3bd93
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-02T19:54:23+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.5-flash-lite
+    aciklama: Gazipaşa — Arşiv fotoğrafı (2015)
+    alt_tur: yer
+    qid: Q844779
+    kurum: k3
+    kurum_notu: "TBMM sayfası aynı haber değil (benzerlik %46); kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
+    kural_denetim: k4
+    kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  gorsel_yerlesim: {}
+  degisim: '2026-11-08T23:03:49+03:00'
+  kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 ---
 Kaza, gece saat 01.00 sularında Gazipaşa'nın Ilıca Mahallesi sınırları içerisinde meydana geldi. Alınan bilgilere göre, Raşit G. yönetimindeki 07 BFK 071 plakalı otomobil, henüz bilinmeyen bir nedenle sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yoldan çıkarak şarampole devrildi. Yaklaşık 100 metre yuvarlanan araçta kaza yaşandı.
 

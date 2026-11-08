@@ -40,6 +40,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'aşırı karanlık (medyan parlaklık 21, karanlık pay %84); başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: konferans salonu, zirve panosu, sürdü'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

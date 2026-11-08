@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'habere uygunluk düşük (6/10, en az 7); zorunlu unsurlardan hiçbiri görünmüyor: futbol takımı antrenmanı, futbolcular'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

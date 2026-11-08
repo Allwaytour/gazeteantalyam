@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/1280px-View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)'

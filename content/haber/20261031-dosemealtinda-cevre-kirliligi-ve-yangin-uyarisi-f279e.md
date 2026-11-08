@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Antalya_museum_D%C3%B6%C5%9Femealt%C4%B1_carpet%2C_20th_century_4893.jpg/1280px-Antalya_museum_D%C3%B6%C5%9Femealt%C4%B1_carpet%2C_20th_century_4893.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'

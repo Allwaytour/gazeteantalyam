@@ -36,6 +36,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: 'habere uygunluk düşük (3/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: hümik asit bidonları, tarımsal gübre'
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

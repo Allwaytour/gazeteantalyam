@@ -29,6 +29,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: bilinen_yanlis_kaldirildi
     aciklama: kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -37,6 +37,7 @@ gorsel_secim:
     kod: gorsel_reddedildi
     aciklama: büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zoru
   kapak_surum: c8
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

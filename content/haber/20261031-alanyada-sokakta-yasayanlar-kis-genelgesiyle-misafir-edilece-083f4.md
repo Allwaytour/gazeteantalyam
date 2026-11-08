@@ -34,6 +34,7 @@ gorsel_secim:
   kapak_nedeni:
     kod: dogrulanmamis_kaldirildi
     aciklama: bu haber için doğrulanmamış eski otomatik seçim
+  onceki_kontrol: k4
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1634522691258-9a3c62f2f1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8aG90ZWwlMjB3aW50ZXIlMjBzaGVsdGVyJTIwaG9tZWxlc3N8ZW58MXwwfHx8MTc5MzQ4NjAzM3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Levi Meir Clancy / Unsplash'

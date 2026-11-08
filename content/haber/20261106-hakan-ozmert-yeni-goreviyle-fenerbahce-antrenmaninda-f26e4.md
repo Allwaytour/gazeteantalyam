@@ -40,6 +40,7 @@ gorsel_secim:
     aciklama: 'başka bir etkinliğin karesi güncel olayın görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; görselde olmaması gereken unsur: başka takımın forması; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (3/10, en az 5); habere uygunluk düşük (4/10, en az 5); haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor; kalabalık kare: başka kişiler haberin kişisi sanılabilir; kişi'
   kapak_surum: c8
   zorla: h1-2026-11-07:10
+  onceki_kontrol: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
