@@ -19,22 +19,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 5c21d82a8087
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-05T22:33:15+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T15:03:53+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca ay'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Mimar Sinan Kongre Merkezi, Aydın Kanza Parkı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-  kapak_surum: c4
+    aciklama: '''Mimar Sinan Kongre Merkezi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Aydın Kanza Parkı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halkların İklim Z'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -41,6 +41,11 @@ yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-mahkumlara-3-tas-veriliyordu-basaramayanin-sonu-kotuydu/560981
 baslik_ozgun: 'ALANYA KALESİ''NİN KORKUTAN EFSANESİ: ADAM ATACAĞI'
+gorsel_bekleyen:
+  surum: h1-2026-11-07
+  tarih: '2026-11-08T15:10:16+03:00'
+  sayi: 1
+  neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
 ---
 Antalya'nın simge yapılarından Alanya Kalesi, sadece eşsiz manzarasıyla değil, geçmişten günümüze ulaşan sıra dışı hikâyeleriyle de dikkat çekiyor. Kalenin iç kısmında yer alan ve 'Adam Atacağı' olarak isimlendirilen bölge, mahkûmların kaderinin üç küçük taşa bağlandığı bir efsaneye ev sahipliği yapıyor. Roma dönemine dayandırılan bu anlatıya göre, idama mahkûm edilen kişiler, özgürlüklerini kazanabilmeleri için zorlu bir sınava tabi tutuluyordu.
 

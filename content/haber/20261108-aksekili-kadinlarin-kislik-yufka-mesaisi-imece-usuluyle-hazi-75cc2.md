@@ -21,22 +21,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: c41213dd07bb
+  konu_imza: 777ebc35c7b3
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T10:03:55+03:00'
+    yapildi: false
+    sonuc: aday yok
+    tarih: '2026-11-08T15:06:26+03:00'
     yontem: h2
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; görselde olmaması gereken unsur: modern fırın; habere uygunluk düşük (0/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; olumsuz haberde belirli bir kişi, araç (plaka) ya da işletme suçlanıyormuş gibi görünüyor; tarihî/siyah-bey'
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Akseki'' için konuyla (flatbread, yufka, cooking on sheet) ilişkili lisanslı fotoğraf bulunamadı; ''kışlık yufka yapımı'' konusunu g'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/kultur-sanat/antalya-akseki-de-kadinlar-imeceyle-2-cuval-undan-20406433-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Akseki ilçesinde sonbaharın gelmesiyle birlikte kış hazırlıkları hız kazandı. Alaçeşme Mahallesi'nde yaşayan kadınlar, geleneksel yufka ekmeği yapımı için sabahın erken saatlerinde bir araya gelerek imece usulüyle çalışmaya başladı. Komşuluk ilişkilerinin güçlendiği bu süreçte, kadınlar hem kışlık erzaklarını hazırlıyor hem de asırlık bir kültürü gelecek kuşaklara aktarıyor.
 

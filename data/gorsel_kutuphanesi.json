@@ -1,6 +1,85 @@
 {
  "aciklama": "Doğrulanmış görsel kütüphanesi (görsel hattı h1).",
  "inceleme": {
+  "01b12d19845cd033": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     100,
+     850,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "liman",
+     "tekne",
+     "deniz",
+     "sahil",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya limanı ve sahilinin yüksekten panoramik görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya tanıtım",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm fuarı haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:17a02edc7691:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber fuar etkinliği ile ilgili, bu görsel ise sadece genel bir şehir manzarasıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "turizm fuarı standı"
+      ]
+     },
+     "t": "2026-11-08T15:07:56+03:00"
+    }
+   },
+   "t": "2026-11-08T15:07:56+03:00",
+   "teknik": {
+    "doygunluk": 35.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.24,
+    "keskinlik": 3157,
+    "kontrast": 58,
+    "medyan": 118,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg/1280px-Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0220242430c5df84": {
    "icerik": {
     "ana_kutu": [
@@ -5006,6 +5085,85 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/20180111_AntalyaCastle_5259_%2839398814614%29.jpg/1280px-20180111_AntalyaCastle_5259_%2839398814614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1a706306cca88eef": {
+   "icerik": {
+    "ana_kutu": [
+     780,
+     400,
+     990,
+     500
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "köpek",
+     "tekne",
+     "deniz",
+     "iskele",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya limanında bir köpek ve arka planda deniz manzarası.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya tanıtım",
+     "gezi"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm fuarı haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:17a02edc7691:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber turizm fuarı ile ilgili, bu görsel ise sadece bir köpek ve liman manzarası içeriyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "turizm fuarı standı"
+      ]
+     },
+     "t": "2026-11-08T15:07:56+03:00"
+    }
+   },
+   "t": "2026-11-08T15:07:56+03:00",
+   "teknik": {
+    "doygunluk": 37.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 1230,
+    "kontrast": 60,
+    "medyan": 128,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Accompaniment_Of_The_Little_Dog.jpg/1280px-Accompaniment_Of_The_Little_Dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1a73ce0ec4b9036f": {
    "icerik": {
     "ana_kutu": [
@@ -5527,6 +5685,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/FEMA_-_34866_-_Firefighters_working_at_an_airport_in_Arkansas.jpg/1280px-FEMA_-_34866_-_Firefighters_working_at_an_airport_in_Arkansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "204d7e5e84500d97": {
+   "icerik": {
+    "ana_kutu": [
+     588,
+     337,
+     997,
+     834
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "iskele",
+     "minder",
+     "deniz",
+     "gökyüzü",
+     "deniz paraşütü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap iskele üzerinde minderler ve deniz manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil",
+     "sahil"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "siyaset",
+     "maç"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d08732538e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tatil beldesi ve iskele görüntüsü doluluk oranı haberine kısmen uyar.",
+      "gerekli": [
+       {
+        "unsur": "otel",
+        "var": false
+       },
+       {
+        "unsur": "tatil beldesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       588,
+       337,
+       997,
+       834
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:35+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:35+03:00",
+   "teknik": {
+    "doygunluk": 42.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 1282,
+    "kontrast": 45,
+    "medyan": 113,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/TURQUIA_-_ANTALYA_-_Hotel_Kervansaray_-_Praia_-_panoramio.jpg/1280px-TURQUIA_-_ANTALYA_-_Hotel_Kervansaray_-_Praia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "20729f703e02fbaf": {
    "icerik": {
@@ -6868,6 +7120,37 @@
     ]
    },
    "iliski": {
+    "r1:adb2d270060e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trabzonspor formali futbolcu gorunuyor ancak haber taraftarlar hakkinda.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor atkısı veya forması giymiş t",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       10,
+       995,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:03:42+03:00"
+    },
     "r1:bd0a5c6b19c7:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -6900,7 +7183,7 @@
      "t": "2026-11-08T13:08:33+03:00"
     }
    },
-   "t": "2026-11-08T13:08:33+03:00",
+   "t": "2026-11-08T15:03:42+03:00",
    "teknik": {
     "doygunluk": 38.1,
     "inen": [
@@ -7106,6 +7389,90 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/StoraPolsan01.jpg/1280px-StoraPolsan01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "265ac6c352f4721f": {
+   "icerik": {
+    "ana_kutu": [
+     45,
+     130,
+     860,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "heykel",
+     "bank"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir bankta oturan iki çocuk heykeli.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir estetiği",
+     "kültür sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "eğitim haberi",
+     "çocuk etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Heykel, çocuklara yönelik eğitim ve etkinlik desteği haberini temsil etmek için yetersiz ve ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       },
+       {
+        "unsur": "eğitim veya atölye etkinliği",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:17+03:00"
+    }
+   },
+   "t": "2026-11-08T15:05:17+03:00",
+   "teknik": {
+    "doygunluk": 15.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.218,
+    "keskinlik": 3216,
+    "kontrast": 61,
+    "medyan": 122,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Antalya_Sculptures_of_child_play_%C4%B1n_2013_02.jpg/1280px-Antalya_Sculptures_of_child_play_%C4%B1n_2013_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2663faae650e281e": {
    "icerik": {
@@ -7641,6 +8008,23 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/5_Year_Anniversary_California_Lottery_Tickets.jpg/1280px-5_Year_Anniversary_California_Lottery_Tickets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "28eef1245aab9086": {
+   "t": "2026-11-08T15:07:24+03:00",
+   "teknik": {
+    "doygunluk": 36.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.914,
+    "keskinlik": 1072,
+    "kontrast": 32,
+    "medyan": 9,
+    "parlaklik": 20,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Alanya_Harbour_8531.jpg/1280px-Alanya_Harbour_8531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "29585bacbd11f548": {
    "icerik": {
     "ana_kutu": [
@@ -7712,6 +8096,37 @@
       "yasak": []
      },
      "t": "2026-11-08T14:42:22+03:00"
+    },
+    "r1:873cd8b792c5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanında bir kruvaziyer gemisi, turizm potansiyelini yansıtan uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "Alanya otelleri veya turizm bölgesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       173,
+       655,
+       892
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:13+03:00"
     },
     "r1:954a278fbb17:konu": {
      "d": {
@@ -7799,7 +8214,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:42:22+03:00",
+   "t": "2026-11-08T15:11:13+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -8928,9 +9343,38 @@
       "yasak": []
      },
      "t": "2026-11-08T13:10:53+03:00"
+    },
+    "r1:adb2d270060e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dagli arazi manzarasi haberle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor atkısı veya forması giymiş t",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "rakip takım forması",
+       "stadyum dışı olaylar"
+      ]
+     },
+     "t": "2026-11-08T15:03:42+03:00"
     }
    },
-   "t": "2026-11-08T13:42:35+03:00",
+   "t": "2026-11-08T15:03:42+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -9298,6 +9742,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:873cd8b792c5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı binası turizm pazarı temaslarını veya Alanya'nın turistik dokusunu yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya otelleri veya turizm bölgesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:13+03:00"
+    },
     "r1:954a278fbb17:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -9390,7 +9860,7 @@
      "t": "2026-11-08T11:10:32+03:00"
     }
    },
-   "t": "2026-11-08T14:08:10+03:00",
+   "t": "2026-11-08T15:11:13+03:00",
    "teknik": {
     "doygunluk": 18.6,
     "inen": [
@@ -10308,6 +10778,23 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "37a355df0d2d4b4d": {
+   "t": "2026-11-08T15:08:27+03:00",
+   "teknik": {
+    "doygunluk": 13.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.116,
+    "keskinlik": 2283,
+    "kontrast": 57,
+    "medyan": 125,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg/1280px-Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "387c99fc45abf864": {
    "icerik": {
@@ -11583,6 +12070,97 @@
    },
    "url": "https://images.unsplash.com/photo-1622398925373-3f91b1e275f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2VkZGluZyUyMHJpbmdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MDg4OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "448928896b1acabe": {
+   "icerik": {
+    "ana_kutu": [
+     728,
+     426,
+     955,
+     568
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "gelin",
+     "damat",
+     "arazi",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık arazide el ele yürüyen gelin ve damat.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "düğün haberi",
+     "evlilik haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:618ba10f2576:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili düğün fotoğrafı ancak yabancı bir coğrafyada çekildiği için haberle tam örtüşmüyor.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün mekânı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       728,
+       426,
+       955,
+       568
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:06:11+03:00"
+    }
+   },
+   "t": "2026-11-08T15:06:11+03:00",
+   "teknik": {
+    "doygunluk": 12.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.084,
+    "keskinlik": 265,
+    "kontrast": 63,
+    "medyan": 188,
+    "parlaklik": 165,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YnJpZGUlMjBhbmQlMjBncm9vbSUyMHdlZGRpbmclMjB2ZW51ZXxlbnwxfDB8fHwxNzk0MTM5NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "44b37f78a30069a4": {
    "icerik": {
     "ana_kutu": [
@@ -12029,9 +12607,39 @@
       "yasak": []
      },
      "t": "2026-11-08T10:32:56+03:00"
+    },
+    "r1:f892fe568507:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kumluca'daki aranan sahiflar operasyonuyla hicbir baglantisi olmayan yabanci askeri personel.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": false
+       },
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:04:10+03:00"
     }
    },
-   "t": "2026-11-08T10:32:56+03:00",
+   "t": "2026-11-08T15:04:10+03:00",
    "teknik": {
     "doygunluk": 12.9,
     "inen": [
@@ -14063,6 +14671,118 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "509ac48494361141": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     317,
+     722,
+     706
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "oy sandığı",
+     "insan grubu",
+     "meclis salonu",
+     "ikonlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Vatandaşlar ve meclis ortamını temsil eden yapay zeka çizimi illüstrasyon.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "secim",
+     "siyaset",
+     "demokrasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel_olay",
+     "polis_adliye",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      55,
+      3,
+      220,
+      108
+     ],
+     [
+      105,
+      93,
+      383,
+      196
+     ],
+     [
+      67,
+      172,
+      321,
+      275
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:9ecb173d9632:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yapay zeka ürünü konsept illüstrasyon olduğu için gerçek haberde tercih edilmemelidir.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": true
+       },
+       {
+        "unsur": "oy verme kabini",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       317,
+       722,
+       706
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:49+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:49+03:00",
+   "teknik": {
+    "doygunluk": 29.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.106,
+    "keskinlik": 1063,
+    "kontrast": 74,
+    "medyan": 144,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Fra_Borgere_til_Folkestyre.png/1280px-Fra_Borgere_til_Folkestyre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "50e46cb12123ce1c": {
    "icerik": {
     "ana_kutu": null,
@@ -14456,9 +15176,39 @@
       "yasak": []
      },
      "t": "2026-11-08T10:32:56+03:00"
+    },
+    "r1:f892fe568507:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asayis operasyonu haberi icin tamamen ilgisiz askeri pilot ve ucak gorseli.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": false
+       },
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:04:10+03:00"
     }
    },
-   "t": "2026-11-08T10:32:56+03:00",
+   "t": "2026-11-08T15:04:10+03:00",
    "teknik": {
     "doygunluk": 30.7,
     "inen": [
@@ -16056,6 +16806,41 @@
      },
      "t": "2026-11-08T13:42:35+03:00"
     },
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk figürü var ancak haberdeki eğitim/etkinlik desteğiyle doğrudan bir bağı yok, genel bir çocuk fotoğrafı.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       },
+       {
+        "unsur": "eğitim veya atölye etkinliği",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       212,
+       530,
+       985,
+       760
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:17+03:00"
+    },
     "r1:d6d2afc555e0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -16092,7 +16877,7 @@
      "t": "2026-11-08T12:39:20+03:00"
     }
    },
-   "t": "2026-11-08T13:42:35+03:00",
+   "t": "2026-11-08T15:05:17+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -20755,6 +21540,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/HK_Soft_drink_pre-packed_plastic_bottles_Watsons_Water_green_cover_July_2017_IX1.jpg/1280px-HK_Soft_drink_pre-packed_plastic_bottles_Watsons_Water_green_cover_July_2017_IX1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7a09cd8d804005ec": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     4,
+     712,
+     461
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oy kabini",
+     "masa",
+     "koltuk",
+     "duvar resmi",
+     "vantilatör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş bir salonda sıralanmış mavi renkli oy kabinleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "secim",
+     "oylama",
+     "sandik"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9ecb173d9632:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Önseçim için hazırlanan kabinleri gösteren uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": false
+       },
+       {
+        "unsur": "oy verme kabini",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       4,
+       712,
+       461
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:49+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:49+03:00",
+   "teknik": {
+    "doygunluk": 40.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.227,
+    "keskinlik": 1329,
+    "kontrast": 67,
+    "medyan": 154,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg/1280px-Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7a9e49bb37182c0e": {
    "icerik": {
     "ana_kutu": [
@@ -22515,6 +23394,37 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:873cd8b792c5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'da turistik bir aktiviteyi gösteriyor, genel turizm vurgusu için kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya otelleri veya turizm bölgesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       63,
+       760,
+       223,
+       858
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:13+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -22603,7 +23513,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:42:22+03:00",
+   "t": "2026-11-08T15:11:13+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -24134,6 +25044,23 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8a5d0d2382726f9d": {
+   "t": "2026-11-08T15:08:26+03:00",
+   "teknik": {
+    "doygunluk": 24.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 2998,
+    "kontrast": 75,
+    "medyan": 133,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Alanya_Castle_14.JPG/1280px-Alanya_Castle_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8a87cec6884b19bd": {
    "t": "2026-11-08T14:42:15+03:00",
    "teknik": {
@@ -24619,32 +25546,6 @@
      },
      "t": "2026-11-08T13:33:07+03:00"
     },
-    "r1:5e1bc2283a6b:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "TBMM salonu COP31 zirvesi ile doğrudan ilişkili değildir, genel bir siyasi görseldir.",
-      "gerekli": [
-       {
-        "unsur": "toplantı veya konferans salonu",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:54:11+03:00"
-    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24726,6 +25627,35 @@
       "yasak": []
      },
      "t": "2026-11-08T11:38:40+03:00"
+    },
+    "r1:adb2d270060e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM genel kurul salonu futbol taraftari haberiyle uyusmamaktadir.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor atkısı veya forması giymiş t",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "rakip takım forması",
+       "stadyum dışı olaylar"
+      ]
+     },
+     "t": "2026-11-08T15:03:42+03:00"
     },
     "r1:c9e9b06a94d5:konu": {
      "d": {
@@ -24810,7 +25740,7 @@
      "t": "2026-11-08T07:02:41+03:00"
     }
    },
-   "t": "2026-11-08T14:38:40+03:00",
+   "t": "2026-11-08T15:03:42+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -24923,9 +25853,39 @@
       "yasak": []
      },
      "t": "2026-11-08T10:32:56+03:00"
+    },
+    "r1:f892fe568507:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki polis operasyonuyla ilgisi olmayan askeri ucak bakimini gosteriyor.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": false
+       },
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:04:10+03:00"
     }
    },
-   "t": "2026-11-08T10:32:56+03:00",
+   "t": "2026-11-08T15:04:10+03:00",
    "teknik": {
     "doygunluk": 51.7,
     "inen": [
@@ -25239,6 +26199,23 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8f76e1ac9a636626": {
+   "t": "2026-11-08T15:07:23+03:00",
+   "teknik": {
+    "doygunluk": 23.2,
+    "inen": [
+     1000,
+     679
+    ],
+    "karanlik_oran": 0.253,
+    "keskinlik": 2444,
+    "kontrast": 71,
+    "medyan": 99,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "/images/kurum/c3ea3910914e2b78.jpg"
   },
   "904d4b7b12a010b0": {
    "icerik": {
@@ -26856,6 +27833,35 @@
      },
      "t": "2026-11-08T11:38:40+03:00"
     },
+    "r1:adb2d270060e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Arkeoloji Muzesi binasi haberin konusuyla ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor atkısı veya forması giymiş t",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "rakip takım forması",
+       "stadyum dışı olaylar"
+      ]
+     },
+     "t": "2026-11-08T15:03:42+03:00"
+    },
     "r1:c9e9b06a94d5:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -26947,7 +27953,7 @@
      "t": "2026-11-08T11:10:32+03:00"
     }
    },
-   "t": "2026-11-08T14:33:35+03:00",
+   "t": "2026-11-08T15:03:42+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -27121,6 +28127,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/1280px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "985c48ced5cf3f7f": {
+   "icerik": {
+    "ana_kutu": [
+     174,
+     46,
+     831,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel binası",
+     "yüzme havuzu",
+     "su kaydırağı",
+     "şezlong",
+     "palmiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük bir otel kompleksi, havuzlar ve kaydıraklar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm haberleri",
+     "tatil beldesi tanıtımı",
+     "otel doluluk oranları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "maç haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d08732538e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel kompleksi ve havuz görünümü doluluk tartışması haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel",
+        "var": true
+       },
+       {
+        "unsur": "tatil beldesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       174,
+       46,
+       831,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:35+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:35+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 2779,
+    "kontrast": 51,
+    "medyan": 141,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "99561dfaf9d2f06c": {
    "icerik": {
@@ -27783,6 +28883,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9d3e11a4e14e2684": {
+   "icerik": {
+    "ana_kutu": [
+     63,
+     0,
+     999,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "otel binası",
+     "yüzme havuzu",
+     "ağaç",
+     "kubbe",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mimari yapıları ve büyük havuzları olan otel tesisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm",
+     "otel tanıtımı",
+     "tatil istatistikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "siyaset",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d08732538e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel ve tatil tesisi görüntüsü haberle doğrudan ilgilidir.",
+      "gerekli": [
+       {
+        "unsur": "otel",
+        "var": true
+       },
+       {
+        "unsur": "tatil beldesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       63,
+       0,
+       999,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:35+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:35+03:00",
+   "teknik": {
+    "doygunluk": 30.4,
+    "inen": [
+     500,
+     303
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 2478,
+    "kontrast": 71,
+    "medyan": 159,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Panoramio_-_V%26A_Dudush_-_Hotel_Kremlin_Palace_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "9d9fce613d5be7e4": {
    "t": "2026-11-08T12:10:57+03:00",
@@ -29315,6 +30509,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:873cd8b792c5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı apronu turizm pazarı temaslarını veya Alanya'nın turistik dokusunu yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya otelleri veya turizm bölgesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:13+03:00"
+    },
     "r1:954a278fbb17:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -29349,9 +30569,38 @@
       "yasak": []
      },
      "t": "2026-11-08T14:08:10+03:00"
+    },
+    "r1:adb2d270060e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimani ve ucaklar Alanya'da gecse de futbol taraftari haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor atkısı veya forması giymiş t",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "rakip takım forması",
+       "stadyum dışı olaylar"
+      ]
+     },
+     "t": "2026-11-08T15:03:42+03:00"
     }
    },
-   "t": "2026-11-08T14:08:10+03:00",
+   "t": "2026-11-08T15:11:13+03:00",
    "teknik": {
     "doygunluk": 51.1,
     "inen": [
@@ -29454,6 +30703,23 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Water_Bottles_Image.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "a86dc0ba424aa4ed": {
+   "t": "2026-11-08T15:08:26+03:00",
+   "teknik": {
+    "doygunluk": 55.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.924,
+    "keskinlik": 704,
+    "kontrast": 21,
+    "medyan": 22,
+    "parlaklik": 28,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Alanya_Castle_seen_from_near_Red_Tower_8545.jpg/1280px-Alanya_Castle_seen_from_near_Red_Tower_8545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a875d22a0b5f29b6": {
    "icerik": {
@@ -30205,6 +31471,113 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG/1280px-Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ac163e92265f55cd": {
+   "icerik": {
+    "ana_kutu": [
+     192,
+     33,
+     965,
+     978
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "dünya haritası",
+     "fuar standı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir grup insan bir fuar standında dünya haritası önünde poz veriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm fuarı",
+     "iş toplantısı",
+     "heyet ziyareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "turistik manzara",
+     "otel tanıtımı",
+     "tatil haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      192,
+      89,
+      303,
+      137
+     ],
+     [
+      195,
+      228,
+      306,
+      275
+     ],
+     [
+      211,
+      365,
+      322,
+      407
+     ],
+     [
+      271,
+      456,
+      376,
+      493
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:873cd8b792c5:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen Londra'daki turizm fuarı temaslarını doğrudan yansıtan güncel bir kare.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       192,
+       33,
+       965,
+       978
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:13+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:13+03:00",
+   "teknik": {
+    "doygunluk": 32.2,
+    "inen": [
+     1000,
+     512
+    ],
+    "karanlik_oran": 0.15,
+    "keskinlik": 1227,
+    "kontrast": 48,
+    "medyan": 80,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "/images/kurum/552e5f8c7c6f530a.jpg"
   },
   "ac90dd5e9c9582fe": {
    "icerik": {
@@ -33256,6 +34629,23 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/D_400_Antalya_-_23.6.15.JPG/1280px-D_400_Antalya_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bd1321a91055fb49": {
+   "t": "2026-11-08T15:08:26+03:00",
+   "teknik": {
+    "doygunluk": 37.6,
+    "inen": [
+     500,
+     276
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 1858,
+    "kontrast": 35,
+    "medyan": 130,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Boat_in_Alanya.jpg/1280px-Boat_in_Alanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bd61eed21f551e8e": {
    "icerik": {
     "ana_kutu": [
@@ -35885,6 +37275,99 @@
    },
    "url": "https://images.unsplash.com/photo-1562329265-95a6d7a83440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dGhlYXRyZSUyMHN0YWdlJTIwcGVyZm9ybWFuY2V8ZW58MXwwfHx8MTc5Mzk4NzAxMXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c8f4266bdbdb384b": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     10,
+     918,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oy sandığı",
+     "oy pusulası",
+     "ahşap zemin",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap zemin üzerinde içi oy pusulalarıyla dolu şeffaf oy sandığı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "secim",
+     "oylama",
+     "sandik"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9ecb173d9632:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan önseçim sandığı net bir şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": true
+       },
+       {
+        "unsur": "oy verme kabini",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       10,
+       918,
+       650
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:49+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:49+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.063,
+    "keskinlik": 1209,
+    "kontrast": 42,
+    "medyan": 133,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c9208dfc622e5956": {
    "t": "2026-11-08T11:10:26+03:00",
    "teknik": {
@@ -36432,6 +37915,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Yufka_yap%C4%B1m%C4%B1.jpg/1280px-Yufka_yap%C4%B1m%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cd54361da91941ff": {
+   "icerik": {
+    "ana_kutu": [
+     435,
+     427,
+     998,
+     635
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "gelin",
+     "damat",
+     "çiçekli tak",
+     "taş duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dış mekanda çiçeklerle süslü bir tak önünde duran gelin ve damat.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "düğün haberi",
+     "evlilik haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      435,
+      465,
+      525,
+      505
+     ],
+     [
+      455,
+      505,
+      545,
+      545
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:618ba10f2576:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili düğün fotoğrafı ancak yabancı bir mekanda çekildiği için haberle tam örtüşmüyor.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün mekânı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       435,
+       427,
+       998,
+       635
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:06:11+03:00"
+    }
+   },
+   "t": "2026-11-08T15:06:11+03:00",
+   "teknik": {
+    "doygunluk": 11.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.023,
+    "keskinlik": 4947,
+    "kontrast": 55,
+    "medyan": 189,
+    "parlaklik": 180,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Griffin_House_Elopement_in_Hood_River%2C_Oregon..jpg/1280px-Griffin_House_Elopement_in_Hood_River%2C_Oregon..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cd6840e669d46523": {
    "icerik": {
     "ana_kutu": [
@@ -36954,6 +38541,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024.11.23-ANTALYA_SENFON%C4%B0-KONSER-%C3%96NSE%C3%87%C4%B0M2_copy.jpg/1280px-2024.11.23-ANTALYA_SENFON%C4%B0-KONSER-%C3%96NSE%C3%87%C4%B0M2_copy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d24909e93a9bf644": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     150,
+     950,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "stant",
+     "masa",
+     "şişe",
+     "tabak",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir ticaret fuarındaki stantlar ve ürün sergileme alanı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ticaret fuarı",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Alanya turizm haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      468,
+      564,
+      655,
+      645
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:17a02edc7691:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hırvatistan'daki yerel bir fuara ait, Alanya ile ilgisi olmayan yanıltıcı bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "turizm fuarı standı",
+        "var": true
+       },
+       {
+        "unsur": "Alanya tanıtımı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:07:56+03:00"
+    }
+   },
+   "t": "2026-11-08T15:07:56+03:00",
+   "teknik": {
+    "doygunluk": 36.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 2386,
+    "kontrast": 52,
+    "medyan": 109,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/MESAP_2015._-_turisti%C4%8Dki_%C5%A1tand.jpg/1280px-MESAP_2015._-_turisti%C4%8Dki_%C5%A1tand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d26b5c98f40a89e0": {
    "icerik": {
     "ana_kutu": [
@@ -37398,6 +39078,95 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Student_Book_Art_Exhibition_%285404912339%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "d6dea9f8d19f8965": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     230,
+     880,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kütüphane binası",
+     "Türk bayrağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da modern bir kütüphane binası ve önünde Türk bayrağı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye hizmetleri",
+     "eğitim yatırımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen kütüphane hizmetini temsil eden uygun bir tesis görseli.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       },
+       {
+        "unsur": "eğitim veya atölye etkinliği",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       230,
+       880,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:17+03:00"
+    }
+   },
+   "t": "2026-11-08T15:05:17+03:00",
+   "teknik": {
+    "doygunluk": 23.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.185,
+    "keskinlik": 2888,
+    "kontrast": 69,
+    "medyan": 123,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%90%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%B8_%283%29.jpg/1280px-%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%90%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%B8_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d6ef2c36edb78c51": {
    "icerik": {
@@ -38356,6 +40125,40 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1581840772307-d154fe149012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8R3JlZW5wZWFjZSUyMGNsaW1hdGUlMjBhY3Rpb258ZW58MXwwfHx8MTc5NDA3ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "dd1ecbb7c9adf9fb": {
+   "t": "2026-11-08T15:08:26+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.09,
+    "keskinlik": 3905,
+    "kontrast": 61,
+    "medyan": 148,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eastern_Walls_of_Alanya_Castle.jpg/1280px-Eastern_Walls_of_Alanya_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "dd46eb731f6760ae": {
+   "t": "2026-11-08T15:08:26+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 3048,
+    "kontrast": 45,
+    "medyan": 145,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Alanya_kale.jpg/1280px-Alanya_kale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ddc60231f3363a10": {
    "icerik": {
@@ -43960,40 +45763,82 @@
   "f6f366199e930cea": {
    "icerik": {
     "ana_kutu": [
-     300,
-     50,
-     580,
-     630
+     294,
+     233,
+     569,
+     411
     ],
     "bulanik": false,
+    "cekim": "orta",
     "donem": "guncel",
     "karanlik": false,
     "kisi_sayisi": 0,
     "nesneler": [
      "şezlong",
-     "teras",
      "kedi",
-     "deniz"
+     "deniz",
+     "bulut",
+     "korkuluk"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Otel terasında şezlonglar ve kedi",
+    "s": "i3",
+    "sahne": "Otel terasında şezlonglar, deniz manzarası ve bir kedi",
+    "sahne_turu": "notr_yapi_tesis",
     "siyah_beyaz": false,
     "tur": "fotograf",
-    "ulke": "turkiye",
+    "ulke": "belirsiz",
     "uygun_baglamlar": [
-     "otel",
+     "turizm haberleri",
      "tatil",
-     "turizm"
+     "otel detayları"
     ],
     "uygunsuz_baglamlar": [
-     "siyaset"
+     "siyaset",
+     "spor",
+     "kaza haberleri"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": false,
     "yuzler": []
    },
-   "t": "2026-11-07T21:08:13+03:00",
+   "iliski": {
+    "r1:74d08732538e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel terası ve şezlonglar turizm haberine görsel olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel",
+        "var": true
+       },
+       {
+        "unsur": "tatil beldesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       294,
+       233,
+       569,
+       411
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:35+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:35+03:00",
    "teknik": {
     "doygunluk": 8.6,
     "inen": [
@@ -44446,6 +46291,183 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "f8c74face3511d04": {
+   "icerik": {
+    "ana_kutu": [
+     820,
+     590,
+     940,
+     660
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "dağ",
+     "bulut",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bulutlu gökyüzü altında dağlık bir arazi ve silüet halindeki insanlar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "turizm",
+     "doğa",
+     "seyahat"
+    ],
+    "uygunsuz_baglamlar": [
+     "kent",
+     "belediye",
+     "park"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:444fe335ac89:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Endonezya'daki Bromo Dağı'na aittir, haberdeki parkla hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Tarık Akan Parkı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:07:03+03:00"
+    }
+   },
+   "t": "2026-11-08T15:07:03+03:00",
+   "teknik": {
+    "doygunluk": 13.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.175,
+    "keskinlik": 112,
+    "kontrast": 64,
+    "medyan": 174,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pasir_Berbisik_-_TNBTS.jpg/1280px-Pasir_Berbisik_-_TNBTS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f8cf587a89e8091b": {
+   "icerik": {
+    "ana_kutu": [
+     270,
+     60,
+     990,
+     640
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "çocuk",
+     "astronot kostümü afişi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Astronot kostümü kesiti arkasında poz veren bir çocuk.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çocuk etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      270,
+      310,
+      470,
+      420
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk etkinliğini yansıtıyor ancak NASA ve yabancı dildeki yazı, Türkiye'deki belediye hizmetiyle çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       },
+       {
+        "unsur": "eğitim veya atölye etkinliği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       60,
+       990,
+       640
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:17+03:00"
+    }
+   },
+   "t": "2026-11-08T15:05:17+03:00",
+   "teknik": {
+    "doygunluk": 16.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.232,
+    "keskinlik": 2097,
+    "kontrast": 64,
+    "medyan": 108,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/NASA_Armstrong_Bring_Kids_to_Work_Day_2025_%28AFRC2025-0102-159%29.jpg/1280px-NASA_Armstrong_Bring_Kids_to_Work_Day_2025_%28AFRC2025-0102-159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f8fe041e440c704c": {
    "icerik": {
     "ana_kutu": [
@@ -44529,6 +46551,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sukrusaracoglu.jpg/1280px-Sukrusaracoglu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f936cd77b0c55bac": {
+   "icerik": {
+    "ana_kutu": [
+     164,
+     303,
+     723,
+     656
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çardak",
+     "yüzme havuzu",
+     "ahşap zemin",
+     "ağaç",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Otel havuz kenarında kubbeli çardak yapısı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm",
+     "otel tesisleri",
+     "tatil"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74d08732538e:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel tesisi ve çardak görünümü turizm haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel",
+        "var": true
+       },
+       {
+        "unsur": "tatil beldesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       164,
+       303,
+       723,
+       656
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:11:35+03:00"
+    }
+   },
+   "t": "2026-11-08T15:11:35+03:00",
+   "teknik": {
+    "doygunluk": 22.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.239,
+    "keskinlik": 1493,
+    "kontrast": 90,
+    "medyan": 154,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Arbour_-_panoramio.jpg/1280px-Arbour_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f9474ed842b46bdc": {
    "icerik": {
@@ -45335,6 +47451,178 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_08.jpg/1280px-West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ff05ebc30fad0524": {
+   "icerik": {
+    "ana_kutu": [
+     460,
+     120,
+     990,
+     720
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "çocuklar",
+     "yemek tepsisi",
+     "yemekhane"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Okul yemekhanesinde yemek sırasındaki çocuklar.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim",
+     "okul hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eğitim ortamını iyi yansıtıyor ancak yabancı bir kurum olduğu tabelalardan belli oluyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       },
+       {
+        "unsur": "eğitim veya atölye etkinliği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       460,
+       120,
+       990,
+       720
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:17+03:00"
+    }
+   },
+   "t": "2026-11-08T15:05:17+03:00",
+   "teknik": {
+    "doygunluk": 19.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.205,
+    "keskinlik": 2314,
+    "kontrast": 68,
+    "medyan": 136,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/From_Lunch_Line_to_Learning_Time-_Exchange_Meals_Keep_Military_Kids_Going_Strong_%289885427%29.jpg/1280px-From_Lunch_Line_to_Learning_Time-_Exchange_Meals_Keep_Military_Kids_Going_Strong_%289885427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ffa81a643a2bf78d": {
+   "icerik": {
+    "ana_kutu": [
+     83,
+     65,
+     860,
+     294
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bronz heykel",
+     "çiçek tarhı",
+     "taş zemin",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta oynayan çocukları betimleyen bronz heykel grubu ve çiçek tarhı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şehir kültürü",
+     "sanat eserleri",
+     "belediye hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "canlı çocuk etkinlikleri",
+     "doğrudan haber olayı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6071a7ab24f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber çocuk eğitim ve etkinlikleriyle ilgilidir; fotoğrafta ise sadece cansız bir çocuk heykeli bulunmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T15:05:28+03:00"
+    }
+   },
+   "t": "2026-11-08T15:05:28+03:00",
+   "teknik": {
+    "doygunluk": 12.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 2443,
+    "kontrast": 56,
+    "medyan": 156,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg/1280px-Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ffcc9881f68c2a62": {
    "t": "2026-11-08T11:39:03+03:00",
    "teknik": {
@@ -45928,7 +48216,7 @@
    "gosterim_ad": "Tim Jabol-Folcarelli",
    "ilk_kabul": "2026-11-08T13:08:33+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Şadi Akdoğan / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -45951,6 +48239,7 @@
     "yerler": []
    },
    "konular": [
+    "Trabzonspor atkısı veya forması giymiş t",
     "forma"
    ],
    "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg/500px-TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg",
@@ -45965,8 +48254,8 @@
    "notr_portre": true,
    "qid": "Q121494430",
    "sahne_turu": "portre",
-   "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-08T13:08:33+03:00",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T15:03:42+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -47980,6 +50269,64 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "8f76e1ac9a636626": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    679
+   ],
+   "cekim": "",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Alanya Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "gosterim_ad": "Alanya Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "ilk_kabul": "2026-11-08T15:07:56+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/alanya-heyeti-wtm-londra-fuari-nda-2027-sezonu-icin-temaslara-basladi/126632"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Alanya tanıtımı",
+    "turizm fuarı standı"
+   ],
+   "kucuk": "/images/kurum/c3ea3910914e2b78.jpg",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-08T15:07:56+03:00",
+   "url": "/images/kurum/c3ea3910914e2b78.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
   "9338f29769ee5d6c": {
    "alt_tur": "nesne",
    "boyut": [
@@ -48171,6 +50518,70 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-08T14:33:35+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "985c48ced5cf3f7f": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1011,
+    672
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Büyük bir otel kompleksi, havuzlar ve kaydıraklar",
+   "gosterim_ad": "Aksu",
+   "ilk_kabul": "2026-11-08T15:11:35+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "geoka.ru / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "geoka.ru",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Lara_Family_Club_Hotel_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "otel",
+    "otel binası",
+    "palmiye",
+    "su kaydırağı",
+    "tatil beldesi",
+    "yüzme havuzu",
+    "şezlong"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg/500px-Lara_Family_Club_Hotel_-_panoramio.jpg",
+   "kullanilabilir": [
+    "turizm haberleri",
+    "tatil beldesi tanıtımı",
+    "otel doluluk oranları"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "maç haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T15:11:35+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -49078,6 +51489,71 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "ac163e92265f55cd": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    512
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bir grup insan bir fuar standında dünya haritası önünde poz veriyor.",
+   "gosterim_ad": "Alanya Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "ilk_kabul": "2026-11-08T15:11:13+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/wtm-londra-sona-erdi-alanya-istikrarli-buyumesini-koruyor/126636"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "dünya haritası",
+    "fuar standı"
+   ],
+   "kucuk": "/images/kurum/552e5f8c7c6f530a.jpg",
+   "kullanilabilir": [
+    "turizm fuarı",
+    "iş toplantısı",
+    "heyet ziyareti"
+   ],
+   "kullanilamaz": [
+    "turistik manzara",
+    "otel tanıtımı",
+    "tatil haberi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-08T15:11:13+03:00",
+   "url": "/images/kurum/552e5f8c7c6f530a.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
   "afc5810ed770643f": {
    "alt_tur": "nesne",
    "boyut": [
@@ -49569,6 +52045,67 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "c8f4266bdbdb384b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4096,
+    3072
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahşap zemin üzerinde içi oy pusulalarıyla dolu şeffaf oy sandığı.",
+   "gosterim_ad": "önseçim",
+   "ilk_kabul": "2026-11-08T15:11:49+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "WrS.tm.pl / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki,_Sikorskiego_Street_6A.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "WrS.tm.pl",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki,_Sikorskiego_Street_6A.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ahşap zemin",
+    "oy pusulası",
+    "oy sandığı",
+    "sandalye"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/500px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "secim",
+    "oylama",
+    "sandik"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T15:11:49+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],

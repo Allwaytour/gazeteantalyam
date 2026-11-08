@@ -141,6 +141,9 @@ gorsel_yerlesim:
   o_kart: 50% 53%
   o_kart_p: 60% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/LPG_small_cylinder_Adapter_Australia.jpg/1280px-LPG_small_cylinder_Adapter_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Bülent Kandemir
+- Yeni Parti
 ---
 Alanya'da temel ihtiyaç ürünlerine gelen zamlar, vatandaşın mutfak giderlerini zorlamaya devam ediyor. Son olarak 12 kilogramlık mutfak tüpünün fiyatında yapılan 200 TL'lik artış, bölgedeki ekonomik tartışmaları yeniden alevlendirdi. Söz konusu zammın ardından tüpün satış fiyatı 1.655 TL'den 1.855 TL seviyesine çıktı.
 

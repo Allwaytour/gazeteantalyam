@@ -26,14 +26,14 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 6e88666c9397
+  konu_imza: f892fe568507
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-08T10:32:43+03:00'
+    tarih: '2026-11-08T15:04:01+03:00'
     yontem: h2
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
@@ -48,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/kumlucada-kesinlesmis-15-yil-hapis-cezasi-bulunan-3-kisi-yakalandi-119515729
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Kumluca ilçesinde, aranan şahısların yakalanmasına yönelik yürütülen çalışmalar kapsamında emniyet güçleri başarılı bir operasyona imza attı. İlçe Emniyet Müdürlüğü Suç Önleme ve Soruşturma Büro Amirliği ekipleri, haklarında kesinleşmiş hapis cezası bulunan şüphelilerin adreslerini tespit ederek harekete geçti.
 

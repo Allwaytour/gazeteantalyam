@@ -117,6 +117,10 @@ gorsel_yerlesim:
   o_kart: 100% 50%
   o_kart_p: 74% 50%
   url: /images/kurum/6d968980df34cba6.jpg
+etiketler:
+- AK Parti Alanya İlçe Başkanlığı
+- MHP Alanya İlçe Başkanlığı
+- Yeni Parti Alanya İlçe Başkanlığı
 ---
 Alanya'da uzun süredir devam eden trafik sorununa karşı AK Parti Alanya İlçe Başkanı Mehmet Şarani Tavlı tarafından duyurulan Oba Tüneli bağlantısı, köprülü geçiş ve kavşak düzenlemeleri ilçede hareketliliğe neden oldu. Söz konusu girişimler, bölgedeki ulaşım altyapısını güçlendirmeyi hedefliyor.
 

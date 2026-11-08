@@ -149,6 +149,11 @@ gorsel_yerlesim:
   o_kart: 50% 28%
   o_kart_p: 88% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hala_g%C5%82%C3%B3wna_Galerii_Elektrownia_w_Czeladzi_z_ekspozycj%C4%85_maszyn_i_urz%C4%85dze%C5%84_pokopalnianych.jpg/1280px-Hala_g%C5%82%C3%B3wna_Galerii_Elektrownia_w_Czeladzi_z_ekspozycj%C4%85_maszyn_i_urz%C4%85dze%C5%84_pokopalnianych.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Edward Burtynsky
+- Akra Antalya
+- TEMA Vakfı
+- Borusan Holding
 ---
 Çağdaş fotoğraf sanatının önde gelen isimlerinden Edward Burtynsky'nin "Dönüşen Yeryüzü" adlı sergisinden özel bir seçki, 9-20 Kasım tarihleri arasında Antalya'da ziyarete açılıyor. COP31 Birleşmiş Milletler İklim Değişikliği Konferansı ile eş zamanlı olarak düzenlenen etkinlik, iklim değişikliği ve sürdürülebilirlik konularına sanatın penceresinden bakmayı hedefliyor.
 

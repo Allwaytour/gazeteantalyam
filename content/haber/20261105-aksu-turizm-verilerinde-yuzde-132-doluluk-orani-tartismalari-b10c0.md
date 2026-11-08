@@ -19,20 +19,71 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Aksu
   cekim_yili: ''
-  gerekce: 'dosya kaydında yer (''Aksu'') ve konu ipucu (hotel, resort) birlikte geçiyor; görsel kontrol: Aksu''da bulunan bir turistik tesisi gösteren, haberin konusuyla doğrudan ilişkili, nötr bir arşiv fotoğrafıdır.'
-  surum: g9.4-2026-11-05
-  konu_imza: 32c6dbeecb41
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Otel kompleksi ve havuz görünümü doluluk tartışması haberi için uygundur.
+  surum: h1-2026-11-07
+  konu_imza: 74d08732538e
   gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T22:32:26+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T15:11:35+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   aciklama: Aksu — Arşiv fotoğrafı
   alt_tur: yer_konu
   kaynak_aciklama: Lara Family Club Hotel
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 332
+      parlaklik: 146
+      medyan: 141
+      karanlik_oran: 0.041
+      kontrast: 51
+      doygunluk: 31.7
+      keskinlik: 2779
+      s: t1
+    icerik:
+      sahne: Büyük bir otel kompleksi, havuzlar ve kaydıraklar
+      nesneler:
+      - otel binası
+      - yüzme havuzu
+      - su kaydırağı
+      - şezlong
+      - palmiye
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: otel
+        var: true
+      - unsur: tatil beldesi
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 174
+      - 46
+      - 831
+      - 930
+      uygunluk: 9
+      gerekce: Otel kompleksi ve havuz görünümü doluluk tartışması haberi için uygundur.
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +92,29 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalyada-otel-dolulugu-yuzde-132yi-asti-veriler-tartisiliyor
 baslik_ozgun: AKSU TURİZM VERİLERİNDE YÜZDE 132 DOLULUK ORANI TARTIŞMALARI
+gorsel_onceki:
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: geoka.ru / Wikimedia Commons (CC BY 3.0)'
+gorsel_yerlesim:
+  boyut:
+  - 1011
+  - 672
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 39% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 39% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 54%
+  o_kart_p: 48% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Antalya'nın turizm merkezlerinden Aksu'da, 2026 yılının ilk sekiz ayına ait konaklama istatistikleri dikkat çekici bir tabloyu ortaya koydu. Kültür ve Turizm Bakanlığı verilerine dayanan analizlere göre, ilçedeki basit konaklama belgeli otellerin doluluk oranı yüzde 132,43 seviyesine ulaştı. Ancak bu artışa rağmen, ilçedeki toplam geceleme sayısında bir önceki yılın aynı dönemine göre yaklaşık yüzde 2'lik bir düşüş yaşanarak 4 milyon 272 bin 638 seviyesine gerilediği görüldü.
 

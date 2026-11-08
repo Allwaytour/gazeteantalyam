@@ -24,22 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 559857d3bbeb
+  konu_imza: d6071a7ab24f
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-08T02:32:07+03:00'
+    tarih: '2026-11-08T15:04:12+03:00'
     yontem: h2
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (0/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar, eğitim ve'
+    aciklama: 'habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (4/10, en az 6); habere uygunluk düşük (5/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar, eğiti'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -48,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-cocuklu-ailelere-mujde-belediyelerin-ucretsiz-imkanlari-belli-oldu
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya genelinde belediyeler, çocuklu ailelerin hem keyifli vakit geçirmesi hem de çocukların kişisel gelişimlerini desteklemek için çeşitli ücretsiz imkanlar sağlıyor. Büyükşehir Belediyesi ve ilçe belediyeleri tarafından yürütülen bu hizmetler; eğitim, spor, kültür ve bilim gibi pek çok farklı alanı kapsıyor.
 

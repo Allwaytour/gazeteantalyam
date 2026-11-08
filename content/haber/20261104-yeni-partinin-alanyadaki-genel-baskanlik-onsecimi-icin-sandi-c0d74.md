@@ -19,19 +19,68 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: önseçim
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''ballot box'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Seçim sandığı görseli temsilî olarak haberle uyumludur, yabancı unsur içermeyen nötr bir sandık karesidir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Haberin konusu olan önseçim sandığı net bir şekilde görülmektedir.
+  surum: h1-2026-11-07
   konu_imza: 9ecb173d9632
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T20:16:43+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T15:11:49+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Parliamentary elections and referendum in Poland in October 2023. Ballot box in Tomaszów Mazowiecki, Sikorskiego Street 6A
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 375
+      parlaklik: 124
+      medyan: 133
+      karanlik_oran: 0.063
+      kontrast: 42
+      doygunluk: 26.8
+      keskinlik: 1209
+      s: t1
+    icerik:
+      sahne: Ahşap zemin üzerinde içi oy pusulalarıyla dolu şeffaf oy sandığı.
+      nesneler:
+      - oy sandığı
+      - oy pusulası
+      - ahşap zemin
+      - sandalye
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: true
+      gerekli:
+      - unsur: oy sandığı
+        var: true
+      - unsur: oy verme kabini
+        var: false
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 20
+      - 10
+      - 918
+      - 650
+      uygunluk: 9
+      gerekce: Haberin konusu olan önseçim sandığı net bir şekilde görülmektedir.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
@@ -76,6 +125,28 @@ gorsel_gecmis:
   degisim: '2026-11-05T20:16:43+03:00'
 etiketler:
 - Yeni Parti
+gorsel_yerlesim:
+  boyut:
+  - 4096
+  - 3072
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 16% 50%
+  o_mansetyan_m: 16% 50%
+  o_yan_d: 50% 83%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 31%
+  o_kart_p: 11% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Yeni Parti'nin Türkiye genelinde gerçekleştireceği genel başkanlık önseçimi kapsamında Alanya'daki oy verme noktaları netleşti. İlçe teşkilatının paylaştığı takvime göre üyeler, 8 Kasım Pazar günü sabah saat 08.00 ile akşam 19.00 arasında oylarını kullanabilecek. Önseçim sürecinde Alanya'da iki ayrı sandık bölgesi oluşturuldu.
 

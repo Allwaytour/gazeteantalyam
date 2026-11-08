@@ -22,22 +22,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 19609508d23f
+  konu_imza: 618ba10f2576
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-08T01:02:08+03:00'
+    tarih: '2026-11-08T15:05:32+03:00'
     yontem: h2
     model: gemini-3.1-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); zorunlu unsurlardan hiçbiri görünmüyor: gelin ve damat'
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 8); habere uygunluk düşük (3/10, en az 6); temsilî fotoğrafta tanınabilir kişi (haberde adı geçen kişi sanılabilir); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/ali-riza-mirmahmutoglu-ile-tugba-coskun-dunyaevine-girdi/561074
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya’da Serbest Muhasebeci ve Mali Müşavir Ali Rıza Mirmahmutoğlu ile Tuğba Coşkun, DenizimPark’ta düzenlenen görkemli bir düğün töreniyle dünyaevine girdi. Çiftin aileleri, yakın dostları ve sevenlerinin katılımıyla gerçekleşen bu özel günde, Antalya’nın iş ve siyaset dünyasından pek çok isim de yer aldı. Genç çift, mutluluklarını paylaşan davetlilerle yakından ilgilenerek bu anlamlı günü ölümsüzleştirdi.
 

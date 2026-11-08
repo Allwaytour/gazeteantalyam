@@ -78,6 +78,11 @@ gorsel_gecmis:
     kaynak_aciklama: Expo 2016 Antalya - West View from Turkcell Expo Tower
     kurum: k5
   degisim: '2026-11-08T14:39:12+03:00'
+etiketler:
+- Alp Özel
+- Kaan Kavaloğlu
+- Antalya Turistik Otelciler ve Pansiyoncular Birliği
+- Akdeniz Turistik Otelciler ve İşletmeciler Birliği
 ---
 Antalya, kasım ayında turizm sezonunun normal seyrinin ötesinde uluslararası bir organizasyona ev sahipliği yapmaya hazırlanıyor. 9-20 Kasım tarihleri arasında Antalya EXPO alanında gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında düzenlenecek COP31, kentin turizm sektöründe önemli bir hareketlilik yaratması bekleniyor. Zirveye 196 ülkeden on binlerce ziyaretçinin yanı sıra çok sayıda devlet başkanı ve bakanın katılması öngörülüyor.
 

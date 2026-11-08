@@ -23,25 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 444fe335ac89
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T17:01:40+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    tarih: '2026-11-08T15:06:36+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Haşim İşcan Kültür Merkezi; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ümit Uysal'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Pasir_Berbisik_-_TNBTS.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    aciklama: habere uygunluk düşük (0/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -50,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/tarik-akan-parki-umit-uysalin-tasarruf-politikasina-takildi/388841
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Antalya’nın Muratpaşa ilçesinde, Haşim İşcan Kültür Merkezi’nin yanında yer alan ve 2018 yılında hizmete giren Tarık Akan Parkı’nın bugünkü görünümü merak uyandırdı. Yaklaşık dokuz dönümlük alan üzerindeki eski gecekonduların yıkılmasının ardından kurulan park, bir dönemin dikkat çeken yeşil alanları arasında yer alıyordu. Bitki labirentleri ve kare kod uygulamasıyla kente kazandırılan parkın zaman içinde değişime uğradığı görüldü.
 
