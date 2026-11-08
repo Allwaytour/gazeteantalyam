@@ -44,7 +44,7 @@ jobs:
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/haber data/otomatik_durum.json data/foto_arsivi.json data/gorsel_kutuphanesi.json
+          git add content/haber data/otomatik_durum.json data/foto_arsivi.json data/gorsel_kutuphanesi.json data/gorsel_ret.json data/gorsel_kabul_orneklem.json
           git add -A static/images/kurum 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -q -m "Otomatik haberler [skip ci]"
