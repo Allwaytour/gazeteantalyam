@@ -5106,6 +5106,37 @@
      },
      "t": "2026-11-08T11:10:55+03:00"
     },
+    "r1:69e11cc6b5a2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Basın açıklaması için gerekli olan mikrofonu temsilî olarak göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       258,
+       327,
+       595,
+       998
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:07:31+03:00"
+    },
     "r1:fec2b8dcad5a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -5138,7 +5169,7 @@
      "t": "2026-11-08T15:17:34+03:00"
     }
    },
-   "t": "2026-11-08T15:17:34+03:00",
+   "t": "2026-11-08T20:07:31+03:00",
    "teknik": {
     "doygunluk": 35.2,
     "inen": [
@@ -19029,6 +19060,32 @@
      },
      "t": "2026-11-08T11:10:44+03:00"
     },
+    "r1:69e11cc6b5a2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı bir yetkili ve yabancı medya mikrofonları haberin yerel bağlamıyla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:07:31+03:00"
+    },
     "r1:7fe971830e02:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19065,7 +19122,7 @@
      "t": "2026-11-08T11:03:29+03:00"
     }
    },
-   "t": "2026-11-08T11:10:44+03:00",
+   "t": "2026-11-08T20:07:31+03:00",
    "teknik": {
     "doygunluk": 28.4,
     "inen": [
@@ -22387,6 +22444,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_11.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5e86dda4b3bad27f": {
+   "icerik": {
+    "ana_kutu": [
+     80,
+     10,
+     920,
+     880
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "pankart",
+     "heykel görseli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İnsanların tuttuğu üzerinde müze protestosu yazan pankart.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "protesto haberi",
+     "müze haberi",
+     "yerel gündem"
+    ],
+    "uygunsuz_baglamlar": [
+     "okul yemeği haberi",
+     "ekonomi haberi",
+     "çevre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tamamen farklı bir protesto konusuna ait olup haberin içeriğiyle hiçbir görsel veya tematik bağ taşımamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": false
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:10+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:10+03:00",
+   "teknik": {
+    "doygunluk": 26.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 1467,
+    "kontrast": 48,
+    "medyan": 127,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg/1280px-Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5ecfdb495d25ec66": {
    "t": "2026-11-07T20:47:47+03:00",
    "teknik": {
@@ -22820,6 +22963,122 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/1280px-Antalya_Serik_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "61c70ac8abfa2dbc": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "yemek tezgahı",
+     "öğrenciler",
+     "yemek görevlisi",
+     "tepsi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Okul kafeteryasında yemek dağıtımı yapan görevli ve sırada bekleyen öğrenciler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "okul yemeği",
+     "eğitim"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "Antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      250,
+      150,
+      400,
+      250
+     ],
+     [
+      220,
+      280,
+      350,
+      380
+     ],
+     [
+      250,
+      400,
+      380,
+      500
+     ],
+     [
+      200,
+      800,
+      350,
+      900
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okul yemeği ve öğrenciler var ancak fotoğraf çok eski ve yabancı bir ülkeye ait.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:32+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:32+03:00",
+   "teknik": {
+    "doygunluk": 22.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.184,
+    "keskinlik": 3040,
+    "kontrast": 72,
+    "medyan": 121,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_607e9ed25d2afecb69b98ad85c8efa47.jpg/1280px-Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_607e9ed25d2afecb69b98ad85c8efa47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "61d3fbf4e62bf105": {
    "icerik": {
@@ -29349,6 +29608,122 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7c75ba333e4c6837": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "yemek tezgahı",
+     "öğrenciler",
+     "yemek görevlisi",
+     "tepsi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Okul kafeteryasında yemek dağıtan görevliler ve sırada bekleyen öğrenciler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "okul yemeği",
+     "eğitim"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "Antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      300,
+      100,
+      450,
+      200
+     ],
+     [
+      450,
+      130,
+      650,
+      250
+     ],
+     [
+      200,
+      550,
+      350,
+      650
+     ],
+     [
+      250,
+      800,
+      450,
+      950
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okul yemeği ve öğrenciler var ancak fotoğraf çok eski ve yabancı bir ülkeye ait.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:32+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:32+03:00",
+   "teknik": {
+    "doygunluk": 23.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.251,
+    "keskinlik": 2823,
+    "kontrast": 75,
+    "medyan": 98,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_a2ea2b93a971257bf8a1902868c9786e.jpg/1280px-Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_a2ea2b93a971257bf8a1902868c9786e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7c98c634334ee650": {
    "icerik": {
     "ana_kutu": [
@@ -32528,6 +32903,37 @@
      },
      "t": "2026-11-08T11:10:44+03:00"
     },
+    "r1:69e11cc6b5a2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı medya mikrofonları ve ortamı, haberin yerel bağlamıyla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       347,
+       373,
+       962,
+       977
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:07:31+03:00"
+    },
     "r1:7fe971830e02:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32564,7 +32970,7 @@
      "t": "2026-11-08T11:03:29+03:00"
     }
    },
-   "t": "2026-11-08T11:10:44+03:00",
+   "t": "2026-11-08T20:07:31+03:00",
    "teknik": {
     "doygunluk": 16.5,
     "inen": [
@@ -43456,6 +43862,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg/1280px-TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b563977cee02386e": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     150,
+     850,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tepsi",
+     "çorba kasesi",
+     "ekmek",
+     "kaşık",
+     "bardak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tepside servis edilen okul yemeği, çorba ve ekmek.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "okul yemeği",
+     "beslenme"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "Antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okul yemeği görülüyor ancak yabancı bir ülkeye ait olduğu izlenimi veriyor ve öğrenciler eksik.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       150,
+       850,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:32+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:32+03:00",
+   "teknik": {
+    "doygunluk": 15.4,
+    "inen": [
+     500,
+     338
+    ],
+    "karanlik_oran": 0.266,
+    "keskinlik": 1038,
+    "kontrast": 70,
+    "medyan": 144,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/School_lunch_in_yl%C3%A4st%C3%B6_school.jpg/1280px-School_lunch_in_yl%C3%A4st%C3%B6_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b586430ea4414d54": {
    "t": "2026-11-08T11:37:59+03:00",
    "teknik": {
@@ -48655,6 +49153,121 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bah%C3%A7e%C5%9Fehir_Okullar%C4%B1_Stadyumu_%E2%80%93_D%C4%B1%C5%9F_manzara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "cb19b54340ae5bad": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "masa",
+     "öğrenciler",
+     "yemek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa etrafında oturan ve yemek yiyen bir grup öğrenci.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihsel eğitim",
+     "arşiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "Antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      450,
+      50,
+      650,
+      150
+     ],
+     [
+      450,
+      150,
+      650,
+      250
+     ],
+     [
+      400,
+      550,
+      600,
+      650
+     ],
+     [
+      500,
+      800,
+      750,
+      950
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çok eski, siyah-beyaz ve yabancı bir ülkeye ait bir arşiv karesi; güncel haberle uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:32+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:32+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     355
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 2235,
+    "kontrast": 64,
+    "medyan": 162,
+    "parlaklik": 158,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Students_of_Taihoku_High_School_eating_lunch.jpg/1280px-Students_of_Taihoku_High_School_eating_lunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cb62245dfbf1fa5d": {
    "icerik": {
@@ -56935,6 +57548,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Ali_Babacan_and_Urmas_Paet_in_Tallinn.jpg/1280px-Ali_Babacan_and_Urmas_Paet_in_Tallinn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f099c46d05e77005": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tepsi",
+     "sandviç",
+     "meyve",
+     "süt şişesi",
+     "plastik çatal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz arka plan üzerinde okul yemeği tepsisi, sandviç, meyve ve süt.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "okul yemeği",
+     "beslenme",
+     "sağlıklı yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "bütçe tartışması",
+     "Antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:80421b7a9125:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okul yemeğini temsil ediyor ancak öğrenciler eksik, stüdyo çekimi olduğu için bağlamdan kopuk.",
+      "gerekli": [
+       {
+        "unsur": "okul yemeği",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:05:32+03:00"
+    }
+   },
+   "t": "2026-11-08T20:05:32+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.013,
+    "keskinlik": 995,
+    "kontrast": 57,
+    "medyan": 255,
+    "parlaklik": 220,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/School_lunch_tray_MyPlate_20210810-FNS-UNC-0015.jpg/1280px-School_lunch_tray_MyPlate_20210810-FNS-UNC-0015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f0d7d258667b996a": {
    "icerik": {
     "ana_kutu": [
@@ -61543,7 +62250,7 @@
    "gosterim_ad": "erken seçim açıklaması",
    "ilk_kabul": "2026-11-08T11:10:55+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Apo Stock / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -61580,7 +62287,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T15:17:34+03:00",
+   "son_kabul": "2026-11-08T20:07:31+03:00",
    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
