@@ -26,11 +26,10 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 100%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 90%
+  o_yan_d: 50% 86%
   o_yan_t: 50% 50%
   o_yan_m: 50% 100%
   o_kart: 50% 0%
-  o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_secim:
   tur: arsiv
@@ -42,16 +41,16 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya Havalimanı
   cekim_yili: '2023'
-  gerekce: 'dosya kaydında yer (''Antalya Havalimanı'') ve konu ipucu (aircraft, landing gear) birlikte geçiyor; görsel kontrol: Uçak fotoğrafı temsilî olarak kullanılabilir ancak apron detayı eksiktir.'
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Haberin nesnesi olan uçak görülüyor ancak olay (iniş takımı kırılması) ve Antalya Havalimanı apronu yer almıyor.
   surum: h1-2026-11-07
-  konu_imza: 08838d4110d8
+  konu_imza: 718513fa3a31
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-08T00:32:38+03:00'
+    tarih: '2026-11-08T11:07:03+03:00'
     yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2023)
   alt_tur: yer_konu
   kaynak_aciklama: UR-UBB AYT 08.07.21
@@ -59,15 +58,15 @@ gorsel_secim:
   hat: h2
   inceleme:
     teknik:
+      doygunluk: 43.4
       inen:
       - 500
       - 333
-      parlaklik: 111
-      medyan: 106
       karanlik_oran: 0.011
-      kontrast: 27
-      doygunluk: 43.4
       keskinlik: 471
+      kontrast: 27
+      medyan: 106
+      parlaklik: 111
       s: t1
     icerik:
       sahne: Havada süzülen yolcu uçağı.
@@ -79,8 +78,12 @@ gorsel_secim:
       ana_ozne_gorunuyor: true
       olay_gorunuyor: false
       gerekli:
-      - unsur: yolcu uçağı
+      - unsur: uçak
         var: true
+      - unsur: havalimanı apronu
+        var: false
+      - unsur: ön iniş takımı
+        var: false
       yasak: []
       konu_ana_unsur: true
       yanlis_kisi: false
@@ -92,14 +95,15 @@ gorsel_secim:
       belirli_kisi_isletme: false
       yaniltici_yer: false
       konu_kutusu:
-      - 200
-      - 50
-      - 700
-      - 950
+      - 198
+      - 11
+      - 672
+      - 988
       uygunluk: 6
-      gerekce: Uçak fotoğrafı temsilî olarak kullanılabilir ancak apron detayı eksiktir.
+      gerekce: Haberin nesnesi olan uçak görülüyor ancak olay (iniş takımı kırılması) ve Antalya Havalimanı apronu yer almıyor.
   arama_surum: a2
   kurum: k5
+  kurum_notu: "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16); Alanya Belediyesi sayfası aynı haber değil (benzerlik %38); kurum sayfası okunamadı (Alanya Belediyesi): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.alanya."
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -107,6 +111,9 @@ otomatik: true
 yz: true
 kaynak: HavaHaber
 kaynak_url: https://havahaber.com/antalya-havalimaninda-freebird-ucaginin-on-inis-takimi-kirildi/
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Michael Steffen from Schweiz / Wikimedia Commons (CC BY-SA 2.0)'
 ---
 Antalya Havalimanı'nda hareketli anlar yaşandı. Freebird Airlines Europe bünyesinde yer alan Airbus A320 tipi yolcu uçağında, park pozisyonundan geri itilme (pushback) işlemi yapıldığı sırada teknik bir aksaklık meydana geldi. Uçağın ön iniş takımı dikmesinde kırılma tespit edilmesi üzerine operasyon derhal durduruldu.
 

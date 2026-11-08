@@ -26,10 +26,10 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 100%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 100%
+  o_yan_d: 50% 88%
   o_yan_t: 50% 50%
   o_yan_m: 50% 100%
-  o_kart: 50% 50%
+  o_kart: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_secim:
   tur: stok
@@ -41,16 +41,16 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: tarımsal sulama
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''drip irrigation system'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Modern damlama sulama sistemini net bir şekilde göstererek haberin konusunu başarıyla temsil ediyor.'
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Modern damla sulama sistemini yakından gösterdiği için haberle tam uyumludur.
   surum: h1-2026-11-07
-  konu_imza: d6f1c692a2fd
+  konu_imza: 941d53c49903
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-08T04:32:25+03:00'
+    tarih: '2026-11-08T11:06:15+03:00'
     yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: A close-up view of a drip irrigation system shows water tubes connected with connectors on dry, fertile soil surrounded by green plants during warm weather.
@@ -58,15 +58,15 @@ gorsel_secim:
   hat: h2
   inceleme:
     teknik:
+      doygunluk: 42.4
       inen:
       - 500
       - 334
-      parlaklik: 78
-      medyan: 72
       karanlik_oran: 0.339
-      kontrast: 48
-      doygunluk: 42.4
       keskinlik: 1478
+      kontrast: 48
+      medyan: 72
+      parlaklik: 78
       s: t1
     icerik:
       sahne: Toprak üzerinde uzanan siyah damlama sulama boruları ve bağlantı aparatları.
@@ -80,7 +80,9 @@ gorsel_secim:
       ana_ozne_gorunuyor: false
       olay_gorunuyor: false
       gerekli:
-      - unsur: modern sulama sistemi
+      - unsur: tarımsal sulama sistemi
+        var: true
+      - unsur: tarla veya tarım ürünü
         var: true
       yasak: []
       konu_ana_unsur: true
@@ -93,14 +95,15 @@ gorsel_secim:
       belirli_kisi_isletme: false
       yaniltici_yer: false
       konu_kutusu:
-      - 330
+      - 230
       - 0
-      - 670
+      - 655
       - 1000
       uygunluk: 10
-      gerekce: Modern damlama sulama sistemini net bir şekilde göstererek haberin konusunu başarıyla temsil ediyor.
+      gerekce: Modern damla sulama sistemini yakından gösterdiği için haberle tam uyumludur.
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -108,6 +111,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyanin-suyu-nereye-gidiyor-yuzde-80lik-gercek-ortaya-cikti
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Shixart1985 / Wikimedia Commons (CC BY 2.0)'
 ---
 Antalya'da yer altı sularındaki çekilme ve iklim değişikliği, tarımsal üretimde su yönetimini yeniden gündemin merkezine taşıdı. Su kaynaklarının sürdürülebilirliği ve tarımsal üretimin iklim koşullarına göre planlanması gerektiği belirtilirken, mevcut suyun yaklaşık yüzde 80'inin tarımsal faaliyetlerde kullanıldığına dikkat çekildi.
 

@@ -26,20 +26,21 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: c7ca394b2be3
+  konu_imza: e09fa30e9308
   gorsel_url: /images/kategori/saglik.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-08T10:04:20+03:00'
+    tarih: '2026-11-08T11:05:58+03:00'
     yontem: h2
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özgür Mehtap'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''52'
+    aciklama: '''Belek'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ayşegül Ünüvar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özgür Mehtap'' başlıkta/sp'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -48,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/saglik/antalya-da-b-hucreli-losemide-yuzde-85-90-in-20406430-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/saglik.png
+  gorsel_kredi: ''
 ---
 Antalya'nın Serik ilçesine bağlı Belek turizm merkezinde gerçekleştirilen 52. Ulusal Hematoloji Kongresi, alanında uzman bin 200'ü aşkın katılımcıyı bir araya getirdi. Beş gün süren kongrede, hematolojik hastalıkların tanı ve tedavisindeki güncel gelişmeler kapsamlı bir şekilde ele alındı. 34 oturumun düzenlendiği etkinlikte, 346 bilimsel bildiri değerlendirildi.
 

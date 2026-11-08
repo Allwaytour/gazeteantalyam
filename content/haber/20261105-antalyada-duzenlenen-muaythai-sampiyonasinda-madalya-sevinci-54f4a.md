@@ -2,37 +2,40 @@
 title: Antalya'da düzenlenen muaythai şampiyonasında madalya sevinci
 date: '2026-11-05T10:09:08+03:00'
 ozet: Bilecikli muaythai sporcuları, Antalya'daki 29 Ekim Cumhuriyet Kupası'ndan 1 altın ve 2 gümüş madalya ile döndü.
-gorsel: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Olena Pereiaslavets / Unsplash'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/two-men-training-in-a-boxing-ring-tzUJ-v4txHM
-  fotografci: Olena Pereiaslavets
-  kredi: Olena Pereiaslavets / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: muaythai şampiyonası
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''muaythai ring''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Ringde antrenman yapan muaythai sporcularını gösteren uygun temsilî görsel.'
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 848237ab2e8b
-  gorsel_url: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T18:14:53+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Muay Thai training at Dee Muay Thai gym in Bali, Indonesia.
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T11:11:18+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: aşırı karanlık (medyan parlaklık 40, karanlık pay %54); aşırı karanlık (medyan parlaklık 48, karanlık pay %52)
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,35 +47,6 @@ gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
 gorsel_gecmis:
-- gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  gorsel_kredi: 'Fotoğraf: Eric Langley / Wikimedia Commons (CC BY 2.0)'
-  gorsel_tur: stok
-  gorsel_konum: ''
-  gorsel_secim:
-    tur: stok
-    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Womens_Muay_Thai_teep.jpg
-    fotografci: Eric Langley
-    kredi: Eric Langley / Wikimedia Commons (CC BY 2.0)
-    lisans: CC BY 2.0
-    lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
-    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-    gosterilen: muaythai şampiyonası madalya sevinci
-    cekim_yili: ''
-    gerekce: 'Commons dosya kaydında ''muay thai match'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Muaythai müsabakasını gösteren uygun bir temsilî arşiv fotoğrafıdır.'
-    surum: g9-2026-11-05
-    konu_imza: 848237ab2e8b
-    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    kontrol:
-      yapildi: true
-      sonuc: onaylandı
-      tarih: '2026-11-05T16:37:19+03:00'
-      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-      model: gemini-3.1-flash-lite
-    aciklama: Temsilî fotoğraf
-    alt_tur: nesne
-    kurum: k4
-    kurum_notu: ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46)
-  degisim: '2026-11-05T16:53:23+03:00'
 - gorsel: https://images.unsplash.com/photo-1601039833801-25f595bfbaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheXRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzkzODg2Njk0fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Fotoğraf: Jonathan Tomas / Unsplash'
   gorsel_tur: stok
@@ -133,6 +107,36 @@ gorsel_gecmis:
       aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
       notlar: 'ELAZIĞ GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %46); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (muaythai ring, muaythai match, medal ceremony) ilişkili lisanslı fotoğraf bulunamadı; ''muaythai şampiyonası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: muaythai müsabakası, muaythai ringi)'
   degisim: '2026-11-05T18:14:53+03:00'
+- gorsel: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Olena Pereiaslavets / Unsplash'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/two-men-training-in-a-boxing-ring-tzUJ-v4txHM
+    fotografci: Olena Pereiaslavets
+    kredi: Olena Pereiaslavets / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: muaythai şampiyonası
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''muaythai ring''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Ringde antrenman yapan muaythai sporcularını gösteren uygun temsilî görsel.'
+    surum: g9.4-2026-11-05
+    konu_imza: 848237ab2e8b
+    gorsel_url: https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T18:14:53+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Muay Thai training at Dee Muay Thai gym in Bali, Indonesia.
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T11:11:25+03:00'
 etiketler:
 - Bilecik Gençlik ve Spor İl Müdürlüğü
 ---

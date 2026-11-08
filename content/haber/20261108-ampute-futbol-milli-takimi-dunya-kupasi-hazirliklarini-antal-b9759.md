@@ -25,17 +25,18 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 6eebe37e247a
+  konu_imza: 2ad9dbc1582a
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-08T10:03:13+03:00'
+    tarih: '2026-11-08T11:08:41+03:00'
     yontem: h2
-    model: ''
+    model: gemini-3.5-flash-lite
   hat: h2
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
     aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Alpaslan Erkoç'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; takım haberi: ''Antalya'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı ge'
@@ -47,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/spor/ampute-futbol-milli-takimi-nin-dunya-kupasi-kampi-20406436-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Son şampiyon unvanıyla Meksika'da düzenlenecek 2026 Dünya Kupası'na katılacak olan Ampute Futbol Milli Takımı, şampiyona öncesindeki son hazırlıklarını Antalya'da gerçekleştiriyor. 13-22 Kasım tarihleri arasında yapılacak turnuva öncesinde form tutan milliler, çalışmalarını yoğun bir tempoda sürdürüyor.
 

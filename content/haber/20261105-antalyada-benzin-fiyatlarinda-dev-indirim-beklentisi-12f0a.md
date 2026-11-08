@@ -18,21 +18,69 @@ gorsel_secim:
   kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
   gosterilen: benzin indirimi
   cekim_yili: ''
-  gerekce: 'Unsplash araması ''fuel nozzle''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Araç yakıt dolumunu gösteren akaryakıt temalı net temsilî fotoğraf.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Benzin pompası ve araba görünmektedir, haber için uygun bir temsilî görsel.
+  surum: h1-2026-11-07
   konu_imza: b8da84b638fb
   gorsel_url: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZnVlbCUyMG5venpsZXxlbnwxfDB8fHwxNzkzODkxODE4fDA&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T20:21:45+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-08T11:11:41+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
   kaynak_aciklama: Gas pump nozzle in the fuel tank of a white car, refuel
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 1080
+      - 810
+      parlaklik: 148
+      medyan: 170
+      karanlik_oran: 0.109
+      kontrast: 58
+      doygunluk: 15.7
+      keskinlik: 351
+      s: t1
+    icerik:
+      sahne: Beyaz bir otomobile akaryakıt pompası takılmış durumda.
+      nesneler:
+      - otomobil
+      - akaryakıt pompası
+      - hortum
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: akaryakıt pompası
+        var: true
+      - unsur: benzin istasyonu
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 121
+      - 321
+      - 995
+      - 1000
+      uygunluk: 9
+      gerekce: Benzin pompası ve araba görünmektedir, haber için uygun bir temsilî görsel.
+  arama_surum: a2
   kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -131,6 +179,28 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
   degisim: '2026-11-05T20:21:46+03:00'
+gorsel_yerlesim:
+  boyut:
+  - 1080
+  - 810
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 82% 50%
+  o_mansetyan_m: 82% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 85%
+  o_kart_p: 87% 50%
+  url: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZnVlbCUyMG5venpsZXxlbnwxfDB8fHwxNzkzODkxODE4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Uluslararası piyasalarda yaşanan hareketlilik akaryakıt tabelalarına yansımaya devam ederken, araç sahiplerini sevindirecek gelişmeler yaşanıyor. Sektör kaynaklarından edinilen son bilgilere göre, bu gece yarısından itibaren benzin fiyatlarında belirgin bir gerileme yaşanması öngörülüyor.
 
