@@ -605,8 +605,16 @@ def main():
         print(f"Görsel kabul testi başlamadı: ayar gorsel_deneme_hat='{deneme_hat}', kod görsel hattı kimliği '{gorsel_hat.HAT_KIMLIK}'")
     elif deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:12":
         print(f"\nGörsel denemesi: {len(deneme)} haber")
+        def ara_kayit(satirlar, _imza=deneme_imza, _onceki=onceki):
+            # İlerleme kaydı: tamamlanan satırlar, inceleme önbelleği ve ret kaydı her satırdan sonra diske yazılır; tur süre sınırında
+            # kesilse de iş akışı bunları kaydeder ve sonraki tur kaldığı yerden devam eder (tamamlanan satır yeniden sorulmaz).
+            durum["gorsel"]["deneme"] = dict(_onceki if _onceki.get("hedef") == _imza else {}, hedef=_imza, satirlar=satirlar, imza=None,
+                                             ara_kayit=datetime.now(TR).isoformat(timespec="seconds"))
+            json_yaz(DURUM_DOSYA, durum)
+            gorsel_hat.kaydet()
+            gorsel_hat.ret_kaydet()
         rapor = gs.deneme_calistir(bag, deneme, onceki.get("satirlar") if onceki.get("hedef") == deneme_imza else None,
-                                   sure=int(ayar.get("gorsel_deneme_sure", 600)))
+                                   sure=int(ayar.get("gorsel_deneme_sure", 600)), ara_kayit=ara_kayit)
         sayi = (onceki.get("deneme_sayisi", 0) + 1) if onceki.get("hedef") == deneme_imza else 1
         rapor.update(hedef=deneme_imza, deneme_sayisi=sayi, imza=deneme_imza if not rapor["eksik"] else None,
                      deneme_sayisi_imza=f"{deneme_imza}:{sayi}")
@@ -619,6 +627,7 @@ def main():
         print("Gemini günlük kotası dolu; kota yenilenene kadar yapay zekâ istekleri denenmeyecek.")
     yazilan = 0
     for h in secilen[:limit]:
+        pilot = yayin_acik = False
         print(f"• {h['baslik'][:80]}  [{h['kaynak']}]")
         url = gercek_url(h)
         if KOSE_RE.search(tr_kucuk(url)) or KOSE_RE.search(tr_kucuk(h["baslik"])):
@@ -665,10 +674,15 @@ def main():
             except Exception as e:
                 print("   Konu ayrıştırılamadı:", e)
             yayin_acik, yayin_not = gs.yayin_durumu(bag)
+            pilot = yayin_acik and gs.pilot_acik(bag)
+            if pilot:
+                uygun, pilot_not = gs.pilot_uygun(bag, hb)
+                if not uygun:
+                    yayin_acik, yayin_not = False, f"pilot dışı: {pilot_not}"
             if yayin_acik:
                 secim, _ = gs.gorsel_sec(bag, hb, konu)
-                if secim.get("tur") != "kategori":
-                    gs.yayin_say(bag)
+                if not secim.get("bekliyor"):
+                    gs.yayin_say(bag)       # pilot/küçük grup: sonuçlanan (fotoğraflı ya da fotoğrafsız) yeni haber sayılır
             else:
                 # Deneme modu: yeni sürüm canlı habere görsel yazmaz. Kabul testi tamamlandıysa ve günlük hakkın test/yeni haber payı
                 # dışında kalan kısmı varsa seçim yalnızca kayda (gölge) alınır; haber fotoğrafsız yayımlanır, arama sonra yapılır.
@@ -684,6 +698,8 @@ def main():
                 secim.update(bekliyor=True, durum="arama_bekliyor", kapak_nedeni={"kod": "yayin_kapali", "aciklama": yayin_not})
         print(f"   Görsel: {secim['tur']} – {secim['gerekce'][:100]}")
         dosya = md_yaz(h, yz, url, secim, etiketler_cikar(konu))
+        if pilot and yayin_acik and not secim.get("bekliyor"):
+            gs.pilot_kaydet(bag, os.path.basename(dosya), hb, secim)
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
         gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
         if yz:
