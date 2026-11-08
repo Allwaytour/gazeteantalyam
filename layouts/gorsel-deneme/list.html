@@ -3,10 +3,19 @@
      bileşenleriyle (manşet slaytı, manşet yanı kartı, haber kartı) çizilmiş hâli. Sayfa 390 px genişlikte açıldığında aynı
      bileşenler mobil kurallarıyla çizilir. Haberlerin canlıdaki görselleri bu sayfadan değişmez. */}}
 {{ $r := (index site.Data "otomatik_durum").gorsel | default dict }}{{ $d := $r.deneme }}
+{{ $deg := (index site.Data "gorsel_kabul_degerlendirme") | default dict }}{{ $degs := $deg.satirlar | default dict }}
 <section class="gd">
   <header class="bolum-bas"><h1>Görsel seçimi kabul testi</h1></header>
+  {{ with $r.yayin_durum }}<div class="gd-uyari"><b>Yayın kontrolü:</b> {{ .aciklama }} (son tur {{ .tarih }}).
+    Bilinen yanlış ya da doğrulanmamış olduğu için yayından çıkarılan görsel: son turda {{ .son_tur.kaldirilan }}, toplam {{ .toplam_kaldirilan }}.
+    {{ with .kota_engel }}Yapay zekâ servisi günlük kota dolu yanıtı verdi ({{ .zaman }}); servis yeniden yanıt verene kadar saatte bir deneme isteği yapılır.{{ end }}
+    {{ with $r.temizlik_son }}<details class="gd-aday"><summary>Yayından çıkarılan görseller ({{ len . }})</summary><ol class="gd-kucuk">
+    {{ range . }}<li><a href="/haber/{{ strings.TrimSuffix ".md" .dosya }}/">{{ .dosya }}</a> — {{ .neden }} → {{ .sonuc }}</li>{{ end }}</ol></details>{{ end }}</div>{{ end }}
   {{ if not $d }}<p>Deneme henüz çalışmadı.</p>{{ else }}
-  <p class="gd-ozet">Tarih: {{ $d.tarih }} · Kural sürümü: {{ $d.surum }} · Model: {{ $d.model | default "-" }} · Yapay zekâ isteği: {{ $d.yz_kullanilan }}</p>
+  <p class="gd-ozet">Tarih: {{ $d.tarih }} · Görsel hattı: <b>{{ $d.hat_kimlik | default $d.surum }}</b> · Kod: {{ $d.kod_surumu | default "-" }} · Ayar: {{ $d.ayar_surumu | default "-" }}
+    · Örneklem: {{ $d.orneklem | default "-" }} · Model: {{ $d.model | default "-" }} · Yapay zekâ isteği: {{ $d.yz_kullanilan }}</p>
+  {{ if $degs }}{{ $dogru := 0 }}{{ $zayif := 0 }}{{ $yanlis := 0 }}{{ range $k, $v := $degs }}{{ if eq $v.karar "dogru" }}{{ $dogru = add $dogru 1 }}{{ else if eq $v.karar "zayif" }}{{ $zayif = add $zayif 1 }}{{ else if eq $v.karar "yanlis" }}{{ $yanlis = add $yanlis 1 }}{{ end }}{{ end }}
+  <p class="gd-ozet"><b>Görsel inceleme ({{ $deg.inceleyen | default "-" }}, {{ $deg.tarih | default "-" }}):</b> fotoğraf gelen haberlerden doğru fotoğraf <b>{{ $dogru }}</b>, zayıf <b>{{ $zayif }}</b>, yanlış <b>{{ $yanlis }}</b>. {{ $deg.not }}</p>{{ end }}
   {{ with $d.ozet }}<div class="gd-sayac">
     <span><b>{{ .satir }}</b> haber</span><span><b>{{ .fotografli }}</b> fotoğraflı</span><span><b>{{ .fotografsiz }}</b> fotoğrafsız</span>
     <span><b>{{ .bekleyen }}</b> bekleyen (kota/servis)</span><span><b>{{ .hata }}</b> hata</span>
@@ -23,6 +32,8 @@
     <h2>{{ add $i 1 }}. <a href="{{ $s.link }}">{{ $s.baslik | default $s.dosya }}</a> <small>{{ $s.kategori }}{{ with $s.ilce }} · {{ . }}{{ end }}</small></h2>
     {{ with $s.hata }}<p class="gd-red">Hata: {{ . }}</p>{{ end }}
     {{ with $s.sonuc }}<p class="gd-not">{{ . }} — görsele dokunulmadı.</p>{{ end }}
+    {{ with $s.onceki_surum }}<p class="gd-kucuk">Önceki sürüm ({{ .surum }}): {{ if eq .tur "kategori" }}fotoğrafsız{{ with .kapak_nedeni }} ({{ . }}){{ end }}{{ else }}{{ .tur }} · {{ .sinif }} · manşet {{ .manset | default "yok" }}{{ end }}</p>{{ end }}
+    {{ with index $degs $s.dosya }}<p class="{{ if eq .karar "dogru" }}gd-ok{{ else }}gd-red{{ end }}"><b>Görsel inceleme:</b> {{ .karar }}{{ with .not }} — {{ . }}{{ end }}</p>{{ end }}
     {{ with $s.konu }}<p class="gd-konu"><b>Ana özne:</b> {{ with .ana_ozne }}{{ .tur }} «{{ .ad }}»{{ end }} · <b>Olay/eylem:</b> {{ .eylem | default .ana_olay }}
       · <b>Yer:</b> {{ with .nerede }}{{ .ad | default "-" }}{{ end }} · <b>Zaman:</b> {{ .zaman | default "guncel" }}{{ with .takimlar }} · <b>Takımlar:</b> {{ range $j, $t := . }}{{ if $j }}, {{ end }}{{ $t.ad }} ({{ $t.rol }}){{ end }}{{ end }}{{ with .spor_dali }} · <b>Spor:</b> {{ . }}{{ end }}
       · <b>Hassas:</b> {{ .hassas }}<br><b>Görselde olmalı:</b> {{ delimit (.gorselde_olmali | default (slice "-")) ", " }} · <b>Olmamalı:</b> {{ delimit (.gorselde_olmamali | default (slice "-")) ", " }}</p>{{ end }}
@@ -50,6 +61,7 @@
               "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "") "o_myd" ($y.o_mansetyan_d | default "")
               "o_mym" ($y.o_mansetyan_m | default "") "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")) }}
         {{ partial "gd-bilesen.html" (dict "h" $h "duzen" (cond $yfoto ($y.manset | default "") "")) }}
+        <details class="gd-aday"><summary>Mobil görünüm (390 px)</summary><iframe class="gd-mobil" loading="lazy" title="Mobil önizleme" src="/gorsel-deneme/onizleme/#s{{ add $i 1 }}"></iframe></details>
         {{ end }}
       </div>
     </div>
@@ -57,7 +69,7 @@
     <details class="gd-aday"><summary>İncelenen adaylar ({{ len . }})</summary>
       <div class="gd-izgara">{{ range . }}
         <figure><img src="{{ .url | relURL }}" alt="" loading="lazy" referrerpolicy="no-referrer">
-          <figcaption class="{{ if .nedenler }}gd-red{{ else }}gd-ok{{ end }}"><b>{{ if .nedenler }}ret{{ else }}kabul{{ end }}</b> · {{ .sinif }}{{ if .mevcut }} (mevcut){{ end }}{{ if .alternatif }} (ret sonrası arama){{ end }}{{ if .onbellekten }} (kayıtlı karar){{ end }}{{ with .kutuphane_id }} · kütüphane{{ end }} · {{ .kaynak }}{{ with .lisans }} · {{ . }}{{ end }}{{ with .boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}
+          <figcaption class="{{ if .nedenler }}gd-red{{ else }}gd-ok{{ end }}"><b>{{ with .durum }}{{ . }}{{ else }}{{ if .nedenler }}ret{{ else }}kabul{{ end }}{{ end }}</b>{{ with .onceden_red }} (ret kaydından: {{ . }}){{ end }} · {{ .sinif }}{{ if .mevcut }} (mevcut){{ end }}{{ if .alternatif }} (ret sonrası arama){{ end }}{{ if .onbellekten }} (kayıtlı karar){{ end }}{{ with .kutuphane_id }} · kütüphane{{ end }} · {{ .kaynak }}{{ with .lisans }} · {{ . }}{{ end }}{{ with .boyut }} · {{ index . 0 }}×{{ index . 1 }}{{ end }}
             {{ with .hedef }}<br>İddia: {{ . }}{{ end }}
             {{ range .nedenler }}<br>[{{ index . 0 }}] {{ index . 1 }}{{ end }}
             {{ if reflect.IsMap .icerik }}{{ with .icerik }}<br>Görülen: {{ .sahne }}{{ end }}{{ end }}
@@ -73,7 +85,7 @@
   {{ end }}{{ end }}
 </section>
 <style>
-.gd{max-width:1300px;margin:0 auto 40px}.gd-ozet{color:var(--soluk)}.gd-uyari{background:#FFF4E5;padding:10px 14px;margin:12px 0}
+.gd{max-width:1300px;margin:0 auto 40px}.gd-mobil{width:390px;max-width:100%;height:1150px;border:1px solid var(--cizgi);background:#fff}.gd-ozet{color:var(--soluk)}.gd-uyari{background:#FFF4E5;padding:10px 14px;margin:12px 0}
 .gd-sayac{display:flex;flex-wrap:wrap;gap:8px 18px;background:#fff;padding:12px 14px;font-size:14px}
 .gd-satir{border-top:3px solid var(--turuncu);padding:18px 0 22px;margin-top:18px}.gd-satir h2{font-size:20px;margin:0 0 6px}.gd-satir h2 small{font-size:12px;color:var(--turuncu-koyu);text-transform:uppercase}
 .gd-konu{font-size:13px;background:#fff;padding:8px 10px}.gd-iki{display:grid;grid-template-columns:minmax(0,1fr);gap:22px}

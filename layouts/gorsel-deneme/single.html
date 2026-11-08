@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{/* Kabul testi satırlarının mobil önizlemesi: /gorsel-deneme/ sayfası her satır için bu sayfayı 390 px genişlikte bir çerçevede açar
+     (#sN). Bileşenler sitenin gerçek manşet, manşet yanı ve haber kartı şablonlarıdır; ekran genişliği gerçek mobil kuralları uygular. */}}
+{{ $d := (index site.Data "otomatik_durum").gorsel.deneme | default dict }}
+<section class="gdo">
+  {{ range $i, $s := $d.satirlar }}{{ with $s.yeni }}
+  {{ $taban := dict "baslik" $s.baslik "link" $s.link "kategori" $s.kategori "ilce" $s.ilce "ozet" $s.ozet "iso" "" "onem" ($s.onem | default 3) }}
+  {{ $y := .yerlesim | default dict }}{{ $yfoto := and (ne .tur "kategori") (ne (.gorsel | default "") "") }}
+  {{ $h := merge $taban (dict "gorsel" (cond $yfoto (.gorsel | relURL) "") "foto" (and $yfoto ($y.kart | default false)) "yan_foto" (and $yfoto ($y.yan | default false))
+        "foto_p" (and $yfoto (not ($y.kart | default false)) ($y.kart_portre | default false)) "yan_p" (and $yfoto (not ($y.yan | default false)) ($y.yan_portre | default false))
+        "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "") "o_myd" ($y.o_mansetyan_d | default "")
+        "o_mym" ($y.o_mansetyan_m | default "") "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")) }}
+  <article class="gdo-satir" id="s{{ add $i 1 }}" hidden>
+    <p class="gd-bas">{{ add $i 1 }}. {{ $s.baslik }}</p>
+    {{ partial "gd-bilesen.html" (dict "h" $h "duzen" (cond $yfoto ($y.manset | default "") "")) }}
+  </article>
+  {{ end }}{{ end }}
+</section>
+<script>
+(function(){var g=function(){document.querySelectorAll('.gdo-satir').forEach(function(e){e.hidden=('#'+e.id)!==location.hash;});};
+window.addEventListener('hashchange',g);g();})();
+</script>
+<style>.gdo{max-width:1000px;margin:0 auto 30px}.gdo .gd-r{margin:10px 0}.gdo .gd-r small{display:block;color:var(--soluk);font-size:12px;margin-bottom:4px}</style>
+{{ end }}
