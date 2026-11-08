@@ -508,7 +508,7 @@ main>.kap>*:first-child{margin-top:0}
 /* Dar kartta (mobil iki sütun) başlık sütunu sıkışmasın: portre üstte, kırpılmadan ve büyütülmeden kutuya sığdırılır */
 @container (max-width:300px){
   .hk-portre .hk-a{flex-direction:column}
-  .hk-pg{width:auto;max-width:none;margin:0;aspect-ratio:16/10;background:#EEF0F2}
+  .hk-pg{align-self:stretch;width:100%;max-width:none;margin:0;aspect-ratio:16/10;background:#EEF0F2}
   .hk-pg img{object-fit:contain}
   .hk-portre .hk-m{padding:10px 11px 12px;gap:5px}
 }
