@@ -8849,9 +8849,30 @@
       "yasak": []
      },
      "t": "2026-11-08T13:08:33+03:00"
+    },
+    "r1:f2bac7133776:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber turizm ile ilgili, ancak görsel bir futbolcu portresi. Konuyla hiçbir ilgisi yok.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T17:05:09+03:00",
+   "t": "2026-11-08T18:03:30+03:00",
    "teknik": {
     "doygunluk": 38.1,
     "inen": [
@@ -9521,6 +9542,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg/1280px-Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "276684525274a3da": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     100,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bilgisayar",
+     "sandalye",
+     "beyaz tahta",
+     "kitaplık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bilgisayarlarla dolu, boş bir sınıf.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Öğrenciler yok ve yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       330,
+       100,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:55+03:00"
+    }
+   },
+   "t": "2026-11-08T18:03:55+03:00",
+   "teknik": {
+    "doygunluk": 37.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 2956,
+    "kontrast": 64,
+    "medyan": 154,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/A_public_school%2C_high_school_classroom_in_the_United_States_01.jpg/1280px-A_public_school%2C_high_school_classroom_in_the_United_States_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "278861c416a31523": {
    "icerik": {
     "ana_kutu": [
@@ -10134,6 +10244,37 @@
      },
      "t": "2026-11-07T23:54:54+03:00"
     },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Turizm hareketliliğini ve Alanya limanını gösterdiği için haberle oldukça uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       170,
+       640,
+       890
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:22+03:00"
+    },
     "r1:fe4d0e29c7cc:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10156,7 +10297,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T15:11:13+03:00",
+   "t": "2026-11-08T18:03:22+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -10841,9 +10982,35 @@
       "yasak": []
      },
      "t": "2026-11-08T15:36:49+03:00"
+    },
+    "r1:f2bac7133776:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Side Antik Kenti'ni gösteriyor, Alanya ile ilgisi yok. Turizm genelinde zayıf bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T16:04:48+03:00",
+   "t": "2026-11-08T18:03:30+03:00",
    "teknik": {
     "doygunluk": 24.9,
     "inen": [
@@ -11898,9 +12065,35 @@
       ]
      },
      "t": "2026-11-08T15:03:42+03:00"
+    },
+    "r1:f2bac7133776:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya turizmi ile ilgisi olmayan genel bir arazi fotoğrafı. Dönemi de eski.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T16:04:48+03:00",
+   "t": "2026-11-08T18:03:30+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -12410,9 +12603,40 @@
       "yasak": []
      },
      "t": "2026-11-08T16:34:21+03:00"
+    },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı binası Alanya turizmiyle ilgili olsa da sahili veya turistik atmosferi yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       0,
+       650,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:22+03:00"
     }
    },
-   "t": "2026-11-08T16:34:21+03:00",
+   "t": "2026-11-08T18:03:22+03:00",
    "teknik": {
     "doygunluk": 18.6,
     "inen": [
@@ -14133,6 +14357,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sunny_weather_condition.jpg/1280px-Sunny_weather_condition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3cc8902dd5e06882": {
+   "icerik": {
+    "ana_kutu": [
+     130,
+     450,
+     980,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "öğrenci",
+     "kitap",
+     "kalem",
+     "sınıf masası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıfta ders çalışan öğrenciler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      130,
+      550,
+      430,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Öğrenciler var ancak yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       130,
+       450,
+       980,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:55+03:00"
+    }
+   },
+   "t": "2026-11-08T18:03:55+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.086,
+    "keskinlik": 620,
+    "kontrast": 64,
+    "medyan": 138,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1588072432836-e10032774350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2xhc3Nyb29tfGVufDF8MHx8fDE3OTQxNTAyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "3d8871f92cb4334d": {
    "icerik": {
@@ -24676,9 +24996,40 @@
       "yasak": []
      },
      "t": "2026-11-08T11:05:14+03:00"
+    },
+    "r1:f2bac7133776:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel görünümünü başarıyla yansıtıyor, haberin konusuyla tam uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       100,
+       850,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T15:41:25+03:00",
+   "t": "2026-11-08T18:03:30+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -29615,6 +29966,37 @@
      },
      "t": "2026-11-07T23:54:44+03:00"
     },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın turistik kimliğini ve tatil atmosferini doğrudan yansıtan başarılı bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       730,
+       220,
+       860
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:22+03:00"
+    },
     "r1:fe4d0e29c7cc:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29637,7 +30019,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T15:11:13+03:00",
+   "t": "2026-11-08T18:03:22+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -35859,6 +36241,37 @@
      },
      "t": "2026-11-07T23:54:54+03:00"
     },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın turistik merkezini ve sahilini net bir şekilde göstererek haberle tam uyum sağlıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       50,
+       900,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:30+03:00"
+    },
     "r1:fe4d0e29c7cc:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -35881,7 +36294,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:36:27+03:00",
+   "t": "2026-11-08T18:03:30+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -38246,9 +38659,40 @@
       "yasak": []
      },
      "t": "2026-11-08T16:34:27+03:00"
+    },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Turizm sezonu ve uçuş bağlantıları vurgusu için havalimanı apronu uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       130,
+       730,
+       790
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:22+03:00"
     }
    },
-   "t": "2026-11-08T16:34:27+03:00",
+   "t": "2026-11-08T18:03:22+03:00",
    "teknik": {
     "doygunluk": 51.1,
     "inen": [
@@ -40824,6 +41268,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Antalya_Metropolitan_city_building_in_2011_24.jpg/1280px-Antalya_Metropolitan_city_building_in_2011_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b2e7d4ce29e2c512": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     230,
+     980,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sınıf masası",
+     "sandalye",
+     "beyaz tahta",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş bir sınıf ortamı, masalar ve sandalyeler.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler",
+     "güncel olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sınıf ortamı olsa da öğrenciler yok ve yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       230,
+       980,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:55+03:00"
+    }
+   },
+   "t": "2026-11-08T18:03:55+03:00",
+   "teknik": {
+    "doygunluk": 27.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.025,
+    "keskinlik": 947,
+    "kontrast": 39,
+    "medyan": 162,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/A_high_school_classroom_in_North_Carolina_04.jpg/1280px-A_high_school_classroom_in_North_Carolina_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b41edc9a61cdf0cc": {
    "icerik": {
     "ana_kutu": [
@@ -41213,6 +41747,37 @@
      },
      "t": "2026-11-07T23:54:54+03:00"
     },
+    "r1:f2bac7133776:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "2006 yılına ait bir voleybol maçı karesi, güncel turizm rekoru haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya turistik bölge",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       220,
+       200,
+       850,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:22+03:00"
+    },
     "r1:fe4d0e29c7cc:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -41235,7 +41800,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:42:22+03:00",
+   "t": "2026-11-08T18:03:22+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -50696,6 +51261,118 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Edinburgh_Climate_March_COP27_November_2022_%2852501905170%29.jpg/1280px-Edinburgh_Climate_March_COP27_November_2022_%2852501905170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e21851ef49ede309": {
+   "icerik": {
+    "ana_kutu": [
+     420,
+     160,
+     970,
+     770
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "okul sırası",
+     "balmumu heykel",
+     "küre",
+     "harita",
+     "çerçeve"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze ortamında eski okul sıralarında oturan balmumu heykeller.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "tarihsel eğitim"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel okul ziyareti",
+     "öğrenci buluşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      435,
+      165,
+      525,
+      235
+     ],
+     [
+      430,
+      310,
+      515,
+      360
+     ],
+     [
+      435,
+      600,
+      520,
+      650
+     ],
+     [
+      420,
+      660,
+      540,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişiler gerçek öğrenci değil, müzedeki balmumu heykellerdir; güncel bir okul ziyareti haberini yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:04:04+03:00"
+    }
+   },
+   "t": "2026-11-08T18:04:04+03:00",
+   "teknik": {
+    "doygunluk": 19.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 1784,
+    "kontrast": 48,
+    "medyan": 116,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Kayseri_Lisesi_M%C3%BCzesi_3.jpg/1280px-Kayseri_Lisesi_M%C3%BCzesi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e23c8aede5ad75b3": {
    "icerik": {
     "ana_kutu": [
@@ -51730,6 +52407,94 @@
    },
    "url": "https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3NDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "e4f7218a8515f968": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     100,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "öğrenci",
+     "sınıf",
+     "beyaz tahta"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıfta parmak kaldıran öğrenciler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Öğrenciler var ancak yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       100,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:03:55+03:00"
+    }
+   },
+   "t": "2026-11-08T18:03:55+03:00",
+   "teknik": {
+    "doygunluk": 33.6,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.205,
+    "keskinlik": 1697,
+    "kontrast": 72,
+    "medyan": 138,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1588075592446-265fd1e6e76f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c2Nob29sJTIwY2xhc3Nyb29tfGVufDF8MHx8fDE3OTQxNTAyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "e544962817ed3506": {
    "icerik": {
     "ana_kutu": [
@@ -51948,6 +52713,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FC_Gold_Pride_pose_with_2010_WPS_Championship_Trophy_7.JPG/1280px-FC_Gold_Pride_pose_with_2010_WPS_Championship_Trophy_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e551cf5fd2a64a51": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     980,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "okul sırası",
+     "yazı tahtası",
+     "akıllı tahta",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş bir sınıfın iç görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "eğitim haberi",
+     "okul tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "öğrenci buluşması",
+     "ziyaret haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8b7d4c79d61e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sınıf ortamını gösterse de, haberin ana unsuru olan öğrenciler ve müftü ziyareti karesi eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "sınıf ortamı",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T18:04:04+03:00"
+    }
+   },
+   "t": "2026-11-08T18:04:04+03:00",
+   "teknik": {
+    "doygunluk": 35.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.072,
+    "keskinlik": 846,
+    "kontrast": 60,
+    "medyan": 151,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1719159381962-4170890ada4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwdHVya2lzaCUyMHNjaG9vbCUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzk0MTUwMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "e5b764260abba8db": {
    "icerik": {
@@ -62097,6 +62948,70 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "9cf59f6b7a7c331e": {
+   "alt_tur": "kurum",
+   "boyut": [
+    3264,
+    2278
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "2012-05-20",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Alanya kalesi ve limanının kuşbakışı görünümü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-08T18:03:30+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Ozgurmulazimoglu",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Alanya sahili veya turistik bölge",
+    "deniz",
+    "kale",
+    "liman",
+    "şehir"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/500px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm haberi",
+    "şehir tanıtımı"
+   ],
+   "kullanilamaz": [
+    "spor haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-08T18:03:30+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
