@@ -29,7 +29,7 @@ ayarlar:
   gorsel_sorgu_butcesi: 12      # bir haber için en fazla kaç serbest metin araması (bütçe dolması "fotoğraf yok" sayılmaz)
   gorsel_yeni_haber_payi: 80    # günlük görsel hakkından yeni haberlere ayrılan pay (toplu düzeltme bunu kullanmaz)
   gorsel_yz_gunluk: 500         # görsel kontrolü için günlük Gemini istek sınırı (metin yazımından ayrı)
-  gorsel_deneme_no: 27          # aynı denemeyi yeniden çalıştırmak için artırın
+  gorsel_deneme_no: 28          # aynı denemeyi yeniden çalıştırmak için artırın
   gorsel_deneme:                # h1 kabul testi: ilk beşi zorunlu hatalı örnekler (haber dosyalarını değiştirmez; sonuç: /gorsel-deneme/)
     - 20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md
     - 20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md
