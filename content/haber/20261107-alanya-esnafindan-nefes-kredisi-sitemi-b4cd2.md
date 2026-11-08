@@ -24,34 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 7 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: b00b87b45aa4
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T19:03:14+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T12:34:27+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %31)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberi; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur'
-    notlar: 'Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %31); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Emrah Cezirioğlu'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Alanya Sanayici ve İş İnsanları Derneği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (business association, businessman speaking) ilişkili lisanslı fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
-      katman: kurum
-      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (basın açıklaması, dernek başkanı) — A
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Volleyball.jpg
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-      katman: kurum
-      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (basın açıklaması, dernek başkanı) — A
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-      katman: kurum
-      neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur görünmüyor (basın açıklaması, dernek başkanı) — Alanya genel görünüm '
+    aciklama: 'görselde olmaması gereken unsur: sportif faaliyet; görselde olmaması gereken unsur: yabancı bayrak, sportif faaliyet; habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (0/10, en az 8); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geni'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -60,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyanin-hakki-bu-degil-nefes-kredisi-cikti-ama-esnafa-ulasmadi
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Alanya Sanayici ve İş İnsanları Derneği (ALSİAD) Başkanı Emrah Cezirioğlu, zorlu geçen turizm sezonunun ardından finansal destek bekleyen bölge esnafının kredi imkanlarından yararlanamadığını dile getirdi. Ülke ekonomisine ve turizmine önemli katkılar sunan kentin, finansman kaynaklarından yeterli payı alamadığını vurgulayan Cezirioğlu, açıklanan destek paketlerinin uygulamada yetersiz kaldığını kaydetti.
 

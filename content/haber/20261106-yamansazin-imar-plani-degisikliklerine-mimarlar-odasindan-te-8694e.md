@@ -24,20 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: daf7f5cf9f75
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T20:43:14+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T12:34:57+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mimarlar Odası Antalya Şubesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mimarlar Odası Antalya Şubesi'' konusunu g'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mimarlar Odası Antalya Şubesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mimarlar Odası Antalya Şubesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: wetland nature area Antalya, reed bed nature)'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mimarlar Odası Antalya Şubesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için konuyla (nature, wetland, '
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/yamansazin-gelecegi-icin-mimarlar-odasindan-imar-plani-tepkisi/388775
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya Muratpaşa sınırlarında yer alan doğal miras Yamansaz için hazırlanan yeni imar planı kararları tartışma yarattı. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylanarak askıya çıkarılan koruma amaçlı imar planı değişiklikleri; konut, ticaret, turizm ve otel alanlarına ilişkin emsal, kat ile bodrum kat düzenlemelerini kapsıyor. Konuyla ilgili açıklama yapan TMMOB Mimarlar Odası Antalya Şubesi, bölgenin geleceğinin parsel bazlı beklentilere kurban edilemeyeceğini vurguladı. Açıklamada, Yamansaz'ın sadece boş bir arazi olmadığı, canlı ekosistemi ve su dengesiyle bir bütün olarak ele alınması gerektiği ifade edildi.
 

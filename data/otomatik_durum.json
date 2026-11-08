@@ -1,107 +1,7 @@
 {
  "gun": "2026-11-08",
- "yz_bugun": 15,
+ "yz_bugun": 19,
  "gorulen": [
-  {
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUhFVGtFRWxJd3BjQkI1ODhfRVRKcW81dXFpZGhhc08tMElBd1Y5RW1ORF94b1RwaUQ1SzhUcUNmYjBhbS1aQzF2VzhIUnBLaGFrTHJDS3FyVjJKQjVMUWRxQW1zSm9rZ2hfU09NQ0Vza1ltYjBkTXhKQlVIdDJtSnE0QQ?oc=5",
-   "baslik": "Akhisarspor, 1 puanı son anda kurtardı",
-   "ts": 1793746473
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJlNElydWxneG5nM0dKWC1YSnNBdk1nRDkzbFA5OC15RDM3dFNiTnltbW85NlFIS1U0Y3ZsUWx6X25zYW45amJ2WEZoQ21pc3doakhCMzNMYmVxM0U3aXpNclRhV1RKNU9ybko4d1pVQVd6THZTUkJrWjBXa1RfemhOX2FnUzVhV0NQNmRPcUFEUFlIWnBFdHlHNA?oc=5",
-   "baslik": "Iğdır FK Teknik Direktörü Kenan Koçak'tan dikkat çeken açıklama",
-   "ts": 1793746473
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUJldEtVZjN1Tmh5Y05YUlV6VGQ4djQtcjRjMzZHNjA3ZHhKWEFwcTZyaTRHejh1NGNUR1lrNEVmWFh4ck5IMS1GODZINHRKR0VRWVdWSDdYOVNJSDdwM0JtZ2NJODNlRFVJQXZLb3FoNHFIRXFwZEFPd0ZMSDk1MTJRN0xidTBGcEJGVlhtM1p3OGlhcnI4NHdycDFPbmJwdUtYR1Z3?oc=5",
-   "baslik": "COP31'in Antalya turizmine katkısının 2027'de sürmesi bekleniyor",
-   "ts": 1793746473
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUJldEtVZjN1Tmh5Y05YUlV6VGQ4djQtcjRjMzZHNjA3ZHhKWEFwcTZyaTRHejh1NGNUR1lrNEVmWFh4ck5IMS1GODZINHRKR0VRWVdWSDdYOVNJSDdwM0JtZ2NJODNlRFVJQXZLb3FoNHFIRXFwZEFPd0ZMSDk1MTJRN0xidTBGcEJGVlhtM1p3OGlhcnI4NHdycDFPbmJwdUtYR1Z3?oc=5#yz",
-   "baslik": "Antalya'da COP31 Heyecanı: Turizme Katkısı Sürecek",
-   "ts": 1793746473
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOdlBZUzBjR2s0aHM2Y09pSW9fZm42T3laa1h2ZEw5LWFOZ0Q1Tkpsb0ZxbVBVOC1FUVl3Z3hwZ18zM1N5VEJzVF9iNGFMajNYT1N2U3hWMDJKYndJM2swcGR2alhjbWRUcU1jN0tnckRLUU1B?oc=5",
-   "baslik": "Antalya'ya Soğuk Hava Uyarısı!",
-   "ts": 1793748270
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNxTlM2bG5EMW9yalI4cXJpekJOUVVFOFk5dEVpR18tWklZTHRLVVNuZklISS10SlF4VXM3Q1RJa0ttWVFyelJ4b0VRT3hiMzRvajI0STdLRUxNMXNTRnN4TUF0SlVBYi0zd01MWldqSzhDbm9EMFpYWHJSX1NLbC1NcmpRV0VEMW5GcmNaZkfSAZYBQVVfeXFMT25EYl9CemM3WFlTcmtQNjJHaUVPUVUyT0hZTnNDU0M3ZTY5ZW1FajI5X01RT2dEdXZrcHJjem5EWjRKbFR2YVVJN01zRnZFdWQ5OVQtS2ktWVE3QTZQZ3VYQm5CNGVXQUQ4blZNZVhZRUI5bWhwZ01tT1htSDIzNjdua1J4b1gyQm9DVU1KUWpPYjk1X0xn?oc=5",
-   "baslik": "Antalya’nın sanayi ve tarım talepleri TBMM’de!",
-   "ts": 1793748270
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNxTlM2bG5EMW9yalI4cXJpekJOUVVFOFk5dEVpR18tWklZTHRLVVNuZklISS10SlF4VXM3Q1RJa0ttWVFyelJ4b0VRT3hiMzRvajI0STdLRUxNMXNTRnN4TUF0SlVBYi0zd01MWldqSzhDbm9EMFpYWHJSX1NLbC1NcmpRV0VEMW5GcmNaZkfSAZYBQVVfeXFMT25EYl9CemM3WFlTcmtQNjJHaUVPUVUyT0hZTnNDU0M3ZTY5ZW1FajI5X01RT2dEdXZrcHJjem5EWjRKbFR2YVVJN01zRnZFdWQ5OVQtS2ktWVE3QTZQZ3VYQm5CNGVXQUQ4blZNZVhZRUI5bWhwZ01tT1htSDIzNjdua1J4b1gyQm9DVU1KUWpPYjk1X0xn?oc=5#yz",
-   "baslik": "Antalya'nın sanayi, tarım ve teknoloji talepleri Meclis gündeminde",
-   "ts": 1793748270
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTVyT0hOcnhpN2dRUUFEaEV0bUJ6NkxYM1VaUkJNZzN3N2Iwb1dKeTFLTUc2V2FQNk1JWXBwblVuaUt1RWtoTUFKYVZXUGFLN0NGVnJWUHZJMllOb0Z4c01uR0NtRFhqVHBlcHVDTWdTVndKVlpKRndKWUFnNUVvblV5ZHJrdG5wNjZJVVF4NURIVVNEYXJ6Sg?oc=5",
-   "baslik": "Antalya'da fotoğrafçılar FotoMaraton'da yarıştı",
-   "ts": 1793748270
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOci05SFJ5WlhFZFA2S0czdUVWTE03ZnFpSUwtN3FVNDVuMm9WbGFoTXdwTGhaVWxYUVR4VWtPNGFveXYydGVwLVZHM2VRWUZia0ozanlxcllKV2h0TnZSVlFCNlFoWmE3WTc4WTZWd0kwM1J6SWxqUWZLakNFc21EeDNSYzRxMWN2TnFoT1pnS1ZjQnJfZnJ6YjNSbUVNN3BMVGZuMzFNYw?oc=5",
-   "baslik": "Turizmde kaynak israfını önlemek için ‘Antalya Kriterleri’ açıklandı",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjZjSExjT1RNc2xYZzVwbnZKajR0QnVBbTltem9fNzRmVHhkNlNBUHJFMjhiWFZaODJlSmRHMEV2bjd2SFhTcVFLNThCS3cyVDZqQ19SZXJMaHJYYjFzQVVRZkk4SU1sWDIzRnlyNXF6bGdiM2ExcGpvQTBjY0hyRXpSZi1mNlhUNUdRaTVRZEZscFJwZGxwYTh3ZHhJVnZKMmV2SVlEMUd2d9IBqgFBVV95cUxQQjZjSExjT1RNc2xYZzVwbnZKajR0QnVBbTltem9fNzRmVHhkNlNBUHJFMjhiWFZaODJlSmRHMEV2bjd2SFhTcVFLNThCS3cyVDZqQ19SZXJMaHJYYjFzQVVRZkk4SU1sWDIzRnlyNXF6bGdiM2ExcGpvQTBjY0hyRXpSZi1mNlhUNUdRaTVRZEZscFJwZGxwYTh3ZHhJVnZKMmV2SVlEMUd2dw?oc=5",
-   "baslik": "Alanya'nın simgesi Kızılkule'nin 800'üncü yılı törenle kutlandı",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjZjSExjT1RNc2xYZzVwbnZKajR0QnVBbTltem9fNzRmVHhkNlNBUHJFMjhiWFZaODJlSmRHMEV2bjd2SFhTcVFLNThCS3cyVDZqQ19SZXJMaHJYYjFzQVVRZkk4SU1sWDIzRnlyNXF6bGdiM2ExcGpvQTBjY0hyRXpSZi1mNlhUNUdRaTVRZEZscFJwZGxwYTh3ZHhJVnZKMmV2SVlEMUd2d9IBqgFBVV95cUxQQjZjSExjT1RNc2xYZzVwbnZKajR0QnVBbTltem9fNzRmVHhkNlNBUHJFMjhiWFZaODJlSmRHMEV2bjd2SFhTcVFLNThCS3cyVDZqQ19SZXJMaHJYYjFzQVVRZkk4SU1sWDIzRnlyNXF6bGdiM2ExcGpvQTBjY0hyRXpSZi1mNlhUNUdRaTVRZEZscFJwZGxwYTh3ZHhJVnZKMmV2SVlEMUd2dw?oc=5",
-   "baslik": "Alanya'nın simgesi Kızılkule'nin 800'üncü yılı törenle kutlandı",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmx0Q01Bdks4QnpObFNwOXVPVG45clpWSlFxTGVuWmNYRXUweGxFZHlaeF9yanBRVmhnOUR5M1ZZZFFfRjd5a3pBVFFQb0s4aW9yOFQzSERJR3drUkkwaEcyRmFxUnZsdGszZHpxT3Ayb2ZxYTZoT2ZNY29ZRWpBRXktcEl6MVFXeUFPWGJseVVQUlFBeUFQc3ptdnVfRVJVTm1IZjlMYw?oc=5",
-   "baslik": "ANTALYA’DA COP31’E KARŞI İKLİM MÜCADELESİ BÜYÜYOR",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemswNTR3bVlkZXBVNjdrckJURTFjb1lfR2k4RllHcTVXMmhMNWg4Zm1Qc0lPcGFMNWFWU3RBVlQyNnpjMGs4bUlRNFZKZ2kzOWN6RzhNTzE1anVxeDZKWHJtTTAwZzNQVHROQUI0V1lDQWFvTFlfN0s4Q0tJRW8xSk5QQm9vMWdjTk5ZZUVsUnI3RGZFZWJj?oc=5",
-   "baslik": "Alanya'da 800 yıllık gurur! Kızılkule'de mehteranlı görkemli kutlama",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczhDeFg1N0RuWDZid2laaXFVVTJFRkxUMG1zazJadDk3OHJJd2x2NTFhQW85VFh4UHhQV3Roc3ZkUlVqTjhqeWFWdzYxOGZhdXpHWEFRU1YxT3Qwc1JiTkpsam5mLXBxQVZrZWc2WlJVR0dmbEVzNjZrVVY2SVFIOXRkVlNWLXlnZm5sNm8zQmR2ZUpXRENoNkZlZmQ?oc=5",
-   "baslik": "Kuaförlükte Alanya'ya Türkiye birinciliği getirdi",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNxTlM2bG5EMW9yalI4cXJpekJOUVVFOFk5dEVpR18tWklZTHRLVVNuZklISS10SlF4VXM3Q1RJa0ttWVFyelJ4b0VRT3hiMzRvajI0STdLRUxNMXNTRnN4TUF0SlVBYi0zd01MWldqSzhDbm9EMFpYWHJSX1NLbC1NcmpRV0VEMW5GcmNaZkc?oc=5",
-   "baslik": "Antalya’nın sanayi ve tarım talepleri TBMM’de!",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWZ5UkU5b2pteW9iY25Bems0d3hCeGNNdTFuZU9mQ0xGZmQxa0tFQ1czZ3pyRlpOUXpaWEplYlQ2UTJlbDd1MFRkdV9IMjFtUWRPMDdyMkJSUHk0Z0MwdDc2MWVEQVBTYzZVVy1TMzdIMW9UUGQ0T1BsZjNISjRfX2tKSmhla1E?oc=5",
-   "baslik": "Alanya heyeti Londra fuarında",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTlHN0dQOEkxb3lNM0pKOWNqUHctNVBhX01aOVFUcUZYeU9QQ0dvb2tTeV9wVTdSWGliTjVrLU14bHJPRWFlTlY2SGJ3N0F6WXhMVzdxd2ZWLW5qeF81MlBDVzVQS0s0X0NMNngxUzB2MkJPaVhVdDU2MlFxNjBqaDFPUG1Wbkd4T01uRFhEYw?oc=5",
-   "baslik": "Alanya’da 800 yıllık tarihe görkemli kutlama",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1lPSWRVQWRLM1V2ek1LT0hzdDIyUnZyd0U2YWdpcHpYeHA0VmlJUF9YY2tDdjdzbTA2M0ZnR0ZFUWtWSEFXbE9QZkxLSGZjaVUtTU5oZmpGMWFZS1hQeWVPSHM1Q3VXSktkeUhKa2JOWkt0ZE8tRXFxNGhtRVhkYlFKZ19DUldvYm9Wd0dGSFNYejVZbWhnV0t6bGJRejR3RVE?oc=5",
-   "baslik": "Aksu’da arama kurtarma ekipleri 4 günlük bekleyişi bitirdi",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3hWd2F3UjM2c09IbGpaOUNkR0k1V3VWcTl1ak11VE03MkxsS2VBSDZhV2gyRUM2d3U0cUNvMDM5bmNnbHdBUGdQOU4xdVlpNTZFU3M1T1N2QnRYU1RLOEpCUmw2S3k5a3Bfclp0ZkJTdVhrZjhTRnlnMlBIN0NEYTBfVEZrRGxqRzB5cUc5RTZFanJaZ2ZlWWxBVmt5RF9jRlVYRUwwa2l1WGZ0YzJLV1FaMA?oc=5",
-   "baslik": "Antalya’nın 3 ilçesinde imar çıkmazı! Antalya’daki imar sorunu öğrencileri de vurdu",
-   "ts": 1793750080
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3hWd2F3UjM2c09IbGpaOUNkR0k1V3VWcTl1ak11VE03MkxsS2VBSDZhV2gyRUM2d3U0cUNvMDM5bmNnbHdBUGdQOU4xdVlpNTZFU3M1T1N2QnRYU1RLOEpCUmw2S3k5a3Bfclp0ZkJTdVhrZjhTRnlnMlBIN0NEYTBfVEZrRGxqRzB5cUc5RTZFanJaZ2ZlWWxBVmt5RF9jRlVYRUwwa2l1WGZ0YzJLV1FaMA?oc=5#yz",
-   "baslik": "Antalya'da imar engelleri ve mülkiyet uyuşmazlıkları eğitimi vurdu",
-   "ts": 1793750080
-  },
   {
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmRBQnBrS0pCNmRSXzFKQjhmZlFLS0oxRWZaXzQ4VjF4Yk5QRS1BNkFYOWxjMlpsSGZjOWVSN2xQT3Q2RXJGallSWjBpSUlETkFDcHEwOV9IS0V6djlzUUNpSUY1RDdnWm9udm5keVRzMGd4ODZUTHlRY0RYUnVjOEdvUW84TGMzbF9MX1VJYzJSY005SWc?oc=5",
    "baslik": "Antalya’da 5 Kasım 2026 elektrik kesintilerinin tam listesi",
@@ -15001,12 +14901,112 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMk4wOHZjeUNMVzlubklrRmN2VjdzeEVoRFNQT1NuUzhIYmdTM2x1anB2S0JOdjBYcWhGbWFSdlFHb01hbHpZR1dPZTRJV3Z2OEFWUDBfOUxKeHFlUnN6WUh1NWpYSllZTENJMDhrMUtUUVluVkd0c20zbFVqLTBXdWVPZnZ4RFJpUDVmWjlBZXgwQUVFVFVnUjI2TGRLLWhPaXRsN0ZTclRlYi1RMGxOcmJpSzRRQQ?oc=5",
    "baslik": "COP31 Heyecanı Şehrin Dört Bir Yanını Saracak! İşte Etkinlik Takvimi",
    "ts": 1794128557
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkdtVEltb0pMS2hHT2Y0M0dPcFJzcDZyWW4zeXByMFdyY1ZodHdsVm9aTm5SS0NWRXJ2UXM3UmFOczVUQU8yOGpLa0h4czhCUGpuVTNIM0VNd1pKdFpEdVBKMFJheDR1WldVdnBmcWxub1U4NVpyTW5IREFFSU5HTTRXeWQxNDlsYzRmNFlMNnhYeGNXTks4VkNnTV9SVXFQY2JycDhxWWhxOVhGSWFuVk1SREdkbFRmUjBsUHowYw?oc=5",
+   "baslik": "COP NIGHT Heyecanı! Atık Kotlar Podyuma, Ormanın Muhafızları Sahneye Çıkacak",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHcyYzIxODA1a1hoWkU3M192TUZIYUVxUHZOZW95UHY4VXNrSHI0TEhuMi0zM3dsNWJIelRSQVVFYWRUeGw0aVdjVVpBT2ExNGNMSjE3N1pnS2JKakxvVGE1Y0JSQU9lZ1hkcVNXb1JmSlYzQUpybkhTWlotOXRkU1U4VmtFaGtmZldmUm92YWxBY1NrT0FYN05KcW1FcG9qWTZMV2Nfd2NtUTNMM3pOR1dnT3JsQ2J3akpkejJSOWdSc3FfQUxmYndHNWE?oc=5",
+   "baslik": "Antalya’nın Manavgat ilçesinde bir kişi, elindeki tahra ile caddede çevresine saldırdı. #antalya",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX01sN2J3M2FpdzQ2WXVJQUlIUTRQWmlCSEFrdGVheTM0dGYwMHdOV3I2a0dvd0JTSVhZQktBMXdHZ0NmVDFhb0x0MmxoTFBRcGs1S0M0ZXJ2a3Q2enJkaHd3X1VBR0wxSC0tb2gycWdwZGMyY3VHcTRRVnBCd2VsTGFsRUNydw?oc=5",
+   "baslik": "Antalya'da fırtına uyarısı: 19 ilçede hava nasıl?",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX01sN2J3M2FpdzQ2WXVJQUlIUTRQWmlCSEFrdGVheTM0dGYwMHdOV3I2a0dvd0JTSVhZQktBMXdHZ0NmVDFhb0x0MmxoTFBRcGs1S0M0ZXJ2a3Q2enJkaHd3X1VBR0wxSC0tb2gycWdwZGMyY3VHcTRRVnBCd2VsTGFsRUNydw?oc=5",
+   "baslik": "Antalya'da fırtına uyarısı: 19 ilçede hava nasıl?",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1VzdTVkR6ZklkSTFVdEVaaDRudmR0eGJRMnFnalNKejY3ZFNqQXpyNk16a1ppQWp5U2g5aWVzWUJiUXpyeE1LM3hUZDQ2TFVaak5Rd0h3empYM1UtX2hqTGNzbHZaWHRINkpV?oc=5",
+   "baslik": "Trabzonspor'un Alanya'daki kötü serisi!",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSzZHTjJzY1NvVWtMd3lGcXNHWXJWdTYzeDJFM01aUGFTQ3FEdmFjRlY3RHV2U0NuRmNNRHVnaVJtRlZfanJpUXpiRDdjUUpvcFJmLU9lMUlhNlFJSjA1S2NCZFVVR2R6djhSUzVTTC0zNGxjbXY1Umt3?oc=5",
+   "baslik": "Antalya'da nöbetçi eczaneler: 8 Kasım",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HdWU4Z0lLQW9BNUNZNE93eHJXYjg1N3g5OW5VRXB2VTF4RVhvVXVjRHhiVTdyX21CRWJIT2tVUXJRa0RrZElNbnFqRGtkXzhxdGNPNEVuUl9zaFozM2dUVzhsV0UwNkUyZVk4WUF2WHRuSDFyNF9xd1hENA?oc=5",
+   "baslik": "Alanyaspor - Trabzonspor maçı saat kaçta? - Alanya Haber - Alanya Son Dakika Haberleri",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEtCRVZXa3o5X0Y2TjdwM2VZYmV2LVI1QmhiNXJ5M2dDSGl0bnpOTHJFQTdyaHI3RHZkNlo3Um8xZFViZUI4NDduYzZzSlRXWnYySGhzRkU4cjl6TFZBeEUxd3hYQW5RYXBmb2xKWG9IUXczd0E2YlVWRVl3VmsxZmthNGJVYnpVMkNGT3NGc2UzSjRObkpieTNRQ3lremVyNWNyQ24tSFI1djJMTVAyVHM1Y3VUTzZ3ZXI0S1NRY0poZw?oc=5",
+   "baslik": "Aynı adı taşıdığı torununun ölüm haberiyle yaşamını yitirdi",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV00ya3VfbXRXTi15cElVc3NzbHZGVlhfZ1Nvd2RFR2VuYkktZ1FFSFIzUTY1LVV0U2hXd3gtamJDX3lWeDNRTlNtX1phUzFfckVnWjJWbkpmdzk5U0pmTU93c0FzaUYya3p2TGw2ZzhaZ0NyQ01xMEl0M1hlUm1CeVVTQXo5NEctdVZCYndwMEExcG4yWWRPTQ?oc=5",
+   "baslik": "Antalya'da COP31 kapsamında zengin etkinlik programı",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmRjV0ZhNE82NnlMZnZ4dmdOai1mX19fekNNVmhLZm82elEybUszdDEzWE80d3NIMjlTcDZ0cXprR1J5U1l2NkRtdk9EZF9qSS1IaWFTUWZkMjZBeXJZWEU1S2dnWUZpdXoteWc3ckptbF9QRGNOWGwzRUkxdFVCQ3VmdGRiTmhZc1dhOEhpV0V3dWdVRmlkYzlySkl5cHMx?oc=5",
+   "baslik": "Kocagöz'den, iş yeri yanan kardeşlere destek ziyareti",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUZpOGxTY3h6Um9QWExDSy03WUtQZDcwa3IzcjRUd2xqUTJKaGVLQ25wbmFFZ3JFSW1lNkxLNGRwdVl6TzcwR1ZNZkhHZ0M3RldYSzR1Y2Uyd0I2QllsN1dxUGFXelp4cFpNTDVsTXpRY09Zd3U5bXZhRWo5cVRObmczdmJCTTF4bVUzOGQ3Nktsa3JTTEhIbm8wN0hRQdIBnAFBVV95cUxNV3lkUVZZZS1CODRTeU41UFoxV3hmZjZrWnByUnJWOFNGSUFnSGxrWUp0T0V5X0NJQkVJNkFNSjVzTHBCWVp6bmhtalNaRUtVNzR3QUZQbF9oOW1fbm1lNFFIVFVxekV6OG9obWtjTm5WeG0zcUhMNnhHMC13OUpUZi1pV3RiRUdfd3c3azNpVlV2cW4xZWYtVWt6TnQ?oc=5",
+   "baslik": "Antalya'da COP31 ve bisiklet tutkusu bir arada; UCI Gran Fondo World Series başladı",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzExTE5qOWF4MGRlbkswQmJJSlNTendwY3ZIZnd0QUJ2SDNmTXdhOFlHRGdxQjZ1cXlsZU9VUS1ycXhITGdXaGVpWnUycnRDb3dkTlN4N0JkbWRKNXFRU1pnb0lqMHZ5VkY5OWh2UTZLMnR4Q1ZuNXhIUWtpOXowVEl0MUU1dE9iTW0zeVpwX1l6X3RndEE?oc=5",
+   "baslik": "Antalyaspor son 4 maçına COP31 logolu formalarla çıktı",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYmZ6ZkF1eG45eHZDaWVRSno2WFIwV2Rhc2hFN3o0Qno0RTdQSmFpM19nNzFRRjdOcmVhZ1JpX1NteGlaZDZCZmVYLWNidldhN3A5NmhGSHUwYlVhd0E4VVZDS3JDRVhiZXYzVnluVkNVYVVKaTJmZzYxSVA0U3hvbE9zM0tTVHJfdzZkT3ZYWUZ2QkwxczVXY3pCNDYtbEx2ZGlGTjhhcmpfbjdkNGxDYUFIb3doYVpuNXhKc29Rd1E5VU5Jd0YzWQ?oc=5",
+   "baslik": "Antalya'da art arda acı: Aynı adı taşıdığı torununun ölüm haberiyle yaşamını yitirdi",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYmZ6ZkF1eG45eHZDaWVRSno2WFIwV2Rhc2hFN3o0Qno0RTdQSmFpM19nNzFRRjdOcmVhZ1JpX1NteGlaZDZCZmVYLWNidldhN3A5NmhGSHUwYlVhd0E4VVZDS3JDRVhiZXYzVnluVkNVYVVKaTJmZzYxSVA0U3hvbE9zM0tTVHJfdzZkT3ZYWUZ2QkwxczVXY3pCNDYtbEx2ZGlGTjhhcmpfbjdkNGxDYUFIb3doYVpuNXhKc29Rd1E5VU5Jd0YzWQ?oc=5#yz",
+   "baslik": "Antalya ve Isparta'da acı tesadüf: Torun ve babaannesi toprağa verildi",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnI5UTdXTXJQa2ZfN3lXTFkwOERlRG82VENDa0Y1NXNENWZkZWVzYVZGT1h6X29FTEhqazlkUFFIYXROelVqTTlqY1FOMXBvMFo3WVI3YTNVWnRkNk0wbDRYUGlTc2U2VHMySmxFdWR3anlvcjcwSXFDekw0QUI3aWJ4LVRZNS1KbndtQUN6eXBUc2VBU2xCYzN3?oc=5",
+   "baslik": "Trabzonspor aşkı Almanya'dan Alanya'ya getirdi! Salah sözleri dikkat çekti",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHcyYzIxODA1a1hoWkU3M192TUZIYUVxUHZOZW95UHY4VXNrSHI0TEhuMi0zM3dsNWJIelRSQVVFYWRUeGw0aVdjVVpBT2ExNGNMSjE3N1pnS2JKakxvVGE1Y0JSQU9lZ1hkcVNXb1JmSlYzQUpybkhTWlotOXRkU1U4VmtFaGtmZldmUm92YWxBY1NrT0FYN05KcW1FcG9qWTZMV2Nfd2NtUTNMM3pOR1dnT3JsQ2J3akpkejJSOWdSc3FfQUxmYndHNWE?oc=5",
+   "baslik": "Antalya’nın Manavgat ilçesinde bir kişi, elindeki tahra ile caddede çevresine saldırdı. #antalya",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUp0eG9ESDhUdThOZXV6T2g0SF9rZVRuTGZDWWNiRlFXR0cyemVoRWJJNUZyR1U0TjRpWjcxU2tTX2o1RFIwRmVEOWRBeXpSMU91cnptZHI4bmFKWUFYcnlsYWpKVVUyWUJDUXgwRVRDdmFTdGtRUWUxTnA2S0tOZ1I1V21qUTVvQnIwdXlkbUdGTWg0ZTFmV3hhcFc4YkJM0gGcAUFVX3lxTE5vb29EV2RWcXJmTk5xVC12QW0yLW95azVNRGJKeTFFazBaT29xYXh3MUFSQjNhUGRsWHp1bXh1TldRSnNNQkkwdF8yT1luMnRuUUZnZE5lSWtESEstUUJoZ0JMWVhhVUl1RUt5dW5KSFUxOGJyTUtyNFZLSGp1cXE2bk9PZi1CN2hLSHhYWi1ZRHQwVXJvcHd2Y3Rtcg?oc=5",
+   "baslik": "Serik'te kansere yenik düşen torunun ardından Isparta'daki babaanne de aynı gün vefat etti",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUp0eG9ESDhUdThOZXV6T2g0SF9rZVRuTGZDWWNiRlFXR0cyemVoRWJJNUZyR1U0TjRpWjcxU2tTX2o1RFIwRmVEOWRBeXpSMU91cnptZHI4bmFKWUFYcnlsYWpKVVUyWUJDUXgwRVRDdmFTdGtRUWUxTnA2S0tOZ1I1V21qUTVvQnIwdXlkbUdGTWg0ZTFmV3hhcFc4YkJM0gGcAUFVX3lxTE5vb29EV2RWcXJmTk5xVC12QW0yLW95azVNRGJKeTFFazBaT29xYXh3MUFSQjNhUGRsWHp1bXh1TldRSnNNQkkwdF8yT1luMnRuUUZnZE5lSWtESEstUUJoZ0JMWVhhVUl1RUt5dW5KSFUxOGJyTUtyNFZLSGp1cXE2bk9PZi1CN2hLSHhYWi1ZRHQwVXJvcHd2Y3Rtcg?oc=5#yz",
+   "baslik": "Serik'te kansere yenik düşen torunun ardından babaanne de aynı gün vefat etti",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEo4cHlwZThoRHJiYzZveVZyN3VNUDV5RWNxNml5dWg5NnpXMGZjejFUOU9WXzllZEFNSmdZTExSb0FmeHpVRjB0ZnNNd3d6SGF2czZMVVU0eTh3QUE1cTVkRmxWQUpiQTNYZWo4dHVfRHB0dkdNUHY2ZWxwWFF1RnRmVUFuaVprUkdpenAtXzE2Tldr?oc=5",
+   "baslik": "Antalya Gran Fondo’da 8 Kasım programı: Ödül töreni saat 15.00’te",
+   "ts": 1794130358
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEo4cHlwZThoRHJiYzZveVZyN3VNUDV5RWNxNml5dWg5NnpXMGZjejFUOU9WXzllZEFNSmdZTExSb0FmeHpVRjB0ZnNNd3d6SGF2czZMVVU0eTh3QUE1cTVkRmxWQUpiQTNYZWo4dHVfRHB0dkdNUHY2ZWxwWFF1RnRmVUFuaVprUkdpenAtXzE2Tldr?oc=5#yz",
+   "baslik": "Antalya Gran Fondo'da 8 Kasım programı açıklandı",
+   "ts": 1794130358
   }
  ],
- "son_calisma": "2026-11-08T12:11:13.953749+03:00",
+ "son_calisma": "2026-11-08T12:40:50.132956+03:00",
  "gorsel": {
   "gun": "2026-11-08",
-  "yz_bugun": 105,
+  "yz_bugun": 143,
   "onbellek": {
    "konu:670ba52ee1f7": {
     "konu": {
@@ -24353,6 +24353,1107 @@
      "takimlar": []
     },
     "t": "2026-11-08T12:11:03+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:53c7688b9f28": {
+    "konu": {
+     "ana_olay": "Alanya Sanayici ve İş İnsanları Derneği Başkanı Emrah Cezirioğlu, nefes kredisinin esnafa ulaşmadığını ve ekonomik desteklerin kağıt üzerinde kaldığını belirtti.",
+     "odak": "kurum",
+     "kisiler": [
+      "Emrah Cezirioğlu"
+     ],
+     "kurumlar": [
+      "Alanya Sanayici ve İş İnsanları Derneği",
+      "ALSİAD"
+     ],
+     "yer": "Alanya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Alanya Sanayici ve İş İnsanları Derneği",
+       "ad_en": "Alanya Industrialists and Businessmen Association",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Emrah Cezirioğlu",
+       "rol": "Dernek Başkanı / Association President",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Alanya Sanayici ve İş İnsanları Derneği",
+      "ad_en": "Alanya Industrialists and Businessmen Association"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "basın açıklaması",
+       "ekonomik destek"
+      ],
+      "anahtar_en": [
+       "press statement",
+       "economic support"
+      ]
+     },
+     "nerede": {
+      "ad": "Alanya",
+      "ad_en": "Alanya"
+     },
+     "ne": {
+      "ad": "nefes kredisi sitemi",
+      "ad_en": "breath credit complaint"
+     },
+     "gorsel_ipucu_en": [
+      "business association",
+      "press conference",
+      "alanya"
+     ],
+     "alternatif_sorgular_en": [
+      "Turkish business association press conference",
+      "Alanya town view"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "dernek başkanı",
+      "açıklama yapan kişi"
+     ],
+     "gorselde_olmamali": [
+      "yabancı bayrak",
+      "sportif faaliyet"
+     ],
+     "eylem": "nefes kredisinin esnafa ulaşmadığına yönelik sitem ve açıklama",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:34:27+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "altsorgu:a6cfa82245dc": {
+    "sorgular": [
+     "Turkish small business shop",
+     "store counter cash register",
+     "Turkish bazaar market counter"
+    ],
+    "t": "2026-11-08T12:34:44+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:5d678920c31c": {
+    "konu": {
+     "ana_olay": "Mimarlar Odası Antalya Şubesi, Yamansaz bölgesine yönelik yeni imar planı kararlarının ekosisteme etkilerine dikkat çekerek tepki gösterdi.",
+     "odak": "kurum",
+     "kisiler": [],
+     "kurumlar": [
+      "TMMOB Mimarlar Odası Antalya Şubesi",
+      "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "Peyzaj Mimarları Odası",
+      "Antalya Barosu",
+      "Danıştay 6. Dairesi"
+     ],
+     "yer": "Yamansaz",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Mimarlar Odası Antalya Şubesi",
+       "ad_en": "Chamber of Architects Antalya Branch",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Yamansaz",
+       "ad_en": "Yamansaz",
+       "tur": "yer"
+      }
+     ],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Mimarlar Odası Antalya Şubesi",
+      "ad_en": "Chamber of Architects Antalya Branch"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "basın açıklaması",
+       "açıklama"
+      ],
+      "anahtar_en": [
+       "press conference",
+       "statement"
+      ]
+     },
+     "nerede": {
+      "ad": "Yamansaz",
+      "ad_en": "Yamansaz"
+     },
+     "ne": {
+      "ad": "imar planı tepkisi",
+      "ad_en": "zoning plan reaction"
+     },
+     "gorsel_ipucu_en": [
+      "nature",
+      "wetland",
+      "ecosystem"
+     ],
+     "alternatif_sorgular_en": [
+      "Antalya Yamansaz wetland",
+      "nature conservation area Turkey"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "doğal alan",
+      "sulak alan",
+      "ekosistem"
+     ],
+     "gorselde_olmamali": [
+      "bina",
+      "otel",
+      "inşaat"
+     ],
+     "eylem": "imar planı kararlarına tepki gösterme",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:34:57+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "altsorgu:6d5a5b72c0c6": {
+    "sorgular": [
+     "mediterranean wetland landscape Turkey",
+     "natural swamp vegetation Turkey",
+     "protected green ecosystem Turkey"
+    ],
+    "t": "2026-11-08T12:35:01+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:39f39f7db9fa": {
+    "konu": {
+     "ana_olay": "TEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, Antalya'da düzenlenecek COP31 zirvesi öncesinde termik santrallerin ve enerji üretiminin çevreye ile insan sağlığına verdiği zararlara dikkat çekti.",
+     "odak": "kurum",
+     "kisiler": [
+      "Deniz Ataç",
+      "Meliha Okur"
+     ],
+     "kurumlar": [
+      "TEMA Vakfı"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "sağlık",
+     "gercek_arama": "COP31 Antalya",
+     "hedefler": [
+      {
+       "ad": "TEMA Vakfı",
+       "ad_en": "TEMA Foundation",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Deniz Ataç",
+       "rol": "TEMA Vakfı Yönetim Kurulu Başkanı / Chairman of the Board of TEMA Foundation",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "TEMA Vakfı",
+      "ad_en": "TEMA Foundation"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "basın toplantısı",
+       "açıklama"
+      ],
+      "anahtar_en": [
+       "press conference",
+       "statement"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "COP31 zirvesi ve çevre sorunları açıklaması",
+      "ad_en": "COP31 summit and environmental issues statement"
+     },
+     "gorsel_ipucu_en": [
+      "environmental conference",
+      "press conference",
+      "climate summit"
+     ],
+     "alternatif_sorgular_en": [
+      "environmental press conference Turkey",
+      "climate change meeting"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "TEMA Vakfı logosu",
+      "basın toplantısı mikrofonları"
+     ],
+     "gorselde_olmamali": [
+      "farklı kurum logoları"
+     ],
+     "eylem": "çevre sorunları ve COP31 zirvesi üzerine değerlendirmelerde bulunma",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:35:07+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:1d7505190f14": {
+    "konu": {
+     "ana_olay": "Kepez Belediye Meclisi'nin kasım ayı olağan toplantısında, ferdi iskan şartı aranmaksızın genel iskan belgesi ile işyeri açma ve çalışma ruhsatı düzenlenebilmesinin önünü açan İmar Komisyonu Raporu oy",
+     "odak": "kurum",
+     "kisiler": [
+      "Mesut Kocagöz"
+     ],
+     "kurumlar": [
+      "Kepez Belediye Meclisi",
+      "Kepez Belediyesi",
+      "Gelirler Müdürlüğü",
+      "İmar Komisyonu"
+     ],
+     "yer": "Kepez",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Kepez Belediye Meclisi",
+       "ad_en": "Kepez Municipal Council",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Kepez Belediyesi",
+       "ad_en": "Kepez Municipality",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Mesut Kocagöz",
+       "rol": "Kepez Belediye Başkanı / mayor",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Kepez Belediye Meclisi",
+      "ad_en": "Kepez Municipal Council"
+     },
+     "etkinlik": {
+      "tur": "toplantı",
+      "anahtar_tr": [
+       "meclis toplantısı",
+       "belediye meclisi"
+      ],
+      "anahtar_en": [
+       "council meeting",
+       "municipal meeting"
+      ]
+     },
+     "nerede": {
+      "ad": "Kepez",
+      "ad_en": "Kepez"
+     },
+     "ne": {
+      "ad": "ruhsat müjdesi",
+      "ad_en": "business license decision"
+     },
+     "gorsel_ipucu_en": [
+      "municipal council",
+      "council meeting",
+      "politicians"
+     ],
+     "alternatif_sorgular_en": [
+      "municipal council meeting Turkey",
+      "local government meeting"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "belediye meclis salonu",
+      "toplantı masası",
+      "meclis üyeleri"
+     ],
+     "gorselde_olmamali": [
+      "spor salonu",
+      "maç",
+      "protesto kalabalığı"
+     ],
+     "eylem": "işyeri açma ruhsatları raporunun kabul edilmesi",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:35:12+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "altsorgu:c2de255dd670": {
+    "sorgular": [
+     "counting paper money turkish lira",
+     "calculator and money bills close up",
+     "turkish banknotes budgeting calculation"
+    ],
+    "t": "2026-11-08T12:36:04+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:370b0382626e": {
+    "konu": {
+     "ana_olay": "Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara temasları kapsamında TBMM'yi ziyaret ederek siyasi parti temsilcileriyle görüştü.",
+     "odak": "kurum",
+     "kisiler": [
+      "Ercan Yavaş"
+     ],
+     "kurumlar": [
+      "Antalya Genç İş İnsanları Derneği",
+      "ANTGİAD",
+      "Türkiye Büyük Millet Meclisi",
+      "TBMM"
+     ],
+     "yer": "Ankara",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Antalya Genç İş İnsanları Derneği",
+       "ad_en": "Antalya Young Businessmen Association",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Türkiye Büyük Millet Meclisi",
+       "ad_en": "Grand National Assembly of Turkey",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Ercan Yavaş",
+       "rol": "ANTGİAD Yönetim Kurulu Başkanı / president of ANTGİAD",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Antalya Genç İş İnsanları Derneği",
+      "ad_en": "Antalya Young Businessmen Association"
+     },
+     "etkinlik": {
+      "tur": "ziyaret",
+      "anahtar_tr": [
+       "meclis",
+       "ziyaret",
+       "görüşme"
+      ],
+      "anahtar_en": [
+       "parliament",
+       "visit",
+       "meeting"
+      ]
+     },
+     "nerede": {
+      "ad": "Türkiye Büyük Millet Meclisi",
+      "ad_en": "Turkish Parliament"
+     },
+     "ne": {
+      "ad": "siyasi temas",
+      "ad_en": "political visit"
+     },
+     "gorsel_ipucu_en": [
+      "parliament",
+      "politicians",
+      "meeting"
+     ],
+     "alternatif_sorgular_en": [
+      "Turkish parliament building",
+      "politicians meeting in parliament"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "TBMM binası",
+      "siyasi görüşme",
+      "dernek heyeti"
+     ],
+     "gorselde_olmamali": [
+      "yabancı meclis binaları"
+     ],
+     "eylem": "meclis ziyareti ve siyasi görüşmeler",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:36:10+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:41c8fca018ab": {
+    "konu": {
+     "ana_olay": "Antalya Orman İşletme Müdürlüğü, Asar ve Yeşilkaraman şefliklerindeki yanık ibreli ağaçları açık artırmayla satışa çıkarıyor.",
+     "odak": "kurum",
+     "kisiler": [],
+     "kurumlar": [
+      "Antalya Orman Bölge Müdürlüğü",
+      "Antalya Orman İşletme Müdürlüğü",
+      "Asar Orman İşletme Şefliği",
+      "Yeşilkaraman Orman İşletme Şefliği"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "2026-11-18",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "nesne",
+      "ad": "yanık ağaç",
+      "ad_en": "burnt trees"
+     },
+     "etkinlik": {
+      "tur": "ihale",
+      "anahtar_tr": [
+       "ihale",
+       "açık artırma"
+      ],
+      "anahtar_en": [
+       "auction",
+       "sale"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "yanık ağaç satışı",
+      "ad_en": "burnt wood sale"
+     },
+     "gorsel_ipucu_en": [
+      "burnt forest",
+      "burnt trees"
+     ],
+     "alternatif_sorgular_en": [
+      "burnt pine trees Turkey",
+      "forest fire damage trees"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "burnt forest trees",
+       "fire damaged forest"
+      ],
+      "sorgular_tr": [
+       "yanık orman",
+       "yanık ağaçlar"
+      ]
+     },
+     "gorselde_olmali": [
+      "yanık ağaçlar",
+      "yanık orman"
+     ],
+     "gorselde_olmamali": [
+      "orman yangını",
+      "alev"
+     ],
+     "eylem": "yanık ağaçların ihaleyle satışı",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:36:46+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:9e50e5aa0d69": {
+    "konu": {
+     "ana_olay": "Antalya'da artan nüfus ve trafik yoğunluğuna karşı 6 ilçede yeni raylı sistem, otoyol ve kavşak projeleri hayata geçiriliyor.",
+     "odak": "genel",
+     "kisiler": [],
+     "kurumlar": [],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Konyaaltı",
+       "ad_en": "Konyaaltı",
+       "tur": "yer"
+      },
+      {
+       "ad": "Varsak",
+       "ad_en": "Varsak",
+       "tur": "yer"
+      },
+      {
+       "ad": "Serik",
+       "ad_en": "Serik",
+       "tur": "yer"
+      }
+     ],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "nesne",
+      "ad": "ulaşım projesi",
+      "ad_en": "transportation project"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "ulaşım",
+       "proje",
+       "yatırım"
+      ],
+      "anahtar_en": [
+       "transportation",
+       "project",
+       "investment"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "ulaşım yatırımları ve otoyol projeleri",
+      "ad_en": "transportation investments and highway projects"
+     },
+     "gorsel_ipucu_en": [
+      "highway",
+      "road construction",
+      "traffic"
+     ],
+     "alternatif_sorgular_en": [
+      "highway project Turkey",
+      "road construction Antalya",
+      "urban traffic Antalya"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "highway project",
+       "road construction",
+       "modern intersection"
+      ],
+      "sorgular_tr": [
+       "otoyol projesi",
+       "yol yapım çalışması"
+      ]
+     },
+     "gorselde_olmali": [
+      "yol",
+      "otoyol",
+      "trafik"
+     ],
+     "gorselde_olmamali": [
+      "deniz",
+      "plaj"
+     ],
+     "eylem": "ulaşım projeleri ve otoyol yatırımlarının hayata geçirilmesi",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:37:01+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:c272fdce4853": {
+    "konu": {
+     "ana_olay": "Antalya Büyükşehir Belediyesi, çocuk ve yetişkinler için ücretsiz temel eğitim bisiklet kursu düzenliyor.",
+     "odak": "kurum",
+     "kisiler": [],
+     "kurumlar": [
+      "Antalya Büyükşehir Belediyesi",
+      "Antalya Büyükşehir Belediyesi Gençlik ve Spor Başkanlığı"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Antalya Büyükşehir Belediyesi",
+       "ad_en": "Antalya Metropolitan Municipality",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Konyaaltı Kent Park",
+       "ad_en": "Konyaaltı Kent Park",
+       "tur": "yer"
+      },
+      {
+       "ad": "Lara Düden Park",
+       "ad_en": "Lara Duden Park",
+       "tur": "yer"
+      }
+     ],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "ad_en": "Antalya Metropolitan Municipality"
+     },
+     "etkinlik": {
+      "tur": "kurs",
+      "anahtar_tr": [
+       "bisiklet",
+       "kurs",
+       "eğitim"
+      ],
+      "anahtar_en": [
+       "bicycle",
+       "course",
+       "training"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "bisiklet kursu",
+      "ad_en": "bicycle course"
+     },
+     "gorsel_ipucu_en": [
+      "bicycle",
+      "cycling training",
+      "park"
+     ],
+     "alternatif_sorgular_en": [
+      "bicycle training course Turkey",
+      "cycling lesson public park"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "bicycle training course",
+       "people learning to ride bicycles"
+      ],
+      "sorgular_tr": [
+       "bisiklet eğitimi",
+       "bisiklet kursu"
+      ]
+     },
+     "gorselde_olmali": [
+      "bisiklet",
+      "bisiklet eğitimi alan insanlar"
+     ],
+     "gorselde_olmamali": [
+      "motorlu taşıt",
+      "kapalı salon"
+     ],
+     "eylem": "ücretsiz bisiklet kursu kayıtları",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:37:17+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "altsorgu:4ec6326f781d": {
+    "sorgular": [
+     "outdoor bicycle training lesson",
+     "learning to ride bicycle",
+     "kids bicycle riding class"
+    ],
+    "t": "2026-11-08T12:39:08+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:fae7a1a8fcb3": {
+    "konu": {
+     "ana_olay": "Antalya'da COP31 İklim Değişikliği Konferansı öncesi güvenlik önlemleri kapsamında üç avlakta avcılık faaliyetleri geçici olarak durduruldu.",
+     "odak": "olay",
+     "kisiler": [],
+     "kurumlar": [
+      "Antalya Doğa Koruma ve Milli Parklar Müdürlüğü"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "COP31 Antalya",
+     "hedefler": [
+      {
+       "ad": "av yasağı",
+       "ad_en": "hunting ban",
+       "tur": "olay"
+      },
+      {
+       "ad": "Aksu Genel Avlağı",
+       "ad_en": "Aksu General Hunting Ground",
+       "tur": "yer"
+      },
+      {
+       "ad": "Serik Devlet Avlağı",
+       "ad_en": "Serik State Hunting Ground",
+       "tur": "yer"
+      }
+     ],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "olay",
+      "ad": "av yasağı",
+      "ad_en": "hunting ban"
+     },
+     "etkinlik": {
+      "tur": "açıklama",
+      "anahtar_tr": [
+       "güvenlik önlemi",
+       "yasak"
+      ],
+      "anahtar_en": [
+       "security measure",
+       "ban"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "av yasağı",
+      "ad_en": "hunting ban"
+     },
+     "gorsel_ipucu_en": [
+      "hunting ground",
+      "nature reserve",
+      "wildlife area"
+     ],
+     "alternatif_sorgular_en": [
+      "hunting ban Turkey",
+      "wildlife conservation Antalya"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "hunting ban sign",
+       "wildlife conservation area"
+      ],
+      "sorgular_tr": [
+       "av yasağı tabelası",
+       "doğa koruma alanı"
+      ]
+     },
+     "gorselde_olmali": [
+      "avlak sahası",
+      "doğa manzarası"
+     ],
+     "gorselde_olmamali": [
+      "av tüfeği",
+      "vurulmuş hayvan"
+     ],
+     "eylem": "avcılık faaliyetlerine ara verilmesi",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:39:34+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:7f2d56476dca": {
+    "konu": {
+     "ana_olay": "Antalya'da üç yerli film sinemaseverlerle buluştu.",
+     "odak": "genel",
+     "kisiler": [
+      "Ferit Karahan",
+      "Emre Kavuk",
+      "Necmi Sancak"
+     ],
+     "kurumlar": [],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [],
+     "ana_kisiler": [],
+     "ana_ozne": {
+      "tur": "nesne",
+      "ad": "sinema filmi",
+      "ad_en": "cinema film"
+     },
+     "etkinlik": {
+      "tur": "gösterim",
+      "anahtar_tr": [
+       "sinema",
+       "film",
+       "gösterim"
+      ],
+      "anahtar_en": [
+       "cinema",
+       "movie",
+       "screening"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya",
+      "ad_en": "Antalya"
+     },
+     "ne": {
+      "ad": "sinema günleri",
+      "ad_en": "cinema days"
+     },
+     "gorsel_ipucu_en": [
+      "cinema",
+      "movie theater",
+      "film screening"
+     ],
+     "alternatif_sorgular_en": [
+      "cinema screening Turkey",
+      "movie theater audience",
+      "Turkish movie poster"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "cinema auditorium",
+       "movie theater seating",
+       "film screening"
+      ],
+      "sorgular_tr": [
+       "sinema salonu",
+       "film gösterimi"
+      ]
+     },
+     "gorselde_olmali": [
+      "sinema salonu",
+      "film ekranı veya perde",
+      "izleyiciler"
+     ],
+     "gorselde_olmamali": [
+      "açık hava sineması",
+      "tiyatro sahneleri"
+     ],
+     "eylem": "sinema filmlerinin izleyiciyle buluşması",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:40:07+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:3d3a04b3e467": {
+    "konu": {
+     "ana_olay": "Antalya Büyükşehir Belediyesi Engelsiz Hizmet Komisyonu, engelli bireylerin toplumsal hayata katılımı ve yeni projeler görüşmek üzere toplandı.",
+     "odak": "kurum",
+     "kisiler": [
+      "Murat Yavuz"
+     ],
+     "kurumlar": [
+      "Antalya Büyükşehir Belediyesi",
+      "Engelsiz Hizmet Komisyonu",
+      "Sosyal Hizmetler Dairesi Başkanlığı"
+     ],
+     "yer": "Antalya",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Antalya Büyükşehir Belediyesi Engelsiz Hizmet Komisyonu",
+       "ad_en": "Antalya Metropolitan Municipality Barrier-Free Service Commission",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Antalya Büyükşehir Belediyesi",
+       "ad_en": "Antalya Metropolitan Municipality",
+       "tur": "kurum"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Murat Yavuz",
+       "rol": "Sosyal Hizmetler Dairesi Başkanı / Head of Social Services Department",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Antalya Büyükşehir Belediyesi Engelsiz Hizmet Komisyonu",
+      "ad_en": "Antalya Metropolitan Municipality Barrier-Free Service Commission"
+     },
+     "etkinlik": {
+      "tur": "toplantı",
+      "anahtar_tr": [
+       "komisyon",
+       "toplantı",
+       "erişilebilirlik"
+      ],
+      "anahtar_en": [
+       "commission",
+       "meeting",
+       "accessibility"
+      ]
+     },
+     "nerede": {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "ad_en": "Antalya Metropolitan Municipality"
+     },
+     "ne": {
+      "ad": "engelsiz hizmet komisyonu toplantısı",
+      "ad_en": "barrier-free service commission meeting"
+     },
+     "gorsel_ipucu_en": [
+      "meeting",
+      "conference room",
+      "municipality meeting"
+     ],
+     "alternatif_sorgular_en": [
+      "municipal council meeting",
+      "accessibility meeting Turkey"
+     ],
+     "konu_gorseli": {
+      "uygun": true,
+      "sorgular_en": [
+       "accessibility meeting",
+       "disability accessibility project"
+      ],
+      "sorgular_tr": [
+       "erişilebilirlik toplantısı",
+       "engelsiz proje"
+      ]
+     },
+     "gorselde_olmali": [
+      "toplantı masası",
+      "katılımcılar"
+     ],
+     "gorselde_olmamali": [
+      "kaza",
+      "canlı yayın stüdyosu"
+     ],
+     "eylem": "erişilebilirlik çalışmaları ve projelerin görüşülmesi",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:40:24+03:00",
+    "s": "h1-2026-11-07"
+   },
+   "konu:1f5c0ff81433": {
+    "konu": {
+     "ana_olay": "Antalya Ticaret ve Sanayi Odası'nın yeni yönetimi Ankara'da Anıtkabir'i ziyaret etti.",
+     "odak": "kurum",
+     "kisiler": [
+      "Berkay Bahar",
+      "Boğaçhan Göksu",
+      "Aslı Şahin Tekin"
+     ],
+     "kurumlar": [
+      "Antalya Ticaret ve Sanayi Odası",
+      "ATSO"
+     ],
+     "yer": "Ankara",
+     "olay_tarihi": "",
+     "hassas": "yok",
+     "gercek_arama": "",
+     "hedefler": [
+      {
+       "ad": "Antalya Ticaret ve Sanayi Odası",
+       "ad_en": "Antalya Chamber of Commerce and Industry",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Anıtkabir",
+       "ad_en": "Anıtkabir",
+       "tur": "tesis"
+      },
+      {
+       "ad": "Aslanlı Yol",
+       "ad_en": "Aslanlı Yol",
+       "tur": "yol"
+      }
+     ],
+     "ana_kisiler": [
+      {
+       "ad": "Berkay Bahar",
+       "rol": "ATSO Yönetim Kurulu Başkanı / chairman of the board",
+       "kamusal": true,
+       "hassas_rol": ""
+      }
+     ],
+     "ana_ozne": {
+      "tur": "kurum",
+      "ad": "Antalya Ticaret ve Sanayi Odası",
+      "ad_en": "Antalya Chamber of Commerce and Industry"
+     },
+     "etkinlik": {
+      "tur": "ziyaret",
+      "anahtar_tr": [
+       "anıtkabir",
+       "ziyaret",
+       "çelenk"
+      ],
+      "anahtar_en": [
+       "anitkabir",
+       "visit",
+       "wreath"
+      ]
+     },
+     "nerede": {
+      "ad": "Anıtkabir",
+      "ad_en": "Anıtkabir"
+     },
+     "ne": {
+      "ad": "Anıtkabir ziyareti",
+      "ad_en": "Anıtkabir visit"
+     },
+     "gorsel_ipucu_en": [
+      "anıtkabir",
+      "mausoleum",
+      "delegation"
+     ],
+     "alternatif_sorgular_en": [
+      "Anıtkabir official visit",
+      "Anıtkabir delegation wreath"
+     ],
+     "konu_gorseli": {
+      "uygun": false,
+      "sorgular_en": [],
+      "sorgular_tr": []
+     },
+     "gorselde_olmali": [
+      "Anıtkabir",
+      "Atatürk mozolesi",
+      "heyet"
+     ],
+     "gorselde_olmamali": [],
+     "eylem": "Anıtkabir'i ziyaret ederek çelenk koyma",
+     "zaman": "guncel",
+     "spor_dali": "",
+     "takimlar": []
+    },
+    "t": "2026-11-08T12:40:36+03:00",
     "s": "h1-2026-11-07"
    }
   },
@@ -39568,186 +40669,10 @@
    "g9.2-2026-11-05": 10,
    "g9.3-2026-11-05": 13,
    "g9.4-2026-11-05": 258,
-   "h1-2026-11-07": 90,
-   "h1-2026-11-07:bul": 24
+   "h1-2026-11-07": 100,
+   "h1-2026-11-07:bul": 29
   },
   "toplu_son": [
-   {
-    "dosya": "20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95430.md",
-    "kuyruk": "bul",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/spor.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:55:47+03:00"
-   },
-   {
-    "dosya": "20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt-e6439.md",
-    "kuyruk": "bul",
-    "tur": "stok",
-    "alt_tur": "nesne",
-    "gorsel": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:56:08+03:00"
-   },
-   {
-    "dosya": "20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md",
-    "kuyruk": "duzelt",
-    "tur": "arsiv",
-    "alt_tur": "kurum",
-    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:56:37+03:00"
-   },
-   {
-    "dosya": "20261106-cop31-iklim-zirvesinde-ucretsiz-konserler-duzenlenecek-45628.md",
-    "kuyruk": "duzelt",
-    "tur": "stok",
-    "alt_tur": "nesne",
-    "gorsel": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:57:26+03:00"
-   },
-   {
-    "dosya": "20261106-avrupanin-devleri-alanya-sahillerinde-kupa-mucadelesi-veriyo-ca857.md",
-    "kuyruk": "duzelt",
-    "tur": "stok",
-    "alt_tur": "nesne",
-    "gorsel": "https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:57:58+03:00"
-   },
-   {
-    "dosya": "20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md",
-    "kuyruk": "duzelt",
-    "tur": "stok",
-    "alt_tur": "nesne",
-    "gorsel": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:58:03+03:00"
-   },
-   {
-    "dosya": "20261106-antalyanin-merkezindeki-nekropolde-2-bin-300-yillik-lahit-uy-eebff.md",
-    "kuyruk": "duzelt",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/kultur-sanat.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:58:08+03:00"
-   },
-   {
-    "dosya": "20261106-antalyadaki-cop31-surdurulebilir-isleyisle-hayata-gecirilece-e2f4a.md",
-    "kuyruk": "duzelt",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:58:48+03:00"
-   },
-   {
-    "dosya": "20261106-antalyadaki-cop31-icin-hazirlanan-tanitim-filmi-paylasildi-36dac.md",
-    "kuyruk": "duzelt",
-    "tur": "arsiv",
-    "alt_tur": "kisi_genel",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:59:06+03:00"
-   },
-   {
-    "dosya": "20261106-antalyada-cop31-yatirimlari-kalici-merkeze-donusecek-400b3.md",
-    "kuyruk": "duzelt",
-    "tur": "arsiv",
-    "alt_tur": "yer",
-    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-07T23:59:19+03:00"
-   },
-   {
-    "dosya": "20261106-antalyada-cop31-hazirliklari-tamamlandi-ve-ilk-misafirler-ge-069de.md",
-    "kuyruk": "duzelt",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T00:01:42+03:00"
-   },
-   {
-    "dosya": "20261106-antalya-ile-rabat-arasinda-cop31de-is-birligi-imza-altina-al-64030.md",
-    "kuyruk": "duzelt",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/gundem.png",
-    "kapak_nedeni": "gorsel_reddedildi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T00:01:55+03:00"
-   },
-   {
-    "dosya": "20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b-87900.md",
-    "kuyruk": "bul",
-    "tur": "gercek",
-    "alt_tur": "kurum_haber",
-    "gorsel": "/images/kurum/e8244af2b4861d59.jpg",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T11:05:53+03:00"
-   },
-   {
-    "dosya": "20261108-b-hucreli-losemide-tedavi-basarisi-yuzde-90a-ulasti-54790.md",
-    "kuyruk": "bul",
-    "tur": "kategori",
-    "alt_tur": "",
-    "gorsel": "/images/kategori/saglik.png",
-    "kapak_nedeni": "aday_bulunamadi",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T11:05:59+03:00"
-   },
-   {
-    "dosya": "20261108-antalyada-suyun-yuzde-80i-tarimda-kullaniliyor-4b818.md",
-    "kuyruk": "duzelt",
-    "tur": "stok",
-    "alt_tur": "nesne",
-    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T11:06:15+03:00"
-   },
-   {
-    "dosya": "20261108-antalya-havalimaninda-ucakta-teknik-ariza-inis-takimi-hasar-858fa.md",
-    "kuyruk": "duzelt",
-    "tur": "arsiv",
-    "alt_tur": "yer_konu",
-    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "kapak_nedeni": "",
-    "surum": "h1-2026-11-07",
-    "bekliyor": false,
-    "tarih": "2026-11-08T11:07:03+03:00"
-   },
    {
     "dosya": "20261108-antalya-dunyanin-iklim-zirvesi-cop31e-ev-sahipligi-yapiyor-7fa7e.md",
     "kuyruk": "duzelt",
@@ -40231,6 +41156,182 @@
     "surum": "h1-2026-11-07",
     "bekliyor": false,
     "tarih": "2026-11-08T12:11:12+03:00"
+   },
+   {
+    "dosya": "20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md",
+    "kuyruk": "bul",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:34:21+03:00"
+   },
+   {
+    "dosya": "20261107-alanya-is-dunyasindan-nefes-kredisi-tepkisi-adil-finansman-i-4f730.md",
+    "kuyruk": "bul",
+    "tur": "kategori",
+    "alt_tur": "",
+    "gorsel": "/images/kategori/ekonomi.png",
+    "kapak_nedeni": "arama_yapilmadi",
+    "surum": "h1-2026-11-07",
+    "bekliyor": true,
+    "tarih": "2026-11-08T12:34:23+03:00"
+   },
+   {
+    "dosya": "20261107-alanya-esnafindan-nefes-kredisi-sitemi-b4cd2.md",
+    "kuyruk": "bul",
+    "tur": "kategori",
+    "alt_tur": "",
+    "gorsel": "/images/kategori/ekonomi.png",
+    "kapak_nedeni": "gorsel_reddedildi",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:34:55+03:00"
+   },
+   {
+    "dosya": "20261106-yamansazin-imar-plani-degisikliklerine-mimarlar-odasindan-te-8694e.md",
+    "kuyruk": "bul",
+    "tur": "kategori",
+    "alt_tur": "",
+    "gorsel": "/images/kategori/gundem.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:35:06+03:00"
+   },
+   {
+    "dosya": "20261106-tema-vakfindan-cop31-oncesi-carpici-cikis-372c8.md",
+    "kuyruk": "bul",
+    "tur": "kategori",
+    "alt_tur": "",
+    "gorsel": "/images/kategori/gundem.png",
+    "kapak_nedeni": "aday_bulunamadi",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:35:10+03:00"
+   },
+   {
+    "dosya": "20261106-kepez-meclisinden-esnafa-ruhsat-mujdesi-eba62.md",
+    "kuyruk": "bul",
+    "tur": "gercek",
+    "alt_tur": "kurum_haber",
+    "gorsel": "/images/kurum/32ffba764984a559.jpg",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:35:39+03:00"
+   },
+   {
+    "dosya": "20261106-babacandan-yorsiada-ziyaret-64399.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "kisi_genel",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:35:57+03:00"
+   },
+   {
+    "dosya": "20261106-asgari-ucret-tartismalarinda-satin-alma-gucu-ve-enflasyon-vu-1c2b2.md",
+    "kuyruk": "duzelt",
+    "tur": "kategori",
+    "alt_tur": "",
+    "gorsel": "/images/kategori/ekonomi.png",
+    "kapak_nedeni": "gorsel_reddedildi",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:36:07+03:00"
+   },
+   {
+    "dosya": "20261106-antgiaddan-ankarada-diyalog-ve-ortak-akil-vurgusu-eee1b.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "yer_konu",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:36:43+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-yanik-agaclar-ihaleyle-satisa-cikiyor-0498d.md",
+    "kuyruk": "duzelt",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg/1280px-Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:36:59+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-ulasim-atagi-6-ilcede-dev-projeler-yolda-5223f.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "yer_konu",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG/1280px-Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:37:15+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor-05fac.md",
+    "kuyruk": "duzelt",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg/1280px-SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:39:20+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-uc-bolgede-av-yasagi-cop31-oncesi-guvenlik-onlemi-04d2d.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "yer_konu",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/1280px-Turkish_nature_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:40:03+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-sinema-gunleri-uc-film-izleyiciyle-bulustu-01534.md",
+    "kuyruk": "duzelt",
+    "tur": "stok",
+    "alt_tur": "nesne",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:40:22+03:00"
+   },
+   {
+    "dosya": "20261106-antalyada-erisilebilirlik-calismalari-ve-yeni-projeler-masay-f1b77.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "kurum",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:40:34+03:00"
+   },
+   {
+    "dosya": "20261106-antalya-ticaret-ve-sanayi-odasinin-yeni-yonetimi-ankarada-an-5fc85.md",
+    "kuyruk": "duzelt",
+    "tur": "arsiv",
+    "alt_tur": "yer_konu",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/An%C4%B1tkabir_-_Atat%C3%BCrk%E2%80%99s_Tomb.jpg/1280px-An%C4%B1tkabir_-_Atat%C3%BCrk%E2%80%99s_Tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "kapak_nedeni": "",
+    "surum": "h1-2026-11-07",
+    "bekliyor": false,
+    "tarih": "2026-11-08T12:40:48+03:00"
    }
   ],
   "yasakli_surum": "g9",

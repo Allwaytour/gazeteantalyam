@@ -23,20 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 7110dfb903d3
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T21:04:12+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T12:35:07+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Deniz Ataç'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Deniz Ataç'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (environmental activist, nature conservation) ilişkili lisanslı fotoğraf bulunamadı'
+    kod: aday_bulunamadi
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Deniz Ataç'' kurum haberinde başlıkta geçmiyor; ikincil kişinin portresi kullanılmadı; ''TEMA Vakfı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ret sonrası yeni arama yapılmadı: hass'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/tema-vakfi-yonetim-kurulu-baskanindan-insallah-mahcup-oluruz-cikisi/388773
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya'da gerçekleştirilmesi planlanan küresel COP31 zirvesi öncesinde, TEMA Vakfı Genel Merkezi'nde 'Yavaş Ölüm' isimli belgesel izleyiciyle buluştu. Gösterimin ardından TEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, gazeteci Meliha Okur'un sorularını yanıtladı ve yaklaşan iklim zirvesi ile çevre sorunlarına ilişkin değerlendirmelerde bulundu.
 
