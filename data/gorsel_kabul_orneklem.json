@@ -1,0 +1,319 @@
+{
+ "aciklama": "Görsel seçimi kabul testi örneklemi: 26 haber, h2 toplu işlemlerinden önceki durumda (commit 27fa3ff) sabitlendi. Her satırın içeriği ve BAŞLANGIÇ görseli o commit'teki dosyadan alınır ve dosya özetiyle (icerik_sha) doğrulanır; canlı haber dosyaları testi etkilemez. onceki_sonuc: aynı örneklemde önceki sürümün (h1e, deneme 26) sonucu.",
+ "kaynak_commit": "27fa3ff",
+ "satirlar": [
+  {
+   "dosya": "20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md",
+   "icerik_sha": "5f3244022ffbfb95",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md",
+   "icerik_sha": "96758134e40781f2",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261106-manavgatta-genc-milliler-bulustu-8-ulke-turnuvada-ter-doktu-1d3ff.md",
+   "icerik_sha": "1463a51ab5081153",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95430.md",
+   "icerik_sha": "4821060e1ae215f9",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275.md",
+   "icerik_sha": "dbf07b88d579562e",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sinif": "ozne_kisi",
+    "manset": "yan",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md",
+   "icerik_sha": "fcbd36681590db47",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261106-avrupanin-devleri-alanya-sahillerinde-kupa-mucadelesi-veriyo-ca857.md",
+   "icerik_sha": "4c0b9ee03bb0c9c5",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md",
+   "icerik_sha": "6bee2423be6f79e9",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261104-atsodan-bakan-kuruma-aksu-altintas-dosyasi-df983.md",
+   "icerik_sha": "c1971ec120ea6263",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "ozne_kurum",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md",
+   "icerik_sha": "0c2e2a851ded5f04",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "ozne_kurum",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261106-babacandan-yorsiada-ziyaret-64399.md",
+   "icerik_sha": "a02f063e8c626005",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sinif": "ozne_kisi",
+    "manset": "yan",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261106-antalyanin-merkezindeki-nekropolde-2-bin-300-yillik-lahit-uy-eebff.md",
+   "icerik_sha": "54ac7f8716d1b79f",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg/1280px-Antalya_Archaeology_Museum_Medaillon_Sarcophagus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "ozne_kurum",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261106-asgari-ucret-tartismalarinda-satin-alma-gucu-ve-enflasyon-vu-1c2b2.md",
+   "icerik_sha": "6137b5a257e17060",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md",
+   "icerik_sha": "516817177e73876d",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12-85f66.md",
+   "icerik_sha": "9d0c4c9ac656249f",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "ozne_kurum",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi-b2e30.md",
+   "icerik_sha": "69f6e7ab0bb9394e",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "konu",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51cd5.md",
+   "icerik_sha": "fbc61f141ac27aa3",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-antalyada-greenpeaceten-cop31-oncesi-pankartli-eylem-5b7fb.md",
+   "icerik_sha": "a41f3e7b3aeeeb41",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag-99653.md",
+   "icerik_sha": "f3d3ea8b43b192e7",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "ozne_kurum",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261107-fenerbahce-corum-fk-deplasmaninda-78952.md",
+   "icerik_sha": "ffb2d3f8d50a7856",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sinif": "ozne_kisi",
+    "manset": "yan",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261107-korkutelinde-su-kesintisi-uyarisi-3ee2c.md",
+   "icerik_sha": "219df757600310cd",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "gorsel_reddedildi"
+   }
+  },
+  {
+   "dosya": "20261106-antalyaspor-ve-alanyaspordan-4-futbolcu-umit-milli-takim-kad-d3d42.md",
+   "icerik_sha": "4e1c3b17af2047ca",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "aday_bulunamadi"
+   }
+  },
+  {
+   "dosya": "20261107-alanyada-ceren-karadayinin-olumune-verilen-hapis-cezasina-an-3a86c.md",
+   "icerik_sha": "bcc9f4feb56a3595",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "kategori",
+    "gorsel": "",
+    "sinif": null,
+    "manset": null,
+    "kapak_nedeni": "aday_bulunamadi"
+   }
+  },
+  {
+   "dosya": "20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv-ea8ae.md",
+   "icerik_sha": "618ca2cde6819c98",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "stok",
+    "gorsel": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3NDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "sinif": "konu",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md",
+   "icerik_sha": "b905dcc331b2a0c2",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "stok",
+    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sinif": "konu",
+    "manset": "kaplama",
+    "kapak_nedeni": null
+   }
+  },
+  {
+   "dosya": "20261031-bakan-kurum-antalyadaki-cop31-zirvesinde-konya-da-yer-alacak-4c9ec.md",
+   "icerik_sha": "0810db7765746e22",
+   "onceki_sonuc": {
+    "surum": "h1e (deneme 26)",
+    "tur": "arsiv",
+    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sinif": "ozne_kisi",
+    "manset": "yan",
+    "kapak_nedeni": null
+   }
+  }
+ ],
+ "imza": "f5aea6d5b3ee"
+}
