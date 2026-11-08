@@ -2527,6 +2527,7 @@ def kuyruk_turu(v):
     """Toplu işlemde haberin hangi kuyruğa girdiği:
     'duzelt'   — otomatik fotoğrafı bu hatla henüz değerlendirilmemiş (açıkça yanlışsa kaldırılır/düzeltilir, uygunsa korunur);
     'bul'      — fotoğrafsız; bu arama sürümüyle (gorsel_hat.ARAMA_SURUM) henüz aranmamış;
+    'kural'    — fotoğraf onaylı ama kabul kuralları sonradan değişti: kayıtlı inceleme yanıtlarıyla (Gemini'siz) yeniden denetlenir;
     'yerlesim' — fotoğraf bu hatla onaylı, yalnızca yerleşim kaydı eski (yapay zekâ gerekmez, kayıtlı kutulardan yeniden hesaplanır);
     None       — işlem gerekmez. Bu hatla onaylanmış fotoğraf her turda yeniden değerlendirilmez."""
     import gorsel_hat as gh
@@ -2547,6 +2548,8 @@ def kuyruk_turu(v):
             return temel
     if str(s.get("hat", "")).startswith("h"):
         if fotolu:
+            if s.get("kabul_kurali") != gh.KABUL_KURALI:
+                return "kural"
             return "yerlesim" if (v.get("gorsel_yerlesim") or {}).get("surum") != gh.YERLESIM_SURUM else None
         return "bul" if s.get("arama_surum") != gh.ARAMA_SURUM else None
     return temel if (s.get("surum") != KURAL_SURUMU or not fotolu) else None
@@ -2586,8 +2589,8 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
               + [d for d in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(d, str)]):
         if a in tum and a not in oncelikli:
             oncelikli.append(a)
-    sinirlar = {"duzelt": limit, "bul": int(bag.ayar.get("gorsel_bulma_tur", 6)), "yerlesim": 60}
-    sayilar = {"duzelt": 0, "bul": 0, "yerlesim": 0}
+    sinirlar = {"duzelt": limit, "bul": int(bag.ayar.get("gorsel_bulma_tur", 6)), "yerlesim": 60, "kural": 80}
+    sayilar = {"duzelt": 0, "bul": 0, "yerlesim": 0, "kural": 0}
     yeniden_no = f"{KURAL_SURUMU}:{bag.ayar.get('gorsel_yeniden_no', 1)}"
     for ad in oncelikli + [a for a in tum if a not in oncelikli]:
         if all(sayilar[k] >= sinirlar[k] for k in sinirlar):
@@ -2612,6 +2615,22 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
                     md_yaz(yol, v, govde)
                     sayilar["yerlesim"] += 1
                 continue
+            if tur == "kural":
+                if sayilar["kural"] >= sinirlar["kural"] or yalniz_bekleyen:
+                    continue
+                import gorsel_hat as gh
+                ob = bag.onbellek_al("konu:" + imza(KURAL_SURUMU, v.get("title", ""), v.get("ozet", "")))
+                konu_k = (konu_dogrula(ob["konu"]) or ob["konu"]) if ob and ob.get("konu") else None
+                ned = gh.kural_denetimi(v, konu_k) if konu_k else None
+                sayilar["kural"] += 1
+                if ned == []:
+                    v["gorsel_secim"]["kabul_kurali"] = gh.KABUL_KURALI
+                    if (v.get("gorsel_yerlesim") or {}).get("surum") != gh.YERLESIM_SURUM:
+                        yerlesim_yenile(v)
+                    md_yaz(yol, v, govde)
+                    continue
+                print(f"Kural denetimi ({ad}): " + ("; ".join(n for _, n in ned)[:160] if ned else "kayıt eksik") + " → yeniden değerlendirilecek")
+                tur = "duzelt"         # açıkça kurala uymayan ya da kaydı eksik onaylı fotoğraf tam değerlendirmeye girer
             if yalniz_bekleyen and not (isinstance(v.get("gorsel_secim"), dict) and v["gorsel_secim"].get("bekliyor")):
                 continue
             if sayilar[tur] >= sinirlar[tur] or (not zorla and bekleyen_deneme_yakin(v)):
@@ -2677,7 +2696,9 @@ def deneme_calistir(bag, dosyalar, onceki=None, sure=600):
         if ad in hazir:                    # önceki turda tamamlanan satır yeniden çalıştırılmaz
             satirlar.append(hazir[ad])
             continue
-        if time.time() - baslangic > sure:  # tur süresi aşılmasın: kalanlar sonraki turda
+        pay = 2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))
+        if time.time() - baslangic > sure or not bag.yz_hakki(pay):
+            # tur süresi aşılmasın; günlük görsel hakkının yeni haberlere ayrılan payı deneme için kullanılmaz: kalanlar sonraki turda
             satirlar.append({"dosya": ad, "sonuc": "sırada (sonraki turda değerlendirilecek)", "bekliyor": True})
             continue
         yol = os.path.join(HABER_KLASOR, ad)

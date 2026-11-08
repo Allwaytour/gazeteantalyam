@@ -50,6 +50,7 @@ ICERIK_SURUM = "i3"        # fotoğrafın kendisine ait inceleme (tür, dönem, 
 ILISKI_SURUM = "r1"        # haber–fotoğraf ilişkisi sorusunun sürümü: aynı haber + aynı fotoğraf + aynı sürüm → kayıtlı yanıt kullanılır
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y3"      # y3: dikey portre için küçük kart varyantı (kart_portre)
+KABUL_KURALI = "k2"        # kabul kurallarının sürümü: değişince onaylı fotoğraflar kayıtlı yanıtlarla (Gemini'siz) yeniden denetlenir
 ARAMA_SURUM = "a2"         # aday arama yeteneği: değişince fotoğrafsız haberler (ikinci kuyruk) bir kez yeniden aranır
 KUTUPHANE_DOSYA = os.path.join(gs.KOK, "data", "gorsel_kutuphanesi.json")
 
@@ -190,7 +191,10 @@ def kutuphane_adaylari(konu):
                 for alan in ("kurumlar", "takimlar", "tesisler", "yerler"):
                     if ad and any(ad_ayni(ad, x.get("ad", "")) for x in kim.get(alan) or []):
                         neden, sinif = f"kütüphane: {alan[:-3]} kimliği '{ad}'", "ozne_kurum"
-        if not neden and gerekli and not kurum_izinli:
+        kimlikli = any(kim.get(x) for x in ("kisiler", "kurumlar", "takimlar", "tesisler", "yerler"))
+        if not neden and gerekli and not kurum_izinli and r.get("alt_tur") == "nesne" and not kimlikli and r.get("sahne_turu") != "portre":
+            # Konu eşleşmesiyle yalnızca kimliği olmayan nesne/konu kareleri başka habere aday olur; belirli bir yerin (Manavgat'taki
+            # cami, Alanya'nın genel görünümü), kurumun ya da kişinin karesi konu benzerliği yüzünden başka bir haberde kullanılmaz.
             konular = " | ".join(r.get("konular") or [])
             if all(any(gs.kok(w) in {gs.kok(x) for x in gs.kelimeler(konular)} for w in gs.kelimeler(u) if len(w) > 3) for u in gerekli):
                 neden, sinif = "kütüphane: somut konu (" + ", ".join(gerekli[:2]) + ")", "konu"
@@ -664,13 +668,25 @@ def karar(a, konu):
                 ned.append(("konu", "yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor"))
             if konu.get("hassas", "yok") != "yok" and ic.get("yuz_belirgin"):
                 ned.append(("konu", "hassas haberde temsilî karede tanınabilir kişi"))
+            if sinif == "konu" and a.get("alt_tur") == "yer_konu" and a.get("gosterim_ad"):
+                # belirli bir yerin (ilçe, mekân) karesi yalnızca haberin geçtiği yerde kullanılır: Serik'teki olaya Manavgat'taki cami değil
+                yerler = [(konu.get("nerede") or {}).get("ad", ""), konu.get("yer", "")] + \
+                    [h.get("ad", "") for h in konu.get("hedefler") or [] if h.get("tur") in ("yer", "tesis")]
+                if _k(a["gosterim_ad"]) != "antalya" and not any(ad_ayni(a["gosterim_ad"], y) for y in yerler if y):
+                    ned.append(("konu", f"fotoğraf başka bir yere ait ({a['gosterim_ad']}); haberin geçtiği yer değil"))
+            if sinif == "konu" and ic.get("sahne_turu") == "portre":
+                ned.append(("konu", "temsilî fotoğraf belirli bir kişinin portresi"))
+            if sinif == "konu" and gs.TOPLANTI.search(f"{a.get('gosterim_ad') or ''} {a.get('hedef') or ''}"):
+                # açıklama/toplantı/konuşma haberinde konuşma eyleminin genel karesi (mikrofon, kürsü) habere bilgi katmaz: dolgu görsel
+                ned.append(("konu", "açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)"))
             adli = bool(konu.get("ana_kisiler") or konu.get("kisiler") or ana_ozne(konu).get("tur") == "kisi")
             if sinif == "konu" and adli and ic.get("yuz_belirgin") and ic.get("kisi_sayisi", 0) <= 3:
                 ned.append(("konu", "temsilî fotoğrafta tanınabilir kişi (haberde adı geçen kişi sanılabilir)"))
     kurum_izinli = a.get("alt_tur") == "kurum_haber" or (a.get("lisans") or "").strip() == "Kurum izniyle"
     if kurum_izinli and sinif != "ayni_olay" and ic.get("sahne_turu") != "notr_yapi_tesis":
         ned.append(("lisans", "kurum izniyle alınan olay karesi başka haberde kullanılamaz (yalnızca olaysız bina/tesis karesi)"))
-    esik = {"yer_genel": 7, "yer": 7, "konu": 6, "mekan": 6}.get(sinif, 5)
+    # habere uygunluk eşiği: temsilî ve kurum fotoğrafında 7 (modelin "doğrudan yansıtmıyor" dediği 5-6 puanlık kareler dolgu sayılır)
+    esik = {"yer_genel": 7, "yer": 7, "konu": 7, "ozne_kurum": 7, "mekan": 6}.get(sinif, 5)
     alan = (a.get("sinyal") or {}).get("konu_alani")
     if sinif in ("ayni_olay", "konu") and alan is not None and alan < 0.05:
         esik = max(esik, 8)             # konu karede küçükse fotoğrafın haberi doğrudan anlattığına dair daha güçlü yanıt aranır
@@ -814,6 +830,7 @@ def secim_yap(bag, a, kimza, konu):
         s.pop("konum", None)
     s["sinif"] = a["sinif"]
     s["hat"] = HAT_SURUM
+    s["kabul_kurali"] = KABUL_KURALI
     s["yerlesim"] = a["yerlesim"]
     s["inceleme"] = {"teknik": a.get("teknik"), "icerik": {k: (a.get("icerik") or {}).get(k) for k in ("sahne", "nesneler", "tur", "donem")},
                      "iliski": a.get("iliski")}
@@ -877,6 +894,20 @@ def kapak(haber, kimza, gerekce, kontrol, kod, aciklama, bekliyor=False):
     if bekliyor:
         s["bekliyor"] = True
     return s
+
+
+def kural_denetimi(v, konu):
+    """Onaylı fotoğrafa güncel kabul kurallarını Gemini'ye sormadan, kayıtlı inceleme yanıtlarıyla uygular.
+    Dönüş: nedenler listesi ([] → kurallara uyuyor) ya da None (kayıt eksik; tam yeniden değerlendirme gerekir)."""
+    s = v.get("gorsel_secim") or {}
+    ic = (kutuphane()["inceleme"].get(gorsel_kimligi(v.get("gorsel", ""))) or {}).get("icerik")
+    inc = s.get("inceleme") or {}
+    if not ic or not inc.get("iliski") or not s.get("sinif"):
+        return None
+    a = {"sinif": s["sinif"], "icerik": ic, "iliski": inc["iliski"], "teknik_bayrak": teknik_bayraklar(inc["teknik"]) if inc.get("teknik") else {},
+         "alt_tur": s.get("alt_tur", ""), "lisans": s.get("lisans", ""), "gosterim_ad": s.get("gosterilen", ""), "hedef": s.get("gosterilen", ""),
+         "izin_kapsami": s.get("izin_kapsami", ""), "mevcut": True}
+    return karar(a, konu)
 
 
 def mevcut_aday(eski, konu):
