@@ -19,23 +19,73 @@ gorsel_secim:
   kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   gosterilen: Kepez Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: 'Haber Kepez Belediyesi sitesinde bulundu (metin benzerliği %88); fotoğraf kurumun kendi sayfasından; görsel kontrol: Kepez Drag Pisti''ndeki yarışları doğrudan gösteren, haberle tam uyumlu güncel bir görseldir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Haberin konusu olan Kepez Drag Pisti'ndeki yarışları doğrudan ve eksiksiz göstermektedir.
+  surum: h1-2026-11-07
   konu_imza: 64b34d286754
   gorsel_url: /images/kurum/415e8b37beec347b.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T18:53:16+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T14:07:46+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   alt_tur: kurum_haber
   izin_kontrolu:
     kendi_fotografi: fotoğraf kurumun kendi sunucusunda (www.kepez-bld.gov.tr); sayfada ajans kredisi yok
     yeniden_kullanim: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
     izin_kaydi: Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)
     kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
-  kurum: k4
+  sinif: ayni_olay
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 800
+      - 533
+      parlaklik: 158
+      medyan: 168
+      karanlik_oran: 0.046
+      kontrast: 53
+      doygunluk: 12.8
+      keskinlik: 1328
+      s: t1
+    icerik:
+      sahne: Kepez Drag Pisti'nde yarışan otomobiller ve izleyiciler
+      nesneler:
+      - yarış arabası
+      - asfalt pist
+      - briket bariyer
+      - izleyici tribünü
+      - bayrak
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: true
+      gerekli:
+      - unsur: drag yarışı pisti
+        var: true
+      - unsur: yarış arabaları
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 390
+      - 342
+      - 471
+      - 715
+      uygunluk: 10
+      gerekce: Haberin konusu olan Kepez Drag Pisti'ndeki yarışları doğrudan ve eksiksiz göstermektedir.
+  arama_surum: a2
+  kurum: k5
   kurum_notu: Kepez Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
 manset: false
 son_dakika: false
@@ -51,6 +101,20 @@ etiketler:
 - Mesut Kocagöz
 - Türkiye Otomobil Sporları Federasyonu
 - Kepez Belediyesi
+gorsel_yerlesim:
+  boyut:
+  - 800
+  - 533
+  dikey: false
+  surum: y3
+  manset: ''
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_kart_p: 100% 50%
+  url: /images/kurum/415e8b37beec347b.jpg
 ---
 Antalya'nın Kepez ilçesi, hafta sonu motor sporları tutkunlarını buluşturacak önemli bir organizasyona ev sahipliği yapmaya hazırlanıyor. Türkiye Otomobil Sporları Federasyonu organizatörlüğünde gerçekleştirilecek Türkiye OtoDrag Şampiyonası 4. Ayak yarışları, 7-8 Kasım 2026 tarihlerinde Kepez Yeni Drag Pisti'nde sporseverlerle buluşacak. Ülkenin farklı illerinden gelen sporcular, yüksek performanslı araçlarıyla dereceye girebilmek için pistte ter dökecek.
 

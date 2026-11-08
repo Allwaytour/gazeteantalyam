@@ -146,6 +146,9 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 18% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+etiketler:
+- Cem Kotan
+- Konyaaltı Belediyesi
 ---
 Antalya'nın kültür ve sanat yaşamına renk katacak olan 3. Uluslararası Halk Dansları Kültür Festivali için geri sayım başladı. Konyaaltı Belediyesi ev sahipliğinde gerçekleşecek olan etkinlik, 8 Kasım Pazar günü saat 14.00 itibarıyla HayatPark'ta ziyaretçilerini ağırlamaya başlayacak. Farklı ülkelerden ve yörelerden gelen halk oyunları topluluklarının sahne alacağı festival, katılımcılara zengin bir kültürel şölen sunmayı hedefliyor.
 

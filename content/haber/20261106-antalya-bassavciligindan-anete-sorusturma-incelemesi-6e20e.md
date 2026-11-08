@@ -25,28 +25,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 3bef3559b0f8
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T13:37:16+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T14:03:42+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya'' için konuyla (document) ilişkili lisanslı fotoğraf bulunamadı'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Anet,_Cimeti%C3%A8re,_Monument_de_Diane_de_Poitiers_7.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Anet,_Cimeti%C3%A8re,_Monument_de_Diane_de_Poitiers_3.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    aciklama: habere uygunluk düşük (0/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -55,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/savciliktan-anete-inceleme
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya Cumhuriyet Başsavcılığı tarafından yürütülen 2026/38132 sayılı soruşturma doğrultusunda, Antalya İl Emniyet Müdürlüğü aracılığıyla Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü'ne resmi bilgi ve belge talebi iletildi. 28 Ekim 2026 tarihli emniyet yazısına dayanarak 2 Kasım'da ilgili birimlere gönderilen yazıda, ANET Antalya İnşaat Turizm Sanayi ve Ticaret Anonim Şirketi'nin 2020 ile 2025 yılları arasındaki çeşitli mali ve idari işlemlerine ait kayıtların temin edilmesi istendi.
 

@@ -23,37 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 5 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 8 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 9b5513850189
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-06T20:20:01+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T14:04:01+03:00'
+    yontem: h2
     model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '5 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur; haberin konusuyla doğrud'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Ursula von der Leyen'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı'
-    elenenler:
-    - sayfa: https://www.antalya.bel.tr/tr/haber-detay/antalya-buyuksehir-belediyesi-cop31de-toplam-72-etkinlikte-yer-alacak
-      katman: kurum_haber
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Gemi denetim merkezi COP31 konfera
-    - sayfa: https://commons.wikimedia.org/wiki/File:European_Union_-_Egypt_Locator.png
-      katman: kurum
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-    - sayfa: https://commons.wikimedia.org/wiki/File:European_Union_Georgia_Locator.png
-      katman: kurum
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-    - sayfa: https://commons.wikimedia.org/wiki/File:II._Attalos_Heykeli_ve_Antalya_Saat_Kulesi.JPG
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10); haberin gerektirdiği unsur görünmüyor (Avrupa Birliği bayrağı, konferans salonu) — Antalya'nın g
-    - sayfa: https://commons.wikimedia.org/wiki/File:Antalya_17.JPG
-      katman: yer_konu
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Avrupa Birliği bayrağı, konferans salonu) — Antalya sahil
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (1/10, en az 5); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (1/10, en az 8); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (2/10, en az 8); habere uygunluk düşük (3/10, en az 6); haberin konusu fotoğrafın
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -62,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Haberler
 kaynak_url: https://www.haberler.com/ekonomi/ab-antalya-daki-cop31-de-temiz-enerji-ve-iklim-20402898-haberi/
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Avrupa Birliği, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda küresel iklim eylemini hızlandırmak ve Paris Anlaşması hedeflerini hayata geçirmek amacıyla uluslararası ortaklarıyla çalışacağını bildirdi. AB Komisyonu tarafından yapılan açıklamada, 9-20 Kasım tarihlerinde düzenlenecek zirve öncesinde Birliğin öncelikleri ve katılım programı paylaşıldı.
 

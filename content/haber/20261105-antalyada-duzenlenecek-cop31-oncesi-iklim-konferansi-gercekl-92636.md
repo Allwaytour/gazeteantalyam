@@ -18,27 +18,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 2e69cdbac817
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
+    yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T22:32:30+03:00'
-    yontem: Gemini görsel kontrol
+    tarih: '2026-11-08T14:05:04+03:00'
+    yontem: h2
     model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
-  kurum_notu: Antalya Valiliği sayfası aynı haber değil (benzerlik %57); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50)
+  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %64); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfasında haber fotoğrafı yok (11 görsel; ); kurum sayfası okunamadı (Antalya Valiliği): H'
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %57); Alanya Belediyesi sayfası aynı haber değil (benzerlik %50); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Yolunda Bölgesel İklim İş Birliği Konferansı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c4
+    aciklama: aşırı karanlık (medyan parlaklık 53, karanlık pay %46); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

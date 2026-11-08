@@ -144,6 +144,8 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 46% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/86/Step_Aerobics_Class_at_a_Gym.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+etiketler:
+- Kepez Belediyesi
 ---
 Kepez Belediyesi, ilçe sakinlerini hareketli bir yaşamla buluşturmak için yeni bir projeyi hayata geçiriyor. 'Sağlıklı Bir Kepez' sloganıyla başlatılan çalışma kapsamında, vatandaşlara yönelik ücretsiz step aerobik ve pilates dersleri verilecek. Sporun birleştirici gücünden faydalanmayı hedefleyen etkinlikler, katılımcıların hem fiziksel sağlıklarını korumalarına hem de sosyalleşmelerine olanak tanıyacak.
 

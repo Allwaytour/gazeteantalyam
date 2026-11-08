@@ -2,38 +2,41 @@
 title: 'Eğitim Sen''den COP31 Kararlarına Tepki: Eğitim Hakkı ve Eşitlik Göz Ardı Edilmemeli'
 date: '2026-11-05T16:23:00+03:00'
 ozet: Antalya'da COP31 Zirvesi nedeniyle 7 ilçede eğitime ara verilmesini eleştiren Eğitim Sen, kararların eğitimde eşitsizliği derinleştirdiğini savundu.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/1280px-Palamuse_kihelkonnakooli_klassiruum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Rauno Kalda / Wikimedia Commons (CC BY-SA 3.0 ee)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Palamuse_kihelkonnakooli_klassiruum.jpg
-  fotografci: Rauno Kalda
-  kredi: Rauno Kalda / Wikimedia Commons (CC BY-SA 3.0 ee)
-  lisans: CC BY-SA 3.0 ee
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0/ee/deed.en
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: eğitimde uzaktan eğitim kararı
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''classroom'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Temsili bir sınıf ortamı, eğitim haberleri için uygun ve nötr bir görseldir.'
-  surum: g9.4-2026-11-05
-  konu_imza: fd5043038812
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/1280px-Palamuse_kihelkonnakooli_klassiruum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gerekce: 5 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
+  konu_imza: d02d264a2cb5
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T21:48:00+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Palamuse Parish School's classroom. This 19th century classroom is now a part of a museum that bears the name of writer Oskar Luts , who studied there and wrote
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T14:10:10+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18)
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18); Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %0)
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: uzaktan eğitim ekranı; görselde olmaması gereken unsur: uzaktan eğitim ekranı, COP31 logosu; habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 5); habere uygunluk düşük (5/10, en az 8); ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -89,6 +92,36 @@ gorsel_gecmis:
         neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
     kapak_surum: c2
   degisim: '2026-11-05T21:48:00+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/1280px-Palamuse_kihelkonnakooli_klassiruum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Rauno Kalda / Wikimedia Commons (CC BY-SA 3.0 ee)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Palamuse_kihelkonnakooli_klassiruum.jpg
+    fotografci: Rauno Kalda
+    kredi: Rauno Kalda / Wikimedia Commons (CC BY-SA 3.0 ee)
+    lisans: CC BY-SA 3.0 ee
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0/ee/deed.en
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: eğitimde uzaktan eğitim kararı
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''classroom'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Temsili bir sınıf ortamı, eğitim haberleri için uygun ve nötr bir görseldir.'
+    surum: g9.4-2026-11-05
+    konu_imza: fd5043038812
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Palamuse_kihelkonnakooli_klassiruum.jpg/1280px-Palamuse_kihelkonnakooli_klassiruum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T21:48:00+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Palamuse Parish School's classroom. This 19th century classroom is now a part of a museum that bears the name of writer Oskar Luts , who studied there and wrote
+    kurum: k5
+    kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18)
+  degisim: '2026-11-08T14:12:07+03:00'
 etiketler:
 - Eğitim Sen
 - Antalya Valiliği

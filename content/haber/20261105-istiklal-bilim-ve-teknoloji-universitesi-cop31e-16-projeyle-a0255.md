@@ -18,22 +18,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 9 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: e11d50673d18
   gorsel_url: /images/kategori/egitim.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T22:32:27+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T14:04:30+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (exhibition pavilion, science project) ilişkili lisanslı fotoğraf buluna'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''İstiklal Bilim ve Teknoloji Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (exhibition pavilion, science project) ilişkili lisanslı fotoğraf bulunamadı; ''COP31 proje sergisi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: science project exhibition)'
-  kapak_surum: c4
+    kod: gorsel_reddedildi
+    aciklama: aşırı karanlık (medyan parlaklık 29, karanlık pay %86); aşırı karanlık (medyan parlaklık 44, karanlık pay %55); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (1/10, en az 7); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (4/10, en az 6); habere uygunluk düşük (6/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilg
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
