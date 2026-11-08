@@ -7147,6 +7147,103 @@
    },
    "url": "https://images.unsplash.com/photo-1775566416223-d5bea6a9d305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dHJhZGl0aW9uYWwlMjB3ZWRkaW5nJTIwYnJpZGUlMjBncm9vbXxlbnwxfDB8fHwxNzk0MTM5OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "202b4f8e275a6d1c": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     0,
+     600,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "ağaçlar",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konyaaltı sahil şeridi ve deniz manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "hava durumu",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza",
+     "suç",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:56967ab8340b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı sahili genel görünümü, ancak denize giren insanlar görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "denize giren insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       0,
+       600,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:35:27+03:00"
+    }
+   },
+   "t": "2026-11-08T20:35:27+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.163,
+    "keskinlik": 1465,
+    "kontrast": 73,
+    "medyan": 173,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Konyaalt%C4%B1_Beach.jpg/1280px-Konyaalt%C4%B1_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "204d7e5e84500d97": {
    "icerik": {
     "ana_kutu": [
@@ -10405,6 +10502,36 @@
      },
      "t": "2026-11-08T14:08:10+03:00"
     },
+    "r1:d14cc213345b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber medya buluşması ile ilgili, gemi görseli konuyla tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "gazeteciler",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:33:32+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10492,7 +10619,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T18:03:22+03:00",
+   "t": "2026-11-08T20:33:32+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -30618,9 +30745,48 @@
       "yasak": []
      },
      "t": "2026-11-08T11:37:37+03:00"
+    },
+    "r1:56967ab8340b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Sahil yürüyüş yolunda insanlar var ancak denize giren kimse görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "denize giren insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       500,
+       800,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:35:27+03:00"
     }
    },
-   "t": "2026-11-08T11:37:37+03:00",
+   "t": "2026-11-08T20:35:27+03:00",
    "teknik": {
     "doygunluk": 41.3,
     "inen": [
@@ -31474,6 +31640,36 @@
      },
      "t": "2026-11-08T12:34:41+03:00"
     },
+    "r1:d14cc213345b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber medya buluşması ile ilgili, paraşüt görseli konuyla tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "gazeteciler",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:33:32+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31561,7 +31757,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T18:03:22+03:00",
+   "t": "2026-11-08T20:33:32+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -37989,6 +38185,36 @@
      },
      "t": "2026-11-08T12:34:55+03:00"
     },
+    "r1:d14cc213345b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece Alanya'yı gösteren genel bir manzara, toplantı içeriğini yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "gazeteciler",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:33:32+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -38076,7 +38302,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T18:03:30+03:00",
+   "t": "2026-11-08T20:33:32+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -38748,9 +38974,48 @@
       "yasak": []
      },
      "t": "2026-11-08T11:37:48+03:00"
+    },
+    "r1:56967ab8340b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı sahili genel görünümü, ancak denize giren insanlar görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "denize giren insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:35:27+03:00"
     }
    },
-   "t": "2026-11-08T11:37:48+03:00",
+   "t": "2026-11-08T20:35:27+03:00",
    "teknik": {
     "doygunluk": 25.2,
     "inen": [
@@ -39604,6 +39869,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a3e89360677120d9": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     0,
+     600,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "ağaçlar",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konyaaltı sahil şeridi ve deniz manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "hava durumu",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza",
+     "suç",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:56967ab8340b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı sahili genel görünümü, ancak denize giren insanlar görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "denize giren insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       0,
+       600,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:35:27+03:00"
+    }
+   },
+   "t": "2026-11-08T20:35:27+03:00",
+   "teknik": {
+    "doygunluk": 18.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 1405,
+    "kontrast": 60,
+    "medyan": 129,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Konyaalt%C4%B1_Beach_with_railings.jpg/1280px-Konyaalt%C4%B1_Beach_with_railings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a449d608a1e5dafc": {
    "icerik": {
@@ -43549,6 +43911,36 @@
      },
      "t": "2026-11-07T23:57:34+03:00"
     },
+    "r1:d14cc213345b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber medya buluşması ile ilgili, voleybol maçı görseli konuyla tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "gazeteciler",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:33:32+03:00"
+    },
     "r1:d76e42a35633:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -43672,7 +44064,7 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T18:03:22+03:00",
+   "t": "2026-11-08T20:33:32+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -56217,9 +56609,48 @@
       "yasak": []
      },
      "t": "2026-11-08T11:37:37+03:00"
+    },
+    "r1:56967ab8340b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sahil kenarında bir kafe ve garson görülüyor, denize giren kimse yok.",
+      "gerekli": [
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "denize giren insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       850,
+       870,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:35:27+03:00"
     }
    },
-   "t": "2026-11-08T11:37:37+03:00",
+   "t": "2026-11-08T20:35:27+03:00",
    "teknik": {
     "doygunluk": 19.2,
     "inen": [
@@ -56562,6 +56993,118 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1581404788767-726320400cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3R1ZGVudHMlMjBoYWlyJTIwc3R5bGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQxMzI2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "edc95e11ecca2846": {
+   "icerik": {
+    "ana_kutu": [
+     215,
+     205,
+     870,
+     845
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "masa",
+     "belge",
+     "sandalye",
+     "poster"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ofis ortamında çalışan üç kişi, belgeleri inceliyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi haber",
+     "gazetecilik tarihi",
+     "arşiv dosyası"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel etkinlik",
+     "Alanya haberleri",
+     "KGK buluşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      320,
+      385,
+      520,
+      510
+     ],
+     [
+      215,
+      540,
+      415,
+      635
+     ],
+     [
+      325,
+      665,
+      525,
+      785
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d14cc213345b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf çok eski, siyah-beyaz ve yabancı bir döneme ait; güncel Alanya buluşmasını temsil edemez.",
+      "gerekli": [
+       {
+        "unsur": "gazeteciler",
+        "var": true
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       215,
+       205,
+       870,
+       845
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T20:34:45+03:00"
+    }
+   },
+   "t": "2026-11-08T20:34:45+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     398
+    ],
+    "karanlik_oran": 0.203,
+    "keskinlik": 1659,
+    "kontrast": 60,
+    "medyan": 109,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/New_York_Post_journalist_Ted_Poston_working_at_the_Office_of_War_Information_with_his_assistants_William_Clark_and_Harriette_Easterlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "edf29c0e9242d8c0": {
    "icerik": {
@@ -65836,6 +66379,72 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T15:14:26+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "a0c4fa6780628c11": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "2022-02-18",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya falezler, Türk bayrağı, sahil ve yol manzarası",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-08T20:35:27+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "MrEfeS / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "MrEfeS",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Konyaalt%C4%B1_Beach_and_cliffs.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Konyaaltı Sahili",
+      "qid": "Q2493895"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "araba",
+    "bina",
+    "deniz",
+    "falez",
+    "sahil",
+    "türk bayrağı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Konyaalt%C4%B1_Beach_and_cliffs.jpg/500px-Konyaalt%C4%B1_Beach_and_cliffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "antalya",
+    "turizm",
+    "şehir manzarası"
+   ],
+   "kullanilamaz": [
+    "eylem"
+   ],
+   "notr_portre": false,
+   "qid": "Q2493895",
+   "sahne_turu": "manzara",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-08T20:35:27+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Konyaalt%C4%B1_Beach_and_cliffs.jpg/1280px-Konyaalt%C4%B1_Beach_and_cliffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
