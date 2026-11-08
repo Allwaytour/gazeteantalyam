@@ -85,6 +85,7 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kabul_kurali: k2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

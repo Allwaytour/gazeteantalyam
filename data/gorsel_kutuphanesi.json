@@ -32363,6 +32363,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Antalya_Museum_room_2249.jpg/1280px-Antalya_Museum_room_2249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "81df7d471a2fca5c": {
+   "icerik": {
+    "ana_kutu": [
+     540,
+     170,
+     950,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "metal kapı",
+     "arazi",
+     "tepe",
+     "otlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal bir arazide metal bir kapı ve arkasında tepelik bir manzara",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doğa haberi",
+     "kırsal yaşam",
+     "tarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "toplu taşıma haberi",
+     "şehir içi ulaşım",
+     "teknoloji haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:509f8b33422d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta tramvay bulunmamaktadır, haberin konusuyla hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "tramvay",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:38:28+03:00"
+    }
+   },
+   "t": "2026-11-08T21:38:28+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.119,
+    "keskinlik": 3118,
+    "kontrast": 70,
+    "medyan": 147,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Modern_field_clearance_cairn_next_to_the_Gorseddau_Tramway_-_geograph.org.uk_-_1815085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8227e57e0bfc56de": {
    "icerik": {
     "ana_kutu": [
@@ -33772,6 +33856,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8989cc34d36ae222": {
+   "icerik": {
+    "ana_kutu": [
+     415,
+     145,
+     830,
+     705
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "tramvay",
+     "ray",
+     "elektrik telleri",
+     "durak",
+     "minare"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İstasyon durağında bekleyen modern bir tramvay aracı",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "toplu taşıma haberi",
+     "raylı sistem haberi",
+     "şehir içi ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "siyasi protesto",
+     "doğa haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:509f8b33422d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tramvay görseli haberin konusuyla doğrudan ilgili ve temsilî olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "tramvay",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       415,
+       145,
+       830,
+       705
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:38:28+03:00"
+    }
+   },
+   "t": "2026-11-08T21:38:28+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.165,
+    "keskinlik": 2392,
+    "kontrast": 60,
+    "medyan": 160,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Istanbul_modern_tramway_%282831766741%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "89a937c0dc91b884": {
    "icerik": {
     "ana_kutu": [
@@ -34146,6 +34320,27 @@
     ]
    },
    "iliski": {
+    "r1:805d48e384e8:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi fotoğrafta yer almamaktadır, başka bir devlet ziyareti karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:37:34+03:00"
+    },
     "r1:82372dd2a25f:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -34177,7 +34372,7 @@
      "t": "2026-11-08T12:35:57+03:00"
     }
    },
-   "t": "2026-11-08T12:35:57+03:00",
+   "t": "2026-11-08T21:37:34+03:00",
    "teknik": {
     "doygunluk": 37.0,
     "inen": [
@@ -49333,6 +49528,32 @@
      },
      "t": "2026-11-08T15:15:03+03:00"
     },
+    "r1:805d48e384e8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan yabancı delegelerin olduğu, başka bir toplantıya ait temsilî karedir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:37:34+03:00"
+    },
     "r1:86ede938cd6d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -49486,7 +49707,7 @@
      "t": "2026-11-08T21:03:09+03:00"
     }
    },
-   "t": "2026-11-08T21:03:09+03:00",
+   "t": "2026-11-08T21:37:34+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -53626,6 +53847,32 @@
      },
      "t": "2026-11-08T13:42:57+03:00"
     },
+    "r1:805d48e384e8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla tamamen alakasız bir kuaför hizmeti karesidir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:37:34+03:00"
+    },
     "r1:91eabebdea84:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -53688,7 +53935,7 @@
      "t": "2026-11-08T13:11:31+03:00"
     }
    },
-   "t": "2026-11-08T14:07:46+03:00",
+   "t": "2026-11-08T21:37:34+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -58821,6 +59068,32 @@
      },
      "t": "2026-11-08T13:08:26+03:00"
     },
+    "r1:805d48e384e8:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski tarihli, yurt dışı arka planlı ve haberle ilgisiz bir kişiyle çekilmiş arşiv karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       130,
+       310,
+       980,
+       580
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:37:34+03:00"
+    },
     "r1:82372dd2a25f:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -58848,7 +59121,7 @@
      "t": "2026-11-08T12:35:57+03:00"
     }
    },
-   "t": "2026-11-08T13:08:26+03:00",
+   "t": "2026-11-08T21:37:34+03:00",
    "teknik": {
     "doygunluk": 27.3,
     "inen": [
@@ -61464,6 +61737,32 @@
      },
      "t": "2026-11-08T13:08:26+03:00"
     },
+    "r1:805d48e384e8:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin güncel ve net bir portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       150,
+       900,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T21:37:34+03:00"
+    },
     "r1:82372dd2a25f:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -61491,7 +61790,7 @@
      "t": "2026-11-08T12:35:57+03:00"
     }
    },
-   "t": "2026-11-08T13:08:26+03:00",
+   "t": "2026-11-08T21:37:34+03:00",
    "teknik": {
     "doygunluk": 58.1,
     "inen": [
@@ -66489,6 +66788,67 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "8989cc34d36ae222": {
+   "alt_tur": "nesne",
+   "boyut": [
+    1280,
+    960
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2005-08-08",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "İstasyon durağında bekleyen modern bir tramvay aracı",
+   "gosterim_ad": "tramvay sefer düzenlemesi",
+   "ilk_kabul": "2026-11-08T21:38:28+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "mwanasimba from La Réunion / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "mwanasimba from La Réunion",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Istanbul_modern_tramway_(2831766741).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "durak",
+    "elektrik telleri",
+    "minare",
+    "ray",
+    "tramvay"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbul_modern_tramway_%282831766741%29.jpg/500px-Istanbul_modern_tramway_%282831766741%29.jpg",
+   "kullanilabilir": [
+    "toplu taşıma haberi",
+    "raylı sistem haberi",
+    "şehir içi ulaşım"
+   ],
+   "kullanilamaz": [
+    "kaza haberi",
+    "siyasi protesto",
+    "doğa haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T21:38:28+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Istanbul_modern_tramway_%282831766741%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "8bd0cd3e783e8f44": {
    "alt_tur": "yer_konu",
    "boyut": [
@@ -69830,7 +70190,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-07T21:37:08+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 7,
+   "kabul_sayisi": 8,
    "kaynak": {
     "atif": "Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -69874,7 +70234,7 @@
    "qid": "Q714518",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-08T13:08:26+03:00",
+   "son_kabul": "2026-11-08T21:37:34+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",

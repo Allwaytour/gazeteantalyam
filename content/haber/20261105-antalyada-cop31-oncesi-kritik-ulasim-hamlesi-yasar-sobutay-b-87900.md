@@ -88,6 +88,7 @@ gorsel_secim:
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   zorla: h1-2026-11-07:12
+  kabul_kurali: k2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
