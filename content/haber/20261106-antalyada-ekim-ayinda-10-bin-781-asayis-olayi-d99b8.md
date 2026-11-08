@@ -25,20 +25,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 91eabebdea84
   gorsel_url: /images/kategori/asayis.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T13:25:35+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T13:36:17+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Valiliği; Alanya Belediyesi sayfası aynı haber değil (benzerlik %47); kaynak görseli kullanılmadı: Demirören Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Antalya Valiliği; Alanya Belediyesi sayfası aynı haber değil (benzerlik %47); kaynak görseli kullanılmadı: Demirören Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    kod: gorsel_reddedildi
+    aciklama: 'habere uygunluk düşük (0/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: toplantı masası, açıklama yapan vali'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -47,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: DHA | Demirören Haber Ajansı
 kaynak_url: https://www.dha.com.tr/yerel-haberler/antalya/antalyada-ekim-ayinda-10-bin-781-asayis-olayi-2976359
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya Valiliği Hükümet Konağı'nda İçişleri Bakanlığı'nın projeleri kapsamında Antalya'nın Huzuru Güvenlik ve Asayiş Bilgilendirme Toplantısı gerçekleştirildi. Toplantıda ekim ayı güvenlik ve asayiş verileri kamuoyuyla paylaşıldı. Kent genelinde bir ay içinde 10 bin 781 asayiş olayı yaşandığı ve bu olayların yüzde 99,5 oranında aydınlatıldığı bildirildi. Gerçekleşen olayların 3 bin 763'ünü kişilere, 1279'unu malvarlığına, 126'sını millete ve devlete, 1660'ını topluma karşı işlenen suçlar oluştururken, 3 bin 953 olay takibi gereken suçlar arasında yer aldı. Yürütülen çalışmalarda çeşitli suçlardan aranan 4 bin 838 kişi yakalandı ve bunlardan 691'i tutuklandı.
 

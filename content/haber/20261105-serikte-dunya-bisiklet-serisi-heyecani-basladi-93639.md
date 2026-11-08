@@ -115,6 +115,9 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 58% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg/1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Uluslararası Bisiklet Birliği
+- UCI Gran Fondo World Series
 ---
 Serik, bu yıl ilk kez düzenlenen UCI Gran Fondo World Series Türkiye organizasyonuna ev sahipliği yapıyor. 5-8 Kasım tarihleri arasında gerçekleştirilen dev organizasyon, The Land of Legends'ta kurulan Expo Alanı'nın açılışı ve yarış kitlerinin dağıtımıyla başladı. 40'ı aşkın ülkeden 1000'den fazla bisikletçiyi bir araya getiren etkinlik, ilk gün düzenlenen 'Go Türkiye- Go Cycling' paneliyle spor dünyasının dikkatini bölgeye çekti.
 

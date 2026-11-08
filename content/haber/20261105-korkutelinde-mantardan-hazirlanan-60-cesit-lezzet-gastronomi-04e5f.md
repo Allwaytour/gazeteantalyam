@@ -2,8 +2,8 @@
 title: Korkuteli'nde mantardan hazırlanan 60 çeşit lezzet gastronomiye kazandırılıyor
 date: '2026-11-05T08:24:05+03:00'
 ozet: Antalya'nın Korkuteli ilçesinde uzun yıllardır sürdürülen mantar üretimi, zengin tariflerle hazırlanan yemeklere dönüşerek ziyaretçilerin beğenisine sunuluyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Nowforever / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Dhivya Bharathi Official / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -11,27 +11,73 @@ ilceler:
 gorsel_tur: stok
 gorsel_secim:
   tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Cooked_champignon_mushroom.jpg
-  fotografci: Nowforever
-  kredi: Nowforever / Wikimedia Commons (CC BY-SA 4.0)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Natural_Mushroom_fry.jpg
+  fotografci: Dhivya Bharathi Official
+  kredi: Dhivya Bharathi Official / Wikimedia Commons (CC BY-SA 4.0)
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: mantar yemekleri
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''cooked mushrooms'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Haberin konusu olan mantar yemeklerini net ve iştah açıcı bir şekilde temsil eden uygun bir görseldir.'
-  surum: g9.4-2026-11-05
+  gerekce: 'Commons dosya kaydında ''mushroom dishes'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Mantar pişirme aşamasını gösterdiği için gastronomi haberine uygundur.'
+  surum: h1-2026-11-07
   konu_imza: 3efc149c5f58
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T20:30:04+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T13:40:56+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   aciklama: Temsilî fotoğraf
   alt_tur: nesne
-  kaynak_aciklama: champignon mushroom
+  kaynak_aciklama: Natural mushroom
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 375
+      parlaklik: 118
+      medyan: 120
+      karanlik_oran: 0.112
+      kontrast: 52
+      doygunluk: 23.2
+      keskinlik: 2954
+      s: t1
+    icerik:
+      sahne: Tavada pişmekte olan mantar ve biber parçaları
+      nesneler:
+      - tava
+      - mantar
+      - biber
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: mantar
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 146
+      - 32
+      - 824
+      - 931
+      uygunluk: 9
+      gerekce: Mantar pişirme aşamasını gösterdiği için gastronomi haberine uygundur.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
@@ -74,6 +120,58 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
   degisim: '2026-11-05T20:30:04+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Nowforever / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Cooked_champignon_mushroom.jpg
+    fotografci: Nowforever
+    kredi: Nowforever / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: mantar yemekleri
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''cooked mushrooms'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Haberin konusu olan mantar yemeklerini net ve iştah açıcı bir şekilde temsil eden uygun bir görseldir.'
+    surum: g9.4-2026-11-05
+    konu_imza: 3efc149c5f58
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T20:30:04+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: champignon mushroom
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T13:40:56+03:00'
+gorsel_yerlesim:
+  boyut:
+  - 4080
+  - 3060
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 46% 50%
+  o_mansetyan_m: 46% 50%
+  o_yan_d: 50% 86%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 41%
+  o_kart_p: 46% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Korkuteli ilçesinde yaklaşık 40 yıldır sürdürülen mantar üretimi, farklı tariflerle gastronomiye kazandırılıyor. Bölgede yetiştirilen kültür ve istiridye mantarları, yerel işletmelerde hazırlanan 60 çeşit yemekle misafirlerin beğenisine sunuluyor.
 

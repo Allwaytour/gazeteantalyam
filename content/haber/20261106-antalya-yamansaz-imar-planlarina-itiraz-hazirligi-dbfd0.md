@@ -24,20 +24,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 6cbef80154eb
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T17:01:03+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T13:36:31+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Güzeloba Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Güzeloba Mahallesi'' için konuyla (wetland, reed bed,'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Güzeloba Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Güzeloba Mahallesi'' için konuyla (wetland, reed bed, nature reserve) ilişkili lisanslı fotoğraf bulunamadı'
+    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yamansaz Doğal Sit Alanı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Güzeloba Mahallesi'' için konuyla (wetland, natural area, construction site) ilişkili lisanslı fotoğraf bulunam'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/cevre-bakanliginin-askidaki-yamansaz-planlarina-itiraz-yolda/388770
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Antalya’nın Muratpaşa ilçesinde yer alan Güzeloba Mahallesi sınırlarındaki Yamansaz Doğal Sit Alanı için hazırlanan yeni imar planı değişiklikleri Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylandı. Sürdürülebilir Koruma ve Kontrollü Kullanım Alanı sınırlarını kapsayan 1/25.000, 1/5.000 ve 1/1.000 ölçekli planlar bir aylık süreyle askıya çıkarıldı. Bölgeye getirilen kullanım koşulları ve yapılaşma şartları tartışmalara neden oldu.
 

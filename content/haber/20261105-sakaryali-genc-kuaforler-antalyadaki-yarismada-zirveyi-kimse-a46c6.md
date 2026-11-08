@@ -77,6 +77,11 @@ gorsel_gecmis:
     kaynak_aciklama: a woman getting her hair done by a hair stylist
     kurum: k5
   degisim: '2026-11-08T13:11:42+03:00'
+etiketler:
+- Ayhan Ersoy
+- My Akademi
+- Sakarya Mesleki Eğitim Merkezi (MESEM)
+- Erenler İlçe Millî Eğitim Müdürlüğü
 ---
 Antalya'da My Akademi tarafından organize edilen ve Türkiye genelinden yaklaşık 100 öğrencinin katılımıyla gerçekleşen ulusal saç kesim yarışması, genç yeteneklerin kıyasıya rekabetine sahne oldu. Mesleki becerilerini ve yaratıcılıklarını sergileme fırsatı bulan öğrenciler, tasarımlarıyla jüri üyelerini etkilemek için ter döktü.
 

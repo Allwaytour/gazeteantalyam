@@ -533,6 +533,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Konya_9.jpg/1280px-Konya_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0632616cc6c5c7ad": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     92,
+     856,
+     747
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kaya mezarı maketi",
+     "aslan figürü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaya mezarı dioramı modeli",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "arkeoloji",
+     "tarih",
+     "müze sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel olay",
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:15e06c44cf16:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Her ne kadar mezar içerse de, müzedeki bir kaya mezarı maketidir ve anma töreni haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "mezar",
+        "var": true
+       },
+       {
+        "unsur": "anma töreni",
+        "var": false
+       },
+       {
+        "unsur": "çiçek",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:38+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:38+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 2608,
+    "kontrast": 45,
+    "medyan": 109,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Antalya_Museum_Diorama_of_Lycian_rock_graves_6473.jpg/1280px-Antalya_Museum_Diorama_of_Lycian_rock_graves_6473.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "081f987ccb1dc8b6": {
    "icerik": {
     "ana_kutu": [
@@ -900,6 +990,193 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hadrian%27s_Gate%2C_Antalya_06.jpg/1280px-Hadrian%27s_Gate%2C_Antalya_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0a67f89be4a26e84": {
+   "icerik": {
+    "ana_kutu": [
+     336,
+     360,
+     624,
+     703
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çayırkoşarı kuşu",
+     "otlar",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "otluk alanda duran çayırkoşarı kuşu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kuş gözlemciliği",
+     "doğa haberleri",
+     "biyoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir haberleri",
+     "politika",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3b4874c1ce89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan çayırkoşarı kuşu görülüyor ancak gözlemci veya dürbün gibi unsurlar yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "çayırkoşarı kuşu",
+        "var": true
+       },
+       {
+        "unsur": "kuş gözlemcisi",
+        "var": false
+       },
+       {
+        "unsur": "dürbün",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       336,
+       360,
+       624,
+       703
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:39:40+03:00"
+    }
+   },
+   "t": "2026-11-08T13:39:40+03:00",
+   "teknik": {
+    "doygunluk": 41.6,
+    "inen": [
+     500,
+     380
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 485,
+    "kontrast": 14,
+    "medyan": 141,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Buff_breasted_sandpiper_15.jpg/1280px-Buff_breasted_sandpiper_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0ab8510b1aaf7b80": {
+   "icerik": {
+    "ana_kutu": [
+     141,
+     131,
+     853,
+     787
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ip",
+     "denge çubuğu",
+     "şapka"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gün batımında ip üzerinde dengede duran ip cambazı kız",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sirk gösterisi",
+     "sokak sanatları",
+     "akrobasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "halk dansları festivali",
+     "konser",
+     "tiyatro"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61f1ee39f211:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki ip cambazı akrobasisi halk dansları festivali haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "halk dansları ekibi",
+        "var": false
+       },
+       {
+        "unsur": "sahne gösterisi",
+        "var": false
+       },
+       {
+        "unsur": "geleneksel kıyafetler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:41:22+03:00"
+    }
+   },
+   "t": "2026-11-08T13:41:22+03:00",
+   "teknik": {
+    "doygunluk": 73.4,
+    "inen": [
+     500,
+     307
+    ],
+    "karanlik_oran": 0.121,
+    "keskinlik": 297,
+    "kontrast": 32,
+    "medyan": 70,
+    "parlaklik": 72,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Indian_tightrope_girl_performing_folk_art_Baunsa_Rani_%28Crop_2%29.jpg/1280px-Indian_tightrope_girl_performing_folk_art_Baunsa_Rani_%28Crop_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0b4e3961db1d844e": {
    "icerik": {
@@ -3113,6 +3390,23 @@
    },
    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "157f039ecf99ae4f": {
+   "t": "2026-11-08T13:42:36+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.689,
+    "keskinlik": 2188,
+    "kontrast": 49,
+    "medyan": 32,
+    "parlaklik": 52,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/US_Navy_090701-N-6604E-087_Sailors_aboard_the_aircraft_carrier_USS_Dwight_D._Eisenhower_%28CVN_69%29_participate_in_a_step_aerobics_class_to_music_from_the_Michael_Jackson_album.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "158dade3ea092d42": {
    "t": "2026-11-08T12:11:07+03:00",
    "teknik": {
@@ -3274,6 +3568,94 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Singapore_Symphony_Orchestra_-_Concert_in_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "177b179634d304cf": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     38,
+     976,
+     823
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tencere",
+     "mantar yemeği",
+     "kepçe sapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tencerede pişen mantar çorbası veya yemeği",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yemek tarifi",
+     "gastronomi",
+     "çorba yeme kültürü"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "maç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3efc149c5f58:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tencerede pişen mantar yemeğini gösterdiği için konuyla uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "mantar yemekleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       28,
+       38,
+       976,
+       823
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:56+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:56+03:00",
+   "teknik": {
+    "doygunluk": 23.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.034,
+    "keskinlik": 2275,
+    "kontrast": 56,
+    "medyan": 113,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_mushrooms_are_cooked._%2810393002196%29.jpg/1280px-The_mushrooms_are_cooked._%2810393002196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "192e6aa9feb529ff": {
    "icerik": {
@@ -4556,6 +4938,27 @@
      },
      "t": "2026-11-07T23:59:06+03:00"
     },
+    "r1:24c577389570:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya veya sıfır atıkla ilgili değil, uluslararası bir iklim ziyaretini gösteriyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:35:44+03:00"
+    },
     "r1:5b9ac698b69f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -4751,7 +5154,7 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T12:04:28+03:00",
+   "t": "2026-11-08T13:35:44+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -6053,6 +6456,81 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg/1280px-Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2aecb8f1d9986719": {
+   "icerik": {
+    "ana_kutu": [
+     440,
+     570,
+     624,
+     706
+    ],
+    "bulanik": true,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "palmiye",
+     "asfalt yol",
+     "güneş"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gün batımında hareket halindeki araçtan çekilmiş palmiyeli yol manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bulanık yol manzarası sıfır atık ve başvuru haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "çevre bilinci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:11+03:00"
+    }
+   },
+   "t": "2026-11-08T13:36:11+03:00",
+   "teknik": {
+    "doygunluk": 37.8,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.39,
+    "keskinlik": 211,
+    "kontrast": 63,
+    "medyan": 85,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Antalya_G%C3%BCn_Do%C4%9Fumu.jpg/1280px-Antalya_G%C3%BCn_Do%C4%9Fumu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2b6b99fc42d6ca91": {
    "icerik": {
     "ana_kutu": [
@@ -6293,6 +6771,96 @@
    },
    "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "2c853fba2a274a9e": {
+   "icerik": {
+    "ana_kutu": [
+     14,
+     219,
+     1000,
+     517
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "seramik vazo",
+     "sergi standı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen antik seramik kaplar",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih haberi",
+     "müze tanıtımı",
+     "arkeoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "güncel anma töreni",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:15e06c44cf16:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik bir müze objesidir, haberdeki anma töreniyle veya mezarla doğrudan bir ilişkisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "mezar",
+        "var": false
+       },
+       {
+        "unsur": "anma töreni",
+        "var": false
+       },
+       {
+        "unsur": "çiçek",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:38+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:38+03:00",
+   "teknik": {
+    "doygunluk": 15.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.063,
+    "keskinlik": 536,
+    "kontrast": 39,
+    "medyan": 127,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Antalya_Museum_Lekythos_3_Classical_period_5793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "2d3fa5fb552d8658": {
    "icerik": {
     "ana_kutu": [
@@ -6478,6 +7046,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_04.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2ea8d073c52c16f8": {
+   "icerik": {
+    "ana_kutu": [
+     25,
+     105,
+     830,
+     785
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "pilates ekipmanı",
+     "bosu topu",
+     "spor kıyafeti",
+     "spor ayakkabı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kişi spor salonunda pilates ekipmanı üzerinde egzersiz yapıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "sağlıklı yaşam",
+     "pilates eğitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pilates yapan kişiyi gösteriyor ancak yabancı bir kurumun (US Navy) görseli olması nedeniyle uygunluk kırıldı.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       25,
+       105,
+       830,
+       785
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:35+03:00"
+    }
+   },
+   "t": "2026-11-08T13:42:35+03:00",
+   "teknik": {
+    "doygunluk": 46.3,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 1487,
+    "kontrast": 63,
+    "medyan": 147,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg/1280px-US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2f31d88e297d139b": {
    "icerik": {
@@ -6715,6 +7372,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan spor kurslarıyla hiçbir ilgisi olmayan bir arazi manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:35+03:00"
+    },
     "r1:750916d5f299:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -6747,7 +7430,7 @@
      "t": "2026-11-08T13:10:53+03:00"
     }
    },
-   "t": "2026-11-08T13:10:53+03:00",
+   "t": "2026-11-08T13:42:35+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -6762,6 +7445,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/07630_A%C5%9Fa%C4%9F%C4%B1a%C5%9F%C4%B1klar-Akseki-Antalya%2C_Turkey_-_panoramio.jpg/1280px-07630_A%C5%9Fa%C4%9F%C4%B1a%C5%9F%C4%B1klar-Akseki-Antalya%2C_Turkey_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "30d254b672bd4903": {
+   "icerik": {
+    "ana_kutu": [
+     146,
+     32,
+     824,
+     931
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tava",
+     "mantar",
+     "biber"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tavada pişmekte olan mantar ve biber parçaları",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yemek hazırlama",
+     "gastronomi haberi",
+     "tarif"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3efc149c5f58:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mantar pişirme aşamasını gösterdiği için gastronomi haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "mantar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       146,
+       32,
+       824,
+       931
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:56+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:56+03:00",
+   "teknik": {
+    "doygunluk": 23.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 2954,
+    "kontrast": 52,
+    "medyan": 120,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "31fd8d0b946c62fb": {
    "icerik": {
@@ -8404,6 +9175,41 @@
     ]
    },
    "iliski": {
+    "r1:61f1ee39f211:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sahhnede geleneksel kıyafetlerle halk oyunları oynayan dansçılar açıkça görülüyor, festival haberi için tamamen uygun.",
+      "gerekli": [
+       {
+        "unsur": "sahne gösterisi",
+        "var": true
+       },
+       {
+        "unsur": "geleneksel kıyafetler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:41:15+03:00"
+    },
     "r1:e6f55c815c8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8440,7 +9246,7 @@
      "t": "2026-11-08T12:11:12+03:00"
     }
    },
-   "t": "2026-11-08T12:11:12+03:00",
+   "t": "2026-11-08T13:41:22+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -10849,6 +11655,85 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "508c6baffd5be284": {
+   "icerik": {
+    "ana_kutu": [
+     132,
+     168,
+     976,
+     804
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "geri dönüşüm kutusu",
+     "geri dönüşüm amblemi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap kaplamalı iki geri dönüşüm kutusu",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm kutuları ve üzerindeki sıfır atık simgesi temsilî haber görseli olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sıfır atık sembolü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       132,
+       168,
+       976,
+       804
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:11+03:00"
+    }
+   },
+   "t": "2026-11-08T13:36:11+03:00",
+   "teknik": {
+    "doygunluk": 24.8,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 3090,
+    "kontrast": 55,
+    "medyan": 123,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "50e46cb12123ce1c": {
    "icerik": {
     "ana_kutu": null,
@@ -11327,6 +12212,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg/1280px-Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "542d1a447aab19b4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "demir parmaklik",
+     "kapI",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Demir parmaklikli kapisi olan bir okul binasi girisi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "okul haberleri",
+     "egitim haberleri",
+     "bina guvenligi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3a3956c22c4d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotograftaki okul ve tabela baska bir okula ait olup haberdeki Kestel Ortaokulu ile ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Kestel Ortaokulu binasi",
+        "var": false
+       },
+       {
+        "unsur": "muhür veya şerit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:33:42+03:00"
+    }
+   },
+   "t": "2026-11-08T13:33:42+03:00",
+   "teknik": {
+    "doygunluk": 14.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.071,
+    "keskinlik": 2300,
+    "kontrast": 61,
+    "medyan": 144,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg/1280px-T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5526a1445f7b90e8": {
    "icerik": {
@@ -12373,6 +13345,32 @@
     ]
    },
    "iliski": {
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bisiklet süren bir çocuk, pilates veya aerobik kursuyla ilgili değildir.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:35+03:00"
+    },
     "r1:d6d2afc555e0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -12409,7 +13407,7 @@
      "t": "2026-11-08T12:39:20+03:00"
     }
    },
-   "t": "2026-11-08T12:39:20+03:00",
+   "t": "2026-11-08T13:42:35+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -12835,6 +13833,95 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMHByb3Rlc3QlMjBiYW5uZXIlMjBzYW5kfGVufDF8MHx8fDE3OTQxMjcwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "64696d5c1741985a": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "dağ",
+     "bina",
+     "sahil",
+     "deniz",
+     "plaj şemsiyesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağlar kenarındaki sahil şeridi, binalar ve turkuaz deniz görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "şehir tanıtımı",
+     "sahil manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "halk dansları festivali",
+     "spor müsabakası",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61f1ee39f211:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yalnızca sahil ve şehir manzarasını gösteriyor, halk dansları festivaliyle ilgili hiçbir unsur içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "halk dansları ekibi",
+        "var": false
+       },
+       {
+        "unsur": "sahne gösterisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:41:15+03:00"
+    }
+   },
+   "t": "2026-11-08T13:41:22+03:00",
+   "teknik": {
+    "doygunluk": 50.1,
+    "inen": [
+     1024,
+     1024
+    ],
+    "karanlik_oran": 0.011,
+    "keskinlik": 1229,
+    "kontrast": 53,
+    "medyan": 118,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "/images/kurum/e3c7221701dca071.jpg"
   },
   "6497172fa9907532": {
    "icerik": {
@@ -14105,6 +15192,41 @@
     ]
    },
    "iliski": {
+    "r1:a3af9f45c1ee:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel yemek hazırlama sahnesi ve gastronomi standı haberi temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "geleneksel yemekler",
+        "var": true
+       },
+       {
+        "unsur": "gastronomi standı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:39:17+03:00"
+    },
     "r1:c41213dd07bb:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -14145,7 +15267,7 @@
      "t": "2026-11-08T10:04:10+03:00"
     }
    },
-   "t": "2026-11-08T10:04:10+03:00",
+   "t": "2026-11-08T13:39:17+03:00",
    "teknik": {
     "doygunluk": 33.7,
     "inen": [
@@ -14583,6 +15705,96 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Yacht_rent_in_turkey_03112023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "708f55f54689b651": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     38,
+     976,
+     921
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mantar çeşitleri",
+     "tahta",
+     "bıçak",
+     "kaşık",
+     "tabak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masada çeşitli mantarlar, kesme tahtası, bıçak ve mutfak malzemeleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mantar çeşitleri",
+     "yemek hazırlığı",
+     "gastronomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3efc149c5f58:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Farklı mantar çeşitlerini ve mutfak hazırlığını göstermesi açısından kısmen uygundur.",
+      "gerekli": [
+       {
+        "unsur": "mantar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       38,
+       976,
+       921
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:56+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:56+03:00",
+   "teknik": {
+    "doygunluk": 15.0,
+    "inen": [
+     400,
+     280
+    ],
+    "karanlik_oran": 0.032,
+    "keskinlik": 1075,
+    "kontrast": 57,
+    "medyan": 230,
+    "parlaklik": 207,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1583328656355-c9594923462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bXVzaHJvb20lMjBkaXNoZXN8ZW58MXwwfHx8MTc5NDEzNDQ0NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "7195fd0c99005d02": {
    "icerik": {
     "ana_kutu": [
@@ -14676,6 +15888,127 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDEyNzIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "71ffac03e3c94699": {
+   "icerik": {
+    "ana_kutu": [
+     197,
+     6,
+     685,
+     893
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "davul",
+     "geleneksel kıyafet",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel kıyafetli halk dansları ekibi ve müzisyenler açık alanda dans ediyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "halk dansları festivali",
+     "kültür sanat",
+     "geleneksel etkinlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      319,
+      331,
+      347,
+      354
+     ],
+     [
+      308,
+      288,
+      335,
+      320
+     ],
+     [
+      327,
+      455,
+      363,
+      484
+     ],
+     [
+      335,
+      523,
+      380,
+      551
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:61f1ee39f211:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel kıyafetli halk dansları ekibi ve müzisyenler festival haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "halk dansları ekibi",
+        "var": true
+       },
+       {
+        "unsur": "sahne gösterisi",
+        "var": true
+       },
+       {
+        "unsur": "geleneksel kıyafetler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       197,
+       6,
+       685,
+       893
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:41:22+03:00"
+    }
+   },
+   "t": "2026-11-08T13:41:22+03:00",
+   "teknik": {
+    "doygunluk": 44.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 4361,
+    "kontrast": 64,
+    "medyan": 139,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Odisha%27s_traditional_Sambalpuri_folk_dance_performing_by_local_tribal_people%2C_the_culture_of_Odisha_state.jpg/1280px-Odisha%27s_traditional_Sambalpuri_folk_dance_performing_by_local_tribal_people%2C_the_culture_of_Odisha_state.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7216f9555aa9f0d0": {
    "icerik": {
@@ -14905,9 +16238,35 @@
       "yasak": []
      },
      "t": "2026-11-08T11:11:16+03:00"
+    },
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya yat limanı genel bir mekandır, spor kursu etkinliğini yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:35+03:00"
     }
    },
-   "t": "2026-11-08T11:11:16+03:00",
+   "t": "2026-11-08T13:42:35+03:00",
    "teknik": {
     "doygunluk": 19.8,
     "inen": [
@@ -15440,6 +16799,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/TC-SMI_AIRCRAFT_Boeing_737_MAX_8_%281d%29.jpg/1280px-TC-SMI_AIRCRAFT_Boeing_737_MAX_8_%281d%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "756361482c1b0001": {
+   "icerik": {
+    "ana_kutu": [
+     90,
+     96,
+     922,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mantar",
+     "tabak",
+     "çatal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz tabakta sotelenmiş mantar yemekleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "gastronomi haberi",
+     "yemek tarifi",
+     "mantar yemeği haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "spor karşılaşması",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3efc149c5f58:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel, haberde bahsedilen mantar yemeklerini doğrudan ve net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "mantar yemekleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       90,
+       96,
+       922,
+       866
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:56+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:56+03:00",
+   "teknik": {
+    "doygunluk": 44.4,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 1299,
+    "kontrast": 69,
+    "medyan": 116,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7566a70a1b740ed5": {
    "t": "2026-11-07T23:48:18+03:00",
    "teknik": {
@@ -15614,6 +17061,113 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Expo_2016_Antalya_-_West_View.jpg/1280px-Expo_2016_Antalya_-_West_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "760fc8ce961a3853": {
+   "icerik": {
+    "ana_kutu": [
+     32,
+     0,
+     755,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "döküm tabak",
+     "pilav",
+     "yumurta",
+     "mantar yemeği",
+     "soğan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sıcak döküm tabakta mantar yemeği, pilav ve yumurta",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "gastronomi",
+     "özel tarif",
+     "mantar yemekleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "eğitim",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3efc149c5f58:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mantar bazlı farklı bir tarifi sunduğu için gastronomi haberini destekler.",
+      "gerekli": [
+       {
+        "unsur": "mantar yemekleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       32,
+       0,
+       755,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:56+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:56+03:00",
+   "teknik": {
+    "doygunluk": 62.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.212,
+    "keskinlik": 879,
+    "kontrast": 57,
+    "medyan": 99,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mushroom_sisig.jpg/1280px-Mushroom_sisig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "784732d19c5a355e": {
+   "t": "2026-11-08T13:41:05+03:00",
+   "teknik": {
+    "doygunluk": 45.0,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.562,
+    "keskinlik": 1974,
+    "kontrast": 77,
+    "medyan": 38,
+    "parlaklik": 76,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Formational_dance_performance.jpg/1280px-Formational_dance_performance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "78f570c49af69f8a": {
    "icerik": {
@@ -16930,6 +18484,82 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg/1280px-Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "80934b71a0ded010": {
+   "icerik": {
+    "ana_kutu": [
+     530,
+     280,
+     712,
+     380
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "minibüs",
+     "otopark",
+     "trafik levhası",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yağmurlu günde otogar önündeki otopark ve minibüsler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otogardan bir kare, sıfır atık kadın elçisi başvuruları haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çevre bilinci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:11+03:00"
+    }
+   },
+   "t": "2026-11-08T13:36:11+03:00",
+   "teknik": {
+    "doygunluk": 14.3,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.304,
+    "keskinlik": 1383,
+    "kontrast": 85,
+    "medyan": 94,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Antalya_Otogar_-_29.1.26.jpg/1280px-Antalya_Otogar_-_29.1.26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "80e7030514812c2e": {
    "icerik": {
     "ana_kutu": [
@@ -17908,6 +19538,27 @@
     ]
    },
    "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüde tarımsal hasat ve yükleme çalışması var, sıfır atık kampanyasıyla doğrudan ilişkisi bulunmuyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:35:44+03:00"
+    },
     "r1:71a104a4c6cd:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -17939,7 +19590,7 @@
      "t": "2026-11-08T11:03:55+03:00"
     }
    },
-   "t": "2026-11-08T11:03:55+03:00",
+   "t": "2026-11-08T13:35:44+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -18572,6 +20223,36 @@
      },
      "t": "2026-11-08T11:11:04+03:00"
     },
+    "r1:3a3956c22c4d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Alanya'daki bir okulun mühürlenmesiyle ilgiliyken fotoğraf TBMM genel kurulunu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Kestel Ortaokulu binası",
+        "var": false
+       },
+       {
+        "unsur": "mühür veya şerit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:33:07+03:00"
+    },
     "r1:5e1bc2283a6b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -18597,6 +20278,32 @@
       "yasak": []
      },
      "t": "2026-11-07T23:54:11+03:00"
+    },
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM genel kurulu, belediyenin spor kursları haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:35+03:00"
     },
     "r1:778f0a55bac7:konu": {
      "d": {
@@ -18711,7 +20418,7 @@
      "t": "2026-11-08T07:02:41+03:00"
     }
    },
-   "t": "2026-11-08T13:08:26+03:00",
+   "t": "2026-11-08T13:42:35+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -19423,6 +21130,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gasoline_price_display_controller.jpg/1280px-Gasoline_price_display_controller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "922bb37fc8ef6ddd": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tava",
+     "midyeli pilav",
+     "dereotu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tavada hazırlanmış midyeli pilav",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a3af9f45c1ee:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel midyeli pilav yemeği gastronomi tanıtımıhaberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "geleneksel yemekler",
+        "var": true
+       },
+       {
+        "unsur": "gastronomi standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:39:17+03:00"
+    }
+   },
+   "t": "2026-11-08T13:39:17+03:00",
+   "teknik": {
+    "doygunluk": 58.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.064,
+    "keskinlik": 615,
+    "kontrast": 31,
+    "medyan": 96,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Midyeli_pilav%2C_traditional_Turkish_food.jpg/1280px-Midyeli_pilav%2C_traditional_Turkish_food.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "927efca29b06940e": {
    "icerik": {
     "ana_kutu": [
@@ -19709,6 +21500,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826517288255%29.jpg/1280px-NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826517288255%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9338f29769ee5d6c": {
+   "icerik": {
+    "ana_kutu": [
+     306,
+     301,
+     584,
+     693
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çayırkoşarı kuşu",
+     "otlar",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "otlak arazide yürüyen çayırkoşarı kuşu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kuş gözlemciliği",
+     "doğa haberleri",
+     "biyoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir haberleri",
+     "politika",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3b4874c1ce89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan çayırkoşarı kuşu görülüyor ancak kuş gözlemcisi veya dürbün eksik.",
+      "gerekli": [
+       {
+        "unsur": "çayırkoşarı kuşu",
+        "var": true
+       },
+       {
+        "unsur": "kuş gözlemcisi",
+        "var": false
+       },
+       {
+        "unsur": "dürbün",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       306,
+       301,
+       584,
+       693
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:39:40+03:00"
+    }
+   },
+   "t": "2026-11-08T13:39:40+03:00",
+   "teknik": {
+    "doygunluk": 43.4,
+    "inen": [
+     500,
+     443
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 609,
+    "kontrast": 15,
+    "medyan": 142,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9374425058fc100b": {
    "icerik": {
@@ -20091,6 +21978,62 @@
      },
      "t": "2026-11-08T12:10:05+03:00"
     },
+    "r1:3a3956c22c4d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Haber Alanya'daki Kestel Ortaokulu ile ilgilidir, fotoğrafta ise Antalya Arkeoloji Müzesi yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "Kestel Ortaokulu binası",
+        "var": false
+       },
+       {
+        "unsur": "mühür veya şerit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:33:07+03:00"
+    },
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta müze binası görülmektedir, haberdeki spor kurslarıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:57+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -20208,7 +22151,7 @@
      "t": "2026-11-08T11:10:32+03:00"
     }
    },
-   "t": "2026-11-08T13:07:15+03:00",
+   "t": "2026-11-08T13:42:57+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -21884,6 +23827,23 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Antalyahavaliman%C4%B12.JPG/1280px-Antalyahavaliman%C4%B12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a50040cce9ec8f57": {
+   "t": "2026-11-08T13:35:50+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     314
+    ],
+    "karanlik_oran": 1.0,
+    "keskinlik": 209,
+    "kontrast": 0,
+    "medyan": 0,
+    "parlaklik": 0,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Increase_recycling.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "a52f80795c0ad541": {
    "icerik": {
     "ana_kutu": [
@@ -22718,6 +24678,95 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Grand_National_Assembly_of_Turkey_MPs_in_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "aaaa07fd45b7560b": {
+   "icerik": {
+    "ana_kutu": [
+     287,
+     85,
+     793,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "step tahtası",
+     "spor salonu",
+     "ayna",
+     "tavan lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Salonda step tahtaları üzerinde egzersiz yapan grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor kursu",
+     "sağlıklı yaşam",
+     "fitness haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "kültür sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta step aerobik yapan insanlar açıkça görülmektedir, haberin konusuyla tamamen uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       287,
+       85,
+       793,
+       874
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:57+03:00"
+    }
+   },
+   "t": "2026-11-08T13:42:57+03:00",
+   "teknik": {
+    "doygunluk": 31.5,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 2174,
+    "kontrast": 60,
+    "medyan": 161,
+    "parlaklik": 162,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Step_Aerobics_Class_at_a_Gym.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "ab2fa630bdc5ac87": {
    "icerik": {
@@ -24563,6 +26612,122 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg/1280px-HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b7d7b4059efa2d07": {
+   "icerik": {
+    "ana_kutu": [
+     284,
+     584,
+     998,
+     977
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "anıt mezar",
+     "çiçek",
+     "kürsü",
+     "palmiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Anma töreninde mezara çiçek bırakan yetkililer",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "anma töreni",
+     "haber",
+     "güncel olay"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      290,
+      634,
+      448,
+      725
+     ],
+     [
+      470,
+      617,
+      563,
+      674
+     ],
+     [
+      263,
+      847,
+      335,
+      903
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:15e06c44cf16:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen anma törenini ve mezara çiçek bırakma anını doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "mezar",
+        "var": true
+       },
+       {
+        "unsur": "anma töreni",
+        "var": true
+       },
+       {
+        "unsur": "çiçek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       284,
+       584,
+       998,
+       977
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:40:38+03:00"
+    }
+   },
+   "t": "2026-11-08T13:40:38+03:00",
+   "teknik": {
+    "doygunluk": 18.9,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.187,
+    "keskinlik": 1830,
+    "kontrast": 87,
+    "medyan": 168,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "/images/kurum/68081088bdeea779.jpg"
+  },
   "b93179f337eb0628": {
    "icerik": {
     "ana_kutu": [
@@ -24747,6 +26912,32 @@
      },
      "t": "2026-11-08T12:10:05+03:00"
     },
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta sulama boruları yer almaktadır, spor kursu haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:57+03:00"
+    },
     "r1:941d53c49903:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24871,7 +27062,7 @@
      "t": "2026-11-08T04:32:25+03:00"
     }
    },
-   "t": "2026-11-08T13:07:15+03:00",
+   "t": "2026-11-08T13:42:57+03:00",
    "teknik": {
     "doygunluk": 42.4,
     "inen": [
@@ -25155,6 +27346,91 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "bb36e43b357239de": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahvaltlık tabaklar",
+     "sahan",
+     "sucuklu yumurta",
+     "peynir"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Zengin serpme kahvalça ürünleri ve tabakları",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a3af9f45c1ee:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel Türk kahvaltısı ve yemek çeşitleri gastronomi tanıtım haberini destekler.",
+      "gerekli": [
+       {
+        "unsur": "geleneksel yemekler",
+        "var": true
+       },
+       {
+        "unsur": "gastronomi standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:39:17+03:00"
+    }
+   },
+   "t": "2026-11-08T13:39:17+03:00",
+   "teknik": {
+    "doygunluk": 61.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.298,
+    "keskinlik": 1559,
+    "kontrast": 61,
+    "medyan": 111,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "bb5b37814108cc4b": {
    "t": "2026-11-08T12:36:35+03:00",
@@ -26050,6 +28326,32 @@
      },
      "t": "2026-11-08T11:39:46+03:00"
     },
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta cami ve dağ manzarası vardır, ücretsiz spor kursu haberiyle ilişkisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:57+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -26108,7 +28410,7 @@
      "t": "2026-11-08T13:07:15+03:00"
     }
    },
-   "t": "2026-11-08T13:07:15+03:00",
+   "t": "2026-11-08T13:42:57+03:00",
    "teknik": {
     "doygunluk": 11.7,
     "inen": [
@@ -29491,6 +31793,62 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:74f1c10eabae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kuaför saç şekillendirmektedir, spor kursu haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "step aerobik veya pilates yapan insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:42:57+03:00"
+    },
+    "r1:91eabebdea84:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf asayiş verileriyle tamamen alakasızdır, kuaför salonunda saç yapımını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "açıklama yapan vali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:22+03:00"
+    },
     "r1:f4a2ed6e81c6:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29523,7 +31881,7 @@
      "t": "2026-11-08T13:11:31+03:00"
     }
    },
-   "t": "2026-11-08T13:11:31+03:00",
+   "t": "2026-11-08T13:42:57+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -31363,6 +33721,82 @@
    },
    "url": "https://images.unsplash.com/photo-1667967699372-1c26d40dec46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMGNoYW1waW9uc2hpcCUyMHRyb3BoeXxlbnwxfDB8fHwxNzk0MTI2NzkyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "e8c553915533973e": {
+   "icerik": {
+    "ana_kutu": [
+     316,
+     50,
+     574,
+     988
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "tarihi eser",
+     "sütun",
+     "taş blok",
+     "çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada tarihi kalıntılar, sütunlar ve taş eserler sergisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Side Antik Kenti'ndeki tarihi kalıntılar sıfır atık projesi haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "sıfır atık sembolü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:11+03:00"
+    }
+   },
+   "t": "2026-11-08T13:36:11+03:00",
+   "teknik": {
+    "doygunluk": 15.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.197,
+    "keskinlik": 4439,
+    "kontrast": 73,
+    "medyan": 156,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Antalya_Side_Antik_Kent.jpg/1280px-Antalya_Side_Antik_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e994310f0cd07429": {
    "icerik": {
     "ana_kutu": [
@@ -32388,6 +34822,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya genel manzarası temsil eder ancak çevre ve sıfır atık unsurları eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:36:11+03:00"
+    },
     "r1:d6d2afc555e0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32419,7 +34884,7 @@
      "t": "2026-11-08T12:38:57+03:00"
     }
    },
-   "t": "2026-11-08T12:38:57+03:00",
+   "t": "2026-11-08T13:36:11+03:00",
    "teknik": {
     "doygunluk": 41.0,
     "inen": [
@@ -33489,6 +35954,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:24c577389570:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Alakır Çayı vadisindeki hasat çalışması, sıfır atık kampanyası başvuruları ile ilgisiz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:35:44+03:00"
+    },
     "r1:5e1bc2283a6b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -33541,7 +36027,7 @@
      "t": "2026-11-08T11:03:55+03:00"
     }
    },
-   "t": "2026-11-08T11:03:55+03:00",
+   "t": "2026-11-08T13:35:44+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -34842,6 +37328,101 @@
    },
    "url": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzk0MTI1NDgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "fdcea8e619193134": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     991,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 100,
+    "nesneler": [
+     "çim alan",
+     "geleneksel kıyafet"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş çim alanda pembe kıyafetli kalabalık halk dansları grubu gösteri yapıyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "halk dansları festivali",
+     "kitle etkinlikleri",
+     "kültür sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61f1ee39f211:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kalabalık halk dansları gösterisi festival haberi için son derece uygundur.",
+      "gerekli": [
+       {
+        "unsur": "halk dansları ekibi",
+        "var": true
+       },
+       {
+        "unsur": "sahne gösterisi",
+        "var": true
+       },
+       {
+        "unsur": "geleneksel kıyafetler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       991,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T13:41:22+03:00"
+    }
+   },
+   "t": "2026-11-08T13:41:22+03:00",
+   "teknik": {
+    "doygunluk": 65.8,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.133,
+    "keskinlik": 6054,
+    "kontrast": 49,
+    "medyan": 109,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pendet_Dance.jpg/1280px-Pendet_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fe4d9726829bdb80": {
    "icerik": {
     "ana_kutu": [
@@ -35969,6 +38550,66 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "30d254b672bd4903": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4080,
+    3060
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2023-10-23",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tavada pişmekte olan mantar ve biber parçaları",
+   "gosterim_ad": "mantar yemekleri",
+   "ilk_kabul": "2026-11-08T13:40:56+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Dhivya Bharathi Official / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Dhivya Bharathi Official",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Natural_Mushroom_fry.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "biber",
+    "mantar",
+    "tava"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/500px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "yemek hazırlama",
+    "gastronomi haberi",
+    "tarif"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "magazin",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T13:40:56+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "32f8aa3cefac1d57": {
    "alt_tur": "kurum",
    "boyut": [
@@ -36173,7 +38814,7 @@
    "gosterim_ad": "halk oyunları kursu",
    "ilk_kabul": "2026-11-08T12:11:12+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Odil Ruzaliyev (VOA) / Wikimedia Commons (Public domain)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -36194,7 +38835,9 @@
     "dans eden kursiyerler",
     "dansçı",
     "geleneksel kostüm",
+    "geleneksel kıyafetler",
     "halk oyunları kursu",
+    "sahne gösterisi",
     "sahne korkuluğu"
    ],
    "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Turkish_Folk_Dance_Team.jpg/500px-Turkish_Folk_Dance_Team.jpg",
@@ -36212,7 +38855,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T12:11:12+03:00",
+   "son_kabul": "2026-11-08T13:41:22+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -36470,6 +39113,58 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-08T12:40:34+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "508c6baffd5be284": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4928,
+    3264
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2020-03-27",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahşap kaplamalı iki geri dönüşüm kutusu",
+   "gosterim_ad": "Sıfır Atık Kadın Elçileri başvurusu",
+   "ilk_kabul": "2026-11-08T13:36:11+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:RecyclingBinsMarkham.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "geri dönüşüm amblemi",
+    "geri dönüşüm kutusu",
+    "sıfır atık sembolü"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/500px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T13:36:11+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -37422,6 +40117,66 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "9338f29769ee5d6c": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2159,
+    1912
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "otlak arazide yürüyen çayırkoşarı kuşu",
+   "gosterim_ad": "kuş gözlemi",
+   "ilk_kabul": "2026-11-08T13:39:40+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Afsarnayakkan / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Afsarnayakkan",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Buff_breasted_sandpiper_13.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "otlar",
+    "çayırkoşarı kuşu",
+    "çimen"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/500px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "kuş gözlemciliği",
+    "doğa haberleri",
+    "biyoloji"
+   ],
+   "kullanilamaz": [
+    "şehir haberleri",
+    "politika",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T13:39:40+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "952b9d11050d0638": {
    "alt_tur": "kurum_haber",
    "boyut": [
@@ -38141,6 +40896,68 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "aaaa07fd45b7560b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    800,
+    532
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Salonda step tahtaları üzerinde egzersiz yapan grup",
+   "gosterim_ad": "ücretsiz spor kursları",
+   "ilk_kabul": "2026-11-08T13:42:57+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "www.localfitness.com.au / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "www.localfitness.com.au",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Step_Aerobics_Class_at_a_Gym.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ayna",
+    "spor salonu",
+    "step aerobik veya pilates yapan insanlar",
+    "step tahtası",
+    "tavan lambası"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Step_Aerobics_Class_at_a_Gym.JPG/500px-Step_Aerobics_Class_at_a_Gym.JPG",
+   "kullanilabilir": [
+    "spor kursu",
+    "sağlıklı yaşam",
+    "fitness haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "kültür sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T13:42:57+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Step_Aerobics_Class_at_a_Gym.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "ab2fa630bdc5ac87": {
    "alt_tur": "yer_konu",
    "boyut": [
@@ -38393,6 +41210,73 @@
    ],
    "yalniz_ayni_olay": true
   },
+  "b7d7b4059efa2d07": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    720,
+    480
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Anma töreninde mezara çiçek bırakan yetkililer",
+   "gosterim_ad": "Muratpaşa Belediyesi sitesinde yayımlanan aynı haberin fotoğrafı",
+   "ilk_kabul": "2026-11-08T13:40:38+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Muratpaşa Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Muratpaşa Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Muratpaşa Belediyesi",
+    "sayfa": "https://muratpasa-bld.gov.tr/haber/11125/baskan-uysal-kahramanlarimizi-yeni-nesillere-tanitacagiz-"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Muratpaşa Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "anma töreni",
+    "anıt mezar",
+    "kürsü",
+    "mezar",
+    "palmiye",
+    "çiçek"
+   ],
+   "kucuk": "/images/kurum/68081088bdeea779.jpg",
+   "kullanilabilir": [
+    "anma töreni",
+    "haber",
+    "güncel olay"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "spor",
+    "ekonomi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-08T13:40:38+03:00",
+   "url": "/images/kurum/68081088bdeea779.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
   "b9350eaeb8cd8c4d": {
    "alt_tur": "nesne",
    "boyut": [
@@ -38449,6 +41333,60 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T13:07:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "bb36e43b357239de": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6000,
+    4000
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Zengin serpme kahvalça ürünleri ve tabakları",
+   "gosterim_ad": "gastronomi tanıtımı",
+   "ilk_kabul": "2026-11-08T13:39:17+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Igor Sporynin / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Igor Sporynin",
+    "sayfa": "https://unsplash.com/photos/a-bowl-filled-with-different-types-of-food-on-a-table-64zZ_h_HCTs"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "geleneksel yemekler",
+    "kahvaltlık tabaklar",
+    "peynir",
+    "sahan",
+    "sucuklu yumurta"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [],
+   "kullanilamaz": [],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T13:39:17+03:00",
+   "url": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",

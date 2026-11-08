@@ -24,20 +24,22 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 79ef41e222c0
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-06T13:29:37+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T13:36:27+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Eyüp Bülent Miran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Muratpaşa Camii; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Eyüp Bülent Miran'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    kod: aday_bulunamadi
+    aciklama: '''Muratpaşa Camii'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Kurşunlu Mezarlığı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberin ana kişisi ''Ayşe Sena Demir''; ''Eyüp Bülent Miran'' fotoğrafı h'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/eyup-bulent-miran-egitim-camiamizin-basi-sag-olsun
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Afyonkarahisar'ın İhsaniye ilçesinde sekiz kişinin hayatını kaybettiği silahlı saldırı, eğitim camiasını yasa boğdu. Bu acı olayda yaşamını yitirenler arasında yer alan fen bilimleri öğretmeni Ayşe Sena Demir'in cenazesi, bugün öğlen vakti Muratpaşa Camii'nde kılınacak cenaze namazının ardından Kurşunlu Mezarlığı'nda defnedilecek.
 

@@ -23,21 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin konusu ayrıştırılamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 57817f089d5d
   gorsel_url: /images/kategori/asayis.png
   kontrol:
     yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T12:52:27+03:00'
-    yontem: kaynak/arşiv taraması
+    sonuc: yapılamadı
+    tarih: '2026-11-08T13:36:14+03:00'
+    yontem: konu ayrıştırılamadı
+  hat: h2
   kurum: k5
+  bekliyor: true
+  bekleme_sayisi: 1
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hulusi Şahin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya asayiş operasyonları'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya Valiliği'' i'
-    notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hulusi Şahin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya asayiş operasyonları'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya Valiliği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya Valiliği'' için konuyla (governorate building) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c7
+    kod: arama_yapilmadi
+    aciklama: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +47,9 @@ otomatik: true
 yz: true
 kaynak: Manşet Alanya
 kaynak_url: https://www.mansetalanya.com/antalyada-suc-servetine-buyuk-darbe-1-milyar-159-milyon-tllik-malvarligina-el-konuldu
+gorsel_onceki:
+  gorsel: /images/kategori/asayis.png
+  gorsel_kredi: ''
 ---
 Antalya Valiliği'nde gerçekleştirilen Asayiş ve Güvenlik Bilgilendirme Toplantısı'nda, ekim ayı boyunca yürütülen güvenlik çalışmaları kamuoyuyla paylaşıldı. Vali Hulusi Şahin'in basına aktardığı verilere göre, özellikle organize, mali ve kaçakçılık suçlarına karşı kararlı bir mücadele yürütüldü.
 
