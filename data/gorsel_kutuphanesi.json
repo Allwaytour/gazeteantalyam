@@ -5821,6 +5821,111 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Oakley_sunglasses_at_volleyball_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6dc4d405bbbef122": {
+   "icerik": {
+    "ana_kutu": [
+     85,
+     527,
+     950,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "yufka ekmeği",
+     "sac",
+     "oklava",
+     "hamur",
+     "kilim"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel kıyafetli bir kadın sac üzerinde yufka ekmeği pişiriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yufka yapımı",
+     "geleneksel mutfak",
+     "kadın emeği"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekmek fabrikası",
+     "modern fırın",
+     "restoran"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      85,
+      645,
+      225,
+      725
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c41213dd07bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki yufka yapımı eylemini, sacı ve hamuru net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "yufka ekmeği",
+        "var": true
+       },
+       {
+        "unsur": "sac",
+        "var": true
+       },
+       {
+        "unsur": "hamur",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       85,
+       527,
+       950,
+       850
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T10:04:10+03:00"
+    }
+   },
+   "t": "2026-11-08T10:04:10+03:00",
+   "teknik": {
+    "doygunluk": 33.7,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.242,
+    "keskinlik": 3917,
+    "kontrast": 75,
+    "medyan": 135,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Turkish_woman_making_traditional_Turkish_pastry.jpg/1280px-Turkish_woman_making_traditional_Turkish_pastry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6e2a9a3a20e4d5a5": {
    "icerik": {
     "ana_kutu": [
@@ -11666,6 +11771,97 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Taurus_Mountains_with_clouds%2C_seen_from_a_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "c48a5dc0ed718030": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "hamur",
+     "tezgah",
+     "fırın tepsisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Endüstriyel bir ortamda hamur yoğuran bir kişi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekmek yapımı",
+     "fırıncılık"
+    ],
+    "uygunsuz_baglamlar": [
+     "yufka yapımı",
+     "imece"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c41213dd07bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf endüstriyel bir fırın ortamını göstermektedir, yufka yapımı ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "yufka ekmeği",
+        "var": false
+       },
+       {
+        "unsur": "sac",
+        "var": false
+       },
+       {
+        "unsur": "hamur",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "modern fırın"
+      ]
+     },
+     "t": "2026-11-08T10:04:10+03:00"
+    }
+   },
+   "t": "2026-11-08T10:04:10+03:00",
+   "teknik": {
+    "doygunluk": 35.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 742,
+    "kontrast": 72,
+    "medyan": 123,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1738598669303-9e6c217ba01d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bWFraW5nJTIweXVma2ElMjBicmVhZHxlbnwxfDB8fHwxNzk0MTIxNDQxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "c5ededdd3bd750a1": {
    "icerik": {
     "ana_kutu": null,
@@ -12126,6 +12322,121 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/1280px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cc77ad34e922f846": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     0,
+     950,
+     850
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "yufka ekmeği",
+     "yer sofrası",
+     "oklava",
+     "hamur"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İmece usulü yufka açan kadınlar grubu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yufka yapımı",
+     "imece",
+     "geleneksel yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekmek fabrikası",
+     "modern fırın"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      140,
+      100,
+      280,
+      160
+     ],
+     [
+      280,
+      300,
+      450,
+      380
+     ],
+     [
+      340,
+      560,
+      520,
+      680
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c41213dd07bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İmece ruhunu çok iyi yansıtıyor, ancak görüntü kalitesi düşük ve eski görünümlü.",
+      "gerekli": [
+       {
+        "unsur": "yufka ekmeği",
+        "var": true
+       },
+       {
+        "unsur": "sac",
+        "var": false
+       },
+       {
+        "unsur": "hamur",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       0,
+       950,
+       850
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T10:04:10+03:00"
+    }
+   },
+   "t": "2026-11-08T10:04:10+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     500,
+     391
+    ],
+    "karanlik_oran": 0.059,
+    "keskinlik": 3620,
+    "kontrast": 62,
+    "medyan": 141,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Yufka_yap%C4%B1m%C4%B1.jpg/1280px-Yufka_yap%C4%B1m%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ceb3c047d0326550": {
    "icerik": {
@@ -13560,6 +13871,115 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "ec8b1d67c76017d6": {
+   "icerik": {
+    "ana_kutu": [
+     170,
+     230,
+     480,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "yufka ekmeği",
+     "tepsi",
+     "masa",
+     "yöresel ürünler tabelası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yöresel ürünler standında yufka hazırlayan kadınlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yufka yapımı",
+     "yöresel ürünler",
+     "kadın emeği"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekmek fabrikası",
+     "modern fırın"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      260,
+      350,
+      350
+     ],
+     [
+      170,
+      530,
+      380,
+      690
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c41213dd07bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Yufka yapımını gösteriyor ancak ticari bir stand ortamı olduğu için puan kırıldı.",
+      "gerekli": [
+       {
+        "unsur": "yufka ekmeği",
+        "var": true
+       },
+       {
+        "unsur": "sac",
+        "var": false
+       },
+       {
+        "unsur": "hamur",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       230,
+       480,
+       700
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T10:04:10+03:00"
+    }
+   },
+   "t": "2026-11-08T10:04:10+03:00",
+   "teknik": {
+    "doygunluk": 23.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.184,
+    "keskinlik": 2705,
+    "kontrast": 61,
+    "medyan": 122,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Women_making_manti.jpg/1280px-Women_making_manti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ee8426f114dcefc0": {
    "icerik": {
