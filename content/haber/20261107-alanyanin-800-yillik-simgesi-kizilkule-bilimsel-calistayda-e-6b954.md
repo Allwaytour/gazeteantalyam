@@ -26,20 +26,68 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Kızılkule
   cekim_yili: '2013'
-  gerekce: '''Kızılkule'' için daha önce onaylanmış arşiv fotoğrafı (2026-11-07); lisans dosya sayfasından; görsel kontrol: Kızılkule''nin iç avlusunu gösteren yapısal detaylara sahip uygun arşiv görselidir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Kızılkule'nin iç avlusunu gösteren güncel ve net bir mimari fotoğraf.
+  surum: h1-2026-11-07
   konu_imza: 411490b19258
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-07T12:07:29+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-08T12:08:28+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Kızılkule — Arşiv fotoğrafı (2013)
   alt_tur: kurum
   kaynak_aciklama: One of pictures taken on the tower. This is looking in to the courtyard.
+  sinif: ozne_kurum
+  hat: h2
+  inceleme:
+    teknik:
+      doygunluk: 22.4
+      inen:
+      - 500
+      - 333
+      karanlik_oran: 0.156
+      keskinlik: 1905
+      kontrast: 54
+      medyan: 111
+      parlaklik: 112
+      s: t1
+    icerik:
+      sahne: Tarihi taş yapının içi, avlusu ve merdivenler.
+      nesneler:
+      - taş duvar
+      - merdiven
+      - korkuluk
+      - türk bayrağı
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: Kızılkule
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 58
+      - 0
+      - 995
+      - 1000
+      uygunluk: 9
+      gerekce: Kızılkule'nin iç avlusunu gösteren güncel ve net bir mimari fotoğraf.
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum fotoğrafı önbellekten
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,6 +95,31 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/alanyanin-800-yillik-simgesi-kizilkule-bilimsel-calistayda-ele-alindi-119515019
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yerlesim:
+  boyut:
+  - 4928
+  - 3280
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Alanya ilçesinin simgelerinden biri olan Kızılkule, yapılışının 800. yıl dönümünde akademisyenlerin ve uzmanların bir araya geldiği kapsamlı bir çalıştayla ele alındı.
 

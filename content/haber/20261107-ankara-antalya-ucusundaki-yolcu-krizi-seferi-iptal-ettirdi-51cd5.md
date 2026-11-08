@@ -21,20 +21,71 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Ankara Esenboğa Havalimanı
   cekim_yili: '2016'
-  gerekce: 'dosya kaydında yer (''Ankara Esenboğa Havalimanı'') ve konu ipucu (airplane, airport apron) birlikte geçiyor; görsel kontrol: Esenboğa Havalimanı apronu ve körük alanı net şekilde görülüyor, haberle uyumlu.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Havalimanı temsilî olarak görünüyor ancak uçak net olarak seçilmiyor.
+  surum: h1-2026-11-07
   konu_imza: 5e278aa73b20
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-07T19:31:54+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+    tarih: '2026-11-08T12:08:15+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Ankara Esenboğa Havalimanı — Arşiv fotoğrafı (2016)
   alt_tur: yer_konu
   kaynak_aciklama: Ankara Esenboğa International Airport
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      doygunluk: 76.3
+      inen:
+      - 500
+      - 333
+      karanlik_oran: 0.138
+      keskinlik: 662
+      kontrast: 39
+      medyan: 95
+      parlaklik: 97
+      s: t1
+    icerik:
+      sahne: Karlı havada havalimanı apronu ve körük görünümü.
+      nesneler:
+      - körük
+      - terminal binası
+      - kar
+      - apron
+      - aydınlatma direği
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: havalimanı
+        var: true
+      - unsur: uçak
+        var: false
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 65
+      - 686
+      - 497
+      - 997
+      uygunluk: 6
+      gerekce: Havalimanı temsilî olarak görünüyor ancak uçak net olarak seçilmiyor.
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,6 +93,31 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/ankara-antalya-ucusunda-saskina-ceviren-olay-ucmak-istemiyorum-dedi-sefer-iptal-edildi
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: https://www.flickr.com/photos/franganillo/ / Wikimedia Commons (CC BY 2.0)'
+gorsel_yerlesim:
+  boyut:
+  - 1950
+  - 1300
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 0%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 100% 50%
+  o_mansetyan_m: 100% 50%
+  o_yan_d: 50% 41%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 45%
+  o_kart: 50% 0%
+  o_kart_p: 100% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Ankara ile Antalya arasında gerçekleştirilmesi planlanan bir uçuşta yaşandığı belirtilen olay, havacılık güvenliği ve operasyonel süreçleri bir kez daha gündeme getirdi. Biniş işlemlerinin tamamlanmasının ardından uçaktaki bir yolcunun son anda seyahat etmek istemediğini belirterek inme talebinde bulunduğu aktarıldı. Ekibin tüm ikna çabalarına rağmen bu kararından vazgeçmeyen kişi nedeniyle uçuş ekibi güvenlik prosedürlerini devreye soktu.
 

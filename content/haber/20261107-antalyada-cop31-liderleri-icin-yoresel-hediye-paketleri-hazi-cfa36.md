@@ -29,15 +29,16 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:08:48+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    tarih: '2026-11-08T12:04:20+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: siyasetçi; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (1/10, en az 5); habere uygunluk düşük (1/10, en az 7); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara '
+    aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); habere uygunluk düşük (2/10, en az 7); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: ahşap hediye kutusu, reçel ve tahin kavanozları, çevre'
   kapak_surum: c8
 manset: false
 son_dakika: false

@@ -31,15 +31,16 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:46:55+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    tarih: '2026-11-08T12:04:36+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %41); Antalya Valiliği sayfası aynı haber değil (benzerlik %35); kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Kepez Belediyesi sayfası aynı haber değil ("
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'aşırı karanlık (medyan parlaklık 2, karanlık pay %93); aşırı karanlık (medyan parlaklık 8, karanlık pay %85); habere uygunluk düşük (3/10, en az 7); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); zorunlu unsur görünmüyor: konser sahnesi, sanat sergisi'
+    aciklama: aşırı karanlık (medyan parlaklık 2, karanlık pay %93); aşırı karanlık (medyan parlaklık 8, karanlık pay %85); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan
   kapak_surum: c8
 manset: false
 son_dakika: false

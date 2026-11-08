@@ -25,22 +25,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday kontrolden geçemedi; fotoğrafsız.
+  gerekce: 9 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: 4c3093b9b7cd
   gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:48:24+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    tarih: '2026-11-08T12:06:19+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: 'Türkiye dışına ait unsurlar (yanıltıcı yer); başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: turistik plaj; habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (4/10, en az 6); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zor'
+    aciklama: 'görselde olmaması gereken unsur: iş makineleri; görselde olmaması gereken unsur: turistik plaj; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (1/10, en az 8); habere uygunluk düşük (3/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülk'
   kapak_surum: c8
 manset: false
 son_dakika: false

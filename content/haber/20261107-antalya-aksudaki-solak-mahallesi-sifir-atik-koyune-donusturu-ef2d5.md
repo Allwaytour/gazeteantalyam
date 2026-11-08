@@ -30,15 +30,16 @@ gorsel_secim:
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:48:37+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    tarih: '2026-11-08T12:07:14+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (0/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
+    aciklama: habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusuyla ilgisiz yer/nesne
   kapak_surum: c8
 manset: false
 son_dakika: false
