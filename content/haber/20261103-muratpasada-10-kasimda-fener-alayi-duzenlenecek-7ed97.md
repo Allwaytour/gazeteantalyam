@@ -80,6 +80,8 @@ gorsel_gecmis:
       kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
     kurum: k4
   degisim: '2026-11-08T16:08:38+03:00'
+etiketler:
+- Muratpaşa Belediyesi
 ---
 Antalya'nın Muratpaşa ilçesinde, Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir anma programı düzenleniyor. Büyük Önder’e duyulan sevgi, saygı, minnet ve hasreti tek yürek olarak göstermek amacıyla 10 Kasım'da fener alayı ve Ata'ya Saygı Yürüyüşü gerçekleştirilecek.
 

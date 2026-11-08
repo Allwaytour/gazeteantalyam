@@ -76,6 +76,8 @@ gorsel_gecmis:
     alt_tur: yer_konu
     kurum: k4
   degisim: '2026-11-08T16:07:36+03:00'
+etiketler:
+- Ulaştırma ve Altyapı Bakanlığı
 ---
 Adana ile Antalya arasindaki ulasimi daha guvenli, hizli ve konforlu hale getirmeyi amaclayan Akdeniz Sahil Yolu Projesi kapsamindaki calismalar devam ediyor. Bu proje, bolgedeki ulasim altyapisini guclendirerek iki sehir arasinda seyahat eden vatandaslarin isini kolaylastirmayi hedefliyor.
 

@@ -138,6 +138,9 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Meeting_of_the_Turkish_parliament%2C_May_4%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+etiketler:
+- Antalya Genç İş İnsanları Derneği
+- TBMM
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara'daki temasları çerçevesinde Türkiye Büyük Millet Meclisi'ni ziyaret etti. Dernek başkanı ve beraberindeki heyet, AK Parti Antalya milletvekilleri Mustafa Köse, İbrahim Ethem Taş, Kemal Çelik ve Atay Uslu ile görüştü.
 

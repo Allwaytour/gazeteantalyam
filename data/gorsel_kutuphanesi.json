@@ -12272,9 +12272,35 @@
       ]
      },
      "t": "2026-11-08T11:10:32+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber otel kapasite artışı ile ilgili, ancak görsel bir havalimanı binasına ait.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T15:11:13+03:00",
+   "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 18.6,
     "inen": [
@@ -14274,9 +14300,35 @@
       "yasak": []
      },
      "t": "2026-11-08T15:41:25+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde otel binası değil, genel bir yerleşim alanı ve cadde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T15:41:25+03:00",
+   "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -18041,6 +18093,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:18e2ab0b2f6a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da kullanılan bir toplu taşıma otobüsünü gösterdiği için haberle doğrudan ilişkilidir.",
+      "gerekli": [
+       {
+        "unsur": "servis otobüsü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       115,
+       28,
+       728,
+       782
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:36:58+03:00"
+    },
     "r1:b13496aa7eb8:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -18180,7 +18263,7 @@
      "t": "2026-11-08T15:16:05+03:00"
     }
    },
-   "t": "2026-11-08T15:16:05+03:00",
+   "t": "2026-11-08T16:36:58+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -26235,6 +26318,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:18e2ab0b2f6a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece bir hat sembolü, haberin içeriğini veya kriz durumunu yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "servis otobüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:36:58+03:00"
+    },
     "r1:8c02ac069380:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -26257,7 +26366,7 @@
      "t": "2026-11-08T15:22:31+03:00"
     }
    },
-   "t": "2026-11-08T15:22:31+03:00",
+   "t": "2026-11-08T16:36:58+03:00",
    "teknik": {
     "doygunluk": 72.6,
     "inen": [
@@ -28468,9 +28577,35 @@
       ]
      },
      "t": "2026-11-08T11:10:32+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görseldeki yapı bir otel değil, Antalya EXPO alanındaki bir sergi yapısıdır.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T15:13:40+03:00",
+   "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -30807,32 +30942,6 @@
     "yuzler": []
    },
    "iliski": {
-    "r1:10f43c8e0995:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "TBMM genel kurul salonunu gösteren temsilî bir fotoğraftır.",
-      "gerekli": [
-       {
-        "unsur": "TBMM binası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:36:43+03:00"
-    },
     "r1:25a19ab3080e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31136,9 +31245,35 @@
       "yasak": []
      },
      "t": "2026-11-08T14:38:40+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber otel ile ilgili, görsel ise TBMM genel kurul salonuna aittir.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T16:10:51+03:00",
+   "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -33850,28 +33985,23 @@
      },
      "t": "2026-11-08T11:38:12+03:00"
     },
-    "r1:e6ab1f9bb5a0:ozne_kurum": {
+    "r1:ed423976bd8a:konu": {
      "d": {
-      "ana_ozne_gorunuyor": true,
+      "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Antalya Arkeoloji Müzesi binasını doğrudan ve net bir şekilde göstermektedir.",
+      "gerekce": "Görseldeki yapı bir otel değil, Antalya Arkeoloji Müzesi binasıdır.",
       "gerekli": [
        {
-        "unsur": "Antalya Arkeoloji Müzesi binası veya inş",
-        "var": true
+        "unsur": "otel binası",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       3,
-       0,
-       786,
-       999
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 10,
+      "uygunluk": 0,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -33879,10 +34009,10 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T11:10:32+03:00"
+     "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T16:05:28+03:00",
+   "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -34225,9 +34355,40 @@
       "yasak": []
      },
      "t": "2026-11-08T15:11:35+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki otel kapasite artışı konusuna uygun, otel binasını ve tesislerini gösteren güncel bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       50,
+       750,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:27+03:00"
     }
    },
-   "t": "2026-11-08T15:11:35+03:00",
+   "t": "2026-11-08T16:34:27+03:00",
    "teknik": {
     "doygunluk": 31.7,
     "inen": [
@@ -36193,6 +36354,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:18e2ab0b2f6a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İstanbul'daki bir stadyumu gösteriyor, Antalya'daki ulaşım kriziyle hiçbir ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "servis otobüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:36:58+03:00"
+    },
     "r1:6816a1ccfbaa:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -36251,7 +36438,7 @@
      "t": "2026-11-08T15:36:55+03:00"
     }
    },
-   "t": "2026-11-08T15:36:55+03:00",
+   "t": "2026-11-08T16:36:58+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -36966,6 +37153,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:18e2ab0b2f6a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece bir hat sembolü, haberin içeriğini veya kriz durumunu yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "servis otobüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:36:58+03:00"
+    },
     "r1:8c02ac069380:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -36988,7 +37201,7 @@
      "t": "2026-11-08T15:22:31+03:00"
     }
    },
-   "t": "2026-11-08T15:22:31+03:00",
+   "t": "2026-11-08T16:36:58+03:00",
    "teknik": {
     "doygunluk": 73.5,
     "inen": [
@@ -37176,9 +37389,35 @@
       ]
      },
      "t": "2026-11-08T15:03:42+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber otel kapasite artışı ile ilgilidir, havalimanı görseli konuyla tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:27+03:00"
     }
    },
-   "t": "2026-11-08T16:05:28+03:00",
+   "t": "2026-11-08T16:34:27+03:00",
    "teknik": {
     "doygunluk": 51.1,
     "inen": [
@@ -38111,6 +38350,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:18e2ab0b2f6a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da genel bir trafik manzarası ancak servis otobüsü veya krizin etkileri görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "servis otobüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:36:58+03:00"
+    },
     "r1:27256969897b:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -38186,7 +38451,7 @@
      "t": "2026-11-08T12:37:15+03:00"
     }
    },
-   "t": "2026-11-08T14:40:54+03:00",
+   "t": "2026-11-08T16:36:58+03:00",
    "teknik": {
     "doygunluk": 13.2,
     "inen": [
@@ -54628,9 +54893,35 @@
       "yasak": []
      },
      "t": "2026-11-08T15:11:35+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel terası görünse de ana konu olan otel binası ve kapasite artışı ile doğrudan ilişkili değildir.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:27+03:00"
     }
    },
-   "t": "2026-11-08T15:11:35+03:00",
+   "t": "2026-11-08T16:34:27+03:00",
    "teknik": {
     "doygunluk": 8.6,
     "inen": [
@@ -55344,6 +55635,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sukrusaracoglu.jpg/1280px-Sukrusaracoglu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f92b523e97dc3a62": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yüzme havuzu",
+     "şezlong",
+     "palmiye ağacı",
+     "deniz",
+     "otel binası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kenarında havuzlu bir otel tesisi ve palmiye ağaçları.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "otel tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel siyasi haber",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel tesisi görünümü haberle uyumlu ancak fotoğraf 2012 tarihli olduğu için dönem açısından yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:27+03:00"
+    }
+   },
+   "t": "2026-11-08T16:34:27+03:00",
+   "teknik": {
+    "doygunluk": 30.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.21,
+    "keskinlik": 2046,
+    "kontrast": 71,
+    "medyan": 134,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Alanya_summer_of_2012_14.JPG/1280px-Alanya_summer_of_2012_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f936cd77b0c55bac": {
    "icerik": {
     "ana_kutu": [
@@ -55687,9 +56066,35 @@
       "yasak": []
      },
      "t": "2026-11-08T12:08:15+03:00"
+    },
+    "r1:ed423976bd8a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber otel ile ilgilidir, havalimanı apronu görseli konuyla tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T16:34:27+03:00"
     }
    },
-   "t": "2026-11-08T12:08:15+03:00",
+   "t": "2026-11-08T16:34:27+03:00",
    "teknik": {
     "doygunluk": 76.3,
     "inen": [
@@ -58633,7 +59038,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T12:40:34+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Horrificdetective / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -58664,6 +59069,7 @@
     "otobüs",
     "otobüs durağı",
     "plaka",
+    "servis otobüsü",
     "terminal"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/500px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -58680,8 +59086,8 @@
    "notr_portre": false,
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
-   "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-08T15:16:05+03:00",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T16:36:58+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -60211,7 +60617,7 @@
    "gosterim_ad": "Aksu",
    "ilk_kabul": "2026-11-08T15:11:35+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "geoka.ru / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -60252,7 +60658,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T15:11:35+03:00",
+   "son_kabul": "2026-11-08T16:34:27+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
