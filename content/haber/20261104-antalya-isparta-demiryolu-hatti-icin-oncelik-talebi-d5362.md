@@ -138,6 +138,11 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+etiketler:
+- Osman Zabun
+- TBMM KİT Komisyonu
+- Türkiye Cumhuriyeti Devlet Demiryolları
+- AK Parti
 ---
 Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Komisyonu'nda gerçekleştirilen toplantıda, Türkiye Cumhuriyeti Devlet Demiryolları Genel Müdürlüğü ile bağlı şirketlerin 2023 ve 2024 yıllarına ait hesapları ve faaliyetleri değerlendirildi. Toplantı sırasında bölgenin ulaşım altyapısı açısından büyük önem taşıyan demiryolu projesi de gündeme taşındı.
 

@@ -26,19 +26,21 @@ gorsel_secim:
   cekim_yili: ''
   gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
   surum: h1-2026-11-07
-  konu_imza: 3ceb8d8b3af6
+  konu_imza: cb2878282569
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T23:04:35+03:00'
-    yontem: h1
-    model: ''
-  hat: h1e
+    tarih: '2026-11-08T16:04:30+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: '''Tüpraş Stadı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Tüpraş Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    aciklama: '''Tüpraş Stadı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Tüpraş Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir); ret s'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -47,6 +49,9 @@ otomatik: true
 yz: true
 kaynak: Canlı Gaste
 kaynak_url: https://www.canligaste.com/genclerbirligi-super-lig-de-yarin-besiktas-a-konuk-olacak/944939/
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Trendyol Süper Lig'de heyecan 11. hafta mücadeleleriyle devam ediyor. Ligin dikkat çeken ekiplerinden Gençlerbirliği, yarın akşam deplasmanda Beşiktaş ile karşı karşıya gelecek. Tüpraş Stadı'nda oynanacak olan müsabaka saat 21.00'de başlayacak ve karşılaşmayı hakem Atilla Karaoğlan yönetecek.
 

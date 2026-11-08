@@ -43,6 +43,11 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/kepez-meclisinde-dokuma-2-etap-projesi-icin-ek-sure-karari/388572
+gorsel_bekleyen:
+  surum: h1-2026-11-07
+  tarih: '2026-11-08T16:10:09+03:00'
+  sayi: 1
+  neden: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 ---
 Kepez Belediyesi Kasım ayı olağan meclis toplantısı gerçekleştirildi. Oturumda, kentin yakından takip ettiği projelerden biri olan Dokuma 2. Etap Projesi hazırlıkları ele alındı. Fabrikalar Mahallesi'ndeki geniş alanda uygulanacak projeye yön verecek çalışma grubunun süre uzatımı talebi meclis gündemine taşındı.
 

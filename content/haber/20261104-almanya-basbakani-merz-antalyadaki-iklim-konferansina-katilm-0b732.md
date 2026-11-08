@@ -102,6 +102,11 @@ gorsel_yerlesim:
   kart_portre: false
   yan_portre: false
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg/1280px-2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Friedrich Merz
+- Federal Hükümet
+- Almanya Çevre Bakanlığı
+- Alman İklim Uzmanlar Konseyi
 ---
 Almanya Başbakanı Friedrich Merz, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Konferansı COP31'e gitmeme kararı aldı. Federal Hükümet Sözcü Yardımcısı Steffen Meyer, Berlin'de yaptığı açıklamada, davet için teşekkür edildiğini fakat farklı sorumluluklar ve takvimler sebebiyle bu katılımın gerçekleşemeyeceğini bildirdi. Almanya'da son beş yılda görev yapan başbakanların bu tür zirvelere düzenli olarak katıldığı bilinirken, Merz geçtiğimiz yıl Brezilya'nın Belem kentindeki toplantıda yer almıştı.
 

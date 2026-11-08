@@ -107,6 +107,11 @@ gorsel_yerlesim:
   o_yan_m: 50% 100%
   o_kart: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Murat Kurum
+- Berkay Bahar
+- Antalya Ticaret ve Sanayi Odası
+- Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 ---
 Antalya Ticaret ve Sanayi Odası, Aksu ilçesi Altıntaş Bölgesi’nde uzun süredir devam eden imar ve parselasyon problemlerinin çözüme kavuşturulması amacıyla çalışma başlattı. Oda yönetimi tarafından hazırlanan kapsamlı rapor, Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum’a iletilerek destek istendi.
 

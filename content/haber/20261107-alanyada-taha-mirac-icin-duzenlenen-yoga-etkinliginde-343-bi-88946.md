@@ -21,34 +21,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: f3a417979fe4
   gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-07T16:01:50+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+    tarih: '2026-11-08T16:04:33+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberi; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''yoga etkinliği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg
-      katman: kurum
-      neden: 'habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (yoga matları, yoga yapan insanlar) — '
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Volleyball.jpg
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-    - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-      katman: kurum
-      neden: 'habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (yoga matları, yoga yapan insanlar) — '
-    - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10); haberin gerektirdiği unsur görünmüyor (yoga matları, yoga yapan insanlar) — Alanya genel şehir m
+    aciklama: 'büyük filigran ya da görüntüye gömülü yazı; habere uygunluk düşük (1/10, en az 5); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: yoga yapan insanlar, yoga matları'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -57,6 +46,9 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanyada-taha-mirac-icin-yoga-etkinligi-343-bin-tl-dayanisma-geliri-saglandi
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Alanya'da tedavi süreci devam eden Taha Miraç Kevkir için dayanışma etkinlikleri sürdürülüyor. Özge Uyar'ın öncülüğünde hayata geçirilen yoga buluşmasında, katılımcıların ve bağışta bulunan hayırseverlerin desteğiyle önemli bir kaynak oluşturuldu.
 

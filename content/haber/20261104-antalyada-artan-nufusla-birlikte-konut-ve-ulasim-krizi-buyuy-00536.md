@@ -143,6 +143,10 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 72% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Untitled_-_panoramio_-_%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2_%2811%29.jpg/1280px-Untitled_-_panoramio_-_%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Aliye Coşar
+- YENİ Parti
+- TOKİ
 ---
 Antalya'nın nüfusunun 2,8 milyona dayanması ve kentin aldığı yoğun göç, beraberinde getirdiği altyapı, konut ve ulaşım sorunlarını her geçen gün biraz daha derinleştiriyor. Konuya ilişkin değerlendirmelerde bulunan YENİ Parti Antalya Milletvekili Aliye Coşar, kentin hızla artan nüfus hareketliliğine dikkat çekerek özellikle konut arzı, iktidarın altyapı için yerel yönetimlere destek vermesi gerektiğine ve ulaşım krizine karşı acil adımlar atılması gerektiğini vurguladı.
 

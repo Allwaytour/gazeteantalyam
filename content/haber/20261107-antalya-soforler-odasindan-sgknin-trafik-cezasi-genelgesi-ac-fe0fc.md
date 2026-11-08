@@ -25,20 +25,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 4 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 3217bdf2640b
   gorsel_url: /images/kategori/ekonomi.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T13:02:08+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T16:03:49+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Alkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya Şoförler Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Alkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya Şoförler Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; gerçek fotoğraf değil (harita_logo_belge); görselde olmaması gereken unsur: maç, kaza; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta '
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -47,6 +50,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/trafik-cezalarinda-sgk-duzenlemesi
+gorsel_onceki:
+  gorsel: /images/kategori/ekonomi.png
+  gorsel_kredi: ''
 ---
 Antalya Şoförler Odası Başkanı Mehmet Ali Alkan, trafik idari para cezası tutanaklarına bağlı sigortalılık tescili ve prim işlemlerinde yeni uygulama esaslarının belirlendiğini açıkladı. Alkan, sürücü ile işveren arasındaki çalışma ilişkisinin tespitine göre SGK işlemlerinin yürütüleceğini belirtti.
 

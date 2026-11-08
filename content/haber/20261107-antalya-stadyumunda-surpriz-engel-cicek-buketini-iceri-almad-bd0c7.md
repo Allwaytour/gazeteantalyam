@@ -23,20 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 972946b1b12e
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T20:31:59+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T16:03:31+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    kod: gorsel_reddedildi
+    aciklama: habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanlış takım (rakibin stadı/forması dahil)
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Antalya Körfez Gazetesi
 kaynak_url: https://www.antalyakorfez.com/asklari-antalya-stadyumu-kapisinda-kaldi-cicek-buketine-izin-cikmadi
+gorsel_onceki:
+  gorsel: /images/kategori/yasam.png
+  gorsel_kredi: ''
 ---
 Trendyol 1. Lig kapsamında gerçekleştirilen Antalyaspor ve Bursaspor mücadelesi ilginç bir an müsabaka öncesinde yaşandı. Kadınların ve 12 yaşından küçük çocukların tribünlerden ücretsiz takip edebildiği karşılaşma için ADO Antalya Stadyumu'na gelen nişanlı bir çift, yanlarında getirdikleri orta boy çiçek buketleriyle giriş yapmak istedi.
 

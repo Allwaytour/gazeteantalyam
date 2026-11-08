@@ -143,6 +143,10 @@ gorsel_yerlesim:
   o_kart: 50% 24%
   o_kart_p: 54% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1280px-Konya_Tropical_Butterfly_Garden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+etiketler:
+- Murat Kurum
+- Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+- Selçuklu Belediyesi
 ---
 Türkiye'nin ev sahipliğinde ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinasyonunda 9-20 Kasım tarihlerinde Antalya'da düzenlenecek COP31 Zirvesi için hazırlık çalışmaları tamamlanma aşamasına geldi. İklim müzakerelerinin gerçekleştirileceği diplomatik merkez niteliğindeki 527 bin metrekare büyüklüğündeki Mavi Bölge'de, ülke delegasyonları ile birlikte yaklaşık 100 bin ziyaretçinin ağırlanması bekleniyor.
 

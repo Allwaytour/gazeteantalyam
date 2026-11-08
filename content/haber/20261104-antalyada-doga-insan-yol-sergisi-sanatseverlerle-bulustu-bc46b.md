@@ -76,6 +76,10 @@ gorsel_gecmis:
     alt_tur: kurum
     kurum: k4
   degisim: '2026-11-08T15:40:54+03:00'
+etiketler:
+- Zeynep Vardar
+- Özgür Manici Sanat Galeri
+- Antalya Büyükşehir Belediyesi
 ---
 Sanatçı Zeynep Vardar'ın doğa, insan ve yaşam arasındaki bağı soyut bir anlatımla yorumladığı Doğa İnsan Yol resim sergisi, Antalya'da düzenlenen açılış töreniyle sanatseverlerin ziyaretine açıldı. Özgür Manici Sanat Galeri'de gerçekleştirilen serginin açılışını Antalya Büyükşehir Belediyesi Turizm ve Kültür Müdürü Selma Gençel yaptı. Sanatseverlerin ilgi gösterdiği etkinlik, sıcak ve samimi atmosferiyle dikkat çekti.
 

@@ -23,21 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: d718d49bcc37
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T22:03:09+03:00'
-    yontem: h1
-    model: ''
-  hat: h1c
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T16:04:14+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: '''Antalya Spor Salonu'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Antalya Spor Salonu'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı g'
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; gerçek fotoğraf değil (cizim); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -46,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-genclik-spor-pizza-bulls-turk-telekoma-evinde-kaybetti-65-75
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin beşinci haftasında Türk Telekom Gelişim takımıyla karşı karşıya geldi. Antalya Spor Salonu'nda oynanan mücadelenin ilk periyodunu 22-19 geride kapatan ev sahibi ekip, ikinci çeyrekte de oyunun kontrolünü elinde tutamadı ve soyunma odasına 44-36 yenik durumda girdi.
 
