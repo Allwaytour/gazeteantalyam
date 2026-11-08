@@ -565,6 +565,36 @@
      },
      "t": "2026-11-08T00:01:17+03:00"
     },
+    "r1:e2bc08e9f503:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta başka bir siyasi partinin logoları yer almaktadır, haberle çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya zirve logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T07:02:41+03:00"
+    },
     "r1:f0c8a1f63330:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -596,7 +626,7 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T00:01:53+03:00",
+   "t": "2026-11-08T07:02:41+03:00",
    "teknik": {
     "doygunluk": 40.9,
     "inen": [
@@ -5541,9 +5571,35 @@
       "yasak": []
      },
      "t": "2026-11-07T23:54:11+03:00"
+    },
+    "r1:e2bc08e9f503:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşiv portresidir, zirve ile doğrudan bir görsel bağı yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       150,
+       900,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T07:02:41+03:00"
     }
    },
-   "t": "2026-11-07T23:59:06+03:00",
+   "t": "2026-11-08T07:02:41+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -7896,9 +7952,39 @@
       "yasak": []
      },
      "t": "2026-11-07T23:54:11+03:00"
+    },
+    "r1:e2bc08e9f503:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM genel kurulu COP31 zirvesi değildir, bağlam dışıdır.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya zirve logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T07:02:41+03:00"
     }
    },
-   "t": "2026-11-07T23:54:11+03:00",
+   "t": "2026-11-08T07:02:41+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -12485,6 +12571,23 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Student_Book_Art_Exhibition_%285404912339%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "d92f540e16a68417": {
+   "t": "2026-11-08T07:02:36+03:00",
+   "teknik": {
+    "doygunluk": 34.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.499,
+    "keskinlik": 2192,
+    "kontrast": 81,
+    "medyan": 50,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ali_Aslan%2C_Turkish_journalist%2C_Jovenel_Mo%C3%AFse%2C_President_of_Haiti%2C_Josep_Borrell_Fontelles%2C_Uhuru_Kenyatta%2C_President_of_Kenya%2C_Mathias_Cormann%2C_Secretary_General_of_the_Organisati.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "da400d43dd75017e": {
    "t": "2026-11-07T22:32:21+03:00",
    "teknik": {
@@ -13457,6 +13560,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1520338661084-680395057c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpciUyMGN1dHRpbmclMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzkzOTU4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "ee8426f114dcefc0": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     100,
+     950,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "konferans masası",
+     "bayraklar",
+     "yemek takımları",
+     "ekranlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "G20 zirvesi kapsamında liderlerin katıldığı çalışma yemeği masası.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "zirve haberi",
+     "diplomasi",
+     "uluslararası toplantı"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel yerel haber",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e2bc08e9f503:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da bir zirve ortamını yansıtsa da G20'ye ait olması ve eski tarihli olması yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "COP31 tabelası veya zirve logosu",
+        "var": false
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       100,
+       950,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T07:02:41+03:00"
+    }
+   },
+   "t": "2026-11-08T07:02:41+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     500,
+     292
+    ],
+    "karanlik_oran": 0.421,
+    "keskinlik": 3141,
+    "kontrast": 74,
+    "medyan": 70,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg/1280px-G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f01a6a701c5c5fa9": {
    "icerik": {
@@ -15277,7 +15473,7 @@
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 18,
+   "kabul_sayisi": 19,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -15317,7 +15513,7 @@
    "qid": "Q56125668",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-07T23:59:06+03:00",
+   "son_kabul": "2026-11-08T07:02:41+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
