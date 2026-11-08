@@ -10616,6 +10616,94 @@
    },
    "url": "https://images.unsplash.com/photo-1628314200733-5f7785cdc925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "b9350eaeb8cd8c4d": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     0,
+     670,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sulama borusu",
+     "bağlantı aparatı",
+     "toprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toprak üzerinde uzanan siyah damlama sulama boruları ve bağlantı aparatları.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım teknolojileri",
+     "su tasarrufu",
+     "modern sulama"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6f1c692a2fd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern damlama sulama sistemini net bir şekilde göstererek haberin konusunu başarıyla temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "modern sulama sistemi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       330,
+       0,
+       670,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T04:32:25+03:00"
+    }
+   },
+   "t": "2026-11-08T04:32:25+03:00",
+   "teknik": {
+    "doygunluk": 42.4,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.339,
+    "keskinlik": 1478,
+    "kontrast": 48,
+    "medyan": 72,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b9f5c633c02bccf9": {
    "icerik": {
     "ana_kutu": [
@@ -10795,6 +10883,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "bd61eed21f551e8e": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     460,
+     970,
+     590
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "asma",
+     "sulama borusu",
+     "vana",
+     "tarım arazisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bağlık alanda damlama sulama sistemi ve vana düzeneği.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım",
+     "sulama sistemleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6f1c692a2fd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konuyla ilgili ancak 2007 tarihli olması ve yabancı bir bağ görüntüsü içermesi nedeniyle güncel haber için zayıf.",
+      "gerekli": [
+       {
+        "unsur": "modern sulama sistemi",
+        "var": true
+       },
+       {
+        "unsur": "tarım arazisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       460,
+       970,
+       590
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T04:32:25+03:00"
+    }
+   },
+   "t": "2026-11-08T04:32:25+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     257
+    ],
+    "karanlik_oran": 0.199,
+    "keskinlik": 4820,
+    "kontrast": 51,
+    "medyan": 107,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Drip_irrigation_system.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "be88196d1a62037a": {
    "icerik": {
@@ -15319,6 +15498,67 @@
     "kart",
     "detay"
    ]
+  },
+  "b9350eaeb8cd8c4d": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6016,
+    4016
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2022-06-01",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Toprak üzerinde uzanan siyah damlama sulama boruları ve bağlantı aparatları.",
+   "gosterim_ad": "tarımsal sulama",
+   "ilk_kabul": "2026-11-08T04:32:25+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Shixart1985 / Wikimedia Commons (CC BY 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 2.0",
+    "sahibi": "Shixart1985",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bağlantı aparatı",
+    "modern sulama sistemi",
+    "sulama borusu",
+    "toprak"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/500px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım teknolojileri",
+    "su tasarrufu",
+    "modern sulama"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T04:32:25+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "dc538ad3cf523b5f": {
    "alt_tur": "nesne",
