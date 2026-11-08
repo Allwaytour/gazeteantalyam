@@ -2434,6 +2434,41 @@
      },
      "t": "2026-11-08T15:19:06+03:00"
     },
+    "r1:474f0bc288d6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İyi Parti bayrakları ve kürsü görünümü haberin içeriğiyle uyumlu, boş salon olması toplantı öncesi hazırlığı yansıtır.",
+      "gerekli": [
+       {
+        "unsur": "İYİ Parti bayrağı veya amblemi",
+        "var": true
+       },
+       {
+        "unsur": "konuşma kürsüsü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       545,
+       585,
+       615,
+       665
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:33:48+03:00"
+    },
     "r1:502e7d033825:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -2681,7 +2716,7 @@
      "t": "2026-11-08T15:42:15+03:00"
     }
    },
-   "t": "2026-11-08T15:42:15+03:00",
+   "t": "2026-11-08T17:33:48+03:00",
    "teknik": {
     "doygunluk": 40.9,
     "inen": [
@@ -3117,6 +3152,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:474f0bc288d6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Antalya'daki bir etkinlik hakkındadır, TBMM genel kurulu görseli konuyla ilgisizdir ve yanıltıcı olabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:33:48+03:00"
+    },
     "r1:b9fd123c24b5:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -3157,7 +3213,7 @@
      "t": "2026-11-08T16:11:23+03:00"
     }
    },
-   "t": "2026-11-08T16:11:23+03:00",
+   "t": "2026-11-08T17:33:48+03:00",
    "teknik": {
     "doygunluk": 44.2,
     "inen": [
@@ -7938,6 +7994,36 @@
      },
      "t": "2026-11-08T15:13:28+03:00"
     },
+    "r1:df4e36703401:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'da çekilmiş olup Antalya'daki akreditasyon süreciyle hiçbir ilgisi yoktur, tamamen farklı bir coğrafyadır.",
+      "gerekli": [
+       {
+        "unsur": "akreditasyon masası",
+        "var": false
+       },
+       {
+        "unsur": "görevli personel",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:37:20+03:00"
+    },
     "r1:e11d50673d18:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -7999,7 +8085,7 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T15:13:40+03:00",
+   "t": "2026-11-08T17:37:20+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -14250,6 +14336,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/1280px-Morning%2C_Interior_-_Luce.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3e0f094b0aa2ee1d": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     180,
+     950,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "inek",
+     "metal düzenek",
+     "zincir"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir inek, tırnak bakımı için özel bir metal düzeneğin içinde duruyor.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "veterinerlik",
+     "hayvancılık",
+     "tırnak bakımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ccdc5e635e2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tırnak bakımı için kullanılan özel ekipmanı net bir şekilde gösteriyor, konuyla oldukça ilgili.",
+      "gerekli": [
+       {
+        "unsur": "inek",
+        "var": true
+       },
+       {
+        "unsur": "veteriner",
+        "var": false
+       },
+       {
+        "unsur": "tırnak bakım ekipmanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       180,
+       950,
+       850
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:34:37+03:00"
+    }
+   },
+   "t": "2026-11-08T17:34:37+03:00",
+   "teknik": {
+    "doygunluk": 26.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 3203,
+    "kontrast": 61,
+    "medyan": 130,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Klauenpflege_Kuh_9787.jpg/1280px-Klauenpflege_Kuh_9787.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3e557b64b78ca075": {
    "icerik": {
     "ana_kutu": [
@@ -14700,6 +14881,109 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Plachetnice_u_pl%C3%A1%C5%BEe.jpg/1280px-Plachetnice_u_pl%C3%A1%C5%BEe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "40b228faaf0539b8": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "inek",
+     "asker",
+     "ahşap çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir asker, ahşap bir çit arkasındaki ineğin tırnaklarına bakım yapıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "veterinerlik",
+     "hayvancılık",
+     "kırsal kalkınma"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      270,
+      260,
+      420,
+      370
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ccdc5e635e2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili olarak tırnak bakımı olayını yansıtıyor ancak yabancı askeri üniforma bağlamı zayıflatıyor.",
+      "gerekli": [
+       {
+        "unsur": "inek",
+        "var": true
+       },
+       {
+        "unsur": "veteriner",
+        "var": true
+       },
+       {
+        "unsur": "tırnak bakım ekipmanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:34:37+03:00"
+    }
+   },
+   "t": "2026-11-08T17:34:37+03:00",
+   "teknik": {
+    "doygunluk": 9.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.235,
+    "keskinlik": 1812,
+    "kontrast": 65,
+    "medyan": 81,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/U.S._Army_Capt._Matt_Radde%2C_with_the_994th_Medical_Detachment_%28Veterinarian_Services%29%2C_treats_a_dairy_cow_during_Beyond_the_Horizon_%28BTH%29_2013_in_El_Salvador_June_1%2C_2013_130601-A-AS768-134.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "40c89cc4d6094326": {
    "icerik": {
@@ -16502,6 +16786,85 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/DFC_1469_A_municipal_worker_in_an_orange_uniform_climbs_into_a_street-cleaning_truck_loaded_with_brooms_and_tools_as_it_stops_along_a_city_road.jpg/1280px-DFC_1469_A_municipal_worker_in_an_orange_uniform_climbs_into_a_street-cleaning_truck_loaded_with_brooms_and_tools_as_it_stops_along_a_city_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4974475391a709ee": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oy makinesi",
+     "kaldıraç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski tip mekanik bir oy kullanma makinesi paneli.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "seçim teknolojileri",
+     "tarihi seçimler"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel seçim haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24f6f3fe1c76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Türkiye'deki seçim sistemiyle ilgisi olmayan, yabancı bir mekanik oy makinesidir.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:35:28+03:00"
+    }
+   },
+   "t": "2026-11-08T17:35:28+03:00",
+   "teknik": {
+    "doygunluk": 60.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.171,
+    "keskinlik": 2472,
+    "kontrast": 55,
+    "medyan": 98,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Example_voting_booth.jpg/1280px-Example_voting_booth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "49969a5c6787b759": {
    "icerik": {
     "ana_kutu": [
@@ -18236,6 +18599,27 @@
      },
      "t": "2026-11-08T12:40:34+03:00"
     },
+    "r1:ccdc5e635e2f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Belediye otobüsü, tırnak bakımı haberiyle ilgisizdir ve görsel olarak konuyu desteklemez.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:34:37+03:00"
+    },
     "r1:d6d2afc555e0:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -18289,7 +18673,7 @@
      "t": "2026-11-08T15:16:05+03:00"
     }
    },
-   "t": "2026-11-08T16:36:58+03:00",
+   "t": "2026-11-08T17:34:37+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -19805,9 +20189,37 @@
       "yasak": []
      },
      "t": "2026-11-07T23:58:08+03:00"
+    },
+    "r1:f3eb4b2429a4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir vefatla ilgilidir; antik lahit görseli konuyla tamamen alakasızdır ve yasaklı insan yüzü içermektedir.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "insan yüzü"
+      ]
+     },
+     "t": "2026-11-08T17:35:42+03:00"
     }
    },
-   "t": "2026-11-08T15:35:29+03:00",
+   "t": "2026-11-08T17:35:42+03:00",
    "teknik": {
     "doygunluk": 19.8,
     "inen": [
@@ -24841,6 +25253,116 @@
    },
    "url": "https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDEyNzIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "71b851862d41c77f": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     200,
+     820,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "oy kabini",
+     "oy sandığı",
+     "sınıf tahtası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıf ortamında oy kabinleri ve sandıkların bulunduğu bir seçim alanı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "seçim haberi",
+     "kurultay haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye yerel haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      170,
+      205,
+      255,
+      265
+     ],
+     [
+      175,
+      535,
+      250,
+      595
+     ],
+     [
+      205,
+      785,
+      255,
+      845
+     ],
+     [
+      265,
+      920,
+      325,
+      975
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:24f6f3fe1c76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Seçim ortamını yansıtıyor ancak yabancı bir ülkeye ait olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       480,
+       670,
+       820,
+       920
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:35:28+03:00"
+    }
+   },
+   "t": "2026-11-08T17:35:28+03:00",
+   "teknik": {
+    "doygunluk": 22.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.15,
+    "keskinlik": 1436,
+    "kontrast": 54,
+    "medyan": 93,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Election_room_at_Z%C5%A0_Ohradn%C3%AD_in_Michle%2C_Prague.jpg/1280px-Election_room_at_Z%C5%A0_Ohradn%C3%AD_in_Michle%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "71ffac03e3c94699": {
    "icerik": {
     "ana_kutu": [
@@ -26414,6 +26936,89 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mushroom_sisig.jpg/1280px-Mushroom_sisig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "766239e83d57a8a2": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     280,
+     950,
+     720
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oy kabini",
+     "Amerikan bayrağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İçerisinde Amerikan bayrağı ve 'VOTE' yazısı bulunan oy kabinleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ABD seçimleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye seçimleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24f6f3fe1c76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Üzerinde Amerikan bayrağı ve 'VOTE' yazısı olması Türkiye'deki bir seçim haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       280,
+       950,
+       720
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:35:28+03:00"
+    }
+   },
+   "t": "2026-11-08T17:35:28+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.1,
+    "keskinlik": 824,
+    "kontrast": 59,
+    "medyan": 101,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1782998307726-f93ec14eda24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8dm90aW5nJTIwYm9vdGh8ZW58MXwwfHx8MTc5NDE0ODUyMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "769664d2a9104056": {
    "icerik": {
@@ -30621,6 +31226,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "89a937c0dc91b884": {
+   "icerik": {
+    "ana_kutu": [
+     240,
+     390,
+     960,
+     910
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "inek",
+     "çocuk",
+     "ip"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal alanda bir çocuk, iple bağlı bir ineği yürütüyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "hayvancılık",
+     "kırsal yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "veterinerlik",
+     "tırnak bakımı",
+     "belediye hizmetleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      240,
+      820,
+      340,
+      880
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ccdc5e635e2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta tırnak bakımıyla ilgili hiçbir eylem veya ekipman bulunmuyor, sadece inek gezdiren bir çocuk var.",
+      "gerekli": [
+       {
+        "unsur": "inek",
+        "var": true
+       },
+       {
+        "unsur": "veteriner",
+        "var": false
+       },
+       {
+        "unsur": "tırnak bakım ekipmanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:34:37+03:00"
+    }
+   },
+   "t": "2026-11-08T17:34:37+03:00",
+   "teknik": {
+    "doygunluk": 48.4,
+    "inen": [
+     500,
+     339
+    ],
+    "karanlik_oran": 0.103,
+    "keskinlik": 1043,
+    "kontrast": 51,
+    "medyan": 145,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Village_Veterinarian_Outreach_Program_120628-N-KB666-016.jpg/1280px-Village_Veterinarian_Outreach_Program_120628-N-KB666-016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8a1750e5e8b72ffd": {
    "icerik": {
     "ana_kutu": [
@@ -31162,6 +31864,27 @@
      },
      "t": "2026-11-08T16:10:21+03:00"
     },
+    "r1:474f0bc288d6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Antalya'daki bir etkinlik hakkındadır, TBMM genel kurulu görseli konuyla ilgisizdir ve yanıltıcı olabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:33:48+03:00"
+    },
     "r1:5a23dad379a3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31229,36 +31952,6 @@
       "yasak": []
      },
      "t": "2026-11-08T15:36:49+03:00"
-    },
-    "r1:778f0a55bac7:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber Antalya'daki bir etkinlik hakkindayken TBMM genel kurul salonunun gosterilmesi yer ve konu acisindan uyumsuz.",
-      "gerekli": [
-       {
-        "unsur": "konuşma kürsüsü",
-        "var": true
-       },
-       {
-        "unsur": "toplantı salonu",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:08:26+03:00"
     },
     "r1:86ede938cd6d:konu": {
      "d": {
@@ -31411,7 +32104,7 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T17:04:42+03:00",
+   "t": "2026-11-08T17:33:48+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -39261,6 +39954,87 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/India_-_Kolkata_electricity_meters_-_3832.jpg/1280px-India_-_Kolkata_electricity_meters_-_3832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "aec43c03a8066a85": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     200,
+     700,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "oy sandığı",
+     "zarf"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kişinin oy sandığına zarf atması.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "seçim haberi"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24f6f3fe1c76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oy kullanma eylemini temsil eden, genel kullanıma uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       200,
+       700,
+       800
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:35:28+03:00"
+    }
+   },
+   "t": "2026-11-08T17:35:28+03:00",
+   "teknik": {
+    "doygunluk": 27.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.227,
+    "keskinlik": 837,
+    "kontrast": 67,
+    "medyan": 124,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dm90aW5nJTIwYm9vdGh8ZW58MXwwfHx8MTc5NDE0ODUyMHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "af49930d3d6772a1": {
    "icerik": {
     "ana_kutu": [
@@ -45308,6 +46082,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:24f6f3fe1c76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan oy kullanma işlemini ve sandığı doğrudan temsil eden uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "oy sandığı",
+        "var": true
+       },
+       {
+        "unsur": "oy pusulası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       900,
+       650
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:35:28+03:00"
+    },
     "r1:9ecb173d9632:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45344,7 +46153,7 @@
      "t": "2026-11-08T15:11:49+03:00"
     }
    },
-   "t": "2026-11-08T15:11:49+03:00",
+   "t": "2026-11-08T17:35:28+03:00",
    "teknik": {
     "doygunluk": 26.8,
     "inen": [
@@ -51925,6 +52734,101 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/OtokarSultanPrisonBus_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "ea48fd7dba8a88c2": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     900,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "inek tırnağı",
+     "elektrikli törpü",
+     "eldivenli el"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir el, bir ineğin tırnağını elektrikli bir aletle törpülüyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "veterinerlik",
+     "hayvancılık",
+     "tırnak bakımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ccdc5e635e2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan tırnak bakım işlemini en net ve doğrudan gösteren görsel.",
+      "gerekli": [
+       {
+        "unsur": "inek",
+        "var": true
+       },
+       {
+        "unsur": "veteriner",
+        "var": true
+       },
+       {
+        "unsur": "tırnak bakım ekipmanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       900,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:34:37+03:00"
+    }
+   },
+   "t": "2026-11-08T17:34:37+03:00",
+   "teknik": {
+    "doygunluk": 23.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.389,
+    "keskinlik": 545,
+    "kontrast": 65,
+    "medyan": 65,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cow_hoof_repair.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "ea69d6fa7e1b883a": {
    "icerik": {
@@ -62669,7 +63573,7 @@
    "gosterim_ad": "önseçim",
    "ilk_kabul": "2026-11-08T15:11:49+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "WrS.tm.pl / Wikimedia Commons (Public domain)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -62707,7 +63611,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T15:11:49+03:00",
+   "son_kabul": "2026-11-08T17:35:28+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -63194,6 +64098,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T11:39:46+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "ea48fd7dba8a88c2": {
+   "alt_tur": "nesne",
+   "boyut": [
+    868,
+    651
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2021-06-05",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bir el, bir ineğin tırnağını elektrikli bir aletle törpülüyor.",
+   "gosterim_ad": "tırnak bakımı",
+   "ilk_kabul": "2026-11-08T17:34:37+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "China News Service / Wikimedia Commons (CC BY 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 4.0",
+    "sahibi": "China News Service",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Cow_hoof_repair.png"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "eldivenli el",
+    "elektrikli törpü",
+    "inek",
+    "inek tırnağı",
+    "tırnak bakım ekipmanı",
+    "veteriner"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cow_hoof_repair.png/500px-Cow_hoof_repair.png",
+   "kullanilabilir": [
+    "veterinerlik",
+    "hayvancılık",
+    "tırnak bakımı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-08T17:34:37+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cow_hoof_repair.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "yan",
