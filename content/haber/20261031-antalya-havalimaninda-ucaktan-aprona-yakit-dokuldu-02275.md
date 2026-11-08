@@ -95,23 +95,90 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya Havalimanı
   cekim_yili: '2022'
-  gerekce: '''Antalya Havalimanı'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2022-02-05; görsel kontrol: Antalya Havalimanı''nın genel görünümü, haberin geçtiği yeri temsil etmek için uygun bir arşiv fotoğrafıdır.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Haberin geçtiği havalimanı tesisini gösteriyor ancak yakıt sızıntısı olayını yansıtmıyor.
+  surum: h1-2026-11-07
   konu_imza: 374feead745a
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T20:22:10+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T11:39:34+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   aciklama: Antalya Havalimanı — Arşiv fotoğrafı (2022)
   alt_tur: kurum
   kaynak_aciklama: Antalya Airport (AYT) Turkey 🇹🇷
+  sinif: yer
+  hat: h2
+  inceleme:
+    teknik:
+      doygunluk: 35.3
+      inen:
+      - 500
+      - 309
+      karanlik_oran: 0.016
+      keskinlik: 923
+      kontrast: 39
+      medyan: 150
+      parlaklik: 147
+      s: t1
+    icerik:
+      sahne: Antalya Havalimanı apronu, uçaklar, kontrol kulesi ve açık mavi gökyüzü
+      nesneler:
+      - uçak
+      - kontrol kulesi
+      - apron
+      - aydınlatma direği
+      - bina
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: havalimanı apronu
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 300
+      - 0
+      - 850
+      - 1000
+      uygunluk: 7
+      gerekce: Haberin geçtiği havalimanı tesisini gösteriyor ancak yakıt sızıntısı olayını yansıtmıyor.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 etiketler:
 - SunExpress
+gorsel_yerlesim:
+  boyut:
+  - 2284
+  - 1413
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Havalimanı'nda sefer için hazırlık yapan bir yolcu uçağında henüz belirlenemeyen bir nedenle aprona yakıt dökülmesi olayı yaşandı.
 

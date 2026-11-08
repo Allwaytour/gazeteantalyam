@@ -2,39 +2,41 @@
 title: Antalyaspor tesislerinin elektrik sorunu çözüldü
 date: '2026-11-03T16:02:59+03:00'
 ozet: Atilla Vehbi Konuk Tesisleri'nde yaşanan elektrik kesintisi, yapılan ödemeler ve varılan anlaşmanın ardından sona erdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
 - Döşemealtı
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
-  fotografci: Onur
-  kredi: Onur / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya Stadyumu
-  cekim_yili: '2015'
-  gerekce: '''Antalyaspor'' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Antalya Stadyumu; görsel kontrol: ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — Fotoğraf stadyumu gösteriyor ancak haber Atilla Vehbi Konuk Tesisleri ile ilgili olduğundan konuyla doğrudan ilişkisi zayıftır.'
-  surum: g9.4-2026-11-05
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: e1769ca0c73a
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T18:19:29+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
-    model: gemini-3.1-flash-lite
-  aciklama: Antalya Stadyumu — Arşiv fotoğrafı (2015)
-  alt_tur: kurum
-  qid: Q43710
-  kaynak_aciklama: New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T11:38:05+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'görselde olmaması gereken unsur: maç ortamı, futbol stadyumu; habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (0/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: Antalyaspor tesisleri, spor tesis binası'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,35 +48,6 @@ gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
 gorsel_gecmis:
-- gorsel: /images/kategori/spor.png
-  gorsel_kredi: ''
-  gorsel_tur: kategori
-  gorsel_konum: ''
-  gorsel_secim:
-    tur: kategori
-    kaynak_sayfa: ''
-    fotografci: ''
-    kredi: Gazete Antalya
-    lisans: Gazete Antalya'nın kendi tasarımı
-    lisans_dayanagi: Sitenin kendi grafik dosyası
-    kosul: ''
-    gosterilen: ''
-    cekim_yili: ''
-    gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-    surum: g8.1-2026-11-02
-    konu_imza: e1769ca0c73a
-    gorsel_url: /images/kategori/spor.png
-    kontrol:
-      yapildi: true
-      sonuc: adaylar reddedildi
-      tarih: '2026-11-03T16:25:10+03:00'
-      yontem: Gemini görsel kontrol
-      model: gemini-3.5-flash-lite
-    kurum: k4
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-  degisim: '2026-11-05T16:42:05+03:00'
 - gorsel: https://images.unsplash.com/photo-1783428924759-d5c97dc8dc5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjB0cmFpbmluZyUyMGZhY2lsaXR5fGVufDF8MHx8fDE3OTM4ODYxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Fotoğraf: Bohdan Hyrovych / Unsplash'
   gorsel_tur: stok
@@ -140,6 +113,37 @@ gorsel_gecmis:
         neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); haberin gerektirdiği unsur görünmüyor (Antalyaspor tesis binası, futbol sahası) — Fotoğraf stady
     kapak_surum: c3
   degisim: '2026-11-05T22:33:08+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+    fotografci: Onur
+    kredi: Onur / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya Stadyumu
+    cekim_yili: '2015'
+    gerekce: '''Antalyaspor'' Wikidata Q43710 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Antalya Stadyumu; görsel kontrol: ana öznenin kimliği doğrulanmış kendi fotoğrafı (aynı olay şartı yok) — Fotoğraf stadyumu gösteriyor ancak haber Atilla Vehbi Konuk Tesisleri ile ilgili olduğundan konuyla doğrudan ilişkisi zayıftır.'
+    surum: g9.4-2026-11-05
+    konu_imza: e1769ca0c73a
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T18:19:29+03:00'
+      yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+      model: gemini-3.1-flash-lite
+    aciklama: Antalya Stadyumu — Arşiv fotoğrafı (2015)
+    alt_tur: kurum
+    qid: Q43710
+    kaynak_aciklama: New Antalya Stadium will organize its debut event at Antalyaspor-Beşiktaş match of October 27 2015.
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T11:38:12+03:00'
 etiketler:
 - Ali Topuz
 - Antalyaspor

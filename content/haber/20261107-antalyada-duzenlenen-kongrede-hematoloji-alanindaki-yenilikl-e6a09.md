@@ -32,10 +32,11 @@ gorsel_secim:
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T23:08:43+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    tarih: '2026-11-08T11:37:48+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:

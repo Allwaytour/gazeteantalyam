@@ -42,16 +42,16 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Antalya
   cekim_yili: '2025'
-  gerekce: 'dosya kaydında yer (''Antalya'') ve konu ipucu (sunny sky, antalya city view) birlikte geçiyor; görsel kontrol: Antalya''da açık bir havayı temsil eden uygun bir şehir/mekan görselidir.'
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Açık gökyüzü ve Antalya'da bir antik kenti gösterdiği için hava durumu haberine uygundur.
   surum: h1-2026-11-07
-  konu_imza: 318549fb61ac
+  konu_imza: 5501fb3f003e
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-08T06:02:39+03:00'
+    tarih: '2026-11-08T11:39:46+03:00'
     yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.1-flash-lite
+    model: gemini-3.5-flash-lite
   aciklama: Antalya — Arşiv fotoğrafı (2025)
   alt_tur: yer_konu
   kaynak_aciklama: Side Ancient City Antalya
@@ -81,7 +81,7 @@ gorsel_secim:
       ana_ozne_gorunuyor: false
       olay_gorunuyor: false
       gerekli:
-      - unsur: açık gökyüzü
+      - unsur: güneşli ve açık hava manzarası
         var: true
       yasak: []
       konu_ana_unsur: true
@@ -93,15 +93,12 @@ gorsel_secim:
       baska_olay_sanilir: false
       belirli_kisi_isletme: false
       yaniltici_yer: false
-      konu_kutusu:
-      - 0
-      - 0
-      - 1000
-      - 1000
-      uygunluk: 7
-      gerekce: Antalya'da açık bir havayı temsil eden uygun bir şehir/mekan görselidir.
+      konu_kutusu: null
+      uygunluk: 9
+      gerekce: Açık gökyüzü ve Antalya'da bir antik kenti gösterdiği için hava durumu haberine uygundur.
   arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -109,6 +106,9 @@ otomatik: true
 yz: true
 kaynak: Canlı Gaste
 kaynak_url: https://www.canligaste.com/antalya-da-bugun-hava-cogunlukla-acik-en-yuksek-18-derece-08-11-2026/945395/
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)'
 ---
 Antalya genelinde bugün hava durumu çoğunlukla açık bir seyir izleyecek. Gün boyu ılık bir havanın etkili olması beklenirken, termometrelerin en düşük 11, en yüksek ise 18 dereceyi göstermesi öngörülüyor. Nem oranının yüzde 38 seviyelerinde seyredeceği tahmin ediliyor.
 

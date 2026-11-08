@@ -18,23 +18,68 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Beşiktaş Stadyumu
   cekim_yili: '2022'
-  gerekce: '''Beşiktaş'' Wikidata Q172567 kaydındaki iç saha (P115) bilgisiyle doğrulandı: Beşiktaş Stadyumu; görsel kontrol: Beşiktaş stadyumunun genel görünümü, maç öncesi haber için uygun bir arşiv görselidir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Beşiktaş'ın stadyumunu gösterdiği için maç haberi için bağlamsal olarak uygundur ancak maç veya futbolcu görünmemektedir.
+  surum: h1-2026-11-07
   konu_imza: 6816a1ccfbaa
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Vodafone_Park.jpg/1280px-Vodafone_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T19:13:50+03:00'
-    yontem: Wikidata/Commons kimlik doğrulaması + Gemini sahne kontrolü
+    tarih: '2026-11-08T11:38:21+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
     model: gemini-3.5-flash-lite
   aciklama: Beşiktaş Stadyumu — Arşiv fotoğrafı (2022)
   alt_tur: kurum
   qid: Q172567
   kaynak_aciklama: Vodafone Park in Beşiktaş, Istanbul, Turkey. Home of Beşiktaş J. K. Image taken Sunday 1st May 2022.
+  sinif: ozne_kurum
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 375
+      parlaklik: 148
+      medyan: 181
+      karanlik_oran: 0.147
+      kontrast: 72
+      doygunluk: 24.8
+      keskinlik: 3105
+      s: t1
+    icerik:
+      sahne: İstanbul'da deniz kenarındaki Beşiktaş Stadyumu ve çevresi.
+      nesneler:
+      - stadyum
+      - otobüs
+      - otomobil
+      - palmiye
+      - deniz
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: false
+      gerekli: []
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 426
+      - 61
+      - 747
+      - 915
+      uygunluk: 6
+      gerekce: Beşiktaş'ın stadyumunu gösterdiği için maç haberi için bağlamsal olarak uygundur ancak maç veya futbolcu görünmemektedir.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:2
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -145,6 +190,28 @@ etiketler:
 - Beşiktaş ve Antalyaspor
 - Beşiktaş
 - Antalyaspor
+gorsel_yerlesim:
+  boyut:
+  - 4032
+  - 3024
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 48% 50%
+  o_mansetyan_m: 48% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  o_kart_p: 47% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Vodafone_Park.jpg/1280px-Vodafone_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 

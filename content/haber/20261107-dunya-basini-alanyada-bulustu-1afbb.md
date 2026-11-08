@@ -26,22 +26,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
   surum: h1-2026-11-07
   konu_imza: c2563c9b8e73
   gorsel_url: /images/kategori/yasam.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T23:06:46+03:00'
-    yontem: h1
-    model: gemini-3.1-flash-lite
-  hat: h1e
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T11:34:01+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: '''Eftelia Marin Resort Otel'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Lonicera World Otel'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Dim'' '
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberde adı geçen kişi sanılabilir); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem
   kapak_surum: c8
 manset: false
 son_dakika: false

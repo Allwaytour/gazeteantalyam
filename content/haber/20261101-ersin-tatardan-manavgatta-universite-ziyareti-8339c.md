@@ -19,24 +19,71 @@ gorsel_secim:
   kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
   gosterilen: Akdeniz Üniversitesi sitesinde yayımlanan aynı haberin fotoğrafı
   cekim_yili: ''
-  gerekce: 'Haber Akdeniz Üniversitesi sitesinde bulundu (metin benzerliği %67); fotoğraf kurumun kendi sayfasından; görsel kontrol: Haberdeki üniversite ziyaretini doğrudan gösteren güncel ve uygun bir görseldir.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Ersin Tatar'ın Manavgat'taki fakülte ziyaretini doğrudan ve eksiksiz yansıtan güncel bir kare.
+  surum: h1-2026-11-07
   konu_imza: b90671f3d632
   gorsel_url: /images/kurum/b7be2d578d3c38a8.jpg
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T18:33:07+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T11:39:15+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   alt_tur: kurum_haber
   izin_kontrolu:
     kendi_fotografi: fotoğraf kurumun kendi sunucusunda (webis.akdeniz.edu.tr); sayfada ajans kredisi yok
     yeniden_kullanim: 'Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).'
     izin_kaydi: Akdeniz Üniversitesi
     kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
-  kurum: k4
-  kurum_notu: Akdeniz Üniversitesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  sinif: ayni_olay
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 1280
+      - 960
+      parlaklik: 149
+      medyan: 172
+      karanlik_oran: 0.098
+      kontrast: 68
+      doygunluk: 15.0
+      keskinlik: 946
+      s: t1
+    icerik:
+      sahne: Bir fakülte koridorunda yürüyen Ersin Tatar ve beraberindeki heyet.
+      nesneler:
+      - koridor
+      - merdiven
+      - tabela
+      - kisi
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: true
+      gerekli:
+      - unsur: üniversite fakülte binası veya dekanlık
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 235
+      - 218
+      - 757
+      - 722
+      uygunluk: 10
+      gerekce: Ersin Tatar'ın Manavgat'taki fakülte ziyaretini doğrudan ve eksiksiz yansıtan güncel bir kare.
+  arama_surum: a2
+  kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -81,6 +128,21 @@ etiketler:
 - Fatih Uslu
 - Kuzey Kıbrıs Türk Cumhuriyeti
 - Akdeniz Üniversitesi
+gorsel_yerlesim:
+  boyut:
+  - 1280
+  - 960
+  dikey: false
+  surum: y3
+  manset: ''
+  yan: false
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: true
+  o_kart: 50% 59%
+  o_kart_p: 43% 50%
+  url: /images/kurum/b7be2d578d3c38a8.jpg
 ---
 Kuzey Kıbrıs Türk Cumhuriyeti 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret ederek akademisyenler ve öğrencilerle bir araya geldi. Dekanlık makamında gerçekleşen buluşmada fakültenin akademik yapısı, fiziki imkânları ve geleceğe yönelik hedefleri ele alındı. Fakülte Dekanı Prof. Dr. Fatih Uslu, konuğuna kurumun vizyonu ve çalışmaları hakkında ayrıntılı bilgiler aktardı.
 
