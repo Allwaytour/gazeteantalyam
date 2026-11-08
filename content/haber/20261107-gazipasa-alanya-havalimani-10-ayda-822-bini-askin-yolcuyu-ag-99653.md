@@ -105,6 +105,8 @@ gorsel_secim:
     o_yan_m: 50% 77%
     o_kart: 50% 0%
     o_kart_p: 50% 50%
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

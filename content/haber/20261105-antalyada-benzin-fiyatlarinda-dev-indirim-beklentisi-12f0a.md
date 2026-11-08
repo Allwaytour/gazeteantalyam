@@ -81,6 +81,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

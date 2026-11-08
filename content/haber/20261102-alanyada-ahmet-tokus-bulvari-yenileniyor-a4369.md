@@ -31,6 +31,8 @@ gorsel_secim:
     model: gemini-3.5-flash-lite
   alt_tur: kurum_haber
   kurum: k3
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -2,84 +2,31 @@
 title: 'Antalya''daki COP31 Zirvesi öncesi iklim uyarısı: Küresel ısınma hızı ikiye katlandı'
 date: '2026-11-06T17:17:00+03:00'
 ozet: Yeni bir araştırmaya göre küresel ısınma hızı 2015'ten bu yana neredeyse iki katına çıktı. Bu durum, Antalya'da düzenlenecek COP31 Zirvesi'nin önemini bir kat daha artırdı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Shixart1985 / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 kategoriler:
 - Yaşam
 ilceler: []
 etiketler: []
 onem: 5
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg
-  fotografci: Shixart1985
-  kredi: Shixart1985 / Wikimedia Commons (CC BY 2.0)
-  lisans: CC BY 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: tarımsal sulama
-  cekim_yili: ''
-  gerekce: 'kütüphane: somut konu (iklim krizi veya küresel ısınma teması) (doğrulama h2-i3-y3); görsel kontrol: Damlama sulama boruları kuraklık ve tarımsal iklim krizi temalarına kısmen temsilî olarak uygundur.'
-  surum: h1-2026-11-07
-  konu_imza: c9e9b06a94d5
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  tur: kategori
+  gorsel_url: /images/kategori/yasam.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-08T13:07:15+03:00'
-    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  sinif: konu
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:41+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: c9e9b06a94d5
   hat: h2
-  inceleme:
-    teknik:
-      doygunluk: 42.4
-      inen:
-      - 500
-      - 334
-      karanlik_oran: 0.339
-      keskinlik: 1478
-      kontrast: 48
-      medyan: 72
-      parlaklik: 78
-      s: t1
-    icerik:
-      sahne: Toprak üzerinde uzanan siyah damlama sulama boruları ve bağlantı aparatları.
-      nesneler:
-      - sulama borusu
-      - bağlantı aparatı
-      - toprak
-      tur: fotograf
-      donem: guncel
-    iliski:
-      ana_ozne_gorunuyor: false
-      olay_gorunuyor: false
-      gerekli:
-      - unsur: iklim krizi veya küresel ısınma teması
-        var: true
-      yasak: []
-      konu_ana_unsur: true
-      yanlis_kisi: false
-      yanlis_takim: false
-      yanlis_spor: false
-      yaniltici_donem: false
-      ilgisiz_yer_nesne: false
-      baska_olay_sanilir: false
-      belirli_kisi_isletme: false
-      yaniltici_yer: false
-      konu_kutusu:
-      - 0
-      - 0
-      - 1000
-      - 1000
-      uygunluk: 6
-      gerekce: Damlama sulama boruları kuraklık ve tarımsal iklim krizi temalarına kısmen temsilî olarak uygundur.
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read '
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: bilinen_yanlis_kaldirildi
+    aciklama: habere uygunluk düşük (6/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -121,25 +68,81 @@ gorsel_gecmis:
       notlar: 'Antalya Valiliği sayfası aynı haber değil (benzerlik %31); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''COP31 Zirvesi'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
     kapak_surum: c8
   degisim: '2026-11-08T13:07:15+03:00'
-gorsel_yerlesim:
-  boyut:
-  - 6016
-  - 4016
-  dikey: false
-  surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
-  detay: true
-  kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Shixart1985 / Wikimedia Commons (CC BY 2.0)'
+  gorsel_tur: stok
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg
+    fotografci: Shixart1985
+    kredi: Shixart1985 / Wikimedia Commons (CC BY 2.0)
+    lisans: CC BY 2.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: tarımsal sulama
+    cekim_yili: ''
+    gerekce: 'kütüphane: somut konu (iklim krizi veya küresel ısınma teması) (doğrulama h2-i3-y3); görsel kontrol: Damlama sulama boruları kuraklık ve tarımsal iklim krizi temalarına kısmen temsilî olarak uygundur.'
+    surum: h1-2026-11-07
+    konu_imza: c9e9b06a94d5
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-08T13:07:15+03:00'
+      yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    sinif: konu
+    hat: h2
+    inceleme:
+      teknik:
+        doygunluk: 42.4
+        inen:
+        - 500
+        - 334
+        karanlik_oran: 0.339
+        keskinlik: 1478
+        kontrast: 48
+        medyan: 72
+        parlaklik: 78
+        s: t1
+      icerik:
+        sahne: Toprak üzerinde uzanan siyah damlama sulama boruları ve bağlantı aparatları.
+        nesneler:
+        - sulama borusu
+        - bağlantı aparatı
+        - toprak
+        tur: fotograf
+        donem: guncel
+      iliski:
+        ana_ozne_gorunuyor: false
+        olay_gorunuyor: false
+        gerekli:
+        - unsur: iklim krizi veya küresel ısınma teması
+          var: true
+        yasak: []
+        konu_ana_unsur: true
+        yanlis_kisi: false
+        yanlis_takim: false
+        yanlis_spor: false
+        yaniltici_donem: false
+        ilgisiz_yer_nesne: false
+        baska_olay_sanilir: false
+        belirli_kisi_isletme: false
+        yaniltici_yer: false
+        konu_kutusu:
+        - 0
+        - 0
+        - 1000
+        - 1000
+        uygunluk: 6
+        gerekce: Damlama sulama boruları kuraklık ve tarımsal iklim krizi temalarına kısmen temsilî olarak uygundur.
+    arama_surum: a2
+    kurum: k5
+    kurum_notu: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read '
+  degisim: '2026-11-08T22:29:41+03:00'
+  kaldirma_nedeni: habere uygunluk düşük (6/10, en az 7)
 ---
 Geophysical Research Letters dergisinde yayımlanan güncel bir araştırmaya göre, dünyadaki küresel ısınma hızı 2015 yılından itibaren belirgin bir ivmelenme kaydetti. Modern sıcaklık kayıtlarının tutulmaya başlandığı 1880'lerden bu yana yapılan incelemelerde, 1970 ile 2015 yılları arasında her on yılda ortalama 0.2 derece olan sıcaklık artışı, son dönemde on yılda 0.35 dereceye yükseldi. Uzmanlar, kısa vadeli doğal etkenlerin matematiksel olarak filtrelenmesinden sonra bile bu hızlanmanın yüksek bir istatistiki kesinlik taşıdığını belirtti.
 

@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Turkiye'nin taninan seslerinden Koray Avci, hayranlarinin merakla bekledigi konseri icin bu aksam Antalya'da sahne alacak. Muzik dolu gece, kent merkezindeki etkinlik alaninda gerceklestirilecek.
 

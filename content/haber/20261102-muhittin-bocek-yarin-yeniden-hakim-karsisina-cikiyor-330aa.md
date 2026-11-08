@@ -79,6 +79,8 @@ gorsel_secim:
       gerekce: Ana kisisinin makamdaki notr portresi arsiv haberi icin uygundur.
   arama_surum: a2
   kurum: k5
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

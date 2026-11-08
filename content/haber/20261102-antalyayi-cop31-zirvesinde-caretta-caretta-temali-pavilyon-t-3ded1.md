@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: Antalya Valiliği sayfası aynı haber değil (benzerlik %36); Çay Kaymakamlığı sayfası aynı haber değil (benzerlik %22)
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

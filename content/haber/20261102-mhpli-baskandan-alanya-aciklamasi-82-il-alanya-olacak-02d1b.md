@@ -33,6 +33,8 @@ gorsel_secim:
   alt_tur: kurum
   kurum: k4
   kurum_notu: TBMM Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

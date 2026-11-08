@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q1004438
   kurum: k3
   kurum_notu: ATUS Antalya dışı kurum, kullanılmadı; ATUS Antalya dışı kurum, kullanılmadı; Döşemealtı Kaymakamlığı sayfası aynı haber değil (benzerlik %30)
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'nın turizm ve tarih açısından önemli ilçeleri Kaş ve Demre'de bulunan çok sayıda antik alan ve kültür varlığı için koruma kararı alındı. Kültür ve Turizm Bakanlığı bünyesindeki Antalya Kültür Varlıklarını Koruma Bölge Kurulu tarafından yürütülen saha çalışmalarının ardından, bölgedeki tescilli alanların çevresinde yeni antik yerleşim noktaları tespit edildi.
 

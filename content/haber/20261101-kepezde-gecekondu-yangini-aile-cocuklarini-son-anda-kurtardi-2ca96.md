@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q727065
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'nın Kepez ilçesi Beşkonak Mahallesi 4409 Sokak'ta bulunan ve yabancı uyruklu bir ailenin kiracı olarak yaşadığı gecekonduda henüz belirlenemeyen bir nedenle yangın çıktı. Evde bulunan anne, içeride uyuyan çocuğunu da alarak dışarı çıkmayı başardı. Kısa sürede büyüyen alevler tüm evi sardı.
 

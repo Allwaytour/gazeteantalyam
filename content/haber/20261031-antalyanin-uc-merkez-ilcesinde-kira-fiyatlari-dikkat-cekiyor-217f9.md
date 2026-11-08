@@ -2,8 +2,8 @@
 title: Antalya'nın Üç Merkez İlçesinde Kira Fiyatları Dikkat Çekiyor
 date: '2026-10-31T16:01:28+03:00'
 ozet: Antalya'nın merkez ilçelerinde kiralık konut fiyatları arasındaki belirgin farklar bütçeleri zorlarken, en yüksek ortalama Konyaaltı'nda görüldü.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/1280px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kategori/ekonomi.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Ekonomi
@@ -16,6 +16,31 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-kira-ucurumu-konyaalti-muratpasa-ve-kepezde-kiralar-ne-kadar/560730
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/ekonomi.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 1ffee7976b2f
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/1280px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Antalya'da konut kiraları, kent merkezinde yaşamak isteyen vatandaşların bütçesini zorlamaya devam ediyor. Ekim ayının son haftasına ilişkin verilere göre, kentin en yoğun yerleşim bölgelerinden Konyaaltı, Muratpaşa ve Kepez'deki kiralık konut fiyatları arasında önemli farklar bulunuyor. İlanlardaki rakamlar, ev arayan kişilerin tercih ettiği ilçeye göre barınma maliyetlerinde büyük değişikliklerle karşılaştığını ortaya koyuyor.
 

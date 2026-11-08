@@ -89,7 +89,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
-  kabul_kurali: k3
+  kabul_kurali: k4
+  kural_denetim: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

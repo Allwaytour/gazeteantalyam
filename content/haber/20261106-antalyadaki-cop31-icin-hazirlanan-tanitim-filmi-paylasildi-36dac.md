@@ -79,6 +79,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: 'Muratpaşa Belediyesi fotoğrafı alınamadı: yatay ve yeterli boyutta değil (600x817)'
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q727065
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Kepez ilçesi Beşkonak Mahallesi 4409 Sokak üzerinde bulunan ve yabancı uyruklu bir ailenin kiracı olarak ikamet ettiği gecekonduda henüz belirlenemeyen bir nedenle yangın çıktı. Kısa sürede büyüyen alevler ahşap çatının da etkisiyle tüm binayı sardı.
 

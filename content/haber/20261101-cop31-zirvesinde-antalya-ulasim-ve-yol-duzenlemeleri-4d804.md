@@ -43,6 +43,8 @@ gorsel_secim:
   alt_tur: kurum
   kurum: k3
   kurum_notu: 'kurum sayfası okunamadı (anadoluajansi.gov.tr): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce; kurum sayfası okunamadı (ilan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with'
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya, küresel önem taşıyan COP31 İklim Zirvesi için hazırlıklarını sürdürürken, etkinlik boyunca yaşanabilecek yoğunluğun önüne geçmek amacıyla kapsamlı trafik ve güvenlik önlemleri alındı. Antalya Valiliği tarafından paylaşılan bilgilere göre, şehir içi ulaşımda aksama yaşanmaması adına kritik güzergâhlarda düzenlemelere gidildi.
 

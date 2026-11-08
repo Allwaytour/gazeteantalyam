@@ -2,8 +2,8 @@
 title: Alanya'da geleneksel pişi buluşması gerçekleştirildi
 date: '2026-10-31T15:58:00+03:00'
 ozet: Alanya'da bir işletme tarafından bu yıl beşincisi düzenlenen geleneksel pişi buluşması, ilçe sakinleri ile esnafı bir araya getirdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -16,6 +16,31 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-altili-lastikte-5-geleneksel-pisi-bulusmasi
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/yasam.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: ff18bf3298bc
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Temsili fotoğraf: Julian Lupyan / Wikimedia Commons (CC0)'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Alanya'da otomotiv sektöründe hizmet veren bir işletme, geleneksel hale getirdiği Pişi Günü etkinliğinin beşincisini hayata geçirdi. Küçükhasbahçe Mahallesi Keykubat Bulvarı üzerindeki iş yerinde organize edilen program, sabahın erken saatlerinden itibaren katılımcılardan yoğun ilgi gördü.
 

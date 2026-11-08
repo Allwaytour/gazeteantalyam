@@ -32,6 +32,8 @@ gorsel_secim:
   aciklama: Alanya — Arşiv fotoğrafı (2024)
   alt_tur: kurum
   kurum: k4
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

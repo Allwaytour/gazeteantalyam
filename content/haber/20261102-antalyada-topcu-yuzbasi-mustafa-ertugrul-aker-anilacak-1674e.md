@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q1503514
   kurum: k3
   kurum_notu: EGO Genel Müdürlüğü Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

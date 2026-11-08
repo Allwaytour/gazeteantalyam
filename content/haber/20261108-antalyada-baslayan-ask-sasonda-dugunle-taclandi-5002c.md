@@ -107,6 +107,9 @@ gorsel_secim:
       gerekce: Türkiye'de çekilmiş bir düğün konvoyu olması habere görsel olarak uygundur, temsilî olarak kullanılabilir.
   arama_surum: a2
   kurum: k5
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

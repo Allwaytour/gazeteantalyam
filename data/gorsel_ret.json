@@ -1,4 +1,443 @@
 {
- "eslesme": {},
+ "aciklama": "Reddedilen fotoğraflar. 'gorsel': lisans/teknik nedenle her haber için reddedilenler (fotoğraf düzeyi). 'eslesme': yanlış yer/olay/özne nedeniyle yalnızca belirli bir haber için reddedilenler (haber–fotoğraf eşleşmesi düzeyi; anahtar: haberin konu imzası). Eşleşme dosya özetiyle (sha256) ve benzer görsel özetiyle (dHash) yapılır: aynı fotoğraf farklı adres, boyut ya da kaynaktan gelse de tanınır.",
+ "eslesme": {
+  "023ec3668f46": [
+   {
+    "dh": "",
+    "gk": "a1ca3cde73724cf9",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "0288911fd969": [
+   {
+    "dh": "",
+    "gk": "8941bf592a22d37b",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Burdur); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:44+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Burdur_%28provincia%29_1998_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "05b98b1641d7": [
+   {
+    "dh": "",
+    "gk": "4d96033bad0b27cf",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ],
+  "106a1ad53d85": [
+   {
+    "dh": "",
+    "gk": "4c503ca3bcff754e",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Kaş); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:44+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/KA%C5%9E_-_panoramio_-_Haluk_Comertel.jpg/1280px-KA%C5%9E_-_panoramio_-_Haluk_Comertel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "10f43c8e0995": [
+   {
+    "dh": "",
+    "gk": "8bd0cd3e783e8f44",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "1f5c593fa00b": [
+   {
+    "dh": "",
+    "gk": "16bcb0166dc4535e",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Kaş); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:44+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kaya_mezar_ve_liman-Ka%C5%9F_-_panoramio.jpg/1280px-Kaya_mezar_ve_liman-Ka%C5%9F_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "1f80fbaebe30": [
+   {
+    "dh": "",
+    "gk": "1500acc56f5d3224",
+    "kategori": [
+     "baglam",
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ],
+  "24f6f3fe1c76": [
+   {
+    "dh": "",
+    "gk": "c8f4266bdbdb384b",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki"
+   }
+  ],
+  "25a19ab3080e": [
+   {
+    "dh": "",
+    "gk": "8bd0cd3e783e8f44",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:43+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "44b2bfe4e6ad": [
+   {
+    "dh": "",
+    "gk": "a1ca3cde73724cf9",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "5e278aa73b20": [
+   {
+    "dh": "",
+    "gk": "fb228ddab0fa19bb",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "fotoğraf başka bir yere ait (Ankara Esenboğa Havalimanı); haberin geçtiği yer değil; habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "60d020c502bc": [
+   {
+    "dh": "",
+    "gk": "c8555f635a5fb140",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg?utm_source=commo"
+   }
+  ],
+  "6816a1ccfbaa": [
+   {
+    "dh": "",
+    "gk": "a314915f307f01a2",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Vodafone_Park.jpg/1280px-Vodafone_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "69e11cc6b5a2": [
+   {
+    "dh": "",
+    "gk": "1500acc56f5d3224",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ],
+  "6e5c0bd8462b": [
+   {
+    "dh": "",
+    "gk": "f8fe041e440c704c",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (5/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sukrusaracoglu.jpg/1280px-Sukrusaracoglu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "718513fa3a31": [
+   {
+    "dh": "",
+    "gk": "8f644a625dec731c",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "7c0a86d4145c": [
+   {
+    "dh": "",
+    "gk": "8bd0cd3e783e8f44",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "834bc02dd005": [
+   {
+    "dh": "",
+    "gk": "12c1b444cd2ecff2",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ],
+  "9ecb173d9632": [
+   {
+    "dh": "",
+    "gk": "c8f4266bdbdb384b",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')",
+    "sha": "",
+    "t": "2026-11-08T22:29:43+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki"
+   }
+  ],
+  "a60b163825a9": [
+   {
+    "dh": "",
+    "gk": "c0be2e284b3b393d",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Guzelyali.jpg/1280px-Guzelyali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "adb2d270060e": [
+   {
+    "dh": "",
+    "gk": "2601064a3294cd5b",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "temsilî fotoğraf belirli bir kişinin portresi",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "b9fd123c24b5": [
+   {
+    "dh": "",
+    "gk": "10b879101097baf0",
+    "kategori": [
+     "baglam",
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır; mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:43+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Meeting_of_the_Turkish_parliament%2C_May_4%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "c9e9b06a94d5": [
+   {
+    "dh": "",
+    "gk": "b9350eaeb8cd8c4d",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=im"
+   }
+  ],
+  "cc221122ff55": [
+   {
+    "dh": "",
+    "gk": "8bd0cd3e783e8f44",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "ccdb2576ec2f": [
+   {
+    "dh": "",
+    "gk": "192e6aa9feb529ff",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:43+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/LPG_small_cylinder_Adapter_Australia.jpg/1280px-LPG_small_cylinder_Adapter_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "d707ecf52e9d": [
+   {
+    "dh": "",
+    "gk": "50422e8a964170d6",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "e6f55c815c8e": [
+   {
+    "dh": "",
+    "gk": "4133847b2bd76b3e",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir ülkedeki yere/olaya ait ('United States')",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "ed423976bd8a": [
+   {
+    "dh": "",
+    "gk": "985c48ced5cf3f7f",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Aksu); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "f01885b5696f": [
+   {
+    "dh": "",
+    "gk": "1249279455a00903",
+    "kategori": [
+     "baglam"
+    ],
+    "kaynak": "kural",
+    "neden": "kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor",
+    "sha": "",
+    "t": "2026-11-08T22:29:42+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_320_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "f1f4b20621c2": [
+   {
+    "dh": "",
+    "gk": "2b8a770ee5e7df33",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "habere uygunluk düşük (6/10, en az 7)",
+    "sha": "",
+    "t": "2026-11-08T22:29:41+03:00",
+    "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ],
+  "fec2b8dcad5a": [
+   {
+    "dh": "",
+    "gk": "1500acc56f5d3224",
+    "kategori": [
+     "baglam",
+     "konu"
+    ],
+    "kaynak": "kural",
+    "neden": "mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)",
+    "sha": "",
+    "t": "2026-11-08T22:29:43+03:00",
+    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   }
+  ]
+ },
  "gorsel": []
 }

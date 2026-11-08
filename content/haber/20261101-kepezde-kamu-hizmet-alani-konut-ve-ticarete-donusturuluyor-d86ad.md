@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q727065
   kurum: k3
   kurum_notu: Kepez Belediyesi sayfasında bulundu
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Kepez Belediyesi meclisinin kasım ayı toplantısında, Yenidoğan Mahallesi'ndeki bir taşınmazın imar planı değişikliği ele alınacak. Meclis salonunda gerçekleştirilecek oturumda, ilgili imar komisyonu raporu üyelerin değerlendirmesine sunulacak.
 

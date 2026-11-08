@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Üniversite eğitimine devam eden bursiyer gençleri mesleklerinde tecrübe sahibi isimlerle buluşturan Mentorluk Projesi yeni dönem çalışmalarına başladı. Projenin 15. dönemi çerçevesinde mentör ile mentilerin ilk yüz yüze tanışma toplantısı gerçekleştirildi. Şube Koordinatörü Leyla İrten'in koordinasyonunda düzenlenen buluşmada, 54 menti ile 34 mentör yeni çalışma dönemi için bir araya geldi.
 

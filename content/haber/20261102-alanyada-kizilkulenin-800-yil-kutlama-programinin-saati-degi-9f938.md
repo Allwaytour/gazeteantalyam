@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q2470666
   kurum: k3
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %22); Alanya Kaymakamlığı sayfası aynı haber değil (benzerlik %44)
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

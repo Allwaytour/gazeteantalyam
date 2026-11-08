@@ -33,6 +33,8 @@ gorsel_secim:
   alt_tur: yer_konu
   kaynak_aciklama: Eastern walls of Alanya Castle, Alanya, Türkiye, 2024 .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--bord
   kurum: k5
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

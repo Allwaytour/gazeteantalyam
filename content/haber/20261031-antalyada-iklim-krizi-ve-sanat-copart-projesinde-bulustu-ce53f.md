@@ -2,8 +2,8 @@
 title: Antalya'da İklim Krizi ve Sanat COPArt Projesinde Buluştu
 date: '2026-10-31T16:11:52+03:00'
 ozet: Antalya'da hayata geçirilen COPArt projesi, iklim krizine karşı sanatın birleştirici gücüyle toplumsal farkındalık oluşturmayı amaçlıyor.
-gorsel: https://images.unsplash.com/photo-1762596852331-3377dfc7208c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8b3V0ZG9vciUyMGFydCUyMGV4aGliaXRpb24lMjBjbGltYXRlfGVufDF8MHx8fDE3OTM0ODUyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Temsili fotoğraf: Shalev Cohen / Unsplash'
+gorsel: /images/kategori/kultur-sanat.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Kültür-Sanat
@@ -15,6 +15,31 @@ otomatik: true
 yz: true
 kaynak: www.filashaber.com
 kaynak_url: https://filashaber.com/haber/antalyada-sanat-ve-iklimin-gucu-copart-projesi-ile-birlesiyor-52293
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/kultur-sanat.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 9cf55475eea1
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://images.unsplash.com/photo-1762596852331-3377dfc7208c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8b3V0ZG9vciUyMGFydCUyMGV4aGliaXRpb24lMjBjbGltYXRlfGVufDF8MHx8fDE3OTM0ODUyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: Shalev Cohen / Unsplash'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Antalya'da iklim krizine karşı sanatın gücüyle farkındalık yaratmayı hedefleyen COPArt projesi kapsamında geniş bir alan kapalı ve açık hava sanat galerisi olarak düzenlendi. "COPArt: Hâlâ Mümkün / Still Possible" temasıyla hazırlanan girişim, resimden sergiye, panellerden açık hava enstalasyonlarına kadar geniş bir yelpazeyi kapsıyor. İklim diplomasisinin kritik noktalarından biri olarak planlanan 1 milyon 100 bin metrekarelik alanda binlerce eser ziyaretçilerle buluşuyor.
 

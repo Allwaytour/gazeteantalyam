@@ -85,6 +85,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %33); Antalya Valiliği fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read ; Antalya Valiliği sayfası aynı haber değil (benzerlik %11); kurum sayfası okunamadı (Antalya Valiliği): HTTPS'
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -33,6 +33,8 @@ gorsel_secim:
   alt_tur: kurum
   kurum: k3
   kurum_notu: Alanya Kaymakamlığı sayfası aynı haber değil (benzerlik %35); Antalya Valiliği sayfası aynı haber değil (benzerlik %41); Döşemealtı Kaymakamlığı sayfasında haber fotoğrafı yok (11 görsel; )
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

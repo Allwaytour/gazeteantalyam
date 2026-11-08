@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q844779
   kurum: k3
   kurum_notu: "TBMM sayfası aynı haber değil (benzerlik %46); kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Kaza, gece saat 01.00 sularında Gazipaşa'nın Ilıca Mahallesi sınırları içerisinde meydana geldi. Alınan bilgilere göre, Raşit G. yönetimindeki 07 BFK 071 plakalı otomobil, henüz bilinmeyen bir nedenle sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yoldan çıkarak şarampole devrildi. Yaklaşık 100 metre yuvarlanan araçta kaza yaşandı.
 

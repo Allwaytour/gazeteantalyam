@@ -2,8 +2,8 @@
 title: 'Trabzonspor sevgisi Alanya''da buluşturdu: Dünür oldular'
 date: '2026-11-08T14:41:00+03:00'
 ozet: Farklı şehirlerden Trabzonspor'u desteklemek için Alanya'ya gelen bordo-mavili taraftarlar, kulüp sayesinde kurdukları dostlukları ve dünür olmaya uzanan hikayelerini paylaştı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Fotoğraf: Şadi Akdoğan / Wikimedia Commons (CC BY 4.0)'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -12,91 +12,24 @@ etiketler:
 - Trabzonspor
 - Corendon Alanyaspor
 onem: 3
-gorsel_tur: stok
-gorsel_yerlesim:
-  boyut:
-  - 914
-  - 763
-  dikey: false
-  surum: y3
-  manset: yan
-  yan: false
-  kart: false
-  detay: true
-  kart_portre: true
-  yan_portre: true
-  o_mansetyan_d: 41% 50%
-  o_mansetyan_m: 42% 50%
-  o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_(Tim_Jabol-Folcarelli).jpg
-  fotografci: Şadi Akdoğan
-  kredi: Şadi Akdoğan / Wikimedia Commons (CC BY 4.0)
-  lisans: CC BY 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Tim Jabol-Folcarelli
-  cekim_yili: ''
-  gerekce: 'kütüphane: somut konu (Trabzonspor atkısı veya forması giymiş t) (doğrulama h2-i3-y3); görsel kontrol: Trabzonspor formali futbolcu gorunuyor ancak haber taraftarlar hakkinda.'
-  surum: h1-2026-11-07
-  konu_imza: adb2d270060e
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  tur: kategori
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-08T15:03:42+03:00'
-    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: kisi_genel
-  qid: Q121494430
-  sinif: konu
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:42+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: adb2d270060e
   hat: h2
-  inceleme:
-    teknik:
-      doygunluk: 38.1
-      inen:
-      - 500
-      - 417
-      karanlik_oran: 0.294
-      keskinlik: 807
-      kontrast: 53
-      medyan: 74
-      parlaklik: 85
-      s: t1
-    icerik:
-      sahne: Bordo-mavi formalı futbolcu Tim Jabol-Folcarelli'nin portresi.
-      nesneler:
-      - forma
-      tur: fotograf
-      donem: guncel
-    iliski:
-      ana_ozne_gorunuyor: true
-      olay_gorunuyor: false
-      gerekli:
-      - unsur: Trabzonspor atkısı veya forması giymiş t
-        var: true
-      yasak: []
-      konu_ana_unsur: true
-      yanlis_kisi: false
-      yanlis_takim: false
-      yanlis_spor: false
-      yaniltici_donem: false
-      ilgisiz_yer_nesne: false
-      baska_olay_sanilir: false
-      belirli_kisi_isletme: false
-      yaniltici_yer: false
-      konu_kutusu:
-      - 35
-      - 10
-      - 995
-      - 990
-      uygunluk: 6
-      gerekce: Trabzonspor formali futbolcu gorunuyor ancak haber taraftarlar hakkinda.
-  arama_surum: a2
-  kurum: k5
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: bilinen_yanlis_kaldirildi
+    aciklama: temsilî fotoğraf belirli bir kişinin portresi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -104,6 +37,80 @@ otomatik: true
 yz: true
 kaynak: 61SAAT
 kaynak_url: https://www.61saat.com/trabzonspor-sayesinde-tanistilar-dunur-oldular-alanyada-61saate-konustular
+gorsel_gecmis:
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Fotoğraf: Şadi Akdoğan / Wikimedia Commons (CC BY 4.0)'
+  gorsel_tur: stok
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_(Tim_Jabol-Folcarelli).jpg
+    fotografci: Şadi Akdoğan
+    kredi: Şadi Akdoğan / Wikimedia Commons (CC BY 4.0)
+    lisans: CC BY 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Tim Jabol-Folcarelli
+    cekim_yili: ''
+    gerekce: 'kütüphane: somut konu (Trabzonspor atkısı veya forması giymiş t) (doğrulama h2-i3-y3); görsel kontrol: Trabzonspor formali futbolcu gorunuyor ancak haber taraftarlar hakkinda.'
+    surum: h1-2026-11-07
+    konu_imza: adb2d270060e
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-08T15:03:42+03:00'
+      yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: kisi_genel
+    qid: Q121494430
+    sinif: konu
+    hat: h2
+    inceleme:
+      teknik:
+        doygunluk: 38.1
+        inen:
+        - 500
+        - 417
+        karanlik_oran: 0.294
+        keskinlik: 807
+        kontrast: 53
+        medyan: 74
+        parlaklik: 85
+        s: t1
+      icerik:
+        sahne: Bordo-mavi formalı futbolcu Tim Jabol-Folcarelli'nin portresi.
+        nesneler:
+        - forma
+        tur: fotograf
+        donem: guncel
+      iliski:
+        ana_ozne_gorunuyor: true
+        olay_gorunuyor: false
+        gerekli:
+        - unsur: Trabzonspor atkısı veya forması giymiş t
+          var: true
+        yasak: []
+        konu_ana_unsur: true
+        yanlis_kisi: false
+        yanlis_takim: false
+        yanlis_spor: false
+        yaniltici_donem: false
+        ilgisiz_yer_nesne: false
+        baska_olay_sanilir: false
+        belirli_kisi_isletme: false
+        yaniltici_yer: false
+        konu_kutusu:
+        - 35
+        - 10
+        - 995
+        - 990
+        uygunluk: 6
+        gerekce: Trabzonspor formali futbolcu gorunuyor ancak haber taraftarlar hakkinda.
+    arama_surum: a2
+    kurum: k5
+  degisim: '2026-11-08T22:29:42+03:00'
+  kaldirma_nedeni: temsilî fotoğraf belirli bir kişinin portresi
 ---
 Trendyol Süper Lig'de oynanacak Corendon Alanyaspor karşılaşması öncesinde farklı illerden gelen Trabzonspor taraftarları Alanya'da bir araya geldi. Bordo-mavili ekibe olan sevgileriyle tanışan taraftarlar, yıllar içinde kurdukları bağların aile bağlarına dönüştüğünü ifade etti.
 

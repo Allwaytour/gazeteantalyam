@@ -83,6 +83,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %14); kurum sayfası okunamadı (Antalya Valiliği): 404 Client Error: Not Found for url: https://www.antalya.gov.tr/Hata/Page404; Alanya Belediyesi sayfası aynı haber değil (benzerlik %23); Antalya Büyükşehir Belediyesi sayfası aynı hab'
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

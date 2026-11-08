@@ -2,8 +2,8 @@
 title: Avrupa’nın devleri Alanya sahillerinde kupa mücadelesi veriyor
 date: '2026-11-06T11:13:00+03:00'
 ozet: CEV Plaj Voleybolu Avrupa Kulüpler Kupası Finali, Alanya'da 9 ülkeden 16 takımın katılımıyla büyük bir heyecana sahne oluyor.
-gorsel: https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: chaim weingarten / Unsplash'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -13,80 +13,24 @@ etiketler:
 - Türkiye Voleybol Federasyonu
 - Alanya Belediyesi
 onem: 4
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/beach-volleyball-court-with-spectators-and-city-skyline-JR_uYUE2qD4
-  fotografci: chaim weingarten
-  kredi: chaim weingarten / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: plaj voleybolu turnuvası
-  cekim_yili: ''
-  gerekce: 'Unsplash araması ''modern beach volleyball court''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Turnuva atmosferini ve voleybol maçını başarıyla yansıtmaktadır.'
-  surum: h1-2026-11-07
-  konu_imza: 834bc02dd005
-  gorsel_url: https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080
+  tur: kategori
+  gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-07T23:57:58+03:00'
-    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Beach volleyball court with spectators and city skyline
-  sinif: konu
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:41+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 834bc02dd005
   hat: h2
-  inceleme:
-    teknik:
-      inen:
-      - 400
-      - 188
-      parlaklik: 91
-      medyan: 78
-      karanlik_oran: 0.263
-      kontrast: 54
-      doygunluk: 38.6
-      keskinlik: 1683
-      s: t1
-    icerik:
-      sahne: Şehir manzaralı bir plaj voleybolu turnuvası.
-      nesneler:
-      - voleybol filesi
-      - tribün
-      - binalar
-      tur: fotograf
-      donem: guncel
-    iliski:
-      ana_ozne_gorunuyor: true
-      olay_gorunuyor: true
-      gerekli:
-      - unsur: plaj voleybolu sahası
-        var: true
-      - unsur: voleybol oyuncuları
-        var: true
-      yasak: []
-      konu_ana_unsur: true
-      yanlis_kisi: false
-      yanlis_takim: false
-      yanlis_spor: false
-      yaniltici_donem: false
-      ilgisiz_yer_nesne: false
-      baska_olay_sanilir: false
-      belirli_kisi_isletme: false
-      yaniltici_yer: false
-      konu_kutusu:
-      - 300
-      - 100
-      - 600
-      - 900
-      uygunluk: 10
-      gerekce: Turnuva atmosferini ve voleybol maçını başarıyla yansıtmaktadır.
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: bilinen_yanlis_kaldirildi
+    aciklama: başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -130,25 +74,84 @@ gorsel_gecmis:
       kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
     kurum: k5
   degisim: '2026-11-07T23:57:58+03:00'
-gorsel_yerlesim:
-  boyut:
-  - 7178
-  - 3378
-  dikey: false
-  surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
-  detay: true
-  kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
-  url: https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080
+- gorsel: https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: chaim weingarten / Unsplash'
+  gorsel_tur: stok
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/beach-volleyball-court-with-spectators-and-city-skyline-JR_uYUE2qD4
+    fotografci: chaim weingarten
+    kredi: chaim weingarten / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: plaj voleybolu turnuvası
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''modern beach volleyball court''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Turnuva atmosferini ve voleybol maçını başarıyla yansıtmaktadır.'
+    surum: h1-2026-11-07
+    konu_imza: 834bc02dd005
+    gorsel_url: https://images.unsplash.com/photo-1785044859048-4083c07d59df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-07T23:57:58+03:00'
+      yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Beach volleyball court with spectators and city skyline
+    sinif: konu
+    hat: h2
+    inceleme:
+      teknik:
+        inen:
+        - 400
+        - 188
+        parlaklik: 91
+        medyan: 78
+        karanlik_oran: 0.263
+        kontrast: 54
+        doygunluk: 38.6
+        keskinlik: 1683
+        s: t1
+      icerik:
+        sahne: Şehir manzaralı bir plaj voleybolu turnuvası.
+        nesneler:
+        - voleybol filesi
+        - tribün
+        - binalar
+        tur: fotograf
+        donem: guncel
+      iliski:
+        ana_ozne_gorunuyor: true
+        olay_gorunuyor: true
+        gerekli:
+        - unsur: plaj voleybolu sahası
+          var: true
+        - unsur: voleybol oyuncuları
+          var: true
+        yasak: []
+        konu_ana_unsur: true
+        yanlis_kisi: false
+        yanlis_takim: false
+        yanlis_spor: false
+        yaniltici_donem: false
+        ilgisiz_yer_nesne: false
+        baska_olay_sanilir: false
+        belirli_kisi_isletme: false
+        yaniltici_yer: false
+        konu_kutusu:
+        - 300
+        - 100
+        - 600
+        - 900
+        uygunluk: 10
+        gerekce: Turnuva atmosferini ve voleybol maçını başarıyla yansıtmaktadır.
+    arama_surum: a2
+    kurum: k5
+    kurum_notu: Alanya Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
+  degisim: '2026-11-08T22:29:41+03:00'
+  kaldirma_nedeni: başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır
 ---
 Alanya, doğal güzelliklerinin yanı sıra ev sahipliği yaptığı uluslararası spor organizasyonlarıyla da adından söz ettirmeyi sürdürüyor. Avrupa Voleybol Konfederasyonu takviminde yer alan CEV Plaj Voleybolu Avrupa Kulüpler Kupası Finali, ilçe sahillerinde büyük bir hareketlilik yarattı.
 

@@ -2,8 +2,8 @@
 title: Antalya'daki COP31 tedbirlerine siyasi tepki
 date: '2026-10-31T19:21:00+03:00'
 ozet: Antalya'da ev sahipliği yapılacak COP31 İklim Zirvesi öncesi açıklanan ulaşım kısıtlamalarına tepkiler sürüyor.
-gorsel: https://images.unsplash.com/photo-1564906158598-041131af6a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMHN1bW1pdCUyMHRyYWZmaWMlMjByZXN0cmljdGlvbnN8ZW58MXwwfHx8MTc5MzQ4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Temsili fotoğraf: Iwona Castiello d''Antonio / Unsplash'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
@@ -16,6 +16,31 @@ yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-cop31-kisitlamalari-gundemde-tipten-antalya-cezaevine-donusturuluyor-iddiasi
 gorsel_v4: true
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/gundem.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 3f51b227891a
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://images.unsplash.com/photo-1564906158598-041131af6a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMHN1bW1pdCUyMHRyYWZmaWMlMjByZXN0cmljdGlvbnN8ZW58MXwwfHx8MTc5MzQ4NDk5Mnww&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: Iwona Castiello d''Antonio / Unsplash'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Antalya'da düzenlenecek COP31 İklim Zirvesi dolayısıyla kent genelinde hayata geçirileceği duyurulan trafik ve ulaşım önlemleri eleştirileri beraberinde getirdi. Planlanan düzenlemeler kapsamında, 9-13 Kasım 2026 tarihlerinde Dikmen Kavşağı ile Altınova Kavşağı arasında çeşitli tedbirlerin uygulanması kararlaştırıldı. Yapılan planlamaya göre yük taşımacılığı yapan kamyon ve benzeri araçların sevkiyatlarını 22.00 ile 06.00 saatleri arasında gerçekleştirmesi istenirken, akaryakıt tankerlerinin teslimatlarının ise 00.00 ile 06.00 saatleri arasında yapılması öngörüldü.
 

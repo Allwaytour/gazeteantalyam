@@ -2,8 +2,8 @@
 title: Alanya'daki İki Otelin Kapasite Artışı İçin ÇED Sürecinde Sona Gelindi
 date: '2026-11-08T16:22:00+03:00'
 ozet: Alanya Avsallar'da bulunan iki otelin kapasite artışına yönelik hazırlanan ÇED raporları, inceleme sürecinin ardından halkın görüşüne sunuldu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Fotoğraf: geoka.ru / Wikimedia Commons (CC BY 3.0)'
+gorsel: /images/kategori/ekonomi.png
+gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler:
@@ -13,100 +13,24 @@ etiketler:
 - Özkaymak Turizm İşletmeciliği A.Ş
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 onem: 3
-gorsel_tur: stok
-gorsel_yerlesim:
-  boyut:
-  - 1011
-  - 672
-  dikey: false
-  surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
-  detay: true
-  kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 0% 50%
-  o_mansetyan_d: 32% 50%
-  o_mansetyan_m: 32% 50%
-  o_yan_d: 50% 90%
-  o_yan_t: 0% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 0%
-  o_kart_p: 30% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Lara_Family_Club_Hotel_-_panoramio.jpg
-  fotografci: geoka.ru
-  kredi: geoka.ru / Wikimedia Commons (CC BY 3.0)
-  lisans: CC BY 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Aksu
-  cekim_yili: ''
-  gerekce: 'kütüphane: somut konu (otel binası) (doğrulama h2-i3-y3); görsel kontrol: Haberdeki otel kapasite artışı konusuna uygun, otel binasını ve tesislerini gösteren güncel bir görsel.'
-  surum: h1-2026-11-07
-  konu_imza: ed423976bd8a
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  tur: kategori
+  gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-08T16:34:27+03:00'
-    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: yer_konu
-  sinif: konu
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:42+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: ed423976bd8a
   hat: h2
-  inceleme:
-    teknik:
-      doygunluk: 31.7
-      inen:
-      - 500
-      - 332
-      karanlik_oran: 0.041
-      keskinlik: 2779
-      kontrast: 51
-      medyan: 141
-      parlaklik: 146
-      s: t1
-    icerik:
-      sahne: Büyük bir otel kompleksi, havuzlar ve kaydıraklar
-      nesneler:
-      - otel binası
-      - yüzme havuzu
-      - su kaydırağı
-      - şezlong
-      - palmiye
-      tur: fotograf
-      donem: guncel
-    iliski:
-      ana_ozne_gorunuyor: false
-      olay_gorunuyor: false
-      gerekli:
-      - unsur: otel binası
-        var: true
-      yasak: []
-      konu_ana_unsur: true
-      yanlis_kisi: false
-      yanlis_takim: false
-      yanlis_spor: false
-      yaniltici_donem: false
-      ilgisiz_yer_nesne: false
-      baska_olay_sanilir: false
-      belirli_kisi_isletme: false
-      yaniltici_yer: false
-      konu_kutusu:
-      - 150
-      - 50
-      - 750
-      - 750
-      uygunluk: 10
-      gerekce: Haberdeki otel kapasite artışı konusuna uygun, otel binasını ve tesislerini gösteren güncel bir görsel.
-  arama_surum: a2
-  kurum: k5
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: bilinen_yanlis_kaldirildi
+    aciklama: kaynak kaydı başka bir yere ait (Aksu); haberde bu yer geçmiyor
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -114,6 +38,83 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/alanya/alanya-avsallarda-2-buyuk-otelin-kapasite-artisi-icin-ced-raporu-tamamlandi/388886
+gorsel_gecmis:
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Fotoğraf: geoka.ru / Wikimedia Commons (CC BY 3.0)'
+  gorsel_tur: stok
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Lara_Family_Club_Hotel_-_panoramio.jpg
+    fotografci: geoka.ru
+    kredi: geoka.ru / Wikimedia Commons (CC BY 3.0)
+    lisans: CC BY 3.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Aksu
+    cekim_yili: ''
+    gerekce: 'kütüphane: somut konu (otel binası) (doğrulama h2-i3-y3); görsel kontrol: Haberdeki otel kapasite artışı konusuna uygun, otel binasını ve tesislerini gösteren güncel bir görsel.'
+    surum: h1-2026-11-07
+    konu_imza: ed423976bd8a
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-08T16:34:27+03:00'
+      yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: yer_konu
+    sinif: konu
+    hat: h2
+    inceleme:
+      teknik:
+        doygunluk: 31.7
+        inen:
+        - 500
+        - 332
+        karanlik_oran: 0.041
+        keskinlik: 2779
+        kontrast: 51
+        medyan: 141
+        parlaklik: 146
+        s: t1
+      icerik:
+        sahne: Büyük bir otel kompleksi, havuzlar ve kaydıraklar
+        nesneler:
+        - otel binası
+        - yüzme havuzu
+        - su kaydırağı
+        - şezlong
+        - palmiye
+        tur: fotograf
+        donem: guncel
+      iliski:
+        ana_ozne_gorunuyor: false
+        olay_gorunuyor: false
+        gerekli:
+        - unsur: otel binası
+          var: true
+        yasak: []
+        konu_ana_unsur: true
+        yanlis_kisi: false
+        yanlis_takim: false
+        yanlis_spor: false
+        yaniltici_donem: false
+        ilgisiz_yer_nesne: false
+        baska_olay_sanilir: false
+        belirli_kisi_isletme: false
+        yaniltici_yer: false
+        konu_kutusu:
+        - 150
+        - 50
+        - 750
+        - 750
+        uygunluk: 10
+        gerekce: Haberdeki otel kapasite artışı konusuna uygun, otel binasını ve tesislerini gösteren güncel bir görsel.
+    arama_surum: a2
+    kurum: k5
+  degisim: '2026-11-08T22:29:42+03:00'
+  kaldirma_nedeni: kaynak kaydı başka bir yere ait (Aksu); haberde bu yer geçmiyor
 ---
 Antalya'nın Alanya ilçesi Avsallar Mahallesi'nde faaliyet gösteren iki büyük konaklama tesisinin kapasite artışına yönelik yürütülen Çevresel Etki Değerlendirmesi (ÇED) sürecinde önemli bir aşama kaydedildi. Özkaymak Turizm İşletmeciliği A.Ş. bünyesindeki Hotel Özkaymak ve Özkaymak Select Resort Otel için hazırlanan ÇED raporları, İnceleme ve Değerlendirme Komisyonu tarafından incelenerek son şeklini aldı.
 

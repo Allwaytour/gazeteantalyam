@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q844779
   kurum: k3
   kurum_notu: 'Gazipaşa Belediye fotoğrafı alınamadı: HTTPSConnectionPool(host=''www.gazipasa.bel.tr'', port=443): Read timed out. (read'
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Gazipaşa Belediyesinin ev sahipliğinde gerçekleştirilen 16. Gazipaşa Çekirdeksiz Nar ve Tropikal Meyve Festivali sona erdi. İlçenin ismini alışının yıl dönümü ve Cumhuriyet Bayramı kutlamalarıyla bir arada yapılan organizasyonda, bölgeye özgü tarım ürünleri ve çekirdeksiz narlar tanıtıldı. Atatürk Parkı'nda başlayan etkinliklere ilçe protokolü, siyasi parti temsilcileri ve çok sayıda vatandaş katılım sağladı.
 

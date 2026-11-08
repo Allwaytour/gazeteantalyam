@@ -78,6 +78,8 @@ gorsel_secim:
       gerekce: Haberin ana öznesinin makam odasındaki portresi taziye haberi için uygundur.
   arama_surum: a2
   kurum: k5
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

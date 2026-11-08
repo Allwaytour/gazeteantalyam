@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: Adana Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %20); İnegöl Belediyesi Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

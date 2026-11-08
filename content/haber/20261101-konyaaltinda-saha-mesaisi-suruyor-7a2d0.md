@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q1783599
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Konyaaltı Belediye Başkanı Cem Kotan, sürdürdüğü saha çalışmaları kapsamında ilçe sakinleri ve esnafla buluşmaya devam ediyor. Gerçekleştirilen ziyaretlerde belediye birimleriyle koordineli şekilde hareket ediliyor.
 

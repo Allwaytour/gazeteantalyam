@@ -43,6 +43,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: Araban İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; Kütahya İl Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; Kütahya İl Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'da imar tartışmaları yeni konut projelerinin ötesinde, yıllardır planlama bekleyen bölgeler, mahkeme kararları ve askıya çıkarılan plan değişiklikleriyle sürüyor. Kentin farklı noktalarındaki gelişmeler, imar süreçlerinin her mahallede kendine has bir aşamada ilerlediğini ortaya koyuyor.
 

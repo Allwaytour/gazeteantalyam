@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: Hazine ve Maliye Bakanlığı Antalya dışı kurum, kullanılmadı; T.C. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı Antalya dışı kurum, kullanılmadı; Mevzuat Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

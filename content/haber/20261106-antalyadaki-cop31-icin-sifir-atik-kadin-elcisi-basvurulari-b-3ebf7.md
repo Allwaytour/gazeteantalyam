@@ -84,6 +84,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: 'kurum fotoğrafı araması yapılamadı: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc; Antalya Büyükşehir Belediyesi bağlantısı çözülemedi; Antalya Valiliği bağlantısı çözülemedi; Antalya Valiliği sayfasında haber fotoğrafı yok (11 görsel; )'
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q844779
   kurum: k3
   kurum_notu: ADIYAMAN İL SAĞLIK MÜDÜRLÜĞÜ Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda gecti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
 

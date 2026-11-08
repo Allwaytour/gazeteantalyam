@@ -41,6 +41,8 @@ gorsel_secim:
   qid: Q110199633
   kurum: k3
   kurum_notu: 'kurum sayfası okunamadı (BURSA BÜYÜKŞEHIR BELEDIYESI): (''Connection broken: IncompleteRead(147051 bytes read, 56675532 more expected)'','
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyper_Coaster_Land_of_Legends_1.jpg/1280px-Hyper_Coaster_Land_of_Legends_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Philippe-Minh Nguyen / Wikimedia Commons (CC BY-SA 4.0)'

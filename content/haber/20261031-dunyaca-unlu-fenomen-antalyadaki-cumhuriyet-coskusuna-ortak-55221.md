@@ -2,8 +2,8 @@
 title: Dünyaca ünlü fenomen Antalya'daki Cumhuriyet coşkusuna ortak oldu
 date: '2026-10-31T16:22:00+03:00'
 ozet: Milyonlarca takipçisi bulunan sosyal medya fenomeni Younes Zarou, Antalya'daki Fener Alayı kutlamalarına katılarak coşkuyu sosyal medya hesaplarından paylaştı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg/1280px-Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -16,6 +16,31 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/dunyaca-unlu-fenomen-antalyadaki-cumhuriyet-coskusuna-hayran-kaldi
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/yasam.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 344e9cf80521
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg/1280px-Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Türkiye'de çeşitli içerikler üreten Fas kökenli Alman sosyal medya fenomeni Younes Zarou, Cumhuriyet'in 103'üncü yılı dolayısıyla Antalya'da düzenlenen etkinliklere dahil oldu. Instagram'da milyonlarca takipçisi bulunan ünlü isim, hava muhalefeti nedeniyle ertelenen ve Konyaaltı Caddesi'ndeki Varyant noktasından başlayıp Cumhuriyet Meydanı'nda sona eren Fener Alayı yürüyüşünde yer aldı.
 

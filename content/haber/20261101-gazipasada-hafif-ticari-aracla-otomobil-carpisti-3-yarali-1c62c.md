@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q844779
   kurum: k3
   kurum_notu: "kurum sayfası okunamadı (Adana MEB): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://adana.meb.g; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı"
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında hafif ticari araçla otomobil çarpıştı ve 3 kişi yaralandı.
 

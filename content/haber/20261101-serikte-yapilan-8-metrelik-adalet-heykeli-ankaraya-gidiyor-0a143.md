@@ -44,6 +44,8 @@ gorsel_secim:
   qid: Q1012849
   kurum: k3
   kurum_notu: 'kurum sayfası okunamadı (BURSA BÜYÜKŞEHIR BELEDIYESI): (''Connection broken: IncompleteRead(147051 bytes read, 56675532 more expected)'',; kurum sayfası okunamadı (İlan.gov.tr): HTTPSConnectionPool(host=''www.ilan.gov.tr'', port=443): Max retries exceeded with; kurum sayfası okunamadı (İlan.gov.tr): HTT'
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya'nın Serik ilçesinde D-400 kara yolu üzerindeki atölyesinde çalışmalarını yürüten heykeltıraş Utku Karakurt, Ankara'daki bir iş insanının özel yaşam alanı için yeni eserler tasarladı. Bu kapsamda hazırlanan ve yaklaşık dört ay süren yoğun bir çalışmanın ardından tamamlanan adalet heykeli, sekiz metre yüksekliğe ulaştı. Eserin, Türkiye'nin en büyük adalet heykeli olduğu ifade edilirken, yapıtın hemen yanında yine aynı sanatçı tarafından tasarlanan özgürlük heykelinin de yer alacağı belirtildi.
 

@@ -41,6 +41,8 @@ gorsel_secim:
     model: gemini-3.5-flash-lite
   kurum: k3
   kurum_notu: TBMM sayfasında bulundu
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya genelinde yükselen konut fiyatları ve yaşam maliyetleri, ücretli çalışanların bütçesinde ciddi bir baskı oluşturuyor. Dört kişilik bir ailenin sağlıklı ve dengeli beslenebilmesi için yapması gereken aylık gıda harcaması 38 bin 24 lira 3 kuruş olarak hesaplanırken, bu tablo aile bütçelerinin ne denli ağır bir yük altında kaldığını gözler önüne seriyor.
 

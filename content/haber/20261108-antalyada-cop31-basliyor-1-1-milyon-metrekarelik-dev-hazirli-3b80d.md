@@ -105,6 +105,9 @@ gorsel_secim:
       gerekce: Antalya EXPO alanındaki modern yapı, zirve alanı ve konferans binası bağlamına uygundur.
   arama_surum: a2
   kurum: k5
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

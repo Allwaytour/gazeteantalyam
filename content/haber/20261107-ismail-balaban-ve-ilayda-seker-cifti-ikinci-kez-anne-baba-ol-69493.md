@@ -80,6 +80,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: SAKARYA BİLİRKİŞİLİK BÖLGE KURULU Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

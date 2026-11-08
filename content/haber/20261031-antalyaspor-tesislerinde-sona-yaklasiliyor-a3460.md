@@ -2,8 +2,8 @@
 title: Antalyaspor tesislerinde sona yaklaşılıyor
 date: '2026-10-31T12:36:00+03:00'
 ozet: Geçtiğimiz yıl temeli atılan ve geniş bir alanı kapsayan Antalyaspor kamp ve spor tesislerinin inşaatında yüzde 95 seviyesine ulaşıldı.
-gorsel: https://images.unsplash.com/photo-1761039807688-f5b154a8827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwdHJhaW5pbmclMjBmYWNpbGl0eXxlbnwxfDB8fHwxNzkzNDg5NzY1fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Temsili fotoğraf: Valdhy Mbemba / Unsplash'
+gorsel: /images/kategori/spor.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Spor
@@ -15,6 +15,31 @@ otomatik: true
 yz: true
 kaynak: Haber 7
 kaynak_url: https://m.haber7.com/spor/haber/2000641-antalyaspor-tesislerinde-sona-dogru
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/spor.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 46abd54306a1
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://images.unsplash.com/photo-1761039807688-f5b154a8827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwdHJhaW5pbmclMjBmYWNpbGl0eXxlbnwxfDB8fHwxNzkzNDg5NzY1fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: Valdhy Mbemba / Unsplash'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Antalya Büyükşehir Belediyesi tarafından paylaşılan bilgilere göre, mayıs ayında temeli atılan yeni kamp ve spor tesislerinin yapım çalışmaları hızla sürüyor. Toplam 134 bin metrekarelik alanda yükselen ve 18 bin 500 metrekaresi kapalı alandan oluşan projede, inşaatın yüzde 95'lik bölümü geride kaldı.
 

@@ -31,6 +31,8 @@ gorsel_secim:
   aciklama: Tarkan — Arşiv fotoğrafı (2011)
   alt_tur: kisi_genel
   qid: Q485771
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

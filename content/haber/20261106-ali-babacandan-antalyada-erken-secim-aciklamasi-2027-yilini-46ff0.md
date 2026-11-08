@@ -2,8 +2,8 @@
 title: 'Ali Babacan''dan Antalya''da erken seçim açıklaması: 2027 yılını işaret etti'
 date: '2026-11-06T11:48:29+03:00'
 ozet: DEVA Partisi Genel Başkanı Ali Babacan, Antalya’da katıldığı bir toplantıda erken seçim tartışmalarına değinerek 2027 sonbaharını işaret etti.
-gorsel: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Apo Stock / Unsplash'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
@@ -13,79 +13,24 @@ etiketler:
 - DEVA Partisi
 - Forum X
 onem: 4
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://unsplash.com/photos/black-and-silver-microphone-on-brown-wooden-table-3vnxk7Hu8HQ
-  fotografci: Apo Stock
-  kredi: Apo Stock / Unsplash
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
-  gosterilen: erken seçim açıklaması
-  cekim_yili: ''
-  gerekce: 'Unsplash araması ''wooden lectern with microphones''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Kürsü ve mikrofon net bir şekilde görülüyor, Ali Babacan''ın erken seçim açıklaması haberi için uygun temsilî görsel.'
-  surum: h1-2026-11-07
-  konu_imza: 1f80fbaebe30
-  gorsel_url: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  tur: kategori
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-08T11:10:55+03:00'
-    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
-    model: gemini-3.5-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Photo by Anthony Roberts (@ARcreates) black and silver microphone on brown wooden table
-  sinif: konu
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:42+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: 1f80fbaebe30
   hat: h2
-  inceleme:
-    teknik:
-      inen:
-      - 400
-      - 267
-      parlaklik: 130
-      medyan: 142
-      karanlik_oran: 0.104
-      kontrast: 66
-      doygunluk: 35.2
-      keskinlik: 375
-      s: t1
-    icerik:
-      sahne: Ahşap kürsü üzerine konulmuş Shure marka mikrofon
-      nesneler:
-      - mikrofon
-      - kürsü
-      tur: fotograf
-      donem: guncel
-    iliski:
-      ana_ozne_gorunuyor: false
-      olay_gorunuyor: false
-      gerekli:
-      - unsur: konuşma kürsüsü
-        var: true
-      - unsur: mikrofon
-        var: true
-      yasak: []
-      konu_ana_unsur: true
-      yanlis_kisi: false
-      yanlis_takim: false
-      yanlis_spor: false
-      yaniltici_donem: false
-      ilgisiz_yer_nesne: false
-      baska_olay_sanilir: false
-      belirli_kisi_isletme: false
-      yaniltici_yer: false
-      konu_kutusu:
-      - 250
-      - 320
-      - 680
-      - 1000
-      uygunluk: 8
-      gerekce: Kürsü ve mikrofon net bir şekilde görülüyor, Ali Babacan'ın erken seçim açıklaması haberi için uygun temsilî görsel.
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: bilinen_yanlis_kaldirildi
+    aciklama: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -127,28 +72,83 @@ gorsel_gecmis:
     kaynak_aciklama: Ali Babacan , Turkish politician and Minister of Foreign Affairs, at the World Economic Forum Annual Meeting 2009.
     kurum: k5
   degisim: '2026-11-08T11:10:55+03:00'
-gorsel_yerlesim:
-  boyut:
-  - 4934
-  - 3289
-  dikey: false
-  surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
-  detay: true
-  kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 79% 50%
-  o_mansetyan_m: 79% 50%
-  o_yan_d: 50% 94%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 0%
-  o_kart_p: 82% 50%
-  url: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+- gorsel: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Fotoğraf: Apo Stock / Unsplash'
+  gorsel_tur: stok
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://unsplash.com/photos/black-and-silver-microphone-on-brown-wooden-table-3vnxk7Hu8HQ
+    fotografci: Apo Stock
+    kredi: Apo Stock / Unsplash
+    lisans: Unsplash Lisansı
+    lisans_dayanagi: https://unsplash.com/license
+    kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+    gosterilen: erken seçim açıklaması
+    cekim_yili: ''
+    gerekce: 'Unsplash araması ''wooden lectern with microphones''; kullanım hakkı Unsplash Lisansı (fotoğraf sayfası); görsel kontrol: Kürsü ve mikrofon net bir şekilde görülüyor, Ali Babacan''ın erken seçim açıklaması haberi için uygun temsilî görsel.'
+    surum: h1-2026-11-07
+    konu_imza: 1f80fbaebe30
+    gorsel_url: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-08T11:10:55+03:00'
+      yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+      model: gemini-3.5-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Photo by Anthony Roberts (@ARcreates) black and silver microphone on brown wooden table
+    sinif: konu
+    hat: h2
+    inceleme:
+      teknik:
+        inen:
+        - 400
+        - 267
+        parlaklik: 130
+        medyan: 142
+        karanlik_oran: 0.104
+        kontrast: 66
+        doygunluk: 35.2
+        keskinlik: 375
+        s: t1
+      icerik:
+        sahne: Ahşap kürsü üzerine konulmuş Shure marka mikrofon
+        nesneler:
+        - mikrofon
+        - kürsü
+        tur: fotograf
+        donem: guncel
+      iliski:
+        ana_ozne_gorunuyor: false
+        olay_gorunuyor: false
+        gerekli:
+        - unsur: konuşma kürsüsü
+          var: true
+        - unsur: mikrofon
+          var: true
+        yasak: []
+        konu_ana_unsur: true
+        yanlis_kisi: false
+        yanlis_takim: false
+        yanlis_spor: false
+        yaniltici_donem: false
+        ilgisiz_yer_nesne: false
+        baska_olay_sanilir: false
+        belirli_kisi_isletme: false
+        yaniltici_yer: false
+        konu_kutusu:
+        - 250
+        - 320
+        - 680
+        - 1000
+        uygunluk: 8
+        gerekce: Kürsü ve mikrofon net bir şekilde görülüyor, Ali Babacan'ın erken seçim açıklaması haberi için uygun temsilî görsel.
+    arama_surum: a2
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T22:29:42+03:00'
+  kaldirma_nedeni: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, Antalya’da Forum X tarafından düzenlenen toplantıda Türkiye’nin siyasi gündemine dair değerlendirmelerde bulundu. Son iki yılda ülkedeki siyasi dengelerin değiştiğini belirten Babacan, mevcut ekonomik koşulların seçim takvimini etkileyebileceğini dile getirdi.
 

@@ -87,6 +87,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: "kurum sayfası okunamadı (Alanya Belediyesi): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.alanya.; Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)"
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

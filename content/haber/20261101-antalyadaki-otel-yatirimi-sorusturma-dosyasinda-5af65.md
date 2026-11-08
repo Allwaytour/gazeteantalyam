@@ -43,6 +43,8 @@ gorsel_secim:
   alt_tur: yer
   qid: Q6487
   kurum: k3
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen bir soruşturma kapsamında, Antalya'nın turizm merkezi Belek'te faaliyet gösteren bir otel yatırımı da dosyaya dahil edildi. Yürütülen incelemeler neticesinde Belek'teki otelin ortaklık yapısı ve finansman süreçleri kamuoyunun dikkatini çekti.
 

@@ -34,6 +34,8 @@ gorsel_secim:
   qid: Q171810
   kurum: k3
   kurum_notu: 'Mevzuat Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (ISU Genel Müdürlüğü): HTTPSConnectionPool(host=''www.isu.gov.tr'', port=443): Max retries exceeded with '
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

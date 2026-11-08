@@ -45,6 +45,8 @@ gorsel_secim:
   qid: Q6098124
   kurum: k3
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Antalya genelindeki küçük ve orta büyüklükte işletmelerin finansmana erişimini kolaylaştırmak amacıyla hazırlanan yeni Nefes Kredisi dönemi başlıyor. Türkiye Odalar ve Borsalar Birliği Başkanı Rifat Hisarcıklıoğlu'nun duyurduğu destek paketi kapsamında, ticaret, üretim ve hizmet sektörlerinde faaliyet gösteren firmalara yeni bir kaynak sunuluyor. Daha önce kullandırılan finansmana ek olarak devreye alınan bu yeni hacim, kentteki işletmelerin ekonomik faaliyetlerine katkı sunmayı hedefliyor.
 

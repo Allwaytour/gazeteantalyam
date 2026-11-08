@@ -81,6 +81,8 @@ gorsel_secim:
   arama_surum: a2
   kurum: k5
   kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %31); Kepez Belediyesi sayfası aynı haber değil (benzerlik %43); Kepez Belediyesi sayfası aynı haber değil (benzerlik %25)
+  kural_denetim: k4
+  kabul_kurali: k4
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

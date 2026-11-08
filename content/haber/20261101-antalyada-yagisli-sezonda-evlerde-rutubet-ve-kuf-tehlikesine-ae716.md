@@ -2,8 +2,8 @@
 title: Antalya'da yağışlı sezonda evlerde rutubet ve küf tehlikesine dikkat
 date: '2026-11-01T13:15:38+03:00'
 ozet: Sonbahar ve kış aylarındaki artışla birlikte Antalya'daki konutlarda görülebilen rutubet ve küf sorununa karşı alınabilecek önlemler sıralandı.
-gorsel: https://images.unsplash.com/photo-1552641288-2a972e139224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bW9sZCUyMGh1bWlkaXR5JTIwd2FsbCUyMGluZG9vcnxlbnwxfDB8fHwxNzkzNTI4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Temsili fotoğraf: bruce mars / Unsplash'
+gorsel: /images/kategori/yasam.png
+gorsel_kredi: ''
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -15,6 +15,31 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-evlerde-rutubet-nasil-onlenir/560770
+gorsel_tur: kategori
+gorsel_secim:
+  tur: kategori
+  gorsel_url: /images/kategori/yasam.png
+  kontrol:
+    yapildi: true
+    sonuc: bilinen yanlış görsel kaldırıldı
+    tarih: '2026-11-08T22:29:44+03:00'
+    yontem: kural denetimi
+  surum: h1-2026-11-07
+  konu_imza: a50fdfcc0d04
+  hat: h2
+  durum: reddedildi
+  kapak_surum: c8
+  kural_denetim: k4
+  kapak_nedeni:
+    kod: dogrulanmamis_kaldirildi
+    aciklama: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_gecmis:
+- gorsel: https://images.unsplash.com/photo-1552641288-2a972e139224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bW9sZCUyMGh1bWlkaXR5JTIwd2FsbCUyMGluZG9vcnxlbnwxfDB8fHwxNzkzNTI4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_kredi: 'Temsili fotoğraf: bruce mars / Unsplash'
+  gorsel_tur: ''
+  gorsel_secim: {}
+  degisim: '2026-11-08T22:29:44+03:00'
+  kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
 ---
 Antalya'da sonbahar ve kış mevsimlerinde artış gösteren yağışlarla birlikte konutlarda rutubet ve küf riski de yeniden gündeme geliyor. Meteorolojik verilere göre kentte kasım ve aralık aylarında yağış miktarı önemli ölçüde yükseliyor. Bu durum, binaların yağışa karşı korunmasının önemini artırırken yetersiz havalandırılan veya yalıtımı bulunmayan evlerde nem kaynaklı sorunların görülme ihtimalini artırıyor.
 

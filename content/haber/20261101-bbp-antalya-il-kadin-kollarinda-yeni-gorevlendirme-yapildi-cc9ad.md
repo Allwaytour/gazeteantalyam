@@ -43,6 +43,8 @@ gorsel_secim:
   qid: Q6487
   kurum: k3
   kurum_notu: van - edremit ilçe millî eğitim müdürlüğü Antalya dışı kurum, kullanılmadı; Demre İlçe Milli Eğitim Müdürlüğü sayfası aynı haber değil (benzerlik %28); Develi İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı
+  kural_denetim: k4
+  kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 ---
 Büyük Birlik Partisi Antalya İl Kadın Kolları teşkilatında yeni bir yönetim hamlesi hayata geçirildi. Yapılan son görevlendirme doğrultusunda Ezgi Cengiz, İl Kadın Kolları Başkanlığı bünyesinde Toplumsal İlişkilerden Sorumlu İl Kadın Kolları Başkan Yardımcısı olarak atandı.
 
