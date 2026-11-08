@@ -595,10 +595,15 @@ def main():
 
     # Karşılaştırmalı görsel denemesi (haber dosyalarını değiştirmez). Aynı liste ve kural sürümü için bir kez tamamlanır;
     # kota nedeniyle eksik kalan satırlar sonraki turlarda (önbellekteki kararlar korunarak) yeniden denenir.
+    import gorsel_hat
     deneme = [d for d in (ayar.get("gorsel_deneme") or []) if isinstance(d, str)]
-    deneme_imza = gs.imza(gs.KURAL_SURUMU, ayar.get("gorsel_deneme_no", 1), *deneme)
+    deneme_imza = gs.imza(gs.KURAL_SURUMU, gorsel_hat.HAT_KIMLIK, gs.kod_surumu(), ayar.get("gorsel_deneme_no", 1), *deneme)
     onceki = durum["gorsel"].get("deneme") or {}
-    if deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:12":
+    deneme_hat = str(ayar.get("gorsel_deneme_hat") or "")
+    if deneme and deneme_hat != gorsel_hat.HAT_KIMLIK:
+        # Ayar ile betik sürümü uyuşmuyorsa test başlamaz (ör. ayar yüklendi, betik henüz yüklenmedi ya da tersi)
+        print(f"Görsel kabul testi başlamadı: ayar gorsel_deneme_hat='{deneme_hat}', kod görsel hattı kimliği '{gorsel_hat.HAT_KIMLIK}'")
+    elif deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:12":
         print(f"\nGörsel denemesi: {len(deneme)} haber")
         rapor = gs.deneme_calistir(bag, deneme, onceki.get("satirlar") if onceki.get("hedef") == deneme_imza else None,
                                    sure=int(ayar.get("gorsel_deneme_sure", 600)))
@@ -659,7 +664,24 @@ def main():
                 konu = konu or gs.konu_ayristir(bag, hb["baslik"], hb["spot"], yz.get("metin", ""))
             except Exception as e:
                 print("   Konu ayrıştırılamadı:", e)
-            secim, _ = gs.gorsel_sec(bag, hb, konu)
+            yayin_acik, yayin_not = gs.yayin_durumu(bag)
+            if yayin_acik:
+                secim, _ = gs.gorsel_sec(bag, hb, konu)
+                if secim.get("tur") != "kategori":
+                    gs.yayin_say(bag)
+            else:
+                # Deneme modu: yeni sürüm canlı habere görsel yazmaz. Kabul testi tamamlandıysa ve günlük hakkın test/yeni haber payı
+                # dışında kalan kısmı varsa seçim yalnızca kayda (gölge) alınır; haber fotoğrafsız yayımlanır, arama sonra yapılır.
+                if gs.test_tamam(bag) and bag.yz_hakki(2 + int(ayar.get("gorsel_yeni_haber_payi", 80))):
+                    try:
+                        secim_g, rapor_g = gs.gorsel_sec(bag, hb, konu)
+                        gs.golge_kaydet(bag, None, hb, secim_g, rapor_g)
+                    except Exception as e:
+                        print("   Gölge görsel seçimi yapılamadı:", e)
+                secim = gs.kapak_secimi(kat, f"Görsel yayını kapalı ({yayin_not}); fotoğrafsız, yayın açılınca aranacak.",
+                                        {"yapildi": False, "sonuc": "yayın kapalı", "tarih": datetime.now(TR).isoformat(timespec="seconds"),
+                                         "yontem": "yayın kapısı"}, gs.konu_imzasi(hb["baslik"], hb["spot"], kat))
+                secim.update(bekliyor=True, durum="arama_bekliyor", kapak_nedeni={"kod": "yayin_kapali", "aciklama": yayin_not})
         print(f"   Görsel: {secim['tur']} – {secim['gerekce'][:100]}")
         dosya = md_yaz(h, yz, url, secim, etiketler_cikar(konu))
         print(f"   → {dosya} ({'yapay zekâ' if yz else 'özet'})")
@@ -694,6 +716,7 @@ def main():
     try:
         import gorsel_hat
         gorsel_hat.kaydet()          # doğrulanmış görsel kütüphanesi ve inceleme önbelleği
+        gorsel_hat.ret_kaydet()      # reddedilen fotoğraflar (fotoğraf ve haber–fotoğraf eşleşmesi düzeyinde)
     except Exception as e:
         print("Görsel kütüphanesi kaydedilemedi:", e)
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 0)))

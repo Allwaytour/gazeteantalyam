@@ -34,6 +34,7 @@ import os
 import re
 import time
 from datetime import date, datetime, timedelta, timezone
+from urllib.parse import quote
 
 import requests
 import yaml
@@ -201,9 +202,18 @@ class Baglam:
         return int(self.ayar.get("gorsel_yz_gunluk", 100))
 
     def yz_hakki(self, adet=1):
-        # Gemini günlük kotası gerçekten dolduysa (429 PerDay) o gün başka istek denenmez; kota yenilenince açılır.
-        return (bool(self.gemini_key) and self.g.get("kota_bitti") != gemini_gunu()
-                and self.g["yz_bugun"] + adet <= self.yz_gunluk)
+        # Kotanın yenilendiği saat varsayılmaz: servis günlük kota dolu (429) dediyse engel kaydedilir ve en erken bir saat sonra
+        # tek bir deneme isteğine izin verilir; servis yine 429 dönerse engel yenilenir, yanıt gelirse engel kalkar.
+        if not self.gemini_key or self.g["yz_bugun"] + adet > self.yz_gunluk:
+            return False
+        ke = self.g.get("kota_engel")
+        if isinstance(ke, dict):
+            try:
+                gecen = (simdi_tr() - datetime.fromisoformat(ke.get("zaman", ""))).total_seconds()
+            except Exception:
+                gecen = 1e9
+            return gecen >= 3600
+        return True
 
     def yasakli_mi(self, url):
         return url in self.g["yasakli"]
@@ -249,6 +259,7 @@ class Baglam:
                         print(f"   {model} günlük kotası doldu; {yeni} ile devam ediliyor")
                         return self.gemini(parcalar, en_fazla, sicaklik, model=yeni)
                     self.g["kota_bitti"] = gemini_gunu()
+                    self.g["kota_engel"] = {"zaman": simdi_tr().isoformat(timespec="seconds"), "model": model, "yanit": (r.text or "")[:160]}
                     raise KotaHatasi("Gemini günlük kotası doldu (429); kota yenilenince yeniden denenecek")
                 if deneme == 0:
                     time.sleep(20)
@@ -270,6 +281,8 @@ class Baglam:
                 raise ServisHatasi(f"Gemini {r.status_code}: {r.text[:160]}")
             self.g["yz_bugun"] += 1
             self.yz_tur += 1
+            if self.g.pop("kota_engel", None) is not None:      # servis yanıt verdi: kota gerçekten açık
+                self.g.pop("kota_bitti", None)
             self.son_model = model
             try:
                 aday = r.json()["candidates"][0]
@@ -2301,6 +2314,105 @@ def onayli_kaydet(bag, a, simdi, konu=None):
 
 
 # ----------------------------------------------------------------- ön bilgi (front matter)
+# ----------------------------------------------------------------- yayın kapısı: deneme ile canlı yayın ayrı
+def yayin_durumu(bag):
+    """Canlı görsel yazımı açık mı? kaynaklar.yml → gorsel_yayin: {surum, grup_siniri}. surum, kodun görsel hattı kimliğine
+    (gorsel_hat.HAT_KIMLIK) eşit değilse yeni sürüm canlı haberlerin görselini DEĞİŞTİRMEZ (deneme modu): yalnızca bilinen yanlış
+    görseller temizlenir ve doğrulanmış görsellerle devam edilir. grup_siniri > 0 ise sürüm önce bu kadar haberde etkinleşir.
+    Dönüş: (açık mı, açıklama)."""
+    import gorsel_hat as gh
+    y = bag.ayar.get("gorsel_yayin") or {}
+    if str(y.get("surum") or "") != gh.HAT_KIMLIK:
+        return False, f"deneme modu: yayın sürümü '{y.get('surum') or '-'}', kod {gh.HAT_KIMLIK}"
+    sinir = int(y.get("grup_siniri") or 0)
+    sayac = bag.g.setdefault("yayin_sayac", {})
+    if sinir and sayac.get(gh.HAT_KIMLIK, 0) >= sinir:
+        return False, f"küçük grup sınırı ({sinir}) doldu; sonuçlar incelenip grup_siniri 0 yapılınca tam yayına geçer"
+    return True, f"yayın açık ({gh.HAT_KIMLIK}" + (f", küçük grup {sayac.get(gh.HAT_KIMLIK, 0)}/{sinir})" if sinir else ")")
+
+
+def yayin_say(bag):
+    import gorsel_hat as gh
+    sayac = bag.g.setdefault("yayin_sayac", {})
+    sayac[gh.HAT_KIMLIK] = sayac.get(gh.HAT_KIMLIK, 0) + 1
+
+
+def test_tamam(bag):
+    d = bag.g.get("deneme") or {}
+    import gorsel_hat as gh
+    return bool(d.get("imza")) and d.get("hat_kimlik") == gh.HAT_KIMLIK and not d.get("eksik")
+
+
+def dogrulanmis_mi(s):
+    """Yayındaki otomatik görsel bu haber için bir görsel denetiminden geçmiş mi? (eski hatların denetimsiz stok/rastgele seçimleri geçmemiştir)"""
+    s = s if isinstance(s, dict) else {}
+    return s.get("durum") == "onaylandi" or "onaylandı" in str((s.get("kontrol") or {}).get("sonuc", ""))
+
+
+def gorsel_temizle(bag, v, nedenler, kaynak="kural", kod="bilinen_yanlis_kaldirildi", ret=True):
+    """Bilinen yanlış görseli yapay zekâ isteği ve yeni arama yapmadan yayından çıkarır. Önce geri alma kaydında (gorsel_gecmis)
+    bu haber için doğrulanmış (h1e/h2 onaylı) ve ret kaydında olmayan bir önceki görsel aranır; yoksa haber fotoğrafsız gösterilir.
+    Haber metni ve adresi değişmez; kaldırılan görsel gorsel_gecmis'te kalır (geri alınabilir) ve ret kaydına (bu haber için) girer."""
+    import gorsel_hat as gh
+    s = v.get("gorsel_secim") or {}
+    kimza = s.get("konu_imza") or konu_imzasi(v.get("title"), v.get("ozet"), (v.get("kategoriler") or ["Gündem"])[0])
+    gk = gh.gorsel_kimligi(v.get("gorsel", ""))
+    oz = dict((gh.kutuphane()["inceleme"].get(gk) or {}).get("ozet") or {})
+    if ret:
+        gh.ret_ekle({"ozet": oz, "gk": gk, "url": v.get("gorsel", "")}, kimza, nedenler, kaynak=kaynak)
+    alternatif = None
+    for g in reversed(v.get("gorsel_gecmis") or []):
+        gs_ = g.get("gorsel_secim") or {}
+        u = g.get("gorsel") or ""
+        if not u or u.startswith("/images/kategori/") or u == v.get("gorsel") or not str(gs_.get("hat", "")).startswith("h"):
+            continue
+        if gs_.get("konu_imza") != kimza or gs_.get("tur") == "kategori":
+            continue
+        gk2 = gh.gorsel_kimligi(u)
+        if gh.ret_bul(dict((gh.kutuphane()["inceleme"].get(gk2) or {}).get("ozet") or {}, gk=gk2), kimza)[0]:
+            continue
+        alternatif = g
+        break
+    gecmis = v.get("gorsel_gecmis") if isinstance(v.get("gorsel_gecmis"), list) else []
+    gecmis.append({"gorsel": v.get("gorsel", ""), "gorsel_kredi": v.get("gorsel_kredi", ""), "gorsel_tur": v.get("gorsel_tur", ""),
+                   "gorsel_secim": s, "degisim": simdi_tr().isoformat(timespec="seconds"),
+                   "kaldirma_nedeni": "; ".join(n for _, n in nedenler)[:300]})
+    if alternatif:
+        v["gorsel"], v["gorsel_kredi"], v["gorsel_tur"] = alternatif["gorsel"], alternatif.get("gorsel_kredi", ""), alternatif.get("gorsel_tur", "")
+        v["gorsel_secim"] = dict(alternatif["gorsel_secim"], durum="onaylandi", kural_denetim=gh.KABUL_KURALI)
+        y = (alternatif["gorsel_secim"] or {}).get("yerlesim")
+        if y:
+            v["gorsel_yerlesim"] = dict(y, url=v["gorsel"])
+        sonuc = "doğrulanmış önceki görsele dönüldü"
+    else:
+        kat = (v.get("kategoriler") or ["Gündem"])[0]
+        k = {"yapildi": True, "sonuc": "bilinen yanlış görsel kaldırıldı", "tarih": simdi_tr().isoformat(timespec="seconds"), "yontem": "kural denetimi"}
+        yeni = kapak_secimi(kat, "Yayındaki görsel kural denetiminde yanlış bulundu ya da bu haber için doğrulanmamıştı; kaldırıldı, fotoğrafsız.", k, kimza)
+        v["gorsel"], v["gorsel_kredi"], v["gorsel_tur"] = yeni["gorsel"], yeni["gorsel_kredi"], "kategori"
+        v["gorsel_secim"] = {"tur": "kategori", "gorsel_url": yeni["gorsel"], "kontrol": k, "surum": KURAL_SURUMU, "konu_imza": kimza,
+                             "hat": gh.HAT_SURUM, "durum": "reddedildi", "kapak_surum": KAPAK_SURUM, "kural_denetim": gh.KABUL_KURALI,
+                             "kapak_nedeni": {"kod": kod, "aciklama": "; ".join(n for _, n in nedenler)[:300]}}
+        v.pop("gorsel_yerlesim", None)
+        sonuc = "fotoğrafsız gösteriliyor"
+    v["gorsel_gecmis"] = gecmis[-4:]
+    v.pop("gorsel_bekleyen", None)
+    return sonuc
+
+
+def golge_kaydet(bag, dosya, haber, secim, rapor):
+    """Deneme modunda seçimin sonucu canlı habere yazılmaz; aday, durum, gerekçe ve önizleme bilgisi burada tutulur."""
+    import gorsel_hat as gh
+    g = bag.g.setdefault("golge", [])
+    y = secim.get("yerlesim") or {}
+    g.append({"dosya": dosya, "baslik": haber.get("baslik", ""), "hat": gh.HAT_KIMLIK, "tarih": simdi_tr().isoformat(timespec="seconds"),
+              "durum": secim.get("durum") or ("onaylandi" if secim.get("tur") != "kategori" else "fotografsiz"),
+              "gorsel": secim.get("gorsel") if secim.get("tur") != "kategori" else "", "sinif": secim.get("sinif", ""),
+              "kaynak_sayfa": secim.get("kaynak_sayfa", ""), "lisans": secim.get("lisans", ""), "gerekce": (secim.get("gerekce") or "")[:240],
+              "kapak_nedeni": secim.get("kapak_nedeni"), "yerlesim": {k: y.get(k) for k in ("manset", "kart", "kart_portre", "yan")},
+              "adaylar": [{"url": a.get("url"), "durum": a.get("durum"), "nedenler": a.get("nedenler")} for a in (rapor.get("adaylar") or [])][:8]})
+    del g[:-300]
+
+
 def otomatik_gorsel_mi(v):
     """Görsel otomatik seçilmişse True. Elle seçilmiş, sabitlenmiş ya da kökeni belirsizse False (dokunulmaz)."""
     if v.get("otomatik") is not True or v.get("gorsel_kilit"):
@@ -2321,7 +2433,14 @@ def otomatik_gorsel_mi(v):
 
 
 def secimi_uygula(v, secim):
-    """Seçimi ön bilgiye yazar. Önceki görsel geri alınabilsin diye 'gorsel_onceki' alanında saklanır."""
+    """Seçimi ön bilgiye yazar. Önceki görsel geri alınabilsin diye 'gorsel_onceki' alanında saklanır.
+    Yalnızca bu haber için onaylanmış fotoğraf yayımlanır: durumu 'onaylandi' olmayan (bulundu, kontrol bekliyor, reddedildi)
+    hiçbir fotoğraf habere yazılmaz; böyle bir seçim fotoğrafsız kayda dönüştürülür."""
+    if secim.get("tur") != "kategori" and secim.get("durum") != "onaylandi":
+        k = dict(secim.get("kontrol") or {}, sonuc="onaylanmamış aday yayımlanmadı")
+        secim = dict(kapak_secimi(v.get("kategoriler", ["Gündem"])[0] if v.get("kategoriler") else "Gündem",
+                                  "Aday onaylanmadı; fotoğrafsız.", k, secim.get("konu_imza", "")),
+                     durum="kontrol_bekliyor", bekliyor=True, kapak_nedeni={"kod": "onay_yok", "aciklama": "onaylanmamış aday"})
     if "gorsel_onceki" not in v and (v.get("gorsel") or v.get("gorsel_kredi")):
         v["gorsel_onceki"] = {"gorsel": v.get("gorsel", ""), "gorsel_kredi": v.get("gorsel_kredi", "")}
     if v.get("gorsel") and v.get("gorsel") != secim["gorsel"]:
@@ -2338,7 +2457,8 @@ def secimi_uygula(v, secim):
                                            "gosterilen", "cekim_yili", "gerekce", "surum", "konu_imza")}
     kayit["gorsel_url"] = secim["gorsel"]
     kayit["kontrol"] = secim.get("kontrol", {})
-    for k in ("aciklama", "alt_tur", "qid", "izin_kontrolu", "izin_kapsami", "kaynak_aciklama", "sinif", "hat", "inceleme", "arama_surum"):
+    for k in ("aciklama", "alt_tur", "qid", "izin_kontrolu", "izin_kapsami", "kaynak_aciklama", "sinif", "hat", "inceleme", "arama_surum",
+              "durum", "onay", "kabul_kurali"):
         if secim.get(k):
             kayit[k] = secim[k]
     if secim.get("yerlesim") and secim.get("tur") != "kategori":
@@ -2476,6 +2596,19 @@ def haber_isle(bag, yol, zorla=""):
         return {"tur": "korundu", "gorsel": eski, "alt_tur": eski_secim.get("alt_tur", ""), "aciklama": eski_secim.get("aciklama", ""),
                 "kapak_nedeni": secim.get("kapak_nedeni")}, "mevcut fotoğraf yeniden kontrolden geçti; korundu"
     gecersiz = bool(konu and eski_bilgi and not eski_gecerli(eski_bilgi, konu, h))
+    if secim.get("bekliyor") and eski and not eski.startswith("/images/kategori/") and secim["tur"] == "kategori":
+        # Kota/servis hatasında mevcut fotoğraf koşulsuz korunmaz: bilinen bir sorunu varsa (ret kaydı, bağlam ön denetimi,
+        # kayıtlı yanıtlarla kabul kuralları) kota beklenirken de yayından çıkar. Yalnızca sorunu bilinmeyen fotoğraf korunur.
+        import gorsel_hat as gh
+        if dogrulanmis_mi(v.get("gorsel_secim")):
+            ned, _ = gh.kural_denetimi(v, konu, govde)
+            kod, ret = "bilinen_yanlis_kaldirildi", True
+        else:
+            ned, kod, ret = [("dogrulama", "bu haber için doğrulanmamış eski otomatik seçim")], "dogrulanmamis_kaldirildi", False
+        if ned:
+            sonuc = gorsel_temizle(bag, v, ned, kod=kod, ret=ret)
+            md_yaz(yol, v, govde)
+            return {"tur": "kategori", "gorsel": v.get("gorsel"), "bekliyor": True}, f"kontrol yapılamadı; bilinen sorunlu görsel kaldırıldı ({sonuc})"
     if secim.get("bekliyor") and eski and not eski.startswith("/images/kategori/") and secim["tur"] == "kategori" and not gecersiz:
         # Konu ayrıştırılamadı, görsel kontrolü ya da arama yapılamadı (kota/servis): mevcut fotoğraf kategori kapağıyla
         # değiştirilmez. Yalnızca deneme kaydı tutulur; 3 saat sonra (en çok 4 kez) yeniden denenir.
@@ -2571,32 +2704,34 @@ def yerlesim_yenile(v):
 
 
 def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
-    """Otomatik görselleri küçük gruplar hâlinde işler; iki ayrı kuyruk:
-    (1) düzeltme — bu hatla değerlendirilmemiş otomatik fotoğraflar (açıkça yanlışsa kaldırılır ya da değiştirilir), tur başına 'limit';
-    (2) fotoğraf bulma — fotoğrafsız haberlere doğrulanmış fotoğraf aranması, tur başına 'gorsel_bulma_tur'.
-    Onaylanmış fotoğraflar yeniden değerlendirilmez; elle seçilmiş görsellere dokunulmaz; değiştirilen görsel gorsel_gecmis'te kalır.
-    yalniz_bekleyen=True: yalnızca kontrolü kota/servis yüzünden ertelenmiş kayıtlar yeniden denenir."""
+    """Toplu görsel işlemi. Her turda iki ayrı iş:
+    (A) TEMİZLİK — yapay zekâ isteği gerektirmez, deneme modunda da çalışır: yayındaki her otomatik fotoğraf güncel kabul kurallarıyla
+        (ret kaydı, kaynak kaydıyla bağlam ön denetimi, kayıtlı inceleme yanıtları) denetlenir; bilinen yanlış görsel hemen yayından
+        çıkar (doğrulanmış önceki görsele dönülür ya da haber fotoğrafsız gösterilir). Doğrulanmış görsellerin yerleşimi yenilenir.
+    (B) YENİ SEÇİM — yalnızca yayın açıkken (gorsel_yayin.surum = kodun görsel hattı kimliği): 1. kuyruk bu hatla değerlendirilmemiş
+        otomatik fotoğraflar, 2. kuyruk fotoğrafsız haberlere fotoğraf arama. Deneme modunda canlı görsel değiştirilmez.
+    Elle seçilmiş görsellere dokunulmaz; değiştirilen/kaldırılan görsel gorsel_gecmis'te kalır."""
+    import gorsel_hat as gh
+    acik, yayin_aciklama = yayin_durumu(bag)
+    print("Görsel yayını:", yayin_aciklama)
     sinir = int(bag.ayar.get("gorsel_toplu_sinir", 0) or 0)
     sayac = bag.g.setdefault("toplu_sayac", {})
     sure = int(bag.ayar.get("gorsel_sure_dk", 8)) * 60
     baslangic = time.time()
     tum = sorted(os.listdir(HABER_KLASOR), reverse=True)
     yeniden = [a for a in (bag.ayar.get("gorsel_yeniden") or []) if isinstance(a, str) and a in tum]
-    # Sıra: tek seferlik yeniden işleme → kabul testinin zorunlu beş örneği → ana sayfada görünen haberler → eski doğrulama
-    # örnekleri → kalanlar (yenilerden eskiye).
     oncelikli = list(yeniden)
-    for a in ([d for d in (bag.ayar.get("gorsel_deneme") or [])[:5] if isinstance(d, str)] + ana_sayfa_onceligi(tum)
-              + [d for d in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(d, str)]):
+    for a in ana_sayfa_onceligi(tum) + [d for d in (bag.ayar.get("gorsel_oncelikli") or []) if isinstance(d, str)]:
         if a in tum and a not in oncelikli:
             oncelikli.append(a)
-    sinirlar = {"duzelt": limit, "bul": int(bag.ayar.get("gorsel_bulma_tur", 6)), "yerlesim": 60, "kural": 80}
-    sayilar = {"duzelt": 0, "bul": 0, "yerlesim": 0, "kural": 0}
+    sinirlar = {"duzelt": limit, "bul": int(bag.ayar.get("gorsel_bulma_tur", 6)), "yerlesim": 60, "temizlik": 400}
+    sayilar = {"duzelt": 0, "bul": 0, "yerlesim": 0, "temizlik": 0, "kaldirilan": 0}
     yeniden_no = f"{KURAL_SURUMU}:{bag.ayar.get('gorsel_yeniden_no', 1)}"
+    kaldirilan = bag.g.setdefault("temizlik_son", [])
+    test_payi = 0 if test_tamam(bag) else int(bag.ayar.get("gorsel_test_payi", 150))
     for ad in oncelikli + [a for a in tum if a not in oncelikli]:
-        if all(sayilar[k] >= sinirlar[k] for k in sinirlar):
-            break
         if time.time() - baslangic > sure:
-            print("Görsel düzeltme süre sınırına ulaştı; kalan haberler sonraki turda.")
+            print("Görsel işlemi süre sınırına ulaştı; kalan haberler sonraki turda.")
             break
         yol = os.path.join(HABER_KLASOR, ad)
         try:
@@ -2604,79 +2739,98 @@ def toplu_duzelt(bag, limit=3, yalniz_bekleyen=False):
             oto, _ = otomatik_gorsel_mi(v)
             if not oto:
                 continue
-            zorla = ad in yeniden and (v.get("gorsel_secim") or {}).get("zorla") != yeniden_no
-            tur = kuyruk_turu(v)
-            if zorla:
-                tur = tur if tur in ("duzelt", "bul") else ("duzelt" if not str(v.get("gorsel", "")).startswith("/images/kategori/") else "bul")
-            if not tur:
+            s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+            g = v.get("gorsel") or ""
+            fotolu = bool(g) and not g.startswith("/images/kategori/")
+            # (A) temizlik: güncel kabul kurallarıyla bir kez denetlenir (kurallar değişince yeniden)
+            if fotolu and s.get("kural_denetim") != gh.KABUL_KURALI and sayilar["temizlik"] < sinirlar["temizlik"]:
+                sayilar["temizlik"] += 1
+                ob = bag.onbellek_al("konu:" + imza(KURAL_SURUMU, v.get("title", ""), v.get("ozet", "")))
+                konu_k = (konu_dogrula(ob["konu"]) or ob["konu"]) if ob and ob.get("konu") else None
+                if dogrulanmis_mi(s):
+                    ned, eksik = gh.kural_denetimi(v, konu_k, govde)
+                    kod, ret = "bilinen_yanlis_kaldirildi", True
+                else:
+                    # Eski hatların denetimsiz (rastgele/stok) seçimi: bu haber için onaylanmış değil → yayında kalmaz. Fotoğraf
+                    # reddedilmiş sayılmaz (ret kaydına girmez); yayın açılınca bu haber için yeniden aranır.
+                    ned, eksik = [("dogrulama", "bu haber için doğrulanmamış eski otomatik seçim")], False
+                    kod, ret = "dogrulanmamis_kaldirildi", False
+                if ned:
+                    sonuc = gorsel_temizle(bag, v, ned, kod=kod, ret=ret)
+                    md_yaz(yol, v, govde)
+                    sayilar["kaldirilan"] += 1
+                    kaldirilan.append({"dosya": ad, "gorsel": g[:200], "neden": "; ".join(n for _, n in ned)[:240], "sonuc": sonuc,
+                                       "tarih": simdi_tr().isoformat(timespec="seconds")})
+                    del kaldirilan[:-200]
+                    print(f"Bilinen yanlış görsel kaldırıldı: {ad} → {sonuc} ({'; '.join(n for _, n in ned)[:120]})")
+                    continue
+                s["kural_denetim"] = gh.KABUL_KURALI
+                if eksik:
+                    s["kural_denetim_not"] = "kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu"
+                if str(s.get("hat", "")).startswith("h"):
+                    s["kabul_kurali"] = gh.KABUL_KURALI
+                v["gorsel_secim"] = s
+                if str(s.get("hat", "")).startswith("h") and (v.get("gorsel_yerlesim") or {}).get("surum") != gh.YERLESIM_SURUM:
+                    if yerlesim_yenile(v):
+                        sayilar["yerlesim"] += 1
+                md_yaz(yol, v, govde)
                 continue
-            if tur == "yerlesim":
-                if sayilar["yerlesim"] < sinirlar["yerlesim"] and not yalniz_bekleyen and yerlesim_yenile(v):
+            if fotolu and str(s.get("hat", "")).startswith("h") and (v.get("gorsel_yerlesim") or {}).get("surum") != gh.YERLESIM_SURUM:
+                if sayilar["yerlesim"] < sinirlar["yerlesim"] and yerlesim_yenile(v):
                     md_yaz(yol, v, govde)
                     sayilar["yerlesim"] += 1
                 continue
-            if tur == "kural":
-                if sayilar["kural"] >= sinirlar["kural"] or yalniz_bekleyen:
-                    continue
-                import gorsel_hat as gh
-                ob = bag.onbellek_al("konu:" + imza(KURAL_SURUMU, v.get("title", ""), v.get("ozet", "")))
-                konu_k = (konu_dogrula(ob["konu"]) or ob["konu"]) if ob and ob.get("konu") else None
-                ned = gh.kural_denetimi(v, konu_k) if konu_k else None
-                sayilar["kural"] += 1
-                if ned == []:
-                    v["gorsel_secim"]["kabul_kurali"] = gh.KABUL_KURALI
-                    if (v.get("gorsel_yerlesim") or {}).get("surum") != gh.YERLESIM_SURUM:
-                        yerlesim_yenile(v)
-                    md_yaz(yol, v, govde)
-                    continue
-                print(f"Kural denetimi ({ad}): " + ("; ".join(n for _, n in ned)[:160] if ned else "kayıt eksik") + " → yeniden değerlendirilecek")
-                tur = "duzelt"         # açıkça kurala uymayan ya da kaydı eksik onaylı fotoğraf tam değerlendirmeye girer
-            if yalniz_bekleyen and not (isinstance(v.get("gorsel_secim"), dict) and v["gorsel_secim"].get("bekliyor")):
+            # (B) yeni seçim: yalnızca yayın açıkken
+            if not acik or yalniz_bekleyen and not s.get("bekliyor"):
                 continue
-            if sayilar[tur] >= sinirlar[tur] or (not zorla and bekleyen_deneme_yakin(v)):
+            zorla = ad in yeniden and s.get("zorla") != yeniden_no
+            tur = kuyruk_turu(v)
+            if tur in ("yerlesim", "kural"):
+                tur = None
+            if zorla:
+                tur = "duzelt" if fotolu else "bul"
+            if not tur or sayilar[tur] >= sinirlar[tur] or (not zorla and bekleyen_deneme_yakin(v)):
                 continue
-            # Yeni gelen haberlerin görsel kontrolü için günlük hakkın bir kısmı her zaman ayrılır (toplu işlem onu tüketmez).
-            if not bag.yz_hakki(2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
-                print("Toplu işlem durdu: günlük görsel hakkının kalanı yeni haberlere ayrıldı.")
-                break
-            if not yalniz_bekleyen and bag.kalan_modeller_fn and not zorla:
-                try:
-                    kalan_m = bag.kalan_modeller_fn()
-                except Exception:
-                    kalan_m = ["?", "?"]
-                if len(kalan_m) <= 1 and getattr(bag, "biten_modeller", None):
-                    print("Toplu işlem durdu: kotası kalan son yapay zekâ modeli yeni haberlere ayrıldı.")
-                    break
+            if all(sayilar[k] >= sinirlar[k] for k in ("duzelt", "bul")):
+                continue
+            # Günlük görsel hakkından önce kabul testine, sonra yeni haberlere pay ayrılır; geniş eski haber taraması bunları tüketmez.
+            if not bag.yz_hakki(2 + test_payi + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))):
+                continue
             skey = KURAL_SURUMU if tur == "duzelt" else f"{KURAL_SURUMU}:bul"
-            if not yalniz_bekleyen and tur == "duzelt" and sinir and sayac.get(skey, 0) >= sinir and not zorla:
+            if tur == "duzelt" and sinir and sayac.get(skey, 0) >= sinir and not zorla:
                 continue
             secim, neden = haber_isle(bag, yol, zorla=yeniden_no if zorla else "")
             if secim is None:
                 print(f"Görsel işlenmedi ({tur}): {ad} → {neden}")
-                if neden.startswith("kontrol yapılamadı") and not bag.yz_hakki(2):
-                    print("Yapay zekâ kotası dolu; toplu işlem bu tur durduruldu.")
-                    break
                 continue
             sayilar[tur] += 1
+            if secim.get("tur") not in ("kategori", "korundu"):
+                yayin_say(bag)
+                acik, yayin_aciklama = yayin_durumu(bag)      # küçük grup sınırı dolduysa yeni seçim burada durur
             if not secim.get("bekliyor"):
                 sayac[skey] = sayac.get(skey, 0) + 1
             son = bag.g.setdefault("toplu_son", [])
             son.append({"dosya": ad, "kuyruk": tur, "tur": (secim or {}).get("tur", neden), "alt_tur": (secim or {}).get("alt_tur", ""),
                         "gorsel": (secim or {}).get("gorsel", ""), "kapak_nedeni": ((secim or {}).get("kapak_nedeni") or {}).get("kod", ""),
-                        "surum": KURAL_SURUMU, "bekliyor": bool(secim.get("bekliyor")), "tarih": simdi_tr().isoformat(timespec="seconds")})
+                        "surum": gh.HAT_KIMLIK, "bekliyor": bool(secim.get("bekliyor")), "tarih": simdi_tr().isoformat(timespec="seconds")})
             del son[:-60]
             print(f"Görsel ({tur}): {ad} → {secim['tur']} {secim.get('alt_tur', '')}")
         except Exception as e:
             print("Görsel işlenemedi:", ad, e)
-    print(f"Toplu görsel işlemi: düzeltme {sayilar['duzelt']}, fotoğraf bulma {sayilar['bul']}, yerleşim yenileme {sayilar['yerlesim']}")
-    return sayilar["duzelt"] + sayilar["bul"]
+    print(f"Toplu görsel işlemi: temizlik denetimi {sayilar['temizlik']}, kaldırılan {sayilar['kaldirilan']}, yerleşim {sayilar['yerlesim']}, "
+          f"düzeltme {sayilar['duzelt']}, fotoğraf bulma {sayilar['bul']}")
+    onceki = bag.g.get("yayin_durum") or {}
+    bag.g["yayin_durum"] = {"aciklama": yayin_aciklama, "acik": acik, "hat_kimlik": gh.HAT_KIMLIK, "tarih": simdi_tr().isoformat(timespec="seconds"),
+                            "son_tur": sayilar, "toplam_kaldirilan": int(onceki.get("toplam_kaldirilan") or 0) + sayilar["kaldirilan"],
+                            "kota_engel": bag.g.get("kota_engel")}
+    return sayilar["duzelt"] + sayilar["bul"] + sayilar["kaldirilan"]
 
 
 def _ince(a):
     """Deneme raporu için aday kaydının kısaltılmış hâli (data/otomatik_durum.json şişmesin)."""
     ic = a.get("icerik") or {}
     return dict({k: a.get(k) for k in ("sinif", "kaynak", "url", "sayfa", "fotografci", "lisans", "hedef", "nedenler", "boyut", "mevcut",
-                                       "kutuphane_id", "teknik", "yerlesim", "yerlesim_neden", "alternatif", "onbellekten", "sinyal")},
+                                       "kutuphane_id", "teknik", "yerlesim", "yerlesim_neden", "alternatif", "onbellekten", "sinyal", "durum", "onceden_red")},
                 icerik={k: ic.get(k) for k in ("tur", "donem", "siyah_beyaz", "yazi_filigran", "sahne", "nesneler", "ana_kutu", "yuzler", "yuz_belirgin",
                                                "ulke", "notr_portre", "kisi_sayisi", "cekim", "sahne_turu")} if ic else None,
                 iliski={k: (a.get("iliski") or {}).get(k) for k in ("ana_ozne_gorunuyor", "olay_gorunuyor", "gerekli", "yasak", "uygunluk", "gerekce",
@@ -2685,61 +2839,126 @@ def _ince(a):
                                                                      "belirli_kisi_isletme", "yaniltici_yer")} if a.get("iliski") else None)
 
 
+ORNEKLEM_DOSYA = os.path.join(KOK, "data", "gorsel_kabul_orneklem.json")
+
+
+def kod_surumu():
+    """Görsel seçim kodunun içerik özeti (rapora yazılır; ayar–betik uyuşmazlığında test başlamaz)."""
+    h = hashlib.sha256()
+    for ad in ("gorsel_hat.py", "gorsel_sec.py"):
+        with open(os.path.join(KOK, "scripts", ad), "rb") as f:
+            h.update(f.read())
+    return h.hexdigest()[:12]
+
+
+def ayar_surumu(ayar):
+    return imza(*[f"{k}={json.dumps(ayar[k], ensure_ascii=False, sort_keys=True)}" for k in sorted(ayar) if k.startswith("gorsel_")
+                  and k not in ("gorsel_deneme_no",)])
+
+
+def orneklem_oku():
+    """Kabul örneklemi. Dosyada her satır için haber dosyası ve sabitlendiği commit'teki dosya özeti (icerik_sha) bulunur; içerik ve
+    BAŞLANGIÇ görseli ilk okumada o commit'teki dosyadan (değişmez) alınır, özet tutuyorsa dosyaya yazılır (sonraki turlar ağsız okur).
+    Özeti tutmayan ya da alınamayan satır doldurulmaz: test o satırı değerlendirmez (sırada kalır)."""
+    try:
+        with open(ORNEKLEM_DOSYA, encoding="utf-8") as f:
+            orn = json.load(f)
+    except Exception:
+        return None
+    eksik = [x for x in orn.get("satirlar") or [] if "govde" not in x]
+    degisti = False
+    for x in eksik:
+        try:
+            ham = orneklem_ham(orn.get("kaynak_commit", ""), x["dosya"])
+            if not ham or hashlib.sha256(ham).hexdigest()[:16] != x.get("icerik_sha"):
+                print("Kabul örneklemi: içerik özeti tutmadı ya da alınamadı:", x["dosya"])
+                continue
+            metin = ham.decode("utf-8")
+            on, govde = metin[4:].split("\n---\n", 1)
+            v = yaml.safe_load(on) or {}
+            x.update({k: v.get(k) for k in ("title", "ozet", "kategoriler", "ilceler", "kaynak_url")}, onem=v.get("onem", 3))
+            x["date"] = str(v.get("date") or "")
+            x["govde"] = govde.strip()
+            x["baslangic"] = {k: v.get(k, {} if k == "gorsel_secim" else "") for k in ("gorsel", "gorsel_kredi", "gorsel_konum", "gorsel_secim")}
+            degisti = True
+        except Exception as e:
+            print("Kabul örneklemi okunamadı:", x.get("dosya"), e)
+    if degisti:
+        with open(ORNEKLEM_DOSYA, "w", encoding="utf-8") as f:
+            json.dump(orn, f, ensure_ascii=False, indent=1, default=str)
+            f.write("\n")
+    return orn
+
+
+def orneklem_ham(commit, dosya):
+    if not re.fullmatch(r"[0-9a-f]{7,40}", commit or ""):
+        return None
+    url = f"https://raw.githubusercontent.com/Allwaytour/gazeteantalyam/{commit}/content/haber/{quote(dosya)}"
+    r = requests.get(url, timeout=30)
+    return r.content if r.status_code == 200 else None
+
+
 def deneme_calistir(bag, dosyalar, onceki=None, sure=600):
-    """Sabit değerlendirme listesi için karşılaştırmalı deneme (görsel hattı h1). Haber dosyalarına DOKUNMAZ.
-    Her satırda eski ve yeni görsel, kaynak/kullanım bilgisi, kabul/ret gerekçeleri ve yerleşim kararı saklanır;
-    /gorsel-deneme/ sayfası bunları sitenin gerçek kart ve manşet bileşenleriyle masaüstü ve mobilde gösterir."""
+    """Kabul testi: sabitlenmiş örneklem (data/gorsel_kabul_orneklem.json) üzerinde çalışır. Haberlerin içeriği ve BAŞLANGIÇ görseli
+    bu dosyadan okunur; canlı haber dosyaları okunmaz ve değiştirilmez (test sırasında canlı işlemler örneklemi etkilemez).
+    Rapor kod sürümünü, ayar sürümünü, model adını ve görsel hattı kimliğini içerir. Önceki turun satırları yalnızca aynı kod
+    ve hat kimliğiyle üretildiyse yeniden kullanılır. Günlük görsel hakkından yalnızca yeni haberlere ayrılan pay korunur."""
+    import gorsel_hat as gh
+    orn = orneklem_oku() or {}
+    sabit = {x["dosya"]: x for x in orn.get("satirlar") or []}
+    kod = kod_surumu()
     satirlar = []
-    hazir = {x.get("dosya"): x for x in (onceki or []) if isinstance(x, dict) and x.get("yeni") and not (x.get("yeni") or {}).get("bekliyor")}
+    hazir = {x.get("dosya"): x for x in (onceki or []) if isinstance(x, dict) and x.get("yeni") and not (x.get("yeni") or {}).get("bekliyor")
+             and x.get("hat_kimlik") == gh.HAT_KIMLIK and x.get("kod_surumu") == kod}
     baslangic = time.time()
+    pay = 2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))
     for ad in dosyalar:
-        if ad in hazir:                    # önceki turda tamamlanan satır yeniden çalıştırılmaz
+        if ad in hazir:
             satirlar.append(hazir[ad])
             continue
-        pay = 2 + int(bag.ayar.get("gorsel_yeni_haber_payi", bag.yz_gunluk // 4))
-        if time.time() - baslangic > sure or not bag.yz_hakki(pay):
-            # tur süresi aşılmasın; günlük görsel hakkının yeni haberlere ayrılan payı deneme için kullanılmaz: kalanlar sonraki turda
-            satirlar.append({"dosya": ad, "sonuc": "sırada (sonraki turda değerlendirilecek)", "bekliyor": True})
+        o = sabit.get(ad)
+        if not o:
+            satirlar.append({"dosya": ad, "hata": "örneklemde yok (data/gorsel_kabul_orneklem.json)"})
             continue
-        yol = os.path.join(HABER_KLASOR, ad)
-        satir = {"dosya": ad}
+        if "govde" not in o:
+            satirlar.append({"dosya": ad, "sonuc": "örneklem içeriği henüz alınamadı (sonraki turda)", "bekliyor": True})
+            continue
+        if time.time() - baslangic > sure or not bag.yz_hakki(pay):
+            satirlar.append({"dosya": ad, "baslik": o.get("title", ""), "sonuc": "sırada (sonraki turda değerlendirilecek)", "bekliyor": True})
+            continue
+        b = o.get("baslangic") or {}
+        es = b.get("gorsel_secim") if isinstance(b.get("gorsel_secim"), dict) else {}
+        satir = {"dosya": ad, "baslik": o.get("title", ""), "link": "/haber/" + ad[:-3] + "/", "kategori": (o.get("kategoriler") or [""])[0],
+                 "ilce": (o.get("ilceler") or [""])[0], "ozet": o.get("ozet", ""), "onem": o.get("onem", 3), "hat_kimlik": gh.HAT_KIMLIK, "kod_surumu": kod,
+                 "eski": {"gorsel": b.get("gorsel", ""), "kredi": b.get("gorsel_kredi", ""), "konum": b.get("gorsel_konum", ""),
+                          "secim": {k: es.get(k) for k in ("tur", "alt_tur", "gosterilen", "gerekce", "aciklama", "lisans", "fotografci",
+                                                           "kaynak_sayfa", "surum")}},
+                 "onceki_surum": o.get("onceki_sonuc")}
         try:
-            v, govde = md_oku(yol)
-            es = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
-            satir.update(baslik=v.get("title", ""), link="/haber/" + ad[:-3] + "/", kategori=(v.get("kategoriler") or [""])[0],
-                         ilce=(v.get("ilceler") or [""])[0], ozet=v.get("ozet", ""), onem=v.get("onem", 3),
-                         eski={"gorsel": v.get("gorsel", ""), "kredi": v.get("gorsel_kredi", ""), "konum": v.get("gorsel_konum", ""),
-                               "secim": {k: es.get(k) for k in ("tur", "alt_tur", "gosterilen", "gerekce", "aciklama", "lisans", "fotografci",
-                                                                "kaynak_sayfa", "surum")}})
-            oto, neden = otomatik_gorsel_mi(v)
-            satir["otomatik"] = neden
-            if not oto:
-                satir["sonuc"] = "atlandı: " + neden
-                satirlar.append(satir)
-                continue
-            h = haber_bilgisi(v, govde)
+            v = {"title": o.get("title", ""), "ozet": o.get("ozet", ""), "kategoriler": o.get("kategoriler"), "ilceler": o.get("ilceler"),
+                 "date": o.get("date"), "kaynak_url": o.get("kaynak_url", "")}
+            h = haber_bilgisi(v, o.get("govde", ""))
             try:
-                konu = konu_ayristir(bag, h["baslik"], h["spot"], govde)
+                konu = konu_ayristir(bag, h["baslik"], h["spot"], o.get("govde", ""))
             except (KotaHatasi, ServisHatasi) as e:
                 konu = None
                 bag.notlar.append(f"{h['baslik'][:60]}: konu ayrıştırılamadı ({e})")
             satir["konu"] = konu
-            eski = None
-            if v.get("gorsel"):
-                eski = {"url": v["gorsel"], "kredi": v.get("gorsel_kredi", ""), "alt_tur": es.get("alt_tur", ""), "secim": es}
+            eski = {"url": b["gorsel"], "kredi": b.get("gorsel_kredi", ""), "alt_tur": es.get("alt_tur", ""), "secim": es} \
+                if b.get("gorsel") and not str(b.get("gorsel")).startswith("/images/kategori/") else None
             secim, rapor = gorsel_sec(bag, h, konu, eski=eski)
             satir.update(yeni=secim, eski_degerlendirme=rapor.get("eski"), adaylar=[_ince(a) for a in rapor.get("adaylar") or []],
                          notlar=rapor.get("notlar", [])[:24], havuz=rapor.get("havuz") or {}, sorgular=rapor.get("sorgular") or [],
                          elenen_kayitlar=rapor.get("elenen_kayitlar") or [], gemini_sorulan=rapor.get("gemini_sorulan", 0))
-            print(f"Deneme: {ad[:60]} → {secim['tur']} {secim.get('sinif', '')}")
+            print(f"Deneme: {ad[:60]} → {secim['tur']} {secim.get('sinif', '')} [{secim.get('durum', '')}]")
         except Exception as e:
             satir["hata"] = str(e)[:200]
         satirlar.append(satir)
     ozet = {"satir": len(satirlar), "fotografli": 0, "fotografsiz": 0, "bekleyen": 0, "hata": 0,
-            "red": {"konu": 0, "kalite": 0, "yerlesim": 0, "lisans": 0, "kaynak": 0, "servis": 0},
+            "red": {"konu": 0, "baglam": 0, "kalite": 0, "yerlesim": 0, "lisans": 0, "kaynak": 0, "servis": 0},
             "yerlesim": {"manset_kaplama": 0, "manset_yan": 0, "kart": 0, "kart_portre": 0, "yan": 0, "yan_portre": 0},
-            "eski_red": {"konu": 0, "kalite": 0, "yerlesim": 0, "lisans": 0, "kaynak": 0, "servis": 0},
-            "ret_sonrasi_bulunan": 0, "gemini_sorulan": 0, "kayitli_karar": 0}
+            "eski_red": {"konu": 0, "baglam": 0, "kalite": 0, "yerlesim": 0, "lisans": 0, "kaynak": 0, "servis": 0},
+            "ret_sonrasi_bulunan": 0, "gemini_sorulan": 0, "kayitli_karar": 0, "onceden_reddedilen": 0}
     for x in satirlar:
         y = x.get("yeni") or {}
         if x.get("hata"):
@@ -2753,20 +2972,20 @@ def deneme_calistir(bag, dosyalar, onceki=None, sure=600):
             yl = y.get("yerlesim") or {}
             ozet["yerlesim"]["manset_kaplama"] += yl.get("manset") == "kaplama"
             ozet["yerlesim"]["manset_yan"] += yl.get("manset") == "yan"
-            ozet["yerlesim"]["kart"] += bool(yl.get("kart"))
-            ozet["yerlesim"]["kart_portre"] += bool(yl.get("kart_portre"))
-            ozet["yerlesim"]["yan"] += bool(yl.get("yan"))
-            ozet["yerlesim"]["yan_portre"] += bool(yl.get("yan_portre"))
+            for k in ("kart", "kart_portre", "yan", "yan_portre"):
+                ozet["yerlesim"][k] += bool(yl.get(k))
             ozet["ret_sonrasi_bulunan"] += any(a.get("alternatif") and not a.get("nedenler") and a.get("url") == y.get("gorsel")
                                                for a in x.get("adaylar") or [])
         ozet["gemini_sorulan"] += int(x.get("gemini_sorulan") or 0)
         ozet["kayitli_karar"] += sum(1 for a in x.get("adaylar") or [] if a.get("onbellekten"))
+        ozet["onceden_reddedilen"] += sum(1 for a in x.get("adaylar") or [] if a.get("onceden_red"))
         for a in x.get("adaylar") or []:
             for kat in {k for k, _ in (a.get("nedenler") or [])}:
                 ozet["red"][kat] = ozet["red"].get(kat, 0) + 1
                 if a.get("mevcut"):
                     ozet["eski_red"][kat] = ozet["eski_red"].get(kat, 0) + 1
-    return {"tarih": simdi_tr().isoformat(timespec="seconds"), "surum": KURAL_SURUMU, "model": bag.model_fn() if bag.gemini_key else "",
+    return {"tarih": simdi_tr().isoformat(timespec="seconds"), "surum": KURAL_SURUMU, "hat_kimlik": gh.HAT_KIMLIK, "kod_surumu": kod,
+            "ayar_surumu": ayar_surumu(bag.ayar), "orneklem": orn.get("imza", ""), "model": bag.model_fn() if bag.gemini_key else "",
             "dosyalar": dosyalar, "satirlar": satirlar, "ozet": ozet,
             "eksik": sum(1 for x in satirlar if (x.get("yeni") or {}).get("bekliyor") or x.get("bekliyor")),
             "atlanan_kontroller": bag.notlar[:], "yz_kullanilan": bag.yz_tur}

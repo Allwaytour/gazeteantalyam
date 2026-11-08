@@ -50,8 +50,11 @@ ICERIK_SURUM = "i3"        # fotoğrafın kendisine ait inceleme (tür, dönem, 
 ILISKI_SURUM = "r1"        # haber–fotoğraf ilişkisi sorusunun sürümü: aynı haber + aynı fotoğraf + aynı sürüm → kayıtlı yanıt kullanılır
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y3"      # y3: dikey portre için küçük kart varyantı (kart_portre)
-KABUL_KURALI = "k3"        # kabul kurallarının sürümü: değişince onaylı fotoğraflar kayıtlı yanıtlarla (Gemini'siz) yeniden denetlenir
+KABUL_KURALI = "k4"        # kabul kurallarının sürümü: değişince onaylı fotoğraflar kayıtlı yanıtlarla (Gemini'siz) yeniden denetlenir
 ARAMA_SURUM = "a2"         # aday arama yeteneği: değişince fotoğrafsız haberler (ikinci kuyruk) bir kez yeniden aranır
+# Görsel seçim sürümünün tam kimliği. Kabul testi bu kimlikle çalışır; canlı yayın yalnızca kaynaklar.yml → gorsel_yayin.surum bu
+# kimliğe eşitse açılır (deneme ile yayın ayrıdır: yeni bir kural/arama sürümü kabul testinden geçmeden canlı görsel yazmaz).
+HAT_KIMLIK = f"{HAT_SURUM}.{KABUL_KURALI}.{ARAMA_SURUM}.{ICERIK_SURUM}.{ILISKI_SURUM}.{YERLESIM_SURUM}"
 KUTUPHANE_DOSYA = os.path.join(gs.KOK, "data", "gorsel_kutuphanesi.json")
 
 SINIF_ACIKLAMA = {
@@ -184,12 +187,13 @@ def kutuphane_adaylari(konu):
         kim = r.get("kimlikler") or {}
         neden, sinif = "", ""
         for ad in kisiler:
-            if ad and any(ad_ayni(ad, x.get("ad", "")) for x in kim.get("kisiler") or []):
+            if ad and any(ad_ayni(ad, x.get("ad", "")) and x.get("qid") for x in kim.get("kisiler") or []):
                 neden, sinif = f"kütüphane: kişi kimliği '{ad}'", "ozne_kisi"
         if not neden:
             for ad in kurumlar:
                 for alan in ("kurumlar", "takimlar", "tesisler", "yerler"):
-                    if ad and any(ad_ayni(ad, x.get("ad", "")) for x in kim.get(alan) or []):
+                    # kimlik yalnızca kaynak kaydıyla (Wikidata) doğrulanmışsa eşleşir; seçim açıklamasından türemiş kimlik kullanılmaz
+                    if ad and any(ad_ayni(ad, x.get("ad", "")) and x.get("qid") for x in kim.get(alan) or []):
                         neden, sinif = f"kütüphane: {alan[:-3]} kimliği '{ad}'", "ozne_kurum"
         kimlikli = any(kim.get(x) for x in ("kisiler", "kurumlar", "takimlar", "tesisler", "yerler"))
         if not neden and gerekli and not kurum_izinli and r.get("alt_tur") == "nesne" and not kimlikli and r.get("sahne_turu") != "portre":
@@ -292,6 +296,172 @@ def aday_bul(bag, haber, konu):
             hepsi.append(a)
     hepsi.sort(key=lambda a: (-SINIF_SIRA.get(a["sinif"], 0), 0 if a.get("kutuphane_id") else 1, -int(a.get("meta_puan") or 0)))
     return hepsi, notlar
+
+
+# ----------------------------------------------------------------- ret kaydı (reddedilen fotoğraf başka yoldan geri gelmesin)
+RET_DOSYA = os.path.join(gs.KOK, "data", "gorsel_ret.json")
+_RET = None
+BENZER_ESIK = 6          # 64 bitlik fark özetinde (dHash) en çok bu kadar bit farkı → aynı fotoğraf (farklı boyut/kaynak/sıkıştırma)
+
+
+def ret_kaydi():
+    global _RET
+    if _RET is None:
+        try:
+            with open(RET_DOSYA, encoding="utf-8") as f:
+                _RET = json.load(f) or {}
+        except Exception:
+            _RET = {}
+        _RET.setdefault("aciklama", "Reddedilen fotoğraflar. 'gorsel': lisans/teknik nedenle her haber için reddedilenler (fotoğraf düzeyi). "
+                                    "'eslesme': yanlış yer/olay/özne nedeniyle yalnızca belirli bir haber için reddedilenler (haber–fotoğraf "
+                                    "eşleşmesi düzeyi; anahtar: haberin konu imzası). Eşleşme dosya özetiyle (sha256) ve benzer görsel özetiyle "
+                                    "(dHash) yapılır: aynı fotoğraf farklı adres, boyut ya da kaynaktan gelse de tanınır.")
+        _RET.setdefault("gorsel", [])
+        _RET.setdefault("eslesme", {})
+    return _RET
+
+
+def ret_kaydet():
+    if _RET is None:
+        return
+    _RET["gorsel"] = _RET["gorsel"][-4000:]
+    with open(RET_DOSYA, "w", encoding="utf-8") as f:
+        json.dump(_RET, f, ensure_ascii=False, indent=1, sort_keys=True)
+        f.write("\n")
+
+
+def ozet_hesapla(veri):
+    """Dosya özeti (sha256) ve benzer görsel özeti (9×8 gri tonlamalı fark özeti, 64 bit)."""
+    from PIL import Image, ImageOps
+    sha = hashlib.sha256(veri).hexdigest()[:24]
+    try:
+        im = ImageOps.exif_transpose(Image.open(io.BytesIO(veri))).convert("L").resize((9, 8), Image.LANCZOS)
+        p = list(im.getdata())
+        bit = 0
+        for y in range(8):
+            for x in range(8):
+                bit = (bit << 1) | (1 if p[y * 9 + x] > p[y * 9 + x + 1] else 0)
+        dh = f"{bit:016x}"
+    except Exception:
+        dh = ""
+    return {"sha": sha, "dh": dh}
+
+
+def _ayni_gorsel(oz, k):
+    if not oz or not k:
+        return False
+    if oz.get("sha") and oz.get("sha") == k.get("sha"):
+        return True
+    if oz.get("gk") and oz.get("gk") == k.get("gk"):
+        return True
+    a, b = oz.get("dh"), k.get("dh")
+    if a and b:
+        try:
+            return bin(int(a, 16) ^ int(b, 16)).count("1") <= BENZER_ESIK
+        except ValueError:
+            return False
+    return False
+
+
+def ret_bul(oz, kimza=None):
+    """Bu fotoğraf daha önce reddedildi mi? Dönüş: (düzey, kayıt) ya da (None, None)."""
+    r = ret_kaydi()
+    for k in r["gorsel"]:
+        if _ayni_gorsel(oz, k):
+            return "gorsel", k
+    for k in (r["eslesme"].get(kimza) or []) if kimza else []:
+        if _ayni_gorsel(oz, k):
+            return "eslesme", k
+    return None, None
+
+
+TEKNIK_RET = re.compile(r"gerçek fotoğraf değil|aşırı karanlık|bulanık|çözünürlük yetersiz|büyük filigran|lisans|izin|dayanağı|atıf")
+
+
+def ret_ekle(a, kimza, nedenler, kaynak="hat"):
+    """Elenen adayı kaydeder. Yalnızca lisans ve fotoğrafın kendisine ait teknik nedenler fotoğraf düzeyindedir; yer, olay, özne, dönem
+    ve bağlam nedenleri yalnızca bu haber için geçerlidir (aynı fotoğraf başka bir haberde uygun olabilir)."""
+    oz = a.get("ozet") or {}
+    if not (oz.get("sha") or oz.get("dh") or a.get("gk")):
+        return
+    kayit = {"sha": oz.get("sha", ""), "dh": oz.get("dh", ""), "gk": a.get("gk", ""), "url": (a.get("url") or "")[:300],
+             "neden": "; ".join(n for _, n in nedenler)[:300], "kategori": sorted({k for k, _ in nedenler}), "kaynak": kaynak,
+             "t": gs.simdi_tr().isoformat(timespec="seconds")}
+    r = ret_kaydi()
+    if all(k in ("lisans", "kalite") for k, _ in nedenler) and all(TEKNIK_RET.search(n) for _, n in nedenler):
+        if not any(_ayni_gorsel(kayit, k) for k in r["gorsel"]):
+            r["gorsel"].append(kayit)
+    elif kimza:
+        liste = r["eslesme"].setdefault(kimza, [])
+        if not any(_ayni_gorsel(kayit, k) for k in liste):
+            liste.append(kayit)
+            del liste[:-40]
+
+
+# ----------------------------------------------------------------- B0) bağlam ön denetimi (doğrulanmış kaynak bilgisiyle, puanlamadan önce)
+ANTALYA_ILCELERI = [x for x in gs.YERLER if x != "Antalya"]
+TR_ILLERI = ("Adana Adıyaman Afyonkarahisar Ağrı Amasya Ankara Artvin Aydın Balıkesir Bilecik Bingöl Bitlis Bolu Burdur Bursa Çanakkale "
+             "Çankırı Çorum Denizli Diyarbakır Edirne Elazığ Erzincan Erzurum Eskişehir Gaziantep Giresun Gümüşhane Hakkari Hatay Isparta "
+             "Mersin İstanbul İzmir Kars Kastamonu Kayseri Kırklareli Kırşehir Kocaeli Konya Kütahya Malatya Manisa Kahramanmaraş Mardin "
+             "Muğla Muş Nevşehir Niğde Ordu Rize Sakarya Samsun Siirt Sinop Sivas Tekirdağ Tokat Trabzon Tunceli Şanlıurfa Uşak Van Yozgat "
+             "Zonguldak Aksaray Bayburt Karaman Kırıkkale Batman Şırnak Bartın Ardahan Iğdır Yalova Karabük Kilis Osmaniye Düzce").split()
+YABANCI = re.compile(r"(?i)\b(polish|poland|polska|greek|greece|german|germany|deutsch\w*|french|france|italian|italy|spanish|spain|british|"
+                     r"england|english|scottish|scotland|london|paris|berlin|american|usa|united states|new york|russian|russia|ukrainian|"
+                     r"ukraine|dutch|netherlands|belgian|belgium|austrian|austria|swiss|switzerland|swedish|sweden|norwegian|norway|danish|"
+                     r"denmark|finnish|finland|irish|ireland|indian|india|chinese|china|japanese|japan|korean|korea|brazil\w*|mexic\w*|"
+                     r"canad\w*|australia\w*|israel\w*|tel aviv|egypt\w*|iran\w*|iraq\w*|syria\w*|bulgaria\w*|romania\w*|serbia\w*|hungar\w*|"
+                     r"czech\w*|portug\w*|croatia\w*|cyprus|kıbrıs|azerbaijan\w*|georgia\w*|armenia\w*)\b")
+DOLGU = re.compile(r"(?i)\b(microphones?|mikrofon\w*|podium|lectern|kürsü\w*|press conference|basın toplantı\w*|speaker'?s? stand)\b")
+
+
+OLAY_KAYDI = re.compile(r"(?i)\b(election\w*|referendum|protest\w*|demonstration|march|parade|rally|festival|concert|match|championship|"
+                        r"tournament|cup final|ceremony|summit|conference|congress|wedding|funeral|strike|riot|seçim\w*|eylem\w*|miting\w*|"
+                        r"festival\w*|konser\w*|turnuva\w*|şampiyona\w*|tören\w*|zirve\w*)\b")
+
+
+def _ad_gecer(ad, metin):
+    """Yer adı metinde tam kelime olarak geçiyor mu? ("Konya" ≠ "Konyaaltı", "Muş" ≠ "olmuş"); kesme işaretli ekler kabul edilir."""
+    return bool(re.search(r"(?<![\wçğıöşüâîû])" + re.escape(_k(ad)) + r"(?![\wçğıöşüâîû])", _k(metin)))
+
+
+def _haber_yerleri(haber, konu):
+    parca = [haber.get("baslik", ""), haber.get("spot", ""), haber.get("ilce") or "", konu.get("yer", ""),
+             (konu.get("nerede") or {}).get("ad", ""), (konu.get("nerede") or {}).get("ad_en", ""), (haber.get("metin") or "")[:4000]]
+    parca += [h.get("ad", "") for h in konu.get("hedefler") or []]
+    return " ".join(parca)
+
+
+def baglam_on_kontrol(a, konu, haber):
+    """Kaynak kaydındaki (dosya adı, açıklama, kategori) bilgiyi haberin yer/takım/olay bilgisiyle karşılaştırır. Kesin bağlam
+    hataları yapay zekâya sorulmadan ve hiçbir puana bırakılmadan elenir. Kişi ve kurum fotoğrafında kimlik kaynak kaydından gelir;
+    yer denetimi yer/mekân karelerine, ülke denetimi yer kareleriyle başka ülkedeki bir OLAYIN kayıtlarına uygulanır (yurt dışında
+    çekilmiş sayaç, meyve gibi nesne kareleri bu yüzden elenmez). Dönüş: nedenler listesi."""
+    k = a.get("kayit") or {}
+    kat = k.get("kategoriler")
+    metin = " ".join(str(x) for x in (a.get("gosterim_ad"), a.get("hedef"), unquote(a.get("sayfa") or "").replace("_", " "), k.get("baslik"),
+                                      k.get("aciklama"), k.get("nesne"), " ".join(kat) if isinstance(kat, list) else kat) if x)
+    ned = []
+    sinif = a.get("sinif")
+    if not metin or sinif in ("ayni_olay", "ozne_kisi"):
+        return ned
+    hy = _haber_yerleri(haber, konu)
+    yer_karesi = sinif in ("yer", "yer_genel", "mekan") or a.get("alt_tur") in ("yer_konu", "yer")
+    if yer_karesi:
+        # kaynak kaydı haberde hiç geçmeyen bir Antalya ilçesini ya da ili anlatıyorsa (ör. Serik'teki olaya Manavgat'taki cami)
+        for ad in ANTALYA_ILCELERI + TR_ILLERI:
+            if _ad_gecer(ad, metin) and not _ad_gecer(ad, hy):
+                ned.append(("baglam", f"kaynak kaydı başka bir yere ait ({ad}); haberde bu yer geçmiyor"))
+                break
+    m = YABANCI.search(metin)
+    if m and not YABANCI.search(hy) and (yer_karesi or (sinif == "konu" and OLAY_KAYDI.search(metin))):
+        ned.append(("baglam", f"kaynak kaydı başka bir ülkedeki yere/olaya ait ('{m.group(0)}')"))
+    for t in takimlar(konu, "rakip"):
+        if gs.ad_eslesir(t["ad"], metin):
+            ned.append(("baglam", f"kaynak kaydı rakip takıma ait ({t['ad']})"))
+            break
+    if sinif == "konu" and DOLGU.search(metin):
+        ned.append(("baglam", "mikrofon/kürsü gibi genel dolgu görseli"))
+    return ned
 
 
 # ----------------------------------------------------------------- B1) kaynak / lisans
@@ -679,6 +849,8 @@ def karar(a, konu):
                 # başka bir etkinliğin kalabalık/geniş karesi (tribün, sahne önü, kent silueti) haberdeki etkinliğin kendisi sanılır;
                 # temsilî fotoğraf konuyu (top, file, kort, sahne) göstermeli, başka bir yerin etkinliğini değil
                 ned.append(("konu", "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır"))
+            if sinif == "konu" and DOLGU.search(" ".join(ic.get("nesneler") or []) + " " + (ic.get("sahne") or "")):
+                ned.append(("baglam", "mikrofon/kürsü gibi genel dolgu görseli"))
             if sinif == "konu" and ic.get("sahne_turu") == "portre":
                 ned.append(("konu", "temsilî fotoğraf belirli bir kişinin portresi"))
             if sinif == "konu" and gs.TOPLANTI.search(f"{a.get('gosterim_ad') or ''} {a.get('hedef') or ''}"):
@@ -856,7 +1028,7 @@ def kutuphaneye_ekle(a, konu, s):
     kim = {"kisiler": [], "kurumlar": [], "takimlar": [], "tesisler": [], "yerler": []}
     if a["sinif"] == "ozne_kisi" and a.get("kisi"):
         kim["kisiler"].append({"ad": a["kisi"], "qid": a.get("qid", "")})
-    elif a["sinif"] == "ozne_kurum":
+    elif a["sinif"] == "ozne_kurum" and a.get("qid"):
         ad = re.sub(r"\s*\(.*$", "", a.get("gosterim_ad") or a.get("hedef", ""))
         alan = "takimlar" if a.get("hedef_tur") == "takim" else "tesisler" if a.get("gosterim_ad") else "kurumlar"
         if ad:
@@ -895,24 +1067,42 @@ def kutuphaneye_ekle(a, konu, s):
 def kapak(haber, kimza, gerekce, kontrol, kod, aciklama, bekliyor=False):
     s = gs.kapak_secimi(haber.get("kategori"), gerekce, kontrol, kimza)
     s["hat"] = HAT_SURUM
+    s["durum"] = "kontrol_bekliyor" if bekliyor else "fotografsiz"
     s["kapak_nedeni"] = {"kod": kod, "aciklama": aciklama[:400]}
     if bekliyor:
         s["bekliyor"] = True
     return s
 
 
-def kural_denetimi(v, konu):
-    """Onaylı fotoğrafa güncel kabul kurallarını Gemini'ye sormadan, kayıtlı inceleme yanıtlarıyla uygular.
-    Dönüş: nedenler listesi ([] → kurallara uyuyor) ya da None (kayıt eksik; tam yeniden değerlendirme gerekir)."""
+def kural_denetimi(v, konu, govde=""):
+    """Yayındaki fotoğrafa güncel kuralları Gemini'ye sormadan uygular: (1) ret kaydı (aynı fotoğraf bu haber için ya da her haber
+    için daha önce reddedildi mi), (2) kaynak kaydıyla bağlam ön denetimi, (3) kayıtlı inceleme yanıtlarıyla kabul kuralları.
+    Dönüş: (nedenler, eksik). eksik=True → (3) için kayıt yok; bilinen bir sorun yoksa fotoğraf korunur."""
     s = v.get("gorsel_secim") or {}
-    ic = (kutuphane()["inceleme"].get(gorsel_kimligi(v.get("gorsel", ""))) or {}).get("icerik")
-    inc = s.get("inceleme") or {}
-    if not ic or not inc.get("iliski") or not s.get("sinif"):
-        return None
-    a = {"sinif": s["sinif"], "icerik": ic, "iliski": inc["iliski"], "teknik_bayrak": teknik_bayraklar(inc["teknik"]) if inc.get("teknik") else {},
+    konu = konu or {}
+    gk = gorsel_kimligi(v.get("gorsel", ""))
+    inc_k = kutuphane()["inceleme"].get(gk) or {}
+    oz = dict(inc_k.get("ozet") or {}, gk=gk)
+    duzey, rk = ret_bul(oz, s.get("konu_imza"))
+    if duzey:
+        return [("konu" if duzey == "eslesme" else "kalite", f"ret kaydında: {rk.get('neden', '')[:140]}")], False
+    haber = {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "ilce": (v.get("ilceler") or [""])[0], "metin": govde or ""}
+    a = {"sinif": s.get("sinif") or ("ozne_kisi" if str(s.get("alt_tur", "")).startswith("kisi") else "konu" if s.get("tur") == "stok" else ""),
          "alt_tur": s.get("alt_tur", ""), "lisans": s.get("lisans", ""), "gosterim_ad": s.get("gosterilen", ""), "hedef": s.get("gosterilen", ""),
-         "izin_kapsami": s.get("izin_kapsami", ""), "mevcut": True}
-    return karar(a, konu)
+         "sayfa": s.get("kaynak_sayfa", ""), "kayit": {"aciklama": s.get("kaynak_aciklama", "")}, "izin_kapsami": s.get("izin_kapsami", ""),
+         "mevcut": True}
+    on = baglam_on_kontrol(a, konu, haber)
+    ic, inc = inc_k.get("icerik"), s.get("inceleme") or {}
+    if ic and a["sinif"] == "konu" and not konu:
+        # konu kaydı yoksa yalnızca fotoğrafın kendi incelemesine dayanan kesin kurallar uygulanır
+        if ic.get("sahne_turu") == "portre":
+            on.append(("konu", "temsilî fotoğraf belirli bir kişinin portresi"))
+        if DOLGU.search(" ".join(ic.get("nesneler") or []) + " " + (ic.get("sahne") or "")):
+            on.append(("baglam", "mikrofon/kürsü gibi genel dolgu görseli"))
+    if not ic or not inc.get("iliski") or not s.get("sinif") or not konu:
+        return on, True
+    a.update(icerik=ic, iliski=inc["iliski"], teknik_bayrak=teknik_bayraklar(inc["teknik"]) if inc.get("teknik") else {})
+    return on + karar(a, konu), False
 
 
 def mevcut_aday(eski, konu):
@@ -939,6 +1129,10 @@ def hazirla(bag, a):
     if not ok:
         a["nedenler"] = [("lisans", n)]
         return False
+    on = baglam_on_kontrol(a, a.get("_konu") or {}, a.get("_haber") or {})
+    if on:
+        a["nedenler"] = on                 # kesin bağlam hatası: indirme ve yapay zekâ isteği yapılmaz
+        return False
     inc = kutuphane()["inceleme"].get(a["gk"]) or {}
     tek = inc.get("teknik") if (inc.get("teknik") or {}).get("s") == TEKNIK_SURUM else None
     if (inc.get("icerik") or {}).get("s") == ICERIK_SURUM:
@@ -953,10 +1147,20 @@ def hazirla(bag, a):
         if not tek:
             tek = teknik_olc(veri)
             kutuphane()["inceleme"].setdefault(a["gk"], {}).update(teknik=tek, url=a["url"], t=gs.simdi_tr().isoformat(timespec="seconds"))
+        oz = inc.get("ozet") if (inc.get("ozet") or {}).get("dh") else ozet_hesapla(veri)
+        kutuphane()["inceleme"].setdefault(a["gk"], {})["ozet"] = oz
+        a["ozet"] = dict(oz, gk=a["gk"])
     except Exception as e:
         # Mevcut fotoğraf indirilemediyse bu geçici bir servis sorunudur (fotoğraf kaldırılmaz); yeni adayın dosyası
         # açılamıyorsa aday kullanılamaz (kaynak sorunu, içerik reddi değil).
         a["nedenler"] = [("servis" if a.get("mevcut") else "kaynak", f"görsel indirilemedi/ölçülemedi: {str(e)[:80]}")]
+        return False
+    duzey, rk = ret_bul(a["ozet"], a.get("_kimza"))
+    if duzey:
+        # aynı fotoğraf (farklı adres/boyut/kaynak olsa da) daha önce reddedildi: kontrol yeniden yapılmaz, alternatif yoldan da giremez
+        a["nedenler"] = [(("kalite" if "kalite" in rk.get("kategori", []) else "lisans") if duzey == "gorsel" else "konu",
+                          f"daha önce reddedildi ({'her haber için' if duzey == 'gorsel' else 'bu haber için'}): {rk.get('neden', '')[:140]}")]
+        a["onceden_red"] = duzey
         return False
     if len(veri) > 1_200_000:          # Gemini'ye gönderilecek kopya küçük olsun
         try:
@@ -1155,6 +1359,7 @@ def _inceleme_turu(bag, haber, konu, kimza, kuyruk, butce, incelenen):
     parti = []
     while kuyruk and len(parti) < butce:
         a = kuyruk.pop(0)
+        a["_kimza"], a["_konu"], a["_haber"] = kimza, konu, haber
         if hazirla(bag, a):
             parti.append(a)
         else:
@@ -1232,9 +1437,15 @@ def sec(bag, haber, konu, eski=None):
             kabul = [a for a in incelenen if not a.get("nedenler")]
     for a in incelenen:
         a.pop("_b64", None)
+        # durum: reddedildi / onaylandı / kontrol bekliyor (servis-kota). Yalnızca içerik ya da kaynak nedeniyle reddedilenler ret
+        # kaydına girer; servis hatası, eksik model yanıtı ya da kota hiçbir zaman ret ya da onay sayılmaz.
+        kats = {k for k, _ in (a.get("nedenler") or [])}
+        a["durum"] = "kontrol_bekliyor" if "servis" in kats else ("reddedildi" if kats else "onaylandi")
+        if kats and "servis" not in kats and "kaynak" not in kats and not a.get("onceden_red"):
+            ret_ekle(a, kimza, a["nedenler"])
     rapor["adaylar"] = [{k: a.get(k) for k in ("sinif", "tur", "alt_tur", "kaynak", "url", "sayfa", "fotografci", "lisans", "hedef", "cekim",
                                                "nedenler", "teknik", "teknik_bayrak", "icerik", "iliski", "yerlesim", "yerlesim_neden", "boyut",
-                                               "mevcut", "kutuphane_id", "dogrulama", "alternatif", "onbellekten", "sinyal")} for a in incelenen]
+                                               "mevcut", "kutuphane_id", "dogrulama", "alternatif", "onbellekten", "sinyal", "durum", "ozet", "onceden_red")} for a in incelenen]
     rapor["sorgular"] = list(getattr(bag, "sorgu_kaydi", []))[:60]
     rapor["elenen_kayitlar"] = list(getattr(bag, "elenen", []))[:30]
     rapor["havuz"] = {s: sum(1 for a in adaylar if a["sinif"] == s) for s in SINIF_SIRA}
@@ -1254,6 +1465,9 @@ def sec(bag, haber, konu, eski=None):
                                   1 if a.get("mevcut") else 0), reverse=True)
         s = secim_yap(bag, kabul[0], kimza, konu)
         s["arama_surum"] = ARAMA_SURUM
+        s["durum"] = "onaylandi"
+        s["onay"] = {"hat": HAT_KIMLIK, "konu_imza": kimza, "tarih": gs.simdi_tr().isoformat(timespec="seconds"),
+                     "ozet": {k: (kabul[0].get("ozet") or {}).get(k, "") for k in ("sha", "dh")}}
         return s, rapor
     k = {"yapildi": bool(incelenen) and not hata, "sonuc": "adaylar reddedildi" if incelenen else "aday yok", "tarih": simdi,
          "yontem": HAT_SURUM, "model": bag.son_model or ""}
