@@ -2,38 +2,40 @@
 title: Antalya'da Mera Alanlarında Verimliliği Artıracak Hümik Asit Desteği
 date: '2026-11-05T19:10:00+03:00'
 ozet: Antalya'da mera alanlarının iyileştirilmesi ve hayvancılığın desteklenmesi amacıyla 5 bin 120 litre hümik asit teslim alındı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Fotoğraf: UlmicA / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/ekonomi.png
+gorsel_kredi: ''
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Liquid_Potassium_Humate.jpg
-  fotografci: UlmicA
-  kredi: UlmicA / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: hümik asit desteği
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''humic acid liquid'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Hümik asit çözeltisini gösteren temsilî bir fotoğraf, haberin içeriğiyle doğrudan ilgili ve yanıltıcı bir unsur içermiyor.'
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: fa128f4802ad
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: /images/kategori/ekonomi.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T00:34:27+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: A concentrated solution of potassium humate added to a beaker of distilled water. The potassium humate is made from highly oxidised lignite mined from the Latro
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T14:39:23+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  zorla: g9.4-2026-11-05:7
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'habere uygunluk düşük (3/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: hümik asit bidonları, tarımsal gübre'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -116,6 +118,37 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:7
   degisim: '2026-11-06T00:34:27+03:00'
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Fotoğraf: UlmicA / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Liquid_Potassium_Humate.jpg
+    fotografci: UlmicA
+    kredi: UlmicA / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: hümik asit desteği
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''humic acid liquid'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Hümik asit çözeltisini gösteren temsilî bir fotoğraf, haberin içeriğiyle doğrudan ilgili ve yanıltıcı bir unsur içermiyor.'
+    surum: g9.4-2026-11-05
+    konu_imza: fa128f4802ad
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T00:34:27+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: A concentrated solution of potassium humate added to a beaker of distilled water. The potassium humate is made from highly oxidised lignite mined from the Latro
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+    zorla: g9.4-2026-11-05:7
+  degisim: '2026-11-08T14:39:34+03:00'
 etiketler:
 - Tarım ve Orman Bakanlığı
 - Türkiye Kömür İşletmeleri Kurumu

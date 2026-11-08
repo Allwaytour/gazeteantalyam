@@ -19,27 +19,24 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: a73321659ea5
   gorsel_url: /images/kategori/spor.png
   kontrol:
-    yapildi: false
+    yapildi: true
     sonuc: adaylar reddedildi
-    tarih: '2026-11-05T22:33:13+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T14:36:52+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hakan İrban'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
-      katman: kurum
-      neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-  kapak_surum: c4
+    aciklama: habere uygunluk düşük (3/10, en az 5); haberin konusuyla ilgisiz yer/nesne; yanlış spor dalı
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

@@ -106,6 +106,10 @@ gorsel_yerlesim:
   o_mansetyan_m: 41% 50%
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+etiketler:
+- Nikol Paşinyan
+- Recep Tayyip Erdoğan
+- Birleşmiş Milletler
 ---
 Ermenistan Başbakanı Nikol Paşinyan, hükümet toplantısının ardından basın mensuplarının sorularını yanıtladı. Bir gazetecinin sorusu üzerine yaptığı açıklamada, Antalya'da düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) katılmayı planladığını belirtti.
 

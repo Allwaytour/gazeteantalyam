@@ -2,39 +2,41 @@
 title: Alanyalı Satranç Şampiyonu Elif Cemre Uysal'a Tebrik
 date: '2026-11-05T16:51:00+03:00'
 ozet: Satranç turnuvasında elde ettiği derecelerle dikkat çeken Elif Cemre Uysal, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz tarafından makamında ağırlandı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: Wilfredor / Wikimedia Commons (CC0)'
+gorsel: /images/kategori/egitim.png
+gorsel_kredi: ''
 kategoriler:
 - Eğitim
 ilceler:
 - Alanya
-gorsel_tur: stok
+gorsel_tur: kategori
 gorsel_secim:
-  tur: stok
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg
-  fotografci: Wilfredor
-  kredi: Wilfredor / Wikimedia Commons (CC0)
-  lisans: CC0
-  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: satranç başarısı ve tebrik ziyareti
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
   cekim_yili: ''
-  gerekce: 'Commons dosya kaydında ''chess game'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Satranç tahtası ve taşlarını gösteren nötr bir temsilî görsel, haberin konusuyla uyumludur.'
-  surum: g9.4-2026-11-05
+  gerekce: 7 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: a99326c8db7c
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/egitim.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-06T00:35:48+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Temsilî fotoğraf
-  alt_tur: nesne
-  kaynak_aciklama: Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with tr
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T14:40:56+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
-  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
-  zorla: g9.4-2026-11-05:7
+  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31); Alanya Belediyesi sayfası aynı haber değil (benzerlik %54)
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: farklı bir spor dalı, açık alan; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; olumsuz haberde belirli bir kişi, araç (plaka) ya da'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -98,6 +100,37 @@ gorsel_gecmis:
     kapak_surum: c4
     zorla: g9.4-2026-11-05:6
   degisim: '2026-11-05T22:43:43+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Fotoğraf: Wilfredor / Wikimedia Commons (CC0)'
+  gorsel_tur: stok
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: stok
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg
+    fotografci: Wilfredor
+    kredi: Wilfredor / Wikimedia Commons (CC0)
+    lisans: CC0
+    lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: satranç başarısı ve tebrik ziyareti
+    cekim_yili: ''
+    gerekce: 'Commons dosya kaydında ''chess game'' geçiyor; lisans dosya sayfasından okundu; görsel kontrol: Satranç tahtası ve taşlarını gösteren nötr bir temsilî görsel, haberin konusuyla uyumludur.'
+    surum: g9.4-2026-11-05
+    konu_imza: a99326c8db7c
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-06T00:35:48+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Temsilî fotoğraf
+    alt_tur: nesne
+    kaynak_aciklama: Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with tr
+    kurum: k5
+    kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31)
+    zorla: g9.4-2026-11-05:7
+  degisim: '2026-11-08T14:41:53+03:00'
 etiketler:
 - Yusuf Yılmaz
 - Alanya İlçe Millî Eğitim Müdürlüğü

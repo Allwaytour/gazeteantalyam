@@ -2,38 +2,41 @@
 title: Antalya, Nürnberg Kardeş Şehirler Pazarı'nda yer alacak
 date: '2026-11-05T09:38:19+03:00'
 ozet: Almanya'nın köklü Nürnberg Noel Pazarı içinde kurulacak Kardeş Şehirler Pazarı'nda Antalya da yer alarak kentin yöresel değerlerini tanıtacak.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg/1280px-Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Sir James / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: /images/kategori/kultur-sanat.png
+gorsel_kredi: ''
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg
-  fotografci: Sir James
-  kredi: Sir James / Wikimedia Commons (CC BY-SA 3.0)
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Nürnberg
-  cekim_yili: '2010'
-  gerekce: 'dosya kaydında yer (''Nürnberg'') ve konu ipucu (christmas market, wooden stalls) birlikte geçiyor; görsel kontrol: Nürnberg''deki Noel pazarı atmosferini yansıtan uygun bir arşiv fotoğrafıdır.'
-  surum: g9.4-2026-11-05
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: aead06c5db35
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg/1280px-Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/kultur-sanat.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-05T20:59:23+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: Nürnberg — Arşiv fotoğrafı (2010)
-  alt_tur: yer_konu
-  kaynak_aciklama: Stagecoach from the collection of the Museum of Communication Nuremberg at Christmas market in Nuremberg
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T14:39:38+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: 'büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (cizim); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (3/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem; zorunlu unsurlardan hiçbiri görünmüyor: Noel pazarı standı, el sanat'
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -78,6 +81,36 @@ gorsel_gecmis:
       aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
       notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Hauptmarkt Meydanı; Diyarbakır Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Arnavutköy Belediyesi Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kardeş Şehirler Pazarı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Nürnberg Christkindlesmarkt'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); görsel kontrol yapılamadı: bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
   degisim: '2026-11-05T20:59:23+03:00'
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg/1280px-Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Sir James / Wikimedia Commons (CC BY-SA 3.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg
+    fotografci: Sir James
+    kredi: Sir James / Wikimedia Commons (CC BY-SA 3.0)
+    lisans: CC BY-SA 3.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Nürnberg
+    cekim_yili: '2010'
+    gerekce: 'dosya kaydında yer (''Nürnberg'') ve konu ipucu (christmas market, wooden stalls) birlikte geçiyor; görsel kontrol: Nürnberg''deki Noel pazarı atmosferini yansıtan uygun bir arşiv fotoğrafıdır.'
+    surum: g9.4-2026-11-05
+    konu_imza: aead06c5db35
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg/1280px-Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T20:59:23+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: Nürnberg — Arşiv fotoğrafı (2010)
+    alt_tur: yer_konu
+    kaynak_aciklama: Stagecoach from the collection of the Museum of Communication Nuremberg at Christmas market in Nuremberg
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T14:39:51+03:00'
 etiketler:
 - Nürnberg Belediyesi
 - Antalya Belediyesi
