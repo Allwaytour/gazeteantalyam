@@ -50,7 +50,7 @@ ICERIK_SURUM = "i3"        # fotoğrafın kendisine ait inceleme (tür, dönem, 
 ILISKI_SURUM = "r1"        # haber–fotoğraf ilişkisi sorusunun sürümü: aynı haber + aynı fotoğraf + aynı sürüm → kayıtlı yanıt kullanılır
 TEKNIK_SURUM = "t1"        # teknik ölçüm yöntemi
 YERLESIM_SURUM = "y3"      # y3: dikey portre için küçük kart varyantı (kart_portre)
-KABUL_KURALI = "k2"        # kabul kurallarının sürümü: değişince onaylı fotoğraflar kayıtlı yanıtlarla (Gemini'siz) yeniden denetlenir
+KABUL_KURALI = "k3"        # kabul kurallarının sürümü: değişince onaylı fotoğraflar kayıtlı yanıtlarla (Gemini'siz) yeniden denetlenir
 ARAMA_SURUM = "a2"         # aday arama yeteneği: değişince fotoğrafsız haberler (ikinci kuyruk) bir kez yeniden aranır
 KUTUPHANE_DOSYA = os.path.join(gs.KOK, "data", "gorsel_kutuphanesi.json")
 
@@ -674,6 +674,11 @@ def karar(a, konu):
                     [h.get("ad", "") for h in konu.get("hedefler") or [] if h.get("tur") in ("yer", "tesis")]
                 if _k(a["gosterim_ad"]) != "antalya" and not any(ad_ayni(a["gosterim_ad"], y) for y in yerler if y):
                     ned.append(("konu", f"fotoğraf başka bir yere ait ({a['gosterim_ad']}); haberin geçtiği yer değil"))
+            if sinif == "konu" and ic.get("sahne_turu") == "olay_etkinlik" and ic.get("cekim") in ("genis", "panorama") \
+                    and int(ic.get("kisi_sayisi") or 0) >= 15:
+                # başka bir etkinliğin kalabalık/geniş karesi (tribün, sahne önü, kent silueti) haberdeki etkinliğin kendisi sanılır;
+                # temsilî fotoğraf konuyu (top, file, kort, sahne) göstermeli, başka bir yerin etkinliğini değil
+                ned.append(("konu", "başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır"))
             if sinif == "konu" and ic.get("sahne_turu") == "portre":
                 ned.append(("konu", "temsilî fotoğraf belirli bir kişinin portresi"))
             if sinif == "konu" and gs.TOPLANTI.search(f"{a.get('gosterim_ad') or ''} {a.get('hedef') or ''}"):
