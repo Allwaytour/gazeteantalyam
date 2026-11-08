@@ -8655,6 +8655,32 @@
      },
      "t": "2026-11-08T16:04:48+03:00"
     },
+    "r1:6fae9443adc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki çocuk yerine yetişkin bir futbolcu yer alıyor, haberin konusuyla ilgisiz bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor forması giyen çocuk",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:05:09+03:00"
+    },
     "r1:759cc3afcc51:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8739,7 +8765,7 @@
      "t": "2026-11-08T13:08:33+03:00"
     }
    },
-   "t": "2026-11-08T16:04:48+03:00",
+   "t": "2026-11-08T17:05:09+03:00",
    "teknik": {
     "doygunluk": 38.1,
     "inen": [
@@ -20421,6 +20447,88 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/20230116_Manavgat%2C_Turkey_3.jpg/1280px-20230116_Manavgat%2C_Turkey_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5ba1a025354fc301": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "forma",
+     "kumaş"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çeşitli futbol ve basketbol takımlarına ait formaların üst üste yığılmış görünümü.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor mağazası",
+     "koleksiyon",
+     "tekstil"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "kişi haberi",
+     "çocuk haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6fae9443adc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan yabancı takımların formaları yer alıyor, Trabzonspor forması ve çocuk bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor forması giyen çocuk",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:05:16+03:00"
+    }
+   },
+   "t": "2026-11-08T17:05:16+03:00",
+   "teknik": {
+    "doygunluk": 53.5,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.413,
+    "keskinlik": 1462,
+    "kontrast": 76,
+    "medyan": 63,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1649520937981-763d6a14de7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2hpbGQlMjBzcG9ydHMlMjBqZXJzZXklMjBjbG9zZXVwfGVufDF8MHx8fDE3OTQxNDY3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "5be66621bf970c33": {
    "icerik": {
     "ana_kutu": [
@@ -20997,6 +21105,32 @@
     ]
    },
    "iliski": {
+    "r1:6fae9443adc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki çocukla ilgisi olmayan, Trabzonspor forması giymeyen rastgele bir çocuk fotoğrafı.",
+      "gerekli": [
+       {
+        "unsur": "Trabzonspor forması giyen çocuk",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:05:09+03:00"
+    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -21094,7 +21228,7 @@
      "t": "2026-11-08T12:39:20+03:00"
     }
    },
-   "t": "2026-11-08T15:05:17+03:00",
+   "t": "2026-11-08T17:05:09+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -31126,6 +31260,36 @@
      },
      "t": "2026-11-08T13:08:26+03:00"
     },
+    "r1:86ede938cd6d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf TBMM genel kurulunu göstermektedir, COP31 zirvesi ile ilgisi yoktur ve yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "zirve salonu",
+        "var": false
+       },
+       {
+        "unsur": "uluslararası toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:04:42+03:00"
+    },
     "r1:adb2d270060e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31194,32 +31358,6 @@
      },
      "t": "2026-11-08T16:10:51+03:00"
     },
-    "r1:c9e9b06a94d5:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf TBMM genel kurul salonunu göstermektedir; iklim krizi veya COP31 zirvesiyle doğrudan bir ilişkisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "iklim krizi veya küresel ısınma teması",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:07:15+03:00"
-    },
     "r1:d5c53c975dac:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31273,7 +31411,7 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T16:34:21+03:00",
+   "t": "2026-11-08T17:04:42+03:00",
    "teknik": {
     "doygunluk": 56.1,
     "inen": [
@@ -38057,6 +38195,93 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ali_Babacan%2C_World_Economic_Forum_Annual_Meeting_2009.jpg/1280px-Ali_Babacan%2C_World_Economic_Forum_Annual_Meeting_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a94a85f9bccaf386": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     20,
+     950,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lahit",
+     "mermer heykel",
+     "müze zemini"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen antik dönemden kalma kabartmalı mermer lahit.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze tanıtımı",
+     "tarih haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "güncel etkinlik haberi",
+     "iklim krizi haberi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ca8e3c6d4a06:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir müze eseridir, haberdeki etkinlik veya mekanla hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "izleyiciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:03:48+03:00"
+    }
+   },
+   "t": "2026-11-08T17:03:48+03:00",
+   "teknik": {
+    "doygunluk": 11.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.073,
+    "keskinlik": 2332,
+    "kontrast": 52,
+    "medyan": 101,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2527b.jpg/1280px-Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2527b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a9cc51c0992a9d63": {
    "icerik": {
     "ana_kutu": [
@@ -44767,6 +44992,41 @@
      },
      "t": "2026-11-08T15:15:03+03:00"
     },
+    "r1:86ede938cd6d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uluslararası bir toplantı ortamını ve masasını temsil ettiği için zirve haberiyle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "zirve salonu",
+        "var": true
+       },
+       {
+        "unsur": "uluslararası toplantı masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:04:42+03:00"
+    },
     "r1:b24d779b6d78:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44864,7 +45124,7 @@
      "t": "2026-11-08T14:39:02+03:00"
     }
    },
-   "t": "2026-11-08T15:15:03+03:00",
+   "t": "2026-11-08T17:04:42+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -45382,6 +45642,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cb075c4f6ae267f3": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "stadyum",
+     "futbol sahası",
+     "tribün",
+     "aydınlatma direği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havadan çekilmiş Alanya Oba Stadyumu genel görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "stadyum tanıtımı",
+     "maç öncesi duyuru"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c1872787cca2:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde belirtilen maçın oynanacağı stadyumun güncel ve doğru bir görüntüsüdür.",
+      "gerekli": [
+       {
+        "unsur": "stadyum",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       50,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:05:25+03:00"
+    }
+   },
+   "t": "2026-11-08T17:05:25+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.254,
+    "keskinlik": 1452,
+    "kontrast": 79,
+    "medyan": 92,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bah%C3%A7e%C5%9Fehir_Okullar%C4%B1_Stadyumu_%E2%80%93_D%C4%B1%C5%9F_manzara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "cb62245dfbf1fa5d": {
    "icerik": {
@@ -47206,9 +47555,39 @@
       "yasak": []
      },
      "t": "2026-11-07T23:57:26+03:00"
+    },
+    "r1:86ede938cd6d:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir inşaat sahasını göstermektedir, iklim zirvesi veya toplantı salonu ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "zirve salonu",
+        "var": false
+       },
+       {
+        "unsur": "uluslararası toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:04:42+03:00"
     }
    },
-   "t": "2026-11-07T23:57:26+03:00",
+   "t": "2026-11-08T17:04:42+03:00",
    "teknik": {
     "doygunluk": 19.7,
     "inen": [
@@ -50139,6 +50518,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e3933968a4dded29": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     20,
+     950,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lahit",
+     "mermer heykel",
+     "müze zemini"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen antik dönemden kalma kabartmalı mermer lahit.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze tanıtımı",
+     "tarih haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "güncel etkinlik haberi",
+     "iklim krizi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ca8e3c6d4a06:mekan": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir müze eseridir, haberdeki etkinlik veya mekanla hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "izleyiciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-08T17:03:48+03:00"
+    }
+   },
+   "t": "2026-11-08T17:03:48+03:00",
+   "teknik": {
+    "doygunluk": 10.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 1535,
+    "kontrast": 28,
+    "medyan": 118,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2523b.jpg/1280px-Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2523b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e3df6586de687e30": {
    "icerik": {
@@ -62139,7 +62605,7 @@
    "gosterim_ad": "iklim zirvesi müzakereleri",
    "ilk_kabul": "2026-11-08T11:37:21+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "EU2017EE Estonian Presidency / Wikimedia Commons (CC BY 2.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -62162,6 +62628,8 @@
     "laptop",
     "sandalye",
     "su şişesi",
+    "uluslararası toplantı masası",
+    "zirve salonu",
     "zirve toplantı salonu"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/500px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -62179,7 +62647,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T11:37:21+03:00",
+   "son_kabul": "2026-11-08T17:04:42+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
