@@ -2,36 +2,80 @@
 title: 'Sururi Çorabatır''dan ekonomi eleştirisi: 2027 bütçesini sordu'
 date: '2026-11-04T21:28:00+03:00'
 ozet: CHP Antalya Milletvekili Sururi Çorabatır, TBMM Plan ve Bütçe Komisyonu’nda artan maliyetler ve karşılıksız çek sorununa dikkati çekti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_National_Assembly_of_Turkey_MPs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu (VOA) / Wikimedia Commons (Public domain)'
+gorsel: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Apo Stock / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: stok
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
-  fotografci: Yıldız Yazıcıoğlu (VOA)
-  kredi: Yıldız Yazıcıoğlu (VOA) / Wikimedia Commons (Public domain)
-  lisans: Public domain
-  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: TBMM
-  cekim_yili: '2015'
-  gerekce: 'dosya kaydında yer (''TBMM'') ve konu ipucu (parliament, politician) birlikte geçiyor; görsel kontrol: TBMM Genel Kurulu''ndaki oturumu gösteren, haberin konusuyla doğrudan ilişkili uygun bir arşiv fotoğrafıdır.'
-  surum: g9.4-2026-11-05
+  tur: stok
+  kaynak_sayfa: https://unsplash.com/photos/black-and-silver-microphone-on-brown-wooden-table-3vnxk7Hu8HQ
+  fotografci: Apo Stock
+  kredi: Apo Stock / Unsplash
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  kosul: Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.
+  gosterilen: erken seçim açıklaması
+  cekim_yili: ''
+  gerekce: 'kütüphane: somut konu (mikrofon) (doğrulama h2-i3-y3); görsel kontrol: Konuşma ve açıklama haberleri için uygun temsilî mikrofon görselidir.'
+  surum: h1-2026-11-07
   konu_imza: fec2b8dcad5a
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_National_Assembly_of_Turkey_MPs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T21:17:24+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  aciklama: TBMM — Arşiv fotoğrafı (2015)
-  alt_tur: yer_konu
-  kaynak_aciklama: Members of Parliament during a session of the Grand National Assembly of Turkey
+    tarih: '2026-11-08T15:17:34+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
+  aciklama: Temsilî fotoğraf
+  alt_tur: nesne
+  sinif: konu
+  hat: h2
+  inceleme:
+    teknik:
+      doygunluk: 35.2
+      inen:
+      - 400
+      - 267
+      karanlik_oran: 0.104
+      keskinlik: 375
+      kontrast: 66
+      medyan: 142
+      parlaklik: 130
+      s: t1
+    icerik:
+      sahne: Ahşap kürsü üzerine konulmuş Shure marka mikrofon
+      nesneler:
+      - mikrofon
+      - kürsü
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: false
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: mikrofon
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 262
+      - 329
+      - 646
+      - 1000
+      uygunluk: 8
+      gerekce: Konuşma ve açıklama haberleri için uygun temsilî mikrofon görselidir.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
@@ -74,10 +118,62 @@ gorsel_gecmis:
     qid: Q274918
     kurum: k4
   degisim: '2026-11-05T21:17:24+03:00'
+- gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_National_Assembly_of_Turkey_MPs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu (VOA) / Wikimedia Commons (Public domain)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
+    fotografci: Yıldız Yazıcıoğlu (VOA)
+    kredi: Yıldız Yazıcıoğlu (VOA) / Wikimedia Commons (Public domain)
+    lisans: Public domain
+    lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: TBMM
+    cekim_yili: '2015'
+    gerekce: 'dosya kaydında yer (''TBMM'') ve konu ipucu (parliament, politician) birlikte geçiyor; görsel kontrol: TBMM Genel Kurulu''ndaki oturumu gösteren, haberin konusuyla doğrudan ilişkili uygun bir arşiv fotoğrafıdır.'
+    surum: g9.4-2026-11-05
+    konu_imza: fec2b8dcad5a
+    gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_National_Assembly_of_Turkey_MPs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-05T21:17:24+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.1-flash-lite
+    aciklama: TBMM — Arşiv fotoğrafı (2015)
+    alt_tur: yer_konu
+    kaynak_aciklama: Members of Parliament during a session of the Grand National Assembly of Turkey
+    kurum: k5
+    kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  degisim: '2026-11-08T15:17:34+03:00'
 etiketler:
 - Sururi Çorabatır
 - CHP
 - TBMM Plan ve Bütçe Komisyonu
+gorsel_yerlesim:
+  boyut:
+  - 4934
+  - 3289
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 79% 50%
+  o_mansetyan_m: 80% 50%
+  o_yan_d: 50% 91%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 0%
+  o_kart_p: 83% 50%
+  url: https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Cumhuriyet Halk Partisi (CHP) Antalya Milletvekili Sururi Çorabatır, Türkiye Büyük Millet Meclisi (TBMM) Plan ve Bütçe Komisyonu’nda ekonomiye dair değerlendirmelerde bulundu. İhracat rakamlarında rekor artışlardan söz edilmesine rağmen bu tablonun ülke refahına aynı ölçüde yansımadığını belirten Çorabatır, sanayici, üretici, esnaf ve vatandaşın yaşadığı ekonomik zorlukların ele alınması gerektiğini ifade etti.
 

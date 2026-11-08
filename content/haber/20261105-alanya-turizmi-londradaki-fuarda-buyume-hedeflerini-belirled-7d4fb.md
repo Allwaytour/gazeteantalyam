@@ -115,6 +115,12 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 53% 50%
   url: /images/kurum/c3ea3910914e2b78.jpg
+etiketler:
+- Osman Tarık Özçelik
+- Alanya heyeti
+- Alanya Belediyesi
+- ALTAV
+- Coral Travel
 ---
 İngiltere'nin başkenti Londra'da düzenlenen World Travel Market (WTM) Londra 2026 Fuarı, Alanya turizmi için verimli temaslara sahne oldu. Alanya Belediye Başkanı Osman Tarık Özçelik, ALTAV Başkanı Abdurrahman Açıkalın ve sektör temsilcilerinden oluşan heyet, uluslararası tur operatörleriyle bir araya gelerek bölgenin pazar payındaki artışı ve gelecek sezon stratejilerini değerlendirdi.
 

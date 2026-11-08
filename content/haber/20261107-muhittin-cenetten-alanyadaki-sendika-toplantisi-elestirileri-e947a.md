@@ -23,20 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 61abc1a18f04
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T15:02:13+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T15:14:52+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Muhittin Çenet'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Muhittin Çenet'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (microphone) ilişkili lisanslı fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gazetesi
 kaynak_url: https://www.akdenizgazetesi.com/muhittin-cenetten-alanya-elestirilerine-yanit
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Sağlık-Sen teşkilat buluşmasına yönelik sosyal medyada yer alan bazı iddialar ve eleştiriler üzerine açıklama yapıldı. Düzenlenen toplantının teşkilatın motivasyonunu artırmak, birlik sağlamak ve sağlık çalışanlarının hak mücadelesini ileriye taşımak amacıyla gerçekleştirildiği ifade edildi.
 

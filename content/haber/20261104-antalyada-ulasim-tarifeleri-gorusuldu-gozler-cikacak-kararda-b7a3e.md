@@ -2,36 +2,41 @@
 title: 'Antalya''da ulaşım tarifeleri görüşüldü: Gözler çıkacak kararda'
 date: '2026-11-04T19:03:00+03:00'
 ozet: Antalya'da şoför esnafının temsilcileri ve belediye yönetimi bir araya gelerek ulaşım maliyetleri ve tarifeleri masaya yatırdı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Own photo / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/kategori/gundem.png
+gorsel_kredi: ''
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: arsiv
+gorsel_tur: kategori
 gorsel_secim:
-  tur: arsiv
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Temsa_Avenue_in_Antalya.JPG
-  fotografci: Own photo
-  kredi: Own photo / Wikimedia Commons (CC BY-SA 4.0)
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
-  gosterilen: Antalya Büyükşehir Belediyesi
-  cekim_yili: '2009'
-  gerekce: '''Antalya Büyükşehir Belediyesi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2009-10-20; görsel kontrol: Antalya''da çekilmiş otobüs arşivi ulaşım haberiyle uyumludur.'
-  surum: g8.1-2026-11-02
+  tur: kategori
+  kaynak_sayfa: ''
+  fotografci: ''
+  kredi: Gazete Antalya
+  lisans: Gazete Antalya'nın kendi tasarımı
+  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kosul: ''
+  gosterilen: ''
+  cekim_yili: ''
+  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 8c02ac069380
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: /images/kategori/gundem.png
   kontrol:
     yapildi: true
-    sonuc: onaylandı
-    tarih: '2026-11-04T19:35:08+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  aciklama: Antalya Büyükşehir Belediyesi — Arşiv fotoğrafı (2009)
-  alt_tur: kurum
-  kurum: k4
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T15:20:19+03:00'
+    yontem: h2
+    model: gemini-3.1-flash-lite
+  hat: h2
+  arama_surum: a2
+  kurum: k5
+  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %13); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %40); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %13)
+  kapak_nedeni:
+    kod: gorsel_reddedildi
+    aciklama: büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (cizim); gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (6/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; tarihî/siyah-be
+  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +44,38 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-ulasim-tarifeleri-masaya-yatirildi-gozler-alinacak-kararda
+gorsel_onceki:
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Own photo / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_gecmis:
+- gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_kredi: 'Arşiv fotoğrafı: Own photo / Wikimedia Commons (CC BY-SA 4.0)'
+  gorsel_tur: arsiv
+  gorsel_konum: ''
+  gorsel_secim:
+    tur: arsiv
+    kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Temsa_Avenue_in_Antalya.JPG
+    fotografci: Own photo
+    kredi: Own photo / Wikimedia Commons (CC BY-SA 4.0)
+    lisans: CC BY-SA 4.0
+    lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+    kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
+    gosterilen: Antalya Büyükşehir Belediyesi
+    cekim_yili: '2009'
+    gerekce: '''Antalya Büyükşehir Belediyesi'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2009-10-20; görsel kontrol: Antalya''da çekilmiş otobüs arşivi ulaşım haberiyle uyumludur.'
+    surum: g8.1-2026-11-02
+    konu_imza: 8c02ac069380
+    gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    kontrol:
+      yapildi: true
+      sonuc: onaylandı
+      tarih: '2026-11-04T19:35:08+03:00'
+      yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
+      model: gemini-3.5-flash-lite
+    aciklama: Antalya Büyükşehir Belediyesi — Arşiv fotoğrafı (2009)
+    alt_tur: kurum
+    kurum: k4
+  degisim: '2026-11-08T15:23:28+03:00'
 ---
 Antalya'da şoför esnafının oda başkanları ile büyükşehir belediyesi yönetimi bir araya gelerek kentteki ulaşım sektörüyle ilgili sorunları görüştü. Gerçekleşen toplantıda, ulaşım hizmetlerinin sürdürülebilirliği ile vatandaşların ekonomik durumları ele alındı.
 

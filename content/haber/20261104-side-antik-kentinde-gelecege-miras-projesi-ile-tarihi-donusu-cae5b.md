@@ -19,19 +19,69 @@ gorsel_secim:
   kosul: Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.
   gosterilen: Side Antik Kenti
   cekim_yili: '2025'
-  gerekce: '''Side Antik Kenti'' adı dosya başlığı/açıklaması/kategorilerinde geçiyor; çekim 2025-09-24; görsel kontrol: Antik kent kalıntılarını ve sergilenen eserleri gösterdiği için haberle doğrudan ilişkili.'
-  surum: g9.4-2026-11-05
+  gerekce: mevcut görsel h1 kontrollerinden geçti; korundu — Fotoğraf Side Antik Kenti'ndeki tarihi kalıntıları ve eserleri doğrudan göstermektedir.
+  surum: h1-2026-11-07
   konu_imza: 4abb64d17b54
   gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Antalya_Side_Ancient_City_Artifacts.jpg/1280px-Antalya_Side_Ancient_City_Artifacts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   kontrol:
     yapildi: true
     sonuc: onaylandı
-    tarih: '2026-11-05T21:17:34+03:00'
-    yontem: kaynak/açıklama doğrulaması + Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
+    tarih: '2026-11-08T15:18:06+03:00'
+    yontem: 'h1: kaynak/lisans + teknik ölçüm + Gemini içerik ve haber ilişkisi + yerleşim'
+    model: gemini-3.5-flash-lite
   aciklama: Side Antik Kenti — Arşiv fotoğrafı (2025)
   alt_tur: kurum
   kaynak_aciklama: Antalya Side Ancient City Artifacts
+  sinif: ozne_kurum
+  hat: h2
+  inceleme:
+    teknik:
+      inen:
+      - 500
+      - 375
+      parlaklik: 121
+      medyan: 117
+      karanlik_oran: 0.098
+      kontrast: 54
+      doygunluk: 24.9
+      keskinlik: 3281
+      s: t1
+    icerik:
+      sahne: Side Antik Kenti'nde sergilenen tarihi kalıntılar ve restorasyon alanı.
+      nesneler:
+      - tarihi kalıntı
+      - sütun başlığı
+      - taş blok
+      - sergi kaidesi
+      - duvar
+      tur: fotograf
+      donem: guncel
+    iliski:
+      ana_ozne_gorunuyor: true
+      olay_gorunuyor: false
+      gerekli:
+      - unsur: antik kent kalıntıları
+        var: true
+      - unsur: kazı veya restorasyon alanı
+        var: true
+      yasak: []
+      konu_ana_unsur: true
+      yanlis_kisi: false
+      yanlis_takim: false
+      yanlis_spor: false
+      yaniltici_donem: false
+      ilgisiz_yer_nesne: false
+      baska_olay_sanilir: false
+      belirli_kisi_isletme: false
+      yaniltici_yer: false
+      konu_kutusu:
+      - 72
+      - 0
+      - 995
+      - 995
+      uygunluk: 10
+      gerekce: Fotoğraf Side Antik Kenti'ndeki tarihi kalıntıları ve eserleri doğrudan göstermektedir.
+  arama_surum: a2
   kurum: k5
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
 manset: false
@@ -79,6 +129,28 @@ etiketler:
 - Feriştah Alanyalı
 - Kültür ve Turizm Bakanlığı
 - Side Müzesi
+gorsel_yerlesim:
+  boyut:
+  - 1600
+  - 1200
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Antalya_Side_Ancient_City_Artifacts.jpg/1280px-Antalya_Side_Ancient_City_Artifacts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Manavgat ilçesinde yer alan tarihi Side Antik Kenti, yürütülen kapsamlı çalışmalarla yeniden şekilleniyor. Kültür ve Turizm Bakanlığı öncülüğünde hayata geçirilen proje kapsamında, bölgede çok sayıda noktada kazı, restorasyon ve çevre düzenlemesi yapılıyor.
 

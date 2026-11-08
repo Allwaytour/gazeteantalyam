@@ -23,20 +23,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 365df7335f68
   gorsel_url: /images/kategori/spor.png
   kontrol:
     yapildi: false
     sonuc: aday yok
-    tarih: '2026-11-07T11:01:24+03:00'
-    yontem: kaynak/arşiv taraması
+    tarih: '2026-11-08T15:14:33+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
     kod: aday_bulunamadi
-    aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: İsmail Oğan Stadyumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
-    notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: İsmail Oğan Stadyumu; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
+    aciklama: '''İsmail Oğan Stadyumu'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''İskenderunspor'' haberdeki rakip takım; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''İsmail Oğan Stadyumu'' konumunda'
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -45,6 +48,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/serik/serik-spor-as-evinde-iskenderunsporu-konuk-ediyor/388802
+gorsel_onceki:
+  gorsel: /images/kategori/spor.png
+  gorsel_kredi: ''
 ---
 Nesine 2. Lig 10. hafta mücadelesinde Serik Spor A.Ş., kendi sahasında İskenderunspor ile karşı karşıya gelecek. Yeşil-beyazlı ekip, taraftar desteğiyle sahadan 3 puanla ayrılarak ligdeki çıkışını sürdürmeyi hedefliyor.
 

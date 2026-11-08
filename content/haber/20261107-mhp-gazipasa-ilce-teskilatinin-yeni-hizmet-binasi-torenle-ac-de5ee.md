@@ -26,20 +26,23 @@ gorsel_secim:
   kosul: ''
   gosterilen: ''
   cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  gerekce: 4 aday kontrolden geçemedi; fotoğrafsız.
+  surum: h1-2026-11-07
   konu_imza: 781ca733fba0
   gorsel_url: /images/kategori/gundem.png
   kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T18:27:34+03:00'
-    yontem: kaynak/arşiv taraması
+    yapildi: true
+    sonuc: adaylar reddedildi
+    tarih: '2026-11-08T15:15:09+03:00'
+    yontem: h2
+    model: gemini-3.5-flash-lite
+  hat: h2
+  arama_surum: a2
   kurum: k5
+  kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Murat Özgen'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Saadullah Güneş'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''MH'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Murat Özgen'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Saadullah Güneş'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''MHP Gazipaşa İlçe Başkanlığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    kod: gorsel_reddedildi
+    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; bulanık (keskinlik 37); habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri
   kapak_surum: c8
 manset: false
 son_dakika: false
@@ -48,6 +51,9 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/mhp-gazipasanin-yeni-hizmet-binasi-acildi
+gorsel_onceki:
+  gorsel: /images/kategori/gundem.png
+  gorsel_kredi: ''
 ---
 Milliyetçi Hareket Partisi (MHP) Gazipaşa İlçe Başkanlığı, yeni hizmet binasında faaliyet göstermeye başladı. İstiklal Mahallesi Şehit Süleyman Gür Bulvarı üzerinde yer alan Gazi Tuncerler Plaza'nın zemin katındaki merkezin açılış töreni gerçekleştirildi. Düzenlenen programa MHP Antalya İl Başkanı Saadullah Güneş, MHP Alanya İlçe Başkanı Mustafa Türkdoğan, ilçe teşkilat başkanları, yönetim kurulu üyeleri, sivil toplum kuruluşlarının temsilcileri ve çok sayıda partili katılım sağladı.
 

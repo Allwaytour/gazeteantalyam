@@ -110,6 +110,11 @@ gorsel_yerlesim:
   o_yan_m: 56% 50%
   o_kart: 46% 50%
   url: /images/kurum/552e5f8c7c6f530a.jpg
+etiketler:
+- Osman Tarık Özçelik
+- Alanya Belediyesi
+- Coral Travel
+- Odeon
 ---
 Alanya, uluslararası turizm pazarlarındaki güçlü performansıyla dikkat çekmeye devam ediyor. Londra'da gerçekleştirilen World Travel Market (WTM) Fuarı'na katılan Alanya heyeti, tur operatörleriyle bir araya gelerek 2026 sezonunu değerlendirdi ve 2027 hedeflerini belirledi. Belediye Başkanı Osman Tarık Özçelik'in başkanlık ettiği heyet, bölgenin turizmdeki rekabetçi gücünü artırmak adına yoğun temaslarda bulundu.
 
