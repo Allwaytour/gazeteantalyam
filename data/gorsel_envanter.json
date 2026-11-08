@@ -1,0 +1,2156 @@
+{
+"aciklama": "Yayındaki otomatik fotoğrafların denetim sürümü envanteri (2026-11-08 22:30 itibarıyla 214 fotoğraf). 'Denetimden geçti' doğru olduğu anlamına gelmez: h2 sürümünün k1–k3 kurallarıyla verdiği kabuller bilinen 31 yanlışın 25'ini üretti; eski g7/g8/g9 hatlarının kayıtlı incelemesi olmadığı için güncel kurallarla yalnızca bağlam ön denetiminden geçebildiler. Ana sayfadaki ve hassas haberlerdeki 76 fotoğraf tek tek görsel olarak incelendi (inceleme alanı); diğerleri henüz incelenmedi.",
+"tarih": "2026-11-08",
+"risk_gruplari": {
+"h2_k1_k3": "h2 hattı, k1–k3 kurallarıyla kabul (bilinen 31 yanlışın 25'i bu gruptan)",
+"h1e": "h1e kabul testi sürümü (2 yanlış kaldırıldı)",
+"eski_g": "eski g7.7/g8.1/g9.4 hatları; kayıtlı inceleme yok, güncel kabul kurallarıyla denetlenemedi"
+},
+"sayilar": {
+"h2_k1_k3": 105,
+"h1e": 8,
+"eski_g": 101
+},
+"fotograflar": [
+{
+"dosya": "20261108-yesildere-spor-kulubunun-kazandigi-sampiyonluk-kupasi-muhtar-df60e.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "photo-1665680674724-3a3b3368e036",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261108-muhammed-salah-alanyada-sessizligini-bozdu-9e624.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Mo_Salah_2018_(cropped)_2.png",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-kepezde-otodrag-heyecani-sampiyonluk-icin-piste-ciktilar-33362.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "6ca3177785a1cf39.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-kasim-ayinda-antalya-sahillerinde-yazdan-kalma-gunler-0632a.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Konyaaltı_Beach_and_cliffs.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-geyikbayirinda-ciceklerin-cografyasi-sergisi-acildi-146d8.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_광명업사이클아트센터_전시실.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-emodan-gunes-enerjisi-sistemleri-icin-burokrasi-cagrisi-71f26.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1655300256335-beef51a914fe",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-dunya-iklim-diplomasisi-antalyada-sekillenecek-3f20b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Expo_Serası.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-cop31-zirvesi-oncesi-antalyada-ulasim-krizi-8-servis-hatti-d-5635e.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Abbotobüsgaraj.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261108-babacan-antalyada-is-dunyasi-ve-stk-temsilcileriyle-bir-aray-76f90.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Ali_Babacan,_May_21,_2022.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-antalyada-tramvay-seferlerinde-cop31-duzenlemesi-2497b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "Istanbul_modern_tramway_(2831766741).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261108-antalyada-suyun-yuzde-80i-tarimda-kullaniliyor-4b818.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_manageme",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-antalyada-hava-durumu-acik-bir-gun-bekleniyor-f9f14.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Side_Ancient_City_Antalya.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-antalyada-gastronomi-bulusmasi-88-lezzet-duragi-aciklandi-e4d84.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": true,
+"gorsel": "1280px-Meze_as_a_side_dish.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261108-antalyada-da-planlanan-polis-konut-projesi-icin-arazi-araniy-7b5d1.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Turcja.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-antalyada-cop31-zirvesi-icin-trafik-polisleri-sahaya-indi-fc77c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "photo-1767619879597-17943ea7482a",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261108-antalyada-cop31-iklim-konferansi-boyunca-kultur-ve-cevre-sol-55c6e.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": true,
+"hassas": true,
+"gorsel": "9224205f19251a8d.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli-3b80d.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Expo_Serası.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-antalyada-baslayan-ask-sasonda-dugunle-taclandi-5002c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-A_wedding_convoy_in_Sivas_Province.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261108-antalya-muzesinin-akibeti-meclis-gundemine-tasindi-ecd4b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "Turkey-2622_(2216327975).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-antalya-lisesi-128-yildir-egitimin-ve-tarihin-merkezinde-8546d.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Antalya_Lisesi.JPG",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261108-antalya-gran-fondoda-8-kasim-programi-aciklandi-00e0c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261108-antalya-cop31-iklim-zirvesi-icin-gun-sayiyor-dc8f0.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_N",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261108-antalya-buyuksehirden-ureticiye-ucretsiz-tirnak-bakim-hizmet-d6bea.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Cow_hoof_repair.png",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261108-alanya-turizminde-finlandiya-pazariyla-40-yillik-rekor-49807.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Alanyafromcastle.JPG",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261108-alanya-pazarlarinda-kis-hazirligi-basladi-sebze-ve-meyve-fiy-126b6.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt-e6439.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "photo-1643574546802-99d87f38714d",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261107-toroslarin-yoruk-kulturu-cop31-belgeseliyle-uluslararasi-vit-420e1.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-A_part_of_Western_Taurus.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261107-osman-ozkoyluden-oyuncularina-ovgu-performanslarindan-cok-me-d37a7.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-manavgattaki-avrupa-pickleball-sampiyonasinda-turk-sporcular-5cd96.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_th",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261107-korkutelinde-su-kesintisi-uyarisi-3ee2c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1669139470813-827cbcf54b20",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-iyi-parti-antalya-il-baskanligindan-sonar-arastirmasi-acikla-d17f8.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-20_Eylül_2023-Meral_Akşener_Teşkilat_Buluşması.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol-69493.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Newborn_baby_feet_(Unsplash).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag-99653.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Gazipaşa-Alanya_Airport_Terminal.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "ozne_kisi",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "AK_Parti_İstanbul_Milletvekili_Murat_Kurum_(cropped).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya,_Turkey,_February_2022_-_Row_of_Taxis.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261107-antalyada-greenpeaceten-cop31-oncesi-pankartli-eylem-5b7fb.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "photo-1570095378004-ce65d6c2d5bb",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261107-antalyada-cadde-ve-sokaklarda-cevre-duzenlemesi-yapildi-16d30.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1792691040866-b38edd5908ef",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-antalyada-artik-sergisi-iklim-degisikligine-dikkat-cekiyor-de037.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_광명업사이클아트센터_전시실.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-antalyada-artan-nufusla-birlikte-su-tuketimi-ve-ambalaj-terc-073af.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1536939459926-301728717817",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi-b2e30.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Antalya_Airport_-_International_Terminal_1.JPG",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-alanyanin-nufusu-turkiye-ortalamasinin-bes-kati-hizla-artiyo-78e2b.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Alanya_Turcja.JPG",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-alanyanin-il-olma-beklentisi-yeniden-gundemde-12022.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Alanya_Turcja.JPG",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-alanyanin-800-yillik-simgesi-kizilkule-bilimsel-calistayda-e-6b954.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Alanya_Kızıl_Kule_Courtyard_8506.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12-85f66.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Alanya_Hafen_-_panoramio.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC(WL)_TC-SOE_(DSC00365).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-kepezde-baris-manco-bulvari-yenileniyor-bf191.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "0552fc8ebff04913.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-kepez-meclisinden-esnafa-ruhsat-mujdesi-eba62.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "32ffba764984a559.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-kaleicinde-atiklar-sanat-ve-moda-tasarimlarina-donusturulece-7b42c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "e1aef29029e2624d.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-halil-cibranin-ermis-eseri-antalyada-sahnelenecek-44a67.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1741681001273-db60e15e623d",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-cop31-zirvesinde-7-bolgenin-lezzetleri-dunyaya-tanitilacak-53134.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": true,
+"gorsel": "1280px-Meze_as_a_side_dish.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261106-babacandan-yorsiada-ziyaret-64399.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Ali_Babacan,_May_21,_2022.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "photo-1592656094267-764a45160876",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-antalyadaki-cop31-icin-sifir-atik-kadin-elcisi-basvurulari-b-3ebf7.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-RecyclingBinsMarkham.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261106-antalyadaki-cop31-icin-hazirlanan-tanitim-filmi-paylasildi-36dac.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "AK_Parti_İstanbul_Milletvekili_Murat_Kurum_(cropped).jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261106-antalyada-yanik-agaclar-ihaleyle-satisa-cikiyor-0498d.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalyada-ulasim-atagi-6-ilcede-dev-projeler-yolda-5223f.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalyaspor_Kavşağı_-_23.6.15.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor-05fac.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-SAKURAKO_-_Learning_to_ride_a_bicycle._(14149594651).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261106-antalyada-uc-bolgede-av-yasagi-cop31-oncesi-guvenlik-onlemi-04d2d.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Turkish_nature_reserve.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalyada-sinema-gunleri-uc-film-izleyiciyle-bulustu-01534.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-thumbnail.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalyada-erisilebilirlik-calismalari-ve-yeni-projeler-masay-f1b77.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Abbotobüsgaraj.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalyada-cop31-yatirimlari-kalici-merkeze-donusecek-400b3.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "yer_genel",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Expo_Serası.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-antalya-valiligi-cop31-zirvesinde-gastronomi-mirasini-tanita-9de0b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": true,
+"gorsel": "photo-1661685452870-e89b6e8c14fa",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261106-antalya-ticaret-ve-sanayi-odasinin-yeni-yonetimi-ankarada-an-5fc85.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Anıtkabir_-_Atatürk’s_Tomb.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-antalya-icin-demir-yolu-cagrisi-d090c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "1280px-Turkey_travel_9848949889498747894.jpg",
+"inceleme": "zayif"
+},
+{
+"dosya": "20261106-antalya-arkeoloji-muzesi-icin-yeni-tarih-2027-yilinda-acilac-89029.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": true,
+"hassas": true,
+"gorsel": "Turkey-2622_(2216327975).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-ali-babacan-antalyanin-potansiyeline-dikkat-cekti-b6be4.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Ali_Babacan,_May_21,_2022.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261106-ali-babacan-antalyada-ekonomiyi-degerlendirdi-cikis-yolu-yol-275ff.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "Ali_Babacan,_May_21,_2022.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-alanyaspor-maci-oncesi-trabzonsporda-tim-jabol-folcarelli-so-fef5b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "TRABZONSPOR_2025-2026_İLK_MAÇ_İLK_11_(Tim_Jabol-Folcarelli).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": true,
+"hassas": false,
+"gorsel": "photo-1592656094267-764a45160876",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-alanyada-binlerce-ogrencinin-kullandigi-caddede-asfalt-yenil-41b4a.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "41ad06d5575bf0f3.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261106-aksekide-hazine-tasinmazlari-acik-teklif-usuluyle-satisa-cik-55509.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-07630_Aşağıaşıklar-Akseki-Antalya,_Turkey_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-serikte-dunya-bisiklet-serisi-heyecani-basladi-93639.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-seralardaki-sel-zararina-ragmen-antalyada-sebze-fiyatlari-du-b7ec6.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "photo-1545898073-346e42dc7357",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261105-nadir-gorulen-cayirkosari-kus-gozlemcilerini-manavgata-cekti-a72da.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Buff_breasted_sandpiper_13.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-mustafa-ertugrul-aker-kabri-basinda-anildi-8646c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "68081088bdeea779.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-korkutelinde-mantardan-hazirlanan-60-cesit-lezzet-gastronomi-04e5f.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Natural_Mushroom_fry.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261105-konyaaltinda-uluslararasi-halk-danslari-festivali-heyecani-53012.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Turkish_Folk_Dance_Team.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-kizilkulede-cumhuriyet-ve-ataturk-sergisi-02047.md",
+"denetim": "h1e / h1-2026-11-07",
+"risk": "h1e",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Hafen_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-kepezde-ucretsiz-spor-donemi-basliyor-7b80c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Step_Aerobics_Class_at_a_Gym.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-kepez-yeni-drag-pisti-hiz-tutkunlarini-agirlamaya-hazirlaniy-5120f.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "415e8b37beec347b.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-gazipasada-dev-gunes-enerjisi-yatirimi-icin-ced-sureci-basla-a641c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1521618755572-156ae0cdd74d",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-gazipasa-alanya-hattinda-turizm-hareketliligi-730-bin-yolcu-c3da3.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Boeing_737-800_in_Gazipaşa-Alanya_Airport.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-ermenistan-basbakani-pasinyan-antalyadaki-cop31-zirvesine-ka-41fbc.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Nikol_Pashinyan_2026-04-01.png",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-edward-burtynskynin-donusen-yeryuzu-sergisi-cop31-kapsaminda-c5430.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Hala_główna_Galerii_Elektrownia_w_Czeladzi_z_ekspozycją_maszyn_i_urządzeń",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b-87900.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "e8244af2b4861d59.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-antalyada-benzin-fiyatlarinda-dev-indirim-beklentisi-12f0a.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "photo-1654334036169-840615ab6a34",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261105-antalya-turizmde-12-milyonu-geride-birakti-aef78.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Turkey_-_Antalya_in_2023.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-antalya-halinde-kasim-rakamlari-bogurtlen-fiyatiyla-zirvede-35757.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-alanyanin-trafik-sorununa-siyasetten-farkli-cozum-onerileri-ca302.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "6d968980df34cba6.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-alanyada-mutfak-tupune-zam-fiyat-1-855-tlye-yukseldi-f4b0e.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-LPG_small_cylinder_Adapter_Australia.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-alanya-uluslararasi-barmenler-yarismasina-ev-sahipligi-yapac-29add.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1574879948818-1cfda7aa5b1a",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-alanya-turizmi-londradaki-fuarda-buyume-hedeflerini-belirled-7d4fb.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "c3ea3910914e2b78.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-alanya-kalesinin-korkutan-efsanesi-adam-atacagi-b7f0e.md",
+"denetim": " / g9.4-2026-11-05",
+"risk": "eski_g",
+"sinif": "yer_konu",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Eastern_Walls_of_Alanya_Castle.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261105-alanya-avrupa-turizm-pazarlarindaki-yukselisini-surduruyor-ff377.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "552e5f8c7c6f530a.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261105-aksu-turizm-verilerinde-yuzde-132-doluluk-orani-tartismalari-b10c0.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Lara_Family_Club_Hotel_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-side-antik-kentinde-gelecege-miras-projesi-ile-tarihi-donusu-cae5b.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Side_Ancient_City_Artifacts.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-muhittin-bocekten-devlet-bahceliye-taziye-mesaji-3cbdc.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Muhittin_BÖCEK.jpeg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261104-cin-cumhurbaskani-yardimcisi-han-zheng-antalyaya-geliyor-c836c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Han_Zheng_(55309839831)_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-atsodan-bakan-kuruma-aksu-altintas-dosyasi-df983.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "AK_Parti_İstanbul_Milletvekili_Murat_Kurum_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-antalyasporun-eski-teknik-direktorleri-kariyerlerinde-zirvey-fc998.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Emre_Belözoğlu_23_November_2021.png",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-antalyada-cop31-alanina-kurulan-kelebek-bahcesinde-20-bin-ke-3b178.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Konya_Tropical_Butterfly_Garden_6.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-antalyada-artan-nufusla-birlikte-konut-ve-ulasim-krizi-buyuy-00536.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Untitled_-_panoramio_-_Руслан_Селезнёв_(11).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-antalya-altintastaki-imar-sorunu-bakanliga-tasindi-6daa7.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Ticaret_ve_Sanayi_Odası_-_panoramio_(2).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-almanya-basbakani-merz-antalyadaki-iklim-konferansina-katilm-0b732.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-2025-02-23_Bundestagswahl_–_Wahlabend_CDU_by_Sandro_Halank–070.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-alanyada-hava-durumu-yagisli-gunlerin-ardindan-sicaklik-duse-4e3fb.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Sunny_and_cloudy_day_in_Lusaka.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261104-alanya-toptanci-halinde-sebze-ve-meyve-fiyatlari-aciklandi-b6101.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1591586116988-62fe65164f8d",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-kepez-meclisinden-dokuma-2-etap-projesi-icin-sure-uzatimi-c8c02.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "970cdf11506c2f8f.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-kepez-meclisinde-24-gundem-maddesi-gorusuldu-e3a71.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "32ffba764984a559.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyasporu-da-calistirmisti-emre-belozoglunun-kariyeri-375b8.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_benzer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Emre_Belözoğlu_Kasımpaşa_SK_20260130_(4).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyasporda-bunyamin-balcinin-yoklugunda-iki-aday-var-91d43.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyaspor-deplasmanindan-puanla-donen-igdir-fk-serisini-10-b56cc.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-2016131194235_2016-05-10_Fussball_SV_Waldhof_Mannheim_vs_SV_Spielberg_-_S",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e-1efb8.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "17f296d389724772.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyada-surdurulebilir-turizm-icin-kriterler-imza-altina-a-99da7.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Ticaret_ve_Sanayi_Odası_-_panoramio_(2).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyada-sicakliklar-dusuyor-valilikten-uyari-geldi-072aa.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "nesne",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1592210454359-9043f067919b",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyada-organ-bagisi-farkindalik-programi-c234f.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "4dc7dd1f571b3485.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261103-antalyada-duzenlenen-genclik-bulusmasinda-cevre-vizyonu-ele-9f417.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Osman_Aşkın_Bak_20241107_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyada-cop31-heyecani-turizme-katkisi-surecek-100d4.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "94d2a69298313ca9.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalyada-buyukbas-hayvanlar-icin-ucretsiz-tirnak-bakimi-9d17e.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "31dbf7ec6aa219c5.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-antalya-toptanci-halinde-guncel-sebze-ve-meyve-fiyatlari-aci-569ab.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "nesne",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1488459716781-31db52582fe9",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-alanyadan-muhtarlik-tartismalarina-tepki-temelsiz-bir-cagri-541ce.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-View_from_Alanya_Teleferik_(Cable_Car),_Alanya,_Türkiye,_2024.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-alanyada-kentsel-donusum-master-plani-icin-ihale-tarihi-netl-f88bd.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "b9c92735c8d6ba18.jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261103-alanyada-bicakli-kavgada-yaralanan-genci-bicaklayan-supheli-c38ce.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "Fairbairn-Sykes_fighting_knife_(colour4).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261103-alanyada-afet-riskine-karsi-yapi-stoku-envanteri-cikariliyor-2fa92.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer_konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Turkey,_Alanya,_Cleopatra_Beach_from_cable_car,_December_2023.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261103-alanya-meclisinde-altyapi-ve-projeler-gorusuldu-eadfc.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "ae6a5d3d608d4720.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-turk-saat-sektoru-2027-sezonu-icin-antalyada-bulustu-fbbab.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "nesne",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Longines_4_Grand_Prix_pocket_watch_-_clockwork_visible_-_enhanced_resolut",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-squash-turkiye-sampiyonasindan-muratpasaya-iki-bronz-madalya-55e2f.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "bb6477128cf7cbed.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ozne_kisi",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Muhittin_BÖCEK.jpeg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261102-mhpli-baskandan-alanya-aciklamasi-82-il-alanya-olacak-02d1b.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-View_from_Alanya_Teleferik_(Cable_Car),_Alanya,_Türkiye,_2024.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-mhp-lideri-bahcelinin-acikladigi-il-listesinde-manavgat-yer-4ee60.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Guzelyali.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-kemerde-su-kesintisi-8-mahallede-sular-9-saat-akmayacak-33f68.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer_konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Kemer_-_panoramio_(32).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-imo-antalya-subesinden-gelecegimiz-icin-birlik-cagrisi-54900.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Roman_Harbour_and_Marina.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-ibradi-kestanesi-cografi-isaret-yolunda-fba00.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Altinbeşik_Mağarası.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-hakki-bulut-saglik-sorununun-ardindan-alanyada-sahnelere-don-b693a.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Hakkı_Bulut_Portre.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-yeniden-kapilarin-6de9a.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "61b4440e7cc0317c.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-cw-enerji-eif-energy-expo-2026da-yenilikci-teknolojilerini-t-32e77.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Seyir_Terası.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-chp-alanya-heyetinden-kaymakam-ozturke-ziyaret-e9b07.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_4028.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyayi-cop31-zirvesinde-caretta-caretta-temali-pavilyon-t-3ded1.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Side_Ancient_City_Antalya.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyasporda-asbaskan-lokman-arslan-gorevinden-istifa-etti-4f2d8.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyanin-turizm-kredilerindeki-payi-geriledi-takipteki-kre-b79ac.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-T.C._Kültür_Ve_Turizm_Bakanlığı_Küçük_Çaltıcak_Halk_Plajı.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4451f.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Coastal_path.JPG",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalyadaki-kongrede-bir-ilk-lisans-ogrencileri-bildiri-sund-df88f.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Phaselis_bay_2.JPG",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalyada-topcu-yuzbasi-mustafa-ertugrul-aker-anilacak-1674e.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-MarkAntalya.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-0896b.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_Old_style_building_but_not_Old_Town_ın_2013_65.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalyada-otel-calisanlari-kulturel-miras-elcisi-olacak-d2de9.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Phaselis_axb01.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Düden_Manzarası..._-_panoramio.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_19.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalyada-2026-yilinin-son-yoruk-toyu-renkli-goruntulere-sah-abe1e.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Glass_Pyramid_at_night_Feb2007.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalya-wwf-iklim-dostu-sehirler-oylamasinda-finalist-oldu-c2849.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_calcite_lr.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalya-ve-alanyada-lpg-fiyatlarina-buyuk-zam-beklentisi-9f0a2.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "konu",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1654334036169-840615ab6a34",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalya-muzesi-ve-kugulu-park-icin-sanatcilardan-ortak-cagri-2cd8a.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Turkey-2622_(2216327975).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalya-icin-3-bin-kilowatt-saatlik-elektrik-destegi-siniri-dd61d.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Old_city_view_-_panoramio_(1).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalya-genelinde-yagislar-oncesi-altyapi-temizligi-araliksi-413ad.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "a81634bc2a0568fd.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-antalya-evi-kapilarini-acmaya-hazirlaniyor-ae2d0.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-2007_0211TurkeySaturdayA0143_(3277541660).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-antalya-2026-guvenlik-endeksinde-turkiyenin-en-guvenli-ikinc-cacec.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Bahce_manzarasi_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyanin-il-olmasi-halinde-9-ilceden-olusan-yeni-haritasi-g-cb4e8.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Parasailers_in_Alanya,_Türkiye.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyanin-il-olmasi-gundemde-100-il-projesi-aciklandi-b46bd.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Devlet_Bahçeli_VOA_2015_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyanin-il-olacagi-iddialari-ve-plaka-tartismalari-31d34.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Devlet_Bahçeli_VOA_2015_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-tarimsal-elektrik-aboneliginde-yeni-donem-basladi-4ee61.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_2243.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-mantar-toplarken-surpriz-yilan-tehlikesi-821b7.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_2244.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-kritik-guzergah-arac-trafigine-kapatildi-77737.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbor_view_atop_June_2022.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-kizilkulenin-800-yil-kutlama-programinin-saati-degi-9f938.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Hafen_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec-d797f.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Alanya_Harbour_3160.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-alanyada-esnaf-ziyareti-gerceklestiren-tuna-talepleri-dinled-17cbd.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_3161.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-esnaf-bulusmasi-altso-baskani-sorunlari-dinledi-40782.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Damlataş_2021_6.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild-d0cb7.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Alanya_Harbour_2238.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-185b3.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Parasailers_in_Alanya,_Türkiye.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261102-alanyada-ahmet-tokus-bulvari-yenileniyor-a4369.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "b9c92735c8d6ba18.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-turizminde-12-ay-hedefi-ve-organizasyon-vurgusu-3c225.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Parasailers_in_Alanya,_Türkiye.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-turizmi-wtm-londra-fuarinda-tanitilacak-febd7.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_8459.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-otellerinde-yaz-dolulugu-yuzde-85i-asti-9269c.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_8391.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-emlak-piyasasi-icin-2027-uyarisi-ce25f.md",
+"denetim": " / g8.1-2026-11-02",
+"risk": "eski_g",
+"sinif": "nesne",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1580587771525-78b9dba3b914",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-damlatas-esnafiyla-bir-araya-gelen-altso-yonetimi-sah-53611.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Alanya_Harbour_2240.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261102-alanya-d-400-karayolunda-pazar-ve-isgal-cilesi-b752b.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "D400_E90_Highway.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-zeytinparkta-hasat-vakti-ziyaretciler-zeytinleri-dalindan-to-e91d4.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": null,
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1789249581365-1a91977584ac",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-uluslararasi-hazirlik-turnuvasinda-turkiye-ukraynaya-maglup-92bde.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Lyrbe_Seleukia_Ancient_City_Ruins.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-tarkanin-uyan-sarkisi-antalyadaki-cop31-icin-ingilizceye-uya-4c870.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Tarkan_(9).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-serikte-yapilan-8-metrelik-adalet-heykeli-ankaraya-gidiyor-0a143.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Aspendos_Unidentified_temple_area_3248_panorama.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-serikte-lise-son-sinif-ogrencilerine-bir-gunluk-tatil-hediye-fef35.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-The_Land_of_Legends_670DSC_0573_(48212748826).jpg",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261101-muratpasada-plastik-atiklar-muzige-donusuyor-daa9a.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "c15a070c6b86964a.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-manavgat-belediyesinde-noter-huzurunda-isci-alimi-yapildi-345df.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "151d53d4f84883a2.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-koray-avci-bu-aksam-antalya-acikhava-sahnesinde-konser-verec-1d2c7.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Deniz,Antalya,,Liman.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-konyaaltinda-saha-mesaisi-suruyor-7a2d0.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Konyaaltı_Beach_and_cliffs.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_17.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-kepezde-kurakcil-peyzaj-donemi-350-zeytin-fidani-dikildi-42666.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum_haber",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "167935b08b4cbafa.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-kepezde-kamu-hizmet-alani-konut-ve-ticarete-donusturuluyor-d86ad.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_18.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_19.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-kepezde-gecekondu-yangini-aile-cocuklarini-son-anda-kurtardi-2ca96.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_17.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-kepez-belediyespor-hentbolda-farkli-galibiyetle-dondu-a7c2d.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_18.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-kas-ve-demredeki-cok-sayida-antik-alan-resmen-koruma-altina-ec141.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Kaş_4_c_BC_grave_014.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral-271e9.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "Egemen2.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "Egemen3.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c62c.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "Egemen4.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-gazipasada-cekirdeksiz-nar-ve-tropikal-meyve-festivali-sona-d610a.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Egemen6.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "ayni_olay",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "b7be2d578d3c38a8.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-elmalida-300-milyon-liralik-icme-suyu-altyapisi-calismasi-su-3237c.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Historic_streets_of_Elmalı,_Antalya.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-dokuma-2-etap-projesinde-ek-sure-talebi-meclis-gundeminde-6ba34.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Atatürk_huge_head_ın_2011_19.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee6.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Gece_Manzarası..._-_panoramio.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-cop31-zirvesinde-antalya-ulasim-ve-yol-duzenlemeleri-4d804.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Regnum_Carya_Golf_Spa_&_Resort,_Belek,_Serik_District,_Antalya,_Turkey_-_",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-bbp-antalya-il-kadin-kollarinda-yeni-gorevlendirme-yapildi-cc9ad.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Minicity_entry_(152409826).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-bakan-ersoydan-antalyada-dijital-konaklama-platformu-aciklam-28f93.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_benzer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Mehmetersoy.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyaspor-futbol-okullari-kis-kampi-kunduda-basladi-a86bf.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-2012_apartments_-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyanin-tarihi-elektrik-santrali-icin-1-5-yillik-gecikme-3eb6b.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Park_Manzarası..._-_panoramio.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyanin-kentlesme-hikayesi-ve-gelecegi-masaya-yatirildi-1fedb.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyanin-farkli-ilcelerinde-imar-ve-planlama-surecleri-gun-25a1b.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Phaselis_bay_2.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyali-kobiler-icin-nefes-kredisi-basvurulari-basliyor-71a21.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Rifat_Hisarcıklıoğlu_(cropped).jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo-bd052.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Gaziantep_Atatürk_Müzesi_2869.jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-antalyadaki-otel-yatirimi-sorusturma-dosyasinda-5af65.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Sea_coast_-_panoramio_(1).jpg",
+"inceleme": "yanlis"
+},
+{
+"dosya": "20261101-antalyadaki-muaythai-sampiyonasinda-esma-kayadan-gumus-madal-1b1c2.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "1280px-Coastal_path.JPG",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyadaki-iki-festivalin-protokol-katilimindaki-tezat-dikk-3b0d0.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kisi_genel",
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "Mehmet_Nuri_Ersoy_in_November_2023.jpg",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261101-antalyadaki-antik-kentte-1900-yil-once-servetini-dagitan-opr-63579.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": "kurum",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Rhodiapolis_Opramoas.JPG",
+"inceleme": "dogru"
+},
+{
+"dosya": "20261101-antalyada-yasam-maliyeti-butceleri-zorluyor-0f807.md",
+"denetim": " / g7.7-2026-11-02",
+"risk": "eski_g",
+"sinif": null,
+"ana_sayfa": false,
+"hassas": false,
+"gorsel": "photo-1574722772633-e401c33eb317",
+"inceleme": "incelenmedi"
+},
+{
+"dosya": "20261031-antalya-havalimaninda-ucaktan-aprona-yakit-dokuldu-02275.md",
+"denetim": "h2 / h1-2026-11-07",
+"risk": "h2_k1_k3",
+"sinif": "yer",
+"ana_sayfa": false,
+"hassas": true,
+"gorsel": "1280px-Antalya_Airport_(AYT)_Turkey_Feb_2022.jpg",
+"inceleme": "dogru"
+}
+]
+}

@@ -1,0 +1,762 @@
+aciklama: 'Editörün görsel incelemesi. ''yanlis'' kararı verilen görsel yayındaysa bot onu yapay zekâ isteği olmadan kaldırır (bu haber için ret kaydına girer). ''zayif'' ve ''dogru'' kararları yalnızca kayıttır. kapsam: envanter (yayındaki fotoğrafların incelemesi) ya da pilot (yeni sürümün küçük grup aşaması; pilotta ''yanlis'' kararı geniş yayına geçişi durdurur).'
+kararlar:
+- dosya: 20261108-yesildere-spor-kulubunun-kazandigi-sampiyonluk-kupasi-muhtar-df60e.md
+  gorsel: https://images.unsplash.com/photo-1665680674724-3a3b3368e036
+  karar: zayif
+  neden: genel kupa görseli
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261108-dunya-iklim-diplomasisi-antalyada-sekillenecek-3f20b.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-cop31-zirvesi-oncesi-antalyada-ulasim-krizi-8-servis-hatti-d-5635e.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg
+  karar: zayif
+  neden: Antalya Büyükşehir otobüsü; haberdeki servis araçları değil
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalyada-tramvay-seferlerinde-cop31-duzenlemesi-2497b.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/7/76/Istanbul_modern_tramway_%282831766741%29.jpg
+  karar: yanlis
+  neden: 'İstanbul''daki tramvay (dosya: Istanbul modern tramway); haber Antalya tramvayı'
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalyada-suyun-yuzde-80i-tarimda-kullaniliyor-4b818.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalyada-gastronomi-bulusmasi-88-lezzet-duragi-aciklandi-e4d84.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg
+  karar: zayif
+  neden: genel yemek tabağı
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: true
+- dosya: 20261108-antalyada-cop31-zirvesi-icin-trafik-polisleri-sahaya-indi-fc77c.md
+  gorsel: https://images.unsplash.com/photo-1767619879597-17943ea7482a
+  karar: yanlis
+  neden: yabancı trafik polisi ('TRAFFIC' yazılı yelek); Türkiye'deki denetimi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalyada-cop31-iklim-konferansi-boyunca-kultur-ve-cevre-sol-55c6e.md
+  gorsel: /images/kurum/9224205f19251a8d.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: true
+- dosya: 20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli-3b80d.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalyada-baslayan-ask-sasonda-dugunle-taclandi-5002c.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg
+  karar: yanlis
+  neden: başka bir düğün konvoyu; haberdeki çiftin düğünü sanılır
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261108-antalya-muzesinin-akibeti-meclis-gundemine-tasindi-ecd4b.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalya-lisesi-128-yildir-egitimin-ve-tarihin-merkezinde-8546d.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Antalya_Lisesi.JPG/1280px-Antalya_Lisesi.JPG
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalya-gran-fondoda-8-kasim-programi-aciklandi-00e0c.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg/1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing.jpg
+  karar: zayif
+  neden: başka bir yol yarışı (İsviçre), temsilî
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-antalya-cop31-iklim-zirvesi-icin-gun-sayiyor-dc8f0.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg
+  karar: yanlis
+  neden: 2017 Estonya dönem başkanlığı AB çevre bakanları gayriresmî toplantısı; tanınabilir yetkililer, COP31 değil — yalnızca iklim konulu başka bir toplantı olduğu için seçilmiş
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261108-alanya-turizminde-finlandiya-pazariyla-40-yillik-rekor-49807.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG
+  karar: zayif
+  neden: Alanya'nın genel görünümü (2012); turizm haberinde destinasyonu gösteriyor, Finlandiya pazarını değil
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt-e6439.md
+  gorsel: https://images.unsplash.com/photo-1643574546802-99d87f38714d
+  karar: yanlis
+  neden: belirli bir yabancı yük gemisi (CNAN MED); haberde gemi yok, olayın gemisi sanılır
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-toroslarin-yoruk-kulturu-cop31-belgeseliyle-uluslararasi-vit-420e1.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/A_part_of_Western_Taurus.jpg/1280px-A_part_of_Western_Taurus.jpg
+  karar: zayif
+  neden: Toroslar manzarası; Yörük kültürünü göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-manavgattaki-avrupa-pickleball-sampiyonasinda-turk-sporcular-5cd96.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg/1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg
+  karar: yanlis
+  neden: Beyaz Saray'daki bir pickleball etkinliği, tanınabilir kişiler; Manavgat'taki şampiyona değil
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-iyi-parti-antalya-il-baskanligindan-sonar-arastirmasi-acikla-d17f8.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg
+  karar: yanlis
+  neden: 2023 İzmir'deki başka bir parti etkinliğinin salonu; Antalya il başkanlığının açıklaması değil
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol-69493.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Newborn_baby_feet_%28Unsplash%29.jpg/1280px-Newborn_baby_feet_%28Unsplash%29.jpg
+  karar: yanlis
+  neden: temsilî bebek fotoğrafı; adı geçen çiftin bebeği sanılır
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag-99653.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg
+  karar: zayif
+  neden: Antalya'da taksi durağı; tepki olayını göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261107-antalyada-greenpeaceten-cop31-oncesi-pankartli-eylem-5b7fb.md
+  gorsel: https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb
+  karar: yanlis
+  neden: başka bir iklim eylemindeki pankart ve kalabalık; haberdeki Greenpeace eylemi değil
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi-b2e30.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg
+  karar: zayif
+  neden: genel turizm/teras görüntüsü
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-alanyanin-nufusu-turkiye-ortalamasinin-bes-kati-hizla-artiyo-78e2b.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-alanyanin-il-olma-beklentisi-yeniden-gundemde-12022.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h1e / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261107-alanyanin-800-yillik-simgesi-kizilkule-bilimsel-calistayda-e-6b954.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12-85f66.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-kepez-meclisinden-esnafa-ruhsat-mujdesi-eba62.md
+  gorsel: /images/kurum/32ffba764984a559.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-cop31-zirvesinde-7-bolgenin-lezzetleri-dunyaya-tanitilacak-53134.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg
+  karar: zayif
+  neden: genel yemek tabağı
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: true
+- dosya: 20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md
+  gorsel: https://images.unsplash.com/photo-1592656094267-764a45160876
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-antalyadaki-cop31-icin-sifir-atik-kadin-elcisi-basvurulari-b-3ebf7.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg
+  karar: zayif
+  neden: geri dönüşüm kutuları; başvuru haberini dolaylı anlatıyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-antalyadaki-cop31-icin-hazirlanan-tanitim-filmi-paylasildi-36dac.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg
+  karar: zayif
+  neden: Murat Kurum portresi; film paylaşan kişi olarak ana özne sayılabilir
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor-05fac.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg/1280px-SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg
+  karar: yanlis
+  neden: Japonya'da çekilmiş, tanınabilir bir çocuk; haberdeki kursla ilgisi yok
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261106-antalyada-cop31-yatirimlari-kalici-merkeze-donusecek-400b3.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-antalya-valiligi-cop31-zirvesinde-gastronomi-mirasini-tanita-9de0b.md
+  gorsel: https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa
+  karar: zayif
+  neden: genel kahvaltı sofrası
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: true
+- dosya: 20261106-antalya-icin-demir-yolu-cagrisi-d090c.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkey_travel_9848949889498747894.jpg/1280px-Turkey_travel_9848949889498747894.jpg
+  karar: zayif
+  neden: başka bir istasyondaki tren; Antalya'da demiryolu yok, temsilî
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-antalya-arkeoloji-muzesi-icin-yeni-tarih-2027-yilinda-acilac-89029.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: true
+- dosya: 20261106-ali-babacan-antalyada-ekonomiyi-degerlendirdi-cikis-yolu-yol-275ff.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-alanyaspor-maci-oncesi-trabzonsporda-tim-jabol-folcarelli-so-fef5b.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md
+  gorsel: https://images.unsplash.com/photo-1592656094267-764a45160876
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: true
+  hassas: false
+- dosya: 20261106-alanyada-binlerce-ogrencinin-kullandigi-caddede-asfalt-yenil-41b4a.md
+  gorsel: /images/kurum/41ad06d5575bf0f3.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261105-seralardaki-sel-zararina-ragmen-antalyada-sebze-fiyatlari-du-b7ec6.md
+  gorsel: https://images.unsplash.com/photo-1545898073-346e42dc7357
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261105-korkutelinde-mantardan-hazirlanan-60-cesit-lezzet-gastronomi-04e5f.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261105-antalyada-benzin-fiyatlarinda-dev-indirim-beklentisi-12f0a.md
+  gorsel: https://images.unsplash.com/photo-1654334036169-840615ab6a34
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261105-alanya-kalesinin-korkutan-efsanesi-adam-atacagi-b7f0e.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eastern_Walls_of_Alanya_Castle.jpg/1280px-Eastern_Walls_of_Alanya_Castle.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g9.4-2026-11-05'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261104-muhittin-bocekten-devlet-bahceliye-taziye-mesaji-3cbdc.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261103-antalyada-organ-bagisi-farkindalik-programi-c234f.md
+  gorsel: /images/kurum/4dc7dd1f571b3485.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g8.1-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261103-alanyada-kentsel-donusum-master-plani-icin-ihale-tarihi-netl-f88bd.md
+  gorsel: /images/kurum/b9c92735c8d6ba18.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g8.1-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261103-alanyada-bicakli-kavgada-yaralanan-genci-bicaklayan-supheli-c38ce.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a1/Fairbairn-Sykes_fighting_knife_%28colour4%29.jpg
+  karar: yanlis
+  neden: komando bıçağı ürün fotoğrafı; suç haberinde olayın silahı sanılır
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g8.1-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4451f.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Coastal_path.JPG/1280px-Coastal_path.JPG
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalyadaki-kongrede-bir-ilk-lisans-ogrencileri-bildiri-sund-df88f.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Phaselis_bay_2.JPG/1280px-Phaselis_bay_2.JPG
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-0896b.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg/1280px-Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_65.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg/1280px-D%C3%BCden_Manzaras%C4%B1..._-_panoramio.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalya-wwf-iklim-dostu-sehirler-oylamasinda-finalist-oldu-c2849.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Antalya_calcite_lr.jpg/1280px-Antalya_calcite_lr.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-antalya-evi-kapilarini-acmaya-hazirlaniyor-ae2d0.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2007_0211TurkeySaturdayA0143_%283277541660%29.jpg/1280px-2007_0211TurkeySaturdayA0143_%283277541660%29.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec-d797f.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alanya_Harbour_3160.jpg/1280px-Alanya_Harbour_3160.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild-d0cb7.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Alanya_Harbour_2238.jpg/1280px-Alanya_Harbour_2238.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-185b3.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-serikte-lise-son-sinif-ogrencilerine-bir-gunluk-tatil-hediye-fef35.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg/1280px-The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-kepezde-gecekondu-yangini-aile-cocuklarini-son-anda-kurtardi-2ca96.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_17.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral-271e9.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/3/3b/Egemen3.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c62c.md
+  gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Egemen4.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor; karede tanınabilir bir çocuk var
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee6.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gece_Manzaras%C4%B1..._-_panoramio.jpg/1280px-Gece_Manzaras%C4%B1..._-_panoramio.jpg
+  karar: yanlis
+  neden: yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo-bd052.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg/1280px-Gaziantep_Atat%C3%BCrk_M%C3%BCzesi_2869.jpg
+  karar: yanlis
+  neden: Gaziantep Atatürk Müzesi sergi salonu; haberin konusu olan su yönetimini göstermiyor
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-antalyadaki-otel-yatirimi-sorusturma-dosyasinda-5af65.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sea_coast_-_panoramio_%281%29.jpg/1280px-Sea_coast_-_panoramio_%281%29.jpg
+  karar: yanlis
+  neden: Lara'daki belirli otellerin görünümü; soruşturma haberinde soruşturulan otel sanılabilir
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261101-antalyadaki-antik-kentte-1900-yil-once-servetini-dagitan-opr-63579.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rhodiapolis_Opramoas.JPG/1280px-Rhodiapolis_Opramoas.JPG
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: ' / g7.7-2026-11-02'
+  ana_sayfa: false
+  hassas: true
+- dosya: 20261031-antalya-havalimaninda-ucaktan-aprona-yakit-dokuldu-02275.md
+  gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg
+  karar: dogru
+  neden: ''
+  kapsam: envanter
+  inceleyen: Claude
+  tarih: '2026-11-08'
+  denetim_surumu: h2 / h1-2026-11-07
+  ana_sayfa: false
+  hassas: true
