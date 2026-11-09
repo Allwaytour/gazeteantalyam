@@ -14,9 +14,11 @@
 {{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haber metin kartıyla gösterilir. */}}
 {{ $gg := slice }}
 {{ $slayt := slice }}{{ $mmetin := slice }}
-{{ range $sirali }}{{ if lt (len $slayt) 7 }}
-  {{ if and .manset_duzen (not (in $gg .gorsel)) }}{{ $slayt = $slayt | append . }}{{ $gg = $gg | append .gorsel }}
-  {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not .manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
+{{/* Fotoğrafı manşete uymayan ya da fotoğrafı başka manşette kullanılan önemli haber, tipografik görseliyle (gorsel_yedek) manşete girer. */}}
+{{ range $sirali }}{{ if lt (len $slayt) 7 }}{{ $h := . }}
+  {{ if and .yedek (or (and .manset_duzen (in $gg .gorsel)) (and (not .manset_duzen) (ge .onem 4))) }}{{ $h = merge . (dict "gorsel" .yedek "tipo" true "manset_duzen" "kaplama" "o_md" "50% 50%" "o_mm" "50% 50%") }}{{ end }}
+  {{ if and $h.manset_duzen (not (in $gg $h.gorsel)) }}{{ $slayt = $slayt | append $h }}{{ $gg = $gg | append $h.gorsel }}
+  {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not $h.manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
 {{ end }}{{ end }}
 {{ if not $slayt }}{{ $mmetin = slice }}{{ range first 3 $sirali }}{{ $mmetin = $mmetin | append . }}{{ end }}{{ end }}
 {{ range $slayt | append $mmetin }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
@@ -44,7 +46,7 @@
         <article class="slayt slayt-foto">
           <a href="{{ $h.link }}">
             {{ partial "gorsel.html" (merge $h (dict "buyuk" true "odak" $h.o_md "odak_m" $h.o_mm)) }}
-            <span class="slayt-yazi"><span class="slayt-b">{{ $h.baslik }}</span></span>
+            <span class="slayt-yazi{{ if $h.tipo }} gizli{{ end }}"><span class="slayt-b">{{ $h.baslik }}</span></span>
           </a>
         </article>
         {{ else }}
