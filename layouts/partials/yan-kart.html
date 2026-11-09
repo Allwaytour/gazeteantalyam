@@ -1,8 +1,9 @@
 {{/* Manşet yanındaki kart: fotoğraf bu alan için uygunsa (yan_foto) başlık fotoğrafın alt kısmında koyu geçiş üzerinde; değilse metin kartı. */}}
 {{ $f := .yan_foto }}{{ $p := and (not $f) (.yan_p | default false) }}
-<article class="yn {{ if $f }}yn-foto{{ else if $p }}yn-metin yn-portre{{ else }}yn-metin{{ end }}">
+{{ $yd := and (not $f) (not $p) (ne (.yedek | default "") "") }}{{ $tipo := or (and $f (.tipo | default false)) $yd }}
+<article class="yn {{ if or $f $yd }}yn-foto{{ else if $p }}yn-metin yn-portre{{ else }}yn-metin{{ end }}{{ if $tipo }} yn-tipo{{ end }}">
   <a href="{{ .link }}">
-    {{ if $f }}{{ partial "gorsel.html" (merge . (dict "odak" .o_yd "odak_t" .o_yt "odak_m" .o_ym)) }}{{ else if $p }}<span class="yn-pg">{{ partial "gorsel.html" (merge . (dict "odak" .o_kp)) }}</span>{{ end }}
-    <span class="yn-yazi">{{ if not $f }}<span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}<span class="yn-b">{{ .baslik }}</span>{{ if not $f }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 140 }}</span>{{ end }}{{ end }}</span>
+    {{ if $f }}{{ partial "gorsel.html" (merge . (dict "odak" .o_yd "odak_t" .o_yt "odak_m" .o_ym)) }}{{ else if $p }}<span class="yn-pg">{{ partial "gorsel.html" (merge . (dict "odak" .o_kp)) }}</span>{{ else if $yd }}{{ partial "gorsel.html" (merge . (dict "gorsel" .yedek "odak" "50% 50%")) }}{{ end }}
+    {{ $f = or $f $yd }}<span class="yn-yazi{{ if $tipo }} gizli{{ end }}">{{ if not $f }}<span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}<span class="yn-b">{{ .baslik }}</span>{{ if not $f }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 140 }}</span>{{ end }}{{ end }}</span>
   </a>
 </article>

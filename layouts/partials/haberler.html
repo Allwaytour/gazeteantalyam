@@ -22,6 +22,7 @@
     "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "")
     "o_myd" ($y.o_mansetyan_d | default "") "o_mym" ($y.o_mansetyan_m | default "")
     "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")
-    "onem" $onem "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)) }}
+    "onem" $onem "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)
+    "tipo" (eq (.Params.gorsel_tur | default "") "tipografik") "yedek" (cond (ne (.Params.gorsel_yedek | default "") "") (.Params.gorsel_yedek | relURL) "")) }}
 {{ end }}
 {{ return sort $liste "ts" "desc" }}
