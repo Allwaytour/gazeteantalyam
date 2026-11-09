@@ -12440,6 +12440,32 @@
      },
      "t": "2026-11-08T14:08:10+03:00"
     },
+    "r1:adb4dc75380d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel Alanya limanını gösterse de il olma tartışmalarını yansıtmak için yetersiz kalıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:26+03:00"
+    },
     "r1:b13bf154fa36:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -12587,7 +12613,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-09T19:07:04+03:00",
+   "t": "2026-11-09T19:35:26+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -23237,6 +23263,93 @@
    },
    "url": "https://images.unsplash.com/photo-1775247010643-d61fb959dd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2hhcml0eSUyMHdhbGslMjBvcmFuZ2UlMjB0aGVtZXxlbnwxfDB8fHwxNzk0MTU1NzM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "4f5054dc55e39d42": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     600,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "vadi",
+     "orman",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dim Çayı ve çevresindeki dağlık vadi manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya haberleri",
+     "coğrafya",
+     "doğa"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel ekonomi",
+     "maç özeti"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aaf68d5822da:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya bölgesini göstermesine rağmen 1998 yılına ait eski bir arşiv karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       600,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0041634916a7af96",
+    "sha": "d1892cb57733e61461f3f6e6"
+   },
+   "t": "2026-11-09T19:35:46+03:00",
+   "teknik": {
+    "doygunluk": 58.4,
+    "inen": [
+     500,
+     320
+    ],
+    "karanlik_oran": 0.14,
+    "keskinlik": 4024,
+    "kontrast": 61,
+    "medyan": 109,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dim_%C3%87ay%C4%B1_10_05_1998_Talkerbe_des_Dim_%C3%87ay%C4%B1.jpg/1280px-Dim_%C3%87ay%C4%B1_10_05_1998_Talkerbe_des_Dim_%C3%87ay%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4ff7fdf50eb9af53": {
    "icerik": {
     "ana_kutu": [
@@ -28922,6 +29035,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Hockenheimring_drag_strip_2019_DTM_Hockenheim_%28May%29.jpg/1280px-Hockenheimring_drag_strip_2019_DTM_Hockenheim_%28May%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "663292c348d99185": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "dalgakıran",
+     "dağ",
+     "bulut",
+     "masa",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kıyısında dalgakıran, dağlar ve bulutlu gökyüzü manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "şehir haberi",
+     "çevre"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç",
+     "kaza",
+     "portre"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aaf68d5822da:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya manzarası haberin konusuyla uyumlu temsilî bir fotoğraftır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e3637010be1a0e24",
+    "sha": "013d296243ef87e5c54b55cf"
+   },
+   "t": "2026-11-09T19:35:35+03:00",
+   "teknik": {
+    "doygunluk": 24.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.021,
+    "keskinlik": 2516,
+    "kontrast": 40,
+    "medyan": 128,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Alanya_Harbour_-_East_view_-_panoramio.jpg/1280px-Alanya_Harbour_-_East_view_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6637361db2b84bf6": {
    "icerik": {
     "ana_kutu": [
@@ -31579,6 +31777,37 @@
      },
      "t": "2026-11-08T11:38:40+03:00"
     },
+    "r1:adb4dc75380d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya şehir merkezinin yüksekten genel manzarasını gösterdiği için il olma tartışmaları haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       386,
+       288,
+       534,
+       780
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:26+03:00"
+    },
     "r1:b13bf154fa36:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -31677,7 +31906,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-09T19:07:04+03:00",
+   "t": "2026-11-09T19:35:26+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -37251,6 +37480,32 @@
      },
      "t": "2026-11-08T15:11:13+03:00"
     },
+    "r1:adb4dc75380d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Alanya'nın genel görünümü yerine havada parasailing yapan kişiler yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:26+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -37435,7 +37690,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-09T19:07:04+03:00",
+   "t": "2026-11-09T19:35:26+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -40095,6 +40350,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/J22_317_Konya%2C_Bagdadbahn%2C_Karada%C4%9F.jpg/1280px-J22_317_Konya%2C_Bagdadbahn%2C_Karada%C4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8bc8f473ac0bdc01": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     0,
+     560,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "bina",
+     "ağaç",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağ eteklerinde yerleşim yerleri ve yeşillik alanlar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya haberleri",
+     "çevre haberleri",
+     "iklim konferansı"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç özeti",
+     "suç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aaf68d5822da:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın doğasını ve yerleşimini gösteren uygun bir temsilî manzara karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       0,
+       560,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c64be00421bb9aa9",
+    "sha": "afab0e597010cfae91c2dd71"
+   },
+   "t": "2026-11-09T19:35:46+03:00",
+   "teknik": {
+    "doygunluk": 16.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.077,
+    "keskinlik": 1413,
+    "kontrast": 64,
+    "medyan": 154,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Alanya-landscape-renemt.jpg/1280px-Alanya-landscape-renemt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8bd0cd3e783e8f44": {
    "icerik": {
@@ -45129,6 +45471,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:adb4dc75380d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel görünümünü ve limanını net bir şekilde yansıttığı için haberle tamamen uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       67,
+       0,
+       992,
+       999
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:26+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45316,7 +45689,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-09T19:07:04+03:00",
+   "t": "2026-11-09T19:35:26+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -51951,6 +52324,32 @@
      },
      "t": "2026-11-07T23:57:34+03:00"
     },
+    "r1:adb4dc75380d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu turnuvası habere tamamen yabancı bir spor etkinliği gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:26+03:00"
+    },
     "r1:b13bf154fa36:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -52129,7 +52528,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-09T19:07:04+03:00",
+   "t": "2026-11-09T19:35:26+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -69590,6 +69989,93 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f40334ed0a7026d3": {
+   "icerik": {
+    "ana_kutu": [
+     540,
+     400,
+     650,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "iskele",
+     "şehir ışıkları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti deniz kenarındaki sahil ve şehir ışıkları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "Alanya haberleri",
+     "iklim konferansı",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç özeti",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aaf68d5822da:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel manzarasını gösteren temsilî bir bölge fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       540,
+       400,
+       650,
+       810
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:35:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07070f0e09030300",
+    "sha": "39f4224942ce037a9c407a0a"
+   },
+   "t": "2026-11-09T19:35:46+03:00",
+   "teknik": {
+    "doygunluk": 49.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.121,
+    "keskinlik": 297,
+    "kontrast": 45,
+    "medyan": 95,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/When_It_Rains_It_Pours_%28233337127%29.jpeg/1280px-When_It_Rains_It_Pours_%28233337127%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f42aa7bfb9d571e0": {
    "icerik": {
     "ana_kutu": [
@@ -77629,7 +78115,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T18:03:30+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -77652,6 +78138,7 @@
     "yerler": []
    },
    "konular": [
+    "Alanya genel görünüm",
     "Alanya sahili veya turistik bölge",
     "deniz",
     "kale",
@@ -77670,7 +78157,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-08T18:03:30+03:00",
+   "son_kabul": "2026-11-09T19:35:26+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
