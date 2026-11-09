@@ -20367,6 +20367,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "419090fa3ee1540e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "güneşlik",
+     "bitki",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kemer'de bir otelin açık hava restoranı ve masalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "otel tanıtımı",
+     "Kemer manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapalı salon toplantısı",
+     "resmi tören",
+     "siyasi etkinlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cbb148e1bce:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kemer'deki bir otel alanı gösterilse de kapalı salon toplantısı ve masası şartını karşılamıyor.",
+      "gerekli": [
+       {
+        "unsur": "otel salonu",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava plajı"
+      ]
+     },
+     "t": "2026-11-10T02:06:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f869f97afe7576d",
+    "sha": "f4ff8b53627f2870affff562"
+   },
+   "t": "2026-11-10T02:06:26+03:00",
+   "teknik": {
+    "doygunluk": 45.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.276,
+    "keskinlik": 3244,
+    "kontrast": 75,
+    "medyan": 94,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%288%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "41b925ff93446308": {
    "icerik": {
     "ana_kutu": [
@@ -25105,6 +25200,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Therapeutic_horseback_riding_3.JPG/1280px-Therapeutic_horseback_riding_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "51ead85f46f59cf1": {
+   "icerik": {
+    "ana_kutu": [
+     1,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "havuz",
+     "sezlong",
+     "bina",
+     "merdiven",
+     "agac"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Otel havuzu ve şezlonglar bulunan tesis görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tatil koyu",
+     "otel havuzu",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "hemsehri bulusmasi",
+     "kurum toplantisi",
+     "kapali alan etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cbb148e1bce:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havuz başı ve açık alan görüntüsü, kapalı alan hemşehri buluşması haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "otel salonu",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava plajı"
+      ]
+     },
+     "t": "2026-11-10T02:06:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8c848efd1f19b9bb",
+    "sha": "70aa7ead8f0b256f8adc716c"
+   },
+   "t": "2026-11-10T02:06:39+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.157,
+    "keskinlik": 2337,
+    "kontrast": 60,
+    "medyan": 121,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2810%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "52095ca559a7dee1": {
    "icerik": {
@@ -29914,6 +30104,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg/1280px-%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "654016347f95414d": {
+   "icerik": {
+    "ana_kutu": [
+     205,
+     130,
+     770,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "sokak",
+     "tabela",
+     "agac",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kemer'de turuncu binaların yer aldığı sokak görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tatil haberi",
+     "mimari yapi",
+     "kemer tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapali alan toplanti",
+     "hemsehri bulusmasi",
+     "kurum etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cbb148e1bce:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel sokak görünümü, toplantı ve buluşma ortamını yansıtmadığı için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "otel salonu",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava plajı"
+      ]
+     },
+     "t": "2026-11-10T02:06:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c3721d9292092f4f",
+    "sha": "636a564f1987afbe210698d3"
+   },
+   "t": "2026-11-10T02:06:39+03:00",
+   "teknik": {
+    "doygunluk": 34.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 1654,
+    "kontrast": 47,
+    "medyan": 139,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%287%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "65b163334183120d": {
    "icerik": {
     "ana_kutu": [
@@ -34256,6 +34541,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/File_turkey_durar.jpg/1280px-File_turkey_durar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7358f909ae024d13": {
+   "ozet": {
+    "dh": "8f4d494d4c8fc141",
+    "sha": "a7874b43784d53a5b2a0bf2b"
+   },
+   "t": "2026-11-10T02:06:31+03:00",
+   "teknik": {
+    "doygunluk": 41.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.561,
+    "keskinlik": 2498,
+    "kontrast": 68,
+    "medyan": 36,
+    "parlaklik": 69,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2811%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "737a4c58c7d05dcb": {
    "icerik": {
@@ -58190,6 +58496,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Taurus_Mountains_with_clouds%2C_seen_from_a_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "c352d45f6b31b976": {
+   "icerik": {
+    "ana_kutu": [
+     108,
+     72,
+     1000,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "balkon",
+     "masa",
+     "sandalye",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Turuncu binanın balkonu ve otel tabelası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "otel tanitimi",
+     "tatil",
+     "mimari detay"
+    ],
+    "uygunsuz_baglamlar": [
+     "toplanti haberi",
+     "hemsehri bulusmasi",
+     "kurum etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cbb148e1bce:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel dış cephe balkonu, iç mekan toplantı buluşmasını temsil etmez.",
+      "gerekli": [
+       {
+        "unsur": "otel salonu",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava plajı"
+      ]
+     },
+     "t": "2026-11-10T02:06:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "38d0caffd0d796f6",
+    "sha": "f9af91af174a66e6a599bc1a"
+   },
+   "t": "2026-11-10T02:06:39+03:00",
+   "teknik": {
+    "doygunluk": 32.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 1095,
+    "kontrast": 71,
+    "medyan": 123,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c48a5dc0ed718030": {
    "icerik": {
     "ana_kutu": [
@@ -59816,6 +60217,41 @@
      },
      "t": "2026-11-08T15:15:03+03:00"
     },
+    "r1:6cbb148e1bce:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Masa ve salon var ancak yabancı isim levhaları ve uluslararası toplantı ortamı Çorumlular buluşmasına uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "otel salonu",
+        "var": true
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       100,
+       790,
+       875
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T02:06:26+03:00"
+    },
     "r1:805d48e384e8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -60034,7 +60470,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-09T17:05:32+03:00",
+   "t": "2026-11-10T02:06:26+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -66208,6 +66644,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MTMwNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "df412da49b195fd7": {
+   "ozet": {
+    "dh": "36b5327bb252c666",
+    "sha": "daaeeedbce41472b67409da7"
+   },
+   "t": "2026-11-10T02:06:22+03:00",
+   "teknik": {
+    "doygunluk": 55.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.686,
+    "keskinlik": 2004,
+    "kontrast": 75,
+    "medyan": 13,
+    "parlaklik": 53,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Concert_at_a_hotel_in_Kemer%2C_Turkey.jpg/1280px-Concert_at_a_hotel_in_Kemer%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "df7851e7780a20d5": {
    "icerik": {
