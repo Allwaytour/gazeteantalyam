@@ -27038,6 +27038,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Antalya_museum_unidentified_grave_contents_5680.jpg/1280px-Antalya_museum_unidentified_grave_contents_5680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "57b1e1a22f957ea0": {
+   "icerik": {
+    "ana_kutu": [
+     211,
+     62,
+     663,
+     613
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "su değirmeni",
+     "ahşap bina",
+     "su",
+     "ağaç",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kenarında su değirmeni çarkı bulunan ahşap yapı ve su kenarındaki yansımalar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor musabakalari",
+     "ekonomi bultenleri",
+     "siyaset haberleri"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:32245b34c1b4:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "New York'taki başka bir değirmeni gösterdiği için Antalya Serik'teki İtalyan Değirmeni haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "eski değirmen yapısı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       211,
+       62,
+       663,
+       613
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T23:36:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7c9ca9b1b6b691ac",
+    "sha": "7ed91350cf9a9c4a207550f2"
+   },
+   "t": "2026-11-09T23:36:27+03:00",
+   "teknik": {
+    "doygunluk": 25.1,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 2746,
+    "kontrast": 53,
+    "medyan": 104,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Water_Mill_%28Water_Mill%2C_NY%29.jpg/1280px-The_Water_Mill_%28Water_Mill%2C_NY%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "57c43c814bf46532": {
    "icerik": {
     "ana_kutu": [
@@ -52501,6 +52591,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shore_fishing_2441.jpg/1280px-Shore_fishing_2441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "af8f6ff3dc1ce9da": {
+   "icerik": {
+    "ana_kutu": [
+     273,
+     44,
+     506,
+     310
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kırmızı bina",
+     "nehir",
+     "ağaç",
+     "köprü",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir kenarında ağaçlar arasında kırmızı renkli tarihi bir değirmen binası ve köprü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi doku",
+     "seyahat yazilari",
+     "mimari koruma"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "finans"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:32245b34c1b4:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Minnesota'daki Terrace Değirmeni'ni gösterdiğinden, Antalya Serik'teki İtalyan Değirmeni haberi için yanlıştır.",
+      "gerekli": [
+       {
+        "unsur": "eski değirmen yapısı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       273,
+       44,
+       506,
+       310
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T23:36:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f1715c564340f0e1",
+    "sha": "ac7e9aac3184a10340d2590a"
+   },
+   "t": "2026-11-09T23:36:27+03:00",
+   "teknik": {
+    "doygunluk": 44.6,
+    "inen": [
+     500,
+     354
+    ],
+    "karanlik_oran": 0.277,
+    "keskinlik": 2789,
+    "kontrast": 52,
+    "medyan": 82,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Terrace_Mill_Historic_District.jpg/1280px-Terrace_Mill_Historic_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "af8fe031edca2633": {
    "icerik": {
