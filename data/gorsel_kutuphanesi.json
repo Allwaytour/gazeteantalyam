@@ -83,6 +83,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Astra_politia_14.jpg/1280px-Astra_politia_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "00298433d936a793": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "tavan süslemesi",
+     "koltuk",
+     "seyirci"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi işlemeli tavanı olan bir konser salonunda oturan seyirciler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konser",
+     "etkinlik",
+     "sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kapalı konser salonu ve etkinlik ortamını gösterdiği için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:35:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f8fcfcfcfe201299",
+    "sha": "4498a2a5e51ead08b3bff2f0"
+   },
+   "t": "2026-11-09T14:35:57+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.145,
+    "keskinlik": 4548,
+    "kontrast": 60,
+    "medyan": 141,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Concert_Hall%2C_Severance_Hall%2C_University_Circle%2C_Cleveland%2C_OH_-_52992138979.jpg/1280px-Concert_Hall%2C_Severance_Hall%2C_University_Circle%2C_Cleveland%2C_OH_-_52992138979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "004a82d21194a5af": {
    "icerik": {
     "ana_kutu": [
@@ -6161,6 +6255,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/LPG_small_cylinder_Adapter_Australia.jpg/1280px-LPG_small_cylinder_Adapter_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "192fa5fd33c155f7": {
+   "icerik": {
+    "ana_kutu": [
+     59,
+     78,
+     756,
+     883
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "sahne",
+     "tekne",
+     "bina",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kenarinda acik hava konser sahnesi ve binalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "kapali alan konseri",
+     "resmi salon torenleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf açık havada bir sahneyi göstermektedir, oysa haber Antalya'daki kapalı bir kültür merkezindedir.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": false
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       59,
+       78,
+       756,
+       883
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava"
+      ]
+     },
+     "t": "2026-11-09T14:35:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8faf233066d4cc05",
+    "sha": "7767785fde9758aadb3ddedf"
+   },
+   "t": "2026-11-09T14:35:33+03:00",
+   "teknik": {
+    "doygunluk": 27.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.206,
+    "keskinlik": 4008,
+    "kontrast": 58,
+    "medyan": 107,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Harbourfront_Centre_Concert_Stage%2C_Toronto_2026.jpg/1280px-Harbourfront_Centre_Concert_Stage%2C_Toronto_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "197c5325ef8465eb": {
    "icerik": {
     "ana_kutu": [
@@ -7089,6 +7277,101 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Railway_bridge_at_Turkey_Street%2C_near_Enfield_-_geograph.org.uk_-_6385947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "1b46a66527f039c9": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "antik tiyatro",
+     "taş merdiven",
+     "havuz",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda antik taş oturma basamakları ve ortasında havuz bulunan kalıntılar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih haberi",
+     "arkeoloji",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "konser haberi",
+     "sanat",
+     "güncel etkinlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik açık hava kalıntıları, modern kapalı konser salonu haberiyle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": false
+       },
+       {
+        "unsur": "sahne",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-09T14:35:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d95c8393b6f5bc3",
+    "sha": "2d325a94c7acd4dbb79401a3"
+   },
+   "t": "2026-11-09T14:35:57+03:00",
+   "teknik": {
+    "doygunluk": 9.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.086,
+    "keskinlik": 3161,
+    "kontrast": 71,
+    "medyan": 195,
+    "parlaklik": 164,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Aphrodisias_bouleuterion_4517.jpg/1280px-Aphrodisias_bouleuterion_4517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1bc90a34fb1ef2e6": {
    "icerik": {
@@ -14416,6 +14699,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/BakanErsoyveValiSu.jpg/1280px-BakanErsoyveValiSu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "344cad90eb8ae588": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     93,
+     804,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sahne",
+     "koltuk",
+     "kar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karli zeminde kapali oturma alanli konser sahnesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "ataturk anma",
+     "kapali salon konseri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yarı açık/kapalı bir konser sahnesi ve oturma alanıdır ancak karlı ortam Türkiye'deki haberle çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       93,
+       804,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava"
+      ]
+     },
+     "t": "2026-11-09T14:35:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e07080c3dbd86427",
+    "sha": "1cdc9a1aff4ecc86b41403c3"
+   },
+   "t": "2026-11-09T14:35:33+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.208,
+    "keskinlik": 3140,
+    "kontrast": 81,
+    "medyan": 167,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Harbourfront_Centre_Concert_Stage_offseason.jpg/1280px-Harbourfront_Centre_Concert_Stage_offseason.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "350b9b47ade5332c": {
    "icerik": {
     "ana_kutu": [
@@ -18706,6 +19082,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Turkish_parliament_after_failed_coup_attempt_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "45b96acf38774e4e": {
+   "ozet": {
+    "dh": "85df4fcfebc31cae",
+    "sha": "76aa31b548df7192072ed676"
+   },
+   "t": "2026-11-09T14:35:37+03:00",
+   "teknik": {
+    "doygunluk": 81.9,
+    "inen": [
+     400,
+     260
+    ],
+    "karanlik_oran": 0.662,
+    "keskinlik": 742,
+    "kontrast": 56,
+    "medyan": 21,
+    "parlaklik": 49,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1792584830492-d63d0c83a111?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aW5kb29yJTIwY29uY2VydCUyMGhhbGwlMjBzdGFnZXxlbnwxfDB8fHwxNzk0MjI0MTM0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "45cae2ac7a7114f8": {
    "icerik": {
     "ana_kutu": [
@@ -20947,9 +21344,50 @@
       "yasak": []
      },
      "t": "2026-11-07T23:57:26+03:00"
+    },
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Açık havada bir konser sahnesidir, oysa haberde kapalı salon (Atatürk Kültür Merkezi) belirtilmiştir.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": false
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       198,
+       0,
+       672,
+       938
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava"
+      ]
+     },
+     "t": "2026-11-09T14:35:33+03:00"
     }
    },
-   "t": "2026-11-07T23:57:26+03:00",
+   "ozet": {
+    "dh": "ab8bd5d9c98bb666",
+    "sha": "3402eeae1c59d19157271230"
+   },
+   "t": "2026-11-09T14:35:33+03:00",
    "teknik": {
     "doygunluk": 41.4,
     "inen": [
@@ -28180,6 +28618,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2012-02_BAB-4_3.jpg/1280px-2012-02_BAB-4_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6b00a5b23a009b4e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "sahne",
+     "balkon",
+     "müzik sehpası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş modern konser salonu, balkonlar ve orkestra düzeni.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konser",
+     "etkinlik",
+     "sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern ve şık bir konser salonunu gösterdiği için konser haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:35:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f4d55d61533175e",
+    "sha": "ee1f2b7c6446711f24e93b67"
+   },
+   "t": "2026-11-09T14:35:57+03:00",
+   "teknik": {
+    "doygunluk": 48.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.24,
+    "keskinlik": 4262,
+    "kontrast": 67,
+    "medyan": 97,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "6b4125998d2840c1": {
    "icerik": {
     "ana_kutu": [
@@ -33318,6 +33852,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Antalya_Airport_-_International_Terminal_2.JPG/1280px-Antalya_Airport_-_International_Terminal_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7de4d963a3309626": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     150,
+     940,
+     770
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş duvar",
+     "sütun",
+     "antik yapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antik taş duvar kalıntıları ve arka planda tiyatro oturma sıraları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih",
+     "arkeoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "konser",
+     "etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f671007d915:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik taş duvarlar kapalı konser salonu gereksinimini karşılamıyor.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": false
+       },
+       {
+        "unsur": "sahne",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-09T14:35:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "053bf939abbfbf6e",
+    "sha": "7c99fc830dd5dd7d6c436ce4"
+   },
+   "t": "2026-11-09T14:35:57+03:00",
+   "teknik": {
+    "doygunluk": 24.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 3133,
+    "kontrast": 63,
+    "medyan": 158,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Aphrodisias_bouleuterion_4505.jpg/1280px-Aphrodisias_bouleuterion_4505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7decedaba8e4dbd8": {
    "icerik": {
@@ -56963,6 +57589,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_29.jpg/1280px-West_African_Football_Academy_gegen_Red_Bull_Brasil_%28Finale%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d54a4aa67f3458cf": {
+   "ozet": {
+    "dh": "171f0f1f17174312",
+    "sha": "159c45fd83383e9950e4becd"
+   },
+   "t": "2026-11-09T14:35:26+03:00",
+   "teknik": {
+    "doygunluk": 39.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.725,
+    "keskinlik": 500,
+    "kontrast": 43,
+    "medyan": 31,
+    "parlaklik": 51,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uY2VydCUyMHN0YWdlfGVufDF8MHx8fDE3OTQyMjQxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "d5555268a1516aeb": {
    "icerik": {
     "ana_kutu": [
@@ -62743,6 +63390,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/20171027-AMS-LSC-1202_%2838037010212%29.jpg/1280px-20171027-AMS-LSC-1202_%2838037010212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "eb87505ba769f7ba": {
+   "ozet": {
+    "dh": "30736363674c1c14",
+    "sha": "2c6d47dc5224d220bf0c7a2d"
+   },
+   "t": "2026-11-09T14:35:26+03:00",
+   "teknik": {
+    "doygunluk": 41.7,
+    "inen": [
+     1280,
+     720
+    ],
+    "karanlik_oran": 0.527,
+    "keskinlik": 1822,
+    "kontrast": 61,
+    "medyan": 43,
+    "parlaklik": 57,
+    "s": "t1"
+   },
+   "url": "/images/kurum/e01228101611e47c.jpg"
+  },
   "ebd7d6651f829520": {
    "ozet": {
     "dh": "93a3b333a78f9934",
@@ -67460,6 +68128,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Concept_Design_for_Antalya_Arena-external.jpg/1280px-Concept_Design_for_Antalya_Arena-external.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fad572714c364c9e": {
+   "ozet": {
+    "dh": "673337c3979b9a0e",
+    "sha": "9137fb38beeb3e37ecca85c5"
+   },
+   "t": "2026-11-09T14:35:37+03:00",
+   "teknik": {
+    "doygunluk": 52.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.824,
+    "keskinlik": 1067,
+    "kontrast": 44,
+    "medyan": 23,
+    "parlaklik": 35,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ferhan_%26_Ferzan_%C3%96nder.jpg/1280px-Ferhan_%26_Ferzan_%C3%96nder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fb228ddab0fa19bb": {
    "icerik": {
     "ana_kutu": [
@@ -71446,6 +72135,67 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "6b00a5b23a009b4e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5703,
+    3807
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Boş modern konser salonu, balkonlar ve orkestra düzeni.",
+   "gosterim_ad": "HASRET konseri",
+   "ilk_kabul": "2026-11-09T14:35:57+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Radek Grzybowski / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Radek Grzybowski",
+    "sayfa": "https://unsplash.com/photos/empty-arranged-theater-YU6A5I_IjTw"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "balkon",
+    "koltuk",
+    "konser salonu",
+    "müzik sehpası",
+    "sahne"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "konser",
+    "etkinlik",
+    "sanat"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-09T14:35:57+03:00",
+   "url": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
