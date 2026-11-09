@@ -1419,6 +1419,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Drap_Art_2013_al_CCCB.JPG/1280px-Drap_Art_2013_al_CCCB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0827d9d8f241654e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     310,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "büst",
+     "kaide",
+     "bayrak direği",
+     "ağaç",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Belediye binası önünde sıralanmış tarihi kişiliklerin büstleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye binası tanıtımı",
+     "yerel yönetim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "toplantı haberi",
+     "ekonomi görüşmesi",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0d9b21f62a42:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber iç mekan toplantısını anlatırken fotoğraf dış mekandaki büstleri göstermektedir ve yasaklı unsurlar içermektedir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yerel yöneticiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       310,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "dış mekan",
+       "sokak"
+      ]
+     },
+     "t": "2026-11-09T21:37:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f7f67afdffd5f7d",
+    "sha": "8eb3e557292600c09fb18a4c"
+   },
+   "t": "2026-11-09T21:37:30+03:00",
+   "teknik": {
+    "doygunluk": 16.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.334,
+    "keskinlik": 2700,
+    "kontrast": 68,
+    "medyan": 91,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Manavgat_Belediyesi_building_in_2015_6035.jpg/1280px-Manavgat_Belediyesi_building_in_2015_6035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0861055e06a0798f": {
    "t": "2026-11-08T16:08:29+03:00",
    "teknik": {
@@ -1731,6 +1831,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lambanog_bartender_mixologist_lychee_cocktail_shaker6.jpg/1280px-Lambanog_bartender_mixologist_lychee_cocktail_shaker6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "09adaf99f3aa1baa": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     150,
+     830,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "asansor kulesi",
+     "taksi",
+     "agac",
+     "yol",
+     "lamba diregi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konyaalti plaji asansor kulesi ve yol kenarindaki saris taksiler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Antalya haberleri",
+     "turizm",
+     "ulasim"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:20d6bc9cdd49:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Konyaalti'nda yol ve trafik goruntusu sagliyor.",
+      "gerekli": [
+       {
+        "unsur": "karayolu",
+        "var": true
+       },
+       {
+        "unsur": "trafik levhası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       700,
+       150,
+       830,
+       400
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:36:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fcfb7f393b2a711f",
+    "sha": "850a2e7d8b756f28752deb70"
+   },
+   "t": "2026-11-09T21:36:28+03:00",
+   "teknik": {
+    "doygunluk": 49.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.268,
+    "keskinlik": 1437,
+    "kontrast": 53,
+    "medyan": 101,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1663574629118-84a58549e44e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "09b14c672cfd3ee3": {
    "icerik": {
@@ -6538,6 +6736,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_mushrooms_are_cooked._%2810393002196%29.jpg/1280px-The_mushrooms_are_cooked._%2810393002196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "17d01c6c10c69f3b": {
+   "icerik": {
+    "ana_kutu": [
+     343,
+     41,
+     1000,
+     574
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mikrofon",
+     "ceket",
+     "gözlük"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kürsüde konuşma yapan gözlüklü bir erkek.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "basın toplantısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel yönetim",
+     "Manavgat haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      343,
+      175,
+      688,
+      376
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0d9b21f62a42:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yabancı bir ülkede çekilmiş, haberle ilgisi olmayan bir kişiyi göstermektedir ve yerel bağlamla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yerel yöneticiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:38:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "718ccdc8ce67b0b1",
+    "sha": "13c9ba7aaa2d542a739924ff"
+   },
+   "t": "2026-11-09T21:38:00+03:00",
+   "teknik": {
+    "doygunluk": 21.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.023,
+    "keskinlik": 912,
+    "kontrast": 52,
+    "medyan": 117,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "185dc4044b04816c": {
    "icerik": {
@@ -37436,6 +37730,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg/1280px-Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8028d305de15dd5e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     930,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "belediye binası",
+     "bankamatik",
+     "ağaç",
+     "engelli park tabelası",
+     "trafik konisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Manavgat Belediyesi binasının dış cephesi ve önündeki alan",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kurumsal haber",
+     "belediye duyurusu",
+     "yerel yönetim"
+    ],
+    "uygunsuz_baglamlar": [
+     "toplantı haberi",
+     "görüşme haberi",
+     "iç mekan haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0d9b21f62a42:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurum binası görünse de haber bir toplantı ve görüşme içerdiği için dış mekan görseli uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yerel yöneticiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       930,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "dış mekan",
+       "sokak"
+      ]
+     },
+     "t": "2026-11-09T21:37:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "061202151a2032a8",
+    "sha": "70b7fb7e07568b24c74cf417"
+   },
+   "t": "2026-11-09T21:37:30+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.347,
+    "keskinlik": 2326,
+    "kontrast": 55,
+    "medyan": 76,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Manavgat_Belediyesi_building_in_2015_6033.jpg/1280px-Manavgat_Belediyesi_building_in_2015_6033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "80934b71a0ded010": {
    "icerik": {
     "ana_kutu": [
@@ -55288,6 +55683,104 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Shaht-Istan16_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "bb823df218992d2f": {
+   "icerik": {
+    "ana_kutu": [
+     600,
+     0,
+     1000,
+     500
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil",
+     "yol",
+     "bina",
+     "agac",
+     "lamba diregi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da binalarin ve daglarin bulundugu kivrimli cadde",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "trafik duzenlemesi",
+     "ulasim",
+     "kent haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:20d6bc9cdd49:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da bir caddeyi gosteren guncel ve uygun bir trafik gorseli.",
+      "gerekli": [
+       {
+        "unsur": "karayolu",
+        "var": true
+       },
+       {
+        "unsur": "trafik levhası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       600,
+       350,
+       840,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:36:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "070397860706171f",
+    "sha": "0c44c996c3af9e96797a9604"
+   },
+   "t": "2026-11-09T21:36:28+03:00",
+   "teknik": {
+    "doygunluk": 35.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.283,
+    "keskinlik": 1452,
+    "kontrast": 75,
+    "medyan": 85,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "bc73b46ca890ecc5": {
    "icerik": {
     "ana_kutu": [
@@ -59786,6 +60279,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/1280px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cb9ecc614b20a0f3": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     420,
+     850,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil",
+     "Turk bayragi",
+     "yol",
+     "lamba diregi",
+     "kopru"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sehir ici otoban ve kopruden gecen araclar ve Turk bayragi",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "trafik haberleri",
+     "ulasim haberleri",
+     "kent yasamı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:20d6bc9cdd49:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik duzenlemesi haberi icin uygun bir sehirici yol ve arac goruntusu.",
+      "gerekli": [
+       {
+        "unsur": "karayolu",
+        "var": true
+       },
+       {
+        "unsur": "trafik levhası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       700,
+       600,
+       850,
+       880
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:36:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "050503470359230c",
+    "sha": "6666a02f10245870334a7939"
+   },
+   "t": "2026-11-09T21:36:28+03:00",
+   "teknik": {
+    "doygunluk": 26.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.43,
+    "keskinlik": 942,
+    "kontrast": 80,
+    "medyan": 99,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1780098848268-8694ac3add36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGhpZ2h3YXklMjB0cmFmZmljJTIwc2lnbnxlbnwxfDB8fHwxNzk0MjQ5MzY1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "cba1067cef96dd0d": {
    "icerik": {
@@ -74157,6 +74748,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Barjeel_Exhibition_at_the_Grey_Art_Gallery.jpg/1280px-Barjeel_Exhibition_at_the_Grey_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fc70db2e617be97b": {
+   "icerik": {
+    "ana_kutu": [
+     141,
+     31,
+     1000,
+     858
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mikrofon",
+     "ceket",
+     "gözlük"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kürsüde konuşma yapan gözlüklü bir erkek.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "basın toplantısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel yönetim",
+     "Manavgat haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      141,
+      222,
+      511,
+      495
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0d9b21f62a42:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yabancı bir ülkede çekilmiş, haberle ilgisi olmayan bir kişiyi göstermektedir ve yerel bağlamla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yerel yöneticiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:38:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c367f3e335739b9b",
+    "sha": "712c9172f7f4f3fca54c0f7b"
+   },
+   "t": "2026-11-09T21:38:00+03:00",
+   "teknik": {
+    "doygunluk": 18.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 491,
+    "kontrast": 56,
+    "medyan": 112,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fdcea8e619193134": {
    "icerik": {
     "ana_kutu": [
@@ -80714,6 +81401,69 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "bb823df218992d2f": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5888,
+    3925
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya'da binalarin ve daglarin bulundugu kivrimli cadde",
+   "gosterim_ad": "trafik kısıtlaması ve alternatif güzergahlar",
+   "ilk_kabul": "2026-11-09T21:36:28+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Igor Sporynin / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Igor Sporynin",
+    "sayfa": "https://unsplash.com/photos/a-car-driving-down-a-curvy-street-next-to-tall-buildings-WYBePRJ0-Sg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "agac",
+    "bina",
+    "karayolu",
+    "lamba diregi",
+    "otomobil",
+    "trafik levhası",
+    "yol"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "trafik duzenlemesi",
+    "ulasim",
+    "kent haberleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "teknoloji"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-09T21:36:28+03:00",
+   "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
     "kart",
     "detay"
    ],
