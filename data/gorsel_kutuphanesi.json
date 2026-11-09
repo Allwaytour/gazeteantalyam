@@ -6622,6 +6622,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/SolarPowerPlantSerpa.jpg/1280px-SolarPowerPlantSerpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "18958c8e5e71133d": {
+   "icerik": {
+    "ana_kutu": [
+     178,
+     179,
+     599,
+     672
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ekmek",
+     "tezgah",
+     "vitrin",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fırında ekmek hazırlayan tezgahtar ve sergilenen ekmek çeşitleri",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "uluslararası zirve",
+     "siyaset",
+     "diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      184,
+      552,
+      313,
+      626
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:29aa99b445af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Görsel yerel ekmekleri gösterse de, iklim zirvesindeki Antalya Valiliği pavilyonunu yansıtmıyor; sıradan bir fırın içi.",
+      "gerekli": [
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:05:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "36bd8c881993cddf",
+    "sha": "7adb47332de739ee5d1d31df"
+   },
+   "t": "2026-11-09T21:05:40+03:00",
+   "teknik": {
+    "doygunluk": 48.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 1304,
+    "kontrast": 51,
+    "medyan": 116,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1772758632872-d958f5f6ee46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8VHVya2lzaCUyMGxvY2FsJTIwZm9vZCUyMGRpc3BsYXl8ZW58MXwwfHx8MTc5NDI0NzUzMHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "192e6aa9feb529ff": {
    "icerik": {
     "ana_kutu": [
@@ -54914,6 +55009,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:29aa99b445af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yalnızca kahvaltı sofrasını gösteriyor; Antalya Valiliği pavilyonu veya iklim zirvesiyle ilgili bir sergi alanı içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:05:40+03:00"
+    },
     "r1:a3af9f45c1ee:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -54950,7 +55075,11 @@
      "t": "2026-11-08T13:39:17+03:00"
     }
    },
-   "t": "2026-11-08T13:39:17+03:00",
+   "ozet": {
+    "dh": "8f93abc9392d2d2c",
+    "sha": "d42f7cbe96e5c671c41d3ffe"
+   },
+   "t": "2026-11-09T21:05:40+03:00",
    "teknik": {
     "doygunluk": 61.8,
     "inen": [
@@ -61859,6 +61988,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/120260905_160743_Autokorso_Magdeburg.jpg/1280px-120260905_160743_Autokorso_Magdeburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d6bbfdc8c145e584": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şarküteri tabağı",
+     "dilimlenmiş salam",
+     "turşu",
+     "meyve süsleme"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tabakta düzenlenmiş dilimlenmiş et şarküteri ürünleri ve süslemeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "iklim zirvesi",
+     "yerel beslenme",
+     "resmi kurum tanıtımı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:29aa99b445af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf genel bir şarküteri sunumudur; Antalya Valiliği pavilyonu veya iklim zirvesiyle ilgili hiçbir unsur barındırmıyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans pavilyonu",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T21:05:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f17cde9354c4d15",
+    "sha": "280c84c13453757f2a0325f4"
+   },
+   "t": "2026-11-09T21:05:40+03:00",
+   "teknik": {
+    "doygunluk": 55.0,
+    "inen": [
+     500,
+     325
+    ],
+    "karanlik_oran": 0.135,
+    "keskinlik": 1810,
+    "kontrast": 57,
+    "medyan": 133,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/K7223-7_%288456937410%29.jpg/1280px-K7223-7_%288456937410%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d6dea9f8d19f8965": {
    "icerik": {
