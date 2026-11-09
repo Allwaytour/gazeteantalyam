@@ -1823,6 +1823,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ed_Burtynsky_%2838148537%29.jpg/1280px-Ed_Burtynsky_%2838148537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "09d4395e98e3acc2": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     464,
+     1000,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kopek",
+     "kedi evi",
+     "makine"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kucuk kopekler tasiyan bir kisi ve ona bakan bir kadin.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hayvan barinagi",
+     "belediye faaliyeti",
+     "ziyaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      210,
+      524,
+      574,
+      755
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana ozne gorunuyor fakat gorsel icerigi etkinlik konusuyla uyumlu degil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       464,
+       1000,
+       866
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-09T20:05:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "203139983c2c2c18",
+    "sha": "b2fdd76b7e47c327c1515a16"
+   },
+   "t": "2026-11-09T20:05:48+03:00",
+   "teknik": {
+    "doygunluk": 25.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.249,
+    "keskinlik": 985,
+    "kontrast": 75,
+    "medyan": 90,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Fatma_%C5%9Eahin%2C_at_the_street_animal_care_center_22082024_1.jpg/1280px-Fatma_%C5%9Eahin%2C_at_the_street_animal_care_center_22082024_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "09e394e90ed4c713": {
    "icerik": {
     "ana_kutu": [
@@ -19532,6 +19629,102 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "41b925ff93446308": {
+   "icerik": {
+    "ana_kutu": [
+     53,
+     0,
+     1000,
+     963
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kulaklik",
+     "isimlik",
+     "mikrofon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Panelde konusma yapan ve ellerini hareket ettiren bir kadin.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "panel",
+     "konferans",
+     "oturum"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "sokak"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      53,
+      344,
+      563,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski tarihli bir panel/konferans fotografi, guncel haberle donem uyusmazligi var.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       53,
+       0,
+       1000,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-09T20:05:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d3e2ebbfb4d49cc",
+    "sha": "44eb5301657c1283a7c94827"
+   },
+   "t": "2026-11-09T20:05:48+03:00",
+   "teknik": {
+    "doygunluk": 48.1,
+    "inen": [
+     500,
+     502
+    ],
+    "karanlik_oran": 0.31,
+    "keskinlik": 694,
+    "kontrast": 64,
+    "medyan": 127,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg/1280px-Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "429e0cce458d773a": {
    "icerik": {
     "ana_kutu": [
@@ -35321,6 +35514,115 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mauritius_oil_spill_ESA22170164.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "7b58689769fb9c77": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     335,
+     747,
+     663
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "ucak",
+     "kargo",
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havalimaninda ucak onunde duran bir grup insan ve kargolar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "karsilama",
+     "havalimanı",
+     "resmi ziyaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "salon toplantilari",
+     "kapali alan sunumlari"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      343,
+      335,
+      747,
+      417
+     ],
+     [
+      342,
+      389,
+      725,
+      439
+     ],
+     [
+      380,
+      412,
+      737,
+      483
+     ],
+     [
+      342,
+      471,
+      729,
+      532
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Farkli bir olay ve mekanda cekilmis eski bir arsiv karesi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-09T20:05:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "37774f73f3a18949",
+    "sha": "82f9b01a34f88c438075e5cd"
+   },
+   "t": "2026-11-09T20:05:48+03:00",
+   "teknik": {
+    "doygunluk": 16.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.099,
+    "keskinlik": 3033,
+    "kontrast": 64,
+    "medyan": 149,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Stolen_%22The_Gypsy_Girl%22_mosaic_parts_comes_from_US_to_Turkey.jpg/1280px-Stolen_%22The_Gypsy_Girl%22_mosaic_parts_comes_from_US_to_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7bf56c54c2aa1113": {
    "icerik": {
     "ana_kutu": [
@@ -36757,6 +37059,94 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Side_Belediyesi%2C_Side-Manavgat-Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "7f99cce752f282db": {
+   "icerik": {
+    "ana_kutu": [
+     87,
+     23,
+     917,
+     951
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "makarna paketi",
+     "konserve kutusu",
+     "sos paketi",
+     "örtü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "beyaz örtü üzerinde paketli gıdalar ve konserve kutuları",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "gıda yardımı",
+     "market ürünleri",
+     "tüketim"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "toplantı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Paketlenmiş gıda ürünlerini gösteren temsilî bir kare.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       87,
+       23,
+       917,
+       951
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T20:05:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "13f9ed3c109ad85b",
+    "sha": "97fe70729a3332609f9ea66c"
+   },
+   "t": "2026-11-09T20:05:57+03:00",
+   "teknik": {
+    "doygunluk": 33.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 1676,
+    "kontrast": 52,
+    "medyan": 176,
+    "parlaklik": 157,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/1752Baliuag_Public_Market_56.jpg/1280px-1752Baliuag_Public_Market_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7fbb3329bc3eb5c2": {
    "icerik": {
@@ -63627,6 +64017,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "de163dfeddd9b1b5": {
+   "icerik": {
+    "ana_kutu": [
+     36,
+     54,
+     1000,
+     831
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "turk bayragi",
+     "masa",
+     "kalem"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ofis ortaminda konusan bir kadin ve arka planda bayraklar.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "makam aciklamasi",
+     "roportaj",
+     "basin toplantisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "disarisi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      36,
+      386,
+      552,
+      679
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arsiv portre niteliginde; ana ozne gorunuyor fakat etkinlik salonu degil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       36,
+       54,
+       1000,
+       831
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-09T20:05:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "90313969686c6ce4",
+    "sha": "e9b2f511c756ea5a3e1ffa63"
+   },
+   "t": "2026-11-09T20:05:48+03:00",
+   "teknik": {
+    "doygunluk": 30.3,
+    "inen": [
+     500,
+     301
+    ],
+    "karanlik_oran": 0.213,
+    "keskinlik": 1055,
+    "kontrast": 73,
+    "medyan": 156,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fatma_%C5%9Eahin%2C_December_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "de4defb683c7ceb9": {
    "icerik": {
     "ana_kutu": [
@@ -65776,6 +66263,95 @@
    },
    "url": "https://images.unsplash.com/photo-1588075592446-265fd1e6e76f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c2Nob29sJTIwY2xhc3Nyb29tfGVufDF8MHx8fDE3OTQxNTAyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "e51c1214a73d9f3f": {
+   "icerik": {
+    "ana_kutu": [
+     344,
+     214,
+     783,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "raf",
+     "ürün kutusu",
+     "aydınlatma",
+     "zemin karo",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "dökme gıda ürünleri ve rafların bulunduğu sıfır atık dükkanı içi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "döngüsel ekonomi",
+     "sıfır atık",
+     "gıda satışı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Döngüsel gıda temasına uygun sıfır atık dükkanı temsilî görseli.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       344,
+       214,
+       783,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T20:05:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d220bc666464616",
+    "sha": "804864781e93d0eb1916efee"
+   },
+   "t": "2026-11-09T20:05:57+03:00",
+   "teknik": {
+    "doygunluk": 49.5,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.149,
+    "keskinlik": 2867,
+    "kontrast": 49,
+    "medyan": 106,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zero_waste_section_in_Gimsel%2C_de_Groene_Passage_2024-12-03.jpg/1280px-Zero_waste_section_in_Gimsel%2C_de_Groene_Passage_2024-12-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e544962817ed3506": {
    "icerik": {
     "ana_kutu": [
@@ -66166,6 +66742,110 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Concept_Design_for_Antalya_Arena-_internal.jpg/1280px-Concept_Design_for_Antalya_Arena-_internal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e66d5cde43bcfafd": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     63,
+     1000,
+     694
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "mikrofon",
+     "tel orgu",
+     "kedi evi",
+     "gozluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mikrofon tutan bir kadin ve yaninda duran bir erkek.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "belediye ziyareti",
+     "hayvan barinagi",
+     "yerel yonetim"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      81,
+      399,
+      442,
+      574
+     ],
+     [
+      0,
+      622,
+      1000,
+      997
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:aab2b09b5ef6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana ozne gorunuyor ancak etkinlik yeri ve ortami haberle ortusmuyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       63,
+       1000,
+       694
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-09T20:05:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a6c65e5d2d2ecece",
+    "sha": "6b8c0e8053a073197eac95fe"
+   },
+   "t": "2026-11-09T20:05:48+03:00",
+   "teknik": {
+    "doygunluk": 25.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 2772,
+    "kontrast": 71,
+    "medyan": 149,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fatma_%C5%9Eahin%2C_at_the_street_animal_care_center_22082024.jpg/1280px-Fatma_%C5%9Eahin%2C_at_the_street_animal_care_center_22082024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e67c914ecd904d94": {
    "icerik": {
