@@ -2244,6 +2244,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Twilight_through_Trung_Y%C3%AAn_Tennis_Court_10-02-2026.jpg/1280px-Twilight_through_Trung_Y%C3%AAn_Tennis_Court_10-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0b8ec415df5cbff0": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     141,
+     999,
+     929
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ceket",
+     "mikrofon",
+     "tişört"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Gözlüklü ve sakallı bir erkeğin sahnedeki yakın plan portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şirket kurucusu haberi",
+     "girişimcilik portresi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi parti kongresi",
+     "yerel seçim haberi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      50,
+      321,
+      281,
+      559
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3e72d0488db6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin net portresi; arşiv fotoğrafı iddiası için uygun ancak arka plandaki yazılar yabancı bir etkinliğe ait.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       141,
+       999,
+       929
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6127e1c9ccc9e9d9",
+    "sha": "2edaace7baf6a71811f04f87"
+   },
+   "t": "2026-11-09T14:05:30+03:00",
+   "teknik": {
+    "doygunluk": 6.0,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.145,
+    "keskinlik": 661,
+    "kontrast": 70,
+    "medyan": 195,
+    "parlaklik": 156,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/TechCrunch_Disrupt_Berlin_2017_%2846066632992%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2017_%2846066632992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0bc817daffa4ff85": {
    "icerik": {
     "ana_kutu": [
@@ -5216,6 +5308,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Wedding_rings_and_roses.jpg/1280px-Wedding_rings_and_roses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "14e213e7e05da956": {
+   "icerik": {
+    "ana_kutu": [
+     49,
+     656,
+     999,
+     903
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "sandalye",
+     "mikrofon",
+     "arka plan panosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahnede konuşma yapan erkek ve oturan diğer katılımcılar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "girişimcilik konferansı",
+     "teknoloji zirvesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi parti kongresi",
+     "Antalya yerel siyaset"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      49,
+      680,
+      222,
+      779
+     ],
+     [
+      611,
+      526,
+      747,
+      616
+     ],
+     [
+      674,
+      345,
+      781,
+      421
+     ],
+     [
+      672,
+      169,
+      793,
+      252
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3e72d0488db6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kişi yer alsa da arka plandaki yabancı teknoloji zirvesi yazıları siyasi kongre haberiyle çelişiyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       49,
+       656,
+       999,
+       903
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "60440606060e8e8e",
+    "sha": "ecf03ad34375188bcc0885f4"
+   },
+   "t": "2026-11-09T14:05:30+03:00",
+   "teknik": {
+    "doygunluk": 10.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.355,
+    "keskinlik": 1890,
+    "kontrast": 82,
+    "medyan": 125,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/TechCrunch_Disrupt_Berlin_2018_%2846066632142%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2846066632142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1500acc56f5d3224": {
    "icerik": {
@@ -12078,6 +12280,124 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Seattle_-_Liberty_Building_01.jpg/1280px-Seattle_-_Liberty_Building_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2c44b53ddd79bada": {
+   "icerik": {
+    "ana_kutu": [
+     316,
+     268,
+     894,
+     981
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "asker",
+     "tüfek",
+     "helikopter",
+     "kar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karlı arazide tüfekli ve tam teçhizatlı askerler ile arka planda helikopter",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri tatbikat",
+     "kış operasyonu",
+     "dağ komandoları"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm",
+     "hava durumu",
+     "şehir haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      352,
+      497,
+      412,
+      539
+     ],
+     [
+      392,
+      440,
+      442,
+      484
+     ],
+     [
+      403,
+      290,
+      443,
+      332
+     ],
+     [
+      379,
+      796,
+      448,
+      843
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'daki soğuk hava dalgası haberi için karlı arazide askeri birlik ve helikopter görseli tamamen ilgisiz ve yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f31f0727a72725a",
+    "sha": "794315777a9507583cd53bbf"
+   },
+   "t": "2026-11-09T14:05:09+03:00",
+   "teknik": {
+    "doygunluk": 4.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.025,
+    "keskinlik": 1897,
+    "kontrast": 55,
+    "medyan": 221,
+    "parlaklik": 200,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Generation_III_Extended_Cold_Weather_Clothing_System.jpg/1280px-Generation_III_Extended_Cold_Weather_Clothing_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2c853fba2a274a9e": {
    "icerik": {
     "ana_kutu": [
@@ -12167,6 +12487,103 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Antalya_Museum_Lekythos_3_Classical_period_5793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "2d126318aaa52785": {
+   "icerik": {
+    "ana_kutu": [
+     123,
+     7,
+     627,
+     303
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kar",
+     "bank",
+     "ağaç",
+     "yürüyüş yolu",
+     "çöp kutusu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karda yürüyüş yolu ve bankların bulunduğu karlı park alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kış haberleri",
+     "soğuk hava haberleri",
+     "hava durumu"
+    ],
+    "uygunsuz_baglamlar": [
+     "yaz tatili",
+     "plaj haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karlı park görüntüsü soğuk hava haberine uygundur ancak yabancı bir otoyol dinlenme tesisi olduğu için yerel haberde kısmen yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       123,
+       7,
+       627,
+       303
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bf7f0a9e17210165",
+    "sha": "3886990a06f328f96ee79aae"
+   },
+   "t": "2026-11-09T14:05:09+03:00",
+   "teknik": {
+    "doygunluk": 7.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.075,
+    "keskinlik": 1474,
+    "kontrast": 61,
+    "medyan": 203,
+    "parlaklik": 177,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2012-02_BAB-4_1.jpg/1280px-2012-02_BAB-4_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2d2fa29468bc9dc0": {
    "icerik": {
@@ -14582,6 +14999,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "35f2ff50920b7ff1": {
+   "icerik": {
+    "ana_kutu": [
+     292,
+     214,
+     691,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "kar",
+     "bank",
+     "çöp kutusu",
+     "direk lamba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karlı zeminde küçük bir dinlenme tesisi binası ve banklar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kış haberleri",
+     "hava durumu",
+     "soğuk hava"
+    ],
+    "uygunsuz_baglamlar": [
+     "yaz tatili",
+     "spor müsabakaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karlı tesis görünümü soğuk hava dalgası için uygundur fakat yabancı bir lokasyon olduğu için yerel haberde tam uyumlu değildir.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       292,
+       214,
+       691,
+       725
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0311c76193db3f7e",
+    "sha": "b6ba08669e791f23fd9e7ebb"
+   },
+   "t": "2026-11-09T14:05:09+03:00",
+   "teknik": {
+    "doygunluk": 8.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 1814,
+    "kontrast": 68,
+    "medyan": 179,
+    "parlaklik": 159,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2012-02_BAB-4_2.jpg/1280px-2012-02_BAB-4_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "36946fcaca227a81": {
    "icerik": {
     "ana_kutu": [
@@ -16766,6 +17280,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Vernissage_of_the_exhibition_%E2%80%98Heidi_in_Lateinamerika%E2%80%99_%282023%29_06.jpg/1280px-Vernissage_of_the_exhibition_%E2%80%98Heidi_in_Lateinamerika%E2%80%99_%282023%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4012f3f1b99473da": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     319,
+     332,
+     699
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "göl",
+     "kaya",
+     "don",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağ manzaralı göl kıyısında donmuş kayalar ve sabah donu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "doğa manzarası",
+     "don olayı",
+     "soğuk hava"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir haberleri",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Don olayını ve soğuk hava şartlarını gösteren bir manzara fotoğrafıdır, ancak yabancı bir ülkeye aittir.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       133,
+       319,
+       332,
+       699
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c03b3f8be10fa51c",
+    "sha": "e0cef47954d09a8294eba353"
+   },
+   "t": "2026-11-09T14:05:09+03:00",
+   "teknik": {
+    "doygunluk": 16.2,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.165,
+    "keskinlik": 2948,
+    "kontrast": 64,
+    "medyan": 115,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Frosty_Raftsundet_landscape_with_Trolltindan_in_morning%2C_2012_October.JPG/1280px-Frosty_Raftsundet_landscape_with_Trolltindan_in_morning%2C_2012_October.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "408a7c539ee96c43": {
    "icerik": {
@@ -27470,6 +28082,104 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6abad82d3cfb2435": {
+   "icerik": {
+    "ana_kutu": [
+     365,
+     599,
+     489,
+     814
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tır",
+     "kar",
+     "yol",
+     "bina",
+     "ağaç",
+     "direk lamba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karlı yolda park etmiş kırmızı tır ve dinlenme tesisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kış haberleri",
+     "ulaşım",
+     "soğuk hava"
+    ],
+    "uygunsuz_baglamlar": [
+     "yaz tatili",
+     "plaj haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kış şartlarını ve soğuk havayı gösteren karlı otoyol tesisi karedir, ancak yabancı bir otoyol olması yerel haber için dezavantajdır.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       365,
+       599,
+       489,
+       814
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "193e260d73870249",
+    "sha": "a9e5f842ca5e3a08ff884346"
+   },
+   "t": "2026-11-09T14:05:09+03:00",
+   "teknik": {
+    "doygunluk": 7.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.058,
+    "keskinlik": 1198,
+    "kontrast": 62,
+    "medyan": 202,
+    "parlaklik": 172,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2012-02_BAB-4_3.jpg/1280px-2012-02_BAB-4_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6b4125998d2840c1": {
    "icerik": {
     "ana_kutu": [
@@ -28388,6 +29098,117 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Farmers_and_Merchants_Union_Bank%2C_James_Street_and_Dickason_Boulevard%2C_Columbus%2C_WI_-_52808018646.jpg/1280px-Farmers_and_Merchants_Union_Bank%2C_James_Street_and_Dickason_Boulevard%2C_Columbus%2C_WI_-_52808018646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6e30d69dbd8001dd": {
+   "icerik": {
+    "ana_kutu": [
+     132,
+     795,
+     891,
+     945
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "sandalye",
+     "defter",
+     "mikrofon",
+     "afiş pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahnede sunum yapan erkek ve yanında duran kadın ile oturan panelistler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans haberi",
+     "girişimcilik paneli"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi parti kongresi",
+     "yerel siyaset haberi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      132,
+      804,
+      252,
+      874
+     ],
+     [
+      200,
+      693,
+      316,
+      762
+     ],
+     [
+      272,
+      194,
+      597,
+      420
+     ],
+     [
+      243,
+      0,
+      396,
+      110
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3e72d0488db6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kişi görülse de yabancı etkinlik sahnesi ve panosu Antalya'daki siyasi kongre haberiyle tamamen uyumsuz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       132,
+       795,
+       891,
+       945
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7b66070a06c6c294",
+    "sha": "cef98e6b13d6c10bc537b03e"
+   },
+   "t": "2026-11-09T14:05:30+03:00",
+   "teknik": {
+    "doygunluk": 16.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.267,
+    "keskinlik": 2299,
+    "kontrast": 84,
+    "medyan": 158,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/TechCrunch_Disrupt_Berlin_2018_%2832245214698%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2832245214698%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6e4ace25ef64d248": {
    "icerik": {
@@ -31402,6 +32223,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Premier_dr._Robert_Golob_se_na_Danskem_udele%C5%BEuje_sedmega_vrha_Evropske_politi%C4%8Dne_skupnosti_%2854827287608%29.jpg/1280px-Premier_dr._Robert_Golob_se_na_Danskem_udele%C5%BEuje_sedmega_vrha_Evropske_politi%C4%8Dne_skupnosti_%2854827287608%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "77da782e0f37b231": {
+   "ozet": {
+    "dh": "d0c0c0c4d0146428",
+    "sha": "0eb8cd495366998353a86d60"
+   },
+   "t": "2026-11-09T14:05:22+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.467,
+    "keskinlik": 1772,
+    "kontrast": 81,
+    "medyan": 69,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/TechCrunch_Disrupt_Berlin_2018_%2846066632272%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2846066632272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "784732d19c5a355e": {
    "t": "2026-11-08T13:41:05+03:00",
@@ -45212,6 +46054,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2527b.jpg/1280px-Kayseri_Archaeological_Museum_Hercules_Sarcophagus_2527b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a998d1996fa1f615": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     102,
+     853,
+     911
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "konuşma balonu",
+     "şapka",
+     "askeri üniforma",
+     "takım elbise"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "19. yüzyıldan siyasi çizgi roman çizimi, konuşma balonlu erkek figürler.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": true,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih makalesi",
+     "siyasi tarih",
+     "karikatür incelemesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel siyaset",
+     "parti kongresi",
+     "haber bülteni"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      197,
+      182,
+      273,
+      222
+     ],
+     [
+      148,
+      292,
+      218,
+      340
+     ],
+     [
+      214,
+      428,
+      281,
+      469
+     ],
+     [
+      137,
+      532,
+      237,
+      597
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3e72d0488db6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi yabancı siyasi çizim, güncel parti kongresi haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "parti kongresi",
+        "var": false
+       },
+       {
+        "unsur": "kürsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "acd2d29292d6c271",
+    "sha": "c4ab848928a50a947cb5e62b"
+   },
+   "t": "2026-11-09T14:05:37+03:00",
+   "teknik": {
+    "doygunluk": 10.9,
+    "inen": [
+     500,
+     386
+    ],
+    "karanlik_oran": 0.016,
+    "keskinlik": 2305,
+    "kontrast": 44,
+    "medyan": 198,
+    "parlaklik": 174,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/The_political_%22Siamese%22_twins%2C_the_offspring_of_Chicago_miscegenation_LCCN2003674598.jpg/1280px-The_political_%22Siamese%22_twins%2C_the_offspring_of_Chicago_miscegenation_LCCN2003674598.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a9cc51c0992a9d63": {
    "icerik": {
     "ana_kutu": [
@@ -48168,6 +49127,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg/1280px-TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b54033e502b047d6": {
+   "ozet": {
+    "dh": "000123b1d1c61906",
+    "sha": "e163e69087da45c600995b26"
+   },
+   "t": "2026-11-09T14:05:21+03:00",
+   "teknik": {
+    "doygunluk": 12.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.465,
+    "keskinlik": 2150,
+    "kontrast": 90,
+    "medyan": 67,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/TechCrunch_Disrupt_Berlin_2018_%2832245214938%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2832245214938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b563977cee02386e": {
    "icerik": {
@@ -66903,6 +67883,103 @@
    },
    "url": "https://images.unsplash.com/photo-1525680996651-0222228be6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bXVheSUyMHRoYWklMjBmaWdodHxlbnwxfDB8fHwxNzk0MTI1NDgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "fc5423043db14db7": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     460,
+     825,
+     995
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ağaç",
+     "çim",
+     "köpek",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırağulu parkta yürüyen insan ve köpek",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "soğuk hava haberleri",
+     "kış manzarası",
+     "meteoroloji haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "sıcak hava haberleri",
+     "yaz turizmi",
+     "plaj haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02ce1c2ad4bb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf kış şartlarını ve soğuk havayı temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "soğuk hava",
+        "var": true
+       },
+       {
+        "unsur": "kış şartları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       460,
+       825,
+       995
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T14:05:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "14010c1cff8e9021",
+    "sha": "37a91193940f0d58e19adb18"
+   },
+   "t": "2026-11-09T14:05:12+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     500,
+     327
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 1489,
+    "kontrast": 45,
+    "medyan": 146,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "fc7083cc63ba2d81": {
    "icerik": {
     "ana_kutu": [
@@ -74652,6 +75729,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T12:08:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "fc5423043db14db7": {
+   "alt_tur": "nesne",
+   "boyut": [
+    800,
+    523
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kırağulu parkta yürüyen insan ve köpek",
+   "gosterim_ad": "soğuk hava dalgası",
+   "ilk_kabul": "2026-11-09T14:05:12+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Edmund Shaw / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "Edmund Shaw",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_(geograph_4296089).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç",
+    "insan",
+    "köpek",
+    "kış şartları",
+    "soğuk hava",
+    "çim"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg/500px-Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg",
+   "kullanilabilir": [
+    "soğuk hava haberleri",
+    "kış manzarası",
+    "meteoroloji haberleri"
+   ],
+   "kullanilamaz": [
+    "sıcak hava haberleri",
+    "yaz turizmi",
+    "plaj haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-09T14:05:12+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "yan",
