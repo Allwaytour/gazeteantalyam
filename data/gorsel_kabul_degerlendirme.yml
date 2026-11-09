@@ -1,6 +1,74 @@
 # Kabul testi sonuçlarının görsel incelemesi: her satır için fotoğraf "dogru" (haberi doğrudan ve yanıltmadan anlatıyor),
 # "zayif" (konuyla ilgili ama zayıf) ya da "yanlis". "Fotoğraf geldi" sayısı otomatik; "doğru fotoğraf geldi" bu incelemeden sayılır.
-inceleyen: ""
-tarih: ""
-not: "Test tamamlandıktan sonra doldurulacak."
-satirlar: {}
+inceleyen: Claude
+tarih: '2026-11-09'
+not: 'Deneme 29 (h2.k4.a2.i3.r1.y3, kod e670c1df47b5, örneklem f5aea6d5b3ee). 17 fotoğraf gelen satırdan 13 doğru, 3 zayıf, 1 yanlış (17: Lufthansa uçağı). Reddedilen 8 satırın h1e görsellerinden 6''sı yanlış ya da zayıftı; ret haklı. Kabul edilmedi: hassas bir haberde yanlış eşleşme var, yayın sürümü açılmadı.'
+satirlar:
+  20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990.md:
+    karar: dogru
+    not: Antalya'da taksi sırası; konu doğrudan
+    'no': 1
+  20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6.md:
+    karar: dogru
+    not: plaj voleybolu topu, temsilî konu fotoğrafı
+    'no': 2
+  20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275.md:
+    karar: dogru
+    not: Murat Kurum portresi
+    'no': 5
+  20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad-48442.md:
+    karar: dogru
+    not: plaj voleybolu, temsilî; 2. satırla aynı kare
+    'no': 6
+  20261106-avrupanin-devleri-alanya-sahillerinde-kupa-mucadelesi-veriyo-ca857.md:
+    karar: dogru
+    not: plaj voleybolu, temsilî
+    'no': 7
+  20261104-atsodan-bakan-kuruma-aksu-altintas-dosyasi-df983.md:
+    karar: dogru
+    not: haberin muhatabı Bakan Kurum'un portresi
+    'no': 9
+  20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md:
+    karar: dogru
+    not: SunExpress uçağı
+    'no': 10
+  20261106-babacandan-yorsiada-ziyaret-64399.md:
+    karar: dogru
+    not: Ali Babacan portresi (2022)
+    'no': 11
+  20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf7c.md:
+    karar: zayif
+    not: elektrik sayaçları; Yunanistan'da (Kos) çekilmiş, konu ilgili ama genel
+    'no': 14
+  20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12-85f66.md:
+    karar: dogru
+    not: Kızılkule
+    'no': 15
+  20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi-b2e30.md:
+    karar: zayif
+    not: belirli bir otelin (Ramada Plaza) havuz başı; turizm istatistiği için belli bir markayı öne çıkarıyor
+    'no': 16
+  20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51cd5.md:
+    karar: yanlis
+    not: Lufthansa uçağı; Ankara-Antalya seferindeki krizle ilgisi olmayan bir havayolunu ima ediyor (hassas haber)
+    'no': 17
+  20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag-99653.md:
+    karar: dogru
+    not: Gazipaşa-Alanya Havalimanı terminali
+    'no': 19
+  20261107-fenerbahce-corum-fk-deplasmaninda-78952.md:
+    karar: dogru
+    not: Fenerbahçe teknik direktörü Emre Belözoğlu (haberde geçiyor)
+    'no': 20
+  20261107-korkutelinde-su-kesintisi-uyarisi-3ee2c.md:
+    karar: dogru
+    not: musluktan su, temsilî konu fotoğrafı
+    'no': 21
+  20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi-495ed.md:
+    karar: zayif
+    not: Antalya Havalimanı dış hatlar salonu; Alman turist haberiyle genel ilişki
+    'no': 25
+  20261031-bakan-kurum-antalyadaki-cop31-zirvesinde-konya-da-yer-alacak-4c9ec.md:
+    karar: dogru
+    not: Murat Kurum portresi
+    'no': 26
