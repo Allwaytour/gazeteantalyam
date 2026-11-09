@@ -236,9 +236,39 @@
       ]
      },
      "t": "2026-11-08T15:07:56+03:00"
+    },
+    "r1:4a80409a3398:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanı ve kalesini genel olarak gösterir, Antalya'daki turistik noktalar bağlamına kısmen uysa da kartın kendisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart, antik kent veya müze girişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:10+03:00"
     }
    },
-   "t": "2026-11-08T15:07:56+03:00",
+   "ozet": {
+    "dh": "8d4d49e43933b1b1",
+    "sha": "5261c0f905e0c3ff45840d75"
+   },
+   "t": "2026-11-09T13:35:10+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -3165,6 +3195,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20230116_Manavgat%2C_Turkey_7.jpg/1280px-20230116_Manavgat%2C_Turkey_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0f0be282e7311005": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     55,
+     876,
+     941
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bilet",
+     "saray kapısı illüstrasyonu",
+     "yazı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "T.C. Kültür ve Turizm Bakanlığı Topkapı Sarayı Müzesi giriş bileti illüstrasyonu",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze bileti",
+     "müzekart",
+     "tarihi yerler"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4a80409a3398:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel müze bileti gösteriyor ancak güncel Müzekart ile birebir aynı değil, dönemsel olarak eski.",
+      "gerekli": [
+       {
+        "unsur": "müzekart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       28,
+       55,
+       876,
+       941
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "daf0c8caf4b4f4f8",
+    "sha": "3c03ccc100137f4aff16f62c"
+   },
+   "t": "2026-11-09T13:35:29+03:00",
+   "teknik": {
+    "doygunluk": 20.0,
+    "inen": [
+     500,
+     415
+    ],
+    "karanlik_oran": 0.01,
+    "keskinlik": 2697,
+    "kontrast": 51,
+    "medyan": 180,
+    "parlaklik": 176,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/TopkapiMuseumTicket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "0fad2607e7696114": {
    "t": "2026-11-08T12:10:56+03:00",
@@ -6427,9 +6549,39 @@
       ]
      },
      "t": "2026-11-08T15:07:56+03:00"
+    },
+    "r1:4a80409a3398:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümü verilmiştir ancak Müzekart veya antik kent girişi net olarak vurgulanmamıştır.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart, antik kent veya müze girişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:10+03:00"
     }
    },
-   "t": "2026-11-08T15:07:56+03:00",
+   "ozet": {
+    "dh": "000000070e0f67e4",
+    "sha": "75774d2952a2008dc44296c7"
+   },
+   "t": "2026-11-09T13:35:10+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -10820,6 +10972,10 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Accent_Guns_et_Loans_Highland_Heights_Memphis_TN_2013-04-14_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "28eef1245aab9086": {
+   "ozet": {
+    "dh": "04860e0f0f0f0cac",
+    "sha": "cb15637f67cb17d057446f5c"
+   },
    "t": "2026-11-08T15:07:24+03:00",
    "teknik": {
     "doygunluk": 36.6,
@@ -13224,6 +13380,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2022_World_Nomad_Games_opening_ceremony_3.jpg/1280px-2022_World_Nomad_Games_opening_ceremony_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3290f46a12284c83": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     175,
+     700,
+     680
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş köprü",
+     "lamba direği",
+     "kaldırım taşı",
+     "çit",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sonbahar ağaçları arasında tarihi taş köprü ve yol",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi mekan",
+     "gezi",
+     "park"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel ekonomi",
+     "muzekart fiyatlari",
+     "haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4a80409a3398:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz yurtdışındaki bir müzeye ait yol karesidir, Müzekart fiyat haberiyle bağdaşmaz.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart, antik kent veya müze girişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b1b6f0d1fcdc603",
+    "sha": "ec4786c98e2c0ff354eb0eb3"
+   },
+   "t": "2026-11-09T13:35:10+03:00",
+   "teknik": {
+    "doygunluk": 26.2,
+    "inen": [
+     500,
+     243
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 5380,
+    "kontrast": 50,
+    "medyan": 106,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_-_2018-10-12_16.29.32.jpg/1280px-The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_-_2018-10-12_16.29.32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "32af051e13e655f4": {
    "ozet": {
@@ -18448,6 +18693,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_030804-N-9005E-001_Aircrew_Survival_Equipmentman_Airman_Jeff_Martin%2C_a_Naval_Station_bike_patrolman%2C_guides_a_5_years_old_through_an_obstacle_course.jpg/1280px-US_Navy_030804-N-9005E-001_Aircrew_Survival_Equipmentman_Airman_Jeff_Martin%2C_a_Naval_Station_bike_patrolman%2C_guides_a_5_years_old_through_an_obstacle_course.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "487456d82ad4fa60": {
+   "icerik": {
+    "ana_kutu": [
+     223,
+     22,
+     804,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "gemi",
+     "gişe",
+     "bilet satış noktası",
+     "çiçek saksısı",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze gişesi önünde duran insanlar ve arkada büyük bir gemi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "müze bileti haberleri",
+     "tarihi gemi turizmi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya antik kent haberleri",
+     "Müzekart fiyat duyurusu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4a80409a3398:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki yer yabancı bir müze gişesidir ve Türkiye'deki Müzekart haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart",
+        "var": false
+       },
+       {
+        "unsur": "antik kent veya müze girişi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cce435c98b8ff431",
+    "sha": "edbd3267c4af44a979d79804"
+   },
+   "t": "2026-11-09T13:35:29+03:00",
+   "teknik": {
+    "doygunluk": 24.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 3883,
+    "kontrast": 57,
+    "medyan": 152,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Yokohama-port-museum_Entrance.jpg/1280px-Yokohama-port-museum_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4891940fb617e59e": {
    "icerik": {
     "ana_kutu": [
@@ -22919,6 +23255,94 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1790342024911-90d4d20e56eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Zmx1dGlzdCUyMHBsYXlpbmclMjBmbHV0ZSUyMG9uJTIwc3RhZ2V8ZW58MXwwfHx8MTc5NDE0MDM5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "58d5a56c2b99cd68": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     10,
+     990,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş köprü",
+     "lamba direği",
+     "kaldırım taşları",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi taş köprü ve yol üstünde lamba direkleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi mekan",
+     "gezi rehberi",
+     "muze"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel ekonomi",
+     "fiyat aciklamasi",
+     "muzekart duyurusu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4a80409a3398:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz yabancı bir tarihi köprüyü göstermektedir, müzekart ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart, antik kent veya müze girişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "478745254d0f0f84",
+    "sha": "55bcfbf8bb80d84672efe6ea"
+   },
+   "t": "2026-11-09T13:35:10+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.145,
+    "keskinlik": 2574,
+    "kontrast": 56,
+    "medyan": 101,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_%2815176462307%29.jpg/1280px-The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_%2815176462307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "59ba6f6ddd6bbb6b": {
    "icerik": {
@@ -29476,6 +29900,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%2820260508_122004202%29_Schulstreik_gegen_Wehrpflicht_Leipzig.jpg/1280px-%2820260508_122004202%29_Schulstreik_gegen_Wehrpflicht_Leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "74ade4a7ddeea9f7": {
+   "icerik": {
+    "ana_kutu": [
+     440,
+     485,
+     875,
+     635
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sergi panosu",
+     "küre",
+     "çan",
+     "koridor",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze içi koridor, sergi panoları ve ortada büyük küre ile çan",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "muze",
+     "sergi",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel ekonomi",
+     "fiyat aciklamasi",
+     "antalya haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4a80409a3398:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir müze içi görünümüdür ancak Müzekart veya Antalya ile doğrudan bir bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Müzekart, antik kent veya müze girişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T13:35:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4723364dedc9983b",
+    "sha": "1ba681a5667b1dbbc4e7f65e"
+   },
+   "t": "2026-11-09T13:35:10+03:00",
+   "teknik": {
+    "doygunluk": 22.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.209,
+    "keskinlik": 1361,
+    "kontrast": 44,
+    "medyan": 94,
+    "parlaklik": 89,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Beamish_%27The_Living_Museum_of_the_North%27%2C_Ticket_sales_and_entrance_-_geograph.org.uk_-_7890675.jpg/1280px-Beamish_%27The_Living_Museum_of_the_North%27%2C_Ticket_sales_and_entrance_-_geograph.org.uk_-_7890675.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "74be89a2384f5811": {
    "icerik": {
