@@ -603,7 +603,7 @@ def main():
     if deneme and deneme_hat != gorsel_hat.HAT_KIMLIK:
         # Ayar ile betik sürümü uyuşmuyorsa test başlamaz (ör. ayar yüklendi, betik henüz yüklenmedi ya da tersi)
         print(f"Görsel kabul testi başlamadı: ayar gorsel_deneme_hat='{deneme_hat}', kod görsel hattı kimliği '{gorsel_hat.HAT_KIMLIK}'")
-    elif deneme and onceki.get("imza") != deneme_imza and onceki.get("deneme_sayisi_imza") != f"{deneme_imza}:12":
+    elif deneme and onceki.get("imza") != deneme_imza and not (onceki.get("hedef") == deneme_imza and int(onceki.get("bos_deneme") or 0) >= 12):
         print(f"\nGörsel denemesi: {len(deneme)} haber")
         def ara_kayit(satirlar, _imza=deneme_imza, _onceki=onceki):
             # İlerleme kaydı: tamamlanan satırlar, inceleme önbelleği ve ret kaydı her satırdan sonra diske yazılır; tur süre sınırında
@@ -616,8 +616,15 @@ def main():
         rapor = gs.deneme_calistir(bag, deneme, onceki.get("satirlar") if onceki.get("hedef") == deneme_imza else None,
                                    sure=int(ayar.get("gorsel_deneme_sure", 600)), ara_kayit=ara_kayit)
         sayi = (onceki.get("deneme_sayisi", 0) + 1) if onceki.get("hedef") == deneme_imza else 1
+        # Tur sınırı (12) yalnızca kota açıkken ilerleme olmayan turları sayar: kota kapalıyken bekleyen turlar testi tüketmez.
+        once = sum(1 for x in (onceki.get("satirlar") or []) if x.get("yeni") and not (x.get("yeni") or {}).get("bekliyor")) \
+            if onceki.get("hedef") == deneme_imza else 0
+        simdi_ = sum(1 for x in rapor["satirlar"] if x.get("yeni") and not (x.get("yeni") or {}).get("bekliyor"))
+        bos = int(onceki.get("bos_deneme") or 0) if onceki.get("hedef") == deneme_imza else 0
+        if rapor["eksik"] and simdi_ <= once and bag.yz_tur > 0:
+            bos += 1
         rapor.update(hedef=deneme_imza, deneme_sayisi=sayi, imza=deneme_imza if not rapor["eksik"] else None,
-                     deneme_sayisi_imza=f"{deneme_imza}:{sayi}")
+                     deneme_sayisi_imza=f"{deneme_imza}:{sayi}", bos_deneme=bos)
         durum["gorsel"]["deneme"] = rapor
         print(f"Görsel denemesi: {rapor['eksik']} satır kota nedeniyle eksik" if rapor["eksik"] else "Görsel denemesi tamamlandı")
 
@@ -720,6 +727,12 @@ def main():
     n = gs.toplu_duzelt(bag, int(ayar.get("gorsel_duzeltme_tur", 3)), yalniz_bekleyen=not toplu)
     if n:
         print(f"Görseli düzeltilen haber: {n}")
+    # Her habere görsel: doğrulanmış arşiv eşleşmesi ya da bize ait tipografik görsel (yapay zekâ isteği yok; ana sayfa önce)
+    try:
+        import gorsel_tamamla
+        gorsel_tamamla.tamamla(oncelikli=gs.ana_sayfa_onceligi(sorted(os.listdir(HABER_KLASOR), reverse=True)))
+    except Exception as e:
+        print("Görsel tamamlama yapılamadı:", e)
     if gs.kf:
         gs.kf.kapat()
     if bag.notlar:
