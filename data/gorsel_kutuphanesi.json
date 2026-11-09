@@ -6737,6 +6737,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_mushrooms_are_cooked._%2810393002196%29.jpg/1280px-The_mushrooms_are_cooked._%2810393002196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "17be0f74521f6d57": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     410,
+     927,
+     762
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "futbol topu",
+     "kum saha",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda top sektiren, siyah-beyaz filtrelenmiş sporcu.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "plaj futbolu haberi",
+     "amatör spor",
+     "sahil etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel resmi lig haberi",
+     "stadyum maçı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:173c0a857d7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kumda futbol oynayan kişiyi gösterse de siyah-beyaz olması ve kale içermemesi nedeniyle güncel lig haberi için zayıf.",
+      "gerekli": [
+       {
+        "unsur": "plaj futbolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "kum saha",
+        "var": true
+       },
+       {
+        "unsur": "kale",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       133,
+       372,
+       928,
+       762
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:35:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07270b393117371f",
+    "sha": "54945a9c265a023dbae419a3"
+   },
+   "t": "2026-11-09T22:36:03+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.021,
+    "keskinlik": 620,
+    "kontrast": 47,
+    "medyan": 194,
+    "parlaklik": 181,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1791279590983-a0a21c2a95bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8VHVya2lzaCUyMGJlYWNoJTIwc29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDI1MjkzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "17d01c6c10c69f3b": {
    "icerik": {
     "ana_kutu": [
@@ -7794,6 +7893,107 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/A_comparison_of_acceptance_of_domestic_violence_in_select_Arab_and_Muslim_majority_countries%2C_UNICEF_2013.png/1280px-A_comparison_of_acceptance_of_domestic_violence_in_select_Arab_and_Muslim_majority_countries%2C_UNICEF_2013.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1a46b013a22503ea": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     131,
+     839,
+     297
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "kale",
+     "futbol topu",
+     "kum saha",
+     "hasır şemsiye",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda kale önünde futbol topuyla oynayan çocuk ve arka planda şemsiyeler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "plaj futbolu haberi",
+     "sahil sporları",
+     "yaz sporları"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi turnuva finali",
+     "stadyum maçı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:173c0a857d7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj futbolu temasına uygun kum saha ve kale var ancak profesyonel turnuva havası taşımıyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj futbolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "kum saha",
+        "var": true
+       },
+       {
+        "unsur": "kale",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       159,
+       0,
+       834,
+       558
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:35:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1beeeead86860553",
+    "sha": "27660c7479f8ddc3c590668d"
+   },
+   "t": "2026-11-09T22:36:03+03:00",
+   "teknik": {
+    "doygunluk": 43.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.206,
+    "keskinlik": 909,
+    "kontrast": 47,
+    "medyan": 126,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1718813321365-d2ad96ef402c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGJlYWNoJTIwc29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDI1MjkzOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1a706306cca88eef": {
    "icerik": {
@@ -15782,6 +15982,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Calle_Larga_at_night_during_power_cut_%28cropped%29.jpg/1280px-Calle_Larga_at_night_during_power_cut_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "32df480f0f1729e6": {
+   "icerik": {
+    "ana_kutu": [
+     136,
+     403,
+     929,
+     917
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şezlong",
+     "kumsal",
+     "bayrak direği",
+     "deniz",
+     "şemsiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda şezlonglar, deniz ve dalgalar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "tatil haberi",
+     "sahil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "plaj futbolu",
+     "maç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:173c0a857d7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta plaj futbolu sahası veya kalesi yok, yalnızca şezlonglar var.",
+      "gerekli": [
+       {
+        "unsur": "plaj futbolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "kum saha",
+        "var": true
+       },
+       {
+        "unsur": "kale",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:35:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7f6f6bdefd64ed9b",
+    "sha": "7b2453936e5acb6fc6001c38"
+   },
+   "t": "2026-11-09T22:36:03+03:00",
+   "teknik": {
+    "doygunluk": 24.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.143,
+    "keskinlik": 1773,
+    "kontrast": 70,
+    "medyan": 162,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1713885640809-0bf4f2092cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjBmb290YmFsbCUyMFR1cmtleSUyMHNhbmR8ZW58MXwwfHx8MTc5NDI1MjkzOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "32f8aa3cefac1d57": {
    "icerik": {
     "ana_kutu": [
@@ -19962,6 +20259,32 @@
      },
      "t": "2026-11-09T16:37:11+03:00"
     },
+    "r1:c6db56e0ca60:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber sağlık bakanının açıklamasıyla ilgilidir, halk oyunları ekibi fotoğrafı tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "konuşma kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:37:40+03:00"
+    },
     "r1:e6f55c815c8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -20002,7 +20325,7 @@
     "dh": "5752767945d5d5a5",
     "sha": "4340bc919e0e56f3aeb6b675"
    },
-   "t": "2026-11-09T16:37:11+03:00",
+   "t": "2026-11-09T22:37:40+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -37915,9 +38238,39 @@
       "yasak": []
      },
      "t": "2026-11-08T14:04:28+03:00"
+    },
+    "r1:c88bc2c2f478:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otogar fotoğrafı, üst düzey bir iklim zirvesi haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "Antalya",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:04:28+03:00",
+   "ozet": {
+    "dh": "09910d4c2c250705",
+    "sha": "a58427ea936724bb425eb605"
+   },
+   "t": "2026-11-09T22:36:27+03:00",
    "teknik": {
     "doygunluk": 14.3,
     "inen": [
@@ -39668,6 +40021,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Lyrbe_Seleukia_Ancient_City_Ruins.jpg/1280px-Lyrbe_Seleukia_Ancient_City_Ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "83e3189bd62375d2": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     34,
+     966,
+     965
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yazi",
+     "logo",
+     "afis"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eco Amritsar 2017 baslikli afis",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "cevre haberleri",
+     "ekoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "saglik haberleri",
+     "bakanlik aciklamasi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c6db56e0ca60:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Afis niteligindeki bu gorsel bakanin aciklamasiyla ve Antalya'daki yesil hastane konusuyla ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "konusma kursusu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:37:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3131dac8d8dc6144",
+    "sha": "e7f90a3378a6ef9fb6d1ce05"
+   },
+   "t": "2026-11-09T22:37:50+03:00",
+   "teknik": {
+    "doygunluk": 20.9,
+    "inen": [
+     500,
+     259
+    ],
+    "karanlik_oran": 0.012,
+    "keskinlik": 2560,
+    "kontrast": 49,
+    "medyan": 248,
+    "parlaklik": 223,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/EcoSikh_30JuneBackdrop%28framed%29_%287513578504%29.jpg/1280px-EcoSikh_30JuneBackdrop%28framed%29_%287513578504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "83ed6e08b62540ec": {
    "icerik": {
     "ana_kutu": [
@@ -40060,9 +40498,39 @@
       "yasak": []
      },
      "t": "2026-11-08T14:35:22+03:00"
+    },
+    "r1:c88bc2c2f478:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarım faaliyetini göstermekte olup iklim zirvesi haberiyle uysuzdur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:16+03:00"
     }
    },
-   "t": "2026-11-08T14:35:22+03:00",
+   "ozet": {
+    "dh": "4a56869ef4fc1f87",
+    "sha": "7c0fa133905b018218dd499e"
+   },
+   "t": "2026-11-09T22:36:16+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -57308,6 +57776,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Choura_Events_Curved_Beam_Structure_at_Indian_Wells_Tennis_Garden_at_2022_Pickleball_Tournament.jpg/1280px-Choura_Events_Curved_Beam_Structure_at_Indian_Wells_Tennis_Garden_at_2022_Pickleball_Tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c2e9b6089a24969e": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     700,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kumsal",
+     "deniz",
+     "dağ",
+     "çit direkleri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsallı deniz kızı ve arka planda dağlar görünen manzara",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sahil turizmi",
+     "doğa yürüyüşü",
+     "tatil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "plaj futbolu maçı",
+     "spor müsabakası",
+     "futbol turnuvası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:173c0a857d7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta plaj futbolu sahası ve kaleler bulunmuyor, sadece boş bir kumsal ve deniz manzarası var.",
+      "gerekli": [
+       {
+        "unsur": "plaj futbolu sahası",
+        "var": false
+       },
+       {
+        "unsur": "kum saha",
+        "var": true
+       },
+       {
+        "unsur": "kale",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c08080808e060504",
+    "sha": "dfef1080c6007c9db5f8bfe6"
+   },
+   "t": "2026-11-09T22:36:03+03:00",
+   "teknik": {
+    "doygunluk": 57.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.007,
+    "keskinlik": 229,
+    "kontrast": 46,
+    "medyan": 150,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1704649238915-43e3ac06a0bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjBmb290YmFsbCUyMFR1cmtleSUyMHNhbmR8ZW58MXwwfHx8MTc5NDI1MjkzOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "c2f95f9153d091b8": {
    "icerik": {
     "ana_kutu": [
@@ -61888,6 +62452,106 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d1d0e942bdab4f99": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     405,
+     856,
+     560
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "kumsal",
+     "futbol topu",
+     "palmiye",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda futbol oynayan gençler ve arka planda palmiye ağaçları.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "plaj futbolu haberi",
+     "yaz sporları haberi",
+     "tatil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi turnuva haberi",
+     "maç sonucu haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:173c0a857d7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kumsalda futbol oynayan insanları gösteriyor ancak profesyonel plaj futbolu sahası ve kalesi bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "plaj futbolu sahası",
+        "var": true
+       },
+       {
+        "unsur": "kum saha",
+        "var": true
+       },
+       {
+        "unsur": "kale",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       317,
+       858,
+       584
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:35:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "281231a2a2c6bd78",
+    "sha": "d64a656ddf16ef0b7894c84b"
+   },
+   "t": "2026-11-09T22:35:34+03:00",
+   "teknik": {
+    "doygunluk": 27.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.066,
+    "keskinlik": 1907,
+    "kontrast": 62,
+    "medyan": 195,
+    "parlaklik": 172,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1543746746-46047c4f4bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjBzb2NjZXIlMjBtYXRjaHxlbnwxfDB8fHwxNzk0MjUyOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "d1d7fc3f98f2a70f": {
    "t": "2026-11-08T13:07:23+03:00",
@@ -68486,9 +69150,39 @@
       "yasak": []
      },
      "t": "2026-11-08T14:04:28+03:00"
+    },
+    "r1:c88bc2c2f478:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da bir antik kent görünümü sunsa da zirve haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:04:28+03:00",
+   "ozet": {
+    "dh": "a8e19b50a425c820",
+    "sha": "6b627a6da6f00542496c506b"
+   },
+   "t": "2026-11-09T22:36:27+03:00",
    "teknik": {
     "doygunluk": 15.1,
     "inen": [
@@ -70229,6 +70923,37 @@
      },
      "t": "2026-11-08T14:04:20+03:00"
     },
+    "r1:c88bc2c2f478:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya manzarasını gösteriyor ancak iklim zirvesi veya salon görünümü içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalya",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:27+03:00"
+    },
     "r1:d6d2afc555e0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -70260,7 +70985,11 @@
      "t": "2026-11-08T12:38:57+03:00"
     }
    },
-   "t": "2026-11-08T14:04:28+03:00",
+   "ozet": {
+    "dh": "792dfb99c3031b8b",
+    "sha": "25d2b6899805d79acd170234"
+   },
+   "t": "2026-11-09T22:36:27+03:00",
    "teknik": {
     "doygunluk": 41.0,
     "inen": [
@@ -72182,9 +72911,39 @@
       "yasak": []
      },
      "t": "2026-11-08T14:35:22+03:00"
+    },
+    "r1:c88bc2c2f478:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf iklim zirvesiyle ilgisiz kırsal bir tarım alanını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T22:36:16+03:00"
     }
    },
-   "t": "2026-11-08T14:35:22+03:00",
+   "ozet": {
+    "dh": "9e9e7eca995f266a",
+    "sha": "2d47a767f82f54cbd51c756d"
+   },
+   "t": "2026-11-09T22:36:16+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
