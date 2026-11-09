@@ -1,0 +1,902 @@
+aciklama: 'Doğrulanmış görsel arşivi (t1). Her kayıt: kimlik, kullanım bağlamı (anahtar: başlıkta ya da spotta geçmeli; gerekli: ayrıca geçmesi gereken bağlam; yasak: varsa kullanılmaz), kullanıcı önceliği (2 kişi, 3 kurum/takım/tesis/logo, 4 konu, 5 yer), lisans ve atıf. ''kutuphane'' alanı olanların görsel ve kaynak bilgisi Gemini ile doğrulanmış görsel kütüphanesinden okunur. Commons kayıtları editör tarafından görsel olarak incelendi; lisans Commons dosya sayfasından alındı. Bilinen yanlış (ret kaydı/inceleme) fotoğraflar hiçbir habere verilmez.'
+kayitlar:
+- id: ataturk-1
+  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+  sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+  boyut:
+  - 2291
+  - 3091
+  lisans: Public domain
+  lisans_dayanagi: ''
+  fotografci: bilinmiyor
+  yil: 1923
+  sinif: kisi
+  grup: ataturk
+  oncelik: 2
+  kimlik: Mustafa Kemal Atatürk
+  anahtar: &id001
+  - atatürk
+  - 10 kasım
+  - ata'yı
+  - atamızı
+  - ulu önder
+  gerekli: &id002
+  - anma
+  - 10 kasım
+  - saygı
+  - ebediyete
+  - vefat
+  - ölüm yıl
+  - yıl dönümü
+  - yıldönümü
+  - özlem
+  - ulu önder
+  - atamızı
+  - ata'yı
+  yasak: &id003
+  - caddesi
+  - bulvarı
+  - stadyumu
+  - havalimanı
+  - kültür merkezi
+  - parkı
+  - lisesi
+  - ilkokulu
+  - ortaokulu
+  - mahallesi
+  - meydanı
+  - anıtı
+  yuzler:
+  - - 380
+    - 170
+    - 640
+    - 400
+  ana_kutu:
+  - 250
+  - 60
+  - 750
+  - 700
+  sahne: portre
+  aciklama: Mustafa Kemal Atatürk (1923)
+- id: ataturk-2
+  url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Mustafa_Kemal_Atat%C3%BCrk_.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_.jpg
+  boyut:
+  - 552
+  - 615
+  lisans: Public domain
+  lisans_dayanagi: ''
+  fotografci: Etem Tem
+  yil: 1926
+  sinif: kisi
+  grup: ataturk
+  oncelik: 2
+  kimlik: Mustafa Kemal Atatürk
+  anahtar: *id001
+  gerekli: *id002
+  yasak: *id003
+  yuzler:
+  - - 400
+    - 80
+    - 650
+    - 380
+  ana_kutu:
+  - 250
+  - 40
+  - 800
+  - 800
+  sahne: portre
+  aciklama: Mustafa Kemal Atatürk (1926)
+- id: ataturk-anit-antalya
+  url: https://upload.wikimedia.org/wikipedia/commons/a/af/Antalya_Equestrian_statue_of_Atat%C3%BCrk_in_2012_23.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Equestrian_statue_of_Atat%C3%BCrk_in_2012_23.jpg
+  boyut:
+  - 4256
+  - 2832
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Dosseman
+  yil: 2012
+  sinif: tesis
+  oncelik: 1.5
+  kimlik: Antalya Cumhuriyet Meydanı Atatürk Anıtı
+  anahtar:
+  - atatürk anıtı
+  - cumhuriyet meydanı
+  gerekli:
+  - anma
+  - 10 kasım
+  - tören
+  - çelenk
+  - saygı
+  ana_kutu:
+  - 250
+  - 50
+  - 800
+  - 1000
+  sahne: anit
+  aciklama: Antalya Cumhuriyet Meydanı'ndaki Atatürk Anıtı (2012)
+- id: kisi-f5cf3f
+  kutuphane: f5cf3f426287460c
+  sinif: kisi
+  oncelik: 2
+  kimlik: Muhittin Böcek
+  anahtar:
+  - muhittin böcek
+  - başkan böcek
+  - böcek'in
+  - böcek'e
+  - böcek'ten
+  - böcek'ten
+  tam: false
+  sahne: portre
+  aciklama: Muhittin Böcek — arşiv fotoğrafı
+- id: kisi-69b99e
+  kutuphane: 69b99e6cccf3be2b
+  sinif: kisi
+  oncelik: 2
+  kimlik: Murat Kurum
+  anahtar:
+  - murat kurum
+  - bakan kurum
+  - cop31 başkanı kurum
+  tam: false
+  sahne: portre
+  aciklama: Murat Kurum — arşiv fotoğrafı
+- id: kisi-f8666b
+  kutuphane: f8666bf6374effb3
+  sinif: kisi
+  oncelik: 2
+  kimlik: Ali Babacan
+  anahtar:
+  - ali babacan
+  tam: false
+  sahne: portre
+  aciklama: Ali Babacan — arşiv fotoğrafı
+- id: kisi-5647d4
+  kutuphane: 5647d4a1fa6bc60b
+  sinif: kisi
+  oncelik: 2
+  kimlik: Friedrich Merz
+  anahtar:
+  - friedrich merz
+  - merz
+  tam: false
+  sahne: portre
+  aciklama: Friedrich Merz — arşiv fotoğrafı
+- id: kisi-997adb
+  kutuphane: 997adbd1ced94a69
+  sinif: kisi
+  oncelik: 2
+  kimlik: Nikol Paşinyan
+  anahtar:
+  - paşinyan
+  - pashinyan
+  tam: false
+  sahne: portre
+  aciklama: Nikol Paşinyan — arşiv fotoğrafı
+- id: kisi-215347
+  kutuphane: 2153472d6e084830
+  sinif: kisi
+  oncelik: 2
+  kimlik: Han Zheng
+  anahtar:
+  - han zheng
+  - han cıng
+  - han çing
+  tam: false
+  sahne: portre
+  aciklama: Han Zheng — arşiv fotoğrafı
+- id: iyiparti-logo
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Iyi_parti_logo.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Iyi_parti_logo.jpg
+  boyut:
+  - 620
+  - 350
+  lisans: Public domain
+  lisans_dayanagi: ''
+  fotografci: İYİ Parti
+  yil: 2018
+  sinif: logo
+  oncelik: 3
+  kimlik: İYİ Parti logosu
+  anahtar:
+  - iyi parti
+  sahne: logo
+  zemin: '#FFFFFF'
+  aciklama: İYİ Parti logosu
+- id: greenpeace-logo
+  url: https://upload.wikimedia.org/wikipedia/commons/6/69/Greenpeace_logo.svg
+  sayfa: https://commons.wikimedia.org/wiki/File:Greenpeace_logo.svg
+  boyut:
+  - 677
+  - 105
+  lisans: Public domain
+  lisans_dayanagi: ''
+  fotografci: Stichting Greenpeace Council
+  yil: 1980
+  sinif: logo
+  oncelik: 3
+  kimlik: Greenpeace logosu
+  anahtar:
+  - greenpeace
+  sahne: logo
+  zemin: '#FFFFFF'
+  aciklama: Greenpeace logosu
+- id: abb-logo
+  url: https://upload.wikimedia.org/wikipedia/commons/7/73/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_Logo.png
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_Logo.png
+  boyut:
+  - 600
+  - 203
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Scooder treni
+  yil: 2022
+  sinif: logo
+  grup: abb
+  oncelik: 3
+  kimlik: Antalya Büyükşehir Belediyesi logosu
+  anahtar:
+  - antalya büyükşehir belediyesi
+  - büyükşehir belediyesi
+  sahne: logo
+  zemin: '#FFFFFF'
+  aciklama: Antalya Büyükşehir Belediyesi logosu
+- id: abb-bina
+  url: https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+  boyut:
+  - 3264
+  - 2448
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  fotografci: Cobija
+  yil: 2014
+  sinif: kurum
+  grup: abb
+  oncelik: 3
+  kimlik: Antalya Büyükşehir Belediyesi hizmet binası
+  anahtar:
+  - antalya büyükşehir belediyesi
+  - büyükşehir belediyesi
+  ana_kutu:
+  - 150
+  - 150
+  - 850
+  - 850
+  sahne: bina
+  aciklama: Antalya Büyükşehir Belediyesi binası (2014)
+- id: akdeniz-logo
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Akdeniz_University_logo_in_Turkish.png
+  sayfa: https://commons.wikimedia.org/wiki/File:Akdeniz_University_logo_in_Turkish.png
+  boyut:
+  - 500
+  - 500
+  lisans: Public domain
+  lisans_dayanagi: ''
+  fotografci: Akdeniz Üniversitesi
+  yil: 2014
+  sinif: logo
+  grup: akdeniz
+  oncelik: 3
+  kimlik: Akdeniz Üniversitesi logosu
+  anahtar:
+  - akdeniz üniversitesi
+  sahne: logo
+  zemin: '#FFFFFF'
+  aciklama: Akdeniz Üniversitesi logosu
+- id: akdeniz-bina
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg
+  boyut:
+  - 968
+  - 618
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Enessubasi33
+  yil: 2021
+  sinif: kurum
+  grup: akdeniz
+  oncelik: 3
+  kimlik: Akdeniz Üniversitesi yerleşkesi
+  anahtar:
+  - akdeniz üniversitesi
+  sahne: bina
+  aciklama: Akdeniz Üniversitesi yerleşkesi (2021)
+- id: iranairtour
+  url: https://upload.wikimedia.org/wikipedia/commons/0/02/Iran_Airtour%2C_EP-MDE%2C_McDonnell_Douglas_MD-82_%2839055988355%29.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Iran_Airtour%2C_EP-MDE%2C_McDonnell_Douglas_MD-82_%2839055988355%29.jpg
+  boyut:
+  - 1200
+  - 800
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  fotografci: Anna Zvereva
+  yil: 2018
+  sinif: kurum
+  oncelik: 3
+  kimlik: Iran Airtour uçağı
+  anahtar:
+  - iran airtour
+  ana_kutu:
+  - 50
+  - 350
+  - 950
+  - 800
+  sahne: nesne
+  aciklama: Iran Airtour'a ait bir yolcu uçağı (2018)
+- id: kut-7bf56c
+  kutuphane: 7bf56c54c2aa1113
+  sinif: kurum
+  oncelik: 3
+  kimlik: SunExpress uçağı
+  anahtar:
+  - sunexpress
+  sahne: bina
+  aciklama: SunExpress'e ait bir yolcu uçağı — arşiv fotoğrafı
+- id: kut-a89342
+  kutuphane: a893427f5dd019e8
+  sinif: tesis
+  oncelik: 3
+  kimlik: Antalya Havalimanı
+  anahtar:
+  - antalya havalimanı
+  sahne: bina
+  aciklama: Antalya Havalimanı — arşiv fotoğrafı
+- id: kut-32f8aa
+  kutuphane: 32f8aa3cefac1d57
+  sinif: tesis
+  oncelik: 3
+  kimlik: Gazipaşa-Alanya Havalimanı
+  anahtar:
+  - gazipaşa-alanya havalimanı
+  - gazipaşa alanya havalimanı
+  - gazipaşa havalimanı
+  sahne: bina
+  aciklama: Gazipaşa-Alanya Havalimanı — arşiv fotoğrafı
+- id: kut-9739b7
+  kutuphane: 9739b7def5f35438
+  sinif: tesis
+  oncelik: 3
+  kimlik: Antalya Arkeoloji Müzesi
+  anahtar:
+  - antalya müzesi
+  - arkeoloji müzesi
+  - antalya arkeoloji
+  sahne: bina
+  aciklama: Antalya Arkeoloji Müzesi — arşiv fotoğrafı
+  grup: muze
+- id: kut-56426e
+  kutuphane: 56426e87a6dc039d
+  sinif: tesis
+  oncelik: 3
+  kimlik: Antalya Arkeoloji Müzesi'nde Roma dönemi lahdi
+  anahtar:
+  - nekropol müzesi
+  sahne: bina
+  aciklama: Antalya Arkeoloji Müzesi'nde Roma dönemi bir lahit — arşiv fotoğrafı
+- id: kut-cd9201
+  kutuphane: cd9201a305a94e01
+  sinif: takim
+  oncelik: 3
+  kimlik: Antalya Stadyumu
+  anahtar:
+  - antalyaspor
+  - antalya stadyumu
+  - corendon airlines park
+  sahne: bina
+  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
+- id: kut-a570d6
+  kutuphane: a570d611cb5da5c1
+  sinif: tesis
+  oncelik: 3
+  kimlik: Kızılkule
+  anahtar:
+  - kızılkule
+  sahne: bina
+  aciklama: Alanya Kızılkule — arşiv fotoğrafı
+- id: kut-2bab64
+  kutuphane: 2bab64f9a257b8aa
+  sinif: tesis
+  oncelik: 3
+  kimlik: Side Antik Kenti
+  anahtar:
+  - side antik
+  sahne: bina
+  aciklama: Side Antik Kenti — arşiv fotoğrafı
+- id: kut-d87599
+  kutuphane: d87599fb5e6cc597
+  sinif: tesis
+  oncelik: 3
+  kimlik: Antalya Lisesi
+  anahtar:
+  - antalya lisesi
+  sahne: bina
+  aciklama: Antalya Lisesi binası — arşiv fotoğrafı
+- id: kut-42d9bc
+  kutuphane: 42d9bccf79c236b4
+  sinif: kurum
+  oncelik: 3
+  kimlik: Antalya Ticaret ve Sanayi Odası
+  anahtar:
+  - antalya ticaret ve sanayi odası
+  - atso
+  sahne: bina
+  aciklama: Antalya Ticaret ve Sanayi Odası binası — arşiv fotoğrafı
+  tam: true
+- id: kut-a313d1
+  kutuphane: a313d17130bb7821
+  sinif: tesis
+  oncelik: 3
+  kimlik: Anıtkabir
+  anahtar:
+  - anıtkabir
+  sahne: bina
+  aciklama: Anıtkabir — arşiv fotoğrafı
+- id: muze-ic
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Dancing_Woman_Antalya_Museum_P9281518.jpg
+  boyut:
+  - 3706
+  - 2965
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  fotografci: Joe Wallace
+  yil: 2022
+  sinif: tesis
+  grup: muze
+  oncelik: 3
+  kimlik: Antalya Arkeoloji Müzesi sergi salonu
+  anahtar:
+  - antalya müzesi
+  - arkeoloji müzesi
+  - müze
+  - müzeler
+  - ören yeri
+  - ören yerleri
+  ana_kutu:
+  - 150
+  - 100
+  - 850
+  - 950
+  sahne: mekan
+  aciklama: Antalya Arkeoloji Müzesi sergi salonu (2022)
+- id: tramvay-antalya
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
+  boyut:
+  - 3573
+  - 2659
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  fotografci: Sharon Hahn Darlin
+  yil: 2022
+  sinif: tesis
+  oncelik: 3
+  kimlik: Antalya tramvayı
+  anahtar:
+  - tramvay
+  - antray
+  yasak:
+  - istanbul
+  - izmir
+  - kocaeli
+  - kayseri
+  - konya
+  - eskişehir
+  - samsun
+  - bursa
+  - gaziantep
+  ana_kutu:
+  - 200
+  - 250
+  - 900
+  - 850
+  sahne: nesne
+  aciklama: Antalya tramvayı (2022)
+- id: piyaz
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  boyut:
+  - 1920
+  - 1920
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  fotografci: Basak
+  yil: 2024
+  sinif: konu
+  grup: gastronomi
+  oncelik: 4
+  kimlik: Tahinli Antalya piyazı
+  anahtar:
+  - gastronomi
+  - mutfağı
+  - antalya mutfağı
+  - yöresel lezzet
+  - yöresel yemek
+  - yemek kültürü
+  - piyaz
+  ana_kutu:
+  - 150
+  - 150
+  - 850
+  - 850
+  sahne: nesne
+  aciklama: Tahinli Antalya piyazı (temsilî)
+  yerel: true
+- id: kut-bb36e4
+  kutuphane: bb36e43b357239de
+  sinif: konu
+  grup: gastronomi
+  oncelik: 4
+  kimlik: yöresel yemekler
+  anahtar:
+  - gastronomi
+  - mutfağı
+  - antalya mutfağı
+  - yöresel lezzet
+  - yöresel yemek
+  - yemek kültürü
+  - piyaz
+  sahne: nesne
+  aciklama: Yöresel yemekler (temsilî)
+  yerel: true
+- id: kut-f58cec
+  kutuphane: f58cececdacc8e78
+  sinif: konu
+  grup: gastronomi
+  oncelik: 4
+  kimlik: yöresel yemekler
+  anahtar:
+  - gastronomi
+  - mutfağı
+  - antalya mutfağı
+  - yöresel lezzet
+  - yöresel yemek
+  - yemek kültürü
+  - piyaz
+  sahne: nesne
+  aciklama: Yöresel yemekler (temsilî)
+  yerel: true
+- id: sera-antalya
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:AntalyaGreenhousesForVegetablesAndFruits.jpg
+  boyut:
+  - 1536
+  - 1024
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Claude Valette
+  yil: 2011
+  sinif: konu
+  oncelik: 4
+  kimlik: Antalya'da seralar ve tarım arazileri
+  anahtar:
+  - sera
+  - seracılık
+  - örtü altı
+  - tarım arazi
+  - tarım arazisi
+  - tarım arazileri
+  - tarımsal üretim
+  sahne: manzara
+  aciklama: Antalya'da seralar (2011)
+  baslikta: true
+  yerel: true
+- id: pickleball
+  url: https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:A_pickleball_paddle_with_two_pickleballs.jpg
+  boyut:
+  - 2560
+  - 3936
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: OvertAnalyzer
+  yil: 2022
+  sinif: konu
+  oncelik: 4
+  kimlik: pickleball raketi ve topları
+  anahtar:
+  - pickleball
+  ana_kutu:
+  - 200
+  - 150
+  - 850
+  - 900
+  sahne: nesne
+  aciklama: Pickleball raketi ve topları (temsilî)
+- id: losemi
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
+  boyut:
+  - 2048
+  - 1532
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  fotografci: Mikael Häggström
+  yil: 2022
+  sinif: konu
+  oncelik: 4
+  kimlik: lösemi hücrelerinin mikroskop görüntüsü
+  anahtar:
+  - lösemi
+  - hematoloji
+  - kan kanseri
+  sahne: nesne
+  aciklama: Lösemide kan yayması, mikroskop görüntüsü (temsilî)
+- id: otel-lara
+  url: https://upload.wikimedia.org/wikipedia/commons/4/47/Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
+  boyut:
+  - 2048
+  - 1536
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  fotografci: Abdullah Kıyga
+  yil: 2016
+  sinif: konu
+  oncelik: 4
+  kimlik: Antalya'da bir otel
+  anahtar:
+  - oteller
+  - otelciler
+  - otelcilik
+  - otel sektörü
+  - otel doluluk
+  - konaklama tesisleri
+  yasak:
+  - soruşturma
+  - dava
+  - iflas
+  - icra
+  - yangın
+  - kaza
+  - öldü
+  - yatırım
+  - çed
+  - kapasite
+  - sonlandır
+  - kapan
+  - satış
+  - satıl
+  ana_kutu:
+  - 100
+  - 150
+  - 900
+  - 900
+  sahne: bina
+  aciklama: Antalya Lara'da bir otel (temsilî)
+  yerel: true
+- id: kut-taksi
+  kutuphane: f0d7d258667b996a
+  sinif: konu
+  oncelik: 4
+  kimlik: Antalya'da taksi durağı
+  anahtar:
+  - taksi
+  - taksici
+  sahne: nesne
+  aciklama: Antalya'da bir taksi durağı (temsilî)
+  yerel: true
+- id: cop31-expo-1
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  boyut:
+  - 5200
+  - 3468
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Hendric Stattmann
+  yil: 2016
+  sinif: yer
+  grup: cop31
+  oncelik: 5
+  kimlik: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  anahtar: &id004
+  - cop31
+  - cop 31
+  - iklim zirvesi
+  - iklim değişikliği konferansı
+  - expo alanı
+  - expo 2016
+  ana_kutu:
+  - 150
+  - 250
+  - 900
+  - 950
+  sahne: manzara
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
+  baslikta: false
+- id: cop31-expo-2
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
+  boyut:
+  - 2927
+  - 4390
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Hendric Stattmann
+  yil: 2016
+  sinif: yer
+  grup: cop31
+  oncelik: 5
+  kimlik: EXPO 2016 Antalya alanı, Expo Kulesi
+  anahtar: *id004
+  ana_kutu:
+  - 300
+  - 80
+  - 700
+  - 900
+  sahne: yapi
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
+  baslikta: false
+- id: kut-expo
+  kutuphane: 80e7030514812c2e
+  sinif: yer
+  grup: cop31
+  oncelik: 5
+  kimlik: EXPO 2016 Antalya alanı
+  anahtar: *id004
+  sahne: manzara
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  baslikta: false
+- id: alanya-kleopatra
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  boyut:
+  - 5870
+  - 3913
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  fotografci: Julian Lupyan
+  yil: 2024
+  sinif: yer
+  grup: alanya
+  oncelik: 5
+  kimlik: Alanya Kleopatra Plajı ve turistik bölge
+  anahtar:
+  - alanya
+  gerekli: &id005
+  - turizm
+  - turist
+  - otel
+  - tatilci
+  - plaj
+  - sahil
+  - ziyaretçi
+  - konaklama
+  - nüfus
+  - il olma
+  - milli gelir
+  - kişi başı
+  - yaşam kalitesi
+  sahne: manzara
+  aciklama: Alanya, Kleopatra Plajı (2024)
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
+- id: kut-alanya
+  kutuphane: 9cf59f6b7a7c331e
+  sinif: yer
+  grup: alanya
+  oncelik: 5
+  kimlik: Alanya'nın turistik merkezi
+  anahtar:
+  - alanya
+  gerekli: *id005
+  sahne: manzara
+  aciklama: Alanya, kaleden liman ve sahil — arşiv fotoğrafı
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
+- id: antalya-kaleici
+  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
+  boyut:
+  - 4608
+  - 3456
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: REHBER0770
+  yil: 2018
+  sinif: yer
+  grup: antalya
+  genel: true
+  oncelik: 5
+  kimlik: Antalya Kaleiçi ve tarihi liman
+  anahtar:
+  - antalya
+  gerekli: *id005
+  sahne: manzara
+  aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
+- id: antalya-konyaalti
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  boyut:
+  - 4080
+  - 3072
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: FingerWiki
+  yil: 2023
+  sinif: yer
+  grup: antalya
+  genel: true
+  oncelik: 5
+  kimlik: Konyaaltı Sahili ve Beydağları
+  anahtar:
+  - antalya
+  - konyaaltı
+  gerekli: *id005
+  sahne: manzara
+  aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
+- id: manavgat-selale
+  url: https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_Waterfall_%281%29_Red.jpg
+  boyut:
+  - 4288
+  - 2848
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  fotografci: Daniel Åhs Karlsson
+  yil: 2013
+  sinif: yer
+  oncelik: 5
+  kimlik: Manavgat Şelalesi
+  anahtar:
+  - manavgat
+  gerekli:
+  - turizm
+  - turist
+  - otel
+  - tatilci
+  - plaj
+  - sahil
+  - ziyaretçi
+  - konaklama
+  - nüfus
+  - il olma
+  - milli gelir
+  - kişi başı
+  - yaşam kalitesi
+  - şelale
+  sahne: manzara
+  aciklama: Manavgat Şelalesi (2013)
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
+- id: kas-liman
+  url: https://upload.wikimedia.org/wikipedia/commons/6/62/Ka%C5%9F%2C_A%C4%9Fustos_2015_Liman%27dan_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
+  sayfa: https://commons.wikimedia.org/wiki/File:Ka%C5%9F%2C_A%C4%9Fustos_2015_Liman%27dan_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
+  boyut:
+  - 5312
+  - 2988
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  fotografci: Esginmurat
+  yil: 2015
+  sinif: yer
+  oncelik: 5
+  kimlik: Kaş limanı
+  anahtar:
+  - kaş
+  tam: true
+  gerekli: *id005
+  sahne: manzara
+  aciklama: Kaş limanı (2015)
+  yasak_kategoriler:
+  - Spor
+  - Asayiş
+  yerel: true
