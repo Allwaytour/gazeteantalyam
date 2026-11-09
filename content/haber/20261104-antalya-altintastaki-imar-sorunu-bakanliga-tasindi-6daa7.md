@@ -114,6 +114,7 @@ etiketler:
 - Berkay Bahar
 - Antalya Ticaret ve Sanayi Odası
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-altintastaki-imar-sorunu-bakanliga-tasindi-6daa7-fb885496.jpg
 ---
 Antalya Ticaret ve Sanayi Odası, Aksu ilçesi Altıntaş Bölgesi’nde uzun süredir devam eden imar ve parselasyon problemlerinin çözüme kavuşturulması amacıyla çalışma başlattı. Oda yönetimi tarafından hazırlanan kapsamlı rapor, Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum’a iletilerek destek istendi.
 

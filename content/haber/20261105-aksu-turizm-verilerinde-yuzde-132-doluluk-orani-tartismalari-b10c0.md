@@ -119,6 +119,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Lara_Family_Club_Hotel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 etiketler:
 - Kültür ve Turizm Bakanlığı
+gorsel_yedek: /images/haber-gorsel/20261105-aksu-turizm-verilerinde-yuzde-132-doluluk-orani-tartismalari--fdf9931e.jpg
 ---
 Antalya'nın turizm merkezlerinden Aksu'da, 2026 yılının ilk sekiz ayına ait konaklama istatistikleri dikkat çekici bir tabloyu ortaya koydu. Kültür ve Turizm Bakanlığı verilerine dayanan analizlere göre, ilçedeki basit konaklama belgeli otellerin doluluk oranı yüzde 132,43 seviyesine ulaştı. Ancak bu artışa rağmen, ilçedeki toplam geceleme sayısında bir önceki yılın aynı dönemine göre yaklaşık yüzde 2'lik bir düşüş yaşanarak 4 milyon 272 bin 638 seviyesine gerilediği görüldü.
 

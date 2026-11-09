@@ -2,53 +2,42 @@
 title: Gazipaşa Kahyalar Toptancı Hali Yeni Hizmet Binasına Kavuşuyor
 date: '2026-11-04T19:51:01+03:00'
 ozet: Gazipaşa Belediyesi, Kahyalar Toptancı Hali’nin koşullarını iyileştirmek ve kapasitesini artırmak amacıyla yeni bir ek hizmet binası inşa ediyor.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-gazipasa-kahyalar-toptanci-hali-yeni-hizmet-binasina-kavusuy--93978407.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler:
 - Gazipaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-gazipasa-kahyalar-toptanci-hali-yeni-hizmet-binasina-kavusuy--93978407.jpg
   konu_imza: 9826b4190e61
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:30:24+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Yılmaz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Gazipaşa Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kahyalar Toptancı Hali'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kahyalar Toptancı Hali'' için konuyla (construction site, wholesale market, building construction) ilişkili lisanslı fotoğraf bulunamadı; ''yeni hizmet binası inşaatı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: toptancı hali, wholesale market facility)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Huanan_Seafood_Wholesale_Market.png
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://unsplash.com/photos/assorted-color-clothes-LNqX_PcO4II
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:DUBLIN_CITY_FRUIT_AND_VEGETABLE_WHOLESALE_MARKETS_(TO_BE_REDEVELOPED)-159574.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mehmet Ali Yılmaz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Gazipaşa Belediyesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kahyalar Toptancı Hali'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Kahyalar Toptancı Hali'' için konuyla (construction site, wholesale market, building construction) ilişkili lisanslı fotoğraf bulunamadı; ''yeni hizmet binası inşaatı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: toptancı hali, wholesale market facility)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:Huanan_Seafood_Wholesale_Market.png
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://unsplash.com/photos/assorted-color-clothes-LNqX_PcO4II
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:DUBLIN_CITY_FRUIT_AND_VEGETABLE_WHOLESALE_MARKETS_(TO_BE_REDEVELOPED)-159574.jpg
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -62,6 +51,27 @@ gorsel_onceki:
 etiketler:
 - Mehmet Ali Yılmaz
 - Gazipaşa Belediyesi
+gorsel_yedek: /images/haber-gorsel/20261104-gazipasa-kahyalar-toptanci-hali-yeni-hizmet-binasina-kavusuy--93978407.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-gazipasa-kahyalar-toptanci-hali-yeni-hizmet-binasina-kavusuy--93978407.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya’nın Gazipaşa ilçesinde, belediye tarafından esnaf ve üreticilerin talepleri doğrultusunda planlanan Kahyalar Toptancı Hali için yeni ek hizmet binası yapım çalışmaları hızla sürüyor. Yapılan projeyle bölgedeki ticaret koşullarının daha modern bir yapıya kavuşturulması hedefleniyor.
 

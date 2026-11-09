@@ -2,31 +2,29 @@
 title: AntGİAD heyeti Meclis'te Antalya ve iş dünyasını görüştü
 date: '2026-11-03T16:54:49+03:00'
 ozet: Antalya Genç İş İnsanları Derneği yönetimi, Ankara temasları kapsamında TBMM'de Antalya milletvekilleriyle bir araya geldi.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:43+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
   konu_imza: b9fd123c24b5
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır; mikrofon/kürsü gibi genel dolgu görseli
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır; mikrofon/kürsü gibi genel dolgu görseli
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -149,6 +147,27 @@ gorsel_gecmis:
 etiketler:
 - Antalya Genç İş İnsanları Derneği
 - TBMM
+gorsel_yedek: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara'daki temasları çerçevesinde Türkiye Büyük Millet Meclisi'ni ziyaret etti. Dernek başkanı ve beraberindeki heyet, AK Parti Antalya milletvekilleri Mustafa Köse, İbrahim Ethem Taş, Kemal Çelik ve Atay Uslu ile görüştü.
 

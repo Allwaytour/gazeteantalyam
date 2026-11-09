@@ -2,8 +2,8 @@
 title: Gazipaşa'da şarampole devrilen otomobilin sürücüsü ağır yaralandı
 date: '2026-11-01T12:44:43+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde kontrolden çıkarak yaklaşık 100 metrelik şarampole yuvarlanan otomobilin sürücüsü ağır yaralandı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral--f5b59277.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,25 +18,23 @@ kaynak_url: https://www.milliyet.com.tr/yerel-haberler/antalya/gazipasa/sarampol
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyJTIwY3Jhc2glMjBwb2xpY2UlMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MzUyOTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Anthony Maw / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral--f5b59277.jpg
   konu_imza: cad8f7a3bd93
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 gorsel_gecmis:
 - gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Egemen2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
@@ -71,6 +69,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+gorsel_yedek: /images/haber-gorsel/20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral--f5b59277.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-gazipasada-sarampole-devrilen-otomobilin-surucusu-agir-yaral--f5b59277.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Kaza, gece saat 01.00 sularında Gazipaşa'nın Ilıca Mahallesi sınırları içerisinde meydana geldi. Alınan bilgilere göre, Raşit G. yönetimindeki 07 BFK 071 plakalı otomobil, henüz bilinmeyen bir nedenle sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yoldan çıkarak şarampole devrildi. Yaklaşık 100 metre yuvarlanan araçta kaza yaşandı.
 

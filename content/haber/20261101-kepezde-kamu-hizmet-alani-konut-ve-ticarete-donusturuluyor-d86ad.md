@@ -46,6 +46,7 @@ gorsel_secim:
   kurum_notu: Kepez Belediyesi sayfasında bulundu
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-kepezde-kamu-hizmet-alani-konut-ve-ticarete-donusturuluyor-d8-5548ed00.jpg
 ---
 Kepez Belediyesi meclisinin kasım ayı toplantısında, Yenidoğan Mahallesi'ndeki bir taşınmazın imar planı değişikliği ele alınacak. Meclis salonunda gerçekleştirilecek oturumda, ilgili imar komisyonu raporu üyelerin değerlendirmesine sunulacak.
 

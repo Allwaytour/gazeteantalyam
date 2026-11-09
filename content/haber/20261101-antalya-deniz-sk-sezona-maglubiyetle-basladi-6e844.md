@@ -2,32 +2,25 @@
 title: Antalya Deniz SK sezona mağlubiyetle başladı
 date: '2026-11-01T22:12:00+03:00'
 ozet: TFF Kadınlar 2. Ligi B Grubu'nda yer alan Antalya Deniz SK, sahasında konuk ettiği Denizli Sultanlar Spor'a 5-2 yenildi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-antalya-deniz-sk-sezona-maglubiyetle-basladi-6e844-e30bb94d.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-antalya-deniz-sk-sezona-maglubiyetle-basladi-6e844-e30bb94d.jpg
   konu_imza: 1789e39a61ca
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T00:08:07+03:00'
-    yontem: kaynak/arşiv taraması
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -35,6 +28,27 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-deniz-sk-sahasinda-denizli-sultanlarina-5-2-maglup-oldu
+gorsel_yedek: /images/haber-gorsel/20261101-antalya-deniz-sk-sezona-maglubiyetle-basladi-6e844-e30bb94d.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-antalya-deniz-sk-sezona-maglubiyetle-basladi-6e844-e30bb94d.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 TFF Kadınlar 2. Ligi'nde kenti temsil eden tek ekip olan Antalya Deniz Kadın Spor Kulübü, 2026-2027 sezonunun açılış maçında Denizli Sultanlar Spor ile karşı karşıya geldi. Zeytinköy 3 No'lu Saha'da oynanan müsabakayı hakem Fesih Aras yönetirken, yardımcılık görevlerini Ramazan Bozkurt ile Muhammet Karamıklı üstlendi. Yeni sezona kendi sahasında galibiyet parolasıyla çıkan Antalya temsilcisi, sahadan 5-2'lik mağlubiyetle ayrıldı.
 

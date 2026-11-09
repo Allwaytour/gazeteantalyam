@@ -45,6 +45,7 @@ otomatik: true
 yz: true
 kaynak: Anadolu Ajansı
 kaynak_url: https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-turizmine-katkisinin-2027de-surmesi-bekleniyor/4107106
+gorsel_yedek: /images/haber-gorsel/20261103-antalyada-cop31-heyecani-turizme-katkisi-surecek-100d4-b4ce445d.jpg
 ---
 Türkiye'nin ilk kez ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) Antalya'da gerçekleştirilecek olması, turizm sektöründe büyük bir heyecan yarattı. Kentteki konaklama ve turizm altyapısının bu büyüklükteki uluslararası organizasyonları rahatlıkla ağırlayabilecek kapasitede olduğu belirtilirken, hazırlık çalışmalarına yönelik kapsamlı adımlar atılıyor.
 

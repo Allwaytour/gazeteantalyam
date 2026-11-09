@@ -152,6 +152,7 @@ gorsel_yerlesim:
   o_kart: 50% 24%
   o_kart_p: 14% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-antalyada-erisilebilirlik-calismalari-ve-yeni-projeler-masay--f675d659.jpg
 ---
 Antalya Büyükşehir Belediyesi Engelsiz Hizmet Komisyonu, engelli bireylerin sosyal yaşama katılımını desteklemek amacıyla yeni bir toplantı gerçekleştirdi. Büyükşehir Belediyesi toplantı salonunda, Sosyal Hizmetler Dairesi Başkanlığı koordinasyonunda düzenlenen 15'inci toplantıda kent genelindeki erişilebilirlik çalışmaları masaya yatırıldı. Toplantıda ayrıca 2026-2027 döneminde hayata geçirilmesi planlanan projeler de görüşüldü.
 

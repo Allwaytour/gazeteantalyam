@@ -2,8 +2,8 @@
 title: Alanya'da millî teknoloji ve savunma sanayisi için iş birliği adımı
 date: '2026-11-01T13:17:00+03:00'
 ozet: Alanya'da gerçekleştirilen ziyarette, gençlerin savunma sanayisi ve teknoloji alanında üretici konuma gelmesi için ortak projeler ele alındı.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-alanyada-milli-teknoloji-ve-savunma-sanayisi-icin-is-birligi--95b0aa82.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 gorsel_v4: true
 kategoriler:
 - Eğitim
@@ -16,25 +16,23 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanyada-milli-teknoloji-icin-is-birligi-gorusmesi
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-alanyada-milli-teknoloji-ve-savunma-sanayisi-icin-is-birligi--95b0aa82.jpg
   konu_imza: 26e9e0aa138f
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1784869054223-62729f8bea67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c3R1ZGVudHMlMjB0ZWNobm9sb2d5JTIwY2xhc3Nyb29tJTIwcm9ib3RpY3N8ZW58MXwwfHx8MTc5MzUyOTAzOHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: AMONWAT DUMKRUT / Unsplash'
@@ -42,6 +40,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261101-alanyada-milli-teknoloji-ve-savunma-sanayisi-icin-is-birligi--95b0aa82.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-alanyada-milli-teknoloji-ve-savunma-sanayisi-icin-is-birligi--95b0aa82.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye'nin teknoloji alanındaki hedefleri ile millî savunma sanayisinin gelişimine yönelik çalışmalar, Alanya'da düzenlenen bir görüşmede masaya yatırıldı. Toplantıda, ülkenin gelecek vizyonu doğrultusunda yürütülen faaliyetler değerlendirildi.
 

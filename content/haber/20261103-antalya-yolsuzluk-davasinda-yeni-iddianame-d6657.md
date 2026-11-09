@@ -2,36 +2,28 @@
 title: Antalya yolsuzluk davasında yeni iddianame
 date: '2026-11-03T16:12:00+03:00'
 ozet: Antalya'daki yolsuzluk davasında hazırlanan ek iddianameyle sanık sayısı 50'ye yükselirken, duruşmalarda önemli iddialar ve ödeme itirafları yer aldı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
   konu_imza: faad905b28ff
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-03T16:24:56+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Muhittin Böcek'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; ''yolsuzluk davası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya Bölge Adliye Mahkemesi'' için kullanım hakkı doğ'
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Muhittin Böcek'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; ''yolsuzluk davası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya Bölge Adliye Mahkemesi'' için kullanım hakkı doğ'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalya-rusvet-davasinda-30-milyon-liralik-yeni-odeme-itirafi
+gorsel_yedek: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Cumhuriyet Başsavcılığı tarafından yürütülen yolsuzluk soruşturmasında yargılama süreci genişlemeye devam ediyor. Antalya 6'ncı Ağır Ceza Mahkemesi'nde görülen davada hazırlanan 24 sayfalık ek iddianameyle birlikte sanık sayısı 41'den 50'ye çıktı.
 

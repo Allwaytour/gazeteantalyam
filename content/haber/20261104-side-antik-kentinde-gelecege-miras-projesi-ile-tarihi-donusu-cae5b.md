@@ -153,6 +153,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Antalya_Side_Ancient_City_Artifacts.jpg/1280px-Antalya_Side_Ancient_City_Artifacts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261104-side-antik-kentinde-gelecege-miras-projesi-ile-tarihi-donusu--25130ce3.jpg
 ---
 Antalya'nın Manavgat ilçesinde yer alan tarihi Side Antik Kenti, yürütülen kapsamlı çalışmalarla yeniden şekilleniyor. Kültür ve Turizm Bakanlığı öncülüğünde hayata geçirilen proje kapsamında, bölgede çok sayıda noktada kazı, restorasyon ve çevre düzenlemesi yapılıyor.
 

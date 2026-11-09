@@ -2,8 +2,8 @@
 title: ÇYDD Antalya'dan üniversite öğrencilerine kariyer desteği
 date: '2026-11-01T11:38:00+03:00'
 ozet: Çağdaş Yaşamı Destekleme Derneği Antalya Şubesi'nin yürüttüğü Mentorluk Projesi'nin 15. dönemi kapsamında 54 üniversite öğrencisi ve 34 mentör bir araya geldi.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee-e19ecd53.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler:
@@ -18,25 +18,23 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyada-54-universiteliye-cydd-an
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1758270704763-22072a90d3b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dW5pdmVyc2l0eSUyMHN0dWRlbnRzJTIwbWVldGluZyUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzkzNTMxMjgyfDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Vitaly Gariev / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee-e19ecd53.jpg
   konu_imza: 2aa24183e971
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gece_Manzaras%C4%B1..._-_panoramio.jpg/1280px-Gece_Manzaras%C4%B1..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Sinan Şahin / Wikimedia Commons (CC BY 3.0)'
@@ -71,6 +69,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+gorsel_yedek: /images/haber-gorsel/20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee-e19ecd53.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-cydd-antalyadan-universite-ogrencilerine-kariyer-destegi-56ee-e19ecd53.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Üniversite eğitimine devam eden bursiyer gençleri mesleklerinde tecrübe sahibi isimlerle buluşturan Mentorluk Projesi yeni dönem çalışmalarına başladı. Projenin 15. dönemi çerçevesinde mentör ile mentilerin ilk yüz yüze tanışma toplantısı gerçekleştirildi. Şube Koordinatörü Leyla İrten'in koordinasyonunda düzenlenen buluşmada, 54 menti ile 34 mentör yeni çalışma dönemi için bir araya geldi.
 

@@ -46,6 +46,7 @@ kaynak_url: https://www.yenialanya.com/antalya-elmalida-300-milyon-tllik-altyapi
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-elmalida-300-milyon-liralik-icme-suyu-altyapisi-calismasi-su--cc3b8306.jpg
 ---
 Antalya Buyuksehir Belediyesi ASAT Genel Mudurlugu tarafindan Elma'li ilcesinde baslatilan buyuk olcekli altyapi yatirimlari tum hiziyla suruyor. Proje kapsaminda ilce genelindeki sekiz mahallede toplam 116 bin metreyi askin yeni icme suyu altyapisi olusturulmasi hedefleniyor. Yapilan calismalarle ekonomik omrunu tamamlayan sebekelerin yenilenmesi, su iletim kapasitesinin artirilmasi ve modern sayac sistemlerine gecilmesi amaclaniyor.
 

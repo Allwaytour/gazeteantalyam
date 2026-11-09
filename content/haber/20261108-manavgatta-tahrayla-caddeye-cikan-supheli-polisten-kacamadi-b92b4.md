@@ -2,8 +2,8 @@
 title: Manavgat'ta tahrayla caddeye çıkan şüpheli polisten kaçamadı
 date: '2026-11-08T10:37:54+03:00'
 ozet: Antalya'nın Manavgat ilçesinde eline aldığı tahrayla caddede hayali düşmanlara saldıran ve çevreye korku salan şahıs polis ekiplerince yakalandı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261108-manavgatta-tahrayla-caddeye-cikan-supheli-polisten-kacamadi-b-fa98b73a.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
@@ -12,34 +12,22 @@ etiketler:
 - Manavgat Emniyet Müdürlüğü
 - Manavgat Devlet Hastanesi
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261108-manavgatta-tahrayla-caddeye-cikan-supheli-polisten-kacamadi-b-fa98b73a.jpg
   konu_imza: 850d7d9e5e0f
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T11:04:07+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (3/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: polis otosu, polis memurları, cadde'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (3/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: polis otosu, polis memurları, cadde'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,6 +35,27 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/elinde-tahrayla-caddeye-cikti-hayali-dusmanlara-tahra-salladi-512883799
+gorsel_yedek: /images/haber-gorsel/20261108-manavgatta-tahrayla-caddeye-cikan-supheli-polisten-kacamadi-b-fa98b73a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261108-manavgatta-tahrayla-caddeye-cikan-supheli-polisten-kacamadi-b-fa98b73a.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Manavgat ilçesindeki Demokrasi Bulvarı'nda yaşanan olayda, uyuşturucu madde etkisinde olduğu belirtilen bir kişi eline bahçe işlerinde kullanılan tahra alarak caddeye çıktı. Çevrede bulunan vatandaşlara aldırış etmeden elindeki aleti boşluğa sallayan ve halüsinasyon gören genç, zaman zaman yere düştü. Kendi kendine savurduğu tahranın başına ve yüzüne isabet etmesi sonucu yaralanan şahıs, etraftakilere endişe dolu anlar yaşattı.
 

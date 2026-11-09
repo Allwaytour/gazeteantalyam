@@ -152,6 +152,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261106-antalya-valiligi-cop31-zirvesinde-gastronomi-mirasini-tanita--9e233b20.jpg
 ---
 İklim değişikliğiyle mücadele alanındaki en büyük küresel buluşmalardan biri olan COP31 Zirvesi için hazırlıklar sürerken, Türkiye'nin köklü mutfak kültürü de küresel katılımcılara sunulacak. Çevre, Şehircilik ve İklim Değişikliği Bakanlığının koordinasyonunda yürütülen çalışmalar kapsamında, yüzlerce ülkenin liderini ağırlayacak olan zirvede Anadolu'nun binlerce yıllık lezzetleri tanıtılacak.
 

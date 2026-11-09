@@ -43,6 +43,7 @@ kaynak_url: https://www.dha.com.tr/yerel-haberler/antalya/muratpasadan-squash-tu
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-squash-turkiye-sampiyonasindan-muratpasaya-iki-bronz-madalya--0e9abea8.jpg
 ---
 Bursa'nın Nilüfer ilçesinde 30 Ekim - 1 Kasım tarihleri arasında gerçekleştirilen Squash Büyükler Türkiye Şampiyonası'nda Muratpaşa Belediyesporlu sporcular önemli derecelere imza attı. Turnuvada boy gösteren kulüp sporcuları, farklı kategorilerdeki mücadeleleriyle dikkat çekti.
 

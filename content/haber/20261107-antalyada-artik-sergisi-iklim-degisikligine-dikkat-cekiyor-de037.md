@@ -153,6 +153,7 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 41% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-antalyada-artik-sergisi-iklim-degisikligine-dikkat-cekiyor-de-5d6e342b.jpg
 ---
 Gloria Hotels & Resorts ev sahipliğinde, Akfen Holding iş birliğiyle ve Loft Art'ın katkılarıyla hayata geçirilen "ARTIK" sergisi, Antalya'daki Gloria Serenity Resort'ta kapılarını açtı. Türkiye'nin dört bir yanından altı sanatçının atık malzemeleri dönüştürerek hazırladığı eserleri bir araya getiren etkinlik, sıfır atık, döngüsel ekonomi ve doğanın korunması konularına odaklanıyor.
 

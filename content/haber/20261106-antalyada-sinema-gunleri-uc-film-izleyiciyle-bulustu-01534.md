@@ -146,6 +146,7 @@ gorsel_yerlesim:
   o_kart: 50% 90%
   o_kart_p: 60% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-antalyada-sinema-gunleri-uc-film-izleyiciyle-bulustu-01534-243c5e08.jpg
 ---
 Antalyalı izleyiciler, son dönemde öne çıkan üç farklı yerli yapımı sinema salonlarında izleme fırsatı buldu. Seyirciyle buluşan yapımlar arasında Ferit Karahan’ın imzasını taşıyan "Cinlerin Düğünü", Emre Kavuk’un yönettiği "Selma" ve Necmi Sancak’ın yönettiği "Bekle Bizi Brüksel" filmleri yer aldı.
 

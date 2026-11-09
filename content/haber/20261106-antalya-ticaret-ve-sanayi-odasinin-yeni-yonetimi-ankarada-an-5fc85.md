@@ -149,6 +149,7 @@ gorsel_yerlesim:
   o_kart: 50% 20%
   o_kart_p: 34% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/An%C4%B1tkabir_-_Atat%C3%BCrk%E2%80%99s_Tomb.jpg/1280px-An%C4%B1tkabir_-_Atat%C3%BCrk%E2%80%99s_Tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-antalya-ticaret-ve-sanayi-odasinin-yeni-yonetimi-ankarada-an--11f9ee57.jpg
 ---
 Antalya Ticaret ve Sanayi Odası'nın (ATSO) yeni yönetimi, kentte uzun süre konuşulan seçim sürecinin ardından ilk resmi temaslar için başkent Ankara'ya gitti. Gerçekleştirilen ziyaret programı kapsamında, oda yönetimi ve meclis üyelerinden oluşan heyet Anıtkabir'i ziyaret etti.
 

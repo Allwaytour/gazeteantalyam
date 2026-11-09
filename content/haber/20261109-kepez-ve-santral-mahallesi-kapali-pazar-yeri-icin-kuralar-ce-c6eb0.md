@@ -2,8 +2,8 @@
 title: Kepez ve Santral Mahallesi Kapalı Pazar Yeri İçin Kuralar Çekildi
 date: '2026-11-09T12:58:19+03:00'
 ozet: Antalya Büyükşehir Belediyesi tarafından Kepez ve Santral mahallesine kazandırılan modern kapalı pazar yerinin esnaf kuraları noter huzurunda tamamlandı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261109-kepez-ve-santral-mahallesi-kapali-pazar-yeri-icin-kuralar-ce--13c3c798.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,34 +13,23 @@ etiketler:
 - Antalya Pazarcılar Odası
 - Antalya 16. Noterliği
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261109-kepez-ve-santral-mahallesi-kapali-pazar-yeri-icin-kuralar-ce--13c3c798.jpg
   konu_imza: 48bf1c618831
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T13:04:46+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -48,6 +37,27 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/kepez-ve-santral-mahallesi-kapali-pazar-yeri-kuralari-cekildi/561145
+gorsel_yedek: /images/haber-gorsel/20261109-kepez-ve-santral-mahallesi-kapali-pazar-yeri-icin-kuralar-ce--13c3c798.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261109-kepez-ve-santral-mahallesi-kapali-pazar-yeri-icin-kuralar-ce--13c3c798.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Büyükşehir Belediyesi, Kepez ve Santral mahallesinde hayata geçirilen modern kapalı pazar yerinde tezgah açacak esnafları belirlemek üzere kura çekimi düzenledi. Antalya Pazarcılar Odası iş birliğiyle gerçekleştirilen süreç, belediye hizmet binası konferans salonunda yapıldı.
 

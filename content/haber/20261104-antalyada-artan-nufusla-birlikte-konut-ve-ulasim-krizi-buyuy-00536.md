@@ -149,6 +149,7 @@ etiketler:
 - Aliye Coşar
 - YENİ Parti
 - TOKİ
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-artan-nufusla-birlikte-konut-ve-ulasim-krizi-buyuy--fbe110a3.jpg
 ---
 Antalya'nın nüfusunun 2,8 milyona dayanması ve kentin aldığı yoğun göç, beraberinde getirdiği altyapı, konut ve ulaşım sorunlarını her geçen gün biraz daha derinleştiriyor. Konuya ilişkin değerlendirmelerde bulunan YENİ Parti Antalya Milletvekili Aliye Coşar, kentin hızla artan nüfus hareketliliğine dikkat çekerek özellikle konut arzı, iktidarın altyapı için yerel yönetimlere destek vermesi gerektiğine ve ulaşım krizine karşı acil adımlar atılması gerektiğini vurguladı.
 

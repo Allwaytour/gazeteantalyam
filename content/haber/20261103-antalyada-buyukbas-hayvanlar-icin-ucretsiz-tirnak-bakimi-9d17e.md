@@ -45,6 +45,7 @@ otomatik: true
 yz: true
 kaynak: Anka Haber
 kaynak_url: https://ankahaber.net/haber/antalya-da-buyukbas-hayvanlarin-tirnak-bakimlari-ucretsiz-yapiliyor-7250f8f6
+gorsel_yedek: /images/haber-gorsel/20261103-antalyada-buyukbas-hayvanlar-icin-ucretsiz-tirnak-bakimi-9d17-90ee4b4f.jpg
 ---
 Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı bünyesindeki uzman veteriner hekimler, kent genelindeki aile işletmelerine yönelik ücretsiz tırnak bakım hizmetini aralıksız sürdürüyor. Bu çalışma sayesinde hayvan sağlığının korunması amaçlanırken, aynı zamanda üreticilere önemli bir iş gücü desteği sağlanıyor.
 

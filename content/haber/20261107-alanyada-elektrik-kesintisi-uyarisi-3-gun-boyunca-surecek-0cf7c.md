@@ -178,6 +178,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 52% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-alanyada-elektrik-kesintisi-uyarisi-3-gun-boyunca-surecek-0cf-bcb30780.jpg
 ---
 Antalya'nın Alanya ilçesinde altyapı güçlendirme, bakım, yatırım ve deplase çalışmaları kapsamında üç gün boyunca planlı enerji kesintileri yaşanacak. Yetkililer tarafından duyurulan programa göre, elektrik kesintileri 8-9-10 Kasım 2026 tarihlerinde farklı mahalle ve saat aralıklarında etkili olacak.
 

@@ -2,59 +2,48 @@
 title: Mustafa Kurt Serik Belediye Başkanlığı İçin Aday Adaylığını Açıkladı
 date: '2026-11-05T16:01:14+03:00'
 ozet: Yeni Parti'den Serik Belediye Başkan aday adayı olan sanayi esnafı Mustafa Kurt, ilçenin tapu, trafik ve park gibi kronikleşmiş sorunlarını çözmek için yola çıktığını belirtti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b-b0c1f861.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
 - Serik
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 7 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b-b0c1f861.jpg
   konu_imza: a471e3090a8f
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:45:18+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '7 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberi; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur; haberin konusuyla doğrud'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Kurt'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ilk adaylar elendi; 2. turda 1 aday daha denendi'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Belek,_07506_Belek-Serik-Antalya,_Turkey_-_panoramio_(1).jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Serik ilçesinden genel bir sokak görünümü, aday adaylığı haberi için nötr bir temsilî görsel ol
-    - sayfa: https://commons.wikimedia.org/wiki/File:Aspendos_Unidentified_temple_area_3248_panorama.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Serik ilçesindeki Aspendos antik kentinden genel bir manzara, temsilî görsel olarak uygundur.
-    - sayfa: https://commons.wikimedia.org/wiki/File:Serik_660DSC_0561_(48212705581).jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (Mustafa Kurt) — Serik'e ait genel bir manzara fotoğrafıdı
-    - sayfa: https://commons.wikimedia.org/wiki/File:Serik_%C5%9Eapkenov_in_December_2023.jpg
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Serik_%C5%9Eapkenov_in_April_2022.jpg
-      katman: yer_konu
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:07541_Hask%C4%B1z%C4%B1l%C3%B6ren-Serik-Antalya,_Turkey_-_panoramio_(1).jpg
-      katman: kurum
-      neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görünmüyor (Mustafa Kurt) — Fotoğraf sadece bir m
-  kapak_surum: c3
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '7 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberi; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur; haberin konusuyla doğrud'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Kurt'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ilk adaylar elendi; 2. turda 1 aday daha denendi'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Belek,_07506_Belek-Serik-Antalya,_Turkey_-_panoramio_(1).jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Serik ilçesinden genel bir sokak görünümü, aday adaylığı haberi için nötr bir temsilî görsel ol
+      - sayfa: https://commons.wikimedia.org/wiki/File:Aspendos_Unidentified_temple_area_3248_panorama.jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Serik ilçesindeki Aspendos antik kentinden genel bir manzara, temsilî görsel olarak uygundur.
+      - sayfa: https://commons.wikimedia.org/wiki/File:Serik_660DSC_0561_(48212705581).jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (Mustafa Kurt) — Serik'e ait genel bir manzara fotoğrafıdı
+      - sayfa: https://commons.wikimedia.org/wiki/File:Serik_%C5%9Eapkenov_in_December_2023.jpg
+        katman: yer_konu
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:Serik_%C5%9Eapkenov_in_April_2022.jpg
+        katman: yer_konu
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:07541_Hask%C4%B1z%C4%B1l%C3%B6ren-Serik-Antalya,_Turkey_-_panoramio_(1).jpg
+        katman: kurum
+        neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görünmüyor (Mustafa Kurt) — Fotoğraf sadece bir m
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -69,6 +58,27 @@ etiketler:
 - Mustafa Kurt
 - Yeni Parti
 baslik_ozgun: MUSTAFA KURT SERİK BELEDİYE BAŞKANLIĞI İÇİN ADAY ADAYLIĞINI AÇIKLADI
+gorsel_yedek: /images/haber-gorsel/20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b-b0c1f861.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b-b0c1f861.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Serik ilçesinde uzun yıllardır sanayi esnafı olarak faaliyet gösteren Mustafa Kurt, Yeni Parti çatısı altında Serik Belediye Başkanlığı için aday adaylığını duyurdu. Yaklaşık 60 yıldır ilçede yaşayan ve bölgenin sorunlarına hakim olduğunu ifade eden Kurt, adaylık sürecine sanayi esnafının teşvikiyle girdiğini vurguladı.
 

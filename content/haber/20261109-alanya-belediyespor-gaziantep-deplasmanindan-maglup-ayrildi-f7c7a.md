@@ -2,8 +2,8 @@
 title: Alanya Belediyespor Gaziantep Deplasmanından Mağlup Ayrıldı
 date: '2026-11-09T00:36:00+03:00'
 ozet: SMS Grup Efeler Ligi'nde mücadele eden ON Hotels Alanya Belediyespor, deplasmanda karşılaştığı Gaziantep Gençlik Spor'a 3-2 mağlup oldu.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261109-alanya-belediyespor-gaziantep-deplasmanindan-maglup-ayrildi-f-96e1df33.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
@@ -12,34 +12,23 @@ etiketler:
 - ON Hotels Alanya Belediyespor
 - Gaziantep Gençlik Spor
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261109-alanya-belediyespor-gaziantep-deplasmanindan-maglup-ayrildi-f-96e1df33.jpg
   konu_imza: 4a309e2ee1fa
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T01:03:38+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,6 +36,27 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/on-hotels-alanya-belediyespor-gaziantep-deplasmaninda-kaybetti
+gorsel_yedek: /images/haber-gorsel/20261109-alanya-belediyespor-gaziantep-deplasmanindan-maglup-ayrildi-f-96e1df33.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261109-alanya-belediyespor-gaziantep-deplasmanindan-maglup-ayrildi-f-96e1df33.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 SMS Grup Efeler Ligi'nin 5'inci haftasında sahaya çıkan ON Hotels Alanya Belediyespor, Gaziantep deplasmanında istediği sonucu alamadı. Şahinbey Spor Salonu'nda oynanan müsabakanın ilk iki setini 25-18 ve 25-23'lük skorlarla kaybeden Antalya temsilcisi, maçtan kopmayarak büyük bir direnç gösterdi.
 

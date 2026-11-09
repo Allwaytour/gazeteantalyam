@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/arabeskin-efsanesi-hakki-bulut-sahnelere-alanyada-dondu
+gorsel_yedek: /images/haber-gorsel/20261102-hakki-bulut-saglik-sorununun-ardindan-alanyada-sahnelere-don--009391aa.jpg
 ---
 Türk arabesk müziğinin tanınan isimlerinden Hakkı Bulut, bir süredir devam eden sağlık problemini atlatarak yeniden sahnelere adım attı. Sanatçının dinleyicileriyle uzun aradan sonra ilk kez buluştuğu adres Antalya'nın Alanya ilçesi oldu.
 

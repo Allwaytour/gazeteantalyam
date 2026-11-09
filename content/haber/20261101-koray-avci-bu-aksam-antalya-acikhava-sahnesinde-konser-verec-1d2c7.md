@@ -46,6 +46,7 @@ gorsel_secim:
   kurum_notu: kurum sitelerinde aynı haber bulunamadı
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-koray-avci-bu-aksam-antalya-acikhava-sahnesinde-konser-verec--d0161bd7.jpg
 ---
 Turkiye'nin taninan seslerinden Koray Avci, hayranlarinin merakla bekledigi konseri icin bu aksam Antalya'da sahne alacak. Muzik dolu gece, kent merkezindeki etkinlik alaninda gerceklestirilecek.
 

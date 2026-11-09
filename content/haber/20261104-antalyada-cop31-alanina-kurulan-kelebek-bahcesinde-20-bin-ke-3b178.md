@@ -149,6 +149,7 @@ etiketler:
 - Murat Kurum
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 - Selçuklu Belediyesi
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-cop31-alanina-kurulan-kelebek-bahcesinde-20-bin-ke--d0b98457.jpg
 ---
 Türkiye'nin ev sahipliğinde ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinasyonunda 9-20 Kasım tarihlerinde Antalya'da düzenlenecek COP31 Zirvesi için hazırlık çalışmaları tamamlanma aşamasına geldi. İklim müzakerelerinin gerçekleştirileceği diplomatik merkez niteliğindeki 527 bin metrekare büyüklüğündeki Mavi Bölge'de, ülke delegasyonları ile birlikte yaklaşık 100 bin ziyaretçinin ağırlanması bekleniyor.
 

@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Kamudanhaber
 kaynak_url: https://www.kamudanhaber.net/mhpnin-yeni-il-onerisi-polatli-alanya-tarsus-fethiye-ve-bandirma-listede
+gorsel_yedek: /images/haber-gorsel/20261102-alanyanin-il-olmasi-gundemde-100-il-projesi-aciklandi-b46bd-60e630f9.jpg
 ---
 Milliyetçi Hareket Partisi tarafından Türkiye'deki idari yapının güncellenmesi amacıyla hazırlanan proje kapsamında dikkat çeken bir öneri kamuoyuyla paylaşıldı. Mevcut 81 il sayısının 100'e, ilçe sayısının ise 1000'e çıkarılmasını hedefleyen proje çerçevesinde, il statüsü verilmesi planlanan 19 ilçe açıklandı. Antalya'nın önemli turizm merkezlerinden Alanya da il olması önerilen yerler arasında gösterildi.
 

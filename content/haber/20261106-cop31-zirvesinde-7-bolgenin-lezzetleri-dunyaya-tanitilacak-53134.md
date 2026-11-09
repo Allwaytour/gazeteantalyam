@@ -150,6 +150,7 @@ gorsel_yerlesim:
   o_kart: 50% 57%
   o_kart_p: 39% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-cop31-zirvesinde-7-bolgenin-lezzetleri-dunyaya-tanitilacak-53-fc062ea4.jpg
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31) hazırlanan Antalya, dünyanın dört bir yanından gelecek konukları ağırlamaya hazırlanırken Türkiye'nin gastronomi mirasını da küresel sahneye taşımaya hazırlanıyor. Zirve kapsamında hayata geçirilecek '7 Bölge 7 Mutfak' yaklaşımı sayesinde, yerli ve yabancı konuklar Anadolu'nun köklü coğrafi çeşitliliğini ve yerel üretim kültürünü yakından tanıma fırsatı bulacak.
 

@@ -2,8 +2,8 @@
 title: 'Ali Babacan''dan Antalya''da erken seçim açıklaması: 2027 yılını işaret etti'
 date: '2026-11-06T11:48:29+03:00'
 ozet: DEVA Partisi Genel Başkanı Ali Babacan, Antalya’da katıldığı bir toplantıda erken seçim tartışmalarına değinerek 2027 sonbaharını işaret etti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,25 +13,36 @@ etiketler:
 - DEVA Partisi
 - Forum X
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:42+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: 1f80fbaebe30
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Ali_Babacan,_May_21,_2022.jpg
+  gosterilen: Ali Babacan
+  cekim_yili: '2022'
+  aciklama: Ali Babacan — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kisi-f8666b' (Ali Babacan) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-f8666b
+    tarih: '2026-11-09T13:27:08+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -150,6 +161,23 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
   degisim: '2026-11-08T22:29:42+03:00'
   kaldirma_nedeni: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
+gorsel_yedek: /images/haber-gorsel/20261106-ali-babacandan-antalyada-erken-secim-aciklamasi-2027-yilini-4-0cb64e37.jpg
+gorsel_yerlesim:
+  boyut:
+  - 641
+  - 872
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 0%
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, Antalya’da Forum X tarafından düzenlenen toplantıda Türkiye’nin siyasi gündemine dair değerlendirmelerde bulundu. Son iki yılda ülkedeki siyasi dengelerin değiştiğini belirten Babacan, mevcut ekonomik koşulların seçim takvimini etkileyebileceğini dile getirdi.
 

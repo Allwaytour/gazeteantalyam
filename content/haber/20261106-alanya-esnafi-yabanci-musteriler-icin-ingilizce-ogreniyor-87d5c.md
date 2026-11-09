@@ -2,8 +2,8 @@
 title: Alanya esnafı yabancı müşteriler için İngilizce öğreniyor
 date: '2026-11-06T16:08:00+03:00'
 ozet: Alanya'da esnafın yabancı ziyaretçilerle daha iyi iletişim kurabilmesi amacıyla pratik İngilizce kursu başlatıldı.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-alanya-esnafi-yabanci-musteriler-icin-ingilizce-ogreniyor-87d-07ce0b06.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler:
@@ -13,38 +13,22 @@ etiketler:
 - Alanya Esnaf ve Sanatkârlar Odası
 - Alanya Halk Eğitimi Merkezi Müdürlüğü
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'İnceleme tamamlanamadı (bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)); kontrol edilmemiş fotoğraf kullanılmadı.'
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-alanya-esnafi-yabanci-musteriler-icin-ingilizce-ogreniyor-87d-07ce0b06.jpg
   konu_imza: 38c1d3760906
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: false
-    sonuc: yapılamadı
-    tarih: '2026-11-08T13:09:07+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-    neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
-  hat: h2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: kontrol_yapilamadi
-    aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
-  kapak_surum: c8
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: kontrol_yapilamadi
+      aciklama: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -85,6 +69,27 @@ gorsel_gecmis:
     kaynak_aciklama: An instructor is teaching the usage of an adding machine in a classroom environment. The students are men and are wearing suits.
     kurum: k5
   degisim: '2026-11-08T13:10:42+03:00'
+gorsel_yedek: /images/haber-gorsel/20261106-alanya-esnafi-yabanci-musteriler-icin-ingilizce-ogreniyor-87d-07ce0b06.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-alanya-esnafi-yabanci-musteriler-icin-ingilizce-ogreniyor-87d-07ce0b06.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Alanya Esnaf ve Sanatkârlar Odası (ALESO), kentin turizm potansiyeline katkı sunmak ve esnafın yabancı müşterilerle daha rahat diyalog kurmasını sağlamak amacıyla Alanya Halk Eğitimi Merkezi Müdürlüğü ortaklığında Pratik ve Mesleki İngilizce Kursu'nu hayata geçirdi. Eğitim programında esnafın günlük ticari hayatında doğrudan ihtiyaç duyduğu müşteri karşılama, ürün tanıtımı, pazarlık ve doğru iletişim dinamikleri ön planda tutuluyor.
 

@@ -2,42 +2,41 @@
 title: 'Eğitim Sen''den COP31 Kararlarına Tepki: Eğitim Hakkı ve Eşitlik Göz Ardı Edilmemeli'
 date: '2026-11-05T16:23:00+03:00'
 ozet: Antalya'da COP31 Zirvesi nedeniyle 7 ilçede eğitime ara verilmesini eleştiren Eğitim Sen, kararların eğitimde eşitsizliği derinleştirdiğini savundu.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 5 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
   konu_imza: d02d264a2cb5
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T14:10:10+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %25); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %18); Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %0)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: uzaktan eğitim ekranı; görselde olmaması gereken unsur: uzaktan eğitim ekranı, COP31 logosu; habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 5); habere uygunluk düşük (5/10, en az 8); ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini'
-  kapak_surum: c8
-  onceki_kontrol: k4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  fotografci: Hendric Stattmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cop31-expo-1
+    tarih: '2026-11-09T13:27:10+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: uzaktan eğitim ekranı; görselde olmaması gereken unsur: uzaktan eğitim ekranı, COP31 logosu; habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 5); habere uygunluk düşük (5/10, en az 8); ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -127,6 +126,29 @@ etiketler:
 - Eğitim Sen
 - Antalya Valiliği
 baslik_ozgun: 'EĞİTİM SEN''DEN COP31 KARARLARINA TEPKİ: EĞİTİM HAKKI VE EŞİTLİK GÖZ ARDI EDİLMEMELİ'
+gorsel_yedek: /images/haber-gorsel/20261105-egitim-senden-cop31-kararlarina-tepki-egitim-hakki-ve-esitli--0d783176.jpg
+gorsel_yerlesim:
+  boyut:
+  - 5200
+  - 3468
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 68% 50%
+  o_mansetyan_m: 68% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 90%
+  o_kart_p: 70% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 ---
 Eğitim ve Bilim Emekçileri Sendikası (Eğitim Sen), Antalya Valiliği tarafından COP31 Liderler Zirvesi gerekçesiyle 11-12 Kasım tarihlerinde 7 ilçede yüz yüze eğitime ara verilerek uzaktan eğitime geçilmesi yönündeki karara tepki gösterdi. Sendika, uluslararası organizasyonlar bahane edilerek eğitim hakkının sınırlandırılmasının ve emekçi haklarının ihlal edilmesinin kabul edilemez olduğunu belirtti.
 

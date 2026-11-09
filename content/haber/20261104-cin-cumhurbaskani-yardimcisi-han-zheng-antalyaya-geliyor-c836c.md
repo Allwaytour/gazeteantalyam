@@ -111,6 +111,7 @@ gorsel_yerlesim:
   o_mansetyan_m: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_yedek: /images/haber-gorsel/20261104-cin-cumhurbaskani-yardimcisi-han-zheng-antalyaya-geliyor-c836-36f2f1ce.jpg
 ---
 Cin Cumhurbaskani Yardimcisi Han Zheng, Antalya'da duzenlenecek Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi Liderler Zirvesi'ne istirahat edecek. Soz konusu zirve, 6-12 Kasim tarihlerinde Antalya'da gerceklestirilecek.
 

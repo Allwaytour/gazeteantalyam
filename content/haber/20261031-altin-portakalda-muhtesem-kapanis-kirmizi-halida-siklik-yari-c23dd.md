@@ -2,8 +2,8 @@
 title: 'Altın Portakal''da muhteşem kapanış: Kırmızı halıda şıklık yarışı'
 date: '2026-10-31T22:32:22+03:00'
 ozet: Antalya'da düzenlenen 63. Uluslararası Antalya Altın Portakal Film Festivali, Cam Piramit'teki kapanış galasıyla sona erdi.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261031-altin-portakalda-muhtesem-kapanis-kirmizi-halida-siklik-yari--944b8503.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -16,25 +16,23 @@ yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-sinema-gecesi-kirmizi-halida-stil-ve-heyecan-385636
 gorsel_v4: true
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261031-altin-portakalda-muhtesem-kapanis-kirmizi-halida-siklik-yari--944b8503.jpg
   konu_imza: 86a86b72ba01
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1736766920028-ee18c15c02ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cmVkJTIwY2FycGV0JTIwbW92aWUlMjBnYWxhfGVufDF8MHx8fDE3OTM0ODU3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Euronewsweek Media / Unsplash'
@@ -42,6 +40,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261031-altin-portakalda-muhtesem-kapanis-kirmizi-halida-siklik-yari--944b8503.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261031-altin-portakalda-muhtesem-kapanis-kirmizi-halida-siklik-yari--944b8503.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Büyükşehir Belediyesi ev sahipliğinde gerçekleştirilen 63. Uluslararası Antalya Altın Portakal Film Festivali, 24-31 Ekim tarihleri arasındaki programını tamamladı. Cam Piramit'te düzenlenen kapanış galası ve ödül töreni öncesinde gerçekleştirilen geleneksel kırmızı halı geçişi, sinema dünyasının tanınmış isimleri ile genç yeteneklerin şıklık yarışına sahne oldu.
 

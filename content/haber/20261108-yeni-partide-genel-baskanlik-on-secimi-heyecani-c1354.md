@@ -2,8 +2,8 @@
 title: Yeni Parti'de Genel Başkanlık Ön Seçimi Heyecanı
 date: '2026-11-08T17:13:34+03:00'
 ozet: YENİ Parti'nin 1. Olağan Kurultayı öncesinde gerçekleştirilen genel başkanlık ön seçimi için Antalya genelinde üyeler sandık başına gitti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261108-yeni-partide-genel-baskanlik-on-secimi-heyecani-c1354-046f0003.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,25 +12,23 @@ etiketler:
 - Gökhan Ölmez
 - YENİ Parti
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:42+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261108-yeni-partide-genel-baskanlik-on-secimi-heyecani-c1354-046f0003.jpg
   konu_imza: 24f6f3fe1c76
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -116,6 +114,27 @@ gorsel_gecmis:
     kurum: k5
   degisim: '2026-11-08T22:29:42+03:00'
   kaldirma_nedeni: kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')
+gorsel_yedek: /images/haber-gorsel/20261108-yeni-partide-genel-baskanlik-on-secimi-heyecani-c1354-046f0003.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261108-yeni-partide-genel-baskanlik-on-secimi-heyecani-c1354-046f0003.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 YENİ Parti, 14-15 Kasım 2026 tarihlerinde Ankara Spor Salonu'nda düzenlenecek 1. Olağan Kurultay öncesinde genel başkanlık ön seçimi sürecini başlattı. Türkiye genelinde 81 ilde eş zamanlı olarak kurulan yaklaşık 3 bin sandıkta, parti üyeleri genel başkanlık seçimi için oylarını kullandı. Sabah saat 09.00'da başlayan oy verme işleminin akşam 17.00'de tamamlanması planlandı.
 

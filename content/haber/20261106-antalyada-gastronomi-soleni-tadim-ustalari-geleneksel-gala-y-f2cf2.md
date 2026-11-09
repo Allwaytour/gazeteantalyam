@@ -2,8 +2,8 @@
 title: 'Antalya''da gastronomi şöleni: Tadım ustaları geleneksel gala yemeğinde buluştu'
 date: '2026-11-06T15:27:00+03:00'
 ozet: Chaîne des Rôtisseurs Antalya Bölgesi'nin geleneksel gala yemeği, iş ve turizm dünyasının katılımıyla gerçekleştirildi.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Basak / Wikimedia Commons (CC0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -12,32 +12,36 @@ etiketler:
 - Chaîne des Rôtisseurs
 - IC Santai Family Resort
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
   konu_imza: f663fbac1bc3
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T21:30:49+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''gala yemeği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''IC Santai Family Resort'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''IC Santai'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''gala yemeği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''IC Santai Family Resort'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''IC Santai Family Resort'' için konuyla (gala dinner, fine dining, hotel restaurant) ilişkili lisanslı fotoğraf bulunamadı; ''gastronomi gala yemeği'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: gala dinner table setup)'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  fotografci: Basak
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  gosterilen: Tahinli Antalya piyazı
+  cekim_yili: '2024'
+  aciklama: Tahinli Antalya piyazı (temsilî)
+  gerekce: arşiv kaydı 'piyaz' (Tahinli Antalya piyazı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: piyaz
+    tarih: '2026-11-09T13:27:08+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''gala yemeği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''IC Santai Family Resort'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''IC Santai'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''gala yemeği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''IC Santai Family Resort'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''IC Santai Family Resort'' için konuyla (gala dinner, fine dining, hotel restaurant) ilişkili lisanslı fotoğraf bulunamadı; ''gastronomi gala yemeği'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: gala dinner table setup)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +49,30 @@ otomatik: true
 yz: true
 kaynak: Turizm Ajansı
 kaynak_url: https://www.turizmajansi.com/haber/antalya-da-tadim-ustalarini-bulusturan-gece-sofralarda-gastronomi-soleni-yasandi-h74629
+gorsel_yedek: /images/haber-gorsel/20261106-antalyada-gastronomi-soleni-tadim-ustalari-geleneksel-gala-y--ed610d38.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1920
+  - 1920
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 80%
+  o_manset_m: 50% 100%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 72%
+  o_yan_t: 50% 100%
+  o_yan_m: 50% 82%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+gorsel_gecmis: []
 ---
 Antalya'nın gastronomi buluşmaları arasında yer alan Chaîne des Rôtisseurs Antalya Bölgesi geleneksel Gala Yemeği, IC Santai Family Resort'ta düzenlendi. İş ve turizm dünyasından seçkin simalar ile dernek üyelerinin katıldığı organizasyon, özel menüsü ve renkli detaylarıyla konuklara unutulmaz bir akşam yaşattı. Cadılar Bayramı dönemine denk gelen gece, mekânın özel dekorasyonu ve temaya uygun karşılama kokteyliyle başladı.
 

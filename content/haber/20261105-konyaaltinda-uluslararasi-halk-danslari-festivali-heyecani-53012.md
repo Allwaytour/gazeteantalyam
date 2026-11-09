@@ -151,6 +151,7 @@ gorsel_yerlesim:
 etiketler:
 - Cem Kotan
 - Konyaaltı Belediyesi
+gorsel_yedek: /images/haber-gorsel/20261105-konyaaltinda-uluslararasi-halk-danslari-festivali-heyecani-53-dd3438ff.jpg
 ---
 Antalya'nın kültür ve sanat yaşamına renk katacak olan 3. Uluslararası Halk Dansları Kültür Festivali için geri sayım başladı. Konyaaltı Belediyesi ev sahipliğinde gerçekleşecek olan etkinlik, 8 Kasım Pazar günü saat 14.00 itibarıyla HayatPark'ta ziyaretçilerini ağırlamaya başlayacak. Farklı ülkelerden ve yörelerden gelen halk oyunları topluluklarının sahne alacağı festival, katılımcılara zengin bir kültürel şölen sunmayı hedefliyor.
 

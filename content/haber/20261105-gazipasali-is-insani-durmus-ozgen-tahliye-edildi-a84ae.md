@@ -2,40 +2,28 @@
 title: Gazipaşalı İş İnsanı Durmuş Özgen Tahliye Edildi
 date: '2026-11-05T20:52:00+03:00'
 ozet: Antalya'da yürütülen bir soruşturma kapsamında geçtiğimiz ay tutuklanan iş insanı Durmuş Özgen, yargı sürecindeki gelişmelerin ardından serbest bırakıldı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae-92123a7d.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Gazipaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae-92123a7d.jpg
   konu_imza: 36b586c7d224
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T22:33:04+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' bir şehir/ilçe; tesis türü ipucuyla rastgele tesis fotoğraf'
-  kapak_surum: c8
-  zorla: h1-2026-11-07:10
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Durmuş Özgen'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' bir şehir/ilçe; tesis türü ipucuyla rastgele tesis fotoğraf'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -52,6 +40,27 @@ etiketler:
 - Antalya Büyükşehir Belediyesi
 - Gazipaşa Belediyesi
 baslik_ozgun: GAZİPAŞALI İŞ İNSANI DURMUŞ ÖZGEN TAHLİYE EDİLDİ
+gorsel_yedek: /images/haber-gorsel/20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae-92123a7d.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261105-gazipasali-is-insani-durmus-ozgen-tahliye-edildi-a84ae-92123a7d.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Cumhuriyet Başsavcılığı Örgütlü Suçlar Bürosu tarafından yürütülen soruşturma dosyası kapsamında geçtiğimiz ay gözaltına alınan ve ardından tutuklanarak cezaevine gönderilen iş insanı Durmuş Özgen hakkında yeni bir gelişme yaşandı. Tutuklama kararı sonrası iş dünyasında geniş yankı uyandıran süreç, hukuki değerlendirmelerin ardından değişti.
 

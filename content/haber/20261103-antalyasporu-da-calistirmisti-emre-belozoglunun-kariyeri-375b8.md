@@ -43,6 +43,7 @@ otomatik: true
 yz: true
 kaynak: Milli Gazete
 kaynak_url: https://www.milligazete.com.tr/emre-belozoglu-hangi-takimlari-calistirdi-teknik-direktorluk-kariyeri-ve-gorev-yaptigi-kulupler
+gorsel_yedek: /images/haber-gorsel/20261103-antalyasporu-da-calistirmisti-emre-belozoglunun-kariyeri-375b-586c7078.jpg
 ---
 Türk futbolunun önemli isimlerinden Emre Belözoğlu'nun teknik adamlık kariyeri ve çalıştırdığı kulüpler futbolseverler tarafından araştırılıyor. Futbolculuk kariyerini noktaladıktan sonra teknik direktörlük yapmaya başlayan Belözoğlu, Süper Lig'de farklı kulüplerin kulübesinde yer aldı.
 

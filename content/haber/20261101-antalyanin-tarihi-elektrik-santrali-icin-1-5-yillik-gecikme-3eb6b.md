@@ -46,6 +46,7 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/tarihi-santral-yikimin-esig
 gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-antalyanin-tarihi-elektrik-santrali-icin-1-5-yillik-gecikme-3-1d2812c4.jpg
 ---
 Antalya'nın elektrikle tanışmasını sağlayan ve kentin hafızasında önemli bir yer tutan tarihi hidroelektrik santrali, bürokratik süreçler nedeniyle yıkılma tehlikesiyle karşı karşıya kaldı. Gençlik Mahallesi'nde falezlerin üzerinde bulunan eski hidroelektrik santrali ile Simon Değirmenleri ve lojman yapıları, koruma statüsüne rağmen bakımsızlık nedeniyle tahrip oldu.
 

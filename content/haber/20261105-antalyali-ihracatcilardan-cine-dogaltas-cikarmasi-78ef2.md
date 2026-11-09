@@ -2,60 +2,47 @@
 title: Antalyali Ihracatcilardan Cin'e Dogaltas Cikarmasi
 date: '2026-11-05T02:35:00+03:00'
 ozet: Bati Akdeniz Ihracatcilar Birligi yoneticileri, dogaltas ihracatini artirmak amaciyla Cin'in Yunfu ve Shuitou kentlerinde temaslarda bulundu.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 8 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
   konu_imza: d10342a2793a
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: false
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-06T08:54:08+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '8 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur v; haberin konusuyla doğrud'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Küçükyaman'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Tekin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Batı Akdeniz İhracatçılar Birliği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Çin'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Luoding-Wenta.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10); Türkiye dışına ait unsur var — Yunfu kentinden genel görünüm; doğal taş ihracatı haberi için uyg
-    - sayfa: https://commons.wikimedia.org/wiki/File:Yunan,_Yunfu,_Guangdong,_China_-_panoramio.jpg
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur var — Yunfu bölgesi yol ve dağ manzarası; Çin temalı habere uygun arşiv
-    - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu1.JPG
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
-    - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu5.JPG
-      katman: kurum
-      neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
-    - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_Harbor_-_DSCF9379.JPG
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_-_DSCF9395.JPG
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c6
-  zorla: g9.4-2026-11-05:7
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '8 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur v; haberin konusuyla doğrud'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Küçükyaman'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Tekin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Batı Akdeniz İhracatçılar Birliği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Çin'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Luoding-Wenta.jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10); Türkiye dışına ait unsur var — Yunfu kentinden genel görünüm; doğal taş ihracatı haberi için uyg
+      - sayfa: https://commons.wikimedia.org/wiki/File:Yunan,_Yunfu,_Guangdong,_China_-_panoramio.jpg
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur var — Yunfu bölgesi yol ve dağ manzarası; Çin temalı habere uygun arşiv
+      - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu1.JPG
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
+      - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu5.JPG
+        katman: kurum
+        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
+      - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_Harbor_-_DSCF9379.JPG
+        katman: kurum
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_-_DSCF9395.JPG
+        katman: kurum
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -166,6 +153,27 @@ etiketler:
 - Batı Akdeniz İhracatçılar Birliği
 - Yunfu Belediye Başkanlığı
 - Yunfu Stone Industry Association
+gorsel_yedek: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Bati Akdeniz Ihracatcilar Birligi, dunyanin en buyuk tas isleme merkezleri arasinda yer alan Cin'in Yunfu ve Shuitou sehirlerine dogaltas sektorel ticaret heyeti duzenledi. Gerceklestirilen ziyaretlerde resmi kurum temsilcileri ile sektore yon veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Bati Akdeniz Ihracatcilar Birligi'ni Baskan Yardimcisi Mustafa Kucukyaman ve Denetim Kurulu Uyesi Mustafa Tekin temsil etti.
 

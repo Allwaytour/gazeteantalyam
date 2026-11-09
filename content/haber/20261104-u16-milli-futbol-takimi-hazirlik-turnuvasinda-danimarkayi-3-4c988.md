@@ -2,39 +2,29 @@
 title: U16 Milli Futbol Takımı hazırlık turnuvasında Danimarka'yı 3-1 yendi
 date: '2026-11-04T10:41:36+03:00'
 ozet: Türkiye 16 Yaş Altı Futbol Milli Takımı, Manavgat'taki Uluslararası Hazırlık Turnuvası'nın son karşılaşmasında Danimarka'yı mağlup ederek organizasyonu üçüncü tamamladı.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-u16-milli-futbol-takimi-hazirlik-turnuvasinda-danimarkayi-3-4-5a189bcd.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
 - Manavgat
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-u16-milli-futbol-takimi-hazirlik-turnuvasinda-danimarkayi-3-4-5a189bcd.jpg
   konu_imza: 0d2628b3ec45
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T21:16:43+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı ('
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
-  kapak_surum: c2
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı ('
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Arslan Zeki Demirci Spor Kompleksi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Arslan Zeki Demirci Spor Kompleksi'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,6 +39,27 @@ etiketler:
 - U16 Milli Futbol Takımı
 - Türkiye 16 Yaş Altı Futbol Milli Takımı
 - Danimarka U16 Milli Futbol Takımı
+gorsel_yedek: /images/haber-gorsel/20261104-u16-milli-futbol-takimi-hazirlik-turnuvasinda-danimarkayi-3-4-5a189bcd.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-u16-milli-futbol-takimi-hazirlik-turnuvasinda-danimarkayi-3-4-5a189bcd.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye 16 Yaş Altı Futbol Milli Takımı, Antalya'nın Manavgat ilçesinde gerçekleştirilen Uluslararası Hazırlık Turnuvası'nın son maçında Danimarka ile karşı karşıya geldi. Arslan Zeki Demirci Spor Kompleksi'nde oynanan mücadele, milli takımın üstün mücadelesine sahne oldu ve karşılaşma 3-1'lik galibiyetle sonuçlandı.
 

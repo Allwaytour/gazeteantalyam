@@ -203,6 +203,7 @@ gorsel_yerlesim:
   o_kart: 50% 85%
   o_kart_p: 87% 50%
   url: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZnVlbCUyMG5venpsZXxlbnwxfDB8fHwxNzkzODkxODE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261105-antalyada-benzin-fiyatlarinda-dev-indirim-beklentisi-12f0a-af64b433.jpg
 ---
 Uluslararası piyasalarda yaşanan hareketlilik akaryakıt tabelalarına yansımaya devam ederken, araç sahiplerini sevindirecek gelişmeler yaşanıyor. Sektör kaynaklarından edinilen son bilgilere göre, bu gece yarısından itibaren benzin fiyatlarında belirgin bir gerileme yaşanması öngörülüyor.
 

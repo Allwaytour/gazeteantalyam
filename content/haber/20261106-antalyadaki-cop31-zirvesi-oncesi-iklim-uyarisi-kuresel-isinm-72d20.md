@@ -2,32 +2,43 @@
 title: 'Antalya''daki COP31 Zirvesi öncesi iklim uyarısı: Küresel ısınma hızı ikiye katlandı'
 date: '2026-11-06T17:17:00+03:00'
 ozet: Yeni bir araştırmaya göre küresel ısınma hızı 2015'ten bu yana neredeyse iki katına çıktı. Bu durum, Antalya'da düzenlenecek COP31 Zirvesi'nin önemini bir kat daha artırdı.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler: []
 etiketler: []
 onem: 5
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:41+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
   konu_imza: c9e9b06a94d5
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
+  fotografci: Hendric Stattmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
+  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cop31-expo-2
+    tarih: '2026-11-09T13:27:07+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: habere uygunluk düşük (6/10, en az 7)
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: habere uygunluk düşük (6/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -144,6 +155,27 @@ gorsel_gecmis:
     kurum_notu: 'kurum sayfası okunamadı (Antalya Valiliği): HTTPSConnectionPool(host=''www.antalya.gov.tr'', port=443): Read timed out. (read '
   degisim: '2026-11-08T22:29:41+03:00'
   kaldirma_nedeni: habere uygunluk düşük (6/10, en az 7)
+gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-cop31-zirvesi-oncesi-iklim-uyarisi-kuresel-isinm--26401604.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2927
+  - 4390
+  dikey: true
+  surum: y3
+  manset: kaplama
+  yan: false
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: true
+  o_manset_d: 50% 63%
+  o_manset_m: 50% 70%
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_t: 50% 73%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Geophysical Research Letters dergisinde yayımlanan güncel bir araştırmaya göre, dünyadaki küresel ısınma hızı 2015 yılından itibaren belirgin bir ivmelenme kaydetti. Modern sıcaklık kayıtlarının tutulmaya başlandığı 1880'lerden bu yana yapılan incelemelerde, 1970 ile 2015 yılları arasında her on yılda ortalama 0.2 derece olan sıcaklık artışı, son dönemde on yılda 0.35 dereceye yükseldi. Uzmanlar, kısa vadeli doğal etkenlerin matematiksel olarak filtrelenmesinden sonra bile bu hızlanmanın yüksek bir istatistiki kesinlik taşıdığını belirtti.
 

@@ -2,8 +2,8 @@
 title: Alanya'da 10 Kasım Atatürk'ü Anma Programı Belli Oldu
 date: '2026-11-09T12:08:00+03:00'
 ozet: Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88'inci yıl dönümünde Alanya'da düzenlenecek anma etkinliklerinin takvimi netleşti.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+gorsel_kredi: 'Arşiv fotoğrafı: bilinmiyor / Wikimedia Commons (Public domain)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -13,34 +13,36 @@ etiketler:
 - İlçe Milli Eğitim Müdürlüğü
 - Alanya Belediye Başkanlığı
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
   konu_imza: bb7a9af74504
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T12:27:40+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+  fotografci: bilinmiyor
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: Mustafa Kemal Atatürk
+  cekim_yili: '1923'
+  aciklama: Mustafa Kemal Atatürk (1923)
+  gerekce: arşiv kaydı 'ataturk-1' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ataturk-1
+    tarih: '2026-11-09T13:27:04+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -48,6 +50,24 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-atasini-anacak-1
+gorsel_yedek: /images/haber-gorsel/20261109-alanyada-10-kasim-ataturku-anma-programi-belli-oldu-2beef-48256166.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2291
+  - 3091
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 0% 50%
+  o_kart_p: 50% 100%
+  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+gorsel_gecmis: []
 ---
 Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, vefatının 88'inci yıl dönümünde Alanya'da çeşitli tören ve etkinliklerle anılacak. Alanya Kaymakamlığı ve İlçe Milli Eğitim Müdürlüğü koordinasyonunda hazırlanan program, 10 Kasım Salı günü sabah saat 09.00'da Atatürk Anıtı'nda gerçekleştirilecek çelenk sunum töreniyle başlayacak.
 

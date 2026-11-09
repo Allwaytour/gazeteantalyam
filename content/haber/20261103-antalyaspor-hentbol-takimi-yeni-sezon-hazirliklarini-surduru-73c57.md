@@ -2,41 +2,41 @@
 title: Antalyaspor Hentbol Takımı Yeni Sezon Hazırlıklarını Sürdürüyor
 date: '2026-11-03T20:37:00+03:00'
 ozet: Antalyaspor Hentbol Şube Sorumlusu Hakan İrban, ilk hazırlık etabını tamamladıklarını ve İzmir Cup Turnuvası'na katılacaklarını açıkladı.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: takim
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: a73321659ea5
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T14:36:52+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: habere uygunluk düşük (3/10, en az 5); haberin konusuyla ilgisiz yer/nesne; yanlış spor dalı
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+  fotografci: Onur
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya Stadyumu
+  cekim_yili: '2015'
+  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-cd9201
+    tarih: '2026-11-09T13:27:14+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: habere uygunluk düşük (3/10, en az 5); haberin konusuyla ilgisiz yer/nesne; yanlış spor dalı
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,6 +53,27 @@ etiketler:
 - Antalyaspor
 - Göztepe
 - Merzifon Belediyesi
+gorsel_yedek: /images/haber-gorsel/20261103-antalyaspor-hentbol-takimi-yeni-sezon-hazirliklarini-surduru--90fd8cad.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2592
+  - 1456
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 64% 50%
+  o_manset_m: 56% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 56% 50%
+  o_yan_m: 100% 50%
+  o_kart: 64% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Antalyaspor hentbol takımı, yeni sezon öncesindeki ilk hazırlık devresini yoğun antrenmanlarla geride bıraktı. Kuvvet, kondisyon ve teknik çalışmaların yer aldığı bu ilk dönemin ardından kırmızı-beyazlı ekip, İzmir Cup Turnuvası'na katılmak üzere hazırlıklarına devam ediyor. Turnuva kapsamında Göztepe, Merzifon Belediyesi, Beykoz Belediyesi ve Bursa Nilüfer Belediyesi ile karşılaşmalar oynanacak.
 

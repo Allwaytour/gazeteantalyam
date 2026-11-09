@@ -2,41 +2,28 @@
 title: Antalya’da Organ Bağışı İçin Bilgilendirme Standı Kuruldu
 date: '2026-11-04T14:32:30+03:00'
 ozet: Antalya İl Sağlık Müdürlüğü, Organ Bağışı Haftası kapsamında vatandaşlara yönelik farkındalık etkinliği düzenledi.
-gorsel: /images/kategori/saglik.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalyada-organ-bagisi-icin-bilgilendirme-standi-kuruldu-0e47-7959f887.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Sağlık
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalyada-organ-bagisi-icin-bilgilendirme-standi-kuruldu-0e47-7959f887.jpg
   konu_imza: 9bc2bf60d984
-  gorsel_url: /images/kategori/saglik.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-08T14:37:00+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için '
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Behzat Özkan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya İl Sağlık Müdürlüğü'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için '
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,6 +37,27 @@ gorsel_onceki:
 etiketler:
 - Behzat Özkan
 - Antalya İl Sağlık Müdürlüğü
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-organ-bagisi-icin-bilgilendirme-standi-kuruldu-0e47-7959f887.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalyada-organ-bagisi-icin-bilgilendirme-standi-kuruldu-0e47-7959f887.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya İl Sağlık Müdürlüğü, 3-9 Kasım Organ Bağışı Haftası vesilesiyle kentteki bir alışveriş merkezinde bilgilendirme stantları açtı. Sağlık çalışanlarının yer aldığı stantlarda, ziyaretçilere organ bağışı süreci ve başvuru adımları detaylı bir şekilde aktarıldı. Etkinlik boyunca bilgilendirici broşürler dağıtılırken, vatandaşlara defne fidanı hediye edildi ve canlı müzik dinletisi sunuldu.
 

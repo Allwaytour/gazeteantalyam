@@ -2,36 +2,41 @@
 title: Alanya'nın il olma sürecine ilişkin dikkat çeken uyarı
 date: '2026-11-04T12:14:00+03:00'
 ozet: Zafer Partisi Alanya İlçe Başkanı Fikret Türkoğlu, ilçenin il statüsü kazanmasını desteklediklerini ancak bu sürecin üniter yapıyı zedeleyecek düzenlemelere kalkan olmaması gerektiğini belirtti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
   konu_imza: 85c198b819da
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-04T12:27:16+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Fikret Türkoğlu'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  fotografci: Julian Lupyan
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  gosterilen: Alanya Kleopatra Plajı ve turistik bölge
+  cekim_yili: '2024'
+  aciklama: Alanya, Kleopatra Plajı (2024)
+  gerekce: arşiv kaydı 'alanya-kleopatra' (Alanya Kleopatra Plajı ve turistik bölge) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: alanya-kleopatra
+    tarih: '2026-11-09T13:27:13+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: kimlik_eslesmedi
+      aciklama: '''Fikret Türkoğlu'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +44,30 @@ otomatik: true
 yz: true
 kaynak: www.mansetalanya.com
 kaynak_url: https://www.mansetalanya.com/zafer-partisinden-alanyanin-il-olma-surecine-kritik-uyari
+gorsel_yedek: /images/haber-gorsel/20261104-alanyanin-il-olma-surecine-iliskin-dikkat-ceken-uyari-3cc13-f5adc9c7.jpg
+gorsel_yerlesim:
+  boyut:
+  - 5870
+  - 3913
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+gorsel_gecmis: []
 ---
 Alanya'nın il olma konusu siyasi gündemde yer almaya devam ederken, Zafer Partisi Alanya İlçe Başkanı Fikret Türkoğlu'ndan konuyla ilgili önemli bir açıklama geldi. Türkoğlu, ilçenin il statüsüne kavuşmasını uzun süredir beklenen ortak bir hayal olarak nitelendirerek bu sürece tam destek verdiklerini vurguladı.
 

@@ -2,8 +2,8 @@
 title: 'Gazipaşa''da hafif ticari araçla otomobil çarpıştı: 3 yaralı'
 date: '2026-11-01T12:05:40+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde hafif ticari araç ile otomobilin çarpıştığı kazada 3 kişi yaralandı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c6-ea211b45.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,25 +18,23 @@ kaynak_url: https://www.dha.com.tr/yerel-haberler/antalya/gazipasa/hafif-ticari-
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1575987446487-56eba08666cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2FyJTIwY3Jhc2glMjBwb2xpY2UlMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MzUyOTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Matt C / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c6-ea211b45.jpg
   konu_imza: d504184fb250
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor; karede tanınabilir bir çocuk var'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor; karede tanınabilir bir çocuk var'
 gorsel_gecmis:
 - gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Egemen4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
@@ -71,6 +69,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor; karede tanınabilir bir çocuk var'
+gorsel_yedek: /images/haber-gorsel/20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c6-ea211b45.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c6-ea211b45.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında hafif ticari araçla otomobil çarpıştı ve 3 kişi yaralandı.
 

@@ -2,8 +2,8 @@
 title: Serik'te cami tuvaletinde mahsur kalan vatandaş kurtarıldı
 date: '2026-11-08T14:15:26+03:00'
 ozet: Antalya'nın Serik ilçesinde namaz sonrasında girdiği cami tuvaletinde kilitli kalan kişi, imamın yardımıyla kurtuldu.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261108-serikte-cami-tuvaletinde-mahsur-kalan-vatandas-kurtarildi-3b4-838aa789.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Yaşam
 ilceler:
@@ -11,25 +11,23 @@ ilceler:
 etiketler:
 - Antalya Büyükşehir Belediyesi İtfaiye Daire Başkanlığı
 onem: 1
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:42+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261108-serikte-cami-tuvaletinde-mahsur-kalan-vatandas-kurtarildi-3b4-838aa789.jpg
   konu_imza: a60b163825a9
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -113,6 +111,27 @@ gorsel_gecmis:
     kurum: k5
   degisim: '2026-11-08T22:29:42+03:00'
   kaldirma_nedeni: kaynak kaydı başka bir yere ait (Manavgat); haberde bu yer geçmiyor
+gorsel_yedek: /images/haber-gorsel/20261108-serikte-cami-tuvaletinde-mahsur-kalan-vatandas-kurtarildi-3b4-838aa789.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261108-serikte-cami-tuvaletinde-mahsur-kalan-vatandas-kurtarildi-3b4-838aa789.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Serik ilçesinde meydana gelen olayda, cami tuvaletinde mahsur kalan bir kişi kısa süreli panik yaşadı. Alınan bilgilere göre olay, Akçaalan Mahallesi'nde bulunan bir camide gerçekleşti. Vakit namazını eda ettikten sonra tuvalete giren Abdurrahman Uyar, bir süre sonra çıkış kapısının kilitlenmesi nedeniyle içeride mahsur kaldı.
 

@@ -2,30 +2,28 @@
 title: Antalya'da Isıtma Sezonu Öncesi Kazan Bakımı Uyarısı
 date: '2026-11-02T16:42:45+03:00'
 ozet: Makina Mühendisleri Odası Antalya Şube Başkanı Devrim Kılıç, kış mevsimi yaklaşırken merkezi ısıtma kazanlarının bakım ve kontrollerinin aksatılmaması gerektiğini belirtti.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Yaşam
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
   konu_imza: 02c783a6b90a
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -70,6 +68,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Kış mevsiminin yaklaşmasıyla birlikte konutlarda ısıtma sezonu açılırken, yaz boyunca çalıştırılmayan kalorifer kazanlarının yeniden devreye alınmadan önce bakım ve kontrollerden geçirilmesi gerektiği bildirildi. Isıtma sistemlerinin güvenli kullanımı ve enerji tasarrufu açısından düzenli bakımın büyük önem taşıdığı ifade edildi.
 

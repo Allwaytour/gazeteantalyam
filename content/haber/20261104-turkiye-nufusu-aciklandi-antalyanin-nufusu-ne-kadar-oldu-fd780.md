@@ -2,52 +2,54 @@
 title: 'Türkiye nüfusu açıklandı: Antalya''nın nüfusu ne kadar oldu?'
 date: '2026-11-04T15:46:17+03:00'
 ozet: Türkiye İstatistik Kurumu verilerine göre ülke nüfusu 86 milyon 500 bini aşarken, Antalya'nın nüfusuna yönelik beklentiler ve geçmiş veriler paylaşıldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: FingerWiki / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 4 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
   konu_imza: 76fbcfe351b2
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:16:46+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '4 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Türkiye'' için konuyla (population statistics, demographic data, census) ilişkili lisanslı fotoğraf bulunamadı; ''nüfus verileri'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: nüfus istatistikleri grafiği, demografik veri görselleştirme)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Siegen.png
-      katman: nesne
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-    - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Plauen.png
-      katman: nesne
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-    - sayfa: https://commons.wikimedia.org/wiki/File:R%C3%A9sum%C3%A9_graphique_g%C3%A9n%C3%A9ral_de_l%27Atlas_statistique_de_la_population_de_Paris.jpg
-      katman: nesne
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-    - sayfa: https://commons.wikimedia.org/wiki/File:Growth_Rate_vs_Median_Age,_2021.png
-      katman: nesne
-      neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-  kapak_surum: c2
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  fotografci: FingerWiki
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Konyaaltı Sahili ve Beydağları
+  cekim_yili: '2023'
+  aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
+  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: antalya-konyaalti
+    tarih: '2026-11-09T13:27:11+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '4 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Türkiye'' için konuyla (population statistics, demographic data, census) ilişkili lisanslı fotoğraf bulunamadı; ''nüfus verileri'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: nüfus istatistikleri grafiği, demografik veri görselleştirme)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Siegen.png
+        katman: nesne
+        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+      - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Plauen.png
+        katman: nesne
+        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+      - sayfa: https://commons.wikimedia.org/wiki/File:R%C3%A9sum%C3%A9_graphique_g%C3%A9n%C3%A9ral_de_l%27Atlas_statistique_de_la_population_de_Paris.jpg
+        katman: nesne
+        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+      - sayfa: https://commons.wikimedia.org/wiki/File:Growth_Rate_vs_Median_Age,_2021.png
+        katman: nesne
+        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -60,6 +62,30 @@ gorsel_onceki:
   gorsel_kredi: ''
 etiketler:
 - Türkiye İstatistik Kurumu
+gorsel_yedek: /images/haber-gorsel/20261104-turkiye-nufusu-aciklandi-antalyanin-nufusu-ne-kadar-oldu-fd78-0c7b5364.jpg
+gorsel_yerlesim:
+  boyut:
+  - 4080
+  - 3072
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+gorsel_gecmis: []
 ---
 Türkiye İstatistik Kurumu, dönemsel nüfus istatistiklerini kamuoyuyla paylaştı. Açıklanan verilere göre ülke genelindeki nüfus, 2026 yılının ilk dokuz aylık sürecinde 410 bin 118 kişilik bir artış kaydetti. Yılın belirli bir döneminde ise nüfus 181 bin 684 kişi daha yükseldi ve 1 Ekim 2026 tarihi itibarıyla toplam nüfus 86 milyon 502 bin 286 kişiye ulaştı. Ülke genelindeki nüfusun dağılımında erkekler yüzde 50,02 oranla 43 milyon 264 bin 337 kişi olurken, kadınlar yüzde 49,98 oranla 43 milyon 237 bin 949 kişi olarak kayıtlara geçti.
 

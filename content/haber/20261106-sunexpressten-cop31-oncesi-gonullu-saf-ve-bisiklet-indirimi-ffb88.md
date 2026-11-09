@@ -113,6 +113,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-f-2fb3f020.jpg
 ---
 Antalya'nin ev sahipliginde duzenlenecek COP31 oncesinde havayolu sektorunde cevre dostu yeni adimlar atilmaya devam ediliyor. Bu kapsamda SunExpress, yolcularin ucus kaynakli karbon emisyonlarini dusurmelerini saglamak amaciyla gonullu Surdurulebilir Havacilik Yakiti katkisi sunan yeni bir uygulamayi hayata gecirdi. Konferans oncesi baslatilan bu cevreci uygulamanin zirvenin ardindan da surdurulecegi aciklandi.
 

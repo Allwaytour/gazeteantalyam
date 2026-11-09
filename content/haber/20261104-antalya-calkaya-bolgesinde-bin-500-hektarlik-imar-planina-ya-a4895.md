@@ -2,37 +2,28 @@
 title: Antalya Çalkaya bölgesinde bin 500 hektarlık imar planına yargıdan iptal kararı
 date: '2026-11-04T05:00:00+03:00'
 ozet: Antalya'nın Çalkaya bölgesindeki dört mahalleyi kapsayan 2018 tarihli parselasyon işlemi mahkeme tarafından iptal edildi. Kararla birlikte bölgedeki işlemler ve yatırımlar belirsizliğe sürüklendi.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalya-calkaya-bolgesinde-bin-500-hektarlik-imar-planina-ya--6d0b9254.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
 - Aksu
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalya-calkaya-bolgesinde-bin-500-hektarlik-imar-planina-ya--6d0b9254.jpg
   konu_imza: 509fdfa92f58
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-04T05:36:24+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '1 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: birgun.net
 kaynak_url: https://www.birgun.net/haber/antalya-da-1500-hektarlik-imar-cikmazi-mahkemeden-iptal-karari-744381
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-calkaya-bolgesinde-bin-500-hektarlik-imar-planina-ya--6d0b9254.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalya-calkaya-bolgesinde-bin-500-hektarlik-imar-planina-ya--6d0b9254.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'da dört mahalleyi kapsayan Çalkaya bölgesindeki 2018 tarihli parselasyon işlemi, mahkeme kararıyla hukuka aykırı bulunarak iptal edildi. Yaklaşık 1500 hektarlık alanı etkileyen bu kararın ardından, bölgedeki yapı ruhsatları, iskân, tapu işlemleri ve devam eden yatırımların geleceği belirsizlik yaşatmaya başladı. Mahkeme gerekçesinde, proje alanı sınırları dışında kalan bazı taşınmazların da parselasyon düzenlemesine dahil edildiğine dikkat çekerek bu durumun genel iptal sebebi niteliği taşıdığını belirtti.
 

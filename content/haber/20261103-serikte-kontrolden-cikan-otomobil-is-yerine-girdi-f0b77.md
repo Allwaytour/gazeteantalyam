@@ -2,37 +2,28 @@
 title: Serik'te kontrolden çıkan otomobil iş yerine girdi
 date: '2026-11-03T11:13:29+03:00'
 ozet: Antalya'nın Serik ilçesinde kontrolden çıkan otomobil, park halindeki araçlara çarptıktan sonra bir çorbacıya daldı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261103-serikte-kontrolden-cikan-otomobil-is-yerine-girdi-f0b77-eb4fcb0a.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Serik
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261103-serikte-kontrolden-cikan-otomobil-is-yerine-girdi-f0b77-eb4fcb0a.jpg
   konu_imza: ddd41e2fe499
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-03T11:24:08+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/video/serik/serikte-3-araca-carpan-otomobil-corbaciya-girdi/388552
+gorsel_yedek: /images/haber-gorsel/20261103-serikte-kontrolden-cikan-otomobil-is-yerine-girdi-f0b77-eb4fcb0a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261103-serikte-kontrolden-cikan-otomobil-is-yerine-girdi-f0b77-eb4fcb0a.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Serik ilçesinde gece saatlerinde meydana gelen kazada, sürücüsünün kimliği henüz belirlenemeyen 46 AKS 626 plakalı otomobil kontrolden çıktı. Orta Mahalle D-400 kara yolunda Antalya'dan Manavgat istikametine seyir halindeki araç, yol kenarında park halinde bulunan iki otomobil ile bir hafif ticari araca çarptı.
 

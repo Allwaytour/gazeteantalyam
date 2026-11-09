@@ -47,6 +47,7 @@ gorsel_secim:
   kurum_notu: 'Çubuk İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce; Beylikdüzü İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı'
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-iki-festivalin-protokol-katilimindaki-tezat-dikk--591c0001.jpg
 ---
 Antalya'da gerçekleşen iki farklı kültür ve sanat etkinliğinde, protokol katılımı konusunda yaşanan ayrışmalar dikkat çekti. Kültür ve Turizm Bakanlığı tarafından hayata geçirilen Antalya Kültür Yolu Festivali'nin açılış törenine iktidar kanadından yoğun katılım olurken, muhalefet partilerinden hiçbir ismin yer almaması gözlerden kaçmadı.
 

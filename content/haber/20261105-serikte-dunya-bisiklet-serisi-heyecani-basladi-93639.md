@@ -120,6 +120,7 @@ gorsel_yerlesim:
 etiketler:
 - Uluslararası Bisiklet Birliği
 - UCI Gran Fondo World Series
+gorsel_yedek: /images/haber-gorsel/20261105-serikte-dunya-bisiklet-serisi-heyecani-basladi-93639-e2c0afff.jpg
 ---
 Serik, bu yıl ilk kez düzenlenen UCI Gran Fondo World Series Türkiye organizasyonuna ev sahipliği yapıyor. 5-8 Kasım tarihleri arasında gerçekleştirilen dev organizasyon, The Land of Legends'ta kurulan Expo Alanı'nın açılışı ve yarış kitlerinin dağıtımıyla başladı. 40'ı aşkın ülkeden 1000'den fazla bisikletçiyi bir araya getiren etkinlik, ilk gün düzenlenen 'Go Türkiye- Go Cycling' paneliyle spor dünyasının dikkatini bölgeye çekti.
 

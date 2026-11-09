@@ -2,36 +2,28 @@
 title: Manavgat Belediyespor'dan üst üste üçüncü galibiyet
 date: '2026-11-03T14:53:00+03:00'
 ozet: Manavgat Belediyespor, sahasında ağırladığı Turgutreisspor'u tek golle geçerek ligdeki kayıpsız gidişatını sürdürdü.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261103-manavgat-belediyespordan-ust-uste-ucuncu-galibiyet-d135d-628b6af2.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
 - Manavgat
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261103-manavgat-belediyespordan-ust-uste-ucuncu-galibiyet-d135d-628b6af2.jpg
   konu_imza: 3102225d4ef5
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-03T19:57:09+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Manavgat Atatürk Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'ANTALYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Manavgat Atatürk Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/manavgat-belediyespor-turgutreissporu-yenerek-ucte-uc-yapti-1-0
+gorsel_yedek: /images/haber-gorsel/20261103-manavgat-belediyespordan-ust-uste-ucuncu-galibiyet-d135d-628b6af2.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261103-manavgat-belediyespordan-ust-uste-ucuncu-galibiyet-d135d-628b6af2.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Profesyonelliğe Geçiş Ligi 12'nci Grup'ta mücadele eden Manavgat Belediyespor, ligin üçüncü haftasında Muğla temsilcisi Turgutreisspor ile karşı karşıya geldi. Manavgat Atatürk Stadı'nda oynanan mücadelenin ilk devresinde iki takım da gol bulamazken, devre arasına golsüz eşitlikle gidildi.
 

@@ -44,6 +44,7 @@ gorsel_secim:
   kurum_notu: Manavgat Belediyesi sayfasında bulundu
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-manavgat-belediyesinde-noter-huzurunda-isci-alimi-yapildi-345-f16c03b8.jpg
 ---
 Manavgat Belediyesi iştiraki olan Toros Et Süt Tanzim Satış Mağazası'nın personel ihtiyacını karşılamak amacıyla başlatılan alım sürecinde toplam 68 kişi başvuru yaptı. Gerçekleştirilen mülakat aşamasında adaylardan 10 kişi kendi istekleriyle süreçten çekilirken, 11 kişi ise mülakata katılmadı. Değerlendirmeler sonucunda 12 aday elenirken, kura çekimine katılmaya hak kazanan 35 aday belirlendi.
 

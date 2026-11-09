@@ -2,8 +2,8 @@
 title: Yamansaz'ın imar planı değişikliklerine Mimarlar Odası'ndan tepki
 date: '2026-11-06T17:47:26+03:00'
 ozet: Mimarlar Odası Antalya Şubesi, Yamansaz bölgesine yönelik yeni imar planı kararlarının ekosisteme etkilerine dikkat çekerek tepki gösterdi.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-yamansazin-imar-plani-degisikliklerine-mimarlar-odasindan-te--9167e873.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,35 +13,22 @@ etiketler:
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 - Danıştay 6. Dairesi
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-yamansazin-imar-plani-degisikliklerine-mimarlar-odasindan-te--9167e873.jpg
   konu_imza: daf7f5cf9f75
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-08T12:34:57+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mimarlar Odası Antalya Şubesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için konuyla (nature, wetland, '
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mimarlar Odası Antalya Şubesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Yamansaz'' için konuyla (nature, wetland, '
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -52,6 +39,27 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/yamansazin-gelecegi-icin-mi
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261106-yamansazin-imar-plani-degisikliklerine-mimarlar-odasindan-te--9167e873.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-yamansazin-imar-plani-degisikliklerine-mimarlar-odasindan-te--9167e873.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Muratpaşa sınırlarında yer alan doğal miras Yamansaz için hazırlanan yeni imar planı kararları tartışma yarattı. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylanarak askıya çıkarılan koruma amaçlı imar planı değişiklikleri; konut, ticaret, turizm ve otel alanlarına ilişkin emsal, kat ile bodrum kat düzenlemelerini kapsıyor. Konuyla ilgili açıklama yapan TMMOB Mimarlar Odası Antalya Şubesi, bölgenin geleceğinin parsel bazlı beklentilere kurban edilemeyeceğini vurguladı. Açıklamada, Yamansaz'ın sadece boş bir arazi olmadığı, canlı ekosistemi ve su dengesiyle bir bütün olarak ele alınması gerektiği ifade edildi.
 

@@ -2,39 +2,29 @@
 title: Manavgat esnafı için Nefes Kredisi istişaresi yapıldı
 date: '2026-11-04T13:42:44+03:00'
 ozet: Manavgat Ticaret ve Sanayi Odası, üyelerin finansmana erişimini kolaylaştırmak amacıyla banka şube müdürleriyle bir araya geldi.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler:
 - Manavgat
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
   konu_imza: aff927d7a6a9
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T21:21:37+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' içi'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' için konuyla (meeting room, business meeting, bankers) ilişkili lisanslı fotoğraf bulunamadı'
-  kapak_surum: c2
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' içi'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' için konuyla (meeting room, business meeting, bankers) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,6 +39,27 @@ etiketler:
 - Önem Gök
 - Manavgat Ticaret ve Sanayi Odası
 - TOBB
+gorsel_yedek: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Manavgat ilçesinde, yükselen işletme maliyetleri karşısında yerel ekonomiyi desteklemek üzere bir finans toplantısı gerçekleştirildi. Manavgat Ticaret ve Sanayi Odası oda hizmet binasında düzenlenen istişare buluşmasında, TOBB Nefes Kredisi çerçevesinde kaynak sağlayacak bankaların ilçe merkezindeki şube müdürleri bir araya geldi. Oda yönetim kurulu üyelerinin de katıldığı oturumda, işletmelerin finansmana ulaşımını kolaylaştıracak başvuru adımları ve pratik çözümler masaya yatırıldı.
 

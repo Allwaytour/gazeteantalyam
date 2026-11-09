@@ -2,42 +2,28 @@
 title: 'Antalya''da ulaşım tarifeleri görüşüldü: Gözler çıkacak kararda'
 date: '2026-11-04T19:03:00+03:00'
 ozet: Antalya'da şoför esnafının temsilcileri ve belediye yönetimi bir araya gelerek ulaşım maliyetleri ve tarifeleri masaya yatırdı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
   konu_imza: 8c02ac069380
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T15:20:19+03:00'
-    yontem: h2
-    model: gemini-3.1-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %13); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %40); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %13)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (cizim); gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (6/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; tarihî/siyah-be
-  kapak_surum: c8
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (cizim); gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (6/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; tarihî/siyah-be
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -82,6 +68,27 @@ etiketler:
 - Büşra Özdemir
 - Antalya Büyükşehir Belediyesi
 - Antalya Şoförler Odası
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'da şoför esnafının oda başkanları ile büyükşehir belediyesi yönetimi bir araya gelerek kentteki ulaşım sektörüyle ilgili sorunları görüştü. Gerçekleşen toplantıda, ulaşım hizmetlerinin sürdürülebilirliği ile vatandaşların ekonomik durumları ele alındı.
 

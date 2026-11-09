@@ -2,8 +2,8 @@
 title: Antalya'da Belediyelerden Çocuklara Ücretsiz Eğitim ve Etkinlik Desteği
 date: '2026-11-08T02:15:00+03:00'
 ozet: Antalya Büyükşehir ve ilçe belediyeleri, çocukların gelişimine katkı sağlamak amacıyla kütüphanelerden spor kurslarına kadar geniş bir yelpazede ücretsiz hizmet sunuyor.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261108-antalyada-belediyelerden-cocuklara-ucretsiz-egitim-ve-etkinl--53d29381.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Yaşam
 ilceler: []
@@ -13,35 +13,22 @@ etiketler:
 - Muratpaşa Belediyesi
 - Konyaaltı Belediyesi
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261108-antalyada-belediyelerden-cocuklara-ucretsiz-egitim-ve-etkinl--53d29381.jpg
   konu_imza: d6071a7ab24f
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T15:04:12+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (4/10, en az 6); habere uygunluk düşük (5/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar, eğiti'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (4/10, en az 6); habere uygunluk düşük (5/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar; zorunlu unsurlardan hiçbiri görünmüyor: çocuklar, eğiti'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -52,6 +39,27 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyada-cocuklu-ailelere-mujde-be
 gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-belediyelerden-cocuklara-ucretsiz-egitim-ve-etkinl--53d29381.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261108-antalyada-belediyelerden-cocuklara-ucretsiz-egitim-ve-etkinl--53d29381.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya genelinde belediyeler, çocuklu ailelerin hem keyifli vakit geçirmesi hem de çocukların kişisel gelişimlerini desteklemek için çeşitli ücretsiz imkanlar sağlıyor. Büyükşehir Belediyesi ve ilçe belediyeleri tarafından yürütülen bu hizmetler; eğitim, spor, kültür ve bilim gibi pek çok farklı alanı kapsıyor.
 

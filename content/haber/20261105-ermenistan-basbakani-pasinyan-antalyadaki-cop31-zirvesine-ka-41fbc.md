@@ -112,6 +112,7 @@ etiketler:
 - Nikol Paşinyan
 - Recep Tayyip Erdoğan
 - Birleşmiş Milletler
+gorsel_yedek: /images/haber-gorsel/20261105-ermenistan-basbakani-pasinyan-antalyadaki-cop31-zirvesine-ka--fb265274.jpg
 ---
 Ermenistan Başbakanı Nikol Paşinyan, hükümet toplantısının ardından basın mensuplarının sorularını yanıtladı. Bir gazetecinin sorusu üzerine yaptığı açıklamada, Antalya'da düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) katılmayı planladığını belirtti.
 

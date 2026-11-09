@@ -2,33 +2,25 @@
 title: Antalya'da Minik Öğrenciler Kulüpte Tenisle Tanıştı
 date: '2026-11-02T13:40:00+03:00'
 ozet: Türkiye Tenis Federasyonunun hayata geçirdiği Haydi Tenise Projesi'nin yeni modeli Antalya'da başladı. Kemer'de 60 ilkokul öğrencisi profesyonel tesislerde tenis eğitimi almaya hak kazandı.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261102-antalyada-minik-ogrenciler-kulupte-tenisle-tanisti-33d74-2aeb69c4.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler:
 - Kemer
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261102-antalyada-minik-ogrenciler-kulupte-tenisle-tanisti-33d74-2aeb69c4.jpg
   konu_imza: 81d524103be1
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T16:56:55+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k3
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ kaynak_url: https://www.tourismtoday.net/turizm-haberleri/spor/60-ilkokul-ogrenc
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kemer_Strand.JPG/1280px-Kemer_Strand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Elelicht / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-minik-ogrenciler-kulupte-tenisle-tanisti-33d74-2aeb69c4.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261102-antalyada-minik-ogrenciler-kulupte-tenisle-tanisti-33d74-2aeb69c4.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Çocukların spora erişimini artırmak ve tenis kültürünü yaygınlaştırmak amacıyla hayata geçirilen Haydi Tenise Projesi, yeni uygulama modeliyle Antalya'da ilk adımı attı. Projenin pilot uygulaması Kemer ilçesindeki tesislerde start alırken, devlet okullarında eğitim gören çocukların profesyonel imkanlarla buluşturulması hedeflendi.
 

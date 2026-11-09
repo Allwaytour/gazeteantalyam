@@ -133,6 +133,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 76% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-alanyanin-il-olma-beklentisi-yeniden-gundemde-12022-cb06bd3f.jpg
 ---
 Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli'nin daha önce duyurduğu 100 il ve 1000 ilçe projesi çerçevesinde Alanya'nın il olabilecek ilçeler arasında ilk sıralarda anılması, kentte yeni bir hareketlilik dalgası oluşturdu. Alanya Ticaret ve Sanayi Odası Başkanı Mustafa Tuna, ilçenin pek çok açıdan il statüsüne hazır olduğunu vurgulayarak bu adımın yatırım ve karar alma süreçlerini hızlandıracağını belirtti.
 

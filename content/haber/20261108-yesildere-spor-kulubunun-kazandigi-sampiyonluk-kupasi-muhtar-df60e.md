@@ -113,6 +113,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/kazanilan-kupa-mahalle-muhtarliginda-sergileniyor
+gorsel_yedek: /images/haber-gorsel/20261108-yesildere-spor-kulubunun-kazandigi-sampiyonluk-kupasi-muhtar--833a9c74.jpg
 ---
 Yeşildere Spor Kulübü, mahalledeki çocuk ve gençleri farklı spor branşlarıyla buluşturmak, sosyal hayata katılımlarını artırmak ve zararlı alışkanlıklardan uzak tutmak amacıyla çalışmalar yürütüyor. Bu kapsamda sürdürülen faaliyetlerin ardından gelen turnuva şampiyonluğu, kulübün çalışmalarını öne çıkardı. Kulüp yöneticileri, sporun disiplin, dayanışma ve kişisel gelişim açısından önemine dikkat çekerek bu başarının uzun süreli çalışmaların sonucu olduğunu belirtti.
 

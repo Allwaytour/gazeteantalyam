@@ -2,8 +2,8 @@
 title: Haydi Tenise Projesi'nin Yeni Modeli Antalya'da Başladı
 date: '2026-11-01T01:00:00+03:00'
 ozet: Çocukların erken yaşta tenisle tanışmasını amaçlayan projenin yeni kulüp modeli, Kemer'de hayata geçirildi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-haydi-tenise-projesinin-yeni-modeli-antalyada-basladi-6a0d3-4e54b8ae.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
@@ -15,30 +15,43 @@ otomatik: true
 yz: true
 kaynak: Uşak Haber Gazetesi
 kaynak_url: https://www.usakhabergazetesi.com.tr/haydi-tenise-projesinde-yeni-donem-ilk-egitim-antalyada-basladi
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-haydi-tenise-projesinin-yeni-modeli-antalyada-basladi-6a0d3-4e54b8ae.jpg
   konu_imza: f5da8357f248
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-02T19:53:29+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k3
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-haydi-tenise-projesinin-yeni-modeli-antalyada-basladi-6a0d3-4e54b8ae.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-haydi-tenise-projesinin-yeni-modeli-antalyada-basladi-6a0d3-4e54b8ae.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye Tenis Federasyonu öncülüğünde yürütülen Haydi Tenise Projesi, kulüp tesislerini ve antrenörleri sürece dahil eden yeni bir modelle genişletildi. Milli Eğitim Bakanlığı, Gençlik ve Spor Bakanlığı iş birliği ve Türkiye İş Bankası sponsorluğunda sürdürülen çalışmanın Haydi Tenise Kulüpte adı verilen ilk pilot uygulaması Kemer ilçesinde başladı. Bu yeni dönemle birlikte devlet okullarında okuyan çocukların kulüp imkanlarından faydalanarak düzenli tenis eğitimi alması amaçlanıyor.
 

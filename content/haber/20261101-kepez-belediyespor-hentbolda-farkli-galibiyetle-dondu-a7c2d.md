@@ -46,6 +46,7 @@ kaynak_url: https://www.antalyagundem.com.tr/kepezli-hentbolcular-farkli-kazandi
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-kepez-belediyespor-hentbolda-farkli-galibiyetle-dondu-a7c2d-5c5991da.jpg
 ---
 Hentbol Kadınlar 1. Ligi A Grubu'nda yer alan Kepez Belediyespor, dördüncü hafta karşılaşmasında deplasmanda Isparta Gençlik ve Spor Kulübü ile karşı karşıya geldi. Süleyman Demirel Üniversitesi Atatürk Spor Salonu'nda oynanan mücadele boyunca üstün bir performans sergileyen Antalya temsilcisi, sahadan 41-17 galip ayrılarak ligdeki üçüncü galibiyetini hanesine yazdırdı ve puan tablosundaki ikinci sıradaki yerini korudu.
 

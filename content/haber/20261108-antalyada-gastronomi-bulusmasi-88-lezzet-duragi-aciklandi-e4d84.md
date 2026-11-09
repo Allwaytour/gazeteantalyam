@@ -120,6 +120,7 @@ otomatik: true
 yz: true
 kaynak: Milliyet
 kaynak_url: https://www.milliyet.com.tr/kultur-sanat/michelin-yildizli-sefler-antalyada-bulustu-88-ozel-lezzet-duragi-aciklandi-7696655
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-gastronomi-bulusmasi-88-lezzet-duragi-aciklandi-e4d-24211dae.jpg
 ---
 Kültür ve Turizm Bakanlığı tarafından hayata geçirilen Antalya Kültür Yolu Festivali, kentin zengin mutfak kültürünü gastronomi programıyla ön plana çıkardı. Şef Mehmet Akdağ’ın ev sahipliğinde gerçekleşen etkinliklerde, gastronomi dünyasının tanınmış isimleri Antalya’nın farklı ilçelerini kapsayan lezzet rotalarında bir araya geldi. Türkiye Turizm Tanıtım ve Geliştirme Ajansı tarafından yürütülen proje kapsamında 88 restoran gastronomi seçkisine dahil edildi.
 

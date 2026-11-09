@@ -120,6 +120,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261105-seralardaki-sel-zararina-ragmen-antalyada-sebze-fiyatlari-du--f011db25.jpg
 ---
 Antalya'da son haftalarda etkili olan şiddetli yağış, sel, dolu ve hortum tarım alanlarında zarara yol açtı. Özellikle Kaş, Demre, Kumluca ve Finike ilçelerinde seralar su altında kalırken, Manavgat'ta dolu ve hortum, Aksu ve Serik'te ise kuvvetli yağışlar etkili oldu. Afetlerin ardından üretimde azalma ve fiyat artışı beklenirken, Antalya Toptancı Hali'nde domates ve biber başta olmak üzere sebze fiyatlarında yüzde 10 ile 20 arasında düşüş kaydedildi.
 

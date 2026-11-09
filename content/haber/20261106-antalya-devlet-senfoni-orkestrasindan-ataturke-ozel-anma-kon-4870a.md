@@ -2,8 +2,8 @@
 title: Antalya Devlet Senfoni Orkestrası'ndan Atatürk'e Özel Anma Konseri
 date: '2026-11-06T12:10:50+03:00'
 ozet: Antalya Devlet Senfoni Orkestrası, Gazi Mustafa Kemal Atatürk'ü anmak amacıyla klasik müzik ve Millî Mücadele ruhunu buluşturan özel bir konser düzenliyor.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+gorsel_kredi: 'Arşiv fotoğrafı: bilinmiyor / Wikimedia Commons (Public domain)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -14,36 +14,35 @@ etiketler:
 - Antalya Devlet Senfoni Orkestrası
 - İsmail Baha Sürelsan Konservatuvarı Çoksesli Korosu
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
   konu_imza: d029856aca0e
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T13:07:18+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: aşırı karanlık (medyan parlaklık 10, karanlık pay %84); aşırı karanlık (medyan parlaklık 18, karanlık pay %74); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
-  kapak_surum: c8
-  onceki_kontrol: k4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+  fotografci: bilinmiyor
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: Mustafa Kemal Atatürk
+  cekim_yili: '1923'
+  aciklama: Mustafa Kemal Atatürk (1923)
+  gerekce: arşiv kaydı 'ataturk-1' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ataturk-1
+    tarih: '2026-11-09T13:27:08+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: aşırı karanlık (medyan parlaklık 10, karanlık pay %84); aşırı karanlık (medyan parlaklık 18, karanlık pay %74); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -85,6 +84,23 @@ gorsel_gecmis:
     kaynak_aciklama: Antalya Devlet Senfoni Orkestrası 22.11.2024 Gürer AYKAL yönetimindeki konseri
     kurum: k5
   degisim: '2026-11-08T13:07:31+03:00'
+gorsel_yedek: /images/haber-gorsel/20261106-antalya-devlet-senfoni-orkestrasindan-ataturke-ozel-anma-kon--16666e9d.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2291
+  - 3091
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 0% 50%
+  o_kart_p: 50% 100%
+  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
 ---
 Antalya Devlet Senfoni Orkestrası, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir etkinliğe imza atmaya hazırlanıyor. Klasik müziğin evrensel ezgilerini Millî Mücadele ruhuyla harmanlayacak olan Atatürk’ü Anma Konseri, Atatürk Kültür Merkezi Aspendos Salonu’nda müzikseverlerle buluşacak. Etkinlik, 13 Kasım 2026 Cuma akşamı saat 20.30'da gerçekleştirilecek.
 

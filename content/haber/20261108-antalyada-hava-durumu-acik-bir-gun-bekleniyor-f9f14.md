@@ -111,6 +111,7 @@ kaynak_url: https://www.canligaste.com/antalya-da-bugun-hava-cogunlukla-acik-en-
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-hava-durumu-acik-bir-gun-bekleniyor-f9f14-5dd87a40.jpg
 ---
 Antalya genelinde bugün hava durumu çoğunlukla açık bir seyir izleyecek. Gün boyu ılık bir havanın etkili olması beklenirken, termometrelerin en düşük 11, en yüksek ise 18 dereceyi göstermesi öngörülüyor. Nem oranının yüzde 38 seviyelerinde seyredeceği tahmin ediliyor.
 

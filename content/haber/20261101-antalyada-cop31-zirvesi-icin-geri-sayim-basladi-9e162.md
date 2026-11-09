@@ -2,33 +2,38 @@
 title: Antalya'da COP31 Zirvesi İçin Geri Sayım Başladı
 date: '2026-11-01T22:46:00+03:00'
 ozet: Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na sayılı günler kala Antalya'da düzenlenen drone gösterisi görsel bir şölen sundu.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Aksu
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g6-2026-11-01
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 69d9969062b5
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T00:04:12+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-expo
+    tarih: '2026-11-09T13:27:19+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,6 +41,28 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/murat-kurum-paylasti-zirveye-son-7-gun/388473
+gorsel_yedek: /images/haber-gorsel/20261101-antalyada-cop31-zirvesi-icin-geri-sayim-basladi-9e162-e6c5b0ec.jpg
+gorsel_yerlesim:
+  boyut:
+  - 4608
+  - 2592
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
+  o_yan_m: 50% 50%
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ev sahipliği yapmaya hazırlanan Antalya'da büyük buluşma için geri sayım sürerken kentteki hazırlıklar ve etkinlikler hız kazandı. Küresel iklim mücadelesinin en kritik platformları arasında yer alan zirvenin başlamasına bir hafta kala, heyecanı artıran etkileyici bir görsel etkinlik gerçekleştirildi.
 

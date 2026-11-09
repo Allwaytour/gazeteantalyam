@@ -2,42 +2,28 @@
 title: Antalyali sanatci Lelya Bayramogullari Ingiltere'de Türk müzigini tanitti
 date: '2026-11-04T10:09:00+03:00'
 ozet: Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda Londra ve Manchester'da konserler vererek Türk müzigini uluslararasi dinleyicilerle bulusturdu.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
   konu_imza: 74c4c2c9b90e
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T15:19:54+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: aşırı karanlık (medyan parlaklık 32, karanlık pay %75); aşırı karanlık (medyan parlaklık 34, karanlık pay %69); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (4/10, en az 6); yanlış kişi öne çıkıyor
-  kapak_surum: c8
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: aşırı karanlık (medyan parlaklık 32, karanlık pay %75); aşırı karanlık (medyan parlaklık 34, karanlık pay %69); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (4/10, en az 6); yanlış kişi öne çıkıyor
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -82,6 +68,27 @@ etiketler:
 - Yunus Emre Enstitüsü
 - Türkiye'nin Londra Başkonsolosluğu
 - Manchester Başkonsolosluğu
+gorsel_yedek: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda gerçeklestirdigi konserlerde Türk müzigini uluslararasi dinleyicilerle bulusturdu. 24-30 Ekim tarihleri arasinda Londra ve Manchester'da üç konser veren sanatçi, ayrica Manchester'daki bir yasli bakim evini ziyaret ederek düzenledigi dinletiyle müzigi sosyal sorumluluk çalismasiyla bir araya getirdi.
 

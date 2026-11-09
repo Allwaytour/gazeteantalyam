@@ -2,8 +2,8 @@
 title: Antalya'daki COP31 sürdürülebilir işleyişle hayata geçirilecek
 date: '2026-11-06T12:30:58+03:00'
 ozet: Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek COP31, 190'dan fazla ülkenin katılımıyla sürdürülebilir bir etkinlik modeli olarak gerçekleştirilecek.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -11,36 +11,35 @@ etiketler:
 - BM İklim Değişikliği Çerçeve Sözleşmesi
 - UNFCCC
 onem: 5
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 75ba8397dee1
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T23:58:22+03:00'
-    yontem: h2
-    model: gemini-3.1-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'aşırı karanlık (medyan parlaklık 21, karanlık pay %84); başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: konferans salonu, zirve panosu, sürdü'
-  kapak_surum: c8
-  onceki_kontrol: k4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-expo
+    tarih: '2026-11-09T13:27:07+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'aşırı karanlık (medyan parlaklık 21, karanlık pay %84); başka bir olayın karesi güncel olayın görüntüsü sanılır; habere uygunluk düşük (1/10, en az 5); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: konferans salonu, zirve panosu, sürdü'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -84,6 +83,27 @@ gorsel_gecmis:
       kosul: Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.
     kurum: k5
   degisim: '2026-11-07T23:58:48+03:00'
+gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-cop31-surdurulebilir-isleyisle-hayata-gecirilece--62c07f8a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 4608
+  - 2592
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
+  o_yan_m: 50% 50%
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'da yapılacak olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı için hazırlıklarda sona yaklaşılırken, organizasyonun sürdürülebilir bir işleyişle hayata geçirileceği bildirildi. Zirvede sürdürülebilirlik uygulamalarının yalnızca stant ve panellerle sınırlı kalmayacağı, doğrudan organizasyonun işleyişine yansıtılacağı belirtildi.
 

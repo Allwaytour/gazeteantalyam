@@ -2,30 +2,28 @@
 title: Antalya-Isparta Demiryolu Hattı İçin Öncelik Talebi
 date: '2026-11-04T20:21:00+03:00'
 ozet: TBMM KİT Komisyonu toplantısında konuşan AK Parti Isparta Milletvekili Osman Zabun, Antalya-Isparta-Burdur-Afyonkarahisar demiryolu hattının öncelikli projeler arasına alınmasını istedi.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:43+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
   konu_imza: 25a19ab3080e
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: mikrofon/kürsü gibi genel dolgu görseli
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: mikrofon/kürsü gibi genel dolgu görseli
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -147,6 +145,27 @@ etiketler:
 - TBMM KİT Komisyonu
 - Türkiye Cumhuriyeti Devlet Demiryolları
 - AK Parti
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Komisyonu'nda gerçekleştirilen toplantıda, Türkiye Cumhuriyeti Devlet Demiryolları Genel Müdürlüğü ile bağlı şirketlerin 2023 ve 2024 yıllarına ait hesapları ve faaliyetleri değerlendirildi. Toplantı sırasında bölgenin ulaşım altyapısı açısından büyük önem taşıyan demiryolu projesi de gündeme taşındı.
 

@@ -2,8 +2,8 @@
 title: Antalya voleybol takımları hafta sonu kritik maçlara çıkıyor
 date: '2026-11-06T12:02:00+03:00'
 ozet: Antalya'yı voleybol liglerinde temsil eden ekipler, hafta sonu oynayacakları karşılaşmalardan galibiyetle ayrılmak için sahaya çıkacak.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-antalya-voleybol-takimlari-hafta-sonu-kritik-maclara-cikiyor--e55977f3.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
@@ -13,32 +13,23 @@ etiketler:
 - Muratpaşa Belediyesi Açı Koleji
 - Güral Premier Antalyaspor
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-antalya-voleybol-takimlari-hafta-sonu-kritik-maclara-cikiyor--e55977f3.jpg
   konu_imza: 9e1291c21cbf
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T12:41:23+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
-  kapak_surum: c6
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +37,27 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-voleybolunda-gozler-hafta-sonu-karsilasmalarinda
+gorsel_yedek: /images/haber-gorsel/20261106-antalya-voleybol-takimlari-hafta-sonu-kritik-maclara-cikiyor--e55977f3.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-antalya-voleybol-takimlari-hafta-sonu-kritik-maclara-cikiyor--e55977f3.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'yı kadınlar ve erkekler voleybol liglerinde temsil eden takımlar, hafta sonu zorlu müsabakalara hazırlanıyor. Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda yer alan 07 Mega Spor, deplasmanda PTT ile karşı karşıya gelecek. Geride kalan altı haftada dört galibiyet alan Antalya temsilcisi, başkentte galibiyet serisini sürdürmeyi hedefliyor. Aynı grupta mücadele eden Muratpaşa Belediyesi Açı Koleji ise sahasında Büyükşehir Belediyesi Ankara Spor'u konuk edecek. Taraftarının önünde galibiyet arayacak olan Muratpaşa ekibi, üst sıralardaki iddiasını korumak istiyor. Gruttaki diğer Antalya temsilcisi Trendy Hotels Manavgat Belediyespor'un bu hafta yapacağı karşılaşma ise rakibin ligden çekilmesi nedeniyle oynanmayacak.
 

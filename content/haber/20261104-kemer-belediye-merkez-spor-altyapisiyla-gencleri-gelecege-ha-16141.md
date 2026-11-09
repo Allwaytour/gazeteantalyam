@@ -2,39 +2,29 @@
 title: Kemer Belediye Merkez Spor Altyapısıyla Gençleri Geleceğe Hazırlıyor
 date: '2026-11-04T11:20:52+03:00'
 ozet: Kemer Belediyesi'nin desteğiyle faaliyet gösteren Merkez Spor, genç sporcuları profesyonel liglere kazandırmayı sürdürüyor.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
 - Kemer
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
   konu_imza: 1edc6884773a
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T21:22:19+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kurum_notu: Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18)
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi '
-    notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
-  kapak_surum: c2
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi '
+      notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,6 +39,27 @@ etiketler:
 - Kemer Belediye Merkez Spor
 - Kemer Belediyesi
 - Alanyaspor
+gorsel_yedek: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Kemer Belediyesi’nin desteğiyle çalışmalarını yürüten Kemer Belediye Merkez Spor, bünyesindeki 200 genç sporcuyla altyapıya yatırım yapmaya devam ediyor. U10’dan U19’a kadar farklı yaş kategorilerinde ücretsiz futbol eğitimi veren kulüpte, sporcuların forma, krampon, futbol topu, ulaşım ve teknik malzeme gibi tüm gereksinimleri belediye tarafından karşılanıyor. Çocukları sporla buluşturan belediye, düzenlediği motivasyon etkinlikleriyle de gençlerin sosyal gelişimine katkı sağlıyor.
 

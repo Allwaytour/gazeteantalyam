@@ -2,8 +2,8 @@
 title: Manavgatın nostaljik ahşap çardakları resim sergisinde yaşayacak
 date: '2026-10-31T16:51:13+03:00'
 ozet: Manavgat sahilinin simgesi olan ve zamanla ortadan kalkan ahşap çardaklar, bir sanatçının fırçasıyla tuvallerde yeniden hayat buldu.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 gorsel_v4: true
 kategoriler:
 - Kültür-Sanat
@@ -16,25 +16,23 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/manavgat/manavgatin-yazlik-cardaklari-tuvallerde-yeniden-hayat-buldu/388395
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
   konu_imza: 1f85e7200357
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)'
@@ -42,6 +40,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalyaının Manavgat ilçesinde geçmişte tatilciler ile yerel halkın sıcaktan korunmak ve dinlenmek için sahilde kurduğu ahşap çardaklar, sanat yoluyla belgelendi. Yüksek Dekoratif Sanatlar Tekstil Bölümü mezunu olan ressam Çiler Belen, Kirazlı Köyündeki atölyesinde yürüttüğü çalışmalarla Kumköy, Sorgun ve Boğaz mevkilerindeki eski yapıları resmetti.
 

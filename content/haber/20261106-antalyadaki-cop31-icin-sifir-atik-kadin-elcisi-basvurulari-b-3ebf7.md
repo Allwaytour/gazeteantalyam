@@ -157,6 +157,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 47% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-cop31-icin-sifir-atik-kadin-elcisi-basvurulari-b--c795820b.jpg
 ---
 Türkiye tarihinin en kapsamlı uluslararası organizasyonları arasında yer alan ve kasım ayında Antalya'da gerçekleştirilecek olan 31. Birleşmiş Milletler İklim Değişikliği Zirvesi (COP31) dolayısıyla yeni bir adım atıldı. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, zirve hazırlıkları çerçevesinde 81 ilde görev alacak Sıfır Atık Kadın Elçileri için başvuruların açıldığını açıkladı.
 

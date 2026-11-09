@@ -2,41 +2,30 @@
 title: 'Antalya''da Konut Dolandırıcılığı İddiası: Aynı Daire Birden Fazla Kişiye Satılmış'
 date: '2026-11-09T11:31:32+03:00'
 ozet: Antalya'da ev sahibi olma hayaliyle müteahhide ödeme yapan ancak dairelerini alamayan vatandaşların sayısı artarken, aynı konutların farklı kişilere satıldığı ortaya çıktı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261109-antalyada-konut-dolandiriciligi-iddiasi-ayni-daire-birden-fa--1081c61f.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler: []
 etiketler: []
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261109-antalyada-konut-dolandiriciligi-iddiasi-ayni-daire-birden-fa--1081c61f.jpg
   konu_imza: 7e6f6033990e
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T11:34:30+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,6 +33,27 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-konut-hayali-kabusa-dondu-ayni-daireyi-farkli-kisilere-satmislar/388922
+gorsel_yedek: /images/haber-gorsel/20261109-antalyada-konut-dolandiriciligi-iddiasi-ayni-daire-birden-fa--1081c61f.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261109-antalyada-konut-dolandiriciligi-iddiasi-ayni-daire-birden-fa--1081c61f.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya genelinde ev sahibi olmak isterken mağdur duruma düşen kişilerin başlattığı hukuki süreç devam ediyor. Farklı suçlardan dolayı tutuklu bulunduğu bilinen müteahhide ödeme yaparak konut talep eden fakat mülklerini teslim alamayan çok sayıda vatandaş, haklarını aramak için avukatları aracılığıyla savcılığa başvurdu. 
 

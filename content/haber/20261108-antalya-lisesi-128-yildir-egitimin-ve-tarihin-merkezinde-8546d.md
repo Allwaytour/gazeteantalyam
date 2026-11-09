@@ -116,6 +116,7 @@ otomatik: true
 yz: true
 kaynak: Çağdaş Burdur
 kaynak_url: https://www.cagdasburdur.com/antalyanin-128-yillik-kent-hafizasi-egitim-tecrubesini-gelecege-tasiyor-65954
+gorsel_yedek: /images/haber-gorsel/20261108-antalya-lisesi-128-yildir-egitimin-ve-tarihin-merkezinde-8546-0f63cae0.jpg
 ---
 Antalya'nın en köklü eğitim kurumlarından biri olan Antalya Lisesi, 1898 yılında Sultan 2. Abdülhamid Han döneminde "Beş sınıflı Liva İdadisi" adıyla kuruldu. Geçmişi 128 yıla dayanan okul, 1916'da "Antalya Sultanisi" ismini aldıktan sonra 1933 yılında bugünkü "Antalya Lisesi" adını alarak eğitim serüvenine devam etti. Okul, günümüzde 1850'li yıllardan kalma iki tarihi konakta öğrencilerini ağırlıyor.
 

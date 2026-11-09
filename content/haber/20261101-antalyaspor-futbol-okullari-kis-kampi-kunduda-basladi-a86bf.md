@@ -45,6 +45,7 @@ kaynak_url: https://m.haber7.com/spor/haber/1771234-antalyaspor-merkez-futbol-ok
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-antalyaspor-futbol-okullari-kis-kampi-kunduda-basladi-a86bf-398ffdce.jpg
 ---
 Antalyaspor Kulübü Derneği tarafından, yetenekli futbolcu adaylarını gözlemlemek ve kulüp bilincini aşılamak amacıyla organize edilen Antalya Futbol Okulları Futbol Akademileri Halil Fidan 3. Kış Kampı başladı.
 

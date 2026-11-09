@@ -152,6 +152,7 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 100% 50%
   url: https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDEyNzIwNHww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261107-korkutelinde-su-kesintisi-uyarisi-3ee2c-03ac8188.jpg
 ---
 Antalya'nın Korkuteli ilçesinde içme suyu hattı bağlantı çalışması yapılacağı bildirildi. Çalışmalar dolayısıyla 9 Kasım Pazartesi günü bazı bölgelerde su kesintisi yaşanacak.
 

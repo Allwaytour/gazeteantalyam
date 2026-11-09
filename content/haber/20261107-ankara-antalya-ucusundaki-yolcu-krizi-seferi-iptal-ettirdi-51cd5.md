@@ -2,33 +2,31 @@
 title: Ankara-Antalya uçuşundaki yolcu krizi seferi iptal ettirdi
 date: '2026-11-07T19:21:00+03:00'
 ozet: Ankara'dan Antalya'ya hareket etmeye hazırlanan bir uçakta, yolcunun kalkış öncesi uçmaktan vazgeçmesi nedeniyle güvenlik prosedürleri uygulandı ve seferin iptal edildiǡi iddia edildi.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51-33a73344.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
 etiketler: []
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:42+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51-33a73344.jpg
   konu_imza: 5e278aa73b20
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: fotoğraf başka bir yere ait (Ankara Esenboğa Havalimanı); haberin geçtiği yer değil; habere uygunluk düşük (6/10, en az 7)
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: fotoğraf başka bir yere ait (Ankara Esenboğa Havalimanı); haberin geçtiği yer değil; habere uygunluk düşük (6/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -120,6 +118,27 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
   degisim: '2026-11-08T22:29:42+03:00'
   kaldirma_nedeni: fotoğraf başka bir yere ait (Ankara Esenboğa Havalimanı); haberin geçtiği yer değil; habere uygunluk düşük (6/10, en az 7)
+gorsel_yedek: /images/haber-gorsel/20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51-33a73344.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-ankara-antalya-ucusundaki-yolcu-krizi-seferi-iptal-ettirdi-51-33a73344.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Ankara ile Antalya arasında gerçekleştirilmesi planlanan bir uçuşta yaşandığı belirtilen olay, havacılık güvenliği ve operasyonel süreçleri bir kez daha gündeme getirdi. Biniş işlemlerinin tamamlanmasının ardından uçaktaki bir yolcunun son anda seyahat etmek istemediğini belirterek inme talebinde bulunduğu aktarıldı. Ekibin tüm ikna çabalarına rağmen bu kararından vazgeçmeyen kişi nedeniyle uçuş ekibi güvenlik prosedürlerini devreye soktu.
 

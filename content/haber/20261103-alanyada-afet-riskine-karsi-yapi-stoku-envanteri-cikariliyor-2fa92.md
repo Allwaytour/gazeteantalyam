@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyada-tam-7-bin-binanin-rontgeni-cekilecek
+gorsel_yedek: /images/haber-gorsel/20261103-alanyada-afet-riskine-karsi-yapi-stoku-envanteri-cikariliyor--67f3441f.jpg
 ---
 Alanya'da olası afet risklerinin en aza indirilmesi ve mevcut yapı stokunun kapsamlı envanterinin çıkarılması için yeni bir çalışma başlatılıyor. Alanya Belediyesi Kentsel Dönüşüm Müdürlüğü tarafından hayata geçirilecek proje kapsamında, yaklaşık 9 milyon 750 bin metrekarelik bir sahada yer alan 7 bin civarındaki yapı tek tek incelenecek. Açık ihale usulüyle gerçekleştirilecek çalışmanın ihale tarihi 2 Aralık 2026 Çarşamba günü saat 10.00 olarak duyuruldu.
 

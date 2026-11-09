@@ -2,8 +2,8 @@
 title: İsmail Balaban ve İlayda Şeker çifti ikinci kez anne baba oldu
 date: '2026-11-07T12:10:00+03:00'
 ozet: Survivor şampiyonu ve başpehlivan İsmail Balaban ile eşi İlayda Balaban, ikinci bebeklerini kucaklarına aldı.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol--16f10a49.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Yaşam
 ilceler:
@@ -12,25 +12,23 @@ etiketler:
 - İsmail Balaban
 - İlayda Balaban
 onem: 1
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:48+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol--16f10a49.jpg
   konu_imza: 91e7fad01720
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): temsilî bebek fotoğrafı; adı geçen çiftin bebeği sanılır'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): temsilî bebek fotoğrafı; adı geçen çiftin bebeği sanılır'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -167,6 +165,27 @@ gorsel_gecmis:
     url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Newborn_baby_feet_%28Unsplash%29.jpg/1280px-Newborn_baby_feet_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   degisim: '2026-11-08T23:03:48+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): temsilî bebek fotoğrafı; adı geçen çiftin bebeği sanılır'
+gorsel_yedek: /images/haber-gorsel/20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol--16f10a49.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-ismail-balaban-ve-ilayda-seker-cifti-ikinci-kez-anne-baba-ol--16f10a49.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Ekranların tanınan simalarından, Survivor şampiyonu ve başpehlivan İsmail Balaban ile eşi İlayda Balaban'ın mutlu birlikteliği sürüyor. İlk çocukları İlis'i geçtiğimiz yıl temmuz ayında kucaklarına alan çift, yeniden bebek heyecanı yaşadı. 
 

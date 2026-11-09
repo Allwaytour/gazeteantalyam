@@ -114,6 +114,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/antalya-cop31-zirvesinde-ulasim-krizi-8-servis-hatti-durduruldu
+gorsel_yedek: /images/haber-gorsel/20261108-cop31-zirvesi-oncesi-antalyada-ulasim-krizi-8-servis-hatti-d--edd35884.jpg
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan COP31 küresel iklim zirvesi, resmi açılış öncesinde lojistik bir sorunla gündeme geldi. Kent merkezi, havalimanı ve Belek bölgesi arasında ulaşımı sağlayan servis otobüslerinin seferlerinde, yol kapatmaları nedeniyle ciddi aksamalar yaşandı.
 

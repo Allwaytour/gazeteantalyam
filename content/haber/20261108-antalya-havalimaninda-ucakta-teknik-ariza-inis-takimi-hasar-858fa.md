@@ -2,8 +2,8 @@
 title: 'Antalya Havalimanı''nda Uçakta Teknik Arıza: İniş Takımı Hasar Gördü'
 date: '2026-11-08T00:20:41+03:00'
 ozet: Antalya Havalimanı'nda pushback işlemi sırasında bir yolcu uçağının ön iniş takımı kırıldı. Olayın ardından teknik inceleme başlatıldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,25 +11,36 @@ ilceler:
 etiketler:
 - Freebird Airlines Europe
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:41+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 718513fa3a31
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Airport_(AYT)_Turkey_Feb_2022.jpg
+  fotografci: Sharon Hahn Darlin
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Antalya Havalimanı
+  cekim_yili: '2022'
+  aciklama: Antalya Havalimanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-a89342' (Antalya Havalimanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-a89342
+    tarih: '2026-11-09T13:27:02+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: habere uygunluk düşük (6/10, en az 7)
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: habere uygunluk düşük (6/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -119,6 +130,26 @@ gorsel_gecmis:
     kurum_notu: "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16); Alanya Belediyesi sayfası aynı haber değil (benzerlik %38); kurum sayfası okunamadı (Alanya Belediyesi): Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.alanya."
   degisim: '2026-11-08T22:29:41+03:00'
   kaldirma_nedeni: habere uygunluk düşük (6/10, en az 7)
+gorsel_yedek: /images/haber-gorsel/20261108-antalya-havalimaninda-ucakta-teknik-ariza-inis-takimi-hasar-8-6e7d8a08.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2284
+  - 1413
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Havalimanı'nda hareketli anlar yaşandı. Freebird Airlines Europe bünyesinde yer alan Airbus A320 tipi yolcu uçağında, park pozisyonundan geri itilme (pushback) işlemi yapıldığı sırada teknik bir aksaklık meydana geldi. Uçağın ön iniş takımı dikmesinde kırılma tespit edilmesi üzerine operasyon derhal durduruldu.
 

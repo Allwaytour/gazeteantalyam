@@ -46,6 +46,7 @@ gorsel_secim:
   kurum_notu: 'kurum sayfası okunamadı (Millî Savunma Bakanlığı): 404 Client Error: Not Found for url: https://www.msb.gov.tr/SlaytHaber/b3c515b3b; Millî Savunma Bakanlığı Antalya dışı kurum, kullanılmadı; Millî Savunma Bakanlığı Antalya dışı kurum, kullanılmadı'
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-dokuma-2-etap-projesinde-ek-sure-talebi-meclis-gundeminde-6ba-2b0d47a1.jpg
 ---
 Kepez Belediye Başkanı Mesut Kocagöz'ün ortak akıl vurgusunun ardından hayata geçirilen Dokuma 2. Etap Projesi hazırlıkları sürerken, süreçle ilgili yeni bir aşamaya gelindi. Fabrikalar Mahallesi'nde yer alan büyük alan üzerinde hayata geçirilecek projeyi hazırlamakla görevlendirilen çalışma grubunun çalışmaları, kasım ayı belediye meclisi toplantısında ele alınacak.
 

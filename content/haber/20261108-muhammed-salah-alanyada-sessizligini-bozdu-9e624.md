@@ -104,6 +104,7 @@ otomatik: true
 yz: true
 kaynak: Taka Gazete
 kaynak_url: https://www.takagazete.com.tr/muhammed-salah-suskunlugunu-bozdu-trabzonsporda-misirli-sultan-alanyada-sahneye-cikti
+gorsel_yedek: /images/haber-gorsel/20261108-muhammed-salah-alanyada-sessizligini-bozdu-9e624-f6c6ebd5.jpg
 ---
 Trabzonspor forması giyen Muhammed Salah, Süper Lig'de çıktığı Alanyaspor mücadelesinde uzun süren gol orucunu bozdu. Ligde daha önce 8 golü bulunan Mısırlı yıldız, karşılaşmanın ilk dakikalarından itibaren rakip kalede tehlikeli pozisyonlar üretti. Maçın başında kaleci Victor'u geçmekte zorlanan Salah, aradığı golü 34. dakikada bulmayı başardı.
 

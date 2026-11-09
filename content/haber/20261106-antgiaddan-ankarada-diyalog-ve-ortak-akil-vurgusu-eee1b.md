@@ -2,8 +2,8 @@
 title: ANTGİAD'dan Ankara'da diyalog ve ortak akıl vurgusu
 date: '2026-11-06T11:30:00+03:00'
 ozet: Antalya Genç İş İnsanları Derneği yönetimi, Türkiye Büyük Millet Meclisi'nde siyasi parti temsilcileriyle bir araya gelerek görüş alışverişinde bulundu.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-antgiaddan-ankarada-diyalog-ve-ortak-akil-vurgusu-eee1b-c1dd4bb0.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,25 +12,23 @@ etiketler:
 - ANTGİAD
 - Türkiye Büyük Millet Meclisi
 - AK Parti
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:42+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-antgiaddan-ankarada-diyalog-ve-ortak-akil-vurgusu-eee1b-c1dd4bb0.jpg
   konu_imza: 10f43c8e0995
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: mikrofon/kürsü gibi genel dolgu görseli
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: mikrofon/kürsü gibi genel dolgu görseli
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -144,6 +142,27 @@ gorsel_gecmis:
     kurum_notu: Muratpaşa Belediyesi sayfası aynı haber değil (benzerlik %40); Kepez Belediyesi sayfası aynı haber değil (benzerlik %22)
   degisim: '2026-11-08T22:29:42+03:00'
   kaldirma_nedeni: mikrofon/kürsü gibi genel dolgu görseli
+gorsel_yedek: /images/haber-gorsel/20261106-antgiaddan-ankarada-diyalog-ve-ortak-akil-vurgusu-eee1b-c1dd4bb0.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-antgiaddan-ankarada-diyalog-ve-ortak-akil-vurgusu-eee1b-c1dd4bb0.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) Yönetim Kurulu Başkanı Ercan Yavaş ve dernek üyeleri, Ankara temasları kapsamında Türkiye Büyük Millet Meclisi'ni ziyaret etti. Heyet, meclisteki farklı siyasi partilerin temsilcileriyle bir araya gelerek ülkenin demokratik ve ekonomik geleceğine dair görüşlerini paylaştı.
 

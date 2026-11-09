@@ -45,6 +45,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/hem-yaristi-hem-kesfetti
+gorsel_yedek: /images/haber-gorsel/20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e--921bc6be.jpg
 ---
 Genclik ve Spor Bakanligi ile Türkiye Özel Sporcular Spor Federasyonu is birliginde hayata gecirilen Atli Binicilik Sampiyonasi, Kapadokya'nin belirgin cografi atmosferinde organize edildi. Etkinlige Antalya Adalya Spor Kulübü, İzmir Alia Atlı Spor Kulübü ve Nevşehir Gençlik ve Spor İl Müdürlüğü Spor Kulübü katilim gösterdi.
 

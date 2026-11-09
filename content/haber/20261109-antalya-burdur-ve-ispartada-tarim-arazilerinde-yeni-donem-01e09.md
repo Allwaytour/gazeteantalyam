@@ -2,8 +2,8 @@
 title: Antalya, Burdur ve Isparta'da Tarım Arazilerinde Yeni Dönem
 date: '2026-11-09T06:00:00+03:00'
 ozet: Antalya, Burdur ve Isparta'yı kapsayan çevre düzeni planında değişikliğe gidilerek tarımsal amaçlı yapılardaki emsal sınırları kaldırıldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -11,34 +11,36 @@ etiketler:
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 - Tarım ve Orman Bakanlığı
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
   konu_imza: d05ebc3e68ff
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T06:34:08+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:AntalyaGreenhousesForVegetablesAndFruits.jpg
+  fotografci: Claude Valette
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya'da seralar ve tarım arazileri
+  cekim_yili: '2011'
+  aciklama: Antalya'da seralar (2011)
+  gerekce: arşiv kaydı 'sera-antalya' (Antalya'da seralar ve tarım arazileri) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sera-antalya
+    tarih: '2026-11-09T13:27:01+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +48,30 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalya-burdur-ve-ispartada-sinirlar-kaldirildi
+gorsel_yedek: /images/haber-gorsel/20261109-antalya-burdur-ve-ispartada-tarim-arazilerinde-yeni-donem-01e-ad39318c.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1536
+  - 1024
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
+gorsel_gecmis: []
 ---
 Antalya, Burdur ve Isparta illerini kapsayan 1/100.000 ölçekli Çevre Düzeni Planı'nda tarım arazilerini yakından ilgilendiren önemli bir değişikliğe gidildi. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylanan ve Antalya Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü tarafından askıya çıkarılan düzenleme, tarımsal amaçlı yapıların inşaat koşullarını yeniden tanımlıyor.
 

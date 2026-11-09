@@ -2,8 +2,8 @@
 title: Antalya, COP31 öncesi kültür ve sanat etkinlikleriyle müzik buluşmalarına ev sahipliği yapıyor
 date: '2026-11-07T15:24:52+03:00'
 ozet: Türkiye'nin ev sahipliğinde düzenlenecek COP31 İklim Zirvesi öncesinde Antalya'da konserler, dans gösterileri ve sergiler müzikseverlerle buluşacak.
-gorsel: /images/kategori/kultur-sanat.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -13,36 +13,35 @@ etiketler:
 - Murat Kurum
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
   konu_imza: 5168e1c6c32e
-  gorsel_url: /images/kategori/kultur-sanat.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T12:04:36+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %41); Antalya Valiliği sayfası aynı haber değil (benzerlik %35); kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; Kepez Belediyesi sayfası aynı haber değil ("
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: aşırı karanlık (medyan parlaklık 2, karanlık pay %93); aşırı karanlık (medyan parlaklık 8, karanlık pay %85); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan
-  kapak_surum: c8
-  onceki_kontrol: k4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
+  fotografci: Hendric Stattmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
+  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cop31-expo-2
+    tarih: '2026-11-09T13:27:03+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: aşırı karanlık (medyan parlaklık 2, karanlık pay %93); aşırı karanlık (medyan parlaklık 8, karanlık pay %85); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -83,6 +82,27 @@ gorsel_gecmis:
     kaynak_aciklama: Expo 2016 Antalya - West View from Turkcell Expo Tower
     kurum: k5
   degisim: '2026-11-07T23:48:21+03:00'
+gorsel_yedek: /images/haber-gorsel/20261107-antalya-cop31-oncesi-kultur-ve-sanat-etkinlikleriyle-muzik-b--03163c76.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2927
+  - 4390
+  dikey: true
+  surum: y3
+  manset: kaplama
+  yan: false
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: true
+  o_manset_d: 50% 63%
+  o_manset_m: 50% 70%
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_t: 50% 73%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Antalya, Birleşmiş Milletler İklim Değişikliği Konferansı öncesinde diplomatik adımların yanı sıra sanat ve müzik programlarıyla da öne çıkıyor. Zirve kapsamında EXPO alanındaki halka açık Yeşil Bölge’de çeşitli konserler, dans gösterileri ve sergiler düzenlenmesi planlanıyor. İklim krizine karşı toplumsal farkındalık oluşturmayı hedefleyen çalışmalar kapsamında sanatçılar da hazırlanan özel projelerle destek veriyor.
 

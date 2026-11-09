@@ -2,42 +2,41 @@
 title: Muratpaşa'da 10 Kasım'da Fener Alayı Düzenlenecek
 date: '2026-11-03T13:56:00+03:00'
 ozet: Antalya'nın Muratpaşa ilçesinde, Gazi Mustafa Kemal Atatürk'ün vefat yıl dönümünde anlamlı bir anma yürüyüşü gerçekleştirilecek.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/d/dd/Mustafa_Kemal_Atat%C3%BCrk_.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Etem Tem / Wikimedia Commons (Public domain)'
 kategoriler:
 - Yaşam
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Mustafa_Kemal_Atat%C3%BCrk_.jpg
   konu_imza: 4ecbf3e74846
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T16:07:38+03:00'
-    yontem: h2
-    model: gemini-3.1-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu (kendi fotoğrafı + izin kaydı doğrulandı)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: aşırı karanlık (medyan parlaklık 11, karanlık pay %96); aşırı karanlık (medyan parlaklık 48, karanlık pay %51); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
-  kapak_surum: c8
-  onceki_kontrol: k4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_.jpg
+  fotografci: Etem Tem
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: Mustafa Kemal Atatürk
+  cekim_yili: '1926'
+  aciklama: Mustafa Kemal Atatürk (1926)
+  gerekce: arşiv kaydı 'ataturk-2' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ataturk-2
+    tarih: '2026-11-09T13:27:14+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: aşırı karanlık (medyan parlaklık 11, karanlık pay %96); aşırı karanlık (medyan parlaklık 48, karanlık pay %51); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -83,6 +82,26 @@ gorsel_gecmis:
   degisim: '2026-11-08T16:08:38+03:00'
 etiketler:
 - Muratpaşa Belediyesi
+gorsel_yedek: /images/haber-gorsel/20261103-muratpasada-10-kasimda-fener-alayi-duzenlenecek-7ed97-1aa322bd.jpg
+gorsel_yerlesim:
+  boyut:
+  - 552
+  - 615
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: true
+  o_manset_m: 50% 84%
+  o_mansetyan_d: 17% 50%
+  o_mansetyan_m: 17% 50%
+  o_yan_t: 50% 95%
+  o_kart: 50% 67%
+  o_kart_p: 1% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Mustafa_Kemal_Atat%C3%BCrk_.jpg
 ---
 Antalya'nın Muratpaşa ilçesinde, Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir anma programı düzenleniyor. Büyük Önder’e duyulan sevgi, saygı, minnet ve hasreti tek yürek olarak göstermek amacıyla 10 Kasım'da fener alayı ve Ata'ya Saygı Yürüyüşü gerçekleştirilecek.
 

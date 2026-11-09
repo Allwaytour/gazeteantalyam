@@ -2,8 +2,8 @@
 title: Antalya'daki Saç Kesim Yarışmasında Sakaryalı Öğrenciler Zirveye Yerleşti
 date: '2026-11-06T04:12:00+03:00'
 ozet: Antalya'da düzenlenen ulusal saç kesim yarışmasına katılan Sakaryalı üç öğrenci, sergiledikleri performansla ilk üç dereceyi elde etti.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv--a450a7a4.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler: []
@@ -11,36 +11,22 @@ etiketler:
 - Ayhan Ersoy
 - Sakarya Mesleki Eğitim Merkezi
 - My Akademi
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 7 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv--a450a7a4.jpg
   konu_imza: 2f03c5acfe97
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T22:31:54+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: Türkiye dışına ait unsurlar (yanıltıcı yer); aşırı karanlık (medyan parlaklık 27, karanlık pay %83); aşırı karanlık (medyan parlaklık 31, karanlık pay %62); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberdeki kişi sanıla
-  kapak_surum: c8
-  zorla: h1-2026-11-07:10
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: Türkiye dışına ait unsurlar (yanıltıcı yer); aşırı karanlık (medyan parlaklık 27, karanlık pay %83); aşırı karanlık (medyan parlaklık 31, karanlık pay %62); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberdeki kişi sanıla
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -160,6 +146,27 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:10
   degisim: '2026-11-07T22:32:03+03:00'
+gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv--a450a7a4.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv--a450a7a4.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'da My Akademi tarafından organize edilen ulusal saç kesim yarışması, Türkiye'nin dört bir yanından gelen yetenekli gençleri bir araya getirdi. Yaklaşık 100 öğrencinin hünerlerini sergilediği etkinlikte, Sakarya Mesleki Eğitim Merkezi (MESEM) Güzellik ve Saç Bakım Hizmetleri Bölümü öğrencileri büyük bir başarıya imza attı.
 

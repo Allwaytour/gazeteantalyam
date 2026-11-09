@@ -2,8 +2,8 @@
 title: Fenerbahce, Corum FK deplasmaninda
 date: '2026-11-07T11:24:59+03:00'
 ozet: Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin deplasmanda Corum FK ile karsilasacak. Sarilacivertlilerde teknik direktorluk gorevine getirilen Emre Belozoglu ilk macina cikiyor.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-70985636.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler: []
@@ -12,25 +12,23 @@ etiketler:
 - Fenerbahce
 - Corum FK
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:41+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-70985636.jpg
   konu_imza: 6e5c0bd8462b
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: habere uygunluk düşük (5/10, en az 7)
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: habere uygunluk düşük (5/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -148,6 +146,27 @@ gorsel_gecmis:
     kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
   degisim: '2026-11-08T22:29:41+03:00'
   kaldirma_nedeni: habere uygunluk düşük (5/10, en az 7)
+gorsel_yedek: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-70985636.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-70985636.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin saat 16.00'da deplasmanda Corum FK ile karsilikli mucadele verecek. Ligde geride kalan 10 karsilasmada her iki ekip de 5 galibiyet, 1 beraberlik ve 4 maglubiyet alarak 16'sar puan topladi. Fenerbahce averajla 6. sirada yer alirken, kirmizisiyahli ev sahibi ekip 7. sirada bulunuyor.
 

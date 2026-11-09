@@ -2,36 +2,28 @@
 title: Alanya'da özel gereksinimli gençler için sektör buluşması düzenleniyor
 date: '2026-11-03T23:26:00+03:00'
 ozet: Alanya Özel Eğitim Meslek Okulu tarafından düzenlenecek geleneksel etkinlik, özel gereksinimli gençleri iş dünyasıyla bir araya getirecek.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261103-alanyada-ozel-gereksinimli-gencler-icin-sektor-bulusmasi-duz--8516b2ca.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261103-alanyada-ozel-gereksinimli-gencler-icin-sektor-bulusmasi-duz--8516b2ca.jpg
   konu_imza: 4ec6aeb100e3
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-04T00:54:51+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'ATUS Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Alanya Alaaddin Keykubat Üniversitesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Alanya Özel Eğitim Meslek Okulu'' için kullanım hakkı doğrulanmış fotoğraf '
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'ATUS Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; Alanya Alaaddin Keykubat Üniversitesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Alanya Özel Eğitim Meslek Okulu'' için kullanım hakkı doğrulanmış fotoğraf '
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-ozel-gereksinimli-gencler-icin-istihdam-seferberligi-is-dunyasina-onemli-cagri
+gorsel_yedek: /images/haber-gorsel/20261103-alanyada-ozel-gereksinimli-gencler-icin-sektor-bulusmasi-duz--8516b2ca.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261103-alanyada-ozel-gereksinimli-gencler-icin-sektor-bulusmasi-duz--8516b2ca.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Alanya Özel Eğitim Meslek Okulu, özel gereksinimli gençlerin çalışma hayatına katılımını desteklemek ve mesleki eğitimde fırsat eşitliğini güçlendirmek amacıyla geleneksel Sektör Buluşması'nı hayata geçiriyor. Okul yönetimi, öğrencilerin eğitim süreçlerinde edindikleri bilgi ve becerileri iş hayatına aktarabilmesi için iş dünyasının temsilcileriyle doğrudan iletişim kurulmasını hedefliyor.
 

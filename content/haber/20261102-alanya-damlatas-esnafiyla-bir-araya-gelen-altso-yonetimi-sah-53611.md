@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/alanya/altso-yonetimi-damlatas-esnafiyla-bulustu/388523
+gorsel_yedek: /images/haber-gorsel/20261102-alanya-damlatas-esnafiyla-bir-araya-gelen-altso-yonetimi-sah--144da7ec.jpg
 ---
 Alanya Ticaret ve Sanayi Odası yönetimi, göreve gelmesinin ardından sürdürdüğü üye ve esnaf buluşmaları kapsamında Damlataş bölgesindeki işletmelerle bir araya geldi. Turizm açısından kritik bir konumda yer alan bölgedeki çarşı esnafını ziyaret eden heyet, ticari faaliyetleri yerinde gözlemledi ve işletmelerin günlük işleyişte yaşadığı sorunları dinledi.
 

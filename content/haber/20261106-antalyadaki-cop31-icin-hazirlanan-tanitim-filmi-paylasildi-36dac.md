@@ -138,6 +138,7 @@ gorsel_yerlesim:
   o_mansetyan_m: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-cop31-icin-hazirlanan-tanitim-filmi-paylasildi-36-37cbc658.jpg
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, 9 ile 20 Kasım tarihleri arasında Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı için hazırlanan tanıtım filmini sosyal medya hesabından yayımladı. Hazırlanan video ile birlikte etkinlik için geri sayım sürerken, Antalya'da yapılacak zirveye yönelik hazırlıklar da hız kazandı.
 

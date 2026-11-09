@@ -122,6 +122,7 @@ gorsel_yerlesim:
 etiketler:
 - Hulusi Şahin
 - Çanakkale Tarihi Yarımada Alan Başkanlığı
+gorsel_yedek: /images/haber-gorsel/20261105-mustafa-ertugrul-aker-kabri-basinda-anildi-8646c-5b72fff8.jpg
 ---
 Kurtuluş Savaşı'nın unutulmaz denizcilerinden Mustafa Ertuğrul Aker, vefatının yıl dönümünde kabri başında gerçekleştirilen bir törenle yad edildi. Anma programına katılan Antalya Valisi Hulusi Şahin, Aker'in sadece Antalya için değil, tüm Türkiye için büyük bir değer ve kahraman olduğunu vurguladı. Vali Şahin, bu tarihi şahsiyetin askeri dehasını ve fedakarlıklarını gelecek kuşaklara aktarmanın önemine dikkat çekti.
 

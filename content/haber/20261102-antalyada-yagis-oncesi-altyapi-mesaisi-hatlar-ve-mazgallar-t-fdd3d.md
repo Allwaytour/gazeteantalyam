@@ -2,34 +2,24 @@
 title: 'Antalya''da yağış öncesi altyapı mesaisi: Hatlar ve mazgallar temizleniyor'
 date: '2026-11-02T12:07:47+03:00'
 ozet: Antalya genelinde olası su taşkınlarını önlemek amacıyla yağmur suyu hatları ve mazgallarda kapsamlı bakım ve temizlik çalışması yürütülüyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261102-antalyada-yagis-oncesi-altyapi-mesaisi-hatlar-ve-mazgallar-t--61d78a3b.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261102-antalyada-yagis-oncesi-altyapi-mesaisi-hatlar-ve-mazgallar-t--61d78a3b.jpg
   konu_imza: 2647de6a7659
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T16:25:08+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
-  kurum_notu: Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Sakarya Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı; Diyarbakır Büyükşehir Belediyesi Antalya dışı kurum, kullanılmadı
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,6 +30,27 @@ kaynak_url: https://www.aksiyon.com.tr/antalya-da-yagislara-hazirlik-hatlar-ve-m
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-yagis-oncesi-altyapi-mesaisi-hatlar-ve-mazgallar-t--61d78a3b.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261102-antalyada-yagis-oncesi-altyapi-mesaisi-hatlar-ve-mazgallar-t--61d78a3b.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya genelinde yağışlı dönemlerde yaşanabilecek su birikintisi ve taşkın risklerini en aza indirmek amacıyla altyapı hazırlıkları hız kesmeden devam ediyor. Kent genelindeki yağmur suyu altyapısının sorunsuz çalışmasını hedefleyen ekipler, hatlarda ve sokaklardaki mazgallarda kapsamlı bir temizlik süreci yürütüyor.
 

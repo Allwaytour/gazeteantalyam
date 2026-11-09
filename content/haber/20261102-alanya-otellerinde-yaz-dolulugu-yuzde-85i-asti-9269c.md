@@ -46,6 +46,7 @@ kaynak_url: https://www.toplumsal.com.tr/haber/alanya-otellerinde-yaz-dolulugu-y
 gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-alanya-otellerinde-yaz-dolulugu-yuzde-85i-asti-9269c-f0793511.jpg
 ---
 Antalya'nın önemli turizm merkezleri arasında yer alan Alanya'da, yaz sezonunun en hareketli döneminde otel doluluk oranları dikkat çekici bir seviyeye ulaştı. Bölgedeki tesislerde doluluklar yüzde 85 sınırını aşarken, bu durum son yılların en yüksek yaz verilerinden biri olarak kayıtlara geçti. Haziran ile ağustos ayları arasındaki dönemde tesislerin büyük oranda dolmasında, Almanya ve Rusya kaynaklı paket turlar ile doğrudan gerçekleştirilen uçuşlar etkili oldu.
 

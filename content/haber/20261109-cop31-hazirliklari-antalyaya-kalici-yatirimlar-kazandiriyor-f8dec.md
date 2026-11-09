@@ -2,8 +2,8 @@
 title: COP31 Hazırlıkları Antalya'ya Kalıcı Yatırımlar Kazandırıyor
 date: '2026-11-09T07:00:00+03:00'
 ozet: Antalya'da düzenlenecek COP31 zirvesi için hayata geçirilen altyapı ve ulaşım yatırımlarının, organizasyon sonrasında da kentin kongre turizmine hizmet etmesi hedefleniyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,34 +11,36 @@ ilceler:
 etiketler:
 - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
 onem: 5
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 1cb97bc8d46a
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T07:04:17+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-expo
+    tarih: '2026-11-09T13:27:01+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +48,28 @@ otomatik: true
 yz: true
 kaynak: Uşak Haber Gazetesi
 kaynak_url: https://www.usakhabergazetesi.com.tr/cop31-antalyaya-kalici-yatirimlar-getiriyor-zirve-sonrasi-da-kullanilacak
+gorsel_yedek: /images/haber-gorsel/20261109-cop31-hazirliklari-antalyaya-kalici-yatirimlar-kazandiriyor-f-ca216cd4.jpg
+gorsel_yerlesim:
+  boyut:
+  - 4608
+  - 2592
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
+  o_yan_m: 50% 50%
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan COP31 iklim zirvesi, Antalya'nın çehresini değiştirecek kalıcı yatırımları da beraberinde getiriyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinasyonunda yürütülen çalışmalarla, kentte konferans alanları ve ulaşım ağları yeniden düzenleniyor. Yapılan planlamalara göre, zirve için hazırlanan fiziksel ve teknik altyapı, 12 günlük organizasyonun ardından da kentin hizmetinde kalmaya devam edecek.
 

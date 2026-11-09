@@ -45,6 +45,7 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-toptanci-halinde-gu
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261103-antalya-toptanci-halinde-guncel-sebze-ve-meyve-fiyatlari-aci--9a7b3cad.jpg
 ---
 Antalya Toptancı Hali’nde 2 Kasım 2026 tarihli günlük fiyatlar netlik kazandı. Sebze ve meyve çeşitlerinin en düşük ile en yüksek tutarlarının yer aldığı bültende, çok sayıda tarım ürününün kilogram fiyatı kamuoyuyla paylaşıldı. Listede domates, biber, patates ve soğan gibi temel mutfak malzemelerinin yanı sıra narenciye ürünleri de geniş yer buldu.
 

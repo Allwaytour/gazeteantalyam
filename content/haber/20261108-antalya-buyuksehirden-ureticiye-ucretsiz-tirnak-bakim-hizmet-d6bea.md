@@ -116,6 +116,7 @@ otomatik: true
 yz: true
 kaynak: İhlas Haber Ajansı
 kaynak_url: https://www.iha.com.tr/antalya-haberleri/buyuksehirden-fikriye-ninenin-ineklerine-tirnak-bakimi-513025433
+gorsel_yedek: /images/haber-gorsel/20261108-antalya-buyuksehirden-ureticiye-ucretsiz-tirnak-bakim-hizmet--70e1a982.jpg
 ---
 Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı, yerel üreticiyi desteklemek amacıyla yürüttüğü çalışmalar kapsamında büyükbaş hayvanlar için ücretsiz tırnak bakım hizmeti sunmaya devam ediyor. Uzman veteriner hekimlerden oluşan ekipler, özellikle küçük aile işletmelerindeki hayvanların sağlık kontrollerini yaparak üreticilerin iş yükünü hafifletiyor.
 

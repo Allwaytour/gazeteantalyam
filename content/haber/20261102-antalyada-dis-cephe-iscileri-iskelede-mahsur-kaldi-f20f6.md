@@ -2,31 +2,29 @@
 title: Antalya'da dış cephe işçileri iskelede mahsur kaldı
 date: '2026-11-02T11:37:00+03:00'
 ozet: Kepez ilçesinde 10 katlı bir binada boya yaparken iskelenin bağlantısının koptuğu olayda iki işçi mahsur kaldı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6-dd72e469.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Kepez
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6-dd72e469.jpg
   konu_imza: db4752d0ce2c
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,6 +69,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6-dd72e469.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261102-antalyada-dis-cephe-iscileri-iskelede-mahsur-kaldi-f20f6-dd72e469.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Kepez ilçesinde sabah saatlerinde yaşanan olay çevrede kısa süreli endişe yarattı. Yeşiltepe Mahallesi sınırları içerisinde yer alan 10 katlı bir sitede dış cephe boyama işlemleri sürdüren Sedat Y. ve Bülent Ç., çalıştıkları esnada iskelenin bağlantı noktasının kopmasıyla havada asılı kaldı.
 

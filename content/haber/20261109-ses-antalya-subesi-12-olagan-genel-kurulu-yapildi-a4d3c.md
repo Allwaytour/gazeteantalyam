@@ -2,8 +2,8 @@
 title: SES Antalya Şubesi 12. Olağan Genel Kurulu Yapıldı
 date: '2026-11-09T11:21:00+03:00'
 ozet: Sağlık ve Sosyal Hizmet Emekçileri Sendikası Antalya Şubesi, 12. Olağan Genel Kurulunu tamamlayarak yeni yönetimini belirledi.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261109-ses-antalya-subesi-12-olagan-genel-kurulu-yapildi-a4d3c-c69b066a.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,34 +11,23 @@ ilceler:
 etiketler:
 - SES Antalya Şubesi
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261109-ses-antalya-subesi-12-olagan-genel-kurulu-yapildi-a4d3c-c69b066a.jpg
   konu_imza: 2c2fbf3af559
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T11:34:39+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,6 +35,27 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/ses-antalyada-yeni-yonetim-belirlendi-1
+gorsel_yedek: /images/haber-gorsel/20261109-ses-antalya-subesi-12-olagan-genel-kurulu-yapildi-a4d3c-c69b066a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261109-ses-antalya-subesi-12-olagan-genel-kurulu-yapildi-a4d3c-c69b066a.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES) Antalya Şubesi, 12. Olağan Genel Kurulu'nu Mimar Sinan Kongre Merkezi'nde gerçekleştirdi. Sendika üyelerinin katılımıyla yapılan toplantıda, geride kalan dönemin çalışmaları masaya yatırılırken yeni dönemde izlenecek mücadele ve örgütlenme stratejileri de masaya yatırıldı.
 

@@ -48,6 +48,7 @@ gorsel_bekleyen:
   tarih: '2026-11-08T15:10:16+03:00'
   sayi: 1
   neden: 'bağlantı: HTTPSConnectionPool(host=''generativelanguage.googleapis.com'', port=443): Read timed out. (read timeout=90)'
+gorsel_yedek: /images/haber-gorsel/20261105-alanya-kalesinin-korkutan-efsanesi-adam-atacagi-b7f0e-546200e2.jpg
 ---
 Antalya'nın simge yapılarından Alanya Kalesi, sadece eşsiz manzarasıyla değil, geçmişten günümüze ulaşan sıra dışı hikâyeleriyle de dikkat çekiyor. Kalenin iç kısmında yer alan ve 'Adam Atacağı' olarak isimlendirilen bölge, mahkûmların kaderinin üç küçük taşa bağlandığı bir efsaneye ev sahipliği yapıyor. Roma dönemine dayandırılan bu anlatıya göre, idama mahkûm edilen kişiler, özgürlüklerini kazanabilmeleri için zorlu bir sınava tabi tutuluyordu.
 

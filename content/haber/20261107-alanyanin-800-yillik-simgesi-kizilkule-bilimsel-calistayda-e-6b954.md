@@ -122,6 +122,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-alanyanin-800-yillik-simgesi-kizilkule-bilimsel-calistayda-e--b575c101.jpg
 ---
 Antalya'nın Alanya ilçesinin simgelerinden biri olan Kızılkule, yapılışının 800. yıl dönümünde akademisyenlerin ve uzmanların bir araya geldiği kapsamlı bir çalıştayla ele alındı.
 

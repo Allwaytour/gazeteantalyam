@@ -45,6 +45,7 @@ kaynak_url: https://www.antalyahurses.com/antalyada-yasamisti-servetini-dagitan-
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rhodiapolis_Opramoas.JPG/1280px-Rhodiapolis_Opramoas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Gunthram / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-antik-kentte-1900-yil-once-servetini-dagitan-opr--140625eb.jpg
 ---
 Antalya'nın Kumluca ilçesinde yer alan Rhodiapolis Antik Kenti, Roma dönemine uzanan etkileyici bir hayırseverlik hikâyesine ev sahipliği yapıyor. Bugün tepeler üzerindeki kalıntılarıyla bilinen antik kentte yaklaşık 1900 yıl önce yaşayan Opramoas, dönemin en zengin isimlerinden biri olarak bilinirken servetini yalnızca kendi yaşadığı şehre değil, bölgedeki pek çok antik kente dağıtmasıyla tarihe geçti.
 

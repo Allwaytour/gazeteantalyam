@@ -114,6 +114,7 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanya-pazarlarinda-kis-telasi-basladi
+gorsel_yedek: /images/haber-gorsel/20261108-alanya-pazarlarinda-kis-hazirligi-basladi-sebze-ve-meyve-fiy--31bdbcb2.jpg
 ---
 Kış aylarının yaklaşmasıyla beraber sofraların vazgeçilmezi olan taze sebze ve meyvelere olan ilgi belirgin şekilde arttı. Alanya genelindeki semt pazarlarını ziyaret eden vatandaşlar, ihtiyaç duydukları ürünleri temin edebilmek için farklı tezgahları gezerek fiyat karşılaştırması yaptı. Tezgahlar arasında özellikle sınırlı miktarda bulunan mantar yoğun talep gördü. Kilogram fiyatı 200 ile 250 lira arasında değişen mantarın kısa sürede tükendiği ifade edildi. 
 

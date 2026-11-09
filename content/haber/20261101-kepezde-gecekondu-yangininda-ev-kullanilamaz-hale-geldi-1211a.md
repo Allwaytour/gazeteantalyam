@@ -2,8 +2,8 @@
 title: Kepez'de gecekondu yangınında ev kullanılamaz hale geldi
 date: '2026-11-01T12:10:00+03:00'
 ozet: Antalya'nın Kepez ilçesinde yabancı uyruklu bir ailenin yaşadığı gecekonduda çıkan yangın, binayı kül etti. Yangında şans eseri can kaybı yaşanmazken aile yakınlarının yanına sığındı.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a-36d6be98.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,25 +18,23 @@ kaynak_url: https://www.saraymedya.com/haber/antalya-da-yanginda-kiraci-ailenin-
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1762291329593-9c90ab7947bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8YnVybmVkJTIwaG91c2UlMjBydWlucyUyMGZpcmVmaWdodGVyc3xlbnwxfDB8fHwxNzkzNTMxMjE0fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Roger Starnes Sr / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:49+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a-36d6be98.jpg
   konu_imza: d057a78d53de
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg/1280px-Antalya_Atat%C3%BCrk_huge_head_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
@@ -71,6 +69,27 @@ gorsel_gecmis:
   gorsel_yerlesim: {}
   degisim: '2026-11-08T23:03:49+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+gorsel_yedek: /images/haber-gorsel/20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a-36d6be98.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-kepezde-gecekondu-yangininda-ev-kullanilamaz-hale-geldi-1211a-36d6be98.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Kepez ilçesi Beşkonak Mahallesi 4409 Sokak üzerinde bulunan ve yabancı uyruklu bir ailenin kiracı olarak ikamet ettiği gecekonduda henüz belirlenemeyen bir nedenle yangın çıktı. Kısa sürede büyüyen alevler ahşap çatının da etkisiyle tüm binayı sardı.
 

@@ -148,6 +148,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 46% 50%
   url: https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261106-avrupa-plaj-voleybolu-kulupler-kupasi-finali-alanyada-baslad--81576441.jpg
 ---
 Avrupa'nın kulüpler düzeyindeki en önemli plaj voleybolu organizasyonlarından biri olan CEV Plaj Voleybolu Avrupa Kulüpler Kupası Finali, Antalya'nın Alanya ilçesinde gerçekleştiriliyor. Avrupa Voleybol Konfederasyonu ile Türkiye Voleybol Federasyonu iş birliğinde ve Alanya Belediyesi'nin ev sahipliğinde düzenlenen dev organizasyon, 23 Projects Alanya Uluslararası Plaj Sporları Merkezi'nde sporseverlerle buluşuyor.
 

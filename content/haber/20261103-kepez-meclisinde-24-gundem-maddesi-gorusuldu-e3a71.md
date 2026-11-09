@@ -125,6 +125,7 @@ etiketler:
 - Kepez Belediye Meclisi
 - Kepez Belediyesi
 - Plan ve Bütçe Komisyonu
+gorsel_yedek: /images/haber-gorsel/20261103-kepez-meclisinde-24-gundem-maddesi-gorusuldu-e3a71-8cba3530.jpg
 ---
 Kepez Belediyesi meclisinin kasım ayı olağan toplantısı, Belediye Başkanı Mesut Kocagöz'ün yönetiminde gerçekleştirildi. Saygı duruşu ve İstiklal Marşı ile başlayan oturumda, 21 yazılı madde ve 3 önerge olmak üzere toplam 24 gündem maddesi masaya yatırıldı. Toplantıda ilçedeki yatırımlar, imar planları ve esnafın talepleri karara bağlandı.
 

@@ -2,8 +2,8 @@
 title: Yunanistan Antalya Açıklarındaki Deniz Araştırması Duyurusunu İptal Etti
 date: '2026-11-07T14:14:33+03:00'
 ozet: Türkiye'nin izinsiz faaliyetlere izin verilmeyeceğini bildirmesinin ardından Atina, Antalya açıkları için yayınladığı denizcilik duyurusunu geri çekti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-yunanistan-antalya-aciklarindaki-deniz-arastirmasi-duyurusun--efb477ec.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,25 +12,23 @@ etiketler:
 - Türkiye Dışişleri Bakanlığı
 - Türk Deniz Kuvvetleri
 onem: 5
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:41+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-yunanistan-antalya-aciklarindaki-deniz-arastirmasi-duyurusun--efb477ec.jpg
   konu_imza: f1f4b20621c2
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: bilinen_yanlis_kaldirildi
-    aciklama: habere uygunluk düşük (6/10, en az 7)
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: bilinen_yanlis_kaldirildi
+      aciklama: habere uygunluk düşük (6/10, en az 7)
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -151,6 +149,27 @@ gorsel_gecmis:
     kurum_notu: Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %5); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %5)
   degisim: '2026-11-08T22:29:41+03:00'
   kaldirma_nedeni: habere uygunluk düşük (6/10, en az 7)
+gorsel_yedek: /images/haber-gorsel/20261107-yunanistan-antalya-aciklarindaki-deniz-arastirmasi-duyurusun--efb477ec.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-yunanistan-antalya-aciklarindaki-deniz-arastirmasi-duyurusun--efb477ec.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Yunanistan, Türkiye'nin izin verilmediğini açıklamasının ardından Antalya açıklarında planlanan deniz tabanı kablo araştırması için yayınladığı NAVTEX denizcilik duyurusunu iptal etti. Türkiye Dışişleri Bakanlığı, Atina yönetimini uyararak Türk deniz yetki alanlarındaki her türlü araştırma faaliyetinin Türk makamlarıyla koordine edilmesi gerektiğini vurguladı.
 

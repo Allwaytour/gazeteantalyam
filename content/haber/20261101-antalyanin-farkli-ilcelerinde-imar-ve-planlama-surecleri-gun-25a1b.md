@@ -45,6 +45,7 @@ gorsel_secim:
   kurum_notu: Araban İlçe Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; Kütahya İl Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı; Kütahya İl Milli Eğitim Müdürlüğü Antalya dışı kurum, kullanılmadı
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-antalyanin-farkli-ilcelerinde-imar-ve-planlama-surecleri-gun--32bed459.jpg
 ---
 Antalya'da imar tartışmaları yeni konut projelerinin ötesinde, yıllardır planlama bekleyen bölgeler, mahkeme kararları ve askıya çıkarılan plan değişiklikleriyle sürüyor. Kentin farklı noktalarındaki gelişmeler, imar süreçlerinin her mahallede kendine has bir aşamada ilerlediğini ortaya koyuyor.
 

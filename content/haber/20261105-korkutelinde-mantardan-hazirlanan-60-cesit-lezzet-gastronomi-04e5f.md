@@ -174,6 +174,7 @@ gorsel_yerlesim:
   o_kart: 50% 41%
   o_kart_p: 46% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261105-korkutelinde-mantardan-hazirlanan-60-cesit-lezzet-gastronomi--bc3494ec.jpg
 ---
 Antalya'nın Korkuteli ilçesinde yaklaşık 40 yıldır sürdürülen mantar üretimi, farklı tariflerle gastronomiye kazandırılıyor. Bölgede yetiştirilen kültür ve istiridye mantarları, yerel işletmelerde hazırlanan 60 çeşit yemekle misafirlerin beğenisine sunuluyor.
 

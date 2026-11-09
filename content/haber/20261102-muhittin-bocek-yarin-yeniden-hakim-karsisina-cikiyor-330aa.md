@@ -175,6 +175,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 49% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa-932e991a.jpg
 ---
 Antalya Büyükşehir Belediyesi’ne dünen rüşvet ve yolsuzluk soruşturması çerçevesinde tutuklanarak görevinden uzaklaştırılan Antalya Büyükşehir Belediye Başkanı Muhittin Böcek’in yargı lanma süreci sürüyor. Geçtiğimiz temmuz ayında tutuklanan Böcek, yarın ana dava kapsamında beşinci kez savunma yapmak üzere hakim karşısına çıkmaya hazırlanıyor. Böcek, geçtiğimiz hafta görülen ALDAŞ davasıyla birlikte toplamda altıncı kez mahkeme salonunda yer almış olacak.
 

@@ -115,6 +115,7 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/aurinkomatkattan-alanyada-40-yillik-rekor
+gorsel_yedek: /images/haber-gorsel/20261108-alanya-turizminde-finlandiya-pazariyla-40-yillik-rekor-49807-12b0adcd.jpg
 ---
 Alanya turizmi, Finlandiya pazarındaki güçlü talep ve ulaşım imkanlarının sağladığı avantajlarla başarılı bir sezonu geride bıraktı. İngiltere'de düzenlenen WTM Londra 2026 Turizm Fuarı'nda bir araya gelen Alanya heyeti ve Aurinkomatkat yetkilileri, bölgenin turizm performansını değerlendirdi. Şirketin Türkiye Kontrat Müdürü Johanna Oliveira, Alanya'nın dünya genelindeki en büyük üçüncü destinasyonları olduğunu vurguladı.
 

@@ -2,8 +2,8 @@
 title: 'Antalya-Alanya Otoyolu İçin Hedef 2028: Seyahat Süresi 36 Dakikaya İnecek'
 date: '2026-11-07T23:04:00+03:00'
 ozet: Antalya ile Alanya arasındaki ulaşımı hızlandıracak otoyol projesinde çalışmalar sürüyor. Tamamlandığında 2,5 saatlik yolculuğun 36 dakikaya düşmesi ve yıllık 23,9 milyar lira tasarruf sağlanması hedefleniyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-antalya-alanya-otoyolu-icin-hedef-2028-seyahat-suresi-36-dak--fa98b2e3.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -14,35 +14,22 @@ etiketler:
 - Ulaştırma ve Altyapı Bakanlığı
 - Antalya Valiliği
 onem: 5
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 9 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-antalya-alanya-otoyolu-icin-hedef-2028-seyahat-suresi-36-dak--fa98b2e3.jpg
   konu_imza: 4c3093b9b7cd
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T12:06:19+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'görselde olmaması gereken unsur: iş makineleri; görselde olmaması gereken unsur: turistik plaj; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (1/10, en az 8); habere uygunluk düşük (3/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülk'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'görselde olmaması gereken unsur: iş makineleri; görselde olmaması gereken unsur: turistik plaj; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (1/10, en az 8); habere uygunluk düşük (3/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülk'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,6 +40,27 @@ kaynak_url: https://www.antalyahurses.com/antalyada-ulasim-degisiyor-2028-yili-i
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261107-antalya-alanya-otoyolu-icin-hedef-2028-seyahat-suresi-36-dak--fa98b2e3.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-antalya-alanya-otoyolu-icin-hedef-2028-seyahat-suresi-36-dak--fa98b2e3.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın turizm sezonundaki en büyük sorunlarından biri olan D400 kara yolundaki trafik yoğunluğunu çözmek amacıyla başlatılan Antalya-Alanya Otoyolu Projesi'nde çalışmalar hız kesmeden devam ediyor. Ulaştırma ve Altyapı Bakanlığı ile Antalya Valiliği tarafından yürütülen dev projede, tünel kazılarında yüzde 80 oranında ilerleme kaydedildi. Toplam 122 kilometrelik güzergâh üzerinde 16 viyadük, 5 tünel ve 7 kavşak inşa ediliyor.
 

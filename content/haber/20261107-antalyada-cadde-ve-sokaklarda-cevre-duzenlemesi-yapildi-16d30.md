@@ -116,6 +116,7 @@ gorsel_yerlesim:
   yan_portre: false
   o_kart: 100% 50%
   url: https://images.unsplash.com/photo-1792691040866-b38edd5908ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3RyZWV0JTIwY2xlYW5pbmclMjB3b3JrZXJzfGVufDF8MHx8fDE3OTQwNDkzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261107-antalyada-cadde-ve-sokaklarda-cevre-duzenlemesi-yapildi-16d30-ed1b7aa4.jpg
 ---
 Antalya Büyükşehir Belediyesi Park ve Bahçeler Dairesi Başkanlığı, kent genelinde yürüttüğü ortak kullanım alanlarını temiz tutma ve estetik görünümü koruma faaliyetlerini sürdürüyor. Bu kapsamda görevli ekipler, Kemer ilçesinin işlek güzergâhları arasında yer alan Liman Caddesi ve Atatürk Caddesi üzerinde kapsamlı bir bakım süreci başlattı.
 

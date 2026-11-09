@@ -2,35 +2,25 @@
 title: Demre için 3 aşamalı sel mastır planı önerisi
 date: '2026-11-01T23:00:00+03:00'
 ozet: Kısa aralıklarla yaşanan sel felaketlerinin ardından Demre'de kalıcı çözümler için kurumlar arası iş birliği ve üç aşamalı mastır planı çağrısı yapıldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-demre-icin-3-asamali-sel-mastir-plani-onerisi-cd1df-df2c6289.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
 - Demre
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-demre-icin-3-asamali-sel-mastir-plani-onerisi-cd1df-df2c6289.jpg
   konu_imza: d3b8aa249440
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T20:22:46+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +31,27 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyanin-tarim-merkezi-icin-sel-a
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261101-demre-icin-3-asamali-sel-mastir-plani-onerisi-cd1df-df2c6289.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-demre-icin-3-asamali-sel-mastir-plani-onerisi-cd1df-df2c6289.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın tarım ve turizm merkezlerinden Demre'de peş peşe yaşanan sel felaketleri, ilçenin altyapı sorunlarını ve taşkın riskini yeniden gündeme getirdi. Seraların, evlerin ve ulaşımın olumsuz etkilendiği süreçte, bölgenin aynı sorunlarla tekrar karşılaşmaması için günübirlik müdahaleler yerine kalıcı çözümler geliştirilmesi gerektiği belirtildi. Dağlardan inen suların kıskacındaki ilçenin korunması için entegre havza yönetimi modelinin hayata geçirilmesi istendi.
 

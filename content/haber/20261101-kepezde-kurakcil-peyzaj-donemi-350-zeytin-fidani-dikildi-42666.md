@@ -44,6 +44,7 @@ gorsel_secim:
   kurum_notu: Kepez Belediyesi sayfasında bulundu
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
+gorsel_yedek: /images/haber-gorsel/20261101-kepezde-kurakcil-peyzaj-donemi-350-zeytin-fidani-dikildi-4266-3b1ee3aa.jpg
 ---
 Yer altı su kaynaklarını korumak ve doğal kaynakların verimli kullanılmasını sağlamak amacıyla ilçe genelinde sürdürülebilir çevre çalışmaları yürütülüyor. Park ve Bahçeler Müdürlüğü ekipleri tarafından hayata geçirilen projelerde, sıcak ile kurak iklim şartlarına dayanıklı bitki türleri tercih ediliyor. Yoğun sulama ihtiyacı olan çim alanlar yerine su tüketimini azaltan düzenlemeler ön plana çıkarılıyor.
 

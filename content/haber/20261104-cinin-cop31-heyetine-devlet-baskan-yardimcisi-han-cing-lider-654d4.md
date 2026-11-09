@@ -2,43 +2,45 @@
 title: Çin'in COP31 Heyetine Devlet Başkan Yardımcısı Han Cıng Liderlik Edecek
 date: '2026-11-04T16:14:30+03:00'
 ozet: Antalya'da düzenlenecek COP31 İklim Konferansı'nda Çin'i Devlet Başkan Yardımcısı Han Cıng'ın temsil edeceği açıklandı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Foreign, Commonwealth & Development Office / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: 9d265bd1a55f
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:31:23+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an"
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; 'Han Cıng' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); 'Murat Kurum' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (climate conference, summit, antalya) ilişkili lisanslı fotoğraf bulunamadı"
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-      katman: kurum
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Han_Zheng_(55309839831)_(cropped).jpg
+  fotografci: Foreign, Commonwealth & Development Office
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Han Zheng
+  cekim_yili: '2026'
+  aciklama: Han Zheng — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kisi-215347' (Han Zheng) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-215347
+    tarih: '2026-11-09T13:27:12+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+      notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; 'Han Cıng' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); 'Murat Kurum' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (climate conference, summit, antalya) ilişkili lisanslı fotoğraf bulunamadı"
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
+        katman: kurum
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,6 +56,24 @@ etiketler:
 - Murat Kurum
 - Çin Dışişleri Bakanlığı
 - Birleşmiş Milletler
+gorsel_yedek: /images/haber-gorsel/20261104-cinin-cop31-heyetine-devlet-baskan-yardimcisi-han-cing-lider--05bc3c8e.jpg
+gorsel_yerlesim:
+  boyut:
+  - 900
+  - 1163
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_gecmis: []
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na yönelik uluslararası düzeyde hazırlıklar sürerken, Çin'den üst düzey katılım kararı geldi. 9-20 Kasım tarihleri arasında Antalya'nın ev sahipliğinde toplanacak olan zirvede Çin'i, Devlet Başkan Yardımcısı Han Cıng temsil edecek.
 

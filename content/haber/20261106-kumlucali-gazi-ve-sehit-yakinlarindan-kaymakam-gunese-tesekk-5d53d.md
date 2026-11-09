@@ -2,8 +2,8 @@
 title: Kumlucalı Gazi ve Şehit Yakınlarından Kaymakam Güneş'e Teşekkür Ziyareti
 date: '2026-11-06T09:18:08+03:00'
 ozet: Kumluca Kaymakamlığı tarafından düzenlenen İstanbul gezisine katılan şehit yakınları ve gaziler, programın ardından Kaymakam Bahadır Güneş'i ziyaret etti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk--ca89c3f4.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,35 +11,22 @@ ilceler:
 etiketler:
 - Bahadır Güneş
 - Kumluca Kaymakamlığı
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk--ca89c3f4.jpg
   konu_imza: 2e3381998686
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T22:29:22+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
-  kurum: k5
-  kurum_notu: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded'
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği ke'
-  kapak_surum: c8
-  zorla: h1-2026-11-07:10
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %0); kurum sayfası okunamadı (Konyaaltı Belediyesi): HTTPSConnectionPool(host=''www.konyaalti.bel.tr'', port=443): Max retries exceeded; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bahadır Güneş'' için kimliği ke'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,6 +37,27 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/kumlucada-ist
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk--ca89c3f4.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-kumlucali-gazi-ve-sehit-yakinlarindan-kaymakam-gunese-tesekk--ca89c3f4.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Kumluca Kaymakamlığı öncülüğünde gerçekleştirilen İstanbul Kültür ve Tarih Gezisi, şehit yakınları ve gaziler için anlamlı bir buluşmaya vesile oldu. Üç gün süren ve İstanbul'un tarihi, kültürel ve manevi değerlerini yakından tanıma fırsatı sunan programın tamamlanmasıyla birlikte katılımcılar, Kumluca Kaymakamı Bahadır Güneş'i makamında ziyaret etti.
 

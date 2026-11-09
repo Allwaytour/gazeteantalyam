@@ -150,6 +150,7 @@ gorsel_yerlesim:
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 etiketler:
 - Kültür ve Turizm Bakanlığı
+gorsel_yedek: /images/haber-gorsel/20261105-gazipasa-alanya-hattinda-turizm-hareketliligi-730-bin-yolcu-c-3672fcbd.jpg
 ---
 Türkiye genelinde turizm verileri yılın ilk 9 ayında güçlü bir ivme yakalarken, Antalya bu hareketliliğin merkezinde yer aldı. Kültür ve Turizm Bakanlığı verilerine göre ülke genelinde 49 milyonu aşkın ziyaretçi ağırlanırken, Antalya tek başına 12,4 milyon yabancı turiste ev sahipliği yaptı.
 

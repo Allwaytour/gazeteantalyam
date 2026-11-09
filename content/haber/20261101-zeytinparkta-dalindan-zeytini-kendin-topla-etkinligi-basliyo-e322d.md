@@ -2,8 +2,8 @@
 title: Zeytinpark'ta Dalından Zeytini Kendin Topla Etkinliği Başlıyor
 date: '2026-11-01T14:09:32+03:00'
 ozet: Antalya'nın doğal yaşam alanı Zeytinpark'ta düzenlenecek hasat etkinliğinde ziyaretçiler zeytinleri kendi elleriyle toplayabilecek.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-zeytinparkta-dalindan-zeytini-kendin-topla-etkinligi-basliyo--de395b6f.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Yaşam
 ilceler:
@@ -18,29 +18,40 @@ kaynak_url: https://www.dha.com.tr/yerel-haberler/antalya/zeytinparkta-dalindan-
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1706868934222-b0be7c86fb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmFpbiUyMHN0cmVldCUyMHVtYnJlbGxhfGVufDF8MHx8fDE3OTM0ODQ5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Sohan Shingade / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-zeytinparkta-dalindan-zeytini-kendin-topla-etkinligi-basliyo--de395b6f.jpg
   konu_imza: 5d30afad3951
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T18:26:03+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+gorsel_yedek: /images/haber-gorsel/20261101-zeytinparkta-dalindan-zeytini-kendin-topla-etkinligi-basliyo--de395b6f.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-zeytinparkta-dalindan-zeytini-kendin-topla-etkinligi-basliyo--de395b6f.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın önemli doğal yaşam merkezlerinden biri olan Zeytinpark, doğaseverleri zeytin hasadı heyecanıyla buluşturmaya hazırlanıyor. Yaklaşık 2 milyon 630 bin metrekarelik alanda kurulan ve bünyesinde binlerce zeytin ağacı barındıran parkta, zeytin toplama etkinliği gerçekleştirilecek. Kentin yeşil dokusunun korunmasında önemli bir rol oynayan ve Antalya Ticaret Borsası öncülüğünde yürütülen çalışmalarla bugüne taşınan alan, düzenlenecek programla kapılarını ziyaretçilere açacak.
 

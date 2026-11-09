@@ -2,8 +2,8 @@
 title: Gazipaşa'daki Karayolları taşınmazı özelleştirme listesinde
 date: '2026-10-31T12:49:19+03:00'
 ozet: Cumhurbaşkanı kararıyla Türkiye genelindeki 37 kamu mülkü özelleştirme kapsamına alınırken, Antalya'nın Gazipaşa ilçesindeki bir arazi de satış listesine dahil edildi.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261031-gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde-78-3490253a.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 gorsel_v4: true
 kategoriler:
 - Ekonomi
@@ -16,25 +16,23 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde/560711
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261031-gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde-78-3490253a.jpg
   konu_imza: c65a78fcaaa8
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg/1280px-Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Selçuk Kara / Wikimedia Commons (CC BY-SA 4.0)'
@@ -42,6 +40,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261031-gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde-78-3490253a.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261031-gazipasadaki-karayollari-tasinmazi-ozellestirme-listesinde-78-3490253a.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı doğrultusunda, Türkiye genelinde Karayolları Genel Müdürlüğü mülkiyetinde bulunan 37 taşınmazın satış yoluyla özelleştirilmesinin önü açıldı. Ülke genelindeki 17 farklı ili kapsayan kararın Antalya ayağında, Gazipaşa ilçesi yer aldı.
 

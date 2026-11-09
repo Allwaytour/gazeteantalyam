@@ -177,6 +177,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 89% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-antalyada-taksicilerden-kisa-mesafe-yolculuk-tepkisi-97990-12efc58e.jpg
 ---
 Antalya'da havalimanından fuar merkezine gitmek isteyen yolcuların, bazı taksiciler tarafından mesafenin kısa olduğu gerekçesiyle araçlara alınmadığı bildirildi. Yaşanan bu durum kentteki ulaşım hizmetlerine yönelik eleştirileri beraberinde getirdi.
 

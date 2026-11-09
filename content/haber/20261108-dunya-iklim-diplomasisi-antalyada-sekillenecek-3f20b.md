@@ -116,6 +116,7 @@ otomatik: true
 yz: true
 kaynak: AjansHaber
 kaynak_url: https://ajanshaber.com.tr/haber/dunyanin-gozu-antalya-da-turkiye-cop31-ile-iklim-diplomasisine-ev
+gorsel_yedek: /images/haber-gorsel/20261108-dunya-iklim-diplomasisi-antalyada-sekillenecek-3f20b-3e364b02.jpg
 ---
 Türkiye, küresel iklim değişikliğiyle mücadele kapsamında kritik bir buluşmaya ev sahipliği yapmaya hazırlanıyor. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), 9-20 Kasım tarihleri arasında Antalya EXPO Alanı'nda gerçekleştirilecek. Konferans, devlet başkanlarından bilim insanlarına ve sivil toplum temsilcilerine kadar geniş bir katılımcı kitlesini ağırlayacak.
 

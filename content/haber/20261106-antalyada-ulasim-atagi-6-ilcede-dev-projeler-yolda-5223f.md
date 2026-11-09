@@ -114,6 +114,7 @@ gorsel_yerlesim:
   yan_portre: false
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG/1280px-Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261106-antalyada-ulasim-atagi-6-ilcede-dev-projeler-yolda-5223f-5ad2b3c2.jpg
 ---
 Antalya'da hızla artan araç sayısı ve nüfus yoğunluğu, ulaşım altyapısında köklü değişiklikleri beraberinde getiriyor. Kent merkezindeki raylı sistem genişlemelerinden ilçeler arası bağlantıyı güçlendirecek otoyol projelerine kadar uzanan kapsamlı bir yatırım planı, şehrin ulaşım geleceğini dönüştürmeye hazırlanıyor. Özellikle Konyaaltı ile Varsak hattını birbirine bağlayacak 4. Etap Raylı Sistem Projesi, kentin batı ve kuzey aksı arasındaki erişimi önemli ölçüde kolaylaştıracak.
 

@@ -46,6 +46,7 @@ gorsel_secim:
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyper_Coaster_Land_of_Legends_1.jpg/1280px-Hyper_Coaster_Land_of_Legends_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Philippe-Minh Nguyen / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261101-serikte-lise-son-sinif-ogrencilerine-bir-gunluk-tatil-hediye--b581a470.jpg
 ---
 Serik Belediye Başkanlığı ve Belek Turizm Merkezi'nde faaliyet gösteren The Land Of Legends arasında bir protokol imzalandı. Yapılan anlaşma çerçevesinde, ilçede eğitim gören lise son sınıf öğrencilerine bir günlük tatil fırsatı sunuldu.
 

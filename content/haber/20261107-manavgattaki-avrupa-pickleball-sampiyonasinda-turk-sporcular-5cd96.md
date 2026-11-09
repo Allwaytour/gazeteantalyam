@@ -2,8 +2,8 @@
 title: Manavgat'taki Avrupa pickleball şampiyonasında Türk sporculardan madalya gururu
 date: '2026-11-07T20:27:39+03:00'
 ozet: Türkiye'de ilk kez Manavgat'ta düzenlenen Avrupa Pickleball Açık Şampiyonası'nda Türk sporcular önemli dereceler elde etti.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: OvertAnalyzer / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -13,25 +13,36 @@ etiketler:
 - Türkiye Tenis Federasyonu
 - Ali Bey Kulübü Tesisleri
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:48+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
   konu_imza: 7c01248a2b23
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:A_pickleball_paddle_with_two_pickleballs.jpg
+  fotografci: OvertAnalyzer
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: pickleball raketi ve topları
+  cekim_yili: '2022'
+  aciklama: Pickleball raketi ve topları (temsilî)
+  gerekce: arşiv kaydı 'pickleball' (pickleball raketi ve topları) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: pickleball
+    tarih: '2026-11-09T13:27:02+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): Beyaz Saray''daki bir pickleball etkinliği, tanınabilir kişiler; Manavgat''taki şampiyona değil'
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): Beyaz Saray''daki bir pickleball etkinliği, tanınabilir kişiler; Manavgat''taki şampiyona değil'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -176,6 +187,27 @@ gorsel_gecmis:
     url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg/1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   degisim: '2026-11-08T23:03:48+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): Beyaz Saray''daki bir pickleball etkinliği, tanınabilir kişiler; Manavgat''taki şampiyona değil'
+gorsel_yedek: /images/haber-gorsel/20261107-manavgattaki-avrupa-pickleball-sampiyonasinda-turk-sporcular--7758aabb.jpg
+gorsel_yerlesim:
+  boyut:
+  - 2560
+  - 3936
+  dikey: true
+  surum: y3
+  manset: kaplama
+  yan: false
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: true
+  o_manset_d: 50% 67%
+  o_manset_m: 50% 74%
+  o_mansetyan_d: 50% 100%
+  o_mansetyan_m: 50% 100%
+  o_yan_t: 50% 76%
+  o_kart: 50% 54%
+  o_kart_p: 50% 69%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
 ---
 Türkiye'de ilk defa Antalya'nın Manavgat ilçesinde hayata geçirilen Avrupa Pickleball Açık Şampiyonası, farklı ülkelerden gelen sporcuların katılımıyla büyük bir heyecana sahne oluyor. Ali Bey Kulübü Tesisleri'nde gerçekleştirilen dev organizasyonda otuz yedi farklı ülkeden dört yüz yetmiş iki sporcu kıyasıya mücadele ediyor.
 

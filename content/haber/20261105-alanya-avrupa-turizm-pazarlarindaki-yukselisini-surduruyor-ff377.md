@@ -117,6 +117,7 @@ etiketler:
 - Alanya Belediyesi
 - Coral Travel
 - Odeon
+gorsel_yedek: /images/haber-gorsel/20261105-alanya-avrupa-turizm-pazarlarindaki-yukselisini-surduruyor-ff-68cd55e0.jpg
 ---
 Alanya, uluslararası turizm pazarlarındaki güçlü performansıyla dikkat çekmeye devam ediyor. Londra'da gerçekleştirilen World Travel Market (WTM) Fuarı'na katılan Alanya heyeti, tur operatörleriyle bir araya gelerek 2026 sezonunu değerlendirdi ve 2027 hedeflerini belirledi. Belediye Başkanı Osman Tarık Özçelik'in başkanlık ettiği heyet, bölgenin turizmdeki rekabetçi gücünü artırmak adına yoğun temaslarda bulundu.
 

@@ -2,47 +2,36 @@
 title: Manavgat Devlet Hastanesi'nde gerçeği aratmayan afet tatbikatı
 date: '2026-11-04T10:44:00+03:00'
 ozet: Manavgat Devlet Hastanesi'nde gerçekleştirilen afet ve acil durum tatbikatı gerçeği aratmadı. Sağlık personelinin performansı dikkat çekti.
-gorsel: /images/kategori/saglik.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-manavgat-devlet-hastanesinde-gercegi-aratmayan-afet-tatbikat--6baed336.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Sağlık
 ilceler:
 - Manavgat
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-manavgat-devlet-hastanesinde-gercegi-aratmayan-afet-tatbikat--6baed336.jpg
   konu_imza: 2ebf985e06f4
-  gorsel_url: /images/kategori/saglik.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-05T21:21:42+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.1-flash-lite
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''afet tatbikatı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Manavgat Devlet Hastanesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat Devlet Hastanesi'' için konuyla (hospital, emergency drill, medical staff) ilişkili lisanslı fotoğraf bulunamadı; ''afet tatbikatı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: hastane afet tatbikatı, acil durum tatbikatı)'
-    elenenler:
-    - sayfa: https://commons.wikimedia.org/wiki/File:Ford_Medical_Emergency_Drill_160607-N-GY005-006.jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-    - sayfa: https://commons.wikimedia.org/wiki/File:Tripoli%E2%80%99s_Medical_Department_Conducts_Emergency_Response_Training_Drill_(9294388).jpg
-      katman: nesne
-      neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-  kapak_surum: c2
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''afet tatbikatı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Manavgat Devlet Hastanesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat Devlet Hastanesi'' için konuyla (hospital, emergency drill, medical staff) ilişkili lisanslı fotoğraf bulunamadı; ''afet tatbikatı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: hastane afet tatbikatı, acil durum tatbikatı)'
+      elenenler:
+      - sayfa: https://commons.wikimedia.org/wiki/File:Ford_Medical_Emergency_Drill_160607-N-GY005-006.jpg
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+      - sayfa: https://commons.wikimedia.org/wiki/File:Tripoli%E2%80%99s_Medical_Department_Conducts_Emergency_Response_Training_Drill_(9294388).jpg
+        katman: nesne
+        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -55,6 +44,27 @@ gorsel_onceki:
   gorsel_kredi: ''
 etiketler:
 - Manavgat Devlet Hastanesi
+gorsel_yedek: /images/haber-gorsel/20261104-manavgat-devlet-hastanesinde-gercegi-aratmayan-afet-tatbikat--6baed336.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-manavgat-devlet-hastanesinde-gercegi-aratmayan-afet-tatbikat--6baed336.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Manavgat Devlet Hastanesi'nde olası afet ve acil durumlara hazırlıklı olmak amacıyla Hastane Afet Planı çerçevesinde kapsamlı bir tatbikat yapıldı. Hastane bahçesinde oluşturulan özel platoda gerçekleştirilen çalışmada, senaryo gereği bir kaza meydana geldi. Kazada yaralanan vatandaşlar hızla hastaneye ulaştırıldı ve acil serviste görev yapan doktor, hemşire ile sağlık çalışanları tarafından gerçeğe uygun müdahalelerde bulunuldu.
 

@@ -115,6 +115,7 @@ otomatik: true
 yz: true
 kaynak: Takvim
 kaynak_url: https://www.takvim.com.tr/guncel/2026/11/08/turkiye-cop31e-hazir-dunya-liderleri-antalyada-bulusuyor
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli--99bf2bbb.jpg
 ---
 Turkiye'nin ev sahipliginde duzenlenen Birlesmis Milletler Iklim Degisikligi Konferansi (COP31), Antalya'da basliyor. Dunya liderleri, bakanlar, akademisyenler ve sivil toplum kuruluslarinin temsilcilerini bulusturacak olan dev organizasyon icin 1,1 milyon metrekarelik alan hazirlandi.
 

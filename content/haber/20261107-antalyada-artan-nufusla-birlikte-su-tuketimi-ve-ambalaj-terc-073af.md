@@ -115,6 +115,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1536939459926-301728717817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Ym90dGxlZCUyMHdhdGVyfGVufDF8MHx8fDE3OTQwNjAxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261107-antalyada-artan-nufusla-birlikte-su-tuketimi-ve-ambalaj-terc--6c5c9250.jpg
 ---
 Türkiye'nin en kalabalık beşinci kenti konumundaki Antalya'da, nüfusun ve yerleşim alanlarının büyümesi günlük su tüketimini artırıyor. Konutlardan otellere kadar pek çok farklı alanda içme suyu ihtiyacı, ağırlıklı olarak damacana ve plastik ambalajlı ürünlerle karşılanıyor. Şehirde faaliyet gösteren su üreticileri de ürün portföylerinde bu ambalaj türlerine yer veriyor.
 

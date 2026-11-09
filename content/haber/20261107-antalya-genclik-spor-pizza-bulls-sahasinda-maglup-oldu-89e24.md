@@ -2,8 +2,8 @@
 title: Antalya Gençlik Spor Pizza Bulls sahasında mağlup oldu
 date: '2026-11-07T20:56:00+03:00'
 ozet: Türkiye Basketbol 2. Ligi'nde mücadele eden Antalya temsilcisi, evinde konuk ettiği Türk Telekom Gelişim'e 75-65 yenildi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-antalya-genclik-spor-pizza-bulls-sahasinda-maglup-oldu-89e24-3485e914.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
@@ -12,35 +12,22 @@ etiketler:
 - Antalya Gençlik Spor Pizza Bulls
 - Türk Telekom Gelişim
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-antalya-genclik-spor-pizza-bulls-sahasinda-maglup-oldu-89e24-3485e914.jpg
   konu_imza: d718d49bcc37
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T16:04:14+03:00'
-    yontem: h2
-    model: gemini-3.1-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; gerçek fotoğraf değil (cizim); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; gerçek fotoğraf değil (cizim); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yanıltıcı dönem
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -51,6 +38,27 @@ kaynak_url: https://www.akdenizmanset.com.tr/antalya-genclik-spor-pizza-bulls-tu
 gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261107-antalya-genclik-spor-pizza-bulls-sahasinda-maglup-oldu-89e24-3485e914.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-antalya-genclik-spor-pizza-bulls-sahasinda-maglup-oldu-89e24-3485e914.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin beşinci haftasında Türk Telekom Gelişim takımıyla karşı karşıya geldi. Antalya Spor Salonu'nda oynanan mücadelenin ilk periyodunu 22-19 geride kapatan ev sahibi ekip, ikinci çeyrekte de oyunun kontrolünü elinde tutamadı ve soyunma odasına 44-36 yenik durumda girdi.
 

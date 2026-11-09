@@ -116,6 +116,7 @@ otomatik: true
 yz: true
 kaynak: Haberci TV
 kaynak_url: https://www.habercitv.com.tr/antalya-gran-fondoda-8-kasim-programi-odul-toreni-saat-1500te
+gorsel_yedek: /images/haber-gorsel/20261108-antalya-gran-fondoda-8-kasim-programi-aciklandi-00e0c-4bdd9e4e.jpg
 ---
 UCI Gran Fondo World Series Antalya kapsamında 8 Kasım 2026 Pazar günü düzenlenecek etkinliklerin programı netleşti. Organizatör takvimine göre pazar günkü yol yarışının 10.00 ile 14.30 saatleri arasında yapılması planlanıyor. Yarışın start ve finiş noktası ise The Land of Legends tema parkının önü olarak belirlendi.
 

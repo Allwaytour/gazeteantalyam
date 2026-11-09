@@ -161,6 +161,7 @@ gorsel_yerlesim:
   o_kart: 50% 17%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramada_Plaza_by_Wyndham_Antalya_02.jpg/1280px-Ramada_Plaza_by_Wyndham_Antalya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-antalya-turizmde-zirvede-eylul-ayinda-her-iki-gecelemeden-bi--5771edbc.jpg
 ---
 Kültür ve Turizm Bakanlığı tarafından paylaşılan konaklama verilerine göre, eylül ayında Türkiye genelinde otellere toplam 12 milyon 391 bin giriş yapıldı. Bu dönemde yurt genelinde toplam 33 milyon 451 bin geceleme kaydedilirken, ortalama geceleme süresi 2,70 gece, doluluk oranı ise yüzde 62,31 olarak açıklandı.
 

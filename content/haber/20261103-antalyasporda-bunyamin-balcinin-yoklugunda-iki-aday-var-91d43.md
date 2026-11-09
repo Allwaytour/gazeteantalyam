@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Antalyam.com
 kaynak_url: https://antalyam.com/detay/bunyamin-balcinin-yerine-2-alternatif
+gorsel_yedek: /images/haber-gorsel/20261103-antalyasporda-bunyamin-balcinin-yoklugunda-iki-aday-var-91d43-0040698e.jpg
 ---
 Trendyol 1. Lig'de mücadele eden Antalyaspor, gelecek hafta oynayacağı Bursaspor karşılaşmasının hazırlıklarını sürdürürken kadro planlamasında zorunlu bir değişiklik yapmaya hazırlanıyor. Kırmızı-beyazlı ekibin istikrarlı isimlerinden olan Bünyamin Balcı, Iğdır FK mücadelesinde gördüğü sarı kart nedeniyle cezalı duruma düştü. Bu gelişmeyle birlikte başarılı futbolcu, Bursaspor karşısında takımını yalnız bırakacak.
 

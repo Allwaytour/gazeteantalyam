@@ -145,6 +145,7 @@ gorsel_yerlesim:
   o_mansetyan_m: 50% 50%
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a7/Emre_Bel%C3%B6zo%C4%9Flu_23_November_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_yedek: /images/haber-gorsel/20261104-antalyasporun-eski-teknik-direktorleri-kariyerlerinde-zirvey--b97cc490.jpg
 ---
 Antalyaspor'da son iki yılda teknik direktörlük yapan isimler, kariyerlerine farklı kulüp ve milli takımlarda devam ediyor. Akdeniz ekibinde 2024 yılında görev alan Sergen Yalçın A Milli Futbol Takımı'nın teknik direktörlüğünü üstlenirken, 2025 yılında takımın başına gelen Emre Belözoğlu'nun yeni adresi Fenerbahçe oldu. Sarı-lacivertli kulüpte gerçekleştirilen teknik direktörlük görüşmeleri sonucunda Belözoğlu ile anlaşma sağlandı.
 

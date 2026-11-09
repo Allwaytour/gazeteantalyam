@@ -179,6 +179,7 @@ gorsel_yerlesim:
   o_kart: 50% 65%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-almanya-pazarinda-dusus-yasanirken-antalya-alman-turist-sayi--c905d7ce.jpg
 ---
 Almanya kaynaklı hava yolu seyahatlerinde dokuz aylık süreçte daralma kaydedildi. Sektör verilerine göre, önceki yılın aynı döneminde 165,2 milyon olan Almanya çıkışlı toplam yolcu hacmi 163 milyona geriledi. Bu genel düşüşten Türkiye de payını alarak, ülkeye gelen toplam yolcu sayısı 15,37 milyondan 15,04 milyon seviyesine düştü. Yaşanan bu gerilemeyle Türkiye'nin söz konusu pazardaki payı yüzde 9,30'dan yüzde 9,22'ye gerilese de ülke genel sıralamadaki ikinciliğini korudu.
 

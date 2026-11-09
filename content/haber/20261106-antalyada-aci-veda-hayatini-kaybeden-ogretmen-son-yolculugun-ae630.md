@@ -2,8 +2,8 @@
 title: 'Antalya''da acı veda: Hayatını kaybeden öğretmen son yolculuğuna uğurlanıyor'
 date: '2026-11-06T13:16:00+03:00'
 ozet: Afyonkarahisar'daki silahlı saldırıda yaşamını yitiren fen bilimleri öğretmeni Ayşe Sena Demir, Antalya'da toprağa veriliyor. Eğitim-Bir-Sen Şube Başkanı Eyüp Bülent Miran'dan şiddete karşı birlik çağrısı geldi.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-antalyada-aci-veda-hayatini-kaybeden-ogretmen-son-yolculugun--2619e148.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
@@ -13,34 +13,22 @@ etiketler:
 - Memur-Sen
 - Eğitim-Bir-Sen
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-antalyada-aci-veda-hayatini-kaybeden-ogretmen-son-yolculugun--2619e148.jpg
   konu_imza: 79ef41e222c0
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-08T13:36:27+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: '''Muratpaşa Camii'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Kurşunlu Mezarlığı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberin ana kişisi ''Ayşe Sena Demir''; ''Eyüp Bülent Miran'' fotoğrafı h'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: '''Muratpaşa Camii'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; ''Kurşunlu Mezarlığı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberin ana kişisi ''Ayşe Sena Demir''; ''Eyüp Bülent Miran'' fotoğrafı h'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -51,6 +39,27 @@ kaynak_url: https://www.akdenizmanset.com.tr/eyup-bulent-miran-egitim-camiamizin
 gorsel_onceki:
   gorsel: /images/kategori/asayis.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261106-antalyada-aci-veda-hayatini-kaybeden-ogretmen-son-yolculugun--2619e148.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-antalyada-aci-veda-hayatini-kaybeden-ogretmen-son-yolculugun--2619e148.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Afyonkarahisar'ın İhsaniye ilçesinde sekiz kişinin hayatını kaybettiği silahlı saldırı, eğitim camiasını yasa boğdu. Bu acı olayda yaşamını yitirenler arasında yer alan fen bilimleri öğretmeni Ayşe Sena Demir'in cenazesi, bugün öğlen vakti Muratpaşa Camii'nde kılınacak cenaze namazının ardından Kurşunlu Mezarlığı'nda defnedilecek.
 

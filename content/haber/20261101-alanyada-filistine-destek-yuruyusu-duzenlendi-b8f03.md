@@ -2,8 +2,8 @@
 title: Alanya'da Filistin'e destek yürüyüşü düzenlendi
 date: '2026-11-01T08:54:43+03:00'
 ozet: Alanya'da düzenlenen yürüyüşte vatandaşlar ve öğrenciler Filistin halkına destek mesajı verdi.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-alanyada-filistine-destek-yuruyusu-duzenlendi-b8f03-d785b21e.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -16,25 +16,23 @@ otomatik: true
 yz: true
 kaynak: خبرگزاری بین المللی قرآن
 kaynak_url: https://iqna.ir/tr/news/3492367/alanyada-gazze-icin-sessiz-ciglik-yuruyusu-duzenlendi
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-alanyada-filistine-destek-yuruyusu-duzenlendi-b8f03-d785b21e.jpg
   konu_imza: 5f2b6dbd8470
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1643717583148-950284638774?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cmFpbiUyMHN0cmVldCUyMHVtYnJlbGxhfGVufDF8MHx8fDE3OTM0ODQ5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Deniz Demir / Unsplash'
@@ -42,6 +40,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261101-alanyada-filistine-destek-yuruyusu-duzenlendi-b8f03-d785b21e.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-alanyada-filistine-destek-yuruyusu-duzenlendi-b8f03-d785b21e.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Antalya'nın Alanya ilçesinde, Gazze'deki duruma dikkat çekmek ve saldırıları protesto etmek amacıyla sessiz yürüyüş gerçekleştirildi. Alanya İmam Hatipliler Derneği öncülüğünde, Alanya İlçe Milli Eğitim Müdürlüğü ile Alanya Gençlik ve Spor İlçe Müdürlüğü iş birliğiyle organize edilen etkinlik, eski Alanya Belediyesi binasının arkasından hareketle başladı.
 

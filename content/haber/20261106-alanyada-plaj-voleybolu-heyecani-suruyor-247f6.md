@@ -188,6 +188,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 47% 50%
   url: https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261106-alanyada-plaj-voleybolu-heyecani-suruyor-247f6-e183fcce.jpg
 ---
 Alanya, uluslararası plaj voleybolu organizasyonlarından birine ev sahipliği yapmaya devam ediyor. Avrupa Voleybol Konfederasyonu tarafından düzenlenen, Türkiye Voleybol Federasyonu iş birliği ve Alanya Belediyesi ev sahipliğindeki CEV Plaj Voleybolu Avrupa Kulüpler Kupası Finali, 23 Projects Alanya Uluslararası Plaj Sporları Merkezi'nde gerçekleştiriliyor. Türkiye, İspanya, Fransa, Ukrayna, Çekya, Hollanda, Macaristan, Polonya ve İtalya'dan gelen takımlar şampiyonluk mücadelesi veriyor. Kadınlar kategorisinde Alanya Belediyespor da ülkemizi temsil ediyor.
 

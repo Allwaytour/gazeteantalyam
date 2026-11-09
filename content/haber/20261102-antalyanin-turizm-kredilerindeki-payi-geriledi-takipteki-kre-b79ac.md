@@ -46,6 +46,7 @@ kaynak_url: https://www.turizmgazetesi.com/haber/sehirlere-gore-turizm-kredileri
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-antalyanin-turizm-kredilerindeki-payi-geriledi-takipteki-kre--7a39535a.jpg
 ---
 Türkiye genelinde turizm sektörünün bankalardan kullandığı kredi miktarı, yılın ilk dokuz aylık döneminde artış kaydetti. Elde edilen verilere göre, ülke genelindeki toplam kredi stoku yüzde 16 oranında bir büyüme göstererek 18,6 milyar dolar seviyesine ulaştı. Aynı süreçte gayri nakdi kredilerin toplam stoku da yüzde 13,7'lik artışla 2,62 milyar dolara yükseldi.
 

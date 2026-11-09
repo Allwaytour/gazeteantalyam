@@ -46,6 +46,7 @@ kaynak_url: https://www.antalyagundem.com.tr/altso-baskani-tuna-damlatas-esnafin
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-alanyada-esnaf-ziyareti-gerceklestiren-tuna-talepleri-dinled--b74ec57c.jpg
 ---
 Alanya Ticaret ve Sanayi Odası Başkanı, göreve gelmesinin ardından sürdürdüğü üye ve işletme buluşmalarına devam ediyor. Gerçekleştirilen son program kapsamında Damlataş bölgesindeki esnafı iş yerlerinde ziyaret eden yönetim, bölge ticaretinin mevcut durumu ve işletmelerin yaşadığı sıkıntılar hakkında bilgi aldı.
 

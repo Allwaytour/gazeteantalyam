@@ -46,6 +46,7 @@ kaynak_url: https://www.antalyahurses.com/deniz-kum-ve-gunesin-otesinde-antalyan
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Antalya_Cliff_June_15_-2022.jpg/1280px-Antalya_Cliff_June_15_-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: My-view2U / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-otel-calisanlari-kulturel-miras-elcisi-olacak-d2de9-f9a06fdc.jpg
 ---
 Akdeniz'in önemli turizm merkezlerinden biri olan kentte, deniz, kum ve güneşin yanı sıra tarihi ve kültürel değerlerin de ön plana çıkarılması amacıyla yeni bir çalışma başlatıldı. Bölgenin kültürel mirasının daha etkin tanıtılması hedefiyle Akdeniz Turistik Otelciler ve İşletmeciler Birliği ile Antalya Bilim Üniversitesi ortaklığında Kültürel Miras Elçileri Projesi hazırlandı.
 

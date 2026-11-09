@@ -2,8 +2,8 @@
 title: Antalya'da Tramvay Seferlerinde COP31 Düzenlemesi
 date: '2026-11-08T21:04:00+03:00'
 ozet: Antalya Ulaşım A.Ş., COP31 konferansı nedeniyle raylı sistem hatlarında yeni düzenlemeye gitti. 9 Kasım Pazartesi gününden itibaren bazı güzergahlarda aktarmalı ulaşım sağlanacak.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,25 +11,36 @@ ilceler:
 etiketler:
 - Antalya Ulaşım A.Ş
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:48+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
   konu_imza: 509f8b33422d
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
+  fotografci: Sharon Hahn Darlin
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Antalya tramvayı
+  cekim_yili: '2022'
+  aciklama: Antalya tramvayı (2022)
+  gerekce: arşiv kaydı 'tramvay-antalya' (Antalya tramvayı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tramvay-antalya
+    tarih: '2026-11-09T13:27:01+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): İstanbul''daki tramvay (dosya: Istanbul modern tramway); haber Antalya tramvayı'
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): İstanbul''daki tramvay (dosya: Istanbul modern tramway); haber Antalya tramvayı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -139,6 +150,29 @@ gorsel_gecmis:
     url: https://upload.wikimedia.org/wikipedia/commons/7/76/Istanbul_modern_tramway_%282831766741%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   degisim: '2026-11-08T23:03:48+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): İstanbul''daki tramvay (dosya: Istanbul modern tramway); haber Antalya tramvayı'
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-tramvay-seferlerinde-cop31-duzenlemesi-2497b-4fea41ed.jpg
+gorsel_yerlesim:
+  boyut:
+  - 3573
+  - 2659
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 60% 50%
+  o_mansetyan_m: 60% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 81%
+  o_kart_p: 61% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
 ---
 Antalya'da gerçekleşecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında kent içi ulaşımda değişikliğe gidildi. Antalya Ulaşım A.Ş. tarafından yapılan açıklamaya göre, 9 Kasım 2026 Pazartesi gününden itibaren tramvay sefer saatleri ve hat işleyişi konferans süresince yeniden düzenlendi.
 

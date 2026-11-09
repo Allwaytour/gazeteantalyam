@@ -44,6 +44,7 @@ gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
 gorsel_konum: 50% 22%
+gorsel_yedek: /images/haber-gorsel/20261101-tarkanin-uyan-sarkisi-antalyadaki-cop31-icin-ingilizceye-uya--96b32dc5.jpg
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Konferansı'nın 31'incisi (COP31), 9 ila 20 Kasım tarihleri arasında Antalya'da düzenlenecek. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın hazırlıklarını sürdürdüğü zirve kapsamında pek çok etkinlik ve farkındalık projesi hayata geçiriliyor. Bu kapsamda sanatçı Tarkan, yıllar önce kaleme aldığı 'Uyan' isimli şarkısını COP31 için gönüllü olarak İngilizceye uyarlayarak yeniden seslendirdi.
 

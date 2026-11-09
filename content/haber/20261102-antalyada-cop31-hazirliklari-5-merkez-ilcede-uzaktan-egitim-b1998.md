@@ -2,35 +2,38 @@
 title: 'Antalya''da COP31 Hazırlıkları: 5 Merkez İlçede Uzaktan Eğitim Planı'
 date: '2026-11-02T12:13:00+03:00'
 ozet: Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) hazırlıkları kapsamında, Liderler Zirvesi tarihlerinde 5 merkez ilçede uzaktan eğitim yapılması planlanıyor.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 3 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 3badfdc609da
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T17:23:58+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
-  kurum_notu: Antalya Büyükşehir Belediyesi sayfasında bulundu
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-expo
+    tarih: '2026-11-09T13:27:17+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,6 +44,28 @@ kaynak_url: https://www.akdenizmanset.com.tr/cop31-icin-antalyada-trafik-ve-egit
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-antalyada-cop31-hazirliklari-5-merkez-ilcede-uzaktan-egitim-b-79769fc6.jpg
+gorsel_yerlesim:
+  boyut:
+  - 4608
+  - 2592
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
+  o_yan_m: 50% 50%
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Türkiye’nin ev sahipliğinde 9-20 Kasım 2026 tarihlerinde Antalya’da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde kentteki hazırlık çalışmalarına hız verildi. Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Burak Demiralp ile Antalya Valisi Hulusi Şahin, zirvenin yapılacağı alanda incelemelerde bulunarak basın mensuplarına açıklamalarda bulundu. Mavi ve Yeşil Alan’da yapılan saha gezisinin ardından Antalya Pavilyonu önünde düzenlenen toplantıda organizasyonun detayları paylaşıldı.
 

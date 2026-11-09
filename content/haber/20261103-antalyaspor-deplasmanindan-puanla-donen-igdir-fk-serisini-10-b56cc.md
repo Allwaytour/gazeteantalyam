@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Birlik
 kaynak_url: https://www.gazetebirlik.com/spor/kenan-kocak-firtinasi-diniyor-mu-derken-igdir-fk-seriyi-10-maca-cikardi/1119606
+gorsel_yedek: /images/haber-gorsel/20261103-antalyaspor-deplasmanindan-puanla-donen-igdir-fk-serisini-10--41d92f23.jpg
 ---
 Ligde üst sıraları hedefleyen Iğdır FK, teknik direktör Kenan Koçak'ın göreve gelmesiyle yakaladığı istikrarlı grafiği korumaya devam ediyor. Son olarak Antalyaspor deplasmanından 1-1'lik beraberlikle ayrılan Doğu Anadolu temsilcisi, ligdeki yenilmezlik serisini çift haneli sayılara ulaştırarak 10 maça çıkardı. Bu sonuçla puanını 27'ye yükselten Yeşil-Beyazlı ekip, lig tablosundaki üçüncü sıradaki yerini sağlamlaştırarak Süper Lig hedefini güçlü bir oyunla desteklemeyi sürdürdü.
 

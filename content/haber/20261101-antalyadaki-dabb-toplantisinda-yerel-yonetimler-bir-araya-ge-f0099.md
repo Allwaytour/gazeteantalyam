@@ -2,8 +2,8 @@
 title: Antalya'daki DABB toplantısında yerel yönetimler bir araya geldi
 date: '2026-11-01T14:04:00+03:00'
 ozet: Doğu Akdeniz Belediyeler Birliği Ekim Ayı Olağan Meclis Toplantısı Antalya'da yapıldı. Buluşmada bölgesel projeler ve ortak çalışmalar ele alındı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-antalyadaki-dabb-toplantisinda-yerel-yonetimler-bir-araya-ge--c77a80eb.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler: []
@@ -17,29 +17,40 @@ kaynak_url: https://www.kayserihaber.com/sariz-pinarbasi-belediye-baskani-dabb-t
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1612373429049-f58897ddc7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8QW50YWx5YSUyMGNpdHl8ZW58MXwwfHx8MTc5MzUzMTU3N3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Ender Mimtaş / Unsplash'
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 1 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g7.7-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-antalyadaki-dabb-toplantisinda-yerel-yonetimler-bir-araya-ge--c77a80eb.jpg
   konu_imza: 6d78acfd70ba
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-02T21:26:03+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k3
-  kurum_notu: 'kurum sayfası okunamadı (Mezitli Belediyesi): HTTPSConnectionPool(host=''mezitli.bel.tr'', port=443): Max retries exceeded with '
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-dabb-toplantisinda-yerel-yonetimler-bir-araya-ge--c77a80eb.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-antalyadaki-dabb-toplantisinda-yerel-yonetimler-bir-araya-ge--c77a80eb.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Doğu Akdeniz Belediyeler Birliği Ekim Ayı Olağan Meclis Toplantısı, üye belediyelerin temsilcilerinin katılımıyla Antalya'da gerçekleştirildi. Gerçekleştirilen oturumda yer alan isimler arasında Sarız Belediye Başkanı Ömer Faruk Eroğlu ile Pınarbaşı Belediye Başkanı Deniz Yağan da bulundu.
 

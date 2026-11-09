@@ -45,6 +45,7 @@ kaynak_url: https://www.gazetealanya.com/yol-isgal-edildi-alanya-d-400de-olacak-
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/D_400_Antalya_-_23.6.15.JPG/1280px-D_400_Antalya_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261102-alanya-d-400-karayolunda-pazar-ve-isgal-cilesi-b752b-3a11b372.jpg
 ---
 Alanya'nın en önemli ulaşım akslarından biri olan D-400 karayolunda, pazar günleri ve haftanın ilk iş gününde yoğun trafik sıkışıklığı yaşandı. Kurulan pazar nedeniyle bölgeye gelen sürücülerin araçlarını yol kenarına düzensiz şekilde park etmesi ve kısa süreli duraklamalar yapması, ana yolun kapasitesini düşürerek trafiğin bazı noktalarda tek şeride düşmesine ve şeritlerin kapanmasına yol açtı.
 

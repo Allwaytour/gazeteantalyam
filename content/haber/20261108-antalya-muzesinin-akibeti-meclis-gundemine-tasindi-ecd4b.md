@@ -117,6 +117,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-muzesinin-akibeti-meclis-gundeminde-verilen-sozler-tutulacak-mi
+gorsel_yedek: /images/haber-gorsel/20261108-antalya-muzesinin-akibeti-meclis-gundemine-tasindi-ecd4b-964d0232.jpg
 ---
 Antalya Müzesi'nin yıkılarak yeniden inşa edilmesi süreci, bütçe görüşmeleri sırasında Meclis gündemine geldi. Süreçteki belirsizlikleri eleştiren milletvekili, kamuoyunun yeterince bilgilendirilmediğini savunarak ödüllü mimari yapıya sahip müzenin yıkım kararının hatalı yürütüldüğünü dile getirdi.
 

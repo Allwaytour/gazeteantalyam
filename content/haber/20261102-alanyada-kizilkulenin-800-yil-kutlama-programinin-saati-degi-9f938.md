@@ -46,6 +46,7 @@ kaynak_url: https://www.gazetealanya.com/alanyada-800-yillik-cosku-kizilkule-etk
 gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261102-alanyada-kizilkulenin-800-yil-kutlama-programinin-saati-degi--9bf81b35.jpg
 ---
 Akdeniz'in kadim kalesi Alanya, kentin en önemli sembolü olan Kızılkule'nin 800. yaşını görkemli etkinliklerle kutlamaya hazırlanıyor. Kültür ve Turizm Bakanlığı ile Millî Savunma Bakanlığı'nın katkıları, Antalya Valiliği'nin himayesi, Alanya Kaymakamlığı öncülüğü ve Alanya Belediyesi iş birliğiyle organize edilen dev kutlama programında saat değişikliğine gidildi. 3 Kasım Salı akşamı gerçekleştirilecek gösterilerin yeni akışı kamuoyuyla paylaşıldı.
 

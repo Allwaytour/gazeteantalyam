@@ -46,6 +46,7 @@ kaynak_url: https://www.antalyagundem.com.tr/cop31de-antalyayi-caretta-caretta-t
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261102-antalyayi-cop31-zirvesinde-caretta-caretta-temali-pavilyon-t--3c68144b.jpg
 ---
 Antalya, COP31 İklim Zirvesi'nde kentin çevre duyarlılığını ve sürdürülebilirlik çalışmalarını yansıtacak özel bir tasarımla temsil edilecek. Kentin sahilinde yer alan önemli üreme alanlarından ilham alınarak kaplumbağa şeklinde hazırlanan Antalya Pavilyonu, zirvenin dikkat çeken simgeleri arasında yer alacak.
 

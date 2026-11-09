@@ -2,8 +2,8 @@
 title: Kepezspor Eskişehirspor'a deplasmanda tek golle mağlup oldu
 date: '2026-11-07T15:17:00+03:00'
 ozet: TFF 3. Lig'de mücadele eden Kepezspor, deplasmanda karşılaştığı Eskişehirspor'a 1-0 yenildi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95-027b474e.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler:
@@ -12,36 +12,22 @@ etiketler:
 - Kepezspor
 - Eskişehirspor
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95-027b474e.jpg
   konu_imza: 4bcce068a9e6
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T23:55:46+03:00'
-    yontem: h2
-    model: gemini-3.1-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ret sonrası yeni arama yapılmadı: takım haberi: genel maç/oyuncu karesi başka takımı gösterir; yalnızca takımın kendi kaydı ya da kendi tesisi'
-  kapak_surum: c8
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ret sonrası yeni arama yapılmadı: takım haberi: genel maç/oyuncu karesi başka takımı gösterir; yalnızca takımın kendi kaydı ya da kendi tesisi'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -82,6 +68,27 @@ gorsel_gecmis:
     qid: Q748445
     kurum: k5
   degisim: '2026-11-07T22:40:27+03:00'
+gorsel_yedek: /images/haber-gorsel/20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95-027b474e.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261107-kepezspor-eskisehirspora-deplasmanda-tek-golle-maglup-oldu-95-027b474e.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye Futbol Federasyonu 3. Lig mücadelesinde Kepezspor, deplasmanda Eskişehirspor'un konuğu oldu. Ev sahibi ekip karşılaşmadan 1-0 galibiyetle ayrıldı.
 

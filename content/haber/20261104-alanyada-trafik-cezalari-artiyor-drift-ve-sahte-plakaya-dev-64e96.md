@@ -2,36 +2,28 @@
 title: 'Alanya''da trafik cezaları artıyor: Drift ve sahte plakaya dev ceza'
 date: '2026-11-04T16:58:00+03:00'
 ozet: Yeni yılla birlikte yürürlüğe girecek trafik cezaları belli oldu. Can ve mal güvenliğini hiçe sayan sürücülere ağır yaptırımlar geliyor.
-gorsel: /images/kategori/asayis.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-alanyada-trafik-cezalari-artiyor-drift-ve-sahte-plakaya-dev-6-ee25b820.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Asayiş
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-alanyada-trafik-cezalari-artiyor-drift-ve-sahte-plakaya-dev-6-ee25b820.jpg
   konu_imza: 69fa2b3dd3eb
-  gorsel_url: /images/kategori/asayis.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-04T18:29:57+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (police traffic control, speed camera, traffic police) ilişkili lisanslı fotoğraf bulunamadı'
+  durum: onaylandi
+  hat: t1
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Alanya'' için konuyla (police traffic control, speed camera, traffic police) ilişkili lisanslı fotoğraf bulunamadı'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/iste-yeni-cezalar-alanyada-drift-atan-telefona-bakan-yandi
+gorsel_yedek: /images/haber-gorsel/20261104-alanyada-trafik-cezalari-artiyor-drift-ve-sahte-plakaya-dev-6-ee25b820.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-alanyada-trafik-cezalari-artiyor-drift-ve-sahte-plakaya-dev-6-ee25b820.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Trafikte güvenlik standartlarını artırmak amacıyla hazırlanan yeni tarife, kurallara uymayan sürücüler için ağır mali yaptırımları beraberinde getiriyor. Yapılan yeni düzenlemelere göre, trafikte huzuru bozan ve risk oluşturan fiillere kesilecek idari para cezaları en üst seviyeye çıkarıldı. Özellikle Alanya genelinde sıklıkla denetlenen hususlarda rakamlar dikkat çekiyor.
 

@@ -49,6 +49,7 @@ gorsel_secim:
 etiketler:
 - Kepezspor
 - Uşakspor
+gorsel_yedek: /images/haber-gorsel/20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740-a4b77b0f.jpg
 ---
 Lig mücadelesi kapsamında Kepez Hasan Doğan Stadı'nda oynanan karşılaşmada Antalya temsilcisi Kepezspor, rakibi Uşakspor'u ağırladı. Mücadelenin hakemliğini Cem Arayan üstlendi.
 

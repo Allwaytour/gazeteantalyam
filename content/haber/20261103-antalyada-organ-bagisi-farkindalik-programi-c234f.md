@@ -45,6 +45,7 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-organ-bagisi-haftasi-kapsaminda-farkindalik-programi-duzenlendi-119511455
+gorsel_yedek: /images/haber-gorsel/20261103-antalyada-organ-bagisi-farkindalik-programi-c234f-bfb659da.jpg
 ---
 Antalya İl Sağlık Müdürlüğü, 3-9 Kasım Organ Bağışı Haftası dolayısıyla kentte bilgilendirme ve farkındalık çalışmaları yürüttü. Bu kapsamda bir alışveriş merkezinde stant kuran ekipler, ziyaretçilere bilgilendirici broşürler dağıttı ve defne fidanı hediye etti. Etkinlikte ayrıca canlı müzik dinletisi de yer aldı.
 

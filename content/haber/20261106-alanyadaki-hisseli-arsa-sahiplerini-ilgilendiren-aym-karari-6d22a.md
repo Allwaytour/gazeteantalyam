@@ -2,8 +2,8 @@
 title: Alanya'daki Hisseli Arsa Sahiplerini İlgilendiren AYM Kararı
 date: '2026-11-06T13:52:00+03:00'
 ozet: Anayasa Mahkemesi, paylı mülkiyette önalım hakkı kullanılırken bedelin rayiç değer üzerinden belirlenmesini öngören düzenlemeyi iptal etti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,32 +12,23 @@ etiketler:
 - Anayasa Mahkemesi
 - Türkiye Büyük Millet Meclisi
 onem: 3
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Aynı olaya, haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g9.4-2026-11-05
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
   konu_imza: 828a66ada686
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-06T13:59:37+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
-    notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
+      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -45,6 +36,27 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari
+gorsel_yedek: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Alanya'da hisseli arsa, tarla ve diğer taşınmazlara sahip vatandaşları yakından ilgilendiren önemli bir hukuki gelişme yaşandı. Anayasa Mahkemesi, paylı mülkiyette önalım hakkı kullanılırken taşınmaz hissesinin bedelinin mahkeme tarafından rayiç değer üzerinden belirlenmesini öngören düzenlemeyi iptal etti. Kararın yürürlüğe girmesi dokuz ay ertelenirken, hisseli taşınmaz satışlarında uygulanacak bedelin nasıl hesaplanacağı yeniden gündeme geldi.
 

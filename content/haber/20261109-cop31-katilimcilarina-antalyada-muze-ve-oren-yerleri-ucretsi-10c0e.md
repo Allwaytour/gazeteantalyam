@@ -2,41 +2,43 @@
 title: COP31 katilimcilarina Antalya’da muze ve oren yerleri ucretsiz
 date: '2026-11-09T12:15:37+03:00'
 ozet: Birlesmis Milletler Ilim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi'na iliskin hazirliklari degerlendiren yetkililer, resmi heyet katilimcilarinin Antalya'daki muze ve oren yerlerini ucretsiz ziyaret edebilecegini duyurdu.
-gorsel: /images/kategori/turizm.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Turizm
 ilceler: []
 etiketler: []
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 'Görsel yayını kapalı (deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3); fotoğrafsız, yayın açılınca aranacak.'
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
   konu_imza: 41f2aeaec158
-  gorsel_url: /images/kategori/turizm.png
-  kontrol:
-    yapildi: false
-    sonuc: yayın kapalı
-    tarih: '2026-11-09T12:27:32+03:00'
-    yontem: yayın kapısı
-  durum: arama_bekliyor
-  kurum: k5
-  bekliyor: true
-  bekleme_sayisi: 1
-  kapak_nedeni:
-    kod: yayin_kapali
-    aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Dancing_Woman_Antalya_Museum_P9281518.jpg
+  fotografci: Joe Wallace
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  gosterilen: Antalya Arkeoloji Müzesi sergi salonu
+  cekim_yili: '2022'
+  aciklama: Antalya Arkeoloji Müzesi sergi salonu (2022)
+  gerekce: arşiv kaydı 'muze-ic' (Antalya Arkeoloji Müzesi sergi salonu) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: muze-ic
+    tarih: '2026-11-09T13:27:00+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,6 +46,30 @@ otomatik: true
 yz: true
 kaynak: Hürriyet
 kaynak_url: https://www.hurriyet.com.tr/gundem/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz-43371334
+gorsel_yedek: /images/haber-gorsel/20261109-cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsi--dc685261.jpg
+gorsel_yerlesim:
+  boyut:
+  - 3706
+  - 2965
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 50% 100%
+  o_mansetyan_d: 55% 50%
+  o_mansetyan_m: 55% 50%
+  o_yan_d: 50% 85%
+  o_yan_t: 50% 100%
+  o_yan_m: 50% 100%
+  o_kart: 50% 50%
+  o_kart_p: 56% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+gorsel_gecmis: []
 ---
 Birlesmis Milletler Ilim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi'na iliskin hazirliklar kapsaminda, uluslararasi organizasyon kapasitesini, surdurulebilir turizm calismalarini ve kultursel zenginligi tanitmak icin genis bir program hazirlandi. Yapilan aciklamalara gore, uluslararasi katilimcilarin turizm potansiyelini kesfetmesi ve kuresel tanitimin guclendirilmesi amaclandi.
 

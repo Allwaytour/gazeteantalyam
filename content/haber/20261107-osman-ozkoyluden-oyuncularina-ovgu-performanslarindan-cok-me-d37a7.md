@@ -149,6 +149,7 @@ gorsel_yerlesim:
   o_kart: 57% 50%
   o_kart_p: 51% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-osman-ozkoyluden-oyuncularina-ovgu-performanslarindan-cok-me--17ce00ee.jpg
 ---
 Trendyol 1. Lig'in 14. haftasında sahasında Bursaspor ile 1-1 berabere kalan Antalyaspor'da teknik direktör Osman Özköylü, maç sonu değerlendirmelerde bulundu. Antalya Stadı'nda oynanan karşılaşmanın ardından düzenlenen basın toplantısında konuşan Özköylü, güçlü bir rakibe karşı iyi bir mücadele ortaya koyduklarını ifade etti.
 

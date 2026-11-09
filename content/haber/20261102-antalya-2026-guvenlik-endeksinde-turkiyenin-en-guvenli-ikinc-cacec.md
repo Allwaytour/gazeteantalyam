@@ -45,6 +45,7 @@ kaynak_url: https://www.bursatv.com.tr/antalya-ve-izmiri-geride-birakan-sehir-bu
 gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Unknown author Unknown author / Wikimedia Commons (CC BY 4.0)'
+gorsel_yedek: /images/haber-gorsel/20261102-antalya-2026-guvenlik-endeksinde-turkiyenin-en-guvenli-ikinc--44df4c89.jpg
 ---
 Uluslararası veri platformu Numbeo tarafından hazırlanan 2026 Güvenlik Endeksi'nin güncellenen verileri kamuoyuyla paylaşıldı. Türkiye genelindeki illerin güvenlik algısına yönelik sıralamada Bursa ilk sırada yer alırken, bu ili Antalya ve İzmir takip etti. Vatandaşların değerlendirmelerine dayanılarak oluşturulan endeks sonuçları, büyükşehirler arasındaki güvenlik seviyelerini gözler önüne serdi.
 

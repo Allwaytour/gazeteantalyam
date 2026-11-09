@@ -45,6 +45,7 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-kriterleri-imza-alt
 gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261103-antalyada-surdurulebilir-turizm-icin-kriterler-imza-altina-a--c4c16201.jpg
 ---
 Antalya'da sürdürülebilir turizm hedefleri doğrultusunda hazırlanan Turizmde Kaynak İsrafının Azaltılmasına Yönelik Antalya Kriterleri Bildirisi ve Taahhütnamesi, Antalya Ticaret ve Sanayi Odası ev sahipliğinde gerçekleştirilen toplantıyla kamuoyuna duyuruldu. Kamu kurumları, meslek kuruluşları, turizm sektörü temsilcileri ve akademi dünyasını bir araya getiren buluşmada, kaynakların daha verimli kullanılmasına yönelik yol haritası ele alındı. Toplantının sonunda kurum temsilcilerinin katılımıyla taahhütname imza altına alındı.
 

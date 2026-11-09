@@ -2,36 +2,27 @@
 title: Antalya'da arsa sahibi olmak isteyenlere TOKİ fırsatı
 date: '2026-11-04T14:12:21+03:00'
 ozet: Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı, Antalya genelinde 34 arsayı açık artırma usulüyle satışa çıkarıyor.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalyada-arsa-sahibi-olmak-isteyenlere-toki-firsati-cc97d-bb368618.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 2 aday görsel kontrolden geçemedi; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalyada-arsa-sahibi-olmak-isteyenlere-toki-firsati-cc97d-bb368618.jpg
   konu_imza: 33d2b7a8a269
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-04T14:26:22+03:00'
-    yontem: Gemini görsel kontrol
-    model: gemini-3.5-flash-lite
-  kurum: k4
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: '2 aday görüntü kontrolünde elendi: gerçek fotoğraf değil — Görüntü bir web sitesi ekran görüntüsüdür, gerçek bir fotoğraf değ; gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: '2 aday görüntü kontrolünde elendi: gerçek fotoğraf değil — Görüntü bir web sitesi ekran görüntüsüdür, gerçek bir fotoğraf değ; gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +30,27 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-arsa-sahibi-olmak-isteyenlere-toki-firsati/560914
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-arsa-sahibi-olmak-isteyenlere-toki-firsati-cc97d-bb368618.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalyada-arsa-sahibi-olmak-isteyenlere-toki-firsati-cc97d-bb368618.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı, ülke genelinde toplam 61 ilde 725 arsayı açık artırma yöntemiyle satışa sunmaya hazırlanıyor. Gerçekleştirilecek olan satışlar kapsamında alıcılara yüzde 20 veya yüzde 25 peşinatla 48 ay vade imkanı sağlanırken, peşin ödemeyi tercih eden yatırımcılara ise yüzde 15 indirim uygulanacak. Müzayedeler 5 ile 6 Kasım tarihlerinde saat 10.30 itibarıyla Ankara Radisson Blu Hotel ile TOKİ İstanbul Hizmet Binası'nda yapılacak. Ayrıca dileyen katılımcılar internet üzerinden de teklif verebilecek.
 

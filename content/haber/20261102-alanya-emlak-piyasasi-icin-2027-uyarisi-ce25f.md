@@ -41,6 +41,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-emlak-piyasasi-icin-2027-uyarisi
+gorsel_yedek: /images/haber-gorsel/20261102-alanya-emlak-piyasasi-icin-2027-uyarisi-ce25f-43e75218.jpg
 ---
 Rusya ve Ukrayna arasında olası bir barış anlaşmasının gerçekleşmesi durumunda, Alanya'dan daire alan yabancı vatandaşların ülkelerine dönebileceği belirtildi. Sektör temsilcileri, bu dönüşlerin ardından satılmayı bekleyen 1+1 daire sayısında büyük bir artış yaşanabileceğine ve konut fiyatlarının gerileyebileceğine dikkat çekti.
 

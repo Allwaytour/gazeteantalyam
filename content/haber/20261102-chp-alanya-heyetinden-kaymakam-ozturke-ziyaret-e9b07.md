@@ -42,6 +42,7 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/chp-alanyadan-alanya-kaymakami-ozturke-ziyaret
+gorsel_yedek: /images/haber-gorsel/20261102-chp-alanya-heyetinden-kaymakam-ozturke-ziyaret-e9b07-2526ac11.jpg
 ---
 Cumhuriyet Halk Partisi Alanya İlçe Başkanı Gürkan Yılmaz ve beraberindeki yönetim kurulu üyeleri, Alanya Kaymakamı Şakir Öner Öztürk'e nezaket ziyaretinde bulundu.
 

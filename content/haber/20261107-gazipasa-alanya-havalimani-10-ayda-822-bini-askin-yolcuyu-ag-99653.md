@@ -165,6 +165,7 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_yedek: /images/haber-gorsel/20261107-gazipasa-alanya-havalimani-10-ayda-822-bini-askin-yolcuyu-ag--39fb80ab.jpg
 ---
 Gazipaşa Alanya Havalimanı, yılın ilk on ayında kaydettiği yolcu sayısıyla bölge turizmine önemli bir katkı sundu. Devlet Hava Meydanları İşletmesi Genel Müdürlüğü verilerine yansıyan rakamlara göre, ocak ve ekim ayları arasında toplam 822 bin 145 yolcu bu merkezi kullandı.
 

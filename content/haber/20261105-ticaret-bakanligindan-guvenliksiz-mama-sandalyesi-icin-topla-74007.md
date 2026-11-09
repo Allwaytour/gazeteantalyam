@@ -2,39 +2,27 @@
 title: Ticaret Bakanlığı'ndan Güvenliksiz Mama Sandalyesi İçin Toplatma Kararı
 date: '2026-11-05T21:49:00+03:00'
 ozet: Ticaret Bakanlığı, güvenlik standartlarına uymadığı ve düşme riski taşıdığı belirlenen bir mama sandalyesi modeli için toplatma kararı aldı.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla--aa3b8da8.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla--aa3b8da8.jpg
   konu_imza: 1324116a368b
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-07T22:32:51+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
-  kurum: k5
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: high chair, baby high chair product safety)'
-  kapak_surum: c8
-  zorla: h1-2026-11-07:10
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''toplatma kararı'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: high chair, baby high chair product safety)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -48,6 +36,27 @@ etiketler:
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla--aa3b8da8.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261105-ticaret-bakanligindan-guvenliksiz-mama-sandalyesi-icin-topla--aa3b8da8.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Ticaret Bakanlığı tarafından yürütülen piyasa gözetimi ve denetim çalışmaları sonucunda, bebek ve çocukların kullanımı için üretilen bir mama sandalyesinde ciddi güvenlik eksiklikleri tespit edildi. Yapılan teknik incelemelerde, ürünün güvenlik barı ile bacak açıklığı arasındaki mesafenin belirlenen standartların altında kaldığı saptandı.
 

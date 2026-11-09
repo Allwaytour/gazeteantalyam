@@ -2,8 +2,8 @@
 title: Hakan Özmert Yeni Göreviyle Fenerbahçe Antrenmanında
 date: '2026-11-06T09:14:00+03:00'
 ozet: Daha önce Antalyaspor ve Kasımpaşa'da görev alan Hakan Özmert, teknik direktör Emre Belözoğlu'nun ekibine katılarak Fenerbahçe'nin antrenmanında yer aldı.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261106-hakan-ozmert-yeni-goreviyle-fenerbahce-antrenmaninda-f26e4-b43c3f94.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Spor
 ilceler: []
@@ -11,36 +11,22 @@ etiketler:
 - Hakan Özmert
 - Emre Belözoğlu
 - Fenerbahçe
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 6 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261106-hakan-ozmert-yeni-goreviyle-fenerbahce-antrenmaninda-f26e4-b43c3f94.jpg
   konu_imza: 7ec568a8d3a2
-  gorsel_url: /images/kategori/spor.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-07T22:27:54+03:00'
-    yontem: h1
-    model: gemini-3.5-flash-lite
-  hat: h1e
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'başka bir etkinliğin karesi güncel olayın görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; görselde olmaması gereken unsur: başka takımın forması; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (3/10, en az 5); habere uygunluk düşük (4/10, en az 5); haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor; kalabalık kare: başka kişiler haberin kişisi sanılabilir; kişi'
-  kapak_surum: c8
-  zorla: h1-2026-11-07:10
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'başka bir etkinliğin karesi güncel olayın görüntüsü sanılır; büyük filigran ya da görüntüye gömülü yazı; görselde olmaması gereken unsur: başka takımın forması; habere uygunluk düşük (0/10, en az 5); habere uygunluk düşük (3/10, en az 5); habere uygunluk düşük (4/10, en az 5); haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor; kalabalık kare: başka kişiler haberin kişisi sanılabilir; kişi'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -114,6 +100,27 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:10
   degisim: '2026-11-07T22:28:06+03:00'
+gorsel_yedek: /images/haber-gorsel/20261106-hakan-ozmert-yeni-goreviyle-fenerbahce-antrenmaninda-f26e4-b43c3f94.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261106-hakan-ozmert-yeni-goreviyle-fenerbahce-antrenmaninda-f26e4-b43c3f94.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Fenerbahçe'de teknik ekipte yaşanan değişimlerin ardından yeni bir yapılanma sürecine girildi. Teknik direktör Emre Belözoğlu'nun göreve başlamasıyla birlikte, sarı-lacivertli ekibin teknik kadrosunda da önemli bir isim dikkat çekti. Daha önce futbolculuk kariyerinde farklı kulüplerde ter döken Hakan Özmert, Belözoğlu'nun teknik ekibine dahil oldu.
 

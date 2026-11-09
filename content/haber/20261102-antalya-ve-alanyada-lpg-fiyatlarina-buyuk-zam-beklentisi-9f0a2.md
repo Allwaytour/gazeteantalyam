@@ -208,6 +208,7 @@ gorsel_yerlesim:
   o_kart: 50% 91%
   o_kart_p: 84% 50%
   url: https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZnVlbCUyMG5venpsZXxlbnwxfDB8fHwxNzkzODkxODE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_yedek: /images/haber-gorsel/20261102-antalya-ve-alanyada-lpg-fiyatlarina-buyuk-zam-beklentisi-9f0a-fd8a902c.jpg
 ---
 Akaryakıt fiyatlarında kasım ayının ilk günlerinde yaşanan gelişmelerin ardından LPG kullanıcılarını yakından ilgilendiren yeni bir zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgiye göre, 3 Kasım 2026 Salı günü saat 00.01'den itibaren otogazin litre fiyatına 9,09 ile 9,15 TL arasında artış yansıtılması öngörülüyor. Gerçekleşmesi beklenen bu artışla birlikte Antalya ve Alanya genelinde LPG litre fiyatlarının 50 TL sınırını aşabileceği hesaplanıyor. Dağıtım şirketlerinin resmi tarifeleri henüz netleşmezken, nihai rakamların istasyonların pompa fiyatlarını güncellemesiyle kesinleşeceği belirtiliyor.
 

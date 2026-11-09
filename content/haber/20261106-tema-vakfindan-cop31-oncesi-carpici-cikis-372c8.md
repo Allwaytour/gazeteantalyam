@@ -2,8 +2,8 @@
 title: TEMA Vakfı'ndan COP31 Öncesi Çarpıcı Çıkış
 date: '2026-11-06T17:16:00+03:00'
 ozet: Antalya'da düzenlenecek COP31 zirvesi öncesinde değerlendirmelerde bulunan TEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, termik santrallerin yarattığı yıkıma dikkat çekti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,35 +12,35 @@ etiketler:
 - Deniz Ataç
 - TEMA Vakfı
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Haberin öznesine ya da konusuna ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
   konu_imza: 7110dfb903d3
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-08T12:35:07+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: kurum sitelerinde aynı haber bulunamadı
-  kapak_nedeni:
-    kod: aday_bulunamadi
-    aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Deniz Ataç'' kurum haberinde başlıkta geçmiyor; ikincil kişinin portresi kullanılmadı; ''TEMA Vakfı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ret sonrası yeni arama yapılmadı: hass'
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  fotografci: Hendric Stattmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cop31-expo-1
+    tarih: '2026-11-09T13:27:06+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: aday_bulunamadi
+      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Deniz Ataç'' kurum haberinde başlıkta geçmiyor; ikincil kişinin portresi kullanılmadı; ''TEMA Vakfı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ret sonrası yeni arama yapılmadı: hass'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -51,6 +51,30 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/tema-vakfi-yonetim-kurulu-b
 gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
+gorsel_yedek: /images/haber-gorsel/20261106-tema-vakfindan-cop31-oncesi-carpici-cikis-372c8-7a2801d7.jpg
+gorsel_yerlesim:
+  boyut:
+  - 5200
+  - 3468
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 68% 50%
+  o_mansetyan_m: 68% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 90%
+  o_kart_p: 70% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilmesi planlanan küresel COP31 zirvesi öncesinde, TEMA Vakfı Genel Merkezi'nde 'Yavaş Ölüm' isimli belgesel izleyiciyle buluştu. Gösterimin ardından TEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, gazeteci Meliha Okur'un sorularını yanıtladı ve yaklaşan iklim zirvesi ile çevre sorunlarına ilişkin değerlendirmelerde bulundu.
 

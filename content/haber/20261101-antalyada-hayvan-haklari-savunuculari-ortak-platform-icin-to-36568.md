@@ -2,8 +2,8 @@
 title: Antalya'da hayvan hakları savunucuları ortak platform için toplanacak
 date: '2026-11-01T12:20:00+03:00'
 ozet: Türkiye'nin dört bir yanından hayvan hakları savunucuları ve kurumlar, ortak bir mücadele zemini oluşturmak üzere Antalya'da bir araya gelecek.
-gorsel: /images/kategori/yasam.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -15,25 +15,23 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/hayvan-haklari-savunuculari-antalyada-bulusacak
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/yasam.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T22:29:44+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
   konu_imza: 26ea8cbb9f6f
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
   kural_denetim: k4
-  kapak_nedeni:
-    kod: dogrulanmamis_kaldirildi
-    aciklama: bu haber için doğrulanmamış eski otomatik seçim
-  onceki_kontrol: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: dogrulanmamis_kaldirildi
+      aciklama: bu haber için doğrulanmamış eski otomatik seçim
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1610528519769-8dd585a4226d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YW5pbWFsJTIwcmlnaHRzJTIwcHJvdGVzdCUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5MzUzMDk1OHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Jorge Maya / Unsplash'
@@ -41,6 +39,27 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
+gorsel_yedek: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Türkiye genelinde hayvan hakları alanında faaliyet gösteren çok sayıda kurum, kuruluş ve gönüllü, ortak bir strateji belirlemek ve ortak bir mücadele zemini oluşturmak amacıyla Antalya'da buluşmaya hazırlanıyor. Hayvan Hakları Platformu Türkiye Temsilcisi Alper Ilgaz yaptığı açıklamada, 8 Kasım 2026 Pazar günü saat 14.00'te gerçekleştirilecek olan toplantıya katılım çağrısında bulundu.
 

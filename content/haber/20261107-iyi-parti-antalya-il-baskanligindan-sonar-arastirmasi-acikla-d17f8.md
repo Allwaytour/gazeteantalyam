@@ -2,8 +2,8 @@
 title: İyi Parti Antalya İl Başkanlığından SONAR araştırması açıklaması
 date: '2026-11-07T11:52:00+03:00'
 ozet: SONAR Araştırma'nın ekim ayı sonuçlarına göre yüzde 10,91 oy oranına ulaşan İyi Parti, üçüncü sırada yer aldı. İl başkanlığı, çalışmaların kararlılıkla süreceğini belirtti.
-gorsel: /images/kategori/gundem.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/logo-iyiparti-logo.jpg
+gorsel_kredi: 'Logo: İYİ Parti / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -14,25 +14,36 @@ etiketler:
 - İyi Parti
 - SONAR Araştırma
 onem: 4
-gorsel_tur: kategori
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: kategori
-  gorsel_url: /images/kategori/gundem.png
-  kontrol:
-    yapildi: true
-    sonuc: bilinen yanlış görsel kaldırıldı
-    tarih: '2026-11-08T23:03:48+03:00'
-    yontem: kural denetimi
-  surum: h1-2026-11-07
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-iyiparti-logo.jpg
   konu_imza: ef4451ca7a47
-  hat: h2
-  durum: reddedildi
-  kapak_surum: c8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Iyi_parti_logo.jpg
+  fotografci: İYİ Parti
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: İYİ Parti logosu
+  cekim_yili: '2018'
+  aciklama: İYİ Parti logosu
+  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: iyiparti-logo
+    tarih: '2026-11-09T13:27:02+03:00'
   kural_denetim: k4
-  kapak_nedeni:
-    kod: incelemede_yanlis
-    aciklama: 'editör incelemesi (Claude, 2026-11-08): 2023 İzmir''deki başka bir parti etkinliğinin salonu; Antalya il başkanlığının açıklaması değil'
-  onceki_kontrol: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: reddedildi
+    kapak_nedeni:
+      kod: incelemede_yanlis
+      aciklama: 'editör incelemesi (Claude, 2026-11-08): 2023 İzmir''deki başka bir parti etkinliğinin salonu; Antalya il başkanlığının açıklaması değil'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -162,6 +173,28 @@ gorsel_gecmis:
     url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   degisim: '2026-11-08T23:03:48+03:00'
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-08): 2023 İzmir''deki başka bir parti etkinliğinin salonu; Antalya il başkanlığının açıklaması değil'
+gorsel_yedek: /images/haber-gorsel/20261107-iyi-parti-antalya-il-baskanligindan-sonar-arastirmasi-acikla--c302192b.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: false
+  url: /images/haber-gorsel/logo-iyiparti-logo.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  logo: true
 ---
 SONAR Araştırma tarafından paylaşılan ekim ayı kamuoyu araştırması, siyasi partilerin oy oranlarındaki son durumu gözler önüne serdi. Paylaşılan verilere göre, İyi Parti yüzde 10,91 oy oranıyla listede üçüncü parti konumuna yerleşti. Araştırma sonuçlarının ardından konuya ilişkin değerlendirmede bulunan İyi Parti Antalya İl Başkanlığı yönetimi, Genel Başkan Müsavat Dervişoğlu öncülüğünde sürdürülen çalışmaların aynı inançla devam edeceğini ifade etti.
 

@@ -2,42 +2,28 @@
 title: Alanyalı Satranç Şampiyonu Elif Cemre Uysal'a Tebrik
 date: '2026-11-05T16:51:00+03:00'
 ozet: Satranç turnuvasında elde ettiği derecelerle dikkat çeken Elif Cemre Uysal, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz tarafından makamında ağırlandı.
-gorsel: /images/kategori/egitim.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Eğitim
 ilceler:
 - Alanya
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: 7 aday kontrolden geçemedi; fotoğrafsız.
-  surum: h1-2026-11-07
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
   konu_imza: a99326c8db7c
-  gorsel_url: /images/kategori/egitim.png
-  kontrol:
-    yapildi: true
-    sonuc: adaylar reddedildi
-    tarih: '2026-11-08T14:40:56+03:00'
-    yontem: h2
-    model: gemini-3.5-flash-lite
-  hat: h2
-  arama_surum: a2
-  kurum: k5
-  kurum_notu: Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %36); Alanya Belediyesi sayfası aynı haber değil (benzerlik %31); Alanya Belediyesi sayfası aynı haber değil (benzerlik %54)
-  kapak_nedeni:
-    kod: gorsel_reddedildi
-    aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: farklı bir spor dalı, açık alan; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; olumsuz haberde belirli bir kişi, araç (plaka) ya da'
-  kapak_surum: c8
-  onceki_kontrol: k4
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: gorsel_reddedildi
+      aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: farklı bir spor dalı, açık alan; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; olumsuz haberde belirli bir kişi, araç (plaka) ya da'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -136,6 +122,27 @@ etiketler:
 - Yusuf Yılmaz
 - Alanya İlçe Millî Eğitim Müdürlüğü
 baslik_ozgun: ALANYALI SATRANÇ ŞAMPİYONU ELİF CEMRE UYSAL'A TEBRİK
+gorsel_yedek: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 Alanya'da satranç alanında gösterdiği üstün başarıyla adından söz ettiren Elif Cemre Uysal, katıldığı turnuvada önemli bir başarıya imza attı. 13 yaş genel kategorisinde il üçüncülüğü elde eden genç sporcu, aynı zamanda 13 yaş kızlar kategorisinde il birincisi olma başarısını gösterdi.
 

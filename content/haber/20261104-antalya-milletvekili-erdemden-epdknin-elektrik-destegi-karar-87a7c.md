@@ -2,36 +2,28 @@
 title: Antalya Milletvekili Erdem'den EPDK'nın elektrik desteği kararına tepki
 date: '2026-11-04T13:02:00+03:00'
 ozet: YENİ Parti Antalya Milletvekili Mustafa Erdem, EPDK'nın elektrikte destek sınırını düşürmesine tepki göstererek Antalya'da klimanın lüks değil zorunluluk olduğunu vurguladı.
-gorsel: /images/kategori/ekonomi.png
-gorsel_kredi: ''
+gorsel: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: kategori
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: kategori
-  kaynak_sayfa: ''
-  fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
-  kosul: ''
-  gosterilen: ''
-  cekim_yili: ''
-  gerekce: Olaya ait ya da haberde adı geçen yere/kuruma ait kullanım hakkı doğrulanmış fotoğraf bulunamadı; fotoğrafsız kapak.
-  surum: g8.1-2026-11-02
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
   konu_imza: fbdb24f31ef9
-  gorsel_url: /images/kategori/ekonomi.png
-  kontrol:
-    yapildi: false
-    sonuc: aday yok
-    tarih: '2026-11-05T07:57:29+03:00'
-    yontem: kaynak/arşiv taraması
-  kurum: k4
-  kapak_nedeni:
-    kod: kimlik_eslesmedi
-    aciklama: '''Mustafa Erdem'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+  durum: onaylandi
+  hat: t1
+  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
+  aciklama: ''
+  kural_denetim: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    kapak_nedeni:
+      kod: kimlik_eslesmedi
+      aciklama: '''Mustafa Erdem'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,6 +31,27 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/erdemden-hukumete-fatura-isyani-antalyada-klima-luks-degil-zorunluluk/388622
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
+gorsel_yerlesim:
+  boyut:
+  - 1200
+  - 750
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
 ---
 YENİ Parti Antalya Milletvekili Mustafa Erdem, Enerji Piyasası Düzenleme Kurumu'nun (EPDK) mesken abonelerine yönelik yıllık devlet desteği sınırını düşürme kararına ve iktidarın enerji politikalarına yönelik eleştirilerde bulundu. İktidarın doğrudan zam yapmıyor gibi görünerek destek kapsamını daralttığını ifade eden Erdem, bu durumun gizli bir zam anlamına geldiğini ve özellikle Antalya gibi sıcak bölgelerde yaşayan vatandaşları mağdur edeceğini savundu.
 
