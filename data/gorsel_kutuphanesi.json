@@ -15716,6 +15716,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "35dcb96735f48052": {
+   "icerik": {
+    "ana_kutu": [
+     556,
+     403,
+     914,
+     962
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "eski ev",
+     "apartman",
+     "Türk bayrağı",
+     "ağaç",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da eski evler ve arka planda modern yapılar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir dokusu haberi",
+     "kentsel dönüşüm haberi",
+     "Antalya sokakları haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 pavilyon haberi",
+     "uluslararası zirve",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41579125ae6c:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta sıradan bir Antalya sokağı ve eski yapılar görülmektedir; COP31 Antalya Pavilyonu haberiyle ilişkili değildir.",
+      "gerekli": [
+       {
+        "unsur": "pavilyon",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:06:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b57575655f1b28df",
+    "sha": "ec8ac45a8d88b55cd7152fb0"
+   },
+   "t": "2026-11-09T17:06:24+03:00",
+   "teknik": {
+    "doygunluk": 25.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.429,
+    "keskinlik": 3294,
+    "kontrast": 68,
+    "medyan": 63,
+    "parlaklik": 81,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Antalya_Old_buildings_in_modern_town_in_2011_51.jpg/1280px-Antalya_Old_buildings_in_modern_town_in_2011_51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "35f2ff50920b7ff1": {
    "icerik": {
     "ana_kutu": [
@@ -16995,6 +17088,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkey_travel_9848949889498747894.jpg/1280px-Turkey_travel_9848949889498747894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3ae80bdeb69da52b": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     396,
+     843,
+     928
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sergi salonu",
+     "koltuk",
+     "pencere",
+     "dekoratif panel"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "1925 yili Paris sergisindeki Hollanda Pavilyonu ic mekani.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlik tarihi",
+     "sergi tasarimi",
+     "1920ler sanati"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel çevre konferansi",
+     "Antalya tanitimi",
+     "COP31 haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41579125ae6c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf Antalya Pavilyonu degil, 1925 Paris Sergisi'ndeki Hollanda Pavilyonu'na aittir; donem ve mekan tamamen uyumsuzdur.",
+      "gerekli": [
+       {
+        "unsur": "pavilyon",
+        "var": false
+       },
+       {
+        "unsur": "sergi alani",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:06:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f0fef1a5c1cca4b9",
+    "sha": "d0bf15433e54534f16e8bb4a"
+   },
+   "t": "2026-11-09T17:06:33+03:00",
+   "teknik": {
+    "doygunluk": 56.0,
+    "inen": [
+     500,
+     379
+    ],
+    "karanlik_oran": 0.343,
+    "keskinlik": 1396,
+    "kontrast": 48,
+    "medyan": 71,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PaviljoenParijs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "3b73afe19c2eb5ed": {
    "t": "2026-11-08T11:37:57+03:00",
@@ -27524,6 +27709,114 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg/1280px-%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "65b163334183120d": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     180,
+     843,
+     381
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "koltuk",
+     "kamera",
+     "tripot",
+     "bayrak",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Iki kisi koltuklarda otururken bir kameraman onden cekim yapiyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "roportaj",
+     "siyaset",
+     "medya"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      249,
+      252,
+      350,
+      314
+     ],
+     [
+      310,
+      608,
+      431,
+      686
+     ],
+     [
+      12,
+      853,
+      321,
+      998
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c310d6efe1d1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurum roportaj gorselidir, Antalya enerji zirvesi haberiyle dogrudan iliskisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "zirve katilimcilari",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:05:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a9a82a386c49683c",
+    "sha": "302da71cc073fc56aa84d2f2"
+   },
+   "t": "2026-11-09T17:05:32+03:00",
+   "teknik": {
+    "doygunluk": 35.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.208,
+    "keskinlik": 2001,
+    "kontrast": 64,
+    "medyan": 108,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024-03-19_%E2%80%93_PBBM_sat_down_for_an_interview_with_Ms._Haslinda_Amin_of_Bloomberg_Television_%2802%29.jpg/1280px-2024-03-19_%E2%80%93_PBBM_sat_down_for_an_interview_with_Ms._Haslinda_Amin_of_Bloomberg_Television_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "65ffa574bda0545b": {
    "icerik": {
     "ana_kutu": [
@@ -28597,32 +28890,6 @@
     ]
    },
    "iliski": {
-    "r1:0308ffb376bf:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberin ana öznesi olan Bakan Murat Kurum'un güncel ve uygun bir portre fotoğrafıdır.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:59:06+03:00"
-    },
     "r1:0ec4e9aa3588:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -28700,6 +28967,36 @@
       "yasak": []
      },
      "t": "2026-11-08T11:08:35+03:00"
+    },
+    "r1:781ce136d1ce:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde ismi gecen kisiyle ilgili degildir, COP31 iklim konferansi haberine uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "katilimcilar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:08:15+03:00"
     },
     "r1:7e928bffb853:ozne_kisi": {
      "d": {
@@ -28896,7 +29193,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-09T15:36:40+03:00",
+   "t": "2026-11-09T17:08:15+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -39528,6 +39825,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Interior_of_the_newly_refurbished_Birmingham_Town_Hall_-_geograph.org.uk_-_1766652.jpg/1280px-Interior_of_the_newly_refurbished_Birmingham_Town_Hall_-_geograph.org.uk_-_1766652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8e3952b3c69c6fb1": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     214,
+     995,
+     528
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tarihi ev",
+     "sokak",
+     "otomobil",
+     "sandalye",
+     "çocuk arabası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi evlerin yer aldığı dar sokak",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi kentler haberi",
+     "turizm haberi",
+     "sokak dokusu haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 pavilyon haberi",
+     "iklim zirvesi",
+     "sanayi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41579125ae6c:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel tarihi bir sokak manzarasını yansıtmakta olup, COP31 Yeşil Bölge'deki Antalya Pavilyonu ile bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "pavilyon",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:06:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d6677b3b3b3c3c1e",
+    "sha": "5360cca687a428db8789221d"
+   },
+   "t": "2026-11-09T17:06:24+03:00",
+   "teknik": {
+    "doygunluk": 17.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.181,
+    "keskinlik": 2425,
+    "kontrast": 68,
+    "medyan": 88,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Antalya_Old_buildings_in_modern_town_in_2011_52.jpg/1280px-Antalya_Old_buildings_in_modern_town_in_2011_52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8e46309bda4267a6": {
    "icerik": {
     "ana_kutu": [
@@ -46467,6 +46857,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a78bee8a381c450b": {
+   "icerik": {
+    "ana_kutu": [
+     297,
+     407,
+     672,
+     703
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "taş duvar",
+     "kiremit çatı",
+     "ahşap kapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Suna-İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü levhası ve taş duvar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "enstitü haberi",
+     "yerel tarih haberi",
+     "Antalya kültürel miras haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 pavilyon haberi",
+     "uluslararası çevre zirvesi",
+     "sanayi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41579125ae6c:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki bir enstitü tabelasını göstermektedir; haberde bahsedilen COP31 Antalya Pavilyonu ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "pavilyon",
+        "var": false
+       },
+       {
+        "unsur": "sergi alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:06:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c096929098b09414",
+    "sha": "1fb74586f5e15f628fced4f4"
+   },
+   "t": "2026-11-09T17:06:24+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.081,
+    "keskinlik": 1313,
+    "kontrast": 58,
+    "medyan": 122,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_66.jpg/1280px-Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a820d03d6a3cfab9": {
    "icerik": {
@@ -55432,6 +55914,41 @@
      },
      "t": "2026-11-08T14:35:22+03:00"
     },
+    "r1:c310d6efe1d1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toplantı masasında oturan delegeler, enerji zirvesi haberi için uygun temsilî ortam sunar.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "zirve katilimcilari",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       245,
+       114,
+       788,
+       868
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:05:32+03:00"
+    },
     "r1:ca842bcacaad:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -55524,7 +56041,11 @@
      "t": "2026-11-08T21:03:09+03:00"
     }
    },
-   "t": "2026-11-08T21:37:34+03:00",
+   "ozet": {
+    "dh": "1d1b1b372bb3b25d",
+    "sha": "9279182506f22391ff4b07e9"
+   },
+   "t": "2026-11-09T17:05:32+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -58865,6 +59386,107 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Last_mile_irrigation-_Pipe_to_field_in_Raichur%2C_Karnataka%2C_India.jpg/1280px-Last_mile_irrigation-_Pipe_to_field_in_Raichur%2C_Karnataka%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d7682f1b5e58e6d6": {
+   "icerik": {
+    "ana_kutu": [
+     552,
+     725,
+     750,
+     903
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "televizyon stüdyosu",
+     "kamera",
+     "masa",
+     "bilgisayar ekranı",
+     "stüdyo ışıkları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Studiada calisan bir haber sunucusu ve kameralar, aydinlatma sistemleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "medya",
+     "haber bulteni",
+     "kurum tanitimi"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      553,
+      793,
+      735,
+      856
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c310d6efe1d1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana oznesi olan Bloomberg'in studiolarindan bir goruntudur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "zirve katilimcilari",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       552,
+       725,
+       960,
+       903
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:05:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f6c2cc88005020e",
+    "sha": "d8e2da9f0b09c94fc477de3b"
+   },
+   "t": "2026-11-09T17:05:32+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.161,
+    "keskinlik": 1761,
+    "kontrast": 62,
+    "medyan": 103,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bloomberg_in_London.jpg/1280px-Bloomberg_in_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d79c3e73773f61e3": {
    "icerik": {
@@ -63815,6 +64437,129 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1628867578021-c2eaad2ce46c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2hlc3MlMjB0b3VybmFtZW50JTIwaW5kb29yJTIwZ2FtZXxlbnwxfDB8fHwxNzk0MTM4MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e83672a68f124db3": {
+   "icerik": {
+    "ana_kutu": [
+     362,
+     0,
+     637,
+     945
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "masa",
+     "laptop",
+     "mikrofon",
+     "ekran",
+     "sandalyeler",
+     "pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir panelde oturmakta olan konuşmacılar ve arkalarında COP29 logolu pano yer alıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans haberi",
+     "zirve haberi",
+     "panel haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      382,
+      116,
+      614,
+      247
+     ],
+     [
+      382,
+      342,
+      627,
+      471
+     ],
+     [
+      382,
+      487,
+      623,
+      612
+     ],
+     [
+      415,
+      627,
+      595,
+      761
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c310d6efe1d1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir enerji zirvesini gösteriyor ancak arkadaki COP29 logosu başka bir zirveye ait olduğu için yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "zirve katılımcıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       362,
+       0,
+       637,
+       945
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T17:05:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "61686c68a2cccc4e",
+    "sha": "65d530df18ede4a745546208"
+   },
+   "t": "2026-11-09T17:05:39+03:00",
+   "teknik": {
+    "doygunluk": 34.0,
+    "inen": [
+     500,
+     293
+    ],
+    "karanlik_oran": 0.151,
+    "keskinlik": 1956,
+    "kontrast": 59,
+    "medyan": 103,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ambassador_Mostafa_Sherbiny_at_Global_Forum_Innovation_and_Green_Building_in_Blue_Zoon_at_COP_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "e8c553915533973e": {
    "icerik": {
