@@ -234,8 +234,8 @@ def logo_uret(kayit, yol):
     import io
     url = kayit["url"]
     m = re.match(r"(https://upload\.wikimedia\.org/wikipedia/commons/)([0-9a-f]/[0-9a-f]{2}/)([^/?]+\.svg)$", url, re.I)
-    if m:      # SVG logo: Commons'un PNG'ye çevrilmiş 1000 px kopyası
-        url = f"{m.group(1)}thumb/{m.group(2)}{m.group(3)}/1000px-{m.group(3)}.png"
+    if m:      # SVG logo: Commons'un standart 960 px PNG kopyası
+        url = f"{m.group(1)}thumb/{m.group(2)}{m.group(3)}/960px-{m.group(3)}.png"
     r = requests.get(url, headers=UA, timeout=40)
     r.raise_for_status()
     lg = Image.open(io.BytesIO(r.content)).convert("RGBA")
