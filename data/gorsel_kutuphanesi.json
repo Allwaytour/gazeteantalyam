@@ -69306,6 +69306,105 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ambassador_Mostafa_Sherbiny_at_Global_Forum_Innovation_and_Green_Building_in_Blue_Zoon_at_COP_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "e8af7a81bcfd3457": {
+   "icerik": {
+    "ana_kutu": [
+     118,
+     452,
+     1000,
+     942
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "portakal kasası",
+     "turuncu yelek",
+     "gözlük",
+     "bilgisayar",
+     "portakal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Depoda portakal kasaları önünde turuncu yelekli ve gözlüklü çalışan gülümseyerek duruyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım denetimi",
+     "ürün kalite kontrolü",
+     "gıda sektörü"
+    ],
+    "uygunsuz_baglamlar": [
+     "hal fiyatları duyurusu",
+     "sebze meyve borsa fiyatları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      118,
+      539,
+      480,
+      689
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1171e1833ace:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta meyve kasaları var ancak yabancı bir denetçi ön planda olduğu için hal fiyatları haberine uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": true
+       },
+       {
+        "unsur": "toptancı hali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T00:05:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3233f7eba3a34350",
+    "sha": "3ea067d7a787765d5da4f8c0"
+   },
+   "t": "2026-11-10T00:05:37+03:00",
+   "teknik": {
+    "doygunluk": 37.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.251,
+    "keskinlik": 2134,
+    "kontrast": 64,
+    "medyan": 92,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Agricultural_Marketing_Service_%28AMS%29_Specialty_Crops_Market_News_%28SCMN%29_reporters_on_site_at_the_Los_Angeles%2C_California_Wholesale_Produce_Market_on_20_October_2023_-_18.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e8c553915533973e": {
    "icerik": {
     "ana_kutu": [
@@ -75091,6 +75190,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Concept_Design_for_Antalya_Arena-external.jpg/1280px-Concept_Design_for_Antalya_Arena-external.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f9e2dd3cbf8e705d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     975
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "hasır sepet",
+     "meyve sepeti",
+     "plastik kasa",
+     "işçi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pazarda başlarında sepet taşıyan işçiler ve renkli kasalar görülüyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "meyve sebze ticareti",
+     "pazar yeri",
+     "tarım işçileri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya toptancı hali fiyat listesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      432,
+      345,
+      622,
+      448
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1171e1833ace:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü yabancı bir pazardaki el emeği taşımacılığı gösterdiği için Antalya Toptancı Hali fiyat haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": true
+       },
+       {
+        "unsur": "toptancı hali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T00:05:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a3e1796c8a9e6656",
+    "sha": "afd03c2d65219c6daff2a5e8"
+   },
+   "t": "2026-11-10T00:05:37+03:00",
+   "teknik": {
+    "doygunluk": 49.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.423,
+    "keskinlik": 3652,
+    "kontrast": 67,
+    "medyan": 64,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg/1280px-India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fac447687099d250": {
    "ozet": {
