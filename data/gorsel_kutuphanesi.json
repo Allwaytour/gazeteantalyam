@@ -7171,9 +7171,47 @@
       "yasak": []
      },
      "t": "2026-11-08T12:10:49+03:00"
+    },
+    "r1:d99f94fa0d67:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi sokak görünümüdür, zirve etkinliğiyle doğrudan ilişkisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "kültür merkezi salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:05:37+03:00"
     }
    },
-   "t": "2026-11-08T12:10:49+03:00",
+   "ozet": {
+    "dh": "361232121a0e293b",
+    "sha": "cebd73e45ba4d79a063137e8"
+   },
+   "t": "2026-11-09T19:05:37+03:00",
    "teknik": {
     "doygunluk": 28.1,
     "inen": [
@@ -12402,6 +12440,32 @@
      },
      "t": "2026-11-08T14:08:10+03:00"
     },
+    "r1:b13bf154fa36:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gemi ve liman odaklı bu kare, doğa ve planlama uyarısı içeren haber için uygun bir görsel değildir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya doğası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:07:04+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -12523,7 +12587,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-08T20:33:32+03:00",
+   "t": "2026-11-09T19:07:04+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -21936,9 +22000,34 @@
       "yasak": []
      },
      "t": "2026-11-08T12:10:49+03:00"
+    },
+    "r1:d99f94fa0d67:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf antik tarım aleti göstermektedir, Kaleiçi veya iklim zirvesiyle ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:05:37+03:00"
     }
    },
-   "t": "2026-11-08T12:10:49+03:00",
+   "ozet": {
+    "dh": "78cc562a8dce0733",
+    "sha": "fd5dc40921e0097f68a9bdc6"
+   },
+   "t": "2026-11-09T19:05:37+03:00",
    "teknik": {
     "doygunluk": 23.6,
     "inen": [
@@ -24808,6 +24897,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_4.jpg/1280px-Meeting_between_Emine_Erdo%C4%9Fan_and_Frans_Timmermans_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "556e8c213f6869fc": {
+   "ozet": {
+    "dh": "47c787250f0b0114",
+    "sha": "fdac03e58d2f7b5e7b924905"
+   },
+   "t": "2026-11-09T19:05:31+03:00",
+   "teknik": {
+    "doygunluk": 50.0,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.646,
+    "keskinlik": 979,
+    "kontrast": 55,
+    "medyan": 12,
+    "parlaklik": 45,
+    "s": "t1"
+   },
+   "url": "/images/kurum/8e4b8beacdc09080.jpg"
   },
   "55782e7faa246a01": {
    "icerik": {
@@ -31469,6 +31579,37 @@
      },
      "t": "2026-11-08T11:38:40+03:00"
     },
+    "r1:b13bf154fa36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın yoğun yapılaşma ve şehir dokusunu gözler önüne serdiği için planlama ve betonlaşma uyarısına birebir uyar.",
+      "gerekli": [
+       {
+        "unsur": "Alanya doğası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:07:04+03:00"
+    },
     "r1:e0e4aced2d92:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31532,7 +31673,11 @@
      "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T18:03:30+03:00",
+   "ozet": {
+    "dh": "dffffff823430717",
+    "sha": "11bc5bb8cc3d4ed86c26c206"
+   },
+   "t": "2026-11-09T19:07:04+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -37138,6 +37283,37 @@
      },
      "t": "2026-11-08T12:34:41+03:00"
     },
+    "r1:b13bf154fa36:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya doğasını gösterse de ana tema turizm/aktivite odaklıdır, planlama uyarısı için dolaylı kalır.",
+      "gerekli": [
+       {
+        "unsur": "Alanya doğası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:07:04+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -37259,7 +37435,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-08T20:33:32+03:00",
+   "t": "2026-11-09T19:07:04+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -44986,6 +45162,39 @@
      },
      "t": "2026-11-08T12:34:55+03:00"
     },
+    "r1:b13bf154fa36:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel kent ve doğa dokusunu gösteren bu geniş açı, planlama ve doğa uyarısı haberi için çok uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya doğası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       84,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "beton yığını"
+      ]
+     },
+     "t": "2026-11-09T19:07:04+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45107,7 +45316,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-08T20:33:32+03:00",
+   "t": "2026-11-09T19:07:04+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -50254,6 +50463,108 @@
    },
    "url": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dm90aW5nJTIwYm9vdGh8ZW58MXwwfHx8MTc5NDE0ODUyMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "aefc4225ec6f8ca8": {
+   "icerik": {
+    "ana_kutu": [
+     595,
+     61,
+     902,
+     401
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taksi",
+     "sokak",
+     "bina",
+     "tabela",
+     "agac"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaleiçi sokaginda park etmis sari taksiler ve dukkanlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sehir tanitimi",
+     "antalya haberleri",
+     "kaleiçi turizmi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "trafik cezasi",
+     "iklim zirvesi toplantisi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d99f94fa0d67:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi'ni gösterse de iklim zirvesi etkinliğini yansıtmaz, genel sokak karesidir.",
+      "gerekli": [
+       {
+        "unsur": "kültür merkezi salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       595,
+       61,
+       902,
+       401
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:05:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "57331d9346862383",
+    "sha": "3495ddd4f1e4c862c0d481e6"
+   },
+   "t": "2026-11-09T19:05:37+03:00",
+   "teknik": {
+    "doygunluk": 38.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 2958,
+    "kontrast": 54,
+    "medyan": 120,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Taxis_and_Tudors.jpg/1280px-Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Taxis_and_Tudors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "af49930d3d6772a1": {
    "icerik": {
     "ana_kutu": [
@@ -51640,6 +51951,27 @@
      },
      "t": "2026-11-07T23:57:34+03:00"
     },
+    "r1:b13bf154fa36:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu turnuvası görseli, doğa ve planlama uyarısı haberiyle tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:07:04+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -51797,7 +52129,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-08T20:33:32+03:00",
+   "t": "2026-11-09T19:07:04+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -54632,9 +54964,47 @@
       "yasak": []
      },
      "t": "2026-11-08T12:10:49+03:00"
+    },
+    "r1:d99f94fa0d67:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi'ni gösterir ancak iklim zirvesi etkinliğini yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "kültür merkezi salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:05:37+03:00"
     }
    },
-   "t": "2026-11-08T12:10:49+03:00",
+   "ozet": {
+    "dh": "278bcddd71737bb7",
+    "sha": "91c4a43196d8a4a665ab7cc7"
+   },
+   "t": "2026-11-09T19:05:37+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -56917,9 +57287,47 @@
       "yasak": []
      },
      "t": "2026-11-08T12:10:49+03:00"
+    },
+    "r1:d99f94fa0d67:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya tramvayı ve sokak görünümü, iklim zirvesi toplantısını göstermez.",
+      "gerekli": [
+       {
+        "unsur": "kültür merkezi salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T19:05:37+03:00"
     }
    },
-   "t": "2026-11-08T12:10:49+03:00",
+   "ozet": {
+    "dh": "2c585858bc12c347",
+    "sha": "f38cf8254fde987e191732ef"
+   },
+   "t": "2026-11-09T19:05:37+03:00",
    "teknik": {
     "doygunluk": 28.5,
     "inen": [
@@ -76024,7 +76432,7 @@
    "gosterim_ad": "Alanya",
    "ilk_kabul": "2026-11-07T23:51:06+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Kornelka2 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -76042,6 +76450,7 @@
     "yerler": []
    },
    "konular": [
+    "Alanya doğası",
     "Alanya şehir manzarası",
     "Alanya şehir merkezi",
     "ağaç",
@@ -76064,7 +76473,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T11:05:14+03:00",
+   "son_kabul": "2026-11-09T19:07:04+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
