@@ -20259,6 +20259,32 @@
      },
      "t": "2026-11-09T16:37:11+03:00"
     },
+    "r1:b249e583f2ea:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf halk oyunlarını gösteriyor, Sağlık Bakanı'nın COP31 panelindeki açıklamasıyla ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "konuşma kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T23:06:51+03:00"
+    },
     "r1:c6db56e0ca60:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -20325,7 +20351,7 @@
     "dh": "5752767945d5d5a5",
     "sha": "4340bc919e0e56f3aeb6b675"
    },
-   "t": "2026-11-09T22:37:40+03:00",
+   "t": "2026-11-09T23:06:51+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -27991,6 +28017,32 @@
      },
      "t": "2026-11-08T12:04:05+03:00"
     },
+    "r1:b249e583f2ea:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Gemi denetim merkezi gorseli, Saglik Bakaninin iklim paneli haberiyle uyusmamaktadir.",
+      "gerekli": [
+       {
+        "unsur": "konusma kursusu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-09T23:06:46+03:00"
+    },
     "r1:e8a72ca09f4d:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -28052,7 +28104,11 @@
      "t": "2026-11-08T00:01:53+03:00"
     }
    },
-   "t": "2026-11-08T21:03:09+03:00",
+   "ozet": {
+    "dh": "3bd69aced2b731a9",
+    "sha": "aa6e0440fec89a9d4aa19142"
+   },
+   "t": "2026-11-09T23:06:51+03:00",
    "teknik": {
     "doygunluk": 30.7,
     "inen": [
