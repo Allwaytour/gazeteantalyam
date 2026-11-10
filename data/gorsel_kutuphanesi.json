@@ -15377,6 +15377,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Generation_III_Extended_Cold_Weather_Clothing_System.jpg/1280px-Generation_III_Extended_Cold_Weather_Clothing_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2c69b108bb97bc8d": {
+   "icerik": {
+    "ana_kutu": [
+     168,
+     30,
+     686,
+     966
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "füze",
+     "tekerlekli taşıyıcı",
+     "zemin",
+     "uçak gövdesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen füze maketi ve arkada uçak parçası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri müze",
+     "silah teknolojisi",
+     "savunma sanayi"
+    ],
+    "uygunsuz_baglamlar": [
+     "su ve kanalizasyon idaresi",
+     "ASAT haberleri",
+     "yerel yönetim"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:eb81d7e44141:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf askeri müzedeki bir füze sergisini göstermektedir, Antalya su idaresiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "kurum binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T16:07:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c4c1433630f38717",
+    "sha": "32aee092b5c6207cfc626973"
+   },
+   "t": "2026-11-10T16:07:55+03:00",
+   "teknik": {
+    "doygunluk": 26.4,
+    "inen": [
+     500,
+     231
+    ],
+    "karanlik_oran": 0.187,
+    "keskinlik": 1343,
+    "kontrast": 56,
+    "medyan": 98,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Asat_missile_20040710_150339_1.4.jpg/1280px-Asat_missile_20040710_150339_1.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2c853fba2a274a9e": {
    "icerik": {
     "ana_kutu": [
@@ -55206,6 +55294,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ankara_Ethnography_Museum_Atat%C3%BCrk_equestrian_statue_in_2005_01a.jpg/1280px-Ankara_Ethnography_Museum_Atat%C3%BCrk_equestrian_statue_in_2005_01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a992ece55a0be5a8": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     142,
+     858,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "Türk bayrağı",
+     "logo",
+     "pano",
+     "kıyafet",
+     "zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya Belediyesi logosu önünde duran belediye çalışanları ve yetkililer.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye haberi",
+     "kurum ziyareti",
+     "toplu açılış"
+    ],
+    "uygunsuz_baglamlar": [
+     "ASAT haberleri",
+     "su yönetimi",
+     "adli vaka"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      390,
+      142,
+      858,
+      252
+     ],
+     [
+      390,
+      237,
+      835,
+      332
+     ],
+     [
+      396,
+      319,
+      843,
+      417
+     ],
+     [
+      403,
+      412,
+      837,
+      502
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:eb81d7e44141:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf farklı bir belediyeye ve kişilere ait, ASAT haberiyle ve istenen kriterlerle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "kurum binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzleri",
+       "kalabalık"
+      ]
+     },
+     "t": "2026-11-10T16:07:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4d8e968686949607",
+    "sha": "6254626783ef4a265619579c"
+   },
+   "t": "2026-11-10T16:07:55+03:00",
+   "teknik": {
+    "doygunluk": 35.6,
+    "inen": [
+     1000,
+     667
+    ],
+    "karanlik_oran": 0.214,
+    "keskinlik": 1469,
+    "kontrast": 57,
+    "medyan": 92,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "/images/kurum/6221a6d4e7b8c053.jpg"
+  },
   "a998d1996fa1f615": {
    "icerik": {
     "ana_kutu": [
@@ -80922,6 +81127,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f81d2785eed68465": {
+   "icerik": {
+    "ana_kutu": [
+     172,
+     59,
+     881,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "roket",
+     "füze",
+     "tekerlekli sehpa",
+     "duvar",
+     "zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen beyaz renkli roket veya füze benzeri askeri nesne.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri müze",
+     "silah teknolojisi",
+     "havacılık tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "su yönetimi",
+     "ASAT haberleri",
+     "yerel yönetim"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:eb81d7e44141:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki nesne ABD Hava Kuvvetleri'ne ait bir füzedir; ASAT kurumuyla hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "kurum binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T16:07:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "84f45495c1d9f979",
+    "sha": "4be527cd41c04b4370ea1416"
+   },
+   "t": "2026-11-10T16:07:55+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     500,
+     156
+    ],
+    "karanlik_oran": 0.28,
+    "keskinlik": 1845,
+    "kontrast": 62,
+    "medyan": 91,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/20180328_ASM-135_ASAT_Udvar-Hazy.jpg/1280px-20180328_ASM-135_ASAT_Udvar-Hazy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f8666bf6374effb3": {
    "icerik": {
