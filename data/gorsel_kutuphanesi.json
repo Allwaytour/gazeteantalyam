@@ -17363,6 +17363,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Yerba_Buena_Gardens%2C_built_atop_Moscone_Convention_Center%2C_San_Francisco%2C_California_LCCN2011635401.tif/lossy-page1-1280px-Yerba_Buena_Gardens%2C_built_atop_Moscone_Convention_Center%2C_San_Francisco%2C_California_LCCN2011635401.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3201ffc3de6ee990": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     196,
+     924,
+     762
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "pankart",
+     "yazı",
+     "kalabalık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İklim değişikliği protestosunda 'The climate is changing so should we!' yazılı pankart.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "iklim eylemi",
+     "çevre protestosu",
+     "küresel ısınma"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi kurum açıklaması",
+     "kitap tanıtımı"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f105759cb721:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Protesto gorseli iklim temali olsa da Iletisim Baskanligi'nin sozluk yayimi haberi icin uygun degildir.",
+      "gerekli": [
+       {
+        "unsur": "sözlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5d5436373a32b395",
+    "sha": "09d78920bfec1fbff111a42e"
+   },
+   "t": "2026-11-10T21:09:02+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.08,
+    "keskinlik": 931,
+    "kontrast": 72,
+    "medyan": 196,
+    "parlaklik": 174,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMGNoYW5nZSUyMGdsb3NzYXJ5fGVufDF8MHx8fDE3OTQzMzQxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "32822b405df455a2": {
    "icerik": {
     "ana_kutu": [
@@ -45182,6 +45272,32 @@
      },
      "t": "2026-11-08T11:03:55+03:00"
     },
+    "r1:8352045ce70a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da tarım kasaları ve kamyonet yükleyen kişileri gösteren kare, siyasi temas haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:52+03:00"
+    },
     "r1:9b5513850189:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45313,7 +45429,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-10T20:09:05+03:00",
+   "t": "2026-11-10T21:09:52+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -49656,6 +49772,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cyclists_on_Station_Road_-_geograph.org.uk_-_8351910.jpg/1280px-Cyclists_on_Station_Road_-_geograph.org.uk_-_8351910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9420d6762ce3012d": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     150,
+     770,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "karton tabela",
+     "eller"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eller yukarıda tutulan ve üzerinde İngilizce iklim protesto yazısı bulunan karton tabela",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iklim eylemi",
+     "çevre protestosu",
+     "küresel ısınma"
+    ],
+    "uygunsuz_baglamlar": [
+     "sözlük tanıtımı",
+     "resmi yayın",
+     "kurumsal haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f105759cb721:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir sözlük yayınıyla ilgili, ancak fotoğraf bir iklim protestosu pankartını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "sözlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "666f332bfb3bf3b3",
+    "sha": "82cc31e807926ab9d73fff5f"
+   },
+   "t": "2026-11-10T21:09:08+03:00",
+   "teknik": {
+    "doygunluk": 25.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.152,
+    "keskinlik": 933,
+    "kontrast": 72,
+    "medyan": 187,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1571845599234-790a035f6109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMGNoYW5nZSUyMGdsb3NzYXJ5fGVufDF8MHx8fDE3OTQzMzQxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "94dd48e6906751f0": {
    "icerik": {
@@ -60043,6 +60249,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sandy_pickle_sand_pickleball.jpg/1280px-Sandy_pickle_sand_pickleball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b3ea1289a9e94ed8": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     12,
+     977,
+     988
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "grafik",
+     "çizgi",
+     "yazı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Küresel ısınma ve iklim değişikliği arama trendlerini gösteren grafik.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "ekran_goruntusu",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iklim değişikliği",
+     "veri analizi",
+     "istatistik"
+    ],
+    "uygunsuz_baglamlar": [
+     "günlük yaşam",
+     "magazin"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f105759cb721:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Iklim terimleri uzerine arama grafigi, sozluk yenilenmesi haberiyle zayif baglantilidir.",
+      "gerekli": [
+       {
+        "unsur": "sözlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       12,
+       977,
+       988
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2e34d80d21380e82",
+    "sha": "a59774fdb0389e536d9d5bb9"
+   },
+   "t": "2026-11-10T21:09:02+03:00",
+   "teknik": {
+    "doygunluk": 1.5,
+    "inen": [
+     500,
+     378
+    ],
+    "karanlik_oran": 0.01,
+    "keskinlik": 1362,
+    "kontrast": 36,
+    "medyan": 252,
+    "parlaklik": 240,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/20200107_%22Global_warming%22_vs_%22Climate_change%22_Google_search_term_ratio.png/1280px-20200107_%22Global_warming%22_vs_%22Climate_change%22_Google_search_term_ratio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b41edc9a61cdf0cc": {
    "icerik": {
     "ana_kutu": [
@@ -64346,6 +64647,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/20180111_AntalyaCastle_5258_%2828329893469%29.jpg/1280px-20180111_AntalyaCastle_5258_%2828329893469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bf91c32911031de7": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "masa",
+     "bayrak",
+     "kalem",
+     "evrak",
+     "masa bayrağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki yetkili masa başında anlaşma imzalıyor, arkalarında Türk ve İngiliz bayrakları var.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyasi görüşme",
+     "enerji anlaşması",
+     "bakan ziyareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşması",
+     "magazin",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      261,
+      276,
+      442,
+      385
+     ],
+     [
+      312,
+      621,
+      503,
+      720
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8352045ce70a:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Alparslan Bayraktar masada imza atarken açıkça görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       197,
+       120,
+       880,
+       775
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "989a8989898b8b8b",
+    "sha": "07aafc0233c9d19112ef0276"
+   },
+   "t": "2026-11-10T21:09:52+03:00",
+   "teknik": {
+    "doygunluk": 21.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.115,
+    "keskinlik": 1135,
+    "kontrast": 66,
+    "medyan": 194,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Energy_Secretary_Ed_Miliband_signs_energy_and_climate_dialogue_%2854171872156%29.jpg/1280px-Energy_Secretary_Ed_Miliband_signs_energy_and_climate_dialogue_%2854171872156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bfae0ee9172d0a8d": {
    "icerik": {
     "ana_kutu": [
@@ -67170,6 +67573,32 @@
      },
      "t": "2026-11-08T21:37:34+03:00"
     },
+    "r1:8352045ce70a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişiler haberin konusu olan bakanlar değil, başka yabancı delegeler.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:52+03:00"
+    },
     "r1:86ede938cd6d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -67362,7 +67791,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-10T02:06:26+03:00",
+   "t": "2026-11-10T21:09:52+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -70852,6 +71281,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Antalya_Wikivoyage_banner.jpg/1280px-Antalya_Wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d469875e5cd5ab8b": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "su",
+     "kum",
+     "tekne",
+     "bitki"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havadan çekilmiş kurak nehir yatağı veya kum tepeleri manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "iklim kriz",
+     "kuraklık",
+     "çevre"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f105759cb721:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Iklim degisikligi temsilî manzarasi, sozluk yayimi haberi icin dogrudan kitap icermese de tematik olarak kabul edilebilir.",
+      "gerekli": [
+       {
+        "unsur": "sözlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c0c2c6c888889899",
+    "sha": "4d459d19bc374fe0716a6c2f"
+   },
+   "t": "2026-11-10T21:09:02+03:00",
+   "teknik": {
+    "doygunluk": 30.4,
+    "inen": [
+     500,
+     374
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 742,
+    "kontrast": 42,
+    "medyan": 115,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/River_is_dying.jpg/1280px-River_is_dying.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d503f335dc699ae8": {
    "icerik": {
     "ana_kutu": [
@@ -73165,6 +73690,32 @@
      },
      "t": "2026-11-08T21:37:34+03:00"
     },
+    "r1:8352045ce70a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kuaför işlemini gösteren bu fotoğraf enerji ticareti haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:52+03:00"
+    },
     "r1:91eabebdea84:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -73231,7 +73782,7 @@
     "dh": "a33072e1f1f0626b",
     "sha": "45c031fbe2b6040ae6d7855c"
    },
-   "t": "2026-11-09T13:24:20+03:00",
+   "t": "2026-11-10T21:09:52+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -75836,6 +76387,108 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Runner-1-.jpg/1280px-Runner-1-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e3d0b75500e62e17": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     340,
+     946,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "büyüteç",
+     "masa",
+     "bilgisayar",
+     "gözlük",
+     "kalem"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masada büyüteç ile bir belgeyi inceleyen erkek.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inceleme",
+     "teknoloji",
+     "arsiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim",
+     "sozluk",
+     "iletisim baskanligi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      19,
+      411,
+      580,
+      725
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f105759cb721:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabanci laboratuvar calisaninin inceleme ani, Iletisim Baskanligi ve iklim sozluk haberiyle uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "sözlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzü"
+      ]
+     },
+     "t": "2026-11-10T21:09:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2989ad2d990a0a3a",
+    "sha": "d6c8eac69a73587b22d53e50"
+   },
+   "t": "2026-11-10T21:09:02+03:00",
+   "teknik": {
+    "doygunluk": 48.8,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.308,
+    "keskinlik": 854,
+    "kontrast": 44,
+    "medyan": 72,
+    "parlaklik": 73,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Space_and_Terrestrial_Communications_Directorate_%2819173342992%29.jpg/1280px-Space_and_Terrestrial_Communications_Directorate_%2819173342992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e3df6586de687e30": {
    "icerik": {
@@ -82068,6 +82721,32 @@
      },
      "t": "2026-11-08T11:03:55+03:00"
     },
+    "r1:8352045ce70a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da kırsal bir alanı ve kasaları gösteren geniş kare, üst düzey enerji görüşmesi haberi için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T21:09:52+03:00"
+    },
     "r1:9b5513850189:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -82199,7 +82878,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-10T20:09:05+03:00",
+   "t": "2026-11-10T21:09:52+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -83833,6 +84512,114 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "f8c4e92dfb4105ca": {
+   "icerik": {
+    "ana_kutu": [
+     88,
+     287,
+     856,
+     893
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bilgisayar",
+     "masa",
+     "telsiz",
+     "kablo",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Laboratuvarda bilgisayar ve cihazlarla çalışan iki kişi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "teknoloji",
+     "arastirma",
+     "muhendislik"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim",
+     "sozluk",
+     "iletisim baskanligi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      118,
+      513,
+      375,
+      638
+     ],
+     [
+      105,
+      599,
+      344,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f105759cb721:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabanci bir laboratuvar goruntusu, haberle ve Iletisim Baskanligi ile ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "sozlük kitabı",
+        "var": false
+       },
+       {
+        "unsur": "çok dilli yayın",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzü"
+      ]
+     },
+     "t": "2026-11-10T21:09:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f1f7f7d3d3894d76",
+    "sha": "96d271129adb2a7e5168f415"
+   },
+   "t": "2026-11-10T21:09:02+03:00",
+   "teknik": {
+    "doygunluk": 20.9,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.346,
+    "keskinlik": 2104,
+    "kontrast": 77,
+    "medyan": 84,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Space_and_Terrestrial_Communications_Directorate_%2819173352172%29.jpg/1280px-Space_and_Terrestrial_Communications_Directorate_%2819173352172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f8c74face3511d04": {
    "icerik": {
