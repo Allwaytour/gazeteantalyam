@@ -1620,6 +1620,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg/1280px-2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "07060a8fc6b14d50": {
+   "icerik": {
+    "ana_kutu": [
+     482,
+     290,
+     568,
+     622
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "bayrak",
+     "dağ",
+     "anten"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yamaçta 'I love Alanya' yazısı ve arkasında dalgalanan bayraklar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya tanıtımı",
+     "turizm haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sis haberi",
+     "hava durumu olayları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5f0df68677ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'yı temsil eden bir tabela gösterilse de sis veya kale surları bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sis",
+        "var": false
+       },
+       {
+        "unsur": "tarihi kale surları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c86cf1cc8ca1f0c2",
+    "sha": "94f1349920af5e2e6ea5b274"
+   },
+   "t": "2026-11-11T00:38:05+03:00",
+   "teknik": {
+    "doygunluk": 32.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 481,
+    "kontrast": 20,
+    "medyan": 78,
+    "parlaklik": 79,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1752497624150-17d6febd4199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QWxhbnlhJTIwZm9nfGVufDF8MHx8fDE3OTQzNDY2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "081f987ccb1dc8b6": {
    "icerik": {
     "ana_kutu": [
@@ -14520,6 +14610,37 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:b51ba2d3c7bd:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanını gösteren bu görsel, turizm ve rezervasyon haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya oteller bölgesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       253,
+       175,
+       638,
+       893
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:31+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -14671,7 +14792,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-10T09:36:34+03:00",
+   "t": "2026-11-11T00:38:31+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -21015,6 +21136,101 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "3c4b259f2ae76da3": {
+   "icerik": {
+    "ana_kutu": [
+     409,
+     305,
+     735,
+     482
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "liman",
+     "kale",
+     "tekne",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten Alanya limanı, Kızılkule ve deniz görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya turizm",
+     "liman haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yoğun sis",
+     "olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5f0df68677ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya kalesi ve limanı net şekilde görülüyor ancak hava açık ve güneşli, sis etkisi yok.",
+      "gerekli": [
+       {
+        "unsur": "sis",
+        "var": false
+       },
+       {
+        "unsur": "tarihi kale surları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a14983c30216614b",
+    "sha": "869535699aa5fef7b516d659"
+   },
+   "t": "2026-11-11T00:38:05+03:00",
+   "teknik": {
+    "doygunluk": 28.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.138,
+    "keskinlik": 1278,
+    "kontrast": 43,
+    "medyan": 105,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1752676801449-e136bab31669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8QWxhbnlhJTIwZm9nfGVufDF8MHx8fDE3OTQzNDY2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "3cad480f15bb2740": {
    "icerik": {
@@ -35848,13 +36064,39 @@
       "yasak": []
      },
      "t": "2026-11-10T22:13:56+03:00"
+    },
+    "r1:b51ba2d3c7bd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konser salonu görseli Alanya turizm haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya oteller bölgesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:31+03:00"
     }
    },
    "ozet": {
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-10T22:13:56+03:00",
+   "t": "2026-11-11T00:38:31+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -37374,6 +37616,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5f0df68677ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya Kalesi ve Kızılkule görülüyor ancak hava güneşli ve açık, sis etkisi yok.",
+      "gerekli": [
+       {
+        "unsur": "sis",
+        "var": false
+       },
+       {
+        "unsur": "tarihi kale surları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       19,
+       0,
+       997,
+       999
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:05+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -37408,7 +37685,11 @@
      "t": "2026-11-08T12:34:55+03:00"
     }
    },
-   "t": "2026-11-08T12:34:55+03:00",
+   "ozet": {
+    "dh": "1882c74fe3931343",
+    "sha": "048fbb13f59147aa3db23236"
+   },
+   "t": "2026-11-11T00:38:05+03:00",
    "teknik": {
     "doygunluk": 31.4,
     "inen": [
@@ -44264,6 +44545,32 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:b51ba2d3c7bd:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'da çekilmiş bir tatil aktivitesi ancak genel bir sahil veya oteller bölgesi manzarası sunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya oteller bölgesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:31+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44385,7 +44692,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-09T19:35:26+03:00",
+   "t": "2026-11-11T00:38:31+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -53677,6 +53984,37 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:b51ba2d3c7bd:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya sahilini ve limanını gösteren genel bir şehir manzarası olduğu için rezervasyon haberine mükemmel uyar.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya oteller bölgesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       390,
+       804,
+       942
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:31+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -53798,7 +54136,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-09T19:35:26+03:00",
+   "t": "2026-11-11T00:38:31+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -62050,6 +62388,32 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:b51ba2d3c7bd:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'da çekilmiş bir plaj voleybolu maçı karesidir, turizm rezervasyon haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya sahili veya oteller bölgesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:31+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -62207,7 +62571,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-09T19:35:26+03:00",
+   "t": "2026-11-11T00:38:31+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -76757,6 +77121,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gallery_exhibition_%2813721585945%29.jpg/1280px-Gallery_exhibition_%2813721585945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e03f4ba347582350": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     394,
+     966,
+     614
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tavuk",
+     "ağaç gövdesi",
+     "yaprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaç gövdeleri arasında duran beyaz bir tavuk.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kümes hayvanları",
+     "köy yaşamı"
+    ],
+    "uygunsuz_baglamlar": [
+     "hava durumu",
+     "sis haberi",
+     "tarihi eser"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5f0df68677ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta sis veya tarihi kale surları yerine ağaçlar arasında bir tavuk yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sis",
+        "var": false
+       },
+       {
+        "unsur": "tarihi kale surları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "292989294de9e8d4",
+    "sha": "889c6c5fe62b1c3f2bb2a869"
+   },
+   "t": "2026-11-11T00:38:05+03:00",
+   "teknik": {
+    "doygunluk": 17.4,
+    "inen": [
+     500,
+     321
+    ],
+    "karanlik_oran": 0.345,
+    "keskinlik": 5794,
+    "kontrast": 60,
+    "medyan": 75,
+    "parlaklik": 86,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chicken_on_Castle_Hill%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/1280px-Chicken_on_Castle_Hill%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e0fbc36349f66e77": {
    "icerik": {
     "ana_kutu": [
@@ -83794,6 +84248,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5f0df68677ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yoğun sisli ve bulutlu bir atmosfer var ancak Alanya kalesi veya kente ait belirgin simgeler seçilemiyor.",
+      "gerekli": [
+       {
+        "unsur": "sis",
+        "var": true
+       },
+       {
+        "unsur": "tarihi kale surları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T00:38:05+03:00"
+    },
     "r1:aaf68d5822da:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -83825,7 +84314,7 @@
     "dh": "07070f0e09030300",
     "sha": "39f4224942ce037a9c407a0a"
    },
-   "t": "2026-11-09T19:35:46+03:00",
+   "t": "2026-11-11T00:38:05+03:00",
    "teknik": {
     "doygunluk": 49.0,
     "inen": [
@@ -93341,7 +93830,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T18:03:30+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -93365,6 +93854,7 @@
    },
    "konular": [
     "Alanya genel görünüm",
+    "Alanya sahili veya oteller bölgesi",
     "Alanya sahili veya turistik bölge",
     "deniz",
     "kale",
@@ -93383,7 +93873,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-09T19:35:26+03:00",
+   "son_kabul": "2026-11-11T00:38:31+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
