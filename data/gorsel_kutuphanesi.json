@@ -795,6 +795,106 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%C3%8Dsa_Oslo_Jazzfestival_%28173000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "03e5742e779790b4": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     529,
+     994,
+     804
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "sertifika",
+     "teleskop maketi",
+     "fuar standı",
+     "pankart"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fuar standında elinde sertifika tutan takım elbiseli erkek ve teleskop maketi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fuar",
+     "bilim",
+     "tanıtım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "hastane"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      41,
+      620,
+      240,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fuar ortamı olsa da yabancı bir kurumun standı ve heyeti haberle alakasız.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": true
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T20:39:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b5d294e6f7e7db5b",
+    "sha": "d7fa494945510a69507fbcba"
+   },
+   "t": "2026-11-10T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 31.1,
+    "inen": [
+     1280,
+     850
+    ],
+    "karanlik_oran": 0.243,
+    "keskinlik": 1400,
+    "kontrast": 59,
+    "medyan": 88,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESO%27s_Environmentally_Friendly_Display_%28eso-exhibition-iauga2018-CC%29.tiff/lossy-page1-1280px-ESO%27s_Environmentally_Friendly_Display_%28eso-exhibition-iauga2018-CC%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "040214fd17fd2a36": {
    "icerik": {
     "ana_kutu": [
@@ -2631,6 +2731,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Buff_breasted_sandpiper_15.jpg/1280px-Buff_breasted_sandpiper_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0a7cbc5174ef591c": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     0,
+     680,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "cam",
+     "çam ağacı",
+     "yol",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlı yol kenarında çok katlı üniversite binası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "üniversite haberi",
+     "kampüs tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "fuar haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Antalya'daki turizm fuarı ile ilgili ancak fotoğrafta üniversite binası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       0,
+       680,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-10T20:38:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b30161292973f43",
+    "sha": "6e63fe97b9206b43f6ea46e3"
+   },
+   "t": "2026-11-10T20:38:54+03:00",
+   "teknik": {
+    "doygunluk": 21.2,
+    "inen": [
+     500,
+     373
+    ],
+    "karanlik_oran": 0.1,
+    "keskinlik": 1611,
+    "kontrast": 64,
+    "medyan": 159,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Afyonkarahisar_Sa%C4%9Fl%C4%B1k_Bilimleri-14.png/1280px-Afyonkarahisar_Sa%C4%9Fl%C4%B1k_Bilimleri-14.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0a91a4d0f3fb7624": {
    "icerik": {
@@ -18116,6 +18315,105 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mary_Stuart_Queen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "349b229a36d47fa7": {
+   "icerik": {
+    "ana_kutu": [
+     88,
+     32,
+     744,
+     477
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "bina",
+     "araba",
+     "yol",
+     "ağaç",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Onkoloji ve Hematoloji hastane binası önünde araçlar ve yayalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "hastane tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "fuar haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber fuar tanıtımıyla ilgili ancak fotoğrafta hastane binası görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       88,
+       32,
+       744,
+       477
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-10T20:38:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4484a6202b291c9a",
+    "sha": "4dc148d3652d91146a44aab9"
+   },
+   "t": "2026-11-10T20:38:54+03:00",
+   "teknik": {
+    "doygunluk": 17.6,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.193,
+    "keskinlik": 1042,
+    "kontrast": 70,
+    "medyan": 164,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Afyonkarahisar_Sa%C4%9Fl%C4%B1k_Bilimleri-12.png/1280px-Afyonkarahisar_Sa%C4%9Fl%C4%B1k_Bilimleri-12.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "350b9b47ade5332c": {
    "icerik": {
     "ana_kutu": [
@@ -24265,6 +24563,106 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg/1280px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "490903ffba77c3b9": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     529,
+     994,
+     804
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "sertifika",
+     "teleskop maketi",
+     "fuar standı",
+     "pankart"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fuar standında elinde sertifika tutan takım elbiseli erkek ve teleskop maketi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fuar",
+     "bilim",
+     "tanıtım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "hastane"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      41,
+      620,
+      240,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fuar ortamı olsa da yabancı bir kurumun standı ve heyeti haberle alakasız.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": true
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T20:39:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b5d294e6f7e7db5b",
+    "sha": "c49c3332c515afaef7877fb6"
+   },
+   "t": "2026-11-10T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 32.0,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.255,
+    "keskinlik": 2525,
+    "kontrast": 61,
+    "medyan": 88,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/ESO%27s_Environmentally_Friendly_Display_%28eso-exhibition-iauga2018-CC%29.jpg/1280px-ESO%27s_Environmentally_Friendly_Display_%28eso-exhibition-iauga2018-CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4974475391a709ee": {
    "icerik": {
@@ -32647,6 +33045,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:12d9e9ba7407:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta fuar alanı veya üniversite heyeti yerine genel bir yerleşim yeri manzarası var.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-10T20:38:54+03:00"
+    },
     "r1:74d797366af7:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32729,7 +33160,7 @@
     "dh": "030b0bc58c3cfff3",
     "sha": "9faa2d17dc139fbe95c2d735"
    },
-   "t": "2026-11-10T11:37:06+03:00",
+   "t": "2026-11-10T20:38:54+03:00",
    "teknik": {
     "doygunluk": 34.3,
     "inen": [
@@ -41605,6 +42036,96 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Side_Belediyesi%2C_Side-Manavgat-Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "7f850f153adb5e0a": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil farı",
+     "kaporta",
+     "logo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Siyah bir otomobilin far ve kaporta detayı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "otomotiv",
+     "ürün çekimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm",
+     "eğitim",
+     "sağlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otomobil detayı, turizm fuarı ve üniversite tanıtım haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T20:39:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c813139517124e64",
+    "sha": "28d88eb9517f6db916961665"
+   },
+   "t": "2026-11-10T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.366,
+    "keskinlik": 2598,
+    "kontrast": 64,
+    "medyan": 78,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/D%C3%BClmen%2C_Automeile_auf_dem_Kartoffelmarkt%2C_BMW_Mini_--_2019_--_9877.jpg/1280px-D%C3%BClmen%2C_Automeile_auf_dem_Kartoffelmarkt%2C_BMW_Mini_--_2019_--_9877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7f99cce752f282db": {
    "icerik": {
     "ana_kutu": [
@@ -45231,6 +45752,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:12d9e9ba7407:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta turizm fuarı veya üniversite heyeti bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-10T20:38:54+03:00"
+    },
     "r1:74d797366af7:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45313,7 +45867,7 @@
     "dh": "0b0b216d6c4cdb8b",
     "sha": "02b6860f58d5bffe8219c2ce"
    },
-   "t": "2026-11-10T11:37:03+03:00",
+   "t": "2026-11-10T20:38:54+03:00",
    "teknik": {
     "doygunluk": 30.9,
     "inen": [
@@ -59710,6 +60264,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:12d9e9ba7407:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta fuar veya üniversite heyeti yok, genel bir park alanı görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-10T20:38:54+03:00"
+    },
     "r1:74d797366af7:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -59811,7 +60398,7 @@
     "dh": "0021e2c0a43c3a2d",
     "sha": "89d298e50db089ccfacb6e54"
    },
-   "t": "2026-11-10T11:37:03+03:00",
+   "t": "2026-11-10T20:38:54+03:00",
    "teknik": {
     "doygunluk": 35.7,
     "inen": [
@@ -82867,6 +83454,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1507537362848-9c7e70b7b5c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bWVuJTIwdGFsa2luZyUyMGluZG9vcnN8ZW58MXwwfHx8MTc5NDMyNjg2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "f817ae06eb7c1bd5": {
+   "icerik": {
+    "ana_kutu": [
+     292,
+     233,
+     755,
+     843
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "spor araba",
+     "platform",
+     "ışıklandırma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alanda sergilenen mavi spor araba.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "otomotiv",
+     "sergi",
+     "fuar"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık",
+     "eğitim",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:12d9e9ba7407:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otomobil sergisi, turizm fuarı ve üniversite projesi haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "fuar standı",
+        "var": false
+       },
+       {
+        "unsur": "üniversite heyeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T20:39:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "353564078969219f",
+    "sha": "9f15bb99aaebba993dd9af98"
+   },
+   "t": "2026-11-10T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 38.6,
+    "inen": [
+     500,
+     400
+    ],
+    "karanlik_oran": 0.299,
+    "keskinlik": 1700,
+    "kontrast": 52,
+    "medyan": 66,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/D%C3%BClmen%2C_Wiesmann_Sports_Cars%2C_Wiesmann_Spyder_Concept_--_2018_--_9978.jpg/1280px-D%C3%BClmen%2C_Wiesmann_Sports_Cars%2C_Wiesmann_Spyder_Concept_--_2018_--_9978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f81d2785eed68465": {
    "icerik": {
