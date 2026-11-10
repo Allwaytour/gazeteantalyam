@@ -1421,6 +1421,105 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Kerry_met_with_Han_Zheng_in_Beijing_-_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "0645e848aa12fd91": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     200,
+     980,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mikrofon",
+     "sahne ışığı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahne ışıkları altında şarkı söyleyen üstsüz bir erkek.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konser",
+     "müzik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "resmi ziyaret",
+     "hukuk"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      10,
+      250,
+      350,
+      480
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:7250543fb0e3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle tamamen alakasız bir konser görüntüsü, özne ve olayla hiçbir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "iki erkek",
+        "var": false
+       },
+       {
+        "unsur": "samimi sohbet",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık grup",
+       "mahkeme salonu"
+      ]
+     },
+     "t": "2026-11-10T19:08:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f6f7777733b3f3e",
+    "sha": "9af9634042b74bdc247ad321"
+   },
+   "t": "2026-11-10T19:08:24+03:00",
+   "teknik": {
+    "doygunluk": 38.8,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.165,
+    "keskinlik": 380,
+    "kontrast": 70,
+    "medyan": 138,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg/1280px-2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "081f987ccb1dc8b6": {
    "icerik": {
     "ana_kutu": [
@@ -7438,6 +7537,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "180b7946a65b37bb": {
+   "icerik": {
+    "ana_kutu": [
+     415,
+     260,
+     730,
+     740
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "çizim",
+     "kıyafet",
+     "şemsiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel kıyafetli iki Hintli erkeği gösteren eski bir çizim.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih",
+     "sanat",
+     "kültür"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "siyaset",
+     "ziyaret"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7250543fb0e3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir çizim, güncel bir ziyaret haberi için tamamen alakasız ve yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "iki erkek",
+        "var": true
+       },
+       {
+        "unsur": "samimi sohbet",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık grup",
+       "mahkeme salonu"
+      ]
+     },
+     "t": "2026-11-10T19:08:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5153131b1b13d071",
+    "sha": "33b94e63731975c2754dac74"
+   },
+   "t": "2026-11-10T19:08:24+03:00",
+   "teknik": {
+    "doygunluk": 25.2,
+    "inen": [
+     500,
+     394
+    ],
+    "karanlik_oran": 0.256,
+    "keskinlik": 4196,
+    "kontrast": 79,
+    "medyan": 153,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Two_Indian_men_-_%28left%29_bringing_a_cup_of_tea_or_other_drink%2C_and_%28right%29_holding_a_large_purple_fan_or_canopy_on_a_pole_%28Wellcome_Collection%2C_583226i%2C_folio_21%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "18146e19cb2cd978": {
    "icerik": {
@@ -37799,6 +37992,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fuel_Administration_-_NATURAL_GAS_CONSERVATION%2C_BUREAU_OF_OIL_CONSERVATION%2C_U.S._FUEL_ADMINISTRATION%2C_WASHINGTON%2C_D.C._Gas_leak_at_main_showing_flame_of_burning_gas%2C_which_is_3_ft._high_-_NARA_-_31482568.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "74bf33c7021a5e71": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "cam bardak",
+     "çay",
+     "deri ceket"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki kişinin ellerinde cam bardaklarla sohbet ettiği yakın çekim.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sosyal yaşam",
+     "çay sohbeti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "resmi ziyaret"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7250543fb0e3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kişilerin yüzleri görünmüyor ancak çay sohbeti teması haberin içeriğiyle uyumlu bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "iki erkek",
+        "var": false
+       },
+       {
+        "unsur": "samimi sohbet",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık grup",
+       "mahkeme salonu"
+      ]
+     },
+     "t": "2026-11-10T19:08:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bebe7eec696b76d6",
+    "sha": "a08c8e68d5e469e2579668f4"
+   },
+   "t": "2026-11-10T19:08:24+03:00",
+   "teknik": {
+    "doygunluk": 20.5,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 478,
+    "kontrast": 65,
+    "medyan": 128,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1461595520627-42e3c83019bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHdvJTIwbWVuJTIwZHJpbmtpbmclMjB0ZWF8ZW58MXwwfHx8MTc5NDMyNjg2MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "753df8aab6672e43": {
    "icerik": {
     "ana_kutu": [
@@ -39320,6 +39605,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Traffic_in_central_Bangkok%2C_Traffic_police%2C_Thailand.jpg/1280px-Traffic_in_central_Bangkok%2C_Traffic_police%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7a7b6f5c97a2935b": {
+   "icerik": {
+    "ana_kutu": [
+     368,
+     301,
+     925,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "tekne",
+     "masa",
+     "sandalye",
+     "çay bardağı",
+     "olta"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir teknede oturan iki erkek çay içip sohbet ediyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sosyal yaşam",
+     "denizcilik",
+     "günlük yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "resmi ziyaret",
+     "hukuk"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7250543fb0e3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kişiler haberle ilgisiz ve ortam yabancı bir ülkede (Çin) çekilmiş, temsilî olarak uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "iki erkek",
+        "var": true
+       },
+       {
+        "unsur": "samimi sohbet",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık grup",
+       "mahkeme salonu"
+      ]
+     },
+     "t": "2026-11-10T19:08:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c6fd272c6da5e574",
+    "sha": "80a5a1fd6940a0a1f299947e"
+   },
+   "t": "2026-11-10T19:08:24+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.232,
+    "keskinlik": 2450,
+    "kontrast": 69,
+    "medyan": 107,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Old_men_smoking_and_drinking_tea_at_the_docks_in_Qingdao.jpg/1280px-Old_men_smoking_and_drinking_tea_at_the_docks_in_Qingdao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7a9e49bb37182c0e": {
    "icerik": {
@@ -53109,13 +53490,46 @@
       "yasak": []
      },
      "t": "2026-11-08T15:41:03+03:00"
+    },
+    "r1:d05976aec145:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir doğa müzesi sergisini göstermektedir; haberdeki anma sergisi veya zirve ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sergi",
+        "var": false
+       },
+       {
+        "unsur": "zirve alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "saldırı anı",
+       "silah"
+      ]
+     },
+     "t": "2026-11-10T19:09:27+03:00"
     }
    },
    "ozet": {
     "dh": "d2d9d1ebf94c4c2c",
     "sha": "1cfd3f10d1cab2328b5a2af4"
    },
-   "t": "2026-11-09T13:26:02+03:00",
+   "t": "2026-11-10T19:09:27+03:00",
    "teknik": {
     "doygunluk": 41.2,
     "inen": [
@@ -81913,6 +82327,111 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240217%29_P6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f7e4f804e7c87368": {
+   "icerik": {
+    "ana_kutu": [
+     90,
+     240,
+     800,
+     880
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir masada karşılıklı oturan iki erkek sohbet ediyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "toplantı",
+     "ziyaret",
+     "sohbet"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "konser"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      250,
+      670,
+      480,
+      780
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:7250543fb0e3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İki kişinin samimi sohbetini gösteren, ziyaret haberinin temsilî görseli olarak oldukça uygun bir kare.",
+      "gerekli": [
+       {
+        "unsur": "iki erkek",
+        "var": true
+       },
+       {
+        "unsur": "samimi sohbet",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       90,
+       240,
+       800,
+       880
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık grup",
+       "mahkeme salonu"
+      ]
+     },
+     "t": "2026-11-10T19:08:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "beb1b4f4fcfeb6bd",
+    "sha": "3e156a2aa4ff49a2d46d422f"
+   },
+   "t": "2026-11-10T19:08:24+03:00",
+   "teknik": {
+    "doygunluk": 21.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.051,
+    "keskinlik": 261,
+    "kontrast": 67,
+    "medyan": 215,
+    "parlaklik": 184,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1507537362848-9c7e70b7b5c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bWVuJTIwdGFsa2luZyUyMGluZG9vcnN8ZW58MXwwfHx8MTc5NDMyNjg2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "f81d2785eed68465": {
    "icerik": {
