@@ -43644,6 +43644,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "80eeeb5581f759cd": {
+   "icerik": {
+    "ana_kutu": [
+     249,
+     273,
+     703,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lavabo",
+     "klozet",
+     "tuvalet kağıdı",
+     "fayans"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yarım kalmış, lavabo ve klozet bulunan bakımsız banyo içi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji yoksulluğu",
+     "altyapı sorunları",
+     "yoksulluk haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "konferans",
+     "resmi toplantı",
+     "açılış töreni"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6ddd2fb8383:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir panel ve enerji politikaları üzerinedir, fotoğraf ise konut içi tesisat sorununu yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T22:19:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0101050b1b333333",
+    "sha": "303f2063c212eb1ee7429b65"
+   },
+   "t": "2026-11-10T22:19:27+03:00",
+   "teknik": {
+    "doygunluk": 18.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.207,
+    "keskinlik": 691,
+    "kontrast": 55,
+    "medyan": 106,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Homes_in_Need_%2820220129-RD-LSC-0025%29.jpg/1280px-Homes_in_Need_%2820220129-RD-LSC-0025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "80ff9a94031f4b7e": {
    "icerik": {
     "ana_kutu": [
@@ -49620,6 +49712,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1770466772525-02762c0e07cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYWlycG9ydCUyMHRlcm1pbmFsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIxOTc2OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "92443e6dec80cede": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     96,
+     1000,
+     552
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lavabo",
+     "klozet",
+     "küvet",
+     "tuvalet kağıdı",
+     "fayans"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yarım kalmış, lavabo, tuvalet ve küvet içeren bakımsız bir banyo.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji yoksulluğu",
+     "altyapı sorunları",
+     "yoksulluk haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "konferans",
+     "resmi toplantı",
+     "açılış töreni"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6ddd2fb8383:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber enerji yoksulluğu ve panellerle ilgilidir, ancak fotoğraf bir evin tadilatsız banyosunu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T22:19:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2f8f0f0f39366545",
+    "sha": "555063c82586d88e5cc9a564"
+   },
+   "t": "2026-11-10T22:19:27+03:00",
+   "teknik": {
+    "doygunluk": 18.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.072,
+    "keskinlik": 721,
+    "kontrast": 53,
+    "medyan": 125,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Homes_in_Need_%2820220129-RD-LSC-0023%29.jpg/1280px-Homes_in_Need_%2820220129-RD-LSC-0023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "927efca29b06940e": {
    "icerik": {
@@ -64013,6 +64198,130 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bae9816ec978101c": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     150,
+     1000,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "sandalye",
+     "bayrak",
+     "süsler"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki kişi tokalaşıyor, arkada izleyenler var, süslenmiş bir çadır içi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberi",
+     "ziyaret haberi",
+     "kabine haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor haberi",
+     "hava durumu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      317,
+      269,
+      477,
+      368
+     ],
+     [
+      409,
+      442,
+      532,
+      513
+     ],
+     [
+      418,
+      516,
+      516,
+      608
+     ],
+     [
+      296,
+      431,
+      1000,
+      777
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a64733cfff73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf farklı bir ülkeye, döneme ve ortama ait; yerel bir makam ziyareti haberi için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       },
+       {
+        "unsur": "ziyaret eden heyet",
+        "var": true
+       },
+       {
+        "unsur": "kaymakam",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "inşaat sahası",
+       "bina dış cephesi"
+      ]
+     },
+     "t": "2026-11-10T22:19:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b0cccde7a2a72636",
+    "sha": "26f328b39bb5d49273e70f6e"
+   },
+   "t": "2026-11-10T22:19:07+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.282,
+    "keskinlik": 2479,
+    "kontrast": 61,
+    "medyan": 85,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Flickr_-_Government_Press_Office_%28GPO%29_-_P.M._Ehud_Barak.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_P.M._Ehud_Barak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "baf2dd7d21c3d281": {
    "icerik": {
     "ana_kutu": [
@@ -69091,6 +69400,130 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Destruction_at_furniture_factory_%281%29_%2814312547697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "ca8dad9fa05da5f6": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "uçak koltuğu",
+     "bayrak",
+     "başlık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Uçak kabininde insanlarla tokalaşan ve bayrak tutan çocuklar ve yetkililer.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberi",
+     "kabul haberi",
+     "lider ziyareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "yerel inşaat haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      228,
+      442,
+      429,
+      529
+     ],
+     [
+      213,
+      303,
+      584,
+      431
+     ],
+     [
+      200,
+      210,
+      483,
+      340
+     ],
+     [
+      139,
+      803,
+      825,
+      1000
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a64733cfff73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü bir uçak kabininde geçiyor ve Alanya'daki kaymakamlık ziyaretiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       },
+       {
+        "unsur": "ziyaret eden heyet",
+        "var": false
+       },
+       {
+        "unsur": "kaymakam",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "inşaat sahası",
+       "bina dış cephesi"
+      ]
+     },
+     "t": "2026-11-10T22:19:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f47656533333696",
+    "sha": "0d78252a088b1173920dd794"
+   },
+   "t": "2026-11-10T22:19:07+03:00",
+   "teknik": {
+    "doygunluk": 35.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.167,
+    "keskinlik": 1300,
+    "kontrast": 65,
+    "medyan": 100,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Flickr_-_Government_Press_Office_%28GPO%29_-_P.M._Rabin_with_Russian_Immigrants.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_P.M._Rabin_with_Russian_Immigrants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ca9571f78ddb2e9c": {
    "ozet": {
