@@ -3269,6 +3269,83 @@
    },
    "url": "https://images.unsplash.com/photo-1588075592765-2feb7de1f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "0d5a9acc2b5f4bf7": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mermer heykel",
+     "kabartma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mermer heykel üzerindeki detay kabartma",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "ödül töreni",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da düzenlenen ödül töreni haberi için müze heykeli kabartması tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b17452d23156cce",
+    "sha": "866dec4bcd1e2c6efb9c058f"
+   },
+   "t": "2026-11-10T11:07:47+03:00",
+   "teknik": {
+    "doygunluk": 11.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.049,
+    "keskinlik": 508,
+    "kontrast": 33,
+    "medyan": 130,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Antalya_Museum_Trajan_2_6543.jpg/1280px-Antalya_Museum_Trajan_2_6543.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0d67be5e669c09d6": {
    "icerik": {
     "ana_kutu": [
@@ -28757,6 +28834,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alanya_Kalesi_g%C3%BCnd%C3%BCz.jpg/1280px-Alanya_Kalesi_g%C3%BCnd%C3%BCz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5c22cb0651942f49": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     190,
+     1000,
+     895
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mermer heykel",
+     "çocuk figürü",
+     "panter figürü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Müzesi'ndeki Dionysus heykelinin detayı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze tanıtımı",
+     "tarih haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "ödül töreni haberi",
+     "güncel etkinlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      260,
+      400,
+      540
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi müze heykeli, Antalya'daki sürdürülebilirlik ödül töreni haberiyle hiçbir ilişki barındırmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:08:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d8da7ab1b575539",
+    "sha": "fb877df907a3ea126b45ca25"
+   },
+   "t": "2026-11-10T11:08:09+03:00",
+   "teknik": {
+    "doygunluk": 50.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.137,
+    "keskinlik": 451,
+    "kontrast": 35,
+    "medyan": 98,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Antalya_museum_Dionysus_from_theatre_3138.jpg/1280px-Antalya_museum_Dionysus_from_theatre_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5c5ebe30cb386316": {
    "icerik": {
     "ana_kutu": [
@@ -32403,6 +32569,27 @@
      },
      "t": "2026-11-08T14:35:22+03:00"
     },
+    "r1:b9d14ba5a612:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla ilgisi olmayan bir siyasetçinin arşiv portresidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:07:47+03:00"
+    },
     "r1:c51e24f86779:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -32449,32 +32636,6 @@
       "yasak": []
      },
      "t": "2026-11-08T15:13:28+03:00"
-    },
-    "r1:e2bc08e9f503:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberin ana kişisinin arşiv portresidir, zirve ile doğrudan bir görsel bağı yoktur.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       100,
-       150,
-       900,
-       850
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 5,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T07:02:41+03:00"
     },
     "r1:e8a72ca09f4d:ozne_kisi": {
      "d": {
@@ -32528,7 +32689,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-09T17:08:15+03:00",
+   "t": "2026-11-10T11:07:47+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -33326,6 +33487,87 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg/1280px-Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6da19ee26ef88572": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     29,
+     990,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "heykel kabartması",
+     "mermer"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Müzesi'ndeki Roma dönemine ait Trajan heykelinin kabartma detayı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze tanıtımı",
+     "tarihi eser haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "sürdürülebilirlik ödül töreni",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da düzenlenen sürdürülebilirlik ödül töreni haberi için tarihi heykel görseli tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:08:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "170b032b2f171745",
+    "sha": "a7ba2a3af864acae5047ba61"
+   },
+   "t": "2026-11-10T11:08:09+03:00",
+   "teknik": {
+    "doygunluk": 43.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.208,
+    "keskinlik": 960,
+    "kontrast": 60,
+    "medyan": 145,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Antalya_museum_Trajan_2_3127.jpg/1280px-Antalya_museum_Trajan_2_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6dc4d405bbbef122": {
    "icerik": {
@@ -41901,6 +42143,34 @@
      },
      "t": "2026-11-08T14:04:07+03:00"
     },
+    "r1:afeeb5fe5c41:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf futbol haberiyle tamamen ilgisiz tarım işçilerini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "futbolcu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "Fildişi Sahilleri forması"
+      ]
+     },
+     "t": "2026-11-10T11:06:50+03:00"
+    },
     "r1:b24d779b6d78:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -41953,7 +42223,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-09T22:36:16+03:00",
+   "t": "2026-11-10T11:06:50+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -41968,6 +42238,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8637a36b951cee1f": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     0,
+     969,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mimari çizim",
+     "sütun",
+     "cephe planı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antik tiyatro sahne binasının çizim planı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mimarlık haberi",
+     "arkeoloji haberi",
+     "tarihi yapı haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sürdürülebilirlik ödül töreni",
+     "ekonomi haberi",
+     "güncel politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir antik tiyatro mimari çizimidir, sürdürülebilirlik ödül töreni haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "ödül töreni sahnede",
+        "var": false
+       },
+       {
+        "unsur": "ödül alanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:08:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "724f0f0f0e17ee69",
+    "sha": "9c936fe9f86df97df3da00eb"
+   },
+   "t": "2026-11-10T11:08:09+03:00",
+   "teknik": {
+    "doygunluk": 7.9,
+    "inen": [
+     500,
+     314
+    ],
+    "karanlik_oran": 0.004,
+    "keskinlik": 3337,
+    "kontrast": 42,
+    "medyan": 203,
+    "parlaklik": 193,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Antalya_museum_Perge_theatre_stage_building_reconstruction_5669.jpg/1280px-Antalya_museum_Perge_theatre_stage_building_reconstruction_5669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "86b0f79743533a14": {
    "icerik": {
@@ -62776,6 +63137,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuel_pumps_at_a_Pilot_Flying_J_gas_station_in_Cleveland%2C_Tennessee.jpg/1280px-Fuel_pumps_at_a_Pilot_Flying_J_gas_station_in_Cleveland%2C_Tennessee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "caf710a30910f7ca": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     10,
+     1000,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mermer heykel",
+     "kabartma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mermer heykel detayı, ortada figür ve iki yanda hayvan figürleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih haberi",
+     "müze haberi",
+     "arkeoloji haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sürdürülebilirlik ödül töreni",
+     "ekonomi haberi",
+     "güncel politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      218,
+      439,
+      584,
+      691
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf ödül töreni yerine antik bir heykel detayını göstermektedir, haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "ödül töreni sahnede",
+        "var": false
+       },
+       {
+        "unsur": "ödül alanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:08:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "193732164323338b",
+    "sha": "0a291348947b204f53217d04"
+   },
+   "t": "2026-11-10T11:08:09+03:00",
+   "teknik": {
+    "doygunluk": 35.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 250,
+    "kontrast": 29,
+    "medyan": 122,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Antalya_museum_Trajan_2_4855.jpg/1280px-Antalya_museum_Trajan_2_4855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cafbab112c1ef516": {
    "icerik": {
     "ana_kutu": [
@@ -75981,6 +76439,34 @@
      },
      "t": "2026-11-08T14:04:07+03:00"
     },
+    "r1:afeeb5fe5c41:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf futbolcu ve sporla tamamen ilgisiz bir kırsal hasat sahnesidir.",
+      "gerekli": [
+       {
+        "unsur": "futbolcu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "Fildişi Sahilleri forması"
+      ]
+     },
+     "t": "2026-11-10T11:06:50+03:00"
+    },
     "r1:b24d779b6d78:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -76033,7 +76519,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-09T22:36:16+03:00",
+   "t": "2026-11-10T11:06:50+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -78039,6 +78525,83 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg/1280px-India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fa0e3684c86bdb21": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mermer heykel",
+     "zırh kabartması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Zırhlı mermer heykel detayı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "ödül töreni",
+     "iş dünyası",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'daki ödül töreni haberi için müze heykeli görseli tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d250707060e0602",
+    "sha": "4b7aadce2ae54088042f98af"
+   },
+   "t": "2026-11-10T11:07:47+03:00",
+   "teknik": {
+    "doygunluk": 33.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 805,
+    "kontrast": 52,
+    "medyan": 120,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Antalya_museum_Trajan_2_4853.jpg/1280px-Antalya_museum_Trajan_2_4853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fac447687099d250": {
    "ozet": {
     "dh": "d934b4a34366edf9",
@@ -78789,6 +79352,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "fcb7304656dd9d63": {
+   "icerik": {
+    "ana_kutu": [
+     115,
+     180,
+     885,
+     755
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ödül",
+     "bakır örgü",
+     "siyah taban"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bakır, cam ve plastikten yapılmış yelken formunda bir ödül nesnesi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ödül töreni haberi",
+     "başarı haberi",
+     "sanat tasarımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b9d14ba5a612:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ödül töreni haberi için temsilî bir ödül objesi sunmaktadır ancak törenin kendisini veya kazananları göstermez.",
+      "gerekli": [
+       {
+        "unsur": "ödül töreni sahnede, ödül alanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       115,
+       180,
+       885,
+       755
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T11:08:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1a79613131f1d919",
+    "sha": "fc1f9af2c0735cdd9d48ca83"
+   },
+   "t": "2026-11-10T11:08:09+03:00",
+   "teknik": {
+    "doygunluk": 7.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.051,
+    "keskinlik": 897,
+    "kontrast": 65,
+    "medyan": 238,
+    "parlaklik": 204,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Award%2C_music_%28AM_2019.4.16-5%29.jpg/1280px-Award%2C_music_%28AM_2019.4.16-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fdcea8e619193134": {
    "icerik": {
