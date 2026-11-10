@@ -37573,6 +37573,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg/1280px-Mohamed_Salah_Argentina_v_Egypt_7_July_2026-163_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "73bad0ab471df61d": {
+   "icerik": {
+    "ana_kutu": [
+     81,
+     292,
+     592,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "seramik kap",
+     "bilgi levhası",
+     "vitrin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen zoomorfik tipte seramik kap ve açıklama levhası",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze sergisi",
+     "sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "günlük yaşam"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4bc760853133:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sergilenen seramik replikaları temsil eder ancak sunum anı ve konuşmacı yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       },
+       {
+        "unsur": "sunum salonu",
+        "var": false
+       },
+       {
+        "unsur": "seramik objeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       81,
+       292,
+       929,
+       891
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T19:38:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4151313371686262",
+    "sha": "926f52f2ab247a96240b5f9f"
+   },
+   "t": "2026-11-10T19:38:13+03:00",
+   "teknik": {
+    "doygunluk": 8.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.114,
+    "keskinlik": 874,
+    "kontrast": 54,
+    "medyan": 143,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_Zoomorphic_Vessel_Displayed_Here.jpg/1280px-Museum_Zoomorphic_Vessel_Displayed_Here.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "73d2de3b4980eb97": {
    "icerik": {
     "ana_kutu": [
@@ -58440,6 +58540,107 @@
    },
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "b012f1144e0b617c": {
+   "icerik": {
+    "ana_kutu": [
+     257,
+     695,
+     591,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "seramik kap",
+     "vitrin",
+     "taş eser",
+     "çömlek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen arkeolojik çanak çömlek ve objeler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "müze sergisi",
+     "tarihi eser haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "günlük olay",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4bc760853133:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki seramik sergisini temsil eden müze vitrini gösteriliyor ancak sunum ve konuşmacı eksik.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       },
+       {
+        "unsur": "sunum salonu",
+        "var": false
+       },
+       {
+        "unsur": "seramik objeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       115,
+       804,
+       891
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T19:38:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "961e962606171107",
+    "sha": "d66e273058592643c7ca9c8f"
+   },
+   "t": "2026-11-10T19:38:13+03:00",
+   "teknik": {
+    "doygunluk": 20.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.044,
+    "keskinlik": 991,
+    "kontrast": 47,
+    "medyan": 102,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Neolithic_clay%2C_stone_and_bone_artifacts_from_Thessaly%2C_NAMA%2C_191066.jpg/1280px-Neolithic_clay%2C_stone_and_bone_artifacts_from_Thessaly%2C_NAMA%2C_191066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b0b9349b6aadf510": {
    "icerik": {
     "ana_kutu": [
@@ -69234,6 +69435,130 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1763751626859-3fbfb6735fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c3RhZGl1bSUyMGdhdGUlMjBmbG9yYWwlMjBhcnJhbmdlbWVudHxlbnwxfDB8fHwxNzk0MTQzMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "cfe08e49040a1e2a": {
+   "icerik": {
+    "ana_kutu": [
+     241,
+     28,
+     835,
+     951
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "kumsal",
+     "futbol forması",
+     "futbol topu",
+     "teknik direktör",
+     "futbolcu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsal zemin üzerinde kırmızı ve sarı formalar giymiş erkek futbol takımı oyuncuları ve teknik heyet",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "futbol maçı",
+     "erkek futbol takımı",
+     "plaj futbolu"
+    ],
+    "uygunsuz_baglamlar": [
+     "kadın futbol takımı",
+     "milli maç",
+     "basketbol"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      253,
+      76,
+      426,
+      137
+     ],
+     [
+      244,
+      153,
+      755,
+      260
+     ],
+     [
+      258,
+      252,
+      439,
+      361
+     ],
+     [
+      270,
+      353,
+      422,
+      463
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:64ec9d75c26c:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kadın futbol milli takımı ile ilgiliyken fotoğrafta erkek futbol takımı yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "kadın futbolcular",
+        "var": false
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       },
+       {
+        "unsur": "futbol topu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "erkek futbol takımı"
+      ]
+     },
+     "t": "2026-11-10T19:38:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "414b6b694a7bf672",
+    "sha": "10166d617679e94ad05ce134"
+   },
+   "t": "2026-11-10T19:38:29+03:00",
+   "teknik": {
+    "doygunluk": 34.9,
+    "inen": [
+     1000,
+     750
+    ],
+    "karanlik_oran": 0.044,
+    "keskinlik": 1556,
+    "kontrast": 65,
+    "medyan": 161,
+    "parlaklik": 158,
+    "s": "t1"
+   },
+   "url": "/images/kurum/3054547035eb8d0a.jpg"
   },
   "d01fc5688f0dedea": {
    "t": "2026-11-08T13:11:35+03:00",
