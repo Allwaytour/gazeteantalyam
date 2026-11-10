@@ -1727,6 +1727,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Spice_Bazaar%2C_Istanbul_-_2014.10.23_%2811%29.JPG/1280px-Spice_Bazaar%2C_Istanbul_-_2014.10.23_%2811%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "08dfca6c6736ec0b": {
+   "ozet": {
+    "dh": "13130f9225131a25",
+    "sha": "7f2e6e9fec09d7f9e96f0d1d"
+   },
+   "t": "2026-11-10T09:37:38+03:00",
+   "teknik": {
+    "doygunluk": 20.4,
+    "inen": [
+     500,
+     351
+    ],
+    "karanlik_oran": 0.907,
+    "keskinlik": 1001,
+    "kontrast": 37,
+    "medyan": 10,
+    "parlaklik": 22,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/140506-D-HU462-129_%2814190837343%29.jpg/1280px-140506-D-HU462-129_%2814190837343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "090a31d44a2ee198": {
    "icerik": {
     "ana_kutu": [
@@ -9284,6 +9305,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Modern_State_Highway_sign.JPG/1280px-Modern_State_Highway_sign.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1f49ec9ae0f0386d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki erkek el sıkışıyor, arkalarında mermer duvar var.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "toplantı haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "mahkeme haberleri",
+     "adliye haberleri",
+     "suç haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      15,
+      314,
+      281,
+      554
+     ],
+     [
+      328,
+      332,
+      997,
+      824
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d17296587cee:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yabancı siyasetçiler el sıkışmaktadır, Alanya'daki bir mahkeme haberiyle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:37:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "636372e4e4d49616",
+    "sha": "53d92c5603414023fc9ea3cb"
+   },
+   "t": "2026-11-10T09:37:41+03:00",
+   "teknik": {
+    "doygunluk": 17.6,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.431,
+    "keskinlik": 669,
+    "kontrast": 56,
+    "medyan": 85,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/160428-D-DT527-023_%2826669360456%29.jpg/1280px-160428-D-DT527-023_%2826669360456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1f54ce6b704763b8": {
    "icerik": {
     "ana_kutu": [
@@ -13208,6 +13328,36 @@
      },
      "t": "2026-11-08T20:33:32+03:00"
     },
+    "r1:dba873c695d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kruvaziyer gemi ve liman görülüyor, spor tesisi ve sporcular yok.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:36:34+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -13299,7 +13449,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-09T19:35:26+03:00",
+   "t": "2026-11-10T09:36:34+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -20558,6 +20708,115 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg/1280px-Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4294d5af79c23640": {
+   "icerik": {
+    "ana_kutu": [
+     510,
+     0,
+     914,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "pankart",
+     "bina",
+     "grup insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina önünde pankart tutan gönüllü kan bağışı grubu ve yetkililer.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kan bağışı",
+     "gönüllü kampanyası",
+     "sağlık kurumu"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      558,
+      2,
+      882,
+      70
+     ],
+     [
+      558,
+      77,
+      856,
+      149
+     ],
+     [
+      555,
+      143,
+      851,
+      222
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:57af08fcbc5f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı kampanyası grubu gösteriliyor ancak tabeladaki yabancı yazı farklı bir ülkede çekildiğini belli ediyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       510,
+       0,
+       914,
+       990
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "trafik kazası",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-10T09:37:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b2b296aaa28d0b67",
+    "sha": "23ecbb15c353dc5c501b3d25"
+   },
+   "t": "2026-11-10T09:37:22+03:00",
+   "teknik": {
+    "doygunluk": 19.4,
+    "inen": [
+     500,
+     348
+    ],
+    "karanlik_oran": 0.182,
+    "keskinlik": 3989,
+    "kontrast": 73,
+    "medyan": 123,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Blood_donation_by_members_of_the_Iranian_Red_Crescent_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "429e0cce458d773a": {
    "icerik": {
     "ana_kutu": [
@@ -24289,6 +24548,101 @@
    },
    "url": "https://images.unsplash.com/photo-1775247010643-d61fb959dd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2hhcml0eSUyMHdhbGslMjBvcmFuZ2UlMjB0aGVtZXxlbnwxfDB8fHwxNzk0MTU1NzM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "4ed71f6e4226478f": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     206,
+     680,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "kalabalık",
+     "sokak",
+     "kan bağışı aracı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta kan bağışı yapmak için sırada bekleyen kalabalık insan grubu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kan bağışı",
+     "yardım kampanyası",
+     "toplumsal etkinlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "finans"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:57af08fcbc5f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı için sırada bekleyen insanları gösteren uygun bir etkinlik karesi.",
+      "gerekli": [
+       {
+        "unsur": "Kızılay kan bağışı alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       206,
+       680,
+       930
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "trafik kazası",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-10T09:37:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f1959ccc4131091",
+    "sha": "eacc0ed54749d2bab0c663c3"
+   },
+   "t": "2026-11-10T09:37:22+03:00",
+   "teknik": {
+    "doygunluk": 22.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.309,
+    "keskinlik": 3754,
+    "kontrast": 67,
+    "medyan": 85,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Blood_donors_in_%C4%B0zmir_after_the_earthquake_in_Turkey.jpg/1280px-Blood_donors_in_%C4%B0zmir_after_the_earthquake_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4f5054dc55e39d42": {
    "icerik": {
     "ana_kutu": [
@@ -26060,6 +26414,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg/1280px-T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "551b9ec8cab89a68": {
+   "icerik": {
+    "ana_kutu": [
+     447,
+     396,
+     725,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "otobüs",
+     "spor tesisi",
+     "asfalt yol",
+     "çimenlik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Spor tesisinin önünde duran renkli bir otobüs",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor tesisi",
+     "ulaşım",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dba873c695d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta spor tesisi var ancak ana odak yabancı bir otobüs ve sporcular görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:37:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cfdbdaba873237ff",
+    "sha": "2fc3094a24526a81b0152ed6"
+   },
+   "t": "2026-11-10T09:37:03+03:00",
+   "teknik": {
+    "doygunluk": 27.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.153,
+    "keskinlik": 1195,
+    "kontrast": 73,
+    "medyan": 125,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Stagecoach_Enviro_NK11_BGX_27739_-_North_Greenwich_gymnasts_training_facility_%287721546652%29.jpg/1280px-Stagecoach_Enviro_NK11_BGX_27739_-_North_Greenwich_gymnasts_training_facility_%287721546652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5526a1445f7b90e8": {
    "icerik": {
@@ -31332,6 +31778,27 @@
     "s": "t1"
    },
    "url": "/images/kurum/6343dd8a0858ecb6.jpg"
+  },
+  "68e0e88cc67c6e21": {
+   "ozet": {
+    "dh": "60090f0f0f0f2860",
+    "sha": "2a9bf839fc4a814c748b997e"
+   },
+   "t": "2026-11-10T09:37:10+03:00",
+   "teknik": {
+    "doygunluk": 80.6,
+    "inen": [
+     400,
+     78
+    ],
+    "karanlik_oran": 0.856,
+    "keskinlik": 632,
+    "kontrast": 28,
+    "medyan": 3,
+    "parlaklik": 15,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1770723965399-cbdbc01b2619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z2l2aW5nJTIwYmxvb2QlMjBSZWQlMjBDcmVzY2VudHxlbnwxfDB8fHwxNzk0MjkyNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "693c2c72e26a0e92": {
    "icerik": {
@@ -38075,6 +38542,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1659318006095-4d44845f3a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGlja2xlYmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTQxMjY4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "7f2a7487b0e2816d": {
+   "ozet": {
+    "dh": "fbd7d3c30f3f8fda",
+    "sha": "4bacfa9f403719c1c3e3dc23"
+   },
+   "t": "2026-11-10T09:37:38+03:00",
+   "teknik": {
+    "doygunluk": 35.8,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.674,
+    "keskinlik": 967,
+    "kontrast": 47,
+    "medyan": 22,
+    "parlaklik": 42,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/151209-D-HU462-107_%2823682327882%29.jpg/1280px-151209-D-HU462-107_%2823682327882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7f45142e894fb469": {
    "t": "2026-11-08T14:37:51+03:00",
@@ -46717,6 +47205,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "99e5a22da15b0e91": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     75,
+     854,
+     888
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "otobüs",
+     "sokak lambası",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta park halinde duran renkli giydirilmiş halk otobüsü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ulaşım",
+     "otobüs seferleri",
+     "şehir içi ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor turizmi",
+     "altyapı",
+     "belediyespor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:dba873c695d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta otobüs yer almaktadır, haberdeki spor turizmi hedefiyle ve spor tesisleriyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:36:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3333333650b4fc7c",
+    "sha": "dbbbdab5b173990a3b450c4d"
+   },
+   "t": "2026-11-10T09:37:03+03:00",
+   "teknik": {
+    "doygunluk": 35.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.299,
+    "keskinlik": 2266,
+    "kontrast": 74,
+    "medyan": 98,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Stagecoach_Enviro_NK11_BGX_27739_-_Greenwich_Academy_gymnasts_training_facility_%287721544420%29.jpg/1280px-Stagecoach_Enviro_NK11_BGX_27739_-_Greenwich_Academy_gymnasts_training_facility_%287721544420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9aa43f45871a3059": {
    "icerik": {
     "ana_kutu": [
@@ -54847,6 +55427,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Muhittin_B%C3%B6cek_2.png/1280px-Muhittin_B%C3%B6cek_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b5900d9f7a1a497f": {
+   "icerik": {
+    "ana_kutu": [
+     313,
+     366,
+     1000,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "halter",
+     "ağırlık sehpası",
+     "spor salonu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Spor salonunda halter çalışması yapan sporcu.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor turizmi",
+     "antrenman haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      320,
+      467,
+      521,
+      563
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dba873c695d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Spor salonu ve sporcu temalı temsilî bir antrenman görseli.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       313,
+       366,
+       1000,
+       730
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:36:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4e62333415119233",
+    "sha": "52f55663cdc71689118c5d53"
+   },
+   "t": "2026-11-10T09:36:34+03:00",
+   "teknik": {
+    "doygunluk": 16.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 2523,
+    "kontrast": 64,
+    "medyan": 154,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Training_of_Paralympic_athletes_from_Azerbaijan_in_Paris_before_2024_Summer_Paralympics_2.jpg/1280px-Training_of_Paralympic_athletes_from_Azerbaijan_in_Paris_before_2024_Summer_Paralympics_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b5da03a28525922a": {
    "icerik": {
     "ana_kutu": [
@@ -59345,6 +60025,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Therapeutic_horseback_riding_1.JPG/1280px-Therapeutic_horseback_riding_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c67a2791c404bec7": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     950,
+     500
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kan torbası",
+     "serum hortumu",
+     "klinik duvarı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Klinik ortamda asılı kan torbası ve serum hortumu",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sağlık haberleri",
+     "kan bağışı",
+     "tıp"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:57af08fcbc5f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı haberini temsil eden uygun bir klinik kan torbası görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kan bağışı sedyesi",
+        "var": false
+       },
+       {
+        "unsur": "Kızılay kan bağışı alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       950,
+       500
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:37:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "27eecfefcfe7a567",
+    "sha": "8858f266096bb00ffb8f847d"
+   },
+   "t": "2026-11-10T09:37:30+03:00",
+   "teknik": {
+    "doygunluk": 9.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 316,
+    "kontrast": 47,
+    "medyan": 203,
+    "parlaklik": 186,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1683791895200-201c0c40310f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cmVkJTIwY3Jvc3MlMjBibG9vZCUyMGJhZyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDI5MjY0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c6b6dd510f0243bd": {
    "icerik": {
@@ -64571,6 +65347,118 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Antalya_Lisesi.JPG/1280px-Antalya_Lisesi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d90e5c25e9bc8919": {
+   "icerik": {
+    "ana_kutu": [
+     255,
+     513,
+     993,
+     695
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "halter",
+     "ağırlık sehpası",
+     "spor salonu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Spor salonunda halter çalışması yapan sporcu ve antrenörler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor turizmi",
+     "antrenman haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      261,
+      558,
+      360,
+      613
+     ],
+     [
+      479,
+      203,
+      524,
+      238
+     ],
+     [
+      581,
+      1,
+      646,
+      51
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dba873c695d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Spor tesisi ve sporcu unsurlarını içeren uygun bir temsilî antrenman görseli.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       255,
+       513,
+       993,
+       695
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:36:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "241c58682a484a42",
+    "sha": "9c682a0907fc56d9ce5f1ec7"
+   },
+   "t": "2026-11-10T09:36:34+03:00",
+   "teknik": {
+    "doygunluk": 12.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.203,
+    "keskinlik": 3412,
+    "kontrast": 71,
+    "medyan": 128,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Training_of_Paralympic_athletes_from_Azerbaijan_in_Paris_before_2024_Summer_Paralympics_5.jpg/1280px-Training_of_Paralympic_athletes_from_Azerbaijan_in_Paris_before_2024_Summer_Paralympics_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d926f643e6963c1c": {
    "icerik": {
     "ana_kutu": null,
@@ -68266,6 +69154,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_Your_Stripes_change_in_temperature_graphic_for_Antalya%2C_Turkey_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Antalya%2C_Turkey_with_labels.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e459966f2c0aeeb3": {
+   "icerik": {
+    "ana_kutu": [
+     152,
+     439,
+     994,
+     712
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "kan bağışı sedyesi",
+     "tıbbi atık kutusu",
+     "tıbbi ekipman"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kan bankası merkezinde bağış yapan kişilerin bulunduğu klinik ortamı.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kan bağışı",
+     "sağlık merkezi",
+     "plazma bağışı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      152,
+      517,
+      360,
+      617
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:57af08fcbc5f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı merkezini göstermesi açısından uygun ancak yabancı kaynaklı bir iç mekan.",
+      "gerekli": [
+       {
+        "unsur": "kan bağışı sedyesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       152,
+       439,
+       994,
+       712
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "trafik kazası",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-10T09:37:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4fdadbf8ba9b9b21",
+    "sha": "ff553599bcc93513384cef4c"
+   },
+   "t": "2026-11-10T09:37:22+03:00",
+   "teknik": {
+    "doygunluk": 36.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.201,
+    "keskinlik": 1721,
+    "kontrast": 74,
+    "medyan": 138,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Steven_Cateris_at_Red_Cross_Blood_Bank_%286014638396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "e495b2a8d1436449": {
    "icerik": {
     "ana_kutu": [
@@ -71298,6 +72288,101 @@
    },
    "url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwYW5kJTIwZnJ1aXQlMjBwcmljZXN8ZW58MXwwfHx8MTc5MzY1NDg2NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "ef8307cfe1b26cb6": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     15,
+     917,
+     989
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kan bağışı ekip aracı",
+     "kamyonet",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Türk Kızılay kan bağışı ekip aracı dışarıda park halindedir.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kan bağışı",
+     "Kızılay faaliyetleri",
+     "sağlık kampanyaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "trafik kazası",
+     "spor müsabakası",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:57af08fcbc5f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kızılay kan bağışı aracı kampanya haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Kızılay kan bağışı alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       267,
+       15,
+       917,
+       989
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "trafik kazası",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-10T09:37:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e66643870397acc3",
+    "sha": "0b0a0fb8438999f9a79174d6"
+   },
+   "t": "2026-11-10T09:37:22+03:00",
+   "teknik": {
+    "doygunluk": 27.6,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.373,
+    "keskinlik": 2259,
+    "kontrast": 71,
+    "medyan": 98,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bloodmobile_TurkishRedCrescentSociety_Teknofest2019.jpg/1280px-Bloodmobile_TurkishRedCrescentSociety_Teknofest2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "efa493453fe2881b": {
    "icerik": {
     "ana_kutu": [
@@ -73334,6 +74419,126 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Soviet_Pioneer_white_dress_uniform_in_Moscow_State_Historical_Museum.jpg/1280px-Soviet_Pioneer_white_dress_uniform_in_Moscow_State_Historical_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f4799dc1ecbc4e33": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     0,
+     850,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "futbol sahası",
+     "futbol topu",
+     "hakem",
+     "futbolcu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil sahada maç öncesi sıralanan iki futbol takımı ve hakemler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "futbol haberi",
+     "spor kulübü haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      449,
+      13,
+      513,
+      50
+     ],
+     [
+      454,
+      87,
+      517,
+      124
+     ],
+     [
+      427,
+      212,
+      490,
+      243
+     ],
+     [
+      423,
+      285,
+      483,
+      317
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dba873c695d9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kulübe ait eski bir futbol maçı karesi, spor tesisi ve sporcu unsurlarını karşılıyor.",
+      "gerekli": [
+       {
+        "unsur": "spor tesisi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       0,
+       850,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T09:36:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "292eb34f4b602d25",
+    "sha": "cb428d605449f6d28d4bc185"
+   },
+   "t": "2026-11-10T09:36:34+03:00",
+   "teknik": {
+    "doygunluk": 58.3,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 1643,
+    "kontrast": 40,
+    "medyan": 136,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Alanyacankiri_003.jpg/1280px-Alanyacankiri_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f487ac0f4869565f": {
    "ozet": {
