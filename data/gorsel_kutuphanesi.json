@@ -12130,6 +12130,94 @@
    },
    "url": "https://images.unsplash.com/photo-1602968407815-5963b28c66af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwY2hlc3Nib2FyZCUyMHBpZWNlcyUyMGNsb3NlfGVufDF8MHx8fDE3OTQxMzgxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "24abdfafb9fca04f": {
+   "icerik": {
+    "ana_kutu": [
+     45,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Bir kişinin vesikalık tarzında portre çekimi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "haber portreleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      45,
+      275,
+      560,
+      610
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fe943d4e8430:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın nötr arşiv portresi, haberin ana kişisini tanıtmak için en uygun görseldir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       45,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T18:38:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c9c6063e0cc1595",
+    "sha": "b2191efa3c1376511ac85137"
+   },
+   "t": "2026-11-10T18:38:55+03:00",
+   "teknik": {
+    "doygunluk": 27.3,
+    "inen": [
+     500,
+     556
+    ],
+    "karanlik_oran": 0.066,
+    "keskinlik": 1093,
+    "kontrast": 69,
+    "medyan": 169,
+    "parlaklik": 152,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "254ab75b96daa92d": {
    "icerik": {
     "ana_kutu": null,
@@ -24339,6 +24427,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Mars_Greenhouse.jpg/1280px-Mars_Greenhouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4a4623045564758f": {
+   "icerik": {
+    "ana_kutu": [
+     212,
+     112,
+     1000,
+     845
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kürsü",
+     "yazılı pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kürsüde yan yana duran iki kişi ve arkalarında etkinlik yazısı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "bakanlık faaliyetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      320,
+      200,
+      545,
+      300
+     ],
+     [
+      212,
+      645,
+      460,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fe943d4e8430:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın arşiv fotoğrafı olarak uygundur, ancak başka bir açılış törenine ait olduğu belirtilmelidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       212,
+       112,
+       1000,
+       845
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "şiddet"
+      ]
+     },
+     "t": "2026-11-10T18:38:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0305cddccccccccc",
+    "sha": "a575503f50d41781813a28e6"
+   },
+   "t": "2026-11-10T18:38:55+03:00",
+   "teknik": {
+    "doygunluk": 44.6,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 929,
+    "kontrast": 53,
+    "medyan": 156,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cumhurba%C5%9Fkan%C4%B1_Erdo%C4%9Fan_ve_Abdulkadir_Uralo%C4%9Flu_M11_Arnavutk%C3%B6y-Halkal%C4%B1_etab%C4%B1_a%C3%A7%C4%B1l%C4%B1%C5%9F_t%C3%B6reninde%2C_2026.jpg/1280px-Cumhurba%C5%9Fkan%C4%B1_Erdo%C4%9Fan_ve_Abdulkadir_Uralo%C4%9Flu_M11_Arnavutk%C3%B6y-Halkal%C4%B1_etab%C4%B1_a%C3%A7%C4%B1l%C4%B1%C5%9F_t%C3%B6reninde%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4a8ba429febc4cb5": {
    "icerik": {
     "ana_kutu": [
@@ -27778,6 +27966,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg/1280px-T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "54ffa57026472861": {
+   "icerik": {
+    "ana_kutu": [
+     95,
+     150,
+     1000,
+     860
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki kişinin tokalaştığı bir görüşme anı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "diplomasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      95,
+      200,
+      320,
+      350
+     ],
+     [
+      80,
+      600,
+      300,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fe943d4e8430:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın arşiv fotoğrafı olarak kullanılabilir ancak yabancı bir görüşmeye ait olduğu belirtilmelidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       95,
+       150,
+       1000,
+       860
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T18:38:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1d3514d4dcdcccd8",
+    "sha": "909461d81996e051a63a2eac"
+   },
+   "t": "2026-11-10T18:38:55+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.309,
+    "keskinlik": 838,
+    "kontrast": 72,
+    "medyan": 155,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Abdulkadir_Uraloglu_and_Oliv%C3%A9r_V%C3%A1rhelyi_25102023.jpg/1280px-Abdulkadir_Uraloglu_and_Oliv%C3%A9r_V%C3%A1rhelyi_25102023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "551b9ec8cab89a68": {
    "icerik": {
@@ -49593,6 +49877,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sergen_Yalcin.jpg/1280px-Sergen_Yalcin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "97f5fc14dc56ddd4": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     150,
+     1000,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bayrak"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Bir kişinin vesikalık tarzında portre çekimi, arka planda AB bayrağı.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "haber portreleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      30,
+      210,
+      550,
+      600
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fe943d4e8430:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın arşiv portresi olarak uygundur, ancak arka plandaki AB bayrağı farklı bir bağlam izlenimi verebilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       150,
+       1000,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T18:38:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "028d2c109194464e",
+    "sha": "569c2dd4751f91288e5ea023"
+   },
+   "t": "2026-11-10T18:38:55+03:00",
+   "teknik": {
+    "doygunluk": 32.9,
+    "inen": [
+     500,
+     668
+    ],
+    "karanlik_oran": 0.262,
+    "keskinlik": 1244,
+    "kontrast": 71,
+    "medyan": 142,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Abdulkadir_Uralo%C4%9Flu_in_Brussel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "981b08de6adc44c0": {
    "icerik": {
     "ana_kutu": [
@@ -59388,6 +59762,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg/1280px-TWM_Mobile_Internet_Voucher_Card_NTD499_20140905_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b53d24c14c562eca": {
+   "icerik": {
+    "ana_kutu": [
+     342,
+     452,
+     758,
+     778
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kürsü",
+     "mikrofon",
+     "yazılı pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kürsüde konuşma yapan bir kişi ve arkasında etkinlik yazısı bulunan bir sahne.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "bakanlık faaliyetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      342,
+      532,
+      565,
+      658
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fe943d4e8430:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın arşiv fotoğrafı olarak uygundur, ancak başka bir açılış törenine ait olduğu belirtilmelidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       342,
+       452,
+       758,
+       778
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "şiddet"
+      ]
+     },
+     "t": "2026-11-10T18:38:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e06399bd93c2733",
+    "sha": "5ecf39c474624ddf83dde80c"
+   },
+   "t": "2026-11-10T18:38:55+03:00",
+   "teknik": {
+    "doygunluk": 38.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 715,
+    "kontrast": 33,
+    "medyan": 140,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Abdulkadir_Uralo%C4%9Flu%2C_M11_Arnavutk%C3%B6y-Halkal%C4%B1_etab%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F_t%C3%B6reninde.jpg/1280px-Abdulkadir_Uralo%C4%9Flu%2C_M11_Arnavutk%C3%B6y-Halkal%C4%B1_etab%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F_t%C3%B6reninde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b54033e502b047d6": {
    "ozet": {
@@ -85198,6 +85667,63 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "24abdfafb9fca04f": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    1376,
+    1529
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bir kişinin vesikalık tarzında portre çekimi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-10T18:38:55+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Xavier Lejeune / Wikimedia Commons (CC BY 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 4.0",
+    "sahibi": "Xavier Lejeune",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Abdulkadir_Uralo%C4%9Flu_23062026_(cropped).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Abdulkadir Uraloğlu",
+      "qid": "Q97217596"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/500px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "siyaset",
+    "haber portreleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": true,
+   "qid": "Q97217596",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-10T18:38:55+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
