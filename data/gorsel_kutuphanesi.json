@@ -5035,6 +5035,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:100d17ce6d8c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf otobüs yerine Alanya deniz manzarasını gösterdiği için haberle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "otobüs içi",
+        "var": false
+       },
+       {
+        "unsur": "şemsiye tutan yolcu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T22:38:24+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -5069,7 +5099,11 @@
      "t": "2026-11-08T12:34:55+03:00"
     }
    },
-   "t": "2026-11-08T12:34:55+03:00",
+   "ozet": {
+    "dh": "1b23203830388903",
+    "sha": "e9c8d22e20d47961302a6a3e"
+   },
+   "t": "2026-11-10T22:38:24+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -68614,44 +68648,40 @@
      },
      "t": "2026-11-08T15:14:51+03:00"
     },
-    "r1:60d020c502bc:konu": {
+    "r1:5f6fd2e5edd2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Uluslararası bir toplantıyı ve müzakere masasını gösteriyor, COP31 zirvesi haberi için uygun.",
+      "gerekce": "Toplantı ve delege ortamını gösteriyor ancak yabancı ülke isimlikleri Antalya haberine kısmen yabancı kalıyor.",
       "gerekli": [
        {
-        "unsur": "zirve toplantı salonu",
+        "unsur": "konferans salonu",
         "var": true
        },
        {
-        "unsur": "uluslararası bayraklar",
-        "var": false
-       },
-       {
-        "unsur": "konferans masası",
+        "unsur": "toplantı",
         "var": true
        }
       ],
       "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
       "konu_kutusu": [
-       250,
-       110,
-       793,
-       874
+       287,
+       108,
+       796,
+       888
       ],
       "olay_gorunuyor": true,
-      "uygunluk": 8,
+      "uygunluk": 7,
       "yaniltici_donem": false,
-      "yaniltici_yer": false,
+      "yaniltici_yer": true,
       "yanlis_kisi": false,
       "yanlis_spor": false,
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T11:37:21+03:00"
+     "t": "2026-11-10T22:38:10+03:00"
     },
     "r1:61abc1a18f04:konu": {
      "d": {
@@ -68958,7 +68988,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-10T21:09:52+03:00",
+   "t": "2026-11-10T22:38:10+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
