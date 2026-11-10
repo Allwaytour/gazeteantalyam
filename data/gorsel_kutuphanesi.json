@@ -30909,9 +30909,41 @@
       "yasak": []
      },
      "t": "2026-11-08T12:39:20+03:00"
+    },
+    "r1:d7e0a0efec78:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf hastane haberiyle tamamen alakasız bir çocuk ve bisikletini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya Eğitim ve Araştırma Hastanesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta yüzleri"
+      ]
+     },
+     "t": "2026-11-10T14:38:26+03:00"
     }
    },
-   "t": "2026-11-08T17:05:09+03:00",
+   "ozet": {
+    "dh": "9717160b7929a1e0",
+    "sha": "5ca804cc1ac758245f9a39a7"
+   },
+   "t": "2026-11-10T14:38:26+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -35308,6 +35340,32 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:d7e0a0efec78:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'yı genel olarak gösterse de hastane binası net olarak seçilememektedir, sadece şehir manzara fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "Alanya Eğitim ve Araştırma Hastanesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T14:38:26+03:00"
+    },
     "r1:e0e4aced2d92:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -35375,7 +35433,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-09T19:35:26+03:00",
+   "t": "2026-11-10T14:38:26+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -41936,6 +41994,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/SunExpress_%28Dublin%29_in_2025.01.jpg/1280px-SunExpress_%28Dublin%29_in_2025.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "81cc3e32fa738212": {
+   "icerik": {
+    "ana_kutu": [
+     203,
+     76,
+     524,
+     982
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yelkenli yat",
+     "tekne",
+     "liman",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Liman içinde demirlemiş ahşap yelkenli yat ve arkasında binalar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "tekne turu haberi",
+     "liman haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "orman parkı ihalesi haberi",
+     "doğa koruma haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a0cf98789f4a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gerenlik Koyu'ndaki orman ve sahil yerine liman ve tekneler görülüyor, ayrıca yasak olan binalar var.",
+      "gerekli": [
+       {
+        "unsur": "orman",
+        "var": false
+       },
+       {
+        "unsur": "sahil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "bina"
+      ]
+     },
+     "t": "2026-11-10T14:37:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0e3b43072f46367c",
+    "sha": "776c23c151b54b6beb05ba5a"
+   },
+   "t": "2026-11-10T14:37:52+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     313
+    ],
+    "karanlik_oran": 0.06,
+    "keskinlik": 3640,
+    "kontrast": 62,
+    "medyan": 110,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg/1280px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "81d3e132575fec44": {
    "t": "2026-11-08T14:04:35+03:00",
