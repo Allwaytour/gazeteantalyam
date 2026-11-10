@@ -1,0 +1,80 @@
+---
+title: Cevdet Yilmaz ile Mali Basbakani Maiga Antalya'da Görüstü
+date: '2026-11-10T20:44:29+03:00'
+ozet: Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'daki COP31 Liderler Zirvesi kapsaminda Mali Basbakani Abdulaye Maiga ile bir araya geldi.
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+kategoriler:
+- Gündem
+ilceler: []
+etiketler:
+- Cevdet Yılmaz
+- Abdulaye Maiga
+onem: 4
+gorsel_tur: arsiv
+gorsel_secim:
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  konu_imza: 39fa2336eeb5
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  fotografci: Hendric Stattmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  cekim_yili: '2016'
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  durum: onaylandi
+  hat: t1
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cop31-expo-1
+    tarih: '2026-11-10T22:17:22+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Son Dakika
+kaynak_url: https://www.sondakika.com/politika/haber-mali-basbakani-maiga-ile-cevdet-yilmaz-antalya-da-20414988/
+gorsel_yedek: /images/haber-gorsel/20261110-cevdet-yilmaz-ile-mali-basbakani-maiga-antalyada-gorustu-4ada-fecbbac8.jpg
+gorsel_yerlesim:
+  boyut:
+  - 5200
+  - 3468
+  dikey: false
+  surum: y3
+  manset: kaplama
+  yan: true
+  kart: true
+  detay: true
+  kart_portre: false
+  yan_portre: false
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 68% 50%
+  o_mansetyan_m: 68% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 90%
+  o_kart_p: 70% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_gecmis: []
+---
+Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayisiyla Türkiye'de bulunan Mali Basbakani Abdulaye Maiga ile ikili bir görüstü gerçeklestirdi. 
+
+Görüsmede, Türkiye ile Mali arasindaki ticari ve ekonomik iliskilerin daha ileri bir seviyeye tasinmasi hedefleri ele alindi. Ayrica savunma, madencilik, enerji, altyapi ve egitim gibi çesitli sektörlerdeki ortak çalisma imkanlari masaya yatirildi.
+
+Liderler, iklim kriziyle mücadele sürecinde uluslararası dayanismanin artirilmasi gerektigine vurgu yaparken, görüsmede güncel bölgesel gelismeler de degerlendirildi.
