@@ -25810,6 +25810,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:03dd7e40fa80:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun otobüsü görülmektedir ancak idari görevden alma haberi için belediye binası veya ilgili makam gereklidir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Büyükşehir Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:37:48+03:00"
+    },
     "r1:18e2ab0b2f6a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -25999,9 +26025,34 @@
       "yasak": []
      },
      "t": "2026-11-08T15:16:05+03:00"
+    },
+    "r1:ea11c226870e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyeye ait bir otobüs, yönetim krizi ve görevden almalar haberiyle alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:39:30+03:00"
     }
    },
-   "t": "2026-11-08T17:34:37+03:00",
+   "ozet": {
+    "dh": "73ebf9e8cd406126",
+    "sha": "d8931e4eddd003b0aa7478e8"
+   },
+   "t": "2026-11-10T13:39:30+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -41886,6 +41937,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:03dd7e40fa80:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temizlik işçilerini gösteren bu kare, üst düzey yöneticilerin görevden alınması haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Büyükşehir Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:37:48+03:00"
+    },
     "r1:c1d4e65fac13:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -41960,6 +42037,29 @@
      },
      "t": "2026-11-08T15:16:05+03:00"
     },
+    "r1:ea11c226870e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf haberin konusuyla tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şahıs fotoğrafları"
+      ]
+     },
+     "t": "2026-11-10T13:39:30+03:00"
+    },
     "r1:f349768efe8f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -41987,7 +42087,11 @@
      "t": "2026-11-08T14:36:35+03:00"
     }
    },
-   "t": "2026-11-08T15:16:05+03:00",
+   "ozet": {
+    "dh": "8e9c9c8c372e0e06",
+    "sha": "fa13c1906ee564c928fd2ce5"
+   },
+   "t": "2026-11-10T13:39:30+03:00",
    "teknik": {
     "doygunluk": 16.4,
     "inen": [
@@ -70125,6 +70229,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:03dd7e40fa80:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski bir test otobüsünü göstermektedir, güncel yönetsel görevden alma haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Büyükşehir Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:37:48+03:00"
+    },
     "r1:8c02ac069380:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -70288,9 +70418,34 @@
       "yasak": []
      },
      "t": "2026-11-08T15:16:05+03:00"
+    },
+    "r1:ea11c226870e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye otobüsü fotoğrafı, yönetim tartışmaları ve görevden alma haberinin içeriğini yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:39:30+03:00"
     }
    },
-   "t": "2026-11-08T15:22:31+03:00",
+   "ozet": {
+    "dh": "1838381386d3f138",
+    "sha": "038e88e9c736a9010dd96835"
+   },
+   "t": "2026-11-10T13:39:30+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -76047,6 +76202,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:03dd7e40fa80:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı iç mekanını gösteren bu fotoğraf belediyedeki yönetim krizini yansıtmaz, tamamen yanlış bir mekandır.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Büyükşehir Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:37:48+03:00"
+    },
     "r1:08838d4110d8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -76111,13 +76292,34 @@
       "yasak": []
      },
      "t": "2026-11-08T12:07:44+03:00"
+    },
+    "r1:ea11c226870e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı iç mekan görüntüsü, belediye yönetim tartışmaları haberiyle tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:39:30+03:00"
     }
    },
    "ozet": {
     "dh": "370f179e9c1a1f1f",
     "sha": "699792197a5eb3c2acf3c559"
    },
-   "t": "2026-11-08T12:07:44+03:00",
+   "t": "2026-11-10T13:39:30+03:00",
    "teknik": {
     "doygunluk": 22.1,
     "inen": [
@@ -78617,6 +78819,37 @@
     ]
    },
    "iliski": {
+    "r1:03dd7e40fa80:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi başkandır ancak görevden alma olayını doğrudan göstermez, arşiv portresidir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Büyükşehir Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       390,
+       770,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:37:48+03:00"
+    },
     "r1:140089795e77:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -78697,9 +78930,39 @@
       ]
      },
      "t": "2026-11-08T14:41:40+03:00"
+    },
+    "r1:ea11c226870e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi makam odasında görülüyor ancak istifa/görevden alma olayını doğrudan yansıtmıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       396,
+       764,
+       597
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:39:30+03:00"
     }
    },
-   "t": "2026-11-08T15:18:32+03:00",
+   "ozet": {
+    "dh": "171757776969b192",
+    "sha": "d5776d0506c017725953784c"
+   },
+   "t": "2026-11-10T13:39:30+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -89355,7 +89618,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T11:38:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Cemilbocek / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -89397,7 +89660,7 @@
    "qid": "Q77566969",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-08T15:18:32+03:00",
+   "son_kabul": "2026-11-10T13:39:30+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
