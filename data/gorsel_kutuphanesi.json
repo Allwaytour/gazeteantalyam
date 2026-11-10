@@ -6306,6 +6306,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Wedding_rings_and_roses.jpg/1280px-Wedding_rings_and_roses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1486b57389e798fe": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     60,
+     918,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bilet",
+     "belge",
+     "yazı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "1926 tarihli Rusça piyango bileti belgesi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih",
+     "piyango",
+     "arsiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel haber",
+     "antalya",
+     "milli piyango"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski ve yabancı bir piyango belgesidir, güncel Milli Piyango haberiyle uyuşmaz.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9494c8c8f8c2c492",
+    "sha": "97a2db0b4e9e0d7daa3da1da"
+   },
+   "t": "2026-11-10T13:08:54+03:00",
+   "teknik": {
+    "doygunluk": 17.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1323,
+    "kontrast": 22,
+    "medyan": 229,
+    "parlaklik": 224,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%D0%91%D0%B8%D0%BB%D0%B5%D1%82_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%92%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BB%D0%BE%D1%82%D0%B5%D1%80%D0%B5%D0%B8_%D0%90%D0%B2%D0%B8%D0%B0%D1%85%D0%B8%D0%BC%D0%B0%2C_50_%D0%BA%D0%BE%D0%BF%D0%B5%D0%B5%D0%BA._%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F_%D0%B8_%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B8%D0%B3%D1%80%D1%8B%D1%88%D0%B5%D0%B9.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "14e213e7e05da956": {
    "icerik": {
     "ana_kutu": [
@@ -6599,6 +6690,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1560d9c70a3f4dbe": {
+   "icerik": {
+    "ana_kutu": [
+     471,
+     0,
+     1000,
+     843
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sokak lambasi",
+     "cicek",
+     "bina",
+     "lamba diregi",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Binalar ve sokak lambalari arasinda ciceklerle suslenmis park yolu gorunumu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kent rehberi",
+     "belediye calismalari",
+     "turizm tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim eylemi",
+     "yamaç paraşütü",
+     "havacilik faaliyetleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta eylem veya yamaç paraşütü bulunmamaktadır, yalnızca Antalya'da bir cadde görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraşütü",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "44248d9b1823a64d",
+    "sha": "3156bc22817f191a16a4deaf"
+   },
+   "t": "2026-11-10T13:08:18+03:00",
+   "teknik": {
+    "doygunluk": 29.5,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.139,
+    "keskinlik": 4051,
+    "kontrast": 56,
+    "medyan": 124,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mal%C3%BD_par%C4%8D%C3%ADk_mezi_domy_-_panoramio.jpg/1280px-Mal%C3%BD_par%C4%8D%C3%ADk_mezi_domy_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "157f039ecf99ae4f": {
    "t": "2026-11-08T13:42:36+03:00",
@@ -7146,6 +7330,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "18146e19cb2cd978": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     130,
+     950,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "piyango kuponu",
+     "sayı tablosu",
+     "kağıt"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eurojackpot piyango oyun kuponları yakın çekim.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "piyango",
+     "sans oyunlari",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "milli piyango",
+     "turkiye haberleri",
+     "antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki kuponlar yabancı bir şans oyununa (Eurojackpot) aittir, Türkiye'deki Milli Piyango ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3359164e0f5b5b6f",
+    "sha": "2db42ad321e93985469753cd"
+   },
+   "t": "2026-11-10T13:08:54+03:00",
+   "teknik": {
+    "doygunluk": 18.1,
+    "inen": [
+     400,
+     227
+    ],
+    "karanlik_oran": 0.033,
+    "keskinlik": 1417,
+    "kontrast": 40,
+    "medyan": 170,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1593453917438-14f60d0d2357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGFwZXIlMjBsb3R0ZXJ5JTIwdGlja2V0JTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MzA1MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "185dc4044b04816c": {
    "icerik": {
@@ -7896,6 +8171,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Antalya_beach_jgp.jpg/1280px-Antalya_beach_jgp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1a149a289fbc319d": {
+   "icerik": {
+    "ana_kutu": [
+     155,
+     106,
+     970,
+     844
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hurda at heykeli",
+     "çimen",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hurda metal parçalardan yapılmış at heykeli açık alanda duruyor",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "geri dönüşüm sergisi",
+     "sanat haberi",
+     "ileri dönüşüm heykelleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:70f5c9c9855f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İleri dönüşümle üretilen metal heykel sergi haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "geri dönüşüm heykel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       155,
+       106,
+       970,
+       844
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:07:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "eedacefeb5442020",
+    "sha": "b1224b097c0b10275a07ba53"
+   },
+   "t": "2026-11-10T13:07:17+03:00",
+   "teknik": {
+    "doygunluk": 28.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.153,
+    "keskinlik": 2189,
+    "kontrast": 63,
+    "medyan": 135,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Horse_Power.jpg/1280px-Horse_Power.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1a178ad91b039690": {
    "icerik": {
@@ -14581,6 +14948,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Seattle_-_Liberty_Building_01.jpg/1280px-Seattle_-_Liberty_Building_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2c20650107d32072": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "loto kuponu",
+     "takvim"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eurojackpot ve çeşitli loto kuponları",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şans oyunları",
+     "loto haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "milli piyango",
+     "antalya haberleri"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yabancı bir şans oyunu olan Eurojackpot biletleri yer almaktadır, milli piyango ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6d731c0e12cc9a13",
+    "sha": "4e6c24a4d3817415771cb924"
+   },
+   "t": "2026-11-10T13:08:33+03:00",
+   "teknik": {
+    "doygunluk": 13.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.018,
+    "keskinlik": 1823,
+    "kontrast": 35,
+    "medyan": 191,
+    "parlaklik": 179,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1593453917923-c3f751aab514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0MzA1MzA1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "2c44b53ddd79bada": {
    "icerik": {
@@ -29145,6 +29600,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Antalya_museum_Dionysus_from_theatre_3138.jpg/1280px-Antalya_museum_Dionysus_from_theatre_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5c546e650c0ad62d": {
+   "icerik": {
+    "ana_kutu": [
+     725,
+     470,
+     936,
+     521
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gunes",
+     "bulut",
+     "gokyuzu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gokyuzunde bulutlar ve batan gunesin olusturdugu manzara",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hava durumu",
+     "gun batimi",
+     "manzara haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim eylemi",
+     "yamaç paraşütü",
+     "eylem haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel yalnızca gökyüzü ve güneş manzaralıdır, haberdeki yamaç paraşütü eylemini yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraşütü",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1d0d0e071b070f0f",
+    "sha": "06ce1884468d71eefc3666ec"
+   },
+   "t": "2026-11-10T13:08:18+03:00",
+   "teknik": {
+    "doygunluk": 43.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 69,
+    "kontrast": 20,
+    "medyan": 106,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/M%C3%A2h_Y%C3%A2_%C5%9Eems_%2841115856%29.jpeg/1280px-M%C3%A2h_Y%C3%A2_%C5%9Eems_%2841115856%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5c5ebe30cb386316": {
    "icerik": {
     "ana_kutu": [
@@ -32076,6 +32622,27 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Christmarkt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "67d6fafaaf69c921": {
+   "ozet": {
+    "dh": "c6e633e9c5c86425",
+    "sha": "fd2e615924a905c38644fd04"
+   },
+   "t": "2026-11-10T13:07:13+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.463,
+    "keskinlik": 3176,
+    "kontrast": 56,
+    "medyan": 54,
+    "parlaklik": 69,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1793570666966-a433068a5076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVjeWNsZWQlMjBtZXRhbCUyMGFydCUyMHNjdWxwdHVyZXxlbnwxfDB8fHwxNzk0MzA1MjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "67f6cdb5b199b163": {
    "icerik": {
@@ -47081,6 +47648,96 @@
    },
    "url": "/images/kurum/b7be2d578d3c38a8.jpg"
   },
+  "95ca46bd6331867f": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     120,
+     960,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "piyango kuponu",
+     "sayı tablosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eurojackpot ve Super 6 piyango kuponları.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "piyango",
+     "sans oyunlari",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "milli piyango",
+     "turkiye haberleri",
+     "antalya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kuponlar yabancı bir piyango sistemine ait olup Türkiye'deki yılbaşı biletlerini temsil etmez.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3318cd0f1e0f8703",
+    "sha": "2144f233be2fe30c54ee275b"
+   },
+   "t": "2026-11-10T13:08:54+03:00",
+   "teknik": {
+    "doygunluk": 9.1,
+    "inen": [
+     400,
+     185
+    ],
+    "karanlik_oran": 0.007,
+    "keskinlik": 419,
+    "kontrast": 24,
+    "medyan": 158,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1593453917652-9bc01f9f9c2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cGFwZXIlMjBsb3R0ZXJ5JTIwdGlja2V0JTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MzA1MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "95f8e7c68b00ed8b": {
    "icerik": {
     "ana_kutu": [
@@ -47194,6 +47851,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Competition_Drag_Racing.jpg/1280px-Competition_Drag_Racing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "966febd4dd80327f": {
+   "icerik": {
+    "ana_kutu": [
+     303,
+     83,
+     513,
+     881
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ucak",
+     "pankart",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi gokyuzunde ucagin arkasina takili reklam pankarti",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "havacilik",
+     "reklam kampanyaları",
+     "gökyüzü gösterileri"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim eylemi",
+     "yamaç paraşütü",
+     "siyasi protesto"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pankart vardır ancak uçakla taşınmaktadır ve haberde belirtilen yamaç paraşütü eylemiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraşütü",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0000000302000000",
+    "sha": "b041967f07b4e1e048ca087e"
+   },
+   "t": "2026-11-10T13:08:18+03:00",
+   "teknik": {
+    "doygunluk": 78.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 76,
+    "kontrast": 31,
+    "medyan": 135,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1670615602571-c968749446c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Zmx5aW5nJTIwYmFubmVyJTIwcGFyYWdsaWRpbmd8ZW58MXwwfHx8MTc5NDMwNTI4OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "96d0f52aa33036e6": {
    "icerik": {
@@ -47859,6 +48607,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sergen_Yalcin.jpg/1280px-Sergen_Yalcin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "981b08de6adc44c0": {
+   "icerik": {
+    "ana_kutu": [
+     254,
+     467,
+     689,
+     781
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "yamaç paraşütü",
+     "bulut",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gokyuzunde ucan turuncu yamac parasutu ve pilotu",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yamaç paraşütü sporları",
+     "macera turizmi",
+     "havacilik faaliyetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi eylem",
+     "polis operasyonu",
+     "maç haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yamaç paraşütü görseli mevcuttur ancak pankart görünmemektedir, temsilî olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraşütü",
+        "var": true
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       254,
+       467,
+       689,
+       781
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d0b19043a9b8507",
+    "sha": "153c486852f9f35b6ccd9153"
+   },
+   "t": "2026-11-10T13:08:18+03:00",
+   "teknik": {
+    "doygunluk": 12.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 151,
+    "kontrast": 15,
+    "medyan": 216,
+    "parlaklik": 217,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1718991294877-bdb7ba174dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGFyYWdsaWRpbmclMjBiYW5uZXIlMjBza3l8ZW58MXwwfHx8MTc5NDMwNTI4Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "981dae1714eda3ae": {
    "icerik": {
@@ -50516,6 +51360,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a2472fb3bda0e496": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bilet",
+     "metin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski dönem Litvanya piyango bileti ön ve arka yüzü",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi piyango haberleri",
+     "koleksiyon",
+     "arşiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel milli piyango biletleri",
+     "Antalya bilet satış haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ve yabancı bir piyango bileti olduğu için güncel Antalya haberiyle tamamen çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cecccc8ceccc69e0",
+    "sha": "2b9ed6208aac1ae02caa3dcd"
+   },
+   "t": "2026-11-10T13:08:33+03:00",
+   "teknik": {
+    "doygunluk": 27.4,
+    "inen": [
+     500,
+     379
+    ],
+    "karanlik_oran": 0.099,
+    "keskinlik": 5030,
+    "kontrast": 53,
+    "medyan": 151,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ticket_of_the_first_Lithuanian_charity_lottery_with_Vytis_%28Waykimas%29%2C_1910s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "a265e6e9858e2a46": {
    "icerik": {
     "ana_kutu": [
@@ -50838,6 +51771,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1280px-Konya_Tropical_Butterfly_Garden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a2c5e635bb4ee152": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tekne",
+     "bina",
+     "duvar",
+     "çatı",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya liman ve Kaleiçi genel manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "Antalya tanıtımı",
+     "şehir manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "yamaç paraüzü eylemi",
+     "iklim krizi protestosu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yamaç paraüzü veya pankart bulunmuyor, sadece Antalya liman manzarası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraüzü",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c44023139bcccc2c",
+    "sha": "ba98425a82b7c06db404c2f9"
+   },
+   "t": "2026-11-10T13:08:02+03:00",
+   "teknik": {
+    "doygunluk": 22.0,
+    "inen": [
+     500,
+     71
+    ],
+    "karanlik_oran": 0.133,
+    "keskinlik": 5453,
+    "kontrast": 64,
+    "medyan": 101,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_banner.jpg/1280px-Antalya_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a313d17130bb7821": {
    "icerik": {
@@ -66252,6 +67277,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Side_Belediyesi%2C_Side-Manavgat-Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "d44782a5fc0a0594": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "dağ",
+     "sahil",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya sahil şeridi, deniz ve dağ manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "turizm haberi",
+     "coğrafi haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yamaç paraşütü eylemi",
+     "siyasi protesto",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:975ce09b684e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yalnızca Antalya manzarasını gösteriyor; yamaç paraşütü eylemi ve pankart yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "yamaç paraşütü",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fceceeeee5cfec8c",
+    "sha": "f749fb87248028f7b9a873db"
+   },
+   "t": "2026-11-10T13:08:02+03:00",
+   "teknik": {
+    "doygunluk": 23.2,
+    "inen": [
+     500,
+     71
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 1052,
+    "kontrast": 46,
+    "medyan": 151,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Antalya_Wikivoyage_banner.jpg/1280px-Antalya_Wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d503f335dc699ae8": {
    "icerik": {
     "ana_kutu": [
@@ -69833,6 +70950,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gallery_exhibition_%2813721585945%29.jpg/1280px-Gallery_exhibition_%2813721585945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e0fbc36349f66e77": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     466,
+     597,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kalem",
+     "kupon",
+     "el"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı kalemle kupon dolduran bir el",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "milli piyango haberleri",
+     "şans oyunları",
+     "bilet satışları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şans oyununu temsil eder ancak milli piyango bileti yerine kupon görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       137,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e4e1e71f3d279f9f",
+    "sha": "27541a0600d1f873ad688fe1"
+   },
+   "t": "2026-11-10T13:08:33+03:00",
+   "teknik": {
+    "doygunluk": 50.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.354,
+    "keskinlik": 1504,
+    "kontrast": 79,
+    "medyan": 110,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/1280px-Filling_lottery_ticket_20180215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e17e2422a68fc715": {
    "icerik": {
     "ana_kutu": [
@@ -73015,6 +74228,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Antalya_Side_Antik_Kent.jpg/1280px-Antalya_Side_Antik_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e8d4e5ae2a0abfa4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     90,
+     974,
+     885
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "hurda aslan heykeli",
+     "bina",
+     "kaldırım"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hurda ve metal parçalardan yapılmış büyük aslan heykeli sokakta sergileniyor",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ileri dönüşüm sergisi",
+     "sanat haberi",
+     "geri dönüşüm projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:70f5c9c9855f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hurda parçalardan üretilen heykel sergi haberinin içeriğini temsil eder.",
+      "gerekli": [
+       {
+        "unsur": "geri dönüşüm heykel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       90,
+       974,
+       885
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:07:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a1efd8a3ec6ce4d6",
+    "sha": "32f45b75df4a793e39586c20"
+   },
+   "t": "2026-11-10T13:07:17+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 5257,
+    "kontrast": 66,
+    "medyan": 121,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Art_design_from_recycle_raw_material.jpg/1280px-Art_design_from_recycle_raw_material.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e95feef20a5eddfb": {
    "icerik": {
     "ana_kutu": [
@@ -74413,6 +75718,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bloodmobile_TurkishRedCrescentSociety_Teknofest2019.jpg/1280px-Bloodmobile_TurkishRedCrescentSociety_Teknofest2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "efa0c1810de11392": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": true,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "piyango topları",
+     "çekiliş makinesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şans topu çekiliş makinesi ve renkli numaralı toplar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "çekiliş sonuçları",
+     "milli piyango",
+     "ikramiye haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "bilet satış haberi",
+     "fiyat açıklamaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:823631e20dd3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çekiliş anını gösterir ancak haber bilet satışıyla ilgilidir, ayrıca bilet görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "milli piyango bileti",
+        "var": false
+       },
+       {
+        "unsur": "yılbaşı biletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-10T13:08:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "91e9cdccb0a7cfcd",
+    "sha": "11ddcc2fe60434f93febbb4a"
+   },
+   "t": "2026-11-10T13:08:33+03:00",
+   "teknik": {
+    "doygunluk": 37.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.123,
+    "keskinlik": 226,
+    "kontrast": 64,
+    "medyan": 178,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1518688248740-7c31f1a945c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0MzA1MzA1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "efa493453fe2881b": {
    "icerik": {
@@ -87555,6 +88954,67 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T11:39:46+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "e8d4e5ae2a0abfa4": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3648,
+    2736
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2019-03-17",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Hurda ve metal parçalardan yapılmış büyük aslan heykeli sokakta sergileniyor",
+   "gosterim_ad": "ARTIK sergisi",
+   "ilk_kabul": "2026-11-10T13:07:17+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Thespiceoftravel / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Thespiceoftravel",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Art_design_from_recycle_raw_material.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bina",
+    "geri dönüşüm heykel",
+    "hurda aslan heykeli",
+    "kaldırım"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Art_design_from_recycle_raw_material.jpg/500px-Art_design_from_recycle_raw_material.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "ileri dönüşüm sergisi",
+    "sanat haberi",
+    "geri dönüşüm projeleri"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-10T13:07:17+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Art_design_from_recycle_raw_material.jpg/1280px-Art_design_from_recycle_raw_material.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
