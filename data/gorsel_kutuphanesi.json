@@ -1810,6 +1810,107 @@
    },
    "url": "https://images.unsplash.com/photo-1752497624150-17d6febd4199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QWxhbnlhJTIwZm9nfGVufDF8MHx8fDE3OTQzNDY2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "07352cefaf31502e": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     137,
+     723,
+     503
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "ucak enkazi",
+     "dalgic",
+     "balik",
+     "su alti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Su altinda batan ucagin enkazinda dalis yapan dalgiclar ve baliklar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "su alti dalisi",
+     "batik incelemesi",
+     "deniz turizmi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi anma",
+     "bayrak torenleri",
+     "haber bultenleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:11dbc36b35cc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ucak enkazi ve dalgiclar gorunuyor ancak Atatürk'u anma olayi ve bayrak acma eylemi yok.",
+      "gerekli": [
+       {
+        "unsur": "su altı dalgıçları",
+        "var": true
+       },
+       {
+        "unsur": "Türk bayrağı",
+        "var": false
+       },
+       {
+        "unsur": "Atatürk posteri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       611,
+       411,
+       955,
+       584
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T01:40:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c98da98de2c25367",
+    "sha": "b8a80c3042bf9e002fd5245a"
+   },
+   "t": "2026-11-11T01:40:13+03:00",
+   "teknik": {
+    "doygunluk": 97.4,
+    "inen": [
+     500,
+     275
+    ],
+    "karanlik_oran": 0.22,
+    "keskinlik": 267,
+    "kontrast": 24,
+    "medyan": 64,
+    "parlaklik": 64,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mustafabaykal.jpg/1280px-Mustafabaykal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "081f987ccb1dc8b6": {
    "icerik": {
     "ana_kutu": [
@@ -31483,6 +31584,97 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2016_Diyarbak%C4%B1r_Bombing_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "5a24f0cf90aca0d7": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     63,
+     764,
+     915
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sergi binası",
+     "çimenlik",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çim alan ve ağaçların önünde yer alan modern beton sergi binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari haberleri",
+     "kampüs yapıları",
+     "sergi salonu tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya fuar haberleri",
+     "ekonomi haberleri",
+     "tarım fuarı haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:805dc193df4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki yapı Antalya Growtech Fuarı'nın yapıldığı yer olmayıp yurt dışındaki bir sergi binasına aittir.",
+      "gerekli": [
+       {
+        "unsur": "fuar alanı",
+        "var": true
+       },
+       {
+        "unsur": "stantlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T01:37:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e3ffe97969c04903",
+    "sha": "10db0a48e52666b344fda2b4"
+   },
+   "t": "2026-11-11T01:37:48+03:00",
+   "teknik": {
+    "doygunluk": 25.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 5633,
+    "kontrast": 67,
+    "medyan": 135,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/NTU_Agricultural_Exhibition_Hall_20241124.jpg/1280px-NTU_Agricultural_Exhibition_Hall_20241124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5a8918daab826d95": {
    "icerik": {
@@ -73691,6 +73883,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/D%C3%BCden_Park..._-_panoramio.jpg/1280px-D%C3%BCden_Park..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d2e8ef824ae0e984": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     321,
+     513,
+     579
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "dalgic",
+     "tup",
+     "deniz tabani"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Su altinda yuzen iki dalgic ve deniz tabani goruntusu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "dalis haberleri",
+     "su alti sporlari",
+     "deniz kesifleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantilar",
+     "trafik kazalari",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:11dbc36b35cc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta su altı dalgıçları var ancak Türk bayrağı ve Atatürk posteri görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "su altı dalgıçları",
+        "var": true
+       },
+       {
+        "unsur": "Türk bayrağı",
+        "var": false
+       },
+       {
+        "unsur": "Atatürk posteri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       321,
+       513,
+       579
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T01:40:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0f0f2323211133",
+    "sha": "3043de18740524c77cc3493f"
+   },
+   "t": "2026-11-11T01:40:22+03:00",
+   "teknik": {
+    "doygunluk": 85.4,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 66,
+    "kontrast": 12,
+    "medyan": 112,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1657952099240-e0815c278147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dW5kZXJ3YXRlciUyMG1lbW9yaWFsJTIwZGl2ZSUyMHR1cmtleXxlbnwxfDB8fHwxNzk0MzUwNDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "d34f3d1a8b63a179": {
    "icerik": {
     "ana_kutu": [
@@ -80817,6 +81109,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1667967699372-1c26d40dec46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMGNoYW1waW9uc2hpcCUyMHRyb3BoeXxlbnwxfDB8fHwxNzk0MTI2NzkyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e78ff5c8e032c2c3": {
+   "icerik": {
+    "ana_kutu": [
+     226,
+     56,
+     755,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fuar binası",
+     "ağaç",
+     "çim alan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlar ve çim alan arasındaki modern mimari bir fuar sergi binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari haberleri",
+     "üniversite etkinlikleri",
+     "sergi merkezi tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya fuar haberleri",
+     "siyasi haberler",
+     "kenevir üretimi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:805dc193df4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina Antalya'daki ANFAŞ Fuar Merkezi değil, Tayvan'daki bir üniversite sergi binasıdır.",
+      "gerekli": [
+       {
+        "unsur": "fuar alanı",
+        "var": true
+       },
+       {
+        "unsur": "stantlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T01:37:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d796b7474b7b6f8d",
+    "sha": "eee419d14d13edb61711915e"
+   },
+   "t": "2026-11-11T01:37:48+03:00",
+   "teknik": {
+    "doygunluk": 24.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.113,
+    "keskinlik": 3268,
+    "kontrast": 63,
+    "medyan": 135,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NTU_Agricultural_Exhibition_Hall.JPG/1280px-NTU_Agricultural_Exhibition_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e807e665e6ad9fc1": {
    "icerik": {
