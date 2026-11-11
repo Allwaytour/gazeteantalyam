@@ -26114,6 +26114,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg/1280px-Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "41dca9422b452727": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plaket",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde dizilmiş çok sayıda ahşap plaket",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ödül töreni haberi",
+     "başarı ödülleri",
+     "kurumsal ödüller"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:82e7d4d8ef36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta ödül plaketleri görülmektedir; ihracat ödül töreni haberi için temsilî görsel olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "ödül töreni sahnesi",
+        "var": false
+       },
+       {
+        "unsur": "plaket",
+        "var": true
+       },
+       {
+        "unsur": "protokol",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T23:10:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3874e048c4a42848",
+    "sha": "f89b043afee32704df988f27"
+   },
+   "t": "2026-11-11T23:10:25+03:00",
+   "teknik": {
+    "doygunluk": 36.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 1954,
+    "kontrast": 59,
+    "medyan": 122,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Best_Places_To_Work_awards.jpg/1280px-Best_Places_To_Work_awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "421fca57757df506": {
    "icerik": {
     "ana_kutu": [
@@ -43851,6 +43949,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Election_room_at_Z%C5%A0_Ohradn%C3%AD_in_Michle%2C_Prague.jpg/1280px-Election_room_at_Z%C5%A0_Ohradn%C3%AD_in_Michle%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "71c6ddc9035a70e5": {
+   "icerik": {
+    "ana_kutu": [
+     190,
+     169,
+     878,
+     826
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sokak tabelası",
+     "bilgi levhası",
+     "direk",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı duvarda asılı sokak tabelası ve bilgi levhası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sokak ismi haberi",
+     "yerel yönetim haberi",
+     "tabela haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ihracat ödül töreni haberi",
+     "ekonomi haberi",
+     "ödül töreni haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:82e7d4d8ef36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir sokak tabelasını göstermektedir, ihracat ödül töreniyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "ödül töreni sahnesi",
+        "var": false
+       },
+       {
+        "unsur": "plaket",
+        "var": false
+       },
+       {
+        "unsur": "protokol",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T23:10:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f833239696de0d31",
+    "sha": "b53e5ffe13f6b72e5c256be2"
+   },
+   "t": "2026-11-11T23:10:25+03:00",
+   "teknik": {
+    "doygunluk": 40.0,
+    "inen": [
+     500,
+     481
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 5215,
+    "kontrast": 58,
+    "medyan": 138,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dr.-Wirth-Platz_20240929_HOF4635_RAW-Export.jpg/1280px-Dr.-Wirth-Platz_20240929_HOF4635_RAW-Export.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "71ffac03e3c94699": {
    "icerik": {
     "ana_kutu": [
@@ -48401,6 +48595,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Radar_screen.JPG/1280px-Radar_screen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7eb81c58b144541f": {
+   "ozet": {
+    "dh": "9b9f9d272c2f430f",
+    "sha": "42d3a8056b940e40559baf85"
+   },
+   "t": "2026-11-11T23:10:02+03:00",
+   "teknik": {
+    "doygunluk": 11.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.545,
+    "keskinlik": 1158,
+    "kontrast": 79,
+    "medyan": 42,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Baloola_-_Arabian_Business_trophy.JPG/1280px-Baloola_-_Arabian_Business_trophy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7ebfb1673d3d32f7": {
    "icerik": {
@@ -103367,6 +103582,64 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T13:41:22+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "41dca9422b452727": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2048,
+    1536
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2013-07-31",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Masa üzerinde dizilmiş çok sayıda ahşap plaket",
+   "gosterim_ad": "Batı Akdeniz İhracatçılar Birliği",
+   "ilk_kabul": "2026-11-11T23:10:25+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Lori Moen / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Lori Moen",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Best_Places_To_Work_awards.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "masa",
+    "plaket"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Best_Places_To_Work_awards.jpg/500px-Best_Places_To_Work_awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "ödül töreni haberi",
+    "başarı ödülleri",
+    "kurumsal ödüller"
+   ],
+   "kullanilamaz": [
+    "spor müsabakası",
+    "sokak röportajı"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T23:10:25+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Best_Places_To_Work_awards.jpg/1280px-Best_Places_To_Work_awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
