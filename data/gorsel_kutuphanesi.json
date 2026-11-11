@@ -41404,6 +41404,103 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/BRICS_leaders_meeting_before_the_2015_G-20_Antalya_summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6822eff0fc330891": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     0,
+     700,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çim saha",
+     "stadyum tribünü",
+     "su fıskiyesi",
+     "koşu pisti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş stadyum ve çim sahayı sulayan yağmurlama sistemi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "stadyum tanıtımı",
+     "tesis haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "başkan açıklaması",
+     "mali durum haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fc6130d8e276:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis fotoğrafıdır ancak haber başkanın mali durum açıklaması olduğu için doğrudan ilişkili değildir.",
+      "gerekli": [
+       {
+        "unsur": "futbol",
+        "var": true
+       },
+       {
+        "unsur": "Antalyaspor armasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       0,
+       700,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "baska takimin formasi"
+      ]
+     },
+     "t": "2026-11-12T02:56:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ffdd5f0606130100",
+    "sha": "792dcbb95b8d0c6162d9be9f"
+   },
+   "t": "2026-11-12T02:56:19+03:00",
+   "teknik": {
+    "doygunluk": 28.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 668,
+    "kontrast": 51,
+    "medyan": 127,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Akdeniz%C3%9CniversiteStadyumu1.jpg/1280px-Akdeniz%C3%9CniversiteStadyumu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6830529e73c72224": {
    "icerik": {
     "ana_kutu": [
@@ -86114,6 +86211,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ali_Aslan%2C_Turkish_journalist%2C_Jovenel_Mo%C3%AFse%2C_President_of_Haiti%2C_Josep_Borrell_Fontelles%2C_Uhuru_Kenyatta%2C_President_of_Kenya%2C_Mathias_Cormann%2C_Secretary_General_of_the_Organisati.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d98ed109ccf1f8bb": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     0,
+     900,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "futbol sahası",
+     "kale",
+     "stadyum tribünü",
+     "projektör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece stadyumda oynanan futbol maçı genel görünümü",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "futbol maçı haberi",
+     "stadyum incelemesi",
+     "tarihçi arşiv haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "mali durum haberi",
+     "başkan açıklaması",
+     "transfer haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fc6130d8e276:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski bir Beşiktaş maçı stadyum genel görünümüdür, haberin başkanı ve mali durumu ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "futbol",
+        "var": true
+       },
+       {
+        "unsur": "Antalyaspor armasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "baska takimin formasi"
+      ]
+     },
+     "t": "2026-11-12T02:56:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "38387c2f2f472f0b",
+    "sha": "659bd135aefe088d354c7350"
+   },
+   "t": "2026-11-12T02:56:19+03:00",
+   "teknik": {
+    "doygunluk": 39.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.26,
+    "keskinlik": 1742,
+    "kontrast": 51,
+    "medyan": 87,
+    "parlaklik": 88,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg/1280px-Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d9b4a2ed3d32f9d3": {
    "icerik": {
     "ana_kutu": [
@@ -89829,6 +90020,98 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjBjbGFzc3Jvb20lMjBkZXNrJTIwVHVya2V5fGVufDF8MHx8fDE3OTQxMzYzMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e284cd7ec0dec9fb": {
+   "icerik": {
+    "ana_kutu": [
+     60,
+     145,
+     725,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 22,
+    "nesneler": [
+     "futbolcu",
+     "hakem",
+     "forma",
+     "çim saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Futbolcular sahada maç öncesi seremonide dizilmiş duruyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "maç seremonisi",
+     "futbol takımı haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kulüp başkanı açıklaması",
+     "mali durum haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fc6130d8e276:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski bir maç seremonisi karesidir, başkan açıklaması ve mali durum haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "futbol",
+        "var": true
+       },
+       {
+        "unsur": "Antalyaspor armasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "baska takimin formasi"
+      ]
+     },
+     "t": "2026-11-12T02:56:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "102c2c3d3f34090f",
+    "sha": "e7d9c5f77f158e5eeb0aa589"
+   },
+   "t": "2026-11-12T02:56:19+03:00",
+   "teknik": {
+    "doygunluk": 56.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 1695,
+    "kontrast": 49,
+    "medyan": 80,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Be%C5%9Fikta%C5%9F-Antalyaspor_pre-match_ceremony.jpg/1280px-Be%C5%9Fikta%C5%9F-Antalyaspor_pre-match_ceremony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e287ce35daac6797": {
    "icerik": {
@@ -101144,6 +101427,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Meeting_between_the_President_of_the_Republic_of_Turkey_and_President_of_Ukraine_in_2022_%287%29_%28cropped%29.jpg/1280px-Meeting_between_the_President_of_the_Republic_of_Turkey_and_President_of_Ukraine_in_2022_%287%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fa8cbc6c7420de48": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "taraftar",
+     "pankart",
+     "bayrak",
+     "atkı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tribünde tezahürat yapan Antalyaspor taraftarları ve pankartlar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "taraftar haberi",
+     "maç atmosferi"
+    ],
+    "uygunsuz_baglamlar": [
+     "başkan açıklaması",
+     "mali durum haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fc6130d8e276:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalyaspor taraftar grubu karesidir, kulüp haberlerinde yer alabilir ancak başkanın açıklama haberi için dolaylıdır.",
+      "gerekli": [
+       {
+        "unsur": "futbol",
+        "var": true
+       },
+       {
+        "unsur": "Antalyaspor armasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "baska takimin formasi"
+      ]
+     },
+     "t": "2026-11-12T02:56:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0eba2b1c708bd3ae",
+    "sha": "38b17384042e27b26b214c94"
+   },
+   "t": "2026-11-12T02:56:19+03:00",
+   "teknik": {
+    "doygunluk": 34.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.277,
+    "keskinlik": 5718,
+    "kontrast": 60,
+    "medyan": 80,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_202112118_%283%29.jpg/1280px-Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_202112118_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fac447687099d250": {
    "ozet": {
     "dh": "d934b4a34366edf9",
@@ -101986,6 +102366,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "fc96fd3044e74621": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "taraftar",
+     "atkı",
+     "bayrak",
+     "stadyum tribünü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tribünde atkı ve bayrak sallayan Antalyaspor taraftarları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "taraftar haberi",
+     "maç atmosferi"
+    ],
+    "uygunsuz_baglamlar": [
+     "başkan açıklaması",
+     "mali durum haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fc6130d8e276:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalyaspor taraftarlarını gösterir, kulüp genel haberlerinde kullanılabilir ancak başkan açıklaması için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "futbol",
+        "var": true
+       },
+       {
+        "unsur": "Antalyaspor armasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "baska takimin formasi"
+      ]
+     },
+     "t": "2026-11-12T02:56:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b4a1b1bc9ad8d96",
+    "sha": "59bab9deff8d26abe67ae096"
+   },
+   "t": "2026-11-12T02:56:19+03:00",
+   "teknik": {
+    "doygunluk": 43.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.341,
+    "keskinlik": 5998,
+    "kontrast": 57,
+    "medyan": 68,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29.jpg/1280px-Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fcb7304656dd9d63": {
    "icerik": {
