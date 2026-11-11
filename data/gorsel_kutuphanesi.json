@@ -67475,13 +67475,48 @@
       "yasak": []
      },
      "t": "2026-11-09T21:36:28+03:00"
+    },
+    "r1:db35d3cdb32a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olay anı görülmese de haberin geçtiği yol ve trafik görseli temsilî olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "D-400 karayolu",
+        "var": false
+       },
+       {
+        "unsur": "trafik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       372,
+       831,
+       574
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T06:08:06+03:00"
     }
    },
    "ozet": {
     "dh": "070397860706171f",
     "sha": "0c44c996c3af9e96797a9604"
    },
-   "t": "2026-11-09T21:36:28+03:00",
+   "t": "2026-11-11T06:08:06+03:00",
    "teknik": {
     "doygunluk": 35.6,
     "inen": [
@@ -97968,7 +98003,7 @@
    "gosterim_ad": "trafik kısıtlaması ve alternatif güzergahlar",
    "ilk_kabul": "2026-11-09T21:36:28+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Igor Sporynin / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -97991,6 +98026,7 @@
     "karayolu",
     "lamba diregi",
     "otomobil",
+    "trafik",
     "trafik levhası",
     "yol"
    ],
@@ -98009,10 +98045,11 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-09T21:36:28+03:00",
+   "son_kabul": "2026-11-11T06:08:06+03:00",
    "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
+    "yan",
     "kart",
     "detay"
    ],
