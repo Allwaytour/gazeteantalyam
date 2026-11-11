@@ -23034,6 +23034,32 @@
      },
      "t": "2026-11-09T13:26:02+03:00"
     },
+    "r1:74783c9c3c92:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir sinema salonu görselidir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T20:40:27+03:00"
+    },
     "r1:7c5f3d679b33:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -23117,7 +23143,7 @@
     "dh": "58180e0787ccc1c3",
     "sha": "8a26fb39ea5d8c04388b2c6b"
    },
-   "t": "2026-11-10T22:13:56+03:00",
+   "t": "2026-11-11T20:40:27+03:00",
    "teknik": {
     "doygunluk": 10.3,
     "inen": [
@@ -25288,6 +25314,32 @@
      },
      "t": "2026-11-08T13:41:15+03:00"
     },
+    "r1:74783c9c3c92:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla ilgisiz bir halk oyunları gösterisi karesidir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T20:40:27+03:00"
+    },
     "r1:8f914ffcc66c:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -25406,7 +25458,7 @@
     "dh": "5752767945d5d5a5",
     "sha": "4340bc919e0e56f3aeb6b675"
    },
-   "t": "2026-11-09T23:06:51+03:00",
+   "t": "2026-11-11T20:40:27+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -25714,6 +25766,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Antalya%2C_Turkey_Beaches.JPG/1280px-Antalya%2C_Turkey_Beaches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4232b07c47d48c61": {
+   "ozet": {
+    "dh": "16270713e6870707",
+    "sha": "f5c180400afb4cd837c665a0"
+   },
+   "t": "2026-11-11T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 29.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.464,
+    "keskinlik": 792,
+    "kontrast": 65,
+    "medyan": 57,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Confirmations_of_Masoud_Pezeshkian%27s_Cabinet2024-08-17_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "4294d5af79c23640": {
    "icerik": {
@@ -32138,6 +32211,32 @@
      },
      "t": "2026-11-09T13:26:02+03:00"
     },
+    "r1:74783c9c3c92:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla ilgisiz bir sanat galerisi sergisidir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T20:40:27+03:00"
+    },
     "r1:93d895c1db8d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32227,7 +32326,7 @@
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-10T22:13:56+03:00",
+   "t": "2026-11-11T20:40:27+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -38957,6 +39056,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Moorefield_Road_Rubbish_19_May_2018_%2827371600657%29.jpg/1280px-Moorefield_Road_Rubbish_19_May_2018_%2827371600657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "671bd545f3c5c9e0": {
+   "ozet": {
+    "dh": "3699ce4ece0e4f8f",
+    "sha": "4c3af87887ffa12c3a5b3a9b"
+   },
+   "t": "2026-11-11T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 30.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.502,
+    "keskinlik": 705,
+    "kontrast": 73,
+    "medyan": 49,
+    "parlaklik": 80,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Confirmations_of_Masoud_Pezeshkian%27s_Cabinet2024-08-17_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "6763659b2f4aeabf": {
    "icerik": {
@@ -48037,6 +48157,97 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Side_Belediyesi%2C_Side-Manavgat-Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "7f6fa0f4820c79de": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     350,
+     550,
+     550
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "takım elbise",
+     "ekran"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mesud Pezeşkiyan'ın bir grup insanla tokalaştığı veya görüştüğü an.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      160,
+      390,
+      460,
+      530
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:74783c9c3c92:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesini gösteren arşiv niteliğinde bir karedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       350,
+       550,
+       550
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T20:40:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4fcbd21c199b1115",
+    "sha": "dbe2cdaf78efadca50541483"
+   },
+   "t": "2026-11-11T20:40:27+03:00",
+   "teknik": {
+    "doygunluk": 30.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.33,
+    "keskinlik": 1711,
+    "kontrast": 68,
+    "medyan": 86,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Confirmations_of_Masoud_Pezeshkian%27s_Cabinet2024-08-17_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "7f850f153adb5e0a": {
    "icerik": {
@@ -93052,6 +93263,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f1184dd5f5297b95": {
+   "ozet": {
+    "dh": "96935b228d276726",
+    "sha": "ba00cc8c05190f087d7e8afa"
+   },
+   "t": "2026-11-11T20:39:42+03:00",
+   "teknik": {
+    "doygunluk": 37.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.513,
+    "keskinlik": 1022,
+    "kontrast": 69,
+    "medyan": 48,
+    "parlaklik": 72,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Confirmations_of_Masoud_Pezeshkian%27s_Cabinet2024-08-17_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "f11c537aa6a86bc5": {
    "icerik": {
     "ana_kutu": [
@@ -98623,6 +98855,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Award%2C_music_%28AM_2019.4.16-5%29.jpg/1280px-Award%2C_music_%28AM_2019.4.16-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "fd6b336c5c677a8e": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     200,
+     950,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ceket",
+     "gömlek",
+     "yaka iğnesi"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Mesud Pezeşkiyan'ın yakın plan portre çekimi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "biyografi",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      200,
+      650,
+      800
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:74783c9c3c92:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin güncel ve net bir portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       200,
+       950,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T20:40:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "79ddfcf8191a969e",
+    "sha": "88e6015710422f090da35ccb"
+   },
+   "t": "2026-11-11T20:40:27+03:00",
+   "teknik": {
+    "doygunluk": 27.7,
+    "inen": [
+     500,
+     628
+    ],
+    "karanlik_oran": 0.248,
+    "keskinlik": 967,
+    "kontrast": 86,
+    "medyan": 143,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fda1fd8ad259a398": {
    "icerik": {
@@ -108062,6 +108388,69 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "fd6b336c5c677a8e": {
+   "alt_tur": "kisi_benzer",
+   "boyut": [
+    1836,
+    2305
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2026-10-26",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mesud Pezeşkiyan'ın yakın plan portre çekimi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-11T20:40:27+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Autor: Sergey Bobylev/RIA Novosti / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Autor: Sergey Bobylev/RIA Novosti",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_Moscow_2026.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Mesud Pezeşkiyan",
+      "qid": "Q5933752"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ceket",
+    "gömlek",
+    "yaka iğnesi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/500px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "siyaset",
+    "biyografi",
+    "haber"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "teknoloji"
+   ],
+   "notr_portre": true,
+   "qid": "Q5933752",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-11T20:40:27+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
