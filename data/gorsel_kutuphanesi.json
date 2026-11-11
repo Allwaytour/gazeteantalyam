@@ -2090,6 +2090,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mustafabaykal.jpg/1280px-Mustafabaykal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "078c9e505dc3985c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     200,
+     980,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kitap",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık bir kitap tutarak okuyan kişinin yakın plan arkadan görünümü.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kitap",
+     "okuma",
+     "kütüphane"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "trafik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6678e806ffe0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kitap söyleşisi haberi için uygun bir temsilî okuma görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kitap",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       200,
+       980,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e6ce9e9f4e6db933",
+    "sha": "a2065a9a009cf3335d42078b"
+   },
+   "t": "2026-11-11T22:41:40+03:00",
+   "teknik": {
+    "doygunluk": 23.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.289,
+    "keskinlik": 239,
+    "kontrast": 62,
+    "medyan": 108,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1553729784-e91953dec042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "079e6df86ad7a89d": {
    "icerik": {
     "ana_kutu": [
@@ -5655,6 +5745,118 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Life_expectancy_by_WBG_-Turkey_-leader.png/1280px-Life_expectancy_by_WBG_-Turkey_-leader.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0f06cee8ad483e9f": {
+   "icerik": {
+    "ana_kutu": [
+     198,
+     226,
+     966,
+     783
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "çiçek aranjmanı",
+     "arka plan afişi",
+     "kürsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dört kişi çiçek dekorasyonu ve logo önünde yan yana duruyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "zirve haberi",
+     "uluslararası buluşma",
+     "diplomasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      222,
+      239,
+      396,
+      335
+     ],
+     [
+      178,
+      381,
+      269,
+      444
+     ],
+     [
+      131,
+      529,
+      218,
+      599
+     ],
+     [
+      136,
+      683,
+      273,
+      755
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:20cbc2d87b0e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arka planda farklı bir zirveye ait büyük logo ve yazılar bulunduğu için haberle doğrudan uyuşmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       131,
+       529,
+       966,
+       655
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3e363c3120aca860",
+    "sha": "073b2f5540f2161fc5323c3d"
+   },
+   "t": "2026-11-11T22:41:16+03:00",
+   "teknik": {
+    "doygunluk": 45.7,
+    "inen": [
+     500,
+     288
+    ],
+    "karanlik_oran": 0.121,
+    "keskinlik": 2950,
+    "kontrast": 55,
+    "medyan": 111,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/20240305_ASEAN-AUSSP.jpg/1280px-20240305_ASEAN-AUSSP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0f0be282e7311005": {
    "icerik": {
@@ -18990,6 +19192,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Magni-Science_Audience_Exhibit_1_-_2016.jpg/1280px-Magni-Science_Audience_Exhibit_1_-_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2e832744316c7230": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     31,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "ceket",
+     "gömlek rozeti"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Gözlüklü ve takım elbiseli bir erkeğin yakın plan portresi",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberi",
+     "lider portresi",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      39,
+      273,
+      347,
+      655
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:20cbc2d87b0e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin diğer ana öznesinin arşiv portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       31,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5c5f5352560e0607",
+    "sha": "0a98358efe9aa99fec9aec39"
+   },
+   "t": "2026-11-11T22:41:16+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     500,
+     666
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 562,
+    "kontrast": 54,
+    "medyan": 91,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Anthony_Albanese-CHOGM_2024.jpg/1280px-Anthony_Albanese-CHOGM_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2ea8d073c52c16f8": {
    "icerik": {
     "ana_kutu": [
@@ -22602,6 +22898,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alanya_K%C4%B1z%C4%B1l_Kule_Interior_8481.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Interior_8481.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3771c838c7928ede": {
+   "ozet": {
+    "dh": "191b0b230b191f1e",
+    "sha": "c2a92540e44d8cd2df8bb7e0"
+   },
+   "t": "2026-11-11T22:41:32+03:00",
+   "teknik": {
+    "doygunluk": 52.6,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.471,
+    "keskinlik": 740,
+    "kontrast": 50,
+    "medyan": 52,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Close-up_of_a_woman_reading_a_book.jpg/1280px-Close-up_of_a_woman_reading_a_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3781092e6401f525": {
    "icerik": {
     "ana_kutu": [
@@ -26161,6 +26478,32 @@
     ]
    },
    "iliski": {
+    "r1:20cbc2d87b0e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşive dayalı portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       19,
+       219,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:16+03:00"
+    },
     "r1:b2d6b7a674b2:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -26192,7 +26535,7 @@
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-11T08:09:27+03:00",
+   "t": "2026-11-11T22:41:16+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -33139,6 +33482,95 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Turkish_parliament_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "553473327ba3cc1f": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     200,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kitap",
+     "yastık",
+     "koltuk",
+     "bileklik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Koltukta oturup açık bir kitap okuyan kişi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kitap",
+     "okuma alışkanlığı",
+     "edebiyat"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6678e806ffe0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kitap söyleşisi haberi için uygun temsilî okuma görselidir ancak özel olarak Önder Algedik'i göstermez.",
+      "gerekli": [
+       {
+        "unsur": "kitap",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       10,
+       200,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4e0f5bd393074f6d",
+    "sha": "57717fac7a31e9bc7370794d"
+   },
+   "t": "2026-11-11T22:41:40+03:00",
+   "teknik": {
+    "doygunluk": 43.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 577,
+    "kontrast": 52,
+    "medyan": 115,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "5556cb5decfca73d": {
    "ozet": {
@@ -42514,6 +42946,111 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6f4401a106af3a18": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "kitap",
+     "masa",
+     "tabela",
+     "insanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kitapçıda yazar imza günü ve söyleşi ortamı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "imza günü",
+     "kitap söyleşisi",
+     "edebiyat etkinliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "doğa yürüyüşü",
+     "maç"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      335,
+      210,
+      930,
+      520
+     ],
+     [
+      330,
+      570,
+      680,
+      790
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:6678e806ffe0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Etkinlik türü olarak imza/söyleşiyi gösterse de yabancı bir mekân ve farklı yazarlar içerdiği için tam uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "kitap",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       950,
+       950
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3327ed8b9e86c1e9",
+    "sha": "4283175d20546de39ac47073"
+   },
+   "t": "2026-11-11T22:41:40+03:00",
+   "teknik": {
+    "doygunluk": 35.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.265,
+    "keskinlik": 3153,
+    "kontrast": 59,
+    "medyan": 82,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2.27.10StroutBensonByLuigiNovi5.jpg/1280px-2.27.10StroutBensonByLuigiNovi5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6f4ace4c23816e20": {
    "icerik": {
@@ -60447,6 +60984,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Jiangsu_Provincial_Highway_238_construction_site_%2820240714%29_P34.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240714%29_P34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9ab482336774dbf9": {
+   "ozet": {
+    "dh": "1f1f8e8d1d7d7d9a",
+    "sha": "b1594442b27ee9e01a301e7f"
+   },
+   "t": "2026-11-11T22:41:33+03:00",
+   "teknik": {
+    "doygunluk": 41.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.458,
+    "keskinlik": 1159,
+    "kontrast": 75,
+    "medyan": 66,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Close-up_of_child_reading_a_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "9ad8853fc480ee75": {
    "icerik": {
@@ -80192,6 +80750,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Griffin_House_Elopement_in_Hood_River%2C_Oregon..jpg/1280px-Griffin_House_Elopement_in_Hood_River%2C_Oregon..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cd544c69c9a7c4fd": {
+   "icerik": {
+    "ana_kutu": [
+     32,
+     192,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kravat",
+     "ceket",
+     "bayrak",
+     "arka plan yazısı"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Takım elbiseli bir erkeğin yakın plan portresi, arkada bayrak ve yazı",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberi",
+     "arşiv",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel gelişme",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      51,
+      219,
+      444,
+      807
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:20cbc2d87b0e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski tarihli bir arşiv karesi olduğundan güncel bir zirve haberi için dönemsel olarak yanıltıcı olabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       32,
+       192,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "41c48ce99c9f564a",
+    "sha": "c57a3abe0e509d3089b280d5"
+   },
+   "t": "2026-11-11T22:41:16+03:00",
+   "teknik": {
+    "doygunluk": 39.8,
+    "inen": [
+     500,
+     697
+    ],
+    "karanlik_oran": 0.371,
+    "keskinlik": 663,
+    "kontrast": 68,
+    "medyan": 94,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/President_Erdogan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "cd6840e669d46523": {
    "icerik": {
     "ana_kutu": [
@@ -90230,6 +90883,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ambassador_Mostafa_Sherbiny_at_Global_Forum_Innovation_and_Green_Building_in_Blue_Zoon_at_COP_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "e85b967fd5491b35": {
+   "ozet": {
+    "dh": "323232378d89e1c1",
+    "sha": "d4f02f168d39f8031a82b4a1"
+   },
+   "t": "2026-11-11T22:41:33+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.515,
+    "keskinlik": 1397,
+    "kontrast": 50,
+    "medyan": 48,
+    "parlaklik": 64,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2.27.10StroutBensonByLuigiNovi8.jpg/1280px-2.27.10StroutBensonByLuigiNovi8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e8af7a81bcfd3457": {
    "icerik": {
     "ana_kutu": [
@@ -90840,6 +91514,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:6678e806ffe0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir sınıf müzesidir, güncel bir kitap söyleşisi haberiyle uyuşmaz.",
+      "gerekli": [
+       {
+        "unsur": "kitap",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T22:41:40+03:00"
+    },
     "r1:d02d264a2cb5:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -90864,7 +91564,11 @@
      "t": "2026-11-08T14:11:45+03:00"
     }
    },
-   "t": "2026-11-08T14:11:45+03:00",
+   "ozet": {
+    "dh": "0332f4d487849822",
+    "sha": "a865dd1d857f9ba722f5d55c"
+   },
+   "t": "2026-11-11T22:41:40+03:00",
    "teknik": {
     "doygunluk": 54.6,
     "inen": [
@@ -102684,7 +103388,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-11T08:09:27+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -102726,7 +103430,7 @@
    "qid": "Q39259",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-11T08:09:27+03:00",
+   "son_kabul": "2026-11-11T22:41:16+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -103296,6 +104000,63 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T15:35:24+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "553473327ba3cc1f": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4000,
+    2667
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Koltukta oturup açık bir kitap okuyan kişi.",
+   "gosterim_ad": "kitap söyleşisi",
+   "ilk_kabul": "2026-11-11T22:41:40+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Clay Banks / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Clay Banks",
+    "sayfa": "https://unsplash.com/photos/person-reading-book-on-brown-and-beige-textile-w_qTfiPbjbg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bileklik",
+    "kitap",
+    "koltuk",
+    "yastık"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "kitap",
+    "okuma alışkanlığı",
+    "edebiyat"
+   ],
+   "kullanilamaz": [],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T22:41:40+03:00",
+   "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
