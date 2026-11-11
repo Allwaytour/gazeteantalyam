@@ -365,6 +365,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ayval%C4%B1k_from_pine_forest.jpg/1280px-Ayval%C4%B1k_from_pine_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "017e208118392c3a": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     250,
+     900,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "tabela",
+     "sütun",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze tabelalı bir bina girişi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "vergi dairesi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:821bd05040a8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir müzeye aittir, vergi dairesi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:39:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "99b46c9e16143c6e",
+    "sha": "f4fb5c8c0ec33438fcc3ae4b"
+   },
+   "t": "2026-11-11T04:39:56+03:00",
+   "teknik": {
+    "doygunluk": 18.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 2081,
+    "kontrast": 72,
+    "medyan": 136,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Alanya_Museum_Front_of_building_8142.jpg/1280px-Alanya_Museum_Front_of_building_8142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "01b12d19845cd033": {
    "icerik": {
     "ana_kutu": [
@@ -9463,6 +9547,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/A_comparison_of_acceptance_of_domestic_violence_in_select_Arab_and_Muslim_majority_countries%2C_UNICEF_2013.png/1280px-A_comparison_of_acceptance_of_domestic_violence_in_select_Arab_and_Muslim_majority_countries%2C_UNICEF_2013.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1a4457fcfc30da82": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     70,
+     950,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "tabela",
+     "bayrak direği",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gelir İdaresi Başkanlığı tabelalı modern bir kamu binası dış görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "vergi dairesi haberi",
+     "kurumsal haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "sokak röportajı",
+     "kişi odaklı haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:821bd05040a8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gelir İdaresi Başkanlığı binasını net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       70,
+       950,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:39:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "31e0c48cccd474d6",
+    "sha": "f5a068dc6ed27de5a68c0d8e"
+   },
+   "t": "2026-11-11T04:39:56+03:00",
+   "teknik": {
+    "doygunluk": 16.4,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 1646,
+    "kontrast": 76,
+    "medyan": 118,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vergi_ileti%C5%9Fim_merkezi.jpg/1280px-Vergi_ileti%C5%9Fim_merkezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1a46b013a22503ea": {
    "icerik": {
     "ana_kutu": [
@@ -11860,6 +12035,98 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ambassador_Peter_Haas_met_with_MUN_Students_%2852092642411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "218a548bc1969c47": {
+   "icerik": {
+    "ana_kutu": [
+     208,
+     355,
+     687,
+     984
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "bina",
+     "araba",
+     "agac",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara'da Kültür ve Turizm Bakanlığı binası ve önünden geçen cadde",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "antalya haberleri",
+     "turizm tahsisi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0e77534d3792:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanlık binası doğru ancak Antalya'daki bir tahsis haberi için Ankara binası ve kentsel doku uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "turizm tesisi",
+        "var": false
+       },
+       {
+        "unsur": "Antalya manzarası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       208,
+       355,
+       687,
+       984
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:38:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6792930ec796000f",
+    "sha": "903bf293cdbb487dc065c17f"
+   },
+   "t": "2026-11-11T04:38:25+03:00",
+   "teknik": {
+    "doygunluk": 13.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.264,
+    "keskinlik": 1497,
+    "kontrast": 84,
+    "medyan": 110,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ministry_of_Culture_and_Tourism_S%C4%B1hhiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "2198654e3eb80884": {
    "icerik": {
@@ -19483,6 +19750,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Panna_Cotta_with_fresh_berries.jpg/1280px-Panna_Cotta_with_fresh_berries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3538bd81813dbfc2": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     250,
+     950,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "küre yapı",
+     "kişi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Küresel mimari detaylı bir bina girişi ve bir kişi.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "genel bina haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "vergi dairesi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      750,
+      710,
+      900,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:821bd05040a8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Vergi dairesi ile ilgisi olmayan bir bina ve kişi içermektedir.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzleri"
+      ]
+     },
+     "t": "2026-11-11T04:39:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b1bdfdc8c888ca1",
+    "sha": "fac9adb6ae3fe33cc3a914c1"
+   },
+   "t": "2026-11-11T04:39:56+03:00",
+   "teknik": {
+    "doygunluk": 16.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.282,
+    "keskinlik": 2093,
+    "kontrast": 63,
+    "medyan": 77,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Alanya_Unidentified_building_8370.jpg/1280px-Alanya_Unidentified_building_8370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "35584de51d9b2c91": {
    "icerik": {
     "ana_kutu": [
@@ -20339,6 +20698,88 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_mezes.jpg/1280px-Turkish_mezes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3699b28810d157d0": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     300,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "NBR yazılı modern bir ofis binası dış görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yabancı ekonomi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye vergi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:821bd05040a8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Bangladeş'teki bir kuruma aittir, Türkiye ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:39:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5629282829292caa",
+    "sha": "adf1c0156dcb1c0599bc191b"
+   },
+   "t": "2026-11-11T04:39:56+03:00",
+   "teknik": {
+    "doygunluk": 19.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.055,
+    "keskinlik": 3681,
+    "kontrast": 58,
+    "medyan": 164,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/National_Board_of_Revenue.jpg/1280px-National_Board_of_Revenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "36d722a575b3d06d": {
    "t": "2026-11-08T14:37:51+03:00",
@@ -30236,6 +30677,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0e77534d3792:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya dağ manzarası sunsa da özel bir evin arka bahçesini göstermesi haber için yetersiz ve ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "Antalya manzarası",
+        "var": true
+       },
+       {
+        "unsur": "turizm tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:38:25+03:00"
+    },
     "r1:5b9ac698b69f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -30346,7 +30817,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-09T17:35:49+03:00",
+   "t": "2026-11-11T04:38:25+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -42980,6 +43451,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Antalya_Airport_-_International_Terminal_2.JPG/1280px-Antalya_Airport_-_International_Terminal_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7dcfc9e7ef9e9b1d": {
+   "icerik": {
+    "ana_kutu": [
+     580,
+     87,
+     942,
+     533
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kopek",
+     "heykel",
+     "palmiye",
+     "deniz",
+     "dag"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Karaalioğlu Parkı'nda ön planda bir köpek ve arka planda deniz ile dağlar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "mahkeme",
+     "suclama"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0e77534d3792:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya manzarası ve park görüntüsü içeriyor ancak turizm tesisi yerine bir köpek ön planda öne çıkıyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalya manzarası",
+        "var": true
+       },
+       {
+        "unsur": "turizm tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       10,
+       0,
+       936,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:38:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d3b373747676743",
+    "sha": "a759e909f9f10c9442069a52"
+   },
+   "t": "2026-11-11T04:38:25+03:00",
+   "teknik": {
+    "doygunluk": 16.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.07,
+    "keskinlik": 1905,
+    "kontrast": 48,
+    "medyan": 141,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Karaalio%C4%9Flu_Park%2C_Antalya%2C_Turkey_Feb_2022_-_Landscape_and_Dog.jpg/1280px-Karaalio%C4%9Flu_Park%2C_Antalya%2C_Turkey_Feb_2022_-_Landscape_and_Dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7de4d963a3309626": {
    "icerik": {
@@ -62436,6 +63000,32 @@
     ]
    },
    "iliski": {
+    "r1:0e77534d3792:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanlığın en üst yöneticisi olan bakanın portresi, tahsis haberi için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:38:20+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -62467,7 +63057,7 @@
     "dh": "87931b0b279594d6",
     "sha": "047d5c39dbc02ca30ac765ab"
    },
-   "t": "2026-11-09T13:47:41+03:00",
+   "t": "2026-11-11T04:38:25+03:00",
    "teknik": {
     "doygunluk": 56.2,
     "inen": [
@@ -63224,6 +63814,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg/1280px-Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b42a534da8711abe": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "araç",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern mimarili bir kamu binası dış görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "vergi dairesi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:821bd05040a8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Vergi dairesi binasıdır ancak 2007 yılına ait eski bir karedir.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:39:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0919317070f0f3db",
+    "sha": "bc8e81ceebe144f60e6dcfb4"
+   },
+   "t": "2026-11-11T04:39:56+03:00",
+   "teknik": {
+    "doygunluk": 19.0,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 1983,
+    "kontrast": 64,
+    "medyan": 179,
+    "parlaklik": 164,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mu%C4%9Fla_revenue_administration_building_5674.jpg/1280px-Mu%C4%9Fla_revenue_administration_building_5674.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b454b4e0ddb7eb08": {
    "icerik": {
@@ -82925,6 +83603,91 @@
    },
    "url": "/images/kurum/e01228101611e47c.jpg"
   },
+  "ebbc15a8fba0faae": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "bayrak direği",
+     "yol",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern resmi bir kamu binasının dış cephesi ve giriş yolu.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "bakanlık haberi",
+     "kamu binası"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya turizm yatırımları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0e77534d3792:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina Türkiye'deki bakanlığa ait değil, Çin'deki bir bakanlık binasıdır.",
+      "gerekli": [
+       {
+        "unsur": "Antalya manzarası, turizm tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T04:38:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2eae305896738f27",
+    "sha": "99f5e017d22e35285aad7ceb"
+   },
+   "t": "2026-11-11T04:38:25+03:00",
+   "teknik": {
+    "doygunluk": 19.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 3310,
+    "kontrast": 64,
+    "medyan": 174,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ministry_of_Culture_and_Tourism_of_China_%2820220414162452%29.jpg/1280px-Ministry_of_Culture_and_Tourism_of_China_%2820220414162452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ebd7d6651f829520": {
    "ozet": {
     "dh": "93a3b333a78f9934",
@@ -91747,6 +92510,71 @@
    ],
    "yalniz_ayni_olay": true
   },
+  "1a4457fcfc30da82": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4928,
+    3264
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Gelir İdaresi Başkanlığı tabelalı modern bir kamu binası dış görünümü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-11T04:39:56+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Vergi_ileti%C5%9Fim_merkezi.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "Wikimedia Commons",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Vergi_ileti%C5%9Fim_merkezi.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Gelir İdaresi Başkanlığı",
+      "qid": "Q6029385"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bayrak direği",
+    "bina",
+    "sokak lambası",
+    "tabela",
+    "vergi dairesi binası"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vergi_ileti%C5%9Fim_merkezi.jpg/500px-Vergi_ileti%C5%9Fim_merkezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "vergi dairesi haberi",
+    "kurumsal haber"
+   ],
+   "kullanilamaz": [
+    "sokak röportajı",
+    "kişi odaklı haber"
+   ],
+   "notr_portre": false,
+   "qid": "Q6029385",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-11T04:39:56+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vergi_ileti%C5%9Fim_merkezi.jpg/1280px-Vergi_ileti%C5%9Fim_merkezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "1dd1f006c0b0df4b": {
    "alt_tur": "nesne",
    "boyut": [
@@ -96826,7 +97654,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-09T13:47:41+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -96868,7 +97696,7 @@
    "qid": "Q55526162",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-09T13:47:41+03:00",
+   "son_kabul": "2026-11-11T04:38:25+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
