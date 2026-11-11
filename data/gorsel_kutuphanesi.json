@@ -20856,9 +20856,44 @@
       "yasak": []
      },
      "t": "2026-11-08T15:42:05+03:00"
+    },
+    "r1:3246fe83b61a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM Genel Kurulu'nun iç görünümünü yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "Meclis binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       108,
+       146,
+       521,
+       533
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:09:35+03:00"
     }
    },
-   "t": "2026-11-08T15:42:05+03:00",
+   "ozet": {
+    "dh": "1a0f0f1a1b891a9d",
+    "sha": "7491648c31ca6e1b1409cf28"
+   },
+   "t": "2026-11-11T16:09:35+03:00",
    "teknik": {
     "doygunluk": 50.4,
     "inen": [
@@ -47650,6 +47685,95 @@
    },
    "url": "https://images.unsplash.com/photo-1613328138477-adb8aecc8e52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8cGluZSUyMGZvcmVzdCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0Mjk0MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "80d8d0b26c88f621": {
+   "icerik": {
+    "ana_kutu": [
+     245,
+     144,
+     674,
+     829
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bina",
+     "sarı taksi",
+     "yol",
+     "direk",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara'da TBMM binası ve önünden geçen sarı taksi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "taksi ve trafik haberleri",
+     "sanat haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3246fe83b61a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TBMM binasını dışarıdan gösteren güncel bir fotoğraftır.",
+      "gerekli": [
+       {
+        "unsur": "Meclis binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       248,
+       148,
+       668,
+       823
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:09:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1c8c7866e2644def",
+    "sha": "0d73c6e6a784ca9e3019b82d"
+   },
+   "t": "2026-11-11T16:09:35+03:00",
+   "teknik": {
+    "doygunluk": 34.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.078,
+    "keskinlik": 2912,
+    "kontrast": 48,
+    "medyan": 131,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi_Genel_Sekreterli%C4%9Fi%2C_2021_04.jpg/1280px-T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi_Genel_Sekreterli%C4%9Fi%2C_2021_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "80e7030514812c2e": {
    "icerik": {
     "ana_kutu": [
@@ -71116,6 +71240,10 @@
    "url": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "bb5b37814108cc4b": {
+   "ozet": {
+    "dh": "8d0e2f4f7b736969",
+    "sha": "d2109bfa80cf05b477cc8324"
+   },
    "t": "2026-11-08T12:36:35+03:00",
    "teknik": {
     "doygunluk": 50.8,
@@ -79710,9 +79838,44 @@
       "yasak": []
      },
      "t": "2026-11-08T12:36:43+03:00"
+    },
+    "r1:3246fe83b61a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan TBMM binasını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Meclis binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       314,
+       258,
+       439,
+       670
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:09:35+03:00"
     }
    },
-   "t": "2026-11-08T12:36:43+03:00",
+   "ozet": {
+    "dh": "030826276d4d7f79",
+    "sha": "43eab923edbb84747fc7a8ae"
+   },
+   "t": "2026-11-11T16:09:35+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -92386,6 +92549,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/When_It_Rains_It_Pours_%28233337127%29.jpeg/1280px-When_It_Rains_It_Pours_%28233337127%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f404d6048e112020": {
+   "ozet": {
+    "dh": "4d5f6f1d4a0d2d16",
+    "sha": "42f240756abcd0d630e41740"
+   },
+   "t": "2026-11-11T16:09:31+03:00",
+   "teknik": {
+    "doygunluk": 48.1,
+    "inen": [
+     500,
+     305
+    ],
+    "karanlik_oran": 0.635,
+    "keskinlik": 2527,
+    "kontrast": 74,
+    "medyan": 25,
+    "parlaklik": 64,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi_23_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "f42aa7bfb9d571e0": {
    "icerik": {
     "ana_kutu": [
@@ -99347,6 +99531,74 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-09T13:23:40+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "35584de51d9b2c91": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4032,
+    3024
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2022-08-01",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Geniş açıyla TBMM Genel Kurul salonu ve milletvekilleri.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-11T16:09:35+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "Yıldız Yazıcıoğlu",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Türkiye Büyük Millet Meclisi",
+      "qid": "Q274918"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Meclis binası",
+    "avize",
+    "bayrak",
+    "koltuk",
+    "kürsü",
+    "masa"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/500px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "meclis haberleri",
+    "siyaset haberleri",
+    "ankara haberleri"
+   ],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin",
+    "teknoloji"
+   ],
+   "notr_portre": false,
+   "qid": "Q274918",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-11T16:09:35+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
