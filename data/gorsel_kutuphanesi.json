@@ -3802,6 +3802,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Twilight_through_Trung_Y%C3%AAn_Tennis_Court_10-02-2026.jpg/1280px-Twilight_through_Trung_Y%C3%AAn_Tennis_Court_10-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0b59faad81853b8b": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     80,
+     995,
+     808
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "maske",
+     "vazo",
+     "televizyon",
+     "dekor"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Maske takarak dans performansı sergileyen çocuklar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tiyatro haberi",
+     "dans gösterisi",
+     "çocuk etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5d808d28896f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf çocukların sahne gösterisini yansıtıyor ancak temsilî bir ABD askeri üssü etkinliğine ait.",
+      "gerekli": [
+       {
+        "unsur": "çocuk tiyatrosu",
+        "var": true
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       80,
+       995,
+       808
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:53:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "478cccdf9621092b",
+    "sha": "2f8ee7faaa09086162790582"
+   },
+   "t": "2026-11-11T16:53:13+03:00",
+   "teknik": {
+    "doygunluk": 52.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.068,
+    "keskinlik": 1826,
+    "kontrast": 48,
+    "medyan": 131,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Re-opening_of_the_Autoport_at_NAF_Atsugi_120222-N-TO330-417.jpg/1280px-Re-opening_of_the_Autoport_at_NAF_Atsugi_120222-N-TO330-417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0b8ec415df5cbff0": {
    "icerik": {
     "ana_kutu": [
@@ -54159,6 +54255,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Applications_of_Household_Solar_Energy_Storage_Systems.jpg/1280px-Applications_of_Household_Solar_Energy_Storage_Systems.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8e859a05d87fea2d": {
+   "ozet": {
+    "dh": "c646262781a12101",
+    "sha": "499109e4703c4cf8a89525fa"
+   },
+   "t": "2026-11-11T16:52:57+03:00",
+   "teknik": {
+    "doygunluk": 25.3,
+    "inen": [
+     1000,
+     744
+    ],
+    "karanlik_oran": 0.597,
+    "keskinlik": 1090,
+    "kontrast": 65,
+    "medyan": 28,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "/images/kurum/04439cc134e52734.jpg"
+  },
   "8ea830a29094bf58": {
    "icerik": {
     "ana_kutu": [
@@ -89793,13 +89910,43 @@
       "yasak": []
      },
      "t": "2026-11-09T18:35:19+03:00"
+    },
+    "r1:5d808d28896f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde tiyatro oyunu veya çocuk gösterisi bulunmamaktadır, tarihi bir ev görünümüdür.",
+      "gerekli": [
+       {
+        "unsur": "çocuk tiyatrosu",
+        "var": false
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:53:03+03:00"
     }
    },
    "ozet": {
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-09T18:35:19+03:00",
+   "t": "2026-11-11T16:53:03+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -92160,13 +92307,43 @@
       "yasak": []
      },
      "t": "2026-11-09T18:35:19+03:00"
+    },
+    "r1:5d808d28896f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta tiyatro oyunu veya çocuklar yok, sadece bir park manzarası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuk tiyatrosu",
+        "var": false
+       },
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T16:53:03+03:00"
     }
    },
    "ozet": {
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-09T18:35:19+03:00",
+   "t": "2026-11-11T16:53:03+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
