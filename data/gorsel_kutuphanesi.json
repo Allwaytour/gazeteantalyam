@@ -15877,6 +15877,27 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:79e1fd898a17:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Limandaki yolcu gemisi bina denetimi konusuyla doğrudan ilişkili değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:39:02+03:00"
+    },
     "r1:873cd8b792c5:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16107,40 +16128,6 @@
      },
      "t": "2026-11-10T09:36:34+03:00"
     },
-    "r1:e86b796573be:mekan": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber plaj voleybolu ile ilgili, ancak görselde sadece bir yolcu gemisi yer alıyor.",
-      "gerekli": [
-       {
-        "unsur": "plaj voleybolu sahası",
-        "var": false
-       },
-       {
-        "unsur": "voleybol filesi",
-        "var": false
-       },
-       {
-        "unsur": "sporcular",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:54:54+03:00"
-    },
     "r1:f2bac7133776:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16198,7 +16185,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-11T09:11:04+03:00",
+   "t": "2026-11-11T13:39:02+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -47686,6 +47673,27 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:79e1fd898a17:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parasailing yapan yelkenli ve dağ manzarası bina denetimi haberiyle alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:39:02+03:00"
+    },
     "r1:873cd8b792c5:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47979,7 +47987,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-11T09:11:04+03:00",
+   "t": "2026-11-11T13:39:02+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -58254,6 +58262,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:79e1fd898a17:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümü, şehirdeki yapı stoku hakkında fikir verdiği için denetim haberinde kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       0,
+       480,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:39:02+03:00"
+    },
     "r1:adb4dc75380d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -58534,7 +58573,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-11T09:11:04+03:00",
+   "t": "2026-11-11T13:39:02+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -70731,6 +70770,95 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1763751626848-47f2393830d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c3RhZGl1bSUyMGdhdGUlMjBmbG9yYWwlMjBhcnJhbmdlbWVudHxlbnwxfDB8fHwxNzk0MTQzMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "bd0141b02d1acd16": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "apartman",
+     "palmiye",
+     "yüzme havuzu",
+     "şezlong",
+     "su kaydırağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Otel havuzunun arkasındaki caddede yer alan çok katlı apartmanlar ve palmiye ağaçları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "bina denetimi",
+     "kentsel dönüşüm",
+     "apartman yönetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "deprem enkazı",
+     "savaş haberi",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:79e1fd898a17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, Alanya'daki standart apartman binalarını gösterdiği için bina denetimi haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       110,
+       670,
+       830
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:39:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a5c55d4d4d47969a",
+    "sha": "89adcacfafc9140af4fb5866"
+   },
+   "t": "2026-11-11T13:39:02+03:00",
+   "teknik": {
+    "doygunluk": 29.8,
+    "inen": [
+     500,
+     175
+    ],
+    "karanlik_oran": 0.236,
+    "keskinlik": 3237,
+    "kontrast": 73,
+    "medyan": 118,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg/1280px-View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "bd1321a91055fb49": {
    "t": "2026-11-08T15:08:26+03:00",
@@ -102584,6 +102712,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-11T06:08:06+03:00",
    "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "bd0141b02d1acd16": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    2525,
+    886
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Otel havuzunun arkasındaki caddede yer alan çok katlı apartmanlar ve palmiye ağaçları",
+   "gosterim_ad": "Alanya",
+   "ilk_kabul": "2026-11-11T13:39:02+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Figure / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Figure",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "apartman",
+    "bina",
+    "palmiye",
+    "su kaydırağı",
+    "yüzme havuzu",
+    "şezlong"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg/500px-View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "bina denetimi",
+    "kentsel dönüşüm",
+    "apartman yönetimi"
+   ],
+   "kullanilamaz": [
+    "deprem enkazı",
+    "savaş haberi",
+    "spor karşılaşması"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T13:39:02+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg/1280px-View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
