@@ -460,6 +460,113 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Veteran_New_Farmer_Green_Bexar_Farm_%2820201021-NRCS-LSC-0592%29.jpg/1280px-Veteran_New_Farmer_Green_Bexar_Farm_%2820201021-NRCS-LSC-0592%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "015ff2517d7b1486": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "cicek",
+     "bebek",
+     "giysi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kilise ortaminda dini kiyafetli kisiler ve cocuklar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "kolaj",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kilise",
+     "toren",
+     "etkinlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "egitim",
+     "meslek",
+     "toplanti"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      21,
+      0,
+      1000,
+      161
+     ],
+     [
+      16,
+      172,
+      808,
+      258
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c82103c30bda:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle tamamen alakasiz dini bir toren kolajidir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yetkililer",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "fabrika"
+      ]
+     },
+     "t": "2026-11-12T00:11:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c9cb262425343636",
+    "sha": "96e1d9e7d4ea7bc666c45000"
+   },
+   "t": "2026-11-12T00:11:08+03:00",
+   "teknik": {
+    "doygunluk": 44.0,
+    "inen": [
+     500,
+     123
+    ],
+    "karanlik_oran": 0.201,
+    "keskinlik": 3055,
+    "kontrast": 65,
+    "medyan": 88,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sitting_%28squatting%29_for_a_Nadia_Strid_portrait.jpg/1280px-Sitting_%28squatting%29_for_a_Nadia_Strid_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "017e208118392c3a": {
    "icerik": {
     "ana_kutu": [
@@ -10933,13 +11040,39 @@
       "yasak": []
      },
      "t": "2026-11-09T13:35:10+03:00"
+    },
+    "r1:eb81c6270c9f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpek ve liman detayını içeren bu kare konut satışı haberiyle bağdaşmaz.",
+      "gerekli": [
+       {
+        "unsur": "konut, site veya bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T00:10:33+03:00"
     }
    },
    "ozet": {
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-09T13:35:10+03:00",
+   "t": "2026-11-12T00:10:33+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -12092,6 +12225,119 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/4bondes%40MMoniz1967.jpg/1280px-4bondes%40MMoniz1967.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1eebb3ffc9e4609c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "gomlek",
+     "ceket",
+     "gozluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gulumseyen insanlar toplulugu bir arada konusuyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "egitim",
+     "toplanti",
+     "isbirligi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "kaza",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      0,
+      1000,
+      381
+     ],
+     [
+      339,
+      321,
+      1000,
+      569
+     ],
+     [
+      64,
+      792,
+      1000,
+      1000
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c82103c30bda:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yetkililer gorunuyor ancak resmi bir toplantı masasi yok.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yetkililer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "fabrika"
+      ]
+     },
+     "t": "2026-11-12T00:11:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "30b415340c141598",
+    "sha": "e764c403505d3b8db55cded6"
+   },
+   "t": "2026-11-12T00:11:08+03:00",
+   "teknik": {
+    "doygunluk": 27.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.279,
+    "keskinlik": 751,
+    "kontrast": 69,
+    "medyan": 84,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Summer_vocational_training_programs_%2815072018771%29.jpg/1280px-Summer_vocational_training_programs_%2815072018771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1f3f185cc8821f23": {
    "icerik": {
@@ -16560,36 +16806,6 @@
      },
      "t": "2026-11-08T15:11:13+03:00"
     },
-    "r1:954a278fbb17:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber Gazipaşa-Alanya Havalimanı yolcu trafiğiyle ilgiliken fotoğraftta limandaki yolcu gemisi görülüyor.",
-      "gerekli": [
-       {
-        "unsur": "havalimanı binası veya apron",
-        "var": false
-       },
-       {
-        "unsur": "uçak",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:08:10+03:00"
-    },
     "r1:adb4dc75380d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -16759,6 +16975,32 @@
      },
      "t": "2026-11-10T09:36:34+03:00"
     },
+    "r1:eb81c6270c9f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kruvaziyer gemisi görseli konut satışı haberiyle doğrudan ilgili değildir.",
+      "gerekli": [
+       {
+        "unsur": "konut, site veya bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T00:10:33+03:00"
+    },
     "r1:f2bac7133776:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16816,7 +17058,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-11T13:39:02+03:00",
+   "t": "2026-11-12T00:10:33+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -24078,6 +24320,101 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PaviljoenParijs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "3b4df9dc462ddf89": {
+   "icerik": {
+    "ana_kutu": [
+     69,
+     287,
+     650,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "araba",
+     "agac",
+     "trafik isareti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern bir okul binasi ve onunde park etmis arabalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "okul",
+     "egitim",
+     "kurum"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c82103c30bda:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Egitim tesisi gorunuyor fakat yabanci bir yapi ve yetkililer yok.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yetkililer",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "fabrika"
+      ]
+     },
+     "t": "2026-11-12T00:11:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "12b069cdc7917058",
+    "sha": "08b3db3b83072441275ea2cc"
+   },
+   "t": "2026-11-12T00:11:08+03:00",
+   "teknik": {
+    "doygunluk": 30.2,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 2066,
+    "kontrast": 51,
+    "medyan": 144,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%C3%81rp%C3%A1d_Stra%C3%9Fe_20%2C_S%2C_2021_Kisk%C5%91r%C3%B6s.jpg/1280px-%C3%81rp%C3%A1d_Stra%C3%9Fe_20%2C_S%2C_2021_Kisk%C5%91r%C3%B6s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3b73afe19c2eb5ed": {
    "t": "2026-11-08T11:37:57+03:00",
@@ -42174,6 +42511,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg/1280px-Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6d8f4c5b865d9ea3": {
+   "icerik": {
+    "ana_kutu": [
+     2,
+     403,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "gozluk",
+     "tisort"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kadin ve arkasi donuk bir erkek sohbet ediyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "egitim",
+     "soylesi",
+     "meslek"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      88,
+      442,
+      672,
+      736
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c82103c30bda:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Egitim gorusmesi icin temsilidir ancak toplantı masasi gorunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yetkililer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "fabrika"
+      ]
+     },
+     "t": "2026-11-12T00:11:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "59550636760d2d0f",
+    "sha": "1d59a5510a7e8450a7831ea7"
+   },
+   "t": "2026-11-12T00:11:08+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.218,
+    "keskinlik": 331,
+    "kontrast": 64,
+    "medyan": 129,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Summer_vocational_training_programs_%2815072050201%29.jpg/1280px-Summer_vocational_training_programs_%2815072050201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6da19ee26ef88572": {
    "icerik": {
     "ana_kutu": [
@@ -51027,23 +51464,15 @@
      },
      "t": "2026-11-11T09:10:59+03:00"
     },
-    "r1:e86b796573be:mekan": {
+    "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Haberin konusuyla tamamen ilgisiz bir spor dalı ve görsel içerik.",
+      "gerekce": "Konut satışı haberi için paraşüt görseli alakasızdır.",
       "gerekli": [
        {
-        "unsur": "plaj voleybolu sahası",
-        "var": false
-       },
-       {
-        "unsur": "voleybol filesi",
-        "var": false
-       },
-       {
-        "unsur": "sporcular",
+        "unsur": "konut, site veya bina",
         "var": false
        }
       ],
@@ -51051,15 +51480,15 @@
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 0,
+      "uygunluk": 1,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
-      "yanlis_spor": true,
+      "yanlis_spor": false,
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-07T23:54:44+03:00"
+     "t": "2026-11-12T00:10:33+03:00"
     },
     "r1:f2bac7133776:ozne_kurum": {
      "d": {
@@ -51118,7 +51547,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-11T13:39:02+03:00",
+   "t": "2026-11-12T00:10:33+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -62155,6 +62584,37 @@
      },
      "t": "2026-11-07T23:54:54+03:00"
     },
+    "r1:eb81c6270c9f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel şehir ve bina yapısını gösteren panoramik hava fotoğrafı, konut satışı haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "konut, site veya bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T00:10:33+03:00"
+    },
     "r1:f2bac7133776:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -62212,7 +62672,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-11T13:39:02+03:00",
+   "t": "2026-11-12T00:10:33+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -71417,6 +71877,32 @@
      },
      "t": "2026-11-07T23:54:54+03:00"
     },
+    "r1:eb81c6270c9f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçı konut satışı haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "konut, site veya bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T00:10:33+03:00"
+    },
     "r1:f2bac7133776:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -71474,7 +71960,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-11T09:11:04+03:00",
+   "t": "2026-11-12T00:10:33+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -106426,7 +106912,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T18:03:30+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -106454,6 +106940,7 @@
     "Alanya sahili veya turistik bölge",
     "deniz",
     "kale",
+    "konut, site veya bina",
     "liman",
     "şehir"
    ],
@@ -106469,7 +106956,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-11T09:11:04+03:00",
+   "son_kabul": "2026-11-12T00:10:33+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
