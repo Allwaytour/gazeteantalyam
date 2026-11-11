@@ -3338,6 +3338,40 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:6f3139434588:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kortun dışından çekilmiş boş bir alan, turnuva haberi için yetersiz ve yabancı unsurlar içeriyor.",
+      "gerekli": [
+       {
+        "unsur": "pickleball kortu",
+        "var": true
+       },
+       {
+        "unsur": "pickleball raketi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T03:08:40+03:00"
+    },
     "r1:7c01248a2b23:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -3365,7 +3399,11 @@
      "t": "2026-11-08T11:34:01+03:00"
     }
    },
-   "t": "2026-11-08T11:34:01+03:00",
+   "ozet": {
+    "dh": "4765414321312383",
+    "sha": "9ff74df496e75bef33e718ec"
+   },
+   "t": "2026-11-11T03:08:40+03:00",
    "teknik": {
     "doygunluk": 18.7,
     "inen": [
@@ -25289,6 +25327,45 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:6f3139434588:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yalnızca top ve çizgi gösteriyor; raket veya sporcu olmadığı için haber için zayıf bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "pickleball kortu",
+        "var": true
+       },
+       {
+        "unsur": "pickleball raketi",
+        "var": false
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       499,
+       455,
+       693,
+       607
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T03:08:40+03:00"
+    },
     "r1:78d769d72682:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -25328,7 +25405,7 @@
     "dh": "349a4dc6336dd48a",
     "sha": "0fc6fb4ecc4777dafb4f4d53"
    },
-   "t": "2026-11-10T14:07:34+03:00",
+   "t": "2026-11-11T03:08:40+03:00",
    "teknik": {
     "doygunluk": 39.8,
     "inen": [
@@ -43535,6 +43612,45 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:6f3139434588:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Net bir ekipman görseli, ancak sporcuların görünmemesi temsilî değerini biraz düşürüyor.",
+      "gerekli": [
+       {
+        "unsur": "pickleball kortu",
+        "var": true
+       },
+       {
+        "unsur": "pickleball raketi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       336,
+       143,
+       903,
+       955
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T03:08:40+03:00"
+    },
     "r1:78d769d72682:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -43605,7 +43721,7 @@
     "dh": "7f4766368fd9e223",
     "sha": "94144c12e2ac90d88f157dbd"
    },
-   "t": "2026-11-10T14:07:34+03:00",
+   "t": "2026-11-11T03:08:40+03:00",
    "teknik": {
     "doygunluk": 53.7,
     "inen": [
@@ -51014,6 +51130,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Learning_to_ride_a_bike_at_Sunnysands%2C_Barmouth._2012..jpg/1280px-Learning_to_ride_a_bike_at_Sunnysands%2C_Barmouth._2012..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9138e893e83690d3": {
+   "icerik": {
+    "ana_kutu": [
+     116,
+     318,
+     762,
+     796
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pickleball raketi",
+     "pickleball topu",
+     "file"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı toprak zeminde file önünde iki mavi pickleball raketi ve dört sarı top.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "ekipman tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "canli mac",
+     "turnuva ozeti"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6f3139434588:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ekipmanları net gösteriyor ancak sporcuların yer almaması turnuva haberi için eksiklik yaratıyor.",
+      "gerekli": [
+       {
+        "unsur": "pickleball kortu",
+        "var": true
+       },
+       {
+        "unsur": "pickleball raketi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       318,
+       762,
+       796
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T03:08:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2031309ada4d6c2f",
+    "sha": "68a0bc9497af6cf32360590e"
+   },
+   "t": "2026-11-11T03:08:40+03:00",
+   "teknik": {
+    "doygunluk": 53.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.054,
+    "keskinlik": 1846,
+    "kontrast": 36,
+    "medyan": 144,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1693142518820-78d7a05f1546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGlja2xlYmFsbCUyMGNvdXJ0fGVufDF8MHx8fDE3OTQzNTU2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "9190beae8a0a6e19": {
    "icerik": {
@@ -61526,6 +61740,45 @@
      },
      "t": "2026-11-09T18:36:06+03:00"
     },
+    "r1:6f3139434588:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Manavgat'taki turnuva olmasa da pickleball oynayan sporcuları gösteren uygun bir temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "pickleball kortu",
+        "var": true
+       },
+       {
+        "unsur": "pickleball raketi",
+        "var": true
+       },
+       {
+        "unsur": "sporcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       198,
+       48,
+       893,
+       429
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T03:08:40+03:00"
+    },
     "r1:78d769d72682:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -61665,7 +61918,7 @@
     "dh": "5200307449e96263",
     "sha": "9269770cbb198101a3cdb138"
    },
-   "t": "2026-11-10T14:07:34+03:00",
+   "t": "2026-11-11T03:08:40+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -96448,7 +96701,7 @@
    "gosterim_ad": "pickleball turnuvası",
    "ilk_kabul": "2026-11-08T11:34:01+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "The White House / Wikimedia Commons (Public domain)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -96491,7 +96744,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-10T14:07:34+03:00",
+   "son_kabul": "2026-11-11T03:08:40+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg/1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
