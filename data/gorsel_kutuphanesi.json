@@ -32787,6 +32787,32 @@
      },
      "t": "2026-11-09T17:35:49+03:00"
     },
+    "r1:e4427e0afca0:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde belirtilen lüks otel veya tesis profili yerine sıradan bir bahçe görünümü sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "lüks otel, resort, havuz veya sahil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T17:39:13+03:00"
+    },
     "r1:ed177a9c8575:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32818,7 +32844,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-11T04:38:25+03:00",
+   "t": "2026-11-11T17:39:13+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -89848,6 +89874,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Rumelange%2C_cin%C3%A9ma_Kursaal.jpg/1280px-Rumelange%2C_cin%C3%A9ma_Kursaal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "eac775770109de11": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel binası",
+     "bahçe",
+     "çiçekler",
+     "balkon",
+     "çim alan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Lüks bir otel binası ve peyzajlı bahçesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberleri",
+     "otel tanıtımı",
+     "tatil haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor müsabakası",
+     "adliye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e4427e0afca0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Lüks otel tesisi görselde yer alıyor ve haberin baſlangıç profilini destekliyor.",
+      "gerekli": [
+       {
+        "unsur": "lüks otel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T17:39:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c18001849cc06091",
+    "sha": "14a8f96e6516b890fe262748"
+   },
+   "t": "2026-11-11T17:39:40+03:00",
+   "teknik": {
+    "doygunluk": 27.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.21,
+    "keskinlik": 2040,
+    "kontrast": 80,
+    "medyan": 98,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg/1280px-Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ead73a422205258a": {
    "icerik": {
     "ana_kutu": null,
@@ -98372,6 +98487,32 @@
      },
      "t": "2026-11-09T17:35:49+03:00"
     },
+    "r1:e4427e0afca0:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Turist profilindeki değişimi ve lüks tesisleri yansıtan hiçbir unsur içermiyor, sokak karesi.",
+      "gerekli": [
+       {
+        "unsur": "lüks otel, resort, havuz veya sahil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T17:39:13+03:00"
+    },
     "r1:ed177a9c8575:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -98403,7 +98544,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-09T17:35:49+03:00",
+   "t": "2026-11-11T17:39:13+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -106409,6 +106550,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T17:34:37+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cow_hoof_repair.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "eac775770109de11": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1600,
+    1200
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Lüks bir otel binası ve peyzajlı bahçesi",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-11T17:39:40+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Nihat1988 / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "Nihat1988",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bahçe",
+    "balkon",
+    "lüks otel",
+    "otel binası",
+    "çim alan",
+    "çiçekler"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg/500px-Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm haberleri",
+    "otel tanıtımı",
+    "tatil haberleri"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor müsabakası",
+    "adliye haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T17:39:40+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg/1280px-Innova_Resort_%26_Spa_BELEK_-_ANTALYA_-_panoramio_-_Nihat1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
