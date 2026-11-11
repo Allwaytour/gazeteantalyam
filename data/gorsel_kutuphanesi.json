@@ -6976,6 +6976,116 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Found_photograph-_learning_to_ride_a_bike.jpg/1280px-Found_photograph-_learning_to_ride_a_bike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "125eb20a0ae390fe": {
+   "icerik": {
+    "ana_kutu": [
+     303,
+     175,
+     908,
+     868
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "karate kıyafeti",
+     "siyah kuşak",
+     "ağaç",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada yol kenarında karate pozu veren sporcular",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "karate haberi",
+     "spor eğitimi haberi",
+     "dövüş sanatları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      409,
+      288,
+      513,
+      349
+     ],
+     [
+      325,
+      688,
+      451,
+      755
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b59a8c422208:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karate sporu temsili olarak gösteriliyor ancak tatami ve resmi müsabaka ortamı yok.",
+      "gerekli": [
+       {
+        "unsur": "karate musabakasi",
+        "var": false
+       },
+       {
+        "unsur": "tatami",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       303,
+       175,
+       908,
+       868
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:28:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0d054312101405",
+    "sha": "078b61d71f7f7fb09522c897"
+   },
+   "t": "2026-11-12T01:28:45+03:00",
+   "teknik": {
+    "doygunluk": 23.1,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.166,
+    "keskinlik": 1113,
+    "kontrast": 65,
+    "medyan": 120,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2hvdG9rYW4lMjBrYXJhdGUlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzk0NDM2MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "12a617fef5a852a3": {
    "icerik": {
     "ana_kutu": [
@@ -27059,6 +27169,27 @@
      },
      "t": "2026-11-11T22:41:16+03:00"
     },
+    "r1:90f1e3b70a3a:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu Kral Charles ve COP31 zirvesidir; fotoğraftaki kişi ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:27:54+03:00"
+    },
     "r1:b2d6b7a674b2:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -27090,7 +27221,7 @@
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-11T22:41:16+03:00",
+   "t": "2026-11-12T01:27:54+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -31720,6 +31851,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Blood_donors_in_%C4%B0zmir_after_the_earthquake_in_Turkey.jpg/1280px-Blood_donors_in_%C4%B0zmir_after_the_earthquake_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4f09e7b064c01dd9": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gozluk",
+     "takim elbise",
+     "kravat"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Tarim ve Orman Bakani Ibrahim Yumakli'nin resmi portre fotografi",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Bakan aciklamalari",
+     "Portre haberleri",
+     "Biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Sokak roportajlari",
+     "Kaza haberleri",
+     "Spor musabakalari"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      60,
+      269,
+      630,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:61e59f5c89b9:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana oznesi olan bakanin resmi arsiv portresi, aciklama haberleri icin uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:29:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b1099d1d4cdc5d5d",
+    "sha": "9c1bde2d7dcd26e0bbe5d4d1"
+   },
+   "t": "2026-11-12T01:29:16+03:00",
+   "teknik": {
+    "doygunluk": 36.9,
+    "inen": [
+     500,
+     511
+    ],
+    "karanlik_oran": 0.353,
+    "keskinlik": 1128,
+    "kontrast": 66,
+    "medyan": 80,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/1280px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4f39ed729ece20be": {
    "icerik": {
@@ -53798,6 +54023,36 @@
      },
      "t": "2026-11-10T21:09:52+03:00"
     },
+    "r1:90f1e3b70a3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel tarım faaliyetini göstermektedir; Kral Charles ve COP31 zirvesi haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "zirve salonu",
+        "var": false
+       },
+       {
+        "unsur": "bayraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:27:54+03:00"
+    },
     "r1:9b5513850189:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -53929,7 +54184,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-10T21:09:52+03:00",
+   "t": "2026-11-12T01:27:54+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -54402,6 +54657,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411672%29.jpg/1280px-Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8742bcdf719a1129": {
+   "icerik": {
+    "ana_kutu": [
+     355,
+     258,
+     839,
+     696
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "karate kıyafeti",
+     "siyah kuşak",
+     "ağaç",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada yol kenarında tekme atan karate sporcuları",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "karate haberi",
+     "dövüş sanatları",
+     "spor eğitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      387,
+      276,
+      477,
+      323
+     ],
+     [
+      375,
+      638,
+      449,
+      679
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b59a8c422208:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karate sporu temsili olarak yer alıyor ancak şampiyona alanı ve tatami bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "karate musabakasi",
+        "var": false
+       },
+       {
+        "unsur": "tatami",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       258,
+       839,
+       696
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:28:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0309293134340517",
+    "sha": "b039c2f0ac13048bd96680de"
+   },
+   "t": "2026-11-12T01:28:45+03:00",
+   "teknik": {
+    "doygunluk": 24.6,
+    "inen": [
+     400,
+     241
+    ],
+    "karanlik_oran": 0.146,
+    "keskinlik": 2147,
+    "kontrast": 60,
+    "medyan": 115,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1579331844418-fcd67e29b3d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8c2hvdG9rYW4lMjBrYXJhdGUlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzk0NDM2MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "87639bce8f1f39ee": {
    "icerik": {
@@ -60099,6 +60464,119 @@
    },
    "url": "/images/kurum/b7be2d578d3c38a8.jpg"
   },
+  "958b51e14ace52c9": {
+   "icerik": {
+    "ana_kutu": [
+     108,
+     122,
+     992,
+     672
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "karate kıyafeti",
+     "bina",
+     "bitki"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina önünde karate kıyafeti giymiş kişiler antrenman yapıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor haberleri",
+     "karate antrenmanı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      139,
+      145,
+      290,
+      203
+     ],
+     [
+      108,
+      381,
+      252,
+      449
+     ],
+     [
+      171,
+      477,
+      342,
+      563
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b59a8c422208:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf karate antrenmanı gösterdiği için temsilî şampiyona haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "karate musabakasi",
+        "var": true
+       },
+       {
+        "unsur": "tatami",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       108,
+       122,
+       992,
+       672
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:28:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00b999edcc4c2cac",
+    "sha": "bce98911a7ce19ab192a8752"
+   },
+   "t": "2026-11-12T01:28:45+03:00",
+   "teknik": {
+    "doygunluk": 22.1,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 737,
+    "kontrast": 54,
+    "medyan": 128,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1738835934988-ed0d238e8299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8a2FyYXRlJTIwdG91cm5hbWVudCUyMG1hdGNofGVufDF8MHx8fDE3OTQ0MzYxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "95ca46bd6331867f": {
    "icerik": {
     "ana_kutu": [
@@ -60607,6 +61085,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Live_rock_band_performance_under_stage_lights_during_an_outdoor_festival_in_the_evening.jpg/1280px-Live_rock_band_performance_under_stage_lights_during_an_outdoor_festival_in_the_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "970319a0ae968645": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "tabela",
+     "bayrak diregi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sirnak Il Tarim ve Orman Mudurlugu binasinin dis cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Tarim mudurlugu haberleri",
+     "Bolgesel yatirimlar",
+     "Kurumsal duyurular"
+    ],
+    "uygunsuz_baglamlar": [
+     "COP31 zirvesi",
+     "Uluslararasi etkinlikler",
+     "Bakan aciklamalari"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61e59f5c89b9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanliga bagli il mudurlugu binasidir ancak haberde bahsedilen Antalya'daki zirveyle dogrudan iliskisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:29:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d5d2d296d7ee6b6d",
+    "sha": "8cf498e39ca345c6c315a1e3"
+   },
+   "t": "2026-11-12T01:29:16+03:00",
+   "teknik": {
+    "doygunluk": 23.6,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.092,
+    "keskinlik": 2236,
+    "kontrast": 40,
+    "medyan": 116,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%C5%9E%C4%B1rnak_%C4%B0l_Tar%C4%B1m_ve_Orman_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC_Binas%C4%B1.jpg/1280px-%C5%9E%C4%B1rnak_%C4%B0l_Tar%C4%B1m_ve_Orman_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC_Binas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9739b7def5f35438": {
    "icerik": {
@@ -73014,6 +73583,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_2839.jpg/1280px-Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_2839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b5e0924014565ba0": {
+   "icerik": {
+    "ana_kutu": [
+     469,
+     169,
+     831,
+     860
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "otomobil",
+     "minibus",
+     "agac",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Devlet Su Isleri Konya bolge mudurlugu binasi ve onunden gecen araclar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Kurum haberleri",
+     "DSİ faaliyetleri",
+     "Yerel yatirimlar"
+    ],
+    "uygunsuz_baglamlar": [
+     "Liderler zirvesi",
+     "Uluslararasi anlasmalar",
+     "Kriz haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61e59f5c89b9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanliga bagli kurumun binasidir, ancak Antalya'daki zirve aciklamasi haberiyle dogrudan uyumlu degildir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:29:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fff3c3cdcccea3b3",
+    "sha": "780822385eac4b68a0961881"
+   },
+   "t": "2026-11-12T01:29:16+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.185,
+    "keskinlik": 1967,
+    "kontrast": 62,
+    "medyan": 147,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Devlet_Su_%C4%B0%C5%9Fleri_Konya.jpg/1280px-Devlet_Su_%C4%B0%C5%9Fleri_Konya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b631a6f231fb42d5": {
    "icerik": {
@@ -86886,6 +87548,97 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Schottland%2C_Jakob_VI.%2C_Ryal%2C_Neubewertung_1578%2C_datiert_1565%2C_CNG.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "dcf11d68bb7d2ba5": {
+   "icerik": {
+    "ana_kutu": [
+     363,
+     303,
+     755,
+     582
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "agac",
+     "kus yuvasi",
+     "kus yemi/kulubesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Orman icindeki bir agaca asilmis kus yuvasi",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "Ormancilik faaliyetleri",
+     "Kus yuvalari",
+     "Doga koruma"
+    ],
+    "uygunsuz_baglamlar": [
+     "Siyasi aciklamalar",
+     "Bakanlik toplantilari",
+     "Ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:61e59f5c89b9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gorselde bakanlik toplantisi veya eylem plani degil, dogada bir kus yuvasi yer aliyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:29:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7870b0b169b09899",
+    "sha": "b00ef152b97fa1f1e8ca8c42"
+   },
+   "t": "2026-11-12T01:29:16+03:00",
+   "teknik": {
+    "doygunluk": 25.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.177,
+    "keskinlik": 5337,
+    "kontrast": 71,
+    "medyan": 113,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/ZeytintasiMagarasiKusYuvasi.jpg/1280px-ZeytintasiMagarasiKusYuvasi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "dd1ecbb7c9adf9fb": {
    "t": "2026-11-08T15:08:26+03:00",
    "teknik": {
@@ -97443,6 +98196,36 @@
      },
      "t": "2026-11-10T21:09:52+03:00"
     },
+    "r1:90f1e3b70a3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf zirve yerine tarımsal bir araziyi göstermektedir, haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "zirve salonu",
+        "var": false
+       },
+       {
+        "unsur": "bayraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:27:54+03:00"
+    },
     "r1:9b5513850189:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -97574,7 +98357,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-10T21:09:52+03:00",
+   "t": "2026-11-12T01:27:54+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -101427,6 +102210,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:61e59f5c89b9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanliga ait genel merkez binasidir ancak eylem planinin duyuruldugu etkinlik mekanini yansitmaz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       19,
+       78,
+       966,
+       994
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T01:29:16+03:00"
+    },
     "r1:7a188c8dfe84:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -101458,7 +102276,7 @@
     "dh": "f9f9ece0f0f07220",
     "sha": "e8986034fc0f6cd1fd707f92"
    },
-   "t": "2026-11-11T02:08:22+03:00",
+   "t": "2026-11-12T01:29:16+03:00",
    "teknik": {
     "doygunluk": 42.0,
     "inen": [
@@ -104829,6 +105647,69 @@
    "url": "https://images.unsplash.com/photo-1787677357294-291c94813bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8b3V0ZG9vciUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzkzOTU4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "4f09e7b064c01dd9": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    3209,
+    3281
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2023-12-07",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tarim ve Orman Bakani Ibrahim Yumakli'nin resmi portre fotografi",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T01:29:16+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "T.C. Tarım ve Orman Bakanlığı / Ministry of Agriculture and Forestry (Türkiye) / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "T.C. Tarım ve Orman Bakanlığı / Ministry of Agriculture and Forestry (Türkiye)",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:%C4%B0brahim_Yumakl%C4%B1_(cropped).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Ibrahim Yumakli",
+      "qid": "Q119040453"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "gozluk",
+    "kravat",
+    "takim elbise"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/500px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Bakan aciklamalari",
+    "Portre haberleri",
+    "Biyografi"
+   ],
+   "kullanilamaz": [
+    "Sokak roportajlari",
+    "Kaza haberleri",
+    "Spor musabakalari"
+   ],
+   "notr_portre": true,
+   "qid": "Q119040453",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-12T01:29:16+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/1280px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
