@@ -29920,6 +29920,32 @@
      },
      "t": "2026-11-08T16:36:58+03:00"
     },
+    "r1:b0953f3914ad:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Büyükşehir Belediyesi otobüsü görünmektedir ancak haber mezarlık bakım onarımı ile ilgilidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       108,
+       30,
+       726,
+       782
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:10+03:00"
+    },
     "r1:b13496aa7eb8:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -30105,7 +30131,7 @@
     "dh": "73ebf9e8cd406126",
     "sha": "d8931e4eddd003b0aa7478e8"
    },
-   "t": "2026-11-10T13:39:30+03:00",
+   "t": "2026-11-11T14:09:10+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -55724,6 +55750,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2015_May_1_Turkey_7.jpg/1280px-2015_May_1_Turkey_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9512763cb7037cb6": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     664,
+     985,
+     995
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mezar taşı",
+     "heykel",
+     "yürüyüş yolu",
+     "ağaç",
+     "çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mezarlık içi yürüyüş yolu, heykeller, mezar taşları ve ağaçlar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mezarlık",
+     "tarihi alanlar",
+     "kent parkları"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0953f3914ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mezarlık bakım ve onarım haberi için uygun bir temsilî mezarlık iç görünümüdür.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       1,
+       0,
+       999,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "85cdcdb5a58988d8",
+    "sha": "a0630e9ea453c98801362f89"
+   },
+   "t": "2026-11-11T14:09:10+03:00",
+   "teknik": {
+    "doygunluk": 44.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.363,
+    "keskinlik": 1964,
+    "kontrast": 68,
+    "medyan": 75,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1732794119848-3b21f5ab5a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2VtZXRlcnklMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0Mzk1MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "952b9d11050d0638": {
    "icerik": {
     "ana_kutu": [
@@ -63307,6 +63431,104 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Grand_National_Assembly_of_Turkey_MPs_in_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "aa0b54f8af36d8ea": {
+   "icerik": {
+    "ana_kutu": [
+     266,
+     218,
+     793,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "demir kapı",
+     "taş sütun",
+     "ağaç",
+     "lamba",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlar arasında tarihi demir mezarlık kapısı ve taş sütunlar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mezarlık haberleri",
+     "bakım onarım",
+     "kent yönetimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0953f3914ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mezarlık ve çevresi temsilî olarak uygundur, yasaklı unsur bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       344,
+       764,
+       731
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e1e1e2f1fdb8bcf",
+    "sha": "9f23440855cca97ceb20f68c"
+   },
+   "t": "2026-11-11T14:09:10+03:00",
+   "teknik": {
+    "doygunluk": 32.1,
+    "inen": [
+     500,
+     263
+    ],
+    "karanlik_oran": 0.117,
+    "keskinlik": 4266,
+    "kontrast": 56,
+    "medyan": 97,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Higher_Lane_gates_to_Everton_Cemetery_2.jpg/1280px-Higher_Lane_gates_to_Everton_Cemetery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "aaaa07fd45b7560b": {
    "icerik": {
     "ana_kutu": [
@@ -65510,6 +65732,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Neolithic_clay%2C_stone_and_bone_artifacts_from_Thessaly%2C_NAMA%2C_191066.jpg/1280px-Neolithic_clay%2C_stone_and_bone_artifacts_from_Thessaly%2C_NAMA%2C_191066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b025ba0d853f7a55": {
+   "ozet": {
+    "dh": "0f0b4327070f0d0c",
+    "sha": "b18978a57e1e8bc382226eed"
+   },
+   "t": "2026-11-11T14:09:01+03:00",
+   "teknik": {
+    "doygunluk": 58.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.637,
+    "keskinlik": 1405,
+    "kontrast": 44,
+    "medyan": 33,
+    "parlaklik": 45,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1630248552375-45c3a55633fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2VtZXRlcnklMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0Mzk1MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "b0b9349b6aadf510": {
    "icerik": {
@@ -72223,6 +72466,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Guzelyali.jpg/1280px-Guzelyali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c0c898a22a306ac8": {
+   "icerik": {
+    "ana_kutu": [
+     178,
+     252,
+     532,
+     706
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mezar taşı",
+     "kürek",
+     "toprak yığını",
+     "taş duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mezarlıkta kazılmış toprak, mezar taşları ve kürek",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mezarlık bakımı",
+     "tarihi mezarlık",
+     "çevre düzenlemesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "cenaze haberi",
+     "cinayet haberi",
+     "adli olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0953f3914ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf mezarlık ortamını ve bakım çalışması izlenimi veren unsurları gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       178,
+       252,
+       532,
+       706
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ac18180931611af2",
+    "sha": "7ca6c65f41dc7fb36fc7fe1b"
+   },
+   "t": "2026-11-11T14:09:14+03:00",
+   "teknik": {
+    "doygunluk": 20.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.051,
+    "keskinlik": 2074,
+    "kontrast": 41,
+    "medyan": 105,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1666718096853-50949e06b8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z3JhdmV5YXJkJTIwcmVub3ZhdGlvbnxlbnwxfDB8fHwxNzk0Mzk1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c134b19aa02f5f31": {
    "icerik": {
@@ -81928,6 +82268,32 @@
      },
      "t": "2026-11-08T15:22:31+03:00"
     },
+    "r1:b0953f3914ad:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye otobüsü yer almaktadır ancak Manavgat mezarlık bakım çalışmaları haberiyle doğrudan ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       215,
+       38,
+       860,
+       915
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:10+03:00"
+    },
     "r1:b13496aa7eb8:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -82092,7 +82458,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-10T13:39:30+03:00",
+   "t": "2026-11-11T14:09:10+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -90255,6 +90621,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_12.jpg/1280px-Volkswagen_Arena%E2%80%99da_Halkbank_Gen%C3%A7iz_Zirvesi_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f15ff61d2f504d72": {
+   "icerik": {
+    "ana_kutu": [
+     21,
+     79,
+     878,
+     912
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mezarlık kapısı",
+     "duvar",
+     "ağaç",
+     "taş bina",
+     "tel çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi mezarlık giriş kapısı ve arkasında büyük bir taş yapı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mezarlık haberleri",
+     "tarihi yapı haberleri",
+     "kent bakımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0953f3914ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mezarlık ve tel çit/demir kapı unsurlarını içeren temsilî bir mezarlık görselidir ancak yurtdışı kaynaklıdır.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       358,
+       178,
+       856,
+       686
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T14:09:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f5a792929292d07",
+    "sha": "ed9bd7c627342406c6a7791b"
+   },
+   "t": "2026-11-11T14:09:10+03:00",
+   "teknik": {
+    "doygunluk": 18.5,
+    "inen": [
+     500,
+     303
+    ],
+    "karanlik_oran": 0.14,
+    "keskinlik": 4309,
+    "kontrast": 77,
+    "medyan": 99,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Higher_Lane_gates_to_Everton_Cemetery_1.jpg/1280px-Higher_Lane_gates_to_Everton_Cemetery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f2079c4b336fe479": {
    "icerik": {
@@ -102836,6 +103300,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T14:35:32+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Guzelyali.jpg/1280px-Guzelyali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "c0c898a22a306ac8": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3326,
+    2217
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mezarlıkta kazılmış toprak, mezar taşları ve kürek",
+   "gosterim_ad": "mezarlık bakım ve onarım çalışmaları",
+   "ilk_kabul": "2026-11-11T14:09:14+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Rusty Watson / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Rusty Watson",
+    "sayfa": "https://unsplash.com/photos/a-cemetery-with-tombstones-du8xCg9IznM"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kürek",
+    "mezar taşı",
+    "mezarlık",
+    "taş duvar",
+    "toprak yığını"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1666718096853-50949e06b8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z3JhdmV5YXJkJTIwcmVub3ZhdGlvbnxlbnwxfDB8fHwxNzk0Mzk1MzQxfDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "mezarlık bakımı",
+    "tarihi mezarlık",
+    "çevre düzenlemesi"
+   ],
+   "kullanilamaz": [
+    "cenaze haberi",
+    "cinayet haberi",
+    "adli olay"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T14:09:14+03:00",
+   "url": "https://images.unsplash.com/photo-1666718096853-50949e06b8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z3JhdmV5YXJkJTIwcmVub3ZhdGlvbnxlbnwxfDB8fHwxNzk0Mzk1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
