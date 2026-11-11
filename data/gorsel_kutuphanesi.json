@@ -8182,6 +8182,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_mushrooms_are_cooked._%2810393002196%29.jpg/1280px-The_mushrooms_are_cooked._%2810393002196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "17bc86c6f576e3c3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin ağacı",
+     "hasat örtüsü",
+     "arazi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Zeytin bahçesinde yere serilmiş yeşil örtü ve zeytin ağaçları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin hasadı",
+     "tarım",
+     "üretim"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0294fbd57f71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin bahçesini genel olarak gösterse de dalındaki zeytinler net seçilmiyor.",
+      "gerekli": [
+       {
+        "unsur": "dalında zeytin",
+        "var": false
+       },
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T08:38:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b878fe99b397777",
+    "sha": "fdf2aed6ff877f88a3c9a36d"
+   },
+   "t": "2026-11-11T08:38:19+03:00",
+   "teknik": {
+    "doygunluk": 40.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.266,
+    "keskinlik": 5511,
+    "kontrast": 64,
+    "medyan": 94,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Olive-Harvest-Sitia-Lasithi-Crete-Greece.jpg/1280px-Olive-Harvest-Sitia-Lasithi-Crete-Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "17be0f74521f6d57": {
    "icerik": {
     "ana_kutu": [
@@ -33259,6 +33354,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alanya_Kalesi_g%C3%BCnd%C3%BCz.jpg/1280px-Alanya_Kalesi_g%C3%BCnd%C3%BCz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5bf916e9a522d04f": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     540,
+     800,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin dalı",
+     "zeytin",
+     "yaprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dalında renklenmeye başlayan zeytinler ve zeytin ağacı yaprakları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "zeytin üretimi",
+     "hasat dönemi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "teknoloji",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0294fbd57f71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin rekoltesi haberi için uygun dalında zeytin görseli sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "dalında zeytin",
+        "var": true
+       },
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       540,
+       800,
+       780
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T08:38:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9e559198c246ebb3",
+    "sha": "4b960634698f2e08a768b3c7"
+   },
+   "t": "2026-11-11T08:38:19+03:00",
+   "teknik": {
+    "doygunluk": 31.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.152,
+    "keskinlik": 2438,
+    "kontrast": 56,
+    "medyan": 104,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Olives_branch.jpg/1280px-Olives_branch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5c22cb0651942f49": {
    "icerik": {
@@ -63478,6 +63669,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/20230116_Manavgat%2C_Turkey_12.jpg/1280px-20230116_Manavgat%2C_Turkey_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b1814a2f9a8c9c88": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     440,
+     660,
+     560
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin dalı",
+     "zeytin",
+     "yaprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaç dalında henüz olgunlaşmamış yeşil zeytinler",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "zeytin rekoltesi",
+     "bitki örtüsü"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0294fbd57f71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana unsuru olan dalında zeytinleri açıkça gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "dalında zeytin",
+        "var": true
+       },
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       440,
+       660,
+       560
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T08:38:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "91c4c41c9af75b0f",
+    "sha": "46da74be835b4122b19dd4c9"
+   },
+   "t": "2026-11-11T08:38:19+03:00",
+   "teknik": {
+    "doygunluk": 34.5,
+    "inen": [
+     500,
+     355
+    ],
+    "karanlik_oran": 0.257,
+    "keskinlik": 2252,
+    "kontrast": 54,
+    "medyan": 92,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b185c82898137005": {
    "icerik": {
     "ana_kutu": [
@@ -83882,6 +84169,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Art_design_from_recycle_raw_material.jpg/1280px-Art_design_from_recycle_raw_material.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e954f300a2efe1c3": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     50,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin hasat tarağı",
+     "zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Zeminde plastik zeytin hasat tarakları ve gölgeleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin hasadı",
+     "tarım aletleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0294fbd57f71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta zeytin bulunmuyor, sadece hasat tarağı var.",
+      "gerekli": [
+       {
+        "unsur": "dalında zeytin",
+        "var": false
+       },
+       {
+        "unsur": "zeytin",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T08:38:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cbcde47361f6fb85",
+    "sha": "c7bce281e0547ac2ac1c3844"
+   },
+   "t": "2026-11-11T08:38:19+03:00",
+   "teknik": {
+    "doygunluk": 43.0,
+    "inen": [
+     500,
+     370
+    ],
+    "karanlik_oran": 0.061,
+    "keskinlik": 4414,
+    "kontrast": 43,
+    "medyan": 155,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Olive_harvest_combs._Anthidona._Greece.jpg/1280px-Olive_harvest_combs._Anthidona._Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e95feef20a5eddfb": {
    "icerik": {
     "ana_kutu": [
@@ -88395,6 +88770,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0294fbd57f71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Önbellekteki fotoğraf değerlendirilmedi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T08:38:19+03:00"
+    },
     "r1:2a4f600b3a9a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -88491,7 +88887,11 @@
      "t": "2026-11-08T13:06:28+03:00"
     }
    },
-   "t": "2026-11-08T14:42:04+03:00",
+   "ozet": {
+    "dh": "33862632386a1e9d",
+    "sha": "b3a40a4a6c32899506f013e0"
+   },
+   "t": "2026-11-11T08:38:19+03:00",
    "teknik": {
     "doygunluk": 41.5,
     "inen": [
@@ -98683,6 +99083,67 @@
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "b1814a2f9a8c9c88": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5591,
+    3969
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2019-06-14",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ağaç dalında henüz olgunlaşmamış yeşil zeytinler",
+   "gosterim_ad": "düşük zeytinyağı oranı",
+   "ilk_kabul": "2026-11-11T08:38:19+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Jules Verne Times Two",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Olive_tree_(Olea_europaea)_branch_with_immature_olives,_Pra%C3%A7a_Jo%C3%A3o_do_Rio,_Lisbon,_Portugal_julesvernex2.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "dalında zeytin",
+    "yaprak",
+    "zeytin",
+    "zeytin dalı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım",
+    "zeytin rekoltesi",
+    "bitki örtüsü"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T08:38:19+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
