@@ -48464,6 +48464,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Winter_tires_with_North_American_symbol.jpg/1280px-Winter_tires_with_North_American_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "837947be6da23922": {
+   "ozet": {
+    "dh": "170f33960f69aa4f",
+    "sha": "1d5e30f09f0618ff78552562"
+   },
+   "t": "2026-11-11T11:08:47+03:00",
+   "teknik": {
+    "doygunluk": 77.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.461,
+    "keskinlik": 2495,
+    "kontrast": 62,
+    "medyan": 55,
+    "parlaklik": 74,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/View_of_Orpheum_Theater_auditorium_from_stage.jpg/1280px-View_of_Orpheum_Theater_auditorium_from_stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "83a9d9b5cb760c42": {
    "icerik": {
     "ana_kutu": [
@@ -54528,6 +54549,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Water_generator_from_snow.jpg/1280px-Water_generator_from_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "93c15a1019f36f2e": {
+   "icerik": {
+    "ana_kutu": [
+     595,
+     290,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "merdiven",
+     "aydınlatma",
+     "balkon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern bir konferans salonunun oturma düzeni ve aydınlatmaları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konferans",
+     "etkinlik",
+     "toplantı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "siyasi miting",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d2ec1610fe7b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, konferans düzenlenecek modern bir salonu gösterdiği için habere uygundur ancak kürsü görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "kürsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T11:08:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cce47118cc32d0e5",
+    "sha": "d68405b525d86de672d37b43"
+   },
+   "t": "2026-11-11T11:08:58+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     400,
+     308
+    ],
+    "karanlik_oran": 0.305,
+    "keskinlik": 1381,
+    "kontrast": 51,
+    "medyan": 75,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1791334574724-b7be564dd125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bW9kZXJuJTIwYXVkaXRvcml1bSUyMHN0YWdlJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDM4NDUyNnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "9420d6762ce3012d": {
    "icerik": {
