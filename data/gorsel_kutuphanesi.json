@@ -1995,6 +1995,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mustafabaykal.jpg/1280px-Mustafabaykal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "079e6df86ad7a89d": {
+   "icerik": {
+    "ana_kutu": [
+     223,
+     344,
+     989,
+     971
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "pencere",
+     "lamba",
+     "hasır minder"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz duvarlı, ahşap masalı ve hasır yataklı sade bir oda.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "otel",
+     "mimari",
+     "dekorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "teknoloji",
+     "dijital",
+     "toplantı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1d68c9fd61f7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oda görüntüsü teknoloji ve dijital projeler haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": false
+       },
+       {
+        "unsur": "dijital ekran",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:09:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "064e4757132e7e3f",
+    "sha": "4eb4a2e1660ac7a9787bd848"
+   },
+   "t": "2026-11-11T10:09:04+03:00",
+   "teknik": {
+    "doygunluk": 16.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.049,
+    "keskinlik": 403,
+    "kontrast": 38,
+    "medyan": 115,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flickr_-_schmuela_-_in_my_room.jpg/1280px-Flickr_-_schmuela_-_in_my_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "081f987ccb1dc8b6": {
    "icerik": {
     "ana_kutu": [
@@ -10916,6 +11009,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/SilivriPrison01.JPG/1280px-SilivriPrison01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1e39572d22359091": {
+   "ozet": {
+    "dh": "0d7c9252d242b28c",
+    "sha": "1e01c32ef40fd10b3e370fc2"
+   },
+   "t": "2026-11-11T10:08:59+03:00",
+   "teknik": {
+    "doygunluk": 35.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.496,
+    "keskinlik": 937,
+    "kontrast": 87,
+    "medyan": 52,
+    "parlaklik": 81,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1756387461699-b1b2394fdae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dG91Y2glMjBzY3JlZW4lMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3OTQzODA5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1e674c73093cac0a": {
    "icerik": {
@@ -20919,13 +21033,43 @@
       "yasak": []
      },
      "t": "2026-11-09T17:06:24+03:00"
+    },
+    "r1:bda014b8124f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi mimarisi kısmen var ancak RuinAdalia Hotel görünmüyor, COP31 buluşmasını yansıtmak için yetersiz.",
+      "gerekli": [
+       {
+        "unsur": "RuinAdalia Hotel",
+        "var": false
+       },
+       {
+        "unsur": "Kaleiçi mimarisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:08:30+03:00"
     }
    },
    "ozet": {
     "dh": "b57575655f1b28df",
     "sha": "ec8ac45a8d88b55cd7152fb0"
    },
-   "t": "2026-11-09T17:06:24+03:00",
+   "t": "2026-11-11T10:08:30+03:00",
    "teknik": {
     "doygunluk": 25.6,
     "inen": [
@@ -35762,6 +35906,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Renewable_energy_reduces_health_costs_in_Turkey.jpg/1280px-Renewable_energy_reduces_health_costs_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "63e9a8c51669b4b7": {
+   "ozet": {
+    "dh": "242f25369292d626",
+    "sha": "579873df2a611e77b856d9c8"
+   },
+   "t": "2026-11-11T10:08:36+03:00",
+   "teknik": {
+    "doygunluk": 29.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.499,
+    "keskinlik": 2316,
+    "kontrast": 63,
+    "medyan": 50,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadrian_S_Gate_Antalya_%28165223475%29.jpeg/1280px-Hadrian_S_Gate_Antalya_%28165223475%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "64696d5c1741985a": {
    "icerik": {
     "ana_kutu": [
@@ -49698,6 +49863,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Elway_Transit_Company_truck_trailer_car_Sandusky%2C_Ohio_-_DPLA_-_9f04c7c7b683d5763dfaaccb5c45aeb1.jpg/1280px-Elway_Transit_Company_truck_trailer_car_Sandusky%2C_Ohio_-_DPLA_-_9f04c7c7b683d5763dfaaccb5c45aeb1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "87fb40302cf8e162": {
+   "icerik": {
+    "ana_kutu": [
+     66,
+     73,
+     915,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dokunmatik ekran",
+     "monitör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Farklı boyutlarda sıralanmış dokunmatik ekranlı endüstriyel monitörler.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknoloji",
+     "donanım",
+     "dijital projeler"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1d68c9fd61f7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Farklı boyutlardaki dijital ekranlar, teknoloji ve dijital projeler haberi için oldukça uygun bir görsel sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": true
+       },
+       {
+        "unsur": "dijital ekran",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       66,
+       73,
+       915,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:09:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5eba34e0c6bca1c0",
+    "sha": "2d8b499d0014a82b21afddf1"
+   },
+   "t": "2026-11-11T10:09:04+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     291
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 1503,
+    "kontrast": 76,
+    "medyan": 199,
+    "parlaklik": 185,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg/1280px-VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "88dd8e7e2d5bef01": {
    "icerik": {
     "ana_kutu": [
@@ -50750,6 +51009,123 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Medvedev_and_Erdogan_in_Turkey21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "8b2f5e51f3f978ee": {
+   "icerik": {
+    "ana_kutu": [
+     6,
+     96,
+     959,
+     574
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "masa",
+     "kisi",
+     "paravan",
+     "vazo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel kıyafetli kişilerin masa etrafında oturduğu eski bir çizim.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih",
+     "sanat",
+     "kultur"
+    ],
+    "uygunsuz_baglamlar": [
+     "teknoloji",
+     "turizm teknolojileri",
+     "cop31"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      371,
+      319,
+      563,
+      423
+     ],
+     [
+      449,
+      442,
+      690,
+      566
+     ],
+     [
+      451,
+      513,
+      951,
+      642
+     ],
+     [
+      473,
+      764,
+      940,
+      836
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1d68c9fd61f7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi çizim, güncel turizm teknolojileri ve dijital projeler haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": false
+       },
+       {
+        "unsur": "dijital ekran",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:09:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d686cac88e8e4616",
+    "sha": "2e7581d02bb9cc3474207f53"
+   },
+   "t": "2026-11-11T10:09:04+03:00",
+   "teknik": {
+    "doygunluk": 55.4,
+    "inen": [
+     500,
+     273
+    ],
+    "karanlik_oran": 0.108,
+    "keskinlik": 1810,
+    "kontrast": 35,
+    "medyan": 105,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Zhou_Wenjiu._Go_players.National_Palace_Museum%2C_Beijing..jpg/1280px-Zhou_Wenjiu._Go_players.National_Palace_Museum%2C_Beijing..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8b9b8c784b14cccf": {
    "icerik": {
@@ -52028,13 +52404,43 @@
       "yasak": []
      },
      "t": "2026-11-09T17:06:24+03:00"
+    },
+    "r1:bda014b8124f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi sokağını gösteriyor ancak otelin kendisi ve buluşma ortamı görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "RuinAdalia Hotel",
+        "var": false
+       },
+       {
+        "unsur": "Kaleiçi mimarisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:08:30+03:00"
     }
    },
    "ozet": {
     "dh": "d6677b3b3b3c3c1e",
     "sha": "5360cca687a428db8789221d"
    },
-   "t": "2026-11-09T17:06:24+03:00",
+   "t": "2026-11-11T10:08:30+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -52580,6 +52986,102 @@
     "s": "t1"
    },
    "url": "/images/kurum/c3ea3910914e2b78.jpg"
+  },
+  "8fe6edae35f65c7e": {
+   "icerik": {
+    "ana_kutu": [
+     326,
+     209,
+     998,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "dokunmatik ekran",
+     "musluk",
+     "kasa",
+     "koleksiyon lamba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Önde dokunmatik ekranlı içecek muslukları, arkada kafe ortamı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknoloji",
+     "kafe",
+     "dijital sistemler"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1d68c9fd61f7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dokunmatik dijital ekranlı sistem, turizm teknolojileri ve dijital projeler haberini başarıyla temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": true
+       },
+       {
+        "unsur": "dijital ekran",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       326,
+       209,
+       998,
+       856
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:09:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "044510534a4c5232",
+    "sha": "eda0d677953e29db8cb8225f"
+   },
+   "t": "2026-11-11T10:09:04+03:00",
+   "teknik": {
+    "doygunluk": 30.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.158,
+    "keskinlik": 2007,
+    "kontrast": 72,
+    "medyan": 160,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Self_Service_KVM_Touch_Screen_Display_.jpg/1280px-Self_Service_KVM_Touch_Screen_Display_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "904d4b7b12a010b0": {
    "icerik": {
@@ -60599,13 +61101,43 @@
       "yasak": []
      },
      "t": "2026-11-09T17:06:24+03:00"
+    },
+    "r1:bda014b8124f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotoğrafta Kaleiçi mimarisi var ancak otel değil başka bir enstitü binası görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "RuinAdalia Hotel",
+        "var": false
+       },
+       {
+        "unsur": "Kaleiçi mimarisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T10:08:24+03:00"
     }
    },
    "ozet": {
     "dh": "c096929098b09414",
     "sha": "1fb74586f5e15f628fced4f4"
    },
-   "t": "2026-11-09T17:06:24+03:00",
+   "t": "2026-11-11T10:08:30+03:00",
    "teknik": {
     "doygunluk": 16.8,
     "inen": [
@@ -98295,6 +98827,68 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "8fe6edae35f65c7e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6000,
+    4000
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2018-12-13",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Önde dokunmatik ekranlı içecek muslukları, arkada kafe ortamı.",
+   "gosterim_ad": "dijital projeler",
+   "ilk_kabul": "2026-11-11T10:09:04+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Ndevito / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Ndevito",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Self_Service_KVM_Touch_Screen_Display_.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "dijital ekran",
+    "dokunmatik ekran",
+    "kasa",
+    "koleksiyon lamba",
+    "musluk",
+    "teknoloji"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Self_Service_KVM_Touch_Screen_Display_.jpg/500px-Self_Service_KVM_Touch_Screen_Display_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "teknoloji",
+    "kafe",
+    "dijital sistemler"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-11T10:09:04+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Self_Service_KVM_Touch_Screen_Display_.jpg/1280px-Self_Service_KVM_Touch_Screen_Display_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "9338f29769ee5d6c": {
    "alt_tur": "nesne",
