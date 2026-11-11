@@ -15596,13 +15596,52 @@
       "yasak": []
      },
      "t": "2026-11-07T23:53:12+03:00"
+    },
+    "r1:a260a0a2600c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı sahil şeridi ve deniz açıkça görünüyor.",
+      "gerekli": [
+       {
+        "unsur": "Konyaaltı Sahili",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "kumsal",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       410,
+       520,
+       750,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:09:39+03:00"
     }
    },
    "ozet": {
     "dh": "14005177071b3366",
     "sha": "d38e2e3f603b107026fac7c0"
    },
-   "t": "2026-11-07T23:53:12+03:00",
+   "t": "2026-11-11T13:09:39+03:00",
    "teknik": {
     "doygunluk": 17.5,
     "inen": [
@@ -24731,6 +24770,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg/1280px-Fatma_Sahin_-_World_Economic_Forum_on_the_Middle_East%2C_North_Africa_and_Eurasia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "421fca57757df506": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     750,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "sahil",
+     "deniz",
+     "yol",
+     "otomobil",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten Konyaaltı Sahili, sahil yolu ve falezler",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "kent haberi",
+     "sahil düzenlemesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "mahkeme"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a260a0a2600c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı Sahili geniş açıdan net şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "Konyaaltı Sahili",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "kumsal",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       0,
+       740,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:09:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f7f3aed2b6b4424",
+    "sha": "3c1359d96d675e31c0340d81"
+   },
+   "t": "2026-11-11T13:09:39+03:00",
+   "teknik": {
+    "doygunluk": 21.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 2921,
+    "kontrast": 59,
+    "medyan": 146,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Antalya%2C_Turkey_Beaches.JPG/1280px-Antalya%2C_Turkey_Beaches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4294d5af79c23640": {
    "icerik": {
     "ana_kutu": [
@@ -25477,6 +25618,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg/1280px-Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "44029827a6b9fa7d": {
+   "icerik": {
+    "ana_kutu": [
+     288,
+     341,
+     549,
+     847
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "cadde",
+     "otomobil",
+     "ağaç",
+     "park"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara'daki Sağlık Bakanlığı ana bina ve çevresindeki cadde görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sağlık bakanlığı haberleri",
+     "kurum binaları",
+     "ankara haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya etkinlikleri",
+     "konferans",
+     "canlı yayın"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:22bfa4802f64:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanlık binası görünse de haber Antalya'daki girişimle ilgili olduğundan tam eşleşmez.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       288,
+       341,
+       549,
+       847
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:10:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "010f968363232b2b",
+    "sha": "d4452d506ddd76963f4e49c6"
+   },
+   "t": "2026-11-11T13:10:45+03:00",
+   "teknik": {
+    "doygunluk": 15.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 3137,
+    "kontrast": 58,
+    "medyan": 144,
+    "parlaklik": 150,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1_binas%C4%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "44605e2d8bcabd02": {
    "icerik": {
@@ -36147,6 +36377,107 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMHByb3Rlc3QlMjBiYW5uZXIlMjBzYW5kfGVufDF8MHx8fDE3OTQxMjcwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "63bb0145d684df5b": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     0,
+     900,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "dağ",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten Konyaaltı Sahili ve kıyıya vuran dalgalar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "hava durumu",
+     "kent tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç haberi",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a260a0a2600c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı sahilini ve denizi genel plandan gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "Konyaaltı Sahili",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "kumsal",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       200,
+       800,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:09:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ffffdd5e9e9c1060",
+    "sha": "f8bb9c04efe402a9b9084e60"
+   },
+   "t": "2026-11-11T13:09:39+03:00",
+   "teknik": {
+    "doygunluk": 21.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 1924,
+    "kontrast": 61,
+    "medyan": 139,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "63d7bb6eed98bc38": {
    "icerik": {
@@ -59008,13 +59339,52 @@
       "yasak": []
      },
      "t": "2026-11-08T20:35:27+03:00"
+    },
+    "r1:a260a0a2600c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konyaaltı Sahili ve deniz manzarası net şekilde görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "Konyaaltı Sahili",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "kumsal",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       420,
+       750,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:09:39+03:00"
     }
    },
    "ozet": {
     "dh": "80000000a0668663",
     "sha": "dcbd945387eb103a666bf5ef"
    },
-   "t": "2026-11-08T20:35:27+03:00",
+   "t": "2026-11-11T13:09:39+03:00",
    "teknik": {
     "doygunluk": 25.2,
     "inen": [
@@ -82177,6 +82547,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Concert_at_a_hotel_in_Kemer%2C_Turkey.jpg/1280px-Concert_at_a_hotel_in_Kemer%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "df5479863e2968ad": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     73,
+     855,
+     979
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ambulans",
+     "asfalt yol",
+     "araba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta seyir halindeki T.C. Sağlık Bakanlığına ait 112 acil yardım ambulansı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sağlık bakanlığı haberleri",
+     "ambulans hizmetleri",
+     "acil yardım"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi konferans",
+     "uluslararası zirve",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:22bfa4802f64:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sağlık Bakanlığı aracı görülse de girişim toplantısını yansıtmadığı için genel bir kurum görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       28,
+       73,
+       855,
+       979
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza"
+      ]
+     },
+     "t": "2026-11-11T13:10:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "167a5c5f1e1ed6ec",
+    "sha": "55630d720a55450f58f80d06"
+   },
+   "t": "2026-11-11T13:10:45+03:00",
+   "teknik": {
+    "doygunluk": 18.3,
+    "inen": [
+     500,
+     304
+    ],
+    "karanlik_oran": 0.291,
+    "keskinlik": 2639,
+    "kontrast": 80,
+    "medyan": 98,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg/1280px-Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "df7851e7780a20d5": {
    "icerik": {
     "ana_kutu": [
@@ -87108,13 +87567,52 @@
       "yasak": []
      },
      "t": "2026-11-08T20:35:27+03:00"
+    },
+    "r1:a260a0a2600c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arka planda Konyaaltı sahil tesisi ve deniz yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "Konyaaltı Sahili",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "kumsal",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       550,
+       400,
+       650,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T13:09:39+03:00"
     }
    },
    "ozet": {
     "dh": "07434b4b4b0b8f87",
     "sha": "bd188dfd90b0a45bf5c0e450"
    },
-   "t": "2026-11-08T20:35:27+03:00",
+   "t": "2026-11-11T13:09:39+03:00",
    "teknik": {
     "doygunluk": 19.2,
     "inen": [
@@ -100640,7 +101138,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T20:35:27+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "MrEfeS / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -100654,6 +101152,10 @@
     "kisiler": [],
     "kurumlar": [
      {
+      "ad": "Antalya falezler, Türk bayrağı, sahil ve yol manzarası",
+      "qid": "Q2493895"
+     },
+     {
       "ad": "Konyaaltı Sahili",
       "qid": "Q2493895"
      }
@@ -100663,10 +101165,12 @@
     "yerler": []
    },
    "konular": [
+    "Konyaaltı Sahili",
     "araba",
     "bina",
     "deniz",
     "falez",
+    "kumsal",
     "sahil",
     "türk bayrağı"
    ],
@@ -100683,7 +101187,7 @@
    "qid": "Q2493895",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-08T20:35:27+03:00",
+   "son_kabul": "2026-11-11T13:09:39+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Konyaalt%C4%B1_Beach_and_cliffs.jpg/1280px-Konyaalt%C4%B1_Beach_and_cliffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
