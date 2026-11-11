@@ -47882,6 +47882,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:6da70994507e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğtaf Kaş limanını gösteriyor ancak haberin ana konusu olan Gerenlik Koyu değil, liman ve tekneler yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "Gerenlik Koyu",
+        "var": false
+       },
+       {
+        "unsur": "sahil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kapalı bina",
+       "şehir merkezi"
+      ]
+     },
+     "t": "2026-11-11T12:38:56+03:00"
+    },
     "r1:a0cf98789f4a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47919,7 +47952,7 @@
     "dh": "0e3b43072f46367c",
     "sha": "776c23c151b54b6beb05ba5a"
    },
-   "t": "2026-11-10T14:37:52+03:00",
+   "t": "2026-11-11T12:38:56+03:00",
    "teknik": {
     "doygunluk": 22.3,
     "inen": [
