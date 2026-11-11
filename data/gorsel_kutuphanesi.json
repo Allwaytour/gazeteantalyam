@@ -15686,6 +15686,32 @@
      },
      "t": "2026-11-08T20:33:32+03:00"
     },
+    "r1:dba77432e2c1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanını gösterse de hava sıcaklığı değişimi haberiyle doğrudan bir bağı bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:10:59+03:00"
+    },
     "r1:dba873c695d9:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -15807,7 +15833,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-11T00:38:31+03:00",
+   "t": "2026-11-11T09:11:04+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -39436,6 +39462,37 @@
      },
      "t": "2026-11-10T14:38:26+03:00"
     },
+    "r1:dba77432e2c1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümünü yansıttığı için hava durumu haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:11:04+03:00"
+    },
     "r1:e0e4aced2d92:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -39503,7 +39560,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-10T14:38:26+03:00",
+   "t": "2026-11-11T09:11:04+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -46804,6 +46861,32 @@
      },
      "t": "2026-11-08T20:33:32+03:00"
     },
+    "r1:dba77432e2c1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya manzarası içeriyor ancak sıcaklık değişimi haberini yansıtmak için yetersiz bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:10:59+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -46895,7 +46978,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-11T00:38:31+03:00",
+   "t": "2026-11-11T09:11:04+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -56567,6 +56650,37 @@
      },
      "t": "2026-11-08T20:33:32+03:00"
     },
+    "r1:dba77432e2c1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel görünümü hava durumu haberi için oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:11:04+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -56658,7 +56772,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-11T00:38:31+03:00",
+   "t": "2026-11-11T09:11:04+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -65358,6 +65472,32 @@
      },
      "t": "2026-11-07T23:58:03+03:00"
     },
+    "r1:dba77432e2c1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber hava durumuyla ilgili ancak fotoğrafta plaj voleybolu maçı yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya genel görünüm",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:11:04+03:00"
+    },
     "r1:e86b796573be:mekan": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -65454,7 +65594,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-11T00:38:31+03:00",
+   "t": "2026-11-11T09:11:04+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -80057,6 +80197,133 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MTMwNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "df0111ed05f92b17": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     0,
+     939,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "pankart",
+     "Türk bayrağı",
+     "Atatürk portresi",
+     "kalabalık",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Atatürk posterli pankart arkasında yürüyen kalabalık gece yürüyüşü.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyasi yürüyüş",
+     "milli bayram kutlaması",
+     "anma yürüyüşü"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor karşılaşması",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      597,
+      269,
+      655,
+      309
+     ],
+     [
+      597,
+      319,
+      659,
+      368
+     ],
+     [
+      597,
+      381,
+      663,
+      428
+     ],
+     [
+      601,
+      440,
+      665,
+      493
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ca28ae6972ec:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Ata'ya Saygı Yürüyüşü kalabalığı ve pankart açıkça görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "Türk bayrakları",
+        "var": true
+       },
+       {
+        "unsur": "meşaleler",
+        "var": false
+       },
+       {
+        "unsur": "kalabalık grup",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       0,
+       939,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-11T09:08:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5958381e8ea68f0f",
+    "sha": "216945bd808d9748fc1dc857"
+   },
+   "t": "2026-11-11T09:08:33+03:00",
+   "teknik": {
+    "doygunluk": 43.1,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.439,
+    "keskinlik": 2455,
+    "kontrast": 59,
+    "medyan": 57,
+    "parlaklik": 77,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b466c744176c3920.jpg"
   },
   "df412da49b195fd7": {
    "ozet": {
@@ -97883,7 +98150,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-08T18:03:30+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -97926,7 +98193,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-11T00:38:31+03:00",
+   "son_kabul": "2026-11-11T09:11:04+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -100324,6 +100591,74 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "df0111ed05f92b17": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    720,
+    480
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Atatürk posterli pankart arkasında yürüyen kalabalık gece yürüyüşü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-11T09:08:33+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Muratpaşa Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Muratpaşa Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Muratpaşa Belediyesi",
+    "sayfa": "https://muratpasa-bld.gov.tr/haber/11131/muratpasa-da-binler-ata-ya-saygi-yuruyusu-nde-bulustu"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Muratpaşa Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Atatürk portresi",
+    "Türk bayrakları",
+    "Türk bayrağı",
+    "kalabalık",
+    "kalabalık grup",
+    "pankart",
+    "sokak lambası"
+   ],
+   "kucuk": "/images/kurum/b466c744176c3920.jpg",
+   "kullanilabilir": [
+    "siyasi yürüyüş",
+    "milli bayram kutlaması",
+    "anma yürüyüşü"
+   ],
+   "kullanilamaz": [
+    "magazin haberi",
+    "spor karşılaşması",
+    "ekonomi haberi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-11T09:08:33+03:00",
+   "url": "/images/kurum/b466c744176c3920.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "e363a84d4ac7f00c": {
    "alt_tur": "yer_konu",
