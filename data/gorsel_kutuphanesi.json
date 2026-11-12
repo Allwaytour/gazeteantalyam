@@ -7695,6 +7695,102 @@
    },
    "url": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2hvbGVzYWxlJTIwZnJ1aXQlMjBtYXJrZXR8ZW58MXwwfHx8MTc5NDEzODAwOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "12021c5dc56a7c22": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "is makinesi",
+     "hendek",
+     "asfalt yuzey"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol ortasinda kazilmis hendek ve is makinesi kepcesi",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "altyapi calismasi",
+     "yol kazisi",
+     "belediye yatirimlari"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1532958b06f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf haberde bahsedilen altyapi ve kazi calismalarini dogrudan ve net bir sekilde gostermektedir.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3c1d357373250f27",
+    "sha": "efff0c91bb018005e3b8fe1a"
+   },
+   "t": "2026-11-12T23:28:12+03:00",
+   "teknik": {
+    "doygunluk": 13.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.065,
+    "keskinlik": 1970,
+    "kontrast": 49,
+    "medyan": 142,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1759579478942-a6992a87fb8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHRyZW5jaCUyMGNsb3NlfGVufDF8MHx8fDE3OTQ1MTUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "1249279455a00903": {
    "icerik": {
     "ana_kutu": [
@@ -29420,6 +29516,97 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mehmetersoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "3f84134fb98ebf14": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     150,
+     400,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "iskele",
+     "yol",
+     "otomobil",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Cadde kenarında iskele kurulmuş inşaat halindeki bir bina.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat haberleri",
+     "bina yenileme"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapı çalışmaları",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1532958b06f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf altyapı çalışmasını değil, üst yapı bina inşaatını göstermektedir; yabancı bir ülkeye aittir.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1747c71efff3df7e",
+    "sha": "f47d250b04279ae6ed2e64cb"
+   },
+   "t": "2026-11-12T23:28:00+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.121,
+    "keskinlik": 2440,
+    "kontrast": 74,
+    "medyan": 115,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5002631.jpg/1280px-Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5002631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3fcc53fd926e33bb": {
    "icerik": {
     "ana_kutu": [
@@ -44052,6 +44239,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Kumluca.JPG/1280px-Kumluca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "62f60c6990769aa5": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     400,
+     370,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "iskele",
+     "yol",
+     "çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yan yana evler ve arkasında iskeleli inşaat alanı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat",
+     "mimarlık"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapı kazı çalışmaları",
+     "belediye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1532958b06f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Altyapı çalışmasıyla ilgisi olmayan bir bina inşaatı görünümüdür.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "10383a530dbb196f",
+    "sha": "b35b0b4ce9a6ed2bfe8315ec"
+   },
+   "t": "2026-11-12T23:28:00+03:00",
+   "teknik": {
+    "doygunluk": 7.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.018,
+    "keskinlik": 2110,
+    "kontrast": 57,
+    "medyan": 124,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5313945.jpg/1280px-Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5313945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "631527db7d89cfa6": {
    "icerik": {
     "ana_kutu": null,
@@ -45724,6 +46001,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pink_Vibrant_Reflections_of_Serik_Beach.jpg/1280px-Pink_Vibrant_Reflections_of_Serik_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "664a5fa5a76b24d2": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     65,
+     640,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "silindir",
+     "iş makinesi",
+     "asfalt",
+     "trafik konisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfalt yolda sıralanmış yol yapım ve silindir makineleri.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapımı",
+     "asfalt çalışması"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1532958b06f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol yapım makinelerini temsil etse de olayın Alanya'da geçişiyle uyuşmayan yabancı bir sahnpooledir.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       70,
+       640,
+       950
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f6c9cd15b0fe4738",
+    "sha": "a64264fe7b8357aa9faf78a7"
+   },
+   "t": "2026-11-12T23:28:00+03:00",
+   "teknik": {
+    "doygunluk": 16.7,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.065,
+    "keskinlik": 2517,
+    "kontrast": 47,
+    "medyan": 136,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1760708626681-59a5373819a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHNpdGV8ZW58MXwwfHx8MTc5NDUxNTI2NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "66e5ad992d847136": {
    "t": "2026-11-08T14:38:02+03:00",
@@ -90189,6 +90561,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Yufka_yap%C4%B1m%C4%B1.jpg/1280px-Yufka_yap%C4%B1m%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cd18b2886d317dd8": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     300,
+     950,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sahil",
+     "binalar",
+     "yol",
+     "iş makinesi",
+     "kazı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya sahil şeridinde yürütülen yol ve altyapı kazı çalışmaları, havadan genel görünüm.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "altyapı çalışmaları",
+     "belediye hizmetleri",
+     "Alanya haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakaları",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1532958b06f4:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'daki gerçek altyapı çalışmalarını ve iş makinelerini net şekilde gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       350,
+       900,
+       550
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0112f060e1e2c08c",
+    "sha": "ee5e533ed5491fddf32a2fbb"
+   },
+   "t": "2026-11-12T23:28:00+03:00",
+   "teknik": {
+    "doygunluk": 18.4,
+    "inen": [
+     1000,
+     562
+    ],
+    "karanlik_oran": 0.092,
+    "keskinlik": 2904,
+    "kontrast": 56,
+    "medyan": 137,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "/images/kurum/3a82aac0c9b3ebfd.jpg"
+  },
   "cd54361da91941ff": {
    "icerik": {
     "ana_kutu": [
@@ -110641,6 +111110,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Antalya_museum_Trajan_2_4853.jpg/1280px-Antalya_museum_Trajan_2_4853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fa1562c30ca50278": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     530,
+     610,
+     760
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "iş makinesi",
+     "trafik konisi",
+     "uyarı levhası",
+     "işçi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta yol çalışması yapan işçiler, iş makinesi ve trafik uyarı levhaları.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol çalışması",
+     "altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      410,
+      268,
+      780,
+      365
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1532958b06f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili olarak yol çalışmasını gösteriyor ancak Amerika'da (Florida) çekildiği için yabancı unsurlar barındırıyor.",
+      "gerekli": [
+       {
+        "unsur": "kazı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       530,
+       600,
+       760
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T23:28:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "efc2939ba9c56634",
+    "sha": "566cdb380884d3e03981fcf7"
+   },
+   "t": "2026-11-12T23:28:00+03:00",
+   "teknik": {
+    "doygunluk": 24.7,
+    "inen": [
+     400,
+     305
+    ],
+    "karanlik_oran": 0.139,
+    "keskinlik": 1744,
+    "kontrast": 50,
+    "medyan": 106,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1762247019055-f0170f1c7245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHNpdGV8ZW58MXwwfHx8MTc5NDUxNTI2NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "fa68d72a38d18d98": {
    "ozet": {
     "dh": "899f9f9eccef8eac",
@@ -113413,6 +113983,68 @@
    "son_kabul": "2026-11-08T16:11:23+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Meeting_of_the_Turkish_parliament%2C_May_4%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "12021c5dc56a7c22": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5568,
+    3712
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Yol ortasinda kazilmis hendek ve is makinesi kepcesi",
+   "gosterim_ad": "altyapı yenileme çalışmaları",
+   "ilk_kabul": "2026-11-12T23:28:12+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Anna Kharkivska / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Anna Kharkivska",
+    "sayfa": "https://unsplash.com/photos/excavator-digging-a-trench-in-the-road-ODhDwtSE75k"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "asfalt yuzey",
+    "hendek",
+    "is makinesi",
+    "iş makinesi",
+    "kazı çalışması"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1759579478942-a6992a87fb8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHRyZW5jaCUyMGNsb3NlfGVufDF8MHx8fDE3OTQ1MTUyODR8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "altyapi calismasi",
+    "yol kazisi",
+    "belediye yatirimlari"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-12T23:28:12+03:00",
+   "url": "https://images.unsplash.com/photo-1759579478942-a6992a87fb8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHRyZW5jaCUyMGNsb3NlfGVufDF8MHx8fDE3OTQ1MTUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
