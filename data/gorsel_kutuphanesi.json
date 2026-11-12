@@ -77179,13 +77179,39 @@
       "yasak": []
      },
      "t": "2026-11-12T03:57:03+03:00"
+    },
+    "r1:17c9e225d5e4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görseldeki soyut cephe detayı Alanya Vergi Dairesi binasını değil, genel bir ofis binasını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "vergi dairesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T13:09:02+03:00"
     }
    },
    "ozet": {
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-12T09:56:27+03:00",
+   "t": "2026-11-12T13:09:02+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
