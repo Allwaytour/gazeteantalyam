@@ -2,8 +2,8 @@
 title: Alanya'da Atatürk'ün Düşünce Dünyası Konferansla Ele Alınacak
 date: '2026-11-11T11:00:43+03:00'
 ozet: Alanya'da 10 Kasım Atatürk’ü Anma Etkinlikleri çerçevesinde "Atatürk’ün Düşünce Dünyasının Analizi" başlıklı bir konferans düzenlenecek.
-gorsel: /images/haber-gorsel/20261111-alanyada-ataturkun-dusunce-dunyasi-konferansla-ele-alinacak-3-29a4d982.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+gorsel_kredi: 'Arşiv fotoğrafı: bilinmiyor / Wikimedia Commons (Public domain)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -11,23 +11,33 @@ ilceler:
 etiketler:
 - Alanya Ticaret ve Sanayii Odası
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-alanyada-ataturkun-dusunce-dunyasi-konferansla-ele-alinacak-3-29a4d982.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
   konu_imza: d2ec1610fe7b
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+  fotografci: bilinmiyor
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: Mustafa Kemal Atatürk
+  cekim_yili: '1923'
+  aciklama: Mustafa Kemal Atatürk (1923)
+  gerekce: arşiv kaydı 'ataturk-1' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
   durum: onaylandi
   hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ataturk-1
+    tarih: '2026-11-12T19:58:40+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,24 +48,21 @@ kaynak_url: https://www.alanyagazetesi.com.tr/alanya-da-konferansa-davet-ataturk
 gorsel_yedek: /images/haber-gorsel/20261111-alanyada-ataturkun-dusunce-dunyasi-konferansla-ele-alinacak-3-29a4d982.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
-  dikey: false
+  - 2291
+  - 3091
+  dikey: true
   surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
+  manset: yan
+  yan: false
+  kart: false
   detay: true
-  kart_portre: false
-  yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-alanyada-ataturkun-dusunce-dunyasi-konferansla-ele-alinacak-3-29a4d982.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 0% 50%
+  o_kart_p: 50% 100%
+  url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+gorsel_gecmis: []
 ---
 Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk’ün fikirleri, akıl ve bilime dayanan düşünce yapısı ile çağdaş Türkiye vizyonu düzenlenecek özel bir konferansla ele alınacak. Etkinlikte, Atatürk’ün düşünce mirasının bugüne ve geleceğe ışık tutan yönleri katılımcılarla paylaşılacak.
 
