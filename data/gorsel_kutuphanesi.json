@@ -2555,9 +2555,48 @@
       "yasak": []
      },
      "t": "2026-11-08T12:07:56+03:00"
+    },
+    "r1:db9510966643:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık malzemelerden yapılmış heykeli gösterse de, Antalya Havalimanı yerine başka bir mekanda çekilmiştir.",
+      "gerekli": [
+       {
+        "unsur": "atık malzemelerden yapılmış heykel veya",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       110,
+       320,
+       720,
+       500
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:57:38+03:00"
     }
    },
-   "t": "2026-11-08T12:07:56+03:00",
+   "ozet": {
+    "dh": "4f626666822666e0",
+    "sha": "81a54c2917ba7e35881e9fb9"
+   },
+   "t": "2026-11-12T11:57:38+03:00",
    "teknik": {
     "doygunluk": 20.3,
     "inen": [
@@ -36373,6 +36412,41 @@
      },
      "t": "2026-11-10T22:13:56+03:00"
     },
+    "r1:db9510966643:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık malzemelerden yapılmış sergi eserleri ve salon ortamı haberi doğru şekilde temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "atık malzemelerden yapılmış heykel veya",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       310,
+       608,
+       570
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:57:38+03:00"
+    },
     "r1:e645a5c58230:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -36436,7 +36510,7 @@
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-11T20:40:27+03:00",
+   "t": "2026-11-12T11:57:38+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -45502,13 +45576,43 @@
       "yasak": []
      },
      "t": "2026-11-11T00:38:31+03:00"
+    },
+    "r1:db9510966643:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf konser salonunu göstermektedir, atık sergisiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "atık malzemelerden yapılmış heykel veya",
+        "var": false
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:57:38+03:00"
     }
    },
    "ozet": {
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-12T09:56:20+03:00",
+   "t": "2026-11-12T11:57:38+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -69823,13 +69927,43 @@
       ]
      },
      "t": "2026-11-10T19:09:27+03:00"
+    },
+    "r1:db9510966643:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir sergi alanını gösterse de kelebek sergisine aittir, atık heykeller bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "atık malzemelerden yapılmış heykel veya",
+        "var": false
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:57:38+03:00"
     }
    },
    "ozet": {
     "dh": "d2d9d1ebf94c4c2c",
     "sha": "1cfd3f10d1cab2328b5a2af4"
    },
-   "t": "2026-11-12T09:56:20+03:00",
+   "t": "2026-11-12T11:57:38+03:00",
    "teknik": {
     "doygunluk": 41.2,
     "inen": [
@@ -73284,13 +73418,43 @@
       "yasak": []
      },
      "t": "2026-11-08T14:38:40+03:00"
+    },
+    "r1:db9510966643:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta spor salonu ve step yapan insanlar yer almaktadır; sergiyle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "atık malzemelerden yapılmış heykel veya",
+        "var": false
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:57:38+03:00"
     }
    },
    "ozet": {
     "dh": "480a1b9a8a8b970f",
     "sha": "416fff73801850c3ab48e173"
    },
-   "t": "2026-11-12T09:56:20+03:00",
+   "t": "2026-11-12T11:57:38+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -113019,7 +113183,7 @@
    "gosterim_ad": "sanat sergisi",
    "ilk_kabul": "2026-11-08T12:07:56+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Gmupcycle / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -113038,6 +113202,7 @@
    },
    "konular": [
     "ahşap yol",
+    "atık malzemelerden yapılmış heykel veya",
     "atık malzemelerden yapılmış heykeller",
     "heykel",
     "renkli taşlar",
@@ -113061,7 +113226,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T15:35:24+03:00",
+   "son_kabul": "2026-11-12T11:57:38+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
