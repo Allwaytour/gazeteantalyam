@@ -651,6 +651,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Alanya_Museum_Front_of_building_8142.jpg/1280px-Alanya_Museum_Front_of_building_8142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0199f6c351f3c55f": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     990,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "french press",
+     "kahve demleme ekipmanı",
+     "fincan",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kahve hazırlama ekipmanları ve bardakların bulunduğu tezgah ve barista",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve demleme",
+     "kafe kültürü",
+     "barista eğitimleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi zirveler",
+     "devlet protokolü",
+     "siyasi toplantılar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d5dc23edf0e9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kahve ikramı ve hazırlığı sürecini gösteren temsili bir karedir.",
+      "gerekli": [
+       {
+        "unsur": "kahve fincanı",
+        "var": true
+       },
+       {
+        "unsur": "sergi standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       990,
+       990
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kahvecisi"
+      ]
+     },
+     "t": "2026-11-12T11:26:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d2e4c4a656c4351",
+    "sha": "aa810e92bdbdc2c408dc31a3"
+   },
+   "t": "2026-11-12T11:26:29+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.393,
+    "keskinlik": 1046,
+    "kontrast": 53,
+    "medyan": 69,
+    "parlaklik": 76,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1558996338-294a904a1815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "01b12d19845cd033": {
    "icerik": {
     "ana_kutu": [
@@ -4815,6 +4914,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sea_Squirt%2C_1988%2C_MIT_Sea_Grant_Autonomous_Underwater_Vehicle_Laboratory_-_MIT_Museum_-_DSC03698.JPG/1280px-Sea_Squirt%2C_1988%2C_MIT_Sea_Grant_Autonomous_Underwater_Vehicle_Laboratory_-_MIT_Museum_-_DSC03698.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0cdcc5fbc98cb003": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     187,
+     814,
+     514
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "uydu anteni",
+     "çatı",
+     "kar",
+     "ağaç",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "karlı bir çatıda uydu anteni ve arka planda bina ve ağaçlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tübitak uzay tesisleri",
+     "uydu teknolojileri"
+    ],
+    "uygunsuz_baglamlar": [
+     "solak köyü haberleri",
+     "tübitak bilim atölyesi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3cbfed6fb03d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "TÜBİTAK UZAY yerleşkesini gösteriyor ancak Solak köyündeki bilim atölyeleri haberi için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "bilim atölyesi",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüşüm sergisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0806634080910607",
+    "sha": "3099206ecf2e299f514a54c0"
+   },
+   "t": "2026-11-12T11:27:07+03:00",
+   "teknik": {
+    "doygunluk": 8.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.189,
+    "keskinlik": 566,
+    "kontrast": 67,
+    "medyan": 114,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/T%C3%9CB%C4%B0TAK_UZAY_Roof%2C_Ankara%2C_Turkey%2C_2008_-_panoramio.jpg/1280px-T%C3%9CB%C4%B0TAK_UZAY_Roof%2C_Ankara%2C_Turkey%2C_2008_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0d47da1bda772750": {
    "icerik": {
@@ -12206,6 +12396,108 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Muhittin_B%C3%B6cek_-_Hobifest_-_20.5.17_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "1cfa40aefa7e05fc": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     10,
+     500,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "tabela",
+     "insan",
+     "bina giriş kapısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Önünde 'Dinosaurs Alive' yazılı kemerli giriş ve ziyaretçiler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sergi haberleri",
+     "müze ziyaretleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "güncel yerel etkinlikler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      430,
+      330,
+      830,
+      440
+     ],
+     [
+      410,
+      450,
+      780,
+      540
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3cbfed6fb03d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel yabancı bir ülkedeki eski bir dinozor sergisine ait olup Antalya'daki TÜBİTAK etkinlikleriyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "bilim atölyesi",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüşüm sergisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1fcfb369c7472509",
+    "sha": "fad04a63ddbf310791fc4129"
+   },
+   "t": "2026-11-12T11:27:22+03:00",
+   "teknik": {
+    "doygunluk": 28.9,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.158,
+    "keskinlik": 2103,
+    "kontrast": 71,
+    "medyan": 153,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG/1280px-Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1dd1f006c0b0df4b": {
    "icerik": {
     "ana_kutu": [
@@ -14582,27 +14874,6 @@
     ]
    },
    "iliski": {
-    "r1:0308ffb376bf:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf Tuvalu'da çekilmiş olup haberin konusu olan Antalya ve COP31 ile ilgisizdir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:59:06+03:00"
-    },
     "r1:24c577389570:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -14784,6 +15055,27 @@
      },
      "t": "2026-11-08T15:13:28+03:00"
     },
+    "r1:d5dc23edf0e9:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf COP31 ile ilgilidir ancak kahve veya pavilyon yerine inşaat alanı göstermektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:26:29+03:00"
+    },
     "r1:df4e36703401:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -14939,7 +15231,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-10T10:10:14+03:00",
+   "t": "2026-11-12T11:26:29+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -15472,6 +15764,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/U.S._Air_Force_Senior_Master_Sgt._Michael_Sanders_pedals_his_recumbent_bicycle_along_the_course_while_competing_in_the_10-kilometer_recumbent_bike_race_during_the_inaugural_Warrior_Games_at_the_Olympic_Training_100513-F-QE915-162.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "23a9083974d59540": {
+   "icerik": {
+    "ana_kutu": [
+     320,
+     100,
+     600,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "çiçek",
+     "tabela",
+     "bina",
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Önde çiçekler ve arkada 'Dinosaurs Alive' sergi alanı.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sergi haberleri",
+     "müze etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3cbfed6fb03d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf siyah-beyaz, eski ve tamamen farklı bir sergiye ait; Antalya'daki TÜBİTAK atölyeleriyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "bilim atölyesi",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüşüm sergisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "094d2d34c4363a68",
+    "sha": "5ae0f7a6660140c898dcad57"
+   },
+   "t": "2026-11-12T11:27:22+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.231,
+    "keskinlik": 2329,
+    "kontrast": 88,
+    "medyan": 162,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_585.JPG/1280px-Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_585.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "23e47bda531d9ddf": {
    "icerik": {
@@ -19304,6 +19686,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Seattle_-_Liberty_Building_01.jpg/1280px-Seattle_-_Liberty_Building_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2bf28adefa9f3878": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     250,
+     950,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahve bardağı",
+     "tabak",
+     "köpüklü kahve"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Koyu zemin üzerinde köpüklü filtre kahve bardağı ve altlığı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve tarifleri",
+     "kafe haberleri",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "uluslararası zirve",
+     "stant açılışı",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d5dc23edf0e9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kahve görseli sunulsa da sergi standı bağlamını yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "kahve fincanı",
+        "var": true
+       },
+       {
+        "unsur": "sergi standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       250,
+       950,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kahvecisi"
+      ]
+     },
+     "t": "2026-11-12T11:26:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "464e979f95938366",
+    "sha": "2e1d3ff74e91d036b3f145c3"
+   },
+   "t": "2026-11-12T11:26:29+03:00",
+   "teknik": {
+    "doygunluk": 34.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.431,
+    "keskinlik": 888,
+    "kontrast": 81,
+    "medyan": 57,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/GKN_Filter_Coffee_DSC_1038.JPG/1280px-GKN_Filter_Coffee_DSC_1038.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2bfc2db7fbc3ff00": {
    "icerik": {
@@ -24856,6 +25336,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alanya_K%C4%B1z%C4%B1l_Kule_Interior_8481.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Interior_8481.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3718baf8ce96cb3e": {
+   "icerik": {
+    "ana_kutu": [
+     42,
+     1,
+     949,
+     962
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cezve",
+     "kahve fincanı",
+     "tepsi",
+     "teşhir standı",
+     "fincan takımı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze vitrininde sergilenen geleneksel cezveler, fincanlar ve tepsi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve kültürü haberleri",
+     "müze sergileri",
+     "geleneksel içecekler"
+    ],
+    "uygunsuz_baglamlar": [
+     "canlı etkinlik",
+     "zirve oturumları",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d5dc23edf0e9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya müzesindeki kahve takımları ve cezveler temsilî olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kahve fincanı",
+        "var": true
+       },
+       {
+        "unsur": "sergi standı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       42,
+       1,
+       949,
+       962
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kahvecisi"
+      ]
+     },
+     "t": "2026-11-12T11:26:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "818191a22299bc26",
+    "sha": "0a2969e528844fdc44c4eb9c"
+   },
+   "t": "2026-11-12T11:26:29+03:00",
+   "teknik": {
+    "doygunluk": 26.6,
+    "inen": [
+     500,
+     316
+    ],
+    "karanlik_oran": 0.086,
+    "keskinlik": 962,
+    "kontrast": 38,
+    "medyan": 124,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Antalya_Museum_coffee_related_objects_4963.jpg/1280px-Antalya_Museum_coffee_related_objects_4963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3771c838c7928ede": {
    "ozet": {
     "dh": "191b0b230b191f1e",
@@ -26615,6 +27195,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg/1280px-Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3d858402aa43af14": {
+   "icerik": {
+    "ana_kutu": [
+     355,
+     335,
+     609,
+     569
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güvenlik kamerası",
+     "duvar",
+     "boru"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi gökyüzü önünde duvara monte edilmiş bir güvenlik kamerası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "güvenlik sistemleri",
+     "teknoloji",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:daf5db8de47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, haberin konusu olan güvenlik kamerasını net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "güvenlik kamerası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       335,
+       609,
+       569
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1818182434500480",
+    "sha": "91e201bebadef5a0b9f925b1"
+   },
+   "t": "2026-11-12T11:27:34+03:00",
+   "teknik": {
+    "doygunluk": 37.9,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 553,
+    "kontrast": 41,
+    "medyan": 149,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/1280px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3d8871f92cb4334d": {
    "icerik": {
@@ -60192,6 +60864,98 @@
    },
    "url": "https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "8c48cfd9ea3f0bb4": {
+   "icerik": {
+    "ana_kutu": [
+     357,
+     370,
+     727,
+     613
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güvenlik kamerası",
+     "direk",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık mavi gökyüzü önünde direğe monte edilmiş iki güvenlik kamerası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "güvenlik",
+     "teknoloji",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:daf5db8de47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güvenlik kameralarını net şekilde gösteren temsili bir fotoğraftır.",
+      "gerekli": [
+       {
+        "unsur": "güvenlik kamerası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       357,
+       370,
+       727,
+       613
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3c3e2fae2232b634",
+    "sha": "770897456579545afa1f8e97"
+   },
+   "t": "2026-11-12T11:27:34+03:00",
+   "teknik": {
+    "doygunluk": 56.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.054,
+    "keskinlik": 608,
+    "kontrast": 33,
+    "medyan": 134,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1589935447067-5531094415d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2VjdXJpdHklMjBjYW1lcmF8ZW58MXwwfHx8MTc5NDQ3MjA0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "8cc0735ef4fc2d87": {
    "ozet": {
     "dh": "5918054533344100",
@@ -73576,6 +74340,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Europa_Cinema_Auditorium%2C_February_2025.jpg/1280px-Europa_Cinema_Auditorium%2C_February_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ae53a51f3d5f0ca8": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     549,
+     836,
+     824
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güvenlik kamerası",
+     "direk",
+     "kablo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Direğe monte edilmiş kubbe şeklinde güvenlik kamerası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "güvenlik",
+     "teknoloji",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:daf5db8de47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güvenlik kamerası gösterse de siyah-beyaz olması güncel teknoloji haberiyle tam uyumlu değildir.",
+      "gerekli": [
+       {
+        "unsur": "güvenlik kamerası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       220,
+       549,
+       836,
+       824
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3629292d282ccc03",
+    "sha": "ad1db394946f059ee8ff5fa6"
+   },
+   "t": "2026-11-12T11:27:34+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     400,
+     258
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 662,
+    "kontrast": 81,
+    "medyan": 249,
+    "parlaklik": 194,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1528312635006-8ea0bc49ec63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2VjdXJpdHklMjBjYW1lcmF8ZW58MXwwfHx8MTc5NDQ3MjA0OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "ae5ddaefc2d8ed10": {
    "icerik": {
     "ana_kutu": [
@@ -80992,6 +81848,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_03.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "be65b9d8b7447392": {
+   "icerik": {
+    "ana_kutu": [
+     18,
+     368,
+     992,
+     776
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kamera",
+     "ekran",
+     "tripot",
+     "anten"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "tripot üzerindeki teknolojik kamera ve ekran düzeneği",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknoloji haberleri",
+     "ar-ge projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "solak köyü haberleri",
+     "tübitak bilim atölyesi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3cbfed6fb03d:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf laboratuvar ortamında bir cihazı gösteriyor, köydeki TÜBİTAK bilim atölyeleri haberiyle doğrudan ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "bilim atölyesi",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüşüm sergisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f4f4f4d4e4d8d8f4",
+    "sha": "e2732f86014ca0c1ccea69ec"
+   },
+   "t": "2026-11-12T11:27:07+03:00",
+   "teknik": {
+    "doygunluk": 6.6,
+    "inen": [
+     500,
+     453
+    ],
+    "karanlik_oran": 0.077,
+    "keskinlik": 770,
+    "kontrast": 77,
+    "medyan": 147,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Pano-X_Bot_V2.jpg/1280px-Pano-X_Bot_V2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "be88196d1a62037a": {
    "icerik": {
     "ana_kutu": [
@@ -83137,6 +84083,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/New_Special_Assistant_to_Attorney_General._Washington%2C_D.C.%2C_Aug._30._Vincent_M._Miles%2C_newly_appointed_Special_Assistant_to_the_Attorney_General%2C_is_shown_at_his_desk_shortly_after_taking_LCCN2016872260.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c5c5a55ff1c4ad30": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     26,
+     953,
+     952
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "nargile",
+     "pipo",
+     "sigara tabakası",
+     "teşhir masası",
+     "etiket"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze vitrininde sergilenen nargile ve pipo gibi tütün malzemeleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih haberleri",
+     "müze sergileri",
+     "tütün kültürü"
+    ],
+    "uygunsuz_baglamlar": [
+     "kahve ikramı",
+     "güncel zirve haberleri",
+     "gıda sektörü"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d5dc23edf0e9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müze sergisi gösterilse de kahve yerine nargile ve pipo gibi tütün eşyaları yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "kahve fincanı",
+        "var": false
+       },
+       {
+        "unsur": "sergi standı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kahvecisi"
+      ]
+     },
+     "t": "2026-11-12T11:26:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "83838f978b8aa32d",
+    "sha": "12b7c9929f2bc07d7448c034"
+   },
+   "t": "2026-11-12T11:26:29+03:00",
+   "teknik": {
+    "doygunluk": 16.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.215,
+    "keskinlik": 771,
+    "kontrast": 44,
+    "medyan": 101,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Antalya_Museum_coffee_related_objects_4964.jpg/1280px-Antalya_Museum_coffee_related_objects_4964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c5e5fe9599f94e52": {
    "icerik": {
@@ -90318,6 +91359,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Antalya_Lisesi.JPG/1280px-Antalya_Lisesi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d8ba78d304b1a516": {
+   "ozet": {
+    "dh": "693833313931733a",
+    "sha": "26d07e35fc66891b0f10fc1a"
+   },
+   "t": "2026-11-12T11:27:15+03:00",
+   "teknik": {
+    "doygunluk": 70.5,
+    "inen": [
+     400,
+     259
+    ],
+    "karanlik_oran": 0.672,
+    "keskinlik": 673,
+    "kontrast": 63,
+    "medyan": 8,
+    "parlaklik": 47,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1790059634452-bac7ed44f245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2NpZW5jZSUyMGV4aGliaXRpb24lMjBkaXNwbGF5fGVufDF8MHx8fDE3OTQ0NzIwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "d90e5c25e9bc8919": {
    "icerik": {
@@ -105815,6 +106877,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Alanya_summer_of_2012_14.JPG/1280px-Alanya_summer_of_2012_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f92f6c687f041228": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     222,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kahve fincanı",
+     "kaşık",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tezgah üzerinde kahve fincanlarını karıştıran bir kişinin elleri",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve haberi",
+     "ikram haberi",
+     "gastronomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sokak satıcısı haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d5dc23edf0e9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kahve ikramını temsil eden uygun bir fincan hazırlama karesi, sergi standı görünmese de temsilî olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kahve fincanı",
+        "var": true
+       },
+       {
+        "unsur": "sergi standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       222,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:26:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e9e596533627353",
+    "sha": "972069a185965b5f38f79af4"
+   },
+   "t": "2026-11-12T11:26:31+03:00",
+   "teknik": {
+    "doygunluk": 24.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.107,
+    "keskinlik": 502,
+    "kontrast": 59,
+    "medyan": 161,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1558996260-4bac67dbd110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "f936cd77b0c55bac": {
    "icerik": {
     "ana_kutu": [
@@ -106081,6 +107237,106 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%E8%87%BA%E5%8C%97%E6%97%A5%E6%9C%AC%E5%9F%BA%E7%9D%A3%E6%95%99%E6%9C%83%E5%B9%B8%E7%94%BA%E6%95%99%E6%9C%83%E7%A5%AD%E5%A3%87.jpg/1280px-%E8%87%BA%E5%8C%97%E6%97%A5%E6%9C%AC%E5%9F%BA%E7%9D%A3%E6%95%99%E6%9C%83%E5%B9%B8%E7%94%BA%E6%95%99%E6%9C%83%E7%A5%AD%E5%A3%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f9811881303bc7ff": {
+   "icerik": {
+    "ana_kutu": [
+     174,
+     520,
+     856,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bilgisayar monitörü",
+     "ofis masası",
+     "sandalye",
+     "telefon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ofiste masada telefonla konuşan ve çift monitörden kamera görüntülerini izleyen kişi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yapay zeka",
+     "güvenlik sistemleri",
+     "ofis teknolojileri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      184,
+      574,
+      362,
+      693
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:daf5db8de47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel, yapay zeka destekli güvenlik sistemlerinin kullanımını temsil eden uygun bir illüstrasyondur.",
+      "gerekli": [
+       {
+        "unsur": "güvenlik kamerası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       213,
+       689,
+       523
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T11:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e0c995ac9c8c1c2e",
+    "sha": "feb4a0fa7b0e516bb9dea69f"
+   },
+   "t": "2026-11-12T11:27:34+03:00",
+   "teknik": {
+    "doygunluk": 21.5,
+    "inen": [
+     500,
+     312
+    ],
+    "karanlik_oran": 0.182,
+    "keskinlik": 623,
+    "kontrast": 40,
+    "medyan": 100,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Security_camera_monitoring_for_school_security.webp/1280px-Security_camera_monitoring_for_school_security.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f9d26d575bdc87bc": {
    "icerik": {
@@ -110798,6 +112054,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T14:03:35+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkey_travel_9848949889498747894.jpg/1280px-Turkey_travel_9848949889498747894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "3d858402aa43af14": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3872,
+    2592
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2018-09-02",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mavi gökyüzü önünde duvara monte edilmiş bir güvenlik kamerası.",
+   "gosterim_ad": "güvenlik sistemleri tanıtımı",
+   "ilk_kabul": "2026-11-12T11:27:34+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Cody Logan / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Cody Logan",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Security_camera,_September_2018.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "boru",
+    "duvar",
+    "güvenlik kamerası"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/500px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "güvenlik sistemleri",
+    "teknoloji",
+    "haber"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-12T11:27:34+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/1280px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -117555,6 +118871,64 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-08T11:10:17+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sukrusaracoglu.jpg/1280px-Sukrusaracoglu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "f92f6c687f041228": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5472,
+    3648
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tezgah üzerinde kahve fincanlarını karıştıran bir kişinin elleri",
+   "gosterim_ad": "kahve ikramı",
+   "ilk_kabul": "2026-11-12T11:26:31+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "René Porter / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "René Porter",
+    "sayfa": "https://unsplash.com/photos/person-mixing-black-coffee-7RYrEvbqFM8"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kahve fincanı",
+    "kaşık",
+    "tezgah"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1558996260-4bac67dbd110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "kahve haberi",
+    "ikram haberi",
+    "gastronomi"
+   ],
+   "kullanilamaz": [
+    "sokak satıcısı haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-12T11:26:31+03:00",
+   "url": "https://images.unsplash.com/photo-1558996260-4bac67dbd110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
