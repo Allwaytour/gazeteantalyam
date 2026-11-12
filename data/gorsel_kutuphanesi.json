@@ -837,13 +837,43 @@
       "yasak": []
      },
      "t": "2026-11-09T13:35:10+03:00"
+    },
+    "r1:b52ed87588f6:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan erişilebilir turizm çalışmalarıyla doğrudan ilişkili olmayan genel bir şehir manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:05:56+03:00"
     }
    },
    "ozet": {
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-09T13:35:10+03:00",
+   "t": "2026-11-12T18:05:56+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -12430,6 +12460,36 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:b52ed87588f6:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan erişilebilir turizm ve sertifika töreni ile ilgisi olmayan genel bir manzara fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:05:56+03:00"
+    },
     "r1:eb81c6270c9f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -12461,7 +12521,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-12T00:10:33+03:00",
+   "t": "2026-11-12T18:05:56+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -19362,40 +19422,6 @@
     "yuzler": []
    },
    "iliski": {
-    "r1:286bbe1ec89b:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya limanında bir kruvaziyer gemisini gösteriyor; barmenlik yarışması haberi için uygun değil.",
-      "gerekli": [
-       {
-        "unsur": "barmen",
-        "var": false
-       },
-       {
-        "unsur": "kokteyl",
-        "var": false
-       },
-       {
-        "unsur": "bar tezgahı",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:42:22+03:00"
-    },
     "r1:79e1fd898a17:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19555,6 +19581,36 @@
      },
      "t": "2026-11-11T00:38:31+03:00"
     },
+    "r1:b52ed87588f6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Limanın ve kruvaziyer gemisinin genel görünümü otel sertifikasyon haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:03:37+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19703,7 +19759,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-12T03:57:15+03:00",
+   "t": "2026-11-12T18:03:37+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -57071,38 +57127,6 @@
      },
      "t": "2026-11-09T19:35:26+03:00"
     },
-    "r1:b00b87b45aa4:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta parasailing yapan kişiler görülmektedir, ekonomi veya esnaf sitemiyle ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "dernek başkanı",
-        "var": false
-       },
-       {
-        "unsur": "açıklama yapan kişi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "sportif faaliyet"
-      ]
-     },
-     "t": "2026-11-08T12:34:41+03:00"
-    },
     "r1:b13bf154fa36:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -57159,6 +57183,36 @@
       "yasak": []
      },
      "t": "2026-11-11T00:38:31+03:00"
+    },
+    "r1:b52ed87588f6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parasailing yapan bir kişinin fotoğrafı engelsiz otel dönemi haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:03:37+03:00"
     },
     "r1:d14cc213345b:yer": {
      "d": {
@@ -57299,7 +57353,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-12T00:10:33+03:00",
+   "t": "2026-11-12T18:03:37+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -69449,6 +69503,36 @@
      },
      "t": "2026-11-11T00:38:31+03:00"
     },
+    "r1:b52ed87588f6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel manzara fotoğrafı şehri gösterse de otel sertifikaları ve erişilebilirlik konusunu yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:03:37+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -69632,7 +69716,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-12T00:10:33+03:00",
+   "t": "2026-11-12T18:03:37+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -76808,6 +76892,121 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Beehive_House_Eagle_Gate_LDS_Church_Office_Building.jpg/1280px-Beehive_House_Eagle_Gate_LDS_Church_Office_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "afbba5f5bfd8ebf9": {
+   "icerik": {
+    "ana_kutu": [
+     320,
+     10,
+     770,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 35,
+    "nesneler": [
+     "cam bina",
+     "mavi dosya",
+     "koltuk değneği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina girişinde ellerinde dosyalarla poz veren kalabalık bir grup insan.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye haberleri",
+     "sertifika töreni",
+     "erişilebilirlik projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşması",
+     "magazin",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      366,
+      212,
+      497,
+      273
+     ],
+     [
+      480,
+      252,
+      757,
+      321
+     ],
+     [
+      449,
+      323,
+      794,
+      415
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b52ed87588f6:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin sertifika töreni ve katılımcıları net şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       10,
+       770,
+       970
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:03:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f2d331b1376ea17",
+    "sha": "05d905976c233c485a11351c"
+   },
+   "t": "2026-11-12T18:03:37+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     1000,
+     750
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 1327,
+    "kontrast": 66,
+    "medyan": 123,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "/images/kurum/f14540534ce1e8d0.jpg"
+  },
   "afc5810ed770643f": {
    "icerik": {
     "ana_kutu": [
@@ -79587,6 +79786,36 @@
      },
      "t": "2026-11-11T00:38:31+03:00"
     },
+    "r1:b52ed87588f6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu turnuvası görseli turizmde erişilebilirlik haberi için tamamen uygusuzdur.",
+      "gerekli": [
+       {
+        "unsur": "engelsiz otel odası",
+        "var": false
+       },
+       {
+        "unsur": "tekerlekli sandalye uyumlu alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T18:03:37+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -79674,45 +79903,6 @@
      },
      "t": "2026-11-11T09:11:04+03:00"
     },
-    "r1:e86b796573be:mekan": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Plaj voleybolu etkinliğini gösteriyor ancak 2006 yılına ait olduğu için dönem olarak yanıltıcı.",
-      "gerekli": [
-       {
-        "unsur": "plaj voleybolu sahası",
-        "var": true
-       },
-       {
-        "unsur": "voleybol filesi",
-        "var": true
-       },
-       {
-        "unsur": "sporcular",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       280,
-       580,
-       760,
-       760
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 6,
-      "yaniltici_donem": true,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:54:54+03:00"
-    },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -79796,7 +79986,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-12T00:10:33+03:00",
+   "t": "2026-11-12T18:03:37+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
