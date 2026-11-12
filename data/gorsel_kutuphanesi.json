@@ -3539,6 +3539,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_02.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0a0f0a2c7f604a37": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "asfalt makinesi",
+     "işçi",
+     "ev",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta asfalt seren turuncu renkli iş makinesi ve işçi",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapımı",
+     "belediye hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:758c14f2c3ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili olarak asfalt serme makinesini net gösteriyor ancak yabancı kaynaklı.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:58:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c7e12661e18b1c33",
+    "sha": "6aa5c5bf120afdceee5d6426"
+   },
+   "t": "2026-11-12T14:58:55+03:00",
+   "teknik": {
+    "doygunluk": 27.9,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 1459,
+    "kontrast": 71,
+    "medyan": 151,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1772852311587-329719989e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGF2aW5nJTIwbWFjaGluZXxlbnwxfDB8fHwxNzk0NDg0NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "0a51b78ad5b0bc08": {
    "icerik": {
     "ana_kutu": [
@@ -9363,6 +9448,97 @@
    },
    "url": "https://images.unsplash.com/photo-1591368993377-d8d87b3c240e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwbGVjdGVybiUyMHdpdGglMjBtaWNyb3Bob25lc3xlbnwxfDB8fHwxNzk0MTI1NDQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "1546ff9de1c50df4": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "asfalt makinesi",
+     "işçi",
+     "kumanda paneli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfalt makinesiyle çalışan işçinin yakın plan görünümü",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapım çalışmaları",
+     "altyapı hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      108,
+      802,
+      237,
+      868
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:758c14f2c3ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asfalt çalışmasını ve makinesini yakından gösteren temsilî bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:58:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "44cb61e1a264890b",
+    "sha": "223f3f3b37ab8c112525d5e8"
+   },
+   "t": "2026-11-12T14:58:55+03:00",
+   "teknik": {
+    "doygunluk": 19.5,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.167,
+    "keskinlik": 1282,
+    "kontrast": 66,
+    "medyan": 133,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1772852340517-b11ec88979fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGF2aW5nJTIwbWFjaGluZXxlbnwxfDB8fHwxNzk0NDg0NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "1560d9c70a3f4dbe": {
    "icerik": {
     "ana_kutu": [
@@ -12535,6 +12711,91 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Books_on_shelves_%28120%29.jpg/1280px-Books_on_shelves_%28120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1b95cf87043bbfd3": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "yol",
+     "kamyon",
+     "arazi",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal alanda asfaltlanmakta olan uzun düz yol ve araçlar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol çalışmaları",
+     "ulaşım projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:758c14f2c3ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili yol çalışması gösterse de spesifik asfalt makinesi net seçilmiyor.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi",
+        "var": false
+       },
+       {
+        "unsur": "yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:58:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "05d217241a2c3633",
+    "sha": "e77f22c7da82bc0e4a93eb1e"
+   },
+   "t": "2026-11-12T14:58:55+03:00",
+   "teknik": {
+    "doygunluk": 24.5,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.026,
+    "keskinlik": 1195,
+    "kontrast": 36,
+    "medyan": 143,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1708117242652-25dc76c4b30c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMGFzcGhhbHR8ZW58MXwwfHx8MTc5NDQ4NDYzMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1bc90a34fb1ef2e6": {
    "icerik": {
@@ -16685,6 +16946,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "253a43440e4d5a21": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "asfalt yol",
+     "silindir makinesi",
+     "orman",
+     "erkek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeni asfaltlanmış yol kenarında duran erkek ve arkada iş makineleri",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "belediye hizmetleri",
+     "yol yapım çalışmaları",
+     "yerel yönetim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sağlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      133,
+      353,
+      222,
+      401
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:758c14f2c3ab:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin orijinal olayına ait görselleri tam olarak yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:58:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07070fe767630301",
+    "sha": "244183c70486790a2c04b212"
+   },
+   "t": "2026-11-12T14:58:55+03:00",
+   "teknik": {
+    "doygunluk": 31.6,
+    "inen": [
+     799,
+     533
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 669,
+    "kontrast": 59,
+    "medyan": 101,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "/images/kurum/f1ced3254a11b52b.jpg"
+  },
   "254ab75b96daa92d": {
    "icerik": {
     "ana_kutu": null,
@@ -18296,6 +18651,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Second_Lady_Usha_Vance_interacts_with_a_group_of_children_as_they_were_participating_in_group_activities_as_part_of_the_Summer_Reading_Challenge_event_at_NASA%E2%80%99s_Johnson_Space_Center_%28jsc2025e067250%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "27e96983c05e64d1": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "asfalt makinesi",
+     "işçi",
+     "yol",
+     "tarla"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol yapım çalışması yapan yeşil asfalt makinesi ve işçiler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapım haberleri",
+     "belediye çalışmaları",
+     "altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:758c14f2c3ab:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili asfalt çalışması görselidir ancak yabancı ortam izlenimi verebilir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:58:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9c043971d87d1729",
+    "sha": "69193a4473262e9b1dc2fca1"
+   },
+   "t": "2026-11-12T14:58:55+03:00",
+   "teknik": {
+    "doygunluk": 13.0,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 545,
+    "kontrast": 53,
+    "medyan": 139,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMGFzcGhhbHR8ZW58MXwwfHx8MTc5NDQ4NDYzMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "27f9ea4c279f1b57": {
    "icerik": {
@@ -112646,6 +113088,75 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "253a43440e4d5a21": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    799,
+    533
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Yeni asfaltlanmış yol kenarında duran erkek ve arkada iş makineleri",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T14:58:55+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Kepez Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Kepez Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Kepez Belediyesi",
+    "sayfa": "https://www.kepez-bld.gov.tr/news_12748_kocagoz-den-gocebe-yolu-na-yillar-sonra-asfalt-dokunusu"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Kepez Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "asfalt makinesi",
+    "asfalt yol",
+    "erkek",
+    "orman",
+    "silindir makinesi",
+    "yol çalışması"
+   ],
+   "kucuk": "/images/kurum/f1ced3254a11b52b.jpg",
+   "kullanilabilir": [
+    "belediye hizmetleri",
+    "yol yapım çalışmaları",
+    "yerel yönetim haberleri"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "spor",
+    "sağlık",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-12T14:58:55+03:00",
+   "url": "/images/kurum/f1ced3254a11b52b.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "2601064a3294cd5b": {
    "alt_tur": "kisi_genel",
