@@ -269,6 +269,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Weather_Forecast.jpg/1280px-Weather_Forecast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "007b54447c6e2ae9": {
+   "icerik": {
+    "ana_kutu": [
+     128,
+     269,
+     679,
+     648
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "plastik şişe",
+     "kaya",
+     "su",
+     "bitki",
+     "çocuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kayalık nehir kenarında plastik şişe toplayan çocuk",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre kirliliği",
+     "geri dönüşüm",
+     "nehir temizliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "belediye toplantısı",
+     "resmi zirve haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      128,
+      412,
+      319,
+      524
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ac50de954743:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plastik kirliliğine dikkat çekmek için uygun bir temsilî fotoğraf.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       128,
+       269,
+       679,
+       648
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T22:28:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8395b7b024339b99",
+    "sha": "6a932bb1a3ec8585addc75d7"
+   },
+   "t": "2026-11-12T22:28:50+03:00",
+   "teknik": {
+    "doygunluk": 29.7,
+    "inen": [
+     500,
+     325
+    ],
+    "karanlik_oran": 0.123,
+    "keskinlik": 1683,
+    "kontrast": 51,
+    "medyan": 111,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Cleaning_the_rivers.jpg/1280px-Cleaning_the_rivers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "00fd3d13ae282dd9": {
    "icerik": {
     "ana_kutu": [
@@ -1929,6 +2024,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Konya_9.jpg/1280px-Konya_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "06196a44d6d2c3a4": {
+   "icerik": {
+    "ana_kutu": [
+     304,
+     137,
+     609,
+     831
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plastik şişe",
+     "deniz suyu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz içinde yüzen plastik şişe",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "deniz kirliliği",
+     "plastik atık",
+     "akdeniz kirliliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "belediye toplantısı",
+     "politika haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ac50de954743:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Denizdeki plastik kirliliğini doğrudan gösteren iyi bir temsilî görsel.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       304,
+       137,
+       609,
+       831
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T22:28:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "240d0f37162f0707",
+    "sha": "efe8aa8ee00af2e967f9c35f"
+   },
+   "t": "2026-11-12T22:28:50+03:00",
+   "teknik": {
+    "doygunluk": 39.8,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.016,
+    "keskinlik": 1605,
+    "kontrast": 41,
+    "medyan": 102,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1706612204508-d48772f8731b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8b2NlYW4lMjBwbGFzdGljJTIwYm90dGxlJTIwcG9sbHV0aW9ufGVufDF8MHx8fDE3OTQ1MTE3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "0632616cc6c5c7ad": {
    "icerik": {
     "ana_kutu": [
@@ -3370,6 +3550,91 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ed_Burtynsky_%2838148537%29.jpg/1280px-Ed_Burtynsky_%2838148537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "09b1e5c450c93314": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     179,
+     874,
+     532
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plastik şişe",
+     "su",
+     "biyofilm şeması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz içinde plastik şişe ve biyolojik bozunma aşamalarını gösteren şema",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "çevre kirliliği haberi",
+     "plastik atık araştırması"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı haberi",
+     "yerel etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ac50de954743:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki plastik kirliliği sorununu temsil eden açıklayıcı bir illüstrasyon.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       179,
+       874,
+       532
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T22:28:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f676767726b3233",
+    "sha": "e009a12de4706a8080c890ca"
+   },
+   "t": "2026-11-12T22:28:50+03:00",
+   "teknik": {
+    "doygunluk": 44.4,
+    "inen": [
+     500,
+     423
+    ],
+    "karanlik_oran": 0.019,
+    "keskinlik": 1492,
+    "kontrast": 52,
+    "medyan": 166,
+    "parlaklik": 166,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Stages_of_marine_plastic_biodegradation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "09d4395e98e3acc2": {
    "icerik": {
@@ -44755,6 +45020,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg/1280px-%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "64e9736d3d106fe4": {
+   "icerik": {
+    "ana_kutu": [
+     156,
+     259,
+     747,
+     712
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plastik şişe",
+     "siyah kayış",
+     "deniz suyu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Berrak suda yüzen ve askıya takılmış plastik şişe",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "deniz kirliliği",
+     "çevre koruma",
+     "plastik şişe"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "belediye etkinliği"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ac50de954743:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akdeniz'deki plastik kirliliği haberini destekleyen uygun bir su altı plastik atık görseli.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       156,
+       259,
+       747,
+       712
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T22:28:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f2f4d4c4e46474b",
+    "sha": "8de7d3fce8cd05b35e6cfb37"
+   },
+   "t": "2026-11-12T22:28:50+03:00",
+   "teknik": {
+    "doygunluk": 82.2,
+    "inen": [
+     400,
+     223
+    ],
+    "karanlik_oran": 0.019,
+    "keskinlik": 367,
+    "kontrast": 26,
+    "medyan": 120,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1558640476-437a2b9438a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8b2NlYW4lMjBwbGFzdGljJTIwYm90dGxlJTIwcG9sbHV0aW9ufGVufDF8MHx8fDE3OTQ1MTE3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "650a4cc7c077e20e": {
    "icerik": {
@@ -107675,6 +108026,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Minister-president_Rutte_en_de_Turkse_minister_van_Economie_Babacan.jpg/1280px-Minister-president_Rutte_en_de_Turkse_minister_van_Economie_Babacan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f674e7a9d8a80e1c": {
+   "icerik": {
+    "ana_kutu": [
+     303,
+     73,
+     658,
+     229
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kumsal",
+     "plastik şişe",
+     "ampul",
+     "hindistan cevizi kabuğu",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda plastik şişeler ve atıklar arasında duran eski bir ampul",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sahil kirliliği",
+     "çevre kirliliği",
+     "plastik atık"
+    ],
+    "uygunsuz_baglamlar": [
+     "belediye meclisi",
+     "kongre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ac50de954743:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sahildeki plastik kirliliğini gösteren uygun bir temsilî kare.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       303,
+       73,
+       658,
+       229
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T22:28:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c3f13db4f291ca5",
+    "sha": "f2dbc12ecaa468c631fdf1e6"
+   },
+   "t": "2026-11-12T22:28:50+03:00",
+   "teknik": {
+    "doygunluk": 15.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.092,
+    "keskinlik": 1745,
+    "kontrast": 55,
+    "medyan": 149,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg/1280px-Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f690f10dd26da06c": {
    "icerik": {
