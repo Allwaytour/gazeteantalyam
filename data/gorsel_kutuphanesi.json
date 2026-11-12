@@ -11470,6 +11470,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:05c2bdf292a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı içinden bir uçuş bilgi ekranı gösteriyor, yeni hat açılışı için doğrudan uçağı yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": false
+       },
+       {
+        "unsur": "havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:13+03:00"
+    },
     "r1:7664b47cddde:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -11510,7 +11540,7 @@
     "dh": "5b59c54919716371",
     "sha": "024920fb625cdc18d140c122"
    },
-   "t": "2026-11-09T13:21:14+03:00",
+   "t": "2026-11-12T07:56:13+03:00",
    "teknik": {
     "doygunluk": 28.5,
     "inen": [
@@ -12866,6 +12896,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1775566416223-d5bea6a9d305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dHJhZGl0aW9uYWwlMjB3ZWRkaW5nJTIwYnJpZGUlMjBncm9vbXxlbnwxfDB8fHwxNzk0MTM5OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1fce35a75cec2cf4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     135,
+     1000,
+     832
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kürsü",
+     "bayrak",
+     "mikrofon",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki liderin kürsülerde basın açıklaması yaparken çekilmiş geniş plan görüntüsü.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "basın toplantısı",
+     "diplomasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      190,
+      242,
+      331,
+      308
+     ],
+     [
+      202,
+      693,
+      340,
+      760
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:efb8af2043ed:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kürsülerde Kiev yazısı ve Ukrayna bayrakları bulunduğu için Dublin zirvesi haberiyle uyuşmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5b5bcdcd4d696333",
+    "sha": "9ee7a4ecb0bf55c1e77314d6"
+   },
+   "t": "2026-11-12T07:56:28+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.158,
+    "keskinlik": 1883,
+    "kontrast": 78,
+    "medyan": 178,
+    "parlaklik": 156,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nikos_Christodoulides_visit_to_Ukraine_%28353860457%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "1fe3811d5bbeee25": {
    "icerik": {
@@ -20420,6 +20544,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg/1280px-US_Navy_110309-N-UB993-129_A_Sailor_mountain_climbers_using_the_core_align_pilates_machine_during_a_physical_therapy_appointment_in_the_Comprehensi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2f0185bb47168250": {
+   "icerik": {
+    "ana_kutu": [
+     38,
+     159,
+     993,
+     832
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "takım elbise",
+     "kravat",
+     "rozet"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulidis'in yakın plan portre çekimi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "lider profili",
+     "röportaj görseli"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakaları",
+     "magazin",
+     "ekonomi analizi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      38,
+      161,
+      768,
+      832
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:efb8af2043ed:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin arşiv portresi olduğu için zirve haberi için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       38,
+       159,
+       993,
+       832
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e1d4c4e8d1d2cb6b",
+    "sha": "06248e91c639f39bc5bd57f2"
+   },
+   "t": "2026-11-12T07:56:28+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     656
+    ],
+    "karanlik_oran": 0.248,
+    "keskinlik": 571,
+    "kontrast": 66,
+    "medyan": 137,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nikos_CHRISTODOULIDES_%28cropped%29.jpg/1280px-Nikos_CHRISTODOULIDES_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2f31d88e297d139b": {
    "icerik": {
     "ana_kutu": [
@@ -21186,6 +21405,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Fresh_bio_blackberry%2C_blueberry_%2843598589652%29.jpg/1280px-Fresh_bio_blackberry%2C_blueberry_%2843598589652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "317e20c0091d2d34": {
+   "icerik": {
+    "ana_kutu": [
+     142,
+     161,
+     997,
+     993
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "takım elbise",
+     "bayrak",
+     "kravat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki liderin resmi törende tokalaşma anı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "diplomasi",
+     "ziyaret haberi",
+     "siyaset"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      171,
+      308,
+      360,
+      415
+     ],
+     [
+      214,
+      583,
+      423,
+      688
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:efb8af2043ed:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf farklı bir ülkedeki başka bir ziyarete (Ukrayna) ait olduğu için Dublin zirvesi haberiyle çelişir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "94ecc9c8cccce8c8",
+    "sha": "a83f9e6881f8ef10bcb71a9a"
+   },
+   "t": "2026-11-12T07:56:28+03:00",
+   "teknik": {
+    "doygunluk": 25.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.293,
+    "keskinlik": 1235,
+    "kontrast": 90,
+    "medyan": 205,
+    "parlaklik": 152,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nikos_Christodoulides_visit_to_Ukraine_%282986021838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "31fd8d0b946c62fb": {
    "icerik": {
@@ -22346,6 +22659,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Music_band_performs_on_stage_during_a_live_concert.jpg/1280px-Music_band_performs_on_stage_during_a_live_concert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "342aed65687d507a": {
+   "icerik": {
+    "ana_kutu": [
+     323,
+     126,
+     672,
+     775
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yolcu uçağı",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi gökyüzünde seyir halindeki SunExpress yolcu uçağı yandan görünüm.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "havacılık haberleri",
+     "sefer duyuruları",
+     "şirket tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "yerel politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:05c2bdf292a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "SunExpress uçağını net bir şekilde gösterdiği için yeni sefer haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       323,
+       126,
+       672,
+       775
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "20c33419f31a0582",
+    "sha": "a73744f7e5ae341e8115b587"
+   },
+   "t": "2026-11-12T07:56:13+03:00",
+   "teknik": {
+    "doygunluk": 57.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 593,
+    "kontrast": 30,
+    "medyan": 110,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/SunExpress_Boeing_737-86J_TC-SNV_MUC_2015_02.jpg/1280px-SunExpress_Boeing_737-86J_TC-SNV_MUC_2015_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3448e7d1c45e5490": {
    "icerik": {
@@ -28457,6 +28865,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:05c2bdf292a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uçak içi ikram ve atıştırmalık kutusunu gösteriyor, yeni sefer haberi için yetersiz ve alakasız.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": false
+       },
+       {
+        "unsur": "havalimanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:13+03:00"
+    },
     "r1:7664b47cddde:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -28492,7 +28930,7 @@
     "dh": "c01e365040c9e4c8",
     "sha": "e14c35b0a143fb76dbf38591"
    },
-   "t": "2026-11-09T13:21:14+03:00",
+   "t": "2026-11-12T07:56:13+03:00",
    "teknik": {
     "doygunluk": 31.4,
     "inen": [
@@ -45468,6 +45906,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6ef2d3cb49be73fa": {
+   "icerik": {
+    "ana_kutu": [
+     483,
+     49,
+     668,
+     467
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yolcu uçağı",
+     "pist",
+     "kontrol kulesi",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Münih Havalimanı pistinden kalkan SunExpress yolcu uçağı ve pistteki diğer uçaklar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "havacılık haberleri",
+     "şirket uçuşları",
+     "ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:05c2bdf292a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pistten kalkan SunExpress uçağı ve havalimanı ortamı haberin görsel ihtiyaçlarını karşılıyor.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       483,
+       49,
+       668,
+       467
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0101209c33578c0f",
+    "sha": "8918630e7fa2c0de8662baf8"
+   },
+   "t": "2026-11-12T07:56:13+03:00",
+   "teknik": {
+    "doygunluk": 15.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 1576,
+    "kontrast": 45,
+    "medyan": 163,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/SunExpress_Boeing_737-800%2C_Munich%2C_April_2019.jpg/1280px-SunExpress_Boeing_737-800%2C_Munich%2C_April_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6f4401a106af3a18": {
    "icerik": {
     "ana_kutu": [
@@ -50101,6 +50636,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:05c2bdf292a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan SunExpress yolcu uçağını net şekilde gösteriyor, uçuş haberleri için çok uygun.",
+      "gerekli": [
+       {
+        "unsur": "SunExpress uçağı",
+        "var": true
+       },
+       {
+        "unsur": "havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       194,
+       23,
+       725,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:13+03:00"
+    },
     "r1:318549fb61ac:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -50163,7 +50733,7 @@
     "dh": "0309633fd0f02f07",
     "sha": "aff371094e6b6361c3ac886e"
    },
-   "t": "2026-11-08T06:02:39+03:00",
+   "t": "2026-11-12T07:56:13+03:00",
    "teknik": {
     "doygunluk": 56.0,
     "inen": [
@@ -85331,6 +85901,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/President_Erdogan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "cd5fed3abe234741": {
+   "icerik": {
+    "ana_kutu": [
+     60,
+     273,
+     993,
+     991
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "takım elbise",
+     "kravat",
+     "bayrak"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Nikos Hristodulidis, arkasında Avrupa Birliği bayraklarıyla çekilmiş portre fotoğrafı.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "lider profili"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      60,
+      471,
+      768,
+      839
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:efb8af2043ed:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana öznenin arşiv portresi olması sebebiyle haber için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       60,
+       273,
+       993,
+       991
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "999594d9c95a1393",
+    "sha": "981f9ae24ba900d534779808"
+   },
+   "t": "2026-11-12T07:56:28+03:00",
+   "teknik": {
+    "doygunluk": 26.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.22,
+    "keskinlik": 532,
+    "kontrast": 65,
+    "medyan": 128,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nikos_CHRISTODOULIDES.jpg/1280px-Nikos_CHRISTODOULIDES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cd6840e669d46523": {
    "icerik": {
     "ana_kutu": [
@@ -98163,6 +98826,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg/1280px-G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "eead311d08579aa1": {
+   "icerik": {
+    "ana_kutu": [
+     34,
+     179,
+     995,
+     844
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "takım elbise",
+     "kravat",
+     "mikrofon"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulidis'in kürsü önündeki portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "lider profili"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      34,
+      242,
+      591,
+      688
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:efb8af2043ed:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin arşivi olduğu için zirve haberinde kullanılabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       34,
+       179,
+       995,
+       844
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T07:56:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d4e8c1c9c8cabb6",
+    "sha": "7ee3edfe88ecb72f961dfacb"
+   },
+   "t": "2026-11-12T07:56:28+03:00",
+   "teknik": {
+    "doygunluk": 56.0,
+    "inen": [
+     500,
+     618
+    ],
+    "karanlik_oran": 0.36,
+    "keskinlik": 461,
+    "kontrast": 54,
+    "medyan": 83,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/President_Christodoulides_%28cropped%29.jpg/1280px-President_Christodoulides_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ef14581a38946d0d": {
    "icerik": {
     "ana_kutu": [
@@ -108237,6 +108993,70 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "2f0185bb47168250": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    3836,
+    5035
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2024-04-17",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulidis'in yakın plan portre çekimi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T07:56:28+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "European Union / Wikimedia Commons (Attribution)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Nikos_CHRISTODOULIDES_(cropped).jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Attribution",
+    "sahibi": "European Union",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Nikos_CHRISTODOULIDES_(cropped).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Nikos Hristodulidis",
+      "qid": "Q48905549"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "gözlük",
+    "kravat",
+    "rozet",
+    "takım elbise"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nikos_CHRISTODOULIDES_%28cropped%29.jpg/500px-Nikos_CHRISTODOULIDES_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "siyaset haberleri",
+    "lider profili",
+    "röportaj görseli"
+   ],
+   "kullanilamaz": [
+    "spor müsabakaları",
+    "magazin",
+    "ekonomi analizi"
+   ],
+   "notr_portre": true,
+   "qid": "Q48905549",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-12T07:56:28+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nikos_CHRISTODOULIDES_%28cropped%29.jpg/1280px-Nikos_CHRISTODOULIDES_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "2f96a54c7f563dba": {
    "alt_tur": "kisi_benzer",
    "boyut": [
@@ -110841,7 +111661,7 @@
    "gosterim_ad": "SunExpress",
    "ilk_kabul": "2026-11-07T22:18:51+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "MarcelX42 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -110866,6 +111686,7 @@
    "konular": [
     "SunExpress uçağı",
     "gökyüzü",
+    "havalimanı",
     "yolcu uçağı"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/500px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -110880,7 +111701,7 @@
    "qid": "Q1137136",
    "sahne_turu": "nesne_urun",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-09T13:21:14+03:00",
+   "son_kabul": "2026-11-12T07:56:13+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
