@@ -8913,6 +8913,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Korkuteli_-_Antalya_highway_-_panoramio.jpg/1280px-Korkuteli_-_Antalya_highway_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "13b05a3095761a61": {
+   "ozet": {
+    "dh": "232f3f2d2535b5b5",
+    "sha": "0e9061e994a9415ac58ad2a4"
+   },
+   "t": "2026-11-13T00:28:38+03:00",
+   "teknik": {
+    "doygunluk": 22.6,
+    "inen": [
+     1215,
+     609
+    ],
+    "karanlik_oran": 0.511,
+    "keskinlik": 872,
+    "kontrast": 92,
+    "medyan": 42,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "/images/kurum/899e56ed45505f50.jpg"
+  },
   "13d3cb45e402f058": {
    "icerik": {
     "ana_kutu": null,
@@ -16351,6 +16372,36 @@
      },
      "t": "2026-11-08T11:10:01+03:00"
     },
+    "r1:bbef9969f0c1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki COP31 zirvesini değil, Tuvalu'daki bir ziyareti göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "delegeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:30:16+03:00"
+    },
     "r1:ca842bcacaad:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16488,36 +16539,6 @@
      },
      "t": "2026-11-08T21:03:09+03:00"
     },
-    "r1:f0c8a1f63330:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf Tuvalu'daki bir ziyarete aittir, COP31 veya Antalya-Rabat iş birliği ile ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "COP31 tabelası veya logosu",
-        "var": false
-       },
-       {
-        "unsur": "konferans pavilyonu",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T00:01:53+03:00"
-    },
     "r1:fed2a553e45f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16557,7 +16578,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-12T11:26:29+03:00",
+   "t": "2026-11-13T00:30:16+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -26462,6 +26483,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Antalya_Old_buildings_in_modern_town_in_2011_51.jpg/1280px-Antalya_Old_buildings_in_modern_town_in_2011_51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "35e99a04509d16cf": {
+   "icerik": {
+    "ana_kutu": [
+     43,
+     283,
+     1000,
+     992
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "gömlek",
+     "kravat"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Takım elbiseli ve kravatlı Recep Tayyip Erdoğan'ın yakın plan portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "biyografi",
+     "diplomasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sanat"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      60,
+      283,
+      495,
+      749
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b592e1b82acc:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin güncel arşiv portresidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       43,
+       283,
+       1000,
+       992
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b2e96de9cc4e2625",
+    "sha": "4d5684bad4f338f658eb2636"
+   },
+   "t": "2026-11-13T00:28:45+03:00",
+   "teknik": {
+    "doygunluk": 30.1,
+    "inen": [
+     500,
+     667
+    ],
+    "karanlik_oran": 0.36,
+    "keskinlik": 830,
+    "kontrast": 87,
+    "medyan": 146,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/10.11.2026_-_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Turquia_-_55645239849_%28Recep_Tayyip_Erdo%C4%9Fan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "35f2ff50920b7ff1": {
    "icerik": {
     "ana_kutu": [
@@ -31329,13 +31444,39 @@
       "yasak": []
      },
      "t": "2026-11-11T08:09:27+03:00"
+    },
+    "r1:b592e1b82acc:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Recep Tayyip Erdoğan'ın net portresi, arşiv fotoğrafı olarak uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       23,
+       235,
+       1000,
+       996
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:45+03:00"
     }
    },
    "ozet": {
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-12T01:27:54+03:00",
+   "t": "2026-11-13T00:28:45+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -51231,6 +51372,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20230116_Manavgat%2C_Turkey_15.jpg/1280px-20230116_Manavgat%2C_Turkey_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "72f1e55d6140c65a": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     27,
+     888,
+     889
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "makam masasi",
+     "koltuk",
+     "perde",
+     "tablo",
+     "heykel"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir makam odasi ve calisma masasi gorunumu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "tarih",
+     "makam haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e7dd6920a7ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Makam odasini gosteriyor ancak tarihi ve yabanci bir mekan olmasi nedeniyle guncel yerel haber icin uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       27,
+       888,
+       889
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:30:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8d89d9d173e82836",
+    "sha": "5d5c4c83ab613b1ae69118e8"
+   },
+   "t": "2026-11-13T00:30:51+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     403
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 1921,
+    "kontrast": 56,
+    "medyan": 200,
+    "parlaklik": 178,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Photograph_of_President_Truman%27s_desk_and_Oval_Office_in_the_White_House._-_NARA_-_199444.jpg/1280px-Photograph_of_President_Truman%27s_desk_and_Oval_Office_in_the_White_House._-_NARA_-_199444.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7351c234c7b5143b": {
    "icerik": {
     "ana_kutu": [
@@ -60352,6 +60587,27 @@
      },
      "t": "2026-11-08T14:35:22+03:00"
     },
+    "r1:b592e1b82acc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da kasaya ürün yükleyen işçiler görülüyor; siyasi zirve haberiyle bağdaşmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:45+03:00"
+    },
     "r1:c88bc2c2f478:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -60404,7 +60660,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-12T14:28:19+03:00",
+   "t": "2026-11-13T00:28:45+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -64467,6 +64723,93 @@
     "s": "t1"
    },
    "url": "/images/kurum/04439cc134e52734.jpg"
+  },
+  "8ea5bbc39b040467": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sema kutulari",
+     "ok isaretleri",
+     "yazilar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kurumsal yapi ve kurumlari gosteren sematik sema ve metin kutulari",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "egitim politikasi",
+     "kurumsal yapi",
+     "arastirma raporu"
+    ],
+    "uygunsuz_baglamlar": [
+     "makam ziyareti",
+     "guncel siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e7dd6920a7ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Egitim kurumu semasi gosteriyor, makam ziyareti haberiyle tamamen ilgisiz ve yabanci kaynakli.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:30:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "383411d9f8e26626",
+    "sha": "617c2164dabbab1ee6a2e414"
+   },
+   "t": "2026-11-13T00:30:51+03:00",
+   "teknik": {
+    "doygunluk": 4.1,
+    "inen": [
+     500,
+     220
+    ],
+    "karanlik_oran": 0.002,
+    "keskinlik": 2378,
+    "kontrast": 46,
+    "medyan": 255,
+    "parlaklik": 234,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Figure_1-_Department_of_Interior_Offices_Responsible_for_Oversight_of_Bureau_of_Indian_Education_School_Expenditures_%2815825135591%29.jpg/1280px-Figure_1-_Department_of_Interior_Offices_Responsible_for_Oversight_of_Bureau_of_Indian_Education_School_Expenditures_%2815825135591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8ea830a29094bf58": {
    "icerik": {
@@ -69716,6 +70059,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Search_and_rescue_dogs_assist_in_recovery_efforts_of_missing_U_S_soldier_%288946047%29.jpg/1280px-Search_and_rescue_dogs_assist_in_recovery_efforts_of_missing_U_S_soldier_%288946047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9b94317fb1e5f274": {
+   "icerik": {
+    "ana_kutu": [
+     81,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kale suru",
+     "kubbe",
+     "minare",
+     "agac",
+     "bina kalintisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir kalenin surları ve içindeki cami kubbesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi yapi haberi",
+     "turizm tanitimi",
+     "mimari yazi"
+    ],
+    "uygunsuz_baglamlar": [
+     "bakkal alisverisi",
+     "magazin haberi",
+     "spor musabakasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:71bb12d1e2d3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kale ve surlar yer almaktadır; Shakira'nın bakkal alışverişi haberiyle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "bakkal",
+        "var": false
+       },
+       {
+        "unsur": "gida paketleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f3970a1a9838f9c",
+    "sha": "d07f94d3b05072682c88594c"
+   },
+   "t": "2026-11-13T00:28:08+03:00",
+   "teknik": {
+    "doygunluk": 14.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 3585,
+    "kontrast": 56,
+    "medyan": 112,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Anamur_Castle_Main_tower_view_8735.jpg/1280px-Anamur_Castle_Main_tower_view_8735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9bf495aa96b5a638": {
    "icerik": {
     "ana_kutu": [
@@ -70821,6 +71257,96 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1776235483260-cd5d8a586848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "9f3c85b0f01658c2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina dis cephesi",
+     "agaclar",
+     "kaldirim",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Disaridan bir egitim binasi ve yanindaki yuruyus yolu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "egitim binasi",
+     "okul haberi",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "makam ziyareti",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e7dd6920a7ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bina dis cephesi ve sokak gorunumu iceriyor, yasakli unsurlar arasinda sokak oldugu icin uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak"
+      ]
+     },
+     "t": "2026-11-13T00:30:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9b9e151131301c1f",
+    "sha": "90cd7389c622849822184fd8"
+   },
+   "t": "2026-11-13T00:30:51+03:00",
+   "teknik": {
+    "doygunluk": 28.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.238,
+    "keskinlik": 4331,
+    "kontrast": 59,
+    "medyan": 104,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/International_Bureau_of_Education_-_UNESCO_%40_Le_Grand-Saconnex_%2850637572162%29.jpg/1280px-International_Bureau_of_Education_-_UNESCO_%40_Le_Grand-Saconnex_%2850637572162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9f7b00bc2519522a": {
    "icerik": {
@@ -90835,13 +91361,39 @@
       "yasak": []
      },
      "t": "2026-11-11T22:41:16+03:00"
+    },
+    "r1:b592e1b82acc:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin arşiv portresidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       38,
+       218,
+       1000,
+       996
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:45+03:00"
     }
    },
    "ozet": {
     "dh": "41c48ce99c9f564a",
     "sha": "c57a3abe0e509d3089b280d5"
    },
-   "t": "2026-11-11T22:41:16+03:00",
+   "t": "2026-11-13T00:28:45+03:00",
    "teknik": {
     "doygunluk": 39.8,
     "inen": [
@@ -107684,27 +108236,6 @@
      },
      "t": "2026-11-12T14:28:19+03:00"
     },
-    "r1:5e1bc2283a6b:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya'da çekilmiş olsa da COP31 zirvesi ile hiçbir görsel bağı yoktur.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:54:11+03:00"
-    },
     "r1:63da89cacf8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -107891,6 +108422,27 @@
      },
      "t": "2026-11-08T14:35:22+03:00"
     },
+    "r1:b592e1b82acc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da kırsal bir alanda tarımsal yükleme sahnesi; liderlerin görüşmesiyle ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:28:45+03:00"
+    },
     "r1:c88bc2c2f478:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -107943,7 +108495,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-12T14:28:19+03:00",
+   "t": "2026-11-13T00:28:45+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -116216,7 +116768,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-11T08:09:27+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -116258,7 +116810,7 @@
    "qid": "Q39259",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-11T22:41:16+03:00",
+   "son_kabul": "2026-11-13T00:28:45+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
