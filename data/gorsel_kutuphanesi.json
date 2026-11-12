@@ -37837,13 +37837,39 @@
       "yasak": []
      },
      "t": "2026-11-12T15:57:10+03:00"
+    },
+    "r1:d926464a5cf6:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Bakan Mehmet Fatih Kacır'ın yakın portresidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T02:58:29+03:00"
     }
    },
    "ozet": {
     "dh": "12c969b191c44627",
     "sha": "2425017166e89c45abe0fa01"
    },
-   "t": "2026-11-12T15:57:10+03:00",
+   "t": "2026-11-13T02:58:29+03:00",
    "teknik": {
     "doygunluk": 34.8,
     "inen": [
@@ -47915,20 +47941,33 @@
      },
      "t": "2026-11-08T15:19:17+03:00"
     },
-    "r1:502e7d033825:ozne_kisi": {
+    "r1:4994be6d9c16:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
       "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": true,
-      "gerekce": "Haberin ana kişisi görünmektedir ancak doğrudan COP31 iklim zirvesiyle ilgili bir görsel değildir.",
-      "gerekli": [],
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber COP31 zirvesi ile ilgili ancak fotoğraf sadece bir portre, zirve ortamı görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "devlet yetkilileri",
+        "var": false
+       },
+       {
+        "unsur": "zirve flotaları",
+        "var": false
+       }
+      ],
       "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
       "konu_kutusu": [
-       21,
-       169,
-       755,
-       814
+       0,
+       0,
+       1000,
+       1000
       ],
       "olay_gorunuyor": false,
       "uygunluk": 3,
@@ -47939,7 +47978,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T11:08:35+03:00"
+     "t": "2026-11-13T02:58:04+03:00"
     },
     "r1:781ce136d1ce:ozne_kisi": {
      "d": {
@@ -48161,7 +48200,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-10T11:07:47+03:00",
+   "t": "2026-11-13T02:58:04+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -56782,6 +56821,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/151209-D-HU462-107_%2823682327882%29.jpg/1280px-151209-D-HU462-107_%2823682327882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7f3effdff3ff6d33": {
+   "icerik": {
+    "ana_kutu": [
+     262,
+     595,
+     591,
+     939
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "duvar",
+     "trafisareti",
+     "agac",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "T.C. Sanayi ve Teknoloji Bakanligi ana binalari dis cephe ve giris kapisi gorunumu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "kaza haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d926464a5cf6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan bakanlığın binası görünmektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       262,
+       595,
+       591,
+       939
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T02:58:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cf4ecd96b333c8b2",
+    "sha": "86a1818dda29a54d0f1807ab"
+   },
+   "t": "2026-11-13T02:58:29+03:00",
+   "teknik": {
+    "doygunluk": 18.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.055,
+    "keskinlik": 2601,
+    "kontrast": 56,
+    "medyan": 95,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg/1280px-TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7f45142e894fb469": {
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
@@ -62071,6 +62195,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg/1280px-VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "88a6a239d91dc199": {
+   "ozet": {
+    "dh": "a2b2e2e688aaaaee",
+    "sha": "2626c7094c1ea0dbeb750b62"
+   },
+   "t": "2026-11-13T02:58:02+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     1200,
+     656
+    ],
+    "karanlik_oran": 0.531,
+    "keskinlik": 1278,
+    "kontrast": 100,
+    "medyan": 42,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "/images/kurum/45992104c8c39fe7.jpg"
   },
   "88dd8e7e2d5bef01": {
    "icerik": {
@@ -88642,6 +88787,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg/1280px-Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c601266b5eb73487": {
+   "icerik": {
+    "ana_kutu": [
+     243,
+     84,
+     1000,
+     929
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "anıt taş",
+     "yazıt",
+     "haç",
+     "tuğla",
+     "toprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir kalıntıyı ve üzerindeki yazıtı gösteren anıt taş.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarih haberi",
+     "turizm haberi",
+     "anıt haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset ziyareti haberi",
+     "jandarma haberi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4738b83f87c2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki yabǢncı yazılı anıt taşı, Alanya'daki jandarma ziyaret haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "jandarma karakolu",
+        "var": false
+       },
+       {
+        "unsur": "askeri yetkililer",
+        "var": false
+       },
+       {
+        "unsur": "siyasi parti temsilcileri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T02:58:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4e9833dcf5dbd756",
+    "sha": "923509f892a5840c2f6dcacd"
+   },
+   "t": "2026-11-13T02:58:52+03:00",
+   "teknik": {
+    "doygunluk": 28.7,
+    "inen": [
+     500,
+     358
+    ],
+    "karanlik_oran": 0.172,
+    "keskinlik": 4711,
+    "kontrast": 50,
+    "medyan": 100,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Remnants_of_turkish_barracks_Sofia_2012_PD_1.jpg/1280px-Remnants_of_turkish_barracks_Sofia_2012_PD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c64a9c97d1bb1cbb": {
    "icerik": {
     "ana_kutu": [
@@ -94625,6 +94867,89 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/River_is_dying.jpg/1280px-River_is_dying.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d480adb0dccf2d81": {
+   "icerik": {
+    "ana_kutu": [
+     172,
+     0,
+     804,
+     992
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "pencereler",
+     "agaclar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "T.C. Sanayi ve Ticaret Bakanligi eski binasi dis cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "guncel yatirimlar",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d926464a5cf6:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanlığın eski adı ve binası görünmektedir, dönem uyumsuzluğu vardır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       172,
+       0,
+       804,
+       992
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T02:58:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0779790b15159d8d",
+    "sha": "5b1f429cbc10c1238636ed81"
+   },
+   "t": "2026-11-13T02:58:29+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     248
+    ],
+    "karanlik_oran": 0.008,
+    "keskinlik": 2535,
+    "kontrast": 51,
+    "medyan": 197,
+    "parlaklik": 188,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/T.C._Sanayi_ve_Ticaret_Bakanl%C4%B1%C4%9F%C4%B1.JPG/1280px-T.C._Sanayi_ve_Ticaret_Bakanl%C4%B1%C4%9F%C4%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d503f335dc699ae8": {
    "icerik": {
     "ana_kutu": [
@@ -96781,6 +97106,110 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Levent-Y%C3%BCksel-in-Istanbul-2014.jpg/1280px-Levent-Y%C3%BCksel-in-Istanbul-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "db7d13e42d72a8b9": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     93,
+     747,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş duvar",
+     "türk bayrağı",
+     "jandarma tabelası",
+     "saksı",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Taş kaplamalı ve Türk bayraklı jandarma karakolu binası dış cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "jandarma haberleri",
+     "karakol ziyareti",
+     "resmi kurum haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "spor karşılaşması",
+     "magazin haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4738b83f87c2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta sadece karakol binası var, ziyaretçiler ve yetkililer görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "jandarma karakolu",
+        "var": true
+       },
+       {
+        "unsur": "askeri yetkililer",
+        "var": false
+       },
+       {
+        "unsur": "siyasi parti temsilcileri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       93,
+       747,
+       999
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sivillerin olmadığı boş bina"
+      ]
+     },
+     "t": "2026-11-13T02:58:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "879dc948c84a1b39",
+    "sha": "9cafcc31953243c7236f3de7"
+   },
+   "t": "2026-11-13T02:58:52+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.093,
+    "keskinlik": 3326,
+    "kontrast": 52,
+    "medyan": 105,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Jandarma_Station_in_Ephesus.JPG/1280px-Jandarma_Station_in_Ephesus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "db90b85f925e4e90": {
    "icerik": {
@@ -119792,6 +120221,64 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-12T07:56:13+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "7f3effdff3ff6d33": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "T.C. Sanayi ve Teknoloji Bakanligi ana binalari dis cephe ve giris kapisi gorunumu",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T02:58:29+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Modern primat / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Modern primat",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "agac",
+    "bina",
+    "duvar",
+    "trafisareti",
+    "yol"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg/500px-TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin",
+    "kaza haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-13T02:58:29+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg/1280px-TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
