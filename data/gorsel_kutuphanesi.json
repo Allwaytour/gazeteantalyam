@@ -24090,6 +24090,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_September_2025_%281%29.jpg/1280px-Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_September_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "326f9e0276b75a38": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     100,
+     750,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taban mozaiği",
+     "toprak zemin",
+     "taş duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Syedra Antik Kenti'nde ortaya çıkarılan Herakles figürlü taban mozaiği",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "tarihi eser keşfi",
+     "antik kent tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel politika",
+     "spor maçı",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:927b8fdc6671:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, haberin konusu olan Syedra Antik Kenti'ndeki kalıntıları ve mozaiği göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Syedra Antik Kenti kalıntıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       100,
+       750,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:58:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "47071f5dd7cd2f3b",
+    "sha": "f68c87e9f7330049fc4c0def"
+   },
+   "t": "2026-11-13T00:58:30+03:00",
+   "teknik": {
+    "doygunluk": 62.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.003,
+    "keskinlik": 1514,
+    "kontrast": 31,
+    "medyan": 154,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mosaic_in_Syedra_2.jpg/1280px-Mosaic_in_Syedra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "32822b405df455a2": {
    "icerik": {
     "ana_kutu": [
@@ -37647,6 +37739,127 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Konya6plaj.jpg/1280px-Konya6plaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5178fbad129abb06": {
+   "icerik": {
+    "ana_kutu": [
+     426,
+     222,
+     856,
+     742
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "okul binası",
+     "öğrenci",
+     "sanat eseri",
+     "çöp kutusu",
+     "bank"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Okul bahçesinde ellerinde sanat eserleri tutan öğrenciler ve öğretmenler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "okul etkinliği",
+     "sanat atölyesi",
+     "eğitim haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçı",
+     "siyasi miting",
+     "adliye haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      447,
+      355,
+      597,
+      396
+     ],
+     [
+      473,
+      411,
+      574,
+      442
+     ],
+     [
+      478,
+      446,
+      831,
+      485
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fecba0ed0903:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'daki kinusaiga atölyesine katılan öğrenciler ellerindeki çalışmalarla okul önünde poz veriyor.",
+      "gerekli": [
+       {
+        "unsur": "kumaş parçaları",
+        "var": true
+       },
+       {
+        "unsur": "strafor",
+        "var": true
+       },
+       {
+        "unsur": "kumaş el işi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       426,
+       222,
+       856,
+       742
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:59:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "26c8f0d32b2b679b",
+    "sha": "4283e9f54fa61fdad5b977ea"
+   },
+   "t": "2026-11-13T00:59:09+03:00",
+   "teknik": {
+    "doygunluk": 26.2,
+    "inen": [
+     1000,
+     467
+    ],
+    "karanlik_oran": 0.138,
+    "keskinlik": 2353,
+    "kontrast": 61,
+    "medyan": 119,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "/images/kurum/80d570e284d52008.jpg"
   },
   "51e683add896adf9": {
    "icerik": {
@@ -84509,6 +84722,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/D_400_Antalya_-_23.6.15.JPG/1280px-D_400_Antalya_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bc89c7ab25578072": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     0,
+     750,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş duvarlar",
+     "kemerli yapılar",
+     "otlar",
+     "kayalık zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Syedra Antik Kenti'nin taş kalıntıları ve yapı kalıntıları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "antik kent tanıtımı",
+     "arkeoloji haberi",
+     "tarihi turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:927b8fdc6671:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Syedra Antik Kenti'nin genel kalıntılarını net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Syedra Antik Kenti kalıntıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       0,
+       750,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:58:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "611ffdf5921a952e",
+    "sha": "b55bbd796278283e5ecc8371"
+   },
+   "t": "2026-11-13T00:58:30+03:00",
+   "teknik": {
+    "doygunluk": 38.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.157,
+    "keskinlik": 5347,
+    "kontrast": 64,
+    "medyan": 145,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Syedra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "bc9446a34229201b": {
    "icerik": {
     "ana_kutu": [
@@ -86020,6 +86325,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_on_the_24_August_2026_%281%29.jpg/1280px-Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_on_the_24_August_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c082796089f3f452": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     100,
+     750,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taban mozaiği",
+     "toprak zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Syedra Antik Kenti'nde bulunan Herakles tasvirli zemin mozaiği",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "arkeoloji haberi",
+     "tarihi eser keşfi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:927b8fdc6671:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Syedra Antik Kenti'nden bir mozaiği göstermekte olup haberi desteklemektedir.",
+      "gerekli": [
+       {
+        "unsur": "Syedra Antik Kenti kalıntıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       100,
+       750,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T00:58:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "47071e96b7864d3d",
+    "sha": "4031f520d7ff0dd9dbbf3479"
+   },
+   "t": "2026-11-13T00:58:30+03:00",
+   "teknik": {
+    "doygunluk": 56.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.002,
+    "keskinlik": 1421,
+    "kontrast": 27,
+    "medyan": 163,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mosaic_in_Syedra_1.jpg/1280px-Mosaic_in_Syedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c0be2e284b3b393d": {
    "icerik": {
@@ -116114,6 +116508,67 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "326f9e0276b75a38": {
+   "alt_tur": "kurum",
+   "boyut": [
+    3973,
+    2981
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2023-07-22",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Syedra Antik Kenti'nde ortaya çıkarılan Herakles figürlü taban mozaiği",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T00:58:30+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Texaner / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Texaner",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Mosaic_in_Syedra_2.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Syedra Antik Kenti kalıntıları",
+    "taban mozaiği",
+    "taş duvar",
+    "toprak zemin"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mosaic_in_Syedra_2.jpg/500px-Mosaic_in_Syedra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "arkeoloji haberi",
+    "tarihi eser keşfi",
+    "antik kent tanıtımı"
+   ],
+   "kullanilamaz": [
+    "güncel politika",
+    "spor maçı",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-13T00:58:30+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mosaic_in_Syedra_2.jpg/1280px-Mosaic_in_Syedra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "32f8aa3cefac1d57": {
    "alt_tur": "kurum",
    "boyut": [
@@ -117324,6 +117779,75 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "5178fbad129abb06": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    467
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Okul bahçesinde ellerinde sanat eserleri tutan öğrenciler ve öğretmenler.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T00:59:09+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/atik-malzemeler-kinusaiga-sanatiyla-yeniden-hayat-buldu/126647"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bank",
+    "kumaş el işi",
+    "kumaş parçaları",
+    "okul binası",
+    "sanat eseri",
+    "strafor",
+    "çöp kutusu",
+    "öğrenci"
+   ],
+   "kucuk": "/images/kurum/80d570e284d52008.jpg",
+   "kullanilabilir": [
+    "okul etkinliği",
+    "sanat atölyesi",
+    "eğitim haberi"
+   ],
+   "kullanilamaz": [
+    "spor maçı",
+    "siyasi miting",
+    "adliye haberi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T00:59:09+03:00",
+   "url": "/images/kurum/80d570e284d52008.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "5207568a0d715179": {
    "alt_tur": "kisi_genel",
