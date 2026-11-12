@@ -1,0 +1,5498 @@
+{
+"aciklama": "Doğrulanmış görsel arşivinin t2 kayıt tanımları. Her tanım: sınıf, kimlik, konu etiketi, eşleştirme kuralları ve 'kaynak' listesi ([kayıt kimliği, aday anahtarı]; c: data/gorsel_aday_commons.json, u: data/gorsel_aday_unsplash.json ya da buradaki 'aday', k: doğrulanmış görsel kütüphanesi). Görsellerin tamamı editör tarafından tek tek görülerek seçildi; lisans bilgisi Commons dosya kaydından ya da Unsplash Lisansı'ndan alındı.",
+"aday": {
+"u": [
+{
+"k": "tl1_0",
+"id": "TD9ZL6i81R4",
+"sl": "",
+"raw": "https://images.unsplash.com/photo-1637497601387-0cc99a234251",
+"w": 5472,
+"h": 3080,
+"a": "Nedret Binici",
+"d": ""
+},
+{
+"k": "vol2_5",
+"id": "_qgVM0AEu7Q",
+"sl": "",
+"raw": "https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e",
+"w": 5184,
+"h": 3888,
+"a": "Sotirios T. Kokkinos",
+"d": ""
+},
+{
+"k": "vol1_5",
+"id": "-nB1vV_7A-4",
+"sl": "",
+"raw": "https://images.unsplash.com/photo-1552509297-a311e6bbe568",
+"w": 4896,
+"h": 3264,
+"a": "Bruce Warrington",
+"d": ""
+}
+]
+},
+"kayitlar": [
+{
+"konu": "kaza",
+"kimlik": "112 Acil ambulansı",
+"oncelik": 4.0,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"re:kaza(?!n|k)",
+"çarpış",
+"çarptı",
+"çarpması",
+"devril",
+"takla at",
+"şarampol",
+"yaralan",
+"yaralı",
+"ambulans",
+"112 acil",
+"hastaneye kaldırıldı",
+"hastanelik oldu",
+"kurtarıldı",
+"mahsur kal",
+"zehirlen",
+"boğul",
+"fenalaş"
+],
+"yasak": [
+"iş kazası sigorta",
+"kaza sigortası",
+"yasa boğ"
+],
+"aciklama": "112 Acil ambulansı — Temsilî fotoğraf",
+"grup": "ambulans",
+"kaynak": [
+[
+"ambulans-1",
+"c:ambulans_0"
+],
+[
+"ambulans-2",
+"c:ambulans_3"
+]
+]
+},
+{
+"konu": "yangin",
+"kimlik": "İtfaiye",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"yangın",
+"itfaiye",
+"re:alev(?!i|len)",
+"küle döndü",
+"kül oldu",
+"patlama",
+"söndür",
+"yandı"
+],
+"yasak": [
+"yangın gören alan",
+"fidan"
+],
+"aciklama": "Temsilî fotoğraf",
+"grup": "itfaiye",
+"kaynak": [
+[
+"itfaiye-1",
+"c:itfaiye_3"
+],
+[
+"itfaiye-2",
+"u:yangin_2"
+]
+]
+},
+{
+"konu": "polis",
+"kimlik": "Polis",
+"oncelik": 4.1,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"polis",
+"emniyet",
+"gözaltı",
+"operasyon",
+"şüpheli",
+"yakalan",
+"cinayet",
+"öldür",
+"bıçak",
+"silahlı",
+"hırsız",
+"dolandır",
+"uyuşturucu",
+"kaçakçı",
+"asayiş",
+"darp",
+"kavga",
+"saldır",
+"gasp",
+"kayıp",
+"kaybol",
+"aranıyor",
+"aranan",
+"bahis",
+"ihbar",
+"ceset",
+"cesed",
+"ölü bulun",
+"suç ",
+"suç gelir",
+"şiddet uygula",
+"vuruldu",
+"silahla vur",
+"ateş aç",
+"kurşun",
+"akrobasi",
+"tahra"
+],
+"yasak": [
+"jandarma",
+"sahil güvenlik",
+"futbolcu",
+"teknik direktör",
+"iş cinayet",
+"ameliyat",
+"robotik",
+"cerrah"
+],
+"baslik_kategoriler": [
+"Spor",
+"Sağlık",
+"Kültür-Sanat",
+"Ekonomi",
+"Turizm",
+"Eğitim"
+],
+"aciklama": "Temsilî fotoğraf",
+"grup": "polis",
+"kaynak": [
+[
+"polis-1",
+"u:polisisik_0"
+],
+[
+"polis-2",
+"c:polis_2"
+],
+[
+"polis-3",
+"u:polisisik_5"
+]
+]
+},
+{
+"konu": "jandarma",
+"kimlik": "Jandarma",
+"oncelik": 3.8,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"jandarma"
+],
+"aciklama": "Jandarma aracı — Temsilî fotoğraf",
+"grup": "jandarma",
+"kaynak": [
+[
+"jandarma-1",
+"c:jandarma_1"
+],
+[
+"jandarma-2",
+"c:jandarma_2"
+]
+]
+},
+{
+"konu": "yargi",
+"kimlik": "Adalet",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"mahkeme",
+"dava",
+"duruşma",
+"sanık",
+"hapis",
+"müebbet",
+"yargı",
+"beraat",
+"tahliye",
+"savcı",
+"iddianame",
+"tutuklan",
+"tutuklama",
+"hâkim karşısı",
+"hakim karşısı",
+"adli kontrol",
+"baro",
+"avukat",
+"re:icra(?!at)",
+"aym ",
+"anayasa mahkemesi",
+"danıştay",
+"yargıtay",
+"soruşturma",
+"bilirkişi",
+"hukuk",
+"ruhsatı iptal",
+"başsavcı"
+],
+"aciklama": "Temsilî fotoğraf",
+"grup": "adalet",
+"kaynak": [
+[
+"adalet-1",
+"c:adalet_8"
+],
+[
+"adalet-2",
+"c:adalet_4"
+],
+[
+"adalet-3",
+"u:mahkeme_3"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Antalya Adliyesi",
+"hassas": true,
+"ilceler": [
+"Muratpaşa",
+"Kepez",
+"Konyaaltı",
+"Aksu",
+"Döşemealtı",
+""
+],
+"oncelik": 3,
+"anahtar": [
+"antalya adliyesi",
+"antalya cumhuriyet başsavcılığı",
+"antalya başsavcılığı",
+"antalya adalet sarayı",
+"ağır ceza mahkemesi",
+"asliye ceza",
+"antalya'da dava",
+"antalya'da yargılan"
+],
+"yil": 2011,
+"grup": "adliye-antalya",
+"kaynak": [
+[
+"adliye-antalya",
+"c:adliye2_0"
+]
+]
+},
+{
+"konu": "sahilguvenlik",
+"kimlik": "Sahil Güvenlik",
+"oncelik": 3.8,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"sahil güvenlik",
+"göçmen",
+"düzensiz göç"
+],
+"aciklama": "Sahil Güvenlik botu — Temsilî fotoğraf",
+"grup": "sahil-guvenlik",
+"kaynak": [
+[
+"sahil-guvenlik-1",
+"c:sahilguvenlik_0"
+],
+[
+"sahil-guvenlik-2",
+"c:sahilguvenlik_3"
+]
+]
+},
+{
+"konu": "trafikdenetim",
+"kimlik": "Trafik denetimi",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"trafik denetim",
+"trafik ceza",
+"radar",
+"ehliyet",
+"alkollü sürücü",
+"trafik ekip",
+"egzoz",
+"drift"
+],
+"grup": "trafik-denetim",
+"kaynak": [
+[
+"trafik-denetim",
+"k:cc35c1"
+]
+]
+},
+{
+"konu": "deprem",
+"kimlik": "Sismograf",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"deprem",
+"sarsıntı",
+"artçı"
+],
+"grup": "deprem",
+"kaynak": [
+[
+"deprem",
+"c:deprem_0"
+]
+]
+},
+{
+"konu": "vefat",
+"kimlik": "Taziye",
+"oncelik": 4.2,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"vefat",
+"cenaze",
+"son yolculuğ",
+"toprağa veril",
+"hayatını kaybe",
+"yasa boğ",
+"acı günü",
+"acı veda",
+"taziye",
+"yürek yakan",
+"acı tesadüf",
+"yaşamını yitir"
+],
+"aciklama": "Temsilî fotoğraf",
+"grup": "vefat",
+"kaynak": [
+[
+"vefat-1",
+"u:mum_0"
+],
+[
+"vefat-2",
+"u:karanfil_3"
+]
+]
+},
+{
+"konu": "hastane",
+"kimlik": "Hastane",
+"oncelik": 4.3,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"hastane",
+"yoğun bakım",
+"acil servis",
+"poliklinik",
+"randevu",
+"mhrs",
+"hekim",
+"sağlık çalışan",
+"sağlık sistem",
+"sağlık hizmet",
+"eah",
+"tedavi"
+],
+"yasak": [
+"veteriner"
+],
+"grup": "hastane",
+"kaynak": [
+[
+"hastane-1",
+"u:hastane_2"
+],
+[
+"hastane-2",
+"u:hastane_4"
+]
+]
+},
+{
+"konu": "yagis",
+"kimlik": "Yağmur",
+"oncelik": 4,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"yağmur",
+"sağanak",
+"yağış",
+"su baskın",
+"sel ",
+"selde",
+"taşkın",
+"meteoroloji",
+"sarı kod",
+"turuncu kod",
+"dolu yağ"
+],
+"yasak": [
+"madalya yağ",
+"gol yağ",
+"ödül yağ",
+"yağmuruna tut"
+],
+"grup": "yagmur",
+"kaynak": [
+[
+"yagmur-1",
+"u:yagmur_4"
+],
+[
+"yagmur-2",
+"u:yagmur_2"
+],
+[
+"yagmur-3",
+"u:yagmur2_5"
+]
+]
+},
+{
+"konu": "firtina",
+"kimlik": "Fırtına",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"fırtına",
+"hortum",
+"dev dalga",
+"lodos",
+"poyraz"
+],
+"grup": "firtina",
+"kaynak": [
+[
+"firtina-1",
+"u:firtina_0"
+],
+[
+"firtina-2",
+"u:firtina_5"
+]
+]
+},
+{
+"konu": "sis",
+"kimlik": "Sis",
+"oncelik": 3.9,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"re:sis(?![a-z])",
+"sisli",
+"sis etkili"
+],
+"grup": "sis",
+"kaynak": [
+[
+"sis-1",
+"u:sis_4"
+],
+[
+"sis-2",
+"u:sis_5"
+]
+]
+},
+{
+"konu": "soguk",
+"kimlik": "Soğuk hava",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"ayaz",
+"dondurucu",
+"soğuk hava",
+"don olay",
+"kırağı",
+"zirai don"
+],
+"grup": "soguk",
+"kaynak": [
+[
+"soguk",
+"k:fc5423"
+]
+]
+},
+{
+"konu": "sicak",
+"kimlik": "Sıcak hava",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"sıcaklık",
+"sıcak hava",
+"aşırı sıcak",
+"kavurucu",
+"hava sıcak"
+],
+"grup": "sicak",
+"kaynak": [
+[
+"sicak",
+"u:sicak_4"
+]
+]
+},
+{
+"konu": "kar",
+"kimlik": "Tahtalı Dağı",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"kar yağ",
+"kar kalın",
+"karla",
+"kayak",
+"saklıkent",
+"tahtalı"
+],
+"aciklama": "Tahtalı Dağı — Arşiv fotoğrafı (2020)",
+"grup": "kar",
+"kaynak": [
+[
+"kar",
+"c:kar_6"
+]
+]
+},
+{
+"konu": "milli",
+"kimlik": "Türk bayrağı",
+"oncelik": 4.1,
+"sinif": "konu",
+"hassas": true,
+"anahtar": [
+"şehit",
+"re:gazi(?!pasa|antep|osmanpasa)",
+"bayrak",
+"bayrağ",
+"29 ekim",
+"cumhuriyet bayram",
+"23 nisan",
+"19 mayıs",
+"30 ağustos",
+"zafer bayram",
+"cumhuriyet'in",
+"cumhuriyet coşku",
+"istiklal marş",
+"çanakkale",
+"mehmetçik",
+"asker",
+"mavi vatan",
+"milli savunma"
+],
+"yasak": [
+"zafer partisi",
+"bayrak yarış"
+],
+"grup": "bayrak",
+"kaynak": [
+[
+"bayrak-1",
+"c:bayrak_7"
+],
+[
+"bayrak-2",
+"c:bayrak_1"
+]
+]
+},
+{
+"kimlik": "CHP",
+"anahtar": [
+"chp",
+"cumhuriyet halk partisi"
+],
+"tam": true,
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "chp-logo",
+"kaynak": [
+[
+"chp-logo",
+"c:chp_3"
+]
+]
+},
+{
+"kimlik": "MHP",
+"anahtar": [
+"mhp",
+"milliyetçi hareket partisi"
+],
+"tam": true,
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "mhp-logo",
+"kaynak": [
+[
+"mhp-logo",
+"c:mhp_3"
+]
+]
+},
+{
+"kimlik": "Zafer Partisi",
+"anahtar": [
+"zafer partisi"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "zafer-logo",
+"kaynak": [
+[
+"zafer-logo",
+"c:zafer_0"
+]
+]
+},
+{
+"kimlik": "Türkiye İşçi Partisi",
+"anahtar": [
+"türkiye işçi partisi",
+"tip'li",
+"tip'ten",
+"tip'in",
+"tip antalya",
+"tip il ",
+"tip genel",
+"tip milletvekil"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "tip-logo",
+"kaynak": [
+[
+"tip-logo",
+"c:tip_0"
+]
+]
+},
+{
+"kimlik": "Yeniden Refah Partisi",
+"anahtar": [
+"yeniden refah"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "yrp-logo",
+"kaynak": [
+[
+"yrp-logo",
+"c:yrp_0"
+]
+]
+},
+{
+"kimlik": "Saadet Partisi",
+"anahtar": [
+"saadet partisi"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "saadet-logo",
+"kaynak": [
+[
+"saadet-logo",
+"c:saadet_4"
+]
+]
+},
+{
+"kimlik": "DEM Parti",
+"anahtar": [
+"dem parti"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "dem-logo",
+"kaynak": [
+[
+"dem-logo",
+"c:dem_2"
+]
+]
+},
+{
+"kimlik": "Anahtar Parti",
+"anahtar": [
+"anahtar parti"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "anahtar-logo",
+"kaynak": [
+[
+"anahtar-logo",
+"c:anahtar_0"
+]
+]
+},
+{
+"kimlik": "Emek Partisi",
+"anahtar": [
+"emek partisi",
+"emep"
+],
+"sinif": "logo",
+"sahne": "logo",
+"oncelik": 3,
+"grup": "emep-logo",
+"kaynak": [
+[
+"emep-logo",
+"c:emep_0"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "TBMM Genel Kurulu",
+"oncelik": 3.5,
+"anahtar": [
+"tbmm",
+"meclis'te",
+"milletvekili",
+"kanun teklif",
+"meclis'e",
+"genel kurul'da"
+],
+"yasak": [
+"belediye meclis",
+"il genel meclis"
+],
+"baslikta": false,
+"grup": "tbmm",
+"kaynak": [
+[
+"tbmm-1",
+"k:35584d"
+],
+[
+"tbmm-2",
+"k:8bd0cd"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "secim",
+"kimlik": "Oy sandığı",
+"oncelik": 4,
+"anahtar": [
+"seçim",
+"sandık",
+"oy kullan",
+"ön seçim",
+"önseçim",
+"anket"
+],
+"yasak": [
+"seçim bölgesi turnuva",
+"genel kurul"
+],
+"aciklama": "Temsilî fotoğraf (2018)",
+"grup": "secim",
+"kaynak": [
+[
+"secim",
+"c:sandik_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "toplanti",
+"kimlik": "Toplantı salonu",
+"oncelik": 4.6,
+"genel": true,
+"anahtar": [
+"genel kurul",
+"kongre",
+"toplantı",
+"çalıştay",
+"görev dağılım",
+"güven tazele",
+"ilçe başkan",
+"il başkan",
+"yönetim kurul"
+],
+"yasak": [
+"cop31"
+],
+"aciklama": "Temsilî fotoğraf",
+"grup": "toplanti",
+"kaynak": [
+[
+"toplanti-1",
+"u:toplanti_2"
+],
+[
+"toplanti-2",
+"u:toplanti_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "protokol",
+"kimlik": "İmza",
+"oncelik": 4.4,
+"baslikta": true,
+"anahtar": [
+"protokol",
+"imzalan",
+"imza at",
+"sözleşme",
+"anlaşma imza",
+"dilekçe"
+],
+"grup": "imza",
+"kaynak": [
+[
+"imza",
+"u:imza_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "basin",
+"kimlik": "Gazeteler",
+"oncelik": 4.4,
+"anahtar": [
+"gazeteci",
+"basın mensup",
+"medya",
+"dünya basını",
+"basın açıklama"
+],
+"baslikta": true,
+"grup": "basin",
+"kaynak": [
+[
+"basin",
+"u:gazete_0"
+]
+]
+},
+{
+"konu": "futbol",
+"kimlik": "Futbol",
+"oncelik": 4.5,
+"genel": true,
+"sinif": "konu",
+"kategoriler": [
+"Spor"
+],
+"anahtar": [
+"futbol",
+"re:\\w+spor(?![a-z]*\\s+(salon|kulub|toto|turizm))",
+"süper lig",
+"1. lig",
+"2. lig",
+"3. lig",
+"bal ligi",
+"amatör lig",
+"gol ",
+"golle",
+"golcü",
+"re:mac(i|in|a|ta|tan|lar\\w*|inda|ina|iyla)?(?![a-z])",
+"deplasman",
+"teknik direktör",
+"milli takım",
+"kupa maç",
+"transfer",
+"fenerbahçe",
+"galatasaray",
+"beşiktaş",
+"trabzonspor",
+"fk ",
+"tff",
+"derbi",
+"pfdk",
+"afdk",
+"futsal"
+],
+"yasak": [
+"voleybol",
+"basketbol",
+"hentbol",
+"alanya belediyespor",
+"gençlikspor",
+"gençlik spor",
+"pizza",
+"plaj futbol",
+"golbol",
+"masa tenisi",
+"tenis",
+"güreş",
+"karate",
+"yüzme",
+"atletizm",
+"bisiklet",
+"satranç",
+"golf"
+],
+"grup": "futbol",
+"kaynak": [
+[
+"futbol-1",
+"c:futbol_0"
+],
+[
+"futbol-2",
+"c:futbol_2"
+]
+]
+},
+{
+"konu": "voleybol",
+"kimlik": "Voleybol",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"voleybol",
+"kupa voley",
+"sultanlar ligi",
+"efeler ligi",
+"tvf",
+"alanya belediyespor"
+],
+"yasak": [
+"plaj voleybol",
+"hentbol",
+"basketbol",
+"futbol"
+],
+"grup": "voleybol",
+"kaynak": [
+[
+"voleybol-1",
+"u:vol2_5"
+],
+[
+"voleybol-2",
+"u:vol1_5"
+],
+[
+"voleybol-3",
+"c:voleybol_7"
+]
+]
+},
+{
+"konu": "plajvoleybolu",
+"kimlik": "Plaj voleybolu",
+"oncelik": 3.9,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"plaj voleybol"
+],
+"grup": "plaj-voleybolu",
+"kaynak": [
+[
+"plaj-voleybolu-1",
+"k:378476"
+],
+[
+"plaj-voleybolu-2",
+"k:4a8ba4"
+]
+]
+},
+{
+"konu": "basketbol",
+"kimlik": "Basketbol",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"basketbol",
+"potada",
+"tbf",
+"nba",
+"euroleague",
+"baskonia",
+"pizza bulls",
+"pizzabulls"
+],
+"grup": "basketbol",
+"kaynak": [
+[
+"basketbol-1",
+"u:basketbol_0"
+],
+[
+"basketbol-2",
+"u:basketbol_4"
+]
+]
+},
+{
+"konu": "hentbol",
+"kimlik": "Hentbol",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"hentbol",
+"thf"
+],
+"grup": "hentbol",
+"kaynak": [
+[
+"hentbol",
+"c:hentbol_0"
+]
+]
+},
+{
+"konu": "plajfutbolu",
+"kimlik": "Plaj futbolu",
+"oncelik": 3.9,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"plaj futbol"
+],
+"grup": "plaj-futbolu",
+"kaynak": [
+[
+"plaj-futbolu",
+"c:plajfutbolu_7"
+]
+]
+},
+{
+"konu": "yuzme",
+"kimlik": "Yüzme havuzu",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"yüzme",
+"yüzücü",
+"su topu",
+"olimpik havuz"
+],
+"grup": "yuzme",
+"kaynak": [
+[
+"yuzme-1",
+"c:yuzme_1"
+],
+[
+"yuzme-2",
+"u:havuz_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "bisiklet",
+"kimlik": "Bisiklet",
+"oncelik": 4.2,
+"anahtar": [
+"bisiklet",
+"pedal"
+],
+"grup": "bisiklet",
+"kaynak": [
+[
+"bisiklet",
+"u:bisikletsehir_7"
+]
+]
+},
+{
+"konu": "tenis",
+"kimlik": "Tenis",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"re:tenis(?!i)",
+"tenis turnuva",
+"tenis kort"
+],
+"yasak": [
+"masa tenis"
+],
+"grup": "tenis",
+"kaynak": [
+[
+"tenis",
+"c:tenis_0"
+]
+]
+},
+{
+"konu": "masatenisi",
+"kimlik": "Masa tenisi",
+"oncelik": 3.9,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"masa tenis"
+],
+"grup": "masa-tenisi",
+"kaynak": [
+[
+"masa-tenisi-1",
+"c:masatenisi_5"
+],
+[
+"masa-tenisi-2",
+"c:masatenisi_3"
+]
+]
+},
+{
+"konu": "golf",
+"kimlik": "Belek'te golf sahası",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"golf"
+],
+"aciklama": "Belek'te golf sahası — Arşiv fotoğrafı (2009)",
+"grup": "golf",
+"kaynak": [
+[
+"golf-1",
+"c:golf_5"
+],
+[
+"golf-2",
+"c:golf_6"
+]
+]
+},
+{
+"konu": "okculuk",
+"kimlik": "Okçuluk",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"okçu"
+],
+"grup": "okculuk",
+"kaynak": [
+[
+"okculuk",
+"c:okculuk_0"
+]
+]
+},
+{
+"konu": "dalis",
+"kimlik": "Kaş'ta dalış",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"dalış",
+"dalgıç",
+"sualtı",
+"su altı"
+],
+"yasak": [
+"su altında kaldı"
+],
+"aciklama": "Kaş açıklarında dalış — Arşiv fotoğrafı (2013)",
+"grup": "dalis",
+"kaynak": [
+[
+"dalis-1",
+"c:dalis_1"
+],
+[
+"dalis-2",
+"c:dalis_3"
+]
+]
+},
+{
+"konu": "satranc",
+"kimlik": "Satranç",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"satranç"
+],
+"grup": "satranc",
+"kaynak": [
+[
+"satranc",
+"c:satranc_5"
+]
+]
+},
+{
+"konu": "kosu",
+"kimlik": "Koşu",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"maraton",
+"re:kosu(?!l)",
+"runatolia",
+"atletizm",
+"kros"
+],
+"yasak": [
+"patika koşu"
+],
+"grup": "kosu",
+"kaynak": [
+[
+"kosu-1",
+"u:kosu_0"
+],
+[
+"kosu-2",
+"u:kosu_8"
+]
+]
+},
+{
+"konu": "dogayuruyusu",
+"kimlik": "Doğa yürüyüşü",
+"oncelik": 3.9,
+"sinif": "konu",
+"anahtar": [
+"patika",
+"doğa yürüyüş",
+"trekking",
+"likya yolu",
+"dağcı",
+"tırmanış",
+"ultra trail"
+],
+"grup": "patika",
+"kaynak": [
+[
+"patika-1",
+"k:1dd1f0"
+],
+[
+"patika-2",
+"u:yuruyus_3"
+]
+]
+},
+{
+"konu": "dovussporu",
+"kimlik": "Dövüş sporları",
+"oncelik": 4,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"karate",
+"judo",
+"tekvando",
+"taekwondo",
+"kick boks",
+"muaythai",
+"wushu",
+"skif",
+"kuşak sınav"
+],
+"grup": "dovus",
+"kaynak": [
+[
+"dovus",
+"u:tatami_0"
+]
+]
+},
+{
+"konu": "fitness",
+"kimlik": "Spor salonu",
+"oncelik": 4.3,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"fitness",
+"halter",
+"vücut geliştir",
+"spor kurs",
+"pilates"
+],
+"grup": "fitness",
+"kaynak": [
+[
+"fitness",
+"u:fitness_0"
+]
+]
+},
+{
+"konu": "yoga",
+"kimlik": "Yoga",
+"oncelik": 4,
+"sinif": "konu",
+"anahtar": [
+"yoga"
+],
+"grup": "yoga",
+"kaynak": [
+[
+"yoga",
+"u:yoga_5"
+]
+]
+},
+{
+"konu": "kupa",
+"kimlik": "Kupa",
+"oncelik": 4.4,
+"sinif": "konu",
+"anahtar": [
+"şampiyon",
+"kupa",
+"madalya",
+"birinci",
+"dünya ikinci",
+"avrupa ikinci",
+"ödül",
+"sporcu",
+"derece"
+],
+"baslikta": true,
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık",
+"Ekonomi",
+"Kültür-Sanat"
+],
+"grup": "kupa",
+"kaynak": [
+[
+"kupa",
+"u:kupa_0"
+]
+]
+},
+{
+"konu": "pickleball",
+"kimlik": "Pickleball",
+"oncelik": 3.9,
+"sinif": "konu",
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Eğitim",
+"Sağlık"
+],
+"anahtar": [
+"pickleball"
+],
+"grup": "pickleball2",
+"kaynak": [
+[
+"pickleball2",
+"k:afc581"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "at",
+"kimlik": "At",
+"oncelik": 4,
+"anahtar": [
+"atlı",
+"binicilik",
+"at yarış",
+"atlı terapi",
+"hipodrom"
+],
+"grup": "at",
+"kaynak": [
+[
+"at",
+"c:at_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "para",
+"kimlik": "Türk lirası",
+"oncelik": 4.2,
+"anahtar": [
+"asgari ücret",
+"maaş",
+"zam ",
+"zamlı",
+"enflasyon",
+"kredi",
+"faiz",
+"borç",
+"vergi",
+"bütçe",
+"ikramiye",
+"lira",
+"milyon tl",
+"milyar tl",
+"milyon lira",
+"milyar lira",
+"re:\\btl\\b",
+"harcama",
+"ödeme",
+"emekli",
+"prim",
+"re:burs(?!a)",
+"bağış",
+"destek ödeme",
+"re:icra(?!at)",
+"haciz",
+"ücret",
+"satın alma gücü",
+"geçim"
+],
+"yasak": [
+"ücretsiz",
+"kazı kazan",
+"piyango",
+"tüp"
+],
+"yasak_kategoriler": [
+"Spor"
+],
+"grup": "para",
+"kaynak": [
+[
+"para",
+"u:tl1_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "doviz",
+"kimlik": "Döviz",
+"oncelik": 4,
+"anahtar": [
+"dolar",
+"re:euro(?!l|pa|vizyon)",
+"avro",
+"döviz",
+"kur "
+],
+"yasak_kategoriler": [
+"Spor"
+],
+"grup": "doviz",
+"kaynak": [
+[
+"doviz",
+"u:doviz_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "altin",
+"kimlik": "Altın",
+"oncelik": 4,
+"anahtar": [
+"altın fiyat",
+"gram altın",
+"çeyrek altın",
+"kuyum",
+"bilezik"
+],
+"grup": "altin",
+"kaynak": [
+[
+"altin-1",
+"u:altin_4"
+],
+[
+"altin-2",
+"u:altin_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "borsa",
+"kimlik": "Borsa",
+"oncelik": 4,
+"anahtar": [
+"borsa",
+"hisse",
+"bist",
+"halka arz"
+],
+"yasak": [
+"hisseli arsa"
+],
+"grup": "borsa",
+"kaynak": [
+[
+"borsa",
+"u:borsa_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "vergi",
+"kimlik": "Hesap",
+"oncelik": 4,
+"anahtar": [
+"vergi",
+"beyanname",
+"matrah",
+"muhasebe",
+"mali müşavir",
+"e-fatura",
+"kdv"
+],
+"grup": "vergi",
+"kaynak": [
+[
+"vergi-1",
+"u:hesap_3"
+],
+[
+"vergi-2",
+"u:hesap_4"
+]
+]
+},
+{
+"sinif": "kurum",
+"kimlik": "Sosyal Güvenlik Kurumu",
+"oncelik": 3,
+"anahtar": [
+"sgk",
+"sosyal güvenlik kurumu",
+"emeklilik",
+"emekli maaş",
+"bağ-kur",
+"eyt"
+],
+"baslikta": false,
+"yil": 2019,
+"grup": "sgk",
+"kaynak": [
+[
+"sgk",
+"c:sgk_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "tupgaz",
+"kimlik": "Tüp gaz",
+"oncelik": 3.9,
+"anahtar": [
+"tüp",
+"lpg",
+"doğal gaz",
+"doğalgaz"
+],
+"yasak": [
+"tüp bebek",
+"tüp geçit",
+"tüpçü"
+],
+"grup": "tup",
+"kaynak": [
+[
+"tup-1",
+"u:tup_1"
+],
+[
+"tup-2",
+"u:tup_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "akaryakit",
+"kimlik": "Akaryakıt",
+"oncelik": 4,
+"anahtar": [
+"akaryakıt",
+"benzin",
+"motorin",
+"mazot",
+"pompa fiyat"
+],
+"grup": "akaryakit",
+"kaynak": [
+[
+"akaryakit",
+"c:akaryakit_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "elektrik",
+"kimlik": "Elektrik hattı",
+"oncelik": 4,
+"anahtar": [
+"elektrik",
+"enerji nakil",
+"trafo",
+"ck akdeniz",
+"akedaş",
+"kesinti"
+],
+"yasak": [
+"su kesinti",
+"elektrikli araç",
+"elektrikli otobüs",
+"elektrikli bisiklet",
+"elektrikli scooter"
+],
+"grup": "elektrik",
+"kaynak": [
+[
+"elektrik-1",
+"c:elektrik_2"
+],
+[
+"elektrik-2",
+"c:elektrik_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "su",
+"kimlik": "Su",
+"oncelik": 4,
+"anahtar": [
+"su kesinti",
+"içme suyu",
+"sular kesil",
+"sular akma",
+"asat",
+"su tasarruf",
+"su fatura",
+"su zam",
+"kuraklık uyar"
+],
+"grup": "su",
+"kaynak": [
+[
+"su",
+"k:7195fd"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kuraklik",
+"kimlik": "Kuraklık",
+"oncelik": 4,
+"anahtar": [
+"kurak",
+"susuzluk",
+"baraj doluluk",
+"yağış azlığı"
+],
+"grup": "kuraklik",
+"kaynak": [
+[
+"kuraklik",
+"u:kuraklik_0"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Oymapınar Barajı",
+"oncelik": 3.5,
+"anahtar": [
+"oymapınar",
+"manavgat baraj"
+],
+"baslikta": false,
+"grup": "baraj",
+"kaynak": [
+[
+"baraj-1",
+"c:oymapinar_2"
+],
+[
+"baraj-2",
+"c:oymapinar_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "gunesenerjisi",
+"kimlik": "Güneş paneli",
+"oncelik": 4,
+"anahtar": [
+"re:ges(?![a-z])",
+"güneş paneli",
+"güneş enerji",
+"yenilenebilir enerji",
+"cw enerji"
+],
+"grup": "ges",
+"kaynak": [
+[
+"ges-1",
+"c:ges_1"
+],
+[
+"ges-2",
+"k:6e23c6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "insaat",
+"kimlik": "İnşaat",
+"oncelik": 4.2,
+"anahtar": [
+"inşaat",
+"müteahhit",
+"kentsel dönüşüm",
+"şantiye",
+"yapı ruhsat",
+"temel at",
+"bina yıkım",
+"kaçak yapı",
+"imar"
+],
+"grup": "insaat",
+"kaynak": [
+[
+"insaat-1",
+"u:insaat_5"
+],
+[
+"insaat-2",
+"u:insaat_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "konut",
+"kimlik": "Alanya'da konutlar",
+"oncelik": 4,
+"ilce": "Alanya",
+"ilceler": [
+"Alanya"
+],
+"anahtar": [
+"konut",
+"re:kira(?!z)",
+"emlak",
+"yabancıya satış",
+"gayrimenkul",
+"arsa",
+"tapu"
+],
+"yasak": [
+"dolandır"
+],
+"aciklama": "Alanya Mahmutlar — Arşiv fotoğrafı",
+"grup": "konut-alanya",
+"kaynak": [
+[
+"konut-alanya",
+"c:konut2_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "konut",
+"kimlik": "Konut",
+"oncelik": 4.2,
+"anahtar": [
+"konut",
+"re:kira(?!z)",
+"emlak",
+"gayrimenkul",
+"tapu",
+"toki"
+],
+"grup": "konut",
+"kaynak": [
+[
+"konut-1",
+"u:anahtar_4"
+],
+[
+"konut-2",
+"u:anahtar_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "fuar",
+"kimlik": "Fuar",
+"oncelik": 4,
+"anahtar": [
+"fuar",
+"growtech",
+"anfaş",
+"expo center",
+"stant",
+"sergi alanı"
+],
+"yasak": [
+"cop31"
+],
+"grup": "fuar",
+"kaynak": [
+[
+"fuar",
+"u:fuar_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "ihracat",
+"kimlik": "İhracat",
+"oncelik": 4,
+"anahtar": [
+"ihracat",
+"ithalat",
+"dış ticaret",
+"konteyner",
+"gümrük",
+"ihracatçı",
+"baib"
+],
+"grup": "ihracat",
+"kaynak": [
+[
+"ihracat-1",
+"u:konteyner_4"
+],
+[
+"ihracat-2",
+"u:konteyner_0"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Antalya Limanı",
+"oncelik": 3.4,
+"anahtar": [
+"antalya limanı",
+"port akdeniz",
+"qterminals",
+"liman"
+],
+"yasak": [
+"yat liman",
+"balıkçı",
+"kaş",
+"finike",
+"alanya liman",
+"kemer"
+],
+"baslikta": false,
+"grup": "liman-antalya",
+"kaynak": [
+[
+"liman-antalya",
+"c:liman_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kruvaziyer",
+"kimlik": "Kruvaziyer",
+"oncelik": 3.9,
+"anahtar": [
+"kruvaziyer",
+"yolcu gemisi",
+"cruise"
+],
+"grup": "kruvaziyer",
+"kaynak": [
+[
+"kruvaziyer",
+"u:kruvaziyer_4"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Kemer Marina",
+"oncelik": 3.3,
+"ilceler": [
+"Kemer"
+],
+"anahtar": [
+"marina",
+"yat liman",
+"yat "
+],
+"baslikta": false,
+"grup": "marina-kemer",
+"kaynak": [
+[
+"marina-kemer",
+"c:marina_0"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Alanya Marina",
+"oncelik": 3.3,
+"ilceler": [
+"Alanya"
+],
+"anahtar": [
+"marina",
+"yat liman",
+"yat "
+],
+"baslikta": false,
+"yil": 2013,
+"grup": "marina-alanya",
+"kaynak": [
+[
+"marina-alanya",
+"c:marina_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yat",
+"kimlik": "Yat limanı",
+"oncelik": 4.2,
+"anahtar": [
+"marina",
+"yat liman",
+"yat turizm",
+"tekne",
+"mavi yolculuk",
+"mavi tur"
+],
+"grup": "yat",
+"kaynak": [
+[
+"yat-1",
+"u:yat_0"
+],
+[
+"yat-2",
+"u:yat_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "market",
+"kimlik": "Market",
+"oncelik": 4.1,
+"baslikta": true,
+"anahtar": [
+"market",
+"fiyat etiket",
+"gıda fiyat",
+"alışveriş",
+"tüketici",
+"zincir market",
+"fahiş fiyat",
+"gıda denetim"
+],
+"yasak": [
+"toptancı hal",
+"pazar"
+],
+"grup": "market",
+"kaynak": [
+[
+"market-1",
+"u:market_1"
+],
+[
+"market-2",
+"u:market_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sebzemeyve",
+"kimlik": "Sebze ve meyve",
+"oncelik": 4,
+"anahtar": [
+"sebze",
+"meyve",
+"hal fiyat",
+"toptancı hal",
+"pazar fiyat",
+"pazar tezgâh",
+"pazar tezgah",
+"pazarlarında",
+"pazarcı",
+"semt pazar",
+"kapalı pazar",
+"pazar yeri",
+"biber",
+"patlıcan",
+"salatalık",
+"kabak"
+],
+"grup": "sebze",
+"kaynak": [
+[
+"sebze-1",
+"u:sebze_0"
+],
+[
+"sebze-2",
+"u:sebze_3"
+],
+[
+"sebze-3",
+"u:sebze_8"
+],
+[
+"sebze-4",
+"k:a63cac"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sera",
+"kimlik": "Sera",
+"oncelik": 4,
+"anahtar": [
+"re:sera(?!m)",
+"örtü altı",
+"domates",
+"üretici",
+"çiftçi",
+"hasat",
+"rekolte",
+"tarım"
+],
+"yasak": [
+"sera gazı",
+"avokado",
+"muz",
+"zeytin",
+"narenciye",
+"portakal",
+"nar "
+],
+"grup": "sera",
+"kaynak": [
+[
+"sera-1",
+"c:domates_0"
+],
+[
+"sera-2",
+"u:sera_2"
+],
+[
+"sera-3",
+"u:sera_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "avokado",
+"kimlik": "Avokado",
+"oncelik": 3.8,
+"anahtar": [
+"avokado"
+],
+"grup": "avokado",
+"kaynak": [
+[
+"avokado-1",
+"c:avokado_3"
+],
+[
+"avokado-2",
+"c:avokado_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "muz",
+"kimlik": "Muz serası",
+"oncelik": 3.8,
+"anahtar": [
+"re:muz(u|un|a|da|dan|lar\\w*|culuk|cu\\w*)?(?![a-z])"
+],
+"aciklama": "Muz üretimi — Arşiv fotoğrafı",
+"grup": "muz",
+"kaynak": [
+[
+"muz-1",
+"c:muz2_2"
+],
+[
+"muz-2",
+"c:muz2_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "narenciye",
+"kimlik": "Portakal",
+"oncelik": 3.8,
+"anahtar": [
+"portakal",
+"narenciye",
+"re:turunc(?!u)",
+"mandalina",
+"limon",
+"greyfurt"
+],
+"yasak": [
+"altın portakal"
+],
+"grup": "narenciye",
+"kaynak": [
+[
+"narenciye-1",
+"u:narenciye_0"
+],
+[
+"narenciye-2",
+"u:narenciye_4"
+],
+[
+"narenciye-3",
+"c:portakal_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "zeytin",
+"kimlik": "Zeytin",
+"oncelik": 3.8,
+"anahtar": [
+"zeytin"
+],
+"grup": "zeytin",
+"kaynak": [
+[
+"zeytin-1",
+"u:zeytin_5"
+],
+[
+"zeytin-2",
+"u:zeytin_3"
+],
+[
+"zeytin-3",
+"c:zeytinyagi_1"
+],
+[
+"zeytin-4",
+"k:b1814a"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "nar",
+"kimlik": "Nar",
+"oncelik": 3.8,
+"anahtar": [
+"nar "
+],
+"tam": true,
+"grup": "nar",
+"kaynak": [
+[
+"nar",
+"u:nar_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "cilek",
+"kimlik": "Çilek",
+"oncelik": 3.8,
+"anahtar": [
+"çilek"
+],
+"grup": "cilek",
+"kaynak": [
+[
+"cilek",
+"u:cilek_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "aricilik",
+"kimlik": "Arıcılık",
+"oncelik": 3.8,
+"anahtar": [
+"re:bal(?![a-z])",
+"arıcı",
+"arı kovan",
+"bal hasad",
+"bal üret"
+],
+"grup": "bal",
+"kaynak": [
+[
+"bal-1",
+"u:bal_1"
+],
+[
+"bal-2",
+"u:bal_3"
+],
+[
+"bal-3",
+"c:ari_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "cicek",
+"kimlik": "Çiçek",
+"oncelik": 3.9,
+"anahtar": [
+"çiçek",
+"çiçeğ",
+"süs bitki",
+"karanfil"
+],
+"grup": "cicek",
+"kaynak": [
+[
+"cicek-1",
+"u:cicek_1"
+],
+[
+"cicek-2",
+"u:cicek_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "tarim",
+"kimlik": "Tarım",
+"oncelik": 4.3,
+"anahtar": [
+"traktör",
+"buğday",
+"ekim alan",
+"tarla",
+"ziraat",
+"tarım arazi",
+"tarımsal",
+"hububat",
+"gübre",
+"mazot destek"
+],
+"grup": "tarla",
+"kaynak": [
+[
+"tarla-1",
+"u:tarim_2"
+],
+[
+"tarla-2",
+"u:tarim_4"
+],
+[
+"tarla-3",
+"u:bugday_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "hayvancilik",
+"kimlik": "Hayvancılık",
+"oncelik": 4,
+"anahtar": [
+"hayvancılık",
+"büyükbaş",
+"küçükbaş",
+"mera alan",
+"besici",
+"süt üretici",
+"şap ",
+"kurbanlık"
+],
+"grup": "hayvancilik",
+"kaynak": [
+[
+"hayvancilik",
+"u:inek_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "et",
+"kimlik": "Et",
+"oncelik": 4,
+"anahtar": [
+"kırmızı et",
+"kasap",
+"et fiyat",
+"kıyma",
+"kuşbaşı"
+],
+"grup": "et",
+"kaynak": [
+[
+"et",
+"u:et_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "balik",
+"kimlik": "Balık",
+"oncelik": 4,
+"anahtar": [
+"balık fiyat",
+"balık hal",
+"av sezonu",
+"av yasağı",
+"balıkçı tezgâh",
+"balıkçı tezgah",
+"hamsi",
+"palamut",
+"çipura"
+],
+"grup": "balik",
+"kaynak": [
+[
+"balik-1",
+"u:balik_3"
+],
+[
+"balik-2",
+"u:balik_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "balikcilik",
+"kimlik": "Balıkçı tekneleri",
+"oncelik": 4.1,
+"anahtar": [
+"balıkçı",
+"balıkçılık",
+"balıkçı barına"
+],
+"grup": "balikci",
+"kaynak": [
+[
+"balikci-1",
+"u:balikci_0"
+],
+[
+"balikci-2",
+"u:balikci_2"
+],
+[
+"balikci-3",
+"c:balikci2_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "olta",
+"kimlik": "Olta balıkçılığı",
+"oncelik": 3.9,
+"anahtar": [
+"olta",
+"amatör balıkç"
+],
+"grup": "olta",
+"kaynak": [
+[
+"olta-1",
+"u:olta_2"
+],
+[
+"olta-2",
+"u:olta_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "ekmek",
+"kimlik": "Ekmek",
+"oncelik": 4,
+"anahtar": [
+"ekmek",
+"ekmeğ",
+"fırın",
+"yufka",
+"simit",
+"un fiyat"
+],
+"grup": "ekmek",
+"kaynak": [
+[
+"ekmek-1",
+"u:ekmek_1"
+],
+[
+"ekmek-2",
+"u:ekmek_7"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sut",
+"kimlik": "Süt",
+"oncelik": 4,
+"anahtar": [
+"süt ",
+"çiğ süt",
+"süt fiyat"
+],
+"grup": "sut",
+"kaynak": [
+[
+"sut",
+"u:sut_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yumurta",
+"kimlik": "Yumurta",
+"oncelik": 4,
+"anahtar": [
+"yumurta"
+],
+"grup": "yumurta",
+"kaynak": [
+[
+"yumurta",
+"u:yumurta_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "restoran",
+"kimlik": "Restoran",
+"oncelik": 4.2,
+"anahtar": [
+"restoran",
+"lokanta",
+"gastronomi",
+"mutfak",
+"menü"
+],
+"yasak": [
+"mutfak tüp",
+"halk lokanta"
+],
+"grup": "restoran",
+"kaynak": [
+[
+"restoran-1",
+"u:restoran_2"
+],
+[
+"restoran-2",
+"u:restoran_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "cay",
+"kimlik": "Çay",
+"oncelik": 4.2,
+"anahtar": [
+"çay ",
+"çay ocağ",
+"kahvehane",
+"kıraathane"
+],
+"yasak": [
+"dim çayı",
+"çay kenarı"
+],
+"grup": "cay",
+"kaynak": [
+[
+"cay-1",
+"u:cay_0"
+],
+[
+"cay-2",
+"u:cay_8"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kahve",
+"kimlik": "Türk kahvesi",
+"oncelik": 4.2,
+"anahtar": [
+"kahve"
+],
+"yasak": [
+"kahvehane",
+"kahvaltı"
+],
+"grup": "kahve",
+"kaynak": [
+[
+"kahve",
+"u:kahve_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "otomobil",
+"kimlik": "Otomobiller",
+"oncelik": 4.2,
+"anahtar": [
+"otomobil",
+"araç satış",
+"galerici",
+"ikinci el",
+"otopark",
+"araç muayene",
+"çekici",
+"plaka",
+"sıfır araç",
+"ötv"
+],
+"grup": "otomobil",
+"kaynak": [
+[
+"otomobil-1",
+"u:otomobil_1"
+],
+[
+"otomobil-2",
+"u:otomobil_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "motosiklet",
+"kimlik": "Motosiklet",
+"oncelik": 4.2,
+"anahtar": [
+"motosiklet",
+"motokurye",
+"motor kurye"
+],
+"grup": "motosiklet",
+"kaynak": [
+[
+"motosiklet",
+"u:motosiklet_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kislastigi",
+"kimlik": "Kış lastiği",
+"oncelik": 3.9,
+"anahtar": [
+"kış lastiğ"
+],
+"grup": "kis-lastigi",
+"kaynak": [
+[
+"kis-lastigi",
+"k:0d47da"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "odeme",
+"kimlik": "Kart ile ödeme",
+"oncelik": 4.1,
+"anahtar": [
+"kredi kart",
+"banka kart",
+"e-ticaret",
+"online alışveriş",
+"dijital ödeme",
+"pos "
+],
+"grup": "kredi-karti",
+"kaynak": [
+[
+"kredi-karti",
+"u:kredikarti_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "otobus",
+"kimlik": "Antalya'da belediye otobüsü",
+"oncelik": 4,
+"anahtar": [
+"otobüs",
+"toplu taşıma",
+"toplu ulaşım",
+"ulaşım tarife",
+"ulaşım zam",
+"antalyakart",
+"halk otobüs",
+"minibüs",
+"dolmuş"
+],
+"aciklama": "Antalya'da belediye otobüsü — Arşiv fotoğrafı (2014)",
+"grup": "otobus",
+"kaynak": [
+[
+"otobus",
+"c:otobus_1"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Antalya Otogarı",
+"oncelik": 3.3,
+"anahtar": [
+"otogar",
+"terminal"
+],
+"ilceler": [
+"Muratpaşa",
+"Kepez",
+"Konyaaltı",
+"Aksu",
+"Döşemealtı",
+""
+],
+"yasak": [
+"havaliman"
+],
+"baslikta": false,
+"yil": 2026,
+"grup": "otogar",
+"kaynak": [
+[
+"otogar",
+"c:otogar_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "trafik",
+"kimlik": "Antalya'da trafik",
+"oncelik": 4,
+"ilceler": [
+"Muratpaşa",
+"Kepez",
+"Konyaaltı",
+"Aksu",
+"Döşemealtı",
+"",
+"Serik",
+"Manavgat",
+"Alanya"
+],
+"anahtar": [
+"trafik",
+"d-400",
+"d400",
+"kavşak",
+"otoyol",
+"çevre yolu",
+"yol kapat",
+"trafiğe kapat",
+"güzergâh",
+"güzergah",
+"ulaşım düzenleme",
+"ulaşım kolay",
+"seyahat süre"
+],
+"yasak": [
+"trafik denetim",
+"trafik ceza",
+"hava trafik",
+"re:kaza(?!n|k)",
+"yaral",
+"öldü",
+"hayatını kaybe",
+"çarp"
+],
+"hassas": true,
+"aciklama": "Antalya'da D-400 karayolu — Arşiv fotoğrafı (2015)",
+"grup": "yol-antalya",
+"kaynak": [
+[
+"yol-antalya-1",
+"c:otoyol_0"
+],
+[
+"yol-antalya-2",
+"c:trafik_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "trafik",
+"kimlik": "Trafik",
+"oncelik": 4.2,
+"anahtar": [
+"trafik",
+"kavşak",
+"otoyol",
+"çevre yolu",
+"yol kapat",
+"trafiğe kapat"
+],
+"yasak": [
+"trafik denetim",
+"trafik ceza",
+"hava trafik",
+"re:kaza(?!n|k)",
+"yaral",
+"öldü",
+"hayatını kaybe",
+"çarp"
+],
+"hassas": true,
+"grup": "trafik",
+"kaynak": [
+[
+"trafik-1",
+"u:trafik_1"
+],
+[
+"trafik-2",
+"u:trafik_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yolcalismasi",
+"kimlik": "Yol çalışması",
+"oncelik": 3.9,
+"anahtar": [
+"asfalt",
+"yol çalışma",
+"yol yenileme",
+"yol bakım",
+"yol yapım",
+"kaldırım",
+"altyapı çalışma",
+"altyapı yatırım",
+"altyapı tepki",
+"altyapı sorun",
+"altyapı mesai",
+"parke",
+"yol isyan",
+"bozuk yol",
+"kanalizasyon",
+"yağmur suyu hat"
+],
+"grup": "yol-calismasi",
+"kaynak": [
+[
+"yol-calismasi-1",
+"c:yolcalismasi_0"
+],
+[
+"yol-calismasi-2",
+"u:yol_4"
+],
+[
+"yol-calismasi-3",
+"u:yol_2"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kopru",
+"kimlik": "Köprü",
+"oncelik": 4,
+"anahtar": [
+"köprü",
+"viyadük",
+"köprülü kavşak",
+"alt geçit",
+"üst geçit"
+],
+"yasak": [
+"köprülü kanyon"
+],
+"grup": "kopru",
+"kaynak": [
+[
+"kopru",
+"u:kopru_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "ucak",
+"kimlik": "Uçak",
+"oncelik": 4.3,
+"anahtar": [
+"uçak",
+"uçağ",
+"uçuş",
+"havayolu",
+"hava yolu",
+"charter"
+],
+"hassas": true,
+"yasak": [
+"düştü",
+"düşen",
+"uçak kaza"
+],
+"kategoriler": [
+"Turizm",
+"Ekonomi",
+"Gündem",
+"Yaşam"
+],
+"grup": "ucak",
+"kaynak": [
+[
+"ucak-1",
+"u:ucak_4"
+],
+[
+"ucak-2",
+"u:ucak_2"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yolcu",
+"kimlik": "Havalimanı",
+"oncelik": 4.3,
+"anahtar": [
+"yolcu say",
+"bagaj",
+"pasaport",
+"vize",
+"rezervasyon",
+"erken rezervasyon",
+"tur operatör",
+"jet2",
+"tui",
+"paket tur"
+],
+"grup": "yolcu",
+"kaynak": [
+[
+"yolcu-1",
+"u:bavul_5"
+],
+[
+"yolcu-2",
+"u:bavul_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "ameliyat",
+"kimlik": "Ameliyat",
+"oncelik": 3.9,
+"anahtar": [
+"ameliyat",
+"organ nakl",
+"nakil",
+"cerrah",
+"kalp nakl",
+"böbrek nakl",
+"organ bağış"
+],
+"grup": "ameliyat",
+"kaynak": [
+[
+"ameliyat-1",
+"c:ameliyat_0"
+],
+[
+"ameliyat-2",
+"c:ameliyat_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kanbagisi",
+"kimlik": "Kan bağışı",
+"oncelik": 3.9,
+"anahtar": [
+"kan bağış",
+"kızılay",
+"ünite kan",
+"kök hücre"
+],
+"grup": "kan-bagisi",
+"kaynak": [
+[
+"kan-bagisi-1",
+"c:kanbagisi_1"
+],
+[
+"kan-bagisi-2",
+"u:kan_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "asi",
+"kimlik": "Aşı",
+"oncelik": 4,
+"anahtar": [
+"re:asi(si|lar\\w*|lama\\w*|yi|ya|nin)?(?![a-z])",
+"grip",
+"salgın",
+"virüs",
+"enfeksiyon",
+"kızamık"
+],
+"grup": "asi",
+"kaynak": [
+[
+"asi-1",
+"u:asi_1"
+],
+[
+"asi-2",
+"u:asi_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "ilac",
+"kimlik": "İlaç",
+"oncelik": 4,
+"anahtar": [
+"ilaç",
+"eczane",
+"eczacı",
+"reçete",
+"antibiyotik"
+],
+"yasak": [
+"zirai ilaç",
+"ilaçlama"
+],
+"grup": "ilac",
+"kaynak": [
+[
+"ilac",
+"u:ilac_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "saglik",
+"kimlik": "Sağlık",
+"oncelik": 4.5,
+"genel": true,
+"anahtar": [
+"sağlık",
+"hasta",
+"kanser",
+"diyabet",
+"tansiyon",
+"kalp",
+"obezite",
+"uzman",
+"tarama",
+"check-up"
+],
+"kategoriler": [
+"Sağlık"
+],
+"grup": "saglik",
+"kaynak": [
+[
+"saglik",
+"u:doktor_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "dis",
+"kimlik": "Diş kliniği",
+"oncelik": 4,
+"anahtar": [
+"re:dis (hekim|sagligi|tedavi|klinig|hastane)",
+"ağız ve diş"
+],
+"grup": "dis",
+"kaynak": [
+[
+"dis",
+"u:dis_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "bilim",
+"kimlik": "Laboratuvar",
+"oncelik": 4.2,
+"anahtar": [
+"laboratuvar",
+"bilim insan",
+"tübitak",
+"ar-ge",
+"arge",
+"bilim atölye",
+"bilimsel",
+"sempozyum",
+"akademisyen"
+],
+"grup": "laboratuvar",
+"kaynak": [
+[
+"laboratuvar",
+"u:laboratuvar_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "engelli",
+"kimlik": "Tekerlekli sandalye",
+"oncelik": 4,
+"anahtar": [
+"engelli",
+"tekerlekli sandalye",
+"özel birey",
+"özel gereksinim",
+"erişilebilir"
+],
+"grup": "engelli",
+"kaynak": [
+[
+"engelli",
+"u:engelli_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yasli",
+"kimlik": "Yaşlılar",
+"oncelik": 4,
+"anahtar": [
+"yaşlı",
+"huzurevi",
+"65 yaş",
+"emekliler",
+"alzheimer"
+],
+"yasak": [
+"şiddet",
+"dava",
+"sanık"
+],
+"grup": "yasli",
+"kaynak": [
+[
+"yasli",
+"u:yasli_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "bebek",
+"kimlik": "Bebek",
+"oncelik": 4,
+"anahtar": [
+"bebek",
+"doğum",
+"anne baba oldu",
+"dünyaya gel",
+"hamile",
+"tüp bebek"
+],
+"yasak": [
+"doğum günü",
+"doğum yıl"
+],
+"grup": "bebek",
+"kaynak": [
+[
+"bebek",
+"u:bebek_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "okul",
+"kimlik": "Sınıf",
+"oncelik": 4.2,
+"baslikta": true,
+"anahtar": [
+"okul",
+"öğrenci",
+"öğretmen",
+"ders ",
+"sınıf",
+"ara tatil",
+"karne",
+"eğitim öğretim",
+"milli eğitim",
+"meb ",
+"ortaokul",
+"ilkokul",
+"lise",
+"anaokul",
+"müfredat"
+],
+"yasak": [
+"üniversite",
+"antalya lisesi",
+"sürücü kurs"
+],
+"grup": "sinif",
+"kaynak": [
+[
+"sinif-1",
+"u:sinif_3"
+],
+[
+"sinif-2",
+"u:sinif_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sinav",
+"kimlik": "Sınav",
+"oncelik": 4,
+"anahtar": [
+"sınav",
+"yks",
+"lgs",
+"kpss",
+"ösym",
+"bursluluk"
+],
+"grup": "sinav",
+"kaynak": [
+[
+"sinav-1",
+"u:sinav_0"
+],
+[
+"sinav-2",
+"u:sinav_2"
+],
+[
+"sinav-3",
+"c:sinav_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "universite",
+"kimlik": "Üniversite",
+"oncelik": 4.3,
+"anahtar": [
+"üniversite",
+"alkü",
+"fakülte",
+"rektör",
+"yök",
+"kampüs",
+"akademik yıl",
+"öğrenci yurd",
+"kyk"
+],
+"yasak": [
+"akdeniz üniversitesi"
+],
+"grup": "universite",
+"kaynak": [
+[
+"universite",
+"u:universite_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "mezuniyet",
+"kimlik": "Mezuniyet",
+"oncelik": 3.9,
+"anahtar": [
+"mezuniyet",
+"mezun ol",
+"re:diploma(?!si|t)"
+],
+"grup": "mezuniyet",
+"kaynak": [
+[
+"mezuniyet",
+"u:mezuniyet_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kitap",
+"kimlik": "Kitaplar",
+"oncelik": 4,
+"anahtar": [
+"kitap",
+"kitab",
+"sözlüğ",
+"kütüphane",
+"imza gün",
+"edebiyat",
+"şiir",
+"sözlük",
+"dergi"
+],
+"grup": "kitap",
+"kaynak": [
+[
+"kitap-1",
+"u:kitap_4"
+],
+[
+"kitap-2",
+"u:kitap_1"
+],
+[
+"kitap-3",
+"c:kutuphane_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "cocuk",
+"kimlik": "Çocuklar",
+"oncelik": 4.4,
+"baslikta": true,
+"anahtar": [
+"çocuk",
+"çocuğ",
+"minik",
+"kreş"
+],
+"yasak": [
+"şiddet",
+"istismar",
+"kayıp",
+"kaybol",
+"tutuklan",
+"yaralan",
+"öldü"
+],
+"grup": "cocuk",
+"kaynak": [
+[
+"cocuk",
+"u:ogrenci_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "park",
+"kimlik": "Çocuk parkı",
+"oncelik": 4.2,
+"anahtar": [
+"oyun park",
+"çocuk park",
+"park yenile",
+"parkı",
+"park alan",
+"yeşil alan",
+"rekreasyon"
+],
+"yasak": [
+"otopark",
+"park halinde",
+"park yasağ",
+"tema park"
+],
+"grup": "park-cocuk",
+"kaynak": [
+[
+"park-cocuk-1",
+"u:cocuk_1"
+],
+[
+"park-cocuk-2",
+"u:cocuk_4"
+],
+[
+"park-cocuk-3",
+"c:oyunpark_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "konser",
+"kimlik": "Konser",
+"oncelik": 4,
+"anahtar": [
+"konser",
+"sahne al",
+"şarkıcı",
+"orkestra",
+"senfoni",
+"festival",
+"müzik",
+"albüm",
+"resital",
+"koro"
+],
+"grup": "konser",
+"kaynak": [
+[
+"konser-1",
+"c:konser_5"
+],
+[
+"konser-2",
+"k:6b00a5"
+],
+[
+"konser-3",
+"c:konser_2"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "klasikmuzik",
+"kimlik": "Orkestra",
+"oncelik": 3.9,
+"anahtar": [
+"senfoni",
+"orkestra",
+"keman",
+"piyano",
+"oda müziği",
+"carmina burana",
+"opera"
+],
+"grup": "klasik-muzik",
+"kaynak": [
+[
+"klasik-muzik",
+"u:keman_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "bale",
+"kimlik": "Bale",
+"oncelik": 3.9,
+"anahtar": [
+"bale",
+"dans gösteri",
+"modern dans"
+],
+"grup": "bale",
+"kaynak": [
+[
+"bale",
+"u:bale_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "tiyatro",
+"kimlik": "Tiyatro",
+"oncelik": 4,
+"anahtar": [
+"tiyatro",
+"oyun sahne",
+"sahnelen",
+"perde aç",
+"prömiyer",
+"devlet tiyatro",
+"şehir tiyatro",
+"müzikal"
+],
+"grup": "tiyatro",
+"kaynak": [
+[
+"tiyatro-1",
+"u:tiyatro_2"
+],
+[
+"tiyatro-2",
+"u:tiyatro_0"
+],
+[
+"tiyatro-3",
+"k:afde4c"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sinema",
+"kimlik": "Sinema",
+"oncelik": 3.9,
+"anahtar": [
+"film",
+"sinema",
+"belgesel",
+"altın portakal",
+"yönetmen"
+],
+"grup": "sinema",
+"kaynak": [
+[
+"sinema-1",
+"c:film_2"
+],
+[
+"sinema-2",
+"k:3882cd"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "halkoyunlari",
+"kimlik": "Halk oyunları",
+"oncelik": 3.9,
+"anahtar": [
+"halk oyun",
+"zeybek",
+"folklor",
+"horon",
+"halay"
+],
+"grup": "halk-oyunlari",
+"kaynak": [
+[
+"halk-oyunlari-1",
+"k:a1ca3c"
+],
+[
+"halk-oyunlari-2",
+"k:413384"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "fotograf",
+"kimlik": "Fotoğraf makinesi",
+"oncelik": 4,
+"anahtar": [
+"fotoğraf sergi",
+"fotoğraf yarışma",
+"fotoğrafçı",
+"fotoğraf sanat"
+],
+"grup": "fotograf",
+"kaynak": [
+[
+"fotograf",
+"u:kamera_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sergi",
+"kimlik": "Sergi",
+"oncelik": 4.1,
+"anahtar": [
+"sergi",
+"resim",
+"heykel",
+"sanat galeri",
+"ressam",
+"portre"
+],
+"yasak": [
+"sergi alanı"
+],
+"grup": "sergi",
+"kaynak": [
+[
+"sergi",
+"k:5373be"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "cami",
+"kimlik": "Cami",
+"oncelik": 4.1,
+"anahtar": [
+"cami",
+"müftü",
+"diyanet",
+"hutbe",
+"ramazan ay",
+"bayram namaz",
+"kandil",
+"mevlit",
+"kur'an",
+"imam",
+"ihtida",
+"umre",
+"hac "
+],
+"yasak": [
+"cami tuvalet"
+],
+"aciklama": "Alanya Kuyularönü Camii — Arşiv fotoğrafı (2013)",
+"grup": "cami",
+"kaynak": [
+[
+"cami",
+"c:cami_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "dugun",
+"kimlik": "Düğün",
+"oncelik": 4,
+"anahtar": [
+"düğün",
+"nikâh",
+"nikah",
+"dünya evine",
+"evlen",
+"dünür"
+],
+"grup": "dugun",
+"kaynak": [
+[
+"dugun-1",
+"c:dugun_4"
+],
+[
+"dugun-2",
+"k:6bab71"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "caretta",
+"kimlik": "Caretta caretta",
+"oncelik": 3.8,
+"anahtar": [
+"caretta",
+"deniz kaplumbağa"
+],
+"grup": "caretta",
+"kaynak": [
+[
+"caretta",
+"k:fc1634"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sokakhayvani",
+"kimlik": "Sokak kedisi",
+"oncelik": 4,
+"anahtar": [
+"kedi",
+"sokak hayvan",
+"hayvan hak",
+"patili",
+"can dost",
+"mama"
+],
+"yasak": [
+"mama sandalye"
+],
+"grup": "kedi",
+"kaynak": [
+[
+"kedi-1",
+"c:kedi_0"
+],
+[
+"kedi-2",
+"c:kedi_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sokakhayvani",
+"kimlik": "Sokak köpeği",
+"oncelik": 3.9,
+"anahtar": [
+"köpek",
+"köpeğ",
+"barınak",
+"kuduz"
+],
+"grup": "kopek",
+"kaynak": [
+[
+"kopek",
+"c:kopek_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "tirtil",
+"kimlik": "Tırtıl",
+"oncelik": 3.8,
+"anahtar": [
+"tırtıl"
+],
+"grup": "tirtil",
+"kaynak": [
+[
+"tirtil-1",
+"u:tirtil_1"
+],
+[
+"tirtil-2",
+"u:tirtil_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "orman",
+"kimlik": "Orman",
+"oncelik": 4.1,
+"anahtar": [
+"orman",
+"ağaç",
+"fidan",
+"ağaçlandırma",
+"kent ormanı",
+"kızılçam",
+"sedir"
+],
+"yasak": [
+"orman yangın"
+],
+"hassas": true,
+"grup": "orman",
+"kaynak": [
+[
+"orman-1",
+"u:orman_1"
+],
+[
+"orman-2",
+"u:orman_2"
+],
+[
+"orman-3",
+"k:5c5ebe"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "deniz",
+"kimlik": "Akdeniz",
+"oncelik": 4.4,
+"anahtar": [
+"deniz suyu",
+"deniz kirli",
+"müsilaj",
+"körfez",
+"deniz araştırma",
+"navtex",
+"mavi bayrak",
+"akdeniz'de",
+"açıkları"
+],
+"yasak": [
+"deprem"
+],
+"grup": "deniz",
+"kaynak": [
+[
+"deniz-1",
+"u:deniz_5"
+],
+[
+"deniz-2",
+"u:deniz_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "atik",
+"kimlik": "Plastik atık",
+"oncelik": 4,
+"anahtar": [
+"plastik atık",
+"re:cop(luk|lug|ler|u|e|ten|cu)?(?![a-z0-9])(?!\\s?3)",
+"atık",
+"moloz",
+"hafriyat"
+],
+"yasak": [
+"sıfır atık",
+"atık su arıtma"
+],
+"grup": "atik",
+"kaynak": [
+[
+"atik",
+"u:plastik_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "geridonusum",
+"kimlik": "Geri dönüşüm",
+"oncelik": 3.9,
+"anahtar": [
+"geri dönüşüm",
+"sıfır atık",
+"döngüsel",
+"kompost"
+],
+"grup": "geri-donusum",
+"kaynak": [
+[
+"geri-donusum-1",
+"u:geridonusum_1"
+],
+[
+"geri-donusum-2",
+"k:508c6b"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kamp",
+"kimlik": "Kamp",
+"oncelik": 4,
+"anahtar": [
+"kamp ",
+"karavan",
+"çadır"
+],
+"yasak": [
+"kamp merkezi",
+"hazırlık kamp",
+"kampa"
+],
+"grup": "kamp",
+"kaynak": [
+[
+"kamp",
+"u:kamp_2"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Köprülü Kanyon",
+"oncelik": 3.5,
+"anahtar": [
+"köprülü kanyon",
+"rafting",
+"köprüçay"
+],
+"baslikta": false,
+"grup": "koprulu-kanyon",
+"kaynak": [
+[
+"koprulu-kanyon-1",
+"c:koprulu_0"
+],
+[
+"koprulu-kanyon-2",
+"c:koprulu_4"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Düden Şelalesi",
+"oncelik": 3.5,
+"anahtar": [
+"düden",
+"şelale"
+],
+"yasak": [
+"manavgat şelale",
+"kurşunlu"
+],
+"baslikta": false,
+"grup": "duden",
+"kaynak": [
+[
+"duden-1",
+"c:duden_3"
+],
+[
+"duden-2",
+"c:duden_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Kurşunlu Şelalesi",
+"oncelik": 3.5,
+"anahtar": [
+"kurşunlu"
+],
+"baslikta": false,
+"grup": "kursunlu",
+"kaynak": [
+[
+"kursunlu-1",
+"c:aksu_4"
+],
+[
+"kursunlu-2",
+"c:aksu_6"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Teleferik",
+"oncelik": 3.5,
+"anahtar": [
+"teleferik"
+],
+"baslikta": false,
+"grup": "teleferik",
+"kaynak": [
+[
+"teleferik-1",
+"c:teleferik_2"
+],
+[
+"teleferik-2",
+"c:teleferik_6"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "teknoloji",
+"kimlik": "Yazılım",
+"oncelik": 4.2,
+"anahtar": [
+"yazılım",
+"dijital",
+"teknoloji",
+"bilişim",
+"kodlama",
+"e-devlet",
+"internet"
+],
+"yasak": [
+"dijital sensör"
+],
+"grup": "yazilim",
+"kaynak": [
+[
+"yazilim-1",
+"u:teknoloji_2"
+],
+[
+"yazilim-2",
+"u:teknoloji_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "yapayzeka",
+"kimlik": "Yapay zekâ",
+"oncelik": 3.9,
+"anahtar": [
+"yapay zek",
+"robot",
+"otonom",
+"çip"
+],
+"grup": "yapay-zeka",
+"kaynak": [
+[
+"yapay-zeka",
+"u:yapayzeka_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "siber",
+"kimlik": "Siber güvenlik",
+"oncelik": 3.9,
+"anahtar": [
+"siber",
+"veri ihlal",
+"kişisel veri",
+"hack",
+"oltalama",
+"şifre"
+],
+"grup": "siber",
+"kaynak": [
+[
+"siber",
+"u:siber_4"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "telefon",
+"kimlik": "Akıllı telefon",
+"oncelik": 4.2,
+"baslikta": true,
+"anahtar": [
+"telefon",
+"sosyal medya",
+"whatsapp",
+"instagram",
+"tiktok",
+"mobil uygulama",
+"sms"
+],
+"grup": "telefon",
+"kaynak": [
+[
+"telefon",
+"u:telefon_8"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "guvenlikkamerasi",
+"kimlik": "Güvenlik kamerası",
+"oncelik": 4,
+"anahtar": [
+"güvenlik kamera",
+"kamerada",
+"kameraya yansı",
+"mobese",
+"güvenlik sistem",
+"kgys"
+],
+"hassas": true,
+"grup": "guvenlik-kamerasi",
+"kaynak": [
+[
+"guvenlik-kamerasi",
+"k:3d8584"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "piyango",
+"kimlik": "İkramiye",
+"oncelik": 4.0,
+"anahtar": [
+"kazı kazan",
+"piyango",
+"sayısal loto",
+"şans topu",
+"yılbaşı bilet",
+"büyük ikramiye",
+"talihli"
+],
+"grup": "piyango",
+"kaynak": [
+[
+"piyango",
+"u:tl1_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kuafor",
+"kimlik": "Kuaför",
+"oncelik": 3.9,
+"anahtar": [
+"kuaför",
+"saç kesim",
+"berber",
+"güzellik salon"
+],
+"grup": "kuafor",
+"kaynak": [
+[
+"kuafor",
+"k:dc538a"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kus",
+"kimlik": "Çayırkoşarı",
+"oncelik": 3.8,
+"anahtar": [
+"çayırkoşar",
+"kuş gözlem",
+"kuş tür",
+"göçmen kuş"
+],
+"aciklama": "Çayırkoşarı — Temsilî fotoğraf",
+"grup": "kus",
+"kaynak": [
+[
+"kus",
+"k:9338f2"
+]
+]
+},
+{
+"kimlik": "Aspendos Antik Tiyatrosu",
+"anahtar": [
+"aspendos"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "aspendos",
+"kaynak": [
+[
+"aspendos-1",
+"c:aspendos_2"
+],
+[
+"aspendos-2",
+"c:aspendos_3"
+]
+]
+},
+{
+"kimlik": "Perge Antik Kenti",
+"anahtar": [
+"perge"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "perge",
+"kaynak": [
+[
+"perge-1",
+"c:perge_0"
+],
+[
+"perge-2",
+"c:perge_6"
+]
+]
+},
+{
+"kimlik": "Myra kaya mezarları",
+"anahtar": [
+"myra",
+"noel baba",
+"aziz nikolaos"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "myra",
+"kaynak": [
+[
+"myra",
+"c:myra_0"
+]
+]
+},
+{
+"kimlik": "Olympos – Çıralı",
+"anahtar": [
+"olympos",
+"olimpos",
+"çıralı",
+"yanartaş"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "olympos",
+"kaynak": [
+[
+"olympos-1",
+"c:olympos_0"
+],
+[
+"olympos-2",
+"c:olympos_4"
+]
+]
+},
+{
+"kimlik": "Termessos",
+"anahtar": [
+"termessos",
+"güllük dağı"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "termessos",
+"kaynak": [
+[
+"termessos",
+"c:termessos_0"
+]
+]
+},
+{
+"kimlik": "Patara",
+"anahtar": [
+"patara"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "patara",
+"kaynak": [
+[
+"patara",
+"c:patara_0"
+]
+]
+},
+{
+"kimlik": "Kekova",
+"anahtar": [
+"kekova",
+"simena",
+"batık şehir",
+"kaleköy"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "kekova",
+"kaynak": [
+[
+"kekova",
+"c:patara_6"
+]
+]
+},
+{
+"kimlik": "Hadrian Kapısı (Üçkapılar)",
+"anahtar": [
+"hadrian",
+"üçkapılar",
+"üç kapılar"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "hadrian",
+"kaynak": [
+[
+"hadrian-1",
+"c:hadrian_0"
+],
+[
+"hadrian-2",
+"c:hadrian_4"
+]
+]
+},
+{
+"kimlik": "Yivli Minare",
+"anahtar": [
+"yivli minare"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "yivli",
+"kaynak": [
+[
+"yivli-1",
+"c:hadrian_5"
+],
+[
+"yivli-2",
+"c:hadrian_8"
+]
+]
+},
+{
+"sinif": "tesis",
+"kimlik": "Cam Piramit Sabancı Kongre ve Fuar Merkezi",
+"oncelik": 3.3,
+"anahtar": [
+"cam piramit"
+],
+"baslikta": false,
+"grup": "cam-piramit",
+"kaynak": [
+[
+"cam-piramit-1",
+"c:kultur_4"
+],
+[
+"cam-piramit-2",
+"c:kultur_3"
+]
+]
+},
+{
+"kimlik": "Alanya Kalesi",
+"anahtar": [
+"alanya kalesi",
+"kale surları",
+"tersane",
+"ehmedek"
+],
+"ilceler": [
+"Alanya"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "alanya-kalesi",
+"kaynak": [
+[
+"alanya-kalesi",
+"c:alanyakale_1"
+]
+]
+},
+{
+"kimlik": "Karaalioğlu Parkı",
+"anahtar": [
+"karaalioğlu"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "karaalioglu",
+"kaynak": [
+[
+"karaalioglu",
+"c:park_0"
+]
+]
+},
+{
+"kimlik": "Lara falezleri",
+"anahtar": [
+"lara ",
+"lara'da",
+"lara plaj",
+"falez"
+],
+"yasak": [
+"otel yangın"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "lara",
+"kaynak": [
+[
+"lara",
+"c:lara_6"
+]
+]
+},
+{
+"kimlik": "Konyaaltı Sahili",
+"anahtar": [
+"konyaaltı sahil",
+"konyaaltı plaj",
+"plaj",
+"deniz sezonu",
+"denize gir",
+"sahil"
+],
+"ilceler": [
+"Konyaaltı",
+"Muratpaşa",
+""
+],
+"yasak": [
+"plaj voleybol",
+"plaj futbol",
+"alanya",
+"kemer",
+"side",
+"kaş"
+],
+"sinif": "yer",
+"oncelik": 3.6,
+"baslikta": false,
+"grup": "konyaalti-sahil",
+"kaynak": [
+[
+"konyaalti-sahil-1",
+"c:konyaalti2_1"
+],
+[
+"konyaalti-sahil-2",
+"c:antalya_3"
+]
+]
+},
+{
+"kimlik": "EXPO 2016 Antalya alanı",
+"sinif": "yer",
+"oncelik": 5,
+"grup": "cop31",
+"baslikta": false,
+"anahtar": [
+"cop31",
+"cop 31",
+"iklim zirvesi",
+"taraflar konferansı",
+"expo alan"
+],
+"aciklama": "COP31'in yapıldığı EXPO 2016 Antalya alanı — Arşiv fotoğrafı (2016)",
+"kaynak": [
+[
+"cop31-expo-4",
+"c:expo_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "hali",
+"kimlik": "Döşemealtı halısı",
+"oncelik": 3.8,
+"anahtar": [
+"döşemealtı halı",
+"halı dokuma",
+"el dokuma",
+"kilim"
+],
+"aciklama": "Döşemealtı halısı, Antalya Müzesi — Arşiv fotoğrafı (2015)",
+"grup": "dosemealti-halisi",
+"kaynak": [
+[
+"dosemealti-halisi",
+"c:dosemealti_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "tarim",
+"kimlik": "Tarım",
+"oncelik": 4.3,
+"grup": "tarla",
+"anahtar": [
+"traktör",
+"buğday",
+"ekim alan",
+"tarla",
+"ziraat",
+"tarım arazi",
+"tarımsal",
+"hububat",
+"gübre",
+"mazot destek"
+],
+"kaynak": [
+[
+"ciftci-1",
+"c:tarim_0"
+],
+[
+"ciftci-2",
+"c:tarim_7"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Alanya",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Alanya",
+"anahtar": [
+"Alanya"
+],
+"grup": "ilce-alanya",
+"kaynak": [
+[
+"ilce-alanya-1",
+"c:alanya_1"
+],
+[
+"ilce-alanya-2",
+"c:alanya_2"
+],
+[
+"ilce-alanya-3",
+"c:alanya_5"
+],
+[
+"ilce-alanya-4",
+"c:alanya_8"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Antalya",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Muratpaşa",
+"anahtar": [
+"Muratpaşa"
+],
+"grup": "ilce-muratpasa",
+"kaynak": [
+[
+"ilce-muratpasa-1",
+"c:antalya_4"
+],
+[
+"ilce-muratpasa-2",
+"c:antalya_6"
+],
+[
+"ilce-muratpasa-3",
+"c:muratpasa_1"
+],
+[
+"ilce-muratpasa-4",
+"c:antalya_2"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Konyaaltı",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Konyaaltı",
+"anahtar": [
+"Konyaaltı"
+],
+"grup": "ilce-konyaalti",
+"kaynak": [
+[
+"ilce-konyaalti",
+"c:antalya_3"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Kemer",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Kemer",
+"anahtar": [
+"Kemer"
+],
+"grup": "ilce-kemer",
+"kaynak": [
+[
+"ilce-kemer-1",
+"c:kemer_0"
+],
+[
+"ilce-kemer-2",
+"c:kemer_2"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Kumluca",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Kumluca",
+"anahtar": [
+"Kumluca"
+],
+"grup": "ilce-kumluca",
+"kaynak": [
+[
+"ilce-kumluca-1",
+"c:kumluca_0"
+],
+[
+"ilce-kumluca-2",
+"c:kumluca_3"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Finike",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Finike",
+"anahtar": [
+"Finike"
+],
+"grup": "ilce-finike",
+"kaynak": [
+[
+"ilce-finike",
+"c:finike_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Demre",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Demre",
+"anahtar": [
+"Demre"
+],
+"grup": "ilce-demre",
+"kaynak": [
+[
+"ilce-demre-1",
+"c:demre_3"
+],
+[
+"ilce-demre-2",
+"c:demre_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Serik",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Serik",
+"anahtar": [
+"Serik"
+],
+"grup": "ilce-serik",
+"kaynak": [
+[
+"ilce-serik",
+"c:serik_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Gazipaşa",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Gazipaşa",
+"anahtar": [
+"Gazipaşa"
+],
+"grup": "ilce-gazipasa",
+"kaynak": [
+[
+"ilce-gazipasa-1",
+"c:gazipasa_8"
+],
+[
+"ilce-gazipasa-2",
+"c:gazipasa_3"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Akseki",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Akseki",
+"anahtar": [
+"Akseki"
+],
+"grup": "ilce-akseki",
+"kaynak": [
+[
+"ilce-akseki",
+"c:akseki_8"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Elmalı",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Elmalı",
+"anahtar": [
+"Elmalı"
+],
+"grup": "ilce-elmali",
+"kaynak": [
+[
+"ilce-elmali",
+"c:elmali_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Korkuteli",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Korkuteli",
+"anahtar": [
+"Korkuteli"
+],
+"grup": "ilce-korkuteli",
+"kaynak": [
+[
+"ilce-korkuteli",
+"c:korkuteli_4"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Gündoğmuş",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Gündoğmuş",
+"anahtar": [
+"Gündoğmuş"
+],
+"grup": "ilce-gundogmus",
+"kaynak": [
+[
+"ilce-gundogmus",
+"c:gundogmus_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Manavgat",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Manavgat",
+"anahtar": [
+"Manavgat"
+],
+"grup": "ilce-manavgat",
+"kaynak": [
+[
+"ilce-manavgat-1",
+"c:manavgat_0"
+],
+[
+"ilce-manavgat-2",
+"c:manavgat_5"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Kaş",
+"oncelik": 5,
+"yedek_yer": true,
+"ilce": "Kaş",
+"anahtar": [
+"Kaş"
+],
+"grup": "ilce-kas",
+"kaynak": [
+[
+"ilce-kas-1",
+"c:kas_2"
+],
+[
+"ilce-kas-2",
+"c:kas_6"
+],
+[
+"ilce-kas-3",
+"c:kas_7"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Devlet Bahçeli",
+"oncelik": 2,
+"anahtar": [
+"devlet bahçeli",
+"bahçeli"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2015,
+"grup": "kisi-bahceli",
+"kaynak": [
+[
+"kisi-bahceli",
+"c:bahceli_1"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Ali Yerlikaya",
+"oncelik": 2,
+"anahtar": [
+"ali yerlikaya",
+"yerlikaya"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2016,
+"grup": "kisi-yerlikaya",
+"kaynak": [
+[
+"kisi-yerlikaya",
+"c:yerlikaya_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Yusuf Tekin",
+"oncelik": 2,
+"anahtar": [
+"yusuf tekin",
+"bakan tekin"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2023,
+"grup": "kisi-tekin",
+"kaynak": [
+[
+"kisi-tekin",
+"c:tekin_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Mehmet Şimşek",
+"oncelik": 2,
+"anahtar": [
+"mehmet şimşek",
+"bakan şimşek"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2014,
+"grup": "kisi-simsek",
+"kaynak": [
+[
+"kisi-simsek",
+"c:simsek_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Hakan Fidan",
+"oncelik": 2,
+"anahtar": [
+"hakan fidan",
+"bakan fidan"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2024,
+"grup": "kisi-fidan",
+"kaynak": [
+[
+"kisi-fidan",
+"c:fidan_2"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Mevlüt Çavuşoğlu",
+"oncelik": 2,
+"anahtar": [
+"mevlüt çavuşoğlu",
+"çavuşoğlu"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2019,
+"grup": "kisi-cavusoglu",
+"kaynak": [
+[
+"kisi-cavusoglu",
+"c:cavusoglu_4"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Ömer Bolat",
+"oncelik": 2,
+"anahtar": [
+"ömer bolat",
+"bakan bolat"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2023,
+"grup": "kisi-bolat",
+"kaynak": [
+[
+"kisi-bolat",
+"c:bolat_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Ekrem İmamoğlu",
+"oncelik": 2,
+"anahtar": [
+"ekrem imamoğlu",
+"imamoğlu"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2024,
+"grup": "kisi-imamoglu",
+"kaynak": [
+[
+"kisi-imamoglu",
+"c:imamoglu_1"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Mansur Yavaş",
+"oncelik": 2,
+"anahtar": [
+"mansur yavaş"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2025,
+"grup": "kisi-yavas",
+"kaynak": [
+[
+"kisi-yavas",
+"c:yavas_5"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Ümit Özdağ",
+"oncelik": 2,
+"anahtar": [
+"ümit özdağ",
+"özdağ"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2022,
+"grup": "kisi-ozdag",
+"kaynak": [
+[
+"kisi-ozdag",
+"c:ozdag_3"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Müsavat Dervişoğlu",
+"oncelik": 2,
+"anahtar": [
+"müsavat dervişoğlu",
+"dervişoğlu"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2019,
+"grup": "kisi-dervisoglu",
+"kaynak": [
+[
+"kisi-dervisoglu",
+"c:dervisoglu_6"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Osman Aşkın Bak",
+"oncelik": 2,
+"anahtar": [
+"osman aşkın bak",
+"bakan bak"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2024,
+"grup": "kisi-bak",
+"kaynak": [
+[
+"kisi-bak",
+"c:bak_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Vedat Işıkhan",
+"oncelik": 2,
+"anahtar": [
+"vedat ışıkhan",
+"ışıkhan"
+],
+"yuzler": [
+[
+80,
+270,
+500,
+730
+]
+],
+"ana_kutu": [
+60,
+150,
+900,
+850
+],
+"sahne": "portre",
+"yil": 2023,
+"grup": "kisi-isikhan",
+"kaynak": [
+[
+"kisi-isikhan",
+"c:isikhan_0"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Recep Tayyip Erdoğan",
+"oncelik": 2,
+"anahtar": [
+"erdoğan"
+],
+"sahne": "portre",
+"grup": "kisi-42a064",
+"kaynak": [
+[
+"kisi-42a064",
+"k:42a064"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Abdulkadir Uraloğlu",
+"oncelik": 2,
+"anahtar": [
+"uraloğlu"
+],
+"sahne": "portre",
+"grup": "kisi-24abdf",
+"kaynak": [
+[
+"kisi-24abdf",
+"k:24abdf"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "İbrahim Yumaklı",
+"oncelik": 2,
+"anahtar": [
+"yumaklı",
+"yumakli"
+],
+"sahne": "portre",
+"grup": "kisi-4f09e7",
+"kaynak": [
+[
+"kisi-4f09e7",
+"k:4f09e7"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Cevdet Yılmaz",
+"oncelik": 2,
+"anahtar": [
+"cevdet yılmaz"
+],
+"sahne": "portre",
+"grup": "kisi-520756",
+"kaynak": [
+[
+"kisi-520756",
+"k:520756"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Mehmet Nuri Ersoy",
+"oncelik": 2,
+"anahtar": [
+"mehmet nuri ersoy",
+"bakan ersoy",
+"ersoy'dan"
+],
+"sahne": "portre",
+"grup": "kisi-b1c930",
+"kaynak": [
+[
+"kisi-b1c930",
+"k:b1c930"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Cemil Tugay",
+"oncelik": 2,
+"anahtar": [
+"cemil tugay",
+"tugay"
+],
+"sahne": "portre",
+"grup": "kisi-9ad885",
+"kaynak": [
+[
+"kisi-9ad885",
+"k:9ad885"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Mesud Pezeşkiyan",
+"oncelik": 2,
+"anahtar": [
+"pezeşkiyan"
+],
+"sahne": "portre",
+"grup": "kisi-fd6b33",
+"kaynak": [
+[
+"kisi-fd6b33",
+"k:fd6b33"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Levent Yüksel",
+"oncelik": 2,
+"anahtar": [
+"levent yüksel"
+],
+"sahne": "portre",
+"grup": "kisi-22cab3",
+"kaynak": [
+[
+"kisi-22cab3",
+"k:22cab3"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Emre Belözoğlu",
+"oncelik": 2,
+"anahtar": [
+"emre belözoğlu",
+"belözoğlu"
+],
+"sahne": "portre",
+"grup": "kisi-2f96a5",
+"kaynak": [
+[
+"kisi-2f96a5",
+"k:2f96a5"
+]
+]
+},
+{
+"sinif": "kisi",
+"kimlik": "Nikos Hristodulidis",
+"oncelik": 2,
+"anahtar": [
+"hristodulidis",
+"christodoulides"
+],
+"sahne": "portre",
+"grup": "kisi-2f0185",
+"kaynak": [
+[
+"kisi-2f0185",
+"k:2f0185"
+]
+]
+}
+]
+}

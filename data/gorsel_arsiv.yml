@@ -20,7 +20,7 @@ kayitlar:
   - ata'yı
   - atamızı
   - ulu önder
-  gerekli: &id002
+  gerekli:
   - anma
   - 10 kasım
   - saygı
@@ -33,7 +33,11 @@ kayitlar:
   - ulu önder
   - atamızı
   - ata'yı
-  yasak: &id003
+  - anıl
+  - düşünce
+  - mesaj
+  - konferans
+  yasak: &id002
   - caddesi
   - bulvarı
   - stadyumu
@@ -73,8 +77,24 @@ kayitlar:
   oncelik: 2
   kimlik: Mustafa Kemal Atatürk
   anahtar: *id001
-  gerekli: *id002
-  yasak: *id003
+  gerekli:
+  - anma
+  - 10 kasım
+  - saygı
+  - ebediyete
+  - vefat
+  - ölüm yıl
+  - yıl dönümü
+  - yıldönümü
+  - özlem
+  - ulu önder
+  - atamızı
+  - ata'yı
+  - anıl
+  - düşünce
+  - mesaj
+  - konferans
+  yasak: *id002
   yuzler:
   - - 400
     - 80
@@ -109,6 +129,10 @@ kayitlar:
   - tören
   - çelenk
   - saygı
+  - anıl
+  - düşünce
+  - mesaj
+  - konferans
   ana_kutu:
   - 250
   - 50
@@ -693,7 +717,7 @@ kayitlar:
   grup: cop31
   oncelik: 5
   kimlik: COP31'in yapılacağı EXPO 2016 Antalya alanı
-  anahtar: &id004
+  anahtar: &id003
   - cop31
   - cop 31
   - iklim zirvesi
@@ -707,7 +731,7 @@ kayitlar:
   - 950
   sahne: manzara
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  baslikta: false
+  esik: 2.5
 - id: cop31-expo-2
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
   sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
@@ -722,7 +746,7 @@ kayitlar:
   grup: cop31
   oncelik: 5
   kimlik: EXPO 2016 Antalya alanı, Expo Kulesi
-  anahtar: *id004
+  anahtar: *id003
   ana_kutu:
   - 300
   - 80
@@ -730,17 +754,17 @@ kayitlar:
   - 900
   sahne: yapi
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
-  baslikta: false
+  esik: 2.5
 - id: kut-expo
   kutuphane: 80e7030514812c2e
   sinif: yer
   grup: cop31
   oncelik: 5
   kimlik: EXPO 2016 Antalya alanı
-  anahtar: *id004
+  anahtar: *id003
   sahne: manzara
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  baslikta: false
+  esik: 2.5
 - id: alanya-kleopatra
   url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
   sayfa: https://commons.wikimedia.org/wiki/File:Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
@@ -757,7 +781,7 @@ kayitlar:
   kimlik: Alanya Kleopatra Plajı ve turistik bölge
   anahtar:
   - alanya
-  gerekli: &id005
+  gerekli: &id004
   - turizm
   - turist
   - otel
@@ -785,7 +809,7 @@ kayitlar:
   kimlik: Alanya'nın turistik merkezi
   anahtar:
   - alanya
-  gerekli: *id005
+  gerekli: *id004
   sahne: manzara
   aciklama: Alanya, kaleden liman ve sahil — arşiv fotoğrafı
   yasak_kategoriler:
@@ -809,7 +833,7 @@ kayitlar:
   kimlik: Antalya Kaleiçi ve tarihi liman
   anahtar:
   - antalya
-  gerekli: *id005
+  gerekli: *id004
   sahne: manzara
   aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
   yasak_kategoriler:
@@ -834,7 +858,7 @@ kayitlar:
   anahtar:
   - antalya
   - konyaaltı
-  gerekli: *id005
+  gerekli: *id004
   sahne: manzara
   aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
   yasak_kategoriler:
@@ -893,7 +917,7 @@ kayitlar:
   anahtar:
   - kaş
   tam: true
-  gerekli: *id005
+  gerekli: *id004
   sahne: manzara
   aciklama: Kaş limanı (2015)
   yasak_kategoriler:
