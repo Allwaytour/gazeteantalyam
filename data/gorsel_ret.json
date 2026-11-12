@@ -1,6 +1,116 @@
 {
  "aciklama": "Reddedilen fotoğraflar. 'gorsel': lisans/teknik nedenle her haber için reddedilenler (fotoğraf düzeyi). 'eslesme': yanlış yer/olay/özne nedeniyle yalnızca belirli bir haber için reddedilenler (haber–fotoğraf eşleşmesi düzeyi; anahtar: haberin konu imzası). Eşleşme dosya özetiyle (sha256) ve benzer görsel özetiyle (dHash) yapılır: aynı fotoğraf farklı adres, boyut ya da kaynaktan gelse de tanınır.",
  "eslesme": {
+  "01ec383525fe": [
+   {
+    "dh": "d979dbc1c2200406",
+    "gk": "2bfc2db7fbc3ff00",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (0/10, en az 7)",
+    "sha": "7ae7fb407a212785170a8744",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Installation_of_soil_sensors.jpg/1280px-Installation_of_soil_sensors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "dh": "4f4d55d61533175e",
+    "gk": "6b00a5b23a009b4e",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (0/10, en az 7)",
+    "sha": "ee1f2b7c6446711f24e93b67",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+   },
+   {
+    "dh": "dffffff823430717",
+    "gk": "6e4ace25ef64d248",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (1/10, en az 7)",
+    "sha": "11bc5bb8cc3d4ed86c26c206",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "dh": "d2d9d1ebf94c4c2c",
+    "gk": "a28063c77c851305",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (0/10, en az 7)",
+    "sha": "1cfd3f10d1cab2328b5a2af4",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1280px-Konya_Tropical_Butterfly_Garden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "dh": "480a1b9a8a8b970f",
+    "gk": "aaaa07fd45b7560b",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (0/10, en az 7)",
+    "sha": "416fff73801850c3ab48e173",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Step_Aerobics_Class_at_a_Gym.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   },
+   {
+    "dh": "b52dcb9264c91366",
+    "gk": "b385212a9cfb481e",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: Antalyaspor logosu veya adliye binası; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (2/10, en az 7)",
+    "sha": "af12a586fec5b01b3f7a0f06",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "dh": "060e1b1b2b1f0707",
+    "gk": "b9350eaeb8cd8c4d",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: Antalyaspor logosu veya adliye binası; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (0/10, en az 7)",
+    "sha": "9e4cf048c857512f4dcb00d7",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=im"
+   },
+   {
+    "dh": "23048c9b8a8c0606",
+    "gk": "cc35c1c0bd8134ba",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: Antalyaspor logosu veya adliye binası; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; habere uygunluk düşük (1/10, en az 7)",
+    "sha": "0f3ca51fc2cd189177e02b93",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+   },
+   {
+    "dh": "370f179e9c1a1f1f",
+    "gk": "f01a6a701c5c5fa9",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: Antalyaspor logosu veya adliye binası; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); habere uygunluk düşük (3/10, en az 7)",
+    "sha": "699792197a5eb3c2acf3c559",
+    "t": "2026-11-12T09:56:27+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
   "023ec3668f46": [
    {
     "dh": "",
