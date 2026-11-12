@@ -6057,6 +6057,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/TopkapiMuseumTicket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "0f77299e1ed1db02": {
+   "ozet": {
+    "dh": "4c36160f0d1c9a9c",
+    "sha": "4e44cf18fb5b21c69835ae8d"
+   },
+   "t": "2026-11-12T04:28:38+03:00",
+   "teknik": {
+    "doygunluk": 37.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 853,
+    "kontrast": 53,
+    "medyan": 78,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Alexsandro_%E2%80%9EAlex%E2%80%9C_de_Souza_Fenerbah%C3%A7e%27de_gol_sevinci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "0fad2607e7696114": {
    "t": "2026-11-08T12:10:56+03:00",
    "teknik": {
@@ -6548,6 +6569,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_060525-N-3888C-001_A_Sailor_assigned_to_the_guided-missile_frigate_USS_Nicholas_%28FFG_47%29_stands_a_security_watch_during_exercise_Anatolian_Sun%2C_while_moored_in_Anatalya%2C_Turkey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "11096c90e2e336f6": {
+   "ozet": {
+    "dh": "8c8e8e8c84849484",
+    "sha": "bd797ddad6e17c80d4a7b1d7"
+   },
+   "t": "2026-11-12T04:28:38+03:00",
+   "teknik": {
+    "doygunluk": 27.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.243,
+    "keskinlik": 3927,
+    "kontrast": 87,
+    "medyan": 108,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Placa-alex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "111481799aac4ab9": {
    "icerik": {
@@ -8984,6 +9026,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Modern_highway_Canton%2C_Ohio_-_DPLA_-_020a37d29a2fafad13efe0c30647f86c_%28page_1%29.jpg/1280px-Modern_highway_Canton%2C_Ohio_-_DPLA_-_020a37d29a2fafad13efe0c30647f86c_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "16138cd2ede505da": {
+   "icerik": {
+    "ana_kutu": [
+     68,
+     0,
+     839,
+     747
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "modern bina",
+     "ahsap cephe",
+     "cam kapi",
+     "merdiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahsap cepheli modern bir bina ve giris kismi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "mimari",
+     "muze",
+     "sanat alani"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya muzesi",
+     "muze insaati"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gorseldeki yapi Odunpazari Modern Muzesi'dir, Antalya Muzesi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "80c068303031310f",
+    "sha": "7d537432c03936a4045b5ff7"
+   },
+   "t": "2026-11-12T04:27:26+03:00",
+   "teknik": {
+    "doygunluk": 48.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.115,
+    "keskinlik": 2592,
+    "kontrast": 60,
+    "medyan": 114,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1572293071713-0ddeb33c2676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bW9kZXJuJTIwbXVzZXVtJTIwY29uc3RydWN0aW9uJTIwVHVya2V5fGVufDF8MHx8fDE3OTQ0NDY4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "16a38e6e222f06d0": {
    "icerik": {
@@ -12737,6 +12866,102 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1775566416223-d5bea6a9d305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dHJhZGl0aW9uYWwlMjB3ZWRkaW5nJTIwYnJpZGUlMjBncm9vbXxlbnwxfDB8fHwxNzk0MTM5OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1fe3811d5bbeee25": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "futbol forması",
+     "çim saha",
+     "stadyum tribünü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Saha kenarında sarı lacivert formalı futbolcu sevinçle koşuyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "futbol haberleri",
+     "sporcu profili",
+     "transfer haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      48,
+      319,
+      290,
+      508
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5fb4bef334e1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu teknik direktörlük anlaşması olmasına rağmen fotoğraf futbolculuk dönemine ait formalı maç karesidir.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       137,
+       1000,
+       775
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "futbolcu forması",
+       "maç ortamı"
+      ]
+     },
+     "t": "2026-11-12T04:28:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "58989dcde1b3364f",
+    "sha": "992d9cf0ca54601d111cd20e"
+   },
+   "t": "2026-11-12T04:28:53+03:00",
+   "teknik": {
+    "doygunluk": 35.0,
+    "inen": [
+     500,
+     524
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 1275,
+    "kontrast": 55,
+    "medyan": 145,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Alexsandro_de_Souza.jpg/1280px-Alexsandro_de_Souza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "202b4f8e275a6d1c": {
    "icerik": {
@@ -18658,13 +18883,39 @@
       "yasak": []
      },
      "t": "2026-11-12T03:26:31+03:00"
+    },
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf müze binasıyla tamamen ilgisiz ölçüm kablolarını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:01+03:00"
     }
    },
    "ozet": {
     "dh": "d979dbc1c2200406",
     "sha": "7ae7fb407a212785170a8744"
    },
-   "t": "2026-11-12T03:26:31+03:00",
+   "t": "2026-11-12T04:27:01+03:00",
    "teknik": {
     "doygunluk": 21.9,
     "inen": [
@@ -25481,6 +25732,93 @@
    },
    "url": "https://images.unsplash.com/photo-1588072432836-e10032774350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2xhc3Nyb29tfGVufDF8MHx8fDE3OTQxNTAyMjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "3d78c51f09ca8dd4": {
+   "icerik": {
+    "ana_kutu": [
+     128,
+     230,
+     715,
+     891
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "palmiye",
+     "cim alan",
+     "bahce duvarı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi mimariye sahip buyuk bir bina ve onundeki bahce",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari",
+     "tarihi yapi",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "muze insaati",
+     "antalya muzesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograftaki yapi Antalya Muzesi degildir, yabanci bir binadir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "05595b87a4e59292",
+    "sha": "f6e385d430c2f33ad0c8f56f"
+   },
+   "t": "2026-11-12T04:27:26+03:00",
+   "teknik": {
+    "doygunluk": 43.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 3429,
+    "kontrast": 56,
+    "medyan": 139,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg/1280px-Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3d8871f92cb4334d": {
    "icerik": {
     "ana_kutu": [
@@ -25977,53 +26315,89 @@
   },
   "3e846000e879df1e": {
    "icerik": {
-    "ana_kutu": [
-     250,
-     270,
-     890,
-     620
-    ],
+    "ana_kutu": null,
     "bulanik": false,
-    "donem": "guncel",
+    "cekim": "genis",
+    "donem": "eski",
     "karanlik": false,
     "kisi_sayisi": 2,
     "nesneler": [
-     "futbol sahası",
-     "forma",
-     "çim"
+     "çim saha",
+     "futbol forması"
     ],
     "notr_portre": false,
-    "s": "i2",
-    "sahne": "Çim sahada Fenerbahçe formalı iki futbolcu sevinç yaşıyor",
+    "s": "i3",
+    "sahne": "Çim sahada gol sevinci yaşayan iki futbolcu.",
+    "sahne_turu": "olay_etkinlik",
     "siyah_beyaz": false,
     "tur": "fotograf",
     "ulke": "turkiye",
     "uygun_baglamlar": [
-     "Fenerbahçe maçı",
-     "Süper Lig"
+     "futbol maç haberi",
+     "spor haberi"
     ],
     "uygunsuz_baglamlar": [
-     "milli takım hazırlık turnuvası",
-     "Manavgat turnuvası"
+     "teknik direktör imza haberi",
+     "ekonomi"
     ],
     "yazi_filigran": "yok",
     "yuz_belirgin": true,
     "yuzler": [
      [
-      260,
-      380,
-      360,
-      440
+      258,
+      396,
+      362,
+      447
      ],
      [
-      400,
-      460,
-      510,
-      530
+      402,
+      467,
+      513,
+      532
      ]
     ]
    },
-   "t": "2026-11-07T21:06:02+03:00",
+   "iliski": {
+    "r1:5fb4bef334e1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf futbolculuk dönemine ait maç içi sevinç anını gösterdiği için teknik direktörlük anlaşması haberiyle uysuzdur.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       258,
+       281,
+       932,
+       620
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "futbolcu forması",
+       "maç ortamı"
+      ]
+     },
+     "t": "2026-11-12T04:28:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "41011114111e8c11",
+    "sha": "5485e71411302a2d8d2269ed"
+   },
+   "t": "2026-11-12T04:28:53+03:00",
    "teknik": {
     "doygunluk": 52.8,
     "inen": [
@@ -26497,6 +26871,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Frosty_Raftsundet_landscape_with_Trolltindan_in_morning%2C_2012_October.JPG/1280px-Frosty_Raftsundet_landscape_with_Trolltindan_in_morning%2C_2012_October.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "402ff0d3bdeaec43": {
+   "icerik": {
+    "ana_kutu": [
+     239,
+     159,
+     1000,
+     508
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "futbol sahası",
+     "aydınlatma direği",
+     "güneş gözlüğü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Futbol sahasında yürüyen güneş gözlüklü teknik direktör.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "spor haberleri",
+     "futbol haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      241,
+      335,
+      362,
+      431
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5fb4bef334e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       239,
+       159,
+       1000,
+       508
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "12696e6169684849",
+    "sha": "d483a6823e129aa089795484"
+   },
+   "t": "2026-11-12T04:29:04+03:00",
+   "teknik": {
+    "doygunluk": 29.4,
+    "inen": [
+     500,
+     496
+    ],
+    "karanlik_oran": 0.096,
+    "keskinlik": 929,
+    "kontrast": 57,
+    "medyan": 168,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Meysam_Molaei_during_a_Football_Training_Session.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "408a7c539ee96c43": {
    "icerik": {
@@ -34078,6 +34550,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Indian_historical_Traditional_drama%28_In_stage_performance_-2%29.jpg/1280px-Indian_historical_Traditional_drama%28_In_stage_performance_-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "52eeaecf77b9abb9": {
+   "icerik": {
+    "ana_kutu": [
+     116,
+     331,
+     969,
+     658
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "futbol sahası",
+     "yedek kulübesi",
+     "spor kıyafeti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Saha kenarında çömelmiş neon yeşil tişörtlü teknik direktör.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknik direktör haberleri",
+     "maç önü"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      123,
+      493,
+      331,
+      612
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5fb4bef334e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       331,
+       969,
+       658
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3e3c3acb93b1311a",
+    "sha": "c4516d5d7408a3d14ea0dfe9"
+   },
+   "t": "2026-11-12T04:29:04+03:00",
+   "teknik": {
+    "doygunluk": 40.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.15,
+    "keskinlik": 641,
+    "kontrast": 54,
+    "medyan": 91,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1788369235608-b607512542ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c29jY2VyJTIwbWFuYWdlciUyMHNpZGVsaW5lJTIwdGFjdGljYWx8ZW58MXwwfHx8MTc5NDQ0NjkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "5373beec8fc456ac": {
    "icerik": {
     "ana_kutu": [
@@ -39067,6 +39636,32 @@
      },
      "t": "2026-11-08T13:42:35+03:00"
     },
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf müze haberleriyle tamamen alakasız parktaki bir çocuğu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:01+03:00"
+    },
     "r1:d6071a7ab24f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -39170,7 +39765,7 @@
     "dh": "9717160b7929a1e0",
     "sha": "5ca804cc1ac758245f9a39a7"
    },
-   "t": "2026-11-10T14:38:26+03:00",
+   "t": "2026-11-12T04:27:01+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -40467,6 +41062,108 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadrian_S_Gate_Antalya_%28165223475%29.jpeg/1280px-Hadrian_S_Gate_Antalya_%28165223475%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "640736954e50bf8b": {
+   "icerik": {
+    "ana_kutu": [
+     136,
+     179,
+     1000,
+     824
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kürsü",
+     "mikrofon"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Kürsüde konuşma yapan sarı saçlı kadın",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "akademik konuşma",
+     "portre haberi",
+     "üniversite haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "spor maçı",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      136,
+      335,
+      477,
+      539
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5bddfbe83114:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin konuşma anındaki arşiv portresi, haber için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "bilimsel sunum yapan kişi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       136,
+       179,
+       1000,
+       824
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "21607062e5e6d0cd",
+    "sha": "093ee959638516d39c5641b6"
+   },
+   "t": "2026-11-12T04:27:59+03:00",
+   "teknik": {
+    "doygunluk": 12.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.185,
+    "keskinlik": 424,
+    "kontrast": 54,
+    "medyan": 150,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg/1280px-%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "64696d5c1741985a": {
    "icerik": {
@@ -42096,6 +42793,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5bddfbe83114:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz bir stadyum alanı gösterilmektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu, bilimsel sunum yapan kişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:59+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -42138,7 +42861,7 @@
     "dh": "ffdd5f0606130100",
     "sha": "792dcbb95b8d0c6162d9be9f"
    },
-   "t": "2026-11-12T02:56:19+03:00",
+   "t": "2026-11-12T04:27:59+03:00",
    "teknik": {
     "doygunluk": 28.6,
     "inen": [
@@ -43078,6 +43801,32 @@
      },
      "t": "2026-11-10T22:13:56+03:00"
     },
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Her ne kadar bir kültür yapısı olsa da, Antalya Müzesi binası değildir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:01+03:00"
+    },
     "r1:b51ba2d3c7bd:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -43109,7 +43858,7 @@
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-11T00:38:31+03:00",
+   "t": "2026-11-12T04:27:01+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -50299,6 +51048,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Drinking_water_tap_at_Annavaram_Railway_station.jpg/1280px-Drinking_water_tap_at_Annavaram_Railway_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7e396e94155ccb5c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     118,
+     642,
+     928
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "turk bayragi",
+     "agac",
+     "yol",
+     "lamba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Akdeniz Universitesi kampusunde bir faktor binasi ve yol",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5bddfbe83114:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Universite binasini gosterir ancak sunum yapan ana ozne yer almamaktadir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu, bilimsel sunum yapan kişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       118,
+       642,
+       928
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "39733f1c971e6f23",
+    "sha": "edbf54a1e1f71035c7767ef1"
+   },
+   "t": "2026-11-12T04:27:59+03:00",
+   "teknik": {
+    "doygunluk": 20.0,
+    "inen": [
+     500,
+     400
+    ],
+    "karanlik_oran": 0.156,
+    "keskinlik": 874,
+    "kontrast": 68,
+    "medyan": 101,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Akdeniz_Uni_Turizm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "7e7758d1cfdb5029": {
    "icerik": {
     "ana_kutu": [
@@ -54571,6 +55410,121 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_OSCE_PA_delegation_meets_with_the_Council_of_Higher_Education%2C_Ankara%2C_17_August_2016_%2829061636485%29.jpg/1280px-The_OSCE_PA_delegation_meets_with_the_Council_of_Higher_Education%2C_Ankara%2C_17_August_2016_%2829061636485%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "841ea750d9ec8b5c": {
+   "icerik": {
+    "ana_kutu": [
+     386,
+     137,
+     747,
+     588
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "masa",
+     "bilgisayar",
+     "mikrofon",
+     "su şişesi",
+     "isimlik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masada oturan ve sunum yapan akademisyenler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      398,
+      198,
+      747,
+      325
+     ],
+     [
+      386,
+      399,
+      726,
+      588
+     ],
+     [
+      365,
+      590,
+      722,
+      775
+     ],
+     [
+      403,
+      804,
+      722,
+      989
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5bddfbe83114:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akademik bir panel görüntüsü var ancak ana özne Özlenen Özkan görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu, bilimsel sunum yapan kişi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       386,
+       399,
+       726,
+       588
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "031129d5d15c6423",
+    "sha": "3b6e06aa1484da6580fd7f74"
+   },
+   "t": "2026-11-12T04:27:59+03:00",
+   "teknik": {
+    "doygunluk": 9.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.127,
+    "keskinlik": 839,
+    "kontrast": 50,
+    "medyan": 149,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Akdeniz_Mimarl%C4%B1k_-_6.11.18.jpg/1280px-Akdeniz_Mimarl%C4%B1k_-_6.11.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8466935f80aea645": {
    "icerik": {
@@ -62662,6 +63616,10 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
+   "ozet": {
+    "dh": "bf8f4f2379784931",
+    "sha": "f72e562072db3e85744f47fe"
+   },
    "t": "2026-11-08T16:34:21+03:00",
    "teknik": {
     "doygunluk": 20.1,
@@ -62677,6 +63635,93 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "975b064dd4f80ce1": {
+   "icerik": {
+    "ana_kutu": [
+     152,
+     137,
+     473,
+     532
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi eser",
+     "sutun",
+     "tas duvar",
+     "sergi alani"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapali alan icerisinde sergilenen tarihi kalintilar ve dikilitas",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "muze",
+     "arkeoloji",
+     "tarihi eser"
+    ],
+    "uygunsuz_baglamlar": [
+     "muze insaati",
+     "antalya muzesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf bir muze icini gostermektedir ancak Antalya Muzesi'nin yeni binasi veya insaat alani degildir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0a1c1f571f6b6282",
+    "sha": "c5360f1ca9877953e0ca061d"
+   },
+   "t": "2026-11-12T04:27:26+03:00",
+   "teknik": {
+    "doygunluk": 18.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.388,
+    "keskinlik": 1513,
+    "kontrast": 54,
+    "medyan": 64,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Urfa_museum_Urfa_museum_Neval%C4%B1_%C3%87ori_Temple_in_2024_0359.jpg/1280px-Urfa_museum_Urfa_museum_Neval%C4%B1_%C3%87ori_Temple_in_2024_0359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "97b55f7d603c0273": {
    "icerik": {
@@ -66501,6 +67546,32 @@
      },
      "t": "2026-11-08T15:41:03+03:00"
     },
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir müze sergi alanı olsa da Antalya Müzesi'ni ve yeni bina inşaatını temsil etmez.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:01+03:00"
+    },
     "r1:d05976aec145:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -66539,7 +67610,7 @@
     "dh": "d2d9d1ebf94c4c2c",
     "sha": "1cfd3f10d1cab2328b5a2af4"
    },
-   "t": "2026-11-12T03:26:31+03:00",
+   "t": "2026-11-12T04:27:01+03:00",
    "teknik": {
     "doygunluk": 41.2,
     "inen": [
@@ -66554,6 +67625,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1280px-Konya_Tropical_Butterfly_Garden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a2bfac39665e1bea": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kabartma",
+     "tas yuzey",
+     "figur"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi kabartma uzerinde insan figuru ve semboller",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "arkeoloji",
+     "tarihi eser",
+     "sergi"
+    ],
+    "uygunsuz_baglamlar": [
+     "muze insaati",
+     "antalya muzesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir kabartma gorselidir, muzenin yeni binasi veya insaat durumuyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "332f2527255554cd",
+    "sha": "5f333a4081250b139d6ec71e"
+   },
+   "t": "2026-11-12T04:27:26+03:00",
+   "teknik": {
+    "doygunluk": 17.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.104,
+    "keskinlik": 4144,
+    "kontrast": 33,
+    "medyan": 90,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/King_Barrekub_prays_in_front_of_divine_symbols._Detail_of_a_stele_from_Sam%27al._8th_century_BC._Museum_of_the_Ancient_Orient%2C_Istanbul.jpg/1280px-King_Barrekub_prays_in_front_of_divine_symbols._Detail_of_a_stele_from_Sam%27al._8th_century_BC._Museum_of_the_Ancient_Orient%2C_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a2c5e635bb4ee152": {
    "icerik": {
@@ -69723,6 +70880,36 @@
      },
      "t": "2026-11-08T16:05:28+03:00"
     },
+    "r1:5bddfbe83114:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf haberin konusuyla tamamen ilgisiz bir spor salonu egzersizini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "bilimsel sunum yapan kişi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:52+03:00"
+    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -69806,6 +70993,32 @@
      },
      "t": "2026-11-10T22:13:56+03:00"
     },
+    "r1:9b50b2888d26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf spor salonundaki bir egzersiz seansını göstermekte olup müze haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Muzesi tabelasi veya insaat alan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:27:01+03:00"
+    },
     "r1:d5c53c975dac:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -69837,7 +71050,7 @@
     "dh": "480a1b9a8a8b970f",
     "sha": "416fff73801850c3ab48e173"
    },
-   "t": "2026-11-10T22:13:56+03:00",
+   "t": "2026-11-12T04:27:59+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -72286,6 +73499,199 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/20230116_Manavgat%2C_Turkey_12.jpg/1280px-20230116_Manavgat%2C_Turkey_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b13228bec5f98e47": {
+   "icerik": {
+    "ana_kutu": [
+     193,
+     348,
+     831,
+     605
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "futbol sahası",
+     "çocuk futbolcular",
+     "antrenör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Futbol antrenörü çocuk oyunculara taktik veriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "altyapı antrenmanı",
+     "futbol eğitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "A takım transfer haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      195,
+      351,
+      307,
+      429
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5fb4bef334e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       193,
+       348,
+       831,
+       605
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "04247152d4d01507",
+    "sha": "3a7027e93701af4cbd8fecd7"
+   },
+   "t": "2026-11-12T04:29:04+03:00",
+   "teknik": {
+    "doygunluk": 36.0,
+    "inen": [
+     400,
+     280
+    ],
+    "karanlik_oran": 0.108,
+    "keskinlik": 845,
+    "kontrast": 49,
+    "medyan": 109,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBjb2FjaCUyMHRyYWluaW5nJTIwc2Vzc2lvbnxlbnwxfDB8fHwxNzk0NDQ2OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "b15aa3065820a41d": {
+   "icerik": {
+    "ana_kutu": [
+     121,
+     260,
+     991,
+     609
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "futbol topu",
+     "antrenör",
+     "çocuk futbolcular"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antrenör çocuk futbolculara eğitim veriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "futbol eğitimi",
+     "altyapı haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "transfer haberleri",
+     "maç sonuçları"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      121,
+      401,
+      260,
+      471
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5fb4bef334e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       121,
+       260,
+       991,
+       609
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T04:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1307515172b752f2",
+    "sha": "d2a4af8b3f17b08995b60b74"
+   },
+   "t": "2026-11-12T04:29:04+03:00",
+   "teknik": {
+    "doygunluk": 42.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.209,
+    "keskinlik": 1964,
+    "kontrast": 70,
+    "medyan": 142,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nilio_conducting_training_session_at_SSS.jpg/1280px-Nilio_conducting_training_session_at_SSS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b1814a2f9a8c9c88": {
    "icerik": {
@@ -82074,6 +83480,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c9208dfc622e5956": {
+   "ozet": {
+    "dh": "1f8f878f8f07a383",
+    "sha": "aecf221e532db31c258eb760"
+   },
    "t": "2026-11-08T11:10:26+03:00",
    "teknik": {
     "doygunluk": 64.5,
@@ -94466,6 +95876,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2.27.10StroutBensonByLuigiNovi8.jpg/1280px-2.27.10StroutBensonByLuigiNovi8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e8704688c26685aa": {
+   "ozet": {
+    "dh": "8b9f8f9f37069654",
+    "sha": "dbb8d627feed24bd7610758c"
+   },
+   "t": "2026-11-12T04:26:39+03:00",
+   "teknik": {
+    "doygunluk": 41.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.292,
+    "keskinlik": 3236,
+    "kontrast": 59,
+    "medyan": 82,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Antalya_Kaleici_museum_5843.jpg/1280px-Antalya_Kaleici_museum_5843.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e8af7a81bcfd3457": {
    "icerik": {
     "ana_kutu": [
@@ -97086,6 +98517,10 @@
      },
      "t": "2026-11-08T11:10:32+03:00"
     }
+   },
+   "ozet": {
+    "dh": "3930145852642c9c",
+    "sha": "4ce9742708266615254af0ce"
    },
    "t": "2026-11-08T11:10:32+03:00",
    "teknik": {
@@ -105208,6 +106643,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg/1280px-Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ffc5ad813fd286f4": {
+   "ozet": {
+    "dh": "c2a3d2d0b2333a52",
+    "sha": "ab86b2947fa2c780bf353db3"
+   },
+   "t": "2026-11-12T04:26:39+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.184,
+    "keskinlik": 2770,
+    "kontrast": 44,
+    "medyan": 89,
+    "parlaklik": 89,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg/1280px-Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ffcc9881f68c2a62": {
    "t": "2026-11-08T11:39:03+03:00",
    "teknik": {
@@ -108740,6 +110196,70 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "640736954e50bf8b": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    2048,
+    1536
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2022-02-28",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kürsüde konuşma yapan sarı saçlı kadın",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T04:27:59+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Onur / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Onur",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Özlenen Özkan",
+      "qid": "Q92647635"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bilimsel sunum yapan kişi",
+    "kürsü",
+    "mikrofon"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg/500px-%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "akademik konuşma",
+    "portre haberi",
+    "üniversite haberi"
+   ],
+   "kullanilamaz": [
+    "siyasi miting",
+    "spor maçı",
+    "magazin"
+   ],
+   "notr_portre": true,
+   "qid": "Q92647635",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-12T04:27:59+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg/1280px-%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "kart",
     "detay"
    ],
