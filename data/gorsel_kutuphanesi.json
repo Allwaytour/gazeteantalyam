@@ -15042,6 +15042,104 @@
    },
    "url": "https://images.unsplash.com/photo-1536939459926-301728717817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Ym90dGxlZCUyMHdhdGVyfGVufDF8MHx8fDE3OTQwNjAxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "22cab3b76c6f420c": {
+   "icerik": {
+    "ana_kutu": [
+     45,
+     128,
+     955,
+     842
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "ceket",
+     "tişört"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Mavi arka plan önünde gülümseyen bir erkek portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanatçı haberi",
+     "biyografi",
+     "konser duyurusu"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "suç haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      45,
+      385,
+      275,
+      585
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b068b0a7a714:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sanatçının güncel ve net bir portresi, haberin ana öznesini tanıtmak için oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sanatçı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       45,
+       128,
+       955,
+       842
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T09:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bbf2323635b4a1a7",
+    "sha": "057ebdbeec094b494cceb33a"
+   },
+   "t": "2026-11-12T09:27:34+03:00",
+   "teknik": {
+    "doygunluk": 24.5,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.011,
+    "keskinlik": 345,
+    "kontrast": 43,
+    "medyan": 193,
+    "parlaklik": 178,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "23303f105792a7a0": {
    "icerik": {
     "ana_kutu": [
@@ -61353,6 +61451,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8f5b131dfdde6ee5": {
+   "icerik": {
+    "ana_kutu": [
+     460,
+     195,
+     630,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "bina",
+     "balon",
+     "bariyer"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İstanbul'da bir açık hava tiyatrosunun dıştan görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "mekan haberi",
+     "konser duyurusu"
+    ],
+    "uygunsuz_baglamlar": [
+     "kişi haberi",
+     "güncel olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b068b0a7a714:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf İstanbul'daki bir mekanı göstermektedir, Antalya'daki konser haberiyle yer ve bağlam açısından çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sahne",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T09:27:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "870f4e1f6a29cc4c",
+    "sha": "1bcf6038eb565362b7acf4e0"
+   },
+   "t": "2026-11-12T09:27:34+03:00",
+   "teknik": {
+    "doygunluk": 15.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 1634,
+    "kontrast": 74,
+    "medyan": 130,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Harbiye_Cemil_Topuzlu.JPG/1280px-Harbiye_Cemil_Topuzlu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8f644a625dec731c": {
    "icerik": {
     "ana_kutu": [
@@ -89843,6 +90026,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin-bvg-tram-ticket-machine.jpg/1280px-Berlin-bvg-tram-ticket-machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d80dd940436dd6c7": {
+   "ozet": {
+    "dh": "902c66160d99851b",
+    "sha": "5192dcdd70b390e0e107c397"
+   },
+   "t": "2026-11-12T09:27:04+03:00",
+   "teknik": {
+    "doygunluk": 30.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.639,
+    "keskinlik": 1068,
+    "kontrast": 59,
+    "medyan": 29,
+    "parlaklik": 62,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Live_rock_concert_performance_featuring_musicians_playing_guitar_on_stage_at_night_with_vibrant_lighting_effects.jpg/1280px-Live_rock_concert_performance_featuring_musicians_playing_guitar_on_stage_at_night_with_vibrant_lighting_effects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d87599fb5e6cc597": {
    "icerik": {
     "ana_kutu": [
@@ -90758,6 +90962,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Newborn_baby_feet_%28Unsplash%29.jpg/1280px-Newborn_baby_feet_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "db458f4f71629888": {
+   "ozet": {
+    "dh": "164666624a4686c2",
+    "sha": "4a6bfbe66e2e82576e6dbe70"
+   },
+   "t": "2026-11-12T09:27:03+03:00",
+   "teknik": {
+    "doygunluk": 64.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.724,
+    "keskinlik": 539,
+    "kontrast": 42,
+    "medyan": 38,
+    "parlaklik": 53,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Levent-Y%C3%BCksel-in-Istanbul-2014.jpg/1280px-Levent-Y%C3%BCksel-in-Istanbul-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "db90b85f925e4e90": {
    "icerik": {
@@ -107143,6 +107368,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Award%2C_music_%28AM_2019.4.16-5%29.jpg/1280px-Award%2C_music_%28AM_2019.4.16-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fd4890f0bde3e517": {
+   "ozet": {
+    "dh": "46372727333327a1",
+    "sha": "281afb4bb9a34520a2c977d4"
+   },
+   "t": "2026-11-12T09:27:04+03:00",
+   "teknik": {
+    "doygunluk": 76.0,
+    "inen": [
+     500,
+     292
+    ],
+    "karanlik_oran": 0.724,
+    "keskinlik": 1051,
+    "kontrast": 71,
+    "medyan": 10,
+    "parlaklik": 48,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Dead_Can_Dance%2C_Istanbul%2C_September_19%2C_20120.jpg/1280px-Dead_Can_Dance%2C_Istanbul%2C_September_19%2C_20120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fd6b336c5c677a8e": {
    "icerik": {
     "ana_kutu": [
@@ -109210,6 +109456,69 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "22cab3b76c6f420c": {
+   "alt_tur": "kisi_benzer",
+   "boyut": [
+    2000,
+    3000
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2024-01-08",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mavi arka plan önünde gülümseyen bir erkek portresi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T09:27:34+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Cembayoglu / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Cembayoglu",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Levent_Y%C3%BCksel.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Levent Yüksel",
+      "qid": "Q328878"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ceket",
+    "sanatçı",
+    "tişört"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/500px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "sanatçı haberi",
+    "biyografi",
+    "konser duyurusu"
+   ],
+   "kullanilamaz": [
+    "siyasi haber",
+    "suç haberi",
+    "kaza haberi"
+   ],
+   "notr_portre": true,
+   "qid": "Q328878",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-12T09:27:34+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
