@@ -9086,6 +9086,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/TechCrunch_Disrupt_Berlin_2018_%2846066632142%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2846066632142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "14e85da73c339579": {
+   "icerik": {
+    "ana_kutu": [
+     611,
+     0,
+     960,
+     431
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "otobüs",
+     "otomobil",
+     "trafik dubası",
+     "yol",
+     "bulutlu gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bulvarda otobüs, otomobil ve yol çalışması duba ve uyarı işaretleri görülüyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik haberi",
+     "yol calismasi",
+     "ulasim"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kultur sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Hong Kong'daki bir bulvarda çekilmiş olup Antalya'daki EXPO Bulvarı haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": false
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d1f11895e00b6b89",
+    "sha": "2bf63a51927675fdae91c239"
+   },
+   "t": "2026-11-12T14:29:12+03:00",
+   "teknik": {
+    "doygunluk": 19.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.075,
+    "keskinlik": 1976,
+    "kontrast": 57,
+    "medyan": 176,
+    "parlaklik": 158,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Airport_Expo_Boulevard_2025.jpg/1280px-Airport_Expo_Boulevard_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1500acc56f5d3224": {
    "icerik": {
     "ana_kutu": [
@@ -11776,6 +11869,101 @@
    },
    "url": "https://images.unsplash.com/photo-1718813321365-d2ad96ef402c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGJlYWNoJTIwc29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDI1MjkzOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "1a601c91f616221f": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     370,
+     650,
+     500
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "trafik levhası",
+     "dikenli tel",
+     "ağaç",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol kenarında bir uyarı tabelası ve dikenli teller.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sınır güvenliği",
+     "askeri bölge"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir içi trafik",
+     "belediye hizmetleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tabela yolun kapalı olduğunu gösterse de, yabancı dildeki yazı ve dikenli teller Türkiye'deki bir belediye haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": true
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       370,
+       650,
+       500
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c682080686c10b06",
+    "sha": "7d0d18cc437c1beaa02c3f37"
+   },
+   "t": "2026-11-12T14:29:47+03:00",
+   "teknik": {
+    "doygunluk": 26.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 3863,
+    "kontrast": 63,
+    "medyan": 129,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Nicosia_UN_buffer_zone01.jpg/1280px-Nicosia_UN_buffer_zone01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1a706306cca88eef": {
    "icerik": {
     "ana_kutu": [
@@ -13293,6 +13481,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Summer_vocational_training_programs_%2815072018771%29.jpg/1280px-Summer_vocational_training_programs_%2815072018771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1f261f2b90ccc588": {
+   "icerik": {
+    "ana_kutu": [
+     316,
+     298,
+     1000,
+     831
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yol",
+     "bina",
+     "ağaç",
+     "aydınlatma direği",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üstten görünen cadde, ağaçlar, sarı bina ve yoldaki yazılar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol",
+     "ulasim",
+     "kent"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf başka bir ülkeye ait olup Antalya'daki EXPO Bulvarı haberiyle ilişkili değildir.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": false
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f3baf5d4dcecd86",
+    "sha": "d83964941eadd0b2f0218120"
+   },
+   "t": "2026-11-12T14:29:12+03:00",
+   "teknik": {
+    "doygunluk": 20.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.153,
+    "keskinlik": 1351,
+    "kontrast": 70,
+    "medyan": 123,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hong_Kong_%284447624651%29.jpg/1280px-Hong_Kong_%284447624651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1f3f185cc8821f23": {
    "icerik": {
@@ -31095,6 +31376,10 @@
    "url": "/images/kurum/256173dbfa65d23e.jpg"
   },
   "457fcf80f56cd448": {
+   "ozet": {
+    "dh": "1b034f4e9c1c1a66",
+    "sha": "e5da319cf69416364dd03ffb"
+   },
    "t": "2026-11-08T16:10:49+03:00",
    "teknik": {
     "doygunluk": 31.2,
@@ -39314,6 +39599,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/FEMA_-_37968_-_Tennessee_Urban_Search_and_Rescue_team_in_Louisiana.jpg/1280px-FEMA_-_37968_-_Tennessee_Urban_Search_and_Rescue_team_in_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "58b00796d3d6046c": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     550,
+     350,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "trafik levhası",
+     "elektrik direği",
+     "bina",
+     "scooter"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokak köşesinde bir trafik levhası ve tuğla bina.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik kuralları",
+     "şehir içi ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik levhası içerse de, ABD'deki bir sokak görüntüsü olması nedeniyle Türkiye'deki bir haber için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": false
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       550,
+       350,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9098f85a1a79798b",
+    "sha": "933e0069fb3e150b614530cc"
+   },
+   "t": "2026-11-12T14:29:47+03:00",
+   "teknik": {
+    "doygunluk": 23.3,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.186,
+    "keskinlik": 2523,
+    "kontrast": 59,
+    "medyan": 139,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Upside-down_turn_restriction_sign_along_North_Meyer_Avenue_at_West_Washington_Street%2C_Tucson%2C_Arizona.jpg/1280px-Upside-down_turn_restriction_sign_along_North_Meyer_Avenue_at_West_Washington_Street%2C_Tucson%2C_Arizona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "58d5a56c2b99cd68": {
    "icerik": {
     "ana_kutu": [
@@ -44787,6 +45166,37 @@
      },
      "t": "2026-11-12T04:27:59+03:00"
     },
+    "r1:e30d65cb56b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalyaspor'un tesis/stadyum görseli olarak uygun bir alandır.",
+      "gerekli": [
+       {
+        "unsur": "stadyum veya tesis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       0,
+       700,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:30:03+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44829,7 +45239,7 @@
     "dh": "ffdd5f0606130100",
     "sha": "792dcbb95b8d0c6162d9be9f"
    },
-   "t": "2026-11-12T04:27:59+03:00",
+   "t": "2026-11-12T14:30:03+03:00",
    "teknik": {
     "doygunluk": 28.6,
     "inen": [
@@ -54825,6 +55235,27 @@
      },
      "t": "2026-11-08T13:36:11+03:00"
     },
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Otogarı siyasi transfer haberi için alakasız bir mekandır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:28:43+03:00"
+    },
     "r1:63da89cacf8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -54924,7 +55355,7 @@
     "dh": "09910d4c2c250705",
     "sha": "a58427ea936724bb425eb605"
    },
-   "t": "2026-11-10T20:09:39+03:00",
+   "t": "2026-11-12T14:28:43+03:00",
    "teknik": {
     "doygunluk": 14.3,
     "inen": [
@@ -58047,6 +58478,27 @@
      },
      "t": "2026-11-08T13:35:44+03:00"
     },
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü tarım işçilerini göstermektedir, siyasi bir transfer haberi için uygun değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:28:19+03:00"
+    },
     "r1:63da89cacf8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -58285,7 +58737,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-12T01:27:54+03:00",
+   "t": "2026-11-12T14:28:19+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -89610,6 +90062,95 @@
    },
    "url": "https://images.unsplash.com/photo-1763751626859-3fbfb6735fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c3RhZGl1bSUyMGdhdGUlMjBmbG9yYWwlMjBhcnJhbmdlbWVudHxlbnwxfDB8fHwxNzk0MTQzMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "cfdd6e1b8b128a0e": {
+   "icerik": {
+    "ana_kutu": [
+     85,
+     80,
+     715,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "metal kapı",
+     "paslı metal levha",
+     "otlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Paslanmış metal bir kapı ve duvar yapısı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi eser",
+     "kentsel dönüşüm"
+    ],
+    "uygunsuz_baglamlar": [
+     "trafik",
+     "yol çalışması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf haberin konusu olan trafik kısıtlaması veya yol ile hiçbir görsel bağ taşımamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": false
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f737570e0e1f0f0e",
+    "sha": "fa4ce993c2e4721d88a5d122"
+   },
+   "t": "2026-11-12T14:29:47+03:00",
+   "teknik": {
+    "doygunluk": 40.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.096,
+    "keskinlik": 3791,
+    "kontrast": 58,
+    "medyan": 109,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Facade_-_Outside_Dogubayazit_-_Turkey_%285804730468%29.jpg/1280px-Facade_-_Outside_Dogubayazit_-_Turkey_%285804730468%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cfe08e49040a1e2a": {
    "icerik": {
     "ana_kutu": [
@@ -89848,6 +90389,88 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Business_at_the_beach.jpg/1280px-Business_at_the_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d0412f7ce42bf555": {
+   "icerik": {
+    "ana_kutu": [
+     121,
+     163,
+     549,
+     831
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi bina",
+     "nehir",
+     "ışık yansıması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir kıyısında aydınlatılmış tarihi parlamento binası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "yerli siyaset haberleri",
+     "parti transferi",
+     "güncel olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Budapeşte'deki Parlamento binası Antalya'daki siyasi transfer haberiyle tamamen ilgisizdir ve yabancı ülke izlenimi verir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yaralanma",
+       "kaza",
+       "mahkeme"
+      ]
+     },
+     "t": "2026-11-12T14:28:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f1771aa17161f17",
+    "sha": "1cff1389247cb8567e920dcc"
+   },
+   "t": "2026-11-12T14:28:43+03:00",
+   "teknik": {
+    "doygunluk": 31.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.07,
+    "keskinlik": 1142,
+    "kontrast": 52,
+    "medyan": 121,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg/1280px-HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d11090db65558c64": {
    "icerik": {
@@ -92278,6 +92901,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:e30d65cb56b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski bir maçı gösterdiği ve Beşiktaş stadı olduğu için döneme ve kulübe tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "stadyum veya tesis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       0,
+       850,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "rakip takım forması"
+      ]
+     },
+     "t": "2026-11-12T14:30:03+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -92315,7 +92971,7 @@
     "dh": "38387c2f2f472f0b",
     "sha": "659bd135aefe088d354c7350"
    },
-   "t": "2026-11-12T02:56:19+03:00",
+   "t": "2026-11-12T14:30:03+03:00",
    "teknik": {
     "doygunluk": 39.9,
     "inen": [
@@ -96204,6 +96860,34 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:e30d65cb56b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Rakip takım formaları ve eski tarihli bir maç olduğu için haberle tam uyuşmuyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       70,
+       140,
+       730,
+       810
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "rakip takım forması"
+      ]
+     },
+     "t": "2026-11-12T14:30:03+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -96241,7 +96925,7 @@
     "dh": "102c2c3d3f34090f",
     "sha": "e7d9c5f77f158e5eeb0aa589"
    },
-   "t": "2026-11-12T02:56:19+03:00",
+   "t": "2026-11-12T14:30:03+03:00",
    "teknik": {
     "doygunluk": 56.4,
     "inen": [
@@ -99399,6 +100083,27 @@
      },
      "t": "2026-11-08T13:36:11+03:00"
     },
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ant antik kenti kalıntıları siyasi transfer haberi için uygun bir görsel değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:28:43+03:00"
+    },
     "r1:63da89cacf8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -99498,7 +100203,7 @@
     "dh": "a8e19b50a425c820",
     "sha": "6b627a6da6f00542496c506b"
    },
-   "t": "2026-11-10T20:09:39+03:00",
+   "t": "2026-11-12T14:28:43+03:00",
    "teknik": {
     "doygunluk": 15.1,
     "inen": [
@@ -102495,6 +103200,27 @@
      },
      "t": "2026-11-08T13:36:11+03:00"
     },
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya manzarası temsilî olarak kullanılabilir ancak siyasi transfer haberiyle doğrudan ilişkili değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:28:43+03:00"
+    },
     "r1:63da89cacf8e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -102638,7 +103364,7 @@
     "dh": "792dfb99c3031b8b",
     "sha": "25d2b6899805d79acd170234"
    },
-   "t": "2026-11-10T20:09:39+03:00",
+   "t": "2026-11-12T14:28:43+03:00",
    "teknik": {
     "doygunluk": 41.0,
     "inen": [
@@ -105016,6 +105742,27 @@
      },
      "t": "2026-11-08T13:35:44+03:00"
     },
+    "r1:531a87545809:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarım ve hasat sahnesi göstermektedir, Büşra Özdemir'in siyasi transfer haberiyle ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:28:19+03:00"
+    },
     "r1:5e1bc2283a6b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -105275,7 +106022,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-12T01:27:54+03:00",
+   "t": "2026-11-12T14:28:19+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -105467,6 +106214,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f5b73a040234f890": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     220,
+     950,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "trafik ışığı",
+     "yön levhası",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Trafik ışıkları ve yön levhaları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik",
+     "ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:85714d6ea5f4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik ışıkları ve levhaları içerse de, yabancı dildeki tabelalar ve ABD'deki bir kavşak olması nedeniyle yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "kapanmis yol",
+        "var": false
+       },
+       {
+        "unsur": "trafik levhasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       220,
+       950,
+       780
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:29:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c7f75416a7a7a787",
+    "sha": "528d468d52cc2409105d8d0a"
+   },
+   "t": "2026-11-12T14:29:47+03:00",
+   "teknik": {
+    "doygunluk": 51.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.355,
+    "keskinlik": 5920,
+    "kontrast": 62,
+    "medyan": 69,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Seattle_%28WA%2C_USA%29%2C_Stewart_Street-4th_Avenue%2C_Verkehrsschilder_--_2022_--_1496.jpg/1280px-Seattle_%28WA%2C_USA%29%2C_Stewart_Street-4th_Avenue%2C_Verkehrsschilder_--_2022_--_1496.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f5cf3f426287460c": {
    "icerik": {
@@ -108295,6 +109135,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:e30d65cb56b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalyaspor taraftar grubu ve bayrakları net bir şekilde görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalyaspor logosu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:30:03+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -108337,7 +109208,7 @@
     "dh": "0eba2b1c708bd3ae",
     "sha": "38b17384042e27b26b214c94"
    },
-   "t": "2026-11-12T02:56:19+03:00",
+   "t": "2026-11-12T14:30:03+03:00",
    "teknik": {
     "doygunluk": 34.8,
     "inen": [
@@ -109321,6 +110192,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:e30d65cb56b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalyaspor taraftarları ve kulüp logosu yer aldığı için genel kulüp haberlerinde kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "Antalyaspor logosu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T14:30:03+03:00"
+    },
     "r1:fc6130d8e276:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -109363,7 +110265,7 @@
     "dh": "0b4a1b1bc9ad8d96",
     "sha": "59bab9deff8d26abe67ae096"
    },
-   "t": "2026-11-12T02:56:19+03:00",
+   "t": "2026-11-12T14:30:03+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -114267,6 +115169,71 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg/1280px-%C3%96zlenen_%C3%96zkan_-_28.2.22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "6822eff0fc330891": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4272,
+    2848
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2012-05-09",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Boş stadyum ve çim sahayı sulayan yağmurlama sistemi",
+   "gosterim_ad": "Akdeniz Üniversitesi Stadyumu",
+   "ilk_kabul": "2026-11-12T14:30:03+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "AntalyasporFC / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "AntalyasporFC",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Akdeniz%C3%9CniversiteStadyumu1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [
+     {
+      "ad": "Akdeniz Üniversitesi Stadyumu",
+      "qid": "Q43710"
+     }
+    ],
+    "yerler": []
+   },
+   "konular": [
+    "koşu pisti",
+    "stadyum tribünü",
+    "stadyum veya tesis",
+    "su fıskiyesi",
+    "çim saha"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Akdeniz%C3%9CniversiteStadyumu1.jpg/500px-Akdeniz%C3%9CniversiteStadyumu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "stadyum tanıtımı",
+    "tesis haberi"
+   ],
+   "kullanilamaz": [
+    "başkan açıklaması",
+    "mali durum haberi"
+   ],
+   "notr_portre": false,
+   "qid": "Q43710",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-12T14:30:03+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Akdeniz%C3%9CniversiteStadyumu1.jpg/1280px-Akdeniz%C3%9CniversiteStadyumu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
