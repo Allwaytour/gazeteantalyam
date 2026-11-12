@@ -4699,6 +4699,102 @@
    },
    "url": "https://images.unsplash.com/photo-1588075592765-2feb7de1f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "0c7050a6000adf8e": {
+   "icerik": {
+    "ana_kutu": [
+     75,
+     115,
+     1000,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tişört"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Futbol antrenörünün portre çekimi açık alanda yapılmış.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "futbol",
+     "spor",
+     "teknik direktör"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      75,
+      350,
+      570,
+      595
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0e345d624c1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki teknik direktör Jens Keller'dir, haberin öznesi Alex de Souza değildir.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T08:27:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ab0fddcc1db7374c",
+    "sha": "1dd905d699c4db5b0c676fc4"
+   },
+   "t": "2026-11-12T08:27:51+03:00",
+   "teknik": {
+    "doygunluk": 32.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.133,
+    "keskinlik": 884,
+    "kontrast": 52,
+    "medyan": 88,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jens_Keller%2C_Union_Berlin_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "0cca4562bea19490": {
    "ozet": {
     "dh": "8ba38f0d8bdeddd0",
@@ -6058,11 +6154,84 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/TopkapiMuseumTicket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "0f77299e1ed1db02": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "futbol formasi",
+     "futbolcu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Futbol sahasinda Fenerbahce formasiyla gol sevinci yasayan futbolcu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "futbol transfer haberi",
+     "oyuncu profili"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "magazin haberi",
+     "saglik haberi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      169,
+      563,
+      442,
+      690
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0e345d624c1e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana ozne gorunuyor ancak yasakli Fenerbahce formasi giydigi icin gorselde olmamali kuraliyla celisiyor.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": false
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "Fenerbahçe forması"
+      ]
+     },
+     "t": "2026-11-12T08:27:24+03:00"
+    }
+   },
    "ozet": {
     "dh": "4c36160f0d1c9a9c",
     "sha": "4e44cf18fb5b21c69835ae8d"
    },
-   "t": "2026-11-12T04:28:38+03:00",
+   "t": "2026-11-12T08:27:28+03:00",
    "teknik": {
     "doygunluk": 37.4,
     "inen": [
@@ -6571,11 +6740,75 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_060525-N-3888C-001_A_Sailor_assigned_to_the_guided-missile_frigate_USS_Nicholas_%28FFG_47%29_stands_a_security_watch_during_exercise_Anatolian_Sun%2C_while_moored_in_Anatalya%2C_Turkey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "11096c90e2e336f6": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plaket",
+     "yazi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Duvara monte edilmis mavi renkli hatira plaketi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "spor tarihi",
+     "futbol kulubu muzesi",
+     "oyuncu kariyeri"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel transfer haberi",
+     "mac ozeti",
+     "ekonomi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0e345d624c1e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf bir hatira plaketini gosteriyor; teknik faktorler ve ana ozne eksik oldugundan yeni takim anlasmasi haberi icin uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": false
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T08:27:24+03:00"
+    }
+   },
    "ozet": {
     "dh": "8c8e8e8c84849484",
     "sha": "bd797ddad6e17c80d4a7b1d7"
    },
-   "t": "2026-11-12T04:28:38+03:00",
+   "t": "2026-11-12T08:27:28+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -13032,6 +13265,43 @@
     ]
    },
    "iliski": {
+    "r1:0e345d624c1e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Fenerbahçe forması giymektedir, oysa haberde yasaklı unsurlar arasında Fenerbahçe forması yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": false
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       126,
+       1000,
+       796
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "Fenerbahçe forması"
+      ]
+     },
+     "t": "2026-11-12T08:27:28+03:00"
+    },
     "r1:5fb4bef334e1:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -13071,7 +13341,7 @@
     "dh": "58989dcde1b3364f",
     "sha": "992d9cf0ca54601d111cd20e"
    },
-   "t": "2026-11-12T04:28:53+03:00",
+   "t": "2026-11-12T08:27:28+03:00",
    "teknik": {
     "doygunluk": 35.0,
     "inen": [
@@ -26766,6 +27036,43 @@
     ]
    },
    "iliski": {
+    "r1:0e345d624c1e:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Fenerbahçe forması giyilmektedir ve yasaklı unsurlara uymamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": false
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       257,
+       276,
+       888,
+       620
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": [
+       "Fenerbahçe forması"
+      ]
+     },
+     "t": "2026-11-12T08:27:28+03:00"
+    },
     "r1:5fb4bef334e1:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -26805,7 +27112,7 @@
     "dh": "41011114111e8c11",
     "sha": "5485e71411302a2d8d2269ed"
    },
-   "t": "2026-11-12T04:28:53+03:00",
+   "t": "2026-11-12T08:27:28+03:00",
    "teknik": {
     "doygunluk": 52.8,
     "inen": [
@@ -56766,6 +57073,105 @@
    },
    "url": "https://images.unsplash.com/photo-1624280157150-4d1ed8632989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c29jY2VyJTIwc3RyaWtlciUyMGtpY2tpbmclMjBiYWxsfGVufDF8MHx8fDE3OTQzNDg0ODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "862aa521ec8d21b8": {
+   "icerik": {
+    "ana_kutu": [
+     130,
+     0,
+     1000,
+     640
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "tel örgü",
+     "imza kalemi",
+     "forma",
+     "dergi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir teknik direktör tel örgü arkasındaki taraftarlara imza dağıtıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "futbol",
+     "spor haberleri",
+     "imza töreni"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      130,
+      0,
+      640,
+      308
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0e345d624c1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişi haberin ana öznesi Alex de Souza değildir, başka bir teknik direktördür.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T08:27:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5161614111a76d4d",
+    "sha": "52a0518303310055e84a6f14"
+   },
+   "t": "2026-11-12T08:27:51+03:00",
+   "teknik": {
+    "doygunluk": 25.0,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.186,
+    "keskinlik": 1140,
+    "kontrast": 62,
+    "medyan": 95,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg/1280px-J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8637a36b951cee1f": {
    "icerik": {
     "ana_kutu": [
@@ -74114,6 +74520,41 @@
     ]
    },
    "iliski": {
+    "r1:0e345d624c1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili olarak bir teknik direktör ve futbol sahası gösterilmektedir ancak ana özne Alex de Souza değildir.",
+      "gerekli": [
+       {
+        "unsur": "teknik direktör",
+        "var": true
+       },
+       {
+        "unsur": "futbol sahası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       345,
+       835,
+       605
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T08:27:51+03:00"
+    },
     "r1:5fb4bef334e1:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -74150,7 +74591,7 @@
     "dh": "04247152d4d01507",
     "sha": "3a7027e93701af4cbd8fecd7"
    },
-   "t": "2026-11-12T04:29:04+03:00",
+   "t": "2026-11-12T08:27:51+03:00",
    "teknik": {
     "doygunluk": 36.0,
     "inen": [
