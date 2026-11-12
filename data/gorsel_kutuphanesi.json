@@ -17315,6 +17315,30 @@
      },
      "t": "2026-11-09T19:07:04+03:00"
     },
+    "r1:b29d43268e0b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Liman ve kruvaziyer gemisi görüntüsü, zanaat kültürü ve tarih belgeseli konusuyla alakasız.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık"
+      ]
+     },
+     "t": "2026-11-12T03:57:15+03:00"
+    },
     "r1:b51ba2d3c7bd:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -17488,34 +17512,13 @@
       "yasak": []
      },
      "t": "2026-11-08T18:03:22+03:00"
-    },
-    "r1:fe4d0e29c7cc:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya limanındaki gemiyi gösteren bu fotoğraf akaryakıt zammı haberiyle ilgisizdir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:36:27+03:00"
     }
    },
    "ozet": {
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-12T00:10:33+03:00",
+   "t": "2026-11-12T03:57:15+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -25278,6 +25281,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sunny_weather_condition.jpg/1280px-Sunny_weather_condition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3cc34cb9a07161db": {
+   "icerik": {
+    "ana_kutu": [
+     116,
+     311,
+     706,
+     545
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "futbol topu",
+     "çim saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çim sahada futbol oynayan çocuklar.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "futbol",
+     "spor haberi",
+     "çocuk ligi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      126,
+      401,
+      706,
+      545
+     ],
+     [
+      140,
+      568,
+      750,
+      799
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d46a52fcc3f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Amatör futbol maçını temsil eden uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       311,
+       750,
+       953
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:56:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "691adc9a9b982880",
+    "sha": "2f50d5b9d50c6d458aaebf86"
+   },
+   "t": "2026-11-12T03:56:08+03:00",
+   "teknik": {
+    "doygunluk": 42.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.047,
+    "keskinlik": 1722,
+    "kontrast": 45,
+    "medyan": 126,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/KLEB5249_%2817727352639%29.jpg/1280px-KLEB5249_%2817727352639%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3cc8902dd5e06882": {
    "icerik": {
     "ana_kutu": [
@@ -30019,6 +30126,117 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg/1280px-Parque_Nacional_Marinho_de_Fernando_de_Noronha_-_Jo%C3%A3o_Paulo_Marques_DAndretta_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "48c60abd57deb967": {
+   "icerik": {
+    "ana_kutu": [
+     152,
+     23,
+     824,
+     185
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "futbol topu",
+     "çim saha",
+     "tel örgü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda futbol oynayan kız çocukları ve futbol topu.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "futbol",
+     "spor haberi",
+     "çocuk sporcular"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "disiplin kurulu kararı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      152,
+      69,
+      276,
+      155
+     ],
+     [
+      182,
+      332,
+      737,
+      487
+     ],
+     [
+      228,
+      642,
+      799,
+      843
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d46a52fcc3f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan futbol maçını temsil eder ancak yerel disiplin kararlarıyla doğrudan ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       152,
+       23,
+       824,
+       866
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:56:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6b272424252d3717",
+    "sha": "d312b6bd5cd3b4f5c861c08e"
+   },
+   "t": "2026-11-12T03:56:08+03:00",
+   "teknik": {
+    "doygunluk": 62.1,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.214,
+    "keskinlik": 3728,
+    "kontrast": 65,
+    "medyan": 144,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Soccer-parks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "490903ffba77c3b9": {
    "icerik": {
@@ -49212,6 +49430,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7c335df82d4b3ac0": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     0,
+     715,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuğla ev",
+     "stadyum çatısı",
+     "iskele"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tuğla evlerin arkasından görünen stadyum çatısı ve inşaat iskelesi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "disiplin kurulu",
+     "futbol maçı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d46a52fcc3f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İnşaat yapısı gösterdiği için futbol disiplin kararları haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:56:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b93c7ae05210ce70",
+    "sha": "8922bd76d9f0cfeef4eb6af1"
+   },
+   "t": "2026-11-12T03:56:08+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.224,
+    "keskinlik": 1600,
+    "kontrast": 66,
+    "medyan": 142,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_redevelopment_of_Lansdowne_Road_Stadium_%283776769928%29.jpg/1280px-The_redevelopment_of_Lansdowne_Road_Stadium_%283776769928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7c75ba333e4c6837": {
    "icerik": {
     "ana_kutu": [
@@ -56356,6 +56659,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Alanya_Castle_14.JPG/1280px-Alanya_Castle_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8a82379d5037e86d": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     786,
+     686,
+     884
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "futbol kalesi",
+     "futbol topu",
+     "otel binası",
+     "çim saha"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Otel bahçesindeki mini sahada futbol oynayan kişiler ve arka planda otel binası.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tatil",
+     "otel",
+     "amatör futbol"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi kurum",
+     "disiplin kurulu",
+     "profesyonel lig"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d46a52fcc3f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Tatil yeri görünümü taşıdığı ve resmi bir disiplin haberi için uygun olmadığı için.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:56:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07c9cf4d0d070f0f",
+    "sha": "7010a36724acde95d05d2ebf"
+   },
+   "t": "2026-11-12T03:56:08+03:00",
+   "teknik": {
+    "doygunluk": 33.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.033,
+    "keskinlik": 1666,
+    "kontrast": 40,
+    "medyan": 142,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Footballturk.JPG/1280px-Footballturk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8a87cec6884b19bd": {
    "t": "2026-11-08T14:42:15+03:00",
@@ -69991,6 +70382,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hammonasset_rendering_of_the_new_West_Beach_building_%2817784027628%29.jpg/1280px-Hammonasset_rendering_of_the_new_West_Beach_building_%2817784027628%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ad7327877c5f074f": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tel örgü",
+     "merdiven",
+     "tuğla duvar",
+     "ahşap kapı",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tel örgü arkasında hasar görmüş eski tuğla bina ve merdivenler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "restorasyon",
+     "deprem",
+     "tarihi binalar"
+    ],
+    "uygunsuz_baglamlar": [
+     "modern mimari",
+     "yeni bina tanitimi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0ce98c87fe60:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina eski, hasarlı ve yasaklanan unsurlar içeriyor; modern genel merkez haberiyle tamamen çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "modern ofis binası",
+        "var": false
+       },
+       {
+        "unsur": "taş ve alüminyum cephe",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina",
+       "yıkım alanı"
+      ]
+     },
+     "t": "2026-11-12T03:57:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "be909864447165d2",
+    "sha": "a12303b0458066a9714290ee"
+   },
+   "t": "2026-11-12T03:57:03+03:00",
+   "teknik": {
+    "doygunluk": 29.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 4969,
+    "kontrast": 56,
+    "medyan": 120,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Damaged_United_States_Post_Office_%28Napa%2C_California%29_in_2019.jpg/1280px-Damaged_United_States_Post_Office_%28Napa%2C_California%29_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "adfb93d055724a77": {
    "icerik": {
     "ana_kutu": [
@@ -72586,6 +73072,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sandy_pickle_sand_pickleball.jpg/1280px-Sandy_pickle_sand_pickleball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b385212a9cfb481e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina cephesi",
+     "pencere",
+     "taş kaplama",
+     "alüminyum çerçeve"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern ofis binasının taş ve alüminyum cephe detayı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlik",
+     "ofis binaları",
+     "şehir planlama"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0ce98c87fe60:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern ofis binasının cephe detayı haberin konusunu temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "modern ofis binası",
+        "var": true
+       },
+       {
+        "unsur": "taş ve alüminyum cephe",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:57:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b52dcb9264c91366",
+    "sha": "af12a586fec5b01b3f7a0f06"
+   },
+   "t": "2026-11-12T03:57:03+03:00",
+   "teknik": {
+    "doygunluk": 10.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 4285,
+    "kontrast": 47,
+    "medyan": 130,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b3a25454a13bb584": {
    "icerik": {
@@ -88214,6 +88797,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Turkish_coffee._Getting_lots_of_it._Very_strong..jpg/1280px-Turkish_coffee._Getting_lots_of_it._Very_strong..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "dc80768d94c505e8": {
+   "icerik": {
+    "ana_kutu": [
+     308,
+     403,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "cam pencereler",
+     "gökyüzü",
+     "çatı yapısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern cam ve taş cepheli ofis binasının üst kısmı ve gökyüzü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mimarlik",
+     "is dünyası",
+     "gayrimenkul"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0ce98c87fe60:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern ofis binasını çok iyi temsil eden mimari bir kare.",
+      "gerekli": [
+       {
+        "unsur": "modern ofis binası",
+        "var": true
+       },
+       {
+        "unsur": "taş ve alüminyum cephe",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       308,
+       403,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:57:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f0c9f0b0b9b8b8b9",
+    "sha": "104ca9d1b4da03653b24e344"
+   },
+   "t": "2026-11-12T03:57:03+03:00",
+   "teknik": {
+    "doygunluk": 29.8,
+    "inen": [
+     400,
+     202
+    ],
+    "karanlik_oran": 0.115,
+    "keskinlik": 813,
+    "kontrast": 72,
+    "medyan": 208,
+    "parlaklik": 169,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1674981208693-de5a9c4c4f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwb2ZmaWNlJTIwYnVpbGRpbmclMjBmYWNhZGV8ZW58MXwwfHx8MTc5NDQ0NDk5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "dc9f3545da9d8d9f": {
    "icerik": {
     "ana_kutu": [
@@ -93431,6 +94111,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NTU_Agricultural_Exhibition_Hall.JPG/1280px-NTU_Agricultural_Exhibition_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e80093c96f552464": {
+   "ozet": {
+    "dh": "86a5a3c71a5dd527",
+    "sha": "5a568def08a71b4156704b4c"
+   },
+   "t": "2026-11-12T03:56:42+03:00",
+   "teknik": {
+    "doygunluk": 13.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.524,
+    "keskinlik": 1429,
+    "kontrast": 53,
+    "medyan": 48,
+    "parlaklik": 70,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/M%C3%BCnster%2C_Westdeutsche_Lotterie_--_2018_--_0417.jpg/1280px-M%C3%BCnster%2C_Westdeutsche_Lotterie_--_2018_--_0417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e807e665e6ad9fc1": {
    "icerik": {
     "ana_kutu": [
@@ -95587,13 +96288,42 @@
       "yasak": []
      },
      "t": "2026-11-11T16:53:03+03:00"
+    },
+    "r1:b29d43268e0b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın tarihi dokusunu ve belediye korumasındaki geleneksel mimariyi gösterdiği için belgesel konusuna uygun.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık"
+      ]
+     },
+     "t": "2026-11-12T03:57:15+03:00"
     }
    },
    "ozet": {
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-11T16:53:03+03:00",
+   "t": "2026-11-12T03:57:15+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -98124,13 +98854,42 @@
       "yasak": []
      },
      "t": "2026-11-11T16:53:03+03:00"
+    },
+    "r1:b29d43268e0b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyenin park tesisi görünüyor ancak belgesel veya zanaat/terzi içeriğini doğrudan yansıtmıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık"
+      ]
+     },
+     "t": "2026-11-12T03:57:15+03:00"
     }
    },
    "ozet": {
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-11T16:53:03+03:00",
+   "t": "2026-11-12T03:57:15+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -102724,6 +103483,92 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1583356230266-ded7f2524fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBiYWJ5JTIwYmxhbmtldCUyMHRveXxlbnwxfDB8fHwxNzk0MTQwMjAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "fbfe5790cc4253e8": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     656,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "stadyum inşaatı",
+     "vinç",
+     "beton merdiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İnşaat halindeki modern stadyum yapısı ve vinc.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "stadyum inşaatı",
+     "spor tesisleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "disiplin kararları",
+     "futbol maçı",
+     "amatör lig"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d46a52fcc3f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Stadyum inşaatı gösterdiği için disiplin kararları haberiyle alakasız.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T03:56:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c70f3c79f0b14c70",
+    "sha": "caa0e8647bb666b323a7b680"
+   },
+   "t": "2026-11-12T03:56:08+03:00",
+   "teknik": {
+    "doygunluk": 15.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.194,
+    "keskinlik": 1965,
+    "kontrast": 58,
+    "medyan": 136,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_redevelopment_of_Lansdowne_Road_Stadium_%283776749810%29.jpg/1280px-The_redevelopment_of_Lansdowne_Road_Stadium_%283776749810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fc163448004ccd20": {
    "icerik": {
@@ -110879,6 +111724,69 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "b385212a9cfb481e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5915,
+    3943
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Modern ofis binasının taş ve alüminyum cephe detayı",
+   "gosterim_ad": "genel merkez binası",
+   "ilk_kabul": "2026-11-12T03:57:03+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Maksim Sokolov (maxergon.com)",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Windows_of_the_Frost_Building_(Toronto,_Canada).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "alüminyum çerçeve",
+    "bina cephesi",
+    "modern ofis binası",
+    "pencere",
+    "taş kaplama",
+    "taş ve alüminyum cephe"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/500px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "mimarlik",
+    "ofis binaları",
+    "şehir planlama"
+   ],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin",
+    "siyaset"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-12T03:57:03+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
