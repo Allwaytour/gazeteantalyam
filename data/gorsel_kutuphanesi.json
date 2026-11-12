@@ -11325,6 +11325,40 @@
      },
      "t": "2026-11-08T12:10:49+03:00"
     },
+    "r1:9a6d2fe675d0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi sokak görünümüdür, etkinlik veya rögar kapakları görülmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "rögar kapağı",
+        "var": false
+       },
+       {
+        "unsur": "boya fırçası",
+        "var": false
+       },
+       {
+        "unsur": "tarihi sokak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T12:58:07+03:00"
+    },
     "r1:d99f94fa0d67:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -11364,7 +11398,7 @@
     "dh": "361232121a0e293b",
     "sha": "cebd73e45ba4d79a063137e8"
    },
-   "t": "2026-11-09T19:05:37+03:00",
+   "t": "2026-11-12T12:58:07+03:00",
    "teknik": {
     "doygunluk": 28.1,
     "inen": [
@@ -33039,6 +33073,40 @@
      },
      "t": "2026-11-08T12:10:49+03:00"
     },
+    "r1:9a6d2fe675d0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta tarım aleti (harman döveni parçası) görülmektedir, haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "rögar kapağı",
+        "var": false
+       },
+       {
+        "unsur": "boya fırçası",
+        "var": false
+       },
+       {
+        "unsur": "tarihi sokak",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T12:58:07+03:00"
+    },
     "r1:d99f94fa0d67:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -33065,7 +33133,7 @@
     "dh": "78cc562a8dce0733",
     "sha": "fd5dc40921e0097f68a9bdc6"
    },
-   "t": "2026-11-09T19:05:37+03:00",
+   "t": "2026-11-12T12:58:07+03:00",
    "teknik": {
     "doygunluk": 23.6,
     "inen": [
@@ -82526,6 +82594,40 @@
      },
      "t": "2026-11-08T12:10:49+03:00"
     },
+    "r1:9a6d2fe675d0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi sokak görünümü vardır ancak rögar boyama etkinliği yer almamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "rögar kapağı",
+        "var": false
+       },
+       {
+        "unsur": "boya fırçası",
+        "var": false
+       },
+       {
+        "unsur": "tarihi sokak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T12:58:07+03:00"
+    },
     "r1:d99f94fa0d67:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -82565,7 +82667,7 @@
     "dh": "278bcddd71737bb7",
     "sha": "91c4a43196d8a4a665ab7cc7"
    },
-   "t": "2026-11-09T19:05:37+03:00",
+   "t": "2026-11-12T12:58:07+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -85493,6 +85595,40 @@
      },
      "t": "2026-11-08T12:10:49+03:00"
     },
+    "r1:9a6d2fe675d0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotoğrafta tramvay ve işletmeler yer almaktadır, haberin konusuyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "rögar kapağı",
+        "var": false
+       },
+       {
+        "unsur": "boya fırçası",
+        "var": false
+       },
+       {
+        "unsur": "tarihi sokak",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T12:58:07+03:00"
+    },
     "r1:d99f94fa0d67:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -85532,7 +85668,7 @@
     "dh": "2c585858bc12c347",
     "sha": "f38cf8254fde987e191732ef"
    },
-   "t": "2026-11-09T19:05:37+03:00",
+   "t": "2026-11-12T12:58:07+03:00",
    "teknik": {
     "doygunluk": 28.5,
     "inen": [
@@ -104485,6 +104621,121 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2022_Suhua_Highway_Improvement_Project_i.jpg/1280px-2022_Suhua_Highway_Improvement_Project_i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f5360ad8eb3607d1": {
+   "icerik": {
+    "ana_kutu": [
+     226,
+     85,
+     951,
+     591
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "boya paleti",
+     "fırça",
+     "rögar kapağı",
+     "gözlük",
+     "sırt çantası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaleiçi'nde çocuk ve kadın rögar kapağı boyama etkinliği gerçekleştiriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel etkinlik",
+     "sanat haberi",
+     "çocuk aktiviteleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      563,
+      298,
+      731
+     ],
+     [
+      225,
+      185,
+      497,
+      342
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:9a6d2fe675d0:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki rögar kapağı boyama etkinliğini ve gerekli unsurları tam olarak yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "rögar kapağı",
+        "var": true
+       },
+       {
+        "unsur": "boya fırçası",
+        "var": true
+       },
+       {
+        "unsur": "tarihi sokak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       226,
+       85,
+       951,
+       591
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-12T12:58:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "991d5cccc48dcedc",
+    "sha": "5b60b1962011e43fc6f2268e"
+   },
+   "t": "2026-11-12T12:58:07+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.109,
+    "keskinlik": 903,
+    "kontrast": 59,
+    "medyan": 128,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "/images/kurum/4e13f98e4b15430a.jpg"
+  },
   "f545eea18b2ad7f3": {
    "icerik": {
     "ana_kutu": [
@@ -118656,6 +118907,75 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "f5360ad8eb3607d1": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kaleiçi'nde çocuk ve kadın rögar kapağı boyama etkinliği gerçekleştiriyor.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-12T12:58:07+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/buyuksehir-belediyesinin-cop31-sehir-etkinlikleri-suruyor"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "boya fırçası",
+    "boya paleti",
+    "fırça",
+    "gözlük",
+    "rögar kapağı",
+    "sırt çantası",
+    "tarihi sokak"
+   ],
+   "kucuk": "/images/kurum/4e13f98e4b15430a.jpg",
+   "kullanilabilir": [
+    "yerel etkinlik",
+    "sanat haberi",
+    "çocuk aktiviteleri"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "magazin",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-12T12:58:07+03:00",
+   "url": "/images/kurum/4e13f98e4b15430a.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "f58cececdacc8e78": {
    "alt_tur": "nesne",
