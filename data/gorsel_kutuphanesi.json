@@ -8850,6 +8850,41 @@
      },
      "t": "2026-11-07T23:57:58+03:00"
     },
+    "r1:a24207de997b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber plaj voleyboluyla degil salon voleyboluyla ilgili oldugundan gorsel tam uyumlu degil.",
+      "gerekli": [
+       {
+        "unsur": "kadın voleybol takımı",
+        "var": false
+       },
+       {
+        "unsur": "voleybol maçı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       445,
+       137,
+       577,
+       185
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:58:01+03:00"
+    },
     "r1:d76e42a35633:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8912,7 +8947,7 @@
     "dh": "c4962429176786d6",
     "sha": "20b950269bc440cb150e4cce"
    },
-   "t": "2026-11-09T18:36:06+03:00",
+   "t": "2026-11-13T06:58:01+03:00",
    "teknik": {
     "doygunluk": 38.6,
     "inen": [
@@ -28032,6 +28067,41 @@
      },
      "t": "2026-11-07T23:57:34+03:00"
     },
+    "r1:a24207de997b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Salon voleybolu haberi icin plaj voleybolu topu ve kumsal temasi yalnistir.",
+      "gerekli": [
+       {
+        "unsur": "kadın voleybol takımı",
+        "var": false
+       },
+       {
+        "unsur": "voleybol maçı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       430,
+       360,
+       804,
+       610
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:58:01+03:00"
+    },
     "r1:d76e42a35633:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -28107,7 +28177,7 @@
     "dh": "0e8ca68d0933990e",
     "sha": "44aebd76279d64c65ede6a72"
    },
-   "t": "2026-11-09T18:36:06+03:00",
+   "t": "2026-11-13T06:58:01+03:00",
    "teknik": {
     "doygunluk": 39.1,
     "inen": [
@@ -35572,13 +35642,48 @@
       "yasak": []
      },
      "t": "2026-11-09T13:20:13+03:00"
+    },
+    "r1:a24207de997b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Salon lig maci haberi icin plaj siluetleri temsili olarak zayif kalmaktadir.",
+      "gerekli": [
+       {
+        "unsur": "kadın voleybol takımı",
+        "var": false
+       },
+       {
+        "unsur": "voleybol maçı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       344,
+       882,
+       449
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:58:01+03:00"
     }
    },
    "ozet": {
     "dh": "ff7f37ee67655d57",
     "sha": "71deaf67432eb53aca1c7083"
    },
-   "t": "2026-11-09T18:36:06+03:00",
+   "t": "2026-11-13T06:58:01+03:00",
    "teknik": {
     "doygunluk": 26.6,
     "inen": [
