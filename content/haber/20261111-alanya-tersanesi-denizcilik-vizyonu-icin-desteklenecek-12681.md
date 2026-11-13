@@ -73,6 +73,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/88/Eastern_Walls_of_Alanya_Castle.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Alaaddin Keykubat Üniversitesi ev sahipliğinde gerçekleştirilen Gelecek Vizyonu Toplantısı'na katılan Yükseköğretim Kurulu Başkanı Erol Özvar, üniversitenin denizcilik alanında ihtisaslaşma hedefini destekleyeceklerini açıkladı. Alev Alatlı Konferans Salonu'ndaki programa üniversite rektörünün yanı sıra ilçe protokolü, kulüp başkanı, akademisyenler ve öğrenciler katılım sağladı.
 

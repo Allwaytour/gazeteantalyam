@@ -73,6 +73,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/d/de/Kemer_beach%2C_Antalya.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
 ---
 ÇEKVA Antalya Şubesi tarafından organize edilen geleneksel konaklamalı hemşehri buluşması, Kemer'deki Bona Dea Oteli'nde yapıldı. Etkinlikte bir araya gelen Çorumlular, uzun süre özlem giderirken düzenlenen müzikli gala gecesinde keyifli anlar yaşadı.
 

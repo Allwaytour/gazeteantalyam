@@ -148,6 +148,9 @@ gorsel_yerlesim:
   o_yan_m: 50% 100%
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Havalimanı'nda hareketli anlar yaşandı. Freebird Airlines Europe bünyesinde yer alan Airbus A320 tipi yolcu uçağında, park pozisyonundan geri itilme (pushback) işlemi yapıldığı sırada teknik bir aksaklık meydana geldi. Uçağın ön iniş takımı dikmesinde kırılma tespit edilmesi üzerine operasyon derhal durduruldu.
 

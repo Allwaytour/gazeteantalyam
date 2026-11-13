@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Yeni Parti Antalya İl Yönetim Kurulu, İl Başkanı Gökhan Ölmez'in liderliğinde bir araya gelerek yeni döneme ilişkin görev dağılımını netleştirdi. Gerçekleştirilen toplantıda il yönetiminde görev alacak isimlerin yanı sıra, parti teşkilatının farklı alanlardaki faaliyetlerini yürütecek başkan yardımcılarının sorumluluk alanları da belirlendi.
 

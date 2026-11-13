@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+- https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Büyükşehir Belediyesi, hayata geçirdiği Dijital Tarım Projesi çerçevesinde tarımsal üretimde verimliliği artırmayı ve teknolojinin kullanımını yaygınlaştırmayı hedefliyor. Bu kapsamda Kumluca ilçesinde seracılık faaliyetleriyle uğraşan üreticilere yönelik destek çalışması gerçekleştirildi.
 

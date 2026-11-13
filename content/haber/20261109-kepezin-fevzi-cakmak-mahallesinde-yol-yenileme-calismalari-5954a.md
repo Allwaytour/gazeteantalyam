@@ -71,6 +71,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
 ---
 Kepez Belediyesi, ilçedeki 68 mahallede ulaşım ağını daha güvenli ve konforlu hale getirmek amacıyla yürüttüğü çalışmalara devam ediyor. Bu kapsamda, kentsel dönüşüm ve altyapı faaliyetleri sebebiyle yıpranan Fevzi Çakmak Mahallesi'nde yol yenileme çalışmalarının ikinci etabı hayata geçirildi. Daha önce yaz aylarında tamamlanan ilk etabın ardından, mahalle içi ara sokaklarda yeni bir çalışma programı uygulanmaya başlandı.
 

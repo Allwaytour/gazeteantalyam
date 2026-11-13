@@ -146,6 +146,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Eğitim ve Bilim Emekçileri Sendikası (Eğitim Sen), Antalya Valiliği tarafından COP31 Liderler Zirvesi gerekçesiyle 11-12 Kasım tarihlerinde 7 ilçede yüz yüze eğitime ara verilerek uzaktan eğitime geçilmesi yönündeki karara tepki gösterdi. Sendika, uluslararası organizasyonlar bahane edilerek eğitim hakkının sınırlandırılmasının ve emekçi haklarının ihlal edilmesinin kabul edilemez olduğunu belirtti.
 

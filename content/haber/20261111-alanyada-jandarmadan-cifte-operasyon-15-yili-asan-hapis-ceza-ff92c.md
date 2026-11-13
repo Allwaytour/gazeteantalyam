@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/21/Jandarma_vehicle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Alanya ilçesinde güvenlik güçlerinin aranan şahıslara yönelik yürüttüğü çalışmalar hız kesmeden devam ediyor. Bu kapsamda Alanya İlçe Jandarma Komutanlığı ekipleri, haklarında kesinleşmiş hapis cezası bulunarak firari olarak aranan iki kişinin saklandığı adresleri belirlemek üzere titiz bir çalışma yürüttü.
 

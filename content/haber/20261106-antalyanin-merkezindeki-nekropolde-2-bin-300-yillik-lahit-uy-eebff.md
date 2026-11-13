@@ -103,6 +103,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 56% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın en hareketli noktalarından biri olan Doğu Garajı'nda, modern şehir yaşamının hemen altında yaklaşık 2 bin 300 yıllık bir tarih yer alıyor. Alışveriş merkezleri ve kalabalık caddelerin arasında konumlanan Antalya Nekropol Müzesi, geçmişi milattan önce 4. yüzyılın sonlarına kadar uzanan mezarlarıyla kentin en şaşırtıcı mirasları arasında bulunuyor. Kentin bilinen kuruluş tarihinden daha eski olduğu anlaşılan bu alan, bölgede çok daha öncesinde de yerleşim bulunduğunu ortaya koyuyor.
 

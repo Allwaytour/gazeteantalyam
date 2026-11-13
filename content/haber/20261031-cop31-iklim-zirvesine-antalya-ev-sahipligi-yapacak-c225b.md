@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart: 0% 50%
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31'e ev sahipliği yapacağını ve zirvenin Antalya'da düzenleneceğini duyurdu. Gerçekleştirilecek buluşmada dünyanın dört bir yanından devlet başkanları, uluslararası kuruluşlar, bilim insanları, iş dünyası ve sivil toplum temsilcilerinin bir araya geleceğini belirten Kurum, iklim, çevre, enerji ve insanlığın ortak geleceğinin bu toplantıda ele alınacağını ifade etti.
 

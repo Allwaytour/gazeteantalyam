@@ -77,6 +77,8 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
 ---
 Alanya'da toplumsal organizasyonlara ev sahipliği yapan Kestel Düğün Salonu hakkında önemli bir karar hayata geçirildi. Alanya Cumhuriyet Başsavcılığı'nın talebini değerlendiren Alanya Belediye Meclisi, yaklaşık üç dönüm büyüklüğündeki tesisin üst katının yeni bir amaç doğrultusunda değerlendirilmesini kararlaştırdı. Belediye meclisinin olağan toplantısında gündeme gelen teklif, tüm siyasi parti gruplarının ortak desteğiyle oy birliğiyle kabul edildi.
 

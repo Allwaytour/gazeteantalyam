@@ -65,6 +65,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 ---
 Antalya'nın Muratpaşa ilçesinde yaşanan olayda, Konuksever Mahallesi 814 sokakta ikamet eden Sevda E., evinde beslediği kedisinin ortalıkta olmadığını fark etti. Bir süre boyunca hayvanı bulamayan ve endişeye kapılan ev sahibi, durumu 112 Acil Çağrı Merkezi'ne aktararak yardım talebinde bulundu.
 

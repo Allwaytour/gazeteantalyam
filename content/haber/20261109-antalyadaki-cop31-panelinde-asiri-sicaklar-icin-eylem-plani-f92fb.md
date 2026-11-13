@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Sağlık Bakanı Kemal Memişoğlu, Antalya'da gerçekleştirilen COP31 kapsamında "Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri" başlıklı panelde konuştu. İklim krizinin insanlığı ve canlı yaşamını tehdit ettiğini belirten Memişoğlu, krizin önlenmemesi durumunda salgın hastalıkların ve büyük risklerin ortaya çıkabileceğine dikkat çekti.
 

@@ -73,6 +73,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 ---
 Alanya, kasım ayı boyunca ev sahipliği yapacağı ulusal ve yerel spor organizasyonlarına hazırlanıyor. Kentte sporun huzur ve güven ortamında sürmesi amacıyla düzenlenen İlçe Spor Güvenlik Kurulu Toplantısı, Kaymakam Şakir Öner Öztürk başkanlığında gerçekleştirildi. İlgili kurum ve kuruluş temsilcilerinin katıldığı toplantıda, sporcuların, teknik ekiplerin ve taraftarların güvenliği için atılacak adımlar detaylıca ele alındı.
 

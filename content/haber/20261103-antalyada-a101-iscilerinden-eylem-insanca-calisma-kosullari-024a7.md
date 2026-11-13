@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578916171728-46686eac8d58?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1670684684445-a4504dca0bbc?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da zincir market mağazalarında görev yapan çalışanlar, su, yemek ve dinlenme haklarının ihlal edildiği iddiasıyla alanlara çıktı. Türkiye genelinde gerçekleştirilen eş zamanlı eylemler kapsamında Antalya'da da mağaza önünde bir araya gelen işçiler, insanca çalışma koşulları sağlanması yönünde talepte bulundu.
 

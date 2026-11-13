@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 40% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/1280px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 ---
 Antalya'nın Alanya ilçesinde sabah saatlerinde D-400 kara yolunda kaydedilen görüntüler trafikte endişe yarattı. Konaklı yönünden Alanya istikametine ilerleyen iki motosiklet sürücüsü, akan trafikte motosiklet üzerinde tehlikeli akrobasi hareketleri sergiledi. Çevredeki bir vatandaş tarafından cep telefonu kamerasıyla kayıt altına alınan bu anlar, hem sürücülerin kendi hayatlarını hem de diğer yol kullanıcılarının güvenliğini hiçe saydıklarını gözler önüne serdi.
 

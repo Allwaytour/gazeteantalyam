@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilmesi planlanan uluslararası iklim zirvesi COP31'e yönelik hazırlıklar ve beklentiler sürerken, kentte önemli değerlendirmeler yapıldı. Antalya Milletvekili Aykut Kaya, bu büyük organizasyonun kentte düzenlenecek olmasının önemine değinerek, zirvenin sadece bir buluşma noktası olmaktan çıkarılması gerektiğini vurguladı. Alınacak kararların ve varılacak mutabakatların sahada karşılık bulmasının büyük bir zorunluluk olduğuna işaret edildi.
 

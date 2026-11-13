@@ -69,6 +69,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya inşaat sektörünü yakından ilgilendiren yapı denetim bölgeleme sisteminde yeni bir düzenlemeye gidildi. Antalya İnşaat Müteahhitleri Derneği'nin yaklaşık üç yıldır ilgili bakanlıklar nezdinde sürdürdüğü girişimler ve görüşmeler sonuç verdi. Konuya ilişkin tebliğ Resmî Gazete'de yayımlanarak yürürlük tarihi duyuruldu.
 

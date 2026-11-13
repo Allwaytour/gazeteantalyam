@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1514306191717-452ec28c7814?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1562329265-95a6d7a83440?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080
+- https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'nın kültürel değerleri arasında yer alan Dağ Padişahı masalı, tiyatro sahnesi aracılığıyla minik izleyicilerle bir araya geldi. Alanya Belediyesi'nin hayata geçirdiği kültür projesi doğrultusunda, Alanya Belediye Tiyatrosu ekibi söz konusu eseri kırsal bölgelerdeki okullarda eğitim gören öğrenciler için sahneye koydu.
 

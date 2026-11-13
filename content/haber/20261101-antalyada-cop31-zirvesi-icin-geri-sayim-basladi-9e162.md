@@ -65,6 +65,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ev sahipliği yapmaya hazırlanan Antalya'da büyük buluşma için geri sayım sürerken kentteki hazırlıklar ve etkinlikler hız kazandı. Küresel iklim mücadelesinin en kritik platformları arasında yer alan zirvenin başlamasına bir hafta kala, heyecanı artıran etkileyici bir görsel etkinlik gerçekleştirildi.
 

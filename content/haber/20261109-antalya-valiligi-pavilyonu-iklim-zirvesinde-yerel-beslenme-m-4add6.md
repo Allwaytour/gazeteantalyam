@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Valiliği Pavilyonu, Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında gıda, tarım ve sağlık alanlarına odaklanan çeşitli etkinliklere ev sahipliği yaptı. Bu çerçevede düzenlenen Topraktan Sofraya: Sağlıklı ve Dirençli Antalya temalı programın açılışına Antalya Valisi Hulusi Şahin, Antalya Mavi Akdeniz İnisiyatifi Proje Koordinatörü Ebru Şahin ile çok sayıda akademisyen ve ziyaretçi katılım sağladı.
 

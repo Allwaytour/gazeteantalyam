@@ -67,6 +67,10 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 baslik_ozgun: Antalya kirsalinda kis öncesi yol bakim çalismalari sürüyor
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 ---
 Antalya Büyükşehir Belediyesi Yol Yapım, Bakım ve Onarım Dairesi Başkanlığı ekipleri, yaklaşan kış mevsimi öncesinde kırsal mahallelerdeki ulaşım ağını daha güvenli hale getirmek amacıyla çalışmalarını aralıksız sürdürüyor.
 

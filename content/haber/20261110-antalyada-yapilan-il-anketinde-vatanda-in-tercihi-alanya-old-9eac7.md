@@ -69,6 +69,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye'de il sayısının 100'î çıkarılmasına yönelik çalışmalar gündemdeki yerini korurken, kent merkezinde gerçekleştirilen bir kamuoyu yoklaması dikkat çekici sonuçlar ortaya koydu. Yapılan sokak röportajlarında Antalyalılar, il statüsüne en çok layık gördüğü ilçenin Alanya olduğunu belirtti.
 

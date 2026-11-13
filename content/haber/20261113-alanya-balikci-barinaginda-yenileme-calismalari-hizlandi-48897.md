@@ -74,6 +74,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1627862079351-7bcdcba0c1f1?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1545214766-04116e13521c?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Balıkçı Barınağı'nda uzun süredir gündemde yer alan çökme ve tahribat sorunlarının çözülmesi için hazırlanan projede saha çalışmalarına geçildi. Daha önce aktarılan 40 milyon liralık ödenekle hayata geçirilen projede, turizm sezonunun sona ermesinin ardından ekipler çalışmalarını yoğunlaştırdı. Hasar gören bölümlerde söküm ve zemin yenileme işlemleri sürdürülüyor.
 

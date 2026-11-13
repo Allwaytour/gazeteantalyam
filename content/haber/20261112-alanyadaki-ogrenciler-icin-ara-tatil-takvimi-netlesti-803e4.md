@@ -2,8 +2,8 @@
 title: Alanya'daki öğrenciler için ara tatil takvimi netleşti
 date: '2026-11-12T13:24:00+03:00'
 ozet: Milli Eğitim Bakanlığı takvimine göre Alanya'da binlerce öğrenci kasım ayında 9 gün tatil yapacak.
-gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
+gorsel: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Vida Huang / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -16,28 +16,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 3799abdcc5cc
-  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
-  fotografci: Haseeb Modi
+  kaynak_sayfa: https://unsplash.com/photos/_YQyZRGWOR4
+  fotografci: Vida Huang
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-3' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-1
-    tarih: '2026-11-13T08:46:31+03:00'
+    arsiv_id: sinif-3
+    tarih: '2026-11-13T15:19:24+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -49,8 +49,8 @@ kaynak_url: https://www.gazetealanya.com/mujde-verildi-alanyada-9-gun-tatil-yapa
 gorsel_yedek: /images/haber-gorsel/20261112-alanyadaki-ogrenciler-icin-ara-tatil-takvimi-netlesti-803e4-c44bf35e.jpg
 gorsel_yerlesim:
   boyut:
-  - 7728
-  - 5152
+  - 7008
+  - 4672
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,8 +68,12 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
 ---
 2026-2027 eğitim öğretim yılının ilk ara tatiline yönelik heyecanlı bekleyiş sürerken, Alanya genelindeki öğrenciler ve veliler tatil tarihlerini yakından takip ediyor. Yürütülen planlamalar kapsamında ilçe genelindeki okul öncesi, ilkokul, ortaokul ve lise öğrencileri kasım ayında dinlenme fırsatı bulacak.
 

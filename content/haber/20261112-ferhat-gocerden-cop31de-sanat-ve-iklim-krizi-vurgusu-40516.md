@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı’nın 31’incisi (COP31), 9-20 Kasım tarihleri arasında Türkiye’nin ev sahipliğinde Antalya’da gerçekleştiriliyor. Zirve programı kapsamında düzenlenen “Davranışı Değiştiren Kreatif Güç: Kültür & Davranış” başlıklı panelde katılımcılara hitap eden Musiki Eseri Sahipleri Meslek Birliği (MSG) Yönetim Kurulu Başkanı Ferhat Göçer, sanatın toplumsal dönüşümdeki rolüne değindi.
 

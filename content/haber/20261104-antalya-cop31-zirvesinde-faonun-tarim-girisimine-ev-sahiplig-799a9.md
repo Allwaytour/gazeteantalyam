@@ -66,6 +66,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı (COP31), 9-20 Kasım tarihleri arasında Antalya'nın ev sahipliğinde toplanacak. Resmi konferans programına göre zirvenin açılış günü doğrudan gıda, tarım ve sağlık temalarına odaklanacak. Mavi Bölge'de kurulacak Türkiye Pavilyonu, küresel tarım politikalarının tartışıldığı merkez konumunda olacak. Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) tarafından aktarılan bilgilere göre, 9 Kasım Pazartesi günü saat 16.00 ile 16.45 arasında 'Antalya FOLLOWR4FS Girişimi' isimli özel bir oturum gerçekleştirilecek.
 

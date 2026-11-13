@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1720166671019-744dcef65d05?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da trafik yoğunluğunun yanı sıra park yeri bulma sıkıntısı da sürücülerin günlük yaşamını olumsuz etkiliyor. Kent merkezindeki ticari hareketlilik, konut yoğunluğu ve turizm sezonunda yaşanan nüfus artışı otopark ihtiyacını her geçen gün daha da artırıyor.
 

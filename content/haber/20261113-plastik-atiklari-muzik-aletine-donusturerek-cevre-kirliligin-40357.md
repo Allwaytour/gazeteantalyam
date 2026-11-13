@@ -76,6 +76,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
 ---
 Hollandalı müzik grubu Soundtrack of the Plastic Age, plastik atıklardan elde ettikleri enstrümanlar aracılığıyla çevre kirliliğine karşı farkındalık oluşturuyor. 2015 yılından bu yana sürdürülebilirlik odaklı çalışmalar yürüten grup, Hollanda Krallığı Büyükelçiliğinin desteği ve Muratpaşa Belediyesinin sponsorluğunda Antalya'da sanatseverlerle buluştu. Kentteki çeşitli noktalardan toplanan plastik şişeler, yoğurt kapları, su damacanaları, variller ve kovalar temizlenerek müzik aletleri ile sahne dekorlarına dönüştürüldü.
 

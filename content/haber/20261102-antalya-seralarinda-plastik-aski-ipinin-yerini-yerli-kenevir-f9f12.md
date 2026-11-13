@@ -101,6 +101,10 @@ metin_onarim:
   kaynak: https://www.gidabulteni.com/yerel-uretim/seralarda-plastigin-yerine-kenevir-antalyada-yerli-liften-aski-ipi-denemesi/4323
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya İl Tarım ve Orman Müdürlüğü, seracilik faaliyetlerinde plastik tuketimini dusurmek icin yeni bir calisma baslatti. İl Mudurlugu onculugunde Aksu'da yurutulen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki aski ipleri test ediliyor.
 

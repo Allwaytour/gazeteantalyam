@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Kültür ve Turizm Bakanlığı'nın organize ettiği Antalya Kültür Yolu Festivali, önemli bir sanat etkinliğine ev sahipliği yapıyor. Akademisyen ressam Hasan Kıran'ın "Belleğin İzleri II: Zamanın ve Malzemenin Derinliklerindeki Hakikat" isimli sergisi, kent merkezinde yer alan bir otelin sanat galerisinde sanatseverlerle buluştu. Himmet Öcal'ın küratörlüğünü üstlendiği sergi, ahşap malzemenin sunduğu imkanlarla geçmişe ışık tutuyor.
 

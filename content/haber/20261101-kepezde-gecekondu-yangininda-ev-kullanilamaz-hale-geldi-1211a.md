@@ -101,6 +101,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 ---
 Kepez ilçesi Beşkonak Mahallesi 4409 Sokak üzerinde bulunan ve yabancı uyruklu bir ailenin kiracı olarak ikamet ettiği gecekonduda henüz belirlenemeyen bir nedenle yangın çıktı. Kısa sürede büyüyen alevler ahşap çatının da etkisiyle tüm binayı sardı.
 

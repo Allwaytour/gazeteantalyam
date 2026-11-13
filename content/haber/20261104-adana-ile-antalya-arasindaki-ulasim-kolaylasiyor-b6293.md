@@ -1,7 +1,7 @@
 ---
-title: Adana ile Antalya Arasindaki Ulasim Kolaylasiyor
+title: Adana ile Antalya Arasındaki Ulaşım Kolaylaşıyor
 date: '2026-11-04T07:25:03+03:00'
-ozet: Akdeniz Sahil Yolu Projesi ve yeni otoyol yatirimlariyla Adana ile Antalya arasindaki ulasim suresinin kisaltilmasi hedefleniyor.
+ozet: Akdeniz Sahil Yolu Projesi ve yeni otoyol yatırımlarıyla Adana ile Antalya arasındaki ulaşım süresinin kısaltılması hedefleniyor.
 gorsel: https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Musa Haef / Unsplash'
 kategoriler:
@@ -77,7 +77,7 @@ gorsel_gecmis:
   degisim: '2026-11-08T16:07:36+03:00'
 etiketler:
 - Ulaştırma ve Altyapı Bakanlığı
-gorsel_yedek: /images/haber-gorsel/20261104-adana-ile-antalya-arasindaki-ulasim-kolaylasiyor-b6293-0d22b25a.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-adana-ile-antalya-arasindaki-ulasim-kolaylasiyor-b6293-bcd6e61d.jpg
 gorsel_yerlesim:
   boyut:
   - 5184
@@ -100,11 +100,19 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Adana ile Antalya Arasindaki Ulasim Kolaylasiyor
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.gazetevatan.com/sehirler/adana/adana-antalya-arasi-kisaliyor-yeni-yol-mujdesi-verildi-2457152
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 ---
-Adana ile Antalya arasindaki ulasimi daha guvenli, hizli ve konforlu hale getirmeyi amaclayan Akdeniz Sahil Yolu Projesi kapsamindaki calismalar devam ediyor. Bu proje, bolgedeki ulasim altyapisini guclendirerek iki sehir arasinda seyahat eden vatandaslarin isini kolaylastirmayi hedefliyor.
+Adana ile Antalya arasındaki ulaşımı daha güvenli, hızlı ve konforlu hale getirmeyi amaçlayan Akdeniz Sahil Yolu Projesi kapsamındaki çalışmalar devam ediyor. Bu proje, bölgedeki ulaşım altyapısını güçlendirerek iki şehir arasında seyahat eden vatandaşların işini kolaylaştırmayı hedefliyor.
 
-Projenin kritik etaplarindan biri olan Mersin'in Aydincik ilcesindeki Soguksu Tunnelleri'nde yapim faaliyetleri surduruluyor. Ozellikle daglik ve virajli yollarin bulundugu guzergahlarda ulasimi rahatlatmasi beklenen bu tüneller sayesinde, Akdeniz sahil hattinda daha yuksek standartli bir ulasim aginin olusturulmasi amaclaniyor.
+Projenin kritik etaplarından biri olan Mersin'in Aydıncık ilcesindeki Soğuksu Tunnelleri'nde yapım faaliyetleri sürdürülüyor. Özellikle dağlık ve virajlı yolların bulunduğu güzergahlarda ulaşımı rahatlatması beklenen bu tüneller sayesinde, Akdeniz sahil hattında daha yüksek standartlı bir ulaşım ağının oluşturulması amaçlanıyor.
 
-Ulasim yatirimlari cercevesinde Cesmeli-Erdemli-Silifke-Tasucu Otoyolu'nun 52 kilometrelik Cesmeli-Kizkalesi kesimi 19 Ekim 2026 tarihi itibariyle arac trafigine acildi. Toplam 41 kilometre ana govde ile 11 kilometre baglanti yolundan olusan bu hat, ozellikle yaz doneminde yogunlasan trafige karsi onemli bir alternatif olusturuyor.
+Ulaşım yatırımları çerçevesinde Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu'nun 52 kilometrelik Çeşmeli-Kızkalesi kesimi 19 Ekim 2026 tarihi itibariyle araç trafiğine açıldı. Toplam 41 kilometre ana gövde ile 11 kilometre bağlantı yolundan oluşan bu hat, özellikle yaz döneminde yoğunlaşan trafiğe karşı önemli bir alternatif oluşturuyor.
 
-Ulastirma ve Altyapi Bakanligi tarafindan yapilan aciklamaya gore, mevcut devlet yolunda 2,5 saate kadar cikan Cesmeli-Kizkalesi arasindaki seyahat suresinin yeni otoyolla birlikte 18 dakikaya indirilmesi hedefleniyor. Akdeniz Sahil Yolu Projesi'nin butunuyle tamamlanmasiyla birlikte, Adana'dan Mersin uzerinden Antalya'ya uzanan seyahatlerde de ciddi bir zaman tasarrufu saglanmasi bekleniyor.
+Ulaştırma ve Altyapı Bakanlığı tarafından yapılan açıklamaya göre, mevcut devlet yolunda 2,5 saate kadar çıkan Çeşmeli-Kızkalesi arasındaki seyahat süresinin yeni otoyolla birlikte 18 dakikaya indirilmesi hedefleniyor. Akdeniz Sahil Yolu Projesi'nin bütünüyle tamamlanmasıyla birlikte, Adana'dan Mersin üzerinden Antalya'ya uzanan seyahatlerde de ciddi bir zaman tasarrufu sağlanması bekleniyor.

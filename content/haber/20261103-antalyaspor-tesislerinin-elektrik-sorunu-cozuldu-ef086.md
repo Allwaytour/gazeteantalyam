@@ -169,6 +169,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
+- https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 ---
 Antalya'nın spor kulübü Antalyaspor'un tesislerinde daha önce yaşanan elektrik kesintisi çözüme kavuştu. Atilla Vehbi Konuk Tesisleri'nde elektriklerin kesilmesi ve kulübün ödeme girişimlerine rağmen yetkililere ulaşılamadığı yönündeki gelişmelerin ardından süreç olumlu sonuçlandı. Tesislerin elektriği yeniden açıldı.
 

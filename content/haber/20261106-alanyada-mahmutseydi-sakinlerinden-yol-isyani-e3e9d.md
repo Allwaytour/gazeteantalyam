@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da birden fazla mahalleyi birbirine bağlayan önemli güzergâhlardan biri olan yol, bölge sakinlerinin ulaşımda sıkıntı yaşamasına neden oluyor. Mahmutseydi, Gökçene, Elikesik ve Konaklı mahallelerini birbirine bağlayan bu önemli ulaşım hattı, vatandaşların aktardığına göre özellikle kış aylarında sık sık ulaşıma kapanıyor.
 

@@ -74,6 +74,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Aksu ilçesine bağlı yaklaşık 800 nüfuslu Solak Mahallesi, COP31 İklim Zirvesi öncesinde gerçekleştirilen kapsamlı bir projeyle Sıfır Atık Köyü'ne dönüştürüldü. Zirvenin yapılacağı EXPO alanının hemen yanında yer alan mahallede, altyapıdan binalara kadar pek çok nokta baştan aşağı yenilendi. Proje kapsamında mahallenin yolları asfaltlanırken, yol kenarları çiçekler ve bitkilerle donatıldı.
 

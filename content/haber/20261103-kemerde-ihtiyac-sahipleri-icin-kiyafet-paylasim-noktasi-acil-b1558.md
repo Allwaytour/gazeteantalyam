@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/de/Kemer_beach%2C_Antalya.jpg
 ---
 Kemer Belediyesi, ihtiyaç sahibi vatandaşlara destek olmak ve kullanılmayan kıyafetlerin yeniden değerlendirilmesini sağlamak amacıyla Çamyuva Mahallesi'nde yeni bir uygulama başlattı. Sosyal belediyecilik anlayışı doğrultusunda hayata geçirilen kıyafet paylaşım noktası, vatandaşlar arasındaki dayanışmayı artırmayı amaçlıyor.
 

@@ -69,6 +69,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1720166671019-744dcef65d05?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da galerici esnafının ticari faaliyetlerini desteklemek ve nakliye giderlerini hafifletmek amacıyla yeni bir adım atıldı. Alanya Şoförler Odası yönetimi, üyelerin işlerini kolaylaştıracak bir iş birliği protokolüne imza attı.
 

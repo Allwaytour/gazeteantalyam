@@ -65,6 +65,11 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya, küresel iklim değişikliğiyle mücadelede kritik bir zirveye ev sahipliği yapmaya hazırlanıyor. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, dünyanın dört bir yanından 196 ülkeden devlet yetkilileri, delegasyonlar ve müzakere ekipleri kentte bir araya gelecek. Uluslararası iş birliğinin güçlendirilmesi ve iklim politikalarının somut adımlara dönüştürülmesi hedeflenen zirve, çevre ve ekonomi gündeminin merkezinde yer alacak.
 

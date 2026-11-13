@@ -2,8 +2,8 @@
 title: Antalyalı öğrenci Einstein Matematik Olimpiyatları'nda dünya birincisi oldu
 date: '2026-11-02T13:16:00+03:00'
 ozet: Almanya'nın başkenti Berlin'de düzenlenen uluslararası yarışmada 5. sınıflar kategorisinde yarışan Çağan Tuğra Sözel dünya birinciliği elde etti.
-gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
+gorsel: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Vida Huang / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ffc198f617b5
-  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
-  fotografci: Haseeb Modi
+  kaynak_sayfa: https://unsplash.com/photos/_YQyZRGWOR4
+  fotografci: Vida Huang
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-3' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-1
-    tarih: '2026-11-13T08:47:31+03:00'
+    arsiv_id: sinif-3
+    tarih: '2026-11-13T15:21:43+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -83,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4-fe59935b.jpg
 gorsel_yerlesim:
   boyut:
-  - 7728
-  - 5152
+  - 7008
+  - 4672
   dikey: false
   surum: y3
   manset: kaplama
@@ -102,7 +102,12 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 ---
 Dünyanın farklı ülkelerinden genç yeteneklerin katılımıyla gerçekleştirilen Einstein Matematik Olimpiyatları'nın uluslararası finali Almanya'nın Berlin kentinde tamamlandı. Problem çözme becerileri, bilimsel düşünme ve matematiksel yeteneklerin değerlendirildiği organizasyon, 26 ile 30 Ekim 2026 tarihleri arasında yapıldı. Kırktan fazla ülkenin temsil edildiği dev finalde, 5. sınıflar kategorisinde yarışan Antalyalı öğrenci Çağan Tuğra Sözel büyük bir başarıya imza atarak zirveye yerleşti.
 

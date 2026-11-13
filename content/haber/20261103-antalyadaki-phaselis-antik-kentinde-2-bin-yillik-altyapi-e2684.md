@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Phaselis_August_2019_02.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Kemer ilçesine bağlı Tekirova Mahallesi sınırlarında yer alan Phaselis Antik Kenti, tarihi yapılarıyla olduğu kadar geçmişin mühendislik izleriyle de dikkat çekiyor. Antik kentin merkezi limanı ile güney limanını birbirine bağlayan ana caddenin taş döşemelerinin altında, yaklaşık 2 bin yıllık gelişmiş bir altyapı sistemi bulunuyor. Arkeolojik araştırmalar, dönemin mühendislerinin temiz su dağıtımından atık su tahliyesine kadar pek çok ayrıntıyı planladığını gösteriyor.
 

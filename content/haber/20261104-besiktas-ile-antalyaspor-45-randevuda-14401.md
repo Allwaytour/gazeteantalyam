@@ -242,6 +242,11 @@ gorsel_yerlesim:
   o_yan_m: 100% 50%
   o_kart: 64% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 

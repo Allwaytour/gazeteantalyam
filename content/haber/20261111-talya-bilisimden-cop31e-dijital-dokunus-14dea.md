@@ -76,6 +76,11 @@ metin_onarim:
   kaynak: https://www.ekonomigazetesi.com/sirket-haberleri/talya-bilisim-cop-31de-antalyanin-dijital-yuzune-katki-sunuyor-91874
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya’da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), iklim gündeminin yanı sıra teknoloji ve dijital dönüşüm uygulamalarıyla da dikkati çekti. Bu kapsamda turizm teknolojileri alanında faaliyet gösteren Talya Bilişim, kentin uluslararası tanıtımına, iletişim altyapısına ve çevresel farkındalık çalışmalarına katkı sağlayan dijital projeleri hayata geçirdi. Yapay zeka, görüntü işleme ve dijital iletişim teknolojilerini birleştiren uygulamalarla kentin dijital yüzüne katkı sunuldu.
 

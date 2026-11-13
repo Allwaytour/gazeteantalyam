@@ -69,6 +69,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 ---
 Kente gelen yabancı ziyaretçi sayısı, bu yılın ocak-eylül döneminde bir önceki yılın aynı dönemine kıyasla yüzde 5,69 oranında azalarak 12 milyon 483 bin 159 seviyesine geriledi. Akdeniz Turistik Otelciler ve İşletmeciler Birliği ekim bülteninde yer alan bilgilere göre, ilk 10 kaynak pazarın sekizinde düşüş kaydedilirken, toplam yabancı ziyaretçi kaybı 752 bin 605 kişiyi buldu. Yurt dışında yaşayan vatandaşların da dahil olduğu genel toplam ise yüzde 5,41 oranında azalarak 13 milyon 330 bin 110 olarak kayıtlara geçti.
 

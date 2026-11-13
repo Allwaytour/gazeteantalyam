@@ -73,6 +73,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 ---
 Antalya'da düzenlenecek küresel ölçekteki COP31 zirvesinin huzur ve güven ortamında gerçekleştirilmesi amacıyla kapsamlı bir güvenlik planlaması hayata geçirildi. Emniyet Teşkilatı, devlet ve hükümet başkanları ile çok sayıda uluslararası delegenin katılacağı dev organizasyon için hazırlıklarını titizlikle sürdürüyor.
 

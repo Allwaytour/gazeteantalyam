@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'nın Konaklı Mahallesi'nde yaşanan olayda, 18 yaşındaki M.A. evinde bulunduğu sırada henüz belirlenemeyen bir nedenle kendisine zarar verdi. Durumu fark eden aile bireyleri, vakit kaybetmeden 112 Acil Çağrı Merkezi'ne ihbarda bulundu.
 

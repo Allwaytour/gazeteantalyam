@@ -73,6 +73,11 @@ gorsel_yerlesim:
   o_kart_p: 47% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın ev sahipliğinde küresel çapta gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), çevre dostu ve yenilikçi mimari projeleri katılımcıların beğenisine sunuyor. Zirvenin Mavi ve Yeşil Bölge'sinde yer alan Türkiye Pavilyonu, inşaat atıkları ile doğal dokuların ekonomiye kazandırıldığı sıra dışı tasarımıyla dikkat çekiyor. Projede, deprem bölgesindeki inşaat hafriyatından elde edilen topraklar, mimari yapı unsurlarına dönüştürülerek iklim kriziyle mücadelede sektörün dönüşüm potansiyelini gözler önüne seriyor.
 

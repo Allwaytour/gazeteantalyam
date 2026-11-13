@@ -153,6 +153,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Antalya EXPO alanının ev sahipliğinde gerçekleştirilecek olan COP31 Birleşmiş Milletler İklim Zirvesi, oturumların yanı sıra pek çok kültürel ve sanatsal etkinliğe sahne olacak. Zirve süresince COP31 Green Zone alanında düzenlenecek konser programında Türkiye'nin tanınmış sanatçıları ve toplulukları hayranlarıyla bir araya gelecek. Tamamı ücretsiz ve halka açık olarak planlanan etkinlik takvimi açıklandı.
 

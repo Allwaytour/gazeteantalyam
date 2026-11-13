@@ -76,6 +76,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 ---
 Kepez Belediyesi, ilçenin ulaşım altyapısını güçlendirmek ve kent yaşamının kalitesini yükseltmek amacıyla yol yapım ve yenileme çalışmalarını sürdürüyor. Belediye Başkanı Mesut Kocagöz'ün göreve geldiği günden bu yana ilçenin farklı mahallelerinde gerçekleştirilen çalışmalar kapsamında toplam 86 kilometre kaldırım yapımı ve yenileme çalışması tamamlandı.
 

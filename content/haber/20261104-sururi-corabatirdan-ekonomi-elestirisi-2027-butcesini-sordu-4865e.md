@@ -205,6 +205,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Cumhuriyet Halk Partisi (CHP) Antalya Milletvekili Sururi Çorabatır, Türkiye Büyük Millet Meclisi (TBMM) Plan ve Bütçe Komisyonu’nda ekonomiye dair değerlendirmelerde bulundu. İhracat rakamlarında rekor artışlardan söz edilmesine rağmen bu tablonun ülke refahına aynı ölçüde yansımadığını belirten Çorabatır, sanayici, üretici, esnaf ve vatandaşın yaşadığı ekonomik zorlukların ele alınması gerektiğini ifade etti.
 

@@ -171,6 +171,11 @@ gorsel_yerlesim:
   o_kart: 50% 81%
   o_kart_p: 61% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya%2C_Turkey_Feb_2022_-_Tram.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Antalya'da gerçekleşecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında kent içi ulaşımda değişikliğe gidildi. Antalya Ulaşım A.Ş. tarafından yapılan açıklamaya göre, 9 Kasım 2026 Pazartesi gününden itibaren tramvay sefer saatleri ve hat işleyişi konferans süresince yeniden düzenlendi.
 

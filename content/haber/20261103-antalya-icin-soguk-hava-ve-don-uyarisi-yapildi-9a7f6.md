@@ -66,6 +66,8 @@ gorsel_yerlesim:
   o_kart_p: 95% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Valiliği tarafından yapılan son değerlendirmelere göre, kent genelinde hava koşullarında belirgin bir değişiklik yaşanması bekleniyor. İç ve yüksek kesimlerin çarşamba gününden itibaren serin ve yağışlı havanın etkisi altına gireceği, soğuk hava dalgasının 10 Kasım Salı gününe kadar etkisini sürdüreceği bildirildi.
 

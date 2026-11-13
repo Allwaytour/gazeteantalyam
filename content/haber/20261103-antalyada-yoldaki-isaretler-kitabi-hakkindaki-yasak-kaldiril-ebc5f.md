@@ -64,6 +64,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1495446815901-a7297e633e8d?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/d/d3/Matsukawa_Village_Library_bookshelves_ac_%281%29.jpg
 ---
 Mısırlı düşünür Seyyid Kutub’un Türkiye’de uzun yıllardır yayımlanan "Yoldaki İşaretler" adlı eseri hakkında daha önce Türkiye genelinde yasak kararı verilmişti. Antalya 1. Sulh Ceza Hâkimliği, Terörle Mücadele Kanunu ile Basın Kanunu'nun ilgili maddelerine dayanarak kitap hakkında el koyma, basım, dağıtım ve satış yasağı getirdi.
 

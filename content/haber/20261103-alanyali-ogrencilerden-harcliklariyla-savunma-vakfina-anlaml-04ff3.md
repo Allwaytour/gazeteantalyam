@@ -71,6 +71,11 @@ metin_onarim:
   kaynak: https://www.yenialanya.com/alanyada-lise-ogrencilerinden-ornek-davranis
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da eğitim gören lise öğrencileri,örnek bir sosyal sorumluluk çalışmasına imza attı. İrfan Bileydi Siber Güvenlik Mesleki ve Teknik Anadolu Lisesi öğrencileri,kendi harçlıklarından artırdıkları paraları Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'na bağışlama kararı aldı. Bir günlük harçlıklarını vakfa bağışlayan öğrenciler,öğretmenleriyle birlikte vakfi ziyaret ederek bağışlarının kullanım alanları hakkında bilgi sahibi oldu.
 

@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 ---
 Geçmişte Bingöl'de Cumhuriyet Başsavcılığı görevini yürüten Abdullah Sert, Alanya'da düzenlenen bir buluşmada ağırlandı. Sıcak bir atmosferde geçen görüşmede, Güneydoğu Anadolu bölgesindeki görev yıllarına ve o döneme ait güzel anılara odaklanıldı.
 

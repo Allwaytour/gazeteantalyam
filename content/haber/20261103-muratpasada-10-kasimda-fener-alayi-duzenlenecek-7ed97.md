@@ -101,6 +101,11 @@ gorsel_yerlesim:
   o_kart: 50% 67%
   o_kart_p: 1% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Mustafa_Kemal_Atat%C3%BCrk_.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
+- https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Muratpaşa ilçesinde, Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir anma programı düzenleniyor. Büyük Önder’e duyulan sevgi, saygı, minnet ve hasreti tek yürek olarak göstermek amacıyla 10 Kasım'da fener alayı ve Ata'ya Saygı Yürüyüşü gerçekleştirilecek.
 

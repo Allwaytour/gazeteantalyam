@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı öncesinde kent genelindeki trafik düzenlemeleri netleşmeye başladı. Dünya liderlerinin katılımıyla yapılacak zirve dolayısıyla, 10 ile 12 Kasım tarihleri arasında Isparta ve Kemer arasında ulaşım sağlayacak sürücüler için alternatif yol güzergahları paylaşıldı.
 

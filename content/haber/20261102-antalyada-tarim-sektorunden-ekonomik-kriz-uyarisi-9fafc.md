@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Toptancı Hal Yaş Sebze ve Meyve Komisyoncular Derneği Yönetim Kurulu Başkanı Nevzat Akcan, tarım sektörünün tüm paydaşlarının ağır ekonomik şartlar altında mücadele ettiğini ifade etti. Artan üretim masrafları, yüksek faiz ve tahsilat sıkıntılarının sektörü yıprattığını belirten Akcan, üreticiden komisyoncuya ve ihracatçıya kadar kimsenin kazanç sağlayamadığını dile getirdi. Çalışan kesimin bile emeklerinin karşılığını alamadığını vurgulayan Akcan, mevcut ekonomik düzenin sürdürülemez bir boyuta ulaştığını kaydetti.
 

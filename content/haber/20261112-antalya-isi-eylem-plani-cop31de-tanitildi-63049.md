@@ -74,6 +74,11 @@ metin_onarim:
   kaynak: https://yerel-haberler.haberturk.com/antalya-haberleri/cop31de-antalya-isi-eylem-planinin-lansmani-yapildi-baskan-vekili-ozdemir-birlikte-hareket-119520457
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da artan sıcaklık risklerine karşı hazırlanan Antalya Isı Eylem Planı, COP31 kapsamında Mavi Bölge'de yer alan Türkiye Pavilyonu'nda tanıtıldı. Sıcaklık Riskinden Hazırlıklı Olmaya başlıklı panelde gerçekleştirilen lansmanda, kentlerin aşırı sıcaklara karşı daha dirençli hale gelmesi için atılan adımlar ele alındı.
 

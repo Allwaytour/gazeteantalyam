@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 ---
 Antalya'nın Manavgat ilçesinde gerçekleştirilen rutin trafik denetimleri sırasında, güvenlik güçleri ilçe merkezinde yüksek hız yapan ve abartılı egzoz sesi çıkaran bir aracı takibe aldı. Antalya Caddesi üzerinde başlayan takip, yapay şelale mevkiinde aracın durdurulmasıyla sonuçlandı.
 

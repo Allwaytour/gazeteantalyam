@@ -103,6 +103,11 @@ metin_onarim:
   kaynak: https://www.akdenizgercek.com.tr/antalya/antalyada-denizi-kirleten-yandi-40-kamera-ve-radarlar-724-izleniyor/388618
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Antalya'da denizlerin korunması ve temiz kalması amacıyla yürütülen çevre denetim çalışmaları aralıksız sürüyor. Bu kapsamda, Antalya Körfezi'ni tehdit edebilecek gemi kaynaklı kirliliğe karşı üst düzey teknolojik önlemler devreye alındı.
 

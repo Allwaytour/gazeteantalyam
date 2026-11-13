@@ -73,6 +73,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da yeni yönetimiyle faaliyetlerine başlayan dernek, ilçe protokolüne yönelik nezaket ziyaretlerini sürdürüyor. Bu kapsamda Dernek Başkanı Mevlüt Görücü ve yönetim kurulu üyeleri, Kaymakam Şakir Öner Öztürk ile bir araya geldi.
 

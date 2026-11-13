@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 ---
 Antalya'da yaşayan 25 yaşındaki zihinsel engelli Rabia Nur Yiğit, Ekim ayının son günlerinde evinden ayrıldıktan sonra bir daha kendisinden haber alınamadı. Günlerdir kayıp olan genç kadının bulunması için ailesi televizyon programına katılarak yardım talebinde bulundu. Ailenin iddialarına göre, genç kadının kaybolduğu gün iki erkek tarafından evinin önünden götürüldüğü ve adına kredi başvuruları yapıldığı öne sürüldü.
 

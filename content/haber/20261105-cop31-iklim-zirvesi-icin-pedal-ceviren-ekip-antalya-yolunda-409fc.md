@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'ne yönelik farkındalık oluşturmak isteyen 16 kişilik uluslararası bisikletli grup, uzun süredir devam eden yolculuklarını sürdürüyor. İklim değişikliği ve çevre kirliliği gibi küresel sorunlara dikkat çekmeyi amaçlayan bisiklet tutkunları, yaklaşık 5 aydır pedallara basarak sürdürülebilir ulaşımın önemini vurguluyor.
 

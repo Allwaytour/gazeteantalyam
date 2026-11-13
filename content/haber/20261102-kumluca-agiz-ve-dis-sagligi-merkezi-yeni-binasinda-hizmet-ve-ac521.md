@@ -70,6 +70,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1598256989800-fe5f95da9787?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 ---
 Kumluca Devlet Hastanesi bünyesinde daha önce ameliyathane ve yoğun bakım ünitesi olarak değerlendirilen alan, gerçekleştirilen kapsamlı düzenlemelerin ardından Ağız ve Diş Sağlığı Merkezi’ne dönüştürüldü. Yaklaşık 60 hayırseverin katkılarıyla modern bir görünüme kavuşturulan yeni yerleşke, hasta kabulüne başladı. Çalışmaların tamamlanmasının ardından Kumluca Kaymakamı Bahadır Güneş, Belediye Başkanı Mesut Avcıoğlu ve AK Parti İlçe Başkanı Bekir Paslıkılıç yeni merkezi ziyaret ederek incelemelerde bulundu.
 

@@ -72,6 +72,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
 ---
 Arabica Coffee House Kadınlar Voleybol 1. Ligi B Grubu'nda yer alan Antalya temsilcileri, sezonun yedinci hafta maçlarında sahne aldı. Manavgat Belediyespor'un bay geçirdiği haftada, 07 Megaspor deplasmanda galibiyet elde ederken Muratpaşa Belediyespor sahasında mağlup olarak hanesine bir puan yazdırdı.
 

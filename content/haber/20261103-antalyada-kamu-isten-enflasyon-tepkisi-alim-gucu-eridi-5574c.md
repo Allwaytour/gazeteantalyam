@@ -65,6 +65,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşik Kamu-İş Konfederasyonu Antalya İl Başkanı Sadık Acar, ekim ayı enflasyon verilerinin açıklanmasının ardından bir basın açıklaması düzenledi. Açıklamada, ekonomi politikaları eleştirilerek enflasyonun ve vatandaşların alım gücündeki erimenin vahim boyutlara ulaştığı ifade edildi.
 

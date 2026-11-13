@@ -74,6 +74,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
+- https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 ---
 Türkiye İstatistik Kurumu'nun 2025 yılı Adrese Dayalı Nüfus Kayıt Sistemi sonuçlarına göre Alanya'nın genel nüfusu 371 bin 547 kişiye ulaştı. İlçenin sahil kesimindeki mahallelerde büyük bir nüfus yoğunluğu görülürken, geçmişte köy statüsünde bulunan kırsal mahallelerde ise oldukça düşük rakamlar kaydedildi. Mahmutlar, Oba ve Cikcilli gibi merkez mahallelerde on binlerce kişi yaşarken, Yalçı Mahallesi'nde 98, Bayırkozağacı ve Öteköy'de 132'şer, Taşbaşı'nda 141 ve Karapınar'da 197 kişi ikamet ediyor.
 

@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Tarihi mirasın koruma altına alınması amacıyla yürütülen çalışmalar kapsamında, Kızılkule için dijital ikiz uygulamasına geçildiği duyuruldu. Alanya'da ilk defa bir tarihi yapı üzerinde hayata geçirilen bu teknoloji sayesinde, kulübün tüm detayları eksiksiz bir şekilde dijital ortama aktarılıyor. Bu proje ile yapının olası doğal afetler ya da yıpranmalara karşı aslına uygun olarak korunması ve gelecek nesillere aktarılması hedefleniyor.
 

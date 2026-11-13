@@ -72,6 +72,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1763043778073-0174fbed4170?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da tedavi süreci devam eden Taha Miraç Kevkir için dayanışma etkinlikleri sürdürülüyor. Özge Uyar'ın öncülüğünde hayata geçirilen yoga buluşmasında, katılımcıların ve bağışta bulunan hayırseverlerin desteğiyle önemli bir kaynak oluşturuldu.
 

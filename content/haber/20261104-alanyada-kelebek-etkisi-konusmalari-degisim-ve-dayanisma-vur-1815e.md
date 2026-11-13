@@ -65,6 +65,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 ---
 Bir kelebeğin kanat çırpışından ilham alınarak hazırlanan Kelebek Etkisi Konuşmaları, bu kez Alanya'da gerçekleştirildi. Farklı kesimlerden katılımcıları buluşturan etkinlikte, konuşmacıların hayatlarından aktardıkları deneyimler salonda duygusal anların yaşanmasına yol açtı. Aileler, eğitimciler, öğrenciler ve çeşitli meslek gruplarından katılanlar, çocukların geleceği için değişimin mümkün olduğu fikrinde birleşti.
 

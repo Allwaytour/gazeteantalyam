@@ -64,6 +64,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
 ---
 Havacılık ve turizm sektörünün önde gelen uluslararası buluşmalarından biri olan WTM London 2026 fuarına, Fraport TAV Antalya Havalimanı üst düzey yöneticileri ve departman temsilcilerinden oluşan bir heyetle katılım sağladı.
 

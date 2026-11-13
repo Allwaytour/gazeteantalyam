@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+- https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
+- https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 ---
 Alanya'nın il statüsüne kavuşması yönündeki beklentiler devam ederken, ilçedeki siyasi parti temsilcilerinden konuya ilişkin değerlendirmeler geldi. Zafer Partisi Alanya İlçe Başkanı Fikret Türkoğlu, ilçenin il olma hedefini desteklediklerini ancak bu sürecin Türkiye'nin üniter yapısını zedeleyecek veya eyaletleşme tartışmalarına zemin hazırlayacak bir formata dönüşmemesi gerektiğini belirtti. Türkoğlu, üniter yapının kırmızı çizgileri olduğunu ifade ederek, il olma sürecinin bu hassasiyetler gözetilerek yürütülmesi gerektiğini vurguladı.
 

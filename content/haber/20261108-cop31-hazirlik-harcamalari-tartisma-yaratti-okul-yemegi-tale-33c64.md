@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 ---
 Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31 hazırlıkları kapsamında yapılan harcamalar, kamu bütçesinin kullanımı konusunda yeni bir tartışma başlattı. Elektronik Kamu Alımları Platformu (EKAP) verilerine dayanan araştırmalara göre, organizasyon için gerçekleştirilen ihale ve sözleşme tutarlarının toplamı 25 milyar 139 milyon TL'ye ulaştı. Bu tutarın içerisinde geçici yapı sistemleri, ana etkinlik alanı, ulaşım yolları ve peyzaj düzenlemeleri gibi çeşitli kalemler yer alıyor.
 

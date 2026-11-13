@@ -1,7 +1,7 @@
 ---
-title: SunExpress'ten COP31 Oncesi Gonullu SAF ve Bisiklet Indirimi Adimi
+title: SunExpress'ten COP31 Öncesi Gönüllü SAF ve Bisiklet İndirimi Adımı
 date: '2026-11-06T19:27:14+03:00'
-ozet: Antalya'nin ev sahipliginde yapilacak COP31 oncesinde SunExpress, yolcularina gonullu Surdurulebilir Havacilik Yakiti katkisi ve bisiklet tasima ucretlerinde yuzde 50 indirim uygulamasini baslatti.
+ozet: Antalya'nın ev sahipliğinde yapılacak COP31 öncesinde SunExpress, yolcularına gönüllü Sürdürülebilir Havacılık Yakıtı katkısı ve bisiklet taşıma ücretlerinde yüzde 50 indirim uygulamasını başlattı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: MarcelX42 / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -113,10 +113,16 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_yedek: /images/haber-gorsel/20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-f-2fb3f020.jpg
+gorsel_yedek: /images/haber-gorsel/20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-f-2ffb2111.jpg
+baslik_onceki: SunExpress'ten COP31 Oncesi Gonullu SAF ve Bisiklet Indirimi Adimi
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.akdenizgercek.com.tr/antalya/cop31-oncesi-cevreci-adim-sunexpressten-gonullu-saf-katkisi/388783
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Antalya'nin ev sahipliginde duzenlenecek COP31 oncesinde havayolu sektorunde cevre dostu yeni adimlar atilmaya devam ediliyor. Bu kapsamda SunExpress, yolcularin ucus kaynakli karbon emisyonlarini dusurmelerini saglamak amaciyla gonullu Surdurulebilir Havacilik Yakiti katkisi sunan yeni bir uygulamayi hayata gecirdi. Konferans oncesi baslatilan bu cevreci uygulamanin zirvenin ardindan da surdurulecegi aciklandi.
+Antalya'nın ev sahipliğinde düzenlenecek COP31 öncesinde havayolu sektöründe çevre dostu yeni adımlar atılmaya devam ediliyor. Bu kapsamda SunExpress, yolcuların uçuş kaynaklı karbon emisyonlarını düşürmelerini sağlamak amacıyla gönüllü Sürdürülebilir Havacılık Yakıtı katkısı sunan yeni bir uygulamayı hayata geçirdi. Konferans öncesi başlatılan bu çevreci uygulamanın zirvenin ardından da sürdürüleceği açıklandı.
 
-Hayata gecirilen sistem sayesinde yolcular, seyahat ettikleri rotalara gore hesaplanan tahmini emisyon miktarlarina bagli olarak ek Sürdürülebilir Havacilik Yakiti kullanimina destekte bulunabiliyor. Tedarikci firmadan temin edilerek standart jet yakitiyla karistirilan ozel yakit, alti aylik bir surec icerisinde yakit ikmal altyapisi uzerinden kullanima sunulacak.
+Hayata geçirilen sistem sayesinde yolcular, seyahat ettikleri rotalara göre hesaplanan tahmini emisyon miktarlarına bağlı olarak ek Sürdürülebilir Havacılık Yakıtı kullanımına destekte bulunabiliyor. Tedarikçi firmadan temin edilerek standart jet yakıtıyla karıştırılan özel yakıt, altı aylık bir süreç içerisinde yakıt ikmal altyapısı üzerinden kullanıma sunulacak.
 
-Bunun yani sira sirket, Antalya'da gerceklestirilecek COP31 sureci boyunca Antalya cikisli ve varisli dis hat ucuslarinda onceden rezervasyon yapilan bisiklet tasima ucretlerinde yuzde 50 oraninda indirim saglayacagini duyurdu. Diger yandan yolcular, sirketin internet sitesi araciligiyla elektrikli arac kiralama seceneklerinden de yararlanabilecek.
+Bunun yanı sıra şirket, Antalya'da gerçekleştirilecek COP31 süreci boyunca Antalya çıkışlı ve varışlı dış hat uçuşlarında önceden rezervasyon yapılan bisiklet taşıma ücretlerinde yüzde 50 oranında indirim sağlayacağını duyurdu. Diğer yandan yolcular, şirketin internet sitesi aracılığıyla elektrikli araç kiralama seçeneklerinden de yararlanabilecek.

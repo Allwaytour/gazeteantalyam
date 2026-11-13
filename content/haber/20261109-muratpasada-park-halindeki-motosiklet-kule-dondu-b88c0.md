@@ -70,6 +70,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 ---
 Antalya'nın Muratpaşa ilçesi Altındağ Mahallesi'nde gece saatlerinde hareketli anlar yaşandı. 169 Sokak üzerinde bulunan çocuk parkına park edilmiş durumdaki bir motosiklette, henüz bilinmeyen bir nedenle yangın çıktı. Kısa sürede büyüyen alevleri fark eden mahalle sakinleri, durumu 112 Acil Çağrı Merkezi'ne bildirdi.
 

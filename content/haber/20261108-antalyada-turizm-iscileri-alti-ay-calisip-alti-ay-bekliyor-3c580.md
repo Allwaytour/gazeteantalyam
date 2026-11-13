@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 ---
 Türkiye İşçi Partisi Merkez Yürütme Kurulu Üyesi Yunus Başaran, Antalya turizm sektöründe görev yapan çalışanların yaşadığı ekonomik ve hukuki sorunları gündeme getirdi. Sektördeki emekçilerin düşük gelirlerle istihdam edildiğini ve sezon sona erdiğinde iş güvencesinden yoksun kaldıklarını belirten Başaran, özellikle mevsimlik çalışma sisteminin çalışanlar açısından büyük bir mağduriyet yarattığını ifade etti.
 

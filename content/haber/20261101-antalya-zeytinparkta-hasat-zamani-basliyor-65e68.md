@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/3/3d/Olive_Oil_%2850316477903%29.jpg
 ---
 Antalya Zeytinpark, kışlık zeytin hazırlıklarını kendi elleriyle yapmak isteyen vatandaşları ağırlamaya hazırlanıyor. Dalından Zeytini Kendin Topla adıyla hayata geçirilen bu özel etkinlik, 2 ile 7 Kasım 2026 tarihleri arasında her gün saat 09.00 ile 16.00 saatleri arasında düzenlenecek. Etkinlik boyunca katılımcılar, görevliler eşliğinde kendilerine ayrılan parsellerde doğrudan ağaçlardan hasat yapma imkanı bulacak.
 

@@ -70,6 +70,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1676782778930-11b311ec5134?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1652161413302-9b48a8c0f24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dHJhaWwlMjBydW5uaW5nJTIwcmFjZXxlbnwxfDB8fHwxNzk0MjI3ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Antalya'nın doğal güzellikleriyle bilinen ilçesi Döşemealtı, uluslararası nitelik taşıyan patika koşusu organizasyonu Antalya Canyon Ultra için hazırlıklarını sürdürüyor. Döşemealtı Belediyesi'nin ev sahipliğinde, Zenova ana sponsorluğunda ve MAZ Organizasyon tarafından hayata geçirilecek olan etkinlik, 13 ile 15 Kasım 2026 tarihleri arasında sporcuları ağırlayacak.
 

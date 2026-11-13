@@ -75,6 +75,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Muratpaşa sınırlarında yer alan doğal miras Yamansaz için hazırlanan yeni imar planı kararları tartışma yarattı. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylanarak askıya çıkarılan koruma amaçlı imar planı değişiklikleri; konut, ticaret, turizm ve otel alanlarına ilişkin emsal, kat ile bodrum kat düzenlemelerini kapsıyor. Konuyla ilgili açıklama yapan TMMOB Mimarlar Odası Antalya Şubesi, bölgenin geleceğinin parsel bazlı beklentilere kurban edilemeyeceğini vurguladı. Açıklamada, Yamansaz'ın sadece boş bir arazi olmadığı, canlı ekosistemi ve su dengesiyle bir bütün olarak ele alınması gerektiği ifade edildi.
 

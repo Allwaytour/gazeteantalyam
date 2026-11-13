@@ -68,6 +68,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da ev sahibi olmak amacıyla ödeme yaptıkları müteahhidin dairelerini teslim etmediğini öne sürerek daha önce suç duyurusunda bulunan vatandaşlara yenileri eklendi. Başka bir suçtan tutuklu bulunduğu belirtilen şüpheli hakkında yeni mağdurların da şikayetçi olmasıyla birlikte hukuki süreç genişledi.
 

@@ -73,6 +73,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1627862079351-7bcdcba0c1f1?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1545214766-04116e13521c?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler Gıda ve Tarım Örgütü bünyesindeki Akdeniz Genel Balıkçılık Komisyonu, İtalya'nın başkenti Roma'da 25 kıyı ülkesinin katılımıyla önemli bir oturum düzenledi. Gerçekleştirilen toplantıda, bölgedeki su ürünleri stoklarını korumak, yasa dışı avcılık faaliyetlerini engellemek ve su ürünleri yetiştiriciliğini çevre standartlarına uygun hale getirmek amacıyla 11 bağlayıcı tavsiye kararı ile 2 karar kabul edildi.
 

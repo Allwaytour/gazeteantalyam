@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya siyaset kulislerinde, aralarında Büyükşehir Belediye Başkan Vekili Büşra Özdemir'in de bulunduğu bazı isimlerin AK Parti'ye katılacağı yönünde çıkan iddialar geniş yankı uyandırdı. Konuyla ilgili açıklama yapan CHP Antalya İl Başkanı Hasan Şahin, seçmen iradesinin ve halkın emanetinin önemine dikkat çekti.
 

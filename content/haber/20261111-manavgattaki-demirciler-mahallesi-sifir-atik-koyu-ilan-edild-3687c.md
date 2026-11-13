@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart_p: 47% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Manavgat ilçesinde beş yıl önce yaşanan orman yangınında büyük hasar alan Demirciler Mahallesi, devlet eliyle yeniden inşa edilerek sıfır atık odaklı bir yerleşim merkezine dönüştürülüyor. Yangının ardından Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinesinde Toplu Konut İdaresi Başkanlığı tarafından yenilenen konutlar hak sahiplerine teslim edilmişti.
 

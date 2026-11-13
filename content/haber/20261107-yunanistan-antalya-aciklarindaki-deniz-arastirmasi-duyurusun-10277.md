@@ -181,6 +181,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 ---
 Yunanistan, Türkiye'nin izin verilmediğini açıklamasının ardından Antalya açıklarında planlanan deniz tabanı kablo araştırması için yayınladığı NAVTEX denizcilik duyurusunu iptal etti. Türkiye Dışişleri Bakanlığı, Atina yönetimini uyararak Türk deniz yetki alanlarındaki her türlü araştırma faaliyetinin Türk makamlarıyla koordine edilmesi gerektiğini vurguladı.
 

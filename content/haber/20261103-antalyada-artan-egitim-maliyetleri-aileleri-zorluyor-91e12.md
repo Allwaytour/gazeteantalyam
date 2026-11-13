@@ -66,6 +66,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Saadet Partisi Antalya İl Başkanı Mehmet Tekin, artan eğitim giderlerinin aileler üzerindeki ekonomik yüküne dikkat çekerek çocukların eğitim ihtiyaçlarının ağır bir geçim mücadelesine dönüşmemesi gerektiğini vurguladı. Eğitimin anayasal güvence altında temel bir hak olduğunu belirten Tekin, çocukların gündeminde ekonomik kaygılar yerine dersler ve geleceğe ilişkin hayallerin yer alması gerektiğini ifade etti.
 

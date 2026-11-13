@@ -70,6 +70,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 ---
 Antalya Kent Konseyi'nde Recep Yavuz'un başkanlığında gerçekleştirilen toplantıda, kentin turizm sektöründeki mevcut durum ve geleceğe yönelik riskler ele alındı. Otelciler, tur operatörleri ve havayolu temsilcilerinin katıldığı buluşmada, turist sayısındaki artışın tek başına başarı göstergesi olmadığı vurgulanarak kişi başı gelir ile sektörün kazancının ön planda tutulması gerektiği ifade edildi. Paylaşılan verilere göre, Almanya ve İngiltere pazarında gerileme yaşandığı belirtildi.
 

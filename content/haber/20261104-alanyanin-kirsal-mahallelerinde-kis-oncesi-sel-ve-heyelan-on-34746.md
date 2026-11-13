@@ -67,6 +67,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Büyükşehir Belediyesi, Alanya'nın kırsal mahallelerinde kış aylarında etkili olabilecek şiddetli yağışların ulaşımda aksamalara yol açmasını önlemek amacıyla yol bakım ve altyapı çalışmalarını sürdürüyor. Yeşilöz, Uğurlu ve Yalçı mahallelerinde su taşkınlarına karşı drenaj sistemleri güçlendirilirken, heyelan ve göçük riski bulunan yol kesimlerinde taş duvar ve onarım çalışmaları gerçekleştiriliyor.
 

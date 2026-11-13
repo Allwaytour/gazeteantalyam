@@ -72,6 +72,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 ---
 Küresel Gazeteciler Konseyi tarafından Alanya'da gerçekleştirilen 6. Küresel Medya Buluşması, farklı ülkelerden yüzlerce basın mensubunu bir araya getirdi. Beş gün süren organizasyon, gazeteciler arasındaki mesleki dayanışmanın güçlendirilmesine ve uluslararası ilişkilerin geliştirilmesine katkı sağladı.
 

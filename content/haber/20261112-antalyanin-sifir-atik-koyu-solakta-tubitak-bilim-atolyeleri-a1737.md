@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 47% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında sıfır atık köyüne dönüştürülen Antalya'nın Solak Köyü, TÜBİTAK'ın bilim atölyelerini ağırlıyor. Ziyaretçiler bu atölyelerde atık malzemelerin yeniden değerlendirilmesini uygulamalı olarak öğreniyor. Düzenlenen etkinliklerle iklim değişikliği, biyolojik çeşitlilik ve sürdürülebilirlik konularında farkındalık oluşturulması amaçlanıyor. Sanayi ve Teknoloji Bakanlığına bağlı faaliyet gösteren TÜBİTAK, yerli ve yabancı konuklar için farklı deneyim alanları hazırladı. Bu kapsamda oluşturulan 1.350 metrekarelik Bilim Merkezi Sergi ve Etkinlik Alanı, pek çok bilimsel disiplini katılımcılarla buluşturuyor.
 

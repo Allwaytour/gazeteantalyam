@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg/1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
 ---
 Manavgat, dünya spor tarihinde bir ilk olan uluslararası bir organizasyona ev sahipliği yaptı. Farklı ülkelerden gelen yüzlerce sporcunun katıldığı etkinlik, ilçenin uluslararası spor arenasındaki konumunu güçlendirdi.
 

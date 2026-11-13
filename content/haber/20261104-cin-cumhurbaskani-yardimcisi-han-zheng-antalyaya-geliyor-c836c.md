@@ -1,7 +1,7 @@
 ---
-title: Cin Cumhurbaskani Yardimcisi Han Zheng Antalya'ya geliyor
+title: Çin Cumhurbaşkanı Yardımcısı Han Zheng Antalya'ya geliyor
 date: '2026-11-04T13:14:30+03:00'
-ozet: Cin Cumhurbaskani Yardimcisi Han Zheng, Antalya'da duzenlenecek COP31 Liderler Zirvesi'ne Cumhurbaskani Xi Jinping'in ozel temsilcisi olarak katilacak.
+ozet: Çin Cumhurbaşkanı Yardımcısı Han Zheng, Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne Cumhurbaşkanı Xi Jinping'in özel temsilcisi olarak katılacak.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_kredi: 'Arşiv fotoğrafı: Foreign, Commonwealth & Development Office / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
@@ -111,10 +111,16 @@ gorsel_yerlesim:
   o_mansetyan_m: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_yedek: /images/haber-gorsel/20261104-cin-cumhurbaskani-yardimcisi-han-zheng-antalyaya-geliyor-c836-36f2f1ce.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-cin-cumhurbaskani-yardimcisi-han-zheng-antalyaya-geliyor-c836-f97017e1.jpg
+baslik_onceki: Cin Cumhurbaskani Yardimcisi Han Zheng Antalya'ya geliyor
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.sondakika.com/guncel/haber-cin-cumhurbaskani-yardimcisi-han-zheng-cop31-lider-20394639/
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Cin Cumhurbaskani Yardimcisi Han Zheng, Antalya'da duzenlenecek Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi Liderler Zirvesi'ne istirahat edecek. Soz konusu zirve, 6-12 Kasim tarihlerinde Antalya'da gerceklestirilecek.
+Çin Cumhurbaşkanı Yardımcısı Han Zheng, Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Liderler Zirvesi'ne istirahat edecek. Söz konusu zirve, 6-12 Kasım tarihlerinde Antalya'da gerçekleştirilecek.
 
-Han, bu onemli zirvede Cin Devlet Baskani Xi Jinping'i ozel temsilci unvaniyla temsil edecek. Antalya'daki temaslarini ve programini tamamlamasinin ardindan Turkiye ziyareti sona erecek olan Han, ardindan Gurcistan'a gececek.
+Han, bu önemli zirvede Çin Devlet Baskani Xi Jinping'i özel temsilci unvanıyla temsil edecek. Antalya'daki temaslarını ve programını tamamlamasının ardından Türkiye ziyareti sona erecek olan Han, ardından Gürcistan'a geçecek.
 
-Soz konusu ziyaret ve zirve katilimiyla ilgili bilgiler Cin Disisleri Bakanligi Sozcusu tarafindan carsamba gunu kamuoyuna duyuruldu.
+Söz konusu ziyaret ve zirve katılımıyla ilgili bilgiler Çin Dışişleri Bakanlığı Sözcüsü tarafindan çarşamba günü kamuoyuna duyuruldu.

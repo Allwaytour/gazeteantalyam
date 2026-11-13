@@ -100,6 +100,8 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Yeni Parti Antalya Milletvekili Aliye Coşar, Silivri Cezaevi'ni ziyaret ederek birtakım görüşmeler gerçekleştirdi. Ziyaret kapsamında İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu ile birlikte Fatma Kaplan Hürriyet, Oya Tekin ve Mehmet Necati Yağcı ile bir araya gelindi.
 

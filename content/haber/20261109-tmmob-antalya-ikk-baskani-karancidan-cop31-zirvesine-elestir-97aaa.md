@@ -70,6 +70,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Antalya EXPO 2016 alanında gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) başlarken, TMMOB Antalya İl Koordinasyon Kurulu (İKK) ve Jeoloji Mühendisleri Antalya Şubesi Başkanı Mustafa Karancı zirveye dair önemli değerlendirmelerde bulundu. Karancı, iklim politikalarının şirketlerin ticari kazançları yerine toplumun ve doğanın gerçek ihtiyaçlarına odaklanması gerektiğini vurguladı.
 

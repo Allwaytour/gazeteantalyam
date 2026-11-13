@@ -64,6 +64,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 ---
 Antalya Havalimanı yetkililerinden elde edilen bilgilere göre, ekim ayında hava yoluyla kenti ziyaret eden turist sayısı geçen yılın aynı dönemine kıyasla yüzde 8 oranında azaldı. Ekim ayı boyunca Antalya'ya toplam 1 milyon 975 bin 277 yabancı ziyaretçi giriş yaptı. Yılın ocak-ekim dönemindeki genel tablo incelendiğinde ise bölgeye gelen turist sayısının yüzde 6 gerileyerek 14 milyon 993 bin 854 seviyesinde gerçekleştiği görüldü. Bu süreçte Avrupa'da yaşayan ve izinlerini Antalya'da geçirmeyi tercih eden gurbetçi sayısında da yüzde 2'lik bir düşüş yaşandı.
 

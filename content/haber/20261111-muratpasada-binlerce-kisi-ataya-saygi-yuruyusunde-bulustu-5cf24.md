@@ -71,6 +71,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
 ---
 Antalya'nın Muratpaşa ilçesinde, Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümü dolayısıyla Ata'ya Saygı Yürüyüşü gerçekleştirildi. Kentin farklı noktalarından gelen çok sayıda vatandaş, Muratpaşa Atatürk Kent Meydanı'nda toplandı. Burada meşalelerin yakılmasının ardından kalabalık, ellerinde Türk bayrakları ve Atatürk posterleriyle fener alayı yürüyüşüne başladı.
 

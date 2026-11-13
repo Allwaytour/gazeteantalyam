@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+- https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://images.unsplash.com/photo-1770319675767-9e97855ef639?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da düzenlenen 7. Uluslararası Gastronomi ve Miksoloji Yıldızları Buluşması, farklı ülkelerden yaklaşık 4 bin yarışmacının katılımına sahne oldu. Akdeniz Aşçılar Kulübü tarafından organize edilen etkinlikte, Mengen Aşçılar Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri önemli bir başarıya imza attı.
 

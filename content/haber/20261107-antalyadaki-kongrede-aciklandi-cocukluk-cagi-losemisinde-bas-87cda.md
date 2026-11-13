@@ -75,6 +75,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 ---
 Türk Hematoloji Derneği'nin ev sahipliğinde gerçekleştirilen 52. Ulusal Hematoloji Kongresi, Belek'teki bir otelde bin 200'ün üzerinde katılımcıyla tamamlandı. Beş gün süren bilimsel buluşmada, uzman hekimler ve araştırmacılar hematoloji alanındaki son gelişmeleri değerlendirdi. Avrupa Patoloji Derneği ile ortak bir toplantının da yapıldığı kongrede, yurt dışından gelen bilim insanlarının katılımıyla uluslararası bir boyut kazandı.
 

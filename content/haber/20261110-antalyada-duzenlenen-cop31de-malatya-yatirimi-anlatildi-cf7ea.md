@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye'nin köklü sanayi kuruluşlarından biri, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında düzenlenen panelde, Malatya'da hayata geçirilecek yeni üretim tesisi yatırımını, bölgesel kalkınma hedeflerini ve sürdürülebilir büyüme yaklaşımını uluslararası kamuoyuyla paylaştı.
 

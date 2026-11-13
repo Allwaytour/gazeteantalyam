@@ -74,6 +74,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında Antalya'nın Aksu ilçesindeki EXPO 2016 yerleşkesinde etkinlikler devam ediyor. Zirvenin halka açık alanı olan Yeşil Bölge'de, iklim krizinin tarım ve gıda güvenliğine etkileri ele alındı. İl Tarım ve Orman Müdürlüğü tarafından organize edilen oturumda, iklim değişikliğinin böcek popülasyonlarına yansımaları ve tarımı bekleyen riskler uzmanlar tarafından masaya yatırıldı.
 

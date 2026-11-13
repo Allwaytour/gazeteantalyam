@@ -67,6 +67,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da otomobil, motosiklet ve ticari araç sahiplerinin zorunlu trafik sigortası fiyatları yeniden belirlendi. Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunun genelgesine göre, trafik sigortasında azami primler yüzde 1 oranında artırıldı. Ticari taksi, minibüs ve otobüs gruplarında ise artış oranı yüzde 3 olarak uygulandı.
 

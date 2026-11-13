@@ -72,6 +72,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Muratpaşa ilçesine bağlı Kışla Mahallesi Kapalı Yol mevkisinde bulunan üç katlı bir kafe restoranda henüz belirlenemeyen bir nedenle yangın çıktı. Gece yarısından sonra saat 04.30 sıralarında meydana gelen olayı gece bekçisi fark etti. 
 

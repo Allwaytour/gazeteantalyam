@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Çevre Sözleşmesi'nin 31'nci Taraflar Konferansı Antalya'da başladı. İlk defa Türkiye'nin ev sahipliğinde gerçekleştirilen bu önemli buluşmaya, 196 ülkenin yanı sıra Avrupa Birliği üyesi ülkelerden üst düzey temsilciler katılım gösteriyor.
 

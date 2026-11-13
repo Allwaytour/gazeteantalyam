@@ -77,6 +77,10 @@ metin_onarim:
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/0/05/Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
 ---
 Alanya Kent Konseyi Başkanı Nurhan Özcan yönetiminde gerçekleştirilen toplantıda, şehrin farklı kesimlerinden kadın temsilciler bir araya geldi. Toplantının ana gündem maddesini 25 Kasım anma programı ve bu kapsamda hayata geçirilecek farkındalık etkinlikleri oluşturdu.
 

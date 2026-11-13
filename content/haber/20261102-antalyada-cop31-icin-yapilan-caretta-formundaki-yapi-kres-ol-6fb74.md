@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın ev sahipliğinde 9-20 Kasım tarihlerinde gerçekleştirilecek olan COP31 İklim Zirvesi hazırlıkları kapsamında inşa edilen özel bir yapı ilgi görüyor. Antalya Valiliği himayelerinde yürütülen çalışmalar çerçevesinde tasarlanan caretta caretta figürlü Antalya Pavilyonu, zirve alanında düzenlenen basın gezisiyle tanıtıldı. Çevre dostu yaklaşımıyla öne çıkan yapının tasarımında ağaç kabukları, ahşap artıkları ve çeşitli doğal malzemeler tercih edildi.
 

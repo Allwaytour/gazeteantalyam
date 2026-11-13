@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Antalya_Liman%C4%B1..._-_panoramio.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/4/4a/Antalya_Otogar_-_29.1.26.jpg
+- https://images.unsplash.com/photo-1583157048761-ac1dba033233?fm=jpg&q=80&w=1600&fit=max
 ---
 Geçmişte Antalya'daki Port Akdeniz Limanı'nın işletmeciliğini üstlenen Global Ports Holding, uluslararası alandaki yatırımlarına yenisini ekliyor. Şirketin çatı kuruluşu olan Global Yatırım Holding tarafından Kamuyu Aydınlatma Platformu'na yapılan resmî açıklamaya göre, Barselona Limanı Yönetim Kurulu yeni bir kruvaziyer terminali projesini ve imtiyaz sözleşmesi değişikliğini onayladı. Alınan kararla birlikte şirketin limandaki işletme hakkı 2050 yılına kadar uzatıldı.
 

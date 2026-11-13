@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1542202229-7d93c33f5d07?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1440581572325-0bea30075d9d?fm=jpg&q=80&w=1600&fit=max
 ---
 Kaş Orman İşletme Müdürlüğü, Gelemiş bölgesinde bulunan birinci derece doğal sit statüsündeki denize sıfır orman alanını konaklamasız orman parkı şeklinde işletmek üzere üçüncü kez ihaleye hazırlanıyor. Daha önce iki kez gündeme gelen kiralama süreci bölge halkı ve sivil toplum kuruluşlarının protestolarıyla karşılaşmıştı. Geçtiğimiz yıl nisan ayında ilçe merkezindeki ihaleye yurttaşlar engel olurken, ağustos ayında Antalya'da gerçekleştirilen girişime ise çevre savunucuları hukuki süreçle karşılık vermişti.
 

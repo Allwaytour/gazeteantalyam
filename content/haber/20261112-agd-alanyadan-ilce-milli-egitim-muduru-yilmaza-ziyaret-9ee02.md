@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 ---
 Anadolu Gençlik Derneği Alanya İlçe Başkanlığı temsilcileri, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz'a bir ziyarette bulundu. Gerçekleştirilen buluşmada, kurumlar arası yürütülen gençlik ve eğitim odaklı çalışmalar ele alındı.
 

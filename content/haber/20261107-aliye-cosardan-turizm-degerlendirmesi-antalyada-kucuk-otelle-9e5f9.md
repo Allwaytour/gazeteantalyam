@@ -198,6 +198,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 ---
 YENİ Parti Antalya Milletvekili Aliye Coşar, Türkiye Büyük Millet Meclisi Kültür ve Turizm Bakanlığı bütçesi üzerine yaptığı konuşmada, turizm sektörünün karşı karşıya olduğu sorunları gündeme taşıdı. Coşar, açıklanan ziyaretçi ve gelir rakamlarının sektörün gerçek durumunu yansıtmadığını, artan maliyetler ve vergiler nedeniyle turizm işletmeleri ile emekçilerin zorlandığını ifade etti.
 

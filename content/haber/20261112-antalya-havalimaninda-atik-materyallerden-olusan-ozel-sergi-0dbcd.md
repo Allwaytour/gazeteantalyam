@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Valiliği koordinasyonunda hayata geçirilen proje kapsamında, sanatçı Serkan Şerefhanoğlu’nun eserlerinden oluşan özel bir sergi hazırlandı. Sanat ve sürdürülebilirlik alanlarında toplumsal bilinci artırmayı amaçlayan bu çalışma, İç Hatlar Terminali Gelen Yolcu Bagaj Alımı Salonu’nda ziyaretçilerin beğenisine sunuldu.
 

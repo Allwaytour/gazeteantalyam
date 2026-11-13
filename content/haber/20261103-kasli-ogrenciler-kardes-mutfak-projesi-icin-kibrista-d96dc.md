@@ -67,6 +67,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1770319675767-9e97855ef639?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1484156818044-c040038b0719?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Kaş ilçesinden gelen öğrenci ve öğretmenler, yürütülen Kardeş Mutfak Projesi çerçevesinde kabul edildi. Ziyaret kapsamında Kaş'tan giden heyetin, Kıbrıs ve Anadolu mutfak kültürlerini karşılıklı olarak tanıması ve mesleki tecrübe edinmesi amaçlanıyor.
 

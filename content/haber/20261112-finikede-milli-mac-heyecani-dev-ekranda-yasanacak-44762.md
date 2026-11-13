@@ -2,8 +2,8 @@
 title: Finike'de milli maç heyecanı dev ekranda yaşanacak
 date: '2026-11-12T13:19:00+03:00'
 ozet: A Milli Futbol Takımı'nın Belçika ile oynayacağı kritik karşılaşma, Finike Kent Meydanı'na kurulacak dev ekrandan canlı yayınlanacak.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
-gorsel_kredi: 'Fotoğraf: Peter Glaser baraida / Wikimedia Commons (CC0)'
+gorsel: https://images.unsplash.com/photo-1725030971668-684f1e8ca8ee?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Brianna Lengacher / Unsplash'
 kategoriler:
 - Spor
 ilceler:
@@ -16,23 +16,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  gorsel_url: https://images.unsplash.com/photo-1725030971668-684f1e8ca8ee?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 329e3ed96cb0
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
-  fotografci: Peter Glaser baraida
-  lisans: CC0
-  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  kaynak_sayfa: https://unsplash.com/photos/maFOyIkw6P4
+  fotografci: Brianna Lengacher
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
   gosterilen: Futbol
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'futbol-1' (Futbol) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'futbol-6' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: futbol-1
-    tarih: '2026-11-13T14:45:08+03:00'
+    arsiv_id: futbol-6
+    tarih: '2026-11-13T15:19:24+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -49,8 +49,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/finikede-milli-mac-heyecani-turkiy
 gorsel_yedek: /images/haber-gorsel/20261112-finikede-milli-mac-heyecani-dev-ekranda-yasanacak-44762-e8800f23.jpg
 gorsel_yerlesim:
   boyut:
-  - 5787
-  - 3858
+  - 6720
+  - 4480
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,8 +68,13 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  url: https://images.unsplash.com/photo-1725030971668-684f1e8ca8ee?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 ---
 A Milli Futbol Takımı'nın UEFA Uluslar A Ligi'ndeki zorlu Belçika mücadelesi için Antalya'nın Finike ilçesinde hazırlıklar tamamlandı. Finike Belediyesi, ay-yıldızlı ekibin bu akşam sahne alacağı karşılaşmanın Kent Meydanı'nda kurulacak dev ekrandan sporseverlerle buluşacağını bildirdi.
 

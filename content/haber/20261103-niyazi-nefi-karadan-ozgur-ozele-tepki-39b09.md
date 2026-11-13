@@ -1,7 +1,7 @@
 ---
-title: Niyazi Nefi Kara'dan Ozgur Ozel'e Tepki
+title: Niyazi Nefi Kara'dan Özgür Özel'e Tepki
 date: '2026-11-03T21:10:48+03:00'
-ozet: Gorevden uzaklastirilan Manavgat Belediye Baskani Niyazi Nefi Kara, cezaevinden yaptigi aciklamada Ozgur Ozel'in sozlerine sert tepki gosterdi.
+ozet: Görevden uzaklaştırılan Manavgat Belediye Başkanı Niyazi Nefi Kara, cezaevinden yaptığı açıklamada Özgür Özel'in sözlerine sert tepki gösterdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/4/4a/Manavgat_River_5.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Spiritia / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -43,7 +43,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/niyazi-nefi-karadan-ozgur-ozele-cezaevinden-isyan-pervasizca-karaliyor/388594
-gorsel_yedek: /images/haber-gorsel/20261103-niyazi-nefi-karadan-ozgur-ozele-tepki-39b09-71889a9d.jpg
+gorsel_yedek: /images/haber-gorsel/20261103-niyazi-nefi-karadan-ozgur-ozele-tepki-39b09-37737cee.jpg
 gorsel_yerlesim:
   boyut:
   - 3264
@@ -65,9 +65,17 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/4/4a/Manavgat_River_5.jpg
 gorsel_gecmis: []
+baslik_onceki: Niyazi Nefi Kara'dan Ozgur Ozel'e Tepki
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.akdenizgercek.com.tr/antalya/niyazi-nefi-karadan-ozgur-ozele-cezaevinden-isyan-pervasizca-karaliyor/388594
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg
 ---
-Antalya'nin Manavgat ilçesinde hakkindaki bazi iddialar nedeniyle yargilanan ve gorevinden uzaklastirilan Manavgat Belediye Baskani Niyazi Nefi Kara, bir televizyon programinda yapilan aciklamalara sosyal medya hesabi uzerinden yayinladigi metinle karsilik verdi.
+Antalya'nın Manavgat ilçesinde hakkındaki bazı iddialar nedeniyle yargılanan ve görevinden uzaklaştırılan Manavgat Belediye Başkanı Niyazi Nefi Kara, bir televizyon programında yapılan açıklamalara sosyal medya hesabı üzerinden yayınladığı metinle karşılık verdi.
 
-Tutuklandiktan uc ay sonra partisinden istifa eden Kara, paylasiminda yargilama surecinin yakindan takip edilmedigini belirterek elestirilerde bulundu. Dosyanin hukukcular tarafindan incelenmesi durumunda sucsuzlugunun anlasilabilecegini ifade eden Kara, eski yol arkadasi tarafindan yapilan aciklamalarin gercegi yansitmadigini savundu.
+Tutuklandıktan üç ay sonra partisinden istifa eden Kara, paylaşımında yargılama sürecinin yakından takip edilmediğini belirterek eleştirilerde bulundu. Dosyanın hukukçular tarafından incelenmesi durumunda suçsuzluğunun anlaşılabileceğini ifade eden Kara, eski yol arkadaşı tarafından yapılan açıklamaların gerçeği yansıtmadığını savundu.
 
-Ruhsat ve benzeri iddialara iliskin mahkemede hic kimsenin kendisinden para istendigi ya da rusphes alindigi yonunde beyanda bulunmadigini belirten Kara, belediyenin kaynaklarinin korundugunu ve basinin dik oldugunu kaydetti. Kamuoyunun yaniltildigini öne suren Kara, gercekleri paylasmanin bir sorumluluk oldugunu vurguladi.
+Ruhsat ve benzeri iddialara ilişkin mahkemede hiç kimsenin kendisinden para istendigi ya da rusphes alındığı yönünde beyanda bulunmadığını belirten Kara, belediyenin kaynaklarının korunduğunu ve başının dik olduğunu kaydetti. Kamuoyunun yanıltıldığını öne süren Kara, gerçekleri paylaşmanın bir sorumluluk olduğunu vurguladı.

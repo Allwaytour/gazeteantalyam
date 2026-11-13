@@ -75,6 +75,11 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 baslik_ozgun: 'Sarigul Soruşturmasında Antalya Baglantisi: Emir Sarigul Serbest Birakildi'
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 ---
 Mustafa Sarıgül ile ailesine yönelik yürütülen soruşturmada yeni adımlar atıldı. Gözaltına alınan isimler arasında yer alan Mustafa Sarıgül’ün oğlu Emir Sarıgül, etkin pişmanlık hükümlerinden faydalandı. Emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edilen Emir Sarıgül hakkında mahkemece ev hapsi kararı verilerek tahliyesi gerçekleştirildi. Öte yandan Mustafa Sarıgül’ün geçtiğimiz hafta savcılığa ek ifade verdiği kaydedildi.
 

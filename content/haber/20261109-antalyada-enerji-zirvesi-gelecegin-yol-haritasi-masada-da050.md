@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1779185249245-b1e518a6f7fc?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Küresel enerji ve finans dünyasının önde gelen isimleri, Antalya'da gerçekleştirilecek COP31 kapsamında önemli bir zirvede bir araya geliyor. Etkinlik kapsamında düzenlenecek iki özel oturumda, geleceğin enerji politikaları ve bu dönüşümün finansman süreçleri detaylı bir şekilde masaya yatırılacak.
 

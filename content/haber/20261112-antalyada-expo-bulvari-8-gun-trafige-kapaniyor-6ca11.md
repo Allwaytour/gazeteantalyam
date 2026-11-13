@@ -74,6 +74,9 @@ metin_onarim:
   kaynak: https://www.antalyaekspres.com.tr/antalyada-8-gun-surecek-trafik-kisitlamasi-expo-bulvarina-girisler-yasaklaniyor
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 6 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 6 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Antalya'da düzenlenen Birlesmis Milletler İklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi kapsamında yeni trafik tedbirleri alındı. Yapılan duyuruya göre, 14 ile 21 Kasım 2026 tarihleri arasında Turizm Yolu ile EXPO Bulvarı'nın kesisği kavşak ve bulvar güzergahı araç trafiğine sınırlandırılacak. Sekiz gün süresince uygulanacak ksitlama boyunca söz konusu güzergah yalnızca organizasyona hizmet veren ve COP31 görselleriyle giydirilen servis otobuselrinin kullanımına açık olacak.
 

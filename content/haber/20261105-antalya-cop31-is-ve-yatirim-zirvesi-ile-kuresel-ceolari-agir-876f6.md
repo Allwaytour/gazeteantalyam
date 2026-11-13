@@ -72,6 +72,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye Odalar ve Borsalar Birliği koordinasyonunda hayata geçirilecek COP31 İş ve Yatırım Zirvesi, 12 ile 13 Kasım 2026 tarihlerinde Antalya'da düzenlenecek. İklim hedeflerini somut yatırımlara dönüştürmeyi amaçlayan dev organizasyon, dünyanın dört bir yanından kamu ve özel sektör temsilcilerini aynı masada buluşturacak.
 

@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1635253548172-d82ffe76449d?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye genelinde yaklaşık bir milyon epilepsi hastası bulunduğu belirtilirken, bu kişilerin nöbetleri kontrol altında olsa bile çalışma hayatında ciddi engellerle karşılaştığı ifade edildi. Herkes gibi üretmek ve hayata katılmak isteyen hastaların, sahip oldukları yeteneklere rağmen iş yaşamının dışında bırakıldığına vurgu yapıldı. Uzmanlar, doğru bilgilendirme ve atılacak makul adımlarla bu engellerin aşılabileceğini belirtti.
 

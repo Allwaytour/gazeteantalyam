@@ -72,6 +72,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye İşçi Partisi tarafından "Kurtuluş Ellerimizde" sloganıyla hazırlanan bildirgede vatandaşlar emek, eşitlik ve dayanışma etrafında birleşmeye davet edildi. Siyasi düzen ile sağ politikaların eleştirildiği metinde; eğitim, sağlık, barınma, iş güvencesi, kadın hakları ve çevre koruma başlıklarında çözüm yollarının birlikte aranması amaçlandığı ifade edildi.
 

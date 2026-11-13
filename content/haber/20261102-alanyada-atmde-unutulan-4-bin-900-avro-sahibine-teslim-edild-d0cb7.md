@@ -99,6 +99,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1771527253774-34c5c2860fee?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Alaaddin Keykubat Üniversitesi-Dinek Mahallesi hattında görev yapan özel halk otobüsü şoförü Zekeriya Öner, seferini tamamladıktan sonra para yatırmak amacıyla Kestel Mahallesi'ndeki bir bankamatik önüne geldi. Cihazdan gelen sesleri fark eden Öner, iptal tuşuna bastığı esnada ATM'den yüklü miktarda döviz çıktığını fark etti.
 

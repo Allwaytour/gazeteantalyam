@@ -62,6 +62,8 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Alanya'da geleneksel halk oyunlarının yaşatılması ve kültürel mirasın gelecek kuşaklara aktarılması amacıyla düzenlenen zeybek kursları yeniden başlıyor. Alanya Belediyesi ile Alanya Kültür Sanat ve Turizm Vakfı iş birliğinde gerçekleştirilecek Alanya ve Ege Yöresi Zeybek Kursları, altıncı döneminde vatandaşlarla buluşmaya hazırlanıyor.
 

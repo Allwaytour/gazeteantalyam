@@ -172,6 +172,8 @@ metin_onarim:
   kaynak: https://www.antalyagundem.com.tr/antalyali-ihracatcilarindan-dunyanin-baskentine-cikarma
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
 ---
 Batı Akdeniz İhracatçılar Birliği, dünyanın en büyük taş işleme merkezleri arasında yer alan Çin'in Yunfu ve Shuitou şehirlerine doğaltaş sektörel ticaret heyeti düzenledi. Gerçekleştirilen ziyaretlerde resmi kurum temsilcileri ile sektöre yön veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Batı Akdeniz İhracatçılar Birliği'ni Başkan Yardımcısı Mustafa Küçükyaman ve Denetim Kurulu Üyesi Mustafa Tekin temsil etti.
 

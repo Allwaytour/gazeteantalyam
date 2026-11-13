@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 ---
 İYİ Parti Antalya İl Başkanı Ali Adnan Kaya ve beraberindeki divan heyeti, Antalya Ticaret ve Sanayi Odası (ATSO) Yönetim Kurulu Başkanı Berkay Bahar’ı makamında ziyaret etti. Gerçekleşen nezaket ziyaretinde, Aksu ilçesine bağlı Çalkaya ve Altıntaş bölgesindeki güncel imar ve parselasyon sıkıntılarını kapsayan kapsamlı bir rapor Kaya’ya takdim edildi.
 

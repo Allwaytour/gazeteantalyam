@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/26/2009-11-12-Belek-Nobilis-3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/0/03/2009-11-12-Belek-Nobilis-4.JPG
 ---
 Manavgat Belediyesi tarafından yapılan açıklamaya göre, Ulualan bölgesiyle ilgili gazeteci Nalan Akpınaroğlu'nun başlattığı hukuki süreçte önemli bir karar alındı. Antalya Bölge İdare Mahkemesi, bölgenin golf turizm alanı olarak planlanmasına ilişkin imar planlarının iptal edilmesi yönündeki ilk derece mahkemesi kararına karşı yapılan istinaf başvurusunu geri çevirdi. Bu kararla birlikte söz konusu imar planlarını iptal eden ilk derece mahkemesi kararı hukuken korundu.
 

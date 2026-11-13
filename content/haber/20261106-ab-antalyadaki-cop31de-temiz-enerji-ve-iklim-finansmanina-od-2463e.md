@@ -74,6 +74,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
 ---
 Avrupa Birliği, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda küresel iklim eylemini hızlandırmak ve Paris Anlaşması hedeflerini hayata geçirmek amacıyla uluslararası ortaklarıyla çalışacağını bildirdi. AB Komisyonu tarafından yapılan açıklamada, 9-20 Kasım tarihlerinde düzenlenecek zirve öncesinde Birliğin öncelikleri ve katılım programı paylaşıldı.
 

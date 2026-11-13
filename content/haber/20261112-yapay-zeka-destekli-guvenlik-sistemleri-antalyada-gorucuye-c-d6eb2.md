@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/1280px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
 ---
 Kentte gerçekleştirilen 20. EIF Enerji Dönüşüm Fuarı ve Kongresi, kritik altyapılara yönelik modern güvenlik çözümlerine ev sahipliği yaptı. Etkinlikte sergilenen yapay zeka destekli akıllı kamera ve sensör sistemleri katılımcıların ilgisini çekti.
 

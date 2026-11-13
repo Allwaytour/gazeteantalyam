@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Muratpaşa ilçesinde sabah saatlerinde üzücü bir olay yaşandı. Güzeloba Mahallesi Lara Caddesi üzerindeki Düden Şelalesi'nin denize döküldüğü mevkide balık tutan vatandaşlar, deniz yüzeyinde hareketsiz duran bir insan olduğunu fark etti. Üzerinde kıyafetleri bulunduğu görülen şahsın durumunun bildirilmesi üzerine olay yerine 112 Acil Çağrı Merkezi tarafından ekipler sevk edildi.
 

@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 ---
 Antalya Uluslararası Fuar ve Kongre Merkezi’nde kapılarını açan turizm fuarında, yükseköğretim kurumu adına Teknoloji Transfer Ofisi Koordinatörlüğünden Öğr. Gör. Emre Semiz ile Sağlık Bilimleri Fakültesi Sağlık Yönetimi Ana Bilim Dalından Dr. Öğr. Üyesi Nazmi Kanad hazır bulundu.
 

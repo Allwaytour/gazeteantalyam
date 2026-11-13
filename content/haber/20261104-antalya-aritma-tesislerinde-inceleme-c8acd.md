@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1622322977885-8ee6d45ea016?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1622322977879-af6982dcba00?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1622322977781-76f2247964b7?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Büyükşehir Belediyesi Su ve Atık Su İdaresi Genel Müdürlüğü'nün atık su altyapısını güçlendirmek amacıyla sürdürdüğü çalışmalar kapsamında önemli bir ziyaret gerçekleştirildi. Fransız Kalkınma Ajansı Türkiye Direktörü Xavier Muron ve beraberindeki heyet, ASAT Genel Müdürü Cengiz Gülebay ile bir araya geldi. İncelemeler kapsamında ilk olarak Hurma Atık Su Arıtma Tesisi ziyaret edildi.
 

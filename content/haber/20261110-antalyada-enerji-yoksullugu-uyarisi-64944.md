@@ -73,6 +73,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
+- https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 COP31 Türkiye Antalya etkinlikleri çerçevesinde Yeşil Bölge Dirençli Şehirler G2 Hub’ı Antalya Büyükşehir Belediyesi Pavilyonu’nda bir panel gerçekleştirildi. "Kamu Binalarında Enerji Dönüşümü Nasıl Gerçekleştirilebilir?" başlığıyla düzenlenen oturumda, yenilenebilir enerji yatırımları, bürokratik süreçler ve enerji yoksulluğu masaya yatırıldı.
 

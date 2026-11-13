@@ -74,6 +74,9 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Antalya'da hayata geçirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde kurulan 582 bin 244 metrekarelik Yeşil Bölge, sürdürülebilir yaşam, kültür ve sanat temalı etkinliklerle yoğun ilgi görüyor. Alanda Türkiye Pavilyonu, Bilim Merkezi, Yeşil Sanayileşme, Dirençli Şehirler, Enerji ve Ulaşım, Kültür ve Medeniyet, COPArt ile Startup Zone yapısı yer alıyor. Sıfır Atık Mutfağı'nda gıda israfını önlemeye yönelik çalışmalar sergilenirken, Kültür ve Medeniyet Pavilyonu'nda Türk tarihi, doğa temalı sunumlar ve geleneksel Döşemealtı halıcılığı ziyaretçilere aktarılıyor.
 

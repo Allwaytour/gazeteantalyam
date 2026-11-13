@@ -77,6 +77,10 @@ metin_onarim:
   kaynak: https://www.gazetealanya.com/zafer-partisi-alanya-teskilatinda-gorev-degisimi
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Zafer Partisi Alanya İlçe Başkanlığı, İlçe Başkanı Fikret Türkoğlu yönetiminde bir araya gelerek yeni dönem stratejilerini değerlendirdi ve teşkilat içindeki görev dağılımını yeniledi. Gerçekleştirilen toplantı sonucunda, gençlik kolları başkanlığı görevini sürdüren Mustafahan Zavlak ilçe yönetim kurulu üyeliğine getirilirken, bu pozisyona Oğuzcan Akıncı atandı.
 

@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı COP31'e ev sahipliği yapmaya hazırlanan Antalya, bu kapsamda önemli uluslararası buluşmalardan birine ev sahipliği yapacak. Kentte gerçekleştirilecek olan Halkların İklim Zirvesi, 15-18 Kasım tarihleri arasında düzenlenecek. Mimar Sinan Kongre Merkezi'nde yapılacak dört günlük etkinliğe 44 farklı ülkeden toplumsal hareketler katılacak. Buluşma boyunca iklim adaleti, fosil yakıtlardan çıkış ve enerji demokrasisi gibi kritik başlıklarda 100'ün üzerinde oturum gerçekleştirilecek. Öte yandan COP31 zirvesinin ise 9-20 Kasım tarihlerinde yapılması planlanıyor.
 

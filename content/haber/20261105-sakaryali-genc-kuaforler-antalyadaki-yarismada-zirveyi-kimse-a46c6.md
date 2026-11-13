@@ -104,6 +104,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDA3NDk3Nnww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'da My Akademi tarafından organize edilen ve Türkiye genelinden yaklaşık 100 öğrencinin katılımıyla gerçekleşen ulusal saç kesim yarışması, genç yeteneklerin kıyasıya rekabetine sahne oldu. Mesleki becerilerini ve yaratıcılıklarını sergileme fırsatı bulan öğrenciler, tasarımlarıyla jüri üyelerini etkilemek için ter döktü.
 

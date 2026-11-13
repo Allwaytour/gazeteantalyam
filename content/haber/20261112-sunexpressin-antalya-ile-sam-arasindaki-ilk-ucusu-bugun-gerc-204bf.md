@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
 ---
 Türk Hava Yolları ve Lufthansa ortaklığıyla faaliyet gösteren SunExpress, kış dönemine yönelik uçuş ağını genişletmeye devam ediyor. Şirket, bu kapsamda Antalya ile Şam arasında karşılıklı uçuşları başlatıyor. Planlanan programa göre iki şehir arasındaki ilk sefer bugün yapılacak.
 

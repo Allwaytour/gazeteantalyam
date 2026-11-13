@@ -2,8 +2,8 @@
 title: Kumluca derelerinde taşkın koruma çalışmaları incelendi
 date: '2026-11-13T14:08:00+03:00'
 ozet: Antalya'nın Kumluca ilçesinde sel ve su baskını riskine karşı Gavur, Üleşik ve Akmaz derelerinde yürütülen ıslah çalışmaları yerinde incelendi.
-gorsel: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1568680870491-590cd4e224ab?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nathan Lugo / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,19 +12,33 @@ etiketler:
 - Devlet Su İşleri
 gorsel_sinif: tarim
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1568680870491-590cd4e224ab?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c87150c8addd
+  kaynak_sayfa: https://unsplash.com/photos/sS2Cg2Hz3S8
+  fotografci: Nathan Lugo
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Tarım
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'tarla-2' (Tarım) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum ya da nötr kayıt)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tarla-2
+    tarih: '2026-11-13T15:19:12+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: arsiv
+    tur: tipografik
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -36,8 +50,8 @@ kaynak_url: https://www.batiantalya.com.tr/kumlucada-sel-ve-taskin-riskine-karsi
 gorsel_yedek: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4288
+  - 2848
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,15 +60,22 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1568680870491-590cd4e224ab?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1529511582893-2d7e684dd128?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/6/6b/Tractor%2C_%C3%87i%C3%A7ekli.JPG
+- https://upload.wikimedia.org/wikipedia/commons/c/c9/Bu%C4%9Fday_tarlas%C4%B1_-_Wheat_field_01.jpg
 ---
 Antalya'nın Kumluca ilçesinde geçmiş yıllarda yaşanan sel ve su baskınlarının ardından dere yataklarında başlatılan taşkın koruma çalışmaları yakından takip ediliyor. İlçe protokolü, Gavur, Üleşik ve Akmaz derelerinde bir dizi saha incelemesi gerçekleştirerek bölgedeki yatırımların son durumunu değerlendirdi.
 

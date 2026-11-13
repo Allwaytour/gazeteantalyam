@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/d/d3/Matsukawa_Village_Library_bookshelves_ac_%281%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1495446815901-a7297e633e8d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 İklim değişikliği alanındaki güncel gelişmeler ve COP süreçlerindeki terminolojik ihtiyaçlar doğrultusunda yenilenen eser, yaklaşık 2 bin 500 terimin Türkçe, İngilizce, Almanca, Arapça, Fransızca, İspanyolca ve Rusça karşılıklarını okuyucularla buluşturuyor. İklim kriziyle mücadelede ortak bir kavramsal çerçeve geliştirmeyi amaçlayan çok dilli başvuru kaynağı, farklı diller arasında bilgi ve deneyim aktarımını kolaylaştırmayı hedefliyor.
 

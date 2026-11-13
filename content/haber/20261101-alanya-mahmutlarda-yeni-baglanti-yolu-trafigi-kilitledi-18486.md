@@ -74,6 +74,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 ---
 Alanya'nın nüfus yoğunluğuyla öne çıkan yerleşim yerlerinden Mahmutlar Mahallesi'nde devreye alınan yeni güzergah, beklentilerin tersine ulaşımda aksamalara yol açtı. Günün yoğun saatlerinde Menderes Caddesi ile D-400 Karayolu üzerinde uzun araç kuyrukları meydana geliyor, bu durum bölgedeki günlük yaşamı olumsuz etkiliyor.
 

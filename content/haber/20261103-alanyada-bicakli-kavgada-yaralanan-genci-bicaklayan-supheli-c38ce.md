@@ -98,6 +98,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 ---
 Olay, Alanya'nın Şekerhane Mahallesi'nde yaşandı. Aralarında geçmişe dayalı husumet olduğu belirtilen U.Ç. ile aynı yaştaki U.A. sokakta karşılaştı. İkili arasında henüz belirlenemeyen bir nedenle başlayan sözlü tartışma kısa sürede kavgaya dönüştü. Tartışmanın büyümesi üzerine U.Ç., yanında taşıdığı bıçakla U.A.'yı sol bacağından ve vücudunun çeşitli bölgelerinden yaraladı.
 

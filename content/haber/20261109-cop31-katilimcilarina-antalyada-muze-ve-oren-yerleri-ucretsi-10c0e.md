@@ -74,6 +74,11 @@ metin_onarim:
   kaynak: https://www.hurriyet.com.tr/gundem/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz-43371334
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 6 kelime özgün haliyle bırakıldı; spot: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Birleşmiş Milletler Ilim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ilişkin hazırlıklar kapsamında, uluslararası organizasyon kapasitesini, sürdürülebilir turizm çalışmalarını ve kultursel zenginliği tanıtmak icin geniş bir program hazırlandı. Yapılan açıklamalara göre, uluslararası katılımcıların turizm potansiyelini keşfetmesi ve küresel tanıtımın güçlendirilmesi amaçlandı.
 

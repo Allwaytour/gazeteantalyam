@@ -74,6 +74,10 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1440581572325-0bea30075d9d?fm=jpg&q=80&w=1600&fit=max
 baslik_ozgun: Kepez Duaci Kent Ormani Tahlis Protokolu Geri Cekildi
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1542202229-7d93c33f5d07?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1712742609432-1e81639d59fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGluZSUyMGZvcmVzdCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0Mjk0MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080
+- https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
 ---
 Kepez Belediye Meclisi toplantısında, Duacı Mahallesi sınırları içinde yer alan Kent Ormanı'ndaki 75 dönümlük D Tipi mesire alanının bir derneğe ücret karşılığında tahsis edilmesini öngören protokol ele alındı. Ancak söz konusu tahsisin koşulları ve kamu yararı hususunda belirsizlikler bulunması nedeniyle ilgili madde, detaylı bir incelemeden geçirilmek üzere geri çekildi.
 

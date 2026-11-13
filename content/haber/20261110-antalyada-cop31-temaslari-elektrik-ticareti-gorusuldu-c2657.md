@@ -77,6 +77,11 @@ metin_onarim:
   kaynak: https://www.sondakika.com/guncel/haber-bayraktar-cop31-icin-antalya-da-gurcistanli-mevkid-20414964/
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, COP31 Zirvesi'ne katılmak amacıyla Antalya'da bulunan Gürcistan Başbakan Yardımcısı ve Ekonomi ve Sürdürülebilir Kalkınma Bakanı Mariam Kvrivishvili ile görüştü.
 

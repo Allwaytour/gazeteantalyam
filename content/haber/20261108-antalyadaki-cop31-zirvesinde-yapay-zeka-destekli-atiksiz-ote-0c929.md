@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 ---
 Antalya, 9-20 Kasım 2026 tarihleri arasında Birleşmiş Milletler İklim Değişikliği Konferansı'na (COP31) ev sahipliği yapmaya hazırlanıyor. Bu önemli organizasyonda Kapadokya Üniversitesi, sürdürülebilir turizm ve iklim değişikliği ile mücadele konularındaki dört farklı bilimsel projesini dünya kamuoyuna sunacak. Etkinlik kapsamında destinasyon yönetimi, çevresel kirlilik ve gıda israfı gibi kritik başlıklar masaya yatırılacak.
 

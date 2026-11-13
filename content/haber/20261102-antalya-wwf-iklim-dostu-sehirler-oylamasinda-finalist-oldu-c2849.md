@@ -96,6 +96,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 ---
 Doğal Hayatı Koruma Vakfı (WWF) tarafından düzenlenen Tek Dünya Kentleri Şampiyonası kapsamında Antalya, Türkiye'nin ulusal finalistleri arasında yer aldı. Şehir, şimdi de We Love Cities 2026 kampanyası kapsamında küresel ölçekte destek arıyor.
 

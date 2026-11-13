@@ -32,7 +32,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-2
-    tarih: '2026-11-13T14:59:57+03:00'
+    tarih: '2026-11-13T15:19:48+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -68,6 +68,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayisiyla Türkiye'de bulunan Mali Basbakani Abdulaye Maiga ile ikili bir görüstü gerçeklestirdi. 
 

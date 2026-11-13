@@ -65,6 +65,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 ---
 Antalya'da turizm sektöründe kaynak israfının azaltılması amacıyla kamu kurumları ile özel sektörün katılımıyla ortak bir eylem planı oluşturuldu. Bu planın tanıtımı ve protokol imza töreni, ilgili paydaşların geniş katılımıyla bir konferans salonunda gerçekleştirildi.
 

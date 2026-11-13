@@ -75,6 +75,11 @@ metin_onarim:
   kaynak: https://www.fuardergisi.com.tr/hazir-giyimde-yeni-rekabet-modeli-antalyada-masaya-yatirilacak
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye Giyim Sanayicileri Derneği, Antalya'da süren COP31 kapsamında hazır giyim sektörünün geleceğine yönelik iki ayrı panel düzenleyecek. Kuruluşunun 50. yılını kutlayan dernek, değişen küresel ticaret dinamiklerine uyum sağlanması ve sürdürülebilir üretim kapasitesinin artırılması amacıyla görüşlerini bu platforma taşıyacak. Yeşil Bölge'de gerçekleşecek oturumlarda kamu temsilcileri, sanayiciler ve uzmanlar bir araya gelerek sektörün küresel rekabet gücünü değerlendirecek.
 

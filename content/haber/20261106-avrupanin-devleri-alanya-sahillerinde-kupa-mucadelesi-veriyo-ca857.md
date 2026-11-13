@@ -185,6 +185,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1639903293252-be7649fab563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbmV0JTIwVHVya2V5fGVufDF8MHx8fDE3OTQwODUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Alanya, doğal güzelliklerinin yanı sıra ev sahipliği yaptığı uluslararası spor organizasyonlarıyla da adından söz ettirmeyi sürdürüyor. Avrupa Voleybol Konfederasyonu takviminde yer alan CEV Plaj Voleybolu Avrupa Kulüpler Kupası Finali, ilçe sahillerinde büyük bir hareketlilik yarattı.
 

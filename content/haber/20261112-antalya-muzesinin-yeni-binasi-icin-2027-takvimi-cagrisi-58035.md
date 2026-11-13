@@ -78,6 +78,8 @@ metin_onarim:
   kaynak: https://www.cumhuriyet.com.tr/turkiye/antalya-muzesi-ne-zaman-acilacak-bakanliktan-2027-takvimi-istendi-2555514
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
 ---
 Kentteki önemli kultursal miraslar arasında yer alan Antalya Müzesi'nin yıkılmasının üzerinden yaklaşık iki yıl geçmesine rağmen yeni binanın inşaat sürecine dair somut bir adım atılmadı. Ziyaretçilere kapılarını yeniden ne zaman açacağı merak konusu olan müzenin durumu, TBMM Plan ve Bulte Komisyonu'nda gündeme getirildi.
 

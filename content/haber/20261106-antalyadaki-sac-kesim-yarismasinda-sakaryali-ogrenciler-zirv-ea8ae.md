@@ -2,8 +2,8 @@
 title: Antalya'daki Saç Kesim Yarışmasında Sakaryalı Öğrenciler Zirveye Yerleşti
 date: '2026-11-06T04:12:00+03:00'
 ozet: Antalya'da düzenlenen ulusal saç kesim yarışmasına katılan Sakaryalı üç öğrenci, sergiledikleri performansla ilk üç dereceyi elde etti.
-gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
+gorsel: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Vida Huang / Unsplash'
 kategoriler:
 - Eğitim
 ilceler: []
@@ -16,28 +16,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 2f03c5acfe97
-  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
-  fotografci: Haseeb Modi
+  kaynak_sayfa: https://unsplash.com/photos/_YQyZRGWOR4
+  fotografci: Vida Huang
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-3' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-1
-    tarih: '2026-11-13T08:47:06+03:00'
+    arsiv_id: sinif-3
+    tarih: '2026-11-13T15:20:57+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -161,8 +161,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261106-antalyadaki-sac-kesim-yarismasinda-sakaryali-ogrenciler-zirv--a450a7a4.jpg
 gorsel_yerlesim:
   boyut:
-  - 7728
-  - 5152
+  - 7008
+  - 4672
   dikey: false
   surum: y3
   manset: kaplama
@@ -180,7 +180,12 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'da My Akademi tarafından organize edilen ulusal saç kesim yarışması, Türkiye'nin dört bir yanından gelen yetenekli gençleri bir araya getirdi. Yaklaşık 100 öğrencinin hünerlerini sergilediği etkinlikte, Sakarya Mesleki Eğitim Merkezi (MESEM) Güzellik ve Saç Bakım Hizmetleri Bölümü öğrencileri büyük bir başarıya imza attı.
 

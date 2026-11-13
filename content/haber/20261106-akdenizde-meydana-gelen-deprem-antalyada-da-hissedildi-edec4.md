@@ -71,6 +71,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
 ---
 Akdeniz'de yaşanan sarsıntı, kıyı kesimindeki şehirlerde yaşayan vatandaşlar arasında tedirginliğe yol açtı. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından paylaşılan verilere göre, Akdeniz açıklarında 4.1 büyüklüğünde bir deprem kaydedildi. Meydana gelen sarsıntı, Antalya başta olmak üzere çevre illerde de hissedildi.
 

@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya ile Alanya arasındaki ulaşımı hızlandırmak ve bölge turizmini desteklemek amacıyla hayata geçirilen otoyol projesinde çalışmalar sürüyor. Yürütülen projeyle birlikte bölgedeki artan ulaşım talebine yanıt verilmesi ve kara yolu ulaşımının daha güvenli ve konforlu hale getirilmesi hedefleniyor.
 

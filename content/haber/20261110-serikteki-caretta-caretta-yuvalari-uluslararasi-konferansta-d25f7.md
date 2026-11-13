@@ -71,6 +71,9 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
 ---
 Akdeniz'in farklı ülkelerinden bilim insanları ve uzmanlar, deniz kaplumbağalarının korunması amacıyla Yunanistan'ın başkenti Atina yakınlarındaki Marathon bölgesinde bir araya geldi. Sekizincisi gerçekleştirilen Akdeniz Deniz Kaplumbağaları Konferansı, yirmi ülkeden ikiyüz kırk araştırmacı ve çevre kuruluşu temsilcisinin katılımıyla sürdürülüyor. Beş gün süren programda, bölgedeki deniz kaplumbağalarının geleceği, yuvalama alanlarının korunması ve turizm faaliyetlerinin etkileri masaya yatırılıyor.
 

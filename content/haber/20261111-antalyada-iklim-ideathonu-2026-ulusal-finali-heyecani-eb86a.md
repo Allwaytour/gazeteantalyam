@@ -68,6 +68,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 ---
 Avrupa Birliği Türkiye Delegasyonu'nun organizesiyle hayata geçirilen AB İklim Ideathonu 2026 yarışmasının ulusal finaline Antalya ev sahipliği yapıyor. COP31 çerçevesinde düzenlenen organizasyonda, yerel elemeleri geride bırakmayı başaran takımlar, iklim değişikliğiyle mücadele amacıyla hazırladıkları pratik ve özgün projeleri katılımcılara aktaracak.
 

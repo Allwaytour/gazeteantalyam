@@ -73,6 +73,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/21/Jandarma_vehicle.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg
 ---
 Antalya'nın Aksu ilçesinde güvenlik altyapısını güçlendirmek amacıyla iki yeni jandarma hizmet binasının yapımı için süreç başlatıldı. Antalya Yatırım İzleme ve Koordinasyon Başkanlığı tarafından yürütülecek çalışmalar kapsamında ilçeye iki ayrı noktada yeni binalar kazandırılacak.
 

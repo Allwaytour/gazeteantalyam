@@ -70,6 +70,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
 ---
 Alanya'nın Toslak Mahallesi'nde ikamet eden Hasan Yavuz, mide şikayetleri sebebiyle hastaneye başvurdu. Gerçekleştirilen muayene ve tetkikler neticesinde hastanın mesanesinde taşlar olduğu tespit edildi ve operasyon yapılması kararlaştırıldı. 
 

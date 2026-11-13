@@ -71,6 +71,8 @@ gorsel_yerlesim:
   o_kart_p: 56% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Kültür ve Turizm Bakanlığı tarafından kültürel mirasa erişimi kolaylaştırmak amacıyla hayata geçirilen Müzekart uygulamasının 2026 yılındaki kullanım koşulları ve ücreti netleşti. Antalya ve Alanya gibi tarihi yapıları ve antik kentleriyle öne çıkan turizm merkezlerinde kartla ilgili araştırmalar hız kazandı.
 

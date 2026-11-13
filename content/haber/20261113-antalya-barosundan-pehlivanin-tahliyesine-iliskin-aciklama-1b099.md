@@ -76,6 +76,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Barosu, İstanbul Büyükşehir Belediyesi'ne yönelik davada tutuklu yargılanan avukat Mehmet Pehlivan'ın tahliye edilmesinin ardından bir açıklama yayımladı. İstanbul 33. Ağır Ceza Mahkemesi'nin 12 Kasım 2026 tarihinde gördüğü duruşmada Pehlivan'ın da aralarında bulunduğu 8 sanık serbest bırakıldı. Baro, tahliye kararını olumlu bulurken, yaşanan süreci ve tutukluluk tedbirinin uygulanma biçimini eleştirdi.
 

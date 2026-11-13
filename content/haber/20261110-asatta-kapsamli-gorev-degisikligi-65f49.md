@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 100% 50%
   url: https://images.unsplash.com/photo-1669139470813-827cbcf54b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDIxOTgzN3ww&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1622322977879-af6982dcba00?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1622322977885-8ee6d45ea016?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1622322977781-76f2247964b7?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Su ve Atıksu İdaresi Genel Müdürlüğü bünyesinde yeni atamalar ve görevden almalar yapıldı. Yapılan düzenlemeler kapsamında Genel Müdür Yardımcılığı görevinde bayrak değişimi yaşandı.
 

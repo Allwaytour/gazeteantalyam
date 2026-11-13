@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Eğitim ve Araştırma Hastanesi'nde (EAH) yaşanan bir olay kamuoyunda soru işaretlerine yol açtı. İddialara göre, Merkezi Hekim Randevu Sistemi (MHRS) üzerinden bir profesörün adıyla randevu alan çok sayıda hasta polikliniğe başvurdu. Ancak hastaların, profesör yerine asistan hekimler tarafından muayene edildiği öne sürüldü. Söz konusu hekimin o tarihte hastanede bulunmadığı ve il dışında olduğu da iddialar arasında yer aldı.
 

@@ -78,6 +78,8 @@ metin_onarim:
   kaynak: https://www.tigrishaber.com/skif-dunya-shotokan-sampiyonasi-antalyada-basliyor-174014h.htm
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 ---
 Uluslararası karate camiasının en önemli organizasyonları arasında yer alan 15. SKIF Dünya Şampiyonası, 9-15 Kasım 2026 tarihleri arasında Antalya'da düzenlenecek. Japonya merkezli Shotokan Karate-do International Federation tarafından organize edilen dev buluşma, kentte çok sayıda sporcu ve sporseveri bir araya getirecek.
 

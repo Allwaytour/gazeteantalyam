@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
 ---
 Suwen Kadın Futbol Süper Ligi'nde 11. hafta heyecanı oynanacak karşılaşmalarla devam ediyor. Lig mücadelesinde Karadeniz temsilcisi, zorlu Antalya deplasmanında kritik bir sınav vermeye hazırlanıyor. Geride kalan haftalarda topladığı 9 puanla 12. basamakta yer alan kırmızı-siyahlı ekip, bu müsabakadan galibiyetle ayrılarak puan kayıplarına son vermeyi ve üst sıralara tırmanmayı hedefliyor.
 

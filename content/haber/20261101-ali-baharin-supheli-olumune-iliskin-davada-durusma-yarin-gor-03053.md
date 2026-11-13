@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 ---
 Antalya iş dünyasında derin üzüntü yaratan Antalya Ticaret ve Sanayi Odası eski başkanı Ali Bahar'ın şüpheli ölümüyle ilgili adli süreç devam ediyor. Kemer açıklarında bir teknede meydana gelen olayın ardından açılan dava, sanık beyanları ile dosyaya sunulan uzman mütalaaları arasındaki çelişkiler nedeniyle Ağır Ceza Mahkemesi'ne taşınmıştı. Kemer Asliye Ceza Mahkemesi'nde taksirle ölüme neden olma suçlamasıyla başlayan süreç, aile avukatının sunduğu bilirkişi raporlarının ardından Antalya 3. Ağır Ceza Mahkemesi'ne devredilmişti.
 

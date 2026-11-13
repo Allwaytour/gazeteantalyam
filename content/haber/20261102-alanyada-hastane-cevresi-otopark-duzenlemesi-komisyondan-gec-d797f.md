@@ -103,6 +103,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1720166671019-744dcef65d05?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da sağlık kuruluşlarından hizmet alan sürücülerin otopark ücretlerinden etkilenmemesi amacıyla hazırlanan düzenleme teklifi yerel yönetim gündeminde yer aldı. Hastane çevresindeki ücretli yol üstü otoparklarda ilk bir saatin ücretsiz olmasını öngören önerge, belediye meclisindeki değerlendirmenin ardından Plan ve Bütçe Komisyonu'na havale edildi. Kısa süreli park eden vatandaşların ekonomik yükünü azaltmayı hedefleyen teklif, beş üyeli komisyonda ele alındı.
 

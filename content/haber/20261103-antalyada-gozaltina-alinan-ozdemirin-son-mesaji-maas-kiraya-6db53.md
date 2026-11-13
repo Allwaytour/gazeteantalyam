@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 ---
 Antalya'da sabah saatlerinde gerçekleştirilen operasyon kapsamında gözaltına alınan İnsan Hakları Derneği ve Tüm Emeklilerin Sendikası Antalya Şubesi Yönetim Kurulu Üyesi Mehmet Şerif Özdemir, emniyete götürülmeden kısa süre önce sosyal medya hesabı üzerinden bir paylaşım yaptı.
 

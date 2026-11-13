@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Türkiye'nin ev sahipliğinde gerçekleşecek olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), Antalya'da başlıyor. Çevre politikalarının yanı sıra kentin gastronomi kültürünü de dünyaya tanıtmayı hedefleyen zirve için hazırlıklar tamamlandı. Antalya Evi'nde ağırlanacak uluslararası konuklar için özel bir menü hazırlandı.
 

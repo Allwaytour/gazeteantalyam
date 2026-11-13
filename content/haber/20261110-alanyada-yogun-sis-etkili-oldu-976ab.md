@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1648128827895-c3a2aad53ff7?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1604313629376-2a3225c4bb8d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Alanya ilçesinde etkisini gösteren yağışlı hava, beraberinde yoğun bir sis tabakasını da getirdi. Özellikle yüksek kesimler ile kentin tarihi yarımada çevresinde yoğunlaşan sis, bölgenin siluetini değiştirdi.
 

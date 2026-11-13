@@ -1,7 +1,7 @@
 ---
-title: Antalya Deniz Ticaret Odasinda Ahmet Cetin Guven Tazeledi
+title: Antalya Deniz Ticaret Odasinda Ahmet Çetin Güven Tazeledi
 date: '2026-11-04T09:31:00+03:00'
-ozet: IMEAK Deniz Ticaret Odasi Antalya Subesi'nin yeni donem yonetimi gerceklestirilen secimlerle belirlenirken, Ahmet Cetin yeniden baskanliga getirildi.
+ozet: İMEAK Deniz Ticaret Odası Antalya Şubesi'nin yeni dönem yönetimi gerçekleştirilen seçimlerle belirlenirken, Ahmet Çetin yeniden başkanlığa getirildi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 gorsel_kredi: 'Fotoğraf: Hedda Gabler / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -42,7 +42,7 @@ otomatik: true
 yz: true
 kaynak: Deniz Haber
 kaynak_url: https://www.denizhaber.net/dto-antalya-subesinde-yeni-yonetim-belirlendi-haber-126844.htm
-gorsel_yedek: /images/haber-gorsel/20261104-antalya-deniz-ticaret-odasinda-ahmet-cetin-guven-tazeledi-49c-7af838eb.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-deniz-ticaret-odasinda-ahmet-cetin-guven-tazeledi-49c-308d03b3.jpg
 gorsel_yerlesim:
   boyut:
   - 3114
@@ -66,9 +66,19 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 gorsel_gecmis: []
+baslik_onceki: Antalya Deniz Ticaret Odasinda Ahmet Cetin Guven Tazeledi
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.denizhaber.net/dto-antalya-subesinde-yeni-yonetim-belirlendi-haber-126844.htm
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı; baslik: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
-IMEAK Deniz Ticaret Odasi Antalya Subesi'nin yeni donem secim sureci, yapilan Yonetim Kurulu ve Meclis Baskanlik Divani secimleri ile tamamlandi. DTO Antalya Subesi Meclis Salonu'nda gerceklestirilen secimlerde Ahmet Cetin'in mavi listesi 288 oy alarak rakibi Serkan Manav'in beyaz listesini geride birakti ve baskanliga yeniden Ahmet Cetin secildi. 
+İMEAK Deniz Ticaret Odası Antalya Şubesi'nin yeni dönem seçim süreci, yapılan Yönetim Kurulu ve Meclis Başkanlık Divanı seçimleri ile tamamlandı. DTO Antalya Şubesi Meclis Salonu'nda gerçekleştirilen seçimlerde Ahmet Çetin'in mavi listesi 288 oy alarak rakibi Serkan Manav'ın beyaz listesini geride bıraktı ve başkanlığa yeniden Ahmet Çetin seçildi. 
 
-Gerceklesen secim sonucunda olusan yeni Yonetim Kurulu'nda Varol Cakir, Kerim Sari, Ekrem Uyar ve Burak Serkan Guler yer aldi. Yonetim Kurulu secimlerinin ardindan ilk Meclis Toplantisi yapildi. En yagli Meclis uyesi Yasar Sarica baskanliginda toplanan mecliste yeni baskanlik divani da netlik kazandi.
+Gerçekleşen seçim sonucunda oluşan yeni Yönetim Kurulu'nda Varol Çakır, Kerim Sarı, Ekrem Uyar ve Burak Serkan Güler yer aldı. Yönetim Kurulu seçimlerinin ardından ilk Meclis Toplantısı yapıldı. En yagli Meclis üyesi Yaşar Sarıca başkanlığında toplanan mecliste yeni başkanlık divanı da netlik kazandı.
 
-Toplantida yapilan gizli oylama sonucunda Meclis Baskanligi'na Baser Topluisik secilirken, Meclis Baskan Yardimcisi gorevine ise Kemal Piro getirildi. Secimler kapsaminda ayrica Hesaplari Inceleme Komisyonu uyeleri de belirlendi. Bu kapsamda komisyon baskanligina Ozgur Senyucel, baskan yardimciligna Ayhan Kizilsavas, uyelige ise Huseyin Cin secildi.
+Toplantıda yapılan gizli oylama sonucunda Meclis Başkanlığı'na Başer Topluışık seçilirken, Meclis Başkan Yardımcısı görevine ise Kemal Piro getirildi. Seçimler kapsamında ayrıca Hesapları İnceleme Komisyonu üyeleri de belirlendi. Bu kapsamda komisyon başkanlığına Özgür Senyücel, başkan yardimciligna Ayhan Kızılsavaş, üyeliğe ise Hüseyin Çin seçildi.

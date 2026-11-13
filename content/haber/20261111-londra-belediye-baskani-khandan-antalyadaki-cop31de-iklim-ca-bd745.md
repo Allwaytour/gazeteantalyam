@@ -74,6 +74,11 @@ metin_onarim:
   kaynak: https://www.aa.com.tr/tr/gundem/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-cekti/4121470
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'baslik: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 ---
 Londra Belediye Başkanı Sadık Khan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31) katıldı. Kentte bulunmaktan duyduğu memnuniyeti dile getiren Khan, sosyal medya hesabı üzerinden yaptığı paylaşımda iklim krizinin tehlikelerine işaret etti.
 

@@ -65,6 +65,9 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 ---
 Antalya'da 4 Kasım 2026 tarihinde kenti sarsan çeşitli siyasi ve idari kararlar peş peşe açıklandı. Günün en önemli gelişmelerinden biri, uzun süredir konuşulan transfer iddialarının ardından Korkuteli Belediye Başkanı Saniye Caran'ın Cumhuriyet Halk Partisi'nden istifa ederek görevini bağımsız olarak sürdüreceğini duyurması oldu. Öte yandan Aksu Belediye Başkanı İsa Yıldırım, meclis toplantısında gerçekleştirdiği konuşmada basın mensuplarına yönelik sert eleştirilerde bulundu.
 

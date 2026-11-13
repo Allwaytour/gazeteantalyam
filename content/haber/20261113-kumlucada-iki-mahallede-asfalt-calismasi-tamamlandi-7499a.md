@@ -74,6 +74,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
 ---
 Kumluca Belediyesi, ilçe genelindeki yol bakım ve iyileştirme çalışmalarına aralıksız devam ediyor. Fen İşleri Müdürlüğü tarafından yürütülen çalışmalar kapsamında, mahalle içi ulaşımın daha güvenli ve konforlu bir yapıya kavuşturulması hedeflendi.
 

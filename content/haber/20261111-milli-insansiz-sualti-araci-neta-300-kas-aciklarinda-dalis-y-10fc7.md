@@ -70,6 +70,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/e5/C-47_Dakota_Kas_tail.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
+- https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
 ---
 Türk savunma sanayiinin sualtı teknolojilerindeki yeni gücü STM NETA 300, Akdeniz’in zorlu derinliklerinde kritik bir görevi başarıyla tamamladı. Antalya’nın Kaş ilçesinde yer alan Güvercin Adası açıklarında dalış gerçekleştiren milli insansız otonom sualtı aracı, bölgedeki ünlü batık tankı yüksek çözünürlüklü sensörleriyle görüntüledi.
 

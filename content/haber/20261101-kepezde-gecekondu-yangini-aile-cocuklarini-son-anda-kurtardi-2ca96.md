@@ -103,6 +103,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 ---
 Antalya'nın Kepez ilçesi Beşkonak Mahallesi 4409 Sokak'ta bulunan ve yabancı uyruklu bir ailenin kiracı olarak yaşadığı gecekonduda henüz belirlenemeyen bir nedenle yangın çıktı. Evde bulunan anne, içeride uyuyan çocuğunu da alarak dışarı çıkmayı başardı. Kısa sürede büyüyen alevler tüm evi sardı.
 

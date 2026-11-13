@@ -146,6 +146,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1697540018879-bf2812527640?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1582658085438-790f8837944b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1627862079351-7bcdcba0c1f1?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1545214766-04116e13521c?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
 ---
 Dünyaca ünlü sahilleriyle tanınan Antalya, olta balıkçılığına ilgi duyanlar için hem deniz hem de tatlı su kıyılarında pek çok seçenek barındırıyor. Şehir merkezinden ilçelere kadar uzanan geniş bir yelpazede, amatör balıkçılar için uygun noktalar bulunsa da avlanma kurallarına ve bölgelerin kullanım amaçlarına dikkat edilmesi büyük önem taşıyor.
 

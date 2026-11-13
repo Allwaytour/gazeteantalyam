@@ -144,6 +144,11 @@ gorsel_yerlesim:
   o_kart: 50% 16%
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 ---
 Trendyol Süper Lig'de oynanacak Corendon Alanyaspor karşılaşması öncesinde farklı illerden gelen Trabzonspor taraftarları Alanya'da bir araya geldi. Bordo-mavili ekibe olan sevgileriyle tanışan taraftarlar, yıllar içinde kurdukları bağların aile bağlarına dönüştüğünü ifade etti.
 

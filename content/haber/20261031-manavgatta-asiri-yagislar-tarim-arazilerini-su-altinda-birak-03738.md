@@ -74,6 +74,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 ---
 Manavgat genelinde geçtiğimiz günlerde etkisini gösteren kuvvetli sağanak yağmur, tarım üretimini olumsuz etkiledi. Bölgeye düşen yağış miktarının metrekareye 60 kilogramın üzerinde olduğu belirtilirken, özellikle Denizkent, Denizyaka, Bereket ve Perakende mahallelerindeki tarım arazileri su baskınlarına uğradı.
 

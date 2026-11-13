@@ -73,6 +73,10 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 baslik_ozgun: Alanyali sehit Yusuf Onder kabri basinda dualarla anildi
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 ---
 Hakkari'nin Şemdinli ilçesindeki Süngü Tepe Üs Bölgesi'nde 9 Kasım 2018 tarihinde yaşanan mühimmat patlamasında şehit olan Topçu Er Yusuf Önder için Alanya'da anma töreni organize edildi. Alanya Garnizon Şehitliği'nde gerçekleştirilen programa protokol üyeleri, siyasi parti temsilcileri, emniyet ve jandarma mensupları, şehit aileleri ile çok sayıda vatandaş iştirak etti.
 

@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart: 64% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 ---
 Futbolda yürütülen yasa dışı bahis soruşturmasında dikkat çeken bir adım atıldı. İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosu, Antalyaspor'un eski yöneticisi Aytaç Altay hakkında hukuki süreç başlattı. Hazırlanan iddianamede, eski yöneticinin görev yaptığı süre zarfında binlerce kupon oynadığı tespit edildi.
 

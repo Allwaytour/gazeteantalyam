@@ -70,6 +70,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1654588831193-0285dab84d5a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Alaaddin Keykubat Üniversitesi (ALKÜ), bilgi güvenliği ve veri gizliliği alanındaki çalışmalarını uluslararası alanda tescilledi. Bilgi İşlem Daire Başkanlığı koordinasyonunda gerçekleştirilen süreç sonucunda üniversite, ISO/IEC 27001:2022 sertifikasını almaya hak kazandı. Bu belgeyle birlikte, kurumun akademik ve kurumsal veri altyapısının uluslararası standartlara tam uyum sağladığı resmileşmiş oldu.
 

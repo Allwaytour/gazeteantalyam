@@ -71,6 +71,9 @@ gorsel_yerlesim:
   o_yan_m: 50% 100%
   o_kart: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+- https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye Odalar ve Borsalar Birliği’ne bağlı oda ve borsalarda seçim maratonu bu ay tamamlanıyor. Ülke genelindeki birçok ilde mevcut başkanlar güven tazelerken, sandık sonuçları yavaş yavaş netleşmeye başladı. Seçim sürecinde büyük illerde farklı rekabetler ve değişimler de dikkat çekti.
 

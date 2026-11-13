@@ -71,6 +71,11 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 gorsel_gecmis: []
 baslik_ozgun: Antalyaspor Baskani Ergün'den mali durum ve secim aciklamasi
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 ---
 Antalyaspor Baskani Mustafa Ergün katildigi bir televizyon programinda, kulübün karsilastigi mali sorunlar, yönetim degisikligi ihtimali ve hazirliklari yapilan destek kampanyalari hakkinda degerlendirmeler yapti. Kulüp için yeni bir yol haritasi çizmeyi hedeflediklerini belirten Ergün, geçtigimiz hafta eski baskanlar ve kdemli üyelerle bir araya gelerek Lara bölgesindeki tasinmazdan elde edilecek gelirin borçlarin hafifletilmesinde kullanilacagini konustuklarini aktardi.
 

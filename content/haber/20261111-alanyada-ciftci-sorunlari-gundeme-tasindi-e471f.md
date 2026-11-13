@@ -73,6 +73,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
 ---
 Saadet Partisi Alanya İlçe Teşkilatı, ilçedeki tarımsal üreticilerin yaşadığı sorunlara ve tarım bütçesindeki yetersizliklere ilişkin yazılı bir açıklama yaptı. Açıklamada, üreticilerin artan girdi maliyetleri karşısında zorlandığı belirtilerek kanuni düzenlemelere uyulması gerektiği vurgulandı.
 

@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 ---
 Alanya'da henüz 18 yaşında yaşamını yitiren Ceren Karadayı'nın ailesinin adalet arayışı sürüyor. Evladını kaybeden acılı anne, kazaya neden olan sürücüye mahkeme tarafından verilen 5 yıl 2 aylık hapis cezasının vicdanları yaraladığını ifade ederek karara isyan etti. Sürücünün olay sırasında alkollü olduğunu vurgulayan anne, verilen cezanın yetersizliğine dikkati çekti.
 

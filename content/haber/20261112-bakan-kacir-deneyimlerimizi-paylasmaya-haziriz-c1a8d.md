@@ -75,6 +75,10 @@ metin_onarim:
   kaynak: https://www.dha.com.tr/yerel-haberler/antalya/bakan-kacir-sanayi-gucumuzu-korumaya-ve-gelist-2980501
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Türkiye'nin öncülüğünde geliştirilen ve COP31 kapsamında başlatılan En Az Gelişmiş Ülkeler Yeşil Sanayileşme Destek Mekanizması'nın tanıtım töreni Antalya'da yapıldı. Etkinlikte, mekanizmanın gelişmekte olan ülkelerin yeşil sanayi projelerini hayata geçirmesini kolaylaştırmayı amaçladığı belirtildi.
 

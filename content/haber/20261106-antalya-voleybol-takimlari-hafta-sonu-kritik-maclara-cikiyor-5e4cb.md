@@ -72,6 +72,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
 ---
 Antalya'yı kadınlar ve erkekler voleybol liglerinde temsil eden takımlar, hafta sonu zorlu müsabakalara hazırlanıyor. Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda yer alan 07 Mega Spor, deplasmanda PTT ile karşı karşıya gelecek. Geride kalan altı haftada dört galibiyet alan Antalya temsilcisi, başkentte galibiyet serisini sürdürmeyi hedefliyor. Aynı grupta mücadele eden Muratpaşa Belediyesi Açı Koleji ise sahasında Büyükşehir Belediyesi Ankara Spor'u konuk edecek. Taraftarının önünde galibiyet arayacak olan Muratpaşa ekibi, üst sıralardaki iddiasını korumak istiyor. Gruttaki diğer Antalya temsilcisi Trendy Hotels Manavgat Belediyespor'un bu hafta yapacağı karşılaşma ise rakibin ligden çekilmesi nedeniyle oynanmayacak.
 

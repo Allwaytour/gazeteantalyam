@@ -69,6 +69,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 ---
 Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün hatırasını yaşatmak amacıyla hayata geçirilen bu özel çalışma, ilçe sahilinde gerçekleştirildi. Alanya'da yerleşik olarak yaşayan ve sanatsal faaliyetleriyle tanınan İranlı sanatçı Amir, sahildeki kumları kullanarak özenle bir Atatürk portresi ortaya çıkardı.
 

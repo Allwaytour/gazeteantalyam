@@ -71,6 +71,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Manavgat ilçesi, bilişim ve teknoloji dünyasını buluşturacak önemli bir etkinliğe ev sahipliği yapmaya hazırlanıyor. Akdeniz Bilişim Derneği ile Manavgat Belediyesi ortaklığında gerçekleştirilecek olan Manavgat Dijital Zirve, bu yıl altıncı kez teknoloji meraklılarıyla buluşacak.
 

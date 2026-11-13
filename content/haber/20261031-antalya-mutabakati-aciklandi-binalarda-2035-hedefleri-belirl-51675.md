@@ -80,6 +80,11 @@ metin_onarim:
   kaynak: https://www.dogayidinle.com/cevre-ve-iklim/cop31-antalya-mutabakati-aciklandi-binalarda-2035e-kadar-yuzde-25-enerji-verimliligi-hedefi/9782
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'baslik: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye'nin ev sahipliğinde gerçekleşecek COP31 İklim Zirvesi'ne doğru, binaların enerji tüketimini ve karbon salınımını düşürmek amacıyla hazırlanan Antalya Mutabakatı kamuoyuna duyuruldu. COP31 Türkiye Başkanlığı tarafından açıklanan bu girişim, konutlardan okullara ve hastanelere kadar geniş bir yapı stokunu kapsıyor.
 

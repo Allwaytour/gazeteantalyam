@@ -149,6 +149,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1607324772107-8ad6740ca195?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1664396113489-e50bddd4a777?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da akaryakıt fiyatlarındaki artışın ardından mutfak tüpü fiyatlarında da önemli bir yükseliş yaşandı. 3 Kasım 2026 tarihi itibarıyla uygulamaya konulan yeni tarife ile 12 kilogramlık mutfak tüpünün satış fiyatı 1.865 TL seviyesine yükseldi. Yapılan 210 TL'lik zam, yaklaşık yüzde 12,7'lik bir fiyat artışına tekabül ediyor.
 

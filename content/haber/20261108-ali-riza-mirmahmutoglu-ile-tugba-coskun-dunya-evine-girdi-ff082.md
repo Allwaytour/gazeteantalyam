@@ -73,6 +73,8 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
 ---
 Antalya’da Serbest Muhasebeci ve Mali Müşavir Ali Rıza Mirmahmutoğlu ile Tuğba Coşkun, DenizimPark’ta düzenlenen görkemli bir düğün töreniyle dünyaevine girdi. Çiftin aileleri, yakın dostları ve sevenlerinin katılımıyla gerçekleşen bu özel günde, Antalya’nın iş ve siyaset dünyasından pek çok isim de yer aldı. Genç çift, mutluluklarını paylaşan davetlilerle yakından ilgilenerek bu anlamlı günü ölümsüzleştirdi.
 

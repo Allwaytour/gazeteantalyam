@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31'inci Taraflar Konferansı (COP31), Antalya'da geniş bir katılımla başladı. Küresel iklim diplomasisinin kalbinin attığı zirve, dünya basınından büyük ilgi gördü. Etkinliğin takip edildiği Mavi Bölge içerisinde kurulan medya merkezi, farklı ülkelerden gelen binlerce basın mensubuna ev sahipliği yapıyor.
 

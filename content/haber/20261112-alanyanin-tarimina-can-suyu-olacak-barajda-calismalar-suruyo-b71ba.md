@@ -72,6 +72,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/3d/Dim_Dam_02.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/d/d0/Dim_Dam_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Oymapinar_Dam_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/8/86/Oymapinar_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 ---
 Alanya'nın tarımsal sulama altyapısını güçlendirmek amacıyla hayata geçirilen Yeniköy Barajı'nda çalışmalar devam ediyor. Temelden yüksekliği 60,5 metre olarak planlanan tesisin, toplam 8,82 milyon metreküp su depolama kapasitesine sahip olması öngörülüyor. Projenin tüm aşamalarının 2027 yılı sonunda bitirilmesi hedefleniyor.
 

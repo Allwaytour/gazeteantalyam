@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 ---
 Cumhuriyet'in kuruluşunun 103'üncü yıl dönümü dolayısıyla Antalya'da organize edilen 29 Ekim Cumhuriyet Kupası İller Arası Muaythai Şampiyonası tamamlandı. Kepez Turgut Özal Kapalı Spor Salonu'nda gerçekleştirilen ve 26 ilden 750'den fazla sporcunun başvurduğu turnuvada, minikler, yıldızlar, gençler, U24 ve elit büyükler kategorilerinde heyecan yaşandı.
 

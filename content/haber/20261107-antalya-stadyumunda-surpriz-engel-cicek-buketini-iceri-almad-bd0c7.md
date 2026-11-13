@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart: 64% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+- https://images.unsplash.com/photo-1629730538660-2d5d2a0c8e98?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1629730598431-56b24d711977?fm=jpg&q=80&w=1600&fit=max
 ---
 Trendyol 1. Lig kapsamında gerçekleştirilen Antalyaspor ve Bursaspor mücadelesi ilginç bir an müsabaka öncesinde yaşandı. Kadınların ve 12 yaşından küçük çocukların tribünlerden ücretsiz takip edebildiği karşılaşma için ADO Antalya Stadyumu'na gelen nişanlı bir çift, yanlarında getirdikleri orta boy çiçek buketleriyle giriş yapmak istedi.
 

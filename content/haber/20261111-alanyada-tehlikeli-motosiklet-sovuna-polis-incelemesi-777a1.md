@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 ---
 Antalya'nın Alanya ilçesinde sabah saatlerinde D-400 kara yolunda kaydedilen görüntüler tepki çekti. Konaklı'dan Alanya istikametine doğru ilerleyen iki motosiklet sürücüsü, trafikte akan araçların arasında tehlikeli akrobatik hareketler sergiledi.
 

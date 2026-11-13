@@ -65,6 +65,11 @@ gorsel_yerlesim:
   o_kart: 64% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+- https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 ---
 Antalyaspor, devre arasında Galatasaray'dan kiralık olarak kadrosuna kattığı Salih Dursun ile yola devam etme kararı aldı. Kırmızı-beyazlı kulübün asbaşkanı Bora Terzioğlu, 26 yaşındaki futbolcunun kiralık döneminde gösterdiği başarılı performansın ardından teknik heyet ve yönetimin ortak kararıyla transferin kalıcı hale getirildiğini açıkladı.
 

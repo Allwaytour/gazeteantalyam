@@ -72,6 +72,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/22/Donating_platelets_at_Swedish_blood_donation_center_April_2025.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya İl Milli Eğitim Müdürlüğü ve Türk Kızılay Batı Akdeniz Bölge Kan Merkezi işbirliğiyle hayata geçirilen sosyal sorumluluk projesi, Alanya'da vatandaşlardan yoğun ilgi gördü. Hafta sonu gerçekleştirilen organizasyon kapsamında Özel Alanya Bahçeşehir Kolejinde geçici bir bağış noktası oluşturuldu.
 

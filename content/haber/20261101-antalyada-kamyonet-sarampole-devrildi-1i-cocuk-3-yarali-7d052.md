@@ -74,6 +74,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında, şarampole savrulan kamyonette bulunan biri çocuk üç kişi yaralandı.
 

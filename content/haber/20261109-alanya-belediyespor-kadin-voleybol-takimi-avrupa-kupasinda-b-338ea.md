@@ -78,6 +78,9 @@ metin_onarim:
   kaynak: https://www.saraymedya.com/haber/alanya-belediyespor-kadinlari-avrupa-kupasinda-besinci-oldu_322495/
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080
+- https://images.unsplash.com/photo-1639903293252-be7649fab563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbmV0JTIwVHVya2V5fGVufDF8MHx8fDE3OTQwODUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Alanya Plaj Sporları Merkezi'nde üç gün boyunca devam eden CEV Plaj Voleybolu Avrupa Kulubu Kupası Finalleri, yapılan ödül töreniyle sona erdi. Uluslararası düzeyde pek çok sporcuyu ve kulübü bir araya getiren turnuvada, Alanya Belediyespor kadın takımı mücadelesini beşinci sırada tamamladı. Organizasyon, kentin spor turizmine önemli bir katkı sağladı.
 

@@ -69,6 +69,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+- https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 ---
 Antalya'nın Alanya ilçesinde yaşayan genç bir kızın aniden ortadan kaybolmasının ardından güvenlik güçleri geniş çaplı arama çalışması başlattı. Olayın üzerinden geçen 16 günlük süre zarfında genç kızın izine henüz ulaşılamazken, Akbaş ailesi evlatlarından gelecek sevindirici bir haberi endişeyle bekliyor.
 

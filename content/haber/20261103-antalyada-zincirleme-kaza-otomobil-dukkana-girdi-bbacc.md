@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 ---
 Antalya'da gece yarısından sonra etkili olan olayda, D-400 kara yolunun Antalya-Manavgat yönünde seyreden bir otomobil zincirleme kazaya karıştı. Sürücüsünün kimliği henüz tespit edilemeyen 46 AKS 626 plakalı otomobil, henüz belirlenemeyen bir nedenle yol kenarında park halinde bulunan iki otomobil ile bir hafif ticari araca çarptı.
 

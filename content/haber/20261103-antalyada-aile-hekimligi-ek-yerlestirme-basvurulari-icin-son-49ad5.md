@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da görev yapan sağlık çalışanlarını ilgilendiren aile hekimliği ek yerleştirme takvimi işlemeye devam ediyor. İl Sağlık Müdürlüğü tarafından yürütülen 2026 yılı 11. ek yerleştirme süreci kapsamında başvurular, 6 Kasım Cuma günü saat 17.30 itibarıyla tamamlanacak.
 

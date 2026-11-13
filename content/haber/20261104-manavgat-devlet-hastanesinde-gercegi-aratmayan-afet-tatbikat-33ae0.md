@@ -72,6 +72,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 ---
 Manavgat Devlet Hastanesi'nde olası afet ve acil durumlara hazırlıklı olmak amacıyla Hastane Afet Planı çerçevesinde kapsamlı bir tatbikat yapıldı. Hastane bahçesinde oluşturulan özel platoda gerçekleştirilen çalışmada, senaryo gereği bir kaza meydana geldi. Kazada yaralanan vatandaşlar hızla hastaneye ulaştırıldı ve acil serviste görev yapan doktor, hemşire ile sağlık çalışanları tarafından gerçeğe uygun müdahalelerde bulunuldu.
 

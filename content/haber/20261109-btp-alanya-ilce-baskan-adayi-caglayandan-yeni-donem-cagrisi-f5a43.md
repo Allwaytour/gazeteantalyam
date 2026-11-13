@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Bağımsız Türkiye Partisi Alanya teşkilatında yeni dönem yapılanması hız kazandı. Alanya İlçe Başkanlığına adaylığını açıklayan ekonomist Ferhat Çağlayan, parti tabanına ve kamuoyuna yönelik bir mesaj yayımladı. Antalya İl Başkanlığı ile genel merkezin onayları doğrultusunda yola çıktıklarını belirten Çağlayan, parti çizgisinde güçlü bir teşkilat oluşturmayı amaçladıklarını dile getirdi.
 

@@ -2,8 +2,8 @@
 title: Alanya'da 9 günlük kasım ara tatili ne zaman başlıyor?
 date: '2026-11-12T13:40:00+03:00'
 ozet: Alanya'daki okullarda 2026-2027 eğitim öğretim yılının ilk ara tatili için geri sayım sürerken, öğrenciler 9 günlük tatile çıkmaya hazırlanıyor.
-gorsel: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Nathan Cima / Unsplash'
+gorsel: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jun Ren / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -16,28 +16,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 2129aa59f24d
-  kaynak_sayfa: https://unsplash.com/photos/Qw6wa96IvvQ
-  fotografci: Nathan Cima
+  kaynak_sayfa: https://unsplash.com/photos/RTFX0TQHXko
+  fotografci: Jun Ren
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-2' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-4' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-2
-    tarih: '2026-11-13T08:46:32+03:00'
+    arsiv_id: sinif-4
+    tarih: '2026-11-13T15:19:23+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -49,8 +49,8 @@ kaynak_url: https://www.alanyaturk.com/alanyada-ogrencilere-9-gunluk-tatil-tatil
 gorsel_yedek: /images/haber-gorsel/20261112-alanyada-9-gunluk-kasim-ara-tatili-ne-zaman-basliyor-00e5b-526f5566.jpg
 gorsel_yerlesim:
   boyut:
-  - 4032
-  - 3024
+  - 3128
+  - 2072
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,8 +68,12 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da okul öncesi, ilkokul, ortaokul ve liselerde eğitim gören binlerce öğrenci, 2026-2027 eğitim öğretim yılının ilk ara tatiline girmek üzere hazırlıklarını sürdürüyor. Resmî çalışma takvimine göre, öğrenciler cuma günü son ders zilinin ardından tatile çıkacak.
 

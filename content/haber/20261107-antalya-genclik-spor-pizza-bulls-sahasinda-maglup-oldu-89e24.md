@@ -74,6 +74,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1767216521441-074cc9e9ed05?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin beşinci haftasında Türk Telekom Gelişim takımıyla karşı karşıya geldi. Antalya Spor Salonu'nda oynanan mücadelenin ilk periyodunu 22-19 geride kapatan ev sahibi ekip, ikinci çeyrekte de oyunun kontrolünü elinde tutamadı ve soyunma odasına 44-36 yenik durumda girdi.
 

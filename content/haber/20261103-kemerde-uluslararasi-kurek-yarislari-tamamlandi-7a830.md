@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1713425787543-b3ccfd665733?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1558253917-0edb67da60e5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1674445253909-7423a5960f65?fm=jpg&q=80&w=1600&fit=max
 ---
 Kemer'de dördüncüsü gerçekleştirilen uluslararası kürek yarışları tamamlandı. Yirmi üç farklı ülkeden gelen iki yüz sporcunun yer aldığı organizasyon, Akdeniz'in mavi sularında büyük bir rekabete sahne oldu.
 

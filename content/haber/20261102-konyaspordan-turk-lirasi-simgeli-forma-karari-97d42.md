@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
 ---
 Süper Lig ekiplerinden Atiker Konyaspor, milli birlik ve beraberlik vurgusu yaparak dikkat çeken bir karara imza attı. Kulüp tarafından yapılan resmi açıklamada, ülkenin içinden geçeceği hassas dönemde oynanan oyunlara ve operasyonlara kayıtsız kalınmayacağı vurgulandı.
 

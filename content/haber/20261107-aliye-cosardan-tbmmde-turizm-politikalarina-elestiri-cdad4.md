@@ -195,6 +195,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Yeni Parti Antalya Milletvekili Aliye Coşar, TBMM Plan ve Bütçe Komisyonu'nda görüşülen Kültür ve Turizm Bakanlığı bütçesinde turizm sektörünün yaşadığı sorunları dile getirdi. Küçük ve orta ölçekli otellerin kapanma noktasına geldiğini belirten Coşar, Antalya'nın turizm gelirlerinden yeterince yararlanamadığını ve altyapı yatırımlarının yetersiz kaldığını söyledi.
 

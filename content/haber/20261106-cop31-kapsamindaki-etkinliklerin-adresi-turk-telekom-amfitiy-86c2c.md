@@ -1,7 +1,7 @@
 ---
-title: COP31 kapsamindaki etkinliklerin adresi Turk Telekom Amfitiyatro nerede
+title: COP31 Kapsamındaki Etkinliklerin Adresi Türk Telekom Amfitiyatro Nerede
 date: '2026-11-06T12:34:00+03:00'
-ozet: Antalya'da yapilacak COP31 İklim Zirvesi'nde konser ve gosterilere ev sahipligi yapacak Turk Telekom Buyuk Amfitiyatro'nun konumu merak ediliyor.
+ozet: Antalya'da yapılacak COP31 İklim Zirvesi'nde konser ve gösterilere ev sahipliği yapacak Türk Telekom Büyük Amfitiyatro'nun konumu merak ediliyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -50,7 +50,7 @@ kaynak_url: https://www.antalyaekspres.com.tr/turk-telekom-buyuk-amfitiyatro-ner
 gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
-gorsel_yedek: /images/haber-gorsel/20261106-cop31-kapsamindaki-etkinliklerin-adresi-turk-telekom-amfitiy--b3cf1029.jpg
+gorsel_yedek: /images/haber-gorsel/20261106-cop31-kapsamindaki-etkinliklerin-adresi-turk-telekom-amfitiy--4b8aa0fe.jpg
 gorsel_yerlesim:
   boyut:
   - 5200
@@ -74,9 +74,20 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+baslik_onceki: COP31 kapsamindaki etkinliklerin adresi Turk Telekom Amfitiyatro nerede
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.antalyaekspres.com.tr/turk-telekom-buyuk-amfitiyatro-nerede
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 ---
-Antalya'da duzenlenecek COP31 Birlestirilmis Milletler Iklim Zirvesi kapsaminda kulturel etkinliklere ev sahipligi yapacak olan Turk Telekom Buyuk Amfitiyatro'nun konumu arastirilmaya baslandi. Zirve kapsamindaki ucretsiz etkinliklere katilmak isteyen vatandaslar, amfitiyatronun nerede oldugunu ogrenmek istiyor.
+Antalya'da düzenlenecek COP31 Birlestirilmis Milletler İklim Zirvesi kapsamında kültürel etkinliklere ev sahipliği yapacak olan Türk Telekom Büyük Amfitiyatro'nun konumu araştırılmaya başlandı. Zirve kapsamındaki ücretsiz etkinliklere katılmak isteyen vatandaşlar, amfitiyatronun nerede olduğunu öğrenmek istiyor.
 
-Dokuz yirmi Kasim ikibin yirmi alti tarihleri arasinda Antalya EXPO alaninda gerceklestirilecek zirve boyunca pek cok sanat ve kulturfaaliyeti duzenlenecek. Bu etkinlikleringerceklestirilecegi noktalardan biri olan Turk Telekom Buyuk Amfitiyatro, Antalya EXPO alaninin Yesil Bolgesi icerisinde yer aliyor.
+Dokuz yirmi Kasım ikibin yirmi altı tarihleri arasında Antalya EXPO alanında gerçekleştirilecek zirve boyunca pek çok sanat ve kültürfaaliyeti düzenlenecek. Bu etkinlikleringerçekleştirileceği noktalardan biri olan Türk Telekom Büyük Amfitiyatro, Antalya EXPO alanının Yeşil Bölgesi içerisinde yer alıyor.
 
-Acik hava etkinlikleri icin kullanilan amfitiyatro, zirve suresince cesitli konser ve gosterilere sahne olacak. Etkinlik takviminde bulunan Anadolu Atesi gosterisi ile bazi konserler de bu amfitiyatroda sanatseverlerle bulusacak. Genel katilima acik ve ucretsiz olarak gerceklesecek gosterilerin yogun ilgi gormesi bekleniyor.
+Açık hava etkinlikleri için kullanılan amfitiyatro, zirve süresince çeşitli konser ve gösterilere sahne olacak. Etkinlik takviminde bulunan Anadolu Ateşi gösterisi ile bazı konserler de bu amfitiyatroda sanatseverlerle buluşacak. Genel katılıma açık ve ücretsiz olarak gerçekleşecek gösterilerin yoğun ilgi görmesi bekleniyor.

@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 ---
 Yeni Parti Alanya İlçe Başkanı Bülent Kandemir, gündemde yer alan fon soruşturmasına dair yazılı bir değerlendirme yaparak para trafiğinin arkasındaki isimlerin kamuoyuna duyurulmamasını eleştirdi. Hukukun her vatandaş için eşit işlemesi gerektiğinin altını çizen Kandemir, incelemenin bütün boyutlarıyla şeffaf bir biçimde yürütülmesi gerektiğini belirtti.
 

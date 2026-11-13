@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Antalya Valiliği'nin 11-12 Kasım 2026 tarihlerinde gerçekleştirilecek COP31 Liderler Zirvesi nedeniyle yedi ilçede yüz yüze eğitime ara vererek okul öncesi ve ilkokul çağında çocuğu bulunan kadın kamu personeline idari izin tanınması kararı tartışma yarattı. Eğitim Sen Antalya Şube Kadın Sekreteri Özlem Yavuz, alınan düzenlemenin toplumsal cinsiyet eşitsizliğini ve ataerkil anlayışı pekiştirdiğini ifade etti.
 

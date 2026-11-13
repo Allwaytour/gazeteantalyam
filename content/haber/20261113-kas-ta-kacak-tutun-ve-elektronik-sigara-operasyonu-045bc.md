@@ -75,6 +75,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/21/Jandarma_vehicle.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg
 ---
 Antalya İl Jandarma Komutanlığı ekipleri, Kaş Cumhuriyet Başsavcılığının talimatıyla yasadışı tütün ticareti ve kullanımına yönelik çalışma başlattı. Belirlenen adresler ve şüpheli araçlar takibe alınarak eş zamanlı operasyon gerçekleştirildi.
 

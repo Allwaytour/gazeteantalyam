@@ -69,6 +69,8 @@ gorsel_yerlesim:
   o_kart_p: 95% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye genelinde hava sıcaklıklarında düşüşe neden olan Sibirya kökenli soğuk hava dalgası, Akdeniz kıyılarına kadar ulaştı. Turizm kenti Alanya'da son günlerde yaşanan belirgin sıcaklık düşüşü ve ilçe merkezine kadar inen kış şartları, vatandaşlara zor anlar yaşattı.
 

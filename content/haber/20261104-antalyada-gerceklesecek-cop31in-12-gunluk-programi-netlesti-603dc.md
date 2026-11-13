@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Antalya'nın ev sahipliğinde EXPO yerleşkesinde gerçekleştirilecek olan COP31 iklim konferansının 12 günlük programı netlik kazandı. Konferans, 9 Kasım Pazartesi günü başlayacak ve 20 Kasım tarihindeki kapanış oturumlarıyla sona erecek. Zirve kapsamında COP31'in yanı sıra Kyoto Protokolü Taraflar Toplantısı CMP21, Paris Anlaşması Taraflar Toplantısı CMA8 ile bilimsel, teknolojik ve uygulamaya yönelik yardımcı organların toplantıları da yapılacak.
 

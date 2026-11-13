@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya genelinde organ ve doku bağışı konusunda toplumsal bilincin artırılması amacıyla önemli bir çağrı yapıldı. Dernek başkanı Hasan Önder, organ bağışının yalnızca tıbbi bir mesele olmadığını, aynı zamanda hayati bir insani sorumluluk taşıdığını belirtti. Ülke genelinde binlerce hastanın organ nakli beklediğine dikkat çeken Önder, bağışlanan her organın yeni bir yaşam şansı anlamına geldiğini ifade etti.
 

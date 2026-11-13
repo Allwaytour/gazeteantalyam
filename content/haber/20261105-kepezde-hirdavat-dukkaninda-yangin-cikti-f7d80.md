@@ -71,6 +71,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Kepez ilçesi Sütçüler Mahallesi Sütçüler Caddesi üzerinde bulunan yapı ve hırdavat malzemeleri satışı yapılan bir iş yerinde, dükkanın kapatılmasından kısa süre sonra henüz belirlenemeyen bir nedenle yangın çıktı. Çevre sakinlerinin dumanları fark ederek 112 Acil Çağrı Merkezi'ne ihbarda bulunması üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.
 

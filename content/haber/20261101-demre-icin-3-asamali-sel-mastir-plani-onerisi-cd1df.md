@@ -70,6 +70,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın tarım ve turizm merkezlerinden Demre'de peş peşe yaşanan sel felaketleri, ilçenin altyapı sorunlarını ve taşkın riskini yeniden gündeme getirdi. Seraların, evlerin ve ulaşımın olumsuz etkilendiği süreçte, bölgenin aynı sorunlarla tekrar karşılaşmaması için günübirlik müdahaleler yerine kalıcı çözümler geliştirilmesi gerektiği belirtildi. Dağlardan inen suların kıskacındaki ilçenin korunması için entegre havza yönetimi modelinin hayata geçirilmesi istendi.
 

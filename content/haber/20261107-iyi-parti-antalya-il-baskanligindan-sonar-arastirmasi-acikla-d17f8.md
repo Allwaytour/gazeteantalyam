@@ -193,6 +193,10 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   logo: true
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 SONAR Araştırma tarafından paylaşılan ekim ayı kamuoyu araştırması, siyasi partilerin oy oranlarındaki son durumu gözler önüne serdi. Paylaşılan verilere göre, İyi Parti yüzde 10,91 oy oranıyla listede üçüncü parti konumuna yerleşti. Araştırma sonuçlarının ardından konuya ilişkin değerlendirmede bulunan İyi Parti Antalya İl Başkanlığı yönetimi, Genel Başkan Müsavat Dervişoğlu öncülüğünde sürdürülen çalışmaların aynı inançla devam edeceğini ifade etti.
 

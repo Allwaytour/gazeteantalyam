@@ -67,6 +67,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Belediye Meclisi Kasım Ayı Olağan Toplantısı, Belediye Başkan Vekili Murat Levent Koçak yönetiminde Belediye Meclis Salonu'nda toplandı. Oturumda belediye tarafından gerçekleştirilen altyapı çalışmaları, sosyal projeler, tarihi yapıtların korunması ve spor etkinlikleri hakkında bilgiler paylaşıldı.
 

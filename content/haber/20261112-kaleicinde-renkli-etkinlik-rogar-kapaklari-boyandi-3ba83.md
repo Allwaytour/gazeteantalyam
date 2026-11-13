@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/4/40/Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a0/J22_333_Antalya%2C_Hafenviertel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Büyükşehir Belediyesi, Birleşmiş Milletler İklim Değişikliği Konferansı COP31 kapsamında kentin farklı noktalarında kültürel ve sanatsal faaliyetler düzenliyor. Hıdırlık, Üç Kapılar, Saat Kulesi ve Kaleiçi gibi tarihi ve turistik noktalarda gerçekleştirilen programlarda sergi, gezi ve toplantılara yer veriliyor.
 

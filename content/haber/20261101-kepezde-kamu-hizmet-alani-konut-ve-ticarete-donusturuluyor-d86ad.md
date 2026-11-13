@@ -101,6 +101,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 ---
 Kepez Belediyesi meclisinin kasım ayı toplantısında, Yenidoğan Mahallesi'ndeki bir taşınmazın imar planı değişikliği ele alınacak. Meclis salonunda gerçekleştirilecek oturumda, ilgili imar komisyonu raporu üyelerin değerlendirmesine sunulacak.
 

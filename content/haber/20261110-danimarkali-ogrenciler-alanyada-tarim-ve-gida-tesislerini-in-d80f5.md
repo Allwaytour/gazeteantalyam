@@ -73,6 +73,11 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 baslik_ozgun: Danimarkali ogrenciler Alanya'da tarim ve gida tesislerini inceledi
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 ---
 Danimarka'nın Odense kentinde tarım ve hayvancılık eğitimi alan bir grup öğrenci, Alanya'ya bir ziyaret gerçekleştirdi. Yirmi beş öğrenci ve üç öğretmenden oluşan heyet, ilçedeki tarımsal üretim ve gıda tesislerini inceleme fırsatı buldu.
 

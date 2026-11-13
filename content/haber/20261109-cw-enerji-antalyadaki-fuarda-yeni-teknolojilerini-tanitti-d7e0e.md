@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 54% 50%
   url: https://images.unsplash.com/photo-1655300256335-beef51a914fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG91c2UlMjByb29mJTIwc29sYXJ8ZW58MXwwfHx8MTc5NDE1MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
+- https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da gerçekleştirilen EIF Energy Expo 2026, sektörün öncü firmalarını ve profesyonellerini bir araya getirdi. Etkinlikte yerini alan CW Enerji, güneş enerjisi başta olmak üzere enerji üretim, depolama ve akıllı yönetim sistemlerinden oluşan geniş ürün portföyünü ziyaretçilerin incelemesine sundu.
 

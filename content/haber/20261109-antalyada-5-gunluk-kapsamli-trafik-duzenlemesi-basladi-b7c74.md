@@ -68,6 +68,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya genelinde trafik akışının güvenli ve düzenli şekilde sağlanması ile olası yoğunluğun azaltılması amacıyla beş gün sürecek kapsamlı bir trafik düzenlemesi devreye alındı. Pazartesi günü itibarıyla başlayan uygulama, 13 Kasım Cuma gününe kadar her gün 06.00 ile 22.00 saatleri arasında geçerli olacak.
 

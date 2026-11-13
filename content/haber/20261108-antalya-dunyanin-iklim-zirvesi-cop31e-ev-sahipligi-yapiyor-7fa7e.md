@@ -147,6 +147,10 @@ gorsel_yerlesim:
   o_kart: 50% 90%
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Dünyanın en kapsamlı iklim organizasyonlarından biri olan COP31, Antalya'da kapılarını açıyor. "Diyalog, Uzlaşı, Aksiyon" sloganıyla gerçekleştirilecek zirve, 197 ülkeden temsilciyi bir araya getirerek iklim kriziyle mücadelede küresel stratejileri belirlemeyi hedefliyor. Başkan Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleşecek liderler oturumuna, 90'dan fazla devlet ve hükümet başkanı katılım sağlayacak.
 

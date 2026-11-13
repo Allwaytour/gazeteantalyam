@@ -66,6 +66,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Serik ilçesine bağlı Kırbaş Mahallesi'nde yaşayan evli ve bir çocuk annesi Naime Tekin, yaklaşık bir yıldır sürdürdüğü kanser tedavisinin ardından hastanede hayatını kaybetti. Genç kadının vefat haberi ailesini ve yakınlarını yasa boğdu.
 

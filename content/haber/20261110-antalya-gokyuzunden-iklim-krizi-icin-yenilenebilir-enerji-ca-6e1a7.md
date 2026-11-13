@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1655300256335-beef51a914fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG91c2UlMjByb29mJTIwc29sYXJ8ZW58MXwwfHx8MTc5NDE1MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080
+- https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1779185249245-b1e518a6f7fc?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da düzenlenen iklim zirvesi sürerken, çevre savunucuları kentin gökyüzünde dikkat çeken bir eyleme imza attı. Kentte bir araya gelen aktivistler, yamaç paraşütü kullanarak gökyüzünde açtıkları pankartlarla yenilenebilir enerji çağrısında bulundu. Havada açılan pankartlarda rüzgar ve güneş enerjisinin önemine dikkat çekildi.
 

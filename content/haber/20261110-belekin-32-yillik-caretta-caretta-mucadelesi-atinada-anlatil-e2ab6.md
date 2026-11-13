@@ -71,6 +71,9 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
 ---
 Yunanistan'ın başkenti Atina yakınlarındaki Marathon bölgesinde düzenlenen 8'inci Akdeniz Deniz Kaplumbağaları Konferansı, farklı ülkelerden bilim insanlarını, araştırmacıları ve uzmanları bir araya getirdi. 'Kadim Denizimizin Koruyucuları' temasıyla gerçekleştirilen beş günlük buluşmada, Akdeniz'deki deniz kaplumbağalarının geleceği, yuvalama alanlarının korunması ve insan kaynaklı tehditler ele alınıyor.
 

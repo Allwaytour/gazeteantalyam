@@ -67,6 +67,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1625649611137-df49dc542f6a?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1589218909732-f304d13fbf2c?fm=jpg&q=80&w=1600&fit=max
 ---
 Uğur Güven’in doğum günü kutlaması için eşi, dostları ve sevenleri bir araya geldi. Bu özel günde kendisini yalnız bırakmayan davetliler, Uğur Güven'e duydukları sevgiyi gösterdi. 07 Rota Restaurant’ta gerçekleşen gecede samimi sohbetler ve neşeli anlar yaşandı.
 

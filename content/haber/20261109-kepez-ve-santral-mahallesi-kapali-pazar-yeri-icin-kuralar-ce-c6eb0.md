@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1776188590443-99e93967af57?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1553695142-4bb5259028e2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+- https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 ---
 Antalya Büyükşehir Belediyesi, Kepez ve Santral mahallesinde hayata geçirilen modern kapalı pazar yerinde tezgah açacak esnafları belirlemek üzere kura çekimi düzenledi. Antalya Pazarcılar Odası iş birliğiyle gerçekleştirilen süreç, belediye hizmet binası konferans salonunda yapıldı.
 

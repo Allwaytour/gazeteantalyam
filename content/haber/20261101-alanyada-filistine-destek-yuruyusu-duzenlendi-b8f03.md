@@ -74,6 +74,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/05/Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
 ---
 Antalya'nın Alanya ilçesinde, Gazze'deki duruma dikkat çekmek ve saldırıları protesto etmek amacıyla sessiz yürüyüş gerçekleştirildi. Alanya İmam Hatipliler Derneği öncülüğünde, Alanya İlçe Milli Eğitim Müdürlüğü ile Alanya Gençlik ve Spor İlçe Müdürlüğü iş birliğiyle organize edilen etkinlik, eski Alanya Belediyesi binasının arkasından hareketle başladı.
 

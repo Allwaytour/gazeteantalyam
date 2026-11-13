@@ -1,7 +1,7 @@
 ---
-title: Antalya'da duzenlenecek COP31 oncesi iklim konferansi gerceklestirildi
+title: Antalya'da Düzenlenecek COP31 Öncesi İklim Konferansı Gerçekleştirildi
 date: '2026-11-05T10:08:00+03:00'
-ozet: Mersin'de gerceklestirilen iklim konferansinda, Antalya'da duzenlenmesi planlanan COP31 oncesinde yerel yonetimlerin uluslararasi projeleri ve iklim riskleri ele alindi.
+ozet: Mersin'de gerçekleştirilen iklim konferansında, Antalya'da düzenlenmesi planlanan COP31 öncesinde yerel yönetimlerin uluslararası projeleri ve iklim riskleri ele alındı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -103,7 +103,7 @@ gorsel_gecmis:
     kurum: k4
     kurum_notu: kurum fotoğrafı önbellekten
   degisim: '2026-11-05T16:53:28+03:00'
-gorsel_yedek: /images/haber-gorsel/20261105-antalyada-duzenlenecek-cop31-oncesi-iklim-konferansi-gercekl--5b0dae61.jpg
+gorsel_yedek: /images/haber-gorsel/20261105-antalyada-duzenlenecek-cop31-oncesi-iklim-konferansi-gercekl--b803e6a9.jpg
 gorsel_yerlesim:
   boyut:
   - 2927
@@ -124,9 +124,19 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+baslik_onceki: Antalya'da duzenlenecek COP31 oncesi iklim konferansi gerceklestirildi
+metin_onarim:
+  tarih: '2026-11-13T15:18:34+03:00'
+  kaynak: https://www.mersinportal.com/mersin-buyuksehir-cop31e-hazirlaniyor-iklim-projeleri-antalyada-tanitilacak
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 4 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
-Antalya'da duzenlenmesi planlanan COP31 oncesinde gerceklestirilen "COP31 Yolunda Bolgesel Iklim Is Birligi Konferansi"nda, iklim degisikligiyle mucadele kapsaminda yurutulen calismalar degerlendirildi. Universiteler ve yerel yonetimlerin temsilcilerini bir araya getiren programda, bolgesel is birliginin guclendirilmesi ve surdurulebilirlik politikalarinin gelistirilmesi amacladi.
+Antalya'da düzenlenmesi planlanan COP31 öncesinde gerçekleştirilen "COP31 Yolunda Bölgesel İklim İş Birliği Konferansı"nda, iklim değişikliğiyle mücadele kapsamında yürütülen çalışmalar değerlendirildi. Üniversiteler ve yerel yönetimlerin temsilcilerini bir araya getiren programda, bölgesel iş birliğinin güçlendirilmesi ve sürdürülebilirlik politikalarının geliştirilmesi amacladi.
 
-Konferans kapsaminda kentlerin karsilasabilecegi iklim kaynakli riskler masaya yatirildi. Sel ve su baskinlari, kentsel isi adalari, orman yanginlari ve tarimsal kuraklik gibi basliklar ele alinarak gelecege yonelik projeksiyonlar olusturuldu. Yerel yonetimlerin uluslararasi iklim politikalarindaki rolune dikkat cekilerek, yurutulen uluslararasi projeler hakkinda bilgi paylasildi.
+Konferans kapsamında kentlerin karşılaşabileceği iklim kaynaklı riskler masaya yatırıldı. Sel ve su baskınları, kentsel ısı adaları, orman yangınları ve tarımsal kuraklık gibi başlıklar ele alınarak geleceğe yönelik projeksiyonlar oluşturuldu. Yerel yönetimlerin uluslararası iklim politikalarındaki rolüne dikkat çekilerek, yürütülen uluslararası projeler hakkında bilgi paylaşıldı.
 
-Programda ayrica deniz kirliligi, kiya temizligi, sifir atik veatik yonetimi alanindaki calismalar da gundeme geldi. Kurumlar arasi is birliginin artirilmasi ve gencin iklim politikalarina katiliminin onemi vurgulandi.
+Programda ayrıca deniz kirliliği, kiya temizliği, sıfır atık veatik yönetimi alanındaki çalışmalar da gündeme geldi. Kurumlar arası iş birliğinin artırılması ve gencin iklim politikalarına katılımının önemi vurgulandı.

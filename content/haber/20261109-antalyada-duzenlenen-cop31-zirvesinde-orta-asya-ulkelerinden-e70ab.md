@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+- https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da ev sahipliği yapılan COP31 İklim Zirvesi kapsamında bir araya gelen Kazakistan, Özbekistan, Kırgızistan, Türkmenistan ve Tacikistan, çevre ve iklim politikalarında ortak bir program uygulamaya başladı. Bölge ülkeleri, iklim kriziyle mücadele sürecini ulusal sınırların dışına taşıyarak küresel ölçekte güçlü bir pazarlık ve iş birliği gücü oluşturmayı hedefliyor. Zirve boyunca taahhütlerden ziyade somut ve yatırıma dönüştürülebilir projeler ön plana çıkarılırken, yeşil finansmanın bölgeye çekilmesi amacıyla ortak bir vizyon sergileniyor.
 

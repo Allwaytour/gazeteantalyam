@@ -74,6 +74,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/f0/Cam_Piramit_-_23.6.15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/a/a6/Antalya_Glass_Pyramid_at_night_Feb2007.JPG
+- https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Antalya Büyükşehir Belediyesi ev sahipliğinde gerçekleştirilen 63. Uluslararası Antalya Altın Portakal Film Festivali, 24-31 Ekim tarihleri arasındaki programını tamamladı. Cam Piramit'te düzenlenen kapanış galası ve ödül töreni öncesinde gerçekleştirilen geleneksel kırmızı halı geçişi, sinema dünyasının tanınmış isimleri ile genç yeteneklerin şıklık yarışına sahne oldu.
 

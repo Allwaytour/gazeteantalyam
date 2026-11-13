@@ -68,6 +68,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1766820024965-16f6e49cbd36?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1712238319063-ac65028ba74a?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 ---
 Yeni Mahalle Akdeniz Caddesi üzerinde bulunan bir alışveriş merkezinin restorasyon çalışmaları sırasında dikkat çeken bir olay yaşandı. Binada yürütülen yenileme çalışmaları esnasında kurulan iskele, bölgede etkili olan fırtınanın şiddetine dayanamayarak çöktü.
 

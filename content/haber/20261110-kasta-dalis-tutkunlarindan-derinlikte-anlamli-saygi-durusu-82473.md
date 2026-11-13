@@ -77,6 +77,10 @@ metin_onarim:
   kaynak: https://www.trthaber.com/foto-galeri/kasta-daliscilardan-ataturke-saygi-dalisi/79022.html
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/e5/C-47_Dakota_Kas_tail.JPG
+- https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 ---
 Antalya'nın Kaş ilçesinde gerçekleştirilen anma etkinliği, renkli ve duygusal anlara sahne oldu. Kıbrıs Barış Harekatı'nda görev alan ve 2009 yılında bölgedeki dalış turizmini geliştirmek amacıyla sulara batırılan "Gazi" isimli C 47 Dakota uçak batığı, bu kez anlamlı bir buluşmaya ev sahipliği yaptı.
 

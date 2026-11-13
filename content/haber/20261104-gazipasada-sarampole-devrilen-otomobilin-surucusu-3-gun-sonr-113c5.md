@@ -73,6 +73,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+- https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Gazipaşa ilçesinde geçtiğimiz günlerde meydana gelen trafik kazasında ağır yaralanan otomobil sürücüsü, tedavi gördüğü hastanede yaşamını yitirdi. Kaza, 1 Kasım 2026 tarihinde gece saat 01.00 sıralarında Ilıca Mahallesi'nde yaşandı.
 

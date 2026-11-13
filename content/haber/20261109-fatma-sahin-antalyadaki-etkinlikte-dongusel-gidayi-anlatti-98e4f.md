@@ -72,6 +72,8 @@ gorsel_yerlesim:
   o_kart_p: 47% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
 ---
 Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Antalya'da gerçekleştirilen FOLLOWR4FS Girişimi kapsamında kentin döngüsel gıda sistemi üzerine bir sunum yaptı. Birleşmiş Milletler Gıda ve Tarım Örgütü ile Tarım ve Orman Bakanlığının düzenlediği oturumda, gıda israfı ve kayıplarıyla mücadele konuları masaya yatırıldı.
 

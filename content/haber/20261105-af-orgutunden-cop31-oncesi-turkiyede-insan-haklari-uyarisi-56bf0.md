@@ -143,6 +143,10 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 ---
 Uluslararası Af Örgütü, 9-20 Kasım tarihleri arasında Türkiye'nin ev sahipliğinde gerçekleştirilecek 31. Birleşmiş Milletler İklim Konferansı (COP31) öncesinde bir açıklama yayımladı. Örgüt, Türkiye'de gazeteciler, çevre aktivistleri ve LGBTI topluluğu üyelerine yönelik baskıların derinleştiğini belirterek, bu durumun göz ardı edilmemesi gerektiğini vurguladı.
 

@@ -70,6 +70,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+- https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 ---
 Antalya'da devam eden COP31 zirvesi çerçevesinde Yeşil Bölge'de bulunan Antalya Büyükşehir Belediyesi Pavilyonu'nda açıklamalarda bulunan Antalya Büyükşehir Belediye Başkan Danışmanı ve Yüksek Çevre Mühendisi Lokman Atasoy, iklim krizinin toplumun yüzleşmesi gereken somut bir gerçek haline geldiğini belirtti. Zirvede rekor düzeyde ziyaretçi beklendiğini ifade eden Atasoy, asıl önemli olanın organizasyon sonrasında kentte ne gibi kalıcı izler bırakılacağı olduğunu vurguladı.
 

@@ -180,6 +180,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
 ---
 Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin saat 16.00'da deplasmanda Corum FK ile karsilikli mucadele verecek. Ligde geride kalan 10 karsilasmada her iki ekip de 5 galibiyet, 1 beraberlik ve 4 maglubiyet alarak 16'sar puan topladi. Fenerbahce averajla 6. sirada yer alirken, kirmizisiyahli ev sahibi ekip 7. sirada bulunuyor.
 

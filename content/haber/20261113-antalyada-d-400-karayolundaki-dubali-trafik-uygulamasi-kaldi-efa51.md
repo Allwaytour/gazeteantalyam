@@ -69,6 +69,9 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) sürecinde hayata geçirilen trafik önlemlerinde yeni bir aşamaya geçildi. Antalya Valiliği tarafından yapılan bilgilendirmeye göre, D-400 Karayolu'nun Antalya ile Serik arasındaki bölümünde dubalama sistemiyle yürütülen gidiş-gelişli trafik uygulaması gece yarısı itibarıyla sonlandırıldı. Zirve dolayısıyla devreye sokulan diğer güvenlik ve trafik kısıtlamalarının ise süreceği ifade edildi.
 

@@ -147,6 +147,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1767216521441-074cc9e9ed05?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+- https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 ---
 Ülker Spor ve Etkinlik Salonu'nda oynanan Euroleague karşılaşmasında Fenerbahçe, Kosner Baskonia'yı konuk etti. Mücadeleye hızlı başlayan sarı-lacivertli ekip, ilk periyodu 33-18 önde tamamlarken, oyunun kontrolünü elinde tutmaya devam etti.
 

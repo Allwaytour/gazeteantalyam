@@ -76,6 +76,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+- https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın turizm sezonundaki en büyük sorunlarından biri olan D400 kara yolundaki trafik yoğunluğunu çözmek amacıyla başlatılan Antalya-Alanya Otoyolu Projesi'nde çalışmalar hız kesmeden devam ediyor. Ulaştırma ve Altyapı Bakanlığı ile Antalya Valiliği tarafından yürütülen dev projede, tünel kazılarında yüzde 80 oranında ilerleme kaydedildi. Toplam 122 kilometrelik güzergâh üzerinde 16 viyadük, 5 tünel ve 7 kavşak inşa ediliyor.
 

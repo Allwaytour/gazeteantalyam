@@ -77,6 +77,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
+- https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+- https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
 ---
 Alanya'da sürdürülen tedavi süreci kapsaminda, kalan 10 milyon liralik masrafin tamamlanmasi amaciyla baslatilan dayanisima seferberligi büyümeye devam ediyor. Kentteki kurumlar, is insanlari ve vatandaslarin destegiyle yürütülen kampanyaya katkI saglamak amaciyla özel bir yardim gecesi organize ediliyor.
 

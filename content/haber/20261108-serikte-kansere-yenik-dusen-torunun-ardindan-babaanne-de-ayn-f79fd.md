@@ -69,6 +69,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Serik ilçesinde yaşayan ve bir süredir kanserle mücadele eden Naime Tekin, tedavi gördüğü hastanede hayatını kaybetti. Yaklaşık bir yıldır amansız hastalıkla savaşan 36 yaşındaki Tekin'in vefatı yakınlarını yasa boğdu.
 

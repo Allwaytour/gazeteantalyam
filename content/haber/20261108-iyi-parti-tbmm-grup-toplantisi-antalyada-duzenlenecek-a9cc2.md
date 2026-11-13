@@ -70,6 +70,11 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 ---
 İYİ Parti, Türkiye Büyük Millet Meclisi grup toplantısını Antalya'da gerçekleştirme kararı aldı. Kentin siyasi gündeminde yer edinen bu önemli buluşmaya, İYİ Parti Genel Başkanı Müsavat Dervişoğlu'nun katılım sağlaması bekleniyor. Toplantıda parti yöneticileri ve çok sayıda üyenin de hazır bulunacağı belirtildi.
 

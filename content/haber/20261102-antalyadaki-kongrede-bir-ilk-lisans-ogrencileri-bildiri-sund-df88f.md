@@ -2,8 +2,8 @@
 title: 'Antalya''daki kongrede bir ilk: Lisans öğrencileri bildiri sundu'
 date: '2026-11-02T14:53:24+03:00'
 ozet: Antalya'da düzenlenen uluslararası kongrede, üç lisans öğrencisi akademik danışman eşliğinde bildiri sunarak yüksekokul tarihinde bir ilke imza attı.
-gorsel: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Nathan Cima / Unsplash'
+gorsel: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jun Ren / Unsplash'
 kategoriler:
 - Eğitim
 ilceler: []
@@ -12,28 +12,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 95035034aeaa
-  kaynak_sayfa: https://unsplash.com/photos/Qw6wa96IvvQ
-  fotografci: Nathan Cima
+  kaynak_sayfa: https://unsplash.com/photos/RTFX0TQHXko
+  fotografci: Jun Ren
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-2' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-4' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-2
-    tarih: '2026-11-13T08:47:31+03:00'
+    arsiv_id: sinif-4
+    tarih: '2026-11-13T15:21:42+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -82,8 +82,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyadaki-kongrede-bir-ilk-lisans-ogrencileri-bildiri-sund--d0a6c320.jpg
 gorsel_yerlesim:
   boyut:
-  - 4032
-  - 3024
+  - 3128
+  - 2072
   dikey: false
   surum: y3
   manset: kaplama
@@ -101,7 +101,12 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da gerçekleştirilen 10. Uluslararası Akademik Spor Araştırmaları Kongresi, spor bilimleri alanında önemli bilim insanlarını ve araştırmacıları bir araya getirdi. Kongrede, Dicle Üniversitesi Beden Eğitimi ve Spor Yüksekokulundan üç lisans öğrencisi bilimsel çalışmalarını katılımcılarla paylaştı.
 

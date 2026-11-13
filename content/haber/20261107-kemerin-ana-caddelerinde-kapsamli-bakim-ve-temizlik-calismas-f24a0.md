@@ -198,6 +198,8 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   logo: true
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 ---
 Antalya Büyükşehir Belediyesi ekipleri, Kemer’in en işlek güzergahları arasında bulunan Liman ve Atatürk caddelerinde bakım ve temizlik faaliyeti gerçekleştirdi. Yapılan bu çalışmalarla ilçenin ortak kullanım alanlarının daha düzenli ve estetik bir görünüme kavuşturulması amaçlanıyor.
 

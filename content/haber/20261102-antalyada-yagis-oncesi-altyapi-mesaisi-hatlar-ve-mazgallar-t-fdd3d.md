@@ -69,6 +69,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+- https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya genelinde yağışlı dönemlerde yaşanabilecek su birikintisi ve taşkın risklerini en aza indirmek amacıyla altyapı hazırlıkları hız kesmeden devam ediyor. Kent genelindeki yağmur suyu altyapısının sorunsuz çalışmasını hedefleyen ekipler, hatlarda ve sokaklardaki mazgallarda kapsamlı bir temizlik süreci yürütüyor.
 

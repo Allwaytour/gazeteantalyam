@@ -71,6 +71,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/0/05/Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
 ---
 Türk futbolunun önemli isimlerinden Fatih Terim, Küresel Gazeteciler Konseyi'nin 6. Küresel Medya Buluşması ve Küresel Ödüller törenine katılmak üzere Alanya'ya geldi. Program kapsamında kentin il olma talebine ilişkin değerlendirmelerde bulunan Terim, Alanya'nın mevcut durumuyla bu statüyü hak ettiğini dile getirdi.
 

@@ -68,6 +68,9 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+- https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Havalimanı, 2025 yılı yolcu trafiği verilerine göre Avrupa genelinde ACA Seviye 4+ veya üzeri akreditasyona sahip en yoğun beş havalimanından biri olurken, 2026'da Türkiye'de bu seviyeye ulaşan ikinci havalimanı konumuna geldi. İklim eylemini geniş bir ekosisteme yaymayı hedefleyen havalimanında, yiyecek ve içecek işletmecisi BFA ile duty-free işletmecisi ATÜ de karbon yönetimi alanındaki çalışmaları dolayısıyla Airport Partner Carbon Recognition programına dahil edildi. İş ortaklarının sertifikaları, kasım ayında COP31 kapsamında gerçekleştirilen ACI EUROPE etkinliğinde takdim edildi.
 

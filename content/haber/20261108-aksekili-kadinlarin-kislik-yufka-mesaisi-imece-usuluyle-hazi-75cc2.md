@@ -72,6 +72,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1763297014734-e2ac58a6f3c0?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1579697096985-41fe1430e5df?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın Akseki ilçesinde sonbaharın gelmesiyle birlikte kış hazırlıkları hız kazandı. Alaçeşme Mahallesi'nde yaşayan kadınlar, geleneksel yufka ekmeği yapımı için sabahın erken saatlerinde bir araya gelerek imece usulüyle çalışmaya başladı. Komşuluk ilişkilerinin güçlendiği bu süreçte, kadınlar hem kışlık erzaklarını hazırlıyor hem de asırlık bir kültürü gelecek kuşaklara aktarıyor.
 

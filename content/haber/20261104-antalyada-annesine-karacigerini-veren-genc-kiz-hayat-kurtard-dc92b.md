@@ -67,6 +67,10 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
+- https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da yaşamını sürdüren ve yaklaşık beş yıl önce siroz tanısı konulan Hasibe İlhan'ın rahatsızlığı, zamanla ilerleyerek ilaç tedavilerine yanıt vermez hale geldi. Bunun üzerine Antalya Eğitim ve Araştırma Hastanesi Organ Nakli Merkezi'nde tedavi süreci başlatılan iki çocuk annesi İlhan, kadavradan organ beklediği sırada sağlık tablosunun ağırlaşması ve bilinç kaybı yaşaması nedeniyle canlı verici arayışına girildi.
 

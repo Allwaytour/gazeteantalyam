@@ -75,6 +75,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
+- https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) hazırlıkları sürerken, Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Antalya'da düzenlediği basın toplantısıyla sürece dair çekincelerini dile getirdi. "Sıfır Emisyon mu, Emisyon Ticareti mi: Karbon Piyasalarının Gölgesinde COP31" başlıklı raporunu kamuoyuyla paylaşan birlik, iklim krizine karşı geliştirilen piyasa odaklı çözümlerin çevresel tahribatı artırdığını savundu.
 

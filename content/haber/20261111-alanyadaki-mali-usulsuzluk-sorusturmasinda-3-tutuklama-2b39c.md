@@ -71,6 +71,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+- https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+- https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+- https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 ---
 Alanya'da yürütülen mali usulsüzlük soruşturması kapsamında gözaltına alınan şüphelilerin adli işlemleri tamamlandı. Soruşturmayı yürüten makamlarca mahkemeye sevk edilen şüphelilerden E.A., A.A. ve M.Y. tutuklanarak cezaevine gönderildi. Müteahhit A.F. hakkında ev hapsi ile yurt dışına çıkış yasağı şeklinde adli kontrol tedbiri uygulanırken, T.K. isimli şüpheli ise serbest bırakıldı.
 

@@ -68,6 +68,8 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+gorsel_alternatif:
+- https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
 ---
 Almanya'nın Köln şehrinden Antalya'ya hareket eden yolcu uçağında beklenmedik bir sağlık durumu yaşandı. Havada ilerleyen uçağın ikinci pilotunun rahatsızlanması üzerine uçuş ekibi ve hava trafik kontrol merkezleri ortak bir karar aldı. Güzergâh değiştirilerek uçuşun Kuzey Makedonya'nın başkenti Üsküp'e yönlendirilmesi kararlaştırıldı.
 
