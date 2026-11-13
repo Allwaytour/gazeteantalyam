@@ -35601,6 +35601,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calle_Larga_at_night_during_power_cut.jpg/1280px-Calle_Larga_at_night_during_power_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4b0429689dc19306": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     14,
+     977,
+     986
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cizgi grafik",
+     "yazi",
+     "sayilar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Metropol alanlara gore elektrik maliyetini gosteren cizgi grafik.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ekonomi haberleri",
+     "enerji maliyetleri",
+     "istatistik"
+    ],
+    "uygunsuz_baglamlar": [
+     "klima haberleri",
+     "elektrik faturasi tepkisi",
+     "siyaset"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0d6348c56d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gorsel elektrik maliyeti grafigidir, haberdeki elektrik faturasi siniri tepkisiyle dogrudan ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "elektrik saati",
+        "var": false
+       },
+       {
+        "unsur": "klima",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:28:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d8e8034fe002408a",
+    "sha": "c6dc2f0ee4ffe2d1df008371"
+   },
+   "t": "2026-11-13T03:28:03+03:00",
+   "teknik": {
+    "doygunluk": 4.3,
+    "inen": [
+     500,
+     106
+    ],
+    "karanlik_oran": 0.018,
+    "keskinlik": 2886,
+    "kontrast": 45,
+    "medyan": 254,
+    "parlaklik": 235,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cost_of_Electricity_by_Metropolitan_Area.webp/1280px-Cost_of_Electricity_by_Metropolitan_Area.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4bb65e3d86007a0b": {
    "icerik": {
     "ana_kutu": [
@@ -90840,22 +90931,31 @@
      },
      "t": "2026-11-08T17:04:42+03:00"
     },
-    "r1:b24d779b6d78:konu": {
+    "r1:91e4f256d5ba:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Genel bir zirve/konferans ortamını temsil eder ancak masadaki yabancı ülke isimlikleri yanıltıcı olabilir.",
-      "gerekli": [],
+      "gerekce": "Salon toplantısını gösteriyor ancak isimliklerde yabancı ülke adları olması yerel AK Parti teşkilatı haberiyle çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasi parti toplantısı",
+        "var": true
+       },
+       {
+        "unsur": "salon toplantısı",
+        "var": true
+       }
+      ],
       "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
       "konu_kutusu": [
-       240,
+       250,
        110,
-       780,
-       875
+       793,
+       874
       ],
-      "olay_gorunuyor": false,
+      "olay_gorunuyor": true,
       "uygunluk": 6,
       "yaniltici_donem": false,
       "yaniltici_yer": true,
@@ -90864,7 +90964,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T14:35:22+03:00"
+     "t": "2026-11-13T03:28:24+03:00"
     },
     "r1:c310d6efe1d1:konu": {
      "d": {
@@ -90997,7 +91097,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-10T22:38:10+03:00",
+   "t": "2026-11-13T03:28:24+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -100002,13 +100102,48 @@
       "yasak": []
      },
      "t": "2026-11-08T12:34:21+03:00"
+    },
+    "r1:b0d6348c56d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Elektrik sayaçları habere uygundur ancak klima eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "elektrik saati",
+        "var": true
+       },
+       {
+        "unsur": "klima",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:28:12+03:00"
     }
    },
    "ozet": {
     "dh": "aaaaaaaaaaaaaaaa",
     "sha": "a8f9dc0d07cdea26bf9d4294"
    },
-   "t": "2026-11-08T12:34:21+03:00",
+   "t": "2026-11-13T03:28:12+03:00",
    "teknik": {
     "doygunluk": 23.5,
     "inen": [
@@ -103544,6 +103679,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1719159381962-4170890ada4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwdHVya2lzaCUyMHNjaG9vbCUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzk0MTUwMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e561ce3dc32e4a9e": {
+   "ozet": {
+    "dh": "8bd041783f474069",
+    "sha": "2c5f2098bdda685e3b0916bb"
+   },
+   "t": "2026-11-13T03:28:00+03:00",
+   "teknik": {
+    "doygunluk": 26.1,
+    "inen": [
+     500,
+     329
+    ],
+    "karanlik_oran": 0.628,
+    "keskinlik": 2418,
+    "kontrast": 58,
+    "medyan": 40,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Electricity_prices.webp/1280px-Electricity_prices.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e5b764260abba8db": {
    "icerik": {
