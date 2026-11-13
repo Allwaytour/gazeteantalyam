@@ -512,6 +512,9 @@ def gecmis_haberleri_duzelt(bag):
         print(f"Başlığı/etiketi düzeltilen eski haber: {duzeltilen}")
 
 
+ONARIM_SURUM = "o2"        # onarım kuralı değişince önceki denemelerin 24 saatlik beklemesi uygulanmaz
+
+
 def eski_metinleri_onar(durum, sinir=8):
     """Türkçe karaktersiz yayımlanmış otomatik haberleri onarır: kaynak sayfa yeniden okunur, yalnızca harf işaretleri düzeltilir
     (her kelimenin işaretsiz biçimi aynı kalır; özel adlar kaynak metinde aynı yazımla geçmiyorsa değiştirilmez). Adres (URL), tarih ve
@@ -537,18 +540,18 @@ def eski_metinleri_onar(durum, sinir=8):
             continue
         k = kayit.get(ad) or {}
         try:
-            if k.get("tarih") and datetime.fromisoformat(k["tarih"]) > simdi - timedelta(hours=24):
+            if k.get("surum") == ONARIM_SURUM and k.get("tarih") and datetime.fromisoformat(k["tarih"]) > simdi - timedelta(hours=24):
                 continue
         except Exception:
             pass
         kaynak_metin, _ = sayfa_oku(v.get("kaynak_url") or "")
         if mo.tr_orani(kaynak_metin) < 0.02:
-            kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": "kaynak metin okunamadı ya da Türkçe karaktersiz"}
+            kayit[ad] = {"surum": ONARIM_SURUM, "tarih": simdi.isoformat(timespec="seconds"), "sonuc": "kaynak metin okunamadı ya da Türkçe karaktersiz"}
             continue
         eski = {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "metin": govde.strip()}
         onar, neden = turkce_onar(eski, kaynak_metin)
         if not onar:
-            kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": f"onarılamadı: {neden}"[:200]}
+            kayit[ad] = {"surum": ONARIM_SURUM, "tarih": simdi.isoformat(timespec="seconds"), "sonuc": f"onarılamadı: {neden}"[:200]}
             print(f"Türkçe karakter onarılamadı: {ad} ({neden})")
             continue
         v["baslik_onceki"] = v.get("title", "")
@@ -558,7 +561,7 @@ def eski_metinleri_onar(durum, sinir=8):
                              "yontem": "yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı",
                              "not": neden}
         gs.md_yaz(yol, v, onar["metin"] + "\n")
-        kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": "onarıldı"}
+        kayit[ad] = {"surum": ONARIM_SURUM, "tarih": simdi.isoformat(timespec="seconds"), "sonuc": "onarıldı"}
         onarilan += 1
         print(f"Türkçe karakter onarıldı: {ad} → {v['title'][:70]}")
     return onarilan
