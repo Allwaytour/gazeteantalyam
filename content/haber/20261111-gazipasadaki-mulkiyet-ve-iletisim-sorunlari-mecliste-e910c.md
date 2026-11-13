@@ -2,8 +2,8 @@
 title: Gazipaşa'daki mülkiyet ve iletişim sorunları Meclis'te
 date: '2026-11-11T15:49:00+03:00'
 ozet: Gazipaşa ilçesindeki arazi mülkiyeti ile iletişim altyapısında yaşanan sıkıntılar Türkiye Büyük Millet Meclisi'nde dile getirildi.
-gorsel: /images/haber-gorsel/20261111-gazipasadaki-mulkiyet-ve-iletisim-sorunlari-mecliste-e910c-cb3dd8b8.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - Tarım ve Orman Bakanlığı
 - Ulaştırma ve Altyapı Bakanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-gazipasadaki-mulkiyet-ve-iletisim-sorunlari-mecliste-e910c-cb3dd8b8.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 3246fe83b61a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2022'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'tbmm-1' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-1
+    tarih: '2026-11-13T08:46:34+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/gazipasadaki-arazi-sorunu-meclis-g
 gorsel_yedek: /images/haber-gorsel/20261111-gazipasadaki-mulkiyet-ve-iletisim-sorunlari-mecliste-e910c-cb3dd8b8.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-gazipasadaki-mulkiyet-ve-iletisim-sorunlari-mecliste-e910c-cb3dd8b8.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Antalya'nın Gazipaşa ilçesine bağlı Karalar Mahallesi'nde yaşayan vatandaşların uzun süredir karşı karşıya kaldığı mülkiyet ve altyapı problemleri Meclis gündemine taşındı. Geçmiş dönemde gerçekleştirilen kadastro çalışmalarındaki hatalar nedeniyle, halkın nesillerdir tarım ve sera faaliyetlerinde kullandığı arazilerin orman sınırları içerisinde kaldığı belirtildi. Bu durumun bölge sakinleri açısından mağduriyetlere ve hukuki süreçlere yol açtığı ifade edildi.
 

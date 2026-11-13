@@ -1,5 +1,5 @@
 ---
-title: Antalyaspor Baskani Ergün'den mali durum ve secim aciklamasi
+title: Antalyaspor Baskani Ergün'den mali durum ve seçim aciklamasi
 date: '2026-11-11T15:02:00+03:00'
 ozet: Antalyaspor Baskani Mustafa Ergün, kulübün mali yapisi, borçlarin kapatilmasi ve yönetim degisikligi ihtimaline iliskin açiklamalarda bulundu.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -25,22 +25,20 @@ gorsel_secim:
   gosterilen: Antalya Stadyumu
   cekim_yili: '2015'
   aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-cd9201
-    tarih: '2026-11-12T02:56:28+03:00'
+    tarih: '2026-11-13T08:46:27+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -48,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalyaspor-baskani-ergunden-flas-aciklamalar
-gorsel_yedek: /images/haber-gorsel/20261111-antalyaspor-baskani-ergunden-mali-durum-ve-secim-aciklamasi-c-02deb8f4.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-antalyaspor-baskani-ergunden-mali-durum-ve-secim-aciklamasi-c-862ad248.jpg
 gorsel_yerlesim:
   boyut:
   - 2592
@@ -69,6 +67,7 @@ gorsel_yerlesim:
   o_kart: 64% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+baslik_ozgun: Antalyaspor Baskani Ergün'den mali durum ve secim aciklamasi
 ---
 Antalyaspor Baskani Mustafa Ergün katildigi bir televizyon programinda, kulübün karsilastigi mali sorunlar, yönetim degisikligi ihtimali ve hazirliklari yapilan destek kampanyalari hakkinda degerlendirmeler yapti. Kulüp için yeni bir yol haritasi çizmeyi hedeflediklerini belirten Ergün, geçtigimiz hafta eski baskanlar ve kdemli üyelerle bir araya gelerek Lara bölgesindeki tasinmazdan elde edilecek gelirin borçlarin hafifletilmesinde kullanilacagini konustuklarini aktardi.
 

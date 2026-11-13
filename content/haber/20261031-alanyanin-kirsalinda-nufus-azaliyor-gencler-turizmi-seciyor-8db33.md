@@ -30,22 +30,20 @@ gorsel_secim:
   gosterilen: Alanya Kleopatra Plajı ve turistik bölge
   cekim_yili: '2024'
   aciklama: Alanya, Kleopatra Plajı (2024)
-  gerekce: arşiv kaydı 'alanya-kleopatra' (Alanya Kleopatra Plajı ve turistik bölge) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'alanya-kleopatra' (Alanya Kleopatra Plajı ve turistik bölge) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: alanya-kleopatra
-    tarih: '2026-11-09T13:27:21+03:00'
+    tarih: '2026-11-13T08:47:43+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1752760437093-bcd023478e6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8b2xkJTIwdmlsbGFnZSUyMGhvdXNlJTIwdHVya2V5fGVufDF8MHx8fDE3OTM0ODk3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Nisa Yum / Unsplash'

@@ -2,8 +2,8 @@
 title: 'Uraloğlu: 45 havalimanımız karbon akreditasyonu sertifikası aldı'
 date: '2026-11-10T18:18:53+03:00'
 ozet: Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Antalya'da düzenlenen etkinlikte DHMİ tarafından işletilen 45 havalimanının karbon akreditasyonu sertifikası aldığını açıkladı.
-gorsel: /images/haber-gorsel/20261110-uraloglu-45-havalimanimiz-karbon-akreditasyonu-sertifikasi-a--94d926fb.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Xavier Lejeune / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - DHMİ
 - TÜBİTAK-MAM
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-uraloglu-45-havalimanimiz-karbon-akreditasyonu-sertifikasi-a--94d926fb.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: fe943d4e8430
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Abdulkadir_Uralo%C4%9Flu_23062026_(cropped).jpg
+  fotografci: Xavier Lejeune
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Abdulkadir Uraloğlu
+  cekim_yili: ''
+  aciklama: Abdulkadir Uraloğlu — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kisi-24abdf' (Abdulkadir Uraloğlu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-24abdf
+    tarih: '2026-11-13T08:46:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,24 +52,21 @@ kaynak_url: https://ankahaber.net/haber/cop31-antalya-da-bakan-uraloglu-45-haval
 gorsel_yedek: /images/haber-gorsel/20261110-uraloglu-45-havalimanimiz-karbon-akreditasyonu-sertifikasi-a--94d926fb.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
-  dikey: false
+  - 1376
+  - 1529
+  dikey: true
   surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
+  manset: yan
+  yan: false
+  kart: false
   detay: true
-  kart_portre: false
-  yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-uraloglu-45-havalimanimiz-karbon-akreditasyonu-sertifikasi-a--94d926fb.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı kapsamında düzenlenen ödül törenine katıldı. Burada yaptığı konuşmada iklim krizinin getirdiği risklere ve havacılık sektörünün çevresel etkilerini azaltma zorunluluğuna dikkat çekti.
 

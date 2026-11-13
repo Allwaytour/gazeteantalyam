@@ -2,28 +2,39 @@
 title: Antalya'daki sel sorununa karşı Gaziantep Evi'nden örnek su yönetimi
 date: '2026-11-01T16:05:00+03:00'
 ozet: Antalya'da yaşanan sel felaketleri sürdürülebilir su yönetimini gündeme getirirken, bakanlık tarafından tahsis edilen Gaziantep Evi Projesi'nde hayata geçirilen yağmur suyu toplama sistemleri örnek bir model oluşturdu.
-gorsel: /images/haber-gorsel/20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo--31048f3d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Dana Marin (Amsterdamian) / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo--31048f3d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
   konu_imza: bf908885ded1
+  kaynak_sayfa: https://unsplash.com/photos/O-wN5LK8Q3k
+  fotografci: Dana Marin (Amsterdamian)
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-2' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-2
+    tarih: '2026-11-13T08:47:36+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): Gaziantep Atatürk Müzesi sergi salonu; haberin konusu olan su yönetimini göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -70,8 +81,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo--31048f3d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3888
   dikey: false
   surum: y3
   manset: kaplama
@@ -80,14 +91,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo--31048f3d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da sık aralıklarla meydana gelen sel felaketleri, yağmur sularının yalnızca kriz anlarında tahliye edilmesinin ötesinde, doğru yöntemlerle yönetilip tekrar kazandırılmasının hayati önem taşıdığını bir kez daha gösterdi. Tarım arazilerinin, yerleşim yerlerinin ve ulaşım altyapısının zarar gördüğü kentte, sürdürülebilir su yönetimi uygulamaları üzerine yürütülen tartışmalar hız kazandı.
 

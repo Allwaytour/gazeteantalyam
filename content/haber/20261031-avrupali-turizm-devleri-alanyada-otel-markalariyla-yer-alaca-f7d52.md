@@ -2,8 +2,8 @@
 title: Avrupalı turizm devleri Alanya'da otel markalarıyla yer alacak
 date: '2026-10-31T14:57:40+03:00'
 ozet: Alman tur operatörleri Alltours ve DER Touristik'in Alanya'ya yönelmesi bölge turizminde hareketlilik yaratırken, sektör temsilcileri rekabet ve tanıtım etkilerine dikkat çekti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)'
 gorsel_v4: true
 kategoriler:
 - Turizm
@@ -21,31 +21,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: cedff79ffe95
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
-  fotografci: Julian Lupyan
-  lisans: CC0
-  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
-  gosterilen: Alanya Kleopatra Plajı ve turistik bölge
-  cekim_yili: '2024'
-  aciklama: Alanya, Kleopatra Plajı (2024)
-  gerekce: arşiv kaydı 'alanya-kleopatra' (Alanya Kleopatra Plajı ve turistik bölge) başlık/spot ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
+  fotografci: Ozgurmulazimoglu
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Alanya'nın turistik merkezi
+  cekim_yili: '2012'
+  aciklama: Alanya, kaleden liman ve sahil — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-alanya' (Alanya'nın turistik merkezi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: alanya-kleopatra
-    tarih: '2026-11-09T13:27:20+03:00'
+    arsiv_id: kut-alanya
+    tarih: '2026-11-13T08:47:41+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1743525922686-badbeac16a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aG90ZWwlMjBzd2ltbWluZyUyMHBvb2x8ZW58MXwwfHx8MTc5MzQ4NTcxM3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Zoshua Colah / Unsplash'
@@ -56,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-avrupali-turizm-devleri-alanyada-otel-markalariyla-yer-alaca--6e593316.jpg
 gorsel_yerlesim:
   boyut:
-  - 5870
-  - 3913
+  - 3264
+  - 2278
   dikey: false
   surum: y3
   manset: kaplama
@@ -75,7 +73,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Alman turizm şirketleri Alltours ile DER Touristik, kendi otel markalarıyla Alanya'da faaliyet göstermeye hazırlanıyor. Bu gelişmenin bölgenin uluslararası tanıtımına ve turist profilinin çeşitlenmesine katkı sunması beklenirken, yerel işletmeler açısından rekabetin artabileceği ifade ediliyor.
 

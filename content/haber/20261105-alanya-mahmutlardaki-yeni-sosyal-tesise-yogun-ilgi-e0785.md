@@ -2,33 +2,40 @@
 title: Alanya Mahmutlar'daki yeni sosyal tesise yoğun ilgi
 date: '2026-11-05T16:32:00+03:00'
 ozet: Alanya Belediyesi tarafından hizmete sunulan yeni sosyal tesis, mahalle sakinleri ile tatilcilerden tam not aldı.
-gorsel: /images/haber-gorsel/20261105-alanya-mahmutlardaki-yeni-sosyal-tesise-yogun-ilgi-e0785-a421421c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Haluk Comertel / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-alanya-mahmutlardaki-yeni-sosyal-tesise-yogun-ilgi-e0785-a421421c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
   konu_imza: 9373c0a2aa9e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
+  fotografci: Haluk Comertel
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  gosterilen: Alanya
+  cekim_yili: ''
+  aciklama: Alanya — Arşiv fotoğrafı
+  gerekce: 'arşiv kaydı ''ilce-alanya-3'' (Alanya) yerel haber: ilçenin kendi fotoğrafı'
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-alanya-3
+    tarih: '2026-11-13T08:47:14+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mahmutlar Sosyal Tesisi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mahmutlar, Alanya'' için konuyla (social facility, cafe, outdoor seating) ilişkili lisanslı fotoğraf bulunamadı'
-      elenenler:
-      - sayfa: https://www.alanya.bel.tr/haberler/alanya-belediyesi-kasim-ayi-meclis-toplantisi-yapildi/126631
-        katman: kurum_haber
-        neden: 'görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Sosyal tesis haberi için belediye '
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -77,8 +84,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-alanya-mahmutlardaki-yeni-sosyal-tesise-yogun-ilgi-e0785-a421421c.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2665
+  - 1552
   dikey: false
   surum: y3
   manset: kaplama
@@ -87,14 +94,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-alanya-mahmutlardaki-yeni-sosyal-tesise-yogun-ilgi-e0785-a421421c.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
 ---
 Alanya Belediyesi'nin Mahmutlar Mahallesi'nde hayata geçirdiği yeni sosyal tesis, açılışının hemen ardından hem yerli hem de yabancı ziyaretçilerin akınına uğradı. Geniş sosyal alanları ve bütçe dostu menü seçenekleriyle dikkat çeken merkez, güneşli havalarda bölge halkının en çok tercih ettiği buluşma noktalarından biri haline geldi.
 

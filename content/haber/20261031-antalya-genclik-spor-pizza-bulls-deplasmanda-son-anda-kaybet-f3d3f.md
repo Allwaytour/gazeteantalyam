@@ -2,8 +2,8 @@
 title: Antalya Gençlik Spor Pizza Bulls deplasmanda son anda kaybetti
 date: '2026-10-31T20:07:00+03:00'
 ozet: Türkiye Basketbol 2. Ligi'nde mücadele eden Antalya Gençlik Spor Pizza Bulls, İstanbul deplasmanında İTÜ Halkbank'a 93-91 mağlup oldu.
-gorsel: /images/haber-gorsel/20261031-antalya-genclik-spor-pizza-bulls-deplasmanda-son-anda-kaybet--d148ea26.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: engin akyurt / Unsplash'
 kategoriler:
 - Spor
 ilceler: []
@@ -15,23 +15,34 @@ yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/antalya-genclik-spor-pizza-bulls-itu-halkbanka-son-anda-kaybetti-93-91
 gorsel_v4: true
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-antalya-genclik-spor-pizza-bulls-deplasmanda-son-anda-kaybet--d148ea26.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: b026665e974d
+  kaynak_sayfa: https://unsplash.com/photos/VMX5EqjmnHE
+  fotografci: engin akyurt
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Basketbol
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'basketbol-1' (Basketbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: basketbol-1
+    tarih: '2026-11-13T08:47:43+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1505666287802-931dc83948e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2xvc2UlMjBiYXNrZXRiYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5MzQ4NTQxMHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Max Winkler / Unsplash'
@@ -42,8 +53,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-antalya-genclik-spor-pizza-bulls-deplasmanda-son-anda-kaybet--d148ea26.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 11086
+  - 8315
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-antalya-genclik-spor-pizza-bulls-deplasmanda-son-anda-kaybet--d148ea26.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin dördüncü haftasında İTÜ Merkez Spor Salonu'nda İTÜ Halkbank ile karşı karşıya geldi. Müsabakanın ilk periyodunu 25-22 geride kapatan Antalya temsilcisi, ikinci çeyrekte savunmada zorlanınca soyunma odasına 52-41 yenik durumda gitti.
 

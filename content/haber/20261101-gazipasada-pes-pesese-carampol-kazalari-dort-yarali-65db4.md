@@ -2,8 +2,8 @@
 title: 'Gazipaşa''da peş peşeşe çarampol kazaları: Dört yaralı'
 date: '2026-11-01T13:42:42+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde gün içinde meydana gelen iki ayrı kazada araçlar çarampole ve uçuruma devrildi.
-gorsel: /images/haber-gorsel/20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4-0abd667b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+gorsel_kredi: 'Fotoğraf: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,23 +18,34 @@ kaynak_url: https://www.akdenizgercek.com.tr/video/gazipasa/gazipasada-pes-pese-
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1615775742364-2feb6533f8c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Y2FyJTIwY3Jhc2glMjBwb2xpY2UlMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc5MzUyOTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Erik Mclean / Unsplash'
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4-0abd667b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
   konu_imza: 6f21e872b6c4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  fotografci: Zalasem1
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: 112 Acil ambulansı
+  cekim_yili: '2023'
+  aciklama: 112 Acil ambulansı — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ambulans-1' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ambulans-1
+    tarih: '2026-11-13T08:47:35+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://upload.wikimedia.org/wikipedia/commons/3/3b/Egemen3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: GAZİPAŞA GENÇLİK / Wikimedia Commons (CC BY-SA 4.0)'
@@ -72,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4-0abd667b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3638
+  - 2215
   dikey: false
   surum: y3
   manset: kaplama
@@ -82,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-gazipasada-pes-pesese-carampol-kazalari-dort-yarali-65db4-0abd667b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 ---
 Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda gecti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
 

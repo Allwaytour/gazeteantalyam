@@ -2,8 +2,8 @@
 title: Ferhat Göçer'den COP31'de sanat ve iklim krizi vurgusu
 date: '2026-11-12T13:38:15+03:00'
 ozet: MSG Başkanı Ferhat Göçer, Antalya'da düzenlenen COP31 kapsamında gerçekleştirilen panelde sanatın iklim kriziyle mücadeledeki gücüne dikkat çekti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler: []
@@ -16,31 +16,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
   konu_imza: 7f5d05ac430d
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  fotografci: Hendric Stattmann
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
+  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-12T13:57:11+03:00'
+    arsiv_id: cop31-expo-1
+    tarih: '2026-11-13T08:46:22+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -51,8 +49,8 @@ kaynak_url: https://www.cnnturk.com/magazin/msg-baskani-ferhat-gocer-cop31de-349
 gorsel_yedek: /images/haber-gorsel/20261112-ferhat-gocerden-cop31de-sanat-ve-iklim-krizi-vurgusu-40516-ac0f0518.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
+  - 5200
+  - 3468
   dikey: false
   surum: y3
   manset: kaplama
@@ -61,14 +59,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 68% 50%
+  o_mansetyan_m: 68% 50%
   o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
-  o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 90%
+  o_kart_p: 70% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı’nın 31’incisi (COP31), 9-20 Kasım tarihleri arasında Türkiye’nin ev sahipliğinde Antalya’da gerçekleştiriliyor. Zirve programı kapsamında düzenlenen “Davranışı Değiştiren Kreatif Güç: Kültür & Davranış” başlıklı panelde katılımcılara hitap eden Musiki Eseri Sahipleri Meslek Birliği (MSG) Yönetim Kurulu Başkanı Ferhat Göçer, sanatın toplumsal dönüşümdeki rolüne değindi.

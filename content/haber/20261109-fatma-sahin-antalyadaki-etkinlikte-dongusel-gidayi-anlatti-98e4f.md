@@ -2,8 +2,8 @@
 title: Fatma Şahin Antalya'daki etkinlikte döngüsel gidayi anlatti
 date: '2026-11-09T19:18:00+03:00'
 ozet: Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Antalya'da düzenlenen FOLLOWR4FS Girişimi'nde kentin döngüsel gıda sistemini paylaştı.
-gorsel: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-3ee27932.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Raysonho @ Open Grid Scheduler / Scalable Grid Engine / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler: []
@@ -13,23 +13,34 @@ etiketler:
 - FAO
 - Tarım ve Orman Bakanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-3ee27932.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: aab2b09b5ef6
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:RecyclingBinsMarkham.jpg
+  fotografci: Raysonho @ Open Grid Scheduler / Scalable Grid Engine
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Geri dönüşüm
+  cekim_yili: '2020'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'geri-donusum-2' (Geri dönüşüm) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: geri-donusum-2
+    tarih: '2026-11-13T08:46:46+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ kaynak_url: https://www.sondakika.com/cevre/haber-fatma-sahin-antalya-daki-follo
 gorsel_yedek: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-3ee27932.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4928
+  - 3264
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-3ee27932.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 50% 100%
+  o_manset_m: 38% 50%
+  o_mansetyan_d: 48% 50%
+  o_mansetyan_m: 47% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 38% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  o_kart_p: 47% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Antalya'da gerçekleştirilen FOLLOWR4FS Girişimi kapsamında kentin döngüsel gıda sistemi üzerine bir sunum yaptı. Birleşmiş Milletler Gıda ve Tarım Örgütü ile Tarım ve Orman Bakanlığının düzenlediği oturumda, gıda israfı ve kayıplarıyla mücadele konuları masaya yatırıldı.
 

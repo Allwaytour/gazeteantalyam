@@ -2,29 +2,40 @@
 title: Bursaspor'dan Antalya deplasmanı öncesi moral yemeği
 date: '2026-11-04T22:51:28+03:00'
 ozet: Cuma günü Antalyaspor ile karşılaşacak olan Bursaspor, tesislerinde düzenlenen kebap ziyafetiyle moral depoladı.
-gorsel: /images/haber-gorsel/20261104-bursaspordan-antalya-deplasmani-oncesi-moral-yemegi-6c97a-e8bc8ca4.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-bursaspordan-antalya-deplasmani-oncesi-moral-yemegi-6c97a-e8bc8ca4.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: takim
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 4922354e4a0a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+  fotografci: Onur
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya Stadyumu
+  cekim_yili: '2015'
+  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-cd9201
+    tarih: '2026-11-13T08:47:17+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Enes Çelik'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Er'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özlüce İ'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Enes Çelik'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Er'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Özlüce İbrahim Yazıcı Tesisleri'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Özlüce İbrahim Yazıcı Tesisleri'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,8 +55,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-bursaspordan-antalya-deplasmani-oncesi-moral-yemegi-6c97a-e8bc8ca4.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2592
+  - 1456
   dikey: false
   surum: y3
   manset: kaplama
@@ -54,14 +65,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-bursaspordan-antalya-deplasmani-oncesi-moral-yemegi-6c97a-e8bc8ca4.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 64% 50%
+  o_manset_m: 56% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 56% 50%
+  o_yan_m: 100% 50%
+  o_kart: 64% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 TFF 1. Lig ekiplerinden Bursaspor, deplasmanda oynayacağı Antalyaspor mücadelesinin hazırlıklarını sürdürüyor. Kritik karşılaşma öncesinde yeşil-beyazlı ekip, Özlüce İbrahim Yazıcı Tesisleri’nde düzenlenen akşam yemeğinde bir araya geldi. Uludağ Kebapçısı tarafından organize edilen etkinlikte takım, Bursa’nın meşhur döner kebabını yedi.
 

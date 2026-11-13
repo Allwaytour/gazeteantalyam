@@ -2,29 +2,40 @@
 title: 'Antalya''da ters yönde giden motosiklet kaza yaptı: 1 yaralı'
 date: '2026-11-02T14:31:56+03:00'
 ozet: Muratpaşa ilçesinde ters yönde ilerleyerek iki ayrı kazaya karışan ve ehliyetsiz olduğu belirlenen motosiklet sürücüsü yaralandı.
-gorsel: /images/haber-gorsel/20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-089-99f674cb.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+gorsel_kredi: 'Fotoğraf: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-089-99f674cb.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
   konu_imza: 383c58f46a2e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  fotografci: Zalasem1
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: 112 Acil ambulansı
+  cekim_yili: '2023'
+  aciklama: 112 Acil ambulansı — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ambulans-1' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ambulans-1
+    tarih: '2026-11-13T08:47:32+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -72,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-089-99f674cb.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3638
+  - 2215
   dikey: false
   surum: y3
   manset: kaplama
@@ -82,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalyada-ters-yonde-giden-motosiklet-kaza-yapti-1-yarali-089-99f674cb.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 ---
 Antalya'nın Muratpaşa ilçesinde trafiği tehlikeye düşüren bir motosiklet kazası meydana geldi. Edinilen bilgilere göre olay, Güllük Caddesi ile Tonguç Caddesi kesişiminde öğle saatlerinde yaşandı. Ters yönde seyreden 35 BYJ 901 plakalı motosiklet, önce 07 BNJ 835 plakalı hafif ticari araçla çarpıştı.
 

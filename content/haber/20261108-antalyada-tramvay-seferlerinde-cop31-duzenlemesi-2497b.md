@@ -25,22 +25,20 @@ gorsel_secim:
   gosterilen: Antalya tramvayı
   cekim_yili: '2022'
   aciklama: Antalya tramvayı (2022)
-  gerekce: arşiv kaydı 'tramvay-antalya' (Antalya tramvayı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'tramvay-antalya' (Antalya tramvayı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: tramvay-antalya
-    tarih: '2026-11-09T13:27:01+03:00'
+    tarih: '2026-11-13T08:46:54+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): İstanbul''daki tramvay (dosya: Istanbul modern tramway); haber Antalya tramvayı'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

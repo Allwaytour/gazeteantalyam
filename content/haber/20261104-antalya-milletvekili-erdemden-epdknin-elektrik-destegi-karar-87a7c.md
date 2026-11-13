@@ -2,28 +2,40 @@
 title: Antalya Milletvekili Erdem'den EPDK'nın elektrik desteği kararına tepki
 date: '2026-11-04T13:02:00+03:00'
 ozet: YENİ Parti Antalya Milletvekili Mustafa Erdem, EPDK'nın elektrikte destek sınırını düşürmesine tepki göstererek Antalya'da klimanın lüks değil zorunluluk olduğunu vurguladı.
-gorsel: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Yildiz Yazicioglu (VOA) / Wikimedia Commons (Public domain)'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: fbdb24f31ef9
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  fotografci: Yildiz Yazicioglu (VOA)
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2020'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2020)
+  gerekce: arşiv kaydı 'tbmm-2' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-2
+    tarih: '2026-11-13T08:47:20+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Mustafa Erdem'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/erdemden-hukumete-fatura-is
 gorsel_yedek: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 1280
+  - 720
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalya-milletvekili-erdemden-epdknin-elektrik-destegi-karar--d543f398.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
+  o_yan_d: 50% 100%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_gecmis: []
 ---
 YENİ Parti Antalya Milletvekili Mustafa Erdem, Enerji Piyasası Düzenleme Kurumu'nun (EPDK) mesken abonelerine yönelik yıllık devlet desteği sınırını düşürme kararına ve iktidarın enerji politikalarına yönelik eleştirilerde bulundu. İktidarın doğrudan zam yapmıyor gibi görünerek destek kapsamını daralttığını ifade eden Erdem, bu durumun gizli bir zam anlamına geldiğini ve özellikle Antalya gibi sıcak bölgelerde yaşayan vatandaşları mağdur edeceğini savundu.
 

@@ -2,8 +2,8 @@
 title: Kepezspor kendi sahasında Uşakspor'u 2-0 mağlup etti
 date: '2026-11-01T14:53:00+03:00'
 ozet: Ligin 9'uncu haftasında Uşakspor'u konuk eden Antalya temsilcisi Kepezspor, karşılaşmadan 2-0 galibiyetle ayrıldı.
-gorsel: /images/haber-gorsel/20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740-a4b77b0f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Peter Glaser baraida / Wikimedia Commons (CC0)'
 kategoriler:
 - Spor
 ilceler:
@@ -18,23 +18,34 @@ kaynak_url: https://www.usakhabergazetesi.com.tr/usakspor-antalya-deplasmanindan
 gorsel_onceki:
   gorsel: https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzkzNDg1Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Vienna Reyes / Unsplash'
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740-a4b77b0f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
   konu_imza: a25f91c8a08e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  fotografci: Peter Glaser baraida
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Futbol
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'futbol-1' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: futbol-1
+    tarih: '2026-11-13T08:47:34+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-09): Kepez''deki Atatürk mask anıtı; futbol maçıyla ilgisi yok (deneme 29''da h2 de reddetti)'
+    tur: tipografik
+    durum: onaylandi
 etiketler:
 - Kepezspor
 - Uşakspor
@@ -75,8 +86,8 @@ gorsel_gecmis:
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-09): Kepez''deki Atatürk mask anıtı; futbol maçıyla ilgisi yok (deneme 29''da h2 de reddetti)'
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5787
+  - 3858
   dikey: false
   surum: y3
   manset: kaplama
@@ -85,14 +96,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-kepezspor-kendi-sahasinda-usaksporu-2-0-maglup-etti-29740-a4b77b0f.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 ---
 Lig mücadelesi kapsamında Kepez Hasan Doğan Stadı'nda oynanan karşılaşmada Antalya temsilcisi Kepezspor, rakibi Uşakspor'u ağırladı. Mücadelenin hakemliğini Cem Arayan üstlendi.
 

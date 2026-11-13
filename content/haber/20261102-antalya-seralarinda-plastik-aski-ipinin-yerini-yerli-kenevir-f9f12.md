@@ -3,7 +3,7 @@ title: Antalya seralarinda plastik aski ipinin yerini yerli kenevir aliyor
 date: '2026-11-02T21:53:52+03:00'
 ozet: Antalya'da seralarda plastik kullanimini azaltmak amaciyla yerli kenevirden uretilen bitki aski ipleri deneme amacli kullanilmaya baslandi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_kredi: 'Fotoğraf: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -22,22 +22,20 @@ gorsel_secim:
   gosterilen: Antalya'da seralar ve tarım arazileri
   cekim_yili: '2011'
   aciklama: Antalya'da seralar (2011)
-  gerekce: arşiv kaydı 'sera-antalya' (Antalya'da seralar ve tarım arazileri) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'sera-antalya' (Antalya'da seralar ve tarım arazileri) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: sera-antalya
-    tarih: '2026-11-09T13:27:17+03:00'
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: kaynak kaydı başka bir yere ait (Burdur); haberde bu yer geçmiyor
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

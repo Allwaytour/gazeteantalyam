@@ -1,28 +1,40 @@
 ---
-title: Antalya Korfezi'nde Deniz Kirliligine Karsi Yuksek Teknolojili Denetim
+title: Antalya Körfezi'nde Deniz Kirliligine Karşı Yuksek Teknolojili Denetim
 date: '2026-11-04T12:32:00+03:00'
-ozet: Antalya'da denizlerin temiz kalmasi amaciyla devreye alinan radar sistemleri ve 40 kamera ile Akdeniz'deki hareketlilik kesintisiz takip ediliyor.
-gorsel: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--83a75c02.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+ozet: Antalya'da denizlerin temiz kalması amacıyla devreye alınan radar sistemleri ve 40 kamera ile Akdeniz'deki hareketlilik kesintisiz takip ediliyor.
+gorsel: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Daniil Komov / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--83a75c02.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c641bb8848e5
+  kaynak_sayfa: https://unsplash.com/photos/r2_uBsnR-dY
+  fotografci: Daniil Komov
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yazılım
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yazilim-2' (Yazılım) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yazilim-2
+    tarih: '2026-11-13T08:47:20+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: habere uygunluk düşük (2/10, en az 8); habere uygunluk düşük (5/10, en az 6); habere uygunluk düşük (6/10, en az 8); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -62,11 +74,11 @@ gorsel_gecmis:
     alt_tur: yer_konu
     kurum: k4
   degisim: '2026-11-08T15:41:51+03:00'
-gorsel_yedek: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--83a75c02.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--cc1d7c36.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4928
+  - 3280
   dikey: false
   surum: y3
   manset: kaplama
@@ -75,17 +87,25 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--83a75c02.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Antalya Korfezi'nde Deniz Kirliligine Karsi Yuksek Teknolojili Denetim
+metin_onarim:
+  tarih: '2026-11-13T08:44:49+03:00'
+  kaynak: https://www.akdenizgercek.com.tr/antalya/antalyada-denizi-kirleten-yandi-40-kamera-ve-radarlar-724-izleniyor/388618
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi'
 ---
-Antalya'da denizlerin korunmasi ve temiz kalmasi amaciyla yurutulen cevre denetim calismalari araliksiz suruyor. Bu kapsamda, Antalya Korfezi'ni tehdit edebilecek gemi kaynakli kirlilige karsi ust duzey teknolojik onlemler devreye alindi.
+Antalya'da denizlerin korunması ve temiz kalması amacıyla yürütülen çevre denetim çalışmaları aralıksız sürüyor. Bu kapsamda, Antalya Körfezi'ni tehdit edebilecek gemi kaynaklı kirliliğe karşı üst düzey teknolojik önlemler devreye alındı.
 
-Yurutulen calismalar kapsaminda bolge, deniz trafigini ve olasi atik sizintilarini aninda tespit edebilen radar teknolojisinin yani sira 20 normal ve 20 termal kamera ile donatildi. Kurulan sistemlerle Akdeniz'deki hareketlilik saniye saniye takip ediliyor.
+Yürütülen çalışmalar kapsamında bölge, deniz trafiğini ve olası atık sızıntılarını anında tespit edebilen radar teknolojisinin yanı sıra 20 normal ve 20 termal kamera ile donatıldı. Kurulan sistemlerle Akdeniz'deki hareketlilik saniye saniye takip ediliyor.
 
-Yetkililer, gelismis kamera ve radar sistemleriyle saglanan teknolojik takibe denizden de fiziki destek verildigini belirtti. Bolgede aktif olarak gorev yapan cevre denetim teknesiyle devriye faaliyetlerinin surdugu ve Akdeniz'in maviligini korumak icin denetimlerin tavizsiz devam edecegi bildirildi.
+Yetkililer, gelişmiş kamera ve radar sistemleriyle sağlanan teknolojik takibe denizden de fiziki destek verildiğini belirtti. Bölgede aktif olarak görev yapan çevre denetim teknesiyle devriye faaliyetlerinin sürdüğü ve Akdeniz'in maviliğini korumak için denetimlerin tavizsiz devam edeceği bildirildi.

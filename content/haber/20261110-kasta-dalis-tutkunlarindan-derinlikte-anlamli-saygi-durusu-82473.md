@@ -2,8 +2,8 @@
 title: Kas'ta dalis tutkunlarindan derinlikte anlamli saygi durusu
 date: '2026-11-10T09:31:00+03:00'
 ozet: Kibris Baris Harekatı'na katilan ve Kas sularina batirilan askeri ucagin bulundugu noktada dalis yapan sporcular, Mustafa Kemal Ataturk'un ebediyete intikalinin 88. yili dolayisiyla 20 metre derinlikte Turk bayragi ve Ataturk posteri acti.
-gorsel: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-0ab9e72e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
+gorsel_kredi: 'Fotoğraf: Wusel007 / Wikimedia Commons (CC0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Divemantakaş
 - Muti Diving
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-0ab9e72e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
   konu_imza: 11dbc36b35cc
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:C-47_Dakota_Kas_nose.JPG
+  fotografci: Wusel007
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Kaş'ta dalış
+  cekim_yili: '2013'
+  aciklama: Kaş açıklarında dalış — Arşiv fotoğrafı (2013)
+  gerekce: arşiv kaydı 'dalis-2' (Kaş'ta dalış) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: dalis-2
+    tarih: '2026-11-13T08:46:38+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.trthaber.com/foto-galeri/kasta-daliscilardan-ataturke-sa
 gorsel_yedek: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-0ab9e72e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3840
+  - 2880
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-0ab9e72e.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
+gorsel_gecmis: []
 ---
 Antalya'nin Kaş ilcesinde gerceklestirilen anma etkinligi, renkli ve duygusal anlara sahne oldu. Kibris Baris Harekatı'nda gorev alan ve 2009 yilinda bolgedeki dalis turizmini gelistirmek amaciyla sulara batirilan "Gazi" isimli C 47 Dakota ucak batigi, bu kez anlamli bir bulusmaya ev sahipligi yapti.
 

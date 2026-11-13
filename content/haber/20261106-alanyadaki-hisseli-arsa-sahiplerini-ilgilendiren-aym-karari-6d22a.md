@@ -2,8 +2,8 @@
 title: Alanya'daki Hisseli Arsa Sahiplerini İlgilendiren AYM Kararı
 date: '2026-11-06T13:52:00+03:00'
 ozet: Anayasa Mahkemesi, paylı mülkiyette önalım hakkı kullanılırken bedelin rayiç değer üzerinden belirlenmesini öngören düzenlemeyi iptal etti.
-gorsel: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
+gorsel_kredi: 'Fotoğraf: Lgalanya123 / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Anayasa Mahkemesi
 - Türkiye Büyük Millet Meclisi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
   konu_imza: 828a66ada686
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Mahmutlar.JPG
+  fotografci: Lgalanya123
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Alanya'da konutlar
+  cekim_yili: '2014'
+  aciklama: Alanya Mahmutlar — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'konut-alanya' (Alanya'da konutlar) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konut-alanya
+    tarih: '2026-11-13T08:47:09+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''hisseli arsa'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: title deed document Turkey, land registry office)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-hisseli-arsa-sahiplerini-ilgilen
 gorsel_yedek: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3264
+  - 2448
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyadaki-hisseli-arsa-sahiplerini-ilgilendiren-aym-karari-6-9cd380bb.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
+gorsel_gecmis: []
 ---
 Alanya'da hisseli arsa, tarla ve diğer taşınmazlara sahip vatandaşları yakından ilgilendiren önemli bir hukuki gelişme yaşandı. Anayasa Mahkemesi, paylı mülkiyette önalım hakkı kullanılırken taşınmaz hissesinin bedelinin mahkeme tarafından rayiç değer üzerinden belirlenmesini öngören düzenlemeyi iptal etti. Kararın yürürlüğe girmesi dokuz ay ertelenirken, hisseli taşınmaz satışlarında uygulanacak bedelin nasıl hesaplanacağı yeniden gündeme geldi.
 

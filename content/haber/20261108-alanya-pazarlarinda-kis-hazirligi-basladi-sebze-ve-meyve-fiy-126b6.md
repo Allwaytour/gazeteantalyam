@@ -1,5 +1,5 @@
 ---
-title: Alanya pazarlarinda kis hazirligi basladi, sebze ve meyve fiyatlari
+title: Alanya pazarlarında kış hazirligi basladi, sebze ve meyve fiyatları
 date: '2026-11-08T13:55:00+03:00'
 ozet: Kış mevsiminin yaklaşmasıyla birlikte Alanya'daki semt pazarlarında hareketlilik yaşanırken, vatandaşlar bütçelerine uygun sebze ve meyve arayışına girdi.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -114,7 +114,8 @@ otomatik: true
 yz: true
 kaynak: Alanya Türk
 kaynak_url: https://www.alanyaturk.com/alanya-pazarlarinda-kis-telasi-basladi
-gorsel_yedek: /images/haber-gorsel/20261108-alanya-pazarlarinda-kis-hazirligi-basladi-sebze-ve-meyve-fiy--31bdbcb2.jpg
+gorsel_yedek: /images/haber-gorsel/20261108-alanya-pazarlarinda-kis-hazirligi-basladi-sebze-ve-meyve-fiy--e2acd618.jpg
+baslik_ozgun: Alanya pazarlarinda kis hazirligi basladi, sebze ve meyve fiyatlari
 ---
 Kış aylarının yaklaşmasıyla beraber sofraların vazgeçilmezi olan taze sebze ve meyvelere olan ilgi belirgin şekilde arttı. Alanya genelindeki semt pazarlarını ziyaret eden vatandaşlar, ihtiyaç duydukları ürünleri temin edebilmek için farklı tezgahları gezerek fiyat karşılaştırması yaptı. Tezgahlar arasında özellikle sınırlı miktarda bulunan mantar yoğun talep gördü. Kilogram fiyatı 200 ile 250 lira arasında değişen mantarın kısa sürede tükendiği ifade edildi. 
 

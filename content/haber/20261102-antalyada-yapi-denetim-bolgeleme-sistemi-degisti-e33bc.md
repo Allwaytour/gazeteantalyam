@@ -2,24 +2,39 @@
 title: Antalya'da yapı denetim bölgeleme sistemi değişti
 date: '2026-11-02T11:03:00+03:00'
 ozet: Antalya İnşaat Müteahhitleri Derneği'nin üç yıllık girişimi sonuç verdi. Kentin yapı denetim bölgelemesi Resmî Gazete'de yayımlanan tebliğle yeniden şekillendirildi.
-gorsel: /images/haber-gorsel/20261102-antalyada-yapi-denetim-bolgeleme-sistemi-degisti-e33bc-66b3a7b6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jonathan Chan / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalyada-yapi-denetim-bolgeleme-sistemi-degisti-e33bc-66b3a7b6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 730099516c6a
+  kaynak_sayfa: https://unsplash.com/photos/Iya-XbLxnqI
+  fotografci: Jonathan Chan
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İnşaat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'insaat-1' (İnşaat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: insaat-1
+    tarih: '2026-11-13T08:47:31+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -33,8 +48,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyada-yapi-denetim-bolgeleme-sistemi-degisti-e33bc-66b3a7b6.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalyada-yapi-denetim-bolgeleme-sistemi-degisti-e33bc-66b3a7b6.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya inşaat sektörünü yakından ilgilendiren yapı denetim bölgeleme sisteminde yeni bir düzenlemeye gidildi. Antalya İnşaat Müteahhitleri Derneği'nin yaklaşık üç yıldır ilgili bakanlıklar nezdinde sürdürdüğü girişimler ve görüşmeler sonuç verdi. Konuya ilişkin tebliğ Resmî Gazete'de yayımlanarak yürürlük tarihi duyuruldu.
 

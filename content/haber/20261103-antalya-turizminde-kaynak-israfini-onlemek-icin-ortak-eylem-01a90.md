@@ -2,8 +2,8 @@
 title: Antalya turizminde kaynak israfını önlemek için ortak eylem planı hazırlandı
 date: '2026-11-03T11:49:13+03:00'
 ozet: Kamu kurumları ve özel sektör işbirliğiyle hazırlanan eylem planı, turizmde kaynak verimliliğini artırmayı ve sürdürülebilirliği sağlamayı hedefliyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: REHBER0770 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: FingerWiki / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -13,30 +13,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
   konu_imza: 13fbddc5db09
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-  fotografci: REHBER0770
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  fotografci: FingerWiki
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya Kaleiçi ve tarihi liman
-  cekim_yili: '2018'
-  aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
-  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot ile eşleşti
+  gosterilen: Konyaaltı Sahili ve Beydağları
+  cekim_yili: '2023'
+  aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
+  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: antalya-kaleici
-    tarih: '2026-11-09T13:27:15+03:00'
+    arsiv_id: antalya-konyaalti
+    tarih: '2026-11-13T08:47:28+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,8 +46,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalya-turiz
 gorsel_yedek: /images/haber-gorsel/20261103-antalya-turizminde-kaynak-israfini-onlemek-icin-ortak-eylem-0-15f95fb3.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 3456
+  - 4080
+  - 3072
   dikey: false
   surum: y3
   manset: kaplama
@@ -66,7 +65,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 gorsel_gecmis: []
 ---
 Antalya'da turizm sektöründe kaynak israfının azaltılması amacıyla kamu kurumları ile özel sektörün katılımıyla ortak bir eylem planı oluşturuldu. Bu planın tanıtımı ve protokol imza töreni, ilgili paydaşların geniş katılımıyla bir konferans salonunda gerçekleştirildi.

@@ -2,28 +2,40 @@
 title: Antalya'da Yoldaki İşaretler kitabı hakkındaki yasak kaldırıldı
 date: '2026-11-03T21:31:52+03:00'
 ozet: Türkiye genelinde basım, dağıtım ve satış yasağı getirilen Seyyid Kutub'un "Yoldaki İşaretler" kitabı hakkındaki karar, yapılan incelemenin ardından kaldırıldı.
-gorsel: /images/haber-gorsel/20261103-antalyada-yoldaki-isaretler-kitabi-hakkindaki-yasak-kaldiril--17fa5eed.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Paul Melki / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyada-yoldaki-isaretler-kitabi-hakkindaki-yasak-kaldiril--17fa5eed.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 3819046d8985
+  kaynak_sayfa: https://unsplash.com/photos/bByhWydZLW0
+  fotografci: Paul Melki
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Kitaplar
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kitap-1' (Kitaplar) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kitap-1
+    tarih: '2026-11-13T08:47:26+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Antalya Cumhuriyet Başsavcılığı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://serbestiyet.com/featured/antalya-1-sulh-ceza-hakimligi-seyyi
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-yoldaki-isaretler-kitabi-hakkindaki-yasak-kaldiril--17fa5eed.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3875
+  - 1891
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyada-yoldaki-isaretler-kitabi-hakkindaki-yasak-kaldiril--17fa5eed.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  url: https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Mısırlı düşünür Seyyid Kutub’un Türkiye’de uzun yıllardır yayımlanan "Yoldaki İşaretler" adlı eseri hakkında daha önce Türkiye genelinde yasak kararı verilmişti. Antalya 1. Sulh Ceza Hâkimliği, Terörle Mücadele Kanunu ile Basın Kanunu'nun ilgili maddelerine dayanarak kitap hakkında el koyma, basım, dağıtım ve satış yasağı getirdi.
 

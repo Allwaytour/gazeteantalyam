@@ -2,27 +2,39 @@
 title: Antalya'da Mera Alanlarında Verimliliği Artıracak Hümik Asit Desteği
 date: '2026-11-05T19:10:00+03:00'
 ozet: Antalya'da mera alanlarının iyileştirilmesi ve hayvancılığın desteklenmesi amacıyla 5 bin 120 litre hümik asit teslim alındı.
-gorsel: /images/haber-gorsel/20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b-007d3589.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1440428099904-c6d459a7e7b5?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Leon Ephraïm / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b-007d3589.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1440428099904-c6d459a7e7b5?fm=jpg&q=80&w=1600&fit=max
   konu_imza: fa128f4802ad
+  kaynak_sayfa: https://unsplash.com/photos/AxoNnnH1Y98
+  fotografci: Leon Ephraïm
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Hayvancılık
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'hayvancilik' (Hayvancılık) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: hayvancilik
+    tarih: '2026-11-13T08:47:13+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'habere uygunluk düşük (3/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: hümik asit bidonları, tarımsal gübre'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -144,8 +156,8 @@ baslik_ozgun: ANTALYA'DA MERA ALANLARINDA VERİMLİLİĞİ ARTIRACAK HÜMİK AS�
 gorsel_yedek: /images/haber-gorsel/20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b-007d3589.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4870
+  - 3247
   dikey: false
   surum: y3
   manset: kaplama
@@ -154,14 +166,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-antalyada-mera-alanlarinda-verimliligi-artiracak-humik-asit-b-007d3589.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1440428099904-c6d459a7e7b5?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da tarımsal üretimi güçlendirmek ve mera alanlarının verimini yükseltmek için yeni bir adım atıldı. Tarım ve Orman Bakanlığı ile Türkiye Kömür İşletmeleri Kurumu arasında imzalanan protokol çerçevesinde, kente 5 bin 120 litre hümik asit ulaştırıldı. İl Tarım ve Orman Müdürlüğü tarafından yürütülecek çalışmalarla, söz konusu organik maddenin mera ıslahında kullanılması planlanıyor.
 

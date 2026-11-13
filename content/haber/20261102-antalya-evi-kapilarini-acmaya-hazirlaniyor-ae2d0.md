@@ -3,7 +3,7 @@ title: Antalya Evi kapılarını açmaya hazırlanıyor
 date: '2026-11-02T11:37:00+03:00'
 ozet: Expo alanındaki eski bir bölge evi, kentin kültürel mirasını ve yöresel lezzetlerini tanıtmak amacıyla kapsamlı bir restorasyonla Antalya Evi'ne dönüştürüldü.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: JIP / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_kredi: 'Fotoğraf: JIP / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -22,22 +22,20 @@ gorsel_secim:
   gosterilen: yöresel yemekler
   cekim_yili: '2020'
   aciklama: Yöresel yemekler (temsilî)
-  gerekce: arşiv kaydı 'kut-f58cec' (yöresel yemekler) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-f58cec' (yöresel yemekler) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-f58cec
-    tarih: '2026-11-09T13:27:17+03:00'
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

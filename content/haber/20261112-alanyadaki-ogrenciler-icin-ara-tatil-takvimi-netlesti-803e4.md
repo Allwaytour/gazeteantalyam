@@ -2,8 +2,8 @@
 title: Alanya'daki öğrenciler için ara tatil takvimi netleşti
 date: '2026-11-12T13:24:00+03:00'
 ozet: Milli Eğitim Bakanlığı takvimine göre Alanya'da binlerce öğrenci kasım ayında 9 gün tatil yapacak.
-gorsel: /images/haber-gorsel/20261112-alanyadaki-ogrenciler-icin-ara-tatil-takvimi-netlesti-803e4-c44bf35e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Milli Eğitim Bakanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261112-alanyadaki-ogrenciler-icin-ara-tatil-takvimi-netlesti-803e4-c44bf35e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 3799abdcc5cc
+  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
+  fotografci: Haseeb Modi
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sınıf
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sinif-1
+    tarih: '2026-11-13T08:46:31+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.gazetealanya.com/mujde-verildi-alanyada-9-gun-tatil-yapa
 gorsel_yedek: /images/haber-gorsel/20261112-alanyadaki-ogrenciler-icin-ara-tatil-takvimi-netlesti-803e4-c44bf35e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 7728
+  - 5152
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261112-alanyadaki-ogrenciler-icin-ara-tatil-takvimi-netlesti-803e4-c44bf35e.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 2026-2027 eğitim öğretim yılının ilk ara tatiline yönelik heyecanlı bekleyiş sürerken, Alanya genelindeki öğrenciler ve veliler tatil tarihlerini yakından takip ediyor. Yürütülen planlamalar kapsamında ilçe genelindeki okul öncesi, ilkokul, ortaokul ve lise öğrencileri kasım ayında dinlenme fırsatı bulacak.
 

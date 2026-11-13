@@ -2,8 +2,8 @@
 title: Manavgatın nostaljik ahşap çardakları resim sergisinde yaşayacak
 date: '2026-10-31T16:51:13+03:00'
 ozet: Manavgat sahilinin simgesi olan ve zamanla ortadan kalkan ahşap çardaklar, bir sanatçının fırçasıyla tuvallerde yeniden hayat buldu.
-gorsel: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Gmupcycle / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_v4: true
 kategoriler:
 - Kültür-Sanat
@@ -16,23 +16,34 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/manavgat/manavgatin-yazlik-cardaklari-tuvallerde-yeniden-hayat-buldu/388395
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 1f85e7200357
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg
+  fotografci: Gmupcycle
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Sergi
+  cekim_yili: '2020'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sergi' (Sergi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sergi
+    tarih: '2026-11-13T08:47:40+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-manavgatin-nostaljik-ahsap-cardaklari-resim-sergisinde-yasay--81e2809a.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalyaının Manavgat ilçesinde geçmişte tatilciler ile yerel halkın sıcaktan korunmak ve dinlenmek için sahilde kurduğu ahşap çardaklar, sanat yoluyla belgelendi. Yüksek Dekoratif Sanatlar Tekstil Bölümü mezunu olan ressam Çiler Belen, Kirazlı Köyündeki atölyesinde yürüttüğü çalışmalarla Kumköy, Sorgun ve Boğaz mevkilerindeki eski yapıları resmetti.
 

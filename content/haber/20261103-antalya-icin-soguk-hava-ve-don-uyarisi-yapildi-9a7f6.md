@@ -2,27 +2,39 @@
 title: Antalya için soğuk hava ve don uyarısı yapıldı
 date: '2026-11-03T19:24:00+03:00'
 ozet: Antalya Valiliği, 4 Kasım Çarşamba gününden itibaren kentin iç ve yüksek kesimlerinde hava sıcaklıklarının düşeceğini, kar ve zirai don riskine karşı önlem alınması gerektiğini duyurdu.
-gorsel: /images/haber-gorsel/20261103-antalya-icin-soguk-hava-ve-don-uyarisi-yapildi-9a7f6-673a5ee8.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Fotoğraf: Edmund Shaw / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Yaşam
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalya-icin-soguk-hava-ve-don-uyarisi-yapildi-9a7f6-673a5ee8.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: 95c495f4ebab
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_(geograph_4296089).jpg
+  fotografci: Edmund Shaw
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  gosterilen: Soğuk hava
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'soguk' (Soğuk hava) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: soguk
+    tarih: '2026-11-13T08:47:28+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; Sağlık Bakanlığı Antalya dışı kurum, kullanılmadı; TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (cold w'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -33,8 +45,8 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyaya-soguk-hava-darbesi-antaly
 gorsel_yedek: /images/haber-gorsel/20261103-antalya-icin-soguk-hava-ve-don-uyarisi-yapildi-9a7f6-673a5ee8.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 800
+  - 523
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,14 +55,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalya-icin-soguk-hava-ve-don-uyarisi-yapildi-9a7f6-673a5ee8.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 90% 50%
+  o_mansetyan_m: 90% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  o_kart_p: 95% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_gecmis: []
 ---
 Antalya Valiliği tarafından yapılan son değerlendirmelere göre, kent genelinde hava koşullarında belirgin bir değişiklik yaşanması bekleniyor. İç ve yüksek kesimlerin çarşamba gününden itibaren serin ve yağışlı havanın etkisi altına gireceği, soğuk hava dalgasının 10 Kasım Salı gününe kadar etkisini sürdüreceği bildirildi.
 

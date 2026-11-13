@@ -2,29 +2,40 @@
 title: Antalyalı öğrenci Einstein Matematik Olimpiyatları'nda dünya birincisi oldu
 date: '2026-11-02T13:16:00+03:00'
 ozet: Almanya'nın başkenti Berlin'de düzenlenen uluslararası yarışmada 5. sınıflar kategorisinde yarışan Çağan Tuğra Sözel dünya birinciliği elde etti.
-gorsel: /images/haber-gorsel/20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4-fe59935b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4-fe59935b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ffc198f617b5
+  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
+  fotografci: Haseeb Modi
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sınıf
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sinif-1
+    tarih: '2026-11-13T08:47:31+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -72,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4-fe59935b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 7728
+  - 5152
   dikey: false
   surum: y3
   manset: kaplama
@@ -82,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalyali-ogrenci-einstein-matematik-olimpiyatlarinda-dunya-4-fe59935b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 ---
 Dünyanın farklı ülkelerinden genç yeteneklerin katılımıyla gerçekleştirilen Einstein Matematik Olimpiyatları'nın uluslararası finali Almanya'nın Berlin kentinde tamamlandı. Problem çözme becerileri, bilimsel düşünme ve matematiksel yeteneklerin değerlendirildiği organizasyon, 26 ile 30 Ekim 2026 tarihleri arasında yapıldı. Kırktan fazla ülkenin temsil edildiği dev finalde, 5. sınıflar kategorisinde yarışan Antalyalı öğrenci Çağan Tuğra Sözel büyük bir başarıya imza atarak zirveye yerleşti.
 

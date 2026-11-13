@@ -2,28 +2,40 @@
 title: Alanya'da kaldırımların işgali yayaları ve engellileri tehlikeye atıyor
 date: '2026-11-04T10:49:00+03:00'
 ozet: Alanya merkez ile bazı mahallelerde kaldırımların araçlar tarafından işgal edilmesi ve fiziki engeller, yayalar ile engelli bireylerin ulaşımını zorlaştırıyor.
-gorsel: /images/haber-gorsel/20261104-alanyada-kaldirimlarin-isgali-yayalari-ve-engellileri-tehlik--4f0693c2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Michael Evans / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanyada-kaldirimlarin-isgali-yayalari-ve-engellileri-tehlik--4f0693c2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
   konu_imza: beb337e59b6b
+  kaynak_sayfa: https://unsplash.com/photos/_P-hKe5H_o4
+  fotografci: Michael Evans
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yol çalışması
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yol-calismasi-2' (Yol çalışması) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yol-calismasi-2
+    tarih: '2026-11-13T08:47:23+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-kaldirimlar-isgal-altinda-engell
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-kaldirimlarin-isgali-yayalari-ve-engellileri-tehlik--4f0693c2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanyada-kaldirimlarin-isgali-yayalari-ve-engellileri-tehlik--4f0693c2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da trafik ve otopark tartışmalarının yanı sıra yaya yollarının amacı dışında kullanılması günlük yaşamı olumsuz etkiliyor. Araçların kaldırımlara park edilmesi, engelli rampalarının kapatılması ve fiziki engeller kentte erişilebilir ulaşım sorununu gündeme getiriyor. Oba, Mahmutlar, Cikcilli, Kestel ve merkezdeki yoğun yerleşimlerde bu durumun kapsamlı bir saha araştırmasıyla incelenmesi bekleniyor.
 

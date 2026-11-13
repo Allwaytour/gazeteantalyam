@@ -2,31 +2,42 @@
 title: Alanya'da kaydedilen tırtıl şaşırttı
 date: '2026-11-09T11:11:00+03:00'
 ozet: Alanya'da göz benzeri desenleriyle dikkat çeken ilginç bir tırtıl görüntülendi. Bu desenlerin doğanın bir savunma taktiği olduğu belirtiliyor.
-gorsel: /images/haber-gorsel/20261109-alanyada-kaydedilen-tirtil-sasirtti-ca4d5-ece08054.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1628618346006-32cf51bd5a32?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Lasclay / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
 etiketler: []
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-alanyada-kaydedilen-tirtil-sasirtti-ca4d5-ece08054.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1628618346006-32cf51bd5a32?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c1919e32a904
+  kaynak_sayfa: https://unsplash.com/photos/G5yQFcWzOZg
+  fotografci: Lasclay
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Tırtıl
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'tirtil-2' (Tırtıl) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tirtil-2
+    tarih: '2026-11-13T08:46:50+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +48,8 @@ kaynak_url: https://www.alanyaturk.com/alanyada-kaydedildi-tirtilin-nerede-bulun
 gorsel_yedek: /images/haber-gorsel/20261109-alanyada-kaydedilen-tirtil-sasirtti-ca4d5-ece08054.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4955
+  - 3303
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-alanyada-kaydedilen-tirtil-sasirtti-ca4d5-ece08054.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1628618346006-32cf51bd5a32?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da kaydedilen sıra dışı bir doğa görüntüsü, yaşam döngüsünün şaşırtıcı detaylarını ortaya koydu. Yeşil tonları, tombul vücudu ve baş kısmına yakın yer alan iki büyük mavi gözü andıran desenleriyle dikkat çeken canlının zakkum şahin güvesi olduğu değerlendiriliyor. 
 

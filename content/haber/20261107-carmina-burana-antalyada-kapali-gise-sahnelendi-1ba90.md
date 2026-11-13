@@ -1,9 +1,9 @@
 ---
-title: Carmına Burana Antalya'da Kapalı Gişe Sahnelendi
+title: Carmina Burana Antalya'da Kapalı Gişe Sahnelendi
 date: '2026-11-07T23:08:15+03:00'
 ozet: Antalya Kültür Yolu Festivali kapsamında sahnelenen Carl Orff'un ünlü eseri Carmina Burana, sanatseverlerden yoğun ilgi gördü.
-gorsel: /images/haber-gorsel/20261107-carmina-burana-antalyada-kapali-gise-sahnelendi-1ba90-62772e2c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1465847899084-d164df4dedc6?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Larisa Birta / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -11,22 +11,34 @@ ilceler:
 etiketler:
 - Antalya Devlet Opera ve Balesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-carmina-burana-antalyada-kapali-gise-sahnelendi-1ba90-62772e2c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1465847899084-d164df4dedc6?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 69f9de998ca9
+  kaynak_sayfa: https://unsplash.com/photos/slbOcNlWNHA
+  fotografci: Larisa Birta
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Orkestra
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'klasik-muzik' (Orkestra) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: klasik-muzik
+    tarih: '2026-11-13T08:46:59+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (4/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,11 +49,11 @@ kaynak_url: https://www.sondakika.com/kultur-sanat/haber-antalya-devlet-opera-ve
 gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
-gorsel_yedek: /images/haber-gorsel/20261107-carmina-burana-antalyada-kapali-gise-sahnelendi-1ba90-62772e2c.jpg
+gorsel_yedek: /images/haber-gorsel/20261107-carmina-burana-antalyada-kapali-gise-sahnelendi-1ba90-e7f1634d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 7360
+  - 4912
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +62,18 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-carmina-burana-antalyada-kapali-gise-sahnelendi-1ba90-62772e2c.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1465847899084-d164df4dedc6?fm=jpg&q=80&w=1600&fit=max
+baslik_ozgun: Carmına Burana Antalya'da Kapalı Gişe Sahnelendi
+gorsel_gecmis: []
 ---
 Antalya Devlet Opera ve Balesi, Antalya Kültür Yolu Festivali'nin kapanış etkinlikleri çerçevesinde sahneye taşıdığı Carmina Burana ile unutulmaz bir geceye imza attı. Haşim İşcan Kültür Merkezi Opera Sahnesi'nde gerçekleşen temsil, sanatseverlerin yoğun ilgisiyle karşılaştı ve kapalı gişe olarak sahnelendi.
 

@@ -2,8 +2,8 @@
 title: Growtech 2026 Antalya'da Kapılarını Açmaya Hazırlanıyor
 date: '2026-11-06T15:47:38+03:00'
 ozet: Dünyanın önde gelen örtü altı tarım fuarlarından Growtech, 25'inci kez sektör temsilcilerini Antalya'da buluşturacak.
-gorsel: /images/haber-gorsel/20261106-growtech-2026-antalyada-kapilarini-acmaya-hazirlaniyor-e0fd2-b75321f3.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Euronewsweek Media / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -13,22 +13,34 @@ etiketler:
 - Growtech
 - ANFAŞ Fuar Merkezi
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-growtech-2026-antalyada-kapilarini-acmaya-hazirlaniyor-e0fd2-b75321f3.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 4d6f5e206013
+  kaynak_sayfa: https://unsplash.com/photos/KVvEpFVq_-U
+  fotografci: Euronewsweek Media
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Fuar
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'fuar' (Fuar) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: fuar
+    tarih: '2026-11-13T08:47:04+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan hiçbiri görünmüyor: tarım fuarı standları, fuar alanı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,8 +54,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261106-growtech-2026-antalyada-kapilarini-acmaya-hazirlaniyor-e0fd2-b75321f3.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +64,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-growtech-2026-antalyada-kapilarini-acmaya-hazirlaniyor-e0fd2-b75321f3.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Uluslararası tarım sektörünün önemli buluşmalarından biri olan Growtech 2026, bu yıl çeyrek asırlık geçmişiyle kapılarını aralamaya hazırlanıyor. Küresel ölçekte sektörün gelişimine ve yeni iş birliklerine zemin hazırlayan organizasyon, 24 Kasım tarihinde ANFAŞ Fuar Merkezi'nde ziyaretçilerini ağırlamaya başlayacak.
 

@@ -2,8 +2,8 @@
 title: Antalya'da Yedi Yıl Bekleyen Çiftçi Organ Nakliyle İyileşti
 date: '2026-11-09T10:51:13+03:00'
 ozet: Antalya'da böbrek yetmezliği nedeniyle yedi yıl diyaliz tedavisi gören çiftçi, kadavradan yapılan başarılı nakille sağlığına yeniden kavuştu.
-gorsel: /images/haber-gorsel/20261109-antalyada-yedi-yil-bekleyen-ciftci-organ-nakliyle-iyilesti-c1-2b14732e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+gorsel_kredi: 'Fotoğraf: Tyler Frew MD / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Sağlık
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Antalya Eğitim ve Araştırma Hastanesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-antalyada-yedi-yil-bekleyen-ciftci-organ-nakliyle-iyilesti-c1-2b14732e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
   konu_imza: 8acb093efd52
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+  fotografci: Tyler Frew MD
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Ameliyat
+  cekim_yili: '2026'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ameliyat-1' (Ameliyat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ameliyat-1
+    tarih: '2026-11-13T08:46:48+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-7-yil-bekleyen-ci
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-yedi-yil-bekleyen-ciftci-organ-nakliyle-iyilesti-c1-2b14732e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6929
+  - 4619
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-antalyada-yedi-yil-bekleyen-ciftci-organ-nakliyle-iyilesti-c1-2b14732e.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+gorsel_gecmis: []
 ---
 Antalya'da yaşayan elli yaşındaki çiftçi Beyazıt Tuğlu, iki bin on altı yılında yaşadığı sağlık sorunları nedeniyle hastaneye başvurdu. Yapılan tetkiklerin ardından kronik böbrek yetmezliği teşhisi konulan Tuğlu, haftanın belirli günlerinde diyaliz tedavisi görmeye başladı. Yaşadığı ağır halsizlik nedeniyle mesleğini yapamaz hale gelen hasta, Antalya Eğitim ve Araştırma Hastanesi'ne başvurarak organ nakli listesine dahil oldu.
 

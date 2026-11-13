@@ -3,7 +3,7 @@ title: İyi Parti Antalya İl Başkanlığından SONAR araştırması açıklama
 date: '2026-11-07T11:52:00+03:00'
 ozet: SONAR Araştırma'nın ekim ayı sonuçlarına göre yüzde 10,91 oy oranına ulaşan İyi Parti, üçüncü sırada yer aldı. İl başkanlığı, çalışmaların kararlılıkla süreceğini belirtti.
 gorsel: /images/haber-gorsel/logo-iyiparti-logo.jpg
-gorsel_kredi: 'Logo: İYİ Parti / Wikimedia Commons (Public domain)'
+gorsel_kredi: 'Görsel: İYİ Parti / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -28,22 +28,20 @@ gorsel_secim:
   gosterilen: İYİ Parti logosu
   cekim_yili: '2018'
   aciklama: İYİ Parti logosu
-  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-09T13:27:02+03:00'
+    tarih: '2026-11-13T08:46:59+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): 2023 İzmir''deki başka bir parti etkinliğinin salonu; Antalya il başkanlığının açıklaması değil'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

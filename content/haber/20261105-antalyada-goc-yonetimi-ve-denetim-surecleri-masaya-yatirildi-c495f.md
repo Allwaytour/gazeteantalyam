@@ -2,28 +2,39 @@
 title: Antalya'da Göç Yönetimi ve Denetim Süreçleri Masaya Yatırıldı
 date: '2026-11-05T17:19:30+03:00'
 ozet: Antalya'da düzenlenen dört günlük toplantıda göç yönetimi stratejileri, denetim mekanizmaları ve insan hakları odaklı uygulamalar ele alındı.
-gorsel: /images/haber-gorsel/20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi--badd170f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Benjamin Child / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi--badd170f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ac3b98004bc2
+  kaynak_sayfa: https://unsplash.com/photos/GWe0dlVD9e0
+  fotografci: Benjamin Child
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Toplantı salonu
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'toplanti-1' (Toplantı salonu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: toplanti-1
+    tarih: '2026-11-13T08:47:13+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönet'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Halil Avşar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Öz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Göç yönetimi toplantısı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,8 +54,8 @@ baslik_ozgun: ANTALYA'DA GÖÇ YÖNETİMİ VE DENETİM SÜREÇLERİ MASAYA YATIR
 gorsel_yedek: /images/haber-gorsel/20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi--badd170f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-antalyada-goc-yonetimi-ve-denetim-surecleri-masaya-yatirildi--badd170f.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen ve dört gün süren kapsamlı bir eğitim ve değerlendirme toplantısında göç yönetimi alanındaki stratejik hedefler masaya yatırıldı. Toplantının açılış konuşmalarını Antalya Vali Yardımcısı Halil Avşar ile Rehberlik ve Denetim Başkanı Zafer Öz yaptı. Etkinliğe Mülkiye Teftiş Kurulu Başkan Yardımcıları, Mülkiye Başmüfettişleri, Göç İdaresi Başkanlığı birim amirleri ve denetim personeli katılım sağladı.
 

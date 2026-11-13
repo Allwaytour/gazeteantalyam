@@ -2,29 +2,40 @@
 title: Manavgat esnafı için Nefes Kredisi istişaresi yapıldı
 date: '2026-11-04T13:42:44+03:00'
 ozet: Manavgat Ticaret ve Sanayi Odası, üyelerin finansmana erişimini kolaylaştırmak amacıyla banka şube müdürleriyle bir araya geldi.
-gorsel: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Manavgat
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
   konu_imza: aff927d7a6a9
+  kaynak_sayfa: https://unsplash.com/photos/TD9ZL6i81R4
+  fotografci: Nedret Binici
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk lirası
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'para' (Türk lirası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: para
+    tarih: '2026-11-13T08:47:16+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' içi'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Önem Gök'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Ticaret ve Sanayi Odası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Manavgat'' için konuyla (meeting room, business meeting, bankers) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,8 +53,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3080
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-manavgat-esnafi-icin-nefes-kredisi-istisaresi-yapildi-be317-77538cf1.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın Manavgat ilçesinde, yükselen işletme maliyetleri karşısında yerel ekonomiyi desteklemek üzere bir finans toplantısı gerçekleştirildi. Manavgat Ticaret ve Sanayi Odası oda hizmet binasında düzenlenen istişare buluşmasında, TOBB Nefes Kredisi çerçevesinde kaynak sağlayacak bankaların ilçe merkezindeki şube müdürleri bir araya geldi. Oda yönetim kurulu üyelerinin de katıldığı oturumda, işletmelerin finansmana ulaşımını kolaylaştıracak başvuru adımları ve pratik çözümler masaya yatırıldı.
 

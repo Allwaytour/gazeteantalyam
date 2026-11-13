@@ -30,22 +30,20 @@ gorsel_secim:
   gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
   cekim_yili: '2016'
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T13:27:21+03:00'
+    tarih: '2026-11-13T08:47:42+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1535689077097-a8726b5ff822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW5lcmd5JTIwZWZmaWNpZW50JTIwZ3JlZW4lMjBidWlsZGluZ3N8ZW58MXwwfHx8MTc5MzQ4NDk5NXww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: CHUTTERSNAP / Unsplash'

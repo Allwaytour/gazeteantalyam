@@ -2,8 +2,8 @@
 title: Alanya'da evinde yaralanan genç kız hastaneye kaldırıldı
 date: '2026-11-06T13:30:00+03:00'
 ozet: Alanya'da kendisine zarar vererek yaralanan 18 yaşındaki genç kız, ailesinin ihbarıyla hastaneye kaldırıldı.
-gorsel: /images/haber-gorsel/20261106-alanyada-evinde-yaralanan-genc-kiz-hastaneye-kaldirildi-b3e25-24d608d2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+gorsel_kredi: 'Fotoğraf: Dickelbers / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - 112 Acil Çağrı Merkezi
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyada-evinde-yaralanan-genc-kiz-hastaneye-kaldirildi-b3e25-24d608d2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
   konu_imza: d2d10c2a670e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_ambulance_01.JPG
+  fotografci: Dickelbers
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: 112 Acil ambulansı
+  cekim_yili: '2012'
+  aciklama: 112 Acil ambulansı — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ambulans-2' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ambulans-2
+    tarih: '2026-11-13T08:47:10+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''yaralanma olayı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Alanya'' için konuyla (ambulance) ilişkili lisanslı fotoğraf bulunamadı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''yaralanma olayı'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Alanya'' için konuyla (ambulance) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-18-yasindaki-genc-kiz-hastaneye-
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-evinde-yaralanan-genc-kiz-hastaneye-kaldirildi-b3e25-24d608d2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3870
+  - 2644
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyada-evinde-yaralanan-genc-kiz-hastaneye-kaldirildi-b3e25-24d608d2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+gorsel_gecmis: []
 ---
 Alanya'nın Konaklı Mahallesi'nde yaşanan olayda, 18 yaşındaki M.A. evinde bulunduğu sırada henüz belirlenemeyen bir nedenle kendisine zarar verdi. Durumu fark eden aile bireyleri, vakit kaybetmeden 112 Acil Çağrı Merkezi'ne ihbarda bulundu.
 

@@ -2,28 +2,40 @@
 title: Kumluca Ağız ve Diş Sağlığı Merkezi yeni binasında hizmet vermeye başladı
 date: '2026-11-02T12:35:53+03:00'
 ozet: Kumluca Devlet Hastanesi bünyesinde hayırseverlerin desteğiyle yenilenen alana taşınan Ağız ve Diş Sağlığı Merkezi'nin poliklinik kapasitesi artırıldı.
-gorsel: /images/haber-gorsel/20261102-kumluca-agiz-ve-dis-sagligi-merkezi-yeni-binasinda-hizmet-ve--0365c3c1.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1598256989800-fe5f95da9787?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Atikah Akhtar / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
 - Kumluca
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-kumluca-agiz-ve-dis-sagligi-merkezi-yeni-binasinda-hizmet-ve--0365c3c1.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1598256989800-fe5f95da9787?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 0d7ea058a14d
+  kaynak_sayfa: https://unsplash.com/photos/XJptUS8nbhs
+  fotografci: Atikah Akhtar
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Diş kliniği
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'dis' (Diş kliniği) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: dis
+    tarih: '2026-11-13T08:47:30+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Bahadır Güneş'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +49,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-kumluca-agiz-ve-dis-sagligi-merkezi-yeni-binasinda-hizmet-ve--0365c3c1.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5568
+  - 3712
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-kumluca-agiz-ve-dis-sagligi-merkezi-yeni-binasinda-hizmet-ve--0365c3c1.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1598256989800-fe5f95da9787?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Kumluca Devlet Hastanesi bünyesinde daha önce ameliyathane ve yoğun bakım ünitesi olarak değerlendirilen alan, gerçekleştirilen kapsamlı düzenlemelerin ardından Ağız ve Diş Sağlığı Merkezi’ne dönüştürüldü. Yaklaşık 60 hayırseverin katkılarıyla modern bir görünüme kavuşturulan yeni yerleşke, hasta kabulüne başladı. Çalışmaların tamamlanmasının ardından Kumluca Kaymakamı Bahadır Güneş, Belediye Başkanı Mesut Avcıoğlu ve AK Parti İlçe Başkanı Bekir Paslıkılıç yeni merkezi ziyaret ederek incelemelerde bulundu.
 

@@ -2,29 +2,40 @@
 title: 'Sururi Çorabatır''dan ekonomi eleştirisi: 2027 bütçesini sordu'
 date: '2026-11-04T21:28:00+03:00'
 ozet: CHP Antalya Milletvekili Sururi Çorabatır, TBMM Plan ve Bütçe Komisyonu’nda artan maliyetler ve karşılıksız çek sorununa dikkati çekti.
-gorsel: /images/haber-gorsel/20261104-sururi-corabatirdan-ekonomi-elestirisi-2027-butcesini-sordu-4-e69084d1.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-sururi-corabatirdan-ekonomi-elestirisi-2027-butcesini-sordu-4-e69084d1.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
   konu_imza: fec2b8dcad5a
+  kaynak_sayfa: https://unsplash.com/photos/TD9ZL6i81R4
+  fotografci: Nedret Binici
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk lirası
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'para' (Türk lirası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: para
+    tarih: '2026-11-13T08:47:15+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: mikrofon/kürsü gibi genel dolgu görseli; mikrofon/kürsü gibi genel dolgu görseli; açıklama/toplantı eyleminin genel karesi (mikrofon, kürsü gibi dolgu görsel)
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -176,8 +187,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-sururi-corabatirdan-ekonomi-elestirisi-2027-butcesini-sordu-4-e69084d1.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3080
   dikey: false
   surum: y3
   manset: kaplama
@@ -186,14 +197,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-sururi-corabatirdan-ekonomi-elestirisi-2027-butcesini-sordu-4-e69084d1.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Cumhuriyet Halk Partisi (CHP) Antalya Milletvekili Sururi Çorabatır, Türkiye Büyük Millet Meclisi (TBMM) Plan ve Bütçe Komisyonu’nda ekonomiye dair değerlendirmelerde bulundu. İhracat rakamlarında rekor artışlardan söz edilmesine rağmen bu tablonun ülke refahına aynı ölçüde yansımadığını belirten Çorabatır, sanayici, üretici, esnaf ve vatandaşın yaşadığı ekonomik zorlukların ele alınması gerektiğini ifade etti.
 

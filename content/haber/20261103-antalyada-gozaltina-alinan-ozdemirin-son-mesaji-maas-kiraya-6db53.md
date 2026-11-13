@@ -2,28 +2,40 @@
 title: 'Antalya''da Gözaltına Alınan Özdemir''in Son Mesajı: Maaş Kiraya Yetmiyor'
 date: '2026-11-03T11:53:00+03:00'
 ozet: Antalya'da düzenlenen bir operasyonla gözaltına alınan Tüm Emeklilerin Sendikası yöneticisi Mehmet Şerif Özdemir'in emniyete götürülmeden önceki sosyal medya paylaşımı ortaya çıktı.
-gorsel: /images/haber-gorsel/20261103-antalyada-gozaltina-alinan-ozdemirin-son-mesaji-maas-kiraya-6-2307dc6b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jacob McGowin / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyada-gozaltina-alinan-ozdemirin-son-mesaji-maas-kiraya-6-2307dc6b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 24b3e99f5f39
+  kaynak_sayfa: https://unsplash.com/photos/b8RvR4kAG1c
+  fotografci: Jacob McGowin
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Polis
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'polis-3' (Polis) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: polis-3
+    tarih: '2026-11-13T08:47:27+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Mehmet Şerif Özdemir'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (police station, police officers, hand'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-gozaltina-alinan-
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-gozaltina-alinan-ozdemirin-son-mesaji-maas-kiraya-6-2307dc6b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyada-gozaltina-alinan-ozdemirin-son-mesaji-maas-kiraya-6-2307dc6b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da sabah saatlerinde gerçekleştirilen operasyon kapsamında gözaltına alınan İnsan Hakları Derneği ve Tüm Emeklilerin Sendikası Antalya Şubesi Yönetim Kurulu Üyesi Mehmet Şerif Özdemir, emniyete götürülmeden kısa süre önce sosyal medya hesabı üzerinden bir paylaşım yaptı.
 

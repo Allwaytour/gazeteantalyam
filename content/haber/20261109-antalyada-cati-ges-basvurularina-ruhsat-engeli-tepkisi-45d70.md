@@ -2,8 +2,8 @@
 title: Antalya'da çatı GES başvurularına ruhsat engeli tepkisi
 date: '2026-11-09T11:45:00+03:00'
 ozet: Elektrik faturalarını düşürmek amacıyla çatısına güneş paneli kurmak isteyen vatandaşlar, yapının imar veya ruhsat durumu nedeniyle engellerle karşılaşıyor.
-gorsel: /images/haber-gorsel/20261109-antalyada-cati-ges-basvurularina-ruhsat-engeli-tepkisi-45d70-15b34fcf.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
+gorsel_kredi: 'Fotoğraf: Bastique / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -11,23 +11,34 @@ etiketler:
 - Şaban Tat
 - Elektrik Mühendisleri Odası Antalya Şubesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-antalyada-cati-ges-basvurularina-ruhsat-engeli-tepkisi-45d70-15b34fcf.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
   konu_imza: 1a3e461383cd
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Solar_Panels_on_Church_Roof_full.jpg
+  fotografci: Bastique
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Güneş paneli
+  cekim_yili: '2024'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ges-1' (Güneş paneli) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ges-1
+    tarih: '2026-11-13T08:46:49+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/gunese-de-ruhsat-engeli
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-cati-ges-basvurularina-ruhsat-engeli-tepkisi-45d70-15b34fcf.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4492
+  - 2995
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-antalyada-cati-ges-basvurularina-ruhsat-engeli-tepkisi-45d70-15b34fcf.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
+gorsel_gecmis: []
 ---
 Yüksek elektrik faturalarını hafifletmek isteyen pek çok vatandaş, konutlarının çatısına güneş enerjisi sistemleri kurarak kendi enerjisini üretmeyi hedefliyor. Ancak özellikle kırsal kesimlerde, mevcut elektrik aboneliği bulunan ve borcunu düzenli ödeyen mülk sahipleri, binalarının imar ya da ruhsat durumu gerekçe gösterilerek resmi izin sürecinde sıkıntılar yaşıyor. Konuyla ilgili değerlendirmelerde bulunan Elektrik Mühendisleri Odası Antalya Şube Başkanı Şaban Tat, mevcut durumu bir uygulama çelişkisi olarak nitelendirdi.
 

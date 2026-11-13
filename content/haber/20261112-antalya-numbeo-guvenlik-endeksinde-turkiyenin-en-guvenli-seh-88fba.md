@@ -2,30 +2,41 @@
 title: Antalya, Numbeo Güvenlik Endeksi'nde Türkiye'nin En Güvenli Şehri Oldu
 date: '2026-11-12T08:45:00+03:00'
 ozet: Numbeo'nun yayımladığı güncel güvenlik endeksi verilerine göre Antalya, Türkiye'de listelenen şehirler arasında zirvede yer aldı.
-gorsel: /images/haber-gorsel/20261112-antalya-numbeo-guvenlik-endeksinde-turkiyenin-en-guvenli-seh--ed6ec8c2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler: []
 etiketler: []
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261112-antalya-numbeo-guvenlik-endeksinde-turkiyenin-en-guvenli-seh--ed6ec8c2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
   konu_imza: d7c72aa9fe95
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
+  fotografci: Dosseman
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya
+  cekim_yili: '2011'
+  aciklama: Antalya — Arşiv fotoğrafı (2011)
+  gerekce: 'arşiv kaydı ''ilce-muratpasa-2'' (Antalya) yerel haber: ilçenin kendi fotoğrafı'
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-muratpasa-2
+    tarih: '2026-11-13T08:46:24+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +47,8 @@ kaynak_url: https://n24.com.tr/yasam/turkiyenin-en-guvenli-sehirleri-aciklandi-a
 gorsel_yedek: /images/haber-gorsel/20261112-antalya-numbeo-guvenlik-endeksinde-turkiyenin-en-guvenli-seh--ed6ec8c2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4256
+  - 2832
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261112-antalya-numbeo-guvenlik-endeksinde-turkiyenin-en-guvenli-seh--ed6ec8c2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
+gorsel_gecmis: []
 ---
 Güncel güvenlik endeksi verileri, Türkiye'de değerlendirmeye alınan şehirler arasındaki puan sıralamasını gözler önüne serdi. Yapılan son değerlendirmelere göre Antalya, 71,2 puanla listenin ilk sırasına adını yazdırdı. Kent bu sonuçla, sıralamada yer alan diğer büyük şehirleri geride bırakmayı başardı.
 

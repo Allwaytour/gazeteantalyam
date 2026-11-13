@@ -2,7 +2,7 @@
 title: Antalya'daki COP31 İklim Konferansı'nın Kadın Elçisi Ercan Oldu
 date: '2026-10-31T22:39:43+03:00'
 ozet: AK Parti Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, Antalya'da yapılacak COP31'in Kadın Elçisi görevine getirildi.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
@@ -20,31 +20,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
   konu_imza: 847a642d54c3
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
   fotografci: Hendric Stattmann
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
+  gosterilen: EXPO 2016 Antalya alanı
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
-  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot ile eşleşti
+  aciklama: COP31'in yapıldığı EXPO 2016 Antalya alanı — Arşiv fotoğrafı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-4' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-2
-    tarih: '2026-11-09T13:27:20+03:00'
+    arsiv_id: cop31-expo-4
+    tarih: '2026-11-13T08:47:42+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1715610258704-e8f9f5710fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMGNvbmZlcmVuY2UlMjB3b21hbiUyMHNwZWFrZXJ8ZW58MXwwfHx8MTc5MzQ4NDk5M3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Dámaris Azócar / Unsplash'
@@ -55,24 +53,26 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-antalyadaki-cop31-iklim-konferansinin-kadin-elcisi-ercan-old--9c877779.jpg
 gorsel_yerlesim:
   boyut:
-  - 2927
-  - 4390
-  dikey: true
+  - 5200
+  - 3468
+  dikey: false
   surum: y3
   manset: kaplama
-  yan: false
+  yan: true
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: true
-  o_manset_d: 50% 63%
-  o_manset_m: 50% 70%
-  o_mansetyan_d: 0% 50%
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
   o_mansetyan_m: 50% 50%
-  o_yan_t: 50% 73%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 ---
 Türkiye'nin ev sahipliğinde 9-20 Kasım tarihlerinde Antalya'da gerçekleştirilmesi planlanan Birleşmiş Milletler İklim Konferansı COP31 için önemli bir görevlendirme yapıldı. Ak Parti Genel Merkez Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, konferansın Kadın Elçisi olarak atandı.
 

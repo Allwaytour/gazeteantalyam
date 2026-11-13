@@ -2,8 +2,8 @@
 title: Antalya'da deniz suyu hava sıcaklığını geçti
 date: '2026-11-11T13:07:24+03:00'
 ozet: Kasım ayında soğuk havanın etkisini göstermeye başladığı Antalya'da, deniz suyu sıcaklığı hava sıcaklığını geride bıraktı.
-gorsel: /images/haber-gorsel/20261111-antalyada-deniz-suyu-hava-sicakligini-gecti-a2bdc-ef583fd9.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Eilis Garvey / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Meteoroloji Bölge Müdürlüğü
 - Gençlik ve Spor Bakanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-antalyada-deniz-suyu-hava-sicakligini-gecti-a2bdc-ef583fd9.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
   konu_imza: a260a0a2600c
+  kaynak_sayfa: https://unsplash.com/photos/c9SDxIjXH4I
+  fotografci: Eilis Garvey
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sıcak hava
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sicak' (Sıcak hava) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sicak
+    tarih: '2026-11-13T08:46:34+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.gezelim.com/denize-giren-isiniyor-antalyada-deniz-suyu-s
 gorsel_yedek: /images/haber-gorsel/20261111-antalyada-deniz-suyu-hava-sicakligini-gecti-a2bdc-ef583fd9.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-antalyada-deniz-suyu-hava-sicakligini-gecti-a2bdc-ef583fd9.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Türkiye genelinde kış mevsimi etkisini hissettirirken, Antalya'da yaşanan sıcaklık dengesizliği dikkat çekti. Meteoroloji Bölge Müdürlüğü'nün uyarılarının ardından kent genelinde soğuk hava etkili olurken, hava sıcaklığı yaklaşık 8 derece birden düştü. Kent merkezinde yapılan ölçümlerde hava sıcaklığı 15 derece olarak kayıtlara geçti.
 

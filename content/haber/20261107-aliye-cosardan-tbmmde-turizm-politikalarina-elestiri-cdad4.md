@@ -2,8 +2,8 @@
 title: Aliye Coşar'dan TBMM'de turizm politikalarına eleştiri
 date: '2026-11-07T18:21:00+03:00'
 ozet: Yeni Parti Antalya Milletvekili Aliye Coşar, TBMM Plan ve Bütçe Komisyonu'nda yaptığı konuşmada turizm politikalarını eleştirdi.
-gorsel: /images/haber-gorsel/20261107-aliye-cosardan-tbmmde-turizm-politikalarina-elestiri-cdad4-1b581cd0.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Turizm
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - TBMM
 - Kültür ve Turizm Bakanlığı
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-aliye-cosardan-tbmmde-turizm-politikalarina-elestiri-cdad4-1b581cd0.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 7c0a86d4145c
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2022'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'tbmm-1' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-1
+    tarih: '2026-11-13T08:47:01+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: mikrofon/kürsü gibi genel dolgu görseli
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -164,8 +175,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261107-aliye-cosardan-tbmmde-turizm-politikalarina-elestiri-cdad4-1b581cd0.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -174,14 +185,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-aliye-cosardan-tbmmde-turizm-politikalarina-elestiri-cdad4-1b581cd0.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Yeni Parti Antalya Milletvekili Aliye Coşar, TBMM Plan ve Bütçe Komisyonu'nda görüşülen Kültür ve Turizm Bakanlığı bütçesinde turizm sektörünün yaşadığı sorunları dile getirdi. Küçük ve orta ölçekli otellerin kapanma noktasına geldiğini belirten Coşar, Antalya'nın turizm gelirlerinden yeterince yararlanamadığını ve altyapı yatırımlarının yetersiz kaldığını söyledi.
 

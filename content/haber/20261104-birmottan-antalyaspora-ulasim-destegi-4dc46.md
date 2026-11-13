@@ -22,29 +22,20 @@ gorsel_secim:
   gosterilen: Antalya Stadyumu
   cekim_yili: '2015'
   aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-cd9201
-    tarih: '2026-11-09T13:27:12+03:00'
+    tarih: '2026-11-13T08:47:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Taylan Filiz'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya Stadyumu'' (Antalyaspor stadı) haberin ana takımına ait değil ve olay yeri olarak geçmiyor; kullanılmadı; ''Birmot'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (sponsorship signing, football club logo, automotive company logo) ilişkili lisanslı fotoğraf bulunamadı; mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı; ilk adaylar elendi; 2. turda 1 aday daha denendi; görsel kontrol yapılamadı: bağlantı: HTTPSConnectionPool(host=''generativel'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Official_Airlines_of_the_Mexican_National_Team_(34406173926).jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Official_Airlines_of_the_Mexican_National_Team_(34288069982).jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

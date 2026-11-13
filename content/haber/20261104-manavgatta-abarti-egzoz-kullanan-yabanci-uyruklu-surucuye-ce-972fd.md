@@ -2,36 +2,40 @@
 title: Manavgat'ta Abartı Egzoz Kullanan Yabancı Uyruklu Sürücüye Ceza
 date: '2026-11-04T11:44:32+03:00'
 ozet: Manavgat'ta abartı egzoz sesiyle çevreyi rahatsız eden yabancı plakalı lüks cipi durduran polis, sürücüye ceza kesti. Aracın trafikten men edilmesinin ardından sürücü, eşyalarını bırakarak olay yerinden ayrıldı.
-gorsel: /images/haber-gorsel/20261104-manavgatta-abarti-egzoz-kullanan-yabanci-uyruklu-surucuye-ce--2efce0c9.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Anshul Gurjar / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
 - Manavgat
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-manavgatta-abarti-egzoz-kullanan-yabanci-uyruklu-surucuye-ce--2efce0c9.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
   konu_imza: a9d5539fda1c
+  kaynak_sayfa: https://unsplash.com/photos/traffic-police-officer-sitting-on-a-motorcycle-H8ib5QdhTGM
+  fotografci: Anshul Gurjar
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Trafik denetimi
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'trafik-denetim' (Trafik denetimi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: trafik-denetim
+    tarih: '2026-11-13T08:47:16+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Manavgat'' için konuyla (traffic police, luxury car, roadside inspection) ilişkili lisanslı fotoğraf bulunamadı; ''trafik cezası'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: car inspection Turkey, traffic police stopping car)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Modified_car_exhaust_at_4th_International_Auto_Show,_Bangalore_(2025).jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://unsplash.com/photos/dark-blue-modified-cars-rear-with-a-prominent-exhaust-pipe-_MkyctFucdw
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -47,8 +51,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-manavgatta-abarti-egzoz-kullanan-yabanci-uyruklu-surucuye-ce--2efce0c9.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3001
+  - 1876
   dikey: false
   surum: y3
   manset: kaplama
@@ -57,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-manavgatta-abarti-egzoz-kullanan-yabanci-uyruklu-surucuye-ce--2efce0c9.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_gecmis: []
 ---
 Antalya'nın Manavgat ilçesinde gerçekleştirilen rutin trafik denetimleri sırasında, güvenlik güçleri ilçe merkezinde yüksek hız yapan ve abartılı egzoz sesi çıkaran bir aracı takibe aldı. Antalya Caddesi üzerinde başlayan takip, yapay şelale mevkiinde aracın durdurulmasıyla sonuçlandı.
 

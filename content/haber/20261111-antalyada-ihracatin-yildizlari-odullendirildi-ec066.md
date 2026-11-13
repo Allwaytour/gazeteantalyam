@@ -2,8 +2,8 @@
 title: Antalya'da İhracatın Yıldızları Ödüllendirildi
 date: '2026-11-11T19:31:44+03:00'
 ozet: Batı Akdeniz İhracatçılar Birliği tarafından düzenlenen törende bölge ekonomisine katkı sağlayan başarılı firmalara ödülleri verildi.
-gorsel: /images/haber-gorsel/20261111-antalyada-ihracatin-yildizlari-odullendirildi-ec066-3f354727.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Ali Mkumbwa / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - Batı Akdeniz İhracatçılar Birliği
 - Ticaret Bakanlığı
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-antalyada-ihracatin-yildizlari-odullendirildi-ec066-3f354727.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 82e7d4d8ef36
+  kaynak_sayfa: https://unsplash.com/photos/Annl9CjEaEs
+  fotografci: Ali Mkumbwa
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İhracat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ihracat-2' (İhracat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ihracat-2
+    tarih: '2026-11-13T08:46:28+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,8 +52,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-bai
 gorsel_yedek: /images/haber-gorsel/20261111-antalyada-ihracatin-yildizlari-odullendirildi-ec066-3f354727.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5464
+  - 3640
   dikey: false
   surum: y3
   manset: kaplama
@@ -51,14 +62,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-antalyada-ihracatin-yildizlari-odullendirildi-ec066-3f354727.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Batı Akdeniz İhracatçılar Birliği tarafından Kepez ilçesindeki Mimar Sinan Kongre Merkezi'nde düzenlenen BAİB İhracatın Yıldızları Ödül Töreni, bölgenin üretim ve ticaret alanındaki başarılı isimlerini bir araya getirdi. Programda Antalya, Burdur ve Isparta illerinde faaliyet gösteren ve ihracata katkı sunan firmaların çalışmaları ele alındı.
 

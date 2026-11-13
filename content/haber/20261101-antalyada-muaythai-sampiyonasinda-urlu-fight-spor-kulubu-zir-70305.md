@@ -2,25 +2,40 @@
 title: Antalya'da Muaythai Şampiyonası'nda Urlu Fight Spor Kulübü zirvede
 date: '2026-11-01T21:06:00+03:00'
 ozet: Cumhuriyet Kupası'nda mücadele eden Urlu Fight Spor Kulübü sporcuları, toplam 28 madalya kazanarak takım halinde şampiyonluğa ulaştı.
-gorsel: /images/haber-gorsel/20261101-antalyada-muaythai-sampiyonasinda-urlu-fight-spor-kulubu-zir--7d9e996d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nguyen Hung / Unsplash'
 kategoriler:
 - Spor
 ilceler:
 - Kepez
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-muaythai-sampiyonasinda-urlu-fight-spor-kulubu-zir--7d9e996d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 6c909726cbef
+  kaynak_sayfa: https://unsplash.com/photos/FktPF6cwIWo
+  fotografci: Nguyen Hung
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Dövüş sporları
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'dovus' (Dövüş sporları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: dovus
+    tarih: '2026-11-13T08:47:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -31,8 +46,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/urlu-fight-spor-kulubunden-28-madal
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-muaythai-sampiyonasinda-urlu-fight-spor-kulubu-zir--7d9e996d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5649
+  - 3766
   dikey: false
   surum: y3
   manset: kaplama
@@ -41,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-muaythai-sampiyonasinda-urlu-fight-spor-kulubu-zir--7d9e996d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Cumhuriyet'in kuruluşunun 103'üncü yıl dönümü dolayısıyla Antalya'da organize edilen 29 Ekim Cumhuriyet Kupası İller Arası Muaythai Şampiyonası tamamlandı. Kepez Turgut Özal Kapalı Spor Salonu'nda gerçekleştirilen ve 26 ilden 750'den fazla sporcunun başvurduğu turnuvada, minikler, yıldızlar, gençler, U24 ve elit büyükler kategorilerinde heyecan yaşandı.
 

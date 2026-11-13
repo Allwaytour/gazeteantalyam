@@ -1,28 +1,40 @@
 ---
-title: Antalya'da yapilacak iklim konferansinda kente ozel girisim dikkat cekti
+title: Antalya'da Yapılacak İklim Konferansında Kente Özel Girişim Dikkat Çekti
 date: '2026-11-04T10:49:34+03:00'
-ozet: Birlesmis Milletler iklim konferansinda Antalya'nin adini tasiyan ozel bir girisim yer alacak.
-gorsel: /images/haber-gorsel/20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d--f5c6e511.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+ozet: Birleşmiş Milletler iklim konferansında Antalya'nın adını taşıyan özel bir girişim yer alacak.
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ce/Antalya_falezler.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Photographer1 / Wikimedia Commons (CC BY 2.5)'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d--f5c6e511.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Antalya_falezler.jpg
   konu_imza: fdfbf3eed161
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_falezler.jpg
+  fotografci: Photographer1
+  lisans: CC BY 2.5
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.5
+  gosterilen: Antalya
+  cekim_yili: '2007'
+  aciklama: Antalya — Arşiv fotoğrafı (2007)
+  gerekce: 'arşiv kaydı ''ilce-muratpasa-4'' (Antalya) yerel haber: ilçenin kendi fotoğrafı'
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-muratpasa-4
+    tarih: '2026-11-13T08:47:18+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: lisans_uygun_degil
-      aciklama: 3 dosyanın lisansı doğrulanamadı (ör. File:Ongoing wildfires in the Antalya region of Republic of Türkiye (Copernicus))
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -30,11 +42,11 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/bmnin-iklim-konferansinda-antalya-adini-tasiyan-girisim-dikkat-cekti/560885
-gorsel_yedek: /images/haber-gorsel/20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d--f5c6e511.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d--af0afd90.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2608
+  - 1952
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,19 +55,28 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d--f5c6e511.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Antalya_falezler.jpg
+baslik_onceki: Antalya'da yapilacak iklim konferansinda kente ozel girisim dikkat cekti
+metin_onarim:
+  tarih: '2026-11-13T08:44:49+03:00'
+  kaynak: https://www.antalyahurses.com/bmnin-iklim-konferansinda-antalya-adini-tasiyan-girisim-dikkat-cekti/560885
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: ''
+gorsel_gecmis: []
 ---
-Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31'inci Taraflar Konferansi, 9 ile 20 Kasim tarihleri arasinda Antalya'da duzenlenecek. Zirvenin baslangic gunu gida, tarim ve saglik basliklarina ayrilirken, Mavi Bolge programinda kent adini tasiyan ozel bir etkinlik de bulunuyor.
+Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı, 9 ile 20 Kasım tarihleri arasında Antalya'da düzenlenecek. Zirvenin başlangıç günü gıda, tarım ve sağlık başlıklarına ayrılırken, Mavi Bölge programında kent adını taşıyan özel bir etkinlik de bulunuyor.
 
-Resmi programa gore, Birlesmis Milletler Gida ve Tarim Orgutu tarafindan organize edilen Antalya FOLLOWR4FS Girisimi etkinligi, 9 Kasim Pazartesi gunu gerceklestirilecek. Soz konusu bulusma, Mavi Bolge'deki delegasyon pavilyonlari arasinda yer alan Turkiye Pavilyonu'nda konuklarini agirlayacak.
+Resmi programa göre, Birleşmiş Milletler Gıda ve Tarım Örgütü tarafından organize edilen Antalya FOLLOWR4FS Girişimi etkinliği, 9 Kasım Pazartesi günü gerçekleştirilecek. Söz konusu buluşma, Mavi Bölge'deki delegasyon pavilyonları arasında yer alan Türkiye Pavilyonu'nda konuklarını ağırlayacak.
 
-Konferansin ilk gununde tarim ve gida guvenligi alaninda bircok uluslararasi oturum yapilmasi planlaniyor. Turkiye Pavilyonu'nda iklime direncli bitkisel uretim icin su, enerji, gida ve ekosistem baglantisi ele alinirken, Tarim ve Orman Bakanligi, COP31 Baskanligi ve FAO ortakligiyla yuksek duzeyli genc ciftciler diyalogu olusturulacak.
+Konferansın ilk gününde tarım ve gıda güvenliği alanında birçok uluslararası oturum yapılması planlanıyor. Türkiye Pavilyonu'nda iklime dirençli bitkisel üretim için su, enerji, gıda ve ekosistem bağlantısı ele alınırken, Tarım ve Orman Bakanlığı, COP31 Başkanlığı ve FAO ortaklığıyla yüksek düzeyli genç çiftçiler diyaloğu oluşturulacak.
 
-Ayni gun farkli ulkelerin pavilyonlarinda gida kaybi, israfin azaltilmasi ve genclerin iklim konusundaki oncelikleri gibi konular tartisilacak. Yas meyve, sebze ve ortu alti uretiminin merkezlerinden biri olan kentte gerceklesecek zirvede, iklim degisikliginin tarimsal uretime etkileri kapsamli sekilde masaya yatirilacak.
+Aynı gün farklı ülkelerin pavilyonlarında gıda kaybı, israfın azaltılması ve gençlerin iklim konusundaki öncelikleri gibi konular tartışılacak. Yaş meyve, sebze ve örtü altı üretiminin merkezlerinden biri olan kentte gerçekleşecek zirvede, iklim değişikliğinin tarımsal üretime etkileri kapsamlı şekilde masaya yatırılacak.

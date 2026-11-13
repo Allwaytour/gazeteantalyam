@@ -21,26 +21,20 @@ gorsel_secim:
   gosterilen: Han Zheng
   cekim_yili: '2026'
   aciklama: Han Zheng — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kisi-215347' (Han Zheng) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kisi-215347' (Han Zheng) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kisi-215347
-    tarih: '2026-11-09T13:27:12+03:00'
+    tarih: '2026-11-13T08:47:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: "kurum sayfası okunamadı (Antalya Valiliği): Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.an; kaynak görseli kullanılmadı: Anadolu Ajansı için kayıtlı kullanım izni yok; 'Han Cıng' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); 'Murat Kurum' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; 'COP31' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); 'Antalya' için konuyla (climate conference, summit, antalya) ilişkili lisanslı fotoğraf bulunamadı"
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

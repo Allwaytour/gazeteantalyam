@@ -2,29 +2,41 @@
 title: Antalya'da Olta Balıkçılığı İçin En Gözde Rotalar
 date: '2026-11-06T04:20:00+03:00'
 ozet: Antalya'nın uzun sahil şeridi ve tatlı su kaynakları, amatör balıkçılık tutkunlarına yılın her döneminde farklı alternatifler sunuyor.
-gorsel: /images/haber-gorsel/20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f-c1a91887.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1697540018879-bf2812527640?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Kat Med / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Konyaaltı
 etiketler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f-c1a91887.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1697540018879-bf2812527640?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 817bfc399f5d
+  kaynak_sayfa: https://unsplash.com/photos/xVsSKsKYfm0
+  fotografci: Kat Med
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Olta balıkçılığı
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'olta-1' (Olta balıkçılığı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: olta-1
+    tarih: '2026-11-13T08:47:07+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'Türkiye dışına ait unsurlar (yanıltıcı yer); habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafta yalnızca küçük bir ayrıntı (ör. manzara içinde uzaktan görülen saha); haberin konusuyla ilgisiz yer/nesne; zorunlu unsur görünmüyor: deniz kıyısı; zorunlu unsur görünmüyor: olta, balıkçı, deniz kıyısı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -114,8 +126,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f-c1a91887.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3825
+  - 2302
   dikey: false
   surum: y3
   manset: kaplama
@@ -124,14 +136,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-antalyada-olta-balikciligi-icin-en-gozde-rotalar-6eb4f-c1a91887.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1697540018879-bf2812527640?fm=jpg&q=80&w=1600&fit=max
 ---
 Dünyaca ünlü sahilleriyle tanınan Antalya, olta balıkçılığına ilgi duyanlar için hem deniz hem de tatlı su kıyılarında pek çok seçenek barındırıyor. Şehir merkezinden ilçelere kadar uzanan geniş bir yelpazede, amatör balıkçılar için uygun noktalar bulunsa da avlanma kurallarına ve bölgelerin kullanım amaçlarına dikkat edilmesi büyük önem taşıyor.
 

@@ -2,8 +2,8 @@
 title: Antalya'da ücretsiz bisiklet kursu için kayıt dönemi başlıyor
 date: '2026-11-06T16:11:00+03:00'
 ozet: Antalya Büyükşehir Belediyesi, çocuk ve yetişkinlere yönelik ücretsiz temel eğitim bisiklet kursu düzenliyor. Kasım ayında başlayacak kurslar için kayıtlar internet üzerinden alınacak.
-gorsel: /images/haber-gorsel/20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor--30265210.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Gary Scott / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Antalya Büyükşehir Belediyesi
 - Antalya Büyükşehir Belediyesi Gençlik ve Spor Başkanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor--30265210.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max
   konu_imza: d6d2afc555e0
+  kaynak_sayfa: https://unsplash.com/photos/3amdrkkozvU
+  fotografci: Gary Scott
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Bisiklet
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'bisiklet' (Bisiklet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: bisiklet
+    tarih: '2026-11-13T08:47:06+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): Japonya''da çekilmiş, tanınabilir bir çocuk; haberdeki kursla ilgisi yok'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -176,8 +187,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor--30265210.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4832
+  - 2536
   dikey: false
   surum: y3
   manset: kaplama
@@ -186,14 +197,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-antalyada-ucretsiz-bisiklet-kursu-icin-kayit-donemi-basliyor--30265210.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya Büyükşehir Belediyesi, çevre dostu ulaşımı ve sağlıklı yaşamı yaygınlaştırmak amacıyla yeni bir eğitim programı hayata geçiriyor. Çocuklar ve yetişkinler düşünülerek hazırlanan Temel Eğitim Bisiklet Kursu, katılımcılara iki farklı yaş kategorisinde bisiklet sürmenin temel inceliklerini öğretecek.
 

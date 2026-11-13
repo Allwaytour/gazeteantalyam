@@ -2,28 +2,40 @@
 title: Alanya'da uluslararası gençler goalball şampiyonası heyecanı başlıyor
 date: '2026-11-04T23:48:00+03:00'
 ozet: Alanya'nın ev sahipliği yapacağı EGCA Youth Championships 2026 Uluslararası Gençler Goalball Şampiyonası'nda 6 ülkeden 8 takım mücadele edecek.
-gorsel: /images/haber-gorsel/20261104-alanyada-uluslararasi-gencler-goalball-sampiyonasi-heyecani-5-280c8b2f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Giorgio Trovato / Unsplash'
 kategoriler:
 - Spor
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanyada-uluslararasi-gencler-goalball-sampiyonasi-heyecani-5-280c8b2f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 30108fa81c90
+  kaynak_sayfa: https://unsplash.com/photos/_XTY6lD8jgM
+  fotografci: Giorgio Trovato
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Kupa
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kupa' (Kupa) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kupa
+    tarih: '2026-11-13T08:47:22+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-uluslararasi-sampiyona-heyecani-
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-uluslararasi-gencler-goalball-sampiyonasi-heyecani-5-280c8b2f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5282
+  - 3521
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanyada-uluslararasi-gencler-goalball-sampiyonasi-heyecani-5-280c8b2f.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Uluslararası spor organizasyonlarının merkezlerinden biri olan Alanya, yeni bir şampiyonaya ev sahipliği yapmaya hazırlanıyor. Görme Engelliler Spor Federasyonunun 2026 yılı faaliyet programında yer alan EGCA Youth Championships 2026 Uluslararası Gençler Goalball Şampiyonası, 5-8 Kasım tarihleri arasında gerçekleştirilecek.
 

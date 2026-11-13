@@ -2,28 +2,40 @@
 title: 'Antalya''da Kamu-İş''ten enflasyon tepkisi: Alım gücü eridi'
 date: '2026-11-03T16:27:10+03:00'
 ozet: Birleşik Kamu-İş Antalya İl Başkanlığı, ekim ayı enflasyon verileriyle birlikte alım gücündeki düşüşe ve ekonomi politikalarına tepki gösterdi.
-gorsel: /images/haber-gorsel/20261103-antalyada-kamu-isten-enflasyon-tepkisi-alim-gucu-eridi-5574c-5d62dc2d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyada-kamu-isten-enflasyon-tepkisi-alim-gucu-eridi-5574c-5d62dc2d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 14c571549810
+  kaynak_sayfa: https://unsplash.com/photos/TD9ZL6i81R4
+  fotografci: Nedret Binici
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk lirası
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'para' (Türk lirası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: para
+    tarih: '2026-11-13T08:47:26+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/birlesik-kamu-is-antalya-il
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-kamu-isten-enflasyon-tepkisi-alim-gucu-eridi-5574c-5d62dc2d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3080
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyada-kamu-isten-enflasyon-tepkisi-alim-gucu-eridi-5574c-5d62dc2d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Birleşik Kamu-İş Konfederasyonu Antalya İl Başkanı Sadık Acar, ekim ayı enflasyon verilerinin açıklanmasının ardından bir basın açıklaması düzenledi. Açıklamada, ekonomi politikaları eleştirilerek enflasyonun ve vatandaşların alım gücündeki erimenin vahim boyutlara ulaştığı ifade edildi.
 

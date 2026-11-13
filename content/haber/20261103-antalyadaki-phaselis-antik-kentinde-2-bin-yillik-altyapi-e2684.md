@@ -2,28 +2,40 @@
 title: Antalya'daki Phaselis Antik Kenti'nde 2 bin yıllık altyapı
 date: '2026-11-03T23:15:18+03:00'
 ozet: Kemer'deki Phaselis Antik Kenti'nde yürütülen kazılarda, yaklaşık 2 bin yıl öncesine ait karmaşık bir altyapı ve kanalizasyon sistemi ortaya çıkarıldı.
-gorsel: /images/haber-gorsel/20261103-antalyadaki-phaselis-antik-kentinde-2-bin-yillik-altyapi-e268-4a8c9c01.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+gorsel_kredi: 'Fotoğraf: BizLawLLC / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Kemer
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyadaki-phaselis-antik-kentinde-2-bin-yillik-altyapi-e268-4a8c9c01.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
   konu_imza: ac98f8abb869
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Road_Paving_Work.jpg
+  fotografci: BizLawLLC
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Yol çalışması
+  cekim_yili: '2022'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yol-calismasi-1' (Yol çalışması) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yol-calismasi-1
+    tarih: '2026-11-13T08:47:26+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 3/10) — Phaselis antik kenti ve ç'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.antalyahurses.com/antalyada-2-bin-yillik-muhendislik-har
 gorsel_yedek: /images/haber-gorsel/20261103-antalyadaki-phaselis-antik-kentinde-2-bin-yillik-altyapi-e268-4a8c9c01.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyadaki-phaselis-antik-kentinde-2-bin-yillik-altyapi-e268-4a8c9c01.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+gorsel_gecmis: []
 ---
 Antalya'nın Kemer ilçesine bağlı Tekirova Mahallesi sınırlarında yer alan Phaselis Antik Kenti, tarihi yapılarıyla olduğu kadar geçmişin mühendislik izleriyle de dikkat çekiyor. Antik kentin merkezi limanı ile güney limanını birbirine bağlayan ana caddenin taş döşemelerinin altında, yaklaşık 2 bin yıllık gelişmiş bir altyapı sistemi bulunuyor. Arkeolojik araştırmalar, dönemin mühendislerinin temiz su dağıtımından atık su tahliyesine kadar pek çok ayrıntıyı planladığını gösteriyor.
 

@@ -2,8 +2,8 @@
 title: 'Antalya Barosu''ndan COP31 bütçesine tepki: Çocuklara yemek'
 date: '2026-11-09T17:05:53+03:00'
 ozet: Antalya Barosu Çocuk Hakları Merkezi, uluslararası organizasyonlar için ayrılan bütçelere tepki göstererek devlet okullarındaki öğrencilere ücretsiz yemek sağlanmasını istedi.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+gorsel_kredi: 'Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -17,32 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
   konu_imza: 02dc1b9a4a07
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  fotografci: DP Singh Bhullar
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  gosterilen: Adalet
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'adalet-1' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T18:36:40+03:00'
+    arsiv_id: adalet-1
+    tarih: '2026-11-13T08:46:50+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalya-barosundan-cop31-te
 gorsel_yedek: /images/haber-gorsel/20261109-antalya-barosundan-cop31-butcesine-tepki-cocuklara-yemek-bb00-042d1cc8.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 8192
+  - 5464
   dikey: false
   surum: y3
   manset: kaplama
@@ -63,16 +61,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
 ---
 Antalya Barosu Çocuk Hakları Merkezi, COP31 süresince yapılan kamu harcamalarına yönelik bir açıklama yayımladı. Açıklamada, büyük organizasyonlar için milyarlarca liralık kaynaklar ayrılırken devlet okullarındaki çocukların beslenme desteğinden mahrum bırakılmasına dikkat çekildi. Çocukların sağlıklı gıdaya ve temiz suya erişiminin sosyal yardım olarak ele alınamayacağı, bunun devletin temel görevleri arasında yer aldığı ifade edildi.

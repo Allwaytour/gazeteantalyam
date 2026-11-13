@@ -3,7 +3,7 @@ title: Antalya'da LÖSEV'den lösemili çocuklar için turuncu balonlu umut etki
 date: '2026-11-07T12:14:00+03:00'
 ozet: Antalya'da tedavi gören lösemili çocukların moral bulması için düzenlenen etkinlikte turuncu balonlar gökyüzüne bırakıldı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Mikael Häggström / Wikimedia Commons (CC0)'
+gorsel_kredi: 'Fotoğraf: Mikael Häggström / Wikimedia Commons (CC0)'
 kategoriler:
 - Sağlık
 ilceler:
@@ -26,21 +26,20 @@ gorsel_secim:
   gosterilen: lösemi hücrelerinin mikroskop görüntüsü
   cekim_yili: '2022'
   aciklama: Lösemide kan yayması, mikroskop görüntüsü (temsilî)
-  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: losemi
-    tarih: '2026-11-09T13:27:05+03:00'
+    tarih: '2026-11-13T08:47:00+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: '''Antalya Eğitim ve Araştırma Hastanesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''turuncu balon etkinliği'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yal'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

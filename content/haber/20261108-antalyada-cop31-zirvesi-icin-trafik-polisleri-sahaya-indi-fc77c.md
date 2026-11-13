@@ -2,8 +2,8 @@
 title: Antalya'da COP31 Zirvesi İçin Trafik Polisleri Sahaya İndi
 date: '2026-11-08T16:38:26+03:00'
 ozet: COP31 İklim Zirvesi öncesinde Antalya'da görev yapacak trafik ekiplerine bilgilendirme toplantısı düzenlendi, ardından ekipler güzergahlarda keşif yaptı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+gorsel_kredi: 'Fotoğraf: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -17,32 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
   konu_imza: dfd9b69a4e14
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+  fotografci: Onur
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  gosterilen: Antalya'da trafik
+  cekim_yili: '2015'
+  aciklama: Antalya'da D-400 karayolu — Arşiv fotoğrafı (2015)
+  gerekce: arşiv kaydı 'yol-antalya-2' (Antalya'da trafik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-09T13:27:01+03:00'
+    arsiv_id: yol-antalya-2
+    tarih: '2026-11-13T08:46:55+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yabancı trafik polisi (''TRAFFIC'' yazılı yelek); Türkiye''deki denetimi göstermiyor'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -153,8 +151,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-cop31-zirvesi-icin-trafik-polisleri-sahaya-indi-fc7-bded05e4.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
   - 2592
+  - 1456
   dikey: false
   surum: y3
   manset: kaplama
@@ -163,14 +161,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
   o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 ---
 Antalya'da düzenlenecek COP31 İklim Zirvesi kapsamında, kentte görev alacak trafik personeline yönelik bir bilgilendirme toplantısı gerçekleştirildi. Muratpaşa ilçesi Yeşildere Mahallesi'nde düzenlenen toplantıya, Trafikten Sorumlu İl Emniyet Müdür Yardımcısı Sedat Akyürek başkanlık etti. Toplantıda, zirve süresince ulaşımın güvenli ve akıcı bir şekilde sağlanması amacıyla yürütülecek çalışmalar detaylandırıldı.
 

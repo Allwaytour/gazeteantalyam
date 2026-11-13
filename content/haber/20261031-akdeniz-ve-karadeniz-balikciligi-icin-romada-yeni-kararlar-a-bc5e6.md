@@ -2,8 +2,8 @@
 title: Akdeniz ve Karadeniz balıkçılığı için Roma'da yeni kararlar alındı
 date: '2026-10-31T17:52:00+03:00'
 ozet: Akdeniz Genel Balıkçılık Komisyonu'nun Roma'da gerçekleştirdiği kritik oturumda, tükenme tehlikesindeki stokları korumak ve yasa dışı avcılığı önlemek amacıyla bağlayıcı kararlar yürürlüğe girdi.
-gorsel: /images/haber-gorsel/20261031-akdeniz-ve-karadeniz-balikciligi-icin-romada-yeni-kararlar-a--f38eca31.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
+gorsel_kredi: 'Fotoğraf: Güldem Üstün / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -15,23 +15,34 @@ yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/akdenizde-balikciligi-kurtaracak-11-baglayici-karar-romada-alindi/388405
 gorsel_v4: true
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-akdeniz-ve-karadeniz-balikciligi-icin-romada-yeni-kararlar-a--f38eca31.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
   konu_imza: a2ba6c46ddc6
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
+  fotografci: Güldem Üstün
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Balıkçı tekneleri
+  cekim_yili: '2003'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'balikci-3' (Balıkçı tekneleri) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: balikci-3
+    tarih: '2026-11-13T08:47:45+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1624367195767-f81b61f068f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8c3VzdGFpbmFibGUlMjBmaXNoaW5nJTIwbmV0cyUyMG9jZWFufGVufDF8MHx8fDE3OTM0ODU3MjV8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Edrin Spahiu / Unsplash'
@@ -42,8 +53,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-akdeniz-ve-karadeniz-balikciligi-icin-romada-yeni-kararlar-a--f38eca31.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2304
+  - 1536
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-akdeniz-ve-karadeniz-balikciligi-icin-romada-yeni-kararlar-a--f38eca31.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
 ---
 Birleşmiş Milletler Gıda ve Tarım Örgütü bünyesindeki Akdeniz Genel Balıkçılık Komisyonu, İtalya'nın başkenti Roma'da 25 kıyı ülkesinin katılımıyla önemli bir oturum düzenledi. Gerçekleştirilen toplantıda, bölgedeki su ürünleri stoklarını korumak, yasa dışı avcılık faaliyetlerini engellemek ve su ürünleri yetiştiriciliğini çevre standartlarına uygun hale getirmek amacıyla 11 bağlayıcı tavsiye kararı ile 2 karar kabul edildi.
 

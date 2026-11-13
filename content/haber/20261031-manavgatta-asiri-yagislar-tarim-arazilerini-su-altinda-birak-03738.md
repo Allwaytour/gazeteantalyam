@@ -2,8 +2,8 @@
 title: Manavgat'ta aşırı yağışlar tarım arazilerini su altında bıraktı
 date: '2026-10-31T22:02:56+03:00'
 ozet: Manavgat'ta son günlerde etkili olan yoğun sağanak yağış nedeniyle Denizkent, Denizyaka, Bereket ve Perakende mahallelerindeki tarım arazileri zarar gördü.
-gorsel: /images/haber-gorsel/20261031-manavgatta-asiri-yagislar-tarim-arazilerini-su-altinda-birak--4a01be92.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Wes Hicks / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -16,23 +16,34 @@ yz: true
 kaynak: Nehir Haber
 kaynak_url: https://www.nehir.net/ekonomi/manavgat-ta-saganak-yagis-beyaz-altini-vurdu-27247994
 gorsel_v4: true
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-manavgatta-asiri-yagislar-tarim-arazilerini-su-altinda-birak--4a01be92.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 12f89adcd7ec
+  kaynak_sayfa: https://unsplash.com/photos/tHgnDUyUkXc
+  fotografci: Wes Hicks
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-1' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-1
+    tarih: '2026-11-13T08:47:40+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20230116_Manavgat%2C_Turkey_15.jpg/1280px-20230116_Manavgat%2C_Turkey_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-manavgatta-asiri-yagislar-tarim-arazilerini-su-altinda-birak--4a01be92.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-manavgatta-asiri-yagislar-tarim-arazilerini-su-altinda-birak--4a01be92.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 ---
 Manavgat genelinde geçtiğimiz günlerde etkisini gösteren kuvvetli sağanak yağmur, tarım üretimini olumsuz etkiledi. Bölgeye düşen yağış miktarının metrekareye 60 kilogramın üzerinde olduğu belirtilirken, özellikle Denizkent, Denizyaka, Bereket ve Perakende mahallelerindeki tarım arazileri su baskınlarına uğradı.
 

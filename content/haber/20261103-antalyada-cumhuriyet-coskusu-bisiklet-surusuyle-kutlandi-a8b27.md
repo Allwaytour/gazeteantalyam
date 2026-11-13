@@ -2,28 +2,40 @@
 title: Antalya'da Cumhuriyet coşkusu bisiklet sürüşüyle kutlandı
 date: '2026-11-03T17:41:50+03:00'
 ozet: Cumhuriyet coşkusunu sporla buluşturan etkinlikte farklı bisiklet toplulukları ve sivil toplum kuruluşları pedal çevirdi.
-gorsel: /images/haber-gorsel/20261103-antalyada-cumhuriyet-coskusu-bisiklet-surusuyle-kutlandi-a8b2-2fc963ba.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+gorsel_kredi: 'Fotoğraf: Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyada-cumhuriyet-coskusu-bisiklet-surusuyle-kutlandi-a8b2-2fc963ba.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
   konu_imza: 0eb8359481b1
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+  fotografci: Ank Kumar
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Türk bayrağı
+  cekim_yili: '2014'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'bayrak-1' (Türk bayrağı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: bayrak-1
+    tarih: '2026-11-13T08:47:27+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/antalyada-tur
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-cumhuriyet-coskusu-bisiklet-surusuyle-kutlandi-a8b2-2fc963ba.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyada-cumhuriyet-coskusu-bisiklet-surusuyle-kutlandi-a8b2-2fc963ba.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+gorsel_gecmis: []
 ---
 Antalya'da cumhuriyet coşkusunu sporla buluşturan "Türkiye Pedallıyor Cumhuriyet Sürüşü" etkinliği gerçekleştirildi. Farklı bisiklet toplulukları ile sivil toplum kuruluşlarının temsilcilerini bir araya getiren organizasyon renkli görüntüklere sahne oldu.
 

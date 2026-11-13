@@ -2,8 +2,8 @@
 title: YÖK Başkanı Özvar'dan Alanya'da Mavi Vatan ve ihtisaslaşma vurgusu
 date: '2026-11-11T18:51:10+03:00'
 ozet: Yükseköğretim Kurulu Başkanı Erol Özvar, Alanya'da katıldığı toplantıda üniversitelerin ihtisaslaşmasının önemine dikkat çekerek Mavi Vatan vizyonunu değerlendirdi.
-gorsel: /images/haber-gorsel/20261111-yok-baskani-ozvardan-alanyada-mavi-vatan-ve-ihtisaslasma-vur--123b301b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
+gorsel_kredi: 'Fotoğraf: Darwinek / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Eğitim
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - Alanya Alaaddin Keykubat Üniversitesi
 - Alanya Tropikal Meyve Üreticileri Birliği
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-yok-baskani-ozvardan-alanyada-mavi-vatan-ve-ihtisaslasma-vur--123b301b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
   konu_imza: 7dd8502de79a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_flag_3705.jpg
+  fotografci: Darwinek
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Türk bayrağı
+  cekim_yili: '2008'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'bayrak-2' (Türk bayrağı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: bayrak-2
+    tarih: '2026-11-13T08:46:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,8 +52,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/yok-baskani-o
 gorsel_yedek: /images/haber-gorsel/20261111-yok-baskani-ozvardan-alanyada-mavi-vatan-ve-ihtisaslasma-vur--123b301b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2576
+  - 1932
   dikey: false
   surum: y3
   manset: kaplama
@@ -51,14 +62,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-yok-baskani-ozvardan-alanyada-mavi-vatan-ve-ihtisaslasma-vur--123b301b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
+gorsel_gecmis: []
 ---
 Yükseköğretim Kurulu Başkanı Prof. Dr. Erol Özvar, Antalya'nın Alanya ilçesindeki Alaaddin Keykubat Üniversitesi'nde düzenlenen Gelecek Vizyonu Toplantısı'na katıldı. Programda yükseköğretimde ihtisaslaşma ve bölgesel kalkınma odaklı değerlendirmelerde bulunan Özvar, üniversitelerin farklılaşmasının ve belirli alanlarda uzmanlaşmasının kurumlar için öncelikli olduğunu belirtti. İhtisaslaşmanın kalıcı olabilmesi için bilimsel devamlılığın tesis edilmesi gerektiğini vurgulayan Özvar, güçlü olunan alanlar ile desteğe ihtiyaç duyulan konuların bir arada ele alınmasının önemine işaret etti.
 

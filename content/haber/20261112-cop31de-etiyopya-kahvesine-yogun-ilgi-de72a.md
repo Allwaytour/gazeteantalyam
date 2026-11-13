@@ -2,8 +2,8 @@
 title: COP31'de Etiyopya kahvesine yoğun ilgi
 date: '2026-11-12T11:14:00+03:00'
 ozet: Antalya'da düzenlenen COP31'de yer alan Etiyopya Pavilyonu, ziyaretçilerine geleneksel yöntemlerle hazırlanan kahvelerden ikram etti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1566346289644-4e9c3dce657d?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: svklimkin / Unsplash'
 kategoriler:
 - Yaşam
 ilceler: []
@@ -13,32 +13,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1566346289644-4e9c3dce657d?fm=jpg&q=80&w=1600&fit=max
   konu_imza: d5dc23edf0e9
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/k5noya9O1Ss
+  fotografci: svklimkin
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk kahvesi
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kahve' (Türk kahvesi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-12T11:27:40+03:00'
+    arsiv_id: kahve
+    tarih: '2026-11-13T08:46:23+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,8 +47,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/kahve-soleni
 gorsel_yedek: /images/haber-gorsel/20261112-cop31de-etiyopya-kahvesine-yogun-ilgi-de72a-fc23f9c1.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
+  - 4643
+  - 2890
   dikey: false
   surum: y3
   manset: kaplama
@@ -59,14 +57,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
   o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1566346289644-4e9c3dce657d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Küresel iklim politikalarının ele alındığı COP31 kapsamında kurulan ülke pavilyonları katılımcılardan büyük ilgi görüyor. Bu kapsamda en çok ilgi çeken noktalardan biri olan Etiyopya Pavilyonu, konuklarına özel bir kahve deneyimi yaşattı.

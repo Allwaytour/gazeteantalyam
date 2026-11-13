@@ -2,28 +2,40 @@
 title: Kepez'de hırdavat dükkanında yangın çıktı
 date: '2026-11-05T00:30:00+03:00'
 ozet: Antalya'nın Kepez ilçesinde, kapandıktan kısa süre sonra alevlere teslim olan hırdavat dükkanında büyük çapta maddi hasar meydana geldi.
-gorsel: /images/haber-gorsel/20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80-d28098b2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Dottie Di Liddo / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
 - Kepez
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80-d28098b2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ce0ed2db570e
+  kaynak_sayfa: https://unsplash.com/photos/RR9oBch57To
+  fotografci: Dottie Di Liddo
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İtfaiye
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'itfaiye-2' (İtfaiye) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: itfaiye-2
+    tarih: '2026-11-13T08:47:11+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: '''Sütçüler Caddesi'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''hırdavat dükkanı yangını'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aran'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +52,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80-d28098b2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +62,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80-d28098b2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın Kepez ilçesi Sütçüler Mahallesi Sütçüler Caddesi üzerinde bulunan yapı ve hırdavat malzemeleri satışı yapılan bir iş yerinde, dükkanın kapatılmasından kısa süre sonra henüz belirlenemeyen bir nedenle yangın çıktı. Çevre sakinlerinin dumanları fark ederek 112 Acil Çağrı Merkezi'ne ihbarda bulunması üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.
 

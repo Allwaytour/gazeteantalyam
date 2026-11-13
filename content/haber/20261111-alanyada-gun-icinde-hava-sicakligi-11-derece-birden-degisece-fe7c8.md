@@ -2,31 +2,42 @@
 title: Alanya'da gün içinde hava sıcaklığı 11 derece birden değişecek
 date: '2026-11-11T07:34:00+03:00'
 ozet: Alanya'da sabah saatlerinde serin başlayan hava, öğle saatlerinde 19 dereceye kadar yükselecek. Akşam ise sıcaklıklar yeniden düşüşe geçecek.
-gorsel: /images/haber-gorsel/20261111-alanyada-gun-icinde-hava-sicakligi-11-derece-birden-degisece--c5063fad.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Eilis Garvey / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
 etiketler: []
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-alanyada-gun-icinde-hava-sicakligi-11-derece-birden-degisece--c5063fad.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
   konu_imza: dba77432e2c1
+  kaynak_sayfa: https://unsplash.com/photos/c9SDxIjXH4I
+  fotografci: Eilis Garvey
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sıcak hava
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sicak' (Sıcak hava) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sicak
+    tarih: '2026-11-13T08:46:36+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +48,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-bugun-iki-farkli-hava-yasanacak-
 gorsel_yedek: /images/haber-gorsel/20261111-alanyada-gun-icinde-hava-sicakligi-11-derece-birden-degisece--c5063fad.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-alanyada-gun-icinde-hava-sicakligi-11-derece-birden-degisece--c5063fad.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da gün içerisinde hava koşullarında belirgin değişimler yaşanması bekleniyor. Sabah saatlerinde güneşli aralıklar görülürken, termometrelerin erken saatlerde 8 dereceye kadar gerilemesi öngörülüyor. Günün ilerleyen saatlerinde güneşin etkisiyle birlikte sıcaklık kademeli olarak artış gösterecek.
 

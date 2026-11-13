@@ -2,27 +2,39 @@
 title: Antalya'nın Ekim Ayı İhracatı 187,5 Milyon Doları Aştı
 date: '2026-11-03T16:14:00+03:00'
 ozet: Antalya'da ekim ayında ihracat geçen yılın aynı dönemine göre artış göstererek 187,5 milyon doları geride bıraktı.
-gorsel: /images/haber-gorsel/20261103-antalyanin-ekim-ayi-ihracati-187-5-milyon-dolari-asti-75ea3-3dc5b8bf.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Ibrahim Boran / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyanin-ekim-ayi-ihracati-187-5-milyon-dolari-asti-75ea3-3dc5b8bf.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 763591e7c0c0
+  kaynak_sayfa: https://unsplash.com/photos/_aUwE2DnIPg
+  fotografci: Ibrahim Boran
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Döviz
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'doviz' (Döviz) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: doviz
+    tarih: '2026-11-13T08:47:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi) — Fotoğraf TBMM komisyon to'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -33,8 +45,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/ekim-ayinda-antalya-ihracati-1875-m
 gorsel_yedek: /images/haber-gorsel/20261103-antalyanin-ekim-ayi-ihracati-187-5-milyon-dolari-asti-75ea3-3dc5b8bf.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5860
+  - 3907
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,14 +55,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyanin-ekim-ayi-ihracati-187-5-milyon-dolari-asti-75ea3-3dc5b8bf.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın ekim ayı ihracat verileri açıklandı. Kentin bu dönemdeki toplam ihracatı 187,5 milyon doların üzerine çıkarken, tarım sektörü bu rakamın önemli bir kısmını oluşturdu. Ekim ayında tarım ihracatı geçen yılın aynı ayına kıyasla yüzde 14,5 oranında artış kaydederek 102,2 milyon dolar seviyesine ulaştı.
 

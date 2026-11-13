@@ -2,8 +2,8 @@
 title: Antalya'da iklim krizinin tarım ve böcek popülasyonuna etkisi masaya yatırıldı
 date: '2026-11-09T13:55:00+03:00'
 ozet: Antalya'da düzenlenen COP31 Yeşil Bölge oturumunda, iklim değişikliğinin tarımsal üretim ve zararlı böcek popülasyonları üzerindeki etkileri değerlendirildi.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: www.zanda. photography / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -19,32 +19,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 2c64e3add67d
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/RBdE3jv5y68
+  fotografci: www.zanda. photography
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sera
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sera-3' (Sera) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T20:36:24+03:00'
+    arsiv_id: sera-3
+    tarih: '2026-11-13T08:46:48+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -55,8 +53,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyanin-tarimi-iklim-kis
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-iklim-krizinin-tarim-ve-bocek-populasyonuna-etkisi--4f9acbc6.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -65,16 +63,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında Antalya'nın Aksu ilçesindeki EXPO 2016 yerleşkesinde etkinlikler devam ediyor. Zirvenin halka açık alanı olan Yeşil Bölge'de, iklim krizinin tarım ve gıda güvenliğine etkileri ele alındı. İl Tarım ve Orman Müdürlüğü tarafından organize edilen oturumda, iklim değişikliğinin böcek popülasyonlarına yansımaları ve tarımı bekleyen riskler uzmanlar tarafından masaya yatırıldı.

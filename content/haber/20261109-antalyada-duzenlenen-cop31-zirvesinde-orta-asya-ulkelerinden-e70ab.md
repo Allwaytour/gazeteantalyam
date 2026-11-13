@@ -2,7 +2,7 @@
 title: Antalya'da düzenlenen COP31 Zirvesi'nde Orta Asya ülkelerinden ortak çevre adımı
 date: '2026-11-09T15:23:00+03:00'
 ozet: Türkiye'nin ev sahipliğinde Antalya'da devam eden COP31 İklim Zirvesi'nde bir araya gelen beş Orta Asya ülkesi, çevre ve iklim krizine karşı stratejik iş birliği kararları aldı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
@@ -15,31 +15,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
   konu_imza: 5d3e39a32c35
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
   fotografci: Hendric Stattmann
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
+  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T15:37:44+03:00'
+    arsiv_id: cop31-expo-2
+    tarih: '2026-11-13T08:46:49+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,26 +48,24 @@ kaynak_url: https://www.trtavaz.com.tr/haber/tur/turkistandan/kuresel-iklim-siya
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-duzenlenen-cop31-zirvesinde-orta-asya-ulkelerinden--48c0038d.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
-  dikey: false
+  - 2927
+  - 4390
+  dikey: true
   surum: y3
   manset: kaplama
-  yan: true
+  yan: false
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  yan_portre: true
+  o_manset_d: 50% 63%
+  o_manset_m: 50% 70%
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_t: 50% 73%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_gecmis: []
 ---
 Antalya'da ev sahipliği yapılan COP31 İklim Zirvesi kapsamında bir araya gelen Kazakistan, Özbekistan, Kırgızistan, Türkmenistan ve Tacikistan, çevre ve iklim politikalarında ortak bir program uygulamaya başladı. Bölge ülkeleri, iklim kriziyle mücadele sürecini ulusal sınırların dışına taşıyarak küresel ölçekte güçlü bir pazarlık ve iş birliği gücü oluşturmayı hedefliyor. Zirve boyunca taahhütlerden ziyade somut ve yatırıma dönüştürülebilir projeler ön plana çıkarılırken, yeşil finansmanın bölgeye çekilmesi amacıyla ortak bir vizyon sergileniyor.

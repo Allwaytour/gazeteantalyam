@@ -2,28 +2,40 @@
 title: Antalya Spor Salonu'nda Basketbol Maçı Yağmur Nedeniyle Ertelendi
 date: '2026-11-02T21:27:00+03:00'
 ozet: Antalya'da oynanan U14 basketbol karşılaşması, salonun tavanından su akması nedeniyle üçüncü dakikada tatil edildi.
-gorsel: /images/haber-gorsel/20261102-antalya-spor-salonunda-basketbol-maci-yagmur-nedeniyle-ertel--687449a7.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Wes Hicks / Unsplash'
 kategoriler:
 - Spor
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalya-spor-salonunda-basketbol-maci-yagmur-nedeniyle-ertel--687449a7.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 53e419b77d49
+  kaynak_sayfa: https://unsplash.com/photos/tHgnDUyUkXc
+  fotografci: Wes Hicks
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-1' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-1
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/dev-tesisi-su-basti
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-spor-salonunda-basketbol-maci-yagmur-nedeniyle-ertel--687449a7.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalya-spor-salonunda-basketbol-maci-yagmur-nedeniyle-ertel--687449a7.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da eşine az rastlanır bir olay kaydedildi. Antalya Spor Salonu’nda gerçekleştirilen Hedef07 ile Neriman Erol Yılmaz Spor Kulübü arasındaki U14 basketbol müsabakası, yağış nedeniyle yarıda kaldı.
 

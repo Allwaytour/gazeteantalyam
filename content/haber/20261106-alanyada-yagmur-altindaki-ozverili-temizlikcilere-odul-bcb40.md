@@ -2,8 +2,8 @@
 title: Alanya'da yağmur altındaki özverili temizlikçilere ödül
 date: '2026-11-06T18:39:27+03:00'
 ozet: Alanya'da sağanak yağışa rağmen görevini aksatmayan temizlik personeli, Belediye Başkanı Osman Tarık Özçelik tarafından ödüllendirildi.
-gorsel: /images/haber-gorsel/20261106-alanyada-yagmur-altindaki-ozverili-temizlikcilere-odul-bcb40-2c06b3c2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Wes Hicks / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
@@ -12,30 +12,34 @@ etiketler:
 - Osman Tarık Özçelik
 - Alanya Belediyesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyada-yagmur-altindaki-ozverili-temizlikcilere-odul-bcb40-2c06b3c2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
   konu_imza: b45f6242e04e
+  kaynak_sayfa: https://unsplash.com/photos/tHgnDUyUkXc
+  fotografci: Wes Hicks
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-1' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-1
+    tarih: '2026-11-13T08:47:09+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Osman Tarık Özçelik'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Park_near_Belediyesi_building_4025.jpg
-        katman: kurum
-        neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Castel_Ehmedek_Sand%C4%B1k_Emini_Kayhanlar_House_5708.jpg
-        katman: kurum
-        neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görün
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,8 +50,8 @@ kaynak_url: https://www.aksiyon.com.tr/yagmur-altinda-gorevde-kalan-temizlik-cal
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-yagmur-altindaki-ozverili-temizlikcilere-odul-bcb40-2c06b3c2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -56,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyada-yagmur-altindaki-ozverili-temizlikcilere-odul-bcb40-2c06b3c2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da şiddetli yağış altında özveriyle çalışan temizlik personeli, belediye yönetimi tarafından ağırlandı. Avsallar Mahallesi'nde etkili olan sağanak yağışa rağmen çöp toplama hizmetini sürdüren ekiplerin mücadelesi, bir vatandaş tarafından cep telefonu kamerasıyla kaydedilmişti. Görüntülerin sosyal medyada ilgi görmesinin ardından çalışanların görev bilinci takdir topladı.
 

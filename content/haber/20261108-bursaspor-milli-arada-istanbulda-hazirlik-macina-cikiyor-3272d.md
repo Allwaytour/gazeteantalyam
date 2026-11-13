@@ -2,8 +2,8 @@
 title: Bursaspor Milli Arada İstanbul'da Hazırlık Maçına Çıkıyor
 date: '2026-11-08T22:57:55+03:00'
 ozet: Trendyol 1. Lig'de liderlik koltuğunda oturan Bursaspor, milli arada Başakşehir ile hazırlık maçında karşı karşıya gelecek.
-gorsel: /images/haber-gorsel/20261108-bursaspor-milli-arada-istanbulda-hazirlik-macina-cikiyor-3272-abee26e2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+gorsel_kredi: 'Fotoğraf: Hayden Schiff / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Spor
 ilceler: []
@@ -11,23 +11,34 @@ etiketler:
 - Bursaspor
 - Başakşehir Futbol Kulübü
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261108-bursaspor-milli-arada-istanbulda-hazirlik-macina-cikiyor-3272-abee26e2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
   konu_imza: d2000034d89a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+  fotografci: Hayden Schiff
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Futbol
+  cekim_yili: '2019'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'futbol-2' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: futbol-2
+    tarih: '2026-11-13T08:46:54+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.sondakika.com/spor/haber-bursaspor-15-kasim-da-istanbul-
 gorsel_yedek: /images/haber-gorsel/20261108-bursaspor-milli-arada-istanbulda-hazirlik-macina-cikiyor-3272-abee26e2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261108-bursaspor-milli-arada-istanbulda-hazirlik-macina-cikiyor-3272-abee26e2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+gorsel_gecmis: []
 ---
 Trendyol 1. Lig'de sergilediği başarılı performansla dikkat çeken ve milli araya lider olarak giren Bursaspor, çalışmalarına hız kesmeden devam ediyor. Yeşil-beyazlı ekip, liglere verilen arayı en iyi şekilde değerlendirmek amacıyla İstanbul'da özel bir maça çıkmaya hazırlanıyor.
 

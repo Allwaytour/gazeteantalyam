@@ -2,28 +2,40 @@
 title: Alanya'da medya buluşması için geri sayım başladı
 date: '2026-11-04T14:22:00+03:00'
 ozet: Alanya Gazeteciler Cemiyeti tarafından düzenlenecek medya buluşması ve ödül töreni için hazırlıklar tamamlandı. Törende 11 dalda ödül sahiplerini bulacak.
-gorsel: /images/haber-gorsel/20261104-alanyada-medya-bulusmasi-icin-geri-sayim-basladi-3ce12-b43d1f9d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: AbsolutVision / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanyada-medya-bulusmasi-icin-geri-sayim-basladi-3ce12-b43d1f9d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 00d073d1eebd
+  kaynak_sayfa: https://unsplash.com/photos/WYd_PkCa1BY
+  fotografci: AbsolutVision
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Gazeteler
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'basin' (Gazeteler) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: basin
+    tarih: '2026-11-13T08:47:22+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Gaye Coşkun'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.gazetealanya.com/turk-medyasinin-kalbi-alanyada-atacak
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-medya-bulusmasi-icin-geri-sayim-basladi-3ce12-b43d1f9d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4000
+  - 2667
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanyada-medya-bulusmasi-icin-geri-sayim-basladi-3ce12-b43d1f9d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya Gazeteciler Cemiyeti (AGC) yönetimi, cemiyet binasında bir araya gelerek ödül töreni öncesindeki son hazırlıkları gözden geçirdi. AGC Başkanı Gaye Coşkun, 12-14 Kasım tarihlerinde gerçekleştirilecek organizasyonun Türk medyası açısından taşıdığı öneme vurgu yaptı. Medya Başarı Ödülleri Yarışması'nda 11 farklı dalda derece elde eden 12 eserin sahibinin ödüllendirileceği etkinlik için Anadolu'nun farklı bölgelerinden yaklaşık 35 gazetecinin Alanya'ya geleceği bildirildi.
 

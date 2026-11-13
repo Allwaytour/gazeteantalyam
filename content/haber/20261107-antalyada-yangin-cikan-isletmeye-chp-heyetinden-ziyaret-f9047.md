@@ -2,8 +2,8 @@
 title: Antalya'da yangın çıkan işletmeye CHP heyetinden ziyaret
 date: '2026-11-07T18:13:00+03:00'
 ozet: Muratpaşa'da gece saatlerinde üç katlı bir kafe restoranda çıkan yangın sonucu iş yeri kullanılamaz hale geldi. CHP heyeti, bölgeye giderek esnafa geçmiş olsun dileklerini iletti.
-gorsel: /images/haber-gorsel/20261107-antalyada-yangin-cikan-isletmeye-chp-heyetinden-ziyaret-f9047-57c66f71.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-chp-logo.jpg
+gorsel_kredi: 'Görsel: Cumhuriyet Halk Partisi / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -11,22 +11,34 @@ ilceler:
 etiketler:
 - CHP
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-antalyada-yangin-cikan-isletmeye-chp-heyetinden-ziyaret-f9047-57c66f71.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-chp-logo.jpg
   konu_imza: 2e0c82782aa6
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:CHP_logo_%282000%29.svg
+  fotografci: Cumhuriyet Halk Partisi
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: CHP
+  cekim_yili: '2000'
+  aciklama: CHP logosu
+  gerekce: arşiv kaydı 'chp-logo' (CHP) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: chp-logo
+    tarih: '2026-11-13T08:47:00+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,14 +62,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-antalyada-yangin-cikan-isletmeye-chp-heyetinden-ziyaret-f9047-57c66f71.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-chp-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Antalya'nın Muratpaşa ilçesine bağlı Kışla Mahallesi Kapalı Yol mevkisinde bulunan üç katlı bir kafe restoranda henüz belirlenemeyen bir nedenle yangın çıktı. Gece yarısından sonra saat 04.30 sıralarında meydana gelen olayı gece bekçisi fark etti. 
 

@@ -22,32 +22,20 @@ gorsel_secim:
   gosterilen: Antalya Stadyumu
   cekim_yili: '2015'
   aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-cd9201
-    tarih: '2026-11-09T13:27:10+03:00'
+    tarih: '2026-11-13T08:47:12+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '3 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); görselde olmaması gereken '
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Bora Terzioğlu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya Stadyumu'' (Antalyaspor stadı) haberin ana takımına ait değil ve olay yeri olarak geçmiyor; kullanılmadı; ''Antalya'' için konuyla (football player, football jersey, signing contract) ilişkili lisanslı fotoğraf bulunamadı'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Salih_Dursun_G.S..JPG
-        katman: kisi_genel
-        neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); görselde olmaması gereken unsur var (Galatasaray forması, başka takım forması) — Fotoğrafta yasa
-      - sayfa: https://commons.wikimedia.org/wiki/File:Salih_Dursun_Galatasaray-Trabzonspor.JPG
-        katman: kisi_genel
-        neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); görselde olmaması gereken unsur var (Galatasaray forması, başka takım forması) — Fotoğrafta yasa
-      - sayfa: https://commons.wikimedia.org/wiki/File:Salih_Veysel_Umut.JPG
-        katman: kisi_genel
-        neden: 'habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); görselde olmaması gereken unsur var (Galatasaray forması, başka takım forması); kişi tek başına '
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

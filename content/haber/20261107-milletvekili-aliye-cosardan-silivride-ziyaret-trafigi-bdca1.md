@@ -2,8 +2,8 @@
 title: Milletvekili Aliye Coşar'dan Silivri'de Ziyaret Trafiği
 date: '2026-11-07T19:10:00+03:00'
 ozet: Milletvekili Aliye Coşar, Silivri Cezaevi'nde gerçekleştirdiği ziyaretlerin ardından dayanışma ve birlik mesajı verdi.
-gorsel: /images/haber-gorsel/20261107-milletvekili-aliye-cosardan-silivride-ziyaret-trafigi-bdca1-d5f5cca7.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Yildiz Yazicioglu (VOA) / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -11,22 +11,34 @@ etiketler:
 - Aliye Coşar
 - Silivri Cezaevi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-milletvekili-aliye-cosardan-silivride-ziyaret-trafigi-bdca1-d5f5cca7.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: 023529483db1
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  fotografci: Yildiz Yazicioglu (VOA)
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2020'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2020)
+  gerekce: arşiv kaydı 'tbmm-2' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-2
+    tarih: '2026-11-13T08:46:58+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'habere uygunluk düşük (0/10, en az 6); habere uygunluk düşük (1/10, en az 7); habere uygunluk düşük (2/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; zorunlu unsurlardan hiçbiri görünmüyor: Silivri Cezaevi dış görünümü veya önü'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261107-milletvekili-aliye-cosardan-silivride-ziyaret-trafigi-bdca1-d5f5cca7.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 1280
+  - 720
   dikey: false
   surum: y3
   manset: kaplama
@@ -81,14 +93,13 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-milletvekili-aliye-cosardan-silivride-ziyaret-trafigi-bdca1-d5f5cca7.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
+  o_yan_d: 50% 100%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Yeni Parti Antalya Milletvekili Aliye Coşar, Silivri Cezaevi'ni ziyaret ederek birtakım görüşmeler gerçekleştirdi. Ziyaret kapsamında İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu ile birlikte Fatma Kaplan Hürriyet, Oya Tekin ve Mehmet Necati Yağcı ile bir araya gelindi.
 

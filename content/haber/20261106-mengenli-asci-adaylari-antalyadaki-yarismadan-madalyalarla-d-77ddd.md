@@ -2,8 +2,8 @@
 title: Mengenli aşçı adayları Antalya'daki yarışmadan madalyalarla döndü
 date: '2026-11-06T16:45:02+03:00'
 ozet: Antalya'da gerçekleştirilen gastronomi buluşmasında ter döken liseli öğrenciler, ana yemek ve makarna kategorilerinde üç madalya elde etti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Basak / Wikimedia Commons (CC0)'
+gorsel: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Giorgio Trovato / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -18,38 +18,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  gorsel_url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 736d3eaed97b
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
-  fotografci: Basak
-  lisans: CC0
-  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
-  gosterilen: Tahinli Antalya piyazı
-  cekim_yili: '2024'
-  aciklama: Tahinli Antalya piyazı (temsilî)
-  gerekce: arşiv kaydı 'piyaz' (Tahinli Antalya piyazı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/_XTY6lD8jgM
+  fotografci: Giorgio Trovato
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Kupa
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kupa' (Kupa) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: piyaz
-    tarih: '2026-11-09T13:27:06+03:00'
+    arsiv_id: kupa
+    tarih: '2026-11-13T08:47:03+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: yanıltıcı (başka olay/kişi/kurum izlenimi) — Temsilî yemek hazırlama karesi, yerli öğrenci; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Temsilî aşçılık'
-      notlar: 'Mesleğim Hayatım sayfası aynı haber değil (benzerlik %11); Mengen İlçe Milli Eğitim Müdürlüğü sayfası aynı haber değil (benzerlik %44); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mengen Aşçılar Lisesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Mengen Aşçılar Lisesi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: aşçılık yarışması öğrenciler, yemek yarışması öğrenci)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:US_Navy_100813-N-2389S-042_Culinary_Specialist_2nd_Class_Juan_Carethers_work_with_a_Le_Cordon_Bleu_student_during_the_Le_Cordon_Bleu_cooking_competition_as_part_of_Chicago_Navy_Week.jpg
-        katman: nesne
-        neden: 'yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Temsilî aşçılık görseli ancak ABD askeri rozetleri ve yabancı unsurlar içerdiği için '
-      - sayfa: https://commons.wikimedia.org/wiki/File:%C3%9Cbergl%C3%A4nzen-01.jpg
-        katman: nesne
-        neden: yanıltıcı (başka olay/kişi/kurum izlenimi) — Temsilî yemek hazırlama karesi, yerli öğrencilerin yarışmasıyla doğrudan ilgisi olmadığından yanıltıcıdır.
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -60,8 +51,8 @@ kaynak_url: https://www.sondakika.com/guncel/haber-mengen-ascilar-lisesi-ogrenci
 gorsel_yedek: /images/haber-gorsel/20261106-mengenli-asci-adaylari-antalyadaki-yarismadan-madalyalarla-d--048a056f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1920
-  - 1920
+  - 5282
+  - 3521
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,16 +61,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 80%
-  o_manset_m: 50% 100%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
   o_mansetyan_d: 50% 50%
   o_mansetyan_m: 50% 50%
-  o_yan_d: 50% 72%
-  o_yan_t: 50% 100%
-  o_yan_m: 50% 82%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'da düzenlenen 7. Uluslararası Gastronomi ve Miksoloji Yıldızları Buluşması, farklı ülkelerden yaklaşık 4 bin yarışmacının katılımına sahne oldu. Akdeniz Aşçılar Kulübü tarafından organize edilen etkinlikte, Mengen Aşçılar Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri önemli bir başarıya imza attı.

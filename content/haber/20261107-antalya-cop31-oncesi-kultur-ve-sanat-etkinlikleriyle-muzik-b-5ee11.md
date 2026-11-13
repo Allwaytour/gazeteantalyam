@@ -2,8 +2,8 @@
 title: Antalya, COP31 öncesi kültür ve sanat etkinlikleriyle müzik buluşmalarına ev sahipliği yapıyor
 date: '2026-11-07T15:24:52+03:00'
 ozet: Türkiye'nin ev sahipliğinde düzenlenecek COP31 İklim Zirvesi öncesinde Antalya'da konserler, dans gösterileri ve sergiler müzikseverlerle buluşacak.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+gorsel_kredi: 'Fotoğraf: PinkBeachPlanet / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -17,31 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
   konu_imza: 5168e1c6c32e
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+  fotografci: PinkBeachPlanet
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
-  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot ile eşleşti
+  gosterilen: Konser
+  cekim_yili: '2022'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konser-3' (Konser) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-2
-    tarih: '2026-11-09T13:27:03+03:00'
+    arsiv_id: konser-3
+    tarih: '2026-11-13T08:47:01+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: aşırı karanlık (medyan parlaklık 2, karanlık pay %93); aşırı karanlık (medyan parlaklık 8, karanlık pay %85); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; zorunlu unsurlardan
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -85,24 +84,26 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261107-antalya-cop31-oncesi-kultur-ve-sanat-etkinlikleriyle-muzik-b--03163c76.jpg
 gorsel_yerlesim:
   boyut:
-  - 2927
-  - 4390
-  dikey: true
+  - 6016
+  - 4016
+  dikey: false
   surum: y3
   manset: kaplama
-  yan: false
+  yan: true
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: true
-  o_manset_d: 50% 63%
-  o_manset_m: 50% 70%
-  o_mansetyan_d: 0% 50%
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
   o_mansetyan_m: 50% 50%
-  o_yan_t: 50% 73%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 ---
 Antalya, Birleşmiş Milletler İklim Değişikliği Konferansı öncesinde diplomatik adımların yanı sıra sanat ve müzik programlarıyla da öne çıkıyor. Zirve kapsamında EXPO alanındaki halka açık Yeşil Bölge’de çeşitli konserler, dans gösterileri ve sergiler düzenlenmesi planlanıyor. İklim krizine karşı toplumsal farkındalık oluşturmayı hedefleyen çalışmalar kapsamında sanatçılar da hazırlanan özel projelerle destek veriyor.
 

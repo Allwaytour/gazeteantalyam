@@ -2,28 +2,40 @@
 title: 'Antalya''da ulaşım tarifeleri görüşüldü: Gözler çıkacak kararda'
 date: '2026-11-04T19:03:00+03:00'
 ozet: Antalya'da şoför esnafının temsilcileri ve belediye yönetimi bir araya gelerek ulaşım maliyetleri ve tarifeleri masaya yatırdı.
-gorsel: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
+gorsel_kredi: 'Fotoğraf: Ilya Plekhanov / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
   konu_imza: 8c02ac069380
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_bus_01.jpg
+  fotografci: Ilya Plekhanov
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya'da belediye otobüsü
+  cekim_yili: '2014'
+  aciklama: Antalya'da belediye otobüsü — Arşiv fotoğrafı (2014)
+  gerekce: arşiv kaydı 'otobus' (Antalya'da belediye otobüsü) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: otobus
+    tarih: '2026-11-13T08:47:18+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: büyük filigran ya da görüntüye gömülü yazı; gerçek fotoğraf değil (cizim); gerçek fotoğraf değil (harita_logo_belge); habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (6/10, en az 7); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; tarihî/siyah-be
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,8 +83,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2000
+  - 1333
   dikey: false
   surum: y3
   manset: kaplama
@@ -81,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalyada-ulasim-tarifeleri-gorusuldu-gozler-cikacak-kararda--bfc941c7.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
 ---
 Antalya'da şoför esnafının oda başkanları ile büyükşehir belediyesi yönetimi bir araya gelerek kentteki ulaşım sektörüyle ilgili sorunları görüştü. Gerçekleşen toplantıda, ulaşım hizmetlerinin sürdürülebilirliği ile vatandaşların ekonomik durumları ele alındı.
 

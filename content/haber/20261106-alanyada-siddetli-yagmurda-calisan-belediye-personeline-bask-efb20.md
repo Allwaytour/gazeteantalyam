@@ -2,8 +2,8 @@
 title: Alanya'da şiddetli yağmurda çalışan belediye personeline Başkan Özçelik'ten teşekkür
 date: '2026-11-06T18:32:36+03:00'
 ozet: Alanya'da olumsuz hava koşullarında görevini aksatmayan belediye emekçileri, Belediye Başkanı Osman Tarık Özçelik tarafından ağırlandı.
-gorsel: /images/haber-gorsel/20261106-alanyada-siddetli-yagmurda-calisan-belediye-personeline-bask--33783b10.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Joy Stamp / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,30 +12,34 @@ etiketler:
 - Osman Tarık Özçelik
 - Alanya Belediyesi
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyada-siddetli-yagmurda-calisan-belediye-personeline-bask--33783b10.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 9b40d8add9e1
+  kaynak_sayfa: https://unsplash.com/photos/pGQbWXBC1dA
+  fotografci: Joy Stamp
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-3' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-3
+    tarih: '2026-11-13T08:47:09+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Osman Tarık Özçelik'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Park_near_Belediyesi_building_4025.jpg
-        katman: kurum
-        neden: 'habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); görselde olmaması gereken unsur '
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Castel_Ehmedek_Sand%C4%B1k_Emini_Kayhanlar_House_5708.jpg
-        katman: kurum
-        neden: 'habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); görselde olmaması gereken unsur '
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -46,8 +50,8 @@ kaynak_url: https://hibya.com/alanyada-belediye-emekcilerine-baskan-ozcelikten-t
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-siddetli-yagmurda-calisan-belediye-personeline-bask--33783b10.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4320
+  - 2432
   dikey: false
   surum: y3
   manset: kaplama
@@ -56,14 +60,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyada-siddetli-yagmurda-calisan-belediye-personeline-bask--33783b10.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da etkili olan şiddetli sağanak yağışa rağmen görevlerini sürdüren belediye personeli, zorlu hava koşullarında çöp toplama hizmetini aksatmadan yerine getirdi. Avsallar Mahallesi'ndeki çalışmalarıyla dikkat çeken personelin özverili davranışı üzerine Alanya Belediye Başkanı Osman Tarık Özçelik, çalışanları makamında konuk etti.
 

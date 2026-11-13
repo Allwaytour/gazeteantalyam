@@ -2,29 +2,40 @@
 title: Tosmur Muhtarı Yakup Gündoğan'dan Altyapı Tepkisi
 date: '2026-11-05T10:37:00+03:00'
 ozet: Alanya'nın Tosmur Mahallesi'nde yaşanan su baskını sonrası Muhtar Yakup Gündoğan, yapılan altyapı çalışmalarının yetersiz kaldığını belirterek kalıcı çözüm çağrısında bulundu.
-gorsel: /images/haber-gorsel/20261105-tosmur-muhtari-yakup-gundogandan-altyapi-tepkisi-b0905-01ec8db9.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Michael Evans / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-tosmur-muhtari-yakup-gundogandan-altyapi-tepkisi-b0905-01ec8db9.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 397a1cae77b7
+  kaynak_sayfa: https://unsplash.com/photos/_P-hKe5H_o4
+  fotografci: Michael Evans
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yol çalışması
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yol-calismasi-2' (Yol çalışması) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yol-calismasi-2
+    tarih: '2026-11-13T08:47:10+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yakup Gündoğan'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Tosmur Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''To'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yakup Gündoğan'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Tosmur Mahallesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Tosmur Mahallesi'' için konuyla (flooded street, rainwater drainage, puddle) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +47,8 @@ baslik_ozgun: TOSMUR MUHTARI YAKUP GÜNDOĞAN'DAN ALTYAPI TEPKİSİ
 gorsel_yedek: /images/haber-gorsel/20261105-tosmur-muhtari-yakup-gundogandan-altyapi-tepkisi-b0905-01ec8db9.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-tosmur-muhtari-yakup-gundogandan-altyapi-tepkisi-b0905-01ec8db9.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'nın Tosmur Mahallesi'nde etkili olan yağışlar, bölgedeki yağmur suyu altyapısı sorununu yeniden gün yüzüne çıkardı. Mahallede bir sokakta meydana gelen su birikintileri üzerine tepkisini dile getiren Tosmur Mahalle Muhtarı Yakup Gündoğan, daha önce gerçekleştirilen drenaj çalışmalarının sorunu çözmekte yetersiz kaldığını ifade etti.
 

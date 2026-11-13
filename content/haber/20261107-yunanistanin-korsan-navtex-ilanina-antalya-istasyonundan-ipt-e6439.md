@@ -2,8 +2,8 @@
 title: Yunanistan'ın korsan NAVTEX ilanına Antalya İstasyonu'ndan iptal
 date: '2026-11-07T13:57:35+03:00'
 ozet: Yunanistan'ın Türk kıta sahanlığında izinsiz araştırma yapmak için yayımladığı NAVTEX ilanı Antalya İstasyonu tarafından iptal edildi.
-gorsel: /images/haber-gorsel/20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt--70782f41.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nk Ni / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
@@ -12,23 +12,34 @@ etiketler:
 - Dışişleri Bakanlığı
 - Millî Savunma Bakanlığı
 onem: 5
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt--70782f41.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 3460355d6911
+  kaynak_sayfa: https://unsplash.com/photos/W5vykqNk9wY
+  fotografci: Nk Ni
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Akdeniz
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'deniz-1' (Akdeniz) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: deniz-1
+    tarih: '2026-11-13T08:46:58+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): belirli bir yabancı yük gemisi (CNAN MED); haberde gemi yok, olayın gemisi sanılır'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -177,8 +188,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt--70782f41.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6240
+  - 4160
   dikey: false
   surum: y3
   manset: kaplama
@@ -187,14 +198,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-yunanistanin-korsan-navtex-ilanina-antalya-istasyonundan-ipt--70782f41.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 ---
 Yunanistan ve Fransa ortaklığındaki Girit-Kıbrıs hattı projesi kapsamında planlanan deniz dibi taraması girişimi, Türkiye'nin kararlı tutumuyla karşılaştı. Türk kıta sahanlığında izinsiz elektrik kablo araştırması yapmak amacıyla yayımlanan NAVTEX ilanı, Antalya İstasyonu tarafından geçersiz kılındı. Fransa bayraklı bir gemiyle yapılması planlanan ve rotasının büyük bölümü Türkiye'nin deniz yetki alanlarında kalan faaliyet için Ankara'dan herhangi bir izin talebinde bulunulmadığı bildirildi.
 

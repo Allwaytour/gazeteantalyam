@@ -2,8 +2,8 @@
 title: Alanya yabancıya konut satışında zirvede
 date: '2026-11-11T23:19:11+03:00'
 ozet: Antalya genelinde yılın ilk 9 ayında yabancılara yapılan konut satışlarının üçte ikisi Alanya'da gerçekleşti.
-gorsel: /images/haber-gorsel/20261111-alanya-yabanciya-konut-satisinda-zirvede-4ada0-2df9697d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
+gorsel_kredi: 'Fotoğraf: Lgalanya123 / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Türkiye İstatistik Kurumu
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-alanya-yabanciya-konut-satisinda-zirvede-4ada0-2df9697d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
   konu_imza: eb81c6270c9f
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_Mahmutlar.JPG
+  fotografci: Lgalanya123
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Alanya'da konutlar
+  cekim_yili: '2014'
+  aciklama: Alanya Mahmutlar — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'konut-alanya' (Alanya'da konutlar) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konut-alanya
+    tarih: '2026-11-13T08:46:29+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.alanyagazetesi.com.tr/yabanciya-konut-satisinda-alanya-t
 gorsel_yedek: /images/haber-gorsel/20261111-alanya-yabanciya-konut-satisinda-zirvede-4ada0-2df9697d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3264
+  - 2448
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-alanya-yabanciya-konut-satisinda-zirvede-4ada0-2df9697d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
+gorsel_gecmis: []
 ---
 Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre, yılın ilk dokuz ayında Antalya genelinde yabancı uyruklu kişilere toplam 4 bin 693 konut satışı yapıldı. Kent genelindeki satışlarda geçen yılın aynı dönemine kıyasla yüzde 6,53 oranında bir düşüş yaşanırken, Antalya Türkiye genelinde en çok konut satılan ikinci il olmayı sürdürdü. Ülke genelinde ise aynı dönemde yabancılara toplam 15 bin 308 konut satıldığı kaydedildi.
 

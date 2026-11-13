@@ -2,8 +2,8 @@
 title: 'Antalya''da uzmanından çağrı: Epilepsi hastaları iş bulmakta zorlanıyor'
 date: '2026-11-01T10:18:00+03:00'
 ozet: 1-30 Kasım Epilepsi Farkındalık Ayı kapsamında açıklamalarda bulunan uzmanlar, epilepsi hastalarının iş hayatında karşılaştığı ön yargılara ve istihdam sorunlarına dikkat çekti.
-gorsel: /images/haber-gorsel/20261101-antalyada-uzmanindan-cagri-epilepsi-hastalari-is-bulmakta-zo--09492d02.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Etactics Inc / Unsplash'
 gorsel_v4: true
 kategoriler:
 - Sağlık
@@ -17,22 +17,38 @@ yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-epilepsi-uyarisi-hastalar-is-bulmakta-zorlaniyor
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-uzmanindan-cagri-epilepsi-hastalari-is-bulmakta-zo--09492d02.jpg
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-uzmanindan-cagri-epilepsi-hastalari-is-bulmakta-zo--09492d02.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 4a6fd13c1c91
+  kaynak_sayfa: https://unsplash.com/photos/g3PsF4_y7ZY
+  fotografci: Etactics Inc
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sağlık
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'saglik' (Sağlık) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: saglik
+    tarih: '2026-11-13T08:47:36+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
-  onceki_durum: {}
+  onceki_durum:
+    tur: tipografik
+    durum: onaylandi
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5108
+  - 3405
   dikey: false
   surum: y3
   manset: kaplama
@@ -41,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-uzmanindan-cagri-epilepsi-hastalari-is-bulmakta-zo--09492d02.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Türkiye genelinde yaklaşık bir milyon epilepsi hastası bulunduğu belirtilirken, bu kişilerin nöbetleri kontrol altında olsa bile çalışma hayatında ciddi engellerle karşılaştığı ifade edildi. Herkes gibi üretmek ve hayata katılmak isteyen hastaların, sahip oldukları yeteneklere rağmen iş yaşamının dışında bırakıldığına vurgu yapıldı. Uzmanlar, doğru bilgilendirme ve atılacak makul adımlarla bu engellerin aşılabileceğini belirtti.
 

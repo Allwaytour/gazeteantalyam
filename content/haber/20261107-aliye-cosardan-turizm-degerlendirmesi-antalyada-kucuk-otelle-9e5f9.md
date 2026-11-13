@@ -2,8 +2,8 @@
 title: 'Aliye Coşar''dan Turizm Değerlendirmesi: Antalya''da Küçük Oteller Kapanma Noktasında'
 date: '2026-11-07T13:22:00+03:00'
 ozet: YENİ Parti Antalya Milletvekili Aliye Coşar, TBMM'deki bütçe görüşmelerinde turizm sektörünün sorunlarını dile getirdi. Antalya'da küçük otellerin kapanma noktasına geldiğini belirtti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: FingerWiki / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -18,32 +18,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  sinif: tesis
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: cc221122ff55
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
-  fotografci: FingerWiki
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Konyaaltı Sahili ve Beydağları
-  cekim_yili: '2023'
-  aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
-  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2022'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'tbmm-1' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: antalya-konyaalti
-    tarih: '2026-11-09T13:27:03+03:00'
+    arsiv_id: tbmm-1
+    tarih: '2026-11-13T08:47:01+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: mikrofon/kürsü gibi genel dolgu görseli
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -180,8 +178,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261107-aliye-cosardan-turizm-degerlendirmesi-antalyada-kucuk-otelle--3f099e12.jpg
 gorsel_yerlesim:
   boyut:
-  - 4080
-  - 3072
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -199,7 +197,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 YENİ Parti Antalya Milletvekili Aliye Coşar, Türkiye Büyük Millet Meclisi Kültür ve Turizm Bakanlığı bütçesi üzerine yaptığı konuşmada, turizm sektörünün karşı karşıya olduğu sorunları gündeme taşıdı. Coşar, açıklanan ziyaretçi ve gelir rakamlarının sektörün gerçek durumunu yansıtmadığını, artan maliyetler ve vergiler nedeniyle turizm işletmeleri ile emekçilerin zorlandığını ifade etti.
 

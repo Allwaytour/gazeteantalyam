@@ -2,8 +2,8 @@
 title: Serik'teki Caretta Caretta Yuvaları Uluslararası Konferansta
 date: '2026-11-10T13:37:00+03:00'
 ozet: Yunanistan'da düzenlenen 8'inci Akdeniz Deniz Kaplumbağaları Konferansı'nda, Antalya'nın Serik ilçesindeki Belek kumsalında yürütülen koruma çalışmaları uluslararası kamuoyuna tanıtılıyor.
-gorsel: /images/haber-gorsel/20261110-serikteki-caretta-caretta-yuvalari-uluslararasi-konferansta-d-9a11e854.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: ukanda / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Ali Fuat Canbolat
 - EKAD
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-serikteki-caretta-caretta-yuvalari-uluslararasi-konferansta-d-9a11e854.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 26d4c9f32134
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg
+  fotografci: ukanda
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Caretta caretta
+  cekim_yili: '2006'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'caretta' (Caretta caretta) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: caretta
+    tarih: '2026-11-13T08:46:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/serik/2-bin-300-caretta-caretta-yuv
 gorsel_yedek: /images/haber-gorsel/20261110-serikteki-caretta-caretta-yuvalari-uluslararasi-konferansta-d-9a11e854.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3008
+  - 2000
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-serikteki-caretta-caretta-yuvalari-uluslararasi-konferansta-d-9a11e854.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 50% 100%
+  o_manset_m: 100% 50%
+  o_mansetyan_d: 68% 50%
+  o_mansetyan_m: 68% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 100% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 91%
+  o_kart_p: 70% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Akdeniz'in farklı ülkelerinden bilim insanları ve uzmanlar, deniz kaplumbağalarının korunması amacıyla Yunanistan'ın başkenti Atina yakınlarındaki Marathon bölgesinde bir araya geldi. Sekizincisi gerçekleştirilen Akdeniz Deniz Kaplumbağaları Konferansı, yirmi ülkeden ikiyüz kırk araştırmacı ve çevre kuruluşu temsilcisinin katılımıyla sürdürülüyor. Beş gün süren programda, bölgedeki deniz kaplumbağalarının geleceği, yuvalama alanlarının korunması ve turizm faaliyetlerinin etkileri masaya yatırılıyor.
 

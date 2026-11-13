@@ -32,18 +32,20 @@ gorsel_secim:
   gosterilen: Antalya Stadyumu
   cekim_yili: '2015'
   aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-cd9201
-    tarih: '2026-11-09T13:27:19+03:00'
+    tarih: '2026-11-13T08:47:36+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: arsiv
+    durum: onaylandi
 gorsel_yedek: /images/haber-gorsel/20261101-antalyaspor-deplasmandaki-sanssizligini-kasimpasa-maciyla-ki--74d7c8a3.jpg
 gorsel_yerlesim:
   boyut:

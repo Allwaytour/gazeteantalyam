@@ -2,27 +2,39 @@
 title: Antalya'da düzenlenen muaythai şampiyonasında madalya sevinci
 date: '2026-11-05T10:09:08+03:00'
 ozet: Bilecikli muaythai sporcuları, Antalya'daki 29 Ekim Cumhuriyet Kupası'ndan 1 altın ve 2 gümüş madalya ile döndü.
-gorsel: /images/haber-gorsel/20261105-antalyada-duzenlenen-muaythai-sampiyonasinda-madalya-sevinci--f0e0e237.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nguyen Hung / Unsplash'
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-antalyada-duzenlenen-muaythai-sampiyonasinda-madalya-sevinci--f0e0e237.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 848237ab2e8b
+  kaynak_sayfa: https://unsplash.com/photos/FktPF6cwIWo
+  fotografci: Nguyen Hung
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Dövüş sporları
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'dovus' (Dövüş sporları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: dovus
+    tarih: '2026-11-13T08:47:13+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: aşırı karanlık (medyan parlaklık 40, karanlık pay %54); aşırı karanlık (medyan parlaklık 48, karanlık pay %52)
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -129,8 +141,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-antalyada-duzenlenen-muaythai-sampiyonasinda-madalya-sevinci--f0e0e237.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5649
+  - 3766
   dikey: false
   surum: y3
   manset: kaplama
@@ -139,14 +151,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-antalyada-duzenlenen-muaythai-sampiyonasinda-madalya-sevinci--f0e0e237.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1656653121475-e33829581294?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın ev sahipliğinde gerçekleştirilen 29 Ekim Cumhuriyet Kupası Muaythai Şampiyonası, kıyasıya mücadelelere sahne oldu. Şampiyonada farklı yaş ve kilo gruplarında ter döken Bilecikli sporcular, başarılı sonuçlar elde ederek kürsüye çıkmayı başardı.
 

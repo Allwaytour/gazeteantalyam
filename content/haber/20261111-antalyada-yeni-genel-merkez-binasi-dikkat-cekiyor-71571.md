@@ -1,8 +1,8 @@
 ---
-title: Antalya'da yeni genel merkez binasi dikkat cekiyor
+title: Antalya'da yeni genel merkez binası dikkat cekiyor
 date: '2026-11-11T13:32:18+03:00'
 ozet: Kepez'deki Çevreyolu üzerinde yer alan Sayın Antalya Genel Merkez Binası, mevcut bir yapının dönüştürülmesiyle modern bir ofis olarak tasarlandı.
-gorsel: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-d1a62446.jpg
+gorsel: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-850f99a2.jpg
 gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
@@ -15,20 +15,17 @@ onem: 3
 gorsel_tur: tipografik
 gorsel_secim:
   tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-d1a62446.jpg
+  gorsel_url: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-850f99a2.jpg
   konu_imza: 0ce98c87fe60
   durum: onaylandi
-  hat: t1
+  hat: t2
   gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
   aciklama: ''
   kural_denetim: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,7 +33,7 @@ otomatik: true
 yz: true
 kaynak: Arkitera
 kaynak_url: https://www.arkitera.com/proje/sayin-antalya-genel-merkez-binasi/
-gorsel_yedek: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-d1a62446.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-850f99a2.jpg
 gorsel_yerlesim:
   boyut:
   - 1200
@@ -50,13 +47,14 @@ gorsel_yerlesim:
   kart_portre: false
   yan_portre: false
   tipografik: true
-  url: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-d1a62446.jpg
+  url: /images/haber-gorsel/20261111-antalyada-yeni-genel-merkez-binasi-dikkat-cekiyor-71571-850f99a2.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+baslik_ozgun: Antalya'da yeni genel merkez binasi dikkat cekiyor
 ---
 Antalya'nın Kepez bölgesinde, kentin önemli ulaşım akslarından biri olan Çevreyolu üzerinde konumlanan Sayın Antalya Genel Merkez Binası, mevcut bir yapının çekirdeği korunarak yeniden ele alındı. Proje, modern ofis tipolojisini doğal malzemenin zamansız karakteriyle harmanlayarak büyüyen kurumsal yapının ihtiyaçlarına cevap veriyor. Yapının tasarımında bölgenin iklimsel verileriyle uyumlu, kurumsal kimliği yansıtan bir duruş ve yerel kaynakların mimari estetikle bütünleşmesi hedeflendi.
 

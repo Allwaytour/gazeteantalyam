@@ -2,28 +2,39 @@
 title: Antalya'da Isıtma Sezonu Öncesi Kazan Bakımı Uyarısı
 date: '2026-11-02T16:42:45+03:00'
 ozet: Makina Mühendisleri Odası Antalya Şube Başkanı Devrim Kılıç, kış mevsimi yaklaşırken merkezi ısıtma kazanlarının bakım ve kontrollerinin aksatılmaması gerektiğini belirtti.
-gorsel: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Anton Nikiforov / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Yaşam
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
   konu_imza: 02c783a6b90a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
+  fotografci: Anton Nikiforov
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  gosterilen: Antalya
+  cekim_yili: ''
+  aciklama: Antalya — Arşiv fotoğrafı
+  gerekce: 'arşiv kaydı ''ilce-muratpasa-3'' (Antalya) yerel haber: ilçenin kendi fotoğrafı'
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-muratpasa-3
+    tarih: '2026-11-13T08:47:32+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,8 +82,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3456
+  - 2304
   dikey: false
   surum: y3
   manset: kaplama
@@ -81,14 +92,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalyada-isitma-sezonu-oncesi-kazan-bakimi-uyarisi-e786f-3c25bfba.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
 ---
 Kış mevsiminin yaklaşmasıyla birlikte konutlarda ısıtma sezonu açılırken, yaz boyunca çalıştırılmayan kalorifer kazanlarının yeniden devreye alınmadan önce bakım ve kontrollerden geçirilmesi gerektiği bildirildi. Isıtma sistemlerinin güvenli kullanımı ve enerji tasarrufu açısından düzenli bakımın büyük önem taşıdığı ifade edildi.
 

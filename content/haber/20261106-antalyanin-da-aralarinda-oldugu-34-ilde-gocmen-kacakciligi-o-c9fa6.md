@@ -2,8 +2,8 @@
 title: Antalya'nın da aralarında olduğu 34 ilde göçmen kaçakçılığı operasyonu
 date: '2026-11-06T11:56:24+03:00'
 ozet: İçişleri Bakanlığı koordinesinde Antalya dahil 34 ilde düzenlenen göçmen kaçakçılığı operasyonlarında çok sayıda şüpheli yakalandı.
-gorsel: /images/haber-gorsel/20261106-antalyanin-da-aralarinda-oldugu-34-ilde-gocmen-kacakciligi-o--c4645910.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/26/Turkish_Coast_Guard_Boat.jpg
+gorsel_kredi: 'Fotoğraf: UcuncuUlus / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler: []
@@ -11,22 +11,34 @@ etiketler:
 - Jandarma Genel Komutanlığı
 - İçişleri Bakanlığı
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-antalyanin-da-aralarinda-oldugu-34-ilde-gocmen-kacakciligi-o--c4645910.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/26/Turkish_Coast_Guard_Boat.jpg
   konu_imza: e56787ba86e0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_Coast_Guard_Boat.jpg
+  fotografci: UcuncuUlus
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Sahil Güvenlik
+  cekim_yili: '2021'
+  aciklama: Sahil Güvenlik botu — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sahil-guvenlik-1' (Sahil Güvenlik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sahil-guvenlik-1
+    tarih: '2026-11-13T08:47:06+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 8); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +52,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261106-antalyanin-da-aralarinda-oldugu-34-ilde-gocmen-kacakciligi-o--c4645910.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4624
+  - 3472
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +62,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-antalyanin-da-aralarinda-oldugu-34-ilde-gocmen-kacakciligi-o--c4645910.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/26/Turkish_Coast_Guard_Boat.jpg
+gorsel_gecmis: []
 ---
 Ülke genelinde göçmen kaçakçılığı ve insan ticaretiyle mücadele çalışmaları aralıksız sürdürülüyor. Bu kapsamda, Jandarma Genel Komutanlığı Göçmen Kaçakçılığı ve İnsan Ticareti ile Mücadele Daire Başkanlığı öncülüğünde, İl Jandarma Komutanlıkları tarafından 34 ilde eş zamanlı operasyonlar düzenlendi.
 

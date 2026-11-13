@@ -3,7 +3,7 @@ title: İYİ Parti’den Altıntaş İmar Raporuna Destek
 date: '2026-11-06T11:44:00+03:00'
 ozet: İYİ Parti Antalya İl Başkanlığı, ATSO’nun Altıntaş bölgesindeki imar sorunlarına ilişkin hazırladığı raporu desteklediklerini duyurdu.
 gorsel: /images/haber-gorsel/logo-iyiparti-logo.jpg
-gorsel_kredi: 'Logo: İYİ Parti / Wikimedia Commons (Public domain)'
+gorsel_kredi: 'Görsel: İYİ Parti / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -27,32 +27,20 @@ gorsel_secim:
   gosterilen: İYİ Parti logosu
   cekim_yili: '2018'
   aciklama: İYİ Parti logosu
-  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-09T13:27:06+03:00'
+    tarih: '2026-11-13T08:47:04+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '3 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Berkay Bahar'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ali Adnan Kaya'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''IYI Parti Antalya Il Baskanligi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Simo_Atso_at_Barbar_Feast_2022.jpg
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:ATSO_Rodeo_at_Mildenhall_(6970180).jpg
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg
-        katman: yer_konu
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

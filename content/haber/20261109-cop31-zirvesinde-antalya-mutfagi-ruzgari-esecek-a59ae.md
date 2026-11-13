@@ -3,7 +3,7 @@ title: COP31 Zirvesi'nde Antalya Mutfağı Rüzgarı Esecek
 date: '2026-11-09T01:23:13+03:00'
 ozet: Antalya'da düzenlenecek COP31 zirvesinde, kentin yöresel lezzetleri modern dokunuşlarla dünya liderlerine sunulacak.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Basak / Wikimedia Commons (CC0)'
+gorsel_kredi: 'Fotoğraf: Basak / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -25,22 +25,20 @@ gorsel_secim:
   gosterilen: Tahinli Antalya piyazı
   cekim_yili: '2024'
   aciklama: Tahinli Antalya piyazı (temsilî)
-  gerekce: arşiv kaydı 'piyaz' (Tahinli Antalya piyazı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'piyaz' (Tahinli Antalya piyazı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: piyaz
-    tarih: '2026-11-09T13:27:00+03:00'
+    tarih: '2026-11-13T08:46:46+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

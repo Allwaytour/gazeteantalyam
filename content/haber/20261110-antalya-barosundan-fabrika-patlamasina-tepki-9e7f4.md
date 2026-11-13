@@ -2,8 +2,8 @@
 title: Antalya Barosu'ndan fabrika patlamasina tepki
 date: '2026-11-10T11:22:00+03:00'
 ozet: Antalya Barosu, İzmir'deki demir-çelik fabrikasında meydana gelen patlamanın ardından açıklama yaparak yaşananların iş cinayeti olduğunu belirtti.
-gorsel: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-ee79a574.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+gorsel_kredi: 'Fotoğraf: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Asayiş
 ilceler: []
@@ -11,23 +11,34 @@ etiketler:
 - Antalya Barosu
 - HABAŞ Demir-Çelik Fabrikası
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-ee79a574.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
   konu_imza: f758a93d7998
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Isuzu_fire_engine_in_Antalya.jpg
+  fotografci: Joe Wallace
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
+  gosterilen: İtfaiye
+  cekim_yili: '2022'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'itfaiye-1' (İtfaiye) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: itfaiye-1
+    tarih: '2026-11-13T08:46:42+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/antalya-barosundan-is-cinayeti-cik
 gorsel_yedek: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-ee79a574.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4608
+  - 2592
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-ee79a574.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+gorsel_gecmis: []
 ---
 İzmir'in Aliağa ilçesinde bulunan bir demir-çelik fabrikasında bakım çalışması sırasında tavan vincinin kopmasıyla şiddetli bir patlama yaşandı. Olayın ardından fabrikada yangın çıkarken bazı bölümlerde çökmeler meydana geldi. Faciada çok sayıda işçi hayatını kaybederken, yaralananlar hastanelere sevk edildi ve olayla ilgili soruşturma başlatıldı.
 

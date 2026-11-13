@@ -2,28 +2,40 @@
 title: Antalya'da artan eğitim maliyetleri aileleri zorluyor
 date: '2026-11-03T15:44:39+03:00'
 ozet: Saadet Partisi Antalya İl Başkanı Mehmet Tekin, yükselen eğitim masraflarının ailelerin bütçesini sarstığını belirterek fırsat eşitliği çağrısında bulundu.
-gorsel: /images/haber-gorsel/20261103-antalyada-artan-egitim-maliyetleri-aileleri-zorluyor-91e12-4ce096c2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-saadet-logo.jpg
+gorsel_kredi: 'Görsel: Saadet Partisi Siyasal İletişim Ofisi / Wikimedia Commons (CC0)'
 kategoriler:
 - Eğitim
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalyada-artan-egitim-maliyetleri-aileleri-zorluyor-91e12-4ce096c2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-saadet-logo.jpg
   konu_imza: 4d85d4afeee8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Saadet_Partisi_Kare_Logo.svg
+  fotografci: Saadet Partisi Siyasal İletişim Ofisi
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Saadet Partisi
+  cekim_yili: '2024'
+  aciklama: Saadet Partisi logosu
+  gerekce: arşiv kaydı 'saadet-logo' (Saadet Partisi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: saadet-logo
+    tarih: '2026-11-13T08:47:27+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Mehmet Tekin'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,14 +56,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalyada-artan-egitim-maliyetleri-aileleri-zorluyor-91e12-4ce096c2.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-saadet-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Saadet Partisi Antalya İl Başkanı Mehmet Tekin, artan eğitim giderlerinin aileler üzerindeki ekonomik yüküne dikkat çekerek çocukların eğitim ihtiyaçlarının ağır bir geçim mücadelesine dönüşmemesi gerektiğini vurguladı. Eğitimin anayasal güvence altında temel bir hak olduğunu belirten Tekin, çocukların gündeminde ekonomik kaygılar yerine dersler ve geleceğe ilişkin hayallerin yer alması gerektiğini ifade etti.
 

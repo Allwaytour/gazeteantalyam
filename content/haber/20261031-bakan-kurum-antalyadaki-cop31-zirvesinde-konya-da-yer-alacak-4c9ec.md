@@ -34,22 +34,20 @@ gorsel_secim:
   gosterilen: Murat Kurum
   cekim_yili: '2023'
   aciklama: Murat Kurum — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kisi-69b99e' (Murat Kurum) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kisi-69b99e' (Murat Kurum) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kisi-69b99e
-    tarih: '2026-11-09T13:27:20+03:00'
+    tarih: '2026-11-13T08:47:41+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg/1280px-Varuna_Gezgin_Cafe%2C_Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_Feb_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'

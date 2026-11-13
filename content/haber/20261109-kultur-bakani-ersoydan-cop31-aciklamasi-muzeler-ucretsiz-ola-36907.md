@@ -2,8 +2,8 @@
 title: 'Kültür Bakanı Ersoy''dan COP31 açıklaması: Müzeler ücretsiz olacak'
 date: '2026-11-09T13:04:37+03:00'
 ozet: Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'nın ev sahipliği yapacağı COP31 süresince resmi heyet katılımcılarının bakanlığa bağlı müze ve ören yerlerini ücretsiz gezeceğini açıkladı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: The President''s Office, Maldives / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -18,32 +18,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: tesis
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: f3cb5ecfc96e
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Dancing_Woman_Antalya_Museum_P9281518.jpg
-  fotografci: Joe Wallace
-  lisans: CC BY-SA 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
-  gosterilen: Antalya Arkeoloji Müzesi sergi salonu
-  cekim_yili: '2022'
-  aciklama: Antalya Arkeoloji Müzesi sergi salonu (2022)
-  gerekce: arşiv kaydı 'muze-ic' (Antalya Arkeoloji Müzesi sergi salonu) başlık/spot ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Mehmet_Nuri_Ersoy_in_November_2023.jpg
+  fotografci: The President's Office, Maldives
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Mehmet Nuri Ersoy
+  cekim_yili: ''
+  aciklama: Mehmet Nuri Ersoy — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kisi-b1c930' (Mehmet Nuri Ersoy) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: muze-ic
-    tarih: '2026-11-09T13:47:52+03:00'
+    arsiv_id: kisi-b1c930
+    tarih: '2026-11-13T08:46:45+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,26 +52,20 @@ kaynak_url: https://www.sondakika.com/guncel/haber-kultur-bakani-ersoy-cop31-de-
 gorsel_yedek: /images/haber-gorsel/20261109-kultur-bakani-ersoydan-cop31-aciklamasi-muzeler-ucretsiz-ola--a0e8768a.jpg
 gorsel_yerlesim:
   boyut:
-  - 3706
-  - 2965
-  dikey: false
+  - 1272
+  - 1813
+  dikey: true
   surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
+  manset: yan
+  yan: false
+  kart: false
   detay: true
-  kart_portre: false
-  yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 50% 100%
-  o_mansetyan_d: 55% 50%
-  o_mansetyan_m: 55% 50%
-  o_yan_d: 50% 85%
-  o_yan_t: 50% 100%
-  o_yan_m: 50% 100%
-  o_kart: 50% 50%
-  o_kart_p: 56% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 0%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
 ---
 Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye'nin uluslararası organizasyon kapasitesini, sürdürülebilir turizm çalışmalarını ve kültürel zenginliğini geniş bir programla uluslararası katılımcılara tanıtacaklarını belirtti. Ersoy, Antalya'nın ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı süresince resmi heyet katılımcılarının bakanlığa bağlı müze ve ören yerlerini ücretsiz ziyaret edebileceğini bildirdi.

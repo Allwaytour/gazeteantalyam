@@ -2,29 +2,40 @@
 title: Alanya'da 32 Yaşındaki Mimar Serkan Dere Kalp Krizi Sonucu Hayatını Kaybetti
 date: '2026-11-05T17:43:00+03:00'
 ozet: Alanya'da mobilya imalatçısı ve iç mimar Serkan Dere, henüz 40 günlük baba iken geçirdiği kalp krizi sonucu yaşamını yitirdi.
-gorsel: /images/haber-gorsel/20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha--3581edea.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Mitchel Boot / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha--3581edea.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 120d3b45c7b2
+  kaynak_sayfa: https://unsplash.com/photos/PM96qlpCrPA
+  fotografci: Mitchel Boot
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Taziye
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'vefat-1' (Taziye) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: vefat-1
+    tarih: '2026-11-13T08:47:14+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
-      notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Cikcilli Hacıbaba Mezarlığı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ baslik_ozgun: ALANYA'DA 32 YAŞINDAKİ MİMAR SERKAN DERE KALP KRİZİ SONUCU HA
 gorsel_yedek: /images/haber-gorsel/20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha--3581edea.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3840
+  - 1634
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-alanyada-32-yasindaki-mimar-serkan-dere-kalp-krizi-sonucu-ha--3581edea.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  url: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya, genç bir ismin ani ölümüyle yasa boğuldu. Bayır Mahallesi'nde ikamet eden 32 yaşındaki iç mimar ve mobilya fabrikası sahibi Serkan Dere, evinde geçirdiği kalp krizi sonucu hayatını kaybetti. Kısa süre önce baba olma sevincini yaşayan Dere'nin vefatı, ailesi ve sevenleri arasında büyük bir üzüntüye yol açtı.
 

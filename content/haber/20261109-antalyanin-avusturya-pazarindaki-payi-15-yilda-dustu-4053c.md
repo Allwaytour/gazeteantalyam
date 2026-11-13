@@ -1,9 +1,9 @@
 ---
-title: Antalya'nin Avusturya pazarindaki payi 15 yilda dustu
+title: Antalya'nin Avusturya pazarındaki payı 15 yılda düştü
 date: '2026-11-09T17:09:00+03:00'
 ozet: Akdeniz Turistik Otelciler ve İşletmeciler Birliği'nin analizine göre, Antalya'nın Avusturya pazarındaki payı son 15 yılda yüzde 25'ten fazla azaldı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/4/47/Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Abdullah Kıyga / Wikimedia Commons (CC BY 3.0)'
+gorsel_kredi: 'Fotoğraf: Abdullah Kıyga / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -27,22 +27,20 @@ gorsel_secim:
   gosterilen: Antalya'da bir otel
   cekim_yili: '2016'
   aciklama: Antalya Lara'da bir otel (temsilî)
-  gerekce: arşiv kaydı 'otel-lara' (Antalya'da bir otel) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'otel-lara' (Antalya'da bir otel) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: otel-lara
-    tarih: '2026-11-09T17:36:16+03:00'
+    tarih: '2026-11-13T08:46:47+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,7 +48,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/turkiyede-avusturyali-turist-artarken-antalya-yuzde-25-kayip-yasadi
-gorsel_yedek: /images/haber-gorsel/20261109-antalyanin-avusturya-pazarindaki-payi-15-yilda-dustu-4053c-0118439a.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-antalyanin-avusturya-pazarindaki-payi-15-yilda-dustu-4053c-4987b63a.jpg
 gorsel_yerlesim:
   boyut:
   - 2048
@@ -74,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 56% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/4/47/Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
 gorsel_gecmis: []
+baslik_ozgun: Antalya'nin Avusturya pazarindaki payi 15 yilda dustu
 ---
 Akdeniz Turistik Otelciler ve İşletmeciler Birliği (AKTOB), Avusturya pazarındaki turizm hareketlilik verilerini inceleyen kapsamlı bir rapor yayımladı. Hazırlanan raporda, 2026 sonbahar tatili rezervasyonlarında Antalya'nın kısa ve orta mesafeli tatil rotaları arasında ilk sıraya yerleştiği görülse de, uzun vadeli istatistiklerin düşüş eğilimine işaret ettiği belirtildi.
 

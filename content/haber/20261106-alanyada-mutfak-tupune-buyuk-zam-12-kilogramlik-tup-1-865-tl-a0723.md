@@ -2,30 +2,41 @@
 title: 'Alanya''da Mutfak Tüpüne Büyük Zam: 12 Kilogramlık Tüp 1.865 TL Oldu'
 date: '2026-11-06T09:55:00+03:00'
 ozet: Alanya'da mutfak tüpüne gelen yüzde 12,7 oranındaki zam, hem hane halkını hem de işletmeleri zor durumda bıraktı.
-gorsel: /images/haber-gorsel/20261106-alanyada-mutfak-tupune-buyuk-zam-12-kilogramlik-tup-1-865-tl--f3d7a32b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1607324772107-8ad6740ca195?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: KWON JUNHO / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Alanya
 etiketler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyada-mutfak-tupune-buyuk-zam-12-kilogramlik-tup-1-865-tl--f3d7a32b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1607324772107-8ad6740ca195?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ccdb2576ec2f
+  kaynak_sayfa: https://unsplash.com/photos/CdW4DAF5i7Q
+  fotografci: KWON JUNHO
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Tüp gaz
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'tup-2' (Tüp gaz) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tup-2
+    tarih: '2026-11-13T08:47:09+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: habere uygunluk düşük (6/10, en az 7)
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -118,8 +129,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-mutfak-tupune-buyuk-zam-12-kilogramlik-tup-1-865-tl--f3d7a32b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4988
+  - 3325
   dikey: false
   surum: y3
   manset: kaplama
@@ -128,14 +139,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyada-mutfak-tupune-buyuk-zam-12-kilogramlik-tup-1-865-tl--f3d7a32b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1607324772107-8ad6740ca195?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da akaryakıt fiyatlarındaki artışın ardından mutfak tüpü fiyatlarında da önemli bir yükseliş yaşandı. 3 Kasım 2026 tarihi itibarıyla uygulamaya konulan yeni tarife ile 12 kilogramlık mutfak tüpünün satış fiyatı 1.865 TL seviyesine yükseldi. Yapılan 210 TL'lik zam, yaklaşık yüzde 12,7'lik bir fiyat artışına tekabül ediyor.
 

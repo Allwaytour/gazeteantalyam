@@ -2,8 +2,8 @@
 title: Manavgat tarımı için COP31 Zirvesi'nde finansman ve dönüşüm çağrısı
 date: '2026-11-11T16:59:45+03:00'
 ozet: Manavgat Ticaret ve Sanayi Odası Başkanı Önem Gök, COP31 kapsamında düzenlenen panelde ilçenin tarımsal potansiyelini ve iklim krizinin üreticiler üzerindeki etkilerini paylaştı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: www.zanda. photography / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -18,32 +18,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 9222d8d99d3e
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/RBdE3jv5y68
+  fotografci: www.zanda. photography
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sera
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sera-3' (Sera) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-11T17:11:04+03:00'
+    arsiv_id: sera-3
+    tarih: '2026-11-13T08:46:26+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,8 +52,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/manavgat/matsodan-cop31-zirvesinde-
 gorsel_yedek: /images/haber-gorsel/20261111-manavgat-tarimi-icin-cop31-zirvesinde-finansman-ve-donusum-c--48017088.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -64,14 +62,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
   o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bünyesinde gerçekleştirilen Tarladan Finansa Üretici Buluşması paneli, Antalya'nın Manavgat ilçesinin tarım sektöründeki güncel sorunlarına ve geleceğine odaklandı. Toplantıya katılan Manavgat Ticaret ve Sanayi Odası Başkanı Önem Gök, bölgenin geniş tarım potansiyelini aktararak iklim krizinin üreticiler üzerindeki olumsuz etkilerine dikkat çekti.

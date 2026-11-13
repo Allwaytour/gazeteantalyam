@@ -2,8 +2,8 @@
 title: Dünya basını Alanya'da buluştu
 date: '2026-11-07T16:12:24+03:00'
 ozet: Küresel Gazeteciler Konseyi tarafından Alanya'da düzenlenen 6. Küresel Medya Buluşması'na 32 ülkeden yaklaşık 350 gazeteci katılıyor.
-gorsel: /images/haber-gorsel/20261107-dunya-basini-alanyada-bulustu-1afbb-1b0e30b3.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: AbsolutVision / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
@@ -15,22 +15,34 @@ etiketler:
 - Şiddetle Mücadele Vakfı
 - Eftelia Marin Resort Otel
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-dunya-basini-alanyada-bulustu-1afbb-1b0e30b3.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c2563c9b8e73
+  kaynak_sayfa: https://unsplash.com/photos/WYd_PkCa1BY
+  fotografci: AbsolutVision
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Gazeteler
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'basin' (Gazeteler) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: basin
+    tarih: '2026-11-13T08:46:59+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; temsilî fotoğrafta tanınabilir kişi (haberde adı geçen kişi sanılabilir); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -44,8 +56,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-dunya-basini-alanyada-bulustu-1afbb-1b0e30b3.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4000
+  - 2667
   dikey: false
   surum: y3
   manset: kaplama
@@ -54,14 +66,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-dunya-basini-alanyada-bulustu-1afbb-1b0e30b3.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Küresel Gazeteciler Konseyi tarafından organize edilen 6. Küresel Medya Buluşması, Antalya'nın Alanya ilçesinde başladı. Eftelia Marin Resort Otel'de gerçekleştirilen ve Türkiye dahil 32 farklı ülkeden yaklaşık 350 gazetecinin yer aldığı buluşma, 6 ile 10 Kasım 2026 tarihleri arasında düzenleniyor. Program kapsamında ulusal ve uluslararası medya temsilcileri bir araya geliyor.
 

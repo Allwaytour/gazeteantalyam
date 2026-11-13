@@ -2,8 +2,8 @@
 title: Altın Portakal'da Belgesel ve Kısa Filmler Sinemaseverlerle Buluştu
 date: '2026-10-31T18:05:00+03:00'
 ozet: Antalya'da düzenlenen festivalde, dünyanın dört bir yanından gelen belgeseller, kısa filmler ve sinema okulu öğrenci projeleri izleyiciyle bir araya geldi.
-gorsel: /images/haber-gorsel/20261031-altin-portakalda-belgesel-ve-kisa-filmler-sinemaseverlerle-b--7ec9288a.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Wolfmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -16,23 +16,34 @@ yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/altin-portakalda-belgesel-ve-kisa-filmler-izleyiciyle-bulustu-altin-portakalda-gercek-119508974
 gorsel_v4: true
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-altin-portakalda-belgesel-ve-kisa-filmler-sinemaseverlerle-b--7ec9288a.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 70e084eb239e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:4DX_seats_in_cinema_(motion_and_environmental_effects_synced_with_the_on-screen_action)_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg,_Norway_2023_IMG_7849.jpg
+  fotografci: Wolfmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Sinema
+  cekim_yili: '2023'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinema-2' (Sinema) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sinema-2
+    tarih: '2026-11-13T08:47:43+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1485095329183-d0797cdc5676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZmlsbSUyMGZlc3RpdmFsJTIwYXVkaWVuY2UlMjBjaW5lbWF8ZW58MXwwfHx8MTc5MzQ4NTcyM3ww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Jake Hills / Unsplash'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-altin-portakalda-belgesel-ve-kisa-filmler-sinemaseverlerle-b--7ec9288a.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-altin-portakalda-belgesel-ve-kisa-filmler-sinemaseverlerle-b--7ec9288a.jpg
-  o_manset_d: 50% 50%
+  o_manset_d: 50% 100%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
+  o_mansetyan_d: 59% 50%
+  o_mansetyan_m: 59% 50%
+  o_yan_d: 50% 100%
   o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 90%
+  o_kart_p: 60% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Uluslararası Antalya Altın Portakal Film Festivali kapsamında belgesel ve kısa film gösterimleri sinemaseverlerin ilgisiyle devam ediyor. Festivalde yarışma ve özel gösterim kategorilerinde yer alan birbirinden farklı yapımlar beyaz perdeye taşınırken, gösterimlerin ardından yönetmenler ve film ekipleri izleyicilerin sorularını yanıtladı.
 

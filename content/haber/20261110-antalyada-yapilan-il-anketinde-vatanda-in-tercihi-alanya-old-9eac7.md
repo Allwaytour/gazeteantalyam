@@ -2,31 +2,42 @@
 title: Antalya'da yapılan il anketinde vatandaſın tercihi Alanya oldu
 date: '2026-11-10T15:42:00+03:00'
 ozet: Antalya sokaklarında gerçekleştirilen kamuoyu yoklamasında vatandaſın il olmaya en layık gördüğü ilçe Alanya oldu.
-gorsel: /images/haber-gorsel/20261110-antalyada-yapilan-il-anketinde-vatanda-in-tercihi-alanya-old--a6140dd9.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+gorsel_kredi: 'Fotoğraf: Hedda Gabler / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
 etiketler: []
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-antalyada-yapilan-il-anketinde-vatanda-in-tercihi-alanya-old--a6140dd9.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
   konu_imza: b7d06366e3a6
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_2018_elections%2C_ballot_box.jpg
+  fotografci: Hedda Gabler
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Oy sandığı
+  cekim_yili: '2018'
+  aciklama: Temsilî fotoğraf (2018)
+  gerekce: arşiv kaydı 'secim' (Oy sandığı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: secim
+    tarih: '2026-11-13T08:46:40+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +48,8 @@ kaynak_url: https://www.gazetealanya.com/il-anketi-yapildi-vatandasin-tercihi-al
 gorsel_yedek: /images/haber-gorsel/20261110-antalyada-yapilan-il-anketinde-vatanda-in-tercihi-alanya-old--a6140dd9.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3114
+  - 2169
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-antalyada-yapilan-il-anketinde-vatanda-in-tercihi-alanya-old--a6140dd9.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+gorsel_gecmis: []
 ---
 Türkiye'de il sayısının 100'î çıkarılmasına yönelik çalışmalar gündemdeki yerini korurken, kent merkezinde gerçekleştirilen bir kamuoyu yoklaması dikkat çekici sonuçlar ortaya koydu. Yapılan sokak röportajlarında Antalyalılar, il statüsüne en çok layık gördüğü ilçenin Alanya olduğunu belirtti.
 

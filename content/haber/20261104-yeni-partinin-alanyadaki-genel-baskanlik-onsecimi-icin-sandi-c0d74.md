@@ -2,29 +2,40 @@
 title: Yeni Parti'nin Alanya'daki genel başkanlık önseçimi için sandık yerleri
 date: '2026-11-04T11:29:00+03:00'
 ozet: Yeni Parti'nin 8 Kasım'da yapılacak genel başkanlık önseçimi için Alanya'da hazırlıklar sürüyor. Partililer ilçe merkezi ve Mahmutlar'da sandık başına gidecek.
-gorsel: /images/haber-gorsel/20261104-yeni-partinin-alanyadaki-genel-baskanlik-onsecimi-icin-sandi--a77010c8.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+gorsel_kredi: 'Fotoğraf: Hedda Gabler / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-yeni-partinin-alanyadaki-genel-baskanlik-onsecimi-icin-sandi--a77010c8.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
   konu_imza: 9ecb173d9632
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_2018_elections%2C_ballot_box.jpg
+  fotografci: Hedda Gabler
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Oy sandığı
+  cekim_yili: '2018'
+  aciklama: Temsilî fotoğraf (2018)
+  gerekce: arşiv kaydı 'secim' (Oy sandığı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: secim
+    tarih: '2026-11-13T08:47:15+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: kaynak kaydı başka bir ülkedeki yere/olaya ait ('Polish')
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -149,8 +160,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-yeni-partinin-alanyadaki-genel-baskanlik-onsecimi-icin-sandi--a77010c8.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3114
+  - 2169
   dikey: false
   surum: y3
   manset: kaplama
@@ -159,14 +170,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-yeni-partinin-alanyadaki-genel-baskanlik-onsecimi-icin-sandi--a77010c8.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 ---
 Yeni Parti'nin Türkiye genelinde gerçekleştireceği genel başkanlık önseçimi kapsamında Alanya'daki oy verme noktaları netleşti. İlçe teşkilatının paylaştığı takvime göre üyeler, 8 Kasım Pazar günü sabah saat 08.00 ile akşam 19.00 arasında oylarını kullanabilecek. Önseçim sürecinde Alanya'da iki ayrı sandık bölgesi oluşturuldu.
 

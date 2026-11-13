@@ -2,8 +2,8 @@
 title: Antalya'da bin 500 öğrenciden dev koroyla Cumhuriyet kutlaması
 date: '2026-11-01T11:24:00+03:00'
 ozet: Muratpaşa'daki bir ortaokulda bin 500 öğrencinin katılımıyla gerçekleştirilen kutlamalarda renkli görüntüler oluştu.
-gorsel: /images/haber-gorsel/20261101-antalyada-bin-500-ogrenciden-dev-koroyla-cumhuriyet-kutlamas--cd9c985e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Radek Grzybowski rgrzybowski / Wikimedia Commons (CC0)'
 gorsel_v4: true
 kategoriler:
 - Eğitim
@@ -16,23 +16,34 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/dev-koro-ile-coskulu-kutlama
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-bin-500-ogrenciden-dev-koroyla-cumhuriyet-kutlamas--cd9c985e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
   konu_imza: 8d5ce06ca753
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+  fotografci: Radek Grzybowski rgrzybowski
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Konser
+  cekim_yili: '2016'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konser-1' (Konser) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konser-1
+    tarih: '2026-11-13T08:47:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1685736384567-9bdb49094ce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjB0dXJraXNoJTIwZmxhZ3N8ZW58MXwwfHx8MTc5MzUzMTYzMXww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Nejc Soklič / Unsplash'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-bin-500-ogrenciden-dev-koroyla-cumhuriyet-kutlamas--cd9c985e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5703
+  - 3807
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-bin-500-ogrenciden-dev-koroyla-cumhuriyet-kutlamas--cd9c985e.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 ---
 Antalya'nın Muratpaşa ilçesinde bulunan Mecdude Başakıncı Ortaokulu, 29 Ekim Cumhuriyet Bayramı dolayısıyla kapsamlı bir kutlama programı düzenledi. Okul yönetiminin öncülüğünde hazırlanan etkinliklerde bin 500 öğrenci bir araya geldi.
 

@@ -2,28 +2,40 @@
 title: Alanya Müftüsü'nden Vergi Dairesi Müdürü'ne Ziyaret
 date: '2026-11-04T11:44:00+03:00'
 ozet: Alanya Müftüsü Mehmet Seven, Vergi Dairesi Müdürü Burak Alp'i makamında ziyaret ederek kurumlar arası iş birliğini ele aldı.
-gorsel: /images/haber-gorsel/20261104-alanya-muftusunden-vergi-dairesi-mudurune-ziyaret-2a651-e5bb206d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1648201637025-1c77b9be3013?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Aaron Lefler / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanya-muftusunden-vergi-dairesi-mudurune-ziyaret-2a651-e5bb206d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1648201637025-1c77b9be3013?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c6e11352d8c2
+  kaynak_sayfa: https://unsplash.com/photos/Vs6ip7fsld8
+  fotografci: Aaron Lefler
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Hesap
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'vergi-2' (Hesap) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: vergi-2
+    tarih: '2026-11-13T08:47:23+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Mehmet Seven'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.alanyaturk.com/alanya-muftusu-sevenden-vergi-dairesi-mud
 gorsel_yedek: /images/haber-gorsel/20261104-alanya-muftusunden-vergi-dairesi-mudurune-ziyaret-2a651-e5bb206d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5167
+  - 3445
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanya-muftusunden-vergi-dairesi-mudurune-ziyaret-2a651-e5bb206d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1648201637025-1c77b9be3013?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya Müftüsü Mehmet Seven, ilçe genelindeki kamu kurumları arasındaki diyalogu artırmak amacıyla temaslarını sürdürüyor. Bu kapsamda Vergi Dairesi Müdürü Burak Alp'e bir ziyarette bulunan Seven, samimi bir atmosferde gerçekleşen buluşmada önemli değerlendirmelerde bulundu.
 

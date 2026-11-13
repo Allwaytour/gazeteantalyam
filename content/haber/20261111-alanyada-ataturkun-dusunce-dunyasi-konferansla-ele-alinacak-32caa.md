@@ -25,18 +25,19 @@ gorsel_secim:
   gosterilen: Mustafa Kemal Atatürk
   cekim_yili: '1923'
   aciklama: Mustafa Kemal Atatürk (1923)
-  gerekce: arşiv kaydı 'ataturk-1' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'ataturk-1' (Mustafa Kemal Atatürk) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: ataturk-1
-    tarih: '2026-11-12T19:58:40+03:00'
+    tarih: '2026-11-13T08:46:37+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false

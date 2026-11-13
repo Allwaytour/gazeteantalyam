@@ -2,8 +2,8 @@
 title: Antalya Kişi Başı Milli Gelirde Türkiye'nin Zirvesinde
 date: '2026-11-08T23:14:10+03:00'
 ozet: Batı Akdeniz bölgesinin ekonomik verileri açıklandı. Antalya, 17 bin doları aşan kişi başı geliriyle Türkiye genelinde 5. sırada yer alarak bölgenin lokomotifi oldu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: REHBER0770 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Ibrahim Boran / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -13,32 +13,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ac6a6345ed9c
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-  fotografci: REHBER0770
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya Kaleiçi ve tarihi liman
-  cekim_yili: '2018'
-  aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
-  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/_aUwE2DnIPg
+  fotografci: Ibrahim Boran
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Döviz
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'doviz' (Döviz) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: antalya-kaleici
-    tarih: '2026-11-09T13:27:02+03:00'
+    arsiv_id: doviz
+    tarih: '2026-11-13T08:46:55+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,8 +47,8 @@ kaynak_url: https://www.ispartamanset.com/haber-isparta-zenginlikte-antalya-ve-b
 gorsel_yedek: /images/haber-gorsel/20261108-antalya-kisi-basi-milli-gelirde-turkiyenin-zirvesinde-651d7-21daeb5a.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 3456
+  - 5860
+  - 3907
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,7 +66,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Türkiye genelinde il bazında kişi başına düşen milli gelir verileri, Batı Akdeniz bölgesindeki ekonomik tabloyu gözler önüne serdi. Açıklanan verilere göre Antalya, 17.103 dolarlık kişi başı geliriyle Türkiye'nin en zengin 5. ili olmayı başardı. İstanbul, Kocaeli, Ankara ve Tekirdağ'ın ardından gelen Antalya, ülke ortalamasının da üzerinde bir performans sergileyerek bölgenin ekonomik motoru konumunu korudu.

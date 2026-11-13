@@ -2,8 +2,8 @@
 title: Alanya Tersanesi denizcilik vizyonu için desteklenecek
 date: '2026-11-11T19:30:58+03:00'
 ozet: YÖK Başkanı Erol Özvar, ALKÜ'nün denizcilik alanındaki ihtisaslaşmasını destekleyeceklerini belirterek 800 yıllık Alanya Tersanesi için uluslararası iş birliği çağrısı yaptı.
-gorsel: /images/haber-gorsel/20261111-alanya-tersanesi-denizcilik-vizyonu-icin-desteklenecek-12681-24fc243e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/88/Eastern_Walls_of_Alanya_Castle.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
 kategoriler:
 - Eğitim
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - Alanya Alaaddin Keykubat Üniversitesi
 - Yükseköğretim Kurulu
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-alanya-tersanesi-denizcilik-vizyonu-icin-desteklenecek-12681-24fc243e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/88/Eastern_Walls_of_Alanya_Castle.jpg
   konu_imza: 1bceb4dc2017
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Eastern_Walls_of_Alanya_Castle.jpg
+  fotografci: Julian Lupyan
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Alanya Kalesi
+  cekim_yili: '2024'
+  aciklama: Alanya Kalesi — Arşiv fotoğrafı (2024)
+  gerekce: arşiv kaydı 'alanya-kalesi' (Alanya Kalesi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: alanya-kalesi
+    tarih: '2026-11-13T08:46:29+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,8 +52,8 @@ kaynak_url: https://www.sondakika.com/amp/haber-ozvar-alku-nun-denizcilik-vizyon
 gorsel_yedek: /images/haber-gorsel/20261111-alanya-tersanesi-denizcilik-vizyonu-icin-desteklenecek-12681-24fc243e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5339
+  - 3559
   dikey: false
   surum: y3
   manset: kaplama
@@ -51,14 +62,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-alanya-tersanesi-denizcilik-vizyonu-icin-desteklenecek-12681-24fc243e.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/88/Eastern_Walls_of_Alanya_Castle.jpg
+gorsel_gecmis: []
 ---
 Alanya Alaaddin Keykubat Üniversitesi ev sahipliğinde gerçekleştirilen Gelecek Vizyonu Toplantısı'na katılan Yükseköğretim Kurulu Başkanı Erol Özvar, üniversitenin denizcilik alanında ihtisaslaşma hedefini destekleyeceklerini açıkladı. Alev Alatlı Konferans Salonu'ndaki programa üniversite rektörünün yanı sıra ilçe protokolü, kulüp başkanı, akademisyenler ve öğrenciler katılım sağladı.
 

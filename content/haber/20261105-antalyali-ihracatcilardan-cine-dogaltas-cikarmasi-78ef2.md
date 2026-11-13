@@ -1,48 +1,40 @@
 ---
-title: Antalyali Ihracatcilardan Cin'e Dogaltas Cikarmasi
+title: Antalyalı Ihracatcilardan Çin'e Doğaltaş Cikarmasi
 date: '2026-11-05T02:35:00+03:00'
-ozet: Bati Akdeniz Ihracatcilar Birligi yoneticileri, dogaltas ihracatini artirmak amaciyla Cin'in Yunfu ve Shuitou kentlerinde temaslarda bulundu.
-gorsel: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+ozet: Batı Akdeniz İhracatçılar Birliği yöneticileri, doğaltaş ihracatını artırmak amacıyla Çin'in Yunfu ve Shuitou kentlerinde temaslarda bulundu.
+gorsel: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Elijah Mears / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
   konu_imza: d10342a2793a
+  kaynak_sayfa: https://unsplash.com/photos/sI2eENXdoBI
+  fotografci: Elijah Mears
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İhracat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ihracat-1' (İhracat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ihracat-1
+    tarih: '2026-11-13T08:47:13+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '8 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur v; haberin konusuyla doğrud'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Küçükyaman'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Mustafa Tekin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Batı Akdeniz İhracatçılar Birliği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Çin'' bir ülke/bölge; ülke genelinden konu fotoğrafı aranmadı (haberdeki yer değil)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Luoding-Wenta.jpg
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10); Türkiye dışına ait unsur var — Yunfu kentinden genel görünüm; doğal taş ihracatı haberi için uyg
-      - sayfa: https://commons.wikimedia.org/wiki/File:Yunan,_Yunfu,_Guangdong,_China_-_panoramio.jpg
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10); Türkiye dışına ait unsur var — Yunfu bölgesi yol ve dağ manzarası; Çin temalı habere uygun arşiv
-      - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu1.JPG
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
-      - sayfa: https://commons.wikimedia.org/wiki/File:Yunfu5.JPG
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (doğal taş blokları, mermer); Türkiye dışına ait unsur var
-      - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_Harbor_-_DSCF9379.JPG
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Kinmen_-_Shuitou_-_DSCF9395.JPG
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -153,11 +145,11 @@ etiketler:
 - Batı Akdeniz İhracatçılar Birliği
 - Yunfu Belediye Başkanlığı
 - Yunfu Stone Industry Association
-gorsel_yedek: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
+gorsel_yedek: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-2c0bf661.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 3375
   dikey: false
   surum: y3
   manset: kaplama
@@ -166,17 +158,23 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-034b7e17.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Antalyali Ihracatcilardan Cin'e Dogaltas Cikarmasi
+metin_onarim:
+  tarih: '2026-11-13T08:44:49+03:00'
+  kaynak: https://www.antalyagundem.com.tr/antalyali-ihracatcilarindan-dunyanin-baskentine-cikarma
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
 ---
-Bati Akdeniz Ihracatcilar Birligi, dunyanin en buyuk tas isleme merkezleri arasinda yer alan Cin'in Yunfu ve Shuitou sehirlerine dogaltas sektorel ticaret heyeti duzenledi. Gerceklestirilen ziyaretlerde resmi kurum temsilcileri ile sektore yon veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Bati Akdeniz Ihracatcilar Birligi'ni Baskan Yardimcisi Mustafa Kucukyaman ve Denetim Kurulu Uyesi Mustafa Tekin temsil etti.
+Batı Akdeniz İhracatçılar Birliği, dünyanın en büyük taş işleme merkezleri arasında yer alan Çin'in Yunfu ve Shuitou şehirlerine doğaltaş sektörel ticaret heyeti düzenledi. Gerçekleştirilen ziyaretlerde resmi kurum temsilcileri ile sektöre yön veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Batı Akdeniz İhracatçılar Birliği'ni Başkan Yardımcısı Mustafa Küçükyaman ve Denetim Kurulu Üyesi Mustafa Tekin temsil etti.
 
-Temaslarin ilk duragi olan Yunfu'da uretim kapasiteleri ve kullanilan teknolojiler detayli sekilde ele alindi. Yunfu Belediye Baskanligi ile Yunfu Stone Industry Association'i ziyaret eden heyet, Cinli dogaltas satin almacilariyla bir araya gelerek ticari iliskilerin gelistirilmesi ve yeni ihracat baglantilarinin kurulmasi adina gorusmeler gerceklestirdi.
+Temasların ilk durağı olan Yunfu'da üretim kapasiteleri ve kullanılan teknolojiler detaylı şekilde ele alındı. Yunfu Belediye Baskanligi ile Yunfu Stone Industry Association'ı ziyaret eden heyet, Çinli doğaltaş satın almacılarıyla bir araya gelerek ticari ilişkilerin geliştirilmesi ve yeni ihracat bağlantılarının kurulması adına görüşmeler gerçekleştirdi.
 
-Yunfu programinin ardindan dunyanin tas baskenti olarak bilinen Shuitou kentinde temaslarini surduren heyet, depo ve tesis incelemelerinin yani sira Shuitou Ayine Expo fuarini da ziyaret etti. Turkiye'nin onemli pazarlarindan biri olan Cin'e yapilan dogaltas ve maden ihracatinda son yillarda yasanan dususun tersine cevrilmesi ve dis ticaret hacminin artirilmasi amaclanmaktadir.
+Yunfu programının ardından dünyanın taş başkenti olarak bilinen Shuitou kentinde temaslarını sürdüren heyet, depo ve tesis incelemelerinin yanı sıra Shuitou Ayine Expo fuarını da ziyaret etti. Türkiye'nin önemli pazarlarından biri olan Çin'e yapılan doğaltaş ve maden ihracatında son yıllarda yaşanan düşüşün tersine çevrilmesi ve dış ticaret hacminin artırılması amaçlanmaktadır.

@@ -2,8 +2,8 @@
 title: MHP Alanya teşkilatından uzman çavuşlara anlamlı ziyaret
 date: '2026-11-12T15:32:00+03:00'
 ozet: MHP Alanya heyeti, İlçe Jandarma Komutanlığında görev yapan uzman çavuşları ziyaret ederek Uzman Çavuşlar Günü'nü kutladı.
-gorsel: /images/haber-gorsel/20261112-mhp-alanya-teskilatindan-uzman-cavuslara-anlamli-ziyaret-967b-da76c8ab.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-mhp-logo.jpg
+gorsel_kredi: 'Görsel: Milliyetçi Hareket Partisi / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - MHP Alanya
 - Alanya İlçe Jandarma Komutanlığı
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261112-mhp-alanya-teskilatindan-uzman-cavuslara-anlamli-ziyaret-967b-da76c8ab.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-mhp-logo.jpg
   konu_imza: 4738b83f87c2
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:MHP_Symbol.svg
+  fotografci: Milliyetçi Hareket Partisi
+  lisans: Public domain
+  lisans_dayanagi: ''
+  gosterilen: MHP
+  cekim_yili: '2021'
+  aciklama: MHP logosu
+  gerekce: arşiv kaydı 'mhp-logo' (MHP) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: mhp-logo
+    tarih: '2026-11-13T08:46:30+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -49,14 +60,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261112-mhp-alanya-teskilatindan-uzman-cavuslara-anlamli-ziyaret-967b-da76c8ab.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-mhp-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Milliyetçi Hareket Partisi (MHP) Alanya teşkilatı temsilcileri, Uzman Çavuşlar Günü dolayısıyla Alanya İlçe Jandarma Komutanlığını ziyaret etti. Alanya Jandarma Komutanı Yarbay Hüseyin Direk’in nezaretinde gerçekleştirilen buluşmada, MHP heyeti güvenlik güçleriyle bir araya geldi.
 

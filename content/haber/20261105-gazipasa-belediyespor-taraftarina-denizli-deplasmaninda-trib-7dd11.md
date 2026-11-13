@@ -2,29 +2,40 @@
 title: Gazipaşa Belediyespor Taraftarına Denizli Deplasmanında Tribün Yasağı
 date: '2026-11-05T11:42:00+03:00'
 ozet: Gazipaşa Belediyespor'un deplasmanda oynayacağı Yeşil Çivril Belediyespor karşılaşmasına, stadyumun fiziki yetersizliği nedeniyle misafir seyirci alınmayacak.
-gorsel: /images/haber-gorsel/20261105-gazipasa-belediyespor-taraftarina-denizli-deplasmaninda-trib--96257c1f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Peter Glaser baraida / Wikimedia Commons (CC0)'
 kategoriler:
 - Spor
 ilceler:
 - Gazipaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-gazipasa-belediyespor-taraftarina-denizli-deplasmaninda-trib--96257c1f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
   konu_imza: 34ee65e0df73
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  fotografci: Peter Glaser baraida
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Futbol
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'futbol-1' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: futbol-1
+    tarih: '2026-11-13T08:47:12+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Çivril İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Çivril İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +47,8 @@ baslik_ozgun: GAZİPAŞA BELEDİYESPOR TARAFTARINA DENİZLİ DEPLASMANINDA TRİB
 gorsel_yedek: /images/haber-gorsel/20261105-gazipasa-belediyespor-taraftarina-denizli-deplasmaninda-trib--96257c1f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5787
+  - 3858
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-gazipasa-belediyespor-taraftarina-denizli-deplasmaninda-trib--96257c1f.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_gecmis: []
 ---
 Profesyonelliğe Geçiş Ligi 12'nci Grup'ta mücadele eden Gazipaşa Belediyespor, ligin 4'üncü haftasında Denizli temsilcisi Yeşil Çivril Belediyespor'a konuk olmaya hazırlanıyor. 8 Kasım Pazar günü saat 14.00'te Çivril İlçe Stadı'nda oynanacak müsabaka öncesinde, ev sahibi ekibin stadyum koşulları nedeniyle önemli bir güvenlik kararı alındı.
 

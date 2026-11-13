@@ -2,8 +2,8 @@
 title: Zafer Partisi Alanya Teskilatinda Gorev Degisimi
 date: '2026-11-06T14:03:00+03:00'
 ozet: Zafer Partisi Alanya Ilce Teskilati'nda gerceklestirilen toplantida genclik kollari baskanliginda bayrak degisimi yasandi.
-gorsel: /images/haber-gorsel/20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383-d3c1db68.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-zafer-logo.jpg
+gorsel_kredi: 'Görsel: Dactiloo / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - Omer Taskin
 - Zafer Partisi Alanya Ilce Baskanligi
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383-d3c1db68.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-zafer-logo.jpg
   konu_imza: 442b6255b2f1
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Zafer_Partisi_Logo.jpg
+  fotografci: Dactiloo
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Zafer Partisi
+  cekim_yili: '2025'
+  aciklama: Zafer Partisi logosu
+  gerekce: arşiv kaydı 'zafer-logo' (Zafer Partisi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: zafer-logo
+    tarih: '2026-11-13T08:47:03+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Fikret Turkoglu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Omer Taskin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Za'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Fikret Turkoglu'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Omer Taskin'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Zafer Partisi Alanya Ilce Baskanligi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (handshake) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,14 +61,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383-d3c1db68.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-zafer-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Zafer Partisi Alanya Ilce Baskanligi, Ilce Baskani Fikret Turkoglu yonetiminde bir araya gelerek yeni donem stratejilerini degerlendirdi ve teskilat icindeki gorev dagilimini yeniledi. Gerceklestirilen toplanti sonucunda, genclik kollari baskanligi gorevini surduren Mustafahan Zavlak ilce yonetim kurulu uyeligine getirilirken, bu pozisyona Oguzcan Akinci atandi.
 

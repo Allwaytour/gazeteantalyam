@@ -2,8 +2,8 @@
 title: 'Alanya İş Dünyasından Nefes Kredisi Tepkisi: Adil Finansman İstiyoruz'
 date: '2026-11-07T08:29:00+03:00'
 ozet: TOBB Nefes Kredisi'nde yeni başvuru döneminin başlamasına rağmen kredi taleplerinin karşılanmadığını belirten iş dünyası temsilcileri, Alanya'nın ekonomik katkısıyla orantılı pay alamadığını vurguladı.
-gorsel: /images/haber-gorsel/20261107-alanya-is-dunyasindan-nefes-kredisi-tepkisi-adil-finansman-i--fda62502.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -14,22 +14,34 @@ etiketler:
 - TOBB
 - KGF
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-alanya-is-dunyasindan-nefes-kredisi-tepkisi-adil-finansman-i--fda62502.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c23dc42636f0
+  kaynak_sayfa: https://unsplash.com/photos/TD9ZL6i81R4
+  fotografci: Nedret Binici
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk lirası
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'para' (Türk lirası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: para
+    tarih: '2026-11-13T08:47:02+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: büyük filigran ya da görüntüye gömülü yazı; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -43,8 +55,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-alanya-is-dunyasindan-nefes-kredisi-tepkisi-adil-finansman-i--fda62502.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3080
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +65,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-alanya-is-dunyasindan-nefes-kredisi-tepkisi-adil-finansman-i--fda62502.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Türkiye Odalar ve Borsalar Birliği (TOBB), Kredi Garanti Fonu (KGF) ve bankaların iş birliğiyle yürütülen Nefes Kredisi programında yeni dönem başvuruları 3 Kasım Salı günü itibarıyla başladı. Firma başına kredi limitinin 5 milyon TL'ye yükseltildiği yeni dönemde, turizm sezonunu beklentilerin altında geçiren Alanyalı iş insanları, finansmana erişim noktasında yaşadıkları zorluklar nedeniyle hayal kırıklığına uğradı.
 

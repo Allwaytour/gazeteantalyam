@@ -2,30 +2,42 @@
 title: 'Aksekili Kadınların Kışlık Yufka Mesaisi: İmece Usulüyle Hazırlanıyor'
 date: '2026-11-08T09:37:38+03:00'
 ozet: Akseki'de kadınlar, kış mevsimi öncesinde imece usulüyle bir araya gelerek geleneksel yufka ekmeklerini hazırlıyor.
-gorsel: /images/haber-gorsel/20261108-aksekili-kadinlarin-kislik-yufka-mesaisi-imece-usuluyle-hazi--8fb3c92b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1763297014734-e2ac58a6f3c0?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Intrepid / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Akseki
 etiketler: []
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261108-aksekili-kadinlarin-kislik-yufka-mesaisi-imece-usuluyle-hazi--8fb3c92b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1763297014734-e2ac58a6f3c0?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 777ebc35c7b3
+  kaynak_sayfa: https://unsplash.com/photos/1l2qWh-W5AU
+  fotografci: Intrepid
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Ekmek
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ekmek-2' (Ekmek) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ekmek-2
+    tarih: '2026-11-13T08:46:57+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Akseki'' için konuyla (flatbread, yufka, cooking on sheet) ilişkili lisanslı fotoğraf bulunamadı; ''kışlık yufka yapımı'' konusunu g'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +51,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261108-aksekili-kadinlarin-kislik-yufka-mesaisi-imece-usuluyle-hazi--8fb3c92b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6774
+  - 4492
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261108-aksekili-kadinlarin-kislik-yufka-mesaisi-imece-usuluyle-hazi--8fb3c92b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1763297014734-e2ac58a6f3c0?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın Akseki ilçesinde sonbaharın gelmesiyle birlikte kış hazırlıkları hız kazandı. Alaçeşme Mahallesi'nde yaşayan kadınlar, geleneksel yufka ekmeği yapımı için sabahın erken saatlerinde bir araya gelerek imece usulüyle çalışmaya başladı. Komşuluk ilişkilerinin güçlendiği bu süreçte, kadınlar hem kışlık erzaklarını hazırlıyor hem de asırlık bir kültürü gelecek kuşaklara aktarıyor.
 

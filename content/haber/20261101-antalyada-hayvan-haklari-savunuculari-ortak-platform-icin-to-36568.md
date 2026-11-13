@@ -2,8 +2,8 @@
 title: Antalya'da hayvan hakları savunucuları ortak platform için toplanacak
 date: '2026-11-01T12:20:00+03:00'
 ozet: Türkiye'nin dört bir yanından hayvan hakları savunucuları ve kurumlar, ortak bir mücadele zemini oluşturmak üzere Antalya'da bir araya gelecek.
-gorsel: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b6/Street_cats_in_Manavgat%2C_Antalya_01.jpg
+gorsel_kredi: 'Fotoğraf: Kadı / Wikimedia Commons (CC BY 4.0)'
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -15,23 +15,34 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/hayvan-haklari-savunuculari-antalyada-bulusacak
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Street_cats_in_Manavgat%2C_Antalya_01.jpg
   konu_imza: 26ea8cbb9f6f
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Street_cats_in_Manavgat%2C_Antalya_01.jpg
+  fotografci: Kadı
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Sokak kedisi
+  cekim_yili: '2025'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kedi-1' (Sokak kedisi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kedi-1
+    tarih: '2026-11-13T08:47:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1610528519769-8dd585a4226d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YW5pbWFsJTIwcmlnaHRzJTIwcHJvdGVzdCUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5MzUzMDk1OHww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Jorge Maya / Unsplash'
@@ -42,8 +53,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5712
+  - 4284
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-hayvan-haklari-savunuculari-ortak-platform-icin-to--267a73ab.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Street_cats_in_Manavgat%2C_Antalya_01.jpg
 ---
 Türkiye genelinde hayvan hakları alanında faaliyet gösteren çok sayıda kurum, kuruluş ve gönüllü, ortak bir strateji belirlemek ve ortak bir mücadele zemini oluşturmak amacıyla Antalya'da buluşmaya hazırlanıyor. Hayvan Hakları Platformu Türkiye Temsilcisi Alper Ilgaz yaptığı açıklamada, 8 Kasım 2026 Pazar günü saat 14.00'te gerçekleştirilecek olan toplantıya katılım çağrısında bulundu.
 

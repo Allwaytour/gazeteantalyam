@@ -2,8 +2,8 @@
 title: 'Antalya İçin COP31 Heyecanı: Ekonomik Katma Değerin 4 Milyar Doları Bulması Bekleniyor'
 date: '2026-11-08T15:22:00+03:00'
 ozet: Antalya'nın ev sahipliği yapacağı COP31 zirvesinin, kentin turizm ve yatırım potansiyelini artırarak milyarlarca dolarlık ekonomik hareketlilik yaratması öngörülüyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Ibrahim Boran / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -17,32 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: '329534462855'
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/_aUwE2DnIPg
+  fotografci: Ibrahim Boran
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Döviz
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'doviz' (Döviz) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T13:27:02+03:00'
+    arsiv_id: doviz
+    tarih: '2026-11-13T08:46:56+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,8 +51,8 @@ kaynak_url: https://bigpara.hurriyet.com.tr/haberler/genel-haberler/antalyada-co
 gorsel_yedek: /images/haber-gorsel/20261108-antalya-icin-cop31-heyecani-ekonomik-katma-degerin-4-milyar-5-9d4178bf.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 5860
+  - 3907
   dikey: false
   surum: y3
   manset: kaplama
@@ -63,16 +61,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya, uluslararası iklim zirvesi COP31'e ev sahipliği yapmaya hazırlanırken, kentteki iş dünyası temsilcileri bu organizasyonun şehre sağlayacağı ekonomik katkıları değerlendirdi. Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Antalya Şube Başkanı Yusuf Akgül, zirvenin sadece iklim politikalarıyla sınırlı kalmayıp; enerji, teknoloji, finansman ve ticaret alanlarında büyük fırsatlar sunduğunu belirtti. Akgül, bu organizasyonun Antalya'nın kongre turizmi kapasitesini dünya ölçeğinde kanıtlayacağını ve kalıcı yatırımlara kapı aralayacağını ifade etti.

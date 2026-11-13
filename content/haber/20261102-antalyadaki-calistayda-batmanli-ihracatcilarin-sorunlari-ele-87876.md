@@ -2,24 +2,39 @@
 title: Antalya'daki Çalıştayda Batmanlı İhracatçıların Sorunları Ele Alındı
 date: '2026-11-02T00:58:19+03:00'
 ozet: Antalya'da düzenlenen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Batmanlı ihracatçı firmaların yaşadığı sorunlar ve çözüm önerileri yetkililere aktarıldı.
-gorsel: /images/haber-gorsel/20261102-antalyadaki-calistayda-batmanli-ihracatcilarin-sorunlari-ele--7a1dd4d3.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Elijah Mears / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalyadaki-calistayda-batmanli-ihracatcilarin-sorunlari-ele--7a1dd4d3.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 29ecfb2cc284
+  kaynak_sayfa: https://unsplash.com/photos/sI2eENXdoBI
+  fotografci: Elijah Mears
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İhracat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ihracat-1' (İhracat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ihracat-1
+    tarih: '2026-11-13T08:47:31+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -33,8 +48,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-antalyadaki-calistayda-batmanli-ihracatcilarin-sorunlari-ele--7a1dd4d3.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 3375
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,14 +58,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalyadaki-calistayda-batmanli-ihracatcilarin-sorunlari-ele--7a1dd4d3.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Doğu Anadolu İhracatçılar Birliği yönetimi tarafından Batmanlı ihracatçıların talepleri gündeme taşındı. Etkinliğe Doğu Anadolu İhracatçılar Birliği Yönetim Kurulu Başkanı Ömer Madırlı ve Yönetim Kurulu Üyesi Mehmet Özel katılım sağladı.
 

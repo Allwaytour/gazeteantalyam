@@ -22,21 +22,20 @@ gorsel_secim:
   gosterilen: Antalya Kaleiçi ve tarihi liman
   cekim_yili: '2018'
   aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
-  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: antalya-kaleici
-    tarih: '2026-11-09T13:27:12+03:00'
+    tarih: '2026-11-13T08:47:20+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

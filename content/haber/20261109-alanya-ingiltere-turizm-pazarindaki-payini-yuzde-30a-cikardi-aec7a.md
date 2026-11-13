@@ -2,8 +2,8 @@
 title: Alanya İngiltere Turizm Pazarındaki Payını Yüzde 30'a Çıkardı
 date: '2026-11-09T00:00:40+03:00'
 ozet: Zorlu piyasa koşullarına rağmen İngiltere pazarındaki payını önemli ölçüde artıran Alanya, otelcilerin esnek politikalarıyla rakiplerinden pozitif ayrıştı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Julian Lupyan / Wikimedia Commons (CC0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -17,31 +17,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 2e58c97b4c3b
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
-  fotografci: Julian Lupyan
-  lisans: CC0
-  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
-  gosterilen: Alanya Kleopatra Plajı ve turistik bölge
-  cekim_yili: '2024'
-  aciklama: Alanya, Kleopatra Plajı (2024)
-  gerekce: arşiv kaydı 'alanya-kleopatra' (Alanya Kleopatra Plajı ve turistik bölge) başlık/spot ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
+  fotografci: Ozgurmulazimoglu
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Alanya'nın turistik merkezi
+  cekim_yili: '2012'
+  aciklama: Alanya, kaleden liman ve sahil — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-alanya' (Alanya'nın turistik merkezi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: alanya-kleopatra
-    tarih: '2026-11-09T13:27:01+03:00'
+    arsiv_id: kut-alanya
+    tarih: '2026-11-13T08:46:51+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -52,8 +50,8 @@ kaynak_url: https://www.turizmnews.com/alanya-ingiltere-pazarinda-payini-yuzde-3
 gorsel_yedek: /images/haber-gorsel/20261109-alanya-ingiltere-turizm-pazarindaki-payini-yuzde-30a-cikardi--646d01b5.jpg
 gorsel_yerlesim:
   boyut:
-  - 5870
-  - 3913
+  - 3264
+  - 2278
   dikey: false
   surum: y3
   manset: kaplama
@@ -71,7 +69,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
 ---
 Alanya, artan maliyetler ve uçuş kapasitesindeki daralmalara rağmen İngiltere turizm pazarında dikkat çeken bir başarıya imza attı. MTS Türkiye Yönetim Kurulu Başkanı Münci Karakaya, bölgenin toplam yolcu sayısı içerisindeki payının 2025 yılında yüzde 18 seviyesindeyken, 2026 itibarıyla yüzde 30'a yükseldiğini duyurdu.

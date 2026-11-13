@@ -26,22 +26,20 @@ gorsel_secim:
   gosterilen: Antalya Havalimanı
   cekim_yili: '2022'
   aciklama: Antalya Havalimanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-a89342' (Antalya Havalimanı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-a89342' (Antalya Havalimanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-a89342
-    tarih: '2026-11-10T22:17:22+03:00'
+    tarih: '2026-11-13T08:46:42+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

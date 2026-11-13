@@ -2,28 +2,40 @@
 title: Alanya'da otopark sorunu sürücüleri zorluyor
 date: '2026-11-04T10:44:00+03:00'
 ozet: Alanya merkezde araç sayısının artmasıyla birlikte park yeri bulmak sürücüler için büyük bir sorun haline geldi.
-gorsel: /images/haber-gorsel/20261104-alanyada-otopark-sorunu-suruculeri-zorluyor-36dac-8f9508dd.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Zoshua Colah / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanyada-otopark-sorunu-suruculeri-zorluyor-36dac-8f9508dd.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 2d39179cd53d
+  kaynak_sayfa: https://unsplash.com/photos/Q5qBr61GxDc
+  fotografci: Zoshua Colah
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Otomobiller
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'otomobil-2' (Otomobiller) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: otomobil-2
+    tarih: '2026-11-13T08:47:22+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-park-yeri-aramak-cileye-donustu-
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-otopark-sorunu-suruculeri-zorluyor-36dac-8f9508dd.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 8063
+  - 5039
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanyada-otopark-sorunu-suruculeri-zorluyor-36dac-8f9508dd.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da trafik yoğunluğunun yanı sıra park yeri bulma sıkıntısı da sürücülerin günlük yaşamını olumsuz etkiliyor. Kent merkezindeki ticari hareketlilik, konut yoğunluğu ve turizm sezonunda yaşanan nüfus artışı otopark ihtiyacını her geçen gün daha da artırıyor.
 

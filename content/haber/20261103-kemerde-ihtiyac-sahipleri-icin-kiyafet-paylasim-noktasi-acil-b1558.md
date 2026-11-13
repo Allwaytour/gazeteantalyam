@@ -2,28 +2,40 @@
 title: Kemer'de ihtiyaç sahipleri için kıyafet paylaşım noktası açıldı
 date: '2026-11-03T20:45:04+03:00'
 ozet: Kemer Belediyesi, Çamyuva Mahallesi'nde hayata geçirdiği kıyafet paylaşım noktasıyla ihtiyaç sahipleri ile hayırseverleri buluşturuyor.
-gorsel: /images/haber-gorsel/20261103-kemerde-ihtiyac-sahipleri-icin-kiyafet-paylasim-noktasi-acil--7c4384e6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Emin Başar ÖZDEMİR / Wikimedia Commons (CC BY 3.0)'
 kategoriler:
 - Yaşam
 ilceler:
 - Kemer
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-kemerde-ihtiyac-sahipleri-icin-kiyafet-paylasim-noktasi-acil--7c4384e6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
   konu_imza: b3ae37e89ffd
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
+  fotografci: Emin Başar ÖZDEMİR
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  gosterilen: Kemer
+  cekim_yili: ''
+  aciklama: Kemer — Arşiv fotoğrafı
+  gerekce: 'arşiv kaydı ''ilce-kemer-1'' (Kemer) yerel haber: ilçenin kendi fotoğrafı'
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-kemer-1
+    tarih: '2026-11-13T08:47:24+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Necati Topaloğlu'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.ayancikgazetesi.com/kemerde-ihtiyac-sahipleri-icin-kiyaf
 gorsel_yedek: /images/haber-gorsel/20261103-kemerde-ihtiyac-sahipleri-icin-kiyafet-paylasim-noktasi-acil--7c4384e6.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2592
+  - 1936
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-kemerde-ihtiyac-sahipleri-icin-kiyafet-paylasim-noktasi-acil--7c4384e6.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg
+gorsel_gecmis: []
 ---
 Kemer Belediyesi, ihtiyaç sahibi vatandaşlara destek olmak ve kullanılmayan kıyafetlerin yeniden değerlendirilmesini sağlamak amacıyla Çamyuva Mahallesi'nde yeni bir uygulama başlattı. Sosyal belediyecilik anlayışı doğrultusunda hayata geçirilen kıyafet paylaşım noktası, vatandaşlar arasındaki dayanışmayı artırmayı amaçlıyor.
 

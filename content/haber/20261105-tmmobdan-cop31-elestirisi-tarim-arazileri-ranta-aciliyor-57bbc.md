@@ -3,7 +3,7 @@ title: 'TMMOB''dan COP31 Eleştirisi: Tarım Arazileri Ranta Açılıyor'
 date: '2026-11-05T15:26:00+03:00'
 ozet: Antalya'da düzenlenecek COP31 öncesi rapor yayımlayan TMMOB, iklim politikalarının piyasacı yaklaşımlarını ve tarım arazilerindeki yapılaşmayı sert bir dille eleştirdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel_kredi: 'Fotoğraf: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -21,22 +21,20 @@ gorsel_secim:
   gosterilen: Antalya'da seralar ve tarım arazileri
   cekim_yili: '2011'
   aciklama: Antalya'da seralar (2011)
-  gerekce: arşiv kaydı 'sera-antalya' (Antalya'da seralar ve tarım arazileri) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'sera-antalya' (Antalya'da seralar ve tarım arazileri) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: sera-antalya
-    tarih: '2026-11-09T13:27:09+03:00'
+    tarih: '2026-11-13T08:47:10+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Karancı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İsmail Küçük'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''T'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Mustafa Karancı'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''İsmail Küçük'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''TMMOB'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya'' için konuyla (press conference, microphone, banner) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

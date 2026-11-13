@@ -2,8 +2,8 @@
 title: Kemer'deki İdyros Antik Kenti yakınındaki otel inşaatına tepkiler büyüyor
 date: '2026-11-11T07:45:57+03:00'
 ozet: Kemer'de İdyros Antik Kenti kalıntılarının yakınında süren otel projesine karşı çıkan çevreler, bilirkişi raporlarına dayanarak inşaatın durdurulmasını talep etti.
-gorsel: /images/haber-gorsel/20261111-kemerdeki-idyros-antik-kenti-yakinindaki-otel-insaatina-tepk--b9bd3692.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jonathan Chan / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Antalya Müze Müdürlüğü
 - İdyros Antik Kenti’ne Dokunma Hareketi
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-kemerdeki-idyros-antik-kenti-yakinindaki-otel-insaatina-tepk--b9bd3692.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ae264f815c10
+  kaynak_sayfa: https://unsplash.com/photos/Iya-XbLxnqI
+  fotografci: Jonathan Chan
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İnşaat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'insaat-1' (İnşaat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: insaat-1
+    tarih: '2026-11-13T08:46:26+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.gazetevatan.com/sehirler/antalya/antalyada-antik-kentin-
 gorsel_yedek: /images/haber-gorsel/20261111-kemerdeki-idyros-antik-kenti-yakinindaki-otel-insaatina-tepk--b9bd3692.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-kemerdeki-idyros-antik-kenti-yakinindaki-otel-insaatina-tepk--b9bd3692.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın Kemer ilçesinde yer alan ve geçmişi Helenistik döneme uzanan İdyros Antik Kenti'nin bulunduğu bölgedeki otel inşaatı tartışma yaratmaya devam ediyor. Çalışmalar sürerken bölgedeki ağaçların kesilmesi de tepki çeken unsurlar arasında yer aldı. İdyros Antik Kenti'ne Dokunma Hareketi, konuyla ilgili iki ayrı davada hazırlanan bilirkişi raporlarının dikkate alınması gerektiğini vurguladı.
 

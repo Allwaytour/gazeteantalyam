@@ -2,8 +2,8 @@
 title: Akdeniz'de meydana gelen deprem Antalya'da da hissedildi
 date: '2026-11-06T18:41:57+03:00'
 ozet: Akdeniz'de Muğla'nın Datça açıklarında kaydedilen 4.1 büyüklüğündeki deprem, Antalya ve çevre illerde yaşayanlarda endişe yarattı.
-gorsel: /images/haber-gorsel/20261106-akdenizde-meydana-gelen-deprem-antalyada-da-hissedildi-edec4-6cb68804.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
+gorsel_kredi: 'Fotoğraf: Ilyacadiz / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - AFAD
 - Kandilli Rasathanesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-akdenizde-meydana-gelen-deprem-antalyada-da-hissedildi-edec4-6cb68804.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
   konu_imza: 19c92377c054
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Historischer_Seismograph.jpg
+  fotografci: Ilyacadiz
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Sismograf
+  cekim_yili: '2018'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'deprem' (Sismograf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: deprem
+    tarih: '2026-11-13T08:47:10+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''deprem'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Akdeniz'' için konuyla (seismograph, earthquake map, afad logo) ilişkili '
-      notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %0); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''deprem'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Akdeniz'' için konuyla (seismograph, earthquake map, afad logo) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.haberler.com/haber/antalyada-deprem-mi-oldu-akdenizde-ne
 gorsel_yedek: /images/haber-gorsel/20261106-akdenizde-meydana-gelen-deprem-antalyada-da-hissedildi-edec4-6cb68804.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5077
+  - 3316
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-akdenizde-meydana-gelen-deprem-antalyada-da-hissedildi-edec4-6cb68804.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
+gorsel_gecmis: []
 ---
 Akdeniz'de yaşanan sarsıntı, kıyı kesimindeki şehirlerde yaşayan vatandaşlar arasında tedirginliğe yol açtı. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından paylaşılan verilere göre, Akdeniz açıklarında 4.1 büyüklüğünde bir deprem kaydedildi. Meydana gelen sarsıntı, Antalya başta olmak üzere çevre illerde de hissedildi.
 

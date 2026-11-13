@@ -2,29 +2,40 @@
 title: Alanya'da hastane çevresi otopark düzenlemesi komisyondan geçmedi
 date: '2026-11-02T11:27:00+03:00'
 ozet: Alanya'da hastanelere gelen vatandaşlar için yol üstü otoparkların ilk 60 dakika ücretsiz olması yönündeki önerge, belediye komisyonunda oy çokluğuyla reddedildi.
-gorsel: /images/haber-gorsel/20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec--c7c19fa1.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Zoshua Colah / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec--c7c19fa1.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: e119d41bf193
+  kaynak_sayfa: https://unsplash.com/photos/Q5qBr61GxDc
+  fotografci: Zoshua Colah
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Otomobiller
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'otomobil-2' (Otomobiller) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: otomobil-2
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -72,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec--c7c19fa1.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 8063
+  - 5039
   dikey: false
   surum: y3
   manset: kaplama
@@ -82,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-alanyada-hastane-cevresi-otopark-duzenlemesi-komisyondan-gec--c7c19fa1.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'da sağlık kuruluşlarından hizmet alan sürücülerin otopark ücretlerinden etkilenmemesi amacıyla hazırlanan düzenleme teklifi yerel yönetim gündeminde yer aldı. Hastane çevresindeki ücretli yol üstü otoparklarda ilk bir saatin ücretsiz olmasını öngören önerge, belediye meclisindeki değerlendirmenin ardından Plan ve Bütçe Komisyonu'na havale edildi. Kısa süreli park eden vatandaşların ekonomik yükünü azaltmayı hedefleyen teklif, beş üyeli komisyonda ele alındı.
 

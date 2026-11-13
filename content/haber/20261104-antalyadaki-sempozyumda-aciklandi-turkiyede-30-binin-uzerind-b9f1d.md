@@ -2,28 +2,40 @@
 title: 'Antalya''daki sempozyumda açıklandı: Türkiye''de 30 binin üzerinde hasta nakil bekliyor'
 date: '2026-11-04T14:24:21+03:00'
 ozet: Antalya Eğitim ve Araştırma Hastanesi'nde düzenlenen sempozyumda, Türkiye genelinde 30 binin üzerinde hastanın organ nakli beklediği ve her gün yaklaşık 13 kişinin yaşamını yitirdiği ifade edildi.
-gorsel: /images/haber-gorsel/20261104-antalyadaki-sempozyumda-aciklandi-turkiyede-30-binin-uzerind--0b90f55c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+gorsel_kredi: 'Fotoğraf: Tyler Frew MD / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Sağlık
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalyadaki-sempozyumda-aciklandi-turkiyede-30-binin-uzerind--0b90f55c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
   konu_imza: d9db95c17484
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+  fotografci: Tyler Frew MD
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Ameliyat
+  cekim_yili: '2026'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ameliyat-1' (Ameliyat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ameliyat-1
+    tarih: '2026-11-13T08:47:18+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.sondakika.com/saglik/haber-antalya-daki-sempozyumda-turk
 gorsel_yedek: /images/haber-gorsel/20261104-antalyadaki-sempozyumda-aciklandi-turkiyede-30-binin-uzerind--0b90f55c.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6929
+  - 4619
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalyadaki-sempozyumda-aciklandi-turkiyede-30-binin-uzerind--0b90f55c.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
+gorsel_gecmis: []
 ---
 Antalya'da düzenlenen organ bağışı sempozyumunda, Türkiye'deki organ nakli bekleyen hastaların sayısı ve bu alandaki toplumsal farkındalığın önemi ele alındı. Organ Bağışı Haftası dolayısıyla gerçekleştirilen programda uzmanlar, bağış oranlarının artırılması ve aile içi iletişimin süreçteki kritik rolüne dikkat çekti.
 

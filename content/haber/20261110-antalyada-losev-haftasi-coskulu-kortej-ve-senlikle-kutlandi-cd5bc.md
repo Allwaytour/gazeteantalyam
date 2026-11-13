@@ -3,7 +3,7 @@ title: Antalya'da LÖSEV haftası coşkulu kortej ve şenlikle kutlandı
 date: '2026-11-10T06:09:00+03:00'
 ozet: Lösemili Çocuklar Haftası kapsamında Antalya'da düzenlenen farkındalık yürüyüşü ve etkinlikler renkli görüntülere sahne oldu.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Mikael Häggström / Wikimedia Commons (CC0)'
+gorsel_kredi: 'Fotoğraf: Mikael Häggström / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -26,22 +26,20 @@ gorsel_secim:
   gosterilen: lösemi hücrelerinin mikroskop görüntüsü
   cekim_yili: '2022'
   aciklama: Lösemide kan yayması, mikroskop görüntüsü (temsilî)
-  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: losemi
-    tarih: '2026-11-10T06:36:10+03:00'
+    tarih: '2026-11-13T08:46:41+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

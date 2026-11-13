@@ -2,8 +2,8 @@
 title: Alanya'da öğrenciler için kasım ara tatili takvimi açıklandı
 date: '2026-11-06T17:13:00+03:00'
 ozet: Alanya'da okul öncesi, ilkokul, ortaokul ve lise öğrencileri kasım ayında 9 günlük ara tatile çıkmaya hazırlanıyor.
-gorsel: /images/haber-gorsel/20261106-alanyada-ogrenciler-icin-kasim-ara-tatili-takvimi-aciklandi-b-e1c82b62.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nathan Cima / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Milli Eğitim Bakanlığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alanyada-ogrenciler-icin-kasim-ara-tatili-takvimi-aciklandi-b-e1c82b62.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 71797bff7699
+  kaynak_sayfa: https://unsplash.com/photos/Qw6wa96IvvQ
+  fotografci: Nathan Cima
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sınıf
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinif-2' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sinif-2
+    tarih: '2026-11-13T08:47:09+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''ara tatil'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Alanya'' için konuyla (backpacks) ilişkili lisanslı fotoğraf bulunamadı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''ara tatil'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Alanya'' için konuyla (backpacks) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-ogrenciler-13-kasimda-ara-tatile
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-ogrenciler-icin-kasim-ara-tatili-takvimi-aciklandi-b-e1c82b62.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alanyada-ogrenciler-icin-kasim-ara-tatili-takvimi-aciklandi-b-e1c82b62.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya genelindeki okullarda eğitim gören öğrenciler ile öğretmenler için 2026-2027 eğitim öğretim yılının ilk ara tatil takvimi netleşti. Milli Eğitim Bakanlığı çalışma takvimine göre, birinci dönem ara tatili kasım ayının ortasında gerçekleştirilecek. Öğrenciler, son ders zilinin çalmasının ardından hafta sonu tatillerinin de birleşmesiyle birlikte toplamda 9 gün süreyle ders başı yapmayacak.
 

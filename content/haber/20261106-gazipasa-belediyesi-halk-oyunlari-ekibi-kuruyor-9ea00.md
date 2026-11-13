@@ -2,8 +2,8 @@
 title: Gazipaşa Belediyesi Halk Oyunları Ekibi Kuruyor
 date: '2026-11-06T15:56:57+03:00'
 ozet: Gazipaşa Belediyesi, geleneksel kültürü yaşatmak ve yeni bir halk oyunları ekibi oluşturmak amacıyla yetişkinlere yönelik kurs düzenliyor.
-gorsel: /images/haber-gorsel/20261106-gazipasa-belediyesi-halk-oyunlari-ekibi-kuruyor-9ea00-062d7b6e.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Turpcan / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - Antalya Büyükşehir Belediyesi
 - ATASEM
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-gazipasa-belediyesi-halk-oyunlari-ekibi-kuruyor-9ea00-062d7b6e.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: e6f55c815c8e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Asalet_ve_Cesaretin_Dans%C4%B1;_Zeybek_Oyunu.jpg
+  fotografci: Turpcan
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Halk oyunları
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'halk-oyunlari-1' (Halk oyunları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: halk-oyunlari-1
+    tarih: '2026-11-13T08:47:04+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: kaynak kaydı başka bir ülkedeki yere/olaya ait ('United States')
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -123,24 +134,18 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261106-gazipasa-belediyesi-halk-oyunlari-ekibi-kuruyor-9ea00-062d7b6e.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5517
+  - 3678
   dikey: false
   surum: y3
-  manset: kaplama
-  yan: true
+  manset: ''
+  yan: false
   kart: true
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-gazipasa-belediyesi-halk-oyunlari-ekibi-kuruyor-9ea00-062d7b6e.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_kart: 50% 100%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Gazipaşa Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından hayata geçirilen Halk Oyunları Kursu için başvuru süreci sürüyor. Geleneksel değerleri canlı tutmak ve kentteki sosyal yaşamı zenginleştirmek amacıyla hazırlanan eğitim programı, 20 yaş ve üzerindeki tüm kadın ve erkek vatandaşların katılımına açık tutuluyor.
 

@@ -2,8 +2,8 @@
 title: Antalya'da turizm işçileri altı ay çalışıp altı ay bekliyor
 date: '2026-11-08T10:58:00+03:00'
 ozet: Türkiye İşçi Partisi Merkez Yürütme Kurulu Üyesi Yunus Başaran, Antalya turizm sektöründeki mevsimlik çalışma düzenine ve işçilerin karşılaştığı hak kayıplarına dikkat çekti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: REHBER0770 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: /images/haber-gorsel/logo-tip-logo.jpg
+gorsel_kredi: 'Görsel: TİP / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -15,31 +15,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-tip-logo.jpg
   konu_imza: 7fe971830e02
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-  fotografci: REHBER0770
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg
+  fotografci: TİP
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya Kaleiçi ve tarihi liman
-  cekim_yili: '2018'
-  aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
-  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot ile eşleşti
+  gosterilen: Türkiye İşçi Partisi
+  cekim_yili: '2017'
+  aciklama: Türkiye İşçi Partisi logosu
+  gerekce: arşiv kaydı 'tip-logo' (Türkiye İşçi Partisi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: antalya-kaleici
-    tarih: '2026-11-09T13:27:04+03:00'
+    arsiv_id: tip-logo
+    tarih: '2026-11-13T08:46:54+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (5/10, en az 6); temsilî fotoğrafta tanınabilir kişi (haberde adı geçen kişi sanılabilir); yanlış kişi öne çıkıyor
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -50,8 +49,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/antalyada-turizm-iscisi-6-ay-calis
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-turizm-iscileri-alti-ay-calisip-alti-ay-bekliyor-3c-ec9e8d99.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 3456
+  - 1200
+  - 750
   dikey: false
   surum: y3
   manset: kaplama
@@ -60,16 +59,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
+  tipografik: false
+  url: /images/haber-gorsel/logo-tip-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  logo: true
 gorsel_gecmis: []
 ---
 Türkiye İşçi Partisi Merkez Yürütme Kurulu Üyesi Yunus Başaran, Antalya turizm sektöründe görev yapan çalışanların yaşadığı ekonomik ve hukuki sorunları gündeme getirdi. Sektördeki emekçilerin düşük gelirlerle istihdam edildiğini ve sezon sona erdiğinde iş güvencesinden yoksun kaldıklarını belirten Başaran, özellikle mevsimlik çalışma sisteminin çalışanlar açısından büyük bir mağduriyet yarattığını ifade etti.

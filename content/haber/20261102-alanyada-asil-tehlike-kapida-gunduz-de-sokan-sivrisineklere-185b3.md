@@ -2,29 +2,40 @@
 title: 'Alanya''da asıl tehlike kapıda: Gündüz de sokan sivrisineklere dikkat'
 date: '2026-11-02T08:05:00+03:00'
 ozet: Alanya'da sıcak hava ve nemin etkisiyle hızla çoğalan çizgili sivrisinekler, sabah ve öğle saatlerinde de aktif olarak insanları ısırıyor.
-gorsel: /images/haber-gorsel/20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-1-dd02c67b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Eilis Garvey / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-1-dd02c67b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 4ae0e986b962
+  kaynak_sayfa: https://unsplash.com/photos/c9SDxIjXH4I
+  fotografci: Eilis Garvey
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sıcak hava
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sicak' (Sıcak hava) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sicak
+    tarih: '2026-11-13T08:47:34+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,8 +82,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-1-dd02c67b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -81,14 +92,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-alanyada-asil-tehlike-kapida-gunduz-de-sokan-sivrisineklere-1-dd02c67b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya'nın iklim koşulları sivrisinek popülasyonunun artması için uygun bir zemin oluştururken, özellikle yeşil alanlarda görülen bu türün alışılmışın dışında gündüz saatlerinde de soktuğu bildirildi. Siyah gövde yapısı ve beyaz çizgileriyle bilinen sivrisineklerin hedef aldığı kişilerin vücudunda şiddetli kaşıntı, geniş çaplı kızarıklık ve belirgin kabarıklıklar oluştuğu kaydedildi.
 

@@ -2,28 +2,40 @@
 title: Alanya Müteahhitler Derneği'nde Yeni Başkan Mevlüt Görücü Oldu
 date: '2026-11-03T10:48:00+03:00'
 ozet: Alanya Müteahhitler Derneği'nde bayrak değişimi yaşandı. Mustafa Küçüker'in ardından başkanlık görevine Mevlüt Görücü getirildi.
-gorsel: /images/haber-gorsel/20261103-alanya-muteahhitler-derneginde-yeni-baskan-mevlut-gorucu-old--b7e8b3b5.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Jonathan Chan / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-alanya-muteahhitler-derneginde-yeni-baskan-mevlut-gorucu-old--b7e8b3b5.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
   konu_imza: d1e63ba463df
+  kaynak_sayfa: https://unsplash.com/photos/Iya-XbLxnqI
+  fotografci: Jonathan Chan
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İnşaat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'insaat-1' (İnşaat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: insaat-1
+    tarih: '2026-11-13T08:47:30+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Mevlüt Görücü'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.gazetealanya.com/alanya-muteahhitler-derneginde-yeni-don
 gorsel_yedek: /images/haber-gorsel/20261103-alanya-muteahhitler-derneginde-yeni-baskan-mevlut-gorucu-old--b7e8b3b5.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-alanya-muteahhitler-derneginde-yeni-baskan-mevlut-gorucu-old--b7e8b3b5.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya inşaat sektörünün önde gelen çatı kuruluşlarından biri olan Alanya Müteahhitler Derneği'nde önemli bir yönetim değişikliği gerçekleşti. Uzun süredir dernek başkanlığı görevini sürdüren Mustafa Küçüker, görevini bıraktığını açıkladı. Küçüker, bundan sonraki süreçte kariyerine Türkiye Odalar ve Borsalar Birliği çatısı altında inşaat sektörüne yönelik yeni sorumluluklar üstlenerek devam edeceğini belirtti.
 

@@ -2,8 +2,8 @@
 title: CW Enerji, Antalya'daki fuarda yeni teknolojilerini tanıttı
 date: '2026-11-09T20:07:00+03:00'
 ozet: Antalya'da düzenlenen enerji fuarına katılan CW Enerji, üretimden depolamaya uzanan entegre çözümlerini sektör profesyonelleriyle buluşturdu.
-gorsel: /images/haber-gorsel/20261109-cw-enerji-antalyadaki-fuarda-yeni-teknolojilerini-tanitti-d7e-20934e63.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1655300256335-beef51a914fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG91c2UlMjByb29mJTIwc29sYXJ8ZW58MXwwfHx8MTc5NDE1MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Watt A Lot / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -11,23 +11,34 @@ etiketler:
 - Tarık Sarvan
 - CW Enerji
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-cw-enerji-antalyadaki-fuarda-yeni-teknolojilerini-tanitti-d7e-20934e63.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1655300256335-beef51a914fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG91c2UlMjByb29mJTIwc29sYXJ8ZW58MXwwfHx8MTc5NDE1MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080
   konu_imza: 18f7d69fb121
+  kaynak_sayfa: https://unsplash.com/photos/a-house-with-solar-panels-Ja8t8nJN2I4
+  fotografci: Watt A Lot
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Güneş paneli
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ges-2' (Güneş paneli) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ges-2
+    tarih: '2026-11-13T08:46:46+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.saraymedya.com/haber/cw-enerji-antalya-daki-fuarda-enteg
 gorsel_yedek: /images/haber-gorsel/20261109-cw-enerji-antalyadaki-fuarda-yeni-teknolojilerini-tanitti-d7e-20934e63.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3936
+  - 2216
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-cw-enerji-antalyadaki-fuarda-yeni-teknolojilerini-tanitti-d7e-20934e63.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 75% 50%
+  o_manset_m: 60% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 60% 50%
+  o_yan_m: 50% 100%
+  o_kart: 75% 50%
+  o_kart_p: 54% 50%
+  url: https://images.unsplash.com/photo-1655300256335-beef51a914fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwaG91c2UlMjByb29mJTIwc29sYXJ8ZW58MXwwfHx8MTc5NDE1MzgyOHww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen EIF Energy Expo 2026, sektörün öncü firmalarını ve profesyonellerini bir araya getirdi. Etkinlikte yerini alan CW Enerji, güneş enerjisi başta olmak üzere enerji üretim, depolama ve akıllı yönetim sistemlerinden oluşan geniş ürün portföyünü ziyaretçilerin incelemesine sundu.
 

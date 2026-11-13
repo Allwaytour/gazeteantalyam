@@ -2,8 +2,8 @@
 title: Serik'te COP31 Gerekçesiyle Kapatılan Yolda Feci Kaza
 date: '2026-11-11T15:07:00+03:00'
 ozet: Antalya'nın Serik ilçesinde trafiğe kapalı olan güzergahta yolun karşısına geçmek isteyen berber, polis aracının çarpması sonucu yaşamını yitirdi.
-gorsel: /images/haber-gorsel/20261111-serikte-cop31-gerekcesiyle-kapatilan-yolda-feci-kaza-d2147-fefa4c51.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+gorsel_kredi: 'Fotoğraf: Dickelbers / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - 112 Acil Sağlık
 - Serik Devlet Hastanesi
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-serikte-cop31-gerekcesiyle-kapatilan-yolda-feci-kaza-d2147-fefa4c51.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
   konu_imza: 2085eaca7e79
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_ambulance_01.JPG
+  fotografci: Dickelbers
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: 112 Acil ambulansı
+  cekim_yili: '2012'
+  aciklama: 112 Acil ambulansı — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ambulans-2' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ambulans-2
+    tarih: '2026-11-13T08:46:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/serik/antalya-serikte-cop31-kapsami
 gorsel_yedek: /images/haber-gorsel/20261111-serikte-cop31-gerekcesiyle-kapatilan-yolda-feci-kaza-d2147-fefa4c51.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3870
+  - 2644
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-serikte-cop31-gerekcesiyle-kapatilan-yolda-feci-kaza-d2147-fefa4c51.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+gorsel_gecmis: []
 ---
 Antalya'nın Serik ilçesine bağlı Yukarıkocayatak Mahallesi'nde sabah saatlerinde meydana gelen trafik kazasında bir kişi hayatını kaybetti. Kent merkezinde yaşayan ve mahalledeki iş yerine gitmek üzere yola çıkan 34 yaşındaki berber Adnan Taş, otobüsten indikten kısa süre sonra kaza geçirdi.
 

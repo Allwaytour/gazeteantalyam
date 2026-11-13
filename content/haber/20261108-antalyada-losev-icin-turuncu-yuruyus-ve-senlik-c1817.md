@@ -3,7 +3,7 @@ title: Antalya'da Lösev İçin Turuncu Yürüyüş ve Şenlik
 date: '2026-11-08T18:58:00+03:00'
 ozet: Lösemili Çocuklar Haftası kapsamında Antalya'da düzenlenen farkındalık yürüyüşü ve şenlik, binlerce katılımcıyı bir araya getirdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Mikael Häggström / Wikimedia Commons (CC0)'
+gorsel_kredi: 'Fotoğraf: Mikael Häggström / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -25,21 +25,20 @@ gorsel_secim:
   gosterilen: lösemi hücrelerinin mikroskop görüntüsü
   cekim_yili: '2022'
   aciklama: Lösemide kan yayması, mikroskop görüntüsü (temsilî)
-  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'losemi' (lösemi hücrelerinin mikroskop görüntüsü) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: losemi
-    tarih: '2026-11-09T13:27:04+03:00'
+    tarih: '2026-11-13T08:46:54+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (0/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; tarihî/siyah-beyaz görüntü güncel haberle çelişiyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor; yanıltıcı dönem; zorunlu unsurlarda
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

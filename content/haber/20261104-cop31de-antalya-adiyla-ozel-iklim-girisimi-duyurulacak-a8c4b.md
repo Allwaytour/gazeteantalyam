@@ -22,32 +22,20 @@ gorsel_secim:
   gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
   cekim_yili: '2016'
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T13:27:12+03:00'
+    tarih: '2026-11-13T08:47:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '3 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %35); Antalya Valiliği sayfası aynı haber değil (benzerlik %5); kaynak görseli kullanılmadı: Demirören Haber Ajansı için kayıtlı kullanım izni yok; ''COP31'' bir olay: başka bir etkinliğin arşiv fotoğrafı kullanılmaz (yalnızca aynı olay aranır); ''Antalya'' için konuyla (climate conference, united nations pavilion, international summit) ilişkili lisanslı fotoğraf bulunamadı; mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı; ilk adaylar elendi; 2. turda 2 aday daha denendi'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Climate_Open_knowledge_initiative_campaign_35.jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Climate_Open_knowledge_initiative_campaign_30.jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

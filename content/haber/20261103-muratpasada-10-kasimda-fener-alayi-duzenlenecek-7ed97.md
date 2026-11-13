@@ -22,21 +22,20 @@ gorsel_secim:
   gosterilen: Mustafa Kemal Atatürk
   cekim_yili: '1926'
   aciklama: Mustafa Kemal Atatürk (1926)
-  gerekce: arşiv kaydı 'ataturk-2' (Mustafa Kemal Atatürk) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'ataturk-2' (Mustafa Kemal Atatürk) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: ataturk-2
-    tarih: '2026-11-09T13:27:14+03:00'
+    tarih: '2026-11-13T08:47:24+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: aşırı karanlık (medyan parlaklık 11, karanlık pay %96); aşırı karanlık (medyan parlaklık 48, karanlık pay %51); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

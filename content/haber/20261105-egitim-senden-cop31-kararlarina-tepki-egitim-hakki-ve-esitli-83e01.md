@@ -22,21 +22,20 @@ gorsel_secim:
   gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
   cekim_yili: '2016'
   aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-1
-    tarih: '2026-11-09T13:27:10+03:00'
+    tarih: '2026-11-13T08:47:12+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'başka bir olayın karesi güncel olayın görüntüsü sanılır; görselde olmaması gereken unsur: uzaktan eğitim ekranı; görselde olmaması gereken unsur: uzaktan eğitim ekranı, COP31 logosu; habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 5); habere uygunluk düşük (5/10, en az 8); ne haberin öznesi ne de olayı görünüyor; yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

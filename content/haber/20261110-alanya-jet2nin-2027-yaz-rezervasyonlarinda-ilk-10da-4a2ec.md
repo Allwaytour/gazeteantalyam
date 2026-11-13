@@ -2,8 +2,8 @@
 title: Alanya, Jet2'nin 2027 yaz rezervasyonlarında ilk 10'da
 date: '2026-11-10T16:11:00+03:00'
 ozet: İngiltere merkezli tur operatörü Jet2'nin paylaştığı 2027 yaz sezonu erken rezervasyon verilerine göre Alanya ilk 10 destinasyon arasında yer aldı.
-gorsel: /images/haber-gorsel/20261110-alanya-jet2nin-2027-yaz-rezervasyonlarinda-ilk-10da-4a2ec-c91cf90a.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1762965119363-af950b523dca?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Alexander Schimmeck / Unsplash'
 kategoriler:
 - Turizm
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Jet2
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-alanya-jet2nin-2027-yaz-rezervasyonlarinda-ilk-10da-4a2ec-c91cf90a.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1762965119363-af950b523dca?fm=jpg&q=80&w=1600&fit=max
   konu_imza: b51ba2d3c7bd
+  kaynak_sayfa: https://unsplash.com/photos/S0u5ugYRNFo
+  fotografci: Alexander Schimmeck
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Havalimanı
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yolcu-1' (Havalimanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yolcu-1
+    tarih: '2026-11-13T08:46:43+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.yenialanya.com/jet2nin-2027-yaz-rezervasyonlarinda-alany
 gorsel_yedek: /images/haber-gorsel/20261110-alanya-jet2nin-2027-yaz-rezervasyonlarinda-ilk-10da-4a2ec-c91cf90a.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6699
+  - 4459
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-alanya-jet2nin-2027-yaz-rezervasyonlarinda-ilk-10da-4a2ec-c91cf90a.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1762965119363-af950b523dca?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 İngiltere merkezli tur operatörü Jet2, önümüzdeki yıllara ilişkin tatil planlamalarını kapsayan erken rezervasyon verilerini paylaştı. Avrupalı seyahat severlerin tercihlerini yansıtan istatistiklerde, İspanya'nın Benidorm bölgesi zirvede yer alırken, Alanya ve Marmaris de en çok talep gören ilk 10 tatil noktası arasına girmeyi başardı.
 

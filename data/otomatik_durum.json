@@ -1,12 +1,7 @@
 {
  "gun": "2026-11-12",
- "yz_bugun": 108,
+ "yz_bugun": 134,
  "gorulen": [
-  {
-   "link": "https://www.aa.com.tr/tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-yerini-aldi/4116308",
-   "baslik": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
-   "ts": 1794168271
-  },
   {
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVS1NTHNGTDNqQ3RQV1Z4dENOb1pfbkNVOXNxZ05tMFJTbDdMNjRiNDNTOUZGMjc2dGNGX0dwaGpmOTlvajgtcXQtNUJxUDVEVUNoQkF6eXc5c3dxN2tGazhudW13MUtSVDlzOHkyeTR0LVhqU1ZEX1lyVlpsRzFJdGVDMG9xZk1sVVNEXw?oc=5",
    "baslik": "Trabzonspor, Alanya deplasmanında yıllar sonra bir ilki yaşadı!",
@@ -15001,9 +14996,14 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3BKZUgyck1Id05WZjlGNmRiTWNQYklqNDBhZEdCdkRrbURWREt4azJGbEFIdHFSQWp1OElhWUxwQ3d2MHVUY095QWk5NjBWb1Vwdl9qRFJUSm5TZnU2TWlKeWs1TnJKZDYyaTAwWW1MLWEtSWZvTE1CdWt4WVpUZmo2Ym1oZkN6T2hDamtmNS1tOGJUenl2R25BMFoyRUQ0Z1Nz?oc=5",
    "baslik": "» Amerika’nın belki de gelecekteki başkanı Antalya’da COP 31 zirvesinde",
    "ts": 1794547657
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDUzg4Z2cwb19uWFNESVk0SkV6RFhHemt4NlBPVDBVUjgzbTZieTJZX1RUS0E2T2xQT0FlRUNtT0JoY0VrbDNZVWpPR0MyWGh1S3NuVlFLSktzWi1xWDlWc3NhYWJUVy05OXJvYjYtT0ZESzYx?oc=5",
+   "baslik": "13 Kasım Antalya’da hava durumu",
+   "ts": 1794548683
   }
  ],
- "son_calisma": "2026-11-13T08:28:01.346553+03:00",
+ "son_calisma": "2026-11-13T08:47:45.604933+03:00",
  "gorsel": {
   "gun": "2026-11-12",
   "yz_bugun": 77,
@@ -58769,7 +58769,7 @@
    "aciklama": "deneme modu: yayın sürümü '-', kod h2.k4.a2.i3.r1.y3",
    "acik": false,
    "hat_kimlik": "h2.k4.a2.i3.r1.y3",
-   "tarih": "2026-11-13T08:27:55+03:00",
+   "tarih": "2026-11-13T08:46:21+03:00",
    "son_tur": {
     "duzelt": 0,
     "bul": 0,
@@ -78042,5 +78042,119 @@
     ]
    }
   ]
+ },
+ "metin_onarim": {
+  "20261112-bakan-kacir-deneyimlerimizi-paylasmaya-haziriz-c1a8d.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261112-antalyada-expo-bulvari-8-gun-trafige-kapaniyor-6ca11.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime sayısı değişti (132 → 131)"
+  },
+  "20261112-antalya-muzesinin-yeni-binasi-icin-2027-takvimi-cagrisi-58035.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: kultursal → kültürel"
+  },
+  "20261112-antalya-isi-eylem-plani-cop31de-tanitildi-63049.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261111-talya-bilisimden-cop31e-dijital-dokunus-14dea.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: onarım isteği yapılamadı: Invalid \\escape: line 1 column 1158 (char 1157)"
+  },
+  "20261111-londra-belediye-baskani-khandan-antalyadaki-cop31de-iklim-ca-bd745.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: baslik: kelime değişti: cagirisi → çağrısı"
+  },
+  "20261111-hazir-giyim-sektorunun-donusumu-antalyada-masaya-yatirilacak-9d266.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: ucuz → üçüncü"
+  },
+  "20261111-bakan-yumakli-antalya-eylem-planini-duyurdu-07b08.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: onarım isteği yapılamadı: Invalid \\escape: line 4 column 911 (char 1153)"
+  },
+  "20261111-antalya-15-skif-dunya-sampiyonasina-ev-sahipligi-yapacak-619d2.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: Tactik → Taktik"
+  },
+  "20261111-alanyada-25-kasim-icin-hazirliklar-basladi-e06a6.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82473.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: daliscular → dalışçılar"
+  },
+  "20261110-antalyada-cop31-temaslari-elektrik-ticareti-gorusuldu-c2657.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: yapigi → yaptığı"
+  },
+  "20261110-antalya-buyuksehir-belediyesinde-dort-yonetici-gorevden-alin-ea17a.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime sayısı değişti (87 → 88)"
+  },
+  "20261109-kasta-aile-faciasi-anne-ve-babasini-oldurdu-0ae7e.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261109-cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsi-10c0e.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: spot: kelime değişti: Ilim → İklim"
+  },
+  "20261109-cop31-akreditasyon-merkezinde-saatler-uzatildi-2bc7e.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: Katimcilarin → Katılımcıların"
+  },
+  "20261109-alanya-belediyespor-kadin-voleybol-takimi-avrupa-kupasinda-b-338ea.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: Ithalya → İtalya"
+  },
+  "20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli-3b80d.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261107-fenerbahce-corum-fk-deplasmaninda-78952.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: spot: kelime sayısı değişti (22 → 23)"
+  },
+  "20261107-antalyada-yapilacak-cop31-iklim-zirvesine-katilacak-ulke-gru-e3659.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "kaynak metin okunamadı ya da Türkçe karaktersiz"
+  },
+  "20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: de → da"
+  },
+  "20261106-sunexpressten-cop31-oncesi-gonullu-saf-ve-bisiklet-indirimi-ffb88.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: onarım isteği yapılamadı: 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again l"
+  },
+  "20261106-cop31-kapsamindaki-etkinliklerin-adresi-turk-telekom-amfitiy-86c2c.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: katilima → katılımın"
+  },
+  "20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261105-antalyada-duzenlenecek-cop31-oncesi-iklim-konferansi-gercekl-92636.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime sayısı değişti (110 → 111)"
+  },
+  "20261104-cin-cumhurbaskani-yardimcisi-han-zheng-antalyaya-geliyor-c836c.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarılamadı: metin: kelime değişti: istirahat → iştirak"
+  },
+  "20261104-antalyada-yapilacak-iklim-konferansinda-kente-ozel-girisim-d-d94b6.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  },
+  "20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil-256ef.md": {
+   "tarih": "2026-11-13T08:44:49+03:00",
+   "sonuc": "onarıldı"
+  }
  }
 }

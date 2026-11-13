@@ -2,25 +2,40 @@
 title: Antalya'da Elazığ Yöresel Ürünler Fuarı Başlıyor
 date: '2026-11-01T16:24:00+03:00'
 ozet: Elazığ'ın kültürel değerleri ve yöresel lezzetleri, 4-8 Kasım tarihlerinde Antalya'da düzenlenecek fuarda ziyaretçilerle buluşacak.
-gorsel: /images/haber-gorsel/20261101-antalyada-elazig-yoresel-urunler-fuari-basliyor-72666-2fd1b9a5.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Euronewsweek Media / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Kepez
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-elazig-yoresel-urunler-fuari-basliyor-72666-2fd1b9a5.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
   konu_imza: f49139881567
+  kaynak_sayfa: https://unsplash.com/photos/KVvEpFVq_-U
+  fotografci: Euronewsweek Media
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Fuar
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'fuar' (Fuar) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: fuar
+    tarih: '2026-11-13T08:47:37+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -31,8 +46,8 @@ kaynak_url: https://www.elazigsonhaber.com/elaziglilar-antalyada-bulusuyor-yores
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-elazig-yoresel-urunler-fuari-basliyor-72666-2fd1b9a5.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -41,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-elazig-yoresel-urunler-fuari-basliyor-72666-2fd1b9a5.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Elazığ'ın kendine özgü yöresel ürünlerini tanıtmak ve farklı illerde yaşayan vatandaşları bir araya getirmek hedefiyle organize edilen fuar, Antalya'da kapılarını açmaya hazırlanıyor. Organizasyon kapsamında Elazığ'a ait ürünleri taşıyan tırlar yola çıkarken, hazırlıklar da hızla sürdürülüyor.
 

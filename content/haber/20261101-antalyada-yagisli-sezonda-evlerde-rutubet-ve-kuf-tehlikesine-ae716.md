@@ -2,8 +2,8 @@
 title: Antalya'da yağışlı sezonda evlerde rutubet ve küf tehlikesine dikkat
 date: '2026-11-01T13:15:38+03:00'
 ozet: Sonbahar ve kış aylarındaki artışla birlikte Antalya'daki konutlarda görülebilen rutubet ve küf sorununa karşı alınabilecek önlemler sıralandı.
-gorsel: /images/haber-gorsel/20261101-antalyada-yagisli-sezonda-evlerde-rutubet-ve-kuf-tehlikesine--4d6b8912.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Joy Stamp / Unsplash'
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -15,23 +15,34 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-evlerde-rutubet-nasil-onlenir/560770
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalyada-yagisli-sezonda-evlerde-rutubet-ve-kuf-tehlikesine--4d6b8912.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
   konu_imza: a50fdfcc0d04
+  kaynak_sayfa: https://unsplash.com/photos/pGQbWXBC1dA
+  fotografci: Joy Stamp
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yağmur
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yagmur-3' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yagmur-3
+    tarih: '2026-11-13T08:47:36+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1552641288-2a972e139224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bW9sZCUyMGh1bWlkaXR5JTIwd2FsbCUyMGluZG9vcnxlbnwxfDB8fHwxNzkzNTI4ODgzfDA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: bruce mars / Unsplash'
@@ -42,8 +53,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-yagisli-sezonda-evlerde-rutubet-ve-kuf-tehlikesine--4d6b8912.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4320
+  - 2432
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalyada-yagisli-sezonda-evlerde-rutubet-ve-kuf-tehlikesine--4d6b8912.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da sonbahar ve kış mevsimlerinde artış gösteren yağışlarla birlikte konutlarda rutubet ve küf riski de yeniden gündeme geliyor. Meteorolojik verilere göre kentte kasım ve aralık aylarında yağış miktarı önemli ölçüde yükseliyor. Bu durum, binaların yağışa karşı korunmasının önemini artırırken yetersiz havalandırılan veya yalıtımı bulunmayan evlerde nem kaynaklı sorunların görülme ihtimalini artırıyor.
 

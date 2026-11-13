@@ -2,48 +2,40 @@
 title: Manavgat'ta ikinci çayırkoşarı görüntülendi
 date: '2026-11-04T10:11:04+03:00'
 ozet: Türkiye'de ilk kez Manavgat'ta kaydedilen Kuzey ve Güney Amerika kökenli çayırkoşarı kuşunun ikinci bireyi de aynı bölgede görüntülendi.
-gorsel: /images/haber-gorsel/20261104-manavgatta-ikinci-cayirkosari-goruntulendi-5f554-d1a70973.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Afsarnayakkan / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler:
 - Manavgat
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-manavgatta-ikinci-cayirkosari-goruntulendi-5f554-d1a70973.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: d2fb11368395
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Buff_breasted_sandpiper_13.jpg
+  fotografci: Afsarnayakkan
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Çayırkoşarı
+  cekim_yili: ''
+  aciklama: Çayırkoşarı — Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kus' (Çayırkoşarı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kus
+    tarih: '2026-11-13T08:47:16+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '7 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Gökçe Coşkun'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Manavgat Nehri ağzı'' için konuyla (buff-breasted sandpiper, bird watching, wetland) ilişkili lisanslı fotoğraf bulunamadı; mevcut görsel bugünkü kimlik/konu kurallarını sağlamıyor; korunmadı; ''çayırkoşarı kuşu gözlemi'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: çayırkoşarı kuşu, kıyı kuşu); ilk adaylar elendi; 2. turda 2 aday daha denendi'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_waterfall_by_tomgensler.JPG
-        katman: kurum
-        neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (çayırkoşarı kuşu) — Manavgat Nehri''ni gösteren genel bir '
-      - sayfa: https://commons.wikimedia.org/wiki/File:07600_%C3%87ayyaz%C4%B1-Manavgat-Antalya,_Turkey_-_panoramio_(5).jpg
-        katman: kurum
-        neden: 'haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (çayırkoşarı kuşu) — Manavgat Nehri''ni gösteren genel bir '
-      - sayfa: https://commons.wikimedia.org/wiki/File:Buff_breasted_sandpiper_13.jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Hind
-      - sayfa: https://commons.wikimedia.org/wiki/File:Buff_breasted_sandpiper_15.jpg
-        katman: nesne
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); Türkiye dışına ait unsur var — Hind
-      - sayfa: https://commons.wikimedia.org/wiki/File:2009_07_31_Turquie-Manavgat_Baraji.jpg
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 2/10); haberin gerektirdiği unsur görünmüyor (çayırkoşarı kuşu) — Manavgat Barajı'nı gösteren genel bir
-      - sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_River_5.jpg
-        katman: kurum
-        neden: habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 0/10); haberin gerektirdiği unsur görün
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -89,8 +81,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-manavgatta-ikinci-cayirkosari-goruntulendi-5f554-d1a70973.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2159
+  - 1912
   dikey: false
   surum: y3
   manset: kaplama
@@ -99,14 +91,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-manavgatta-ikinci-cayirkosari-goruntulendi-5f554-d1a70973.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 50% 74%
+  o_manset_m: 50% 100%
+  o_mansetyan_d: 49% 50%
+  o_mansetyan_m: 49% 50%
+  o_yan_d: 50% 67%
+  o_yan_t: 50% 100%
+  o_yan_m: 50% 78%
+  o_kart: 50% 31%
+  o_kart_p: 49% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Türkiye'de ilk kez Antalya'nın Manavgat ilçesinde rastlanan çayırkoşarı kuşunun ikinci bireyi de aynı bölgede tespit edildi. Kuzey ile Güney Amerika arasında yaklaşık 10 bin kilometrelik göç yolculuğu yapan türün ilk bireyi, Manavgat Nehri'nin denize döküldüğü alanda Hollandalı bir kuş gözlemcisi tarafından kayıt altına alınmıştı. Bu gelişmenin ardından ülkenin farklı kentlerinden çok sayıda kuş gözlemcisi bölgeye akın etmişti.
 

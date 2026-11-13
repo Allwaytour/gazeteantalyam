@@ -2,8 +2,8 @@
 title: Antalya falezlerinde dünyanın en hızlı kuşu gökdoğan görüntülendi
 date: '2026-11-01T01:05:00+03:00'
 ozet: Dünyanın en hızlı kuşu olarak bilinen gökdoğan, Antalya falezlerinde Veteriner Kuş Gözlemcisi Gökçe Coşkun tarafından yakından kaydedildi.
-gorsel: /images/haber-gorsel/20261101-antalya-falezlerinde-dunyanin-en-hizli-kusu-gokdogan-goruntu--4b0560db.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Anton Nikiforov / Wikimedia Commons (CC BY 3.0)'
 gorsel_v4: true
 kategoriler:
 - Yaşam
@@ -16,23 +16,34 @@ otomatik: true
 yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/antalyada-dunyanin-en-hizli-kusu-gokdogan-goruntulendi
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalya-falezlerinde-dunyanin-en-hizli-kusu-gokdogan-goruntu--4b0560db.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
   konu_imza: 271f9f10781f
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
+  fotografci: Anton Nikiforov
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  gosterilen: Lara falezleri
+  cekim_yili: ''
+  aciklama: Lara falezleri — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'lara' (Lara falezleri) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: lara
+    tarih: '2026-11-13T08:47:38+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1706868934222-b0be7c86fb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmFpbiUyMHN0cmVldCUyMHVtYnJlbGxhfGVufDF8MHx8fDE3OTM0ODQ5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Sohan Shingade / Unsplash'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalya-falezlerinde-dunyanin-en-hizli-kusu-gokdogan-goruntu--4b0560db.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3456
+  - 2304
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalya-falezlerinde-dunyanin-en-hizli-kusu-gokdogan-goruntu--4b0560db.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
 ---
 Antalya'nın simgesi haline gelen dünyaca ünlü falezlerde uzun süredir gözlem yapan Veteriner Kuş Gözlemcisi Gökçe Coşkun, doğa fotoğrafçılığı adına önemli bir kayda imza attı. Kent merkezinde yaşamını sürdüren ve görüntülenmesi son derece güç olan gökdoğan, Coşkun'un sabırlı ve azimli takibi sonucunda objektiflere yansıdı. Sabahın erken saatlerinden akşamın geç vaktine kadar falezlerde nöbet tutan gözlemci, bu yırtıcı kuş türünü kadrajına sığdırmayı başardı.
 

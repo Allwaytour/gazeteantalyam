@@ -2,8 +2,8 @@
 title: Antalya'nın voleyboldaki temsilcilerinden kritik hafta
 date: '2026-11-13T02:25:00+03:00'
 ozet: Kadınlar Voleybol 1. Ligi B Grubu'nda mücadele eden Antalya ekipleri, yedinci hafta karşılaşmalarını geride bıraktı.
-gorsel: /images/haber-gorsel/20261113-antalyanin-voleyboldaki-temsilcilerinden-kritik-hafta-6d9d9-697fa9c8.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Sotirios T. Kokkinos / Unsplash'
 kategoriler:
 - Spor
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - Muratpaşa Belediyespor
 - Manavgat Belediyespor
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261113-antalyanin-voleyboldaki-temsilcilerinden-kritik-hafta-6d9d9-697fa9c8.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: a24207de997b
+  kaynak_sayfa: https://unsplash.com/photos/_qgVM0AEu7Q
+  fotografci: Sotirios T. Kokkinos
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Voleybol
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'voleybol-1' (Voleybol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: voleybol-1
+    tarih: '2026-11-13T08:46:29+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyanin-sultanlarinin-play-off-h
 gorsel_yedek: /images/haber-gorsel/20261113-antalyanin-voleyboldaki-temsilcilerinden-kritik-hafta-6d9d9-697fa9c8.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 3888
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261113-antalyanin-voleyboldaki-temsilcilerinden-kritik-hafta-6d9d9-697fa9c8.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Arabica Coffee House Kadınlar Voleybol 1. Ligi B Grubu'nda yer alan Antalya temsilcileri, sezonun yedinci hafta maçlarında sahne aldı. Manavgat Belediyespor'un bay geçirdiği haftada, 07 Megaspor deplasmanda galibiyet elde ederken Muratpaşa Belediyespor sahasında mağlup olarak hanesine bir puan yazdırdı.
 

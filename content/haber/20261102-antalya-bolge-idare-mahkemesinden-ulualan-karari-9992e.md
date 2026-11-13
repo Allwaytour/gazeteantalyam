@@ -2,28 +2,40 @@
 title: Antalya Bölge İdare Mahkemesi'nden Ulualan Kararı
 date: '2026-11-02T19:25:00+03:00'
 ozet: Manavgat'taki Ulualan bölgesinin golf turizm alanı planlarına yönelik istinaf başvurusu reddedildi.
-gorsel: /images/haber-gorsel/20261102-antalya-bolge-idare-mahkemesinden-ulualan-karari-9992e-199a5041.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+gorsel_kredi: 'Fotoğraf: Chris Potter / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Manavgat
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalya-bolge-idare-mahkemesinden-ulualan-karari-9992e-199a5041.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
   konu_imza: a6ff348fd25f
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:3D_Judges_Gavel.jpg
+  fotografci: Chris Potter
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Adalet
+  cekim_yili: '2012'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'adalet-2' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: adalet-2
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Manavgat Belediyesi''ne ai; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 6/10) — Manavgat bölgesinden gene; haberin konusuyla doğrud'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +49,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-bolge-idare-mahkemesinden-ulualan-karari-9992e-199a5041.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3000
+  - 2000
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalya-bolge-idare-mahkemesinden-ulualan-karari-9992e-199a5041.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+gorsel_gecmis: []
 ---
 Manavgat Belediyesi tarafından yapılan açıklamaya göre, Ulualan bölgesiyle ilgili gazeteci Nalan Akpınaroğlu'nun başlattığı hukuki süreçte önemli bir karar alındı. Antalya Bölge İdare Mahkemesi, bölgenin golf turizm alanı olarak planlanmasına ilişkin imar planlarının iptal edilmesi yönündeki ilk derece mahkemesi kararına karşı yapılan istinaf başvurusunu geri çevirdi. Bu kararla birlikte söz konusu imar planlarını iptal eden ilk derece mahkemesi kararı hukuken korundu.
 

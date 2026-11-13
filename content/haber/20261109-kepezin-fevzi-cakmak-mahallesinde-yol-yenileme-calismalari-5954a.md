@@ -2,8 +2,8 @@
 title: Kepez'in Fevzi Çakmak Mahallesi'nde yol yenileme çalışmaları
 date: '2026-11-09T12:02:00+03:00'
 ozet: Kepez Belediyesi, Fevzi Çakmak Mahallesi'nde ulaşım konforunu artırmak için yol yenileme çalışmalarının ikinci etabını başlattı.
-gorsel: /images/haber-gorsel/20261109-kepezin-fevzi-cakmak-mahallesinde-yol-yenileme-calismalari-59-c6091cdd.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Tom Shamberger / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Mesut Kocagöz
 - Kepez Belediyesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-kepezin-fevzi-cakmak-mahallesinde-yol-yenileme-calismalari-59-c6091cdd.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 463f8b512260
+  kaynak_sayfa: https://unsplash.com/photos/4DmYfVEpOXo
+  fotografci: Tom Shamberger
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yol çalışması
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yol-calismasi-3' (Yol çalışması) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yol-calismasi-3
+    tarih: '2026-11-13T08:46:45+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +50,8 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyanin-9-sokaginda-yollar-degis
 gorsel_yedek: /images/haber-gorsel/20261109-kepezin-fevzi-cakmak-mahallesinde-yol-yenileme-calismalari-59-c6091cdd.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 9248
+  - 6936
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +60,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-kepezin-fevzi-cakmak-mahallesinde-yol-yenileme-calismalari-59-c6091cdd.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Kepez Belediyesi, ilçedeki 68 mahallede ulaşım ağını daha güvenli ve konforlu hale getirmek amacıyla yürüttüğü çalışmalara devam ediyor. Bu kapsamda, kentsel dönüşüm ve altyapı faaliyetleri sebebiyle yıpranan Fevzi Çakmak Mahallesi'nde yol yenileme çalışmalarının ikinci etabı hayata geçirildi. Daha önce yaz aylarında tamamlanan ilk etabın ardından, mahalle içi ara sokaklarda yeni bir çalışma programı uygulanmaya başlandı.
 

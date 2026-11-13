@@ -2,29 +2,40 @@
 title: ATİB'in Yeni Başkanı Murat Barçın Oldu
 date: '2026-11-05T10:01:40+03:00'
 ozet: Antalya Alternatif Turizm Etkinlikleri ve İşletmeleri Birliği Derneğinin olağan genel kurulunda başkanlığa Murat Barçın getirildi.
-gorsel: /images/haber-gorsel/20261105-atibin-yeni-baskani-murat-barcin-oldu-44198-9bc603fc.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Pawel Chu / Unsplash'
 kategoriler:
 - Turizm
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-atibin-yeni-baskani-murat-barcin-oldu-44198-9bc603fc.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 5aa785a613fa
+  kaynak_sayfa: https://unsplash.com/photos/ULh0i2txBCY
+  fotografci: Pawel Chu
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Toplantı salonu
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'toplanti-2' (Toplantı salonu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: toplanti-2
+    tarih: '2026-11-13T08:47:12+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Murat Barçın'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Murat Barçın'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); ''Antalya Alternatif Turizm Etkinlikleri ve İşletmeleri Birliği Derneği'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Muratpaşa'' için konuyla (general assembly, meeting room, association members) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-atibin-yeni-baskani-murat-barcin-oldu-44198-9bc603fc.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5058
+  - 3793
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-atibin-yeni-baskani-murat-barcin-oldu-44198-9bc603fc.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya Alternatif Turizm Etkinlikleri ve İşletmeleri Birliği Derneğinde gerçekleştirilen olağan genel kurul toplantısıyla yeni yönetim belirlendi. Muratpaşa ilçesinde yapılan seçimlerde, Murat Barçın başkanlığındaki liste oy birliğiyle görevi devraldı. Gerçekleşen genel kurulla birlikte derneğin yeni yönetiminde Adnan Doğukan Ak, Haydar Culfa, Süleyman Yüce ve Tolga Özgüven isimleri yer aldı.
 

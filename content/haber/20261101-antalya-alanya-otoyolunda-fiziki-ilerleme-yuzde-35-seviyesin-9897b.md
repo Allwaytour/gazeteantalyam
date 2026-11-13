@@ -2,8 +2,8 @@
 title: Antalya-Alanya Otoyolu'nda fiziki ilerleme yüzde 35 seviyesine ulaştı
 date: '2026-11-01T13:16:14+03:00'
 ozet: Yapımı süren Antalya-Alanya Otoyolu tamamlandığında seyahat süresi 36 dakikaya düşecek ve yıllık 23,9 milyar lira tasarruf sağlanacak.
-gorsel: /images/haber-gorsel/20261101-antalya-alanya-otoyolunda-fiziki-ilerleme-yuzde-35-seviyesin--7a8274ff.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+gorsel_kredi: 'Fotoğraf: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_v4: true
 kategoriler:
 - Gündem
@@ -16,23 +16,34 @@ otomatik: true
 yz: true
 kaynak: CNBC-e
 kaynak_url: https://www.cnbce.com/haberler/antalya-alanya-otoyolunda-seyahat-suresi-25-saatten-36-dakikaya-inecek-h40733
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-antalya-alanya-otoyolunda-fiziki-ilerleme-yuzde-35-seviyesin--7a8274ff.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
   konu_imza: f2801d0d8acf
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
+  fotografci: Onur
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya'da trafik
+  cekim_yili: '2015'
+  aciklama: Antalya'da D-400 karayolu — Arşiv fotoğrafı (2015)
+  gerekce: arşiv kaydı 'yol-antalya-2' (Antalya'da trafik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yol-antalya-2
+    tarih: '2026-11-13T08:47:38+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1685692145956-d48371176012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8aGlnaHdheSUyMGNvbnN0cnVjdGlvbiUyMGFzcGhhbHQlMjByb2FkfGVufDF8MHx8fDE3OTM1Mjg4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: ALEKSEY ALYPOV / Unsplash'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalya-alanya-otoyolunda-fiziki-ilerleme-yuzde-35-seviyesin--7a8274ff.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2592
+  - 1456
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-antalya-alanya-otoyolunda-fiziki-ilerleme-yuzde-35-seviyesin--7a8274ff.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 ---
 Antalya ile Alanya arasındaki ulaşımı hızlandırmak ve bölge turizmini desteklemek amacıyla hayata geçirilen otoyol projesinde çalışmalar sürüyor. Yürütülen projeyle birlikte bölgedeki artan ulaşım talebine yanıt verilmesi ve kara yolu ulaşımının daha güvenli ve konforlu hale getirilmesi hedefleniyor.
 

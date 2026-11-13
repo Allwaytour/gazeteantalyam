@@ -2,36 +2,40 @@
 title: 'Tip Antalya Örgütü: Kurtuluş bildirgesiyle emekçilerle buluşacağız'
 date: '2026-11-04T11:12:00+03:00'
 ozet: Türkiye İşçi Partisi Antalya İl Örgütü düzenlediği basın toplantısında mevcut siyasi düzeni eleştirerek yeni döneme ilişkin yol haritalarını paylaştı.
-gorsel: /images/haber-gorsel/20261104-tip-antalya-orgutu-kurtulus-bildirgesiyle-emekcilerle-bulusa--816c2b1c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-tip-logo.jpg
+gorsel_kredi: 'Görsel: TİP / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-tip-antalya-orgutu-kurtulus-bildirgesiyle-emekcilerle-bulusa--816c2b1c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-tip-logo.jpg
   konu_imza: 8a1c86732c18
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi.svg
+  fotografci: TİP
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Türkiye İşçi Partisi
+  cekim_yili: '2017'
+  aciklama: Türkiye İşçi Partisi logosu
+  gerekce: arşiv kaydı 'tip-logo' (Türkiye İşçi Partisi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tip-logo
+    tarih: '2026-11-13T08:47:15+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '2 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Yunus Başaran'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Antalya'' için konuyla (press conference, political party meeting, microphone) ilişkili lisanslı fotoğraf bulunamadı'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Tip-kadikoy.png
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
-      - sayfa: https://commons.wikimedia.org/wiki/File:Anti-PKK_protest_in_Frankfurt,_Germany_on_Zeil_05.jpg
-        katman: kurum
-        neden: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konusuyla doğrudan ilişkili
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -58,14 +62,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-tip-antalya-orgutu-kurtulus-bildirgesiyle-emekcilerle-bulusa--816c2b1c.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-tip-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Türkiye İşçi Partisi tarafından "Kurtuluş Ellerimizde" sloganıyla hazırlanan bildirgede vatandaşlar emek, eşitlik ve dayanışma etrafında birleşmeye davet edildi. Siyasi düzen ile sağ politikaların eleştirildiği metinde; eğitim, sağlık, barınma, iş güvencesi, kadın hakları ve çevre koruma başlıklarında çözüm yollarının birlikte aranması amaçlandığı ifade edildi.
 

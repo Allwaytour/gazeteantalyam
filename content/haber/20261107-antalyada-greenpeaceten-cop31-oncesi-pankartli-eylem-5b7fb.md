@@ -3,7 +3,7 @@ title: Antalya'da Greenpeace'ten COP31 Öncesi Pankartlı Eylem
 date: '2026-11-07T16:02:00+03:00'
 ozet: Greenpeace Türkiye, Antalya'da düzenlenecek COP31 zirvesi öncesinde Konyaaltı Plajı'nda dev bir pankart açarak iklim krizine ve fosil yakıt politikalarına dikkat çekti.
 gorsel: /images/haber-gorsel/logo-greenpeace-logo.jpg
-gorsel_kredi: 'Logo: Stichting Greenpeace Council / Wikimedia Commons (Public domain)'
+gorsel_kredi: 'Görsel: Stichting Greenpeace Council / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -26,18 +26,19 @@ gorsel_secim:
   gosterilen: Greenpeace logosu
   cekim_yili: '1980'
   aciklama: Greenpeace logosu
-  gerekce: arşiv kaydı 'greenpeace-logo' (Greenpeace logosu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'greenpeace-logo' (Greenpeace logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: greenpeace-logo
-    tarih: '2026-11-09T13:35:42+03:00'
+    tarih: '2026-11-13T08:47:00+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false

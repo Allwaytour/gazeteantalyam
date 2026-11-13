@@ -2,8 +2,8 @@
 title: Alanyaspor'u Yenen Gençlerbirliği Beşiktaş Deplasmanında
 date: '2026-11-07T09:44:10+03:00'
 ozet: Trendyol Süper Lig'in 11. haftasında Gençlerbirliği, yarın akşam deplasmanda Beşiktaş'ın konuğu oluyor.
-gorsel: /images/haber-gorsel/20261107-alanyasporu-yenen-genclerbirligi-besiktas-deplasmaninda-e23f5-7a2fd957.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Peter Glaser baraida / Wikimedia Commons (CC0)'
 kategoriler:
 - Spor
 ilceler:
@@ -13,22 +13,34 @@ etiketler:
 - Beşiktaş
 - Corendon Alanyaspor
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-alanyasporu-yenen-genclerbirligi-besiktas-deplasmaninda-e23f5-7a2fd957.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
   konu_imza: cb2878282569
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  fotografci: Peter Glaser baraida
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Futbol
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'futbol-1' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: futbol-1
+    tarih: '2026-11-13T08:47:02+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: '''Tüpraş Stadı'' başlık/spotta geçmiyor ve ana özne değil; fotoğrafı aranmadı; kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; takım haberi: ''Tüpraş Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir); ret s'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,8 +54,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-alanyasporu-yenen-genclerbirligi-besiktas-deplasmaninda-e23f5-7a2fd957.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5787
+  - 3858
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +64,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-alanyasporu-yenen-genclerbirligi-besiktas-deplasmaninda-e23f5-7a2fd957.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_gecmis: []
 ---
 Trendyol Süper Lig'de heyecan 11. hafta mücadeleleriyle devam ediyor. Ligin dikkat çeken ekiplerinden Gençlerbirliği, yarın akşam deplasmanda Beşiktaş ile karşı karşıya gelecek. Tüpraş Stadı'nda oynanacak olan müsabaka saat 21.00'de başlayacak ve karşılaşmayı hakem Atilla Karaoğlan yönetecek.
 

@@ -2,25 +2,40 @@
 title: Antalya uçağında ikinci pilot rahatsızlandı, uçak Üsküp'e indi
 date: '2026-11-02T12:52:13+03:00'
 ozet: Köln'den Antalya'ya gitmek için havalanan SunExpress uçağı, ikinci pilotun rahatsızlanması üzerine Üsküp Havalimanı'na yönlendirildi.
-gorsel: /images/haber-gorsel/20261102-antalya-ucaginda-ikinci-pilot-rahatsizlandi-ucak-uskupe-indi--b628fc30.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Mark Olsen / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-antalya-ucaginda-ikinci-pilot-rahatsizlandi-ucak-uskupe-indi--b628fc30.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 1005b75dc9ff
+  kaynak_sayfa: https://unsplash.com/photos/K5j1KgecVC8
+  fotografci: Mark Olsen
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Uçak
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ucak-1' (Uçak) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ucak-1
+    tarih: '2026-11-13T08:47:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +49,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-ucaginda-ikinci-pilot-rahatsizlandi-ucak-uskupe-indi--b628fc30.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5184
+  - 2920
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +59,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-antalya-ucaginda-ikinci-pilot-rahatsizlandi-ucak-uskupe-indi--b628fc30.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Almanya'nın Köln şehrinden Antalya'ya hareket eden yolcu uçağında beklenmedik bir sağlık durumu yaşandı. Havada ilerleyen uçağın ikinci pilotunun rahatsızlanması üzerine uçuş ekibi ve hava trafik kontrol merkezleri ortak bir karar aldı. Güzergâh değiştirilerek uçuşun Kuzey Makedonya'nın başkenti Üsküp'e yönlendirilmesi kararlaştırıldı.
 

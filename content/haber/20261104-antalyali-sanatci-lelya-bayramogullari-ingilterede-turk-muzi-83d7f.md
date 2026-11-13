@@ -2,28 +2,40 @@
 title: Antalyali sanatci Lelya Bayramogullari Ingiltere'de Türk müzigini tanitti
 date: '2026-11-04T10:09:00+03:00'
 ozet: Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda Londra ve Manchester'da konserler vererek Türk müzigini uluslararasi dinleyicilerle bulusturdu.
-gorsel: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Radek Grzybowski / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
   konu_imza: 74c4c2c9b90e
+  kaynak_sayfa: https://unsplash.com/photos/empty-arranged-theater-YU6A5I_IjTw
+  fotografci: Radek Grzybowski
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Konser
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konser-2' (Konser) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konser-2
+    tarih: '2026-11-13T08:47:18+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: aşırı karanlık (medyan parlaklık 32, karanlık pay %75); aşırı karanlık (medyan parlaklık 34, karanlık pay %69); başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (4/10, en az 6); yanlış kişi öne çıkıyor
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -71,8 +83,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5703
+  - 3807
   dikey: false
   surum: y3
   manset: kaplama
@@ -81,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda gerçeklestirdigi konserlerde Türk müzigini uluslararasi dinleyicilerle bulusturdu. 24-30 Ekim tarihleri arasinda Londra ve Manchester'da üç konser veren sanatçi, ayrica Manchester'daki bir yasli bakim evini ziyaret ederek düzenledigi dinletiyle müzigi sosyal sorumluluk çalismasiyla bir araya getirdi.
 

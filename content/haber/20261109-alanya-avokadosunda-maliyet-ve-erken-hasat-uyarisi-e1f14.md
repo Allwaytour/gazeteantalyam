@@ -2,31 +2,42 @@
 title: Alanya avokadosunda maliyet ve erken hasat uyarısı
 date: '2026-11-09T10:52:00+03:00'
 ozet: Üreticiler, artan maliyetler ve erken hasat uygulamalarının hem üreticiyi hem de tüketiciyi olumsuz etkilediğine dikkat çekti.
-gorsel: /images/haber-gorsel/20261109-alanya-avokadosunda-maliyet-ve-erken-hasat-uyarisi-e1f14-79df5b95.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Ugandan_avocado_fruit_on_the_tree_4.jpg
+gorsel_kredi: 'Fotoğraf: Denis kasozi / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
 - Alanya
 etiketler: []
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-alanya-avokadosunda-maliyet-ve-erken-hasat-uyarisi-e1f14-79df5b95.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Ugandan_avocado_fruit_on_the_tree_4.jpg
   konu_imza: 9e69aa9a1aef
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Ugandan_avocado_fruit_on_the_tree_4.jpg
+  fotografci: Denis kasozi
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Avokado
+  cekim_yili: '2025'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'avokado-1' (Avokado) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: avokado-1
+    tarih: '2026-11-13T08:46:51+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +48,8 @@ kaynak_url: https://www.gazetealanya.com/alanyanin-yesil-altini-masaya-yatirildi
 gorsel_yedek: /images/haber-gorsel/20261109-alanya-avokadosunda-maliyet-ve-erken-hasat-uyarisi-e1f14-79df5b95.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 8256
+  - 5504
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-alanya-avokadosunda-maliyet-ve-erken-hasat-uyarisi-e1f14-79df5b95.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Ugandan_avocado_fruit_on_the_tree_4.jpg
+gorsel_gecmis: []
 ---
 Alanya'da tarım sektörünün önemli ürünlerinden biri olan avokadonun üretim ve pazarlama süreci masaya yatırıldı. Ürünlerin bahçedeki satış fiyatı ile tezgâhlardaki rakamlar arasındaki farkın arkasında, üretim sürecindeki yüksek masrafların yer aldığı ifade edildi. Elektrik, su, gübre ve işçilik gibi giderlerin üreticiyi zorladığına işaret edilerek, ithal ürünlerin vergi dahil maliyetleri nedeniyle yerli üreticinin de fiyatları bu seviyelerde tutmak zorunda kaldığı aktarıldı.
 

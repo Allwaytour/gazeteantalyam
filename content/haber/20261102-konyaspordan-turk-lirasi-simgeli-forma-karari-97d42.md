@@ -2,27 +2,39 @@
 title: Konyaspor'dan Türk lirası simgeli forma kararı
 date: '2026-11-02T12:57:00+03:00'
 ozet: Atiker Konyaspor, Antalyaspor deplasmanına formalarının sol kolunda Türk lirası simgesiyle çıkma kararı aldı.
-gorsel: /images/haber-gorsel/20261102-konyaspordan-turk-lirasi-simgeli-forma-karari-97d42-0b06f555.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-konyaspordan-turk-lirasi-simgeli-forma-karari-97d42-0b06f555.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: takim
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: dc4fb21d02d8
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
+  fotografci: Onur
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya Stadyumu
+  cekim_yili: '2015'
+  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kut-cd9201
+    tarih: '2026-11-13T08:47:30+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +48,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261102-konyaspordan-turk-lirasi-simgeli-forma-karari-97d42-0b06f555.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2592
+  - 1456
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +58,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-konyaspordan-turk-lirasi-simgeli-forma-karari-97d42-0b06f555.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  o_manset_d: 64% 50%
+  o_manset_m: 56% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 56% 50%
+  o_yan_m: 100% 50%
+  o_kart: 64% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Süper Lig ekiplerinden Atiker Konyaspor, milli birlik ve beraberlik vurgusu yaparak dikkat çeken bir karara imza attı. Kulüp tarafından yapılan resmi açıklamada, ülkenin içinden geçeceği hassas dönemde oynanan oyunlara ve operasyonlara kayıtsız kalınmayacağı vurgulandı.
 

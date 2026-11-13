@@ -2,8 +2,8 @@
 title: Antalya Büyükşehir'de istifa iddiası ve görevden almalar
 date: '2026-11-10T13:04:00+03:00'
 ozet: Antalya Büyükşehir Belediyesi'nde yaşanan yönetim tartışmaları sürerken, Başkan Vekili Büşra Özdemir'in hamleleri dikkat çekiyor. Bazı bürokratlar görevden alınırken, parti değişikliği iddiaları gündemde yer alıyor.
-gorsel: /images/haber-gorsel/20261110-antalya-buyuksehirde-istifa-iddiasi-ve-gorevden-almalar-da774-1b6a80d6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: /images/haber-gorsel/logo-abb-logo.jpg
+gorsel_kredi: 'Görsel: Scooder treni / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -14,23 +14,34 @@ etiketler:
 - ASAT
 - CHP
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-antalya-buyuksehirde-istifa-iddiasi-ve-gorevden-almalar-da774-1b6a80d6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: logo
+  gorsel_url: /images/haber-gorsel/logo-abb-logo.jpg
   konu_imza: ea11c226870e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_Logo.png
+  fotografci: Scooder treni
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya Büyükşehir Belediyesi logosu
+  cekim_yili: '2022'
+  aciklama: Antalya Büyükşehir Belediyesi logosu
+  gerekce: arşiv kaydı 'abb-logo' (Antalya Büyükşehir Belediyesi logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Görsel
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: abb-logo
+    tarih: '2026-11-13T08:46:42+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -51,14 +62,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-antalya-buyuksehirde-istifa-iddiasi-ve-gorevden-almalar-da774-1b6a80d6.jpg
+  tipografik: false
+  url: /images/haber-gorsel/logo-abb-logo.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  logo: true
+gorsel_gecmis: []
 ---
 Antalya Büyükşehir Belediyesi'nde tutuklu bulunan Muhittin Böcek ile Başkan Vekili Büşra Özdemir arasında parti değişikliği konusunda fikir ayrılıkları yaşandığı iddiaları gündemdeki yerini koruyor. Süreç devam ederken Büşra Özdemir tarafından belediye bünyesinde bazı görevden alma kararları uygulandı.
 

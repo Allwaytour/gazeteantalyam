@@ -2,29 +2,40 @@
 title: Kemal Karakuzey Antalya’da Kültür ve Siyaset Temaslarında Bulundu
 date: '2026-11-05T14:08:00+03:00'
 ozet: Tarihçi-Yazar Kemal Karakuzey, Antalya’da katıldığı konser ve festival etkinliklerinin ardından siyasi ve sivil toplum kuruluşu ziyaretleri gerçekleştirdi.
-gorsel: /images/haber-gorsel/20261105-kemal-karakuzey-antalyada-kultur-ve-siyaset-temaslarinda-bul--629f458d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Radek Grzybowski rgrzybowski / Wikimedia Commons (CC0)'
 kategoriler:
 - Gündem
 ilceler:
 - Konyaaltı
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-kemal-karakuzey-antalyada-kultur-ve-siyaset-temaslarinda-bul--629f458d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
   konu_imza: d225ae19f945
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+  fotografci: Radek Grzybowski rgrzybowski
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Konser
+  cekim_yili: '2016'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konser-1' (Konser) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konser-1
+    tarih: '2026-11-13T08:47:11+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: kimlik_eslesmedi
-      aciklama: '''Kemal Karakuzey'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-      notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Konyaaltı Belediyesi; Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %5); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %16); Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %44); Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %16); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemal Karakuzey'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var); haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Antalya'' için konuyla (kemal karakuzey, meeting, handshake) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +47,8 @@ baslik_ozgun: KEMAL KARAKUZEY ANTALYA’DA KÜLTÜR VE SİYASET TEMASLARINDA BUL
 gorsel_yedek: /images/haber-gorsel/20261105-kemal-karakuzey-antalyada-kultur-ve-siyaset-temaslarinda-bul--629f458d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5703
+  - 3807
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-kemal-karakuzey-antalyada-kultur-ve-siyaset-temaslarinda-bul--629f458d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+gorsel_gecmis: []
 ---
 Tarihçi-Yazar Kemal Karakuzey, Antalya’da gerçekleştirdiği bir dizi programla kültür, sanat ve siyaset dünyasıyla bir araya geldi. İlk olarak Konyaaltı Belediyesi Feslikan Salonu’nda düzenlenen Cumhuriyet Bayramı özel konserine katılan Karakuzey, burada yabancı uyruklu yerleşik sakinlerin Türkiye’nin milli değerlerine gösterdiği ilgiyi takdirle karşıladı. Koro Şefi Zera Vareldzhi’ye Türk Silahlı Kuvvetleri’ni simgeleyen bir kılıç takdim eden Karakuzey, sanatın birleştirici gücüne vurgu yaptı.
 

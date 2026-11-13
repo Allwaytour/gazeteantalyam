@@ -2,8 +2,8 @@
 title: Manavgat'a 342 milyon liralık yeni otel yatırımı
 date: '2026-10-31T17:35:49+03:00'
 ozet: Antalya'nın Manavgat ilçesinde hayata geçirilecek Maranda Otel projesi için 342 milyon liralık yatırım planlanıyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Daniel Åhs Karlsson / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
 - Turizm
 ilceler:
@@ -20,32 +20,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 3a41378b7926
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Manavgat_Waterfall_%281%29_Red.jpg
-  fotografci: Daniel Åhs Karlsson
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
-  gosterilen: Manavgat Şelalesi
-  cekim_yili: '2013'
-  aciklama: Manavgat Şelalesi (2013)
-  gerekce: arşiv kaydı 'manavgat-selale' (Manavgat Şelalesi) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/TD9ZL6i81R4
+  fotografci: Nedret Binici
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Türk lirası
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'para' (Türk lirası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: manavgat-selale
-    tarih: '2026-11-09T13:27:20+03:00'
+    arsiv_id: para
+    tarih: '2026-11-13T08:47:40+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: arsiv
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20230116_Manavgat%2C_Turkey_15.jpg/1280px-20230116_Manavgat%2C_Turkey_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)'
@@ -56,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-manavgata-342-milyon-liralik-yeni-otel-yatirimi-0f553-a0e3ad0c.jpg
 gorsel_yerlesim:
   boyut:
-  - 4288
-  - 2848
+  - 5472
+  - 3080
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,14 +66,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
+  url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'nın turizm merkezlerinden Manavgat'ta yeni bir konaklama tesisi projesi için hazırlıklar başladı. Üçhan Grup Gıda Ltd. Şti. tarafından Evren Mahallesi sınırları içinde inşa edilmesi planlanan Maranda Otel için toplam 342 milyon 195 bin lira yatırım bütçesi ayrıldı. Proje, şahıs mülkiyetindeki bir arazi üzerinde kurulacak.
 

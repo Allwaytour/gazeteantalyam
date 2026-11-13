@@ -2,30 +2,42 @@
 title: Alanya'da Taha Miraç İçin Düzenlenen Yoga Etkinliğinde 343 Bin TL Bağış Toplandı
 date: '2026-11-07T12:34:00+03:00'
 ozet: Alanya'da tedavi masrafları için yürütülen kampanyaya destek amacıyla yoga etkinliği düzenlendi. Etkinlik sonunda sağlanan 343 bin TL'lik gelir resmi tedavi hesabına aktarıldı.
-gorsel: /images/haber-gorsel/20261107-alanyada-taha-mirac-icin-duzenlenen-yoga-etkinliginde-343-bi--50795e4c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1763043778073-0174fbed4170?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Chiputt Golf / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
 etiketler: []
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261107-alanyada-taha-mirac-icin-duzenlenen-yoga-etkinliginde-343-bi--50795e4c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1763043778073-0174fbed4170?fm=jpg&q=80&w=1600&fit=max
   konu_imza: f3a417979fe4
+  kaynak_sayfa: https://unsplash.com/photos/8c1A9xHVFFo
+  fotografci: Chiputt Golf
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yoga
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yoga' (Yoga) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yoga
+    tarih: '2026-11-13T08:47:02+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'büyük filigran ya da görüntüye gömülü yazı; habere uygunluk düşük (1/10, en az 5); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; zorunlu unsurlardan hiçbiri görünmüyor: yoga yapan insanlar, yoga matları'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,8 +51,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-alanyada-taha-mirac-icin-duzenlenen-yoga-etkinliginde-343-bi--50795e4c.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5333
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -49,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261107-alanyada-taha-mirac-icin-duzenlenen-yoga-etkinliginde-343-bi--50795e4c.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1763043778073-0174fbed4170?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya'da tedavi süreci devam eden Taha Miraç Kevkir için dayanışma etkinlikleri sürdürülüyor. Özge Uyar'ın öncülüğünde hayata geçirilen yoga buluşmasında, katılımcıların ve bağışta bulunan hayırseverlerin desteğiyle önemli bir kaynak oluşturuldu.
 

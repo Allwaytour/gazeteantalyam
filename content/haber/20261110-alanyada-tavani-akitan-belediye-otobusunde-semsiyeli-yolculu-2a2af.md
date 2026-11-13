@@ -2,8 +2,8 @@
 title: Alanya'da tavanı akıtan belediye otobüsünde şemsiyeli yolculuk
 date: '2026-11-10T17:07:00+03:00'
 ozet: Alanya'da yağmur sularının damladığı toplu taşıma aracında şemsiye açmak zorunda kalan vatandaşlar, araçların bakım eksikliklerinin giderilmesini istedi.
-gorsel: /images/haber-gorsel/20261110-alanyada-tavani-akitan-belediye-otobusunde-semsiyeli-yolculu--5b279bd5.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
+gorsel_kredi: 'Fotoğraf: Ilya Plekhanov / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Antalya Büyükşehir Belediyesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261110-alanyada-tavani-akitan-belediye-otobusunde-semsiyeli-yolculu--5b279bd5.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
   konu_imza: 100d17ce6d8c
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_bus_01.jpg
+  fotografci: Ilya Plekhanov
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya'da belediye otobüsü
+  cekim_yili: '2014'
+  aciklama: Antalya'da belediye otobüsü — Arşiv fotoğrafı (2014)
+  gerekce: arşiv kaydı 'otobus' (Antalya'da belediye otobüsü) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: otobus
+    tarih: '2026-11-13T08:46:43+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-belediye-otobuslerinin-suyu-cikt
 gorsel_yedek: /images/haber-gorsel/20261110-alanyada-tavani-akitan-belediye-otobusunde-semsiyeli-yolculu--5b279bd5.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 2000
+  - 1333
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261110-alanyada-tavani-akitan-belediye-otobusunde-semsiyeli-yolculu--5b279bd5.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
+gorsel_gecmis: []
 ---
 Alanya'da yağışlı havalarda toplu taşıma araçlarını kullanan yolcular, tavanından su sızdıran otobüsler nedeniyle zor anlar yaşıyor. Günlük ulaşım için otobüslere binen vatandaşlar, yağmur suyunun içeriye damlaması üzerine araç içinde şemsiye açarak korunmaya çalıştı. İş ve eğitim gibi zorunlu seyahatlerinde bu manzarayla karşılaşan yolcular, toplu taşıma hizmetinin güvenli ve konforlu olması gerektiğini belirtti.
 

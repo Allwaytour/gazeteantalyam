@@ -2,8 +2,8 @@
 title: ALKÜ'den siber güvenlik tescili ve gençlerin gözünden Alanya
 date: '2026-11-06T14:56:00+03:00'
 ozet: Alanya Alaaddin Keykubat Üniversitesi siber güvenlik alanında ISO sertifikası alırken, öğrenciler hazırladıkları anime videosuyla kentin dokusunu tanıttı.
-gorsel: /images/haber-gorsel/20261106-alkuden-siber-guvenlik-tescili-ve-genclerin-gozunden-alanya-4-a3a32915.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1654588831193-0285dab84d5a?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Sasun Bughdaryan / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - Alanya Alaaddin Keykubat Üniversitesi
 - ALKÜ KİM Vakfı Öğrenci Topluluğu
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261106-alkuden-siber-guvenlik-tescili-ve-genclerin-gozunden-alanya-4-a3a32915.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1654588831193-0285dab84d5a?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 91639de4f0af
+  kaynak_sayfa: https://unsplash.com/photos/2T4l02ZYj-k
+  fotografci: Sasun Bughdaryan
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Siber güvenlik
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'siber' (Siber güvenlik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: siber
+    tarih: '2026-11-13T08:47:08+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'ikincil hedefler (başlık/spotta yok) aranmadı: Süleymaniye Camii; Alanya Belediyesi sayfası aynı haber değil (benzerlik %35); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kenan Ahmet Türkdoğan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Ala'
-      notlar: 'ikincil hedefler (başlık/spotta yok) aranmadı: Süleymaniye Camii; Alanya Belediyesi sayfası aynı haber değil (benzerlik %35); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kenan Ahmet Türkdoğan'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; ''Alanya Alaaddin Keykubat Üniversitesi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya Alaaddin Keykubat Üniversitesi'' için konuyla (university campus, alanya) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ kaynak_url: https://www.gazetealanya.com/siber-kalkan-guclendi-gencler-animeyle-
 gorsel_yedek: /images/haber-gorsel/20261106-alkuden-siber-guvenlik-tescili-ve-genclerin-gozunden-alanya-4-a3a32915.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5616
+  - 2940
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261106-alkuden-siber-guvenlik-tescili-ve-genclerin-gozunden-alanya-4-a3a32915.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1654588831193-0285dab84d5a?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya Alaaddin Keykubat Üniversitesi (ALKÜ), bilgi güvenliği ve veri gizliliği alanındaki çalışmalarını uluslararası alanda tescilledi. Bilgi İşlem Daire Başkanlığı koordinasyonunda gerçekleştirilen süreç sonucunda üniversite, ISO/IEC 27001:2022 sertifikasını almaya hak kazandı. Bu belgeyle birlikte, kurumun akademik ve kurumsal veri altyapısının uluslararası standartlara tam uyum sağladığı resmileşmiş oldu.
 

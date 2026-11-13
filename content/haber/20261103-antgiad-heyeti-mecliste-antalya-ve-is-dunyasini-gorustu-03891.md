@@ -2,29 +2,40 @@
 title: AntGİAD heyeti Meclis'te Antalya ve iş dünyasını görüştü
 date: '2026-11-03T16:54:49+03:00'
 ozet: Antalya Genç İş İnsanları Derneği yönetimi, Ankara temasları kapsamında TBMM'de Antalya milletvekilleriyle bir araya geldi.
-gorsel: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: Yildiz Yazicioglu (VOA) / Wikimedia Commons (Public domain)'
 kategoriler:
 - Ekonomi
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   konu_imza: b9fd123c24b5
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  fotografci: Yildiz Yazicioglu (VOA)
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2020'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2020)
+  gerekce: arşiv kaydı 'tbmm-2' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-2
+    tarih: '2026-11-13T08:47:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: başka bir etkinliğin kalabalık/geniş karesi haberdeki etkinlik sanılır; mikrofon/kürsü gibi genel dolgu görseli
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -150,8 +161,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 1280
+  - 720
   dikey: false
   surum: y3
   manset: kaplama
@@ -160,14 +171,13 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
+  o_yan_d: 50% 100%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara'daki temasları çerçevesinde Türkiye Büyük Millet Meclisi'ni ziyaret etti. Dernek başkanı ve beraberindeki heyet, AK Parti Antalya milletvekilleri Mustafa Köse, İbrahim Ethem Taş, Kemal Çelik ve Atay Uslu ile görüştü.
 

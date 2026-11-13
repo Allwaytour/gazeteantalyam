@@ -2,8 +2,8 @@
 title: Ampute Futbol Milli Takımı Dünya Kupası Hazırlıklarını Antalya'da Tamamlıyor
 date: '2026-11-08T09:39:28+03:00'
 ozet: Meksika'da düzenlenecek 2026 Dünya Kupası'na hazırlanan Ampute Futbol Milli Takımı, Antalya'daki son etap kamp çalışmalarını 11 Kasım'da noktalıyor.
-gorsel: /images/haber-gorsel/20261108-ampute-futbol-milli-takimi-dunya-kupasi-hazirliklarini-antal--eeee73c1.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Giorgio Trovato / Unsplash'
 kategoriler:
 - Spor
 ilceler: []
@@ -12,22 +12,34 @@ etiketler:
 - Ampute Futbol Milli Takımı
 - Türkiye Bedensel Engelliler Spor Federasyonu
 onem: 4
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261108-ampute-futbol-milli-takimi-dunya-kupasi-hazirliklarini-antal--eeee73c1.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 2ad9dbc1582a
+  kaynak_sayfa: https://unsplash.com/photos/_XTY6lD8jgM
+  fotografci: Giorgio Trovato
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Kupa
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kupa' (Kupa) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kupa
+    tarih: '2026-11-13T08:46:56+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Alpaslan Erkoç'' başlıkta/spotta geçmiyor ve haberin ana öznesi değil; fotoğrafı kullanılmadı; takım haberi: ''Antalya'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı ge'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,8 +53,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261108-ampute-futbol-milli-takimi-dunya-kupasi-hazirliklarini-antal--eeee73c1.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5282
+  - 3521
   dikey: false
   surum: y3
   manset: kaplama
@@ -51,14 +63,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261108-ampute-futbol-milli-takimi-dunya-kupasi-hazirliklarini-antal--eeee73c1.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Son şampiyon unvanıyla Meksika'da düzenlenecek 2026 Dünya Kupası'na katılacak olan Ampute Futbol Milli Takımı, şampiyona öncesindeki son hazırlıklarını Antalya'da gerçekleştiriyor. 13-22 Kasım tarihleri arasında yapılacak turnuva öncesinde form tutan milliler, çalışmalarını yoğun bir tempoda sürdürüyor.
 

@@ -2,8 +2,8 @@
 title: 'COP31 Hazırlık Harcamaları Tartışma Yarattı: Okul Yemeği Talebi Öne Çıkarıldı'
 date: '2026-11-08T17:52:00+03:00'
 ozet: Antalya'da yapılacak COP31 için ayrılan 25 milyar TL'yi aşkın bütçe, okullarda ücretsiz yemek talebini yeniden gündeme getirdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nathan Cima / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -17,31 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 80421b7a9125
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/Qw6wa96IvvQ
+  fotografci: Nathan Cima
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Sınıf
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinif-2' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-09T13:27:01+03:00'
+    arsiv_id: sinif-2
+    tarih: '2026-11-13T08:46:54+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); habere uygunluk düşük (3/10, en az 6); habere uygunluk düşük (4/10, en az 6); habere uygunluk düşük (5/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; tarihî/siyah-beyaz görüntü güncel haberle '
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -52,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/25-milyar-tllik-cop31-hazir
 gorsel_yedek: /images/haber-gorsel/20261108-cop31-hazirlik-harcamalari-tartisma-yaratti-okul-yemegi-tale--d4fa1693.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -62,14 +61,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
   o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31 hazırlıkları kapsamında yapılan harcamalar, kamu bütçesinin kullanımı konusunda yeni bir tartışma başlattı. Elektronik Kamu Alımları Platformu (EKAP) verilerine dayanan araştırmalara göre, organizasyon için gerçekleştirilen ihale ve sözleşme tutarlarının toplamı 25 milyar 139 milyon TL'ye ulaştı. Bu tutarın içerisinde geçici yapı sistemleri, ana etkinlik alanı, ulaşım yolları ve peyzaj düzenlemeleri gibi çeşitli kalemler yer alıyor.

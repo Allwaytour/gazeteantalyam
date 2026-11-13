@@ -2,29 +2,40 @@
 title: Marketten ürünleri ödemeden çıkarmak isteyen şüpheli güvenlik görevlisini bıçakladı
 date: '2026-11-05T09:42:17+03:00'
 ozet: Antalya'da bir markette yaklaşık 3 bin 500 lira değerindeki ürünü ödemeden götürmeye çalışırken fark edilen güvenlik görevlisini bıçakla yaralayan şüpheli tutuklandı.
-gorsel: /images/haber-gorsel/20261105-marketten-urunleri-odemeden-cikarmak-isteyen-supheli-guvenli--ec3fbbf9.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Scott Rodgerson / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-marketten-urunleri-odemeden-cikarmak-isteyen-supheli-guvenli--ec3fbbf9.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 41332a893b89
+  kaynak_sayfa: https://unsplash.com/photos/ffH_GkINfyY
+  fotografci: Scott Rodgerson
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Polis
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'polis-1' (Polis) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: polis-1
+    tarih: '2026-11-13T08:47:11+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
-      notlar: 'kaynak görseli kullanılmadı: İhlas Haber Ajansı için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Muratpaşa'' için konuyla (supermarket, police tape, crime scene) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-marketten-urunleri-odemeden-cikarmak-isteyen-supheli-guvenli--ec3fbbf9.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4500
+  - 3000
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-marketten-urunleri-odemeden-cikarmak-isteyen-supheli-guvenli--ec3fbbf9.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'nın Muratpaşa ilçesinde faaliyet gösteren bir zincir markette meydana gelen olayda, reyonlardan yaklaşık 3 bin 500 lira tutarında ürün alan şüpheli, kasadan ödeme yapmadan çıkışa yöneldi. Durumu fark eden güvenlik görevlisi şüpheliye müdahale etmek istedi. Güvenlik görevlisini fark etmesi üzerine arbede yaşandı ve şüpheli, görevliyi kesici aletle vücudunun çeşitli yerlerinden yaralayarak olay yerinden kaçtı.
 

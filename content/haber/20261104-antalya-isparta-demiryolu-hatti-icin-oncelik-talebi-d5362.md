@@ -2,28 +2,39 @@
 title: Antalya-Isparta Demiryolu Hattı İçin Öncelik Talebi
 date: '2026-11-04T20:21:00+03:00'
 ozet: TBMM KİT Komisyonu toplantısında konuşan AK Parti Isparta Milletvekili Osman Zabun, Antalya-Isparta-Burdur-Afyonkarahisar demiryolu hattının öncelikli projeler arasına alınmasını istedi.
-gorsel: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: tesis
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 25a19ab3080e
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
+  lisans: Public domain
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  gosterilen: TBMM Genel Kurulu
+  cekim_yili: '2022'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'tbmm-1' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: tbmm-1
+    tarih: '2026-11-13T08:47:20+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: bilinen_yanlis_kaldirildi
-      aciklama: mikrofon/kürsü gibi genel dolgu görseli
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -148,8 +159,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -158,14 +169,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalya-isparta-demiryolu-hatti-icin-oncelik-talebi-d5362-cdc9680f.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Komisyonu'nda gerçekleştirilen toplantıda, Türkiye Cumhuriyeti Devlet Demiryolları Genel Müdürlüğü ile bağlı şirketlerin 2023 ve 2024 yıllarına ait hesapları ve faaliyetleri değerlendirildi. Toplantı sırasında bölgenin ulaşım altyapısı açısından büyük önem taşıyan demiryolu projesi de gündeme taşındı.
 

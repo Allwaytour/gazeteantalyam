@@ -2,8 +2,8 @@
 title: Antalya Açıkhava Sahnesi'nde Levent Yüksel rüzgarı
 date: '2026-11-12T08:47:00+03:00'
 ozet: Antalya Açıkhava Sahnesi, sezon finalini sevilen sanatçı Levent Yüksel'in konseriyle geride bıraktı.
-gorsel: /images/haber-gorsel/20261112-antalya-acikhava-sahnesinde-levent-yuksel-ruzgari-06219-ba56ce14.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Cembayoglu / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Levent Yüksel
 - Antalya Açıkhava Sahnesi
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261112-antalya-acikhava-sahnesinde-levent-yuksel-ruzgari-06219-ba56ce14.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: b068b0a7a714
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Levent_Y%C3%BCksel.jpg
+  fotografci: Cembayoglu
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Levent Yüksel
+  cekim_yili: '2024'
+  aciklama: Levent Yüksel — Arşiv fotoğrafı (2024)
+  gerekce: arşiv kaydı 'kisi-22cab3' (Levent Yüksel) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-22cab3
+    tarih: '2026-11-13T08:46:31+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,24 +50,21 @@ kaynak_url: https://www.antalyabihaber.com/antalya-acikhava-sezonu-levent-yuksel
 gorsel_yedek: /images/haber-gorsel/20261112-antalya-acikhava-sahnesinde-levent-yuksel-ruzgari-06219-ba56ce14.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
-  dikey: false
+  - 2000
+  - 3000
+  dikey: true
   surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
+  manset: yan
+  yan: false
+  kart: false
   detay: true
-  kart_portre: false
-  yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261112-antalya-acikhava-sahnesinde-levent-yuksel-ruzgari-06219-ba56ce14.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 50% 0%
+  o_kart_p: 50% 0%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Antalya Açıkhava Sahnesi, nisan ayında başlayan etkinlik sezonunu kasım ayında gerçekleştirilen final konseriyle tamamladı. Sezon boyunca pek çok sanatçıyı ve grubu müzikseverlerle buluşturan mekan, kapanışı ünlü müzisyen Levent Yüksel'in sahne performansıyla yaptı.
 

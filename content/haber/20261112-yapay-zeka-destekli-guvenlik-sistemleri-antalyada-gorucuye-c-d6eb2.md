@@ -2,30 +2,41 @@
 title: Yapay zeka destekli güvenlik sistemleri Antalya'da görücüye çıktı
 date: '2026-11-12T11:08:03+03:00'
 ozet: Antalya'da düzenlenen Enerji Dönüşüm Fuarı'nda, yapay zeka destekli akıllı kamera ve sensör teknolojileri tanıtıldı.
-gorsel: /images/haber-gorsel/20261112-yapay-zeka-destekli-guvenlik-sistemleri-antalyada-gorucuye-c--7c53ad50.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Igor Omilaev / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler: []
 etiketler: []
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261112-yapay-zeka-destekli-guvenlik-sistemleri-antalyada-gorucuye-c--7c53ad50.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
   konu_imza: daf5db8de47d
+  kaynak_sayfa: https://unsplash.com/photos/eGGFZ5X2LnA
+  fotografci: Igor Omilaev
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Yapay zekâ
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'yapay-zeka' (Yapay zekâ) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: yapay-zeka
+    tarih: '2026-11-13T08:46:29+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -36,8 +47,8 @@ kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/yapay-zeka-de
 gorsel_yedek: /images/haber-gorsel/20261112-yapay-zeka-destekli-guvenlik-sistemleri-antalyada-gorucuye-c--7c53ad50.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3000
+  - 2500
   dikey: false
   surum: y3
   manset: kaplama
@@ -46,14 +57,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261112-yapay-zeka-destekli-guvenlik-sistemleri-antalyada-gorucuye-c--7c53ad50.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Kentte gerçekleştirilen 20. EIF Enerji Dönüşüm Fuarı ve Kongresi, kritik altyapılara yönelik modern güvenlik çözümlerine ev sahipliği yaptı. Etkinlikte sergilenen yapay zeka destekli akıllı kamera ve sensör sistemleri katılımcıların ilgisini çekti.
 

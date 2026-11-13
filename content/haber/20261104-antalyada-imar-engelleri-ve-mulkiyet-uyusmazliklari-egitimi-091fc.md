@@ -2,27 +2,39 @@
 title: Antalya'da imar engelleri ve mülkiyet uyuşmazlıkları eğitimi vurdu
 date: '2026-11-04T02:00:00+03:00'
 ozet: Antalya'nın merkez ilçelerindeki imar planları, mülkiyet sorunları ve kamulaştırma gecikmeleri eğitim yatırımlarını olumsuz etkiliyor.
-gorsel: /images/haber-gorsel/20261104-antalyada-imar-engelleri-ve-mulkiyet-uyusmazliklari-egitimi-0-c83882a6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Adesh Bankar / Unsplash'
 kategoriler:
 - Eğitim
 ilceler: []
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-antalyada-imar-engelleri-ve-mulkiyet-uyusmazliklari-egitimi-0-c83882a6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 0407e8f7b1f1
+  kaynak_sayfa: https://unsplash.com/photos/YNm1fhRIMa8
+  fotografci: Adesh Bankar
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İnşaat
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'insaat-2' (İnşaat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: insaat-2
+    tarih: '2026-11-13T08:47:18+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '1 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -33,8 +45,8 @@ kaynak_url: https://www.antalyagundem.com.tr/antalyanin-3-ilcesinde-imar-cikmazi
 gorsel_yedek: /images/haber-gorsel/20261104-antalyada-imar-engelleri-ve-mulkiyet-uyusmazliklari-egitimi-0-c83882a6.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5456
+  - 3632
   dikey: false
   surum: y3
   manset: kaplama
@@ -43,14 +55,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-antalyada-imar-engelleri-ve-mulkiyet-uyusmazliklari-egitimi-0-c83882a6.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da hızla artan nüfus ve yoğun göç dalgası, eğitim altyapısında önemli sıkıntıları beraberinde getirdi. Kent merkezindeki mahallelerde yeni okullara duyulan ihtiyaç artarken, okul yapılması için ayrılan arsaların yıllardır değerlendirilemediği iddiaları gündemde yer buluyor. Muratpaşa, Kepez ve Konyaaltı ilçelerinde yaşanan örnekler; imar planları, mülkiyet uyuşmazlıkları ve yatırım gecikmelerinin eğitim yatırımlarını nasıl aksattığını gözler önüne seriyor.
 

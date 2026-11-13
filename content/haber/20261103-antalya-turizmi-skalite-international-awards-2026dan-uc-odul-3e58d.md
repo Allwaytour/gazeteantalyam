@@ -22,21 +22,20 @@ gorsel_secim:
   gosterilen: Konyaaltı Sahili ve Beydağları
   cekim_yili: '2023'
   aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
-  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: antalya-konyaalti
-    tarih: '2026-11-09T13:27:15+03:00'
+    tarih: '2026-11-13T08:47:28+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '4 aday görüntü kontrolünde elendi: görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı; tanınabilir kişi (hassas haber / adı geçen kişi sanılabilir) — İstanbul''daki ödül törenini'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

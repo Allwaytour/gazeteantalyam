@@ -2,8 +2,8 @@
 title: Manavgat mezarlıklarında bakım ve onarım çalışmaları sürüyor
 date: '2026-11-11T13:51:37+03:00'
 ozet: Antalya Büyükşehir Belediyesi, Manavgat ilçesindeki mezarlıkların fiziki koşullarını daha iyi bir duruma getirmek için bakım ve onarım çalışmalarını devam ettiriyor.
-gorsel: /images/haber-gorsel/20261111-manavgat-mezarliklarinda-bakim-ve-onarim-calismalari-suruyor--c3158fd2.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+gorsel_kredi: 'Arşiv fotoğrafı: Cobija / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Antalya Büyükşehir Belediyesi
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-manavgat-mezarliklarinda-bakim-ve-onarim-calismalari-suruyor--c3158fd2.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kurum
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
   konu_imza: b0953f3914ad
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+  fotografci: Cobija
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  gosterilen: Antalya Büyükşehir Belediyesi hizmet binası
+  cekim_yili: '2014'
+  aciklama: Antalya Büyükşehir Belediyesi binası (2014)
+  gerekce: arşiv kaydı 'abb-bina' (Antalya Büyükşehir Belediyesi hizmet binası) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: abb-bina
+    tarih: '2026-11-13T08:46:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://hibya.com/manavgat-mezarliklarinda-yenileme-calismasi-yapild
 gorsel_yedek: /images/haber-gorsel/20261111-manavgat-mezarliklarinda-bakim-ve-onarim-calismalari-suruyor--c3158fd2.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 3264
+  - 2448
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-manavgat-mezarliklarinda-bakim-ve-onarim-calismalari-suruyor--c3158fd2.jpg
-  o_manset_d: 50% 50%
+  o_manset_d: 50% 100%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 90%
   o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
+  o_yan_m: 50% 100%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+gorsel_gecmis: []
 ---
 Antalya Büyükşehir Belediyesi, Manavgat'taki mezarlıkların fiziki altyapısını güçlendirmek amacıyla yürüttüğü çalışmalara hız verdi. Fen İşleri Dairesi Başkanlığına bağlı ekipler, Demirciler Mahallesi Mezarlığı'nda güvenlik ve düzeni artırmak için çevre düzenlemesi gerçekleştirdi.
 

@@ -2,8 +2,8 @@
 title: Alanya'da Cumhuriyet'in 103. yılı coşkusu Murat Boz konseriyle taçlandı
 date: '2026-10-31T22:25:26+03:00'
 ozet: Alanya'da Cumhuriyet'in 103'üncü yıl dönümü kutlamaları kapsamında binlerce kişinin katılımıyla fener alayı düzenlendi. Ardından sahne alan Murat Boz, sevilen şarkılarını seslendirirken bir klibini bu ilçede çekeceğinin sözünü verdi.
-gorsel: /images/haber-gorsel/20261031-alanyada-cumhuriyetin-103-yili-coskusu-murat-boz-konseriyle-4-55272207.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
+gorsel_kredi: 'Fotoğraf: Radek Grzybowski / Unsplash'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -16,23 +16,34 @@ yz: true
 kaynak: Medya Gazete
 kaynak_url: https://www.medyagazete.com/haber/unlu-popcu-murat-boz-alanyada-sahne-aldi-klip-sozu-verdi
 gorsel_v4: true
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-alanyada-cumhuriyetin-103-yili-coskusu-murat-boz-konseriyle-4-55272207.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
   konu_imza: 33045e9687c6
+  kaynak_sayfa: https://unsplash.com/photos/empty-arranged-theater-YU6A5I_IjTw
+  fotografci: Radek Grzybowski
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Konser
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konser-2' (Konser) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konser-2
+    tarih: '2026-11-13T08:47:44+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1651910031211-42aaa52b87cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cmVwdWJsaWMlMjBkYXklMjBjb25jZXJ0JTIwY3Jvd2R8ZW58MXwwfHx8MTc5MzQ4NTUzNXww&ixlib=rb-4.1.0&q=80&w=1080
   gorsel_kredi: 'Temsili fotoğraf: Abhinav Sharma / Unsplash'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-alanyada-cumhuriyetin-103-yili-coskusu-murat-boz-konseriyle-4-55272207.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5703
+  - 3807
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-alanyada-cumhuriyetin-103-yili-coskusu-murat-boz-konseriyle-4-55272207.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 Alanya'da Cumhuriyet'in 103'üncü yıl dönümü, Alanya Belediyesi ile Alanya Kent Konseyi ortaklığında organize edilen etkinliklerle coşkuyla kutlandı. Atatürk Anıtı önünde başlayan program, Cumhuriyet meşalesinin yakılması ve binlerce vatandaşın katıldığı fener alayı ile devam etti. Kutlamalara yerel yöneticiler, siyasi parti temsilcileri, sivil toplum kuruluşları ve çok sayıda vatandaş iştirak etti. Ellerinde Türk bayraklarıyla Atatürk Caddesi ve İskele Caddesi'nde yürüyen kalabalık, marşlar eşliğinde kutlama coşkusunu sokaklara taşıdı.
 

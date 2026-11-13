@@ -3,7 +3,7 @@ title: İYİ Parti TBMM Grup Toplantısı Antalya'da Düzenlenecek
 date: '2026-11-08T17:24:21+03:00'
 ozet: İYİ Parti Genel Başkanı Müsavat Dervişoğlu, partisinin grup toplantısına katılmak üzere Antalya'ya geliyor.
 gorsel: /images/haber-gorsel/logo-iyiparti-logo.jpg
-gorsel_kredi: 'Logo: İYİ Parti / Wikimedia Commons (Public domain)'
+gorsel_kredi: 'Görsel: İYİ Parti / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -26,21 +26,20 @@ gorsel_secim:
   gosterilen: İYİ Parti logosu
   cekim_yili: '2018'
   aciklama: İYİ Parti logosu
-  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-09T13:27:04+03:00'
+    tarih: '2026-11-13T08:46:53+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: başka bir olayın karesi bu haberin görüntüsü sanılır; habere uygunluk düşük (2/10, en az 6); haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor; haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

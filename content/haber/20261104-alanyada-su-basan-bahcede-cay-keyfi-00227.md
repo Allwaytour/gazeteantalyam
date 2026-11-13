@@ -2,28 +2,40 @@
 title: Alanya'da su basan bahçede çay keyfi
 date: '2026-11-04T16:32:00+03:00'
 ozet: Alanya'da şiddetli yağış nedeniyle sular altında kalan işletmenin bahçesinde oturan müşterilerin rahat tavırları dikkat çekti.
-gorsel: /images/haber-gorsel/20261104-alanyada-su-basan-bahcede-cay-keyfi-00227-26068a2b.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1600577274685-cf873ad706ed?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Takenori Okada / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-alanyada-su-basan-bahcede-cay-keyfi-00227-26068a2b.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1600577274685-cf873ad706ed?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 20e9fc9bea90
+  kaynak_sayfa: https://unsplash.com/photos/gcLiLh2b05s
+  fotografci: Takenori Okada
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Çay
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'cay-2' (Çay) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: cay-2
+    tarih: '2026-11-13T08:47:22+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'TBMM Antalya dışı kurum, kullanılmadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''su basan bahçede çay keyfi'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Alanya'' için konuyla (flooded cafe, people sitting in water, heavy rain) ilişkili lisanslı fotoğraf bulunamadı'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.gazetealanya.com/alanyada-o-cay-icilecek-ayaklari-suda-b
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-su-basan-bahcede-cay-keyfi-00227-26068a2b.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-alanyada-su-basan-bahcede-cay-keyfi-00227-26068a2b.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1600577274685-cf873ad706ed?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Alanya genelinde etkisini artıran şiddetli yağış, Konaklı Mahallesi'nde cadde ve işletmelerde su birikintilerine yol açtı. Bölgede hizmet veren bir pastanenin açık oturma alanı, kısa sürede biriken yağmur suyuyla kaplandı.
 

@@ -31,17 +31,20 @@ gorsel_secim:
   gosterilen: Antalya Stadyumu
   cekim_yili: '2015'
   aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: kut-cd9201
-    tarih: '2026-11-09T13:27:20+03:00'
+    tarih: '2026-11-13T08:47:41+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
-  onceki_durum: {}
+  onceki_durum:
+    tur: arsiv
+    durum: onaylandi
 gorsel_yerlesim:
   boyut:
   - 2592

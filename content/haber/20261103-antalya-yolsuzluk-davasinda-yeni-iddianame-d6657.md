@@ -2,28 +2,40 @@
 title: Antalya yolsuzluk davasında yeni iddianame
 date: '2026-11-03T16:12:00+03:00'
 ozet: Antalya'daki yolsuzluk davasında hazırlanan ek iddianameyle sanık sayısı 50'ye yükselirken, duruşmalarda önemli iddialar ve ödeme itirafları yer aldı.
-gorsel: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+gorsel_kredi: 'Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
 - Muratpaşa
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
   konu_imza: faad905b28ff
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  fotografci: DP Singh Bhullar
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Adalet
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'adalet-1' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: adalet-1
+    tarih: '2026-11-13T08:47:28+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; hassas haber: ''Muhittin Böcek'' haberin ana öznesi olan kamuya mal olmuş kişi değil; fotoğrafı aranmadı; ''yolsuzluk davası'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; ''Antalya Bölge Adliye Mahkemesi'' için kullanım hakkı doğ'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -34,8 +46,8 @@ kaynak_url: https://www.yenialanya.com/antalya-rusvet-davasinda-30-milyon-lirali
 gorsel_yedek: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 8192
+  - 5464
   dikey: false
   surum: y3
   manset: kaplama
@@ -44,14 +56,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261103-antalya-yolsuzluk-davasinda-yeni-iddianame-d6657-247d7764.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+gorsel_gecmis: []
 ---
 Antalya Cumhuriyet Başsavcılığı tarafından yürütülen yolsuzluk soruşturmasında yargılama süreci genişlemeye devam ediyor. Antalya 6'ncı Ağır Ceza Mahkemesi'nde görülen davada hazırlanan 24 sayfalık ek iddianameyle birlikte sanık sayısı 41'den 50'ye çıktı.
 

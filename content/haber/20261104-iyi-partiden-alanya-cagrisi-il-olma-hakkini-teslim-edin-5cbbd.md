@@ -3,7 +3,7 @@ title: 'İyi Parti''den Alanya çağrısı: İl olma hakkını teslim edin'
 date: '2026-11-04T20:13:00+03:00'
 ozet: İyi Parti Alanya İlçe Başkanı Hilmi Er, Alanya'nın il statüsünün bir lütuf değil tarihi bir hak olduğunu belirterek iktidara tepki gösterdi.
 gorsel: /images/haber-gorsel/logo-iyiparti-logo.jpg
-gorsel_kredi: 'Logo: İYİ Parti / Wikimedia Commons (Public domain)'
+gorsel_kredi: 'Görsel: İYİ Parti / Wikimedia Commons (Public domain)'
 kategoriler:
 - Gündem
 ilceler:
@@ -22,35 +22,20 @@ gorsel_secim:
   gosterilen: İYİ Parti logosu
   cekim_yili: '2018'
   aciklama: İYİ Parti logosu
-  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'iyiparti-logo' (İYİ Parti logosu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Görsel
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-09T13:27:11+03:00'
+    tarih: '2026-11-13T08:47:16+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '4 aday görüntü kontrolünde elendi: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberi; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Alanya kalesi ve şehir ma; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Alanya şehir manzarası, i; haberin konusuyla doğrud'
-      notlar: 'Alanya Belediyesi sayfası aynı haber değil (benzerlik %38); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Hilmi Er'' için kimliği kesin doğrulanan Wikidata kaydı yok (ad tutmadı ya da birden çok aynı adlı kişi var)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Parasailers_in_Alanya,_T%C3%BCrkiye.jpg
-        katman: kurum
-        neden: habere uygun değil; haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 1/10); haberin gerektirdiği unsur görünmüyor (Hilmi Er, İyi Parti logosu) — Alanya'
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-        katman: kurum
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Alanya'nın genel görünümü, il olma talebi haberinde temsilî görsel olarak kullanılabilir.
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya_City_and_Castle.jpg
-        katman: yer_konu
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Alanya kalesi ve şehir manzarası, il olma talebi haberine uygun bir temsilî görseldir.
-      - sayfa: https://commons.wikimedia.org/wiki/File:Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
-        katman: yer_konu
-        neden: haberin konusuyla doğrudan ilişkili değil (konu ilişkisi 5/10) — Alanya şehir manzarası, il olma talebi haberine uygun bir temsilî görseldir.
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

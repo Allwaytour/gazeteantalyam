@@ -2,29 +2,40 @@
 title: Kepez Belediyespor hentbolda farklı galibiyetle döndü
 date: '2026-11-01T21:55:00+03:00'
 ozet: Hentbol Kadınlar 1. Ligi A Grubu'nda mücadele eden Kepez Belediyespor, deplasmanda Isparta Gençlik ve Spor Kulübü'nü 41-17 mağlup etti.
-gorsel: /images/haber-gorsel/20261101-kepez-belediyespor-hentbolda-farkli-galibiyetle-dondu-a7c2d-5c5991da.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/24/Handball_the_ball.jpg
+gorsel_kredi: 'Fotoğraf: Armin Kuebelbeck / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Spor
 ilceler:
 - Kepez
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261101-kepez-belediyespor-hentbolda-farkli-galibiyetle-dondu-a7c2d-5c5991da.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/24/Handball_the_ball.jpg
   konu_imza: 6524fbbe4756
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Handball_the_ball.jpg
+  fotografci: Armin Kuebelbeck
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: http://creativecommons.org/licenses/by-sa/3.0/
+  gosterilen: Hentbol
+  cekim_yili: '2006'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'hentbol' (Hentbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: hentbol
+    tarih: '2026-11-13T08:47:34+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-09): Kepez''deki Atatürk mask anıtı; hentbol maçıyla ilgisi yok'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -72,8 +83,8 @@ gorsel_gecmis:
   kaldirma_nedeni: 'editör incelemesi (Claude, 2026-11-09): Kepez''deki Atatürk mask anıtı; hentbol maçıyla ilgisi yok'
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 1280
+  - 853
   dikey: false
   surum: y3
   manset: kaplama
@@ -82,14 +93,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261101-kepez-belediyespor-hentbolda-farkli-galibiyetle-dondu-a7c2d-5c5991da.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/24/Handball_the_ball.jpg
 ---
 Hentbol Kadınlar 1. Ligi A Grubu'nda yer alan Kepez Belediyespor, dördüncü hafta karşılaşmasında deplasmanda Isparta Gençlik ve Spor Kulübü ile karşı karşıya geldi. Süleyman Demirel Üniversitesi Atatürk Spor Salonu'nda oynanan mücadele boyunca üstün bir performans sergileyen Antalya temsilcisi, sahadan 41-17 galip ayrılarak ligdeki üçüncü galibiyetini hanesine yazdırdı ve puan tablosundaki ikinci sıradaki yerini korudu.
 

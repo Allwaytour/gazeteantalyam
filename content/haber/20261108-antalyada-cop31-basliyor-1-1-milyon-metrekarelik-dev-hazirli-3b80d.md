@@ -1,7 +1,7 @@
 ---
-title: 'Antalya''da COP31 basliyor: 1,1 milyon metrekarelik dev hazirlik tamam'
+title: 'Antalya''da COP31 başlıyor: 1,1 milyon metrekarelik dev hazırlık tamam'
 date: '2026-11-08T10:50:29+03:00'
-ozet: Dunyanin merakla bekledigi Birlesmis Milletler Iklim Degisikligi Konferansi, Antalya'da kapilarini aciyor. Zirve icin genis capli guvenlik ve ulasim tedbirleri alindi.
+ozet: Dünyanın merakla beklediği Birleşmiş Milletler İklim Değişikliği Konferansı, Antalya'da kapılarını açıyor. Zirve için geniş çaplı güvenlik ve ulaşım tedbirleri alındı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Fotoğraf: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -115,10 +115,16 @@ otomatik: true
 yz: true
 kaynak: Takvim
 kaynak_url: https://www.takvim.com.tr/guncel/2026/11/08/turkiye-cop31e-hazir-dunya-liderleri-antalyada-bulusuyor
-gorsel_yedek: /images/haber-gorsel/20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli--99bf2bbb.jpg
+gorsel_yedek: /images/haber-gorsel/20261108-antalyada-cop31-basliyor-1-1-milyon-metrekarelik-dev-hazirli--f21cc57d.jpg
+baslik_onceki: 'Antalya''da COP31 basliyor: 1,1 milyon metrekarelik dev hazirlik tamam'
+metin_onarim:
+  tarih: '2026-11-13T08:44:49+03:00'
+  kaynak: https://www.takvim.com.tr/guncel/2026/11/08/turkiye-cop31e-hazir-dunya-liderleri-antalyada-bulusuyor
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: ''
 ---
-Turkiye'nin ev sahipliginde duzenlenen Birlesmis Milletler Iklim Degisikligi Konferansi (COP31), Antalya'da basliyor. Dunya liderleri, bakanlar, akademisyenler ve sivil toplum kuruluslarinin temsilcilerini bulusturacak olan dev organizasyon icin 1,1 milyon metrekarelik alan hazirlandi.
+Türkiye'nin ev sahipliğinde düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), Antalya'da başlıyor. Dünya liderleri, bakanlar, akademisyenler ve sivil toplum kuruluşlarının temsilcilerini buluşturacak olan dev organizasyon için 1,1 milyon metrekarelik alan hazırlandı.
 
-Konferansin resmi gorusmeleri ve iklim muzakereleri Mavi Bolge'de gerceklestirilecek. Halkin katilimina acik etkinliklerin yer alacagi Yesil Bolge'de ise iklim cozumleri tanitilacak. Zirve alanindaki salon ve toplanti odalarina Anadolu'nun tarihi ve kultur mirasinin yani sira bilim, sanat ve dusunce dunyasinin onemli isimlerinin adlari verildi.
+Konferansın resmi görüşmeleri ve iklim müzakereleri Mavi Bölge'de gerçekleştirilecek. Halkın katılımına açık etkinliklerin yer alacağı Yeşil Bölge'de ise iklim çözümleri tanıtılacak. Zirve alanındaki salon ve toplantı odalarına Anadolu'nun tarihi ve kültür mirasının yanı sıra bilim, sanat ve düşünce dünyasının önemli isimlerinin adları verildi.
 
-Organizasyon boyunca guvenligin saglanmasi amaciyla emniyet, jandarma ve sahil guvenlik birimlerinden olusan 27 bin 957 personel gorev yapacak. Ayrica ziyaretcilerin saglik hizmetlerine hizli erisimi icin revirler, ambulanslar ve mobil UMKE ekipleri hazir bulundurulacak. Ulasim hizmetlerinde ise cevre dostu otobusler kullanilacak.
+Organizasyon boyunca güvenliğin sağlanması amacıyla emniyet, jandarma ve sahil güvenlik birimlerinden oluşan 27 bin 957 personel görev yapacak. Ayrıca ziyaretçilerin sağlık hizmetlerine hızlı erişimi için revirler, ambulanslar ve mobil UMKE ekipleri hazır bulundurulacak. Ulaşım hizmetlerinde ise çevre dostu otobüsler kullanılacak.

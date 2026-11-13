@@ -2,28 +2,40 @@
 title: Alanyalı Satranç Şampiyonu Elif Cemre Uysal'a Tebrik
 date: '2026-11-05T16:51:00+03:00'
 ozet: Satranç turnuvasında elde ettiği derecelerle dikkat çeken Elif Cemre Uysal, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz tarafından makamında ağırlandı.
-gorsel: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/f/fa/Chess_game_Staunton_No._6_perfil_view_5.jpg
+gorsel_kredi: 'Fotoğraf: Wilfredor / Wikimedia Commons (CC0)'
 kategoriler:
 - Eğitim
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Chess_game_Staunton_No._6_perfil_view_5.jpg
   konu_imza: a99326c8db7c
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_5.jpg
+  fotografci: Wilfredor
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Satranç
+  cekim_yili: '2024'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'satranc' (Satranç) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: satranc
+    tarih: '2026-11-13T08:47:14+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: 'başka bir olayın karesi bu haberin görüntüsü sanılır; görselde olmaması gereken unsur: farklı bir spor dalı, açık alan; habere uygunluk düşük (1/10, en az 6); habere uygunluk düşük (2/10, en az 6); haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı); haberin konusuyla ilgisiz yer/nesne; ne haberin öznesi ne de olayı görünüyor; olumsuz haberde belirli bir kişi, araç (plaka) ya da'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -125,8 +137,8 @@ baslik_ozgun: ALANYALI SATRANÇ ŞAMPİYONU ELİF CEMRE UYSAL'A TEBRİK
 gorsel_yedek: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6675
+  - 4542
   dikey: false
   surum: y3
   manset: kaplama
@@ -135,14 +147,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261105-alanyali-satranc-sampiyonu-elif-cemre-uysala-tebrik-5860e-a813ea98.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Chess_game_Staunton_No._6_perfil_view_5.jpg
 ---
 Alanya'da satranç alanında gösterdiği üstün başarıyla adından söz ettiren Elif Cemre Uysal, katıldığı turnuvada önemli bir başarıya imza attı. 13 yaş genel kategorisinde il üçüncülüğü elde eden genç sporcu, aynı zamanda 13 yaş kızlar kategorisinde il birincisi olma başarısını gösterdi.
 

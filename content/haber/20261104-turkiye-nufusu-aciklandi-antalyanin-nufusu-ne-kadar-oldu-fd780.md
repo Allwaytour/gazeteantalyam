@@ -21,35 +21,20 @@ gorsel_secim:
   gosterilen: Konyaaltı Sahili ve Beydağları
   cekim_yili: '2023'
   aciklama: Antalya, Konyaaltı Sahili ve Beydağları (2023)
-  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot ile eşleşti
+  gerekce: arşiv kaydı 'antalya-konyaalti' (Konyaaltı Sahili ve Beydağları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
+  hat: t2
+  kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: antalya-konyaalti
-    tarih: '2026-11-09T13:27:11+03:00'
+    tarih: '2026-11-13T08:47:15+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: gorsel_reddedildi
-      aciklama: '4 aday görüntü kontrolünde elendi: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere'
-      notlar: 'kurum sitelerinde aynı haber bulunamadı; kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; haberde fotoğraflanabilir, adıyla geçen yer/kurum/tesis yok; ''Türkiye'' için konuyla (population statistics, demographic data, census) ilişkili lisanslı fotoğraf bulunamadı; ''nüfus verileri'' konusunu gösteren lisanslı fotoğraf bulunamadı (sorgular: nüfus istatistikleri grafiği, demografik veri görselleştirme)'
-      elenenler:
-      - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Siegen.png
-        katman: nesne
-        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-      - sayfa: https://commons.wikimedia.org/wiki/File:Population_Statistics_Plauen.png
-        katman: nesne
-        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-      - sayfa: https://commons.wikimedia.org/wiki/File:R%C3%A9sum%C3%A9_graphique_g%C3%A9n%C3%A9ral_de_l%27Atlas_statistique_de_la_population_de_Paris.jpg
-        katman: nesne
-        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
-      - sayfa: https://commons.wikimedia.org/wiki/File:Growth_Rate_vs_Median_Age,_2021.png
-        katman: nesne
-        neden: gerçek fotoğraf değil; görüntü, kaydın iddia ettiği yer/kurum/olayla tutarlı değil; habere uygun değil; yanıltıcı (başka olay/kişi/kurum izlenimi); haberin konu
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya

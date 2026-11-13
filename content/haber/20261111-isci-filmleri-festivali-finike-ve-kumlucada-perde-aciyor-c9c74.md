@@ -2,8 +2,8 @@
 title: İşçi Filmleri Festivali Finike ve Kumluca'da Perde Açıyor
 date: '2026-11-11T16:09:00+03:00'
 ozet: Uluslararası İşçi Filmleri Festivali, Batı Antalya'da sinemaseverlerle buluşmaya hazırlanıyor. Tamamen gönüllülük eseriyla düzenlenen gösterimler halka ücretsiz sunulacak.
-gorsel: /images/haber-gorsel/20261111-isci-filmleri-festivali-finike-ve-kumlucada-perde-aciyor-c9c7-92333f5a.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg
+gorsel_kredi: 'Fotoğraf: Wolfmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -13,23 +13,34 @@ etiketler:
 - Kumluca Mehmet Akif Ersoy Kültür Merkezi
 - Eğitim Sen
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-isci-filmleri-festivali-finike-ve-kumlucada-perde-aciyor-c9c7-92333f5a.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg
   konu_imza: da31107acaba
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg
+  fotografci: Wolfmann
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Sinema
+  cekim_yili: '2023'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'sinema-1' (Sinema) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: sinema-1
+    tarih: '2026-11-13T08:46:33+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -40,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/finike/finike-beyazperde-emegin-ses
 gorsel_yedek: /images/haber-gorsel/20261111-isci-filmleri-festivali-finike-ve-kumlucada-perde-aciyor-c9c7-92333f5a.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +61,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-isci-filmleri-festivali-finike-ve-kumlucada-perde-aciyor-c9c7-92333f5a.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg
+gorsel_gecmis: []
 ---
 Toplumsal yaşamı, emek mücadelesini ve insan öykülerini beyazperdeye taşıyan Uluslararası İşçi Filmleri Festivali, 21. yaşında Batı Antalya salonlarında sinemaseverlerle buluşuyor. Sponsor kabul edilmeden ve tamamen gönüllülük esasına dayalı olarak hayata geçirilen organizasyon kapsamındaki tüm gösterimler, bölge halkına ücretsiz olarak ulaştırılacak.
 

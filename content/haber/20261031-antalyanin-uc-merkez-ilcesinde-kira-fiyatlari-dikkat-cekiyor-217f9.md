@@ -2,8 +2,8 @@
 title: Antalya'nın Üç Merkez İlçesinde Kira Fiyatları Dikkat Çekiyor
 date: '2026-10-31T16:01:28+03:00'
 ozet: Antalya'nın merkez ilçelerinde kiralık konut fiyatları arasındaki belirgin farklar bütçeleri zorlarken, en yüksek ortalama Konyaaltı'nda görüldü.
-gorsel: /images/haber-gorsel/20261031-antalyanin-uc-merkez-ilcesinde-kira-fiyatlari-dikkat-cekiyor--1c48c690.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Filip Szalbot / Unsplash'
 gorsel_v4: true
 kategoriler:
 - Ekonomi
@@ -16,23 +16,34 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-kira-ucurumu-konyaalti-muratpasa-ve-kepezde-kiralar-ne-kadar/560730
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-antalyanin-uc-merkez-ilcesinde-kira-fiyatlari-dikkat-cekiyor--1c48c690.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 1ffee7976b2f
+  kaynak_sayfa: https://unsplash.com/photos/PxiAc1aElFQ
+  fotografci: Filip Szalbot
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Konut
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konut-1' (Konut) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konut-1
+    tarih: '2026-11-13T08:47:42+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: dogrulanmamis_kaldirildi
-      aciklama: bu haber için doğrulanmamış eski otomatik seçim
+    tur: tipografik
+    durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg/1280px-Konyaalt%C4%B1%2C_Antalya%2C_Turkey_2022_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Temsili fotoğraf: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
@@ -43,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-antalyanin-uc-merkez-ilcesinde-kira-fiyatlari-dikkat-cekiyor--1c48c690.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 3376
   dikey: false
   surum: y3
   manset: kaplama
@@ -53,14 +64,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-antalyanin-uc-merkez-ilcesinde-kira-fiyatlari-dikkat-cekiyor--1c48c690.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da konut kiraları, kent merkezinde yaşamak isteyen vatandaşların bütçesini zorlamaya devam ediyor. Ekim ayının son haftasına ilişkin verilere göre, kentin en yoğun yerleşim bölgelerinden Konyaaltı, Muratpaşa ve Kepez'deki kiralık konut fiyatları arasında önemli farklar bulunuyor. İlanlardaki rakamlar, ev arayan kişilerin tercih ettiği ilçeye göre barınma maliyetlerinde büyük değişikliklerle karşılaştığını ortaya koyuyor.
 

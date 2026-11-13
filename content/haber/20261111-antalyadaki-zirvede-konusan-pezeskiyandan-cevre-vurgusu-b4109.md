@@ -2,8 +2,8 @@
 title: Antalya'daki zirvede konuşan Pezeşkiyan'dan çevre vurgusu
 date: '2026-11-11T20:10:37+03:00'
 ozet: Antalya'daki Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda konuşan İran Cumhurbaşkanı Mesud Pezeşkiyan, askeri saldırıların çevreye ve iklime verdiği zararlara dikkat çekti.
-gorsel: /images/haber-gorsel/20261111-antalyadaki-zirvede-konusan-pezeskiyandan-cevre-vurgusu-b4109-847d3f5f.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Autor: Sergey Bobylev/RIA Novosti / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,23 +12,34 @@ etiketler:
 - Mesud Pezeşkiyan
 - Birleşmiş Milletler
 onem: 5
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261111-antalyadaki-zirvede-konusan-pezeskiyandan-cevre-vurgusu-b4109-847d3f5f.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 74783c9c3c92
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_Moscow_2026.jpg
+  fotografci: 'Autor: Sergey Bobylev/RIA Novosti'
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Mesud Pezeşkiyan
+  cekim_yili: '2026'
+  aciklama: Mesud Pezeşkiyan — Arşiv fotoğrafı (2026)
+  gerekce: arşiv kaydı 'kisi-fd6b33' (Mesud Pezeşkiyan) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-fd6b33
+    tarih: '2026-11-13T08:46:27+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -39,24 +50,21 @@ kaynak_url: https://www.milliyet.com.tr/dunya/pezeskiyan-antalyada-konustu-abd-v
 gorsel_yedek: /images/haber-gorsel/20261111-antalyadaki-zirvede-konusan-pezeskiyandan-cevre-vurgusu-b4109-847d3f5f.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
-  dikey: false
+  - 1836
+  - 2305
+  dikey: true
   surum: y3
-  manset: kaplama
-  yan: true
-  kart: true
+  manset: yan
+  yan: false
+  kart: false
   detay: true
-  kart_portre: false
-  yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261111-antalyadaki-zirvede-konusan-pezeskiyandan-cevre-vurgusu-b4109-847d3f5f.jpg
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Liderler Zirvesi kapsamında önemli açıklamalarda bulunuldu. Zirvede konuşan İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ve İsrail'in ülkesine yönelik gerçekleştirdiği son saldırıların sadece insani ve ekonomik kayıplara yol açmadığını, aynı zamanda doğaya büyük oranda zarar verdiğini ifade etti.
 
