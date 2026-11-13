@@ -1,7 +1,7 @@
 ---
-title: Kas'ta dalis tutkunlarindan derinlikte anlamli saygi durusu
+title: Kaş'ta dalış tutkunlarından derinlikte anlamlı saygı duruşu
 date: '2026-11-10T09:31:00+03:00'
-ozet: Kibris Baris Harekatı'na katilan ve Kas sularina batirilan askeri ucagin bulundugu noktada dalis yapan sporcular, Mustafa Kemal Ataturk'un ebediyete intikalinin 88. yili dolayisiyla 20 metre derinlikte Turk bayragi ve Ataturk posteri acti.
+ozet: Kıbrıs Barış Harekatı'na katılan ve Kaş sularına batırılan askeri uçağın bulunduğu noktada dalış yapan sporcular, Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla 20 metre derinlikte Türk bayrağı ve Atatürk posteri açtı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
 gorsel_kredi: 'Fotoğraf: Wusel007 / Wikimedia Commons (CC0)'
 kategoriler:
@@ -47,7 +47,7 @@ otomatik: true
 yz: true
 kaynak: TRT Haber
 kaynak_url: https://www.trthaber.com/foto-galeri/kasta-daliscilardan-ataturke-saygi-dalisi/79022.html
-gorsel_yedek: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-0ab9e72e.jpg
+gorsel_yedek: /images/haber-gorsel/20261110-kasta-dalis-tutkunlarindan-derinlikte-anlamli-saygi-durusu-82-14fe057e.jpg
 gorsel_yerlesim:
   boyut:
   - 3840
@@ -71,9 +71,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a0/C-47_Dakota_Kas_nose.JPG
 gorsel_gecmis: []
+baslik_onceki: Kas'ta dalis tutkunlarindan derinlikte anlamli saygi durusu
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.trthaber.com/foto-galeri/kasta-daliscilardan-ataturke-saygi-dalisi/79022.html
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Antalya'nin Kaş ilcesinde gerceklestirilen anma etkinligi, renkli ve duygusal anlara sahne oldu. Kibris Baris Harekatı'nda gorev alan ve 2009 yilinda bolgedeki dalis turizmini gelistirmek amaciyla sulara batirilan "Gazi" isimli C 47 Dakota ucak batigi, bu kez anlamli bir bulusmaya ev sahipligi yapti.
+Antalya'nın Kaş ilçesinde gerçekleştirilen anma etkinliği, renkli ve duygusal anlara sahne oldu. Kıbrıs Barış Harekatı'nda görev alan ve 2009 yılında bölgedeki dalış turizmini geliştirmek amacıyla sulara batırılan "Gazi" isimli C 47 Dakota uçak batığı, bu kez anlamlı bir buluşmaya ev sahipliği yaptı.
 
-Mustafa Kemal Ataturk'un vefatinin 88. yildonumu dolayisiyla duzenlenen organizasyonda bir araya gelen daliscular, su altinda ozel bir koreografi gerceklestirdi. Bu kapsamda egitmen Mustafa Can Ozdemir ile birlikte Muti Diving ekibi, Sualti Fotografcisi Taner Sahakalkan ve Ozguro Dara derin dalis gerceklestirdi.
+Mustafa Kemal Atatürk'ün vefatının 88. yıldönümü dolayısıyla düzenlenen organizasyonda bir araya gelen dalışcular, su altında özel bir koreografi gerçekleştirdi. Bu kapsamda eğitmen Mustafa Can Özdemir ile birlikte Muti Diving ekibi, Sualtı Fotoğrafçısı Taner Şahakalkan ve Ozguro Dara derin dalış gerçekleştirdi.
 
-Etkinlige katilan dalis ekibi, deniz yuzeyinin 20 metre derinliginde bulunan ucak batiginin yaninda bir araya geldi. Sporcular, bu noktada yaklasik 7 metre uzunlugundaki Turk bayragi ile Ataturk posterini birlikte acarak saygi durusunda bulundu. Gerceklestirilen ozel etkinlik, su alti kameralariyla kaydedildi.
+Etkinliğe katılan dalış ekibi, deniz yüzeyinin 20 metre derinliğinde bulunan uçak batığının yanında bir araya geldi. Sporcular, bu noktada yaklaşık 7 metre uzunluğundaki Türk bayrağı ile Atatürk posterini birlikte açarak saygı duruşunda bulundu. Gerçekleştirilen özel etkinlik, su altı kameralarıyla kaydedildi.

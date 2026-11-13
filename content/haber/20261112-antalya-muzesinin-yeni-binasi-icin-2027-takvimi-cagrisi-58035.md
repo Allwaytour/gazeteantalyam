@@ -1,7 +1,7 @@
 ---
-title: Antalya Muzesi'nin yeni binasi icin 2027 takvimi cagrisi
+title: Antalya Müzesi'nin yeni binası için 2027 takvimi çağrısı
 date: '2026-11-12T04:00:00+03:00'
-ozet: Antalya Muzesi'nin yikilmasinin uzerinden iki yil gecmesine ragmen yeni binanin ne zaman acilacagi belirsizligini koruyor.
+ozet: Antalya Müzesi'nin yıkılmasının üzerinden iki yıl geçmesine rağmen yeni binanın ne zaman açılacağı belirsizliğini koruyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_kredi: 'Arşiv fotoğrafı: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
@@ -50,7 +50,7 @@ otomatik: true
 yz: true
 kaynak: Cumhuriyet
 kaynak_url: https://www.cumhuriyet.com.tr/turkiye/antalya-muzesi-ne-zaman-acilacak-bakanliktan-2027-takvimi-istendi-2555514
-gorsel_yedek: /images/haber-gorsel/20261112-antalya-muzesinin-yeni-binasi-icin-2027-takvimi-cagrisi-58035-d2c5f61d.jpg
+gorsel_yedek: /images/haber-gorsel/20261112-antalya-muzesinin-yeni-binasi-icin-2027-takvimi-cagrisi-58035-f6e001d4.jpg
 gorsel_yerlesim:
   boyut:
   - 1280
@@ -72,9 +72,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+baslik_onceki: Antalya Muzesi'nin yeni binasi icin 2027 takvimi cagrisi
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.cumhuriyet.com.tr/turkiye/antalya-muzesi-ne-zaman-acilacak-bakanliktan-2027-takvimi-istendi-2555514
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Kentteki onemli kultursal miraslar arasinda yer alan Antalya Muzesi'nin yikilmasinin uzerinden yaklasik iki yil gecmesine ragmen yeni binanin insaat surecine dair somut bir adim atilmadi. Ziyaretcilere kapilarini yeniden ne zaman acacagi merak konusu olan muzenin durumu, TBMM Plan ve Bulte Komisyonu'nda gundeme getirildi.
+Kentteki önemli kultursal miraslar arasında yer alan Antalya Müzesi'nin yıkılmasının üzerinden yaklaşık iki yıl geçmesine rağmen yeni binanın inşaat sürecine dair somut bir adım atılmadı. Ziyaretçilere kapılarını yeniden ne zaman açacağı merak konusu olan müzenin durumu, TBMM Plan ve Bulte Komisyonu'nda gündeme getirildi.
 
-Yeni Parti Antalya Milletvekili Aliye Cosar, konuyla ilgili olarak Kultur ve Turizm Bakanligi'na sorular yoneltti. Cosar, odulleriyle de taninan muzenin yikiminin ardindan baslayan surecte kamuoyunun yeterli bilgi alamadigini vurguladi.
+Yeni Parti Antalya Milletvekili Aliye Coşar, konuyla ilgili olarak Kültür ve Turizm Bakanlığı'na sorular yöneltti. Coşar, ödülleriyle de tanınan müzenin yıkımının ardından başlayan süreçte kamuoyunun yeterli bilgi alamadığını vurguladı.
 
-Milletvekili Cosar, Kultur ve Turizm Bakani Mehmet Nuri Ersoy'dan yeni muzenin tamamlanacagi tarih konusunda net bir takvim aciklanmasini talep etti. Yeni binanin ne zaman bitecegi ve muzenin yeniden hizmete girecegi belirsizligini koruyor.
+Milletvekili Coşar, Kültür ve Turizm Bakanı Mehmet Nuri Ersoy'dan yeni müzenin tamamlanacağı tarih konusunda net bir takvim açıklanmasını talep etti. Yeni binanın ne zaman biteceği ve müzenin yeniden hizmete gireceği belirsizliğini koruyor.

@@ -1,7 +1,7 @@
 ---
-title: Hazir Giyim Sektorunun Donusumu Antalya'da Masaya Yatirilacak
+title: Hazır Giyim Sektörünün Dönüşümü Antalya'da Masaya Yatırılacak
 date: '2026-11-11T11:26:22+03:00'
-ozet: Turkiye Giyim Sanayicileri Dernegi, Antalya'da duzenlenen COP31 kapsaminda iki panel gerceklestirerek sektorden yeni nesil is modellerini ve yesil donusumu ele alacak.
+ozet: Türkiye Giyim Sanayicileri Derneği, Antalya'da düzenlenen COP31 kapsamında iki panel gerçekleştirerek sektörden yeni nesil iş modellerini ve yeşil dönüşümü ele alacak.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -47,7 +47,7 @@ otomatik: true
 yz: true
 kaynak: Fuar Dergisi
 kaynak_url: https://www.fuardergisi.com.tr/hazir-giyimde-yeni-rekabet-modeli-antalyada-masaya-yatirilacak
-gorsel_yedek: /images/haber-gorsel/20261111-hazir-giyim-sektorunun-donusumu-antalyada-masaya-yatirilacak--3e81e1c1.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-hazir-giyim-sektorunun-donusumu-antalyada-masaya-yatirilacak--f14a178e.jpg
 gorsel_yerlesim:
   boyut:
   - 2927
@@ -69,11 +69,17 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_gecmis: []
+baslik_onceki: Hazir Giyim Sektorunun Donusumu Antalya'da Masaya Yatirilacak
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.fuardergisi.com.tr/hazir-giyimde-yeni-rekabet-modeli-antalyada-masaya-yatirilacak
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Turkiye Giyim Sanayicileri Dernegi, Antalya'da suren COP31 kapsaminda hazir giyim sektorunun gelecegine yonelik iki ayri panel duzenleyecek. Kurulusunun 50. yilini kutlayan dernek, degisen kuresel ticaret dinamiklerine uyum saglanmasi ve surdurulebilir uretim kapasitesinin artirilmasi amaciyla goruslerini bu platforma tasiyacak. Yesil Bolge'de gerceklesecek oturumlarda kamu temsilcileri, sanayiciler ve uzmanlar bir araya gelerek sektorun kuresel rekabet gucunu degerlendirecek.
+Türkiye Giyim Sanayicileri Derneği, Antalya'da süren COP31 kapsamında hazır giyim sektörünün geleceğine yönelik iki ayrı panel düzenleyecek. Kuruluşunun 50. yılını kutlayan dernek, değişen küresel ticaret dinamiklerine uyum sağlanması ve sürdürülebilir üretim kapasitesinin artırılması amacıyla görüşlerini bu platforma taşıyacak. Yeşil Bölge'de gerçekleşecek oturumlarda kamu temsilcileri, sanayiciler ve uzmanlar bir araya gelerek sektörün küresel rekabet gücünü değerlendirecek.
 
-Ilk panel 14 Kasim'da Direncli Sehirler Hub-1'de gerceklesecek. Yeni nesil liderlik, yeni is modelleri ve surdurulebilir rekabetcilik basligini tasiyan oturumda, sirketlerde gorev alan ikinci ve ucuz kusak yoneticilerin sektorun donusumune katkilari ele alinacak. Teknoloji, tasarim, uretim verimliligi, surdurulebilir malzeme kullanimi ve dijitallemenin saglayacagi firsatlar katilimcilarla paylasilacak.
+İlk panel 14 Kasım'da Dirençli Şehirler Hub-1'de gerçekleşecek. Yeni nesil liderlik, yeni iş modelleri ve sürdürülebilir rekabetçilik başlığını taşıyan oturumda, şirketlerde görev alan ikinci ve ucuz kuşak yöneticilerin sektörün dönüşümüne katkıları ele alınacak. Teknoloji, tasarım, üretim verimliliği, sürdürülebilir malzeme kullanımı ve dijitallemenin sağlayacağı fırsatlar katılımcılarla paylaşılacak.
 
-Ikinci panel ise 16 Kasim'da Sifir Atik Hub 2'de duzenlenecek. Dusuk karbonlu tedarik zincirleri, dijital izlenebilirlik ve yakin tedarik avantajlarinin ele alinacagi oturumda; Avrupa Birligi'nin yesil donusum politikalarinin sektora yansimalari, dijital urun pasaportu, karbon ayak izi hesaplamasi ve lojistik kaynakli emisyonlarin azaltilmasi konusulacak.
+İkinci panel ise 16 Kasım'da Sıfır Atık Hub 2'de düzenlenecek. Düşük karbonlu tedarik zincirleri, dijital izlenebilirlik ve yakın tedarik avantajlarının ele alınacağı oturumda; Avrupa Birliği'nin yeşil dönüşüm politikalarının sektora yansımaları, dijital ürün pasaportu, karbon ayak izi hesaplaması ve lojistik kaynaklı emisyonların azaltılması konuşulacak.
 
-Sektorun rekabetciligini surdurmesi icin yeni is modelleri ile surdurulebilir uretimin birlikte degerlendirilmesi gerektigine dikkati ceken dernek baskani, uretim gucunu ve yatirim kapasitesini muhafaza ederek donusumun gerceklestirilmesi gerektigini vurguladi. COP31'in, Turkiye'nin surdurulebilir uretim alanindaki deneyimini aktarmak ve 'Made in Turkiye' algisini guclendirmek icin onemli bir firsat sundugu ifade edildi.
+Sektörün rekabetçiliğini sürdürmesi için yeni iş modelleri ile sürdürülebilir üretimin birlikte değerlendirilmesi gerektiğine dikkati çeken dernek başkanı, üretim gücünü ve yatırım kapasitesini muhafaza ederek dönüşümün gerçekleştirilmesi gerektiğini vurguladı. COP31'in, Türkiye'nin sürdürülebilir üretim alanındaki deneyimini aktarmak ve 'Made in Türkiye' algısını güçlendirmek için önemli bir fırsat sunduğu ifade edildi.

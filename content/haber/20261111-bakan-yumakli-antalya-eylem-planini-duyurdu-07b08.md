@@ -1,7 +1,7 @@
 ---
-title: Bakan Yumakli Antalya Eylem Plani'ni duyurdu
+title: Bakan Yumaklı Antalya Eylem Planı'nı duyurdu
 date: '2026-11-11T18:46:15+03:00'
-ozet: Tarim ve Orman Bakani Ibrahim Yumakli, COP31 kapsamindaki Liderler Zirvesi Orman Etkinligi'nde Entegre Yangin Yonetimi Antalya Eylem Plani'ni baslattiklarini acikladi.
+ozet: Tarım ve Orman Bakanı İbrahim Yumaklı, COP31 kapsamındaki Liderler Zirvesi Orman Etkinliği'nde Entegre Yangın Yönetimi Antalya Eylem Planı'nı başlattıklarını açıkladı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/1280px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: T.C. Tarım ve Orman Bakanlığı / Ministry of Agriculture and Forestry (Türkiye) / Wikimedia Commons (CC0)'
 kategoriler:
@@ -47,7 +47,7 @@ otomatik: true
 yz: true
 kaynak: Sabah
 kaynak_url: https://www.sabah.com.tr/gundem/2026/11/11/bakan-yumakli-antalya-eylem-planini-baslatmaktan-gurur-duyuyoruz
-gorsel_yedek: /images/haber-gorsel/20261111-bakan-yumakli-antalya-eylem-planini-duyurdu-07b08-e956ac2b.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-bakan-yumakli-antalya-eylem-planini-duyurdu-07b08-28fe3aa9.jpg
 gorsel_yerlesim:
   boyut:
   - 3209
@@ -65,9 +65,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/1280px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+baslik_onceki: Bakan Yumakli Antalya Eylem Plani'ni duyurdu
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.sabah.com.tr/gundem/2026/11/11/bakan-yumakli-antalya-eylem-planini-baslatmaktan-gurur-duyuyoruz
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 2 özel ad kaynakta bulunamadığı için değiştirilmedi'
 ---
-Tarim ve Orman Bakani Ibrahim Yumakli, Antalya'da gerceklestirilen Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi (COP31) kapsamindaki Liderler Zirvesi Orman Etkinligi'ne katildi. Burada yaptigi konusmada, orman yanginlariyla mucadelede uluslararasi isbirligini artirmak amaciyla Entegre Yangin Yonetimi Antalya Eylem Plani'ni hayata gecirmekten gurur duyduklarini ifade etti.
+Tarım ve Orman Bakanı İbrahim Yumaklı, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamındaki Liderler Zirvesi Orman Etkinliği'ne katıldı. Burada yaptığı konuşmada, orman yangınlarıyla mücadelede uluslararası işbirliğini artırmak amacıyla Entegre Yangın Yönetimi Antalya Eylem Planı'nı hayata geçirmekten gurur duyduklarını ifade etti.
 
-Ormanlarin karbonu uzaklastirma, su kaynaklarini ve topragi koruma, biyolojik cesitlilige alan saglama ve kirsal kesimin gecimini saglama konularindaki onemine deginen Yumakli, iklim krizine karsi ormanlarin guclu birer cozum oldugunu vurguladi. Artan sicakliklar, kuraklik ve siddetli orman yanginlari nedeniyle kuresel olcekte daha fazla isbirligi gerektigini belirten Yumakli, Glasgow'daki COP26'da verilen orman kaybi ve arazi bozulumunu durdurma taahhudenin onemini hatirlatti.
+Ormanların karbonu uzaklaştırma, su kaynaklarını ve toprağı koruma, biyolojik çeşitliliğe alan sağlama ve kırsal kesimin geçimini sağlama konularındaki önemine değinen Yumaklı, iklim krizine karşı ormanların güçlü birer çözüm olduğunu vurguladı. Artan sıcaklıklar, kuraklık ve şiddetli orman yangınları nedeniyle küresel ölçekte daha fazla işbirliği gerektiğini belirten Yumaklı, Glasgow'daki COP26'da verilen orman kaybı ve arazi bozulumunu durdurma taahhüdenin önemini hatırlattı.
 
-Son yillarda yurutulen ormancilik faaliyetlerine de deginen Yumakli, 2002 ile 2025 yillari arasinda milyonlarca fidanin toprakla bulusturuldugunu kaydetti. Birlesmis Milletler Gida ve Tarim Orgutu verilerine atifta bulunan Yumakli, ulkenin 2020-2025 doneminde agaclandirma alaninda Avrupa'da birinci, dunyada ise ucuncu sirada yer aldigini soyledi.
+Son yıllarda yürütülen ormancılık faaliyetlerine de değinen Yumaklı, 2002 ile 2025 yılları arasında milyonlarca fidanın toprakla buluşturulduğunu kaydetti. Birleşmiş Milletler Gida ve Tarım Orgutu verilerine atıfta bulunan Yumaklı, ülkenin 2020-2025 döneminde ağaçlandırma alanında Avrupa'da birinci, dünyada ise üçüncü sırada yer aldığını söyledi.

@@ -1,7 +1,7 @@
 ---
-title: Antalya'da EXPO Bulvari 8 gun trafige kapaniyor
+title: Antalya'da EXPO Bulvarı 8 gün trafiğe kapanıyor
 date: '2026-11-12T13:55:00+03:00'
-ozet: COP31 tedbirleri kapsaminda EXPO Bulvari ile Turizm Yolu kesisimi, 14-21 Kasim tarihleri arasinda genel arac trafigine kapatilacak.
+ozet: COP31 tedbirleri kapsamında EXPO Bulvarı ile Turizm Yolu kesişimi, 14-21 Kasım tarihleri arasında genel araç trafiğine kapatılacak.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalyada-8-gun-surecek-trafik-kisitlamasi-expo-bulvarina-girisler-yasaklaniyor
-gorsel_yedek: /images/haber-gorsel/20261112-antalyada-expo-bulvari-8-gun-trafige-kapaniyor-6ca11-ef237fda.jpg
+gorsel_yedek: /images/haber-gorsel/20261112-antalyada-expo-bulvari-8-gun-trafige-kapaniyor-6ca11-9cf97162.jpg
 gorsel_yerlesim:
   boyut:
   - 4608
@@ -68,9 +68,15 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+baslik_onceki: Antalya'da EXPO Bulvari 8 gun trafige kapaniyor
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.antalyaekspres.com.tr/antalyada-8-gun-surecek-trafik-kisitlamasi-expo-bulvarina-girisler-yasaklaniyor
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 6 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 6 kelime özgün haliyle bırakıldı'
 ---
-Antalya'da duzenlenen Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi kapsaminda yeni trafik tedbirleri alindi. Yapilan duyuruya gore, 14 ile 21 Kasim 2026 tarihleri arasinda Turizm Yolu ile EXPO Bulvari'nin kesisği kavsak ve bulvar guzergahi arac trafigine sinirlandirilacak. Sekiz gun suresince uygulanacak ksitlama boyunca soz konusu guzergah yalnizca organizasyona hizmet veren ve COP31 gorselleriyle giydirilen servis otobuselrinin kullanimina acik olacak.
+Antalya'da düzenlenen Birlesmis Milletler İklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi kapsamında yeni trafik tedbirleri alındı. Yapılan duyuruya göre, 14 ile 21 Kasım 2026 tarihleri arasında Turizm Yolu ile EXPO Bulvarı'nın kesisği kavşak ve bulvar güzergahı araç trafiğine sınırlandırılacak. Sekiz gün süresince uygulanacak ksitlama boyunca söz konusu güzergah yalnızca organizasyona hizmet veren ve COP31 görselleriyle giydirilen servis otobuselrinin kullanımına açık olacak.
 
-Alinan karara gore, bolgede ikameti bulunan veya is yeri yer alan vatandaslar bu uygulamadan muaf tutulacak. Bu kisiler, araclarriyla guzergahi kullanmaya devam edebilecek. Yetkililer, suruculerin magduriyet yasamamasi icin ulasim planlamalarini bu ksitlamayi dikkate alarak yapmasi gerektigini vurguladi.
+Alınan karara göre, bölgede ikameti bulunan veya iş yeri yer alan vatandaşlar bu uygulamadan muaf tutulacak. Bu kişiler, araclarriyla güzergahı kullanmaya devam edebilecek. Yetkililer, sürücülerin mağduriyet yaşamaması için ulaşım planlamalarını bu ksitlamayi dikkate alarak yapması gerektiğini vurguladı.
 
-COP31 suresince hayata gecirilen tum trafik tedbirleri, kapali yollar ve alternatif guzergah bilgileri Antalya Valiligi tarafindan kurulan goCOP31 Dijital Bilgilendirme Platformu uzerinden paylasiliyor. Vatandaslar platform araciligiyla guncel duyurulari, servis guzergahlarini ve otopark bilgilerini takip edebiliyor.
+COP31 süresince hayata geçirilen tüm trafik tedbirleri, kapalı yollar ve alternatif güzergah bilgileri Antalya Valiligi tarafından kurulan goCOP31 Dijital Bilgilendirme Platformu üzerinden paylaşılıyor. Vatandaşlar platform aracılığıyla güncel duyuruları, servis güzergahlarını ve otopark bilgilerini takip edebiliyor.

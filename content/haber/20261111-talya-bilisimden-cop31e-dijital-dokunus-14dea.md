@@ -1,7 +1,7 @@
 ---
-title: Talya Bilisim’den COP31’e Dijital Dokunus
+title: Talya Bilişim’den COP31’e Dijital Dokunuş
 date: '2026-11-11T09:55:08+03:00'
-ozet: Antalya’da duzenlenen COP31’de turizm teknolojileri alaninda projeler hayata gecirildi.
+ozet: Antalya’da düzenlenen COP31’de turizm teknolojileri alanında projeler hayata geçirildi.
 gorsel: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Daniil Komov / Unsplash'
 kategoriler:
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Ekonomi Gazetesi
 kaynak_url: https://www.ekonomigazetesi.com/sirket-haberleri/talya-bilisim-cop-31de-antalyanin-dijital-yuzune-katki-sunuyor-91874
-gorsel_yedek: /images/haber-gorsel/20261111-talya-bilisimden-cop31e-dijital-dokunus-14dea-bade2357.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-talya-bilisimden-cop31e-dijital-dokunus-14dea-7cccdea6.jpg
 gorsel_yerlesim:
   boyut:
   - 4928
@@ -70,11 +70,17 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+baslik_onceki: Talya Bilisim’den COP31’e Dijital Dokunus
+metin_onarim:
+  tarih: '2026-11-13T14:51:09+03:00'
+  kaynak: https://www.ekonomigazetesi.com/sirket-haberleri/talya-bilisim-cop-31de-antalyanin-dijital-yuzune-katki-sunuyor-91874
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Antalya’da gerceklestirilen Birlesmis Milletler Iklim Degisikligi Konferansi (COP31), iklim gundeminin yani sira teknoloji ve dijital donusum uygulamalariyla da dikkati cekti. Bu kapsamda turizm teknolojileri alaninda faaliyet gosteren Talya Bilisim, kentin uluslararasi tanitimina, iletisim altyapisina ve cevresel farkindalik calismalarina katki saglayan dijital projeleri hayata gecirdi. Yapay zeka, goruntu isleme ve dijital iletisim teknolojilerini birlestiren uygulamalarla kentin dijital yuzune katki sunuldu.
+Antalya’da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), iklim gündeminin yanı sıra teknoloji ve dijital dönüşüm uygulamalarıyla da dikkati çekti. Bu kapsamda turizm teknolojileri alanında faaliyet gösteren Talya Bilişim, kentin uluslararası tanıtımına, iletişim altyapısına ve çevresel farkındalık çalışmalarına katkı sağlayan dijital projeleri hayata geçirdi. Yapay zeka, görüntü işleme ve dijital iletişim teknolojilerini birleştiren uygulamalarla kentin dijital yüzüne katkı sunuldu.
 
-Antalya Valiligi tarafindan uygulanan yapay zeka destekli sehir rehberi, sehre iliskin bilgi ve hizmetleri tek bir dijital platformda topladi. Dort dilde hizmet veren sistem; kentin tarihi ve dogal guzelliklerinden isletmelerine, belediye hizmetlerinden COP31 organizasyonuna kadar genis bir icerik sundu. 7/24 bilgi sunabilen platform, vatandaslarin ve turistlerin ulasim, sehirdeki hizmetler ve etkinlikler gibi ihtiyac duyduklari bilgilere kolayca erismesini sagladi.
+Antalya Valiliği tarafından uygulanan yapay zeka destekli şehir rehberi, şehre ilişkin bilgi ve hizmetleri tek bir dijital platformda topladı. Dört dilde hizmet veren sistem; kentin tarihi ve doğal güzelliklerinden işletmelerine, belediye hizmetlerinden COP31 organizasyonuna kadar geniş bir içerik sundu. 7/24 bilgi sunabilen platform, vatandaşların ve turistlerin ulaşım, şehirdeki hizmetler ve etkinlikler gibi ihtiyaç duydukları bilgilere kolayca erişmesini sağladı.
 
-Uluslararasi organizasyonlarda dil engelini ortadan kaldirmayi hedefleyen COP31 Konferans Cevirmeni, konusmalari es zamanli olarak yaziya dokerek katilimcilarin tercih ettikleri dile cevirdi. Turkce, Ingilizce, Almanca, Arapca, Cince ve Japoncanin da aralarinda bulundugu 25 dil destegi sunan uygulama, dinleyicilerin konusmalari hem orijinal dilinde hem de kendi sectikleri dilde takip etmesine imkan tanidi. Ayrica etkinlik kapsaminda gelistirilen yapay zeka destekli ziyaretci sayaci, giris ve cikis hareketlerini takip ederek alandaki net ziyaretci sayisini anlik olarak guncelledi.
+Uluslararası organizasyonlarda dil engelini ortadan kaldırmayı hedefleyen COP31 Konferans Çevirmeni, konuşmaları eş zamanlı olarak yazıya dökerek katılımcıların tercih ettikleri dile çevirdi. Türkçe, İngilizce, Almanca, Arapça, Çince ve Japoncanın da aralarında bulunduğu 25 dil desteği sunan uygulama, dinleyicilerin konuşmaları hem orijinal dilinde hem de kendi seçtikleri dilde takip etmesine imkan tanıdı. Ayrıca etkinlik kapsamında geliştirilen yapay zeka destekli ziyaretçi sayacı, giriş ve çıkış hareketlerini takip ederek alandaki net ziyaretçi sayısını anlık olarak güncelledi.
 
-COP31 alaninda kurulan ani fotograf standi, ziyaretcilere kentin dogal ve tarihi guzellikleri esliginde kisisellestirilmis fotograflar olusturma fursati sundu. QR kod araciligiyla erisilen uygulama sayesinde katilimcilar, Kursunlu Selalesi, Aspendos Su Kemerleri ve Manavgat Selalesi gibi simge noktalarin onunde fotograf cektirimis gibi gorseller elde etti. Antalya Valiligi koordinasyonunda yurutulen Mavi Akdeniz Inisiyatifi projesi ise denizlerin korunmasi ve sifir atik hedefi dogrultusundaki calismalari dijital platformda bir araya getirdi.
+COP31 alanında kurulan anı fotoğraf standı, ziyaretçilere kentin doğal ve tarihi güzellikleri eşliğinde kişiselleştirilmiş fotoğraflar oluşturma fursati sundu. QR kod aracılığıyla erişilen uygulama sayesinde katılımcılar, Kurşunlu Şelalesi, Aspendos Su Kemerleri ve Manavgat Şelalesi gibi simge noktaların önünde fotoğraf cektirimis gibi görseller elde etti. Antalya Valiliği koordinasyonunda yürütülen Mavi Akdeniz İnisiyatifi projesi ise denizlerin korunması ve sıfır atık hedefi doğrultusundaki çalışmaları dijital platformda bir araya getirdi.

@@ -364,6 +364,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Cleaning_the_rivers.jpg/1280px-Cleaning_the_rivers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0086557d4b765b47": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 25,
+    "nesneler": [
+     "voleybol sahası",
+     "tribün",
+     "forma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Voleybol salonunda sıralanmış sporcu kadınlar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "maç haberi",
+     "takım tanıtımı",
+     "spor"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk hakları",
+     "doğa ve çevre",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      347,
+      85,
+      650,
+      149
+     ],
+     [
+      335,
+      150,
+      658,
+      214
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta stadyum/salon ortamı belirgin olduğundan yasaklı unsurlarla çelişmektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "776f2d5d4c4d0317",
+    "sha": "8e8288395d9646c6a5ae6f02"
+   },
+   "t": "2026-11-13T14:49:36+03:00",
+   "teknik": {
+    "doygunluk": 44.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.308,
+    "keskinlik": 2962,
+    "kontrast": 66,
+    "medyan": 114,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vak%C4%B1fBank_SK_WV_TWVL_20261003_%281%29.JPG/1280px-Vak%C4%B1fBank_SK_WV_TWVL_20261003_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "00b367b61b7b2b9d": {
    "icerik": {
     "ana_kutu": [
@@ -5501,6 +5594,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/TechCrunch_Disrupt_Berlin_2017_%2846066632992%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2017_%2846066632992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0b91e04b70ba2f0f": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "ambulans",
+     "itfaiye aracı",
+     "çocuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da çocuklar ve görevliler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye etkinlikleri",
+     "çocuk etkinlikleri",
+     "sosyal sorumluluk"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçları",
+     "transfer haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      453,
+      0,
+      672,
+      53
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çocukların yer aldığı bir etkinlik karesi, çağrı haberiyle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0eedcdcbe3a46506",
+    "sha": "780664935b40aa82d0fee468"
+   },
+   "t": "2026-11-13T14:49:36+03:00",
+   "teknik": {
+    "doygunluk": 28.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.23,
+    "keskinlik": 2520,
+    "kontrast": 57,
+    "medyan": 101,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Antalya_Cumhuriyet_Caddesi_in_2015_64.jpg/1280px-Antalya_Cumhuriyet_Caddesi_in_2015_64.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0bc817daffa4ff85": {
    "icerik": {
@@ -11158,6 +11342,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg/1280px-Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "15dc19f6b3186cf8": {
+   "ozet": {
+    "dh": "616d2d6feb6969e9",
+    "sha": "ca7d6977c242d836fa053dd6"
+   },
+   "t": "2026-11-13T14:49:15+03:00",
+   "teknik": {
+    "doygunluk": 20.8,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.481,
+    "keskinlik": 669,
+    "kontrast": 72,
+    "medyan": 76,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Zehra_G%C3%BCne%C5%9F_18_Vak%C4%B1fBank_SK_20250409_%284%29.jpg/1280px-Zehra_G%C3%BCne%C5%9F_18_Vak%C4%B1fBank_SK_20250409_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "15fbf21d6e78fd50": {
    "icerik": {
@@ -19866,6 +20071,40 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk heykelleri temsilî olarak kullanılabilir ancak ana özne Zehra Güneş veya gerçek çocuklar değildir.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       32,
+       130,
+       858,
+       778
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:50+03:00"
+    },
     "r1:d6071a7ab24f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19897,7 +20136,11 @@
      "t": "2026-11-08T15:05:17+03:00"
     }
    },
-   "t": "2026-11-08T15:05:17+03:00",
+   "ozet": {
+    "dh": "64733591b0d8c86b",
+    "sha": "42f91b0eda852fb409df4738"
+   },
+   "t": "2026-11-13T14:49:50+03:00",
    "teknik": {
     "doygunluk": 15.4,
     "inen": [
@@ -22160,6 +22403,113 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Antalya_G%C3%BCn_Do%C4%9Fumu.jpg/1280px-Antalya_G%C3%BCn_Do%C4%9Fumu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2afba7ba3f63cf54": {
+   "icerik": {
+    "ana_kutu": [
+     266,
+     49,
+     690,
+     890
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "zodyak bot",
+     "masa",
+     "dalış ekipmanları",
+     "balon",
+     "türk bayrağı",
+     "araç",
+     "görevli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda kurtarma botu, dalış ekipmanları ve görevlilerin bulunduğu stant",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye faaliyetleri",
+     "arama kurtarma tanıtımı",
+     "sahil güvenliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk hakları",
+     "yeşil alan çağrısı",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      438,
+      462,
+      602,
+      534
+     ],
+     [
+      420,
+      624,
+      594,
+      690
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yeşil alan veya çocuklarla ilgili değil, sahil güvenlik stant alanını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2726405cea8e98c3",
+    "sha": "248aedbf54dbebfbf438d7ad"
+   },
+   "t": "2026-11-13T14:49:50+03:00",
+   "teknik": {
+    "doygunluk": 19.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.206,
+    "keskinlik": 2142,
+    "kontrast": 53,
+    "medyan": 91,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Antalya_Cumhuriyet_Caddesi_in_2015_65.jpg/1280px-Antalya_Cumhuriyet_Caddesi_in_2015_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2b63debe08074369": {
    "icerik": {
@@ -29528,6 +29878,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:91dd7cbb4e28:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen eğlence merkezinin dış görünümü, tesisi tanıtmak için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "eğlence merkezi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       88,
+       861,
+       792
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:50:48+03:00"
+    },
     "r1:a14f7b36919b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -29571,7 +29952,7 @@
     "dh": "0705153469e15112",
     "sha": "86d1008ca1885c588a30c885"
    },
-   "t": "2026-11-13T14:29:27+03:00",
+   "t": "2026-11-13T14:50:48+03:00",
    "teknik": {
     "doygunluk": 36.7,
     "inen": [
@@ -29990,6 +30371,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "38b70cf567082af6": {
+   "ozet": {
+    "dh": "2c4c8d2d716c646b",
+    "sha": "174529d3d9d7bf1dce4226ea"
+   },
+   "t": "2026-11-13T14:49:15+03:00",
+   "teknik": {
+    "doygunluk": 27.3,
+    "inen": [
+     500,
+     646
+    ],
+    "karanlik_oran": 0.535,
+    "keskinlik": 898,
+    "kontrast": 72,
+    "medyan": 38,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Zehra_G%C3%BCne%C5%9F_18_Vak%C4%B1fBank_SK_WV_TWVL_20260416_%285%29_%28cropped%29.jpg/1280px-Zehra_G%C3%BCne%C5%9F_18_Vak%C4%B1fBank_SK_WV_TWVL_20260416_%285%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "399404277aa4f66d": {
    "icerik": {
@@ -35581,6 +35983,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:91dd7cbb4e28:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesisin dış girişini gösterir ancak ana etkinlik alanını yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "eğlence merkezi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       187,
+       804,
+       366
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:50:48+03:00"
+    },
     "r1:a14f7b36919b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -35624,7 +36057,7 @@
     "dh": "ffffdfcfcfd7840c",
     "sha": "5e46ca85563aed73f7e82f79"
    },
-   "t": "2026-11-13T14:29:27+03:00",
+   "t": "2026-11-13T14:50:48+03:00",
    "teknik": {
     "doygunluk": 42.2,
     "inen": [
@@ -46976,6 +47409,35 @@
     ]
    },
    "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yeşil alanda çocuk ve bisiklet temasına uygun temsilî bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:36+03:00"
+    },
     "r1:6fae9443adc2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47180,7 +47642,7 @@
     "dh": "9717160b7929a1e0",
     "sha": "5ca804cc1ac758245f9a39a7"
    },
-   "t": "2026-11-13T03:00:45+03:00",
+   "t": "2026-11-13T14:49:36+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -54163,6 +54625,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/President_Trump_at_his_desk_%2846451130962%29.jpg/1280px-President_Trump_at_his_desk_%2846451130962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "701f0ed8426b8a31": {
+   "ozet": {
+    "dh": "322c4c9f9f65571b",
+    "sha": "23cadefc0f90cc740b03f4a2"
+   },
+   "t": "2026-11-13T14:49:14+03:00",
+   "teknik": {
+    "doygunluk": 45.4,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.643,
+    "keskinlik": 598,
+    "kontrast": 62,
+    "medyan": 26,
+    "parlaklik": 56,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Zehra_G%C3%BCne%C5%9F%2C_2024.jpg/1280px-Zehra_G%C3%BCne%C5%9F%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "708f55f54689b651": {
    "icerik": {
@@ -75113,6 +75596,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Stagecoach_Enviro_NK11_BGX_27739_-_Greenwich_Academy_gymnasts_training_facility_%287721544420%29.jpg/1280px-Stagecoach_Enviro_NK11_BGX_27739_-_Greenwich_Academy_gymnasts_training_facility_%287721544420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9a02e2f707963930": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     178,
+     990,
+     978
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "manken",
+     "semaver",
+     "halı",
+     "oyuncak bebek",
+     "sehpa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede geleneksel kıyafetli çocuk mankenleri ve dekoratif eşyalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze tanıtımı",
+     "geleneksel yaşam",
+     "kültür haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel çocuk hakları eylemi",
+     "spor",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      98,
+      176,
+      396,
+      248
+     ],
+     [
+      104,
+      254,
+      492,
+      342
+     ],
+     [
+      222,
+      500,
+      860,
+      676
+     ],
+     [
+      244,
+      694,
+      868,
+      974
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müzedeki manken çocukları gösterir, haberin konusuyla doğrudan bağı zayıftır.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3119ca8a8a2259dc",
+    "sha": "ab83c426365fc8af49ef45c0"
+   },
+   "t": "2026-11-13T14:49:50+03:00",
+   "teknik": {
+    "doygunluk": 34.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.296,
+    "keskinlik": 2619,
+    "kontrast": 70,
+    "medyan": 93,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Antalya_Kaleici_museum_2012_5832.jpg/1280px-Antalya_Kaleici_museum_2012_5832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9aa43f45871a3059": {
    "icerik": {
     "ana_kutu": [
@@ -79383,6 +79983,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Konyaalt%C4%B1_Beach_with_railings.jpg/1280px-Konyaalt%C4%B1_Beach_with_railings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a4167a8075ce1625": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "ambulans",
+     "itfaiye aracı",
+     "çocuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda çocuklar ve resmi görevliler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye faaliyetleri",
+     "çocuk etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      513,
+      420,
+      715,
+      497
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocukların katıldığı açık alan etkinliğini gösterdiği için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6b6b3939ce1c3c2c",
+    "sha": "479a0c987943785565726d82"
+   },
+   "t": "2026-11-13T14:49:36+03:00",
+   "teknik": {
+    "doygunluk": 21.8,
+    "inen": [
+     500,
+     355
+    ],
+    "karanlik_oran": 0.276,
+    "keskinlik": 3304,
+    "kontrast": 61,
+    "medyan": 103,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Antalya_Cumhuriyet_Caddesi_in_2015_63.jpg/1280px-Antalya_Cumhuriyet_Caddesi_in_2015_63.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a449d608a1e5dafc": {
    "icerik": {
@@ -83678,6 +84367,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mehmet_Fatih_Kac%C4%B1r.jpg/1280px-Mehmet_Fatih_Kac%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "aeb6d484b4b1fd9c": {
+   "icerik": {
+    "ana_kutu": [
+     2,
+     2,
+     970,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "ağaç",
+     "çimen",
+     "çocuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük ağaçların bulunduğu geniş açık yeşil alanda oynayan çocuklar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yeşil alan önemi",
+     "park ve bahçe",
+     "tarihi arşiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel spor haberleri",
+     "röportaj",
+     "canlı yayın"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocukların yeşil alandaki arşiv görüntüsü çağrı haberi için tematik olarak uygundur ancak eski ve siyah-beyazdır.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       970,
+       970
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c3e0599898b0b070",
+    "sha": "9577d532c2a752ed7816a8f4"
+   },
+   "t": "2026-11-13T14:49:50+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.025,
+    "keskinlik": 4076,
+    "kontrast": 56,
+    "medyan": 127,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Children_at_play_in_the_park%28GN11949%29.jpg/1280px-Children_at_play_in_the_park%28GN11949%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "aec43c03a8066a85": {
    "icerik": {
@@ -100117,6 +100901,92 @@
     "s": "t1"
    },
    "url": "/images/kurum/3054547035eb8d0a.jpg"
+  },
+  "d01d84837076b2c1": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "forma",
+     "voleybol forması"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Voleybol salonunda duran sporcu",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberleri",
+     "röportaj",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "ekonomi haberleri",
+     "magazin"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      319,
+      442,
+      683
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40afb93da822:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşivi, çağrı haberi için portre olarak uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2a4c4e4c684cece8",
+    "sha": "8f6713fab31ab924f1bb9f38"
+   },
+   "t": "2026-11-13T14:49:36+03:00",
+   "teknik": {
+    "doygunluk": 34.7,
+    "inen": [
+     500,
+     667
+    ],
+    "karanlik_oran": 0.282,
+    "keskinlik": 538,
+    "kontrast": 69,
+    "medyan": 113,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zehra_G%C3%BCne%C5%9F_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "d01fc5688f0dedea": {
    "t": "2026-11-08T13:11:35+03:00",
@@ -122688,6 +123558,40 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:40afb93da822:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk heykeli temsilî olarak kullanılabilir ancak gerçek çocuk veya Zehra Güneş içermez.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       94,
+       68,
+       864,
+       298
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç skoru",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:49:50+03:00"
+    },
     "r1:d6071a7ab24f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -122715,7 +123619,11 @@
      "t": "2026-11-08T15:05:28+03:00"
     }
    },
-   "t": "2026-11-08T15:05:28+03:00",
+   "ozet": {
+    "dh": "6523909f9fada646",
+    "sha": "0181c58d056fd7283209e53c"
+   },
+   "t": "2026-11-13T14:49:50+03:00",
    "teknik": {
     "doygunluk": 12.4,
     "inen": [
@@ -125228,6 +126136,72 @@
    "sinif": "konu",
    "son_kabul": "2026-11-09T18:36:06+03:00",
    "url": "https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "37dfafac38a0621e": {
+   "alt_tur": "kurum",
+   "boyut": [
+    1618,
+    940
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2019-03-18",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "The Land of Legends eğlence merkezinin dış cephesi ve girişi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T14:50:48+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "János Korom Dr. >17 Million views from Wien, Austria / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "János Korom Dr. >17 Million views from Wien, Austria",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:The_Land_of_Legends_670DSC_0573_(48212748826).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": [
+     {
+      "ad": "The Land of Legends",
+      "qid": "Q110199633"
+     }
+    ]
+   },
+   "konular": [
+    "ağaç",
+    "bina",
+    "demir parmaklık",
+    "eğlence merkezi",
+    "kule",
+    "sarı araç"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg/500px-The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "kurumsal haber",
+    "tesis tanıtımı"
+   ],
+   "kullanilamaz": [
+    "sağlık haberi",
+    "olay haberi"
+   ],
+   "notr_portre": false,
+   "qid": "Q110199633",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "yer",
+   "son_kabul": "2026-11-13T14:50:48+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg/1280px-The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
