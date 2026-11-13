@@ -37257,13 +37257,44 @@
       ]
      },
      "t": "2026-11-09T14:35:33+03:00"
+    },
+    "r1:3d4c3df84832:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir konser sahnesi gösteriyor ancak plastik müzik aletleri net seçilemiyor.",
+      "gerekli": [
+       {
+        "unsur": "sahne performansçısı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       199,
+       0,
+       674,
+       951
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T10:06:53+03:00"
     }
    },
    "ozet": {
     "dh": "ab8bd5d9c98bb666",
     "sha": "3402eeae1c59d19157271230"
    },
-   "t": "2026-11-09T14:35:33+03:00",
+   "t": "2026-11-13T10:06:53+03:00",
    "teknik": {
     "doygunluk": 41.4,
     "inen": [
@@ -49728,6 +49759,29 @@
      },
      "t": "2026-11-09T14:35:57+03:00"
     },
+    "r1:3d4c3df84832:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Boş bir kapalı salon gösteriyor; haberdeki açık hava konseri ve plastik atık temasıyla uyuşmuyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "klasik enstrümanlar"
+      ]
+     },
+     "t": "2026-11-13T10:06:53+03:00"
+    },
     "r1:93d895c1db8d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -49846,7 +49900,7 @@
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-12T11:57:38+03:00",
+   "t": "2026-11-13T10:06:53+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -101493,6 +101547,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWNpdHklMjBtZXRlcnxlbnwxfDB8fHwxNzk0MTMwNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "df00a62a2c5e9f78": {
+   "ozet": {
+    "dh": "211e8d4d2d69eded",
+    "sha": "32206807cb405c8747ee0993"
+   },
+   "t": "2026-11-13T10:06:49+03:00",
+   "teknik": {
+    "doygunluk": 56.0,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.671,
+    "keskinlik": 1582,
+    "kontrast": 76,
+    "medyan": 17,
+    "parlaklik": 59,
+    "s": "t1"
+   },
+   "url": "/images/kurum/ec65a7f019f5ca9e.jpg"
   },
   "df0111ed05f92b17": {
    "icerik": {
