@@ -78,7 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 - https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 baslik_onceki: Alanyali şehit Yusuf Önder kabri basinda dualarla anıldı
-yazim_duzeltme: basinda→başında; yilindaki→yılındaki
+yazim_duzeltme: basinda→başında
 ---
 Hakkari'nin Şemdinli ilçesindeki Süngü Tepe Üs Bölgesi'nde 9 Kasım 2018 tarihinde yaşanan mühimmat patlamasında şehit olan Topçu Er Yusuf Önder için Alanya'da anma töreni organize edildi. Alanya Garnizon Şehitliği'nde gerçekleştirilen programa protokol üyeleri, siyasi parti temsilcileri, emniyet ve jandarma mensupları, şehit aileleri ile çok sayıda vatandaş iştirak etti.
 

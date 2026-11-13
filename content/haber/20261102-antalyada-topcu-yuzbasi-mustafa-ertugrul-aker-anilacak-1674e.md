@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/MarkAntalya_%282%29.jpg/1280px-MarkAntalya_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Cobija / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-antalyada-topcu-yuzbasi-mustafa-ertugrul-aker-anilacak-1674e-672429ab.jpg
+yazim_denetim: y1
 ---
 Antalya'da Muratpaşa Belediyesi tarafından kent tarihine adını yazdıran kahraman Topçu Yüzbaşı Mustafa Ertuğrul Aker için özel bir anma programı hazırlandı. Kahraman komutanın mirasını yaşatmak ve gelecek kuşaklara aktarmak amacıyla düzenlenen etkinlikler kapsamında çeşitli törenler ve uluslararası bir spor organizasyonu gerçekleştirilecek.
 

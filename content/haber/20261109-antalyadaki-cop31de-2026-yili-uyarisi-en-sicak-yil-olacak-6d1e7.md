@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye ve Avustralya eş başkanlığında Antalya'da başlayan Birleşmiş Milletler iklim konferansı COP31'de, iklim krizine yönelik kritik uyarılar yapıldı. Konferansın açılış gününde bilim insanları, 2026'nın bugüne kadarki en sıcak yıl olmasının beklendiğini paylaştı.
 

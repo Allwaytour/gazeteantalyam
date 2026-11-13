@@ -86,6 +86,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 yazim_duzeltme: Aciklandi→Açıklandı
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde gerçekleşecek COP31 İklim Zirvesi'ne doğru, binaların enerji tüketimini ve karbon salınımını düşürmek amacıyla hazırlanan Antalya Mutabakatı kamuoyuna duyuruldu. COP31 Türkiye Başkanlığı tarafından açıklanan bu girişim, konutlardan okullara ve hastanelere kadar geniş bir yapı stokunu kapsıyor.
 

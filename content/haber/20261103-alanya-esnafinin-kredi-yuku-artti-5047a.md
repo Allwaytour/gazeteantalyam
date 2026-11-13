@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya'da turizm sezonunun beklentileri karşılamaması ve bankalardan finansman sağlamanın zorlaşması, esnafı kredi ve kefalet kooperatiflerine yöneltti. Bölgedeki iki büyük kooperatifin açıkladığı verilere göre, yılın ocak-ekim döneminde toplam 845 esnafa 751 milyon 805 bin TL kredi kullandırıldı. Geçen yılın aynı dönemine kıyasla toplam kredi tutarı yükselirken, kredi kullanan esnaf sayısının azalması dikkat çekti.
 

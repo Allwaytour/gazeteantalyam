@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 - https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da motosiklet kullanımında trafik güvenliğini artırmak ve olası risklere karşı hazırlıklı olunmasını sağlamak amacıyla kapsamlı bir eğitim programı hayata geçiriliyor. Alanya Motospor Kulübü ile Türkiye Motosiklet Platformu iş birliğiyle gerçekleştirilecek ücretsiz güvenli sürüş eğitimi, 6-7 Kasım tarihlerinde motosiklet tutkunlarını bir araya getirecek. Alanya Belediyesi eski hizmet binasının arkasında yapılacak olan etkinlik, her iki gün de saat 10.00 ile 17.00 arasında düzenlenecek.
 

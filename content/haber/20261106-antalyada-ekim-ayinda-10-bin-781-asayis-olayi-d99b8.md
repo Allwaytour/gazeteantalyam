@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Antalya Valiliği Hükümet Konağı'nda İçişleri Bakanlığı'nın projeleri kapsamında Antalya'nın Huzuru Güvenlik ve Asayiş Bilgilendirme Toplantısı gerçekleştirildi. Toplantıda ekim ayı güvenlik ve asayiş verileri kamuoyuyla paylaşıldı. Kent genelinde bir ay içinde 10 bin 781 asayiş olayı yaşandığı ve bu olayların yüzde 99,5 oranında aydınlatıldığı bildirildi. Gerçekleşen olayların 3 bin 763'ünü kişilere, 1279'unu malvarlığına, 126'sını millete ve devlete, 1660'ını topluma karşı işlenen suçlar oluştururken, 3 bin 953 olay takibi gereken suçlar arasında yer aldı. Yürütülen çalışmalarda çeşitli suçlardan aranan 4 bin 838 kişi yakalandı ve bunlardan 691'i tutuklandı.
 

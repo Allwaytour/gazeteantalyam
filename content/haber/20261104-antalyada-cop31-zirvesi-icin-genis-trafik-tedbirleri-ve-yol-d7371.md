@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+yazim_denetim: y1
 ---
 Antalya, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31'inci Taraflar Konferansı'na ev sahipliği yapmaya hazırlanıyor. 9-20 Kasım 2026 tarihleri arasında gerçekleştirilecek uluslararası organizasyon kapsamında kent genelinde trafik düzenlemeleri yapılacak. Antalya Valiliği'nin duyurduğu tedbirlere, Büyükşehir Belediyesi'nin UKOME kararıyla yeni düzenlemeler eklendi. Zirveye katılacak liderler ve heyetlerin ulaşımı için havalimanı, Serik ve Belek güzergâhlarında trafik akışı yeniden şekillendirilecek.
 

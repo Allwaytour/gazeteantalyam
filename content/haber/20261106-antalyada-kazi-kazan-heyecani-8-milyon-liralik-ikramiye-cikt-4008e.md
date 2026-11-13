@@ -69,6 +69,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Milli Piyango'nun popüler şans oyunlarından Kazı Kazan, Antalya'da yaşayan bir şanslı kişiye büyük sevinç yaşattı. Muratpaşa ilçesinde hizmet veren gezici bayiden temin edilen karta 8 milyon TL'lik büyük ikramiye isabet etti. Kentte uzun yıllardır seyyar bayilik yapan Zeliha Demirense, ödülü kazanan vatandaşın oldukça heyecanlandığını ve paraya ihtiyacı olduğunu dile getirdiğini belirtti. Aynı dönemde Kocaeli'nin İzmit ilçesinde satılan bir başka karta ise 24 milyon TL kazanç sağlandı.
 

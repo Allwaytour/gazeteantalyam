@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'da beş yıl önce siroz tanısı konulan 60 yaşındaki emekli anestezi teknisyeni Hasibe İlhan, kadavradan organ bulunamaması ve sağlık durumunun kritik aşamaya gelmesi üzerine kızının donör olmasıyla sağlığına kavuştu. Antalya Eğitim ve Araştırma Hastanesi Organ Nakli Merkezi'nde yaklaşık bir yıl önce gerçekleştirilen operasyonda, Avustralya'daki eğitimini yarıda bırakıp gelen 27 yaşındaki kızı Gökçem İlhan'dan alınan karaciğer dokusu nakledildi. Ameliyatın ardından her iki ismin de sağlık durumunun iyi olduğu açıklandı.
 

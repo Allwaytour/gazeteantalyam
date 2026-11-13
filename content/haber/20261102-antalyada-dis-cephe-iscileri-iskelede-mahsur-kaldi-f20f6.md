@@ -106,6 +106,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kepez ilçesinde sabah saatlerinde yaşanan olay çevrede kısa süreli endişe yarattı. Yeşiltepe Mahallesi sınırları içerisinde yer alan 10 katlı bir sitede dış cephe boyama işlemleri sürdüren Sedat Y. ve Bülent Ç., çalıştıkları esnada iskelenin bağlantı noktasının kopmasıyla havada asılı kaldı.
 

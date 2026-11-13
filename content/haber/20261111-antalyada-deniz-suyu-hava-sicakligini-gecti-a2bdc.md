@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Türkiye genelinde kış mevsimi etkisini hissettirirken, Antalya'da yaşanan sıcaklık dengesizliği dikkat çekti. Meteoroloji Bölge Müdürlüğü'nün uyarılarının ardından kent genelinde soğuk hava etkili olurken, hava sıcaklığı yaklaşık 8 derece birden düştü. Kent merkezinde yapılan ölçümlerde hava sıcaklığı 15 derece olarak kayıtlara geçti.
 

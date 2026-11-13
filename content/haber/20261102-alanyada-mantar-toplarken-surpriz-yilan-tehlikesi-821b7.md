@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg/1280px-Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Kawon Kez Sel / Wikimedia Commons (CC0)'
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-mantar-toplarken-surpriz-yilan-tehlikesi-821b7-d2d4fa0d.jpg
+yazim_denetim: y1
 ---
 Alanya'nın Asmaca Mahallesi kırsalında son yağmurların ardından mantar toplamak amacıyla ormanlık alana giden yöre sakinleri, beklenmedik bir manzara ile karşı karşıya kaldı. Ağaç diplerinde ve çalılıklar arasında mantar arayan grup, otların arasına gizlenmiş haldeki yılanı fark edince kısa süreli korku ve şaşkınlık yaşadı.
 

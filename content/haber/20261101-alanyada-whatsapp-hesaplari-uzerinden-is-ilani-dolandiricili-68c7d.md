@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Alanya'da çeşitli oda ve kurumların WhatsApp hesapları üzerinden yapılan paylaşımlar, hesapların ele geçirilmiş olabileceği ihtimalini gündeme taşıdı. Söz konusu hesaplardan, sahiplerinin bilgisi ve onayı olmadan bazı WhatsApp gruplarına iş ilanı içerikli mesajlar gönderildiği tespit edildi.
 

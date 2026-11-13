@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: /images/kategori/yasam.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-kemerde-su-kesintisi-8-mahallede-sular-9-saat-akmayacak-33f68-a086862e.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi, Kemer'de gerçekleştirilecek içme suyu hattı bağlantı çalışmaları dolayısıyla su kesintisine gidileceğini bildirdi. Yapılan açıklamada, ilçede sürdürülen altyapı projeleri kapsamında geçici su kesintisi yapılmasının zorunlu hale geldiği aktarıldı.
 

@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) hazırlıkları sürerken, Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Antalya'da düzenlediği basın toplantısıyla sürece dair çekincelerini dile getirdi. "Sıfır Emisyon mu, Emisyon Ticareti mi: Karbon Piyasalarının Gölgesinde COP31" başlıklı raporunu kamuoyuyla paylaşan birlik, iklim krizine karşı geliştirilen piyasa odaklı çözümlerin çevresel tahribatı artırdığını savundu.
 

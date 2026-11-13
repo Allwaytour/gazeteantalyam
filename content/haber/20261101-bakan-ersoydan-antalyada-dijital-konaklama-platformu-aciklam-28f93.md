@@ -46,6 +46,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-bakan-ersoydan-antalyada-dijital-konaklama-platformu-aciklam--461874e5.jpg
+yazim_denetim: y1
 ---
 Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'da gerçekleştirdiği temaslar sırasında yabancı dijital konaklama platformlarına yönelik yürütülen yasal düzenlemelerle ilgili önemli değerlendirmelerde bulundu. Türkiye'nin dijital turizm alanındaki değişimlere kapalı olmadığını belirten Ersoy, hedeflerinin adil rekabet koşullarını sağlamak ve hem işletmeleri hem de tüketicileri korumak olduğunu vurguladı.
 

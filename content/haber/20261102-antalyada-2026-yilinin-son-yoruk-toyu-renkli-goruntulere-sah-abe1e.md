@@ -45,6 +45,7 @@ gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-antalyada-2026-yilinin-son-yoruk-toyu-renkli-goruntulere-sah--0ddaf4dd.jpg
+yazim_denetim: y1
 ---
 Yaz aylarını Torosların yüksek kesimlerindeki yaylalarda geçiren Yörükler, hayvanları ve eşyalarıyla birlikte dönüş yolculuğunu tamamladı. Yayla sezonunun sona ermesiyle birlikte ilçe ve köylerde düzenlenen etkinliklerin finali Antalya'da yapıldı.
 

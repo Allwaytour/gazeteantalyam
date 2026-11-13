@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: /images/kategori/kultur-sanat.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-muzesi-ve-kugulu-park-icin-sanatcilardan-ortak-cagri--4a29d96f.jpg
+yazim_denetim: y1
 ---
 Antalya Arkeoloji Müzesi'nin yıkım süreci ve Kuğulu Park'ın satışa çıkarılmasıyla başlayan tartışmalar sürerken, sanat dünyasından pek çok isim kültürel mirasın korunması için ortak çağrıda bulundu. Tiyatro, sinema, müzik ve resim alanından pek çok sanatçı, Antalya Müze Çalışma Grubu'nun kamusal alanların korunmasına yönelik girişimlerine destek verdi. Sanatçılar, müzelerin toplumların kültürel belleğindeki rolüne dikkat çekerek sürecin şeffaf yürütülmesini ve Kuğulu Park'ın kamusal niteliğinin güvence altına alınmasını istedi.
 

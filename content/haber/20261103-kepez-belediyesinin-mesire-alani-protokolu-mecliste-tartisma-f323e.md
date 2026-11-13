@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kepez Belediyesi Meclisi'nin kasım ayı toplantısında, Duacı Mahallesi'ndeki Kent Ormanı Macera Parkı içinde bulunan D tipi mesire yeri için yapılan ortak hizmet projesi protokolü masaya yatırıldı. Kepez Belediyesi ile Döşemealtı Sanayici ve İş Adamları Derneği arasında imzalanan protokol, meclis üyeleri arasında görüş ayrılıklarına neden oldu.
 

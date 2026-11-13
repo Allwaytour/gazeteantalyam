@@ -109,6 +109,7 @@ metin_onarim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 yazim_duzeltme: ilcesindeki→ilçesindeki
+yazim_denetim: y1
 ---
 Adana ile Antalya arasındaki ulaşımı daha güvenli, hızlı ve konforlu hale getirmeyi amaçlayan Akdeniz Sahil Yolu Projesi kapsamındaki çalışmalar devam ediyor. Bu proje, bölgedeki ulaşım altyapısını güçlendirerek iki şehir arasında seyahat eden vatandaşların işini kolaylaştırmayı hedefliyor.
 

@@ -150,6 +150,7 @@ gorsel_yerlesim:
 etiketler:
 - Alanya Sebze ve Meyve Komisyoncuları Derneği
 gorsel_yedek: /images/haber-gorsel/20261104-alanya-toptanci-halinde-sebze-ve-meyve-fiyatlari-aciklandi-b6-ce2c5e70.jpg
+yazim_denetim: y1
 ---
 Alanya Sebze ve Meyve Komisyoncuları Derneği tarafından 4 Kasım tarihinde yayımlanan toptancı hal fiyat listesinde sebze ve meyvelerin en düşük ve en yüksek satış fiyatları duyuruldu. Açıklanan verilere göre domatesin kilogram fiyatı 20 ila 40 lira arasında değişirken, kokteyl ve çeri domates 60 ila 80 lira, sivri biber ise 60 ila 80 lira aralığında alıcı buldu. Patlıcan 25 ile 50 lira, salatalık ise 15 ila 20 lira arasında işlem gördü.
 

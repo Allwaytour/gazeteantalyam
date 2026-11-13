@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya spor camiasında uzun yıllar boyunca futbol il temsilciliği görevini yürüten, aynı zamanda halter ve basketbol branşlarında da il temsilciliği yapan ve Antbirlik Spor Kulübü'nün faaliyetlerine önemli katkılar sunan Mutlu Koparanoğlu'nun hatırası yaşatılacak. Geçtiğimiz yıl 14 Kasım tarihinde hayatını kaybeden sevilen spor insanının ismi, Antalya Amatör Spor Kulüpleri Federasyonu tarafından alınan kararla 2026-2027 sezonundaki U12 Ligi'ne verildi.
 

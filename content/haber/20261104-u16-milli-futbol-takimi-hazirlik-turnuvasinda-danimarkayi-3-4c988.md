@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye 16 Yaş Altı Futbol Milli Takımı, Antalya'nın Manavgat ilçesinde gerçekleştirilen Uluslararası Hazırlık Turnuvası'nın son maçında Danimarka ile karşı karşıya geldi. Arslan Zeki Demirci Spor Kompleksi'nde oynanan mücadele, milli takımın üstün mücadelesine sahne oldu ve karşılaşma 3-1'lik galibiyetle sonuçlandı.
 

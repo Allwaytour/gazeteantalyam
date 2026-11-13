@@ -70,6 +70,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1718478553947-158ee27df8f8?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kemer Turizmci ve İş İnsanları Derneği tarafından hayata geçirilen ve dördüncüsü düzenlenen Powered By KEMİAD Uluslararası Sup Cup Kemer Yarışları ile Dünya Sıralama Yarışları tamamlandı. Organizasyona yirmi üç farklı ülkeden iki yüz sporcu katılım sağladı.
 

@@ -71,6 +71,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya genelinde etkisini artıran gök gürültüsü ve peş peşe çakan şimşekler gece boyunca gökyüzünü aydınlattı. Akşam saatlerinde başlayan şiddetli sağanak, özellikle Kepez ve Döşemealtı ilçelerinde yoğunlaşarak hayatı zorlaştırdı.
 

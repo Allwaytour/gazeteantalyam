@@ -32,7 +32,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-2
-    tarih: '2026-11-13T16:08:12+03:00'
+    tarih: '2026-11-13T16:32:06+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 baslik_onceki: Cevdet Yilmaz ile Mali Basbakani Maiga Antalya'da Görüstü
 yazim_duzeltme: Yilmaz→Yılmaz; Basbakani→Başbakanı; Görüstü→Görüştü; Cumhurbaskani→Cumhurbaşkanı; Yardimcisi→Yardımcısı; kapsaminda→kapsamında; dolayisiyla→dolayısıyla; görüstü→görüştü; gerçeklestirdi→gerçekleştirdi; Görüsmede→Görüşmede; arasindaki→arasındaki; iliskilerin→ilişkilerin; tasinmasi→taşınması; altyapi→altyapı; çesitli→çeşitli; çalisma→çalışma; imkanlari→imkanları; yatirildi→yatırıldı; dayanismanin→dayanışmanın; artirilmasi→artırılması; gerektigine→gerektiğine; görüsmede→görüşmede; gelismeler→gelişme
+yazim_denetim: y1
 ---
 Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayısıyla Türkiye'de bulunan Mali Başbakanı Abdulaye Maiga ile ikili bir görüştü gerçekleştirdi. 
 

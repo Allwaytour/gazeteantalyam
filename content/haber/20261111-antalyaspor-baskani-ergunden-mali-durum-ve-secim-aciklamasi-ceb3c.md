@@ -77,7 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 baslik_onceki: Antalyaspor Baskani Ergün'den mali durum ve seçim aciklamasi
-yazim_duzeltme: Baskani→Başkanı; aciklamasi→açıklaması; yapisi→yapısı; borçlarin→borçların; kapatilmasi→kapatılması; degisikligi→değişikliği; iliskin→ilişkin; açiklamalarda→açıklamalarda; katildigi→katıldığı; programinda→programında; karsilastigi→karşılaştığı; hazirliklari→hazırlıkları; yapilan→yapılan; hakkinda→hakkında; degerlendirmeler→değerlendirmeler; yapti→yaptı; haritasi→haritası; geçtigimiz→geçtiğimiz; kullanilacagini→kullanılacağını; aktardi→aktardı; oldugunu→olduğunu; çikmasi→çıkması; Dernegi→Derneği;
+yazim_duzeltme: aciklamasi→açıklaması
 ---
 Antalyaspor Başkanı Mustafa Ergün katıldığı bir televizyon programında, kulübün karşılaştığı mali sorunlar, yönetim değişikliği ihtimali ve hazırlıkları yapılan destek kampanyalari hakkında değerlendirmeler yaptı. Kulüp için yeni bir yol haritası çizmeyi hedeflediklerini belirten Ergün, geçtiğimiz hafta eski baskanlar ve kdemli üyelerle bir araya gelerek Lara bölgesindeki tasinmazdan elde edilecek gelirin borçların hafifletilmesinde kullanılacağını konustuklarini aktardı.
 

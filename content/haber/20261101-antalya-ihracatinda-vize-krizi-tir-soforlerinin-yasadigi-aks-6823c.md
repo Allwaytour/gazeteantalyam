@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1762965119363-af950b523dca?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1553695142-4bb5259028e2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye'nin Avrupa'ya yönelik ihracatında kritik bir paya sahip olan karayolu taşımacılığı, TIR şoförlerinin karşılaştığı vize engelleri nedeniyle risk altında bulunuyor. Schengen bölgesine sefer yapan şoförlerin 180 gün içinde 90 gün kalış kuralı sebebiyle vize sürelerini hızla doldurduğu bildirildi. Bu durum, sınır kapılarında uzun kuyrukların oluşmasına ve sevkiyatların aksamasına yol açıyor.
 

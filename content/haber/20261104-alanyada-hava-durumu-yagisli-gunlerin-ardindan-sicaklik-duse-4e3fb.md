@@ -147,6 +147,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sunny_and_cloudy_day_in_Lusaka.jpg/1280px-Sunny_and_cloudy_day_in_Lusaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261104-alanyada-hava-durumu-yagisli-gunlerin-ardindan-sicaklik-duse--4dc68862.jpg
+yazim_denetim: y1
 ---
 Alanya genelinde 4 ila 10 Kasım tarihlerini kapsayan güncel hava tahmin raporları yayımlandı. Buna göre ilçede haftanın ilk bölümünde sağanak yağışlar etkisini gösterecek, ilerleyen günlerde ise hava açarak güneşli bir döneme girilecek.
 

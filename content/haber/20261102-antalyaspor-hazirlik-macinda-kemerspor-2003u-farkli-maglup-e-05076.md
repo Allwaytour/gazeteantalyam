@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen hazırlık karşılaşmasında Antalyaspor ve Kemerspor 2003 takımları karşı karşıya geldi. Mücadeleye ev sahibi ekip Ferhat Kaplan, Salih Dursun, Horic, Yusuf Çelik, Motta, Sandro, Yekta Kurtuluş, Rennie, Makoun, Serdar Özkan ve Emre Güral ilk 11'iyle başladı. Konuk takım ise sahada Hüseyin Daş, Ufur Er, Burak Koçer, Zekeriya Çakırca, Volkan Can, Sergen Çelik, Barış Sağır, Deniz Ataç, Ali Aydemir, Burak Dost ve Umut Dilek kadrosuyla yer aldı.
 

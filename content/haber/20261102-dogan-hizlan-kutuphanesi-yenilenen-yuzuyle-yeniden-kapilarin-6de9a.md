@@ -45,6 +45,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-dogan-hizlan-kutuphanesi-yenilenen-yuzuyle-yeniden-kapilarin--23810e76.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi bünyesinde faaliyet gösteren Doğan Hızlan Kütüphanesi, uzun yıllar boyunca yoğun şekilde kullanılmasının ardından ihtiyaç duyulan modernizasyon çalışmalarıyla yenilendi. Gerçekleştirilen kapsamlı tadilat çerçevesinde kütüphanenin çalışma alanları, çocuk bölümü ve kitap koleksiyonu baştan aşağı yenilendi. Aynı zamanda binanın dış cephe görsel uygulamaları ve bahçe düzenlemesi de elden geçirilerek daha kullanışlı bir yapı oluşturuldu.
 

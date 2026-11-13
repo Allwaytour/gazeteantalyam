@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 CHP Antalya İl Başkanı Hasan Şahin, kamuoyunda tartışılan yaklaşık 20 milyar dolarlık kayıp iddiası üzerine açıklamalarda bulundu. Şahin, 20 milyar doların 50 TL'lik kur hesabı üzerinden yaklaşık 1 trilyon TL'ye ulaştığını dile getirdi. Söz konusu tutarın, konut başına 4 milyon TL maliyet baz alındığında 250 bin daire alınabileceği anlamına geldiğini vurguladı.
 

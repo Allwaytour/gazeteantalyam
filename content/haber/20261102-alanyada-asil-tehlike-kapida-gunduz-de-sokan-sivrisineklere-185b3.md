@@ -102,6 +102,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın iklim koşulları sivrisinek popülasyonunun artması için uygun bir zemin oluştururken, özellikle yeşil alanlarda görülen bu türün alışılmışın dışında gündüz saatlerinde de soktuğu bildirildi. Siyah gövde yapısı ve beyaz çizgileriyle bilinen sivrisineklerin hedef aldığı kişilerin vücudunda şiddetli kaşıntı, geniş çaplı kızarıklık ve belirgin kabarıklıklar oluştuğu kaydedildi.
 

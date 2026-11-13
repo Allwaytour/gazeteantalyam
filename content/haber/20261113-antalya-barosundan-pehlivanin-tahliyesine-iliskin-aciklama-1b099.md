@@ -81,6 +81,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 baslik_onceki: Antalya Barosu'ndan Pehlivan'in tahliyesine iliskin açıklama
 yazim_duzeltme: iliskin→ilişkin
+yazim_denetim: y1
 ---
 Antalya Barosu, İstanbul Büyükşehir Belediyesi'ne yönelik davada tutuklu yargılanan avukat Mehmet Pehlivan'ın tahliye edilmesinin ardından bir açıklama yayımladı. İstanbul 33. Ağır Ceza Mahkemesi'nin 12 Kasım 2026 tarihinde gördüğü duruşmada Pehlivan'ın da aralarında bulunduğu 8 sanık serbest bırakıldı. Baro, tahliye kararını olumlu bulurken, yaşanan süreci ve tutukluluk tedbirinin uygulanma biçimini eleştirdi.
 

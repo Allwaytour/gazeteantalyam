@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1553695142-4bb5259028e2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1776188590443-99e93967af57?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_denetim: y1
 ---
 Antalya’nın Gazipaşa ilçesinde, belediye tarafından esnaf ve üreticilerin talepleri doğrultusunda planlanan Kahyalar Toptancı Hali için yeni ek hizmet binası yapım çalışmaları hızla sürüyor. Yapılan projeyle bölgedeki ticaret koşullarının daha modern bir yapıya kavuşturulması hedefleniyor.
 

@@ -122,6 +122,7 @@ gorsel_yerlesim:
   o_kart_p: 49% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261105-nadir-gorulen-cayirkosari-kus-gozlemcilerini-manavgata-cekti--273d6617.jpg
+yazim_denetim: y1
 ---
 Kuzey Amerika'da üreyip Güney Amerika'da kışlayan ve göç güzergahı bu kıtalar arasında bulunan çayırkoşarı, Türkiye'de ilk defa kayıt altına alındı. Bu gelişmenin ardından ülkenin çeşitli illerinden gelen çok sayıda kuş gözlemcisi Manavgat ilçesine geldi.
 

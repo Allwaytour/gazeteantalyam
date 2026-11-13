@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
+yazim_denetim: y1
 ---
 Alanya'nın il yapılması tartışmaları sürerken, süreçle ilgili kamuoyunda yoğun bir bilgi kirliliği yaşandığı bildirildi. Konuya ilişkin değerlendirmelerde bulunan İyi Parti Alanya İlçe Başkanı Hilmi Er, kentin il statüsü kazanmasının herhangi bir siyasi iradenin veya iktidarın lütfu olmadığını savundu. Alanya'nın il olmasının Selçuklu'dan bugüne taşınan tarihsel bir hak ile ekonomik, sosyal ve kültürel bir zorunluluk olduğunu ifade etti.
 

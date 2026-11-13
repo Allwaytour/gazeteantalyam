@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1611049754721-c5428b272265?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da kaydedilen sıra dışı bir doğa görüntüsü, yaşam döngüsünün şaşırtıcı detaylarını ortaya koydu. Yeşil tonları, tombul vücudu ve baş kısmına yakın yer alan iki büyük mavi gözü andıran desenleriyle dikkat çeken canlının zakkum şahin güvesi olduğu değerlendiriliyor. 
 

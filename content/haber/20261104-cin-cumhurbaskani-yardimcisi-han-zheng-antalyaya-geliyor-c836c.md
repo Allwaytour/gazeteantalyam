@@ -119,6 +119,7 @@ metin_onarim:
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 yazim_duzeltme: Baskani→Başkanı; tarafindan→tarafından
+yazim_denetim: y1
 ---
 Çin Cumhurbaşkanı Yardımcısı Han Zheng, Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Liderler Zirvesi'ne istirahat edecek. Söz konusu zirve, 6-12 Kasım tarihlerinde Antalya'da gerçekleştirilecek.
 

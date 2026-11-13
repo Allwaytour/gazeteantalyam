@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/00/Alanya_Kuyularonu_Mosque_7958.jpg
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 yazim_duzeltme: diyalogu→diyaloğu
+yazim_denetim: y1
 ---
 Alanya Müftüsü Mehmet Seven, ilçe genelindeki kamu kurumları arasındaki diyaloğu artırmak amacıyla temaslarını sürdürüyor. Bu kapsamda Vergi Dairesi Müdürü Burak Alp'e bir ziyarette bulunan Seven, samimi bir atmosferde gerçekleşen buluşmada önemli değerlendirmelerde bulundu.
 

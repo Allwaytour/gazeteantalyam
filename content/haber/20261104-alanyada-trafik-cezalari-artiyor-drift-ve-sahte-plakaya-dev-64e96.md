@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Trafikte güvenlik standartlarını artırmak amacıyla hazırlanan yeni tarife, kurallara uymayan sürücüler için ağır mali yaptırımları beraberinde getiriyor. Yapılan yeni düzenlemelere göre, trafikte huzuru bozan ve risk oluşturan fiillere kesilecek idari para cezaları en üst seviyeye çıkarıldı. Özellikle Alanya genelinde sıklıkla denetlenen hususlarda rakamlar dikkat çekiyor.
 

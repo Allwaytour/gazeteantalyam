@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/1280px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-icin-3-bin-kilowatt-saatlik-elektrik-destegi-siniri-d-0dc8a234.jpg
+yazim_denetim: y1
 ---
 Enerji Piyasası Düzenleme Kurumu tarafından alınan yeni karar doğrultusunda, meskenler için 2027 yılında uygulanacak elektrik desteğine esas yıllık tüketim sınırı 3 bin kilowatt saat olarak belirlendi. Aylık ortalama 250 kilowatt saate denk gelen bu sınırın, Antalya'nın iklim şartları hesaba katılamadan uygulanmasının ev ekonomisini olumsuz etkileyebileceği ifade edildi.
 

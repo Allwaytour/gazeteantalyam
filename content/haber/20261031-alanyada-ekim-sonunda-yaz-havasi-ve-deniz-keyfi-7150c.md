@@ -74,6 +74,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   o_kart_p: 95% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Türkiye'nin pek çok yerinde sonbahar soğukları ve yağışlar baş gösterirken, turizm kenti Alanya'da güneşli hava etkisini sürdürmeye devam ediyor. Ekim ayının son günlerinde termometrelerin gösterdiği değerler ve ılıman hava koşulları, yerli ve yabancı ziyaretçiler ile ilçe sakinlerini sahile akın ettirdi.
 

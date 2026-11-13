@@ -24263,6 +24263,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:d250fbe9d903:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASAT kısaltması nedeniyle haberle tamamen ilgisiz askeri füze sergi görseli kullanılmış.",
+      "gerekli": [
+       {
+        "unsur": "arıtma tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:29:40+03:00"
+    },
     "r1:eb81d7e44141:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24294,7 +24320,7 @@
     "dh": "c4c1433630f38717",
     "sha": "32aee092b5c6207cfc626973"
    },
-   "t": "2026-11-10T16:07:55+03:00",
+   "t": "2026-11-13T16:29:40+03:00",
    "teknik": {
     "doygunluk": 26.4,
     "inen": [
@@ -53065,32 +53091,6 @@
      },
      "t": "2026-11-09T13:19:46+03:00"
     },
-    "r1:1e48d8a5e871:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Bakan Murat Kurum'un portre fotoğrafı haberin kişisi için uygundur.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       19,
-       178,
-       1000,
-       831
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T15:19:17+03:00"
-    },
     "r1:4994be6d9c16:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -53303,6 +53303,32 @@
      },
      "t": "2026-11-13T15:17:57+03:00"
     },
+    "r1:d250fbe9d903:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisi veya kurumu ASAT ile doğrudan ilişkili olmayan bir bakanın portre fotoğrafı.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       174,
+       1000,
+       810
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:29:40+03:00"
+    },
     "r1:e8a72ca09f4d:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -53355,7 +53381,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-13T16:05:47+03:00",
+   "t": "2026-11-13T16:29:40+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -90135,6 +90161,130 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%87ocuk_Adas%C4%B1_Yandan_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/1280px-%C3%87ocuk_Adas%C4%B1_Yandan_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b47a50429fa037b8": {
+   "icerik": {
+    "ana_kutu": [
+     88,
+     11,
+     1000,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "masa",
+     "makas",
+     "iplik",
+     "kumaş",
+     "televizyon",
+     "yazı tahtası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıfta masa etrafında oturmuş el sanatlarıyla uğraşan kadın kursiyerler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kurs",
+     "kadın eğitimi",
+     "el sanatları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      555,
+      0,
+      987,
+      81
+     ],
+     [
+      403,
+      11,
+      999,
+      355
+     ],
+     [
+      97,
+      196,
+      771,
+      426
+     ],
+     [
+      421,
+      631,
+      991,
+      891
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a7f00fd671a2:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kursiyer kadınlar el sanatları çalışması yaparken görülmektedir, haberle birebir uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "kursiyer kadınlar",
+        "var": true
+       },
+       {
+        "unsur": "el sanatları çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       88,
+       11,
+       1000,
+       999
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:30:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "434b232c2d6766c4",
+    "sha": "e2e0edf44a44334b3d6256ee"
+   },
+   "t": "2026-11-13T16:30:43+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 857,
+    "kontrast": 63,
+    "medyan": 164,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "/images/kurum/3bda31f09e09a968.jpg"
+  },
   "b485eb3c5492a269": {
    "icerik": {
     "ana_kutu": [
@@ -96766,13 +96916,48 @@
       "yasak": []
      },
      "t": "2026-11-13T16:06:37+03:00"
+    },
+    "r1:d250fbe9d903:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Törenden el sıkışma anı görülüyor ancak arıtma tesisine ait bir görsel bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "imza töreni",
+        "var": true
+       },
+       {
+        "unsur": "arıtma tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       140,
+       1000,
+       856
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:29:40+03:00"
     }
    },
    "ozet": {
     "dh": "265cd584e0d58591",
     "sha": "23a7304641fd7cbb6e4e2959"
    },
-   "t": "2026-11-13T16:06:37+03:00",
+   "t": "2026-11-13T16:29:40+03:00",
    "teknik": {
     "doygunluk": 34.7,
     "inen": [
@@ -122314,6 +122499,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:d250fbe9d903:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASAT kısaltmasının füze adıyla karıştırılması sonucu tamamen alakasız bir müze füzesi görseli seçilmiş.",
+      "gerekli": [
+       {
+        "unsur": "arıtma tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:29:40+03:00"
+    },
     "r1:eb81d7e44141:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -122345,7 +122556,7 @@
     "dh": "84f45495c1d9f979",
     "sha": "4be527cd41c04b4370ea1416"
    },
-   "t": "2026-11-10T16:07:55+03:00",
+   "t": "2026-11-13T16:29:40+03:00",
    "teknik": {
     "doygunluk": 21.0,
     "inen": [
@@ -134427,6 +134638,74 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "b47a50429fa037b8": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Sınıfta masa etrafında oturmuş el sanatlarıyla uğraşan kadın kursiyerler.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T16:30:43+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/buyuksehirin-dekoratif-cicek-kursunda-kadinlar-ureterek-kazanacak"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "el sanatları çalışması",
+    "iplik",
+    "kumaş",
+    "kursiyer kadınlar",
+    "makas",
+    "masa",
+    "televizyon",
+    "yazı tahtası"
+   ],
+   "kucuk": "/images/kurum/3bda31f09e09a968.jpg",
+   "kullanilabilir": [
+    "kurs",
+    "kadın eğitimi",
+    "el sanatları"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kaza",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T16:30:43+03:00",
+   "url": "/images/kurum/3bda31f09e09a968.jpg",
+   "uygun_yerlesimler": [
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
   "b4bb3178fe9d82dd": {
    "alt_tur": "kurum_haber",
    "boyut": [
@@ -135008,7 +135287,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T16:06:37+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -135033,6 +135312,7 @@
    "konular": [
     "afiş",
     "bina",
+    "imza töreni",
     "katılımcılar",
     "konferans salonu",
     "palmiye"
@@ -135052,9 +135332,10 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-13T16:06:37+03:00",
+   "son_kabul": "2026-11-13T16:29:40+03:00",
    "url": "/images/kurum/8f2b6887ea021d3a.jpg",
    "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": true

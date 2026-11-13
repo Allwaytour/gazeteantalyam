@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 - https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Emniyet Teşkilatı Vazife Malulü ve Şehit Aileleri Vakfı (EMŞAV) Alanya İlçe Başkanlığı, vatan nöbeti sırasında hayatını kaybeden Şehit Topçu Er Yusuf Önder için anma programı organize edileceğini açıkladı.
 

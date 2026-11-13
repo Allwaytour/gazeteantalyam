@@ -76,6 +76,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
 gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya'nın simgesi haline gelen dünyaca ünlü falezlerde uzun süredir gözlem yapan Veteriner Kuş Gözlemcisi Gökçe Coşkun, doğa fotoğrafçılığı adına önemli bir kayda imza attı. Kent merkezinde yaşamını sürdüren ve görüntülenmesi son derece güç olan gökdoğan, Coşkun'un sabırlı ve azimli takibi sonucunda objektiflere yansıdı. Sabahın erken saatlerinden akşamın geç vaktine kadar falezlerde nöbet tutan gözlemci, bu yırtıcı kuş türünü kadrajına sığdırmayı başardı.
 

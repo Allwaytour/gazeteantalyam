@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
 - https://images.unsplash.com/photo-1762965119363-af950b523dca?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya ve çevresinde tatil planı yapan Rus turistlerin tercihlerinde dönemsel bir farklılaşma görüldü. Mevsim geçişiyle birlikte çocuklu ailelerin gerçekleştirdiği seyahatlerde azalma yaşanırken, çift olarak tatile çıkanların oranında artış kaydedildi. Tatil süresinde kayda değer bir oynamazlık görülmezken, harcama eğilimlerinin üst segment ve beş yıldızlı konaklama tesislerine yöneldiği tespit edildi. Dört yıldızlı otel talebi sınırlı kalırken, her şey dahil ve ultra her şey dahil konseptleri popülaritesini korumayı sürdürdü.
 

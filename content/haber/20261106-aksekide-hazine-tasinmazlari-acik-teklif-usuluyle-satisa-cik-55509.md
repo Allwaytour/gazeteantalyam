@@ -117,6 +117,7 @@ gorsel_yerlesim:
   o_kart_p: 21% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/07630_A%C5%9Fa%C4%9F%C4%B1a%C5%9F%C4%B1klar-Akseki-Antalya%2C_Turkey_-_panoramio.jpg/1280px-07630_A%C5%9Fa%C4%9F%C4%B1a%C5%9F%C4%B1klar-Akseki-Antalya%2C_Turkey_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-aksekide-hazine-tasinmazlari-acik-teklif-usuluyle-satisa-cik--1fff1e7e.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Akseki ilçesinde Hazine mülkiyetindeki 8 taşınmazın satışı için ihale süreci başlatıldı. Akseki Kaymakamlığı Milli Emlak Şefliği tarafından yürütülecek satışlar, 19 Kasım 2026 tarihinde 2886 sayılı Devlet İhale Kanunu'nun 45'inci maddesi gereğince açık teklif usulüyle gerçekleştirilecek.
 

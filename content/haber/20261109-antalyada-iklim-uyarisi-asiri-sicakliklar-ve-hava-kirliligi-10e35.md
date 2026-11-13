@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen COP31 kapsamındaki basın toplantısında, iklim değişikliğinin insan sağlığı üzerindeki tehlikeli boyutları ele alındı. Toplantıya katılan uzmanlar, dünyanın tehlikeli derecede ısındığını ve rekor sıcaklıkların yaşandığını belirtti. Özellikle çocukların, hamilelerin, yaşlıların ve açık havada çalışan bireylerin korunması için hızlı önlemler alınması gerektiği vurgulandı.
 

@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da sonbahar ve kış mevsimlerinde artış gösteren yağışlarla birlikte konutlarda rutubet ve küf riski de yeniden gündeme geliyor. Meteorolojik verilere göre kentte kasım ve aralık aylarında yağış miktarı önemli ölçüde yükseliyor. Bu durum, binaların yağışa karşı korunmasının önemini artırırken yetersiz havalandırılan veya yalıtımı bulunmayan evlerde nem kaynaklı sorunların görülme ihtimalini artırıyor.
 

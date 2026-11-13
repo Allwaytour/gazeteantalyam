@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+yazim_denetim: y1
 ---
 Alanya'da yaklaşık bir yıl önce meydana gelen trafik kazasında 18 yaşındaki Ceren Karadayı yaşamını yitirmişti. Genç kızın ölümünün ardından başlatılan hukuki süreçte sanık hakkında 5 yıl 2 ay hapis cezası verilmişti. Ancak kararı yetersiz bulan acılı anne, kızının ölümüne neden olan sürücünün alkollü olduğunu öne sürerek mücadelesini sürdürüyor.
 

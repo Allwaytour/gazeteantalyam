@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya genelinde etkisini artıran şiddetli yağış, Konaklı Mahallesi'nde cadde ve işletmelerde su birikintilerine yol açtı. Bölgede hizmet veren bir pastanenin açık oturma alanı, kısa sürede biriken yağmur suyuyla kaplandı.
 

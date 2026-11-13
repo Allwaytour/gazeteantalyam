@@ -109,6 +109,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
 yazim_duzeltme: Kirliligine→Kirliliğine; Yuksek→Yüksek
+yazim_denetim: y1
 ---
 Antalya'da denizlerin korunması ve temiz kalması amacıyla yürütülen çevre denetim çalışmaları aralıksız sürüyor. Bu kapsamda, Antalya Körfezi'ni tehdit edebilecek gemi kaynaklı kirliliğe karşı üst düzey teknolojik önlemler devreye alındı.
 

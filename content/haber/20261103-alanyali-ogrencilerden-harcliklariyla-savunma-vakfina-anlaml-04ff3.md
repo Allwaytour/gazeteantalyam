@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
 yazim_duzeltme: vakfi→vakfı
+yazim_denetim: y1
 ---
 Alanya'da eğitim gören lise öğrencileri,örnek bir sosyal sorumluluk çalışmasına imza attı. İrfan Bileydi Siber Güvenlik Mesleki ve Teknik Anadolu Lisesi öğrencileri,kendi harçlıklarından artırdıkları paraları Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'na bağışlama kararı aldı. Bir günlük harçlıklarını vakfa bağışlayan öğrenciler,öğretmenleriyle birlikte vakfı ziyaret ederek bağışlarının kullanım alanları hakkında bilgi sahibi oldu.
 
