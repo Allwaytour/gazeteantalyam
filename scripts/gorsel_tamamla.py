@@ -1,20 +1,26 @@
-"""Her habere görsel (t1). Yapay zekâ isteği yapılmaz; deneysel arama sürümünün kapalı olması bu adımı engellemez.
+"""Her habere konusuyla ilgili görsel (t2). Yapay zekâ isteği yapılmaz; deneysel arama sürümünün kapalı olması bu adımı engellemez.
 
 Sıra: (1) haberin kendi onaylı fotoğrafı korunur; (2) doğrulanmış görsel arşivinden (data/gorsel_arsiv.yml) haberin kişisi,
-kurumu/takımı, konusu ya da gerçekten ilgili yeri kimlik ve kullanım bağlamıyla eşleştirilir; (3) hiçbiri yoksa haberin somut
-başlığıyla bize ait tipografik haber görseli üretilir (gerçek kişi ya da olay fotoğrafı uydurulmaz, yalnızca kategori adı yazan
-genel kapak kullanılmaz). Her otomatik habere ayrıca tipografik yedek görsel (gorsel_yedek) üretilir: ana sayfada aynı fotoğraf
-iki habere düşerse ikinci haber bu yedekle gösterilir, fotoğrafsız kart kalmaz.
+kurumu/takımı/tesisi, somut konusu ya da gerçekten ilgili yeri kimlik ve kullanım bağlamıyla eşleştirilir; (3) hiçbiri yoksa haberin
+somut başlığıyla bize ait tipografik haber görseli üretilir (son seçenek; gerçek kişi ya da olay fotoğrafı uydurulmaz).
 
-Güvenlik: ret kaydındaki (bilinen yanlış) fotoğraflar ve editör incelemesinde yanlış bulunanlar arşivden hiçbir habere verilmez.
-Hassas haberlerde (kaza, suç, ölüm vb.) yalnızca başlıkta adı geçen kişi/kurum/yer kaydı kullanılır; konu ve genel kent
-fotoğrafı kullanılmaz (başka bir olay ya da kişiyle ilişkilendirme olmasın). Başlıkta şehir adı geçmesi tek başına yer fotoğrafı
-için yeterli değildir: yer kayıtları haberin konusu o yerin kendisiyse (turizm, nüfus, kent ekonomisi…) kullanılır."""
+Eşleştirme (t2): başlık (3 puan), spot + metnin girişi (2,5), yalnız spot (2), yalnız giriş (1). Kişi, kurum, takım, tesis ve logo
+kayıtları haberin MERKEZİNDEYSE kullanılır: adı başlıkta ya da hem spotta hem metnin girişinde geçmeli; metinde ikincil geçmesi
+yetmez. Konu kayıtları (somut nesne/etkinlik: ambulans, itfaiye, yağmur, avokado, voleybol…) başlık ya da spotla eşleşir; haberi yazan
+yapay zekânın seçtiği konu etiketi (gorsel_sinif) ek sinyaldir. Yer kayıtları yalnızca haberin konusu o yerin kendisiyse kullanılır;
+başlıkta şehir adı geçmesi tek başına yer fotoğrafı için yeterli değildir.
+
+Güvenlik: ret kaydındaki (bilinen yanlış) fotoğraflar ve editör incelemesinde yanlış bulunanlar hiçbir habere verilmez. Hassas
+haberlerde (kaza, suç, ölüm vb.) yalnızca (a) başlıkta adı geçen kişi/kurum kaydı ve (b) özellikle bu haberler için seçilmiş nötr
+kayıtlar (hassas: true — ambulans, itfaiye aracı, adalet simgesi, kolluk aracı; başka bir olayın, kazanın ya da kişinin görüntüsü
+değil) kullanılır. Aynı konunun birden çok görseli varsa son haberlerde en az kullanılan seçilir (ana sayfada tekrar azalır)."""
 import hashlib
 import json
 import math
 import os
 import re
+
+from urllib.parse import quote
 
 import requests
 import yaml
@@ -22,9 +28,12 @@ import yaml
 import gorsel_sec as gs
 import gorsel_hat as gh
 
-TAMAMLA_SURUM = "t1"
+TAMAMLA_SURUM = "t2"
+TIPO_SURUM = "t1"          # tipografik görselin tasarım sürümü (değişirse bütün tipografik görseller yeniden üretilir)
 KOK = gs.KOK
 ARSIV_DOSYA = os.path.join(KOK, "data", "gorsel_arsiv.yml")
+TANIM_DOSYA = os.path.join(KOK, "data", "gorsel_arsiv_tanim.json")      # t2 kayıt tanımları (eşleştirme kuralları + aday anahtarları)
+ADAY_DOSYA = {"c": os.path.join(KOK, "data", "gorsel_aday_commons.json"), "u": os.path.join(KOK, "data", "gorsel_aday_unsplash.json")}
 INCELEME_DOSYA = os.path.join(KOK, "data", "gorsel_inceleme.yml")
 CIKTI = os.path.join(KOK, "static", "images", "haber-gorsel")
 WEB = "/images/haber-gorsel/"
@@ -44,6 +53,10 @@ def kat(metin):
 
 
 def _gecer(anahtar, metin, tam=False):
+    """Anahtar metinde kelime başından itibaren geçiyor mu? 're:' ile başlayan anahtar, katlanmış (küçük harf, işaretsiz) metinde
+    kelime başından aranan düzenli ifadedir (ör. 're:kaza(?!n)' → kaza, kazada; kazandı değil)."""
+    if anahtar.startswith("re:"):
+        return bool(re.search(r"(?<![a-z0-9])" + anahtar[3:], metin))
     a = kat(anahtar)
     return bool(re.search(r"(?<![a-z0-9])" + re.escape(a) + (r"(?![a-z0-9])" if tam else ""), metin))
 
@@ -52,24 +65,80 @@ def _gecer(anahtar, metin, tam=False):
 _ARSIV = None
 
 
+_YASAK = None
+
+
 def _yasakli_gorseller():
-    """Bilinen yanlış fotoğraflar: ret kaydı (her düzey) ve editör incelemesinde 'yanlis' kararı verilenler."""
-    ys = set()
+    """Bilinen yanlış fotoğraflar. Dönüş: (her haber için yasak görseller, {konu imzası ya da dosya adı: o haber için yasak görseller}).
+    Ret kaydında 'gorsel' düzeyi fotoğrafın kendisinin (kalite, lisans) reddidir: hiçbir habere verilmez. 'eslesme' düzeyi ve editör
+    incelemesindeki 'yanlis' kararı o haber–fotoğraf eşleşmesinin reddidir: aynı fotoğraf o habere bir daha verilmez."""
+    global _YASAK
+    if _YASAK is not None:
+        return _YASAK
+    genel, habere = set(), {}
     r = gh.ret_kaydi()
     for k in r.get("gorsel") or []:
-        ys.add(k.get("gk") or "")
-    for liste in (r.get("eslesme") or {}).values():
+        genel.add(k.get("gk") or "")
+    for kimza, liste in (r.get("eslesme") or {}).items():
         for k in liste:
-            ys.add(k.get("gk") or "")
+            habere.setdefault(kimza, set()).add(k.get("gk") or "")
     try:
         with open(INCELEME_DOSYA, encoding="utf-8") as f:
             for k in (yaml.safe_load(f) or {}).get("kararlar") or []:
                 if k.get("karar") == "yanlis" and k.get("gorsel"):
-                    ys.add(gh.gorsel_kimligi(k["gorsel"]))
+                    habere.setdefault(k.get("dosya") or "", set()).add(gh.gorsel_kimligi(k["gorsel"]))
     except Exception:
         pass
-    ys.discard("")
-    return ys
+    genel.discard("")
+    _YASAK = (genel, habere)
+    return _YASAK
+
+
+def _tanim_kayitlari():
+    """data/gorsel_arsiv_tanim.json tanımlarını aday kayıtlarındaki (Commons/Unsplash) adres, lisans ve atıf bilgisiyle birleştirir."""
+    try:
+        with open(TANIM_DOSYA, encoding="utf-8") as f:
+            tanim = json.load(f)
+    except Exception as e:
+        print("Görsel arşivi tanımları okunamadı:", e)
+        return []
+    aday = {}
+    for tur, yol in ADAY_DOSYA.items():
+        try:
+            with open(yol, encoding="utf-8") as f:
+                aday[tur] = {x["k"]: x for x in json.load(f)}
+        except Exception as e:
+            print("Aday kayıtları okunamadı:", yol, e)
+            aday[tur] = {}
+        for x in (tanim.get("aday") or {}).get(tur) or []:
+            aday[tur][x["k"]] = x
+    out = []
+    for e in tanim.get("kayitlar") or []:
+        ortak = {k: v for k, v in e.items() if k != "kaynak"}
+        for kid, kay in e.get("kaynak") or []:
+            d = dict(ortak, id=kid, t2=True)
+            tur, anahtar = kay.split(":", 1)
+            if tur == "c":
+                c = aday["c"].get(anahtar)
+                if not c:
+                    continue
+                ad = re.sub(r"\s+", " ", c.get("a") or "").strip()
+                ad = re.sub(r"\s*\(talk.*$| from .*$", "", re.sub(r"^User:", "", ad))
+                d.update(url=c["u"].split("?")[0], sayfa="https://commons.wikimedia.org/wiki/File:" + quote(c["t"].replace(" ", "_")),
+                         lisans=c.get("l", ""), lisans_dayanagi=c.get("lu", ""), boyut=[c["w"], c["h"]],
+                         fotografci="bilinmiyor" if (not ad or ad.lower().startswith("unknown")) else ad)
+                if not d.get("yil") and re.match(r"(19|20)\d\d", c.get("y") or ""):
+                    d["yil"] = int(c["y"][:4])
+            elif tur == "u":
+                u = aday["u"].get(anahtar)
+                if not u:
+                    continue
+                d.update(url=u["raw"] + "?fm=jpg&q=80&w=1600&fit=max", sayfa="https://unsplash.com/photos/" + u["id"], lisans="Unsplash Lisansı",
+                         lisans_dayanagi="https://unsplash.com/license", fotografci=u.get("a", ""), boyut=[u["w"], u["h"]])
+            else:
+                d["kutuphane"] = anahtar          # doğrulanmış görsel kütüphanesi kimliğinin başı
+            out.append(d)
+    return out
 
 
 def arsiv():
@@ -83,13 +152,18 @@ def arsiv():
     except Exception as e:
         print("Görsel arşivi okunamadı:", e)
         ham = []
+    ham = list(ham) + _tanim_kayitlari()
     kut = gh.kutuphane()
-    yasak = _yasakli_gorseller()
+    yasak, _ = _yasakli_gorseller()
     out = []
     for k in ham:
         k = dict(k)
         if k.get("kutuphane"):
             kk = (kut.get("kayitlar") or {}).get(k["kutuphane"])
+            if not kk:      # kimliğin başı verilmişse tam kimliğe tamamlanır
+                tam = [x for x in (kut.get("kayitlar") or {}) if x.startswith(k["kutuphane"])]
+                if len(tam) == 1:
+                    k["kutuphane"], kk = tam[0], kut["kayitlar"][tam[0]]
             if not kk:
                 continue
             kay = kk.get("kaynak") or {}
@@ -102,59 +176,136 @@ def arsiv():
             k.setdefault("yil", (kk.get("cekim_tarihi") or "")[:4])
             ic = (kut.get("inceleme") or {}).get(gh.gorsel_kimligi(k["url"])) or {}
             k.setdefault("icerik", {x: (ic.get("icerik") or {}).get(x) for x in ("ana_kutu", "yuzler")})
-        if not k.get("url") or gh.gorsel_kimligi(k["url"]) in yasak:
+        if not k.get("url"):
+            continue
+        k["_gk"] = gh.gorsel_kimligi(k["url"])
+        if k["_gk"] in yasak:
             continue
         out.append(k)
     _ARSIV = out
     return out
 
 
-def hassas_mi(v):
-    m = (v.get("title", "") + " " + (v.get("ozet") or "")).replace("İ", "i").replace("I", "ı").lower()
+def konu_etiketleri():
+    """Haberi yazan yapay zekânın seçebileceği konu etiketleri (arşivdeki konu kayıtlarının 'konu' alanı)."""
+    return sorted({k.get("konu") for k in arsiv() if k.get("sinif") == "konu" and k.get("konu")})
+
+
+def hassas_mi(v, yalniz_baslik=False):
+    """Hassas haber (kaza, suç, ölüm, afet): kategori Asayiş ya da başlıkta/spotta hassas ifade. yalniz_baslik: spot sayılmaz."""
+    m = (v.get("title", "") + " " + ("" if yalniz_baslik else (v.get("ozet") or ""))).replace("İ", "i").replace("I", "ı").lower()
     return (v.get("kategoriler") or [""])[0] == "Asayiş" or bool(HASSAS_RE.search(m))
 
 
-def esle(v, govde=""):
-    """Haberle arşiv kaydı eşleştirmesi. Dönüş: (kayıt, açıklama) ya da (None, neden)."""
-    baslik, spot = kat(v.get("title", "")), kat(v.get("ozet") or "")
-    metin = baslik + " " + spot
+KIMLIK_SINIF = ("kisi", "kurum", "takim", "logo", "tesis")
+# Haber o yerin kendi işleriyle ilgiliyse (belediye hizmeti, mahalle, altyapı, yerel ekonomi, nüfus, imar…) ilçe fotoğrafı anlamlıdır
+YEREL_RE = re.compile(r"belediye|muhtar|mahalle|kaymakam|ilce|sakin|vatandas|esnaf|altyapi|imar|nufus|meclis|cadde|sokak|meydan|"
+                      r"hizmet|yatirim|proje|kalkinma|turizm|sezon|ziyaretci|kent|sehir|koy|yayla|sahil|carsi|pazar")
+
+
+def bolgeler(v, govde=""):
+    """Eşleştirme bölgeleri: başlık, spot ve metnin girişi (ilk ~450 karakter)."""
+    return kat(v.get("title", "")), kat(v.get("ozet") or ""), kat(re.sub(r"\s+", " ", govde or "")[:450])
+
+
+def _puan(k, b, s, g):
+    tam, en = bool(k.get("tam")), 0
+    for a in k.get("anahtar") or []:
+        ib, is_, ig = _gecer(a, b, tam), _gecer(a, s, tam), _gecer(a, g, tam)
+        en = max(en, 3 if ib else 2.5 if (is_ and ig) else 2 if is_ else 1 if ig else 0)
+    return en
+
+
+def _esik(k):
+    sinif = k.get("sinif")
+    if k.get("esik"):
+        return float(k["esik"])
+    if "baslikta" in k:
+        return 3 if k["baslikta"] else 2
+    # kişi: adı başlıkta geçmeli (spottaki ikinci bir kişi haberin kişisi sanılmasın); kurum/takım/tesis/logo: başlık ya da spot + giriş
+    return 3 if sinif == "kisi" else 2.5 if sinif in KIMLIK_SINIF else 2 if sinif == "konu" else 3
+
+
+def adaylar_bul(v, govde="", dosya="", haric=()):
+    """Haberle eşleşen arşiv kayıtları, en iyiden başlayarak: [(puan, öncelik, kayıt)]."""
+    b, s, g = bolgeler(v, govde)
+    metin = b + " " + s
     kategori = (v.get("kategoriler") or [""])[0]
-    hassas = hassas_mi(v)
-    adaylar = []
+    ilce = (v.get("ilceler") or [""])[0]
+    hassas, hassas_baslik = hassas_mi(v), hassas_mi(v, True)
+    etiket = str(v.get("gorsel_sinif") or "")
+    _, habere = _yasakli_gorseller()
+    sec = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+    kimza = sec.get("konu_imza") or gs.konu_imzasi(v.get("title"), v.get("ozet"), kategori or "Gündem")
+    yasak_gk = (habere.get(kimza) or set()) | (habere.get(dosya) or set())
+    out = []
     for k in arsiv():
+        if k.get("yedek_yer") or k.get("_gk") in yasak_gk or k.get("id") in haric:
+            continue
         if k.get("kategoriler") and kategori not in k["kategoriler"]:
             continue
         if kategori in (k.get("yasak_kategoriler") or []):
             continue
-        if k.get("yerel") and any(_gecer(il, baslik, True) for il in gh.TR_ILLERI if il not in ("Antalya", "Burdur", "Isparta")):
-            continue          # Antalya'ya özgü görsel (ör. Antalya piyazı, Antalya seraları) başka ilin haberine verilmez
-        # Kişi, kurum, takım, tesis ve yer kayıtları için ad başlıkta geçmeli (haberin ana öznesi); konu kayıtları spotta da olabilir
-        baslikta = k.get("baslikta", k.get("sinif") not in ("konu",))
+        if k.get("ilceler") is not None and ilce not in k["ilceler"]:
+            continue          # belirli bir yerin tesisi (ör. Antalya Adliyesi) başka ilçenin haberine verilmez
+        if k.get("yerel") and any(_gecer(il, b, True) for il in gh.TR_ILLERI if il not in ("Antalya", "Burdur", "Isparta")):
+            continue          # Antalya'ya özgü görsel başka ilin haberine verilmez
         if any(_gecer(y, metin) for y in k.get("yasak") or []):
             continue
-        tam = bool(k.get("tam"))
-        skor = 0
-        for a in k.get("anahtar") or []:
-            if _gecer(a, baslik, tam):
-                skor = max(skor, 3)
-            elif _gecer(a, spot, tam):
-                skor = max(skor, 2)
-        if skor < (3 if baslikta else 2):
+        puan = _puan(k, b, s, g)
+        if etiket and k.get("sinif") == "konu" and etiket == k.get("konu"):
+            puan = max(puan, 2.2)     # haberi yazan yapay zekânın seçtiği konu etiketi
+        esik = 3 if kategori in (k.get("baslik_kategoriler") or []) else _esik(k)
+        if puan < esik:
             continue
-        if k.get("gerekli") and not any(_gecer(g, baslik if baslikta else metin) for g in k["gerekli"]):
+        if k.get("gerekli") and not any(_gecer(x, b if esik >= 3 else metin) for x in k["gerekli"]):
             continue
-        if hassas and (k.get("sinif") not in ("kisi", "kurum", "takim", "logo", "tesis") or skor < 3 or not k.get("hassas_uygun", True)):
+        if hassas:
+            kimlik = k.get("sinif") in KIMLIK_SINIF and puan >= 3 and k.get("hassas_uygun", True)
+            # hassas ifade yalnızca spotta geçiyorsa (haberin konusu başka) başlıkla eşleşen konu kaydı da kullanılabilir
+            baslik_konusu = not hassas_baslik and puan >= 3 and k.get("sinif") == "konu"
+            if not (kimlik or baslik_konusu or k.get("hassas") is True):
+                continue
+        elif k.get("yalniz_hassas"):
             continue
         if k.get("genel"):
-            skor -= 0.5
-        adaylar.append((-skor, float(k.get("oncelik", 6)), k))
-    if not adaylar:
-        return None, "arşivde eşleşen kayıt yok" + (" (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)" if hassas else "")
-    adaylar.sort(key=lambda x: (x[0], x[1]))
-    en = adaylar[0][2]
-    grup = [k for s, o, k in adaylar if (s, o) == adaylar[0][:2] and k.get("grup") and k.get("grup") == en.get("grup")] or [en]
-    secilen = grup[int(hashlib.md5((v.get("title", "")).encode()).hexdigest(), 16) % len(grup)]
-    return secilen, f"arşiv kaydı '{secilen.get('id')}' ({secilen.get('kimlik', '')}) başlık/spot ile eşleşti"
+            puan -= 0.5
+        onc = float(k.get("oncelik", 6)) - (0.3 if k.get("ilce") and k.get("ilce") == ilce else 0)
+        out.append((puan, onc, k))
+    out.sort(key=lambda x: (-x[0], x[1]))
+    return out
+
+
+def yer_yedegi(v, govde=""):
+    """Konu eşleşmesi olmayan, hassas olmayan yerel haber için ilçenin kendi fotoğrafı (yalnızca haber o yerin işleriyle ilgiliyse)."""
+    if hassas_mi(v) or (v.get("kategoriler") or [""])[0] in ("Spor", "Asayiş"):
+        return []
+    b, s, _ = bolgeler(v, govde)
+    ilce = (v.get("ilceler") or [""])[0]
+    if not YEREL_RE.search(b + " " + s):
+        return []
+    if not ilce:          # ilçesi belirtilmemiş, kentin geneliyle ilgili haber: Antalya'nın kendi fotoğrafı
+        return [k for k in arsiv() if k.get("yedek_yer") and k.get("ilce") == "Muratpaşa"] if _gecer("antalya", b) else []
+    return [k for k in arsiv() if k.get("yedek_yer") and k.get("ilce") == ilce and _gecer(ilce, b)]
+
+
+def esle(v, govde="", kullanim=None, dosya="", haric=()):
+    """Haberle arşiv kaydı eşleştirmesi. Dönüş: (kayıt, açıklama, eş değer seçenekler) ya da (None, neden, [])."""
+    ad = adaylar_bul(v, govde, dosya, haric)
+    if ad:
+        en = ad[0]
+        esdeger = [k for p, o, k in ad if (p, o) == en[:2] and k.get("grup") and k.get("grup") == en[2].get("grup")] or [en[2]]
+        neden = "başlık/spot/giriş ile eşleşti"
+    else:
+        esdeger = [k for k in yer_yedegi(v, govde) if k.get("id") not in haric]
+        neden = "yerel haber: ilçenin kendi fotoğrafı"
+        if not esdeger:
+            return None, "arşivde eşleşen kayıt yok" + (" (hassas haber: yalnızca başlıktaki kişi/kurum ya da nötr kayıt)" if hassas_mi(v) else ""), []
+    kullanim = kullanim or {}
+    h = int(hashlib.md5((v.get("title", "")).encode()).hexdigest(), 16)
+    sira = sorted(range(len(esdeger)), key=lambda i: (kullanim.get(esdeger[i].get("id"), 0), (i - h) % len(esdeger)))
+    secilen = esdeger[sira[0]]
+    return secilen, f"arşiv kaydı '{secilen.get('id')}' ({secilen.get('kimlik', '')}) {neden}", esdeger
 
 
 # ----------------------------------------------------------------- tipografik görsel
@@ -256,7 +407,7 @@ def _tipo_yerlesim(url):
 
 
 def tipo_yolu(v, dosya):
-    imza = hashlib.md5(((v.get("title") or "") + "|" + ((v.get("kategoriler") or [""])[0]) + "|" + ((v.get("ilceler") or [""])[0]) + "|" + TAMAMLA_SURUM).encode()).hexdigest()[:8]
+    imza = hashlib.md5(((v.get("title") or "") + "|" + ((v.get("kategoriler") or [""])[0]) + "|" + ((v.get("ilceler") or [""])[0]) + "|" + TIPO_SURUM).encode()).hexdigest()[:8]
     ad = re.sub(r"[^a-z0-9-]", "", dosya[:-3])[:70] + "-" + imza + ".jpg"
     return os.path.join(CIKTI, ad), WEB + ad
 
@@ -269,10 +420,18 @@ def tipo_hazirla(v, dosya):
 
 
 # ----------------------------------------------------------------- uygulama
+def _arsivden(v):
+    """Görsel bu adımın (t1/t2) arşiv eşleşmesi mi? Öyleyse güncel kurallarla yeniden değerlendirilir."""
+    s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+    return str(s.get("hat", "")).startswith("t") and s.get("tur") == "arsiv" and (s.get("gorsel_url") or "") == (v.get("gorsel") or "")
+
+
 def _foto_var(v):
+    """Haberin bu adımın dışında seçilmiş (kaynak, elle ya da görsel hattının onayladığı) kendi fotoğrafı var mı?"""
     g = v.get("gorsel") or ""
-    s = v.get("gorsel_secim") or {}
-    return bool(g) and not g.startswith("/images/kategori/") and s.get("tur") not in ("tipografik",) and not g.startswith(WEB)
+    s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+    return bool(g) and not g.startswith("/images/kategori/") and s.get("tur") not in ("tipografik",) and not g.startswith(WEB) \
+        and not _arsivden(v)
 
 
 def _arsiv_yerlesim(k):
@@ -303,10 +462,17 @@ def arsiv_uygula(v, k, kimza, neden):
         if not y or not (y.get("kart") or y.get("kart_portre")):
             return False
         y = dict(y, url=gorsel)
-    kredi = f"Arşiv fotoğrafı: {k.get('fotografci', '')} / Wikimedia Commons ({k.get('lisans', '')})" if "wikimedia" in k["url"] else \
-        f"Fotoğraf: {k.get('fotografci', '')}"
+    temsili = k.get("sinif") == "konu"
+    if "unsplash.com" in k["url"]:
+        kredi = f"Fotoğraf: {k.get('fotografci', '')} / Unsplash"
+    elif "wikimedia" in k["url"]:
+        kredi = f"{'Fotoğraf' if temsili else 'Arşiv fotoğrafı'}: {k.get('fotografci', '')} / Wikimedia Commons ({k.get('lisans', '')})"
+    else:
+        kredi = f"Fotoğraf: {k.get('fotografci', '')}"
     if k.get("sahne") == "logo":
-        kredi = f"Logo: {k.get('fotografci') or k.get('kimlik', '')} / Wikimedia Commons ({k.get('lisans', '')})"
+        kredi = f"Görsel: {k.get('fotografci') or k.get('kimlik', '')} / Wikimedia Commons ({k.get('lisans', '')})"
+    aciklama = k.get("aciklama") or ("Temsilî fotoğraf" if temsili else f"{k.get('kimlik', '')} logosu" if k.get("sahne") == "logo"
+                                     else f"{k.get('kimlik', '')} — Arşiv fotoğrafı" + (f" ({k.get('yil')})" if k.get("yil") else ""))
     eski = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
     gecmis = v.get("gorsel_gecmis") if isinstance(v.get("gorsel_gecmis"), list) else []
     if _foto_var(v):
@@ -316,7 +482,8 @@ def arsiv_uygula(v, k, kimza, neden):
         "tur": "arsiv", "alt_tur": "arsiv_eslesme", "sinif": k.get("sinif", ""), "gorsel_url": gorsel, "konu_imza": kimza,
         "kaynak_sayfa": k.get("sayfa", ""), "fotografci": k.get("fotografci", ""), "lisans": k.get("lisans", ""),
         "lisans_dayanagi": k.get("lisans_dayanagi", ""), "gosterilen": k.get("kimlik", ""), "cekim_yili": str(k.get("yil") or ""),
-        "aciklama": k.get("aciklama", ""), "gerekce": neden, "durum": "onaylandi", "hat": "t1",
+        "aciklama": aciklama, "gerekce": neden, "durum": "onaylandi", "hat": TAMAMLA_SURUM,
+        "kredi_etiket": "Görsel" if k.get("sahne") == "logo" else "Fotoğraf",
         "onay": {"yontem": "doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)", "arsiv_id": k.get("id"),
                  "tarih": gs.simdi_tr().isoformat(timespec="seconds")},
         "kural_denetim": gh.KABUL_KURALI, "kabul_kurali": gh.KABUL_KURALI, "surum": gs.KURAL_SURUMU,
@@ -330,19 +497,35 @@ def arsiv_uygula(v, k, kimza, neden):
 def tipo_uygula(v, web, kimza, neden):
     eski = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
     v["gorsel"], v["gorsel_kredi"], v["gorsel_tur"] = web, "Görsel: Gazete Antalya", "tipografik"
-    v["gorsel_secim"] = {"tur": "tipografik", "gorsel_url": web, "konu_imza": kimza, "durum": "onaylandi", "hat": "t1",
+    v["gorsel_secim"] = {"tur": "tipografik", "gorsel_url": web, "konu_imza": kimza, "durum": "onaylandi", "hat": TAMAMLA_SURUM,
                          "gerekce": neden, "aciklama": "", "kural_denetim": gh.KABUL_KURALI, "surum": gs.KURAL_SURUMU,
                          "onceki_durum": {x: eski.get(x) for x in ("tur", "durum", "kapak_nedeni") if eski.get(x)}}
     v["gorsel_yerlesim"] = _tipo_yerlesim(web)
     v.pop("gorsel_konum", None)
 
 
+def _arsiv_id(v):
+    s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+    return (s.get("onay") or {}).get("arsiv_id") if _arsivden(v) or s.get("hat") in ("t1", "t2") and s.get("tur") == "arsiv" else None
+
+
 def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
-    """Otomatik haberlerin görselini tamamlar. Elle seçilmiş görsellere dokunulmaz; onaylı fotoğraf korunur.
-    Dönüş: {'arsiv': n, 'tipografik': n, 'yedek': n, 'korundu': n}."""
+    """Otomatik haberlerin görselini tamamlar. Elle seçilmiş görsellere dokunulmaz; görsel hattının onayladığı fotoğraf korunur.
+    Arşivden verilmiş ve tipografik görseller her turda güncel arşiv ve kurallarla yeniden değerlendirilir: daha uygun kayıt varsa
+    onunla değişir, eşleşme kalmadıysa tipografik görsele döner. Dönüş: sayılar."""
     tum = dosyalar or sorted(os.listdir(gs.HABER_KLASOR), reverse=True)
     sira = [a for a in oncelikli if a in tum] + [a for a in tum if a not in oncelikli]
-    say = {"arsiv": 0, "tipografik": 0, "yedek": 0, "korundu": 0, "arsive_gecti": 0}
+    say = {"arsiv": 0, "tipografik": 0, "yedek": 0, "korundu": 0, "arsive_gecti": 0, "degisti": 0, "ayni": 0}
+    # son haberlerde hangi arşiv görseli kaç kez kullanıldı (aynı konunun seçenekleri arasında en az kullanılan seçilir)
+    kullanim = {}
+    for ad in sorted(os.listdir(gs.HABER_KLASOR), reverse=True)[:60]:
+        try:
+            v0, _ = gs.md_oku(os.path.join(gs.HABER_KLASOR, ad))
+            a0 = _arsiv_id(v0)
+            if a0:
+                kullanim[a0] = kullanim.get(a0, 0) + 1
+        except Exception:
+            pass
     for ad in sira[:sinir]:
         yol = os.path.join(gs.HABER_KLASOR, ad)
         try:
@@ -367,21 +550,34 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
             if _foto_var(v):
                 say["korundu"] += 1
             else:
-                k, neden = esle(v, govde)
-                if k and s.get("tur") == "arsiv" and (s.get("onay") or {}).get("arsiv_id") == k.get("id"):
-                    pass                                   # aynı arşiv kaydı zaten uygulanmış
+                mevcut = _arsiv_id(v)
+                k, neden, esdeger = esle(v, govde, kullanim, ad)
+                if k and mevcut and mevcut in [x.get("id") for x in esdeger] and s.get("hat") == TAMAMLA_SURUM:
+                    say["ayni"] += 1                       # aynı konunun görseli zaten uygulanmış: değiştirilmez
                 else:
-                    uygulandi = False
-                    if k:
+                    uygulandi, haric = False, set()
+                    onceki_tur = s.get("tur")
+                    yedek_v = {x: v.get(x) for x in ("gorsel", "gorsel_kredi", "gorsel_tur", "gorsel_secim", "gorsel_yerlesim")}
+                    for _ in range(4):                     # kayıt bu alanlara yerleşmiyorsa ya da indirilemiyorsa sıradaki aday denenir
+                        if not k:
+                            break
+                        if _arsivden(v):
+                            v["gorsel"] = ""               # arşiv görseli yeniden değerlendiriliyor
                         try:
                             uygulandi = arsiv_uygula(v, k, kimza, neden)
                         except Exception as e:             # logo indirilemedi vb.: haber görselsiz kalmaz
                             print("   Arşiv görseli uygulanamadı:", ad, k.get("id"), e)
-                            neden = f"arşiv kaydı '{k.get('id')}' uygulanamadı"
-                        if not uygulandi and not neden.startswith("arşiv kaydı '"):
-                            neden = f"arşiv kaydı '{k.get('id')}' bu alanlara yerleşmiyor"
+                        if uygulandi:
+                            break
+                        v.update({x: y for x, y in yedek_v.items() if y is not None})
+                        haric |= {x.get("id") for x in esdeger}
+                        neden_ = f"arşiv kaydı '{k.get('id')}' uygulanamadı"
+                        k, neden, esdeger = esle(v, govde, kullanim, ad, haric)
+                        if not k:
+                            neden = neden_
                     if uygulandi:
-                        say["arsiv" if s.get("tur") != "tipografik" else "arsive_gecti"] += 1
+                        kullanim[k.get("id")] = kullanim.get(k.get("id"), 0) + 1
+                        say["arsive_gecti" if onceki_tur == "tipografik" else "degisti" if mevcut else "arsiv"] += 1
                         degisti = True
                     elif v.get("gorsel") != web:
                         tipo_uygula(v, web, kimza, "Uygun doğrulanmış fotoğraf ya da logo yok (" + neden + "); bize ait tipografik haber görseli.")
@@ -391,6 +587,7 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
                 gs.md_yaz(yol, v, govde)
         except Exception as e:
             print("Görsel tamamlanamadı:", ad, e)
-    print(f"Görsel tamamlama ({TAMAMLA_SURUM}): arşivden {say['arsiv']} (+{say['arsive_gecti']} tipografikten arşive), tipografik "
-          f"{say['tipografik']}, yedek üretilen {say['yedek']}, kendi fotoğrafı korunan {say['korundu']}")
+    print(f"Görsel tamamlama ({TAMAMLA_SURUM}): arşivden {say['arsiv']} (+{say['arsive_gecti']} tipografikten arşive, {say['degisti']} daha uygun "
+          f"kayıtla değişti, {say['ayni']} aynı kaldı), tipografik {say['tipografik']}, yedek üretilen {say['yedek']}, kendi fotoğrafı "
+          f"korunan {say['korundu']}")
     return say

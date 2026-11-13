@@ -24,6 +24,7 @@ import requests
 import yaml
 
 import gorsel_sec as gs
+import metin_onar as mo
 
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR = timezone(timedelta(hours=3))
@@ -32,6 +33,7 @@ HABER_KLASOR = os.path.join(KOK, "content", "haber")
 DURUM_DOSYA = os.path.join(KOK, "data", "otomatik_durum.json")
 ARSIV_DOSYA = os.path.join(KOK, "data", "foto_arsivi.json")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+YZ_ISTEK = {"n": 0}       # bu turda yapılan başarılı yazım istekleri (onarım ve yeniden istek dahil)
 GUNLUK_KOTA = {"bitti": False}   # Gemini günlük kotası (429 PerDay) dolduysa bu turda yeni istek denenmez
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip()
 
@@ -301,6 +303,7 @@ Kurallar:
 - Kaynak metindeki cümleleri kopyalama; aynı bilgileri kendi cümlelerinle, akıcı ve tarafsız haber diliyle anlat.
 - Kaynakta olmayan hiçbir bilgi, isim, rakam, tarih veya yorum ekleme. Emin olmadığın şeyi yazma.
 - Kişi adlarını kaynakta nasıl geçiyorsa öyle yaz; suç haberlerinde şüphelileri kaynakta baş harfleriyle verilmişse öyle bırak.
+- Türkçe karakterleri (ç, ğ, ı, İ, ö, ş, ü) eksiksiz kullan; kaynak metin büyük harfli ya da işaretsiz olsa bile metni ASCII'ye çevirme.
 - Başlık en fazla 90 karakter, dikkat çekici ama abartısız olsun (tamamı büyük harf, ünlem ve tık tuzağı yok).
 - Spot 1-2 cümle olsun.
 - Metin 3-6 paragraf, toplam 150-350 kelime olsun. Paragrafları boş satırla ayır. Başlık/alt başlık, madde işareti kullanma.
@@ -309,11 +312,14 @@ Kurallar:
 
 Yalnızca şu biçimde JSON döndür:
 {"uygun": true, "baslik": "...", "spot": "...", "metin": "...", "kategori": "<KATEGORILER>", "ilce": "<ILCELER veya boş>", "onem": 3,
- "gorsel_konu": <GORSEL_KONU>}
+ "gorsel_sinif": "<GORSEL_SINIF>", "gorsel_konu": <GORSEL_KONU>}
 
 "onem": Haberin Antalya okuru için önemi, 1-5 tam sayı. 5: il genelini etkileyen çok önemli gelişme (can kaybı çok olan kaza/afet,
 il çapında karar, Antalya'da yapılan büyük ulusal/uluslararası olay). 4: önemli il/ilçe gündemi (büyük yatırım, önemli karar, takımın
 kritik maçı). 3: olağan haber. 2: küçük yerel haber, duyuru. 1: magazin, tanıtım, rutin etkinlik.
+
+"gorsel_sinif": Haberin ANA konusunu en iyi anlatan TEK etiket; aşağıdaki listeden aynen seç. Haberin ana konusu listedekilerden hiçbiri
+değilse boş bırak (""); yan ayrıntıya göre seçme (ör. bir açıklamada yalnızca adı geçen konu). Liste: <GORSEL_SINIF_LISTE>
 
 "gorsel_konu": Görsel seçimi için yazdığın haberin konusunun ayrıştırması.
 <GORSEL_KURAL>
@@ -321,11 +327,47 @@ kritik maçı). 3: olağan haber. 2: küçük yerel haber, duyuru. 1: magazin, t
 
 
 def yz_yaz(h, kaynak_metin):
+    """Haberi yazdırır. Yanıt Türkçe karaktersiz (ASCII) gelirse bir kez uyarıyla yeniden istenir; yine öyleyse yalnızca harf
+    işaretleri onarılır (kelimeler değişmeden, özel adlar kaynak metinle doğrulanarak). Onarılamazsa haber bu turda yayımlanmaz."""
     talimat = YZ_TALIMAT.replace("<KATEGORILER>", " | ".join(KATEGORILER)).replace("<ILCELER veya boş>", " | ".join(ILCE_ESLER) + " | (boş)")
     talimat = talimat.replace("<GORSEL_KONU>", gs.KONU_ALANLARI).replace("<GORSEL_KURAL>", gs.KONU_KURALLARI)
+    try:
+        import gorsel_tamamla
+        etiketler = gorsel_tamamla.konu_etiketleri()
+    except Exception:
+        etiketler = []
+    talimat = talimat.replace("<GORSEL_SINIF_LISTE>", ", ".join(etiketler) or "(liste yok; boş bırak)").replace("<GORSEL_SINIF>", "etiket ya da boş")
+    metin = f"{talimat}\n\nKAYNAK BAŞLIK: {h['baslik']}\nKAYNAK: {h['kaynak']}\n\nKAYNAK METİN:\n{kaynak_metin}"
+    yz = gemini_json(metin, 0.4, 3072)
+    kaynak_tr = mo.tr_orani(kaynak_metin) > 0.02
+    if yz.get("uygun", True) and yz.get("metin") and kaynak_tr and mo.ascii_turkce(mo.yz_metni(yz)):
+        print("   Yanıt Türkçe karaktersiz geldi; uyarıyla yeniden isteniyor.")
+        yz2 = gemini_json(metin + "\n\nUYARI: Önceki yanıtın Türkçe karakterleri (ç, ğ, ı, İ, ö, ş, ü) içermiyordu. Metni doğru Türkçe "
+                          "yazımıyla yaz.", 0.3, 3072)
+        if yz2.get("metin") and not mo.ascii_turkce(mo.yz_metni(yz2)):
+            return yz2
+        onarilan, neden = turkce_onar(yz, kaynak_metin)
+        if not onarilan:
+            raise RuntimeError(f"metin Türkçe karaktersiz ve onarılamadı ({neden})")
+        yz.update(onarilan)
+        yz["turkce_onarim"] = neden or "harf işaretleri onarıldı"
+    return yz
+
+
+def turkce_onar(yz, kaynak_metin):
+    """Türkçe karaktersiz başlık/spot/metni onarır. Dönüş: ({baslik, spot, metin}, not) ya da (None, neden)."""
+    eski = {"baslik": yz.get("baslik", ""), "spot": yz.get("spot", ""), "metin": yz.get("metin", "")}
+    try:
+        yanit = gemini_json(mo.onar_istegi(eski["baslik"], eski["spot"], eski["metin"], kaynak_metin), 0.0, 3072)
+    except Exception as e:
+        return None, f"onarım isteği yapılamadı: {e}"
+    return mo.yaniti_dogrula(eski, yanit, kaynak_metin)
+
+
+def gemini_json(metin, sicaklik, en_fazla):
     istek = {
-        "contents": [{"role": "user", "parts": [{"text": f"{talimat}\n\nKAYNAK BAŞLIK: {h['baslik']}\nKAYNAK: {h['kaynak']}\n\nKAYNAK METİN:\n{kaynak_metin}"}]}],
-        "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json", "maxOutputTokens": 3072},
+        "contents": [{"role": "user", "parts": [{"text": metin}]}],
+        "generationConfig": {"temperature": sicaklik, "responseMimeType": "application/json", "maxOutputTokens": en_fazla},
     }
     if GUNLUK_KOTA["bitti"]:
         raise RuntimeError("Gemini günlük kotası dolu")
@@ -347,6 +389,7 @@ def yz_yaz(h, kaynak_metin):
         parcalar = r.json()["candidates"][0]["content"]["parts"]
         metin = "".join(p.get("text", "") for p in parcalar).strip()
         metin = re.sub(r"^```(?:json)?|```$", "", metin).strip()
+        YZ_ISTEK["n"] += 1
         return json.loads(metin)
     raise RuntimeError("Kota nedeniyle yazılamadı")
 
@@ -395,12 +438,16 @@ def _kelime_duzelt(k, ilk):
     return on + yeni + ayrac + _tr_kucuk(ek) + son
 
 
-def baslik_duzelt(baslik):
+def baslik_duzelt(baslik, referans=""):
     """'ALANYA'DA MUTFAK TÜPÜNE ZAM: FİYAT 1.855 TL'YE YÜKSELDİ' → 'Alanya'da Mutfak Tüpüne Zam: Fiyat 1.855 TL'ye Yükseldi'.
-    Yalnızca harflerinin çoğu büyük olan başlıklar değiştirilir; kısaltmalar (TL, CHP, COP31…) korunur."""
+    Yalnızca harflerinin çoğu büyük olan başlıklar değiştirilir; kısaltmalar (TL, CHP, COP31…) korunur. Büyük harfli başlık Türkçe
+    karaktersiz geldiyse ("AILE") kelimeler önce referans metindeki (spot + haber metni) yazımlarıyla eşlenir: büyük I'nın küçüğü
+    tahminle ı yapılmaz ("Aıle" değil "Aile")."""
     harf = [c for c in baslik if c.isalpha()]
     if len(harf) < 8 or sum(c.isupper() for c in harf) / len(harf) < 0.8:
         return baslik
+    if referans:
+        baslik = mo.kaynakla_onar(baslik, referans)
     kelimeler = baslik.split(" ")
     return " ".join(_kelime_duzelt(k, i == 0 or kelimeler[i - 1].endswith((":", "!", "?", "."))) for i, k in enumerate(kelimeler))
 
@@ -448,8 +495,9 @@ def gecmis_haberleri_duzelt(bag):
             if et:
                 v["etiketler"] = et
                 degisti = True
-        yeni = baslik_duzelt(v.get("title", ""))
-        if yeni != v.get("title", ""):
+        kaynak_baslik = v.get("title", "") if v.get("metin_onarim") else (v.get("baslik_ozgun") or v.get("title", ""))
+        yeni = mo.baslik_esle(baslik_duzelt(kaynak_baslik, referans=f"{v.get('ozet', '')} {govde}"), f"{v.get('ozet', '')} {govde}")
+        if yeni != v.get("title", "") and mo.katla(yeni) == mo.katla(v.get("title", "")):
             v.setdefault("baslik_ozgun", v["title"])
             v["title"] = yeni
             degisti = True
@@ -460,9 +508,63 @@ def gecmis_haberleri_duzelt(bag):
         print(f"Başlığı/etiketi düzeltilen eski haber: {duzeltilen}")
 
 
+def eski_metinleri_onar(durum, sinir=8):
+    """Türkçe karaktersiz yayımlanmış otomatik haberleri onarır: kaynak sayfa yeniden okunur, yalnızca harf işaretleri düzeltilir
+    (her kelimenin işaretsiz biçimi aynı kalır; özel adlar kaynak metinde aynı yazımla geçmiyorsa değiştirilmez). Adres (URL), tarih ve
+    içerik değişmez; başlık değişince tipografik görsel görsel tamamlama adımında yeniden üretilir. Başarısız deneme 24 saat bekler."""
+    if not GEMINI_KEY or GUNLUK_KOTA["bitti"] or sinir <= 0:
+        return 0
+    kayit = durum.setdefault("metin_onarim", {})
+    simdi = datetime.now(TR)
+    onarilan = 0
+    for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
+        if onarilan >= sinir or GUNLUK_KOTA["bitti"]:
+            break
+        yol = os.path.join(HABER_KLASOR, ad)
+        try:
+            v, govde = gs.md_oku(yol)
+        except Exception:
+            continue
+        tum = f"{v.get('title', '')} {v.get('ozet', '')} {govde}"
+        # bütün metin ya da yalnızca başlık Türkçe karaktersiz (başlıkta en az iki işaretsiz kelime metinde işaretli geçiyorsa da)
+        if not v.get("otomatik") or v.get("metin_onarim") or not (mo.ascii_turkce(f"{v.get('ozet', '')} {govde}") or mo.ascii_turkce(v.get("title", ""), en_az=15)
+                                                                  and mo.tr_orani(f"{v.get('ozet', '')} {govde}") < 0.04
+                                                                  or mo.baslik_esle(v.get("title", ""), tum) != v.get("title", "")):
+            continue
+        k = kayit.get(ad) or {}
+        try:
+            if k.get("tarih") and datetime.fromisoformat(k["tarih"]) > simdi - timedelta(hours=24):
+                continue
+        except Exception:
+            pass
+        kaynak_metin, _ = sayfa_oku(v.get("kaynak_url") or "")
+        if mo.tr_orani(kaynak_metin) < 0.02:
+            kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": "kaynak metin okunamadı ya da Türkçe karaktersiz"}
+            continue
+        eski = {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "metin": govde.strip()}
+        onar, neden = turkce_onar(eski, kaynak_metin)
+        if not onar:
+            kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": f"onarılamadı: {neden}"[:200]}
+            print(f"Türkçe karakter onarılamadı: {ad} ({neden})")
+            continue
+        v["baslik_onceki"] = v.get("title", "")
+        v["title"] = baslik_duzelt(onar["baslik"] or v["title"], referans=f"{onar['spot']} {onar['metin']}")
+        v["ozet"] = onar["spot"] or v.get("ozet", "")
+        v["metin_onarim"] = {"tarih": simdi.isoformat(timespec="seconds"), "kaynak": v.get("kaynak_url", ""),
+                             "yontem": "yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı",
+                             "not": neden}
+        gs.md_yaz(yol, v, onar["metin"] + "\n")
+        kayit[ad] = {"tarih": simdi.isoformat(timespec="seconds"), "sonuc": "onarıldı"}
+        onarilan += 1
+        print(f"Türkçe karakter onarıldı: {ad} → {v['title'][:70]}")
+    return onarilan
+
+
 def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
     tarih = datetime.fromtimestamp(h["ts"], TR)
-    baslik = baslik_duzelt(re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip())
+    baslik = baslik_duzelt(re.sub(r"\s+", " ", (yz or {}).get("baslik") or h["baslik"]).strip(),
+                           referans=f"{(yz or {}).get('spot', '')} {(yz or {}).get('metin', '')}")
+    baslik = mo.baslik_esle(baslik, f"{(yz or {}).get('spot', '')} {(yz or {}).get('metin', '')}")
     dosya = f"{tarih:%Y%m%d}-{slug(baslik, 60)}-{hashlib.md5(h['link'].encode()).hexdigest()[:5]}.md"
     on = {
         "title": baslik,
@@ -473,6 +575,7 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
         "kategoriler": [(yz or {}).get("kategori") if (yz or {}).get("kategori") in KATEGORILER else h["kategori"]],
         "ilceler": [x for x in [(yz or {}).get("ilce") if (yz or {}).get("ilce") in ILCE_ESLER else h["ilce"]] if x],
         "etiketler": list(etiketler or []),
+        "gorsel_sinif": re.sub(r"[^a-z0-9]", "", str((yz or {}).get("gorsel_sinif") or "").lower())[:30],
         "onem": max(1, min(5, int((yz or {}).get("onem") or 3))) if str((yz or {}).get("onem") or "3").strip().isdigit() else 3,
         "manset": False,
         "son_dakika": False,
@@ -645,8 +748,11 @@ def main():
         yz = None
         if yz_acik and durum["yz_bugun"] < yz_limit and len(metin) > 400:
             try:
-                yz = yz_yaz(h, metin)
-                durum["yz_bugun"] += 1
+                once = YZ_ISTEK["n"]
+                try:
+                    yz = yz_yaz(h, metin)
+                finally:
+                    durum["yz_bugun"] += max(1, YZ_ISTEK["n"] - once)
                 if not yz.get("uygun", True) or not yz.get("metin"):
                     print("   Yapay zekâ uygun bulmadı, atlandı.")
                     gorulen.append({"link": h["link"], "baslik": h["baslik"], "ts": simdi})
@@ -714,6 +820,15 @@ def main():
         yazilan += 1
 
     duzenle_eskiler()
+    if yz_acik and durum["yz_bugun"] < yz_limit - 20:
+        try:
+            once = YZ_ISTEK["n"]
+            n_onar = eski_metinleri_onar(durum, int(ayar.get("metin_onarim_tur", 8)))
+            durum["yz_bugun"] += YZ_ISTEK["n"] - once
+            if n_onar:
+                print(f"Türkçe karakteri onarılan haber: {n_onar}")
+        except Exception as e:
+            print("Türkçe karakter onarımı yapılamadı:", e)
     try:
         gecmis_haberleri_duzelt(bag)
     except Exception as e:
