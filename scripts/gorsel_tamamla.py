@@ -51,7 +51,7 @@ LOGO = os.path.join(KOK, "static", "images", "logo-beyaz.png")
 UA = {"User-Agent": "GazeteAntalyaBot/1.0 (https://www.gazeteantalyam.com/iletisim/)"}
 HASSAS_RE = re.compile(r"kaza(?!n)|çarpış|carpis|devril|yaral|öldü|ölü bul|hayatını kaybet|hayatini kaybet|cinayet|bıçak|bicak|silah|tabanca|"
                        r"gözaltı|gozalti|tutuklan|istismar|taciz|intihar|boğul|bogul|yangın|yangin|dolandırıc|dolandiric|uyuşturucu|"
-                       r"uyusturucu|operasyon|şüpheli|supheli|darp|kavga|cenaze|ceset|cesed|saldır|saldir|su altında|taşkın|sel felaket|selde|hortum")
+                       r"uyusturucu|operasyon|şüpheli|supheli|darp|kavga|cenaze|ceset|cesed|saldır|saldir|su altında|taşkın(?! koruma| önlem)|sel felaket|selde|hortum")
 _TR = str.maketrans("çğıöşüâîûÇĞİÖŞÜÂÎÛ", "cgiosuaiuCGIOSUAIU")
 
 
@@ -291,11 +291,8 @@ def adaylar_bul(v, govde="", dosya="", haric=()):
         if any(_gecer(y, metin) for y in k.get("yasak") or []):
             continue
         puan = _puan(k, b, s, g)
-        if etiket and k.get("sinif") == "konu" and k.get("konu"):
-            if etiket == k["konu"]:
-                puan = max(puan, 3)       # haberi yazan yapay zekânın seçtiği konu etiketi: başlık eşleşmesi değerinde
-            elif puan:
-                puan = min(puan, 3) - 1.2  # başka konunun kaydı yalnızca kelimeyle eşleşti: etiketin önüne geçemez
+        if etiket and k.get("sinif") == "konu" and etiket == k.get("konu"):
+            puan = max(puan, 3)           # haberi yazan yapay zekânın seçtiği konu etiketi: başlık eşleşmesi değerinde
         esik = 3 if kategori in (k.get("baslik_kategoriler") or []) else _esik(k)
         if puan < esik:
             continue
@@ -313,6 +310,11 @@ def adaylar_bul(v, govde="", dosya="", haric=()):
             puan -= 0.5
         onc = float(k.get("oncelik", 2 if k.get("sinif") == "kisi" else 6)) - (0.3 if k.get("ilce") and k.get("ilce") == ilce else 0)
         out.append((puan, onc, k))
+    if etiket and any(k.get("konu") == etiket for _, _, k in out):
+        # etiketin konusu habere uygun bulunduysa başka konuların başlıkta geçmeyen (yalnızca spot/girişte) kayıtları öne geçemez
+        out = [(p - 1.2 if (p < 3 and k.get("sinif") == "konu" and k.get("konu") and k.get("konu") != etiket) else p, o, k) for p, o, k in out]
+        out = [x for x in out if x[0] >= (3 if kategori in (x[2].get("baslik_kategoriler") or []) else _esik(x[2]))]
+        out = [(p, o - 1 if k.get("konu") == etiket else o, k) for p, o, k in out]     # eşit puanda etiketin konusu önce
     out.sort(key=lambda x: (-x[0], x[1]))
     return out
 
@@ -574,6 +576,29 @@ def _arsiv_id(v):
     return (s.get("onay") or {}).get("arsiv_id") if _arsivden(v) or s.get("hat") in ("t1", "t2") and s.get("tur") == "arsiv" else None
 
 
+def _alternatifler(v, esdeger, govde="", dosya=""):
+    """Ana sayfada aynı kare başka haberde kullanılmışsa kartta gösterilecek öteki doğrulanmış kareler: önce aynı konunun öteki
+    kareleri, sonra habere eşleşme kurallarıyla (eşik, hassas haber, ilçe, yasak) uyan öteki kayıtlar; kişi portresi ve logo
+    alternatif olmaz. Yalnızca kart alanına yerleşebilenler. Haberin detay sayfası ve atfı ana görselle aynı kalır."""
+    gk, out = _gk(v), []
+    try:
+        diger = [k for p, o, k in adaylar_bul(v, govde, dosya) if k.get("sinif") not in ("kisi", "logo") and k not in (esdeger or [])]
+    except Exception:
+        diger = []
+    for k in list(esdeger or []) + diger:
+        if k.get("sahne") == "logo" or not k.get("url") or k.get("_gk") == gk or k["url"] in out:
+            continue
+        try:
+            y = _arsiv_yerlesim(k)
+        except Exception:
+            y = None
+        if y and y.get("kart"):
+            out.append(k["url"])
+        if len(out) >= 4:
+            break
+    return out
+
+
 def _gk(v):
     g = v.get("gorsel") or ""
     return gh.gorsel_kimligi(g) if g else ""
@@ -639,6 +664,7 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
                         pass
             s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
             kimza = s.get("konu_imza") or gs.konu_imzasi(v.get("title"), v.get("ozet"), (v.get("kategoriler") or ["Gündem"])[0])
+            esdeger = []
             if _foto_var(v):
                 say["korundu"] += 1
             else:
@@ -680,6 +706,13 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
                         tipo_uygula(v, web, kimza, "Uygun doğrulanmış fotoğraf ya da logo yok (" + neden + "); bize ait tipografik haber görseli.")
                         say["tipografik"] += 1
                         degisti = True
+            alt = _alternatifler(v, esdeger, govde, ad) if (not _foto_var(v) and _arsiv_id(v) and (v.get("gorsel_yerlesim") or {}).get("kart")) else []
+            if alt != (v.get("gorsel_alternatif") or []):
+                if alt:
+                    v["gorsel_alternatif"] = alt
+                else:
+                    v.pop("gorsel_alternatif", None)
+                degisti = True
             bilgi[ad]["gk"], bilgi[ad]["aid"] = _gk(v), _arsiv_id(v)
             if degisti:
                 gs.md_yaz(yol, v, govde)
