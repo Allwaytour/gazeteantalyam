@@ -12,8 +12,10 @@ permissions:
   pages: write
   id-token: write
 
+# Panelden kaydedilen haberlerin yayını, süren haber toplama turunu beklemesin (ayrı sıra). Haber turu, siteyi oluşturmadan hemen
+# önce en güncel hali çeker; panelden kaydedilen haber onun yayınında da bulunur.
 concurrency:
-  group: pages
+  group: ${{ (github.event_name == 'push' && (startsWith(github.event.head_commit.message, 'Yeni haber') || startsWith(github.event.head_commit.message, 'Haber güncellendi') || startsWith(github.event.head_commit.message, 'Haber silindi') || startsWith(github.event.head_commit.message, 'Görsel')) && 'pages-panel') || 'pages' }}
   cancel-in-progress: false
 
 jobs:
@@ -32,15 +34,42 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Panelden (Sveltia CMS) kaydedilen değişiklikler hızlı yayımlanır: haber toplama turu beklenmez.
+      - name: Yayın türü
+        id: tur
+        env:
+          MESAJ: ${{ github.event.head_commit.message }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] && printf '%s' "$MESAJ" | grep -qE '^(Yeni haber|Haber güncellendi|Haber silindi|Görsel yüklendi|Görsel silindi|Create|Update|Delete|Upload|Uploaded)'; then
+            echo "hizli=1" >> "$GITHUB_OUTPUT"; echo "Panelden kayıt: hızlı yayın"
+          else
+            echo "hizli=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Elle eklenen haberleri hazırla (hızlı yayın)
+        if: steps.tur.outputs.hizli == '1'
+        run: |
+          pip install -q pyyaml
+          python scripts/elle_duzelt.py
+          git config user.name "gazete-antalya-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/haber
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Elle eklenen haber: tarih/adres düzeltmesi [skip ci]"
+            for i in 1 2 3; do (git pull -q --rebase origin main && git push -q origin HEAD:main) && break; sleep 5; done
+          fi
+
       - name: Otomatik haberleri hazırla
+        if: steps.tur.outputs.hizli != '1'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: |
-          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright
+          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright zeyrek
           timeout 22m python -u scripts/haber_cek.py || echo "Haber turu süre sınırında durduruldu; kaydedilenler yayınlanacak"
 
       - name: Yeni haberleri kaydet
+        if: steps.tur.outputs.hizli != '1'
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,7 +86,10 @@ jobs:
           fi
 
       - name: Kategori sayfalarını hazırla
-        run: python scripts/terimler.py
+        run: |
+          # bu tur sürerken panelden kaydedilen haberler de yayına girsin
+          git pull -q --rebase origin main 2>/dev/null || git pull -q origin main || true
+          python scripts/terimler.py
 
       - name: Hugo kur
         uses: peaceiris/actions-hugo@v3
