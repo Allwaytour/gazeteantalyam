@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{/* Her haberin görseli nereden geliyor? Doğrulanmış görsel arşivindeki (data/gorsel_arsiv.yml) her kayıt, kaynağı/lisansı ve o görseli
+     kullanan haberler; ayrıca son seçenek olan tipografik görselle kalan haberler. Yalnızca denetim içindir (arama motorlarına kapalı). */}}
+{{ $haberler := where site.RegularPages "Section" "haber" }}
+{{ $kul := dict }}{{ $tipo := slice }}{{ $say := dict "arsiv" 0 "tipografik" 0 "diger" 0 }}
+{{ range $haberler }}{{ $s := .Params.gorsel_secim }}{{ $tur := .Params.gorsel_tur | default "" }}
+  {{ if eq $tur "tipografik" }}{{ $tipo = $tipo | append . }}{{ $say = merge $say (dict "tipografik" (add (index $say "tipografik") 1)) }}
+  {{ else if and (reflect.IsMap $s) (reflect.IsMap $s.onay) $s.onay.arsiv_id }}{{ $id := $s.onay.arsiv_id }}
+    {{ $kul = merge $kul (dict $id ((index $kul $id | default slice) | append .)) }}{{ $say = merge $say (dict "arsiv" (add (index $say "arsiv") 1)) }}
+  {{ else }}{{ $say = merge $say (dict "diger" (add (index $say "diger") 1)) }}{{ end }}
+{{ end }}
+<style>
+.ga{max-width:1240px;margin:0 auto;padding:16px}.ga h1{font-size:26px;margin:8px 0 12px}.ga h2{font-size:19px;margin:28px 0 10px}
+.ga-ozet{background:#fff4e8;padding:12px 14px;border-radius:8px;line-height:1.5}
+.ga-g{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.ga-k{background:#fff;border:1px solid #e3e3e3;border-radius:8px;overflow:hidden;font-size:13px;line-height:1.4}
+.ga-k img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block;background:#eee}.ga-k div{padding:8px 10px}
+.ga-k b{display:block;font-size:14px}.ga-k small{color:#666;display:block;margin:2px 0 6px}.ga-k ul{margin:0;padding-left:16px;max-height:150px;overflow:auto}
+.ga-t{columns:2;font-size:14px;line-height:1.6}@media(max-width:700px){.ga-t{columns:1}}
+</style>
+<section class="ga">
+  <h1>Haber görselleri: arşiv ve kullanım</h1>
+  <p class="ga-ozet">Toplam <b>{{ len $haberler }}</b> haber. Doğrulanmış arşivden görsel alan: <b>{{ index $say "arsiv" }}</b> ·
+  kendi fotoğrafı olan (kaynak/elle/görsel hattı): <b>{{ index $say "diger" }}</b> · son seçenek (tipografik haber görseli): <b>{{ index $say "tipografik" }}</b>.
+  Arşivdeki her görsel tek tek görülerek seçildi; kaynak ve lisans her kartta yazıyor. Yanlış bulduğunuz eşleşmeyi haber başlığıyla bildirin.</p>
+
+  <h2>Tipografik görselle kalan haberler ({{ len $tipo }})</h2>
+  <ul class="ga-t">{{ range first 150 $tipo }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul>
+
+  <h2>Arşiv kayıtları ve kullanıldıkları haberler</h2>
+  <div class="ga-g">
+  {{ $liste := slice }}{{ range $id, $l := $kul }}{{ $liste = $liste | append (dict "id" $id "n" (len $l) "l" $l) }}{{ end }}
+  {{ range sort $liste "n" "desc" }}{{ $ilk := index .l 0 }}{{ $s := $ilk.Params.gorsel_secim }}{{ $g := $ilk.Params.gorsel | default "" }}
+    <div class="ga-k">
+      <img loading="lazy" referrerpolicy="no-referrer" src="{{ partial "gorsel-url.html" (dict "u" ($g | relURL) "w" 500) }}" alt="{{ $s.gosterilen }}">
+      <div><b>{{ $s.gosterilen }} <span style="font-weight:400;color:#888">· {{ .n }} haber</span></b>
+      <small>{{ .id }} · {{ $s.sinif }}{{ with $s.fotografci }} · {{ . }}{{ end }}{{ with $s.lisans }} · {{ . }}{{ end }}{{ with $s.kaynak_sayfa }} · <a href="{{ . }}" rel="nofollow noopener" target="_blank">kaynak</a>{{ end }}</small>
+      <ul>{{ range first 40 .l }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul></div>
+    </div>
+  {{ end }}
+  </div>
+</section>
+{{ end }}
