@@ -210,6 +210,8 @@ def oneri_dogrula(w, o):
         return None
     if _uzaklik(katla(w), katla(o.replace(" ", ""))) > max(2, len(w) // 6):
         return None
+    if len(o.replace(" ", "")) < len(w) - 1:
+        return None                        # ek düşürme (ör. "yaptığını" → "yaptı") yazım düzeltmesi değildir
     return _harf_duzeni(w, kucuk(o)) if not w.isupper() else o.upper()
 
 
