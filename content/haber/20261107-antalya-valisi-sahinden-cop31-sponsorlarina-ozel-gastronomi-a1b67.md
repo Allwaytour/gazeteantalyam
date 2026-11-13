@@ -2,8 +2,8 @@
 title: Antalya Valisi Şahin'den COP31 Sponsorlarına Özel Gastronomi Buluşması
 date: '2026-11-07T15:12:25+03:00'
 ozet: Antalya'da düzenlenen özel etkinlikte, COP31 sürecinde konuklara ikram edilecek yöresel lezzetler tanıtıldı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Fotoğraf: JIP / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+gorsel_kredi: 'Fotoğraf: Basak / Wikimedia Commons (CC0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -16,23 +16,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
   konu_imza: ce93c1418ae8
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Meze_as_a_side_dish.jpg
-  fotografci: JIP
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: yöresel yemekler
-  cekim_yili: '2020'
-  aciklama: Yöresel yemekler (temsilî)
-  gerekce: arşiv kaydı 'kut-f58cec' (yöresel yemekler) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
+  fotografci: Basak
+  lisans: CC0
+  lisans_dayanagi: https://creativecommons.org/publicdomain/zero/1.0/
+  gosterilen: Tahinli Antalya piyazı
+  cekim_yili: '2024'
+  aciklama: Tahinli Antalya piyazı (temsilî)
+  gerekce: arşiv kaydı 'piyaz' (Tahinli Antalya piyazı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-f58cec
-    tarih: '2026-11-13T08:47:00+03:00'
+    arsiv_id: piyaz
+    tarih: '2026-11-13T14:45:41+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -52,8 +52,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-antalya-valisi-sahinden-cop31-sponsorlarina-ozel-gastronomi-a-e12314fb.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 3456
+  - 1920
+  - 1920
   dikey: false
   surum: y3
   manset: kaplama
@@ -62,16 +62,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 50% 50%
-  o_mansetyan_d: 43% 50%
-  o_mansetyan_m: 43% 50%
-  o_yan_d: 50% 84%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 35%
-  o_kart_p: 42% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_manset_d: 50% 80%
+  o_manset_m: 50% 100%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 72%
+  o_yan_t: 50% 100%
+  o_yan_m: 50% 82%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
 gorsel_gecmis: []
 ---
 Antalya'nın ev sahipliğinde yürütülen çalışmalar çerçevesinde, COP31 boyunca Antalya Evi’nde misafirlere sunulacak geleneksel tatların tanıtıldığı bir gastronomi buluşması gerçekleştirildi. Antalya Valisi Hulusi Şahin ve eşi Ebru Şahin'in ev sahipliğinde yapılan programa, projeye destek veren sponsorlar katıldı. Toplantıda, kentin köklü mutfak kültürünü uluslararası platforma taşıyacak menü üzerine ayrıntılı bir sunum yapıldı.

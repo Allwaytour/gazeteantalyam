@@ -2,8 +2,8 @@
 title: AntGİAD heyeti Meclis'te Antalya ve iş dünyasını görüştü
 date: '2026-11-03T16:54:49+03:00'
 ozet: Antalya Genç İş İnsanları Derneği yönetimi, Ankara temasları kapsamında TBMM'de Antalya milletvekilleriyle bir araya geldi.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-gorsel_kredi: 'Arşiv fotoğrafı: Yildiz Yazicioglu (VOA) / Wikimedia Commons (Public domain)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: Yıldız Yazıcıoğlu / Wikimedia Commons (Public domain)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: tesis
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: b9fd123c24b5
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
-  fotografci: Yildiz Yazicioglu (VOA)
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
+  fotografci: Yıldız Yazıcıoğlu
   lisans: Public domain
-  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:Turkish_parliament_after_COVID-19_hiatus.jpg
+  lisans_dayanagi: https://commons.wikimedia.org/wiki/File:TBMM,_August_2022.jpg
   gosterilen: TBMM Genel Kurulu
-  cekim_yili: '2020'
-  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2020)
-  gerekce: arşiv kaydı 'tbmm-2' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
+  cekim_yili: '2022'
+  aciklama: TBMM Genel Kurulu — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'tbmm-1' (TBMM Genel Kurulu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: tbmm-2
-    tarih: '2026-11-13T08:47:25+03:00'
+    arsiv_id: tbmm-1
+    tarih: '2026-11-13T14:46:07+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -161,8 +161,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261103-antgiad-heyeti-mecliste-antalya-ve-is-dunyasini-gorustu-03891-94b8d48d.jpg
 gorsel_yerlesim:
   boyut:
-  - 1280
-  - 720
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -173,11 +173,14 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_yan_d: 50% 100%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  o_kart_p: 50% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara'daki temasları çerçevesinde Türkiye Büyük Millet Meclisi'ni ziyaret etti. Dernek başkanı ve beraberindeki heyet, AK Parti Antalya milletvekilleri Mustafa Köse, İbrahim Ethem Taş, Kemal Çelik ve Atay Uslu ile görüştü.
 

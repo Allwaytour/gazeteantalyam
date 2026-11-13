@@ -14334,13 +14334,48 @@
       "yasak": []
      },
      "t": "2026-11-12T14:58:55+03:00"
+    },
+    "r1:b394c6813661:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol calismasini gosteren genel bir yol fotografi, ancak makine oldukca uzakta.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çalışma makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       394,
+       474,
+       468
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:44:35+03:00"
     }
    },
    "ozet": {
     "dh": "05d217241a2c3633",
     "sha": "e77f22c7da82bc0e4a93eb1e"
    },
-   "t": "2026-11-12T14:58:55+03:00",
+   "t": "2026-11-13T14:44:35+03:00",
    "teknik": {
     "doygunluk": 24.5,
     "inen": [
@@ -14862,6 +14897,103 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1652161413302-9b48a8c0f24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dHJhaWwlMjBydW5uaW5nJTIwcmFjZXxlbnwxfDB8fHwxNzk0MjI3ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1de0c781934020e9": {
+   "icerik": {
+    "ana_kutu": [
+     254,
+     214,
+     888,
+     658
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "asfalt silindiri",
+     "otomobil",
+     "bina",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta asfalt silindiri ve arkada binalar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "asfalt calismasi haberi",
+     "belediye altyapi yatirimlari",
+     "yol yapim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "kaza haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b394c6813661:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asfalt calismasini gosteren uygun bir temsilî gorsel, ancak yabanci tabelalar iceriyor.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çalışma makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       254,
+       214,
+       888,
+       658
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:44:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3e3673777baaf3f0",
+    "sha": "f8353500402d4c1198ee5ade"
+   },
+   "t": "2026-11-13T14:44:35+03:00",
+   "teknik": {
+    "doygunluk": 21.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.199,
+    "keskinlik": 2075,
+    "kontrast": 74,
+    "medyan": 117,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Asphalt_Roller_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg/1280px-Asphalt_Roller_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1e1da42b29910b0b": {
    "icerik": {
@@ -20723,13 +20855,48 @@
       "yasak": []
      },
      "t": "2026-11-12T14:58:55+03:00"
+    },
+    "r1:b394c6813661:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asfalt calismasini dogrudan temsil eden uygun bir yol yapim gorseli.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çalışma makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       308,
+       222,
+       679,
+       792
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:44:35+03:00"
     }
    },
    "ozet": {
     "dh": "9c043971d87d1729",
     "sha": "69193a4473262e9b1dc2fca1"
    },
-   "t": "2026-11-12T14:58:55+03:00",
+   "t": "2026-11-13T14:44:35+03:00",
    "teknik": {
     "doygunluk": 13.0,
     "inen": [
@@ -40066,6 +40233,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "50513af5a5dbb634": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     318,
+     725,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "asfalt serme makinesi",
+     "kamyon",
+     "isci",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol yapim calismasi sirasinda is makinesi ve isciler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "asfalt calismasi haberi",
+     "belediye altyapi yatirimlari",
+     "yol yapim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "kaza haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b394c6813661:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asfalt calismasi yapan isciler ve makineler net olarak goruluyor, temsilî olarak uygun.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çalışma makinesi",
+        "var": true
+       },
+       {
+        "unsur": "yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       318,
+       725,
+       730
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:44:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "40404c5231b983e3",
+    "sha": "ff87407a38299db55dcdca5a"
+   },
+   "t": "2026-11-13T14:44:35+03:00",
+   "teknik": {
+    "doygunluk": 25.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.096,
+    "keskinlik": 1604,
+    "kontrast": 48,
+    "medyan": 141,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Asphalt_Paver_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg/1280px-Asphalt_Paver_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "50872eb9a041ead1": {
    "icerik": {
@@ -124065,6 +124329,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T12:40:03+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/1280px-Turkish_nature_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "27e96983c05e64d1": {
+   "alt_tur": "nesne",
+   "boyut": [
+    9248,
+    6936
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Yol yapım çalışması yapan yeşil asfalt makinesi ve işçiler",
+   "gosterim_ad": "asfalt çalışması",
+   "ilk_kabul": "2026-11-13T14:44:35+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Tom Shamberger / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Tom Shamberger",
+    "sayfa": "https://unsplash.com/photos/a-couple-of-men-standing-on-the-side-of-a-road-4DmYfVEpOXo"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "asfalt makinesi",
+    "asfalt çalışma makinesi",
+    "işçi",
+    "tarla",
+    "yol"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXNwaGFsdCUyMHBhdmluZyUyMHJvYWQlMjB3b3JrfGVufDF8MHx8fDE3OTQ1NzAyNjh8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "yol yapım haberleri",
+    "belediye çalışmaları",
+    "altyapı"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "ekonomi",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-13T14:44:35+03:00",
+   "url": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXNwaGFsdCUyMHBhdmluZyUyMHJvYWQlMjB3b3JrfGVufDF8MHx8fDE3OTQ1NzAyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",

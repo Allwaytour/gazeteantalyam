@@ -2,8 +2,8 @@
 title: Antalya'daki DABB toplantısında yerel yönetimler bir araya geldi
 date: '2026-11-01T14:04:00+03:00'
 ozet: Doğu Akdeniz Belediyeler Birliği Ekim Ayı Olağan Meclis Toplantısı Antalya'da yapıldı. Buluşmada bölgesel projeler ve ortak çalışmalar ele alındı.
-gorsel: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Benjamin Child / Unsplash'
+gorsel: https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Mars Plex / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
@@ -22,34 +22,34 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 6d78acfd70ba
-  kaynak_sayfa: https://unsplash.com/photos/GWe0dlVD9e0
-  fotografci: Benjamin Child
+  kaynak_sayfa: https://unsplash.com/photos/Dbl5UilMGIQ
+  fotografci: Mars Plex
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Toplantı salonu
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'toplanti-1' (Toplantı salonu) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'toplanti-3' (Toplantı salonu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: toplanti-1
-    tarih: '2026-11-13T08:47:36+03:00'
+    arsiv_id: toplanti-3
+    tarih: '2026-11-13T14:46:18+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-dabb-toplantisinda-yerel-yonetimler-bir-araya-ge--c77a80eb.jpg
 gorsel_yerlesim:
   boyut:
-  - 5184
-  - 3456
+  - 5726
+  - 3817
   dikey: false
   surum: y3
   manset: kaplama
@@ -67,7 +67,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Doğu Akdeniz Belediyeler Birliği Ekim Ayı Olağan Meclis Toplantısı, üye belediyelerin temsilcilerinin katılımıyla Antalya'da gerçekleştirildi. Gerçekleştirilen oturumda yer alan isimler arasında Sarız Belediye Başkanı Ömer Faruk Eroğlu ile Pınarbaşı Belediye Başkanı Deniz Yağan da bulundu.

@@ -2,8 +2,8 @@
 title: 'Alanya''da uzman isimden zatürre uyarısı: Belirtileri hafife almayın'
 date: '2026-11-13T10:00:00+03:00'
 ozet: Alanya Eğitim ve Araştırma Hastanesi’nden Prof. Dr. Özkan Yetkin, Dünya Pnömoni Günü dolayısıyla yaptığı açıklamada zatürre hastalığına karşı uyarılarda bulundu.
-gorsel: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: zhang shuaizhang / Unsplash'
+gorsel: https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Олег Мороз / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
@@ -19,32 +19,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?fm=jpg&q=80&w=1600&fit=max
   konu_imza: beb706c69543
-  kaynak_sayfa: https://unsplash.com/photos/P65ogppIhUg
-  fotografci: zhang shuaizhang
+  kaynak_sayfa: https://unsplash.com/photos/JnJylmuVofU
+  fotografci: Олег Мороз
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Hastane
+  gosterilen: Aşı
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'hastane-2' (Hastane) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'asi-2' (Aşı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: hastane-2
-    tarih: '2026-11-13T10:07:17+03:00'
+    arsiv_id: asi-2
+    tarih: '2026-11-13T14:45:04+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -55,8 +52,8 @@ kaynak_url: https://www.yenialanya.com/alanyada-uzman-isimden-zaturre-uyarisi-bu
 gorsel_yedek: /images/haber-gorsel/20261113-alanyada-uzman-isimden-zaturre-uyarisi-belirtileri-hafife-al--bb1f86d9.jpg
 gorsel_yerlesim:
   boyut:
-  - 4017
-  - 2678
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -74,7 +71,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1647853042468-a152e59ab9b2?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Akciğer enfeksiyonu sonucu gelişen ve halk arasında zatürre olarak bilinen pnömoni hastalığına karşı uzmanlar uyarılarda bulundu. Alanya Eğitim ve Araştırma Hastanesi’nde görev yapan ve Alanya Alaaddin Keykubat Üniversitesi Tıp Fakültesi Göğüs Hastalıkları Anabilim Dalı Başkanı olan Prof. Dr. Özkan Yetkin, 12 Kasım Dünya Pnömoni Günü kapsamında yaptığı değerlendirmede hastalığın ciddiyetine dikkat çekti. Zatürrenin özellikle beş yaş altındaki çocuklar, altmış beş yaş üzerindekiler, bağışıklığı zayıf olanlar ve kronik rahatsızlığı bulunan bireylerde daha ağır tablolara yol açabildiğini ifade etti.

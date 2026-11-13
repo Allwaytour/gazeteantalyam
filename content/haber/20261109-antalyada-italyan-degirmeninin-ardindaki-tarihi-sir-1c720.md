@@ -2,31 +2,42 @@
 title: Antalya'da İtalyan Değirmeni'nin Ardındaki Tarihi Sır
 date: '2026-11-09T23:14:48+03:00'
 ozet: Serik'teki eski bir değirmenin hikayesi, geçmişte bölgede yürütüldüğü öne sürülen antik eser iddialarını yeniden gündeme getirdi.
-gorsel: /images/haber-gorsel/20261109-antalyada-italyan-degirmeninin-ardindaki-tarihi-sir-1c720-4f067f72.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Eugene Yakovenko / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
 - Serik
 etiketler: []
 onem: 2
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-antalyada-italyan-degirmeninin-ardindaki-tarihi-sir-1c720-4f067f72.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg
   konu_imza: 32245b34c1b4
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg
+  fotografci: Eugene Yakovenko
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Serik
+  cekim_yili: ''
+  aciklama: Serik — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'ilce-serik' (Serik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: ilce-serik
+    tarih: '2026-11-13T14:45:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -37,8 +48,8 @@ kaynak_url: https://www.antalyahurses.com/antalyada-degirmenci-kiligina-giren-ya
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-italyan-degirmeninin-ardindaki-tarihi-sir-1c720-4f067f72.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5472
+  - 3648
   dikey: false
   surum: y3
   manset: kaplama
@@ -47,14 +58,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-antalyada-italyan-degirmeninin-ardindaki-tarihi-sir-1c720-4f067f72.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg
+gorsel_gecmis: []
 ---
 Antalya'nın Serik ilçesine bağlı Bilginler Mahallesi'ndeki Demiroluk Tepesi mevkisinde yer alan eski bir su değirmeni, geçmişine dair anlatılan hikayelerle dikkat çekiyor. Büyük bölümü yıkılmış olan yapı, halk arasında İtalyan Değirmeni olarak biliniyor. Yapının geçmişine ilişkin detaylar, sıradan bir köy değirmeninden çok daha farklı bir amaca işaret ediyor.
 

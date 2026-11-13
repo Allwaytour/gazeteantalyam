@@ -2,8 +2,8 @@
 title: Avrupalı turizm devleri Alanya'da otel markalarıyla yer alacak
 date: '2026-10-31T14:57:40+03:00'
 ozet: Alman tur operatörleri Alltours ve DER Touristik'in Alanya'ya yönelmesi bölge turizminde hareketlilik yaratırken, sektör temsilcileri rekabet ve tanıtım etkilerine dikkat çekti.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: HALUK COMERTEL / Wikimedia Commons (CC BY 3.0)'
 gorsel_v4: true
 kategoriler:
 - Turizm
@@ -21,23 +21,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
   konu_imza: cedff79ffe95
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanyafromcastle.JPG
-  fotografci: Ozgurmulazimoglu
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
-  gosterilen: Alanya'nın turistik merkezi
-  cekim_yili: '2012'
-  aciklama: Alanya, kaleden liman ve sahil — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-alanya' (Alanya'nın turistik merkezi) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
+  fotografci: HALUK COMERTEL
+  lisans: CC BY 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/3.0
+  gosterilen: Alanya kent ve sahil
+  cekim_yili: ''
+  aciklama: Alanya, kaleden kent ve sahil — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'alanya-kent-1' (Alanya kent ve sahil) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-alanya
-    tarih: '2026-11-13T08:47:41+03:00'
+    arsiv_id: alanya-kent-1
+    tarih: '2026-11-13T14:46:25+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -54,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-avrupali-turizm-devleri-alanyada-otel-markalariyla-yer-alaca--6e593316.jpg
 gorsel_yerlesim:
   boyut:
-  - 3264
-  - 2278
+  - 2889
+  - 1627
   dikey: false
   surum: y3
   manset: kaplama
@@ -66,14 +66,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 ---
 Alman turizm şirketleri Alltours ile DER Touristik, kendi otel markalarıyla Alanya'da faaliyet göstermeye hazırlanıyor. Bu gelişmenin bölgenin uluslararası tanıtımına ve turist profilinin çeşitlenmesine katkı sunması beklenirken, yerel işletmeler açısından rekabetin artabileceği ifade ediliyor.
 

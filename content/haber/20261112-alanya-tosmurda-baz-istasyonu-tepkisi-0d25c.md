@@ -2,8 +2,8 @@
 title: Alanya Tosmur'da baz istasyonu tepkisi
 date: '2026-11-12T16:11:00+03:00'
 ozet: Tosmur Mahallesi'nde kaldırıma kurulan baz istasyonu, mahalle sakinleri ve esnafın isyanına neden oldu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
-gorsel_kredi: 'Fotoğraf: BizLawLLC / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/8b/Lattice_cell_tower-3.jpg
+gorsel_kredi: 'Fotoğraf: Wikideas1 / Wikimedia Commons (CC0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Lattice_cell_tower-3.jpg
   konu_imza: 0f371ce400c3
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Road_Paving_Work.jpg
-  fotografci: BizLawLLC
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Yol çalışması
-  cekim_yili: '2022'
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Lattice_cell_tower-3.jpg
+  fotografci: Wikideas1
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  gosterilen: Baz istasyonu
+  cekim_yili: '2023'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'yol-calismasi-1' (Yol çalışması) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'baz-1' (Baz istasyonu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: yol-calismasi-1
-    tarih: '2026-11-13T08:46:32+03:00'
+    arsiv_id: baz-1
+    tarih: '2026-11-13T14:45:06+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -50,8 +50,8 @@ kaynak_url: https://www.gazetealanya.com/alanya-tosmurda-baz-istasyonu-tepkisi-a
 gorsel_yedek: /images/haber-gorsel/20261112-alanya-tosmurda-baz-istasyonu-tepkisi-0d25c-11274f66.jpg
 gorsel_yerlesim:
   boyut:
-  - 6000
   - 4000
+  - 3000
   dikey: false
   surum: y3
   manset: kaplama
@@ -69,7 +69,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Lattice_cell_tower-3.jpg
 gorsel_gecmis: []
 ---
 Alanya'nın Tosmur Mahallesi'nde bulunan Dim Çayı yolu üzerindeki tarihi kemer köprünün yakınlarına özel bir iletişim şirketi tarafından baz istasyonu kuruldu. Kaldırım kenarında yer alan bu yeni yapılaşma, bölgedeki esnaf ile mahalle sakinlerinin sert tepkisiyle karşılaştı.

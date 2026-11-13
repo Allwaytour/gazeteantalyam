@@ -2,29 +2,40 @@
 title: Kemer Belediye Merkez Spor Altyapısıyla Gençleri Geleceğe Hazırlıyor
 date: '2026-11-04T11:20:52+03:00'
 ozet: Kemer Belediyesi'nin desteğiyle faaliyet gösteren Merkez Spor, genç sporcuları profesyonel liglere kazandırmayı sürdürüyor.
-gorsel: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+gorsel_kredi: 'Fotoğraf: Hayden Schiff / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Spor
 ilceler:
 - Kemer
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
   konu_imza: 1edc6884773a
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+  fotografci: Hayden Schiff
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Futbol
+  cekim_yili: '2019'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'futbol-2' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: futbol-2
+    tarih: '2026-11-13T14:46:02+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    kapak_nedeni:
-      kod: aday_bulunamadi
-      aciklama: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi '
-      notlar: 'Konyaaltı Belediyesi sayfası aynı haber değil (benzerlik %18); kaynak görseli kullanılmadı: kaynak için kayıtlı kullanım izni yok; ''Kemer İlçe Stadı'' için kullanım hakkı doğrulanmış fotoğraf bulunamadı; takım haberi: ''Kemer İlçe Stadı'' konumundaki genel spor fotoğrafları kullanılmadı (takımın kendi kaydı gerekir)'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -42,8 +53,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 4000
   dikey: false
   surum: y3
   manset: kaplama
@@ -52,14 +63,17 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261104-kemer-belediye-merkez-spor-altyapisiyla-gencleri-gelecege-ha--1083df2c.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+gorsel_gecmis: []
 ---
 Kemer Belediyesi’nin desteğiyle çalışmalarını yürüten Kemer Belediye Merkez Spor, bünyesindeki 200 genç sporcuyla altyapıya yatırım yapmaya devam ediyor. U10’dan U19’a kadar farklı yaş kategorilerinde ücretsiz futbol eğitimi veren kulüpte, sporcuların forma, krampon, futbol topu, ulaşım ve teknik malzeme gibi tüm gereksinimleri belediye tarafından karşılanıyor. Çocukları sporla buluşturan belediye, düzenlediği motivasyon etkinlikleriyle de gençlerin sosyal gelişimine katkı sağlıyor.
 

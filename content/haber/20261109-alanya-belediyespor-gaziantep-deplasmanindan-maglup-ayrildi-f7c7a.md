@@ -2,8 +2,8 @@
 title: Alanya Belediyespor Gaziantep Deplasmanından Mağlup Ayrıldı
 date: '2026-11-09T00:36:00+03:00'
 ozet: SMS Grup Efeler Ligi'nde mücadele eden ON Hotels Alanya Belediyespor, deplasmanda karşılaştığı Gaziantep Gençlik Spor'a 3-2 mağlup oldu.
-gorsel: https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Bruce Warrington / Unsplash'
+gorsel: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Sotirios T. Kokkinos / Unsplash'
 kategoriler:
 - Spor
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 4a309e2ee1fa
-  kaynak_sayfa: https://unsplash.com/photos/-nB1vV_7A-4
-  fotografci: Bruce Warrington
+  kaynak_sayfa: https://unsplash.com/photos/_qgVM0AEu7Q
+  fotografci: Sotirios T. Kokkinos
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Voleybol
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'voleybol-2' (Voleybol) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'voleybol-1' (Voleybol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: voleybol-2
-    tarih: '2026-11-13T08:46:51+03:00'
+    arsiv_id: voleybol-1
+    tarih: '2026-11-13T14:45:32+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -50,8 +50,8 @@ kaynak_url: https://www.akdenizmanset.com.tr/on-hotels-alanya-belediyespor-gazia
 gorsel_yedek: /images/haber-gorsel/20261109-alanya-belediyespor-gaziantep-deplasmanindan-maglup-ayrildi-f-96e1df33.jpg
 gorsel_yerlesim:
   boyut:
-  - 4896
-  - 3264
+  - 5184
+  - 3888
   dikey: false
   surum: y3
   manset: kaplama
@@ -69,7 +69,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 SMS Grup Efeler Ligi'nin 5'inci haftasında sahaya çıkan ON Hotels Alanya Belediyespor, Gaziantep deplasmanında istediği sonucu alamadı. Şahinbey Spor Salonu'nda oynanan müsabakanın ilk iki setini 25-18 ve 25-23'lük skorlarla kaybeden Antalya temsilcisi, maçtan kopmayarak büyük bir direnç gösterdi.

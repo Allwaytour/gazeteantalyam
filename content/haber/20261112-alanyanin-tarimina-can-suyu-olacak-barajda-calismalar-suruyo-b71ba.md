@@ -2,8 +2,8 @@
 title: Alanya'nın tarımına can suyu olacak barajda çalışmalar sürüyor
 date: '2026-11-12T13:06:00+03:00'
 ozet: Alanya'da inşa edilen Yeniköy Barajı'nın 2027 yılı sonunda tamamlanması planlanıyor. Projeyle binlerce dekar tarım arazisi modern sulamayla buluşacak.
-gorsel: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Erwan Hesry / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/3d/Dim_Dam_02.jpg
+gorsel_kredi: 'Fotoğraf: Ekrem Canli / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -18,28 +18,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/3d/Dim_Dam_02.jpg
   konu_imza: 3edc78e77487
-  kaynak_sayfa: https://unsplash.com/photos/1q75BReKpms
-  fotografci: Erwan Hesry
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Sera
-  cekim_yili: ''
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sera-2' (Sera) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Dim_Dam_02.jpg
+  fotografci: Ekrem Canli
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Dim Barajı
+  cekim_yili: '2016'
+  aciklama: Alanya'daki Dim Barajı — Arşiv fotoğrafı (2016)
+  gerekce: arşiv kaydı 'baraj-alanya-2' (Dim Barajı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sera-2
-    tarih: '2026-11-13T08:46:25+03:00'
+    arsiv_id: baraj-alanya-2
+    tarih: '2026-11-13T14:45:08+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -51,8 +51,8 @@ kaynak_url: https://www.alanyaturk.com/alanya-o-baraj-icin-gun-sayiyor-hedef-202
 gorsel_yedek: /images/haber-gorsel/20261112-alanyanin-tarimina-can-suyu-olacak-barajda-calismalar-suruyo--006a59dd.jpg
 gorsel_yerlesim:
   boyut:
-  - 6024
-  - 4024
+  - 3264
+  - 2448
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,7 +70,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3d/Dim_Dam_02.jpg
 gorsel_gecmis: []
 ---
 Alanya'nın tarımsal sulama altyapısını güçlendirmek amacıyla hayata geçirilen Yeniköy Barajı'nda çalışmalar devam ediyor. Temelden yüksekliği 60,5 metre olarak planlanan tesisin, toplam 8,82 milyon metreküp su depolama kapasitesine sahip olması öngörülüyor. Projenin tüm aşamalarının 2027 yılı sonunda bitirilmesi hedefleniyor.

@@ -2,8 +2,8 @@
 title: Lokman Atasoy'dan COP31 değerlendirmesi
 date: '2026-11-10T21:45:00+03:00'
 ozet: Antalya Büyükşehir Belediyesi Başkan Danışmanı Lokman Atasoy, kentte devam eden COP31 zirvesi kapsamında değerlendirmelerde bulundu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -18,23 +18,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
   konu_imza: 93d895c1db8d
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
+  gosterilen: EXPO 2016 Antalya alanı
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
+  aciklama: COP31'in yapıldığı EXPO 2016 Antalya alanı — Arşiv fotoğrafı (2016)
+  gerekce: arşiv kaydı 'cop31-expo-5' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-13T08:46:38+03:00'
+    arsiv_id: cop31-expo-5
+    tarih: '2026-11-13T14:45:19+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -51,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/lokman-atasoydan-cop31-dege
 gorsel_yedek: /images/haber-gorsel/20261110-lokman-atasoydan-cop31-degerlendirmesi-9e609-227e4bda.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 4608
+  - 2592
   dikey: false
   surum: y3
   manset: kaplama
@@ -61,16 +61,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 gorsel_gecmis: []
 ---
 Antalya'da devam eden COP31 zirvesi çerçevesinde Yeşil Bölge'de bulunan Antalya Büyükşehir Belediyesi Pavilyonu'nda açıklamalarda bulunan Antalya Büyükşehir Belediye Başkan Danışmanı ve Yüksek Çevre Mühendisi Lokman Atasoy, iklim krizinin toplumun yüzleşmesi gereken somut bir gerçek haline geldiğini belirtti. Zirvede rekor düzeyde ziyaretçi beklendiğini ifade eden Atasoy, asıl önemli olanın organizasyon sonrasında kentte ne gibi kalıcı izler bırakılacağı olduğunu vurguladı.

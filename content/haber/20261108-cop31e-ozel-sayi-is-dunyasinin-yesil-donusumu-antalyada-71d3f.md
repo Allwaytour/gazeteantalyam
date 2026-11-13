@@ -2,8 +2,8 @@
 title: 'COP31''e özel sayı: İş dünyasının yeşil dönüşümü Antalya''da'
 date: '2026-11-08T14:43:02+03:00'
 ozet: Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 zirvesinde, iş dünyasının yeşil geleceği ve sürdürülebilirlik çalışmaları özel bir sayıyla ele alındı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nicholas Doherty / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -18,24 +18,24 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
   konu_imza: ca842bcacaad
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
-  fotografci: Hendric Stattmann
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
-  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://unsplash.com/photos/pONBhDyOFoM
+  fotografci: Nicholas Doherty
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Rüzgâr türbinleri
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'ruzgar-1' (Rüzgâr türbinleri) başlık/spot/giriş ile eşleşti (aynı konunun öteki kareleri yakın haberlerde kullanıldığı için haberin ikinci konusu)
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-2
-    tarih: '2026-11-13T08:46:53+03:00'
+    arsiv_id: ruzgar-1
+    tarih: '2026-11-13T14:45:36+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -52,24 +52,26 @@ kaynak_url: https://turkiyedeisdunyasi.com/turkiyede-is-dunyasi-dunyanin-yesil-g
 gorsel_yedek: /images/haber-gorsel/20261108-cop31e-ozel-sayi-is-dunyasinin-yesil-donusumu-antalyada-71d3f-fab5f5ad.jpg
 gorsel_yerlesim:
   boyut:
-  - 2927
-  - 4390
-  dikey: true
+  - 5630
+  - 3648
+  dikey: false
   surum: y3
   manset: kaplama
-  yan: false
+  yan: true
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: true
-  o_manset_d: 50% 63%
-  o_manset_m: 50% 70%
-  o_mansetyan_d: 0% 50%
+  yan_portre: false
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
   o_mansetyan_m: 50% 50%
-  o_yan_t: 50% 73%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  url: https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Türkiye'nin ev sahipliği yaptığı COP31 zirvesi, uluslararası kuruluşları, dünya liderlerini, akademisyenleri ve iş dünyası temsilcilerini Antalya'da bir araya getirdi. Bu kapsamda hazırlanan özel sayı, iklim değişikliğiyle mücadele politikalarını ve iş dünyasının dönüşüm sürecindeki rolünü uluslararası okuyuculara aktarıyor.

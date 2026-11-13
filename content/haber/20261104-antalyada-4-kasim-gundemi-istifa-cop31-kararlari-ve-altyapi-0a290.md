@@ -2,8 +2,8 @@
 title: 'Antalya''da 4 Kasım Gündemi: İstifa, COP31 Kararları ve Altyapı Çağrıları'
 date: '2026-11-04T18:19:20+03:00'
 ozet: Antalya'da Korkuteli Belediye Başkanı Saniye Caran'ın CHP'den istifası, COP31 hazırlıkları kapsamındaki uzaktan eğitim kararları ve kent sorunlarına yönelik çağrılar günün öne çıkan gelişmeleri oldu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,23 +13,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: cfdea0adad4b
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: EXPO 2016 Antalya alanı
   cekim_yili: '2016'
-  aciklama: COP31'in yapıldığı EXPO 2016 Antalya alanı — Arşiv fotoğrafı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-4' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-4
-    tarih: '2026-11-13T08:47:19+03:00'
+    arsiv_id: kut-expo
+    tarih: '2026-11-13T14:45:58+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -46,8 +46,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyayi-sarsan-kararlar-p
 gorsel_yedek: /images/haber-gorsel/20261104-antalyada-4-kasim-gundemi-istifa-cop31-kararlari-ve-altyapi-0-3c297165.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 4608
+  - 2592
   dikey: false
   surum: y3
   manset: kaplama
@@ -56,16 +56,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
   o_yan_m: 50% 50%
-  o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
 ---
 Antalya'da 4 Kasım 2026 tarihinde kenti sarsan çeşitli siyasi ve idari kararlar peş peşe açıklandı. Günün en önemli gelişmelerinden biri, uzun süredir konuşulan transfer iddialarının ardından Korkuteli Belediye Başkanı Saniye Caran'ın Cumhuriyet Halk Partisi'nden istifa ederek görevini bağımsız olarak sürdüreceğini duyurması oldu. Öte yandan Aksu Belediye Başkanı İsa Yıldırım, meclis toplantısında gerçekleştirdiği konuşmada basın mensuplarına yönelik sert eleştirilerde bulundu.

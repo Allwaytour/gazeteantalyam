@@ -2,8 +2,8 @@
 title: 'Antalya turizminde alarm zilleri: Önemli pazarlarda düşüş sinyali'
 date: '2026-11-11T04:55:34+03:00'
 ozet: Antalya Kent Konseyi’nde bir araya gelen turizm sektörü temsilcileri, önemli pazarlardaki gerilemeyi, artan maliyetleri ve hizmet kalitesini masaya yatırdı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: REHBER0770 / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Turizm
 ilceler: []
@@ -18,23 +18,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
   konu_imza: 124d1d131587
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-  fotografci: REHBER0770
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya Kaleiçi ve tarihi liman
-  cekim_yili: '2018'
-  aciklama: Antalya, Kaleiçi ve tarihi liman (2018)
-  gerekce: arşiv kaydı 'antalya-kaleici' (Antalya Kaleiçi ve tarihi liman) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya%2C_Turkey_skyline_19_February_2022.jpg
+  fotografci: Sharon Hahn Darlin
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Antalya kent merkezi ve Beydağları
+  cekim_yili: '2022'
+  aciklama: Antalya kent merkezi — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'antalya-kent-1' (Antalya kent merkezi ve Beydağları) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: antalya-kaleici
-    tarih: '2026-11-13T08:46:28+03:00'
+    arsiv_id: antalya-kent-1
+    tarih: '2026-11-13T14:45:18+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -51,8 +51,8 @@ kaynak_url: https://www.turizmnews.com/antalya-turizminde-alarm-zilleri/41991
 gorsel_yedek: /images/haber-gorsel/20261111-antalya-turizminde-alarm-zilleri-onemli-pazarlarda-dusus-sin--776843fd.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 3456
+  - 2478
+  - 1288
   dikey: false
   surum: y3
   manset: kaplama
@@ -63,14 +63,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 gorsel_gecmis: []
 ---
 Antalya Kent Konseyi'nde Recep Yavuz'un başkanlığında gerçekleştirilen toplantıda, kentin turizm sektöründeki mevcut durum ve geleceğe yönelik riskler ele alındı. Otelciler, tur operatörleri ve havayolu temsilcilerinin katıldığı buluşmada, turist sayısındaki artışın tek başına başarı göstergesi olmadığı vurgulanarak kişi başı gelir ile sektörün kazancının ön planda tutulması gerektiği ifade edildi. Paylaşılan verilere göre, Almanya ve İngiltere pazarında gerileme yaşandığı belirtildi.

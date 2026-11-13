@@ -2,7 +2,7 @@
 title: Turizm Teknolojileri Zirvesi Yenilenen Vizyonuyla Sektörü Buluşturacak
 date: '2026-11-04T12:13:00+03:00'
 ozet: Türkiye Bilişim Derneği Antalya Şubesi tarafından 11'incisi düzenlenecek olan organizasyon, yenilenen kimliği ve genişletilen kapsamıyla turizm ve teknoloji dünyasını bir araya getirecek.
-gorsel: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+gorsel: https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Daniil Komov / Unsplash'
 kategoriler:
 - Turizm
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 99b3f677fa62
-  kaynak_sayfa: https://unsplash.com/photos/r2_uBsnR-dY
+  kaynak_sayfa: https://unsplash.com/photos/SH6hmu0eoas
   fotografci: Daniil Komov
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Yazılım
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'yazilim-2' (Yazılım) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'yazilim-1' (Yazılım) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: yazilim-2
-    tarih: '2026-11-13T08:47:15+03:00'
+    arsiv_id: yazilim-1
+    tarih: '2026-11-13T14:46:02+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -51,8 +51,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-turizm-teknolojileri-zirvesi-yenilenen-vizyonuyla-sektoru-bu--a80bae65.jpg
 gorsel_yerlesim:
   boyut:
-  - 4928
-  - 3280
+  - 6048
+  - 4032
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,7 +70,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Türkiye Bilişim Derneği Antalya Şubesi, geride bıraktığı on yıllık birikimi ve sektörle kurduğu güçlü bağları yeni bir etkinlik kimliğine taşıyor. Yenilenen stratejik vizyon doğrultusunda, turizmin tüm bileşenlerinde dijitalleşmeyi desteklemek ve ulusal ölçekteki iş birliklerini uluslararası etki alanıyla geliştirmek amaçlanıyor.

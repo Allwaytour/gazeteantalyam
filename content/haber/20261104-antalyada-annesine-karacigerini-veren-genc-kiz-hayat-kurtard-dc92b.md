@@ -2,7 +2,7 @@
 title: Antalya'da Annesine Karaciğerini Veren Genç Kız Hayat Kurtardı
 date: '2026-11-04T13:58:25+03:00'
 ozet: Avustralya'dan gelerek siroz hastası annesine karaciğerini bağışlayan Gökçem İlhan, gerçekleştirilen başarılı ameliyatla annesini yeniden hayata bağladı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
+gorsel: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
 gorsel_kredi: 'Fotoğraf: Tyler Frew MD / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Sağlık
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
   konu_imza: 9c3558889dc4
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Breast_surgery_in_operating_room.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
   fotografci: Tyler Frew MD
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Ameliyat
   cekim_yili: '2026'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'ameliyat-2' (Ameliyat) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'ameliyat-1' (Ameliyat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ameliyat-2
-    tarih: '2026-11-13T08:47:19+03:00'
+    arsiv_id: ameliyat-1
+    tarih: '2026-11-13T14:46:01+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -46,8 +46,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/antalyada-yurek-isitan-naki
 gorsel_yedek: /images/haber-gorsel/20261104-antalyada-annesine-karacigerini-veren-genc-kiz-hayat-kurtard--bd2c8edf.jpg
 gorsel_yerlesim:
   boyut:
-  - 6298
-  - 4199
+  - 6929
+  - 4619
   dikey: false
   surum: y3
   manset: kaplama
@@ -65,7 +65,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
 gorsel_gecmis: []
 ---
 Antalya'da yaşamını sürdüren ve yaklaşık beş yıl önce siroz tanısı konulan Hasibe İlhan'ın rahatsızlığı, zamanla ilerleyerek ilaç tedavilerine yanıt vermez hale geldi. Bunun üzerine Antalya Eğitim ve Araştırma Hastanesi Organ Nakli Merkezi'nde tedavi süreci başlatılan iki çocuk annesi İlhan, kadavradan organ beklediği sırada sağlık tablosunun ağırlaşması ve bilinç kaybı yaşaması nedeniyle canlı verici arayışına girildi.

@@ -2,8 +2,8 @@
 title: 'Antalya''da konut mağdurları arttı: Mükerrer satış iddiası'
 date: '2026-11-09T11:18:25+03:00'
 ozet: Antalya'da konut sahibi olma umuduyla müteahhide ödeme yapan ancak evlerini teslim alamayan vatandaşların sayısı her geçen gün artıyor.
-gorsel: /images/haber-gorsel/20261109-antalyada-konut-magdurlari-artti-mukerrer-satis-iddiasi-ef043-0f07298a.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Filip Szalbot / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
@@ -11,23 +11,34 @@ ilceler:
 etiketler:
 - Antalya Cumhuriyet Başsavcılığı
 onem: 3
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261109-antalyada-konut-magdurlari-artti-mukerrer-satis-iddiasi-ef043-0f07298a.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 8bc8e9722742
+  kaynak_sayfa: https://unsplash.com/photos/PxiAc1aElFQ
+  fotografci: Filip Szalbot
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Konut
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'konut-1' (Konut) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: konut-1
+    tarih: '2026-11-13T14:45:30+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -38,8 +49,8 @@ kaynak_url: https://www.iha.com.tr/antalya-haberleri/antalyada-konut-magdurlarin
 gorsel_yedek: /images/haber-gorsel/20261109-antalyada-konut-magdurlari-artti-mukerrer-satis-iddiasi-ef043-0f07298a.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 6000
+  - 3376
   dikey: false
   surum: y3
   manset: kaplama
@@ -48,14 +59,15 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261109-antalyada-konut-magdurlari-artti-mukerrer-satis-iddiasi-ef043-0f07298a.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+gorsel_gecmis: []
 ---
 Antalya'da ev sahibi olmak amacıyla ödeme yaptıkları müteahhidin dairelerini teslim etmediğini öne sürerek daha önce suç duyurusunda bulunan vatandaşlara yenileri eklendi. Başka bir suçtan tutuklu bulunduğu belirtilen şüpheli hakkında yeni mağdurların da şikayetçi olmasıyla birlikte hukuki süreç genişledi.
 

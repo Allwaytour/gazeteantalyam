@@ -2,8 +2,8 @@
 title: 'Kaleiçi''nin Asırlık Eğitim Çınarı: Dumlupınar Ortaokulu'
 date: '2026-11-06T11:53:16+03:00'
 ozet: Antalya Kaleiçi'nde 1905 yılında kurulan, Birinci Dünya Savaşı'nda hastane olarak hizmet veren Dumlupınar Ortaokulu, tarihi atmosferinde eğitime devam ediyor.
-gorsel: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Haseeb Modi / Unsplash'
+gorsel: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Nathan Cima / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -15,28 +15,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 0095b5d1fed3
-  kaynak_sayfa: https://unsplash.com/photos/T921iC2fkJk
-  fotografci: Haseeb Modi
+  kaynak_sayfa: https://unsplash.com/photos/Qw6wa96IvvQ
+  fotografci: Nathan Cima
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sınıf
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sinif-1' (Sınıf) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sinif-2' (Sınıf) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sinif-1
-    tarih: '2026-11-13T08:47:04+03:00'
+    arsiv_id: sinif-2
+    tarih: '2026-11-13T14:45:50+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -48,8 +48,8 @@ kaynak_url: https://www.haberler.com/guncel/antalya-kaleici-nde-1905-te-kurulan-
 gorsel_yedek: /images/haber-gorsel/20261106-kaleicinin-asirlik-egitim-cinari-dumlupinar-ortaokulu-03051-7b878168.jpg
 gorsel_yerlesim:
   boyut:
-  - 7728
-  - 5152
+  - 4032
+  - 3024
   dikey: false
   surum: y3
   manset: kaplama
@@ -67,7 +67,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'nın Muratpaşa ilçesindeki tarihi Kaleiçi semtinde yer alan ve 1905 yılında Rum Kız Mektebi olarak inşa edilen Dumlupınar Ortaokulu, kentin en köklü eğitim kurumları arasında bulunuyor. Kız çocuklarının eğitimi amacıyla kurulan bu tarihi yapı, Birinci Dünya Savaşı sürecinde hastane olarak kullanıldı. Mübadele döneminin ardından farklı isimler ve statülerle eğitim hayatını sürdüren bina, 1929 yılından itibaren Dumlupınar adını aldı. Kaleiçi Kentsel ve 3. Derece Arkeolojik Sit Alanı içinde 1. Grup yapı olarak tescillenen okul, geçmişin izlerini günümüze taşıyor.

@@ -2,8 +2,8 @@
 title: Alanya Kleopatra Plajı'nda Strongman Heyecanı
 date: '2026-10-31T14:44:00+03:00'
 ozet: Dünyanın farklı ülkelerinden sporcuların katıldığı Strongman Şampiyonlar Ligi, Alanya'da renkli görüntülere sahne oldu. Organizasyon kapsamında gerçekleştirilen yayınlarda kentin spor turizmine katkıları ele alındı.
-gorsel: /images/haber-gorsel/20261031-alanya-kleopatra-plajinda-strongman-heyecani-2fb29-6f5387c6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Giorgio Trovato / Unsplash'
 gorsel_v4: true
 kategoriler:
 - Spor
@@ -16,16 +16,30 @@ otomatik: true
 yz: true
 kaynak: Manşet Alanya
 kaynak_url: https://www.mansetalanya.com/kleopatra-plajindan-canli-yayin-manset-alanya-strongman-heyecanini-ekranlara-tasidi
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261031-alanya-kleopatra-plajinda-strongman-heyecani-2fb29-6f5387c6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 59bbff074ab0
+  kaynak_sayfa: https://unsplash.com/photos/_XTY6lD8jgM
+  fotografci: Giorgio Trovato
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: Kupa
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'kupa' (Kupa) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
-  gerekce: Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok); bize ait tipografik haber görseli.
-  aciklama: ''
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kupa
+    tarih: '2026-11-13T14:46:25+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
     tur: tipografik
@@ -40,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-alanya-kleopatra-plajinda-strongman-heyecani-2fb29-6f5387c6.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 5282
+  - 3521
   dikey: false
   surum: y3
   manset: kaplama
@@ -50,14 +64,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261031-alanya-kleopatra-plajinda-strongman-heyecani-2fb29-6f5387c6.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 baslik_onceki: Alanya Kleopatra Plaji'nda Strongman Heyecani
 metin_onarim:
   tarih: '2026-11-13T11:29:41+03:00'

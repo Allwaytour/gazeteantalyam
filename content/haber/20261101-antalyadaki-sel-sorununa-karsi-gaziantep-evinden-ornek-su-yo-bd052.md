@@ -2,8 +2,8 @@
 title: Antalya'daki sel sorununa karşı Gaziantep Evi'nden örnek su yönetimi
 date: '2026-11-01T16:05:00+03:00'
 ozet: Antalya'da yaşanan sel felaketleri sürdürülebilir su yönetimini gündeme getirirken, bakanlık tarafından tahsis edilen Gaziantep Evi Projesi'nde hayata geçirilen yağmur suyu toplama sistemleri örnek bir model oluşturdu.
-gorsel: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Dana Marin (Amsterdamian) / Unsplash'
+gorsel: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Joy Stamp / Unsplash'
 kategoriler:
 - Gündem
 ilceler: []
@@ -12,28 +12,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
   konu_imza: bf908885ded1
-  kaynak_sayfa: https://unsplash.com/photos/O-wN5LK8Q3k
-  fotografci: Dana Marin (Amsterdamian)
+  kaynak_sayfa: https://unsplash.com/photos/pGQbWXBC1dA
+  fotografci: Joy Stamp
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Yağmur
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'yagmur-2' (Yağmur) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'yagmur-3' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: yagmur-2
-    tarih: '2026-11-13T08:47:36+03:00'
+    arsiv_id: yagmur-3
+    tarih: '2026-11-13T14:46:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -81,8 +81,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-sel-sorununa-karsi-gaziantep-evinden-ornek-su-yo--31048f3d.jpg
 gorsel_yerlesim:
   boyut:
-  - 5184
-  - 3888
+  - 4320
+  - 2432
   dikey: false
   surum: y3
   manset: kaplama
@@ -93,14 +93,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da sık aralıklarla meydana gelen sel felaketleri, yağmur sularının yalnızca kriz anlarında tahliye edilmesinin ötesinde, doğru yöntemlerle yönetilip tekrar kazandırılmasının hayati önem taşıdığını bir kez daha gösterdi. Tarım arazilerinin, yerleşim yerlerinin ve ulaşım altyapısının zarar gördüğü kentte, sürdürülebilir su yönetimi uygulamaları üzerine yürütülen tartışmalar hız kazandı.
 

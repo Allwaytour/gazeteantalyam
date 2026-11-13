@@ -2,8 +2,8 @@
 title: Antalya'da 3 avukatın ruhsatı iptal edildi
 date: '2026-11-07T11:12:00+03:00'
 ozet: Türkiye Barolar Birliği tarafından yayımlanan karara göre, Antalya Barosu'na kayıtlı üç kişinin avukatlık ruhsatnameleri iptal edilerek adları levhadan silindi.
-gorsel: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Colin Lloyd / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+gorsel_kredi: 'Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
   konu_imza: f8018a5432c8
-  kaynak_sayfa: https://unsplash.com/photos/_JEiyOfC2y8
-  fotografci: Colin Lloyd
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  fotografci: DP Singh Bhullar
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Adalet
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'adalet-3' (Adalet) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'adalet-1' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: adalet-3
-    tarih: '2026-11-13T08:47:00+03:00'
+    arsiv_id: adalet-1
+    tarih: '2026-11-13T14:45:43+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -53,8 +53,8 @@ gorsel_onceki:
 gorsel_yedek: /images/haber-gorsel/20261107-antalyada-3-avukatin-ruhsati-iptal-edildi-3c199-90183046.jpg
 gorsel_yerlesim:
   boyut:
-  - 6838
-  - 4559
+  - 8192
+  - 5464
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,7 +72,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
 ---
 Türkiye Barolar Birliği Başkanlığı tarafından yayımlanan Resmi Gazete ilanlarıyla, Antalya Barosu'na kayıtlı üç kişinin avukatlık ruhsatnamesinin iptal edildiği duyuruldu. Antalya Barosu Yönetim Kurulu'nun aldığı kararların kesinleştiği belirtilirken, söz konusu kişilerin avukatlık mesleğini icra etme haklarının kaldırıldığı açıklandı.

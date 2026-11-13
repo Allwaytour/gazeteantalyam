@@ -2,8 +2,8 @@
 title: Manavgat'taki TOKİ Projesinde Yeniden İhale Süreci Başladı
 date: '2026-11-13T11:43:33+03:00'
 ozet: Daha önce revizyon gerekçesiyle iptal edilen Manavgat Karaöz Mahallesi'ndeki 401 konutluk TOKİ projesi için yeniden ihale süreci başlatıldı.
-gorsel: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Tierra Mallorca / Unsplash'
+gorsel: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Adesh Bankar / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -17,32 +17,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
   konu_imza: d68df995ea58
-  kaynak_sayfa: https://unsplash.com/photos/rgJ1J8SDEAY
-  fotografci: Tierra Mallorca
+  kaynak_sayfa: https://unsplash.com/photos/YNm1fhRIMa8
+  fotografci: Adesh Bankar
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Konut
+  gosterilen: İnşaat
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'konut-2' (Konut) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'insaat-2' (İnşaat) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: konut-2
-    tarih: '2026-11-13T11:59:37+03:00'
+    arsiv_id: insaat-2
+    tarih: '2026-11-13T14:45:03+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,8 +50,8 @@ kaynak_url: https://www.gazetevatan.com/sehirler/antalya/iptal-edilmisti-yeniden
 gorsel_yedek: /images/haber-gorsel/20261113-manavgattaki-toki-projesinde-yeniden-ihale-sureci-basladi-08c-9fb36e03.jpg
 gorsel_yerlesim:
   boyut:
-  - 4592
-  - 3448
+  - 5456
+  - 3632
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,7 +69,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'nın Manavgat ilçesinde Toplu Konut İdaresi Başkanlığı tarafından hayata geçirilecek olan 401 konutluk dev projede ihale süreci yeniden ele alındı. Karaöz Mahallesi 2. Etap'ta inşa edilmesi planlanan konutlar için daha önce duyurulan ilk ihale, projede revizyon yapılması ihtiyacı doğduğu gerekçesiyle Ekim ayının sonuna doğru iptal edilmişti.

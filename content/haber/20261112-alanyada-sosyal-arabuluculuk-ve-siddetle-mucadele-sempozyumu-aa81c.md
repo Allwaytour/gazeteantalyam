@@ -2,8 +2,8 @@
 title: Alanya'da sosyal arabuluculuk ve şiddetle mücadele sempozyumu
 date: '2026-11-12T16:27:00+03:00'
 ozet: Küresel Gazeteciler Konseyi'nin Alanya'da düzenlediği sempozyumda, sosyal arabuluculuk modeli ve medyanın şiddetle mücadeledeki rolü ele alındı.
-gorsel: https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Logan Gutierrez / Unsplash'
+gorsel: https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Marwen Larafa / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -20,28 +20,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
   konu_imza: fcd72a665889
-  kaynak_sayfa: https://unsplash.com/photos/Rl9bIWKCVF0
-  fotografci: Logan Gutierrez
+  kaynak_sayfa: https://unsplash.com/photos/qzO9a6oQ8AM
+  fotografci: Marwen Larafa
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Laboratuvar
+  gosterilen: Konferans salonu
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'laboratuvar' (Laboratuvar) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'konferans-1' (Konferans salonu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: laboratuvar
-    tarih: '2026-11-13T08:46:31+03:00'
+    arsiv_id: konferans-1
+    tarih: '2026-11-13T14:45:06+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -53,8 +53,8 @@ kaynak_url: https://www.kirsehirhaber40.com/alanyada-sosyal-arabuluculuk-sempozy
 gorsel_yedek: /images/haber-gorsel/20261112-alanyada-sosyal-arabuluculuk-ve-siddetle-mucadele-sempozyumu--88eab145.jpg
 gorsel_yerlesim:
   boyut:
-  - 6720
-  - 4480
+  - 6000
+  - 3375
   dikey: false
   surum: y3
   manset: kaplama
@@ -65,14 +65,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Alanya'da, şiddet önleme modeli olarak sosyal arabuluculuk ve medyanın rolünün masaya yatırıldığı kapsamlı bir sempozyum gerçekleştirildi. Şiddetle Mücadele Vakfı tarafından düzenlenen program, akademisyenleri, uzmanları ve medya mensuplarını bir araya getirdi. Toplantıda, Türkiye'de artış gösteren şiddet olaylarının önlenmesine yönelik çözüm yolları ile kurumlar arası iş birliğinin önemi değerlendirildi.

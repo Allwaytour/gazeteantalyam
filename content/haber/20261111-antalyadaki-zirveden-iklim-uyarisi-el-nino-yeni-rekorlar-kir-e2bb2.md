@@ -2,8 +2,8 @@
 title: 'Antalya''daki zirveden iklim uyarısı: El Nino yeni rekorlar kıracak'
 date: '2026-11-11T07:00:16+03:00'
 ozet: Antalya'da süren iklim toplantısında açıklanan WMO raporu, 2015-2026 döneminin en sıcak dönem olduğunu ve El Nino'nun etkisini artıracağını ortaya koydu.
-gorsel: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Filip Szalbot / Unsplash'
+gorsel: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Bogomil Mihaylov / Unsplash'
 kategoriler:
 - Gündem
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 5575b4a0d4bf
-  kaynak_sayfa: https://unsplash.com/photos/PxiAc1aElFQ
-  fotografci: Filip Szalbot
+  kaynak_sayfa: https://unsplash.com/photos/Lt7aIJTeprQ
+  fotografci: Bogomil Mihaylov
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Konut
+  gosterilen: İklim krizi
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'konut-1' (Konut) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'iklim-3' (İklim krizi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: konut-1
-    tarih: '2026-11-13T08:46:27+03:00'
+    arsiv_id: iklim-3
+    tarih: '2026-11-13T14:45:18+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -50,8 +50,8 @@ kaynak_url: http://mobil.hurriyet.com.tr/gundem/antalyadan-dunyaya-urkuten-uyari
 gorsel_yedek: /images/haber-gorsel/20261111-antalyadaki-zirveden-iklim-uyarisi-el-nino-yeni-rekorlar-kir--b813dff6.jpg
 gorsel_yerlesim:
   boyut:
-  - 6000
-  - 3376
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -62,12 +62,14 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen iklim zirvesinde, küresel ısınmanın ve iklim değişikliğinin getirdiği tehlikelere dikkat çekildi. Dünya Meteoroloji Örgütü tarafından paylaşılan rapora göre, 2015 ile 2026 yılları arasındaki zaman dilimi, şimdiye kadar kayıtlara geçen en sıcak dönem olarak kayıtlara geçti. Bu yılın ocak ve seylül ayları arasındaki süreçte küresel ortalama yüzey sıcaklığı, sanayi öncesi dönemin yaklaşık 1.47 derece üzerine çıktı.

@@ -2,8 +2,8 @@
 title: 'Trabzonspor sevgisi Alanya''da buluşturdu: Dünür oldular'
 date: '2026-11-08T14:41:00+03:00'
 ozet: Farklı şehirlerden Trabzonspor'u desteklemek için Alanya'ya gelen bordo-mavili taraftarlar, kulüp sayesinde kurdukları dostlukları ve dünür olmaya uzanan hikayelerini paylaştı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
-gorsel_kredi: 'Fotoğraf: Dako99 / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Maurice Flesier / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: adb2d270060e
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Wedding_rings_and_roses.jpg
-  fotografci: Dako99
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:A_wedding_convoy_in_Sivas_Province.jpg
+  fotografci: Maurice Flesier
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Düğün
-  cekim_yili: '2012'
+  cekim_yili: '2018'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'dugun-1' (Düğün) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'dugun-2' (Düğün) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: dugun-1
-    tarih: '2026-11-13T08:46:52+03:00'
+    arsiv_id: dugun-2
+    tarih: '2026-11-13T14:45:36+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -124,8 +124,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261108-trabzonspor-sevgisi-alanyada-bulusturdu-dunur-oldular-4b995-f277aa01.jpg
 gorsel_yerlesim:
   boyut:
-  - 2000
-  - 1333
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -134,16 +134,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+  o_manset_d: 50% 100%
+  o_manset_m: 0% 50%
+  o_mansetyan_d: 37% 50%
+  o_mansetyan_m: 37% 50%
+  o_yan_d: 50% 98%
+  o_yan_t: 0% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 16%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Trendyol Süper Lig'de oynanacak Corendon Alanyaspor karşılaşması öncesinde farklı illerden gelen Trabzonspor taraftarları Alanya'da bir araya geldi. Bordo-mavili ekibe olan sevgileriyle tanışan taraftarlar, yıllar içinde kurdukları bağların aile bağlarına dönüştüğünü ifade etti.
 

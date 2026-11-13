@@ -2,8 +2,8 @@
 title: 'Gazipaşa''da hafif ticari araçla otomobil çarpıştı: 3 yaralı'
 date: '2026-11-01T12:05:40+03:00'
 ozet: Antalya'nın Gazipaşa ilçesinde hafif ticari araç ile otomobilin çarpıştığı kazada 3 kişi yaralandı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
-gorsel_kredi: 'Fotoğraf: Dickelbers / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+gorsel_kredi: 'Fotoğraf: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -23,28 +23,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
   konu_imza: d504184fb250
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_ambulance_01.JPG
-  fotografci: Dickelbers
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  fotografci: Zalasem1
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
   gosterilen: 112 Acil ambulansı
-  cekim_yili: '2012'
+  cekim_yili: '2023'
   aciklama: 112 Acil ambulansı — Temsilî fotoğraf
-  gerekce: arşiv kaydı 'ambulans-2' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'ambulans-1' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ambulans-2
-    tarih: '2026-11-13T08:47:35+03:00'
+    arsiv_id: ambulans-1
+    tarih: '2026-11-13T14:46:19+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6c/Egemen4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
@@ -83,8 +83,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-gazipasada-hafif-ticari-aracla-otomobil-carpisti-3-yarali-1c6-ea211b45.jpg
 gorsel_yerlesim:
   boyut:
-  - 3870
-  - 2644
+  - 3638
+  - 2215
   dikey: false
   surum: y3
   manset: kaplama
@@ -102,7 +102,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında hafif ticari araçla otomobil çarpıştı ve 3 kişi yaralandı.
 

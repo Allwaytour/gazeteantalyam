@@ -2,8 +2,8 @@
 title: Kumluca derelerinde taşkın koruma çalışmaları incelendi
 date: '2026-11-13T14:08:00+03:00'
 ozet: Antalya'nın Kumluca ilçesinde sel ve su baskını riskine karşı Gavur, Üleşik ve Akmaz derelerinde yürütülen ıslah çalışmaları yerinde incelendi.
-gorsel: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Wes Hicks / Unsplash'
+gorsel: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
+gorsel_kredi: 'Görsel: Gazete Antalya'
 kategoriler:
 - Gündem
 ilceler:
@@ -12,37 +12,20 @@ etiketler:
 - Devlet Su İşleri
 gorsel_sinif: tarim
 onem: 4
-gorsel_tur: arsiv
+gorsel_tur: tipografik
 gorsel_secim:
-  tur: arsiv
-  alt_tur: arsiv_eslesme
-  sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
+  tur: tipografik
+  gorsel_url: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
   konu_imza: c87150c8addd
-  kaynak_sayfa: https://unsplash.com/photos/tHgnDUyUkXc
-  fotografci: Wes Hicks
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Yağmur
-  cekim_yili: ''
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'yagmur-1' (Yağmur) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
-  kredi_etiket: Fotoğraf
-  onay:
-    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: yagmur-1
-    tarih: '2026-11-13T14:33:03+03:00'
+  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum ya da nötr kayıt)); bize ait tipografik haber görseli.'
+  aciklama: ''
   kural_denetim: k4
-  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,8 +36,8 @@ kaynak_url: https://www.batiantalya.com.tr/kumlucada-sel-ve-taskin-riskine-karsi
 gorsel_yedek: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
 gorsel_yerlesim:
   boyut:
-  - 5472
-  - 3648
+  - 1200
+  - 750
   dikey: false
   surum: y3
   manset: kaplama
@@ -63,16 +46,14 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
+  tipografik: true
+  url: /images/haber-gorsel/20261113-kumluca-derelerinde-taskin-koruma-calismalari-incelendi-fd0e6-44edc563.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'nın Kumluca ilçesinde geçmiş yıllarda yaşanan sel ve su baskınlarının ardından dere yataklarında başlatılan taşkın koruma çalışmaları yakından takip ediliyor. İlçe protokolü, Gavur, Üleşik ve Akmaz derelerinde bir dizi saha incelemesi gerçekleştirerek bölgedeki yatırımların son durumunu değerlendirdi.

@@ -2,8 +2,8 @@
 title: COP31 kapsamındaki buluşmalar Kaleiçi'nde yapılıyor
 date: '2026-11-11T10:01:26+03:00'
 ozet: Antalya'da düzenlenen COP31 etkinlikleri kapsamında uluslararası isimler Kaleiçi'ndeki RuinAdalia Hotel'de bir araya geliyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a0/J22_333_Antalya%2C_Hafenviertel.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Falk2 / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Turizm
 ilceler:
@@ -16,23 +16,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a0/J22_333_Antalya%2C_Hafenviertel.jpg
   konu_imza: bda014b8124f
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_2016_Antalya_-_West_View.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:J22_333_Antalya%2C_Hafenviertel.jpg
+  fotografci: Falk2
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: COP31'in yapılacağı EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı (2016)
-  gerekce: arşiv kaydı 'cop31-expo-1' (COP31'in yapılacağı EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
+  gosterilen: Antalya Kaleiçi
+  cekim_yili: '2015'
+  aciklama: Antalya Kaleiçi — Arşiv fotoğrafı (2015)
+  gerekce: arşiv kaydı 'kaleici-2' (Antalya Kaleiçi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-1
-    tarih: '2026-11-13T08:46:26+03:00'
+    arsiv_id: kaleici-2
+    tarih: '2026-11-13T14:45:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -49,8 +49,8 @@ kaynak_url: https://www.antalyahurses.com/cop31de-uluslararasi-isimlerin-antalya
 gorsel_yedek: /images/haber-gorsel/20261111-cop31-kapsamindaki-bulusmalar-kaleicinde-yapiliyor-dcd39-c5cd119d.jpg
 gorsel_yerlesim:
   boyut:
-  - 5200
-  - 3468
+  - 5623
+  - 3749
   dikey: false
   surum: y3
   manset: kaplama
@@ -59,16 +59,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 100%
-  o_manset_m: 100% 50%
-  o_mansetyan_d: 68% 50%
-  o_mansetyan_m: 68% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 100% 50%
-  o_yan_m: 50% 100%
-  o_kart: 50% 90%
-  o_kart_p: 70% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/J22_333_Antalya%2C_Hafenviertel.jpg
 gorsel_gecmis: []
 ---
 Antalya'nın ev sahipliği yaptığı COP31 sürecindeki uluslararası etkinlikler kentin farklı noktalarında sürmeye devam ediyor. İklim politikaları ile diplomasi ve iş dünyasından temsilcileri buluşturan Freuds Goals House buluşması, tarihi Kaleiçi semtinde yer alan RuinAdalia Hotel'de gerçekleştiriliyor. Düzenlenen oturumlar ve üst düzey görüşmelerle farklı ülkelerden gelen kuruluş temsilcileri ile kamu yöneticileri aynı çatı altında buluşuyor.

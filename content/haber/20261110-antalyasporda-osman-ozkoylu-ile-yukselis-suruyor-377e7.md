@@ -2,8 +2,8 @@
 title: Antalyaspor'da Osman Özköylü ile Yükseliş Sürüyor
 date: '2026-11-10T16:53:15+03:00'
 ozet: Trendyol Süper Lig'de mücadele eden Antalyaspor, teknik direktör Osman Özköylü yönetiminde çıktığı son maçlarda istikrarlı bir grafik çizerek üst sıralara tırmandı.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Arif miletli / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -17,23 +17,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: takim
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
   konu_imza: 63da89cacf8e
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
-  fotografci: Onur
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Stadyumu.jpg
+  fotografci: Arif miletli
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Antalya Stadyumu
-  cekim_yili: '2015'
-  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
+  cekim_yili: '2022'
+  aciklama: Antalyaspor'un iç saha maçlarını oynadığı Antalya Stadyumu — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'antalya-stadyumu-1' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-cd9201
-    tarih: '2026-11-13T08:46:39+03:00'
+    arsiv_id: antalya-stadyumu-1
+    tarih: '2026-11-13T14:45:21+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -50,8 +50,8 @@ kaynak_url: https://www.urfabir.com/osman-ozkoylu-antalyaspor-da-basarili-sonucl
 gorsel_yedek: /images/haber-gorsel/20261110-antalyasporda-osman-ozkoylu-ile-yukselis-suruyor-377e7-a86dc129.jpg
 gorsel_yerlesim:
   boyut:
-  - 2592
-  - 1456
+  - 4713
+  - 3261
   dikey: false
   surum: y3
   manset: kaplama
@@ -60,13 +60,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 64% 50%
-  o_manset_m: 56% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 56% 50%
-  o_yan_m: 100% 50%
-  o_kart: 64% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 gorsel_gecmis: []
 ---
 Trendyol Süper Lig ekiplerinden Antalyaspor, teknik direktör Osman Özköylü'nün göreve gelmesinin ardından ligdeki çıkışını devam ettiriyor. Kırmızı-beyazlı ekip, deneyimli teknik adam yönetiminde çıktığı 7 müsabakada 3 galibiyet ve 2 beraberlik elde etmeyi başardı. Akdeniz temsilcisi, bu süreçte hanesine 11 puan yazdırarak önemli bir performans ortaya koydu.

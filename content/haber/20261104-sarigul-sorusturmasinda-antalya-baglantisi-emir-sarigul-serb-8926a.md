@@ -2,8 +2,8 @@
 title: 'Sarıgül Soruşturmasında Antalya Bağlantısı: Emir Sarıgül Serbest Bırakıldı'
 date: '2026-11-04T20:38:38+03:00'
 ozet: Mustafa Sarıgül ve ailesine yönelik soruşturmada gözaltına alınan Emir Sarıgül etkin pişmanlıktan yararlanarak ev hapsiyle serbest bırakıldı. Dosyada Antalya'daki bir otel ortaklığı iddiası da yer aldı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
-gorsel_kredi: 'Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+gorsel_kredi: 'Fotoğraf: Chris Potter / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
   konu_imza: 48a0239de320
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
-  fotografci: DP Singh Bhullar
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:3D_Judges_Gavel.jpg
+  fotografci: Chris Potter
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
   gosterilen: Adalet
-  cekim_yili: ''
+  cekim_yili: '2012'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'adalet-1' (Adalet) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'adalet-2' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: adalet-1
-    tarih: '2026-11-13T08:47:15+03:00'
+    arsiv_id: adalet-2
+    tarih: '2026-11-13T14:45:57+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -53,8 +53,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-sarigul-sorusturmasinda-antalya-baglantisi-emir-sarigul-serb--c47e5370.jpg
 gorsel_yerlesim:
   boyut:
-  - 8192
-  - 5464
+  - 3000
+  - 2000
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,7 +72,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 baslik_ozgun: 'Sarigul Soruşturmasında Antalya Baglantisi: Emir Sarigul Serbest Birakildi'
 gorsel_gecmis: []
 ---

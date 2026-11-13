@@ -2,8 +2,8 @@
 title: Antalya WWF İklim Dostu Şehirler Oylamasında Finalist Oldu
 date: '2026-11-02T16:14:00+03:00'
 ozet: Antalya, Doğal Hayatı Koruma Vakfının düzenlediği yarışmada finalist olarak küresel oylamaya katıldı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Oleksandr Sushko / Unsplash'
 kategoriler:
 - Yaşam
 ilceler: []
@@ -11,29 +11,29 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 074a01a30487
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
-  fotografci: Dosseman
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya
-  cekim_yili: '2015'
-  aciklama: Antalya — Arşiv fotoğrafı (2015)
-  gerekce: 'arşiv kaydı ''ilce-muratpasa-1'' (Antalya) yerel haber: ilçenin kendi fotoğrafı'
+  kaynak_sayfa: https://unsplash.com/photos/dDy07Wmz0_U
+  fotografci: Oleksandr Sushko
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İklim krizi
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'iklim-2' (İklim krizi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ilce-muratpasa-1
-    tarih: '2026-11-13T08:47:33+03:00'
+    arsiv_id: iklim-2
+    tarih: '2026-11-13T14:46:13+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -78,8 +78,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-wwf-iklim-dostu-sehirler-oylamasinda-finalist-oldu-c2-fe3f5c00.jpg
 gorsel_yerlesim:
   boyut:
-  - 4928
-  - 3280
+  - 4216
+  - 2371
   dikey: false
   surum: y3
   manset: kaplama
@@ -90,14 +90,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
+  url: https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 ---
 Doğal Hayatı Koruma Vakfı (WWF) tarafından düzenlenen Tek Dünya Kentleri Şampiyonası kapsamında Antalya, Türkiye'nin ulusal finalistleri arasında yer aldı. Şehir, şimdi de We Love Cities 2026 kampanyası kapsamında küresel ölçekte destek arıyor.
 

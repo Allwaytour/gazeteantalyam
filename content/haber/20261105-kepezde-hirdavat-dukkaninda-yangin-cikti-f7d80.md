@@ -2,8 +2,8 @@
 title: Kepez'de hırdavat dükkanında yangın çıktı
 date: '2026-11-05T00:30:00+03:00'
 ozet: Antalya'nın Kepez ilçesinde, kapandıktan kısa süre sonra alevlere teslim olan hırdavat dükkanında büyük çapta maddi hasar meydana geldi.
-gorsel: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Dottie Di Liddo / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+gorsel_kredi: 'Fotoğraf: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
   konu_imza: ce0ed2db570e
-  kaynak_sayfa: https://unsplash.com/photos/RR9oBch57To
-  fotografci: Dottie Di Liddo
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Isuzu_fire_engine_in_Antalya.jpg
+  fotografci: Joe Wallace
+  lisans: CC BY-SA 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/2.0
   gosterilen: İtfaiye
-  cekim_yili: ''
+  cekim_yili: '2022'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'itfaiye-2' (İtfaiye) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'itfaiye-1' (İtfaiye) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: itfaiye-2
-    tarih: '2026-11-13T08:47:11+03:00'
+    arsiv_id: itfaiye-1
+    tarih: '2026-11-13T14:45:56+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -52,8 +52,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-kepezde-hirdavat-dukkaninda-yangin-cikti-f7d80-d28098b2.jpg
 gorsel_yerlesim:
   boyut:
-  - 5184
-  - 3456
+  - 4608
+  - 2592
   dikey: false
   surum: y3
   manset: kaplama
@@ -64,14 +64,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 gorsel_gecmis: []
 ---
 Antalya'nın Kepez ilçesi Sütçüler Mahallesi Sütçüler Caddesi üzerinde bulunan yapı ve hırdavat malzemeleri satışı yapılan bir iş yerinde, dükkanın kapatılmasından kısa süre sonra henüz belirlenemeyen bir nedenle yangın çıktı. Çevre sakinlerinin dumanları fark ederek 112 Acil Çağrı Merkezi'ne ihbarda bulunması üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.

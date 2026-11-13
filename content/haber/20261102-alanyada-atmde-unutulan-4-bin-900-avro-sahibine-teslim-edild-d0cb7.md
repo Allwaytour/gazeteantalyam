@@ -2,29 +2,40 @@
 title: Alanya'da ATM'de unutulan 4 bin 900 avro sahibine teslim edildi
 date: '2026-11-02T16:49:52+03:00'
 ozet: Antalya'nın Alanya ilçesinde bir halk otobüsü şoförü, ATM'de unutulan 4 bin 900 avroyu bularak sahibine ulaştırdı.
-gorsel: /images/haber-gorsel/20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild--2d4c8df6.jpg
-gorsel_kredi: 'Görsel: Gazete Antalya'
+gorsel: https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Ali Mkumbwa / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
 - Alanya
-gorsel_tur: tipografik
+gorsel_tur: arsiv
 gorsel_secim:
-  tur: tipografik
-  gorsel_url: /images/haber-gorsel/20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild--2d4c8df6.jpg
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 7b82a8b89543
+  kaynak_sayfa: https://unsplash.com/photos/OnRPps1wPus
+  fotografci: Ali Mkumbwa
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: ATM
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'atm-2' (ATM) başlık/spot/giriş ile eşleşti
   durum: onaylandi
-  hat: t1
-  gerekce: 'Uygun doğrulanmış fotoğraf ya da logo yok (arşivde eşleşen kayıt yok (hassas haber: yalnızca başlıktaki kişi/kurum/yer kaydı)); bize ait tipografik haber görseli.'
-  aciklama: ''
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: atm-2
+    tarih: '2026-11-13T14:46:12+03:00'
   kural_denetim: k4
+  kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: reddedildi
-    kapak_nedeni:
-      kod: incelemede_yanlis
-      aciklama: 'editör incelemesi (Claude, 2026-11-08): yalnızca haberde geçen il/ilçenin genel görünümü; haberin konusu olan olayı/kişiyi göstermiyor'
+    tur: tipografik
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -68,8 +79,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild--2d4c8df6.jpg
 gorsel_yerlesim:
   boyut:
-  - 1200
-  - 750
+  - 7444
+  - 4814
   dikey: false
   surum: y3
   manset: kaplama
@@ -78,14 +89,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  tipografik: true
-  url: /images/haber-gorsel/20261102-alanyada-atmde-unutulan-4-bin-900-avro-sahibine-teslim-edild--2d4c8df6.jpg
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Alaaddin Keykubat Üniversitesi-Dinek Mahallesi hattında görev yapan özel halk otobüsü şoförü Zekeriya Öner, seferini tamamladıktan sonra para yatırmak amacıyla Kestel Mahallesi'ndeki bir bankamatik önüne geldi. Cihazdan gelen sesleri fark eden Öner, iptal tuşuna bastığı esnada ATM'den yüklü miktarda döviz çıktığını fark etti.
 

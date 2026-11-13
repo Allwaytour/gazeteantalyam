@@ -2,8 +2,8 @@
 title: Kumluca'da ev aramasında esrar ve mühimmat ele geçirildi
 date: '2026-11-05T09:51:48+03:00'
 ozet: Antalya'nın Kumluca ilçesinde bir evde yapılan aramada uyuşturucu madde, silah ve çok sayıda mühimmat bulundu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
-gorsel_kredi: 'Fotoğraf: Brejnev / Wikimedia Commons (CC0)'
+gorsel: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Scott Rodgerson / Unsplash'
 kategoriler:
 - Asayiş
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+  gorsel_url: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 61c42ad78ee4
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
-  fotografci: Brejnev
-  lisans: CC0
-  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  kaynak_sayfa: https://unsplash.com/photos/ffH_GkINfyY
+  fotografci: Scott Rodgerson
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
   gosterilen: Polis
-  cekim_yili: '2011'
+  cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'polis-2' (Polis) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'polis-1' (Polis) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: polis-2
-    tarih: '2026-11-13T08:47:11+03:00'
+    arsiv_id: polis-1
+    tarih: '2026-11-13T14:45:56+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -52,8 +52,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261105-kumlucada-ev-aramasinda-esrar-ve-muhimmat-ele-gecirildi-035b6-0840503b.jpg
 gorsel_yerlesim:
   boyut:
-  - 2984
-  - 1440
+  - 4500
+  - 3000
   dikey: false
   surum: y3
   manset: kaplama
@@ -64,11 +64,14 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'nın Kumluca ilçesinde gerçekleştirilen bir operasyonda, adresinde arama yapılan bir şüphelinin evinde çok sayıda yasaklı madde ve mühimmat ele geçirildi. Çalışma, İl Jandarma Komutanlığı ekipleri tarafından Kumluca Cumhuriyet Başsavcılığı koordinasyonunda yürütüldü.

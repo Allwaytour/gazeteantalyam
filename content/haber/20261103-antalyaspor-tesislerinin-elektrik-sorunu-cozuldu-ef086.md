@@ -2,8 +2,8 @@
 title: Antalyaspor tesislerinin elektrik sorunu çözüldü
 date: '2026-11-03T16:02:59+03:00'
 ozet: Atilla Vehbi Konuk Tesisleri'nde yaşanan elektrik kesintisi, yapılan ödemeler ve varılan anlaşmanın ardından sona erdi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Arif miletli / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Spor
 ilceler:
@@ -13,23 +13,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: takim
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
   konu_imza: e1769ca0c73a
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Yeni_Antalya_Stadyumu_-_23.6.15.JPG
-  fotografci: Onur
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Stadyumu.jpg
+  fotografci: Arif miletli
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Antalya Stadyumu
-  cekim_yili: '2015'
-  aciklama: Antalyaspor'un iç saha stadyumu — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-cd9201' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
+  cekim_yili: '2022'
+  aciklama: Antalyaspor'un iç saha maçlarını oynadığı Antalya Stadyumu — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'antalya-stadyumu-1' (Antalya Stadyumu) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-cd9201
-    tarih: '2026-11-13T08:47:25+03:00'
+    arsiv_id: antalya-stadyumu-1
+    tarih: '2026-11-13T14:46:08+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -149,8 +149,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261103-antalyaspor-tesislerinin-elektrik-sorunu-cozuldu-ef086-74b157f0.jpg
 gorsel_yerlesim:
   boyut:
-  - 2592
-  - 1456
+  - 4713
+  - 3261
   dikey: false
   surum: y3
   manset: kaplama
@@ -159,13 +159,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 64% 50%
-  o_manset_m: 56% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 56% 50%
-  o_yan_m: 100% 50%
-  o_kart: 64% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
+  o_yan_m: 50% 50%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 ---
 Antalya'nın spor kulübü Antalyaspor'un tesislerinde daha önce yaşanan elektrik kesintisi çözüme kavuştu. Atilla Vehbi Konuk Tesisleri'nde elektriklerin kesilmesi ve kulübün ödeme girişimlerine rağmen yetkililere ulaşılamadığı yönündeki gelişmelerin ardından süreç olumlu sonuçlandı. Tesislerin elektriği yeniden açıldı.
 

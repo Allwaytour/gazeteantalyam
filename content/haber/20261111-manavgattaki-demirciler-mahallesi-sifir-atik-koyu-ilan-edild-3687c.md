@@ -2,8 +2,8 @@
 title: Manavgat'taki Demirciler Mahallesi Sıfır Atık Köyü ilan edildi
 date: '2026-11-11T12:54:08+03:00'
 ozet: Orman yangınında zarar gören ve yeniden inşa edilen Manavgat'ın Demirciler Mahallesi, sıfır atık projeleriyle dönüştürülüyor.
-gorsel: https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Pawel Czerwinski / Unsplash'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Fotoğraf: Raysonho @ Open Grid Scheduler / Scalable Grid Engine / Wikimedia Commons (CC0)'
 kategoriler:
 - Yaşam
 ilceler:
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 679e63d9b809
-  kaynak_sayfa: https://unsplash.com/photos/RkIsyD_AVvc
-  fotografci: Pawel Czerwinski
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:RecyclingBinsMarkham.jpg
+  fotografci: Raysonho @ Open Grid Scheduler / Scalable Grid Engine
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   gosterilen: Geri dönüşüm
-  cekim_yili: ''
+  cekim_yili: '2020'
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'geri-donusum-1' (Geri dönüşüm) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'geri-donusum-2' (Geri dönüşüm) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: geri-donusum-1
-    tarih: '2026-11-13T08:46:26+03:00'
+    arsiv_id: geri-donusum-2
+    tarih: '2026-11-13T14:45:16+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -50,8 +50,8 @@ kaynak_url: https://www.aa.com.tr/tr/gundem/kullerinden-dogan-mahalle-sifir-atik
 gorsel_yedek: /images/haber-gorsel/20261111-manavgattaki-demirciler-mahallesi-sifir-atik-koyu-ilan-edild--0a77cb88.jpg
 gorsel_yerlesim:
   boyut:
-  - 5697
-  - 3798
+  - 4928
+  - 3264
   dikey: false
   surum: y3
   manset: kaplama
@@ -60,16 +60,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 50% 50%
-  o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
-  o_yan_d: 50% 50%
-  o_yan_t: 50% 50%
-  o_yan_m: 50% 50%
-  o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
+  o_manset_d: 50% 100%
+  o_manset_m: 38% 50%
+  o_mansetyan_d: 48% 50%
+  o_mansetyan_m: 47% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 38% 50%
+  o_yan_m: 50% 100%
+  o_kart: 50% 100%
+  o_kart_p: 47% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
 ---
 Antalya'nın Manavgat ilçesinde beş yıl önce yaşanan orman yangınında büyük hasar alan Demirciler Mahallesi, devlet eliyle yeniden inşa edilerek sıfır atık odaklı bir yerleşim merkezine dönüştürülüyor. Yangının ardından Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinesinde Toplu Konut İdaresi Başkanlığı tarafından yenilenen konutlar hak sahiplerine teslim edilmişti.

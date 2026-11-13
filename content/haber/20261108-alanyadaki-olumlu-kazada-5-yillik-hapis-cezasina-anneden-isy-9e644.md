@@ -2,8 +2,8 @@
 title: Alanya'daki ölümlü kazada 5 yıllık hapis cezasına anneden isyan
 date: '2026-11-08T13:41:00+03:00'
 ozet: Alanya'da 18 yaşındaki Ceren Karadayı'nın hayatını kaybettiği kazada sürücüye verilen 5 yıl 2 aylık hapis cezasına acılı anneden tepki geldi. Anne, kararın yetersiz olduğunu belirterek dosyanın Ağır Ceza Mahkemesi'ne taşınmasını istedi.
-gorsel: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Colin Lloyd / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+gorsel_kredi: 'Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -16,28 +16,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
   konu_imza: c5f254dfa42f
-  kaynak_sayfa: https://unsplash.com/photos/_JEiyOfC2y8
-  fotografci: Colin Lloyd
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+  fotografci: DP Singh Bhullar
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Adalet
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'adalet-3' (Adalet) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'adalet-1' (Adalet) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: adalet-3
-    tarih: '2026-11-13T08:46:56+03:00'
+    arsiv_id: adalet-1
+    tarih: '2026-11-13T14:45:37+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -49,8 +49,8 @@ kaynak_url: https://www.gazetealanya.com/alanyada-5-yillik-cezaya-anne-isyani-ki
 gorsel_yedek: /images/haber-gorsel/20261108-alanyadaki-olumlu-kazada-5-yillik-hapis-cezasina-anneden-isy--b8c85437.jpg
 gorsel_yerlesim:
   boyut:
-  - 6838
-  - 4559
+  - 8192
+  - 5464
   dikey: false
   surum: y3
   manset: kaplama
@@ -68,7 +68,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 gorsel_gecmis: []
 ---
 Alanya'da henüz 18 yaşında yaşamını yitiren Ceren Karadayı'nın ailesinin adalet arayışı sürüyor. Evladını kaybeden acılı anne, kazaya neden olan sürücüye mahkeme tarafından verilen 5 yıl 2 aylık hapis cezasının vicdanları yaraladığını ifade ederek karara isyan etti. Sürücünün olay sırasında alkollü olduğunu vurgulayan anne, verilen cezanın yetersizliğine dikkati çekti.

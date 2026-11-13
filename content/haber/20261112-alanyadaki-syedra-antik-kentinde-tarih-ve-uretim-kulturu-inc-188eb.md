@@ -2,8 +2,8 @@
 title: Alanya'daki Syedra Antik Kenti'nde tarih ve üretim kültürü incelendi
 date: '2026-11-12T17:35:00+03:00'
 ozet: Alanya'daki liseli öğrenciler, Syedra Antik Kenti'ni ziyaret ederek bölgedeki yüzü aşkın zeytinyağı işliğini yerinde inceledi.
-gorsel: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: John Cameron / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b9/Syedra_-_panoramio_-_matzi01.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: matzi01 / Wikimedia Commons (CC BY-SA 3.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -17,29 +17,29 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+  sinif: yer
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Syedra_-_panoramio_-_matzi01.jpg
   konu_imza: 927b8fdc6671
-  kaynak_sayfa: https://unsplash.com/photos/RD0iQoLCkPo
-  fotografci: John Cameron
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Zeytin
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Syedra_-_panoramio_-_matzi01.jpg
+  fotografci: matzi01
+  lisans: CC BY-SA 3.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  gosterilen: Syedra Antik Kenti
   cekim_yili: ''
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'zeytin-2' (Zeytin) başlık/spot/giriş ile eşleşti
+  aciklama: Syedra Antik Kenti — Arşiv fotoğrafı
+  gerekce: arşiv kaydı 'syedra' (Syedra Antik Kenti) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: zeytin-2
-    tarih: '2026-11-13T08:46:31+03:00'
+    arsiv_id: syedra
+    tarih: '2026-11-13T14:45:06+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -51,8 +51,8 @@ kaynak_url: https://www.alanyaturk.com/alanyanin-antik-kenti-syedrada-ogrenciler
 gorsel_yedek: /images/haber-gorsel/20261112-alanyadaki-syedra-antik-kentinde-tarih-ve-uretim-kulturu-inc--f547dc11.jpg
 gorsel_yerlesim:
   boyut:
-  - 4032
-  - 3024
+  - 2048
+  - 1536
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,7 +70,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Syedra_-_panoramio_-_matzi01.jpg
 gorsel_gecmis: []
 ---
 Alanya'da gerçekleştirilen tarih odaklı etkinlikler kapsamında, farklı liselerden öğretmen ve öğrenciler Syedra Antik Kenti'ni ziyaret etti. Projeler doğrultusunda düzenlenen geziye Hasan Çolak Anadolu Lisesi, Hüseyin Girenes Fen Lisesi, Türkler Borsa İstanbul Sosyal Bilimler Lisesi ile Kestel Sultan Alparslan Anadolu Lisesinden öğrenciler katılım gösterdi.

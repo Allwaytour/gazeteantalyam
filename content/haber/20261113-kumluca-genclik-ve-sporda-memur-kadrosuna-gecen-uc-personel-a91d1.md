@@ -2,8 +2,8 @@
 title: Kumluca Gençlik ve Spor'da memur kadrosuna geçen üç personel yemin etti
 date: '2026-11-13T14:04:00+03:00'
 ozet: Kumluca Gençlik ve Spor İlçe Müdürlüğünde görev yapan üç sözleşmeli personel, asli memur kadrosuna geçişleri dolayısıyla düzenlenen törende yemin etti.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/3/36/Kumluca-tomatoes.JPG
-gorsel_kredi: 'Arşiv fotoğrafı: JanetSch / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Cytonn Photography / Unsplash'
 kategoriler:
 - Eğitim
 ilceler:
@@ -17,33 +17,30 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/36/Kumluca-tomatoes.JPG
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 62d3f994acc2
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kumluca-tomatoes.JPG
-  fotografci: JanetSch
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
-  gosterilen: Kumluca
+  kaynak_sayfa: https://unsplash.com/photos/GJao3ZTX9gU
+  fotografci: Cytonn Photography
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İmza
   cekim_yili: ''
-  aciklama: Kumluca — Arşiv fotoğrafı
-  gerekce: 'arşiv kaydı ''ilce-kumluca-2'' (Kumluca) yerel haber: ilçenin kendi fotoğrafı'
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'imza' (İmza) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ilce-kumluca-2
-    tarih: '2026-11-13T14:33:10+03:00'
+    arsiv_id: imza
+    tarih: '2026-11-13T14:45:02+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,8 +51,8 @@ kaynak_url: https://www.batiantalya.com.tr/kumluca-genclik-ve-spor-ilce-mudurlug
 gorsel_yedek: /images/haber-gorsel/20261113-kumluca-genclik-ve-sporda-memur-kadrosuna-gecen-uc-personel-a-e1d819d5.jpg
 gorsel_yerlesim:
   boyut:
-  - 1620
-  - 1215
+  - 6016
+  - 4016
   dikey: false
   surum: y3
   manset: kaplama
@@ -73,7 +70,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/3/36/Kumluca-tomatoes.JPG
+  url: https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya'nın Kumluca ilçesinde, Gençlik ve Spor İlçe Müdürlüğü bünyesinde görev yapan personelin asli memur kadrosuna atanması dolayısıyla Asli Kadroya Geçiş ve Yemin Töreni organize edildi. 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesi kapsamında sözleşmeli statüde görev yapan Tamer Aslan, Eyüp Kolsuz ve Alperen Tutcu, kadroya atanmalarının ardından düzenlenen etkinlikte yemin ederek yeni görev süreçlerine resmi olarak adım attı.

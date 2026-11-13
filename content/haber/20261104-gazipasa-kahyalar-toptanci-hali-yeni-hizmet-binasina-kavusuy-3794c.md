@@ -2,8 +2,8 @@
 title: Gazipaşa Kahyalar Toptancı Hali Yeni Hizmet Binasına Kavuşuyor
 date: '2026-11-04T19:51:01+03:00'
 ozet: Gazipaşa Belediyesi, Kahyalar Toptancı Hali’nin koşullarını iyileştirmek ve kapasitesini artırmak amacıyla yeni bir ek hizmet binası inşa ediyor.
-gorsel: https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Nithin P John / Unsplash'
+gorsel: https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Annie Spratt / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 9826b4190e61
-  kaynak_sayfa: https://unsplash.com/photos/low-light-photography-of-pile-of-vegetables-4mTU1ZQMVzQ
-  fotografci: Nithin P John
+  kaynak_sayfa: https://unsplash.com/photos/93wn9-9Br-s
+  fotografci: Annie Spratt
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Sebze ve meyve
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'sebze-4' (Sebze ve meyve) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'sebze-3' (Sebze ve meyve) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: sebze-4
-    tarih: '2026-11-13T08:47:17+03:00'
+    arsiv_id: sebze-3
+    tarih: '2026-11-13T14:45:58+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -52,8 +52,8 @@ etiketler:
 gorsel_yedek: /images/haber-gorsel/20261104-gazipasa-kahyalar-toptanci-hali-yeni-hizmet-binasina-kavusuy--93978407.jpg
 gorsel_yerlesim:
   boyut:
-  - 1080
-  - 720
+  - 5000
+  - 3750
   dikey: false
   surum: y3
   manset: kaplama
@@ -71,7 +71,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+  url: https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 ---
 Antalya’nın Gazipaşa ilçesinde, belediye tarafından esnaf ve üreticilerin talepleri doğrultusunda planlanan Kahyalar Toptancı Hali için yeni ek hizmet binası yapım çalışmaları hızla sürüyor. Yapılan projeyle bölgedeki ticaret koşullarının daha modern bir yapıya kavuşturulması hedefleniyor.

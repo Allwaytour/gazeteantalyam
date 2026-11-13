@@ -2,7 +2,7 @@
 title: Alanya'da iki motosiklet ve bir otomobilin karıştığı kaza trafiği aksattı
 date: '2026-11-01T14:39:00+03:00'
 ozet: Alanya'daki kavşakta dönüş yapan otomobil ile iki motosikletin karıştığı kazada trafik yoğunluğu oluştu.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 gorsel_kredi: 'Fotoğraf: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 gorsel_v4: true
 kategoriler:
@@ -22,33 +22,33 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
   konu_imza: 9d77d4f3147d
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_medical_ambulance%2C_Batman.jpg
   fotografci: Zalasem1
   lisans: CC BY 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
   gosterilen: 112 Acil ambulansı
   cekim_yili: '2023'
   aciklama: 112 Acil ambulansı — Temsilî fotoğraf
-  gerekce: arşiv kaydı 'ambulans-1' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'ambulans-4' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ambulans-1
-    tarih: '2026-11-13T08:47:39+03:00'
+    arsiv_id: ambulans-4
+    tarih: '2026-11-13T14:46:17+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 gorsel_yerlesim:
   boyut:
-  - 3638
-  - 2215
+  - 4000
+  - 3000
   dikey: false
   surum: y3
   manset: kaplama
@@ -66,7 +66,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 gorsel_gecmis: []
 ---
 Alanya'daki bir kavşakta meydana gelen kazada, dönüş yapmak isteyen bir otomobil seyir halindeki motosikletlerden biriyle çarpıştı. Bu ilk çarpışmanın ardından otomobil durduğu sırada, aynı istikametten gelen ikinci motosiklet de durmakta olan araca yandan çarparak durabildi.

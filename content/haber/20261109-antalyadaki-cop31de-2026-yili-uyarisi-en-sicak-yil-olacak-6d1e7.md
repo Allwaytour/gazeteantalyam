@@ -2,8 +2,8 @@
 title: 'Antalya''daki COP31''de 2026 yılı uyarısı: En sıcak yıl olacak'
 date: '2026-11-09T15:52:56+03:00'
 ozet: Antalya'da düzenlenen COP31 konferansında bir araya gelen bilim insanları, 2026 yılının kayıtlara geçen en sıcak yıl olacağını öngördü.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -19,23 +19,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   konu_imza: 781ce136d1ce
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
-  fotografci: Hendric Stattmann
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
+  fotografci: TechnoHawk
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
+  gosterilen: EXPO 2016 Antalya alanı
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
-  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot/giriş ile eşleşti
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
+  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: cop31-expo-2
-    tarih: '2026-11-13T08:46:47+03:00'
+    arsiv_id: kut-expo
+    tarih: '2026-11-13T14:45:28+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -52,24 +52,24 @@ kaynak_url: https://www.sondakika.com/dunya/haber-antalya-daki-cop31-de-berkeley
 gorsel_yedek: /images/haber-gorsel/20261109-antalyadaki-cop31de-2026-yili-uyarisi-en-sicak-yil-olacak-6d1-64d0eb11.jpg
 gorsel_yerlesim:
   boyut:
-  - 2927
-  - 4390
-  dikey: true
+  - 4608
+  - 2592
+  dikey: false
   surum: y3
   manset: kaplama
-  yan: false
+  yan: true
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: true
-  o_manset_d: 50% 63%
-  o_manset_m: 50% 70%
-  o_mansetyan_d: 0% 50%
-  o_mansetyan_m: 50% 50%
-  o_yan_t: 50% 73%
-  o_kart: 50% 50%
-  o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+  yan_portre: false
+  o_manset_d: 0% 50%
+  o_manset_m: 18% 50%
+  o_yan_d: 50% 100%
+  o_yan_t: 18% 50%
+  o_yan_m: 50% 50%
+  o_kart: 0% 50%
+  o_kart_p: 36% 50%
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
 ---
 Türkiye ve Avustralya eş başkanlığında Antalya'da başlayan Birleşmiş Milletler iklim konferansı COP31'de, iklim krizine yönelik kritik uyarılar yapıldı. Konferansın açılış gününde bilim insanları, 2026'nın bugüne kadarki en sıcak yıl olmasının beklendiğini paylaştı.

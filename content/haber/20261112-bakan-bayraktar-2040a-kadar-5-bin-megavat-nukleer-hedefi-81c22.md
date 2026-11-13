@@ -2,8 +2,8 @@
 title: 'Bakan Bayraktar: 2040''a Kadar 5 Bin Megavat Nükleer Hedefi'
 date: '2026-11-12T16:20:00+03:00'
 ozet: Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'daki COP31 etkinliklerinde Türkiye'nin nükleer enerji vizyonunu paylaştı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
-gorsel_kredi: 'Fotoğraf: Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/4/4d/Akkuyu_Nuclear_Power_Plant.jpg
+gorsel_kredi: 'Fotoğraf: Rosatom Digital Press Office / Wikimedia Commons (CC BY 4.0)'
 kategoriler:
 - Ekonomi
 ilceler: []
@@ -17,28 +17,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Akkuyu_Nuclear_Power_Plant.jpg
   konu_imza: fe7cea637c76
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
-  fotografci: Ank Kumar
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Türk bayrağı
-  cekim_yili: '2014'
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'bayrak-1' (Türk bayrağı) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Akkuyu_Nuclear_Power_Plant.jpg
+  fotografci: Rosatom Digital Press Office
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Akkuyu Nükleer Güç Santrali
+  cekim_yili: '2023'
+  aciklama: Akkuyu Nükleer Güç Santrali inşaatı — Arşiv fotoğrafı (2023)
+  gerekce: arşiv kaydı 'nukleer' (Akkuyu Nükleer Güç Santrali) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: bayrak-1
-    tarih: '2026-11-13T08:46:23+03:00'
+    arsiv_id: nukleer
+    tarih: '2026-11-13T14:45:06+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -50,8 +50,8 @@ kaynak_url: https://www.cnnturk.com/ekonomi/son-dakika-bakan-bayraktardan-onemli
 gorsel_yedek: /images/haber-gorsel/20261112-bakan-bayraktar-2040a-kadar-5-bin-megavat-nukleer-hedefi-81c2-95a13d67.jpg
 gorsel_yerlesim:
   boyut:
-  - 6000
-  - 4000
+  - 5044
+  - 3426
   dikey: false
   surum: y3
   manset: kaplama
@@ -69,7 +69,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Akkuyu_Nuclear_Power_Plant.jpg
 gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen COP31 kapsamında enerji diplomasisi temasları sürüyor. Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, katıldığı canlı yayında Türkiye'nin artan elektrik talebine ve nükleer enerji yatırımlarına dair önemli açıklamalarda bulundu. Yapay zeka teknolojileri, elektrikli araçlar ve soğutma ihtiyacındaki artışın elektrik tüketimini yükselteceğini belirten Bayraktar, bu talebi temiz enerji kaynaklarıyla karşılamayı amaçladıklarını kaydetti.

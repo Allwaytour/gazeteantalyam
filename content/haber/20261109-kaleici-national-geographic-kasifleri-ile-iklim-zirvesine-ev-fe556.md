@@ -2,8 +2,8 @@
 title: Kaleiçi, National Geographic Kaşifleri ile İklim Zirvesine Ev Sahipliği Yapıyor
 date: '2026-11-09T18:25:57+03:00'
 ozet: Muratpaşa Belediyesi'nin ev sahipliğinde düzenlenen COP Town etkinlikleri kapsamında, National Geographic kaşifleri Kaleiçi'nde bir araya geliyor.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/4/40/Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
 - Kültür-Sanat
 ilceler:
@@ -17,23 +17,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/4/40/Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
   konu_imza: d99f94fa0d67
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
-  cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
+  fotografci: Sharon Hahn Darlin
+  lisans: CC BY 2.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  gosterilen: Antalya Kaleiçi
+  cekim_yili: '2022'
+  aciklama: Antalya Kaleiçi — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'kaleici-1' (Antalya Kaleiçi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-13T08:46:45+03:00'
+    arsiv_id: kaleici-1
+    tarih: '2026-11-13T14:45:26+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -50,8 +50,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/national-geographic-kasifle
 gorsel_yedek: /images/haber-gorsel/20261109-kaleici-national-geographic-kasifleri-ile-iklim-zirvesine-ev--b5f37bd3.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
+  - 3934
+  - 2950
   dikey: false
   surum: y3
   manset: kaplama
@@ -60,14 +60,16 @@ gorsel_yerlesim:
   detay: true
   kart_portre: false
   yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
+  o_manset_d: 50% 50%
+  o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_d: 50% 50%
+  o_yan_t: 50% 50%
   o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/4/40/Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
 gorsel_gecmis: []
 ---
 Antalya, Muratpaşa Belediyesi'nin ev sahipliğinde gerçekleştirilen COP Town etkinlikleri çerçevesinde önemli bir buluşmaya ev sahipliği yapıyor. Tarihi Kaleiçi'nde düzenlenen organizasyonun en dikkat çekici akademik ve kültürel duraklarından biri olan National Geographic Society programı, 13 Kasım 2026 Cuma günü Türkan Şoray Kültür Merkezi'nde yapılacak.

@@ -2,8 +2,8 @@
 title: 'Antalya''da kamyonet şarampole devrildi: 1''i çocuk 3 yaralı'
 date: '2026-11-01T12:06:07+03:00'
 ozet: Gazipaşa ilçesinde sürücüsünün kontrolünden çıkan kamyonetin yaklaşık 10 metrelik uçuruma savrulması sonucu meydana gelen kazada üç kişi yaralandı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
-gorsel_kredi: 'Fotoğraf: Dickelbers / Wikimedia Commons (CC BY-SA 3.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+gorsel_kredi: 'Fotoğraf: Zalasem1 / Wikimedia Commons (CC BY 4.0)'
 gorsel_v4: true
 kategoriler:
 - Asayiş
@@ -21,28 +21,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
   konu_imza: eae407547385
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_ambulance_01.JPG
-  fotografci: Dickelbers
-  lisans: CC BY-SA 3.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/3.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_medical_ambulance%2C_Batman.jpg
+  fotografci: Zalasem1
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
   gosterilen: 112 Acil ambulansı
-  cekim_yili: '2012'
+  cekim_yili: '2023'
   aciklama: 112 Acil ambulansı — Temsilî fotoğraf
-  gerekce: arşiv kaydı 'ambulans-2' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'ambulans-4' (112 Acil ambulansı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ambulans-2
-    tarih: '2026-11-13T08:47:37+03:00'
+    arsiv_id: ambulans-4
+    tarih: '2026-11-13T14:46:19+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2FyJTIwY3Jhc2glMjBhY2NpZGVudHxlbnwxfDB8fHwxNzkzNTMxMjIxfDA&ixlib=rb-4.1.0&q=80&w=1080
@@ -54,8 +54,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-kamyonet-sarampole-devrildi-1i-cocuk-3-yarali-7d052-f017950f.jpg
 gorsel_yerlesim:
   boyut:
-  - 3870
-  - 2644
+  - 4000
+  - 3000
   dikey: false
   surum: y3
   manset: kaplama
@@ -73,7 +73,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 ---
 Antalya'nın Gazipaşa ilçesinde meydana gelen trafik kazasında, şarampole savrulan kamyonette bulunan biri çocuk üç kişi yaralandı.
 

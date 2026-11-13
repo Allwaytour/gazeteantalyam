@@ -2,8 +2,8 @@
 title: Antalya'da İklim Krizi ve Sanat COPArt Projesinde Buluştu
 date: '2026-10-31T16:11:52+03:00'
 ozet: Antalya'da hayata geçirilen COPArt projesi, iklim krizine karşı sanatın birleştirici gücüyle toplumsal farkındalık oluşturmayı amaçlıyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
-gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Bogomil Mihaylov / Unsplash'
 gorsel_v4: true
 kategoriler:
 - Kültür-Sanat
@@ -19,29 +19,29 @@ gorsel_tur: arsiv
 gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
-  sinif: yer
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
+  sinif: konu
+  gorsel_url: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 9cf55475eea1
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
-  fotografci: Dosseman
-  lisans: CC BY-SA 4.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: Antalya
-  cekim_yili: '2011'
-  aciklama: Antalya — Arşiv fotoğrafı (2011)
-  gerekce: 'arşiv kaydı ''ilce-muratpasa-2'' (Antalya) yerel haber: ilçenin kendi fotoğrafı'
+  kaynak_sayfa: https://unsplash.com/photos/Lt7aIJTeprQ
+  fotografci: Bogomil Mihaylov
+  lisans: Unsplash Lisansı
+  lisans_dayanagi: https://unsplash.com/license
+  gosterilen: İklim krizi
+  cekim_yili: ''
+  aciklama: Temsilî fotoğraf
+  gerekce: arşiv kaydı 'iklim-3' (İklim krizi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: ilce-muratpasa-2
-    tarih: '2026-11-13T08:47:42+03:00'
+    arsiv_id: iklim-3
+    tarih: '2026-11-13T14:46:24+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 gorsel_gecmis:
 - gorsel: https://images.unsplash.com/photo-1762596852331-3377dfc7208c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8b3V0ZG9vciUyMGFydCUyMGV4aGliaXRpb24lMjBjbGltYXRlfGVufDF8MHx8fDE3OTM0ODUyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080
@@ -53,8 +53,8 @@ gorsel_gecmis:
 gorsel_yedek: /images/haber-gorsel/20261031-antalyada-iklim-krizi-ve-sanat-copart-projesinde-bulustu-ce53-354dd22b.jpg
 gorsel_yerlesim:
   boyut:
-  - 4256
-  - 2832
+  - 5184
+  - 3456
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,7 +72,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
+  url: https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 ---
 Antalya'da iklim krizine karşı sanatın gücüyle farkındalık yaratmayı hedefleyen COPArt projesi kapsamında geniş bir alan kapalı ve açık hava sanat galerisi olarak düzenlendi. "COPArt: Hâlâ Mümkün / Still Possible" temasıyla hazırlanan girişim, resimden sergiye, panellerden açık hava enstalasyonlarına kadar geniş bir yelpazeyi kapsıyor. İklim diplomasisinin kritik noktalarından biri olarak planlanan 1 milyon 100 bin metrekarelik alanda binlerce eser ziyaretçilerle buluşuyor.
 

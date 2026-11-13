@@ -2,8 +2,8 @@
 title: Mustafa Kurt Serik Belediye Başkanlığı İçin Aday Adaylığını Açıkladı
 date: '2026-11-05T16:01:14+03:00'
 ozet: Yeni Parti'den Serik Belediye Başkan aday adayı olan sanayi esnafı Mustafa Kurt, ilçenin tapu, trafik ve park gibi kronikleşmiş sorunlarını çözmek için yola çıktığını belirtti.
-gorsel: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Tierra Mallorca / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+gorsel_kredi: 'Fotoğraf: Hedda Gabler / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler:
@@ -13,28 +13,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
   konu_imza: a471e3090a8f
-  kaynak_sayfa: https://unsplash.com/photos/rgJ1J8SDEAY
-  fotografci: Tierra Mallorca
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Konut
-  cekim_yili: ''
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'konut-2' (Konut) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Turkey_2018_elections%2C_ballot_box.jpg
+  fotografci: Hedda Gabler
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Oy sandığı
+  cekim_yili: '2018'
+  aciklama: Temsilî fotoğraf (2018)
+  gerekce: arşiv kaydı 'secim' (Oy sandığı) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: konut-2
-    tarih: '2026-11-13T08:47:11+03:00'
+    arsiv_id: secim
+    tarih: '2026-11-13T14:45:54+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -53,8 +53,8 @@ baslik_ozgun: MUSTAFA KURT SERİK BELEDİYE BAŞKANLIĞI İÇİN ADAY ADAYLIĞIN
 gorsel_yedek: /images/haber-gorsel/20261105-mustafa-kurt-serik-belediye-baskanligi-icin-aday-adayligini-b-b0c1f861.jpg
 gorsel_yerlesim:
   boyut:
-  - 4592
-  - 3448
+  - 3114
+  - 2169
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,7 +72,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 gorsel_gecmis: []
 ---
 Serik ilçesinde uzun yıllardır sanayi esnafı olarak faaliyet gösteren Mustafa Kurt, Yeni Parti çatısı altında Serik Belediye Başkanlığı için aday adaylığını duyurdu. Yaklaşık 60 yıldır ilçede yaşayan ve bölgenin sorunlarına hakim olduğunu ifade eden Kurt, adaylık sürecine sanayi esnafının teşvikiyle girdiğini vurguladı.

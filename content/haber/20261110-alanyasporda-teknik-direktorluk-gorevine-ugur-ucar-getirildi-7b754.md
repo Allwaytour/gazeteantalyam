@@ -2,8 +2,8 @@
 title: Alanyaspor'da teknik direktörlük görevine Uğur Uçar getirildi
 date: '2026-11-10T20:13:00+03:00'
 ozet: Süper Lig temsilcisi Alanyaspor, teknik direktör Joao Pereira ile yollarını ayırdıktan sonra Uğur Uçar ile 1,5 yıllık sözleşme imzaladı.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
-gorsel_kredi: 'Fotoğraf: Hayden Schiff / Wikimedia Commons (CC BY 2.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+gorsel_kredi: 'Fotoğraf: Peter Glaser baraida / Wikimedia Commons (CC0)'
 kategoriler:
 - Spor
 ilceler:
@@ -18,28 +18,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
   konu_imza: f9e03d45f743
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
-  fotografci: Hayden Schiff
-  lisans: CC BY 2.0
-  lisans_dayanagi: https://creativecommons.org/licenses/by/2.0
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+  fotografci: Peter Glaser baraida
+  lisans: CC0
+  lisans_dayanagi: http://creativecommons.org/publicdomain/zero/1.0/deed.en
   gosterilen: Futbol
-  cekim_yili: '2019'
+  cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'futbol-2' (Futbol) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'futbol-1' (Futbol) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: futbol-2
-    tarih: '2026-11-13T08:46:42+03:00'
+    arsiv_id: futbol-1
+    tarih: '2026-11-13T14:45:20+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -51,8 +51,8 @@ kaynak_url: https://antalyam.com/detay/joao-pereira-gitti-ugur-ucar-geliyor
 gorsel_yedek: /images/haber-gorsel/20261110-alanyasporda-teknik-direktorluk-gorevine-ugur-ucar-getirildi--30a411e1.jpg
 gorsel_yerlesim:
   boyut:
-  - 6000
-  - 4000
+  - 5787
+  - 3858
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,7 +70,7 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 gorsel_gecmis: []
 ---
 Süper Lig'de son dönemde beklenen sonuçları alamayan Alanyaspor'da yönetim teknik adam değişikliğine gitti. Akdeniz ekibi, teknik direktör Joao Pereira ile yolların ayrıldığını duyurdu. Bu gelişmenin ardından kulüp, son olarak Çorum FK'da görev yapan Uğur Uçar ile anlaşma sağladı. Yeni teknik direktör Uçar ile 1,5 yıllık sözleşme imzalandığı bildirildi.
