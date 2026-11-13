@@ -1,7 +1,7 @@
 ---
-title: Alanyali ogrencilerden harcliklariyla savunma vakfina anlamli bagis
+title: Alanyalı öğrencilerden harçlıklarıyla savunma vakfına anlamlı bağış
 date: '2026-11-03T23:52:00+03:00'
-ozet: Lise ogrencileri, harcliklarini Turk Silahli Kuvvetlerini Guclendirme Vakfi'na bagisladi ve vakfin faaliyetleri hakkinda bilgi aldi.
+ozet: Lise öğrencileri, harçlıklarını Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'na bağışladı ve vakfın faaliyetleri hakkında bilgi aldı.
 gorsel: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Nedret Binici / Unsplash'
 kategoriler:
@@ -43,7 +43,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-lise-ogrencilerinden-ornek-davranis
-gorsel_yedek: /images/haber-gorsel/20261103-alanyali-ogrencilerden-harcliklariyla-savunma-vakfina-anlaml--9b79298c.jpg
+gorsel_yedek: /images/haber-gorsel/20261103-alanyali-ogrencilerden-harcliklariyla-savunma-vakfina-anlaml--f7393635.jpg
 gorsel_yerlesim:
   boyut:
   - 5472
@@ -65,9 +65,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+baslik_onceki: Alanyali ogrencilerden harcliklariyla savunma vakfina anlamli bagis
+metin_onarim:
+  tarih: '2026-11-13T11:29:41+03:00'
+  kaynak: https://www.yenialanya.com/alanyada-lise-ogrencilerinden-ornek-davranis
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: ''
 ---
-Alanya'da egitim goren lise ogrencileri,ornek bir sosyal sorumluluk calismasina imza atti. Irfan Bileydi Siber Guvenlik Mesleki ve Teknik Anadolu Lisesi ogrencileri,kendi harcliklarindan artirdiklari paralari Turk Silahli Kuvvetlerini Guclendirme Vakfi'na bagislama karari aldi. Bir gunluk harcliklarini vakfa bagislayan ogrenciler,ogretmenleriyle birlikte vakfi ziyaret ederek bagislarinin kullanim alanlari hakkinda bilgi sahibi oldu.
+Alanya'da eğitim gören lise öğrencileri,örnek bir sosyal sorumluluk çalışmasına imza attı. İrfan Bileydi Siber Güvenlik Mesleki ve Teknik Anadolu Lisesi öğrencileri,kendi harçlıklarından artırdıkları paraları Türk Silahlı Kuvvetlerini Güçlendirme Vakfı'na bağışlama kararı aldı. Bir günlük harçlıklarını vakfa bağışlayan öğrenciler,öğretmenleriyle birlikte vakfi ziyaret ederek bağışlarının kullanım alanları hakkında bilgi sahibi oldu.
 
-Ziyaret sirasinda ogrencilerle bir araya gelen TSK Guclendirme Vakfi Alanya Ilce Fahri Tanitim Kurulu Baskani Refik Ozdemir,vakfin kurulusu,faaliyetleri ve Turk savunma sanayisine sagladigi katkilar hakkinda ayrintili bir sunum yapti. Ogrencilere yerli ve milli projeler tanitilirken,harp arac ve gerecleri,KAAN savas ucagi,ATAK helikopteri ve roket sistemleri hakkinda bilgilendirmede bulunuldu. Programda sehit aileleri,gaziler,emekli komutanlar,polis memurlari,terorle mucadele uzmanlari ve ogretmenler de yer aldi.
+Ziyaret sırasında öğrencilerle bir araya gelen TSK Güçlendirme Vakfı Alanya İlçe Fahri Tanıtım Kurulu Başkanı Refik Özdemir,vakfın kuruluşu,faaliyetleri ve Türk savunma sanayisine sağladığı katkılar hakkında ayrıntılı bir sunum yaptı. Öğrencilere yerli ve millî projeler tanıtılırken,harp araç ve gereçleri,KAAN savaş uçağı,ATAK helikopteri ve roket sistemleri hakkında bilgilendirmede bulunuldu. Programda şehit aileleri,gaziler,emekli komutanlar,polis memurları,terörle mücadele uzmanları ve öğretmenler de yer aldı.
 
-Okul ogretmenlerinden Gokhan Akcay,ogrencilerin akademik basarilarinin yani sira milli ve manevi degerlerle yetismesine onem verdiklerini belirtti. Akcay,ogrencilerin yaptiklari bagislarin nereye gittigini ogrenme fırsatı buldugunu ve bundan sonraki surecte bu kampanyayi genisletmeyi planladiklarini ifade etti. Program,ogrenciler ve katilimcilarin hatira fotografi cektirmesiyle sona erdi.
+Okul öğretmenlerinden Gökhan Akçay,öğrencilerin akademik başarılarının yanı sıra millî ve manevi değerlerle yetişmesine önem verdiklerini belirtti. Akçay,öğrencilerin yaptıkları bağışların nereye gittiğini öğrenme fırsatı bulduğunu ve bundan sonraki süreçte bu kampanyayı genişletmeyi planladıklarını ifade etti. Program,öğrenciler ve katılımcıların hatıra fotoğrafı çektirmesiyle sona erdi.

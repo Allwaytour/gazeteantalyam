@@ -1,7 +1,7 @@
 ---
 title: 'Antalya Mutabakatı Aciklandi: Binalarda 2035 Hedefleri Belirlendi'
 date: '2026-10-31T22:56:44+03:00'
-ozet: COP31 Turkiye Baskanligi tarafindan duyurulan Antalya Mutabakati, binalarda enerji verimliligini artirmayi ve karbon emisyonlarini azaltmayi hedefliyor.
+ozet: COP31 Türkiye Başkanlığı tarafından duyurulan Antalya Mutabakatı, binalarda enerji verimliliğini artırmayı ve karbon emisyonlarını azaltmayı hedefliyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -74,11 +74,17 @@ gorsel_yerlesim:
   o_kart: 50% 90%
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+baslik_onceki: 'Antalya Mutabakatı Aciklandi: Binalarda 2035 Hedefleri Belirlendi'
+metin_onarim:
+  tarih: '2026-11-13T11:29:41+03:00'
+  kaynak: https://www.dogayidinle.com/cevre-ve-iklim/cop31-antalya-mutabakati-aciklandi-binalarda-2035e-kadar-yuzde-25-enerji-verimliligi-hedefi/9782
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'baslik: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
 ---
-Turkiye'nin ev sahipliginde gerceklesecek COP31 Iklim Zirvesi'ne dogru, binalarin enerji tuketimini ve karbon salinimini dusurmek amaciyla hazirlanan Antalya Mutabakati kamuoyuna duyuruldu. COP31 Turkiye Baskanligi tarafindan aciklanan bu girisim, konutlardan okullara ve hastanelere kadar genis bir yapi stokunu kapsiyor.
+Türkiye'nin ev sahipliğinde gerçekleşecek COP31 İklim Zirvesi'ne doğru, binaların enerji tüketimini ve karbon salınımını düşürmek amacıyla hazırlanan Antalya Mutabakatı kamuoyuna duyuruldu. COP31 Türkiye Başkanlığı tarafından açıklanan bu girişim, konutlardan okullara ve hastanelere kadar geniş bir yapı stokunu kapsıyor.
 
-Mutabakat metnine gore, dunya genelindeki bina stokunun kullanim asamasindaki enerji yogunlugunun 2035 yilina kadar 2020 seviyesine kiyasla yuzde 25 oraninda azaltilmasi amaclandi. Ayni zamanda kuresel nihai enerji tuketiminde elektrigin payinin yuzde 35'e cikarilmasi da hedefler arasinda yer aldi. Bu donusum; dis cephe yalitiminin iyilestirilmesi, verimli isitma ve sogutma cihazlarinin kullanimi ile isi pompalarinin yayginlastirilmasi gibi uygulamalarla desteklenecek.
+Mutabakat metnine göre, dünya genelindeki bina stokunun kullanım aşamasındaki enerji yoğunluğunun 2035 yılına kadar 2020 seviyesine kıyasla yüzde 25 oranında azaltılması amaçlandı. Aynı zamanda küresel nihai enerji tüketiminde elektriğin payının yüzde 35'e çıkarılması da hedefler arasında yer aldı. Bu dönüşüm; dış cephe yalıtımının iyileştirilmesi, verimli ısıtma ve soğutma cihazlarının kullanımı ile ısı pompalarının yaygınlaştırılması gibi uygulamalarla desteklenecek.
 
-Birlesmis Milletler Cevre Programi bunyesindeki Kuresel Binalar ve Insaat Ittifaki'nin destegiyle olusturulan girisim; merkezi yonetimler, yerel yonetimler, finans kuruluslari ve insaat sektoru paydaslari icin ortak oncelikler belirliyor. Yapi sektorunun kuresel enerji kaynakli karbon emisyonlarindaki ve enerji talebindeki payinin yaklasik yuzde 40 duzeyinde olmasi, bu alandaki donusumu iklim mucadelesinde kritik bir konuma tasiyor.
+Birleşmiş Milletler Çevre Programı bünyesindeki Küresel Binalar ve İnşaat İttifakı'nın desteğiyle oluşturulan girişim; merkezi yönetimler, yerel yönetimler, finans kuruluşları ve inşaat sektörü paydaşları için ortak öncelikler belirliyor. Yapı sektörünün küresel enerji kaynaklı karbon emisyonlarındaki ve enerji talebindeki payının yaklaşık yüzde 40 düzeyinde olması, bu alandaki dönüşümü iklim mücadelesinde kritik bir konuma taşıyor.
 
-Farkli ulkelerin kendi ekonomik kosullarina ve enerji altyapilarina gore uyarlayabilecegi altı eylem alanindan olusan mutabakat, 12 Kasim tarihinde Antalya'da ulkelerin destegine sunulacak. Yeni binalarin yani sira mevcut yapilarin yenilenmesini de kapsayan bu cerceve, enerji verimliligi ile temiz elektrige gecis surecini hizlandirmayi amacliyor.
+Farklı ülkelerin kendi ekonomik koşullarına ve enerji altyapılarına göre uyarlayabileceği altı eylem alanından oluşan mutabakat, 12 Kasım tarihinde Antalya'da ülkelerin desteğine sunulacak. Yeni binaların yanı sıra mevcut yapıların yenilenmesini de kapsayan bu çerçeve, enerji verimliliği ile temiz elektriğe geçiş sürecini hızlandırmayı amaçlıyor.

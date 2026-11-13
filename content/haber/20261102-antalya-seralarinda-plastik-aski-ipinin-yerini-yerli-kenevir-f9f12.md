@@ -95,8 +95,14 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
+baslik_onceki: Antalya seralarinda plastik aski ipinin yerini yerli kenevir aliyor
+metin_onarim:
+  tarih: '2026-11-13T11:29:41+03:00'
+  kaynak: https://www.gidabulteni.com/yerel-uretim/seralarda-plastigin-yerine-kenevir-antalyada-yerli-liften-aski-ipi-denemesi/4323
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: ''
 ---
-Antalya Il Tarim ve Orman Mudurlugu, seracilik faaliyetlerinde plastik tuketimini dusurmek icin yeni bir calisma baslatti. Il Mudurlugu onculugunde Aksu'da yurutulen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki aski ipleri test ediliyor.
+Antalya İl Tarım ve Orman Müdürlüğü, seracilik faaliyetlerinde plastik tuketimini dusurmek icin yeni bir calisma baslatti. İl Mudurlugu onculugunde Aksu'da yurutulen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki aski ipleri test ediliyor.
 
 Seralarda yetistirilen bitkilerin dik durmasini ve gelisimlerini desteklemesini saglayan aski iplerinde daha once jut lifleri denenmisti. Yerli kenevir denemelerinin ardindan pamuk ve kompostlanabilir biyomalzemelerin de degerlendirilmesi ongoruluyor. Bu calismayla yalnizca plastik tuketiminin azaltilmasi degil, ayni zamanda hasat sonrasi olusan sera artiklarinin kompostlastirilmasinin kolaylastirilmasi ve yerli kenevirin tarimsal uretimde yeni bir kullanim alani kazanmasi amaclaniyor.
 

@@ -2,8 +2,8 @@
 title: Cevdet Yilmaz ile Mali Basbakani Maiga Antalya'da Görüstü
 date: '2026-11-10T20:44:29+03:00'
 ozet: Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'daki COP31 Liderler Zirvesi kapsaminda Mali Basbakani Abdulaye Maiga ile bir araya geldi.
-gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-gorsel_kredi: 'Arşiv fotoğrafı: TechnoHawk / Wikimedia Commons (CC BY-SA 4.0)'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Gündem
 ilceler: []
@@ -16,23 +16,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: yer
-  gorsel_url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
   konu_imza: 39fa2336eeb5
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Seras%C4%B1.jpg
-  fotografci: TechnoHawk
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Expo_Square_and_Turkcell_Expo_Tower.jpg
+  fotografci: Hendric Stattmann
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
-  gosterilen: EXPO 2016 Antalya alanı
+  gosterilen: EXPO 2016 Antalya alanı, Expo Kulesi
   cekim_yili: '2016'
-  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanı — arşiv fotoğrafı
-  gerekce: arşiv kaydı 'kut-expo' (EXPO 2016 Antalya alanı) başlık/spot/giriş ile eşleşti
+  aciklama: COP31'in yapılacağı EXPO 2016 Antalya alanında Expo Kulesi (2016)
+  gerekce: arşiv kaydı 'cop31-expo-2' (EXPO 2016 Antalya alanı, Expo Kulesi) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: kut-expo
-    tarih: '2026-11-13T10:58:46+03:00'
+    arsiv_id: cop31-expo-2
+    tarih: '2026-11-13T11:30:44+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -49,24 +49,24 @@ kaynak_url: https://www.sondakika.com/politika/haber-mali-basbakani-maiga-ile-ce
 gorsel_yedek: /images/haber-gorsel/20261110-cevdet-yilmaz-ile-mali-basbakani-maiga-antalyada-gorustu-4ada-fecbbac8.jpg
 gorsel_yerlesim:
   boyut:
-  - 4608
-  - 2592
-  dikey: false
+  - 2927
+  - 4390
+  dikey: true
   surum: y3
   manset: kaplama
-  yan: true
+  yan: false
   kart: true
   detay: true
   kart_portre: false
-  yan_portre: false
-  o_manset_d: 0% 50%
-  o_manset_m: 18% 50%
-  o_yan_d: 50% 100%
-  o_yan_t: 18% 50%
-  o_yan_m: 50% 50%
-  o_kart: 0% 50%
-  o_kart_p: 36% 50%
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  yan_portre: true
+  o_manset_d: 50% 63%
+  o_manset_m: 50% 70%
+  o_mansetyan_d: 0% 50%
+  o_mansetyan_m: 50% 50%
+  o_yan_t: 50% 73%
+  o_kart: 50% 50%
+  o_kart_p: 50% 50%
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_gecmis: []
 ---
 Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayisiyla Türkiye'de bulunan Mali Basbakani Abdulaye Maiga ile ikili bir görüstü gerçeklestirdi. 

@@ -1490,6 +1490,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Handshake_between_Murat_Kurum%2C_on_the_left%2C_and_Wopke_Hoekstra.jpg/1280px-Handshake_between_Murat_Kurum%2C_on_the_left%2C_and_Wopke_Hoekstra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "035a1e87b6fc93c2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sütun",
+     "kemer",
+     "pencere",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi binanın sütun ve kemer detayları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "mimari inceleme",
+     "tarihi yapı haberi",
+     "sanat tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "okul ziyareti",
+     "spor haberi",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bfd3264d4a54:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki lise binasının detayını yansıtmayan, farklı bir tarihi binanın mimari detayını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "lise binası",
+        "var": true
+       },
+       {
+        "unsur": "okul bahçesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T11:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "76642425a5a5a5b5",
+    "sha": "5b1dff2fdbbe9a42605050c1"
+   },
+   "t": "2026-11-13T11:29:27+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.043,
+    "keskinlik": 1716,
+    "kontrast": 43,
+    "medyan": 119,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5017.jpg/1280px-Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0375f408735c13bf": {
    "t": "2026-11-08T15:19:58+03:00",
    "teknik": {
@@ -14408,6 +14500,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG/1280px-Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1db365d0a7f72e65": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lise binası",
+     "sütun",
+     "pencere",
+     "ağaç",
+     "havuz",
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi lise binası dış cephesi ve bahçesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "okul ziyareti",
+     "eğitim haberi",
+     "tarihi bina"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "spor karşılaşması",
+     "asayiş olayları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bfd3264d4a54:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki lise binası değil, Kayseri'deki tarihi bir lise binası gösteriliyor; bu yüzden yanıltıcı.",
+      "gerekli": [
+       {
+        "unsur": "lise binası",
+        "var": true
+       },
+       {
+        "unsur": "okul bahçesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T11:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cd8c490484c48616",
+    "sha": "fb897fd9bd9e8209f7263757"
+   },
+   "t": "2026-11-13T11:29:27+03:00",
+   "teknik": {
+    "doygunluk": 11.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.194,
+    "keskinlik": 2591,
+    "kontrast": 58,
+    "medyan": 77,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5013.jpg/1280px-Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1dd1f006c0b0df4b": {
    "icerik": {
     "ana_kutu": [
@@ -16248,6 +16439,129 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Neal_S._Blaisdell_Center%2C_Ward_Avenue%2C_Kakaako%2C_Honolulu%2C_HI.jpg/1280px-Neal_S._Blaisdell_Center%2C_Ward_Avenue%2C_Kakaako%2C_Honolulu%2C_HI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "20df1de321ee31f0": {
+   "icerik": {
+    "ana_kutu": [
+     308,
+     416,
+     810,
+     995
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 18,
+    "nesneler": [
+     "ekran",
+     "kürsü",
+     "koltuk",
+     "sehpa",
+     "broşür"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alandaki fuar veya sergi standında düzenlenen panele katılan katılımcılar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "fuar",
+     "konferans",
+     "panel"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "protesto",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      368,
+      431,
+      569,
+      485
+     ],
+     [
+      376,
+      597,
+      720,
+      814
+     ],
+     [
+      354,
+      762,
+      856,
+      951
+     ],
+     [
+      357,
+      786,
+      927,
+      1000
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:48dc0399086b:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "COP31 kapsamındaki etkinlik alanını ve paneli net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "sergi alanı",
+        "var": true
+       },
+       {
+        "unsur": "pavilyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       308,
+       416,
+       810,
+       995
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T11:29:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "652464d296069349",
+    "sha": "3352f5ef38e42588eaff5a64"
+   },
+   "t": "2026-11-13T11:29:07+03:00",
+   "teknik": {
+    "doygunluk": 22.6,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.235,
+    "keskinlik": 2077,
+    "kontrast": 69,
+    "medyan": 111,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "/images/kurum/4713c4a00be7021a.jpg"
   },
   "20e46d1a3c750b83": {
    "icerik": {
@@ -63183,6 +63497,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Turquoise_blue_and_earth.jpg/1280px-Turquoise_blue_and_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "868213e5b5e46f28": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sıra",
+     "sandalye",
+     "pencere",
+     "tavan lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş sınıfta ters çevrilmiş sıra ve sandalyeler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "okul haberi",
+     "eğitim",
+     "tatil dönemi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ziyaret haberi",
+     "canlı etkinlik",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bfd3264d4a54:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili boş sınıf fotoğrafı, kaymakamın lise ziyareti haberi için uygun bir dış bina veya bahçe görseli sunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "lise binası",
+        "var": false
+       },
+       {
+        "unsur": "okul bahçesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T11:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c6f28616fce2e45c",
+    "sha": "a7f0be8a914a788f6b66f6c3"
+   },
+   "t": "2026-11-13T11:29:27+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.085,
+    "keskinlik": 2403,
+    "kontrast": 51,
+    "medyan": 136,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1731865745029-86b14f871b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8aGlnaCUyMHNjaG9vbCUyMGNsYXNzcm9vbSUyMGVtcHR5JTIwZGVza3N8ZW58MXwwfHx8MTc5NDU1ODU2MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "86b0f79743533a14": {
    "icerik": {
@@ -119198,6 +119604,73 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "20df1de321ee31f0": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kapalı alandaki fuar veya sergi standında düzenlenen panele katılan katılımcılar.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T11:29:07+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/antalya-buyuksehir-belediyesi-cop31de-iklim-dostu-projeleri-ele-aldi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "broşür",
+    "ekran",
+    "koltuk",
+    "kürsü",
+    "pavilyon",
+    "sehpa",
+    "sergi alanı"
+   ],
+   "kucuk": "/images/kurum/4713c4a00be7021a.jpg",
+   "kullanilabilir": [
+    "fuar",
+    "konferans",
+    "panel"
+   ],
+   "kullanilamaz": [
+    "siyasi miting",
+    "protesto",
+    "spor karşılaşması",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T11:29:07+03:00",
+   "url": "/images/kurum/4713c4a00be7021a.jpg",
+   "uygun_yerlesimler": [
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "2153472d6e084830": {
    "alt_tur": "kisi_genel",

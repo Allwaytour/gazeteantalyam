@@ -1,7 +1,7 @@
 ---
-title: Antalyali sporcular atli binicilik sampiyonasinda mucadele etti
+title: Antalyalı sporcular atlı binicilik şampiyonasında mucadele etti
 date: '2026-11-03T13:20:00+03:00'
-ozet: Genclik ve Spor Bakanligi ile Türkiye Özel Sporcular Spor Federasyonu tarafindan Nevşehir'de duzenlenen Atli Binicilik Sampiyonasi'na katilan Antalya Adalya Spor Kulübü, basarili bir organizasyonu geride birakti.
+ozet: Gençlik ve Spor Bakanlığı ile Türkiye Özel Sporcular Spor Federasyonu tarafindan Nevşehir'de duzenlenen Atli Binicilik Sampiyonasi'na katilan Antalya Adalya Spor Kulübü, basarili bir organizasyonu geride birakti.
 gorsel: /images/kurum/17f296d389724772.jpg
 gorsel_kredi: 'Fotoğraf: NEVŞEHİR GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ'
 kategoriler:
@@ -45,7 +45,14 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/hem-yaristi-hem-kesfetti
-gorsel_yedek: /images/haber-gorsel/20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e--921bc6be.jpg
+gorsel_yedek: /images/haber-gorsel/20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e--61439968.jpg
+baslik_onceki: Antalyali sporcular atli binicilik sampiyonasinda mucadele etti
+metin_onarim:
+  tarih: '2026-11-13T11:29:41+03:00'
+  kaynak: https://www.akdenizmanset.com.tr/hem-yaristi-hem-kesfetti
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: ''
+baslik_ozgun: Antalyalı sporcular atlı binicilik şampiyonasında mücadele etti
 ---
 Genclik ve Spor Bakanligi ile Türkiye Özel Sporcular Spor Federasyonu is birliginde hayata gecirilen Atli Binicilik Sampiyonasi, Kapadokya'nin belirgin cografi atmosferinde organize edildi. Etkinlige Antalya Adalya Spor Kulübü, İzmir Alia Atlı Spor Kulübü ve Nevşehir Gençlik ve Spor İl Müdürlüğü Spor Kulübü katilim gösterdi.
 
