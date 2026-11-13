@@ -11,13 +11,14 @@
 {{ $son := where $hepsi "ts" "ge" $sinir }}{{ if lt (len $son) 14 }}{{ $son = first 20 $hepsi }}{{ end }}
 {{ $sirali := slice }}
 {{ range $p := seq 51 -1 10 }}{{ range $son }}{{ if eq (add (mul .onem 10) (cond (ne .manset_duzen "") 1 0)) $p }}{{ $sirali = $sirali | append . }}{{ end }}{{ end }}{{ end }}
-{{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haber metin kartıyla gösterilir. */}}
+{{/* Ana sayfada aynı fotoğraf iki kez görünmez: farklı habere aynı kare düşmüşse ikinci haberin kartında aynı konunun başka bir
+     doğrulanmış karesi (alt) gösterilir; o da yoksa haberin tipografik görseli. */}}
 {{ $gg := slice }}
 {{ $slayt := slice }}{{ $mmetin := slice }}
 {{/* Fotoğrafı manşete uymayan ya da fotoğrafı başka manşette kullanılan önemli haber, tipografik görseliyle (gorsel_yedek) manşete girer. */}}
 {{ range $sirali }}{{ if lt (len $slayt) 7 }}{{ $h := . }}
-  {{ if and .yedek (or (and .manset_duzen (in $gg .gorsel)) (and (not .manset_duzen) (ge .onem 4))) }}{{ $h = merge . (dict "gorsel" .yedek "tipo" true "manset_duzen" "kaplama" "o_md" "50% 50%" "o_mm" "50% 50%") }}{{ end }}
-  {{ if and $h.manset_duzen (not (in $gg $h.gorsel)) }}{{ $slayt = $slayt | append $h }}{{ $gg = $gg | append $h.gorsel }}
+  {{ if and .yedek (or (and .manset_duzen (in $gg (partial "gorsel-anahtar.html" .gorsel))) (and (not .manset_duzen) (ge .onem 4))) }}{{ $h = merge . (dict "gorsel" .yedek "tipo" true "manset_duzen" "kaplama" "o_md" "50% 50%" "o_mm" "50% 50%") }}{{ end }}
+  {{ if and $h.manset_duzen (not (in $gg (partial "gorsel-anahtar.html" $h.gorsel))) }}{{ $slayt = $slayt | append $h }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $h.gorsel) }}
   {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not $h.manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
 {{ end }}{{ end }}
 {{ if not $slayt }}{{ $mmetin = slice }}{{ range first 3 $sirali }}{{ $mmetin = $mmetin | append . }}{{ end }}{{ end }}
@@ -75,7 +76,7 @@
   </div>
   {{ $mmetin = after 1 $mmetin }}
   {{ end }}
-  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if or .yan_foto .yan_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "yan_foto" false "yan_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
+  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if or .yan_foto .yan_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $h = merge . (dict "yan_foto" false "yan_p" false) }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
 </section>
 {{ with $mmetin }}
 <section class="one-metin" aria-label="Öne çıkan haberler">{{ range . }}
@@ -98,14 +99,14 @@
   </div>
 </section>
 
-{{ with $one }}<section class="izgara-4" aria-label="Öne çıkanlar">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</section>{{ end }}
+{{ with $one }}<section class="izgara-4" aria-label="Öne çıkanlar">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</section>{{ end }}
 
 
 {{/* Antalya Gündemi + kenar */}}
 <div class="duzen">
   <section class="bolum" aria-labelledby="b-gundem">
     <header class="bolum-bas"><h2 id="b-gundem">Antalya Gündemi</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Gündem") }}">Tümü</a></header>
-    <div class="izgara-3">{{ range $gundem }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
+    <div class="izgara-3">{{ range $gundem }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
   </section>
   <aside class="kenar kenar-yapiskan">
     {{ if site.Data.site.dikey_reklam }}{{ partial "vitrin-dikey.html" . }}{{ end }}
@@ -117,7 +118,7 @@
 <section class="bolum" aria-labelledby="b-ilce">
   <header class="bolum-bas"><h2 id="b-ilce">İlçelerden</h2></header>
   <nav class="ilce-cipler" aria-label="İlçe haberleri">{{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}</nav>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -125,7 +126,7 @@
 {{ with $spor }}
 <section class="bolum" aria-labelledby="b-spor">
   <header class="bolum-bas"><h2 id="b-spor">Spor</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Spor") }}">Tümü</a></header>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -133,7 +134,7 @@
 {{ with $turizm }}
 <section class="bolum" aria-labelledby="b-turizm">
   <header class="bolum-bas"><h2 id="b-turizm">Turizm</h2><a href="{{ partial "terim-url.html" (slice "kategoriler" "Turizm") }}">Tümü</a></header>
-  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
+  <div class="izgara-4">{{ range . }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "ozetli")) }}{{ end }}</div>
 </section>
 {{ end }}
 
@@ -142,7 +143,7 @@
 <section class="bolum sekmeli" aria-labelledby="b-sekme" data-sekme>
   <header class="bolum-bas"><h2 id="b-sekme">Kategoriler</h2></header>
   <div class="sekme-dugmeler" role="tablist">{{ range $i, $s := . }}<button type="button" role="tab" aria-selected="{{ if eq $i 0 }}true{{ else }}false{{ end }}" aria-controls="sk-{{ $i }}" id="skd-{{ $i }}">{{ $s.ad }}</button>{{ end }}</div>
-  {{ range $i, $s := . }}<div class="izgara-4 sekme-panel" role="tabpanel" id="sk-{{ $i }}" aria-labelledby="skd-{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>{{ range $s.h }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg .gorsel }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ else }}{{ $gg = $gg | append .gorsel }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>{{ end }}
+  {{ range $i, $s := . }}<div class="izgara-4 sekme-panel" role="tabpanel" id="sk-{{ $i }}" aria-labelledby="skd-{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>{{ range $s.h }}{{ $h := . }}{{ if or .foto .foto_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $a := "" }}{{ range .alt }}{{ if and (not $a) (not (in $gg (partial "gorsel-anahtar.html" .))) }}{{ $a = . }}{{ end }}{{ end }}{{ if $a }}{{ $h = merge . (dict "gorsel" $a "foto" true "foto_p" false "o_kart" "50% 50%") }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $a) }}{{ else }}{{ $h = merge . (dict "foto" false "foto_p" false) }}{{ end }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "hk.html" (merge $h (dict "tip" "kart")) }}{{ end }}</div>{{ end }}
   <p class="sekme-tumu">{{ range $i, $s := . }}<a href="{{ partial "terim-url.html" (slice "kategoriler" $s.ad) }}" data-sekme-link="{{ $i }}"{{ if ne $i 0 }} hidden{{ end }}>Tüm {{ lower $s.ad }} haberleri ›</a>{{ end }}</p>
 </section>
 {{ end }}
