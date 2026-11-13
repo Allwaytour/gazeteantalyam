@@ -76,6 +76,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1627862079351-7bcdcba0c1f1?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1545214766-04116e13521c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Birleşmiş Milletler Gıda ve Tarım Örgütü bünyesindeki Akdeniz Genel Balıkçılık Komisyonu, İtalya'nın başkenti Roma'da 25 kıyı ülkesinin katılımıyla önemli bir oturum düzenledi. Gerçekleştirilen toplantıda, bölgedeki su ürünleri stoklarını korumak, yasa dışı avcılık faaliyetlerini engellemek ve su ürünleri yetiştiriciliğini çevre standartlarına uygun hale getirmek amacıyla 11 bağlayıcı tavsiye kararı ile 2 karar kabul edildi.
 

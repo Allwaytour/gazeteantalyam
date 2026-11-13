@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen Türkiye İhracatçılar Meclisi Delegeler Çalıştayı'nda, Doğu Anadolu İhracatçılar Birliği yönetimi tarafından Batmanlı ihracatçıların talepleri gündeme taşındı. Etkinliğe Doğu Anadolu İhracatçılar Birliği Yönetim Kurulu Başkanı Ömer Madırlı ve Yönetim Kurulu Üyesi Mehmet Özel katılım sağladı.
 

@@ -73,6 +73,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Beach_Soccer_3.jpg
 baslik_ozgun: Plaj futbolunda şüper finaller Alanya'da başlıyor
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye Futbol Federasyonu ile Alanya Belediyesi iş birliğinde düzenlenen 2026 TFF Plaj Futbolu Ligi Süper Finalleri heyecanı başlıyor. Alanya Belediyesi Uluslararası Plaj Sporları Merkezi'nde organize edilen dev etkinlikte, Türkiye'nin farklı bölgelerinden gelen 13 takım sahne alacak. Şampiyona boyunca oynanacak tüm karşılaşmalar, Plaj Futbolu Milli Takımı Teknik Ekibi tarafından da yakından takip edilecek.
 

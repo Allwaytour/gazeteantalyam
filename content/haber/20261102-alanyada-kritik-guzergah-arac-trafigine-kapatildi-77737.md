@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Alanya_Harbor_view_atop_June_2022.jpg/1280px-Alanya_Harbor_view_atop_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: My-view2U / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-kritik-guzergah-arac-trafigine-kapatildi-77737-d57e3bf3.jpg
+yazim_denetim: y1
 ---
 Alanyaspor Mağazası önünden Karayolları istikametine uzanan güzergahta kapsamlı bir yenileme çalışması hayata geçirildi. Yürütülen projeyle birlikte yolun güney şeridi araç trafiğine kapatıldı. Sürücülerin herhangi bir mağduriyet yaşamaması amacıyla bölgedeki ulaşım, kuzey şeridi üzerinden gidiş ve geliş şeklinde çift yönlü olarak düzenlendi.
 

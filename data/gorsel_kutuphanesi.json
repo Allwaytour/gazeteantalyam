@@ -1449,13 +1449,43 @@
       "yasak": []
      },
      "t": "2026-11-12T18:05:56+03:00"
+    },
+    "r1:e75203bcc1f5:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel manzarasını gösterse de otellere sertifika verilmesi haberi için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": false
+       },
+       {
+        "unsur": "belediye başkanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:59:21+03:00"
     }
    },
    "ozet": {
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-13T06:28:00+03:00",
+   "t": "2026-11-13T16:59:21+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -4504,6 +4534,32 @@
     ]
    },
    "iliski": {
+    "r1:7b837646ee11:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sanatçının arşiv portresi, sergi haberlerinde ana özneyi tanıtmak için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       198,
+       192,
+       958,
+       785
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:02:39+03:00"
+    },
     "r1:e645a5c58230:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -4531,7 +4587,11 @@
      "t": "2026-11-08T14:37:57+03:00"
     }
    },
-   "t": "2026-11-08T14:37:57+03:00",
+   "ozet": {
+    "dh": "b63636666ae0d959",
+    "sha": "3be7e79c0c6c5769b62460b9"
+   },
+   "t": "2026-11-13T17:02:39+03:00",
    "teknik": {
     "doygunluk": 25.6,
     "inen": [
@@ -7096,6 +7156,32 @@
     ]
    },
    "iliski": {
+    "r1:7b837646ee11:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sanatçının arşiv portresi, sergi haberlerinde ana özneyi tanıtmak için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       85,
+       235,
+       995,
+       765
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:02:39+03:00"
+    },
     "r1:e645a5c58230:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -7123,7 +7209,11 @@
      "t": "2026-11-08T14:37:57+03:00"
     }
    },
-   "t": "2026-11-08T14:37:57+03:00",
+   "ozet": {
+    "dh": "33696976c78d8686",
+    "sha": "6fa33afbc3792669a897cefe"
+   },
+   "t": "2026-11-13T17:02:39+03:00",
    "teknik": {
     "doygunluk": 22.1,
     "inen": [
@@ -14401,6 +14491,36 @@
      },
      "t": "2026-11-12T18:05:56+03:00"
     },
+    "r1:e75203bcc1f5:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanında çekilmiş günlük yaşam karesi, otel sertifikasyon haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": false
+       },
+       {
+        "unsur": "belediye başkanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:59:21+03:00"
+    },
     "r1:e95f768ac6bc:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -14453,7 +14573,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-13T16:04:45+03:00",
+   "t": "2026-11-13T16:59:21+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -30048,6 +30168,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/National_Board_of_Revenue.jpg/1280px-National_Board_of_Revenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "36d722a575b3d06d": {
+   "ozet": {
+    "dh": "999386ccc48c8c8c",
+    "sha": "fc2dfa14d9bfee45888119a9"
+   },
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
     "doygunluk": 70.2,
@@ -50683,6 +50807,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:28b1303edbc1:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen Truva atı heykeli ve plastik kirliligi fotoğrafta görünmüyor, sadece genel bir sahil manzarasi var.",
+      "gerekli": [
+       {
+        "unsur": "Truva atı heykeli",
+        "var": false
+       },
+       {
+        "unsur": "plastik atıklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:01:32+03:00"
+    },
     "r1:61f1ee39f211:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -50714,7 +50868,11 @@
      "t": "2026-11-08T13:41:15+03:00"
     }
    },
-   "t": "2026-11-08T13:41:22+03:00",
+   "ozet": {
+    "dh": "9f84f06e9e3f6fdf",
+    "sha": "12c1c84f18a41cd001888322"
+   },
+   "t": "2026-11-13T17:01:32+03:00",
    "teknik": {
     "doygunluk": 50.1,
     "inen": [
@@ -62835,6 +62993,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg/1280px-TC_Sanayi_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7f45142e894fb469": {
+   "ozet": {
+    "dh": "fc3c3c5454343730",
+    "sha": "1868eb3421316253244c49a2"
+   },
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
     "doygunluk": 23.1,
@@ -87408,13 +87570,48 @@
       "yasak": []
      },
      "t": "2026-11-12T18:03:37+03:00"
+    },
+    "r1:e75203bcc1f5:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen sertifika törenini ve katılımcıları doğrudan gösteren ideal bir kare.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": true
+       },
+       {
+        "unsur": "belediye başkanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       345,
+       12,
+       762,
+       959
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:59:21+03:00"
     }
    },
    "ozet": {
     "dh": "8f2d331b1376ea17",
     "sha": "05d905976c233c485a11351c"
    },
-   "t": "2026-11-13T06:28:00+03:00",
+   "t": "2026-11-13T16:59:21+03:00",
    "teknik": {
     "doygunluk": 10.0,
     "inen": [
@@ -100742,6 +100939,27 @@
      },
      "t": "2026-11-08T15:35:24+03:00"
     },
+    "r1:7b837646ee11:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Edward Manet'nin tablosu, güncel bir fotoğraf sergisi haberiyle tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:02:39+03:00"
+    },
     "r1:bb94e4a52c2c:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -100764,7 +100982,11 @@
      "t": "2026-11-08T15:39:16+03:00"
     }
    },
-   "t": "2026-11-08T15:39:16+03:00",
+   "ozet": {
+    "dh": "8dc98b8f8e4ba723",
+    "sha": "4cb8b13a85a5302796f47d54"
+   },
+   "t": "2026-11-13T17:02:39+03:00",
    "teknik": {
     "doygunluk": 27.1,
     "inen": [
@@ -116067,13 +116289,43 @@
       "yasak": []
      },
      "t": "2026-11-13T14:32:48+03:00"
+    },
+    "r1:e75203bcc1f5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir Alanya evini gösteren bu yapı fotoğrafı erişilebilirlik ve sertifika haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": false
+       },
+       {
+        "unsur": "belediye başkanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:59:21+03:00"
     }
    },
    "ozet": {
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-13T15:29:15+03:00",
+   "t": "2026-11-13T16:59:21+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -118936,13 +119188,43 @@
       "yasak": []
      },
      "t": "2026-11-13T14:32:48+03:00"
+    },
+    "r1:e75203bcc1f5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye yakınındaki bir parkı gösteriyor ancak sertifika töreni haberiyle doğrudan ilişkisiz.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": false
+       },
+       {
+        "unsur": "belediye başkanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T16:59:21+03:00"
     }
    },
    "ozet": {
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-13T15:29:15+03:00",
+   "t": "2026-11-13T16:59:21+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -121422,6 +121704,41 @@
      },
      "t": "2026-11-08T19:03:41+03:00"
     },
+    "r1:7b837646ee11:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sergi atmosferini ve sanat eserlerini yansıtan temsilî bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "sergi salonu",
+        "var": true
+       },
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       335,
+       535,
+       650,
+       835
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:02:39+03:00"
+    },
     "r1:e645a5c58230:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -121458,7 +121775,11 @@
      "t": "2026-11-08T14:38:05+03:00"
     }
    },
-   "t": "2026-11-08T19:03:41+03:00",
+   "ozet": {
+    "dh": "93d2ec2cecacac96",
+    "sha": "a800e5204c0901339c10fffb"
+   },
+   "t": "2026-11-13T17:02:39+03:00",
    "teknik": {
     "doygunluk": 41.9,
     "inen": [
@@ -125363,9 +125684,34 @@
       "yasak": []
      },
      "t": "2026-11-08T15:35:24+03:00"
+    },
+    "r1:7b837646ee11:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Başka bir sergiye ait afiş, haberin içeriğiyle çelişir ve okuyucuyu yanıltır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T17:02:39+03:00"
     }
    },
-   "t": "2026-11-08T15:35:24+03:00",
+   "ozet": {
+    "dh": "1d0f2b2b2b2337cd",
+    "sha": "05bfb95438e5cda78c63db1e"
+   },
+   "t": "2026-11-13T17:02:39+03:00",
    "teknik": {
     "doygunluk": 27.2,
     "inen": [
@@ -126195,6 +126541,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Antalya_feeding_bottle.JPG/1280px-Antalya_feeding_bottle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fe80700965beff01": {
+   "ozet": {
+    "dh": "838787c39f38228b",
+    "sha": "3ced9457d1dd83b709b56576"
+   },
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
     "doygunluk": 0.1,
@@ -134272,7 +134622,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T06:28:00+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Alanya Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -134295,6 +134645,7 @@
     "yerler": []
    },
    "konular": [
+    "belediye başkanı",
     "cam bina",
     "koltuk değneği",
     "mavi dosya",
@@ -134317,7 +134668,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-13T06:28:00+03:00",
+   "son_kabul": "2026-11-13T16:59:21+03:00",
    "url": "/images/kurum/f14540534ce1e8d0.jpg",
    "uygun_yerlesimler": [
     "kart",
@@ -136989,7 +137340,7 @@
    "gosterim_ad": "fotoğraf sergisi",
    "ilk_kabul": "2026-11-08T14:38:05+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Krzysztof Popławski / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -137008,11 +137359,13 @@
    },
    "konular": [
     "fotoğraf sergisi",
+    "fotoğraflar",
     "korkuluk",
     "makine",
     "pencere",
     "sanat galerisi",
     "sergi panosu",
+    "sergi salonu",
     "çark",
     "çatı"
    ],
@@ -137030,7 +137383,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T14:38:05+03:00",
+   "son_kabul": "2026-11-13T17:02:39+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hala_g%C5%82%C3%B3wna_Galerii_Elektrownia_w_Czeladzi_z_ekspozycj%C4%85_maszyn_i_urz%C4%85dze%C5%84_pokopalnianych.jpg/1280px-Hala_g%C5%82%C3%B3wna_Galerii_Elektrownia_w_Czeladzi_z_ekspozycj%C4%85_maszyn_i_urz%C4%85dze%C5%84_pokopalnianych.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",

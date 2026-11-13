@@ -174,6 +174,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 - https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+yazim_denetim: y1
 ---
 Antalya'nın spor kulübü Antalyaspor'un tesislerinde daha önce yaşanan elektrik kesintisi çözüme kavuştu. Atilla Vehbi Konuk Tesisleri'nde elektriklerin kesilmesi ve kulübün ödeme girişimlerine rağmen yetkililere ulaşılamadığı yönündeki gelişmelerin ardından süreç olumlu sonuçlandı. Tesislerin elektriği yeniden açıldı.
 

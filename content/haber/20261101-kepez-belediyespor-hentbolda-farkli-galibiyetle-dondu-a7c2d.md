@@ -103,6 +103,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/24/Handball_the_ball.jpg
+yazim_denetim: y1
 ---
 Hentbol Kadınlar 1. Ligi A Grubu'nda yer alan Kepez Belediyespor, dördüncü hafta karşılaşmasında deplasmanda Isparta Gençlik ve Spor Kulübü ile karşı karşıya geldi. Süleyman Demirel Üniversitesi Atatürk Spor Salonu'nda oynanan mücadele boyunca üstün bir performans sergileyen Antalya temsilcisi, sahadan 41-17 galip ayrılarak ligdeki üçüncü galibiyetini hanesine yazdırdı ve puan tablosundaki ikinci sıradaki yerini korudu.
 

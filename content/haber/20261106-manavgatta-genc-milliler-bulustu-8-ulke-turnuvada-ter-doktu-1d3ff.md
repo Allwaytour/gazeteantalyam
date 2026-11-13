@@ -107,6 +107,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın ev sahipliğinde spor turizmini canlandıran uluslararası organizasyonlara bir yenisi daha eklendi. Manavgat ilçesindeki Arslan Zeki Demirci Spor Kompleksi'nde düzenlenen 16 Yaş Altı Uluslararası Hazırlık Turnuvası, farklı ülkelerden genç yetenekleri buluşturdu.
 

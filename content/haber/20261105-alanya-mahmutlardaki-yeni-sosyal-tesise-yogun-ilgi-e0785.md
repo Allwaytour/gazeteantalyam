@@ -107,6 +107,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 - https://upload.wikimedia.org/wikipedia/commons/0/05/Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyesi'nin Mahmutlar Mahallesi'nde hayata geçirdiği yeni sosyal tesis, açılışının hemen ardından hem yerli hem de yabancı ziyaretçilerin akınına uğradı. Geniş sosyal alanları ve bütçe dostu menü seçenekleriyle dikkat çeken merkez, güneşli havalarda bölge halkının en çok tercih ettiği buluşma noktalarından biri haline geldi.
 

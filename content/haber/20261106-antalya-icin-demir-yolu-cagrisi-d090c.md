@@ -162,6 +162,7 @@ gorsel_yerlesim:
   o_kart_p: 2% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Turkey_travel_9848949889498747894.jpg/1280px-Turkey_travel_9848949889498747894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-antalya-icin-demir-yolu-cagrisi-d090c-7ae9ad02.jpg
+yazim_denetim: y1
 ---
 Yeni Parti Antalya Milletvekili Aykut Kaya, kentin uzun süredir demir yolu ağına kavuşmasını beklediğini ifade ederek Ulaştırma ve Altyapı Bakanlığını göreve davet etti. Mecliste bir basın toplantısı düzenleyen Kaya, turizm ve tarım alanında önemli bir konuma sahip olan Antalya'nın hala demir yolu bağlantısının bulunmadığına dikkati çekti.
 

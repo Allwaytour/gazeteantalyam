@@ -67,6 +67,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1740479231174-43522f4eab3f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın merkezi noktalarından birinde yer alan Uygun Center Alışveriş Merkezi'nin otoparkı, uzun süredir çözülemeyen sorunlarla yeniden gündeme geldi. Kent içindeki trafik yoğunluğunu hafifletmesi beklenen otopark alanının kapalı tutulması, bölgedeki sürücüleri ve esnafı mağdur etmeye devam ediyor. Resmi projede otopark olarak planlanan alanın, bazı işletmeler tarafından ticari depo olarak kullanıldığı yönündeki iddialar ise tepkileri artırdı.
 
