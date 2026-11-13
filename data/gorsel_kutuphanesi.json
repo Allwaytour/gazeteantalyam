@@ -20496,13 +20496,43 @@
       ]
      },
      "t": "2026-11-11T02:08:22+03:00"
+    },
+    "r1:c87150c8addd:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki taşkın koruma çalışmalarıyla ilgisiz bir plaj manzarası göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:10+03:00"
     }
    },
    "ozet": {
     "dh": "ffffffffffcd0f1f",
     "sha": "8b45edef947a5ce5f7301555"
    },
-   "t": "2026-11-11T02:08:22+03:00",
+   "t": "2026-11-13T14:31:10+03:00",
    "teknik": {
     "doygunluk": 46.4,
     "inen": [
@@ -23325,6 +23355,102 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Antalya_Museum_Lekythos_3_Classical_period_5793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "2ceba7d58cad3ca3": {
+   "icerik": {
+    "ana_kutu": [
+     120,
+     200,
+     750,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hız treni",
+     "ray",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eğlence merkezindeki hız treni (roller coaster) düzeneği.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tesis tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık haberi",
+     "farkındalık haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a14f7b36919b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesisin bir parçası ancak haberin yeni yıl ve farkındalık temasıyla görsel bir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "eğlence merkezi",
+        "var": true
+       },
+       {
+        "unsur": "renkli ışıklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       120,
+       200,
+       750,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-13T14:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b97975151512c89c",
+    "sha": "2052daf162246db0c6cda7b0"
+   },
+   "t": "2026-11-13T14:29:27+03:00",
+   "teknik": {
+    "doygunluk": 13.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 2735,
+    "kontrast": 78,
+    "medyan": 216,
+    "parlaklik": 165,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyper_Coaster_Land_of_Legends_1.jpg/1280px-Hyper_Coaster_Land_of_Legends_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2d126318aaa52785": {
    "icerik": {
@@ -29195,6 +29321,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg/1280px-Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "37dfafac38a0621e": {
+   "icerik": {
+    "ana_kutu": [
+     340,
+     270,
+     750,
+     760
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "kule",
+     "demir parmaklık",
+     "ağaç",
+     "sarı araç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "The Land of Legends eğlence merkezinin dış cephesi ve girişi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kurumsal haber",
+     "tesis tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık haberi",
+     "olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a14f7b36919b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesisin kendisini gösteriyor ancak haberin odak noktası olan yeni yıl ışıklandırması eksik.",
+      "gerekli": [
+       {
+        "unsur": "eğlence merkezi",
+        "var": true
+       },
+       {
+        "unsur": "renkli ışıklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       340,
+       270,
+       750,
+       760
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-13T14:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0705153469e15112",
+    "sha": "86d1008ca1885c588a30c885"
+   },
+   "t": "2026-11-13T14:29:27+03:00",
+   "teknik": {
+    "doygunluk": 36.7,
+    "inen": [
+     500,
+     290
+    ],
+    "karanlik_oran": 0.246,
+    "keskinlik": 2133,
+    "kontrast": 77,
+    "medyan": 146,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg/1280px-The_Land_of_Legends_670DSC_0573_%2848212748826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "386afa033e6ba774": {
    "icerik": {
     "ana_kutu": [
@@ -32419,6 +32644,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Stora_P%C3%B6lsan_%28PICT9775k%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "4131f5a44dbb28fc": {
+   "ozet": {
+    "dh": "321a8d0d3e8d1aa6",
+    "sha": "8d605be4fe6d41160adf584a"
+   },
+   "t": "2026-11-13T14:29:02+03:00",
+   "teknik": {
+    "doygunluk": 3.5,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.555,
+    "keskinlik": 690,
+    "kontrast": 73,
+    "medyan": 26,
+    "parlaklik": 68,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/The_land_of_legends.jpg/1280px-The_land_of_legends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4133847b2bd76b3e": {
    "icerik": {
     "ana_kutu": [
@@ -35129,6 +35375,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Iceland_Air_Police_operations_%286392394%29.jpg/1280px-Iceland_Air_Police_operations_%286392394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "468c8a7101ec9e03": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     180,
+     800,
+     360
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "kapı",
+     "çit",
+     "çim alan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eğlence merkezinin giriş kapısı ve çevresi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tesis tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık haberi",
+     "olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a14f7b36919b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesisin genel bir görünümü, haberin içeriğiyle doğrudan bir görsel bağ kurmuyor.",
+      "gerekli": [
+       {
+        "unsur": "eğlence merkezi",
+        "var": true
+       },
+       {
+        "unsur": "renkli ışıklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       180,
+       800,
+       360
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk",
+       "hastane ortamı"
+      ]
+     },
+     "t": "2026-11-13T14:29:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ffffdfcfcfd7840c",
+    "sha": "5e46ca85563aed73f7e82f79"
+   },
+   "t": "2026-11-13T14:29:27+03:00",
+   "teknik": {
+    "doygunluk": 42.2,
+    "inen": [
+     500,
+     211
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 1606,
+    "kontrast": 67,
+    "medyan": 145,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/The_Land_of_Legends_670DSC_0565_%2848212811512%29.jpg/1280px-The_Land_of_Legends_670DSC_0565_%2848212811512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "46b414532edeb259": {
    "icerik": {
@@ -40281,6 +40624,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg/1280px-Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "51634f1d09d1ddb1": {
+   "ozet": {
+    "dh": "60c1c06a4042504d",
+    "sha": "99acf33ba796de2ef60fd1fa"
+   },
+   "t": "2026-11-13T14:29:45+03:00",
+   "teknik": {
+    "doygunluk": 28.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.466,
+    "keskinlik": 2494,
+    "kontrast": 46,
+    "medyan": 53,
+    "parlaklik": 62,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1785062381576-e71caad5e3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cml2ZXJiZWQlMjBjb25zdHJ1Y3Rpb258ZW58MXwwfHx8MTc5NDU2OTM4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "5178fbad129abb06": {
    "icerik": {
     "ana_kutu": [
@@ -44828,6 +45192,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG/1280px-Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5b6cea1ab45516fe": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     290,
+     560,
+     420
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "iş makinesi",
+     "nehir yatağı",
+     "köprü",
+     "ağaç",
+     "çöp yığını",
+     "inek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir yatağında inşaat çalışmaları, iş makinesi ve köprü",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "altyapı çalışması",
+     "çevre kirliliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi portresi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c87150c8addd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dere yatağı ve iş makinesi görülüyor ancak yabancı bir ülkeye (Hindistan) ait olduğu için yerel haberde yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       290,
+       560,
+       420
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f3b9c1c168ebfc3",
+    "sha": "8ecf0061fb58df0cc0771e15"
+   },
+   "t": "2026-11-13T14:31:06+03:00",
+   "teknik": {
+    "doygunluk": 28.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 4846,
+    "kontrast": 57,
+    "medyan": 102,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Gomti_Riverfront_Construction_on_Actual_Riverbed.jpg/1280px-Gomti_Riverfront_Construction_on_Actual_Riverbed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5b876f951175b7c7": {
    "ozet": {
     "dh": "dcdcf2f9ccdc9cac",
@@ -47182,13 +47644,43 @@
       ]
      },
      "t": "2026-11-11T02:08:22+03:00"
+    },
+    "r1:c87150c8addd:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kumluca'nın havadan genel coğrafi görünümüdür, dereler ve çalışma detayı seçilememektedir.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:06+03:00"
     }
    },
    "ozet": {
     "dh": "0f1f0f0d394b1b5d",
     "sha": "674265f946cf02ab1fb4bb93"
    },
-   "t": "2026-11-11T02:08:22+03:00",
+   "t": "2026-11-13T14:31:06+03:00",
    "teknik": {
     "doygunluk": 25.9,
     "inen": [
@@ -53304,6 +53796,109 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Yacht_rent_in_turkey_03112023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "6fd9dc160c767047": {
+   "icerik": {
+    "ana_kutu": [
+     121,
+     203,
+     856,
+     785
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "masa",
+     "kalem",
+     "evrak",
+     "koltuk",
+     "telefon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ofiste masada oturan ve belge imzalayan adam",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "resmi imza törenleri",
+     "lider portreleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "yerel memur atamaları",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      190,
+      442,
+      437,
+      608
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:62d3f994acc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotoğrafta yabancı bir siyasi lider ve makam odası yer alıyor, haberle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "resmi kurum",
+        "var": true
+       },
+       {
+        "unsur": "toplantı odası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:32:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "692d2c2969499b07",
+    "sha": "f3f43b30b1bc4e7d59221adc"
+   },
+   "t": "2026-11-13T14:32:11+03:00",
+   "teknik": {
+    "doygunluk": 33.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.296,
+    "keskinlik": 1345,
+    "kontrast": 72,
+    "medyan": 85,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/President_Trump_at_his_desk_%2846451130962%29.jpg/1280px-President_Trump_at_his_desk_%2846451130962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "708f55f54689b651": {
    "icerik": {
@@ -64625,11 +65220,82 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/DIDSON_Power_Generator_%286286363482%29.jpg/1280px-DIDSON_Power_Generator_%286286363482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "86736020197829e4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "kaya",
+     "agac",
+     "koy"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Koy ve kayalık deniz manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "gezi",
+     "dogaturu"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapi calismasi",
+     "taskin haberi",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c87150c8addd:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen ıslah çalışmaları yerine turistik bir koy manzarası içermektedir.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:10+03:00"
+    }
+   },
    "ozet": {
     "dh": "74dc94103233954e",
     "sha": "f172fd5986e329b532a1f09e"
    },
-   "t": "2026-11-11T02:08:23+03:00",
+   "t": "2026-11-13T14:31:10+03:00",
    "teknik": {
     "doygunluk": 30.8,
     "inen": [
@@ -69501,6 +70167,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Self_Service_KVM_Touch_Screen_Display_.jpg/1280px-Self_Service_KVM_Touch_Screen_Display_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9045e2523c5247b9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "avize",
+     "halı",
+     "sehpa",
+     "kanepe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ve otantik eşyalarla döşenmiş geniş bir oda",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih haberleri",
+     "müze tanıtımı",
+     "dekorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel memur atamaları",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:62d3f994acc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi siyah-beyaz bir oda fotoğrafı güncel bir resmi kurum haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "resmi kurum",
+        "var": false
+       },
+       {
+        "unsur": "toplantı odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:32:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e36cd9ac94e4caec",
+    "sha": "9247b40cae7e3f2fe2cac336"
+   },
+   "t": "2026-11-13T14:32:11+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     398
+    ],
+    "karanlik_oran": 0.231,
+    "keskinlik": 2056,
+    "kontrast": 55,
+    "medyan": 90,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Turkish_room_LCCN2012647915.jpg/1280px-Turkish_room_LCCN2012647915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "904d4b7b12a010b0": {
    "icerik": {
     "ana_kutu": [
@@ -71290,6 +72052,96 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1571845599234-790a035f6109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMGNoYW5nZSUyMGdsb3NzYXJ5fGVufDF8MHx8fDE3OTQzMzQxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "94551dd444c600aa": {
+   "icerik": {
+    "ana_kutu": [
+     580,
+     300,
+     770,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "nehir yatağı",
+     "kayalar",
+     "ağaçlar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kayalık dere yatağı ve ormanlık alan",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doğa haberi",
+     "nehir manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "inşaat haberi",
+     "siyasetçi portresi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c87150c8addd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dere yatağı var ancak herhangi bir taşkın koruma ya da ıslah çalışması (iş makinesi) görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f3bb39fc21398a3",
+    "sha": "53450cae8fdf012c5afe3a87"
+   },
+   "t": "2026-11-13T14:31:06+03:00",
+   "teknik": {
+    "doygunluk": 11.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.415,
+    "keskinlik": 1907,
+    "kontrast": 64,
+    "medyan": 55,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1785062381399-135b96237525?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cml2ZXJiZWQlMjBjb25zdHJ1Y3Rpb258ZW58MXwwfHx8MTc5NDU2OTM4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "94d38ab59a80a1f3": {
    "icerik": {
@@ -75473,6 +76325,102 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Panoramio_-_V%26A_Dudush_-_Hotel_Kremlin_Palace_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "9d700a0288423b94": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "avize",
+     "halı",
+     "sehpa",
+     "kanepe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ve otantik eşyalarla döşenmiş geniş bir oda",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih haberleri",
+     "müze tanıtımı",
+     "dekorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel memur atamaları",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:62d3f994acc2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi siyah-beyaz bir oda fotoğrafı güncel bir memur yemin töreni haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "resmi kurum",
+        "var": false
+       },
+       {
+        "unsur": "toplantı odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "stadyum"
+      ]
+     },
+     "t": "2026-11-13T14:32:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e36cd9ac94e4caec",
+    "sha": "121abd38423ca42424389a22"
+   },
+   "t": "2026-11-13T14:32:11+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     1280,
+     1018
+    ],
+    "karanlik_oran": 0.222,
+    "keskinlik": 1359,
+    "kontrast": 53,
+    "medyan": 90,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Turkish_room_LCCN2012647915.tif/lossy-page1-1280px-Turkish_room_LCCN2012647915.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9d9fce613d5be7e4": {
    "t": "2026-11-08T12:10:57+03:00",
    "teknik": {
@@ -76801,6 +77749,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a1f0e6ed7c1cd05b": {
+   "icerik": {
+    "ana_kutu": [
+     172,
+     0,
+     814,
+     608
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "iş makinesi",
+     "kepçe",
+     "dere yataǸı",
+     "su",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dere yataǸında çalışan sarı iş makinesi",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat",
+     "çevre",
+     "belediye"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c87150c8addd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dere ıslah ve taşkın koruma çalışmalarını temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "dere yataǸı",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       172,
+       0,
+       814,
+       608
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "351c1e2cd8db9391",
+    "sha": "98e8c004eedaf9577b787592"
+   },
+   "t": "2026-11-13T14:31:24+03:00",
+   "teknik": {
+    "doygunluk": 37.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 4178,
+    "kontrast": 68,
+    "medyan": 120,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Working_on_the_bed_of_the_gave_de_Pau_5.jpg/1280px-Working_on_the_bed_of_the_gave_de_Pau_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a2472fb3bda0e496": {
    "icerik": {
@@ -97856,6 +98902,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cdccd609978ec3b6": {
+   "ozet": {
+    "dh": "d36753233b33638e",
+    "sha": "020cf556ce55b695cfda06fa"
+   },
+   "t": "2026-11-13T14:32:26+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     303
+    ],
+    "karanlik_oran": 0.458,
+    "keskinlik": 3083,
+    "kontrast": 58,
+    "medyan": 54,
+    "parlaklik": 73,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Alanya_Interior_of_a_main_room_in_a_rich_house_028.jpg/1280px-Alanya_Interior_of_a_main_room_in_a_rich_house_028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cde208d61028affa": {
    "icerik": {
     "ana_kutu": [
@@ -101864,6 +102931,125 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%C3%9Clker_Sports_Arena-_Fenerbah%C3%A7e_vs._Armani_Milano.jpg/1280px-%C3%9Clker_Sports_Arena-_Fenerbah%C3%A7e_vs._Armani_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "da42a3ba219e408e": {
+   "icerik": {
+    "ana_kutu": [
+     246,
+     120,
+     755,
+     706
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 21,
+    "nesneler": [
+     "ev",
+     "insan",
+     "agac",
+     "pencere",
+     "zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeni yapılmış prefabrik evin önünde poz veren kalabalık grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sosyal yardim",
+     "belediye projeleri",
+     "konut teslimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      428,
+      77,
+      608,
+      117
+     ],
+     [
+      418,
+      128,
+      621,
+      192
+     ],
+     [
+      431,
+      186,
+      616,
+      237
+     ],
+     [
+      430,
+      232,
+      605,
+      290
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d0491aade562:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen yeni yuva ve teslim töreni doğrudan görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "ev",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       246,
+       120,
+       755,
+       706
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:32:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d1f3be929283645",
+    "sha": "806c8ae927f3f47b29d9dff2"
+   },
+   "t": "2026-11-13T14:32:48+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     1000,
+     667
+    ],
+    "karanlik_oran": 0.237,
+    "keskinlik": 2694,
+    "kontrast": 72,
+    "medyan": 101,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b1287d894ca30d3e.jpg"
   },
   "da6d77f71d35028f": {
    "ozet": {
@@ -109919,13 +111105,43 @@
       "yasak": []
      },
      "t": "2026-11-12T03:26:31+03:00"
+    },
+    "r1:c87150c8addd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kumluca genel görünümüdür, taşkın koruma çalışmaları veya dere yatağı görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:06+03:00"
     }
    },
    "ozet": {
     "dh": "01271f8f4f761a93",
     "sha": "22df2c96242f57a27485b1aa"
    },
-   "t": "2026-11-12T03:26:31+03:00",
+   "t": "2026-11-13T14:31:06+03:00",
    "teknik": {
     "doygunluk": 27.7,
     "inen": [
@@ -111014,13 +112230,39 @@
       ]
      },
      "t": "2026-11-12T03:57:15+03:00"
+    },
+    "r1:d0491aade562:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi Alanya evi görseli vardır ancak haberdeki yeni teslim edilen evle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "ev",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:32:48+03:00"
     }
    },
    "ozet": {
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-13T09:28:33+03:00",
+   "t": "2026-11-13T14:32:48+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -113831,13 +115073,39 @@
       ]
      },
      "t": "2026-11-12T03:57:15+03:00"
+    },
+    "r1:d0491aade562:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye parkı manzarası haberde verilen yeni ev konusuyla ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "ev",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:32:48+03:00"
     }
    },
    "ozet": {
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-13T09:28:33+03:00",
+   "t": "2026-11-13T14:32:48+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -114628,6 +115896,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Soviet_Pioneer_white_dress_uniform_in_Moscow_State_Historical_Museum.jpg/1280px-Soviet_Pioneer_white_dress_uniform_in_Moscow_State_Historical_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f442a86949764271": {
+   "icerik": {
+    "ana_kutu": [
+     21,
+     88,
+     939,
+     560
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sedir",
+     "halı",
+     "yastık",
+     "sehpa",
+     "dolap",
+     "duvar süsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel osmanli evinin ic mekan gorunumu ve sedirler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi evler",
+     "kultur",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel sosyal yardim",
+     "belediye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d0491aade562:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi iç mekan görüntüsü, güncel bir ihtiyaç sahibi aileye ev verilmesi haberiyle uyumsuzdur.",
+      "gerekli": [
+       {
+        "unsur": "ev",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:32:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "313534343400070f",
+    "sha": "884234973f21f473d15c37a5"
+   },
+   "t": "2026-11-13T14:32:48+03:00",
+   "teknik": {
+    "doygunluk": 20.6,
+    "inen": [
+     500,
+     318
+    ],
+    "karanlik_oran": 0.396,
+    "keskinlik": 2981,
+    "kontrast": 77,
+    "medyan": 65,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alanya_Interior_of_a_main_room_in_a_rich_house_029.jpg/1280px-Alanya_Interior_of_a_main_room_in_a_rich_house_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f4799dc1ecbc4e33": {
    "icerik": {
@@ -116632,6 +117989,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Aeronauts_Screening_at_Telluride_Film_Festival_2019.jpg/1280px-Aeronauts_Screening_at_Telluride_Film_Festival_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f73ba74d18c4cd77": {
+   "icerik": {
+    "ana_kutu": [
+     460,
+     285,
+     520,
+     370
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "iş makinesi",
+     "kamyon",
+     "vinç",
+     "dere yatağı",
+     "korkuluk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir kenarında hafriyat ve inşaat çalışmaları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "altyapı çalışması"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi portresi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c87150c8addd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dere ıslah çalışması ve iş makineleri görülüyor, ancak yabancı bir ülkeye ait.",
+      "gerekli": [
+       {
+        "unsur": "dere yatağı",
+        "var": true
+       },
+       {
+        "unsur": "iş makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       460,
+       285,
+       520,
+       370
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d2d230f2fd7d0e6",
+    "sha": "cfaab10f1c9ece5b7279ba18"
+   },
+   "t": "2026-11-13T14:31:06+03:00",
+   "teknik": {
+    "doygunluk": 22.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.136,
+    "keskinlik": 2713,
+    "kontrast": 68,
+    "medyan": 135,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Gomti_riverfront-_Reclaimed_riverbed_and_flood_plain.jpg/1280px-Gomti_riverfront-_Reclaimed_riverbed_and_flood_plain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f77db9d2d37b71ce": {
    "icerik": {
@@ -127504,6 +128957,68 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "a1f0e6ed7c1cd05b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2600,
+    1730
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2009-06-09",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Dere yataǸında çalışan sarı iş makinesi",
+   "gosterim_ad": "taşkın koruma çalışması",
+   "ilk_kabul": "2026-11-13T14:31:24+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Herbythyme / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Herbythyme",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Working_on_the_bed_of_the_gave_de_Pau_5.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaçlar",
+    "dere yataǸı",
+    "iş makinesi",
+    "kepçe",
+    "su"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Working_on_the_bed_of_the_gave_de_Pau_5.jpg/500px-Working_on_the_bed_of_the_gave_de_Pau_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "inşaat",
+    "çevre",
+    "belediye"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-13T14:31:24+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Working_on_the_bed_of_the_gave_de_Pau_5.jpg/1280px-Working_on_the_bed_of_the_gave_de_Pau_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "a28063c77c851305": {
    "alt_tur": "nesne",
    "boyut": [
@@ -129655,6 +131170,73 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "da42a3ba219e408e": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    667
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Yeni yapılmış prefabrik evin önünde poz veren kalabalık grup",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T14:32:48+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/ayse-teyze-ve-cocuklari-yeni-yuvalarina-kavustu/126650"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "agac",
+    "ev",
+    "insan",
+    "pencere",
+    "zemin"
+   ],
+   "kucuk": "/images/kurum/b1287d894ca30d3e.jpg",
+   "kullanilabilir": [
+    "sosyal yardim",
+    "belediye projeleri",
+    "konut teslimi"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "spor",
+    "ekonomi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T14:32:48+03:00",
+   "url": "/images/kurum/b1287d894ca30d3e.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "db0bb455c7a6f334": {
    "alt_tur": "nesne",
