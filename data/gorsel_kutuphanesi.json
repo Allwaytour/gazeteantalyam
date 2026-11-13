@@ -1020,6 +1020,27 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:9b4dc3709137:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanının genel manzarasını gösterir, otel sertifikaları törenini yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:28:00+03:00"
+    },
     "r1:b52ed87588f6:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -1055,7 +1076,7 @@
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-12T18:05:56+03:00",
+   "t": "2026-11-13T06:28:00+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -13327,6 +13348,27 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:9b4dc3709137:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanında çekilmiş genel bir sahil karesidir, törenle bağı yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:28:00+03:00"
+    },
     "r1:b52ed87588f6:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -13388,7 +13430,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-12T18:05:56+03:00",
+   "t": "2026-11-13T06:28:00+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -80296,6 +80338,41 @@
      },
      "t": "2026-11-13T03:02:47+03:00"
     },
+    "r1:9b4dc3709137:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen sertifika törenini ve katılımcıları birebir göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "sertifika töreni",
+        "var": true
+       },
+       {
+        "unsur": "otel temsilcileri ve belediye başkanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       346,
+       17,
+       764,
+       960
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:28:00+03:00"
+    },
     "r1:b52ed87588f6:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -80336,7 +80413,7 @@
     "dh": "8f2d331b1376ea17",
     "sha": "05d905976c233c485a11351c"
    },
-   "t": "2026-11-13T03:02:52+03:00",
+   "t": "2026-11-13T06:28:00+03:00",
    "teknik": {
     "doygunluk": 10.0,
     "inen": [
@@ -107527,6 +107604,27 @@
      },
      "t": "2026-11-11T16:53:03+03:00"
     },
+    "r1:9b4dc3709137:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir evi gösterir; otellere verilen engelsiz turizm sertifikası haberiyle alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:28:00+03:00"
+    },
     "r1:b29d43268e0b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -107561,7 +107659,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-12T03:57:15+03:00",
+   "t": "2026-11-13T06:28:00+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -110263,6 +110361,27 @@
      },
      "t": "2026-11-11T16:53:03+03:00"
     },
+    "r1:9b4dc3709137:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyenin parkını gösterir, haberde geçen sertifika töreniyle ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T06:28:00+03:00"
+    },
     "r1:b29d43268e0b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -110297,7 +110416,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-12T03:57:15+03:00",
+   "t": "2026-11-13T06:28:00+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -124416,6 +124535,72 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
+  "afbba5f5bfd8ebf9": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    750
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bina girişinde ellerinde dosyalarla poz veren kalabalık bir grup insan.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T06:28:00+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/alanya-da-erisilebilir-otel-donemi-15-yillik-hayal-gercek-oldu/126649"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "cam bina",
+    "koltuk değneği",
+    "mavi dosya",
+    "otel temsilcileri ve belediye başkanı",
+    "sertifika töreni"
+   ],
+   "kucuk": "/images/kurum/f14540534ce1e8d0.jpg",
+   "kullanilabilir": [
+    "belediye haberleri",
+    "sertifika töreni",
+    "erişilebilirlik projeleri"
+   ],
+   "kullanilamaz": [
+    "spor karşılaşması",
+    "magazin",
+    "trafik kazası",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T06:28:00+03:00",
+   "url": "/images/kurum/f14540534ce1e8d0.jpg",
+   "uygun_yerlesimler": [
     "kart",
     "detay"
    ],
