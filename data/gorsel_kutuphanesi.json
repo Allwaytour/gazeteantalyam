@@ -122281,6 +122281,107 @@
    },
    "url": "https://images.unsplash.com/photo-1558996260-4bac67dbd110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "f933189b23f49f4e": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     580,
+     610,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "agac",
+     "dag",
+     "bulut",
+     "baraj golu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Daglik ve ormanlik alandan uzaklardaki bir baraj golune genel bakis",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doga manzarasi",
+     "baraj tanitimi",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "cop sorunu haberi",
+     "kirlilik arastirmasi",
+     "COP31 zirvesi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:294bfdc40f5b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotografta Karacaoren Baraj Golu uzaktan gorunuyor ancak haberin ana unsuru olan copler secilemiyor, ayrica tarih damgasi bulunuyor.",
+      "gerekli": [
+       {
+        "unsur": "baraj gölü",
+        "var": true
+       },
+       {
+        "unsur": "su kıyısı",
+        "var": false
+       },
+       {
+        "unsur": "atıklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       550,
+       600,
+       605,
+       745
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:58:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f1f3f9f4e0ed6c6",
+    "sha": "5b8b0bd8eba76da75c5f8e27"
+   },
+   "t": "2026-11-13T15:58:45+03:00",
+   "teknik": {
+    "doygunluk": 33.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.446,
+    "keskinlik": 952,
+    "kontrast": 91,
+    "medyan": 98,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/KARACA%C3%96REN_BARAJ_G%C3%96L%C3%9C_-_panoramio.jpg/1280px-KARACA%C3%96REN_BARAJ_G%C3%96L%C3%9C_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f936cd77b0c55bac": {
    "icerik": {
     "ana_kutu": [
