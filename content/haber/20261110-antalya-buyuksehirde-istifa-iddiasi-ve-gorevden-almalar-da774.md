@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi'nde tutuklu bulunan Muhittin Böcek ile Başkan Vekili Büşra Özdemir arasında parti değişikliği konusunda fikir ayrılıkları yaşandığı iddiaları gündemdeki yerini koruyor. Süreç devam ederken Büşra Özdemir tarafından belediye bünyesinde bazı görevden alma kararları uygulandı.
 

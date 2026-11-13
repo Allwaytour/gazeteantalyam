@@ -80,6 +80,7 @@ metin_onarim:
   kaynak: https://www.mansetalanya.com/kleopatra-plajindan-canli-yayin-manset-alanya-strongman-heyecanini-ekranlara-tasidi
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+yazim_denetim: y1
 ---
 Alanya'nın tanıtımı ve spor turizmi açısından önem taşıyan uluslararası bir spor organizasyonu düzenlendi. Dünyanın çeşitli ülkelerinden gelen sporcuların katıldığı etkinlikte güçlerini ve dayanıklılıklarını sergileyen yarışmacılar, izleyicilere heyecan dolu anlar yaşattı. Dünyaca ünlü Kleopatra Plajı'nda gerçekleştirilen mücadeleler, kentin bu tür büyük organizasyonlara ev sahipliği yapma potansiyelini bir kez daha gözler önüne serdi.
 

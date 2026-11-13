@@ -77,6 +77,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya’nın Muratpaşa ilçesinde yer alan Güzeloba Mahallesi sınırlarındaki Yamansaz Doğal Sit Alanı için hazırlanan yeni imar planı değişiklikleri Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylandı. Sürdürülebilir Koruma ve Kontrollü Kullanım Alanı sınırlarını kapsayan 1/25.000, 1/5.000 ve 1/1.000 ölçekli planlar bir aylık süreyle askıya çıkarıldı. Bölgeye getirilen kullanım koşulları ve yapılaşma şartları tartışmalara neden oldu.
 

@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen Uluslararası Mental Aritmetik Olimpiyatı, dünyanın farklı bölgelerinden gelen çocukları bir araya getirdi. 31 Ekim'de gerçekleştirilen organizasyonda, 15 farklı ülkeden katılım sağlayan öğrenciler zihinsel hesaplama becerilerini sergileme fırsatı buldu.
 

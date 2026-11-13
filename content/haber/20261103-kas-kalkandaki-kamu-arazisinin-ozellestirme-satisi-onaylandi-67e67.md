@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/6/62/Ka%C5%9F%2C_A%C4%9Fustos_2015_Liman%27dan_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
 - https://upload.wikimedia.org/wikipedia/commons/9/95/Ka%C5%9F_harbour_6106.jpg
+yazim_denetim: y1
 ---
 Antalya'nın turizm merkezlerinden Kaş ilçesinde yer alan kamu mülkiyetindeki taşınmazların özelleştirilmesine ilişkin süreç resmiyet kazandı. Resmi Gazete'nin yayımlanan sayısında yer alan Özelleştirme İdaresi Başkanlığı tebliğine göre, Karayolları Genel Müdürlüğü mülkiyetindeki parsellerin satış işlemi onaylandı.
 

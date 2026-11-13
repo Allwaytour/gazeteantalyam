@@ -81,6 +81,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Yıldız Holding, kadınların ekonomik hayattaki yerini güçlendirmeyi hedefleyen yeni döneme ait taahhütlerini Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı'nda açıkladı. Ülker, Besler, ŞOK Marketler, Bizim Toptan ve Seç Marketler'in ortaklaşa belirlediği bu hedefler kapsamında kadın çiftçilerin üretim imkanlarının artırılması, üretici kadınlarla ticari bağların güçlendirilmesi ve girişimci kadınlara sunulan desteklerin genişletilmesi amaçlanıyor.
 

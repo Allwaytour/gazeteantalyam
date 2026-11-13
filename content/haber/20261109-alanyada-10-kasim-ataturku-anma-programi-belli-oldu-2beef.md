@@ -66,6 +66,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 100%
   url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk, vefatının 88'inci yıl dönümünde Alanya'da çeşitli tören ve etkinliklerle anılacak. Alanya Kaymakamlığı ve İlçe Milli Eğitim Müdürlüğü koordinasyonunda hazırlanan program, 10 Kasım Salı günü sabah saat 09.00'da Atatürk Anıtı'nda gerçekleştirilecek çelenk sunum töreniyle başlayacak.
 

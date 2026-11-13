@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-alanyanin-il-olmasi-halinde-9-ilceden-olusan-yeni-haritasi-g--d4840518.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde il ve ilçe sayılarına yönelik gündeme gelen projeler, Alanya'nın il statüsü kazanmasına ilişkin idari yapılanma tartışmalarını hareketlendirdi. Konuya ilişkin değerlendirmelerde Alanya'nın il olabilecek ilçeler arasında gösterilmesi, bölgedeki beklentileri artırdı.
 

@@ -107,6 +107,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) Yönetim Kurulu Başkanı Ercan Yavaş ve dernek üyeleri, Türkiye Büyük Millet Meclisi'ni ziyaret etti. Gerçekleştirilen temaslarda farklı siyasi partilerin temsilcileriyle görüş alışverişinde bulunuldu.
 

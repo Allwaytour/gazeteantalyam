@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 2027 UEFA Kadınlar Uluslar Ligi hazırlıklarını sürdüren Kadın A Milli Futbol Takımı, Antalya'da kampa girerek iki hazırlık maçı yapacak. Teknik Direktör Necla Güngör Kıragası yönetimindeki ay-yıldızlı ekip, Afrika temsilcisi Kamerun ile karşı karşıya gelecek.
 

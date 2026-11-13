@@ -69,6 +69,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG/1280px-%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Ülke genelinde zorunlu kış lastiği uygulaması 15 Kasım 2026 Pazar günü başlayacak ve 15 Nisan 2027 tarihine kadar sürecek. Bu kapsamda belirli araç gruplarındaki sürücülerin kış lastiği takması zorunlu tutulacak.
 

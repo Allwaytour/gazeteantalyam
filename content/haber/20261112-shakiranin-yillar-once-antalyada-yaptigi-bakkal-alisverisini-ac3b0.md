@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1578916171728-46686eac8d58?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Dünyaca ünlü şarkıcı Shakira'nın kucağında bakliyat paketleriyle bir bakkaldan çıktığı anları gösteren fotoğraf sosyal medyada yeniden gündem oldu. Yıllar önce çekilen bu karenin arkasındaki detaylar merak edilirken, söz konusu ziyaretin geçmiş yıllara dayandığı ortaya çıktı.
 

@@ -120,6 +120,7 @@ metin_onarim:
   kaynak: https://www.akdenizgercek.com.tr/antalya/cop31-oncesi-cevreci-adim-sunexpressten-gonullu-saf-katkisi/388783
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+yazim_denetim: y1
 ---
 Antalya'nın ev sahipliğinde düzenlenecek COP31 öncesinde havayolu sektöründe çevre dostu yeni adımlar atılmaya devam ediliyor. Bu kapsamda SunExpress, yolcuların uçuş kaynaklı karbon emisyonlarını düşürmelerini sağlamak amacıyla gönüllü Sürdürülebilir Havacılık Yakıtı katkısı sunan yeni bir uygulamayı hayata geçirdi. Konferans öncesi başlatılan bu çevreci uygulamanın zirvenin ardından da sürdürüleceği açıklandı.
 

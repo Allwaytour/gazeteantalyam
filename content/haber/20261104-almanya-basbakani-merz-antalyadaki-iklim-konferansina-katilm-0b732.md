@@ -110,6 +110,7 @@ etiketler:
 - Almanya Çevre Bakanlığı
 - Alman İklim Uzmanlar Konseyi
 gorsel_yedek: /images/haber-gorsel/20261104-almanya-basbakani-merz-antalyadaki-iklim-konferansina-katilm--cf3c3fcc.jpg
+yazim_denetim: y1
 ---
 Almanya Başbakanı Friedrich Merz, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Konferansı COP31'e gitmeme kararı aldı. Federal Hükümet Sözcü Yardımcısı Steffen Meyer, Berlin'de yaptığı açıklamada, davet için teşekkür edildiğini fakat farklı sorumluluklar ve takvimler sebebiyle bu katılımın gerçekleşemeyeceğini bildirdi. Almanya'da son beş yılda görev yapan başbakanların bu tür zirvelere düzenli olarak katıldığı bilinirken, Merz geçtiğimiz yıl Brezilya'nın Belem kentindeki toplantıda yer almıştı.
 

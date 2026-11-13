@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da yirmi beşincisi düzenlenecek Growtech Fuarı, bu yıl önemli bir yeniliğe ev sahipliği yapmaya hazırlanıyor. Yirmi dört ile yirmi yedi Kasım tarihlerinde ANFAŞ Fuar Merkezi'nde kapılarını açacak olan organizasyonda, tıbbi kenevir üretimi için özel bir bölüm oluşturulacak. Türkiye'de belirli illerde kontrollü üretimine izin verilen bitki, sağlık alanındaki kullanımı ve alternatif ürün arayışındaki çiftçiler için taşıdığı potansiyelle dikkat çekiyor.
 

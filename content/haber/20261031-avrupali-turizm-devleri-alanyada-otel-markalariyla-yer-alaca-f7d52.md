@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+yazim_denetim: y1
 ---
 Alman turizm şirketleri Alltours ile DER Touristik, kendi otel markalarıyla Alanya'da faaliyet göstermeye hazırlanıyor. Bu gelişmenin bölgenin uluslararası tanıtımına ve turist profilinin çeşitlenmesine katkı sunması beklenirken, yerel işletmeler açısından rekabetin artabileceği ifade ediliyor.
 

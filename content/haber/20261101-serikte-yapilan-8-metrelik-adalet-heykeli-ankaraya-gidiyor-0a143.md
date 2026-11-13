@@ -47,6 +47,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-serikte-yapilan-8-metrelik-adalet-heykeli-ankaraya-gidiyor-0a-9f43eec2.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesinde D-400 kara yolu üzerindeki atölyesinde çalışmalarını yürüten heykeltıraş Utku Karakurt, Ankara'daki bir iş insanının özel yaşam alanı için yeni eserler tasarladı. Bu kapsamda hazırlanan ve yaklaşık dört ay süren yoğun bir çalışmanın ardından tamamlanan adalet heykeli, sekiz metre yüksekliğe ulaştı. Eserin, Türkiye'nin en büyük adalet heykeli olduğu ifade edilirken, yapıtın hemen yanında yine aynı sanatçı tarafından tasarlanan özgürlük heykelinin de yer alacağı belirtildi.
 

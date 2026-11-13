@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-antalyasporda-asbaskan-lokman-arslan-gorevinden-istifa-etti-4-ecf3f6c2.jpg
+yazim_denetim: y1
 ---
 Trendyol 1. Lig takımlarından Antalyaspor'da yönetim kademesinde sürpriz bir ayrılık yaşandı. Mustafa Ergün başkanlığındaki Antalyaspor A.Ş. Yönetim Kurulu'nda asbaşkan olarak görev yapan Lokman Arslan'ın görevini bıraktığı belirtildi. Arslan'ın istifa kararını kulüp yönetimine doğrudan iletmek yerine noter vasıtasıyla gönderdiği dilekçeyle bildirmesi dikkati çekti.
 

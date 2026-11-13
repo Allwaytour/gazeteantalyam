@@ -174,6 +174,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da düzenlenecek COP31 İklim Zirvesi kapsamında, kentte görev alacak trafik personeline yönelik bir bilgilendirme toplantısı gerçekleştirildi. Muratpaşa ilçesi Yeşildere Mahallesi'nde düzenlenen toplantıya, Trafikten Sorumlu İl Emniyet Müdür Yardımcısı Sedat Akyürek başkanlık etti. Toplantıda, zirve süresince ulaşımın güvenli ve akıcı bir şekilde sağlanması amacıyla yürütülecek çalışmalar detaylandırıldı.
 

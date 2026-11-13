@@ -69,6 +69,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Uluslararası Enerji Dönüşümü Düşünce Kuruluşları Ağı tarafından düzenlenen 2026 Yıllık Forumu, SHURA Enerji Dönüşümü Merkezi ev sahipliğinde Antalya'da başladı. Beş kıtadan 60'ın üzerinde enerji uzmanını buluşturan etkinlikte, enerji sistemlerinin değişimi, elektrifikasyon ve sanayide karbonsuzlaşma gibi başlıklar ele alınıyor.
 

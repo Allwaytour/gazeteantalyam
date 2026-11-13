@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Akdeniz Üniversitesi, organ nakli alanındaki öncü çalışmalarıyla uluslararası bilim dünyasında adından söz ettirmeye devam ediyor. Üniversite Rektörü Prof. Dr. Özlenen Özkan, Brezilya'da gerçekleştirilen 5. Uluslararası Uterus Nakli Derneği Kongresi ve State-of-the-Art Toplantısı'na katılarak Türkiye'nin bu alandaki klinik deneyimlerini aktardı.
 

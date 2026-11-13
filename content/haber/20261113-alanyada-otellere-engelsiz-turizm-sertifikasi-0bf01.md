@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
+yazim_denetim: y1
 ---
 Alanya'da konaklama tesislerinin engelli bireyler için uygun hale getirilmesi amacıyla yürütülen denetim ve inceleme süreci tamamlandı. Kent genelindeki otellerin ortak kullanım alanları, fiziki koşulları, oda düzenlemeleri ve bağımsız erişim imkanları titizlikle incelendi. Belirlenen standartları sağlayan tesisler belgelendirilmeye hak kazandı.
 

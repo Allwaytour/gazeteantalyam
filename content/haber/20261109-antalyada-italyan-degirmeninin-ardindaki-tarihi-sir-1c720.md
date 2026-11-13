@@ -69,6 +69,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Belek%2C_07506_Belek-Serik-Antalya%2C_Turkey_-_panoramio_%281%29.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesine bağlı Bilginler Mahallesi'ndeki Demiroluk Tepesi mevkisinde yer alan eski bir su değirmeni, geçmişine dair anlatılan hikayelerle dikkat çekiyor. Büyük bölümü yıkılmış olan yapı, halk arasında İtalyan Değirmeni olarak biliniyor. Yapının geçmişine ilişkin detaylar, sıradan bir köy değirmeninden çok daha farklı bir amaca işaret ediyor.
 

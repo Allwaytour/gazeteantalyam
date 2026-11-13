@@ -73,6 +73,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Sürdürülebilir bir gelecek hedefiyle öncü projeler yürüten kurumlar ve iş dünyası liderleri, Antalya'da düzenlenen özel bir törende bir araya geldi. Çevresel ve sosyal sorumluluk alanında fark yaratan çalışmaların ödüllendirildiği etkinlik, iş dünyasının başarılı uygulamalarını görünür kılmayı ve bu alandaki dönüşümü teşvik etmeyi amaçladı. Tören kapsamında finans, enerji, perakende, teknoloji ve holding gibi pek çok farklı sektörde faaliyet gösteren öncü kurumlar ödüllerine kavuştu.
 

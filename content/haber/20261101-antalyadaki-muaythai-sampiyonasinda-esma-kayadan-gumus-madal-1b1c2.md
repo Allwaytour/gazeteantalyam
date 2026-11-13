@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: /images/kategori/spor.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-muaythai-sampiyonasinda-esma-kayadan-gumus-madal--739b90cf.jpg
+yazim_denetim: y1
 ---
 Cumhuriyet'in 103. yıl dönümü kutlamaları çerçevesinde Antalya'da gerçekleştirilen Muaythai Şampiyonası, Türkiye'nin dört bir yanından gelen yüzlerce sporcunun katılımıyla yapıldı. Farklı illerden kente gelen sporcuların mücadele ettiği organizasyon, sporseverlere heyecanlı anlar yaşattı.
 

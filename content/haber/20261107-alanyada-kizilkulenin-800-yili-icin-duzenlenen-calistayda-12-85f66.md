@@ -155,6 +155,7 @@ gorsel_yerlesim:
   o_kart_p: 22% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261107-alanyada-kizilkulenin-800-yili-icin-duzenlenen-calistayda-12--79b48373.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Alanya ilçesinin önemli simgelerinden biri olan Kızılkule'nin 800. yılı kapsamında bilimsel bir çalıştay gerçekleştirildi. Kültür ve Turizm Bakanlığı ile Alanya Kaymakamlığı öncülüğünde, Alanya Alaaddin Keykubat Üniversitesi Selçuklu Çalışmaları Araştırma ve Uygulama Merkezi ile Alanya Üniversitesi işbirliğiyle düzenlenen etkinlik, ALKÜ Eğitim Fakültesi Başöğretmen Konferans Salonu'nda yapıldı.
 

@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesi Yenigöl Mahallesi Özer Sokak'ta yer alan mobilya fabrikasında gece saatlerinde henüz belirlenemeyen bir sebepten dolayı alevler yükseldi. İçinde atölye ve deponun bulunduğu işletmeden çıkan dumanları fark eden çevre sakinleri, durumu hemen 112 Acil Çağrı Merkezi'ne bildirdi.
 

@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 - https://upload.wikimedia.org/wikipedia/commons/0/05/Alanya._View_to_the_city_from_cabin_of_Cable_car.jpg
+yazim_denetim: y1
 ---
 Alanya'da esnaf ve sanatkârların geleceğine yönelik önemli bir temas gerçekleştirildi. Alanya Esnaf ve Sanatkârlar Odası Başkanı Ali İhsan Özdemir ve beraberindeki heyet, Alanya İlçe Millî Eğitim Müdürü Yusuf Yılmaz'ı makamında ziyaret etti. Gerçekleşen buluşmada Oda Başkan Vekili Osman Aksoy, Yönetim Kurulu Üyesi Ogün Kılıçdoğan ile Denetim Kurulu Başkanı Derya Güray da hazır bulundu.
 

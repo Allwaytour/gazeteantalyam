@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kentte gerçekleştirilen 20. EIF Enerji Dönüşüm Fuarı ve Kongresi, kritik altyapılara yönelik modern güvenlik çözümlerine ev sahipliği yaptı. Etkinlikte sergilenen yapay zeka destekli akıllı kamera ve sensör sistemleri katılımcıların ilgisini çekti.
 

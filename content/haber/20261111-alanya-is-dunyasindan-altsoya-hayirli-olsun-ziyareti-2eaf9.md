@@ -76,6 +76,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Sanayici ve İş İnsanları Derneği (ALSİAD) yönetimi, Alanya Ticaret ve Sanayi Odası (ALTSO) Başkanlığına seçilen Mustafa Tuna'ya makamında hayırlı olsun ziyaretinde bulundu. Ziyarete dernek başkanı ve yönetim kurulu üyeleri katıldı.
 

@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Voleybol Federasyonu (TVF) VII. Mali Genel Kurulu, Ankara'da gerçekleştirildi. Toplantıda Türk voleybolunun idari ve mali yapısına ilişkin değerlendirmeler yapılırken, federasyonun faaliyet ve denetim raporları ele alındı. Gelecek döneme yönelik mali planlamaların yanı sıra 2027 ve 2028 yıllarına ait tahmini bütçeler ve TVF Ana Statüsü'nde yapılması planlanan değişiklikler de genel kurul gündemine taşındı.
 

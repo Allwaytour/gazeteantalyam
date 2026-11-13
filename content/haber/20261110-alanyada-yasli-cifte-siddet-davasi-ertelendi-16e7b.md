@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+yazim_denetim: y1
 ---
 Alanya'da yaşlı anne ve babasına yönelik gerçekleştirildiği öne sürülen şiddet olayına ilişkin dava, mahkeme heyeti tarafından görüldü. Alanya 2. Ağır Ceza Mahkemesi'ndeki duruşmaya tutuksuz yargılanan sanık katılmazken, taraf avukatları ile mağdur yaşlı çifte avukatları eşlik etti.
 

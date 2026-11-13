@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Kentte düzenlenen 8. Uluslararası Antalya Turizm Fuarı'nın sonuçları açıklandı. ANFAŞ fuar merkezinde üç gün süren organizasyona binin üzerinde marka katılım sağladı ve 2 bin 500 seyahat acentesi ağırlandı.
 

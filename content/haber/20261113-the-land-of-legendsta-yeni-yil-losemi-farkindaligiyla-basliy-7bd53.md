@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
+yazim_denetim: y1
 ---
 Antalya'nın önemli eğlence merkezlerinden biri olan The Land of Legends, Legendary New Year dönemini anlamlı bir etkinlikle açmaya hazırlanıyor. Chateau'da gerçekleştirilecek olan program, 14 Kasım Cumartesi günü saat 19.00'da başlayacak. Yeni yıl coşkusunun lösemiye karşı farkındalık çağrısıyla birleştirileceği bu özel gecede, LÖSEV iş birliğiyle önemli bir mesaj verilecek.
 

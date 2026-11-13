@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Kültür ve Turizm Bakanlığı tarafından sağlanan verilere göre, kent genelinde turizm amaçlı toplam 82 kamu taşınmazı tahsis edildi. Gerçekleştirilen bu tahsislerin toplam alanının yaklaşık 7 milyon metrekareyi bulduğu bildirildi. Söz konusu taşınmazların yalnızca Türkiye'de yerleşik anonim şirketlere verildiği ve işlemlerin ilgili ticari mevzuat hükümlerine uygun olarak yürütüldüğü kaydedildi.
 

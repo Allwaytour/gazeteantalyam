@@ -77,6 +77,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sağlık-Sen teşkilat buluşmasına yönelik sosyal medyada yer alan bazı iddialar ve eleştiriler üzerine açıklama yapıldı. Düzenlenen toplantının teşkilatın motivasyonunu artırmak, birlik sağlamak ve sağlık çalışanlarının hak mücadelesini ileriye taşımak amacıyla gerçekleştirildiği ifade edildi.
 

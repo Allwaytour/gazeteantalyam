@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Antalya'da kış turizmi çalışmaları, ısıtmalı havuzlar ve SPA hizmetlerinin ötesine geçerek farklı bir boyuta evriliyor. Yeni sezonda otel grupları, operasyon sürelerini uzatmayı, tesisleri yıl boyunca açık tutmayı ve kongre ile sağlık turizmi gibi alanlara yönelmeyi hedefliyor. Sektördeki bu yaklaşım, sezon dışı dönemi yeni bir ticari faaliyet alanına dönüştürme çabasını gözler önüne seriyor.
 

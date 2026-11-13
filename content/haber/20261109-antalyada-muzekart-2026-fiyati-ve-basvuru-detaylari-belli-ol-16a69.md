@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kültür ve Turizm Bakanlığı tarafından kültürel mirasa erişimi kolaylaştırmak amacıyla hayata geçirilen Müzekart uygulamasının 2026 yılındaki kullanım koşulları ve ücreti netleşti. Antalya ve Alanya gibi tarihi yapıları ve antik kentleriyle öne çıkan turizm merkezlerinde kartla ilgili araştırmalar hız kazandı.
 

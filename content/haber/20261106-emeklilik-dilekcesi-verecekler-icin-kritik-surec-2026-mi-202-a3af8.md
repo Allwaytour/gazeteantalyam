@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1622760274068-a26adafc984f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Emeklilik koşullarını tamamlayan sigortalılar için başvuru yapılacak yılın önemi artıyor. 2026 yılı içerisinde emeklilik dilekçesi verenler ile 2027 yılını bekleyenlerin alacağı aylıklar arasında fark oluşabileceği öngörülüyor. Güncel enflasyon tahminleri ve ekonomik veriler ışığında yapılan hesaplamalar, 2026 yılının emekli maaşı açısından avantajlı olabileceğine işaret ediyor. Ancak kesin sonuçlar için yıl sonu enflasyon verilerinin netleşmesi bekleniyor.
 

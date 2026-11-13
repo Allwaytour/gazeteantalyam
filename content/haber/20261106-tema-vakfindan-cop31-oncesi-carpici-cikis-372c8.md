@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilmesi planlanan küresel COP31 zirvesi öncesinde, TEMA Vakfı Genel Merkezi'nde 'Yavaş Ölüm' isimli belgesel izleyiciyle buluştu. Gösterimin ardından TEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, gazeteci Meliha Okur'un sorularını yanıtladı ve yaklaşan iklim zirvesi ile çevre sorunlarına ilişkin değerlendirmelerde bulundu.
 

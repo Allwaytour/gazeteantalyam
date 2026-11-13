@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesinde bulunan Mecdude Başakıncı Ortaokulu, 29 Ekim Cumhuriyet Bayramı dolayısıyla kapsamlı bir kutlama programı düzenledi. Okul yönetiminin öncülüğünde hazırlanan etkinliklerde bin 500 öğrenci bir araya geldi.
 

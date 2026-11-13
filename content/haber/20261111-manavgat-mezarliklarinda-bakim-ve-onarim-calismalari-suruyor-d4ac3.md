@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi, Manavgat'taki mezarlıkların fiziki altyapısını güçlendirmek amacıyla yürüttüğü çalışmalara hız verdi. Fen İşleri Dairesi Başkanlığına bağlı ekipler, Demirciler Mahallesi Mezarlığı'nda güvenlik ve düzeni artırmak için çevre düzenlemesi gerçekleştirdi.
 

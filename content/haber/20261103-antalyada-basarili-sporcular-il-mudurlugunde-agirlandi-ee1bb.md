@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya Gençlik ve Spor İl Müdürü Yavuz Gürhan, ulusal ve uluslararası organizasyonlarda önemli dereceler elde eden Kumlucalı sporcuları makamında ağırladı. Güreş ve judo branşlarında öne çıkan sporcuların yer aldığı buluşmada, antrenörlerin ve ilçe müdürlüğünün çalışmaları ele alındı.
 

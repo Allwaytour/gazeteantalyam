@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://upload.wikimedia.org/wikipedia/commons/d/d1/Alanya_Mahmutlar.JPG
+yazim_denetim: y1
 ---
 Antalya'da kapılarını açan COP31 İklim Konferansı, bölgedeki turizm ve gayrimenkul sektörlerinin geleceğini gündeme taşıdı. Alanya'da uzun yıllardır gayrimenkul ve yatırım sektöründe faaliyet gösteren Tüm Emlak Danışmanları Birliği Almanya Temsilcisi Emrah Yeşilkaya, zirvenin bölgeye sağlayacağı uluslararası görünürlüğe dikkat çekerek kentin büyüme stratejisine dair değerlendirmelerde bulundu.
 

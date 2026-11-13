@@ -76,6 +76,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+yazim_denetim: y1
 ---
 Alanya'da hizmet veren Pasha Et & Balık Restaurant, yarın akşam ünlü sanatçı Kutsi'yi ağırlamaya hazırlanıyor. Canlı müzik ve gastronomiyi buluşturan mekan, yoğun istek üzerine sanatçıyı yeniden konuk edecek.
 

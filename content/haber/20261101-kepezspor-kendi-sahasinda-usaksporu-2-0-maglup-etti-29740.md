@@ -111,6 +111,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Lig mücadelesi kapsamında Kepez Hasan Doğan Stadı'nda oynanan karşılaşmada Antalya temsilcisi Kepezspor, rakibi Uşakspor'u ağırladı. Mücadelenin hakemliğini Cem Arayan üstlendi.
 

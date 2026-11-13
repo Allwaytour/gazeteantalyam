@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Alanya ilçesi, uluslararası bir spor organizasyonuna daha ev sahipliği yaptı. Atatürk Spor Salonu'nda gerçekleştirilen Uluslararası Gençler Golbol Şampiyonası, 6 farklı ülkeden 8 takımın kıyasıya mücadelesine sahne oldu. Türkiye Görme Engelliler Spor Federasyonu'nun faaliyet programı kapsamında düzenlenen turnuva, final müsabakalarıyla noktalandı.
 

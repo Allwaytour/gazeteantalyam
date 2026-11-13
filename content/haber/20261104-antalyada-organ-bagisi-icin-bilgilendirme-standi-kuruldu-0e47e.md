@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya İl Sağlık Müdürlüğü, 3-9 Kasım Organ Bağışı Haftası vesilesiyle kentteki bir alışveriş merkezinde bilgilendirme stantları açtı. Sağlık çalışanlarının yer aldığı stantlarda, ziyaretçilere organ bağışı süreci ve başvuru adımları detaylı bir şekilde aktarıldı. Etkinlik boyunca bilgilendirici broşürler dağıtılırken, vatandaşlara defne fidanı hediye edildi ve canlı müzik dinletisi sunuldu.
 

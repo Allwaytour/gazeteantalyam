@@ -109,6 +109,7 @@ yz: true
 kaynak: hibya.com
 kaynak_url: https://hibya.com/babacan-antalyada-is-dunyasi-ve-sivil-toplum-kuruluslariyla-gorustu-1085536
 gorsel_yedek: /images/haber-gorsel/20261108-babacan-antalyada-is-dunyasi-ve-stk-temsilcileriyle-bir-aray--7952b730.jpg
+yazim_denetim: y1
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, Antalya'ya gerçekleştirdiği ziyaret kapsamında kentteki sivil toplum kuruluşları ve iş dünyası temsilcileriyle bir dizi görüşme gerçekleştirdi. Sosyal medya hesabı üzerinden yaptığı açıklamada, temaslarının oldukça verimli geçtiğini belirten Babacan, şehrin dinamikleriyle bir araya gelmekten duyduğu memnuniyeti dile getirdi.
 

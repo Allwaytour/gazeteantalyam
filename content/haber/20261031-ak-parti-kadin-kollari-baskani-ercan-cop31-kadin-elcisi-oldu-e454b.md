@@ -75,6 +75,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek olan Birleşmiş Milletler İklim Konferansı COP31 için önemli bir görevlendirme yapıldı. AK Parti Genel Merkez Kadın Kolları Başkanı ve İstanbul Milletvekili Tuğba Işık Ercan, 9-20 Kasım tarihlerinde gerçekleştirilecek COP31'in Kadın Elçisi unvanını aldı.
 

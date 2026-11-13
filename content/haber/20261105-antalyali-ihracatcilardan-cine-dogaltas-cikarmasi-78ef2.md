@@ -174,9 +174,10 @@ metin_onarim:
   not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: Baskanligi→Başkanlığı
 ---
 Batı Akdeniz İhracatçılar Birliği, dünyanın en büyük taş işleme merkezleri arasında yer alan Çin'in Yunfu ve Shuitou şehirlerine doğaltaş sektörel ticaret heyeti düzenledi. Gerçekleştirilen ziyaretlerde resmi kurum temsilcileri ile sektöre yön veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Batı Akdeniz İhracatçılar Birliği'ni Başkan Yardımcısı Mustafa Küçükyaman ve Denetim Kurulu Üyesi Mustafa Tekin temsil etti.
 
-Temasların ilk durağı olan Yunfu'da üretim kapasiteleri ve kullanılan teknolojiler detaylı şekilde ele alındı. Yunfu Belediye Baskanligi ile Yunfu Stone Industry Association'ı ziyaret eden heyet, Çinli doğaltaş satın almacılarıyla bir araya gelerek ticari ilişkilerin geliştirilmesi ve yeni ihracat bağlantılarının kurulması adına görüşmeler gerçekleştirdi.
+Temasların ilk durağı olan Yunfu'da üretim kapasiteleri ve kullanılan teknolojiler detaylı şekilde ele alındı. Yunfu Belediye Başkanlığı ile Yunfu Stone Industry Association'ı ziyaret eden heyet, Çinli doğaltaş satın almacılarıyla bir araya gelerek ticari ilişkilerin geliştirilmesi ve yeni ihracat bağlantılarının kurulması adına görüşmeler gerçekleştirdi.
 
 Yunfu programının ardından dünyanın taş başkenti olarak bilinen Shuitou kentinde temaslarını sürdüren heyet, depo ve tesis incelemelerinin yanı sıra Shuitou Ayine Expo fuarını da ziyaret etti. Türkiye'nin önemli pazarlarından biri olan Çin'e yapılan doğaltaş ve maden ihracatında son yıllarda yaşanan düşüşün tersine çevrilmesi ve dış ticaret hacminin artırılması amaçlanmaktadır.

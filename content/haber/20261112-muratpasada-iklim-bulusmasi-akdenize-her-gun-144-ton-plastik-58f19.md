@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da Muratpaşa Belediyesi tarafından iklim krizine ve ekolojik yıkıma karşı yerel yönetim politikalarını tartışmak üzere düzenlenen COP TOWN programı, Türkan Şoray Kültür Merkezi'nde kapılarını açtı. Etkinliğin açılışında, plastik kirliliğinin üretim aşamasından denizlere ve sofralara uzanan yolculuğunu inceleyen “Plastik Türkiye: Üretimden Sofraya Bir Kirlilik Haritası” kitabı kamuoyuna tanıtıldı.
 

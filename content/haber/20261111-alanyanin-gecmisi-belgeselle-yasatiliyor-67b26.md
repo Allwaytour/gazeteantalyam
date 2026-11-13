@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 60% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Alanya ilçesinde uzun yıllar terzilik yaparak kentin sosyal ve kültürel dönüşümüne tanıklık eden Nezahat Kalan'ın yaşamı ve birikimi kayıt altına alındı. Bölgenin hareketli geçmişinde edindiği gözlemleri zanaatıyla birleştiren Kalan, kentin giyim tarihine adını yazdırdı. 
 

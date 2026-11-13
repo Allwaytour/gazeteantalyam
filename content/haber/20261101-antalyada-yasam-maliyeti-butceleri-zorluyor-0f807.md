@@ -44,6 +44,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-antalyada-yasam-maliyeti-butceleri-zorluyor-0f807-fc3c38b7.jpg
+yazim_denetim: y1
 ---
 Antalya genelinde yükselen konut fiyatları ve yaşam maliyetleri, ücretli çalışanların bütçesinde ciddi bir baskı oluşturuyor. Dört kişilik bir ailenin sağlıklı ve dengeli beslenebilmesi için yapması gereken aylık gıda harcaması 38 bin 24 lira 3 kuruş olarak hesaplanırken, bu tablo aile bütçelerinin ne denli ağır bir yük altında kaldığını gözler önüne seriyor.
 

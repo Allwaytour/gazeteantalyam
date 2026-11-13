@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Mücadeleye hızlı bir başlangıç yapan Eskişehir Anadolu Spor Faaliyetleri A.Ş., ilk tehlikeli atağını frikik organizasyonuyla gerçekleştirdi. Mehmet Sıddık İstemi'nin yaptığı ortada uygun pozisyonda topla buluşan Şükrü Kaan Kılıçaslan, yakın mesafeden meşin yuvarlağı auta gönderdi. Karşılaşmanın 11. dakikasında bu kez İsmail Can Fidan savunmanın arkasına sarkarak kaleciyle karşı karşıya kaldı ancak vuruşunda gecikince savunma araya girerek tehlikeyi uzaklaştırdı.
 

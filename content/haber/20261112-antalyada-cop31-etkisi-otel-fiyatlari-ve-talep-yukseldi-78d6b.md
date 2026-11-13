@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+yazim_denetim: y1
 ---
 Dünyanın en önemli iklim buluşmalarından biri olan COP31'in Antalya'da başlamasıyla birlikte kentteki turizm hareketliliği yeni bir boyuta ulaştı. Uluslararası konaklama veri platformunun araştırmasına göre, zirve süresince beş yıldızlı otellerin oda fiyatları yıllık ortalamanın yüzde 108 üzerine çıktı. Aynı dönemde günlük konaklama talebi göstergesi geçen yılın aynı zamanına kıyasla yüzde 117 oranında yükseldi.
 

@@ -41,6 +41,7 @@ yz: true
 kaynak: hibya.com
 kaynak_url: https://hibya.com/alanyada-ahmet-tokus-bulvarinda-yenileme-calismalari-basladi-1079047
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-ahmet-tokus-bulvari-yenileniyor-a4369-572f55ab.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyesi tarafından hayata geçirilen Sahil Yolu 2. Etap projesi kapsamında, Atatürk Anıtı ile Karayolları Şube Müdürlüğü arasında kalan 4 kilometrelik güzergahta yenileme çalışmaları düğmeye basıldı. Proje, bölgenin hem altyapısını modernize etmeyi hem de ulaşım kalitesini artırmayı hedefliyor.
 

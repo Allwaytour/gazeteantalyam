@@ -1,7 +1,7 @@
 ---
-title: Cevdet Yilmaz ile Mali Basbakani Maiga Antalya'da Görüstü
+title: Cevdet Yılmaz ile Mali Başbakanı Maiga Antalya'da Görüştü
 date: '2026-11-10T20:44:29+03:00'
-ozet: Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'daki COP31 Liderler Zirvesi kapsaminda Mali Basbakani Abdulaye Maiga ile bir araya geldi.
+ozet: Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Antalya'daki COP31 Liderler Zirvesi kapsamında Mali Başbakanı Abdulaye Maiga ile bir araya geldi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -32,7 +32,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-2
-    tarih: '2026-11-13T16:01:32+03:00'
+    tarih: '2026-11-13T16:08:12+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/politika/haber-mali-basbakani-maiga-ile-cevdet-yilmaz-antalya-da-20414988/
-gorsel_yedek: /images/haber-gorsel/20261110-cevdet-yilmaz-ile-mali-basbakani-maiga-antalyada-gorustu-4ada-fecbbac8.jpg
+gorsel_yedek: /images/haber-gorsel/20261110-cevdet-yilmaz-ile-mali-basbakani-maiga-antalyada-gorustu-4ada-8923d679.jpg
 gorsel_yerlesim:
   boyut:
   - 2927
@@ -72,9 +72,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+baslik_onceki: Cevdet Yilmaz ile Mali Basbakani Maiga Antalya'da Görüstü
+yazim_duzeltme: Yilmaz→Yılmaz; Basbakani→Başbakanı; Görüstü→Görüştü; Cumhurbaskani→Cumhurbaşkanı; Yardimcisi→Yardımcısı; kapsaminda→kapsamında; dolayisiyla→dolayısıyla; görüstü→görüştü; gerçeklestirdi→gerçekleştirdi; Görüsmede→Görüşmede; arasindaki→arasındaki; iliskilerin→ilişkilerin; tasinmasi→taşınması; altyapi→altyapı; çesitli→çeşitli; çalisma→çalışma; imkanlari→imkanları; yatirildi→yatırıldı; dayanismanin→dayanışmanın; artirilmasi→artırılması; gerektigine→gerektiğine; görüsmede→görüşmede; gelismeler→gelişme
 ---
-Cumhurbaskani Yardimcisi Cevdet Yilmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayisiyla Türkiye'de bulunan Mali Basbakani Abdulaye Maiga ile ikili bir görüstü gerçeklestirdi. 
+Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Antalya'da gerçeklesen COP31 Liderler Zirvesi dolayısıyla Türkiye'de bulunan Mali Başbakanı Abdulaye Maiga ile ikili bir görüştü gerçekleştirdi. 
 
-Görüsmede, Türkiye ile Mali arasindaki ticari ve ekonomik iliskilerin daha ileri bir seviyeye tasinmasi hedefleri ele alindi. Ayrica savunma, madencilik, enerji, altyapi ve egitim gibi çesitli sektörlerdeki ortak çalisma imkanlari masaya yatirildi.
+Görüşmede, Türkiye ile Mali arasındaki ticari ve ekonomik ilişkilerin daha ileri bir seviyeye taşınması hedefleri ele alindi. Ayrica savunma, madencilik, enerji, altyapı ve egitim gibi çeşitli sektörlerdeki ortak çalışma imkanları masaya yatırıldı.
 
-Liderler, iklim kriziyle mücadele sürecinde uluslararası dayanismanin artirilmasi gerektigine vurgu yaparken, görüsmede güncel bölgesel gelismeler de degerlendirildi.
+Liderler, iklim kriziyle mücadele sürecinde uluslararası dayanışmanın artırılması gerektiğine vurgu yaparken, görüşmede güncel bölgesel gelişmeler de değerlendirildi.

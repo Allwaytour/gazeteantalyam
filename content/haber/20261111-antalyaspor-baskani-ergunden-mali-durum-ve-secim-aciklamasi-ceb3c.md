@@ -1,7 +1,7 @@
 ---
-title: Antalyaspor Baskani Ergün'den mali durum ve seçim aciklamasi
+title: Antalyaspor Başkanı Ergün'den mali durum ve seçim aciklamasi
 date: '2026-11-11T15:02:00+03:00'
-ozet: Antalyaspor Baskani Mustafa Ergün, kulübün mali yapisi, borçlarin kapatilmasi ve yönetim degisikligi ihtimaline iliskin açiklamalarda bulundu.
+ozet: Antalyaspor Başkanı Mustafa Ergün, kulübün mali yapısı, borçların kapatılması ve yönetim değişikliği ihtimaline ilişkin açıklamalarda bulundu.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Arif miletli / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalyaspor-baskani-ergunden-flas-aciklamalar
-gorsel_yedek: /images/haber-gorsel/20261111-antalyaspor-baskani-ergunden-mali-durum-ve-secim-aciklamasi-c-862ad248.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-antalyaspor-baskani-ergunden-mali-durum-ve-secim-aciklamasi-c-a5f5672d.jpg
 gorsel_yerlesim:
   boyut:
   - 4713
@@ -76,9 +76,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
+baslik_onceki: Antalyaspor Baskani Ergün'den mali durum ve seçim aciklamasi
+yazim_duzeltme: Baskani→Başkanı; aciklamasi→açıklaması; yapisi→yapısı; borçlarin→borçların; kapatilmasi→kapatılması; degisikligi→değişikliği; iliskin→ilişkin; açiklamalarda→açıklamalarda; katildigi→katıldığı; programinda→programında; karsilastigi→karşılaştığı; hazirliklari→hazırlıkları; yapilan→yapılan; hakkinda→hakkında; degerlendirmeler→değerlendirmeler; yapti→yaptı; haritasi→haritası; geçtigimiz→geçtiğimiz; kullanilacagini→kullanılacağını; aktardi→aktardı; oldugunu→olduğunu; çikmasi→çıkması; Dernegi→Derneği;
 ---
-Antalyaspor Baskani Mustafa Ergün katildigi bir televizyon programinda, kulübün karsilastigi mali sorunlar, yönetim degisikligi ihtimali ve hazirliklari yapilan destek kampanyalari hakkinda degerlendirmeler yapti. Kulüp için yeni bir yol haritasi çizmeyi hedeflediklerini belirten Ergün, geçtigimiz hafta eski baskanlar ve kdemli üyelerle bir araya gelerek Lara bölgesindeki tasinmazdan elde edilecek gelirin borçlarin hafifletilmesinde kullanilacagini konustuklarini aktardi.
+Antalyaspor Başkanı Mustafa Ergün katıldığı bir televizyon programında, kulübün karşılaştığı mali sorunlar, yönetim değişikliği ihtimali ve hazırlıkları yapılan destek kampanyalari hakkında değerlendirmeler yaptı. Kulüp için yeni bir yol haritası çizmeyi hedeflediklerini belirten Ergün, geçtiğimiz hafta eski baskanlar ve kdemli üyelerle bir araya gelerek Lara bölgesindeki tasinmazdan elde edilecek gelirin borçların hafifletilmesinde kullanılacağını konustuklarini aktardı.
 
-Yönetimi devretmeye hazir oldugunu ve uygun bir aday çikmasi durumunda hem Antalyaspor Dernegi hem de Antalyaspor A.S. baskanligini birakabilecegini ifade eden Ergün, mevcut SGK ve vergi borçlari nedeniyle is insanlarinin yönetime talip olmakta çekindigini söyledi. Zor kismi geride birakip borçlari belli bir seviyeye indirdikten sonra hizla seçim karari almayi amaçladigini belirten Ergün, aday çikmamasi halinde ise görevine devam edecegini vurguladi.
+Yönetimi devretmeye hazir olduğunu ve uygun bir aday çıkması durumunda hem Antalyaspor Derneği hem de Antalyaspor A.S. başkanlığını birakabilecegini ifade eden Ergün, mevcut SGK ve vergi borçları nedeniyle is insanlarının yönetime talip olmakta çekindigini söyledi. Zor kısmı geride bırakıp borçları belli bir seviyeye indirdikten sonra hızla seçim kararı almayı amaçladığını belirten Ergün, aday çıkmaması halinde ise görevine devam edeceğini vurguladı.
 
-Günlük ödemelerde güçlük çektiklerini belirten Ergün, yeni yil öncesinde genis katilimli bir yardim gecesi düzenlemeyi planladiklarini açikladi. Antalya'nin otel, fabrika ve tarim firmalariyla büyük bir ekonomik potansiyele sahip oldugunu dile getiren Ergün, sehrin destegiyle kulübün tüm sorunlarinin asilabilecegini belirtti. Kulüp bünyesinde binlerce çcocugun spor yaptigini hatirlatan Ergün, tüm sehri Antalyaspor'a sahip çikmaya çagirdi.
+Günlük ödemelerde güçlük çektiklerini belirten Ergün, yeni yıl öncesinde geniş katılımlı bir yardim gecesi düzenlemeyi planladıklarını açıkladı. Antalya'nin otel, fabrika ve tarim firmalariyla büyük bir ekonomik potansiyele sahip olduğunu dile getiren Ergün, şehrin desteğiyle kulübün tüm sorunlarının asilabilecegini belirtti. Kulüp bünyesinde binlerce çcocugun spor yaptığını hatırlatan Ergün, tüm şehri Antalyaspor'a sahip çıkmaya çağırdı.

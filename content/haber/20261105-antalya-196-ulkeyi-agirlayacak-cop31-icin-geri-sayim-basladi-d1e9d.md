@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya, küresel iklim değişikliğiyle mücadelede kritik bir zirveye ev sahipliği yapmaya hazırlanıyor. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, dünyanın dört bir yanından 196 ülkeden devlet yetkilileri, delegasyonlar ve müzakere ekipleri kentte bir araya gelecek. Uluslararası iş birliğinin güçlendirilmesi ve iklim politikalarının somut adımlara dönüştürülmesi hedeflenen zirve, çevre ve ekonomi gündeminin merkezinde yer alacak.
 

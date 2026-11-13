@@ -78,6 +78,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen ve dört gün süren kapsamlı bir eğitim ve değerlendirme toplantısında göç yönetimi alanındaki stratejik hedefler masaya yatırıldı. Toplantının açılış konuşmalarını Antalya Vali Yardımcısı Halil Avşar ile Rehberlik ve Denetim Başkanı Zafer Öz yaptı. Etkinliğe Mülkiye Teftiş Kurulu Başkan Yardımcıları, Mülkiye Başmüfettişleri, Göç İdaresi Başkanlığı birim amirleri ve denetim personeli katılım sağladı.
 

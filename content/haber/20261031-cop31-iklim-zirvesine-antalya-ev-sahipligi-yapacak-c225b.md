@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31'e ev sahipliği yapacağını ve zirvenin Antalya'da düzenleneceğini duyurdu. Gerçekleştirilecek buluşmada dünyanın dört bir yanından devlet başkanları, uluslararası kuruluşlar, bilim insanları, iş dünyası ve sivil toplum temsilcilerinin bir araya geleceğini belirten Kurum, iklim, çevre, enerji ve insanlığın ortak geleceğinin bu toplantıda ele alınacağını ifade etti.
 

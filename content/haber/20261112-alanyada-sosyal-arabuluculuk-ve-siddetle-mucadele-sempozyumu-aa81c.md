@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da, şiddet önleme modeli olarak sosyal arabuluculuk ve medyanın rolünün masaya yatırıldığı kapsamlı bir sempozyum gerçekleştirildi. Şiddetle Mücadele Vakfı tarafından düzenlenen program, akademisyenleri, uzmanları ve medya mensuplarını bir araya getirdi. Toplantıda, Türkiye'de artış gösteren şiddet olaylarının önlenmesine yönelik çözüm yolları ile kurumlar arası iş birliğinin önemi değerlendirildi.
 

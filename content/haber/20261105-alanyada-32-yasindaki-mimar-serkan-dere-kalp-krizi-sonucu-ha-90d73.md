@@ -70,6 +70,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya, genç bir ismin ani ölümüyle yasa boğuldu. Bayır Mahallesi'nde ikamet eden 32 yaşındaki iç mimar ve mobilya fabrikası sahibi Serkan Dere, evinde geçirdiği kalp krizi sonucu hayatını kaybetti. Kısa süre önce baba olma sevincini yaşayan Dere'nin vefatı, ailesi ve sevenleri arasında büyük bir üzüntüye yol açtı.
 

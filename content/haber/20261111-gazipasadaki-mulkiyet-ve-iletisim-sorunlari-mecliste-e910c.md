@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Antalya'nın Gazipaşa ilçesine bağlı Karalar Mahallesi'nde yaşayan vatandaşların uzun süredir karşı karşıya kaldığı mülkiyet ve altyapı problemleri Meclis gündemine taşındı. Geçmiş dönemde gerçekleştirilen kadastro çalışmalarındaki hatalar nedeniyle, halkın nesillerdir tarım ve sera faaliyetlerinde kullandığı arazilerin orman sınırları içerisinde kaldığı belirtildi. Bu durumun bölge sakinleri açısından mağduriyetlere ve hukuki süreçlere yol açtığı ifade edildi.
 

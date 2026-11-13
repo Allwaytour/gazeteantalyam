@@ -119,6 +119,7 @@ gorsel_yerlesim:
   yan_portre: false
   url: /images/kurum/e1aef29029e2624d.jpg
 gorsel_yedek: /images/haber-gorsel/20261106-kaleicinde-atiklar-sanat-ve-moda-tasarimlarina-donusturulece--7300ea0e.jpg
+yazim_denetim: y1
 ---
 Antalya'da Muratpaşa Belediyesi'nin COP31 kapsamında hayata geçirdiği COP TOWN etkinlikleri, sürdürülebilirlik temasıyla Kaleiçi'nde sanatseverlerle buluşmaya hazırlanıyor. Akdeniz Üniversitesi öğrencileriyle ortaklaşa yürütülen programda; sergiler, ileri dönüşüm atölyeleri ve özel bir defile yer alacak.
 

@@ -72,6 +72,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya'nın geleneksel tatları arasında öne çıkan tahinli piyaz, yaklaşık bir asırdır aynı özenle hazırlanarak kent kültürünün yaşatılmasına katkı sağlıyor. Kentte 1930'lu yıllarda başlatılan bu lezzet geleneği, aile üyeleri tarafından kuşaktan kuşağa aktarılarak günümüze kadar taşındı. Geçmişin izlerini taşıyan nostaljik dükkanda sürdürülen bu gelenek, kentin gastronomi hafızasını yansıtan önemli duraklar arasında yer alıyor.
 

@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol Süper Lig ekiplerinden Antalyaspor, teknik direktör Osman Özköylü'nün göreve gelmesinin ardından ligdeki çıkışını devam ettiriyor. Kırmızı-beyazlı ekip, deneyimli teknik adam yönetiminde çıktığı 7 müsabakada 3 galibiyet ve 2 beraberlik elde etmeyi başardı. Akdeniz temsilcisi, bu süreçte hanesine 11 puan yazdırarak önemli bir performans ortaya koydu.
 

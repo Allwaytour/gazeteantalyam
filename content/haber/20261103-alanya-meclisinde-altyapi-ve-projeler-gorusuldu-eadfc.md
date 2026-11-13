@@ -46,6 +46,7 @@ yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/alanyada-gundem-donusum-dijital-ikiz-dugun-salonu-ve-taha-mirac
 gorsel_yedek: /images/haber-gorsel/20261103-alanya-meclisinde-altyapi-ve-projeler-gorusuldu-eadfc-1aab0248.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyesi Kasım Ayı Olağan Meclis Toplantısı, Belediye Başkan Vekili Murat Levent Koçak başkanlığında gerçekleştirildi. Toplantıda altyapı projelerinden sosyal hizmetlere kadar kentin genelindeki çalışmalar meclis üyeleriyle paylaşıldı. Başkan Vekili Koçak, sahada yürütülen faaliyetlerin yoğun şekilde sürdüğünü belirterek Oba Çayı, Mahmutlar ve Kargıcak derelerindeki çalışmalar ile yağmur suyu kanallarının denetimlerinin devam ettiğini aktardı.
 

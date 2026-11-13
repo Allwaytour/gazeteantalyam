@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cemil_Tugay.jpg/1280px-Cemil_Tugay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 İzmir'in Aliağa ilçesinde faaliyet gösteren bir demir çelik fabrikasında yaşanan ve can kayıplarının meydana geldiği patlama, yerel yönetim programlarında değişikliğe neden oldu. Yaşanan üzücü olayın ardından İzmir Büyükşehir Belediye Başkanı Dr. Cemil Tugay, Antalya'da katılmayı planladığı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı programını iptal etti.
 

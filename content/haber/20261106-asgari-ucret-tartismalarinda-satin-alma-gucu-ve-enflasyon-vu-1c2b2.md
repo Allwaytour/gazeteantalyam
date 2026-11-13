@@ -97,6 +97,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Önümüzdeki dönemde yapılacak asgari ücret düzenlemelerine yönelik beklentiler artarken, uzmanlar nominal rakamlardan ziyade çalışanların alım gücünün korunmasının önemine dikkat çekiyor. Yüksek oranlı zamların, fiyatların aynı hızda artması durumunda kısa sürede etkisini yitirebileceği ifade ediliyor. Tahminler yapılırken enflasyon beklentileri, büyüme görünümü ve geçim koşullarının bütüncül olarak ele alınması gerektiği vurgulanıyor.
 

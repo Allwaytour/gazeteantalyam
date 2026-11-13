@@ -1,7 +1,7 @@
 ---
 title: Danimarkali öğrenciler Alanya'da tarim ve gıda tesislerini inceledi
 date: '2026-11-10T17:18:00+03:00'
-ozet: Danimarka'dan gelen tarim ve hayvancilik ogrencileri, Alanya'daki uretim ve tarim tesislerini ziyaret ederek bilgi aldi.
+ozet: Danimarka'dan gelen tarim ve hayvancılık öğrencileri, Alanya'daki üretim ve tarim tesislerini ziyaret ederek bilgi aldi.
 gorsel: https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Erwan Hesry / Unsplash'
 kategoriler:
@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: hayvancilik→hayvancılık; ogrencileri→öğrencileri; uretim→üretim
 ---
 Danimarka'nın Odense kentinde tarım ve hayvancılık eğitimi alan bir grup öğrenci, Alanya'ya bir ziyaret gerçekleştirdi. Yirmi beş öğrenci ve üç öğretmenden oluşan heyet, ilçedeki tarımsal üretim ve gıda tesislerini inceleme fırsatı buldu.
 

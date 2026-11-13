@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Erkekler Basketbol 2. Ligi'nde yer alan Antalya Gençlikspor Pizzabulls, ligin beşinci haftasında Türk Telekom Gelişimspor'u konuk etti. Antalya Spor Salonu'nda oynanan mücadelenin ilk çeyreğini geride kapatan ev sahibi ekip, soyunma odasına da dezavantajlı bir skorla girdi. Karşılaşmanın ikinci yarısında da rakibinin üstünlüğünü kırmakta zorlanan Antalya temsilcisi, parkeden mağlubiyetle ayrıldı.
 

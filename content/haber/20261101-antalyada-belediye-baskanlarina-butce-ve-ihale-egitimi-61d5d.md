@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Burdur Belediyeler Birliği, Antalya'da ilçe ve belde belediye başkanları ile belediye meclis üyelerinin katılımıyla bir eğitim programı gerçekleştirdi. Düzenlenen seminerde katılımcılara program bütçe hazırlama teknikleri, 5393 sayılı Belediye Kanunu ve 2886 sayılı Devlet İhale Kanunu hakkında kapsamlı bilgiler aktarıldı.
 

@@ -72,6 +72,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesinde meydana gelen traktör kazasında bir kişi yaralandı. Olay, öğleden sonra Nebiler Mahallesi'nde yaşandı.
 

@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/3/3d/Olive_Oil_%2850316477903%29.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde zeytin üretimi yapan çiftçiler, bu yıl elde edilen yüksek rekolteye rağmen şaşırtıcı bir sorunla karşı karşıya kaldı. Bölgede bol miktarda zeytin hasat edilirken, elde edilen ürünlerdeki yağ oranlarının düşük olması üreticileri düşündürüyor. Üreticiler bu durumun nedenlerini araştırırken, konuyla ilgili açıklamalar geldi.
 

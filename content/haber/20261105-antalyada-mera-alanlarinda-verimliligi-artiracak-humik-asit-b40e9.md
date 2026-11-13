@@ -176,6 +176,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1440428099904-c6d459a7e7b5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da tarımsal üretimi güçlendirmek ve mera alanlarının verimini yükseltmek için yeni bir adım atıldı. Tarım ve Orman Bakanlığı ile Türkiye Kömür İşletmeleri Kurumu arasında imzalanan protokol çerçevesinde, kente 5 bin 120 litre hümik asit ulaştırıldı. İl Tarım ve Orman Müdürlüğü tarafından yürütülecek çalışmalarla, söz konusu organik maddenin mera ıslahında kullanılması planlanıyor.
 

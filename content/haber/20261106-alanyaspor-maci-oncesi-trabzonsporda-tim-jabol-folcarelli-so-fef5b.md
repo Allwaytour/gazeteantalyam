@@ -113,6 +113,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261106-alanyaspor-maci-oncesi-trabzonsporda-tim-jabol-folcarelli-so--a19e46bf.jpg
+yazim_denetim: y1
 ---
 Trendyol Süper Lig ekiplerinden Trabzonspor, deplasmanda Corendon Alanyaspor ile yapacağı karşılaşmanın hazırlıklarını sürdürüyor. Mehmet Ali Yılmaz Tesisleri'nde teknik direktör Thomas Reis yönetiminde gerçekleştirilen idmanla hazırlıklarına devam eden bordo-mavili ekipte, maç öncesi kadro sıkıntısı yaşanıyor.
 

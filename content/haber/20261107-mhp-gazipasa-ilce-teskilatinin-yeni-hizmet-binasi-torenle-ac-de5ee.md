@@ -76,6 +76,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Milliyetçi Hareket Partisi (MHP) Gazipaşa İlçe Başkanlığı, yeni hizmet binasında faaliyet göstermeye başladı. İstiklal Mahallesi Şehit Süleyman Gür Bulvarı üzerinde yer alan Gazi Tuncerler Plaza'nın zemin katındaki merkezin açılış töreni gerçekleştirildi. Düzenlenen programa MHP Antalya İl Başkanı Saadullah Güneş, MHP Alanya İlçe Başkanı Mustafa Türkdoğan, ilçe teşkilat başkanları, yönetim kurulu üyeleri, sivil toplum kuruluşlarının temsilcileri ve çok sayıda partili katılım sağladı.
 

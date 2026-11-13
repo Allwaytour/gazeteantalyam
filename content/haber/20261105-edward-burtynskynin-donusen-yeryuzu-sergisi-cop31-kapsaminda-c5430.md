@@ -157,6 +157,7 @@ etiketler:
 - TEMA Vakfı
 - Borusan Holding
 gorsel_yedek: /images/haber-gorsel/20261105-edward-burtynskynin-donusen-yeryuzu-sergisi-cop31-kapsaminda--1913f1d1.jpg
+yazim_denetim: y1
 ---
 Çağdaş fotoğraf sanatının önde gelen isimlerinden Edward Burtynsky'nin "Dönüşen Yeryüzü" adlı sergisinden özel bir seçki, 9-20 Kasım tarihleri arasında Antalya'da ziyarete açılıyor. COP31 Birleşmiş Milletler İklim Değişikliği Konferansı ile eş zamanlı olarak düzenlenen etkinlik, iklim değişikliği ve sürdürülebilirlik konularına sanatın penceresinden bakmayı hedefliyor.
 

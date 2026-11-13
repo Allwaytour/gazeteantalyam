@@ -82,8 +82,9 @@ metin_onarim:
   kaynak: https://www.akdenizmanset.com.tr/antalyaspordan-u16-milli-takima-besinci-isim-mehmet-alp-deniz-de-kadroda
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 3 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 3 kelime özgün haliyle bırakıldı'
+yazim_duzeltme: Turnuvasinda→Turnuvasında
 ---
-Kente düzenlenen Uluslararası Hazırlık Turnuvasinda sahne alan Türkiye U16 Millî Takımı'nın oyuncu havuzunda güncelleme yapıldı. Futbol federasyonunun yayımladığı son listede, kırmızı-beyazlı kulübün altyapinda yetişen sporcularından bir isim daha kadroya dahil edildi.
+Kente düzenlenen Uluslararası Hazırlık Turnuvasında sahne alan Türkiye U16 Millî Takımı'nın oyuncu havuzunda güncelleme yapıldı. Futbol federasyonunun yayımladığı son listede, kırmızı-beyazlı kulübün altyapinda yetişen sporcularından bir isim daha kadroya dahil edildi.
 
 Daha önce açıklanan listede yer almayan savunma oyuncusu Mehmet Alp Deniz, yapılan son değişiklikle aday kadroya çağrıldı. Böylece Antalyaspor'dan Millî Takim'a seçilen futbolcu sayısı bes yükseldi. Genç oyuncunun Ukrayna karşısında süre bulup bulamayacağı maç saatinde belli olacak.
 

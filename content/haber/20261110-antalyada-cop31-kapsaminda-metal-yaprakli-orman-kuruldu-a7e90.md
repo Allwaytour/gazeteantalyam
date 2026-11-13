@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1440581572325-0bea30075d9d?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı Antalya'da başladı. Konferansın ilk gününde Gloria Hotels & Resorts ev sahipliğinde ve Akfen Holding iş birliğiyle hayata geçirilen ARTIK sergisi, doğanın tükendiği bir geleceğe dikkat çekmeyi amaçlıyor. Gloria Serenity Resort'ta açılan sergide, atık malzemelerden üretilen hayvan heykelleri metal yapraklı bir orman konseptiyle sergileniyor.
 

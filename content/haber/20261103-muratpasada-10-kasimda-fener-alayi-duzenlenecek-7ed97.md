@@ -106,6 +106,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesinde, Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir anma programı düzenleniyor. Büyük Önder’e duyulan sevgi, saygı, minnet ve hasreti tek yürek olarak göstermek amacıyla 10 Kasım'da fener alayı ve Ata'ya Saygı Yürüyüşü gerçekleştirilecek.
 

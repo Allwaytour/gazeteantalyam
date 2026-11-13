@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya iş dünyasının sevilen isimlerinden biri olan iç mimar ve iş insanı Serkan Dere, evinde aniden fenalaşarak yaşamını yitirdi. Genç yaşta hayata veda eden Dere'nin, yapılan ilk incelemeler sonucunda kalp krizi geçirdiği belirlendi. Daha önce kalp rahatsızlığı nedeniyle anjiyo olduğu öğrenilen Dere'nin ani ölümü, yakınlarını ve iş çevresini derin bir yasa boğdu.
 

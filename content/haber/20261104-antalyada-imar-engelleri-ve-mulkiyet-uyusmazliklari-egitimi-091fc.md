@@ -68,6 +68,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da hızla artan nüfus ve yoğun göç dalgası, eğitim altyapısında önemli sıkıntıları beraberinde getirdi. Kent merkezindeki mahallelerde yeni okullara duyulan ihtiyaç artarken, okul yapılması için ayrılan arsaların yıllardır değerlendirilemediği iddiaları gündemde yer buluyor. Muratpaşa, Kepez ve Konyaaltı ilçelerinde yaşanan örnekler; imar planları, mülkiyet uyuşmazlıkları ve yatırım gecikmelerinin eğitim yatırımlarını nasıl aksattığını gözler önüne seriyor.
 

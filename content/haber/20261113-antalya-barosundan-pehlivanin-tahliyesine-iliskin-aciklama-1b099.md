@@ -1,5 +1,5 @@
 ---
-title: Antalya Barosu'ndan Pehlivan'in tahliyesine iliskin açıklama
+title: Antalya Barosu'ndan Pehlivan'in tahliyesine ilişkin açıklama
 date: '2026-11-13T14:26:00+03:00'
 ozet: Antalya Barosu, İstanbul'daki İBB davasında tutuklu yargılanan avukat Mehmet Pehlivan'ın tahliyesini memnuniyetle karşıladı ancak tutukluluk sürecini eleştirdi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
@@ -52,7 +52,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalya-barosundan-pehlivanin-tahliyesine-iliskin-aciklama-basli-basina-bir-adaletsizlik
-gorsel_yedek: /images/haber-gorsel/20261113-antalya-barosundan-pehlivanin-tahliyesine-iliskin-aciklama-1b-0b1fc82f.jpg
+gorsel_yedek: /images/haber-gorsel/20261113-antalya-barosundan-pehlivanin-tahliyesine-iliskin-aciklama-1b-a3e588cc.jpg
 gorsel_yerlesim:
   boyut:
   - 3000
@@ -79,6 +79,8 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Antalya Barosu'ndan Pehlivan'in tahliyesine iliskin açıklama
+yazim_duzeltme: iliskin→ilişkin
 ---
 Antalya Barosu, İstanbul Büyükşehir Belediyesi'ne yönelik davada tutuklu yargılanan avukat Mehmet Pehlivan'ın tahliye edilmesinin ardından bir açıklama yayımladı. İstanbul 33. Ağır Ceza Mahkemesi'nin 12 Kasım 2026 tarihinde gördüğü duruşmada Pehlivan'ın da aralarında bulunduğu 8 sanık serbest bırakıldı. Baro, tahliye kararını olumlu bulurken, yaşanan süreci ve tutukluluk tedbirinin uygulanma biçimini eleştirdi.
 

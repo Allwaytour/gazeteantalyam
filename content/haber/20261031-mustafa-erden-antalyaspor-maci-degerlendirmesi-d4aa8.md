@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sahada sergilenen futboldan duyduğu memnuniyeti dile getiren Mustafa Er, maç boyunca rakibe pozisyon şansı tanımadıklarını ve müsabakayı daha farklı bir skorla bitirebileceklerini belirtti. Karşılaşmaya arzulu bir giriş yaparak erken buldukları gollerle oyunun hakimiyetini ellerine aldıklarını kaydeden Er, maçın ikinci devresinde bazı futbolcuları korumak amacıyla oyuncu değişikliklerine gittiklerini ifade etti.
 

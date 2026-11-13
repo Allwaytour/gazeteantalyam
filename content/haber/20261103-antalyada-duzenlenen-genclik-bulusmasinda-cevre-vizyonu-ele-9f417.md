@@ -44,6 +44,7 @@ yz: true
 kaynak: Konya Yenigün
 kaynak_url: https://www.konyayenigun.com/meramin-cevre-vizyonu-antalyadan-ses-getirdi
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-duzenlenen-genclik-bulusmasinda-cevre-vizyonu-ele-9-f0bdf50e.jpg
+yazim_denetim: y1
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Gençlik ve Spor Bakanlığının ortaklaşa düzenlediği gençlik buluşması Antalya'da gerçekleştirildi. Alanya'daki Alaaddin Keykubat Gençlik Kampı'nda dört gün süren organizasyonda katılımcılara sıfır atık prensipleri, geri dönüşüm teknikleri ve iklim değişikliğinin yansımaları üzerine eğitimler verildi.
 

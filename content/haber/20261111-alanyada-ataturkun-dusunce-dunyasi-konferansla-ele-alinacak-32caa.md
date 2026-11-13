@@ -64,6 +64,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 100%
   url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk’ün fikirleri, akıl ve bilime dayanan düşünce yapısı ile çağdaş Türkiye vizyonu düzenlenecek özel bir konferansla ele alınacak. Etkinlikte, Atatürk’ün düşünce mirasının bugüne ve geleceğe ışık tutan yönleri katılımcılarla paylaşılacak.
 

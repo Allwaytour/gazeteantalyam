@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://images.unsplash.com/photo-1770319675767-9e97855ef639?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen 7. Uluslararası Gastronomi ve Miksoloji Yıldızları Buluşması, farklı ülkelerden yaklaşık 4 bin yarışmacının katılımına sahne oldu. Akdeniz Aşçılar Kulübü tarafından organize edilen etkinlikte, Mengen Aşçılar Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri önemli bir başarıya imza attı.
 

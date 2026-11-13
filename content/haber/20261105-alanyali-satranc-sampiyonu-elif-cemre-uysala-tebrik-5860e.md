@@ -159,6 +159,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Chess_game_Staunton_No._6_perfil_view_5.jpg
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da satranç alanında gösterdiği üstün başarıyla adından söz ettiren Elif Cemre Uysal, katıldığı turnuvada önemli bir başarıya imza attı. 13 yaş genel kategorisinde il üçüncülüğü elde eden genç sporcu, aynı zamanda 13 yaş kızlar kategorisinde il birincisi olma başarısını gösterdi.
 

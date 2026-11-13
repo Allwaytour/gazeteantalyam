@@ -1,5 +1,5 @@
 ---
-title: 'Antalya Mutabakatı Aciklandi: Binalarda 2035 Hedefleri Belirlendi'
+title: 'Antalya Mutabakatı Açıklandı: Binalarda 2035 Hedefleri Belirlendi'
 date: '2026-10-31T22:56:44+03:00'
 ozet: COP31 Türkiye Başkanlığı tarafından duyurulan Antalya Mutabakatı, binalarda enerji verimliliğini artırmayı ve karbon emisyonlarını azaltmayı hedefliyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
@@ -51,7 +51,7 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
-gorsel_yedek: /images/haber-gorsel/20261031-antalya-mutabakati-aciklandi-binalarda-2035-hedefleri-belirl--7b8525c4.jpg
+gorsel_yedek: /images/haber-gorsel/20261031-antalya-mutabakati-aciklandi-binalarda-2035-hedefleri-belirl--1dae7f79.jpg
 gorsel_yerlesim:
   boyut:
   - 5200
@@ -85,6 +85,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: Aciklandi→Açıklandı
 ---
 Türkiye'nin ev sahipliğinde gerçekleşecek COP31 İklim Zirvesi'ne doğru, binaların enerji tüketimini ve karbon salınımını düşürmek amacıyla hazırlanan Antalya Mutabakatı kamuoyuna duyuruldu. COP31 Türkiye Başkanlığı tarafından açıklanan bu girişim, konutlardan okullara ve hastanelere kadar geniş bir yapı stokunu kapsıyor.
 

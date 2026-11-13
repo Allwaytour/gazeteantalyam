@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Müftüsü Mehmet Seven, ilçedeki bir okulda düzenlenen etkinlikte öğrenciler, eğitimciler ve velilerle bir araya geldi. Gerçekleştirilen ziyarette öğrencilerle yakından ilgilenen Seven, akademik başarının yanı sıra manevi değerlerin ve ahlaki gelişimin çocukların karakter oluşumundaki kritik rolüne dikkat çekti.
 

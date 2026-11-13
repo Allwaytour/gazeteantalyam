@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Yükseköğretim Kurulu Başkanı Prof. Dr. Erol Özvar, Antalya'nın Alanya ilçesindeki Alaaddin Keykubat Üniversitesi'nde düzenlenen Gelecek Vizyonu Toplantısı'na katıldı. Programda yükseköğretimde ihtisaslaşma ve bölgesel kalkınma odaklı değerlendirmelerde bulunan Özvar, üniversitelerin farklılaşmasının ve belirli alanlarda uzmanlaşmasının kurumlar için öncelikli olduğunu belirtti. İhtisaslaşmanın kalıcı olabilmesi için bilimsel devamlılığın tesis edilmesi gerektiğini vurgulayan Özvar, güçlü olunan alanlar ile desteğe ihtiyaç duyulan konuların bir arada ele alınmasının önemine işaret etti.
 

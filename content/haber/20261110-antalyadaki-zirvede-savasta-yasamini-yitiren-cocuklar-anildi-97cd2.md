@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen COP31 Zirvesi kapsamında, çatışmalarda yaşamını yitiren çocukların anısı yaşatıldı. Zirve alanında yer alan İran Pavilyonu'nda hazırlanan özel bölümde, savaş ortamının siviller ve özellikle çocuklar üzerindeki yıkıcı sonuçlarına dikkat çekildi.
 

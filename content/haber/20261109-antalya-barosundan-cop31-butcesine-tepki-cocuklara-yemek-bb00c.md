@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+yazim_denetim: y1
 ---
 Antalya Barosu Çocuk Hakları Merkezi, COP31 süresince yapılan kamu harcamalarına yönelik bir açıklama yayımladı. Açıklamada, büyük organizasyonlar için milyarlarca liralık kaynaklar ayrılırken devlet okullarındaki çocukların beslenme desteğinden mahrum bırakılmasına dikkat çekildi. Çocukların sağlıklı gıdaya ve temiz suya erişiminin sosyal yardım olarak ele alınamayacağı, bunun devletin temel görevleri arasında yer aldığı ifade edildi.
 

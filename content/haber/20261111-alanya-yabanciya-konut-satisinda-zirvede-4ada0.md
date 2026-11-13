@@ -73,6 +73,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye İstatistik Kurumu tarafından paylaşılan verilere göre, yılın ilk dokuz ayında Antalya genelinde yabancı uyruklu kişilere toplam 4 bin 693 konut satışı yapıldı. Kent genelindeki satışlarda geçen yılın aynı dönemine kıyasla yüzde 6,53 oranında bir düşüş yaşanırken, Antalya Türkiye genelinde en çok konut satılan ikinci il olmayı sürdürdü. Ülke genelinde ise aynı dönemde yabancılara toplam 15 bin 308 konut satıldığı kaydedildi.
 

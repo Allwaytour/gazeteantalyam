@@ -183,6 +183,7 @@ gorsel_yerlesim:
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) yönetimi, Ankara'daki temasları çerçevesinde Türkiye Büyük Millet Meclisi'ni ziyaret etti. Dernek başkanı ve beraberindeki heyet, AK Parti Antalya milletvekilleri Mustafa Köse, İbrahim Ethem Taş, Kemal Çelik ve Atay Uslu ile görüştü.
 

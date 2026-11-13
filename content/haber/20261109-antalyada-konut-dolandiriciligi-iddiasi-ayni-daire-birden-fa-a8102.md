@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Antalya genelinde ev sahibi olmak isterken mağdur duruma düşen kişilerin başlattığı hukuki süreç devam ediyor. Farklı suçlardan dolayı tutuklu bulunduğu bilinen müteahhide ödeme yaparak konut talep eden fakat mülklerini teslim alamayan çok sayıda vatandaş, haklarını aramak için avukatları aracılığıyla savcılığa başvurdu. 
 

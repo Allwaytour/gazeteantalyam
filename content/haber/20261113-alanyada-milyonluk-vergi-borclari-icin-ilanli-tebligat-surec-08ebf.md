@@ -77,6 +77,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1648201637025-1c77b9be3013?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Vergi Dairesi, bildirilen adreslerinde ulaşılamayan mükellefler adına Vergi Usul Kanunu çerçevesinde ilan yoluyla tebligat uygulamasını hayata geçirdi. Kurum tarafından paylaşılan resmi listede, 2021 ile 2026 yılları arasındaki dönemi kapsayan yüksek tutarlı borçlar dikkat çekerken, bu borçlular arasında yabancı uyruklu kişilerin fazlalığı göze çarptı.
 

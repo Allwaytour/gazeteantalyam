@@ -121,6 +121,7 @@ yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/cop31e-bir-gun-kala-antalyada-sahiller-bos-kalmadi
 gorsel_yedek: /images/haber-gorsel/20261108-kasim-ayinda-antalya-sahillerinde-yazdan-kalma-gunler-0632a-f34d44ac.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde kış mevsiminin etkileri hissedilmeye başlarken, Antalya'da güneşli hava yüzünü göstermeye devam ediyor. Meteoroloji Bölge Müdürlüğü'nün uyarılarının ardından kentte hava sıcaklıklarında yaklaşık 8 derecelik bir düşüş yaşanmasına rağmen, sahil kesimlerinde hareketlilik sürüyor.
 

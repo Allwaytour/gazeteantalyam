@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen organ bağışı sempozyumunda, Türkiye'deki organ nakli bekleyen hastaların sayısı ve bu alandaki toplumsal farkındalığın önemi ele alındı. Organ Bağışı Haftası dolayısıyla gerçekleştirilen programda uzmanlar, bağış oranlarının artırılması ve aile içi iletişimin süreçteki kritik rolüne dikkat çekti.
 

@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Kaymakamı Şakir Öner Öztürk, beraberindeki heyetle birlikte Demirtaş Çok Programlı Anadolu Lisesini ziyaret etti. Gerçekleştirilen ziyarette okul yerleşkesindeki eğitim alanları ile öğrenci pansiyonu gezildi ve yetkililerden kurumun genel durumu hakkında bilgi alındı.
 

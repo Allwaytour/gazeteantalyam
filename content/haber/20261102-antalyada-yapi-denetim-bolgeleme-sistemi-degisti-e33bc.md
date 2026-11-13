@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya inşaat sektörünü yakından ilgilendiren yapı denetim bölgeleme sisteminde yeni bir düzenlemeye gidildi. Antalya İnşaat Müteahhitleri Derneği'nin yaklaşık üç yıldır ilgili bakanlıklar nezdinde sürdürdüğü girişimler ve görüşmeler sonuç verdi. Konuya ilişkin tebliğ Resmî Gazete'de yayımlanarak yürürlük tarihi duyuruldu.
 

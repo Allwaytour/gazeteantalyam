@@ -75,6 +75,7 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1767216521441-074cc9e9ed05?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Basketbol 2. Ligi A Grubu'nda yer alan Antalya Gençlik Spor Pizza Bulls, ligin dördüncü haftasında İTÜ Merkez Spor Salonu'nda İTÜ Halkbank ile karşı karşıya geldi. Müsabakanın ilk periyodunu 25-22 geride kapatan Antalya temsilcisi, ikinci çeyrekte savunmada zorlanınca soyunma odasına 52-41 yenik durumda gitti.
 

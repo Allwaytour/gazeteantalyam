@@ -76,6 +76,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg
 - https://upload.wikimedia.org/wikipedia/commons/2/24/Handball_the_ball.jpg
+yazim_denetim: y1
 ---
 Antalyaspor hentbol takımı, yeni sezon öncesindeki ilk hazırlık devresini yoğun antrenmanlarla geride bıraktı. Kuvvet, kondisyon ve teknik çalışmaların yer aldığı bu ilk dönemin ardından kırmızı-beyazlı ekip, İzmir Cup Turnuvası'na katılmak üzere hazırlıklarına devam ediyor. Turnuva kapsamında Göztepe, Merzifon Belediyesi, Beykoz Belediyesi ve Bursa Nilüfer Belediyesi ile karşılaşmalar oynanacak.
 

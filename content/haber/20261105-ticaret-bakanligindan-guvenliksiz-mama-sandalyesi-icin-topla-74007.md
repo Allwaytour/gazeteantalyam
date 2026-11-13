@@ -57,6 +57,7 @@ gorsel_yerlesim:
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
+yazim_denetim: y1
 ---
 Ticaret Bakanlığı tarafından yürütülen piyasa gözetimi ve denetim çalışmaları sonucunda, bebek ve çocukların kullanımı için üretilen bir mama sandalyesinde ciddi güvenlik eksiklikleri tespit edildi. Yapılan teknik incelemelerde, ürünün güvenlik barı ile bacak açıklığı arasındaki mesafenin belirlenen standartların altında kaldığı saptandı.
 

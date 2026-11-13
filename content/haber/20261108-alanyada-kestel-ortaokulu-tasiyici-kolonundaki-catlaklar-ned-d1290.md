@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın Kestel Mahallesi'nde eğitim veren Kestel Ortaokulu'nun binasında ortaya çıkan yapısal sorunlar endişe yarattı. Alt katında ana sınıfı öğrencilerinin, üst katlarında ise ortaokul öğrencilerinin eğitim aldığı yapının taşıyıcı kolonunda ciddi çatlaklar belirlendi. Hasarın ortaya çıkmasından kısa süre önce binadan şüpheli sesler geldiği iddiaları da tedirginliği artırdı.
 

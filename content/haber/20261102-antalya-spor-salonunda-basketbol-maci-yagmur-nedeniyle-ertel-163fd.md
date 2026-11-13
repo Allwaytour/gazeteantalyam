@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1790655571484-6d4cee8ab24b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1767216521441-074cc9e9ed05?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da eşine az rastlanır bir olay kaydedildi. Antalya Spor Salonu’nda gerçekleştirilen Hedef07 ile Neriman Erol Yılmaz Spor Kulübü arasındaki U14 basketbol müsabakası, yağış nedeniyle yarıda kaldı.
 

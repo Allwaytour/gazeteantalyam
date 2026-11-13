@@ -81,6 +81,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Kaş ilçesine bağlı Ova Mahallesi'nde korkunç bir olay yaşandı. Bölgeden gelen silah sesleri üzerine mahalle sakinleri durumu 112 Acil Sağlık ve jandarma ekiplerine bildirdi. İhbar üzerine kısa sürede adrese ulaşan ekipler, evde inceleme başlattı.
 

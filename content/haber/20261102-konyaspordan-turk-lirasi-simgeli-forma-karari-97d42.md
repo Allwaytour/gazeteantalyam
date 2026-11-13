@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Süper Lig ekiplerinden Atiker Konyaspor, milli birlik ve beraberlik vurgusu yaparak dikkat çeken bir karara imza attı. Kulüp tarafından yapılan resmi açıklamada, ülkenin içinden geçeceği hassas dönemde oynanan oyunlara ve operasyonlara kayıtsız kalınmayacağı vurgulandı.
 

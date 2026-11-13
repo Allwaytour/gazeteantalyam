@@ -172,6 +172,7 @@ gorsel_yerlesim:
   o_kart: 50% 100%
   url: /images/kurum/0552fc8ebff04913.jpg
 gorsel_yedek: /images/haber-gorsel/20261106-kepezde-baris-manco-bulvari-yenileniyor-bf191-be1b23ca.jpg
+yazim_denetim: y1
 ---
 Kepez Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçedeki ulaşım altyapısını iyileştirmek ve sürücülere daha konforlu bir yol deneyimi sunmak için harekete geçti. Bu kapsamda, altyapı çalışmaları nedeniyle yüzeyinde bozulmalar meydana gelen Çankaya Mahallesi'ndeki Barış Manço Bulvarı'nda yenileme süreci başlatıldı. Çalışmaların, yolun zamanla daha büyük deformasyonlara uğramasını engellemek ve vatandaşların ulaşım mağduriyetini gidermek amacıyla yapıldığı belirtildi.
 

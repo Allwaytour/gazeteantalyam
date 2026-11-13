@@ -176,6 +176,7 @@ gorsel_yerlesim:
   o_mansetyan_m: 50% 50%
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, Antalya’da Forum X tarafından düzenlenen toplantıda Türkiye’nin siyasi gündemine dair değerlendirmelerde bulundu. Son iki yılda ülkedeki siyasi dengelerin değiştiğini belirten Babacan, mevcut ekonomik koşulların seçim takvimini etkileyebileceğini dile getirdi.
 

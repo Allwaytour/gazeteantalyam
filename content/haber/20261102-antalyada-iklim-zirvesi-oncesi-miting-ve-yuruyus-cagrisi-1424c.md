@@ -71,6 +71,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Antalya Emek ve Demokrasi Güçleri Yürüyüş ve Tertip Komitesi Başkanı Mustafa Vakit, Küresel Eylem Günü dolayısıyla yaptığı açıklamada, iklim krizine karşı yürütülen uluslararası süreçleri eleştirdi. 'COP 31'e Karşı Yaşamı Savunuyoruz' sloganıyla gerçekleştirilecek etkinliklere dair bilgi veren Vakit, 190 ulusal ve 202 uluslararası kuruluşun desteklediği bu süreçte halkın tüm kesimlerinin doğrudan söz ve karar sahibi olması gerektiğini vurguladı.
 

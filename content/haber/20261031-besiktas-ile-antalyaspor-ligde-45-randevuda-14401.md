@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 İki ekip arasındaki Süper Lig rekabeti, 11 Eylül 1982 tarihinde İstanbul'da gerçekleştirilen ve siyah-beyazlıların 6-0'lık üstünlüğüyle tamamlanan müsabakayla başladı. O günden bu yana oynanan 44 lig maçının 31'ini Beşiktaş kazanırken, 4 müsabakada Antalyaspor galip geldi. Taraflar 9 karşılaşmada ise sahadan beraberlikle ayrıldı. Bu süreçte Beşiktaş 94 kez gol sevinci yaşarken, Akdeniz temsilcisi rakip fileleri 35 kez havalandırdı.
 

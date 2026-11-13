@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya'nın önemli doğal yaşam merkezlerinden biri olan Zeytinpark, doğaseverleri zeytin hasadı heyecanıyla buluşturmaya hazırlanıyor. Yaklaşık 2 milyon 630 bin metrekarelik alanda kurulan ve bünyesinde binlerce zeytin ağacı barındıran parkta, zeytin toplama etkinliği gerçekleştirilecek. Kentin yeşil dokusunun korunmasında önemli bir rol oynayan ve Antalya Ticaret Borsası öncülüğünde yürütülen çalışmalarla bugüne taşınan alan, düzenlenecek programla kapılarını ziyaretçilere açacak.
 

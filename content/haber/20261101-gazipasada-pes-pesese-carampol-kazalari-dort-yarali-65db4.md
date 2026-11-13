@@ -106,8 +106,9 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_duzeltme: gecti→geçti
 ---
-Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda gecti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
+Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda geçti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
 
 Meydana gelen ilk kazada hurdaya dönen kamyonetin sürücüsü ile birlikte yolcu konumunda bulunan Sıdıka Ç. ve 14 yaşındaki Ahmet KaƟan ç. yaralandı. Çevredekilerin ihbarı üzerine olay yerine jandarma, sağlık ve itfaiye ekipleri sevk edildi. Zorlu arazi koşullarında gerçekleştirilen kurtarma operasyonunun ardından yaralılar ilçedeki devlet hastanesine nakledilerek tedavi altına alındı.
 

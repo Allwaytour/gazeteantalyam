@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya'da turizm sezonunun arzulanan seviyede gerçekleşmemesi ve bankaların izlediği sıkı para politikaları, esnafın finansman ihtiyacını kooperatifler üzerinden karşılamasına neden oldu. İlçede faaliyet gösteren iki büyük esnaf kefalet kooperatifi, yılın ilk 10 aylık diliminde yoğun bir talep dalgasıyla karşılaştı ve esnafa 751 milyon liranın üzerinde finansal destek sağladı.
 

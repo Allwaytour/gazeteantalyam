@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1606733894347-7cb201dc810b?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fa/Penfold_Park_Children_Playground_2010.jpg
+yazim_denetim: y1
 ---
 Kemer Belediyesi Park ve Bahçeler Müdürlüğü ekipleri, ilçe genelinde yer alan yeşil alanlarda bakım ve çevre düzenleme faaliyetlerine aralıksız devam ediyor. Ekipler bu kapsamda budama, tırpanlama ve kapsamlı çevre temizliği çalışmaları gerçekleştiriyor.
 

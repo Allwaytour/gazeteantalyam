@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Belediyesi, sosyal belediyecilik faaliyetleri kapsamında ilçe genelindeki ihtiyaç sahibi ailelere destek olmayı sürdürüyor. Gerçekleştirilen saha incelemeleri sırasında, Bademağacı Mahallesi'nde üç çocuğuyla birlikte oldukça zor şartlar altında yaşamını sürdüren bir ailenin durumu tespit edildi.
 

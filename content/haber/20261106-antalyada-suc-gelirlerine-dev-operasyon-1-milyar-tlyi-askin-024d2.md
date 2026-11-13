@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Valiliği'nde gerçekleştirilen Asayiş ve Güvenlik Bilgilendirme Toplantısı'nda, ekim ayı boyunca yürütülen güvenlik çalışmaları kamuoyuyla paylaşıldı. Vali Hulusi Şahin'in basına aktardığı verilere göre, özellikle organize, mali ve kaçakçılık suçlarına karşı kararlı bir mücadele yürütüldü.
 

@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde il bazında kişi başına düşen milli gelir verileri, Batı Akdeniz bölgesindeki ekonomik tabloyu gözler önüne serdi. Açıklanan verilere göre Antalya, 17.103 dolarlık kişi başı geliriyle Türkiye'nin en zengin 5. ili olmayı başardı. İstanbul, Kocaeli, Ankara ve Tekirdağ'ın ardından gelen Antalya, ülke ortalamasının da üzerinde bir performans sergileyerek bölgenin ekonomik motoru konumunu korudu.
 

@@ -71,6 +71,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Milli Piyango'nun Kazı Kazan oyununda Antalya'nın Muratpaşa ilçesinde satılan karta 8 milyon TL, Kocaeli'nin İzmit ilçesinde satılan karta ise 24 milyon TL büyük ikramiye isabet etti. Toplamda 32 milyon TL kazanan talihlilerin ikramiyeleri seyyar bayilerden alındı.
 

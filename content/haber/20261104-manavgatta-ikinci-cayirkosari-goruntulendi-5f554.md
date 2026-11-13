@@ -101,6 +101,7 @@ gorsel_yerlesim:
   o_kart: 50% 31%
   o_kart_p: 49% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Buff_breasted_sandpiper_13.jpg/1280px-Buff_breasted_sandpiper_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Türkiye'de ilk kez Antalya'nın Manavgat ilçesinde rastlanan çayırkoşarı kuşunun ikinci bireyi de aynı bölgede tespit edildi. Kuzey ile Güney Amerika arasında yaklaşık 10 bin kilometrelik göç yolculuğu yapan türün ilk bireyi, Manavgat Nehri'nin denize döküldüğü alanda Hollandalı bir kuş gözlemcisi tarafından kayıt altına alınmıştı. Bu gelişmenin ardından ülkenin farklı kentlerinden çok sayıda kuş gözlemcisi bölgeye akın etmişti.
 

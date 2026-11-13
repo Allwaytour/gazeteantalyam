@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın Güllerpınarı Mahallesi'nde bulunan 4 yıldızlı bir otelde geçtiğimiz gece trajik bir olay yaşandı. Tatil amacıyla ilçeye gelen Finlandiya uyruklu Tima Nilo K. ile kız arkadaşı Ukrayna vatandaşı Yuliia Studylko, gece saatlerinde eğlencenin ardından kaldıkları odaya geçti. Aşırı alkollü olduğu belirtilen çiftin odaya girmesinin ardından Yuliia Studylko aniden yere yığıldı ve hareketsiz kaldı. Durumu fark eden erkek arkadaşı, otel görevlilerinden yardım talebinde bulundu.
 

@@ -124,6 +124,7 @@ yz: true
 kaynak: Antalya Gündem Gazetesi
 kaynak_url: https://www.antalyagundem.com.tr/kepezde-motorlar-sampiyonluk-icim-piste-cikti
 gorsel_yedek: /images/haber-gorsel/20261108-kepezde-otodrag-heyecani-sampiyonluk-icin-piste-ciktilar-3336-db621ab3.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kepez ilçesi, motor sporları tutkunlarını ağırlayan büyük bir organizasyona ev sahipliği yapıyor. Türkiye Otomobil Sporları Federasyonu tarafından düzenlenen Türkiye Otodrag Şampiyonası'nın 4. ayak yarışları, Aydoğmuş Mahallesi'ndeki Kepez Yeni Drag Pisti'nde gerçekleştiriliyor. İki gün süren etkinliğin ilk gününde yapılan antrenman ve sıralama turlarının ardından, bugün final heyecanı yaşanıyor.
 

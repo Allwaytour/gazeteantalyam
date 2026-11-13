@@ -113,6 +113,7 @@ yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/emo-antalya-sube-baskani-saban-tattan-cati-ges-cagrisi-faturaya-izin-var-uretime-yok/388895
 gorsel_yedek: /images/haber-gorsel/20261108-emodan-gunes-enerjisi-sistemleri-icin-burokrasi-cagrisi-71f26-e0b3be2c.jpg
+yazim_denetim: y1
 ---
 Elektrik faturalarını düşürmek amacıyla evlerinin çatısına güneş paneli kurmak isteyen vatandaşlar, özellikle kırsal alanlarda bürokratik engellerle karşılaşıyor. Uzun süredir elektrik abonesi olan ve faturalarını düzenli ödeyen kişilerin, yapıların imar veya ruhsat durumları gerekçe gösterilerek güneş enerjisi sistemleri kurmalarına izin verilmiyor.
 

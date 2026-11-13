@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Masoud_Pezeshkian_Moscow_2026.jpg/1280px-Masoud_Pezeshkian_Moscow_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Liderler Zirvesi kapsamında önemli açıklamalarda bulunuldu. Zirvede konuşan İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ve İsrail'in ülkesine yönelik gerçekleştirdiği son saldırıların sadece insani ve ekonomik kayıplara yol açmadığını, aynı zamanda doğaya büyük oranda zarar verdiğini ifade etti.
 

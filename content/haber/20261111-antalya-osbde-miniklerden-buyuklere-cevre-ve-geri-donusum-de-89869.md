@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Organize Sanayi Bölgesi'nde 11 Kasım Milli Ağaçlandırma Günü dolayısıyla düzenlenen etkinlikte, çocukların çevre bilincini yansıtan çalışmaları dikkat çekti. Ali Bahar Antalya OSB Teknik Koleji öğrencileri ile Antalya OSB Kreş ve Gündüz Bakımevi'nde eğitim alan çocuklar, belirlenen alanlarda zeytin fidanlarını toprakla buluşturdu. Lise öğrencileri diktikleri fidanların dallarına Atatürk'ün doğa sevgisini anlatan sözlerini ve kendi kaleme aldıkları mesajları astı. Programda, Antalya OSB Yönetim Kurulu Başkanı Hasanali Gönen, Yönetim Kurulu Üyesi Mehmet Atılgan ve Bölge Müdürü İlhan Metin de yer alarak öğrencilere eşlik etti.
 

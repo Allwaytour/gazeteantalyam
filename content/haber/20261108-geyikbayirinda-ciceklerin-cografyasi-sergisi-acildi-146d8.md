@@ -121,6 +121,7 @@ yz: true
 kaynak: Evrensel.net
 kaynak_url: https://www.evrensel.net/haber/6008534/antalya-geyikbayirinda-ciceklerin-cografyasi-sergisi-kapilarini-acti
 gorsel_yedek: /images/haber-gorsel/20261108-geyikbayirinda-ciceklerin-cografyasi-sergisi-acildi-146d8-419653ba.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Geyikbayırı bölgesinde yer alan Greenhouse, sanat ve ekolojiyi bir araya getiren yeni bir sergiye ev sahipliği yapıyor. Greenhouse Art Days oluşumunun dördüncü sergisi niteliğini taşıyan “Çiçeklerin Coğrafyası”, Oksitosin Tıp ve Sanat Platformu iş birliği ve Melike Bayık’ın küratörlüğünde sanatseverlerin izlenimine sunuldu.
 

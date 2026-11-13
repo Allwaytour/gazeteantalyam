@@ -142,6 +142,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261106-ali-babacan-antalyanin-potansiyeline-dikkat-cekti-b6be4-8f0210cb.jpg
+yazim_denetim: y1
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, Antalya'nın turizm, tarım ve sanayi sektörlerindeki potansiyelinin Türkiye adına büyük bir umut kaynağı olduğunu ifade etti. Doğru politikalarla kentin çok daha güçlü bir ekonomik konuma gelebileceğini belirtti.
 

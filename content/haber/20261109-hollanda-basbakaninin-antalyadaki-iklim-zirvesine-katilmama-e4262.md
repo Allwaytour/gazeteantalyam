@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Hollanda Başbakanı Rob Jetten'in, Antalya kentinde gerçekleştirilen Birleşmiş Milletler İklim Zirvesi'ne katılımını iptal etmesi, etkinlikte yer alan Hollandalı iklim aktivistleri tarafından hayal kırıklığıyla karşılandı. Başbakanın, vergi planına siyasi destek sağlamak amacıyla Lahey'de kalmayı tercih etmesi iklim çevrelerinde kaçırılmış bir fırsat olarak değerlendirildi.
 

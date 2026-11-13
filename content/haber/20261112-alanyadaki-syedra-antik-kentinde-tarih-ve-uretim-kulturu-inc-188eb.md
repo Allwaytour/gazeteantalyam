@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/3/3d/Olive_Oil_%2850316477903%29.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Alanya'da gerçekleştirilen tarih odaklı etkinlikler kapsamında, farklı liselerden öğretmen ve öğrenciler Syedra Antik Kenti'ni ziyaret etti. Projeler doğrultusunda düzenlenen geziye Hasan Çolak Anadolu Lisesi, Hüseyin Girenes Fen Lisesi, Türkler Borsa İstanbul Sosyal Bilimler Lisesi ile Kestel Sultan Alparslan Anadolu Lisesinden öğrenciler katılım gösterdi.
 

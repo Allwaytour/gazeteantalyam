@@ -76,6 +76,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Gazipasa-Alanya_coast_01-3.jpg
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bb/Kral_koyu%2C_Gazipa%C5%9Fa%2C_Antalya.jpg
+yazim_denetim: y1
 ---
 Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı doğrultusunda, Türkiye genelinde Karayolları Genel Müdürlüğü mülkiyetinde bulunan 37 taşınmazın satış yoluyla özelleştirilmesinin önü açıldı. Ülke genelindeki 17 farklı ili kapsayan kararın Antalya ayağında, Gazipaşa ilçesi yer aldı.
 

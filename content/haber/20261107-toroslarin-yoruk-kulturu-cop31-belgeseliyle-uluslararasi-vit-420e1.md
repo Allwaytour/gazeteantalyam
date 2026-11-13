@@ -154,6 +154,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/A_part_of_Western_Taurus.jpg/1280px-A_part_of_Western_Taurus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261107-toroslarin-yoruk-kulturu-cop31-belgeseliyle-uluslararasi-vit--cf8b346b.jpg
+yazim_denetim: y1
 ---
 Antalya'nın ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) sürecinde, Toroslar bölgesindeki Sarıkeçili Yörüklerinin yaşam tarzı belgesel formatına aktarıldı. COP31 Başkanlığı'nın resmi mecralarında yayımlanan "The Yörüks" adlı yapım, insanoğlunun doğayla kurduğu köklü bağı ve göçebe yaşamın zorluklarını küresel izleyiciye sunuyor.
 

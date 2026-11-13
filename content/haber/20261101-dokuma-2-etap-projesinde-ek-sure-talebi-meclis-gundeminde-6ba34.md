@@ -106,6 +106,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kepez Belediye Başkanı Mesut Kocagöz'ün ortak akıl vurgusunun ardından hayata geçirilen Dokuma 2. Etap Projesi hazırlıkları sürerken, süreçle ilgili yeni bir aşamaya gelindi. Fabrikalar Mahallesi'nde yer alan büyük alan üzerinde hayata geçirilecek projeyi hazırlamakla görevlendirilen çalışma grubunun çalışmaları, kasım ayı belediye meclisi toplantısında ele alınacak.
 

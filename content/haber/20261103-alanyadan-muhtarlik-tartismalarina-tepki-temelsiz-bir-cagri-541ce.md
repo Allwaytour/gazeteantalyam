@@ -42,6 +42,7 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-muhtarlik-tartismasina-sert-tepki
 gorsel_yedek: /images/haber-gorsel/20261103-alanyadan-muhtarlik-tartismalarina-tepki-temelsiz-bir-cagri-5-c95a0a2f.jpg
+yazim_denetim: y1
 ---
 Bazı medya organları ile sosyal medya hesaplarında bilinçli şekilde gündeme getirilen muhtarlıkların lağvedilmesi yönündeki çağrılara Alanya'dan yanıt geldi. Alanya Muhtarlar Derneği Başkanı Rüştü Vural, bu tür söylemlerin altının boş ve mesnetsiz olduğunu belirterek, Osmanlı dönemine kadar uzanan bu kurumun yerel demokrasinin belkemiği olduğunu vurguladı. Vural, muhtarlığın işlevini yitirmediğini, aksine halkın sorunlarına çözüm aradığı ilk kapı olma özelliğini sürdürdüğünü ifade etti.
 

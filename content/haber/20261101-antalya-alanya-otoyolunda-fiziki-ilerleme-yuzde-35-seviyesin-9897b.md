@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya ile Alanya arasındaki ulaşımı hızlandırmak ve bölge turizmini desteklemek amacıyla hayata geçirilen otoyol projesinde çalışmalar sürüyor. Yürütülen projeyle birlikte bölgedeki artan ulaşım talebine yanıt verilmesi ve kara yolu ulaşımının daha güvenli ve konforlu hale getirilmesi hedefleniyor.
 

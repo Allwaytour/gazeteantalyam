@@ -106,6 +106,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/f3/20240907_Tahinli_Antalya_Piyaz%C4%B1.jpg
 - https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_denetim: y1
 ---
 Antalya'nın köklü geçmişini ve geleneksel yaşam tarzını ziyaretçilerle buluşturmak amacıyla hazırlanan Antalya Evi'nde çalışmalar son aşamaya geldi. Yaklaşık on yıldır kullanılmadığı için yıpranan ve tavanından zeminine kadar zarar gören yapı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından tahsis edildikten sonra yenilendi. Çeşitli kurum ve kişilerin desteğiyle gerçekleştirilen restorasyon sürecinde binanın camları, ahşap bölümleri ve diğer tüm alanları elden geçirildi.
 

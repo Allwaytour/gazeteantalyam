@@ -69,6 +69,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya'da gün içerisinde hava koşullarında belirgin değişimler yaşanması bekleniyor. Sabah saatlerinde güneşli aralıklar görülürken, termometrelerin erken saatlerde 8 dereceye kadar gerilemesi öngörülüyor. Günün ilerleyen saatlerinde güneşin etkisiyle birlikte sıcaklık kademeli olarak artış gösterecek.
 

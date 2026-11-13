@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Manavgat ilçesi Demokrasi Bulvarı üzerinde yaşanan olayda, uyuşturucu madde etkisinde olduğu belirtilen bir genç elindeki bahçe aleti tahra ile sokağa çıktı. Karşısında biri varmış gibi boşluğa saldıran ve tahrayı gelişigüzel sallayan şahıs, vatandaşlara panik dolu anlar yaşattı. Zaman zaman araçların da önünü kesen genç, kendisini engellemek isteyenlere fırsat vermedi.
 

@@ -146,6 +146,7 @@ gorsel_yerlesim:
   yan_portre: false
   o_kart: 50% 100%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg/1280px-Asalet_ve_Cesaretin_Dans%C4%B1%3B_Zeybek_Oyunu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Gazipaşa Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından hayata geçirilen Halk Oyunları Kursu için başvuru süreci sürüyor. Geleneksel değerleri canlı tutmak ve kentteki sosyal yaşamı zenginleştirmek amacıyla hazırlanan eğitim programı, 20 yaş ve üzerindeki tüm kadın ve erkek vatandaşların katılımına açık tutuluyor.
 

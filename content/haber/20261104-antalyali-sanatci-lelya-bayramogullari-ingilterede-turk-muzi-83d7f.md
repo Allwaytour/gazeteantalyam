@@ -1,7 +1,7 @@
 ---
-title: Antalyali sanatci Lelya Bayramogullari Ingiltere'de Türk müzigini tanitti
+title: Antalyalı sanatçı Lelya Bayramogullari Ingiltere'de Türk müzigini tanıttı
 date: '2026-11-04T10:09:00+03:00'
-ozet: Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda Londra ve Manchester'da konserler vererek Türk müzigini uluslararasi dinleyicilerle bulusturdu.
+ozet: Antalyalı sanatçı Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsamında Londra ve Manchester'da konserler vererek Türk müzigini uluslararası dinleyicilerle buluşturdu.
 gorsel: https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_kredi: 'Fotoğraf: Radek Grzybowski / Unsplash'
 kategoriler:
@@ -80,7 +80,7 @@ etiketler:
 - Yunus Emre Enstitüsü
 - Türkiye'nin Londra Başkonsolosluğu
 - Manchester Başkonsolosluğu
-gorsel_yedek: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--bfe3f369.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-antalyali-sanatci-lelya-bayramogullari-ingilterede-turk-muzi--89b02f19.jpg
 gorsel_yerlesim:
   boyut:
   - 5703
@@ -106,11 +106,13 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+baslik_onceki: Antalyali sanatci Lelya Bayramogullari Ingiltere'de Türk müzigini tanitti
+yazim_duzeltme: Antalyali→Antalyalı; sanatci→sanatçı; tanitti→tanıttı; kapsaminda→kapsamında; uluslararasi→uluslararası; bulusturdu→buluşturdu; gerçeklestirdigi→gerçekleştirdiği; arasinda→arasında; sanatçi→sanatçı; yasli→yaşlı; düzenledigi→düzenlediği; müzigi→müziği; çalismasiyla→çalışmasıyla; ettigi→ettiği; gerçeklestirdi→gerçekleştirdi; Sanatçi→Sanatçı; olusan→oluşan; bulustu→buluştu; ayaginda→ayağında; araciligiyla→aracılığıyla; farkli→farklı; ardindan→ardından; ayinda→ayında; duydugunu→duyduğunu
 ---
-Antalyali sanatci Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsaminda gerçeklestirdigi konserlerde Türk müzigini uluslararasi dinleyicilerle bulusturdu. 24-30 Ekim tarihleri arasinda Londra ve Manchester'da üç konser veren sanatçi, ayrica Manchester'daki bir yasli bakim evini ziyaret ederek düzenledigi dinletiyle müzigi sosyal sorumluluk çalismasiyla bir araya getirdi.
+Antalyalı sanatçı Doç. Dr. Lelya Bayramogullari, Ingiltere turnesi kapsamında gerçekleştirdiği konserlerde Türk müzigini uluslararası dinleyicilerle buluşturdu. 24-30 Ekim tarihleri arasında Londra ve Manchester'da üç konser veren sanatçı, ayrica Manchester'daki bir yaşlı bakim evini ziyaret ederek düzenlediği dinletiyle müziği sosyal sorumluluk çalışmasıyla bir araya getirdi.
 
-Bayramogullari, turnenin ilk konserini Londra'daki Yunus Emre Enstitüsünde düzenlenen Türk-Ingiliz Dostluk Konseri'nde verdi. Günler öncesinden biletleri tükenen konserde, Ingiliz besteci ve meslektasi Katrina Penman ile ayni sahneyi paylasan sanatçi, Penman'in kendisine ithaf ettigi Breaking & Mending adli eserin Londra prömiyerini gerçeklestirdi. Sanatçi, Londra'daki ikinci konserinde ise Ingiltere'de yasayan piyanist Pinar Vasi ile sahne aldi. Türkiye'nin Londra Baskonsolosu Büyükelçi Hasan Ulusoy'un himayesinde düzenlenen resitalde, Türk ve dünya sanat müziginden eserler seslendirildi.
+Bayramogullari, turnenin ilk konserini Londra'daki Yunus Emre Enstitüsünde düzenlenen Türk-Ingiliz Dostluk Konseri'nde verdi. Günler öncesinden biletleri tükenen konserde, Ingiliz besteci ve meslektasi Katrina Penman ile ayni sahneyi paylasan sanatçı, Penman'in kendisine ithaf ettiği Breaking & Mending adli eserin Londra prömiyerini gerçekleştirdi. Sanatçı, Londra'daki ikinci konserinde ise Ingiltere'de yasayan piyanist Pinar Vasi ile sahne aldi. Türkiye'nin Londra Baskonsolosu Büyükelçi Hasan Ulusoy'un himayesinde düzenlenen resitalde, Türk ve dünya sanat müziginden eserler seslendirildi.
 
-Bayramogullari, 29 Ekim Cumhuriyet Bayrami'nda Manchester Baskonsoloslugunun davetiyle bu kez solo flüt resitali verdi. Türk bestecilerinin eserlerinden olusan program, Cumhuriyet Bayrami coskusuyla dinleyicilerle bulustu. Turnenin sosyal sorumluluk ayaginda ise Manchester'daki bir yasli bakim evini ziyaret eden Bayramogullari, Manchester Baskonsoloslugunun himayesinde bakim evi sakinlerine özel bir dinleti sundu. Türk ve dünya bestecilerinin eserlerinden olusan solo flüt dinletisiyle yaslilarin kalplerine dokunan sanatçi, müzik araciligiyla farkli kusaklari bir araya getirdi.
+Bayramogullari, 29 Ekim Cumhuriyet Bayrami'nda Manchester Baskonsoloslugunun davetiyle bu kez solo flüt resitali verdi. Türk bestecilerinin eserlerinden oluşan program, Cumhuriyet Bayrami coskusuyla dinleyicilerle buluştu. Turnenin sosyal sorumluluk ayağında ise Manchester'daki bir yaşlı bakim evini ziyaret eden Bayramogullari, Manchester Baskonsoloslugunun himayesinde bakim evi sakinlerine özel bir dinleti sundu. Türk ve dünya bestecilerinin eserlerinden oluşan solo flüt dinletisiyle yaslilarin kalplerine dokunan sanatçı, müzik aracılığıyla farklı kusaklari bir araya getirdi.
 
-Üç konser ve bir sosyal sorumluluk etkinligiyle Ingiltere turnesini tamamlayan Bayramogullari, konserlerinin ardindan subat ayinda yeniden sahne almak üzere Ingiltere'ye davet edildi. Sanatçi, Türkiye'yi uluslararasi platformlarda temsil etmekten ve müzik araciliginda kültürler arasinda köprü kurmaktan mutluluk duydugunu ifade etti.
+Üç konser ve bir sosyal sorumluluk etkinligiyle Ingiltere turnesini tamamlayan Bayramogullari, konserlerinin ardından subat ayında yeniden sahne almak üzere Ingiltere'ye davet edildi. Sanatçı, Türkiye'yi uluslararası platformlarda temsil etmekten ve müzik araciliginda kültürler arasında köprü kurmaktan mutluluk duyduğunu ifade etti.

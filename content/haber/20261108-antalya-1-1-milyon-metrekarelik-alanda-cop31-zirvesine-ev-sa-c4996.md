@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye, tarihinde ilk kez Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı'na ev sahipliği yapmaya hazırlanıyor. Küresel iklim politikasının yönünü şekillendiren ve 12 gün sürecek olan zirve, Antalya'da toplam 1 milyon 100 bin metrekarelik alanda hayata geçirilecek. Organizasyon için hazırlanan alanın 527 bin metrekarelik kısmı Mavi Bölge, 582 bin metrekarelik kısmı ise Yeşil Bölge olarak planlandı.
 

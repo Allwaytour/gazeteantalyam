@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen COP31 İklim Zirvesi, uluslararası düzeyde birçok lideri bir araya getirdi. Zirve kapsamında kentte bulunan Ermenistan Başbakanı Nikol Paşinyan, programı sırasında verdiği çay molasına ait görüntüleri kendi sosyal medya hesabından yayımladı. Bu paylaşım, Başbakan'ın Antalya ziyaretinin resmi programı dışındaki dikkat çeken anlardan biri oldu.
 

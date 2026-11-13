@@ -210,6 +210,7 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Yunanistan ve Fransa ortaklığındaki Girit-Kıbrıs hattı projesi kapsamında planlanan deniz dibi taraması girişimi, Türkiye'nin kararlı tutumuyla karşılaştı. Türk kıta sahanlığında izinsiz elektrik kablo araştırması yapmak amacıyla yayımlanan NAVTEX ilanı, Antalya İstasyonu tarafından geçersiz kılındı. Fransa bayraklı bir gemiyle yapılması planlanan ve rotasının büyük bölümü Türkiye'nin deniz yetki alanlarında kalan faaliyet için Ankara'dan herhangi bir izin talebinde bulunulmadığı bildirildi.
 

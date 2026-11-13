@@ -64,6 +64,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Alanya'da geleneksel halk oyunlarının yaşatılması ve kültürel mirasın gelecek kuşaklara aktarılması amacıyla düzenlenen zeybek kursları yeniden başlıyor. Alanya Belediyesi ile Alanya Kültür Sanat ve Turizm Vakfı iş birliğinde gerçekleştirilecek Alanya ve Ege Yöresi Zeybek Kursları, altıncı döneminde vatandaşlarla buluşmaya hazırlanıyor.
 

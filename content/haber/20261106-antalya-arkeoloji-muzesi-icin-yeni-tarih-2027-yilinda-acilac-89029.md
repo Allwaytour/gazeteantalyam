@@ -151,6 +151,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261106-antalya-arkeoloji-muzesi-icin-yeni-tarih-2027-yilinda-acilac--fb388d08.jpg
+yazim_denetim: y1
 ---
 Antalya'nın simge yapıları arasında yer alan ve yıkımı kentte uzun süre tartışmalara neden olan Antalya Arkeoloji Müzesi'nin açılış takviminde değişikliğe gidildi. Daha önce tamamlanacağı tarih olarak 2026 yılı duyurulan müze projesi için yeni hedef 2027 yılı olarak açıklandı.
 

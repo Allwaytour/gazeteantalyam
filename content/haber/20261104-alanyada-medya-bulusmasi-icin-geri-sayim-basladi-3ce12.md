@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya Gazeteciler Cemiyeti (AGC) yönetimi, cemiyet binasında bir araya gelerek ödül töreni öncesindeki son hazırlıkları gözden geçirdi. AGC Başkanı Gaye Coşkun, 12-14 Kasım tarihlerinde gerçekleştirilecek organizasyonun Türk medyası açısından taşıdığı öneme vurgu yaptı. Medya Başarı Ödülleri Yarışması'nda 11 farklı dalda derece elde eden 12 eserin sahibinin ödüllendirileceği etkinlik için Anadolu'nun farklı bölgelerinden yaklaşık 35 gazetecinin Alanya'ya geleceği bildirildi.
 

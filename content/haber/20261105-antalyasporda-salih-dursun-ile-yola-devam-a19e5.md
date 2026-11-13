@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
+yazim_denetim: y1
 ---
 Antalyaspor, devre arasında Galatasaray'dan kiralık olarak kadrosuna kattığı Salih Dursun ile yola devam etme kararı aldı. Kırmızı-beyazlı kulübün asbaşkanı Bora Terzioğlu, 26 yaşındaki futbolcunun kiralık döneminde gösterdiği başarılı performansın ardından teknik heyet ve yönetimin ortak kararıyla transferin kalıcı hale getirildiğini açıkladı.
 

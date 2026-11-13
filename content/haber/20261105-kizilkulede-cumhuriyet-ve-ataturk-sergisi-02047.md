@@ -221,6 +221,7 @@ gorsel_yerlesim:
   o_kart_p: 23% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Alanya_Hafen_-_panoramio.jpg/1280px-Alanya_Hafen_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261105-kizilkulede-cumhuriyet-ve-ataturk-sergisi-02047-cd9f4e67.jpg
+yazim_denetim: y1
 ---
 Alanya'nın kültürel mirasında önemli bir yere sahip olan 800 yıllık Kızılkule, Cumhuriyet'in 103. yıl dönümü dolayısıyla düzenlenen anlamlı bir etkinliğe kapılarını açtı. Alanya Güzel Sanatlar Lisesi öğrencileri tarafından hazırlanan "Cumhuriyet ve Atatürk Sergisi", tarihi yapının atmosferinde sanatseverlerle buluştu. Genç yeteneklerin sanatsal çalışmalarını geniş kitlelere ulaştırmasını sağlayan sergi, tarih ve sanatın bir araya geldiği bir platform oluşturdu.
 

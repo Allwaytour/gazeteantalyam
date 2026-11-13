@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1553695142-4bb5259028e2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1776188590443-99e93967af57?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sosyal belediyecilik faaliyetlerini sürdüren Kepez Belediyesi, ilçe genelindeki yaşlı ve engelli bireylerin günlük yaşamını kolaylaştıracak yeni bir hizmeti devreye sokuyor. 'Bir Nefes Ver Hayatıma' adı verilen proje çerçevesinde, Gülveren Mahallesi Semt pazarına alışveriş için gelen yaşlı ve engelli vatandaşlara evlerine dönüşlerinde ücretsiz ulaşım desteği verilecek.
 

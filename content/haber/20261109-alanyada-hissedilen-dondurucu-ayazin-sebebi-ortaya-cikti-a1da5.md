@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye genelinde hava sıcaklıklarında düşüşe neden olan Sibirya kökenli soğuk hava dalgası, Akdeniz kıyılarına kadar ulaştı. Turizm kenti Alanya'da son günlerde yaşanan belirgin sıcaklık düşüşü ve ilçe merkezine kadar inen kış şartları, vatandaşlara zor anlar yaşattı.
 

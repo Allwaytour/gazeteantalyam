@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol 1'inci Lig'in 6'ncı haftasında oynanan mücadelede Antalyaspor ile Sivasspor karşı karşıya geldi. Ev sahibi ekipte yeni transferler kaleci Fotis Pseftis ile forvet Nuno Da Costa maçta ilk 11'de görev yaptı. Karşılaşmanın ilk golü konuk ekipten geldi. Mücadelenin 20'nci dakikasında Manaj'ın pasıyla ceza sahasında topla buluşan Kamil Fidan, takımını öne geçiren golü kaydetti. Golü atan oyuncu kısa süre sonra sakatlanarak oyundan çıkmak zorunda kaldı.
 

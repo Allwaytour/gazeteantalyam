@@ -45,6 +45,7 @@ gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-turk-saat-sektoru-2027-sezonu-icin-antalyada-bulustu-fbbab-809a5b46.jpg
+yazim_denetim: y1
 ---
 Türkiye saat sektörünün önde gelen isimleri, 2027 sezonuna yönelik planlamaları görüşmek üzere Antalya'da bir araya geldi. Gerçekleştirilen zirvede, önümüzdeki yıllarda satışa çıkarılması hedeflenen yeni saat ve gözlük tasarımları görücüye çıkarken, iç piyasanın büyümesine dair stratejiler de masaya yatırıldı.
 

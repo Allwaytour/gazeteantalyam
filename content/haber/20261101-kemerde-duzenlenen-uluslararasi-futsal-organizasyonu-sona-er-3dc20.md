@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kemer'de sporseverlerin buluştuğu uluslararası bir futsal organizasyonu tamamlandı. Daha önceki dönemde kente kazandırılan kapalı spor salonunda yapılan şampiyonanın final karşılaşmaları büyük bir heyecana sahne oldu. Eleme usulüyle düzenlenen mücadelelerde farklı ülkelerden gelen takımlar sahada kıyasıya bir rekabet sergiledi.
 

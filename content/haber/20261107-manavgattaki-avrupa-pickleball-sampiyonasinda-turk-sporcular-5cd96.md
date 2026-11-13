@@ -208,6 +208,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye'de ilk defa Antalya'nın Manavgat ilçesinde hayata geçirilen Avrupa Pickleball Açık Şampiyonası, farklı ülkelerden gelen sporcuların katılımıyla büyük bir heyecana sahne oluyor. Ali Bey Kulübü Tesisleri'nde gerçekleştirilen dev organizasyonda otuz yedi farklı ülkeden dört yüz yetmiş iki sporcu kıyasıya mücadele ediyor.
 

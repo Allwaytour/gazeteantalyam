@@ -75,6 +75,7 @@ gorsel_yerlesim:
   o_kart_p: 56% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Kepez Belediyesi bünyesinde Dokumapark'ta faaliyet gösteren Anadolu Oyuncak Müzesi, her yaştan ziyaretçinin akınına uğruyor. Özellikle hafta sonları yoğunluk yaşanan müze, çocuklarla yetişkinleri ortak bir noktada buluşturarak geçmişle bugün arasında keyifli bir köprü kuruyor.
 

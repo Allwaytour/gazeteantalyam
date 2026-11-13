@@ -74,6 +74,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya, uluslararası alanda dikkat çeken spor organizasyonlarına ev sahipliği yapmaya devam ediyor. Bu kapsamda düzenlenen MLO Strongman Champions League World Semi Finals, Kleopatra Plajı'nda yapıldı. Güç, dayanıklılık ve kuvvetin ön planda olduğu etkinlikte sporcular şampiyonluk için kıyasıya rekabet etti. Yüz ülkede yayınlanacağı belirtilen bu organizasyonun, kentin uluslararası düzeyde tanıtımına katkı sağlaması hedefleniyor.
 

@@ -77,6 +77,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1596997000103-e597b3ca50df?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1606733894347-7cb201dc810b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya’nın Muratpaşa ilçesinde, Haşim İşcan Kültür Merkezi’nin yanında yer alan ve 2018 yılında hizmete giren Tarık Akan Parkı’nın bugünkü görünümü merak uyandırdı. Yaklaşık dokuz dönümlük alan üzerindeki eski gecekonduların yıkılmasının ardından kurulan park, bir dönemin dikkat çeken yeşil alanları arasında yer alıyordu. Bitki labirentleri ve kare kod uygulamasıyla kente kazandırılan parkın zaman içinde değişime uğradığı görüldü.
 

@@ -247,6 +247,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 İki ekip arasındaki rekabet, 11 Eylül 1982 tarihinde İstanbul'da oynanan ve siyah-beyazlıların 6-0'lık üstünlüğüyle başlayan ilk lig maçıyla bugüne kadar taşındı. Geride kalan 44 lig karşılaşmasında Beşiktaş 31 galibiyet elde ederken, Antalyaspor 4 kez sahadan galibiyetle ayrıldı. Taraflar arasındaki 9 müsabaka ise beraberlikle sonuçlandı. Bu karşılaşmalarda Beşiktaş rakip fileleri 94 kez havalandırırken, Akdeniz temsilcisi 35 golle karşılık verdi. Geçen sezon oynanan iki maçı da siyah-beyazlı ekip 2-0 ve 2-1'lik skorlarla kazandı.
 

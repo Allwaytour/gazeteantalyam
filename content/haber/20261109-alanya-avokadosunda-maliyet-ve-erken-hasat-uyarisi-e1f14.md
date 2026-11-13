@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a1/Ugandan_avocado_fruit_on_the_tree_7.jpg
+yazim_denetim: y1
 ---
 Alanya'da tarım sektörünün önemli ürünlerinden biri olan avokadonun üretim ve pazarlama süreci masaya yatırıldı. Ürünlerin bahçedeki satış fiyatı ile tezgâhlardaki rakamlar arasındaki farkın arkasında, üretim sürecindeki yüksek masrafların yer aldığı ifade edildi. Elektrik, su, gübre ve işçilik gibi giderlerin üreticiyi zorladığına işaret edilerek, ithal ürünlerin vergi dahil maliyetleri nedeniyle yerli üreticinin de fiyatları bu seviyelerde tutmak zorunda kaldığı aktarıldı.
 

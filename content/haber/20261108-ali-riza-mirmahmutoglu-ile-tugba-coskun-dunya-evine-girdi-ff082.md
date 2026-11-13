@@ -75,6 +75,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+yazim_denetim: y1
 ---
 Antalya’da Serbest Muhasebeci ve Mali Müşavir Ali Rıza Mirmahmutoğlu ile Tuğba Coşkun, DenizimPark’ta düzenlenen görkemli bir düğün töreniyle dünyaevine girdi. Çiftin aileleri, yakın dostları ve sevenlerinin katılımıyla gerçekleşen bu özel günde, Antalya’nın iş ve siyaset dünyasından pek çok isim de yer aldı. Genç çift, mutluluklarını paylaşan davetlilerle yakından ilgilenerek bu anlamlı günü ölümsüzleştirdi.
 

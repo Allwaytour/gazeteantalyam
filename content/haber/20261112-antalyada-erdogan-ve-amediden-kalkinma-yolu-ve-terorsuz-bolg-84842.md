@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi için Antalya'da bulunan Irak Cumhurbaşkanı Nizar Amedi ile görüştü. İletişim Başkanlığından yapılan açıklamaya göre gerçekleştirilen bu görüşmede, Türkiye ile Irak arasındaki ikili ilişkiler ve çeşitli bölgesel meseleler masaya yatırıldı.
 

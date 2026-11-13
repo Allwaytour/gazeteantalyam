@@ -77,6 +77,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/b6/Street_cats_in_Manavgat%2C_Antalya_01.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/e1/Feral_cat_4.jpg
+yazim_denetim: y1
 ---
 Alanya'da toplu taşıma araçlarından birinde kaydedilen görüntüler, hayvanseverlerin yüzünü güldürdü. Şehir içi yolcu taşımacılığı yapan bir otobüse misafir olan minik kedi, araç içinde kendisine ayrılan konforlu alanda yolculuk yaptı.
 

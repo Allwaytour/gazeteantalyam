@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Belediyesi Kasım Ayı Olağan Meclis Toplantısı, Belediye Başkan Vekili Murat Levent Koçak’ın yönetiminde gerçekleştirildi. Toplantıda altyapı, asfalt yenileme, sosyal projeler ve spor organizasyonları dahil olmak üzere belediyenin yürüttüğü birçok faaliyet meclis üyelerine aktarıldı. Oba Çayı alt kesimi, Mahmutlar ve Kargıcak derelerinde ıslah çalışmalarının sürdüğü, Benliler Deresi için ise Devlet Su İşleri koordinasyonunda önlemler alındığı ifade edildi.
 

@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
+yazim_denetim: y1
 ---
 SMS Grup Efeler Ligi'nin 5'inci haftasında sahaya çıkan ON Hotels Alanya Belediyespor, Gaziantep deplasmanında istediği sonucu alamadı. Şahinbey Spor Salonu'nda oynanan müsabakanın ilk iki setini 25-18 ve 25-23'lük skorlarla kaybeden Antalya temsilcisi, maçtan kopmayarak büyük bir direnç gösterdi.
 

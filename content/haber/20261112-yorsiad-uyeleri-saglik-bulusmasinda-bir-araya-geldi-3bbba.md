@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Yörük Sanayici ve İş İnsanları Derneği (YÖRSİAD) üyeleri, kentteki bir hastanede gerçekleştirilen sağlık buluşmasında bir araya geldi. Etkinlik, kurum yetkililerinin bilgilendirme sunumuyla başlarken, dernek başkanı hastanenin sunduğu sağlık hizmetlerinden övgüyle söz etti ve iki kurum arasındaki iş birliğine dikkat çekti.
 

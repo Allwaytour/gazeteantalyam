@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Milli Piyango’nun 2027 Yılbaşı Özel Çekilişi kapsamında bilet fiyatları ve ikramiye tutarları netleşti. Yılbaşı çekilişi biletleri satışa çıkarılırken, tüm bilet türlerinde yüzde 25 oranında bir fiyat artışına gidildiği görüldü.
 

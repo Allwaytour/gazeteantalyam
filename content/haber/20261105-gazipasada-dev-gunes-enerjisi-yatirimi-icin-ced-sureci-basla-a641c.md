@@ -145,6 +145,7 @@ gorsel_yerlesim:
 etiketler:
 - Cengiz Elektrik Toptan Satış A.Ş
 gorsel_yedek: /images/haber-gorsel/20261105-gazipasada-dev-gunes-enerjisi-yatirimi-icin-ced-sureci-basla--44f2b209.jpg
+yazim_denetim: y1
 ---
 Cengiz Elektrik Toptan Satış A.Ş. tarafından Gazipaşa'nın Şahinler Mahallesi'nde kurulması planlanan güneş enerji santrali ve enerji depolama tesisi projesi için Çevresel Etki Değerlendirmesi (ÇED) süreci başlatıldı. Toplam 76,34 hektarlık alana yayılması öngörülen tesis, 50 MWm/50 MWe kurulu gücüyle yıllık yaklaşık 100 milyon kilovatsaat elektrik üretmeyi hedefliyor. Proje kapsamında 100 bin güneş paneli ve batarya depolama sistemlerinin kurulması planlanıyor.
 

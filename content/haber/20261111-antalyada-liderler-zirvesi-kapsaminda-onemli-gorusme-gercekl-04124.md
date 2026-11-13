@@ -72,6 +72,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
+yazim_denetim: y1
 ---
 Antalya'nın ev sahipliğinde devam eden Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı, dünya genelinden pek çok lideri bir araya getirmeyi sürdürüyor. Zirve kapsamında gerçekleştirilen diplomatik temaslar çerçevesinde önemli bir ikili görüşme yapıldı. Cumhurbaşkanı Recep Tayyip Erdoğan, Avustralya Başbakanı Anthony Albanese'yi kabul etti.
 

@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın Konaklı Mahallesi'nde yaşanan olayda, 18 yaşındaki M.A. evinde bulunduğu sırada henüz belirlenemeyen bir nedenle kendisine zarar verdi. Durumu fark eden aile bireyleri, vakit kaybetmeden 112 Acil Çağrı Merkezi'ne ihbarda bulundu.
 

@@ -1,7 +1,7 @@
 ---
-title: Antalyalı sporcular atlı binicilik şampiyonasında mucadele etti
+title: Antalyalı sporcular atlı binicilik şampiyonasında mücadele etti
 date: '2026-11-03T13:20:00+03:00'
-ozet: Gençlik ve Spor Bakanlığı ile Türkiye Özel Sporcular Spor Federasyonu tarafindan Nevşehir'de duzenlenen Atli Binicilik Sampiyonasi'na katilan Antalya Adalya Spor Kulübü, basarili bir organizasyonu geride birakti.
+ozet: Gençlik ve Spor Bakanlığı ile Türkiye Özel Sporcular Spor Federasyonu tarafından Nevşehir'de düzenlenen Atlı Binicilik Şampiyonası'na katılan Antalya Adalya Spor Kulübü, basarili bir organizasyonu geride bıraktı.
 gorsel: /images/kurum/17f296d389724772.jpg
 gorsel_kredi: 'Fotoğraf: NEVŞEHİR GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ'
 kategoriler:
@@ -45,7 +45,7 @@ otomatik: true
 yz: true
 kaynak: Akdenizmanset
 kaynak_url: https://www.akdenizmanset.com.tr/hem-yaristi-hem-kesfetti
-gorsel_yedek: /images/haber-gorsel/20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e--61439968.jpg
+gorsel_yedek: /images/haber-gorsel/20261103-antalyali-sporcular-atli-binicilik-sampiyonasinda-mucadele-e--29507f03.jpg
 baslik_onceki: Antalyali sporcular atli binicilik sampiyonasinda mucadele etti
 metin_onarim:
   tarih: '2026-11-13T11:29:41+03:00'
@@ -53,9 +53,10 @@ metin_onarim:
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
 baslik_ozgun: Antalyalı sporcular atlı binicilik şampiyonasında mücadele etti
+yazim_duzeltme: mucadele→mücadele; tarafindan→tarafından; duzenlenen→düzenlenen; Atli→Atlı; Sampiyonasi→Şampiyonası; katilan→katılan; birakti→bıraktı; Bakanligi→Bakanlığı; birliginde→birliğinde; gecirilen→geçirilen; cografi→coğrafi; Etkinlige→Etkinliğe; arasi→arası; baglarini→bağlarını; pekistirdi→pekiştirdi; etkinligi→etkinliği; yalnizca→yalnızca; yarisma→yarışma; degil→değil; firsati→fırsatı; degerlendirdi→değerlendirdi; Sampiyona→Şampiyona; kapsaminda→kapsamında; programi→programı; duzenlendi→düzenlendi; zar
 ---
-Genclik ve Spor Bakanligi ile Türkiye Özel Sporcular Spor Federasyonu is birliginde hayata gecirilen Atli Binicilik Sampiyonasi, Kapadokya'nin belirgin cografi atmosferinde organize edildi. Etkinlige Antalya Adalya Spor Kulübü, İzmir Alia Atlı Spor Kulübü ve Nevşehir Gençlik ve Spor İl Müdürlüğü Spor Kulübü katilim gösterdi.
+Genclik ve Spor Bakanlığı ile Türkiye Özel Sporcular Spor Federasyonu is birliğinde hayata geçirilen Atlı Binicilik Şampiyonası, Kapadokya'nin belirgin coğrafi atmosferinde organize edildi. Etkinliğe Antalya Adalya Spor Kulübü, İzmir Alia Atlı Spor Kulübü ve Nevşehir Gençlik ve Spor İl Müdürlüğü Spor Kulübü katilim gösterdi.
 
-Nevşehir'de gerceklasan iki günlük organizasyonda sporcular hem kıyasıya bir mucadele sergiledi hem de kulüpler arasi dostluk baglarini pekistirdi. Antalya'dan organizasyona dahil olan Adalya Spor Kulübü ve Akademi Adalya kafilesi, etkinligi yalnizca sportif bir yarisma olarak degil, ayni zamanda yeni kesifler yapma ve ani biriktirme firsati olarak degerlendirdi.
+Nevşehir'de gerceklasan iki günlük organizasyonda sporcular hem kıyasıya bir mücadele sergiledi hem de kulüpler arası dostluk bağlarını pekiştirdi. Antalya'dan organizasyona dahil olan Adalya Spor Kulübü ve Akademi Adalya kafilesi, etkinliği yalnızca sportif bir yarışma olarak değil, ayni zamanda yeni kesifler yapma ve ani biriktirme fırsatı olarak değerlendirdi.
 
-Sampiyona kapsaminda iki gün süren bir kamp programi da duzenlendi. Bu süre zarfinda Kapadokya'nin dogasini inceleme firsati bulan sporcular ve teknik ekip, ATV turlari ve sosyal aktivitelerle keyifli vakit gecirdi. Organizasyonu tamamlayan Antalya temsilcisi, moral depolayarak kente geri döndü.
+Şampiyona kapsamında iki gün süren bir kamp programı da düzenlendi. Bu süre zarfında Kapadokya'nin dogasini inceleme fırsatı bulan sporcular ve teknik ekip, ATV turları ve sosyal aktivitelerle keyifli vakit geçirdi. Organizasyonu tamamlayan Antalya temsilcisi, moral depolayarak kente geri döndü.

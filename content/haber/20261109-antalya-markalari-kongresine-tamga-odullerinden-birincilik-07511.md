@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Halkla İlişkiler Derneği (AHİD) tarafından hayata geçirilen Antalya Markaları Kongresi, kısa sürede elde ettiği başarılarla dikkat çekiyor. Kentin marka değerlerini ön plana çıkarmak ve kültürel mirası geleceğe taşımak amacıyla düzenlenen kongre, bu yıl ikinci kez gerçekleştirilen Tamga Marka Ödülleri'nde "Kültürel Değerlere Sahip Çıkma" kategorisinde birinciliğe layık görüldü.
 

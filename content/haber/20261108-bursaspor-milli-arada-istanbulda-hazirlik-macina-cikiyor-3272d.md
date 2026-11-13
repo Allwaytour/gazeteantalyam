@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol 1. Lig'de sergilediği başarılı performansla dikkat çeken ve milli araya lider olarak giren Bursaspor, çalışmalarına hız kesmeden devam ediyor. Yeşil-beyazlı ekip, liglere verilen arayı en iyi şekilde değerlendirmek amacıyla İstanbul'da özel bir maça çıkmaya hazırlanıyor.
 

@@ -148,6 +148,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/1280px-Turkish_nature_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-uc-bolgede-av-yasagi-cop31-oncesi-guvenlik-onlemi-0-06973385.jpg
+yazim_denetim: y1
 ---
 Antalya Doğa Koruma ve Milli Parklar Müdürlüğü, kentte gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde güvenlik tedbirlerini artırdı. Alınan karar doğrultusunda, Aksu Genel Avlağı, Serik Devlet Avlağı ve Gebiz Devlet Avlağı olmak üzere üç bölgede avcılık faaliyetlerine geçici süreyle ara verildi.
 

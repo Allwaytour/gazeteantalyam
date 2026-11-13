@@ -73,6 +73,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Korkuteli ilçesinde siyasi gündemi değiştiren önemli bir gelişme yaşandı. 31 Mart 2024 Mahalli İdareler Seçimleri'nde Cumhuriyet Halk Partisi'nden aday olarak belediye başkanlığı koltuğuna oturan Saniye Caran, partisinden ayrıldığını duyurdu. Yazılı bir açıklama yapan Caran, bundan sonraki süreçte görevine bağımsız belediye başkanı olarak devam edeceğini bildirdi.
 

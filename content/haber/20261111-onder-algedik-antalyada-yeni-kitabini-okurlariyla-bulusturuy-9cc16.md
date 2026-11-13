@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/d/d3/Matsukawa_Village_Library_bookshelves_ac_%281%29.jpg
 - https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kentte devam eden iklim zirvesinin yarattığı tartışmalar sürerken, iklim krizinin ardındaki sorumlulara dikkat çeken iklim ve enerji uzmanı Önder Algedik Antalyalı okurlarıyla bir araya geliyor. Algedik, yeni kitabı ekseninde iklim sözleşmesi taraflarının ve sermayenin krizdeki rolünü ele alacak.
 

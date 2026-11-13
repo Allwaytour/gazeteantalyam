@@ -66,6 +66,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya kentinde düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla temaslarda bulundu. Bu kapsamda Erdoğan, Türkmenistan Millî Lideri ve Halk Maslahatı Başkanı Gurbangulu Berdimuhammedov ile yemekte bir araya geldi.
 

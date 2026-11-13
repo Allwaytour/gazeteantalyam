@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'nın Tosmur Mahallesi'nde etkili olan yağışlar, bölgedeki yağmur suyu altyapısı sorununu yeniden gün yüzüne çıkardı. Mahallede bir sokakta meydana gelen su birikintileri üzerine tepkisini dile getiren Tosmur Mahalle Muhtarı Yakup Gündoğan, daha önce gerçekleştirilen drenaj çalışmalarının sorunu çözmekte yetersiz kaldığını ifade etti.
 

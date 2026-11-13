@@ -74,6 +74,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Serik ilçesinde uzun yıllardır sanayi esnafı olarak faaliyet gösteren Mustafa Kurt, Yeni Parti çatısı altında Serik Belediye Başkanlığı için aday adaylığını duyurdu. Yaklaşık 60 yıldır ilçede yaşayan ve bölgenin sorunlarına hakim olduğunu ifade eden Kurt, adaylık sürecine sanayi esnafının teşvikiyle girdiğini vurguladı.
 

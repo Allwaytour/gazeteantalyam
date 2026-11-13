@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Antalya'da sürdürülen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde Üst Düzey Yuvarlak Masa Toplantısı gerçekleştirildi. Toplantıya katılan Sağlık Bakanı Prof. Dr. Kemal Memişoğlu, iklim krizinin sağlık üzerindeki etkilerine dikkat çekerek, çevre politikalarının odağında insan sağlığının yer alması gerektiğini kaydetti.
 

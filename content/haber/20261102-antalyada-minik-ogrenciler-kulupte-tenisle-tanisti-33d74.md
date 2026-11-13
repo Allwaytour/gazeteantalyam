@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Çocukların spora erişimini artırmak ve tenis kültürünü yaygınlaştırmak amacıyla hayata geçirilen Haydi Tenise Projesi, yeni uygulama modeliyle Antalya'da ilk adımı attı. Projenin pilot uygulaması Kemer ilçesindeki tesislerde start alırken, devlet okullarında eğitim gören çocukların profesyonel imkanlarla buluşturulması hedeflendi.
 

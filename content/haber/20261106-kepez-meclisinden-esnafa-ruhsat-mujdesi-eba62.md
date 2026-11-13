@@ -167,6 +167,7 @@ gorsel_yerlesim:
   o_kart_p: 71% 50%
   url: /images/kurum/32ffba764984a559.jpg
 gorsel_yedek: /images/haber-gorsel/20261106-kepez-meclisinden-esnafa-ruhsat-mujdesi-eba62-a3bbc52e.jpg
+yazim_denetim: y1
 ---
 Kepez Belediye Meclisi’nin Kasım ayı olağan toplantısının ikinci birleşimi, Kepez Belediye Başkanı Mesut Kocagöz’ün yönetiminde gerçekleştirildi. Saygı duruşu ve İstiklal Marşı’yla başlayan oturumda toplam beş gündem maddesi masaya yatırıldı. Toplantıda ayrıca Duacı Mahallesi’ndeki Kent Ormanı içerisinde yer alan D Tipi mesire alanı için ortak hizmet projeleri kapsamında protokol yapılması konusu da ele alındı. Sürenin yetersiz bulunması ve konunun daha kapsamlı incelenmesi yönündeki görüşler üzerine ilgili madde, ilerleyen bir tarihte yeniden görüşülmek üzere Gelirler Müdürlüğü’ne geri çekildi.
 

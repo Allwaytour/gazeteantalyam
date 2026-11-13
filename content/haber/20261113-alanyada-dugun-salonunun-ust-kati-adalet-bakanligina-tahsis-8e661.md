@@ -79,6 +79,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+yazim_denetim: y1
 ---
 Alanya'da toplumsal organizasyonlara ev sahipliği yapan Kestel Düğün Salonu hakkında önemli bir karar hayata geçirildi. Alanya Cumhuriyet Başsavcılığı'nın talebini değerlendiren Alanya Belediye Meclisi, yaklaşık üç dönüm büyüklüğündeki tesisin üst katının yeni bir amaç doğrultusunda değerlendirilmesini kararlaştırdı. Belediye meclisinin olağan toplantısında gündeme gelen teklif, tüm siyasi parti gruplarının ortak desteğiyle oy birliğiyle kabul edildi.
 

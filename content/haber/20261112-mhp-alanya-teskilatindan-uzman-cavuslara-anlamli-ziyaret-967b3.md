@@ -73,6 +73,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg
 - https://upload.wikimedia.org/wikipedia/commons/2/21/Jandarma_vehicle.JPG
+yazim_denetim: y1
 ---
 Milliyetçi Hareket Partisi (MHP) Alanya teşkilatı temsilcileri, Uzman Çavuşlar Günü dolayısıyla Alanya İlçe Jandarma Komutanlığını ziyaret etti. Alanya Jandarma Komutanı Yarbay Hüseyin Direk’in nezaretinde gerçekleştirilen buluşmada, MHP heyeti güvenlik güçleriyle bir araya geldi.
 

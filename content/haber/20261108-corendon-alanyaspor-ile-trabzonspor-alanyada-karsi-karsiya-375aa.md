@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol Süper Lig'in 11. haftasında futbol heyecanı Alanya'ya taşınıyor. Corendon Alanyaspor, kendi sahası ve seyircisi önünde Trabzonspor ile karşı karşıya gelecek. Alanya Oba Stadyumu'nda oynanacak olan zorlu müsabakayı hakem Oğuzhan Çakır yönetecek. Karşılaşma saat 18.30 itibarıyla başlayacak.
 

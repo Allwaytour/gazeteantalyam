@@ -149,6 +149,7 @@ gorsel_yerlesim:
 etiketler:
 - Kepez Belediyesi
 gorsel_yedek: /images/haber-gorsel/20261105-kepezde-ucretsiz-spor-donemi-basliyor-7b80c-71e839b2.jpg
+yazim_denetim: y1
 ---
 Kepez Belediyesi, ilçe sakinlerini hareketli bir yaşamla buluşturmak için yeni bir projeyi hayata geçiriyor. 'Sağlıklı Bir Kepez' sloganıyla başlatılan çalışma kapsamında, vatandaşlara yönelik ücretsiz step aerobik ve pilates dersleri verilecek. Sporun birleştirici gücünden faydalanmayı hedefleyen etkinlikler, katılımcıların hem fiziksel sağlıklarını korumalarına hem de sosyalleşmelerine olanak tanıyacak.
 

@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye'nin teknoloji alanındaki hedefleri ile millî savunma sanayisinin gelişimine yönelik çalışmalar, Alanya'da düzenlenen bir görüşmede masaya yatırıldı. Toplantıda, ülkenin gelecek vizyonu doğrultusunda yürütülen faaliyetler değerlendirildi.
 

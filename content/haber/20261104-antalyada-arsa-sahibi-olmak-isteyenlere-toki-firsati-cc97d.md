@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı, ülke genelinde toplam 61 ilde 725 arsayı açık artırma yöntemiyle satışa sunmaya hazırlanıyor. Gerçekleştirilecek olan satışlar kapsamında alıcılara yüzde 20 veya yüzde 25 peşinatla 48 ay vade imkanı sağlanırken, peşin ödemeyi tercih eden yatırımcılara ise yüzde 15 indirim uygulanacak. Müzayedeler 5 ile 6 Kasım tarihlerinde saat 10.30 itibarıyla Ankara Radisson Blu Hotel ile TOKİ İstanbul Hizmet Binası'nda yapılacak. Ayrıca dileyen katılımcılar internet üzerinden de teklif verebilecek.
 

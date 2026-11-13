@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Anahtar Parti Genel Başkan Yardımcısı ve Teşkilatlardan Sorumlu Başkan Av. Tahir Keskinkılıç, Antalya İl Başkanlığı tarafından düzenlenen etkinlikte parti teşkilatı ve basınla buluştu. Antalya İl Başkanı Turhan Faruk Tuncer ile il ve ilçe yöneticilerinin de hazır bulunduğu toplantıda, partinin teşkilatlanma çalışmaları ve ülke gündemine dair değerlendirmeler yapıldı.
 

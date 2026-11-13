@@ -69,6 +69,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Çocukların tenis sporuna daha kolay erişmesini amaçlayan Haydi Tenise Projesi, yeni “Haydi Tenise Kulüpte” modeliyle ilk kez Kemer'de uygulanmaya başlandı. Türkiye Tenis Federasyonu, Milli Eğitim Bakanlığı ve Gençlik ve Spor Bakanlığı ortaklığıyla yürütülen çalışma, okul sınırlarını aşarak profesyonel tenis kulüplerini de sürece dahil ediyor. Proje Türkiye genelinde farklı illerde sürdürülürken, yeni modelin ilk pilot uygulaması Kemer'de hayata geçirildi.
 

@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesinde hizmet veren Manavgat Belediyesi Okullar Bölgesi'ndeki Halk Lokantası, çalışma takviminde geçici bir düzenlemeye gitti. Atatürk Kültür Merkezi'nin arkasında konumlanan ve ağırlıklı olarak öğrencileri ağırlayan tesisin, okulların tatil olması dolayısıyla 11-12 Kasım 2026 Çarşamba ve Perşembe günleri kapalı kalacağı bildirildi.
 

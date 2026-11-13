@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
 - https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Odalar ve Borsalar Birliği’ne bağlı oda ve borsalarda seçim maratonu bu ay tamamlanıyor. Ülke genelindeki birçok ilde mevcut başkanlar güven tazelerken, sandık sonuçları yavaş yavaş netleşmeye başladı. Seçim sürecinde büyük illerde farklı rekabetler ve değişimler de dikkat çekti.
 

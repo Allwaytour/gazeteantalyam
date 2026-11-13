@@ -71,6 +71,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan COP31 iklim zirvesi, Antalya'nın çehresini değiştirecek kalıcı yatırımları da beraberinde getiriyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinasyonunda yürütülen çalışmalarla, kentte konferans alanları ve ulaşım ağları yeniden düzenleniyor. Yapılan planlamalara göre, zirve için hazırlanan fiziksel ve teknik altyapı, 12 günlük organizasyonun ardından da kentin hizmetinde kalmaya devam edecek.
 

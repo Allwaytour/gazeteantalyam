@@ -180,6 +180,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+yazim_denetim: y1
 ---
 Yeni Parti'nin Türkiye genelinde gerçekleştireceği genel başkanlık önseçimi kapsamında Alanya'daki oy verme noktaları netleşti. İlçe teşkilatının paylaştığı takvime göre üyeler, 8 Kasım Pazar günü sabah saat 08.00 ile akşam 19.00 arasında oylarını kullanabilecek. Önseçim sürecinde Alanya'da iki ayrı sandık bölgesi oluşturuldu.
 

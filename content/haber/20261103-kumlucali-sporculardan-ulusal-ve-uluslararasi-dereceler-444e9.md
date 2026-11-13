@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya Gençlik ve Spor İl Müdürü Yavuz Gürhan, Kumluca'dan yetişerek ulusal ve uluslararası alanda başarı kazanan sporcuları makamında ağırladı. Gerçekleştirilen ziyarete, Kumluca Gençlik ve Spor İlçe Müdürü Erol Koca ile güreş antrenörü Özgür Altıntaş ve judo antrenörü Ferdi Büyükkuşçular da katıldı. Buluşmada, ilçedeki spor faaliyetlerinin ilerleyişi ve genç yeteneklerin elde ettiği dereceler masaya yatırıldı.
 

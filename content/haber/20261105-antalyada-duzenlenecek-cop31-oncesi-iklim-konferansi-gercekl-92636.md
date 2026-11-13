@@ -134,8 +134,9 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_duzeltme: amacladi→amaçladı
 ---
-Antalya'da düzenlenmesi planlanan COP31 öncesinde gerçekleştirilen "COP31 Yolunda Bölgesel İklim İş Birliği Konferansı"nda, iklim değişikliğiyle mücadele kapsamında yürütülen çalışmalar değerlendirildi. Üniversiteler ve yerel yönetimlerin temsilcilerini bir araya getiren programda, bölgesel iş birliğinin güçlendirilmesi ve sürdürülebilirlik politikalarının geliştirilmesi amacladi.
+Antalya'da düzenlenmesi planlanan COP31 öncesinde gerçekleştirilen "COP31 Yolunda Bölgesel İklim İş Birliği Konferansı"nda, iklim değişikliğiyle mücadele kapsamında yürütülen çalışmalar değerlendirildi. Üniversiteler ve yerel yönetimlerin temsilcilerini bir araya getiren programda, bölgesel iş birliğinin güçlendirilmesi ve sürdürülebilirlik politikalarının geliştirilmesi amaçladı.
 
 Konferans kapsamında kentlerin karşılaşabileceği iklim kaynaklı riskler masaya yatırıldı. Sel ve su baskınları, kentsel ısı adaları, orman yangınları ve tarımsal kuraklık gibi başlıklar ele alınarak geleceğe yönelik projeksiyonlar oluşturuldu. Yerel yönetimlerin uluslararası iklim politikalarındaki rolüne dikkat çekilerek, yürütülen uluslararası projeler hakkında bilgi paylaşıldı.
 

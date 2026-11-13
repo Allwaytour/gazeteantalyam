@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Belediyespor, erkek voleybol altyapısını güçlendirmek ve çocukları sporla buluşturmak için ilçe genelindeki çalışmalarını sürdürüyor. Bu kapsamda gerçekleştirilen yetenek taramaları, Mahmutlar Mahallesi'ndeki eğitim kurumlarında hayata geçirildi.
 

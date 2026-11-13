@@ -68,6 +68,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile son dönemde adı siyasi kulislerde partililik değişimi iddialarıyla anılan Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir'in bir araya gelmesi dikkat çekti. İkilinin samimi şekilde tokalaşması kentte merak uyandırdı.
 

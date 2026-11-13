@@ -1,5 +1,5 @@
 ---
-title: Antalya Körfezi'nde Deniz Kirliligine Karşı Yuksek Teknolojili Denetim
+title: Antalya Körfezi'nde Deniz Kirliliğine Karşı Yüksek Teknolojili Denetim
 date: '2026-11-04T12:32:00+03:00'
 ozet: Antalya'da denizlerin temiz kalması amacıyla devreye alınan radar sistemleri ve 40 kamera ile Akdeniz'deki hareketlilik kesintisiz takip ediliyor.
 gorsel: https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
@@ -74,7 +74,7 @@ gorsel_gecmis:
     alt_tur: yer_konu
     kurum: k4
   degisim: '2026-11-08T15:41:51+03:00'
-gorsel_yedek: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--cc1d7c36.jpg
+gorsel_yedek: /images/haber-gorsel/20261104-antalya-korfezinde-deniz-kirliligine-karsi-yuksek-teknolojil--8567c872.jpg
 gorsel_yerlesim:
   boyut:
   - 4928
@@ -108,6 +108,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1705179065847-e5e71dcac1f6?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1690272963254-16c68997b4e0?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_duzeltme: Kirliligine→Kirliliğine; Yuksek→Yüksek
 ---
 Antalya'da denizlerin korunması ve temiz kalması amacıyla yürütülen çevre denetim çalışmaları aralıksız sürüyor. Bu kapsamda, Antalya Körfezi'ni tehdit edebilecek gemi kaynaklı kirliliğe karşı üst düzey teknolojik önlemler devreye alındı.
 

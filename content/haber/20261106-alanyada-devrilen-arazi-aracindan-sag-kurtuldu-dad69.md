@@ -72,6 +72,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_denetim: y1
 ---
 Alanya'nın Türkler Mahallesi'nde yaşanan olayda, lüks bir otelde tatil yapan yabancı bir turist, kiraladığı arazi aracıyla köy içi güzergahta seyir halindeyken kontrolü kaybetti. Virajı alamayan buggy yol kenarına savrularak devrildi. Kazayı gören çevre sakinleri ve diğer sürücüler vakit kaybetmeden turistin yardımına koştu. Şans eseri kazayı hafif sıyrıklarla atlatan turist, çevredekilere korku dolu anlar yaşattı.
 

@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Tarım, sera teknolojileri ve sulama sistemleri alanında dünyanın önde gelen etkinliklerinden biri olan Growtech Antalya, bu yıl da sektör profesyonellerini bir araya getirmeye hazırlanıyor. Fuar, 24-27 Kasım 2026 tarihleri arasında Antalya'daki ANFAŞ Fuar Merkezi'nde gerçekleşecek.
 

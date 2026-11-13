@@ -133,6 +133,7 @@ gorsel_yerlesim:
   o_kart_p: 76% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261107-alanyanin-nufusu-turkiye-ortalamasinin-bes-kati-hizla-artiyo--d1886ea4.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin önemli turizm merkezlerinden biri olan Alanya, son yıllarda kaydettiği nüfus artış hızıyla dikkatleri üzerine çekiyor. Türkiye İstatistik Kurumu verilerine göre, 2015 yılında 291 bin 643 olan ilçe nüfusu, 2025 yılı itibarıyla 371 bin 547 kişiye ulaştı. Geride kalan on yıllık süreçte yaşanan yaklaşık seksen bin kişilik bu artış, bölgenin demografik yapısındaki değişimi gözler önüne seriyor.
 

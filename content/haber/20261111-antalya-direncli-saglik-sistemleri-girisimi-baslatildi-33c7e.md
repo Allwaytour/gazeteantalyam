@@ -75,6 +75,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı kapsamında sağlık alanında önemli bir adım atıldı. Sağlık Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürü Dr. Aziz Alper Biten, COP tarihinde ilk kez Dinamik ve Dayanıklı Sağlık Sistemleri başlığının sağlık gündeminde yer aldığını bildirdi. Yürütülen çalışmalar sonucunda Antalya Dirençli Sağlık Sistemleri girişiminin başlatıldığı açıklandı.
 

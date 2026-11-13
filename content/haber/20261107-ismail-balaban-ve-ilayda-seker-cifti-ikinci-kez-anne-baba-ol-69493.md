@@ -199,6 +199,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1555252333-9f8e92e65df9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Ekranların tanınan simalarından, Survivor şampiyonu ve başpehlivan İsmail Balaban ile eşi İlayda Balaban'ın mutlu birlikteliği sürüyor. İlk çocukları İlis'i geçtiğimiz yıl temmuz ayında kucaklarına alan çift, yeniden bebek heyecanı yaşadı. 
 

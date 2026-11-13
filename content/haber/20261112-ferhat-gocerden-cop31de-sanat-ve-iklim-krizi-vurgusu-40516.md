@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Birleşmiş Milletler İklim Değişikliği Konferansı’nın 31’incisi (COP31), 9-20 Kasım tarihleri arasında Türkiye’nin ev sahipliğinde Antalya’da gerçekleştiriliyor. Zirve programı kapsamında düzenlenen “Davranışı Değiştiren Kreatif Güç: Kültür & Davranış” başlıklı panelde katılımcılara hitap eden Musiki Eseri Sahipleri Meslek Birliği (MSG) Yönetim Kurulu Başkanı Ferhat Göçer, sanatın toplumsal dönüşümdeki rolüne değindi.
 

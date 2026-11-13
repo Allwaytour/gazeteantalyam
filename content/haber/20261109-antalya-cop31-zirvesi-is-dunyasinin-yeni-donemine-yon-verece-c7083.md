@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya, dünyanın dört bir yanından gelecek yüz bini aşkın katılımcıyla küresel iklim politikalarının belirleneceği önemli bir zirveye ev sahipliği yapmaya hazırlanıyor. COP31 kapsamında gerçekleştirilecek organizasyon, sadece çevresel hedefleri değil, aynı zamanda iş dünyasının geleceğini şekillendirecek ekonomik gelişmeleri de gündeme taşıyacak. Zirve, yeşil sanayiden enerji yatırımlarına kadar uzanan geniş bir yelpazede yeni iş birliği kapılarını aralamayı hedefliyor.
 

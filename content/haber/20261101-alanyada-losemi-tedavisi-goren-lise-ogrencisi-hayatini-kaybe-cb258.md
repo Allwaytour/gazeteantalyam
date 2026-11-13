@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da bir süredir lösemi hastalığıyla mücadele eden genç bir lise öğrencisinin vefatı, yakınlarını ve eğitim camiasını derin bir üzüntüye sürükledi. Fevzi Alaettinoğlu Anadolu Lisesi'nde eğitim gören Metin Berkay Acet, yaşam mücadelesini kaybederek hayata gözlerini yumdu.
 

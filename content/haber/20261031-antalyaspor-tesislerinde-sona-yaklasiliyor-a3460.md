@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1775626095828-cb5312e199b1?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi tarafından paylaşılan bilgilere göre, mayıs ayında temeli atılan yeni kamp ve spor tesislerinin yapım çalışmaları hızla sürüyor. Toplam 134 bin metrekarelik alanda yükselen ve 18 bin 500 metrekaresi kapalı alandan oluşan projede, inşaatın yüzde 95'lik bölümü geride kaldı.
 

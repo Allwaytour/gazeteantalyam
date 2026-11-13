@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında Antalya'daki etkinlik alanında sağlık tedbirleri alınmaya başlandı. Yaklaşık 1,1 milyon metrekarelik alanda yapılacak organizasyon boyunca hızlı ve kesintisiz sağlık hizmeti verilmesi amacıyla 5 tam donanımlı revir kuruldu. Liderler Zirvesi'nin yapılacağı mavi alanda 3, sivil toplum kuruluşları ile yan etkinliklerin yer alacağı yeşil alanda ise 2 revir hizmet verecek.
 

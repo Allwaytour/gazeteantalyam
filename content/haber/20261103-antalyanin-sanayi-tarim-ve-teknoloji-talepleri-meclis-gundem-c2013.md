@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sanayi ve Teknoloji Bakanlığının bütçe görüşmelerinde söz alan MHP Antalya Milletvekili Abdurrahman Başkan, Türkiye’nin yerli üretim kapasitesinin artırılması ve yüksek katma değerli sanayi yapısına kavuşmasının önemine dikkat çekti. Başkan, Antalya’nın sahip olduğu üretim potansiyelinin daha etkin değerlendirilmesi için sanayi ve teknoloji yatırımlarının artırılması gerektiğini ifade etti. Cumhur İttifakı’nın yerli üretim, teknolojik gelişim ve ekonomik kalkınma hedeflerine değinen Başkan, savunma sanayisinde elde edilen bilgi birikiminin diğer sektörlere de aktarılması gerektiğini belirtti.
 

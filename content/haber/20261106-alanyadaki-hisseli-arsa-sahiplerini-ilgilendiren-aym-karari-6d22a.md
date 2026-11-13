@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da hisseli arsa, tarla ve diğer taşınmazlara sahip vatandaşları yakından ilgilendiren önemli bir hukuki gelişme yaşandı. Anayasa Mahkemesi, paylı mülkiyette önalım hakkı kullanılırken taşınmaz hissesinin bedelinin mahkeme tarafından rayiç değer üzerinden belirlenmesini öngören düzenlemeyi iptal etti. Kararın yürürlüğe girmesi dokuz ay ertelenirken, hisseli taşınmaz satışlarında uygulanacak bedelin nasıl hesaplanacağı yeniden gündeme geldi.
 

@@ -42,6 +42,7 @@ yz: true
 kaynak: HavaSosyalMedya
 kaynak_url: https://havasosyalmedya.com/antalyada-sicakliklar-dusuyor-valilikten-sicaklik-dususu-ve-yagis-uyarisi/
 gorsel_yedek: /images/haber-gorsel/20261103-antalyada-sicakliklar-dusuyor-valilikten-uyari-geldi-072aa-70597c2d.jpg
+yazim_denetim: y1
 ---
 Antalya ve çevresinde 4 Kasım 2026 Çarşamba gününden itibaren hava sıcaklıklarının hissedilir derecede azalması öngörülüyor. Bölgenin serin ve yağışlı bir havanın etkisi altına girmesi beklenirken, bugüne kadar mevsim normallerinin üzerinde seyreden sıcaklıkların düşüşüyle birlikte iç ve yüksek kesimlerde karla karışık yağmur, kar, buzlanma ve don olaylarının yaşanabileceği ifade edildi.
 

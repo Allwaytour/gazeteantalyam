@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da okul öncesi, ilkokul, ortaokul ve liselerde eğitim gören binlerce öğrenci, 2026-2027 eğitim öğretim yılının ilk ara tatiline girmek üzere hazırlıklarını sürdürüyor. Resmî çalışma takvimine göre, öğrenciler cuma günü son ders zilinin ardından tatile çıkacak.
 

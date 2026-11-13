@@ -69,6 +69,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1582084770885-36767753763d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesinde trafikte kaydedilen duyarlı bir davranış takdir topladı. Yaşlı bir adamın kaldırıma çıkmakta zorlanması nedeniyle araç yolunda yürümek zorunda kalması, trafikte kısa süreli bir yavaşlamaya yol açtı.
 

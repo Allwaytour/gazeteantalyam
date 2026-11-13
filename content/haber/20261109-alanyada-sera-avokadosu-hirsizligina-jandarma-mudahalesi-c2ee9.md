@@ -71,6 +71,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg
+yazim_denetim: y1
 ---
 Alanya'nın Kestel Mahallesi'nde yer alan bir üretim serasında hırsızlık vakası yaşandı. Serasına giren kimliği belirsiz kişi ya da kişiler tarafından çok sayıda avokadonun alındığını fark eden sera sahibi, durumu hemen güvenlik güçlerine bildirdi. 
 

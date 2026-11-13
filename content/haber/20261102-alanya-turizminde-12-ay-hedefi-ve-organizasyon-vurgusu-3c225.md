@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: /images/kategori/turizm.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-alanya-turizminde-12-ay-hedefi-ve-organizasyon-vurgusu-3c225-d3514580.jpg
+yazim_denetim: y1
 ---
 Alanya'da turizm sezonunun yılın tamamına yayılması amacıyla yürütülen çalışmalar kapsamında, düşük sezonda düzenlenen organizasyonların kritik bir role sahip olduğu ifade edildi. Konuya ilişkin değerlendirmelerde bulunan Alanya Turizm Tanıtma Vakfı Yönetim Kurulu Üyesi ve Basın Sözcüsü Alper Gencelli, bu tür etkinliklerin ilçe turizmine önemli bir hareketlilik kazandırdığını belirtti.
 

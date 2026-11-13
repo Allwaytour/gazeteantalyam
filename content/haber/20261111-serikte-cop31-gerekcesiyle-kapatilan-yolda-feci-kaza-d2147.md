@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesine bağlı Yukarıkocayatak Mahallesi'nde sabah saatlerinde meydana gelen trafik kazasında bir kişi hayatını kaybetti. Kent merkezinde yaşayan ve mahalledeki iş yerine gitmek üzere yola çıkan 34 yaşındaki berber Adnan Taş, otobüsten indikten kısa süre sonra kaza geçirdi.
 

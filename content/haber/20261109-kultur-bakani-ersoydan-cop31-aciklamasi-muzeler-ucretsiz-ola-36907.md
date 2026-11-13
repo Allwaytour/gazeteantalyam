@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye'nin uluslararası organizasyon kapasitesini, sürdürülebilir turizm çalışmalarını ve kültürel zenginliğini geniş bir programla uluslararası katılımcılara tanıtacaklarını belirtti. Ersoy, Antalya'nın ev sahipliği yapacağı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı süresince resmi heyet katılımcılarının bakanlığa bağlı müze ve ören yerlerini ücretsiz ziyaret edebileceğini bildirdi.
 

@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1568680870491-590cd4e224ab?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Ziraat Odası, çiftçilerin oda işlemlerini daha rahat gerçekleştirebilmesi için mahallelerde yürüttüğü saha çalışmalarına devam ediyor. Bu kapsamda sürdürülen yerinde hizmet vizyonu doğrultusunda, Yeşilöz, Özvadi, Büyükpınar, Uğrak, Hocalar, Keşefli ve İmamlı mahallelerinde üreticilerin 2027 yılı Çiftçi Kayıt Sistemi dosya güncelleme işlemleri ele alınıyor.
 

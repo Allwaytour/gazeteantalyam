@@ -172,6 +172,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Antalya, küresel çapta büyük bir organizasyona ev sahipliği yapmaya hazırlanıyor. İklim değişikliğiyle mücadele ve çevre sorunlarının çözümüne yönelik uluslararası iş birliğinin masaya yatırılacağı COP31 İklim Zirvesi, 9 Kasım tarihinde kentte başlayacak.
 

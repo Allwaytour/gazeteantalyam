@@ -69,6 +69,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'da yer altı suyu bulmak amacıyla yapılan sondaj çalışmalarında yaşanan yanlış yer seçimi, hem zaman kaybına hem de büyük mali zararlara neden oluyor. TMMOB Jeofizik Mühendisleri Odası Antalya Şubesi, konuyla ilgili yaptığı açıklamada, su arama süreçlerinin mutlaka bilimsel yöntemlerle ve uzmanlar eşliğinde yürütülmesi gerektiğini vurguladı.
 

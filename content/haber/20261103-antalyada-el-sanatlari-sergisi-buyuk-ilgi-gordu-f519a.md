@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen ve çok sayıda özgün eserin yer aldığı Karma El Sanatları Sergisi, Aydın Kanza Güzel Sanatlar Galerisi'nde izleyicilerle buluştu. Etkinliğin açılış kurdelesi protokol üyeleri ve davetlilerin katılımıyla kesildi. Açılışa İl Milli Eğitim Müdürü Mehmet Yasin Eriş, eşi Şükran Eriş, Muratpaşa İlçe Milli Eğitim Müdürü Mustafa Coşkunsu, AKHEM Müdürü İnci Bacak, Antalya Milletvekili Mustafa Köse'nin eşi Ünzile Köse ve Eğitim Birsen İl Şube Başkanı Eyüp Bülent Miran katıldı.
 

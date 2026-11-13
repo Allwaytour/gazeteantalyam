@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya 1. Ağır Ceza Mahkemesinde görülen duruşmaya, tutuklu sanıklar ile tutuksuz sanıklar, müştekiler ve taraf avukatları katıldı. Duruşmada savunma yapan eski SGK İl Müdürü M.T, hakkındaki suçlamaların gerçeği yansıtmadığını öne sürerek, görev süresi boyunca başarılı çalışmalara imza attığını ve haksız bir operasyonla karşı karşıya kaldığını iddia etti. Antalyaspor'un eski başkanı Sinan Boztepe'den kulübe borcu yoktur yazısı karşılığında para aldığı iddiasını reddeden M.T, otomobilini Boztepe'ye sattığını ve suçlamaların iftira olduğunu savundu.
 

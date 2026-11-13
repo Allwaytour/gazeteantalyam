@@ -102,6 +102,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Sanatçı Zeynep Vardar'ın doğa, insan ve yaşam arasındaki bağı soyut bir anlatımla yorumladığı Doğa İnsan Yol resim sergisi, Antalya'da düzenlenen açılış töreniyle sanatseverlerin ziyaretine açıldı. Özgür Manici Sanat Galeri'de gerçekleştirilen serginin açılışını Antalya Büyükşehir Belediyesi Turizm ve Kültür Müdürü Selma Gençel yaptı. Sanatseverlerin ilgi gösterdiği etkinlik, sıcak ve samimi atmosferiyle dikkat çekti.
 

@@ -1,5 +1,5 @@
 ---
-title: Alanya emlak piyasasi icin 2027 uyarisi
+title: Alanya emlak piyasası icin 2027 uyarısı
 date: '2026-11-02T23:53:00+03:00'
 ozet: Ahıskalı Grup Yönetim Kurulu Başkanı Nazım Sulu, olası bir barış anlaşmasının Alanya emlak piyasasına etkilerini değerlendirerek 2027 yılına yönelik uyarılarda bulundu.
 gorsel: https://images.unsplash.com/photo-1580587771525-78b9dba3b914?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZXxlbnwxfDB8fHwxNzkzNjU1NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080
@@ -41,7 +41,9 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-emlak-piyasasi-icin-2027-uyarisi
-gorsel_yedek: /images/haber-gorsel/20261102-alanya-emlak-piyasasi-icin-2027-uyarisi-ce25f-43e75218.jpg
+gorsel_yedek: /images/haber-gorsel/20261102-alanya-emlak-piyasasi-icin-2027-uyarisi-ce25f-a8723db5.jpg
+baslik_onceki: Alanya emlak piyasasi icin 2027 uyarisi
+yazim_duzeltme: piyasasi→piyasası; uyarisi→uyarısı
 ---
 Rusya ve Ukrayna arasında olası bir barış anlaşmasının gerçekleşmesi durumunda, Alanya'dan daire alan yabancı vatandaşların ülkelerine dönebileceği belirtildi. Sektör temsilcileri, bu dönüşlerin ardından satılmayı bekleyen 1+1 daire sayısında büyük bir artış yaşanabileceğine ve konut fiyatlarının gerileyebileceğine dikkat çekti.
 

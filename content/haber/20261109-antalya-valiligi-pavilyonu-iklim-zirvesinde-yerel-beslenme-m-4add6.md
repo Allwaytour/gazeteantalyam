@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Valiliği Pavilyonu, Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında gıda, tarım ve sağlık alanlarına odaklanan çeşitli etkinliklere ev sahipliği yaptı. Bu çerçevede düzenlenen Topraktan Sofraya: Sağlıklı ve Dirençli Antalya temalı programın açılışına Antalya Valisi Hulusi Şahin, Antalya Mavi Akdeniz İnisiyatifi Proje Koordinatörü Ebru Şahin ile çok sayıda akademisyen ve ziyaretçi katılım sağladı.
 

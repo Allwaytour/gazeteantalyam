@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kemer Belediye Başkanı Necati Topaloğlu, ilçe genelindeki sporculara yönelik düzenlediği buluşmalara devam ediyor. Son olarak Kemer Belediye Merkez Spor Futbol Takımı oyuncuları onuruna bir yemek programı organize edildi.
 

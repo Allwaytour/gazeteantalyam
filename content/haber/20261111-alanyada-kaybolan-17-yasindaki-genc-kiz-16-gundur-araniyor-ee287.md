@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Alanya ilçesinde yaşayan 17 yaşındaki Gülnihal Akbaş'tan günlerdir haber alınamıyor. Evinden ayrıldıktan sonra geri dönmeyen genç kızın ailesi, güvenlik güçlerine kayıp başvurusunda bulunurken, çaresiz bekleyişlerini sürdürüyor.
 

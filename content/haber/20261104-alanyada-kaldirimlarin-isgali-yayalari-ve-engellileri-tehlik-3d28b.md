@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
 - https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1642680936843-b09109c69104?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da trafik ve otopark tartışmalarının yanı sıra yaya yollarının amacı dışında kullanılması günlük yaşamı olumsuz etkiliyor. Araçların kaldırımlara park edilmesi, engelli rampalarının kapatılması ve fiziki engeller kentte erişilebilir ulaşım sorununu gündeme getiriyor. Oba, Mahmutlar, Cikcilli, Kestel ve merkezdeki yoğun yerleşimlerde bu durumun kapsamlı bir saha araştırmasıyla incelenmesi bekleniyor.
 

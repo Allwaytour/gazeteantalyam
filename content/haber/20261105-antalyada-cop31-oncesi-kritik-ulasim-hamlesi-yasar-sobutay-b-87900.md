@@ -261,6 +261,7 @@ gorsel_yerlesim:
   yan_portre: false
   url: /images/kurum/e8244af2b4861d59.jpg
 gorsel_yedek: /images/haber-gorsel/20261105-antalyada-cop31-oncesi-kritik-ulasim-hamlesi-yasar-sobutay-b--9002c833.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi, Birleşmiş Milletler İklim Değişikliği Taraflar Konferansı (COP31) hazırlıkları kapsamında kent genelindeki ulaşım ve altyapı ağını modernize etmeye devam ediyor. Bu çalışmaların merkezinde yer alan önemli güzergahlardan Yaşar Sobutay Bulvarı, kapsamlı bir dönüşümle trafiğe açıldı. Daha önce tek gidiş ve tek geliş şeklinde hizmet veren 4 kilometrelik yol, yapılan düzenlemeyle iki gidiş ve iki geliş olmak üzere toplam dört şeride çıkarıldı.
 

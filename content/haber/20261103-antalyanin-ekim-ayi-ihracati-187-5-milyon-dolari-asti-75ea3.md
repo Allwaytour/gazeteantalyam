@@ -69,6 +69,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın ekim ayı ihracat verileri açıklandı. Kentin bu dönemdeki toplam ihracatı 187,5 milyon doların üzerine çıkarken, tarım sektörü bu rakamın önemli bir kısmını oluşturdu. Ekim ayında tarım ihracatı geçen yılın aynı ayına kıyasla yüzde 14,5 oranında artış kaydederek 102,2 milyon dolar seviyesine ulaştı.
 

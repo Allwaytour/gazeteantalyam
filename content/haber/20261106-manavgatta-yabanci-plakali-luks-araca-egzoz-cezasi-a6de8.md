@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 - https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesinde görev yapan trafik ekipleri, gerçekleştirilen denetimler sırasında şüphe üzerine Danimarka plakalı bir Mercedes marka cipi durdurdu. Yapılan kontrollerin ardından aracın abartılı egzoz donanımına sahip olduğu gerekçesiyle sürücüsüne 16 bin lira idari para cezası uygulandı ve araç otuz gün süreyle yediemin otoparkına çekildi.
 

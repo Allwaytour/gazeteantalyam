@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 - https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
 - https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Yüksek elektrik faturalarını hafifletmek isteyen pek çok vatandaş, konutlarının çatısına güneş enerjisi sistemleri kurarak kendi enerjisini üretmeyi hedefliyor. Ancak özellikle kırsal kesimlerde, mevcut elektrik aboneliği bulunan ve borcunu düzenli ödeyen mülk sahipleri, binalarının imar ya da ruhsat durumu gerekçe gösterilerek resmi izin sürecinde sıkıntılar yaşıyor. Konuyla ilgili değerlendirmelerde bulunan Elektrik Mühendisleri Odası Antalya Şube Başkanı Şaban Tat, mevcut durumu bir uygulama çelişkisi olarak nitelendirdi.
 

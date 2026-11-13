@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Gazipaşa ilçesinde geçtiğimiz günlerde meydana gelen trafik kazasında ağır yaralanan otomobil sürücüsü, tedavi gördüğü hastanede yaşamını yitirdi. Kaza, 1 Kasım 2026 tarihinde gece saat 01.00 sıralarında Ilıca Mahallesi'nde yaşandı.
 

@@ -107,6 +107,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen 10. Uluslararası Akademik Spor Araştırmaları Kongresi, spor bilimleri alanında önemli bilim insanlarını ve araştırmacıları bir araya getirdi. Kongrede, Dicle Üniversitesi Beden Eğitimi ve Spor Yüksekokulundan üç lisans öğrencisi bilimsel çalışmalarını katılımcılarla paylaştı.
 

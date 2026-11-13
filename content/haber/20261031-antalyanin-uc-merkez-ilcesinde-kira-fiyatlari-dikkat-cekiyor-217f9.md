@@ -75,6 +75,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da konut kiraları, kent merkezinde yaşamak isteyen vatandaşların bütçesini zorlamaya devam ediyor. Ekim ayının son haftasına ilişkin verilere göre, kentin en yoğun yerleşim bölgelerinden Konyaaltı, Muratpaşa ve Kepez'deki kiralık konut fiyatları arasında önemli farklar bulunuyor. İlanlardaki rakamlar, ev arayan kişilerin tercih ettiği ilçeye göre barınma maliyetlerinde büyük değişikliklerle karşılaştığını ortaya koyuyor.
 

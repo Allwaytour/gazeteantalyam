@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Ozgurmulazimoglu / Wikimedia Commons (CC BY-SA 3.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-esnaf-bulusmasi-altso-baskani-sorunlari-dinledi-4078-686aac93.jpg
+yazim_denetim: y1
 ---
 Alanya Ticaret ve Sanayi Odası (ALTSO) yönetimi, ilçe genelindeki üye ve esnaf buluşmalarını sürdürüyor. Bu kapsamda Damlataş bölgesinde faaliyet gösteren işletmeleri ziyaret eden ALTSO Yönetim Kurulu Başkanı Mustafa Tuna, esnafla bir araya gelerek bölgenin ticari yapısı hakkında değerlendirmelerde bulundu.
 

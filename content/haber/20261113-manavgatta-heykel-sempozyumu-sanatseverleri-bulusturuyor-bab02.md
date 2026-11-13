@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Manavgat ilçesinde gerçekleştirilen uluslararası etkinlik, sanat dünyasını ve sanatseverleri bir araya getiriyor. Farklı ülkelerden ve Türkiye'den katılan sanatçılar, açık alandaki çalışmalarını sürdürürken üretim süreçlerini de ziyaretçilerle paylaşıyor. On beş gün sürmesi planlanan organizasyon kapsamında mermer ve paslanmaz çelik kullanılarak toplam on iki özgün eser üretiliyor.
 

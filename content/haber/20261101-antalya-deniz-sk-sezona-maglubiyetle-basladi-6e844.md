@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 TFF Kadınlar 2. Ligi'nde kenti temsil eden tek ekip olan Antalya Deniz Kadın Spor Kulübü, 2026-2027 sezonunun açılış maçında Denizli Sultanlar Spor ile karşı karşıya geldi. Zeytinköy 3 No'lu Saha'da oynanan müsabakayı hakem Fesih Aras yönetirken, yardımcılık görevlerini Ramazan Bozkurt ile Muhammet Karamıklı üstlendi. Yeni sezona kendi sahasında galibiyet parolasıyla çıkan Antalya temsilcisi, sahadan 5-2'lik mağlubiyetle ayrıldı.
 

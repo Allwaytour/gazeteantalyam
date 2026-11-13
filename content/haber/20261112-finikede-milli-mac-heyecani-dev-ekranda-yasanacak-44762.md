@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 A Milli Futbol Takımı'nın UEFA Uluslar A Ligi'ndeki zorlu Belçika mücadelesi için Antalya'nın Finike ilçesinde hazırlıklar tamamlandı. Finike Belediyesi, ay-yıldızlı ekibin bu akşam sahne alacağı karşılaşmanın Kent Meydanı'nda kurulacak dev ekrandan sporseverlerle buluşacağını bildirdi.
 

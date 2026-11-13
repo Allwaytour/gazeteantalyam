@@ -71,6 +71,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
+yazim_denetim: y1
 ---
 Alanya'daki bir kavşakta meydana gelen kazada, dönüş yapmak isteyen bir otomobil seyir halindeki motosikletlerden biriyle çarpıştı. Bu ilk çarpışmanın ardından otomobil durduğu sırada, aynı istikametten gelen ikinci motosiklet de durmakta olan araca yandan çarparak durabildi.
 

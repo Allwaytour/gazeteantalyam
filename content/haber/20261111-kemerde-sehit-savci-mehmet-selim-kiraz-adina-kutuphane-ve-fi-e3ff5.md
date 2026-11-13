@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1577985051167-0d49eec21977?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1495446815901-a7297e633e8d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Kemer ilçesinde, 11 Kasım Milli Ağaçlandırma Günü kapsamında Kemer Adalet Sarayı'nda bir anma ve açılış programı gerçekleştirildi. İstanbul Adliyesi'nde görev başındayken şehit edilen Cumhuriyet Savcısı Mehmet Selim Kiraz'ın hatırasını yaşatmak amacıyla düzenlenen etkinlikte, adliye bahçesine anıt fidan dikildi ve aynı adı taşıyan kütüphane hizmete sokuldu.
 

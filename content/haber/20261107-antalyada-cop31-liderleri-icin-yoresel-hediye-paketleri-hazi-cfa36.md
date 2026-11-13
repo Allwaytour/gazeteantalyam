@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı için hazırlıklar devam ediyor. Küresel iklim politikalarının ele alınacağı ve çok sayıda ülkeden devlet yetkilisinin bir araya geleceği organizasyon için kentte kapsamlı çalışmalar yürütülüyor.
 

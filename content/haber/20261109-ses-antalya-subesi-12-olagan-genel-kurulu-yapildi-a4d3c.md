@@ -73,6 +73,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES) Antalya Şubesi, 12. Olağan Genel Kurulu'nu Mimar Sinan Kongre Merkezi'nde gerçekleştirdi. Sendika üyelerinin katılımıyla yapılan toplantıda, geride kalan dönemin çalışmaları masaya yatırılırken yeni dönemde izlenecek mücadele ve örgütlenme stratejileri de masaya yatırıldı.
 

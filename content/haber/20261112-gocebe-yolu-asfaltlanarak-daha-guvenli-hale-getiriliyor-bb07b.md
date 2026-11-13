@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kepez ilçesinde, halk arasında Göçebe Yolu olarak bilinen Aktoprak Mahallesi Kındıra mevkiindeki güzergahta sıcak asfalt çalışmaları gerçekleştiriliyor. Başköy, Odabaşı, Aktoprak ve Kirişçiler mahallelerini birbirine bağlayan 1,5 kilometrelik hat, bölge ulaşımının daha güvenli ve modern bir yapıya kavuşması amacıyla yenileniyor. Çalışmalar sırasında toplam 3 bin 500 ton asfalt kullanılıyor.
 

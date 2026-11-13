@@ -143,6 +143,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261106-babacandan-yorsiada-ziyaret-64399-cf208979.jpg
+yazim_denetim: y1
 ---
 DEVA Partisi Genel Başkanı Ali Babacan, kentteki programları kapsamında Yörük Sanayici ve İş İnsanları Derneği'ni (YÖRSİAD) ziyaret etti. Ziyaret sırasında Babacan'a, DEVA Partisi Antalya İl Başkanı Özlem Arlıer de eşlik etti. Heyeti, YÖRSİAD Başkanı Mustafa Alper Oral ile yönetim kurulu üyeleri karşıladı.
 

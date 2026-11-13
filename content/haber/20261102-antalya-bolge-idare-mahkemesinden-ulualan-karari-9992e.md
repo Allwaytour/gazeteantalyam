@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/26/2009-11-12-Belek-Nobilis-3.JPG
 - https://upload.wikimedia.org/wikipedia/commons/0/03/2009-11-12-Belek-Nobilis-4.JPG
+yazim_denetim: y1
 ---
 Manavgat Belediyesi tarafından yapılan açıklamaya göre, Ulualan bölgesiyle ilgili gazeteci Nalan Akpınaroğlu'nun başlattığı hukuki süreçte önemli bir karar alındı. Antalya Bölge İdare Mahkemesi, bölgenin golf turizm alanı olarak planlanmasına ilişkin imar planlarının iptal edilmesi yönündeki ilk derece mahkemesi kararına karşı yapılan istinaf başvurusunu geri çevirdi. Bu kararla birlikte söz konusu imar planlarını iptal eden ilk derece mahkemesi kararı hukuken korundu.
 

@@ -76,9 +76,10 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: yagli→yağlı
 ---
 İMEAK Deniz Ticaret Odası Antalya Şubesi'nin yeni dönem seçim süreci, yapılan Yönetim Kurulu ve Meclis Başkanlık Divanı seçimleri ile tamamlandı. DTO Antalya Şubesi Meclis Salonu'nda gerçekleştirilen seçimlerde Ahmet Çetin'in mavi listesi 288 oy alarak rakibi Serkan Manav'ın beyaz listesini geride bıraktı ve başkanlığa yeniden Ahmet Çetin seçildi. 
 
-Gerçekleşen seçim sonucunda oluşan yeni Yönetim Kurulu'nda Varol Çakır, Kerim Sarı, Ekrem Uyar ve Burak Serkan Güler yer aldı. Yönetim Kurulu seçimlerinin ardından ilk Meclis Toplantısı yapıldı. En yagli Meclis üyesi Yaşar Sarıca başkanlığında toplanan mecliste yeni başkanlık divanı da netlik kazandı.
+Gerçekleşen seçim sonucunda oluşan yeni Yönetim Kurulu'nda Varol Çakır, Kerim Sarı, Ekrem Uyar ve Burak Serkan Güler yer aldı. Yönetim Kurulu seçimlerinin ardından ilk Meclis Toplantısı yapıldı. En yağlı Meclis üyesi Yaşar Sarıca başkanlığında toplanan mecliste yeni başkanlık divanı da netlik kazandı.
 
 Toplantıda yapılan gizli oylama sonucunda Meclis Başkanlığı'na Başer Topluışık seçilirken, Meclis Başkan Yardımcısı görevine ise Kemal Piro getirildi. Seçimler kapsamında ayrıca Hesapları İnceleme Komisyonu üyeleri de belirlendi. Bu kapsamda komisyon başkanlığına Özgür Senyücel, başkan yardimciligna Ayhan Kızılsavaş, üyeliğe ise Hüseyin Çin seçildi.

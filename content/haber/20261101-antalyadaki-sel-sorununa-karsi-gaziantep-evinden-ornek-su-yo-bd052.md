@@ -102,6 +102,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da sık aralıklarla meydana gelen sel felaketleri, yağmur sularının yalnızca kriz anlarında tahliye edilmesinin ötesinde, doğru yöntemlerle yönetilip tekrar kazandırılmasının hayati önem taşıdığını bir kez daha gösterdi. Tarım arazilerinin, yerleşim yerlerinin ve ulaşım altyapısının zarar gördüğü kentte, sürdürülebilir su yönetimi uygulamaları üzerine yürütülen tartışmalar hız kazandı.
 

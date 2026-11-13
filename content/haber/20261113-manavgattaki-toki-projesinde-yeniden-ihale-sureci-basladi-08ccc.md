@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesinde Toplu Konut İdaresi Başkanlığı tarafından hayata geçirilecek olan 401 konutluk dev projede ihale süreci yeniden ele alındı. Karaöz Mahallesi 2. Etap'ta inşa edilmesi planlanan konutlar için daha önce duyurulan ilk ihale, projede revizyon yapılması ihtiyacı doğduğu gerekçesiyle Ekim ayının sonuna doğru iptal edilmişti.
 

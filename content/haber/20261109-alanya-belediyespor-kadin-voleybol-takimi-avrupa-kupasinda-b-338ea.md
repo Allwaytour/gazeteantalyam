@@ -81,8 +81,9 @@ metin_onarim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://images.unsplash.com/photo-1639903293252-be7649fab563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbmV0JTIwVHVya2V5fGVufDF8MHx8fDE3OTQwODUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_duzeltme: Kulubu→Kulübü
 ---
-Alanya Plaj Sporları Merkezi'nde üç gün boyunca devam eden CEV Plaj Voleybolu Avrupa Kulubu Kupası Finalleri, yapılan ödül töreniyle sona erdi. Uluslararası düzeyde pek çok sporcuyu ve kulübü bir araya getiren turnuvada, Alanya Belediyespor kadın takımı mücadelesini beşinci sırada tamamladı. Organizasyon, kentin spor turizmine önemli bir katkı sağladı.
+Alanya Plaj Sporları Merkezi'nde üç gün boyunca devam eden CEV Plaj Voleybolu Avrupa Kulübü Kupası Finalleri, yapılan ödül töreniyle sona erdi. Uluslararası düzeyde pek çok sporcuyu ve kulübü bir araya getiren turnuvada, Alanya Belediyespor kadın takımı mücadelesini beşinci sırada tamamladı. Organizasyon, kentin spor turizmine önemli bir katkı sağladı.
 
 Kadınlar kategorisinde Ukrayna'yı temsil eden Sunrise Beach Sports Academy zirvede yer alırken, İspanya'dan CV Majadahonda ikinci, Fransa'dan Montpellier Beach Volley üçüncü, bir diğer Ispanyol temsilcisi CDV Braveheart Gran Canaria ise dördüncü oldu. Erkekler kategorisinde ise Ithalya'dan ASD Beach Volley Training şampiyonluğa ulaşırken, Ukrayna ekibi Sunrise Beach Sports Academy ikinci, Hollanda temsilcisi Scherp in Packaging ZVH üçüncü ve Türkiye'den TVF Spor Lisesi dördüncü sıranın sahibi oldu.
 

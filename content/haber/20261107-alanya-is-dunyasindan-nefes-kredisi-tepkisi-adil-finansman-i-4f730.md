@@ -74,6 +74,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye Odalar ve Borsalar Birliği (TOBB), Kredi Garanti Fonu (KGF) ve bankaların iş birliğiyle yürütülen Nefes Kredisi programında yeni dönem başvuruları 3 Kasım Salı günü itibarıyla başladı. Firma başına kredi limitinin 5 milyon TL'ye yükseltildiği yeni dönemde, turizm sezonunu beklentilerin altında geçiren Alanyalı iş insanları, finansmana erişim noktasında yaşadıkları zorluklar nedeniyle hayal kırıklığına uğradı.
 

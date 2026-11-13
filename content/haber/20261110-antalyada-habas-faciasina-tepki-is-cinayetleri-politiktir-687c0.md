@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 İzmir'in Aliağa ilçesindeki bir demir çelik fabrikasında meydana gelen ve çok sayıda çalışanın yaşamını yitirmesine, yaralanmasına yol açan patlama, Antalya'da kınandı. Kamu Emekçileri Sendikaları Konfederasyonu (KESK) Antalya Şubeler Platformu tarafından gerçekleştirilen basın toplantısında, yaşananların kaza değil iş cinayeti olduğu ifade edildi.
 

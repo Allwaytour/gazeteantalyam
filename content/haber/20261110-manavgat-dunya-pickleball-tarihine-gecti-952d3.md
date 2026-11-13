@@ -69,6 +69,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
+yazim_denetim: y1
 ---
 Manavgat, dünya spor tarihinde bir ilk olan uluslararası bir organizasyona ev sahipliği yaptı. Farklı ülkelerden gelen yüzlerce sporcunun katıldığı etkinlik, ilçenin uluslararası spor arenasındaki konumunu güçlendirdi.
 

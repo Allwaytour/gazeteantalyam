@@ -146,6 +146,7 @@ gorsel_yerlesim:
   o_kart_p: 43% 50%
   url: /images/kurum/b7be2d578d3c38a8.jpg
 gorsel_yedek: /images/haber-gorsel/20261101-ersin-tatardan-manavgatta-universite-ziyareti-8339c-7310d4e5.jpg
+yazim_denetim: y1
 ---
 Kuzey Kıbrıs Türk Cumhuriyeti 5. Cumhurbaşkanı Ersin Tatar, Akdeniz Üniversitesi Manavgat Sosyal ve Beşeri Bilimler Fakültesi'ni ziyaret ederek akademisyenler ve öğrencilerle bir araya geldi. Dekanlık makamında gerçekleşen buluşmada fakültenin akademik yapısı, fiziki imkânları ve geleceğe yönelik hedefleri ele alındı. Fakülte Dekanı Prof. Dr. Fatih Uslu, konuğuna kurumun vizyonu ve çalışmaları hakkında ayrıntılı bilgiler aktardı.
 

@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Elazığ'ın kendine özgü yöresel ürünlerini tanıtmak ve farklı illerde yaşayan vatandaşları bir araya getirmek hedefiyle organize edilen fuar, Antalya'da kapılarını açmaya hazırlanıyor. Organizasyon kapsamında Elazığ'a ait ürünleri taşıyan tırlar yola çıkarken, hazırlıklar da hızla sürdürülüyor.
 

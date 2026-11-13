@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Sinema ve Audiovisüel Kültür Vakfı bünyesinde uzun yıllardır sürdürülen 22. TÜRSAK Çocuk Filmleri Festivali, Antalya'da sinemasever çocuklarla buluştu. Şehirde 31 Ekim ile 4 Kasım tarihleri arasında gerçekleştirilen organizasyon, beş gün boyunca geniş kapsamlı film gösterimleri ve interaktif atölye çalışmalarına ev sahipliği yaptı.
 

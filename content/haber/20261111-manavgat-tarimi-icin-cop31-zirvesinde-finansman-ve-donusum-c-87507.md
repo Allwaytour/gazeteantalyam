@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı bünyesinde gerçekleştirilen Tarladan Finansa Üretici Buluşması paneli, Antalya'nın Manavgat ilçesinin tarım sektöründeki güncel sorunlarına ve geleceğine odaklandı. Toplantıya katılan Manavgat Ticaret ve Sanayi Odası Başkanı Önem Gök, bölgenin geniş tarım potansiyelini aktararak iklim krizinin üreticiler üzerindeki olumsuz etkilerine dikkat çekti.
 

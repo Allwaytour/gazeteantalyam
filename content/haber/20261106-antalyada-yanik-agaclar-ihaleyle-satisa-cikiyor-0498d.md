@@ -120,6 +120,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg/1280px-Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-yanik-agaclar-ihaleyle-satisa-cikiyor-0498d-0c401715.jpg
+yazim_denetim: y1
 ---
 Antalya Orman Bölge Müdürlüğü bünyesindeki Antalya Orman İşletme Müdürlüğü, iki farklı şeflik sınırında bulunan olağanüstü durumdaki yanık ibreli dikili ağaçları açık artırma usulüyle elden çıkarıyor. Satışlar, 18 Kasım 2026 Çarşamba günü elektronik platformda arka arkaya yapılacak.
 

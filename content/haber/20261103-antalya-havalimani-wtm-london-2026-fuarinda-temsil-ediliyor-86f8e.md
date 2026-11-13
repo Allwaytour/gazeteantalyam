@@ -66,6 +66,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1775314054195-85f31de0c944?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Havacılık ve turizm sektörünün önde gelen uluslararası buluşmalarından biri olan WTM London 2026 fuarına, Fraport TAV Antalya Havalimanı üst düzey yöneticileri ve departman temsilcilerinden oluşan bir heyetle katılım sağladı.
 

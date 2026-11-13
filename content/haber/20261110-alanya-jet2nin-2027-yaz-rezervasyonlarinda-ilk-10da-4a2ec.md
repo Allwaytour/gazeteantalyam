@@ -73,6 +73,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1465847899084-d164df4dedc6?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 İngiltere merkezli tur operatörü Jet2, önümüzdeki yıllara ilişkin tatil planlamalarını kapsayan erken rezervasyon verilerini paylaştı. Avrupalı seyahat severlerin tercihlerini yansıtan istatistiklerde, İspanya'nın Benidorm bölgesi zirvede yer alırken, Alanya ve Marmaris de en çok talep gören ilk 10 tatil noktası arasına girmeyi başardı.
 

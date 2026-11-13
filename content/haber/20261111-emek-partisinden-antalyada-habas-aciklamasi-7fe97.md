@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Emek Partisi Antalya İl Örgütü, İzmir Aliağa'da bulunan fabrikada yaşanan patlama ve iş cinayetlerine tepki göstermek amacıyla Attalos Meydanı'nda basın açıklaması ve eylem düzenledi. Gerçekleştirilen eylemde, fabrikada yaşanan olayların münferit olmadığı vurgulandı.
 

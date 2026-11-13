@@ -110,6 +110,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
+yazim_denetim: y1
 ---
 Antalya, kasım ayında turizm sezonunun normal seyrinin ötesinde uluslararası bir organizasyona ev sahipliği yapmaya hazırlanıyor. 9-20 Kasım tarihleri arasında Antalya EXPO alanında gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında düzenlenecek COP31, kentin turizm sektöründe önemli bir hareketlilik yaratması bekleniyor. Zirveye 196 ülkeden on binlerce ziyaretçinin yanı sıra çok sayıda devlet başkanı ve bakanın katılması öngörülüyor.
 

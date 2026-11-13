@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/4/40/Kalei%C3%A7i_Old_Town%2C_Antalya%2C_Turkey_26_Feb_2022.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesindeki tarihi Kaleiçi semtinde yer alan ve 1905 yılında Rum Kız Mektebi olarak inşa edilen Dumlupınar Ortaokulu, kentin en köklü eğitim kurumları arasında bulunuyor. Kız çocuklarının eğitimi amacıyla kurulan bu tarihi yapı, Birinci Dünya Savaşı sürecinde hastane olarak kullanıldı. Mübadele döneminin ardından farklı isimler ve statülerle eğitim hayatını sürdüren bina, 1929 yılından itibaren Dumlupınar adını aldı. Kaleiçi Kentsel ve 3. Derece Arkeolojik Sit Alanı içinde 1. Grup yapı olarak tescillenen okul, geçmişin izlerini günümüze taşıyor.
 

@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1779185249245-b1e518a6f7fc?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında Türkiye Sanayi Karbonsuzlaşma Yatırım Platformu'nun tanıtım toplantısına katıldı. Etkinlikte yaptığı konuşmada, ülkenin 2053 net sıfır emisyon hedefi doğrultusunda sanayide yeşil dönüşüm yatırımlarının ivme kazanmasının büyük önem taşıdığını vurguladı.
 

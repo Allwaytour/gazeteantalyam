@@ -121,6 +121,7 @@ gorsel_yerlesim:
   o_kart_p: 36% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-cop31-yatirimlari-kalici-merkeze-donusecek-400b3-f2658d0c.jpg
+yazim_denetim: y1
 ---
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Antalya'da gerçekleştirilecek COP31 İklim Zirvesi için yapılan yatırımların etkinlik sonrasında da hizmet vermeye devam edeceğini duyurdu. Bu kapsamda Aksu ilçesindeki EXPO 2016 alanının, uluslararası kongre ve fuarlara ev sahipliği yapabilecek kalıcı bir merkeze dönüştürüleceği belirtildi.
 

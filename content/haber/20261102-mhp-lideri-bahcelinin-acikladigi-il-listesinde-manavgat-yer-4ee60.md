@@ -211,6 +211,7 @@ gorsel_yerlesim:
   o_kart_p: 43% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Guzelyali.jpg/1280px-Guzelyali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261102-mhp-lideri-bahcelinin-acikladigi-il-listesinde-manavgat-yer-4-c9688f87.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde zaman zaman gündeme gelen idari yapılanma tartışmaları kapsamında yeni bir gelişme yaşandı. MHP Genel Başkanı Devlet Bahçeli, hazırladıkları "100 İl, 1000 İlçe" projesinin detaylarını paylaştı ve il statüsüne kavuşması önerilen 19 ilçenin yer aldığı listeyi kamuoyuna açıkladı. Açıklanan listede Akdeniz Bölgesi'nden Alanya, Tarsus, Kozan ve Elbistan yer aldı.
 

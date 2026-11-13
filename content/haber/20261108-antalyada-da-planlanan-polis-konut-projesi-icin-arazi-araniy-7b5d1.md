@@ -113,6 +113,7 @@ yz: true
 kaynak: Gün Haber
 kaynak_url: https://www.gunhaber.com.tr/haber/polise-ev-projesinde-antalya-da-var/577724/
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-da-planlanan-polis-konut-projesi-icin-arazi-araniy--f7f696ab.jpg
+yazim_denetim: y1
 ---
 Üyelerin konut ihtiyacını karşılamak amacıyla hazırlanan proje kapsamında bir anket çalışması gerçekleştirildi. Yapılan değerlendirmeler sonucunda en fazla talebin Ankara, İstanbul, İzmir, Antalya, Bursa, Adana, Samsun ve Konya'dan geldiği belirlendi. Bu doğrultuda, söz konusu illerde projelerin hayata geçirilebilmesi amacıyla arazi teminine yönelik görüşmelerin başlatıldığı bildirildi.
 

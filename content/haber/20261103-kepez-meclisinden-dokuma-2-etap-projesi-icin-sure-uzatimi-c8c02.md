@@ -51,6 +51,7 @@ gorsel_bekleyen:
   sayi: 1
   neden: haberin konusu ayrıştırılamadı (yapay zekâ kotası ya da servis hatası)
 gorsel_yedek: /images/haber-gorsel/20261103-kepez-meclisinden-dokuma-2-etap-projesi-icin-sure-uzatimi-c8c-36871c13.jpg
+yazim_denetim: y1
 ---
 Kepez Belediyesi Kasım ayı olağan meclis toplantısı gerçekleştirildi. Oturumda, kentin yakından takip ettiği projelerden biri olan Dokuma 2. Etap Projesi hazırlıkları ele alındı. Fabrikalar Mahallesi'ndeki geniş alanda uygulanacak projeye yön verecek çalışma grubunun süre uzatımı talebi meclis gündemine taşındı.
 

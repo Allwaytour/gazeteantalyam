@@ -148,6 +148,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesinde meydana gelen olayda, cami tuvaletinde mahsur kalan bir kişi kısa süreli panik yaşadı. Alınan bilgilere göre olay, Akçaalan Mahallesi'nde bulunan bir camide gerçekleşti. Vakit namazını eda ettikten sonra tuvalete giren Abdurrahman Uyar, bir süre sonra çıkış kapısının kilitlenmesi nedeniyle içeride mahsur kaldı.
 

@@ -43,6 +43,7 @@ yz: true
 kaynak: Turizm Ajansı
 kaynak_url: https://www.turizmajansi.com/amp/alanya-ingiltere-turizminde-rotasini-wtm-londra-fuari-na-cevirdi-h74573
 gorsel_yedek: /images/haber-gorsel/20261102-alanya-turizmi-wtm-londra-fuarinda-tanitilacak-febd7-e20d2259.jpg
+yazim_denetim: y1
 ---
 İngiltere pazarında kritik bir konuma sahip olan Alanya, uluslararası turizm alanındaki tanıtım faaliyetlerini artırmak amacıyla WTM Londra Fuarı’na hazırlanıyor. Küresel turizm sektörünün en önemli organizasyonları arasında yer alan ve Birleşik Krallık pazarının kalbinin attığı fuar, 3-5 Kasım tarihlerinde Londra’da kapılarını açacak. Kent, her yıl düzenli olarak katılım sağladığı bu önemli platformda Türkiye Turizm Tanıtım ve Geliştirme Ajansı çatısı altında temsil edilecek.
 

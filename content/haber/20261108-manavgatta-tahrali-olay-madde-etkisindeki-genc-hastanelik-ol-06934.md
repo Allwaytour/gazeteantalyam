@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesindeki Demokrasi Bulvarı'nda yaşanan olayda, madde etkisi altında olduğu belirtilen bir kişi eline aldığı bahçe tahrasıyla caddede yürümeye başladı. Çevredeki vatandaşlara korku dolu anlar yaşatan şahıs, tahrayı havaya ve boşluğa doğru sallayarak ilerledi. Görgü tanıkları, gencin zaman zaman tahrayı yüzüne ve başına çarparak kendi kendini yaraladığını, cadde üzerindeki araçların da önünü kestiğini aktardı.
 

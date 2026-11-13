@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/9/95/Ka%C5%9F_harbour_6106.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ea/Ka%C5%9F_sea_6114.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kaş ilçesinde yer alan Gerenlik Koyu'nun 7,77 hektarlık alanının 20 yıllığına işletmeye verilmesi amacıyla yeniden ihaleye çıkarılması tartışma yarattı. Konuyu Meclis gündemine taşıyan milletvekili, ilgili bakanlıklara yazılı soru önergeleri sundu.
 

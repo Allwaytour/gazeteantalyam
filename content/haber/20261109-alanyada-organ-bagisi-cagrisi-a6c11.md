@@ -76,6 +76,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/0c/Plastic_Surgery_Breast_Procedure_in_Operating_Room.jpg
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da gerçekleştirilen organ bağışı bilgilendirme faaliyetleri kapsamında hastane bünyesinde kurulan stantta uzmanlar, hasta ve yakınlarının sorularını yanıtladı. Ziyaretçilere bağış sürecinin tıbbi ve insani boyutlarını aktaran broşür ile afişler dağıtıldı.
 

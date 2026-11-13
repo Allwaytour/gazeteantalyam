@@ -106,6 +106,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Antalya'da yapılacak olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı için hazırlıklarda sona yaklaşılırken, organizasyonun sürdürülebilir bir işleyişle hayata geçirileceği bildirildi. Zirvede sürdürülebilirlik uygulamalarının yalnızca stant ve panellerle sınırlı kalmayacağı, doğrudan organizasyonun işleyişine yansıtılacağı belirtildi.
 

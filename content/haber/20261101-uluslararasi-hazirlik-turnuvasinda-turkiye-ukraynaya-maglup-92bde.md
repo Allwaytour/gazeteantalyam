@@ -47,6 +47,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-uluslararasi-hazirlik-turnuvasinda-turkiye-ukraynaya-maglup-9-4670374b.jpg
+yazim_denetim: y1
 ---
 Türkiye 16 Yaş Altı Futbol Milli Takımı, Manavgat ilçesinde gerçekleştirilen Uluslararası Hazırlık Turnuvası kapsamındaki karşılaşmada Ukrayna'ya 3-2 yenildi. Arslan Zeki Demirci Spor Kompleksi'nde oynanan çekişmeli mücadelenin ilk golü Ukrayna'dan geldi. Karşılaşmada ay-yıldızlı ekibin gollerini 13. dakikada Utku Efe Özkan ile 66. dakikada Eren Timur Yurga kaydetti.
 

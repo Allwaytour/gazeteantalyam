@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Abdurrahman_Ba%C5%9Fkan.jpg/1280px-Abdurrahman_Ba%C5%9Fkan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Orhangazican / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-mhpli-baskandan-alanya-aciklamasi-82-il-alanya-olacak-02d1b-86557cde.jpg
+yazim_denetim: y1
 ---
 Milliyetçi Hareket Partisi Alanya İlçe Teşkilatı tarafından bir Cumhuriyet Bayramı programı düzenlendi. Gerçekleştirilen etkinlik kapsamında sanatçı Mustafa Yıldızdoğan sahne alırken, programda yapılan konuşmalar ilçe genelinde dikkat çekti.
 

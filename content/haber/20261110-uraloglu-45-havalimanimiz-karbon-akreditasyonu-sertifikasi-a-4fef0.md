@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı kapsamında düzenlenen ödül törenine katıldı. Burada yaptığı konuşmada iklim krizinin getirdiği risklere ve havacılık sektörünün çevresel etkilerini azaltma zorunluluğuna dikkat çekti.
 

@@ -71,6 +71,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya Havalimanı, 2025 yılı yolcu trafiği verilerine göre Avrupa genelinde ACA Seviye 4+ veya üzeri akreditasyona sahip en yoğun beş havalimanından biri olurken, 2026'da Türkiye'de bu seviyeye ulaşan ikinci havalimanı konumuna geldi. İklim eylemini geniş bir ekosisteme yaymayı hedefleyen havalimanında, yiyecek ve içecek işletmecisi BFA ile duty-free işletmecisi ATÜ de karbon yönetimi alanındaki çalışmaları dolayısıyla Airport Partner Carbon Recognition programına dahil edildi. İş ortaklarının sertifikaları, kasım ayında COP31 kapsamında gerçekleştirilen ACI EUROPE etkinliğinde takdim edildi.
 

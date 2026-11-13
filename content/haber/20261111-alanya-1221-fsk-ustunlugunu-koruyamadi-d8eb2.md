@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Nesine 3. Lig 2. Grup'ta yer alan Alanya 1221 FSK, ligin 11'inci hafta mücadelesinde deplasmanda Söke 1970 Spor'a konuk oldu. Söke İlçe Stadı'nda oynanan karşılaşmaya etkili bir başlangıç yapan Antalya temsilcisi, 10'uncu ve 17'nci dakikalarda Orhan Olpak'ın kaydettiği gollerle ilk yarıyı 2-0 önde kapattı. Mücadelenin ikinci devresinde de üstünlüğünü sürdüren Alanya ekibi, 64'üncü dakikada Kubilay Köylü'nün golüyle skoru 3-1'e taşıdı.
 

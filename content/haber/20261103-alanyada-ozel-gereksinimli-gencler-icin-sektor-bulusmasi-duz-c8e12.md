@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1642680936843-b09109c69104?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya Özel Eğitim Meslek Okulu, özel gereksinimli gençlerin çalışma hayatına katılımını desteklemek ve mesleki eğitimde fırsat eşitliğini güçlendirmek amacıyla geleneksel Sektör Buluşması'nı hayata geçiriyor. Okul yönetimi, öğrencilerin eğitim süreçlerinde edindikleri bilgi ve becerileri iş hayatına aktarabilmesi için iş dünyasının temsilcileriyle doğrudan iletişim kurulmasını hedefliyor.
 

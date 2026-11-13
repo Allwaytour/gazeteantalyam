@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol 1. Lig'de zirvede yer alan Bursaspor'un formasını giyen Kelechi Iheanacho, başarılı performansıyla dikkat çekmeye devam ediyor. Sezonun ilk bölümünde kaydettiği gollerle adından söz ettiren Nijeryalı forvet oyuncusu, gol krallığı mücadelesinde rakiplerinin önünde yer alıyor.
 

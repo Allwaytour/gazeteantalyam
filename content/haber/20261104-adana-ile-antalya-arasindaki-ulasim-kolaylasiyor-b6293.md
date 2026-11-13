@@ -108,10 +108,11 @@ metin_onarim:
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: ilcesindeki→ilçesindeki
 ---
 Adana ile Antalya arasındaki ulaşımı daha güvenli, hızlı ve konforlu hale getirmeyi amaçlayan Akdeniz Sahil Yolu Projesi kapsamındaki çalışmalar devam ediyor. Bu proje, bölgedeki ulaşım altyapısını güçlendirerek iki şehir arasında seyahat eden vatandaşların işini kolaylaştırmayı hedefliyor.
 
-Projenin kritik etaplarından biri olan Mersin'in Aydıncık ilcesindeki Soğuksu Tunnelleri'nde yapım faaliyetleri sürdürülüyor. Özellikle dağlık ve virajlı yolların bulunduğu güzergahlarda ulaşımı rahatlatması beklenen bu tüneller sayesinde, Akdeniz sahil hattında daha yüksek standartlı bir ulaşım ağının oluşturulması amaçlanıyor.
+Projenin kritik etaplarından biri olan Mersin'in Aydıncık ilçesindeki Soğuksu Tunnelleri'nde yapım faaliyetleri sürdürülüyor. Özellikle dağlık ve virajlı yolların bulunduğu güzergahlarda ulaşımı rahatlatması beklenen bu tüneller sayesinde, Akdeniz sahil hattında daha yüksek standartlı bir ulaşım ağının oluşturulması amaçlanıyor.
 
 Ulaşım yatırımları çerçevesinde Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu'nun 52 kilometrelik Çeşmeli-Kızkalesi kesimi 19 Ekim 2026 tarihi itibariyle araç trafiğine açıldı. Toplam 41 kilometre ana gövde ile 11 kilometre bağlantı yolundan oluşan bu hat, özellikle yaz döneminde yoğunlaşan trafiğe karşı önemli bir alternatif oluşturuyor.
 

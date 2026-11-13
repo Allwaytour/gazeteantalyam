@@ -47,6 +47,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-konyaaltinda-saha-mesaisi-suruyor-7a2d0-c46debec.jpg
+yazim_denetim: y1
 ---
 Konyaaltı Belediye Başkanı Cem Kotan, sürdürdüğü saha çalışmaları kapsamında ilçe sakinleri ve esnafla buluşmaya devam ediyor. Gerçekleştirilen ziyaretlerde belediye birimleriyle koordineli şekilde hareket ediliyor.
 

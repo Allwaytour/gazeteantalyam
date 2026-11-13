@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde, Gençlik ve Spor İlçe Müdürlüğü bünyesinde görev yapan personelin asli memur kadrosuna atanması dolayısıyla Asli Kadroya Geçiş ve Yemin Töreni organize edildi. 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesi kapsamında sözleşmeli statüde görev yapan Tamer Aslan, Eyüp Kolsuz ve Alperen Tutcu, kadroya atanmalarının ardından düzenlenen etkinlikte yemin ederek yeni görev süreçlerine resmi olarak adım attı.
 

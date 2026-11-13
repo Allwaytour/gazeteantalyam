@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde gerçekleştirilen bir operasyonda, adresinde arama yapılan bir şüphelinin evinde çok sayıda yasaklı madde ve mühimmat ele geçirildi. Çalışma, İl Jandarma Komutanlığı ekipleri tarafından Kumluca Cumhuriyet Başsavcılığı koordinasyonunda yürütüldü.
 

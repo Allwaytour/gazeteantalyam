@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye'nin köklü sanayi kuruluşlarından biri, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında düzenlenen panelde, Malatya'da hayata geçirilecek yeni üretim tesisi yatırımını, bölgesel kalkınma hedeflerini ve sürdürülebilir büyüme yaklaşımını uluslararası kamuoyuyla paylaştı.
 

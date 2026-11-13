@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/36/Kumluca-tomatoes.JPG
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde, Devlet Su İşleri (DSİ) tarafından yürütülen altyapı ve koruma çalışmaları yerinde denetlendi. Kumluca Kaymakamı Bahadır Güneş, yürütülen projelerin son durumunu görmek amacıyla çalışma alanlarını ziyaret etti.
 

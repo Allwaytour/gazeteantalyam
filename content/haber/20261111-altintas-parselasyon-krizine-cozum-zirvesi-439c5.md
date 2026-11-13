@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1655975719898-8f3432eed322?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Aksu ilçesinde geniş bir alanı ve çok sayıda vatandaşı etkileyen parselasyon planı krizinin ardından ilgili kamu kurumları ve yerel yönetim temsilcileri bir araya geldi. Altıntaş, Güzelyurt, Mandırlar, Karaçallı ve Hacıaliler mahallelerini kapsayan bölgede, imar planları ile parselasyon işlemlerinin yargı sürecinde farklı sonuçlanmasıyla başlayan belirsizlik yeni bir toplantının düzenlenmesine yol açtı.
 

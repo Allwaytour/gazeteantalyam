@@ -77,6 +77,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında, Aile ve Sosyal Hizmetler Bakanlığı ile Sıfır Atık Vakfı ortaklığıyla Kadınlarla Atıksız Sürdürülebilir Yaşam Projesi'nin tanıtımı yapıldı. Toplantıya Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Sıfır Atık Vakfı Başkanı Samed Ağırbaş ile çok sayıda davetli katıldı.
 

@@ -29,7 +29,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-13T16:02:32+03:00'
+    tarih: '2026-11-13T16:09:33+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 İyi Parti Antalya İl Başkanı Ali Adnan Kaya ile İl Divan Kurulu üyeleri, Antalya Ticaret ve Sanayi Odası Başkanlığı görevine seçilen Berkay Bahar ile Yönetim Kurulu üyelerine konuk oldu. Gerçekleşen buluşmada, oda yönetiminin yeni dönemi tebrik edilirken kentteki iş dünyasının geleceğine dair iyi dilekler karşılıklı olarak paylaşıldı.
 

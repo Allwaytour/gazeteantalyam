@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya iş dünyasının tanınmış simalarından ve Parlak Restaurant’ın işletmecisi olan Güray Parlak’ın annesi Ayşe Gülşen Parlak yaşamını yitirdi. Merhumenin vefatı, ailesi ile iş dünyasında üzüntüye yol açtı. 
 

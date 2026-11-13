@@ -77,6 +77,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg
 - https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Kumluca Belediyesi, ilçe genelindeki altyapı ve yol yenileme çalışmaları kapsamında Temel Eğitim Mahallesi'nde sıcak asfalt serimi yaptı. Fen İşleri Müdürlüğü ekiplerinin yürüttüğü çalışmalar doğrultusunda mahalledeki ulaşım yolları elden geçirildi.
 

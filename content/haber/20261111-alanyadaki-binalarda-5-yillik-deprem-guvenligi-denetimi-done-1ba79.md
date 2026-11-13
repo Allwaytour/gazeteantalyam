@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/6/60/Historischer_Seismograph.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya genelindeki ev ve iş yeri sahiplerini ilgilendiren yeni bir deprem güvenliği düzenlemesi için hazırlıklar sürüyor. Bakanlığın hazırladığı yönetmelik taslağı çerçevesinde, 23 Haziran 2021 sonrasında inşaatı tamamlanan ve Bina Kimlik Sertifikası alan bütün yapılar beş yıllık periyotlarla düzenli olarak denetlenecek. Söz konusu uygulamanın 1 Ocak 2027 tarihinde yürürlüğe girmesi planlanıyor.
 

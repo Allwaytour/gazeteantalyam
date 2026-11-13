@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1672761619560-f13835a70830?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 İletişim Başkanlığı, COP31 kapsamında Antalya'da gerçekleştirilecek olan iklim diplomasisi programının takvimini duyurdu. 10 ve 11 Kasım 2026 tarihlerinde düzenlenecek etkinlikler dizisi; üç ayrı panel ve bir yuvarlak masa toplantısından oluşuyor. Program, iklim değişikliği ile mücadelede uluslararası iş birliğini güçlendirmeyi hedefliyor.
 

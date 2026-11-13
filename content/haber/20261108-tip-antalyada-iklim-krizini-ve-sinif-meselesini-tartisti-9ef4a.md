@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777259759623-b39589cfff9b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye İşçi Partisi (TİP) Antalya İl Örgütü, yaklaşan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde dikkat çekici bir buluşmaya ev sahipliği yaptı. Atatürk Kültür Merkezi (AKM) Perge Salonu'nda gerçekleştirilen "COP31 Antalya’ya Gelirken İklim Nereye Gidiyor?" başlıklı etkinlikte, iklim krizi enerji politikaları ve çevre mücadelesi perspektifinden değerlendirildi.
 

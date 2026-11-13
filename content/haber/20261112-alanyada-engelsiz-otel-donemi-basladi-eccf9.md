@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/47/Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
+yazim_denetim: y1
 ---
 Alanya turizminde uzun süredir hedeflenen erişilebilir tatil uygulaması somut adımlara dönüştü. Yaklaşık on beş yıl önce atılan iş birliği imzalarının ardından yerel yönetim tarafından konaklama tesislerinde yürütülen detaylı denetimler tamamlandı.
 

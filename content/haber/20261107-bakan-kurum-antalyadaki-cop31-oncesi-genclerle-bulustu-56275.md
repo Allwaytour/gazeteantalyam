@@ -118,6 +118,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261107-bakan-kurum-antalyadaki-cop31-oncesi-genclerle-bulustu-56275-1da462ef.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı hazırlıkları sürüyor. Bu kapsamda düzenlenen COP31 Gönüllüler Buluşması etkinliği gerçekleştirildi.
 

@@ -68,6 +68,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na yönelik uluslararası düzeyde hazırlıklar sürerken, Çin'den üst düzey katılım kararı geldi. 9-20 Kasım tarihleri arasında Antalya'nın ev sahipliğinde toplanacak olan zirvede Çin'i, Devlet Başkan Yardımcısı Han Cıng temsil edecek.
 

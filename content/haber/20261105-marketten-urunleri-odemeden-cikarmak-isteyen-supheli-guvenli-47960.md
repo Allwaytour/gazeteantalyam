@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesinde faaliyet gösteren bir zincir markette meydana gelen olayda, reyonlardan yaklaşık 3 bin 500 lira tutarında ürün alan şüpheli, kasadan ödeme yapmadan çıkışa yöneldi. Durumu fark eden güvenlik görevlisi şüpheliye müdahale etmek istedi. Güvenlik görevlisini fark etmesi üzerine arbede yaşandı ve şüpheli, görevliyi kesici aletle vücudunun çeşitli yerlerinden yaralayarak olay yerinden kaçtı.
 

@@ -76,6 +76,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Batı Akdeniz İhracatçılar Birliği tarafından Kepez ilçesindeki Mimar Sinan Kongre Merkezi'nde düzenlenen BAİB İhracatın Yıldızları Ödül Töreni, bölgenin üretim ve ticaret alanındaki başarılı isimlerini bir araya getirdi. Programda Antalya, Burdur ve Isparta illerinde faaliyet gösteren ve ihracata katkı sunan firmaların çalışmaları ele alındı.
 

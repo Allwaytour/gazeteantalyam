@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Beach_Soccer_3.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya'da bir hafta boyunca gerçekleştirilen Plaj Futbolu Dünya Kulüpler Şampiyonası, organizasyon rekoruna sahne oldu. Turnuvaya 33 farklı ülkeden 48 takımın katılması, kentteki spor turizminin potansiyelini bir kez daha gözler önüne serdi.
 

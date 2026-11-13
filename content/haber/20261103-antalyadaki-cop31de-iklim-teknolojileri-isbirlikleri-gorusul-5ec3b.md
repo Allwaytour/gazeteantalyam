@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Türkiye Teknoloji Geliştirme Vakfı (TTGV), Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı'nda (COP31) iklim teknolojilerinin geliştirilmesinden uygulamaya aktarılmasına kadar geçen süreçteki eksikliklere dikkat çekecek. İklim kriziyle mücadelede sadece yeni teknolojilerin üretilmesinin yetmediği, bu çözümlerin sahaya taşınarak somut neticeler alınmasının şart olduğu vurgulanıyor.
 

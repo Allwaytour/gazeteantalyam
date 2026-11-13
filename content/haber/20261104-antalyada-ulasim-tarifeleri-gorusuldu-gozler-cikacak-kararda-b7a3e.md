@@ -103,6 +103,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/23/Antalya_bus_01.jpg
+yazim_denetim: y1
 ---
 Antalya'da şoför esnafının oda başkanları ile büyükşehir belediyesi yönetimi bir araya gelerek kentteki ulaşım sektörüyle ilgili sorunları görüştü. Gerçekleşen toplantıda, ulaşım hizmetlerinin sürdürülebilirliği ile vatandaşların ekonomik durumları ele alındı.
 

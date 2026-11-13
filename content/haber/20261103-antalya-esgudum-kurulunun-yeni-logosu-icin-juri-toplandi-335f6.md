@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Eşgüdüm Kurulu'nun yeni kurumsal logosunu belirlemek üzere hayata geçirilen logo tasarımı yarışmasının değerlendirme toplantısı gerçekleştirildi. İnşaat Mühendisleri Odası Antalya Şubesi'nin ev sahipliğinde düzenlenen toplantı, kurulun yeni görsel kimliğini belirlemek için önemli bir adım oluşturdu.
 

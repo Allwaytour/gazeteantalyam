@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da yağışlı havalarda toplu taşıma araçlarını kullanan yolcular, tavanından su sızdıran otobüsler nedeniyle zor anlar yaşıyor. Günlük ulaşım için otobüslere binen vatandaşlar, yağmur suyunun içeriye damlaması üzerine araç içinde şemsiye açarak korunmaya çalıştı. İş ve eğitim gibi zorunlu seyahatlerinde bu manzarayla karşılaşan yolcular, toplu taşıma hizmetinin güvenli ve konforlu olması gerektiğini belirtti.
 

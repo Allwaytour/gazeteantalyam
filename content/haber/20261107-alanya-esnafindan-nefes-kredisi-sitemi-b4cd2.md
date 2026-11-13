@@ -73,6 +73,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Alanya Sanayici ve İş İnsanları Derneği (ALSİAD) Başkanı Emrah Cezirioğlu, zorlu geçen turizm sezonunun ardından finansal destek bekleyen bölge esnafının kredi imkanlarından yararlanamadığını dile getirdi. Ülke ekonomisine ve turizmine önemli katkılar sunan kentin, finansman kaynaklarından yeterli payı alamadığını vurgulayan Cezirioğlu, açıklanan destek paketlerinin uygulamada yetersiz kaldığını kaydetti.
 

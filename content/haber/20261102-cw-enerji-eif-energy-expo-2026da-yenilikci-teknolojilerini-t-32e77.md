@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Near_the_Roman_Harbour.jpg/1280px-Near_the_Roman_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-cw-enerji-eif-energy-expo-2026da-yenilikci-teknolojilerini-t--22765415.jpg
+yazim_denetim: y1
 ---
 Türkiye ve Avrupa'nın önde gelen fotovoltaik güneş paneli ile hücre üreticilerinden biri olan CW Enerji, sektörün önemli buluşma noktaları arasında yer alan EIF Energy Expo 2026'da yerini almaya hazırlanıyor. Şirket, inovatif teknolojileri ve uçtan uca entegre enerji ekosistemiyle fuar boyunca katılımcıların karşısına çıkacak.
 

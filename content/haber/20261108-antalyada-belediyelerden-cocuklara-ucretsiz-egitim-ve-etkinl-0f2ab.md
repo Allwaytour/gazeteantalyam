@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1495446815901-a7297e633e8d?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/d/d3/Matsukawa_Village_Library_bookshelves_ac_%281%29.jpg
 - https://images.unsplash.com/photo-1534438327276-14e5300c3a48?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya genelinde belediyeler, çocuklu ailelerin hem keyifli vakit geçirmesi hem de çocukların kişisel gelişimlerini desteklemek için çeşitli ücretsiz imkanlar sağlıyor. Büyükşehir Belediyesi ve ilçe belediyeleri tarafından yürütülen bu hizmetler; eğitim, spor, kültür ve bilim gibi pek çok farklı alanı kapsıyor.
 

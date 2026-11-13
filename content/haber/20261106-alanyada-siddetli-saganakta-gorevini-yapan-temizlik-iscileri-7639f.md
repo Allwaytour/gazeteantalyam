@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1610901342861-e472a8c248b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Alanya ilçesinde, şiddetli yağış ve su taşkınlarının yaşandığı zorlu hava koşullarında görevlerini aksatmayan temizlik personeli unutulmaz bir buluşmaya imza attı. Avsallar Mahallesi'nde su birikintileriyle kaplı caddelerde çöp konteynerini boşaltmaya çalışan işçilerin özverili halleri, trafikteki bir vatandaş tarafından cep telefonu kamerasıyla kaydedilmişti.
 

@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da sera, paketleme, lojistik ve toptancı halinde komisyonculuk faaliyetleri yürüten Büyükkasap firması için yargı sürecinde yeni bir gelişme yaşandı. Antalya 3. Asliye Ticaret Mahkemesi, daha önce tanınan 3 aylık geçici mühlet süresinin ardından dosya üzerinde yeniden değerlendirme yaparak kararını açıkladı.
 

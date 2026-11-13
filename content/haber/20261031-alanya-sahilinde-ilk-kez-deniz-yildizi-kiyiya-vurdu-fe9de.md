@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+yazim_denetim: y1
 ---
 Akdeniz kıyılarında son dönemde yaşanan çevresel değişimler ve istilacı türlerin artışı sürerken, Alanya sahilinde şaşırtıcı bir olay kaydedildi. Uzun süredir bölgedeki sahilleri takip eden doğa gönüllüsü Güldane Şahin, Yeşilöz sahilinde daha önce hiç karşılaşmadıkları bir durumla karşılaştıklarını ve kıyıda cansız deniz yıldızları bulduklarını ifade etti.
 

@@ -71,6 +71,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde, Gazze'de yaşanan insani krize dikkat çekmek ve yetim çocuklara destek olmak amacıyla bir yardım etkinliği gerçekleştirildi. Hayrat İnsani Yardım Derneği Kumluca Temsilciliği tarafından organize edilen program, Günay Sahil Tesisleri'nde hayırseverlerin ve dernek gönüllülerinin yoğun katılımıyla yapıldı.
 

@@ -147,6 +147,7 @@ etiketler:
 - Bülent Kandemir
 - Yeni Parti
 gorsel_yedek: /images/haber-gorsel/20261105-alanyada-mutfak-tupune-zam-fiyat-1-855-tlye-yukseldi-f4b0e-7e67f7df.jpg
+yazim_denetim: y1
 ---
 Alanya'da temel ihtiyaç ürünlerine gelen zamlar, vatandaşın mutfak giderlerini zorlamaya devam ediyor. Son olarak 12 kilogramlık mutfak tüpünün fiyatında yapılan 200 TL'lik artış, bölgedeki ekonomik tartışmaları yeniden alevlendirdi. Söz konusu zammın ardından tüpün satış fiyatı 1.655 TL'den 1.855 TL seviyesine çıktı.
 

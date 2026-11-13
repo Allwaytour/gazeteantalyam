@@ -79,6 +79,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Cumhuriyet Başsavcılığı Örgütlü Suçlar Bürosu tarafından yürütülen soruşturma dosyası kapsamında geçtiğimiz ay gözaltına alınan ve ardından tutuklanarak cezaevine gönderilen iş insanı Durmuş Özgen hakkında yeni bir gelişme yaşandı. Tutuklama kararı sonrası iş dünyasında geniş yankı uyandıran süreç, hukuki değerlendirmelerin ardından değişti.
 

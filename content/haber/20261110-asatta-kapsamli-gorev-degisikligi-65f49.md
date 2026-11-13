@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1622322977885-8ee6d45ea016?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1622322977781-76f2247964b7?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Su ve Atıksu İdaresi Genel Müdürlüğü bünyesinde yeni atamalar ve görevden almalar yapıldı. Yapılan düzenlemeler kapsamında Genel Müdür Yardımcılığı görevinde bayrak değişimi yaşandı.
 

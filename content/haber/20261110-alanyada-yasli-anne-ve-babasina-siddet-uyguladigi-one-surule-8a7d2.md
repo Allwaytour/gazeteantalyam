@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+yazim_denetim: y1
 ---
 Alanya 2. Ağır Ceza Mahkemesi'nde görülen davanın ikinci duruşmasına tutuksuz yargılanan sanık Mahmut Y. katılmazken, avukatı salonda hazır bulundu. Müşteki 80 yaşındaki anne Ümmühani Yılmaz ile 91 yaşındaki baba Mehmet Ali Yılmaz, kızlarıyla birlikte adliyeye gelerek avukatları eşliğinde ifade verdi.
 

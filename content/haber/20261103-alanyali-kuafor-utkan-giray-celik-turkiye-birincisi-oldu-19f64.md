@@ -69,6 +69,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Ordu Hair Fest kapsamında gerçekleştirilen kuaförlük yarışmasında mücadele eden Utkan Giray Çelik, rakiplerini geride bırakarak Türkiye birincisi unvanını elde etti. Gösterdiği üstün performansla dikkatleri üzerine çeken Çelik, kazandığı dereceyle memleketi Alanya'ya büyük bir gurur ve sevinç yaşattı.
 

@@ -134,6 +134,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
+yazim_denetim: y1
 ---
 Almanya'nın en köklü ve tanınmış Noel pazarlarından biri olan Nürnberg Christkindlesmarkt, bu yıl da tarihi Hauptmarkt Meydanı'nda kapılarını açmaya hazırlanıyor. Tarihi 16'ncı yüzyılın ortalarına kadar uzanan ve her yıl milyonlarca ziyaretçiyi ağırlayan pazar, 27 Kasım ile 24 Aralık tarihleri arasında ziyaretçilerini kabul edecek. Geleneksel lezzetler, el sanatları ve renkli süslemelerle donatılacak olan etkinlik, her yıl olduğu gibi bu yıl da kentin en hareketli noktalarından biri haline gelecek.
 

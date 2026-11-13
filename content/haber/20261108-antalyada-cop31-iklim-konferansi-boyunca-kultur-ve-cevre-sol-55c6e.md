@@ -114,6 +114,7 @@ yz: true
 kaynak: Aksiyon.com.TR
 kaynak_url: https://www.aksiyon.com.tr/antalya-da-cop31-e-paralel-kent-genelinde-kultur-ve-cevre-soleni-390569
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-cop31-iklim-konferansi-boyunca-kultur-ve-cevre-sol--b7af87b4.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi, Birleşmiş Milletler İklim Değişikliği Konferansı COP31 döneminde kent genelinde eş zamanlı olarak geniş kapsamlı kültür, sanat ve çevre etkinlikleri hayata geçiriyor. Konferans alanındaki programların yanı sıra kentin tarihi ve kamusal noktalarında düzenlenecek faaliyetlerle çevre bilincinin artırılması ve Antalya'nın kültürel değerlerinin ön plana çıkarılması amaçlanıyor.
 

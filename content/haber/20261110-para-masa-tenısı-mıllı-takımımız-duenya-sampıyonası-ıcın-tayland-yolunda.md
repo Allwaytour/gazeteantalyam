@@ -17,6 +17,9 @@ kaynak: ''
 kaynak_url: ''
 otomatik: false
 yz: false
+url: /haber/20261110-para-masa-tenisi-milli-takimimiz-dunya-sampiyonasi-icin-tayland-yolunda/
+aliases:
+- '/haber/20261110-para-masa-tenısı-mıllı-takımımız-duenya-sampıyonası-ıcın-tayland-yolunda/'
 ---
 
 # PARA MASA TENİSİ MİLLİ TAKIMIMIZ DÜNYA ŞAMPİYONASI İÇİN TAYLAND YOLUNDA!

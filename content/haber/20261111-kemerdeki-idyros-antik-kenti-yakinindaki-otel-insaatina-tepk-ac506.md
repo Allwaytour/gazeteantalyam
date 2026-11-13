@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Kemer ilçesinde yer alan ve geçmişi Helenistik döneme uzanan İdyros Antik Kenti'nin bulunduğu bölgedeki otel inşaatı tartışma yaratmaya devam ediyor. Çalışmalar sürerken bölgedeki ağaçların kesilmesi de tepki çeken unsurlar arasında yer aldı. İdyros Antik Kenti'ne Dokunma Hareketi, konuyla ilgili iki ayrı davada hazırlanan bilirkişi raporlarının dikkate alınması gerektiğini vurguladı.
 

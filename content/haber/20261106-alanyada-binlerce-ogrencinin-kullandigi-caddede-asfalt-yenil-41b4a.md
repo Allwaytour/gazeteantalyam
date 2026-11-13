@@ -120,6 +120,7 @@ gorsel_yerlesim:
   o_kart_p: 10% 50%
   url: /images/kurum/41ad06d5575bf0f3.jpg
 gorsel_yedek: /images/haber-gorsel/20261106-alanyada-binlerce-ogrencinin-kullandigi-caddede-asfalt-yenil--4b80c5bb.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyesi Fen İşleri Müdürlüğü tarafından yürütülen çalışmalar, Konaklı Mahallesi'ndeki Sipahioğlu Caddesi ve çevresindeki bağlantı yollarını kapsıyor. Ana güzergâhın 3 bin 200 metre uzunluğunda ve 12 metre genişliğinde olduğu belirtilirken, bağlantı yollarının da programa dahil edilmesiyle toplam güzergâh 4 kilometreye ulaştı. Bölgede bulunan dört okulun ortak ulaşım güzergâhı olan caddeyi her gün yaklaşık 2 bin 200 öğrenci ve 500 veli kullanıyor.
 

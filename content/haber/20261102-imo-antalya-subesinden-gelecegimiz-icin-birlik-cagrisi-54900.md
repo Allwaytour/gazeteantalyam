@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: /images/kategori/gundem.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-imo-antalya-subesinden-gelecegimiz-icin-birlik-cagrisi-54900-cd46bf5c.jpg
+yazim_denetim: y1
 ---
 İnşaat Mühendisleri Odası (İMO) Antalya Şubesi, mesleki koşullara ve ekonomik sıkıntılara yönelik önemli bir açıklama yaptı. Derinleşen ekonomik kayıplar ile güvencesiz çalışma ortamlarının sadece mühendisleri hedef almadığı, aynı zamanda tüm toplumun can ve mal güvenliğini tehlikeye attığı vurgulandı.
 

@@ -117,6 +117,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Fotoğraf: Shixart1985 / Wikimedia Commons (CC BY 2.0)'
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-suyun-yuzde-80i-tarimda-kullaniliyor-4b818-7e1c9902.jpg
+yazim_denetim: y1
 ---
 Antalya'da yer altı sularındaki çekilme ve iklim değişikliği, tarımsal üretimde su yönetimini yeniden gündemin merkezine taşıdı. Su kaynaklarının sürdürülebilirliği ve tarımsal üretimin iklim koşullarına göre planlanması gerektiği belirtilirken, mevcut suyun yaklaşık yüzde 80'inin tarımsal faaliyetlerde kullanıldığına dikkat çekildi.
 

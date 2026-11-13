@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Lösemili Çocuklar Haftası dolayısıyla Türkiye genelinde gerçekleştirilen farkındalık etkinlikleri, Antalya'da renkli görüntülere sahne oldu. Bu yıl "Mucize ve Umudun Adı LÖSEV" sloganıyla düzenlenen etkinlikler, löseminin tedavi edilebilir bir hastalık olduğuna dikkat çekmeyi amaçladı.
 

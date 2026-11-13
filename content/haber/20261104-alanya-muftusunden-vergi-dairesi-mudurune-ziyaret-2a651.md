@@ -71,8 +71,9 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/0/00/Alanya_Kuyularonu_Mosque_7958.jpg
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: diyalogu→diyaloğu
 ---
-Alanya Müftüsü Mehmet Seven, ilçe genelindeki kamu kurumları arasındaki diyalogu artırmak amacıyla temaslarını sürdürüyor. Bu kapsamda Vergi Dairesi Müdürü Burak Alp'e bir ziyarette bulunan Seven, samimi bir atmosferde gerçekleşen buluşmada önemli değerlendirmelerde bulundu.
+Alanya Müftüsü Mehmet Seven, ilçe genelindeki kamu kurumları arasındaki diyaloğu artırmak amacıyla temaslarını sürdürüyor. Bu kapsamda Vergi Dairesi Müdürü Burak Alp'e bir ziyarette bulunan Seven, samimi bir atmosferde gerçekleşen buluşmada önemli değerlendirmelerde bulundu.
 
 Ziyaret esnasında kurumlar arası iletişim ve ortak çalışmaların önemi masaya yatırıldı. Karşılıklı görüş alışverişinin yapıldığı buluşmada, çeşitli konularda fikir paylaşımlarında bulunulduğu aktarıldı.
 

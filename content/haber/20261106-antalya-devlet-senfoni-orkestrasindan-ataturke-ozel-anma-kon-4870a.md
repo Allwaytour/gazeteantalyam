@@ -100,6 +100,7 @@ gorsel_yerlesim:
   o_mansetyan_m: 0% 50%
   o_kart_p: 50% 100%
   url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
+yazim_denetim: y1
 ---
 Antalya Devlet Senfoni Orkestrası, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümünde anlamlı bir etkinliğe imza atmaya hazırlanıyor. Klasik müziğin evrensel ezgilerini Millî Mücadele ruhuyla harmanlayacak olan Atatürk’ü Anma Konseri, Atatürk Kültür Merkezi Aspendos Salonu’nda müzikseverlerle buluşacak. Etkinlik, 13 Kasım 2026 Cuma akşamı saat 20.30'da gerçekleştirilecek.
 

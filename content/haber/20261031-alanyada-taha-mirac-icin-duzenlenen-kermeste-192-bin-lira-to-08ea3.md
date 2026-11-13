@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da DMD kas hastalığıyla yaşam mücadelesi veren Taha Miraç Kevkir'in tedavi sürecine destek olmak amacıyla bir yardım kermesi organize edildi. Etkinlik, ilçe genelinde vatandaşların yoğun katılımı ve duyarlılığı sayesinde büyük bir dayanışma örneğine sahne oldu.
 

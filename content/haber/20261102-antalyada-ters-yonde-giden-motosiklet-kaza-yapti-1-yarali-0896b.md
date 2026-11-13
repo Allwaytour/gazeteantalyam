@@ -107,6 +107,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
 - https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_denetim: y1
 ---
 Antalya'nın Muratpaşa ilçesinde trafiği tehlikeye düşüren bir motosiklet kazası meydana geldi. Edinilen bilgilere göre olay, Güllük Caddesi ile Tonguç Caddesi kesişiminde öğle saatlerinde yaşandı. Ters yönde seyreden 35 BYJ 901 plakalı motosiklet, önce 07 BNJ 835 plakalı hafif ticari araçla çarpıştı.
 

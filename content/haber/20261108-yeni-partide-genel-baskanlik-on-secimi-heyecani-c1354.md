@@ -148,6 +148,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg
+yazim_denetim: y1
 ---
 YENİ Parti, 14-15 Kasım 2026 tarihlerinde Ankara Spor Salonu'nda düzenlenecek 1. Olağan Kurultay öncesinde genel başkanlık ön seçimi sürecini başlattı. Türkiye genelinde 81 ilde eş zamanlı olarak kurulan yaklaşık 3 bin sandıkta, parti üyeleri genel başkanlık seçimi için oylarını kullandı. Sabah saat 09.00'da başlayan oy verme işleminin akşam 17.00'de tamamlanması planlandı.
 

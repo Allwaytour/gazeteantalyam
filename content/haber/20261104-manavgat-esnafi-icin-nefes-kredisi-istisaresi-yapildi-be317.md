@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesinde, yükselen işletme maliyetleri karşısında yerel ekonomiyi desteklemek üzere bir finans toplantısı gerçekleştirildi. Manavgat Ticaret ve Sanayi Odası oda hizmet binasında düzenlenen istişare buluşmasında, TOBB Nefes Kredisi çerçevesinde kaynak sağlayacak bankaların ilçe merkezindeki şube müdürleri bir araya geldi. Oda yönetim kurulu üyelerinin de katıldığı oturumda, işletmelerin finansmana ulaşımını kolaylaştıracak başvuru adımları ve pratik çözümler masaya yatırıldı.
 

@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 - https://upload.wikimedia.org/wikipedia/commons/d/d8/Turkish_flag_%28T%C3%BCrk_bayra%C4%9F%C4%B1%29%2C_Bosphorus_Strait%2C_Istanbul%2C_T%C3%BCrkiye_%28_Ank_Kumar_%2C_Infosys_Limited_%29_01.jpg
 - https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
+yazim_denetim: y1
 ---
 Alanya'da Cumhuriyet'in 103'üncü yıl dönümü, Alanya Belediyesi ile Alanya Kent Konseyi ortaklığında organize edilen etkinliklerle coşkuyla kutlandı. Atatürk Anıtı önünde başlayan program, Cumhuriyet meşalesinin yakılması ve binlerce vatandaşın katıldığı fener alayı ile devam etti. Kutlamalara yerel yöneticiler, siyasi parti temsilcileri, sivil toplum kuruluşları ve çok sayıda vatandaş iştirak etti. Ellerinde Türk bayraklarıyla Atatürk Caddesi ve İskele Caddesi'nde yürüyen kalabalık, marşlar eşliğinde kutlama coşkusunu sokaklara taşıdı.
 

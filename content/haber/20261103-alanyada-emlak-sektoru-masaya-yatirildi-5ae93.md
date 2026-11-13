@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Ticaret ve Sanayi Odası yönetimi, kentteki esnaf ve sektör temsilcileriyle buluşmalarını sürdürüyor. Bu kapsamda gerçekleştirilen ziyarette, emlak sektörünün mevcut durumu ve çözüm bekleyen konuları ele alındı.
 

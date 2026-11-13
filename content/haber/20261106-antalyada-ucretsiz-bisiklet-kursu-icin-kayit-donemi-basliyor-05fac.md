@@ -209,6 +209,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 - https://images.unsplash.com/photo-1763568258605-6783d4fad7b5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi, çevre dostu ulaşımı ve sağlıklı yaşamı yaygınlaştırmak amacıyla yeni bir eğitim programı hayata geçiriyor. Çocuklar ve yetişkinler düşünülerek hazırlanan Temel Eğitim Bisiklet Kursu, katılımcılara iki farklı yaş kategorisinde bisiklet sürmenin temel inceliklerini öğretecek.
 

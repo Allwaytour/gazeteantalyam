@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+yazim_denetim: y1
 ---
 Elektrik faturalarında devlet desteği için uygulanan yıllık tüketim sınırının 2027 yılı itibarıyla 4 bin kilovatsaatten 3 bin kilovatsaate düşürülmesi yönündeki plan, Antalya ve Alanya'da eleştirilere neden oldu. Yapılması öngörülen %25'lik düşüşün, özellikle yaz aylarında aşırı sıcakların görüldüğü bölgelerde yaşayan haneleri zor durumda bırakacağı dile getirildi.
 

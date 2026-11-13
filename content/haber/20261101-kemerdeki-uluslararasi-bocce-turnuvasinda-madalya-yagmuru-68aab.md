@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Uluslararası alanda düzenlenen 17. Kemer Bocce Turnuvası'nda milli formayı giyen sporcular, üstün bir performans sergileyerek önemli dereceler elde etti. Organizasyon boyunca farklı kategorilerde boy gösteren sporcular, ülkelerini ve memleketlerini gururlandıran sonuçlarla turnuvayı tamamladı.
 

@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/4f/Turkey%2C_Alanya%2C_panorama_view.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+yazim_denetim: y1
 ---
 Alanya ekonomisinin en önemli yapı taşlarından biri olan turizm sektörü, düzenlenen toplantıda masaya yatırıldı. Sektörün gelişimine katkı sağlamak amacıyla düzenlenen görüşmede, ortak akıl ve istişare kültürünün önemine vurgu yapıldı.
 

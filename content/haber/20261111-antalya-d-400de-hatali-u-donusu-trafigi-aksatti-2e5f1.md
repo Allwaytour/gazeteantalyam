@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya genelinde yaşanan trafik yoğunluğu ve sürücülerin kurallara aykırı manevraları ulaşımı olumsuz etkilemeyi sürdürüyor. Kentin en önemli arterlerinden biri olan D-400 Karayolu üzerinde, Aksu istikametine doğru seyreden bir araçla ilgili dikkat çekici bir olay kaydedildi.
 

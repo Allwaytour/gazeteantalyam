@@ -70,6 +70,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesinde yürek burkan bir olay yaşandı. Yaklaşık bir yıldır kanser tedavisi gören 35 yaşındaki Naime Tekin, tedavi gördüğü hastanede 7 Kasım Cumartesi günü yaşamını yitirdi. Evli ve iki çocuk annesi olan Tekin'in vefat haberi, ailesini yasa boğdu.
 

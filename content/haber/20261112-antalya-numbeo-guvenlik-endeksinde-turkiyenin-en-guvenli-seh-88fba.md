@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Antalya_falezler.jpg
+yazim_denetim: y1
 ---
 Güncel güvenlik endeksi verileri, Türkiye'de değerlendirmeye alınan şehirler arasındaki puan sıralamasını gözler önüne serdi. Yapılan son değerlendirmelere göre Antalya, 71,2 puanla listenin ilk sırasına adını yazdırdı. Kent bu sonuçla, sıralamada yer alan diğer büyük şehirleri geride bırakmayı başardı.
 

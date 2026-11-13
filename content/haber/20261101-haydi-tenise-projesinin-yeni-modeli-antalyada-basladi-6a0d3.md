@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/d/de/Tennis_ball_on_tennis_court_20170619.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye Tenis Federasyonu öncülüğünde yürütülen Haydi Tenise Projesi, kulüp tesislerini ve antrenörleri sürece dahil eden yeni bir modelle genişletildi. Milli Eğitim Bakanlığı, Gençlik ve Spor Bakanlığı iş birliği ve Türkiye İş Bankası sponsorluğunda sürdürülen çalışmanın Haydi Tenise Kulüpte adı verilen ilk pilot uygulaması Kemer ilçesinde başladı. Bu yeni dönemle birlikte devlet okullarında okuyan çocukların kulüp imkanlarından faydalanarak düzenli tenis eğitimi alması amaçlanıyor.
 

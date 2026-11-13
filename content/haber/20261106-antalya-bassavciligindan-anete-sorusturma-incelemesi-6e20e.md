@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Cumhuriyet Başsavcılığı tarafından yürütülen 2026/38132 sayılı soruşturma doğrultusunda, Antalya İl Emniyet Müdürlüğü aracılığıyla Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü'ne resmi bilgi ve belge talebi iletildi. 28 Ekim 2026 tarihli emniyet yazısına dayanarak 2 Kasım'da ilgili birimlere gönderilen yazıda, ANET Antalya İnşaat Turizm Sanayi ve Ticaret Anonim Şirketi'nin 2020 ile 2025 yılları arasındaki çeşitli mali ve idari işlemlerine ait kayıtların temin edilmesi istendi.
 

@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya turizminin gelişiminde önemli pay sahibi olan ve bölgenin tanınan iş insanları arasında yer alan Ömer Osman Büyükhanlı 85 yaşında yaşamını yitirdi. Justiniano Otelleri ile Justin Beach tesislerinin kurucusu olan Büyükhanlı, gerçekleştirdiği turizm yatırımlarının yanı sıra hayırsever kimliğiyle de ilçe genelinde tanınıyor ve seviliyordu.
 

@@ -142,6 +142,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Ali_Babacan%2C_May_21%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261106-ali-babacan-antalyada-ekonomiyi-degerlendirdi-cikis-yolu-yol--afd2fe37.jpg
+yazim_denetim: y1
 ---
 Demokrasi ve Atılım Partisi (DEVA) Genel Başkanı Ali Babacan, FORUM X Platformu'nun davetiyle Antalya'da iş dünyası ve ekonomi temsilcileriyle bir araya geldi. DoubleTree by Hilton Hotel'de düzenlenen programda konuşan Babacan, Türkiye ekonomisinin geleceğine dair değerlendirmelerde bulunarak turizm, sanayi ve tarım sektörlerindeki sıkıntılara vurgu yaptı. Programın açılış konuşmasını FORUM X Antalya Başkanı Mehmet Hacıarifoğlu gerçekleştirdi.
 

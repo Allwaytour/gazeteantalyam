@@ -45,6 +45,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/File_turkey_durar.jpg/1280px-File_turkey_durar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: دُررْ / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-antalya-genelinde-yagislar-oncesi-altyapi-temizligi-araliksi--8585dc44.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi bünyesindeki ASAT Genel Müdürlüğü, kentin dört bir yanında yağmur suyu hatlarının sorunsuz çalışması için yürüttüğü temizlik faaliyetlerine devam ediyor. Yağışlı dönemlerde suyun güvenli bir biçimde tahliye edilmesini hedefleyen ekipler, hatlarda zamanla oluşan tıkanıklıkları ortadan kaldırıyor. Bu kapsamda Atık Yönetimi ve İşletmeler Şube Müdürlüğü personeli de sokak ve caddelerdeki mazgallarda biriken maddeleri temizliyor.
 

@@ -105,6 +105,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+yazim_denetim: y1
 ---
 İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen bir soruşturma kapsamında, Antalya'nın turizm merkezi Belek'te faaliyet gösteren bir otel yatırımı da dosyaya dahil edildi. Yürütülen incelemeler neticesinde Belek'teki otelin ortaklık yapısı ve finansman süreçleri kamuoyunun dikkatini çekti.
 

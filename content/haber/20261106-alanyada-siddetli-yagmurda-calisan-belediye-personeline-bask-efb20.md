@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1513689559427-a303dfc617d2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1433863448220-78aaa064ff47?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da etkili olan şiddetli sağanak yağışa rağmen görevlerini sürdüren belediye personeli, zorlu hava koşullarında çöp toplama hizmetini aksatmadan yerine getirdi. Avsallar Mahallesi'ndeki çalışmalarıyla dikkat çeken personelin özverili davranışı üzerine Alanya Belediye Başkanı Osman Tarık Özçelik, çalışanları makamında konuk etti.
 

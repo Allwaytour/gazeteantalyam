@@ -48,6 +48,7 @@ gorsel_onceki:
   gorsel_kredi: ''
 gorsel_konum: 50% 22%
 gorsel_yedek: /images/haber-gorsel/20261102-alanyanin-il-olacagi-iddialari-ve-plaka-tartismalari-31d34-f966a46d.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin idari yapılanmasında değişiklik yapılmasını öngören projede Alanya'nın da il olabilecek ilçeler arasında sayılması bölgede hareketliliğe neden oldu. Söz konusu projede nüfusun yanı sıra ekonomik kapasite, coğrafi konum ve bölgesel kalkınma potansiyeli gibi kriterlerin dikkate alınması gerektiği ifade edilirken, Alanya'nın il statüsü kazanması halinde 84 plaka kodunu alacağı yönündeki iddialar da dile getirilmeye başlandı.
 

@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Manavgat Belediyesi, Manavgat Ticaret ve Sanayi Odası (MATSO) heyetini konuk etti. Gerçekleştirilen buluşmada, bölgenin ekonomik ve ticari yapısının geliştirilmesi ile iş dünyasının talepleri değerlendirildi.
 

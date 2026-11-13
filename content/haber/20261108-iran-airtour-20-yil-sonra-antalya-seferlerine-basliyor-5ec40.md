@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya turizmi için önemli bir gelişme yaşanıyor. İranlı hava yolu şirketi Iran Airtour, yaklaşık 20 yıllık bir aranın ardından Tahran ile Antalya arasında tarifeli direkt uçuşları tekrar başlatma kararı aldı.
 

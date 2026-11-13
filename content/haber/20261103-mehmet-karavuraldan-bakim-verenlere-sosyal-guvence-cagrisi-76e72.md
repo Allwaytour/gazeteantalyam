@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1642680936843-b09109c69104?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Türkiye Sakatlar Derneği Antalya Şube Başkanı ve Antalya Kent Konseyi Engelliler Meclisi Başkanı Mehmet Karavural, engelli bireylerin bakımını üstlenen kişilerin yıllardır büyük bir özveriyle sürdürdüğü emeğin resmî olarak tanınması gerektiğini vurguladı. Karavural, bakım verenlerin ekonomik ve sosyal haklarının devlet güvencesine alınması çağrısında bulunarak, bakım sorumluluğunun yalnızca ailelerin omuzlarına bırakılmaması gerektiğini ifade etti.
 

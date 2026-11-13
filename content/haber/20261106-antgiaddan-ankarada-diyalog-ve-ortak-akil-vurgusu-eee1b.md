@@ -179,6 +179,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Genç İş İnsanları Derneği (ANTGİAD) Yönetim Kurulu Başkanı Ercan Yavaş ve dernek üyeleri, Ankara temasları kapsamında Türkiye Büyük Millet Meclisi'ni ziyaret etti. Heyet, meclisteki farklı siyasi partilerin temsilcileriyle bir araya gelerek ülkenin demokratik ve ekonomik geleceğine dair görüşlerini paylaştı.
 

@@ -72,6 +72,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi tarafından yapılan açıklamaya göre, Kemer ilçesindeki Arslanbucak Mahallesi Çamarası Caddesi'nde yeni imal edilen içme suyu hatlarının bağlantı işlemleri gerçekleştirilecek. Bu altyapı çalışmaları dolayısıyla 3 Kasım Salı günü Kemer genelinde planlı bir su kesintisi hayata geçirilecek.
 

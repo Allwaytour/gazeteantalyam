@@ -68,6 +68,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 - https://upload.wikimedia.org/wikipedia/commons/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg
+yazim_denetim: y1
 ---
 YENİ Parti Antalya Milletvekili Mustafa Erdem, Enerji Piyasası Düzenleme Kurumu'nun (EPDK) mesken abonelerine yönelik yıllık devlet desteği sınırını düşürme kararına ve iktidarın enerji politikalarına yönelik eleştirilerde bulundu. İktidarın doğrudan zam yapmıyor gibi görünerek destek kapsamını daralttığını ifade eden Erdem, bu durumun gizli bir zam anlamına geldiğini ve özellikle Antalya gibi sıcak bölgelerde yaşayan vatandaşları mağdur edeceğini savundu.
 

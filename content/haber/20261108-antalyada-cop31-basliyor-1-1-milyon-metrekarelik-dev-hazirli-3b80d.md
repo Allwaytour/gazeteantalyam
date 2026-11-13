@@ -122,6 +122,7 @@ metin_onarim:
   kaynak: https://www.takvim.com.tr/guncel/2026/11/08/turkiye-cop31e-hazir-dunya-liderleri-antalyada-bulusuyor
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), Antalya'da başlıyor. Dünya liderleri, bakanlar, akademisyenler ve sivil toplum kuruluşlarının temsilcilerini buluşturacak olan dev organizasyon için 1,1 milyon metrekarelik alan hazırlandı.
 

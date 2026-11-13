@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 2026-2027 eğitim öğretim yılının ilk ara tatiline yönelik heyecanlı bekleyiş sürerken, Alanya genelindeki öğrenciler ve veliler tatil tarihlerini yakından takip ediyor. Yürütülen planlamalar kapsamında ilçe genelindeki okul öncesi, ilkokul, ortaokul ve lise öğrencileri kasım ayında dinlenme fırsatı bulacak.
 

@@ -139,6 +139,7 @@ gorsel_yerlesim:
   o_kart_p: 54% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_yedek: /images/haber-gorsel/20261104-atsodan-bakan-kuruma-aksu-altintas-dosyasi-df983-3598d4cf.jpg
+yazim_denetim: y1
 ---
 Antalya'nın gayrimenkul ve inşaat sektöründe önemli bir yere sahip olan Aksu Altıntaş bölgesinde uzun süredir yaşanan imar ve parselasyon belirsizliği, en üst düzeyde çözüm masasına taşındı. Antalya Ticaret ve Sanayi Odası (ATSO) Yönetim Kurulu Başkan Yardımcısı Murat Totoş ve Yönetim Kurulu Üyesi Recep Mavi, bölgedeki ticari hayatı ve yatırımları olumsuz etkileyen meselelerin çözümü için hazırlanan ayrıntılı dosyayı Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'a sundu.
 

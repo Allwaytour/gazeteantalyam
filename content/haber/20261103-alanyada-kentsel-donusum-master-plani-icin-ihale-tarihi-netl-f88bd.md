@@ -46,6 +46,7 @@ yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanyada-7-bin-bina-icin-kentsel-donusum-plani-ihale-tarihi-belli-oldu
 gorsel_yedek: /images/haber-gorsel/20261103-alanyada-kentsel-donusum-master-plani-icin-ihale-tarihi-netl--a0f8b6b4.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyesi, ilçenin yapı stokunu ve olası afet risklerini tespit etmek amacıyla kapsamlı bir kentsel dönüşüm master planı hazırlatıyor. Yaklaşık 975 hektarlık alanı kapsayacak çalışma doğrultusunda, bölgedeki 7 bin civarındaki bina detaylı bir şekilde incelenecek. Projenin hayata geçirilmesi için planlanan ihale, 2 Aralık 2026 Çarşamba günü saat 10.00'da gerçekleştirilecek.
 

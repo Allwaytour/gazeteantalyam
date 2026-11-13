@@ -148,6 +148,7 @@ gorsel_yerlesim:
   o_kart_p: 48% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261104-muhittin-bocekten-devlet-bahceliye-taziye-mesaji-3cbdc-65ab3b41.jpg
+yazim_denetim: y1
 ---
 Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli hayatını kaybetti. Vefat haberinin ardından siyaset dünyasından taziye mesajları paylaşılırken, bu isimler arasında Muhittin Böcek de yer aldı. Sosyal medya hesabı üzerinden bir mesaj yayımlayan Böcek, Bahçeli ailesine sabır ve başsağlığı dileklerini iletti.
 

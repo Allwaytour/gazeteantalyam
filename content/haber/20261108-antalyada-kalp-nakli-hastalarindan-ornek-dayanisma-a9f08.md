@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/8b/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Akdeniz Üniversitesi Hastanesinde farklı yıllarda gerçekleştirilen operasyonlarla kalp nakli olan hastalar, Kalp Kardeşleri adı altında bir araya geldi. Türkiye'nin farklı bölgelerinden gelen nakil hastaları, tedavi sürecinde yaşadıkları deneyimleri paylaşarak dayanışma içinde hareket ediyor. Sevgimiz kalpten geliyor sloganıyla bir araya gelen grup üyeleri, 3-9 Kasım Organ ve Doku Bağışı Haftası dolayısıyla ameliyatlarını gerçekleştiren hekimleriyle buluştu.
 

@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Uluslararası spor organizasyonlarının merkezlerinden biri olan Alanya, yeni bir şampiyonaya ev sahipliği yapmaya hazırlanıyor. Görme Engelliler Spor Federasyonunun 2026 yılı faaliyet programında yer alan EGCA Youth Championships 2026 Uluslararası Gençler Goalball Şampiyonası, 5-8 Kasım tarihleri arasında gerçekleştirilecek.
 

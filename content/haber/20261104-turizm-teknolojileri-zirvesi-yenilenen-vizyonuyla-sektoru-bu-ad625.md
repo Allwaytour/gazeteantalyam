@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1763568258286-721c164171e0?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Bilişim Derneği Antalya Şubesi, geride bıraktığı on yıllık birikimi ve sektörle kurduğu güçlü bağları yeni bir etkinlik kimliğine taşıyor. Yenilenen stratejik vizyon doğrultusunda, turizmin tüm bileşenlerinde dijitalleşmeyi desteklemek ve ulusal ölçekteki iş birliklerini uluslararası etki alanıyla geliştirmek amaçlanıyor.
 

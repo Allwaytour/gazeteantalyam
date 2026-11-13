@@ -74,6 +74,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1642680936843-b09109c69104?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya Belediyesi Engelsiz Park ve Yaşam Merkezi öncülüğünde yürütülen binicilik programı, özel gereksinimli bireylerin yaşamına katkı sunmaya devam ediyor. Her pazartesi Alanya Atlı Spor Kulübü'nde gerçekleştirilen seanslar, uzman psikolog ve fizyoterapistler gözetiminde hayata geçiriliyor. Katılımcılar, uzman personel tarafından yapılan ön değerlendirmelerin ardından uygun gruplara ayrılıyor.
 

@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen COP31 kapsamında enerji diplomasisi temasları sürüyor. Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, katıldığı canlı yayında Türkiye'nin artan elektrik talebine ve nükleer enerji yatırımlarına dair önemli açıklamalarda bulundu. Yapay zeka teknolojileri, elektrikli araçlar ve soğutma ihtiyacındaki artışın elektrik tüketimini yükselteceğini belirten Bayraktar, bu talebi temiz enerji kaynaklarıyla karşılamayı amaçladıklarını kaydetti.
 

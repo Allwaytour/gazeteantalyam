@@ -75,6 +75,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
+yazim_denetim: y1
 ---
 Kumluca Kaymakamlığı öncülüğünde gerçekleştirilen İstanbul Kültür ve Tarih Gezisi, şehit yakınları ve gaziler için anlamlı bir buluşmaya vesile oldu. Üç gün süren ve İstanbul'un tarihi, kültürel ve manevi değerlerini yakından tanıma fırsatı sunan programın tamamlanmasıyla birlikte katılımcılar, Kumluca Kaymakamı Bahadır Güneş'i makamında ziyaret etti.
 

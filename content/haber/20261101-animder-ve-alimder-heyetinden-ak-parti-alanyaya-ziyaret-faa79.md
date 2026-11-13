@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da çeşitli temaslarda bulunmak amacıyla ilçeye gelen Alanya İmam Hatip Lisesi Mezunları ve Mensupları Derneği (ANİMDER) Başkanı Abdülkadir Göç ile beraberindeki heyet, AK Parti Alanya İlçe Başkanı Mehmet Şarani Tavlı ile bir araya geldi. Gerçekleştirilen buluşmada Alanya İmam Hatipliler Derneği (ALİMDER) Başkanı İsa Arıkan ve dernek yönetimi de hazır bulundu.
 

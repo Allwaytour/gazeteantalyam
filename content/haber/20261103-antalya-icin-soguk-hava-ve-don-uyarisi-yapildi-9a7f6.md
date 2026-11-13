@@ -68,6 +68,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1700997233462-1b4fe3b36ae8?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Valiliği tarafından yapılan son değerlendirmelere göre, kent genelinde hava koşullarında belirgin bir değişiklik yaşanması bekleniyor. İç ve yüksek kesimlerin çarşamba gününden itibaren serin ve yağışlı havanın etkisi altına gireceği, soğuk hava dalgasının 10 Kasım Salı gününe kadar etkisini sürdüreceği bildirildi.
 

@@ -150,6 +150,7 @@ gorsel_yerlesim:
   o_kart_p: 95% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261105-antalya-halinde-kasim-rakamlari-bogurtlen-fiyatiyla-zirvede-3-890349af.jpg
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi Toptancı Hali’nin 4 Kasım 2026 tarihli günlük fiyat bülteni açıklandı. Yayımlanan listede sebze ve meyve ürünlerinin en düşük ile en yüksek işlem fiyatları netlik kazandı. Açıklanan rakamlar arasında ithal meyvelerin yüksek fiyat etiketleri göze çarptı.
 

@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: https://upload.wikimedia.org/wikipedia/commons/6/6b/Turkpatent_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
   gorsel_kredi: 'Arşiv fotoğrafı: Kainat77 / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261102-ibradi-kestanesi-cografi-isaret-yolunda-fba00-f0dd9bdc.jpg
+yazim_denetim: y1
 ---
 Antalya genelinde kentin kültürel ve doğal mirasının korunması amacıyla yürütülen çalışmalar hız kesmeden devam ediyor. Bu kapsamda İbradı Belediyesi tarafından yöresel ürünün tescili için resmi başvuru gerçekleştirildi.
 

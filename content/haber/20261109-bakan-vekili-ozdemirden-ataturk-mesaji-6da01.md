@@ -65,6 +65,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 100%
   url: https://upload.wikimedia.org/wikipedia/commons/1/16/Mustafa_Kemal_Atat%C3%BCrk_%28white_balance%29.png
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi Başkan Vekili Büşra Özdemir, Gazi Mustafa Kemal Atatürk’ün ebediyete intikalinin 88'inci yıl dönümü vesilesiyle bir anma mesajı paylaştı. Özdemir, yayımladığı mesajda Atatürk’ün Türkiye Cumhuriyeti’ni Türk milletine bıraktığı en büyük miras olduğunu vurguladı.
 

@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Trendyol Süper Lig'de heyecan 11. hafta mücadeleleriyle devam ediyor. Ligin dikkat çeken ekiplerinden Gençlerbirliği, yarın akşam deplasmanda Beşiktaş ile karşı karşıya gelecek. Tüpraş Stadı'nda oynanacak olan müsabaka saat 21.00'de başlayacak ve karşılaşmayı hakem Atilla Karaoğlan yönetecek.
 

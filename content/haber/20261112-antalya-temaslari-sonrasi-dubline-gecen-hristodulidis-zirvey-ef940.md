@@ -63,6 +63,7 @@ gorsel_yerlesim:
   o_kart_p: 21% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nikos_CHRISTODOULIDES_%28cropped%29.jpg/1280px-Nikos_CHRISTODOULIDES_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulidis, Antalya kentindeki iklim zirvesinde gerçekleştirdiği temasların ardından İrlanda'nın başkenti Dublin'e gitti. Hristodulidis, 44 ülkenin temsilcisinin bir araya geleceği Avrupa Siyasi Topluluğu Zirvesi'ne katılıyor.
 

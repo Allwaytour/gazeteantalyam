@@ -72,6 +72,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1586281380349-632531db7ed4?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya genelinde istihdamı artırmaya yönelik iki ayrı kamu kurumu personel alım ilanını duyurdu. Yayımlanan duyurulara göre Alanya ve Konyaaltı ilçelerinde toplam 47 yeni kadro için başvuru süreci başlatıldı. Adayların başvuru işlemleri için belirlenen son tarih 13 Kasım 2026 olarak açıklandı.
 

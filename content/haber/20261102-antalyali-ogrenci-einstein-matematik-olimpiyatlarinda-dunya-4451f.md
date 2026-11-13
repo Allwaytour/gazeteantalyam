@@ -108,6 +108,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1763098844157-d0fffcc966a1?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Dünyanın farklı ülkelerinden genç yeteneklerin katılımıyla gerçekleştirilen Einstein Matematik Olimpiyatları'nın uluslararası finali Almanya'nın Berlin kentinde tamamlandı. Problem çözme becerileri, bilimsel düşünme ve matematiksel yeteneklerin değerlendirildiği organizasyon, 26 ile 30 Ekim 2026 tarihleri arasında yapıldı. Kırktan fazla ülkenin temsil edildiği dev finalde, 5. sınıflar kategorisinde yarışan Antalyalı öğrenci Çağan Tuğra Sözel büyük bir başarıya imza atarak zirveye yerleşti.
 

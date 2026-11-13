@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türk Hava Yolları ve Lufthansa ortaklığıyla faaliyet gösteren SunExpress, kış dönemine yönelik uçuş ağını genişletmeye devam ediyor. Şirket, bu kapsamda Antalya ile Şam arasında karşılıklı uçuşları başlatıyor. Planlanan programa göre iki şehir arasındaki ilk sefer bugün yapılacak.
 

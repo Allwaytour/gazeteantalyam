@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1529511582893-2d7e684dd128?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/6/6b/Tractor%2C_%C3%87i%C3%A7ekli.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/c9/Bu%C4%9Fday_tarlas%C4%B1_-_Wheat_field_01.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde geçmiş yıllarda yaşanan sel ve su baskınlarının ardından dere yataklarında başlatılan taşkın koruma çalışmaları yakından takip ediliyor. İlçe protokolü, Gavur, Üleşik ve Akmaz derelerinde bir dizi saha incelemesi gerçekleştirerek bölgedeki yatırımların son durumunu değerlendirdi.
 

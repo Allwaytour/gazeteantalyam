@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında iklim değişikliğiyle mücadele, doğal kaynakların korunması ve sürdürülebilir çevre politikaları ele alınıyor. Zirve gündeminde çevre koruma hedefleri öne çıkarken, bölgedeki sahadaki durum ise farklı bir tabloyu ortaya koydu.
 

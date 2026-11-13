@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Saadet Partisi Alanya İlçe Teşkilatı, ilçedeki tarımsal üreticilerin yaşadığı sorunlara ve tarım bütçesindeki yetersizliklere ilişkin yazılı bir açıklama yaptı. Açıklamada, üreticilerin artan girdi maliyetleri karşısında zorlandığı belirtilerek kanuni düzenlemelere uyulması gerektiği vurgulandı.
 

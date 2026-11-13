@@ -72,6 +72,7 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya'nın Belek kumsalında, Ekolojik Araştırmalar Derneği (EKAD) tarafından yürütülen koruma çalışmaları sırasında bilim dünyasının dikkatini çeken bir vaka yaşandı. Boğazkent sahilinde yumurtlamak için karaya çıkan bir caretta carettanın arka yüzgeçlerinden birinin eksik olduğu fark edildi. Yapılan veteriner muayenesi ve röntgen incelemeleri sonucunda, 'DOA' adı verilen kaplumbağanın yüzgecini sonradan kaybetmediği, doğuştan 'ameli' yani uzuv gelişimi olmadan dünyaya geldiği tespit edildi.
 

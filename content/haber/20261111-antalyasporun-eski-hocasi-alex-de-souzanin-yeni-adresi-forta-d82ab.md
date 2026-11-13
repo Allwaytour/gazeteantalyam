@@ -74,6 +74,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Fenerbahçe formasıyla Türkiye'de iz bırakan ve bir dönem Antalyaspor'da da teknik direktörlük yapan Alex de Souza, Brezilya'da yeni bir döneme adım atmaya hazırlanıyor. Antrenörlük kariyerini ülkesinin Serie B liginde sürdüren 49 yaşındaki çalıştırıcının, Fortaleza ile anlaşmak üzere olduğu bildirildi.
 

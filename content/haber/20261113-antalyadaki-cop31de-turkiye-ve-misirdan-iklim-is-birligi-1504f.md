@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen COP31 Zirvesi kapsamında diplomatik temaslar aralıksız sürüyor. Etkinliğin dördüncü gününde yoğun bir program yürüten yetkililer, uluslararası iş birliği adımlarını ele aldı.
 

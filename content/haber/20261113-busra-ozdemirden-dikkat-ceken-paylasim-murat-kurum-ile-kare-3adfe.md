@@ -71,6 +71,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Antalya siyasi kulislerinde son dönemde yoğun şekilde konuşulan parti değişikliği iddialarının merkezinde yer alan Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir, sosyal medya hesabından yeni bir paylaşımda bulundu. Özdemir, katıldığı bir imza töreninde Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile tokalaştığı anı içeren fotoğrafı paylaşımlarında ilk sıraya yerleştirdi.
 

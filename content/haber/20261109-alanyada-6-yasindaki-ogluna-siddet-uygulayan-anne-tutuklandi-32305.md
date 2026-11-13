@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+yazim_denetim: y1
 ---
 Alanya'nın Konaklı Mahallesi'nde yaşanan olay, çocuklara yönelik şiddet gerçeğini bir kez daha gözler önüne serdi. 31 yaşındaki N.B. isimli anne, bakımında zorlandığı 6 yaşındaki oğlunu devlet korumasına yerleştirmek amacıyla başvuruda bulundu. Kurum yetkilileri tarafından gerçekleştirilen rutin sağlık kontrolü sırasında çocuğun vücudunda darp izlerine rastlanması üzerine durum derhal güvenlik güçlerine bildirildi.
 

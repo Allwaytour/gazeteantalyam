@@ -46,6 +46,7 @@ gorsel_onceki:
   gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg/1280px-Antalya_Kaleici_museum_Agios_Georgios_church_part_5805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   gorsel_kredi: 'Arşiv fotoğrafı: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 gorsel_yedek: /images/haber-gorsel/20261101-antalyanin-kentlesme-hikayesi-ve-gelecegi-masaya-yatirildi-1f-6690c5e6.jpg
+yazim_denetim: y1
 ---
 Adem Tolunay Anadolu Lisesi Mezunları Derneği (ATALMED), kentin kimliğini ve geleceğini farklı meslek gruplarının katılımıyla değerlendirmek üzere yeni bir etkinlik serisi hayata geçirdi. Bir Arada Sohbetleri adı verilen programın ilki, Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Enstitüsü'nde gerçekleştirildi. Antalya'da Kentleşme, Mimarlık ve Altyapı - Geçmişten Geleceğe Antalya'nın Kent Hikâyesi başlığını taşıyan toplantıda, kentin geçirdiği değişim süreci ve ilerleyen dönemdeki gereksinimleri masaya yatırıldı.
 

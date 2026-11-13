@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1696441567908-6a04d49e1350?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya, Burdur ve Isparta illerini kapsayan 1/100.000 ölçekli Çevre Düzeni Planı'nda tarım arazilerini yakından ilgilendiren önemli bir değişikliğe gidildi. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından onaylanan ve Antalya Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü tarafından askıya çıkarılan düzenleme, tarımsal amaçlı yapıların inşaat koşullarını yeniden tanımlıyor.
 
