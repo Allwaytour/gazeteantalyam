@@ -1,7 +1,7 @@
 ---
-title: Elmali'da 300 milyon liralik icme suyu altyapisi calismasi suruyor
+title: Elmalı'da 300 Milyon Liralık İçme Suyu Altyapısı Çalışması Sürüyor
 date: '2026-11-01T22:34:00+03:00'
-ozet: Antalya'da Elma'li ilcesindeki sekiz mahallede yaklasik 300 milyon liralik icme suyu altyapisi ve sebeke yenileme calismalari hiz kesmeden devam ediyor.
+ozet: Antalya'da Elma'li ilçesindeki sekiz mahallede yaklaşık 300 milyon liralık içme suyu altyapısı ve şebeke yenileme çalışmaları hız kesmeden devam ediyor.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Historic_streets_of_Elmal%C4%B1%2C_Antalya.jpg/1280px-Historic_streets_of_Elmal%C4%B1%2C_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: Elmalili / Wikimedia Commons (CC BY 2.5)'
 kategoriler:
@@ -46,10 +46,16 @@ kaynak_url: https://www.yenialanya.com/antalya-elmalida-300-milyon-tllik-altyapi
 gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
-gorsel_yedek: /images/haber-gorsel/20261101-elmalida-300-milyon-liralik-icme-suyu-altyapisi-calismasi-su--cc3b8306.jpg
+gorsel_yedek: /images/haber-gorsel/20261101-elmalida-300-milyon-liralik-icme-suyu-altyapisi-calismasi-su--94b9f62e.jpg
+baslik_onceki: Elmali'da 300 milyon liralik icme suyu altyapisi calismasi suruyor
+metin_onarim:
+  tarih: '2026-11-13T15:30:38+03:00'
+  kaynak: https://www.yenialanya.com/antalya-elmalida-300-milyon-tllik-altyapi-yatirimi-8-mahallede-calisma
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 5 kelime özgün haliyle bırakıldı; spot: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Antalya Buyuksehir Belediyesi ASAT Genel Mudurlugu tarafindan Elma'li ilcesinde baslatilan buyuk olcekli altyapi yatirimlari tum hiziyla suruyor. Proje kapsaminda ilce genelindeki sekiz mahallede toplam 116 bin metreyi askin yeni icme suyu altyapisi olusturulmasi hedefleniyor. Yapilan calismalarle ekonomik omrunu tamamlayan sebekelerin yenilenmesi, su iletim kapasitesinin artirilmasi ve modern sayac sistemlerine gecilmesi amaclaniyor.
+Antalya Büyükşehir Belediyesi ASAT Genel Müdürlüğü tarafından Elma'li ilçesinde başlatılan büyük ölçekli altyapı yatırımları tüm hızıyla sürüyor. Proje kapsamında ilçe genelindeki sekiz mahallede toplam 116 bin metreyi aşkın yeni içme suyu altyapısı oluşturulması hedefleniyor. Yapılan calismalarle ekonomik ömrünü tamamlayan şebekelerin yenilenmesi, su iletim kapasitesinin artırılması ve modern sayaç sistemlerine geçilmesi amaçlanıyor.
 
-Yatirim programi Karyağdı, Çalpınar, Kızılpınar, Bozhöyük, Geçmen, Eskihisar, Yuva ve Akçay mahallelerini kapsiyor. Ilce merkezindeki Karyağdiyi mahallesinde icme suyu hatlarinin yani sira kanalizasyon altyapisi da yenilenirken diger mahallelerde sebeke ve sayac modernizasyon calismalari yurutuluyor. Ayrica Yuva Mahallesi Kazanpinar mevkisinden ilce merkezine dogru uzanan 13 bin metreden fazla uzunluga sahip celik isale hatti imalati da projenin onemli ayaklarindan birini olusturuyor.
+Yatırım programı Karyağdı, Çalpınar, Kızılpınar, Bozhöyük, Geçmen, Eskihisar, Yuva ve Akçay mahallelerini kapsıyor. İlçe merkezindeki Karyağdiyi mahallesinde içme suyu hatlarının yanı sıra kanalizasyon altyapısı da yenilenirken diğer mahallelerde şebeke ve sayaç modernizasyon çalışmaları yürütülüyor. Ayrıca Yuva Mahallesi Kazanpınar mevkisinden ilçe merkezine doğru uzanan 13 bin metreden fazla uzunluğa sahip çelik isale hattı imalatı da projenin önemli ayaklarından birini oluşturuyor.
 
-Resmi ihale belgelerine gore gerceklestirilen calismalarda yuksek yogunluklu polietilen borular ve abonelik baglantilari da yer aliyor. Yer tesliminin ardindan baslayan surec kapsaminda hat imalatlari ve sayac montajlari adim adim tamamlaniyor. Yatirimin tamamlanmasiyla birlikte bolgedeki su iletiminin guclendirilmesi ve altyapi hizmetlerinin daha saglikli bir yapiya kavusturulmasi bekleniyor.
+Resmi ihale belgelerine göre gerçekleştirilen çalışmalarda yüksek yoğunluklu polietilen borular ve abonelik bağlantıları da yer alıyor. Yer tesliminin ardından başlayan süreç kapsamında hat imalatları ve sayaç montajları adım adım tamamlanıyor. Yatırımın tamamlanmasıyla birlikte bölgedeki su iletiminin güçlendirilmesi ve altyapı hizmetlerinin daha sağlıklı bir yapıya kavuşturulması bekleniyor.

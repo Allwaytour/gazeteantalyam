@@ -1,7 +1,7 @@
 ---
-title: Antalyaspor'dan U16 Milli Takimi'na besinci oyuncu takviyesi
+title: Antalyaspor'dan U16 Milli Takımı'na beşinci oyuncu takviyesi
 date: '2026-10-31T17:28:00+03:00'
-ozet: Antalya'da yapilan uluslararasi hazirlik turnuvasinda mucadele eden U16 Milli Takimi'nin kadrosunda degisiklige gidildi. Antalyaspor altyapisindan bir futbolcu daha aday kadroya cagrildi.
+ozet: Antalya'da yapılan uluslararası hazırlık turnuvasında mücadele eden U16 Milli Takımı'nın kadrosunda değişikliğe gidildi. Antalyaspor altyapısından bir futbolcu daha aday kadroya çağrıldı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_kredi: 'Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -51,7 +51,7 @@ gorsel_gecmis:
   gorsel_secim: {}
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: bu haber için doğrulanmamış eski otomatik seçim
-gorsel_yedek: /images/haber-gorsel/20261031-antalyaspordan-u16-milli-takimina-besinci-oyuncu-takviyesi-f2-410557ea.jpg
+gorsel_yedek: /images/haber-gorsel/20261031-antalyaspordan-u16-milli-takimina-besinci-oyuncu-takviyesi-f2-1d7ed98e.jpg
 gorsel_yerlesim:
   boyut:
   - 2592
@@ -76,11 +76,17 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Antalyaspor'dan U16 Milli Takimi'na besinci oyuncu takviyesi
+metin_onarim:
+  tarih: '2026-11-13T15:30:38+03:00'
+  kaynak: https://www.akdenizmanset.com.tr/antalyaspordan-u16-milli-takima-besinci-isim-mehmet-alp-deniz-de-kadroda
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 3 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 3 kelime özgün haliyle bırakıldı'
 ---
-Kente duzenlenen Uluslararasi Hazirlik Turnuvasinda sahne alan Turkiye U16 Milli Takimi'nin oyuncu havuzunda guncelleme yapildi. Futbol federasyonunun yayimladigi son listede, kirmizi-beyazli kulubun altyapinda yetisen sporcularindan bir isim daha kadroya dahil edildi.
+Kente düzenlenen Uluslararası Hazırlık Turnuvasinda sahne alan Türkiye U16 Millî Takımı'nın oyuncu havuzunda güncelleme yapıldı. Futbol federasyonunun yayımladığı son listede, kırmızı-beyazlı kulübün altyapinda yetişen sporcularından bir isim daha kadroya dahil edildi.
 
-Daha once aciklanan listede yer almayan savunma oyuncusu Mehmet Alp Deniz, yapilan son degisiklikle aday kadroya cagrildi. boylece Antalyaspor'dan Milli Takim'a secilen futbolcu sayisi bes yukseldi. Genc oyuncunun Ukrayna karsisinda sure bulup bulamayacagi mac saatinde belli olacak.
+Daha önce açıklanan listede yer almayan savunma oyuncusu Mehmet Alp Deniz, yapılan son değişiklikle aday kadroya çağrıldı. Böylece Antalyaspor'dan Millî Takim'a seçilen futbolcu sayısı bes yükseldi. Genç oyuncunun Ukrayna karşısında süre bulup bulamayacağı maç saatinde belli olacak.
 
-Ay-yildizli ekip turnuvadaki ikinci sinavinda Ukrayna ile karsilasacak. Manavgat Arslan Zeki Demirci Spor Kompleksi'ndeki mucadele oncesinde teknik heyet hazirliklarini tamamlarken, takim turnuvanin acilis macinda Isvicre'yi maglup etmeyi basarmisti.
+Ay-yıldızlı ekip turnuvadaki ikinci sınavında Ukrayna ile karşılaşacak. Manavgat Arslan Zeki Demirci Spor Kompleksi'ndeki mücadele öncesinde teknik heyet hazırlıklarını tamamlarken, takım turnuvanın açılış maçında İsviçre'yi mağlup etmeyi başarmıştı.
 
-Isvicre karsisindaki galibiyette kirmizi-beyazli altyapidan yetisen futbolcular da performanslariyla dikkati cekmisti. Genc sporcularin Ukrayna mucadelesindeki olasi katkilari da yakindan izlenecek. Milli takim turnuvadaki kapanis musabakasini kasim ayinin ilk gunlerinde oynayacak.
+İsviçre karşısındaki galibiyette kırmızı-beyazlı altyapıdan yetişen futbolcular da performanslarıyla dikkati çekmişti. Genç sporcuların Ukrayna mücadelesindeki olası katkıları da yakından izlenecek. Milli takım turnuvadaki kapanış müsabakasını kasım ayının ilk günlerinde oynayacak.

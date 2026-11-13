@@ -644,6 +644,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Global_public_support_for_energy_sources_%28Ipsos_2011%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "00f84a121eb7a288": {
+   "icerik": {
+    "ana_kutu": [
+     306,
+     85,
+     650,
+     953
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çikolata paketi",
+     "badem",
+     "çikolata"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz zemin üzerinde Godiva marka bademli sütlü çikolata paketi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şirket haberleri",
+     "gıda sektörü",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "iklim zirvesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:11845e21c4b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yıldız Holding'e ait bir ürün gösterilse de hedef açıklama haberi için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       306,
+       85,
+       650,
+       953
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f1dce76fe8e3f3f",
+    "sha": "dbe3cb90a3b1100220c235f7"
+   },
+   "t": "2026-11-13T15:29:31+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.074,
+    "keskinlik": 573,
+    "kontrast": 48,
+    "medyan": 168,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2019-07-08_13_41_21_A_Godiva_Milk_Chocolate_Almond_bar_still_in_its_wrapper_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg/1280px-2019-07-08_13_41_21_A_Godiva_Milk_Chocolate_Almond_bar_still_in_its_wrapper_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "00fd3d13ae282dd9": {
    "icerik": {
     "ana_kutu": [
@@ -1557,6 +1649,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Old_city_view_-_panoramio_%281%29.jpg/1280px-Old_city_view_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "02d2e0854ef70a11": {
+   "icerik": {
+    "ana_kutu": [
+     58,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "takım elbise",
+     "kravat"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Gözlüklü ve takım elbiseli orta yaşlı erkek portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şirket haberleri",
+     "yönetim kurulu",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "sokak röportajı",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      58,
+      263,
+      646,
+      715
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:11845e21c4b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Holding yöneticisinin portresi arşiv görseli olarak kullanılabilir ancak konferans ortamı eksik.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       58,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3969697131f4cecf",
+    "sha": "17189c23a670152ef6e1e976"
+   },
+   "t": "2026-11-13T15:29:31+03:00",
+   "teknik": {
+    "doygunluk": 26.5,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 617,
+    "kontrast": 84,
+    "medyan": 216,
+    "parlaklik": 175,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ali_%C3%9Clker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "02de397647a72ad9": {
    "icerik": {
@@ -6478,6 +6669,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG/1280px-%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0d47fba8c9f6a209": {
+   "icerik": {
+    "ana_kutu": [
+     73,
+     319,
+     951,
+     703
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mermer büst",
+     "stand"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen mermer büstün yan açıdan görünümü",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "antik sanat",
+     "sergi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "spor haberi",
+     "günlük yaşam"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:078060b74b7d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mermer heykel içermesiyle sempozyum haberine uyar ancak 3. fotoğrafın benzer açısıdır.",
+      "gerekli": [
+       {
+        "unsur": "heykel",
+        "var": true
+       },
+       {
+        "unsur": "sanatçı",
+        "var": false
+       },
+       {
+        "unsur": "mermer veya taş blok",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       73,
+       319,
+       951,
+       703
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7f65616527616f9c",
+    "sha": "7f64d420cd083bd291d9dd17"
+   },
+   "t": "2026-11-13T15:29:04+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.033,
+    "keskinlik": 249,
+    "kontrast": 33,
+    "medyan": 127,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD.jpg/1280px-Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0d5a9acc2b5f4bf7": {
    "icerik": {
     "ana_kutu": [
@@ -11342,6 +11632,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg/1280px-Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "15b76ff6cec07981": {
+   "icerik": {
+    "ana_kutu": [
+     181,
+     149,
+     873,
+     853
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bronz heykel"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gri arka plan önünde konumlandırılmış bronz heykel",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "heykel sergisi",
+     "koleksiyon haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "spor haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:078060b74b7d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Heykel sempozyumu haberi için temsilî bir heykel görseli sunuyor ancak malzeme bronz.",
+      "gerekli": [
+       {
+        "unsur": "heykel",
+        "var": true
+       },
+       {
+        "unsur": "sanatçı",
+        "var": false
+       },
+       {
+        "unsur": "mermer veya taş blok",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       181,
+       149,
+       873,
+       853
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f37f3d9c9e4dcd4",
+    "sha": "37e5e248a68e9078df13827f"
+   },
+   "t": "2026-11-13T15:29:04+03:00",
+   "teknik": {
+    "doygunluk": 9.0,
+    "inen": [
+     500,
+     397
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 977,
+    "kontrast": 61,
+    "medyan": 191,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/After_Th%C3%A9odore_G%C3%A9ricault_-_Satyr_and_Nymph%2C_cast_postumously.jpg/1280px-After_Th%C3%A9odore_G%C3%A9ricault_-_Satyr_and_Nymph%2C_cast_postumously.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "15dc19f6b3186cf8": {
    "ozet": {
@@ -29240,6 +29628,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2012-02_BAB-4_2.jpg/1280px-2012-02_BAB-4_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "360e7ca6ba5e0001": {
+   "icerik": {
+    "ana_kutu": [
+     51,
+     300,
+     953,
+     698
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mermer büst",
+     "stand"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen mermer portre büstü",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "antik sanat",
+     "sergi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "spor haberi",
+     "günlük yaşam"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:078060b74b7d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mermer heykel/büst içermesiyle sempozyum haberine uyar ancak antik bir eserdir.",
+      "gerekli": [
+       {
+        "unsur": "heykel",
+        "var": true
+       },
+       {
+        "unsur": "sanatçı",
+        "var": false
+       },
+       {
+        "unsur": "mermer veya taş blok",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       51,
+       300,
+       953,
+       698
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ddcddd8d0d3c0e99",
+    "sha": "3f6f3c4469cdd4b62f8c7aba"
+   },
+   "t": "2026-11-13T15:29:04+03:00",
+   "teknik": {
+    "doygunluk": 27.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.069,
+    "keskinlik": 243,
+    "kontrast": 34,
+    "medyan": 108,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg/1280px-Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "36946fcaca227a81": {
    "icerik": {
     "ana_kutu": [
@@ -30302,6 +30789,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:11845e21c4b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sinema salonu görseli, Antalya'daki iklim konferansı ve Yıldız Holding hedefleri haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu",
+       "fabrika"
+      ]
+     },
+     "t": "2026-11-13T15:29:31+03:00"
+    },
     "r1:2f98e61cb488:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -30479,7 +30995,7 @@
     "dh": "58180e0787ccc1c3",
     "sha": "8a26fb39ea5d8c04388b2c6b"
    },
-   "t": "2026-11-13T03:58:33+03:00",
+   "t": "2026-11-13T15:29:31+03:00",
    "teknik": {
     "doygunluk": 10.3,
     "inen": [
@@ -41119,9 +41635,44 @@
       "yasak": []
      },
      "t": "2026-11-08T13:36:11+03:00"
+    },
+    "r1:9aaacb8df307:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sıfır atık ve geri dönüşüm temasını doğrudan temsil eden uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "geri dönüşüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       130,
+       170,
+       970,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:30:35+03:00"
     }
    },
-   "t": "2026-11-08T13:36:11+03:00",
+   "ozet": {
+    "dh": "c3cf4b4242c920b4",
+    "sha": "bca257ca37bf65f2bf19f337"
+   },
+   "t": "2026-11-13T15:30:35+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -42344,6 +42895,71 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:078060b74b7d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Manavgat'taki sempozyum yerine kapali galeri sergisini gosteriyor, sempozyum alanini yansitmiyor.",
+      "gerekli": [
+       {
+        "unsur": "heykel",
+        "var": true
+       },
+       {
+        "unsur": "sanatçı",
+        "var": false
+       },
+       {
+        "unsur": "mermer veya taş blok",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       100,
+       950,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:28:35+03:00"
+    },
+    "r1:11845e21c4b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir sanat galerisi görselidir, konferans ortamını yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:59+03:00"
+    },
     "r1:26fd90c9815b:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -42616,7 +43232,7 @@
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-13T11:58:27+03:00",
+   "t": "2026-11-13T15:29:59+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -45378,6 +45994,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_%2815176462307%29.jpg/1280px-The_Bowes_Lyon_Bridge_-_National_Tramway_Museum_-_Crich_%2815176462307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "58f8038192a251e9": {
+   "icerik": {
+    "ana_kutu": [
+     120,
+     260,
+     980,
+     860
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "geri dönüşüm kutusu",
+     "çöp kutusu",
+     "bitki örtüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Doğal bir alanda yan yana duran mavi ve siyah atık kutuları.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre haberleri",
+     "sıfır atık",
+     "doğa koruma"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler",
+     "kişi odaklı haberler",
+     "spor haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9aaacb8df307:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sıfır atık temasını iyi yansıtır ancak yabancı bir bölgeye ait olduğu bellidir.",
+      "gerekli": [
+       {
+        "unsur": "geri dönüşüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       120,
+       260,
+       980,
+       860
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:30:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "56b46c6c7c7c68e0",
+    "sha": "9d474272fecd89d7bf31edac"
+   },
+   "t": "2026-11-13T15:30:35+03:00",
+   "teknik": {
+    "doygunluk": 35.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.206,
+    "keskinlik": 4920,
+    "kontrast": 55,
+    "medyan": 87,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Recycling_and_Garbage_Bin_in_Municipal_Park.jpg/1280px-Recycling_and_Garbage_Bin_in_Municipal_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5963693045d718f4": {
    "icerik": {
@@ -52443,6 +53151,32 @@
      },
      "t": "2026-11-09T14:35:57+03:00"
     },
+    "r1:11845e21c4b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konferans salonuna benzer ancak konser salonu olduğu çok belirgindir, zirve atmosferiyle uyuşmaz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:59+03:00"
+    },
     "r1:3d4c3df84832:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -52610,7 +53344,7 @@
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-13T11:58:27+03:00",
+   "t": "2026-11-13T15:29:59+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -58949,6 +59683,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg/1280px-Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7a574499a29f039a": {
+   "icerik": {
+    "ana_kutu": [
+     420,
+     170,
+     770,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "geri dönüşüm kutusu",
+     "çit",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir avluda yan yana dizilmiş gri geri dönüşüm konteynerleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre haberleri",
+     "atık yönetimi",
+     "belediye hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler",
+     "kişi odaklı haberler",
+     "acil durum haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9aaacb8df307:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm temasını yansıtır ancak yabancı bir ülkeye ait olduğu izlenimi verir.",
+      "gerekli": [
+       {
+        "unsur": "geri dönüşüm",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       170,
+       770,
+       725
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:30:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3238b05909000389",
+    "sha": "b487a491865d39ec0596cf13"
+   },
+   "t": "2026-11-13T15:30:35+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     500,
+     242
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 1788,
+    "kontrast": 50,
+    "medyan": 108,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Recycling_bins_Drammen.jpg/1280px-Recycling_bins_Drammen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7a6ddf3389c396d7": {
    "icerik": {
@@ -66524,6 +67350,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411672%29.jpg/1280px-Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "86cc5168fb92aade": {
+   "icerik": {
+    "ana_kutu": [
+     273,
+     11,
+     638,
+     977
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çikolata"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde G harfi kabartmaları bulunan dört parçaya bölünmüş sütlü çikolata.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şirket haberleri",
+     "gıda sektörü",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "iklim zirvesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:11845e21c4b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yıldız Holding markasının çikolatası yer alıyor ancak zirve haberi için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       273,
+       11,
+       638,
+       977
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "defefedebefeffff",
+    "sha": "6ee3bce8128c0d5ce07ae480"
+   },
+   "t": "2026-11-13T15:29:31+03:00",
+   "teknik": {
+    "doygunluk": 15.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.052,
+    "keskinlik": 315,
+    "kontrast": 69,
+    "medyan": 190,
+    "parlaklik": 163,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2019-07-08_13_42_23_The_upper_side_of_a_Godiva_Milk_Chocolate_Almond_bar_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg/1280px-2019-07-08_13_42_23_The_upper_side_of_a_Godiva_Milk_Chocolate_Almond_bar_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8742bcdf719a1129": {
    "icerik": {
@@ -74903,6 +75819,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Urfa_museum_Urfa_museum_Neval%C4%B1_%C3%87ori_Temple_in_2024_0359.jpg/1280px-Urfa_museum_Urfa_museum_Neval%C4%B1_%C3%87ori_Temple_in_2024_0359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "976a3ba28159c7f2": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     263,
+     1000,
+     977
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş heykel",
+     "çim alan",
+     "çalılık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil alanda taştan yapılmış baykuş heykelleri",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "heykel sempozyumu",
+     "park ve bahçe sanatı",
+     "açık hava sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "kaza haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:078060b74b7d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Taştan yontulmuş heykelleri göstermesi bakımından heykel sempozyumu haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "heykel",
+        "var": true
+       },
+       {
+        "unsur": "sanatçı",
+        "var": false
+       },
+       {
+        "unsur": "mermer veya taş blok",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       263,
+       1000,
+       977
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8ccbcf8f993bcb19",
+    "sha": "6f4c8613afdf132db589364c"
+   },
+   "t": "2026-11-13T15:29:04+03:00",
+   "teknik": {
+    "doygunluk": 46.5,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.127,
+    "keskinlik": 970,
+    "kontrast": 51,
+    "medyan": 130,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1790408159007-1a511dedda29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YXJ0aXN0JTIwY2hpc2VsaW5nJTIwc3RvbmUlMjBvdXRkb29yfGVufDF8MHx8fDE3OTQ1NzI5MjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "97b55f7d603c0273": {
    "icerik": {
     "ana_kutu": [
@@ -83055,6 +84071,29 @@
      },
      "t": "2026-11-12T09:56:20+03:00"
     },
+    "r1:11845e21c4b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde yasaklanan spor salonu ortamıdır, kurumsal zirve ile hiçbir ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": [
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-13T15:29:59+03:00"
+    },
     "r1:40cf4cb0f71d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -83302,7 +84341,7 @@
     "dh": "480a1b9a8a8b970f",
     "sha": "416fff73801850c3ab48e173"
    },
-   "t": "2026-11-13T11:58:27+03:00",
+   "t": "2026-11-13T15:29:59+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -97292,6 +98331,37 @@
     ]
    },
    "iliski": {
+    "r1:11845e21c4b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konferans ortamı uygun ancak masadaki 'United Kingdom' ve 'Slovensko' yazıları olayın Türkiye'de geçtiği bilgisiyle çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       100,
+       800,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:59+03:00"
+    },
     "r1:1d1e3fc9b714:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -97601,41 +98671,6 @@
      },
      "t": "2026-11-08T15:13:40+03:00"
     },
-    "r1:d5c53c975dac:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Toplantı ortamı gösteriliyor ancak Antalya EXPO alanı ile doğrudan ilişkisi yok.",
-      "gerekli": [
-       {
-        "unsur": "konferans salonu",
-        "var": true
-       },
-       {
-        "unsur": "zirve tabelası veya logosu",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       245,
-       108,
-       793,
-       874
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 5,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:39:02+03:00"
-    },
     "r1:e8a72ca09f4d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -97662,7 +98697,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-13T03:28:24+03:00",
+   "t": "2026-11-13T15:29:59+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -113793,6 +114828,32 @@
      },
      "t": "2026-11-11T16:53:03+03:00"
     },
+    "r1:6856a6f6e28a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir Alanya evini göstermektedir; haberde bahsedilen yeni yapılan veya teslim edilen evi yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:15+03:00"
+    },
     "r1:9b4dc3709137:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -113874,7 +114935,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-13T14:32:48+03:00",
+   "t": "2026-11-13T15:29:15+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -116636,6 +117697,32 @@
      },
      "t": "2026-11-11T16:53:03+03:00"
     },
+    "r1:6856a6f6e28a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz bir park manzarası içermektedir, aileye teslim edilen yeni evi göstermez.",
+      "gerekli": [
+       {
+        "unsur": "yeni ev",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:15+03:00"
+    },
     "r1:9b4dc3709137:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -116717,7 +117804,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-13T14:32:48+03:00",
+   "t": "2026-11-13T15:29:15+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -119603,13 +120690,39 @@
       "yasak": []
      },
      "t": "2026-11-13T15:18:21+03:00"
+    },
+    "r1:9aaacb8df307:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin arşiv fotoğrafıdır, proje haberlerinde kullanımı uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       160,
+       1000,
+       630
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:30:35+03:00"
     }
    },
    "ozet": {
     "dh": "4cdf9d9a9ad2d3d3",
     "sha": "43d821c278dee757e481c207"
    },
-   "t": "2026-11-13T15:18:21+03:00",
+   "t": "2026-11-13T15:30:35+03:00",
    "teknik": {
     "doygunluk": 41.2,
     "inen": [
@@ -121261,6 +122374,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Arbour_-_panoramio.jpg/1280px-Arbour_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f93be52bc5e900e2": {
+   "icerik": {
+    "ana_kutu": [
+     318,
+     80,
+     672,
+     969
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çikolata",
+     "badem"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bademli çikolatanın bademli alt yüzeyi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şirket haberleri",
+     "gıda sektörü",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "iklim zirvesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:11845e21c4b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun ürünü gösterilse de haberdeki zirve ve hedeflerle doğrudan ilişkili değil.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       318,
+       80,
+       672,
+       969
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T15:29:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fc7dfebebefe7fff",
+    "sha": "498d9a593600555f60355fb1"
+   },
+   "t": "2026-11-13T15:29:31+03:00",
+   "teknik": {
+    "doygunluk": 18.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.095,
+    "keskinlik": 306,
+    "kontrast": 69,
+    "medyan": 194,
+    "parlaklik": 161,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2019-07-08_13_42_33_The_bottom_side_of_a_Godiva_Milk_Chocolate_Almond_bar_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg/1280px-2019-07-08_13_42_33_The_bottom_side_of_a_Godiva_Milk_Chocolate_Almond_bar_at_the_Harrisonburg_Crossing_Shopping_Center_in_Harrisonburg%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f94552060158c981": {
    "icerik": {
@@ -134417,7 +135621,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T15:18:21+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Halil Avşar / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -134460,7 +135664,7 @@
    "qid": "Q3277737",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-13T15:18:21+03:00",
+   "son_kabul": "2026-11-13T15:30:35+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bakan_Han%C4%B1m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",

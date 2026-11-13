@@ -1,7 +1,7 @@
 ---
-title: Antalya'nin da Aralarinda Oldugu 39 Ilde Yasa Disi Bahis Operasyonu
+title: Antalya'nın da Aralarında Olduğu 39 İlde Yasa Dışı Bahis Operasyonu
 date: '2026-11-03T10:15:52+03:00'
-ozet: Istanbul merkezli 39 ilde yapay zeka destekli projeyle gerceklestirilen yasa disi bahis operasyonunda 151 supheli gozaltina alindi.
+ozet: İstanbul merkezli 39 ilde yapay zeka destekli projeyle gerçekleştirilen yasa dışı bahis operasyonunda 151 şüpheli gözaltına alındı.
 gorsel: https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Scott Rodgerson / Unsplash'
 kategoriler:
@@ -42,7 +42,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalya-dahil-39-ilde-yapay-zeka-destekli-projeyle-yasa-disi-bahis-operasyonu/560841
-gorsel_yedek: /images/haber-gorsel/20261103-antalyanin-da-aralarinda-oldugu-39-ilde-yasa-disi-bahis-oper--d035a335.jpg
+gorsel_yedek: /images/haber-gorsel/20261103-antalyanin-da-aralarinda-oldugu-39-ilde-yasa-disi-bahis-oper--247d057d.jpg
 gorsel_yerlesim:
   boyut:
   - 4500
@@ -70,9 +70,15 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+baslik_onceki: Antalya'nin da Aralarinda Oldugu 39 Ilde Yasa Disi Bahis Operasyonu
+metin_onarim:
+  tarih: '2026-11-13T15:30:38+03:00'
+  kaynak: https://www.antalyahurses.com/antalya-dahil-39-ilde-yapay-zeka-destekli-projeyle-yasa-disi-bahis-operasyonu/560841
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Dijital ortamlarda islenen suc faaliyetlerinin engellenmesine yonelik calismalar kapsaminda Istanbul merkezli operasyonlar duzenlendi. Istanbul Cumhuriyet Bassavciligi koordinesinde, Istanbul Il Emniyet Mudurlugu Siber Suclarla Mucadele Sube Mudurlugu ekiplerince yurutulen calismalar Antalya'nin da aralarinda bulundugu toplam 39 ili kapsadi.
+Dijital ortamlarda işlenen suç faaliyetlerinin engellenmesine yönelik çalışmalar kapsamında İstanbul merkezli operasyonlar düzenlendi. İstanbul Cumhuriyet Başsavcılığı koordinesinde, İstanbul İl Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü ekiplerince yürütülen çalışmalar Antalya'nın da aralarında bulunduğu toplam 39 ili kapsadı.
 
-Acklamaya gore, mesajlasma platformlari uzerinden yasa disi bahis faaliyetleri yuruten cok sayida grup ve supheli tespit edildi. Yapay zeka destekli avci projesi kullanilarak yapilan teknik incelemeler neticesinde, suphelilerin kimlik bilgileri ile yasa disi sanal bahis altyapisi icerisindeki rolleri deşifre edildi.
+Acklamaya göre, mesajlaşma platformları üzerinden yasa dışı bahis faaliyetleri yürüten çok sayıda grup ve şüpheli tespit edildi. Yapay zeka destekli avcı projesi kullanılarak yapılan teknik incelemeler neticesinde, şüphelilerin kimlik bilgileri ile yasa dışı sanal bahis altyapısı içerisindeki rolleri deşifre edildi.
 
-Belirlenen adreslere es zamanli operasyonlar gerceklestirildi. Yapilan baskinlar sonucunda 151 supheli yakalanarak gozaltina alindi.
+Belirlenen adreslere eş zamanlı operasyonlar gerçekleştirildi. Yapılan baskınlar sonucunda 151 şüpheli yakalanarak gözaltına alındı.
