@@ -932,6 +932,100 @@
    },
    "url": "https://images.unsplash.com/photo-1558996338-294a904a1815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "019c6f37c1220df0": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi bina",
+     "Türk bayrağı",
+     "sütunlar",
+     "pencere",
+     "kubbe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük Türk bayrağının asılı olduğu tarihi taş bina",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kamu binaları",
+     "kurum haberleri",
+     "tahsis haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:55911e9015f3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir kamu binası olarak kullanılabilir ancak Alanya'daki düğün salonu değil, Büyük Postane binası.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası, meclis salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3175f5f132767672",
+    "sha": "93dbe7f337ffcfbf92799651"
+   },
+   "t": "2026-11-13T09:28:52+03:00",
+   "teknik": {
+    "doygunluk": 21.7,
+    "inen": [
+     400,
+     302
+    ],
+    "karanlik_oran": 0.099,
+    "keskinlik": 2311,
+    "kontrast": 60,
+    "medyan": 165,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1752861662289-d45e48b1eff8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMG11bmljaXBhbCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQ1NTEzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "01b12d19845cd033": {
    "icerik": {
     "ana_kutu": [
@@ -38589,6 +38683,82 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "50872eb9a041ead1": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "metal çerçeve",
+     "dekoratif süs"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kudüs'teki tarihi binayı tanıtan İbranice ve Arapça tabelası",
+    "sahne_turu": "harita_logo_belge",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi eser tanıtımı",
+     "müze haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel belediye haberleri",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:55911e9015f3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki tabela Kudüs'teki tarihi bir yapıya ait olup Alanya'daki düğün salonu haberiyle tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8539a4c6c4c4c6c6",
+    "sha": "adb609ef0525024a74b73d7f"
+   },
+   "t": "2026-11-13T09:28:52+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 2094,
+    "kontrast": 60,
+    "medyan": 113,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Turkish_Municipal_Hospital_Jerusalem_Avney_Moreshet_1a9969e1.jpg/1280px-Turkish_Municipal_Hospital_Jerusalem_Avney_Moreshet_1a9969e1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "508c6baffd5be284": {
    "icerik": {
     "ana_kutu": [
@@ -55498,6 +55668,85 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.tif/lossy-page1-1280px-1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "78f0ea12bc26b996": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş bina",
+     "ağaç",
+     "klima dış ünitesi",
+     "pencere",
+     "merdiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi taş bina, ağaçlar ve mavi gökyüzü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi bina haberleri",
+     "mimari yapılar",
+     "kurum binaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşmaları",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:55911e9015f3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Alanya'daki düğün salonuyla ilgili ancak fotoğraf Kudüs'teki tarihi bir binayı gösteriyor, yer tamamen uyumsuz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1030331347474f1f",
+    "sha": "e727c171d266ee126043ee48"
+   },
+   "t": "2026-11-13T09:28:52+03:00",
+   "teknik": {
+    "doygunluk": 24.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.19,
+    "keskinlik": 4996,
+    "kontrast": 56,
+    "medyan": 113,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Turkish_Municipal_Hospital_Jerusalem_Avney_Moreshet_cd60837f.jpg/1280px-Turkish_Municipal_Hospital_Jerusalem_Avney_Moreshet_cd60837f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "78f570c49af69f8a": {
    "icerik": {
@@ -86735,6 +86984,41 @@
      },
      "t": "2026-11-09T21:36:28+03:00"
     },
+    "r1:436a7bc599ae:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, haberde adı geçen karayolunu göstermektedir ancak dubaların kaldırıldığı spesifik anı yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "karayolu",
+        "var": true
+       },
+       {
+        "unsur": "trafik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       550,
+       368,
+       856,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:29:07+03:00"
+    },
     "r1:db35d3cdb32a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -86775,7 +87059,7 @@
     "dh": "070397860706171f",
     "sha": "0c44c996c3af9e96797a9604"
    },
-   "t": "2026-11-11T06:08:06+03:00",
+   "t": "2026-11-13T09:29:07+03:00",
    "teknik": {
     "doygunluk": 35.6,
     "inen": [
@@ -89217,6 +89501,100 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "c1a223cd7c636ee0": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kırmızı tuğlalı bina",
+     "tarihi yapı",
+     "Türk bayrağı",
+     "pencere",
+     "ağaç yaprakları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı tuğlalı tarihi bina ve dalgalanan Türk bayrağı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye haberleri",
+     "tarihi binalar",
+     "kamu tahsisleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:55911e9015f3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir kamu binası gösteriyor ancak Alanya'daki bina değil, Fener Rum Erkek Lisesi.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası, meclis salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d8c82724de46776",
+    "sha": "d75f925f628258ca610ea933"
+   },
+   "t": "2026-11-13T09:28:52+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 3216,
+    "kontrast": 58,
+    "medyan": 124,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1759340650383-c3e4ec22c720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMG11bmljaXBhbCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQ1NTEzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c24f999edbb5f8fd": {
    "ozet": {
@@ -107645,6 +108023,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:1d5e11a2229e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki tarihi ev belediye binası değil, personel alımı haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "hükümet konağı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:18+03:00"
+    },
     "r1:3e34108c41fc:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -107678,6 +108086,36 @@
       "yasak": []
      },
      "t": "2026-11-09T18:35:19+03:00"
+    },
+    "r1:55911e9015f3:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki tarihi ev, haberde bahsedilen belediye binası veya düğün salonu ile uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "meclis salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:33+03:00"
     },
     "r1:5d808d28896f:yer": {
      "d": {
@@ -107764,7 +108202,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-13T06:28:00+03:00",
+   "t": "2026-11-13T09:28:33+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -110402,6 +110840,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:1d5e11a2229e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta belediye binası yerine bir park ve köprü görünmektedir, personel alımı haberi için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "hükümet konağı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:13+03:00"
+    },
     "r1:3e34108c41fc:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -110435,6 +110903,36 @@
       "yasak": []
      },
      "t": "2026-11-09T18:35:19+03:00"
+    },
+    "r1:55911e9015f3:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta belediye binası yerine genel bir park görünümü yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "meclis salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T09:28:33+03:00"
     },
     "r1:5d808d28896f:yer": {
      "d": {
@@ -110521,7 +111019,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-13T06:28:00+03:00",
+   "t": "2026-11-13T09:28:33+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -125287,7 +125785,7 @@
    "gosterim_ad": "trafik kısıtlaması ve alternatif güzergahlar",
    "ilk_kabul": "2026-11-09T21:36:28+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Igor Sporynin / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -125329,11 +125827,10 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-11T06:08:06+03:00",
+   "son_kabul": "2026-11-13T09:29:07+03:00",
    "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
-    "yan",
     "kart",
     "detay"
    ],
