@@ -390,7 +390,11 @@ def gemini_json(metin, sicaklik, en_fazla):
         metin = "".join(p.get("text", "") for p in parcalar).strip()
         metin = re.sub(r"^```(?:json)?|```$", "", metin).strip()
         YZ_ISTEK["n"] += 1
-        return json.loads(metin)
+        try:
+            return json.loads(metin)
+        except json.JSONDecodeError:
+            # modelin JSON'a koyduğu geçersiz ters bölü (ör. "\ş") kaçışlanır
+            return json.loads(re.sub(r'\\(?!["\\/bfnrtu])', r"\\\\", metin))
     raise RuntimeError("Kota nedeniyle yazılamadı")
 
 
@@ -527,7 +531,7 @@ def eski_metinleri_onar(durum, sinir=8):
             continue
         tum = f"{v.get('title', '')} {v.get('ozet', '')} {govde}"
         # bütün metin ya da yalnızca başlık Türkçe karaktersiz (başlıkta en az iki işaretsiz kelime metinde işaretli geçiyorsa da)
-        if not v.get("otomatik") or v.get("metin_onarim") or not (mo.ascii_turkce(f"{v.get('ozet', '')} {govde}") or mo.ascii_turkce(v.get("title", ""), en_az=15)
+        if not v.get("otomatik") or not (mo.ascii_turkce(f"{v.get('ozet', '')} {govde}") or mo.ascii_turkce(v.get("title", ""), en_az=15)
                                                                   and mo.tr_orani(f"{v.get('ozet', '')} {govde}") < 0.04
                                                                   or mo.baslik_esle(v.get("title", ""), tum) != v.get("title", "")):
             continue

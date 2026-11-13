@@ -32,9 +32,10 @@ def tr_orani(metin):
 
 
 def ascii_turkce(metin, en_az=200):
-    """Türkçe bir metin Türkçe karaktersiz mi yazılmış? (Türkçe metinlerde bu harflerin payı ~%6-9'dur.)"""
+    """Türkçe bir metin Türkçe karaktersiz (ya da büyük ölçüde karaktersiz) mi yazılmış? Türkçe metinlerde bu harflerin payı
+    ~%6-9'dur; %2,5'in altı, karakterlerin çoğunun düşürüldüğünü gösterir (ör. yalnızca birkaç kelimesi işaretli metin)."""
     harf = sum(1 for c in (metin or "") if c.isalpha())
-    return harf >= en_az and tr_orani(metin) < 0.006
+    return harf >= en_az and tr_orani(metin) < 0.025
 
 
 def yz_metni(yz):
@@ -75,37 +76,59 @@ def kaynakla_onar(metin, kaynak):
     return KELIME.sub(degis, metin or "")
 
 
-def dogrula(eski, yeni, kaynak):
-    """Yapay zekânın onardığı metni denetler. Kelime sayısı ve her kelimenin katlanmış bicimi aynı olmalı; cümle içindeki büyük
-    harfli kelimede (özel ad) değişiklik yalnızca kaynakta aynı bicim geçiyorsa kabul edilir. Dönüş: (metin, sorun) — sorun varsa
-    metin None."""
+def _ozel_ad_mi(kelimeler, ayraclar, i):
+    """Cümle içinde büyük harfle başlayan kelime (özel ad olabilir)? Başlıkta her kelime büyük harfle başlayabildiği için başlıkta
+    yalnızca cümle başı sayılmayan ve kaynakta/metinde küçük harfle geçmeyen kelimeler özel ad sayılır (çağıran karar verir)."""
+    a = kelimeler[i]
+    if not a[:1].isupper() or (a.isupper() and len(a) > 1):
+        return False
+    onceki = ayraclar[i].strip()
+    return not (i == 0 or onceki.endswith((".", "!", "?", ":")) or "\n" in ayraclar[i])
+
+
+def dogrula(eski, yeni, kaynak, sozluk_ek="", baslik=False):
+    """Yapay zekânın onardığı metni denetler ve yalnızca güvenli değişiklikleri alır. Kelimeler katlanmış (işaretsiz) biçimleriyle
+    hizalanır: işaretsiz biçimi aynı kalan kelimede yapay zekânın yazımı alınır, değişen/eklenen/çıkarılan kelimede özgün kelime
+    korunur (yapay zekâ kelime değiştiremez). Cümle içindeki büyük harfli kelimede (özel ad) değişiklik yalnızca kaynak metinde ya da
+    onarılmış haber metninde (sozluk_ek) aynı biçim geçiyorsa alınır. Dönüş: (metin, not)."""
+    import difflib
     e, y = KELIME.findall(eski or ""), KELIME.findall(yeni or "")
-    if len(e) != len(y):
-        return None, f"kelime sayısı değişti ({len(e)} → {len(y)})"
     ayraclar = KELIME.split(eski or "")
-    sz = kaynak_sozlugu(kaynak)
-    sonuc, korunan = [], 0
-    for i, (a, b) in enumerate(zip(e, y)):
-        if katla(a) != katla(b):
-            return None, f"kelime değişti: {a} → {b}"
-        if a != b and a.isupper() and len(a) > 1:
-            # tamamı büyük harfli (başlık) kelime: kaynakta tek bicimi varsa o, yoksa yalnızca işaret düzeltmesi
-            bicim = sz.get(katla(b)) or set()
-            if len(bicim) == 1:
-                b = _harf_duzeni(b, next(iter(bicim)))
-        elif a != b and a[:1].isupper():
-            onceki = ayraclar[i].strip()
-            cumle_basi = i == 0 or onceki.endswith((".", "!", "?", ":")) or "\n" in ayraclar[i]
-            if not cumle_basi and kucuk(b) not in (sz.get(katla(b)) or set()):
-                b = kaynakla_onar(a, kaynak)      # özel ad kaynakta bu bicimde yok: tahmin edilmez (kaynakta tek bicim varsa o)
-                korunan += 1
-        sonuc.append(b)
+    sz = kaynak_sozlugu((kaynak or "") + "\n" + (sozluk_ek or ""))
+    sonuc = list(e)
+    korunan = alinmayan = 0
+    sm = difflib.SequenceMatcher(None, [katla(x) for x in e], [katla(x) for x in y], autojunk=False)
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag != "equal":
+            alinmayan += i2 - i1
+            continue
+        for i, j in zip(range(i1, i2), range(j1, j2)):
+            a, b = e[i], y[j]
+            if a == b:
+                continue
+            if a.isupper() and len(a) > 1:
+                # tamamı büyük harfli (başlık) kelime: kaynakta tek biçimi varsa o, yoksa yalnızca işaret düzeltmesi
+                bicim = sz.get(katla(b)) or set()
+                if len(bicim) == 1:
+                    b = _harf_duzeni(b, next(iter(bicim)))
+            elif _ozel_ad_mi(e, ayraclar, i) and kucuk(b) not in (sz.get(katla(b)) or set()):
+                if baslik and not sz.get(katla(b)):
+                    pass                          # başlıktaki büyük harfli kelime metinde/kaynakta hiç yok: özel ad değil (ör. "Öldürdü")
+                else:
+                    b = kaynakla_onar(a, (kaynak or "") + "\n" + (sozluk_ek or ""))   # özel ad: kaynaktaki/metindeki yazımı
+                    korunan += 1
+            sonuc[i] = b
     out = []
     for i, k in enumerate(sonuc):
         out.append(ayraclar[i])
         out.append(k)
     out.append(ayraclar[-1])
-    return "".join(out), (f"{korunan} özel ad kaynakta bulunamadığı için değiştirilmedi" if korunan else "")
+    notlar = []
+    if korunan:
+        notlar.append(f"{korunan} özel ad kaynakta bulunamadığı için değiştirilmedi")
+    if alinmayan:
+        notlar.append(f"yapay zekânın değiştirdiği {alinmayan} kelime özgün haliyle bırakıldı")
+    return "".join(out), "; ".join(notlar)
 
 
 ONAR_TALIMAT = """Aşağıdaki Türkçe haber metni Türkçe karakterler (ç, ğ, ı, İ, ö, ş, ü) kullanılmadan yazılmış. Metni YALNIZCA harf
@@ -130,22 +153,27 @@ def onar_istegi(baslik, spot, metin, kaynak):
 
 
 def yaniti_dogrula(eski, yanit, kaynak):
-    """eski/yanit: {'baslik','spot','metin'}. Üç alan da doğrulanırsa onarılmış alanlar; değilse (None, neden)."""
+    """eski/yanit: {'baslik','spot','metin'}. Önce kaynak metinle yapay zekâsız onarım, sonra yapay zekânın yanıtından yalnızca
+    harf işareti değişiklikleri alınır (metin → spot → başlık; başlıktaki kelimeler onarılmış metinle de doğrulanır).
+    Sonuç yeterince Türkçe karakterli değilse (None, neden)."""
     out, notlar = {}, []
-    for alan in ("baslik", "spot", "metin"):
+    ek = ""
+    for alan in ("metin", "spot", "baslik"):
         e = str((eski or {}).get(alan) or "")
-        y = str((yanit or {}).get(alan) or "")
         if not e:
             out[alan] = e
             continue
-        m, n = dogrula(e, y, kaynak)
-        if m is None:
-            return None, f"{alan}: {n}"
+        e2 = kaynakla_onar(e, kaynak)
+        y = str((yanit or {}).get(alan) or "")
+        m, n = dogrula(e2, y, kaynak, ek, baslik=alan == "baslik") if y else (e2, "yapay zekâ yanıtı yok")
         out[alan] = m
+        ek += " " + m
         if n:
             notlar.append(f"{alan}: {n}")
-    if ascii_turkce(yz_metni(out)):
-        return None, "onarılan metin hâlâ Türkçe karaktersiz"
+    govde = f"{out.get('spot', '')} {out.get('metin', '')}"
+    if sum(1 for c in govde if c.isalpha()) >= 200 and tr_orani(govde) < 0.035:
+        return None, "onarılan metin hâlâ yeterince Türkçe karakterli değil (" + "; ".join(notlar)[:120] + ")"
+    out["baslik"] = baslik_esle(out["baslik"], govde)
     return out, "; ".join(notlar)
 
 
