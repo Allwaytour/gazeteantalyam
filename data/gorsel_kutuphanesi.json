@@ -86275,13 +86275,44 @@
       "yasak": []
      },
      "t": "2026-11-11T08:38:19+03:00"
+    },
+    "r1:d8a5350896ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin ve zeytinyağı iddialarıyla ilgili haber için uygun bir zeytin dalı görselidir.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       20,
+       980,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:58:49+03:00"
     }
    },
    "ozet": {
     "dh": "91c4c41c9af75b0f",
     "sha": "46da74be835b4122b19dd4c9"
    },
-   "t": "2026-11-11T08:38:19+03:00",
+   "t": "2026-11-13T14:58:49+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -112269,13 +112300,34 @@
       "yasak": []
      },
      "t": "2026-11-13T14:31:06+03:00"
+    },
+    "r1:d8a5350896ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olayın geçtiği Kumluca bölgesini gösterse de doğrudan zeytin veya zeytinyağını vurgulamamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:58:49+03:00"
     }
    },
    "ozet": {
     "dh": "01271f8f4f761a93",
     "sha": "22df2c96242f57a27485b1aa"
    },
-   "t": "2026-11-13T14:31:06+03:00",
+   "t": "2026-11-13T14:58:49+03:00",
    "teknik": {
     "doygunluk": 27.7,
     "inen": [
@@ -118077,13 +118129,44 @@
       "yasak": []
      },
      "t": "2026-11-08T13:06:28+03:00"
+    },
+    "r1:d8a5350896ba:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tabakta siyah zeytin yer alsa da genel olarak yemek sunumu olduğu için zeytinyağı haberiyle dolaylı ilişkilidir.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       490,
+       180,
+       610,
+       245
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T14:58:49+03:00"
     }
    },
    "ozet": {
     "dh": "33862632386a1e9d",
     "sha": "b3a40a4a6c32899506f013e0"
    },
-   "t": "2026-11-11T08:38:19+03:00",
+   "t": "2026-11-13T14:58:49+03:00",
    "teknik": {
     "doygunluk": 41.5,
     "inen": [
@@ -131292,7 +131375,7 @@
    "gosterim_ad": "düşük zeytinyağı oranı",
    "ilk_kabul": "2026-11-11T08:38:19+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -131330,7 +131413,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-11T08:38:19+03:00",
+   "son_kabul": "2026-11-13T14:58:49+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",

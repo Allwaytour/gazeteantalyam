@@ -1,7 +1,7 @@
 ---
-title: COP31 katilimcilarina Antalya’da muze ve oren yerleri ucretsiz
+title: COP31 Katılımcılarına Antalya’da Müze ve Ören Yerleri Ücretsiz
 date: '2026-11-09T12:15:37+03:00'
-ozet: Birlesmis Milletler Ilim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi'na iliskin hazirliklari degerlendiren yetkililer, resmi heyet katilimcilarinin Antalya'daki muze ve oren yerlerini ucretsiz ziyaret edebilecegini duyurdu.
+ozet: Birleşmiş Milletler Ilim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ilişkin hazırlıkları değerlendiren yetkililer, resmi heyet katılımcılarının Antalya'daki müze ve ören yerlerini ücretsiz ziyaret edebileceğini duyurdu.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
 kategoriler:
@@ -44,7 +44,7 @@ otomatik: true
 yz: true
 kaynak: Hürriyet
 kaynak_url: https://www.hurriyet.com.tr/gundem/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz-43371334
-gorsel_yedek: /images/haber-gorsel/20261109-cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsi--dc685261.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsi--79ee6786.jpg
 gorsel_yerlesim:
   boyut:
   - 3706
@@ -68,9 +68,15 @@ gorsel_yerlesim:
   o_kart_p: 56% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
 gorsel_gecmis: []
+baslik_onceki: COP31 katilimcilarina Antalya’da muze ve oren yerleri ucretsiz
+metin_onarim:
+  tarih: '2026-11-13T14:59:18+03:00'
+  kaynak: https://www.hurriyet.com.tr/gundem/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz-43371334
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 6 kelime özgün haliyle bırakıldı; spot: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Birlesmis Milletler Ilim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi'na iliskin hazirliklar kapsaminda, uluslararasi organizasyon kapasitesini, surdurulebilir turizm calismalarini ve kultursel zenginligi tanitmak icin genis bir program hazirlandi. Yapilan aciklamalara gore, uluslararasi katilimcilarin turizm potansiyelini kesfetmesi ve kuresel tanitimin guclendirilmesi amaclandi.
+Birleşmiş Milletler Ilim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ilişkin hazırlıklar kapsamında, uluslararası organizasyon kapasitesini, sürdürülebilir turizm çalışmalarını ve kultursel zenginliği tanıtmak icin geniş bir program hazırlandı. Yapılan açıklamalara göre, uluslararası katılımcıların turizm potansiyelini keşfetmesi ve küresel tanıtımın güçlendirilmesi amaçlandı.
 
-Organize edilecek etkinlikler kapsaminda tum resmi heyet katilimcilarinin Antalya'da ilgili bakanliga bagli muze ve oren yerlerini ucretsiz olarak ziyaret edebilecegi bildirildi. Ayrica Side Oren Yeri'nde gece muzeciligi uygulamasinin surdurulecegi ve katilimcilarin toplantilar disinda kentin tarihi ve kultursel zenginliklerini tanimaisina imkan saglanacagi belirtildi.
+Organize edilecek etkinlikler kapsamında tüm resmi heyet katılımcılarının Antalya'da ilgili bakanlığa bağlı müze ve ören yerlerini ücretsiz olarak ziyaret edebileceği bildirildi. Ayrıca Side Ören Yeri'nde gece müzeciliği uygulamasının sürdürüleceği ve katılımcıların toplantılar dışında kentin tarihi ve kultursel zenginliklerini tanimaisina imkan sağlanacağı belirtildi.
 
-Sektorun karar vericilerine yonelik gerceklestirilecek bulusmalarda yeni is birliklerinin onunun acilmasi hedeflenirken, kentin dogal, tarihi ve kultursel degerlerinin yerinde tanitilacagi ifade edildi. Toplanti sonrasinda ise EXPO alaninin uluslararasi olcekte bir fuar, kongre ve etkinlik merkezine donusturularak kentin turizm potansiyeline katkı sunmasinin planlandigi kaydedildi.
+Sektörün karar vericilerine yönelik gerçekleştirilecek buluşmalarda yeni iş birliklerinin önünün açılması hedeflenirken, kentin doğal, tarihi ve kultursel değerlerinin yerinde tanıtılacağı ifade edildi. Toplantı sonrasında ise EXPO alanının uluslararası ölçekte bir fuar, kongre ve etkinlik merkezine donusturularak kentin turizm potansiyeline katkı sunmasının planlandığı kaydedildi.

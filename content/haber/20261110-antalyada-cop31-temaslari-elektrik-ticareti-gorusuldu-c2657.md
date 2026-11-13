@@ -1,7 +1,7 @@
 ---
-title: 'Antalya''da COP31 Temaslari: Elektrik Ticareti Gorusuldu'
+title: 'Antalya''da COP31 Temasları: Elektrik Ticareti Görüşüldü'
 date: '2026-11-10T20:29:17+03:00'
-ozet: Enerji ve Tabii Kaynaklar Bakani Alparslan Bayraktar, Antalya'daki COP31 temaslari kapsaminda Gurcistanli mevkidasiyla bir araya geldi.
+ozet: Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'daki COP31 temasları kapsamında Gürcistanlı mevkidaşıyla bir araya geldi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 gorsel_kredi: 'Fotoğraf: Simon Koopmann / Wikimedia Commons (CC BY-SA 3.0 de)'
 kategoriler:
@@ -47,7 +47,7 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/guncel/haber-bayraktar-cop31-icin-antalya-da-gurcistanli-mevkid-20414964/
-gorsel_yedek: /images/haber-gorsel/20261110-antalyada-cop31-temaslari-elektrik-ticareti-gorusuldu-c2657-7820ed13.jpg
+gorsel_yedek: /images/haber-gorsel/20261110-antalyada-cop31-temaslari-elektrik-ticareti-gorusuldu-c2657-0950d5b2.jpg
 gorsel_yerlesim:
   boyut:
   - 4193
@@ -71,9 +71,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/20/Raitersaich_SK_DSC_0028.jpg
 gorsel_gecmis: []
+baslik_onceki: 'Antalya''da COP31 Temaslari: Elektrik Ticareti Gorusuldu'
+metin_onarim:
+  tarih: '2026-11-13T14:59:18+03:00'
+  kaynak: https://www.sondakika.com/guncel/haber-bayraktar-cop31-icin-antalya-da-gurcistanli-mevkid-20414964/
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Enerji ve Tabii Kaynaklar Bakani Alparslan Bayraktar, COP31 Zirvesi'ne katilmak amaciyla Antalya'da bulunan Gurcistan Basbakan Yardimcisi ve Ekonomi ve Surdurulebilir Kalkinma Bakani Mariam Kvrivishvili ile gorustu.
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, COP31 Zirvesi'ne katılmak amacıyla Antalya'da bulunan Gürcistan Başbakan Yardımcısı ve Ekonomi ve Sürdürülebilir Kalkınma Bakanı Mariam Kvrivishvili ile görüştü.
 
-Bakan Bayraktar, sosyal medya uzerinden yapigi aciklamada, iki ulke arasindaki mevcut enerji ortakligina degindi. Bakuh-Tiflis-Ceyhan ve Baku-Tiflis-Erzurum Boru Hatlari vasitasiyla bolgesel enerji arz guvenligine saglanan katkinin onemine isaret eden Bayraktar, bu is birligini elektrik iletimi ve ticaret alanlarinda da ileri tasimayi amacladiklarini ifade etti.
+Bakan Bayraktar, sosyal medya üzerinden yapigi açıklamada, iki ülke arasındaki mevcut enerji ortaklığına değindi. Bakuh-Tiflis-Ceyhan ve Bakü-Tiflis-Erzurum Boru Hatları vasıtasıyla bölgesel enerji arz güvenliğine sağlanan katkının önemine işaret eden Bayraktar, bu iş birliğini elektrik iletimi ve ticaret alanlarında da ileri taşımayı amaçladıklarını ifade etti.
 
-Gurcistan ile karsilikli guven temelinde surdurulen iliskilerin, enerji donusumunu destekleyen projelerle guclendirilecegini vurgulayan Bayraktar, soz konusu girisimlerin bolgenin ortak refahina da olumlu yansiyacagina inandigini kaydetti.
+Gürcistan ile karşılıklı güven temelinde sürdürülen ilişkilerin, enerji dönüşümünü destekleyen projelerle güçlendirileceğini vurgulayan Bayraktar, söz konusu girişimlerin bölgenin ortak refahına da olumlu yansıyacağına inandığını kaydetti.

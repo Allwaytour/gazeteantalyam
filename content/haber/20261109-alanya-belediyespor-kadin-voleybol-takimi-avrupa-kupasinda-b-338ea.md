@@ -1,7 +1,7 @@
 ---
-title: Alanya Belediyespor Kadin Voleybol Takimi Avrupa Kupasinda Besinci Oldu
+title: Alanya Belediyespor Kadın Voleybol Takımı Avrupa Kupasında Beşinci Oldu
 date: '2026-11-09T18:09:00+03:00'
-ozet: Alanya'da duzenlenen CEV Plaj Voleybolu Avrupa Kulubu Kupasi Finalleri, odul toreniyle tamamlandi. Alanya Belediyespor kadin takimi organizasyonu besinci sirada bitirdi.
+ozet: Alanya'da düzenlenen CEV Plaj Voleybolu Avrupa Kulübü Kupası Finalleri, ödül töreniyle tamamlandı. Alanya Belediyespor kadın takımı organizasyonu beşinci sırada bitirdi.
 gorsel: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Giorgio Trovato / Unsplash'
 kategoriler:
@@ -48,7 +48,7 @@ otomatik: true
 yz: true
 kaynak: Saray Medya
 kaynak_url: https://www.saraymedya.com/haber/alanya-belediyespor-kadinlari-avrupa-kupasinda-besinci-oldu_322495/
-gorsel_yedek: /images/haber-gorsel/20261109-alanya-belediyespor-kadin-voleybol-takimi-avrupa-kupasinda-b--832f8e2c.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-alanya-belediyespor-kadin-voleybol-takimi-avrupa-kupasinda-b--5581055a.jpg
 gorsel_yerlesim:
   boyut:
   - 5282
@@ -72,9 +72,15 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+baslik_onceki: Alanya Belediyespor Kadin Voleybol Takimi Avrupa Kupasinda Besinci Oldu
+metin_onarim:
+  tarih: '2026-11-13T14:59:18+03:00'
+  kaynak: https://www.saraymedya.com/haber/alanya-belediyespor-kadinlari-avrupa-kupasinda-besinci-oldu_322495/
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Alanya Plaj Sporlari Merkezi'nde uc gun boyunca devam eden CEV Plaj Voleybolu Avrupa Kulubu Kupasi Finalleri, yapilan odul toreniyle sona erdi. Uluslararasi duzeyde pek cok sporcuyu ve kulubu bir araya getiren turnuvada, Alanya Belediyespor kadin takimi mucadelesini besinci sirada tamamladi. Organizasyon, kentin spor turizmine onemli bir katki sagladi.
+Alanya Plaj Sporları Merkezi'nde üç gün boyunca devam eden CEV Plaj Voleybolu Avrupa Kulubu Kupası Finalleri, yapılan ödül töreniyle sona erdi. Uluslararası düzeyde pek çok sporcuyu ve kulübü bir araya getiren turnuvada, Alanya Belediyespor kadın takımı mücadelesini beşinci sırada tamamladı. Organizasyon, kentin spor turizmine önemli bir katkı sağladı.
 
-Kadinlar kategorisinde Ukrayna'yi temsil eden Sunrise Beach Sports Academy zirvede yer alirken, Ispanya'dan CV Majadahonda ikinci, Fransa'dan Montpellier Beach Volley ucuncu, bir diger Ispanyol temsilcisi CDV Braveheart Gran Canaria ise dorduncu oldu. Erkekler kategorisinde ise Ithalya'dan ASD Beach Volley Training sampiyonluga ulasirken, Ukrayna ekibi Sunrise Beach Sports Academy ikinci, Hollanda temsilcisi Scherp in Packaging ZVH ucuncu ve Turkiye'den TVF Spor Lisesi dorduncu siranin sahibi oldu.
+Kadınlar kategorisinde Ukrayna'yı temsil eden Sunrise Beach Sports Academy zirvede yer alırken, İspanya'dan CV Majadahonda ikinci, Fransa'dan Montpellier Beach Volley üçüncü, bir diğer Ispanyol temsilcisi CDV Braveheart Gran Canaria ise dördüncü oldu. Erkekler kategorisinde ise Ithalya'dan ASD Beach Volley Training şampiyonluğa ulaşırken, Ukrayna ekibi Sunrise Beach Sports Academy ikinci, Hollanda temsilcisi Scherp in Packaging ZVH üçüncü ve Türkiye'den TVF Spor Lisesi dördüncü sıranın sahibi oldu.
 
-Kentin spor elcisi unvanini tasiyan Hollandali olimpiyat sporcusu Stefan Boermans, Scherp in Packaging ZVH formasiyla organizasyonda boy gosterdi ve takimiyla turnuvayi ucunculukle tamamladi. Karsilasmalarin ardindan dereceye giren sporculara ve takimlara kupa ile madalyalari takdim edildi.
+Kentin spor elçisi unvanını taşıyan Hollandalı olimpiyat sporcusu Stefan Boermans, Scherp in Packaging ZVH formasıyla organizasyonda boy gösterdi ve takımıyla turnuvayı üçüncülükle tamamladı. Karşılaşmaların ardından dereceye giren sporculara ve takımlara kupa ile madalyaları takdim edildi.

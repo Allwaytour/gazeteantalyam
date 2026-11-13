@@ -1,7 +1,7 @@
 ---
-title: COP31 Akreditasyon Merkezinde Saatler Uzatildi
+title: COP31 Akreditasyon Merkezinde Saatler Uzatıldı
 date: '2026-11-09T18:51:00+03:00'
-ozet: Antalya'da duzenlenen COP31 konferansinda yogun katilim nedeniyle Akreditasyon ve Rozet Toplama Merkezi'nin calisma saatleri guncellendi.
+ozet: Antalya'da düzenlenen COP31 konferansında yoğun katılım nedeniyle Akreditasyon ve Rozet Toplama Merkezi'nin çalışma saatleri güncellendi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_kredi: 'Arşiv fotoğrafı: Hendric Stattmann / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/cop31-katilimcilarina-uyari-akreditasyon-ve-rozet-toplama-saatleri-uzatildi/388965
-gorsel_yedek: /images/haber-gorsel/20261109-cop31-akreditasyon-merkezinde-saatler-uzatildi-2bc7e-de33b4b0.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-cop31-akreditasyon-merkezinde-saatler-uzatildi-2bc7e-c6a4be4a.jpg
 gorsel_yerlesim:
   boyut:
   - 5200
@@ -70,9 +70,15 @@ gorsel_yerlesim:
   o_kart_p: 70% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 gorsel_gecmis: []
+baslik_onceki: COP31 Akreditasyon Merkezinde Saatler Uzatildi
+metin_onarim:
+  tarih: '2026-11-13T14:59:18+03:00'
+  kaynak: https://www.akdenizgercek.com.tr/antalya/cop31-katilimcilarina-uyari-akreditasyon-ve-rozet-toplama-saatleri-uzatildi/388965
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 ---
-Antalya'da ev sahipligi yapilan Birlesmis Milletler Iklim Degisikligi Cerceve Sozlesmesi 31. Taraflar Konferansi kapsaminda olaganustu bir katilim bas gosterdi. Organizasyonun resmi hesaplari uzerinden yapilan aciklamada, Akreditasyon ve Rozet Toplama Merkezi'nde yogun bir hareketlilik yasanildigi bildirildi.
+Antalya'da ev sahipliği yapılan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında olağanüstü bir katılım baş gösterdi. Organizasyonun resmi hesapları üzerinden yapılan açıklamada, Akreditasyon ve Rozet Toplama Merkezi'nde yoğun bir hareketlilik yaşanıldığı bildirildi.
 
-Katimcilarin islemlerini kolaylastirmak amaciyla merkezlerin calisma saatlerinde duzenlemeye gidildi. Alinan kararla birlikte Akreditasyon ve Rozet Toplama Merkezi, 9 Kasim Pazartesi ve 10 Kasim Sali gunlerinde saat 21.00'e kadar hizmet vermeyi surdurecek.
+Katimcilarin işlemlerini kolaylaştırmak amacıyla merkezlerin çalışma saatlerinde düzenlemeye gidildi. Alınan kararla birlikte Akreditasyon ve Rozet Toplama Merkezi, 9 Kasım Pazartesi ve 10 Kasım Salı günlerinde saat 21.00'e kadar hizmet vermeyi sürdürecek.
 
-Yetkililer, merkezdeki yigilmeleri azaltmak ve surecleri hizlandirmak adina katilimcilara cagrida bulundu. Acil sahada gorevi bulunmayanlarin rozetlerini 10 Kasim Sali gunu teslim almasi tavsiye edildi.
+Yetkililer, merkezdeki yigilmeleri azaltmak ve süreçleri hızlandırmak adına katılımcılara çağrıda bulundu. Acil sahada görevi bulunmayanların rozetlerini 10 Kasım Salı günü teslim alması tavsiye edildi.

@@ -1,7 +1,7 @@
 ---
-title: Zafer Partisi Alanya Teskilatinda Gorev Degisimi
+title: Zafer Partisi Alanya Teşkilatında Görev Değişimi
 date: '2026-11-06T14:03:00+03:00'
-ozet: Zafer Partisi Alanya Ilce Teskilati'nda gerceklestirilen toplantida genclik kollari baskanliginda bayrak degisimi yasandi.
+ozet: Zafer Partisi Alanya İlçe Teşkilatı'nda gerçekleştirilen toplantıda gençlik kolları başkanlığında bayrak değişimi yaşandı.
 gorsel: /images/haber-gorsel/logo-zafer-logo.jpg
 gorsel_kredi: 'Görsel: Dactiloo / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -48,7 +48,7 @@ otomatik: true
 yz: true
 kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/zafer-partisi-alanya-teskilatinda-gorev-degisimi
-gorsel_yedek: /images/haber-gorsel/20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383-d3c1db68.jpg
+gorsel_yedek: /images/haber-gorsel/20261106-zafer-partisi-alanya-teskilatinda-gorev-degisimi-68383-4aa3f293.jpg
 gorsel_yerlesim:
   boyut:
   - 1200
@@ -71,9 +71,15 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   logo: true
 gorsel_gecmis: []
+baslik_onceki: Zafer Partisi Alanya Teskilatinda Gorev Degisimi
+metin_onarim:
+  tarih: '2026-11-13T14:59:18+03:00'
+  kaynak: https://www.gazetealanya.com/zafer-partisi-alanya-teskilatinda-gorev-degisimi
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 ---
-Zafer Partisi Alanya Ilce Baskanligi, Ilce Baskani Fikret Turkoglu yonetiminde bir araya gelerek yeni donem stratejilerini degerlendirdi ve teskilat icindeki gorev dagilimini yeniledi. Gerceklestirilen toplanti sonucunda, genclik kollari baskanligi gorevini surduren Mustafahan Zavlak ilce yonetim kurulu uyeligine getirilirken, bu pozisyona Oguzcan Akinci atandi.
+Zafer Partisi Alanya İlçe Başkanlığı, İlçe Başkanı Fikret Türkoğlu yönetiminde bir araya gelerek yeni dönem stratejilerini değerlendirdi ve teşkilat içindeki görev dağılımını yeniledi. Gerçekleştirilen toplantı sonucunda, gençlik kolları başkanlığı görevini sürdüren Mustafahan Zavlak ilçe yönetim kurulu üyeliğine getirilirken, bu pozisyona Oğuzcan Akıncı atandı.
 
-Antalya Genclik Kollari Il Baskani Omer Taskin'in de katilim gosterdigi devir teslim surecinde, partiye katilim saglayan yeni uyelere rozetleri takildi. Toplantinin ardindan degerlendirmelerde bulunan Ilce Baskani Fikret Turkoglu, genclik ve kadin yapilanmalarinin siyasi calismalardaki onemine vurgu yaparak, onumuzdeki surecte saha calismalarina ve yeni projelere hiz kesmeden devam edeceklerini belirtti.
+Antalya Gençlik Kolları İl Başkanı Ömer Taşkın'ın de katılım gösterdiği devir teslim sürecinde, partiye katılım sağlayan yeni üyelere rozetleri takıldı. Toplantının ardından değerlendirmelerde bulunan İlçe Başkanı Fikret Türkoğlu, gençlik ve kadın yapılanmalarının siyasi çalışmalardaki önemine vurgu yaparak, önümüzdeki süreçte saha çalışmalarına ve yeni projelere hız kesmeden devam edeceklerini belirtti.
 
-Turkoglu, yapilan gorev degisikligi kapsaminda bugune kadarki emekleri icin Mustafahan Zavlak'a tesekkur ederken, genclik kollari baskanligi gorevini devralan Oguzcan Akinci'ya da yeni calismalarinda basari dileklerini iletti.
+Türkoğlu, yapılan görev değişikliği kapsamında bugüne kadarki emekleri için Mustafahan Zavlak'a teşekkür ederken, gençlik kolları başkanlığı görevini devralan Oğuzcan Akıncı'ya da yeni çalışmalarında başarı dileklerini iletti.

@@ -1,7 +1,7 @@
 ---
-title: 'Kaş''ta Aıle Facıası: Anne ve Babasını Oldurdu'
+title: 'Kaş''ta Aile Faciası: Anne ve Babasını Öldürdü'
 date: '2026-11-09T12:43:00+03:00'
-ozet: Antalya'nin Kas ilcesinde meydana gelen olayda, bir kisi anne ve babasini silahla vurduktan sonra intihar etti. Saldirida uc kisi hayatini kaybetti.
+ozet: Antalya'nın Kaş ilçesinde meydana gelen olayda, bir kişi anne ve babasını silahla vurduktan sonra intihar etti. Saldırıda üç kişi hayatını kaybetti.
 gorsel: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 gorsel_kredi: 'Fotoğraf: Jacob McGowin / Unsplash'
 kategoriler:
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Cumhuriyet
 kaynak_url: https://www.cumhuriyet.com.tr/turkiye/kas-ta-dehset-anne-ve-babasini-katledip-yasamina-son-verdi-2554703
-gorsel_yedek: /images/haber-gorsel/20261109-kasta-aile-faciasi-anne-ve-babasini-oldurdu-0ae7e-8d6b2aec.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-kasta-aile-faciasi-anne-ve-babasini-oldurdu-0ae7e-7814c2b7.jpg
 gorsel_yerlesim:
   boyut:
   - 6000
@@ -69,16 +69,16 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
-baslik_onceki: 'Kas''ta Aıle Facıası: Anne ve Babasını Oldurdu'
+baslik_onceki: 'Kaş''ta Aıle Facıası: Anne ve Babasını Oldurdu'
 metin_onarim:
-  tarih: '2026-11-13T08:44:49+03:00'
+  tarih: '2026-11-13T14:59:18+03:00'
   kaynak: https://www.cumhuriyet.com.tr/turkiye/kas-ta-dehset-anne-ve-babasini-katledip-yasamina-son-verdi-2554703
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
-  not: 'baslik: 3 özel ad kaynakta bulunamadığı için değiştirilmedi'
+  not: ''
 gorsel_gecmis: []
 ---
-Antalya'nin Kas ilçesine bagli Ova Mahallesi'nde korkunc bir olay yasandi. Bölgeden gelen silah sesleri uzerine mahalle sakinleri durumu 112 Acil Saglik ve jandarma ekiplerine bildirdi. Ihbar uzerine kisa surede adrese ulasan ekipler, evde inceleme baslatti.
+Antalya'nın Kaş ilçesine bağlı Ova Mahallesi'nde korkunç bir olay yaşandı. Bölgeden gelen silah sesleri üzerine mahalle sakinleri durumu 112 Acil Sağlık ve jandarma ekiplerine bildirdi. İhbar üzerine kısa sürede adrese ulaşan ekipler, evde inceleme başlattı.
 
-Saglik gorevlilerinin yaptigi kontrolde, Ibrahim K. ile Nasuh K.'nin olay yerinde hayatini kaybettigi tespit edildi. Olayda agir yaralanan anne Hatice K. ise saglik ekiplerinin mudahalesinin ardindan hastaneye kaldirildi. Ancak talihsiz kadin, hastanede yapilan tum mucadeleye ragmen kurtarilamadi.
+Sağlık görevlilerinin yaptığı kontrolde, İbrahim K. ile Nasuh K.'nin olay yerinde hayatını kaybettiği tespit edildi. Olayda ağır yaralanan anne Hatice K. ise sağlık ekiplerinin müdahalesinin ardından hastaneye kaldırıldı. Ancak talihsiz kadın, hastanede yapılan tüm mücadeleye rağmen kurtarılamadı.
 
-Jandarma ekipleri olayla ilgili genis capli inceleme baslatti. Soruşturma suruyor.
+Jandarma ekipleri olayla ilgili geniş çaplı inceleme başlattı. Soruşturma sürüyor.
