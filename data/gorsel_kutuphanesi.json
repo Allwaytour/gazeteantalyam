@@ -3026,6 +3026,99 @@
    },
    "url": "/images/kurum/953d7b538154ee9a.jpg"
   },
+  "08835e1fba87cae5": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     480,
+     520,
+     630
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "baraj",
+     "göl",
+     "dağ",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağlar arasında geniş su havzasına sahip büyük bir baraj",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "baraj",
+     "su kaynakları",
+     "enerji"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3edc78e77487:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf genel bir baraj manzarası sunuyor, inşaat aşamasını yansıtmasa da baraj konusuna uygundur.",
+      "gerekli": [
+       {
+        "unsur": "baraj",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       480,
+       520,
+       630
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:03:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fe6ec925660e4fdd",
+    "sha": "11491e84633c7db0616c687d"
+   },
+   "t": "2026-11-13T03:03:58+03:00",
+   "teknik": {
+    "doygunluk": 43.1,
+    "inen": [
+     400,
+     180
+    ],
+    "karanlik_oran": 0.033,
+    "keskinlik": 887,
+    "kontrast": 48,
+    "medyan": 146,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1705747894765-51bcd3e453c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d2F0ZXIlMjByZXNlcnZvaXIlMjBjb25zdHJ1Y3Rpb258ZW58MXwwfHx8MTc5NDUyODIyMHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "0897a06ad146305a": {
    "icerik": {
     "ana_kutu": [
@@ -3633,6 +3726,98 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1663574629118-84a58549e44e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "09b0d422e02a69c8": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     280,
+     600,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "baraj duvarı",
+     "su",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Su salınan büyük bir baraj duvarı ve kapakları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "baraj haberi",
+     "su kaynakları",
+     "enerji yatırımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3edc78e77487:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber baraj inşaatı ile ilgili ancak bu fotoğraf tamamlanmış ve su tutmuş bir barajı gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "baraj",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       280,
+       600,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:03:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e6e3ce8fc6920701",
+    "sha": "cb5310b18838d4ce8a0b2efd"
+   },
+   "t": "2026-11-13T03:03:58+03:00",
+   "teknik": {
+    "doygunluk": 43.4,
+    "inen": [
+     400,
+     180
+    ],
+    "karanlik_oran": 0.159,
+    "keskinlik": 752,
+    "kontrast": 43,
+    "medyan": 95,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1705747894609-6a7d17a8cfb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8d2F0ZXIlMjByZXNlcnZvaXIlMjBjb25zdHJ1Y3Rpb258ZW58MXwwfHx8MTc5NDUyODIyMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "09b14c672cfd3ee3": {
    "icerik": {
@@ -5369,13 +5554,83 @@
       "yasak": []
      },
      "t": "2026-11-09T18:36:32+03:00"
+    },
+    "r1:2129aa59f24d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yemek yiyen öğrenciler ve okul çantaları net bir şekilde görünüyor.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       },
+       {
+        "unsur": "okul çantası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       280,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:02:06+03:00"
+    },
+    "r1:3799abdcc5cc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta okul ortamında öğrenciler yer alıyor, ara tatil haberi için uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       },
+       {
+        "unsur": "okul",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       287,
+       280,
+       1000,
+       994
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:02:52+03:00"
     }
    },
    "ozet": {
     "dh": "2759b76f4d5b5b5b",
     "sha": "242b5ddff3014d8772e4f75c"
    },
-   "t": "2026-11-09T18:36:32+03:00",
+   "t": "2026-11-13T03:02:52+03:00",
    "teknik": {
     "doygunluk": 47.5,
     "inen": [
@@ -35565,6 +35820,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Oliv%C3%A9r_V%C3%A1rhelyi_%26_Mehmet_Fatih_Kacir_%282023%29.jpg/1280px-Oliv%C3%A9r_V%C3%A1rhelyi_%26_Mehmet_Fatih_Kacir_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4caf6d46d01ac1a2": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "agac",
+     "otomobil",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern cepheli büyük bir bina, çıplak ağaçlar ve ön planda binalar ile otomobiller yer alıyor.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari",
+     "kent haberleri",
+     "meydan tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karsilasmasi",
+     "milli mac yayini",
+     "canli etkinlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:329e3ed96cb0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta dev ekran veya milli maç yayını yapılacak meydan ortamı bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "dev ekran",
+        "var": false
+       },
+       {
+        "unsur": "meydan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stadyum",
+       "kapali salon"
+      ]
+     },
+     "t": "2026-11-13T03:03:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "070d0d0c024b4872",
+    "sha": "7d35c193ddaece07503e804a"
+   },
+   "t": "2026-11-13T03:03:31+03:00",
+   "teknik": {
+    "doygunluk": 19.4,
+    "inen": [
+     500,
+     370
+    ],
+    "karanlik_oran": 0.204,
+    "keskinlik": 6668,
+    "kontrast": 71,
+    "medyan": 126,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Winnipeg_%286387030863%29.jpg/1280px-Winnipeg_%286387030863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4d106ea4c232d0f4": {
    "icerik": {
     "ana_kutu": [
@@ -37965,6 +38310,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Konya6plaj.jpg/1280px-Konya6plaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "50fad3b9f45c7192": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     200,
+     480,
+     580
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş kalıntı",
+     "çam ağacı",
+     "deniz",
+     "şehir binaları",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlar ve kayalıkların arasından uzaktan görünen deniz kıyısındaki şehir manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberleri",
+     "şehir manzarası",
+     "doğa yürüyüşü"
+    ],
+    "uygunsuz_baglamlar": [
+     "baraj inşaatı",
+     "tarım sulama projesi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3edc78e77487:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta baraj inşaatı görünmüyor, yalnızca genel bir Alanya şehir ve doğa manzarası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "baraj inşaatı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:03:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "25971d0c0c252736",
+    "sha": "ef41b73971a396c578ce587a"
+   },
+   "t": "2026-11-13T03:03:58+03:00",
+   "teknik": {
+    "doygunluk": 44.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.379,
+    "keskinlik": 1716,
+    "kontrast": 57,
+    "medyan": 63,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg/1280px-Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5178fbad129abb06": {
    "icerik": {
@@ -43914,6 +44348,29 @@
      },
      "t": "2026-11-08T17:05:09+03:00"
     },
+    "r1:7139313c6815:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki çocuk ve bisiklet, yaşlı bir hastanın mesane taşı ameliyatı haberiyle tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta"
+      ]
+     },
+     "t": "2026-11-13T03:00:45+03:00"
+    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44069,7 +44526,7 @@
     "dh": "9717160b7929a1e0",
     "sha": "5ca804cc1ac758245f9a39a7"
    },
-   "t": "2026-11-12T04:27:01+03:00",
+   "t": "2026-11-13T03:00:45+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -49952,6 +50409,27 @@
      },
      "t": "2026-11-08T11:39:46+03:00"
     },
+    "r1:7139313c6815:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olay Alanya'da geçtiği için genel şehir manzarası kullanılabilir ancak hastane binası görünmemektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:00:45+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -50195,7 +50673,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-12T09:56:20+03:00",
+   "t": "2026-11-13T03:00:45+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -79076,6 +79554,38 @@
     ]
    },
    "iliski": {
+    "r1:3799abdcc5cc:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta öğrenciler yerine yetişkin bir grup yer alıyor; haberle ve okul kavramıyla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       },
+       {
+        "unsur": "okul",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "üniversite"
+      ]
+     },
+     "t": "2026-11-13T03:02:47+03:00"
+    },
     "r1:b52ed87588f6:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -79116,7 +79626,7 @@
     "dh": "8f2d331b1376ea17",
     "sha": "05d905976c233c485a11351c"
    },
-   "t": "2026-11-12T18:03:37+03:00",
+   "t": "2026-11-13T03:02:52+03:00",
    "teknik": {
     "doygunluk": 10.0,
     "inen": [
@@ -82221,6 +82731,125 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1574367808145-da4fc05cd3eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8VHVya2lzaCUyMGZsYWclMjBtZW1vcmlhbCUyMGRheXxlbnwxfDB8fHwxNzk0Mjk0NTIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "b496d37326addd03": {
+   "icerik": {
+    "ana_kutu": [
+     81,
+     88,
+     974,
+     893
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "tarihi üniforma",
+     "kask",
+     "sandalye",
+     "ahşap zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Stüdyo ortamında tarihi üniformalı ve kasklı altı erkek öğrenci poz veriyor.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihî arşiv",
+     "eğitim tarihi",
+     "nostalji"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel eğitim haberleri",
+     "tatil duyuruları",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      245,
+      163,
+      567,
+      342
+     ],
+     [
+      109,
+      276,
+      240,
+      356
+     ],
+     [
+      81,
+      469,
+      214,
+      544
+     ],
+     [
+      300,
+      489,
+      412,
+      574
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:2129aa59f24d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ve yabancı arşiv fotoğrafı güncel bir tatil haberi için tamamen yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       },
+       {
+        "unsur": "okul çantası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "farklı ülke unsurları"
+      ]
+     },
+     "t": "2026-11-13T03:02:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3155c2f2f272e4d4",
+    "sha": "c39f288643e8597542246e9f"
+   },
+   "t": "2026-11-13T03:02:06+03:00",
+   "teknik": {
+    "doygunluk": 20.0,
+    "inen": [
+     500,
+     386
+    ],
+    "karanlik_oran": 0.116,
+    "keskinlik": 1253,
+    "kontrast": 51,
+    "medyan": 126,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%91%D7%95%D7%A6%D7%AA%D7%99%D7%AA_%D7%91%D7%9E%D7%93%D7%99%D7%9D_-_%D7%AA%D7%9C%D7%9E%D7%99%D7%93%D7%99_%D7%92%D7%99%D7%9E%D7%A0%D7%A1%D7%99%D7%94_%D7%94%D7%A8%D7%A6%D7%9C%D7%99%D7%94_Gymnasium_students_in_uniform_-_Shar-1300.jpeg/1280px-%D7%AA%D7%9E%D7%95%D7%A0%D7%94_%D7%A7%D7%91%D7%95%D7%A6%D7%AA%D7%99%D7%AA_%D7%91%D7%9E%D7%93%D7%99%D7%9D_-_%D7%AA%D7%9C%D7%9E%D7%99%D7%93%D7%99_%D7%92%D7%99%D7%9E%D7%A0%D7%A1%D7%99%D7%94_%D7%94%D7%A8%D7%A6%D7%9C%D7%99%D7%94_Gymnasium_students_in_uniform_-_Shar-1300.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b4bb3178fe9d82dd": {
    "icerik": {
@@ -87787,6 +88416,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Choura_Events_Curved_Beam_Structure_at_Indian_Wells_Tennis_Garden_at_2022_Pickleball_Tournament.jpg/1280px-Choura_Events_Curved_Beam_Structure_at_Indian_Wells_Tennis_Garden_at_2022_Pickleball_Tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c2e7d3f2d8e641b3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "bina",
+     "nehir",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağlık vadide yer alan binalar ve nehir yatağı genel görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şehir manzarası",
+     "coğrafi haber",
+     "genel Bakış"
+    ],
+    "uygunsuz_baglamlar": [
+     "baraj inşaatı",
+     "spor",
+     "portre"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3edc78e77487:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf baraj inşaatı yerine genel bir vadi ve yerleşim yeri gösteriyor, ayrıca eski ve farklı bir bölge.",
+      "gerekli": [
+       {
+        "unsur": "baraj inşaatı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:03:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "013836360c05cdc6",
+    "sha": "5cf8953bc1c9ae9bda93c006"
+   },
+   "t": "2026-11-13T03:03:58+03:00",
+   "teknik": {
+    "doygunluk": 16.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 1045,
+    "kontrast": 39,
+    "medyan": 114,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Artvin%2C_Turkey._View_from_the_construction_site_of_the_new_dam.jpg/1280px-Artvin%2C_Turkey._View_from_the_construction_site_of_the_new_dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c2e9b6089a24969e": {
    "icerik": {
@@ -99759,6 +100476,125 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/IEA_Energy_and_Climate_Change_report_%2818646605630%29.jpg/1280px-IEA_Energy_and_Climate_Change_report_%2818646605630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "dfc7d7e1a27c6f77": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     137,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "askeri üniforma",
+     "karton kutu",
+     "güneş gözlüğü",
+     "konteyner"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı kişiler dışarıda büyük bir karton kutu taşıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri haber",
+     "yardım kampanyası",
+     "lojistik faaliyet"
+    ],
+    "uygunsuz_baglamlar": [
+     "eğitim ve okullar",
+     "yerel tatil duyurusu",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      45,
+      230,
+      995,
+      485
+     ],
+     [
+      100,
+      390,
+      405,
+      570
+     ],
+     [
+      51,
+      532,
+      405,
+      638
+     ],
+     [
+      48,
+      492,
+      1000,
+      1000
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:2129aa59f24d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta öğrenciler yerine askerler yer alıyor, haberin konusuyla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       },
+       {
+        "unsur": "okul çantası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yabancı tabela"
+      ]
+     },
+     "t": "2026-11-13T03:02:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b3120cc98949c284",
+    "sha": "03da3595215638fe3a6c59e3"
+   },
+   "t": "2026-11-13T03:02:06+03:00",
+   "teknik": {
+    "doygunluk": 46.5,
+    "inen": [
+     500,
+     339
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 2039,
+    "kontrast": 50,
+    "medyan": 85,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mississippi_Army_National_Guard_soldiers_donate_backpacks_and_school_supplies_to_Afghan_children_DVIDS424532.jpg/1280px-Mississippi_Army_National_Guard_soldiers_donate_backpacks_and_school_supplies_to_Afghan_children_DVIDS424532.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e0248b819493ec6a": {
    "icerik": {
     "ana_kutu": [
@@ -103026,6 +103862,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Muhittin_B%C3%B6cek_-_Hobifest_-_20.5.17.jpg/1280px-Muhittin_B%C3%B6cek_-_Hobifest_-_20.5.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e6a378aa19b7c151": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     260,
+     650,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "şantiye yolu",
+     "orman",
+     "piknik masası",
+     "hafriyat sahası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağlık arazide büyük ölçekli baraj inşaatı şantiyesi ve hafriyat alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "baraj inşaatı",
+     "su kaynakları",
+     "altyapı projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor müsabakası",
+     "sanat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3edc78e77487:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta baraj inşaatı ve şantiye sahası açıkça görülüyor, temsilî olarak habere uygundur.",
+      "gerekli": [
+       {
+        "unsur": "baraj inşaatı",
+        "var": true
+       },
+       {
+        "unsur": "şantiye",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       220,
+       260,
+       650,
+       990
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:03:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0a930e8f474ce78f",
+    "sha": "31aaffb8dc49409a83591989"
+   },
+   "t": "2026-11-13T03:03:58+03:00",
+   "teknik": {
+    "doygunluk": 23.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 1860,
+    "kontrast": 34,
+    "medyan": 109,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG/1280px-Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e722f6c79c14d3b2": {
    "icerik": {
     "ana_kutu": [
@@ -105465,6 +106399,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Women_making_manti.jpg/1280px-Women_making_manti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ed372a22b2e75288": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel",
+     "otopark",
+     "araba",
+     "palmiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksek bir noktadan geniş otopark alanı, otel binası ve şehir manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sehir manzarasi",
+     "ulasim haberleri",
+     "otopark"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karsilasmasi",
+     "milli mac yayini",
+     "meydan etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:329e3ed96cb0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüde Finike Kent Meydanı ve dev ekran yayınıyla ilgili herhangi bir unsur yer almamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "dev ekran",
+        "var": false
+       },
+       {
+        "unsur": "meydan",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stadyum",
+       "kapali salon"
+      ]
+     },
+     "t": "2026-11-13T03:03:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d83b9218c2898bc",
+    "sha": "7ecdf9a64dfed116a526601a"
+   },
+   "t": "2026-11-13T03:03:31+03:00",
+   "teknik": {
+    "doygunluk": 14.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.179,
+    "keskinlik": 2275,
+    "kontrast": 84,
+    "medyan": 123,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Westin_Hotel_from_High_Roller%2C_Las_Vegas%2C_Nevada.jpg/1280px-Westin_Hotel_from_High_Roller%2C_Las_Vegas%2C_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ed4d8aa6d0a04b59": {
    "icerik": {
@@ -115579,7 +116603,7 @@
    "gosterim_ad": "COP31 harcama eleştirisi ve ücretsiz yemek çağrısı",
    "ilk_kabul": "2026-11-09T18:36:32+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "CDC / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -115599,10 +116623,13 @@
    "konular": [
     "ahşap masa",
     "beslenme çantası",
+    "okul",
+    "okul çantası",
     "okul çocuğu",
     "sandalye",
     "sırt çantası",
-    "öğrenci"
+    "öğrenci",
+    "öğrenciler"
    ],
    "kucuk": "https://images.unsplash.com/photo-1588075592765-2feb7de1f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=400",
    "kullanilabilir": [
@@ -115619,7 +116646,7 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-09T18:36:32+03:00",
+   "son_kabul": "2026-11-13T03:02:52+03:00",
    "url": "https://images.unsplash.com/photo-1588075592765-2feb7de1f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "detay"
@@ -124067,6 +125094,70 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T11:39:46+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Side_Ancient_City_Antalya.jpg/1280px-Side_Ancient_City_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "e6a378aa19b7c151": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "2009-07-28",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Dağlık arazide büyük ölçekli baraj inşaatı şantiyesi ve hafriyat alanı",
+   "gosterim_ad": "baraj inşaatı",
+   "ilk_kabul": "2026-11-13T03:03:58+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Babbsack / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Babbsack",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Construction_site_of_the_Deriner_Dam,_Province_of_Artvin,_Turkey.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "baraj inşaatı",
+    "dağ",
+    "hafriyat sahası",
+    "orman",
+    "piknik masası",
+    "şantiye",
+    "şantiye yolu"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG/500px-Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "baraj inşaatı",
+    "su kaynakları",
+    "altyapı projeleri"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "spor müsabakası",
+    "sanat haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-13T03:03:58+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG/1280px-Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
