@@ -2,7 +2,7 @@
 title: Antalya'da D-400 Karayolu'ndaki dubalı trafik uygulaması kaldırıldı
 date: '2026-11-13T08:44:00+03:00'
 ozet: Antalya Valiliği, D-400 Karayolu'nun Antalya-Serik istikametinde uygulanan dubalı gidiş-geliş düzenlemesinin sona erdiğini duyurdu. Bazı ağır tonajlı araçlar için ise yasaklar devam ediyor.
-gorsel: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+gorsel: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 gorsel_kredi: 'Fotoğraf: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
@@ -17,32 +17,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
   konu_imza: 436a7bc599ae
-  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:D_400_Antalya_-_23.6.15.JPG
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
   fotografci: Onur
   lisans: CC BY-SA 4.0
   lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
   gosterilen: Antalya'da trafik
   cekim_yili: '2015'
   aciklama: Antalya'da D-400 karayolu — Arşiv fotoğrafı (2015)
-  gerekce: arşiv kaydı 'yol-antalya-1' (Antalya'da trafik) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'yol-antalya-2' (Antalya'da trafik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: yol-antalya-1
-    tarih: '2026-11-13T09:29:16+03:00'
+    arsiv_id: yol-antalya-2
+    tarih: '2026-11-13T09:58:34+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,7 +51,7 @@ gorsel_yedek: /images/haber-gorsel/20261113-antalyada-d-400-karayolundaki-dubali
 gorsel_yerlesim:
   boyut:
   - 2592
-  - 1728
+  - 1456
   dikey: false
   surum: y3
   manset: kaplama
@@ -65,14 +62,12 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
-  o_mansetyan_d: 50% 50%
-  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 gorsel_gecmis: []
 ---
 Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) sürecinde hayata geçirilen trafik önlemlerinde yeni bir aşamaya geçildi. Antalya Valiliği tarafından yapılan bilgilendirmeye göre, D-400 Karayolu'nun Antalya ile Serik arasındaki bölümünde dubalama sistemiyle yürütülen gidiş-gelişli trafik uygulaması gece yarısı itibarıyla sonlandırıldı. Zirve dolayısıyla devreye sokulan diğer güvenlik ve trafik kısıtlamalarının ise süreceği ifade edildi.
