@@ -25,6 +25,7 @@ import yaml
 
 import gorsel_sec as gs
 import metin_onar as mo
+import yazim
 
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR = timezone(timedelta(hours=3))
@@ -345,13 +346,112 @@ def yz_yaz(h, kaynak_metin):
         yz2 = gemini_json(metin + "\n\nUYARI: Önceki yanıtın Türkçe karakterleri (ç, ğ, ı, İ, ö, ş, ü) içermiyordu. Metni doğru Türkçe "
                           "yazımıyla yaz.", 0.3, 3072)
         if yz2.get("metin") and not mo.ascii_turkce(mo.yz_metni(yz2)):
-            return yz2
-        onarilan, neden = turkce_onar(yz, kaynak_metin)
-        if not onarilan:
-            raise RuntimeError(f"metin Türkçe karaktersiz ve onarılamadı ({neden})")
-        yz.update(onarilan)
-        yz["turkce_onarim"] = neden or "harf işaretleri onarıldı"
+            yz = yz2
+        else:
+            onarilan, neden = turkce_onar(yz, kaynak_metin)
+            if not onarilan:
+                raise RuntimeError(f"metin Türkçe karaktersiz ve onarılamadı ({neden})")
+            yz.update(onarilan)
+            yz["turkce_onarim"] = neden or "harf işaretleri onarıldı"
+    if yz.get("uygun", True) and yz.get("metin"):
+        try:
+            alanlar, notlar = yazim_duzelt({"baslik": yz.get("baslik", ""), "spot": yz.get("spot", ""), "metin": yz.get("metin", "")},
+                                           kaynak_metin)
+            yz.update(alanlar)
+            if notlar:
+                yz["yazim_duzeltme"] = notlar
+                print("   Yazım düzeltildi:", notlar[:160])
+        except Exception as e:
+            print("   Yazım denetimi yapılamadı:", e)
     return yz
+
+
+YAZIM_SURUM = "y1"
+_YAZIM_HAZIR = {"ok": False}
+
+
+def yazim_hazirla():
+    """Sitedeki doğru yazılmış haberlerden kelime sözlüğü (bir kez)."""
+    if _YAZIM_HAZIR["ok"]:
+        return
+    _YAZIM_HAZIR["ok"] = True
+    metinler = []
+    for ad in os.listdir(HABER_KLASOR):
+        try:
+            v, govde = gs.md_oku(os.path.join(HABER_KLASOR, ad))
+            metinler.append(f"{v.get('title', '')} {v.get('ozet', '')} {govde}")
+        except Exception:
+            pass
+    n = yazim.sozluk_kur(metinler)
+    print(f"Yazım denetimi sözlüğü: {n} kelime" + ("" if yazim._cozumleyici() else " (Türkçe çözümleyici yüklenemedi)"))
+
+
+def yazim_duzelt(alanlar, kaynak_metin="", yz_izin=True):
+    """Başlık/spot/metin yazım denetimi. 1) Harf işareti eksik kelimeler kaynak metinde ya da sitede geçen biçimine getirilir
+    (yapay zekâsız). 2) Sözlükte ve sitede bulunmayan kelimeler (olası yazım hatası: eksik/fazla/yanlış harf, bitişik kelime) için
+    yapay zekâdan öneri alınır; öneri yalnızca bilinen kelime(ler)den oluşuyor ve özgün kelimeye çok yakınsa uygulanır.
+    Özel adlar (cümle içinde büyük harfle başlayan) kaynakta geçen biçim dışında değiştirilmez. Dönüş: (alanlar, not)."""
+    yazim_hazirla()
+    out, notlar, supheli = dict(alanlar), [], []
+    for alan in ("baslik", "spot", "metin"):
+        m, d = yazim.metin_onar(out.get(alan) or "", kaynak_metin, baslik=alan == "baslik")
+        out[alan] = m
+        notlar += [f"{a}→{b}" for a, b in d]
+        supheli += [w for w in yazim.bilinmeyenler(m, alan == "baslik") if w not in supheli]
+    if supheli and yz_izin and GEMINI_KEY and not GUNLUK_KOTA["bitti"]:
+        tum = f"{out.get('baslik', '')}.\n{out.get('spot', '')}\n{out.get('metin', '')}"
+        yanit = gemini_json(yazim.duzelt_istegi(supheli[:40], tum), 0.0, 2048)
+        duz = {}
+        for w in supheli[:40]:
+            o = yazim.oneri_dogrula(w, (yanit or {}).get(w))
+            if o:
+                duz[w] = o
+        for alan in ("baslik", "spot", "metin"):
+            out[alan] = yazim.oneri_uygula(out.get(alan) or "", duz)
+        notlar += [f"{a}→{b}" for a, b in duz.items()]
+    return out, "; ".join(dict.fromkeys(notlar))
+
+
+def eski_yazim_denetimi(durum, sinir=12):
+    """Yayımlanmış otomatik haberlerin yazım denetimi (yeniden eskiye). Harf işareti onarımı her habere uygulanır; yazım hatası
+    şüphesi olan haberlerde turda en fazla 'sinir' yapay zekâ isteği yapılır. Denetlenen habere 'yazim_denetim' işareti konur.
+    Adres (URL) değişmez; başlık değişirse tipografik görsel yeniden üretilir."""
+    yazim_hazirla()
+    istek = degisen = 0
+    for ad in sorted(os.listdir(HABER_KLASOR), reverse=True):
+        yol = os.path.join(HABER_KLASOR, ad)
+        try:
+            v, govde = gs.md_oku(yol)
+        except Exception:
+            continue
+        if not v.get("otomatik") or v.get("yazim_denetim") == YAZIM_SURUM:
+            continue
+        if mo.ascii_turkce(f"{v.get('ozet', '')} {govde}"):
+            continue                       # önce Türkçe karakter onarımı (eski_metinleri_onar)
+        izin = istek < sinir and bool(GEMINI_KEY) and not GUNLUK_KOTA["bitti"]
+        eski = {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "metin": govde.strip()}
+        try:
+            yeni, notlar = yazim_duzelt(eski, "", yz_izin=izin)
+        except Exception as e:
+            print("Yazım denetimi yapılamadı:", ad, e)
+            continue
+        supheli = any(yazim.bilinmeyenler(eski[a], a == "baslik") for a in eski)
+        if supheli and izin:
+            istek += 1
+        tamam = izin or not supheli
+        if yeni != eski or tamam:
+            if yeni["baslik"] != eski["baslik"]:
+                v.setdefault("baslik_onceki", eski["baslik"])
+            v["title"], v["ozet"] = yeni["baslik"], yeni["spot"]
+            if notlar:
+                v["yazim_duzeltme"] = notlar[:500]
+                degisen += 1
+            if tamam:
+                v["yazim_denetim"] = YAZIM_SURUM
+            gs.md_yaz(yol, v, yeni["metin"] + "\n")
+    if degisen or istek:
+        print(f"Yazım denetimi: {degisen} haber düzeltildi ({istek} yapay zekâ isteği)")
+    return degisen
 
 
 def turkce_onar(yz, kaynak_metin):
@@ -592,6 +692,10 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
         "kaynak": h["kaynak"],
         "kaynak_url": kaynak_url or h["link"],
     }
+    if yz:
+        on["yazim_denetim"] = YAZIM_SURUM
+        if (yz or {}).get("yazim_duzeltme"):
+            on["yazim_duzeltme"] = str(yz["yazim_duzeltme"])[:500]
     gs.secimi_uygula(on, secim)
     if True:
         for alan in ("manset", "son_dakika", "yazar", "otomatik", "yz", "kaynak", "kaynak_url"):
@@ -827,6 +931,11 @@ def main():
         yazilan += 1
 
     duzenle_eskiler()
+    try:
+        import elle_duzelt
+        elle_duzelt.duzelt()               # panelden eklenen haber: boş yayın tarihi, Türkçe harfleri bozulmuş sayfa adresi
+    except Exception as e:
+        print("Elle eklenen haber düzeltmesi yapılamadı:", e)
     if yz_acik and durum["yz_bugun"] < yz_limit - 20:
         try:
             once = YZ_ISTEK["n"]
@@ -836,6 +945,13 @@ def main():
                 print(f"Türkçe karakteri onarılan haber: {n_onar}")
         except Exception as e:
             print("Türkçe karakter onarımı yapılamadı:", e)
+    try:
+        once = YZ_ISTEK["n"]
+        izin = yz_acik and durum["yz_bugun"] < yz_limit - 20
+        eski_yazim_denetimi(durum, int(ayar.get("yazim_tur", 12)) if izin else 0)
+        durum["yz_bugun"] += YZ_ISTEK["n"] - once
+    except Exception as e:
+        print("Yazım denetimi yapılamadı:", e)
     try:
         gecmis_haberleri_duzelt(bag)
     except Exception as e:
