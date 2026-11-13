@@ -9227,13 +9227,34 @@
       "yasak": []
      },
      "t": "2026-11-08T11:05:14+03:00"
+    },
+    "r1:f86d6dc53be1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oyuncak müzesi haberi için plaj voleybolu maçı tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:33:18+03:00"
     }
    },
    "ozet": {
     "dh": "c4962429176786d6",
     "sha": "20b950269bc440cb150e4cce"
    },
-   "t": "2026-11-13T06:58:01+03:00",
+   "t": "2026-11-13T13:33:18+03:00",
    "teknik": {
     "doygunluk": 38.6,
     "inen": [
@@ -19237,6 +19258,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/TRABZONSPOR_2025-2026_%C4%B0LK_MA%C3%87_%C4%B0LK_11_%28Tim_Jabol-Folcarelli%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "2623d144a180e8c5": {
+   "icerik": {
+    "ana_kutu": [
+     229,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "bina",
+     "tabela",
+     "şemsiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı çıtalarla kaplı modern bir fuar binası dış cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari haber",
+     "fuar tanıtımı",
+     "kurum haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçı",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a579db17154f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun binası görülüyor ancak tabelada yabancı alfabe olması yabancı ülke algısı yaratabilir.",
+      "gerekli": [
+       {
+        "unsur": "Türkiye Pavilyonu",
+        "var": true
+       },
+       {
+        "unsur": "sıkıştırılmış toprak yapı malzemesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       229,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f0b79ecce3c3032",
+    "sha": "da78327f12c6c8b4d3d7a8a3"
+   },
+   "t": "2026-11-13T13:31:06+03:00",
+   "teknik": {
+    "doygunluk": 47.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.245,
+    "keskinlik": 1744,
+    "kontrast": 81,
+    "medyan": 94,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Expo_2025_Turkey_Pavilion_01.JPG/1280px-Expo_2025_Turkey_Pavilion_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "262d69aa5fa7e99d": {
    "t": "2026-11-08T11:33:16+03:00",
    "teknik": {
@@ -21597,6 +21713,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Morpho_butterfly_-_Seaforde_Gardens_and_Tropical_Butterfly_House.jpg/1280px-Morpho_butterfly_-_Seaforde_Gardens_and_Tropical_Butterfly_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2abaa3e87e81354a": {
+   "icerik": {
+    "ana_kutu": [
+     72,
+     421,
+     936,
+     839
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "akustik gitar",
+     "mikrofon",
+     "bas gitar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahnede gitar çalıp şarkı söyleyen erkek sanatçı ve arkasında bas gitarist.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "müzik etkinliği",
+     "sahne performansı"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      77,
+      532,
+      281,
+      629
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3263ce20c078:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konser sahnesi ve sanatçı görülüyor ancak haberdeki sanatçı Lara yerine başka bir erkek sanatçı yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "konser sahnesi",
+        "var": true
+       },
+       {
+        "unsur": "sanatçi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       72,
+       421,
+       936,
+       839
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:30:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a7e3c3c16d6cb9bb",
+    "sha": "ebd1c98a6d5b1dd49e86586b"
+   },
+   "t": "2026-11-13T13:30:05+03:00",
+   "teknik": {
+    "doygunluk": 46.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.421,
+    "keskinlik": 826,
+    "kontrast": 52,
+    "medyan": 66,
+    "parlaklik": 74,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Apiwat_Eurthavornsuk_from_BBA_Charity_Concert%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "2aecb8f1d9986719": {
    "icerik": {
@@ -29942,6 +30157,104 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Muhittin_B%C3%96CEK_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "3b7a77fe19b3a699": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oyuncak araba",
+     "radyo",
+     "plak kapağı",
+     "raf",
+     "tablo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Renk renk kemerli bölmelerden oluşan raflarda eski oyuncaklar ve nostaljik eşyalar sergileniyor.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "oyuncak muzesi",
+     "nostalji",
+     "koleksiyon sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor musabakasi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f86d6dc53be1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, Anadolu Oyuncak Müzesi'nin renkli ve nostaljik sergi alanını doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "oyuncak müzesi",
+        "var": true
+       },
+       {
+        "unsur": "eski oyuncaklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:33:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "47073736363b1fdb",
+    "sha": "ff1fe24217aeaa0f791f6155"
+   },
+   "t": "2026-11-13T13:33:18+03:00",
+   "teknik": {
+    "doygunluk": 54.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.203,
+    "keskinlik": 2123,
+    "kontrast": 57,
+    "medyan": 103,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg/1280px-DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3c4b259f2ae76da3": {
    "icerik": {
     "ana_kutu": [
@@ -36401,13 +36714,34 @@
       "yasak": []
      },
      "t": "2026-11-13T06:58:01+03:00"
+    },
+    "r1:f86d6dc53be1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oyuncak müzesi haberi için voleybol silüetleri tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:33:18+03:00"
     }
    },
    "ozet": {
     "dh": "ff7f37ee67655d57",
     "sha": "71deaf67432eb53aca1c7083"
    },
-   "t": "2026-11-13T06:58:01+03:00",
+   "t": "2026-11-13T13:33:18+03:00",
    "teknik": {
     "doygunluk": 26.6,
     "inen": [
@@ -44426,6 +44760,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/20230116_Manavgat%2C_Turkey_3.jpg/1280px-20230116_Manavgat%2C_Turkey_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5b4838eca76e1cf3": {
+   "ozet": {
+    "dh": "0408361613a34343",
+    "sha": "9a5bf47271523a3fdf562272"
+   },
+   "t": "2026-11-13T13:30:01+03:00",
+   "teknik": {
+    "doygunluk": 86.5,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.914,
+    "keskinlik": 547,
+    "kontrast": 34,
+    "medyan": 1,
+    "parlaklik": 13,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG/1280px-Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5b876f951175b7c7": {
    "ozet": {
@@ -54210,6 +54565,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2811%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "73629dac3c297dc6": {
+   "icerik": {
+    "ana_kutu": [
+     40,
+     0,
+     780,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "el arabası",
+     "sokak levhası",
+     "kaldırım taşı",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta sökülmüş kaldırım taşları ve el arabaları ile yapılan altyapı çalışması",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "altyapı",
+     "belediye",
+     "kent yaşamı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b03c33a28f66:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Türkiye'de sokak üzerindeki kaldırım söküm ve yapım çalışmalarını temsil etmek için uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "kaldırım",
+        "var": true
+       },
+       {
+        "unsur": "yol yapım çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       40,
+       0,
+       780,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:32:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fcc4f4dc40891200",
+    "sha": "65fe9e4243320843e0603c1c"
+   },
+   "t": "2026-11-13T13:32:58+03:00",
+   "teknik": {
+    "doygunluk": 21.5,
+    "inen": [
+     500,
+     397
+    ],
+    "karanlik_oran": 0.15,
+    "keskinlik": 2790,
+    "kontrast": 57,
+    "medyan": 137,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Ak%C4%B1%C5%9F_Sokak_-_panoramio.jpg/1280px-Ak%C4%B1%C5%9F_Sokak_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "737a4c58c7d05dcb": {
    "icerik": {
@@ -66783,6 +67236,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1778699862679-3bea83df1e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bXVheXRoYWklMjByaW5nfGVufDF8MHx8fDE3OTM4ODY2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "8c2ef525ea4ec7c2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "asfalt kaldırım",
+     "taş duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeni yapılmış asfalt kaldırım ve yol kenarı taş duvarlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "altyapı",
+     "yol yapımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b03c33a28f66:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tamamlanmış bir kaldırım gösteriyor ancak devam eden yapım çalışması ve aktif inşaat unsurları yok.",
+      "gerekli": [
+       {
+        "unsur": "kaldırım",
+        "var": true
+       },
+       {
+        "unsur": "yol yapım çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:32:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e163f3d3c6cedbb3",
+    "sha": "c467b46e3b44e3536f658a8d"
+   },
+   "t": "2026-11-13T13:32:58+03:00",
+   "teknik": {
+    "doygunluk": 9.3,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.032,
+    "keskinlik": 1864,
+    "kontrast": 70,
+    "medyan": 86,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cowes_Baring_Road_pavement_road_works_10.JPG/1280px-Cowes_Baring_Road_pavement_road_works_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8c48cfd9ea3f0bb4": {
    "icerik": {
@@ -81032,6 +81579,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Europa_Cinema_Auditorium%2C_February_2025.jpg/1280px-Europa_Cinema_Auditorium%2C_February_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ae434b679baa06de": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     850,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuğla duvar",
+     "kaldırım taşı",
+     "trafik konisi",
+     "ölçüm çubuğu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tuğla duvar önünde devam eden kaldırım yenileme ve döşeme çalışması",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "altyapı",
+     "inşaat",
+     "belediye"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b03c33a28f66:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili kaldırım yapım çalışması gösteriyor ancak yabancı bir ülkeye ait.",
+      "gerekli": [
+       {
+        "unsur": "kaldırım",
+        "var": true
+       },
+       {
+        "unsur": "yol yapım çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       850,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:32:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "dfc687f52d038103",
+    "sha": "867677110a1995cd53156bad"
+   },
+   "t": "2026-11-13T13:32:58+03:00",
+   "teknik": {
+    "doygunluk": 18.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.028,
+    "keskinlik": 3114,
+    "kontrast": 38,
+    "medyan": 122,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/A63_Jan24_Realignment_Works_Pedestrian_Paving.jpg/1280px-A63_Jan24_Realignment_Works_Pedestrian_Paving.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ae53a51f3d5f0ca8": {
    "icerik": {
     "ana_kutu": [
@@ -82216,13 +82860,34 @@
       "yasak": []
      },
      "t": "2026-11-09T13:19:52+03:00"
+    },
+    "r1:f86d6dc53be1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oyuncak müzesi haberi için pickleball maçı tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:33:18+03:00"
     }
    },
    "ozet": {
     "dh": "5200307449e96263",
     "sha": "9269770cbb198101a3cdb138"
    },
-   "t": "2026-11-11T03:08:40+03:00",
+   "t": "2026-11-13T13:33:18+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -82337,9 +83002,34 @@
       "yasak": []
      },
      "t": "2026-11-08T12:11:00+03:00"
+    },
+    "r1:f86d6dc53be1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Oyuncak müzesi haberi için tiyatro sahnesi uygun değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:33:18+03:00"
     }
    },
-   "t": "2026-11-08T12:11:00+03:00",
+   "ozet": {
+    "dh": "190913026a536f27",
+    "sha": "15101eb0c01f616e67e329ac"
+   },
+   "t": "2026-11-13T13:33:18+03:00",
    "teknik": {
     "doygunluk": 64.2,
     "inen": [
@@ -83536,6 +84226,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Soccer_Game_in_Phnom_Penh_Olympic_Stadium_9_%2814541243456%29.jpg/1280px-Soccer_Game_in_Phnom_Penh_Olympic_Stadium_9_%2814541243456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b2a6ff06e9ce3d24": {
+   "ozet": {
+    "dh": "0d0c161764474d4d",
+    "sha": "a8a555c4824933208163f0db"
+   },
+   "t": "2026-11-13T13:33:12+03:00",
+   "teknik": {
+    "doygunluk": 42.7,
+    "inen": [
+     800,
+     533
+    ],
+    "karanlik_oran": 0.494,
+    "keskinlik": 1012,
+    "kontrast": 44,
+    "medyan": 50,
+    "parlaklik": 60,
+    "s": "t1"
+   },
+   "url": "/images/kurum/6616ed4112fc595e.jpg"
   },
   "b2e7d4ce29e2c512": {
    "icerik": {
@@ -86152,6 +86863,121 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg/1280px-HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b752a158f602df84": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     0,
+     996,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "bina",
+     "bariyer",
+     "şemsiye",
+     "sırt çantası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı renkli sergi binası önünde bekleyen ziyaretçi kalabalığı",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fuar ziyareti",
+     "etkinlik haberi",
+     "turizm haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      677,
+      892,
+      922,
+      977
+     ],
+     [
+      647,
+      829,
+      878,
+      915
+     ],
+     [
+      637,
+      792,
+      866,
+      858
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a579db17154f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Türkiye Pavilyonu dışarıdan görülüyor ancak kalabalık ve yabancı ortam havası nedeniyle yer açısından yanıltıcı.",
+      "gerekli": [
+       {
+        "unsur": "Türkiye Pavilyonu",
+        "var": true
+       },
+       {
+        "unsur": "sıkıştırılmış toprak yapı malzemesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       0,
+       850,
+       835
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8fc3c0e8c8485297",
+    "sha": "d2ab0bac2dddf397bafccb72"
+   },
+   "t": "2026-11-13T13:31:06+03:00",
+   "teknik": {
+    "doygunluk": 31.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.191,
+    "keskinlik": 2922,
+    "kontrast": 85,
+    "medyan": 121,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Expo_2025_Turkey_Pavilion_02.JPG/1280px-Expo_2025_Turkey_Pavilion_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b77338ad86709636": {
    "icerik": {
     "ana_kutu": [
@@ -86239,6 +87065,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya_Castle_Ehmedek_Gate_area_along_Kale_Caddesi_7955.jpg/1280px-Alanya_Castle_Ehmedek_Gate_area_along_Kale_Caddesi_7955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b776192729df5c09": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     50,
+     800,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tabela",
+     "kaldırım taşı",
+     "yol",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaldırım çalışması tabelası ve yeni döşenmiş kırmızı kaldırım taşları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye hizmetleri",
+     "altyapı çalışmaları",
+     "kent haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "uluslararası ilişki"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b03c33a28f66:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kepez Belediyesi'nin kaldırım çalışmasını doğrudan gösteren orijinal haber fotoğrafı.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       50,
+       800,
+       990
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:32:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cd0d96871d3f6f67",
+    "sha": "2b03caf3e95e4fd602459933"
+   },
+   "t": "2026-11-13T13:32:58+03:00",
+   "teknik": {
+    "doygunluk": 18.2,
+    "inen": [
+     800,
+     533
+    ],
+    "karanlik_oran": 0.044,
+    "keskinlik": 1119,
+    "kontrast": 53,
+    "medyan": 180,
+    "parlaklik": 162,
+    "s": "t1"
+   },
+   "url": "/images/kurum/e717090955389679.jpg"
   },
   "b78f48e31e3fb79d": {
    "icerik": {
@@ -92410,6 +93324,27 @@
    },
    "url": "https://images.unsplash.com/photo-1683791895200-201c0c40310f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cmVkJTIwY3Jvc3MlMjBibG9vZCUyMGJhZyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NDI5MjY0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c69e73452de19b46": {
+   "ozet": {
+    "dh": "33332b17969e1637",
+    "sha": "25afe6ce5d30fc7d3c606413"
+   },
+   "t": "2026-11-13T13:30:01+03:00",
+   "teknik": {
+    "doygunluk": 56.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.544,
+    "keskinlik": 818,
+    "kontrast": 48,
+    "medyan": 47,
+    "parlaklik": 60,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Crayon_Pop_firefighters_concert_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "c6b6dd510f0243bd": {
    "icerik": {
     "ana_kutu": [
@@ -92731,6 +93666,121 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Steve_Carmichael_-_2017_08_04_Beach_Volleyball-2960_%2836384390825%29.jpg/1280px-Steve_Carmichael_-_2017_08_04_Beach_Volleyball-2960_%2836384390825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c770a496bf2ac5e6": {
+   "icerik": {
+    "ana_kutu": [
+     291,
+     0,
+     992,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "kurdela",
+     "mikrofon",
+     "tekerlekli sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açılış kurdelesi kesen siyasetçiler ve katılımcılar",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "açılış haberi",
+     "protokol ziyareti",
+     "siyaset haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "mimari tanıtım",
+     "ürün inceleme"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      313,
+      85,
+      439,
+      177
+     ],
+     [
+      308,
+      273,
+      584,
+      396
+     ],
+     [
+      354,
+      363,
+      679,
+      482
+     ],
+     [
+      328,
+      577,
+      565,
+      665
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a579db17154f:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan pavilyon binası bu fotoğrafta görünmüyor, sadece açılış kalabalığı var.",
+      "gerekli": [
+       {
+        "unsur": "Türkiye Pavilyonu",
+        "var": false
+       },
+       {
+        "unsur": "sıkıştırılmış toprak yapı malzemesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:31:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "364d294f4dafadcf",
+    "sha": "353103b1b66ee7080c7d675e"
+   },
+   "t": "2026-11-13T13:31:06+03:00",
+   "teknik": {
+    "doygunluk": 32.3,
+    "inen": [
+     800,
+     533
+    ],
+    "karanlik_oran": 0.314,
+    "keskinlik": 1554,
+    "kontrast": 89,
+    "medyan": 119,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b663bd2714309b54.jpg"
   },
   "c79daa77427dfe7c": {
    "icerik": {
@@ -122048,6 +123098,70 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "3b7a77fe19b3a699": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5568,
+    3712
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2026-10-23",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Renk renk kemerli bölmelerden oluşan raflarda eski oyuncaklar ve nostaljik eşyalar sergileniyor.",
+   "gosterim_ad": "oyuncak müzesi sergisi ve atölyeler",
+   "ilk_kabul": "2026-11-13T13:33:18+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "PattayaPatrol",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "eski oyuncaklar",
+    "oyuncak araba",
+    "oyuncak müzesi",
+    "plak kapağı",
+    "radyo",
+    "raf",
+    "tablo"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg/500px-DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "oyuncak muzesi",
+    "nostalji",
+    "koleksiyon sergisi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor musabakasi",
+    "kaza haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-13T13:33:18+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg/1280px-DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "3d858402aa43af14": {
    "alt_tur": "nesne",
    "boyut": [
@@ -127114,6 +128228,73 @@
    "son_kabul": "2026-11-08T13:09:04+03:00",
    "url": "/images/kurum/41ad06d5575bf0f3.jpg",
    "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
+  "b776192729df5c09": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    800,
+    533
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kaldırım çalışması tabelası ve yeni döşenmiş kırmızı kaldırım taşları",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T13:32:58+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Kepez Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Kepez Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Kepez Belediyesi",
+    "sayfa": "https://www.kepez-bld.gov.tr/news_12749_kepez-de-kent-yasamina-86-kilometrelik-kaldirim-hamlesi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Kepez Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "direk",
+    "kaldırım taşı",
+    "tabela",
+    "yol"
+   ],
+   "kucuk": "/images/kurum/e717090955389679.jpg",
+   "kullanilabilir": [
+    "belediye hizmetleri",
+    "altyapı çalışmaları",
+    "kent haberleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "uluslararası ilişki",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T13:32:58+03:00",
+   "url": "/images/kurum/e717090955389679.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
