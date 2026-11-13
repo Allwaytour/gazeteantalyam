@@ -29,7 +29,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: iyiparti-logo
-    tarih: '2026-11-13T23:01:06+03:00'
+    tarih: '2026-11-13T23:31:40+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
