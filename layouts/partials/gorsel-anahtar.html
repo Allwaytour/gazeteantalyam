@@ -1,0 +1,3 @@
+{{/* Aynı karenin farklı adres biçimleri (Commons küçük resim boyutu, thumb./upload. alan adı, sorgu dizesi) tek anahtara indirilir:
+     ana sayfada aynı fotoğrafın iki kez görünmesini önlemek için. */}}
+{{ return replaceRE "^[0-9]+px-" "" (path.Base (index (split (. | default "") "?") 0)) }}

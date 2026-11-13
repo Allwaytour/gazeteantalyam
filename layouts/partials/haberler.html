@@ -2,6 +2,7 @@
      Görsel hattı h1'in yerleşim kararı (gorsel_yerlesim) her alan için ayrıdır: "foto" = haber kartında fotoğraf,
      "manset_duzen" = manşette kaplama/yan düzen, "yan_foto" = manşet yanı kartında fotoğraf; "o_*" = o alanın odak noktası.
      "foto_p"/"yan_p": geniş kart uymayan dikey portre için küçük fotoğraf solda, başlık sağda kart varyantı (yüz büyütülmez/kesilmez).
+     "alt": aynı konunun öteki doğrulanmış kareleri; ana sayfada kare başka haberde kullanıldıysa kartta bunlardan biri gösterilir.
      Yerleşim kaydı yoksa (elle seçilmiş görsel ya da henüz yeniden değerlendirilmemiş eski kayıt) eski davranış sürer. */}}
 {{ $liste := slice }}
 {{ range where site.RegularPages "Section" "haber" }}{{ $p := . }}
@@ -23,6 +24,6 @@
     "o_myd" ($y.o_mansetyan_d | default "") "o_mym" ($y.o_mansetyan_m | default "")
     "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")
     "onem" $onem "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)
-    "tipo" (eq (.Params.gorsel_tur | default "") "tipografik") "yedek" (cond (ne (.Params.gorsel_yedek | default "") "") (.Params.gorsel_yedek | relURL) "")) }}
+    "alt" (cond $kart (.Params.gorsel_alternatif | default slice) slice) "tipo" (eq (.Params.gorsel_tur | default "") "tipografik") "yedek" (cond (ne (.Params.gorsel_yedek | default "") "") (.Params.gorsel_yedek | relURL) "")) }}
 {{ end }}
 {{ return sort $liste "ts" "desc" }}
