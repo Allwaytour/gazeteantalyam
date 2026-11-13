@@ -2256,9 +2256,34 @@
       "yasak": []
      },
      "t": "2026-11-08T15:14:15+03:00"
+    },
+    "r1:7759cff62e7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bar ortamı, Manavgat semt pazarları ve kura haberiyle tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:54+03:00"
     }
    },
-   "t": "2026-11-08T15:14:26+03:00",
+   "ozet": {
+    "dh": "a93b572ee6c3c317",
+    "sha": "bc58e62672d123d99c6b1225"
+   },
+   "t": "2026-11-13T13:59:54+03:00",
    "teknik": {
     "doygunluk": 36.5,
     "inen": [
@@ -3294,13 +3319,34 @@
       ]
      },
      "t": "2026-11-09T21:37:30+03:00"
+    },
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun binası/detayı gösterilmektedir ancak pazar yeri kura haberiyle doğrudan ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:54+03:00"
     }
    },
    "ozet": {
     "dh": "3f7f67afdffd5f7d",
     "sha": "8eb3e557292600c09fb18a4c"
    },
-   "t": "2026-11-09T21:37:30+03:00",
+   "t": "2026-11-13T13:59:54+03:00",
    "teknik": {
     "doygunluk": 16.5,
     "inen": [
@@ -50096,6 +50142,100 @@
    },
    "url": "https://images.unsplash.com/photo-1770723965399-cbdbc01b2619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z2l2aW5nJTIwYmxvb2QlMjBSZWQlMjBDcmVzY2VudHxlbnwxfDB8fHwxNzk0MjkyNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "69144edf97267de6": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     452,
+     915,
+     824
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami",
+     "minare",
+     "kubbe",
+     "apartman",
+     "araba",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada dört minareli büyük bir cami ve sol tarafta binalar var",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "mimari",
+     "yerel haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "pazar yeri",
+     "kura",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bir cami ve sokak görünümü var, pazar tezgahları yer almadığı için haberle ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "012909002919ca0a",
+    "sha": "eef198768cb44388d3c49c6c"
+   },
+   "t": "2026-11-13T13:59:45+03:00",
+   "teknik": {
+    "doygunluk": 44.0,
+    "inen": [
+     500,
+     292
+    ],
+    "karanlik_oran": 0.05,
+    "keskinlik": 2339,
+    "kontrast": 49,
+    "medyan": 142,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg/1280px-Manavgat_560DSC_0226_%2848104102833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "693c2c72e26a0e92": {
    "icerik": {
     "ana_kutu": [
@@ -54308,6 +54448,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde kitap kafe ve dış mekan oturma alanları var, semt pazarı ve boş tezgahlar görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:45+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -54340,7 +54510,11 @@
      "t": "2026-11-08T11:38:40+03:00"
     }
    },
-   "t": "2026-11-08T11:38:40+03:00",
+   "ozet": {
+    "dh": "72221bccccd5ad1e",
+    "sha": "55d4facbdbbbb1ae48459fde"
+   },
+   "t": "2026-11-13T13:59:45+03:00",
    "teknik": {
     "doygunluk": 35.7,
     "inen": [
@@ -60304,13 +60478,34 @@
       ]
      },
      "t": "2026-11-09T21:37:28+03:00"
+    },
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin kurumu Manavgat Belediyesi binasıdır ancak pazar tezgahları görünmemektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:54+03:00"
     }
    },
    "ozet": {
     "dh": "061202151a2032a8",
     "sha": "70b7fb7e07568b24c74cf417"
    },
-   "t": "2026-11-09T21:37:30+03:00",
+   "t": "2026-11-13T13:59:54+03:00",
    "teknik": {
     "doygunluk": 24.2,
     "inen": [
@@ -62858,6 +63053,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta antik kent kalıntıları yer almakta, pazar yeri ve tezgahlar bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:45+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -62890,7 +63115,11 @@
      "t": "2026-11-08T11:38:53+03:00"
     }
    },
-   "t": "2026-11-08T11:38:53+03:00",
+   "ozet": {
+    "dh": "9e9bb96d6dd7c3ed",
+    "sha": "806b02bddaa3e3886b7dc4cd"
+   },
+   "t": "2026-11-13T13:59:45+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -71243,6 +71472,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg/1280px-Nuernberg_Postkutsche_Christkindlesmarkt_20101201.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "94e363a974eb179d": {
+   "icerik": {
+    "ana_kutu": [
+     3,
+     307,
+     630,
+     642
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "aşçı kepi",
+     "bıçak",
+     "karpuz",
+     "kesme tahtası",
+     "tabak",
+     "masa örtüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Restoranda aşçı karpuz oymacılığı yapıyor, masalarda karpuz süslemeleri var",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yemek",
+     "aşçılık",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "pazar yeri",
+     "kura",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      129,
+      381,
+      626,
+      642
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta pazar tezgahları yerine otelde karpuz oymacılığı yapan aşçı görülüyor, konuyla tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2b3b1b59d3d3fac0",
+    "sha": "3401959112da2986f489b1d7"
+   },
+   "t": "2026-11-13T13:59:45+03:00",
+   "teknik": {
+    "doygunluk": 41.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.097,
+    "keskinlik": 2294,
+    "kontrast": 61,
+    "medyan": 140,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/07600_Ahmetler-Manavgat-Antalya%2C_Turkey_-_panoramio.jpg/1280px-07600_Ahmetler-Manavgat-Antalya%2C_Turkey_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "94f656a82eb36f2f": {
    "icerik": {
     "ana_kutu": [
@@ -75866,9 +76196,48 @@
       "yasak": []
      },
      "t": "2026-11-08T15:14:26+03:00"
+    },
+    "r1:7759cff62e7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pazar tezgahlarındaki taze meyveleri gösterdiği için semt pazarı haberiyle çok uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:54+03:00"
     }
    },
-   "t": "2026-11-08T15:14:26+03:00",
+   "ozet": {
+    "dh": "5ec5c24a191c47ca",
+    "sha": "86cd2d28206d07fddba6437a"
+   },
+   "t": "2026-11-13T13:59:54+03:00",
    "teknik": {
     "doygunluk": 58.6,
     "inen": [
@@ -80544,6 +80913,99 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Step_Aerobics_Class_at_a_Gym.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "aaf2cba7b33574cd": {
+   "icerik": {
+    "ana_kutu": [
+     257,
+     13,
+     627,
+     529
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "otomobil",
+     "otel binası",
+     "kaldırım",
+     "ağaç",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şehir içi caddede park etmiş otomobiller ve solda otel binası görülüyor",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir içi",
+     "ulaşım",
+     "genel görünüm"
+    ],
+    "uygunsuz_baglamlar": [
+     "pazar yeri",
+     "kura",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7759cff62e7e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta cadde ve otomobiller yer alıyor; semt pazarı veya boş tezgahlar bulunmadığı için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f3feb5375aa28313",
+    "sha": "b567415ae81d8a247cdca613"
+   },
+   "t": "2026-11-13T13:59:45+03:00",
+   "teknik": {
+    "doygunluk": 44.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.102,
+    "keskinlik": 2261,
+    "kontrast": 54,
+    "medyan": 127,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20230116_Manavgat%2C_Turkey_20.jpg/1280px-20230116_Manavgat%2C_Turkey_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ab2fa630bdc5ac87": {
    "icerik": {
@@ -117438,6 +117900,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:7759cff62e7e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kahve fincanları ve kafe ortamı, semt pazarı ve kura haberiyle uyuşmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T13:59:54+03:00"
+    },
     "r1:d5dc23edf0e9:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -117478,7 +117961,7 @@
     "dh": "1e9e596533627353",
     "sha": "972069a185965b5f38f79af4"
    },
-   "t": "2026-11-12T11:26:31+03:00",
+   "t": "2026-11-13T13:59:54+03:00",
    "teknik": {
     "doygunluk": 24.0,
     "inen": [
@@ -126836,7 +127319,7 @@
    "gosterim_ad": "hal fiyatları",
    "ilk_kabul": "2026-11-08T14:40:15+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Marc-Lautenbacher / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -126857,7 +127340,9 @@
     "ahududu",
     "böğürtlen",
     "meyve kasaları",
+    "pazar tezgahları",
     "plastik kaplar",
+    "sebze meyve tezgahı",
     "sebze ve meyve tezgahı",
     "çilek"
    ],
@@ -126876,7 +127361,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T15:14:26+03:00",
+   "son_kabul": "2026-11-13T13:59:54+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
