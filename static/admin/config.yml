@@ -39,7 +39,7 @@ collections:
   - name: haber
     label: Haberler
     label_singular: Haber
-    description: Elle eklenen ve otomatik gelen tüm haberler. Düzenleyip kaydettiğiniz haber 1-2 dakika sonra sitede güncellenir.
+    description: Elle eklenen ve otomatik gelen tüm haberler. Kaydet'e bastığınızda haber ayrıca onay gerekmeden yayına gönderilir; 2-4 dakika içinde sitede görünür.
     folder: content/haber
     create: true
     delete: true
@@ -57,7 +57,7 @@ collections:
     fields:
       - { label: Başlık, name: title, widget: string }
       - { label: Spot (kısa özet), name: ozet, widget: text, required: false, hint: "Başlığın altında kalın yazıyla görünür. 1-2 cümle." }
-      - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", hint: "İleri bir tarih seçerseniz haber o saatten sonraki ilk güncellemede yayımlanır." }
+      - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", default: "{{now}}", required: false, hint: "Kendiliğinden şu anki saat yazılır; değiştirmeniz gerekmez. İleri bir tarih seçerseniz haber o saatten sonraki ilk güncellemede yayımlanır." }
       - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: false, hint: "Yatay fotoğraf önerilir. Yalnızca kendi çektiğiniz ya da kullanım izni olan fotoğrafları yükleyin. Fotoğrafı değiştirirseniz aşağıdaki 'Fotoğraf kredisi' alanını da güncelleyin; otomatik sistem elle konan fotoğrafa dokunmaz." }
       - label: Kategori
         name: kategoriler
@@ -80,10 +80,13 @@ collections:
       - { label: Etiketler, name: etiketler, widget: list, required: false, hint: "Haberde geçen kişi, kurum ve yer adları; her biri için Ekle düğmesine basın." }
       - { label: Görseli sabitle, name: gorsel_kilit, widget: boolean, required: false, default: false, hint: "Açıksa otomatik görsel seçimi bu haberin görseline dokunmaz." }
       - { label: Haber metni, name: body, widget: markdown, required: false, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
-      - { label: Kaynak adı (otomatik haberler), name: kaynak, widget: string, required: false }
-      - { label: Kaynak bağlantısı (otomatik haberler), name: kaynak_url, widget: string, required: false }
-      - { label: Otomatik eklendi, name: otomatik, widget: boolean, required: false, default: false, hint: "Otomatik haberler 30 gün sonra silinir. Kalıcı olmasını istiyorsanız kapatın." }
-      - { label: Yapay zekâ ile yazıldı, name: yz, widget: boolean, required: false, default: false }
+      # Otomatik haberlerin teknik alanları ve sayfa adresi: formda gösterilmez, değerleri korunur
+      - { label: Kaynak adı, name: kaynak, widget: hidden, required: false }
+      - { label: Kaynak bağlantısı, name: kaynak_url, widget: hidden, required: false }
+      - { label: Otomatik eklendi, name: otomatik, widget: hidden, required: false, default: false }
+      - { label: Yapay zekâ ile yazıldı, name: yz, widget: hidden, required: false, default: false }
+      - { label: Sayfa adresi, name: url, widget: hidden, required: false }
+      - { label: Eski adresler, name: aliases, widget: hidden, required: false }
 
   - name: kose
     label: Köşe Yazıları
