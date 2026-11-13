@@ -241,6 +241,116 @@
 "h": 2252,
 "a": "SR Engineers and Consultants",
 "d": "Empty auditorium with rows of red seats"
+},
+{
+"k": "istihdam_1",
+"id": "rqZaKEjRrdQ",
+"sl": "rqZaKEjRrdQ",
+"raw": "https://images.unsplash.com/photo-1635253548172-d82ffe76449d",
+"w": 4240,
+"h": 2384,
+"a": "2H Media",
+"d": "application forms and glasses"
+},
+{
+"k": "istihdam2_1",
+"id": "7iSEHWsxPLw",
+"sl": "7iSEHWsxPLw",
+"raw": "https://images.unsplash.com/photo-1586281380349-632531db7ed4",
+"w": 3999,
+"h": 2666,
+"a": "Markus Winkler",
+"d": "paper form beside laptop"
+},
+{
+"k": "dere2_2",
+"id": "S_m08rqcT3I",
+"sl": "S_m08rqcT3I",
+"raw": "https://images.unsplash.com/photo-1776766736597-b606ca3b74ec",
+"w": 5873,
+"h": 3915,
+"a": "Giovanni L.",
+"d": "concrete river weir"
+},
+{
+"k": "fut_2",
+"id": "XnNkkw9H9Jc",
+"sl": "XnNkkw9H9Jc",
+"raw": "https://images.unsplash.com/photo-1660926655800-3d11219f390d",
+"w": 7360,
+"h": 4912,
+"a": "Carlos Felipe Ramírez Mesa",
+"d": "a football ball on the grass"
+},
+{
+"k": "fut_6",
+"id": "JytQXLPXpNM",
+"sl": "JytQXLPXpNM",
+"raw": "https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a",
+"w": 5767,
+"h": 3845,
+"a": "William Hadley",
+"d": "A soccer ball rests on a green field"
+},
+{
+"k": "fut2_2",
+"id": "qf5l33GiG5Q",
+"sl": "qf5l33GiG5Q",
+"raw": "https://images.unsplash.com/photo-1731766585055-c957a2b7630a",
+"w": 4096,
+"h": 3072,
+"a": "Ng Jun Xian",
+"d": "A soccer ball in the goal net"
+},
+{
+"k": "fut2_7",
+"id": "maFOyIkw6P4",
+"sl": "maFOyIkw6P4",
+"raw": "https://images.unsplash.com/photo-1725030971668-684f1e8ca8ee",
+"w": 6720,
+"h": 4480,
+"a": "Brianna Lengacher",
+"d": "A soccer goal on a lush green field"
+},
+{
+"k": "okul_7",
+"id": "_YQyZRGWOR4",
+"sl": "_YQyZRGWOR4",
+"raw": "https://images.unsplash.com/photo-1777259759623-b39589cfff9b",
+"w": 7008,
+"h": 4672,
+"a": "Vida Huang",
+"d": "Empty classroom with wooden desks"
+},
+{
+"k": "okul_4",
+"id": "RTFX0TQHXko",
+"sl": "RTFX0TQHXko",
+"raw": "https://images.unsplash.com/photo-1763098844157-d0fffcc966a1",
+"w": 3128,
+"h": 2072,
+"a": "Jun Ren",
+"d": "Classroom with desks and blackboard"
+},
+{
+"k": "tekstil_1",
+"id": "S2bfx5RJm6I",
+"sl": "S2bfx5RJm6I",
+"raw": "https://images.unsplash.com/photo-1721622248626-e7b5c29de4b2",
+"w": 10000,
+"h": 7500,
+"a": "engin akyurt",
+"d": "pile of textile waste"
+},
+{
+"k": "tekstil_4",
+"id": "NM0RDJceEC0",
+"sl": "NM0RDJceEC0",
+"raw": "https://images.unsplash.com/photo-1585351737354-204ffbbe584f",
+"w": 5389,
+"h": 3586,
+"a": "Etienne Girardet",
+"d": "colorful fabric scraps"
 }
 ],
 "c": [
@@ -560,6 +670,14 @@
 [
 "ambulans-4",
 "c:ambulans2_3"
+],
+[
+"ambulans-3",
+"c:ambulans2_2"
+],
+[
+"ambulans-4",
+"c:ambulans2_3"
 ]
 ]
 },
@@ -673,6 +791,10 @@
 [
 "polis-3",
 "u:polisisik_5"
+],
+[
+"polis-4",
+"c:polis2_0"
 ],
 [
 "polis-4",
@@ -905,6 +1027,8 @@
 "sağlık hizmet",
 "eah",
 "tedavi",
+"hastane randevu",
+"randevu sistemi",
 "hastane randevu",
 "randevu sistemi"
 ],
@@ -1365,6 +1489,10 @@
 [
 "toplanti-3",
 "u:konferans_0"
+],
+[
+"toplanti-3",
+"u:konferans_0"
 ]
 ]
 },
@@ -1478,6 +1606,22 @@
 [
 "futbol-2",
 "c:futbol_2"
+],
+[
+"futbol-3",
+"u:fut_2"
+],
+[
+"futbol-4",
+"u:fut_6"
+],
+[
+"futbol-5",
+"u:fut2_2"
+],
+[
+"futbol-6",
+"u:fut2_7"
 ]
 ]
 },
@@ -1968,6 +2112,10 @@
 "avrupa ikinci",
 "ödül",
 "sporcu",
+"derece elde",
+"derece al",
+"dereceye gir",
+"derecesi",
 "derece elde",
 "derece al",
 "dereceye gir",
@@ -3834,6 +3982,14 @@
 [
 "sinif-2",
 "u:sinif_0"
+],
+[
+"sinif-3",
+"u:okul_7"
+],
+[
+"sinif-4",
+"u:okul_4"
 ]
 ]
 },
@@ -4430,6 +4586,14 @@
 [
 "atik",
 "u:plastik_3"
+],
+[
+"atik-2",
+"u:tekstil_1"
+],
+[
+"atik-3",
+"u:tekstil_4"
 ]
 ]
 },
@@ -5051,6 +5215,10 @@
 [
 "cop31-expo-4",
 "c:expo_0"
+],
+[
+"cop31-expo-5",
+"c:expo_3"
 ],
 [
 "cop31-expo-5",
@@ -6542,6 +6710,609 @@
 [
 "konferans-2",
 "u:konferans_7"
+]
+]
+},
+{
+"sinif": "takim",
+"kimlik": "Antalya Stadyumu",
+"grup": "antalyaspor",
+"oncelik": 3,
+"sahne": "bina",
+"anahtar": [
+"antalyaspor",
+"antalya stadyumu",
+"corendon airlines park"
+],
+"aciklama": "Antalyaspor'un iç saha maçlarını oynadığı Antalya Stadyumu — Arşiv fotoğrafı",
+"kaynak": [
+[
+"antalya-stadyumu-1",
+"c:stadyum_7"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "iklim",
+"kimlik": "İklim krizi",
+"grup": "iklim",
+"oncelik": 5.2,
+"anahtar": [
+"iklim kriz",
+"iklim değişikliğ",
+"küresel ısınma",
+"fosil yakıt",
+"emisyon",
+"karbon",
+"sera gazı",
+"iklim uyarı",
+"en sıcak yıl",
+"el nino",
+"iklim eylem",
+"ısı eylem",
+"iklim finansman",
+"iklim mesaj",
+"iklim çağrı",
+"iklim hedef",
+"iklim diplomasi",
+"iklim hareket",
+"iklim adalet",
+"iklim dostu",
+"iklim girişim"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"iklim-1",
+"u:iklim_0"
+],
+[
+"iklim-2",
+"u:iklim_2"
+],
+[
+"iklim-3",
+"u:iklim_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "temizenerji",
+"kimlik": "Rüzgâr türbinleri",
+"grup": "ruzgar",
+"oncelik": 5.1,
+"anahtar": [
+"rüzgar enerji",
+"rüzgâr enerji",
+"rüzgar türbin",
+"temiz enerji",
+"yenilenebilir",
+"enerji dönüşüm",
+"enerji geçiş",
+"enerji ticaret",
+"elektrik ticaret",
+"yeşil dönüşüm",
+"enerji zirve",
+"karbon nötr",
+"net sıfır",
+"enerji verimlili"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"ruzgar-1",
+"u:ruzgar_0"
+],
+[
+"ruzgar-2",
+"u:ruzgar_1"
+],
+[
+"ruzgar-3",
+"u:ruzgar_2"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "baz",
+"kimlik": "Baz istasyonu",
+"grup": "baz",
+"oncelik": 3.8,
+"anahtar": [
+"baz istasyon",
+"re:5g(?![a-z0-9])",
+"gsm anten"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"baz-1",
+"c:baz_1"
+],
+[
+"baz-2",
+"c:baz_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "baraj",
+"kimlik": "Baraj",
+"grup": "baraj",
+"oncelik": 3.9,
+"anahtar": [
+"baraj",
+"gölet",
+"sulama kanal",
+"sulama proje"
+],
+"yasak": [
+"baraj doluluk"
+],
+"kaynak": [
+[
+"baraj-1",
+"c:baraj_1"
+],
+[
+"baraj-2",
+"c:baraj_2"
+]
+],
+"aciklama": "Manavgat'taki Oymapınar Barajı — Temsilî fotoğraf"
+},
+{
+"sinif": "konu",
+"konu": "baraj",
+"kimlik": "Dim Barajı",
+"grup": "baraj-alanya",
+"oncelik": 3.8,
+"ilceler": [
+"Alanya"
+],
+"anahtar": [
+"baraj",
+"gölet",
+"sulama kanal",
+"sulama proje"
+],
+"yasak": [
+"baraj doluluk"
+],
+"kaynak": [
+[
+"baraj-alanya-1",
+"c:baraj_4"
+],
+[
+"baraj-alanya-2",
+"c:baraj_5"
+]
+],
+"aciklama": "Alanya'daki Dim Barajı — Arşiv fotoğrafı (2016)"
+},
+{
+"sinif": "yer",
+"kimlik": "Syedra Antik Kenti",
+"oncelik": 3.6,
+"baslikta": false,
+"anahtar": [
+"syedra"
+],
+"kaynak": [
+[
+"syedra",
+"c:antik_0"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Phaselis Antik Kenti",
+"oncelik": 3.6,
+"baslikta": false,
+"anahtar": [
+"phaselis"
+],
+"kaynak": [
+[
+"phaselis",
+"c:antik_5"
+]
+]
+},
+{
+"sinif": "yer",
+"kimlik": "Antalya Kaleiçi",
+"grup": "kaleici",
+"oncelik": 4.5,
+"baslikta": false,
+"anahtar": [
+"kaleiçi",
+"yat limanı",
+"tarihi liman"
+],
+"kaynak": [
+[
+"kaleici-1",
+"c:kaleici2_3"
+],
+[
+"kaleici-2",
+"c:kaleici2_4"
+]
+]
+},
+{
+"sinif": "yer",
+"grup": "antalya",
+"genel": true,
+"oncelik": 5,
+"sahne": "manzara",
+"yasak_kategoriler": [
+"Spor",
+"Asayiş"
+],
+"yerel": true,
+"anahtar": [
+"antalya"
+],
+"gerekli": [
+"turizm",
+"turist",
+"otel",
+"tatilci",
+"plaj",
+"sahil",
+"ziyaretçi",
+"konaklama",
+"nüfus",
+"il olma",
+"milli gelir",
+"kişi başı",
+"yaşam kalitesi"
+],
+"kimlik": "Antalya kent merkezi ve Beydağları",
+"aciklama": "Antalya kent merkezi — Arşiv fotoğrafı (2022)",
+"kaynak": [
+[
+"antalya-kent-1",
+"c:antalya2_0"
+],
+[
+"antalya-kent-2",
+"c:antalya2_4"
+]
+]
+},
+{
+"sinif": "yer",
+"grup": "antalya",
+"genel": true,
+"oncelik": 5,
+"sahne": "manzara",
+"yasak_kategoriler": [
+"Spor",
+"Asayiş"
+],
+"yerel": true,
+"anahtar": [
+"antalya"
+],
+"gerekli": [
+"turizm",
+"turist",
+"otel",
+"tatilci",
+"plaj",
+"sahil",
+"ziyaretçi",
+"konaklama",
+"nüfus",
+"il olma",
+"milli gelir",
+"kişi başı",
+"yaşam kalitesi"
+],
+"kimlik": "Konyaaltı Sahili ve Beydağları",
+"aciklama": "Antalya, Konyaaltı Sahili — Arşiv fotoğrafı (2023)",
+"kaynak": [
+[
+"antalya-kent-3",
+"c:antalya2_1"
+]
+]
+},
+{
+"sinif": "yer",
+"grup": "alanya",
+"oncelik": 5,
+"sahne": "manzara",
+"yasak_kategoriler": [
+"Spor",
+"Asayiş"
+],
+"yerel": true,
+"anahtar": [
+"alanya"
+],
+"gerekli": [
+"turizm",
+"turist",
+"otel",
+"tatilci",
+"plaj",
+"sahil",
+"ziyaretçi",
+"konaklama",
+"nüfus",
+"il olma",
+"milli gelir",
+"kişi başı",
+"yaşam kalitesi"
+],
+"kimlik": "Alanya kent ve sahil",
+"aciklama": "Alanya, kaleden kent ve sahil — Arşiv fotoğrafı",
+"kaynak": [
+[
+"alanya-kent-1",
+"c:antalya2_6"
+],
+[
+"alanya-kent-2",
+"c:alanya2_1"
+],
+[
+"alanya-kent-3",
+"c:alanya2_2"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "nukleer",
+"kimlik": "Akkuyu Nükleer Güç Santrali",
+"oncelik": 3.7,
+"anahtar": [
+"nükleer",
+"akkuyu"
+],
+"aciklama": "Akkuyu Nükleer Güç Santrali inşaatı — Arşiv fotoğrafı (2023)",
+"kaynak": [
+[
+"nukleer",
+"c:nukleer_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "kurek",
+"kimlik": "Kürek",
+"grup": "kurek",
+"oncelik": 3.8,
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Turizm"
+],
+"anahtar": [
+"re:kurek(?![a-z])",
+"kürek yarış",
+"kürek şampiyon",
+"kürekçi",
+"kano"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"kurek-1",
+"u:kurek_3"
+],
+[
+"kurek-2",
+"u:kurek_5"
+],
+[
+"kurek-3",
+"u:kurek_7"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "sup",
+"kimlik": "Kürek sörfü (SUP)",
+"grup": "sup",
+"oncelik": 3.7,
+"kategoriler": [
+"Spor",
+"Yaşam",
+"Gündem",
+"Turizm"
+],
+"anahtar": [
+"re:sup(?![a-z])",
+"stand up paddle",
+"kürek sörf"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"sup-1",
+"u:sup_1"
+],
+[
+"sup-2",
+"u:sup_3"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "atm",
+"kimlik": "ATM",
+"grup": "atm",
+"oncelik": 3.8,
+"anahtar": [
+"re:atm(?![a-z])",
+"bankamatik"
+],
+"hassas": true,
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"atm-1",
+"u:atm_7"
+],
+[
+"atm-2",
+"u:atm_0"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "dogumgunu",
+"kimlik": "Doğum günü pastası",
+"grup": "dogum-gunu",
+"oncelik": 3.9,
+"anahtar": [
+"doğum günü",
+"doğum gününü",
+"yaş günü",
+"yaş gününü"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"dogum-gunu-1",
+"u:dogumgunu_4"
+],
+[
+"dogum-gunu-2",
+"u:dogumgunu_5"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "aritma",
+"kimlik": "Atık su arıtma tesisi",
+"grup": "aritma",
+"oncelik": 3.8,
+"anahtar": [
+"arıtma",
+"atık su",
+"atıksu",
+"kanalizasyon arıt"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"aritma-1",
+"u:aritma_1"
+],
+[
+"aritma-2",
+"u:aritma_3"
+],
+[
+"aritma-3",
+"u:aritma_7"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "konferans",
+"kimlik": "Konferans salonu",
+"grup": "konferans",
+"oncelik": 4.4,
+"anahtar": [
+"konferans",
+"sempozyum",
+"seminer",
+"söyleşi",
+"panel'",
+"paneli",
+"panelde",
+"konuşmacı"
+],
+"yasak": [
+"iklim değişikliği konferans",
+"taraflar konferans",
+"iklim konferans",
+"cop31"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"konferans-1",
+"u:konferans_2"
+],
+[
+"konferans-2",
+"u:konferans_7"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "istihdam",
+"kimlik": "İş başvurusu",
+"grup": "istihdam",
+"oncelik": 4.0,
+"anahtar": [
+"personel alım",
+"işçi alım",
+"istihdam",
+"iş ilanı",
+"iş başvuru",
+"memur alım",
+"kpss",
+"eleman alım",
+"personel aran",
+"işe alım"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"istihdam-1",
+"u:istihdam_1"
+],
+[
+"istihdam-2",
+"u:istihdam2_1"
+]
+]
+},
+{
+"sinif": "konu",
+"konu": "dereislah",
+"kimlik": "Dere ıslahı",
+"grup": "dere",
+"oncelik": 3.9,
+"hassas": true,
+"anahtar": [
+"dere ıslah",
+"taşkın koruma",
+"taşkın önlem",
+"dere yatağı",
+"dere temizli",
+"ıslah çalışma",
+"derelerinde"
+],
+"aciklama": "Temsilî fotoğraf",
+"kaynak": [
+[
+"dere-1",
+"u:dere2_2"
 ]
 ]
 }
