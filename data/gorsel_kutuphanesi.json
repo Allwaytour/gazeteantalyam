@@ -7598,6 +7598,32 @@
      },
      "t": "2026-11-10T22:38:24+03:00"
     },
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanı ve deniz manzarası temsilî olarak uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:17+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -7636,7 +7662,7 @@
     "dh": "1b23203830388903",
     "sha": "e9c8d22e20d47961302a6a3e"
    },
-   "t": "2026-11-10T22:38:24+03:00",
+   "t": "2026-11-13T03:59:17+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -7901,6 +7927,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya kıyılarındaki gemileri gösteren temsilî bir fotoğraftır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:17+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -7935,7 +7987,11 @@
      "t": "2026-11-08T12:34:55+03:00"
     }
    },
-   "t": "2026-11-08T12:34:55+03:00",
+   "ozet": {
+    "dh": "ffefee8e2464e5e6",
+    "sha": "be6d38e00e93eb40b2038d7c"
+   },
+   "t": "2026-11-13T03:59:17+03:00",
    "teknik": {
     "doygunluk": 29.3,
     "inen": [
@@ -20586,6 +20642,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg/1280px-Cruise_ship_Seven_Seas_Mariner_in_Alanya_harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2982eea301610ca1": {
+   "ozet": {
+    "dh": "cdcdacd8f4b9393f",
+    "sha": "31360c4b798b4f67b79a0a27"
+   },
+   "t": "2026-11-13T03:58:50+03:00",
+   "teknik": {
+    "doygunluk": 29.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.512,
+    "keskinlik": 244,
+    "kontrast": 48,
+    "medyan": 47,
+    "parlaklik": 65,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fatih_Terim_%C3%A7aresiz_%282022%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "29868e3c8f7d9ce1": {
    "icerik": {
     "ana_kutu": [
@@ -21799,6 +21876,27 @@
      },
      "t": "2026-11-12T09:56:20+03:00"
     },
+    "r1:498b8890089b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toprak altı kablo ve sensör görseli, resmi lansman ve eylem planı haberi için uygun değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:33+03:00"
+    },
     "r1:4f674579e192:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -21861,7 +21959,7 @@
     "dh": "d979dbc1c2200406",
     "sha": "7ae7fb407a212785170a8744"
    },
-   "t": "2026-11-12T09:56:20+03:00",
+   "t": "2026-11-13T03:58:33+03:00",
    "teknik": {
     "doygunluk": 21.9,
     "inen": [
@@ -23071,6 +23169,125 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Pueblo_Chemical_Agent-Destruction_Pilot_Plant_Volunteers_%2811452601945%29.jpg/1280px-Pueblo_Chemical_Agent-Destruction_Pilot_Plant_Volunteers_%2811452601945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2e2a3133cc88e0ca": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     310,
+     680,
+     880
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "ekran",
+     "sunum tahtasi",
+     "mikrofon",
+     "sandalye",
+     "kamera"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Cop31 Turkiye pavilyonunda panel duzenleniyor, ekranin onunde konusmaci var.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iklim konferansi",
+     "belediye faaliyetleri",
+     "panel haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "ucak kazasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      437,
+      317,
+      617,
+      381
+     ],
+     [
+      538,
+      447,
+      680,
+      508
+     ],
+     [
+      515,
+      619,
+      684,
+      690
+     ],
+     [
+      517,
+      703,
+      679,
+      773
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:498b8890089b:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Isi Eylem Plani'nin COP31'deki tanitimi doğrudan bu karede net sekilde gorulmektedir.",
+      "gerekli": [
+       {
+        "unsur": "Turkiye Pavilyonu tabelasi veya salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       310,
+       680,
+       880
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "530ecbcb0f4f1169",
+    "sha": "df18e9b99edb1e0688eb8df1"
+   },
+   "t": "2026-11-13T03:58:33+03:00",
+   "teknik": {
+    "doygunluk": 32.0,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 1580,
+    "kontrast": 69,
+    "medyan": 101,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b3b315e8d48f5b8c.jpg"
   },
   "2e3dd7ffb30433e1": {
    "icerik": {
@@ -28113,6 +28330,27 @@
      },
      "t": "2026-11-08T15:19:06+03:00"
     },
+    "r1:498b8890089b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sinema salonu koltukları görseli iklim değişikliği ve ısı eylem planı haberiyle tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:33+03:00"
+    },
     "r1:5e1bc2283a6b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -28248,7 +28486,7 @@
     "dh": "58180e0787ccc1c3",
     "sha": "8a26fb39ea5d8c04388b2c6b"
    },
-   "t": "2026-11-11T20:40:27+03:00",
+   "t": "2026-11-13T03:58:33+03:00",
    "teknik": {
     "doygunluk": 10.3,
     "inen": [
@@ -32511,6 +32749,87 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.jpg/1280px-1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4357a16f13bac57f": {
+   "icerik": {
+    "ana_kutu": [
+     257,
+     351,
+     622,
+     735
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "stadyum",
+     "otopark",
+     "yeşil saha",
+     "karayolu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havadan Başakşehir Fatih Terim Stadyumu ve otopark görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "stadyum haberi",
+     "spor altyapısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f67bb29294:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Haber Alanya ile ilgili ancak fotoğrafta İstanbul'daki Fatih Terim Stadyumu var.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "342d15511f961e6f",
+    "sha": "b53a4ed85d9b42019ab43fa7"
+   },
+   "t": "2026-11-13T03:58:59+03:00",
+   "teknik": {
+    "doygunluk": 27.3,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 462,
+    "kontrast": 34,
+    "medyan": 94,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ba%C5%9Fak%C5%9Fehir_Fatih_Terim_Stadyumu_%E2%80%93_D%C4%B1%C5%9F_manzara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "4383f1222b8c6ce1": {
    "icerik": {
     "ana_kutu": [
@@ -36477,6 +36796,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Kids_participating_in_our_seine_net_program_at_Mason_Neck_%2814197688527%29.jpg/1280px-Kids_participating_in_our_seine_net_program_at_Mason_Neck_%2814197688527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4d8e76472c0ce253": {
+   "icerik": {
+    "ana_kutu": [
+     16,
+     0,
+     994,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mikrofon",
+     "eşofman",
+     "logo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fatih Terim basın toplantısında konuşuyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberi",
+     "teknik direktör açıklaması"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      14,
+      183,
+      563,
+      796
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:34f67bb29294:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Fatih Terim'in net portresi yer alıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       16,
+       0,
+       994,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6716b2d2ce4e59e9",
+    "sha": "12f23989394f56878f4b6fbf"
+   },
+   "t": "2026-11-13T03:58:59+03:00",
+   "teknik": {
+    "doygunluk": 32.4,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.335,
+    "keskinlik": 270,
+    "kontrast": 65,
+    "medyan": 111,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Fatih_Terim_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "4d96033bad0b27cf": {
    "icerik": {
     "ana_kutu": [
@@ -37783,6 +38194,27 @@
      },
      "t": "2026-11-08T16:36:58+03:00"
     },
+    "r1:498b8890089b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyeye ait otobüs görseli eylem planı lansmanı haberi için yetersiz ve alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:33+03:00"
+    },
     "r1:b0953f3914ad:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -37994,7 +38426,7 @@
     "dh": "73ebf9e8cd406126",
     "sha": "d8931e4eddd003b0aa7478e8"
    },
-   "t": "2026-11-11T14:09:10+03:00",
+   "t": "2026-11-13T03:58:33+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -51023,6 +51455,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'yı gösteren temsilî bir karedir, ancak Fatih Terim yer almamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:17+03:00"
+    },
     "r1:5f0df68677ae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -51096,7 +51554,7 @@
     "dh": "1882c74fe3931343",
     "sha": "048fbb13f59147aa3db23236"
    },
-   "t": "2026-11-11T00:38:05+03:00",
+   "t": "2026-11-13T03:59:17+03:00",
    "teknik": {
     "doygunluk": 31.4,
     "inen": [
@@ -59155,6 +59613,34 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'da çekilmiş bir parasailing görseli temsilî olarak kullanılabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       44,
+       755,
+       222,
+       858
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yabancı bayrak"
+      ]
+     },
+     "t": "2026-11-13T03:58:59+03:00"
+    },
     "r1:79e1fd898a17:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -59432,34 +59918,13 @@
       "yasak": []
      },
      "t": "2026-11-08T18:03:22+03:00"
-    },
-    "r1:fe4d0e29c7cc:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya manzarası olsa da akaryakıt zammı haberiyle tamamen ilgisizdir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:36:27+03:00"
     }
    },
    "ozet": {
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-12T18:03:37+03:00",
+   "t": "2026-11-13T03:58:59+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -62670,6 +63135,87 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Elway_Transit_Company_truck_trailer_car_Sandusky%2C_Ohio_-_DPLA_-_9f04c7c7b683d5763dfaaccb5c45aeb1.jpg/1280px-Elway_Transit_Company_truck_trailer_car_Sandusky%2C_Ohio_-_DPLA_-_9f04c7c7b683d5763dfaaccb5c45aeb1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "87d9de413ca5ad46": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "uçak kanadı",
+     "bulut",
+     "şehir",
+     "orman"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Uçak penceresinden görünen şehir ve doğa manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "seyahat haberi",
+     "havacılık"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "yerel yönetim haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f67bb29294:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf haberin konusuyla tamamen ilgisiz bir uçak penceresi manzarasıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bfac9517470f1713",
+    "sha": "e0e3475c25af0975d35e03d9"
+   },
+   "t": "2026-11-13T03:58:59+03:00",
+   "teknik": {
+    "doygunluk": 17.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1478,
+    "kontrast": 32,
+    "medyan": 143,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ba%C5%9Fak%C5%9Fehir_20170825.jpg/1280px-Ba%C5%9Fak%C5%9Fehir_20170825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "87fb40302cf8e162": {
    "icerik": {
@@ -67041,6 +67587,87 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Royal_Thai_Police%2C_Toyota_Hilux_traffic_police_car..jpg/1280px-Royal_Thai_Police%2C_Toyota_Hilux_traffic_police_car..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "91a44168345e192e": {
+   "icerik": {
+    "ana_kutu": [
+     223,
+     266,
+     614,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "stadyum",
+     "bariyer",
+     "otopark",
+     "bayraklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Başakşehir Fatih Terim Stadyumu dış cephesi ve otopark girişi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "stadyum haberi",
+     "spor tesisleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f67bb29294:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Haber Alanya ile ilgili fakat fotoğrafta İstanbul'daki Fatih Terim Stadyumu yer alıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "08010f270f0b0200",
+    "sha": "529b6a3e42290f0066523667"
+   },
+   "t": "2026-11-13T03:58:59+03:00",
+   "teknik": {
+    "doygunluk": 27.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.244,
+    "keskinlik": 2185,
+    "kontrast": 58,
+    "medyan": 102,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ba%C5%9Fak%C5%9Fehir_Fatih_Terim_Stadyumu_20171213_%281%29.jpg/1280px-Ba%C5%9Fak%C5%9Fehir_Fatih_Terim_Stadyumu_20171213_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "91ceec601b446b7b": {
    "icerik": {
@@ -71861,6 +72488,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümünü ve limanını net yansıtan genel bir karedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:17+03:00"
+    },
     "r1:79e1fd898a17:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -72111,40 +72764,6 @@
      },
      "t": "2026-11-11T09:11:04+03:00"
     },
-    "r1:e86b796573be:mekan": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel bir manzarası, voleybol etkinliği ile doğrudan bir bağı yok.",
-      "gerekli": [
-       {
-        "unsur": "plaj voleybolu sahası",
-        "var": false
-       },
-       {
-        "unsur": "voleybol filesi",
-        "var": false
-       },
-       {
-        "unsur": "sporcular",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:54:54+03:00"
-    },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -72233,7 +72852,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-12T18:03:37+03:00",
+   "t": "2026-11-13T03:59:17+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -85064,6 +85683,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf Alanya'yi gosterse de Fatih Terim'in aciklama haberi icin uygun degil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:02+03:00"
+    },
     "r1:b00b87b45aa4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -85095,7 +85735,11 @@
      "t": "2026-11-08T12:34:41+03:00"
     }
    },
-   "t": "2026-11-08T12:34:41+03:00",
+   "ozet": {
+    "dh": "487ff89210510847",
+    "sha": "369c99d0c045d066d10f6307"
+   },
+   "t": "2026-11-13T03:59:02+03:00",
    "teknik": {
     "doygunluk": 38.2,
     "inen": [
@@ -86455,7 +87099,78 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg/1280px-View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "bd1321a91055fb49": {
-   "t": "2026-11-08T15:08:26+03:00",
+   "icerik": {
+    "ana_kutu": [
+     480,
+     68,
+     860,
+     248
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tekne",
+     "kale surları",
+     "deniz",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Denizde seyreden gezi teknesi ve arkasında Alanya kale surları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberleri",
+     "şehir tanitimi",
+     "seyahat yazıları"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "röportaj",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f67bb29294:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın il statüsü talebi haberi için uygun ve temiz bir ilçe manzara görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e1b271ebab6be1f",
+    "sha": "1a0a6bd48a0b27d6d72dfd1d"
+   },
+   "t": "2026-11-13T03:59:17+03:00",
    "teknik": {
     "doygunluk": 37.6,
     "inen": [
@@ -93692,6 +94407,41 @@
      },
      "t": "2026-11-08T14:39:18+03:00"
     },
+    "r1:5f4fb20440b4:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Stadyum fotoğrafı iç saha maçı haberleri için kullanılabilir ancak maç anını yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": false
+       },
+       {
+        "unsur": "futbolcular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       297,
+       131,
+       622,
+       888
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:59:27+03:00"
+    },
     "r1:a73321659ea5:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -93761,7 +94511,11 @@
      "t": "2026-11-08T11:38:12+03:00"
     }
    },
-   "t": "2026-11-08T15:14:51+03:00",
+   "ozet": {
+    "dh": "1313e0cc3c528020",
+    "sha": "b4e79ca308215b528e1f9598"
+   },
+   "t": "2026-11-13T03:59:27+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
@@ -99473,6 +100227,27 @@
      },
      "t": "2026-11-10T13:37:48+03:00"
     },
+    "r1:498b8890089b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyenin eski bir otobüs fotoğrafı iklim eylem planı toplantısı haberiyle bağdaşmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-13T03:58:33+03:00"
+    },
     "r1:8c02ac069380:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -99689,7 +100464,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-11T14:09:10+03:00",
+   "t": "2026-11-13T03:58:33+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -118373,6 +119148,73 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "2e2a3133cc88e0ca": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Cop31 Turkiye pavilyonunda panel duzenleniyor, ekranin onunde konusmaci var.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-13T03:58:33+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/cop31de-antalya-buyuksehir-belediyesinin-%E2%80%9Cantalya-isi-eylem-plani%E2%80%9Dnin-lansmani-yapildi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Turkiye Pavilyonu tabelasi veya salonu",
+    "ekran",
+    "kamera",
+    "mikrofon",
+    "sandalye",
+    "sunum tahtasi"
+   ],
+   "kucuk": "/images/kurum/b3b315e8d48f5b8c.jpg",
+   "kullanilabilir": [
+    "iklim konferansi",
+    "belediye faaliyetleri",
+    "panel haberleri"
+   ],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin",
+    "ucak kazasi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-13T03:58:33+03:00",
+   "url": "/images/kurum/b3b315e8d48f5b8c.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "2f0185bb47168250": {
    "alt_tur": "kisi_genel",
