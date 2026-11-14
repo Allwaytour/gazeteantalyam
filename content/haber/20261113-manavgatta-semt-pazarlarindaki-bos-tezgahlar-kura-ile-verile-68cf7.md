@@ -78,6 +78,8 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1776188590443-99e93967af57?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1573143032716-1a0f125f482d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1545898073-346e42dc7357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8dmVnZXRhYmxlJTIwcHJpY2VzJTIwbWFya2V0JTIwZ3JlZW5ob3VzZSUyMFR1cmtleXxlbnwxfDB8fHwxNzkzODYxOTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_duzeltme: yapılaca→yapılacak
+yazim_denetim: y1
 ---
 Manavgat'ta pazarcılık yapan esnafı yakından ilgilendiren yeni bir tahsis süreci başlatıldı. Belediye sınırları içinde yer alan 13 mahalledeki semt pazarlarında boş durumda olan satış alanları, gerekli şartları taşıyan esnafa kura yöntemiyle dağıtılacak. Başvuruda bulunmak isteyen esnafın, talep ettiği pazar yerini belirterek 23 Kasım 2026 mesai bitimine kadar Zabıta Müdürlüğü'ne müracaat etmesi gerekiyor.
 
@@ -85,4 +87,4 @@ Belediye tarafından yapılan tespit çalışmalarına göre; Çolaklı, Ilıca,
 
 Boş tezgahlar için başvuracak esnafın sebze, meyve veya izin verilen diğer gıda ve ihtiyaç maddelerinin ticaretiyle uğraşması, ilgili meslek kuruluşuna kayıtlı olması ve vergi mükellefiyetinin bulunması şartı aranıyor. Ayrıca son bir yıl içinde belediye tarafından tahsis iptali veya kira sözleşmesi feshi kararı verilmemiş olması gerekiyor. Başvuru dosyasında nüfus cüzdanı fotokopisi, taahhütname, vergi belgesi, oda kayıt belgesi, borcu yoktur yazısı ve vesikalık fotoğrafların sunulması isteniyor.
 
-Başvuruların tamamlanmasının ardından incelemeler yapılacaķ ve kuraya katılmaya hak kazananların listesi 28 Aralık 2026 tarihinde belediye ilan panosu ile internet sitesinde duyurulacak. Askı süresince yapılacak itirazların değerlendirilmesinin ardından boş pazar yerlerinin tahsisi kura çekimiyle tamamlanacak.
+Başvuruların tamamlanmasının ardından incelemeler yapılacakķ ve kuraya katılmaya hak kazananların listesi 28 Aralık 2026 tarihinde belediye ilan panosu ile internet sitesinde duyurulacak. Askı süresince yapılacak itirazların değerlendirilmesinin ardından boş pazar yerlerinin tahsisi kura çekimiyle tamamlanacak.

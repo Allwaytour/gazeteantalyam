@@ -1,7 +1,7 @@
 ---
 title: Alanya'da Taha Miraç icin yardim konseri düzenlenecek
 date: '2026-11-13T13:16:40+03:00'
-ozet: Tedavi masrafları icin yürütülen kampanyaya destek olmak amacıyla düzenlenecek gecede ünlü sarkiici Lara sahne alacak.
+ozet: Tedavi masrafları icin yürütülen kampanyaya destek olmak amacıyla düzenlenecek gecede ünlü şarkıcı Lara sahne alacak.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 gorsel_kredi: 'Fotoğraf: Radek Grzybowski rgrzybowski / Wikimedia Commons (CC0)'
 kategoriler:
@@ -81,10 +81,11 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/89/Ye%C5%9Filbah%C3%A7e%2C_Lara_Cd._65_A%2C_07160_Muratpa%C5%9Fa-Antalya%2C_Turkey_-_panoramio.jpg
-yazim_duzeltme: 'masraflari→masrafları; amaciyla→amacıyla; kapsaminda→kapsamında; liralik→liralık; tamamlanmasi→tamamlanması; baslatilan→başlatılan; seferberligi→seferberliği; insanlari→insanları; vatandaslarin→vatandaşların; destegiyle→desteğiyle; saglamak→sağlamak; Çarsamba→Çarşamba; aksami→akşamı; gerçeklestirilecek→gerçekleştirilecek; etkinligin→etkinliğin; sanatçi→sanatçı; sarkici→şarkıcı; onayli→onaylı; bagis→bağış; hesaplari→hesapları; destegin→desteğin; saglik→sağlık; katilmak→katılmak; destegi→desteği; '
+yazim_duzeltme: sarkiici→şarkıcı; masrafin→masrafın; dayanisima→dayanışma; geçebilecegi→geçebileceği
+yazim_denetim: y1
 ---
-Alanya'da sürdürülen tedavi süreci kapsamında, kalan 10 milyon liralık masrafin tamamlanması amacıyla başlatılan dayanisima seferberliği büyümeye devam ediyor. Kentteki kurumlar, is insanları ve vatandaşların desteğiyle yürütülen kampanyaya katkI sağlamak amacıyla özel bir yardim gecesi organize ediliyor.
+Alanya'da sürdürülen tedavi süreci kapsamında, kalan 10 milyon liralık masrafın tamamlanması amacıyla başlatılan dayanışma seferberliği büyümeye devam ediyor. Kentteki kurumlar, is insanları ve vatandaşların desteğiyle yürütülen kampanyaya katkI sağlamak amacıyla özel bir yardim gecesi organize ediliyor.
 
 Yardim amacıyla planlanan yemekli organizasyon, 18 Kasim 2026 Çarşamba akşamı saat 19.00'da Alanya Keyfi Ala Restaurant'ta gerçekleştirilecek. Valilik izniyle yürütülen etkinliğin sanatçı kadrosunda ünlü şarkıcı Lara'nin yani sira Fatih Gürpinar ve Mehmet Mollamustafaoğlu yer alacak.
 
-Valilik onaylı bağış hesapları üzerinden de destek verilebilen kampanyada, gerekli finansal desteğin toplanarak sağlık sürecinin tamamlanması hedefleniyor. Organizasyona katılmak veya sponsorluk desteği sağlamak isteyenlerin yetkililerle iletişime geçebilecegi belirtildi.
+Valilik onaylı bağış hesapları üzerinden de destek verilebilen kampanyada, gerekli finansal desteğin toplanarak sağlık sürecinin tamamlanması hedefleniyor. Organizasyona katılmak veya sponsorluk desteği sağlamak isteyenlerin yetkililerle iletişime geçebileceği belirtildi.

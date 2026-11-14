@@ -75,6 +75,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1611689102192-1f6e0e52df0a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Akciğer enfeksiyonu sonucu gelişen ve halk arasında zatürre olarak bilinen pnömoni hastalığına karşı uzmanlar uyarılarda bulundu. Alanya Eğitim ve Araştırma Hastanesi’nde görev yapan ve Alanya Alaaddin Keykubat Üniversitesi Tıp Fakültesi Göğüs Hastalıkları Anabilim Dalı Başkanı olan Prof. Dr. Özkan Yetkin, 12 Kasım Dünya Pnömoni Günü kapsamında yaptığı değerlendirmede hastalığın ciddiyetine dikkat çekti. Zatürrenin özellikle beş yaş altındaki çocuklar, altmış beş yaş üzerindekiler, bağışıklığı zayıf olanlar ve kronik rahatsızlığı bulunan bireylerde daha ağır tablolara yol açabildiğini ifade etti.
 

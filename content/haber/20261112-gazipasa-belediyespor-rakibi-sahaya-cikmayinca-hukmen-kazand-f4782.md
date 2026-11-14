@@ -76,9 +76,11 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: maının→maçının
+yazim_denetim: y1
 ---
 Profesyonelliğe Geçiş Ligi 12. Grup'	a mücadele eden Gazipaşa Belediyespor, ligin beşinci haftasında sahasında Turgutreisspor ile karşı karşıya gelecekti. Gazipaşa İlçe Stadı'ında oynanması planlanan mücadele, Muğla temsilcisinin deplasmana gelmemesi sebebiyle gerçekleşmedi. Rakibin sahaya çıkmaması üzerine Antalya ekibi mücadeleden 3-0 hükmen galip ayrıldı.
 
-Bu sonuçla birlikte Akdeniz temsilcisi, bu sezon ikinci kez rakibinin sahaya çıkmamasıyla üç puanın sahibi oldu. Ligin ilk haftasını bay geçen Gazipaşa Belediyespor, ikinci haftada da Keçiborlu Belediyespor'ın maça çıkmaması nedeniyle 3-0 hükmen kazanmıştı. Turgutreisspor maının hükmen tescillenmesiyle birlikte puanını 7'ye çıkaran ev sahibi ekip, ligdeki ilk dört mücadelesini iki galibiyet, bir beraberlik ve bir mağlubiyetle geride bırakmış olacak.
+Bu sonuçla birlikte Akdeniz temsilcisi, bu sezon ikinci kez rakibinin sahaya çıkmamasıyla üç puanın sahibi oldu. Ligin ilk haftasını bay geçen Gazipaşa Belediyespor, ikinci haftada da Keçiborlu Belediyespor'ın maça çıkmaması nedeniyle 3-0 hükmen kazanmıştı. Turgutreisspor maçının hükmen tescillenmesiyle birlikte puanını 7'ye çıkaran ev sahibi ekip, ligdeki ilk dört mücadelesini iki galibiyet, bir beraberlik ve bir mağlubiyetle geride bırakmış olacak.
 
 Teknik direktör Levent Sayın yönetimindeki Antalya temsilcisi, ligin altıncı haftasında deplasmanda Kulusan Yem Kulu Belediyespor ile karşılaşacak. Gazipaşa ekibi, zorlu Konya deplasmanından da galibiyetle dönerek puan cetvelinde üst sıralara tırmanmayı hedefliyor.

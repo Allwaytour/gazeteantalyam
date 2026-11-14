@@ -11744,6 +11744,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg/1280px-Joint_Task_Force-Bravo_partners_with_Urban_Search_and_Rescue_%289376785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "15b5c2d1fc4b553d": {
+   "icerik": {
+    "ana_kutu": [
+     415,
+     116,
+     626,
+     568
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "trafik bariyeri",
+     "trafik levhası",
+     "asfalt yol",
+     "çam ağaçları",
+     "kar kalıntıları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ormanlık alanda yol kapatma bariyerleri ve trafik levhaları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol çalıșmaları",
+     "trafik düzenlemeleri",
+     "ulaşım haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi röportaj",
+     "magazin",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yol kapatma bariyerleri görülüyor ancak yabancı tabelalar ve yerel olmayan ortam nedeniyle yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "polis, trafik işareti veya bariyer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       415,
+       116,
+       626,
+       568
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:09:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0881e3438980238b",
+    "sha": "8fec68d2bf385d814471f7d8"
+   },
+   "t": "2026-11-14T11:09:25+03:00",
+   "teknik": {
+    "doygunluk": 31.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.187,
+    "keskinlik": 4340,
+    "kontrast": 72,
+    "medyan": 129,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Road_closure_at_Fishing_Bridge_Junction_%2844710714434%29.jpg/1280px-Road_closure_at_Fishing_Bridge_Junction_%2844710714434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "15b76ff6cec07981": {
    "icerik": {
     "ana_kutu": [
@@ -18904,6 +18998,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "23058640c0751cf9": {
+   "icerik": {
+    "ana_kutu": [
+     42,
+     43,
+     826,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plastik bariyer",
+     "metal iskele parçaları",
+     "yapraklar",
+     "toprak zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toprak zeminde üst üste yığılmış renkli plastik trafik bariyerleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yol çalışması",
+     "trafik ekipmanları",
+     "belediye hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "canlı yayın",
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol kapatma uyarısı için temsili plastik bariyerler gösteriliyor ancak sokakta kurulmuş bir trafik kısıtlaması yok.",
+      "gerekli": [
+       {
+        "unsur": "trafik işareti veya bariyer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       42,
+       43,
+       826,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:09:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b87c6642898aec6",
+    "sha": "97c209c6a64d477a05fee580"
+   },
+   "t": "2026-11-14T11:10:10+03:00",
+   "teknik": {
+    "doygunluk": 56.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.429,
+    "keskinlik": 2074,
+    "kontrast": 53,
+    "medyan": 63,
+    "parlaklik": 73,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1787630551765-89b52eb29b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8dHJhZmZpYyUyMGJhcnJpZXIlMjBzdHJlZXQlMjBjbG9zdXJlfGVufDF8MHx8fDE3OTQ2NDM3NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "23303f105792a7a0": {
    "icerik": {
@@ -35763,6 +35950,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.jpg/1280px-1._%26_2._Red-headed_woodpecker._1._Adult._2._Young._3._Downy_woodpecker_%28male%29_LCCN2003664023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4303dfe046b6b545": {
+   "icerik": {
+    "ana_kutu": [
+     504,
+     216,
+     725,
+     353
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "otomobil",
+     "yol",
+     "ağaç saksısı",
+     "trafik şeridi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş bir şehir yolu üzerinde seyreden araçlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik haberleri",
+     "şehir içi ulaşım"
+    ],
+    "uygunsuz_baglamlar": [
+     "özel etkinlik duyuruları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir şehir yolu gösterse de yabancı bir ülkeye ait olması ve yol kapatma uyarısını yansıtmaması nedeniyle yetersiz.",
+      "gerekli": [
+       {
+        "unsur": "polis, trafik işareti veya bariyer",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:10:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f1f0f0b9e07630f",
+    "sha": "7837f26dfd24ccc6bc5f0765"
+   },
+   "t": "2026-11-14T11:10:10+03:00",
+   "teknik": {
+    "doygunluk": 21.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.093,
+    "keskinlik": 1139,
+    "kontrast": 64,
+    "medyan": 160,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/An_urban_road_and_traffic_in_Bangalore_Karnataka_India_April_2014.jpg/1280px-An_urban_road_and_traffic_in_Bangalore_Karnataka_India_April_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4357a16f13bac57f": {
    "icerik": {
     "ana_kutu": [
@@ -38284,6 +38556,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg/1280px-Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "49cfc5a9ee3aaf9e": {
+   "icerik": {
+    "ana_kutu": [
+     318,
+     317,
+     882,
+     959
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "otomobil",
+     "asker",
+     "beton bariyer",
+     "askeri araç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askerlerin ve güvenlik bariyerlerinin bulunduğu sokakta otomobiller",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "güvenlik kontrolü",
+     "askeri haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "trafik kısıtlaması duyurusu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      318,
+      226,
+      796,
+      303
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Askeri kontrol noktası görüntüsü Antalya'daki sivil trafik kısıtlaması haberi için uygun ve doğru değil.",
+      "gerekli": [
+       {
+        "unsur": "polis, trafik işareti veya bariyer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       318,
+       317,
+       882,
+       959
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:10:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "163e33a7c3c7b29c",
+    "sha": "125800800f598a991c2df535"
+   },
+   "t": "2026-11-14T11:10:10+03:00",
+   "teknik": {
+    "doygunluk": 15.4,
+    "inen": [
+     500,
+     321
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 1321,
+    "kontrast": 73,
+    "medyan": 118,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Citizens_Accept_Concrete_Barriers_for_Improved_Security_DVIDS76312.jpg/1280px-Citizens_Accept_Concrete_Barriers_for_Improved_Security_DVIDS76312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "49d6b3f518cdcd8b": {
    "icerik": {
@@ -61085,6 +61454,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Stolen_%22The_Gypsy_Girl%22_mosaic_parts_comes_from_US_to_Turkey.jpg/1280px-Stolen_%22The_Gypsy_Girl%22_mosaic_parts_comes_from_US_to_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7b97f6ee0d0de1bd": {
+   "icerik": {
+    "ana_kutu": [
+     305,
+     451,
+     855,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "trafik bariyeri",
+     "trafik konisi",
+     "sokak lambası",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti sokakta yol kapatma bariyerleri ve trafik konileri",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik kısıtlaması",
+     "yol çalışması",
+     "ulaşım uyarısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşması",
+     "ekonomi haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik kısıtlamasını temsil eden bariyer ve koniler görülüyor, ancak gece çekilmiş yabancı bir sokak.",
+      "gerekli": [
+       {
+        "unsur": "trafik işareti veya bariyer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       305,
+       451,
+       855,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:09:58+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e3e2f9e9dbc3e1f",
+    "sha": "3df39d203c454bf724c3dab6"
+   },
+   "t": "2026-11-14T11:10:10+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.234,
+    "keskinlik": 3448,
+    "kontrast": 49,
+    "medyan": 86,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chatham_Waterfront_Bus_Station_improvement_works_with_pedestrian_barriers_and_traffic_cones%2C_Chatham%2C_Kent%2C_England_-_3_October_2025.jpg/1280px-Chatham_Waterfront_Bus_Station_improvement_works_with_pedestrian_barriers_and_traffic_cones%2C_Chatham%2C_Kent%2C_England_-_3_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7bf56c54c2aa1113": {
    "icerik": {
@@ -101757,13 +102220,44 @@
       "yasak": []
      },
      "t": "2026-11-08T21:05:24+03:00"
+    },
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Trafik polisi detayı var ancak yabancı dilde 'TRAFFIC' yazısı ve yabancı ülke görünümü var.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:09:25+03:00"
     }
    },
    "ozet": {
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-13T11:58:42+03:00",
+   "t": "2026-11-14T11:09:25+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -102754,6 +103248,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cdae789f19d27a8d": {
+   "ozet": {
+    "dh": "b1b51d1f87060b92",
+    "sha": "729da4090b69c82dc7e98734"
+   },
+   "t": "2026-11-14T11:09:32+03:00",
+   "teknik": {
+    "doygunluk": 46.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.466,
+    "keskinlik": 4114,
+    "kontrast": 62,
+    "medyan": 54,
+    "parlaklik": 72,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Night-time_road_closure_and_improvement_works_at_Chatham_Waterfront_Bus_Station_showing_workers%2C_warning_signs%2C_safety_barriers_and_JCB_excavator_on_Globe_Lane%2C_Chatham%2C_Kent%2C_England.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cdccd609978ec3b6": {
    "ozet": {
@@ -121114,6 +121629,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f5b298b6d2a482d3": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     482,
+     792,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kırmızı plastik bariyer",
+     "polis üniforması",
+     "kağıt plan",
+     "asfalt zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı plastik bariyer önünde çömelmiş polis ve kadın elinde plan tutuyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik uyarısı",
+     "yol kapatma",
+     "polis açıklaması"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "magazin",
+     "sanat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      20,
+      600,
+      196,
+      680
+     ],
+     [
+      74,
+      768,
+      308,
+      890
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ea37c6f5909c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Polis ve bariyer bulunuyor ancak yabancı unsurlar içerdiği için yerel haberde kısmen yanıltıcı.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       },
+       {
+        "unsur": "trafik işareti veya bariyer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       482,
+       792,
+       946
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:10:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "79e3e2e2c69e160b",
+    "sha": "752b50625f4abab66e4bb698"
+   },
+   "t": "2026-11-14T11:10:10+03:00",
+   "teknik": {
+    "doygunluk": 30.5,
+    "inen": [
+     500,
+     347
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 1302,
+    "kontrast": 60,
+    "medyan": 135,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Day_315_-_West_Midlands_Police_-_Tackling_Street_Racers_%288169532471%29.jpg/1280px-Day_315_-_West_Midlands_Police_-_Tackling_Street_Racers_%288169532471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f5b73a040234f890": {
    "icerik": {

@@ -1,5 +1,5 @@
 ---
-title: 'Bakan Gökças: Geleceğimizi sizlere emanet edeceğiz'
+title: 'Bakan Göktaş: Geleceğimizi sizlere emanet edeceğiz'
 date: '2026-11-13T14:58:52+03:00'
 ozet: Antalya'da düzenlenen COP31 kapsamındaki Uluslararası Çocuk Forumu'nda konuşan Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, gençlerle birlikte değişimi gerçekleştireceklerini belirtti.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
@@ -50,7 +50,7 @@ otomatik: true
 yz: true
 kaynak: Habertürk
 kaynak_url: https://yerel-haberler.haberturk.com/antalya-haberleri/bakan-goktas-sizlerle-beraber-bu-degisimi-yapacagiz-119521291
-gorsel_yedek: /images/haber-gorsel/20261113-bakan-gokcas-gelecegimizi-sizlere-emanet-edecegiz-7b352-44d659fa.jpg
+gorsel_yedek: /images/haber-gorsel/20261113-bakan-gokcas-gelecegimizi-sizlere-emanet-edecegiz-7b352-ac10fcc4.jpg
 gorsel_yerlesim:
   boyut:
   - 4608
@@ -75,9 +75,12 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+baslik_onceki: 'Bakan Gökças: Geleceğimizi sizlere emanet edeceğiz'
+yazim_duzeltme: Gökças→Göktaş; ustendigini→üstlendiğini
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen Birlesmis Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) etkinlikleri sürüyor. Zirve kapsamında organize edilen 27'nci Uluslararası Çocuk Forumu'na katılan Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, programda gençlerin projelerini dinledi.
 
-Gençlerin hazırladıkları çalışmaları dinleyen ve sunumlarını inceleyen Bakan Göktaş, çocukların geleceğin biçimlenmesinde kritik bir rol ustendigini ifade etti. Toplumun her kesiminde farkındalık oluşturmak ve yeni bir dönem başlatmak için çocukların katkılarına duyulan ihtiyacın altını çizen Göktaş, gençlerin bu süreçte ellerinden gelenin en iyisini yapacağına inandığını dile getirdi.
+Gençlerin hazırladıkları çalışmaları dinleyen ve sunumlarını inceleyen Bakan Göktaş, çocukların geleceğin biçimlenmesinde kritik bir rol üstlendiğini ifade etti. Toplumun her kesiminde farkındalık oluşturmak ve yeni bir dönem başlatmak için çocukların katkılarına duyulan ihtiyacın altını çizen Göktaş, gençlerin bu süreçte ellerinden gelenin en iyisini yapacağına inandığını dile getirdi.
 
 Değişimin bireysel adımlarla başlaması gerektiğini vurgulayan Göktaş, geleceğin gençlere emanet edileceğini belirtti. Daha adil ve iyi bir dünyanın ancak çocukların katkılarıyla mümkün olacağını ifade eden Bakan, gençlerin önünü açmak için destek vermeye devam edeceklerini kaydetti.

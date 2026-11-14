@@ -77,10 +77,11 @@ metin_onarim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
-yazim_duzeltme: Degisikligi→Değişikliği; Cerceve→Çerçeve; Sozlesmesi→Sözleşmesi; Konferansi→Konferansı; Valiligi→Valiliği
+yazim_duzeltme: ksitlama→kısıtlama; otobuselrinin→otobüslerinin; araclarriyla→araçlarıyla; ksitlamayi→kısıtlamayı
+yazim_denetim: y1
 ---
-Antalya'da düzenlenen Birlesmis Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında yeni trafik tedbirleri alındı. Yapılan duyuruya göre, 14 ile 21 Kasım 2026 tarihleri arasında Turizm Yolu ile EXPO Bulvarı'nın kesisği kavşak ve bulvar güzergahı araç trafiğine sınırlandırılacak. Sekiz gün süresince uygulanacak ksitlama boyunca söz konusu güzergah yalnızca organizasyona hizmet veren ve COP31 görselleriyle giydirilen servis otobuselrinin kullanımına açık olacak.
+Antalya'da düzenlenen Birlesmis Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında yeni trafik tedbirleri alındı. Yapılan duyuruya göre, 14 ile 21 Kasım 2026 tarihleri arasında Turizm Yolu ile EXPO Bulvarı'nın kesisği kavşak ve bulvar güzergahı araç trafiğine sınırlandırılacak. Sekiz gün süresince uygulanacak kısıtlama boyunca söz konusu güzergah yalnızca organizasyona hizmet veren ve COP31 görselleriyle giydirilen servis otobüslerinin kullanımına açık olacak.
 
-Alınan karara göre, bölgede ikameti bulunan veya iş yeri yer alan vatandaşlar bu uygulamadan muaf tutulacak. Bu kişiler, araclarriyla güzergahı kullanmaya devam edebilecek. Yetkililer, sürücülerin mağduriyet yaşamaması için ulaşım planlamalarını bu ksitlamayi dikkate alarak yapması gerektiğini vurguladı.
+Alınan karara göre, bölgede ikameti bulunan veya iş yeri yer alan vatandaşlar bu uygulamadan muaf tutulacak. Bu kişiler, araçlarıyla güzergahı kullanmaya devam edebilecek. Yetkililer, sürücülerin mağduriyet yaşamaması için ulaşım planlamalarını bu kısıtlamayı dikkate alarak yapması gerektiğini vurguladı.
 
 COP31 süresince hayata geçirilen tüm trafik tedbirleri, kapalı yollar ve alternatif güzergah bilgileri Antalya Valiliği tarafından kurulan goCOP31 Dijital Bilgilendirme Platformu üzerinden paylaşılıyor. Vatandaşlar platform aracılığıyla güncel duyuruları, servis güzergahlarını ve otopark bilgilerini takip edebiliyor.

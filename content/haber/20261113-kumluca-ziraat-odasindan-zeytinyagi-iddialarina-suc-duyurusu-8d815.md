@@ -85,6 +85,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
+yazim_denetim: y1
 ---
 Antalya'nın Kumluca ilçesinde faaliyet gösteren Ziraat Odasına bağlı Zeytinyağı Sıkma Ünitesi İktisadi İşletmesi'nde meydana gelen olay, tarafları karşı karşıya getirdi. Tesisinde zeytin siktran T.A. isimli vatandaş, elde ettiği yağ miktarının az olduğunu öne sürerek sosyal medya hesabından görüntülü paylaşımda bulundu. 20 kilogram zeytinden yalnızca 1 kilogram zeytinyağı aldığını iddia eden vatandaş, mağdur edildiğini ve hakkının yendiğini savundu.
 

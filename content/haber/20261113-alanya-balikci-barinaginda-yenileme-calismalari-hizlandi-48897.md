@@ -1,5 +1,5 @@
 ---
-title: Alanya Balıkçı Barınağı'nda yenileme çalışmaları hizlandi
+title: Alanya Balıkçı Barınağı'nda yenileme çalışmaları hızlandı
 date: '2026-11-13T14:21:00+03:00'
 ozet: Alanya Balıkçı Barınağı'nda uzun süredir yaşanan çökme ve tahribat sorunlarını gidermek amacıyla başlatılan kapsamlı yenileme çalışmaları devam ediyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/1/1e/Turkey_%28Istanbul-%C5%9Eile%29_Colorful_fishing_harbor_%2827423133653%29.jpg
@@ -50,7 +50,7 @@ otomatik: true
 yz: true
 kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-balikci-barinaginda-calismalar-tam-gaz
-gorsel_yedek: /images/haber-gorsel/20261113-alanya-balikci-barinaginda-yenileme-calismalari-hizlandi-4889-db55d6b7.jpg
+gorsel_yedek: /images/haber-gorsel/20261113-alanya-balikci-barinaginda-yenileme-calismalari-hizlandi-4889-d41938a5.jpg
 gorsel_yerlesim:
   boyut:
   - 2304
@@ -77,6 +77,9 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1627862079351-7bcdcba0c1f1?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1545214766-04116e13521c?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Alanya Balıkçı Barınağı'nda yenileme çalışmaları hizlandi
+yazim_duzeltme: hizlandi→hızlandı
+yazim_denetim: y1
 ---
 Alanya Balıkçı Barınağı'nda uzun süredir gündemde yer alan çökme ve tahribat sorunlarının çözülmesi için hazırlanan projede saha çalışmalarına geçildi. Daha önce aktarılan 40 milyon liralık ödenekle hayata geçirilen projede, turizm sezonunun sona ermesinin ardından ekipler çalışmalarını yoğunlaştırdı. Hasar gören bölümlerde söküm ve zemin yenileme işlemleri sürdürülüyor.
 

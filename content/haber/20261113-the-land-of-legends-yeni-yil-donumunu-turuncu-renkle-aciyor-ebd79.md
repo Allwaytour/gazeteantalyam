@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
+yazim_denetim: y1
 ---
 Antalya'nın önemli eğlence merkezlerinden The Land of Legends, Legendary New Year dönemini 14 Kasım Cumartesi günü saat 19.00'da Chateau bölgesinde düzenleyeceği programla başlatıyor. LÖSEV iş birliğiyle hayata geçirilecek bu özel organizasyon, yeni yıl coşkusunu anlamlı bir sosyal sorumluluk mesajıyla buluşturuyor.
 
