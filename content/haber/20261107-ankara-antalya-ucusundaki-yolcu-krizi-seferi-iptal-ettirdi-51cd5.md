@@ -152,6 +152,7 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Ankara ile Antalya arasında gerçekleştirilmesi planlanan bir uçuşta yaşandığı belirtilen olay, havacılık güvenliği ve operasyonel süreçleri bir kez daha gündeme getirdi. Biniş işlemlerinin tamamlanmasının ardından uçaktaki bir yolcunun son anda seyahat etmek istemediğini belirterek inme talebinde bulunduğu aktarıldı. Ekibin tüm ikna çabalarına rağmen bu kararından vazgeçmeyen kişi nedeniyle uçuş ekibi güvenlik prosedürlerini devreye soktu.
 

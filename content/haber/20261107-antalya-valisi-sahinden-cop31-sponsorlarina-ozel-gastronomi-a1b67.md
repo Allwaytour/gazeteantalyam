@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://images.unsplash.com/photo-1770319675767-9e97855ef639?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1484156818044-c040038b0719?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın ev sahipliğinde yürütülen çalışmalar çerçevesinde, COP31 boyunca Antalya Evi’nde misafirlere sunulacak geleneksel tatların tanıtıldığı bir gastronomi buluşması gerçekleştirildi. Antalya Valisi Hulusi Şahin ve eşi Ebru Şahin'in ev sahipliğinde yapılan programa, projeye destek veren sponsorlar katıldı. Toplantıda, kentin köklü mutfak kültürünü uluslararası platforma taşıyacak menü üzerine ayrıntılı bir sunum yapıldı.
 

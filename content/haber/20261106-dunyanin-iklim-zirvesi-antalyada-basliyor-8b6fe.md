@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Dünyanın geleceğini şekillendirecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), 9 Kasım 2026 tarihinde Antalya'da kapılarını açıyor. "Dünyanın İklim Zirvesi Türkiye’de. Hep Birlikte Daha Temiz Bir Geleceğe" mottosuyla gerçekleştirilecek dev organizasyon, 20 Kasım'a kadar devam edecek. Zirveye devlet başkanları, bakanlar, bilim insanları ve çok sayıda küresel aktör katılım sağlayacak.
 

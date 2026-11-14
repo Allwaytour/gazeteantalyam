@@ -149,9 +149,11 @@ gorsel_yerlesim:
   o_kart: 50% 21%
   url: https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080
 gorsel_yedek: /images/haber-gorsel/20261106-halil-cibranin-ermis-eseri-antalyada-sahnelenecek-44a67-13b053e3.jpg
+yazim_duzeltme: sahjede→sahnede
+yazim_denetim: y1
 ---
 Yüz yılı aşkın süredir güncelliğini koruyan ve insanlığın ortak hafızasına dokunan Ermiş, şiirle tiyatroyu, anlatıcılıkla oyunculuğu tek bir sahnede harmanlıyor. Yalnızca bir bilgenin sözlerini değil, insan olma haline dair kadim ve evrensel bir sorgulamayı merkezine alan yapım, izleyicilere derin ve keyifli bir seyir deneyimi sunmayı amaçlıyor. 
 
-Modern meddah geleneğinin anlatım imkanlarıyla hazırlanan eserin uyarlamasını ve yapımını JÜT üstlenirken, sahjede tek başına yer alan Edip Tepeli performans sergileyecek. 
+Modern meddah geleneğinin anlatım imkanlarıyla hazırlanan eserin uyarlamasını ve yapımını JÜT üstlenirken, sahnede tek başına yer alan Edip Tepeli performans sergileyecek. 
 
 Etkinlik için biletler, erken satış kampanyası fırsatlarıyla birlikte Biletinial.com üzerinden izleyicilerin satışına sunuldu. Tiyatro tutkunları, 18 Aralık tarihinde Antalya Türkan Şoray Kültür Merkezi'nde gerçekleştirilecek bu özel gösterimi izleme fırsatı bulacak.

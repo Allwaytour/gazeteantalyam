@@ -85,9 +85,11 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+yazim_duzeltme: ikibin→iki bin; kültürfaaliyeti→kültür faaliyeti; etkinlikleringerçekleştirileceği→etkinliklerin gerçekleştirileceği
+yazim_denetim: y1
 ---
 Antalya'da düzenlenecek COP31 Birlestirilmis Milletler İklim Zirvesi kapsamında kültürel etkinliklere ev sahipliği yapacak olan Türk Telekom Büyük Amfitiyatro'nun konumu araştırılmaya başlandı. Zirve kapsamındaki ücretsiz etkinliklere katılmak isteyen vatandaşlar, amfitiyatronun nerede olduğunu öğrenmek istiyor.
 
-Dokuz yirmi Kasım ikibin yirmi altı tarihleri arasında Antalya EXPO alanında gerçekleştirilecek zirve boyunca pek çok sanat ve kültürfaaliyeti düzenlenecek. Bu etkinlikleringerçekleştirileceği noktalardan biri olan Türk Telekom Büyük Amfitiyatro, Antalya EXPO alanının Yeşil Bölgesi içerisinde yer alıyor.
+Dokuz yirmi Kasım iki bin yirmi altı tarihleri arasında Antalya EXPO alanında gerçekleştirilecek zirve boyunca pek çok sanat ve kültür faaliyeti düzenlenecek. Bu etkinliklerin gerçekleştirileceği noktalardan biri olan Türk Telekom Büyük Amfitiyatro, Antalya EXPO alanının Yeşil Bölgesi içerisinde yer alıyor.
 
 Açık hava etkinlikleri için kullanılan amfitiyatro, zirve süresince çeşitli konser ve gösterilere sahne olacak. Etkinlik takviminde bulunan Anadolu Ateşi gösterisi ile bazı konserler de bu amfitiyatroda sanatseverlerle buluşacak. Genel katılıma açık ve ücretsiz olarak gerçekleşecek gösterilerin yoğun ilgi görmesi bekleniyor.

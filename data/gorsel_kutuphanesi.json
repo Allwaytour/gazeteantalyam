@@ -17473,6 +17473,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Konyaalt%C4%B1_Beach.jpg/1280px-Konyaalt%C4%B1_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "203782833561f1fc": {
+   "icerik": {
+    "ana_kutu": [
+     260,
+     60,
+     680,
+     760
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "cami kubbesi",
+     "duvar",
+     "demir parmaklık",
+     "modern bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pembe tonlarında kubbeli tarihi bir cami ve çevresindeki modern binalar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi yapı haberleri",
+     "restorasyon",
+     "şehir kültürü"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi cami var ancak yasaklı unsur olan modern binalar ve kalabalık görünüyor.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       60,
+       680,
+       760
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "modern bina"
+      ]
+     },
+     "t": "2026-11-14T13:39:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "771735513018dcff",
+    "sha": "a811988f8188c2c953c43bf6"
+   },
+   "t": "2026-11-14T13:39:22+03:00",
+   "teknik": {
+    "doygunluk": 13.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.113,
+    "keskinlik": 2554,
+    "kontrast": 69,
+    "medyan": 146,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Historic_Sat_Gambuz_Mosque_of_Dhaka.jpg/1280px-Historic_Sat_Gambuz_Mosque_of_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "204d7e5e84500d97": {
    "icerik": {
     "ana_kutu": [
@@ -33127,6 +33226,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg/1280px-Hotel_Alcazar_%28Lightner_Museum_and_City_Hall%29%2C_King_Street%2C_St._Augustine%2C_FL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3d83c4ef25ae7f99": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     68,
+     970,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami",
+     "minare",
+     "kubbe",
+     "bulut",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gün batımında Sultanahmet Camii ve minarelerinin dıştan görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi eser haberleri",
+     "mimari yapılar",
+     "turizm tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşmaları",
+     "siyasi tartışmalar",
+     "adli vakalar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi cami ve minareleri net şekilde görülmektedir, restorasyon haberi için uygun temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       68,
+       970,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00899dece4d2c97b",
+    "sha": "9261a6df990bf0b853fb624f"
+   },
+   "t": "2026-11-14T13:39:51+03:00",
+   "teknik": {
+    "doygunluk": 15.5,
+    "inen": [
+     500,
+     348
+    ],
+    "karanlik_oran": 0.074,
+    "keskinlik": 1538,
+    "kontrast": 72,
+    "medyan": 207,
+    "parlaklik": 170,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Sultan_Ahmet_Mosque_%28247578181%29.jpeg/1280px-Sultan_Ahmet_Mosque_%28247578181%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3d858402aa43af14": {
    "icerik": {
     "ana_kutu": [
@@ -33610,6 +33807,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Klauenpflege_Kuh_9787.jpg/1280px-Klauenpflege_Kuh_9787.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3e2c2070e119b25d": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     350,
+     715,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "at arabası",
+     "bina",
+     "cami",
+     "minare",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geçmiş dönem İstanbul sokak görünümü ve tarihi yapı",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi belgeseller",
+     "eski İstanbul",
+     "nostalji haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel restorasyon haberleri",
+     "modern mimari",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski dönem İstanbul'u gösterdiği için güncel bir restorasyon haberiyle dönem çelişkisi yaratır.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2c09484c4c2c27db",
+    "sha": "6f5ea994b73a4a85f0e9ed62"
+   },
+   "t": "2026-11-14T13:39:51+03:00",
+   "teknik": {
+    "doygunluk": 25.7,
+    "inen": [
+     500,
+     367
+    ],
+    "karanlik_oran": 0.122,
+    "keskinlik": 2994,
+    "kontrast": 72,
+    "medyan": 149,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tophane_Place_Istanbul.jpg/1280px-Tophane_Place_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3e448b09ffede042": {
    "ozet": {
@@ -35694,6 +35984,104 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Blood_donation_by_members_of_the_Iranian_Red_Crescent_Society.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "429795c92a4d2aa3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     940,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kubbe",
+     "avize",
+     "halı",
+     "pencere",
+     "sütun"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sultanahmet Camii'nin iç mekanı, kubbeler ve vitray pencereler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "mimari",
+     "tarihi mekanlar",
+     "ibadethane haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "siyaset",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Caminin iç mekanını göstermektedir ancak minare unsuru eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       940,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "131b3b1ab5f59bdb",
+    "sha": "a8266e95a4b607a7811a11df"
+   },
+   "t": "2026-11-14T13:39:51+03:00",
+   "teknik": {
+    "doygunluk": 27.2,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.428,
+    "keskinlik": 2718,
+    "kontrast": 52,
+    "medyan": 55,
+    "parlaklik": 69,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Blue_Mosque_%28The_Sultan_Ahmed_Mosque%29_%288395592135%29.jpg/1280px-Blue_Mosque_%28The_Sultan_Ahmed_Mosque%29_%288395592135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "429e0cce458d773a": {
    "icerik": {
@@ -60321,6 +60709,102 @@
    },
    "url": "https://images.unsplash.com/photo-1461595520627-42e3c83019bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHdvJTIwbWVuJTIwZHJpbmtpbmclMjB0ZWF8ZW58MXwwfHx8MTc5NDMyNjg2MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "7512cbea6c1c7ad7": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     80,
+     880,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kırmızı tuğla duvar",
+     "beyaz kubbe",
+     "minare",
+     "avlu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş avlulu, büyük kubbeli ve minareli tarihi kırmızı tuğlalı cami.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi eserler",
+     "mimari",
+     "restorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi cami ve minareleri net şekilde görülüyor, temsilî olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       80,
+       880,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0eb136f2d4d4e6f0",
+    "sha": "d66e2fc627187ada749347bc"
+   },
+   "t": "2026-11-14T13:39:22+03:00",
+   "teknik": {
+    "doygunluk": 17.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.026,
+    "keskinlik": 965,
+    "kontrast": 73,
+    "medyan": 194,
+    "parlaklik": 179,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1653673662935-ae19b645096f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8aGlzdG9yaWMlMjBtb3NxdWUlMjBhcmNoaXRlY3R1cmV8ZW58MXwwfHx8MTc5NDY1Mjc1NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "753df8aab6672e43": {
    "icerik": {
     "ana_kutu": [
@@ -67185,6 +67669,104 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Modern_field_clearance_cairn_next_to_the_Gorseddau_Tramway_-_geograph.org.uk_-_1815085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "81ed53dacdf636d3": {
+   "icerik": {
+    "ana_kutu": [
+     78,
+     225,
+     822,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami",
+     "minare",
+     "kubbe",
+     "deniz",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sultanahmet Camii'nin deniz manzaralı dış cephe görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi yapılar",
+     "mimari inceleme",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi cami ve minareleri net olarak görünmektedir, restorasyon haberi için uygun temsilî karedir.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       78,
+       225,
+       822,
+       970
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0f4d7531f6cf2b",
+    "sha": "9aa59c9e40bc67d7a67b8ebb"
+   },
+   "t": "2026-11-14T13:39:51+03:00",
+   "teknik": {
+    "doygunluk": 11.6,
+    "inen": [
+     500,
+     255
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 893,
+    "kontrast": 55,
+    "medyan": 148,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Blue_Mosque_%28The_Sultan_Ahmed_Mosque%29_%288396648956%29_cropped.jpg/1280px-Blue_Mosque_%28The_Sultan_Ahmed_Mosque%29_%288396648956%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "81f48b22d714b189": {
    "ozet": {
@@ -84843,6 +85425,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a5b0ae28f19f54f5": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     20,
+     800,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "posta pulu",
+     "cami kubbesi",
+     "minare"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Posta pulu üzerinde tarihi bir caminin kubbe ve minare detayları.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "pul koleksiyonu",
+     "tarihi mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel olay haberi",
+     "restorasyon haberi",
+     "canlı yayın"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü bir posta puluna ait ve üzerinde yazılar var, haber için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       20,
+       800,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1d1d0d5171691b2f",
+    "sha": "87e3b58a91d6d759e5efebb1"
+   },
+   "t": "2026-11-14T13:39:22+03:00",
+   "teknik": {
+    "doygunluk": 39.4,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 2233,
+    "kontrast": 79,
+    "medyan": 208,
+    "parlaklik": 156,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Stamp_of_Azerbaijan_-_2017_-_Colnect_768681_-_Historic_Architecture_-_Mosque_of_Shamakhi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "a63cac9a8bccbb02": {
    "icerik": {
@@ -113495,6 +114172,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Kayseri_Lisesi_M%C3%BCzesi_3.jpg/1280px-Kayseri_Lisesi_M%C3%BCzesi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e238abc27025e902": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuğla kemer",
+     "sütun",
+     "mermer zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir caminin tuğla kemerli ve işlemeli iç avlu koridoru.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari haberleri",
+     "tarihi eser haberleri",
+     "kapsamlı onarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "ekonomi haberleri",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi cami yapısını gösteriyor ancak minare görünmüyor ve yabancı bir yapı.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c67070d8ccd4566c",
+    "sha": "daf280b21a37eb4bb491c027"
+   },
+   "t": "2026-11-14T13:39:22+03:00",
+   "teknik": {
+    "doygunluk": 48.9,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.187,
+    "keskinlik": 4532,
+    "kontrast": 58,
+    "medyan": 100,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Kabood_%28Blue%29_mosque%2C_Tabriz%2C_Iran.jpg/1280px-Kabood_%28Blue%29_mosque%2C_Tabriz%2C_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e23c8aede5ad75b3": {
    "icerik": {
     "ana_kutu": [
@@ -129992,6 +130765,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/20180111_AntalyaMarina_5296_%2826236632848%29.jpg/1280px-20180111_AntalyaMarina_5296_%2826236632848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "feeebad7e5bd49bb": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     930,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami",
+     "minare",
+     "kubbe",
+     "bina",
+     "kuş"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Süleymaniye Camii'nin dışarıdan kubbe ve minare görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "mimari",
+     "tarihi eserler",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c7cd344438d4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir camiyi ve minarelerini göstermektedir, genel bir restorasyon haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "tarihi cami",
+        "var": true
+       },
+       {
+        "unsur": "cami minaresi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       930,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T13:39:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "040cbc70e0684c5d",
+    "sha": "1847293d402dcf529fc0fac1"
+   },
+   "t": "2026-11-14T13:39:51+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.109,
+    "keskinlik": 948,
+    "kontrast": 52,
+    "medyan": 159,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1789111212624-075efc7e8dc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8YW5jaWVudCUyMG1vc3F1ZSUyMGFyY2hpdGVjdHVyZSUyMFR1cmtpc2h8ZW58MXwwfHx8MTc5NDY1Mjc2NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "ff034b000fa67ac2": {
    "icerik": {
     "ana_kutu": [
@@ -133073,6 +133944,70 @@
    "sinif": "konu",
    "son_kabul": "2026-11-13T13:33:18+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg/1280px-DFC_6093_A_colorful_retro_display_rainbow_shelves_filled_with_vintage_records_radios_toy_cars_and_nostalgic_collectibles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "3d83c4ef25ae7f99": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2048,
+    1426
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Gün batımında Sultanahmet Camii ve minarelerinin dıştan görünümü",
+   "gosterim_ad": "restorasyon",
+   "ilk_kabul": "2026-11-14T13:39:51+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Adli Wahid / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Adli Wahid",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmet_Mosque_(247578181).jpeg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç",
+    "bulut",
+    "cami",
+    "cami minaresi",
+    "kubbe",
+    "minare",
+    "tarihi cami"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Sultan_Ahmet_Mosque_%28247578181%29.jpeg/500px-Sultan_Ahmet_Mosque_%28247578181%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarihi eser haberleri",
+    "mimari yapılar",
+    "turizm tanıtımı"
+   ],
+   "kullanilamaz": [
+    "spor karşılaşmaları",
+    "siyasi tartışmalar",
+    "adli vakalar"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-14T13:39:51+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Sultan_Ahmet_Mosque_%28247578181%29.jpeg/1280px-Sultan_Ahmet_Mosque_%28247578181%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
