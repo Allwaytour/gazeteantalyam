@@ -2,8 +2,8 @@
 title: Antalya'da YÖRSİAD üyelerine sağlıklı yaşam eğitimi
 date: '2026-11-12T19:41:51+03:00'
 ozet: Yörük Sanayici ve İş İnsanları Derneği üyeleri, düzenlenen etkinlikte uzman hekimlerden kalp sağlığı ve hastalıklardan korunma yöntemlerini dinledi.
-gorsel: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Tasha Kostyuk / Unsplash'
+gorsel: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: zhang shuaizhang / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
@@ -18,28 +18,28 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
   konu_imza: fc6d47d7f155
-  kaynak_sayfa: https://unsplash.com/photos/Pk-KuizxQv8
-  fotografci: Tasha Kostyuk
+  kaynak_sayfa: https://unsplash.com/photos/P65ogppIhUg
+  fotografci: zhang shuaizhang
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Hastane
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'hastane-1' (Hastane) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'hastane-2' (Hastane) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: hastane-1
-    tarih: '2026-11-13T08:46:30+03:00'
+    arsiv_id: hastane-2
+    tarih: '2026-11-14T15:10:08+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: tipografik
+    tur: arsiv
     durum: onaylandi
 manset: false
 son_dakika: false
@@ -51,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/yorsiad-uyeleri-saglikli-ya
 gorsel_yedek: /images/haber-gorsel/20261112-antalyada-yorsiad-uyelerine-saglikli-yasam-egitimi-fe8a7-c3c865d4.jpg
 gorsel_yerlesim:
   boyut:
-  - 5552
-  - 4164
+  - 4017
+  - 2678
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,10 +70,10 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 yazim_denetim: y1
 ---

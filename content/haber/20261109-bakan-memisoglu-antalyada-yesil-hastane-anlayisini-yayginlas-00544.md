@@ -2,8 +2,8 @@
 title: 'Bakan Memişoğlu: Antalya''da Yeşil Hastane Anlayışını Yaygınlaştırıyoruz'
 date: '2026-11-09T19:11:03+03:00'
 ozet: Sağlık Bakanı Prof. Dr. Kemal Memişoğlu, Antalya'da düzenlenen COP31 kapsamında yaptığı açıklamada, iklim krizine karşı sağlık altyapısını güçlendirdiklerini ve yeşil hastane modelini yaygınlaştırdıklarını belirtti.
-gorsel: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: zhang shuaizhang / Unsplash'
+gorsel: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Tasha Kostyuk / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
@@ -18,23 +18,23 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
   konu_imza: c6db56e0ca60
-  kaynak_sayfa: https://unsplash.com/photos/P65ogppIhUg
-  fotografci: zhang shuaizhang
+  kaynak_sayfa: https://unsplash.com/photos/Pk-KuizxQv8
+  fotografci: Tasha Kostyuk
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Hastane
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'hastane-2' (Hastane) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'hastane-1' (Hastane) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: hastane-2
-    tarih: '2026-11-13T14:45:26+03:00'
+    arsiv_id: hastane-1
+    tarih: '2026-11-14T15:10:37+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
@@ -51,8 +51,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/antalya/saglik-bakani-memisoglu-cop
 gorsel_yedek: /images/haber-gorsel/20261109-bakan-memisoglu-antalyada-yesil-hastane-anlayisini-yayginlas--8128556a.jpg
 gorsel_yerlesim:
   boyut:
-  - 4017
-  - 2678
+  - 5552
+  - 4164
   dikey: false
   surum: y3
   manset: kaplama
@@ -70,10 +70,10 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
