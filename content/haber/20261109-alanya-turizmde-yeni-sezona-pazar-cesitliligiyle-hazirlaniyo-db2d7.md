@@ -72,8 +72,10 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
+yazim_duzeltme: gerçekleştii→gerçekleştiği
+yazim_denetim: y1
 ---
-Alanya'da turizm sektörü, sezonda elde edilen başarıların ardından gelecek yılın hazırlıklarına odaklandı. Rusya, Almanya, İngiltere ve Polonya başta olmak üzere pek çok farklı ülkeden ziyaretçi ağırlayan ilçe, geniş pazar çeşitliliği sayesinde turizmde güçlü bir konumda bulunuyor. Sezon genelinde ortalama doluluk oranlarının yüzde 70 civarında gerçekleştii tahmin ediliyor.
+Alanya'da turizm sektörü, sezonda elde edilen başarıların ardından gelecek yılın hazırlıklarına odaklandı. Rusya, Almanya, İngiltere ve Polonya başta olmak üzere pek çok farklı ülkeden ziyaretçi ağırlayan ilçe, geniş pazar çeşitliliği sayesinde turizmde güçlü bir konumda bulunuyor. Sezon genelinde ortalama doluluk oranlarının yüzde 70 civarında gerçekleştiği tahmin ediliyor.
 
 Bölgede turizm yalnızca deniz, kum ve güneş ile sınırlı kalmayarak sağlık, spor, tarih ve kültür alanlarında da gelişme gösteriyor. Sağlık turizminde diş tedavisi, botoks ve saç ekimi gibi uygulamalar ilgi çekerken, Syedra Antik Kenti'ndeki kazı çalışmaları da kültür turizmine katkı sağlıyor. Yatırımcıların yeni otel yapmaktan ziyade mevcut tesisleri yenileyerek hizmet kalitesini artırması bekleniyor.
 

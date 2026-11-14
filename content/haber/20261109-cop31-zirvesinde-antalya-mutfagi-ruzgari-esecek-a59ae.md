@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Meze_as_a_side_dish.jpg/1280px-Meze_as_a_side_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde gerçekleşecek olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), Antalya'da başlıyor. Çevre politikalarının yanı sıra kentin gastronomi kültürünü de dünyaya tanıtmayı hedefleyen zirve için hazırlıklar tamamlandı. Antalya Evi'nde ağırlanacak uluslararası konuklar için özel bir menü hazırlandı.
 

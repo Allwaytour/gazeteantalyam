@@ -77,9 +77,11 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: çalıştıs→çalıştı
+yazim_denetim: y1
 ---
 Profesyonelliğe Geçiş Ligi 12. Grup'un beşinci haftasında Marmaris Belediyesi FK, deplasmanda Manavgat Belediyespor'un konuğu olacak. İki ekip arasındaki mücadele 12 Kasım 2026 Perşembe günü saat 14.00'te Manavgat Atatürk Stadı'nda oynanacak.
 
-Zorlu deplasman maçı öncesi hazırlıklarına devam eden Muğla temsilcisi, Erkan Işıksal Spor Tesisleri içerisindeki Bilgin Özkaynak Halı Sahası'nda çalıştıs. Ligdeki son karşılaşmasında Korkuteli Belediye SK ile Ula'da 2-2 berabere kalan konuk ekip, geride kalan dört haftada iki beraberlik ve iki yenilgi alarak 2 puan topladı. Teknik direktör Sercan Yıldırım yönetimindeki Marmaris ekibi, Manavgat deplasmanından galibiyetle ayrılarak bu sezonki ilk üç puanını hanesine yazdırmayı hedefliyor.
+Zorlu deplasman maçı öncesi hazırlıklarına devam eden Muğla temsilcisi, Erkan Işıksal Spor Tesisleri içerisindeki Bilgin Özkaynak Halı Sahası'nda çalıştı. Ligdeki son karşılaşmasında Korkuteli Belediye SK ile Ula'da 2-2 berabere kalan konuk ekip, geride kalan dört haftada iki beraberlik ve iki yenilgi alarak 2 puan topladı. Teknik direktör Sercan Yıldırım yönetimindeki Marmaris ekibi, Manavgat deplasmanından galibiyetle ayrılarak bu sezonki ilk üç puanını hanesine yazdırmayı hedefliyor.
 
 Ev sahibi konumundaki Manavgat Belediyespor ise oynadığı dört müsabakada üç galibiyet ve bir beraberlik elde etti. Topladığı 10 puanla grupta ikinci sırada yer alan ev sahibi ekip, taraftarı önünde kazanarak çıkışını sürdürmek istiyor.

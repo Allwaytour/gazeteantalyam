@@ -73,6 +73,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+yazim_denetim: y1
 ---
 Konyaaltı Beach Park’ta müzikseverlerle bir araya gelen arabesk ve fantezi müziğin tanınan sanatçısı Hakan Altun, en popüler şarkılarını seslendirdi. Konser alanını dolduran kalabalık, sanatçının seslendirdiği eserlere büyük bir coşkuyla eşlik etti.
 

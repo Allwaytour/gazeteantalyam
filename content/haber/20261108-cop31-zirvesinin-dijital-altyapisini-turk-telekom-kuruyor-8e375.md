@@ -75,6 +75,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_denetim: y1
 ---
 Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek olan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), önemli bir teknolojik iş birliğine sahne olacak. Organizasyonun 'Küresel Dijital Dönüşüm ve Teknoloji' destekçisi olan Türk Telekom, zirvenin dijital altyapısını uçtan uca kurarak uluslararası delegasyonlar ve basın mensupları için kesintisiz iletişim imkânı sağlayacak.
 

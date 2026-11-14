@@ -80,9 +80,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_duzeltme: Katimcilarin→Katılımcıların; yigilmeleri→yığılmaları
+yazim_denetim: y1
 ---
 Antalya'da ev sahipliği yapılan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında olağanüstü bir katılım baş gösterdi. Organizasyonun resmi hesapları üzerinden yapılan açıklamada, Akreditasyon ve Rozet Toplama Merkezi'nde yoğun bir hareketlilik yaşanıldığı bildirildi.
 
-Katimcilarin işlemlerini kolaylaştırmak amacıyla merkezlerin çalışma saatlerinde düzenlemeye gidildi. Alınan kararla birlikte Akreditasyon ve Rozet Toplama Merkezi, 9 Kasım Pazartesi ve 10 Kasım Salı günlerinde saat 21.00'e kadar hizmet vermeyi sürdürecek.
+Katılımcıların işlemlerini kolaylaştırmak amacıyla merkezlerin çalışma saatlerinde düzenlemeye gidildi. Alınan kararla birlikte Akreditasyon ve Rozet Toplama Merkezi, 9 Kasım Pazartesi ve 10 Kasım Salı günlerinde saat 21.00'e kadar hizmet vermeyi sürdürecek.
 
-Yetkililer, merkezdeki yigilmeleri azaltmak ve süreçleri hızlandırmak adına katılımcılara çağrıda bulundu. Acil sahada görevi bulunmayanların rozetlerini 10 Kasım Salı günü teslim alması tavsiye edildi.
+Yetkililer, merkezdeki yığılmaları azaltmak ve süreçleri hızlandırmak adına katılımcılara çağrıda bulundu. Acil sahada görevi bulunmayanların rozetlerini 10 Kasım Salı günü teslim alması tavsiye edildi.

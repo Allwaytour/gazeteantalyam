@@ -74,9 +74,11 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1779185249245-b1e518a6f7fc?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_duzeltme: taşınacek→taşınacak
+yazim_denetim: y1
 ---
 Küresel enerji ve finans dünyasının önde gelen isimleri, Antalya'da gerçekleştirilecek COP31 kapsamında önemli bir zirvede bir araya geliyor. Etkinlik kapsamında düzenlenecek iki özel oturumda, geleceğin enerji politikaları ve bu dönüşümün finansman süreçleri detaylı bir şekilde masaya yatırılacak.
 
 Uluslararası Enerji Ajansı İcra Direktörü Dr. Fatih Birol ve sektörün önde gelen temsilcilerinin katılım sağlayacağı buluşmada, elektriğin küresel enerji tüketimi içerisindeki payının 2035 yılına kadar yüzde 35 seviyesine çıkarılması hedefi tartışılacak. Küresel ölçekte enerji dönüşümünün yol haritası ve gerekli yatırımların nasıl finanse edileceği, alanında uzman isimler tarafından değerlendirilecek.
 
-Toplantılarda enerji politikaları ve elektrifikasyon başlıkları ele alınacak. Zirve kapsamındaki özel yayınlar ve canlı aktarımlar, 11 Kasım saat 11.00 itibarıyla Antalya'dan ekranlara taşınacek.
+Toplantılarda enerji politikaları ve elektrifikasyon başlıkları ele alınacak. Zirve kapsamındaki özel yayınlar ve canlı aktarımlar, 11 Kasım saat 11.00 itibarıyla Antalya'dan ekranlara taşınacak.

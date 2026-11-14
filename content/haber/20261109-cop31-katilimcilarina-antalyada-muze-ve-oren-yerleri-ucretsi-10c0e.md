@@ -79,9 +79,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_duzeltme: tanimaisina→tanımasına; donusturularak→dönüştürülerek
+yazim_denetim: y1
 ---
 Birleşmiş Milletler Ilim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na ilişkin hazırlıklar kapsamında, uluslararası organizasyon kapasitesini, sürdürülebilir turizm çalışmalarını ve kultursel zenginliği tanıtmak icin geniş bir program hazırlandı. Yapılan açıklamalara göre, uluslararası katılımcıların turizm potansiyelini keşfetmesi ve küresel tanıtımın güçlendirilmesi amaçlandı.
 
-Organize edilecek etkinlikler kapsamında tüm resmi heyet katılımcılarının Antalya'da ilgili bakanlığa bağlı müze ve ören yerlerini ücretsiz olarak ziyaret edebileceği bildirildi. Ayrıca Side Ören Yeri'nde gece müzeciliği uygulamasının sürdürüleceği ve katılımcıların toplantılar dışında kentin tarihi ve kultursel zenginliklerini tanimaisina imkan sağlanacağı belirtildi.
+Organize edilecek etkinlikler kapsamında tüm resmi heyet katılımcılarının Antalya'da ilgili bakanlığa bağlı müze ve ören yerlerini ücretsiz olarak ziyaret edebileceği bildirildi. Ayrıca Side Ören Yeri'nde gece müzeciliği uygulamasının sürdürüleceği ve katılımcıların toplantılar dışında kentin tarihi ve kultursel zenginliklerini tanımasına imkan sağlanacağı belirtildi.
 
-Sektörün karar vericilerine yönelik gerçekleştirilecek buluşmalarda yeni iş birliklerinin önünün açılması hedeflenirken, kentin doğal, tarihi ve kultursel değerlerinin yerinde tanıtılacağı ifade edildi. Toplantı sonrasında ise EXPO alanının uluslararası ölçekte bir fuar, kongre ve etkinlik merkezine donusturularak kentin turizm potansiyeline katkı sunmasının planlandığı kaydedildi.
+Sektörün karar vericilerine yönelik gerçekleştirilecek buluşmalarda yeni iş birliklerinin önünün açılması hedeflenirken, kentin doğal, tarihi ve kultursel değerlerinin yerinde tanıtılacağı ifade edildi. Toplantı sonrasında ise EXPO alanının uluslararası ölçekte bir fuar, kongre ve etkinlik merkezine dönüştürülerek kentin turizm potansiyeline katkı sunmasının planlandığı kaydedildi.

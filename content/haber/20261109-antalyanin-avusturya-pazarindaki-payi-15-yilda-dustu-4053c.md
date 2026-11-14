@@ -73,6 +73,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/4/47/Antalya_lara_da_bir_otel_%2A%C2%A9Abdullah_Kiyga_-_panoramio.jpg
 gorsel_gecmis: []
 baslik_ozgun: Antalya'nin Avusturya pazarindaki payi 15 yilda dustu
+yazim_denetim: y1
 ---
 Akdeniz Turistik Otelciler ve İşletmeciler Birliği (AKTOB), Avusturya pazarındaki turizm hareketlilik verilerini inceleyen kapsamlı bir rapor yayımladı. Hazırlanan raporda, 2026 sonbahar tatili rezervasyonlarında Antalya'nın kısa ve orta mesafeli tatil rotaları arasında ilk sıraya yerleştiği görülse de, uzun vadeli istatistiklerin düşüş eğilimine işaret ettiği belirtildi.
 

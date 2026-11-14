@@ -1,5 +1,5 @@
 ---
-title: Fatma Şahin Antalya'daki etkinlikte döngüsel gidayi anlattı
+title: Fatma Şahin Antalya'daki etkinlikte döngüsel gıdayı anlattı
 date: '2026-11-09T19:18:00+03:00'
 ozet: Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Antalya'da düzenlenen FOLLOWR4FS Girişimi'nde kentin döngüsel gıda sistemini paylaştı.
 gorsel: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/RecyclingBinsMarkham.jpg/1280px-RecyclingBinsMarkham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
@@ -48,7 +48,7 @@ otomatik: true
 yz: true
 kaynak: Son Dakika
 kaynak_url: https://www.sondakika.com/cevre/haber-fatma-sahin-antalya-daki-followr4fs-te-gaziantep-20411240/
-gorsel_yedek: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-b0127e8e.jpg
+gorsel_yedek: /images/haber-gorsel/20261109-fatma-sahin-antalyadaki-etkinlikte-dongusel-gidayi-anlatti-98-353d4044.jpg
 gorsel_yerlesim:
   boyut:
   - 4928
@@ -75,7 +75,8 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?fm=jpg&q=80&w=1600&fit=max
 baslik_onceki: Fatma Şahin Antalya'daki etkinlikte döngüsel gidayi anlatti
-yazim_duzeltme: anlatti→anlattı
+yazim_duzeltme: gidayi→gıdayı
+yazim_denetim: y1
 ---
 Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Antalya'da gerçekleştirilen FOLLOWR4FS Girişimi kapsamında kentin döngüsel gıda sistemi üzerine bir sunum yaptı. Birleşmiş Milletler Gıda ve Tarım Örgütü ile Tarım ve Orman Bakanlığının düzenlediği oturumda, gıda israfı ve kayıplarıyla mücadele konuları masaya yatırıldı.
 

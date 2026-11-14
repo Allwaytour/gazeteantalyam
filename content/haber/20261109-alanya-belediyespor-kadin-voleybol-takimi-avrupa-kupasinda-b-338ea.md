@@ -82,6 +82,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1592656094267-764a45160876?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmVhY2glMjB2b2xsZXliYWxsJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDA4NDg3MXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://images.unsplash.com/photo-1639903293252-be7649fab563?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YmVhY2glMjB2b2xsZXliYWxsJTIwbmV0JTIwVHVya2V5fGVufDF8MHx8fDE3OTQwODUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 yazim_duzeltme: Kulubu→Kulübü
+yazim_denetim: y1
 ---
 Alanya Plaj Sporları Merkezi'nde üç gün boyunca devam eden CEV Plaj Voleybolu Avrupa Kulübü Kupası Finalleri, yapılan ödül töreniyle sona erdi. Uluslararası düzeyde pek çok sporcuyu ve kulübü bir araya getiren turnuvada, Alanya Belediyespor kadın takımı mücadelesini beşinci sırada tamamladı. Organizasyon, kentin spor turizmine önemli bir katkı sağladı.
 
