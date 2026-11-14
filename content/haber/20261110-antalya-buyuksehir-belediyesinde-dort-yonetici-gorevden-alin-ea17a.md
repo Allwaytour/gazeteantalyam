@@ -78,9 +78,11 @@ metin_onarim:
   kaynak: http://mobil.hurriyet.com.tr/gundem/antalya-buyuksehir-belediyesinde-4-ust-duzey-yonetici-gorevden-alindi-muhittin-bocekin-akrabalari-da-listede-43372841
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi; yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+yazim_duzeltme: tasarruflarcercevesinde→tasarruflar çerçevesinde
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi'nde üst düzey yönetim kadrosunda değişiklikler yaşandı. Belediyede gerçekleştirilen idari tasarruflar kapsamında bazı kritik görevlerde bulunan isimlerle yollar ayrıldı.
 
 Alınan kararlar doğrultusunda ilk olarak Genel Sekreter Yardımcısı görevini yürüten isim yeni bir düzenlemeyle görevinden alındı. Ardından belediyeye bağlı su ve kanalizasyon Idaresi bünyesindeki bazı daire başkanlıklarında da görevden almalar gerçekleşti.
 
-Söz konusu tasarruflarcercevesinde kurumun genel müdür yardımcılığı pozisyonunda bulunan bir yönetici ile birlikte çevre koruma kontrol dairesi başkanlığı ve idari işler satın alma dairesi başkanlığı görevlerini yürüten isimler de yeni yönetim kararıyla görevlerinden uzaklaştırıldı.
+Söz konusu tasarruflar çerçevesinde kurumun genel müdür yardımcılığı pozisyonunda bulunan bir yönetici ile birlikte çevre koruma kontrol dairesi başkanlığı ve idari işler satın alma dairesi başkanlığı görevlerini yürüten isimler de yeni yönetim kararıyla görevlerinden uzaklaştırıldı.

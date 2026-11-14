@@ -71,6 +71,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Peripheral_blood_smear_of_acute_promyelocytic_leukemia%2C_hypogranular_variant%2C_source_image_%283%29.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 LÖSEV Lösemili Çocuklar Sağlık ve Eğitim Vakfının her yıl gerçekleştirdiği 2-8 Kasım Lösemili Çocuklar Haftası dolayısıyla kentte coşkulu bir yürüyüş ve şenlik organize edildi. "Mucize ve Umudun Adı LÖSEV" sloganıyla yapılan etkinliklerde çok sayıda vatandaş turuncu renkli kıyafetler ve aksesuarlarla sokakları doldurdu.
 

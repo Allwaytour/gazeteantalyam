@@ -1,5 +1,5 @@
 ---
-title: Antalya gokyuzunden iklim krizi icin yenilenebilir enerji çağrısı
+title: Antalya gökyüzünden iklim krizi icin yenilenebilir enerji çağrısı
 date: '2026-11-10T12:41:21+03:00'
 ozet: Greenpeace aktivistleri Antalya'da yamaç paraşütüyle gökyüzüne açtıkları pankartlarla fosil yakıtlardan çıkış ve yenilenebilir enerji vurgusu yaptı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Greenpeace
 kaynak_url: https://www.greenpeace.org/turkey/basin-bultenleri/cop31-devam-ederken-antalyanin-gokyuzunde-gunes-ruzgar-bize-yeter-mesaji/
-gorsel_yedek: /images/haber-gorsel/20261110-antalya-gokyuzunden-iklim-krizi-icin-yenilenebilir-enerji-ca--4ea58d5e.jpg
+gorsel_yedek: /images/haber-gorsel/20261110-antalya-gokyuzunden-iklim-krizi-icin-yenilenebilir-enerji-ca--87fc8fe3.jpg
 gorsel_yerlesim:
   boyut:
   - 4492
@@ -76,7 +76,8 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1562519990-50eb51e282b2?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1779185249245-b1e518a6f7fc?fm=jpg&q=80&w=1600&fit=max
 baslik_onceki: Antalya gokyuzunden iklim krizi icin yenilenebilir enerji cagrisi
-yazim_duzeltme: cagrisi→çağrısı
+yazim_duzeltme: gokyuzunden→gökyüzünden
+yazim_denetim: y1
 ---
 Antalya'da düzenlenen iklim zirvesi sürerken, çevre savunucuları kentin gökyüzünde dikkat çeken bir eyleme imza attı. Kentte bir araya gelen aktivistler, yamaç paraşütü kullanarak gökyüzünde açtıkları pankartlarla yenilenebilir enerji çağrısında bulundu. Havada açılan pankartlarda rüzgar ve güneş enerjisinin önemine dikkat çekildi.
 

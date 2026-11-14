@@ -73,6 +73,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Kepez ilçesi Sütçüler Mahallesi Sütçüler Caddesi üzerinde bulunan yapı ve hırdavat malzemeleri satışı yapılan bir iş yerinde, dükkanın kapatılmasından kısa süre sonra henüz belirlenemeyen bir nedenle yangın çıktı. Çevre sakinlerinin dumanları fark ederek 112 Acil Çağrı Merkezi'ne ihbarda bulunması üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.
 

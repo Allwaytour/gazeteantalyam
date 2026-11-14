@@ -82,9 +82,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_duzeltme: yapigi→yaptığı; Bakuh→Bakü
+yazim_denetim: y1
 ---
 Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, COP31 Zirvesi'ne katılmak amacıyla Antalya'da bulunan Gürcistan Başbakan Yardımcısı ve Ekonomi ve Sürdürülebilir Kalkınma Bakanı Mariam Kvrivishvili ile görüştü.
 
-Bakan Bayraktar, sosyal medya üzerinden yapigi açıklamada, iki ülke arasındaki mevcut enerji ortaklığına değindi. Bakuh-Tiflis-Ceyhan ve Bakü-Tiflis-Erzurum Boru Hatları vasıtasıyla bölgesel enerji arz güvenliğine sağlanan katkının önemine işaret eden Bayraktar, bu iş birliğini elektrik iletimi ve ticaret alanlarında da ileri taşımayı amaçladıklarını ifade etti.
+Bakan Bayraktar, sosyal medya üzerinden yaptığı açıklamada, iki ülke arasındaki mevcut enerji ortaklığına değindi. Bakü-Tiflis-Ceyhan ve Bakü-Tiflis-Erzurum Boru Hatları vasıtasıyla bölgesel enerji arz güvenliğine sağlanan katkının önemine işaret eden Bayraktar, bu iş birliğini elektrik iletimi ve ticaret alanlarında da ileri taşımayı amaçladıklarını ifade etti.
 
 Gürcistan ile karşılıklı güven temelinde sürdürülen ilişkilerin, enerji dönüşümünü destekleyen projelerle güçlendirileceğini vurgulayan Bayraktar, söz konusu girişimlerin bölgenin ortak refahına da olumlu yansıyacağına inandığını kaydetti.

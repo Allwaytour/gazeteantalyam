@@ -78,7 +78,9 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
-yazim_duzeltme: hayvancilik→hayvancılık; ogrencileri→öğrencileri; uretim→üretim
+yazim_duzeltme: Danimarkali→Danimarkalı
+baslik_onceki: Danimarkali öğrenciler Alanya'da tarim ve gıda tesislerini inceledi
+yazim_denetim: y1
 ---
 Danimarka'nın Odense kentinde tarım ve hayvancılık eğitimi alan bir grup öğrenci, Alanya'ya bir ziyaret gerçekleştirdi. Yirmi beş öğrenci ve üç öğretmenden oluşan heyet, ilçedeki tarımsal üretim ve gıda tesislerini inceleme fırsatı buldu.
 

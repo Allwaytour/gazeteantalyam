@@ -74,6 +74,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1700356848746-5f2dd76c237b?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Yeni Parti Döşemealtı İlçe Başkanı Veli Çot, çevre kirliliğine karşı vatandaşlara yönelik önemli uyarılarda bulundu. Doğaya atılan çöplerin ekosisteme büyük zarar verdiğini belirten Çot, özellikle cam şişelerin yarattığı risklerin altını çizdi.
 

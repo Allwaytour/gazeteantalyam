@@ -77,9 +77,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1542202229-7d93c33f5d07?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1440581572325-0bea30075d9d?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: vazgeşme→vazgeçme
+yazim_denetim: y1
 ---
 Kaş Orman İşletme Müdürlüğü, Gelemiş bölgesinde bulunan birinci derece doğal sit statüsündeki denize sıfır orman alanını konaklamasız orman parkı şeklinde işletmek üzere üçüncü kez ihaleye hazırlanıyor. Daha önce iki kez gündeme gelen kiralama süreci bölge halkı ve sivil toplum kuruluşlarının protestolarıyla karşılaşmıştı. Geçtiğimiz yıl nisan ayında ilçe merkezindeki ihaleye yurttaşlar engel olurken, ağustos ayında Antalya'da gerçekleştirilen girişime ise çevre savunucuları hukuki süreçle karşılık vermişti.
 
-Bölgenin ulusal ve uluslararası öneme sahip ekosistemleri barındırdığı, biyolojik ve jeomorfolojik yapısıyla insan tahribatına karşı yüksek risk taşıdığı vurgulanıyor. Alanın 2017 yılında nitelikli doğal koruma alanı olarak tescil edildiği hatırlatılarak yetkililere ihale kararından vazgeşme çağrısı yapıldı. Kaş Çevre ve Kültür Derneği Başkanı Murat Akoy, ihale iptal edilmediği takdirde hukuki yollara başvurarak yeniden dava açacaklarını belirtti.
+Bölgenin ulusal ve uluslararası öneme sahip ekosistemleri barındırdığı, biyolojik ve jeomorfolojik yapısıyla insan tahribatına karşı yüksek risk taşıdığı vurgulanıyor. Alanın 2017 yılında nitelikli doğal koruma alanı olarak tescil edildiği hatırlatılarak yetkililere ihale kararından vazgeçme çağrısı yapıldı. Kaş Çevre ve Kültür Derneği Başkanı Murat Akoy, ihale iptal edilmediği takdirde hukuki yollara başvurarak yeniden dava açacaklarını belirtti.
 
 Mimarlar Odası Antalya Şubesi de daha önce yaptığı açıklamalarda söz konusu yönetmeliğin ormanlık alanları yapılaşma baskısıyla karşı karşıya bıraktığına dikkat çekmişti. Açıklamada, doğal alanların korunmasının ekonomik gelirlerden çok daha fazla ekolojik ve toplumsal yarar sağlayacağı ifade edilerek, bu uygulamalarda kamu yararı bulunmadığı savunulmuştu. İhalenin iptal edilmemesi durumunda sürecin kasım ayının son gününde Antalya Orman Bölge Müdürlüğü'nde yapılacağı bildirildi.

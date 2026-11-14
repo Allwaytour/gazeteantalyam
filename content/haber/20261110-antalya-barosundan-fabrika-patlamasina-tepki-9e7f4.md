@@ -1,5 +1,5 @@
 ---
-title: Antalya Barosu'ndan fabrika patlamasina tepki
+title: Antalya Barosu'ndan fabrika patlamasına tepki
 date: '2026-11-10T11:22:00+03:00'
 ozet: Antalya Barosu, İzmir'deki demir-çelik fabrikasında meydana gelen patlamanın ardından açıklama yaparak yaşananların iş cinayeti olduğunu belirtti.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/8/83/Isuzu_fire_engine_in_Antalya.jpg
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalya-barosundan-is-cinayeti-cikisi
-gorsel_yedek: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-ee79a574.jpg
+gorsel_yedek: /images/haber-gorsel/20261110-antalya-barosundan-fabrika-patlamasina-tepki-9e7f4-a3de3827.jpg
 gorsel_yerlesim:
   boyut:
   - 4608
@@ -73,6 +73,9 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Antalya Barosu'ndan fabrika patlamasina tepki
+yazim_duzeltme: patlamasina→patlamasına
+yazim_denetim: y1
 ---
 İzmir'in Aliağa ilçesinde bulunan bir demir-çelik fabrikasında bakım çalışması sırasında tavan vincinin kopmasıyla şiddetli bir patlama yaşandı. Olayın ardından fabrikada yangın çıkarken bazı bölümlerde çökmeler meydana geldi. Faciada çok sayıda işçi hayatını kaybederken, yaralananlar hastanelere sevk edildi ve olayla ilgili soruşturma başlatıldı.
 
