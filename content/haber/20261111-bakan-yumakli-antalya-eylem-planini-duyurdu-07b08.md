@@ -71,10 +71,11 @@ metin_onarim:
   kaynak: https://www.sabah.com.tr/gundem/2026/11/11/bakan-yumakli-antalya-eylem-planini-baslatmaktan-gurur-duyuyoruz
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 2 özel ad kaynakta bulunamadığı için değiştirilmedi'
-yazim_duzeltme: Gida→Gıda; Orgutu→Örgütü
+yazim_duzeltme: taahhüdenin→taahhüdünün
+yazim_denetim: y1
 ---
 Tarım ve Orman Bakanı İbrahim Yumaklı, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamındaki Liderler Zirvesi Orman Etkinliği'ne katıldı. Burada yaptığı konuşmada, orman yangınlarıyla mücadelede uluslararası işbirliğini artırmak amacıyla Entegre Yangın Yönetimi Antalya Eylem Planı'nı hayata geçirmekten gurur duyduklarını ifade etti.
 
-Ormanların karbonu uzaklaştırma, su kaynaklarını ve toprağı koruma, biyolojik çeşitliliğe alan sağlama ve kırsal kesimin geçimini sağlama konularındaki önemine değinen Yumaklı, iklim krizine karşı ormanların güçlü birer çözüm olduğunu vurguladı. Artan sıcaklıklar, kuraklık ve şiddetli orman yangınları nedeniyle küresel ölçekte daha fazla işbirliği gerektiğini belirten Yumaklı, Glasgow'daki COP26'da verilen orman kaybı ve arazi bozulumunu durdurma taahhüdenin önemini hatırlattı.
+Ormanların karbonu uzaklaştırma, su kaynaklarını ve toprağı koruma, biyolojik çeşitliliğe alan sağlama ve kırsal kesimin geçimini sağlama konularındaki önemine değinen Yumaklı, iklim krizine karşı ormanların güçlü birer çözüm olduğunu vurguladı. Artan sıcaklıklar, kuraklık ve şiddetli orman yangınları nedeniyle küresel ölçekte daha fazla işbirliği gerektiğini belirten Yumaklı, Glasgow'daki COP26'da verilen orman kaybı ve arazi bozulumunu durdurma taahhüdünün önemini hatırlattı.
 
 Son yıllarda yürütülen ormancılık faaliyetlerine de değinen Yumaklı, 2002 ile 2025 yılları arasında milyonlarca fidanın toprakla buluşturulduğunu kaydetti. Birleşmiş Milletler Gıda ve Tarım Örgütü verilerine atıfta bulunan Yumaklı, ülkenin 2020-2025 döneminde ağaçlandırma alanında Avrupa'da birinci, dünyada ise üçüncü sırada yer aldığını söyledi.

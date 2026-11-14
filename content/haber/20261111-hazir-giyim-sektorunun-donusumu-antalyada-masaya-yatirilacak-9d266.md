@@ -80,11 +80,13 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1548337138-e87d889cc369?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: dijitallemenin→dijitalleşmenin; sektora→sektöre
+yazim_denetim: y1
 ---
 Türkiye Giyim Sanayicileri Derneği, Antalya'da süren COP31 kapsamında hazır giyim sektörünün geleceğine yönelik iki ayrı panel düzenleyecek. Kuruluşunun 50. yılını kutlayan dernek, değişen küresel ticaret dinamiklerine uyum sağlanması ve sürdürülebilir üretim kapasitesinin artırılması amacıyla görüşlerini bu platforma taşıyacak. Yeşil Bölge'de gerçekleşecek oturumlarda kamu temsilcileri, sanayiciler ve uzmanlar bir araya gelerek sektörün küresel rekabet gücünü değerlendirecek.
 
-İlk panel 14 Kasım'da Dirençli Şehirler Hub-1'de gerçekleşecek. Yeni nesil liderlik, yeni iş modelleri ve sürdürülebilir rekabetçilik başlığını taşıyan oturumda, şirketlerde görev alan ikinci ve ucuz kuşak yöneticilerin sektörün dönüşümüne katkıları ele alınacak. Teknoloji, tasarım, üretim verimliliği, sürdürülebilir malzeme kullanımı ve dijitallemenin sağlayacağı fırsatlar katılımcılarla paylaşılacak.
+İlk panel 14 Kasım'da Dirençli Şehirler Hub-1'de gerçekleşecek. Yeni nesil liderlik, yeni iş modelleri ve sürdürülebilir rekabetçilik başlığını taşıyan oturumda, şirketlerde görev alan ikinci ve ucuz kuşak yöneticilerin sektörün dönüşümüne katkıları ele alınacak. Teknoloji, tasarım, üretim verimliliği, sürdürülebilir malzeme kullanımı ve dijitalleşmenin sağlayacağı fırsatlar katılımcılarla paylaşılacak.
 
-İkinci panel ise 16 Kasım'da Sıfır Atık Hub 2'de düzenlenecek. Düşük karbonlu tedarik zincirleri, dijital izlenebilirlik ve yakın tedarik avantajlarının ele alınacağı oturumda; Avrupa Birliği'nin yeşil dönüşüm politikalarının sektora yansımaları, dijital ürün pasaportu, karbon ayak izi hesaplaması ve lojistik kaynaklı emisyonların azaltılması konuşulacak.
+İkinci panel ise 16 Kasım'da Sıfır Atık Hub 2'de düzenlenecek. Düşük karbonlu tedarik zincirleri, dijital izlenebilirlik ve yakın tedarik avantajlarının ele alınacağı oturumda; Avrupa Birliği'nin yeşil dönüşüm politikalarının sektöre yansımaları, dijital ürün pasaportu, karbon ayak izi hesaplaması ve lojistik kaynaklı emisyonların azaltılması konuşulacak.
 
 Sektörün rekabetçiliğini sürdürmesi için yeni iş modelleri ile sürdürülebilir üretimin birlikte değerlendirilmesi gerektiğine dikkati çeken dernek başkanı, üretim gücünü ve yatırım kapasitesini muhafaza ederek dönüşümün gerçekleştirilmesi gerektiğini vurguladı. COP31'in, Türkiye'nin sürdürülebilir üretim alanındaki deneyimini aktarmak ve 'Made in Türkiye' algısını güçlendirmek için önemli bir fırsat sunduğu ifade edildi.

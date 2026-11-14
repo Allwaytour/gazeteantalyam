@@ -80,8 +80,10 @@ metin_onarim:
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg
+yazim_duzeltme: kultursal→kültürel
+yazim_denetim: y1
 ---
-Kentteki önemli kultursal miraslar arasında yer alan Antalya Müzesi'nin yıkılmasının üzerinden yaklaşık iki yıl geçmesine rağmen yeni binanın inşaat sürecine dair somut bir adım atılmadı. Ziyaretçilere kapılarını yeniden ne zaman açacağı merak konusu olan müzenin durumu, TBMM Plan ve Bulte Komisyonu'nda gündeme getirildi.
+Kentteki önemli kültürel miraslar arasında yer alan Antalya Müzesi'nin yıkılmasının üzerinden yaklaşık iki yıl geçmesine rağmen yeni binanın inşaat sürecine dair somut bir adım atılmadı. Ziyaretçilere kapılarını yeniden ne zaman açacağı merak konusu olan müzenin durumu, TBMM Plan ve Bulte Komisyonu'nda gündeme getirildi.
 
 Yeni Parti Antalya Milletvekili Aliye Coşar, konuyla ilgili olarak Kültür ve Turizm Bakanlığı'na sorular yöneltti. Coşar, ödülleriyle de tanınan müzenin yıkımının ardından başlayan süreçte kamuoyunun yeterli bilgi alamadığını vurguladı.
 

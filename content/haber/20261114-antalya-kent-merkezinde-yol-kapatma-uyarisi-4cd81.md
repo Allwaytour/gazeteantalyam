@@ -2,8 +2,8 @@
 title: Antalya kent merkezinde yol kapatma uyarısı
 date: '2026-11-14T10:56:00+03:00'
 ozet: Antalya'da düzenlenecek yürüyüş ve basın açıklaması nedeniyle kent merkezindeki bazı yollar ve bağlantı yolları belirli saatlerde trafiğe kapatılacak.
-gorsel: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
-gorsel_kredi: 'Fotoğraf: Anshul Gurjar / Unsplash'
+gorsel: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
+gorsel_kredi: 'Fotoğraf: Onur / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
 - Asayiş
 ilceler:
@@ -18,32 +18,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
   konu_imza: ea37c6f5909c
-  kaynak_sayfa: https://unsplash.com/photos/traffic-police-officer-sitting-on-a-motorcycle-H8ib5QdhTGM
-  fotografci: Anshul Gurjar
-  lisans: Unsplash Lisansı
-  lisans_dayanagi: https://unsplash.com/license
-  gosterilen: Trafik denetimi
-  cekim_yili: ''
-  aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'trafik-denetim' (Trafik denetimi) başlık/spot/giriş ile eşleşti
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:D_400_Antalya_-_23.6.15.JPG
+  fotografci: Onur
+  lisans: CC BY-SA 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by-sa/4.0
+  gosterilen: Antalya'da trafik
+  cekim_yili: '2015'
+  aciklama: Antalya'da D-400 karayolu — Arşiv fotoğrafı (2015)
+  gerekce: arşiv kaydı 'yol-antalya-1' (Antalya'da trafik) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: trafik-denetim
-    tarih: '2026-11-14T11:11:30+03:00'
+    arsiv_id: yol-antalya-1
+    tarih: '2026-11-14T11:42:49+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,8 +51,8 @@ kaynak_url: https://www.antalyaekspres.com.tr/dikkat-antalyada-bu-yollar-kapatil
 gorsel_yedek: /images/haber-gorsel/20261114-antalya-kent-merkezinde-yol-kapatma-uyarisi-4cd81-e1bb5188.jpg
 gorsel_yerlesim:
   boyut:
-  - 3001
-  - 1876
+  - 2592
+  - 1728
   dikey: false
   surum: y3
   manset: kaplama
@@ -73,10 +70,9 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
+  url: https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://upload.wikimedia.org/wikipedia/commons/3/30/D_400_Antalya_-_23.6.15.JPG
 - https://upload.wikimedia.org/wikipedia/commons/7/77/Antalyaspor_Kav%C5%9Fa%C4%9F%C4%B1_-_23.6.15.JPG
 - https://images.unsplash.com/photo-1635930919419-f935f8902b0f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1602951172321-fe0aa8865e6b?fm=jpg&q=80&w=1600&fit=max

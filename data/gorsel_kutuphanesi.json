@@ -3048,6 +3048,109 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg/1280px-2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "06ae5f3c24e82c51": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     990,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "meyve",
+     "elma",
+     "portakal",
+     "tartı",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Market meyve reyonu ve tartı alanı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "meyve fiyatlari",
+     "market",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6f44ac30e33a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde fiyat etiketleri yer almaktadır, bu durum yasaklı unsurlarla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sebze",
+        "var": false
+       },
+       {
+        "unsur": "meyve",
+        "var": true
+       },
+       {
+        "unsur": "hal tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       990,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "etiket fiyatı"
+      ]
+     },
+     "t": "2026-11-14T11:41:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "484a66c8ce5c1864",
+    "sha": "64532193abff76160d5aa18c"
+   },
+   "t": "2026-11-14T11:41:29+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.057,
+    "keskinlik": 2960,
+    "kontrast": 51,
+    "medyan": 146,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Fresh_fruits_and_vegetables_in_2020_08.jpg/1280px-Fresh_fruits_and_vegetables_in_2020_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "07060a8fc6b14d50": {
    "icerik": {
     "ana_kutu": [
@@ -41714,6 +41817,96 @@
    },
    "url": "https://images.unsplash.com/photo-1526599256864-6bedb9d7dfb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2F0ZXIlMjB0YXB8ZW58MXwwfHx8MTc5NDEyNzIwNHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "50330621cc44d682": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     12,
+     879,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Turk bayragi",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi gokyuzu fonunda dalgalanan Turk bayragi",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "milli haberler",
+     "resmi aciklamalar",
+     "gundem haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "kisisel portre",
+     "ozel dini merasim haberleri",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:99f7e2f0193b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan ihtida merasimi veya Kur'an-i Kerim gorselde yer almamaktadir.",
+      "gerekli": [
+       {
+        "unsur": "Kur'an-ı Kerim",
+        "var": false
+       },
+       {
+        "unsur": "müftülük makamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:41:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f8793b096cf4f13",
+    "sha": "32f1e41fafc23dcfd58bc03f"
+   },
+   "t": "2026-11-14T11:41:03+03:00",
+   "teknik": {
+    "doygunluk": 67.7,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.103,
+    "keskinlik": 624,
+    "kontrast": 40,
+    "medyan": 128,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1653570593418-5417dc964579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZsYWclMjBpc2xhbWljJTIwYm9va3xlbnwxfDB8fHwxNzk0NjQ1NjQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "50422e8a964170d6": {
    "icerik": {
     "ana_kutu": [
@@ -45238,13 +45431,43 @@
       "yasak": []
      },
      "t": "2026-11-10T10:08:55+03:00"
+    },
+    "r1:99f7e2f0193b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle dogrudan ilgili Kur'an-i Kerim veya muftuluk bulunmuyor, sadece genel Turkiye/cami gorseli.",
+      "gerekli": [
+       {
+        "unsur": "Kur'an-ı Kerim",
+        "var": false
+       },
+       {
+        "unsur": "müftülük makamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:41:03+03:00"
     }
    },
    "ozet": {
     "dh": "2d9d9c1c9e8e0d53",
     "sha": "32456215ac8b8baab23b42dd"
    },
-   "t": "2026-11-10T10:08:55+03:00",
+   "t": "2026-11-14T11:41:03+03:00",
    "teknik": {
     "doygunluk": 40.5,
     "inen": [
@@ -52998,6 +53221,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3b9b82083db8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akdeniz Üniversitesine ait stadyum ve kampüs tesisi haber için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "üniversite binası, kampüs",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       0,
+       680,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:40:35+03:00"
+    },
     "r1:5bddfbe83114:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -53097,7 +53351,7 @@
     "dh": "ffdd5f0606130100",
     "sha": "792dcbb95b8d0c6162d9be9f"
    },
-   "t": "2026-11-12T14:30:03+03:00",
+   "t": "2026-11-14T11:40:35+03:00",
    "teknik": {
     "doygunluk": 28.6,
     "inen": [
@@ -53344,6 +53598,109 @@
     "s": "t1"
    },
    "url": "/images/kurum/6343dd8a0858ecb6.jpg"
+  },
+  "6896bfcf2d4e48af": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "brokoli",
+     "kuşkonmaz",
+     "domates",
+     "tezgah",
+     "etiket"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pazarda sergilenen taze yeşillikler ve sebzeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sebze fiyatlari",
+     "pazar",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6f44ac30e33a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sebze ve tezgah unsurları uygun olsa da fiyat etiketleri yasaklı unsurlar arasında yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sebze",
+        "var": true
+       },
+       {
+        "unsur": "meyve",
+        "var": false
+       },
+       {
+        "unsur": "hal tezgahı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "etiket fiyatı"
+      ]
+     },
+     "t": "2026-11-14T11:41:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "374fb5a139659793",
+    "sha": "110e0a579e393e8d738876d1"
+   },
+   "t": "2026-11-14T11:41:29+03:00",
+   "teknik": {
+    "doygunluk": 73.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.374,
+    "keskinlik": 2543,
+    "kontrast": 61,
+    "medyan": 74,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1606237906294-ae86d103d715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZnJlc2glMjBwcm9kdWNlJTIwbWFya2V0fGVufDF8MHx8fDE3OTQ2NDU2ODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "68e0e88cc67c6e21": {
    "ozet": {
@@ -62604,6 +62961,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3b9b82083db8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akdeniz Üniversitesine ait fakülte binası ve kampüs alanı net şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "üniversite binası, kampüs",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       95,
+       615,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:40:35+03:00"
+    },
     "r1:5bddfbe83114:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -62640,7 +63028,7 @@
     "dh": "39733f1c971e6f23",
     "sha": "edbf54a1e1f71035c7767ef1"
    },
-   "t": "2026-11-12T04:27:59+03:00",
+   "t": "2026-11-14T11:40:35+03:00",
    "teknik": {
     "doygunluk": 20.0,
     "inen": [
@@ -65783,6 +66171,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg/1280px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "81d1835c5b226638": {
+   "icerik": {
+    "ana_kutu": [
+     121,
+     281,
+     895,
+     757
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Kur'an-i Kerim",
+     "mum",
+     "ahsap blok"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahsap bloklar uzerinde mumlar ve arkasinda mavi kapakli Kur'an-i Kerim",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "dini haberler",
+     "Kur'an kursu haberleri",
+     "ihtida merasimi haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor musabakalari",
+     "siyaset tartismalari",
+     "magazin haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:99f7e2f0193b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ihtida haberinin tematik gorseli olarak Kur'an-i Kerim icermesi nedeniyle uygundur.",
+      "gerekli": [
+       {
+        "unsur": "Kur'an-ı Kerim",
+        "var": true
+       },
+       {
+        "unsur": "müftülük makamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       121,
+       281,
+       895,
+       757
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:41:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c0f9f1e8e8351754",
+    "sha": "e82ba9ae9cb6443f45e4722d"
+   },
+   "t": "2026-11-14T11:41:03+03:00",
+   "teknik": {
+    "doygunluk": 52.2,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.29,
+    "keskinlik": 2477,
+    "kontrast": 87,
+    "medyan": 114,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1792187763007-01b298e0be09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8UXVyYW4lMjBvbiUyMHdvb2RlbiUyMHN0YW5kfGVufDF8MHx8fDE3OTQ2NDU2NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "81d3e132575fec44": {
    "t": "2026-11-08T14:04:35+03:00",
    "teknik": {
@@ -67272,6 +67756,32 @@
     ]
    },
    "iliski": {
+    "r1:3b9b82083db8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Üniversite binası veya kampüs görünmediği, bir toplantı masası olduğu için kurum haberine uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "üniversite binası, kampüs",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:40:35+03:00"
+    },
     "r1:5bddfbe83114:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -67308,7 +67818,7 @@
     "dh": "031129d5d15c6423",
     "sha": "3b6e06aa1484da6580fd7f74"
    },
-   "t": "2026-11-12T04:27:59+03:00",
+   "t": "2026-11-14T11:40:35+03:00",
    "teknik": {
     "doygunluk": 9.5,
     "inen": [
@@ -80628,6 +81138,45 @@
      },
      "t": "2026-11-08T15:14:26+03:00"
     },
+    "r1:6f44ac30e33a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tezgahlarda sergilenen çeşitli meyveler haberin konusuyla tamamen uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "sebze",
+        "var": false
+       },
+       {
+        "unsur": "meyve",
+        "var": true
+       },
+       {
+        "unsur": "hal tezgahı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:41:29+03:00"
+    },
     "r1:7759cff62e7e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -80668,7 +81217,7 @@
     "dh": "5ec5c24a191c47ca",
     "sha": "86cd2d28206d07fddba6437a"
    },
-   "t": "2026-11-13T13:59:54+03:00",
+   "t": "2026-11-14T11:41:29+03:00",
    "teknik": {
     "doygunluk": 58.6,
     "inen": [
@@ -88822,6 +89371,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Unmanned_underwater_vehicle_operations_130429-N-GG400-070.jpg/1280px-Unmanned_underwater_vehicle_operations_130429-N-GG400-070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b0d1cc043b730800": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ananas",
+     "avokado",
+     "biber",
+     "nar",
+     "havuç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde taze sebze ve meyveler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sebze meyve",
+     "beslenme",
+     "gıda"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6f44ac30e33a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Taze sebze ve meyveleri göstermesi açısından uygundur ancak hal tezgahı ortamı bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sebze",
+        "var": true
+       },
+       {
+        "unsur": "meyve",
+        "var": true
+       },
+       {
+        "unsur": "hal tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:41:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f9696260e4d3792",
+    "sha": "1b0d83e1c4de9b5a18e41af5"
+   },
+   "t": "2026-11-14T11:41:29+03:00",
+   "teknik": {
+    "doygunluk": 65.3,
+    "inen": [
+     400,
+     303
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 2267,
+    "kontrast": 54,
+    "medyan": 115,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1573246123716-6b1782bfc499?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dmVnZXRhYmxlcyUyMGFuZCUyMGZydWl0cyUyMGRpc3BsYXl8ZW58MXwwfHx8MTc5NDY0NTY4MHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b0d7bb996f46a190": {
    "icerik": {
     "ana_kutu": [
@@ -90240,6 +90890,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Samsunspor-Alanyaspor_ma%C3%A7%C4%B1_%2824.11.24%29_%C4%B1s%C4%B1nma.jpg/1280px-Samsunspor-Alanyaspor_ma%C3%A7%C4%B1_%2824.11.24%29_%C4%B1s%C4%B1nma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b3a51c1f52dfd902": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     28,
+     900,
+     770
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kampüs binaları",
+     "ağaçlar",
+     "otopark"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlar arasında modern üniversite kampüs binaları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "üniversite haberi",
+     "kampüs tanıtımı",
+     "kurum haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "öğrenci eylemi",
+     "maç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3b9b82083db8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Üniversite kampüsünü ve binalarını gösterdiği için sürekli işçi alımı haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "üniversite binası, kampüs",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       28,
+       900,
+       770
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:40:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a4f4d038666e7b6d",
+    "sha": "0fd67de81a0c62f198307129"
+   },
+   "t": "2026-11-14T11:40:35+03:00",
+   "teknik": {
+    "doygunluk": 53.8,
+    "inen": [
+     500,
+     286
+    ],
+    "karanlik_oran": 0.157,
+    "keskinlik": 5350,
+    "kontrast": 54,
+    "medyan": 97,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "b3ea1289a9e94ed8": {
    "icerik": {
@@ -100480,6 +101221,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_Symphony_Orchestra_at_the_Royal_Albert_Hall.jpg/1280px-BBC_Symphony_Orchestra_at_the_Royal_Albert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c8b9ebe338bf19d1": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     650,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fakülte binası",
+     "Türk bayrağı",
+     "ağaçlar",
+     "köprü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Akdeniz Üniversitesi Eğitim Fakültesi bina girişi ve önündeki peyzaj alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "üniversite haberi",
+     "kampüs tanıtımı",
+     "kurum haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "öğrenci eylemi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3b9b82083db8:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Üniversitenin Eğitim Fakültesi binasını ve kampüsünü gösterdiği için alım haberiyle tam uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "üniversite binası, kampüs",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       620,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T11:40:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "96c768328a9c8623",
+    "sha": "e5dc3a7373d2896b013f9ac6"
+   },
+   "t": "2026-11-14T11:40:35+03:00",
+   "teknik": {
+    "doygunluk": 45.4,
+    "inen": [
+     500,
+     319
+    ],
+    "karanlik_oran": 0.151,
+    "keskinlik": 4696,
+    "kontrast": 75,
+    "medyan": 132,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "c8de0f946fd63c2c": {
    "icerik": {
@@ -123518,6 +124351,109 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/20180328_ASM-135_ASAT_Udvar-Hazy.jpg/1280px-20180328_ASM-135_ASAT_Udvar-Hazy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f84ac937a32bec62": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     96,
+     836,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "domates",
+     "sebze reyonu",
+     "ambalaj",
+     "etiket"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Market reyonunda sergilenen domatesler ve sebzeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sebze meyve fiyatlari",
+     "market bulteni",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6f44ac30e33a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde yasaklı unsurlar arasında yer alan etiket fiyatları açıkça görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sebze",
+        "var": true
+       },
+       {
+        "unsur": "meyve",
+        "var": false
+       },
+       {
+        "unsur": "hal tezgahı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       96,
+       836,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "etiket fiyatı"
+      ]
+     },
+     "t": "2026-11-14T11:41:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4208833125339cd7",
+    "sha": "17ce68994d19832638ca47e2"
+   },
+   "t": "2026-11-14T11:41:29+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     500,
+     340
+    ],
+    "karanlik_oran": 0.155,
+    "keskinlik": 3826,
+    "kontrast": 60,
+    "medyan": 100,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Fresh_fruits_and_vegetables_in_2020_09.jpg/1280px-Fresh_fruits_and_vegetables_in_2020_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f8666bf6374effb3": {
    "icerik": {
     "ana_kutu": [
@@ -133069,6 +134005,67 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "81d1835c5b226638": {
+   "alt_tur": "nesne",
+   "boyut": [
+    9504,
+    6336
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahsap bloklar uzerinde mumlar ve arkasinda mavi kapakli Kur'an-i Kerim",
+   "gosterim_ad": "ihtida merasimi",
+   "ilk_kabul": "2026-11-14T11:41:03+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "AmirHadi Manavi Moghadam / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "AmirHadi Manavi Moghadam",
+    "sayfa": "https://unsplash.com/photos/quran-with-candles-on-wooden-blocks-GwdRBfSjcbw"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Kur'an-i Kerim",
+    "Kur'an-ı Kerim",
+    "ahsap blok",
+    "mum"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1792187763007-01b298e0be09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8UXVyYW4lMjBvbiUyMHdvb2RlbiUyMHN0YW5kfGVufDF8MHx8fDE3OTQ2NDU2NDR8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "dini haberler",
+    "Kur'an kursu haberleri",
+    "ihtida merasimi haberleri"
+   ],
+   "kullanilamaz": [
+    "spor musabakalari",
+    "siyaset tartismalari",
+    "magazin haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-14T11:41:03+03:00",
+   "url": "https://images.unsplash.com/photo-1792187763007-01b298e0be09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8UXVyYW4lMjBvbiUyMHdvb2RlbiUyMHN0YW5kfGVufDF8MHx8fDE3OTQ2NDU2NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "824e67df451e6569": {
    "alt_tur": "nesne",
    "boyut": [
@@ -134218,7 +135215,7 @@
    "gosterim_ad": "hal fiyatları",
    "ilk_kabul": "2026-11-08T14:40:15+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Marc-Lautenbacher / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -134238,6 +135235,8 @@
    "konular": [
     "ahududu",
     "böğürtlen",
+    "hal tezgahı",
+    "meyve",
     "meyve kasaları",
     "pazar tezgahları",
     "plastik kaplar",
@@ -134260,7 +135259,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-13T13:59:54+03:00",
+   "son_kabul": "2026-11-14T11:41:29+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -136375,6 +137374,72 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg/1280px-Informal_meeting_of_environment_ministers._Round_table_Archie_Young_and_Norbert_Kurilla_%2835743458402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "c8b9ebe338bf19d1": {
+   "alt_tur": "kurum",
+   "boyut": [
+    968,
+    618
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2021-07-02",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Akdeniz Üniversitesi Eğitim Fakültesi bina girişi ve önündeki peyzaj alanı",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-14T11:40:35+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Enessubasi33 / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Enessubasi33",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Akdeniz Üniversitesi",
+      "qid": "Q169939"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "Türk bayrağı",
+    "ağaçlar",
+    "fakülte binası",
+    "köprü",
+    "üniversite binası, kampüs"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg/500px-Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg",
+   "kullanilabilir": [
+    "üniversite haberi",
+    "kampüs tanıtımı",
+    "kurum haberi"
+   ],
+   "kullanilamaz": [
+    "öğrenci eylemi",
+    "kaza haberi"
+   ],
+   "notr_portre": false,
+   "qid": "Q169939",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-14T11:40:35+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],

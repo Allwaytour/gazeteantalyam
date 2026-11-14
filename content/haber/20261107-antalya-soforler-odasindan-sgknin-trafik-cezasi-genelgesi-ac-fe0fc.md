@@ -79,6 +79,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Şoförler Odası Başkanı Mehmet Ali Alkan, trafik idari para cezası tutanaklarına bağlı sigortalılık tescili ve prim işlemlerinde yeni uygulama esaslarının belirlendiğini açıkladı. Alkan, sürücü ile işveren arasındaki çalışma ilişkisinin tespitine göre SGK işlemlerinin yürütüleceğini belirtti.
 

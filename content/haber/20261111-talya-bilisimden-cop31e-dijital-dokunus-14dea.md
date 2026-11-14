@@ -81,6 +81,8 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_duzeltme: fursati→fırsatı; cektirimis→çektirmiş
+yazim_denetim: y1
 ---
 Antalya’da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), iklim gündeminin yanı sıra teknoloji ve dijital dönüşüm uygulamalarıyla da dikkati çekti. Bu kapsamda turizm teknolojileri alanında faaliyet gösteren Talya Bilişim, kentin uluslararası tanıtımına, iletişim altyapısına ve çevresel farkındalık çalışmalarına katkı sağlayan dijital projeleri hayata geçirdi. Yapay zeka, görüntü işleme ve dijital iletişim teknolojilerini birleştiren uygulamalarla kentin dijital yüzüne katkı sunuldu.
 
@@ -88,4 +90,4 @@ Antalya Valiliği tarafından uygulanan yapay zeka destekli şehir rehberi, şeh
 
 Uluslararası organizasyonlarda dil engelini ortadan kaldırmayı hedefleyen COP31 Konferans Çevirmeni, konuşmaları eş zamanlı olarak yazıya dökerek katılımcıların tercih ettikleri dile çevirdi. Türkçe, İngilizce, Almanca, Arapça, Çince ve Japoncanın da aralarında bulunduğu 25 dil desteği sunan uygulama, dinleyicilerin konuşmaları hem orijinal dilinde hem de kendi seçtikleri dilde takip etmesine imkan tanıdı. Ayrıca etkinlik kapsamında geliştirilen yapay zeka destekli ziyaretçi sayacı, giriş ve çıkış hareketlerini takip ederek alandaki net ziyaretçi sayısını anlık olarak güncelledi.
 
-COP31 alanında kurulan anı fotoğraf standı, ziyaretçilere kentin doğal ve tarihi güzellikleri eşliğinde kişiselleştirilmiş fotoğraflar oluşturma fursati sundu. QR kod aracılığıyla erişilen uygulama sayesinde katılımcılar, Kurşunlu Şelalesi, Aspendos Su Kemerleri ve Manavgat Şelalesi gibi simge noktaların önünde fotoğraf cektirimis gibi görseller elde etti. Antalya Valiliği koordinasyonunda yürütülen Mavi Akdeniz İnisiyatifi projesi ise denizlerin korunması ve sıfır atık hedefi doğrultusundaki çalışmaları dijital platformda bir araya getirdi.
+COP31 alanında kurulan anı fotoğraf standı, ziyaretçilere kentin doğal ve tarihi güzellikleri eşliğinde kişiselleştirilmiş fotoğraflar oluşturma fırsatı sundu. QR kod aracılığıyla erişilen uygulama sayesinde katılımcılar, Kurşunlu Şelalesi, Aspendos Su Kemerleri ve Manavgat Şelalesi gibi simge noktaların önünde fotoğraf çektirmiş gibi görseller elde etti. Antalya Valiliği koordinasyonunda yürütülen Mavi Akdeniz İnisiyatifi projesi ise denizlerin korunması ve sıfır atık hedefi doğrultusundaki çalışmaları dijital platformda bir araya getirdi.

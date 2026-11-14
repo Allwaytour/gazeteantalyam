@@ -72,6 +72,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
+yazim_denetim: y1
 ---
 Manavgat ile Alanya arasındaki D-400 kara yolunda seyir halinde olan bir otomobil, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yol kenarındaki bir bahçeye girdi. Doğançam Mahallesi'ndeki Tekandız ışıklı kavşağında meydana gelen olayda, aracın tel çitleri yıkarak bahçeye girdiği bildirildi.
 

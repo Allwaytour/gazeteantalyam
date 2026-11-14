@@ -70,6 +70,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+yazim_denetim: y1
 ---
 Antalya Bölge İdare Mahkemesi 2'nci İdari Dava Dairesi, Aksu ilçesindeki Altıntaş Mahallesi'ni de kapsayan Çalkaya Bölgesi'nde 2018 yılında onaylanan parselasyon işleminin iptaline karar verdi. 24 Eylül 2026 tarihli kararın gerekçesinde, parselasyon düzenleme sınırının kentsel dönüşüm ve gelişim proje alanı dışındaki bazı taşınmazları da kapsadığı ve bu durumun mevzuata aykırı olduğu belirtildi. Kararda tebliğ tarihinden itibaren 30 gün içinde Danıştay nezdinde temyiz yoluna başvurulabileceği kaydedildi.
 

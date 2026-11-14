@@ -72,6 +72,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1565879422384-053cc91c8b8b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1585351737354-204ffbbe584f?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da düzenlenen çevre odaklı atölye çalışmalarında genç katılımcılar, tekstil sektöründen arta kalan kumaş parçalarını yaratıcı bir yaklaşımla yeniden ele aldı. Toplam 27 öğrencinin yer aldığı etkinliklerde, Japon kumaş işleme sanatları arasında yer alan kinusaiga tekniğinden yararlanıldı.
 

@@ -65,10 +65,11 @@ gorsel_yerlesim:
   o_kart_p: 50% 0%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_gecmis: []
-yazim_duzeltme: yogun→yoğun; seslendirdigi→seslendirdiği; sahipligi→sahipliği
+yazim_duzeltme: cokkuya→coşkuya; istegi→isteği
+yazim_denetim: y1
 ---
 Antalya Açıkhava Sahnesi, nisan ayında başlayan etkinlik sezonunu kasım ayında gerçekleştirilen final konseriyle tamamladı. Sezon boyunca pek çok sanatçıyı ve grubu müzikseverlerle buluşturan mekan, kapanışı ünlü müzisyen Levent Yüksel'in sahne performansıyla yaptı.
 
-Konserine sevilen parçalarından biriyle başlayan sanatçı, repertuvarındaki hit şarkılarıyla dinleyicilere nostaljik anlar yaşattı. Konser alanını dolduran müzikseverler de sanatçının seslendirdiƟiyer şarkılara hep bir ağızdandan eşlik ederek cokkuya ortak oldu.
+Konserine sevilen parçalarından biriyle başlayan sanatçı, repertuvarındaki hit şarkılarıyla dinleyicilere nostaljik anlar yaşattı. Konser alanını dolduran müzikseverler de sanatçının seslendirdiƟiyer şarkılara hep bir ağızdandan eşlik ederek coşkuya ortak oldu.
 
-Programın ilerleyen dakikalarında dinleyicilerin yoğun istegi üzerine tekrar sahneye dönen Yüksel, konseri seslendirdiği son parçayla sonlandırdı. Yüzlerce sanatçıya ev sahipliği yapan sahnede gerçekleşen bu kapanış etkinligiyle müzik dolu bir dönem daha sona ermiş oldu.
+Programın ilerleyen dakikalarında dinleyicilerin yoğun isteği üzerine tekrar sahneye dönen Yüksel, konseri seslendirdiği son parçayla sonlandırdı. Yüzlerce sanatçıya ev sahipliği yapan sahnede gerçekleşen bu kapanış etkinligiyle müzik dolu bir dönem daha sona ermiş oldu.

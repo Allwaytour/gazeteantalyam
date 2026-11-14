@@ -1,5 +1,5 @@
 ---
-title: Londra Belediye Başkanı Khan'dan Antalya'daki COP31'de iklim cagirisi
+title: Londra Belediye Başkanı Khan'dan Antalya'daki COP31'de iklim çağrısı
 date: '2026-11-11T23:58:33+03:00'
 ozet: Londra Belediye Başkanı Sadık Khan, Antalya'da gerçekleşen COP31'de iklim krizinin yıkıcı sonuçlarına karşı daha hızlı adım atılması gerektiğini belirtti.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
@@ -46,7 +46,7 @@ otomatik: true
 yz: true
 kaynak: Anadolu Ajansı
 kaynak_url: https://www.aa.com.tr/tr/gundem/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-cekti/4121470
-gorsel_yedek: /images/haber-gorsel/20261111-londra-belediye-baskani-khandan-antalyadaki-cop31de-iklim-ca--1c67a73c.jpg
+gorsel_yedek: /images/haber-gorsel/20261111-londra-belediye-baskani-khandan-antalyadaki-cop31de-iklim-ca--b69cf18f.jpg
 gorsel_yerlesim:
   boyut:
   - 2927
@@ -79,6 +79,8 @@ gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: cagirisi→çağrısı
+yazim_denetim: y1
 ---
 Londra Belediye Başkanı Sadık Khan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31) katıldı. Kentte bulunmaktan duyduğu memnuniyeti dile getiren Khan, sosyal medya hesabı üzerinden yaptığı paylaşımda iklim krizinin tehlikelerine işaret etti.
 
