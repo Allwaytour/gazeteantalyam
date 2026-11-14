@@ -18944,19 +18944,19 @@
      },
      "t": "2026-11-08T11:37:06+03:00"
     },
-    "r1:af4ef6dd18d3:yer": {
+    "r1:a6a0f4af4a3f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": true,
       "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta SMR projesi veya COP31 yerine Tuvalu'daki bir arazi ziyareti yer alıyor.",
+      "gerekce": "Fotoğraf Antalya'daki COP31 zirvesiyle tamamen ilgisiz bir dış mekan şantiyesini göstermektedir.",
       "gerekli": [
        {
-        "unsur": "küçük modüler reaktör maketi",
+        "unsur": "konferans salonu",
         "var": false
        },
        {
-        "unsur": "teknoloji sunum ekranı",
+        "unsur": "EXPO 2016 alanı",
         "var": false
        }
       ],
@@ -18972,7 +18972,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T11:10:01+03:00"
+     "t": "2026-11-14T14:10:39+03:00"
     },
     "r1:bbef9969f0c1:ozne_kurum": {
      "d": {
@@ -19180,7 +19180,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-13T16:06:37+03:00",
+   "t": "2026-11-14T14:10:39+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -26229,6 +26229,41 @@
      },
      "t": "2026-11-13T03:58:33+03:00"
     },
+    "r1:a6a0f4af4a3f:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, COP31 iklim konferansındaki bir paneli ve salonu doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "EXPO 2016 alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       310,
+       680,
+       880
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:10:39+03:00"
+    },
     "r1:cd065b0f5923:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -26255,7 +26290,7 @@
     "dh": "530ecbcb0f4f1169",
     "sha": "df18e9b99edb1e0688eb8df1"
    },
-   "t": "2026-11-13T15:17:57+03:00",
+   "t": "2026-11-14T14:10:39+03:00",
    "teknik": {
     "doygunluk": 32.0,
     "inen": [
@@ -55186,28 +55221,26 @@
      },
      "t": "2026-11-13T16:05:47+03:00"
     },
-    "r1:96f643e49b90:ozne_kisi": {
+    "r1:a6a0f4af4a3f:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": true,
-      "gerekce": "Haber COP31 kelebek bahçesiyle ilgili; siyasetçi portresi kullanılamaz, yasak unsurlar içeriyor.",
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi COP31 zirvesidir, Murat Kurum bu haberin ana kişisi değildir.",
       "gerekli": [],
-      "ilgisiz_yer_nesne": true,
+      "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 0,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
       "yanlis_spor": false,
       "yanlis_takim": false,
-      "yasak": [
-       "siyasetçi portresi"
-      ]
+      "yasak": []
      },
-     "t": "2026-11-08T15:41:03+03:00"
+     "t": "2026-11-14T14:10:39+03:00"
     },
     "r1:a71f59595111:ozne_kisi": {
      "d": {
@@ -55381,7 +55414,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-13T16:29:40+03:00",
+   "t": "2026-11-14T14:10:39+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -133126,7 +133159,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T03:58:33+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -133149,9 +133182,11 @@
     "yerler": []
    },
    "konular": [
+    "EXPO 2016 alanı",
     "Turkiye Pavilyonu tabelasi veya salonu",
     "ekran",
     "kamera",
+    "konferans salonu",
     "mikrofon",
     "sandalye",
     "sunum tahtasi"
@@ -133172,7 +133207,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-13T15:17:57+03:00",
+   "son_kabul": "2026-11-14T14:10:39+03:00",
    "url": "/images/kurum/b3b315e8d48f5b8c.jpg",
    "uygun_yerlesimler": [
     "kart",
