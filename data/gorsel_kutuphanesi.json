@@ -19381,6 +19381,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "22eca32a05ed2920": {
+   "icerik": {
+    "ana_kutu": [
+     32,
+     207,
+     856,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çiçek",
+     "taş duvar",
+     "sokak lambası",
+     "ev",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaldırım kenarındaki taş havuz içinde sarı çiçekler ve evler.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yerel yönetim",
+     "peyzaj",
+     "sokak"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim zirvesi",
+     "konferans",
+     "panel"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b5c2b642d645:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki iklim zirvesini değil, sokak peyzajını göstermektedir; açık hava içerdiği için yasak unsura takılır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "dinleyiciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava"
+      ]
+     },
+     "t": "2026-11-14T14:40:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "26a6afb68fc7d7d6",
+    "sha": "63b3525401d8721f7feed0ca"
+   },
+   "t": "2026-11-14T14:40:20+03:00",
+   "teknik": {
+    "doygunluk": 31.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 4945,
+    "kontrast": 66,
+    "medyan": 120,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Urban_floral_display_at_Bourne%2C_Lincolnshire_-_geograph.org.uk_-_4422941.jpg/1280px-Urban_floral_display_at_Bourne%2C_Lincolnshire_-_geograph.org.uk_-_4422941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "23058640c0751cf9": {
    "icerik": {
     "ana_kutu": [
@@ -20196,6 +20295,89 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1602968407815-5963b28c66af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8d29vZGVuJTIwY2hlc3Nib2FyZCUyMHBpZWNlcyUyMGNsb3NlfGVufDF8MHx8fDE3OTQxMzgxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "249cc55ab3817602": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "palmiye",
+     "çiçekler",
+     "çalı",
+     "bina duvarı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Palmiye ağacı ve çiçekli bahçe peyzajı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "adliye haberi",
+     "hukuk haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7a7ebccd1acc:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bahçe ve peyzaj detayını gösteriyor; adliye binası veya hukuksal dava yükü haberiyle ilişkisiz.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:40:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "484c58d0d109470f",
+    "sha": "66e4b7827980a51c6499f6a7"
+   },
+   "t": "2026-11-14T14:40:00+03:00",
+   "teknik": {
+    "doygunluk": 43.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.352,
+    "keskinlik": 5604,
+    "kontrast": 64,
+    "medyan": 81,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2811%29.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "24abdfafb9fca04f": {
    "icerik": {
@@ -22870,6 +23052,32 @@
      },
      "t": "2026-11-11T13:39:02+03:00"
     },
+    "r1:7a7ebccd1acc:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanındaki bir kruvaziyer gemisini gösteriyor, adliye veya ticaret mahkemesi konusuyla ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:40:00+03:00"
+    },
     "r1:adb4dc75380d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -22895,32 +23103,6 @@
       "yasak": []
      },
      "t": "2026-11-09T19:35:26+03:00"
-    },
-    "r1:b13bf154fa36:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Gemi ve liman odaklı bu kare, doğa ve planlama uyarısı içeren haber için uygun bir görsel değildir.",
-      "gerekli": [
-       {
-        "unsur": "Alanya doğası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T19:07:04+03:00"
     },
     "r1:b29d43268e0b:konu": {
      "d": {
@@ -23122,7 +23304,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-14T12:18:17+03:00",
+   "t": "2026-11-14T14:40:00+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -26109,13 +26291,47 @@
       ]
      },
      "t": "2026-11-11T16:40:10+03:00"
+    },
+    "r1:95cdcc170a44:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotografta fidan dikimi yerine gida bagisi ve insanlar yer almaktadir, haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": false
+       },
+       {
+        "unsur": "agaclandirma calismasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:40+03:00"
     }
    },
    "ozet": {
     "dh": "31316a2b2698b8c2",
     "sha": "ebad3191e78885ca90512b3f"
    },
-   "t": "2026-11-11T16:40:10+03:00",
+   "t": "2026-11-14T14:39:40+03:00",
    "teknik": {
     "doygunluk": 13.2,
     "inen": [
@@ -27461,6 +27677,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Fresh_bio_blackberry%2C_blueberry_%2843598589652%29.jpg/1280px-Fresh_bio_blackberry%2C_blueberry_%2843598589652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "31152f2173749f61": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kürek",
+     "tabela",
+     "kar",
+     "toprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karda kabanlı üç kişi toprak kazarak fidan dikiyor, önlerinde tabela var.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fidan dikimi",
+     "ağaçlandırma",
+     "çevre etkinliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir merkezi",
+     "trafik kazası",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      136,
+      303,
+      240,
+      355
+     ],
+     [
+      342,
+      437,
+      431,
+      483
+     ],
+     [
+      409,
+      574,
+      486,
+      618
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:95cdcc170a44:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fidan dikme faaliyeti net şekilde görülüyor ancak karlı zemin yerel habere tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": true
+       },
+       {
+        "unsur": "toprak",
+        "var": true
+       },
+       {
+        "unsur": "ağaçlandırma çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6062c3d1d55dd937",
+    "sha": "e3ac5d497be03457a6d2ccf8"
+   },
+   "t": "2026-11-14T14:39:32+03:00",
+   "teknik": {
+    "doygunluk": 20.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 4276,
+    "kontrast": 71,
+    "medyan": 160,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Soyuz_MS-08_crew_during_the_tree_planting_ceremony.jpg/1280px-Soyuz_MS-08_crew_during_the_tree_planting_ceremony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "315602aa8a451128": {
    "ozet": {
@@ -50338,6 +50664,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:2538457ddae6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Farklı bir protestoya (Antalya Müzesi) ait pankart taşıdığı için COP31 haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "kalabalık grup",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:11+03:00"
+    },
     "r1:80421b7a9125:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -50369,7 +50725,11 @@
      "t": "2026-11-08T20:05:10+03:00"
     }
    },
-   "t": "2026-11-08T20:05:10+03:00",
+   "ozet": {
+    "dh": "3239313159455f69",
+    "sha": "52d553265a34fb15ef865176"
+   },
+   "t": "2026-11-14T14:39:11+03:00",
    "teknik": {
     "doygunluk": 26.6,
     "inen": [
@@ -50879,6 +51239,109 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg/1280px-SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "61a105468241fae1": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "ağaç",
+     "sepet",
+     "toprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağacın yanında geleneksel kıyafetli iki kadın bahçe işi yapıyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım",
+     "bahçe bakımı",
+     "ağaç dikimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir merkezi",
+     "inşaat",
+     "sanayi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      298,
+      388,
+      467,
+      492
+     ],
+     [
+      388,
+      592,
+      492,
+      668
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:95cdcc170a44:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bahçe ve ağaç bakımı görülüyor ancak mezarlık ve fidan dikimi bağlamına tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": false
+       },
+       {
+        "unsur": "ağaçlandırma çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f99c34395a3272c3",
+    "sha": "1000dd6e4114b38d7ebe42d2"
+   },
+   "t": "2026-11-14T14:39:32+03:00",
+   "teknik": {
+    "doygunluk": 42.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.075,
+    "keskinlik": 3186,
+    "kontrast": 52,
+    "medyan": 155,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1708592956177-d29b4b4ce348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHJlZSUyMHBsYW50aW5nJTIwYWN0aXZpdHl8ZW58MXwwfHx8MTc5NDY1NjM2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "61b0a0616f6ff08b": {
    "icerik": {
@@ -52092,6 +52555,41 @@
      },
      "t": "2026-11-08T11:37:48+03:00"
     },
+    "r1:2538457ddae6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eylemde tutulan iklim adaleti pankartı haberin içeriğini ve miting atmosferini çok iyi yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "kalabalık grup",
+        "var": true
+       },
+       {
+        "unsur": "pankart",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       194,
+       203,
+       901,
+       744
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:11+03:00"
+    },
     "r1:5a23dad379a3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -52188,7 +52686,7 @@
     "dh": "0da3b3231796a79d",
     "sha": "0c79a7c4cad23ce3509fb7da"
    },
-   "t": "2026-11-14T13:10:18+03:00",
+   "t": "2026-11-14T14:39:11+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -54946,13 +55444,42 @@
       "yasak": []
      },
      "t": "2026-11-13T13:59:45+03:00"
+    },
+    "r1:7a7ebccd1acc:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta cami ve binalar yer almaktadır, adliye binası görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "suçlu",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-14T14:39:54+03:00"
     }
    },
    "ozet": {
     "dh": "012909002919ca0a",
     "sha": "eef198768cb44388d3c49c6c"
    },
-   "t": "2026-11-13T13:59:45+03:00",
+   "t": "2026-11-14T14:39:54+03:00",
    "teknik": {
     "doygunluk": 44.0,
     "inen": [
@@ -59557,6 +60084,35 @@
      },
      "t": "2026-11-13T13:59:45+03:00"
     },
+    "r1:7a7ebccd1acc:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bir kitap kafe ve sokak görünümü yer almaktadır, adliye binası yoktur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "suçlu",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-14T14:39:54+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -59593,7 +60149,7 @@
     "dh": "72221bccccd5ad1e",
     "sha": "55d4facbdbbbb1ae48459fde"
    },
-   "t": "2026-11-13T13:59:45+03:00",
+   "t": "2026-11-14T14:39:54+03:00",
    "teknik": {
     "doygunluk": 35.7,
     "inen": [
@@ -60926,6 +61482,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey.jpg/1280px-Regnum_Carya_Golf_Spa_%26_Resort%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7544ae6ea6296d8a": {
+   "icerik": {
+    "ana_kutu": [
+     486,
+     222,
+     659,
+     646
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ralli arabası",
+     "çekici kamyon",
+     "deniz",
+     "bulutlu gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kenarındaki yolda çekici üzerinde taşınan ralli arabaları",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ralli yarışı",
+     "otomobil sporları"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim mitingi",
+     "siyasi protesto"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2538457ddae6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tamamen farklı bir konuya (ralli arabalarının taşınması) ait olduğundan iklim mitingi haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "kalabalık grup",
+        "var": false
+       },
+       {
+        "unsur": "pankart",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ed7b3f04486ce54c",
+    "sha": "a777307d394d99fef5069d8a"
+   },
+   "t": "2026-11-14T14:39:11+03:00",
+   "teknik": {
+    "doygunluk": 56.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.223,
+    "keskinlik": 1243,
+    "kontrast": 55,
+    "medyan": 112,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Impreza_Rally_Of_Turkey.JPG/1280px-Impreza_Rally_Of_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7547c0c0d7ff88c5": {
    "icerik": {
     "ana_kutu": [
@@ -61579,6 +62225,90 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mushroom_sisig.jpg/1280px-Mushroom_sisig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "76297b297b4f39c6": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     520,
+     668,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yürüyüş yolu",
+     "çam ağacı",
+     "palmiye",
+     "bina",
+     "çim alan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Peyzajlı yürüyüş yolu ve otel/bina görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "adliye haberi",
+     "hukuk haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7a7ebccd1acc:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Manavgat'taki bir tesisi/oteli gösteriyor; adliye veya ticaret mahkemesi yükü haberiyle ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:40:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "87179b0907874759",
+    "sha": "0f3ffaf3661eabe8b3bdb080"
+   },
+   "t": "2026-11-14T14:40:00+03:00",
+   "teknik": {
+    "doygunluk": 44.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.135,
+    "keskinlik": 3033,
+    "kontrast": 62,
+    "medyan": 125,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "766239e83d57a8a2": {
    "icerik": {
@@ -65795,6 +66525,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg/1280px-Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8018a75bfed813b9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "harita",
+     "bölge sınırları",
+     "yazı",
+     "lejant"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Seul bölgelerini gösteren renkli şehir haritası.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şehir planlaması",
+     "yerel yönetim",
+     "harita"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim zirvesi",
+     "konferans",
+     "panel"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b5c2b642d645:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şehir planlaması temalı olsa da Seul haritası olması Antalya'daki zirve haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "dinleyiciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:40:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9488e67cdce0e464",
+    "sha": "586c81f8d02bf91798bc3230"
+   },
+   "t": "2026-11-14T14:40:20+03:00",
+   "teknik": {
+    "doygunluk": 19.5,
+    "inen": [
+     500,
+     454
+    ],
+    "karanlik_oran": 0.007,
+    "keskinlik": 2574,
+    "kontrast": 45,
+    "medyan": 230,
+    "parlaklik": 217,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Neighborhood_Regions_and_Autonomous_Districts_of_Seoul_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8028d305de15dd5e": {
    "icerik": {
     "ana_kutu": [
@@ -68693,6 +69519,35 @@
      },
      "t": "2026-11-13T13:59:45+03:00"
     },
+    "r1:7a7ebccd1acc:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta antik kent kalıntıları yer almaktadır, adliye binası görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "suçlu",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-14T14:39:54+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -68729,7 +69584,7 @@
     "dh": "9e9bb96d6dd7c3ed",
     "sha": "806b02bddaa3e3886b7dc4cd"
    },
-   "t": "2026-11-13T13:59:45+03:00",
+   "t": "2026-11-14T14:39:54+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -85459,6 +86314,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg/1280px-Alanya_K%C4%B1z%C4%B1l_Kule_Courtyard_8506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a57c0b16fed70a45": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "çukur",
+     "toprak",
+     "tel çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda kazılmış çukurlar ve yürüyen insanlar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ağaçlandırma hazırlığı",
+     "çevre düzenlemesi",
+     "fidan çukuru"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir merkezi",
+     "kapalı alan",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:95cdcc170a44:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toprak ve kazılmış alanlar görülüyor ancak fidanlar belirgin değil.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": false
+       },
+       {
+        "unsur": "ağaçlandırma çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f1f4c2e26b733c3c",
+    "sha": "264cda1734a0f80706226b1f"
+   },
+   "t": "2026-11-14T14:39:32+03:00",
+   "teknik": {
+    "doygunluk": 42.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 5393,
+    "kontrast": 57,
+    "medyan": 115,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tree_Planting_in_Bagmane_Tech_Park_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "a5b0ae28f19f54f5": {
    "icerik": {
     "ana_kutu": [
@@ -88083,13 +89028,42 @@
       "yasak": []
      },
      "t": "2026-11-13T13:59:45+03:00"
+    },
+    "r1:7a7ebccd1acc:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta otel ve sokak manzarası yer almaktadır, adliye binası bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "suçlu",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-14T14:39:54+03:00"
     }
    },
    "ozet": {
     "dh": "f3feb5375aa28313",
     "sha": "b567415ae81d8a247cdca613"
    },
-   "t": "2026-11-13T13:59:45+03:00",
+   "t": "2026-11-14T14:39:54+03:00",
    "teknik": {
     "doygunluk": 44.5,
     "inen": [
@@ -92697,6 +93671,37 @@
      },
      "t": "2026-11-13T11:58:38+03:00"
     },
+    "r1:7a7ebccd1acc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir bina cephesini gösteriyor ancak haberde geçen Manavgat adliyesiyle doğrudan bir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:40:00+03:00"
+    },
     "r1:7b927dbdbc32:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -92766,7 +93771,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-14T12:18:17+03:00",
+   "t": "2026-11-14T14:40:00+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -106406,6 +107411,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Antalya07.jpg/1280px-Antalya07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ced5c65e4d6699e4": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "fidan",
+     "saksı",
+     "kuru ot"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Arazide çömelmiş fidan tutan bir kadın.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fidan dikimi",
+     "ağaçlandırma",
+     "gönüllü faaliyeti"
+    ],
+    "uygunsuz_baglamlar": [
+     "şehir merkezi",
+     "trafik",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      236,
+      439,
+      422,
+      545
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:95cdcc170a44:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fidan dikimi ve toprak hazırlığı açıkça temsil ediliyor, haberle uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": false
+       },
+       {
+        "unsur": "ağaçlandırma çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T14:39:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2a107049693d9991",
+    "sha": "0406c908d1884941351e2213"
+   },
+   "t": "2026-11-14T14:39:32+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.064,
+    "keskinlik": 4530,
+    "kontrast": 41,
+    "medyan": 138,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/20231104_volunteer_holds_sapling_%2853498156381%29.jpg/1280px-20231104_volunteer_holds_sapling_%2853498156381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ceeb16ce19107525": {
    "icerik": {
     "ana_kutu": [
@@ -118859,6 +119961,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Rumelange%2C_cin%C3%A9ma_Kursaal.jpg/1280px-Rumelange%2C_cin%C3%A9ma_Kursaal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ea8a373357c0152f": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sokak",
+     "tel örgü",
+     "tenis kortu",
+     "sokak lambası",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlı yol, tel örgü ve sol tarafta tenis kortu bulunan bir sokak görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şehir manzarası",
+     "turizm tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "adliye haberleri",
+     "ticaret mahkemesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7a7ebccd1acc:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde adliye binası gereklidir, bu fotoğrafta sokak ve tenis kortu görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "suçlu",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-14T14:39:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "071b47678c1ef623",
+    "sha": "6fff81265d97ef4cf6741ce5"
+   },
+   "t": "2026-11-14T14:39:54+03:00",
+   "teknik": {
+    "doygunluk": 15.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 1178,
+    "kontrast": 62,
+    "medyan": 154,
+    "parlaklik": 164,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/ASKA_WASHINGTON_5_-_panoramio_%281%29.jpg/1280px-ASKA_WASHINGTON_5_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "eac775770109de11": {
    "icerik": {
@@ -135770,7 +136962,7 @@
    "gosterim_ad": "iklim eylemi pankartı",
    "ilk_kabul": "2026-11-08T11:37:48+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Markus Spiske / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -135791,6 +136983,7 @@
     "Greenpeace aktivistleri",
     "el",
     "kalabalık",
+    "kalabalık grup",
     "pankart"
    ],
    "kucuk": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMHByb3Rlc3QlMjBiYW5uZXIlMjBzYW5kfGVufDF8MHx8fDE3OTQxMjcwNTh8MA&ixlib=rb-4.1.0&q=80&w=400",
@@ -135807,7 +137000,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T11:37:48+03:00",
+   "son_kabul": "2026-11-14T14:39:11+03:00",
    "url": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMHByb3Rlc3QlMjBiYW5uZXIlMjBzYW5kfGVufDF8MHx8fDE3OTQxMjcwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
