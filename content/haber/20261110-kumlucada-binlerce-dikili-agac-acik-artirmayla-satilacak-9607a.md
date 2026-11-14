@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1440581572325-0bea30075d9d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1712742609432-1e81639d59fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGluZSUyMGZvcmVzdCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0Mjk0MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080
+yazim_denetim: y1
 ---
 Kumluca'da ormanlık alanlardaki dikili ağaçların satışı amacıyla yeni bir ihale süreci başlatıldı. İlgili birim tarafından yayımlanan duyuruya göre, toplam 6 bin 435 adet ağaç tek parti halinde açık artırma usulüyle yeni sahiplerini bulacak.
 

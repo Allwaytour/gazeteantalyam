@@ -57,6 +57,7 @@ gorsel_yerlesim:
 baslik_ozgun: Antalya'da yeni genel merkez binasi dikkat cekiyor
 baslik_onceki: Antalya'da yeni genel merkez binası dikkat cekiyor
 yazim_duzeltme: cekiyor→çekiyor
+yazim_denetim: y1
 ---
 Antalya'nın Kepez bölgesinde, kentin önemli ulaşım akslarından biri olan Çevreyolu üzerinde konumlanan Sayın Antalya Genel Merkez Binası, mevcut bir yapının çekirdeği korunarak yeniden ele alındı. Proje, modern ofis tipolojisini doğal malzemenin zamansız karakteriyle harmanlayarak büyüyen kurumsal yapının ihtiyaçlarına cevap veriyor. Yapının tasarımında bölgenin iklimsel verileriyle uyumlu, kurumsal kimliği yansıtan bir duruş ve yerel kaynakların mimari estetikle bütünleşmesi hedeflendi.
 

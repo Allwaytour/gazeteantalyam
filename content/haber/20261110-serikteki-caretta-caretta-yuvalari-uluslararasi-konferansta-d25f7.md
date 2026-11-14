@@ -74,8 +74,10 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1773829020694-413e879d2957?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: ikiyüz→iki yüz
+yazim_denetim: y1
 ---
-Akdeniz'in farklı ülkelerinden bilim insanları ve uzmanlar, deniz kaplumbağalarının korunması amacıyla Yunanistan'ın başkenti Atina yakınlarındaki Marathon bölgesinde bir araya geldi. Sekizincisi gerçekleştirilen Akdeniz Deniz Kaplumbağaları Konferansı, yirmi ülkeden ikiyüz kırk araştırmacı ve çevre kuruluşu temsilcisinin katılımıyla sürdürülüyor. Beş gün süren programda, bölgedeki deniz kaplumbağalarının geleceği, yuvalama alanlarının korunması ve turizm faaliyetlerinin etkileri masaya yatırılıyor.
+Akdeniz'in farklı ülkelerinden bilim insanları ve uzmanlar, deniz kaplumbağalarının korunması amacıyla Yunanistan'ın başkenti Atina yakınlarındaki Marathon bölgesinde bir araya geldi. Sekizincisi gerçekleştirilen Akdeniz Deniz Kaplumbağaları Konferansı, yirmi ülkeden iki yüz kırk araştırmacı ve çevre kuruluşu temsilcisinin katılımıyla sürdürülüyor. Beş gün süren programda, bölgedeki deniz kaplumbağalarının geleceği, yuvalama alanlarının korunması ve turizm faaliyetlerinin etkileri masaya yatırılıyor.
 
 Konferans kapsamında Türkiye'nin en önemli caretta caretta yuvalama merkezlerinden biri olan Antalya'nın Serik ilçesindeki Belek kumsalında otuz iki yıldır sürdürülen çalışmalar da aktarılıyor. Otuz kilometrelik sahil şeridini kapsayan bölgede, yumurtaların güvenliği ve yavruların denize ulaşması için yürütülen faaliyetler uluslararası katılımcılarla paylaşılıyor. Bölgede gerçekleştirilen son izleme çalışmalarında iki bin üç yüz yuva tespit edildiği belirtilirken, bu verilerin bilimsel kayıtlar açısından taşıdığı önem vurgulanıyor.
 

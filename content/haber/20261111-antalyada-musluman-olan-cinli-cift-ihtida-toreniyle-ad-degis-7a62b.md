@@ -70,6 +70,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/0/00/Alanya_Kuyularonu_Mosque_7958.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Pekin'de yaşayan ve sekiz yıllık evli olan Moyuan Song ile Luoxi Xu çifti, yaklaşık iki yıl önce işlerini bırakarak dünya turuna çıktı. Seyahatlerinin ilk durağı olan Endonezya'da karşılaştıkları misafirperverlikten ve yakın ilgiden etkilenen çift, İslamiyet'i araştırmaya başladı. Tur kapsamında Türkiye'ye gelen ikili, Antalya'nın tarihi Kaleiçi bölgesindeki bir parkta dinlenirken emekli Aysel ve Abdurrahman Akgüç çiftiyle tanıştı.
 

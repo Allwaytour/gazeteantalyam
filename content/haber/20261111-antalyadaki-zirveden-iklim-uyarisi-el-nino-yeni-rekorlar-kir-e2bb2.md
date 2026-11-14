@@ -76,6 +76,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da gerçekleştirilen iklim zirvesinde, küresel ısınmanın ve iklim değişikliğinin getirdiği tehlikelere dikkat çekildi. Dünya Meteoroloji Örgütü tarafından paylaşılan rapora göre, 2015 ile 2026 yılları arasındaki zaman dilimi, şimdiye kadar kayıtlara geçen en sıcak dönem olarak kayıtlara geçti. Bu yılın ocak ve seylül ayları arasındaki süreçte küresel ortalama yüzey sıcaklığı, sanayi öncesi dönemin yaklaşık 1.47 derece üzerine çıktı.
 

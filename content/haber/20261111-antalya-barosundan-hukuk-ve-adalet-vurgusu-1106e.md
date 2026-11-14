@@ -75,6 +75,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
+yazim_denetim: y1
 ---
 Antalya Dostlar Platformu üyeleri, kent merkezindeki bir otelde düzenlenen kahvaltı programında bir araya geldi. Toplantının açılışında konuşan Erdoğan Kahya, platformun temel amacının Antalya ve Antalyalılık bilinci etrafında birlik, beraberlik ve yardımlaşma kültürünü güçlendirmek olduğunu belirtti. Kahya, şehirle ilgili genel ve yerel konuların yanı sıra çeşitli projeler ile fikirlerin de bu platformda tartışıldığını ifade etti.
 

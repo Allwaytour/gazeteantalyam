@@ -76,9 +76,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/3D_Judges_Gavel.jpg
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
+yazim_duzeltme: Soruçturmanın→Soruşturmanın
+yazim_denetim: y1
 ---
 Alanya'da yürütülen mali usulsüzlük soruşturması kapsamında gözaltına alınan şüphelilerin adli işlemleri tamamlandı. Soruşturmayı yürüten makamlarca mahkemeye sevk edilen şüphelilerden E.A., A.A. ve M.Y. tutuklanarak cezaevine gönderildi. Müteahhit A.F. hakkında ev hapsi ile yurt dışına çıkış yasağı şeklinde adli kontrol tedbiri uygulanırken, T.K. isimli şüpheli ise serbest bırakıldı.
 
 Soruşturma dosyasında şirketler arası para transferleri ile kayıt dışı tahsilat iddiaları inceleniyor. Mali Suçları Araştırma Kurulu raporlarının da dosyaya eklendiği süreçte, mali işlemlere yönelik detaylı incelemelerin sürdürüldüğü bildirildi.
 
-Soruçturmanın başlangıcı, geçtiğimiz mayıs ayında hayatını kaybeden Aydın Çavuşoğlu'nun ardından ortaya çıkan notlara dayanıyor. Başsavcılıktaki soruşturma dosyasında yer alan belgelerde, Çavuşoğlu'nun iş ortağı tarafından zarara uğratıldığına dair iddialar bulunduğu öğrenildi. Dosyada toplam 11 şüphelinin bulunduğu ve savcılığın finansal hareketlere ilişkin incelemelerinin devam ettiği kaydedildi.
+Soruşturmanın başlangıcı, geçtiğimiz mayıs ayında hayatını kaybeden Aydın Çavuşoğlu'nun ardından ortaya çıkan notlara dayanıyor. Başsavcılıktaki soruşturma dosyasında yer alan belgelerde, Çavuşoğlu'nun iş ortağı tarafından zarara uğratıldığına dair iddialar bulunduğu öğrenildi. Dosyada toplam 11 şüphelinin bulunduğu ve savcılığın finansal hareketlere ilişkin incelemelerinin devam ettiği kaydedildi.

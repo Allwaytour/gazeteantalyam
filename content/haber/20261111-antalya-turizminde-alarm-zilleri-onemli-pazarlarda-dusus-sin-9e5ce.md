@@ -74,10 +74,12 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
 - https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_duzeltme: Batuğhan→Batuhan
+yazim_denetim: y1
 ---
 Antalya Kent Konseyi'nde Recep Yavuz'un başkanlığında gerçekleştirilen toplantıda, kentin turizm sektöründeki mevcut durum ve geleceğe yönelik riskler ele alındı. Otelciler, tur operatörleri ve havayolu temsilcilerinin katıldığı buluşmada, turist sayısındaki artışın tek başına başarı göstergesi olmadığı vurgulanarak kişi başı gelir ile sektörün kazancının ön planda tutulması gerektiği ifade edildi. Paylaşılan verilere göre, Almanya ve İngiltere pazarında gerileme yaşandığı belirtildi.
 
-MTS Globe Türkiye Yönetim Kurulu Başkanı Münci Karakaya, uçuş kapasitelerindeki daralma ile rakip ülkelerin rekabeti artırmasının Türkiye'yi zorladığını kaydetti. Corendon Turizm Grubu Finans Danışmanı Dr. Batuğhan Karaer ise jet yakıtı fiyatlarındaki artışın uçuş maliyetlerini yükselttiğini ve bu durumun paket tur fiyatlarına yansıdığını aktardı. Rocket DMC Türkiye CEO'su Kamil Özil ise havalimanlarındaki bekleme süreleri, transfer aksaklıkları ve trafik gibi unsurların turist memnuniyetini olumsuz etkilediğine dikkati çekti.
+MTS Globe Türkiye Yönetim Kurulu Başkanı Münci Karakaya, uçuş kapasitelerindeki daralma ile rakip ülkelerin rekabeti artırmasının Türkiye'yi zorladığını kaydetti. Corendon Turizm Grubu Finans Danışmanı Dr. Batuhan Karaer ise jet yakıtı fiyatlarındaki artışın uçuş maliyetlerini yükselttiğini ve bu durumun paket tur fiyatlarına yansıdığını aktardı. Rocket DMC Türkiye CEO'su Kamil Özil ise havalimanlarındaki bekleme süreleri, transfer aksaklıkları ve trafik gibi unsurların turist memnuniyetini olumsuz etkilediğine dikkati çekti.
 
 Toplantıda ayrıca otel fiyatları ile hizmet kalitesi arasındaki dengesizlik ele alınarak, sezon içindeki ani fiyat indirimlerinin politikaların yeniden gözden geçirilmesini zorunlu kıldığı belirtildi. Personel koşullarının iyileştirilmesi ve her şey dahil sisteminde kaliteden ödün verilmemesi gerektiği vurgulandı. SKÅL Türkiye Ulusal Komitesi Başkan Yardımcısı H. Cüneyt Kuru da havalimanı, ulaşım ve otel hizmetlerinde daha güçlü bir denetim mekanizması çağrısında bulundu.
 

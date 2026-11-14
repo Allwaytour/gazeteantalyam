@@ -80,6 +80,8 @@ metin_onarim:
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1578269174936-2709b6aeb913?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: Tactik→Taktik
+yazim_denetim: y1
 ---
 Uluslararası karate camiasının en önemli organizasyonları arasında yer alan 15. SKIF Dünya Şampiyonası, 9-15 Kasım 2026 tarihleri arasında Antalya'da düzenlenecek. Japonya merkezli Shotokan Karate-do International Federation tarafından organize edilen dev buluşma, kentte çok sayıda sporcu ve sporseveri bir araya getirecek.
 
@@ -87,4 +89,4 @@ Organize edilecek dev organizasyona 47 farklı ülkeden 115 takım adına katıl
 
 Aynı tarihlerde kentte başka bir uluslararası zirvenin de yer alacak olması nedeniyle katılımcılara trafik konusunda uyarılarda bulunuldu. Müsabakalara gecikmeden katılabilmek adına konaklama alanlarından erken saatlerde hareket edilmesi istendi.
 
-Tactik ve teknik mücadelelerin sahne alacağı bu büyük buluşmada Türkiye'yi temsil edecek sporcular ile uluslararası camianın önemli isimleri tatamide madalya arayacak. Antalya, bir hafta boyunca dünya karatesinin kalbinin attığı adres olacak.
+Taktik ve teknik mücadelelerin sahne alacağı bu büyük buluşmada Türkiye'yi temsil edecek sporcular ile uluslararası camianın önemli isimleri tatamide madalya arayacak. Antalya, bir hafta boyunca dünya karatesinin kalbinin attığı adres olacak.

@@ -74,6 +74,7 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg/1280px-Second_Gentleman_Doug_Emhoff_greets_professional_pickleball_players_at_the_Miami_Open_Tennis_Tournament_%28S20240327CS-0772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/7/71/A_pickleball_paddle_with_two_pickleballs.jpg
+yazim_denetim: y1
 ---
 Dünya genelinde hızla yayılan ve son yıllarda farklı yaş gruplarından ilgi gören pickleball sporunun uluslararası alandaki gelişimine katkı sunan European Pickleball Open, Manavgat'ta gerçekleştirildi. Dünyada ilk kez düzenlenen bu büyük organizasyon, 3 ila 8 Kasım 2026 tarihleri arasında spor tutkunlarını bir araya getirdi. 
 
