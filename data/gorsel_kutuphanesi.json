@@ -557,6 +557,121 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Group-D_housing_under_construction_in_Amaravati.jpg/1280px-Group-D_housing_under_construction_in_Amaravati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "00db2beb5a2b8d4d": {
+   "icerik": {
+    "ana_kutu": [
+     496,
+     386,
+     776,
+     552
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "pazar tezgahı",
+     "meyve kasası",
+     "portakal",
+     "limon",
+     "çadır"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada pazar tezgahından meyve seçen insanlar.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "pazar alışverişi",
+     "yağmurlu gün",
+     "semt pazarı"
+    ],
+    "uygunsuz_baglamlar": [
+     "süpermarket",
+     "avm",
+     "kapalı alan"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      504,
+      429,
+      768,
+      552
+     ],
+     [
+      464,
+      277,
+      732,
+      383
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d6602599ee76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pazar ortamını ve tezgahları gösteriyor ancak yağmurluklu insan detayı eksik.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "sebze meyve",
+        "var": true
+       },
+       {
+        "unsur": "yağmurluklu insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:40:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8b018560a4bd059d",
+    "sha": "21ae92adadf32c08dda08acb"
+   },
+   "t": "2026-11-14T15:40:14+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.342,
+    "keskinlik": 2754,
+    "kontrast": 73,
+    "medyan": 90,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1645976442233-bcf005876613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFybWVycyUyMG1hcmtldCUyMHN0YWxsc3xlbnwxfDB8fHwxNzk0NjU5OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "00dc2a67dca71ec6": {
    "icerik": {
     "ana_kutu": [
@@ -22109,6 +22224,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg/1280px-Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "276639f24dd03af7": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     0,
+     680,
+     592
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "akvaryum binası",
+     "havuz",
+     "fıskiye",
+     "palmiye",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Akvaryum binası dış cephesi, önünde havuz ve yeşillik alan.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "akvaryum haberleri",
+     "genel kurul duyurusu",
+     "kurum tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "siyasi miting",
+     "adliye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a86c0181fd3f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan Antalya Akvaryum binası dışarıdan net şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "kurum binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       0,
+       680,
+       592
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:39:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7098cc10c1cd4c11",
+    "sha": "69ecd97ddb0df12e58bc6d21"
+   },
+   "t": "2026-11-14T15:39:16+03:00",
+   "teknik": {
+    "doygunluk": 29.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.133,
+    "keskinlik": 2370,
+    "kontrast": 68,
+    "medyan": 156,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Antalya_Aquarium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "276684525274a3da": {
    "icerik": {
@@ -56945,6 +57154,100 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Oakley_sunglasses_at_volleyball_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6c6dc545a33f255d": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     0,
+     818,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "metal kapak",
+     "kaldırım taşı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaldırımda yer alan metal bir tartı kapağı veya ızgara detayı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi eser",
+     "metal isliligi",
+     "yerel tarih"
+    ],
+    "uygunsuz_baglamlar": [
+     "pazar alısverisi",
+     "sebze meyve",
+     "yagmur bereketi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6602599ee76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta pazar alışverişi veya yağmurla ilgili herhangi bir unsur bulunmamaktadır, tamamen alakasız bir metal kapaktır.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve",
+        "var": false
+       },
+       {
+        "unsur": "yağmurluklu insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:40:01+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d6fa9a1e1da5b15d",
+    "sha": "54f03b6800660157c61b49aa"
+   },
+   "t": "2026-11-14T15:40:14+03:00",
+   "teknik": {
+    "doygunluk": 13.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.015,
+    "keskinlik": 3408,
+    "kontrast": 44,
+    "medyan": 152,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Weighbridge_outside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg/1280px-Weighbridge_outside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6c9db9118d677648": {
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
@@ -61393,6 +61696,93 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1653673662935-ae19b645096f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8aGlzdG9yaWMlMjBtb3NxdWUlMjBhcmNoaXRlY3R1cmV8ZW58MXwwfHx8MTc5NDY1Mjc1NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "751d657ddb1875cc": {
+   "icerik": {
+    "ana_kutu": [
+     123,
+     100,
+     725,
+     905
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akvaryum tankı",
+     "uçak batığı maketi",
+     "vatoz balığı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Akvaryum içindeki su altı batık uçak maketi ve balık.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "akvaryum turu",
+     "su altı yaşamı",
+     "müze tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "genel kurul toplantısı",
+     "mali rapor",
+     "seçim haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a86c0181fd3f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akvaryum içi gösterilse de genel kurul haberi için bina dış görünümü daha uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kurum binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:39:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bfb78da7f7323ff8",
+    "sha": "cda2507c19bfe10de7d28549"
+   },
+   "t": "2026-11-14T15:39:16+03:00",
+   "teknik": {
+    "doygunluk": 73.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.22,
+    "keskinlik": 750,
+    "kontrast": 58,
+    "medyan": 94,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2014_Antalya_Aquarium_059.jpg/1280px-2014_Antalya_Aquarium_059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "753df8aab6672e43": {
    "icerik": {
@@ -81433,6 +81823,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cemil_Tugay.jpg/1280px-Cemil_Tugay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9ae84c920975eb18": {
+   "ozet": {
+    "dh": "460c1d1e0e373b7e",
+    "sha": "c4d676e62d89f44d9f16f72a"
+   },
+   "t": "2026-11-14T15:39:13+03:00",
+   "teknik": {
+    "doygunluk": 72.5,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.68,
+    "keskinlik": 1267,
+    "kontrast": 48,
+    "medyan": 30,
+    "parlaklik": 46,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ambystoma_mexicanum_in_the_Antalya_Aquarium.jpg/1280px-Ambystoma_mexicanum_in_the_Antalya_Aquarium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9b11db03419eea75": {
    "ozet": {
     "dh": "c7a6c5b9b4dd9c3f",
@@ -91972,6 +92383,127 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "b00533bb3b634b72": {
+   "icerik": {
+    "ana_kutu": [
+     426,
+     706,
+     966,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "pazar çadırı",
+     "tezgah",
+     "insan",
+     "çanta",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada pazar tezgahları arasında dolaşan insanlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "pazar alışverişi",
+     "açık hava pazarı",
+     "semt pazarı"
+    ],
+    "uygunsuz_baglamlar": [
+     "süpermarket",
+     "kapalı alan",
+     "yağmurlu hava"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      659,
+      271,
+      996,
+      453
+     ],
+     [
+      663,
+      411,
+      996,
+      517
+     ],
+     [
+      656,
+      508,
+      996,
+      678
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d6602599ee76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf pazar ortamını gösteriyor ancak hava güneşli ve yabancı bir ülke.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "sebze meyve",
+        "var": true
+       },
+       {
+        "unsur": "yağmurluklu insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       426,
+       706,
+       966,
+       999
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:39:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d12d33746c90958",
+    "sha": "01f05373c219717a7375bf9d"
+   },
+   "t": "2026-11-14T15:40:14+03:00",
+   "teknik": {
+    "doygunluk": 29.7,
+    "inen": [
+     500,
+     360
+    ],
+    "karanlik_oran": 0.177,
+    "keskinlik": 2611,
+    "kontrast": 63,
+    "medyan": 135,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Otago_Farmers_Market_main_carpark_stalls_13_Dec_2025.jpg/1280px-Otago_Farmers_Market_main_carpark_stalls_13_Dec_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b012f1144e0b617c": {
    "icerik": {
@@ -113050,6 +113582,127 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sunny_weather_in_unknown_location.jpg/1280px-Sunny_weather_in_unknown_location.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ddd0948360bd5a48": {
+   "icerik": {
+    "ana_kutu": [
+     392,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "pazar tezgahı",
+     "çadır",
+     "insan",
+     "çanta",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda tezgahlar ve alışveriş yapan kalabalık bir pazar yeri",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "pazar yeri haberi",
+     "açık hava pazarı",
+     "haftasonu alışverişi"
+    ],
+    "uygunsuz_baglamlar": [
+     "süpermarket haberi",
+     "kapalı avm haberi",
+     "yağmurlu hava haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      732,
+      47,
+      1000,
+      277
+     ],
+     [
+      696,
+      298,
+      1000,
+      471
+     ],
+     [
+      656,
+      513,
+      1000,
+      700
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d6602599ee76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pazar ortamını gösteriyor ancak hava güneşli ve yabancı bir pazar yeri.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "sebze meyve",
+        "var": false
+       },
+       {
+        "unsur": "yağmurluklu insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       410,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:39:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d12d33746098988",
+    "sha": "5b60f7aeedabbf68713803cd"
+   },
+   "t": "2026-11-14T15:40:14+03:00",
+   "teknik": {
+    "doygunluk": 28.5,
+    "inen": [
+     500,
+     362
+    ],
+    "karanlik_oran": 0.178,
+    "keskinlik": 2589,
+    "kontrast": 61,
+    "medyan": 134,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Otago_Farmers_Market_stalls_in_main_carpark_13_Dec_2025.jpg/1280px-Otago_Farmers_Market_stalls_in_main_carpark_13_Dec_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ddebb2f0a4f38e31": {
    "ozet": {
     "dh": "704c9c362269c027",
@@ -120329,6 +120982,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_2022_Waiter.jpg/1280px-Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_2022_Waiter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "eadef93bda065f3d": {
+   "icerik": {
+    "ana_kutu": [
+     126,
+     131,
+     808,
+     802
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kantar",
+     "duvar saati",
+     "afişler",
+     "çerçeveli tablo",
+     "tavan kemeri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı mekanda tavana asılı büyük siyah metal kantar terazisi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi yapi",
+     "muze haberi",
+     "pazar tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "pazar alisverisi",
+     "hava kosullari",
+     "sebze meyve pazari"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d6602599ee76:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf kapalı mekandaki bir tartı aletini gösterir; Şirinyalı Pazarı ve yağmur haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": false
+       },
+       {
+        "unsur": "sebze meyve",
+        "var": false
+       },
+       {
+        "unsur": "yağmurluklu insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-14T15:40:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "53e3b0c8d8ac2a2a",
+    "sha": "10693b0d8e80d7ebca4ef0ad"
+   },
+   "t": "2026-11-14T15:40:14+03:00",
+   "teknik": {
+    "doygunluk": 18.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 1872,
+    "kontrast": 55,
+    "medyan": 162,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Scales_hanging_from_the_ceiling_inside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg/1280px-Scales_hanging_from_the_ceiling_inside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "eb7adeb531eb0eda": {
    "icerik": {
@@ -132484,6 +133234,69 @@
   }
  },
  "kayitlar": {
+  "00db2beb5a2b8d4d": {
+   "alt_tur": "nesne",
+   "boyut": [
+    7008,
+    4672
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık havada pazar tezgahından meyve seçen insanlar.",
+   "gosterim_ad": "pazar alışverişi",
+   "ilk_kabul": "2026-11-14T15:40:14+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Remy Gieling / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Remy Gieling",
+    "sayfa": "https://unsplash.com/photos/a-group-of-people-standing-around-a-fruit-stand-H0v6g8FGvFQ"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "limon",
+    "meyve kasası",
+    "pazar tezgahları",
+    "pazar tezgahı",
+    "portakal",
+    "sebze meyve",
+    "çadır"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1645976442233-bcf005876613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFybWVycyUyMG1hcmtldCUyMHN0YWxsc3xlbnwxfDB8fHwxNzk0NjU5OTY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "pazar alışverişi",
+    "yağmurlu gün",
+    "semt pazarı"
+   ],
+   "kullanilamaz": [
+    "süpermarket",
+    "avm",
+    "kapalı alan"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-14T15:40:14+03:00",
+   "url": "https://images.unsplash.com/photo-1645976442233-bcf005876613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFybWVycyUyMG1hcmtldCUyMHN0YWxsc3xlbnwxfDB8fHwxNzk0NjU5OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "04a76ea6c76b1bdd": {
    "alt_tur": "nesne",
    "boyut": [
@@ -134042,6 +134855,74 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T12:40:03+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/1280px-Turkish_nature_reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "276639f24dd03af7": {
+   "alt_tur": "kurum",
+   "boyut": [
+    1280,
+    960
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2015-08-29",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya Akvaryum binası dış cephesi, önünde havuz ve yeşillik alan.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-14T15:39:16+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "МаратД / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "МаратД",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya_Aquarium.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Akvaryum",
+      "qid": "Q20470397"
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "akvaryum binası",
+    "fıskiye",
+    "havuz",
+    "kurum binası",
+    "palmiye",
+    "tabela"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antalya_Aquarium.jpg/500px-Antalya_Aquarium.jpg",
+   "kullanilabilir": [
+    "akvaryum haberleri",
+    "genel kurul duyurusu",
+    "kurum tanıtımı"
+   ],
+   "kullanilamaz": [
+    "spor müsabakası",
+    "siyasi miting",
+    "adliye haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "Q20470397",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-14T15:39:16+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Antalya_Aquarium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
     "yan",
