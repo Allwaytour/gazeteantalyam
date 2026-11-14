@@ -121,9 +121,11 @@ yz: true
 kaynak: Milliyet
 kaynak_url: https://www.milliyet.com.tr/kultur-sanat/michelin-yildizli-sefler-antalyada-bulustu-88-ozel-lezzet-duragi-aciklandi-7696655
 gorsel_yedek: /images/haber-gorsel/20261108-antalyada-gastronomi-bulusmasi-88-lezzet-duragi-aciklandi-e4d-24211dae.jpg
+yazim_duzeltme: hibeşi→hibeş
+yazim_denetim: y1
 ---
 Kültür ve Turizm Bakanlığı tarafından hayata geçirilen Antalya Kültür Yolu Festivali, kentin zengin mutfak kültürünü gastronomi programıyla ön plana çıkardı. Şef Mehmet Akdağ’ın ev sahipliğinde gerçekleşen etkinliklerde, gastronomi dünyasının tanınmış isimleri Antalya’nın farklı ilçelerini kapsayan lezzet rotalarında bir araya geldi. Türkiye Turizm Tanıtım ve Geliştirme Ajansı tarafından yürütülen proje kapsamında 88 restoran gastronomi seçkisine dahil edildi.
 
 Akdeniz’in taze sebzeleri, deniz ürünleri ve Toroslar’ın Yörük kültürünü buluşturan Antalya mutfağı; tahinli piyaz, şiş köfte, hibeş, gülüklü çorba ve serpme börek gibi özgün tatlarıyla dikkat çekti. Festival programı kapsamında merkez ilçelerin yanı sıra Korkuteli, Elmalı, Gömbe, Finike, Beycik, Kaş, Manavgat ve Alanya’yı kapsayan rotalarda kentin köklü tarifleri keşfedildi. Etkinliklere Ozan Kumbasar, Vedat Başaran, Claudio Chinali, Bahtiyar Büyükduman ve Mutlu Şevket Yılmaz gibi tanınmış şefler de konuk oldu.
 
-Şef Mehmet Akdağ, kenti ziyaret edenlerin tahinli fasulye piyazı, bal kabağı dolması ve hibeşi mutlaka tatması gerektiğini belirtti. Antalya’nın sebze ve meyve üretimindeki gücünün mutfak kültürüne doğrudan yansıdığını ifade eden Akdağ, Lezzet Noktası Projesi sayesinde yöresel lezzetlerin daha geniş kitlelerle buluştuğunu kaydetti. Kentteki köklü işletmeciler de taze ve kaliteli malzemelerle hazırlanan geleneksel tariflerin kuşaklar boyunca yaşatıldığını vurguladı.
+Şef Mehmet Akdağ, kenti ziyaret edenlerin tahinli fasulye piyazı, bal kabağı dolması ve hibeş mutlaka tatması gerektiğini belirtti. Antalya’nın sebze ve meyve üretimindeki gücünün mutfak kültürüne doğrudan yansıdığını ifade eden Akdağ, Lezzet Noktası Projesi sayesinde yöresel lezzetlerin daha geniş kitlelerle buluştuğunu kaydetti. Kentteki köklü işletmeciler de taze ve kaliteli malzemelerle hazırlanan geleneksel tariflerin kuşaklar boyunca yaşatıldığını vurguladı.

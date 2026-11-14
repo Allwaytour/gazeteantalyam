@@ -78,6 +78,8 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1630830844072-b7ad174db3bc?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: teşnisin→teşhisin
+yazim_denetim: y1
 ---
 Antalya'da Lösemili Çocuklar Haftası kapsamında, tedavi süreci devam eden miniklerin motivasyonunu artırmak amacıyla anlamlı bir farkındalık programı organize edildi. Lösemili Çocuklar Sağlık ve Eğitim Vakfı öncülüğünde Antalya Eğitim ve Araştırma Hastanesi bahçesinde bir araya gelen gönüllüler, eski hastalar ve aileler hastalıkla mücadele eden çocuklara destek oldu.
 
@@ -85,4 +87,4 @@ Farkındalığın rengi olan turuncu balonlar, hastane bahçesinden katılımcı
 
 Etkinliğe katılanlar arasında, 1,5 yaşında yakalandığı hastalığı yıllar süren mücadelenin ardından yenen 13 yaşındaki Cemre Gizem Bağlar da yer aldı. Tamamen iyileştiğini ve artık tedavi görmediğini belirten genç kız, hastanedeki çocuklara moral vermek için geldiğini ifade ederek tüm arkadaşlarına iyileşme dileklerini iletti.
 
-Cemre'nin annesi Yurdagül Bağlar ise kızına ilk teşnisin grip şüphesiyle gittikleri hastanede konulduğunu ve zorlu bir süreç geçirdiklerini aktardı. Hastane penceresinden dışarıyı izleyen çocukları görünce kendi geçmiş günlerini hatırladığını belirten anne, camın arkasından dışarıya bakmanın ne demek olduğunu çok iyi bildiklerini ifade ederek duygusal anlar yaşadı.
+Cemre'nin annesi Yurdagül Bağlar ise kızına ilk teşhisin grip şüphesiyle gittikleri hastanede konulduğunu ve zorlu bir süreç geçirdiklerini aktardı. Hastane penceresinden dışarıyı izleyen çocukları görünce kendi geçmiş günlerini hatırladığını belirten anne, camın arkasından dışarıya bakmanın ne demek olduğunu çok iyi bildiklerini ifade ederek duygusal anlar yaşadı.

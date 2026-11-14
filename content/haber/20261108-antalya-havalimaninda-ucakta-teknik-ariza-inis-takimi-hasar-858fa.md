@@ -151,6 +151,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1569839333583-7375336cde4b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1758418947217-1de525922ffa?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya Havalimanı'nda hareketli anlar yaşandı. Freebird Airlines Europe bünyesinde yer alan Airbus A320 tipi yolcu uçağında, park pozisyonundan geri itilme (pushback) işlemi yapıldığı sırada teknik bir aksaklık meydana geldi. Uçağın ön iniş takımı dikmesinde kırılma tespit edilmesi üzerine operasyon derhal durduruldu.
 

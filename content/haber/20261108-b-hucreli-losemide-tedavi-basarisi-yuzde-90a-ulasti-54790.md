@@ -80,6 +80,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Serik ilçesine bağlı Belek turizm merkezinde gerçekleştirilen 52. Ulusal Hematoloji Kongresi, alanında uzman bin 200'ü aşkın katılımcıyı bir araya getirdi. Beş gün süren kongrede, hematolojik hastalıkların tanı ve tedavisindeki güncel gelişmeler kapsamlı bir şekilde ele alındı. 34 oturumun düzenlendiği etkinlikte, 346 bilimsel bildiri değerlendirildi.
 

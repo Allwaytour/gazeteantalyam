@@ -173,6 +173,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/8/83/Wedding_rings_and_roses.jpg
+yazim_denetim: y1
 ---
 Antalya'daki bir otelde mesai yapan Anastasiya ile tatil için kente gelen Hasan Çelik'in yolları, zamanla duygusal bir bağa dönüştü. İlişkilerini evlilikle taçlandırma kararı alan çift, resmi nikahın ardından Anastasiya'nın Müslüman olmasıyla birlikte dini nikah da kıydı. 
 

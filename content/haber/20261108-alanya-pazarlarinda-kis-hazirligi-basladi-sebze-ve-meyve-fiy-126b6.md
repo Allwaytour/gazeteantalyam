@@ -117,10 +117,11 @@ kaynak_url: https://www.alanyaturk.com/alanya-pazarlarinda-kis-telasi-basladi
 gorsel_yedek: /images/haber-gorsel/20261108-alanya-pazarlarinda-kis-hazirligi-basladi-sebze-ve-meyve-fiy--e2acd618.jpg
 baslik_ozgun: Alanya pazarlarinda kis hazirligi basladi, sebze ve meyve fiyatlari
 baslik_onceki: Alanya pazarlarında kış hazirligi basladi, sebze ve meyve fiyatları
-yazim_duzeltme: hazirligi→hazırlığı; basladi→başladı
+yazim_duzeltme: hazirligi→hazırlığı; basladi→başladı; tezgahalarda→tezgahlarda
+yazim_denetim: y1
 ---
 Kış aylarının yaklaşmasıyla beraber sofraların vazgeçilmezi olan taze sebze ve meyvelere olan ilgi belirgin şekilde arttı. Alanya genelindeki semt pazarlarını ziyaret eden vatandaşlar, ihtiyaç duydukları ürünleri temin edebilmek için farklı tezgahları gezerek fiyat karşılaştırması yaptı. Tezgahlar arasında özellikle sınırlı miktarda bulunan mantar yoğun talep gördü. Kilogram fiyatı 200 ile 250 lira arasında değişen mantarın kısa sürede tükendiği ifade edildi. 
 
-Pazar tezgahlarında yer alan ürünlerin fiyatları da dikkat çekti. Buna göre domates 30 ile 60 lira, patates 30 ile 40 lira, salatalık 50 lira, patlıcan 50 lira, havuç 40 lira, soğan 40 lira, turp 30 lira ve biber 50 liradan alıcı buldu. Meyve grubunda ise üzüm 80 ile 100 lira, elma 50 lira ve ayva 50 lira fiyatla satışa sunuldu. Ayrıca taze fasulye 20 liradan raflarda yerini alırken, mısırın 7 tanesi 100 liralık fiyatla tezgahalarda yer aldı. 
+Pazar tezgahlarında yer alan ürünlerin fiyatları da dikkat çekti. Buna göre domates 30 ile 60 lira, patates 30 ile 40 lira, salatalık 50 lira, patlıcan 50 lira, havuç 40 lira, soğan 40 lira, turp 30 lira ve biber 50 liradan alıcı buldu. Meyve grubunda ise üzüm 80 ile 100 lira, elma 50 lira ve ayva 50 lira fiyatla satışa sunuldu. Ayrıca taze fasulye 20 liradan raflarda yerini alırken, mısırın 7 tanesi 100 liralık fiyatla tezgahlarda yer aldı. 
 
 Kış hazırlıklarını sürdüren ilçe sakinleri, bütçelerine en uygun ürünleri tercih etmeye özen gösterdi. Pazar esnafı ve alışveriş yapan vatandaşlar, değişen etiket fiyatları karşısında bütçelerini dengelemeye çalışarak pazar alışverişini tamamladı.

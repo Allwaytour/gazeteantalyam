@@ -77,6 +77,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1504711434969-e33886168f5c?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Küresel Gazeteciler Konseyi tarafından organize edilen 6. Küresel Medya Buluşması, Antalya'nın Alanya ilçesinde başladı. Eftelia Marin Resort Otel'de gerçekleştirilen ve Türkiye dahil 32 farklı ülkeden yaklaşık 350 gazetecinin yer aldığı buluşma, 6 ile 10 Kasım 2026 tarihleri arasında düzenleniyor. Program kapsamında ulusal ve uluslararası medya temsilcileri bir araya geliyor.
 
