@@ -78,11 +78,13 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
+yazim_duzeltme: AnadoluBacılar→Anadolu bacılar
+yazim_denetim: y1
 ---
 Uluslararası Antalya Altın Portakal Film Festivali kapsamında belgesel ve kısa film gösterimleri sinemaseverlerin ilgisiyle devam ediyor. Festivalde yarışma ve özel gösterim kategorilerinde yer alan birbirinden farklı yapımlar beyaz perdeye taşınırken, gösterimlerin ardından yönetmenler ve film ekipleri izleyicilerin sorularını yanıtladı.
 
 Ulusal Belgesel Yarışması'nda yer alan "Mükellef" filmi, eski bir sinema çalışanı olan ve sektörün zorluklarından bunalarak maden işçiliğine başlayan Akın Ertürk'ün hikâyesini sinemaya taşıdı. Yönetmen Arda Sarıgün, maden işçileriyle sohbet ederek belgeselin şekillendiğini belirtti. Günün bir diğer belgeseli "Kameram 45 Kilo" ise Paris'ten Türkiye'ye uzanan bir sinema yolculuğunu ve Kusturica'nın da kameramanlığını yapan Colin Mounier'in yaşamını izleyiciye aktardı.
 
-Özel gösterim programında yer alan "AnadoluBacılar, Bibiler ve Ezeler" adlı yapımın yönetmeni Ebru Güzel ve ekip üyeleri, kadın teması ve kadim ritüeller üzerine katılımcılarla söyleşi gerçekleştirdi. Beş yıllık bir çalışmanın ürünü olan belgeselde, Anadolu kadınlarının kıyafetlerindeki motifler ve kolektif hafıza ele alındı. Ayrıca Berlinale'den ödülle dönen "River Dreams" filminin yönetmeni Kristina Mikhailova ve ortak yapımcı Halil Buğday da Türk seyircilerle buluştu.
+Özel gösterim programında yer alan "Anadolu bacılar, Bibiler ve Ezeler" adlı yapımın yönetmeni Ebru Güzel ve ekip üyeleri, kadın teması ve kadim ritüeller üzerine katılımcılarla söyleşi gerçekleştirdi. Beş yıllık bir çalışmanın ürünü olan belgeselde, Anadolu kadınlarının kıyafetlerindeki motifler ve kolektif hafıza ele alındı. Ayrıca Berlinale'den ödülle dönen "River Dreams" filminin yönetmeni Kristina Mikhailova ve ortak yapımcı Halil Buğday da Türk seyircilerle buluştu.
 
 Ulusal Kısa Film Yarışması kategorisinde ise Para kazanmak için Süpermen kostümüyle dolaşan bir adamın trajikomik öyküsünü anlatan "Süpermen Bozkıra Düştü" filmi gösterildi. Senarist ve yönetmen Serdal Altun, filmin kökeninin ilkokul yıllındaki bir ders kitabı öyküsüne dayandığını ve küresel bir güç simgesi ile çaresiz bir insan figürünü buluşturmayı amaçladığını ifade etti.

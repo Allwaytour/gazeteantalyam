@@ -18812,13 +18812,48 @@
       "yasak": []
      },
      "t": "2026-11-13T11:29:07+03:00"
+    },
+    "r1:7c5db562e3db:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da düzenlenen COP31 iklim farkındalığı paneli ve etkinlik alanını doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "çevre farkındalığı etkinliği",
+        "var": true
+       },
+       {
+        "unsur": "konferans alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       410,
+       895,
+       960
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:12:09+03:00"
     }
    },
    "ozet": {
     "dh": "652464d296069349",
     "sha": "3352f5ef38e42588eaff5a64"
    },
-   "t": "2026-11-13T11:29:07+03:00",
+   "t": "2026-11-15T14:12:09+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -95319,6 +95354,34 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:37bf1222e607:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kaza davası ve adliye ile ilgili; fotoğraf ise yangın sahnesi gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza yeri"
+      ]
+     },
+     "t": "2026-11-15T14:11:13+03:00"
+    },
     "r1:a771d5f2024e:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -95359,7 +95422,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-15T11:41:44+03:00",
+   "t": "2026-11-15T14:11:13+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -96438,6 +96501,32 @@
      },
      "t": "2026-11-12T13:09:02+03:00"
     },
+    "r1:37bf1222e607:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber adliye davası ile ilgili, görsel ise genel bir ofis bina cephesi gösteriyor, adliye binası değil.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:11:13+03:00"
+    },
     "r1:40cf4cb0f71d:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -96595,7 +96684,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-14T15:09:25+03:00",
+   "t": "2026-11-15T14:11:13+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -101409,6 +101498,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1713885637715-b24886859709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMHJvYWQlMjBzaWduJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MjQ5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "bb9eb32f713c5b41": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     250,
+     780,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şelale",
+     "gölet",
+     "ağaç dalı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil doğa içinde akan şelale ve önündeki yeşil gölet.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "doğa haberi",
+     "çevre haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7c5db562e3db:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Doğa manzarası içerse de haberde geçen COP31 konferansını veya etkinliğini yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çevre farkındalığı etkinliği",
+        "var": false
+       },
+       {
+        "unsur": "konferans alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:12:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "33232b1b295f1f1f",
+    "sha": "9f6eac0379206c5b5bdd11f2"
+   },
+   "t": "2026-11-15T14:12:09+03:00",
+   "teknik": {
+    "doygunluk": 38.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.372,
+    "keskinlik": 4357,
+    "kontrast": 52,
+    "medyan": 64,
+    "parlaklik": 79,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/1280px-Kursunlu_Waterfall_Autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "bc73b46ca890ecc5": {
    "icerik": {
@@ -137552,7 +137732,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T11:29:07+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -137578,10 +137758,12 @@
     "broşür",
     "ekran",
     "koltuk",
+    "konferans alanı",
     "kürsü",
     "pavilyon",
     "sehpa",
-    "sergi alanı"
+    "sergi alanı",
+    "çevre farkındalığı etkinliği"
    ],
    "kucuk": "/images/kurum/4713c4a00be7021a.jpg",
    "kullanilabilir": [
@@ -137599,7 +137781,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-13T11:29:07+03:00",
+   "son_kabul": "2026-11-15T14:12:09+03:00",
    "url": "/images/kurum/4713c4a00be7021a.jpg",
    "uygun_yerlesimler": [
     "detay"

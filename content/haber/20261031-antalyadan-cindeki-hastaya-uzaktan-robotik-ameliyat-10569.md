@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/9/9a/Breast_surgery_in_operating_room.jpg
 - https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1655313719493-16ebe4906441?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Tıp dünyasındaki teknolojik gelişmeler ameliyathanelerdeki sınırları ortadan kaldırmaya devam ediyor. Son yıllarda hızla yayılan robotik cerrahi sistemleri sayesinde cerrahların hastalarla aynı odada bulunma zorunluluğu yavaş yavaş ortadan kalkıyor.
 

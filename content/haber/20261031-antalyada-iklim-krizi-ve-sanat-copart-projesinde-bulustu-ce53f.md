@@ -76,6 +76,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1593349783603-654a7069d88d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1637179709448-e03199d05f6e?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'da iklim krizine karşı sanatın gücüyle farkındalık yaratmayı hedefleyen COPArt projesi kapsamında geniş bir alan kapalı ve açık hava sanat galerisi olarak düzenlendi. "COPArt: Hâlâ Mümkün / Still Possible" temasıyla hazırlanan girişim, resimden sergiye, panellerden açık hava enstalasyonlarına kadar geniş bir yelpazeyi kapsıyor. İklim diplomasisinin kritik noktalarından biri olarak planlanan 1 milyon 100 bin metrekarelik alanda binlerce eser ziyaretçilerle buluşuyor.
 

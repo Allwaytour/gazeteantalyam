@@ -27031,7 +27031,7 @@
   }
  ],
  "wd:v4:0:kemer:antalya": {
-  "_yok": "2026-11-10"
+  "_yok": "2026-11-15"
  },
  "wd:v4:1:nazim sulu:yonetim kurulu baskani / chairman of the": {
   "_yok": "2026-11-03"
@@ -51360,7 +51360,7 @@
   "mekan": []
  },
  "wd:v4:0:cop31 antalya:antalya antalya": {
-  "_yok": "2026-11-12"
+  "_yok": "2026-11-15"
  },
  "wd:v4:0:cop31 antalya climate conference:antalya": {
   "_yok": "2026-11-10"
@@ -310821,150 +310821,192 @@
    "yazar": "William Hogarth"
   }
  ],
- "c8:us:turkish food display stand": [
+ "wd:v4:0:pazarci kazasi davasi:antalya kemer": {
+  "_yok": "2026-11-15"
+ },
+ "wd:v4:0:court trial for traffic accident:antalya": {
+  "_yok": "2026-11-15"
+ },
+ "kur:92ed013f6d93": [
   {
-   "url": "https://images.unsplash.com/photo-1705843190055-9c931c0031c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1705843190055-9c931c0031c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-kiosk-with-a-turkish-flag-on-top-of-it-AUIQKGXkuF4",
-   "indirme": "https://api.unsplash.com/photos/AUIQKGXkuF4/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Isaac Burke",
-   "genislik": 3637,
-   "yukseklik": 2735,
-   "aciklama": "a kiosk with a turkish flag on top of it"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1656524486185-b372d96756c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1656524486185-b372d96756c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-person-standing-next-to-a-food-cart-C70S2zmXJVI",
-   "indirme": "https://api.unsplash.com/photos/C70S2zmXJVI/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Mathias Reding",
-   "genislik": 6008,
-   "yukseklik": 4005,
-   "aciklama": "a person standing next to a food cart"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1629316791889-1ca8eeaa9fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1629316791889-1ca8eeaa9fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/people-standing-near-food-stall-during-daytime-hMs_BHQCUm0",
-   "indirme": "https://api.unsplash.com/photos/hMs_BHQCUm0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Gala Ruleva",
-   "genislik": 3130,
-   "yukseklik": 2075,
-   "aciklama": "people standing near food stall during daytime"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1623321582784-085a762448db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1623321582784-085a762448db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-man-standing-in-front-of-a-food-stand-xdX-qxudOTM",
-   "indirme": "https://api.unsplash.com/photos/xdX-qxudOTM/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Viktor SOLOMONIK",
-   "genislik": 4887,
-   "yukseklik": 3258,
-   "aciklama": "Turkish coffee is made on the sand in the streets of Istanbul a man standing in front of a food stand"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1703000046920-9380254ddbbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1703000046920-9380254ddbbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-woman-standing-in-front-of-a-large-grill-filled-with-food-swzmDufgyVU",
-   "indirme": "https://api.unsplash.com/photos/swzmDufgyVU/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Dahlia E. Akhaine",
-   "genislik": 3035,
-   "yukseklik": 2656,
-   "aciklama": "a woman standing in front of a large grill filled with food"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1594504676610-2108222e4394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1594504676610-2108222e4394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/man-in-gray-dress-shirt-standing-in-front-of-store-ldVqfDjgWq8",
-   "indirme": "https://api.unsplash.com/photos/ldVqfDjgWq8/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8VHVya2lzaCUyMGZvb2QlMjBkaXNwbGF5JTIwc3RhbmR8ZW58MXwwfHx8MTc5NDczOTMyOXww",
-   "yazar": "Konstantin Tsymbalistyy",
-   "genislik": 3283,
-   "yukseklik": 2292,
-   "aciklama": "Fried corn on the street in Istanbul man in gray dress shirt standing in front of store"
+   "url": "/images/kurum/4713c4a00be7021a.jpg",
+   "kucuk": "/images/kurum/4713c4a00be7021a.jpg",
+   "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/antalya-buyuksehir-belediyesi-cop31de-iklim-dostu-projeleri-ele-aldi",
+   "kurum": "Antalya Büyükşehir Belediyesi",
+   "alan": "https://www.antalya.bel.tr",
+   "oran": 0.5,
+   "kaynak_gorsel": "https://mcmsmedia.antalya.bel.tr/MediaFolder/6770156cf267483097290291/589b847d-226e-43d1-81e6-cced85c0c7b9.JPG",
+   "kendi_fotografi": "fotoğraf kurumun kendi sunucusunda (mcmsmedia.antalya.bel.tr); sayfada ajans kredisi yok"
   }
  ],
- "c8:us:cultural exhibition booth turkey": [
+ "c6:antalya green area": [
   {
-   "url": "https://images.unsplash.com/photo-1753987538418-00e46b3ef2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1753987538418-00e46b3ef2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/golden-domes-and-turkish-flags-against-a-cloudy-sky-sEZZXnnvLd0",
-   "indirme": "https://api.unsplash.com/photos/sEZZXnnvLd0/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "ESMA // 에스마",
-   "genislik": 4032,
-   "yukseklik": 3024,
-   "aciklama": "Golden domes and turkish flags against a cloudy sky"
+   "baslik": "File:Cliffs of Lara in spring tiime.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cliffs_of_Lara_in_spring_tiime.jpg/1280px-Cliffs_of_Lara_in_spring_tiime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Lara_in_spring_tiime.jpg",
+   "genislik": 3000,
+   "yukseklik": 4000,
+   "aciklama": "Pink flowers in the green grass and turquoise contrast colours of the sea, captured on the cliffs of Lara in Antalya on May.",
+   "nesne": "Cliffs of Lara in spring tiime",
+   "tarih": "2023-05-02 13:43:57",
+   "kategoriler": "Antalya | CC-BY-SA-4.0 | Images from Wiki Loves Earth 2023 | Images from Wiki Loves Earth 2023 Human Rights and Environment Special Nomination | Images from Wiki Loves Earth 2023 in Turkey | Images from Wiki Loves Earth missing SDC depicts | Images from Wiki Loves Earth missing SDC location of creation | Lara (state) | Parks | Pink flowers",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "OliviaBentoW"
   },
   {
-   "url": "https://images.unsplash.com/photo-1770493707253-3b9a134e877d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1770493707253-3b9a134e877d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/crowd-gathers-near-a-building-with-city-skyline-behind-TMuZFFI0wxc",
-   "indirme": "https://api.unsplash.com/photos/TMuZFFI0wxc/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "Tom Audagna",
-   "genislik": 3456,
-   "yukseklik": 1944,
-   "aciklama": "Crowd gathers near a building with city skyline behind"
+   "baslik": "File:Сосна турецька DSCF5757.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg/1280px-%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg",
+   "genislik": 2904,
+   "yukseklik": 4000,
+   "aciklama": "Turkish pine in Antalya, Turkey",
+   "nesne": "Сосна турецька DSCF5757",
+   "tarih": "2013-10-03 15:37:06",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Сарапулов"
   },
   {
-   "url": "https://images.unsplash.com/photo-1705843190055-9c931c0031c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1705843190055-9c931c0031c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-kiosk-with-a-turkish-flag-on-top-of-it-AUIQKGXkuF4",
-   "indirme": "https://api.unsplash.com/photos/AUIQKGXkuF4/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "Isaac Burke",
-   "genislik": 3637,
-   "yukseklik": 2735,
-   "aciklama": "a kiosk with a turkish flag on top of it"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1669046637551-5e5d2cd317ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1669046637551-5e5d2cd317ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-room-is-filled-with-ordinary-furniture-GmvU5RPPpWU",
-   "indirme": "https://api.unsplash.com/photos/GmvU5RPPpWU/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "Igor Sporynin",
-   "genislik": 5910,
-   "yukseklik": 3940,
-   "aciklama": "Goreme, Cappadocia, Turkiye, November 2022 a room is filled with ordinary furniture"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1669046637776-ad0f4e7cb827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1669046637776-ad0f4e7cb827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-room-with-a-table-and-chairs-4qMxDUlH7-c",
-   "indirme": "https://api.unsplash.com/photos/4qMxDUlH7-c/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "Igor Sporynin",
-   "genislik": 5871,
-   "yukseklik": 3914,
-   "aciklama": "Goreme, Cappadocia, Turkiye, November 2022 a room with a table and chairs"
-  },
-  {
-   "url": "https://images.unsplash.com/photo-1779095214149-a9ac9592d7af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1779095214149-a9ac9592d7af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/a-crowded-indoor-market-with-many-people-and-hanging-banners-ubitk2zaEbw",
-   "indirme": "https://api.unsplash.com/photos/ubitk2zaEbw/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8Y3VsdHVyYWwlMjBleGhpYml0aW9uJTIwYm9vdGglMjBUdXJrZXl8ZW58MXwwfHx8MTc5NDczOTMzMHww",
-   "yazar": "Tommaso Ubezio",
-   "genislik": 6720,
-   "yukseklik": 4480,
-   "aciklama": "A visual journey across the vibrant streets, ancient mosques, colorful bazaars, breathtaking coastlines and magical landscapes of Turkey. From the timeless charm of Istanbul to the surreal skies of Cappadocia, every shot captures authentic moments, warm light, textures, traditions and the soul of a "
-  }
- ],
- "c8:us:gastronomy fair stall": [
-  {
-   "url": "https://images.unsplash.com/photo-1767371772143-de36a95b9369?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1767371772143-de36a95b9369?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/people-browsing-stalls-at-a-vibrant-indoor-market-HJ2GVULKSgk",
-   "indirme": "https://api.unsplash.com/photos/HJ2GVULKSgk/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA",
-   "yazar": "Vina Medenilla",
+   "baslik": "File:Лагерстремія індійська DSC 0353.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_DSC_0353.jpg/1280px-%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_DSC_0353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_DSC_0353.jpg",
    "genislik": 6000,
    "yukseklik": 4000,
-   "aciklama": "People browsing stalls at a vibrant indoor market"
+   "aciklama": "The crape myrtle in Antalya, Turkey",
+   "nesne": "Лагерстремія індійська DSC 0353",
+   "tarih": "2025-09-02 18:42:38",
+   "kategoriler": "",
+   "lisans": "CC BY 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by/4.0",
+   "yazar": "Сарапулов"
   },
   {
-   "url": "https://images.unsplash.com/photo-1760039756604-fb028be464bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-   "kucuk": "https://images.unsplash.com/photo-1760039756604-fb028be464bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA&ixlib=rb-4.1.0&q=80&w=400",
-   "sayfa": "https://unsplash.com/photos/gingerbread-hearts-decorated-for-oktoberfest-festival-DqdgPUgcrkg",
-   "indirme": "https://api.unsplash.com/photos/DqdgPUgcrkg/download?ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Z2FzdHJvbm9teSUyMGZhaXIlMjBzdGFsbHxlbnwxfDB8fHwxNzk0NzM5MzMxfDA",
-   "yazar": "Jonathan Rathgeb",
-   "genislik": 6000,
+   "baslik": "File:Лагерстремія індійська IMG20230909173521.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_IMG20230909173521.jpg/1280px-%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_IMG20230909173521.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%81%D1%82%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D1%96%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_IMG20230909173521.jpg",
+   "genislik": 6944,
+   "yukseklik": 9280,
+   "aciklama": "The crape myrtle in Antalya, Turkey",
+   "nesne": "Лагерстремія індійська IMG20230909173521",
+   "tarih": "2023-09-09 17:35:21",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Сарапулов"
+  },
+  {
+   "baslik": "File:Ялина сиза форма «Коніка» DSCF5957.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%AF%D0%BB%D0%B8%D0%BD%D0%B0_%D1%81%D0%B8%D0%B7%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D0%B0_%C2%AB%D0%9A%D0%BE%D0%BD%D1%96%D0%BA%D0%B0%C2%BB_DSCF5957.jpg/1280px-%D0%AF%D0%BB%D0%B8%D0%BD%D0%B0_%D1%81%D0%B8%D0%B7%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D0%B0_%C2%AB%D0%9A%D0%BE%D0%BD%D1%96%D0%BA%D0%B0%C2%BB_DSCF5957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:%D0%AF%D0%BB%D0%B8%D0%BD%D0%B0_%D1%81%D0%B8%D0%B7%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D0%B0_%C2%AB%D0%9A%D0%BE%D0%BD%D1%96%D0%BA%D0%B0%C2%BB_DSCF5957.jpg",
+   "genislik": 3000,
    "yukseklik": 4000,
-   "aciklama": "Gingerbread hearts decorated for oktoberfest festival"
+   "aciklama": "White spruce cultivar ‘Conica’ in Antalya, Turkey",
+   "nesne": "Ялина сиза форма «Коніка» DSCF5957",
+   "tarih": "2013-10-04 14:05:15",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Сарапулов"
+  },
+  {
+   "baslik": "File:Плід магнолії великоквіткової DSCF5977.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%D0%9F%D0%BB%D1%96%D0%B4_%D0%BC%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D1%96%D1%97_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BA%D0%B2%D1%96%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D1%97_DSCF5977.jpg/1280px-%D0%9F%D0%BB%D1%96%D0%B4_%D0%BC%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D1%96%D1%97_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BA%D0%B2%D1%96%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D1%97_DSCF5977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D1%96%D0%B4_%D0%BC%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D1%96%D1%97_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BA%D0%B2%D1%96%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D1%97_DSCF5977.jpg",
+   "genislik": 3000,
+   "yukseklik": 4000,
+   "aciklama": "The fruit (polyfollicle) of Southern magnolia in Antalya, Turkey. Mediterranean Park.",
+   "nesne": "Плід магнолії великоквіткової DSCF5977",
+   "tarih": "2013-10-04 17:32:41",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Сарапулов"
+  },
+  {
+   "baslik": "File:EAA MINICITY.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/EAA_MINICITY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:EAA_MINICITY.jpg",
+   "genislik": 900,
+   "yukseklik": 641,
+   "aciklama": "The fact that the great variability in the choices of consumers of tourism leads to less frequent visits has made it necessary to increase the number of alternatives in the way buildings look and their attractiveness. In Antalya and its surroundings, postmodernism, which has become unvariegated in most areas of social and cultural life, has been rendered visible in its most superficial aspect. The new investments made in this city have made tourism, which has seeped into every molecule of life, ",
+   "nesne": "EAA MINICITY",
+   "tarih": "2004-07-05 07:58:22",
+   "kategoriler": "CC-BY-SA-4.0 | Miniature Culture Park (Antalya) | Self-published work",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Emre Arolat Architecture"
+  },
+  {
+   "baslik": "File:Tree in Olympos Beydağları National Park.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tree_in_Olympos_Beyda%C4%9Flar%C4%B1_National_Park.jpg/1280px-Tree_in_Olympos_Beyda%C4%9Flar%C4%B1_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Tree_in_Olympos_Beyda%C4%9Flar%C4%B1_National_Park.jpg",
+   "genislik": 3024,
+   "yukseklik": 4032,
+   "aciklama": "Olympos National Park boasts a wide range of magnificent trees that enhance the scenery with their inherent splendor. The forested regions are primarily dominated by towering evergreen trees like majestic pines and firs, whose impressive heights allow their lofty tops to extend skyward. These coniferous trees create a lush green covering, forming a vibrant canopy that provides shade and refuge for the park's diverse plant and animal life.",
+   "nesne": "Tree in Olympos Beydağları National Park",
+   "tarih": "2019-10-24 11:24:38",
+   "kategoriler": "",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Nur Çağlar"
+  },
+  {
+   "baslik": "File:Kursunlu Waterfall Plant.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/1280px-Kursunlu_Waterfall_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Kursunlu_Waterfall_Plant.jpg",
+   "genislik": 4000,
+   "yukseklik": 6000,
+   "aciklama": "Kursunlu Waterfall is a unique place where a cascade connecting seven ponds falls over an 18-metre height against a backdrop of green nature. It is one of the most attractive landscapes in terms of lush plants and small or big various picnic areas in Antalya.",
+   "nesne": "Kursunlu Waterfall Plant",
+   "tarih": "2019-06-26 15:40:04",
+   "kategoriler": "CC-BY-SA-4.0 | Images from Wiki Loves Earth 2020 | Images from Wiki Loves Earth 2020 in Turkey | Images from Wiki Loves Earth missing SDC depicts | Images from Wiki Loves Earth missing SDC location of creation | Kurşunlu Waterfall Nature Park | Self-published work | Turkey photographs taken on 2019-06-26 | Uploaded via Campaign:wle-tr",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Capyusuf"
+  },
+  {
+   "baslik": "File:Kursunlu Waterfall Autumn.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/1280px-Kursunlu_Waterfall_Autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Kursunlu_Waterfall_Autumn.jpg",
+   "genislik": 5913,
+   "yukseklik": 3942,
+   "aciklama": "Kursunlu Waterfall is a unique place where a cascade connecting seven ponds falls over an 18-metre height against a backdrop of green nature. It is one of the most attractive landscapes in terms of lush plants and small or big various picnic areas in Antalya.",
+   "nesne": "Kursunlu Waterfall Autumn",
+   "tarih": "2019-06-26 15:18:59",
+   "kategoriler": "CC-BY-SA-4.0 | Images from Wiki Loves Earth 2020 | Images from Wiki Loves Earth 2020 in Turkey | Images from Wiki Loves Earth missing SDC depicts | Images from Wiki Loves Earth missing SDC location of creation | Kurşunlu Waterfall | Self-published work | Turkey photographs taken on 2019-06-26 | Uploaded via Campaign:wle-tr",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Capyusuf"
+  },
+  {
+   "baslik": "File:Kursunlu Waterfall Cascade.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/1280px-Kursunlu_Waterfall_Cascade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Kursunlu_Waterfall_Cascade.jpg",
+   "genislik": 4000,
+   "yukseklik": 6000,
+   "aciklama": "Kursunlu Waterfall is a unique place where a cascade connecting seven ponds falls over an 18-metre height against a backdrop of green nature. It is one of the most attractive landscapes in terms of lush plants and small or big various picnic areas in Antalya.",
+   "nesne": "Kursunlu Waterfall Cascade",
+   "tarih": "2019-06-26 15:25:15",
+   "kategoriler": "CC-BY-SA-4.0 | Images from Wiki Loves Earth 2020 | Images from Wiki Loves Earth 2020 in Turkey | Images from Wiki Loves Earth missing SDC depicts | Images from Wiki Loves Earth missing SDC location of creation | Kurşunlu Waterfall | Self-published work | Turkey photographs taken on 2019-06-26 | Uploaded via Campaign:wle-tr",
+   "lisans": "CC BY-SA 4.0",
+   "lisans_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "yazar": "Capyusuf"
+  },
+  {
+   "baslik": "File:Turkey (MODIS 2021-11-14).jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Turkey_%28MODIS_2021-11-14%29.jpg/1280px-Turkey_%28MODIS_2021-11-14%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sayfa": "https://commons.wikimedia.org/wiki/File:Turkey_(MODIS_2021-11-14).jpg",
+   "genislik": 2037,
+   "yukseklik": 1601,
+   "aciklama": "On November 12, 2021, the Moderate Resolution Imaging Spectroradiometer (MODIS) on board NASA’s Terra satellite acquired this stunning true-color image of western Turkey. The palette of colors shading the landscape center on browns and tans with a large wash of white—all indicative of very dry conditions. Greens paint the hillsides and the coastline near the Mediterranean Sea, but only faint tints of green are found inland. Turkey has been suffering a severe and long-term drought, which has crea",
+   "nesne": "Turkey (MODIS 2021-11-14)",
+   "tarih": "Taken on 12 November 2021",
+   "kategoriler": "",
+   "lisans": "Public domain",
+   "lisans_url": "",
+   "yazar": "MODIS Land Rapid Response Team, NASA GSFC"
   }
  ]
 }

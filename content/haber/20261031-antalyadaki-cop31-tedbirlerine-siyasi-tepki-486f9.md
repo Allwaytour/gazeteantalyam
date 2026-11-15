@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/b/b9/Expo_Seras%C4%B1.jpg
+yazim_denetim: y1
 ---
 Antalya'da düzenlenecek COP31 İklim Zirvesi dolayısıyla kent genelinde hayata geçirileceği duyurulan trafik ve ulaşım önlemleri eleştirileri beraberinde getirdi. Planlanan düzenlemeler kapsamında, 9-13 Kasım 2026 tarihlerinde Dikmen Kavşağı ile Altınova Kavşağı arasında çeşitli tedbirlerin uygulanması kararlaştırıldı. Yapılan planlamaya göre yük taşımacılığı yapan kamyon ve benzeri araçların sevkiyatlarını 22.00 ile 06.00 saatleri arasında gerçekleştirmesi istenirken, akaryakıt tankerlerinin teslimatlarının ise 00.00 ile 06.00 saatleri arasında yapılması öngörüldü.
 
