@@ -74,6 +74,8 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_duzeltme: Küressel→Küresel
+yazim_denetim: y1
 ---
 Antalyaının Manavgat ilçesinde geçmişte tatilciler ile yerel halkın sıcaktan korunmak ve dinlenmek için sahilde kurduğu ahşap çardaklar, sanat yoluyla belgelendi. Yüksek Dekoratif Sanatlar Tekstil Bölümü mezunu olan ressam Çiler Belen, Kirazlı Köyündeki atölyesinde yürüttüğü çalışmalarla Kumköy, Sorgun ve Boğaz mevkilerindeki eski yapıları resmetti.
 
@@ -81,4 +83,4 @@ Sanat danışmanı ve galeri işletmecisi Himmet Öcalın galerisinde sanatsever
 
 Söz konusu çardaklar zaman içinde caretta carettaların üreme alanlarına etkileri, çevre kirliliği yaratmaları ve kaçak yapılaşma gerekçeleriyle yıkılarak kaldırılmıştı. Geçmişin bu derin izlerinin sanat aracılığıyla yaşatılmasının değerli bulunduğu belirtildi.
 
-Küressel ve kişisel anılara dayanan projenin sahibi Çiler Belen, gençliğinin geçtiği sahillerdeki yaşanmışlıkları tuvallerine aktararak çardak yaşamını anılarda bıraktıklarını ifade etti. Hazırlanan özel seçki, belirlenen tarihe kadar galeride ziyaret edilebilecek.
+Küresel ve kişisel anılara dayanan projenin sahibi Çiler Belen, gençliğinin geçtiği sahillerdeki yaşanmışlıkları tuvallerine aktararak çardak yaşamını anılarda bıraktıklarını ifade etti. Hazırlanan özel seçki, belirlenen tarihe kadar galeride ziyaret edilebilecek.

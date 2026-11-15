@@ -612,6 +612,36 @@
     ]
    },
    "iliski": {
+    "r1:263aac2f5432:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kapali pazar yeri kura takvimiyle ilgili ancak fotograf acik alandaki bir pazari gosteriyor.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahı",
+        "var": true
+       },
+       {
+        "unsur": "kapalı pazar yeri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T13:40:55+03:00"
+    },
     "r1:d6602599ee76:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -656,7 +686,7 @@
     "dh": "8b018560a4bd059d",
     "sha": "21ae92adadf32c08dda08acb"
    },
-   "t": "2026-11-14T15:40:14+03:00",
+   "t": "2026-11-15T13:40:55+03:00",
    "teknik": {
     "doygunluk": 31.8,
     "inen": [
@@ -47671,6 +47701,36 @@
      },
      "t": "2026-11-11T17:39:13+03:00"
     },
+    "r1:ea06fbb59f24:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf COP31 zirvesini veya Konya tanıtım alanını yansıtmadığı için habere uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "tanıtım standı",
+        "var": false
+       },
+       {
+        "unsur": "fuar alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T13:42:07+03:00"
+    },
     "r1:ed177a9c8575:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47702,7 +47762,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-12T23:00:32+03:00",
+   "t": "2026-11-15T13:42:07+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -85892,6 +85952,36 @@
      },
      "t": "2026-11-08T14:40:15+03:00"
     },
+    "r1:263aac2f5432:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Meyve tezgahini gosterse de kapali pazar yeri ve kura sureciyle dogrudan ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahı",
+        "var": true
+       },
+       {
+        "unsur": "kapalı pazar yeri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T13:40:55+03:00"
+    },
     "r1:3279a741ca7c:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -86002,7 +86092,7 @@
     "dh": "5ec5c24a191c47ca",
     "sha": "86cd2d28206d07fddba6437a"
    },
-   "t": "2026-11-14T11:41:29+03:00",
+   "t": "2026-11-15T13:40:55+03:00",
    "teknik": {
     "doygunluk": 58.6,
     "inen": [
@@ -135774,6 +135864,36 @@
      },
      "t": "2026-11-11T17:39:13+03:00"
     },
+    "r1:ea06fbb59f24:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel, Antalya'daki COP31 zirvesini veya Konya standını göstermemekte, sokak yaşamını yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "tanıtım standı",
+        "var": false
+       },
+       {
+        "unsur": "fuar alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T13:42:07+03:00"
+    },
     "r1:ed177a9c8575:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -135805,7 +135925,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-12T23:00:32+03:00",
+   "t": "2026-11-15T13:42:07+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [

@@ -79,6 +79,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_Konyaalt%C4%B1_Beach_and_Beyda%C4%9Flar%C4%B1_Mountains%2C_Antalya.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Sektördeki güçlü markaları ve sürdürülebilir turizm yaklaşımıyla öne çıkan Kilit Hospitality Group, ANFAŞ Antalya Expo Center'da düzenlenen Uluslararası Antalya Turizm Fuarı'nda ana partner olarak yer aldı. Ziyaretçilerin bir araya geldiği organizasyonda grup, farklı otel konseptleri ve misafir deneyimini odağına alan yaklaşımıyla ön plana çıktı. Fuar süresince açılan stantta gerçekleştirilen eğlence etkinlikleri de katılımcılara keyifli anlar yaşattı.
 

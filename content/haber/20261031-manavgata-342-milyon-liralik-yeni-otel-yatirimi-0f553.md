@@ -74,6 +74,7 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/73/Manavgat_Waterfall_%281%29_Red.jpg
+yazim_denetim: y1
 ---
 Antalya'nın turizm merkezlerinden Manavgat'ta yeni bir konaklama tesisi projesi için hazırlıklar başladı. Üçhan Grup Gıda Ltd. Şti. tarafından Evren Mahallesi sınırları içinde inşa edilmesi planlanan Maranda Otel için toplam 342 milyon 195 bin lira yatırım bütçesi ayrıldı. Proje, şahıs mülkiyetindeki bir arazi üzerinde kurulacak.
 

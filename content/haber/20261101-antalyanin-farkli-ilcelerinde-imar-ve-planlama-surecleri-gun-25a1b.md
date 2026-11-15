@@ -46,11 +46,13 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-antalyanin-farkli-ilcelerinde-imar-ve-planlama-surecleri-gun--32bed459.jpg
+yazim_duzeltme: mahkemeca→mahkemece
+yazim_denetim: y1
 ---
 Antalya'da imar tartışmaları yeni konut projelerinin ötesinde, yıllardır planlama bekleyen bölgeler, mahkeme kararları ve askıya çıkarılan plan değişiklikleriyle sürüyor. Kentin farklı noktalarındaki gelişmeler, imar süreçlerinin her mahallede kendine has bir aşamada ilerlediğini ortaya koyuyor.
 
 Aksu ilçesindeki Altıntaş ve Çalkaya bölgesi hızlı yapılaşmasıyla öne çıkarken, Çalkaya Kentsel Dönüşüm ve Gelişim Proje Alanı'ndaki parselasyon planının iptaline yönelik mahkeme kararı süreci etkiliyor. Güzelyurt, Karaçallı ve Mandırlar mahallelerinin de takip edildiği bu süreçte, plan iptalinin bütün yapı ruhsatlarını veya tapuları doğrudan geçersiz kılmadığı, hangi taşınmazların etkilendiğinin ayrıca değerlendirilmesi gerektiği belirtiliyor.
 
-Kepez'in Varsak bölgesinde ise Aydoğmuş ve Karşıyaka mahallelerindeki imar uygulamalarına ilk askı sürecinde gelen itirazlar encümenlerce değerlendirildi. Bu değerlendirme neticesinde hazırlanan yeni askı sürecinin belirli bir takvim doğrultusunda devam ettiği ifade ediliyor. Konyaaltı ilçesine bağlı Bahtılı Mahallesi'nde ise nazım imar planı revizyonunun mahkemeca iptal edildiği bilinirken, bazı parseller için sosyal tesis alanı amaçlı plan değişiklikleri duyuruldu.
+Kepez'in Varsak bölgesinde ise Aydoğmuş ve Karşıyaka mahallelerindeki imar uygulamalarına ilk askı sürecinde gelen itirazlar encümenlerce değerlendirildi. Bu değerlendirme neticesinde hazırlanan yeni askı sürecinin belirli bir takvim doğrultusunda devam ettiği ifade ediliyor. Konyaaltı ilçesine bağlı Bahtılı Mahallesi'nde ise nazım imar planı revizyonunun mahkemece iptal edildiği bilinirken, bazı parseller için sosyal tesis alanı amaçlı plan değişiklikleri duyuruldu.
 
 Konyaaltı Çakırlar'da planlanan TOKİ konutları projesinde de ÇED süreçleri dikkat çekiyor. İlk etap için verilen ÇED olumlu kararının mahkeme tarafından iptal edilmesinin ardından yeniden yürütülen süreç sonucunda tekrar olumlu karar verildiği, ancak bu durumun projenin tüm izinlerinin tamamlandığı anlamına gelmediği kaydediliyor. Muratpaşa ilçesinin Şirinyalı Mahallesi'ndeki bir parselle ilgili Danıştay kararı sonrasında ise planın iptal önceki durumuna döndürülmesi konusu belediye meclisinde ele alındı.

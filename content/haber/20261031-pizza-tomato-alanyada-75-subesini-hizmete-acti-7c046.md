@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Alanyafromcastle.JPG
 - https://upload.wikimedia.org/wikipedia/commons/b/be/View_from_Alanya_Teleferik_%28Cable_Car%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg
+yazim_denetim: y1
 ---
 Alanya'da hizmet vermeye başlayan yeni işletmenin açılış törenine bölge protokolü, sivil toplum kuruluşu temsilcileri, siyasi parti başkanları ve çok sayıda davetli katıldı. Şekerhane Mahallesi Martı Sokak adresinde bulunan şubenin işletmeciliğini Cemalettin Demirtaş üstlendi.
 

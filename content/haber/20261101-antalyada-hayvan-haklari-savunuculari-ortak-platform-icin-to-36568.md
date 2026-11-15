@@ -75,6 +75,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Street_cats_in_Manavgat%2C_Antalya_01.jpg
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/e1/Feral_cat_4.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde hayvan hakları alanında faaliyet gösteren çok sayıda kurum, kuruluş ve gönüllü, ortak bir strateji belirlemek ve ortak bir mücadele zemini oluşturmak amacıyla Antalya'da buluşmaya hazırlanıyor. Hayvan Hakları Platformu Türkiye Temsilcisi Alper Ilgaz yaptığı açıklamada, 8 Kasım 2026 Pazar günü saat 14.00'te gerçekleştirilecek olan toplantıya katılım çağrısında bulundu.
 

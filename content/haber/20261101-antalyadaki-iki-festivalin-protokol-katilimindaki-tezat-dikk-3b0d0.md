@@ -48,6 +48,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-antalyadaki-iki-festivalin-protokol-katilimindaki-tezat-dikk--591c0001.jpg
+yazim_denetim: y1
 ---
 Antalya'da gerçekleşen iki farklı kültür ve sanat etkinliğinde, protokol katılımı konusunda yaşanan ayrışmalar dikkat çekti. Kültür ve Turizm Bakanlığı tarafından hayata geçirilen Antalya Kültür Yolu Festivali'nin açılış törenine iktidar kanadından yoğun katılım olurken, muhalefet partilerinden hiçbir ismin yer almaması gözlerden kaçmadı.
 
