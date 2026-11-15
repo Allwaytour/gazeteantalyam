@@ -69,6 +69,7 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Alanya'da faaliyet gösteren iş insanları ve oda üyeleri için finansal işlemlerde yeni bir dönem başladı. Hayata geçirilen yeni uygulama sayesinde ALTSO üyeleri, ticaret sicil harcı, Türkiye Ticaret Sicili Gazetesi ilan ücreti ile Rekabet Kurumu payı gibi yasal ödemelerini doğrudan kredi kartı aracılığıyla gerçekleştirebilecek.
 

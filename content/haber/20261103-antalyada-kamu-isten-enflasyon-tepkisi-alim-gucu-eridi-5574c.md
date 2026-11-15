@@ -69,11 +69,13 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: Ekım→Ekim
+yazim_denetim: y1
 ---
 Birleşik Kamu-İş Konfederasyonu Antalya İl Başkanı Sadık Acar, ekim ayı enflasyon verilerinin açıklanmasının ardından bir basın açıklaması düzenledi. Açıklamada, ekonomi politikaları eleştirilerek enflasyonun ve vatandaşların alım gücündeki erimenin vahim boyutlara ulaştığı ifade edildi.
 
 Ekim ayındaki aylık ve yıllık enflasyon oranlarına dikkat çekilen açıklamada, TÜİK, İTO ve ENAG verilerindeki farklılıklar değerlendirildi. Yılın ilk on ayındaki artışlarla birlikte Merkez Bankası'nın yıllık hedeflerinin aşıldığı belirtilirken, Türkiye'nin küresel ölçekte yüksek enflasyona sahip ülkeler arasında üst sıralarda yer aldığı kaydedildi. Ayrıca Avrupa genelinde en yüksek enflasyonun Türkiye'de bulunduğu ve gıda enflasyonunda da dünya genelinde üst sıralarda olunduğu vurgulandı.
 
-Açıklamada, kamu çalışanları, emekliler ve asgari ücretlilerin gelir kayıplarına da yer verildi. Emekli aylıkları, memur maaşları ve asgari ücretin son aylardaki enflasyon karşısında ciddi oranda eridiği aktarıldı. Ekım ayında en yüksek fiyat artışlarının ise yeşil yapraklı sebzeler, meyve ile giyim ve ayakkabı gruplarında yaşandığına dikkat çekildi.
+Açıklamada, kamu çalışanları, emekliler ve asgari ücretlilerin gelir kayıplarına da yer verildi. Emekli aylıkları, memur maaşları ve asgari ücretin son aylardaki enflasyon karşısında ciddi oranda eridiği aktarıldı. Ekim ayında en yüksek fiyat artışlarının ise yeşil yapraklı sebzeler, meyve ile giyim ve ayakkabı gruplarında yaşandığına dikkat çekildi.
 
 İl Başkanı Sadık Acar, yanlış ekonomi politikalarından vazgeçilmesi gerektiğini belirterek, yetkililerin enflasyonun düştüğü yönündeki söylemleri bırakmasını ve ücretli çalışanların yaşadığı gelir kayıplarının derhal telafi edilmesini talep etti.

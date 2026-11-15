@@ -46,11 +46,13 @@ gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261103-antalya-toptanci-halinde-guncel-sebze-ve-meyve-fiyatlari-aci--9a7b3cad.jpg
+yazim_duzeltme: altınçilek→altın çilek
+yazim_denetim: y1
 ---
 Antalya Toptancı Hali’nde 2 Kasım 2026 tarihli günlük fiyatlar netlik kazandı. Sebze ve meyve çeşitlerinin en düşük ile en yüksek tutarlarının yer aldığı bültende, çok sayıda tarım ürününün kilogram fiyatı kamuoyuyla paylaşıldı. Listede domates, biber, patates ve soğan gibi temel mutfak malzemelerinin yanı sıra narenciye ürünleri de geniş yer buldu.
 
 Hal verilerine göre domatesin kilogram fiyatı 40 TL ila 70 TL arasında alıcı buldu. Çeri domates 100-180 TL aralığında seyrederken, pembe domates 45-85 TL arasında işlem gördü. Biber grubunda ise dolmalık biber 35-50 TL, kapya biber 50-100 TL ve şili biberi 90-170 TL aralığında satışa sunuldu. Temel gıda ürünlerinden patatesin kilogramı 15-30 TL, kuru soğanın kilogramı ise 20-34 TL arasında açıklandı.
 
-Meyve kategorisinde kış mevsiminin yaklaşmasıyla narenciye öne çıktı. Mandalina 20-40 TL, limon 12-30 TL ve sıkmalık portakal 20-40 TL arasında değişen fiyatlarla listelendi. Yerli muz 50-100 TL aralığında işlem görürken, çilek 150-300 TL'lik fiyatıyla yüksek aralıkta yer aldı. İthal meyvelerde ise ahududu 1.200-2.400 TL, böğürtlen 1.000-2.600 TL ve altınçilek 500-600 TL arasında alıcı buldu.
+Meyve kategorisinde kış mevsiminin yaklaşmasıyla narenciye öne çıktı. Mandalina 20-40 TL, limon 12-30 TL ve sıkmalık portakal 20-40 TL arasında değişen fiyatlarla listelendi. Yerli muz 50-100 TL aralığında işlem görürken, çilek 150-300 TL'lik fiyatıyla yüksek aralıkta yer aldı. İthal meyvelerde ise ahududu 1.200-2.400 TL, böğürtlen 1.000-2.600 TL ve altın çilek 500-600 TL arasında alıcı buldu.
 
 5957 sayılı Kanun gereğince bilgilendirme amacıyla paylaşılan hal fiyatlarının, ürünün cinsi, çeşidi ve kalitesine göre farklılık gösterebildiği vurgulandı. Ayrıca açıklanan rakamların pazarlığa açık olduğu ve arz ile talep dengesine bağlı olarak değişiklik gösterebileceği ifade edildi.

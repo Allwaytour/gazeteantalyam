@@ -71,6 +71,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/78/Antalya%2C_Turkey_skyline_19_February_2022.jpg
 - https://upload.wikimedia.org/wikipedia/commons/7/74/Antalya%2C_Turkey%2C_February_2022_-_Cityscape_with_Snow_Capped_Mountains.jpg
+yazim_denetim: y1
 ---
 Uluslararası turizm sektörünün buluşma noktalarından biri olan SKÅLITE International Awards 2026, İstanbul'da gerçekleştirilen törenle sahiplerini buldu. Organizasyonda Antalya, turizm sektörüne katkı sunan projeleri, kurumları ve başarılı çalışmaları sayesinde üç farklı ödülün sahibi oldu. Gerçekleştirilen tören, kentin uluslararası alandaki turizm gücünü bir kez daha gözler önüne serdi.
 

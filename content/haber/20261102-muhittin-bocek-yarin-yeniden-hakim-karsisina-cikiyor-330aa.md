@@ -176,9 +176,11 @@ gorsel_yerlesim:
   o_kart_p: 49% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Muhittin_B%C3%96CEK.jpeg/1280px-Muhittin_B%C3%96CEK.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261102-muhittin-bocek-yarin-yeniden-hakim-karsisina-cikiyor-330aa-932e991a.jpg
+yazim_duzeltme: ırtikap→irtikap
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi’ne dünen rüşvet ve yolsuzluk soruşturması çerçevesinde tutuklanarak görevinden uzaklaştırılan Antalya Büyükşehir Belediye Başkanı Muhittin Böcek’in yargı lanma süreci sürüyor. Geçtiğimiz temmuz ayında tutuklanan Böcek, yarın ana dava kapsamında beşinci kez savunma yapmak üzere hakim karşısına çıkmaya hazırlanıyor. Böcek, geçtiğimiz hafta görülen ALDAŞ davasıyla birlikte toplamda altıncı kez mahkeme salonunda yer almış olacak.
 
-Yürütülen soruşturma neticesinde hazırlanan iddianamede; icbar suretiyle ırtikap, haksız mal edinme ve suçtan kaynaklanan malvarlığı değerlerini aklama suçlamaları yer alıyor. Bu kapsamda Muhittin Böcek hakkında 15 yıl 6 aydan 44 yıla kadar hapis cezası talep ediliyor. Yarın gerçekleş tirilecek duruşmada sanığın savunmasının alınması ve tutukluluk durumunun yeniden değerlendirilmesi bekleniyor.
+Yürütülen soruşturma neticesinde hazırlanan iddianamede; icbar suretiyle irtikap, haksız mal edinme ve suçtan kaynaklanan malvarlığı değerlerini aklama suçlamaları yer alıyor. Bu kapsamda Muhittin Böcek hakkında 15 yıl 6 aydan 44 yıla kadar hapis cezası talep ediliyor. Yarın gerçekleş tirilecek duruşmada sanığın savunmasının alınması ve tutukluluk durumunun yeniden değerlendirilmesi bekleniyor.
 
 Öte yandan büyükşehir belediyesi iştiraki ALDAŞ’a yönelik açılan ayrı bir davada da geçtiğimiz hafta hakim karşısına çıkan Böcek, suçlamaları reddederek beraatini istemişti. Antalya 3. Ağır Ceza Mahkemesi’nde görülen o duruşma eksikliklerin giderilmesi ve tanıkların dinlenmesi için 2027 yılına ertelenmişti.

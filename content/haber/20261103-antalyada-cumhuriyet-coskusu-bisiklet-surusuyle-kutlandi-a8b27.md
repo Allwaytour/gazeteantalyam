@@ -70,8 +70,10 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/0/0d/Turkish_flag_3705.jpg
 - https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: görüntüklere→görüntülere
+yazim_denetim: y1
 ---
-Antalya'da cumhuriyet coşkusunu sporla buluşturan "Türkiye Pedallıyor Cumhuriyet Sürüşü" etkinliği gerçekleştirildi. Farklı bisiklet toplulukları ile sivil toplum kuruluşlarının temsilcilerini bir araya getiren organizasyon renkli görüntüklere sahne oldu.
+Antalya'da cumhuriyet coşkusunu sporla buluşturan "Türkiye Pedallıyor Cumhuriyet Sürüşü" etkinliği gerçekleştirildi. Farklı bisiklet toplulukları ile sivil toplum kuruluşlarının temsilcilerini bir araya getiren organizasyon renkli görüntülere sahne oldu.
 
 Atatürk Kültür Merkezi önünden başlayan etkinlikte katılımcılar Türk bayraklarıyla kent sokaklarında pedal çevirdi. Sürüş, Işıklar Spor Salonu önünde sona erdi. Organizasyona Bisiklet Antalya, Akdeniz Yol Bisiklet Grubu, Antalya Bisiklet Festivali Derneği, Perşembe Akşamı Bisikletçileri, Antalya Bisiklet Sevenler, Antalya Turkuaz Bisiklet Grubu, Şafak Bisikletçileri, Antalya Yeşilay Spor Kulübü ve Türkiye Yeşilay Cemiyeti Antalya Şubesi temsilcileri katılım sağladı.
 

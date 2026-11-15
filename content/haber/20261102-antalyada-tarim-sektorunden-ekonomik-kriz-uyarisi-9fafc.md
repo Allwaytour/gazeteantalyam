@@ -75,10 +75,12 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: kazançsuzluk→kazançsızlık
+yazim_denetim: y1
 ---
 Antalya Toptancı Hal Yaş Sebze ve Meyve Komisyoncular Derneği Yönetim Kurulu Başkanı Nevzat Akcan, tarım sektörünün tüm paydaşlarının ağır ekonomik şartlar altında mücadele ettiğini ifade etti. Artan üretim masrafları, yüksek faiz ve tahsilat sıkıntılarının sektörü yıprattığını belirten Akcan, üreticiden komisyoncuya ve ihracatçıya kadar kimsenin kazanç sağlayamadığını dile getirdi. Çalışan kesimin bile emeklerinin karşılığını alamadığını vurgulayan Akcan, mevcut ekonomik düzenin sürdürülemez bir boyuta ulaştığını kaydetti.
 
-Sektördeki daralmanın temel sebepleri arasında yüksek faiz ve düşük döviz kurunu gösteren Akcan, finansman yükünün işletmeleri zorladığını aktardı. Dolar kurunun mevcut seviyesinin uluslararası rekabeti engellediğini savunan Akcan, ihracatçıların zorlandığını ve 2027 yılına yönelik kaygılarının artığını belirtti. Ayrıca artan maliyetler ve kazançsuzluk ortamının işsizlik riskini tetikleyebileceğini, asgari ücretin hem çalışan hem de işveren açısından yeni bir sınav olacağını dile getirdi.
+Sektördeki daralmanın temel sebepleri arasında yüksek faiz ve düşük döviz kurunu gösteren Akcan, finansman yükünün işletmeleri zorladığını aktardı. Dolar kurunun mevcut seviyesinin uluslararası rekabeti engellediğini savunan Akcan, ihracatçıların zorlandığını ve 2027 yılına yönelik kaygılarının artığını belirtti. Ayrıca artan maliyetler ve kazançsızlık ortamının işsizlik riskini tetikleyebileceğini, asgari ücretin hem çalışan hem de işveren açısından yeni bir sınav olacağını dile getirdi.
 
 Antalya Toptancı Hali ve Aksu bölgesindeki tarım bayileri ile fidecilerin de benzer sıkıntılar yaşadığını, bazı firmaların konkordato süreçlerine girdiğini belirten Akcan, tahsilat sorunlarına dikkat çekti. Mandalina, limon, elma ve üzüm gibi ürünlerin beklenen fiyatları bulamadığını ifade eden Akcan, depolama konusundaki tedirginliklerin ilerleyen dönemde arz sorunlarına yol açabileceği uyarısında bulundu.
 

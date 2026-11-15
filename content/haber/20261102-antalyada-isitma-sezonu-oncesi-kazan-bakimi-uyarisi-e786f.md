@@ -106,6 +106,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Harbour_East_side_%C4%B1n_2015_45.jpg
 - https://upload.wikimedia.org/wikipedia/commons/3/30/Antalya_Harbour_East_side_%C4%B1n_2011_40.jpg
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Antalya_falezler.jpg
+yazim_denetim: y1
 ---
 Kış mevsiminin yaklaşmasıyla birlikte konutlarda ısıtma sezonu açılırken, yaz boyunca çalıştırılmayan kalorifer kazanlarının yeniden devreye alınmadan önce bakım ve kontrollerden geçirilmesi gerektiği bildirildi. Isıtma sistemlerinin güvenli kullanımı ve enerji tasarrufu açısından düzenli bakımın büyük önem taşıdığı ifade edildi.
 
