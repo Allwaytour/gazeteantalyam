@@ -1,5 +1,5 @@
 ---
-title: Fenerbahçe Baskonı'yı Rahat Geçti
+title: Fenerbahçe Baskonia'yı Rahat Geçti
 date: '2026-11-05T23:26:00+03:00'
 ozet: Euroleague mücadelesinde Fenerbahçe, rakibi Kosner Baskonia'yı 84-65'lik skorla mağlup ederek sahadan galibiyetle ayrıldı.
 gorsel: https://images.unsplash.com/photo-1767216521441-074cc9e9ed05?fm=jpg&q=80&w=1600&fit=max
@@ -124,7 +124,7 @@ gorsel_gecmis:
     kurum_notu: kurum sitelerinde aynı haber bulunamadı
     zorla: g9.4-2026-11-05:10
   degisim: '2026-11-07T22:32:25+03:00'
-gorsel_yedek: /images/haber-gorsel/20261105-fenerbahce-baskoniyi-rahat-gecti-a37b3-bce45a86.jpg
+gorsel_yedek: /images/haber-gorsel/20261105-fenerbahce-baskoniyi-rahat-gecti-a37b3-cecf8c35.jpg
 gorsel_yerlesim:
   boyut:
   - 6000
@@ -152,6 +152,9 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/7/7f/Adidas_soccer_ball_on_a_grass_pitch_%28Unsplash%29.jpg
 - https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Fenerbahçe Baskonı'yı Rahat Geçti
+yazim_duzeltme: Baskonı→Baskonia
+yazim_denetim: y1
 ---
 Ülker Spor ve Etkinlik Salonu'nda oynanan Euroleague karşılaşmasında Fenerbahçe, Kosner Baskonia'yı konuk etti. Mücadeleye hızlı başlayan sarı-lacivertli ekip, ilk periyodu 33-18 önde tamamlarken, oyunun kontrolünü elinde tutmaya devam etti.
 

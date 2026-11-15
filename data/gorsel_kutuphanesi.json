@@ -3256,6 +3256,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg/1280px-2026_Kang_Yuchan_%26_from20_Body_Talk_Encore_in_Seoul_Concert_%28from20%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "06ae4af4bbe4a4c8": {
+   "icerik": {
+    "ana_kutu": [
+     360,
+     430,
+     710,
+     710
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yük gemisi",
+     "kanal",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kanalda ilerleyen DP World yazılı yük gemisi ve kırsal manzara",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lojistik haberleri",
+     "deniz taşımacılığı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gemi uzaktan görünüyor, liman veya terminal ortamı yok.",
+      "gerekli": [
+       {
+        "unsur": "lojistik terminali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       360,
+       430,
+       710,
+       710
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık toplantı salonu"
+      ]
+     },
+     "t": "2026-11-15T11:41:23+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "65e1712f4d5a330d",
+    "sha": "3603a735777e152607dccd51"
+   },
+   "t": "2026-11-15T11:41:23+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.012,
+    "keskinlik": 989,
+    "kontrast": 59,
+    "medyan": 123,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/DP_World_London_in_the_Kiel_Canal_01.jpg/1280px-DP_World_London_in_the_Kiel_Canal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "06ae5f3c24e82c51": {
    "icerik": {
     "ana_kutu": [
@@ -7419,6 +7513,103 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Emre_in_national_team_%2811.08.2010%29_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "0dce66ef2ef7f335": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     365,
+     915,
+     755
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konteyner",
+     "tır",
+     "liman vinci",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gün batımında konteyner istiflenmiş işlek bir liman ve tır",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "lojistik",
+     "taşımacılık",
+     "ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "sağlık",
+     "kültür sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konteyner terminali ve lojistik hareketliliğini gösteren uygun bir temsilî kare.",
+      "gerekli": [
+       {
+        "unsur": "konteyner limanı",
+        "var": true
+       },
+       {
+        "unsur": "lojistik terminali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       365,
+       915,
+       755
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T11:41:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0b271b1bb1b939",
+    "sha": "5c188fd2671a71ac94f7b724"
+   },
+   "t": "2026-11-15T11:41:28+03:00",
+   "teknik": {
+    "doygunluk": 43.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.199,
+    "keskinlik": 1486,
+    "kontrast": 59,
+    "medyan": 117,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1759272840538-ae4b07214c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29udGFpbmVyJTIwcG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTQ3MzIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "0e0c48537be1b2e0": {
    "icerik": {
@@ -48287,6 +48478,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/20181031-AMS-PJK-0298_TONED.jpg/1280px-20181031-AMS-PJK-0298_TONED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "56966a757d904575": {
+   "icerik": {
+    "ana_kutu": [
+     81,
+     108,
+     1000,
+     922
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "cerrahi alet",
+     "ameliyat masası",
+     "askeri çadır"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri çadır içinde ameliyat yapan sağlık personeli ve yaralı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih",
+     "savaş sağlığı"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel sağlık haberleri",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      257,
+      114,
+      743,
+      345
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:29aa33e60d87:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi bir ameliyatı gösteriyor, güncel Antalya operasyonuyla dönemsel olarak uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": true
+       },
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       81,
+       108,
+       1000,
+       922
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "kan"
+      ]
+     },
+     "t": "2026-11-15T11:40:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6b7babb35babeb73",
+    "sha": "9917ea60a26e31f564c459c0"
+   },
+   "t": "2026-11-15T11:40:47+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     348
+    ],
+    "karanlik_oran": 0.413,
+    "keskinlik": 1524,
+    "kontrast": 65,
+    "medyan": 65,
+    "parlaklik": 81,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Operation_on_aTurkish_prisoner_of_war%2C_World_War_I%2C_Turkey_Wellcome_L0034449.jpg/1280px-Operation_on_aTurkish_prisoner_of_war%2C_World_War_I%2C_Turkey_Wellcome_L0034449.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "56bb51f909250e09": {
    "ozet": {
     "dh": "06923034140c4cdc",
@@ -48307,6 +48602,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mohamed_Muizzu_meets_Yusuf_Tekin_%281%29.jpg/1280px-Mohamed_Muizzu_meets_Yusuf_Tekin_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "56c127aa3dfb27e3": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     390,
+     890,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bina",
+     "deve",
+     "bacadan çıkan duman",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi sokakta binalar, bacadan çıkan duman ve bir deve.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi sokak haberi",
+     "arşiv görüntüsü"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel yangın haberi",
+     "asayiş"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a771d5f2024e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski ve siyah-beyaz tarihi sokak görüntüsü, güncel apartman yangını haberiyle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "apartman binası",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T11:41:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0727795d3f0b0b39",
+    "sha": "cad9a2bf6437b093f2bf39ee"
+   },
+   "t": "2026-11-15T11:41:44+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     1280,
+     904
+    ],
+    "karanlik_oran": 0.243,
+    "keskinlik": 811,
+    "kontrast": 86,
+    "medyan": 153,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Landscape._Smoke_coming_from_a_chimney_and_a_camel_is_standing_in_front_of_the_buildings%2C_NINO_F_Scholten_Colonies_juives_Judee_1_050.tiff/lossy-page1-1280px-Landscape._Smoke_coming_from_a_chimney_and_a_camel_is_standing_in_front_of_the_buildings%2C_NINO_F_Scholten_Colonies_juives_Judee_1_050.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "56c40b15c0d2202a": {
    "icerik": {
@@ -48865,6 +49250,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg/1280px-Hand_holds_a_test_device_next_to_a_stethoscope_and_an_open_book_on_a_wooden_desk_during_morning_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "58aec83cbba08524": {
+   "icerik": {
+    "ana_kutu": [
+     70,
+     0,
+     940,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konteyner vinci",
+     "rıhtım",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Liman rıhtımında sıralanmış dev konteyner vinçleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lojistik haberleri",
+     "liman yatırımları",
+     "ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konteyner limanı ve vinçleri temsilî olarak haberle uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "konteyner limanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       70,
+       0,
+       940,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık toplantı salonu"
+      ]
+     },
+     "t": "2026-11-15T11:41:23+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fe76e4d9eef2d475",
+    "sha": "d08c0efb25f117600bfd3260"
+   },
+   "t": "2026-11-15T11:41:23+03:00",
+   "teknik": {
+    "doygunluk": 51.7,
+    "inen": [
+     500,
+     416
+    ],
+    "karanlik_oran": 0.021,
+    "keskinlik": 1869,
+    "kontrast": 32,
+    "medyan": 133,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Container-Terminal_Bremerhaven_02.jpg/1280px-Container-Terminal_Bremerhaven_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "58b00796d3d6046c": {
    "icerik": {
@@ -52037,6 +52516,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_607e9ed25d2afecb69b98ad85c8efa47.jpg/1280px-Cafeteria_Workers_Serving_Healthy_School_Meals_To_Youth_-_DPLA_-_607e9ed25d2afecb69b98ad85c8efa47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "61d16af63973e2ea": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konteyner limanı",
+     "gemi",
+     "rıhtem",
+     "vinç",
+     "depo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havadan çekilmiş konteyner limanı ve rıhtımda demirlemiş gemiler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lojistik haberleri",
+     "liman yatırımları",
+     "deniz ticaret haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "DP World tesisine ait liman görünümü haberle doğrudan uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "konteyner limanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık toplantı salonu"
+      ]
+     },
+     "t": "2026-11-15T11:41:23+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "73c91931e1b373e1",
+    "sha": "6fe9e69da8f16cf63728d633"
+   },
+   "t": "2026-11-15T11:41:23+03:00",
+   "teknik": {
+    "doygunluk": 25.4,
+    "inen": [
+     500,
+     299
+    ],
+    "karanlik_oran": 0.003,
+    "keskinlik": 1378,
+    "kontrast": 46,
+    "medyan": 132,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Port_Rashid_on_1_May_2007_Pict_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "61d3fbf4e62bf105": {
    "icerik": {
     "ana_kutu": [
@@ -53407,6 +53983,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Renewable_energy_reduces_health_costs_in_Turkey.jpg/1280px-Renewable_energy_reduces_health_costs_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "63e8d92e60b1011b": {
+   "icerik": {
+    "ana_kutu": [
+     295,
+     350,
+     770,
+     710
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yük gemisi",
+     "kanal",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kanalda seyreden DP World yazılı yük gemisi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lojistik haberleri",
+     "deniz taşımacılığı",
+     "şirket haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun gemisi görünüyor ancak terminal veya liman ortamı içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "lojistik terminali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       295,
+       350,
+       770,
+       710
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık toplantı salonu"
+      ]
+     },
+     "t": "2026-11-15T11:41:23+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c6ba56b988da78e6",
+    "sha": "9c97571c83bad5b90ea77753"
+   },
+   "t": "2026-11-15T11:41:23+03:00",
+   "teknik": {
+    "doygunluk": 25.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.026,
+    "keskinlik": 919,
+    "kontrast": 65,
+    "medyan": 207,
+    "parlaklik": 172,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/DP_World_London_in_the_Kiel_Canal_02.jpg/1280px-DP_World_London_in_the_Kiel_Canal_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "63e9a8c51669b4b7": {
    "ozet": {
@@ -58173,6 +58844,110 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/K%C3%B6pek_park%C4%B1_-_panoramio.jpg/1280px-K%C3%B6pek_park%C4%B1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6defcb2f8587c6bf": {
+   "icerik": {
+    "ana_kutu": [
+     78,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "sedye",
+     "tıbbi malzeme",
+     "çadır"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Medikal çadırda ağlayan bir çocuğa müdahale eden sağlık personeli ve aile.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık",
+     "yardım operasyonu"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      0,
+      260,
+      160
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:29aa33e60d87:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir tıbbi müdahale görselidir ancak haberdeki spesifik hasta ve hastane ile uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": true
+       },
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       78,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "kan"
+      ]
+     },
+     "t": "2026-11-15T11:40:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3e2ed292960e9624",
+    "sha": "110c3738a2883ff8a450aa40"
+   },
+   "t": "2026-11-15T11:40:47+03:00",
+   "teknik": {
+    "doygunluk": 37.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.277,
+    "keskinlik": 1596,
+    "kontrast": 68,
+    "medyan": 90,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Defense.gov_News_Photo_990825-N-3443B-001.jpg/1280px-Defense.gov_News_Photo_990825-N-3443B-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6e23c693769025f3": {
    "icerik": {
@@ -64400,6 +65175,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Near_the_Roman_Harbour.jpg/1280px-Near_the_Roman_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7ac946d9b11f4d18": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     440,
+     815,
+     965
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konteyner gemisi",
+     "liman vinci",
+     "deniz",
+     "küçük tekneler"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Limanın açıklarında demirlemiş büyük konteyner gemisi ve yükleme vinçleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "deniz taşımacılığı",
+     "loji̇stik haberleri",
+     "liman yatırımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor müsabakaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Liman ve konteyner gemisi habere uygun temsilî görsel sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "konteyner limanı",
+        "var": true
+       },
+       {
+        "unsur": "lojistik terminali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       440,
+       815,
+       965
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T11:41:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fce6e6de7a185876",
+    "sha": "9bbb27f3886797cb1d47e5d2"
+   },
+   "t": "2026-11-15T11:41:28+03:00",
+   "teknik": {
+    "doygunluk": 50.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.05,
+    "keskinlik": 838,
+    "kontrast": 41,
+    "medyan": 143,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1670121180583-39ab653a071c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29udGFpbmVyJTIwcG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTQ3MzIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "7adabcb43f68c2e6": {
    "icerik": {
@@ -71723,6 +72595,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg/1280px-J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "862cf3fc3ed2438b": {
+   "icerik": {
+    "ana_kutu": [
+     520,
+     0,
+     960,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konteyner",
+     "tır",
+     "demiryolu",
+     "terminal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konteyner terminali ve raylar üzerinde hareket eden tırlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lojistik",
+     "taşımacılık",
+     "ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4d655dd88628:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Lojistik terminali ve konteynerler haberin konusunu iyi destekliyor.",
+      "gerekli": [
+       {
+        "unsur": "lojistik terminali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       520,
+       0,
+       960,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "kalabalık toplantı salonu"
+      ]
+     },
+     "t": "2026-11-15T11:41:23+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "331248a89dd99a13",
+    "sha": "2d54dd889e628f7533fc54b3"
+   },
+   "t": "2026-11-15T11:41:23+03:00",
+   "teknik": {
+    "doygunluk": 29.8,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 2999,
+    "kontrast": 56,
+    "medyan": 169,
+    "parlaklik": 151,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2025-08-31_D300-7711_Achim-Lammerts_Mannheim-Rheinhafen.jpg/1280px-2025-08-31_D300-7711_Achim-Lammerts_Mannheim-Rheinhafen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8637a36b951cee1f": {
    "icerik": {
@@ -93510,6 +94477,104 @@
    },
    "url": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBjb2FjaCUyMHRyYWluaW5nJTIwc2Vzc2lvbnxlbnwxfDB8fHwxNzk0NDQ2OTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "b13c0f4f603a7475": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "apartman binası",
+     "itfaiyeci",
+     "duman",
+     "alev",
+     "balkon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pencerelerinden yoğun duman ve alevler çıkan çok katlı apartman ve balkondaki itfaiyeci.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yangın haberi",
+     "itfaiye müdahalesi",
+     "bina yangını"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "ekonomi haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a771d5f2024e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Apartman yangını haberine uygun, dumanlar ve binayı gösteren güncel bir yangın karesi.",
+      "gerekli": [
+       {
+        "unsur": "apartman binası",
+        "var": true
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T11:41:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "11076676b696088e",
+    "sha": "53eeb774727a48175d52c7be"
+   },
+   "t": "2026-11-15T11:41:44+03:00",
+   "teknik": {
+    "doygunluk": 15.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 875,
+    "kontrast": 58,
+    "medyan": 133,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1788534906948-8c2d2cc8564c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50JTIwYnVpbGRpbmclMjBmaXJlJTIwVHVya2V5fGVufDF8MHx8fDE3OTQ3MzIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b15aa3065820a41d": {
    "icerik": {
     "ana_kutu": [
@@ -103823,6 +104888,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Therapeutic_horseback_riding_1.JPG/1280px-Therapeutic_horseback_riding_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c678da4da66f3faf": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kablo",
+     "uyarı etiketi",
+     "elektrik panosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Elektrik panosu ve kablo bağlantılarının yakın plan görüntüsü.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknoloji",
+     "elektrik tesisatı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık",
+     "hastane haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:29aa33e60d87:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel tıbbi operasyon veya hastaneyle tamamen ilgisiz bir elektrik donanımı göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": false
+       },
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "kan"
+      ]
+     },
+     "t": "2026-11-15T11:40:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8b8b43d33b5dcd27",
+    "sha": "73868e1333f3c7734db39eb3"
+   },
+   "t": "2026-11-15T11:40:47+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     330
+    ],
+    "karanlik_oran": 0.275,
+    "keskinlik": 1152,
+    "kontrast": 87,
+    "medyan": 156,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Team_works_to_improve_medical_treatment_in_the_field_120815-M-ZB219-030.jpg/1280px-Team_works_to_improve_medical_treatment_in_the_field_120815-M-ZB219-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c67a2791c404bec7": {
    "icerik": {
@@ -116505,6 +117662,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Meslek_Fabrikas%C4%B1_protests_11.jpg/1280px-Meslek_Fabrikas%C4%B1_protests_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e212ee8dce13b16a": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     355,
+     960,
+     955
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "tıbbi eldiven",
+     "ameliyat örtüsü",
+     "kafa lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri sağlık personelinin yaralıya müdahale anı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sağlık",
+     "cerrahi operasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      66,
+      335,
+      395
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:29aa33e60d87:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir ameliyat/müdahale temsilidir, haberdeki özel hasta ve hastaneyi yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": true
+       },
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       355,
+       960,
+       955
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "kan"
+      ]
+     },
+     "t": "2026-11-15T11:40:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d1b11194d0d498c",
+    "sha": "548367100a29633fe33fd3c5"
+   },
+   "t": "2026-11-15T11:40:47+03:00",
+   "teknik": {
+    "doygunluk": 28.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 1010,
+    "kontrast": 49,
+    "medyan": 103,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Mobile_Trauma_Bay_Docs_Provide_Medical_Care_to_Marines_at_Safar_Bazaar_DVIDS311627.jpg/1280px-Mobile_Trauma_Bay_Docs_Provide_Medical_Care_to_Marines_at_Safar_Bazaar_DVIDS311627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e21851ef49ede309": {
    "icerik": {
     "ana_kutu": [
@@ -118988,6 +120249,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Concept_Design_for_Antalya_Arena-_internal.jpg/1280px-Concept_Design_for_Antalya_Arena-_internal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e628c0d965d5b6e3": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     140,
+     690,
+     705
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş bina",
+     "ağaç",
+     "baca dumanı",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Taş bir binayı ve bacasından duman çıkan yapıyı gösteren kurşun kalem çizimi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi mimari haberi",
+     "sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel yangın haberi",
+     "asayiş"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a771d5f2024e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski bir bina çizimi; güncel yangın haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "apartman binası",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T11:41:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5d51792d0c19037d",
+    "sha": "f0d88090e51b15e441e6883e"
+   },
+   "t": "2026-11-15T11:41:44+03:00",
+   "teknik": {
+    "doygunluk": 19.5,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 740,
+    "kontrast": 44,
+    "medyan": 190,
+    "parlaklik": 174,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_tavern_on_a_dirt_road%2C_smoke_coming_out_of_chimney_at_rear_of_building%2C_sign_at_front_shows_a_bird_riding_on_the_back_of_an_animal_LCCN2016645589.tif/lossy-page1-1280px-Stone_tavern_on_a_dirt_road%2C_smoke_coming_out_of_chimney_at_rear_of_building%2C_sign_at_front_shows_a_bird_riding_on_the_back_of_an_animal_LCCN2016645589.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e66d5cde43bcfafd": {
    "icerik": {
@@ -139356,6 +140707,69 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "7ac946d9b11f4d18": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6000,
+    4000
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Limanın açıklarında demirlemiş büyük konteyner gemisi ve yükleme vinçleri",
+   "gosterim_ad": "işbirliği hedefi",
+   "ilk_kabul": "2026-11-15T11:41:28+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Nathan Cima / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Nathan Cima",
+    "sayfa": "https://unsplash.com/photos/a-large-ship-in-the-water-2JNNpq4nGls"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "deniz",
+    "konteyner gemisi",
+    "konteyner limanı",
+    "küçük tekneler",
+    "liman vinci",
+    "lojistik terminali"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1670121180583-39ab653a071c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29udGFpbmVyJTIwcG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTQ3MzIwNzR8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "deniz taşımacılığı",
+    "loji̇stik haberleri",
+    "liman yatırımları"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "magazin",
+    "spor müsabakaları"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T11:41:28+03:00",
+   "url": "https://images.unsplash.com/photo-1670121180583-39ab653a071c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29udGFpbmVyJTIwcG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTQ3MzIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "7bf56c54c2aa1113": {
    "alt_tur": "kurum",
    "boyut": [
@@ -141963,6 +143377,68 @@
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "b13c0f4f603a7475": {
+   "alt_tur": "nesne",
+   "boyut": [
+    7560,
+    5040
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Pencerelerinden yoğun duman ve alevler çıkan çok katlı apartman ve balkondaki itfaiyeci.",
+   "gosterim_ad": "bodrum kat yangını",
+   "ilk_kabul": "2026-11-15T11:41:44+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Ricardo IV Tamayo / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Ricardo IV Tamayo",
+    "sayfa": "https://unsplash.com/photos/firefighter-at-burning-apartment-building-pQiCt8yJW3E"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "alev",
+    "apartman binası",
+    "balkon",
+    "duman",
+    "itfaiyeci"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1788534906948-8c2d2cc8564c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50JTIwYnVpbGRpbmclMjBmaXJlJTIwVHVya2V5fGVufDF8MHx8fDE3OTQ3MzIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "yangın haberi",
+    "itfaiye müdahalesi",
+    "bina yangını"
+   ],
+   "kullanilamaz": [
+    "spor haberi",
+    "ekonomi haberi",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T11:41:44+03:00",
+   "url": "https://images.unsplash.com/photo-1788534906948-8c2d2cc8564c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YXBhcnRtZW50JTIwYnVpbGRpbmclMjBmaXJlJTIwVHVya2V5fGVufDF8MHx8fDE3OTQ3MzIwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],

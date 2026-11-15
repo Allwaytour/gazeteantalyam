@@ -151,6 +151,7 @@ etiketler:
 - Alanya Yiyecek İçecek Yöneticileri Derneği
 - TAMDER
 gorsel_yedek: /images/haber-gorsel/20261105-alanya-uluslararasi-barmenler-yarismasina-ev-sahipligi-yapac--d472f928.jpg
+yazim_denetim: y1
 ---
 Alanya, 6–9 Kasım 2026 tarihleri arasında düzenlenecek Eurasia Mixology Cup 2026 Uluslararası Barmenler Yarışması ile önemli bir organizasyona ev sahipliği yapmaya hazırlanıyor. NoxInn Deluxe Hotel'in ev sahipliğinde gerçekleşecek etkinlik; Uluslararası Barmenler Birliği (IBA), Alanya Yiyecek İçecek Yöneticileri Derneği (AYİY-DER), TAMDER ve Türkiye Barmenler Topluluğu iş birliğiyle organize ediliyor. Etkinlik, Avrupa ve Asya'dan gelecek çok sayıda profesyonel barmen, jüri üyesi ve sektör temsilcisini bir araya getirecek.
 

@@ -1,5 +1,5 @@
 ---
-title: Antalyalı Ihracatcilardan Çin'e Doğaltaş Cikarmasi
+title: Antalyalı İhracatçılardan Çin'e Doğaltaş Çıkarması
 date: '2026-11-05T02:35:00+03:00'
 ozet: Batı Akdeniz İhracatçılar Birliği yöneticileri, doğaltaş ihracatını artırmak amacıyla Çin'in Yunfu ve Shuitou kentlerinde temaslarda bulundu.
 gorsel: https://images.unsplash.com/photo-1691591765923-3bd6f12f4209?fm=jpg&q=80&w=1600&fit=max
@@ -145,7 +145,7 @@ etiketler:
 - Batı Akdeniz İhracatçılar Birliği
 - Yunfu Belediye Başkanlığı
 - Yunfu Stone Industry Association
-gorsel_yedek: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-2c0bf661.jpg
+gorsel_yedek: /images/haber-gorsel/20261105-antalyali-ihracatcilardan-cine-dogaltas-cikarmasi-78ef2-e4878b13.jpg
 gorsel_yerlesim:
   boyut:
   - 6000
@@ -174,7 +174,8 @@ metin_onarim:
   not: 'baslik: 2 özel ad kaynakta bulunamadığı için değiştirilmedi; metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1678182451047-196f22a4143e?fm=jpg&q=80&w=1600&fit=max
-yazim_duzeltme: Baskanligi→Başkanlığı
+yazim_duzeltme: Ihracatcilardan→İhracatçılardan; Cikarmasi→Çıkarması
+yazim_denetim: y1
 ---
 Batı Akdeniz İhracatçılar Birliği, dünyanın en büyük taş işleme merkezleri arasında yer alan Çin'in Yunfu ve Shuitou şehirlerine doğaltaş sektörel ticaret heyeti düzenledi. Gerçekleştirilen ziyaretlerde resmi kurum temsilcileri ile sektöre yön veren tesisler, firmalar ve depolar yerinde incelendi. Heyette Batı Akdeniz İhracatçılar Birliği'ni Başkan Yardımcısı Mustafa Küçükyaman ve Denetim Kurulu Üyesi Mustafa Tekin temsil etti.
 

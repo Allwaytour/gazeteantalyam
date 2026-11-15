@@ -68,8 +68,10 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1608095476825-d4e0f916372f?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
+yazim_duzeltme: Kezk→Kesk
+yazim_denetim: y1
 ---
-Kezk Dönem Sözcüsü ve Tüm Bel-Sen Antalya Şube Başkanı İlhan Karakurt ile birlikte Mehmet Şerif Özdemir ve Avukat Kazım Yiğit, sabah saatlerinde gerçekleştirilen operasyonla gözaltına alındı. Yaşanan gelişmenin ardından sendika tarafından yapılan açıklamada, Karakurt'un hak, adalet ve özgürlük mücadelelerinde öncü roller üstlendiği ifade edildi.
+Kesk Dönem Sözcüsü ve Tüm Bel-Sen Antalya Şube Başkanı İlhan Karakurt ile birlikte Mehmet Şerif Özdemir ve Avukat Kazım Yiğit, sabah saatlerinde gerçekleştirilen operasyonla gözaltına alındı. Yaşanan gelişmenin ardından sendika tarafından yapılan açıklamada, Karakurt'un hak, adalet ve özgürlük mücadelelerinde öncü roller üstlendiği ifade edildi.
 
 Açıklamada, iktidarın baskı politikalarına karşı yürütülen toplumsal direnişlerde aktif rol alan İlhan Karakurt'a yönelik gözaltı kararının, sendikal mücadeleye ve toplumsal muhalefete verilmiş açık bir gözdağı niteliği taşıdığı savunuldu. Ayrıca operasyonun zamanlamasına dikkat çekilerek, Antalya'da yapılması planlanan COP31 Birleşmiş Milletler İklim Değişikliği Konferansı öncesindeki güvenlik tedbirlerini andıran uygulamalarla iktidarın demokratik tepkilerden duyduğu endişenin gösterildiği ileri sürüldü.
 

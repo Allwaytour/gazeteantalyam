@@ -67,6 +67,7 @@ gorsel_yerlesim:
   o_kart_p: 50% 50%
   url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Street_Dog_-_Sokak_k%C3%B6pe%C4%9Fi_01.jpg
 gorsel_gecmis: []
+yazim_denetim: y1
 ---
 Bodrum Belediyesi iş birliğiyle Konacık Pati Parkı'nda organize edilen etkinlikte, köpeklerin yeni yuvalarına kavuşması sağlandı. Sahnede ve sonrasında gerçekleştirilen sahiplendirmelerle toplam 15 köpek sıcak bir yuvaya yerleştirildi. Söz konusu projenin Fethiye, Kaş ve Antalya gibi farklı belediyelerden de destek gördüğü belirtildi.
 
