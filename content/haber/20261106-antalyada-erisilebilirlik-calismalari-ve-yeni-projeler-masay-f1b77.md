@@ -153,9 +153,11 @@ gorsel_yerlesim:
   o_kart_p: 14% 50%
   url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 gorsel_yedek: /images/haber-gorsel/20261106-antalyada-erisilebilirlik-calismalari-ve-yeni-projeler-masay--f675d659.jpg
+yazim_duzeltme: erişilebirliğin→erişilebilirliğin
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi Engelsiz Hizmet Komisyonu, engelli bireylerin sosyal yaşama katılımını desteklemek amacıyla yeni bir toplantı gerçekleştirdi. Büyükşehir Belediyesi toplantı salonunda, Sosyal Hizmetler Dairesi Başkanlığı koordinasyonunda düzenlenen 15'inci toplantıda kent genelindeki erişilebilirlik çalışmaları masaya yatırıldı. Toplantıda ayrıca 2026-2027 döneminde hayata geçirilmesi planlanan projeler de görüşüldü.
 
-Toplantıda konuşan Sosyal Hizmetler Dairesi Başkanı Murat Yavuz, engelsiz bir kent hedefiyle çalıştıklarını vurgulayarak, erişilebirliğin bir ayrıcalık değil temel bir hak olduğunu ifade etti. Herkesin bir arada yaşayabildiği bir şehir oluşturmayı amaçladıklarını belirten Yavuz, yürütülen çalışmaların erişilebilirlik sertifikalarıyla belgelendirildiğini ve bu doğrultuda çalışmalara devam edeceklerini kaydetti.
+Toplantıda konuşan Sosyal Hizmetler Dairesi Başkanı Murat Yavuz, engelsiz bir kent hedefiyle çalıştıklarını vurgulayarak, erişilebilirliğin bir ayrıcalık değil temel bir hak olduğunu ifade etti. Herkesin bir arada yaşayabildiği bir şehir oluşturmayı amaçladıklarını belirten Yavuz, yürütülen çalışmaların erişilebilirlik sertifikalarıyla belgelendirildiğini ve bu doğrultuda çalışmalara devam edeceklerini kaydetti.
 
 Gerçekleştirilen buluşmada, yerel yönetim tarafından kent genelinde hayata geçirilen düzenlemelere dair detaylı bilgiler paylaşıldı. Bu kapsamda bugüne kadar 20 durak, 90 rampa ve 16 üstgeçitte erişilebilirlik düzenlemelerinin tamamlandığı bilgisi aktarıldı. Toplantı, engelsiz hizmetlerin daha da geliştirilmesi yönündeki önerilerin değerlendirilmesiyle sona erdi.

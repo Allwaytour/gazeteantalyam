@@ -78,6 +78,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 İstiklal Bilim ve Teknoloji Üniversitesinin hazırladığı 16 bilimsel proje, Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı'nda tanıtılacak. Enerji teknolojileri, sürdürülebilir tarım, atık yönetimi ve iklim dostu binalar gibi çeşitli alanları kapsayan çalışmalar, Yükseköğretim Kurulu Pavilyonu'nda uluslararası katılımcıların izlenimine sunulacak.
 

@@ -77,6 +77,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/fb/Nissan_Navara_D40_-_Turkish_Police_car_-_Istanbul.jpg
 - https://upload.wikimedia.org/wikipedia/commons/9/93/Turkey_-_National_Police.jpg
 - https://images.unsplash.com/photo-1542202229-7d93c33f5d07?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya'nın Konyaaltı ilçesine bağlı Hisarçandır Mahallesi'nde motosikletiyle bölgeye gelen bir kişi, yürüyüş yapmak amacıyla 1568 rakımlı Dastaratağacı Dağı'na çıktı. Üçsögüt Yaylası civarında doğa yürüyüşü gerçekleştiren kişi, bir süre sonra güzergahından ayrılarak arazide mahsur kaldı. Geri dönüş yolunu bulamayan vatandaş, durumu 112 Acil Çağrı Merkezi'ne bildirerek yardım çağrısında bulundu.
 

@@ -1,7 +1,7 @@
 ---
-title: Antalya seralarinda plastik aski ipinin yerini yerli kenevir aliyor
+title: Antalya seralarında plastik askı ipinin yerini yerli kenevir alıyor
 date: '2026-11-02T21:53:52+03:00'
-ozet: Antalya'da seralarda plastik kullanimini azaltmak amaciyla yerli kenevirden uretilen bitki aski ipleri deneme amacli kullanilmaya baslandi.
+ozet: Antalya'da seralarda plastik kullanımını azaltmak amacıyla yerli kenevirden üretilen bitki askı ipleri deneme amaçlı kullanılmaya başlandı.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
 gorsel_kredi: 'Fotoğraf: Claude Valette / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -72,7 +72,7 @@ gorsel_gecmis:
     kurum: k4
   degisim: '2026-11-08T22:29:44+03:00'
   kaldirma_nedeni: kaynak kaydı başka bir yere ait (Burdur); haberde bu yer geçmiyor
-gorsel_yedek: /images/haber-gorsel/20261102-antalya-seralarinda-plastik-aski-ipinin-yerini-yerli-kenevir--36e02423.jpg
+gorsel_yedek: /images/haber-gorsel/20261102-antalya-seralarinda-plastik-aski-ipinin-yerini-yerli-kenevir--f5aec809.jpg
 gorsel_yerlesim:
   boyut:
   - 1536
@@ -97,7 +97,7 @@ gorsel_yerlesim:
   url: https://upload.wikimedia.org/wikipedia/commons/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg
 baslik_onceki: Antalya seralarinda plastik aski ipinin yerini yerli kenevir aliyor
 metin_onarim:
-  tarih: '2026-11-13T11:29:41+03:00'
+  tarih: '2026-11-15T11:12:01+03:00'
   kaynak: https://www.gidabulteni.com/yerel-uretim/seralarda-plastigin-yerine-kenevir-antalyada-yerli-liften-aski-ipi-denemesi/4323
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
@@ -106,8 +106,8 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
 ---
-Antalya İl Tarım ve Orman Müdürlüğü, seracilik faaliyetlerinde plastik tuketimini dusurmek icin yeni bir calisma baslatti. İl Mudurlugu onculugunde Aksu'da yurutulen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki aski ipleri test ediliyor.
+Antalya İl Tarım ve Orman Müdürlüğü, seracılık faaliyetlerinde plastik tüketimini düşürmek için yeni bir çalışma başlattı. İl Müdürlüğü öncülüğünde Aksu'da yürütülen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki askı ipleri test ediliyor.
 
-Seralarda yetistirilen bitkilerin dik durmasini ve gelisimlerini desteklemesini saglayan aski iplerinde daha once jut lifleri denenmisti. Yerli kenevir denemelerinin ardindan pamuk ve kompostlanabilir biyomalzemelerin de degerlendirilmesi ongoruluyor. Bu calismayla yalnizca plastik tuketiminin azaltilmasi degil, ayni zamanda hasat sonrasi olusan sera artiklarinin kompostlastirilmasinin kolaylastirilmasi ve yerli kenevirin tarimsal uretimde yeni bir kullanim alani kazanmasi amaclaniyor.
+Seralarda yetiştirilen bitkilerin dik durmasını ve gelişimlerini desteklemesini sağlayan aski iplerinde daha önce jüt lifleri denenmişti. Yerli kenevir denemelerinin ardından pamuk ve kompostlanabilir biyomalzemelerin de değerlendirilmesi öngörülüyor. Bu çalışmayla yalnızca plastik tüketiminin azaltılması değil, aynı zamanda hasat sonrası oluşan sera artıklarının kompostlaştırılmasının kolaylaştırılması ve yerli kenevirin tarımsal üretimde yeni bir kullanım alanı kazanması amaçlanıyor.
 
-Halihazirda deneme asamasinda olan calismada iplerin dayanikliligi, kullanim omru, maliyeti ve saglayacagi plastik tasarrufu gibi konular henuz olculmus sonuclara dayanmiyor. Diger yandan, lif, tohum ve sap uretimi amaciyla kenevir yetistiriciligi Antalya'nin da aralarinda bulundugu 21 ilde izin ve kontrol altinda yurutuluyor.
+Hâlihazırda deneme aşamasında olan çalışmada iplerin dayanıklılığı, kullanım ömrü, maliyeti ve sağlayacağı plastik tasarrufu gibi konular henüz ölçülmüş sonuçlara dayanmıyor. Diğer yandan, lif, tohum ve sap üretimi amacıyla kenevir yetiştiriciliği Antalya'nın da aralarında bulunduğu 21 ilde izin ve kontrol altında yürütülüyor.

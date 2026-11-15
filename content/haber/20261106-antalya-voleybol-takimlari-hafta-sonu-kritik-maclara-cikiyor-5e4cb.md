@@ -75,8 +75,10 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
+yazim_duzeltme: Gruttaki→Gruptaki
+yazim_denetim: y1
 ---
-Antalya'yı kadınlar ve erkekler voleybol liglerinde temsil eden takımlar, hafta sonu zorlu müsabakalara hazırlanıyor. Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda yer alan 07 Mega Spor, deplasmanda PTT ile karşı karşıya gelecek. Geride kalan altı haftada dört galibiyet alan Antalya temsilcisi, başkentte galibiyet serisini sürdürmeyi hedefliyor. Aynı grupta mücadele eden Muratpaşa Belediyesi Açı Koleji ise sahasında Büyükşehir Belediyesi Ankara Spor'u konuk edecek. Taraftarının önünde galibiyet arayacak olan Muratpaşa ekibi, üst sıralardaki iddiasını korumak istiyor. Gruttaki diğer Antalya temsilcisi Trendy Hotels Manavgat Belediyespor'un bu hafta yapacağı karşılaşma ise rakibin ligden çekilmesi nedeniyle oynanmayacak.
+Antalya'yı kadınlar ve erkekler voleybol liglerinde temsil eden takımlar, hafta sonu zorlu müsabakalara hazırlanıyor. Arabica Coffee House Kadınlar 1. Ligi B Grubu'nda yer alan 07 Mega Spor, deplasmanda PTT ile karşı karşıya gelecek. Geride kalan altı haftada dört galibiyet alan Antalya temsilcisi, başkentte galibiyet serisini sürdürmeyi hedefliyor. Aynı grupta mücadele eden Muratpaşa Belediyesi Açı Koleji ise sahasında Büyükşehir Belediyesi Ankara Spor'u konuk edecek. Taraftarının önünde galibiyet arayacak olan Muratpaşa ekibi, üst sıralardaki iddiasını korumak istiyor. Gruptaki diğer Antalya temsilcisi Trendy Hotels Manavgat Belediyespor'un bu hafta yapacağı karşılaşma ise rakibin ligden çekilmesi nedeniyle oynanmayacak.
 
 Uzman Posta Kadınlar 2. Ligi'nde mücadele eden Güral Premier Antalyaspor, sahasında Bahçeşehir Koleji Dalaman Belediyespor ile karşılaşacak. Üst üste üçüncü galibiyetini hedefleyen kırmızı-beyazlı ekip, Süleyman Evcilmen Spor Salonu'nda taraftarı önüne çıkacak. Aynı salon, gün boyunca 07 Mega Spor'un ikinci lig takımı, Akdeniz Bilgi Spor ve Elit Akdeniz'in müsabakalarına da ev sahipliği yapacak.
 

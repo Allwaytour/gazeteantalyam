@@ -151,6 +151,7 @@ gorsel_yerlesim:
 etiketler:
 - Kültür ve Turizm Bakanlığı
 gorsel_yedek: /images/haber-gorsel/20261105-gazipasa-alanya-hattinda-turizm-hareketliligi-730-bin-yolcu-c-3672fcbd.jpg
+yazim_denetim: y1
 ---
 Türkiye genelinde turizm verileri yılın ilk 9 ayında güçlü bir ivme yakalarken, Antalya bu hareketliliğin merkezinde yer aldı. Kültür ve Turizm Bakanlığı verilerine göre ülke genelinde 49 milyonu aşkın ziyaretçi ağırlanırken, Antalya tek başına 12,4 milyon yabancı turiste ev sahipliği yaptı.
 

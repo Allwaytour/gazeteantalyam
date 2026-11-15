@@ -107,6 +107,7 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
+yazim_denetim: y1
 ---
 Antalya ile Fas'ın başkenti Rabat arasında, iklim zirvesi COP31 vesilesiyle önemli bir iş birliği anlaşması imzalanacak. Gerçekleştirilecek bu ortaklıkla iki şehir arasında çevre, sürdürülebilirlik ve iklim değişikliğiyle mücadele alanlarında bağların güçlendirilmesi hedefleniyor.
 
