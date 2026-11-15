@@ -105,6 +105,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/f/ff/Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3.jpg
 - https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Antalya İl Tarım ve Orman Müdürlüğü, seracılık faaliyetlerinde plastik tüketimini düşürmek için yeni bir çalışma başlattı. İl Müdürlüğü öncülüğünde Aksu'da yürütülen pilot uygulamada, yerli kenevirin uzun liflerinden elde edilen bitki askı ipleri test ediliyor.
 

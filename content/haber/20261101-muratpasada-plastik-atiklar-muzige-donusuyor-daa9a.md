@@ -51,6 +51,7 @@ metin_onarim:
   kaynak: https://www.akdenizgercek.com.tr/muratpasa/muratpasada-plastik-atiklar-muzige-donusuyor/388442
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: 1 özel ad kaynakta bulunamadığı için değiştirilmedi'
+yazim_denetim: y1
 ---
 Antalya Muratpaşa Belediyesi tarafından iklim krizine dikkati çekmek amacıyla hayata geçirilen COP TOWN etkinlikleri, sıra dışı bir kültürel buluşmaya ev sahipliği yapmaya hazırlanıyor. Bu kapsamda, çevre kirliliğine karşı sanatın gücünü vurgulayan uluslararası "Soundtrack of the Plastic Age" konseri sanatseverlerle buluşacak.
 

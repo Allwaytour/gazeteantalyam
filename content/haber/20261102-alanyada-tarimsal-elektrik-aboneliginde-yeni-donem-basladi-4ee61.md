@@ -47,6 +47,7 @@ gorsel_onceki:
   gorsel: /images/kategori/ekonomi.png
   gorsel_kredi: ''
 gorsel_yedek: /images/haber-gorsel/20261102-alanyada-tarimsal-elektrik-aboneliginde-yeni-donem-basladi-4e-ab4f64e2.jpg
+yazim_denetim: y1
 ---
 Alanya Ziraat Odası Başkanı Tahir Göktepe, tarım sektöründe faaliyet gösteren üreticilerin elektrik aboneliği sürecinde yaşadığı koordinat belirleme zorunluluğunun ortadan kaldırılması amacıyla dört aydır yürütülen çalışmaların sonuç verdiğini açıkladı. Yürütülen temaslar neticesinde üreticilerin işini kolaylaştıracak yeni bir uygulama hayata geçirildi.
 

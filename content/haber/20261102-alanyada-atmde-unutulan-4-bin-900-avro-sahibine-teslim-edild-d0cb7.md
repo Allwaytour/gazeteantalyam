@@ -101,9 +101,11 @@ gorsel_yerlesim:
   url: https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?fm=jpg&q=80&w=1600&fit=max
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1771527253774-34c5c2860fee?fm=jpg&q=80&w=1600&fit=max
+yazim_duzeltme: çevrefe→çevrede
+yazim_denetim: y1
 ---
 Alanya Alaaddin Keykubat Üniversitesi-Dinek Mahallesi hattında görev yapan özel halk otobüsü şoförü Zekeriya Öner, seferini tamamladıktan sonra para yatırmak amacıyla Kestel Mahallesi'ndeki bir bankamatik önüne geldi. Cihazdan gelen sesleri fark eden Öner, iptal tuşuna bastığı esnada ATM'den yüklü miktarda döviz çıktığını fark etti.
 
-Parayı hemen muhafaza altına alan şoför, kendisinden hemen önce cihazda işlem yaparak aceleyle uzaklaşan kişileri çevrefe aradı ancak sonuç alamadı. Durumu polise ve banka yetkililerine bildiren Öner, daha sonra otobüsünün bağlı olduğu kooperatifin yardımıyla paranın sahibi Nadir Akkoyun'a ulaştı.
+Parayı hemen muhafaza altına alan şoför, kendisinden hemen önce cihazda işlem yaparak aceleyle uzaklaşan kişileri çevrede aradı ancak sonuç alamadı. Durumu polise ve banka yetkililerine bildiren Öner, daha sonra otobüsünün bağlı olduğu kooperatifin yardımıyla paranın sahibi Nadir Akkoyun'a ulaştı.
 
 Yapılan görüşmelerin ardından 4 bin 900 avro eksiksiz bir şekilde sahibine teslim edildi. Yaşadığı olaydan duyduğu memnuniyeti dile getiren Nadir Akkoyun, ATM'ye para yatırırken acele davrandığını ve onay aşamasını beklemeden ayrıldığını belirtti. Akkoyun, şoförün sergilediği dürüst ve duyarlı davranışın kendisini çok duygulandırdığını ifade ederek teşekkür etti.

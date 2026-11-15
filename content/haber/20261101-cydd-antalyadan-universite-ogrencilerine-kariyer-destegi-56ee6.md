@@ -103,6 +103,7 @@ gorsel_yerlesim:
   o_kart: 50% 50%
   o_kart_p: 50% 50%
   url: https://images.unsplash.com/photo-1606761568499-6d2451b23c66?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Üniversite eğitimine devam eden bursiyer gençleri mesleklerinde tecrübe sahibi isimlerle buluşturan Mentorluk Projesi yeni dönem çalışmalarına başladı. Projenin 15. dönemi çerçevesinde mentör ile mentilerin ilk yüz yüze tanışma toplantısı gerçekleştirildi. Şube Koordinatörü Leyla İrten'in koordinasyonunda düzenlenen buluşmada, 54 menti ile 34 mentör yeni çalışma dönemi için bir araya geldi.
 

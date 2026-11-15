@@ -43,10 +43,11 @@ kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/alanya-emlak-piyasasi-icin-2027-uyarisi
 gorsel_yedek: /images/haber-gorsel/20261102-alanya-emlak-piyasasi-icin-2027-uyarisi-ce25f-a8723db5.jpg
 baslik_onceki: Alanya emlak piyasasi icin 2027 uyarisi
-yazim_duzeltme: piyasasi→piyasası; uyarisi→uyarısı
+yazim_duzeltme: değiştigi→değiştiği
+yazim_denetim: y1
 ---
 Rusya ve Ukrayna arasında olası bir barış anlaşmasının gerçekleşmesi durumunda, Alanya'dan daire alan yabancı vatandaşların ülkelerine dönebileceği belirtildi. Sektör temsilcileri, bu dönüşlerin ardından satılmayı bekleyen 1+1 daire sayısında büyük bir artış yaşanabileceğine ve konut fiyatlarının gerileyebileceğine dikkat çekti.
 
 Artan yaşam maliyetleri ve enflasyonun etkisiyle Türkiye'nin cazibesini yitirdiği ifade edilirken, Alanya'daki fiyatların New York ve Moskova gibi dünya kentlerini geride bıraktığı savunuldu. Yaşam şartlarının pahalılaşması ve hizmet kalitesindeki düşüşün sektörü olumsuz etkilediği kaydedildi.
 
-Yaşanan gelişmelerin ardından inşaat sektöründeki stratejilerin değiştigi aktarıldı. Yeni dönemde 1+1 konut projeleri yerine yerli alıcılara yönelik 2+1 Türk tipi dairelerin inşa edileceği ve projelerin bu doğrultuda şekillendirileceği açıklandı.
+Yaşanan gelişmelerin ardından inşaat sektöründeki stratejilerin değiştiği aktarıldı. Yeni dönemde 1+1 konut projeleri yerine yerli alıcılara yönelik 2+1 Türk tipi dairelerin inşa edileceği ve projelerin bu doğrultuda şekillendirileceği açıklandı.

@@ -106,7 +106,8 @@ gorsel_yerlesim:
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/c/cb/Turkey_ambulance_01.JPG
 - https://upload.wikimedia.org/wikipedia/commons/c/ce/Turkey_medical_ambulance%2C_Batman.jpg
-yazim_duzeltme: gecti→geçti
+yazim_duzeltme: gülükle→güçlükle; mühadalenin→müdahalenin
+yazim_denetim: y1
 ---
 Antalya'nın Gazipaşa ilçesinde akşam saatlerinden gece yarısına kadar ardarda iki trafik kazası yaşandı. İlk kaza, Sugözü Mahallesi Bekere mevkisinde akşam saat 18.00 sıralarında kayda geçti. Yayladan ilçe merkezine inen Celil Ü. idaresindeki kamyonet, virajlı yolda sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde yoldan çıktı. Kontrolden çıkan araç yaklaşık 10 metre derinliǯindeki şarampole yuvarlandı.
 
@@ -114,4 +115,4 @@ Meydana gelen ilk kazada hurdaya dönen kamyonetin sürücüsü ile birlikte yol
 
 İlk kazayı takip eden saatlerde, gece saat 01.00 sıralarında Ilıca Mahallesi'nden yeni bir kaza haberi ulaştı. Raşit G.'nin kontrolündeki otomobil, dağlık alandaki güzergah zerinde yoldan çıkarak yaklaşık 100 metrelik uçuruma yuvarlandı. Metrelerce sürüklenen aracın altında kalan sürücü ağır yaralandı.
 
-Olay yerine ulaşan itfaiye ve sağlık ekipleri gece karanlıǯında zamanla yarıştı. Uçurumdan gülükle çıkarılan sürücü, ilk mühadalenin ardından devlet hastanesine ulaştırıldı. Ağır yaralı sürücü daha sonra Alanya'daki eğitim ve araştırma hastanesine sevk edildi.
+Olay yerine ulaşan itfaiye ve sağlık ekipleri gece karanlıǯında zamanla yarıştı. Uçurumdan güçlükle çıkarılan sürücü, ilk müdahalenin ardından devlet hastanesine ulaştırıldı. Ağır yaralı sürücü daha sonra Alanya'daki eğitim ve araştırma hastanesine sevk edildi.

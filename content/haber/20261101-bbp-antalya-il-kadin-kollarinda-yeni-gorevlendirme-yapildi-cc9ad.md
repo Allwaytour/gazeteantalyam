@@ -46,6 +46,7 @@ gorsel_secim:
   kural_denetim: k4
   kural_denetim_not: kayıtlı inceleme yok; bilinen sorun bulunmadı, korundu
 gorsel_yedek: /images/haber-gorsel/20261101-bbp-antalya-il-kadin-kollarinda-yeni-gorevlendirme-yapildi-cc-e8005e32.jpg
+yazim_denetim: y1
 ---
 Büyük Birlik Partisi Antalya İl Kadın Kolları teşkilatında yeni bir yönetim hamlesi hayata geçirildi. Yapılan son görevlendirme doğrultusunda Ezgi Cengiz, İl Kadın Kolları Başkanlığı bünyesinde Toplumsal İlişkilerden Sorumlu İl Kadın Kolları Başkan Yardımcısı olarak atandı.
 

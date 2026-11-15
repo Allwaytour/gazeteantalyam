@@ -53,8 +53,10 @@ metin_onarim:
   kaynak: https://www.yenialanya.com/antalya-elmalida-300-milyon-tllik-altyapi-yatirimi-8-mahallede-calisma
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 5 kelime özgün haliyle bırakıldı; spot: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
+yazim_duzeltme: calismalarle→çalışmalarla
+yazim_denetim: y1
 ---
-Antalya Büyükşehir Belediyesi ASAT Genel Müdürlüğü tarafından Elma'li ilçesinde başlatılan büyük ölçekli altyapı yatırımları tüm hızıyla sürüyor. Proje kapsamında ilçe genelindeki sekiz mahallede toplam 116 bin metreyi aşkın yeni içme suyu altyapısı oluşturulması hedefleniyor. Yapılan calismalarle ekonomik ömrünü tamamlayan şebekelerin yenilenmesi, su iletim kapasitesinin artırılması ve modern sayaç sistemlerine geçilmesi amaçlanıyor.
+Antalya Büyükşehir Belediyesi ASAT Genel Müdürlüğü tarafından Elma'li ilçesinde başlatılan büyük ölçekli altyapı yatırımları tüm hızıyla sürüyor. Proje kapsamında ilçe genelindeki sekiz mahallede toplam 116 bin metreyi aşkın yeni içme suyu altyapısı oluşturulması hedefleniyor. Yapılan çalışmalarla ekonomik ömrünü tamamlayan şebekelerin yenilenmesi, su iletim kapasitesinin artırılması ve modern sayaç sistemlerine geçilmesi amaçlanıyor.
 
 Yatırım programı Karyağdı, Çalpınar, Kızılpınar, Bozhöyük, Geçmen, Eskihisar, Yuva ve Akçay mahallelerini kapsıyor. İlçe merkezindeki Karyağdiyi mahallesinde içme suyu hatlarının yanı sıra kanalizasyon altyapısı da yenilenirken diğer mahallelerde şebeke ve sayaç modernizasyon çalışmaları yürütülüyor. Ayrıca Yuva Mahallesi Kazanpınar mevkisinden ilçe merkezine doğru uzanan 13 bin metreden fazla uzunluğa sahip çelik isale hattı imalatı da projenin önemli ayaklarından birini oluşturuyor.
 
