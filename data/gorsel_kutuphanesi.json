@@ -7231,6 +7231,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:17bdedbf62e7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan kış lastiğini net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "kış lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       10,
+       990,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:57+03:00"
+    },
     "r1:e4b90e02e0c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -7267,7 +7298,7 @@
     "dh": "d99c8c1e8ed6ce3c",
     "sha": "b61a4500dc3b96fc8d122b1f"
    },
-   "t": "2026-11-10T15:07:07+03:00",
+   "t": "2026-11-15T14:43:57+03:00",
    "teknik": {
     "doygunluk": 6.0,
     "inen": [
@@ -22403,6 +22434,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Antalya%2C_Turkey_9_March_2022_-_Shel_Petrol_Station_Deli2Go.jpg/1280px-Antalya%2C_Turkey_9_March_2022_-_Shel_Petrol_Station_Deli2Go.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "267e5cea7f133cf2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "plaj",
+     "deniz",
+     "tekne",
+     "binalar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya sahili ve plajının yüksekten geniş açılı görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil haberi",
+     "şehir manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "röportaj",
+     "kaza",
+     "maç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bd4580713ad1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya sahilinin genel yapısını ve denizini açıkça gösteren uygun bir manzara karesi.",
+      "gerekli": [
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "güneşli hava",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "68b2ce2319060308",
+    "sha": "f7fb52bf04b7dbe7e623109a"
+   },
+   "t": "2026-11-15T14:43:24+03:00",
+   "teknik": {
+    "doygunluk": 43.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.214,
+    "keskinlik": 4990,
+    "kontrast": 57,
+    "medyan": 73,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "269f66951e3de67d": {
    "icerik": {
     "ana_kutu": [
@@ -35327,6 +35460,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tophane_Place_Istanbul.jpg/1280px-Tophane_Place_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "3e33fd7b90329313": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "altın kolye",
+     "manzara vitrini",
+     "mücevher",
+     "küpe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı vitrin standında sergilenen altın takılar ve kolyeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekonomi",
+     "altin piyasasi",
+     "kuyumculuk"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:52f2787f29fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Vitrendeki altın takılar haberin konusunu doğrudan temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "altın takılar, çeyrek altın veya bilezik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d4b3333cd719bc9",
+    "sha": "ab8c85716bb5030fff8622e4"
+   },
+   "t": "2026-11-15T14:43:41+03:00",
+   "teknik": {
+    "doygunluk": 36.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 1860,
+    "kontrast": 65,
+    "medyan": 96,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg/1280px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3e448b09ffede042": {
    "ozet": {
     "dh": "2623676c3b3ab6a6",
@@ -43798,6 +44024,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:17bdedbf62e7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan lastik değişim dönemini temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "araç lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:57+03:00"
+    },
     "r1:e4b90e02e0c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -43834,7 +44091,7 @@
     "dh": "c9e4320e0bf3b566",
     "sha": "aed04360dbb313832fb86ccd"
    },
-   "t": "2026-11-10T15:07:07+03:00",
+   "t": "2026-11-15T14:43:57+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -46990,6 +47247,108 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg/1280px-T.C._Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_%C3%96zel_Merkez_Rum_Lisesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "549514b2934dbafc": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kale suru",
+     "plaj",
+     "deniz",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya Kalesi surlarından Kleopatra Plajı ve sahilin yüksekten görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "şehir tanıtımı",
+     "sahil manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakası",
+     "röportaj",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bd4580713ad1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya sahilinin yüksekten çekilmiş güneşli ve net bir manzarasını sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "sahil",
+        "var": true
+       },
+       {
+        "unsur": "deniz",
+        "var": true
+       },
+       {
+        "unsur": "güneşli hava",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c4c40c4c86122135",
+    "sha": "71713ed91e60ab893a557b4f"
+   },
+   "t": "2026-11-15T14:43:24+03:00",
+   "teknik": {
+    "doygunluk": 41.3,
+    "inen": [
+     500,
+     354
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 5185,
+    "kontrast": 56,
+    "medyan": 94,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/1280px-Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "54cea869b9434145": {
    "icerik": {
@@ -59906,6 +60265,41 @@
      },
      "t": "2026-11-13T03:00:45+03:00"
     },
+    "r1:89a9bf8fdda7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya şehir merkezinin yüksekten genel görünümü, Antalya'nın kentleşme ve yapılaşma konusunu doğrudan destekler.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": true
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       200,
+       950,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:14+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -60082,37 +60476,6 @@
      },
      "t": "2026-11-11T09:11:04+03:00"
     },
-    "r1:e0e4aced2d92:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya genel şehir manzarasını göstermesi açısından planlanan konut projesi haberiyle uyumludur.",
-      "gerekli": [
-       {
-        "unsur": "konut binaları",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       385,
-       290,
-       535,
-       770
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 7,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T11:05:14+03:00"
-    },
     "r1:f2bac7133776:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -60149,7 +60512,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-13T03:00:45+03:00",
+   "t": "2026-11-15T14:41:14+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -64013,6 +64376,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:89a9bf8fdda7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern mimari detayi icerir ancak genel sehir planlamasi haberi icin sinirli bir temsil sunar.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": true
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:24+03:00"
+    },
     "r1:e11d50673d18:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -64044,7 +64442,11 @@
      "t": "2026-11-08T14:05:02+03:00"
     }
    },
-   "t": "2026-11-08T14:05:02+03:00",
+   "ozet": {
+    "dh": "171786b697555555",
+    "sha": "3f82ca446aff6030180fe64e"
+   },
+   "t": "2026-11-15T14:41:24+03:00",
    "teknik": {
     "doygunluk": 13.5,
     "inen": [
@@ -66084,6 +66486,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chatham_Waterfront_Bus_Station_improvement_works_with_pedestrian_barriers_and_traffic_cones%2C_Chatham%2C_Kent%2C_England_-_3_October_2025.jpg/1280px-Chatham_Waterfront_Bus_Station_improvement_works_with_pedestrian_barriers_and_traffic_cones%2C_Chatham%2C_Kent%2C_England_-_3_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7bab8221b56c7a38": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     50,
+     900,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dünya haritası",
+     "lejant",
+     "yazılar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dünya haritası üzerinde kentsel merkezleri gösteren şematik arayüz",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "küresel kentleşme",
+     "tarih araştırması",
+     "coğrafya"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "antalya kentleşmesi",
+     "gündem"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:89a9bf8fdda7:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Küresel dünya haritası animasyon karesi, Antalya'nın yerel kentleşme haberiyle alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": false
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "008c9cb052524258",
+    "sha": "a759fd718d92998af243d591"
+   },
+   "t": "2026-11-15T14:41:14+03:00",
+   "teknik": {
+    "doygunluk": 0.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 434,
+    "kontrast": 14,
+    "medyan": 255,
+    "parlaklik": 251,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/ArchaeoGLOBE_URBAN.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "7bf56c54c2aa1113": {
    "icerik": {
@@ -71488,6 +71981,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:17bdedbf62e7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kış lastiği sembolünü ve detaylarını net olarak göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "kış lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:57+03:00"
+    },
     "r1:e4b90e02e0c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -71524,7 +72048,7 @@
     "dh": "07077c8440d027e0",
     "sha": "31e2dbe9525f71ddb095f8c3"
    },
-   "t": "2026-11-10T15:07:07+03:00",
+   "t": "2026-11-15T14:43:57+03:00",
    "teknik": {
     "doygunluk": 2.1,
     "inen": [
@@ -82968,6 +83492,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/1280px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "984859c699b2491e": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     20,
+     800,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "altın bilezik",
+     "küpe",
+     "fiyat etiketi",
+     "vitrin standı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kuyumcu vitrininde sergilenen kalın altın bilezikler ve küpeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekonomi",
+     "altin piyasasi",
+     "kuyumculuk"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:52f2787f29fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Altın bilezikler haberdeki takı tercihleri temasına uygundur.",
+      "gerekli": [
+       {
+        "unsur": "altın takılar, çeyrek altın veya bilezik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       20,
+       800,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cefdd3979e706971",
+    "sha": "e80451db4068c1a103ad05f0"
+   },
+   "t": "2026-11-15T14:43:41+03:00",
+   "teknik": {
+    "doygunluk": 48.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 1555,
+    "kontrast": 65,
+    "medyan": 104,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_02.jpg/1280px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "985c48ced5cf3f7f": {
    "icerik": {
@@ -96876,6 +97493,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Akdeniz_%C3%9Cniversitesi_E%C4%9Fitim_Fak%C3%BCltesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "b3b0afc3b6c31426": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "metinler",
+     "oklar",
+     "çizim harita",
+     "ağaçlar",
+     "dağlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kentsel planlama sorunları ve göçü şematize eden illüstrasyon ve metinler",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şehir planlama",
+     "kentleşme analizi",
+     "akademik makale"
+    ],
+    "uygunsuz_baglamlar": [
+     "günlük haber",
+     "röportaj",
+     "canlı yayın"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:89a9bf8fdda7:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İspanyolca şematik bir illüstrasyon, Antalya haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": false
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f0d4f4b6f2e1d2b2",
+    "sha": "e952ae262b0ad9cd20ab59b8"
+   },
+   "t": "2026-11-15T14:41:14+03:00",
+   "teknik": {
+    "doygunluk": 13.8,
+    "inen": [
+     500,
+     390
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 4448,
+    "kontrast": 73,
+    "medyan": 253,
+    "parlaklik": 203,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/AITUnew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "b3ea1289a9e94ed8": {
    "icerik": {
     "ana_kutu": [
@@ -109007,6 +109717,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Students_of_Taihoku_High_School_eating_lunch.jpg/1280px-Students_of_Taihoku_High_School_eating_lunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cb2add593a3a65bc": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     330,
+     880,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi kule",
+     "Türk bayrağı",
+     "çit",
+     "çim alan",
+     "bulutlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'daki Hıdırlık Kulesi ve çevresindeki park alanı, arka planda gökyüzü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi eser",
+     "antalya",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "kentleşme sorunları",
+     "plansız yapılaşma",
+     "trafik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:89a9bf8fdda7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hıdırlık Kulesi tarihi bir yapıdır; kentleşme ve planlama sorunları haberinin genel dokusuna doğrudan uymaz.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": false
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f9e6e6668646060f",
+    "sha": "0fcb84d17d14e88d8a5ffe3c"
+   },
+   "t": "2026-11-15T14:41:14+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.098,
+    "keskinlik": 2004,
+    "kontrast": 47,
+    "medyan": 109,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Antalya_Hidirlik_Tower_5496.jpg/1280px-Antalya_Hidirlik_Tower_5496.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cb62245dfbf1fa5d": {
    "icerik": {
     "ana_kutu": [
@@ -113950,6 +114753,27 @@
    },
    "url": "https://images.unsplash.com/photo-1790059634452-bac7ed44f245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2NpZW5jZSUyMGV4aGliaXRpb24lMjBkaXNwbGF5fGVufDF8MHx8fDE3OTQ0NzIwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "d907cb47dee95e58": {
+   "ozet": {
+    "dh": "f6ef8f37930a4820",
+    "sha": "2ce5de2e96265f3421ff58e4"
+   },
+   "t": "2026-11-15T14:43:33+03:00",
+   "teknik": {
+    "doygunluk": 14.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.714,
+    "keskinlik": 1096,
+    "kontrast": 71,
+    "medyan": 30,
+    "parlaklik": 60,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1623743587733-469438d17975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Z29sZCUyMGNvaW5zJTIwYW5kJTIwYnJhY2VsZXRzfGVufDF8MHx8fDE3OTQ3NDMwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "d90e5c25e9bc8919": {
    "icerik": {
     "ana_kutu": [
@@ -114675,6 +115499,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ready_For_Boarding_%28237204569%29.jpeg/1280px-Ready_For_Boarding_%28237204569%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "da14ee6072d28728": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "altın kolye",
+     "mücevher vitrini",
+     "manken"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kuyumcu dükkanında vitrini dolduran devasa altın kolyeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekonomi",
+     "kuyumculuk",
+     "altin piyasasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:52f2787f29fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Vitrendeki yoğun altın takılar haberdeki altın alışverişi konusunu destekler.",
+      "gerekli": [
+       {
+        "unsur": "altın takılar, çeyrek altın veya bilezik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "997b6f0de68d3dea",
+    "sha": "b99eba1ece503f6e332e6684"
+   },
+   "t": "2026-11-15T14:43:41+03:00",
+   "teknik": {
+    "doygunluk": 38.7,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.131,
+    "keskinlik": 1608,
+    "kontrast": 60,
+    "medyan": 133,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1697380582263-ba9f5ef8cefa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Z29sZCUyMGpld2VscnklMjBzaG9wJTIwZGlzcGxheXxlbnwxfDB8fHwxNzk0NzQzMDEyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "da400d43dd75017e": {
    "t": "2026-11-07T22:32:21+03:00",
@@ -115467,6 +116382,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "dc2bf73fce40668d": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     180,
+     563,
+     357
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "saat kulesi",
+     "cami kubbesi",
+     "tas duvar",
+     "turk bayragi",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Saat Kulesi ve tarihi yapilar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kentlesme",
+     "tarihi yapi",
+     "sehir tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi kriz"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:89a9bf8fdda7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nin tarihi mimarisini ve kent dokusunu gosteren uygun bir temsilî gorsel.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": true
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       180,
+       563,
+       357
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f47c78f872629a9",
+    "sha": "4179e6452cd76cd10d53bcd0"
+   },
+   "t": "2026-11-15T14:41:24+03:00",
+   "teknik": {
+    "doygunluk": 19.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.28,
+    "keskinlik": 1466,
+    "kontrast": 86,
+    "medyan": 98,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Antalya_Clock_Tower_in_2015_06.jpg/1280px-Antalya_Clock_Tower_in_2015_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "dc538ad3cf523b5f": {
    "icerik": {
@@ -125339,6 +126352,97 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Liquid_Potassium_Humate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "ee3d619c48a18ec2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "altın külçe",
+     "altın para",
+     "kadeh"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Siyah zemin üzerinde yığınlar halinde altın paralar ve külçeler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekonomi",
+     "yatirim",
+     "altin fiyatlari"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:52f2787f29fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Altın külçe ve paraları gösterdiği için yatırımlık altın haberine kısmen uyar.",
+      "gerekli": [
+       {
+        "unsur": "altın takılar, çeyrek altın veya bilezik",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "888d145511526a4e",
+    "sha": "2bb4c07e4621742cacf157f3"
+   },
+   "t": "2026-11-15T14:43:41+03:00",
+   "teknik": {
+    "doygunluk": 63.6,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.412,
+    "keskinlik": 2067,
+    "kontrast": 49,
+    "medyan": 65,
+    "parlaklik": 61,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1691404819847-dab7d769aca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Z29sZCUyMGNvaW5zJTIwYW5kJTIwYnJhY2VsZXRzfGVufDF8MHx8fDE3OTQ3NDMwMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "ee8426f114dcefc0": {
    "icerik": {
     "ana_kutu": [
@@ -125524,6 +126628,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/President_Christodoulides_%28cropped%29.jpg/1280px-President_Christodoulides_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "eece1d69da96eee5": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "binalar",
+     "gökdelenler",
+     "bulutlar",
+     "deniz",
+     "dağlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten çekilmiş yoğun binalar ve gökdelenlerle dolu büyük şehir manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kentleşme",
+     "mimari",
+     "şehir planlama"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:89a9bf8fdda7:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şehir manzarası uygun ancak yabancı bir kente ait olması yerel haberi yanıltabilir.",
+      "gerekli": [
+       {
+        "unsur": "binalar",
+        "var": true
+       },
+       {
+        "unsur": "sehir manzarasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:41:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0333021c05312b1a",
+    "sha": "8c4a7731d019ba72333ad8af"
+   },
+   "t": "2026-11-15T14:41:14+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     349
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 4631,
+    "kontrast": 64,
+    "medyan": 133,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Shenzhenshi.jpg/1280px-Shenzhenshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ef14581a38946d0d": {
    "icerik": {
@@ -134149,6 +135351,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ferhan_%26_Ferzan_%C3%96nder.jpg/1280px-Ferhan_%26_Ferzan_%C3%96nder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fae1c756e50daa5a": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     60,
+     900,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gümüş bilezik",
+     "antik takı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz arka planda tek bir antik gümüş bilezik",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih",
+     "arkeoloji",
+     "müze"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "guncel altin piyasasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:52f2787f29fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görseldeki nesne gümüş bir antik eserdir, güncel altın alışverişi haberiyle uyuşmaz.",
+      "gerekli": [
+       {
+        "unsur": "altın takılar, çeyrek altın veya bilezik",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T14:43:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "31cc863386ece0c0",
+    "sha": "e7d06396f89e02977efc3bf0"
+   },
+   "t": "2026-11-15T14:43:41+03:00",
+   "teknik": {
+    "doygunluk": 10.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.014,
+    "keskinlik": 894,
+    "kontrast": 63,
+    "medyan": 255,
+    "parlaklik": 220,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vindobona_Hoher_Markt-121.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "fb228ddab0fa19bb": {
    "icerik": {
     "ana_kutu": [
@@ -136851,7 +138138,7 @@
    "gosterim_ad": "kış lastiği zorunluluğu",
    "ilk_kabul": "2026-11-10T15:07:07+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Pava / Wikimedia Commons (CC BY-SA 3.0 it)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -136889,7 +138176,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-10T15:07:07+03:00",
+   "son_kabul": "2026-11-15T14:43:57+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG/1280px-%22_13_-_ITALY_-_Fiat_Panda_4x4_-_wheel_with_tire_-_Snow_tires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -139697,6 +140984,68 @@
    ],
    "yalniz_ayni_olay": true
   },
+  "3e33fd7b90329313": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4128,
+    3096
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2021-06-14",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kırmızı vitrin standında sergilenen altın takılar ve kolyeler",
+   "gosterim_ad": "altın alışverişi tercihleri",
+   "ilk_kabul": "2026-11-15T14:43:41+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Pos Lam Wrowury Uemkpoa / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Pos Lam Wrowury Uemkpoa",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "altın kolye",
+    "altın takılar, çeyrek altın veya bilezik",
+    "küpe",
+    "manzara vitrini",
+    "mücevher"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg/500px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "ekonomi",
+    "altin piyasasi",
+    "kuyumculuk"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "magazin",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T14:43:41+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg/1280px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E5%9D%91%E5%8F%A3_Hang_Hau_%E6%9D%B1%E6%B8%AF%E5%9F%8E_East_Point_City_mall_shop_Jewellery_window_display_June_2021_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "3e557b64b78ca075": {
    "alt_tur": "yer_konu",
    "boyut": [
@@ -140767,6 +142116,70 @@
    "sinif": "konu",
    "son_kabul": "2026-11-12T11:57:38+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "549514b2934dbafc": {
+   "alt_tur": "kurum",
+   "boyut": [
+    5644,
+    4000
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "2024-08-14",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Alanya Kalesi surlarından Kleopatra Plajı ve sahilin yüksekten görünümü.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-15T14:43:24+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Julian Lupyan / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "Julian Lupyan",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Citadel_of_Alanya_Castle_(Foreground),_Kleopatra_Beach_(Background),_Alanya,_T%C3%BCrkiye,_2024.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç",
+    "bina",
+    "deniz",
+    "güneşli hava",
+    "kale suru",
+    "plaj",
+    "sahil"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/500px-Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm haberi",
+    "şehir tanıtımı",
+    "sahil manzarası"
+   ],
+   "kullanilamaz": [
+    "spor müsabakası",
+    "röportaj",
+    "kaza haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-15T14:43:24+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/1280px-Citadel_of_Alanya_Castle_%28Foreground%29%2C_Kleopatra_Beach_%28Background%29%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -146533,6 +147946,70 @@
    "sinif": "konu",
    "son_kabul": "2026-11-09T13:21:28+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kos-Kos_city-Electricity_meter-01ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "dc2bf73fce40668d": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    4928,
+    3280
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2015-02-10",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya Saat Kulesi ve tarihi yapilar",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-15T14:41:24+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Dosseman",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya_Clock_Tower_in_2015_06.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "binalar",
+    "cami kubbesi",
+    "saat kulesi",
+    "sehir manzarasi",
+    "sokak lambasi",
+    "tas duvar",
+    "turk bayragi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Antalya_Clock_Tower_in_2015_06.jpg/500px-Antalya_Clock_Tower_in_2015_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "kentlesme",
+    "tarihi yapi",
+    "sehir tanitimi"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "ekonomi kriz"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T14:41:24+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Antalya_Clock_Tower_in_2015_06.jpg/1280px-Antalya_Clock_Tower_in_2015_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
