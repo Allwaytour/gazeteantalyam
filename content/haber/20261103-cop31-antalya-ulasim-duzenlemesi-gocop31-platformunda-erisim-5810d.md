@@ -76,9 +76,11 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/2/2c/Expo_2016_Antalya_-_West_View.jpg
 - https://upload.wikimedia.org/wikipedia/commons/e/ec/Expo_Square_and_Turkcell_Expo_Tower.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Expo_Seras%C4%B1.jpg/1280px-Expo_Seras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+yazim_duzeltme: fursat→fırsat
+yazim_denetim: y1
 ---
 Antalya, 9-20 Kasım 2026 tarihleri arasında Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı zirvesine ev sahipliği yapacak. Binlerce delege, devlet başkanı ve çevre temsilcisinin şehre geleceği 12 günlük süreçte kent içi hareketliliğin aksamaması ve güvenlik protokollerinin yürütülmesi amacıyla kapsamlı trafik tedbirleri devreye alındı. Kent genelinde uygulanacak düzenlemeler, ana arterlerden toplu taşıma hatlarına kadar geniş bir alanı doğrudan etkileyecek.
 
 Şehir merkezindeki akışın kesintisiz sürmesi ve vatandaşların günlük yaşamlarının aksaması önlemek için goCOP31 dijital bilgilendirme platformu resmi olarak duyuruldu. Antalya Valiliği, sürücülerin ve kent sakinlerinin yolculuklarını önceden planlamalarını tavsiye ederken sistemin sunduğu kolaylıklara dikkat çekti. Kullanıma sunulan portal aracılığıyla trafiğe kapatılacak cadde ve sokaklar, uygulama saatleri, belirlenen alternatif güzergahlar, tahsis edilen servis hatları ve otopark noktaları anlık verilerle takip edilebilecek.
 
-Zirvenin sadece bir çevre toplantısı değil, aynı zamanda Türkiye'nin ve Antalya'nın uluslararası vitrini olduğuna işaret eden yetkililer, tüm vatandaşları süreç boyunca hassasiyet göstermeye davet etti. Yapılan bilgilendirmede, organizasyonun kentin küresel ölçekteki tanıtımı ve temsili açısından tarihi bir fursat sunduğu vurgulanırken, ev sahipliği bilinciyle hareket edilmesinin önemi hatırlatıldı. Süreçte, tüm anlık duyuruların ve güncellemelerin resmi web kanalı üzerinden paylaşılmaya devam edeceği kaydedildi.
+Zirvenin sadece bir çevre toplantısı değil, aynı zamanda Türkiye'nin ve Antalya'nın uluslararası vitrini olduğuna işaret eden yetkililer, tüm vatandaşları süreç boyunca hassasiyet göstermeye davet etti. Yapılan bilgilendirmede, organizasyonun kentin küresel ölçekteki tanıtımı ve temsili açısından tarihi bir fırsat sunduğu vurgulanırken, ev sahipliği bilinciyle hareket edilmesinin önemi hatırlatıldı. Süreçte, tüm anlık duyuruların ve güncellemelerin resmi web kanalı üzerinden paylaşılmaya devam edeceği kaydedildi.

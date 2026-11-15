@@ -73,9 +73,11 @@ metin_onarim:
   not: 'metin: yapay zekânın değiştirdiği 2 kelime özgün haliyle bırakıldı'
 gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/1/15/Manavgat_560DSC_0226_%2848104102833%29.jpg
+yazim_duzeltme: istendigi→istendiği
+yazim_denetim: y1
 ---
 Antalya'nın Manavgat ilçesinde hakkındaki bazı iddialar nedeniyle yargılanan ve görevinden uzaklaştırılan Manavgat Belediye Başkanı Niyazi Nefi Kara, bir televizyon programında yapılan açıklamalara sosyal medya hesabı üzerinden yayınladığı metinle karşılık verdi.
 
 Tutuklandıktan üç ay sonra partisinden istifa eden Kara, paylaşımında yargılama sürecinin yakından takip edilmediğini belirterek eleştirilerde bulundu. Dosyanın hukukçular tarafından incelenmesi durumunda suçsuzluğunun anlaşılabileceğini ifade eden Kara, eski yol arkadaşı tarafından yapılan açıklamaların gerçeği yansıtmadığını savundu.
 
-Ruhsat ve benzeri iddialara ilişkin mahkemede hiç kimsenin kendisinden para istendigi ya da rusphes alındığı yönünde beyanda bulunmadığını belirten Kara, belediyenin kaynaklarının korunduğunu ve başının dik olduğunu kaydetti. Kamuoyunun yanıltıldığını öne süren Kara, gerçekleri paylaşmanın bir sorumluluk olduğunu vurguladı.
+Ruhsat ve benzeri iddialara ilişkin mahkemede hiç kimsenin kendisinden para istendiği ya da rusphes alındığı yönünde beyanda bulunmadığını belirten Kara, belediyenin kaynaklarının korunduğunu ve başının dik olduğunu kaydetti. Kamuoyunun yanıltıldığını öne süren Kara, gerçekleri paylaşmanın bir sorumluluk olduğunu vurguladı.

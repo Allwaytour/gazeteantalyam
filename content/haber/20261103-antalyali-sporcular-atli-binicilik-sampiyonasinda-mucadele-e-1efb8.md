@@ -53,10 +53,11 @@ metin_onarim:
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: ''
 baslik_ozgun: Antalyalı sporcular atlı binicilik şampiyonasında mücadele etti
-yazim_duzeltme: mucadele→mücadele; tarafindan→tarafından; duzenlenen→düzenlenen; Atli→Atlı; Sampiyonasi→Şampiyonası; katilan→katılan; birakti→bıraktı; Bakanligi→Bakanlığı; birliginde→birliğinde; gecirilen→geçirilen; cografi→coğrafi; Etkinlige→Etkinliğe; arasi→arası; baglarini→bağlarını; pekistirdi→pekiştirdi; etkinligi→etkinliği; yalnizca→yalnızca; yarisma→yarışma; degil→değil; firsati→fırsatı; degerlendirdi→değerlendirdi; Sampiyona→Şampiyona; kapsaminda→kapsamında; programi→programı; duzenlendi→düzenlendi; zar
+yazim_duzeltme: gerceklasan→gerçekleşen; dogasini→doğasını
+yazim_denetim: y1
 ---
 Genclik ve Spor Bakanlığı ile Türkiye Özel Sporcular Spor Federasyonu is birliğinde hayata geçirilen Atlı Binicilik Şampiyonası, Kapadokya'nin belirgin coğrafi atmosferinde organize edildi. Etkinliğe Antalya Adalya Spor Kulübü, İzmir Alia Atlı Spor Kulübü ve Nevşehir Gençlik ve Spor İl Müdürlüğü Spor Kulübü katilim gösterdi.
 
-Nevşehir'de gerceklasan iki günlük organizasyonda sporcular hem kıyasıya bir mücadele sergiledi hem de kulüpler arası dostluk bağlarını pekiştirdi. Antalya'dan organizasyona dahil olan Adalya Spor Kulübü ve Akademi Adalya kafilesi, etkinliği yalnızca sportif bir yarışma olarak değil, ayni zamanda yeni kesifler yapma ve ani biriktirme fırsatı olarak değerlendirdi.
+Nevşehir'de gerçekleşen iki günlük organizasyonda sporcular hem kıyasıya bir mücadele sergiledi hem de kulüpler arası dostluk bağlarını pekiştirdi. Antalya'dan organizasyona dahil olan Adalya Spor Kulübü ve Akademi Adalya kafilesi, etkinliği yalnızca sportif bir yarışma olarak değil, ayni zamanda yeni kesifler yapma ve ani biriktirme fırsatı olarak değerlendirdi.
 
-Şampiyona kapsamında iki gün süren bir kamp programı da düzenlendi. Bu süre zarfında Kapadokya'nin dogasini inceleme fırsatı bulan sporcular ve teknik ekip, ATV turları ve sosyal aktivitelerle keyifli vakit geçirdi. Organizasyonu tamamlayan Antalya temsilcisi, moral depolayarak kente geri döndü.
+Şampiyona kapsamında iki gün süren bir kamp programı da düzenlendi. Bu süre zarfında Kapadokya'nin doğasını inceleme fırsatı bulan sporcular ve teknik ekip, ATV turları ve sosyal aktivitelerle keyifli vakit geçirdi. Organizasyonu tamamlayan Antalya temsilcisi, moral depolayarak kente geri döndü.

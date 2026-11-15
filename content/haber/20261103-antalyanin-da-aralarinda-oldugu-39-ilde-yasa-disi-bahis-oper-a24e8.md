@@ -76,9 +76,11 @@ metin_onarim:
   kaynak: https://www.antalyahurses.com/antalya-dahil-39-ilde-yapay-zeka-destekli-projeyle-yasa-disi-bahis-operasyonu/560841
   yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
   not: 'metin: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+yazim_duzeltme: Acklamaya→Açıklamaya
+yazim_denetim: y1
 ---
 Dijital ortamlarda işlenen suç faaliyetlerinin engellenmesine yönelik çalışmalar kapsamında İstanbul merkezli operasyonlar düzenlendi. İstanbul Cumhuriyet Başsavcılığı koordinesinde, İstanbul İl Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü ekiplerince yürütülen çalışmalar Antalya'nın da aralarında bulunduğu toplam 39 ili kapsadı.
 
-Acklamaya göre, mesajlaşma platformları üzerinden yasa dışı bahis faaliyetleri yürüten çok sayıda grup ve şüpheli tespit edildi. Yapay zeka destekli avcı projesi kullanılarak yapılan teknik incelemeler neticesinde, şüphelilerin kimlik bilgileri ile yasa dışı sanal bahis altyapısı içerisindeki rolleri deşifre edildi.
+Açıklamaya göre, mesajlaşma platformları üzerinden yasa dışı bahis faaliyetleri yürüten çok sayıda grup ve şüpheli tespit edildi. Yapay zeka destekli avcı projesi kullanılarak yapılan teknik incelemeler neticesinde, şüphelilerin kimlik bilgileri ile yasa dışı sanal bahis altyapısı içerisindeki rolleri deşifre edildi.
 
 Belirlenen adreslere eş zamanlı operasyonlar gerçekleştirildi. Yapılan baskınlar sonucunda 151 şüpheli yakalanarak gözaltına alındı.

@@ -73,6 +73,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG
 baslik_onceki: Antalya kirsalinda kış öncesi yol bakım çalismalari sürüyor
 yazim_duzeltme: kirsalinda→kırsalında; çalismalari→çalışmaları
+yazim_denetim: y1
 ---
 Antalya Büyükşehir Belediyesi Yol Yapım, Bakım ve Onarım Dairesi Başkanlığı ekipleri, yaklaşan kış mevsimi öncesinde kırsal mahallelerdeki ulaşım ağını daha güvenli hale getirmek amacıyla çalışmalarını aralıksız sürdürüyor.
 

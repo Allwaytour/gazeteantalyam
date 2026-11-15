@@ -72,6 +72,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1791471153826-7f30ebf6b70e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1552509297-a311e6bbe568?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/f/f5/Front_view_of_Volleyball_court_at_Australian_Institute_of_Sport.jpg
+yazim_denetim: y1
 ---
 Alanya Belediyespor, spor faaliyetleri yelpazesini genişleterek Aqua Fit branşını hayata geçiriyor. Su içerisinde ve su üzerinde kullanılan SUP tahtaları üzerinde gerçekleştirilecek çalışmalarla sporseverlere farklı tempolarda egzersiz alternatifleri sunulacak. Programın fitness bölümünde kardiyo ve şınav gibi vücut ağırlığına dayalı egzersizler yer alacak.
 

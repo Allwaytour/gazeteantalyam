@@ -183,6 +183,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1431540015161-0bf868a2d407?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1503423571797-2d2bb372094a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1679205691826-9157415559c2?fm=jpg&q=80&w=1600&fit=max
+yazim_denetim: y1
 ---
 Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Komisyonu'nda gerçekleştirilen toplantıda, Türkiye Cumhuriyeti Devlet Demiryolları Genel Müdürlüğü ile bağlı şirketlerin 2023 ve 2024 yıllarına ait hesapları ve faaliyetleri değerlendirildi. Toplantı sırasında bölgenin ulaşım altyapısı açısından büyük önem taşıyan demiryolu projesi de gündeme taşındı.
 

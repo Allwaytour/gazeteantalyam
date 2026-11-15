@@ -1709,6 +1709,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Under-sink_hot_water_boiler_and_tap_unit.jpg/1280px-Under-sink_hot_water_boiler_and_tap_unit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "027503132a3c9d5e": {
+   "icerik": {
+    "ana_kutu": [
+     80,
+     210,
+     900,
+     470
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "heykel",
+     "küre",
+     "ağaç",
+     "yol",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta hurda malzemelerden yapılmış, küre taşıyan insan figürlü büyük heykel.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "heykel",
+     "park enstalasyonu"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e76c06fa730a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm heykelini gösterse de açık alanda yer alması sergi ortamını yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eserleri",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       80,
+       210,
+       900,
+       470
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7969e9694d494001",
+    "sha": "5e56e4a3565377e29c14a1a8"
+   },
+   "t": "2026-11-15T12:11:34+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 3116,
+    "kontrast": 61,
+    "medyan": 117,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1774174816822-5e96fa606fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVjeWNsZWQlMjBhcnQlMjBzY3VscHR1cmV8ZW58MXwwfHx8MTc5NDczMzg4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "02c7a45eb918ebed": {
    "icerik": {
     "ana_kutu": [
@@ -16624,6 +16722,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/SilivriPrison01.JPG/1280px-SilivriPrison01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1e24bf5b5c652e1d": {
+   "icerik": {
+    "ana_kutu": [
+     240,
+     290,
+     640,
+     700
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "tablo",
+     "müze salonu",
+     "bank",
+     "ziyaretçi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze galerisinde sergilenen büyük bir tabloyu inceleyen ziyaretçiler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sanat sergisi",
+     "müze haberi",
+     "kültür sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e76c06fa730a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel sergi atmosferini yansıtıyor ancak eserler geri dönüşüm temalı değil.",
+      "gerekli": [
+       {
+        "unsur": "sanat eserleri",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       290,
+       640,
+       700
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "684c6cccccc9e9c1",
+    "sha": "381a090fc3b4c4de542b16fe"
+   },
+   "t": "2026-11-15T12:11:34+03:00",
+   "teknik": {
+    "doygunluk": 36.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.19,
+    "keskinlik": 709,
+    "kontrast": 47,
+    "medyan": 94,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1758592376385-d5296e694beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXJ0JTIwZXhoaWJpdGlvbiUyMGdhbGxlcnl8ZW58MXwwfHx8MTc5NDczMzg4MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "1e39572d22359091": {
    "ozet": {
     "dh": "0d7c9252d242b28c",
@@ -23570,6 +23765,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3f321bd35c26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta çınar ağacı değil, limanda bir yolcu gemisi görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "çınar ağacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:05+03:00"
+    },
     "r1:40cf4cb0f71d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -23668,32 +23889,6 @@
       "yasak": []
      },
      "t": "2026-11-14T14:40:00+03:00"
-    },
-    "r1:adb4dc75380d:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Görsel Alanya limanını gösterse de il olma tartışmalarını yansıtmak için yetersiz kalıyor.",
-      "gerekli": [
-       {
-        "unsur": "Alanya genel görünüm",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 4,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T19:35:26+03:00"
     },
     "r1:b29d43268e0b:konu": {
      "d": {
@@ -23895,7 +24090,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-14T14:40:00+03:00",
+   "t": "2026-11-15T12:11:05+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -31770,6 +31965,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg/1280px-Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "361677b5ea5074ff": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     305,
+     786,
+     889
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel binası",
+     "balkon",
+     "dükkan",
+     "dondurma dolabı",
+     "askılık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ahşap balkonlu otel binası ve önünde dükkanlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "tarihi yapı haberi",
+     "otel tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "çınar ağacı haberi",
+     "tarım haberi",
+     "doğa felaketi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3f321bd35c26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Alanya'daki bir çınar ağacıyla ilgiliyken, fotoğraf Yalova'daki tarihi bir oteli göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "çınar ağacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c1c130f1b3b6dc6",
+    "sha": "60cf9a700bfc88666a5fb25f"
+   },
+   "t": "2026-11-15T12:11:05+03:00",
+   "teknik": {
+    "doygunluk": 28.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.16,
+    "keskinlik": 3368,
+    "kontrast": 56,
+    "medyan": 101,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Historic_%C3%87%C4%B1nar_Hotel_in_Termal%2C_Yalova.jpg/1280px-Historic_%C3%87%C4%B1nar_Hotel_in_Termal%2C_Yalova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "36946fcaca227a81": {
    "icerik": {
@@ -40533,6 +40817,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3f321bd35c26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber çınar ağacıyla ilgili ancak fotoğrafta çam ağaçları yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "çınar ağacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:10:59+03:00"
+    },
     "r1:e2f45d32c7c3:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -40569,7 +40879,11 @@
      "t": "2026-11-08T12:36:59+03:00"
     }
    },
-   "t": "2026-11-08T12:36:59+03:00",
+   "ozet": {
+    "dh": "5d555541cbcb4b69",
+    "sha": "48af70b08653331188eedf5b"
+   },
+   "t": "2026-11-15T12:11:05+03:00",
    "teknik": {
     "doygunluk": 54.4,
     "inen": [
@@ -48947,6 +49261,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Water_Mill_%28Water_Mill%2C_NY%29.jpg/1280px-The_Water_Mill_%28Water_Mill%2C_NY%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "57c28a7a41b1c8c4": {
+   "icerik": {
+    "ana_kutu": [
+     232,
+     131,
+     555,
+     903
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sörf tahtası",
+     "heykel",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Duvara monte edilmiş kırmızı renkli geri dönüştürülmüş sörf tahtası heykeli",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat sergisi",
+     "geri dönüşüm",
+     "heykel"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor müsabakası",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e76c06fa730a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm temalı bir sanat eseri gösteriyor ancak genel sergi salonu ortamını yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eserleri",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       232,
+       131,
+       555,
+       903
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2b6bd8d0f12b250e",
+    "sha": "31864f330c54021d44112efb"
+   },
+   "t": "2026-11-15T12:11:26+03:00",
+   "teknik": {
+    "doygunluk": 19.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 1179,
+    "kontrast": 53,
+    "medyan": 196,
+    "parlaklik": 178,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%22Nicky_%26_Hopper%22_a_1990_recycled-surfboard_sculpture_by_Ithaka_Darin_Pappas._Photograph_by_Ithaka_Darin_Pappas_1.jpg/1280px-%22Nicky_%26_Hopper%22_a_1990_recycled-surfboard_sculpture_by_Ithaka_Darin_Pappas._Photograph_by_Ithaka_Darin_Pappas_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "57c43c814bf46532": {
    "icerik": {
     "ana_kutu": [
@@ -50983,6 +51393,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3f321bd35c26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber tek bir asırlık çınar ağacı hakkında, fotoğrafta ise çam ormanı var.",
+      "gerekli": [
+       {
+        "unsur": "çınar ağacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:10:59+03:00"
+    },
     "r1:e0be889c4920:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -51027,7 +51463,7 @@
     "dh": "6d2f3b57d3266531",
     "sha": "b7b4ec6662fe111e3a400baa"
    },
-   "t": "2026-11-10T10:06:34+03:00",
+   "t": "2026-11-15T12:11:05+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -73724,6 +74160,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg/1280px-VIA_VID_Touch_Screen_Screen_Display_-_5_Models_%285466829841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "885f8ea37dea6834": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     110,
+     810,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sörf tahtası heykeli",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap kaplama duvara monte edilmiş, kırmızı ve siyah renkli geri dönüştürülmüş sörf tahtası heykeli.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "geri dönüşüm sergisi",
+     "heykel tasarımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor karşılaşması",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e76c06fa730a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm temalı sanat eseri sergiye uygun ancak salon ortamı gösterilmiyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eserleri",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       220,
+       110,
+       810,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f7bf18ce4f0d35f",
+    "sha": "33c4f10d20209b6ec48fc56d"
+   },
+   "t": "2026-11-15T12:11:34+03:00",
+   "teknik": {
+    "doygunluk": 38.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.044,
+    "keskinlik": 647,
+    "kontrast": 48,
+    "medyan": 162,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%22Nicky_%26_Hopper%22_a_1990_recycled-surfboard_sculpture_by_Ithaka_Darin_Pappas._Photograph_by_Ithaka_Darin_Pappas_2.jpg/1280px-%22Nicky_%26_Hopper%22_a_1990_recycled-surfboard_sculpture_by_Ithaka_Darin_Pappas._Photograph_by_Ithaka_Darin_Pappas_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "88a6a239d91dc199": {
    "ozet": {
     "dh": "a2b2e2e688aaaaee",
@@ -82686,6 +83217,93 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "99d7b9213e9e32ee": {
+   "icerik": {
+    "ana_kutu": [
+     215,
+     102,
+     792,
+     953
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "vagon",
+     "ray",
+     "ot",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Acık alanda ray üzerinde duran paslanmış eski vagon",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "demiryolu tarihi",
+     "müze sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kimlik yenileme",
+     "nüfus işlemleri",
+     "sürücü belgesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a6c63cd608b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Paslanmış tren vagonu kimlik ve sürücü belgesi yenileme haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "kimlik kartı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:12:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "031cb8b1c9ec787f",
+    "sha": "a37dab734f038e5e962bd96c"
+   },
+   "t": "2026-11-15T12:12:31+03:00",
+   "teknik": {
+    "doygunluk": 31.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 3071,
+    "kontrast": 66,
+    "medyan": 172,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Sites_of_the_Battle_of_Broken_Hill._NSW_2009.jpg/1280px-Sites_of_the_Battle_of_Broken_Hill._NSW_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "99e5a22da15b0e91": {
    "icerik": {
     "ana_kutu": [
@@ -88797,6 +89415,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a74d6b908a8feec1": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ağaç dalları",
+     "yaprak",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaç dalları ve yeşil yapraklar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doğa haberi",
+     "çevre haberi",
+     "orman haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3f321bd35c26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili çınar ağacı yaprakları ve dalları habere uygun bir görsel sunmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çınar ağacı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:05+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fded9ecf6e7736bc",
+    "sha": "2b43971d5384f10966f7a9d6"
+   },
+   "t": "2026-11-15T12:11:05+03:00",
+   "teknik": {
+    "doygunluk": 46.7,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.171,
+    "keskinlik": 5420,
+    "kontrast": 49,
+    "medyan": 86,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1697863130232-9170138ffe6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGxhbmUlMjB0cmVlfGVufDF8MHx8fDE3OTQ3MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "a78bee8a381c450b": {
    "icerik": {
@@ -102922,6 +103632,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:29210d0123aa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf mezarlık ortamını ve defin ile ilgili unsurları gösterdiği için vefat haberiyle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       550,
+       483,
+       703
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:10:40+03:00"
+    },
     "r1:b0953f3914ad:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -102962,7 +103703,7 @@
     "dh": "ac18180931611af2",
     "sha": "7ca6c65f41dc7fb36fc7fe1b"
    },
-   "t": "2026-11-11T14:09:14+03:00",
+   "t": "2026-11-15T12:10:40+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -106589,9 +107330,48 @@
       "yasak": []
      },
      "t": "2026-11-08T12:07:56+03:00"
+    },
+    "r1:e76c06fa730a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşümden yapılmış heykeller sergi temasına uygun, temsilî görsel olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "sanat eserleri",
+        "var": true
+       },
+       {
+        "unsur": "sergi salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       230,
+       990,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:11:34+03:00"
     }
    },
-   "t": "2026-11-08T12:07:56+03:00",
+   "ozet": {
+    "dh": "cbeecf9d9f9393b9",
+    "sha": "fd01075345c0f5767e3db87a"
+   },
+   "t": "2026-11-15T12:11:34+03:00",
    "teknik": {
     "doygunluk": 29.3,
     "inen": [
@@ -121382,6 +122162,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2.27.10StroutBensonByLuigiNovi8.jpg/1280px-2.27.10StroutBensonByLuigiNovi8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e86e700531aa621c": {
+   "icerik": {
+    "ana_kutu": [
+     25,
+     30,
+     974,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kimlik kartı",
+     "çip",
+     "barkod"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeni tip Türkiye Cumhuriyeti kimlik kartı ön yüzü örneği.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kimlik yenileme",
+     "nüfus işlemleri",
+     "resmi belge duyuruları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza haberleri",
+     "spor"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a6c63cd608b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel, haberin ana öznesi olan kimlik kartını net bir şekilde temsil etmektedir.",
+      "gerekli": [
+       {
+        "unsur": "kimlik kartı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       25,
+       30,
+       974,
+       970
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:12:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "999b8da0b0c48229",
+    "sha": "71583ef85bc6d633b2605643"
+   },
+   "t": "2026-11-15T12:12:20+03:00",
+   "teknik": {
+    "doygunluk": 6.4,
+    "inen": [
+     500,
+     323
+    ],
+    "karanlik_oran": 0.018,
+    "keskinlik": 2172,
+    "kontrast": 49,
+    "medyan": 229,
+    "parlaklik": 213,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Republic_of_Turkey_Identity_Card_%28post-2016%2C_back%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "e8704688c26685aa": {
    "ozet": {
     "dh": "8b9f8f9f37069654",
@@ -133919,6 +134791,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fc755c87a3200bb2": {
+   "icerik": {
+    "ana_kutu": [
+     148,
+     0,
+     831,
+     974
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "vagon",
+     "ray",
+     "ot"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda ray üzerinde duran paslanmış eski vagon yandan görünüm",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "demiryolu tarihi",
+     "müze sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kimlik yenileme",
+     "nüfus işlemleri",
+     "sürücü belgesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a6c63cd608b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski vagon görseli kimlik ve sürücü belgesi yenileme haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "kimlik kartı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-15T12:12:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b0056766cc8130c",
+    "sha": "005f6816ddd2e42799d6bd77"
+   },
+   "t": "2026-11-15T12:12:31+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.243,
+    "keskinlik": 3560,
+    "kontrast": 76,
+    "medyan": 159,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Sites_of_the_Battle_of_Broken_Hill._NSW_-_2009.jpg/1280px-Sites_of_the_Battle_of_Broken_Hill._NSW_-_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fc96fd3044e74621": {
    "icerik": {
     "ana_kutu": [
@@ -136322,6 +137280,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-09T15:37:37+03:00",
    "url": "https://images.unsplash.com/photo-1652161413302-9b48a8c0f24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dHJhaWwlMjBydW5uaW5nJTIwcmFjZXxlbnwxfDB8fHwxNzk0MjI3ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "1e24bf5b5c652e1d": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6590,
+    4393
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Müze galerisinde sergilenen büyük bir tabloyu inceleyen ziyaretçiler.",
+   "gosterim_ad": "geri dönüşüm sergisi",
+   "ilk_kabul": "2026-11-15T12:11:34+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "adam roye / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "adam roye",
+    "sayfa": "https://unsplash.com/photos/people-viewing-art-in-a-museum-gallery-fB8hHkIpps8"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bank",
+    "müze salonu",
+    "sanat eserleri",
+    "sergi salonu",
+    "tablo",
+    "ziyaretçi"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1758592376385-d5296e694beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXJ0JTIwZXhoaWJpdGlvbiUyMGdhbGxlcnl8ZW58MXwwfHx8MTc5NDczMzg4MXww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "sanat sergisi",
+    "müze haberi",
+    "kültür sanat"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T12:11:34+03:00",
+   "url": "https://images.unsplash.com/photo-1758592376385-d5296e694beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXJ0JTIwZXhoaWJpdGlvbiUyMGdhbGxlcnl8ZW58MXwwfHx8MTc5NDczMzg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -142931,6 +143952,67 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "a74d6b908a8feec1": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4032,
+    3024
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ağaç dalları ve yeşil yapraklar",
+   "gosterim_ad": "asırlık çınarın yok olması",
+   "ilk_kabul": "2026-11-15T12:11:05+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Christabel Seneque / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Christabel Seneque",
+    "sayfa": "https://unsplash.com/photos/a-group-of-trees-that-are-next-to-each-other-Qwzv5VdGoRg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç dalları",
+    "gökyüzü",
+    "yaprak",
+    "çınar ağacı"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1697863130232-9170138ffe6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGxhbmUlMjB0cmVlfGVufDF8MHx8fDE3OTQ3MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "doğa haberi",
+    "çevre haberi",
+    "orman haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-15T12:11:05+03:00",
+   "url": "https://images.unsplash.com/photo-1697863130232-9170138ffe6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGxhbmUlMjB0cmVlfGVufDF8MHx8fDE3OTQ3MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "a893427f5dd019e8": {
    "alt_tur": "kurum",
    "boyut": [
@@ -144219,7 +145301,7 @@
    "gosterim_ad": "mezarlık bakım ve onarım çalışmaları",
    "ilk_kabul": "2026-11-11T14:09:14+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Rusty Watson / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -144258,7 +145340,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-11T14:09:14+03:00",
+   "son_kabul": "2026-11-15T12:10:40+03:00",
    "url": "https://images.unsplash.com/photo-1666718096853-50949e06b8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z3JhdmV5YXJkJTIwcmVub3ZhdGlvbnxlbnwxfDB8fHwxNzk0Mzk1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
