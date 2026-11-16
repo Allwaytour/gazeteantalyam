@@ -75,10 +75,10 @@ gorsel_yerlesim:
 baslik_ozgun: Carmına Burana Antalya'da Kapalı Gişe Sahnelendi
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1562329265-95a6d7a83440?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1514306191717-452ec28c7814?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
+- https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 yazim_denetim: y1
 ---
 Antalya Devlet Opera ve Balesi, Antalya Kültür Yolu Festivali'nin kapanış etkinlikleri çerçevesinde sahneye taşıdığı Carmina Burana ile unutulmaz bir geceye imza attı. Haşim İşcan Kültür Merkezi Opera Sahnesi'nde gerçekleşen temsil, sanatseverlerin yoğun ilgisiyle karşılaştı ve kapalı gişe olarak sahnelendi.

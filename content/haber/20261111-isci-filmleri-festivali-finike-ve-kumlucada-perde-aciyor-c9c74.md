@@ -76,7 +76,7 @@ gorsel_alternatif:
 - https://upload.wikimedia.org/wikipedia/commons/e/ed/Empty_concert_hall_in_Katowice_%28Unsplash%29.jpg
 - https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080
 - https://upload.wikimedia.org/wikipedia/commons/8/85/Beach-Please-2022-crowd-stage-lights-night-performance.jpg
-- https://images.unsplash.com/photo-1562329265-95a6d7a83440?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1514306191717-452ec28c7814?fm=jpg&q=80&w=1600&fit=max
 yazim_duzeltme: eseriyla→eseriyle
 yazim_denetim: y1
 ---
