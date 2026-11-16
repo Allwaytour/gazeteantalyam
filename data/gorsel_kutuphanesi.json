@@ -21236,6 +21236,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg/1280px-President_Masato_Kanda_Highlights_Climate_Resilience_Investments_in_Tuvalu_at_Start_of_Pre-COP31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "22b9f22afe41a56c": {
+   "icerik": {
+    "ana_kutu": [
+     265,
+     195,
+     785,
+     770
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "boyun kartı",
+     "klips",
+     "toka"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz zemin üzerine serilmiş siyah sarı renkli boyun kartı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kurumsal",
+     "etkinlik",
+     "tanıtım"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:409f367283fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Boyun kartı gösteriyor ancak üzerinde rozet bulunmuyor ve farklı bir şirketin logosunu taşıyor.",
+      "gerekli": [
+       {
+        "unsur": "boyun kartı",
+        "var": true
+       },
+       {
+        "unsur": "yaka rozeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       265,
+       195,
+       785,
+       770
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T16:52:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b07313961751907",
+    "sha": "149d4f0cf14fe0bb1090806d"
+   },
+   "t": "2026-11-16T16:52:44+03:00",
+   "teknik": {
+    "doygunluk": 8.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 579,
+    "kontrast": 48,
+    "medyan": 238,
+    "parlaklik": 224,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1769142726489-6f40b1c575c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZXZlbnQlMjBsYW55YXJkJTIwYmFkZ2V8ZW58MXwwfHx8MTc5NDgzNzE1MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "22c167a4ace4effb": {
    "icerik": {
     "ana_kutu": [
@@ -28939,6 +29035,45 @@
      },
      "t": "2026-11-13T03:58:33+03:00"
     },
+    "r1:59035d24f1df:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, ilgili konferans etkinliğini, salonu ve konuşmacıları net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": true
+       },
+       {
+        "unsur": "podyum",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       447,
+       318,
+       693,
+       878
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T16:52:17+03:00"
+    },
     "r1:a6a0f4af4a3f:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -29021,7 +29156,7 @@
     "dh": "530ecbcb0f4f1169",
     "sha": "df18e9b99edb1e0688eb8df1"
    },
-   "t": "2026-11-16T15:44:07+03:00",
+   "t": "2026-11-16T16:52:17+03:00",
    "teknik": {
     "doygunluk": 32.0,
     "inen": [
@@ -46124,6 +46259,41 @@
     ]
    },
    "iliski": {
+    "r1:527603c0a276:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi İbrahim Yumaklı'nın resmi portresidir, plan duyurusu için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "orman",
+        "var": false
+       },
+       {
+        "unsur": "yangın söndürme helikopteri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T16:52:57+03:00"
+    },
     "r1:61e59f5c89b9:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -46155,7 +46325,7 @@
     "dh": "b1099d1d4cdc5d5d",
     "sha": "9c1bde2d7dcd26e0bbe5d4d1"
    },
-   "t": "2026-11-12T01:29:16+03:00",
+   "t": "2026-11-16T16:52:57+03:00",
    "teknik": {
     "doygunluk": 36.9,
     "inen": [
@@ -70742,6 +70912,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SunExpress_%28Dublin%29_in_2025.02.jpg/1280px-SunExpress_%28Dublin%29_in_2025.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7d5e64d6ff2caf17": {
+   "icerik": {
+    "ana_kutu": [
+     355,
+     140,
+     1000,
+     775
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "boyun kartı",
+     "masa",
+     "tabela",
+     "laptop",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kayıt masası üzerinde yığınla boyun kartı ve ücret tabelası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans kayıt",
+     "etkinlik",
+     "seminer"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:409f367283fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotoğrafta Deloitte logolu boyun kartları var ve rozetler net seçilmiyor, ayrıca kayıt masası ortamı farklı.",
+      "gerekli": [
+       {
+        "unsur": "boyun kartı",
+        "var": true
+       },
+       {
+        "unsur": "yaka rozeti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T16:52:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e9e5e76979486137",
+    "sha": "71879ea035ef2d8f05e3ad19"
+   },
+   "t": "2026-11-16T16:52:44+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.115,
+    "keskinlik": 3611,
+    "kontrast": 73,
+    "medyan": 186,
+    "parlaklik": 156,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Deloitte_Lanyards_%287297257896%29.jpg/1280px-Deloitte_Lanyards_%287297257896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7d7a8b32d0e08d37": {
    "icerik": {
@@ -102871,6 +103134,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mu%C4%9Fla_revenue_administration_building_5674.jpg/1280px-Mu%C4%9Fla_revenue_administration_building_5674.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b42b19cd9cc9e278": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "boyun kartı",
+     "rozet",
+     "kurdele",
+     "metal klips"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde rozetler ve yazılar bulunan boyun kartı kurdeleleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konferans",
+     "etkinlik",
+     "tasarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:409f367283fa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Rozetli boyun kartları haberi temsil ediyor ancak Wikipedia temalı olması Antalya COP31 ile uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "boyun kartı",
+        "var": true
+       },
+       {
+        "unsur": "yaka rozeti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T16:52:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ce59362d7f9c2d47",
+    "sha": "a71db8c94d8002fd8e3cdcd9"
+   },
+   "t": "2026-11-16T16:52:44+03:00",
+   "teknik": {
+    "doygunluk": 19.7,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.382,
+    "keskinlik": 1257,
+    "kontrast": 58,
+    "medyan": 72,
+    "parlaklik": 86,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/WP20_Wikipedia_Lanyards_02.jpg/1280px-WP20_Wikipedia_Lanyards_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b454b4e0ddb7eb08": {
    "icerik": {
@@ -147902,7 +148262,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-13T03:58:33+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -147930,7 +148290,9 @@
     "ekran",
     "kamera",
     "konferans salonu",
+    "konuşmacılar",
     "mikrofon",
+    "podyum",
     "sandalye",
     "sunum tahtasi"
    ],
@@ -147950,7 +148312,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-14T14:10:39+03:00",
+   "son_kabul": "2026-11-16T16:52:17+03:00",
    "url": "/images/kurum/b3b315e8d48f5b8c.jpg",
    "uygun_yerlesimler": [
     "kart",
@@ -149565,7 +149927,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-12T01:29:16+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "T.C. Tarım ve Orman Bakanlığı / Ministry of Agriculture and Forestry (Türkiye) / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -149607,7 +149969,7 @@
    "qid": "Q119040453",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-12T01:29:16+03:00",
+   "son_kabul": "2026-11-16T16:52:57+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg/1280px-%C4%B0brahim_Yumakl%C4%B1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
