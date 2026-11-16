@@ -1544,6 +1544,36 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:5bcd6c8f682f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanının genel görünümünü gösteriyor fakat spesifik otel yatırımı haberini desteklemiyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:42:47+03:00"
+    },
     "r1:9b4dc3709137:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -1630,7 +1660,7 @@
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-13T16:59:21+03:00",
+   "t": "2026-11-16T11:42:47+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -1645,6 +1675,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg/1280px-Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "01b52841f463f805": {
+   "icerik": {
+    "ana_kutu": [
+     306,
+     212,
+     725,
+     888
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "otel binaları",
+     "plaj",
+     "deniz",
+     "şezlong"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kıyısında oteller ve plaj alanı",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "otel yatırımı",
+     "tatil yöresi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor maçı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5bcd6c8f682f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusunu destekleyen otel binaları ve tatil tesisi görünümü yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       306,
+       212,
+       725,
+       888
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:42:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0115495854556258",
+    "sha": "e4eea31c717da85742f34179"
+   },
+   "t": "2026-11-16T11:42:55+03:00",
+   "teknik": {
+    "doygunluk": 18.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.039,
+    "keskinlik": 2760,
+    "kontrast": 47,
+    "medyan": 171,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alanya_-_panoramio_%281%29.jpg/1280px-Alanya_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0220242430c5df84": {
    "icerik": {
@@ -1738,6 +1865,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Under-sink_hot_water_boiler_and_tap_unit.jpg/1280px-Under-sink_hot_water_boiler_and_tap_unit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0261b8b42d2402d1": {
+   "icerik": {
+    "ana_kutu": [
+     181,
+     33,
+     786,
+     888
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel binası",
+     "otomobil",
+     "ağaç",
+     "otopark"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük beyaz otel binası ve önünde park etmiş eski otomobiller.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "turizm haberleri",
+     "otel mimarisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel otel yatırımları",
+     "Alanya ve Bodrum haberleri"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5bcd6c8f682f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski ve yabancı bir otel binasını gösterdiği için güncel yatırım haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       181,
+       33,
+       786,
+       888
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "tabela",
+       "kişi yüzü"
+      ]
+     },
+     "t": "2026-11-16T11:42:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0f3d5b0c1d938e",
+    "sha": "148f8a63592a6ca8c0b2942e"
+   },
+   "t": "2026-11-16T11:42:47+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     1280,
+     919
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 1861,
+    "kontrast": 79,
+    "medyan": 181,
+    "parlaklik": 144,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/WEST_ELEVATION_-_West_Baden_Springs_Hotel%2C_State_Route_56%2C_West_Baden_Springs%2C_Orange_County%2C_IN_HAER_IND%2C59-BADW%2C1-5.tif/lossy-page1-1280px-WEST_ELEVATION_-_West_Baden_Springs_Hotel%2C_State_Route_56%2C_West_Baden_Springs%2C_Orange_County%2C_IN_HAER_IND%2C59-BADW%2C1-5.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "027503132a3c9d5e": {
    "icerik": {
@@ -15285,6 +15510,101 @@
    },
    "url": "https://images.unsplash.com/photo-1750579674247-394afc1b660e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2FmZnJvbiUyMGZsb3dlcnMlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTQ4MTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "1a535a60ab415fb9": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "füze fırlatma sistemi",
+     "fuar standı",
+     "ekran",
+     "zemin",
+     "arka plan panosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fuar standında sergilenen bej renkli anti-tank füze fırlatma sistemi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "savunma sanayi",
+     "askeri fuar",
+     "şirket tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim krizi",
+     "sanat sergisi",
+     "çevre"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a445785b6944:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurumun ürünü gösterilse de askeri füze sistemi, iklim ve sanat odaklı COP31 haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       84,
+       88,
+       712,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "silah"
+      ]
+     },
+     "t": "2026-11-16T11:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "26ad3f93d361490f",
+    "sha": "08ca5ec6bd5eaac12b7f5ccc"
+   },
+   "t": "2026-11-16T11:43:46+03:00",
+   "teknik": {
+    "doygunluk": 24.9,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 1501,
+    "kontrast": 63,
+    "medyan": 127,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/ASELSAN_SERDAR%2C_Kyiv%2C_2019.jpg/1280px-ASELSAN_SERDAR%2C_Kyiv%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1a601c91f616221f": {
    "icerik": {
     "ana_kutu": [
@@ -15468,6 +15788,36 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:5bcd6c8f682f:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen Alanya'dan bir liman manzarası sunuyor ancak otel yatırımıyla doğrudan ilişkisi yok.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:42:47+03:00"
+    },
     "r1:9b4dc3709137:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -15601,7 +15951,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-13T16:59:21+03:00",
+   "t": "2026-11-16T11:42:47+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -28387,6 +28737,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flickr_-_USCapitol_-_Justice_and_History_Sculpture.jpg/1280px-Flickr_-_USCapitol_-_Justice_and_History_Sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2f6ae7cbafbc1f76": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "savunma sistemi maketi",
+     "vitrin camı",
+     "fuar standı",
+     "zemin",
+     "arka plan panosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fuar alanında sergilenen beyaz renkli askeri savunma sistemi maketi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "savunma sanayi",
+     "teknoloji fuarı",
+     "şirket tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim krizi",
+     "sanat sergisi",
+     "çevre ve atık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a445785b6944:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASELSAN kurumuna ait olsa da askeri sistem görseli, çevre ve sanat konulu COP31 haberiyle tamamen çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       222,
+       955,
+       735
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "silah"
+      ]
+     },
+     "t": "2026-11-16T11:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "597a6a6829eaaa82",
+    "sha": "60e8a2057c1802c8e901ff2b"
+   },
+   "t": "2026-11-16T11:43:46+03:00",
+   "teknik": {
+    "doygunluk": 12.3,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.097,
+    "keskinlik": 1871,
+    "kontrast": 47,
+    "medyan": 136,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2022-04-27_Gokdeniz_001.jpg/1280px-2022-04-27_Gokdeniz_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2f6b8060fb985326": {
    "ozet": {
@@ -46984,41 +47429,6 @@
      },
      "t": "2026-11-13T15:29:59+03:00"
     },
-    "r1:26fd90c9815b:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Atık malzemelerden üretilen eserlerin yer aldığı uygun bir sanat sergisi salonu.",
-      "gerekli": [
-       {
-        "unsur": "atık malzemelerden yapılmış heykeller",
-        "var": true
-       },
-       {
-        "unsur": "sanat sergisi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       217,
-       335,
-       622,
-       574
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:07:56+03:00"
-    },
     "r1:3507c7656bb8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47184,6 +47594,41 @@
      },
      "t": "2026-11-10T22:13:56+03:00"
     },
+    "r1:a445785b6944:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüştürülmüş malzemelerden yapılan sanat eserleri sergi konusunu tam olarak yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": true
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       232,
+       2,
+       638,
+       742
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:43:54+03:00"
+    },
     "r1:db9510966643:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -47282,7 +47727,7 @@
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-14T13:09:36+03:00",
+   "t": "2026-11-16T11:43:54+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -50241,6 +50686,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:a445785b6944:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüştürülmüş malzemeden yapılmış bir sanat eserini gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": true
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       232,
+       142,
+       555,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:43:54+03:00"
+    },
     "r1:e76c06fa730a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -50281,7 +50761,7 @@
     "dh": "2b6bd8d0f12b250e",
     "sha": "31864f330c54021d44112efb"
    },
-   "t": "2026-11-15T12:11:26+03:00",
+   "t": "2026-11-16T11:43:54+03:00",
    "teknik": {
     "doygunluk": 19.5,
     "inen": [
@@ -53124,6 +53604,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg/1280px-Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5e87d5bf21b3bb40": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dürbün benzeri optik cihazlar",
+     "termal kamera",
+     "lazer mesafe bulucu",
+     "şeffaf raflar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Stant raflarında sergilenen çeşitli optik ve termal askeri cihazlar.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "savunma sanayi",
+     "askeri optik",
+     "fuar sergisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim krizi",
+     "sanat eseri",
+     "çevre koruma"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a445785b6944:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Askeri cihaz sergisi, atık malzemelerden yapılan sanat koleksiyonunun tanıtıldığı COP31 haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       209,
+       29,
+       878,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "silah"
+      ]
+     },
+     "t": "2026-11-16T11:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "03c3cec6cc8c6c46",
+    "sha": "b818eb9a5cc435142c9c5863"
+   },
+   "t": "2026-11-16T11:43:46+03:00",
+   "teknik": {
+    "doygunluk": 12.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.156,
+    "keskinlik": 1103,
+    "kontrast": 67,
+    "medyan": 187,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Aselsan_thermal_devices%2C_Kyiv_2018%2C_13.jpg/1280px-Aselsan_thermal_devices%2C_Kyiv_2018%2C_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5ec1b166a1fb3c4e": {
    "icerik": {
@@ -75536,6 +76110,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:a445785b6944:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık malzemelerden üretilmiş heykel sergi koleksiyonunu temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": true
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       232,
+       110,
+       810,
+       898
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:43:54+03:00"
+    },
     "r1:e76c06fa730a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -75576,7 +76185,7 @@
     "dh": "6f7bf18ce4f0d35f",
     "sha": "33c4f10d20209b6ec48fc56d"
    },
-   "t": "2026-11-15T12:11:34+03:00",
+   "t": "2026-11-16T11:43:54+03:00",
    "teknik": {
     "doygunluk": 38.6,
     "inen": [
@@ -100303,6 +100912,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/School_lunch_in_yl%C3%A4st%C3%B6_school.jpg/1280px-School_lunch_in_yl%C3%A4st%C3%B6_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b577549da1faba13": {
+   "icerik": {
+    "ana_kutu": [
+     395,
+     521,
+     742,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "dağ",
+     "otel binaları",
+     "sahil",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Arka planda dağ ve ön planda oteller ile sahil",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "otel yatırımı",
+     "tatil kenti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5bcd6c8f682f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bölgedeki otel binaları ve tatil tesisini temsil eden genel bir manzara sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       395,
+       521,
+       742,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:42:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0603001b4bc5e54b",
+    "sha": "fc13d91d49cbb6377742ad32"
+   },
+   "t": "2026-11-16T11:42:55+03:00",
+   "teknik": {
+    "doygunluk": 16.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.024,
+    "keskinlik": 2199,
+    "kontrast": 41,
+    "medyan": 180,
+    "parlaklik": 166,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Alanya_-_panoramio_%282%29.jpg/1280px-Alanya_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b586430ea4414d54": {
    "t": "2026-11-08T11:37:59+03:00",
    "teknik": {
@@ -101572,6 +102278,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cemil_Tugay_during_the_Meslek_Fabrikas%C4%B1_protest.jpg/1280px-Cemil_Tugay_during_the_Meslek_Fabrikas%C4%B1_protest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b83bf35a3c66c10b": {
+   "icerik": {
+    "ana_kutu": [
+     206,
+     663,
+     794,
+     963
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "otel binası",
+     "ağaç",
+     "yol",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi sokakta büyük otel binası ve ağaçlar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "turizm yatırımı",
+     "tarihi otel haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel otel açılışları",
+     "Bodrum turizm haberleri"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5bcd6c8f682f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi ve yabancı bir tesise ait, güncel yatırım haberiyle çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       206,
+       663,
+       794,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "tabela",
+       "kişi yüzü"
+      ]
+     },
+     "t": "2026-11-16T11:42:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3939303010941078",
+    "sha": "471f05d38f49f7466ba8a9e1"
+   },
+   "t": "2026-11-16T11:42:47+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     291
+    ],
+    "karanlik_oran": 0.339,
+    "keskinlik": 2486,
+    "kontrast": 89,
+    "medyan": 112,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Palmyra_Hotel%2C_Orange_%2800023198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "b85aec9b6f29a9ed": {
    "icerik": {
@@ -103449,6 +104253,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/1280px-Kursunlu_Waterfall_Autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bbbbf9e55823d121": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gece görüş cihazı",
+     "başlık kayışı",
+     "masa",
+     "arka plan ekranı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil renkli bir yüzey üzerinde sergilenen gece görüş cihazı ve başlık aparatı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "askeri teknoloji",
+     "savunma sanayi",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim konferansı",
+     "sanat koleksiyonu",
+     "çevre haberleri"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a445785b6944:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Askeri gece görüş cihazı görseli, iklim zirvesinde sergilenen sanat koleksiyonu haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       179,
+       74,
+       769,
+       959
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "silah"
+      ]
+     },
+     "t": "2026-11-16T11:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c74068ccc093b331",
+    "sha": "14f49a4e99ad17396f503c6a"
+   },
+   "t": "2026-11-16T11:43:46+03:00",
+   "teknik": {
+    "doygunluk": 26.4,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.296,
+    "keskinlik": 1203,
+    "kontrast": 74,
+    "medyan": 102,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Aselsan_A-100_NVD_%40_PA_122nd_Anniversary_Caravan.jpg/1280px-Aselsan_A-100_NVD_%40_PA_122nd_Anniversary_Caravan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bc73b46ca890ecc5": {
    "icerik": {
     "ana_kutu": [
@@ -103886,6 +104784,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5bcd6c8f682f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel binaları ve tatil tesisinin dış görünümü haber için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       },
+       {
+        "unsur": "tatil tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       39,
+       362,
+       597,
+       814
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:42:55+03:00"
+    },
     "r1:79e1fd898a17:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -103922,7 +104855,7 @@
     "dh": "a5c55d4d4d47969a",
     "sha": "89adcacfafc9140af4fb5866"
    },
-   "t": "2026-11-11T13:39:02+03:00",
+   "t": "2026-11-16T11:42:55+03:00",
    "teknik": {
     "doygunluk": 29.8,
     "inen": [
@@ -109702,6 +110635,41 @@
      },
      "t": "2026-11-08T12:07:56+03:00"
     },
+    "r1:a445785b6944:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Endüstriyel atıklardan yapılan robot heykelleri koleksiyon temasını başarıyla örneklendiriyor.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": true
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       99,
+       58,
+       995,
+       946
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:43:54+03:00"
+    },
     "r1:e76c06fa730a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -109742,7 +110710,7 @@
     "dh": "cbeecf9d9f9393b9",
     "sha": "fd01075345c0f5767e3db87a"
    },
-   "t": "2026-11-15T12:11:34+03:00",
+   "t": "2026-11-16T11:43:54+03:00",
    "teknik": {
     "doygunluk": 29.3,
     "inen": [
@@ -116143,6 +117111,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1790059634452-bac7ed44f245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2NpZW5jZSUyMGV4aGliaXRpb24lMjBkaXNwbGF5fGVufDF8MHx8fDE3OTQ0NzIwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "d905b03476b028ad": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "termal kamera",
+     "şeffaf stant",
+     "arkadan aydınlatmalı pano",
+     "etiket yazısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şeffaf stant üzerinde sergilenen beyaz muhafazalı termal kamera cihazı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "savunma sanayi",
+     "teknoloji ürünü",
+     "şirket standı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iklim değişikliği",
+     "sanat sergisi",
+     "çevre"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a445785b6944:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Termal kamera ürünü, atıkların sanat eserine dönüştürüldüğü iklim konferansı haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       },
+       {
+        "unsur": "geri dönüştürülmüş malzemeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       192,
+       209,
+       735,
+       796
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "silah"
+      ]
+     },
+     "t": "2026-11-16T11:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3b079bb9b9d37279",
+    "sha": "5ad813986a6f04184432254f"
+   },
+   "t": "2026-11-16T11:43:46+03:00",
+   "teknik": {
+    "doygunluk": 7.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.103,
+    "keskinlik": 815,
+    "kontrast": 59,
+    "medyan": 194,
+    "parlaklik": 176,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Aselsan_thermal_device%2C_Kyiv_2018%2C_14.jpg/1280px-Aselsan_thermal_device%2C_Kyiv_2018%2C_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d907cb47dee95e58": {
    "ozet": {
@@ -139693,6 +140755,69 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "01b52841f463f805": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1600,
+    1199
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Deniz kıyısında oteller ve plaj alanı",
+   "gosterim_ad": "Alanya",
+   "ilk_kabul": "2026-11-16T11:42:55+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Fr0nt / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Fr0nt",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_-_panoramio_(1).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "deniz",
+    "otel binaları",
+    "otel binası",
+    "plaj",
+    "tatil tesisi",
+    "şezlong"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alanya_-_panoramio_%281%29.jpg/500px-Alanya_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "turizm haberi",
+    "otel yatırımı",
+    "tatil yöresi haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "spor maçı"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-16T11:42:55+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alanya_-_panoramio_%281%29.jpg/1280px-Alanya_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "04a76ea6c76b1bdd": {
    "alt_tur": "nesne",
    "boyut": [
@@ -143886,7 +145011,7 @@
    "gosterim_ad": "sanat sergisi",
    "ilk_kabul": "2026-11-08T12:07:56+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Gmupcycle / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -143907,8 +145032,10 @@
     "ahşap yol",
     "atık malzemelerden yapılmış heykel veya",
     "atık malzemelerden yapılmış heykeller",
+    "geri dönüştürülmüş malzemeler",
     "heykel",
     "renkli taşlar",
+    "sanat eseri",
     "sanat eserleri",
     "sanat sergisi",
     "sergi salonu",
@@ -143929,7 +145056,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-12T11:57:38+03:00",
+   "son_kabul": "2026-11-16T11:43:54+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
