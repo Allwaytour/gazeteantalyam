@@ -46358,6 +46358,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:13a24dd95a3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geri dönüşüm kutuları gösterilmektedir ancak batarya geri dönüşüm tesisi veya atık batarya bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "batarya geri dönüşüm tesisi",
+        "var": false
+       },
+       {
+        "unsur": "atık batarya",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       121,
+       172,
+       959,
+       804
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:42:55+03:00"
+    },
     "r1:24c577389570:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -46425,7 +46460,7 @@
     "dh": "c3cf4b4242c920b4",
     "sha": "bca257ca37bf65f2bf19f337"
    },
-   "t": "2026-11-13T15:30:35+03:00",
+   "t": "2026-11-16T13:42:55+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -47921,23 +47956,23 @@
      },
      "t": "2026-11-13T15:29:59+03:00"
     },
-    "r1:3507c7656bb8:konu": {
+    "r1:13a24dd95a3a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Geyikbayırı'ndaki sergi haberi için modern sanat sergi salonunu ve eserleri gösteren uygun bir temsilî fotoğraf.",
+      "gerekce": "Sanat galerisindeki geri dönüştürülmüş malzemelerden eserler yer alıyor, ancak batarya geri dönüşüm tesisi veya atık batarya görünmüyor.",
       "gerekli": [
        {
-        "unsur": "sergi salonu",
-        "var": true
+        "unsur": "batarya geri dönüşüm tesisi",
+        "var": false
        },
        {
-        "unsur": "sanat eserleri",
-        "var": true
+        "unsur": "atık batarya",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
+      "ilgisiz_yer_nesne": true,
       "konu_ana_unsur": true,
       "konu_kutusu": [
        0,
@@ -47946,7 +47981,7 @@
        1000
       ],
       "olay_gorunuyor": false,
-      "uygunluk": 9,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -47954,7 +47989,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T15:35:24+03:00"
+     "t": "2026-11-16T13:42:55+03:00"
     },
     "r1:40cf4cb0f71d:konu": {
      "d": {
@@ -48007,6 +48042,37 @@
       "yasak": []
      },
      "t": "2026-11-14T13:09:36+03:00"
+    },
+    "r1:50d084df6f1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern sanat galerisinde atık malzemelerden yapılmış sergi eserlerini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       310,
+       610,
+       570
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:43:21+03:00"
     },
     "r1:5e1bc2283a6b:konu": {
      "d": {
@@ -48156,43 +48222,6 @@
      },
      "t": "2026-11-12T11:57:38+03:00"
     },
-    "r1:e645a5c58230:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Modern sanat sergisi ve galeri ortamını başarıyla yansıtan temsilî bir karedir.",
-      "gerekli": [
-       {
-        "unsur": "fotoğraf sergisi",
-        "var": true
-       },
-       {
-        "unsur": "sanat galerisi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasi miting"
-      ]
-     },
-     "t": "2026-11-08T14:37:57+03:00"
-    },
     "r1:fd30b4067cb0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -48219,7 +48248,7 @@
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-16T11:43:54+03:00",
+   "t": "2026-11-16T13:43:21+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -54215,6 +54244,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:50d084df6f1e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görseldeki askeri optik ve termal cihazlar haberin konusu olan atık sanat sergisiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       178,
+       26,
+       908,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "savunma silahları"
+      ]
+     },
+     "t": "2026-11-16T13:43:15+03:00"
+    },
     "r1:a445785b6944:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -54257,7 +54319,7 @@
     "dh": "03c3cec6cc8c6c46",
     "sha": "b818eb9a5cc435142c9c5863"
    },
-   "t": "2026-11-16T11:43:46+03:00",
+   "t": "2026-11-16T13:43:15+03:00",
    "teknik": {
     "doygunluk": 12.2,
     "inen": [
@@ -61296,6 +61358,120 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/120260905_160716_Autokorso_Magdeburg.jpg/1280px-120260905_160716_Autokorso_Magdeburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6ce5b000747967da": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     0,
+     965,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "pankart",
+     "bayrak",
+     "tabela",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kolektif iklim krizi eyleminde pankart taşıyan kalabalık grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iklim eylemi haberi",
+     "çevre protestosu",
+     "işçi sınıfı eylemleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapalı mekan konferans haberi",
+     "Antalya haberleri"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      280,
+      241,
+      425,
+      332
+     ],
+     [
+      285,
+      608,
+      477,
+      720
+     ],
+     [
+      330,
+      843,
+      452,
+      940
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d95b7366d77b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Antalya'daki bir salon etkinliğini anlatırken fotoğraf sokak protestosunu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       },
+       {
+        "unsur": "katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:42:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "032ba3340c0f7d0d",
+    "sha": "b21e0cf6d4a2c9859b6c6489"
+   },
+   "t": "2026-11-16T13:42:42+03:00",
+   "teknik": {
+    "doygunluk": 25.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 2260,
+    "kontrast": 66,
+    "medyan": 114,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Climate_Crisis_national_day_of_action_-_Climate_crisis_rally_Melbourne_-_IMG_7643_%2849569047647%29.jpg/1280px-Climate_Crisis_national_day_of_action_-_Climate_crisis_rally_Melbourne_-_IMG_7643_%2849569047647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6d129f130eeabf3a": {
    "t": "2026-11-08T11:10:59+03:00",
@@ -77797,6 +77973,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg/1280px-Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8a1ba30e393ac139": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     93,
+     796,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gece görüş cihazı",
+     "başlık",
+     "masa",
+     "belge"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde askeri gece görüş ekipmanları ve aselsan yazılı belge sergileniyor.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat",
+     "sergi"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50d084df6f1e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel askeri cihaz içermektedir, atık malzemelerden sanat eseri sergisiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       180,
+       93,
+       796,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "savunma silahları"
+      ]
+     },
+     "t": "2026-11-16T13:43:15+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "21336160b6923325",
+    "sha": "2082e1a7444d1b8e8d93fa2c"
+   },
+   "t": "2026-11-16T13:43:15+03:00",
+   "teknik": {
+    "doygunluk": 9.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.328,
+    "keskinlik": 993,
+    "kontrast": 93,
+    "medyan": 120,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Aselsan_A100_Night_Vision_Monocular.jpg/1280px-Aselsan_A100_Night_Vision_Monocular.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8a569f041f593e00": {
    "icerik": {
     "ana_kutu": [
@@ -86507,6 +86773,118 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikol_Pashinyan_2026-04-01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "997e04328db2641a": {
+   "ozet": {
+    "dh": "981c454c8cdcc7c6",
+    "sha": "b4753b52957306a852c0660f"
+   },
+   "t": "2026-11-16T13:42:52+03:00",
+   "teknik": {
+    "doygunluk": 39.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.474,
+    "keskinlik": 676,
+    "kontrast": 60,
+    "medyan": 54,
+    "parlaklik": 68,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bGl0aGl1bSUyMGJhdHRlcnklMjBwcm9jZXNzaW5nfGVufDF8MHx8fDE3OTQ4MjU3NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "99b51b8186edc055": {
+   "icerik": {
+    "ana_kutu": [
+     240,
+     149,
+     741,
+     915
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lazer mesafe ölçer",
+     "sehpa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sehpa üzerinde lazer mesafe ölçer cihazı ve altında İngilizce yazısı yer alıyor.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "askeri fuar",
+     "savunma teknolojisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sanat",
+     "kültür"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50d084df6f1e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan sanat sergisi yerine askeri cihaz sergilenmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       149,
+       741,
+       915
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "savunma silahları"
+      ]
+     },
+     "t": "2026-11-16T13:43:15+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "701c74f4c8f17179",
+    "sha": "1ad473fb88ccf9a3e02c20df"
+   },
+   "t": "2026-11-16T13:43:15+03:00",
+   "teknik": {
+    "doygunluk": 12.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 900,
+    "kontrast": 74,
+    "medyan": 205,
+    "parlaklik": 166,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg/1280px-Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "99d7b9213e9e32ee": {
    "icerik": {
@@ -98198,6 +98576,27 @@
    },
    "url": "https://images.unsplash.com/photo-1630248552375-45c3a55633fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2VtZXRlcnklMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0Mzk1MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "b033df128165a456": {
+   "ozet": {
+    "dh": "a5a5a500a5a5a502",
+    "sha": "16dc15f871bacbb67d5ae2cb"
+   },
+   "t": "2026-11-16T13:42:51+03:00",
+   "teknik": {
+    "doygunluk": 14.3,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.928,
+    "keskinlik": 273,
+    "kontrast": 22,
+    "medyan": 0,
+    "parlaklik": 8,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Lithium_cobaltate_vs_graphite_lithium-ion_battery_scheme.png/1280px-Lithium_cobaltate_vs_graphite_lithium-ion_battery_scheme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b0b9349b6aadf510": {
    "icerik": {
     "ana_kutu": [
@@ -99626,6 +100025,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/A_high_school_classroom_in_North_Carolina_04.jpg/1280px-A_high_school_classroom_in_North_Carolina_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b301cdfd302400c3": {
+   "icerik": {
+    "ana_kutu": [
+     40,
+     95,
+     960,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kaynak maskesi",
+     "baski balata",
+     "motor contası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yere dizilmiş araba parçaları ve kaynak maskesinden oluşturulmuş figür",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "geri dönüşüm",
+     "sanat",
+     "hurda"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50d084df6f1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık malzemelerden yapılan hurda metal heykel çalışmasını gösterir.",
+      "gerekli": [
+       {
+        "unsur": "hurda metal heykel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       40,
+       95,
+       960,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:43:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "262729230303290d",
+    "sha": "fe6a87ac2acb60d004de728a"
+   },
+   "t": "2026-11-16T13:43:21+03:00",
+   "teknik": {
+    "doygunluk": 9.7,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.294,
+    "keskinlik": 1150,
+    "kontrast": 39,
+    "medyan": 62,
+    "parlaklik": 72,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Scrap_metal_art_04.jpg/1280px-Scrap_metal_art_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b37fac9b17ed0beb": {
    "icerik": {
@@ -105407,6 +105898,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:50d084df6f1e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta atık sanat eseri yerine askeri gece görüş cihazı yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       178,
+       73,
+       767,
+       959
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "savunma silahları"
+      ]
+     },
+     "t": "2026-11-16T13:43:15+03:00"
+    },
     "r1:a445785b6944:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -105449,7 +105973,7 @@
     "dh": "c74068ccc093b331",
     "sha": "14f49a4e99ad17396f503c6a"
    },
-   "t": "2026-11-16T11:43:46+03:00",
+   "t": "2026-11-16T13:43:15+03:00",
    "teknik": {
     "doygunluk": 26.4,
     "inen": [
@@ -106481,6 +107005,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Saffronfarm-860808.jpg/1280px-Saffronfarm-860808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "be23607d7b615182": {
+   "icerik": {
+    "ana_kutu": [
+     374,
+     137,
+     532,
+     595
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fabrika binası",
+     "çit",
+     "çimenlik alan",
+     "gökyüzü",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş bir arazide modern endüstriyel tesis binası ve bulutlu gökyüzü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor karşılaşması",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:13a24dd95a3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis fotoğrafı uygun ancak yabancı kaynaklı bir tesis olduğu için yanıltıcı yer izlenimi verebilir.",
+      "gerekli": [
+       {
+        "unsur": "batarya geri dönüşüm tesisi",
+        "var": true
+       },
+       {
+        "unsur": "atık batarya",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       374,
+       137,
+       532,
+       595
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:42:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ecccfa744482e060",
+    "sha": "c99957f7c250cee9ab6e2047"
+   },
+   "t": "2026-11-16T13:42:55+03:00",
+   "teknik": {
+    "doygunluk": 34.6,
+    "inen": [
+     500,
+     302
+    ],
+    "karanlik_oran": 0.019,
+    "keskinlik": 1241,
+    "kontrast": 55,
+    "medyan": 118,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Akkuaufbereitungsanlage_Dongwha%2C_2026_S%C3%B3sk%C3%BAt.jpg/1280px-Akkuaufbereitungsanlage_Dongwha%2C_2026_S%C3%B3sk%C3%BAt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "be41a2d62a471d0f": {
    "icerik": {
@@ -113890,6 +114508,36 @@
      },
      "t": "2026-11-16T13:12:51+03:00"
     },
+    "r1:b18e7b775ac4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki İngilizce 'TRAFFIC' yazısı ve trafik polisi detayı, Manavgat'taki tesisatçı gizli kamera haberiyle uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "polis merkezi",
+        "var": false
+       },
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:42:27+03:00"
+    },
     "r1:dfd9b69a4e14:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -113957,7 +114605,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-16T13:12:51+03:00",
+   "t": "2026-11-16T13:42:27+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -118476,6 +119124,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:50d084df6f1e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta askeri termal kamera bulunmaktadır, hurda sanat eserleriyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sanat eseri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       164,
+       211,
+       755,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "savunma silahları"
+      ]
+     },
+     "t": "2026-11-16T13:43:15+03:00"
+    },
     "r1:a445785b6944:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -118518,7 +119199,7 @@
     "dh": "3b079bb9b9d37279",
     "sha": "5ad813986a6f04184432254f"
    },
-   "t": "2026-11-16T11:43:46+03:00",
+   "t": "2026-11-16T13:43:15+03:00",
    "teknik": {
     "doygunluk": 7.5,
     "inen": [
@@ -119388,6 +120069,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg/1280px-Dancing_Woman_Antalya_Museum_P9281518.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "da0ce50187c9ab60": {
+   "icerik": {
+    "ana_kutu": [
+     170,
+     220,
+     850,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "at heykeli",
+     "hurda parça",
+     "zincir",
+     "konteyner"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda hurda metallerden yapılmış at heykeli",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "geri dönüşüm",
+     "sanat",
+     "hurda"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50d084df6f1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık metallerden yapılan at heykeli sergilenen sanat eserlerine örnektir.",
+      "gerekli": [
+       {
+        "unsur": "hurda metal heykel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       220,
+       850,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:43:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "828c0c684d4dcd03",
+    "sha": "44a9ca8027dab212b2bef8c3"
+   },
+   "t": "2026-11-16T13:43:21+03:00",
+   "teknik": {
+    "doygunluk": 0.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.061,
+    "keskinlik": 1945,
+    "kontrast": 52,
+    "medyan": 114,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1762780088333-9e665dd9576e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2NyYXAlMjBtZXRhbCUyMGFydCUyMHNjdWxwdHVyZXxlbnwxfDB8fHwxNzk0ODI1Nzg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "da146d7f103a6532": {
    "icerik": {
@@ -126431,6 +127205,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1719159381962-4170890ada4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwdHVya2lzaCUyMHNjaG9vbCUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzk0MTUwMjM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e559335b9f9f253a": {
+   "ozet": {
+    "dh": "b1b1c9747c5f2300",
+    "sha": "e340e6285f4ca93c3e87dca2"
+   },
+   "t": "2026-11-16T13:42:51+03:00",
+   "teknik": {
+    "doygunluk": 70.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.43,
+    "keskinlik": 377,
+    "kontrast": 43,
+    "medyan": 53,
+    "parlaklik": 70,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Lithium-ion_coin_cell_batteries_in_laboratory_testing_fixture.jpg/1280px-Lithium-ion_coin_cell_batteries_in_laboratory_testing_fixture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e561ce3dc32e4a9e": {
    "ozet": {
@@ -139446,6 +140241,94 @@
    },
    "url": "https://images.unsplash.com/photo-1762247019055-f0170f1c7245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHNpdGV8ZW58MXwwfHx8MTc5NDUxNTI2NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "fa4ffb61616f691b": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     275,
+     890,
+     830
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hurda parça",
+     "baski balata",
+     "kablo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yere serilmiş hurda araba parçalarından yapılmış yüz figürü",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50d084df6f1e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atık malzemelerden yapılan hurda metal sanat eserini temsil eder.",
+      "gerekli": [
+       {
+        "unsur": "hurda metal heykel",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       275,
+       890,
+       830
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T13:43:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "236969330309090d",
+    "sha": "4b0492d9640725462f29c110"
+   },
+   "t": "2026-11-16T13:43:21+03:00",
+   "teknik": {
+    "doygunluk": 6.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.143,
+    "keskinlik": 1260,
+    "kontrast": 42,
+    "medyan": 83,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Scrap_metal_art_05.jpg/1280px-Scrap_metal_art_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fa68d72a38d18d98": {
    "ozet": {
     "dh": "899f9f9eccef8eac",
@@ -146481,7 +147364,7 @@
    "gosterim_ad": "sanat sergisi",
    "ilk_kabul": "2026-11-08T12:07:56+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "Gmupcycle / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -146526,7 +147409,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-16T11:43:54+03:00",
+   "son_kabul": "2026-11-16T13:43:21+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
