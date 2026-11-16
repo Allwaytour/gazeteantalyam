@@ -7675,13 +7675,39 @@
       "yasak": []
      },
      "t": "2026-11-13T03:02:52+03:00"
+    },
+    "r1:94df9acbb39d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir vefat haberi, kafeteryadaki çocuklar konuyla ilgisiz ve uygunsuz bir atmosfer yaratıyor.",
+      "gerekli": [
+       {
+        "unsur": "okul binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T17:22:12+03:00"
     }
    },
    "ozet": {
     "dh": "2759b76f4d5b5b5b",
     "sha": "242b5ddff3014d8772e4f75c"
    },
-   "t": "2026-11-13T03:02:52+03:00",
+   "t": "2026-11-16T17:22:12+03:00",
    "teknik": {
     "doygunluk": 47.5,
     "inen": [
@@ -55835,6 +55861,122 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Meeting_between_the_President_of_the_Republic_of_Turkey_and_President_of_Ukraine_in_2022_%2819%29.jpg/1280px-Meeting_between_the_President_of_the_Republic_of_Turkey_and_President_of_Ukraine_in_2022_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5eddb38f2585aad0": {
+   "icerik": {
+    "ana_kutu": [
+     108,
+     0,
+     946,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "takım elbise",
+     "bayrak",
+     "koltuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı mekanda el sıkışan siyasetçiler ve yanlarında duran heyet üyeleri",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "diplomasi",
+     "kabul"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel_toplanti",
+     "belediye_meclisi",
+     "chp_grup_toplantisi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      120,
+      0,
+      963,
+      163
+     ],
+     [
+      131,
+      153,
+      915,
+      292
+     ],
+     [
+      131,
+      274,
+      882,
+      408
+     ],
+     [
+      113,
+      396,
+      830,
+      508
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:e685113e65ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf başka bir ülkedeki resmi bir heyet kabulünü göstermektedir, Antalya'daki CHP grup toplantısıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "siyasetçiler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T17:23:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a5b1a40c648695b0",
+    "sha": "42718cb85c97db1f7bb2c134"
+   },
+   "t": "2026-11-16T17:23:06+03:00",
+   "teknik": {
+    "doygunluk": 26.5,
+    "inen": [
+     500,
+     282
+    ],
+    "karanlik_oran": 0.412,
+    "keskinlik": 2588,
+    "kontrast": 73,
+    "medyan": 68,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2025-11-03_Muhammad_Yunus%2C_photo_session_with_Turkish_parliamentary_delegation%2C_State_Guest_House_Jamuna%2C_Dhaka.jpg/1280px-2025-11-03_Muhammad_Yunus%2C_photo_session_with_Turkish_parliamentary_delegation%2C_State_Guest_House_Jamuna%2C_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5ef8c884e558ef4f": {
    "icerik": {
     "ana_kutu": [
@@ -56308,6 +56450,123 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg/1280px-SAKURAKO_-_Learning_to_ride_a_bicycle._%2814149594651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6080f40df3778b88": {
+   "icerik": {
+    "ana_kutu": [
+     157,
+     10,
+     891,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 40,
+    "nesneler": [
+     "koltuk",
+     "kapi",
+     "tabela",
+     "kirmizi hali"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina onunde oturan ve ayaktaki siyasetcilerden olusan kalabalik bir grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "uluslararasi siyaset",
+     "parlamento toplantisi",
+     "resmi ziyaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel secim",
+     "belediye meclisi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      407,
+      12,
+      888,
+      150
+     ],
+     [
+      409,
+      219,
+      908,
+      376
+     ],
+     [
+      403,
+      439,
+      922,
+      584
+     ],
+     [
+      407,
+      622,
+      888,
+      770
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:e685113e65ad:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograftaki yabanci siyasetciler ve uluslararasi meclis ortamı Antalya'daki CHP grup toplantisi haberiyle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "siyasetçiler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T17:23:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "09497134aaabaab0",
+    "sha": "76173178eddf11a6780317cc"
+   },
+   "t": "2026-11-16T17:23:06+03:00",
+   "teknik": {
+    "doygunluk": 36.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.346,
+    "keskinlik": 2899,
+    "kontrast": 63,
+    "medyan": 75,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Group_photo_of_the_1st_Session_of_the_OACPS-EU_Joint_Parliamentary_Assembly.jpg/1280px-Group_photo_of_the_1st_Session_of_the_OACPS-EU_Joint_Parliamentary_Assembly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "61a105468241fae1": {
    "icerik": {
@@ -101160,6 +101419,32 @@
      },
      "t": "2026-11-15T14:11:13+03:00"
     },
+    "r1:94df9acbb39d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir vefat haberi, yangın görüntüsü haberle tamamen alakasız ve yanlış bir algı oluşturur.",
+      "gerekli": [
+       {
+        "unsur": "okul binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T17:22:12+03:00"
+    },
     "r1:a771d5f2024e:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -101200,7 +101485,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-15T14:11:13+03:00",
+   "t": "2026-11-16T17:22:12+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -102511,6 +102796,37 @@
      },
      "t": "2026-11-14T12:17:53+03:00"
     },
+    "r1:94df9acbb39d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okul binasını temsil edebilecek nötr bir mimari görsel, vefat haberi için uygun bir arka plandır.",
+      "gerekli": [
+       {
+        "unsur": "okul binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T17:22:12+03:00"
+    },
     "r1:fffbaa589700:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -102554,7 +102870,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-15T14:11:13+03:00",
+   "t": "2026-11-16T17:22:12+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -154857,7 +155173,7 @@
    "gosterim_ad": "genel merkez binası",
    "ilk_kabul": "2026-11-12T03:57:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -154878,6 +155194,7 @@
     "alüminyum çerçeve",
     "bina cephesi",
     "modern ofis binası",
+    "okul binası",
     "pencere",
     "taş kaplama",
     "taş ve alüminyum cephe",
@@ -154898,7 +155215,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-13T11:58:42+03:00",
+   "son_kabul": "2026-11-16T17:22:12+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
