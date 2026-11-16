@@ -25620,37 +25620,6 @@
      },
      "t": "2026-11-12T03:57:15+03:00"
     },
-    "r1:b51ba2d3c7bd:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya limanını gösteren bu görsel, turizm ve rezervasyon haberi için uygundur.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya oteller bölgesi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       253,
-       175,
-       638,
-       893
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T00:38:31+03:00"
-    },
     "r1:b52ed87588f6:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -25733,6 +25702,37 @@
      },
      "t": "2026-11-12T00:10:33+03:00"
     },
+    "r1:fea13cc7fd0b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanında kruvaziyer gemisi, ilçe tesisi olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       245,
+       175,
+       635,
+       890
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T19:22:17+03:00"
+    },
     "r1:fffbaa589700:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -25766,7 +25766,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-16T12:43:46+03:00",
+   "t": "2026-11-16T19:22:17+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -74541,37 +74541,6 @@
      },
      "t": "2026-11-09T19:35:26+03:00"
     },
-    "r1:b13bf154fa36:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya doğasını gösterse de ana tema turizm/aktivite odaklıdır, planlama uyarısı için dolaylı kalır.",
-      "gerekli": [
-       {
-        "unsur": "Alanya doğası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 6,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T19:07:04+03:00"
-    },
     "r1:b51ba2d3c7bd:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -74710,6 +74679,37 @@
      },
      "t": "2026-11-16T11:13:20+03:00"
     },
+    "r1:fea13cc7fd0b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'da çekilmiş parasailing görseli, ilçe tanıtımı için kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       730,
+       360,
+       860
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T19:22:17+03:00"
+    },
     "r1:fffbaa589700:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -74743,7 +74743,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-16T12:43:46+03:00",
+   "t": "2026-11-16T19:22:17+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -90568,36 +90568,6 @@
      },
      "t": "2026-11-12T18:03:37+03:00"
     },
-    "r1:d14cc213345b:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Sadece Alanya'yı gösteren genel bir manzara, toplantı içeriğini yansıtmıyor.",
-      "gerekli": [
-       {
-        "unsur": "gazeteciler",
-        "var": false
-       },
-       {
-        "unsur": "toplantı masası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T20:33:32+03:00"
-    },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -90660,6 +90630,37 @@
      },
      "t": "2026-11-12T00:10:33+03:00"
     },
+    "r1:fea13cc7fd0b:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümü, kaymakamlık haberleri için bağlama uygundur.",
+      "gerekli": [
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T19:22:17+03:00"
+    },
     "r1:fffbaa589700:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -90693,7 +90694,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-16T12:43:46+03:00",
+   "t": "2026-11-16T19:22:17+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -137084,6 +137085,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Higher_Lane_gates_to_Everton_Cemetery_1.jpg/1280px-Higher_Lane_gates_to_Everton_Cemetery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f1e63fbde18cc583": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     435,
+     820,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarihi kule",
+     "sur",
+     "evler",
+     "bitki örtüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya Kalesi ve surlarının alt kısmından detay görünüm.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "adliye haberleri",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:fea13cc7fd0b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın tarihi dokusunu gösteren uygun bir temsilî ilçe karesi.",
+      "gerekli": [
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       435,
+       820,
+       725
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T19:22:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f981684a49cc6e2f",
+    "sha": "5477ac89c341334d8a72d421"
+   },
+   "t": "2026-11-16T19:22:17+03:00",
+   "teknik": {
+    "doygunluk": 31.4,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.205,
+    "keskinlik": 3781,
+    "kontrast": 73,
+    "medyan": 96,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg/1280px-Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f2079c4b336fe479": {
    "icerik": {
     "ana_kutu": [
@@ -140294,13 +140384,39 @@
       "yasak": []
      },
      "t": "2026-11-08T14:38:05+03:00"
+    },
+    "r1:fea13cc7fd0b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz endüstriyel müze içi görüntüsü.",
+      "gerekli": [
+       {
+        "unsur": "fotoğraflar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T19:22:17+03:00"
     }
    },
    "ozet": {
     "dh": "93d2ec2cecacac96",
     "sha": "a800e5204c0901339c10fffb"
    },
-   "t": "2026-11-13T17:02:39+03:00",
+   "t": "2026-11-16T19:22:17+03:00",
    "teknik": {
     "doygunluk": 41.9,
     "inen": [
@@ -157707,6 +157823,64 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "f1e63fbde18cc583": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    1796,
+    1200
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Alanya Kalesi ve surlarının alt kısmından detay görünüm.",
+   "gosterim_ad": "Alanya",
+   "ilk_kabul": "2026-11-16T19:22:17+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "© CANONIER / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "© CANONIER",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bitki örtüsü",
+    "evler",
+    "fotoğraflar",
+    "sur",
+    "tarihi kule"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg/500px-Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "siyasi miting",
+    "adliye haberleri",
+    "spor müsabakası"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-16T19:22:17+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg/1280px-Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
