@@ -13303,6 +13303,126 @@
    },
    "url": "https://images.unsplash.com/photo-1572293071713-0ddeb33c2676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bW9kZXJuJTIwbXVzZXVtJTIwY29uc3RydWN0aW9uJTIwVHVya2V5fGVufDF8MHx8fDE3OTQ0NDY4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "1656e256bab40d87": {
+   "icerik": {
+    "ana_kutu": [
+     278,
+     11,
+     829,
+     203
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "sandalye",
+     "masa",
+     "çanta",
+     "pencere",
+     "kapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Salonda sunum yapan bir kişi ve onu dinleyen öğrenciler",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "üniversite etkinlikleri",
+     "eğitim seminerleri",
+     "öğrenci toplantıları"
+    ],
+    "uygunsuz_baglamlar": [
+     "kura çekimi",
+     "maç",
+     "spor etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      468,
+      779,
+      617,
+      836
+     ],
+     [
+      472,
+      804,
+      649,
+      887
+     ],
+     [
+      470,
+      856,
+      680,
+      990
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:69c4b63740d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kapalı salonda öğrencilerin bulunduğu bir etkinlik sahnesidir ancak kura çekimi anını yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "üniversite öğrencileri",
+        "var": true
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       278,
+       11,
+       829,
+       994
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-16T14:42:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "06067b399a191c5c",
+    "sha": "ef2296af33fb82ea1c206f7e"
+   },
+   "t": "2026-11-16T14:42:56+03:00",
+   "teknik": {
+    "doygunluk": 16.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 1975,
+    "kontrast": 72,
+    "medyan": 197,
+    "parlaklik": 162,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Wiki_Training_for_New_Media_and_Communication_students_5_-_20241104.jpg/1280px-Wiki_Training_for_New_Media_and_Communication_students_5_-_20241104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "16a38e6e222f06d0": {
    "icerik": {
     "ana_kutu": [
@@ -45200,6 +45320,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411682%29.jpg/1280px-Rafael_Mariano_Grossi_Briefs_Press_on_talks_with_Russia_and_Ukraine%E2%80%99s_Foreign_Ministers_%2803411682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4e29f152138019de": {
+   "icerik": {
+    "ana_kutu": [
+     287,
+     396,
+     959,
+     694
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "rüzgâr türbini",
+     "vinç",
+     "bina",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina çatısında rüzgâr türbinleri ve arka planda inşaat vinci.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre dostu üretim",
+     "yenilenebilir enerji",
+     "rüzgâr enerjisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:506bfa4bb673:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta fabrika ve rüzgâr türbini var ancak istenen güneş panelleri bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       287,
+       396,
+       959,
+       694
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:44:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "01011113131a70e4",
+    "sha": "cfafecf51a97b04d5f5115a8"
+   },
+   "t": "2026-11-16T14:44:04+03:00",
+   "teknik": {
+    "doygunluk": 18.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 966,
+    "kontrast": 68,
+    "medyan": 183,
+    "parlaklik": 165,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wind_turbines_on_roof_in_Neasden_593866098.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "4eaf4910896ef2ca": {
    "icerik": {
     "ana_kutu": [
@@ -45787,6 +46004,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dim_%C3%87ay%C4%B1_10_05_1998_Talkerbe_des_Dim_%C3%87ay%C4%B1.jpg/1280px-Dim_%C3%87ay%C4%B1_10_05_1998_Talkerbe_des_Dim_%C3%87ay%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4f51523968e78bca": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "toptancı hali binası",
+     "minibüs",
+     "kasa",
+     "bulutlu gökyüzü",
+     "gökdelen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş alanda tonoz çatılı toptancı hali binaları ve park etmiş araçlar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "hal haberleri",
+     "ekonomi",
+     "ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:852ed7a99401:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toptancı halini gösteriyor ancak Hong Kong'da çekildiği için yerel haberde yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "toptancı hali",
+        "var": true
+       },
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       0,
+       620,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9fc3637bea3723c7",
+    "sha": "26c7ef1a599ddf4b79384632"
+   },
+   "t": "2026-11-16T14:43:22+03:00",
+   "teknik": {
+    "doygunluk": 11.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.078,
+    "keskinlik": 1418,
+    "kontrast": 50,
+    "medyan": 132,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg/1280px-Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4ff7fdf50eb9af53": {
    "icerik": {
@@ -48784,6 +49094,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg/1280px-Antalya_Museum_Sarcophagus_of_Botiane_Demetria_7703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5429928c52426214": {
+   "icerik": {
+    "ana_kutu": [
+     321,
+     0,
+     755,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "pankart",
+     "balon",
+     "metal iskelet",
+     "öğrenci grubu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda el ele tutuşarak kutlama yapan öğrenciler ve pankart",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "üniversite etkinlikleri",
+     "öğrenci kulüpleri",
+     "kutlamalar"
+    ],
+    "uygunsuz_baglamlar": [
+     "kura çekimi",
+     "resmi toplantılar",
+     "akademik dersler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:69c4b63740d9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir açık hava kutlamasını göstermektedir, kura çekimi haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "üniversite öğrencileri",
+        "var": true
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "spor salonu"
+      ]
+     },
+     "t": "2026-11-16T14:42:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5f3fc9cd4c0e070b",
+    "sha": "ab4f45a732f6a3e5e3fec2ef"
+   },
+   "t": "2026-11-16T14:42:56+03:00",
+   "teknik": {
+    "doygunluk": 36.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 1952,
+    "kontrast": 63,
+    "medyan": 147,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dicle_University_students_and_Newroz_celebration_in_the_university_campus..JPG/1280px-Dicle_University_students_and_Newroz_celebration_in_the_university_campus..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "542d1a447aab19b4": {
    "icerik": {
     "ana_kutu": [
@@ -50280,13 +50685,43 @@
       "yasak": []
      },
      "t": "2026-11-16T11:12:52+03:00"
+    },
+    "r1:852ed7a99401:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograftaki otel bahcesi goruntusu toptanci hali ziyareti haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "toptanci hali",
+        "var": false
+       },
+       {
+        "unsur": "sebze ve meyve kasalari",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:14+03:00"
     }
    },
    "ozet": {
     "dh": "038b878f5597391c",
     "sha": "1bc780446eef38aa85b03efa"
    },
-   "t": "2026-11-16T11:12:52+03:00",
+   "t": "2026-11-16T14:43:22+03:00",
    "teknik": {
     "doygunluk": 37.9,
     "inen": [
@@ -54499,6 +54934,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:506bfa4bb673:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Aselsan ürünleri yer alsa da çevre dostu üretim konusuyla içerik örtüşmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       26,
+       907,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "tören salonu"
+      ]
+     },
+     "t": "2026-11-16T14:43:48+03:00"
+    },
     "r1:50d084df6f1e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -54574,7 +55047,7 @@
     "dh": "03c3cec6cc8c6c46",
     "sha": "b818eb9a5cc435142c9c5863"
    },
-   "t": "2026-11-16T13:43:15+03:00",
+   "t": "2026-11-16T14:43:48+03:00",
    "teknik": {
     "doygunluk": 12.2,
     "inen": [
@@ -78341,6 +78814,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:506bfa4bb673:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Aselsan logosu ve ürünü var ancak çevre dönüşüm haberiyle ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       100,
+       792,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "tören salonu"
+      ]
+     },
+     "t": "2026-11-16T14:43:48+03:00"
+    },
     "r1:50d084df6f1e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -78379,7 +78890,7 @@
     "dh": "21336160b6923325",
     "sha": "2082e1a7444d1b8e8d93fa2c"
    },
-   "t": "2026-11-16T13:43:15+03:00",
+   "t": "2026-11-16T14:43:48+03:00",
    "teknik": {
     "doygunluk": 9.5,
     "inen": [
@@ -87341,6 +87852,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:506bfa4bb673:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ürün askeri nitelikte olup yeşil dönüşüm haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       150,
+       740,
+       915
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "tören salonu"
+      ]
+     },
+     "t": "2026-11-16T14:43:48+03:00"
+    },
     "r1:50d084df6f1e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -87379,7 +87928,7 @@
     "dh": "701c74f4c8f17179",
     "sha": "1ad473fb88ccf9a3e02c20df"
    },
-   "t": "2026-11-16T13:43:15+03:00",
+   "t": "2026-11-16T14:43:48+03:00",
    "teknik": {
     "doygunluk": 12.2,
     "inen": [
@@ -104620,6 +105169,102 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kelechi_Iheanacho_24-02-15_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "b9178b0da00e04d2": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "güneş panelleri",
+     "şemsiye",
+     "çatı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çatıda güneş panelleri ve şemsiyeli bir kişi havadan görünüm",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji haberleri",
+     "çevre haberleri",
+     "sanayi yatırımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:506bfa4bb673:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş panelleri ve fabrika çatısı yeşil dönüşüm haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": true
+       },
+       {
+        "unsur": "fabrika",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6ca435120e395384",
+    "sha": "e4fd887cad3b3e8f0a7afc90"
+   },
+   "t": "2026-11-16T14:44:04+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 8626,
+    "kontrast": 51,
+    "medyan": 98,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Powering_Progress.jpg/1280px-Powering_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b91e26c7edb30809": {
    "icerik": {
     "ana_kutu": [
@@ -106428,6 +107073,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:506bfa4bb673:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASELSAN ürünü gösterilse de çevre dostu üretim haberiyle görsel uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       71,
+       767,
+       959
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "tören salonu"
+      ]
+     },
+     "t": "2026-11-16T14:43:48+03:00"
+    },
     "r1:50d084df6f1e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -106503,7 +107186,7 @@
     "dh": "c74068ccc093b331",
     "sha": "14f49a4e99ad17396f503c6a"
    },
-   "t": "2026-11-16T13:43:15+03:00",
+   "t": "2026-11-16T14:43:48+03:00",
    "teknik": {
     "doygunluk": 26.4,
     "inen": [
@@ -119756,6 +120439,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:506bfa4bb673:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ürün görseli yeşil dönüşüm merkezi belgesi haberi bağlamına uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "güneş panelleri",
+        "var": false
+       },
+       {
+        "unsur": "fabrika",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       203,
+       730,
+       966
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "tören salonu"
+      ]
+     },
+     "t": "2026-11-16T14:43:48+03:00"
+    },
     "r1:50d084df6f1e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -119831,7 +120552,7 @@
     "dh": "3b079bb9b9d37279",
     "sha": "5ad813986a6f04184432254f"
    },
-   "t": "2026-11-16T13:43:15+03:00",
+   "t": "2026-11-16T14:43:48+03:00",
    "teknik": {
     "doygunluk": 7.5,
     "inen": [
@@ -121156,6 +121877,98 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1645235997928-115ab6cd18b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8aGFpciUyMGN1dHRpbmclMjBjb250ZXN0JTIwc3RhZ2V8ZW58MXwwfHx8MTc5NDEzMjY5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "daeaebeab1dd02f8": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "duvar",
+     "tabela",
+     "yazı",
+     "giriş kapısı",
+     "vinç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde yabancı dilde tabela ve yazılar bulunan toptancı hali giriş kapısı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "hal haberleri",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:852ed7a99401:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toptancı hali girişini gösteriyor fakat yabancı dildeki tabelalar Manavgat haberi için tamamen yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "toptancı hali",
+        "var": true
+       },
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       0,
+       880,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fc949713330b0bcd",
+    "sha": "f56ee08bbdcb58b217f5e836"
+   },
+   "t": "2026-11-16T14:43:22+03:00",
+   "teknik": {
+    "doygunluk": 13.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 1588,
+    "kontrast": 43,
+    "medyan": 155,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Front_of_Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg/1280px-Front_of_Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "db0bb455c7a6f334": {
    "icerik": {
@@ -129364,13 +130177,48 @@
       "yasak": []
      },
      "t": "2026-11-10T00:05:37+03:00"
+    },
+    "r1:852ed7a99401:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toptancı hali ve meyve kasaları görünse de yabancı bir tesiste çekilmiş temsilî bir karedir.",
+      "gerekli": [
+       {
+        "unsur": "toptancı hali",
+        "var": true
+       },
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       390,
+       980,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:32+03:00"
     }
    },
    "ozet": {
     "dh": "3233f7eba3a34350",
     "sha": "3ea067d7a787765d5da4f8c0"
    },
-   "t": "2026-11-10T00:05:37+03:00",
+   "t": "2026-11-16T14:43:32+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -140826,13 +141674,48 @@
       "yasak": []
      },
      "t": "2026-11-10T00:05:37+03:00"
+    },
+    "r1:852ed7a99401:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toptancı halini andırsa da yabancı bir ülkedeki farklı bir pazara ait ve dönemi eski bir karedir.",
+      "gerekli": [
+       {
+        "unsur": "toptancı hali",
+        "var": true
+       },
+       {
+        "unsur": "sebze ve meyve kasaları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:43:32+03:00"
     }
    },
    "ozet": {
     "dh": "a3e1796c8a9e6656",
     "sha": "afd03c2d65219c6daff2a5e8"
    },
-   "t": "2026-11-10T00:05:37+03:00",
+   "t": "2026-11-16T14:43:32+03:00",
    "teknik": {
     "doygunluk": 49.2,
     "inen": [
@@ -152840,6 +153723,67 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "b9178b0da00e04d2": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2628,
+    1752
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2025-04-27",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Çatıda güneş panelleri ve şemsiyeli bir kişi havadan görünüm",
+   "gosterim_ad": "Yeşil Dönüşüm Merkezi Belgesi",
+   "ilk_kabul": "2026-11-16T14:44:04+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Ayman Nakib Badhan / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Ayman Nakib Badhan",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Powering_Progress.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "fabrika",
+    "güneş panelleri",
+    "çatı",
+    "şemsiye"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Powering_Progress.jpg/500px-Powering_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "enerji haberleri",
+    "çevre haberleri",
+    "sanayi yatırımları"
+   ],
+   "kullanilamaz": [
+    "siyaset haberleri",
+    "magazin",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-16T14:44:04+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Powering_Progress.jpg/1280px-Powering_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "b9350eaeb8cd8c4d": {
    "alt_tur": "nesne",
