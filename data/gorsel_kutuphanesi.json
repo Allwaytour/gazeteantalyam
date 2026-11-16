@@ -2856,6 +2856,95 @@
    },
    "url": "https://images.unsplash.com/photo-1574879948818-1cfda7aa5b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YmFydGVuZGVyJTIwbWFraW5nJTIwY29ja3RhaWx8ZW58MXwwfHx8MTc5NDEzODEyOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "04e8a31fdd935da7": {
+   "icerik": {
+    "ana_kutu": [
+     510,
+     50,
+     955,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran",
+     "mineral taşı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kurutulmuş kırmızı safran iplikleri ve arkasında pirit minerali.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "baharat haberleri",
+     "safran üretimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "tarla hasadı haberleri",
+     "açık alan tarımı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran ürünü gösterilmektedir ancak haber kapalı alanda üretim üzerinedir ve çiçekler/toprak tarlası görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği, mor yapraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       510,
+       50,
+       955,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:14:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "081e2727b3d823e7",
+    "sha": "fa21e83542cc50b0840c1671"
+   },
+   "t": "2026-11-16T11:14:21+03:00",
+   "teknik": {
+    "doygunluk": 69.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.264,
+    "keskinlik": 1368,
+    "kontrast": 60,
+    "medyan": 84,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Saffron-IMG_6681-2.jpg/1280px-Saffron-IMG_6681-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0511faaa39f391d8": {
    "icerik": {
     "ana_kutu": [
@@ -15098,6 +15187,103 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1718813321365-d2ad96ef402c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGJlYWNoJTIwc29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDI1MjkzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1a4a76f5a8018c4c": {
+   "icerik": {
+    "ana_kutu": [
+     70,
+     0,
+     935,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "safran çiçeği",
+     "mor yapraklar",
+     "plastik leğen",
+     "eldiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alanda elleri eldivenli kişiler safran ayıklıyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "üretim",
+     "hasat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran üretimi ve ayıklama sürecini gösteren mükemmel bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği",
+        "var": true
+       },
+       {
+        "unsur": "mor yapraklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       70,
+       0,
+       935,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:14:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fec4c60284f3f2de",
+    "sha": "cc2d05e39bb373965bcdf580"
+   },
+   "t": "2026-11-16T11:14:26+03:00",
+   "teknik": {
+    "doygunluk": 34.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 887,
+    "kontrast": 64,
+    "medyan": 129,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1750579674247-394afc1b660e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2FmZnJvbiUyMGZsb3dlcnMlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTQ4MTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1a601c91f616221f": {
    "icerik": {
@@ -34208,6 +34394,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PaviljoenParijs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "3b45d0d1f03afe99": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     178,
+     545,
+     974
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran",
+     "cam kavanoz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Cam kavanozdan dökülmüş kurutulmuş safran iplikleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "baharat",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kurutulmuş safran ürününü gösteriyor ancak çiçek ve mor yaprak unsurları eksik.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği",
+        "var": false
+       },
+       {
+        "unsur": "mor yapraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       178,
+       545,
+       974
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:14:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "162d4ebc30707013",
+    "sha": "dea1f55158f565351924a7fb"
+   },
+   "t": "2026-11-16T11:14:26+03:00",
+   "teknik": {
+    "doygunluk": 20.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.076,
+    "keskinlik": 900,
+    "kontrast": 61,
+    "medyan": 227,
+    "parlaklik": 197,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1643471672168-f4a4b6cfa440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2FmZnJvbiUyMHN0aWdtYXN8ZW58MXwwfHx8MTc5NDgxNjg0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "3b4df9dc462ddf89": {
    "icerik": {
     "ana_kutu": [
@@ -44207,6 +44488,27 @@
    },
    "url": "https://images.unsplash.com/photo-1578844251758-2f71da64c96f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2ludGVyJTIwdGlyZXN8ZW58MXwwfHx8MTc5NDMxMjQyMHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "4f46bd8a93a4aaac": {
+   "ozet": {
+    "dh": "e7c88f3359c44713",
+    "sha": "c6451cf061fcdcb9b78874c3"
+   },
+   "t": "2026-11-16T11:14:04+03:00",
+   "teknik": {
+    "doygunluk": 70.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.784,
+    "keskinlik": 1134,
+    "kontrast": 29,
+    "medyan": 28,
+    "parlaklik": 32,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Saffron-IMG_6634-2.jpg/1280px-Saffron-IMG_6634-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4f5054dc55e39d42": {
    "icerik": {
     "ana_kutu": [
@@ -48695,6 +48997,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Anet%2C_Cimeti%C3%A8re%2C_Monument_de_Diane_de_Poitiers_7.jpg/1280px-Anet%2C_Cimeti%C3%A8re%2C_Monument_de_Diane_de_Poitiers_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "56231d0f1e05c452": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     640,
+     642,
+     994
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "palmiye ağacı",
+     "çim alan",
+     "otel binası",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Palmiye ağaçları, çim alan ve arkada otel binaları bulunan bahçe",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "kaza haberleri",
+     "spor müsabakaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0e65a492a087:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da düzenlenen turizm buluşması için bölgedeki bir tatil tesisinin genel görünümü uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       640,
+       642,
+       994
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:12:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "038b878f5597391c",
+    "sha": "1bc780446eef38aa85b03efa"
+   },
+   "t": "2026-11-16T11:12:52+03:00",
+   "teknik": {
+    "doygunluk": 37.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 3628,
+    "kontrast": 56,
+    "medyan": 129,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "56426e87a6dc039d": {
    "icerik": {
     "ana_kutu": [
@@ -52738,6 +53124,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg/1280px-Antalya_M%C3%BCzesi_Proestolar%C4%B1_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5ec1b166a1fb3c4e": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     305,
+     905,
+     830
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "sepet",
+     "safran çiçeği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarlada çömelmiş safran toplayan kadın ve sarı sepet.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım haberleri",
+     "safran hasadı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapalı alan üretimi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      270,
+      420,
+      395,
+      505
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde kapalı alanda safran üretimi anlatılırken, bu fotoğraf açık toprak tarlasında hasat gösterdiği için çelişkilidir.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği, mor yapraklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       815,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "toprak tarlası"
+      ]
+     },
+     "t": "2026-11-16T11:14:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b36b1b03132f0a8",
+    "sha": "8c10b9e9c5a177676cf06aac"
+   },
+   "t": "2026-11-16T11:14:21+03:00",
+   "teknik": {
+    "doygunluk": 26.1,
+    "inen": [
+     500,
+     307
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 2442,
+    "kontrast": 79,
+    "medyan": 176,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Harvesting_saffron%2C_Gonabad_%2813960928000822636492949519859467_93660%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "5ecfdb495d25ec66": {
    "ozet": {
@@ -61177,6 +61660,100 @@
    },
    "url": "https://images.unsplash.com/photo-1758691463384-771db2f192b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c3RldGhvc2NvcGUlMjBvbiUyMG1lZGljYWwlMjBkZXNrfGVufDF8MHx8fDE3OTQ1NzUxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "6fac3b2c53355e1a": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sütun",
+     "avize",
+     "fıskiye",
+     "mermer zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Lüks bir otelin altın sarısı sütunlu ve havuzlu iç mekan lobisi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "otel lobisi",
+     "turizm haberi",
+     "iç mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "safran üretimi",
+     "tarım haberi",
+     "bitki yetiştiriciliği"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran üretimi haberiyle tamamen alakasız lüks bir otel iç mekan görünümüdür.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği",
+        "var": false
+       },
+       {
+        "unsur": "mor yapraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "toprak tarlası"
+      ]
+     },
+     "t": "2026-11-16T11:14:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f4d4d0f4d135b53",
+    "sha": "3b91e287819284bb486fd06d"
+   },
+   "t": "2026-11-16T11:14:21+03:00",
+   "teknik": {
+    "doygunluk": 51.1,
+    "inen": [
+     500,
+     282
+    ],
+    "karanlik_oran": 0.107,
+    "keskinlik": 1946,
+    "kontrast": 62,
+    "medyan": 110,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol.jpg/1280px-Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6fd9dc160c767047": {
    "icerik": {
     "ana_kutu": [
@@ -64779,6 +65356,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0e65a492a087:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'daki turizm tesisini gösterdiği için haber bağlamına uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:12:52+03:00"
+    },
     "r1:7a7ebccd1acc:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -64810,7 +65408,7 @@
     "dh": "87179b0907874759",
     "sha": "0f3ffaf3661eabe8b3bdb080"
    },
-   "t": "2026-11-14T14:40:00+03:00",
+   "t": "2026-11-16T11:12:52+03:00",
    "teknik": {
     "doygunluk": 44.7,
     "inen": [
@@ -70652,28 +71250,27 @@
      },
      "t": "2026-11-12T00:10:33+03:00"
     },
-    "r1:f2bac7133776:ozne_kurum": {
+    "r1:fa048fa1c512:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın turistik kimliğini ve tatil atmosferini doğrudan yansıtan başarılı bir görsel.",
+      "gerekce": "Parasailing yapan kisileri gosteren bu kare, sanat sokaklari ve kadin emegi haberiyle ilgisizdir.",
       "gerekli": [
        {
-        "unsur": "Alanya sahili veya turistik bölge",
-        "var": true
+        "unsur": "el emegi stantlari",
+        "var": false
+       },
+       {
+        "unsur": "el isi urunler",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       50,
-       730,
-       220,
-       860
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 9,
+      "uygunluk": 1,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -70681,7 +71278,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T18:03:22+03:00"
+     "t": "2026-11-16T11:13:20+03:00"
     },
     "r1:fffbaa589700:yer": {
      "d": {
@@ -70716,7 +71313,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-14T12:18:17+03:00",
+   "t": "2026-11-16T11:13:20+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -72224,6 +72821,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0e65a492a087:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Manavgat'taki tarihi kalıntıları gösteriyor ancak haber turizm buluşmasıyla ilgili.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:12:52+03:00"
+    },
     "r1:7759cff62e7e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -72319,7 +72937,7 @@
     "dh": "9e9bb96d6dd7c3ed",
     "sha": "806b02bddaa3e3886b7dc4cd"
    },
-   "t": "2026-11-14T14:39:54+03:00",
+   "t": "2026-11-16T11:12:52+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -86403,6 +87021,27 @@
    },
    "url": "https://images.unsplash.com/photo-1776235483260-cd5d8a586848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9e4afe799e4088b3": {
+   "ozet": {
+    "dh": "5c989f1616060dda",
+    "sha": "c7ad836c02a313dd9954649e"
+   },
+   "t": "2026-11-16T11:14:22+03:00",
+   "teknik": {
+    "doygunluk": 29.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.694,
+    "keskinlik": 384,
+    "kontrast": 43,
+    "medyan": 36,
+    "parlaklik": 58,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1631189945107-34e33ff1c648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c2FmZnJvbiUyMHN0aWdtYXN8ZW58MXwwfHx8MTc5NDgxNjg0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "9ec29b9552141e8a": {
    "icerik": {
     "ana_kutu": [
@@ -100052,6 +100691,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Turkish_parliament_after_failed_coup_attempt_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "b6c34991ea019417": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     936,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran çiçeği",
+     "mor yapraklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mor safran çiçekleri",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "bitki",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran çiçeklerini net şekilde gösteren uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği",
+        "var": true
+       },
+       {
+        "unsur": "mor yapraklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       936,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:14:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "01a1ab5b93d25d09",
+    "sha": "427153a98c404779428a0c51"
+   },
+   "t": "2026-11-16T11:14:26+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.009,
+    "keskinlik": 578,
+    "kontrast": 36,
+    "medyan": 181,
+    "parlaklik": 176,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1509130872995-86c1187635f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c2FmZnJvbiUyMGZsb3dlcnMlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTQ4MTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b6c48fdd6e16aa51": {
    "icerik": {
     "ana_kutu": [
@@ -101683,13 +102417,43 @@
       "yasak": []
      },
      "t": "2026-11-08T12:34:41+03:00"
+    },
+    "r1:fa048fa1c512:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf Alanya manzarasini gosteriyor ancak sanat sokaklari ve el emegi urunler yer almiyor.",
+      "gerekli": [
+       {
+        "unsur": "el emegi stantlari",
+        "var": false
+       },
+       {
+        "unsur": "el isi urunler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T11:13:20+03:00"
     }
    },
    "ozet": {
     "dh": "487ff89210510847",
     "sha": "369c99d0c045d066d10f6307"
    },
-   "t": "2026-11-13T03:59:02+03:00",
+   "t": "2026-11-16T11:13:20+03:00",
    "teknik": {
     "doygunluk": 38.2,
     "inen": [
@@ -103475,6 +104239,104 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Drip_irrigation_system.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "bd9a6c6abd2da90a": {
+   "icerik": {
+    "ana_kutu": [
+     70,
+     48,
+     775,
+     915
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "hasır sepet",
+     "hasır şapka",
+     "safran çiçeği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hasat kıyafetli işçiler tarlada safran çiçekleri topluyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım haberleri",
+     "safran hasadı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapalı alan üretimi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      145,
+      715,
+      230,
+      840
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kapalı alanda üretimle ilgilidir, ancak fotoğrafta açık toprak tarlası ve geleneksel açık alan hasadı görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği, mor yapraklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       665,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "toprak tarlası"
+      ]
+     },
+     "t": "2026-11-16T11:14:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4129297bc2c51f15",
+    "sha": "d9c3e4ba50093e54da946f52"
+   },
+   "t": "2026-11-16T11:14:21+03:00",
+   "teknik": {
+    "doygunluk": 47.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.075,
+    "keskinlik": 3008,
+    "kontrast": 57,
+    "medyan": 114,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Saffronfarm-860808.jpg/1280px-Saffronfarm-860808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "be41a2d62a471d0f": {
    "icerik": {
@@ -115745,6 +116607,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%E2%80%9CWorld_Caf%C3%A9%E2%80%9D-style_arrangements_enable_participants_to_have_creative_conversations_while_sitting_cafe-style_around_small_tables_covered_by_paper_table_cloths_to_take_notes_%285050819865%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d98795683d768783": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yüzme havuzu",
+     "şezlong",
+     "şemsiye",
+     "otel binası",
+     "türk bayrağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Lüks bir otelin açık yüzme havuzu ve havuz başı tesisi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "otel tanıtımı",
+     "turizm haberi",
+     "tatil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "safran üretimi",
+     "tarım haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:40fabbdcd1b8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen safran üretimiyle ilgisi olmayan lüks bir otelin havuz başı görünümüdür.",
+      "gerekli": [
+       {
+        "unsur": "safran çiçeği",
+        "var": false
+       },
+       {
+        "unsur": "mor yapraklar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "toprak tarlası"
+      ]
+     },
+     "t": "2026-11-16T11:14:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5c5c397b7b761b1f",
+    "sha": "1be4e73192639ed1c3b25c13"
+   },
+   "t": "2026-11-16T11:14:21+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     500,
+     282
+    ],
+    "karanlik_oran": 0.127,
+    "keskinlik": 1453,
+    "kontrast": 49,
+    "medyan": 119,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol_%281%29.jpg/1280px-Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d98ed109ccf1f8bb": {
    "icerik": {
@@ -139609,6 +140566,67 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "1a4a76f5a8018c4c": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6720,
+    4480
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kapalı alanda elleri eldivenli kişiler safran ayıklıyor",
+   "gosterim_ad": "safran üretimi",
+   "ilk_kabul": "2026-11-16T11:14:27+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Mustafa / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Mustafa",
+    "sayfa": "https://unsplash.com/photos/people-are-hand-picking-saffron-threads-from-flowers-jUUNUFN5Pxo"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "eldiven",
+    "mor yapraklar",
+    "plastik leğen",
+    "safran çiçeği"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1750579674247-394afc1b660e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2FmZnJvbiUyMGZsb3dlcnMlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTQ4MTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "tarım",
+    "üretim",
+    "hasat"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-16T11:14:27+03:00",
+   "url": "https://images.unsplash.com/photo-1750579674247-394afc1b660e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2FmZnJvbiUyMGZsb3dlcnMlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTQ4MTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "1dd1f006c0b0df4b": {
    "alt_tur": "nesne",
    "boyut": [
@@ -143109,6 +144127,68 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "56231d0f1e05c452": {
+   "alt_tur": "yer",
+   "boyut": [
+    4608,
+    3072
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Palmiye ağaçları, çim alan ve arkada otel binaları bulunan bahçe",
+   "gosterim_ad": "Manavgat",
+   "ilk_kabul": "2026-11-16T11:12:52+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "edykbo / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "edykbo",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:EUPHORIA_PALM_BEACH_5_(2015)_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": [
+     {
+      "ad": "Manavgat",
+      "qid": "Q81643"
+     }
+    ]
+   },
+   "konular": [
+    "otel binası",
+    "palmiye ağacı",
+    "yol",
+    "çim alan"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg/500px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "siyaset haberleri",
+    "kaza haberleri",
+    "spor müsabakaları"
+   ],
+   "notr_portre": false,
+   "qid": "Q81643",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "yer_genel",
+   "son_kabul": "2026-11-16T11:12:52+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "56426e87a6dc039d": {
    "alt_tur": "kurum",

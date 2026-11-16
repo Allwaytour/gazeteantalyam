@@ -1,7 +1,7 @@
 ---
-title: Fenerbahce, Corum FK deplasmaninda
+title: Fenerbahçe, Çorum FK deplasmanında
 date: '2026-11-07T11:24:59+03:00'
-ozet: Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin deplasmanda Corum FK ile karsilasacak. Sarilacivertlilerde teknik direktorluk gorevine getirilen Emre Belozoglu ilk macina cikiyor.
+ozet: Trendyol Süper Lig'in 11. haftasında Fenerbahçe, yarın deplasmanda Çorum FK ile karşılaşacak. Sarilacivertlilerde teknik direktörlük görevine getirilen Emre Belözoğlu ilk maçına çıkıyor.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/b/bf/USF_at_UC_2019_-_game_ball_%2848957905358%29.jpg
 gorsel_kredi: 'Fotoğraf: Hayden Schiff / Wikimedia Commons (CC BY 2.0)'
 kategoriler:
@@ -157,7 +157,7 @@ gorsel_gecmis:
     kurum_notu: 'kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host=''www.anadoluajansi.gov.tr'', port=443): Max retries exce'
   degisim: '2026-11-08T22:29:41+03:00'
   kaldirma_nedeni: habere uygunluk düşük (5/10, en az 7)
-gorsel_yedek: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-70985636.jpg
+gorsel_yedek: /images/haber-gorsel/20261107-fenerbahce-corum-fk-deplasmaninda-78952-c8e583f7.jpg
 gorsel_yerlesim:
   boyut:
   - 6000
@@ -185,11 +185,18 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1660926655800-3d11219f390d?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1764040561192-dc860c4ecf8a?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1731766585055-c957a2b7630a?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Fenerbahce, Corum FK deplasmaninda
+metin_onarim:
+  tarih: '2026-11-16T11:14:39+03:00'
+  kaynak: https://www.antalyahurses.com/fenerbahce-corum-fkya-konuk-olacak/561047
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: yapay zekânın değiştirdiği 4 kelime özgün haliyle bırakıldı; spot: yapay zekânın değiştirdiği 1 kelime özgün haliyle bırakıldı'
+yazim_denetim: y1
 ---
-Trendyol Super Lig'in 11. haftasinda Fenerbahce, yarin saat 16.00'da deplasmanda Corum FK ile karsilikli mucadele verecek. Ligde geride kalan 10 karsilasmada her iki ekip de 5 galibiyet, 1 beraberlik ve 4 maglubiyet alarak 16'sar puan topladi. Fenerbahce averajla 6. sirada yer alirken, kirmizisiyahli ev sahibi ekip 7. sirada bulunuyor.
+Trendyol Süper Lig'in 11. haftasında Fenerbahçe, yarın saat 16.00'da deplasmanda Çorum FK ile karşılıklı mücadele verecek. Ligde geride kalan 10 karşılaşmada her iki ekip de 5 galibiyet, 1 beraberlik ve 4 mağlubiyet alarak 16'şar puan topladı. Fenerbahçe averajla 6. sırada yer alırken, kirmizisiyahli ev sahibi ekip 7. sırada bulunuyor.
 
-UEFA Sampiyonlar Ligi'nde gecen hafta Ingiliz ekibi Liverpool'u maglup eden sarilacivertliler, bu cikisini ligde de surdurerek milli araya 3 puanla girmeyi hedefliyor. Gecen sezon Trendyol 1. Lig'den Super Lig'e yukselen Corum FK ile Fenerbahce tarihlerinde ilk kez resmi bir mac yapacak. Teknik Direktor Ismail Kartal'in istifasi sonrasi takimin basina getirilen Emre Belozoglu, sarilacivertli ekipteki ikinci donemindeki ilk sinavini verecek.
+UEFA Şampiyonlar Ligi'nde geçen hafta İngiliz ekibi Liverpool'u mağlup eden sarilacivertliler, bu çıkışını ligde de sürdürerek milli araya 3 puanla girmeyi hedefliyor. Geçen sezon Trendyol 1. Lig'den Süper Lig'e yükselen Çorum FK ile Fenerbahçe tarihlerinde ilk kez resmi bir maç yapacak. Teknik Direktör İsmail Kartal'ın istifası sonrası takımın başına getirilen Emre Belözoğlu, sarilacivertli ekipteki ikinci dönemindeki ilk sınavını verecek.
 
-Zorlu deplasman oncesi Fenerbahce'de bazi eksikler dikkat cekiyor. Galatasaray derbisi sonrasi cezali duruma dusen Archie Brown Corum'da forma giyemeyecek. Ayrica Marco Asensio ile Nathan Ake'nin tedavileri devam ediyor. Ligde son iki karsilasmasini kaybeden ve zirvenin gerisinde kalan sarilacivertliler, Corum Sehir Stadyumu'nda oynanacak mucadeleden galibiyetle ayrilmanin hesaplarini yapiyor.
+Zorlu deplasman öncesi Fenerbahçe'de bazı eksikler dikkat çekiyor. Galatasaray derbisi sonrası cezalı duruma düşen Archie Brown Çorum'da forma giyemeyecek. Ayrıca Marco Asensio ile Nathan Ake'nin tedavileri devam ediyor. Ligde son iki karşılaşmasını kaybeden ve zirvenin gerisinde kalan sarilacivertliler, Çorum Şehir Stadyumu'nda oynanacak mücadeleden galibiyetle ayrılmanın hesaplarını yapıyor.
 
-Karsilasmanin hakem kadrosu da belli oldu. Corum FK ile Fenerbahce arasindaki musabakayi hakem Abdullah Bugra Taskinsoy yonetecek. Taskinsoy'un yardimciliklarini Bersan Duran ile Mustafa Savranlar ustlenecek, mucadelenin dorduncu hakemi ise Alper Akarsu olacak.
+Karşılaşmanın hakem kadrosu da belli oldu. Çorum FK ile Fenerbahçe arasındaki müsabakayı hakem Abdullah Buğra Taşkınsoy yönetecek. Taşkınsoy'un yardımcılıklarını Bersan Duran ile Mustafa Savranlar üstlenecek, mücadelenin dördüncü hakemi ise Alper Akarsu olacak.
