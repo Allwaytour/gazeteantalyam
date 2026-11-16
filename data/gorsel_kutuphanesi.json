@@ -30002,6 +30002,89 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Nikos_Christodoulides_visit_to_Ukraine_%282986021838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "318da7efa4a5025b": {
+   "icerik": {
+    "ana_kutu": [
+     515,
+     303,
+     646,
+     772
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "tekne",
+     "turk bayragi",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Denizde seyreden Türk bayraklı küçük balıkçı tekneleri",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyasi gorusme",
+     "diplomatik haber",
+     "meclis haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0fec3c951fe1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki siyasi kabul ve görüşmeyle hiçbir ilgisi olmayan deniz ve tekneler yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:13:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f070f1fc5e1170b",
+    "sha": "c5a6d833b69d0f2b5963ffe4"
+   },
+   "t": "2026-11-16T14:13:11+03:00",
+   "teknik": {
+    "doygunluk": 15.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 506,
+    "kontrast": 26,
+    "medyan": 141,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Antalya_17.JPG/1280px-Antalya_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "31fd8d0b946c62fb": {
    "icerik": {
     "ana_kutu": [
@@ -33181,6 +33264,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg/1280px-Fragment_of_the_Julia_Domna_statue_-_between_200_and_210_AD_-_51353060238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "360e8eaa98ff00c7": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "bayrak",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki erkek siyasetçi bayraklar önünde el sıkışıyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "diplomasi",
+     "ziyaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      110,
+      329,
+      298,
+      444
+     ],
+     [
+      244,
+      603,
+      432,
+      706
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0fec3c951fe1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Numan Kurtulmuş arşiv karesinde yer alıyor ancak farklı bir görüşmeye ait.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "protesto",
+       "kalabalik sokak"
+      ]
+     },
+     "t": "2026-11-16T14:13:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9cbca444646c6469",
+    "sha": "53edcf2e39836ecffb733769"
+   },
+   "t": "2026-11-16T14:13:03+03:00",
+   "teknik": {
+    "doygunluk": 54.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.3,
+    "keskinlik": 2143,
+    "kontrast": 55,
+    "medyan": 95,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Numan_Kurtulmu%C5%9F_and_Jerry_Buttimer_1.jpg/1280px-Numan_Kurtulmu%C5%9F_and_Jerry_Buttimer_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "361677b5ea5074ff": {
    "icerik": {
@@ -44046,6 +44223,84 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Shigeru_Ishiba_and_Nikol_Pashinyan_at_the_Japanese_Kantei_2025_%281%29.jpg/1280px-Shigeru_Ishiba_and_Nikol_Pashinyan_at_the_Japanese_Kantei_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4d36fa857eec593f": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "heykeller",
+     "bina",
+     "minibüs",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırkpınar Er Meydanı girişinde heykeller ve bina önünde bekleyen insanlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "güreş tesisi haberi",
+     "spor tesisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "askerlik haberi",
+     "biyografi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2d2e7899dc15:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel güreş tesisini göstermektedir, başpehlivanın askerlik haberiyle uyuşmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sivil kiyafet disinda baska spor dallari"
+      ]
+     },
+     "t": "2026-11-16T14:14:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "36660e5e36229111",
+    "sha": "5db71888c3f5005a635be934"
+   },
+   "t": "2026-11-16T14:14:48+03:00",
+   "teknik": {
+    "doygunluk": 44.7,
+    "inen": [
+     500,
+     330
+    ],
+    "karanlik_oran": 0.21,
+    "keskinlik": 3106,
+    "kontrast": 57,
+    "medyan": 114,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/K%C4%B1rkp%C4%B1narArena_%282%29.JPG/1280px-K%C4%B1rkp%C4%B1narArena_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4d500ba296c93a4b": {
    "icerik": {
@@ -71182,6 +71437,83 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/D%C3%BClmen%2C_Automeile_auf_dem_Kartoffelmarkt%2C_BMW_Mini_--_2019_--_9877.jpg/1280px-D%C3%BClmen%2C_Automeile_auf_dem_Kartoffelmarkt%2C_BMW_Mini_--_2019_--_9877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7f86baa24a75337f": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bina",
+     "otomobil",
+     "flama"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırkpınar güreşlerinin yapıldığı Sarayiçi Er Meydanı binası dış görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "güreş tesisi haberi",
+     "spor tesisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "askerlik haberi",
+     "biyografi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2d2e7899dc15:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görselde güreş tesisi yer almaktadır, askerlik haberiyle doğrudan bir ilişkisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sivil kiyafet disinda baska spor dallari"
+      ]
+     },
+     "t": "2026-11-16T14:14:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "87434b416eeb270f",
+    "sha": "255e8fd3647fbbe0b4f52432"
+   },
+   "t": "2026-11-16T14:14:48+03:00",
+   "teknik": {
+    "doygunluk": 49.8,
+    "inen": [
+     500,
+     320
+    ],
+    "karanlik_oran": 0.276,
+    "keskinlik": 1534,
+    "kontrast": 59,
+    "medyan": 112,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/K%C4%B1rkp%C4%B1narArena_%283%29.JPG/1280px-K%C4%B1rkp%C4%B1narArena_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7f99cce752f282db": {
    "icerik": {
     "ana_kutu": [
@@ -80479,6 +80811,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mersin_Otogar_in_2015_2432.jpg/1280px-Mersin_Otogar_in_2015_2432.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8db47a8b2fc792af": {
+   "icerik": {
+    "ana_kutu": [
+     82,
+     187,
+     584,
+     495
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "heykel",
+     "saat kulesi",
+     "cami minaresi",
+     "bank",
+     "agac"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kale Kapısı meydanında II. Attalos heykeli ve saat kulesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyasi gorusme",
+     "diplomatik haber",
+     "kaza haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0fec3c951fe1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da geçen haber için şehir manzarası temsilidir ancak görüşme masasını içermez.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       82,
+       187,
+       584,
+       495
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:13:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7fd7d5429a0df0b8",
+    "sha": "fb7dfe0cdd85bb97435663b9"
+   },
+   "t": "2026-11-16T14:13:11+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.086,
+    "keskinlik": 1841,
+    "kontrast": 60,
+    "medyan": 142,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/II._Attalos_Heykeli_ve_Antalya_Saat_Kulesi.JPG/1280px-II._Attalos_Heykeli_ve_Antalya_Saat_Kulesi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8db51ee5398ae0d1": {
    "icerik": {
     "ana_kutu": [
@@ -84894,6 +85316,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Competition_Drag_Racing.jpg/1280px-Competition_Drag_Racing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "96454cad4e9202db": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "gömlek"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Numan Kurtulmuş'un yakın plan vesikalık veya toplantı portresi",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "haber",
+     "portre"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      39,
+      178,
+      770,
+      797
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0fec3c951fe1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana öznenin net ve yakın plan portresi, arşiv görseli olarak kullanılabilir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "protesto",
+       "kalabalik sokak"
+      ]
+     },
+     "t": "2026-11-16T14:13:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8c0733369a959696",
+    "sha": "3f437505b0528944a0988cba"
+   },
+   "t": "2026-11-16T14:13:03+03:00",
+   "teknik": {
+    "doygunluk": 35.6,
+    "inen": [
+     500,
+     667
+    ],
+    "karanlik_oran": 0.063,
+    "keskinlik": 678,
+    "kontrast": 68,
+    "medyan": 120,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855501%29_%28cropped%29.jpg/1280px-Speaker_of_the_Grand_National_Assembly_of_Turkey_comes_to_the_M%C3%A4jilis_%2855501%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "966febd4dd80327f": {
    "icerik": {
@@ -103290,6 +103799,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg/1280px-HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b74d299d8da658b4": {
+   "ozet": {
+    "dh": "2f2ef9b396c5d9d9",
+    "sha": "6f87015aa0a7c993ce4f10a3"
+   },
+   "t": "2026-11-16T14:12:54+03:00",
+   "teknik": {
+    "doygunluk": 13.7,
+    "inen": [
+     500,
+     339
+    ],
+    "karanlik_oran": 0.477,
+    "keskinlik": 1175,
+    "kontrast": 61,
+    "medyan": 58,
+    "parlaklik": 77,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Informal_Meeting_of_EU_Tourism_Ministers_Arrival_%2839527730154%29.jpg/1280px-Informal_Meeting_of_EU_Tourism_Ministers_Arrival_%2839527730154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b752a158f602df84": {
    "icerik": {
     "ana_kutu": [
@@ -111993,6 +112523,35 @@
     ]
    },
    "iliski": {
+    "r1:0fec3c951fe1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ana özne olan Numan Kurtulmuş fotoğrafta yok, farklı uluslararası delegelerin olduğu genel bir toplantı masası.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "protesto",
+       "kalabalik sokak"
+      ]
+     },
+     "t": "2026-11-16T14:13:03+03:00"
+    },
     "r1:11845e21c4b5:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -112023,27 +112582,6 @@
       "yasak": []
      },
      "t": "2026-11-13T15:29:59+03:00"
-    },
-    "r1:1d1e3fc9b714:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf farklı bir uluslararası toplantıya ait olup yabancı tabelalar içerdiğinden futbol haberiyle tamamen uyumsuz.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T15:14:51+03:00"
     },
     "r1:5f6fd2e5edd2:konu": {
      "d": {
@@ -112350,7 +112888,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-13T16:05:01+03:00",
+   "t": "2026-11-16T14:13:03+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -114366,6 +114904,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1575997828720-e14e56396cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c2NpZW5jZSUyMGV4aGliaXRpb258ZW58MXwwfHx8MTc5NDEzNTg3NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "cbb4828253d3ff90": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "bayrak",
+     "duvar pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki erkek takım elbiseli siyasetçi bayraklar önünde ayakta duruyor",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset",
+     "diplomasi",
+     "ikili görüşme"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      314,
+      287,
+      417
+     ],
+     [
+      243,
+      595,
+      431,
+      695
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0fec3c951fe1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Numan Kurtulmuş net şekilde görünüyor ancak başka bir yabancı yetkiliyle ve farklı bir mekanda çekilmiş arşiv karesi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "protesto",
+       "kalabalik sokak"
+      ]
+     },
+     "t": "2026-11-16T14:13:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9cbca4d464646c69",
+    "sha": "2f91579d933781c6a1d95da8"
+   },
+   "t": "2026-11-16T14:13:03+03:00",
+   "teknik": {
+    "doygunluk": 54.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.339,
+    "keskinlik": 2111,
+    "kontrast": 56,
+    "medyan": 93,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Numan_Kurtulmu%C5%9F_and_Jerry_Buttimer.jpg/1280px-Numan_Kurtulmu%C5%9F_and_Jerry_Buttimer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cc35c1c0bd8134ba": {
    "icerik": {
@@ -121277,6 +121909,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0fec3c951fe1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kuaförde saç yapılan bir kare olup haberle ve siyasi görüşmeyle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "protesto",
+       "kalabalik sokak"
+      ]
+     },
+     "t": "2026-11-16T14:13:03+03:00"
+    },
     "r1:2f03c5acfe97:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -121512,7 +122173,7 @@
     "dh": "a33072e1f1f0626b",
     "sha": "45c031fbe2b6040ae6d7855c"
    },
-   "t": "2026-11-13T16:05:01+03:00",
+   "t": "2026-11-16T14:13:03+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -123023,6 +123684,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Antalya_Airport_%28AYT%29_Turkey_-_2022.jpg/1280px-Antalya_Airport_%28AYT%29_Turkey_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "de7337a7c58adf13": {
+   "ozet": {
+    "dh": "674f4b2bb3b1b1b4",
+    "sha": "99b84764dcf14189fef2c55c"
+   },
+   "t": "2026-11-16T14:12:53+03:00",
+   "teknik": {
+    "doygunluk": 60.9,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.474,
+    "keskinlik": 904,
+    "kontrast": 47,
+    "medyan": 52,
+    "parlaklik": 71,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/High-level_Meeting_of_the_Ministers_of_Tourism_of_the_EU_member_states_%22Tourism_and_economic_growth%22_Handshake_%2838428157830%29.jpg/1280px-High-level_Meeting_of_the_Ministers_of_Tourism_of_the_EU_member_states_%22Tourism_and_economic_growth%22_Handshake_%2838428157830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "de8f3f94de3f9513": {
    "icerik": {
@@ -127697,6 +128379,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0fec3c951fe1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin siyasi görüşmeyle ilgisi olmayan bir baraj şantiyesi alanını göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T14:13:11+03:00"
+    },
     "r1:3edc78e77487:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -127769,7 +128477,7 @@
     "dh": "0a930e8f474ce78f",
     "sha": "31aaffb8dc49409a83591989"
    },
-   "t": "2026-11-13T11:59:14+03:00",
+   "t": "2026-11-16T14:13:11+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -130575,6 +131283,83 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Women_making_manti.jpg/1280px-Women_making_manti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ecf1b8f32238b53e": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "çadır",
+     "aydınlatma direği",
+     "flama"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda yağlı güreş yapan iki pehlivan ve izleyiciler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "güreş haberi",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "askerlik haberi",
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2d2e7899dc15:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber askere giden bir pehlivanla ilgili, görselde ise yağlı güreş müsabakası var.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sivil kiyafet disinda baska spor dallari"
+      ]
+     },
+     "t": "2026-11-16T14:14:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "23c731b1396c6a1f",
+    "sha": "2d54944c02e11bfc33c4fb7e"
+   },
+   "t": "2026-11-16T14:14:48+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.237,
+    "keskinlik": 2901,
+    "kontrast": 79,
+    "medyan": 179,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Oil_wrestling.jpg/1280px-Oil_wrestling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ed372a22b2e75288": {
    "icerik": {
