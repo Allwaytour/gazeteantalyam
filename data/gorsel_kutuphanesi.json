@@ -9303,6 +9303,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/New-official-photo-of-the-governors-office_5540962930_o.jpg/1280px-New-official-photo-of-the-governors-office_5540962930_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0fe5fb06b182fe6a": {
+   "ozet": {
+    "dh": "962e1f2f0f0e3fc0",
+    "sha": "97059c6d4b9236fbddbfedd6"
+   },
    "t": "2026-11-08T12:10:57+03:00",
    "teknik": {
     "doygunluk": 34.1,
@@ -19189,6 +19193,117 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Grape_molasses.jpg/1280px-Grape_molasses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "20aea919e23fc15f": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     240,
+     1000,
+     860
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "gelinlik",
+     "çiçek buketi",
+     "askı",
+     "gömlek",
+     "pantolon"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Beyaz ahşap kapı önünde poz veren gelin ve damat.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "evlilik haberi",
+     "düğün haberi",
+     "mutlu çift"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "maç raporu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      360,
+      480,
+      500
+     ],
+     [
+      190,
+      510,
+      430,
+      650
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0a8a91facf2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili düğün fotoğrafı olarak kullanılabilir ancak mekân salon değil.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       240,
+       1000,
+       860
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f2b292275576139",
+    "sha": "8837c95ed29bb01581904cfa"
+   },
+   "t": "2026-11-16T12:43:59+03:00",
+   "teknik": {
+    "doygunluk": 7.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 373,
+    "kontrast": 34,
+    "medyan": 217,
+    "parlaklik": 203,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1571955207982-76d0451092ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YnJpZGUlMjBhbmQlMjBncm9vbSUyMGluZG9vcnxlbnwxfDB8fHwxNzk0ODIyMjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "20b2bc04c56972e6": {
    "icerik": {
     "ana_kutu": [
@@ -24461,6 +24576,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Accent_Guns_et_Loans_Highland_Heights_Memphis_TN_2013-04-14_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "28abc45e0e5f1910": {
+   "ozet": {
+    "dh": "1990973337370727",
+    "sha": "33d79940846f9785d5a47765"
+   },
+   "t": "2026-11-16T12:42:59+03:00",
+   "teknik": {
+    "doygunluk": 48.1,
+    "inen": [
+     800,
+     533
+    ],
+    "karanlik_oran": 0.789,
+    "keskinlik": 987,
+    "kontrast": 69,
+    "medyan": 7,
+    "parlaklik": 40,
+    "s": "t1"
+   },
+   "url": "/images/kurum/700211c59e43400c.jpg"
+  },
   "28eef1245aab9086": {
    "ozet": {
     "dh": "04860e0f0f0f0cac",
@@ -24520,6 +24656,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0a8a91facf2f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Alanya limanında demirlemiş bir yolcu gemisi yer almaktadır, düğün haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": false
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:46+03:00"
+    },
     "r1:3f321bd35c26:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24756,36 +24922,6 @@
      },
      "t": "2026-11-11T09:10:59+03:00"
     },
-    "r1:dba873c695d9:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta kruvaziyer gemi ve liman görülüyor, spor tesisi ve sporcular yok.",
-      "gerekli": [
-       {
-        "unsur": "spor tesisi",
-        "var": false
-       },
-       {
-        "unsur": "sporcular",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-10T09:36:34+03:00"
-    },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24845,7 +24981,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-15T12:11:05+03:00",
+   "t": "2026-11-16T12:43:46+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -43037,6 +43173,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cost_of_Electricity_by_Metropolitan_Area.webp/1280px-Cost_of_Electricity_by_Metropolitan_Area.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4bb15fafa9184c8b": {
+   "ozet": {
+    "dh": "3f3f26beb2b5b5b7",
+    "sha": "6751cf2a17aebc11bd195505"
+   },
+   "t": "2026-11-16T12:42:59+03:00",
+   "teknik": {
+    "doygunluk": 36.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.516,
+    "keskinlik": 1418,
+    "kontrast": 48,
+    "medyan": 48,
+    "parlaklik": 62,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Actors_wait_to_get_on_stage._Traditional_Goan_Konkani_play%2C_from_the_zomnivoilo_fell_%28stageless_play%29%2C_staged_in_Panjim%2C_Goa_in_Feb_2023_10.jpg/1280px-Actors_wait_to_get_on_stage._Traditional_Goan_Konkani_play%2C_from_the_zomnivoilo_fell_%28stageless_play%29%2C_staged_in_Panjim%2C_Goa_in_Feb_2023_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "4bb65e3d86007a0b": {
    "icerik": {
     "ana_kutu": [
@@ -55130,6 +55287,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2022_National_Book_Festival_%2852343829759%29.jpg/1280px-2022_National_Book_Festival_%2852343829759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6289fe4b2f7ff3ff": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kıyafet"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Üç kişilik aile portresi, stüdyo çekimi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel_haber",
+     "tiyatro_etkinligi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      250,
+      100,
+      650,
+      300
+     ],
+     [
+      30,
+      380,
+      450,
+      580
+     ],
+     [
+      260,
+      650,
+      650,
+      850
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d8b16013275e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir aile portresi, güncel tiyatro haberiyle hiçbir görsel bağ kurmuyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c8cc696b4f4e63b2",
+    "sha": "ca9c3128bd28036218c25f5b"
+   },
+   "t": "2026-11-16T12:43:33+03:00",
+   "teknik": {
+    "doygunluk": 23.7,
+    "inen": [
+     500,
+     354
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 1258,
+    "kontrast": 57,
+    "medyan": 82,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Portrait_of_the_Raynore_Family%2C_stage_actors_%28SAYRE_13429%29.jpg/1280px-Portrait_of_the_Raynore_Family%2C_stage_actors_%28SAYRE_13429%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "62ca1ebbc369ec3a": {
    "icerik": {
     "ana_kutu": [
@@ -56922,6 +57176,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%287%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "657ef0b7f8903489": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     320,
+     900,
+     550
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "gelinlik",
+     "takım elbise",
+     "perde",
+     "halı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pencere önünde lüks perdeler arasında birbirine sarılan gelin ve damat.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "düğün haberi",
+     "evlilik",
+     "romantik portre"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç",
+     "kaza haberi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      240,
+      430,
+      350,
+      490
+     ],
+     [
+      220,
+      480,
+      370,
+      530
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0a8a91facf2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyah-beyaz olması güncel bir haberle estetik olarak uyumsuz kaçabilir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       320,
+       900,
+       550
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "16171717131f1f07",
+    "sha": "bb0723510e5642954d5bd633"
+   },
+   "t": "2026-11-16T12:43:59+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.389,
+    "keskinlik": 1898,
+    "kontrast": 94,
+    "medyan": 82,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1520342868574-5fa3804e551c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8YnJpZGUlMjBhbmQlMjBncm9vbSUyMGluZG9vcnxlbnwxfDB8fHwxNzk0ODIyMjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "65b163334183120d": {
    "icerik": {
@@ -71554,6 +71918,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0a8a91facf2f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Alanya'da yamaç paraşütü yapan birini göstermektedir, düğün haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": false
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:46+03:00"
+    },
     "r1:34f67bb29294:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -71742,36 +72136,6 @@
      },
      "t": "2026-11-12T18:03:37+03:00"
     },
-    "r1:d14cc213345b:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber medya buluşması ile ilgili, paraşüt görseli konuyla tamamen alakasızdır.",
-      "gerekli": [
-       {
-        "unsur": "gazeteciler",
-        "var": false
-       },
-       {
-        "unsur": "toplantı masası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T20:33:32+03:00"
-    },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -71887,7 +72251,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-16T11:13:20+03:00",
+   "t": "2026-11-16T12:43:46+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -72403,6 +72767,98 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Modern_field_clearance_cairn_next_to_the_Gorseddau_Tramway_-_geograph.org.uk_-_1815085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "81e3a94cc384f14e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "çadır",
+     "minyatür figürler",
+     "havuz",
+     "kuğular"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Timur dönemine ait düğün ve şenlik kutlamalarını gösteren tarihi minyatür çizim.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihî makale",
+     "sanat tarihi",
+     "minyatür incelemesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel düğün haberi",
+     "magazin",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0a8a91facf2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir minyatür çizimidir, güncel bir yerel düğün haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": false
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c2e6844224ba9818",
+    "sha": "35cea950b701b68365507d1e"
+   },
+   "t": "2026-11-16T12:43:59+03:00",
+   "teknik": {
+    "doygunluk": 33.2,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 3705,
+    "kontrast": 65,
+    "medyan": 129,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Wedding_of_Timurid_Princes.png/1280px-Wedding_of_Timurid_Princes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "81ed53dacdf636d3": {
    "icerik": {
@@ -76923,6 +77379,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg/1280px-Christchurch_Art_Gallery%2C_Christchurch%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8a569f041f593e00": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "gelinlik",
+     "çiçek buketleri",
+     "yüzük",
+     "gömlek",
+     "pantolon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İç mekânda gelin ve damat yüzük takma töreni gerçekleştiriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "düğün haberi",
+     "evlilik töreni",
+     "nişan haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "cenaze haberi",
+     "maç haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0a8a91facf2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gelin ve damat yüzük takma anında görünüyor, düğün haberi için uygun.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f2f9d93df8cac2c",
+    "sha": "41fd5d8be2cdfabb2cfb2d33"
+   },
+   "t": "2026-11-16T12:43:59+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 523,
+    "kontrast": 63,
+    "medyan": 136,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Couple_exchanges_vows_during_a_wedding_ceremony_in_a_cozy_indoor_setting_with_guests_in_the_background.jpg/1280px-Couple_exchanges_vows_during_a_wedding_ceremony_in_a_cozy_indoor_setting_with_guests_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8a5d0d2382726f9d": {
    "icerik": {
@@ -86829,6 +87383,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0a8a91facf2f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir Alanya şehir ve liman manzarasıdır, evlilik haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": false
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:46+03:00"
+    },
     "r1:34f67bb29294:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -87129,37 +87713,6 @@
      },
      "t": "2026-11-12T00:10:33+03:00"
     },
-    "r1:f2bac7133776:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın turistik merkezini ve sahilini net bir şekilde göstererek haberle tam uyum sağlıyor.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya turistik bölge",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       100,
-       50,
-       900,
-       950
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T18:03:30+03:00"
-    },
     "r1:fffbaa589700:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -87193,7 +87746,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-14T12:18:17+03:00",
+   "t": "2026-11-16T12:43:46+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -90400,6 +90953,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Konyaalt%C4%B1_Beach_with_railings.jpg/1280px-Konyaalt%C4%B1_Beach_with_railings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a3ef04b29598ec3b": {
+   "ozet": {
+    "dh": "112b130f2f2f854c",
+    "sha": "da08c949417e169162223b86"
+   },
+   "t": "2026-11-16T12:42:59+03:00",
+   "teknik": {
+    "doygunluk": 67.2,
+    "inen": [
+     500,
+     309
+    ],
+    "karanlik_oran": 0.681,
+    "keskinlik": 1601,
+    "kontrast": 56,
+    "medyan": 10,
+    "parlaklik": 43,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/A_scene_from_the_musical_play_%22Hello%2C_Dolly%21%22_by_Lee_University_Theatre_01.jpg/1280px-A_scene_from_the_musical_play_%22Hello%2C_Dolly%21%22_by_Lee_University_Theatre_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a4167a8075ce1625": {
    "icerik": {
@@ -96795,6 +97369,41 @@
      },
      "t": "2026-11-08T12:11:00+03:00"
     },
+    "r1:d8b16013275e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güncel bir tiyatro sahnesi performansı, haberin içeriğiyle tam uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "tiyatro sahneleri",
+        "var": true
+       },
+       {
+        "unsur": "oyuncular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:33+03:00"
+    },
     "r1:f86d6dc53be1:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -96821,7 +97430,7 @@
     "dh": "190913026a536f27",
     "sha": "15101eb0c01f616e67e329ac"
    },
-   "t": "2026-11-13T13:33:18+03:00",
+   "t": "2026-11-16T12:43:33+03:00",
    "teknik": {
     "doygunluk": 64.2,
     "inen": [
@@ -104747,6 +105356,99 @@
    },
    "url": "https://images.unsplash.com/photo-1763751626848-47f2393830d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c3RhZGl1bSUyMGdhdGUlMjBmbG9yYWwlMjBhcnJhbmdlbWVudHxlbnwxfDB8fHwxNzk0MTQzMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "bcec3823b02f321b": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     270,
+     600,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "maket ev",
+     "figürler",
+     "tepsi",
+     "minder",
+     "halı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzedeki geleneksel Alanya düğününü canlandıran maket sahnesi.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kulturel haberler",
+     "muze tanitimi",
+     "tarih haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel dugun haberleri",
+     "magazin",
+     "canli olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0a8a91facf2f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber güncel bir düğünle ilgilidir, fotoğraf ise müzedeki cansız mankenlerden oluşan bir makettir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": false
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-16T12:43:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "37373316105a5175",
+    "sha": "05e374e1c41a023c968a7dd5"
+   },
+   "t": "2026-11-16T12:43:46+03:00",
+   "teknik": {
+    "doygunluk": 14.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.226,
+    "keskinlik": 2691,
+    "kontrast": 57,
+    "medyan": 93,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Traditional_alanya_wedding.jpg/1280px-Traditional_alanya_wedding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bd0141b02d1acd16": {
    "icerik": {
     "ana_kutu": null,
@@ -110727,6 +111429,10 @@
    "url": "https://images.unsplash.com/photo-1792767924135-ca8d50d276dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVjeWNsZWQlMjBhcnQlMjBzY3VscHR1cmV8ZW58MXwwfHx8MTc5NDA1MTEzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c8dfb75ab8255bfb": {
+   "ozet": {
+    "dh": "4dcd0b334d4d4d55",
+    "sha": "2510f1478eee51207039bc09"
+   },
    "t": "2026-11-08T12:10:56+03:00",
    "teknik": {
     "doygunluk": 60.1,
@@ -124539,6 +125245,88 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Handshake_between_Murat_Kurum%2C_4th%2C_and_Wopke_Hoekstra%2C_5th_%28from_right_to_left%29.jpg/1280px-Handshake_between_Murat_Kurum%2C_4th%2C_and_Wopke_Hoekstra%2C_5th_%28from_right_to_left%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e4e1f5e718ffd065": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     500,
+     750,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "gitar",
+     "eşek",
+     "sahne platformu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada, tarihi bir yapının önünde gösteri yapan gezgin oyuncular.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": true,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarih",
+     "sanat_tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel_haber",
+     "tiyatro_etkinligi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d8b16013275e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir gravür, güncel tiyatro haberi için uygun değildir ve yasaklı açık hava unsuru içerir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava"
+      ]
+     },
+     "t": "2026-11-16T12:43:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b6aaa6f4fcdcf6b2",
+    "sha": "e331ea770df9e7905e1fabfc"
+   },
+   "t": "2026-11-16T12:43:33+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     500,
+     428
+    ],
+    "karanlik_oran": 0.117,
+    "keskinlik": 4059,
+    "kontrast": 57,
+    "medyan": 142,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/A_group_of_itinerant_actors_performing_on_stage_in_an_attemp_Wellcome_V0016176.jpg/1280px-A_group_of_itinerant_actors_performing_on_stage_in_an_attemp_Wellcome_V0016176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e4f7218a8515f968": {
    "icerik": {
@@ -149136,7 +149924,7 @@
    "gosterim_ad": "tiyatro gösterisi",
    "ilk_kabul": "2026-11-08T12:11:00+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Samiul Haque Bhuyan / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -149157,6 +149945,8 @@
     "dekor",
     "kostüm",
     "oyuncu",
+    "oyuncular",
+    "tiyatro sahneleri",
     "tiyatro sahnesi"
    ],
    "kucuk": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=400",
@@ -149174,7 +149964,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T12:11:00+03:00",
+   "son_kabul": "2026-11-16T12:43:33+03:00",
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
