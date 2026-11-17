@@ -126228,6 +126228,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg/1280px-Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d9a719e9f4aa0eac": {
+   "icerik": {
+    "ana_kutu": [
+     69,
+     0,
+     1000,
+     891
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mimari maket",
+     "tişört"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir erkek elinde mimari makale tutuyor.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "kentsel tasarım",
+     "proje tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      69,
+      0,
+      521,
+      403
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f03bfc020d3c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Proje tanıtımı için temsilî bir maket gösteriliyor ancak toplantı salonu ve konuşmacı eksik.",
+      "gerekli": [
+       {
+        "unsur": "toplanti salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       448,
+       477,
+       866
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T16:24:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ca848c9c2c60080e",
+    "sha": "9a96a5d4782a73d089f9d7fc"
+   },
+   "t": "2026-11-17T16:25:08+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 586,
+    "kontrast": 84,
+    "medyan": 147,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Santiago_Caprio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "d9b4a2ed3d32f9d3": {
    "icerik": {
     "ana_kutu": [
@@ -133082,6 +133184,111 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_Your_Stripes_change_in_temperature_graphic_for_Antalya%2C_Turkey_with_labels.png/1280px-Show_Your_Stripes_change_in_temperature_graphic_for_Antalya%2C_Turkey_with_labels.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e417a89bcd2a09e2": {
+   "icerik": {
+    "ana_kutu": [
+     338,
+     745,
+     990,
+     910
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "kürsü",
+     "mikrofon",
+     "projeksiyon ekranı",
+     "sandalye",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kürsüde konuşma yapan kişi ve arkasında seminer afişi bulunan bir toplantı salonu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "seminer haberi",
+     "konferans haberi",
+     "proje tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "Alanya Belediyesi haberi",
+     "yerel yönetim haberi",
+     "Türkiye içi etkinlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      338,
+      768,
+      475,
+      845
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f03bfc020d3c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Bangladeş'teki bir seminere ait, Alanya Belediyesi'nin projesiyle ilgisi yok, yanıltıcı yer unsurları içeriyor.",
+      "gerekli": [
+       {
+        "unsur": "toplanti salonu",
+        "var": true
+       },
+       {
+        "unsur": "konusmaci",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       338,
+       745,
+       990,
+       910
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T16:25:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f2da727a6b59616",
+    "sha": "82a8c97285a24894cd481011"
+   },
+   "t": "2026-11-17T16:25:08+03:00",
+   "teknik": {
+    "doygunluk": 40.9,
+    "inen": [
+     500,
+     272
+    ],
+    "karanlik_oran": 0.183,
+    "keskinlik": 2970,
+    "kontrast": 84,
+    "medyan": 140,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Nasrul_Hamid_at_Geo-Information_Seminar%2C_Dhaka%2C_2022-12-07_%28PID-0019616%29.jpg/1280px-Nasrul_Hamid_at_Geo-Information_Seminar%2C_Dhaka%2C_2022-12-07_%28PID-0019616%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e459966f2c0aeeb3": {
    "icerik": {
     "ana_kutu": [
@@ -137919,40 +138126,6 @@
      },
      "t": "2026-11-13T09:28:18+03:00"
     },
-    "r1:3e34108c41fc:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Tarihi bir evi gosterir, atli terapi haberiyle hicbir iliskisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "at",
-        "var": false
-       },
-       {
-        "unsur": "binicilik",
-        "var": false
-       },
-       {
-        "unsur": "ozel birey",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T18:35:19+03:00"
-    },
     "r1:55911e9015f3:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -138237,13 +138410,43 @@
       "yasak": []
      },
      "t": "2026-11-13T16:59:21+03:00"
+    },
+    "r1:f03bfc020d3c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ev görseli, iklim krizine karşı yürütülen uluslararası panel haberinin içeriğini yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "toplanti salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T16:24:18+03:00"
     }
    },
    "ozet": {
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-17T11:54:12+03:00",
+   "t": "2026-11-17T16:24:18+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -141277,40 +141480,6 @@
      },
      "t": "2026-11-13T09:28:13+03:00"
     },
-    "r1:3e34108c41fc:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediye tesisi gosterilse de haberin konusu olan atli terapiyle ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "at",
-        "var": false
-       },
-       {
-        "unsur": "binicilik",
-        "var": false
-       },
-       {
-        "unsur": "ozel birey",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T18:35:19+03:00"
-    },
     "r1:55911e9015f3:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -141587,13 +141756,43 @@
       "yasak": []
      },
      "t": "2026-11-13T16:59:21+03:00"
+    },
+    "r1:f03bfc020d3c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber uluslararası bir toplantıyı anlatıyor; bu park fotoğrafı toplantıyı yansıtmadığı için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "toplanti salonu",
+        "var": false
+       },
+       {
+        "unsur": "konusmaci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T16:24:18+03:00"
     }
    },
    "ozet": {
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-17T11:54:12+03:00",
+   "t": "2026-11-17T16:24:18+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
