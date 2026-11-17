@@ -8505,6 +8505,92 @@
    },
    "url": "https://images.unsplash.com/photo-1759272840538-ae4b07214c71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29udGFpbmVyJTIwcG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTQ3MzIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "0dddb1f01c28ecc6": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "antik kabartma",
+     "mermer heykel",
+     "friz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Müzesi'ndeki antik frizde hayvan figürleri ve mitolojik kabartmalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "arkeoloji haberi",
+     "tarih haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "konser haberi",
+     "müzik haberi",
+     "güncel etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:69e045f21d02:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik heykel detayı, senfoni orkestrasının kuruluş yıl dönümü konseri haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": false
+       },
+       {
+        "unsur": "müzisyenler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:23:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1d4e69d88cc3203a",
+    "sha": "001792b609d47bb5efa1d2d4"
+   },
+   "t": "2026-11-17T11:23:32+03:00",
+   "teknik": {
+    "doygunluk": 12.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.107,
+    "keskinlik": 548,
+    "kontrast": 37,
+    "medyan": 106,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Antalya_Museum_Frieze_of_frons_pulpiti_from_Perge_theatre_5056.jpg/1280px-Antalya_Museum_Frieze_of_frons_pulpiti_from_Perge_theatre_5056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0e0c48537be1b2e0": {
    "icerik": {
     "ana_kutu": [
@@ -16922,6 +17008,122 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Screen_SunExpress_1331_to_Trabzon.jpg/1280px-Screen_SunExpress_1331_to_Trabzon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1b0e18366527af22": {
+   "icerik": {
+    "ana_kutu": [
+     32,
+     85,
+     1000,
+     997
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "çay fincanı",
+     "pasta",
+     "koltuk",
+     "sehpa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Oturma odasında sohbet edip çay içen yaşlı arkadaşlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yaşlılar",
+     "arkadaşlık",
+     "sosyal yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      32,
+      239,
+      324,
+      370
+     ],
+     [
+      188,
+      471,
+      797,
+      755
+     ],
+     [
+      118,
+      603,
+      930,
+      997
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1c25f5ed8da9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yaşlı arkadaşların birlikte çay içip sohbet ettiği buluşma temasını çok iyi yansıtan bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı erkekler",
+        "var": true
+       },
+       {
+        "unsur": "arkadaş grubu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       32,
+       85,
+       1000,
+       997
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:25:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6645cdc7667471d7",
+    "sha": "4b991d29ae11d005884cc3a1"
+   },
+   "t": "2026-11-17T11:25:16+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 735,
+    "kontrast": 54,
+    "medyan": 117,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1758691031152-2a727e97e6b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8b2xkJTIwZnJpZW5kcyUyMGhhdmluZyUyMGNvZmZlZXxlbnwxfDB8fHwxNzk0OTAzODY2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1b1ac889e33950c8": {
    "icerik": {
@@ -62708,6 +62910,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Oakley_sunglasses_at_volleyball_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "6be8e37fc4f89e76": {
+   "ozet": {
+    "dh": "a9ccb9b1072c0c4d",
+    "sha": "20ee8b2bd97ed17a195373b0"
+   },
+   "t": "2026-11-17T11:23:15+03:00",
+   "teknik": {
+    "doygunluk": 56.9,
+    "inen": [
+     500,
+     236
+    ],
+    "karanlik_oran": 0.495,
+    "keskinlik": 4326,
+    "kontrast": 54,
+    "medyan": 50,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/CBSO_Youth_Orchestra_in_Symphony_Hall_-_geograph.org.uk_-_7422392.jpg/1280px-CBSO_Youth_Orchestra_in_Symphony_Hall_-_geograph.org.uk_-_7422392.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6c6dc545a33f255d": {
    "icerik": {
     "ana_kutu": [
@@ -72224,6 +72447,92 @@
     "s": "t1"
    },
    "url": "/images/kurum/5fad426ee1c53f4c.jpg"
+  },
+  "7ef0168f5d4dcce0": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "antik kabartma",
+     "mermer heykel",
+     "friz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Müzesi'ndeki antik friz üzerinde mitolojik kabartmalar ve figürler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "tarihi eser haberi",
+     "arkeoloji haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "konser haberi",
+     "müzik haberi",
+     "güncel etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:69e045f21d02:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik müze kalıntısı fotoğrafı, çocuk senfoni orkestrasının konser haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": false
+       },
+       {
+        "unsur": "müzisyenler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:23:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a56d3395c9cb9cae",
+    "sha": "d6281181a739330c5ca2476a"
+   },
+   "t": "2026-11-17T11:23:32+03:00",
+   "teknik": {
+    "doygunluk": 8.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 950,
+    "kontrast": 27,
+    "medyan": 111,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Antalya_Museum_Frieze_of_frons_pulpiti_from_Perge_theatre_5042.jpg/1280px-Antalya_Museum_Frieze_of_frons_pulpiti_from_Perge_theatre_5042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7efb475c04614e1b": {
    "icerik": {
@@ -86842,6 +87151,100 @@
    },
    "url": "https://images.unsplash.com/photo-1593453917652-9bc01f9f9c2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8cGFwZXIlMjBsb3R0ZXJ5JTIwdGlja2V0JTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MzA1MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "95dfb3e1f4e5ae3e": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 35,
+    "nesneler": [
+     "müzik aletleri",
+     "kolsan",
+     "tribün",
+     "pankart",
+     "müzisyen çocuklar",
+     "koltuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Stadyumda müzik aletleriyle sahne alan çocuk orkestrası ve tribündeki izleyiciler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "orkestra haberi",
+     "kültür sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçı haberi",
+     "siyaset haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:69e045f21d02:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Orkestra net şekilde görülüyor ancak bir basketbol stadyumunda çekilmiş olması bağlamla uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "müzisyenler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       212,
+       515,
+       660
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": true,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:23:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "67e470d62c8ce4e1",
+    "sha": "cba9443d699324810998652a"
+   },
+   "t": "2026-11-17T11:23:32+03:00",
+   "teknik": {
+    "doygunluk": 27.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.284,
+    "keskinlik": 3908,
+    "kontrast": 64,
+    "medyan": 75,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Do%C4%9Fu%C5%9F_%C3%87ocuk_Senfoni_Orkestras%C4%B1_at_Fenerbah%C3%A7e_Men%27s_Basketball_vs_FC_Barcelona_B%C3%A0squet_EuroLeague_20180126.jpg/1280px-Do%C4%9Fu%C5%9F_%C3%87ocuk_Senfoni_Orkestras%C4%B1_at_Fenerbah%C3%A7e_Men%27s_Basketball_vs_FC_Barcelona_B%C3%A0squet_EuroLeague_20180126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "95f8e7c68b00ed8b": {
    "icerik": {
     "ana_kutu": [
@@ -101454,6 +101857,32 @@
      },
      "t": "2026-11-15T14:11:13+03:00"
     },
+    "r1:380235b7bffa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uyuşturucu davası haberi için yangın fotoğrafı tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:24:10+03:00"
+    },
     "r1:94df9acbb39d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -101520,7 +101949,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-16T17:22:12+03:00",
+   "t": "2026-11-17T11:24:10+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -102357,6 +102786,122 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/A_high_school_classroom_in_North_Carolina_04.jpg/1280px-A_high_school_classroom_in_North_Carolina_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b2fb1d999490f27f": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     0,
+     1000,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "satranç tahtası",
+     "fincan",
+     "koltuk",
+     "sehpa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Oturma odasında masa oyunları oynayan yaşlı insanlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yaşlılar",
+     "arkadaşlık",
+     "sosyal yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      159,
+      210,
+      442,
+      353
+     ],
+     [
+      196,
+      329,
+      831,
+      564
+     ],
+     [
+      140,
+      631,
+      874,
+      929
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1c25f5ed8da9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yaşlı arkadaşların bir araya gelip vakit geçirdiğini gösteren temsilî bir kare.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı erkekler",
+        "var": true
+       },
+       {
+        "unsur": "arkadaş grubu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       0,
+       1000,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:25:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3a28e8e093b36326",
+    "sha": "1b859bece1bdd4eb83626945"
+   },
+   "t": "2026-11-17T11:25:16+03:00",
+   "teknik": {
+    "doygunluk": 28.2,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 753,
+    "kontrast": 56,
+    "medyan": 139,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1758691031288-eda755f22a94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2VuaW9yJTIwZnJpZW5kcyUyMGdhdGhlcmluZyUyMGluZG9vcnN8ZW58MXwwfHx8MTc5NDkwMzg2NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b301cdfd302400c3": {
    "icerik": {
     "ana_kutu": [
@@ -102717,6 +103262,32 @@
      },
      "t": "2026-11-15T14:11:13+03:00"
     },
+    "r1:380235b7bffa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde adliye binası gerekli ancak bu fotoğraf rastgele bir bina cephesidir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:24:10+03:00"
+    },
     "r1:40cf4cb0f71d:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -102905,7 +103476,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-16T17:22:12+03:00",
+   "t": "2026-11-17T11:24:10+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -130459,6 +131030,123 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Electricity_prices.webp/1280px-Electricity_prices.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e5978443c5778875": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     0,
+     1000,
+     963
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "satranç tahtası",
+     "finis",
+     "koltuk",
+     "sehpa",
+     "kitaplık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Oturma odasında satranç oynayan yaşlı arkadaşlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yaşlılar",
+     "arkadaşlık",
+     "sosyal yaşam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      133,
+      276,
+      421,
+      421
+     ],
+     [
+      191,
+      401,
+      804,
+      642
+     ],
+     [
+      221,
+      461,
+      893,
+      960
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:1c25f5ed8da9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yaşlı erkeklerin bir arada arkadaşlık ortamını gösteren uygun bir temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı erkekler",
+        "var": true
+       },
+       {
+        "unsur": "arkadaş grubu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       133,
+       0,
+       1000,
+       963
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:25:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9c96f3c64c6da326",
+    "sha": "e1b9516085c7e41241f33675"
+   },
+   "t": "2026-11-17T11:25:16+03:00",
+   "teknik": {
+    "doygunluk": 29.3,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.132,
+    "keskinlik": 747,
+    "kontrast": 55,
+    "medyan": 128,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1758691031235-9db55497d898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c2VuaW9yJTIwZnJpZW5kcyUyMGdhdGhlcmluZyUyMGluZG9vcnN8ZW58MXwwfHx8MTc5NDkwMzg2NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "e5b764260abba8db": {
    "icerik": {
