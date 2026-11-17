@@ -116400,6 +116400,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Clinton_Babacan.JPG/1280px-Clinton_Babacan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c57378a7ff332548": {
+   "icerik": {
+    "ana_kutu": [
+     65,
+     308,
+     1000,
+     663
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "telsiz",
+     "mont"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kalabalık arasında tasmalı telsiz tutan kişi ve arkası dönük insanlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sokak olayları",
+     "toplumsal eylem"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakaları",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      65,
+      3,
+      237,
+      116
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:662607cc502c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski bir gösteriden kalmadır, haberdeki operasyonla ve güncel durumla uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": false
+       },
+       {
+        "unsur": "operasyon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T21:25:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8a86dcdca6bc3c3e",
+    "sha": "a63befce872677311183dea9"
+   },
+   "t": "2026-11-17T21:25:50+03:00",
+   "teknik": {
+    "doygunluk": 23.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.251,
+    "keskinlik": 862,
+    "kontrast": 52,
+    "medyan": 75,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Demonstrations_polis_1221221.jpg/1280px-Demonstrations_polis_1221221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c593d81c36af9b3f": {
    "icerik": {
     "ana_kutu": [
@@ -120975,6 +121070,38 @@
      },
      "t": "2026-11-12T09:56:27+03:00"
     },
+    "r1:2edac31facbd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yabancı bir trafik polisine aittir, jandarma TULPAR timi ile hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "motosikletli jandarma",
+        "var": false
+       },
+       {
+        "unsur": "akrobasi motosikleti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sivil trafik"
+      ]
+     },
+     "t": "2026-11-17T21:25:12+03:00"
+    },
     "r1:40cf4cb0f71d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -121150,7 +121277,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-16T13:42:27+03:00",
+   "t": "2026-11-17T21:25:12+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
