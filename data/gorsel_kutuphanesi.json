@@ -109560,6 +109560,97 @@
    },
    "url": "https://images.unsplash.com/photo-1580058572462-98e2c0e0e2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhaWwlMjBydW5uaW5nJTIwcmFjZXxlbnwxfDB8fHwxNzk0MjI3ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "baf7b6acd9ffdfd5": {
+   "icerik": {
+    "ana_kutu": [
+     114,
+     21,
+     868,
+     986
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ambulans",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çimenlik alanda park halindeki beyaz ve sarı renkli acil yardım ambulansı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberleri",
+     "acil durum haberleri",
+     "ambulans tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor müsabakası",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2c9458a8f5a4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki ambulans unsurunu temsil eder ancak yabancı bir ülkeye ait özel bir ambulans.",
+      "gerekli": [
+       {
+        "unsur": "ambulans",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       114,
+       21,
+       868,
+       986
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:25:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d2064e6c298dcc3e",
+    "sha": "d0bfbd6ed67aacbc5257fb3b"
+   },
+   "t": "2026-11-17T14:25:03+03:00",
+   "teknik": {
+    "doygunluk": 31.6,
+    "inen": [
+     500,
+     300
+    ],
+    "karanlik_oran": 0.229,
+    "keskinlik": 2908,
+    "kontrast": 69,
+    "medyan": 89,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/NETS_Ambulance_for_Emergency_Intensive_Care_for_newborns_and_children.jpg/1280px-NETS_Ambulance_for_Emergency_Intensive_Care_for_newborns_and_children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bb36e43b357239de": {
    "icerik": {
     "ana_kutu": [
@@ -119094,6 +119185,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "cc41da8cc82f2895": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     27,
+     885,
+     985
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ambulans",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çimenlik alanda arkadan görünen beyaz ve sarı renkli acil yardım ambulansı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberleri",
+     "acil durum haberleri",
+     "ambulans tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor müsabakası",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2c9458a8f5a4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki ambulans unsurunu temsil eder ancak yabancı bir ülkeye ait özel bir ambulans.",
+      "gerekli": [
+       {
+        "unsur": "ambulans",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       27,
+       885,
+       985
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:25:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b1b191b4713d0c1",
+    "sha": "56ac7e05c7d6db9eef04ef78"
+   },
+   "t": "2026-11-17T14:25:03+03:00",
+   "teknik": {
+    "doygunluk": 26.1,
+    "inen": [
+     500,
+     312
+    ],
+    "karanlik_oran": 0.181,
+    "keskinlik": 3093,
+    "kontrast": 68,
+    "medyan": 103,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/NETS_Ambulance_for_Emergency_Intensive_Care_for_newborns_and_children_01.jpg/1280px-NETS_Ambulance_for_Emergency_Intensive_Care_for_newborns_and_children_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cc592cae130e9c36": {
    "icerik": {
