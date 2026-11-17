@@ -82,7 +82,7 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1643804926339-e94f0a655185?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1560518883-ce09059eeffa?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg
-- https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alanyafromcastle.JPG/1280px-Alanyafromcastle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+- https://upload.wikimedia.org/wikipedia/commons/6/67/Alanya_kalesinden-Alanya-Antalya_-_panoramio_%281%29.jpg
 ---
 Alanya ekonomisinin can damarı olan gayrimenkul ve turizm sektörlerinde, yükselen giderler ve yasal düzenlemeler işletmeleri kararlar almaya yöneltiyor. Sektör temsilcileri, artan işletme masrafları ile vergi yüklerinin hafifletilmesi için yapısal adımlar atılması gerektiğini vurguluyor.
 

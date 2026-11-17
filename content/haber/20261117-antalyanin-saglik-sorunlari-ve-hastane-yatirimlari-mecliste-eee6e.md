@@ -81,7 +81,6 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
-- https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TBMM%2C_August_2022.jpg/1280px-TBMM%2C_August_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 - https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 ---
 Yeni Parti Antalya Milletvekili Aliye Coşar, TBMM Plan ve Bütçe Komisyonu'nda gerçekleştirilen 2027 yılı Sağlık Bakanlığı bütçe görüşmelerinde Antalya'nın sağlık alanındaki problemlerini dile getirdi. Kamu hastanelerindeki yoğun bakım kapasitesinin yetersiz kaldığını ifade eden Coşar, hastaların yer bulunamadığı gerekçesiyle özel hastanelere yönlendirildiğini ve bu durumun vatandaşların mağduriyetini artırdığını belirtti.

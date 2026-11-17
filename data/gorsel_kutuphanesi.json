@@ -44634,6 +44634,36 @@
      },
      "t": "2026-11-08T12:06:34+03:00"
     },
+    "r1:7984971985f2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta çocuklar veya etkinlik ortamı yok, sadece nehir ve kazlar var.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       },
+       {
+        "unsur": "tiyatro veya atölye ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:56:11+03:00"
+    },
     "r1:d6d2afc555e0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44665,7 +44695,11 @@
      "t": "2026-11-08T12:39:07+03:00"
     }
    },
-   "t": "2026-11-08T12:39:07+03:00",
+   "ozet": {
+    "dh": "1c79795a635b3f5b",
+    "sha": "070d69ff06f6ecdca3a4d359"
+   },
+   "t": "2026-11-17T13:56:11+03:00",
    "teknik": {
     "doygunluk": 13.6,
     "inen": [
@@ -44982,6 +45016,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2023-07-17_Agriculture_Minister_Md_Abdur_Razzaque_keynote_address_tree_sapling_distribution_planting_Rauzan_Government_College_Chattogram_%28PID-0014831%29.jpg/1280px-2023-07-17_Agriculture_Minister_Md_Abdur_Razzaque_keynote_address_tree_sapling_distribution_planting_Rauzan_Government_College_Chattogram_%28PID-0014831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4b0e40f1b7dd7fe3": {
+   "ozet": {
+    "dh": "a2d6d5d11a1fe0a5",
+    "sha": "5e8e414391c83b0e460adc95"
+   },
+   "t": "2026-11-17T13:56:17+03:00",
+   "teknik": {
+    "doygunluk": 28.4,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.227,
+    "keskinlik": 2581,
+    "kontrast": 44,
+    "medyan": 85,
+    "parlaklik": 86,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/New_normal_family_time_after_lockdown_01.jpg/1280px-New_normal_family_time_after_lockdown_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4bb15fafa9184c8b": {
    "ozet": {
@@ -58561,6 +58616,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5313945.jpg/1280px-Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5313945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6304cbf9f2430ad7": {
+   "ozet": {
+    "dh": "599a7b79798bab39",
+    "sha": "70a21a1a8dbddc84cbdae03f"
+   },
+   "t": "2026-11-17T13:56:18+03:00",
+   "teknik": {
+    "doygunluk": 31.6,
+    "inen": [
+     500,
+     210
+    ],
+    "karanlik_oran": 0.129,
+    "keskinlik": 4191,
+    "kontrast": 60,
+    "medyan": 116,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg/1280px-The_Feast_in_the_House_of_Levi_by_Paolo_Veronese_%28edited_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "631527db7d89cfa6": {
    "icerik": {
     "ana_kutu": null,
@@ -62604,6 +62680,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:7984971985f2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'yı gösterse de çocuklar ve etkinlik yerine marina manzarası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       },
+       {
+        "unsur": "tiyatro veya atölye ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:56:11+03:00"
+    },
     "r1:ad7c6748823e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -62639,7 +62745,7 @@
     "dh": "0300032c5616272b",
     "sha": "98b1f133fde3b4ff52800723"
    },
-   "t": "2026-11-14T12:19:10+03:00",
+   "t": "2026-11-17T13:56:11+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -70829,6 +70935,10 @@
      },
      "t": "2026-11-08T12:39:20+03:00"
     }
+   },
+   "ozet": {
+    "dh": "ff37fe1ca5c66031",
+    "sha": "7385b390b6f07e89b5de54c8"
    },
    "t": "2026-11-08T12:39:20+03:00",
    "teknik": {
@@ -101828,6 +101938,41 @@
     ]
    },
    "iliski": {
+    "r1:7984971985f2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sahne ve tiyatro ortamı var ancak yetişkin oyuncular yer alıyor ve yabancı bir prodüksiyon izlenimi veriyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": false
+       },
+       {
+        "unsur": "tiyatro veya atölye ortamı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       386,
+       90,
+       936,
+       779
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:56:11+03:00"
+    },
     "r1:8accc65d3e17:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -101924,7 +102069,7 @@
     "dh": "190913026a536f27",
     "sha": "15101eb0c01f616e67e329ac"
    },
-   "t": "2026-11-16T12:43:33+03:00",
+   "t": "2026-11-17T13:56:11+03:00",
    "teknik": {
     "doygunluk": 64.2,
     "inen": [
@@ -123500,6 +123645,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin-bvg-tram-ticket-machine.jpg/1280px-Berlin-bvg-tram-ticket-machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d8070cf4fff87eb8": {
+   "icerik": {
+    "ana_kutu": [
+     531,
+     747,
+     977,
+     969
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "halka",
+     "televizyon",
+     "oyuncak kutusu",
+     "pano"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı mekanda yetişkinler ve çocukların halkalarla oynadığı atölye etkinliği.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyasi haberler",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      101,
+      217,
+      260,
+      296
+     ],
+     [
+      202,
+      276,
+      296,
+      321
+     ],
+     [
+      383,
+      362,
+      451,
+      401
+     ],
+     [
+      156,
+      506,
+      574,
+      634
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:7984971985f2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk atölyesi ortamını gösteriyor ancak yabancı bir askeri/sivil ortak etkinlik olduğu için mekân ve dönem olarak habere tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       },
+       {
+        "unsur": "tiyatro veya atölye ortamı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       531,
+       747,
+       977,
+       969
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:56:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5fdb9898aa96c34d",
+    "sha": "455f94e03d1d3e3e4a963e5f"
+   },
+   "t": "2026-11-17T13:56:11+03:00",
+   "teknik": {
+    "doygunluk": 36.8,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.303,
+    "keskinlik": 2064,
+    "kontrast": 70,
+    "medyan": 93,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Flickr_-_Official_U.S._Navy_Imagery_-_Sailors_play_with_children..jpg/1280px-Flickr_-_Official_U.S._Navy_Imagery_-_Sailors_play_with_children..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d80dd940436dd6c7": {
    "ozet": {
     "dh": "902c66160d99851b",
@@ -131586,6 +131848,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDIxOTg0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "e4b91e7cfc2c8609": {
+   "ozet": {
+    "dh": "10941868183c749a",
+    "sha": "a19efce53ad58b260a36f41b"
+   },
+   "t": "2026-11-17T13:54:00+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.99,
+    "keskinlik": 220,
+    "kontrast": 8,
+    "medyan": 7,
+    "parlaklik": 9,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Theatre_of_young_audience_%2816134553769%29.jpg/1280px-Theatre_of_young_audience_%2816134553769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e4cdf5cf5f1add2c": {
    "icerik": {
