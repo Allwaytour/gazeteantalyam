@@ -71620,6 +71620,146 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Antalya_Airport_-_International_Terminal_2.JPG/1280px-Antalya_Airport_-_International_Terminal_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7dcc5201225a7f4e": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 35,
+    "nesneler": [
+     "insan grubu",
+     "çatı",
+     "parke zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda bir araya gelmiş kalabalık insan grubu",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye ziyareti",
+     "mahalle buluşması",
+     "köy toplantısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yol yapım çalışması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      430,
+      15,
+      840,
+      100
+     ],
+     [
+      420,
+      75,
+      800,
+      145
+     ],
+     [
+      430,
+      135,
+      785,
+      225
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b6803a8d01cf:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber yol yapimi ile ilgili ancak fotografta yol calismasi degil mahalle bulusmasi goruluyor.",
+      "gerekli": [
+       {
+        "unsur": "beton yol",
+        "var": false
+       },
+       {
+        "unsur": "is makinesi",
+        "var": false
+       },
+       {
+        "unsur": "yol calismasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:54:09+03:00"
+    },
+    "r1:d337b717528f:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yol yapım çalışması veya beton yol görünmüyor, sadece mahalle sakinleri bir arada.",
+      "gerekli": [
+       {
+        "unsur": "beton yol",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi veya yol çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "kalabalık trafik"
+      ]
+     },
+     "t": "2026-11-17T11:53:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5f3f9f9e8c9f93f5",
+    "sha": "1c64c3fc5bfbed5f6344ab7a"
+   },
+   "t": "2026-11-17T11:54:12+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     1000,
+     750
+    ],
+    "karanlik_oran": 0.19,
+    "keskinlik": 2269,
+    "kontrast": 54,
+    "medyan": 120,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "/images/kurum/4cfcb0cf30acb15f.jpg"
+  },
   "7dcfc9e7ef9e9b1d": {
    "icerik": {
     "ana_kutu": [
@@ -134980,6 +135120,32 @@
      },
      "t": "2026-11-12T03:57:15+03:00"
     },
+    "r1:b6803a8d01cf:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki yol yapım çalışmasıyla ilgisi olmayan tarihi bir evi göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "iş makinesi veya yol çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:54:12+03:00"
+    },
     "r1:d0491aade562:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -135005,6 +135171,39 @@
       "yasak": []
      },
      "t": "2026-11-13T14:32:48+03:00"
+    },
+    "r1:d337b717528f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi bir Alanya evini göstermektedir, mahalledeki yol çalışması haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "beton yol",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi veya yol çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "kalabalık trafik"
+      ]
+     },
+     "t": "2026-11-17T11:53:25+03:00"
     },
     "r1:e75203bcc1f5:ozne_kurum": {
      "d": {
@@ -135041,7 +135240,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-16T13:13:16+03:00",
+   "t": "2026-11-17T11:54:12+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -138271,6 +138470,32 @@
      },
      "t": "2026-11-12T03:57:15+03:00"
     },
+    "r1:b6803a8d01cf:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen Fakırcalı Mahallesi yolu ve betonlama çalışması yerine park görünümü yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "beton yol",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T11:54:12+03:00"
+    },
     "r1:d0491aade562:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -138296,6 +138521,39 @@
       "yasak": []
      },
      "t": "2026-11-13T14:32:48+03:00"
+    },
+    "r1:d337b717528f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Alanya'daki bir parkı göstermektedir, kırsal mahalledeki yol çalışmasıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "beton yol",
+        "var": false
+       },
+       {
+        "unsur": "iş makinesi veya yol çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "kalabalık trafik"
+      ]
+     },
+     "t": "2026-11-17T11:53:25+03:00"
     },
     "r1:e75203bcc1f5:ozne_kurum": {
      "d": {
@@ -138332,7 +138590,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-16T13:13:14+03:00",
+   "t": "2026-11-17T11:54:12+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
