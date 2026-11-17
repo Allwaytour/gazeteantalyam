@@ -7819,6 +7819,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jens_Keller%2C_Union_Berlin_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "0c8ee26dabdf6346": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     41,
+     804,
+     822
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konut binasi",
+     "otomobil",
+     "sokak lambasi diregi",
+     "agac"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta modern konut binalari ve park etmis araclar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "konut satisi",
+     "gayrimenkul",
+     "insaat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:441f2b8381b1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konut satisi haberi icin uygun modern bina gorseli.",
+      "gerekli": [
+       {
+        "unsur": "konut binalari, apartmanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       41,
+       804,
+       822
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T12:25:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d454d0545474f4f",
+    "sha": "759272531822f91b8bb5a9a3"
+   },
+   "t": "2026-11-17T12:25:44+03:00",
+   "teknik": {
+    "doygunluk": 24.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 3182,
+    "kontrast": 60,
+    "medyan": 103,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antalya%2C_Turkey_-_panoramio_%2844%29.jpg/1280px-Antalya%2C_Turkey_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0cca4562bea19490": {
    "ozet": {
     "dh": "8ba38f0d8bdeddd0",
@@ -21210,42 +21303,6 @@
      },
      "t": "2026-11-08T12:04:28+03:00"
     },
-    "r1:60d020c502bc:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotografta zirve toplantisi yerine kum ve su kenarinda duran bir kisi ile is makinesi gorunuyor, COP31 ile ilgisi yok.",
-      "gerekli": [
-       {
-        "unsur": "zirve toplantı salonu",
-        "var": false
-       },
-       {
-        "unsur": "uluslararası bayraklar",
-        "var": false
-       },
-       {
-        "unsur": "konferans masası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": true,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "belirli bir siyasetçi"
-      ]
-     },
-     "t": "2026-11-08T11:37:06+03:00"
-    },
     "r1:a6a0f4af4a3f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -21275,6 +21332,36 @@
       "yasak": []
      },
      "t": "2026-11-14T14:10:39+03:00"
+    },
+    "r1:b5112bc1e145:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Tuvalu'da çekilmiştir ve Antalya'daki COP31 projeleriyle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "bilimsel sunum",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T12:24:16+03:00"
     },
     "r1:bbef9969f0c1:ozne_kurum": {
      "d": {
@@ -21482,7 +21569,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-14T14:10:39+03:00",
+   "t": "2026-11-17T12:24:16+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -112307,13 +112394,44 @@
       "yasak": []
      },
      "t": "2026-11-11T14:09:14+03:00"
+    },
+    "r1:f5555815ba39:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Defin haberi için uygun mezarlık ve toprak görseli içeriyor, insan yüzü yok.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       168,
+       245,
+       680,
+       715
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T12:25:02+03:00"
     }
    },
    "ozet": {
     "dh": "ac18180931611af2",
     "sha": "7ca6c65f41dc7fb36fc7fe1b"
    },
-   "t": "2026-11-15T12:10:40+03:00",
+   "t": "2026-11-17T12:25:02+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -126138,6 +126256,127 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Alanya_kale.jpg/1280px-Alanya_kale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "dd471ce9efbf485c": {
+   "icerik": {
+    "ana_kutu": [
+     295,
+     129,
+     888,
+     898
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "konferans afişi",
+     "tekli koltuk",
+     "sahne"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir konferans salonunda afiş önünde duran sekiz kişilik grup.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "konferans",
+     "seminer",
+     "proje tanitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      308,
+      169,
+      396,
+      222
+     ],
+     [
+      314,
+      273,
+      401,
+      319
+     ],
+     [
+      342,
+      353,
+      429,
+      398
+     ],
+     [
+      338,
+      431,
+      417,
+      477
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b5112bc1e145:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, COP31 kapsamındaki bir sunumu ve katılımcıları doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "bilimsel sunum",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       295,
+       129,
+       888,
+       898
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T12:24:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07071bc7d5e82480",
+    "sha": "ebc7ea1943529cd40c9bfc10"
+   },
+   "t": "2026-11-17T12:24:16+03:00",
+   "teknik": {
+    "doygunluk": 22.9,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.363,
+    "keskinlik": 1173,
+    "kontrast": 75,
+    "medyan": 91,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "/images/kurum/e4850a095286afbb.jpg"
+  },
   "ddc60231f3363a10": {
    "icerik": {
     "ana_kutu": [
@@ -129365,6 +129604,99 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ambassador_Peter_Haas_met_with_MUN_Students_-_52093145710.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "e35b1a4ceec2e4dd": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     169,
+     792,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "konut binasi",
+     "duvar",
+     "agac",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Caddeden modern konut binalarinin gorunumu.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "konut satisi",
+     "gayrimenkul",
+     "insaat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:441f2b8381b1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konut satisi haberi icin uygun modern apartman gorseli.",
+      "gerekli": [
+       {
+        "unsur": "konut binalari, apartmanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       169,
+       792,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T12:25:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6793236bf3e3de16",
+    "sha": "dab20f54d728113ca5f41b8e"
+   },
+   "t": "2026-11-17T12:25:44+03:00",
+   "teknik": {
+    "doygunluk": 23.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.109,
+    "keskinlik": 3226,
+    "kontrast": 57,
+    "medyan": 98,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Antalya%2C_Turkey_-_panoramio_%2842%29.jpg/1280px-Antalya%2C_Turkey_-_panoramio_%2842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e363a84d4ac7f00c": {
    "icerik": {
@@ -147803,6 +148135,68 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "0c8ee26dabdf6346": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4608,
+    3456
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Sokakta modern konut binalari ve park etmis araclar.",
+   "gosterim_ad": "konut satışı",
+   "ilk_kabul": "2026-11-17T12:25:44+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "yalcin kaya / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "yalcin kaya",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_-_panoramio_(44).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "agac",
+    "konut binalari, apartmanlar",
+    "konut binasi",
+    "otomobil",
+    "sokak lambasi diregi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antalya%2C_Turkey_-_panoramio_%2844%29.jpg/500px-Antalya%2C_Turkey_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "konut satisi",
+    "gayrimenkul",
+    "insaat"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-17T12:25:44+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antalya%2C_Turkey_-_panoramio_%2844%29.jpg/1280px-Antalya%2C_Turkey_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "0d47da1bda772750": {
    "alt_tur": "nesne",
    "boyut": [
@@ -157000,7 +157394,7 @@
    "gosterim_ad": "mezarlık bakım ve onarım çalışmaları",
    "ilk_kabul": "2026-11-11T14:09:14+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Rusty Watson / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -157039,7 +157433,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-15T12:10:40+03:00",
+   "son_kabul": "2026-11-17T12:25:02+03:00",
    "url": "https://images.unsplash.com/photo-1666718096853-50949e06b8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z3JhdmV5YXJkJTIwcmVub3ZhdGlvbnxlbnwxfDB8fHwxNzk0Mzk1MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
@@ -158182,6 +158576,74 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "dd471ce9efbf485c": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bir konferans salonunda afiş önünde duran sekiz kişilik grup.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-17T12:24:16+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/antalya-buyuksehir-belediyesi-cop31de-cittaslow-ailesini-agirladi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bilimsel sunum",
+    "konferans afişi",
+    "konferans salonu",
+    "sahne",
+    "tekli koltuk"
+   ],
+   "kucuk": "/images/kurum/e4850a095286afbb.jpg",
+   "kullanilabilir": [
+    "konferans",
+    "seminer",
+    "proje tanitimi"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "kaza",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-17T12:24:16+03:00",
+   "url": "/images/kurum/e4850a095286afbb.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "df0111ed05f92b17": {
    "alt_tur": "kurum_haber",
