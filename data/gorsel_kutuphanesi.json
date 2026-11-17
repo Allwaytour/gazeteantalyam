@@ -25909,6 +25909,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/..._and_there%27s_a_housing_shortage%5E_-_geograph.org.uk_-_3331431.jpg/1280px-..._and_there%27s_a_housing_shortage%5E_-_geograph.org.uk_-_3331431.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2801c952cd11fbc0": {
+   "ozet": {
+    "dh": "9d1d0b9c35ac8f07",
+    "sha": "cc85e06ea11ad7c599d91b63"
+   },
    "t": "2026-11-08T14:10:00+03:00",
    "teknik": {
     "doygunluk": 57.6,
@@ -70673,6 +70677,30 @@
     ]
    },
    "iliski": {
+    "r1:0f7b25217172:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çok sayıda siyasetçinin olduğu bir toplantı karesidir, yasaklı unsur olan siyasetçiler içerir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "uçak"
+      ]
+     },
+     "t": "2026-11-17T18:24:07+03:00"
+    },
     "r1:aad1dfc7d3e9:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -70740,7 +70768,7 @@
     "dh": "e7666f63da980057",
     "sha": "43ebbd7b493596b94bb6dc7c"
    },
-   "t": "2026-11-11T21:41:10+03:00",
+   "t": "2026-11-17T18:24:07+03:00",
    "teknik": {
     "doygunluk": 18.3,
     "inen": [
@@ -77842,6 +77870,96 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1792691040866-b38edd5908ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3RyZWV0JTIwY2xlYW5pbmclMjB3b3JrZXJzfGVufDF8MHx8fDE3OTQwNDkzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "8256bfbc886a5bfe": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     0,
+     1000,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz",
+     "salkım"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yakın plan olgunlaşmış muz salkımı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "meyve",
+     "gıda",
+     "tarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen muzu temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       0,
+       1000,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:26:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d0d090b031424cd",
+    "sha": "e64b415ceff6a79b48492ab1"
+   },
+   "t": "2026-11-17T18:26:04+03:00",
+   "teknik": {
+    "doygunluk": 47.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.27,
+    "keskinlik": 274,
+    "kontrast": 52,
+    "medyan": 75,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1580750603266-cae8b4b9f72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8eWVsbG93JTIwYmFuYW5hJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0OTI5MDUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "8280970ba0636b78": {
    "icerik": {
@@ -91152,6 +91270,35 @@
     ]
    },
    "iliski": {
+    "r1:0f7b25217172:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesinin güncel ve net bir portre fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       150,
+       900,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "uçak"
+      ]
+     },
+     "t": "2026-11-17T18:24:07+03:00"
+    },
     "r1:aad1dfc7d3e9:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -91219,7 +91366,7 @@
     "dh": "68ccf0d896979796",
     "sha": "2d2bfb0ddf9e9b53f429a55a"
    },
-   "t": "2026-11-11T21:41:10+03:00",
+   "t": "2026-11-17T18:24:07+03:00",
    "teknik": {
     "doygunluk": 23.8,
     "inen": [
@@ -92458,6 +92605,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Our_rings%21.jpg/1280px-Our_rings%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9c17b211dbe11da5": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     140,
+     940,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "avokado",
+     "muz",
+     "fiyat etiketi",
+     "kasa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tezgah üzerinde sergilenen yeşil avokadolar ve arkada muzlar.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "pazar",
+     "meyve",
+     "alışveriş"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arka planda muzlar görünse de ana odak avokadolardır, haberle doğrudan ilişkili değildir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:26:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9e9787b030342262",
+    "sha": "e8fad8462de3e8153e5601e1"
+   },
+   "t": "2026-11-17T18:26:04+03:00",
+   "teknik": {
+    "doygunluk": 47.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.181,
+    "keskinlik": 2386,
+    "kontrast": 57,
+    "medyan": 121,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fresh_Avocados_Displayed.jpg/1280px-Fresh_Avocados_Displayed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9c208dd3eec6e413": {
    "icerik": {
@@ -101348,6 +101582,30 @@
     ]
    },
    "iliski": {
+    "r1:0f7b25217172:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çok sayıda siyasetçinin olduğu bir toplantı karesidir, yasaklı unsur olan siyasetçiler içerir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "uçak"
+      ]
+     },
+     "t": "2026-11-17T18:24:07+03:00"
+    },
     "r1:aad1dfc7d3e9:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -101415,7 +101673,7 @@
     "dh": "e7666f63da9a0057",
     "sha": "b9672bd720d3819fe449afc4"
    },
-   "t": "2026-11-11T21:41:10+03:00",
+   "t": "2026-11-17T18:24:07+03:00",
    "teknik": {
     "doygunluk": 18.3,
     "inen": [
@@ -106166,6 +106424,95 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/AITUnew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "b3de201d977d16bc": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     180,
+     730,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sarı arka plan üzerinde tek bir taze muz.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "meyve",
+     "sağlıklı yaşam",
+     "gıda"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusunu temsil eden net bir muz fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       180,
+       730,
+       810
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:26:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0002849cc8602000",
+    "sha": "6c338a95a0ce3a2f6944da68"
+   },
+   "t": "2026-11-17T18:26:04+03:00",
+   "teknik": {
+    "doygunluk": 99.3,
+    "inen": [
+     400,
+     270
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 71,
+    "kontrast": 12,
+    "medyan": 199,
+    "parlaklik": 196,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1675586677866-6b91355b7e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8eWVsbG93JTIwYmFuYW5hJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0OTI5MDUyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b3ea1289a9e94ed8": {
    "icerik": {
     "ana_kutu": [
@@ -106373,6 +106720,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg/1280px-Antalya%2C_Turkey_9_March_2022_-_Gas_Station_Prices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b425a4f20bc62abf": {
+   "icerik": {
+    "ana_kutu": [
+     270,
+     240,
+     800,
+     880
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz kabuğu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil zemin üzerine soyulmuş muz kabuğu.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "meyve",
+     "atık",
+     "gıda"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Muzun yenmiş/tüketilmiş halini temsil ettiği için habere kısmen uygundur.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       240,
+       800,
+       880
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:26:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0306050c66523931",
+    "sha": "ec533433a7b67a34014e93c7"
+   },
+   "t": "2026-11-17T18:26:04+03:00",
+   "teknik": {
+    "doygunluk": 91.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.052,
+    "keskinlik": 1154,
+    "kontrast": 39,
+    "medyan": 101,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1579523360589-120f265e0988?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGVlbGVkJTIwYmFuYW5hJTIwcG9ja2V0fGVufDF8MHx8fDE3OTQ5MjkwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "b42a534da8711abe": {
    "icerik": {
@@ -115652,6 +116088,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c4286d7aa4ffb7bd": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     20,
+     800,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz ağacı",
+     "yol",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Muz ağaçlarının bulunduğu yeşil bir bahçe yolu.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarım",
+     "doğa"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan muzu temsil eden bir bahçe görselidir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       350,
+       20,
+       800,
+       700
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:24:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "272f0707174723a3",
+    "sha": "ea6fb865623c83b5be8d9b5f"
+   },
+   "t": "2026-11-17T18:24:07+03:00",
+   "teknik": {
+    "doygunluk": 58.1,
+    "inen": [
+     500,
+     320
+    ],
+    "karanlik_oran": 0.397,
+    "keskinlik": 4367,
+    "kontrast": 79,
+    "medyan": 88,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%D0%91%D0%B0%D0%BD%D0%B0%D0%BD%D0%B8_DSC_0375.jpg/1280px-%D0%91%D0%B0%D0%BD%D0%B0%D0%BD%D0%B8_DSC_0375.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c48a5dc0ed718030": {
    "icerik": {
     "ana_kutu": [
@@ -118598,6 +119123,90 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg/1280px-2023_Polish_parliamentary_election_and_referendum._October_2023._Ballot_box_in_Tomasz%C3%B3w_Mazowiecki%2C_Sikorskiego_Street_6A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c8ffe9ee4a5fa609": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     440,
+     620,
+     670
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "duvar",
+     "graffiti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Duvar üzerinde sprey boya ile yapılmış bir figür ve yazı.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sokak sanatı",
+     "yerel haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir duvar yazısıdır, ana özne veya muz görülmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:24:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "64a688193b380597",
+    "sha": "968ddbfbd0b697ef262b87b8"
+   },
+   "t": "2026-11-17T18:24:07+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.106,
+    "keskinlik": 499,
+    "kontrast": 30,
+    "medyan": 118,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2018_Armenian_Revolution_07.05.2018_002.jpg/1280px-2018_Armenian_Revolution_07.05.2018_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c9208dfc622e5956": {
    "ozet": {
@@ -149449,6 +150058,88 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29.jpg/1280px-Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_20211211_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fcab2c1be2e19e2f": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     150,
+     1000,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "örümcek",
+     "örümcek ağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağ üzerinde asılı duran büyük sarı ve siyah renkli örümcek.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f7b25217172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta muz yerine örümcek yer almaktadır, haberle hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T18:26:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4eca4e2416062786",
+    "sha": "9b34d4ff268af07d3a8f9dca"
+   },
+   "t": "2026-11-17T18:26:04+03:00",
+   "teknik": {
+    "doygunluk": 20.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.034,
+    "keskinlik": 367,
+    "kontrast": 38,
+    "medyan": 137,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Close_Up_on_the_Banana_Spider_%28b56b7124-a79b-4f26-934b-25d1c39d38e7%29.JPG/1280px-Close_Up_on_the_Banana_Spider_%28b56b7124-a79b-4f26-934b-25d1c39d38e7%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fcb7304656dd9d63": {
    "icerik": {
     "ana_kutu": [
@@ -159776,6 +160467,63 @@
    "sinif": "konu",
    "son_kabul": "2026-11-17T13:34:10+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "b3de201d977d16bc": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4424,
+    2989
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Sarı arka plan üzerinde tek bir taze muz.",
+   "gosterim_ad": "muzu dörde ülke gezdirdikten sonra yemek",
+   "ilk_kabul": "2026-11-17T18:26:04+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Bermix Studio / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Bermix Studio",
+    "sayfa": "https://unsplash.com/photos/a-yellow-banana-on-a-yellow-background-TEGZPBHhqD8"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "muz"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1675586677866-6b91355b7e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8eWVsbG93JTIwYmFuYW5hJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0OTI5MDUyfDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "meyve",
+    "sağlıklı yaşam",
+    "gıda"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-17T18:26:04+03:00",
+   "url": "https://images.unsplash.com/photo-1675586677866-6b91355b7e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8eWVsbG93JTIwYmFuYW5hJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0OTI5MDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
