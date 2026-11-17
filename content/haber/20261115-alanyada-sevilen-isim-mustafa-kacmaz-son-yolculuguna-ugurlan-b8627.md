@@ -2,8 +2,8 @@
 title: Alanya'da sevilen isim Mustafa Kaçmaz son yolculuğuna uğurlandı
 date: '2026-11-15T12:00:00+03:00'
 ozet: Alanya Kaymakamlığı eski şoförlerinden Mustafa Kaçmaz, tedavi gördüğü hastanede hayatını kaybetti. Kaçmaz'ın vefatı ilçede üzüntüye neden oldu.
-gorsel: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: Mitchel Boot / Unsplash'
+gorsel: https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: FlyD / Unsplash'
 kategoriler:
 - Yaşam
 ilceler:
@@ -18,32 +18,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 29210d0123aa
-  kaynak_sayfa: https://unsplash.com/photos/PM96qlpCrPA
-  fotografci: Mitchel Boot
+  kaynak_sayfa: https://unsplash.com/photos/4oC_aC4hoPo
+  fotografci: FlyD
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Taziye
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'vefat-1' (Taziye) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'vefat-2' (Taziye) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: vefat-1
-    tarih: '2026-11-15T12:13:17+03:00'
+    arsiv_id: vefat-2
+    tarih: '2026-11-17T20:56:45+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,8 +51,8 @@ kaynak_url: https://www.gazetealanya.com/alanyada-sevilen-isim-topraga-verildi
 gorsel_yedek: /images/haber-gorsel/20261115-alanyada-sevilen-isim-mustafa-kacmaz-son-yolculuguna-ugurlan--deca9b2d.jpg
 gorsel_yerlesim:
   boyut:
-  - 3840
-  - 1634
+  - 7952
+  - 5304
   dikey: false
   surum: y3
   manset: kaplama
@@ -66,14 +63,17 @@ gorsel_yerlesim:
   yan_portre: false
   o_manset_d: 50% 50%
   o_manset_m: 50% 50%
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
   o_yan_d: 50% 50%
   o_yan_t: 50% 50%
   o_yan_m: 50% 50%
   o_kart: 50% 50%
-  url: https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
+  o_kart_p: 50% 50%
+  url: https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1557153824-70aaf758721c?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Kaymakamlığının eski şoförlerinden merhum Ekrem Kaçmaz ile merhume Rabia Kaçmaz’ın oğlu Mustafa Kaçmaz, bir süredir kanser tedavisi gördüğü hastanede yaşamını yitirdi. Şekerhane Mahallesi'nde yaşayan ve çevresinde mütevazı kişiliğiyle bilinen Kaçmaz'ın vefatı, ilçe genelinde büyük bir üzüntüyle karşılandı.
 

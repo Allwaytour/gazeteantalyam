@@ -41338,6 +41338,40 @@
      },
      "t": "2026-11-08T12:40:48+03:00"
     },
+    "r1:82cb1e2d39bb:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber cenaze töreni ile ilgilidir, binanın dış görünümü olayı yansıtmaz ve bağlam dışıdır.",
+      "gerekli": [
+       {
+        "unsur": "cenaze töreni",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       70,
+       900,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "mutluluk",
+       "eğlence"
+      ]
+     },
+     "t": "2026-11-17T20:55:28+03:00"
+    },
     "r1:a328b6e8fda3:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -41397,7 +41431,7 @@
     "dh": "b6dc5af0e1c8035b",
     "sha": "e8972aa55c7d083f11a6353d"
    },
-   "t": "2026-11-08T15:42:15+03:00",
+   "t": "2026-11-17T20:55:28+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
