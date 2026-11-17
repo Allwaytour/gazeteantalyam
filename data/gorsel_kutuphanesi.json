@@ -52643,13 +52643,46 @@
       "yasak": []
      },
      "t": "2026-11-16T14:43:14+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta otel bahçesi ve binalar var, tarla haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:45:49+03:00"
     }
    },
    "ozet": {
     "dh": "038b878f5597391c",
     "sha": "1bc780446eef38aa85b03efa"
    },
-   "t": "2026-11-16T14:43:22+03:00",
+   "t": "2026-11-17T22:45:49+03:00",
    "teknik": {
     "doygunluk": 37.9,
     "inen": [
@@ -62705,13 +62738,46 @@
       ]
      },
      "t": "2026-11-14T14:39:54+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta şehir merkezi ve binalar yer alıyor, yasaklı unsurları içerdiği için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:45:49+03:00"
     }
    },
    "ozet": {
     "dh": "012909002919ca0a",
     "sha": "eef198768cb44388d3c49c6c"
    },
-   "t": "2026-11-14T14:39:54+03:00",
+   "t": "2026-11-17T22:45:49+03:00",
    "teknik": {
     "doygunluk": 44.0,
     "inen": [
@@ -67883,13 +67949,46 @@
       "yasak": []
      },
      "t": "2026-11-08T11:38:40+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Şehir içindeki bir kafeyi gösteriyor; şehir merkezi ve bina yasaklı unsurlar arasında olduğu için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:45:49+03:00"
     }
    },
    "ozet": {
     "dh": "72221bccccd5ad1e",
     "sha": "55d4facbdbbbb1ae48459fde"
    },
-   "t": "2026-11-14T14:39:54+03:00",
+   "t": "2026-11-17T22:45:49+03:00",
    "teknik": {
     "doygunluk": 35.7,
     "inen": [
@@ -78768,13 +78867,46 @@
       "yasak": []
      },
      "t": "2026-11-08T11:38:53+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik kent kalıntıları gösteriyor, tarla satışı haberiyle doğrudan bir bağı bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:45:49+03:00"
     }
    },
    "ozet": {
     "dh": "9e9bb96d6dd7c3ed",
     "sha": "806b02bddaa3e3886b7dc4cd"
    },
-   "t": "2026-11-16T11:12:52+03:00",
+   "t": "2026-11-17T22:45:49+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -88659,13 +88791,46 @@
       "yasak": []
      },
      "t": "2026-11-13T13:59:45+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karpuz oymacılığı yapan aşçı görseli tarla satışı haberiyle tamamen alakasız.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:45:49+03:00"
     }
    },
    "ozet": {
     "dh": "2b3b1b59d3d3fac0",
     "sha": "3401959112da2986f489b1d7"
    },
-   "t": "2026-11-13T13:59:45+03:00",
+   "t": "2026-11-17T22:45:49+03:00",
    "teknik": {
     "doygunluk": 41.9,
     "inen": [
@@ -100314,13 +100479,46 @@
       ]
      },
      "t": "2026-11-14T14:39:54+03:00"
+    },
+    "r1:cd7880a3fe21:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber tarla satışı ile ilgili ancak görselde şehir merkezi ve otel binası yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "tarım arazisi",
+        "var": false
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şehir merkezi",
+       "bina"
+      ]
+     },
+     "t": "2026-11-17T22:46:43+03:00"
     }
    },
    "ozet": {
     "dh": "f3feb5375aa28313",
     "sha": "b567415ae81d8a247cdca613"
    },
-   "t": "2026-11-14T14:39:54+03:00",
+   "t": "2026-11-17T22:46:43+03:00",
    "teknik": {
     "doygunluk": 44.5,
     "inen": [
@@ -110604,28 +110802,32 @@
      },
      "t": "2026-11-08T13:07:15+03:00"
     },
-    "r1:d6f1c692a2fd:konu": {
+    "r1:cd7880a3fe21:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Modern damlama sulama sistemini net bir şekilde göstererek haberin konusunu başarıyla temsil ediyor.",
+      "gerekce": "Tarla ve tarım arazisi vurgusunu temsil eden uygun bir görsel.",
       "gerekli": [
        {
-        "unsur": "modern sulama sistemi",
+        "unsur": "tarım arazisi",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
         "var": true
        }
       ],
       "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
       "konu_kutusu": [
-       330,
+       340,
        0,
-       670,
+       660,
        1000
       ],
       "olay_gorunuyor": false,
-      "uygunluk": 10,
+      "uygunluk": 8,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -110633,7 +110835,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T04:32:25+03:00"
+     "t": "2026-11-17T22:46:43+03:00"
     },
     "r1:e38113f338aa:konu": {
      "d": {
@@ -110675,7 +110877,7 @@
     "dh": "060e1b1b2b1f0707",
     "sha": "9e4cf048c857512f4dcb00d7"
    },
-   "t": "2026-11-16T15:45:02+03:00",
+   "t": "2026-11-17T22:46:43+03:00",
    "teknik": {
     "doygunluk": 42.4,
     "inen": [
@@ -127794,6 +127996,104 @@
    },
    "url": "https://images.unsplash.com/photo-1645235997928-115ab6cd18b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8aGFpciUyMGN1dHRpbmclMjBjb250ZXN0JTIwc3RhZ2V8ZW58MXwwfHx8MTc5NDEzMjY5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "da7f01ee95974dae": {
+   "icerik": {
+    "ana_kutu": [
+     395,
+     2,
+     755,
+     992
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 80,
+    "nesneler": [
+     "anıt",
+     "pankart",
+     "zemin",
+     "gökyüzü",
+     "insan grubu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "COP31 yazılı anıt önünde poz veren kalabalık lise öğrencileri grubu",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "öğrenci etkinlikleri",
+     "kamp haberleri",
+     "gençlik projeleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi liderlik haberleri",
+     "ekonomi analizleri",
+     "spor müsabakaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a6e988284b35:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kampta yer alan öğrenciler ve etkinlik alanı net bir şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       },
+       {
+        "unsur": "girişimcilik etkinliği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       395,
+       2,
+       755,
+       992
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T22:47:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4040c8c8f489130b",
+    "sha": "c7fb855545e81960b5636d01"
+   },
+   "t": "2026-11-17T22:47:30+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     1090,
+     614
+    ],
+    "karanlik_oran": 0.2,
+    "keskinlik": 1217,
+    "kontrast": 68,
+    "medyan": 107,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://yegitek.meb.gov.tr/meb_iys_dosyalar/2026_11/d7e088cadf39b2692fa93f090a17cb4c.jpg"
+  },
   "daeaebeab1dd02f8": {
    "icerik": {
     "ana_kutu": null,
@@ -129825,13 +130125,48 @@
       "yasak": []
      },
      "t": "2026-11-17T12:24:16+03:00"
+    },
+    "r1:febfe468f7ca:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki panelin konuşmacıları ve etkinlik arka planı net bir şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacılar",
+        "var": true
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       120,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T22:44:54+03:00"
     }
    },
    "ozet": {
     "dh": "07071bc7d5e82480",
     "sha": "ebc7ea1943529cd40c9bfc10"
    },
-   "t": "2026-11-17T12:24:16+03:00",
+   "t": "2026-11-17T22:44:54+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
@@ -161056,7 +161391,7 @@
    "gosterim_ad": "tarımsal sulama",
    "ilk_kabul": "2026-11-08T04:32:25+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "Shixart1985 / Wikimedia Commons (CC BY 2.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -161078,6 +161413,7 @@
     "iklim krizi veya küresel ısınma teması",
     "modern sulama sistemi",
     "sulama borusu",
+    "tarla",
     "tarla veya tarım ürünü",
     "tarım arazisi",
     "tarımsal sulama sistemi",
@@ -161098,7 +161434,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-16T15:45:02+03:00",
+   "son_kabul": "2026-11-17T22:46:43+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -162115,6 +162451,70 @@
    ],
    "yalniz_ayni_olay": true
   },
+  "da7f01ee95974dae": {
+   "alt_tur": "",
+   "boyut": [
+    1090,
+    614
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "COP31 yazılı anıt önünde poz veren kalabalık lise öğrencileri grubu",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-17T22:47:30+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)",
+    "lisans": "Kaynak izni",
+    "sahibi": "Kamu kurumları (gov.tr; valilik, kaymakamlık, bakanlık, ilçe belediyeleri)",
+    "sayfa": "https://yegitek.meb.gov.tr/www/etkim-genc-girisimci-kampi-antalya039da-basladi/icerik/4079/tr"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "anıt",
+    "girişimcilik etkinliği",
+    "gökyüzü",
+    "insan grubu",
+    "pankart",
+    "zemin",
+    "öğrenciler"
+   ],
+   "kucuk": "https://yegitek.meb.gov.tr/meb_iys_dosyalar/2026_11/d7e088cadf39b2692fa93f090a17cb4c.jpg",
+   "kullanilabilir": [
+    "öğrenci etkinlikleri",
+    "kamp haberleri",
+    "gençlik projeleri"
+   ],
+   "kullanilamaz": [
+    "siyasi liderlik haberleri",
+    "ekonomi analizleri",
+    "spor müsabakaları",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-17T22:47:30+03:00",
+   "url": "https://yegitek.meb.gov.tr/meb_iys_dosyalar/2026_11/d7e088cadf39b2692fa93f090a17cb4c.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
   "db0bb455c7a6f334": {
    "alt_tur": "nesne",
    "boyut": [
@@ -162559,7 +162959,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-17T12:24:16+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -162585,6 +162985,7 @@
     "bilimsel sunum",
     "konferans afişi",
     "konferans salonu",
+    "konuşmacılar",
     "sahne",
     "tekli koltuk"
    ],
@@ -162604,7 +163005,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-17T12:24:16+03:00",
+   "son_kabul": "2026-11-17T22:44:54+03:00",
    "url": "/images/kurum/e4850a095286afbb.jpg",
    "uygun_yerlesimler": [
     "manset",
