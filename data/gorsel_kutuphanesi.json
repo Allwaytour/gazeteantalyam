@@ -56891,6 +56891,128 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Group_photo_of_the_1st_Session_of_the_OACPS-EU_Joint_Parliamentary_Assembly.jpg/1280px-Group_photo_of_the_1st_Session_of_the_OACPS-EU_Joint_Parliamentary_Assembly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6088133ed902004f": {
+   "icerik": {
+    "ana_kutu": [
+     350,
+     195,
+     953,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 18,
+    "nesneler": [
+     "pankart",
+     "tekerlekli sandalye",
+     "sütun",
+     "tarihi kapı",
+     "kıyafet"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir kapı önünde pankartlar tutan ve kostüm giyen kalabalık grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel etkinlik",
+     "sosyal sorumluluk",
+     "belediye faaliyeti"
+    ],
+    "uygunsuz_baglamlar": [
+     "bakanlik zirvesi",
+     "resmi protokol",
+     "kriz haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      385,
+      221,
+      467,
+      269
+     ],
+     [
+      403,
+      290,
+      461,
+      321
+     ],
+     [
+      538,
+      339,
+      878,
+      417
+     ],
+     [
+      376,
+      431,
+      416,
+      459
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d5d130988d7e:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bakan ve çevre müdürleri yerine yerel halk ve engelli bireylerin etkinliği yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "bakan",
+        "var": false
+       },
+       {
+        "unsur": "bürokratlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:24:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2b8b0351d1a6f278",
+    "sha": "b913bed27b73962a6bc70e70"
+   },
+   "t": "2026-11-17T13:24:53+03:00",
+   "teknik": {
+    "doygunluk": 24.6,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.158,
+    "keskinlik": 3689,
+    "kontrast": 74,
+    "medyan": 140,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "/images/kurum/4e499927baa398bd.jpg"
+  },
   "61a105468241fae1": {
    "icerik": {
     "ana_kutu": null,
@@ -61967,18 +62089,28 @@
      },
      "t": "2026-11-13T16:29:40+03:00"
     },
-    "r1:e8a72ca09f4d:ozne_kisi": {
+    "r1:d5d130988d7e:ozne_kisi": {
      "d": {
-      "ana_ozne_gorunuyor": false,
+      "ana_ozne_gorunuyor": true,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Murat Kurum, COP31 zirvesinin ana öznesi veya katılımcısı değildir.",
-      "gerekli": [],
+      "gerekce": "Haberin ana öznesi olan Bakan Murat Kurum'un güncel ve net bir portre fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "bakan",
+        "var": true
+       }
+      ],
       "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
       "olay_gorunuyor": false,
-      "uygunluk": 1,
+      "uygunluk": 10,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -61986,14 +62118,14 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T21:03:09+03:00"
+     "t": "2026-11-17T13:24:53+03:00"
     }
    },
    "ozet": {
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-15T11:11:45+03:00",
+   "t": "2026-11-17T13:24:53+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -153155,7 +153287,7 @@
    "gosterim_ad": "Murat Kurum",
    "ilk_kabul": "2026-11-07T20:47:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 26,
+   "kabul_sayisi": 27,
    "kaynak": {
     "atif": "Ktpkurdu / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -153178,6 +153310,7 @@
     "yerler": []
    },
    "konular": [
+    "bakan",
     "ceket",
     "gömlek",
     "mavi ceket"
@@ -153195,7 +153328,7 @@
    "qid": "Q56125668",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-13T16:05:47+03:00",
+   "son_kabul": "2026-11-17T13:24:53+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
