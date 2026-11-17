@@ -1625,6 +1625,32 @@
      },
      "t": "2026-11-12T18:05:56+03:00"
     },
+    "r1:d5e37351ff15:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya Kalesi'nden liman ve sahil görünümü, turizm sektörü vurgulu haber için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:34:10+03:00"
+    },
     "r1:e75203bcc1f5:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -1660,7 +1686,7 @@
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-16T11:42:47+03:00",
+   "t": "2026-11-17T13:34:10+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -7890,13 +7916,42 @@
       "yasak": []
      },
      "t": "2026-11-17T12:25:44+03:00"
+    },
+    "r1:f07bc0b945c0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta hastane yerine konut binaları yer almaktadır, sağlık yatırımları haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:38:05+03:00"
     }
    },
    "ozet": {
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-17T12:25:44+03:00",
+   "t": "2026-11-17T13:38:57+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -10730,6 +10785,98 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Navigation_system_on_a_merchant_ship_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "11632bd409927a72": {
+   "icerik": {
+    "ana_kutu": [
+     460,
+     130,
+     600,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "bina",
+     "ağaç",
+     "kumsal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten deniz ve sahil şeridi genel görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "sahil tanıtımı",
+     "coğrafi haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yunus kurtarma operasyonu",
+     "canlı hayvan haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8c197ce38ae6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olay yeri olan sahil genel olarak görülüyor ancak yunus veya sahil güvenlik ekipleri bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "sahil güvenlik",
+        "var": false
+       },
+       {
+        "unsur": "yunus",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:35:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "73430771321da7ca",
+    "sha": "b9f46c54338eff9f381d3b9b"
+   },
+   "t": "2026-11-17T13:35:41+03:00",
+   "teknik": {
+    "doygunluk": 50.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.101,
+    "keskinlik": 1208,
+    "kontrast": 33,
+    "medyan": 116,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%281%29.jpg/1280px-07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "11808f839c463ffc": {
    "icerik": {
@@ -16775,6 +16922,32 @@
      },
      "t": "2026-11-12T18:05:56+03:00"
     },
+    "r1:d5e37351ff15:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya liman görünümü yerel turizm haberini destekler ancak odak noktasında köpek yer almaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:34:10+03:00"
+    },
     "r1:e75203bcc1f5:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -16857,7 +17030,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-16T11:42:47+03:00",
+   "t": "2026-11-17T13:34:10+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -25973,31 +26146,39 @@
      },
      "t": "2026-11-12T18:03:37+03:00"
     },
-    "r1:dba77432e2c1:ozne_kurum": {
+    "r1:d5e37351ff15:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Alanya limanını gösterse de hava sıcaklığı değişimi haberiyle doğrudan bir bağı bulunmuyor.",
+      "gerekce": "Alanya limanındaki turizm hareketliliğini gösterdiği için turizm sektörü haberine uygundur.",
       "gerekli": [
        {
-        "unsur": "Alanya genel görünüm",
+        "unsur": "bina",
         "var": true
        }
       ],
       "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       170,
+       635,
+       890
+      ],
       "olay_gorunuyor": false,
-      "uygunluk": 3,
+      "uygunluk": 8,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
       "yanlis_spor": false,
       "yanlis_takim": false,
-      "yasak": []
+      "yasak": [
+       "kaza",
+       "mahkeme"
+      ]
      },
-     "t": "2026-11-11T09:10:59+03:00"
+     "t": "2026-11-17T13:33:45+03:00"
     },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
@@ -26089,7 +26270,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-16T19:22:17+03:00",
+   "t": "2026-11-17T13:33:45+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -33292,13 +33473,42 @@
       "yasak": []
      },
      "t": "2026-11-11T16:09:35+03:00"
+    },
+    "r1:f07bc0b945c0:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde yasaklı unsurlar arasında 'meclis salonu' açıkça belirtilmiştir ve bu fotoğraf doğrudan meclis salonunu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:38:57+03:00"
     }
    },
    "ozet": {
     "dh": "1a0f0f1a1b891a9d",
     "sha": "7491648c31ca6e1b1409cf28"
    },
-   "t": "2026-11-11T16:09:35+03:00",
+   "t": "2026-11-17T13:38:57+03:00",
    "teknik": {
     "doygunluk": 50.4,
     "inen": [
@@ -37730,6 +37940,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Klauenpflege_Kuh_9787.jpg/1280px-Klauenpflege_Kuh_9787.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3e16059c44e5d178": {
+   "icerik": {
+    "ana_kutu": [
+     410,
+     42,
+     660,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "asfalt yol",
+     "trafik levhası",
+     "bulut",
+     "sokak aydınlatması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfalt yol kenarında renkli binalar ve büyük bulutlu gökyüzü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kent yaşamı",
+     "yerel haber",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "yunus kurtarma",
+     "deniz olayları",
+     "sahil güvenlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8c197ce38ae6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf denizden ve olaydan uzakta sokak manzarasını göstermektedir; haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sahil güvenlik",
+        "var": false
+       },
+       {
+        "unsur": "yunus",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:35:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07071797894a0701",
+    "sha": "ab3b919bdc7c8eecae0e1b27"
+   },
+   "t": "2026-11-17T13:35:41+03:00",
+   "teknik": {
+    "doygunluk": 23.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.181,
+    "keskinlik": 1476,
+    "kontrast": 58,
+    "medyan": 128,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Street_Alanya_Okurcalar_-_panoramio.jpg/1280px-Street_Alanya_Okurcalar_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3e2c2070e119b25d": {
    "icerik": {
@@ -75217,32 +75520,6 @@
      },
      "t": "2026-11-11T13:39:02+03:00"
     },
-    "r1:adb4dc75380d:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta Alanya'nın genel görünümü yerine havada parasailing yapan kişiler yer alıyor.",
-      "gerekli": [
-       {
-        "unsur": "Alanya genel görünüm",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T19:35:26+03:00"
-    },
     "r1:b51ba2d3c7bd:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -75298,6 +75575,35 @@
       "yasak": []
      },
      "t": "2026-11-12T18:03:37+03:00"
+    },
+    "r1:d5e37351ff15:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya turizmini temsil eden bir aktiviteyi gösteriyor ancak maliyet baskısını doğrudan yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       730,
+       220,
+       855
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "mahkeme"
+      ]
+     },
+     "t": "2026-11-17T13:33:45+03:00"
     },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
@@ -75445,7 +75751,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-16T19:22:17+03:00",
+   "t": "2026-11-17T13:33:45+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -82276,6 +82582,10 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "8c1636a6164d0a06": {
+   "ozet": {
+    "dh": "5d1f4d1f4a0d2516",
+    "sha": "cf8daa94587de0eeef2fb88a"
+   },
    "t": "2026-11-08T15:17:31+03:00",
    "teknik": {
     "doygunluk": 50.2,
@@ -91270,39 +91580,6 @@
      },
      "t": "2026-11-09T19:35:26+03:00"
     },
-    "r1:b13bf154fa36:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel kent ve doğa dokusunu gösteren bu geniş açı, planlama ve doğa uyarısı haberi için çok uygundur.",
-      "gerekli": [
-       {
-        "unsur": "Alanya doğası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       84,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "beton yığını"
-      ]
-     },
-     "t": "2026-11-09T19:07:04+03:00"
-    },
     "r1:b51ba2d3c7bd:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -91363,6 +91640,40 @@
       "yasak": []
      },
      "t": "2026-11-12T18:03:37+03:00"
+    },
+    "r1:d5e37351ff15:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel yapısını, binaları ve turizm merkezini net şekilde gösterdiği için haberle tam uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       85,
+       12,
+       985,
+       985
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "mahkeme"
+      ]
+     },
+     "t": "2026-11-17T13:33:45+03:00"
     },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
@@ -91490,7 +91801,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-16T19:22:17+03:00",
+   "t": "2026-11-17T13:33:45+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -91926,6 +92237,110 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1776235483260-cd5d8a586848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "9e3eceddb81ffeb2": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     0,
+     939,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "yunus",
+     "platform",
+     "bot",
+     "gözlük",
+     "spor ayakkabı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap platform kenarındaki bir kişi sudaki yunusla ilgileniyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "deniz canlıları",
+     "hayvan bakımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      39,
+      182,
+      340,
+      346
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8c197ce38ae6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki yunus kurtarma anı değil, havuzda bakım anıdır ve yabancı bir tesistir.",
+      "gerekli": [
+       {
+        "unsur": "sahil güvenlik",
+        "var": false
+       },
+       {
+        "unsur": "yunus",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       743,
+       526,
+       922,
+       853
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:36:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "56cddc9893a33319",
+    "sha": "f7bb2f5899a5c7ee00e6061e"
+   },
+   "t": "2026-11-17T13:36:02+03:00",
+   "teknik": {
+    "doygunluk": 19.3,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.087,
+    "keskinlik": 2753,
+    "kontrast": 61,
+    "medyan": 133,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/US_Navy_080724-N-6270R-013_Aviation_Structural_Mechanic_2nd_Class_Shawn_McDonald%2C_a_marine_mammal_handler_assigned_to_Explosive_Ordnance_Disposal_Mobile_Unit_%28EODMU%29_1%2C_uses_tactile_reenforcement_to_bond_with_his_Atlantic_bottl.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9e4afe799e4088b3": {
    "ozet": {
@@ -97700,9 +98115,42 @@
       "yasak": []
      },
      "t": "2026-11-08T12:36:43+03:00"
+    },
+    "r1:f07bc0b945c0:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Antalya hastane yatırımlarıyla ilgili, görselde ise meclis salonu ve yasaklı unsurlar var.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:39:07+03:00"
     }
    },
-   "t": "2026-11-08T12:36:43+03:00",
+   "ozet": {
+    "dh": "4f0f96960f2d26e4",
+    "sha": "b5d8bfadc8194be082d7787e"
+   },
+   "t": "2026-11-17T13:39:07+03:00",
    "teknik": {
     "doygunluk": 34.7,
     "inen": [
@@ -99045,6 +99493,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Sea.jpg/1280px-Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ace58295cdeee2d3": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     0,
+     970,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şezlong",
+     "şemsiye",
+     "palmiye saksısı",
+     "kırmızı halı",
+     "çöp kovası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sahilde şezlonglar, şemsiyeler ve yürüyüş yolu",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil",
+     "sahil tesisleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "yunus kurtarma",
+     "canlı hayvan operasyonu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8c197ce38ae6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin geçtiği sahil şeridini gösterse de yunus ve kurtarma ekibi yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "sahil güvenlik",
+        "var": false
+       },
+       {
+        "unsur": "yunus",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:35:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "71e91b86a47c5c2f",
+    "sha": "b70f6c96434162ac6ce5de74"
+   },
+   "t": "2026-11-17T13:35:41+03:00",
+   "teknik": {
+    "doygunluk": 47.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.141,
+    "keskinlik": 2724,
+    "kontrast": 48,
+    "medyan": 121,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%282%29.jpg/1280px-07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "acf94a7e721c37f1": {
    "icerik": {
@@ -102302,13 +102842,42 @@
       "yasak": []
      },
      "t": "2026-11-15T11:41:44+03:00"
+    },
+    "r1:f07bc0b945c0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki bina hastane değil yanan bir apartmandır, sağlık sorunları haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:38:05+03:00"
     }
    },
    "ozet": {
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-17T11:24:10+03:00",
+   "t": "2026-11-17T13:38:57+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -103534,41 +104103,6 @@
      },
      "t": "2026-11-12T09:56:27+03:00"
     },
-    "r1:0ce98c87fe60:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Modern ofis binasının cephe detayı haberin konusunu temsil etmek için uygundur.",
-      "gerekli": [
-       {
-        "unsur": "modern ofis binası",
-        "var": true
-       },
-       {
-        "unsur": "taş ve alüminyum cephe",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T03:57:03+03:00"
-    },
     "r1:17c9e225d5e4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -103792,6 +104326,66 @@
      },
      "t": "2026-11-16T17:22:12+03:00"
     },
+    "r1:d5e37351ff15:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern ofis binası cephesi, emlak ve iş dünyası haberine temsilî görsel olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:34:10+03:00"
+    },
+    "r1:f07bc0b945c0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki hastane binası yerine soyut bir bina cephesini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:38:57+03:00"
+    },
     "r1:fffbaa589700:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -103835,7 +104429,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-17T11:24:10+03:00",
+   "t": "2026-11-17T13:38:57+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -104994,37 +105588,6 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
-    "r1:834bc02dd005:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "2006 yılına ait eski bir arşiv karesi, güncel bir turnuva haberi için yanıltıcıdır.",
-      "gerekli": [
-       {
-        "unsur": "plaj voleybolu sahası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       350,
-       580,
-       750,
-       760
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 4,
-      "yaniltici_donem": true,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:57:34+03:00"
-    },
     "r1:adb4dc75380d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -105157,6 +105720,30 @@
       "yasak": []
      },
      "t": "2026-11-08T20:33:32+03:00"
+    },
+    "r1:d5e37351ff15:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber emlak ve turizm maliyetleriyle ilgilidir; plaj voleybolu maçı bu konuyla alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "mahkeme"
+      ]
+     },
+     "t": "2026-11-17T13:33:45+03:00"
     },
     "r1:d76e42a35633:konu": {
      "d": {
@@ -105298,7 +105885,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-12T18:03:37+03:00",
+   "t": "2026-11-17T13:33:45+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -121429,13 +122016,42 @@
       "yasak": []
      },
      "t": "2026-11-11T16:09:35+03:00"
+    },
+    "r1:f07bc0b945c0:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Meclis'te geçse de görselde hastane binası yerine TBMM dışarıdan görülmektedir, ayrıca yasaklı unsur (meclis salonu dışı genel plan) kısmen uygundur ancak hastane eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "hastane binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetci portresi",
+       "meclis salonu"
+      ]
+     },
+     "t": "2026-11-17T13:38:57+03:00"
     }
    },
    "ozet": {
     "dh": "030826276d4d7f79",
     "sha": "43eab923edbb84747fc7a8ae"
    },
-   "t": "2026-11-11T16:09:35+03:00",
+   "t": "2026-11-17T13:38:57+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -126366,13 +126982,47 @@
       "yasak": []
      },
      "t": "2026-11-15T16:11:33+03:00"
+    },
+    "r1:d5e37351ff15:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya'nın genel ekonomik yapısını ve turizm merkezini gösterdiği için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       70,
+       830,
+       965
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza",
+       "mahkeme"
+      ]
+     },
+     "t": "2026-11-17T13:33:45+03:00"
     }
    },
    "ozet": {
     "dh": "3158c978e4135345",
     "sha": "c7b0f8e9bcf07a3a3415ff24"
    },
-   "t": "2026-11-15T16:11:33+03:00",
+   "t": "2026-11-17T13:33:45+03:00",
    "teknik": {
     "doygunluk": 23.5,
     "inen": [
@@ -132314,6 +132964,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG/1280px-Construction_site_of_the_Deriner_Dam%2C_Province_of_Artvin%2C_Turkey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "e6f4fab66c9d8a4f": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     270,
+     750,
+     680
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cami minaresi",
+     "bina",
+     "tente",
+     "sokak lambası",
+     "pazar yeri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokak arasında binalar ve arka planda bir camii kubbesi ve minaresi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel haber",
+     "turizm",
+     "kent rehberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yunus kurtarma",
+     "deniz kirliliği",
+     "sahil güvenlik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8c197ce38ae6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olay yeri olan sahil ve haberin konusu olan yunus/sahil güvenlik fotoğrafta yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "sahil güvenlik",
+        "var": false
+       },
+       {
+        "unsur": "yunus",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T13:35:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "110b4b26979b9e84",
+    "sha": "bb760930bea74ea1e7800976"
+   },
+   "t": "2026-11-17T13:35:41+03:00",
+   "teknik": {
+    "doygunluk": 45.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.213,
+    "keskinlik": 1467,
+    "kontrast": 61,
+    "medyan": 153,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Alanya_Okurcalar_sunset_-_panoramio.jpg/1280px-Alanya_Okurcalar_sunset_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e722f6c79c14d3b2": {
    "icerik": {
@@ -156826,7 +157569,7 @@
    "gosterim_ad": "genel merkez binası",
    "ilk_kabul": "2026-11-12T03:57:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -156845,6 +157588,7 @@
    },
    "konular": [
     "alüminyum çerçeve",
+    "bina",
     "bina cephesi",
     "modern ofis binası",
     "okul binası",
@@ -156868,7 +157612,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-16T17:22:12+03:00",
+   "son_kabul": "2026-11-17T13:34:10+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
