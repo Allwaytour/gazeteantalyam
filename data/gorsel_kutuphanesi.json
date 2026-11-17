@@ -7886,6 +7886,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3c36eb2c6a9f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta hastane yerine konut binaları yer alıyor; konuyla uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "hastane binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "can kaybı",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-17T14:54:15+03:00"
+    },
     "r1:441f2b8381b1:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -7951,7 +7980,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-17T13:38:57+03:00",
+   "t": "2026-11-17T14:54:15+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -25373,6 +25402,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Second_Lady_Usha_Vance_interacts_with_a_group_of_children_as_they_were_participating_in_group_activities_as_part_of_the_Summer_Reading_Challenge_event_at_NASA%E2%80%99s_Johnson_Space_Center_%28jsc2025e067250%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "278c06df9a469c00": {
+   "icerik": {
+    "ana_kutu": [
+     517,
+     93,
+     725,
+     908
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hastane binası",
+     "yol",
+     "ağaç",
+     "çimen"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ve simetrik bir hastane binasının dış cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "hastane kapanması"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel olay",
+     "spor haberi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3c36eb2c6a9f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf siyah-beyaz, eski ve yabancı bir hastaneye ait olduğu için güncel Antalya haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "hastane binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       517,
+       93,
+       725,
+       908
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:55:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d0c0d062e290d0e",
+    "sha": "2fe26af97b671992c72e3e1d"
+   },
+   "t": "2026-11-17T14:55:11+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     1280,
+     905
+    ],
+    "karanlik_oran": 0.08,
+    "keskinlik": 1232,
+    "kontrast": 56,
+    "medyan": 147,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/North_front%2C_looking_south._-_Agnews_State_Hospital%2C_Women%27s_Quiet_and_Medium_Building%2C_Between_North_Circle_Drive_and_Parkway_South%2C_Santa_Clara%2C_Santa_Clara_County%2C_CA_HABS_CAL%2C43-SANCLA%2C6H-1.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "27e96983c05e64d1": {
    "icerik": {
     "ana_kutu": null,
@@ -28718,6 +28838,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2012-02_BAB-4_1.jpg/1280px-2012-02_BAB-4_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2d2d8b3d480f648e": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     172,
+     970,
+     804
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çelenk",
+     "kırmızı çiçek",
+     "beyaz çiçek",
+     "şerit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı ve beyaz çiçeklerle süslenmiş, üzerinde 39th Air Base Wing yazan çelenk.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "anma töreni",
+     "resmi çelenk koyma",
+     "askeri tören"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f686491d6cff:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tören çelenkleri anma haberlerinde temsilî olarak kullanılabilir ancak özgün Alaiye anması değildir.",
+      "gerekli": [
+       {
+        "unsur": "çelenk",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       172,
+       970,
+       804
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:53:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b5e8e8e8cccdf171",
+    "sha": "234562d9c73a6368c1adfb40"
+   },
+   "t": "2026-11-17T14:53:40+03:00",
+   "teknik": {
+    "doygunluk": 33.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.118,
+    "keskinlik": 2074,
+    "kontrast": 65,
+    "medyan": 125,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Incirlik_commemorates_Atat%C3%BCrk_Memorial_Day_%288747859%29.jpg/1280px-Incirlik_commemorates_Atat%C3%BCrk_Memorial_Day_%288747859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2d2fa29468bc9dc0": {
    "icerik": {
@@ -36186,6 +36395,93 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/New_Special_Assistant_to_Attorney_General._Washington%2C_D.C.%2C_Aug._30._Vincent_M._Miles%2C_newly_appointed_Special_Assistant_to_the_Attorney_General%2C_is_shown_at_his_desk_shortly_after_taking_LCCN2016872260.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "39ab12d26dea8c88": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     393,
+     888,
+     977
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "pankart",
+     "bina",
+     "sokak lambası",
+     "yaya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi sokakta yürüyen yayalar ve binalar arasında asılı pankart.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi haberler",
+     "I. Dünya Savaşı haberleri",
+     "Londra tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel yerel hastane kapanma haberleri",
+     "Antalya haberleri"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3c36eb2c6a9f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi bir yabancı hastaneyi göstermektedir ve güncel Antalya hastane haberiyle dönem, yer olarak tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "hastane binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:55:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4c3c3e9c91938f4f",
+    "sha": "2f7c4244d869533a1863e718"
+   },
+   "t": "2026-11-17T14:55:11+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     367
+    ],
+    "karanlik_oran": 0.1,
+    "keskinlik": 3483,
+    "kontrast": 69,
+    "medyan": 156,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/British_Hospitals_during_the_First_World_War_Q53311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "3a084d6e4cb296e8": {
    "icerik": {
@@ -51265,6 +51561,36 @@
      },
      "t": "2026-11-11T04:38:25+03:00"
     },
+    "r1:13597dc14516:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya genel görünümü verse de özel bir konut bahçesini gösterdiği için zirve haberi için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "turizm zirvesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:54:03+03:00"
+    },
     "r1:514a6fb21a5f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -51452,7 +51778,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-15T13:42:07+03:00",
+   "t": "2026-11-17T14:54:03+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -77284,6 +77610,88 @@
    },
    "url": "https://images.unsplash.com/photo-1646109324562-aab0ec63a54f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8d29vZGVuJTIwY2hlc3Nib2FyZCUyMHBpZWNlcyUyMGNsb3NlfGVufDF8MHx8fDE3OTQxMzgxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "82e088730cfa0d9f": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     10,
+     990,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dünya haritası",
+     "işaretli ülkeler",
+     "lejant"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bazı ülkelerin kırmızı renkle işaretlendiği dünya haritası.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "şehitlikler haritası",
+     "uluslararası askeri varlık",
+     "coğrafi veri"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel anma töreni",
+     "magazin",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f686491d6cff:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Harita genel şehitlikleri gösterse de Çatalca'daki yerel anma töreni haberi için uygun değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:53:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ccdcd0d85252420b",
+    "sha": "140fde24f314e036d416c847"
+   },
+   "t": "2026-11-17T14:53:40+03:00",
+   "teknik": {
+    "doygunluk": 9.2,
+    "inen": [
+     500,
+     250
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1157,
+    "kontrast": 49,
+    "medyan": 253,
+    "parlaklik": 232,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Countries_with_Turkish_military_cemeteries_and_memorials_outside_Turkey.png/1280px-Countries_with_Turkish_military_cemeteries_and_memorials_outside_Turkey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8319430116515eae": {
    "icerik": {
     "ana_kutu": null,
@@ -78495,6 +78903,36 @@
     ]
    },
    "iliski": {
+    "r1:13597dc14516:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarımsal üretim ve yükleme anını gösterdiği için turizm ve iklim zirvesi haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "turizm zirvesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:54:03+03:00"
+    },
     "r1:24c577389570:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -78557,36 +78995,6 @@
       "yasak": []
      },
      "t": "2026-11-10T17:07:29+03:00"
-    },
-    "r1:71a104a4c6cd:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Kırsal kesimde meyve kasalayan işçileri gösterdiği için COP31 zirve haberiyle uyuşmamaktadır.",
-      "gerekli": [
-       {
-        "unsur": "zirve alani",
-        "var": false
-       },
-       {
-        "unsur": "konferans binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T11:03:55+03:00"
     },
     "r1:8352045ce70a:konu": {
      "d": {
@@ -78796,7 +79204,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-13T00:28:45+03:00",
+   "t": "2026-11-17T14:54:03+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -102927,6 +103335,35 @@
      },
      "t": "2026-11-17T11:24:10+03:00"
     },
+    "r1:3c36eb2c6a9f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hastane kapanması haberi için tamamen alakasız bir yangın ve afet karesidir.",
+      "gerekli": [
+       {
+        "unsur": "hastane binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "can kaybı",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-17T14:54:15+03:00"
+    },
     "r1:94df9acbb39d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -103022,7 +103459,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-17T13:38:57+03:00",
+   "t": "2026-11-17T14:54:15+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -103577,6 +104014,128 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Minimum_wage_Slovakia.png/1280px-Minimum_wage_Slovakia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b23435c231319010": {
+   "icerik": {
+    "ana_kutu": [
+     90,
+     84,
+     980,
+     578
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "askeri üniforma",
+     "şapka",
+     "çelenk",
+     "tören alanı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı kişiler açık havada çelenk önünde selama duruyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "anma töreni",
+     "askeri tören",
+     "çelenk sunma"
+    ],
+    "uygunsuz_baglamlar": [
+     "savaş haberi",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      97,
+      107,
+      178,
+      219
+     ],
+     [
+      94,
+      212,
+      175,
+      318
+     ],
+     [
+      171,
+      311,
+      239,
+      354
+     ],
+     [
+      176,
+      477,
+      241,
+      547
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f686491d6cff:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir anma ve çelenk töreni karesi, haberdeki Çatalca anmasını temsil edebilir.",
+      "gerekli": [
+       {
+        "unsur": "tören kalabalığı",
+        "var": true
+       },
+       {
+        "unsur": "çelenk",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       90,
+       84,
+       980,
+       578
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:53:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7ae45454959f8c85",
+    "sha": "484a82da5a67bec3c97ef274"
+   },
+   "t": "2026-11-17T14:53:40+03:00",
+   "teknik": {
+    "doygunluk": 17.3,
+    "inen": [
+     500,
+     386
+    ],
+    "karanlik_oran": 0.262,
+    "keskinlik": 2005,
+    "kontrast": 73,
+    "medyan": 116,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Incirlik_commemorates_Atat%C3%BCrk_Memorial_Day_%288747854%29.jpg/1280px-Incirlik_commemorates_Atat%C3%BCrk_Memorial_Day_%288747854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b269e66cba79a340": {
    "icerik": {
@@ -104222,32 +104781,6 @@
     "yuzler": []
    },
    "iliski": {
-    "r1:01ec383525fe:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf genel bir bina cephesidir, haberin konusu olan adliye veya Antalyaspor ile doğrudan ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "Antalyaspor logosu veya adliye binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T09:56:27+03:00"
-    },
     "r1:17c9e225d5e4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -104325,6 +104858,35 @@
       "yasak": []
      },
      "t": "2026-11-17T11:24:10+03:00"
+    },
+    "r1:3c36eb2c6a9f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir bina cephesi detayıdır, hastane binasıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "hastane binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "can kaybı",
+       "ameliyathane"
+      ]
+     },
+     "t": "2026-11-17T14:54:15+03:00"
     },
     "r1:40cf4cb0f71d:konu": {
      "d": {
@@ -104574,7 +105136,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-17T13:38:57+03:00",
+   "t": "2026-11-17T14:54:15+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -116516,6 +117078,41 @@
      },
      "t": "2026-11-13T15:29:59+03:00"
     },
+    "r1:13597dc14516:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uluslararası bir toplantı ortamını göstermesi açısından temsili olarak kullanılabilir ancak Antalya'daki COP31 ile doğrudan ilişkisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "turizm zirvesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       239,
+       109,
+       792,
+       876
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:54:03+03:00"
+    },
     "r1:5f6fd2e5edd2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -116550,32 +117147,6 @@
       "yasak": []
      },
      "t": "2026-11-10T22:38:10+03:00"
-    },
-    "r1:61abc1a18f04:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraftaki uluslararası toplantı masası ve yabancı isimlikler Alanya'daki sendika toplantısıyla uyuşmuyor.",
-      "gerekli": [
-       {
-        "unsur": "sendika toplantısı",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T15:15:03+03:00"
     },
     "r1:6cbb148e1bce:konu": {
      "d": {
@@ -116821,7 +117392,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-16T14:13:03+03:00",
+   "t": "2026-11-17T14:54:03+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -141743,6 +142314,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:13597dc14516:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarım ve hasat konusuna aittir, turizm zirvesi haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "turizm zirvesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:54:03+03:00"
+    },
     "r1:24c577389570:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -141805,36 +142406,6 @@
       "yasak": []
      },
      "t": "2026-11-10T17:07:29+03:00"
-    },
-    "r1:71a104a4c6cd:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya'nın kırsalında tarım yapılan bir alanı gösterir, iklim zirvesiyle ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "zirve alani",
-        "var": false
-       },
-       {
-        "unsur": "konferans binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T11:03:55+03:00"
     },
     "r1:8352045ce70a:konu": {
      "d": {
@@ -142044,7 +142615,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-13T00:28:45+03:00",
+   "t": "2026-11-17T14:54:03+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -148492,6 +149063,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:13597dc14516:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sokakta yürüyen insanları ve köpekleri gösteren genel bir şehir karesidir, zirve haberiyle doğrudan bağdaşmaz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "turizm zirvesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-17T14:54:03+03:00"
+    },
     "r1:514a6fb21a5f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -148679,7 +149280,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-15T13:42:07+03:00",
+   "t": "2026-11-17T14:54:03+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
