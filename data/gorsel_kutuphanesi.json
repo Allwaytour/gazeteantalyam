@@ -12778,6 +12778,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Anitkabir_by_Jaba1977_21.jpg/1280px-Anitkabir_by_Jaba1977_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "13fa159ed0378ba0": {
+   "ozet": {
+    "dh": "3312a9eb6b567743",
+    "sha": "825df65b4e9e736a4421050c"
+   },
    "t": "2026-11-07T23:51:13+03:00",
    "teknik": {
     "doygunluk": 31.9,
@@ -29592,6 +29596,40 @@
     ]
    },
    "iliski": {
+    "r1:3b2dde7ec2a5:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Devlet Bahçeli görülüyor ancak fotoğraf bir törene ait, haberdeki makam ziyaretiyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       395,
+       830,
+       930,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık miting",
+       "sokak eylemi"
+      ]
+     },
+     "t": "2026-11-18T16:26:43+03:00"
+    },
     "r1:a328b6e8fda3:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -29621,7 +29659,11 @@
      "t": "2026-11-08T11:38:35+03:00"
     }
    },
-   "t": "2026-11-08T11:38:35+03:00",
+   "ozet": {
+    "dh": "ce6c1159d2430f9f",
+    "sha": "5042df3f49305fdbbdeaf72c"
+   },
+   "t": "2026-11-18T16:26:43+03:00",
    "teknik": {
     "doygunluk": 31.8,
     "inen": [
@@ -29947,6 +29989,109 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bak%C4%B1da_T%C3%BCrk_D%C3%B6vl%C9%99tl%C9%99ri_T%C9%99%C5%9Fkilat%C4%B1na_%C3%BCzv_d%C3%B6vl%C9%99tl%C9%99rin_H%C3%B6kum%C9%99t_ba%C5%9F%C3%A7%C4%B1lar%C4%B1n%C4%B1n%2C_Vitse-prezidentinin_ikinci_g%C3%B6r%C3%BC%C5%9F%C3%BCnd%C9%99n_%C9%99vv%C9%99l_%C3%A7%C9%99kilmi%C5%9F_foto.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2e00ac9fbb8dc400": {
+   "icerik": {
+    "ana_kutu": [
+     325,
+     495,
+     995,
+     715
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kürsü",
+     "mikrofon",
+     "bayrak",
+     "MHP logosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Devlet Bahçeli MHP kürsüsünde konuşma yapıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "MHP haberi",
+     "Bahçeli haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "makam ziyareti",
+     "özel görüşme",
+     "rapor sunumu"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      325,
+      555,
+      495,
+      625
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3b2dde7ec2a5:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bahçeli görülüyor ancak fotoğraf bir grup toplantısına ait, haberdeki makam ziyaretiyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       325,
+       495,
+       995,
+       715
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kalabalık miting",
+       "sokak eylemi"
+      ]
+     },
+     "t": "2026-11-18T16:26:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d9c8c8589383898",
+    "sha": "42d585c8397158ed63d5b093"
+   },
+   "t": "2026-11-18T16:26:43+03:00",
+   "teknik": {
+    "doygunluk": 38.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.08,
+    "keskinlik": 1405,
+    "kontrast": 48,
+    "medyan": 96,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bah%C3%A7eli_talking_at_group_meeting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "2e1ccd4c4ffb98b8": {
    "icerik": {
@@ -59239,6 +59384,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/1280px-Antalya_Serik_Plaj%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "61b8fdddcf2a58b4": {
+   "icerik": {
+    "ana_kutu": [
+     202,
+     203,
+     1000,
+     773
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çalışma masası",
+     "masa lambası",
+     "harita",
+     "portre",
+     "kitaplık",
+     "perde"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen tarihî bir makam odası ve çalışma masası görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "siyaset haberleri",
+     "müze tanıtımı",
+     "tarihî mekanlar"
+    ],
+    "uygunsuz_baglamlar": [
+     "canlı makam ziyareti",
+     "spor müsabakaları",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3b2dde7ec2a5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Makam odası görünse de yabancı bir müze odası olması ve haberdeki ziyaretçilerin bulunmaması nedeniyle uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "makam odası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       202,
+       203,
+       1000,
+       773
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T16:27:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d591b393d3979f1",
+    "sha": "26c33285fd329b6f90199ddd"
+   },
+   "t": "2026-11-18T16:27:22+03:00",
+   "teknik": {
+    "doygunluk": 58.9,
+    "inen": [
+     500,
+     325
+    ],
+    "karanlik_oran": 0.212,
+    "keskinlik": 1643,
+    "kontrast": 58,
+    "medyan": 103,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Museum_of_Political_History_of_Russia_Saint_Petersburg_01.jpg/1280px-Museum_of_Political_History_of_Russia_Saint_Petersburg_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "61c70ac8abfa2dbc": {
    "icerik": {
@@ -96224,6 +96464,10 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Istan-Schah16_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "9fd6d9c865a7c0a5": {
+   "ozet": {
+    "dh": "7a4969e8cc053817",
+    "sha": "0e239fa6e581e5db13a21c02"
+   },
    "t": "2026-11-07T23:51:12+03:00",
    "teknik": {
     "doygunluk": 18.3,
@@ -113462,6 +113706,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826491334766%29.jpg/1280px-NCAA_beach_volleyball_match_at_Stanford_in_2016_%2826491334766%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ba003a40fa582531": {
+   "ozet": {
+    "dh": "9aa35b5f55631110",
+    "sha": "1770aad2fc3ff1e66193e003"
+   },
    "t": "2026-11-07T23:51:12+03:00",
    "teknik": {
     "doygunluk": 37.7,
