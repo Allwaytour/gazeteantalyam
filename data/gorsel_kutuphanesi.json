@@ -7784,6 +7784,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki araç benzinli bir sedan olup haberdeki güneş enerjili araçla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:13+03:00"
+    },
     "r1:bccd09350406:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -7820,7 +7846,7 @@
     "dh": "f4d6777165e9e143",
     "sha": "8cc8530bfb1658b72c65c9c5"
    },
-   "t": "2026-11-09T17:35:28+03:00",
+   "t": "2026-11-18T22:56:13+03:00",
    "teknik": {
     "doygunluk": 18.3,
     "inen": [
@@ -9217,6 +9243,113 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ed_Burtynsky_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "0e0efc68d8074f3f": {
+   "icerik": {
+    "ana_kutu": [
+     471,
+     222,
+     977,
+     938
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "projeksiyon",
+     "sandalye",
+     "ekran",
+     "kürsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konferans salonunda sunumu izleyen kalabalık izleyiciler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans",
+     "sunum",
+     "seminer"
+    ],
+    "uygunsuz_baglamlar": [
+     "güneş enerjili araç testi",
+     "sokak turu",
+     "yarış"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      599,
+      462,
+      977,
+      616
+     ],
+     [
+      537,
+      638,
+      898,
+      762
+     ],
+     [
+      508,
+      810,
+      715,
+      878
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta araç testi yerine kapalı alanda sunum izleyen bir grup insan yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "25a63834b232b030",
+    "sha": "8e0f32d52b6d473bf0634089"
+   },
+   "t": "2026-11-18T22:56:39+03:00",
+   "teknik": {
+    "doygunluk": 35.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.37,
+    "keskinlik": 2060,
+    "kontrast": 55,
+    "medyan": 68,
+    "parlaklik": 79,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Parker_Solar_Probe_Families_and_Friends_Day_-_26248214477.jpg/1280px-Parker_Solar_Probe_Families_and_Friends_Day_-_26248214477.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0e369e4a8d6abda6": {
    "icerik": {
@@ -41921,6 +42054,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Best_Places_To_Work_awards.jpg/1280px-Best_Places_To_Work_awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "41de92c9f667473e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yıldız",
+     "galaksi",
+     "dağ",
+     "ufuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karanlık gece gökyüzünde Samanyolu galaksisi ve yıldızlar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "astroloji",
+     "uzay bilimi",
+     "gece manzarası"
+    ],
+    "uygunsuz_baglamlar": [
+     "otomotiv",
+     "güneş enerjisi",
+     "şehir içi ulaşım"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta uzay ve galaksi manzarası yer alıyor, haberle hiçbir ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0fc7cf8fb928c16a",
+    "sha": "8b4b5ada492261395e14a859"
+   },
+   "t": "2026-11-18T22:56:29+03:00",
+   "teknik": {
+    "doygunluk": 23.1,
+    "inen": [
+     1280,
+     339
+    ],
+    "karanlik_oran": 0.416,
+    "keskinlik": 397,
+    "kontrast": 35,
+    "medyan": 57,
+    "parlaklik": 61,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.tiff/lossy-page1-1280px-It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "421fca57757df506": {
    "icerik": {
     "ana_kutu": [
@@ -43307,6 +43528,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg/1280px-Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "43f9a36b52d2cd63": {
+   "ozet": {
+    "dh": "0f87cf8f9928c149",
+    "sha": "8795c5e37d6950fa682f6be7"
+   },
+   "t": "2026-11-18T22:56:13+03:00",
+   "teknik": {
+    "doygunluk": 24.4,
+    "inen": [
+     500,
+     132
+    ],
+    "karanlik_oran": 0.444,
+    "keskinlik": 661,
+    "kontrast": 32,
+    "medyan": 54,
+    "parlaklik": 59,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.jpg/1280px-It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "44029827a6b9fa7d": {
    "icerik": {
@@ -51375,6 +51617,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş temasını desteklese de haberdeki güneş enerjili araç yer almamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:13+03:00"
+    },
     "r1:61f76e19ec80:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -51437,7 +51705,11 @@
      "t": "2026-11-08T15:44:01+03:00"
     }
    },
-   "t": "2026-11-08T19:03:41+03:00",
+   "ozet": {
+    "dh": "6c25a563337343cd",
+    "sha": "f5fab308fe0740bfa42daaee"
+   },
+   "t": "2026-11-18T22:56:13+03:00",
    "teknik": {
     "doygunluk": 35.7,
     "inen": [
@@ -53009,6 +53281,123 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Abdulkadir_Uraloglu_and_Oliv%C3%A9r_V%C3%A1rhelyi_25102023.jpg/1280px-Abdulkadir_Uraloglu_and_Oliv%C3%A9r_V%C3%A1rhelyi_25102023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5517c160b1461f89": {
+   "icerik": {
+    "ana_kutu": [
+     348,
+     23,
+     725,
+     932
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "güneş enerjili araç",
+     "insan",
+     "trafik konisi",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda sergilenen sarı renkli güneş enerjili yarış aracı ve çevresindeki insanlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "güneş enerjili araç",
+     "teknoloji yarışması",
+     "ariv haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel antalya turu",
+     "cop31 iklim zirvesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      202,
+      192,
+      442,
+      254
+     ],
+     [
+      206,
+      286,
+      418,
+      335
+     ],
+     [
+      202,
+      338,
+      396,
+      392
+     ],
+     [
+      180,
+      468,
+      368,
+      528
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjili araç görülüyor ancak fotoğraf eski ve farklı bir ekibe ait.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       348,
+       23,
+       725,
+       932
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "081dd96791f2331d",
+    "sha": "8b836592acd8f61093b8352a"
+   },
+   "t": "2026-11-18T22:56:29+03:00",
+   "teknik": {
+    "doygunluk": 31.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.143,
+    "keskinlik": 2505,
+    "kontrast": 61,
+    "medyan": 121,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/University_of_Michigan_Solar_Car_Team_NASC_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "551b9ec8cab89a68": {
    "icerik": {
@@ -56164,6 +56553,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Recycling_and_Garbage_Bin_in_Municipal_Park.jpg/1280px-Recycling_and_Garbage_Bin_in_Municipal_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "59582943a86d3fe8": {
+   "icerik": {
+    "ana_kutu": [
+     576,
+     155,
+     800,
+     580
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "güneş enerjili araç",
+     "asfalt yol",
+     "çimen",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfaltta hareket halindeki beyaz ve kırmızı renkli güneş enerjili araç.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "güneş enerjili araç testi",
+     "yarış aracı",
+     "teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya sokakları",
+     "üniversite tanıtımı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjili bir test sürüşünü gösteriyor ancak İTÜ aracına ait değil.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       576,
+       155,
+       800,
+       580
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9c8ceeec1de7e711",
+    "sha": "52bf293741be745e6a582707"
+   },
+   "t": "2026-11-18T22:56:29+03:00",
+   "teknik": {
+    "doygunluk": 28.4,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 392,
+    "kontrast": 64,
+    "medyan": 161,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1578332183688-33ca3dbf70f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c29sYXIlMjBjYXIlMjBwcm90b3R5cGV8ZW58MXwwfHx8MTc5NTAzMTc2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "5963693045d718f4": {
    "icerik": {
@@ -67436,6 +67917,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjisiyle ilgili olsa da haberde belirtilen araç yerine çatı panellerini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:13+03:00"
+    },
     "r1:61f76e19ec80:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -67468,7 +67975,11 @@
      "t": "2026-11-08T19:04:05+03:00"
     }
    },
-   "t": "2026-11-08T19:04:05+03:00",
+   "ozet": {
+    "dh": "140e5ab39af3d393",
+    "sha": "78d06b74c041b1aeece46c2c"
+   },
+   "t": "2026-11-18T22:56:13+03:00",
    "teknik": {
     "doygunluk": 23.8,
     "inen": [
@@ -89706,6 +90217,119 @@
    },
    "url": "https://images.unsplash.com/photo-1693142518820-78d7a05f1546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGlja2xlYmFsbCUyMGNvdXJ0fGVufDF8MHx8fDE3OTQzNTU2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "91527758c3e446aa": {
+   "icerik": {
+    "ana_kutu": [
+     174,
+     102,
+     981,
+     951
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 11,
+    "nesneler": [
+     "mont",
+     "sırt çantası",
+     "şapka",
+     "kamera"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alanda rehberi dinleyen aileler ve çocuklar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "müze gezisi",
+     "bilim merkezi",
+     "halk buluşması"
+    ],
+    "uygunsuz_baglamlar": [
+     "güneş enerjili araç testi",
+     "trafik haberi",
+     "yarış"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      462,
+      114,
+      981,
+      219
+     ],
+     [
+      360,
+      260,
+      940,
+      381
+     ],
+     [
+      176,
+      137,
+      917,
+      264
+     ],
+     [
+      157,
+      252,
+      477,
+      368
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta haberin konusu olan güneş enerjili araç yerine NASA etkinliğindeki insanlar görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9f8f86a7d2b2a2a6",
+    "sha": "9d3fb5a5c64daa3712248547"
+   },
+   "t": "2026-11-18T22:56:39+03:00",
+   "teknik": {
+    "doygunluk": 22.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.311,
+    "keskinlik": 1875,
+    "kontrast": 71,
+    "medyan": 91,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Parker_Solar_Probe_Families_and_Friends_Day.jpg/1280px-Parker_Solar_Probe_Families_and_Friends_Day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9190beae8a0a6e19": {
    "icerik": {
     "ana_kutu": [
@@ -101633,6 +102257,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg/1280px-Boeing_737-800_in_Gazipa%C5%9Fa-Alanya_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a6fce6713b9c9848": {
+   "icerik": {
+    "ana_kutu": [
+     435,
+     125,
+     848,
+     921
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güneş enerjili araç",
+     "asfalt yol",
+     "duvar",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfaltta duran beyaz ve mavi renkli aerodinamik güneş enerjili araç.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "güneş enerjili araç",
+     "mühendislik projesi",
+     "sergi"
+    ],
+    "uygunsuz_baglamlar": [
+     "antalya sokakları",
+     "itü kampüsü"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjili araç net şekilde görülüyor, temsilî görsel olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       435,
+       125,
+       848,
+       921
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cd7f08172506863d",
+    "sha": "896ef0895d3b78287ade2b78"
+   },
+   "t": "2026-11-18T22:56:29+03:00",
+   "teknik": {
+    "doygunluk": 32.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.188,
+    "keskinlik": 1390,
+    "kontrast": 57,
+    "medyan": 85,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1605989446226-fed63d0f3c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dW5pdmVyc2l0eSUyMHNvbGFyJTIwY2FyJTIwdGVhbXxlbnwxfDB8fHwxNzk1MDMxNzYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "a74d6b908a8feec1": {
    "icerik": {
@@ -113891,6 +114607,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjisi tesisi görünümü sunar ancak haberin ana öznesi olan araç yer almamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:13+03:00"
+    },
     "r1:506bfa4bb673:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -113931,7 +114673,7 @@
     "dh": "6ca435120e395384",
     "sha": "e4fd887cad3b3e8f0a7afc90"
    },
-   "t": "2026-11-16T14:44:04+03:00",
+   "t": "2026-11-18T22:56:13+03:00",
    "teknik": {
     "doygunluk": 31.2,
     "inen": [
@@ -131418,6 +132160,32 @@
      },
      "t": "2026-11-08T14:08:01+03:00"
     },
+    "r1:2a2d3320f3d8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güneş enerjisiyle ilgili bir tesis gösterilse de haberde bahsedilen araç bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "güneş enerjili araç",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T22:56:13+03:00"
+    },
     "r1:61f76e19ec80:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -131450,7 +132218,11 @@
      "t": "2026-11-08T19:03:41+03:00"
     }
    },
-   "t": "2026-11-08T19:03:41+03:00",
+   "ozet": {
+    "dh": "fefe06b3b0a4a424",
+    "sha": "cdd4cfc814ea995171161838"
+   },
+   "t": "2026-11-18T22:56:13+03:00",
    "teknik": {
     "doygunluk": 44.1,
     "inen": [
