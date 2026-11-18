@@ -73747,6 +73747,96 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/ArchaeoGLOBE_URBAN.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "7beb5e2636772c7f": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz",
+     "karpuz",
+     "ananas"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dilimlenmiş karpuz, ananas ve muzdan oluşan meyve tabağı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlıklı beslenme",
+     "meyve haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerli üretim",
+     "tarım politikası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ddd56404b3a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Muz içerse de Tayland konseptli bir görsel olduğu için yerli üretim haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:56:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "80a098d0ccc46064",
+    "sha": "fc269ee07d020463d79b900d"
+   },
+   "t": "2026-11-18T14:56:59+03:00",
+   "teknik": {
+    "doygunluk": 52.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 1003,
+    "kontrast": 51,
+    "medyan": 121,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Koh_Mak%2C_Thailand%2C_Fruit_salad%2C_Watermelon%2C_banana_and_pineapple.jpg/1280px-Koh_Mak%2C_Thailand%2C_Fruit_salad%2C_Watermelon%2C_banana_and_pineapple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7bf56c54c2aa1113": {
    "icerik": {
     "ana_kutu": [
@@ -81246,6 +81336,95 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kitchen_propane_gas_burners_-_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "850e3d8a71df0ce8": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz",
+     "muz ağacı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçta yetişen yeşil muz salkımı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım",
+     "meyve üretimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerli üretim",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ddd56404b3a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Muz görseli doğru ancak BAE'de çekildiği için yerli üretim vurgusuyla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:56:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3a5adaa8e9e6f1eb",
+    "sha": "a59001f8cddd326dbc8c9bc7"
+   },
+   "t": "2026-11-18T14:56:59+03:00",
+   "teknik": {
+    "doygunluk": 52.5,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 1258,
+    "kontrast": 50,
+    "medyan": 120,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Organic_bananas_growing_at_Al_Mawasim_Organic_Farm%2C_Abu_Dhabi.jpg/1280px-Organic_bananas_growing_at_Al_Mawasim_Organic_Farm%2C_Abu_Dhabi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8510ecf75c3df014": {
    "icerik": {
@@ -93140,13 +93319,34 @@
       "yasak": []
      },
      "t": "2026-11-08T14:10:08+03:00"
+    },
+    "r1:ddd56404b3a1:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber muz üretimi ile ilgili, fotoğraftaki kişi ise siyasetçidir, konuyla hiçbir ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:56:59+03:00"
     }
    },
    "ozet": {
     "dh": "68ccf0d896979796",
     "sha": "2d2bfb0ddf9e9b53f429a55a"
    },
-   "t": "2026-11-17T18:24:07+03:00",
+   "t": "2026-11-18T14:56:59+03:00",
    "teknik": {
     "doygunluk": 23.8,
     "inen": [
@@ -113259,6 +113459,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg/1280px-Presidential_inauguration_of_Recep_Tayyip_Erdogan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ba6ff4259dcadb82": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     0,
+     990,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "muz",
+     "tepsi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tepsi içinde duran bir salkım yeşil muz.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ddd56404b3a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi olan yerli muzu net bir şekilde temsil etmektedir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       10,
+       0,
+       990,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:56:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "166626145d25858d",
+    "sha": "e9c0a47d7f602c5751449826"
+   },
+   "t": "2026-11-18T14:56:59+03:00",
+   "teknik": {
+    "doygunluk": 43.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.036,
+    "keskinlik": 1149,
+    "kontrast": 43,
+    "medyan": 142,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_bunch_of_ripe_banana.jpg/1280px-A_bunch_of_ripe_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bae9816ec978101c": {
    "icerik": {
     "ana_kutu": [
@@ -118332,13 +118622,44 @@
       "yasak": []
      },
      "t": "2026-11-17T18:24:07+03:00"
+    },
+    "r1:ddd56404b3a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da muz bahçesini gösteren, haberin konusuyla doğrudan ilişkili temsilî bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "muz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       15,
+       780,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:56:59+03:00"
     }
    },
    "ozet": {
     "dh": "272f0707174723a3",
     "sha": "ea6fb865623c83b5be8d9b5f"
    },
-   "t": "2026-11-17T18:24:07+03:00",
+   "t": "2026-11-18T14:56:59+03:00",
    "teknik": {
     "doygunluk": 58.1,
     "inen": [
@@ -164111,6 +164432,64 @@
    "sinif": "konu",
    "son_kabul": "2026-11-17T22:46:43+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg/1280px-Drip_irrigation_system_installed_in_a_garden_for_efficient_water_management_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "ba6ff4259dcadb82": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4160,
+    3120
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2025-04-04",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tepsi içinde duran bir salkım yeşil muz.",
+   "gosterim_ad": "yerli muz üretimi ve ikramı",
+   "ilk_kabul": "2026-11-18T14:56:59+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "NiferO / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "NiferO",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:A_bunch_of_ripe_banana.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "muz",
+    "tepsi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_bunch_of_ripe_banana.jpg/500px-A_bunch_of_ripe_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım haberi",
+    "ürün tanıtımı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-18T14:56:59+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_bunch_of_ripe_banana.jpg/1280px-A_bunch_of_ripe_banana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
