@@ -4486,6 +4486,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flickr_-_schmuela_-_in_my_room.jpg/1280px-Flickr_-_schmuela_-_in_my_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "07e50411ff8ae3bd": {
+   "ozet": {
+    "dh": "6363434d8fcb6d22",
+    "sha": "bc152ea71b79b7a36251d501"
+   },
+   "t": "2026-11-18T13:57:56+03:00",
+   "teknik": {
+    "doygunluk": 59.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.649,
+    "keskinlik": 2449,
+    "kontrast": 59,
+    "medyan": 12,
+    "parlaklik": 49,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Saffron_threads_in_a_glass_jar_%28_Viora_Saffron_packaging%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "081a1486f93c47db": {
    "icerik": {
     "ana_kutu": [
@@ -28626,6 +28647,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Generation_III_Extended_Cold_Weather_Clothing_System.jpg/1280px-Generation_III_Extended_Cold_Weather_Clothing_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2c53473fa377e808": {
+   "icerik": {
+    "ana_kutu": [
+     14,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran",
+     "metal kasik",
+     "baharat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Desenli bir zemin üzerinde metal kaşık içinde safran",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "safran",
+     "baharat",
+     "tarim"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d80652d4ece0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran ve kaşık detaylarıyla haberin konusunu destekleyen başarılı bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "safran",
+        "var": true
+       },
+       {
+        "unsur": "baharat",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       14,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:58:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f1ccca72cce47091",
+    "sha": "83dd891ee5331d08902b86a8"
+   },
+   "t": "2026-11-18T13:58:02+03:00",
+   "teknik": {
+    "doygunluk": 47.6,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.273,
+    "keskinlik": 4856,
+    "kontrast": 70,
+    "medyan": 77,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Saffron_Red_Thread_%28_World%27s_Most_Expensive_Speices%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "2c69b108bb97bc8d": {
    "icerik": {
     "ana_kutu": [
@@ -37444,13 +37561,48 @@
       "yasak": []
      },
      "t": "2026-11-16T11:14:26+03:00"
+    },
+    "r1:d80652d4ece0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Cam kavanoz içerisindeki safran görüntüsü, üretim ve baharat temasını yansıtmak için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "safran",
+        "var": true
+       },
+       {
+        "unsur": "baharat",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       200,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:58:02+03:00"
     }
    },
    "ozet": {
     "dh": "162d4ebc30707013",
     "sha": "dea1f55158f565351924a7fb"
    },
-   "t": "2026-11-16T11:14:26+03:00",
+   "t": "2026-11-18T13:58:02+03:00",
    "teknik": {
     "doygunluk": 20.3,
     "inen": [
@@ -48927,6 +49079,30 @@
      },
      "t": "2026-11-13T03:58:33+03:00"
     },
+    "r1:6cc02d63531e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyenin otobüsü yer alsa da toplantı ve iş birliği haberi için uygun bir görsel değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "kalabalık halk"
+      ]
+     },
+     "t": "2026-11-18T13:57:43+03:00"
+    },
     "r1:b0953f3914ad:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -49138,7 +49314,7 @@
     "dh": "73ebf9e8cd406126",
     "sha": "d8931e4eddd003b0aa7478e8"
    },
-   "t": "2026-11-13T03:58:33+03:00",
+   "t": "2026-11-18T13:57:43+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -61088,6 +61264,101 @@
    },
    "url": "/images/kurum/e3c7221701dca071.jpg"
   },
+  "6476f01ff65a5454": {
+   "icerik": {
+    "ana_kutu": [
+     123,
+     62,
+     888,
+     908
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran",
+     "baharat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz arka plan üzerinde kurutulmuş safran iplikleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "safran",
+     "baharat",
+     "tarim"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d80652d4ece0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan safran iplikleri net bir şekilde temsilî ürün görseli olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "safran",
+        "var": true
+       },
+       {
+        "unsur": "baharat",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       123,
+       62,
+       888,
+       908
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:58:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "24127868f8f07003",
+    "sha": "58dc6744bb23696503cf7664"
+   },
+   "t": "2026-11-18T13:58:02+03:00",
+   "teknik": {
+    "doygunluk": 19.9,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.064,
+    "keskinlik": 2655,
+    "kontrast": 78,
+    "medyan": 251,
+    "parlaklik": 202,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg/1280px-Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6497172fa9907532": {
    "icerik": {
     "ana_kutu": [
@@ -67998,6 +68269,124 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Traditional_wedding_at_Meji-jingu_72570575_edc59b7ac3_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "7161a46022ee258b": {
+   "icerik": {
+    "ana_kutu": [
+     78,
+     163,
+     917,
+     988
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "baharat",
+     "tezgah",
+     "etiket",
+     "kutu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tezgahlarda sergilenen çeşitli baharatlar ve yazılı etiketler",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "pazar",
+     "baharat",
+     "alisveris"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      2,
+      11,
+      46,
+      50
+     ],
+     [
+      0,
+      60,
+      115,
+      107
+     ],
+     [
+      22,
+      128,
+      77,
+      163
+     ],
+     [
+      0,
+      183,
+      72,
+      292
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:d80652d4ece0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran ve baharatlar görülüyor ancak yabancı tabelalar ve pazar yeri ortamı Manavgat'taki kapalı dikey tarım haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "safran",
+        "var": true
+       },
+       {
+        "unsur": "baharat",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       491,
+       144,
+       915,
+       461
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:58:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "531f59b964e4d490",
+    "sha": "0fafc699e769cea999066bef"
+   },
+   "t": "2026-11-18T13:58:02+03:00",
+   "teknik": {
+    "doygunluk": 36.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 3856,
+    "kontrast": 60,
+    "medyan": 119,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Market_in_Manavgat.jpg/1280px-Market_in_Manavgat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7195fd0c99005d02": {
    "icerik": {
@@ -100404,6 +100793,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Green_Lane_Wastewater_Pumping_Station%2C_Lache_%283%29.jpg/1280px-Green_Lane_Wastewater_Pumping_Station%2C_Lache_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a8f8b775207f4dc4": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     0,
+     960,
+     988
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "tekerlekli sandalye",
+     "mikrofon",
+     "sandalye",
+     "kağıt",
+     "ekran"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Panoda konuşan yetkililer ve oturarak tartışan üç kişi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye",
+     "toplanti",
+     "konferans"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      216,
+      88,
+      307,
+      163
+     ],
+     [
+      182,
+      383,
+      946,
+      622
+     ],
+     [
+      155,
+      629,
+      929,
+      992
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:6cc02d63531e:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye etkinliğinde yetkililerin katıldığı toplantı sahnesi, haberle birebir uyuşmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       },
+       {
+        "unsur": "yetkililer",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       180,
+       0,
+       960,
+       988
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:57:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1db9931392b69697",
+    "sha": "8794376f6f06f7e7bd5f8abf"
+   },
+   "t": "2026-11-18T13:57:43+03:00",
+   "teknik": {
+    "doygunluk": 28.5,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.231,
+    "keskinlik": 1867,
+    "kontrast": 82,
+    "medyan": 126,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "/images/kurum/fa0ce9468b17c5ec.jpg"
+  },
   "a90f3241e691f6ac": {
    "icerik": {
     "ana_kutu": [
@@ -117847,6 +118353,101 @@
    },
    "url": "https://images.unsplash.com/photo-1738598669303-9e6c217ba01d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bWFraW5nJTIweXVma2ElMjBicmVhZHxlbnwxfDB8fHwxNzk0MTIxNDQxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c48e2828d2666428": {
+   "icerik": {
+    "ana_kutu": [
+     61,
+     74,
+     981,
+     968
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "safran",
+     "baharat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz zeminde dağınık şekilde duran kırmızı safran iplikleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "safran",
+     "baharat",
+     "tarim"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d80652d4ece0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Safran üretimi haberi için uygun bir ürün/temsilî fotoğraf niteliğindedir.",
+      "gerekli": [
+       {
+        "unsur": "safran",
+        "var": true
+       },
+       {
+        "unsur": "baharat",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       61,
+       74,
+       981,
+       968
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:58:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "20b0f0f0f0f170a8",
+    "sha": "a759f648387a962d586899b8"
+   },
+   "t": "2026-11-18T13:58:02+03:00",
+   "teknik": {
+    "doygunluk": 14.3,
+    "inen": [
+     500,
+     479
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 2676,
+    "kontrast": 70,
+    "medyan": 255,
+    "parlaklik": 218,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Iran_saffron_threads.jpg/1280px-Iran_saffron_threads.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c4d4c637cf3fc11c": {
    "icerik": {
     "ana_kutu": [
@@ -132131,6 +132732,30 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
+    "r1:6cc02d63531e:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyeye ait bir otobüsü gösterse de kentsel iş birliği görüşmesi haberiyle doğrudan ilişkili değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak",
+       "kalabalık halk"
+      ]
+     },
+     "t": "2026-11-18T13:57:43+03:00"
+    },
     "r1:8c02ac069380:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -132232,40 +132857,6 @@
       ]
      },
      "t": "2026-11-18T12:26:47+03:00"
-    },
-    "r1:c1d4e65fac13:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf eski bir otobüse ait olup, güncel çevre düzenlemesi haberiyle uyuşmamaktadır.",
-      "gerekli": [
-       {
-        "unsur": "belediye işçileri",
-        "var": false
-       },
-       {
-        "unsur": "cadde",
-        "var": false
-       },
-       {
-        "unsur": "çevre düzenlemesi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": true,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T11:40:33+03:00"
     },
     "r1:c801e6c491fa:ozne_kurum": {
      "d": {
@@ -132371,7 +132962,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-18T12:26:47+03:00",
+   "t": "2026-11-18T13:57:43+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -159065,6 +159656,65 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "6476f01ff65a5454": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3520,
+    2356
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2015-02-07",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Beyaz arka plan üzerinde kurutulmuş safran iplikleri",
+   "gosterim_ad": "dikey tarımla safran üretimi",
+   "ilk_kabul": "2026-11-18T13:58:02+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Hubertl / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Hubertl",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "baharat",
+    "safran"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg/500px-Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "safran",
+    "baharat",
+    "tarim"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-18T13:58:02+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg/1280px-Safran-Weinviertel_Niederreiter_2_Gramm_8285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "6822eff0fc330891": {
    "alt_tur": "kurum",
    "boyut": [
@@ -162161,6 +162811,72 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "a8f8b775207f4dc4": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Panoda konuşan yetkililer ve oturarak tartışan üç kişi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-18T13:57:43+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/cop31de-buyuksehirden-iklim-icin-ortak-akil-bulusmasi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ekran",
+    "kağıt",
+    "mikrofon",
+    "sandalye",
+    "tekerlekli sandalye",
+    "yetkililer"
+   ],
+   "kucuk": "/images/kurum/fa0ce9468b17c5ec.jpg",
+   "kullanilabilir": [
+    "belediye",
+    "toplanti",
+    "konferans"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "kaza",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-18T13:57:43+03:00",
+   "url": "/images/kurum/fa0ce9468b17c5ec.jpg",
+   "uygun_yerlesimler": [
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "aaaa07fd45b7560b": {
    "alt_tur": "nesne",
