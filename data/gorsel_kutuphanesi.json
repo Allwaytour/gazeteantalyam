@@ -21783,26 +21783,13 @@
      },
      "t": "2026-11-08T13:35:44+03:00"
     },
-    "r1:5b9ac698b69f:ozne_kurum": {
+    "r1:302ea416ccd8:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": true,
       "belirli_kisi_isletme": false,
-      "gerekce": "Antalya ve hediye paketleriyle ilgisiz bir dış saha ziyareti karesidir.",
-      "gerekli": [
-       {
-        "unsur": "ahşap hediye kutusu",
-        "var": false
-       },
-       {
-        "unsur": "reçel ve tahin kavanozları",
-        "var": false
-       },
-       {
-        "unsur": "çevre dostu ambalaj",
-        "var": false
-       }
-      ],
+      "gerekce": "Haberin konusuyla ilgisiz, yabancı bir ülkede çekilmiş, bağlam dışı bir fotoğraf.",
+      "gerekli": [],
       "ilgisiz_yer_nesne": true,
       "konu_ana_unsur": false,
       "konu_kutusu": null,
@@ -21815,7 +21802,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T12:04:28+03:00"
+     "t": "2026-11-18T15:58:44+03:00"
     },
     "r1:a6a0f4af4a3f:ozne_kurum": {
      "d": {
@@ -22083,7 +22070,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-17T12:24:16+03:00",
+   "t": "2026-11-18T15:58:44+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -27974,6 +27961,38 @@
     ]
    },
    "iliski": {
+    "r1:14d0d57c7347:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin öznesi çocuk yerine yetişkin bir erkek konuşmacı yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çocuk konuşmacı",
+        "var": false
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yetişkin konuşmacı"
+      ]
+     },
+     "t": "2026-11-18T15:56:10+03:00"
+    },
     "r1:52228148a5e9:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -28007,7 +28026,7 @@
     "dh": "abab8bc1cbcbc5d5",
     "sha": "a84039464644dc3af34f59db"
    },
-   "t": "2026-11-15T11:11:45+03:00",
+   "t": "2026-11-18T15:56:10+03:00",
    "teknik": {
     "doygunluk": 63.3,
     "inen": [
@@ -64021,6 +64040,32 @@
     ]
    },
    "iliski": {
+    "r1:302ea416ccd8:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesiyle doğrudan ilgili ancak olayla ilgisi olmayan bir portre fotoğrafı.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       150,
+       1000,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T15:58:44+03:00"
+    },
     "r1:4994be6d9c16:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -64233,32 +64278,6 @@
      },
      "t": "2026-11-18T12:26:39+03:00"
     },
-    "r1:c51e24f86779:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberin ana öznesinin güncel ve net bir portre fotoğrafıdır, arşiv kullanımı için uygundur.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       100,
-       150,
-       900,
-       850
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T15:36:40+03:00"
-    },
     "r1:cd065b0f5923:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -64342,7 +64361,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-18T12:26:47+03:00",
+   "t": "2026-11-18T15:58:44+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -121272,6 +121291,41 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
+    "r1:302ea416ccd8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir toplantı karesi, iklim zirvesi atmosferini yansıtmak için uygun.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": true
+       },
+       {
+        "unsur": "iklim zirvesi katılımcıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       110,
+       790,
+       870
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T15:58:44+03:00"
+    },
     "r1:3996b6c9b754:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -121524,34 +121578,13 @@
       "yasak": []
      },
      "t": "2026-11-09T17:05:32+03:00"
-    },
-    "r1:e8a72ca09f4d:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T21:03:09+03:00"
     }
    },
    "ozet": {
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-18T14:26:54+03:00",
+   "t": "2026-11-18T15:58:44+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -132694,6 +132727,41 @@
     ]
    },
    "iliski": {
+    "r1:302ea416ccd8:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin içeriğiyle doğrudan örtüşen, iklim konulu bir toplantıdan güncel bir kare.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": true
+       },
+       {
+        "unsur": "iklim zirvesi katılımcıları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       120,
+       880,
+       890
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T15:58:44+03:00"
+    },
     "r1:b5112bc1e145:ayni_olay": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -132769,7 +132837,7 @@
     "dh": "07071bc7d5e82480",
     "sha": "ebc7ea1943529cd40c9bfc10"
    },
-   "t": "2026-11-17T22:44:54+03:00",
+   "t": "2026-11-18T15:58:44+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
@@ -147212,6 +147280,27 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
+    "r1:302ea416ccd8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş olsa da iklim zirvesi haberiyle ilgisi olmayan bir tarım manzarası.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T15:58:44+03:00"
+    },
     "r1:531a87545809:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -147309,36 +147398,6 @@
       "yasak": []
      },
      "t": "2026-11-12T01:27:54+03:00"
-    },
-    "r1:9b5513850189:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Kırsal alanda meyve kasalama ve yükleme çalışması gösterilmektedir; COP31 iklim zirvesi haberiyle uyuşmamaktadır.",
-      "gerekli": [
-       {
-        "unsur": "iklim zirvesi salonu veya tabelası",
-        "var": false
-       },
-       {
-        "unsur": "yenilenebilir enerji unsurları",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:04:07+03:00"
     },
     "r1:afeeb5fe5c41:konu": {
      "d": {
@@ -147486,7 +147545,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-18T12:26:47+03:00",
+   "t": "2026-11-18T15:58:44+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -166080,7 +166139,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-17T12:24:16+03:00",
    "izin_kapsami": "ayni_haber",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Antalya Büyükşehir Belediyesi",
     "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
@@ -166104,11 +166163,13 @@
    },
    "konular": [
     "bilimsel sunum",
+    "iklim zirvesi katılımcıları",
     "konferans afişi",
     "konferans salonu",
     "konuşmacılar",
     "sahne",
-    "tekli koltuk"
+    "tekli koltuk",
+    "toplantı salonu"
    ],
    "kucuk": "/images/kurum/e4850a095286afbb.jpg",
    "kullanilabilir": [
@@ -166126,7 +166187,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "ayni_olay",
-   "son_kabul": "2026-11-17T22:44:54+03:00",
+   "son_kabul": "2026-11-18T15:58:44+03:00",
    "url": "/images/kurum/e4850a095286afbb.jpg",
    "uygun_yerlesimler": [
     "manset",
