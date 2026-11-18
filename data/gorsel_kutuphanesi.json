@@ -34446,6 +34446,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/TAP_Fare_Capping_Ad.jpg/1280px-TAP_Fare_Capping_Ad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "35a4f6708fd7d4ef": {
+   "ozet": {
+    "dh": "cf3b6d6f3363733d",
+    "sha": "78e8f492cc9245fd88bdea13"
+   },
    "t": "2026-11-07T23:48:18+03:00",
    "teknik": {
     "doygunluk": 55.8,
@@ -40714,6 +40718,41 @@
      },
      "t": "2026-11-08T12:11:12+03:00"
     },
+    "r1:f1c78d14cb77:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel halk oyunları gösterisini temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "gösteri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       995,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:34:55+03:00"
+    },
     "r1:fe7cea637c76:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -40745,7 +40784,7 @@
     "dh": "5752767945d5d5a5",
     "sha": "4340bc919e0e56f3aeb6b675"
    },
-   "t": "2026-11-13T01:57:43+03:00",
+   "t": "2026-11-18T13:34:55+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -64692,6 +64731,97 @@
    },
    "url": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "6b3d435678b4a095": {
+   "icerik": {
+    "ana_kutu": [
+     770,
+     584,
+     868,
+     722
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kaldırım",
+     "bina",
+     "tabela",
+     "sokak lambası",
+     "çadır iskeleti"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaldırımda yaya yolu ve bina girişi önünde hatıra taşı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kent haberleri",
+     "tarihi olaylar"
+    ],
+    "uygunsuz_baglamlar": [
+     "gazete ziyaretleri",
+     "röportajlar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7711fb2c3de6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bır gazete binası dışında farklı bir mekan ve anı taşı yer almaktadır, ziyaret haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "gazete binosu",
+        "var": true
+       },
+       {
+        "unsur": "basin calisanlari",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:34:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "796167353d737fbf",
+    "sha": "36c84a25bb90ded56edf6cdb"
+   },
+   "t": "2026-11-18T13:34:19+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.375,
+    "keskinlik": 1308,
+    "kontrast": 59,
+    "medyan": 65,
+    "parlaklik": 76,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_5.jpg/1280px-Hrant_Dink_memorial_stone%2C_Osmanbey%2C_Istanbul_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6b4125998d2840c1": {
    "icerik": {
     "ana_kutu": [
@@ -70543,6 +70673,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7566a70a1b740ed5": {
+   "ozet": {
+    "dh": "185a1c1e1b3a2c0c",
+    "sha": "7e686e107adb7023113b6bbe"
+   },
    "t": "2026-11-07T23:48:18+03:00",
    "teknik": {
     "doygunluk": 30.8,
@@ -119146,6 +119280,103 @@
    },
    "url": "https://images.unsplash.com/photo-1606800052052-a08af7148866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2VkZGluZyUyMHJpbmdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MDg4OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c74a797e2bce7799": {
+   "icerik": {
+    "ana_kutu": [
+     58,
+     0,
+     706,
+     992
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 100,
+    "nesneler": [
+     "sahne",
+     "ışıklandırma",
+     "seyirci",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık hava sahnesinde etkinlik izleyen kalabalık seyirciler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "festival haberi",
+     "etkinlik haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "spor haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f1c78d14cb77:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Etkinlik sahnesi ve izleyiciler açıkça görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "gösteri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       58,
+       0,
+       706,
+       992
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:34:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f13138e4d0daa8a",
+    "sha": "5e36782f2d9f61869e8f7a14"
+   },
+   "t": "2026-11-18T13:34:55+03:00",
+   "teknik": {
+    "doygunluk": 46.4,
+    "inen": [
+     720,
+     480
+    ],
+    "karanlik_oran": 0.422,
+    "keskinlik": 2595,
+    "kontrast": 55,
+    "medyan": 59,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "/images/kurum/77f7e5b954efc2bc.jpg"
+  },
   "c754a1824711fb77": {
    "t": "2026-11-08T15:18:41+03:00",
    "teknik": {
@@ -163386,6 +163617,73 @@
    "url": "/images/kurum/8f2b6887ea021d3a.jpg",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
+  },
+  "c74a797e2bce7799": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    720,
+    480
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık hava sahnesinde etkinlik izleyen kalabalık seyirciler.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-18T13:34:55+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Muratpaşa Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Muratpaşa Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Muratpaşa Belediyesi",
+    "sayfa": "https://muratpasa-bld.gov.tr/haber/11141/cop-night-ta-sanatin-diliyle-iklim-mesaji"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Muratpaşa Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "gösteri",
+    "sahne",
+    "sandalye",
+    "seyirci",
+    "ışıklandırma"
+   ],
+   "kucuk": "/images/kurum/77f7e5b954efc2bc.jpg",
+   "kullanilabilir": [
+    "konser haberi",
+    "festival haberi",
+    "etkinlik haberi"
+   ],
+   "kullanilamaz": [
+    "ekonomi haberi",
+    "spor haberi",
+    "magazin haberi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-18T13:34:55+03:00",
+   "url": "/images/kurum/77f7e5b954efc2bc.jpg",
+   "uygun_yerlesimler": [
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": true
