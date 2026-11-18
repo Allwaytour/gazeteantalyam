@@ -11568,6 +11568,94 @@
    },
    "url": "https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2hvdG9rYW4lMjBrYXJhdGUlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzk0NDM2MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "128efb657a06ff34": {
+   "icerik": {
+    "ana_kutu": [
+     415,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kumsal",
+     "deniz",
+     "dalga",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsala vuran dalgalar ve sahil şeridi",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "doğa haberi",
+     "çevre haberi",
+     "turizm haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bc406f939bf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta ana özne olan caretta caretta yer almıyor, yalnızca kumsal var.",
+      "gerekli": [
+       {
+        "unsur": "caretta caretta",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:25:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f7bbff2f05133b19",
+    "sha": "0f47ab0812bfdac8156e5d4c"
+   },
+   "t": "2026-11-18T13:25:50+03:00",
+   "teknik": {
+    "doygunluk": 14.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.009,
+    "keskinlik": 1833,
+    "kontrast": 46,
+    "medyan": 164,
+    "parlaklik": 168,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_homeland_of_Caretta_caretta._Patara_beach%2C_Dalyan%2C_Antalya_%C2%A9Abdullah_Kiyga_-_panoramio.jpg/1280px-The_homeland_of_Caretta_caretta._Patara_beach%2C_Dalyan%2C_Antalya_%C2%A9Abdullah_Kiyga_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "12a617fef5a852a3": {
    "icerik": {
     "ana_kutu": [
@@ -44347,13 +44435,44 @@
       "yasak": []
      },
      "t": "2026-11-10T12:07:09+03:00"
+    },
+    "r1:bc406f939bf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sualtında caretta caretta kaplumbağasını net olarak gösteren uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "caretta caretta",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       504,
+       406,
+       804,
+       875
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:25:50+03:00"
     }
    },
    "ozet": {
     "dh": "0f33270f0f1c1e0e",
     "sha": "ae64060ed063ee5a8dd9e867"
    },
-   "t": "2026-11-10T12:07:09+03:00",
+   "t": "2026-11-18T13:25:50+03:00",
    "teknik": {
     "doygunluk": 74.0,
     "inen": [
@@ -151289,13 +151408,44 @@
       "yasak": []
      },
      "t": "2026-11-10T12:07:09+03:00"
+    },
+    "r1:bc406f939bf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Caretta caretta kaplumbağasını net şekilde gösteren uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "caretta caretta",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       67,
+       201,
+       988,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T13:25:50+03:00"
     }
    },
    "ozet": {
     "dh": "333e6d371e3c3e4f",
     "sha": "6723336c5dae3bcbe31e05e7"
    },
-   "t": "2026-11-10T12:07:09+03:00",
+   "t": "2026-11-18T13:25:50+03:00",
    "teknik": {
     "doygunluk": 35.0,
     "inen": [
@@ -165853,7 +166003,7 @@
    "gosterim_ad": "caretta caretta koruma çalışmaları",
    "ilk_kabul": "2026-11-10T12:07:09+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "ukanda / Wikimedia Commons (CC BY 2.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -165891,7 +166041,7 @@
    "qid": "",
    "sahne_turu": "diger",
    "sinif": "konu",
-   "son_kabul": "2026-11-10T12:07:09+03:00",
+   "son_kabul": "2026-11-18T13:25:50+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/1280px-Loggerhead_sea_turtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
