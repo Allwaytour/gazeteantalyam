@@ -26394,6 +26394,35 @@
      },
      "t": "2026-11-16T12:43:46+03:00"
     },
+    "r1:39223cfaf930:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber esnafın finansman sıkıntısı ile ilgili, ancak görselde sadece bir yolcu gemisi yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "esnaf",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "turist",
+       "otel"
+      ]
+     },
+     "t": "2026-11-18T16:57:43+03:00"
+    },
     "r1:3f321bd35c26:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -26471,27 +26500,6 @@
       "yasak": []
      },
      "t": "2026-11-13T16:05:29+03:00"
-    },
-    "r1:79e1fd898a17:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Limandaki yolcu gemisi bina denetimi konusuyla doğrudan ilişkili değildir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T13:39:02+03:00"
     },
     "r1:7a7ebccd1acc:yer": {
      "d": {
@@ -26697,7 +26705,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-17T13:33:45+03:00",
+   "t": "2026-11-18T16:57:43+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -35145,6 +35153,27 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/10.11.2026_-_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Turquia_-_55645239849_%28Recep_Tayyip_Erdo%C4%9Fan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "35eb27a5ffb20d35": {
+   "ozet": {
+    "dh": "3031262ea6c4b098",
+    "sha": "b09524628f0edcd4223cedc0"
+   },
+   "t": "2026-11-18T16:57:57+03:00",
+   "teknik": {
+    "doygunluk": 37.2,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.579,
+    "keskinlik": 1074,
+    "kontrast": 50,
+    "medyan": 38,
+    "parlaklik": 55,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1767678233351-9308d8220fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bWFya2V0JTIwc3RhbGwlMjBvd25lciUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NTAxMDI3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "35f2ff50920b7ff1": {
    "icerik": {
@@ -50217,6 +50246,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg/1280px-Alanya-Syedra-Westteil_-_Blick_vom_Reservoir_nach_Alanya_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "512caae3556a886e": {
+   "ozet": {
+    "dh": "62d10d0953589a9c",
+    "sha": "358af31c8bf95ad6fa3c3266"
+   },
+   "t": "2026-11-18T16:57:56+03:00",
+   "teknik": {
+    "doygunluk": 37.2,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.496,
+    "keskinlik": 755,
+    "kontrast": 58,
+    "medyan": 50,
+    "parlaklik": 72,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1768637758036-9a690925ae72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bWFya2V0JTIwc3RhbGwlMjBvd25lciUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NTAxMDI3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "51634f1d09d1ddb1": {
    "ozet": {
@@ -89027,6 +89077,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Limerick_Nuclear_Facility_from_422W.jpg/1280px-Limerick_Nuclear_Facility_from_422W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "91e8a3f411db69c5": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     186,
+     792,
+     312
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "tezgah",
+     "tabak",
+     "hediyelik eşya",
+     "esnaf",
+     "kilim"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hediyelik eşya ve mutfak gereçleri satan bir dükkanda tezgah başındaki esnaf.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "esnaf sorunları",
+     "turizm sezonu",
+     "alışveriş"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "maç",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      270,
+      187,
+      381,
+      250
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:39223cfaf930:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf dükkandaki esnafı gösterdiği için Alanya esnafı haberiyle uyumlu bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "esnaf",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       267,
+       186,
+       792,
+       312
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "turist",
+       "otel"
+      ]
+     },
+     "t": "2026-11-18T16:58:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cc26575f4f0f1c1d",
+    "sha": "a6d9b0e9a0e94efb3612678c"
+   },
+   "t": "2026-11-18T16:58:08+03:00",
+   "teknik": {
+    "doygunluk": 43.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 4080,
+    "kontrast": 63,
+    "medyan": 126,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1641918980089-00359adbf7a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGJhemFhciUyMG1lcmNoYW50fGVufDF8MHx8fDE3OTUwMTAyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "9219612886f8763a": {
    "icerik": {
     "ana_kutu": [
@@ -127469,6 +127623,97 @@
    },
    "url": "https://images.unsplash.com/photo-1657952099240-e0815c278147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dW5kZXJ3YXRlciUyMG1lbW9yaWFsJTIwZGl2ZSUyMHR1cmtleXxlbnwxfDB8fHwxNzk0MzUwNDE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "d2ea5593d2c3fcfa": {
+   "icerik": {
+    "ana_kutu": [
+     207,
+     0,
+     698,
+     301
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "raf",
+     "buzdolabı",
+     "tezgah",
+     "ürün"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İç mekan kooperatif mağazası rafları ve tezgahları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kooperatif",
+     "esnaf",
+     "mağaza"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:39223cfaf930:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta esnaf görünmüyor, sadece boş bir dükkan içi var.",
+      "gerekli": [
+       {
+        "unsur": "esnaf",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "turist",
+       "otel"
+      ]
+     },
+     "t": "2026-11-18T16:58:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2b0b19194d0d1b0f",
+    "sha": "adedffbe8307dc451576085a"
+   },
+   "t": "2026-11-18T16:58:08+03:00",
+   "teknik": {
+    "doygunluk": 39.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.095,
+    "keskinlik": 2154,
+    "kontrast": 47,
+    "medyan": 115,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/B%C3%9CKOOP_interior_2026.jpg/1280px-B%C3%9CKOOP_interior_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d34f3d1a8b63a179": {
    "icerik": {
     "ana_kutu": [
@@ -152471,6 +152716,27 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vindobona_Hoher_Markt-121.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "fb09d40063c1d890": {
+   "ozet": {
+    "dh": "577b3da75f9f3f5b",
+    "sha": "59df13a307fb421c70ea74f4"
+   },
+   "t": "2026-11-18T16:57:56+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.454,
+    "keskinlik": 1442,
+    "kontrast": 52,
+    "medyan": 55,
+    "parlaklik": 70,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1767427267019-dd961412b5db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGJhemFhciUyMG1lcmNoYW50fGVufDF8MHx8fDE3OTUwMTAyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "fb228ddab0fa19bb": {
    "icerik": {
