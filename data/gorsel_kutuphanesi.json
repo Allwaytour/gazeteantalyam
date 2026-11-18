@@ -35901,6 +35901,112 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg/1280px-Alanya_kalesi_i%C3%A7kale_giri%C5%9Fi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "37c8ae9b731ecb68": {
+   "icerik": {
+    "ana_kutu": [
+     347,
+     0,
+     878,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 25,
+    "nesneler": [
+     "ahşap bina",
+     "tabela",
+     "parke zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap bina önünde poz veren takım elbiseli kalabalık grup",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "belediye ziyareti",
+     "kurum etkinliği",
+     "siyaset haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor müsabakası",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      343,
+      0,
+      868,
+      67
+     ],
+     [
+      386,
+      252,
+      843,
+      319
+     ],
+     [
+      398,
+      349,
+      810,
+      417
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:bd7e65a8d163:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Büşra Özdemir'in de aralarında bulunduğu kalabalık heyetin yer aldığı güncel bir etkinlik karesi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       386,
+       349,
+       810,
+       417
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T12:26:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "280d956cdbcd0f1f",
+    "sha": "5c5ae1dced9cb4b4da5923f2"
+   },
+   "t": "2026-11-18T12:26:47+03:00",
+   "teknik": {
+    "doygunluk": 28.2,
+    "inen": [
+     1280,
+     768
+    ],
+    "karanlik_oran": 0.362,
+    "keskinlik": 2138,
+    "kontrast": 71,
+    "medyan": 97,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "/images/kurum/adf4e15e125644d9.jpg"
+  },
   "37dfafac38a0621e": {
    "icerik": {
     "ana_kutu": [
@@ -63232,32 +63338,6 @@
     ]
    },
    "iliski": {
-    "r1:0ec4e9aa3588:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberin ana öznesinin net arşiv portresi, haber için uygundur.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T13:19:46+03:00"
-    },
     "r1:4994be6d9c16:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -63449,6 +63529,27 @@
      },
      "t": "2026-11-10T11:07:47+03:00"
     },
+    "r1:bd7e65a8d163:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişi Murat Kurum'dur, haberin ana öznesi Büşra Özdemir ile ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T12:26:39+03:00"
+    },
     "r1:c51e24f86779:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -63558,7 +63659,7 @@
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-17T13:24:53+03:00",
+   "t": "2026-11-18T12:26:47+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -80252,27 +80353,6 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
-    "r1:24c577389570:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Görüntüde tarımsal hasat ve yükleme çalışması var, sıfır atık kampanyasıyla doğrudan ilişkisi bulunmuyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:35:44+03:00"
-    },
     "r1:531a87545809:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -80471,6 +80551,30 @@
      },
      "t": "2026-11-13T00:28:45+03:00"
     },
+    "r1:bd7e65a8d163:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla ilgisiz tarım işçileri ve kasalar yer almaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kapalı ekran",
+       "hata mesajı"
+      ]
+     },
+     "t": "2026-11-18T12:26:47+03:00"
+    },
     "r1:c88bc2c2f478:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -80523,7 +80627,7 @@
     "dh": "4a56869ef4fc1f87",
     "sha": "7c0fa133905b018218dd499e"
    },
-   "t": "2026-11-17T14:54:03+03:00",
+   "t": "2026-11-18T12:26:47+03:00",
    "teknik": {
     "doygunluk": 23.4,
     "inen": [
@@ -122093,6 +122197,37 @@
      },
      "t": "2026-11-16T13:12:51+03:00"
     },
+    "r1:827e0e26b20d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki 'TRAFFIC' yazısı yabancı kaynak izlenimi veriyor ancak genel polis temsilî görseli olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "polis ekibi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T12:27:01+03:00"
+    },
     "r1:b18e7b775ac4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -122190,7 +122325,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-17T21:25:12+03:00",
+   "t": "2026-11-18T12:27:01+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -131331,6 +131466,30 @@
      },
      "t": "2026-11-08T12:04:05+03:00"
     },
+    "r1:bd7e65a8d163:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediye otobüsü görseli belediye yönetimiyle ilgili haberde bağlamsal olarak zayıf ve ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kapalı ekran",
+       "hata mesajı"
+      ]
+     },
+     "t": "2026-11-18T12:26:47+03:00"
+    },
     "r1:c1d4e65fac13:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -131469,7 +131628,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-17T15:55:53+03:00",
+   "t": "2026-11-18T12:26:47+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -145306,27 +145465,6 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
-    "r1:24c577389570:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya Alakır Çayı vadisindeki hasat çalışması, sıfır atık kampanyası başvuruları ile ilgisiz.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:35:44+03:00"
-    },
     "r1:531a87545809:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -145525,6 +145663,30 @@
      },
      "t": "2026-11-13T00:28:45+03:00"
     },
+    "r1:bd7e65a8d163:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla tamamen ilgisiz tarım ve hasat görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kapalı ekran",
+       "hata mesajı"
+      ]
+     },
+     "t": "2026-11-18T12:26:47+03:00"
+    },
     "r1:c88bc2c2f478:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -145577,7 +145739,7 @@
     "dh": "9e9e7eca995f266a",
     "sha": "2d47a767f82f54cbd51c756d"
    },
-   "t": "2026-11-17T14:54:03+03:00",
+   "t": "2026-11-18T12:26:47+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -155658,6 +155820,70 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "37c8ae9b731ecb68": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    768
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahşap bina önünde poz veren takım elbiseli kalabalık grup",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-18T12:26:47+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/cop31-kapsaminda-%E2%80%9Ciklim-dayanikli-tarim-icin-antalya-mutabakati%E2%80%9D-imzalandi"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ahşap bina",
+    "parke zemin",
+    "tabela"
+   ],
+   "kucuk": "/images/kurum/adf4e15e125644d9.jpg",
+   "kullanilabilir": [
+    "belediye ziyareti",
+    "kurum etkinliği",
+    "siyaset haberleri"
+   ],
+   "kullanilamaz": [
+    "magazin",
+    "spor müsabakası",
+    "teknoloji",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-18T12:26:47+03:00",
+   "url": "/images/kurum/adf4e15e125644d9.jpg",
+   "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "37dfafac38a0621e": {
    "alt_tur": "kurum",

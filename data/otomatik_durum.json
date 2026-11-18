@@ -1,202 +1,7 @@
 {
  "gun": "2026-11-18",
- "yz_bugun": 9,
+ "yz_bugun": 14,
  "gorulen": [
-  {
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVFUaFpQbFFmZVBReE03djF3ckt4Rk1uNHBHUHBzZXFOaTk2Vk9KV2FYOF93dmZGTjJZZExsck1MT1BZSV9IQnZaZC1UdmY3Y3RnT2ZDdVhPVFV5dENHb3pFWnNJellkTDRmN0FSWjlLeGlNcGc0RnRxYmdrTmktbTNPUU5VRVFseExkM2FNVUpJYU4wSHhXcnFMMFRvODZKMEhoVEN3?oc=5",
-   "baslik": "Antalya Büyükşehir Belediyesi’nin \"COP31 Şehir Etkinlikleri\" sürüyor",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEZPalNZTE9vWG1mRmRUdE9PSGZRMGdUcnB3TFM4UlFxMDRwRk8wdjhvcWFfaDA2eHRQc3lZVDNiaWFhVGpqY3FXVmtJNXVUS2FOdG8tOWVFX3pTSEVnaFhDX1dZWG9GMjlWNjY1RTJHOXd5dXNnbDZkLVdrRDgySGdwSQ?oc=5",
-   "baslik": "Erdoğan ile Paşinyan COP31'de Antalya'da görüştü",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWZpa2tCUlFQeGdvNGNMZEQzSGdlNndEbUMzMlBEY1RhQlc4SXZGNkk3enRERXl1UldyWTNuUzFqSmRidGhQbEF2bUxUaTVHWWltY1hNV1I3TFozUWVVLWpuenV5eWlSb052d2k0ajU2Z21DM3FJUklMUEp0MzRqZ3llcFZzZnB3Zzl0d3JvblNyTWdSM0VwX3RxY9IBoAFBVV95cUxNT3RzaXNocTE3Wmc4TlRXYXF2cXR4Q2FUME9sWWhScWlCUjgtcUgxZW9QYzRzUl9zcTRUbWM2bGxCb1NBSndzaVY4VGJhZUtPcS13elk5cUpZd0o2VDVUdEd4ZjE0dUhqUzNaZEpNcV9ITWhiX1FVa3M4S0EyR1RnLTZXOVJWOVdSVm5sSGF0U1ZmMXJwSnRMWHJsOEp2RlJN?oc=5",
-   "baslik": "Türkiye hosts UN climate summit as COP31 opens in Antalya - anews",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1h2bVFwLS1TZlFwVG1PMl82Yzhtd05zbkNQWWNycWpPYWVXWV9hbTZwUzI1c29IOHVLM3V2Z1N1cXZiMXBkYTVSNk9VZ0VMUEVkamdTX2lqYzBZdmtyVVFnY3lYcmRTOHhLNmw4Q0JaTU9ndkp0TF9TazB4bXYyYjBPd1FnWnRnbk41ajVzNTLSAZMBQVVfeXFMUGJpUmkwTTQwdTJPRVZsT3lGTDI4T0NmQ05KcEpqS2FzUmlybTREd2hfdmdjb3hoVlpHUUFxMTFZN3VyVW5QVGtXalczQ09PQXRwZ05sX0dhS3E2Tldodk0wZm9nVi1hV2JieTRwS3pnUXNZUzRaQjIydm1zUHVMTXFOOGl1cF9vZUJNYkNJMnJHZGFZ?oc=5",
-   "baslik": "Trabzonspor'dan 26 yıl sonra aynı başarı",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXZjQldMeFVKZFRFOVE1anpuMHU4bzRJUF9OdzMxWWJaWXVncnNpZWNkV1Z6R0dmY0JaQkVDaGtjRmFjVDlNZklQSFFQVExrb1BtTnJaOGdaZERjRWFsUDVJMm9xZWdmQUo3MkMtT2lhZWVXM0p6ZGJTZ2FUeGdURnVhc1YtczY2UEE1azQwWld0NXZ3Ny1kNUluaUJsMndDbUZnWnBtRUo?oc=5",
-   "baslik": "COP31'de dördüncü gün; gündem sıfır atık (5)",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREVYQ19kVTdvaGxESUNsby16anNYdVlhY3FBX3M2MXZPQ1BfTzk3Z3VhbmU3N0Q1dUFRT2s3Nkk2ZUZnNnpoNmhPNVJWTEZ2RTBTWXB3U2EzekQ3RTBpT2ZFZEZIN01hck1WTUw2dFZXZV9vY0ZKMXVwODFVNURkdGVGRS1SbWtNNkdBemdJc245ZGxFdHNNOVZ2VGZoUUZFeWhjSFpzMS11a3d2R0laM3hKVU9LczhsNDNWS0pCVmJ5TVNCZWhUcWg2VzVtb01jQXZqdlVJM3cxSHY2SHdCVzZ5S1M?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Cumhurbaşkanı Erdoğan, Kongo Demokratik Cumhuriyeti Cumhurbaşkanı Tshisekedi ile görüştü",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0hEcTJzeW5FZFBBb2VzcFJUZEI3ZkJfVEdCZk53VkIxalhUejY5dTQ4R000NzFMZ3hJcnl5VjBFOFV1d3BsZEp6Z3lpVFdONzdsVHVILU03VkRvUXB3TEpDdTJYZGphY1duLTVjUjJ5dHdkVWdubkpmcFJSbk9lY3NUU0pvd3h1RHlrYi1vQTA2di1RSkVyeDJTcw?oc=5",
-   "baslik": "Fraport TAV Antalya Havalimanı'nda atık materyaller sergisi",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDVvYWNDRGhieXZ0T3ZZS044bFBYQWwtbU53Z0NjbUFmRGZxc21fUW45X1IyaVJHeUNwZ1Z5SDJyRmhpWDFHQTM0NlRNZmtzMXY3Y0tJUzlOZjdMbFpPdERMRm1MaFhYSkUyQ0VzMW84SGNLZnFlS2otbVJaS2psV2hZb3YwQm9CdlEzUHZR?oc=5",
-   "baslik": "AK Parti Alanya’da sahaya indi: Kapı kapı üye seferberliği",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkFCb0RYUXh3cVpiWEppOE9ncWk2OHdpQ2swMFI2eXowXzQyS0cyb1dGTWpLdndwWlJnMkFhVHJiTkIzamE3NldPdDNmeTQ3NXZ3d2NSNXRHZHB5YWhkbnVWU0FvY082RnphLXlRWllvQTRfanNxeUFmMDdiaVZqYmZqS0E?oc=5",
-   "baslik": "Alanya'da motosikletli ölüme davetiye çıkardı",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWpKY0Z3UXRTREVxWG5xMTY2VXJyYmc3UTBtaUZqYkVaRVRkcElGUHRLZDhDenJ1ZER5WndhNEFubVFKY0FtX3R4TnRTVjJudnZ6dmw3T1BjS1gtWklhVmFReWcxN3FNNnZmODlKUkhRbmkwZ3dqejRPREVwMFNvZVZhQm5FQXJDOWZ3dGU3TXgwc1pQeUVEdEFqa01iUGJEcHNJMVU1UmROOHR6N3hIY1ZvdFNNMTdIQ1BvNVpuQVE3T0dVcEMzZHlvZTJsQQ?oc=5",
-   "baslik": "Hascevher Metal, uluslararası ticaretin buluşma noktası Antalya’da yerini alacak",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaF9XbS1KbUs2X1pmS0VzNTdLYjlKRmhXM09Dd2ViaUVFMHp6ci11bXY0ZHJrSUtGYlVPWjJQY190SXdNNlUwUXZlaUJEbTRscDhhVUxsd3dZZ0toQ0wxU1ZCYXVncXpObDA0VEhIdw?oc=5",
-   "baslik": "Antalya tarımında teknoloji dopingi",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzWGI3VXQwZ09IekNrSndNVzQzOW9nZ2ZXaWxsWGpPQXFJRXNONTRBR0xWelNlNFhxcFZOUld0enM3SzJ3d3lBbDFMODN5akdSSi1uMlhiWHRSZU9zbDVmTHpndXFoVlpNLVQ0?oc=5",
-   "baslik": "COP31'e 2 günde 100 bin kayıt",
-   "ts": 1794479171
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHB0aS1mY0FJOURtZmloQWQwREZlM2duVGNKVFVrNU5XYmxJYmozdmNMX3BPaGJOSHFseEtUQUNBWlhGM3JKOHVwV1ZwR2ZHWmQ5WlFxQTNjUmhPc0J6QnY1ZEtETXlWbWZNTkVxaFNpS2I0a0R0c28tbElFQ0h4aHhBY3J1RWFIemlCcXJwQlVtQkp5WGl5LWN2STMtZkV0NlJIUQ?oc=5",
-   "baslik": "COP31’de dünya liderlerinin Antalya'daki adresi Cullinan Belek oldu",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3U4bFM5Z24tYmpId2V5NlJYWlJYaFdMVzFGUGdQYWluVkFWT19mUzV2YnRIZ1NSa2dsR19RMEoxUHJacXpXX084dFdLX0JfTE9qdXM5d1MzeHNSWEhFaTVpdGpQN1Q0VTJrd1lHUGVueW1LMU1uWWJHb3dxcHdWcUpwRk0tZTA1aWxfVWpIQnNzdkhfTUtqWEhROWU?oc=5",
-   "baslik": "ASAT, Kemer’de içme suyu hatlarını yeniliyor",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ZVTlQxTlhlUjBjLUhUcGI2TWZwVjdkdFFxOUw4OWh6NGVBc21qZTRWbmhNWEdTenNtVWZfYlRzRWdwZDBtVmNhRXJmTTNXZUU4MTAxQkVQZGJZTXdGNEFJTXhrVUpUVE43Mm9Td2ZWcTFyR194cVFwMlh5ZExaSTdMRW52OVd4Nl9KUUdKVmY3U1RBRE5UV0NiVG9kdjByMWlmckNB?oc=5",
-   "baslik": "Antalya'da yarın sağanak bekleniyor: 13 Kasım Cuma Antalya hava durumu",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ZVTlQxTlhlUjBjLUhUcGI2TWZwVjdkdFFxOUw4OWh6NGVBc21qZTRWbmhNWEdTenNtVWZfYlRzRWdwZDBtVmNhRXJmTTNXZUU4MTAxQkVQZGJZTXdGNEFJTXhrVUpUVE43Mm9Td2ZWcTFyR194cVFwMlh5ZExaSTdMRW52OVd4Nl9KUUdKVmY3U1RBRE5UV0NiVG9kdjByMWlmckNB?oc=5",
-   "baslik": "Antalya'da yarın sağanak bekleniyor: 13 Kasım Cuma Antalya hava durumu",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1p5dUw4OXJXaHJEb3FSSy03Wlc0WHp0SERmN2J6NnEteVpidEE3clZfUGdJZXpqN2RDbS12MjFDS2JyYmthUTIzTEVtd2JheEdFcjBJbFBIYVNKdlQtZzkwRkExY2l4VGhlT3pQQnBfenJXX1pFSnI1SV9XNkROeHhTZXZBMXNCV1kteVBZR3VBYVI1WkZWV2E2cmltWEwyaE9fcnJzWjFCcVpIdUU5NDRCakFSWkZWY3E3a2dtSlRzRmtTRlNaMjdWelM0OGNCMTY4WHV5TDFJVk9saWQ0eDFB?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Türkiye Sanayi Karbonsuzlaşma Yatırım Platformu COP31'de tanıtıldı",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0hyc0hPZXhSU3VWM1o1ZDhYWHZ2ODdyYURTZVROMWhrLWFNTTdkM3oybjZCUDZSTHBuVmEyTnRwY3FnczVzUmNwUFdBdExBbHE2REpuR3FjS0k1OHp1UWhtOU56d04wal85aUNIb1JnNDNwMDltLU9TdWVZNG5KdzFXZmplX1hNeDFFU1RYcjE5TnBpODdqQ00xa2l4TE9nVWNaRUc4TEdQeWNfdmc?oc=5",
-   "baslik": "Bakan Bayraktar duyurdu; Kanada ile nükleer enerjide iş birliği anlaşması",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEN3MThnV3ZESmpTZC1RNVVoa2twNFlpbmlKcXlSMHlDejFneDNfdk1ISG04Q0NvLUFEVDlWMkNDMDJxRTIxV3JtampxNk5MVDdUMHBYSGl0dFFYX29FSkxxenFiQXVsbTBIdFZZR3FmMEJPelVCX1pOMk43Wk1BU09TdGdOTkR2V1dnM1ZITTBwSUdBWUZmYmNJaDBVcm1GVXUwUmVKRHNwdXlBZnlxa3Y1eXg?oc=5",
-   "baslik": "Erdoğan'ın COP31 diplomasisi sürüyor! Sudan lideri Abdulfettah el Burhan ile Antalya'da görüşme",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd1lRMzVwSEVQdnpWODdRdXNNZFA1bW1ZcndNMmtWV0NjTVlQYTBiQmUwNGpBVm9NSkUyZ3dfbGtVS2NoMUxJSUVpbVZzSjI1X3NJRVE2cUJGMHU5Y3ZObnlwdHpKY0dnN0lSczlaOV9DRDhYQ3FYeDlEemxZU0ZNRHd2Vzd1eXFTdG1kMjJUUmJ3X0R2eW5UQmdzYzNSX3NkbE1mU25rcjNkRkNIMEVxR0pQV0FtWlNpR25faDVUblloS0h1OFVEeDRQUnV4Q3lhSHNPdU5PeUYtV3AxUmt6aEwtY2lkcDVD?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Cumhurbaşkanı Yardımcısı Yılmaz \"Paris Anlaşması'nın İkinci On Yılı: Uygulama ve Finansman Oturumu\"nda konuştu:",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkF0LURUb0RTdTF4Y29BRnRtSWFWOU00dEUxYnlRMXVZRzh5WFZ6RFJqYW5oNU9wVkhGcFNTcWdZNF81NmZRYTdiTnBsdG5xbF9tbHhqRjdsSmdlX0FUaDJILTBYODI4N3c3ZmV6SnJINjFCOXM1OUNYWEhrSWw0QXhQLTZmaWQ4Qmc?oc=5",
-   "baslik": "Kral Charles'tan Antalya'daki COP31 Zirvesi'ne destek mesajı",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjQ3dzg4Zzdrb1B5d0w0dnRjSmwySEx1ZXNsalowangyTDVxc0Jfd1FQeEM4dDJjME1kZUZ2NUtqZFVVdW51dnRfQ0ZfaWVpMkl5MWhGa2l3aXNMQUJ2X0NQVHFpMUc4NGJSenh2cHJSbzU3TFA5ODV6LTVVV3hWMTMxQm1UUWZSSDhWZHhhVGtzR2NlZzNIag?oc=5",
-   "baslik": "Antalya Büyükşehir Belediyesi’nin \"COP31 Şehir Etkinlikleri\" sürüyor",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://www.aa.com.tr/tr/kultur/turkiyenin-cop31-pavilyonu-anadolunun-kulturel-mirasini-ziyaretcilerle-bulusturuyor/4122166",
-   "baslik": "Türkiye'nin COP31 pavilyonu Anadolu'nun kültürel mirasını ziyaretçilerle buluşturuyor",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDcxR3Rmd3AzZzg1bnRUQm5qSEIyOEMzT0pDQTNXRXhObk9HQm5LN0diRlVscWNBemRhZThkS0tyelBFMGlOZE9jaGs4a1VhUERoSlFoYjJGOHZZcjNrVkJjazBTOXd6dEJ1RjFvcGRJNWpaUkZ2bWQ1aVdfVkdCaXkxWHltVXZ3M0JFRS1tbWp3UVJwTDhpcTgyUHZ2NXJKendVWEU1R2ZYZURjUUJKWXpwRGJKODZwa0ZOMHlPY0VtLWdEaHZycWpFQVpWT2ZjdVdXWThRMTk?oc=5",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Ekolojiyle ekonominin örtüştüğüne inanıyoruz",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREZqRXZ1S0tBdjZ2NTZnMWY1QzNONUtRX3ExTzV3cnQ1cFY4X2dYSko5MkxDQzVDOWdlZVY0TlphRFZ1VjRUaEhSTFhDRDBXYmRaTjc0aHlQYV9ud0NqV1paODNxNS1IVEIxaTBCQUZ3RG03T1A1dXBzTHVxbXR0UjRKWUJaM091TUZGWXk0UzRwdXV5ODRrZzF4bXFxMHdNZHcyQ3ZrcW1VZXZDOFA4cVItSDZwR1VTbWhr?oc=5",
-   "baslik": "Başkan Gümüş'ten dikkat çeken çıkış: “Antalya’da iklimi konuşup Adapazarı’nda toprağı yok edemezsiniz!”",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjFQeUxxcUU5bmJ5QmZQSVdveDNnejM3OGw4TlhNYXFpY0R6YzNiV3c1dWxqaDV3OWtZVTVkd3lkTzlZQV8xYXlxWnkxWTBaRlRkWHR6V1haaGVuOXFFQllSajZrRWZMZGh6cnBBUVo0b3AtTTkyazJpUEhrNmZIWVRaNWdIQS0zY0xlUkNB?oc=5",
-   "baslik": "Alanya turizminin acı kaybı: Büyükhanlı hayatını kaybetti",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjFQeUxxcUU5bmJ5QmZQSVdveDNnejM3OGw4TlhNYXFpY0R6YzNiV3c1dWxqaDV3OWtZVTVkd3lkTzlZQV8xYXlxWnkxWTBaRlRkWHR6V1haaGVuOXFFQllSajZrRWZMZGh6cnBBUVo0b3AtTTkyazJpUEhrNmZIWVRaNWdIQS0zY0xlUkNB?oc=5#yz",
-   "baslik": "Alanya turizminin acı kaybı: Ömer Osman Büyükhanlı vefat etti",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY2NCODFtX2k4TGx3V29pU2hPQnJWb3pxdTNndDhXWm9MdFF0Nl9ON0VUc3VQT2VncmJWTzFmTlJvTVA1cmlXcmhKUnRuUnlRODFESm5zc1ZiREhpM1pESGplUHJGRVJVa1N2V3czVnA4dzg1M3ppRFRrbmY?oc=5",
-   "baslik": "MSG Başkanı Ferhat Göçer COP31'de",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kY2NCODFtX2k4TGx3V29pU2hPQnJWb3pxdTNndDhXWm9MdFF0Nl9ON0VUc3VQT2VncmJWTzFmTlJvTVA1cmlXcmhKUnRuUnlRODFESm5zc1ZiREhpM1pESGplUHJGRVJVa1N2V3czVnA4dzg1M3ppRFRrbmY?oc=5#yz",
-   "baslik": "Ferhat Göçer'den COP31'de sanat ve iklim krizi vurgusu",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3U4bFM5Z24tYmpId2V5NlJYWlJYaFdMVzFGUGdQYWluVkFWT19mUzV2YnRIZ1NSa2dsR19RMEoxUHJacXpXX084dFdLX0JfTE9qdXM5d1MzeHNSWEhFaTVpdGpQN1Q0VTJrd1lHUGVueW1LMU1uWWJHb3dxcHdWcUpwRk0tZTA1aWxfVWpIQnNzdkhfTUtqWEhROWU?oc=5",
-   "baslik": "ASAT, Kemer’de içme suyu hatlarını yeniliyor",
-   "ts": 1794480972
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjVRekxtSXo5eVJuR1Azek0tX2dWNTRGUzFXcHlTVHNWMDJqeVRKYUk5bFZpUGFVc2dzMmNwQ2ZtdHdLQy1ZUjRxUGppNVpxVWlaLTVNSUpuMTdQbHVxdXZQNkJtOUVoZ3R1encxcjZ2Q1hDMlVtZUQ5MmN1VHFKQWhtQnFITzBGMUVLd2FnMW4zUllVMnFGc0p4UnJYajUwdlM2S05mVQ?oc=5",
-   "baslik": "Alanya turizminin acı kaybı: Justiniano Otelleri'nin kurucusu hayatını kaybetti",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFY5SFU1VnJTUU56M1FFU2ZoTHpuV0I5dHExRXhJR1g1aHI0cGNnZk1vZU5XYTVCOU9MUmFXQzRxSEVyM0VDTGp2U1R5WXQwSEtjM055MUE0RVU3MjBqbVJSOXdobmgzRHhXanQwMlRNczc1NnlQbFg0bE1GZ3l3OGVOaC1pZ1FiT1FXNlBxTktZZkgxLVdvek1WbVdtYUZOY0x3XzZIeTZvUQ?oc=5",
-   "baslik": "Antalya Haberleri - Otomobille çarpışan motosikletin sürücüsü öldü - Yerel Haberler",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTk9tckRDTTdfVlJGOWRQc2ZsNklTbHBkbHFyTFNOcEZaLXlxTGZZenRreDlOWk1iV3BNQktpVzZzRy1TNlNmOHdhMzNqZlFNRURRQ2g3NldFNDFpREpyUFFoa1o1cUJXb05JNHBUV21CZzlsY1pRT3paY0hwdUdSWFF6d2hXaXRfT2M5MTY5WWRkRkNFSzZiVUEtLS1TV2xpeXpMdi1idXlXVmlmWDdJN2xadmc1TWNMdHB1b3RjWmVTRmcycTFfbGlrOHB4YkNTM3E4b05FazdrbzFmYktreUUyTzI?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - COP31'de iklim uyumunu destekleyecek ARISE programının ilk ülkeleri açıklandı",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEpXejJCaXo1cWs0eFZtN2g3VXlERWlRaW0wTzdqQ012V1hwaVd6ay1lMXF2T2d2LVk4N2xNaUl3eDUwMkpad2hxdU1xNi1QNlZKVjhMNmZlSUY2Qi1CaGFBa0RRYlBRRTJkZ2hfNEh0UlRjcXBCYUVCOFg3SEJpQnFRZFNrbVFFZExHWTg0SE1IZmNxenFfQQ?oc=5",
-   "baslik": "COP31 Antalya'da Başladı: Zirvenin İlk İki Gününde Neler Oldu?",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPajRXUnlLakZaMmk5QWs3LXE0QTJ2czEweWhXRGZtTkJmWnI0M1ZCLUVpYkRQOEpVNzlUcEoyb29ULTM5YWxGVG9YQkpFbUZIY2pZZXBLak5teGNXSXVfVE9OQUVzaHlEUFlTbmE1MEY3VnJ3UGk2a1pCbjlwUzdTVkxEendDTEwxNV80c0RFUHdSOXVSZGtDQTU4eldBZ1JRWldLR0dMTGNTdGxocWxxV1FHeVp1MU1OZmFGNkFiOHMxeXV3MDMtVXZxWXp6bVhzcHdHeUc1OVl3V2dNTWp1MmhucEM?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Emine Erdoğan'dan \"Küresel Sıfır Atık İttifakı Lider Eşleri Yüksek Düzeyli Toplantısı\"na ilişkin video paylaşımı:",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTdrSGdoS2tYTmF2OGtEb2RFMVZRSVpBenhaWDBLaFFrUEVYSnVNZWhLSG12UlVZYXphMncyUEtSaXl1R2dScUhBd2JCSlZRZmVqWGN0SUxhdnRsWURmVGttcGRON2JPaWhpY2ZYZlRsVzluUXdwN3ZoSGt0dGZVdEwyZ3JNa1BObDd3UjRGYk5ZVkU2SmNvSEc4TFlqSXcxUFhITzhybE85N0JTd1NaSHIySG1RSWZHcjFfREVDd0xsNlZtSGFIYQ?oc=5",
-   "baslik": "COP31 Antalya'da... TÜREB Başkanı Erden: \"Türkiye, yenilenebilir enerjide bölgesel merkez olabilir\"",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkZNZ0lGcHd2R0o4Y1lyNWgzelFvRklBZVk1elp4NVI0RDZZWTU4eTJYOFdxWWcyTEF1eEJ0X2hueG9nUTFHNmlTcURNdHpQYU0xMWR1VUdxM1VyejVYbHZRYmF2eldqUUJHbVR4eGI1X1QxZlBHbDg1V180RjQ3akF0SnQwVy1GSXd2SjFsZWx2bjc5QUpXbjFBODE?oc=5",
-   "baslik": "ALANYA TURİZMİNİN ACI KAYBI: ÖMER OSMAN BÜYÜKHANLI HAYATINI KAYBETTİ",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1lFcWJ1Q2xMVEZtbWM4Y0NZcDlXOHNtMXFnaHByblJrcGIxWUtDeHZSUF9PT1FMSTIzTVNvMXJ2cDhjcE5DSC1XVTd5UUxTVDd5b05VanpjRGRZOVVvTVk4a0xDV01ZZnFPVFVtOE42UFNFNW0zZk9PV1ZXaWQzZm5raGRnMktrcWhWdzR1bkI1eUFFVVZ1UVpxMTBrYnFNMlBzaWR6OA?oc=5",
-   "baslik": "Alanya turizminin acı kaybı! İş insanı Ömer Osman Büyükhanlı hayatını kaybetti",
-   "ts": 1794482770
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDZSNDRwVzNqdU1CVVlYRERKRkp2b3RYemFVTU5RODEtam9ocHJ3VERSNC1nXzFXVmZlSEJTUkd2UnJHbmVBUXBieG5mckYwVGZ6VHhRdkxORjVDRmFuMUhFQnhjRDBMSFJVNzR6aHhGYldERDVJaXduYUFWMll3by00R3BzYUNDazBVZFh3UjlmZlJYNlFrcXVka3BHSFp5VGNmLUpHVzVpS05hMnJ3Sjh2MERHbXVoeW1BVjdjNnNvRnlfX3RTbVp1QkdVc1psTGVv?oc=5",
-   "baslik": "Bakan Bayraktar duyurdu; Kanada ile nükleer enerjide iş birliği anlaşması",
-   "ts": 1794482770
-  },
   {
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa1NyaHFmOXhDYmtSbnYxN0loYldOajV6Z20xcUpwcE91SVZxZ08tY1pOWXotaXhMOUVoSEtyOGpvVkdjUFlxS2pUbXdsV0M0R0dYM0ZSSEtfck0tZFRRdDFVT0U4U3hZMi1PSEh2LWVUOEd1RHR0Z0wyOFpnTFRncW1Zekk5d20ySm13TUZSVVptcXBYQ2treDNNUjB2WXhpWFBKSXBxcENqbk5HOGJtYlV5UmJtME1RbE8xMUtMeGwzdVMwbE1iSmNRVm15bUhPSWNHRnJrRTY2MDBCZ1lkM2FEYWNYVzZIaWc5WVMwdnN5S1ZN?oc=5",
    "baslik": "Bir tane koparsam ne olur demeyin! Antalya’nın endemik bitkisi Termessos çiğdemine zarar vermenin cezası 699 bin lira",
@@ -15001,12 +14806,207 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOV9iQmM1aDV2Ukg1UlRfVHBZMDZ5WlVXQzFoNVgzOXNQMWFxc25hdFF4Ni1EclpfbWJ1M3BvMjdDOXQ1Z0RvLS02SXFoQUV4Rm5PaExzTnlhN09BOExwUFNOWnk2NGhQeEtuTTh5MkNHa3pYcE9HblhwbkRCUmdFeHc0TGlCZ1l2WFUtVW9JUm1lMDVUcnVkRGhTUDg5aFdjYmlN?oc=5#yz",
    "baslik": "Alanya'dan Trabzon'a uzanan hayal gerçek oldu: Baran'a özel davet",
    "ts": 1794992077
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFQ4NXRYMW1qWDF2VEZOX0U3T0lWQ3BVTWtKcGRXSlZtd2tIWlVMVnN0TVNGdDU5QTNPVTR3aWhKVFRXR2ZKWE1zdjNERVhCc3JIVHVxNjR2dTBYVVpmTFdmbkV6UWFnOGk0LV9GeHYxcE5INFV1UGZZWjZIbUY1T2VVejUtMjdFYWRv?oc=5",
+   "baslik": "Antalya'da inşaattan hırsızlığa tutuklama",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaG91T3pqNDdhcmt2bTdZWmNSU0h1M0FjX2l0MTdNYkZmYlo1YlFEYzlSSE01Zk40dTJOWkRyZ3dkdVdkY2tyNHdHSFNNVW1tcEJJY2V6TmZuLW0wV2hYOTVPMV9aY0dYMGZTeXluSHl1OTFBZFItaVBEN1FlSWppOEZFaVJJc1hKbFBNazJhVmxjUVBNRmJ2VTBWYldKbldyTjQwZFVOd3RZMnB3RjJyb1pFUW1iVHd0LVRlQW1ySHU4cGQtMnUybElqcUxza0J1dFdSOFZpaGE?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Bakan Kurum, Güney Afrikalı mevkidaşı ile görüştü",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdERPTkRtMmZtRXJfTVNYZ0hCM2ItVll3R3pldU1xV2lqc3VIbXh4eTlWeHFVbm5wdjBHTHJHQTRvSVk5UGxwckdOa0F4MENhQVRNSGpLekpCSWhPU1ktOVlYV2ZFbnRMaEV0bVFzVmRaaW9kTDBQRFBITHQ2blhYLU9BMUhTVnU4Um5BMV9VZlV3ZVRqbl9VUGRZMVQ5WFJnVWZMWlNKNVBscmh6bmVITmM1OHhyaElQSXZrWks4d2VZQQ?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - DOA, COP31'de dünyaya tanıtılıyor",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdHZMNHA5VXNLTVZocTVNZEREaUZSV0VCaGNPMU1BZHV3aW5aaEZmV1AwclpzUTR3RG9JbVkyTjBvYmVQZWhvYm1sbmUzNGlfTjhQVjhuSlhBLWhsVC0zOFEtZy1NRnVtcWptbmowTEI1ajZ5NENwQ1d4dVFaRUQ0ZmJrcF8xWTdOUjNnNmtZQTBtWldGU1lzQ1V2UEE1RHZZMDh4cklQRnVPR2NMNDZKdzJLY29xa0N0cC1pV2VEbWI1dzFCNDU2SFB1bkc2THltenhLTEQya1JINzlLa1IzUEtPc0FmWEszSUUw?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - BM, Türkiye'nin \"COPArt\"ını miras olarak gelecek COP'lara taşıyacak",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOElJNTJqTmUzeGlTNWpFYXNVQ0QzQVBiSUgxRml5OXRSNW84Nk5EMW1WNWVtRzNqS3JnUlpLUUczd3RxWDNwMWdUY0xFLTVPXzRmRWowa0Mzck1LMllnaEkzNWZwb01DdVA3OENRdE1uXzItY0VJSlZHSHdXVERWMzAwRHNYcktZemkwZmNVOWFCekdNZW45Ujg3X0xjOURHRldXbm9tNER6VmI3U3RqUXRocmhUVDg0b3ZBVGhyZw?oc=5",
+   "baslik": "Antalya Kemer’de Belediye Yangında Evi Zarar Gören Vatandaşı Yalnız Bırakmadı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX29XZHFHRlBNbnU5ZHlsYzY3azlqbWs4MVR5NHItOVJDM1FCS0hMakgtdERwVEdEQlFqSUNOUTNsdEh6bTJuUVU5T3FZVTN0d0NQY0pRV3ZQV1J0QmdHbW40dlJyYkhlT2VnczJEV1RtSFJ2N1pUWkE0Tjhvb2RXZm9LMnk4NThLMmJ6TXRvMEVyODQ2VzdSSDdMemxJV3VhamxmV0s4bk9fS0trSmRuT2w3MWJwQ01zQ2JpNFRfbnVoZnBia0E?oc=5",
+   "baslik": "BM, Türkiye'nin COPArt'ını 'miras' olarak gelecek COP'lara taşıyacak",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWRQRl9JVkQxR3UxaXVYcEViWmRyRDVDRUlIRU5yNWVkZDYyY1BXSlMxYXZVOF9ZVDJWcXo5SS1YbE9pMnVqMnVLdFpBQjdISktFSTJ0eWpiR1hzcDVQOHFkd05HcmswVEVjUFZfWm94YmdQT2d2ZmRSTXo4Y3JYTGhtZHdHcC0zTlE?oc=5",
+   "baslik": "Manavgat'ta iki otomobil çarpıştı! 1'i çocuk 3 yaralı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkp0eWRZb3M0MktNcFlqc0Mxc2w0dzhieEJET2lJU1hhS1lkUkJoM0kxZzYzMWM2M2xXbXhpN1pEYU5rcWVTVFZDV2VCUUpkcTEtQUxORWRKdHZmSXM1SVU2cWYtZE83c0xjclRIT1hDdHVvUC0tU1gySmlmR19HUHE3U1poM1o4czhfMFZ6UDJ1OFhvWlNuWll2VFFDLWFSUmt2RXdDbFprd0w2QTJBbnBISExTUEs0ZWo5TkJOcGZQZkdsNGp2SHJubzdQbnFMZWx2WXlIX3E5WFFsSWhUNjY0aXh0YU4xZEE?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Laos'tan COP31'de \"gelişmekte olan ülkelere iklim hedefleri için uluslararası finansman desteği\" çağrısı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUppOGZFNzM5c3lxMG5VeG0ycE9VUVN5M185bGh4djBfMTZqTERMSXZ4alcteVV6QnJ6N0hWSTFSd1U0LVN0X0NQcGV1c1NZVTB0dndJUkREcERpTU82d2RGU1lVYWkyRXJwanlBMGFLcVFfQkZPZWpTMHpWQzlya3hvdGgtV2N2MzdqTkVnMzRaSGVFWm4xLUhLbHIxQQ?oc=5",
+   "baslik": "Antalya Alanya’da 10 yıl hapis cezasıyla aranan hükümlü tutuklandı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEEyNzJIWm9sZXY1SE9mdG92b3JZcERIMkthWl80UHQtWlZFcnVfZ3BiWHVPeUdxM0lEaXQtQURzSG9TZEJxS1ZFREVjRnB0bi1vaEFpRUhJTFBnZHhXeFdNNnBlRlA1aG5VWklMZzZXdlpjWG5ZWWdaT1BsUGtseGx5N1lBeFFSMGMtLWpXVTZNaC0yTFJJeGtCMkt3WXJQVHZSODBSWTk5Tkk?oc=5",
+   "baslik": "Alanya'da İnşaattan Doğalgaz Malzemesi Hırsızlığı: 1 Tutuklama",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXlKZTVZUlp0MWl3bnpXd21jeWxBeU1sNDhqVHFPdm03YW5uc3ZlQUFpTUhMTmtqeW1ja09fdE9YNGNoMFVodWFKcWtoS0lwMVRwZEoxbExPZFJWN2tIQ2lSNEo4cm1WTWNuMG5ZM0NxRjRWVUZ4bEJhVnVSSkxGZG4zVU1kaXBjSnozdTJrRmc1YlFEbUhOUE9udHhCY093RXJndGFINnM?oc=5",
+   "baslik": "Alanya’da eğlence mekanı çıkışı iki kardeşe darp ve gasp iddiası: 5 gözaltı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-degisikligine-direncli-toplumlar-icin-egitim-kultur-ve-hayat-boyu-ogrenme-paneli-yapildi/4128745",
+   "baslik": "COP31'de \"İklim Değişikliğine Dirençli Toplumlar İçin Eğitim, Kültür ve Hayat Boyu Öğrenme\" paneli yapıldı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTFBxZGJUQnNmQzJyN1g3OXVXUVg5WjkxRFN5ZGtZdGtfOHJLUnRuRjIydGpVMG9GNC1zSFdrcVZOY0RBSVQzWWpGZ2FLamY5bXRFYWRrVENyTE83VWE3OTNTdnFTM0dqMnQ4RWVGa1pidzVxLUtTQkxEU0NjVFlOVWVqcmcwQTE0NXllQTBtMEg1TGFXVTNOR29JM2s5Y2trSm5nbExLc0RwMUx0N0JfMGwxUGVlc3lFYlIxR2xSV3hpdGV2X3dV0gHKAUFVX3lxTE8zRTRuYjF1YmZkamJUbVFKOTgtVDhVX3lsSVFQcnF6X0M4YTdUOW9aREM5dEhvQVRqZUJrM1FLX2RGa1EwS2pXZWlaTGNnb0stdFpKYWozRGJrU1JzZk5mUkd2YzJDdExsZjA0NnhOODV6MkVfMnhOdk9zMDNpLVV0TGtxamVCVHJzQ0dtM0pCWU9hOFlUSkd1aFU2NDJPOFZjU3ZGQlY0MTVtNW13QUk1Y1E0SHZtXzJ3VzFsU1l5VkZDR0NJaERsaUE?oc=5",
+   "baslik": "Alanya’da 70 bin liralık hesap için iki kardeşe dehşeti yaşattılar! 5 kişi gözaltına alındı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlJrY1Bna0dmTE00cmhqRkwwbHBndXNJcl85c1VUek83ZFdRbUVydDhFY05QTHN1VzlER3JYLVBxNEJ2eHJmSGdDZWxpRjhfbkR4ejR3X3ZGVEcxejZIaUVQWGR3MldoMUR1LUQ2M3Nza3ZnLVB6Q1BtbHdiSG13anV5czdMaVgzVW1PaUtYd2ZBQXBYTFUzWA?oc=5",
+   "baslik": "Kaş-Kekova'nın su altı zenginliği görüntülendi",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0xQSVB2M0RPODdnbnZuZmdKRFZHV1MtTHVXcUVlTGNWSUhqRWRGYS1KTDA5SUhRYzFNNy0wdC1DU2hoUzFvMGx3c3FtRzZvQXRiX3NMYk1CdGR6Sjc0MllDZ3h6X3lfSldTa0dfOUtBQkNobUtRbkRsRUlBVko0QjktV2RxMkh0Y2Qzd092Sk8xM05UU2fSAZYBQVVfeXFMTXNMUElQdjNETzg3Z252bmZnSkRWR1dTLUx1V3FFZUxjVklIakVkRmEtSkwwOUlIUWMxTTctMHQtQ1NoaFMxbzBsd3NxbUc2b0F0Yl9zTGJNQnRkeko3NDJZQ2d4el95X0pXU2tHXzlLQUJDaG1LUW5EbEVJQVZKNEI5LVdkcTJIdGNkM3dPdkpPMTNOVFNn?oc=5",
+   "baslik": "Antalya Manavgat'ta iki otomobil çarpıştı, 1'i çocuk 3 kişi yaralandı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHZlWE9UWjFBTW5jSU5YQ1VFR1NiUE9Wd29PNUJYYk96cjJDNU9LbXgwTmRPQW5JTEo5ZUxUeHZLMVpxSlRyS1NoZ19Udkt3RWVWVDhGNGQ0cGVEQWFPNHczMzc3a0c2dEs3UkZZeVhEU0lId2FFOVhYT2YtU3ZGVUFxTjZQNWE4QmdOaG5KQ2pTUQ?oc=5",
+   "baslik": "Alanya’da olimpik heyecan: Binicilik lisans sınavı 21 Kasım’da",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFdZU3l2ZFZLUVdpdlU3Rl9lekJJUnZqNGw1ZmkwZC1SLUtoQUFZUHFqdmRoa1dMS2V6eHQ1dWoycGFmZW9hZlJTZEhLbHc1bnRjckxtWUZmNUp4a1V5TWZkTmp0NE5mdzBVOHphbnRva05XYmsxZHQ0MXc3bVVld0JKblp2X00?oc=5",
+   "baslik": "Antalya açıklarında balina görüntülendi!",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUl84VEZyZVNINE5VLW9DbXZYRmVUR2JNY0RjcnpqY2JwYlNLNVB4YkRXcGJuNU9aQU9uM2JQRXktbVVLWmc5aWRGOHR0VTdyeHQ4M1YyTmJOYlB6YjJTOElHcXNuZTlSdFVwQkNIaXJiYWYwUmNLT1g3UlRnRS0yLXVSeHJGV0dibnR3YUs1NkhXTi1LS1VyRFhVSnRvUU1wQ2lXa3FILVhPamp4NUVONTNkUHRCT0pvQzdQbHJsaw?oc=5",
+   "baslik": "Alanya'da 10 yıl hapis cezasıyla aranan hükümlü tutuklandı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeThCYkEydHFYV0VqNUxLdk1LVG1jVmpGRmh6c2EtRzl6cmNpb1pUNC1VdlVoaE9LREs0ZFhTcHRZSWY5ZEt6ZlNpMEwwR1ZFSWg2NDFvXzh1ejk0VlV3SXJPZmVrQWR0aGhaaXdRdHBBMV9kTUlobkkwS2xBVkNjS08tMkl5SkJzZklRdXYtZnZFZXVtMDZTZ3ROclVqcFU?oc=5",
+   "baslik": "Antalya Kumluca'da Suluada'da balina görüntüleyen Deniz Şeşen kaydını paylaştı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd3NLMkdPOVpSdEdGR0hMeGRaY2JXWHc4UVVlYy1OdkJBYk1oN1F6WnpKcm04ZFpTcEdldTFfa19UMUtlZ0Vxa0ZFcnRKMkRBS1Q0dkZYSk1wQ0tNSU1FRE80S2Z2SThDZktURzFWWFY2VlJoQkJSWml2QkxWU21mb2drZEVySFpORnptdXdGVm9KTnZJSWZTTE5jb243TUViZUItdk11SHJ3Vkw3cTZ1YlBXeFp3WDZNODhhcXhrN0RiM1VxS1p1VThWUy1odzRtYTVOZTJNUzN1Zw?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Orman Genel Müdürü Bekir Karacabey, Türkiye'nin orman yangınlarıyla mücadelesini anlattı:",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFFVYlVmZW5fMkZ0VmFSaHoxNWpIZTJuMGR0WXd0M1BGSE1BYTNYTzk5bjNOa1hfUFpKMnFoamQ3Z05iajBzd1pETUlIdlI4RTM3aHhPOE12cmg1UzcyOVpJRUFMRUlIQXA2c1VQSGpaU1pIbWZtaFRpNWxOYkhxM3hxMXhneXJ6dDY4QWZBbk9vMm5WVk1EMmRETzJGZzlOWXU1R1VSYVEtM0F3dGotdmRaT1c4SjRZd3c?oc=5",
+   "baslik": "Alanya'da inşaattan hırsızlık yapan şüpheli tutuklandı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclpKblRvc0Z3U0lweDZKcW9nY1dCVlJHNFpwNVdPZ1BVdm0tT1NPMWtkc2pLM1o0SjU5d05kRnFhVHBIUzBUdjVMNlhmQW5XMnQxaHpxUS1XU19BSmt3RW9IbFpLTUlRQ01YYU9xQ0tuMTBNSmdtcXdQTUhGYTRJYS1QUlE2ZUtrZnlPLVlsQQ?oc=5",
+   "baslik": "Türk mutfağı COP31’de dünyaya açıldı İhlas Haber Ajansı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHowWHhWWXFEbXQ1TVdCeWFsQ1N3Z3V1NldnRkRQUmhjWUdUZl96QWRDN3B6dld2cENSVVVCa1ZaVVJXNTBFXzgtZDh2QTVXNkMzaEt3WURjTkl0Rl9KYTMxV3pHY1U4UU1EZ0xpSUhqUEUwQW9SdUlyNTdON0RlT3B1TnRzT09jeThvT21IT2hVUkE2alBxd2Y5dlJMdy1kUkVzY05tQQ?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - COP31'de tarım sektörü eylem gündeminde öne çıktı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQU5nZW9VSVJ3WnVsdElGc25HcXNCSUlRVndOeHRScm1SckVlVm4tSXB6X2FxSmdfdnU5b1RwaExmOVJDak5RQ1R0d0lWc3pLM0djWWZkZFMwOWVmNFVXMmQ5c3hlQTU4aU5BTUdadWpyQ3JIa0NXSGtPQl9iRTM1UXl1OUllNm9vQjUwRHREOTJaUkVfZ01xNFdhNlNhNFBDbWpWYkRvTERwQThBRkZmNVZZOEtYWlVsVTA4RWdGUFJEQjYycjczbm5UazlLZFpJ?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Yenilenebilir enerji ve elektrifikasyon fosil yakıt bağımlılığına çözüm sunuyor",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMk1fQldGcU9ESlVHVzFxQTFzNmhLSl9RSVNCRHluUnhncUIyR2gyblRzbXQ5bkh5Q2ozUWFmQ1ducFJlTGJ3akFKZjhLU0RzT1ZEMXFUN2VseldiX09YbFdVSjF2ZF9QSlBNNmZvOVVCWGxLN0pSQTZ5WmpxdzlVUU5LYndWMU1NcDQ3c1RDcExFY1RyVDRyTWpyYjAtRDlxZ3g2SkZNVmUtNkpSaW4zOEptMGpCZG9qcmc?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - OPEC Fund Türkiye'deki finansman portföyünü büyütmeyi planlıyor",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUnJ5TE5aTHVhU1FLNU9BQUlCeGVTUjkzR1JYLU1MQ0xYRjU1OG9iVHVPTDMzTTRtMkF1azdpdlJiUVI5clR4akpwT285TDAyVmFUU0Y3eWU4Mm01VUZCTEltRU82a240UG1YSW9qNkZFT2Z1LWdz?oc=5",
+   "baslik": "Manavgat'ta kaçakçılık operasyonu",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVRfRFZYVXplVHBTcnU1ZlhhZTF1RmJkajl3Yk1vak1HZ0lEUE1Eemo4SnRrUzFPaG9ZMzFiNWxvVWJSbm5TNXM2Z3lWZVo4d0RNUDBYTVlFb2lNNktRTmZDUUI2ZWxoblpYcHRpSmVkdERUUWRpUkp1SVlqWWIySlc3MEgxX25jc3dhLU5OOA?oc=5",
+   "baslik": "Antalya-Konya yolunda kazada 4 kişi yaralandı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnZKcXowWVIwc2Y4MHpHWU94MXlmQkd3akNNb2swdDdrc3hKLTNtZXJwMnlpZVJ1ajRGM2tmb3lFZE9rcmQ2dHJheWVORG55WGhtYW5fZ0NkN2ZlbkY5R0k3SWl2dTE3TXhBSl9RYVRJV2NmYjNfaXBhNVZYOUNYNlJpVlg1eVBrRVloTjB1SWZUR1dTTUc3MzFMeFJVRGg0NFp6U1IyYnFmUGo5ZzNKS2psR0dxeG5v?oc=5",
+   "baslik": "Depozito Yönetim Sistemi, COP31'de dünyaya tanıtılıyor",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTU16eUtpQkVrc0RieHJydFppN3NISlBwd055aXRkb05BWEM3TVBQZ1l5TFQ1ZXRfZURXWXV2NTNSUHJLcncxXzNPZGJXMUdQVHRiN2tnX0l5TTBIZ1lFUk1lMVR6TWxubzgtOXU1THdJX2ZJWmRDYlpDeHhodmRmc0RiZEFzWndXcVVpRVpQaWpXQk5MUHowcjlkaHV0empQTVRFMld6OUx3dVdseURr0gG0AUFVX3lxTE5CQWlmWHdaTzdQeE1TM0FGdHo5a0U3ZDJRRHFrTTQ0Ukw1ZHJVbGxRc3E2bFNJaWNLaHktVkZNSlpTWUZBR21EUW1lUUhtRUR0b2ZMN1FUamZKZGZwSE9Fb1VtVTBKRW1Ob08xaURwQjVJSlFnakZHNHlSN2dwUm5TUGRaTVZNSGNoSUJJRkZwTXhFcTNBQ3F1WTkyWEJTX1Q4eElPTWdtSzNFN0VyZldCNG1xaQ?oc=5",
+   "baslik": "Konya-Antalya yolunda aile aracı 50 metre şarampole uçtu: 2'si çocuk 4 yaralı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3ZTOUtjTG5WdXdLWGhyd0lqR19qRG9RajExb2dfajdJdkpSWE81YzN0dFVYRDNCTTFTUU02YkdiVHduQWgwSXMtODRzS3p3bFZaLXE5LXpnTlFFNTl3UEJBYTF3aHBlZUhxSlJ0dHBQQnVsT1ZnaFgxT0xFYTlzNkRON0lqWU13d1JtYzVZV1hSZVJDMEJfOXBBc2VTclRRN0HSAZwBQVVfeXFMTzJNMHR1RUQ4Wl82dmwwUF9lamFCS0x0ZmFRRFd0NTJ0WE1QbWdzR2RTMDUyeTB6QWhuNjJCNVFlLWlLTjRMLVVtcURYalJackktYnRRUDRkc0U4anpvSlJnUGMtX2lpcUM1OVVrNlVYVXI0R0k0aGxHV3RaU2tHWjljaVNGU0tpSk5DRkJQQUtJbHV5SFNSNjY3QWpt?oc=5",
+   "baslik": "Manavgat'ta rekolte artınca zeytinyağı 200 liraya düştü, fabrika önünde kuyruk var",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRUNvcXhjeXE4ZVZEaHlhV1dISDFGM1hSNGdCR1hERzhmTTJKTmc3SE1QajQxQ0lVTkVFM1ljTmtjQzU4OUtvdDVybF9IWTFDZFVXVGFJUUV6U1Fyb1V2b0ROWkpySTNvUS1CaWRzbExDVkdzVTBnYlY2dDhhUTVJSmdEaHJVejVYTjFvNVJnSlRWLXhyLWd1X25HbjQ2UllOTUdadGxYRnNnZElkV1lzWEFiTzFNc2hybk8wWEZCdHppcEM1cm5kSEdB?oc=5",
+   "baslik": "Antalya’da zeytinde rekolte arttı, zeytinyağı fabrikaları önünde kuyruklar oluştu İhlas Haber Ajansı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnRGQ05vU2ZRWFotOFJCWXFJckxqSENOVzVGVURyWVRpZ09XQXVXejN4ZmlOa1NMY0VubklpMThYQnF6VUxKZHU5aEthaXZmQTdPSU1WdS1fTEVTUDVPMXpxSTczaDdrWnZqTE9obXg2dmRjN2NOd0tCVFNkbG1mZzBEYTY5S2ZnNjVOeVNhSUdyVldWR2c?oc=5",
+   "baslik": "Sıfır Atık Hareketi 193 ülkeye ulaştı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHlUUEFMWTNZQlFrZHBuSEZwSnhfMDVrYXI0UFI5RU5BZ0pZNmtETndhMTRKUHRyMnpNdl9QRmRuRGxoMjhvRnNSc04wZm9NbTBTS3Rtak1Jc2VWQjA0OXV6SHRlZldkYVlJelNpVk1nNzhLNnFyVldQOTlCZ0pKWkdUTnRUcGZMc1ZSUUxwcTZ2QUhCRV81UW9SdXVvRHVEb0NNRTZucHFhSDliQWduUmd3a1dQSHRCdXM3MWU0bXhQLVNWek9nTDNXVExqbllGWVNHbw?oc=5",
+   "baslik": "Otel Cirolarında İstanbul Yükseldi, Antalya Geriledi: Türkiye Turizminde Büyüme Dengesi Değişiyor",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTJQOHpmcnBZSnMzQkpGak1tZGhrVlhXdXBic0gxWTN0ZzBaZWF5dDFGZldJOV9UWGpua2ZRZFRLN1hEamEta2tROU41SUpmMW5TNTRHMG0xa1otdjB4emZic2NWWVo4WGhfRm9Sb2I4S3RYTS1SZTFRcjc2X0pYWW5wbUtTT2tsNlQtenUyTHlteGh2QXo2V1MyMFVfek9fdUwwNUI0YlQ5TkkwbldpU1pGVUIwbjl2dVJfYWpJRmo3M2xQcFZ5eUxXQk1sUmRYMExoQWpMS1lfb3hVeE9UbG5YV3U5VE16QkE?oc=5",
+   "baslik": "2 kardeşin eğlence mekanı çıkışında dövülüp telefonlarının gasbedildiği iddiası; 5 gözaltı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xM2U5R0k0WTVPLTA2MnpMT1U1eTRmVW1IVkdzOVFVc3Rhb0ZhbHh1cGMtVmxhWWlTdnBSV01Gdll3SHZGa05DYWh0LWxXeHdxT1llRHZKTHZZSWVWVkh0Q1JaV2FtRzVMd2FFVHdPc29aZU1PSHh1Vmw0ZHo?oc=5",
+   "baslik": "Büşra Özdemir hesaplarını yeniden açtı!",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xM2U5R0k0WTVPLTA2MnpMT1U1eTRmVW1IVkdzOVFVc3Rhb0ZhbHh1cGMtVmxhWWlTdnBSV01Gdll3SHZGa05DYWh0LWxXeHdxT1llRHZKTHZZSWVWVkh0Q1JaV2FtRzVMd2FFVHdPc29aZU1PSHh1Vmw0ZHo?oc=5#yz",
+   "baslik": "Büşra Özdemir sosyal medya hesaplarını yeniden aktif hale getirdi",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOElJNTJqTmUzeGlTNWpFYXNVQ0QzQVBiSUgxRml5OXRSNW84Nk5EMW1WNWVtRzNqS3JnUlpLUUczd3RxWDNwMWdUY0xFLTVPXzRmRWowa0Mzck1LMllnaEkzNWZwb01DdVA3OENRdE1uXzItY0VJSlZHSHdXVERWMzAwRHNYcktZemkwZmNVOWFCekdNZW45Ujg3X0xjOURHRldXbm9tNER6VmI3U3RqUXRocmhUVDg0b3ZBVGhyZw?oc=5",
+   "baslik": "Antalya Kemer’de Belediye Yangında Evi Zarar Gören Vatandaşı Yalnız Bırakmadı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEtCSG96bnp3TWt0LTZkb3JyNGthNkZVOUFmUHp3RHhMTzdvV0dSTDFGWGJKVnViaTMwU2tPLTJNTm9Qc1hLeWZvZHR0WHRRc0c5ZkQ2Y1FnSXU1ZkxSbDE3WFc5Ykloc0JObkI5TDljNlJwY2VzT1FnbFNNQ2hpYU5TUzBEbHkxS2paTDhRaUVMcjdXU054TXU1WEpKQTJYS2hEQXZn?oc=5",
+   "baslik": "Alanya'da Şaşırtan Detay! Serbest Kaldı, 10 Yıl Hapis Çıktı",
+   "ts": 1794993887
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEtCSG96bnp3TWt0LTZkb3JyNGthNkZVOUFmUHp3RHhMTzdvV0dSTDFGWGJKVnViaTMwU2tPLTJNTm9Qc1hLeWZvZHR0WHRRc0c5ZkQ2Y1FnSXU1ZkxSbDE3WFc5Ykloc0JObkI5TDljNlJwY2VzT1FnbFNNQ2hpYU5TUzBEbHkxS2paTDhRaUVMcjdXU054TXU1WEpKQTJYS2hEQXZn?oc=5#yz",
+   "baslik": "Alanya'da serbest kalan hükümlü cezaevine gönderildi",
+   "ts": 1794993887
   }
  ],
- "son_calisma": "2026-11-18T11:58:34.613768+03:00",
+ "son_calisma": "2026-11-18T12:29:38.022139+03:00",
  "gorsel": {
   "gun": "2026-11-18",
-  "yz_bugun": 2,
+  "yz_bugun": 6,
   "onbellek": {
    "konu:670ba52ee1f7": {
     "konu": {
@@ -59385,7 +59385,7 @@
    "aciklama": "deneme modu: yayın sürümü '-', kod h2.k4.a2.i3.r1.y3",
    "acik": false,
    "hat_kimlik": "h2.k4.a2.i3.r1.y3",
-   "tarih": "2026-11-18T11:56:09+03:00",
+   "tarih": "2026-11-18T12:27:19+03:00",
    "son_tur": {
     "duzelt": 0,
     "bul": 0,
@@ -59436,216 +59436,6 @@
    "9b375239178a": "fotoğrafsız gösteriliyor"
   },
   "golge": [
-   {
-    "dosya": null,
-    "baslik": "Antalya'da 82 kamu taşınmazı turizm amaçlı tahsis edildi",
-    "hat": "h2.k4.a2.i3.r1.y3",
-    "tarih": "2026-11-11T04:38:25+03:00",
-    "durum": "onaylandi",
-    "gorsel": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "sinif": "ozne_kisi",
-    "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Mehmet_Nuri_Ersoy_in_November_2023.jpg",
-    "lisans": "CC BY 4.0",
-    "gerekce": "kütüphane: kişi kimliği 'Mehmet Nuri Ersoy' (doğrulama h2-i3-y3); görsel kontrol: Bakanlığın en üst yöneticisi olan bakanın portresi, tahsis haberi için uygundur.",
-    "kapak_nedeni": null,
-    "yerlesim": {
-     "manset": "yan",
-     "kart": false,
-     "kart_portre": true,
-     "yan": false
-    },
-    "adaylar": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Antalya_varyant.jpg/1280px-Antalya_varyant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "baglam",
-        "kaynak kaydı başka bir yere ait (Konyaaltı); haberde bu yer geçmiyor"
-       ]
-      ]
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "durum": "onaylandi",
-      "nedenler": []
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ministry_of_Culture_and_Tourism_of_China_%2820220414162452%29.jpg/1280px-Ministry_of_Culture_and_Tourism_of_China_%2820220414162452%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (1/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ministry_of_Culture_and_Tourism_S%C4%B1hhiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "kalite",
-        "tarihî/siyah-beyaz görüntü güncel haberle çelişiyor"
-       ],
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (0/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Karaalio%C4%9Flu_Park%2C_Antalya%2C_Turkey_Feb_2022_-_Landscape_and_Dog.jpg/1280px-Karaalio%C4%9Flu_Park%2C_Antalya%2C_Turkey_Feb_2022_-_Landscape_and_Dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "habere uygunluk düşük (0/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Mountain_view_The_semuz.jpg/1280px-Antalya_Mountain_view_The_semuz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (0/10, en az 7)"
-       ]
-      ]
-     }
-    ]
-   },
-   {
-    "dosya": null,
-    "baslik": "Alanya'daki yüksek vergi borçluları kamuoyuna açıklanacak",
-    "hat": "h2.k4.a2.i3.r1.y3",
-    "tarih": "2026-11-11T04:39:56+03:00",
-    "durum": "onaylandi",
-    "gorsel": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vergi_ileti%C5%9Fim_merkezi.jpg/1280px-Vergi_ileti%C5%9Fim_merkezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "sinif": "ozne_kurum",
-    "kaynak_sayfa": "https://commons.wikimedia.org/wiki/File:Vergi_ileti%C5%9Fim_merkezi.jpg",
-    "lisans": "Public domain",
-    "gerekce": "'Gelir İdaresi Başkanlığı' Wikidata Q6029385 kaydı ve Commons kategorisiyle doğrulandı; görsel kontrol: Gelir İdaresi Başkanlığı binasını net bir şekilde göstermektedir.",
-    "kapak_nedeni": null,
-    "yerlesim": {
-     "manset": "kaplama",
-     "kart": true,
-     "kart_portre": false,
-     "yan": true
-    },
-    "adaylar": [
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vergi_ileti%C5%9Fim_merkezi.jpg/1280px-Vergi_ileti%C5%9Fim_merkezi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "onaylandi",
-      "nedenler": []
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/National_Board_of_Revenue.jpg/1280px-National_Board_of_Revenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (0/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mu%C4%9Fla_revenue_administration_building_5674.jpg/1280px-Mu%C4%9Fla_revenue_administration_building_5674.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "kalite",
-        "tarihî/siyah-beyaz görüntü güncel haberle çelişiyor"
-       ],
-       [
-        "konu",
-        "yanıltıcı dönem"
-       ],
-       [
-        "konu",
-        "haberin ana öznesi (kurum/takım/tesis) fotoğrafta görünmüyor"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (5/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Alanya_Unidentified_building_8370.jpg/1280px-Alanya_Unidentified_building_8370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "görselde olmaması gereken unsur: kişi yüzleri"
-       ],
-       [
-        "konu",
-        "zorunlu unsurlardan hiçbiri görünmüyor: vergi dairesi binası"
-       ],
-       [
-        "konu",
-        "haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı)"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (1/10, en az 7)"
-       ]
-      ]
-     },
-     {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Alanya_Museum_Front_of_building_8142.jpg/1280px-Alanya_Museum_Front_of_building_8142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "durum": "reddedildi",
-      "nedenler": [
-       [
-        "konu",
-        "haberin konusuyla ilgisiz yer/nesne"
-       ],
-       [
-        "konu",
-        "zorunlu unsurlardan hiçbiri görünmüyor: vergi dairesi binası"
-       ],
-       [
-        "konu",
-        "haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı)"
-       ],
-       [
-        "konu",
-        "habere uygunluk düşük (0/10, en az 7)"
-       ]
-      ]
-     }
-    ]
-   },
    {
     "dosya": null,
     "baslik": "Antalya turizminde alarm zilleri: Önemli pazarlarda düşüş sinyali",
@@ -83081,6 +82871,184 @@
        [
         "konu",
         "habere uygunluk düşük (3/10, en az 7)"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "dosya": null,
+    "baslik": "Büşra Özdemir sosyal medya hesaplarını yeniden aktif hale getirdi",
+    "hat": "h2.k4.a2.i3.r1.y3",
+    "tarih": "2026-11-18T12:26:47+03:00",
+    "durum": "onaylandi",
+    "gorsel": "/images/kurum/adf4e15e125644d9.jpg",
+    "sinif": "ayni_olay",
+    "kaynak_sayfa": "https://www.antalya.bel.tr/tr/haber-detay/cop31-kapsaminda-%E2%80%9Ciklim-dayanikli-tarim-icin-antalya-mutabakati%E2%80%9D-imzalandi",
+    "lisans": "Kurum izniyle",
+    "gerekce": "Haber Antalya Büyükşehir Belediyesi sitesinde bulundu (metin benzerliği %54); fotoğraf kurumun kendi sayfasından; görsel kontrol: Büşra Özdemir'in de aralarında bulunduğu kalabalık heyetin yer aldığı güncel bir etkinlik karesi.",
+    "kapak_nedeni": null,
+    "yerlesim": {
+     "manset": "",
+     "kart": true,
+     "kart_portre": false,
+     "yan": false
+    },
+    "adaylar": [
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "baglam",
+        "kaynak kaydı başka bir yere ait (Kepez); haberde bu yer geçmiyor"
+       ]
+      ]
+     },
+     {
+      "url": "/images/kurum/adf4e15e125644d9.jpg",
+      "durum": "onaylandi",
+      "nedenler": []
+     },
+     {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/AK_Parti_%C4%B0stanbul_Milletvekili_Murat_Kurum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "konu",
+        "yanlış kişi öne çıkıyor"
+       ],
+       [
+        "konu",
+        "haberin konusuyla ilgisiz yer/nesne"
+       ],
+       [
+        "konu",
+        "haberin kişisi fotoğrafta tek başına/öne çıkmış görünmüyor"
+       ],
+       [
+        "konu",
+        "habere uygunluk düşük (0/10, en az 5)"
+       ]
+      ]
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "konu",
+        "haberin konusuyla ilgisiz yer/nesne"
+       ],
+       [
+        "konu",
+        "görselde olmaması gereken unsur: kapalı ekran, hata mesajı"
+       ],
+       [
+        "konu",
+        "ne haberin öznesi ne de olayı görünüyor"
+       ],
+       [
+        "konu",
+        "haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı)"
+       ],
+       [
+        "konu",
+        "başka bir olayın karesi bu haberin görüntüsü sanılır"
+       ],
+       [
+        "konu",
+        "habere uygunluk düşük (1/10, en az 8)"
+       ]
+      ]
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "konu",
+        "haberin konusuyla ilgisiz yer/nesne"
+       ],
+       [
+        "konu",
+        "görselde olmaması gereken unsur: kapalı ekran, hata mesajı"
+       ],
+       [
+        "konu",
+        "ne haberin öznesi ne de olayı görünüyor"
+       ],
+       [
+        "konu",
+        "haberin konusu fotoğrafın ana konusu değil (geniş kare içinde ayrıntı)"
+       ],
+       [
+        "konu",
+        "başka bir olayın karesi bu haberin görüntüsü sanılır"
+       ],
+       [
+        "konu",
+        "habere uygunluk düşük (1/10, en az 7)"
+       ]
+      ]
+     },
+     {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Temsa_Avenue_in_Antalya.JPG/1280px-Temsa_Avenue_in_Antalya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "kalite",
+        "tarihî/siyah-beyaz görüntü güncel haberle çelişiyor"
+       ],
+       [
+        "konu",
+        "haberin konusuyla ilgisiz yer/nesne"
+       ],
+       [
+        "konu",
+        "görselde olmaması gereken unsur: kapalı ekran, hata mesajı"
+       ],
+       [
+        "konu",
+        "habere uygunluk düşük (2/10, en az 7)"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "dosya": null,
+    "baslik": "Alanya'da serbest kalan hükümlü cezaevine gönderildi",
+    "hat": "h2.k4.a2.i3.r1.y3",
+    "tarih": "2026-11-18T12:27:01+03:00",
+    "durum": "fotografsiz",
+    "gorsel": "",
+    "sinif": "",
+    "kaynak_sayfa": "",
+    "lisans": "Gazete Antalya'nın kendi tasarımı",
+    "gerekce": "1 aday kontrolden geçemedi; fotoğrafsız.",
+    "kapak_nedeni": {
+     "kod": "gorsel_reddedildi",
+     "aciklama": "habere uygunluk düşük (4/10, en az 7); yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor"
+    },
+    "yerlesim": {
+     "manset": null,
+     "kart": null,
+     "kart_portre": null,
+     "yan": null
+    },
+    "adaylar": [
+     {
+      "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "durum": "reddedildi",
+      "nedenler": [
+       [
+        "konu",
+        "yabancı unsurlar olayın başka bir ülkede geçtiği izlenimini veriyor"
+       ],
+       [
+        "konu",
+        "habere uygunluk düşük (4/10, en az 7)"
        ]
       ]
      }
