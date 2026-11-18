@@ -68157,6 +68157,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Rockdale%2C_TX%2C_Chamber_of_Commerce_office_IMG_2243.JPG/1280px-Rockdale%2C_TX%2C_Chamber_of_Commerce_office_IMG_2243.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "70eb2be0812fc809": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     355,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hesap makinesi",
+     "defter",
+     "sayı tabloları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hesap makinesi ve rakamların yer aldığı muhasebe tablosu",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ekonomi haberleri",
+     "borç haberleri",
+     "esnaf haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c0e065a9d9f2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Borç ve maliyet temalı haber için uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "hesap makinesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       355,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:26:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "415878fff7fcc7d0",
+    "sha": "64a60c9a25e0fd5ab19b7687"
+   },
+   "t": "2026-11-18T14:26:18+03:00",
+   "teknik": {
+    "doygunluk": 43.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.25,
+    "keskinlik": 403,
+    "kontrast": 48,
+    "medyan": 102,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1783578691777-35e73eef4d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwZGVidCUyMGNhbGN1bGF0b3IlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUwMDExNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "713b56b3c477912f": {
    "icerik": {
     "ana_kutu": [
@@ -120859,6 +120951,41 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
+    "r1:3996b6c9b754:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, uluslararası bir toplantı masasını ve delegeleri gösterdiği için iklim zirvesi haberiyle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       223,
+       107,
+       796,
+       881
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T14:26:54+03:00"
+    },
     "r1:5f6fd2e5edd2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -120980,41 +121107,6 @@
       "yasak": []
      },
      "t": "2026-11-10T21:09:52+03:00"
-    },
-    "r1:86ede938cd6d:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Uluslararası bir toplantı ortamını ve masasını temsil ettiği için zirve haberiyle uyumludur.",
-      "gerekli": [
-       {
-        "unsur": "zirve salonu",
-        "var": true
-       },
-       {
-        "unsur": "uluslararası toplantı masası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       350,
-       100,
-       900,
-       900
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T17:04:42+03:00"
     },
     "r1:91e4f256d5ba:konu": {
      "d": {
@@ -121138,7 +121230,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-17T14:54:03+03:00",
+   "t": "2026-11-18T14:26:54+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -160149,6 +160241,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-12T08:56:21+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "70eb2be0812fc809": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6960,
+    4640
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Hesap makinesi ve rakamların yer aldığı muhasebe tablosu",
+   "gosterim_ad": "borç",
+   "ilk_kabul": "2026-11-18T14:26:18+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Joachim Schnürle / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Joachim Schnürle",
+    "sayfa": "https://unsplash.com/photos/a-calculator-rests-on-old-financial-ledger-sheets-with-numbers-aPJZrW3kAuU"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "defter",
+    "hesap makinesi",
+    "sayı tabloları"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1783578691777-35e73eef4d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwZGVidCUyMGNhbGN1bGF0b3IlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUwMDExNzN8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "ekonomi haberleri",
+    "borç haberleri",
+    "esnaf haberleri"
+   ],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-18T14:26:18+03:00",
+   "url": "https://images.unsplash.com/photo-1783578691777-35e73eef4d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwZGVidCUyMGNhbGN1bGF0b3IlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUwMDExNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
