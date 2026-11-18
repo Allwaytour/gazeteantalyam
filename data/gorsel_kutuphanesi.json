@@ -457,6 +457,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vak%C4%B1fBank_SK_WV_TWVL_20261003_%281%29.JPG/1280px-Vak%C4%B1fBank_SK_WV_TWVL_20261003_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "009e5f138b35aa74": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     100,
+     950,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "müze",
+     "türk bayrağı",
+     "merdiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara Etnografya Müzesi'nin dış cephesi ve merdivenleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm",
+     "tarih"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a1e29cbc8d0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasetle ilgili, müze binasının konuyla hiçbir ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "kaza"
+      ]
+     },
+     "t": "2026-11-18T20:56:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0713316931a18e9c",
+    "sha": "7850db0624cbb8f3def9af31"
+   },
+   "t": "2026-11-18T20:56:55+03:00",
+   "teknik": {
+    "doygunluk": 13.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 1670,
+    "kontrast": 72,
+    "medyan": 143,
+    "parlaklik": 150,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ethnography_Museum_of_Ankara.jpg/1280px-Ethnography_Museum_of_Ankara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "00b367b61b7b2b9d": {
    "icerik": {
     "ana_kutu": [
@@ -30123,6 +30211,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bak%C4%B1da_T%C3%BCrk_D%C3%B6vl%C9%99tl%C9%99ri_T%C9%99%C5%9Fkilat%C4%B1na_%C3%BCzv_d%C3%B6vl%C9%99tl%C9%99rin_H%C3%B6kum%C9%99t_ba%C5%9F%C3%A7%C4%B1lar%C4%B1n%C4%B1n%2C_Vitse-prezidentinin_ikinci_g%C3%B6r%C3%BC%C5%9F%C3%BCnd%C9%99n_%C9%99vv%C9%99l_%C3%A7%C9%99kilmi%C5%9F_foto.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2ded005fb3e1184e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 500,
+    "nesneler": [
+     "kalabalık",
+     "meşale",
+     "türk bayrağı",
+     "meydan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti kalabalık bir meydanda meşalelerle yapılan siyasi kutlama.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "seçim"
+    ],
+    "uygunsuz_baglamlar": [
+     "portre",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a1e29cbc8d0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir seçim kutlaması karesi, ana özne veya siyasetçi görülmüyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "kaza"
+      ]
+     },
+     "t": "2026-11-18T20:56:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6debebebdbb9a1b6",
+    "sha": "00957eb81cc05d685a03e67b"
+   },
+   "t": "2026-11-18T20:56:55+03:00",
+   "teknik": {
+    "doygunluk": 34.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.305,
+    "keskinlik": 5878,
+    "kontrast": 58,
+    "medyan": 77,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/CHP_Ankara_2024_local_election_celebration_02.jpg/1280px-CHP_Ankara_2024_local_election_celebration_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2e00ac9fbb8dc400": {
    "icerik": {
     "ana_kutu": [
@@ -58804,6 +58981,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg/1280px-Kemer_Antalya_T%C3%9CRK%C4%B0YE_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5f3516949f6e2bd0": {
+   "ozet": {
+    "dh": "399495a58faea2d5",
+    "sha": "1d472b309c640cd4239643b4"
+   },
+   "t": "2026-11-18T20:55:59+03:00",
+   "teknik": {
+    "doygunluk": 34.8,
+    "inen": [
+     500,
+     374
+    ],
+    "karanlik_oran": 0.774,
+    "keskinlik": 1633,
+    "kontrast": 44,
+    "medyan": 26,
+    "parlaklik": 39,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/TUSA%C5%9E_sald%C4%B1r%C4%B1s%C4%B1_sonras%C4%B1nda_Ankara_%C3%A7evreyolu.jpg/1280px-TUSA%C5%9E_sald%C4%B1r%C4%B1s%C4%B1_sonras%C4%B1nda_Ankara_%C3%A7evreyolu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5f85914a467a68d5": {
    "icerik": {
@@ -96695,6 +96893,93 @@
    },
    "url": "https://images.unsplash.com/photo-1631189945107-34e33ff1c648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c2FmZnJvbiUyMHN0aWdtYXN8ZW58MXwwfHx8MTc5NDgxNjg0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9e8a5bd3ef8c952a": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 500,
+    "nesneler": [
+     "otobüs",
+     "türk bayrağı",
+     "kalabalık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara'da CHP seçim kutlaması ve kalabalık bir miting alanı",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "seçim haberi",
+     "miting"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a1e29cbc8d0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Büşra Özdemir'in parti değiştirme haberine değil, CHP'nin yerel seçim kutlamasına aittir.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-18T20:56:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d79eafebdbd92549",
+    "sha": "c0acbfefb22a4e7a8e34e5bc"
+   },
+   "t": "2026-11-18T20:56:07+03:00",
+   "teknik": {
+    "doygunluk": 32.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.318,
+    "keskinlik": 6792,
+    "kontrast": 56,
+    "medyan": 75,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/CHP_Ankara_2024_local_election_celebration_01.jpg/1280px-CHP_Ankara_2024_local_election_celebration_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9ec29b9552141e8a": {
    "icerik": {
     "ana_kutu": [
@@ -117160,6 +117445,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gabar_mointain.jpg/1280px-Gabar_mointain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bf4e1b8c041c0630": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     200,
+     500,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "otobüs",
+     "siyasetçi",
+     "afiş",
+     "kalabalık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Seçim otobüsü üzerinde duran bir grup siyasetçi ve aşağıda onları izleyen kalabalık.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "seçim"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      180,
+      330,
+      250,
+      380
+     ],
+     [
+      180,
+      470,
+      250,
+      520
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:9a1e29cbc8d0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyasetçiler var ancak haberdeki Büşra Özdemir değil, başka bir partinin seçim otobüsü.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "kaza"
+      ]
+     },
+     "t": "2026-11-18T20:56:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ae3c1637191b8fc7",
+    "sha": "02806c8559329825ef4e6bb0"
+   },
+   "t": "2026-11-18T20:56:55+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.424,
+    "keskinlik": 3557,
+    "kontrast": 60,
+    "medyan": 61,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/CHP_Ankara_2024_local_election_celebration_03.jpg/1280px-CHP_Ankara_2024_local_election_celebration_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "bf6d5c9508844576": {
    "icerik": {
     "ana_kutu": [
@@ -120571,6 +120957,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Remnants_of_turkish_barracks_Sofia_2012_PD_1.jpg/1280px-Remnants_of_turkish_barracks_Sofia_2012_PD_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c6248b57fe79b198": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     150,
+     800,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "afiş",
+     "bayrak",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "AK Parti genel merkez binası dış görünümü, üzerinde devasa siyasi afişler asılı.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "kurumsal"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a1e29cbc8d0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde adı geçen partinin genel merkezi, temsilî olarak kullanılabilir ancak dönem eski.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       150,
+       800,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç",
+       "kaza"
+      ]
+     },
+     "t": "2026-11-18T20:56:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "39bc64c0c4c8b723",
+    "sha": "7e8cac41aa9b7fa6837b4020"
+   },
+   "t": "2026-11-18T20:56:55+03:00",
+   "teknik": {
+    "doygunluk": 10.6,
+    "inen": [
+     500,
+     350
+    ],
+    "karanlik_oran": 0.109,
+    "keskinlik": 653,
+    "kontrast": 62,
+    "medyan": 138,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/AKP_headquarters_Ankara_2015_general_election.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "c64a9c97d1bb1cbb": {
    "icerik": {
