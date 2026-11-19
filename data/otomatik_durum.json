@@ -1,117 +1,7 @@
 {
  "gun": "2026-11-19",
- "yz_bugun": 57,
+ "yz_bugun": 61,
  "gorulen": [
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdzlDbWhWMzVMREdmU19IQmVYdEM4cU5zeW9ObDFWQ1hOZi02Ty1SOVJGN2d4bHdsY2xHRFRqY1AwQnc0OGJwY2hLVmtfM0t5WTVLd0Nqc00ycy1zd2VWaGstTlJiYmlSUFZCaTVqZkNvSzl4WF8tQXJTenRWRXBtd0lQc28xNmJGZEVjTUJQZlpMYTh4M3NkRFgxNTQ1bnBpdGx6THBvTQ?oc=5#yz",
-   "baslik": "Antalya'da Kadınlarla Atıksız Sürdürülebilir Yaşam Projesi başlatıldı",
-   "ts": 1794572893
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVDVGNHZjdXZONkg1YTBpM1N5WWdERmZhZVhfOUR2Mi1hZi0tMkZCaF8teWhfb3FHWF9FU1JIT1BpU0o0X0pDTFRWRFg0MC0wT3F4YlFiYU5PS19zRVdRSmVxZVZ4ekdVYU9nd3Exa2tQeVlRMEM2TmVjalcxcm1mWGJoR1pxdw?oc=5",
-   "baslik": "SON DAKİKA! Alanya’da 25 yaşında ilaçla canına kıydı",
-   "ts": 1794572893
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94SHpsVVlFQmQtelU3M0FxbE9UMVh5N2Nka1l3RXRCVGM2WWpFQ3RwQk0tYlNDTkxUdkppV0ZVOWEwd1I3MDVxemZia3MzZTdDdENYUXRVOUhrd0lZS21lN0lTc3Zhb3YzRnZ1eDBBbWtiMzczT2F3Q25Ecw?oc=5",
-   "baslik": "Alanya’da Ayşe Teyze ve üç çocuğuna yeni yuva",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdHROQ1owTDRLTWdBWmJkZklMMVNXNFg1Rlo0SjBrMkFEYXN0NGt5eFI4Q2M5YlFpM01tdjIySTRfNXhOQldsa1R1d3BKLWs5WTdxaDlRYzg4aFNJemtZUXJ3YWNNd1pVQWoyTjExNGJhUVEtQ2pXSjI5SVQzQQ?oc=5",
-   "baslik": "Alanya’da çöken rıhtım baştan aşağı değişiyor",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZjVieXNYYWk4YjB5YXZSdjhXSzBtVGV2RlhWNmxwSlBoWlVtbWllOTVJRFowQWJpekVxdU5sZkE0ZndvS3BhX0xTcjR4WGVGY1k4QS1qUmpvODc1M191dHp0VFpsaTNkc0RSRUFnck0?oc=5",
-   "baslik": "Finike'de uyuşturucu operasyonu",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVBtbzJnZWxYS2JWS3dEZ2dsRnhuNWkyQ0xQLUlTbW5YRUVuNU5IQjdxTkZGSk1MN3RWR1l3YWNCWk9JQ1ByeUtFTm1pR1VidXViallhbHF5WkNzNy1VMnlmVmt5Wkswck90bjVBU3RkOGNmN2NVTXNtUUQ0NEx6M3lWblB6X0ZrZnREcDNwMkhJUk1L?oc=5",
-   "baslik": "Alanya’da Hollandalı adam evinde ölü bulundu",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUhZaUdycEpTLTd2S0FlWmdnOU5EOGJUWE5nM2JqN2MwU2lWQ19FMGZUNUdvbWMyekhkRlRtcHFfTzlOYzEwNy1JUml5V0lQc3pjQmVLaFJsU0VFbGZ0ZDdYZGhvVEVvVEJ1YUNQR1duMzhhajN3ZjVwREoxbm9sSEFZM3lYS21nYWxnZQ?oc=5",
-   "baslik": "Antalya’da COP31 Trafik Düzenlemesi: Bazı Kısıtlamalar Kaldırıldı",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOHUyUTM2cmhwaTRuTkZrajdScGdXcTRvNmVDNU1kRmdoZWZ2SkNxai1DOGhYSFVQUTJac1ZJQTFLZFZ6UE9CQXhKcWJuajhIdnJvbDQ5ZFBPc21WVHF2NzFzQ1pPM3VuRkpFdnlHb0ppMm1tbXBVSENpc25wamQyZ1lfWXVGTzNkM1RxcGVBQzk1azFSRFpmVE41dmhKekg5NVR3VlNMcGQ2dWRkdW9VcDdDMXpqUEE0aE55Uzc4N0VVNWNERWN6R0tWNFFtWThNbU1PUkZTblZwYWZHaDJVN0FrNkdSZw?oc=5",
-   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Sigorta Evi kapsamında \"Kırılganlıktan Sigortalanabilirliğe\" raporu ilk kez tanıtıldı",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRThCYlRxalV2RklIbnUzUFNnLXhFOUd2UmZ5TkNtWGxhYkZfMXVzcnh2a3dxZmtfYTlvNmdCLU9PNDZ2YU5NZzRGN1pzTU5YNDZ5VldjcnhpRFdkbllJekhxSHFpbVV5U1o2T0FvakhHZEV3eTlaNUcwdFk4cnJ3TVQxTV9teXRBcFEtREZZSW85RTFuQjA4Tw?oc=5",
-   "baslik": "Londra Belediye Başkanı Khan’dan Antalya’daki COP31’e övgü",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXQ2dDF4bjRRdTB1aDNlejRWRHdSWGNPdXJNV08xNDI2RG55QjRfVDhjR0p6R1NxdUV0ZE5Vc2oyNmFSZy14Wlk5T0R4RTI5SDVWcHBUMDdkcG9zbUVSclhRMk8zWERaV1p0bGY0VUdPTnFHc01CMkRBdGw3S3k0OXRqRlZUU2VsRW00aXdXOFRDLUFSYlhUX01xMU1wamhsRjBzTGpsUjFyQQ?oc=5",
-   "baslik": "Alanya’da Ayşe Teyze ve 3 çocuğu yeni yuvalarına kavuştu İhlas Haber Ajansı",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDBObm94dFBIZkJHN3V3dms4eGVVY0ZwZ3VxeURIa0FLbElKRlBvdHAzbEZOYlFZc1hDYmVPVGwwOU9pTGl6b0R5QmhWR3B5WDJVZnlibFlpUTBjVng4R1lJaFd3Z3RwcGpvX2xyc3I0N1FjeWpLX2VObWdmWmk3YnhfM0NGNjFTQkwyNTFMQXo4Y01kUnQwOA?oc=5",
-   "baslik": "1 milyon kadın sıfır atık elçisi olacak",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm5WYzdIV2dVamktOWMwMWZ3WkNUUTlabUI2d01tVFVtQU5PT1g2MlJ3T2t5VnB3SWNyWjdCdk9oOGRWekxwX29Wa1pBZHI5M0EyalNCYm5oU0JXTXYxU0g2LWlxNkQ3blU3YW54NWRXWkpkMzVYRkF0WWsteEhwdHVSMXZheWlSX29nNldNNks?oc=5",
-   "baslik": "Alanya İlçe Eğitim Müdürü Yılmaz’dan okullara TÜBİTAK çağrısı",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUVESzV3TFhrNHNWTWZvTk9fYjVzNUkzbm42dm5MWTJSSzhOV1NjNUdJZVZUeklBVUx0OVl1Tnh4NjQ5dzZNdGZ4WC1kaVpBQUNuOEYxUjVpNDhVd1JfUk5fZjdKRlh4Rm4xNFAwNWF6UFJ2bTZadzlORXVJX0phMEZtbllXbVJ1TlJmOHh0T09xc3JQQmVXQWdIanBfdXBRbWNB?oc=5",
-   "baslik": "Milli voleybolcu Zehra Güneş'ten çocuklar için 'yeşil alan' çağrısı",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT1RGa001Z1JzNUVGN2tXd2hKRzYwbXo0U0g1LXpDcEVMSENRRWNFZUpTUFI1NDJVdmhFM2VXek52cGJHd3RQb0hRc3hWeVdIc0w1cm1feGtqNFB6SGdQWWhrYS1FTXlLZUF4MXJlUnNvSXZLQjc1NTg1OHd2WXU4TzN3UHBQZjBHbDhtNE1pVGUzcDUyS1Rj?oc=5",
-   "baslik": "UNDP Başkanı De Croo’dan Antalya’da COP31 değerlendirmesi",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaG9ySHZnRHFKb1NkLTl2S1E5djZLSmNlYkFQMUJuaEsySzhQSzlLZTQ1a3VGU0VkY09IUmlxWkVwYTBUSmNROFQxTjJDb1NacTNBS1plMFZHNGttZWMtV3F4UF9UV1ZmbUowSWl5T3JVLS15RHZJRzY3eXFsSDJEZzNxc1puTGU0dENlQ1ZpSVBqNFNUeDdKZjdNWmNEd2lPTzBlRFl3amR5N2FpSkhiWUN3?oc=5",
-   "baslik": "Manavgat'tan Müslüm Berat Avrupa Judo Şampiyonası'nda Üçüncü Oldu",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckpjTEVCTmdSNEpUS2FER0JLdnpoOUpqT3VjaDFuOC1HTk5RYkxBTXBEc2pZdE8tTHhBb1d1TXJLOS1XVEtlbmE1dDB0ZnNRX0dHczhIU2xQVko3TjJCVy1rVFJsM1NwS3VzcXpCMWNXMkt4dVZFSl8wRms1QXQ4SV9UWWVoNmx1ZURQM05rNllQNTB4NEtkWTlhcGJxdWh6V0xlN1VRcw?oc=5",
-   "baslik": "Antalya’da COP31 Mesajları, Karacaören’de Çöp Gerçeği!",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckpjTEVCTmdSNEpUS2FER0JLdnpoOUpqT3VjaDFuOC1HTk5RYkxBTXBEc2pZdE8tTHhBb1d1TXJLOS1XVEtlbmE1dDB0ZnNRX0dHczhIU2xQVko3TjJCVy1rVFJsM1NwS3VzcXpCMWNXMkt4dVZFSl8wRms1QXQ4SV9UWWVoNmx1ZURQM05rNllQNTB4NEtkWTlhcGJxdWh6V0xlN1VRcw?oc=5#yz",
-   "baslik": "Antalya'da COP31 Zirvesi Sürerken Karacaören Barajı'nda Çöp Manzarası",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jVU9LQmxRa1F1dGxuVGU3MDctNkk2RWZRczhxRE1pZ2VETDV1Uk1Ha1dNNTBQekk4QnJRS1A5anljMFVNN2hMY3ltMWRTdXVuT3lpa1JXT2M2Z1B6aDZnelpnUHd5Wk0?oc=5",
-   "baslik": "Köyün delisi Antalya'dan",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFVfT0laTkI5bHRGYXJ3QWxqWVhYaTd2YWMyQ1duSnhiYi1ubnlaaG5XU1RJNHFkZHRNSFZmbVo2VTlLUmFxdTVKb2RVYUMtTFdYUFI3d21IbVN3dUotRDF6X04ta1A1VVBnSTRWQU5TcEVka1A3LWd1MVlQeDFqRGtvbEJYc3BIQzRLR2FhcWtiekhPTlJfajZ5UmRSN21xaWl1SVN0cXpnQk1IaHJyMFZteXJydHF5dHhXOUUwTDBXVDhXX0RDaGRleFotZw?oc=5",
-   "baslik": "Öne çıkan üç stratejik başlık: Antalya’daki zirvenin arka planı… Türkiye hangi adımları attı?",
-   "ts": 1794574693
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjduVGxUSkVoSk5zVVk0bEEydklQX2REeE5wZk9OMGlPWlRBUGl0WVJNbTB3ZWVWWVIzVXpqWkNSZ3o5eUhoTkpjVmxQNllUamNrMTQtUDhuNHJhSzFUOU1rRFR0VGhob3FqT3hLdFZWWE1EdmtyaG96WjlQb2hJX3JhSzJieE41YUxZRm42bS04eDN3WE1WOXlrMEtOOHlQbmltQzE5WQ?oc=5",
-   "baslik": "Antalya, uluslararası diplomasinin buluşma noktası oldu",
-   "ts": 1794575047
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTUxqemNDMnY5OTh2TTBqdU1BTnJqSnhWbEtuLThiSGJOVkxWUWhMY0N1VG5idVczZl9QMnJWMy02R0h3dHpXRTE0QTBFOW5IZnJXdW0yallmWC1fUnNMVWgxVlBUY3hzeFhlcHNWUFhoeWo2STlBNGg5bktfdw?oc=5",
-   "baslik": "Finike’de uyuşturucu operasyonu",
-   "ts": 1794575047
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYk1PT3Rmdm40WTgtTnVUREoxZDg5cDhtQ3JyN1N3V1lyVlFveFM2T2ZJTHB5RmZWc0Y2eFBfamNlM0hJZndaS2JnbGtBdDlqVXpyREdhak1VejFDaWpyVlRxQUc2bE95dHRaWmJHN2dqYXQ5emY1VUQ1cmVodXpPMWlpUzcyTUhKUVZsT2lKbFliSnJwT0xZdk1tald2LUlNRVlKQmt6YjE3cmwxbVh1ZmVrdlY?oc=5",
-   "baslik": "Alanya turizmine nefes aldıracak haber: Alman tur operatörü 2027 programını genişletiyor",
-   "ts": 1794575047
-  },
   {
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYk1PT3Rmdm40WTgtTnVUREoxZDg5cDhtQ3JyN1N3V1lyVlFveFM2T2ZJTHB5RmZWc0Y2eFBfamNlM0hJZndaS2JnbGtBdDlqVXpyREdhak1VejFDaWpyVlRxQUc2bE95dHRaWmJHN2dqYXQ5emY1VUQ1cmVodXpPMWlpUzcyTUhKUVZsT2lKbFliSnJwT0xZdk1tald2LUlNRVlKQmt6YjE3cmwxbVh1ZmVrdlY?oc=5#yz",
    "baslik": "Alman tur operatörü Alltours'tan Alanya ve Antalya'ya 2027 yatırımı",
@@ -15001,9 +14891,119 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLS01ZU1uWlhxM2VjbzNLOExXaGxNUVlXbnU5aFk4RHRXMGY2TVJhRk1WeENQaUZhaHhsUUY4Tm1jVGZTR3ZTMTFkMUxGQ1JTRVEwSzM0TDhlSDNmR3N3dVFWTk5YbEMzSG5pb0w5VVJFbTlnT0k2R2l3el9tOHVUWVB0VzU4VThIX3c?oc=5",
    "baslik": "Antalya ve Brezilya tarım ve çevre için köprü oluşturdu!",
    "ts": 1795087601
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanY5Skkzd3NGMnRqbFpMMml0MDlwRWR4alBuc0RJSVZTYllZcEhOV1ZmS1JWcEw0cUEydHJWOGNhNmNkNlJiaUZId1o0MFJENEZTb2YyVHJMdWF4Vzh6emRQZmx4eEpKRXlRdnh1OHdYYURIdFlHRXl1R2pkWUJuVGg4OUhGOFNncGd0NEUtWm84enZoTGVFLUNqa1pSSFVUTTRvM0JWNzl3d0U5clpXZUJBX1ZJOUItU3BnQ3VUSmdPRmFNMGZ5YTU3S3ZxcTI4TlNB?oc=5",
+   "baslik": "Antalya'dan Büşra Özdemir, Fahri Duran ve Saniye Caran Adalet ve Kalkınma Partisi’ne Katıldı",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXLUdMUXBfX1pkVy0zRnhWRUxpaHV1ZnpJSmdNUWFIWjcwaVdPcXdzdkVnS0FZM0xDZHREVmJMUnVZRDZMb2lVVUVrUS0wQ3dHVGhTekR6dUxFbHZNTGUzOEpZcjhZUjFPS3JGZUNRRWk1V0kxdElKYkZ4QVpCQQ?oc=5",
+   "baslik": "Demre Belediye Başkanı Duran Resmen AK Parti'de!",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDNQcW1OT1cyUHRXVGlMRXgwTFVfT0hMNHFNOG80bEFwdS1SeWhIcE8wRUVrcGI3WXZHVGRRenl6cFZpa3VrMGp3TkJUVkw4MzBsSVdIWk8xNnFBc3ZmZy00SnE5eWRnbkN6TjVIYlJSQlFmSDBObWgwUTIwMGpHQThuTDdZZmxpdE9XOGpmOWJjbXM?oc=5",
+   "baslik": "Antalya ve Tekirdağ Büyükşehir Belediyeleri AKP’ye geçti",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1JuNzByeXZIU21nN29wQlBoSVBXbHpQYnNURThvVjFFa3hKVllwZTZ1VklGc2t4b213SV9va0pBTlhKQ0lqX1pOSkpScXdPQkx2bDd3dHB5b1N2QlVZSDQwVTFyTE4yT2QzSzZJZ1JCdnpscXNUVVZVeHhMYWhYQlVQOTFOazlMNEhxaWJxVklVRVl1My1OMXVUa28tQ2RZdWpTcDAyV3AxdHg5WUZ2c0xHT0pIcHUyaHIxQTVuVFdXR0JYSHBCMw?oc=5",
+   "baslik": "Antalya Büyükşehir Başkanvekili Büşra Özdemir Adalet ve Kalkınma Partisi Genel Merkezi'nde",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVRpclpaaHBvMjRzNl81NUhfX2pCZ3d0UmZjRHlDUWZnSDY2eG92QmZqTmhVenhyOE85X01UY0ItSkFYRkF5dmk2MnhHTFlJa2Nkb25TaFQ0cUVlUTZFcDRlNFVPdmhuTmMyeGZjb04zS1VwcENFcWZ6QkMwNF9qSHBsVGNndDFDYWxGa2xaaWdBMWZ6YmNlTTRpMVFPNXczeldsc0M5ZVBTeXNsOERyd1ppbw?oc=5",
+   "baslik": "İki isme rozet takıldı: Tekirdağ ve Antalya belediyeleri AK Parti'ye geçti",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0puQlRHSzhkb21YY0JTdlB4SXhBQ1oyUkNWWllNM1J6dG5jUmxjMTNkYWNITEs4OVpTRzNfc1RWcE9KbUlZdE9wbkRhcDh2ZDRKUXhvYmtiRFdCNXBTRkJ1eFZpb3ByR283U19yQmExMXZCeFNXYlpBSXM5RC1ZVGg5cFR5VEZVVUsxd2huR0NtN09JR096YzZQVEgxUGhpNDZ6R2RoSzBPaF9DUGRN?oc=5",
+   "baslik": "SON DAKİKA! ANTALYA'DA SİYASİ DEPREM! ERDOĞAN, BÜŞRA ÖZDEMİR'E AK PARTİ ROZETİNİ TAKTI!",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHdGcmRyazN1ZDNtT0hnX2tyek9URFpqV1lZdUUzdk1fMTBMMl91VXBOazdoNW5YXzAtS2thSXN3cnlXQTROQTQtdHVWMkRqMDRhbG82aGVvTHk1QTgtcDFvd0E3Uk9aWmpaSHJKREtVem5Gb1lBdlpMLUdJbjNDTHN1N19pdEdBaGo4NkxUZw?oc=5",
+   "baslik": "Büşra Özdemir AK Parti toplantısında en ön sırada",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBMEMzRzI3SE9yMEk5UFlfQnhMbnN3UzFidXc0V1JpNVl0eTduZTJZVUIwRXpON1RUV3JlOFhDcFdjdUh4bW9vNF9KQVJzeTFqd3laV2JMbENiM2d5NUNrd1hyY2xJa3U3bWdHc2JGektYcERIVzBoODNFZw?oc=5",
+   "baslik": "Büşra Özdemir’e rozetini Erdoğan taktı!",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTzJwaGJiV2RkOE5yMEY5ZWVVNTBSTXdGQlpQY3l1eGR0dmNkcGJrbnk1VmpRdDVBQk1DVHBySnktTnVKRDNld2VrekxZT0MwTlVtbXU4YXkwYTVDS2pZdVQ0NF9KczdwWHhpQkpJNGpveFVVeE90SGRETWl3TzVFd3JNWnRQejJKUkxPVEp5TVBlMHE2cjBBbkxZV3FPN0haWTB3MnhyZ3lFV0djZG8yTVpIMG1zY0gzLTUydlZDemQtUnBJcHNidS1MSQ?oc=5",
+   "baslik": "#antalya Büyükşehir Başkanvekili Büşra Özdemir Adalet ve Kalkınma Partisi Merkezi'nde #akp #chp",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObGQ0bmtxY1FaUU5EN19JTEptWTlGTXZzZnVUcUV4Qy1qQUVjLWY3czY3RHFWNXM2NllzTl9FSDlFczM3R0hWQU5FdEpia2g0ZEp5dmR6RzJ5MkU0aXBVYjM1UzJieURvcGlXMmluTmtMeVMta0FzTnBjX0JqOV9rS0FldXZfOUhTUGlSbTFybHVQRkdRaXBhZF84a0p0ZEt6S0QzYmdGUEsySzdhZEpNUVZuaXpHU01EY21vZXJlMy1Ubmt0bEgySzdac24?oc=5",
+   "baslik": "İKLİM ZİRVESİ COP31 ANTALYA - Bakan Kurum, Perulu mevkidaşıyla görüştü",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEZqQ2M5SEp3M2FhbVVmaVBNZ1BDX01hdURqcmVoa2VtTWR1QWViUDZqQzNVUFFKLWRZaWJyeFkwZ1NrSFBWLWNrMmt6cUpzWEY0RUVKeEtFN3NmRDdXYXZlekpZdHBnWk1MdFEtVTJzRUxFZ3gtN0tBbmhGT0M1QXdzRUJVT292YjVHdzVPRFZ5RnhfamE5SWswRjk2T3JVbFJiRnZVdw?oc=5",
+   "baslik": "Antalya’da düzenlenen COP31’de yemek fiyatları nasıl? #antalya #cop31",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjZDSEtUbXplcTZURTFYNmVodGRYU1hhRGptZ3AxZmEzUEtTV0pwM1FFcm54UDNoOENYQlFpRkN2TkMzalhDMFVXd1pma2NacGU2TG1XZWRqVmpFdlFpNUYxcXZRT29ZNEF6OW5zeEwzY2luTkRvb0phVWZrdmVuaEpUTkdBM1VVdEpkejQyaHNuakU0UV9mSWdFU0NNNWVuNWdxWFNFdTdfX0ZQbzFMMEJxWm81eEZHdllOdC1ad0ZqSm96TjJrYVhNQXZ0emNYSEhPSGxn?oc=5",
+   "baslik": "Tekirdağ ve Antalya Büyükşehir belediyeleri dahil 9 belediye başkanı AK Parti’ye katılıyor",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3BwbTVjcWUwclZkdHAtLTRocjhuNUZ5ZHNZZ3ByS2dMX2ktMnIyZlg1NTFnUnpuWFZkTkliNHB4X2tORXRxMElUd2lvTVJQRHJNNjlMeFZoVzA3c0tFcVhELWRZWDFMUHFJT2lQSnh2SFhhcE9LYjR0X2s4RVpKSjA0TQ?oc=5",
+   "baslik": "Alanya EAH’de basınç yaralanmalarına dikkat çekildi",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkpGRHdJSjEzNmIxNjMyUG5SZE5VdTM0ZmpwalU5SXFoTFNZUkNMc1A1eWlxYVRfMW85c1kyQzZVY3YyU01ObEZ6M29neGJwT01jLWIyNHJaemZKT0ppTE9laDgzaDJBOWcwMGJXVUFKVy0teGRpc3Y2STVmX1N6bTl0eEFaLVQtNVVpOEtyUGRzc3BuS1dRTnk5UjVVcTla?oc=5",
+   "baslik": "ASAT, COP31’de dijital su yönetimi ve akıllı altyapı vizyonunu paylaştı",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTJFNHJNOU1hMGdtMHphaE1ZcEdjczAta3h4MnlvM3RNOVBha1pRUzExWEVMNzlSNTBRakc4ZnlNeEVOU1BOMWh5azFpZ1JNRXlkWTVpcWpvRzE3Q0dJZ09QZ3IwSUJWYUtRNmNRbHg5VzVmbTM0ZFZwMXY1MWp2UXM1VVpPSGFYWEdESzhSTDNDNVQySVNGTzJwY0hVUlUw0gGcAUFVX3lxTE1SSnd4WFJ0MlpGeWZMNDV4cTlEYzhwd1J1bE8zXy1yVWxLRUNOU0x4RG1CeUZZbmJFN203dnFuYUhENldrN0t3R25MYks4OGJGZlJvTE5Gdk90NFlVTVMwdExfaVlRM1k5VEdKc2tCWGhyWkhOc3VWZ21EcUpFOE5oRlg0bkNoZThjT1NUT3FmRF81cFZUM2RzaDgwcQ?oc=5",
+   "baslik": "Serik'te turfanda çilek dönemi başladı: Sezon kilogramı 500-600 liradan açıldı",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa1EyWUZqMEhTWHdQZEVGMnA3SGdRSUx6U0x0OURVY3NPRUJGN1k4cU5VTmpLUWprY1M2azFsUFhfbDNVbDlIQzZyVmtTSWFCLV9WMTlkYi05NXlkeU40endQLVQ3MFZuSGEwMFhLcTJIMExjc3RrNEd1ZXdjay1YWmNZTmlwVlAzQ0hmVlZPRkNhTnBsRFRzdkVScWFCcFl6NVJmTVNlWXhRcE10azNzVUQxTTAwdTl6WnJZblJqdTdQYzE1ajBTLWlVTjRxLVFJeTVvcnZDNFlTNm0wYnJFTEVFdjBFSzE5cXc?oc=5",
+   "baslik": "Antalya Büyükşehir Belediyesi'nde rüşvet fezlekesi... CHP'den istifa etti",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWZBX1RVam1ua0xWSWR3Uy1uWV9LM0VqelR0bHFjaUp6eWh2YXVweUYwb0hCbzBfWkJYSThXTTFCMnlXRGFzZ0xoUHRmdXBEXzdMX01jWXJCZDV3c3AtSFBmSDBtSUJaOWt1eHctckZiOU5DNEZyYlo0YmROQ1VMM1NBZnJONU5WLWV3V3c5QUNpd1pP?oc=5",
+   "baslik": "Erdoğan rozetlerini taktı! Büşra Özdemir resmen AK Parti’de",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenR2Q3J6WHF2SzBlOVZabEV4eTdiRDRvbVNJblpVUFZlUVpOWHdVbnhGS2xKQUlybkxxX2ptYlpsQW5IRFpjUllvN2tIZVpRcnhLTUx4NVpvQlZtSTkyUWxTVzYyMmIwejZKVHRZR2V2UWlfUUticzRiOUtsYVkwOWZHMU1odldoT1NtUVRfUXNCWWxFbHhaMXhycklzZw?oc=5",
+   "baslik": "Antalya'da Japon çayıyla iklim mesajı! COP31'de farklı etkinlik",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblVacFlLUXRxR2pXWjduTHYyUmNael80LUNvOFlZTklBaHlKekM4X3Z0QVg2Q19hOFNOaHcxRGt3UV9SWjhNOHFycjlNQko3aDFRUU5rMUpkV3ZoMXZkTUlJVkY4ZWNkWjRMZk5SdlUzeVFXZk1tcmd3WmQ2VnNMUkVINUpkYnhTbWJYX21XRHhxRzF0ak1acmZUd1lrd1NreTgzMm1aV3piMENydFVvZlloSWtxYjZP?oc=5",
+   "baslik": "Tohumculuk sektörünün geleceği Antalya'da konuşulacak",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmd5ZmRyRHJFOHRXYUJTQndMckczM3pWclpiYUEyNU5vREpXenpIYjZsUS0teW4zclhuRDYwT1laaGlKeHN4ZTZQeW9uRDdiSzJMbXJvUC1BX1hpNEJqeUZNbmUwREk5WV9RamVSRUlEd0FVMG5JVjVucGNEcHV4b0t2UVlEUQ?oc=5",
+   "baslik": "Alanya ve çevresinde 691 şahıs, kıskıvrak yakalandı!",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEZHNXdpak9sTE9nUFU0QWxZREI4bUk1SDdEZlp5UzN0c3F2bHpHT2RjcjFWMTBjNWJCU3VENDRlVHZmS1JTR1B1RE9JVGdNb2EySEtrclk1ZjRUVkEwUEoweklOOFRtbFMwUGYzeXNIcEY3VXBFdFI4SENqNjJRZV9vYWhfTHREZk81Ni1kTHA4aUNFWFQ3Ug?oc=5",
+   "baslik": "CHP’den uzaklaştırıldık, terk etmedik! #antalya #yeniparti",
+   "ts": 1795089404
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdV9vVlN0MXF4R1M4d1M0TWM3QWJhZWFtRjBJaDNaMEk1Uy1SZ0hzeHZIZkRzVERZdDNXMllBMVZmTXpaNEJCTUR0Vkh0dWk3R3k3R010QXRnemxzNUdBMEN1X0FleGFaQzZxYkhkdXFnX3Q4Nk9xS3lyM21jWGNFc0lsd0F0dDhtZDNhMWNCS21XNWwxd3hxRVZiMEtXNkZhdlZ4RGNvNkx6QVZfX1NhUVRVODVkWUNmTU0yd0llZHNobGJhSXRELQ?oc=5",
+   "baslik": "Özdemir'in Sözleri Hafızalarda, Gözler iseAnkara'daki AKP Toplantısında! #antalya #büşraözdemir",
+   "ts": 1795089404
   }
  ],
- "son_calisma": "2026-11-19T14:30:46.432864+03:00",
+ "son_calisma": "2026-11-19T15:01:12.724844+03:00",
  "gorsel": {
   "gun": "2026-11-19",
   "yz_bugun": 35,
@@ -59569,7 +59569,7 @@
    "aciklama": "deneme modu: yayın sürümü '-', kod h2.k4.a2.i3.r1.y3",
    "acik": false,
    "hat_kimlik": "h2.k4.a2.i3.r1.y3",
-   "tarih": "2026-11-19T14:28:34+03:00",
+   "tarih": "2026-11-19T14:57:55+03:00",
    "son_tur": {
     "duzelt": 0,
     "bul": 0,
