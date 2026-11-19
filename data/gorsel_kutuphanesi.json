@@ -133549,6 +133549,37 @@
      },
      "t": "2026-11-08T14:36:57+03:00"
     },
+    "r1:d3be411f3e13:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Esenler Erokspor deplasmanı hakkındadır, ancak fotoğrafta Antalyaspor'un kendi stadı görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "stadyum",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       120,
+       620,
+       880
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T20:28:34+03:00"
+    },
     "r1:e1769ca0c73a:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -133587,7 +133618,7 @@
     "dh": "1313e0cc3c528020",
     "sha": "b4e79ca308215b528e1f9598"
    },
-   "t": "2026-11-18T12:55:22+03:00",
+   "t": "2026-11-19T20:28:34+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
