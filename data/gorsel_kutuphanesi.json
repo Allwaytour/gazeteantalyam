@@ -35238,6 +35238,103 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_weight_of_Gods_word_against_mans_traditions.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "3482ca5d2d6cbb7b": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     280,
+     804,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "vitrin",
+     "sergi standi",
+     "kültürel objeler",
+     "takı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Vitrin içinde sergilenen geleneksel takılar ve aksesuarlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "müze tanıtımı",
+     "kültür haberi",
+     "sergi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "spor karşılaşması",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5a42c00ba5f0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kültürel objeler ve sergi standı net bir şekilde görülmektedir, haber temasına uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sergi standi",
+        "var": true
+       },
+       {
+        "unsur": "kulturel objeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       280,
+       804,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:59:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e091206451c94900",
+    "sha": "56fbe333acdc3f69c31d4bfb"
+   },
+   "t": "2026-11-19T13:59:54+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.302,
+    "keskinlik": 1712,
+    "kontrast": 74,
+    "medyan": 132,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg/1280px-Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "348e8edd56ced768": {
    "ozet": {
     "dh": "46868e8e1e3b9e9f",
@@ -36407,6 +36504,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:10883640a7e5:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şehir dokusu gösterilse de turizm kongresi için doğrudan bir konferans ortamı sunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:51+03:00"
+    },
     "r1:41579125ae6c:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -36472,7 +36595,7 @@
     "dh": "b57575655f1b28df",
     "sha": "ec8ac45a8d88b55cd7152fb0"
    },
-   "t": "2026-11-11T10:08:30+03:00",
+   "t": "2026-11-19T13:57:51+03:00",
    "teknik": {
     "doygunluk": 25.6,
     "inen": [
@@ -41318,6 +41441,104 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mehmetersoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "3f19689c97b2b8a2": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     510,
+     686,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "sergi standi",
+     "kültürel objeler",
+     "pencere",
+     "vitrin",
+     "çömlek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze salonunda sergilenen geleneksel kıyafet ve çömlekler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "müze tanıtımı",
+     "kültür haberi",
+     "sergi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "spor karşılaşması",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5a42c00ba5f0:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geleneksel kültürel objeler sergilenmektedir, haberdeki kültür tanıtımına uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sergi standi",
+        "var": true
+       },
+       {
+        "unsur": "kulturel objeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       250,
+       510,
+       686,
+       725
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:59:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "36745949594b6e8f",
+    "sha": "b611e2cf940e96837f3945ea"
+   },
+   "t": "2026-11-19T13:59:54+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.211,
+    "keskinlik": 1222,
+    "kontrast": 49,
+    "medyan": 115,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Traditional_Museum_Artifacts_Displayed_Here.jpg/1280px-Traditional_Museum_Artifacts_Displayed_Here.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3f84134fb98ebf14": {
    "icerik": {
@@ -66947,36 +67168,6 @@
      },
      "t": "2026-11-15T11:11:45+03:00"
     },
-    "r1:781ce136d1ce:ozne_kisi": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberde ismi gecen kisiyle ilgili degildir, COP31 iklim konferansi haberine uygun degil.",
-      "gerekli": [
-       {
-        "unsur": "konferans salonu",
-        "var": false
-       },
-       {
-        "unsur": "katilimcilar",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T17:08:15+03:00"
-    },
     "r1:885fc5bdde3f:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -67169,13 +67360,48 @@
       "yasak": []
      },
      "t": "2026-11-17T13:24:53+03:00"
+    },
+    "r1:e28c712107da:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber COP31 zirvesindeki divan toplantısıyla ilgili ancak bu görsel sadece bir portre fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "delegeler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:25+03:00"
     }
    },
    "ozet": {
     "dh": "62c686930604cf4d",
     "sha": "27c47a6e50b8ceb778224949"
    },
-   "t": "2026-11-18T15:58:44+03:00",
+   "t": "2026-11-19T13:57:25+03:00",
    "teknik": {
     "doygunluk": 45.3,
     "inen": [
@@ -90689,6 +90915,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:10883640a7e5:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya sokaklarını gösterse de Resort Turizm Kongresi'nin düzenleneceği mekanı veya salonu yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:51+03:00"
+    },
     "r1:41579125ae6c:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -90754,7 +91006,7 @@
     "dh": "d6677b3b3b3c3c1e",
     "sha": "5360cca687a428db8789221d"
    },
-   "t": "2026-11-11T10:08:30+03:00",
+   "t": "2026-11-19T13:57:51+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -104694,6 +104946,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:10883640a7e5:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tabela ve enstitü duvarı kongre haberi için yetersiz ve alakasız bir detaydır.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:51+03:00"
+    },
     "r1:41579125ae6c:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -104759,7 +105037,7 @@
     "dh": "c096929098b09414",
     "sha": "1fb74586f5e15f628fced4f4"
    },
-   "t": "2026-11-11T10:08:30+03:00",
+   "t": "2026-11-19T13:57:51+03:00",
    "teknik": {
     "doygunluk": 16.8,
     "inen": [
@@ -111796,6 +112074,32 @@
      },
      "t": "2026-11-11T04:38:20+03:00"
     },
+    "r1:10883640a7e5:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy'un portresi kongre haberleri için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       41,
+       169,
+       650,
+       878
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:51+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -111827,7 +112131,7 @@
     "dh": "87931b0b279594d6",
     "sha": "047d5c39dbc02ca30ac765ab"
    },
-   "t": "2026-11-11T04:38:25+03:00",
+   "t": "2026-11-19T13:57:51+03:00",
    "teknik": {
     "doygunluk": 56.2,
     "inen": [
@@ -126400,32 +126704,6 @@
      },
      "t": "2026-11-10T02:06:26+03:00"
     },
-    "r1:805d48e384e8:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haberle ilgisi olmayan yabancı delegelerin olduğu, başka bir toplantıya ait temsilî karedir.",
-      "gerekli": [
-       {
-        "unsur": "toplantı masası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": true,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T21:37:34+03:00"
-    },
     "r1:8352045ce70a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -126547,13 +126825,48 @@
       "yasak": []
      },
      "t": "2026-11-09T17:05:32+03:00"
+    },
+    "r1:e28c712107da:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uluslararası toplantı ortamını ve delegeleri gösteriyor ancak temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "delegeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       245,
+       107,
+       794,
+       873
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:57:34+03:00"
     }
    },
    "ozet": {
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-18T15:58:44+03:00",
+   "t": "2026-11-19T13:57:34+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -127401,6 +127714,103 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Destruction_at_furniture_factory_%281%29_%2814312547697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "ca67ae2050770d8e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     235,
+     878,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 25,
+    "nesneler": [
+     "tema park kalesi",
+     "heykel",
+     "ziyaretciler",
+     "roller coaster"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tema parkın şato girişinde dolaşan ziyaretçiler ve heykel",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tema park",
+     "eglence merkezi",
+     "tatil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:951cfb165247:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki tema parkı gösteren temsili bir tesisi yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "tema park girisi",
+        "var": true
+       },
+       {
+        "unsur": "eglence merkezi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       235,
+       878,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:58:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9212525667fcf666",
+    "sha": "76a0aeb1f51d113cda30f813"
+   },
+   "t": "2026-11-19T13:58:41+03:00",
+   "teknik": {
+    "doygunluk": 23.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.41,
+    "keskinlik": 1048,
+    "kontrast": 70,
+    "medyan": 66,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Vialand_Theme_Park%2C_Istanbul_136.JPG/1280px-Vialand_Theme_Park%2C_Istanbul_136.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ca6ad543c0525f2d": {
    "icerik": {
@@ -150772,6 +151182,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg/1280px-Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f2058d6e8df51c49": {
+   "icerik": {
+    "ana_kutu": [
+     10,
+     179,
+     908,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "tema park kalesi",
+     "heykel",
+     "roller coaster",
+     "sokak lambasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tema parkın kale görünümlü girişi ve önünde altın renkli heykel",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tema park",
+     "eglence merkezi",
+     "tatil haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:951cfb165247:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen tema parkı temsil eden genel bir tesis görselidir.",
+      "gerekli": [
+       {
+        "unsur": "tema park girisi",
+        "var": true
+       },
+       {
+        "unsur": "eglence merkezi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       10,
+       179,
+       908,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:58:41+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "12125272766cf676",
+    "sha": "96e78e41762eaf6a741f98f1"
+   },
+   "t": "2026-11-19T13:58:41+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.357,
+    "keskinlik": 1131,
+    "kontrast": 70,
+    "medyan": 82,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vialand_Theme_Park%2C_Istanbul_135.jpg/1280px-Vialand_Theme_Park%2C_Istanbul_135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f2079c4b336fe479": {
    "icerik": {
     "ana_kutu": [
@@ -158055,6 +158562,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Side_beachfront.jpg/1280px-Side_beachfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fbc362f93307c9d1": {
+   "icerik": {
+    "ana_kutu": [
+     66,
+     89,
+     690,
+     853
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bina",
+     "pencere",
+     "bayrak direği",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi iki katlı pembe bina dış cephesi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "muze tanitimi",
+     "tarihi yapi",
+     "kent kulturu"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5a42c00ba5f0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya Atatürk Müzesi'ne aittir, haberdeki Antalya Evi ile uyuşmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       66,
+       89,
+       690,
+       853
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:59:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "79593818f3b8f0e0",
+    "sha": "078d7713c67dae12b18cdb02"
+   },
+   "t": "2026-11-19T13:59:54+03:00",
+   "teknik": {
+    "doygunluk": 16.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.159,
+    "keskinlik": 3003,
+    "kontrast": 73,
+    "medyan": 131,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Antalya_Atat%C3%BCrk_M%C3%BCzesi.jpg/1280px-Antalya_Atat%C3%BCrk_M%C3%BCzesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fbeaca22d53a57bf": {
    "icerik": {
     "ana_kutu": [
@@ -160654,11 +161249,83 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg/1280px-Antalya_Sculptures_of_child_play_%C4%B1n_2012_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ffc5ad813fd286f4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "avize",
+     "sergi vitrini",
+     "tarihi bina içi",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi müze salonu içi, avizeler ve sergi vitrinleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "muze tanitimi",
+     "kulturel yapi",
+     "tarih haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5a42c00ba5f0:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müze içi görünmektedir ancak Antalya Evi'nin dış veya tanıtım alanı değildir.",
+      "gerekli": [
+       {
+        "unsur": "kulturel objeler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:59:51+03:00"
+    }
+   },
    "ozet": {
     "dh": "c2a3d2d0b2333a52",
     "sha": "ab86b2947fa2c780bf353db3"
    },
-   "t": "2026-11-12T04:26:39+03:00",
+   "t": "2026-11-19T13:59:54+03:00",
    "teknik": {
     "doygunluk": 22.3,
     "inen": [
@@ -163531,6 +164198,68 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-09T13:23:40+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg/1280px-Gazipa%C5%9Fa-Alanya_Airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "3482ca5d2d6cbb7b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2104,
+    1184
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2026-09-08",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Vitrin içinde sergilenen geleneksel takılar ve aksesuarlar",
+   "gosterim_ad": "kultur tanitimi",
+   "ilk_kabul": "2026-11-19T13:59:54+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "PAULIX04 / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "PAULIX04",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kulturel objeler",
+    "kültürel objeler",
+    "sergi standi",
+    "takı",
+    "vitrin"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg/500px-Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "müze tanıtımı",
+    "kültür haberi",
+    "sergi haberi"
+   ],
+   "kullanilamaz": [
+    "siyasi haber",
+    "spor karşılaşması",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T13:59:54+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg/1280px-Traditional_Filipino_Cultural_Artifacts_and_Accessories.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -170070,7 +170799,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-09T13:47:41+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -170112,7 +170841,7 @@
    "qid": "Q55526162",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-11T04:38:25+03:00",
+   "son_kabul": "2026-11-19T13:57:51+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -173074,6 +173803,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-16T19:22:17+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg/1280px-Historic_Alanya_Harbour_Watchtower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "f2058d6e8df51c49": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3264,
+    2448
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2013-10-15",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tema parkın kale görünümlü girişi ve önünde altın renkli heykel",
+   "gosterim_ad": "aile tatili",
+   "ilk_kabul": "2026-11-19T13:58:41+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Freedom's Falcon / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Freedom's Falcon",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Vialand_Theme_Park,_Istanbul_135.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "eglence merkezi",
+    "heykel",
+    "roller coaster",
+    "sokak lambasi",
+    "tema park girisi",
+    "tema park kalesi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vialand_Theme_Park%2C_Istanbul_135.jpg/500px-Vialand_Theme_Park%2C_Istanbul_135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tema park",
+    "eglence merkezi",
+    "tatil haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T13:58:41+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Vialand_Theme_Park%2C_Istanbul_135.jpg/1280px-Vialand_Theme_Park%2C_Istanbul_135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
