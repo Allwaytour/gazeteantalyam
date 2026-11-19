@@ -3585,6 +3585,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Saffron-IMG_6681-2.jpg/1280px-Saffron-IMG_6681-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "04f58831ac4fb538": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     295,
+     909,
+     721
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "güneş paneli",
+     "eldiven",
+     "güneş pili"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi eldivenli ellerin tuttuğu küçük güneş paneli veya hücre prototipi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji teknolojileri",
+     "ar-ge haberleri",
+     "güneş paneli üretimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi gelişmeler",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aab8f6cfb72f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Teknolojik altyapı ve üretim temalı haber için temsilî güneş paneli hücresi gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "güneş paneli",
+        "var": true
+       },
+       {
+        "unsur": "üretim tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       39,
+       295,
+       909,
+       721
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:58:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bab072f930209899",
+    "sha": "cc996d0a0c2a1837a23bcbb5"
+   },
+   "t": "2026-11-19T16:58:32+03:00",
+   "teknik": {
+    "doygunluk": 32.2,
+    "inen": [
+     500,
+     422
+    ],
+    "karanlik_oran": 0.368,
+    "keskinlik": 666,
+    "kontrast": 70,
+    "medyan": 85,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Perovskite_solar_cell.jpg/1280px-Perovskite_solar_cell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0511faaa39f391d8": {
    "icerik": {
     "ana_kutu": [
@@ -29592,6 +29687,100 @@
     "s": "t1"
    },
    "url": "/images/kurum/aabc3ec6b91c4adf.jpg"
+  },
+  "2bd0f7b28e8b7a55": {
+   "icerik": {
+    "ana_kutu": [
+     301,
+     77,
+     685,
+     965
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güneş paneli",
+     "bina çatısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bina çatısına kurulmuş güneş panelleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji haberleri",
+     "güneş enerjisi",
+     "fabrika ziyareti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aab8f6cfb72f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis ziyareti haberi için uygun güneş paneli görseli içeriyor ancak belirli CW Enerji tesisi değil.",
+      "gerekli": [
+       {
+        "unsur": "güneş paneli",
+        "var": true
+       },
+       {
+        "unsur": "üretim tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       301,
+       77,
+       685,
+       965
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:58:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "41077f47cecc840f",
+    "sha": "444630c52abe735f43278b78"
+   },
+   "t": "2026-11-19T16:58:32+03:00",
+   "teknik": {
+    "doygunluk": 25.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 1832,
+    "kontrast": 59,
+    "medyan": 147,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Solar_power_production_in_Salem.jpg/1280px-Solar_power_production_in_Salem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2bd60c98834caa78": {
    "icerik": {
@@ -97553,6 +97742,99 @@
    },
    "url": "https://images.unsplash.com/photo-1670615602571-c968749446c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Zmx5aW5nJTIwYmFubmVyJTIwcGFyYWdsaWRpbmd8ZW58MXwwfHx8MTc5NDMwNTI4OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "96ba918fb64180f7": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     52,
+     826,
+     919
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ekskavatör",
+     "palet",
+     "çimen",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda duran sarı renkli paletli ekskavatör",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "belediye araç alımı",
+     "iş makinesi haberi",
+     "inşaat ekipmanı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi portresi",
+     "trafik kazası",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b101f3aac818:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki ekskavatör alımı için uygun bir temsilî iş makinesi görselidir.",
+      "gerekli": [
+       {
+        "unsur": "ekskavatör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       52,
+       826,
+       919
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:58:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b0382a75491c3403",
+    "sha": "0929efd953aa248df52423e1"
+   },
+   "t": "2026-11-19T16:58:03+03:00",
+   "teknik": {
+    "doygunluk": 23.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.061,
+    "keskinlik": 3550,
+    "kontrast": 50,
+    "medyan": 113,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg/1280px-Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "96d0f52aa33036e6": {
    "icerik": {
     "ana_kutu": [
@@ -127343,6 +127625,103 @@
    },
    "url": "https://images.unsplash.com/photo-1606800052052-a08af7148866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8d2VkZGluZyUyMHJpbmdzJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MDg4OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c6e8d933d6b52d3a": {
+   "icerik": {
+    "ana_kutu": [
+     310,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "güneş paneli",
+     "konteyner",
+     "bulut",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda güneş panelleri ve arka planda teknik konteynerler yer alıyor.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji",
+     "güneş enerjisi",
+     "sanayi tesisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi toplantı",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:aab8f6cfb72f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis ziyareti haberi için uygun bir güneş paneli ve tesis altyapısı görselidir.",
+      "gerekli": [
+       {
+        "unsur": "güneş paneli",
+        "var": true
+       },
+       {
+        "unsur": "üretim tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       310,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:58:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f070b8e5a3b1d048",
+    "sha": "e29bbd485536f50ea0955d7f"
+   },
+   "t": "2026-11-19T16:58:38+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.107,
+    "keskinlik": 1581,
+    "kontrast": 66,
+    "medyan": 165,
+    "parlaklik": 151,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1589275776107-e193042128bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGhvdG92b2x0YWljJTIwY2VsbCUyMG1hbnVmYWN0dXJpbmclMjBwbGFudHxlbnwxfDB8fHwxNzk1MDk2NzEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "c6eb066d32b2d85a": {
    "icerik": {
     "ana_kutu": [
@@ -138437,6 +138816,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Front_of_Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg/1280px-Front_of_Cheung_Sha_Wan_Wholesale_Vegetable_Market%2C_Hong_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "db04f89693590a21": {
+   "icerik": {
+    "ana_kutu": [
+     93,
+     21,
+     752,
+     992
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ekskavatör",
+     "yıkıntı",
+     "bina",
+     "konteyner"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yıkım sahasında uzun kollu sarı paletli ekskavatör",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "belediye araç alımı",
+     "yıkım çalışmaları",
+     "iş makinesi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi portresi",
+     "trafik kazası",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b101f3aac818:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki iş makinesi alımını temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "ekskavatör",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       93,
+       21,
+       752,
+       992
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:58:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d1c366246976f5f",
+    "sha": "3672623e431803154efbe404"
+   },
+   "t": "2026-11-19T16:58:03+03:00",
+   "teknik": {
+    "doygunluk": 18.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.034,
+    "keskinlik": 2174,
+    "kontrast": 59,
+    "medyan": 175,
+    "parlaklik": 170,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Caterpillar_330C_L_crawler_excavator_with_a_long_arm.jpg/1280px-Caterpillar_330C_L_crawler_excavator_with_a_long_arm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "db0bb455c7a6f334": {
    "icerik": {
@@ -171267,6 +171739,67 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "96ba918fb64180f7": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5184,
+    3888
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2025-12-26",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık alanda duran sarı renkli paletli ekskavatör",
+   "gosterim_ad": "iş makinesi hibesi",
+   "ilk_kabul": "2026-11-19T16:58:03+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Oscar Taylor / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "Oscar Taylor",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç",
+    "ekskavatör",
+    "palet",
+    "çimen"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg/500px-Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "belediye araç alımı",
+    "iş makinesi haberi",
+    "inşaat ekipmanı"
+   ],
+   "kullanilamaz": [
+    "siyasetçi portresi",
+    "trafik kazası",
+    "spor müsabakası"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T16:58:03+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg/1280px-Hyundai_140LC_Crawler_Excavator_-_geograph.org.uk_-_8224278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "9739b7def5f35438": {
    "alt_tur": "kurum",
