@@ -18979,6 +18979,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG/1280px-Dinosaurs_Alive_Exhibition_-_Science_City_-_Calcutta_1995-June-July_430.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1cfb8ca8136e3d2d": {
+   "icerik": {
+    "ana_kutu": [
+     355,
+     362,
+     629,
+     492
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gol",
+     "agac",
+     "iskele",
+     "su dalgasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Su kenarinda agac kokleri ve uzakta iskele bulunan gol manzarasi",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "su kaynaklari",
+     "gol manzarasi",
+     "dogal afet"
+    ],
+    "uygunsuz_baglamlar": [
+     "dijital altyapi",
+     "panel toplantisi",
+     "belediye hizmeti"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a8fa3f256a19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf dijital su yonetimi teknolojisini degil, dogal bir gol manzarasini gostermektedir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknoloji",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:00:04+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f1b1f062787477a",
+    "sha": "623a08e333810691ff77afc0"
+   },
+   "t": "2026-11-19T13:00:04+03:00",
+   "teknik": {
+    "doygunluk": 46.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.405,
+    "keskinlik": 1739,
+    "kontrast": 65,
+    "medyan": 75,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/A_Smart_Response_in_Lake_County_%289373825%29.jpg/1280px-A_Smart_Response_in_Lake_County_%289373825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1d587b60e306405d": {
    "icerik": {
     "ana_kutu": [
@@ -23292,6 +23380,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1787630551765-89b52eb29b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8dHJhZmZpYyUyMGJhcnJpZXIlMjBzdHJlZXQlMjBjbG9zdXJlfGVufDF8MHx8fDE3OTQ2NDM3NzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "2325b7f4d4d37147": {
+   "icerik": {
+    "ana_kutu": [
+     260,
+     237,
+     699,
+     917
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "belediye otobüsü",
+     "otomobil",
+     "cadde",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da caddede seyreden mavi belediye otobüsü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "toplu taşıma",
+     "belediye hizmetleri",
+     "ulaşım haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "diplomatik kriz",
+     "adli olaylar",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3affb58b8d19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen toplu taşıma aracını (belediye otobüsü) temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "belediye otobüsü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       237,
+       699,
+       917
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T12:58:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "18184c7046c02ff2",
+    "sha": "1971ac2759577dd450afc1e1"
+   },
+   "t": "2026-11-19T12:58:44+03:00",
+   "teknik": {
+    "doygunluk": 35.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.168,
+    "keskinlik": 3261,
+    "kontrast": 58,
+    "medyan": 143,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Local_Antalya_Bus._Otokar_Brand.jpg/1280px-Local_Antalya_Bus._Otokar_Brand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "23303f105792a7a0": {
    "icerik": {
@@ -29305,6 +29486,40 @@
      },
      "t": "2026-11-12T04:27:01+03:00"
     },
+    "r1:a8fa3f256a19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akıllı altyapı ve sensör teknolojilerini temsil eden uygun bir temsilî altyapı görselidir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kavgaları",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-19T12:59:57+03:00"
+    },
     "r1:e38113f338aa:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29336,7 +29551,7 @@
     "dh": "d979dbc1c2200406",
     "sha": "7ae7fb407a212785170a8744"
    },
-   "t": "2026-11-16T15:44:58+03:00",
+   "t": "2026-11-19T12:59:57+03:00",
    "teknik": {
     "doygunluk": 21.9,
     "inen": [
@@ -29726,6 +29941,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:a8fa3f256a19:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASAT kurum adının anti-uydu füzesiyle karıştırılması nedeniyle haberle tamamen alakasız bir askeri nesnedir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kavgaları",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-19T12:59:57+03:00"
+    },
     "r1:d250fbe9d903:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29783,7 +30027,7 @@
     "dh": "c4c1433630f38717",
     "sha": "32aee092b5c6207cfc626973"
    },
-   "t": "2026-11-13T16:29:40+03:00",
+   "t": "2026-11-19T12:59:57+03:00",
    "teknik": {
     "doygunluk": 26.4,
     "inen": [
@@ -75405,6 +75649,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sultan_Ahmet_Camii%2C_%C4%B0stanbul._Sultan_Ahmed_Mosque%2C_Constantinople_%28Blue_Mosque%29._%CE%A4%CE%AD%CE%BC%CE%B5%CE%BD%CE%BF%CF%82_%CE%A3%CE%BF%CF%85%CE%BB%CF%84%CE%AC%CE%BD%CE%BF%CF%85_%CE%91%CF%87%CE%BC%CE%AD%CF%84_%27%CE%91_%28%CE%9C%CF%80%CE%BB%CE%AD_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF%29%2C_%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%BF%CF%8D%CF%80%CE%BF%CE%BB%CE%B7.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "79a4055aae5a652a": {
+   "icerik": {
+    "ana_kutu": [
+     283,
+     234,
+     679,
+     752
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dijital ekran",
+     "kontrol paneli",
+     "gösterge lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi yüzey üzerine yerleştirilmiş yeşil ekranlı solar doğrultucu paneli",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yenilenebilir enerji",
+     "solar sistemler",
+     "akıllı altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "su yönetimi ve arıtma",
+     "siyaset",
+     "spor müsabakaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a8fa3f256a19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf güneş enerjisi sistemine ait bir ekranı göstermektedir, su yönetimi haberine tam olarak uymamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       283,
+       234,
+       679,
+       752
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:00:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "efefcdcdcdcd3f1f",
+    "sha": "bc51c33c2766dda39bbc7e8f"
+   },
+   "t": "2026-11-19T13:00:18+03:00",
+   "teknik": {
+    "doygunluk": 63.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 233,
+    "kontrast": 42,
+    "medyan": 93,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1590944667245-8ad4c2abf8ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8c21hcnQlMjB3YXRlciUyMG1ldGVyJTIwZGlzcGxheXxlbnwxfDB8fHwxNzk1MDgyNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "7a09cd8d804005ec": {
    "icerik": {
     "ana_kutu": [
@@ -78082,6 +78418,90 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Radar_screen.JPG/1280px-Radar_screen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7eb11a376d1a0f80": {
+   "icerik": {
+    "ana_kutu": [
+     504,
+     532,
+     804,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tramvay",
+     "bina",
+     "aǧaç",
+     "restoran",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da cadde üzerinde tramvay ve Köfte Bus restoranı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "kent haberleri",
+     "turizm",
+     "yerel bülten"
+    ],
+    "uygunsuz_baglamlar": [
+     "diplomatik kriz",
+     "çanta hırsızlığı",
+     "adli olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3affb58b8d19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğtaf kayıp çanta veya belediye ekiplerini değil genel bir cadde manzarasını gösteriyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T12:58:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c6e6270bc34ca57b",
+    "sha": "f213d13234bb217fc21f5904"
+   },
+   "t": "2026-11-19T12:58:44+03:00",
+   "teknik": {
+    "doygunluk": 28.7,
+    "inen": [
+     500,
+     381
+    ],
+    "karanlik_oran": 0.249,
+    "keskinlik": 3232,
+    "kontrast": 56,
+    "medyan": 99,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Antalya%2C_Turkey%2C_February_2022_-_K%C3%B6fte_Bus_restaurant.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_K%C3%B6fte_Bus_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7eb81c58b144541f": {
    "ozet": {
@@ -87823,6 +88243,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Medvedev_and_Erdogan_in_Turkey21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "8af6a75476d16ffe": {
+   "icerik": {
+    "ana_kutu": [
+     608,
+     220,
+     970,
+     533
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akıllı sayaç ekranı",
+     "saksı bitkisi",
+     "bilgi broşürü",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pencere önünde akıllı sayaç ekranı ve saksıda yeşil bitkiler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "akıllı ev teknolojileri",
+     "enerji tasarrufu",
+     "dijital sayaç sistemleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "su yönetimi ve altyapı",
+     "sokak röportajları",
+     "spor haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a8fa3f256a19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü enerji tüketim sayacını göstermektedir, haber ise su yönetimi ve akıllı altyapı ile ilgilidir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       608,
+       220,
+       970,
+       533
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T13:00:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cc5c5cecefe6e664",
+    "sha": "d958b7a61041f7f1d54945e4"
+   },
+   "t": "2026-11-19T13:00:18+03:00",
+   "teknik": {
+    "doygunluk": 26.2,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.108,
+    "keskinlik": 922,
+    "kontrast": 58,
+    "medyan": 146,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1658753145551-8f44e5811d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c21hcnQlMjB3YXRlciUyMG1ldGVyJTIwZGlzcGxheXxlbnwxfDB8fHwxNzk1MDgyNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "8b2f5e51f3f978ee": {
    "icerik": {
     "ana_kutu": [
@@ -91022,13 +91535,42 @@
       "yasak": []
      },
      "t": "2026-11-11T10:09:04+03:00"
+    },
+    "r1:a8fa3f256a19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Her ne kadar musluk görünse de kafe ortamındaki içecek otomatı dijital su yönetimi haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kavgaları",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-19T12:59:57+03:00"
     }
    },
    "ozet": {
     "dh": "044510534a4c5232",
     "sha": "eda0d677953e29db8cb8225f"
    },
-   "t": "2026-11-11T10:09:04+03:00",
+   "t": "2026-11-19T12:59:57+03:00",
    "teknik": {
     "doygunluk": 30.5,
     "inen": [
@@ -104861,13 +105403,47 @@
       "yasak": []
      },
      "t": "2026-11-18T13:57:43+03:00"
+    },
+    "r1:a8fa3f256a19:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'daki panel ve vizyon paylaşımını doğrudan gösteren güncel bir etkinlik karesi.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       175,
+       0,
+       958,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kavgaları",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-19T12:59:57+03:00"
     }
    },
    "ozet": {
     "dh": "1db9931392b69697",
     "sha": "8794376f6f06f7e7bd5f8abf"
    },
-   "t": "2026-11-18T13:57:43+03:00",
+   "t": "2026-11-19T12:59:57+03:00",
    "teknik": {
     "doygunluk": 28.5,
     "inen": [
@@ -106284,6 +106860,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kaike.jpg/1280px-Kaike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ab1907cd4a6e1b18": {
+   "ozet": {
+    "dh": "4e4f0d0d09454fec",
+    "sha": "5f4ac01040cd9f43983c44bb"
+   },
+   "t": "2026-11-19T13:00:00+03:00",
+   "teknik": {
+    "doygunluk": 40.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.565,
+    "keskinlik": 3313,
+    "kontrast": 76,
+    "medyan": 38,
+    "parlaklik": 70,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/A_Smart_Response_in_Lake_County_%289373856%29.jpg/1280px-A_Smart_Response_in_Lake_County_%289373856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ab2fa630bdc5ac87": {
    "icerik": {
@@ -154332,6 +154929,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:a8fa3f256a19:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "ASAT kısaltmasının havacılık füzesiyle karıştırılması sonucu tamamen ilgisiz bir askeri nesne gösterilmektedir.",
+      "gerekli": [
+       {
+        "unsur": "su yönetimi teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak kavgaları",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-19T12:59:57+03:00"
+    },
     "r1:d250fbe9d903:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -154389,7 +155015,7 @@
     "dh": "84f45495c1d9f979",
     "sha": "4be527cd41c04b4370ea1416"
    },
-   "t": "2026-11-13T16:29:40+03:00",
+   "t": "2026-11-19T12:59:57+03:00",
    "teknik": {
     "doygunluk": 21.0,
     "inen": [
@@ -161038,6 +161664,67 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Levent_Y%C3%BCksel.jpg/1280px-Levent_Y%C3%BCksel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "2325b7f4d4d37147": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    4608,
+    2592
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2022-11-25",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya'da caddede seyreden mavi belediye otobüsü",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-19T12:58:44+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "Joe Wallace",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Local_Antalya_Bus._Otokar_Brand.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "belediye otobüsü",
+    "bina",
+    "cadde",
+    "otomobil"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Local_Antalya_Bus._Otokar_Brand.jpg/500px-Local_Antalya_Bus._Otokar_Brand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "toplu taşıma",
+    "belediye hizmetleri",
+    "ulaşım haberi"
+   ],
+   "kullanilamaz": [
+    "diplomatik kriz",
+    "adli olaylar",
+    "spor müsabakası"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T12:58:44+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Local_Antalya_Bus._Otokar_Brand.jpg/1280px-Local_Antalya_Bus._Otokar_Brand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
