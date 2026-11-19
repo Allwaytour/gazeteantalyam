@@ -11638,13 +11638,44 @@
       "yasak": []
      },
      "t": "2026-11-12T23:28:12+03:00"
+    },
+    "r1:49a6ba187d3f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yol kazı çalışması yapan iş makinesi görülmektedir, asfalt yenileme haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi, iş makinesi, yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       480,
+       760,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:36+03:00"
     }
    },
    "ozet": {
     "dh": "3c1d357373250f27",
     "sha": "efff0c91bb018005e3b8fe1a"
    },
-   "t": "2026-11-12T23:28:12+03:00",
+   "t": "2026-11-19T11:28:36+03:00",
    "teknik": {
     "doygunluk": 13.8,
     "inen": [
@@ -17987,6 +18018,88 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Screen_SunExpress_1331_to_Trabzon.jpg/1280px-Screen_SunExpress_1331_to_Trabzon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1aca8e7347f238fc": {
+   "icerik": {
+    "ana_kutu": [
+     108,
+     326,
+     831,
+     747
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş anıt",
+     "bina",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta zeytin ve Ayet yazılı dairesel taş anıt",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "Kültür",
+     "Turizm",
+     "Mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "Ekonomi",
+     "Asayiş",
+     "Sağlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a23a52164b2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı yazılı ve coğrafi olarak Alanya ile ilgisiz bir anıt taşı, sahte zeytinyağı haberi için uygun değil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e88d1d1a16061e9e",
+    "sha": "e69f64a7be6fe3fa8c2d0d28"
+   },
+   "t": "2026-11-19T11:28:07+03:00",
+   "teknik": {
+    "doygunluk": 55.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.299,
+    "keskinlik": 1413,
+    "kontrast": 48,
+    "medyan": 72,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Olive_Oil_Press_Monument_in_Turmus_Ayya%2C_West_Bank%2C_Palestine_01.jpg/1280px-Olive_Oil_Press_Monument_in_Turmus_Ayya%2C_West_Bank%2C_Palestine_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1b0e18366527af22": {
    "icerik": {
     "ana_kutu": [
@@ -19384,6 +19497,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5ed60110abb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akaryakıt pompalarını gösteren genel bir istasyon görselidir, fakat yabancı marka ve coğrafi doku barındırır.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       520,
+       492,
+       781,
+       574
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:27:29+03:00"
+    },
     "r1:b8da84b638fb:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19420,7 +19564,11 @@
      "t": "2026-11-08T11:11:41+03:00"
     }
    },
-   "t": "2026-11-08T11:11:41+03:00",
+   "ozet": {
+    "dh": "20313106126f4717",
+    "sha": "ec43ca780741518730c65b0a"
+   },
+   "t": "2026-11-19T11:27:29+03:00",
    "teknik": {
     "doygunluk": 25.5,
     "inen": [
@@ -26199,6 +26347,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:49a6ba187d3f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Asfalt serim çalışması yapan iş makinesi ve işçiler açıkça görülmektedir, haberle birebir uyuşur.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi, iş makinesi, yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       310,
+       215,
+       675,
+       795
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:36+03:00"
+    },
     "r1:758c14f2c3ab:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -26269,7 +26448,7 @@
     "dh": "9c043971d87d1729",
     "sha": "69193a4473262e9b1dc2fca1"
    },
-   "t": "2026-11-13T14:44:35+03:00",
+   "t": "2026-11-19T11:28:36+03:00",
    "teknik": {
     "doygunluk": 13.0,
     "inen": [
@@ -31764,6 +31943,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cemil_Tugay%2C_Meslek_Fabrikas%C4%B1_protests.jpg/1280px-Cemil_Tugay%2C_Meslek_Fabrikas%C4%B1_protests.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2f93fee3935f5cf4": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     326,
+     775,
+     832
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "silindir",
+     "iş makinesi",
+     "yol",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol yapım çalışmasında görev yapan turuncu silindir iş makinesi",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapım haberi",
+     "asfaltlama çalışması"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:49a6ba187d3f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol çalışması ve silindir iş makinesini net gösterir ancak yabancı bir ülkeye ait olduğu anlaşılmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi, iş makinesi, yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       326,
+       775,
+       832
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4d31b4e6a7f43c97",
+    "sha": "89dad09a72a15c12fffd904a"
+   },
+   "t": "2026-11-19T11:28:36+03:00",
+   "teknik": {
+    "doygunluk": 33.8,
+    "inen": [
+     500,
+     436
+    ],
+    "karanlik_oran": 0.178,
+    "keskinlik": 2643,
+    "kontrast": 62,
+    "medyan": 124,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Road_building-Hungary-1.jpg/1280px-Road_building-Hungary-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2f96a54c7f563dba": {
    "icerik": {
@@ -40458,6 +40728,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5002631.jpg/1280px-Construction_site%2C_Shorncliffe_Road_-_geograph.org.uk_-_5002631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3fc077adbd716c06": {
+   "icerik": {
+    "ana_kutu": [
+     145,
+     381,
+     917,
+     678
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cam şişe",
+     "zeytinyağı",
+     "kâse"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde cam şişede sarı zeytinyağı ve küçük kâse",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "Sağlık",
+     "Ekonomi",
+     "Yemek"
+    ],
+    "uygunsuz_baglamlar": [
+     "Spor",
+     "Siyaset",
+     "Magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a23a52164b2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şişede net bir şekilde zeytinyağı görülüyor, sahte zeytinyağı uyarısı haberi için en uygun temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "zeytinyağı tenekesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       145,
+       381,
+       917,
+       678
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c1212393939e969",
+    "sha": "e6f2c623a3ad7ac954f96a53"
+   },
+   "t": "2026-11-19T11:28:07+03:00",
+   "teknik": {
+    "doygunluk": 17.4,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 317,
+    "kontrast": 42,
+    "medyan": 240,
+    "parlaklik": 216,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bottle_of_olive_oil.jpg/1280px-Bottle_of_olive_oil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3fcc53fd926e33bb": {
    "icerik": {
@@ -49901,6 +50263,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1653570593418-5417dc964579?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZsYWclMjBpc2xhbWljJTIwYm9va3xlbnwxfDB8fHwxNzk0NjQ1NjQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "503b3db05b027efd": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     305,
+     1000,
+     688
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fiyat tabelası",
+     "akaryakıt pompası",
+     "istasyon kanopisi",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Akaryakıt istasyonu fiyat tabelası ve pompalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "akaryakıt fiyatları",
+     "ekonomi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5ed60110abb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fiyat tabelası motorin/akaryakıt fiyatlarını gösterse de Rotterdam/Avrupa menşeli tabelalar Türkiye haberi için yer yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       427,
+       720,
+       618
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:27:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b1323246d597d717",
+    "sha": "f459d0d9da91f6ac9460911c"
+   },
+   "t": "2026-11-19T11:27:29+03:00",
+   "teknik": {
+    "doygunluk": 25.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.215,
+    "keskinlik": 3062,
+    "kontrast": 66,
+    "medyan": 87,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Same_price_for_Euro_95_and_Diesel%2C_Molenlaankwartier%2C_Rotterdam_%282022%29_02.jpg/1280px-Same_price_for_Euro_95_and_Diesel%2C_Molenlaankwartier%2C_Rotterdam_%282022%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "50422e8a964170d6": {
    "icerik": {
@@ -61562,6 +62015,91 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Aftermath_of_wildfire%2C_new_vegetation_growth_beneath_burnt_trees_in_Shasta-Trinity_National_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "62ce83757bc06279": {
+   "icerik": {
+    "ana_kutu": [
+     193,
+     157,
+     1000,
+     792
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "varil",
+     "sıcak asfalt",
+     "duman"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İçinde sıcak asfalt ve duman bulunan siyah varil",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "asfalt üretimi",
+     "yol bakım haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:49a6ba187d3f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yalnızca asfalt varili göstermektedir; yol yenileme çalışmasını ve iş makinelerini yansıtmadığı için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi, iş makinesi, yol çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b73d9cc0c096020",
+    "sha": "df65afc27c77f763240e5e0f"
+   },
+   "t": "2026-11-19T11:28:36+03:00",
+   "teknik": {
+    "doygunluk": 5.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.137,
+    "keskinlik": 960,
+    "kontrast": 73,
+    "medyan": 129,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg/1280px-0118Hot-mix_asphalt_concrete_manual_pouring-paving_in_the_repair_and_maintenance_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "62d1e94cbfda25d5": {
    "icerik": {
@@ -97817,6 +98355,98 @@
    },
    "url": "https://images.unsplash.com/photo-1776235483260-cd5d8a586848?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYmVhY2glMjB2b2xsZXliYWxsJTIwY291cnR8ZW58MXwwfHx8MTc5NDA4NTA2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9de62be5a9721a95": {
+   "icerik": {
+    "ana_kutu": [
+     308,
+     461,
+     706,
+     835
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "iş makinesi",
+     "asfalt",
+     "dağ",
+     "çalışanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağ manzarasında yol yapım çalışması yapan iş makinesi ve işçiler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yol yapım haberi",
+     "belediye çalışmaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:49a6ba187d3f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol yapım çalışmasını göstermektedir ancak çay tarlaları ve dağlık coğrafya Türkiye'deki yerel habere yabancı durabilir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt makinesi, iş makinesi, yol çalışması",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       308,
+       461,
+       706,
+       835
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f7f0b1b393d890b",
+    "sha": "eb4513df81c09be989dbffa4"
+   },
+   "t": "2026-11-19T11:28:36+03:00",
+   "teknik": {
+    "doygunluk": 24.3,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.3,
+    "keskinlik": 1579,
+    "kontrast": 78,
+    "medyan": 105,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Road_construction_in_tea_plantation_JEG9547.jpg/1280px-Road_construction_in_tea_plantation_JEG9547.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9e3eceddb81ffeb2": {
    "icerik": {
     "ana_kutu": [
@@ -101162,6 +101792,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5ed60110abb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akaryakıt pompası ve dolum anını net gösterdiği için motorin indirimi haberine tamamen uygundur.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       321,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:27:29+03:00"
+    },
     "r1:b8da84b638fb:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -101229,7 +101890,11 @@
      "t": "2026-11-08T14:36:27+03:00"
     }
    },
-   "t": "2026-11-08T14:36:27+03:00",
+   "ozet": {
+    "dh": "c17a7266383e75b5",
+    "sha": "efac9b065d6d578b72631dbe"
+   },
+   "t": "2026-11-19T11:27:29+03:00",
    "teknik": {
     "doygunluk": 15.7,
     "inen": [
@@ -109244,6 +109909,37 @@
      },
      "t": "2026-11-11T08:38:19+03:00"
     },
+    "r1:8a23a52164b2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin dalı ve zeytinler net şekilde görünüyor, zeytinyağı uyarısı haberi için uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:07+03:00"
+    },
     "r1:d8a5350896ba:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -109280,7 +109976,7 @@
     "dh": "91c4c41c9af75b0f",
     "sha": "46da74be835b4122b19dd4c9"
    },
-   "t": "2026-11-13T14:58:49+03:00",
+   "t": "2026-11-19T11:28:07+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -121990,6 +122686,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5ed60110abb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta akaryakıt pompası yerine tarihi bir han yapısı görülmektedir; haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:27:29+03:00"
+    },
     "r1:82372dd2a25f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -122046,7 +122768,7 @@
     "dh": "636b69c85c7a65e2",
     "sha": "35d05150dc08a9a8745cb02d"
    },
-   "t": "2026-11-13T15:17:57+03:00",
+   "t": "2026-11-19T11:27:29+03:00",
    "teknik": {
     "doygunluk": 37.0,
     "inen": [
@@ -125226,6 +125948,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:5ed60110abb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akaryakıt istasyonu ve pompaları gösteriyor ancak ABD'ye ait tabelalar içerdiğinden hafif yer yanıltıcılığı var.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       526,
+       874,
+       784
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:27:29+03:00"
+    },
     "r1:b8da84b638fb:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -125262,7 +126015,11 @@
      "t": "2026-11-08T11:11:41+03:00"
     }
    },
-   "t": "2026-11-08T11:11:41+03:00",
+   "ozet": {
+    "dh": "26be3c16f56c6c3f",
+    "sha": "04128ab5f7e04dc0f481e1fc"
+   },
+   "t": "2026-11-19T11:27:29+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -141731,6 +142488,97 @@
    },
    "url": "https://images.unsplash.com/photo-1631220706319-657942774d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZW1wdHklMjBwb2RpdW0lMjBtaWNyb3Bob25lJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTI1NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "e745854b6134fac5": {
+   "icerik": {
+    "ana_kutu": [
+     58,
+     204,
+     862,
+     781
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ekmek",
+     "seramik tabak",
+     "mozaik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mozaik zemin üzerinde tabakta ev yapımı yuvarlak ekmek",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "Yemek",
+     "Kültür",
+     "Tarih"
+    ],
+    "uygunsuz_baglamlar": [
+     "Sağlık",
+     "Asayiş",
+     "Ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:8a23a52164b2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta zeytinyağı veya zeytin görünmüyor, ekmek odaklı bir görsel olduğu için haberle doğrudan ilişkisi yok.",
+      "gerekli": [
+       {
+        "unsur": "zeytinyağı tenekesi",
+        "var": false
+       },
+       {
+        "unsur": "zeytin",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3571696070416133",
+    "sha": "8f38a6988e9173a025434ec8"
+   },
+   "t": "2026-11-19T11:28:07+03:00",
+   "teknik": {
+    "doygunluk": 38.8,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.031,
+    "keskinlik": 2670,
+    "kontrast": 41,
+    "medyan": 124,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hapalos_Artos_%28soft_bread%29%2C_a_traditional_Ancient_Roman_recipe_for_a_classic_fine_bread%2C_from_Athenaeus%27_Deipnosophistae_%2815734156204%29.jpg/1280px-Hapalos_Artos_%28soft_bread%29%2C_a_traditional_Ancient_Roman_recipe_for_a_classic_fine_bread%2C_from_Athenaeus%27_Deipnosophistae_%2815734156204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e745f5e454d253a8": {
    "icerik": {
     "ana_kutu": [
@@ -150379,6 +151227,37 @@
      },
      "t": "2026-11-08T13:06:28+03:00"
     },
+    "r1:8a23a52164b2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tabakta siyah zeytinler yer alıyor, gıda ve zeytinyağı içerikli haberlerde temsilî olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       185,
+       785,
+       825
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T11:28:07+03:00"
+    },
     "r1:d8a5350896ba:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -150415,7 +151294,7 @@
     "dh": "33862632386a1e9d",
     "sha": "b3a40a4a6c32899506f013e0"
    },
-   "t": "2026-11-13T14:58:49+03:00",
+   "t": "2026-11-19T11:28:07+03:00",
    "teknik": {
     "doygunluk": 41.5,
     "inen": [
@@ -159451,7 +160330,7 @@
    "gosterim_ad": "asfalt çalışması",
    "ilk_kabul": "2026-11-13T14:44:35+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Tom Shamberger / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -159470,6 +160349,7 @@
    },
    "konular": [
     "asfalt makinesi",
+    "asfalt makinesi, iş makinesi, yol çalışması",
     "asfalt çalışma makinesi",
     "işçi",
     "tarla",
@@ -159490,7 +160370,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-13T14:44:35+03:00",
+   "son_kabul": "2026-11-19T11:28:36+03:00",
    "url": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXNwaGFsdCUyMHBhdmluZyUyMHJvYWQlMjB3b3JrfGVufDF8MHx8fDE3OTQ1NzAyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
@@ -161035,6 +161915,67 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T15:41:25+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Untitled_-_panoramio_-_%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2_%2811%29.jpg/1280px-Untitled_-_panoramio_-_%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%A1%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%91%D0%B2_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "3fc077adbd716c06": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3260,
+    3260
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Masa üzerinde cam şişede sarı zeytinyağı ve küçük kâse",
+   "gosterim_ad": "sahte zeytinyağı uyarısı",
+   "ilk_kabul": "2026-11-19T11:28:07+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "margenauer from Pixabay / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "margenauer from Pixabay",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Bottle_of_olive_oil.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "cam şişe",
+    "kâse",
+    "zeytinyağı",
+    "zeytinyağı tenekesi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bottle_of_olive_oil.jpg/500px-Bottle_of_olive_oil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Sağlık",
+    "Ekonomi",
+    "Yemek"
+   ],
+   "kullanilamaz": [
+    "Spor",
+    "Siyaset",
+    "Magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T11:28:07+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bottle_of_olive_oil.jpg/1280px-Bottle_of_olive_oil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -165595,7 +166536,7 @@
    "gosterim_ad": "benzin indirimi",
    "ilk_kabul": "2026-11-08T11:11:41+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "engin akyurt / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -165633,7 +166574,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T14:36:27+03:00",
+   "son_kabul": "2026-11-19T11:27:29+03:00",
    "url": "https://images.unsplash.com/photo-1654334036169-840615ab6a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8ZnVlbCUyMG5venpsZXxlbnwxfDB8fHwxNzkzODkxODE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
