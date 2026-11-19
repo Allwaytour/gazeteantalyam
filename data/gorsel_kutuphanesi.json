@@ -8249,6 +8249,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:14e71efbc2e5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber belediye başkanlıklarıyla ilgili ancak fotoğrafta belediye binası yerine konut binaları yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:57:38+03:00"
+    },
     "r1:3c36eb2c6a9f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8398,7 +8424,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-19T14:27:18+03:00",
+   "t": "2026-11-19T15:57:55+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -26780,6 +26806,112 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Adrasan_Beach_Kumluca_01.jpg/1280px-Adrasan_Beach_Kumluca_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "27778f3024b3d299": {
+   "icerik": {
+    "ana_kutu": [
+     232,
+     7,
+     915,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "voleybol formasi",
+     "voleybol sahasi",
+     "pankart"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Voleybol sahasinda dizilmis kadin voleybol takimi oyuncuları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberleri",
+     "voleybol maci",
+     "belediye spor faaliyetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      242,
+      28,
+      319,
+      83
+     ],
+     [
+      202,
+      114,
+      298,
+      159
+     ],
+     [
+      220,
+      189,
+      295,
+      241
+     ],
+     [
+      236,
+      269,
+      321,
+      326
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:51977b534161:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi bir aciklama ile ilgilidir, voleybol takimi fotografi tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ff89590aca7721d8",
+    "sha": "67f6cd0d56f703d409592d9f"
+   },
+   "t": "2026-11-19T15:59:14+03:00",
+   "teknik": {
+    "doygunluk": 45.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.105,
+    "keskinlik": 1996,
+    "kontrast": 48,
+    "medyan": 141,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol_Tak%C4%B1m%C4%B1.jpg/1280px-Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol_Tak%C4%B1m%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "278861c416a31523": {
    "icerik": {
@@ -45439,6 +45571,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Touch_the_clouds.jpg/1280px-Touch_the_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "44fa52cbb2887096": {
+   "ozet": {
+    "dh": "071757170f053386",
+    "sha": "8d4e519ea01fb7e4f93b881f"
+   },
+   "t": "2026-11-19T15:59:22+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     300
+    ],
+    "karanlik_oran": 0.709,
+    "keskinlik": 1791,
+    "kontrast": 53,
+    "medyan": 29,
+    "parlaklik": 50,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Insomnia_and_Social_Media.jpg/1280px-Insomnia_and_Social_Media.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "451d07c5f3e4f59a": {
    "icerik": {
     "ana_kutu": [
@@ -45725,6 +45878,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Antalya_26_09_2003_Antik_Yol_Exkursionsmanschaft_an_der_Bew%C3%A4sserungspumpe.jpg/1280px-Antalya_26_09_2003_Antik_Yol_Exkursionsmanschaft_an_der_Bew%C3%A4sserungspumpe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "45fe646f6aaa3c44": {
+   "icerik": {
+    "ana_kutu": [
+     267,
+     393,
+     988,
+     663
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "akilli telefon",
+     "telefonu tutan eller"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "bir kisinin elinde tuttugu akilli telefonda Instagram akisi gorunuyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sosyal medya haberi",
+     "dijital iletisim",
+     "telefon kullanimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "belediye meclisi",
+     "yerel secim"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51977b534161:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber sosyal medya paylasimi odakli oldugu icin telefon ve sosyal medya akisi temsilidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       267,
+       393,
+       988,
+       663
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "13934f0f2f8f256c",
+    "sha": "2492661c11d7eeea70256018"
+   },
+   "t": "2026-11-19T15:59:34+03:00",
+   "teknik": {
+    "doygunluk": 39.0,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.344,
+    "keskinlik": 485,
+    "kontrast": 59,
+    "medyan": 83,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1683181480131-c597f7f222e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGVyc29uJTIwc2Nyb2xsaW5nJTIwcGhvbmV8ZW58MXwwfHx8MTc5NTA5MzE2MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "462f567cf1b0e02d": {
    "icerik": {
@@ -48736,6 +48975,86 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Moscow%2C_Volkhonka%2C_street_cleaners%2C_Sept_2025_01-1.jpg/1280px-Moscow%2C_Volkhonka%2C_street_cleaners%2C_Sept_2025_01-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4bcefb22df88abba": {
+   "icerik": {
+    "ana_kutu": [
+     311,
+     410,
+     725,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cizim",
+     "sembol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "yesil arka plan uzerinde kermen seklinde turuncu ve beyaz cizim",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "grafik tasarim",
+     "oyun tasarimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "belediye haberleri",
+     "sosyal medya paylasimi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51977b534161:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Grafiksel bir cizim olup haberle hicbir iliskisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b370b0b181a6761",
+    "sha": "d0892bc13c7b73e01485d41e"
+   },
+   "t": "2026-11-19T15:59:34+03:00",
+   "teknik": {
+    "doygunluk": 67.1,
+    "inen": [
+     500,
+     498
+    ],
+    "karanlik_oran": 0.053,
+    "keskinlik": 142,
+    "kontrast": 34,
+    "medyan": 133,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/23_0073618_Convair_Negative_Image_-_Digital_model_on_screen_%2854268190711%29.jpg/1280px-23_0073618_Convair_Negative_Image_-_Digital_model_on_screen_%2854268190711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4c5bcbb28d5f2bab": {
    "t": "2026-11-08T14:42:15+03:00",
@@ -53416,6 +53735,111 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Before_storm_in_antalya.jpg/1280px-Before_storm_in_antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "52774f1133b56070": {
+   "icerik": {
+    "ana_kutu": [
+     133,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 7,
+    "nesneler": [
+     "voleybol formasi",
+     "voleybol sahasi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Voleybol sahasinda siralanan kadin voleybol takimi oyuncuları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "spor haberleri",
+     "voleybol maci",
+     "belediye spor faaliyetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      213,
+      0,
+      335,
+      33
+     ],
+     [
+      140,
+      93,
+      290,
+      169
+     ],
+     [
+      200,
+      260,
+      321,
+      332
+     ],
+     [
+      202,
+      394,
+      339,
+      489
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:51977b534161:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi bir aciklama ile ilgilidir, voleybol takimi fotografi tamamen ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "13e0665503253604",
+    "sha": "0b053317986a3836762488b6"
+   },
+   "t": "2026-11-19T15:59:14+03:00",
+   "teknik": {
+    "doygunluk": 37.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.093,
+    "keskinlik": 1219,
+    "kontrast": 48,
+    "medyan": 131,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol.jpg/1280px-Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5292fda57280d332": {
    "t": "2026-11-08T12:10:56+03:00",
@@ -64825,6 +65249,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg/1280px-%22%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD-%D1%81%D1%82%D1%80%D0%B8%D1%82%22_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "64a82fe73993d788": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "mikrofon",
+     "projeksiyon ekranı",
+     "bilgisayar monitörü",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıfta sunum yapan kadın konuşmacı ve önünde bilgisayarlı katılımcılar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "teknoloji yarışması",
+     "eğitim semineri",
+     "hackathon"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      540,
+      260,
+      630
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:188b9a36c207:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel olarak teknoloji etkinliği havası verse de 2019 yılına ait olması ve başka bir etkinliği göstermesi nedeniyle tam uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": true
+       },
+       {
+        "unsur": "genç girişimciler",
+        "var": true
+       },
+       {
+        "unsur": "sunum",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       470,
+       670,
+       700
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:00:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1c581a5c3c36a6cc",
+    "sha": "e1a486095dcd317f27d60aa7"
+   },
+   "t": "2026-11-19T16:00:51+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.031,
+    "keskinlik": 904,
+    "kontrast": 62,
+    "medyan": 179,
+    "parlaklik": 169,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Tech_Evangelist.jpg/1280px-Tech_Evangelist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "64e9736d3d106fe4": {
    "icerik": {
     "ana_kutu": [
@@ -66927,6 +67453,92 @@
    },
    "url": "https://images.unsplash.com/photo-1770723965399-cbdbc01b2619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z2l2aW5nJTIwYmxvb2QlMjBSZWQlMjBDcmVzY2VudHxlbnwxfDB8fHwxNzk0MjkyNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "690a650ec0699ef6": {
+   "icerik": {
+    "ana_kutu": [
+     372,
+     615,
+     597,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "cep telefonu",
+     "beyaz kazak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "beyaz kazakli bir kisinin elinde cep telefonu tutmasi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "mobil teknoloji",
+     "iletisim haberleri",
+     "sosyal medya"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "belediye baskani",
+     "secim sureci"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51977b534161:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sosyal medya paylasimi haberinde temsilî telefon kullanimi amaciyla zayif bir baglam sunar.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       372,
+       615,
+       597,
+       856
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1617939dd9d10b0b",
+    "sha": "5b9d65cbed0be7d079d6478d"
+   },
+   "t": "2026-11-19T15:59:34+03:00",
+   "teknik": {
+    "doygunluk": 8.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.004,
+    "keskinlik": 182,
+    "kontrast": 53,
+    "medyan": 162,
+    "parlaklik": 166,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1593733925160-6f78dc0be8b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8cGVyc29uJTIwc2Nyb2xsaW5nJTIwcGhvbmV8ZW58MXwwfHx8MTc5NTA5MzE2MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "69144edf97267de6": {
    "icerik": {
     "ana_kutu": [
@@ -67916,6 +68528,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2012-02_BAB-4_3.jpg/1280px-2012-02_BAB-4_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6aebd57ac6d07976": {
+   "ozet": {
+    "dh": "c6c6c6c6cedb6138",
+    "sha": "2dbe9dcc14eb9c002d7a7119"
+   },
+   "t": "2026-11-19T15:58:02+03:00",
+   "teknik": {
+    "doygunluk": 15.8,
+    "inen": [
+     500,
+     300
+    ],
+    "karanlik_oran": 0.169,
+    "keskinlik": 2235,
+    "kontrast": 67,
+    "medyan": 145,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ata%C5%9FehirMunicipalityBlg.jpg/1280px-Ata%C5%9FehirMunicipalityBlg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6b00a5b23a009b4e": {
    "icerik": {
@@ -69033,6 +69666,119 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/120260905_160716_Autokorso_Magdeburg.jpg/1280px-120260905_160716_Autokorso_Magdeburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6cd37296e44a769e": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "dizüstü bilgisayar",
+     "mavi puf koltuk",
+     "boyun askılı kart"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi puflar üzerinde oturarak dizüstü bilgisayarlarıyla çalışan genç katılımcılar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hackathon",
+     "yazılım maratonu",
+     "teknoloji etkinliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "resmi tören",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      10,
+      160,
+      390,
+      330
+     ],
+     [
+      55,
+      480,
+      420,
+      670
+     ],
+     [
+      260,
+      370,
+      880,
+      810
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:188b9a36c207:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gençlerin bilgisayarlarla proje geliştirdiği bir maraton ortamını çok iyi yansıtan temsilî bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": true
+       },
+       {
+        "unsur": "genç girişimciler",
+        "var": true
+       },
+       {
+        "unsur": "sunum",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       50,
+       950,
+       850
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:00:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "082c31b5a7978f4c",
+    "sha": "65ecc520a94060177ea4d986"
+   },
+   "t": "2026-11-19T16:00:51+03:00",
+   "teknik": {
+    "doygunluk": 43.6,
+    "inen": [
+     400,
+     268
+    ],
+    "karanlik_oran": 0.324,
+    "keskinlik": 922,
+    "kontrast": 68,
+    "medyan": 84,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1520110120835-c96534a4c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dGVjaG5vbG9neSUyMGNvbXBldGl0aW9uJTIwaGFja2F0aG9ufGVufDF8MHx8fDE3OTUwOTMyMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "6ce5b000747967da": {
    "icerik": {
@@ -83225,6 +83971,32 @@
      },
      "t": "2026-11-10T13:37:48+03:00"
     },
+    "r1:14e71efbc2e5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta belediye binası yok, temizlik işçileri görünüyor. Siyasi tablo değişimi haberiyle ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:57:38+03:00"
+    },
     "r1:5325ac73eae0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -83377,7 +84149,7 @@
     "dh": "8e9c9c8c372e0e06",
     "sha": "fa13c1906ee564c928fd2ce5"
    },
-   "t": "2026-11-17T15:55:53+03:00",
+   "t": "2026-11-19T15:57:55+03:00",
    "teknik": {
     "doygunluk": 16.4,
     "inen": [
@@ -84112,6 +84884,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/View_of_Orpheum_Theater_auditorium_from_stage.jpg/1280px-View_of_Orpheum_Theater_auditorium_from_stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "83825bee35bffc26": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     45,
+     995,
+     955
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akilli telefon",
+     "sosyal medya ikonlari"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "akilli telefon ekraninda sosyal medya uygulamalarinin ikonlari gorunuyor",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sosyal medya haberleri",
+     "teknoloji haberleri",
+     "internet trendleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "spor musabakalari",
+     "yerel secim"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51977b534161:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber sosyal medya paylasimiyla ilgili oldugu icin sosyal medya simgeleri baglam olusturur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       45,
+       995,
+       955
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "67cd37373b0e8d89",
+    "sha": "f32c636d979e7a20782af1c0"
+   },
+   "t": "2026-11-19T15:59:34+03:00",
+   "teknik": {
+    "doygunluk": 42.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.071,
+    "keskinlik": 1544,
+    "kontrast": 66,
+    "medyan": 151,
+    "parlaklik": 151,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c21hcnRwaG9uZSUyMHNvY2lhbCUyMG1lZGlhfGVufDF8MHx8fDE3OTUwOTMxNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "839270b5f1facae6": {
    "icerik": {
@@ -111851,6 +112709,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:14e71efbc2e5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir yangın olayını göstermektedir; Antalya'daki yerel seçim ve belediye başkanlığı değişimi haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:57:54+03:00"
+    },
     "r1:37bf1222e607:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -112079,7 +112963,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-19T14:27:18+03:00",
+   "t": "2026-11-19T15:57:55+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -113493,6 +114377,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:14e71efbc2e5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf genel bir bina cephesidir, belediye binasini temsil etmez.",
+      "gerekli": [
+       {
+        "unsur": "belediye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:57:55+03:00"
+    },
     "r1:37bf1222e607:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -113802,51 +114712,13 @@
       ]
      },
      "t": "2026-11-17T13:38:57+03:00"
-    },
-    "r1:fffbaa589700:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Modern ofis binasının cephesi haberdeki yeni ve modern hizmet binası tasarımı için uygundur.",
-      "gerekli": [
-       {
-        "unsur": "modern kamu binasi",
-        "var": true
-       },
-       {
-        "unsur": "hizmet binasi dis cephesi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "eski bina",
-       "yikim sahasi"
-      ]
-     },
-     "t": "2026-11-14T12:18:10+03:00"
     }
    },
    "ozet": {
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-19T14:27:39+03:00",
+   "t": "2026-11-19T15:57:55+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -119338,6 +120210,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMHRyYWRpdGlvbmFsJTIwZm9vZHxlbnwxfDB8fHwxNzk0MTM0Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "bb399241faedda3f": {
+   "ozet": {
+    "dh": "133144300ca5190c",
+    "sha": "94bcd005e4b637a06e546b24"
+   },
+   "t": "2026-11-19T15:58:03+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     500,
+     395
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 4570,
+    "kontrast": 66,
+    "medyan": 122,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Atat%C3%BCrk_Boulevard%2C_Ministry_of_Health%2C_Ankara_Boys%E2%80%99_High_School_%28Stone_Maktab_-_Ta%C5%9F_Mektep%29%2C_Numune_Hospital%2C_1930s_%2816645155127%29.jpg/1280px-Atat%C3%BCrk_Boulevard%2C_Ministry_of_Health%2C_Ankara_Boys%E2%80%99_High_School_%28Stone_Maktab_-_Ta%C5%9F_Mektep%29%2C_Numune_Hospital%2C_1930s_%2816645155127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "bb5b37814108cc4b": {
    "ozet": {
@@ -133749,6 +134642,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/T.C._Sanayi_ve_Ticaret_Bakanl%C4%B1%C4%9F%C4%B1.JPG/1280px-T.C._Sanayi_ve_Ticaret_Bakanl%C4%B1%C4%9F%C4%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d4b2a42024857f62": {
+   "icerik": {
+    "ana_kutu": [
+     188,
+     545,
+     903,
+     843
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "tezgah",
+     "sandalye",
+     "aydinlatma lambasi",
+     "kisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "gece pazarinda tezgah basinda oturan bir kisi ve arkada dolasan insanlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sokak roportaji",
+     "pazar esnafı",
+     "yerel yasam"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi aciklama",
+     "belediye baskani haberi",
+     "sosyal medya paylasimi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      210,
+      650,
+      381,
+      762
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:51977b534161:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla tamamen ilgisiz bir sokak pazari sahnesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T15:59:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e6cdc60b1b595c1c",
+    "sha": "29ffade08d16526c4072765d"
+   },
+   "t": "2026-11-19T15:59:34+03:00",
+   "teknik": {
+    "doygunluk": 21.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.321,
+    "keskinlik": 2723,
+    "kontrast": 68,
+    "medyan": 95,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/DSCF0458_A_vendor_waits_at_an_empty_stall_scrolling_their_phone_as_evening_market_lights_glow_and_shoppers_browse_in_the_background.jpg/1280px-DSCF0458_A_vendor_waits_at_an_empty_stall_scrolling_their_phone_as_evening_market_lights_glow_and_shoppers_browse_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d503f335dc699ae8": {
    "icerik": {
     "ana_kutu": [
@@ -144738,6 +145721,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Stone_tavern_on_a_dirt_road%2C_smoke_coming_out_of_chimney_at_rear_of_building%2C_sign_at_front_shows_a_bird_riding_on_the_back_of_an_animal_LCCN2016645589.tif/lossy-page1-1280px-Stone_tavern_on_a_dirt_road%2C_smoke_coming_out_of_chimney_at_rear_of_building%2C_sign_at_front_shows_a_bird_riding_on_the_back_of_an_animal_LCCN2016645589.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e62e16147045700c": {
+   "ozet": {
+    "dh": "a7868d8e494d4757",
+    "sha": "b5900bfe665677070c9be0f1"
+   },
+   "t": "2026-11-19T15:59:22+03:00",
+   "teknik": {
+    "doygunluk": 17.8,
+    "inen": [
+     500,
+     167
+    ],
+    "karanlik_oran": 0.496,
+    "keskinlik": 1236,
+    "kontrast": 44,
+    "medyan": 50,
+    "parlaklik": 69,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Safety%2C_security_key_to_social_media_use_%284999991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "e63fa1774855edee": {
    "icerik": {
     "ana_kutu": [
@@ -150773,6 +151777,109 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Antalya_Bight.jpg/1280px-Antalya_Bight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f059060c3fa93d16": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 8,
+    "nesneler": [
+     "ödül kupası",
+     "dev çek",
+     "arkaplanda afiş",
+     "takım elbise"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir törende ödül ve dev çek prototipi tutan gençler ve yetkililer",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ödül töreni",
+     "yarışma finali",
+     "başarı haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "uluslararası diplomasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      30,
+      60,
+      240,
+      160
+     ],
+     [
+      90,
+      480,
+      440,
+      620
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:188b9a36c207:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı yazılı dev çek ve siyasetçi portreleri barındırdığı, ayrıca başka bir ülkedeki telekomünikasyon ödül töreni olduğu için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "teknoloji",
+        "var": false
+       },
+       {
+        "unsur": "genç girişimciler",
+        "var": true
+       },
+       {
+        "unsur": "sunum",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T16:00:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "af3f1c1b9b9b9f1b",
+    "sha": "e4d60acb18d97b428a8e21bc"
+   },
+   "t": "2026-11-19T16:00:51+03:00",
+   "teknik": {
+    "doygunluk": 32.2,
+    "inen": [
+     500,
+     261
+    ],
+    "karanlik_oran": 0.385,
+    "keskinlik": 2768,
+    "kontrast": 82,
+    "medyan": 88,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Advisor_Distributes_Prizes_At_Hackathon_For_World_Telecommunication_Day_2025-05-17_%28PID-0001852%29.jpg/1280px-Advisor_Distributes_Prizes_At_Hackathon_For_World_Telecommunication_Day_2025-05-17_%28PID-0001852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f06e1f7b610f3c18": {
    "icerik": {
     "ana_kutu": [
@@ -151684,6 +152791,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Higher_Lane_gates_to_Everton_Cemetery_1.jpg/1280px-Higher_Lane_gates_to_Everton_Cemetery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f19a4fadbff49994": {
+   "ozet": {
+    "dh": "1a34303e1e9e1e30",
+    "sha": "63315a09b1df3f4234cabfab"
+   },
+   "t": "2026-11-19T15:59:22+03:00",
+   "teknik": {
+    "doygunluk": 51.0,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.778,
+    "keskinlik": 459,
+    "kontrast": 75,
+    "medyan": 2,
+    "parlaklik": 41,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Scrolling_on_phone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "f1e63fbde18cc583": {
    "icerik": {
@@ -167888,6 +169016,64 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "6cd37296e44a769e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3872,
+    2592
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mavi puflar üzerinde oturarak dizüstü bilgisayarlarıyla çalışan genç katılımcılar",
+   "gosterim_ad": "iklim teknolojileri proje geliştirme maratonu",
+   "ilk_kabul": "2026-11-19T16:00:51+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Nik / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Nik",
+    "sayfa": "https://unsplash.com/photos/man-sitting-on-blue-bean-bag-usinglaptop-73_kRzs9sqo"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "boyun askılı kart",
+    "dizüstü bilgisayar",
+    "genç girişimciler",
+    "mavi puf koltuk",
+    "teknoloji"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1520110120835-c96534a4c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dGVjaG5vbG9neSUyMGNvbXBldGl0aW9uJTIwaGFja2F0aG9ufGVufDF8MHx8fDE3OTUwOTMyMTJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "hackathon",
+    "yazılım maratonu",
+    "teknoloji etkinliği"
+   ],
+   "kullanilamaz": [
+    "resmi tören",
+    "siyaset"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T16:00:51+03:00",
+   "url": "https://images.unsplash.com/photo-1520110120835-c96534a4c984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dGVjaG5vbG9neSUyMGNvbXBldGl0aW9uJTIwaGFja2F0aG9ufGVufDF8MHx8fDE3OTUwOTMyMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
     "detay"
    ],
    "yalniz_ayni_olay": false
