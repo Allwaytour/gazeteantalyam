@@ -1715,6 +1715,37 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:4bc10a33034b:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanı ve sahilinin yüksekten güzel bir görünümünü sunuyor, haber bağlamına uygun.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:11+03:00"
+    },
     "r1:5bcd6c8f682f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -1857,7 +1888,7 @@
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-17T13:34:10+03:00",
+   "t": "2026-11-19T14:28:11+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -8302,6 +8333,37 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
+    "r1:ba30104abf4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel veya konaklama tesisi binasını gösterdiği için ciro düşüşü haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel binasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       52,
+       810,
+       816
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:27:18+03:00"
+    },
     "r1:f07bc0b945c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -8336,7 +8398,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-17T15:55:53+03:00",
+   "t": "2026-11-19T14:27:18+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -17801,6 +17863,32 @@
      },
      "t": "2026-11-09T13:35:10+03:00"
     },
+    "r1:4bc10a33034b:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Karede Alanya silüeti olsa da ön planda dev bir köpek ve tekne yer alması siyasi haber için uygunsuz.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:11+03:00"
+    },
     "r1:5bcd6c8f682f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -17990,7 +18078,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-17T13:34:10+03:00",
+   "t": "2026-11-19T14:28:11+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -27665,6 +27753,32 @@
      },
      "t": "2026-11-13T16:05:29+03:00"
     },
+    "r1:4bc10a33034b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kruvaziyer gemi odaklı liman karesi siyasi il olma tartışması için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:01+03:00"
+    },
     "r1:7a7ebccd1acc:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -27779,32 +27893,6 @@
      },
      "t": "2026-11-17T13:33:45+03:00"
     },
-    "r1:eb81c6270c9f:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Kruvaziyer gemisi görseli konut satışı haberiyle doğrudan ilgili değildir.",
-      "gerekli": [
-       {
-        "unsur": "konut, site veya bina",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T00:10:33+03:00"
-    },
     "r1:fea13cc7fd0b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -27869,7 +27957,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-18T16:57:43+03:00",
+   "t": "2026-11-19T14:28:01+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -40962,6 +41050,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:4bc10a33034b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Alanya manzarası yerine kuyumcu vitrini ve takılar yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:11+03:00"
+    },
     "r1:52f2787f29fa:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -40998,7 +41112,7 @@
     "dh": "0d4b3333cd719bc9",
     "sha": "ab8c85716bb5030fff8622e4"
    },
-   "t": "2026-11-15T14:43:41+03:00",
+   "t": "2026-11-19T14:28:11+03:00",
    "teknik": {
     "doygunluk": 36.5,
     "inen": [
@@ -55365,6 +55479,32 @@
      },
      "t": "2026-11-09T17:35:49+03:00"
     },
+    "r1:ba30104abf4b:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir dağ manzarasıdır, doğrudan otel cirosu veya otel binası içermez.",
+      "gerekli": [
+       {
+        "unsur": "otel binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:27:18+03:00"
+    },
     "r1:e4427e0afca0:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -55452,7 +55592,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-19T12:27:33+03:00",
+   "t": "2026-11-19T14:27:18+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -69897,23 +70037,28 @@
      },
      "t": "2026-11-08T15:41:25+03:00"
     },
-    "r1:5501fb3f003e:konu": {
+    "r1:4bc10a33034b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Açık havadaki şehir manzarası Antalya hava durumu haberi için uygundur.",
+      "gerekce": "Alanya'nın il olma tartışmaları haberi için uygun genel şehir ve kale manzarası.",
       "gerekli": [
        {
-        "unsur": "güneşli ve açık hava manzarası",
+        "unsur": "Alanya manzarası",
         "var": true
        }
       ],
       "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
-      "konu_kutusu": null,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
       "olay_gorunuyor": false,
-      "uygunluk": 8,
+      "uygunluk": 10,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -69921,7 +70066,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-08T11:39:46+03:00"
+     "t": "2026-11-19T14:28:11+03:00"
     },
     "r1:7139313c6815:konu": {
      "d": {
@@ -70191,7 +70336,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-16T13:12:51+03:00",
+   "t": "2026-11-19T14:28:11+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -70973,6 +71118,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Zehra_G%C3%BCne%C5%9F%2C_2024.jpg/1280px-Zehra_G%C3%BCne%C5%9F%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7063d642c59036a5": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "deniz",
+     "liman",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten Alanya şehir merkezi ve liman görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir haberleri",
+     "turizm haberi",
+     "yerel politika"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçı",
+     "adliye haberleri",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4bc10a33034b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel görünümünü net bir şekilde yansıtan uygun bir temsilî manzara fotoğrafı.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f1f1f3f1f19194a",
+    "sha": "3307b36910203b0ba8665a93"
+   },
+   "t": "2026-11-19T14:28:11+03:00",
+   "teknik": {
+    "doygunluk": 20.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1027,
+    "kontrast": 25,
+    "medyan": 150,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alanya-_panorama_miasta.JPG/1280px-Alanya-_panorama_miasta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "708f55f54689b651": {
    "icerik": {
@@ -81675,6 +81913,32 @@
      },
      "t": "2026-11-13T16:05:29+03:00"
     },
+    "r1:4bc10a33034b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyasi tartışma haberi için paraşüt görseli alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:01+03:00"
+    },
     "r1:79e1fd898a17:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -81695,32 +81959,6 @@
       "yasak": []
      },
      "t": "2026-11-11T13:39:02+03:00"
-    },
-    "r1:b51ba2d3c7bd:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'da çekilmiş bir tatil aktivitesi ancak genel bir sahil veya oteller bölgesi manzarası sunmuyor.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya oteller bölgesi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 5,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T00:38:31+03:00"
     },
     "r1:b52ed87588f6:ozne_kurum": {
      "d": {
@@ -81927,7 +82165,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-17T13:33:45+03:00",
+   "t": "2026-11-19T14:28:01+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -99433,6 +99671,37 @@
      },
      "t": "2026-11-13T16:05:29+03:00"
     },
+    "r1:4bc10a33034b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genis Alanya şehir manzarası haber başlığı ve içeriği için kusursuz bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:01+03:00"
+    },
     "r1:79e1fd898a17:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -99463,37 +99732,6 @@
       "yasak": []
      },
      "t": "2026-11-11T13:39:02+03:00"
-    },
-    "r1:adb4dc75380d:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel görünümünü ve limanını net bir şekilde yansıttığı için haberle tamamen uyumludur.",
-      "gerekli": [
-       {
-        "unsur": "Alanya genel görünüm",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       67,
-       0,
-       992,
-       999
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T19:35:26+03:00"
     },
     "r1:b51ba2d3c7bd:ozne_kurum": {
      "d": {
@@ -99716,7 +99954,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-17T13:33:45+03:00",
+   "t": "2026-11-19T14:28:01+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -111566,6 +111804,32 @@
      },
      "t": "2026-11-15T11:41:44+03:00"
     },
+    "r1:ba30104abf4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yangın felaketini gösteren bu kare ciro düşüşü haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "otel binasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:27:18+03:00"
+    },
     "r1:f07bc0b945c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -111600,7 +111864,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-17T15:55:53+03:00",
+   "t": "2026-11-19T14:27:18+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -113095,37 +113359,6 @@
      },
      "t": "2026-11-17T14:54:15+03:00"
     },
-    "r1:40cf4cb0f71d:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Modern bir kurum binası detayı vergi dairesi haberi için uygun bir temsilî görseldir.",
-      "gerekli": [
-       {
-        "unsur": "vergi dairesi binası veya evrak",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-13T11:58:38+03:00"
-    },
     "r1:42923a99f62c:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -113207,15 +113440,15 @@
      },
      "t": "2026-11-14T14:40:00+03:00"
     },
-    "r1:7b927dbdbc32:konu": {
+    "r1:816c5a3a1275:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraftaki modern ofis binası cephesi, hastane haberiyle ve vefat olayıyla ilgisizdir.",
+      "gerekce": "Görüntü hastane yerine sıradan bir ofis binası cephesini gösteriyor, haberle ilgisi yok.",
       "gerekli": [
        {
-        "unsur": "hastane binası",
+        "unsur": "hastane binasi, danisma veya stant",
         "var": false
        }
       ],
@@ -113231,7 +113464,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-14T12:17:53+03:00"
+     "t": "2026-11-19T14:27:39+03:00"
     },
     "r1:94df9acbb39d:konu": {
      "d": {
@@ -113263,6 +113496,37 @@
       "yasak": []
      },
      "t": "2026-11-16T17:22:12+03:00"
+    },
+    "r1:ba30104abf4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern bir bina cephesidir ancak doğrudan otel olduğunu kanıtlamaz.",
+      "gerekli": [
+       {
+        "unsur": "otel binasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:27:18+03:00"
     },
     "r1:d5e37351ff15:konu": {
      "d": {
@@ -113367,7 +113631,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-17T15:55:53+03:00",
+   "t": "2026-11-19T14:27:39+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -114704,6 +114968,32 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:4bc10a33034b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Plaj voleybolu maçı siyasi il statüsü haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:01+03:00"
+    },
     "r1:adb4dc75380d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -114861,37 +115151,6 @@
      },
      "t": "2026-11-17T13:33:45+03:00"
     },
-    "r1:d76e42a35633:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Plaj voleybolu maçı görülüyor ancak 2006 yılına ait olması ve yabancı turnuva olması nedeniyle yanıltıcıdır.",
-      "gerekli": [
-       {
-        "unsur": "plaj voleybolu sahası, filesi ya da oyun",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       270,
-       210,
-       750,
-       820
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 4,
-      "yaniltici_donem": true,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-07T23:58:03+03:00"
-    },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -115001,7 +115260,7 @@
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-17T13:33:45+03:00",
+   "t": "2026-11-19T14:28:01+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -125971,6 +126230,93 @@
     "s": "t1"
    },
    "url": "/images/kurum/b663bd2714309b54.jpg"
+  },
+  "c789bc619b5a88a9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tas duvar",
+     "masa",
+     "sandalye",
+     "agac",
+     "bitki",
+     "aydinlatma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Aydinlatilmis otel avlusu, tas duvarlar, agaclar ve masa takimi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ba30104abf4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da bir otel tesisinin dış avlusunu gösterdiği için ciro haberine çok uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel binasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:27:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "19192b2e26464647",
+    "sha": "8c0fa7870ae0bab6caacd5a4"
+   },
+   "t": "2026-11-19T14:27:18+03:00",
+   "teknik": {
+    "doygunluk": 66.9,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.206,
+    "keskinlik": 4812,
+    "kontrast": 54,
+    "medyan": 91,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg/1280px-Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c79daa77427dfe7c": {
    "icerik": {
@@ -138198,6 +138544,37 @@
      },
      "t": "2026-11-15T16:11:33+03:00"
     },
+    "r1:4bc10a33034b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya manzarası haber metniyle doğrudan uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "Alanya manzarası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-19T14:28:01+03:00"
+    },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -138237,7 +138614,7 @@
     "dh": "3158c978e4135345",
     "sha": "c7b0f8e9bcf07a3a3415ff24"
    },
-   "t": "2026-11-17T13:33:45+03:00",
+   "t": "2026-11-19T14:28:01+03:00",
    "teknik": {
     "doygunluk": 23.5,
     "inen": [
@@ -167374,7 +167751,7 @@
    "gosterim_ad": "Alanya",
    "ilk_kabul": "2026-11-07T23:51:06+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 5,
+   "kabul_sayisi": 6,
    "kaynak": {
     "atif": "Kornelka2 / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -167393,6 +167770,7 @@
    },
    "konular": [
     "Alanya doğası",
+    "Alanya manzarası",
     "Alanya şehir manzarası",
     "Alanya şehir merkezi",
     "Antalya şehir manzarası",
@@ -167416,7 +167794,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-12T08:56:21+03:00",
+   "son_kabul": "2026-11-19T14:28:11+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alanya_Turcja.JPG/1280px-Alanya_Turcja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -171861,6 +172239,62 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "c789bc619b5a88a9": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    4928,
+    3264
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Aydinlatilmis otel avlusu, tas duvarlar, agaclar ve masa takimi.",
+   "gosterim_ad": "Antalya",
+   "ilk_kabul": "2026-11-19T14:27:18+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "1089hruskapetr / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "1089hruskapetr",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "agac",
+    "aydinlatma",
+    "bitki",
+    "masa",
+    "otel binasi",
+    "sandalye",
+    "tas duvar"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg/500px-Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-19T14:27:18+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg/1280px-Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "c8555f635a5fb140": {
    "alt_tur": "nesne",
