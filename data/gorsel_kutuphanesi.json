@@ -145537,6 +145537,36 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
+    "r1:67128da83da6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Buyuksehir Belediyesi otobusunu gosterse de Alanya'daki siyasi gorusme ve yatirim haberi icin uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "belediye binasi",
+        "var": false
+       },
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T13:29:34+03:00"
+    },
     "r1:6cc02d63531e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -145612,32 +145642,6 @@
       "yasak": []
      },
      "t": "2026-11-11T14:09:10+03:00"
-    },
-    "r1:b13496aa7eb8:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediyenin aracı temsil ediyor ancak etkinliklerle doğrudan ilişkisi yok.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       212,
-       41,
-       856,
-       915
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 5,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:04:05+03:00"
     },
     "r1:bd7e65a8d163:yer": {
      "d": {
@@ -145767,7 +145771,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-18T13:57:43+03:00",
+   "t": "2026-11-20T13:29:34+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -154937,36 +154941,6 @@
      },
      "t": "2026-11-13T09:28:33+03:00"
     },
-    "r1:5d808d28896f:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Görselde tiyatro oyunu veya çocuk gösterisi bulunmamaktadır, tarihi bir ev görünümüdür.",
-      "gerekli": [
-       {
-        "unsur": "çocuk tiyatrosu",
-        "var": false
-       },
-       {
-        "unsur": "öğrenciler",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T16:53:03+03:00"
-    },
     "r1:62a90c6eee61:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -155000,6 +154974,36 @@
       "yasak": []
      },
      "t": "2026-11-16T13:13:16+03:00"
+    },
+    "r1:67128da83da6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir Alanya evi gosteriyor; belediye binasi veya yatirim gorusmesiyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "belediye binasi",
+        "var": false
+       },
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T13:29:34+03:00"
     },
     "r1:6856a6f6e28a:yer": {
      "d": {
@@ -155227,7 +155231,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-17T16:24:18+03:00",
+   "t": "2026-11-20T13:29:34+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -158117,6 +158121,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Scrolling_on_phone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "f1e2c3a55d0789ae": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "sucuk",
+     "tezgah",
+     "gıda ürünü",
+     "varil",
+     "müşteri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asılı sucukların ve gıda ürünlerinin bulunduğu bir market içi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "pazaryeri",
+     "gıda enflasyonu",
+     "esnaf"
+    ],
+    "uygunsuz_baglamlar": [
+     "belediye yatırımları",
+     "siyasi görüşme",
+     "altyapı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:67128da83da6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir market içini göstermektedir, Alanya yatırımları ve siyasi görüşme haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T13:29:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "75a56d7b33a2a595",
+    "sha": "3008fc3e4532d35784a755e6"
+   },
+   "t": "2026-11-20T13:29:42+03:00",
+   "teknik": {
+    "doygunluk": 31.8,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.223,
+    "keskinlik": 3975,
+    "kontrast": 55,
+    "medyan": 96,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ankara_Ulus_Hali_interior_in_2005_05.jpg/1280px-Ankara_Ulus_Hali_interior_in_2005_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f1e63fbde18cc583": {
    "icerik": {
     "ana_kutu": [
@@ -158512,36 +158609,6 @@
      },
      "t": "2026-11-13T09:28:33+03:00"
     },
-    "r1:5d808d28896f:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta tiyatro oyunu veya çocuklar yok, sadece bir park manzarası yer alıyor.",
-      "gerekli": [
-       {
-        "unsur": "çocuk tiyatrosu",
-        "var": false
-       },
-       {
-        "unsur": "öğrenciler",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T16:53:03+03:00"
-    },
     "r1:62a90c6eee61:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -158567,6 +158634,36 @@
       "yasak": []
      },
      "t": "2026-11-16T13:13:14+03:00"
+    },
+    "r1:67128da83da6:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan yatirimlar ve gorusme beklentisiyle dogrudan iliskili degil, sadece Alanya'da bir parki gosteriyor.",
+      "gerekli": [
+       {
+        "unsur": "belediye binasi",
+        "var": false
+       },
+       {
+        "unsur": "toplanti masasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T13:29:34+03:00"
     },
     "r1:6856a6f6e28a:yer": {
      "d": {
@@ -158794,7 +158891,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-17T16:24:18+03:00",
+   "t": "2026-11-20T13:29:34+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -166529,6 +166626,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Sites_of_the_Battle_of_Broken_Hill._NSW_-_2009.jpg/1280px-Sites_of_the_Battle_of_Broken_Hill._NSW_-_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "fc8ec216dd6f83d3": {
+   "ozet": {
+    "dh": "0d6b4b06242c0d9c",
+    "sha": "eff5e42c2f921ca60f36c7ed"
+   },
+   "t": "2026-11-20T13:29:38+03:00",
+   "teknik": {
+    "doygunluk": 29.3,
+    "inen": [
+     500,
+     315
+    ],
+    "karanlik_oran": 0.494,
+    "keskinlik": 2318,
+    "kontrast": 56,
+    "medyan": 50,
+    "parlaklik": 64,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ankara_Ulus_Hali_interior_in_2018_06.jpg/1280px-Ankara_Ulus_Hali_interior_in_2018_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fc96fd3044e74621": {
    "icerik": {

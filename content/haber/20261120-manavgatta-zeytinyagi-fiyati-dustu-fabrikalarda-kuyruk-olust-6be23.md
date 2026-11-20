@@ -79,7 +79,6 @@ gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
-- https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Antalya'nın Manavgat ilçesinde bu yıl zeytin rekoltesinin yüksek olması zeytinyağı fiyatlarında düşüşe yol açtı. Geçen yıl litre fiyatı 250 ila 300 lira arasında değişen zeytinyağı, bu sezon bolluk nedeniyle 200 liraya kadar geriledi. Hasat ettikleri ürünleri sıktırmak isteyen çiftçiler, zeytinyağı fabrikalarının önünde yoğunluk oluşturdu.
 
