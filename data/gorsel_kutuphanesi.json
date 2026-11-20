@@ -9078,6 +9078,32 @@
      },
      "t": "2026-11-20T14:59:28+03:00"
     },
+    "r1:81ad2abf1c50:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber adliye duruşması ile ilgiliken, fotoğrafta konut binaları ve sokak yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:01:40+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9143,7 +9169,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-20T18:31:49+03:00",
+   "t": "2026-11-20T20:01:40+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -75205,41 +75231,6 @@
      },
      "t": "2026-11-12T09:56:20+03:00"
     },
-    "r1:2a3f1207a490:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya genel görünümü Antalya'daki kentleşme ve konut yoğunluğunu yansıtmak için uygundur.",
-      "gerekli": [
-       {
-        "unsur": "şehir içi trafik",
-        "var": false
-       },
-       {
-        "unsur": "konut binaları",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       390,
-       280,
-       939,
-       999
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T15:41:25+03:00"
-    },
     "r1:4bc10a33034b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -75503,6 +75494,32 @@
      },
      "t": "2026-11-11T09:11:04+03:00"
     },
+    "r1:eff1001896f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya şehir merkezini göstermektedir, havalimanı ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı terminali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:03:22+03:00"
+    },
     "r1:f2bac7133776:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -75539,7 +75556,7 @@
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-19T14:28:11+03:00",
+   "t": "2026-11-20T20:03:22+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -82977,13 +82994,39 @@
       "yasak": []
      },
      "t": "2026-11-15T11:41:28+03:00"
+    },
+    "r1:eff1001896f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir liman ve konteyner gemisini göstermektedir, havalimanı ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı terminali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:03:22+03:00"
     }
    },
    "ozet": {
     "dh": "fce6e6de7a185876",
     "sha": "9bbb27f3886797cb1d47e5d2"
    },
-   "t": "2026-11-15T11:41:28+03:00",
+   "t": "2026-11-20T20:03:22+03:00",
    "teknik": {
     "doygunluk": 50.6,
     "inen": [
@@ -100347,6 +100390,110 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Homes_in_Need_%2820220129-RD-LSC-0023%29.jpg/1280px-Homes_in_Need_%2820220129-RD-LSC-0023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "925ee08218cacc0f": {
+   "icerik": {
+    "ana_kutu": [
+     640,
+     120,
+     990,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "terminal koltukları",
+     "güvenlik personeli",
+     "tabela",
+     "valiz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Havalimanı terminali içi, bekleme alanı ve güvenlik personeli",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "havalimanı haberleri",
+     "güvenlik hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "uçak kazası",
+     "kriminal olaylar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      645,
+      760,
+      750,
+      810
+     ],
+     [
+      695,
+      870,
+      800,
+      910
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:eff1001896f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Havalimanı terminali ve güvenlik personeli, haberin içeriğiyle tam uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı terminali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:03:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1c09c163432636c2",
+    "sha": "4bdeb962e58b5987238100c1"
+   },
+   "t": "2026-11-20T20:03:22+03:00",
+   "teknik": {
+    "doygunluk": 16.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 1987,
+    "kontrast": 52,
+    "medyan": 109,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Flughafen_%C3%9Cbergang_Terminal_1_zu_3.jpg/1280px-Antalya_Flughafen_%C3%9Cbergang_Terminal_1_zu_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "927efca29b06940e": {
    "icerik": {
@@ -119315,6 +119462,34 @@
      },
      "t": "2026-11-20T14:59:49+03:00"
     },
+    "r1:81ad2abf1c50:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yanan bir bina ve itfaiyeci görülmektedir, mahkeme duruşması haberiyle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kaza yeri"
+      ]
+     },
+     "t": "2026-11-20T20:01:40+03:00"
+    },
     "r1:94df9acbb39d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -119340,41 +119515,6 @@
       "yasak": []
      },
      "t": "2026-11-16T17:22:12+03:00"
-    },
-    "r1:a771d5f2024e:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Apartman yangını haberine uygun, dumanlar ve binayı gösteren güncel bir yangın karesi.",
-      "gerekli": [
-       {
-        "unsur": "apartman binası",
-        "var": true
-       },
-       {
-        "unsur": "itfaiye aracı",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-15T11:41:44+03:00"
     },
     "r1:ba30104abf4b:konu": {
      "d": {
@@ -119436,7 +119576,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-20T18:31:49+03:00",
+   "t": "2026-11-20T20:01:40+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -121098,28 +121238,23 @@
      },
      "t": "2026-11-19T14:27:39+03:00"
     },
-    "r1:94df9acbb39d:konu": {
+    "r1:81ad2abf1c50:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Okul binasını temsil edebilecek nötr bir mimari görsel, vefat haberi için uygun bir arka plandır.",
+      "gerekce": "Görsel sadece bir ofis binasının cephe detayını göstermektedir, adliye binası veya duruşma ile ilgisi yoktur.",
       "gerekli": [
        {
-        "unsur": "okul binası",
-        "var": true
+        "unsur": "adliye binası",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 8,
+      "uygunluk": 0,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -121127,7 +121262,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-16T17:22:12+03:00"
+     "t": "2026-11-20T20:01:40+03:00"
     },
     "r1:ba30104abf4b:konu": {
      "d": {
@@ -121225,7 +121360,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-20T18:31:49+03:00",
+   "t": "2026-11-20T20:01:40+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -145396,13 +145531,39 @@
       "yasak": []
      },
      "t": "2026-11-19T12:27:16+03:00"
+    },
+    "r1:eff1001896f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uçak görseli havalimanı bağlamı için kullanılabilir ancak terminal binası görülmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı terminali",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:03:22+03:00"
     }
    },
    "ozet": {
     "dh": "c6475316a6664666",
     "sha": "81138fd8d9d0813c10f56a7b"
    },
-   "t": "2026-11-19T12:27:16+03:00",
+   "t": "2026-11-20T20:03:22+03:00",
    "teknik": {
     "doygunluk": 16.6,
     "inen": [
@@ -159794,13 +159955,44 @@
       "yasak": []
      },
      "t": "2026-11-10T13:39:30+03:00"
+    },
+    "r1:eff1001896f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Havalimanı terminalinin genel görünümü, haberin konusuyla doğrudan ilişkilidir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı terminali",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:03:22+03:00"
     }
    },
    "ozet": {
     "dh": "370f179e9c1a1f1f",
     "sha": "699792197a5eb3c2acf3c559"
    },
-   "t": "2026-11-12T09:56:27+03:00",
+   "t": "2026-11-20T20:03:22+03:00",
    "teknik": {
     "doygunluk": 22.1,
     "inen": [
@@ -184693,7 +184885,7 @@
    "gosterim_ad": "Alman turist sayısındaki artış",
    "ilk_kabul": "2026-11-07T21:40:11+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 5,
+   "kabul_sayisi": 6,
    "kaynak": {
     "atif": "Marcel Heinrichs / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -184712,6 +184904,7 @@
    },
    "konular": [
     "Antalya Havalimanı",
+    "Antalya Havalimanı terminali",
     "banko",
     "bavul",
     "terminal",
@@ -184732,7 +184925,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-09T13:24:50+03:00",
+   "son_kabul": "2026-11-20T20:03:22+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Antalya_Airport_-_International_Terminal_1.JPG/1280px-Antalya_Airport_-_International_Terminal_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
