@@ -4249,6 +4249,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Agricultural_land%2C_Linton_-_geograph.org.uk_-_2305667.jpg/1280px-Agricultural_land%2C_Linton_-_geograph.org.uk_-_2305667.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "05e2a70d5797e405": {
+   "icerik": {
+    "ana_kutu": [
+     348,
+     407,
+     644,
+     614
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ceket",
+     "rozet"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ceket yakasına takılmış Yeni Parti rozeti",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "parti içi haberler",
+     "kurumsal tanıtım"
+    ],
+    "uygunsuz_baglamlar": [
+     "saha ziyareti haberi",
+     "esnaf röportajı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1b667c42514a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parti rozeti görülmektedir, ancak cadde üzerindeki esnaf ziyaretini doğrudan göstermez.",
+      "gerekli": [
+       {
+        "unsur": "kurum rozeti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       348,
+       407,
+       644,
+       614
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T22:00:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "33730b8d8dd5cc6e",
+    "sha": "626608273aef5093c5f39943"
+   },
+   "t": "2026-11-20T22:00:48+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.072,
+    "keskinlik": 2069,
+    "kontrast": 49,
+    "medyan": 87,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Yeni_Parti_rozeti.jpg/1280px-Yeni_Parti_rozeti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "05f49600767b8cc2": {
    "icerik": {
     "ana_kutu": [
@@ -29596,6 +29685,39 @@
      },
      "t": "2026-11-13T11:58:42+03:00"
     },
+    "r1:40da8f3a5488:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel limandaki bir yolcu gemisini gösteriyor, sera ve yapay zeka haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": false
+       },
+       {
+        "unsur": "tarim teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kalabalik"
+      ]
+     },
+     "t": "2026-11-20T22:00:19+03:00"
+    },
     "r1:4787df5c213e:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29673,36 +29795,6 @@
       "yasak": []
      },
      "t": "2026-11-14T14:40:00+03:00"
-    },
-    "r1:b52ed87588f6:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Limanın ve kruvaziyer gemisinin genel görünümü otel sertifikasyon haberiyle uyuşmamaktadır.",
-      "gerekli": [
-       {
-        "unsur": "engelsiz otel odası",
-        "var": false
-       },
-       {
-        "unsur": "tekerlekli sandalye uyumlu alan",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T18:03:37+03:00"
     },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
@@ -29823,7 +29915,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-20T17:01:58+03:00",
+   "t": "2026-11-20T22:00:19+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -54408,6 +54500,37 @@
      },
      "t": "2026-11-15T14:43:57+03:00"
     },
+    "r1:73c5185d7536:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otomobil lastikleri net şekilde görülüyor ancak köpek eksik.",
+      "gerekli": [
+       {
+        "unsur": "otomobil lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T21:59:57+03:00"
+    },
     "r1:e4b90e02e0c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -54444,7 +54567,7 @@
     "dh": "c9e4320e0bf3b566",
     "sha": "aed04360dbb313832fb86ccd"
    },
-   "t": "2026-11-15T14:43:57+03:00",
+   "t": "2026-11-20T21:59:57+03:00",
    "teknik": {
     "doygunluk": 24.8,
     "inen": [
@@ -61439,6 +61562,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Antalya_museum_unidentified_grave_contents_5680.jpg/1280px-Antalya_museum_unidentified_grave_contents_5680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "57943bf62e5bceb1": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "lastik izi",
+     "kar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karda sodyum isigiyla aydinlatilmis arac lastigi izleri",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "lastik izi haberleri",
+     "kış sürüşü güvenliği",
+     "trafik haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "köpek saldırısı",
+     "hayvan hakları",
+     "siyaset haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:73c5185d7536:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta lastik izleri var ancak köpek ve lastik hasarı görünmüyor, temsilî olarak zayıf kalıyor.",
+      "gerekli": [
+       {
+        "unsur": "otomobil lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T21:59:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "000002b20828535b",
+    "sha": "5fa4053237ab151fee991933"
+   },
+   "t": "2026-11-20T21:59:57+03:00",
+   "teknik": {
+    "doygunluk": 94.3,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.07,
+    "keskinlik": 3074,
+    "kontrast": 37,
+    "medyan": 115,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Car_tire_tracks_in_snow_under_sodium_light.jpg/1280px-Car_tire_tracks_in_snow_under_sodium_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "57b1e1a22f957ea0": {
    "icerik": {
     "ana_kutu": [
@@ -61754,6 +61968,93 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1790342024911-90d4d20e56eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Zmx1dGlzdCUyMHBsYXlpbmclMjBmbHV0ZSUyMG9uJTIwc3RhZ2V8ZW58MXwwfHx8MTc5NDE0MDM5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "57fbc8801447b0e9": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     125,
+     634,
+     873
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "yarış otomobili",
+     "asfalt pist",
+     "çim"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pistte hareket halindeki beyaz yarış otomobili",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "otomobil yarışları",
+     "motor sporları",
+     "DTM haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "köpek saldırısı",
+     "sanayi sitesi",
+     "park yeri olayları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:73c5185d7536:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir sokak köpeğinin lastik patlatmasıyla ilgiliyken, bu profesyonel bir yarış otomobilidir ve konuyu yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "otomobil lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T21:59:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "936d023344c6333a",
+    "sha": "c59482a499b242c4221c593b"
+   },
+   "t": "2026-11-20T21:59:57+03:00",
+   "teknik": {
+    "doygunluk": 17.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 1633,
+    "kontrast": 50,
+    "medyan": 103,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/DTM_Mercedes_W204_DiResta09_amk.jpg/1280px-DTM_Mercedes_W204_DiResta09_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "581ba8935740e04d": {
    "ozet": {
@@ -70884,6 +71185,27 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Christmarkt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "67ad1e9544795e5e": {
+   "ozet": {
+    "dh": "c1252d2524242400",
+    "sha": "a68080ef402f0cf74b768a0a"
+   },
+   "t": "2026-11-20T21:59:43+03:00",
+   "teknik": {
+    "doygunluk": 31.6,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.47,
+    "keskinlik": 856,
+    "kontrast": 87,
+    "medyan": 58,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1601411101851-ea0e07766235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y2FyJTIwdGlyZXxlbnwxfDB8fHwxNzk1MjAxMTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "67d6fafaaf69c921": {
    "ozet": {
@@ -88633,6 +88955,39 @@
      },
      "t": "2026-11-13T03:58:59+03:00"
     },
+    "r1:40da8f3a5488:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel paraşüt ve dağ manzarasını gösteriyor, haberdeki sera ve tarım teknolojileriyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": false
+       },
+       {
+        "unsur": "tarim teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kalabalik"
+      ]
+     },
+     "t": "2026-11-20T22:00:19+03:00"
+    },
     "r1:4787df5c213e:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -88684,27 +89039,6 @@
       "yasak": []
      },
      "t": "2026-11-19T14:28:01+03:00"
-    },
-    "r1:79e1fd898a17:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Parasailing yapan yelkenli ve dağ manzarası bina denetimi haberiyle alakasızdır.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T13:39:02+03:00"
     },
     "r1:b52ed87588f6:ozne_kurum": {
      "d": {
@@ -88906,7 +89240,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-20T17:01:58+03:00",
+   "t": "2026-11-20T22:00:19+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -90268,6 +90602,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Secretary_Rubio_Arrives_in_Antalya_%2854518776052%29.jpg/1280px-Secretary_Rubio_Arrives_in_Antalya_%2854518776052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "829ae2beb75ba81e": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     403,
+     866,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "araba",
+     "köpek",
+     "lastik",
+     "kulübe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Araba, köpek ve lastikler",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:73c5185d7536:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpek ve otomobil lastikleri aynı karede yer alarak haberi başarılı şekilde temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "köpek",
+        "var": true
+       },
+       {
+        "unsur": "otomobil lastiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       403,
+       888,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T21:59:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b21212024fcfc6f",
+    "sha": "80948d4c7731efb5973210ce"
+   },
+   "t": "2026-11-20T21:59:57+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     400,
+     250
+    ],
+    "karanlik_oran": 0.136,
+    "keskinlik": 1292,
+    "kontrast": 64,
+    "medyan": 149,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1741209440130-ba0f906db9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8ZG9nJTIwYml0aW5nJTIwdGlyZXxlbnwxfDB8fHwxNzk1MjAxMTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "82ae56d8feef1e82": {
    "icerik": {
@@ -95885,6 +96311,95 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1658753145551-8f44e5811d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c21hcnQlMjB3YXRlciUyMG1ldGVyJTIwZGlzcGxheXxlbnwxfDB8fHwxNzk1MDgyNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "8af71d51dfb60017": {
+   "icerik": {
+    "ana_kutu": [
+     135,
+     69,
+     819,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "Türkiye haritası",
+     "parti logosu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Türkiye haritası üzerinde bazı illerin kırmızı renkle işaretlendiği grafik harita",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "parti faaliyet haberi",
+     "seçim bölge analizi"
+    ],
+    "uygunsuz_baglamlar": [
+     "saha ziyareti haberi",
+     "esnaf röportajı"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1b667c42514a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Partinin harita görselidir, ancak doğrudan Güllük Caddesi'ndeki esnaf ziyaretini yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "kurum logosu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       135,
+       69,
+       819,
+       920
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T22:00:48+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0022629492c0a090",
+    "sha": "566f9bb34d2022940feae67c"
+   },
+   "t": "2026-11-20T22:00:48+03:00",
+   "teknik": {
+    "doygunluk": 9.3,
+    "inen": [
+     500,
+     299
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 1416,
+    "kontrast": 48,
+    "medyan": 254,
+    "parlaklik": 223,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Yeni_Parti_Belediyeri.png/1280px-Yeni_Parti_Belediyeri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8b2f5e51f3f978ee": {
    "icerik": {
@@ -107536,6 +108051,39 @@
      },
      "t": "2026-11-13T03:59:17+03:00"
     },
+    "r1:40da8f3a5488:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel genel Alanya şehir ve liman manzarasını gösteriyor ancak yasaklı 'şehir merkezi' unsurunu içeriyor.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": false
+       },
+       {
+        "unsur": "tarim teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kalabalik"
+      ]
+     },
+     "t": "2026-11-20T22:00:19+03:00"
+    },
     "r1:4787df5c213e:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -107709,37 +108257,6 @@
      },
      "t": "2026-11-20T17:01:58+03:00"
     },
-    "r1:dba77432e2c1:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel görünümü hava durumu haberi için oldukça uygundur.",
-      "gerekli": [
-       {
-        "unsur": "Alanya genel görünüm",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T09:11:04+03:00"
-    },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -107835,7 +108352,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-20T17:01:58+03:00",
+   "t": "2026-11-20T22:00:19+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -116572,6 +117089,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Building_renovation_in_Bavaria_mixes_traditional_and_modern_%286998332%29.jpg/1280px-Building_renovation_in_Bavaria_mixes_traditional_and_modern_%286998332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ad2a4c216ac92663": {
+   "icerik": {
+    "ana_kutu": [
+     287,
+     269,
+     903,
+     762
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yatak",
+     "raflar",
+     "yastıklar",
+     "kumaşlar",
+     "tablo",
+     "perde"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İç mekan ev tekstil mağazası veya yatak odası teşhir alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "esnaf ziyareti",
+     "mağaza açılışı",
+     "ekonomi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi miting",
+     "sokak protestosu",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1b667c42514a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf kapalı alan mağaza içini gösteriyor, cadde esnafı ziyareti haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçiler",
+        "var": false
+       },
+       {
+        "unsur": "esnaf",
+        "var": false
+       },
+       {
+        "unsur": "cadde",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T22:00:56+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3307970d0d0d2123",
+    "sha": "d19f91b90d8bc1bed4569918"
+   },
+   "t": "2026-11-20T22:00:56+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.116,
+    "keskinlik": 2582,
+    "kontrast": 55,
+    "medyan": 141,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Militex_Design_Vasile_Alecsandri.jpg/1280px-Militex_Design_Vasile_Alecsandri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ad6f3a87354780c7": {
    "icerik": {
     "ana_kutu": [
@@ -123221,6 +123836,39 @@
      },
      "t": "2026-11-08T14:42:22+03:00"
     },
+    "r1:40da8f3a5488:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel plaj voleybolu maçını göstermektedir, tarım ve yapay zeka haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": false
+       },
+       {
+        "unsur": "tarim teknolojisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kalabalik"
+      ]
+     },
+     "t": "2026-11-20T22:00:19+03:00"
+    },
     "r1:4bc10a33034b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -123486,34 +124134,13 @@
       "yasak": []
      },
      "t": "2026-11-08T18:03:22+03:00"
-    },
-    "r1:fe4d0e29c7cc:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Plaj voleybolu maçı görseli akaryakıt zammı haberiyle tamamen alakasızdır.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": true,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T14:36:27+03:00"
     }
    },
    "ozet": {
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-19T14:28:01+03:00",
+   "t": "2026-11-20T22:00:19+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -180281,6 +180908,63 @@
    "son_kabul": "2026-11-08T11:40:33+03:00",
    "url": "https://images.unsplash.com/photo-1792691040866-b38edd5908ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3RyZWV0JTIwY2xlYW5pbmclMjB3b3JrZXJzfGVufDF8MHx8fDE3OTQwNDkzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "829ae2beb75ba81e": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6968,
+    4355
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Araba, köpek ve lastikler",
+   "gosterim_ad": "köpeğin araç lastiğini patlatması",
+   "ilk_kabul": "2026-11-20T21:59:57+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Yuriy Vertikov / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Yuriy Vertikov",
+    "sayfa": "https://unsplash.com/photos/a-dirty-car-dog-and-tires-in-an-alley-SXYxycHK0jQ"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "araba",
+    "kulübe",
+    "köpek",
+    "lastik",
+    "otomobil lastiği"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1741209440130-ba0f906db9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8ZG9nJTIwYml0aW5nJTIwdGlyZXxlbnwxfDB8fHwxNzk1MjAxMTgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "siyaset haberleri",
+    "ekonomi haberleri"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-20T21:59:57+03:00",
+   "url": "https://images.unsplash.com/photo-1741209440130-ba0f906db9a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8ZG9nJTIwYml0aW5nJTIwdGlyZXxlbnwxfDB8fHwxNzk1MjAxMTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
