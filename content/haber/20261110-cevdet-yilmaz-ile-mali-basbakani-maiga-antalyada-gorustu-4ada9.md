@@ -32,7 +32,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: cop31-expo-2
-    tarih: '2026-11-21T00:31:23+03:00'
+    tarih: '2026-11-21T01:01:39+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
