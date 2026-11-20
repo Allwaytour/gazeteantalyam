@@ -22264,6 +22264,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Historic_Sat_Gambuz_Mosque_of_Dhaka.jpg/1280px-Historic_Sat_Gambuz_Mosque_of_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "20481e40ba0001e2": {
+   "icerik": {
+    "ana_kutu": [
+     400,
+     220,
+     600,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "masa",
+     "duvar resmi",
+     "sandalye",
+     "kürsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "BM Güvenlik Konseyi salonu genel görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "Birleşmiş Milletler haberleri",
+     "diplomasi",
+     "uluslararası ilişkiler"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel belediye meclisi",
+     "çocuk etkinlikleri",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:250422c45e26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yerel meclis salonu yerine BM salonunu gösterdiği için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       400,
+       220,
+       600,
+       780
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0e2717cc73480e",
+    "sha": "667de1de7b4a95d56e851482"
+   },
+   "t": "2026-11-20T16:32:40+03:00",
+   "teknik": {
+    "doygunluk": 51.6,
+    "inen": [
+     500,
+     400
+    ],
+    "karanlik_oran": 0.394,
+    "keskinlik": 3213,
+    "kontrast": 72,
+    "medyan": 68,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/United_Nations_Headquarters_-_Security_Council_chamber%2C_straight-on_view.jpg/1280px-United_Nations_Headquarters_-_Security_Council_chamber%2C_straight-on_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "204d7e5e84500d97": {
    "icerik": {
     "ana_kutu": [
@@ -44634,6 +44728,113 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Meysam_Molaei_during_a_Football_Training_Session.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "4064e1ff0981670e": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     56,
+     940,
+     910
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "baloncuk çubuğu",
+     "kova",
+     "tarihi bina",
+     "sokak lambası",
+     "çocuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Meydanda dev baloncuk yapan çocuklar ve insanlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çocuk hakları günü",
+     "sokak etkinlikleri",
+     "çocuk oyunları"
+    ],
+    "uygunsuz_baglamlar": [
+     "meclis toplantısı",
+     "belediye başkanı",
+     "resmi tören"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      305,
+      110,
+      380,
+      163
+     ],
+     [
+      368,
+      762,
+      570,
+      905
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:250422c45e26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuklar yer alsa da olay belediye meclisi salonunda geçmektedir, bu fotoğraf açık alanda çekilmiştir.",
+      "gerekli": [
+       {
+        "unsur": "çocuklar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       56,
+       940,
+       910
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "363333a2aeaa62e2",
+    "sha": "5393275a4310a4b3445a95e8"
+   },
+   "t": "2026-11-20T16:32:40+03:00",
+   "teknik": {
+    "doygunluk": 10.3,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.068,
+    "keskinlik": 2341,
+    "kontrast": 46,
+    "medyan": 156,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Children%2C_town_hall_of_Paris.jpg/1280px-Children%2C_town_hall_of_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "408a7c539ee96c43": {
    "icerik": {
@@ -79428,6 +79629,112 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/ELTON_JOHN_THE_ROCKET_MAN.jpg/1280px-ELTON_JOHN_THE_ROCKET_MAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "75848b20c8234ff1": {
+   "icerik": {
+    "ana_kutu": [
+     260,
+     430,
+     805,
+     680
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "silindir",
+     "asfalt",
+     "dükkan",
+     "elektrik direği",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yol çalışması yapan bir silindir ve çevresindeki dükkanlar",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yol çalışması",
+     "belediye hizmetleri",
+     "altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık",
+     "COP31",
+     "tıp"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      450,
+      190,
+      530,
+      245
+     ],
+     [
+      315,
+      525,
+      415,
+      560
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:c32d45c024fc:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yol çalışmasını göstermektedir, haberin konusu olan sağlık hizmetleri veya COP31 ile hiçbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sağlık çadırı",
+        "var": false
+       },
+       {
+        "unsur": "sağlık ekipleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:31:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2e1c1830adf1f0cd",
+    "sha": "0ae1b759e7e5452dc9e5728b"
+   },
+   "t": "2026-11-20T16:31:46+03:00",
+   "teknik": {
+    "doygunluk": 17.2,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.078,
+    "keskinlik": 1367,
+    "kontrast": 59,
+    "medyan": 136,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "/images/kurum/298beed216020672.jpg"
+  },
   "75a91ee9c7bac429": {
    "icerik": {
     "ana_kutu": [
@@ -80147,6 +80454,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1782998307726-f93ec14eda24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8dm90aW5nJTIwYm9vdGh8ZW58MXwwfHx8MTc5NDE0ODUyMHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "766d219af7328282": {
+   "ozet": {
+    "dh": "221f1c2f67af2635",
+    "sha": "1d00a41240aa0241e0658eb9"
+   },
+   "t": "2026-11-20T16:32:31+03:00",
+   "teknik": {
+    "doygunluk": 51.7,
+    "inen": [
+     500,
+     400
+    ],
+    "karanlik_oran": 0.521,
+    "keskinlik": 2013,
+    "kontrast": 56,
+    "medyan": 46,
+    "parlaklik": 65,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_Nations_Headquarters_-_Security_Council_chamber%2C_angled_view.jpg/1280px-United_Nations_Headquarters_-_Security_Council_chamber%2C_angled_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "769664d2a9104056": {
    "icerik": {
@@ -83406,6 +83734,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SunExpress_%28Dublin%29_in_2025.02.jpg/1280px-SunExpress_%28Dublin%29_in_2025.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7cdb1b1a47f3acd4": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     220,
+     680,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tarihi bina",
+     "otomobil",
+     "trafik lambası",
+     "ağaç",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Cadde üzerinde tarihi eski belediye binası ve trafik",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şehir manzarası",
+     "belediye binası",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk hakları",
+     "meclis toplantısı",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:250422c45e26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgili meclis salonu veya çocuk unsuru içermeyen dışarıdan bir bina fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7d6d6663a7353444",
+    "sha": "ad02762371d7ebce47932dd1"
+   },
+   "t": "2026-11-20T16:32:40+03:00",
+   "teknik": {
+    "doygunluk": 14.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.109,
+    "keskinlik": 4036,
+    "kontrast": 65,
+    "medyan": 128,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Old_Town_Hall%2C_Kennington_Road%2C_Kennington_%28geograph_3325579%29.jpg/1280px-Old_Town_Hall%2C_Kennington_Road%2C_Kennington_%28geograph_3325579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7d5e64d6ff2caf17": {
    "icerik": {
@@ -132765,6 +133182,100 @@
    },
    "url": "https://images.unsplash.com/photo-1730267244868-b21f526a4acc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8M0QlMjBwcmludGVkJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTA3ODczM3ww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c74783370c773dcf": {
+   "icerik": {
+    "ana_kutu": [
+     420,
+     340,
+     680,
+     640
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "sıra",
+     "kürsü",
+     "masa",
+     "saat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş parlamento meclis salonu yukarıdan görünüm",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "parlamento haberleri",
+     "siyaset",
+     "meclis"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:250422c45e26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel meclis salonu görüntüsüdür, çocuk ziyareti haberi için çocuk unsuru eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       340,
+       680,
+       640
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a5352726a6b39387",
+    "sha": "7dc9188596041463da4f2c2b"
+   },
+   "t": "2026-11-20T16:32:40+03:00",
+   "teknik": {
+    "doygunluk": 25.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.099,
+    "keskinlik": 1137,
+    "kontrast": 45,
+    "medyan": 140,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1768353086314-9ddfb405a057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZW1wdHklMjBjb3VuY2lsJTIwY2hhbWJlcnxlbnwxfDB8fHwxNzk1MTgxNTUwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "c74a797e2bce7799": {
    "icerik": {
     "ana_kutu": [
@@ -156673,6 +157184,32 @@
      },
      "t": "2026-11-13T09:28:18+03:00"
     },
+    "r1:250422c45e26:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir Alanya evini gösteren bu yapı fotoğrafı, meclisteki çocuk etkinliği haberiyle tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:27+03:00"
+    },
     "r1:55911e9015f3:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -156813,35 +157350,6 @@
       "yasak": []
      },
      "t": "2026-11-13T06:28:00+03:00"
-    },
-    "r1:b29d43268e0b:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın tarihi dokusunu ve belediye korumasındaki geleneksel mimariyi gösterdiği için belgesel konusuna uygun.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 8,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetçi",
-       "kalabalık"
-      ]
-     },
-     "t": "2026-11-12T03:57:15+03:00"
     },
     "r1:b6803a8d01cf:yer": {
      "d": {
@@ -156993,7 +157501,7 @@
     "dh": "76d2d2b7e7eeae26",
     "sha": "eb16e18e9173a2c70c6554ca"
    },
-   "t": "2026-11-20T13:29:34+03:00",
+   "t": "2026-11-20T16:32:27+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -160341,6 +160849,32 @@
      },
      "t": "2026-11-13T09:28:13+03:00"
     },
+    "r1:250422c45e26:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf belediye yakınındaki bir parkı gösteriyor ancak haberdeki meclis toplantısıyla ve çocuklarla ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:27+03:00"
+    },
     "r1:55911e9015f3:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -160473,35 +161007,6 @@
       "yasak": []
      },
      "t": "2026-11-13T06:28:00+03:00"
-    },
-    "r1:b29d43268e0b:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediyenin park tesisi görünüyor ancak belgesel veya zanaat/terzi içeriğini doğrudan yansıtmıyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 7,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetçi",
-       "kalabalık"
-      ]
-     },
-     "t": "2026-11-12T03:57:15+03:00"
     },
     "r1:b6803a8d01cf:yer": {
      "d": {
@@ -160653,7 +161158,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-20T13:29:34+03:00",
+   "t": "2026-11-20T16:32:27+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -163850,6 +164355,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/World_Minimum_Wage_by_Territory_%28Feb_2023%29.png/1280px-World_Minimum_Wage_by_Territory_%28Feb_2023%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f6e8ee907cfde459": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     430,
+     680,
+     660
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "sıra",
+     "kürsü",
+     "masa",
+     "saat"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş parlamento meclis salonu sıralar ve kürsü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "parlamento haberleri",
+     "siyaset",
+     "meclis oturumu"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sağlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:250422c45e26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Meclis salonu gösterilmiştir ancak çocuk unsuru eksiktir ve yabancı bir meclistir.",
+      "gerekli": [
+       {
+        "unsur": "meclis salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       430,
+       680,
+       660
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T16:32:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "89c6d9cb6ed2920f",
+    "sha": "23b9343290c6b0bf4edd36d9"
+   },
+   "t": "2026-11-20T16:32:40+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 1590,
+    "kontrast": 45,
+    "medyan": 116,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1762246433153-f928cc4e234a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjBjb3VuY2lsJTIwY2hhbWJlcnxlbnwxfDB8fHwxNzk1MTgxNTUwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "f6f366199e930cea": {
    "icerik": {
