@@ -6827,6 +6827,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Stages_of_marine_plastic_biodegradation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "09bad763ce99afb2": {
+   "icerik": {
+    "ana_kutu": [
+     110,
+     10,
+     920,
+     840
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "Türk bayrağı",
+     "askeri üniforma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri tören geçişinde dev bir Türk bayrağı taşıyan askerler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "askeri tören",
+     "milli bayram",
+     "resmi geçit"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi parti açıklaması",
+     "belediye haberi",
+     "siyasetçi portresi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b8f260357578:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi bir açıklama ile ilgili, görsel ise askeri bir törene ait, konuyla ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kolluk kuvveti"
+      ]
+     },
+     "t": "2026-11-20T21:00:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "889f9f2c3c440028",
+    "sha": "aad109c815ca581f0f24b395"
+   },
+   "t": "2026-11-20T21:00:49+03:00",
+   "teknik": {
+    "doygunluk": 46.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.308,
+    "keskinlik": 939,
+    "kontrast": 51,
+    "medyan": 83,
+    "parlaklik": 73,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1630405582977-9a1a1e67ab5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHVya2lzaCUyMGZsYWclMjBwb2RpdW0lMjBtaWNyb3Bob25lfGVufDF8MHx8fDE3OTUxOTc2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "09d4395e98e3acc2": {
    "icerik": {
     "ana_kutu": [
@@ -13039,6 +13131,96 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1530417838433-4b24dd3f72d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2hvdG9rYW4lMjBrYXJhdGUlMjBjb21wZXRpdGlvbnxlbnwxfDB8fHwxNzk0NDM2MTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1276450cc62f8c55": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     220,
+     650,
+     690
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "Türk bayrağı",
+     "kol saati"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kalabalık içinde havaya kaldırılmış Türk bayrağı ve yumruk yapmış bir el.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "milli bayram",
+     "kutlama",
+     "toplumsal etkinlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi parti açıklaması",
+     "belediye haberi",
+     "siyasetçi portresi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b8f260357578:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi bir açıklama ile ilgili, ancak görsel sadece genel bir bayrak kutlamasını yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T21:00:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8393b93367676766",
+    "sha": "f731cd725093f5ca6df659cd"
+   },
+   "t": "2026-11-20T21:00:49+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.195,
+    "keskinlik": 309,
+    "kontrast": 82,
+    "medyan": 152,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1742741473278-ff88412b8a93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHVya2lzaCUyMGZsYWclMjBwb2RpdW0lMjBtaWNyb3Bob25lfGVufDF8MHx8fDE3OTUxOTc2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "128efb657a06ff34": {
    "icerik": {
@@ -46958,13 +47140,43 @@
       "yasak": []
      },
      "t": "2026-11-13T00:28:45+03:00"
+    },
+    "r1:b8f260357578:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Ali Çetin yerine farklı bir siyasetçi yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:59:58+03:00"
     }
    },
    "ozet": {
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-18T19:26:51+03:00",
+   "t": "2026-11-20T20:59:58+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
