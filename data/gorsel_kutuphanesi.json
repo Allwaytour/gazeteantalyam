@@ -23867,27 +23867,6 @@
      },
      "t": "2026-11-13T16:06:37+03:00"
     },
-    "r1:24c577389570:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf Antalya veya sıfır atıkla ilgili değil, uluslararası bir iklim ziyaretini gösteriyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:35:44+03:00"
-    },
     "r1:302ea416ccd8:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24080,6 +24059,36 @@
      },
      "t": "2026-11-08T17:37:20+03:00"
     },
+    "r1:e0ee0508d05c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf COP31 veya Antalya ile ilgili değil, Tuvalu'daki bir arazi incelemesini gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "müzakere masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:29:58+03:00"
+    },
     "r1:e11d50673d18:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24175,7 +24184,7 @@
     "dh": "070f0919dbd81b3b",
     "sha": "ccb42fd2d178eb58fbfc804e"
    },
-   "t": "2026-11-18T15:58:44+03:00",
+   "t": "2026-11-20T15:29:58+03:00",
    "teknik": {
     "doygunluk": 21.2,
     "inen": [
@@ -67561,6 +67570,37 @@
      },
      "t": "2026-11-08T16:04:48+03:00"
     },
+    "r1:68c11daf122c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eylemde tutulan pankart haberi destekliyor ancak doğrudan Antalya'daki basın açıklamasına ait değil.",
+      "gerekli": [
+       {
+        "unsur": "açıklama pankartı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       203,
+       930,
+       742
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:32:08+03:00"
+    },
     "r1:cc950ec9a678:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -67626,7 +67666,7 @@
     "dh": "0da3b3231796a79d",
     "sha": "0c79a7c4cad23ce3509fb7da"
    },
-   "t": "2026-11-14T14:39:11+03:00",
+   "t": "2026-11-20T15:32:08+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -109377,6 +109417,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:68c11daf122c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya liman ve sahil görünümü, haberdeki kadın hakları eylemi ve basın açıklamasıyla bağdaşmıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:32:08+03:00"
+    },
     "r1:975ce09b684e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -109412,7 +109473,7 @@
     "dh": "c44023139bcccc2c",
     "sha": "ba98425a82b7c06db404c2f9"
    },
-   "t": "2026-11-10T13:08:02+03:00",
+   "t": "2026-11-20T15:32:08+03:00",
    "teknik": {
     "doygunluk": 22.0,
     "inen": [
@@ -133874,32 +133935,6 @@
      },
      "t": "2026-11-10T22:38:10+03:00"
     },
-    "r1:8352045ce70a:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraftaki kişiler haberin konusu olan bakanlar değil, başka yabancı delegeler.",
-      "gerekli": [
-       {
-        "unsur": "toplanti masasi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": true,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-10T21:09:52+03:00"
-    },
     "r1:91e4f256d5ba:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -134017,6 +134052,41 @@
      },
      "t": "2026-11-20T15:00:19+03:00"
     },
+    "r1:e0ee0508d05c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uluslararası bir zirveyi temsil eden uygun bir konferans ve müzakere masası ortamı sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "müzakere masası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       226,
+       107,
+       786,
+       882
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:29:58+03:00"
+    },
     "r1:e28c712107da:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -134057,7 +134127,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-20T15:00:19+03:00",
+   "t": "2026-11-20T15:29:58+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -140899,6 +140969,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:68c11daf122c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya genel manzara fotoğrafı, kadın platformu eylemiyle ve çağrısıyla doğrudan ilişkili değil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:32:08+03:00"
+    },
     "r1:975ce09b684e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -140934,7 +141025,7 @@
     "dh": "fceceeeee5cfec8c",
     "sha": "f749fb87248028f7b9a873db"
    },
-   "t": "2026-11-10T13:08:02+03:00",
+   "t": "2026-11-20T15:32:08+03:00",
    "teknik": {
     "doygunluk": 23.2,
     "inen": [
@@ -175979,7 +176070,7 @@
    "gosterim_ad": "iklim eylemi pankartı",
    "ilk_kabul": "2026-11-08T11:37:48+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Markus Spiske / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -175998,6 +176089,7 @@
    },
    "konular": [
     "Greenpeace aktivistleri",
+    "açıklama pankartı",
     "el",
     "kalabalık",
     "kalabalık grup",
@@ -176017,7 +176109,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-14T14:39:11+03:00",
+   "son_kabul": "2026-11-20T15:32:08+03:00",
    "url": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMHByb3Rlc3QlMjBiYW5uZXIlMjBzYW5kfGVufDF8MHx8fDE3OTQxMjcwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
