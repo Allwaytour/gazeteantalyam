@@ -19304,6 +19304,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Olive_Oil_Press_Monument_in_Turmus_Ayya%2C_West_Bank%2C_Palestine_01.jpg/1280px-Olive_Oil_Press_Monument_in_Turmus_Ayya%2C_West_Bank%2C_Palestine_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1b037a47c0b2c52a": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     180,
+     842,
+     768
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kırmızı tuğlalı bina",
+     "kule",
+     "amerikan bayrağı",
+     "köprü korkuluğu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı tuğlalı, kuleli ve saatli köy/kasaba belediye binası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yerel yönetim",
+     "belediye binaları",
+     "mimarlık"
+    ],
+    "uygunsuz_baglamlar": [
+     "türkiye yerel haberleri",
+     "serik belediyesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:490e6503ce18:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bina türü olarak yerel yönetim yapısına benziyor olsa da, yabancı bayrak ve mimari nedeniyle Serik haberi için uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "muhtarlık projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2820a668c8ceaf7f",
+    "sha": "70164222ee30614824780dd5"
+   },
+   "t": "2026-11-20T14:29:54+03:00",
+   "teknik": {
+    "doygunluk": 46.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 2864,
+    "kontrast": 46,
+    "medyan": 113,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Village_Hall%2C_Honeoye_Falls%2C_New_York_-_20220306.jpg/1280px-Village_Hall%2C_Honeoye_Falls%2C_New_York_-_20220306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1b0e18366527af22": {
    "icerik": {
     "ana_kutu": [
@@ -30338,6 +30429,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Antalya_Side_Ancient_City_Artifacts.jpg/1280px-Antalya_Side_Ancient_City_Artifacts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2bbcdcaa9716914a": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     735,
+     903
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cam cephe",
+     "sarı bina",
+     "taş döşeme yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern cam girişli ve sarı cepheli bina görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "modern yapılar",
+     "kamu binaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel yönetim",
+     "muhtarlık",
+     "belediye haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:490e6503ce18:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı bir modern yapı, Serik'teki yerel muhtarlık binaları ihalesi için uygun bir görsel değildir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "muhtarlık projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "124c6161e3c378cc",
+    "sha": "0cda4a1ab7cff28b7eeec307"
+   },
+   "t": "2026-11-20T14:29:54+03:00",
+   "teknik": {
+    "doygunluk": 15.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.081,
+    "keskinlik": 2504,
+    "kontrast": 64,
+    "medyan": 123,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Papn%C3%B6veldestrasse_5%2C_Modern%2C_2022_P%C3%A9cs.jpg/1280px-Papn%C3%B6veldestrasse_5%2C_Modern%2C_2022_P%C3%A9cs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2bc19156c8df868c": {
    "ozet": {
     "dh": "1f939bd9451e1ef0",
@@ -38004,6 +38186,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "35d861f23cec45a7": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "stetoskop",
+     "kedi",
+     "askeri üniforma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı iki veteriner bir kediyi muayene ediyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "veterinerlik",
+     "hayvan sağlığı",
+     "kedi tedavisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      195,
+      365,
+      335
+     ],
+     [
+      25,
+      500,
+      395,
+      665
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:73610c95bcaa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki kedi Luna değil, ancak genel kedi tedavisini temsil eden uygun bir arşiv görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kedi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9b168dcd64663079",
+    "sha": "f36a5b1b42977bf62c2b4db5"
+   },
+   "t": "2026-11-20T14:29:20+03:00",
+   "teknik": {
+    "doygunluk": 21.6,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.076,
+    "keskinlik": 1842,
+    "kontrast": 49,
+    "medyan": 143,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Guantanamo_vets_inspect_Pablo%2C_a_cat_at_large%2C_2009_-a.jpg/1280px-Guantanamo_vets_inspect_Pablo%2C_a_cat_at_large%2C_2009_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "35dcb96735f48052": {
    "icerik": {
     "ana_kutu": [
@@ -41130,6 +41407,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%C3%81rp%C3%A1d_Stra%C3%9Fe_20%2C_S%2C_2021_Kisk%C5%91r%C3%B6s.jpg/1280px-%C3%81rp%C3%A1d_Stra%C3%9Fe_20%2C_S%2C_2021_Kisk%C5%91r%C3%B6s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3b5a5965b9792e89": {
+   "ozet": {
+    "dh": "a8383d3f3f7f343f",
+    "sha": "6103db1ccb7b79a9ae2c1a4a"
+   },
+   "t": "2026-11-20T14:29:43+03:00",
+   "teknik": {
+    "doygunluk": 50.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.46,
+    "keskinlik": 1104,
+    "kontrast": 66,
+    "medyan": 61,
+    "parlaklik": 77,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Sunset-belek-senoldemir.jpg/1280px-Sunset-belek-senoldemir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3b73afe19c2eb5ed": {
    "t": "2026-11-08T11:37:57+03:00",
@@ -53841,40 +54139,6 @@
      },
      "t": "2026-11-08T12:04:05+03:00"
     },
-    "r1:c1d4e65fac13:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Kurumun otobüsünü göstermekle birlikte cadde ve çevre düzenlemesi haberiyle doğrudan ilgisizdir.",
-      "gerekli": [
-       {
-        "unsur": "belediye işçileri",
-        "var": false
-       },
-       {
-        "unsur": "cadde",
-        "var": false
-       },
-       {
-        "unsur": "çevre düzenlemesi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T11:40:33+03:00"
-    },
     "r1:c801e6c491fa:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -53974,6 +54238,32 @@
      },
      "t": "2026-11-08T15:16:05+03:00"
     },
+    "r1:dc019753ef03:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Belediye otobüsü görselidir ancak panel haberi için uygun bağlam sağlamamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       86,
+       26,
+       750,
+       786
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:31:18+03:00"
+    },
     "r1:ea11c226870e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -54000,7 +54290,7 @@
     "dh": "73ebf9e8cd406126",
     "sha": "d8931e4eddd003b0aa7478e8"
    },
-   "t": "2026-11-18T13:57:43+03:00",
+   "t": "2026-11-20T14:31:18+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -54112,6 +54402,123 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Asphalt_Paver_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg/1280px-Asphalt_Paver_for_Road_Asphalt_Paving_Odos_Afstralias_Rhodes_4_August_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "505bbf2d38abd893": {
+   "icerik": {
+    "ana_kutu": [
+     342,
+     142,
+     608,
+     545
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "konferans salonu",
+     "panelist masasi",
+     "sandalye",
+     "kamera sehpasi",
+     "sunum ekrani"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir konferans salonunda panel düzenleyen konuşmacılar ve onları izleyen katılımcılar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konferans haberi",
+     "panel haberi",
+     "iklim zirvesi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberi",
+     "spor haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      373,
+      161,
+      574,
+      237
+     ],
+     [
+      375,
+      313,
+      590,
+      390
+     ],
+     [
+      373,
+      452,
+      609,
+      542
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dc019753ef03:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan COP31 panelini ve belediye sunumunu doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "panelist masasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       342,
+       142,
+       608,
+       545
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:31:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7e3e3e9e1424b286",
+    "sha": "fc9cf34d3f6a515b02d254aa"
+   },
+   "t": "2026-11-20T14:31:18+03:00",
+   "teknik": {
+    "doygunluk": 34.9,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.335,
+    "keskinlik": 1400,
+    "kontrast": 63,
+    "medyan": 74,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "/images/kurum/edf2cc2f518c72cf.jpg"
   },
   "50872eb9a041ead1": {
    "icerik": {
@@ -62639,6 +63046,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1712742609432-1e81639d59fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGluZSUyMGZvcmVzdCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0Mjk0MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "5c936fa547485b50": {
+   "icerik": {
+    "ana_kutu": [
+     25,
+     0,
+     892,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kırmızı tuğlalı bina",
+     "sokak lambası",
+     "trafik ışığı",
+     "çöp kutusu",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi kırmızı tuğlalı bir bina ve sokak lambası görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "tarihi binalar",
+     "şehir rehberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel yönetim",
+     "belediye ihalesi",
+     "muhtarlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:490e6503ce18:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı bir ülkedeki tarihi bina, Serik'teki muhtarlık binası ihalesi haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "muhtarlık projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2733302dac88bbb4",
+    "sha": "a14b940ee0f6ba5bfba3dee6"
+   },
+   "t": "2026-11-20T14:29:54+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     500,
+     419
+    ],
+    "karanlik_oran": 0.251,
+    "keskinlik": 5510,
+    "kontrast": 67,
+    "medyan": 93,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/George_Washington_University_President%27s_Office_%28former%29.jpg/1280px-George_Washington_University_President%27s_Office_%28former%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5ca06ba86c3d6685": {
    "icerik": {
@@ -73335,6 +73835,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Defense.gov_News_Photo_990825-N-3443B-001.jpg/1280px-Defense.gov_News_Photo_990825-N-3443B-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6df8f045b8904b07": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "biberon",
+     "kedi",
+     "şişe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri kıyafetli bir kadın küçük bir kediyi biberonla besliyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "veterinerlik",
+     "kedi bakımı",
+     "hayvan hakları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      260,
+      490,
+      570
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:73610c95bcaa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki kedi Luna olmasa da iki aylık tedavi sürecini anlatan temsilî bir kedi bakım fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "kedi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "66666676f6b4d0d4",
+    "sha": "fbbee6ff5464a835b88b4fbc"
+   },
+   "t": "2026-11-20T14:29:20+03:00",
+   "teknik": {
+    "doygunluk": 36.1,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.131,
+    "keskinlik": 766,
+    "kontrast": 60,
+    "medyan": 109,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Vet_Clinic_Cats_DVIDS276621.jpg/1280px-Vet_Clinic_Cats_DVIDS276621.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6e23c693769025f3": {
    "icerik": {
     "ana_kutu": [
@@ -79527,6 +80116,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Railway_line_141%2C_Slovakia.jpg/1280px-Railway_line_141%2C_Slovakia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "773e19a68c4bada5": {
+   "icerik": {
+    "ana_kutu": [
+     278,
+     33,
+     766,
+     951
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "tuğla bina",
+     "pencereler",
+     "çatı kulesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski tip iki katlı tuğla bir bina ve önündeki alan",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "arşiv",
+     "tarihi yapılar"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel yerel haber",
+     "belediye ihalesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:490e6503ce18:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyah-beyaz ve tarihi arşiv fotoğrafı güncel bir belediye ihalesi haberiyle tamamen çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "muhtarlık projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "51496d4d4d29610d",
+    "sha": "c8b9df4573a497aa6cbc96e9"
+   },
+   "t": "2026-11-20T14:29:54+03:00",
+   "teknik": {
+    "doygunluk": 3.0,
+    "inen": [
+     500,
+     419
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 1449,
+    "kontrast": 72,
+    "medyan": 190,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_318e3151e1cc1d38d0056a4f32ed0161.jpg/1280px-Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_318e3151e1cc1d38d0056a4f32ed0161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7760a9b96161f783": {
    "icerik": {
     "ana_kutu": [
@@ -79914,6 +80592,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Buckley_raises_domestic_violence_awareness_with_run-walk_%282952599%29.jpg/1280px-Buckley_raises_domestic_violence_awareness_with_run-walk_%282952599%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "78bfc09e2d938c59": {
+   "icerik": {
+    "ana_kutu": [
+     287,
+     56,
+     725,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sütunlu giriş",
+     "tuğla bina",
+     "pencereler"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski sütunlu ve tuğla cepheli resmi bina",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "arşiv",
+     "tarihi yapılar"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel yerel haber",
+     "belediye ihalesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:490e6503ce18:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ve siyah-beyaz arşiv fotoğrafı, güncel Serik Belediyesi haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "belediye binası",
+        "var": false
+       },
+       {
+        "unsur": "muhtarlık projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:29:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6d551731555d5d5d",
+    "sha": "d288c96cea8fa2c989b9f4b2"
+   },
+   "t": "2026-11-20T14:29:54+03:00",
+   "teknik": {
+    "doygunluk": 4.0,
+    "inen": [
+     500,
+     406
+    ],
+    "karanlik_oran": 0.159,
+    "keskinlik": 1059,
+    "kontrast": 73,
+    "medyan": 192,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_2e3277f0438a9f6dd718c9f20a907ca1.jpg/1280px-Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_2e3277f0438a9f6dd718c9f20a907ca1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "78cdbf3b6a9f8455": {
    "icerik": {
@@ -102968,6 +103735,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg/1280px-Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "99cadf78a941a7fa": {
+   "icerik": {
+    "ana_kutu": [
+     238,
+     282,
+     783,
+     737
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "beton zemin",
+     "yavru kedi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beton zemin üzerinde oturan zayıf yavru kedi yakın planı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sokak hayvanları",
+     "yardım bekleyen kediler",
+     "hayvan sağlığı"
+    ],
+    "uygunsuz_baglamlar": [
+     "mutlu evcil hayvanlar",
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:73610c95bcaa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kedinin eski sağlığına kavuştuğunu belirtirken, bu karedeki kedi hasta ve bakımsız görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "kedi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       238,
+       282,
+       783,
+       737
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yangın",
+       "alev",
+       "yaralı kedi"
+      ]
+     },
+     "t": "2026-11-20T14:29:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f17456e2771f126",
+    "sha": "06b633aae1e79de8813188f6"
+   },
+   "t": "2026-11-20T14:29:10+03:00",
+   "teknik": {
+    "doygunluk": 10.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.022,
+    "keskinlik": 2876,
+    "kontrast": 41,
+    "medyan": 178,
+    "parlaklik": 167,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Cat_rescued_by_GPA_02.jpg/1280px-Cat_rescued_by_GPA_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "99d7b9213e9e32ee": {
    "icerik": {
@@ -132465,40 +133327,26 @@
      },
      "t": "2026-11-13T16:05:01+03:00"
     },
-    "r1:c310d6efe1d1:konu": {
+    "r1:dc019753ef03:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
+      "baska_olay_sanilir": true,
       "belirli_kisi_isletme": false,
-      "gerekce": "Toplantı masasında oturan delegeler, enerji zirvesi haberi için uygun temsilî ortam sunar.",
-      "gerekli": [
-       {
-        "unsur": "konferans salonu",
-        "var": true
-       },
-       {
-        "unsur": "zirve katilimcilari",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       245,
-       114,
-       788,
-       868
-      ],
+      "gerekce": "Farklı bir ülkeye ve toplantıya ait yabancı delegelerin görselidir, haberle ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 9,
+      "uygunluk": 1,
       "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": true,
       "yanlis_spor": false,
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-09T17:05:32+03:00"
+     "t": "2026-11-20T14:31:18+03:00"
     },
     "r1:e28c712107da:konu": {
      "d": {
@@ -132540,7 +133388,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-19T13:57:34+03:00",
+   "t": "2026-11-20T14:31:18+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -145693,32 +146541,6 @@
      },
      "t": "2026-11-08T12:40:34+03:00"
     },
-    "r1:d6d2afc555e0:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya Büyükşehir Belediyesi'ne ait otobüs yer alıyor ancak bisiklet kursu haberiyle doğrudan bir bağı bulunmuyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       215,
-       40,
-       860,
-       915
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:38:57+03:00"
-    },
     "r1:d707ecf52e9d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -145744,6 +146566,32 @@
       "yasak": []
      },
      "t": "2026-11-08T15:16:05+03:00"
+    },
+    "r1:dc019753ef03:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Belediyenin otobüslerinden birini gösterse de iklim ve su yönetimi paneli haberiyle doğrudan ilişkili değildir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       219,
+       41,
+       854,
+       919
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:31:18+03:00"
     },
     "r1:ea11c226870e:ozne_kurum": {
      "d": {
@@ -145771,7 +146619,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-20T13:29:34+03:00",
+   "t": "2026-11-20T14:31:18+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -158960,6 +159808,101 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Student_Book_Art_Exhibition_%285404912335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "f2f5e320ada6f60e": {
+   "icerik": {
+    "ana_kutu": [
+     235,
+     426,
+     448,
+     617
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "beton zemin",
+     "yavru kedi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beton zeminde duran zayıf ve tüyleri dökülmüş yavru kedi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sokak hayvanları haberleri",
+     "hayvan hakları",
+     "kurtarılan hayvanlar"
+    ],
+    "uygunsuz_baglamlar": [
+     "saglikli evcil hayvan haberleri",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:73610c95bcaa:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde kedinin iyileşmiş hali anlatılıyor ancak fotoğrafta kedi oldukça zayıf ve yaralı/hasta görünüyor, çelişki yaratır.",
+      "gerekli": [
+       {
+        "unsur": "kedi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       235,
+       426,
+       448,
+       617
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "yangın",
+       "alev",
+       "yaralı kedi"
+      ]
+     },
+     "t": "2026-11-20T14:29:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f2796f63f0f4f09",
+    "sha": "288fa45a00227d76ea1c40aa"
+   },
+   "t": "2026-11-20T14:29:10+03:00",
+   "teknik": {
+    "doygunluk": 8.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.008,
+    "keskinlik": 2592,
+    "kontrast": 35,
+    "medyan": 178,
+    "parlaklik": 174,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cat_rescued_by_GPA_01.jpg/1280px-Cat_rescued_by_GPA_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f30a807093d2e764": {
    "icerik": {
@@ -173129,6 +174072,73 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "505bbf2d38abd893": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Bir konferans salonunda panel düzenleyen konuşmacılar ve onları izleyen katılımcılar.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-20T14:31:18+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/buyuksehir-belediyesi-cop31e-paneller-ve-sehir-etkinlikleriyle-katki-sundu"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kamera sehpasi",
+    "konferans salonu",
+    "panelist masasi",
+    "sandalye",
+    "sunum ekrani"
+   ],
+   "kucuk": "/images/kurum/edf2cc2f518c72cf.jpg",
+   "kullanilabilir": [
+    "konferans haberi",
+    "panel haberi",
+    "iklim zirvesi haberi"
+   ],
+   "kullanilamaz": [
+    "magazin haberi",
+    "spor haberi",
+    "kaza haberi",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-20T14:31:18+03:00",
+   "url": "/images/kurum/edf2cc2f518c72cf.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "508c6baffd5be284": {
    "alt_tur": "nesne",
