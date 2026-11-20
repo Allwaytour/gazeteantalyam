@@ -2094,6 +2094,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Under-sink_hot_water_boiler_and_tap_unit.jpg/1280px-Under-sink_hot_water_boiler_and_tap_unit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "02244ecfacbbc5c9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "arı kovanı",
+     "çim",
+     "tarım alanı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil arazide düzenli dizilmiş arı kovanları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "arıcılık haberi",
+     "kırsal kalkınma"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5960b3c79a27:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım alanı ve kovanlar görülüyor ancak fotoğraf eski tarihli arşiv karesidir.",
+      "gerekli": [
+       {
+        "unsur": "tarım alanı",
+        "var": true
+       },
+       {
+        "unsur": "ürün",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:30:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "49430f0d1545032f",
+    "sha": "3f2ed001ca4e937219f12653"
+   },
+   "t": "2026-11-20T11:30:07+03:00",
+   "teknik": {
+    "doygunluk": 53.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.025,
+    "keskinlik": 5367,
+    "kontrast": 39,
+    "medyan": 129,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Antalya_%28provincia%29_1998_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "023900f9291aa5ee": {
    "icerik": {
     "ana_kutu": [
@@ -24916,6 +25012,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:51fab29f53bf:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel bahçesinden bir detay sunuyor ancak genel bina görünümü eksik.",
+      "gerekli": [
+       {
+        "unsur": "tatil köyü dış görünümü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       115,
+       966,
+       864
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:29:31+03:00"
+    },
     "r1:7a7ebccd1acc:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -24947,7 +25074,7 @@
     "dh": "484c58d0d109470f",
     "sha": "66e4b7827980a51c6499f6a7"
    },
-   "t": "2026-11-14T14:40:00+03:00",
+   "t": "2026-11-20T11:29:31+03:00",
    "teknik": {
     "doygunluk": 43.6,
     "inen": [
@@ -33863,6 +33990,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Natural_Mushroom_fry.jpg/1280px-Natural_Mushroom_fry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "30d7ed46e900c36b": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "arı kovanı",
+     "çadır",
+     "inek",
+     "ağaç",
+     "tarım alanı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal alanda çadırlar, arı kovanları ve otlayan bir inek",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "köy yaşamı",
+     "hayvancılık"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:5960b3c79a27:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kırsal tarım alanı ve kovanlar mevcut, ancak dönem olarak eski bir arşiv fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "tarım alanı",
+        "var": true
+       },
+       {
+        "unsur": "ürün",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:30:07+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "390c1d07a1458d86",
+    "sha": "fb60e793d9ee5db19e16b03a"
+   },
+   "t": "2026-11-20T11:30:07+03:00",
+   "teknik": {
+    "doygunluk": 40.3,
+    "inen": [
+     500,
+     339
+    ],
+    "karanlik_oran": 0.111,
+    "keskinlik": 4554,
+    "kontrast": 52,
+    "medyan": 140,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Antalya_%28provincia%29_1998_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "30f2262a6cf35875": {
    "t": "2026-11-08T14:40:09+03:00",
@@ -55422,6 +55647,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Iceland_Air_Police_operations_%286392393%29.jpg/1280px-Iceland_Air_Police_operations_%286392393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "53f3dacb9d3a58d1": {
+   "icerik": {
+    "ana_kutu": [
+     103,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap kirişli bina",
+     "pencereler",
+     "çatı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap kirişli ve beyaz dolgulu tarihi cepheye sahip eski tip yapı dış görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "tarihi yapı haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm yatırımları",
+     "otel haberleri",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51fab29f53bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ve eski bir yapı görünümünde, otel veya tatil köyü niteliği taşımıyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina"
+      ]
+     },
+     "t": "2026-11-20T11:29:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "db888393e7555123",
+    "sha": "58b6ecc0201ebefd9945b5d2"
+   },
+   "t": "2026-11-20T11:29:25+03:00",
+   "teknik": {
+    "doygunluk": 17.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.247,
+    "keskinlik": 3406,
+    "kontrast": 56,
+    "medyan": 109,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/LeHavre_HotelDubocageDeBliville_exterior-side.jpg/1280px-LeHavre_HotelDubocageDeBliville_exterior-side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "53f48ed2e36a0a22": {
    "t": "2026-11-08T12:40:11+03:00",
    "teknik": {
@@ -70500,6 +70813,101 @@
    },
    "url": "https://images.unsplash.com/photo-1596125160970-6f02eeba00d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8aG9seSUyMHF1cmFuJTIwYm9vayUyMGFyYWJpY3xlbnwxfDB8fHwxNzk1MDk1MDUzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "6c795b2ad9c58bfd": {
+   "icerik": {
+    "ana_kutu": [
+     203,
+     70,
+     734,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otel binası",
+     "ahşap yapı",
+     "ağaç",
+     "çim zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaç dallarının arkasından görünen kırmızı cepheli iki katlı ahşap otel binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "otel yatırımları",
+     "turizm haberleri",
+     "tatil köyü haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51fab29f53bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel binası görünüyor ancak temsilî bir yapı ve yabancı menşeli.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       203,
+       70,
+       734,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina"
+      ]
+     },
+     "t": "2026-11-20T11:29:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ac4e64544c4ffe0b",
+    "sha": "876eac1338f8bf8f9db31046"
+   },
+   "t": "2026-11-20T11:29:25+03:00",
+   "teknik": {
+    "doygunluk": 24.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.138,
+    "keskinlik": 6691,
+    "kontrast": 58,
+    "medyan": 113,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fort_Peck_Hotel_exterior_side.jpg/1280px-Fort_Peck_Hotel_exterior_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6c9db9118d677648": {
    "t": "2026-11-08T14:37:51+03:00",
    "teknik": {
@@ -77069,6 +77477,37 @@
      },
      "t": "2026-11-16T11:12:52+03:00"
     },
+    "r1:51fab29f53bf:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel tesisinin dış görünümü haber içeriğine uygun.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       497,
+       668,
+       807
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:29:31+03:00"
+    },
     "r1:7a7ebccd1acc:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -77100,7 +77539,7 @@
     "dh": "87179b0907874759",
     "sha": "0f3ffaf3661eabe8b3bdb080"
    },
-   "t": "2026-11-16T11:12:52+03:00",
+   "t": "2026-11-20T11:29:31+03:00",
    "teknik": {
     "doygunluk": 44.7,
     "inen": [
@@ -86268,6 +86707,32 @@
      },
      "t": "2026-11-16T11:12:52+03:00"
     },
+    "r1:51fab29f53bf:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen ilçenin antik kalıntılarını gösteriyor, otel yatırımı haberi için yetersiz ve ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "otel binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:29:25+03:00"
+    },
     "r1:7759cff62e7e:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -86396,7 +86861,7 @@
     "dh": "9e9bb96d6dd7c3ed",
     "sha": "806b02bddaa3e3886b7dc4cd"
    },
-   "t": "2026-11-17T22:45:49+03:00",
+   "t": "2026-11-20T11:29:25+03:00",
    "teknik": {
     "doygunluk": 20.7,
     "inen": [
@@ -97915,6 +98380,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1738835934988-ed0d238e8299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8a2FyYXRlJTIwdG91cm5hbWVudCUyMG1hdGNofGVufDF8MHx8fDE3OTQ0MzYxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "95bbf16013cb9094": {
+   "icerik": {
+    "ana_kutu": [
+     392,
+     285,
+     623,
+     686
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "otel binası",
+     "kumsal",
+     "hasır şemsiyeler",
+     "palmiye",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsalda yer alan çok katlı otel kompleksi ve şemsiyeler.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil haberleri",
+     "otel yatırımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "maç"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51fab29f53bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsilî bir tatil köyü ve otel dış görünümü sunuyor ancak yabancı bir sahil.",
+      "gerekli": [
+       {
+        "unsur": "tatil köyü dış görünümü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       392,
+       285,
+       623,
+       686
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:29:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2606c72211c60d09",
+    "sha": "98a45059084ad9d86911c6c5"
+   },
+   "t": "2026-11-20T11:29:25+03:00",
+   "teknik": {
+    "doygunluk": 18.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.055,
+    "keskinlik": 1710,
+    "kontrast": 54,
+    "medyan": 168,
+    "parlaklik": 165,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/One_side_of_Chateau_Beach_Resort_Kenting.jpg/1280px-One_side_of_Chateau_Beach_Resort_Kenting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "95ca46bd6331867f": {
    "icerik": {
@@ -125881,6 +126440,100 @@
     "s": "t1"
    },
    "url": "/images/kurum/8f2b6887ea021d3a.jpg"
+  },
+  "c2c94a0a23d102de": {
+   "icerik": {
+    "ana_kutu": [
+     396,
+     276,
+     646,
+     584
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "havuz",
+     "palmiyeler",
+     "kumsal",
+     "deniz",
+     "tatil köyü binaları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kumsala kıyısı olan havuzlu ve ağaçlıklı büyük tatil köyünün havadan görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil köyü yatırımları",
+     "otel haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:51fab29f53bf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsilî tatil köyü dış görünümü için uygun bir havadan tesis karesi.",
+      "gerekli": [
+       {
+        "unsur": "tatil köyü dış görünümü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       396,
+       276,
+       646,
+       584
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T11:29:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3171c69ec16723a7",
+    "sha": "6e1a73df13e62f074b197fb0"
+   },
+   "t": "2026-11-20T11:29:25+03:00",
+   "teknik": {
+    "doygunluk": 42.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.163,
+    "keskinlik": 3743,
+    "kontrast": 63,
+    "medyan": 125,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/La_Campagne_Tropicana_Beach_Resort_002.jpg/1280px-La_Campagne_Tropicana_Beach_Resort_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c2da8088a450d51d": {
    "icerik": {
@@ -171626,6 +172279,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T16:06:00+03:00",
    "url": "https://images.unsplash.com/photo-1591586116988-62fe65164f8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjB2ZWdldGFibGVzJTIwaW4lMjBjcmF0ZXN8ZW58MXwwfHx8MTc5NDE0MzE1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "76297b297b4f39c6": {
+   "alt_tur": "yer",
+   "boyut": [
+    4608,
+    3072
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Peyzajlı yürüyüş yolu ve otel/bina görünümü",
+   "gosterim_ad": "Manavgat",
+   "ilk_kabul": "2026-11-20T11:29:31+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "edykbo / Wikimedia Commons (CC BY 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 3.0",
+    "sahibi": "edykbo",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:EUPHORIA_PALM_BEACH_5_(2015)_-_panoramio_(10).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": [
+     {
+      "ad": "Manavgat",
+      "qid": "Q81643"
+     }
+    ]
+   },
+   "konular": [
+    "bina",
+    "otel binası",
+    "palmiye",
+    "yürüyüş yolu",
+    "çam ağacı",
+    "çim alan"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg/500px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "adliye haberi",
+    "hukuk haberi"
+   ],
+   "notr_portre": false,
+   "qid": "Q81643",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "yer_genel",
+   "son_kabul": "2026-11-20T11:29:31+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
