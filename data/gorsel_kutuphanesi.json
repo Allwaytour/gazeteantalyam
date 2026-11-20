@@ -8913,6 +8913,35 @@
      },
      "t": "2026-11-19T15:57:38+03:00"
     },
+    "r1:1bc047feabed:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir adliye davası ile ilgilidir, ancak fotoğrafta sadece konut binaları görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şüpheli yüzleri",
+       "maktulün fotoğrafı"
+      ]
+     },
+     "t": "2026-11-20T18:31:49+03:00"
+    },
     "r1:3c36eb2c6a9f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9114,7 +9143,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-20T18:01:45+03:00",
+   "t": "2026-11-20T18:31:49+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -16597,6 +16626,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg/1280px-Interior_and_Local_Government_Secretary_Ismael_%E2%80%9CMike%E2%80%9D_Sueno_during_a_press_briefing_in_Malaca%C3%B1an_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "17d7dee40b173954": {
+   "ozet": {
+    "dh": "14080d2616240800",
+    "sha": "4f991c5f8dc2b6d69365605c"
+   },
+   "t": "2026-11-20T18:30:37+03:00",
+   "teknik": {
+    "doygunluk": 7.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.979,
+    "keskinlik": 204,
+    "kontrast": 10,
+    "medyan": 1,
+    "parlaklik": 3,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1786644520342-56d03170875e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVkJTIwY3Jlc2NlbnQlMjBhaWQlMjBib3h8ZW58MXwwfHx8MTc5NTE4ODYzNHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "17ee97d8c1aebe78": {
    "icerik": {
     "ana_kutu": [
@@ -19972,6 +20022,108 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1513091250092-b06c2b7981bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8YmFieSUyMGNsb3RoZXMlMjB0aW55JTIwc2hvZXN8ZW58MXwwfHx8MTc5NDE0MDIwMXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1c212b99f29e46db": {
+   "icerik": {
+    "ana_kutu": [
+     265,
+     249,
+     1000,
+     621
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "yardım kolisi",
+     "çocuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir çocuk başının üzerinde Kızılay logolu yardım kolisi taşıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yardım kampanyası haberleri",
+     "gıda dağıtımı haberleri",
+     "sosyal yardımlar"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberleri",
+     "spor müsabakaları",
+     "ekonomi analizleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      495,
+      381,
+      610,
+      466
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:bc33556a6194:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kızılay kolisi ve amblemi net şekilde görülüyor, yardım faaliyetini temsil ediyor.",
+      "gerekli": [
+       {
+        "unsur": "Kızılay amblemi",
+        "var": true
+       },
+       {
+        "unsur": "yardım kolisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       265,
+       249,
+       1000,
+       621
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T18:30:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "99230f1ca4a5a426",
+    "sha": "0bdfd7a816831a980fa0ec3c"
+   },
+   "t": "2026-11-20T18:30:47+03:00",
+   "teknik": {
+    "doygunluk": 22.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.09,
+    "keskinlik": 789,
+    "kontrast": 71,
+    "medyan": 160,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2013_08_04_Afgoye_Food_Dist_H.jpg_%289440152691%29.jpg/1280px-2013_08_04_Afgoye_Food_Dist_H.jpg_%289440152691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1cdc6d79c039b8a5": {
    "icerik": {
@@ -118972,6 +119124,35 @@
      },
      "t": "2026-11-19T15:57:54+03:00"
     },
+    "r1:1bc047feabed:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yangın görüntüsü, dava haberiyle tamamen alakasızdır ve başka bir olay sanılmasına neden olur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "şüpheli yüzleri",
+       "maktulün fotoğrafı"
+      ]
+     },
+     "t": "2026-11-20T18:31:49+03:00"
+    },
     "r1:37bf1222e607:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -119255,7 +119436,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-20T18:01:45+03:00",
+   "t": "2026-11-20T18:31:49+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -120726,15 +120907,15 @@
      },
      "t": "2026-11-19T15:57:55+03:00"
     },
-    "r1:37bf1222e607:konu": {
+    "r1:1bc047feabed:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Haber adliye davası ile ilgili, görsel ise genel bir ofis bina cephesi gösteriyor, adliye binası değil.",
+      "gerekce": "Modern bir ofis binası detayı, adliye binası gerekliliğini karşılamaz ve haberle ilgisizdir.",
       "gerekli": [
        {
-        "unsur": "adliye binasi",
+        "unsur": "adliye binası",
         "var": false
        }
       ],
@@ -120742,15 +120923,18 @@
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 1,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
       "yanlis_spor": false,
       "yanlis_takim": false,
-      "yasak": []
+      "yasak": [
+       "şüpheli yüzleri",
+       "maktulün fotoğrafı"
+      ]
      },
-     "t": "2026-11-15T14:11:13+03:00"
+     "t": "2026-11-20T18:31:49+03:00"
     },
     "r1:380235b7bffa:konu": {
      "d": {
@@ -121041,7 +121225,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-20T18:01:45+03:00",
+   "t": "2026-11-20T18:31:49+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -131443,6 +131627,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg/1280px-Kemer%2C_Antalya%2C_Turkey_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c3a09282849f3d1b": {
+   "ozet": {
+    "dh": "0e060e4e460e0630",
+    "sha": "7ffc75146054306ccfea24e4"
+   },
+   "t": "2026-11-20T18:30:36+03:00",
+   "teknik": {
+    "doygunluk": 5.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.868,
+    "keskinlik": 516,
+    "kontrast": 56,
+    "medyan": 7,
+    "parlaklik": 29,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1619794555233-e563edf91173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cmVkJTIwY3Jlc2NlbnQlMjBhaWQlMjBib3h8ZW58MXwwfHx8MTc5NTE4ODYzNHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c4286d7aa4ffb7bd": {
    "icerik": {
@@ -147853,6 +148058,109 @@
     "s": "t1"
    },
    "url": "/images/kurum/e4850a095286afbb.jpg"
+  },
+  "ddb6317e7e44c2ae": {
+   "icerik": {
+    "ana_kutu": [
+     38,
+     510,
+     1000,
+     821
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "yardım kolisi",
+     "görevli yeleği",
+     "sıra bekleyen insanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kızılay görevlisi sıradaki kişilere yardım kolisi dağıtıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yardım kampanyası haberleri",
+     "gıda dağıtımı haberleri",
+     "sosyal yardımlar"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin haberleri",
+     "spor müsabakaları",
+     "ekonomi analizleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      368,
+      517,
+      461,
+      608
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:bc33556a6194:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Kızılay amblemi ve yardım kolisi görülüyor ancak başka bir ülkedeki yardım faaliyetine ait.",
+      "gerekli": [
+       {
+        "unsur": "Kızılay amblemi",
+        "var": true
+       },
+       {
+        "unsur": "yardım kolisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       38,
+       510,
+       1000,
+       821
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T18:30:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "18f9c393c6c67530",
+    "sha": "47f1baba0ad2efdcccb42b47"
+   },
+   "t": "2026-11-20T18:30:47+03:00",
+   "teknik": {
+    "doygunluk": 16.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.061,
+    "keskinlik": 1455,
+    "kontrast": 67,
+    "medyan": 156,
+    "parlaklik": 161,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2013_08_04_Afgoye_Food_Dist_M.jpg_%289440157661%29.jpg/1280px-2013_08_04_Afgoye_Food_Dist_M.jpg_%289440157661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ddc60231f3363a10": {
    "icerik": {
