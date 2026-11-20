@@ -20383,6 +20383,45 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:19ecd5e7b14d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müze galerisinde sergilenen büyük tabloyu inceleyen ziyaretçiler, resim sergisi haberi için oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "resim sergisi",
+        "var": true
+       },
+       {
+        "unsur": "tablolar",
+        "var": true
+       },
+       {
+        "unsur": "sanat galerisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       223,
+       296,
+       612,
+       698
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:07:26+03:00"
+    },
     "r1:e76c06fa730a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -20423,7 +20462,7 @@
     "dh": "684c6cccccc9e9c1",
     "sha": "381a090fc3b4c4de542b16fe"
    },
-   "t": "2026-11-15T12:11:34+03:00",
+   "t": "2026-11-20T12:07:26+03:00",
    "teknik": {
     "doygunluk": 36.6,
     "inen": [
@@ -30265,6 +30304,107 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Seattle_-_Liberty_Building_01.jpg/1280px-Seattle_-_Liberty_Building_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2bda5a008d9c154a": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     840,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tablo",
+     "duvar",
+     "tavan lambası",
+     "sergi alanı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Farklı tabloların sergilendiği geniş ve modern bir sanat galerisi iç mekan görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat sergisi",
+     "galeri açılışı",
+     "kültür sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:19ecd5e7b14d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern bir sanat galerisinde sergilenen çeşitli tabloları gösterdiği için sergi haberiyle tam uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "resim sergisi",
+        "var": true
+       },
+       {
+        "unsur": "tablolar",
+        "var": true
+       },
+       {
+        "unsur": "sanat galerisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       300,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:07:26+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f4c18313a3330321",
+    "sha": "782c2039eb41979c47fc4dcd"
+   },
+   "t": "2026-11-20T12:07:26+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.326,
+    "keskinlik": 1000,
+    "kontrast": 67,
+    "medyan": 69,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1743119638006-a01d4625745d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGFpbnRpbmclMjBleGhpYml0aW9ufGVufDF8MHx8fDE3OTUxNjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "2bf28adefa9f3878": {
    "icerik": {
@@ -57502,6 +57642,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Village_of_Solak.jpg/1280px-Village_of_Solak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "55be7286a4d93c0b": {
+   "icerik": {
+    "ana_kutu": [
+     262,
+     79,
+     804,
+     911
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tren vagonu",
+     "vinç",
+     "metal parçalar",
+     "raflar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapali alanda restorasyon veya insaat asamasindaki bir tren vagonu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "demiryolu",
+     "restorasyon",
+     "muze"
+    ],
+    "uygunsuz_baglamlar": [
+     "inşaat ihalesi",
+     "konut projesi",
+     "güncel politika"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a7d294ee082:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bina ya da inşaat ihalesi yerine tren vagonu görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "inşaat projesi",
+        "var": false
+       },
+       {
+        "unsur": "bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:08:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3db4b0b4f4e4e2dc",
+    "sha": "6af38dc9b527d878d40c0d67"
+   },
+   "t": "2026-11-20T12:08:16+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     500,
+     321
+    ],
+    "karanlik_oran": 0.312,
+    "keskinlik": 2043,
+    "kontrast": 66,
+    "medyan": 88,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GWR_County_Class_No._1014_%27County_of_Glamorgan%27_tender_replica_under_construction_at_the_Didcot_Railway_Centre_-_August_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "55d3ef53df29b4e5": {
    "icerik": {
     "ana_kutu": [
@@ -66049,6 +66281,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadrian_S_Gate_Antalya_%28165223475%29.jpeg/1280px-Hadrian_S_Gate_Antalya_%28165223475%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6400b3bbd547fd93": {
+   "icerik": {
+    "ana_kutu": [
+     320,
+     195,
+     690,
+     890
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "iş makinesi",
+     "bina",
+     "deniz",
+     "çayır",
+     "iskele"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kenarında binalar, şantiye alanı ve iş makinesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "imar haberi",
+     "şantiye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "sanat haberi",
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a7d294ee082:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta inşaat alanı ve binalar görülüyor ancak ihale haberini doğrudan temsil eden spesifik bir yapı yok.",
+      "gerekli": [
+       {
+        "unsur": "inşaat projesi",
+        "var": true
+       },
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       320,
+       195,
+       690,
+       890
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:08:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0733b1c2cc0c061e",
+    "sha": "7c4a6aa637dff341961fa48c"
+   },
+   "t": "2026-11-20T12:08:16+03:00",
+   "teknik": {
+    "doygunluk": 10.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.151,
+    "keskinlik": 2522,
+    "kontrast": 71,
+    "medyan": 132,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Constructions_at_the_channel_-_panoramio.jpg/1280px-Constructions_at_the_channel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "640736954e50bf8b": {
    "icerik": {
@@ -78433,6 +78763,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/TechCrunch_Disrupt_Berlin_2018_%2846066632272%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2846066632272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "77dcb4da51097d0d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kule vinç",
+     "inşaat yapısı",
+     "iskele"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada yükselen kule vinç ve inşaat yapısı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "inşaat",
+     "konut projesi",
+     "müteahhitlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kültür sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a7d294ee082:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İnşaat projesi ve kule vinç görüntüsü ihale haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "inşaat projesi",
+        "var": true
+       },
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:08:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "06060c1c26a6c6c6",
+    "sha": "d4ae47130a73d624e9c2c52e"
+   },
+   "t": "2026-11-20T12:08:16+03:00",
+   "teknik": {
+    "doygunluk": 28.9,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.046,
+    "keskinlik": 1992,
+    "kontrast": 48,
+    "medyan": 186,
+    "parlaklik": 171,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1651090430988-ac56ec7608cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwdGVuZGVyfGVufDF8MHx8fDE3OTUxNjU2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "784732d19c5a355e": {
    "t": "2026-11-08T13:41:05+03:00",
@@ -120546,6 +120972,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cemil_Tugay_during_the_Meslek_Fabrikas%C4%B1_protest.jpg/1280px-Cemil_Tugay_during_the_Meslek_Fabrikas%C4%B1_protest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b7f668461bd41542": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     750,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "gemi",
+     "vinç",
+     "nehir",
+     "şamandıra",
+     "köprü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir üzerinde seyreden Amerikan Sahil Güvenlik inşaat ve bakım gemisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "gemi haberi",
+     "denizcilik haberi",
+     "sahil güvenlik haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "gayrimenkul ihalesi",
+     "inşaat ihalesi",
+     "yerel emlak haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a7d294ee082:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yabancı bir sahil güvenlik gemisi var, Antalya'daki gayrimenkul ihalesiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "inşaat projesi",
+        "var": false
+       },
+       {
+        "unsur": "bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:08:09+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3f3b19e1b0a00116",
+    "sha": "7aefc7db0250cccd84bc20dd"
+   },
+   "t": "2026-11-20T12:08:16+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     500,
+     300
+    ],
+    "karanlik_oran": 0.088,
+    "keskinlik": 2123,
+    "kontrast": 62,
+    "medyan": 193,
+    "parlaklik": 162,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Coast_Guard_Cutter_Sledge_sets_buoy_in_Potomac_River.jpg/1280px-Coast_Guard_Cutter_Sledge_sets_buoy_in_Potomac_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b83bf35a3c66c10b": {
    "icerik": {
     "ana_kutu": [
@@ -132376,6 +132895,37 @@
     ]
    },
    "iliski": {
+    "r1:19ecd5e7b14d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Klasik bir tablo görselidir, ancak güncel sergi haberi için dönemsel olarak uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "tablolar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:07:26+03:00"
+    },
     "r1:3507c7656bb8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -132453,7 +133003,7 @@
     "dh": "8dc98b8f8e4ba723",
     "sha": "4cb8b13a85a5302796f47d54"
    },
-   "t": "2026-11-13T17:02:39+03:00",
+   "t": "2026-11-20T12:07:26+03:00",
    "teknik": {
     "doygunluk": 27.1,
     "inen": [
@@ -133470,6 +134020,36 @@
      },
      "t": "2026-11-18T12:27:01+03:00"
     },
+    "r1:83b9bec4752a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta İngilizce yazı bulunuyor ve atlı polisler yerine yabancı bir trafik detayı yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "atli polis",
+        "var": false
+       },
+       {
+        "unsur": "polis ekibi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:07:00+03:00"
+    },
     "r1:b18e7b775ac4:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -133567,7 +134147,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-18T12:27:01+03:00",
+   "t": "2026-11-20T12:07:00+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -138274,6 +138854,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Last_mile_irrigation-_Pipe_to_field_in_Raichur%2C_Karnataka%2C_India.jpg/1280px-Last_mile_irrigation-_Pipe_to_field_in_Raichur%2C_Karnataka%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d7504af3fb0c9607": {
+   "icerik": {
+    "ana_kutu": [
+     212,
+     62,
+     853,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "damperli kamyon",
+     "iş makinesi",
+     "bariyer",
+     "bina kalıntısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şantiye alanında kamyon ve işçiler",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat",
+     "yıkım",
+     "şantiye"
+    ],
+    "uygunsuz_baglamlar": [
+     "açılış töreni",
+     "siyaset",
+     "imza töreni"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9a7d294ee082:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Şantiye ortamı ve inşaat aracı bulunuyor ancak yıkım görüntüsü tam ihale konseptini yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "inşaat projesi",
+        "var": true
+       },
+       {
+        "unsur": "bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       212,
+       62,
+       853,
+       946
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:08:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9830d0d2309c2e2f",
+    "sha": "29308c880bb7c4618d74d474"
+   },
+   "t": "2026-11-20T12:08:16+03:00",
+   "teknik": {
+    "doygunluk": 44.1,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.231,
+    "keskinlik": 2067,
+    "kontrast": 65,
+    "medyan": 106,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1753496245717-7953dd95812b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Y29uc3RydWN0aW9uJTIwdGVuZGVyfGVufDF8MHx8fDE3OTUxNjU2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "d7682f1b5e58e6d6": {
    "icerik": {
@@ -163995,6 +164672,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:19ecd5e7b14d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bir sanat sergisi afişini göstermektedir, ancak sergi içi atmosferi yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       198,
+       305,
+       735,
+       680
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T12:07:26+03:00"
+    },
     "r1:3507c7656bb8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -164056,7 +164759,7 @@
     "dh": "1d0f2b2b2b2337cd",
     "sha": "05bfb95438e5cda78c63db1e"
    },
-   "t": "2026-11-13T17:02:39+03:00",
+   "t": "2026-11-20T12:07:26+03:00",
    "teknik": {
     "doygunluk": 27.2,
     "inen": [
@@ -168487,6 +169190,70 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "2bda5a008d9c154a": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4000,
+    2667
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Farklı tabloların sergilendiği geniş ve modern bir sanat galerisi iç mekan görünümü.",
+   "gosterim_ad": "sanat sergisi",
+   "ilk_kabul": "2026-11-20T12:07:26+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Spencer Chow / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Spencer Chow",
+    "sayfa": "https://unsplash.com/photos/an-art-gallery-showcases-various-paintings-on-display-DDqocLNZ8J8"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "duvar",
+    "resim sergisi",
+    "sanat galerisi",
+    "sergi alanı",
+    "tablo",
+    "tablolar",
+    "tavan lambası"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1743119638006-a01d4625745d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGFpbnRpbmclMjBleGhpYml0aW9ufGVufDF8MHx8fDE3OTUxNjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "sanat sergisi",
+    "galeri açılışı",
+    "kültür sanat haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-20T12:07:26+03:00",
+   "url": "https://images.unsplash.com/photo-1743119638006-a01d4625745d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGFpbnRpbmclMjBleGhpYml0aW9ufGVufDF8MHx8fDE3OTUxNjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "2bfc2db7fbc3ff00": {
    "alt_tur": "nesne",
    "boyut": [
@@ -172845,6 +173612,68 @@
     "detay"
    ],
    "yalniz_ayni_olay": true
+  },
+  "77dcb4da51097d0d": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Açık havada yükselen kule vinç ve inşaat yapısı",
+   "gosterim_ad": "taşınmaz ihalesi",
+   "ilk_kabul": "2026-11-20T12:08:16+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Vardan Papikyan / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Vardan Papikyan",
+    "sayfa": "https://unsplash.com/photos/a-person-standing-on-a-crane-K0KSfVX7Ldk"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bina",
+    "inşaat projesi",
+    "inşaat yapısı",
+    "iskele",
+    "kule vinç"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1651090430988-ac56ec7608cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwdGVuZGVyfGVufDF8MHx8fDE3OTUxNjU2NzF8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "inşaat",
+    "konut projesi",
+    "müteahhitlik"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kültür sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-20T12:08:16+03:00",
+   "url": "https://images.unsplash.com/photo-1651090430988-ac56ec7608cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwdGVuZGVyfGVufDF8MHx8fDE3OTUxNjU2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
   },
   "7ac946d9b11f4d18": {
    "alt_tur": "nesne",
