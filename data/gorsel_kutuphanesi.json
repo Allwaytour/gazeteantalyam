@@ -20862,13 +20862,43 @@
       "yasak": []
      },
      "t": "2026-11-15T12:11:34+03:00"
+    },
+    "r1:f266cd3fa1af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir sanat müzesini göstermektedir, bilim merkezi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi sergi alanı",
+        "var": false
+       },
+       {
+        "unsur": "çocuk ziyaretçiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:00:46+03:00"
     }
    },
    "ozet": {
     "dh": "684c6cccccc9e9c1",
     "sha": "381a090fc3b4c4de542b16fe"
    },
-   "t": "2026-11-20T12:07:26+03:00",
+   "t": "2026-11-20T17:00:46+03:00",
    "teknik": {
     "doygunluk": 36.6,
     "inen": [
@@ -29258,30 +29288,6 @@
      },
      "t": "2026-11-14T14:40:00+03:00"
     },
-    "r1:b29d43268e0b:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Liman ve kruvaziyer gemisi görüntüsü, zanaat kültürü ve tarih belgeseli konusuyla alakasız.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetçi",
-       "kalabalık"
-      ]
-     },
-     "t": "2026-11-12T03:57:15+03:00"
-    },
     "r1:b52ed87588f6:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -29345,6 +29351,27 @@
       ]
      },
      "t": "2026-11-17T13:33:45+03:00"
+    },
+    "r1:d83f2cfcdd6f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya limanında kruvaziyer gemisini gösteren bu fotoğraf ayak tenisi milli takım başarısı haberiyle ilgisizdir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:01:58+03:00"
     },
     "r1:fea13cc7fd0b:yer": {
      "d": {
@@ -29410,7 +29437,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-19T14:28:01+03:00",
+   "t": "2026-11-20T17:01:58+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -49115,9 +49142,43 @@
       "yasak": []
      },
      "t": "2026-11-08T14:04:45+03:00"
+    },
+    "r1:f266cd3fa1af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Açık havada bitki heykellerini gösteren bir bahçe sergisidir, bilim merkezi değildir.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi sergi alanı",
+        "var": false
+       },
+       {
+        "unsur": "çocuk ziyaretçiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:00:46+03:00"
     }
    },
-   "t": "2026-11-08T14:04:45+03:00",
+   "ozet": {
+    "dh": "2f373732b69a4d67",
+    "sha": "cb3a9fe3c2b36a43f6c7557b"
+   },
+   "t": "2026-11-20T17:00:46+03:00",
    "teknik": {
     "doygunluk": 42.2,
     "inen": [
@@ -66607,6 +66668,96 @@
    },
    "url": "https://images.unsplash.com/photo-1628867578000-236840cc19d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2hlc3MlMjB0b3VybmFtZW50JTIwaW5kb29yJTIwZ2FtZXxlbnwxfDB8fHwxNzk0MTM4MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "6215394ec5acf5ac": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şehir dokusu",
+     "havalimanı",
+     "sahil",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'nın uzaydan çekilmiş uydu görüntüsü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "coğrafya haberi",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "bilim merkezi haberi",
+     "etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f266cd3fa1af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'nın uzaydan genel görünümüdür, bilim merkezini göstermez.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi sergi alanı",
+        "var": false
+       },
+       {
+        "unsur": "çocuk ziyaretçiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:00:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "99d2e6cf2f739b07",
+    "sha": "192a4e1c8799df516382dcbe"
+   },
+   "t": "2026-11-20T17:00:46+03:00",
+   "teknik": {
+    "doygunluk": 10.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 3239,
+    "kontrast": 28,
+    "medyan": 134,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/ISS044-E-359_-_View_of_Turkey.jpg/1280px-ISS044-E-359_-_View_of_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6220936995889701": {
    "icerik": {
     "ana_kutu": [
@@ -75412,6 +75563,126 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Zlokuchene_%28sofia%29_Iskur.JPG/1280px-Zlokuchene_%28sofia%29_Iskur.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6f3aa66646c0d93f": {
+   "icerik": {
+    "ana_kutu": [
+     345,
+     178,
+     977,
+     946
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "etkileşimli sergi masası",
+     "gözlük",
+     "çocuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bilim merkezinde sergiyi inceleyen çocuklar ve yetişkin",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "bilim merkezi",
+     "eğitim sergisi",
+     "çocuk etkinliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi protesto",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      343,
+      178,
+      654,
+      375
+     ],
+     [
+      299,
+      492,
+      638,
+      651
+     ],
+     [
+      156,
+      552,
+      992,
+      1000
+     ],
+     [
+      342,
+      698,
+      834,
+      940
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:f266cd3fa1af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bilim merkezindeki interaktif sergiyi inceleyen çocukları gösterdiği için habere uygundur.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi sergi alanı",
+        "var": true
+       },
+       {
+        "unsur": "çocuk ziyaretçiler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       156,
+       178,
+       992,
+       946
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:00:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b69185e5a16392f",
+    "sha": "c4ff73acba75c771fda6005c"
+   },
+   "t": "2026-11-20T17:00:46+03:00",
+   "teknik": {
+    "doygunluk": 38.6,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.189,
+    "keskinlik": 1774,
+    "kontrast": 57,
+    "medyan": 102,
+    "parlaklik": 108,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Interactive_Science_Exhibit_-_Science_City_-_Kolkata_2010-02-18_4608.JPG/1280px-Interactive_Science_Exhibit_-_Science_City_-_Kolkata_2010-02-18_4608.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6f4401a106af3a18": {
    "icerik": {
     "ana_kutu": [
@@ -83332,6 +83603,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ambari_excavations_in_Guwahati%2C_Assam_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "7c6c2adb49516fab": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sergi masaları",
+     "interaktif düzenekler",
+     "tabure"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müze veya bilim merkezindeki sergi salonu ve düzenekler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "bilim merkezi tanıtımı",
+     "müze salonu"
+    ],
+    "uygunsuz_baglamlar": [
+     "canlı etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f266cd3fa1af:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bilim merkezi sergi alanının boş görünümünü yansıttığı için temsilî olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi sergi alanı",
+        "var": true
+       },
+       {
+        "unsur": "çocuk ziyaretçiler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       90,
+       8,
+       977,
+       974
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:00:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6d4d4a38c6c2b0f0",
+    "sha": "782a04700bebfe675e182082"
+   },
+   "t": "2026-11-20T17:00:46+03:00",
+   "teknik": {
+    "doygunluk": 36.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.336,
+    "keskinlik": 2449,
+    "kontrast": 57,
+    "medyan": 79,
+    "parlaklik": 86,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Manitoba_Museum_Science_Gallery_2022.jpg/1280px-Manitoba_Museum_Science_Gallery_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7c75ba333e4c6837": {
    "icerik": {
     "ana_kutu": [
@@ -87751,31 +88115,26 @@
      },
      "t": "2026-11-17T13:33:45+03:00"
     },
-    "r1:dba77432e2c1:ozne_kurum": {
+    "r1:d83f2cfcdd6f:yer": {
      "d": {
-      "ana_ozne_gorunuyor": true,
+      "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Alanya manzarası içeriyor ancak sıcaklık değişimi haberini yansıtmak için yetersiz bir görsel.",
-      "gerekli": [
-       {
-        "unsur": "Alanya genel görünüm",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
+      "gerekce": "Ayak tenisi başarısı haberinde yamaç paraşütü görseli kullanılması tamamen alakasızdır ve sporu yansıtmıyor.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 3,
+      "uygunluk": 1,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
-      "yanlis_spor": false,
+      "yanlis_spor": true,
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-11T09:10:59+03:00"
+     "t": "2026-11-20T17:01:58+03:00"
     },
     "r1:eb81c6270c9f:ozne_kurum": {
      "d": {
@@ -87897,7 +88256,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-19T14:28:01+03:00",
+   "t": "2026-11-20T17:01:58+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -106511,37 +106870,6 @@
      },
      "t": "2026-11-11T13:39:02+03:00"
     },
-    "r1:b51ba2d3c7bd:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya sahilini ve limanını gösteren genel bir şehir manzarası olduğu için rezervasyon haberine mükemmel uyar.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya oteller bölgesi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       270,
-       390,
-       804,
-       942
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-11T00:38:31+03:00"
-    },
     "r1:b52ed87588f6:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -106605,6 +106933,27 @@
       ]
      },
      "t": "2026-11-17T13:33:45+03:00"
+    },
+    "r1:d83f2cfcdd6f:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya genel manzarası şehri temsil etse de, ayak tenisi sporcularının başarısı için gerekli unsurları içermemektedir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T17:01:58+03:00"
     },
     "r1:dba77432e2c1:ozne_kurum": {
      "d": {
@@ -106732,7 +107081,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-19T14:28:01+03:00",
+   "t": "2026-11-20T17:01:58+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -178078,6 +178427,64 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-12T07:56:13+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "7c6c2adb49516fab": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3679,
+    2759
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2021-11-19",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Müze veya bilim merkezindeki sergi salonu ve düzenekler",
+   "gosterim_ad": "bilim merkezi sergisi",
+   "ilk_kabul": "2026-11-20T17:00:46+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "TMMCommunications / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "TMMCommunications",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Manitoba_Museum_Science_Gallery_2022.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bilim merkezi sergi alanı",
+    "interaktif düzenekler",
+    "sergi masaları",
+    "tabure"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Manitoba_Museum_Science_Gallery_2022.jpg/500px-Manitoba_Museum_Science_Gallery_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "bilim merkezi tanıtımı",
+    "müze salonu"
+   ],
+   "kullanilamaz": [
+    "canlı etkinlik haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-20T17:00:46+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Manitoba_Museum_Science_Gallery_2022.jpg/1280px-Manitoba_Museum_Science_Gallery_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
