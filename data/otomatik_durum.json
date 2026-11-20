@@ -3,16 +3,6 @@
  "yz_bugun": 150,
  "gorulen": [
   {
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1RFUnM2NGxwZ1ZVY1A2N01qQllaWnJOZk1ZNFBpUnZ5djEtci11WUZPUE8tdFhTVjJMbGhwWDRnS1NvNzlobnZWZko2NkdlX0U2MHFhcF9wd1JpSU80SGJqSHNYRW1UOU5hUnRYTjB4bWI2UkV1allLVklIM3JDOUx2bGZEUmM2UEQ2QmNLek4?oc=5",
-   "baslik": "ANTALYA AÇIKLARINDA 4.7 BÜYÜKLÜĞÜNDE DEPREM",
-   "ts": 1794730205
-  },
-  {
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFFvUGpOTXRJZWtBbEZscnFGMHUyNjBXdEJ5ZjhqQkJHcEhqZU1jbk41VjBTOUhELTloeXVPVjVXcFZPcTlwSGZ1NlhNSkxCV2ZVTjN3bUV1STZIOWZ5Tm11MzJLeVRSczhLa2lKbkVHckUtS2FWRjZUd08wWWkxbVdjeWdjTTQtV3FIeGlR?oc=5",
-   "baslik": "Amedspor Haymanaspor'a evinde puan kaptırdı",
-   "ts": 1794730205
-  },
-  {
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlNNUnBPVXNDbVk2ZWc1Sll4ZXhDYld3YzkxYkdsMHNEX0hjdVhFZ2pSTm5fM0d1TkNUNjJEYmRnWU1mNFlHM2tfZmM4WXd3RFA0VU1RcUVEcXhmc0kzR2JUTkVacnBfT1pxZWJNQ2pNSkpyZTV0SVN3SHEwVld4dm15TlEydHhXVjZnMGhVMlV0WlZVUVppLVZ2MGhUb3VnYUVUUmFfSmdMS1Z3T0lLQ0RtcHFMRE0?oc=5",
    "baslik": "Trendyol 1. Lig 16, 17 ve 18. hafta maç programı, hangi maç ne zaman, saat kaçta oynanacak?",
    "ts": 1794730205
@@ -15001,9 +14991,19 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHNxR0lMWTg1UEJ6eXF6Wl9vUXpvQ1MyZWZIRE1PTHFQZEVmZEZRbmNyaTY5dFlDMjluYWR6WlpNV3pNLWRoSWpyXzByS2NSbVBJNHZlb2h1eElyZ3FQUzRoQkR3bFZvcmQ1TTB4Y29tdnZSNnlNSEFHODJXVmI4dVZoSU9mM3ZNSE02ajEtdDk1QTNhQU5V0gGcAUFVX3lxTE5DSHYyMG11OS1sam0zS2hPRW9LQzhyRDJ4aFI4UEJ5VzBzQnZVMTR0dXZHNHcxRXZCYU1qU1BhVnNMWEg3eUEydWVHVll4VFd2VnlHQUswc05VNWJOcU1xNFdoeUNVQnE3SThyVXFrR1haLTVRNGxyY3RhTkR3S1hTTUhjWldLelFlaERrQXRvUXRDX3NnamRkcTJVYg?oc=5",
    "baslik": "Antalya'da motorine yüzde 6,6 indirim: Litre fiyatı 91,20 TL",
    "ts": 1795213779
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3BlczJKQndVZGhoNGE3YlBFZTFuWE80SU1EUDRTNlBpcDlXOTBSbWZvOVp2Ri1CZWhXX21aWDZMSF9FX0N3VDRBamYxSVREU3JQdlBqdkZXMkY5dHN3aVNleXNDZ1ZaWlBxMG9aRy1SZExSU0oxT3RHcFllMGZhRjcwR1FPQTFXaWZoVlgtNDVNekowOC1iOHo5WQ?oc=5",
+   "baslik": "Öldürülen paramediğin annesi: 'Ben ancak 30 yıl annesi olabildim'",
+   "ts": 1795215578
+  },
+  {
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXZSU2RaSUNjaTNVTEFEd2kxb2xVcTVMcC1JRlBTa3Ryb3RpcWZWdjJDZ0lZMjhESDVhbnYtQXpZN0lFLWhzUENZcFc0RGYtdFBLTUpVaGx5cWZFZGNtWC16YnZDSFFWRHE3bHNZbHBQUTdjQi1FZ1VXWWdmMjhUVkxTSmE4RVZERlE?oc=5",
+   "baslik": "Eskişehirspor'a Vali Tuna'dan moral ziyareti",
+   "ts": 1795215578
   }
  ],
- "son_calisma": "2026-11-21T01:33:02.066848+03:00",
+ "son_calisma": "2026-11-21T02:02:57.999034+03:00",
  "gorsel": {
   "gun": "2026-11-20",
   "yz_bugun": 70,
@@ -59824,7 +59824,7 @@
    "aciklama": "deneme modu: yayın sürümü '-', kod h2.k4.a2.i3.r1.y3",
    "acik": false,
    "hat_kimlik": "h2.k4.a2.i3.r1.y3",
-   "tarih": "2026-11-21T01:30:25+03:00",
+   "tarih": "2026-11-21T02:00:22+03:00",
    "son_tur": {
     "duzelt": 0,
     "bul": 0,
