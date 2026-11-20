@@ -8997,6 +8997,32 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf üniversite binası yerine sokaktaki konut binalarını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "universite yerleskesi veya kampus binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:28+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9062,7 +9088,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-19T15:57:55+03:00",
+   "t": "2026-11-20T14:59:28+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -24969,6 +24995,117 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Herkes_haddini_bilecek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "23818b23e5f7271f": {
+   "icerik": {
+    "ana_kutu": [
+     391,
+     15,
+     874,
+     989
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 11,
+    "nesneler": [
+     "sunum ekranı",
+     "ödül plaketi",
+     "ahşap panel duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir panel sahnesinde ödül alan kişiler ve arkalarında sunum ekranı.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "universite odul toreni",
+     "bilim paneli",
+     "belediye etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "kampus tanitimi",
+     "ogrenci yasam haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      486,
+      17,
+      856,
+      114
+     ],
+     [
+      437,
+      115,
+      829,
+      219
+     ],
+     [
+      439,
+      178,
+      835,
+      292
+     ],
+     [
+      452,
+      252,
+      837,
+      344
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:66edbad6c137:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel Alanya Belediyesi'nin bir panelini gösteriyor; üniversite kampüsü veya yerleşkesi yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "universite yerleskesi veya kampus binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f0939b9bc6ca4e1e",
+    "sha": "4ca111f1da3eee79b201a2a6"
+   },
+   "t": "2026-11-20T14:59:28+03:00",
+   "teknik": {
+    "doygunluk": 19.3,
+    "inen": [
+     1000,
+     750
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 3075,
+    "kontrast": 54,
+    "medyan": 138,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b9822585d3212cfe.jpg"
+  },
   "23a906905bba2051": {
    "icerik": {
     "ana_kutu": [
@@ -31179,6 +31316,32 @@
      },
      "t": "2026-11-12T03:26:31+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toprak içindeki sensör kabloları üniversite sıralaması haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "universite yerleskesi veya kampus binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:28+03:00"
+    },
     "r1:9b50b2888d26:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31270,7 +31433,7 @@
     "dh": "d979dbc1c2200406",
     "sha": "7ae7fb407a212785170a8744"
    },
-   "t": "2026-11-19T12:59:57+03:00",
+   "t": "2026-11-20T14:59:28+03:00",
    "teknik": {
     "doygunluk": 21.9,
     "inen": [
@@ -39098,6 +39261,123 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/National_Board_of_Revenue.jpg/1280px-National_Board_of_Revenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "36a0796c0a830a6c": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "kamera",
+     "tripod",
+     "masa",
+     "sandalye",
+     "çanta"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Salonda oturan katılımcılar ve kameralı basın mensupları",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans",
+     "seminer",
+     "toplantı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      382,
+      0,
+      485,
+      68
+     ],
+     [
+      339,
+      68,
+      622,
+      194
+     ],
+     [
+      347,
+      142,
+      545,
+      252
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dec2af8ee450:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya COP31 haberi için genel bir konferans salonu görüntüsü temsilî olarak uygundur ancak farklı bir etkinliktir.",
+      "gerekli": [
+       {
+        "unsur": "iklim konferansı salonu",
+        "var": true
+       },
+       {
+        "unsur": "çevre ve kalkınma temalı toplantı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:00:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e3e6f2ed883a3a30",
+    "sha": "ac4aacf6d31ff9ed12471c8d"
+   },
+   "t": "2026-11-20T15:00:54+03:00",
+   "teknik": {
+    "doygunluk": 23.2,
+    "inen": [
+     500,
+     260
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 2263,
+    "kontrast": 52,
+    "medyan": 103,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Launching_of_the_%E2%80%9CStrengthening_Capacity_and_Institutional_Reform_for_Green_Growth_and_Sustainable_Development_in_Vietnam%E2%80%9D_Project_%2816329196601%29.jpg/1280px-Launching_of_the_%E2%80%9CStrengthening_Capacity_and_Institutional_Reform_for_Green_Growth_and_Sustainable_Development_in_Vietnam%E2%80%9D_Project_%2816329196601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "36d722a575b3d06d": {
    "ozet": {
     "dh": "999386ccc48c8c8c",
@@ -42969,13 +43249,39 @@
       "yasak": []
      },
      "t": "2026-11-15T14:43:41+03:00"
+    },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Vitrin standındaki altın takılar üniversite başarısı haberiyle bağdaşmıyor.",
+      "gerekli": [
+       {
+        "unsur": "universite yerleskesi veya kampus binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:28+03:00"
     }
    },
    "ozet": {
     "dh": "0d4b3333cd719bc9",
     "sha": "ab8c85716bb5030fff8622e4"
    },
-   "t": "2026-11-19T14:28:11+03:00",
+   "t": "2026-11-20T14:59:28+03:00",
    "teknik": {
     "doygunluk": 36.5,
     "inen": [
@@ -56740,6 +57046,32 @@
      },
      "t": "2026-11-09T13:26:02+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sanat galerisindeki sergi eserleri üniversitenin akademik başarısıyla ilgili değil.",
+      "gerekli": [
+       {
+        "unsur": "universite yerleskesi veya kampus binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:28+03:00"
+    },
     "r1:74783c9c3c92:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -56861,34 +57193,13 @@
       "yasak": []
      },
      "t": "2026-11-12T11:57:38+03:00"
-    },
-    "r1:fd30b4067cb0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Sanat galerisi ve sergi eserleri imar sorunu haberiyle uyusmamaktadir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T15:42:15+03:00"
     }
    },
    "ozet": {
     "dh": "fc7d993d9d3cb6be",
     "sha": "5aa2a929e210a36e0d3db158"
    },
-   "t": "2026-11-16T13:43:21+03:00",
+   "t": "2026-11-20T14:59:28+03:00",
    "teknik": {
     "doygunluk": 43.3,
     "inen": [
@@ -71910,6 +72221,32 @@
      },
      "t": "2026-11-13T11:58:27+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konser salonu üniversite başarı haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "üniversite yerleşkesi veya kampüs binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:49+03:00"
+    },
     "r1:93d895c1db8d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -72028,7 +72365,7 @@
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-13T15:29:59+03:00",
+   "t": "2026-11-20T14:59:49+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -77968,13 +78305,44 @@
       "yasak": []
      },
      "t": "2026-11-16T15:42:57+03:00"
+    },
+    "r1:8cc3ae6bf172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havadan çekilen sera alanları Antalya'daki tarımsal üretimi ve maliyet haberini başarılı şekilde destekler.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       0,
+       990,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:01:24+03:00"
     }
    },
    "ozet": {
     "dh": "1763f8b0164f1d3c",
     "sha": "4793d2e8b0234f7346cc6f10"
    },
-   "t": "2026-11-16T15:42:57+03:00",
+   "t": "2026-11-20T15:01:24+03:00",
    "teknik": {
     "doygunluk": 17.2,
     "inen": [
@@ -81216,6 +81584,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg/1280px-Electronic_ballot_boxes%2C_Israeli_Labor_Party_2017_leadership_election_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7a23e7f4f9099340": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     105,
+     878,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "eski traktör",
+     "çocuk",
+     "sürücü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski tip tekerlekli traktör üzerinde oturan kişi ve yanında duran çocuk.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarım tarihi",
+     "arşiv"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel tarım maliyetleri",
+     "ekonomi analizi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      159,
+      526,
+      385,
+      663
+     ],
+     [
+      328,
+      104,
+      804,
+      188
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8cc3ae6bf172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi ve siyah-beyaz tarım aracı arşivi, güncel tarımsal girdi maliyetleri haberiyle uyumsuzdur.",
+      "gerekli": [
+       {
+        "unsur": "tarım alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:01:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "161adad8f4d0d8d4",
+    "sha": "8351cd47264fd4bccdd5c495"
+   },
+   "t": "2026-11-20T15:01:24+03:00",
+   "teknik": {
+    "doygunluk": 20.9,
+    "inen": [
+     500,
+     323
+    ],
+    "karanlik_oran": 0.198,
+    "keskinlik": 2711,
+    "kontrast": 87,
+    "medyan": 227,
+    "parlaklik": 167,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/International_Agricultural_Fair_in_Adana%2C_Turkey_%2816221775345%29.jpg/1280px-International_Agricultural_Fair_in_Adana%2C_Turkey_%2816221775345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7a574499a29f039a": {
    "icerik": {
@@ -95068,6 +95534,27 @@
    },
    "url": "https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2VyJTIwbnVjbGVhciUyMGZhY2lsaXR5fGVufDF8MHx8fDE3OTQ1MjQyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "8c860df416f637e9": {
+   "ozet": {
+    "dh": "0a078c6a720e163a",
+    "sha": "126e8b8d5758fba445e0796e"
+   },
+   "t": "2026-11-20T15:01:16+03:00",
+   "teknik": {
+    "doygunluk": 32.9,
+    "inen": [
+     1280,
+     842
+    ],
+    "karanlik_oran": 0.452,
+    "keskinlik": 1828,
+    "kontrast": 66,
+    "medyan": 62,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "/images/kurum/c87ac6270e4d6884.jpg"
+  },
   "8c998a5f779b287f": {
    "icerik": {
     "ana_kutu": [
@@ -104746,6 +105233,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Search_and_rescue_dogs_assist_in_recovery_efforts_of_missing_U_S_soldier_%288946047%29.jpg/1280px-Search_and_rescue_dogs_assist_in_recovery_efforts_of_missing_U_S_soldier_%288946047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9b86f2c473810d01": {
+   "icerik": {
+    "ana_kutu": [
+     81,
+     0,
+     770,
+     979
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 11,
+    "nesneler": [
+     "eski traktör",
+     "çit",
+     "insanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi tarım fuarında eski tip büyük traktör önünde duran fesli ve takım elbiseli kişiler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarım tarihi",
+     "arşiv haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel ekonomik veri",
+     "maliyet analizi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      383,
+      381,
+      726,
+      452
+     ],
+     [
+      356,
+      526,
+      725,
+      604
+     ],
+     [
+      376,
+      591,
+      729,
+      668
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:8cc3ae6bf172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "1924 yılına ait tarihi siyah-beyaz fuar fotoğrafı, güncel maliyet ve endeks haberi için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "tarım alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:01:24+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f01b79a8b0d4ce8e",
+    "sha": "416a2e9287aa1e4e52b9b97a"
+   },
+   "t": "2026-11-20T15:01:24+03:00",
+   "teknik": {
+    "doygunluk": 22.1,
+    "inen": [
+     500,
+     324
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 2816,
+    "kontrast": 77,
+    "medyan": 171,
+    "parlaklik": 149,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/International_Agricultural_Fair_in_Adana%2C_Turkey_%2816035669249%29.jpg/1280px-International_Agricultural_Fair_in_Adana%2C_Turkey_%2816035669249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9b94317fb1e5f274": {
    "icerik": {
     "ana_kutu": [
@@ -108440,6 +109031,32 @@
      },
      "t": "2026-11-09T13:26:02+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kelebek sergisi üniversite sıralama haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "üniversite yerleşkesi veya kampüs binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:49+03:00"
+    },
     "r1:6d0498993774:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -108617,7 +109234,7 @@
     "dh": "d2d9d1ebf94c4c2c",
     "sha": "1cfd3f10d1cab2328b5a2af4"
    },
-   "t": "2026-11-16T15:42:57+03:00",
+   "t": "2026-11-20T14:59:49+03:00",
    "teknik": {
     "doygunluk": 41.2,
     "inen": [
@@ -113036,6 +113653,32 @@
      },
      "t": "2026-11-12T04:27:52+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Spor salonu görseli akademik başarı haberiyle bağdaşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "üniversite yerleşkesi veya kampüs binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:49+03:00"
+    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -113206,7 +113849,7 @@
     "dh": "480a1b9a8a8b970f",
     "sha": "416fff73801850c3ab48e173"
    },
-   "t": "2026-11-13T15:29:59+03:00",
+   "t": "2026-11-20T14:59:49+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -117583,6 +118226,32 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
+    "r1:66edbad6c137:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yangın fotoğrafı üniversite başarı haberi için tamamen yanlıştır.",
+      "gerekli": [
+       {
+        "unsur": "üniversite yerleşkesi veya kampüs binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T14:59:49+03:00"
+    },
     "r1:94df9acbb39d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -117704,7 +118373,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-19T15:57:55+03:00",
+   "t": "2026-11-20T14:59:49+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -119306,19 +119975,19 @@
      },
      "t": "2026-11-17T15:55:53+03:00"
     },
-    "r1:7a7ebccd1acc:konu": {
+    "r1:66edbad6c137:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf bir bina cephesini gösteriyor ancak haberde geçen Manavgat adliyesiyle doğrudan bir bağı yok.",
+      "gerekce": "Modern bir bina cephesi sunarak kampüs binası gereksinimini temsil eder.",
       "gerekli": [
        {
-        "unsur": "adliye binası",
-        "var": false
+        "unsur": "üniversite yerleşkesi veya kampüs binası",
+        "var": true
        }
       ],
-      "ilgisiz_yer_nesne": true,
+      "ilgisiz_yer_nesne": false,
       "konu_ana_unsur": true,
       "konu_kutusu": [
        0,
@@ -119327,7 +119996,7 @@
        1000
       ],
       "olay_gorunuyor": false,
-      "uygunluk": 4,
+      "uygunluk": 7,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -119335,7 +120004,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-14T14:40:00+03:00"
+     "t": "2026-11-20T14:59:49+03:00"
     },
     "r1:816c5a3a1275:konu": {
      "d": {
@@ -119490,7 +120159,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-19T15:57:55+03:00",
+   "t": "2026-11-20T14:59:49+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -133205,41 +133874,6 @@
      },
      "t": "2026-11-10T22:38:10+03:00"
     },
-    "r1:6cbb148e1bce:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Masa ve salon var ancak yabancı isim levhaları ve uluslararası toplantı ortamı Çorumlular buluşmasına uygun değil.",
-      "gerekli": [
-       {
-        "unsur": "otel salonu",
-        "var": true
-       },
-       {
-        "unsur": "toplantı masası",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       250,
-       100,
-       790,
-       875
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-10T02:06:26+03:00"
-    },
     "r1:8352045ce70a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -133348,6 +133982,41 @@
      },
      "t": "2026-11-20T14:31:18+03:00"
     },
+    "r1:dec2af8ee450:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf uluslararası bir toplantıyı gösteriyor ancak Antalya'daki COP31 değil başka bir zirveye ait.",
+      "gerekli": [
+       {
+        "unsur": "iklim konferansi salonu",
+        "var": true
+       },
+       {
+        "unsur": "cevre ve kalkinma temali toplanti",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       254,
+       108,
+       794,
+       876
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:00:19+03:00"
+    },
     "r1:e28c712107da:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -133388,7 +134057,7 @@
     "dh": "1d1b1b372bb3b25d",
     "sha": "9279182506f22391ff4b07e9"
    },
-   "t": "2026-11-20T14:31:18+03:00",
+   "t": "2026-11-20T15:00:19+03:00",
    "teknik": {
     "doygunluk": 29.0,
     "inen": [
@@ -138164,6 +138833,129 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/082812_MorningMeeting_008_%287880194158%29.jpg/1280px-082812_MorningMeeting_008_%287880194158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cefda3560a9b39c3": {
+   "icerik": {
+    "ana_kutu": [
+     448,
+     451,
+     743,
+     563
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "konuşmacı kürsüsü",
+     "masa",
+     "mikrofon",
+     "afiş",
+     "projektör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil büyüme ve kalkınma konulu bir panel ve konuşmacılar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre toplantıları",
+     "kalkınma konferansları",
+     "ekonomi panelleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakaları",
+     "magazin haberleri",
+     "sanat etkinlikleri"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      485,
+      497,
+      725,
+      563
+     ],
+     [
+      583,
+      574,
+      737,
+      652
+     ],
+     [
+      611,
+      679,
+      737,
+      755
+     ],
+     [
+      490,
+      180,
+      622,
+      273
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:dec2af8ee450:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili bir çevre ve kalkınma toplantısı gösteriyor ancak Vietnam'daki eski bir etkinlik olması nedeniyle tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "iklim konferansı salonu",
+        "var": true
+       },
+       {
+        "unsur": "çevre ve kalkınma temalı toplantı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       448,
+       451,
+       936,
+       819
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:00:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5b5b7d79d0517d7e",
+    "sha": "518e1d1063c63886d0c0c860"
+   },
+   "t": "2026-11-20T15:00:54+03:00",
+   "teknik": {
+    "doygunluk": 18.3,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.111,
+    "keskinlik": 2253,
+    "kontrast": 48,
+    "medyan": 135,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Launching_of_the_%E2%80%9CStrengthening_Capacity_and_Institutional_Reform_for_Green_Growth_and_Sustainable_Development_in_Vietnam%E2%80%9D_Project_%2816143587120%29.jpg/1280px-Launching_of_the_%E2%80%9CStrengthening_Capacity_and_Institutional_Reform_for_Green_Growth_and_Sustainable_Development_in_Vietnam%E2%80%9D_Project_%2816143587120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cf4ed48c4b26712a": {
    "icerik": {
@@ -145286,13 +146078,44 @@
       "yasak": []
      },
      "t": "2026-11-16T15:42:57+03:00"
+    },
+    "r1:8cc3ae6bf172:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'daki seraları gösteren güncel bir temsilî fotoğraf, tarımsal maliyet haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       290,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T15:01:24+03:00"
     }
    },
    "ozet": {
     "dh": "f87abcfbeb3d4ecd",
     "sha": "f2235984d0b7f73d2eceaf09"
    },
-   "t": "2026-11-16T15:42:57+03:00",
+   "t": "2026-11-20T15:01:24+03:00",
    "teknik": {
     "doygunluk": 38.7,
     "inen": [
@@ -176146,7 +176969,7 @@
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-16T15:42:57+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Claude Valette / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -176179,7 +177002,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-16T15:42:57+03:00",
+   "son_kabul": "2026-11-20T15:01:24+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/AntalyaGreenhousesForVegetablesAndFruits.jpg/1280px-AntalyaGreenhousesForVegetablesAndFruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -179569,7 +180392,7 @@
    "gosterim_ad": "genel merkez binası",
    "ilk_kabul": "2026-11-12T03:57:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -179595,7 +180418,8 @@
     "pencere",
     "taş kaplama",
     "taş ve alüminyum cephe",
-    "vergi dairesi binası veya evrak"
+    "vergi dairesi binası veya evrak",
+    "üniversite yerleşkesi veya kampüs binası"
    ],
    "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/500px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "kullanilabilir": [
@@ -179612,7 +180436,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-17T13:34:10+03:00",
+   "son_kabul": "2026-11-20T14:59:49+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
