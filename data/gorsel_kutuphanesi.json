@@ -31413,6 +31413,96 @@
    },
    "url": "https://images.unsplash.com/photo-1743119638006-a01d4625745d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGFpbnRpbmclMjBleGhpYml0aW9ufGVufDF8MHx8fDE3OTUxNjU2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "2be8e44a435d46fa": {
+   "icerik": {
+    "ana_kutu": [
+     620,
+     320,
+     780,
+     610
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "havuz",
+     "ağaç",
+     "insanlar",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta havuz kenarında duran insanlar ve ağaçlık alan.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi haber",
+     "park tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel etkinlik",
+     "çocuk hakları haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyah-beyaz, eski ve yabancı bir park görüntüsü güncel bir yerel etkinlik haberiyle uyumsuzdur.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:30:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8e065a9a9971c4fc",
+    "sha": "bc314677299cd0f0c0aa9a7f"
+   },
+   "t": "2026-11-20T20:30:45+03:00",
+   "teknik": {
+    "doygunluk": 2.8,
+    "inen": [
+     500,
+     356
+    ],
+    "karanlik_oran": 0.237,
+    "keskinlik": 3795,
+    "kontrast": 78,
+    "medyan": 96,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Children_playing_in_Meridian_Hill_Park_fountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "2bf28adefa9f3878": {
    "icerik": {
     "ana_kutu": [
@@ -68836,13 +68926,43 @@
       "yasak": []
      },
      "t": "2026-11-08T13:41:15+03:00"
+    },
+    "r1:9bf6578e2ad9:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Konyaaltı'ndaki bir etkinlik hakkındadır, ancak bu fotoğraf sadece genel bir sahil manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": false
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:30:45+03:00"
     }
    },
    "ozet": {
     "dh": "9f84f06e9e3f6fdf",
     "sha": "12c1c84f18a41cd001888322"
    },
-   "t": "2026-11-13T17:01:32+03:00",
+   "t": "2026-11-20T20:30:45+03:00",
    "teknik": {
     "doygunluk": 50.1,
     "inen": [
@@ -73441,6 +73561,103 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Oakley_sunglasses_at_volleyball_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "6bcb1607fd5edd1d": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     90,
+     750,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kaydırak",
+     "oyun grubu",
+     "ağaç",
+     "zemin kaplaması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta renkli çocuk oyun grubu ve kaydıraklar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "park haberi",
+     "çocuk etkinlikleri",
+     "belediye hizmetleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "kaza haberi",
+     "suç haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Park ortamını yansıtıyor ancak etkinlik anını veya çocukları içermiyor, temsilî olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       150,
+       90,
+       750,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:33:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8b08686bad246bde",
+    "sha": "98b40a95c486f907c7b7568c"
+   },
+   "t": "2026-11-20T20:33:19+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.096,
+    "keskinlik": 3621,
+    "kontrast": 43,
+    "medyan": 96,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Colorful_Playground_Equipment_in_the_Park.jpg/1280px-Colorful_Playground_Equipment_in_the_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6be8e37fc4f89e76": {
    "ozet": {
@@ -110381,6 +110598,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1280px-Konya_Tropical_Butterfly_Garden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a2862e98430c0b2e": {
+   "icerik": {
+    "ana_kutu": [
+     340,
+     100,
+     880,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "oyun ekipmanı",
+     "metal halkalar",
+     "çimen",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta metal halkalardan oluşan tünel tipi oyun ekipmanı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "park haberi",
+     "çocuk oyun alanları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "portre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parkta bir oyun ekipmanını gösteriyor, çocuk hakları günü için genel bir görsel olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       340,
+       100,
+       880,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:33:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f3e969f3c7613098",
+    "sha": "98b07ace766bd044f25e1a27"
+   },
+   "t": "2026-11-20T20:33:19+03:00",
+   "teknik": {
+    "doygunluk": 38.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.195,
+    "keskinlik": 6676,
+    "kontrast": 58,
+    "medyan": 98,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Children%27s_play_Equipment.jpg/1280px-Children%27s_play_Equipment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a2bfac39665e1bea": {
    "icerik": {
     "ana_kutu": [
@@ -130982,6 +131294,100 @@
    },
    "url": "https://images.unsplash.com/photo-1759340650383-c3e4ec22c720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMG11bmljaXBhbCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQ1NTEzMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "c1b410a68d85b640": {
+   "icerik": {
+    "ana_kutu": [
+     340,
+     310,
+     780,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "heykel",
+     "ağaç",
+     "park yolu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta müzik yapan çocuk heykelleri",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "park haberi",
+     "sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "güncel olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parkta yer alan heykeller, çocuk temasıyla ilişkili olsa da etkinlikten uzak ve cansızdır.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       340,
+       310,
+       780,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:33:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "87cd8dc5b37360c8",
+    "sha": "1278ada9e39a533bd4d5aeff"
+   },
+   "t": "2026-11-20T20:33:19+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.19,
+    "keskinlik": 3523,
+    "kontrast": 62,
+    "medyan": 96,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Children_Playing_Traditional_Instruments.jpg/1280px-Children_Playing_Traditional_Instruments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c24f999edbb5f8fd": {
    "ozet": {
     "dh": "ad299b94b686ca8d",
@@ -142013,6 +142419,86 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/UA_military_FPV_drones_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "d33afc89fa6bfc09": {
+   "icerik": {
+    "ana_kutu": [
+     480,
+     540,
+     660,
+     790
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil",
+     "alışveriş arabası",
+     "otopark çizgileri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı otopark alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "otopark haberi",
+     "alışveriş merkezi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk haberi",
+     "park haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan park ve çocuk etkinliği ile hiçbir ilgisi olmayan bir otopark görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:33:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "11070b009b6c6333",
+    "sha": "ba6ff018c3a12cc7ac51a753"
+   },
+   "t": "2026-11-20T20:33:19+03:00",
+   "teknik": {
+    "doygunluk": 8.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.073,
+    "keskinlik": 2140,
+    "kontrast": 48,
+    "medyan": 109,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sainsbury%27s_Superstore_Tottenham_-_Carpark.jpg/1280px-Sainsbury%27s_Superstore_Tottenham_-_Carpark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d34f3d1a8b63a179": {
    "icerik": {
     "ana_kutu": [
@@ -152777,6 +153263,115 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Steven_Cateris_at_Red_Cross_Blood_Bank_%286014638396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "e48075c02dbd83e4": {
+   "icerik": {
+    "ana_kutu": [
+     190,
+     450,
+     750,
+     720
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "salıncak",
+     "çocuk",
+     "ağaç",
+     "oyun parkı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta oyun parkında ip salıncakta sallanan ve yanında duran iki çocuk.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "çocuk hakları",
+     "oyun parkı",
+     "çocuk etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      190,
+      450,
+      350,
+      530
+     ],
+     [
+      340,
+      640,
+      460,
+      720
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili fotoğraf olarak çocukların parkta oyun oynaması haberin içeriğiyle oldukça uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       450,
+       750,
+       720
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:30:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9595ce1a595989ec",
+    "sha": "e18c2a7fc03ce362743d32fc"
+   },
+   "t": "2026-11-20T20:30:45+03:00",
+   "teknik": {
+    "doygunluk": 33.3,
+    "inen": [
+     400,
+     266
+    ],
+    "karanlik_oran": 0.031,
+    "keskinlik": 1636,
+    "kontrast": 47,
+    "medyan": 157,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1615489548573-8165c2c35e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y2hpbGRyZW4lMjBwbGF5aW5nJTIwaW4lMjBwYXJrfGVufDF8MHx8fDE3OTUxOTU4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "e495b2a8d1436449": {
    "icerik": {
     "ana_kutu": [
@@ -160938,6 +161533,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg/1280px-Antalya%2C_Turkey%2C_February_2022_-_Row_of_Taxis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f0e2e9a202342ee6": {
+   "ozet": {
+    "dh": "024b2ea9a565210f",
+    "sha": "00ac92076011657aa64742e2"
+   },
+   "t": "2026-11-20T20:30:14+03:00",
+   "teknik": {
+    "doygunluk": 52.1,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.621,
+    "keskinlik": 830,
+    "kontrast": 39,
+    "medyan": 40,
+    "parlaklik": 52,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Petter_%E2%80%93_Playing_children_in_the_park.jpg/1280px-Petter_%E2%80%93_Playing_children_in_the_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f1184dd5f5297b95": {
    "ozet": {
     "dh": "96935b228d276726",
@@ -166780,6 +167396,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%22Vityaz-D%22_autonomous_underwater_vehicle_during_the_%22Armiya_2021%22_exhibition.jpg/1280px-%22Vityaz-D%22_autonomous_underwater_vehicle_during_the_%22Armiya_2021%22_exhibition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f8a7315ead27d34d": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     180,
+     850,
+     630
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "heykel",
+     "ağaç",
+     "park yolu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parkta müzik aleti çalan çocuk heykelleri grubu",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "park haberi",
+     "sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "güncel olay haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9bf6578e2ad9:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Parkta yer alan heykeller, çocuk temasıyla ilişkili olsa da etkinlikten uzak ve cansızdır.",
+      "gerekli": [
+       {
+        "unsur": "park",
+        "var": true
+       },
+       {
+        "unsur": "etkinlik malzemeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       180,
+       850,
+       630
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-20T20:33:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "43725a67e9e3c181",
+    "sha": "8b7734ac092a35c9ef2b701e"
+   },
+   "t": "2026-11-20T20:33:19+03:00",
+   "teknik": {
+    "doygunluk": 26.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.123,
+    "keskinlik": 4090,
+    "kontrast": 59,
+    "medyan": 114,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Sculptures_of_Children_Playing_Traditional_Instruments.jpg/1280px-Outdoor_Sculptures_of_Children_Playing_Traditional_Instruments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f8c4e92dfb4105ca": {
    "icerik": {
@@ -178112,6 +178822,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T15:12:57+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_wedding_convoy_in_Sivas_Province.jpg/1280px-A_wedding_convoy_in_Sivas_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "6bcb1607fd5edd1d": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2048,
+    1153
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2026-09-09",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Parkta renkli çocuk oyun grubu ve kaydıraklar",
+   "gosterim_ad": "Çocuk Hakları Günü kutlaması",
+   "ilk_kabul": "2026-11-20T20:33:19+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "PAULIX04 / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "PAULIX04",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Colorful_Playground_Equipment_in_the_Park.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ağaç",
+    "kaydırak",
+    "oyun grubu",
+    "park",
+    "zemin kaplaması"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Colorful_Playground_Equipment_in_the_Park.jpg/500px-Colorful_Playground_Equipment_in_the_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "park haberi",
+    "çocuk etkinlikleri",
+    "belediye hizmetleri"
+   ],
+   "kullanilamaz": [
+    "siyasi haber",
+    "kaza haberi",
+    "suç haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-20T20:33:19+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Colorful_Playground_Equipment_in_the_Park.jpg/1280px-Colorful_Playground_Equipment_in_the_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
