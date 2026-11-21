@@ -4309,6 +4309,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Agricultural_land%2C_Linton_-_geograph.org.uk_-_2305667.jpg/1280px-Agricultural_land%2C_Linton_-_geograph.org.uk_-_2305667.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "05967d19ca7c9ba0": {
+   "icerik": {
+    "ana_kutu": [
+     257,
+     350,
+     615,
+     812
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akaryakıt pompası",
+     "minibüs",
+     "istasyon çatısı",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir akaryakıt istasyonu ve park halindeki beyaz bir minibüs.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "akaryakıt sektörü",
+     "enerji haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya Limanı",
+     "denizcilik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Yabancı bir market zincirine ait istasyon, Antalya Limanı ile ilgisizdir ve liman unsuru içermemektedir.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       257,
+       350,
+       615,
+       812
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "benzin tabancası"
+      ]
+     },
+     "t": "2026-11-21T13:35:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9c9988c24388c4c6",
+    "sha": "46174e1660169d0f7780657e"
+   },
+   "t": "2026-11-21T13:35:02+03:00",
+   "teknik": {
+    "doygunluk": 19.8,
+    "inen": [
+     500,
+     358
+    ],
+    "karanlik_oran": 0.239,
+    "keskinlik": 2670,
+    "kontrast": 73,
+    "medyan": 138,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Asda_Fuel_Filling_Station_-_geograph.org.uk_-_5181845.jpg/1280px-Asda_Fuel_Filling_Station_-_geograph.org.uk_-_5181845.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "05a96873e9522542": {
    "icerik": {
     "ana_kutu": [
@@ -5194,6 +5291,95 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1752497624150-17d6febd4199?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QWxhbnlhJTIwZm9nfGVufDF8MHx8fDE3OTQzNDY2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "072cc8c0c8bbb120": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     20,
+     930,
+     976
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yakıt pompası",
+     "elektrik motoru",
+     "vida"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Parçalarına ayrılmış elektrikli yakıt pompası ve vida.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "otomotiv",
+     "yakıt sistemleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "liman işletmeciliği",
+     "enerji planlaması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf otomobil yakıt pompası parçalarını gösteriyor; Antalya Limanı veya TPAO planlamasıyla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "akaryakit pompasi",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:33:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4be4f47278a4a410",
+    "sha": "5192c820a499a8944979fd3e"
+   },
+   "t": "2026-11-21T13:35:02+03:00",
+   "teknik": {
+    "doygunluk": 10.9,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.043,
+    "keskinlik": 1909,
+    "kontrast": 62,
+    "medyan": 229,
+    "parlaklik": 198,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bosch_Fuel_Pump_0_580_254_957_-_opened-7456.jpg/1280px-Bosch_Fuel_Pump_0_580_254_957_-_opened-7456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "07352cefaf31502e": {
    "icerik": {
@@ -10170,6 +10356,94 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Emre_in_national_team_%2811.08.2010%29_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "0d86252f7a25e9c3": {
+   "icerik": {
+    "ana_kutu": [
+     131,
+     1,
+     936,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "sur",
+     "tekne",
+     "ağaç",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Limanı surları ve sahil kesimi",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Limanı gösteriyor ancak eski tarihli bir arşiv karesi.",
+      "gerekli": [
+       {
+        "unsur": "liman",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       131,
+       1,
+       936,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:35:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3bb74d690b5f7d6d",
+    "sha": "a371773d7dc62d260ba3eabb"
+   },
+   "t": "2026-11-21T13:35:08+03:00",
+   "teknik": {
+    "doygunluk": 31.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.171,
+    "keskinlik": 4082,
+    "kontrast": 63,
+    "medyan": 113,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2007_0211TurkeySatB0005_%283277184547%29.jpg/1280px-2007_0211TurkeySatB0005_%283277184547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0dce66ef2ef7f335": {
    "icerik": {
@@ -16905,13 +17179,39 @@
       "yasak": []
      },
      "t": "2026-11-11T08:38:19+03:00"
+    },
+    "r1:1a8791b8da17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Manavgat'taki üretici hasat haberine zeytin bahçesi görseli uysa da Yunanistan'da çekilmiş olması hafif yer yanılgısı yaratır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:31:38+03:00"
     }
    },
    "ozet": {
     "dh": "1b878fe99b397777",
     "sha": "fdf2aed6ff877f88a3c9a36d"
    },
-   "t": "2026-11-11T08:38:19+03:00",
+   "t": "2026-11-21T13:31:38+03:00",
    "teknik": {
     "doygunluk": 40.8,
     "inen": [
@@ -21825,6 +22125,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/1st_California_Lottery_Tickets.jpg/1280px-1st_California_Lottery_Tickets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1eb7ccd49a65d5e5": {
+   "icerik": {
+    "ana_kutu": [
+     204,
+     9,
+     786,
+     936
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yakıt pompası",
+     "contalar",
+     "vidalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz zemin üzerinde sökülmüş yakıt pompası parçaları ve contalar.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "otomotiv",
+     "teknik servis"
+    ],
+    "uygunsuz_baglamlar": [
+     "liman",
+     "gemi",
+     "akaryakıt sevkiyatı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel sökülmüş bir yakıt pompası iç aksamını gösteriyor, haberdeki liman ve planlama ile alakasız.",
+      "gerekli": [
+       {
+        "unsur": "akaryakit pompasi",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:33:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b0cacbceee84ccc0",
+    "sha": "90decd8b4360b6291120bb1b"
+   },
+   "t": "2026-11-21T13:35:02+03:00",
+   "teknik": {
+    "doygunluk": 5.2,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.008,
+    "keskinlik": 1005,
+    "kontrast": 42,
+    "medyan": 237,
+    "parlaklik": 221,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bosch_Fuel_Pump_0_580_254_957_-_opened-7460.jpg/1280px-Bosch_Fuel_Pump_0_580_254_957_-_opened-7460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1eb918390651d023": {
    "icerik": {
@@ -45097,6 +45487,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:1a8791b8da17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana konusu olan zeytinyağını net şekilde gösteren uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "zeytinyağı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       152,
+       385,
+       922,
+       678
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:31:38+03:00"
+    },
     "r1:4c55bf484b70:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -45195,7 +45616,7 @@
     "dh": "0c1212393939e969",
     "sha": "e6f2c623a3ad7ac954f96a53"
    },
-   "t": "2026-11-20T12:59:06+03:00",
+   "t": "2026-11-21T13:31:38+03:00",
    "teknik": {
     "doygunluk": 17.4,
     "inen": [
@@ -48520,6 +48941,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg/1280px-Secretary_Perdue_Crop_Reports_Lockup-Cotton_Ginning%2C_Cranberry_and_Crop_Production_%2820170810-OSEC-LSC-0381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "43d1279e4768c9b1": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     137,
+     891,
+     627
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akaryakıt pompası",
+     "hortum",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Akaryakıt istasyonunda pompa ünitesi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akaryakıt pompası temsilî olarak haberle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "akaryakit pompasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       137,
+       891,
+       627
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:35:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b2b2b3b2b2b2e0c1",
+    "sha": "2ee0b073810cdd5442a45a73"
+   },
+   "t": "2026-11-21T13:35:08+03:00",
+   "teknik": {
+    "doygunluk": 15.7,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.112,
+    "keskinlik": 626,
+    "kontrast": 58,
+    "medyan": 144,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZnVlbCUyMHN0YXRpb258ZW58MXwwfHx8MTc5NTI1NzE5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "43f9a36b52d2cd63": {
    "ozet": {
@@ -109339,6 +109848,95 @@
    },
    "url": "https://images.unsplash.com/photo-1659625154728-7ff0653d9957?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Z2xvd2luZyUyMHRvcmNoZXMlMjBuaWdodCUyMHBhcmFkZXxlbnwxfDB8fHwxNzk0MTQzMzExfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9d15890aa0dcb190": {
+   "icerik": {
+    "ana_kutu": [
+     188,
+     350,
+     645,
+     998
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "benzin tabancası",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir araca yakıt ikmali yapılan benzin tabancası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "akaryakıt sektörü"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya Limanı",
+     "denizcilik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde yasaklanan benzin tabancası görseli kullanılmıştır ve liman ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "akaryakıt pompası",
+        "var": false
+       },
+       {
+        "unsur": "liman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "benzin tabancası"
+      ]
+     },
+     "t": "2026-11-21T13:35:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d6831a08b8b87ef",
+    "sha": "720d7a02103686f0d1a9918c"
+   },
+   "t": "2026-11-21T13:35:02+03:00",
+   "teknik": {
+    "doygunluk": 21.6,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.019,
+    "keskinlik": 347,
+    "kontrast": 53,
+    "medyan": 171,
+    "parlaklik": 157,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZnVlbCUyMHB1bXB8ZW58MXwwfHx8MTc5NTI1NzE5NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "9d3e11a4e14e2684": {
    "icerik": {
     "ana_kutu": [
@@ -113303,6 +113901,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Önbellekteki fotoğraf değerlendirilmedi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:35:08+03:00"
+    },
     "r1:5ed60110abb3:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -113405,7 +114024,7 @@
     "dh": "c17a7266383e75b5",
     "sha": "efac9b065d6d578b72631dbe"
    },
-   "t": "2026-11-19T11:27:29+03:00",
+   "t": "2026-11-21T13:35:08+03:00",
    "teknik": {
     "doygunluk": 15.7,
     "inen": [
@@ -114765,6 +115384,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_66.jpg/1280px-Antalya_Old_style_building_but_not_Old_Town_%C4%B1n_2013_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a7cdfa75413dd1f5": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     856,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş duvar",
+     "bina",
+     "palmiye",
+     "zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Limanı çevresindeki taş yapılar ve merdivenler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Limanı bölgesinden bir yapı detayı sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "liman",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       856,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:35:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3b0b0f1f3f15173f",
+    "sha": "f74152c64f1f032441f8f9ab"
+   },
+   "t": "2026-11-21T13:35:08+03:00",
+   "teknik": {
+    "doygunluk": 22.2,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.199,
+    "keskinlik": 3936,
+    "kontrast": 57,
+    "medyan": 99,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/20180111_AntalyaMarina_5294_%2825238586177%29.jpg/1280px-20180111_AntalyaMarina_5294_%2825238586177%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a820d03d6a3cfab9": {
    "icerik": {
@@ -121806,6 +122513,37 @@
      },
      "t": "2026-11-11T08:38:19+03:00"
     },
+    "r1:1a8791b8da17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin hasadı ve rekolte tartışmalarını destekleyen zeytin dalı görseli.",
+      "gerekli": [
+       {
+        "unsur": "zeytin dalı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       410,
+       480,
+       642,
+       555
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:31:38+03:00"
+    },
     "r1:4c55bf484b70:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -121939,7 +122677,7 @@
     "dh": "91c4c41c9af75b0f",
     "sha": "46da74be835b4122b19dd4c9"
    },
-   "t": "2026-11-20T12:59:06+03:00",
+   "t": "2026-11-21T13:31:38+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -158570,13 +159308,39 @@
       "yasak": []
      },
      "t": "2026-11-11T08:38:19+03:00"
+    },
+    "r1:1a8791b8da17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin hasadına işaret eden tarım aletleri gösterilse de doğrudan zeytinyağı veya fiyat konusunu yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       53,
+       79,
+       797,
+       917
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:31:38+03:00"
     }
    },
    "ozet": {
     "dh": "cbcde47361f6fb85",
     "sha": "c7bce281e0547ac2ac1c3844"
    },
-   "t": "2026-11-11T08:38:19+03:00",
+   "t": "2026-11-21T13:31:38+03:00",
    "teknik": {
     "doygunluk": 43.0,
     "inen": [
@@ -161500,6 +162264,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg/1280px-G20_Turkey_Leaders_Summit_-_Working_Dinner_%2822634210727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ee8f7fb4f488a2b4": {
+   "icerik": {
+    "ana_kutu": [
+     358,
+     210,
+     500,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akaryakıt pompası",
+     "akaryakıt istasyonu",
+     "aydınlatma direği",
+     "elektrik direği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir akaryakıt istasyonu tesisi ve pompa alanı görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "akaryakıt sektörü",
+     "enerji haberleri",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "Türkiye yerel haberleri",
+     "Antalya haberleri",
+     "TPAO kurumsal haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir liman değil, yabancı bir akaryakıt istasyonudur; haberin yerel bağlamıyla çelişmektedir.",
+      "gerekli": [
+       {
+        "unsur": "akaryakit pompasi",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       358,
+       210,
+       500,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:34:31+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "dc782ba250060301",
+    "sha": "b9389ee1bbbdb2a53bddd6b4"
+   },
+   "t": "2026-11-21T13:35:02+03:00",
+   "teknik": {
+    "doygunluk": 33.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.048,
+    "keskinlik": 1378,
+    "kontrast": 48,
+    "medyan": 172,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Fuel_station%2C_Tamale_%28P1100296%29.jpg/1280px-Fuel_station%2C_Tamale_%28P1100296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "eead311d08579aa1": {
    "icerik": {
@@ -166570,6 +167431,27 @@
      },
      "t": "2026-11-11T08:38:19+03:00"
     },
+    "r1:1a8791b8da17:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tabakta zeytin bulunsa da genel olarak yemek sunumu olduğu için fiyat isyanı haberine uygun değil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:31:38+03:00"
+    },
     "r1:2a4f600b3a9a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -166789,7 +167671,7 @@
     "dh": "33862632386a1e9d",
     "sha": "b3a40a4a6c32899506f013e0"
    },
-   "t": "2026-11-20T12:59:06+03:00",
+   "t": "2026-11-21T13:31:38+03:00",
    "teknik": {
     "doygunluk": 41.5,
     "inen": [
@@ -170822,6 +171704,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Mohamed_Muizzu_meets_Yusuf_Tekin_%285%29.jpg/1280px-Mohamed_Muizzu_meets_Yusuf_Tekin_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f9d0481e6c846b21": {
+   "icerik": {
+    "ana_kutu": [
+     390,
+     203,
+     638,
+     621
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "liman",
+     "tekne",
+     "deniz",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Limanı ve marina genel görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:073dca2d592d:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Limanı'nı net şekilde gösterdiği için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "liman",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T13:35:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "000741c10835634a",
+    "sha": "4b30cf99b71bf3b75f8faf5d"
+   },
+   "t": "2026-11-21T13:35:08+03:00",
+   "teknik": {
+    "doygunluk": 25.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.247,
+    "keskinlik": 2641,
+    "kontrast": 77,
+    "medyan": 109,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roman_Harbour_of_Antalya_-_2014.10_-_panoramio_%281%29.jpg/1280px-Roman_Harbour_of_Antalya_-_2014.10_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f9d26d575bdc87bc": {
    "icerik": {
@@ -178644,7 +179614,7 @@
    "gosterim_ad": "sahte zeytinyağı uyarısı",
    "ilk_kabul": "2026-11-19T11:28:07+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "margenauer from Pixabay / Wikimedia Commons (CC0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -178682,7 +179652,7 @@
    "qid": "",
    "sahne_turu": "nesne_urun",
    "sinif": "konu",
-   "son_kabul": "2026-11-20T12:59:06+03:00",
+   "son_kabul": "2026-11-21T13:31:38+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bottle_of_olive_oil.jpg/1280px-Bottle_of_olive_oil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -178944,6 +179914,63 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-08T15:42:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg/1280px-Antalya_Ticaret_ve_Sanayi_Odas%C4%B1_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "43d1279e4768c9b1": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5083,
+    3389
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Akaryakıt istasyonunda pompa ünitesi",
+   "gosterim_ad": "akaryakit tedariki",
+   "ilk_kabul": "2026-11-21T13:35:08+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Dawn McDonald / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Dawn McDonald",
+    "sayfa": "https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "akaryakit pompasi",
+    "akaryakıt pompası",
+    "duvar",
+    "hortum"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZnVlbCUyMHN0YXRpb258ZW58MXwwfHx8MTc5NTI1NzE5Nnww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T13:35:08+03:00",
+   "url": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZnVlbCUyMHN0YXRpb258ZW58MXwwfHx8MTc5NTI1NzE5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
