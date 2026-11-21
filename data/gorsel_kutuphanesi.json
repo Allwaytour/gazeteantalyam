@@ -25375,6 +25375,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/New_Year_Tree_in_a_Turkish_home.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "2239cf0b9352023e": {
+   "icerik": {
+    "ana_kutu": [
+     195,
+     13,
+     672,
+     985
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "özel jet",
+     "uçak",
+     "pist",
+     "aydınlatma direği",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pistte duran özel jet tipi uçak.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "havacılık haberleri",
+     "uçak tanıtımı",
+     "kurumsal uçuş"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşmaları",
+     "siyaset toplantısı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b775a32100c3:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Devlet Hava Meydanları İşletmesi'ne ait uçak, operasyon haberi için uygundur ancak Antalya Havalimanı yerine başka bir havalimanını gösterir.",
+      "gerekli": [
+       {
+        "unsur": "uçak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       195,
+       13,
+       672,
+       985
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:01:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "05696b339fb3088a",
+    "sha": "3e13211656ddfb6a9f9dd57c"
+   },
+   "t": "2026-11-21T16:01:17+03:00",
+   "teknik": {
+    "doygunluk": 15.6,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.01,
+    "keskinlik": 1522,
+    "kontrast": 47,
+    "medyan": 104,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweig_Airport_Turkish_Flight_Inspection_Cessna_700_Citation_Longitude_D-BDHM_%28DSC08055%29.jpg/1280px-Braunschweig_Airport_Turkish_Flight_Inspection_Cessna_700_Citation_Longitude_D-BDHM_%28DSC08055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "226bc59d1be712a4": {
    "icerik": {
     "ana_kutu": [
@@ -101929,9 +102022,44 @@
       "yasak": []
      },
      "t": "2026-11-08T11:07:03+03:00"
+    },
+    "r1:b775a32100c3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uçak trafiği haberi için temsilî olarak kullanılabilir ancak Antalya Havalimanı pisti açıkça görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "uçak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       208,
+       9,
+       678,
+       982
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:01:17+03:00"
     }
    },
-   "t": "2026-11-08T11:07:03+03:00",
+   "ozet": {
+    "dh": "25d54a65355a2505",
+    "sha": "edee1ab6db77213f2b95f1f4"
+   },
+   "t": "2026-11-21T16:01:17+03:00",
    "teknik": {
     "doygunluk": 43.4,
     "inen": [
@@ -107893,6 +108021,37 @@
      },
      "t": "2026-11-08T11:07:03+03:00"
     },
+    "r1:b775a32100c3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen Antalya Havalimanı'nın kontrol kulesini ve tesisini doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       252,
+       619,
+       564
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:01:17+03:00"
+    },
     "r1:ba0ad1413474:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -107933,7 +108092,7 @@
     "dh": "d048484d9e9b4310",
     "sha": "00ad4d03beb9986ab081fa15"
    },
-   "t": "2026-11-10T22:15:06+03:00",
+   "t": "2026-11-21T16:01:17+03:00",
    "teknik": {
     "doygunluk": 26.0,
     "inen": [
@@ -116871,6 +117030,37 @@
      },
      "t": "2026-11-08T11:07:03+03:00"
     },
+    "r1:b775a32100c3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Havalimanı'ndaki yer hizmetleri tabelasını gösterdiği için tesis vurgusunu destekler.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       325,
+       0,
+       874,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:01:17+03:00"
+    },
     "r1:ba0ad1413474:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -116911,7 +117101,7 @@
     "dh": "0bc74178cccd0450",
     "sha": "81ce4a767a59ea7c062e012c"
    },
-   "t": "2026-11-10T22:15:06+03:00",
+   "t": "2026-11-21T16:01:17+03:00",
    "teknik": {
     "doygunluk": 14.8,
     "inen": [
@@ -149919,6 +150109,37 @@
      },
      "t": "2026-11-19T12:27:16+03:00"
     },
+    "r1:b775a32100c3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili uçuş operasyonu görselidir ancak Antalya Havalimanı'na özgü bir detay içermez.",
+      "gerekli": [
+       {
+        "unsur": "uçak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       21,
+       206,
+       1000,
+       993
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:01:17+03:00"
+    },
     "r1:eff1001896f8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -149950,7 +150171,7 @@
     "dh": "c6475316a6664666",
     "sha": "81138fd8d9d0813c10f56a7b"
    },
-   "t": "2026-11-20T20:03:22+03:00",
+   "t": "2026-11-21T16:01:17+03:00",
    "teknik": {
     "doygunluk": 16.6,
     "inen": [
@@ -185531,6 +185752,69 @@
    "sinif": "ozne_kurum",
    "son_kabul": "2026-11-08T14:33:35+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Turkey-2622_%282216327975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "981dae1714eda3ae": {
+   "alt_tur": "kurum",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2023-12-22",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Antalya Havalimanı kontrol kulesi ve apron alanı.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-21T16:01:17+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Zalasem1 / Wikimedia Commons (CC BY 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY 4.0",
+    "sahibi": "Zalasem1",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Control_tower_at_the_airport_in_Antalya.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": [
+     {
+      "ad": "Antalya Havalimanı",
+      "qid": "Q827480"
+     }
+    ]
+   },
+   "konular": [
+    "Antalya Havalimanı",
+    "apron",
+    "kontrol kulesi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/500px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "havalimanı",
+    "altyapı"
+   ],
+   "kullanilamaz": [
+    "kaza",
+    "teknik arıza"
+   ],
+   "notr_portre": false,
+   "qid": "Q827480",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "yer",
+   "son_kabul": "2026-11-21T16:01:17+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Control_tower_at_the_airport_in_Antalya.jpg/1280px-Control_tower_at_the_airport_in_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
