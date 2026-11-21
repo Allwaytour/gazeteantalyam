@@ -14733,6 +14733,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/3d_printed_model_of_Malawi_University_of_Business_and_Applied_Sciences.jpg/1280px-3d_printed_model_of_Malawi_University_of_Business_and_Applied_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "133721caa2ea8422": {
+   "icerik": {
+    "ana_kutu": [
+     420,
+     0,
+     940,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 150,
+    "nesneler": [
+     "senfoni orkestrası",
+     "koro",
+     "müzik aletleri",
+     "şef kürsüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük modern salonda sahne alan büyük orkestra ve koro",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "senfoni orkestrası",
+     "klasik müzik",
+     "konser"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili konser haberi için ideal bir orkestra ve koro sahnesi sunmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       0,
+       940,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "63171b2bca13eccc",
+    "sha": "ce21f58e587c627b1c368419"
+   },
+   "t": "2026-11-21T21:31:49+03:00",
+   "teknik": {
+    "doygunluk": 49.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.393,
+    "keskinlik": 3631,
+    "kontrast": 66,
+    "medyan": 71,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1763627516727-2ca3e324fa59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHVya2lzaCUyMG9yY2hlc3RyYSUyMGNvbmNlcnQlMjBzdGFnZXxlbnwxfDB8fHwxNzk1Mjg1ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "1383fd5d02d5bbb0": {
    "icerik": {
     "ana_kutu": [
@@ -17235,6 +17335,45 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       485,
+       240,
+       810,
+       970
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:38+03:00"
+    },
     "r1:d029856aca0e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -17275,7 +17414,11 @@
      "t": "2026-11-08T13:07:25+03:00"
     }
    },
-   "t": "2026-11-08T13:07:25+03:00",
+   "ozet": {
+    "dh": "d7f3d36764ccfaff",
+    "sha": "f14ef21c2d5a390f3eaff96e"
+   },
+   "t": "2026-11-21T21:31:38+03:00",
    "teknik": {
     "doygunluk": 28.0,
     "inen": [
@@ -64172,6 +64315,120 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_in_2012_01.jpg/1280px-Antalya_Square_with_Attalos_statue_along_Cumhuriyet_Caddesi_in_2012_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "56e5082443bcb2de": {
+   "icerik": {
+    "ana_kutu": [
+     210,
+     80,
+     760,
+     880
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 25,
+    "nesneler": [
+     "keman",
+     "nota sehpası",
+     "şef kürsüsü",
+     "kontrbas"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Siyah beyaz arşiv karesinde şef ve orkestra üyeleri",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi konser",
+     "arşiv müziği",
+     "nostalji"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel konser",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      213,
+      412,
+      683,
+      545
+     ],
+     [
+      297,
+      88,
+      770,
+      203
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf siyah-beyaz ve tarihi arşiv karesi olduğundan güncel haber için yanıltıcı dönem içerir.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       80,
+       760,
+       880
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c076775752c2901",
+    "sha": "369be10d7c1a9de8389720a0"
+   },
+   "t": "2026-11-21T21:31:49+03:00",
+   "teknik": {
+    "doygunluk": 6.8,
+    "inen": [
+     1280,
+     980
+    ],
+    "karanlik_oran": 0.19,
+    "keskinlik": 1590,
+    "kontrast": 67,
+    "medyan": 127,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orchestras%2C_Addis-Ababa_-_UNESCO_-_PHOTO0000004837_0001.tiff/lossy-page1-1280px-Orchestras%2C_Addis-Ababa_-_UNESCO_-_PHOTO0000004837_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "57899f746aedcef8": {
    "icerik": {
     "ana_kutu": [
@@ -85227,6 +85484,27 @@
    },
    "url": "/images/kurum/ebedd6843b6071c7.jpg"
   },
+  "76b15c960a97daf3": {
+   "ozet": {
+    "dh": "0323038b4b833a0b",
+    "sha": "ffb95b28dcf80f968e164bcc"
+   },
+   "t": "2026-11-21T21:31:41+03:00",
+   "teknik": {
+    "doygunluk": 59.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.723,
+    "keskinlik": 1174,
+    "kontrast": 43,
+    "medyan": 16,
+    "parlaklik": 35,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Paris_Mozart_Orchestra_directed_by_Claire_Gibault_2014_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "771bad71a30f5899": {
    "icerik": {
     "ana_kutu": [
@@ -85406,6 +85684,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_318e3151e1cc1d38d0056a4f32ed0161.jpg/1280px-Passenger_terminal_at_Lambert-St._Louis_Municipal_Airport._-_DPLA_-_318e3151e1cc1d38d0056a4f32ed0161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "774bc92d59a8207e": {
+   "icerik": {
+    "ana_kutu": [
+     570,
+     230,
+     820,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "sahne dekoru",
+     "sandalyeler",
+     "taş duvar",
+     "tiyatro sahnesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi antik tiyatro sahnesi ve oturma alanları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "aspendos haberleri",
+     "antik tiyatro",
+     "konser mekanı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "sanatçı röportajı",
+     "günlük politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik tiyatro sahnesi boş görünmektedir, orkestra yoktur.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": false
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "91b18fdfd79edce3",
+    "sha": "f3d6c20542ad8a342cc9274c"
+   },
+   "t": "2026-11-21T21:31:49+03:00",
+   "teknik": {
+    "doygunluk": 22.1,
+    "inen": [
+     500,
+     386
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 4195,
+    "kontrast": 65,
+    "medyan": 113,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Turkey-2302_%282216250585%29_%282%29.jpg/1280px-Turkey-2302_%282216250585%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7760a9b96161f783": {
    "icerik": {
@@ -105453,6 +105827,101 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Girls_learning_to_ride_a_bike_in_the_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "9288717c972aea24": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     386,
+     990,
+     893
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "adalet heykelciği",
+     "terazi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi arka plan önünde adalet heykelciği.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "hukuk haberi",
+     "mahkeme haberi",
+     "baro açıklaması"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ae5f675c9e8e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hukuk ve adalet temasını temsil eden uygun bir görsel ancak basın açıklaması görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": false
+       },
+       {
+        "unsur": "basın açıklaması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       386,
+       990,
+       893
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:32:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0305040c0404040c",
+    "sha": "06850d59ebad4dcd083f513c"
+   },
+   "t": "2026-11-21T21:32:20+03:00",
+   "teknik": {
+    "doygunluk": 56.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.348,
+    "keskinlik": 872,
+    "kontrast": 55,
+    "medyan": 79,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1768839719921-6a554fb3e847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bGVnYWwlMjBib29rcyUyMHNjYWxlcyUyMGp1c3RpY2V8ZW58MXwwfHx8MTc5NTI4NTkzNnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "928a2f649459c1fa": {
    "icerik": {
     "ana_kutu": [
@@ -124770,6 +125239,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Lithium_cobaltate_vs_graphite_lithium-ion_battery_scheme.png/1280px-Lithium_cobaltate_vs_graphite_lithium-ion_battery_scheme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b0921ba9c4b07d62": {
+   "icerik": {
+    "ana_kutu": [
+     610,
+     244,
+     805,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 40,
+    "nesneler": [
+     "konser salonu",
+     "sahne",
+     "orkestra",
+     "koltuklar",
+     "avize"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ihtişamlı bir konser salonunda sahnede çalan orkestra ve boş koltuklar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konser",
+     "etkinlik",
+     "sanat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "asayis",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili konser haberi için uygun genel orkestra ve sahne görünümü sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       610,
+       244,
+       805,
+       730
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "16170f0f172b0f0f",
+    "sha": "623d7fed32221c5c60010540"
+   },
+   "t": "2026-11-21T21:31:38+03:00",
+   "teknik": {
+    "doygunluk": 58.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.363,
+    "keskinlik": 2037,
+    "kontrast": 60,
+    "medyan": 76,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1519683109079-d5f539e1542f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8b3JjaGVzdHJhJTIwY29uY2VydCUyMHN0YWdlfGVufDF8MHx8fDE3OTUyODU4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "b0b9349b6aadf510": {
    "icerik": {
     "ana_kutu": [
@@ -141911,6 +142482,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Tram.jpg/1280px-Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Tram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c84229c9dbb38edc": {
+   "ozet": {
+    "dh": "8e0b13130f070706",
+    "sha": "8975452eb22a65fa3a0209fb"
+   },
+   "t": "2026-11-21T21:31:30+03:00",
+   "teknik": {
+    "doygunluk": 57.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.637,
+    "keskinlik": 1474,
+    "kontrast": 50,
+    "medyan": 30,
+    "parlaklik": 49,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1519682718457-c82ce8296645?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8b3JjaGVzdHJhJTIwY29uY2VydCUyMHN0YWdlfGVufDF8MHx8fDE3OTUyODU4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "c8555f635a5fb140": {
    "icerik": {
     "ana_kutu": [
@@ -145344,6 +145936,36 @@
      },
      "t": "2026-11-16T13:42:27+03:00"
     },
+    "r1:beb4b481e13f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki İngilizce 'TRAFFIC' yazısı ve motosiklet detayı habere uygun değil, yabancı kaynaklı.",
+      "gerekli": [
+       {
+        "unsur": "polis ekipleri",
+        "var": true
+       },
+       {
+        "unsur": "polis aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:57+03:00"
+    },
     "r1:dfd9b69a4e14:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -145411,7 +146033,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-21T12:31:46+03:00",
+   "t": "2026-11-21T21:31:57+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -170200,6 +170822,127 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cloudy_blue_sky_without_sun.jpg/1280px-Cloudy_blue_sky_without_sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f336b26e68bd37e8": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     10,
+     830,
+     560
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 50,
+    "nesneler": [
+     "sahne",
+     "müzik aletleri",
+     "aydınlatma truss",
+     "merdiven",
+     "sütunlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi avluda sahne kurmuş orkestra ve izleyiciler",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "müzik etkinlikleri",
+     "kıbrıs etkinlikleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      787,
+      214,
+      994,
+      313
+     ],
+     [
+      848,
+      114,
+      998,
+      192
+     ],
+     [
+      857,
+      303,
+      1000,
+      401
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:34f13cd52cf3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili konser fotoğrafıdır, orkestra ve sahne görünmektedir.",
+      "gerekli": [
+       {
+        "unsur": "orkestra",
+        "var": true
+       },
+       {
+        "unsur": "sahne",
+        "var": true
+       },
+       {
+        "unsur": "müzik aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       10,
+       830,
+       560
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:31:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e327186169592927",
+    "sha": "ecb05aa00972f04fec6e6364"
+   },
+   "t": "2026-11-21T21:31:49+03:00",
+   "teknik": {
+    "doygunluk": 30.6,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.289,
+    "keskinlik": 3079,
+    "kontrast": 61,
+    "medyan": 91,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Concert_in_B%C3%BCy%C3%BCk_Han.jpg/1280px-Concert_in_B%C3%BCy%C3%BCk_Han.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f38a08b5fe25f09e": {
    "icerik": {
