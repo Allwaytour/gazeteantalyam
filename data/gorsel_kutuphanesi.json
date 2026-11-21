@@ -19758,6 +19758,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:1615b44cb7ff:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Rıhtım ve liman alanı görünüyor, ancak onarım çalışması yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "iskele",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       575,
+       0,
+       917,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T18:01:59+03:00"
+    },
     "r1:17a02edc7691:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -20061,7 +20092,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-21T12:01:24+03:00",
+   "t": "2026-11-21T18:01:59+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -27274,6 +27305,107 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Silver_Screen_in_the_Silver_City_Editathon_Aberdeen_August_2019.jpg/1280px-Silver_Screen_in_the_Silver_City_Editathon_Aberdeen_August_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "244aa6c8bf47eb0e": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     150,
+     750,
+     938
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap iskele",
+     "Türk bayrağı",
+     "deniz",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz üzerinde yer alan ahşap iskele ve Türk bayrağı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "iskele onarımı",
+     "turizm",
+     "sahil haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:1615b44cb7ff:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Alanya İskelesi görülüyor ancak onarım çalışması yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "iskele",
+        "var": true
+       },
+       {
+        "unsur": "rıhtım",
+        "var": false
+       },
+       {
+        "unsur": "onarım çalışması",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       150,
+       750,
+       938
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T18:01:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8c7464e0d5e5e797",
+    "sha": "00bbaade83004d6014deab6d"
+   },
+   "t": "2026-11-21T18:01:59+03:00",
+   "teknik": {
+    "doygunluk": 37.7,
+    "inen": [
+     500,
+     158
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 2044,
+    "kontrast": 37,
+    "medyan": 168,
+    "parlaklik": 163,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pier_in_konakli.JPG/1280px-Pier_in_konakli.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "24709f737e204bd7": {
    "icerik": {
     "ana_kutu": [
@@ -31688,6 +31820,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Antalya_Cumhuriyet_Caddesi_in_2015_65.jpg/1280px-Antalya_Cumhuriyet_Caddesi_in_2015_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2b07100fe16b1525": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "sondaj kamyonu",
+     "arazi",
+     "dağ",
+     "numune kutusu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Arazide çalışan sondaj kamyonu ve numune kutuları.",
+    "sahne_turu": "olay_etkinlık",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "zemin etüdü",
+     "inşaat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c55ebaf994a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arazi üzerinde zemin etüt çalışması yapan sondaj aracı İbradı projesine temsilî olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "arazi",
+        "var": true
+       },
+       {
+        "unsur": "çalışma alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "tamamlanmış hastane"
+      ]
+     },
+     "t": "2026-11-21T18:03:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9193c58dcfcf8d1b",
+    "sha": "bda320f724ab8610e47edabf"
+   },
+   "t": "2026-11-21T18:03:37+03:00",
+   "teknik": {
+    "doygunluk": 24.4,
+    "inen": [
+     500,
+     363
+    ],
+    "karanlik_oran": 0.169,
+    "keskinlik": 2632,
+    "kontrast": 69,
+    "medyan": 136,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Corps_drills_borehole_test_sites_at_Success_Dam_%2813913247024%29.jpg/1280px-Corps_drills_borehole_test_sites_at_Success_Dam_%2813913247024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2b63debe08074369": {
    "icerik": {
@@ -41048,6 +41277,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Historic_%C3%87%C4%B1nar_Hotel_in_Termal%2C_Yalova.jpg/1280px-Historic_%C3%87%C4%B1nar_Hotel_in_Termal%2C_Yalova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3656eaad420dd7da": {
+   "icerik": {
+    "ana_kutu": [
+     505,
+     527,
+     682,
+     573
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "taş ev",
+     "sokak",
+     "kişi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İbradı'daki geleneksel düğmeli evler arasında yürüyen bir kişi",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "İbradı tanıtımı",
+     "kültürel miras"
+    ],
+    "uygunsuz_baglamlar": [
+     "inşaat haberi",
+     "zemin etüt çalışması",
+     "hastane projesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c55ebaf994a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi evleri göstermektedir, hastane projesi veya zemin etüt çalışması ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "arazi",
+        "var": false
+       },
+       {
+        "unsur": "çalışma alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T18:03:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4d3bb9acbbec0f1b",
+    "sha": "d33d6a488add8a7e0f57f659"
+   },
+   "t": "2026-11-21T18:03:13+03:00",
+   "teknik": {
+    "doygunluk": 10.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.058,
+    "keskinlik": 2772,
+    "kontrast": 46,
+    "medyan": 129,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ibradi_houses.jpg/1280px-Ibradi_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "36946fcaca227a81": {
    "icerik": {
@@ -51769,6 +52089,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/US_Navy_030804-N-9005E-001_Aircrew_Survival_Equipmentman_Airman_Jeff_Martin%2C_a_Naval_Station_bike_patrolman%2C_guides_a_5_years_old_through_an_obstacle_course.jpg/1280px-US_Navy_030804-N-9005E-001_Aircrew_Survival_Equipmentman_Airman_Jeff_Martin%2C_a_Naval_Station_bike_patrolman%2C_guides_a_5_years_old_through_an_obstacle_course.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "482a9f88f7b13c00": {
+   "ozet": {
+    "dh": "17034b6270b0b83c",
+    "sha": "334f1525b4eaa23822d8dfcd"
+   },
+   "t": "2026-11-21T18:02:11+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.029,
+    "keskinlik": 3409,
+    "kontrast": 45,
+    "medyan": 148,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ormana%27da_ah%C5%9Fap_minare_-_panoramio.jpg/1280px-Ormana%27da_ah%C5%9Fap_minare_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "487456d82ad4fa60": {
    "icerik": {
@@ -66151,6 +66492,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Antalya_museum_Dionysus_from_theatre_3138.jpg/1280px-Antalya_museum_Dionysus_from_theatre_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5c4a3090ce0e1c96": {
+   "ozet": {
+    "dh": "9b6bf9ecee37353f",
+    "sha": "8f8d8f1e1f9bc2c6aa401011"
+   },
+   "t": "2026-11-21T18:02:11+03:00",
+   "teknik": {
+    "doygunluk": 36.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.422,
+    "keskinlik": 2779,
+    "kontrast": 56,
+    "medyan": 63,
+    "parlaklik": 76,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Altinbe%C5%9Fik_Ma%C4%9Faras%C4%B1.jpg/1280px-Altinbe%C5%9Fik_Ma%C4%9Faras%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5c546e650c0ad62d": {
    "icerik": {
@@ -85709,6 +86071,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Old_men_smoking_and_drinking_tea_at_the_docks_in_Qingdao.jpg/1280px-Old_men_smoking_and_drinking_tea_at_the_docks_in_Qingdao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7a7ee3afdf78d6cf": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ağaç",
+     "orman"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ormana bölgesinde yoğun bir ağaçlık alan",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "doğa haberi",
+     "ormanlık alan",
+     "çevre haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "inşaat haberi",
+     "zemin etüt çalışması",
+     "hastane projesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c55ebaf994a1:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece ağaçları göstermektedir, zemin etüt çalışması veya hastane projesi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "arazi",
+        "var": true
+       },
+       {
+        "unsur": "çalışma alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T18:03:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c8d9f4f6f9ccfbe5",
+    "sha": "b9f744ad8cee5367556afff7"
+   },
+   "t": "2026-11-21T18:03:13+03:00",
+   "teknik": {
+    "doygunluk": 23.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.192,
+    "keskinlik": 6318,
+    "kontrast": 56,
+    "medyan": 97,
+    "parlaklik": 104,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ormana%2C_%C4%B0brad%C4%B1_25.jpg/1280px-Ormana%2C_%C4%B0brad%C4%B1_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7a9e49bb37182c0e": {
    "icerik": {
@@ -137521,6 +137973,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg/1280px-Beydi%C4%9Fin_13_04_2016_Karg%C4%B1_Han%C4%B1_R%C3%BCckseite_Au%C3%9Fenfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c5f5ea7985115f93": {
+   "icerik": {
+    "ana_kutu": [
+     175,
+     205,
+     770,
+     885
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gemi",
+     "deniz",
+     "liman duvarı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Denizde seyreden büyük bir sondaj ve araştırma gemisi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "denizcilik",
+     "gemi haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "kara projeleri",
+     "hastane temeli"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:c55ebaf994a1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Deniz sondaj gemisi İbradı'daki kara hastanesi zemin etüdü haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "arazi",
+        "var": false
+       },
+       {
+        "unsur": "çalışma alanı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "tamamlanmış hastane"
+      ]
+     },
+     "t": "2026-11-21T18:03:37+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cff3f2626060661f",
+    "sha": "e23d23c078483d5514372cd3"
+   },
+   "t": "2026-11-21T18:03:37+03:00",
+   "teknik": {
+    "doygunluk": 11.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.084,
+    "keskinlik": 1732,
+    "kontrast": 63,
+    "medyan": 198,
+    "parlaklik": 176,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/This_is_not_a_drill_%2850520745968%29.jpg/1280px-This_is_not_a_drill_%2850520745968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c5fadea9fd3b240c": {
    "icerik": {
     "ana_kutu": [
@@ -167889,6 +168432,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:1615b44cb7ff:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İskele genel olarak görünüyor ancak onarım çalışması detaylı seçilemiyor.",
+      "gerekli": [
+       {
+        "unsur": "iskele",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       600,
+       470,
+       664,
+       831
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T18:01:59+03:00"
+    },
     "r1:5f0df68677ae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -167955,7 +168529,7 @@
     "dh": "07070f0e09030300",
     "sha": "39f4224942ce037a9c407a0a"
    },
-   "t": "2026-11-11T00:38:05+03:00",
+   "t": "2026-11-21T18:01:59+03:00",
    "teknik": {
     "doygunluk": 49.0,
     "inen": [
@@ -191081,6 +191655,64 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "f40334ed0a7026d3": {
+   "alt_tur": "kurum",
+   "boyut": [
+    2048,
+    1152
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Gece vakti deniz kenarındaki sahil ve şehir ışıkları",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-21T18:01:59+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Paul Grach / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Paul Grach",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:When_It_Rains_It_Pours_(233337127).jpeg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "deniz",
+    "iskele",
+    "sahil",
+    "şehir ışıkları"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/When_It_Rains_It_Pours_%28233337127%29.jpeg/500px-When_It_Rains_It_Pours_%28233337127%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Alanya haberleri",
+    "iklim konferansı",
+    "turizm"
+   ],
+   "kullanilamaz": [
+    "maç özeti",
+    "kaza haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "ozne_kurum",
+   "son_kabul": "2026-11-21T18:01:59+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/When_It_Rains_It_Pours_%28233337127%29.jpeg/1280px-When_It_Rains_It_Pours_%28233337127%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
     "kart",
     "detay"
    ],
