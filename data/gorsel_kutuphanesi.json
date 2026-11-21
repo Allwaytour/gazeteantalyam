@@ -63930,6 +63930,111 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Adana_Demirspor_vs_Antalyaspor_20220225_8.jpg/1280px-Adana_Demirspor_vs_Antalyaspor_20220225_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "56604a6b984e8c6c": {
+   "icerik": {
+    "ana_kutu": [
+     163,
+     313,
+     775,
+     944
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "binici",
+     "engel",
+     "çiçek aranjmanı",
+     "kum zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda engel atlayan beyaz at ve üzerindeki kadın binici.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik",
+     "engel atlama",
+     "spor müsabakası"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      163,
+      471,
+      242,
+      528
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Binicilik sınavı ve engel atlama temasına tamamen uygun bir at ve binici görseli.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       163,
+       313,
+       775,
+       944
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f039b8bb99b6767",
+    "sha": "62064d097f3dd81d2fdd63c1"
+   },
+   "t": "2026-11-21T23:01:40+03:00",
+   "teknik": {
+    "doygunluk": 25.8,
+    "inen": [
+     400,
+     330
+    ],
+    "karanlik_oran": 0.236,
+    "keskinlik": 1412,
+    "kontrast": 67,
+    "medyan": 159,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1613085411234-9c83af5562d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c2hvdyUyMGp1bXBpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "566568a72ebf9592": {
    "icerik": {
     "ana_kutu": [
@@ -82098,6 +82203,109 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Dr.-Wirth-Platz_20240929_HOF4635_RAW-Export.jpg/1280px-Dr.-Wirth-Platz_20240929_HOF4635_RAW-Export.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "71ed74d99bfe5ad9": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     513,
+     582,
+     768
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "binici",
+     "engel",
+     "tahta duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı manejde engel atlayan siyah at ve binicisi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik eğitimi",
+     "kapalı manej",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      569,
+      297,
+      622
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kapalı alanda engel atlayan at ve binici, binicilik sınavı haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       513,
+       582,
+       768
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "03473939b1910513",
+    "sha": "6aa2e4b4bfe7a0ad9a056d2d"
+   },
+   "t": "2026-11-21T23:01:35+03:00",
+   "teknik": {
+    "doygunluk": 51.1,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.178,
+    "keskinlik": 1825,
+    "kontrast": 63,
+    "medyan": 122,
+    "parlaklik": 120,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Highmark_Farms_-_Sam_Jumping_%284590545708%29.jpg/1280px-Highmark_Farms_-_Sam_Jumping_%284590545708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "71ffac03e3c94699": {
    "icerik": {
     "ana_kutu": [
@@ -83982,6 +84190,111 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1461595520627-42e3c83019bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHdvJTIwbWVuJTIwZHJpbmtpbmclMjB0ZWF8ZW58MXwwfHx8MTc5NDMyNjg2MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "74e16871b31d9800": {
+   "icerik": {
+    "ana_kutu": [
+     50,
+     279,
+     838,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "binici",
+     "engel",
+     "saat kulesi dekoru",
+     "çim zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çim alanda saat kuleli engelden atlayan kahverengi at ve binicisi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik",
+     "engel atlama",
+     "spor"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "sağlık"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      117,
+      500,
+      183,
+      546
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Binicilik sınavı haberi için gerekli at ve binici unsurlarını net bir şekilde barındırıyor.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       50,
+       279,
+       838,
+       700
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f7633397a3e3e09",
+    "sha": "c676f7a09482d28850e87e19"
+   },
+   "t": "2026-11-21T23:01:40+03:00",
+   "teknik": {
+    "doygunluk": 28.8,
+    "inen": [
+     400,
+     282
+    ],
+    "karanlik_oran": 0.02,
+    "keskinlik": 1414,
+    "kontrast": 49,
+    "medyan": 165,
+    "parlaklik": 153,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1568910866193-8240a89e9648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2hvdyUyMGp1bXBpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "7512cbea6c1c7ad7": {
    "icerik": {
@@ -121201,6 +121514,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mahinur_%C3%96zdemir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "aaa7a5334be4f88a": {
+   "icerik": {
+    "ana_kutu": [
+     517,
+     321,
+     689,
+     532
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "eğitim alanı",
+     "çit",
+     "aydınlatma direği",
+     "el arabası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş binicilik eğitim alanı ve aydınlatma direkleri.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik tesisi",
+     "at çiftliği",
+     "altyapı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sınav haberi",
+     "yarışma",
+     "ödül töreni"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta at veya binici yok, yalnızca boş bir tesis alanı görünüyor.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": false
+       },
+       {
+        "unsur": "binici",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f131f0721330503",
+    "sha": "4293abb7f1ba27bc6e662960"
+   },
+   "t": "2026-11-21T23:01:35+03:00",
+   "teknik": {
+    "doygunluk": 32.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.024,
+    "keskinlik": 1235,
+    "kontrast": 36,
+    "medyan": 137,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Horse_riding_training_area_-_geograph.org.uk_-_1940742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "aaaa07fd45b7560b": {
    "icerik": {
     "ana_kutu": [
@@ -126771,6 +127176,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nilio_conducting_training_session_at_SSS.jpg/1280px-Nilio_conducting_training_session_at_SSS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b17dbe4790a7b548": {
+   "icerik": {
+    "ana_kutu": [
+     347,
+     329,
+     818,
+     686
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "at",
+     "römork",
+     "çit",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çitlerle çevrili alanda koşan kahverengi at ve arkasında römork.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "at çiftliği",
+     "binicilik tesisi",
+     "hayvan bakımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sınav haberi",
+     "ödül töreni",
+     "yarışma"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Binici bulunmadığı ve sınav ortamını yansıtmadığı için temsilî olarak zayıf kalır.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d3d195374e3a1c07",
+    "sha": "6ba2ddfb8a7424fdacb7afee"
+   },
+   "t": "2026-11-21T23:01:35+03:00",
+   "teknik": {
+    "doygunluk": 37.3,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.221,
+    "keskinlik": 3953,
+    "kontrast": 59,
+    "medyan": 104,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Horse_training_at_Riding_School-1_%2828857384072%29.jpg/1280px-Horse_training_at_Riding_School-1_%2828857384072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b1814a2f9a8c9c88": {
    "icerik": {
@@ -141282,6 +141779,109 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/AKP_headquarters_Ankara_2015_general_election.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "c6400a5faaec0b60": {
+   "icerik": {
+    "ana_kutu": [
+     188,
+     381,
+     888,
+     885
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "binici",
+     "kask",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda duruş sergileyen kahverengi at ve binicisi.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik eğitimi",
+     "at terbiyesi",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      188,
+      584,
+      281,
+      642
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "At ve binicinin düzenli eğitimi gösteren bu kare temsilî sınav haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       188,
+       381,
+       888,
+       885
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "825a49089c8c872a",
+    "sha": "7a8aa91f4fdb0392fe9aa8f1"
+   },
+   "t": "2026-11-21T23:01:35+03:00",
+   "teknik": {
+    "doygunluk": 23.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.062,
+    "keskinlik": 1205,
+    "kontrast": 57,
+    "medyan": 180,
+    "parlaklik": 158,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1594768816441-1dd241ffaa67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aG9yc2UlMjByaWRpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c64a9c97d1bb1cbb": {
    "icerik": {
@@ -161706,6 +162306,109 @@
    },
    "url": "https://images.unsplash.com/photo-1707979577466-2d6109c68a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGFpcmRyZXNzaW5nJTIwY29tcGV0aXRpb258ZW58MXwwfHx8MTc5NDIxOTg0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "e4b551615c1c957c": {
+   "icerik": {
+    "ana_kutu": [
+     2,
+     376,
+     897,
+     626
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "binici",
+     "engel",
+     "kum zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Engel atlayan at ve binici açık alandaki eğitim parkurunda.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik yarışması",
+     "engel atlama eğitimi",
+     "spor haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      489,
+      214,
+      563
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "At ve binici açık parkurda engel atlıyor, temsilî sınav haberi için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       2,
+       376,
+       897,
+       626
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7573353032726e2f",
+    "sha": "8d5a12721d5624a5ead32883"
+   },
+   "t": "2026-11-21T23:01:35+03:00",
+   "teknik": {
+    "doygunluk": 19.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.16,
+    "keskinlik": 2601,
+    "kontrast": 65,
+    "medyan": 109,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Training_horse_jumping.jpg/1280px-Training_horse_jumping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e4b91e7cfc2c8609": {
    "ozet": {
     "dh": "10941868183c749a",
@@ -178362,6 +179065,104 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vindobona_Hoher_Markt-121.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "fb077ed6e774ad05": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "at",
+     "eyer",
+     "üzengi",
+     "çizme",
+     "binici pantolonu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kahverengi ata binen binicinin bacağı ve üzengi yakın plan görüntüsü.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "binicilik",
+     "spor",
+     "at yarışı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:334fe9bdd47d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "At ve binici açıkça görülüyor, binicilik sınavı haberi için uygun bir temsilî görsel.",
+      "gerekli": [
+       {
+        "unsur": "at",
+        "var": true
+       },
+       {
+        "unsur": "binici",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:01:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1194e7e3e3e56643",
+    "sha": "6ecd388573efd93f2b48735e"
+   },
+   "t": "2026-11-21T23:01:40+03:00",
+   "teknik": {
+    "doygunluk": 39.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.179,
+    "keskinlik": 890,
+    "kontrast": 58,
+    "medyan": 90,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1600715151005-e6d44b9ef840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aG9yc2UlMjByaWRpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "fb09d40063c1d890": {
    "ozet": {
@@ -196019,6 +196820,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-12T11:26:31+03:00",
    "url": "https://images.unsplash.com/photo-1558996260-4bac67dbd110?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y29mZmVlJTIwdGFzdGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQ0NzE5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "fb077ed6e774ad05": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5184,
+    3456
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kahverengi ata binen binicinin bacağı ve üzengi yakın plan görüntüsü.",
+   "gosterim_ad": "binicilik yeterlilik sınavı",
+   "ilk_kabul": "2026-11-21T23:01:40+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Philippe Oursel / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Philippe Oursel",
+    "sayfa": "https://unsplash.com/photos/person-in-white-cowboy-hat-riding-brown-horse-during-daytime-jckGRV_-FI4"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "at",
+    "binici",
+    "binici pantolonu",
+    "eyer",
+    "çizme",
+    "üzengi"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1600715151005-e6d44b9ef840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aG9yc2UlMjByaWRpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg2fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "binicilik",
+    "spor",
+    "at yarışı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "diger",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T23:01:40+03:00",
+   "url": "https://images.unsplash.com/photo-1600715151005-e6d44b9ef840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aG9yc2UlMjByaWRpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",

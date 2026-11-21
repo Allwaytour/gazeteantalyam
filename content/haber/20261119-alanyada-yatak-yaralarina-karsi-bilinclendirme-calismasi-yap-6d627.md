@@ -2,8 +2,8 @@
 title: Alanya'da yatak yaralarına karşı bilinçlendirme çalışması yapıldı
 date: '2026-11-19T13:56:00+03:00'
 ozet: Alanya Eğitim ve Araştırma Hastanesinde düzenlenen etkinlikte, yatağa bağımlı hastalar için risk oluşturan basınç yaralanmaları ve korunma yolları anlatıldı.
-gorsel: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: zhang shuaizhang / Unsplash'
+gorsel: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Tasha Kostyuk / Unsplash'
 kategoriler:
 - Sağlık
 ilceler:
@@ -18,32 +18,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 816c5a3a1275
-  kaynak_sayfa: https://unsplash.com/photos/P65ogppIhUg
-  fotografci: zhang shuaizhang
+  kaynak_sayfa: https://unsplash.com/photos/Pk-KuizxQv8
+  fotografci: Tasha Kostyuk
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Hastane
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'hastane-2' (Hastane) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'hastane-1' (Hastane) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: hastane-2
-    tarih: '2026-11-19T14:28:39+03:00'
+    arsiv_id: hastane-1
+    tarih: '2026-11-21T23:03:20+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -54,8 +51,8 @@ kaynak_url: https://www.mansetalanya.com/alanyada-yataga-bagimli-hastalar-icin-h
 gorsel_yedek: /images/haber-gorsel/20261119-alanyada-yatak-yaralarina-karsi-bilinclendirme-calismasi-yap--bee733ae.jpg
 gorsel_yerlesim:
   boyut:
-  - 4017
-  - 2678
+  - 5552
+  - 4164
   dikey: false
   surum: y3
   manset: kaplama
@@ -73,10 +70,10 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1777269749032-d8d458ae594d?fm=jpg&q=80&w=1600&fit=max
+- https://images.unsplash.com/photo-1711343777918-6d395c16e37f?fm=jpg&q=80&w=1600&fit=max
 ---
 Alanya Eğitim ve Araştırma Hastanesi, halk arasında yatak yarası olarak bilinen basınç yaralanmalarına dikkat çekmek amacıyla bilgilendirme etkinlikleri gerçekleştirdi. Hastanenin poliklinik girişinde kurulan stantta hastalara, hasta yakınlarına ve sağlık çalışanlarına basınç yaralanmalarının nedenleri ve korunma yöntemleri aktarıldı. Vatandaşlara bilgilendirici broşürler dağıtılırken hastane yönetimi de çalışmaya destek verdi.
 
