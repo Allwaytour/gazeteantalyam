@@ -15961,13 +15961,48 @@
       "yasak": []
      },
      "t": "2026-11-12T14:29:12+03:00"
+    },
+    "r1:9e2b26a13b52:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya Expo Bulvarı değil, yabancı bir ülkedeki farklı bir yolu göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       },
+       {
+        "unsur": "araç trafiği",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       588,
+       0,
+       960,
+       428
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:15+03:00"
     }
    },
    "ozet": {
     "dh": "d1f11895e00b6b89",
     "sha": "2bf63a51927675fdae91c239"
    },
-   "t": "2026-11-12T14:29:12+03:00",
+   "t": "2026-11-21T15:32:15+03:00",
    "teknik": {
     "doygunluk": 19.9,
     "inen": [
@@ -22775,13 +22810,43 @@
       "yasak": []
      },
      "t": "2026-11-12T14:29:12+03:00"
+    },
+    "r1:9e2b26a13b52:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü Antalya'ya değil, Hong Kong'daki bir fuar alanına aittir ve haberle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       },
+       {
+        "unsur": "araç trafiği",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:15+03:00"
     }
    },
    "ozet": {
     "dh": "0f3baf5d4dcecd86",
     "sha": "d83964941eadd0b2f0218120"
    },
-   "t": "2026-11-12T14:29:12+03:00",
+   "t": "2026-11-21T15:32:15+03:00",
    "teknik": {
     "doygunluk": 20.9,
     "inen": [
@@ -24014,6 +24079,97 @@
    },
    "url": "https://images.unsplash.com/photo-1588075506694-d6ab61c85d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "208da52ca87a1098": {
+   "icerik": {
+    "ana_kutu": [
+     291,
+     180,
+     626,
+     765
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zirhli arac",
+     "tas yol",
+     "toprak zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Arnavut kaldırım yolda ilerleyen askeri zırhlı personel taşıyıcı araç.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri tatbikat",
+     "savunma sanayi",
+     "arazi araci testi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sehir ici trafik",
+     "belediye hizmetleri",
+     "asfalt yol calismasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9e2b26a13b52:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusuyla ilgisiz askeri zırhlı araç ve arazi yolu gösterilmektedir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": false
+       },
+       {
+        "unsur": "arac trafigi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f1799f861e31523",
+    "sha": "22e994c73f826d112293c102"
+   },
+   "t": "2026-11-21T15:32:34+03:00",
+   "teknik": {
+    "doygunluk": 32.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 2892,
+    "kontrast": 48,
+    "medyan": 139,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/CM-21A_Driving_through_Unflated_Stone_Road_20121013a.jpg/1280px-CM-21A_Driving_through_Unflated_Stone_Road_20121013a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "20a40267fdfb8154": {
    "icerik": {
     "ana_kutu": [
@@ -25089,6 +25245,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1583356230736-b5b9ecb85605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aG9zcGl0YWwlMjBiYWJ5JTIwYmxhbmtldCUyMHRveXxlbnwxfDB8fHwxNzk0MTQwMjAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "21fe58220587dadf": {
+   "icerik": {
+    "ana_kutu": [
+     32,
+     219,
+     881,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otobus",
+     "garaj",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı bir garaj veya depoda park halinde duran mavi renkli çift katlı otobüs.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ulasim haberleri",
+     "otobus filosu",
+     "toplu tasima"
+    ],
+    "uygunsuz_baglamlar": [
+     "trafik acilmasi",
+     "yol calismasi",
+     "canli trafik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9e2b26a13b52:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kapalı bir tesiste duran otobüs vardır, yolun trafiğe açılmasıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": false
+       },
+       {
+        "unsur": "arac trafigi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "af960d68e0f0f8e1",
+    "sha": "497e64606099a839a8d2ae33"
+   },
+   "t": "2026-11-21T15:32:34+03:00",
+   "teknik": {
+    "doygunluk": 26.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.358,
+    "keskinlik": 3370,
+    "kontrast": 66,
+    "medyan": 73,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Stagecoach_Manchester_Driver_Training_19287_-_MX08_GTU_%40_Queens_Road_125.jpg/1280px-Stagecoach_Manchester_Driver_Training_19287_-_MX08_GTU_%40_Queens_Road_125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "22292d8c1a1002bf": {
    "t": "2026-11-08T16:08:35+03:00",
@@ -38129,6 +38376,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Burnt_trees_at_the_western_end_of_the_Annalong_Forest_-_geograph.org.uk_-_4525688.jpg/1280px-Burnt_trees_at_the_western_end_of_the_Annalong_Forest_-_geograph.org.uk_-_4525688.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "339f24d448829416": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     240,
+     560,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 500,
+    "nesneler": [
+     "asfalt yol",
+     "asma köprü",
+     "bina",
+     "araç",
+     "kalabalık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boğaziçi Köprüsü açılışında köprü üzerinde ve çevresinde toplanan kalabalık",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "köprü açılışı",
+     "tarihi olaylar",
+     "ulaşım haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel trafik",
+     "Antalya haberleri",
+     "günlük yaşam"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9e2b26a13b52:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki Expo Bulvarı yerine İstanbul Boğaziçi Köprüsü'nü göstermektedir ve tarihi bir açılış karesidir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       },
+       {
+        "unsur": "araç trafiği",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0f0f1307070313",
+    "sha": "e4b3e9dae05f726b4d20e8b4"
+   },
+   "t": "2026-11-21T15:32:34+03:00",
+   "teknik": {
+    "doygunluk": 38.6,
+    "inen": [
+     500,
+     338
+    ],
+    "karanlik_oran": 0.195,
+    "keskinlik": 2388,
+    "kontrast": 59,
+    "medyan": 136,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bosphorus_Bridge_Opening_Day%2C_%C4%B0stanbul_%2813079997445%29.jpg/1280px-Bosphorus_Bridge_Opening_Day%2C_%C4%B0stanbul_%2813079997445%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "33b27a47f29834ba": {
    "icerik": {
     "ana_kutu": [
@@ -46314,6 +46654,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Children%2C_town_hall_of_Paris.jpg/1280px-Children%2C_town_hall_of_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "40677d41a0bc9971": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     340,
+     900,
+     900
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "apartman",
+     "ateş",
+     "pencere",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti yanan bir apartman binası ve çevredeki binalar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yangın haberi",
+     "bina yangını",
+     "felaket haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "ekonomi haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf farklı bir ülkedeki büyük bir yangına ait olduğu için Alanya'daki daire yangını haberine uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       340,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0000000000c1391c",
+    "sha": "9f1dedf676c1fc823ef38063"
+   },
+   "t": "2026-11-21T15:31:25+03:00",
+   "teknik": {
+    "doygunluk": 9.3,
+    "inen": [
+     500,
+     368
+    ],
+    "karanlik_oran": 0.021,
+    "keskinlik": 395,
+    "kontrast": 25,
+    "medyan": 70,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/20251126_201905_TaiPoApartmentFire.jpg/1280px-20251126_201905_TaiPoApartmentFire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "408a7c539ee96c43": {
    "icerik": {
     "ana_kutu": [
@@ -50813,6 +51246,98 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Destruction_at_furniture_factory_%283%29_%2814312398099%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "47b6030ada086fdc": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina cephesi",
+     "harfler",
+     "pencere",
+     "lamba",
+     "ağaç dalı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "EXHIBITS yazılı modern bir sergi binasının dış cephesi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sergi alanı",
+     "müze",
+     "fuar binası"
+    ],
+    "uygunsuz_baglamlar": [
+     "daire yangını",
+     "konut haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir sergi binası cephesidir, daire yangını haberiyle hiçbir bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": false
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2525135e76b61353",
+    "sha": "3da00d5ea1cab0b78851e63f"
+   },
+   "t": "2026-11-21T15:31:55+03:00",
+   "teknik": {
+    "doygunluk": 27.1,
+    "inen": [
+     500,
+     374
+    ],
+    "karanlik_oran": 0.226,
+    "keskinlik": 3178,
+    "kontrast": 65,
+    "medyan": 129,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Pomona_fairgrounds_building_4_facade.jpg/1280px-Pomona_fairgrounds_building_4_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "47bba72411526aca": {
    "icerik": {
@@ -68055,6 +68580,97 @@
    },
    "url": "/images/kurum/4e499927baa398bd.jpg"
   },
+  "609e811e48c32884": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kapı",
+     "duvar",
+     "pencere",
+     "tahta zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ve hasarlı boş bir evin iç mekan görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi yapılar",
+     "mimari restorasyon",
+     "eski evler"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel daire yangını",
+     "kaza haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski ve hasarlı bir iç mekanı gösteriyor ancak Alanya'daki güncel daire yangınıyla ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": false
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "39139393931bfb27",
+    "sha": "55e40757c1cca6e3651044ed"
+   },
+   "t": "2026-11-21T15:31:55+03:00",
+   "teknik": {
+    "doygunluk": 18.9,
+    "inen": [
+     500,
+     346
+    ],
+    "karanlik_oran": 0.043,
+    "keskinlik": 1058,
+    "kontrast": 42,
+    "medyan": 158,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/72-NorthAmericanPhalanx-interior.jpg/1280px-72-NorthAmericanPhalanx-interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6121f776d90c2ff7": {
    "icerik": {
     "ana_kutu": [
@@ -75209,6 +75825,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Utility_pole_tags.jpg/1280px-Utility_pole_tags.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6b97a02aab96925d": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     87,
+     1000,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "pencere",
+     "tabela",
+     "sokak lambası",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pencereleri tahtayla kapatılmış ticari binaların cadde görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "terk edilmiş binalar",
+     "kentleşme",
+     "esnaf haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel daire yangını",
+     "kaza haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf pencereleri kapalı binaları gösterir, Alanya'daki daire yangınıyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": false
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:55+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "98dcdc9c1c332332",
+    "sha": "e8de33c6bbc5961cffe40a84"
+   },
+   "t": "2026-11-21T15:31:55+03:00",
+   "teknik": {
+    "doygunluk": 21.9,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.095,
+    "keskinlik": 1990,
+    "kontrast": 73,
+    "medyan": 110,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/City_Laundromat%2C_BF%2C_facade_with_adjacent_building.jpg/1280px-City_Laundromat%2C_BF%2C_facade_with_adjacent_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6b98794efb86b6b2": {
    "t": "2026-11-07T23:58:23+03:00",
@@ -127155,6 +127863,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ceylan_Ertem_%282%29.jpg/1280px-Ceylan_Ertem_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b61454f0da4f252c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     204,
+     856,
+     590
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "itfaiye aracı",
+     "merdiven",
+     "bina",
+     "duman",
+     "itfaiyeci",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İtfaiye merdiveni ve aracı ile müdahale edilen binadaki daire yangını ve dumanlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "daire yangını haberleri",
+     "itfaiye müdahale haberleri",
+     "bina yangını haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "ekonomi haberleri",
+     "magazin haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf daire yangını ve dumanı gösteriyor ancak Alanya'daki olaya değil başka bir yangına ait.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       204,
+       856,
+       590
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1d1d0d0d0d0d064d",
+    "sha": "6bb7ba0408271b5b262ad17c"
+   },
+   "t": "2026-11-21T15:31:25+03:00",
+   "teknik": {
+    "doygunluk": 32.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.403,
+    "keskinlik": 1924,
+    "kontrast": 78,
+    "medyan": 68,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Wohnungsbrand-Dortmund.jpg/1280px-Wohnungsbrand-Dortmund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b631a6f231fb42d5": {
    "icerik": {
     "ana_kutu": [
@@ -142868,6 +143675,41 @@
      },
      "t": "2026-11-08T14:36:57+03:00"
     },
+    "r1:b90b2f27dd0c:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Hasan Subaşı Tesisleri ve toplantı ile ilgili; stadyum fotoğrafı yanlış tesisi gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalyaspor arması",
+        "var": false
+       },
+       {
+        "unsur": "tesis binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       267,
+       127,
+       617,
+       888
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:32:04+03:00"
+    },
     "r1:d3be411f3e13:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -142937,7 +143779,7 @@
     "dh": "1313e0cc3c528020",
     "sha": "b4e79ca308215b528e1f9598"
    },
-   "t": "2026-11-20T11:58:59+03:00",
+   "t": "2026-11-21T15:32:04+03:00",
    "teknik": {
     "doygunluk": 22.9,
     "inen": [
@@ -152574,6 +153416,99 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fatma_%C5%9Eahin%2C_December_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "de26f224ad5673c7": {
+   "icerik": {
+    "ana_kutu": [
+     450,
+     330,
+     900,
+     950
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "apartman",
+     "ateş",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece vakti alevler içindeki bir apartman binası.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yangın haberi",
+     "bina yangını",
+     "felaket haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "ekonomi haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4f3b73568b71:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf başka bir ülkedeki yangın olayına ait olup Alanya'daki haberle coğrafi olarak uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "yanmış daire",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       450,
+       330,
+       900,
+       950
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T15:31:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0000000084ec388a",
+    "sha": "db11e7dc2eb3c7fc5bddf131"
+   },
+   "t": "2026-11-21T15:31:25+03:00",
+   "teknik": {
+    "doygunluk": 9.3,
+    "inen": [
+     500,
+     322
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 457,
+    "kontrast": 26,
+    "medyan": 68,
+    "parlaklik": 73,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/20251126_201905_TaiPoApartmentFire_%28cropped%29.jpg/1280px-20251126_201905_TaiPoApartmentFire_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "de4defb683c7ceb9": {
    "icerik": {
