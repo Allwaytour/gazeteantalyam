@@ -32295,6 +32295,37 @@
      },
      "t": "2026-11-08T11:39:46+03:00"
     },
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yük gemisi var ancak aranan özel deniz sismik araştırma gemisi bulunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       96,
+       731,
+       936
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:18+03:00"
+    },
     "r1:f1f4b20621c2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -32331,7 +32362,11 @@
      "t": "2026-11-08T11:09:26+03:00"
     }
    },
-   "t": "2026-11-08T11:39:46+03:00",
+   "ozet": {
+    "dh": "0103338998d68c21",
+    "sha": "1bd158cbfe865872044ff86e"
+   },
+   "t": "2026-11-21T19:31:18+03:00",
    "teknik": {
     "doygunluk": 34.2,
     "inen": [
@@ -78560,6 +78595,32 @@
      },
      "t": "2026-11-13T03:00:45+03:00"
     },
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya şehir ve kale genel görünümü, körfezdeki sismik çalışma çağrısı haberi için yetersiz ve ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:18+03:00"
+    },
     "r1:78bf887a4cc7:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -78796,44 +78857,13 @@
       "yasak": []
      },
      "t": "2026-11-20T20:03:22+03:00"
-    },
-    "r1:f2bac7133776:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel görünümünü başarıyla yansıtıyor, haberin konusuyla tam uyumlu.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya turistik bölge",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       150,
-       100,
-       850,
-       900
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T18:03:30+03:00"
     }
    },
    "ozet": {
     "dh": "dffffff823430717",
     "sha": "11bc5bb8cc3d4ed86c26c206"
    },
-   "t": "2026-11-20T20:03:22+03:00",
+   "t": "2026-11-21T19:31:18+03:00",
    "teknik": {
     "doygunluk": 22.4,
     "inen": [
@@ -86362,6 +86392,37 @@
      },
      "t": "2026-11-15T11:41:28+03:00"
     },
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüde büyük konteyner gemisi ve vinçler var ancak sismik araştırma gemisi değil.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       283,
+       442,
+       831,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:18+03:00"
+    },
     "r1:eff1001896f8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -86393,7 +86454,7 @@
     "dh": "fce6e6de7a185876",
     "sha": "9bbb27f3886797cb1d47e5d2"
    },
-   "t": "2026-11-20T20:03:22+03:00",
+   "t": "2026-11-21T19:31:18+03:00",
    "teknik": {
     "doygunluk": 50.6,
     "inen": [
@@ -106266,6 +106327,101 @@
    },
    "url": "https://images.unsplash.com/photo-1732794119848-3b21f5ab5a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y2VtZXRlcnklMjBlbnRyYW5jZXxlbnwxfDB8fHwxNzk0Mzk1MzM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "951beb11b3245d08": {
+   "icerik": {
+    "ana_kutu": [
+     430,
+     480,
+     800,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "araştırma gemisi",
+     "vinç",
+     "bilimsel ekipman",
+     "deniz",
+     "kask",
+     "can yeleği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz araştırma gemisinde çalışan bilim insanları ve denize indirilen bilimsel ekipmanlar.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "deniz araştırmaları",
+     "bilimsel çalışmalar",
+     "okyanus bilimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Deniz araştırması yapan bir gemi ve ekipmanları, sismik çalışma çağrısı haberi için uygun bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       430,
+       480,
+       800,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2bbbb7353d1d1e9e",
+    "sha": "8fd153b42621a4d3c79b8ef2"
+   },
+   "t": "2026-11-21T19:31:53+03:00",
+   "teknik": {
+    "doygunluk": 56.0,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.235,
+    "keskinlik": 1532,
+    "kontrast": 59,
+    "medyan": 76,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg/1280px-NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "952b9d11050d0638": {
    "icerik": {
     "ana_kutu": [
@@ -116199,6 +116355,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Stamp_of_Azerbaijan_-_2017_-_Colnect_768681_-_Historic_Architecture_-_Mosque_of_Shamakhi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "a5c2fcbf829aabc3": {
+   "icerik": {
+    "ana_kutu": [
+     500,
+     100,
+     990,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "sahil",
+     "dağ",
+     "şehir dokusu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Körfezi'nin uzaydan çekilmiş uydu görüntüsü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "coğrafya haberi",
+     "deprem araştırması haberi",
+     "körfez haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "röportaj",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Körfezi'ni gösteriyor ancak haberde talep edilen sismik araştırma gemisi fotoğrafta yok.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       500,
+       100,
+       990,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ccc61d355cccd1d2",
+    "sha": "0dcf59c18e9529de22ab2a51"
+   },
+   "t": "2026-11-21T19:31:27+03:00",
+   "teknik": {
+    "doygunluk": 34.2,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1064,
+    "kontrast": 31,
+    "medyan": 129,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gulf_of_Antalya-1.jpg/1280px-Gulf_of_Antalya-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a63cac9a8bccbb02": {
    "icerik": {
     "ana_kutu": [
@@ -120973,6 +121221,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Premier_dr._Robert_Golob_se_na_Danskem_udele%C5%BEuje_sedmega_vrha_Evropske_politi%C4%8Dne_skupnosti_%2854826169962%29.jpg/1280px-Premier_dr._Robert_Golob_se_na_Danskem_udele%C5%BEuje_sedmega_vrha_Evropske_politi%C4%8Dne_skupnosti_%2854826169962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ae2b4289a65cfffd": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     10,
+     950,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mikroorganizma",
+     "mikroskop görüntüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mikroskop altında incelenen deniz mikroorganizmaları (fitoplankton) kolajı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "biyoloji",
+     "deniz ekolojisi",
+     "mikroskobik inceleme"
+    ],
+    "uygunsuz_baglamlar": [
+     "jeofizik",
+     "sismik araştırma",
+     "haber"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mikroskobik canlı görüntüleri, jeofiziksel sismik araştırma haberiyle hiçbir görsel veya konu ilişkisi taşımamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "55dd17fcb04971b2",
+    "sha": "847cd364c0c460998bd6ddad"
+   },
+   "t": "2026-11-21T19:31:53+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     385
+    ],
+    "karanlik_oran": 0.352,
+    "keskinlik": 1960,
+    "kontrast": 69,
+    "medyan": 143,
+    "parlaklik": 93,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2814847467428%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "ae3ff6358d78d8b9": {
    "icerik": {
@@ -135680,6 +136014,98 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hakan_%C3%96zmert_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "c17f38ef15022a2c": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "dağ",
+     "bulut",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gün batımında bulutlu gökyüzü altında deniz ve dağ manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "hava durumu",
+     "manzara haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir körfez manzarası sunuyor ancak sismik çalışma çağrısı haberi için yetersiz ve gemi içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "597973636d636b6b",
+    "sha": "793ceae2a8e344f772a2f8b6"
+   },
+   "t": "2026-11-21T19:31:27+03:00",
+   "teknik": {
+    "doygunluk": 11.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.178,
+    "keskinlik": 429,
+    "kontrast": 52,
+    "medyan": 119,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Gulf_of_Antalya.jpg/1280px-Gulf_of_Antalya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c1a223cd7c636ee0": {
    "icerik": {
     "ana_kutu": [
@@ -145974,6 +146400,98 @@
     "s": "t1"
    },
    "url": "/images/kurum/3054547035eb8d0a.jpg"
+  },
+  "cff5b3f52e71f485": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     200,
+     950,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "bulut",
+     "dağ",
+     "kar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Uzaydan çekilmiş Antalya Körfezi uydu fotoğrafı",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "coğrafya haberi",
+     "uydu görüntüsü haberi",
+     "körfez haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel röportaj",
+     "spor"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Körfezi gösteriyor ancak 2002 tarihli eski bir uydu karesi olup sismik gemi barındırmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       200,
+       950,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:27+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "34747c70bc526170",
+    "sha": "8277810ae8dc31cdc131359e"
+   },
+   "t": "2026-11-21T19:31:27+03:00",
+   "teknik": {
+    "doygunluk": 24.3,
+    "inen": [
+     500,
+     340
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 2523,
+    "kontrast": 69,
+    "medyan": 93,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gulf_of_Antalya-2.jpg/1280px-Gulf_of_Antalya-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d01d84837076b2c1": {
    "icerik": {
@@ -175462,6 +175980,32 @@
      },
      "t": "2026-11-10T12:07:09+03:00"
     },
+    "r1:7863c15ec730:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Caretta caretta kaplumbağası haberi temsil etmiyor, sismik çalışma çağrısıyla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:18+03:00"
+    },
     "r1:bc406f939bf3:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -175498,7 +176042,7 @@
     "dh": "333e6d371e3c3e4f",
     "sha": "6723336c5dae3bcbe31e05e7"
    },
-   "t": "2026-11-18T13:25:50+03:00",
+   "t": "2026-11-21T19:31:18+03:00",
    "teknik": {
     "doygunluk": 35.0,
     "inen": [
@@ -177056,6 +177600,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Edward_Burtynsky.jpg/1280px-Edward_Burtynsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "feb4f71db2b71d93": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "dağ",
+     "kıyı",
+     "palmiye",
+     "plaj"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Körfezi ve Bey Dağları'nın kıyıdan genel görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "deprem",
+     "enkaz",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7863c15ec730:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen Antalya Körfezi'ni gösteren genel manzara fotoğrafı, konuya mekânsal bağlam sağlıyor.",
+      "gerekli": [
+       {
+        "unsur": "deniz sismik araştırma gemisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T19:31:18+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "030600002944caea",
+    "sha": "0c204316ccd692908d9efd83"
+   },
+   "t": "2026-11-21T19:31:18+03:00",
+   "teknik": {
+    "doygunluk": 47.9,
+    "inen": [
+     500,
+     267
+    ],
+    "karanlik_oran": 0.068,
+    "keskinlik": 6072,
+    "kontrast": 65,
+    "medyan": 171,
+    "parlaklik": 157,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Golf_von_Antalya_mit_den_%C3%B6stlichen_Bey_Da%C4%9Flar%C4%B1_13_10_2025.jpg/1280px-Golf_von_Antalya_mit_den_%C3%B6stlichen_Bey_Da%C4%9Flar%C4%B1_13_10_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "fed7fc209ece6c57": {
    "icerik": {
@@ -186252,6 +186886,69 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "951beb11b3245d08": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4288,
+    2848
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2014-07-26",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Deniz araştırma gemisinde çalışan bilim insanları ve denize indirilen bilimsel ekipmanlar.",
+   "gosterim_ad": "fay hattı araştırması",
+   "ilk_kabul": "2026-11-21T19:31:53+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "NASA Goddard Space Flight Center from Greenbelt, MD, USA / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:NASA%27s_Ship-Aircraft_Bio-Optical_Research_(SABOR)_(15011081196).jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:NASA%27s_Ship-Aircraft_Bio-Optical_Research_(SABOR)_(15011081196).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "araştırma gemisi",
+    "bilimsel ekipman",
+    "can yeleği",
+    "deniz",
+    "deniz sismik araştırma gemisi",
+    "kask",
+    "vinç"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg/500px-NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "deniz araştırmaları",
+    "bilimsel çalışmalar",
+    "okyanus bilimi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T19:31:53+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg/1280px-NASA%27s_Ship-Aircraft_Bio-Optical_Research_%28SABOR%29_%2815011081196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "kart",
     "detay"
    ],
