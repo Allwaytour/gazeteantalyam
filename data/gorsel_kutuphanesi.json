@@ -9285,6 +9285,36 @@
      },
      "t": "2026-11-20T20:01:40+03:00"
     },
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz bir apartman fotoğrafı, aydınlatma sorunuyla doğrudan bir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": true
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:01:16+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9350,7 +9380,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-20T20:01:40+03:00",
+   "t": "2026-11-21T11:01:16+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -28939,6 +28969,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/North_front%2C_looking_south._-_Agnews_State_Hospital%2C_Women%27s_Quiet_and_Medium_Building%2C_Between_North_Circle_Drive_and_Parkway_South%2C_Santa_Clara%2C_Santa_Clara_County%2C_CA_HABS_CAL%2C43-SANCLA%2C6H-1.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "27b15f69d3314166": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     350,
+     850,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "taş bina",
+     "ağaç",
+     "taş duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi taş ve tuğla yapılı bir bina ve yanında bir ağaç.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi eser",
+     "turizm",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "elektrik arızası",
+     "sanayi",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi bir yapıya ait, haberin konusu olan elektrik direği veya aydınlatma ile ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": false
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:01:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "40521092931aba9f",
+    "sha": "8c03c395fe47bf1dafc8f0d2"
+   },
+   "t": "2026-11-21T11:01:16+03:00",
+   "teknik": {
+    "doygunluk": 15.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.067,
+    "keskinlik": 4433,
+    "kontrast": 61,
+    "medyan": 126,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Alanya_Gemili_Mescit_7857.jpg/1280px-Alanya_Gemili_Mescit_7857.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "27e96983c05e64d1": {
    "icerik": {
@@ -55512,6 +55633,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abbotob%C3%BCsgaraj.jpg/1280px-Abbotob%C3%BCsgaraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5049a9203c944d5f": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     200,
+     1000,
+     800
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "elektrik direği",
+     "kablo",
+     "fiber optik kablo"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yoğun kablo karmaşası olan bir elektrik direği.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "elektrik arızası",
+     "altyapı sorunu",
+     "teknik haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "portre",
+     "tarihi eser",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan elektrik direği ve altyapı sorununu doğrudan yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": true
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       200,
+       1000,
+       800
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "patlama"
+      ]
+     },
+     "t": "2026-11-21T11:01:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b1383c31b163f9bb",
+    "sha": "d9857c3908bdc8d9b72cbff9"
+   },
+   "t": "2026-11-21T11:01:16+03:00",
+   "teknik": {
+    "doygunluk": 14.1,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.165,
+    "keskinlik": 4795,
+    "kontrast": 51,
+    "medyan": 107,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Utility_pole_with_numerous_wires.jpg/1280px-Utility_pole_with_numerous_wires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "50513af5a5dbb634": {
    "icerik": {
     "ana_kutu": [
@@ -60835,6 +61054,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1762801156780-dec274643407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bW9kZXJuJTIwYWlycG9ydCUyMHRlcm1pbmFsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIxOTc2OHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "5655bd1e196a8820": {
+   "icerik": {
+    "ana_kutu": [
+     308,
+     209,
+     1000,
+     631
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "elektrik direği",
+     "tel",
+     "izolatör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap elektrik direği ve üzerinde tel ve izolatörler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji altyapı haberleri",
+     "elektrik arızaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Elektrik direği görünüyor ancak sokak lambası yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": true
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       308,
+       209,
+       1000,
+       631
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:01:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "000ce2e264646464",
+    "sha": "4c2d60e53fd678b3f1eb1370"
+   },
+   "t": "2026-11-21T11:01:32+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.036,
+    "keskinlik": 633,
+    "kontrast": 40,
+    "medyan": 194,
+    "parlaklik": 182,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1681594095966-3db40133e930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dXRpbGl0eSUyMHBvbGV8ZW58MXwwfHx8MTc5NTI0ODA1MHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "565829b3bf4ce623": {
    "icerik": {
@@ -73846,6 +74159,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg/1280px-Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6b44c299d5e04190": {
+   "ozet": {
+    "dh": "e0c7b4b0c2b31160",
+    "sha": "770b9487987da30c60ecb42d"
+   },
+   "t": "2026-11-21T11:00:52+03:00",
+   "teknik": {
+    "doygunluk": 29.5,
+    "inen": [
+     500,
+     442
+    ],
+    "karanlik_oran": 0.506,
+    "keskinlik": 1480,
+    "kontrast": 75,
+    "medyan": 49,
+    "parlaklik": 88,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Utility_pole_tags.jpg/1280px-Utility_pole_tags.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6b98794efb86b6b2": {
    "t": "2026-11-07T23:58:23+03:00",
@@ -128427,6 +128761,36 @@
      },
      "t": "2026-11-13T09:29:07+03:00"
     },
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bir cadde görünümü, aydınlatma sorunu haberini desteklemek için çok uzak ve genel.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": true
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:01:16+03:00"
+    },
     "r1:c5db01dd4206:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -128497,7 +128861,7 @@
     "dh": "070397860706171f",
     "sha": "0c44c996c3af9e96797a9604"
    },
-   "t": "2026-11-16T18:22:33+03:00",
+   "t": "2026-11-21T11:01:16+03:00",
    "teknik": {
     "doygunluk": 35.6,
     "inen": [
@@ -170245,6 +170609,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_202112118_%283%29.jpg/1280px-Antalyaspor_fan_at_Antalyaspor_vs_Trabzonspor_202112118_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fa93622958afa7fd": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "otomobil",
+     "minare",
+     "bina",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokak üzerinde park etmiş araçlar, binalar ve bir cami minaresi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir yaşamı",
+     "sokak",
+     "yerel haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "elektrik arızası",
+     "teknik sorun",
+     "sanayi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:9c73d15c92c6:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sokak genel bir görüntü sunuyor ancak aydınlatma sorunuyla doğrudan bir bağlantısı yok.",
+      "gerekli": [
+       {
+        "unsur": "elektrik direği",
+        "var": true
+       },
+       {
+        "unsur": "sokak lambası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:01:16+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d0d6c0d4c6a8f34",
+    "sha": "c707b4660fa58d5182662979"
+   },
+   "t": "2026-11-21T11:01:16+03:00",
+   "teknik": {
+    "doygunluk": 31.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 3664,
+    "kontrast": 57,
+    "medyan": 148,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0%D0%B9%D1%82%D0%B8_%D0%BC%D0%B5%D1%81%D1%82%D0%BE_-_panoramio_%281%29.jpg/1280px-%D0%9F%D0%BE%D0%BC%D0%BE%D0%B3%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0%D0%B9%D1%82%D0%B8_%D0%BC%D0%B5%D1%81%D1%82%D0%BE_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fac447687099d250": {
    "ozet": {
     "dh": "d934b4a34366edf9",
@@ -178858,6 +179314,64 @@
    "son_kabul": "2026-11-08T15:42:41+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg/1280px-2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "5655bd1e196a8820": {
+   "alt_tur": "nesne",
+   "boyut": [
+    3641,
+    2427
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahşap elektrik direği ve üzerinde tel ve izolatörler",
+   "gosterim_ad": "aydınlatma sorunu",
+   "ilk_kabul": "2026-11-21T11:01:32+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Daniel / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Daniel",
+    "sayfa": "https://unsplash.com/photos/a-group-of-birds-sitting-on-top-of-power-lines-glIVmUqipKk"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "elektrik direği",
+    "izolatör",
+    "tel"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1681594095966-3db40133e930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dXRpbGl0eSUyMHBvbGV8ZW58MXwwfHx8MTc5NTI0ODA1MHww&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "enerji altyapı haberleri",
+    "elektrik arızaları"
+   ],
+   "kullanilamaz": [
+    "spor haberleri",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T11:01:32+03:00",
+   "url": "https://images.unsplash.com/photo-1681594095966-3db40133e930?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dXRpbGl0eSUyMHBvbGV8ZW58MXwwfHx8MTc5NTI0ODA1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
