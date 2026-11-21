@@ -1746,6 +1746,45 @@
      },
      "t": "2026-11-19T14:28:11+03:00"
     },
+    "r1:5a5a1e26bf82:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya İskele Rıhtımı ve limanı yukarıdan net şekilde görülmektedir.",
+      "gerekli": [
+       {
+        "unsur": "rıhtım",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": true
+       },
+       {
+        "unsur": "deniz kıyısı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       172,
+       747,
+       546,
+       992
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T12:01:24+03:00"
+    },
     "r1:5bcd6c8f682f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -1888,7 +1927,7 @@
     "dh": "8d4d49e43933b1b1",
     "sha": "5261c0f905e0c3ff45840d75"
    },
-   "t": "2026-11-19T14:28:11+03:00",
+   "t": "2026-11-21T12:01:24+03:00",
    "teknik": {
     "doygunluk": 35.3,
     "inen": [
@@ -19221,6 +19260,45 @@
      },
      "t": "2026-11-19T14:28:11+03:00"
     },
+    "r1:5a5a1e26bf82:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Alanya İskele Rıhtımı'nı net bir şekilde göstermektedir, ancak yenileme çalışmaları görünmemektedir.",
+      "gerekli": [
+       {
+        "unsur": "rıhtım",
+        "var": true
+       },
+       {
+        "unsur": "liman",
+        "var": true
+       },
+       {
+        "unsur": "deniz kıyısı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       374,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T12:01:22+03:00"
+    },
     "r1:5bcd6c8f682f:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -19410,7 +19488,7 @@
     "dh": "000000070e0f67e4",
     "sha": "75774d2952a2008dc44296c7"
    },
-   "t": "2026-11-19T14:28:11+03:00",
+   "t": "2026-11-21T12:01:24+03:00",
    "teknik": {
     "doygunluk": 37.5,
     "inen": [
@@ -174125,6 +174203,67 @@
    "url": "https://images.unsplash.com/photo-1645976442233-bcf005876613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZmFybWVycyUyMG1hcmtldCUyMHN0YWxsc3xlbnwxfDB8fHwxNzk0NjU5OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "01b12d19845cd033": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    4160,
+    3120
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "2023-12-26",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Alanya limanı ve sahilinin yüksekten panoramik görünümü.",
+   "gosterim_ad": "Alanya",
+   "ilk_kabul": "2026-11-21T12:01:24+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Kawon Kez Sel / Wikimedia Commons (CC0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC0",
+    "sahibi": "Kawon Kez Sel",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Alanya_Harbor_from_Alanya_Castle,_December_2023.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "binalar",
+    "deniz",
+    "deniz kıyısı",
+    "liman",
+    "rıhtım",
+    "sahil",
+    "tekne"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg/500px-Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "Alanya tanıtım",
+    "turizm"
+   ],
+   "kullanilamaz": [
+    "turizm fuarı haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T12:01:24+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg/1280px-Alanya_Harbor_from_Alanya_Castle%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
     "kart",
     "detay"
    ],
