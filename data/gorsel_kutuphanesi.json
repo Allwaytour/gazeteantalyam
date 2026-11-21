@@ -11386,6 +11386,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg/1280px-20_Eyl%C3%BCl_2023-Meral_Ak%C5%9Fener_Te%C5%9Fkilat_Bulu%C5%9Fmas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0e38960a07a23e10": {
+   "icerik": {
+    "ana_kutu": [
+     170,
+     248,
+     431,
+     648
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 100,
+    "nesneler": [
+     "sahne",
+     "çadır",
+     "sandalye",
+     "çim alan",
+     "kalabalık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık havada sandalyelerde oturan kalabalık topluluk ve sahnede müzisyenler yer alıyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konser haberi",
+     "müzik etkinlikleri",
+     "açık hava konseri"
+    ],
+    "uygunsuz_baglamlar": [
+     "müze konserleri",
+     "tarihi mekân haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0e58a0cb5cd:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber müzede kapalı alan konserini konu alıyor, ancak bu fotoğraf açık havada düzenlenmiş bir etkinliği gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "konser salonu",
+        "var": false
+       },
+       {
+        "unsur": "müzisyenler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       170,
+       248,
+       431,
+       648
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açık hava stadyumu"
+      ]
+     },
+     "t": "2026-11-21T23:31:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "73333371170f4933",
+    "sha": "d471b1cc2c3623cc77e2c686"
+   },
+   "t": "2026-11-21T23:31:43+03:00",
+   "teknik": {
+    "doygunluk": 36.1,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.191,
+    "keskinlik": 3959,
+    "kontrast": 63,
+    "medyan": 124,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Classical_concert_in_Chiapas.jpg/1280px-Classical_concert_in_Chiapas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0e3b2cf87938d205": {
    "t": "2026-11-08T13:09:11+03:00",
    "teknik": {
@@ -92577,6 +92676,108 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Manavgat_Belediyesi_building_in_2015_6033.jpg/1280px-Manavgat_Belediyesi_building_in_2015_6033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "808dfd2cd1c62dab": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     471,
+     755,
+     756
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "mermer blok",
+     "elektrikli taşlama aleti",
+     "çadır",
+     "koruyucu maske",
+     "eldiven"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Heykeltıraş çadır altında mermer bloğu elektrikli aletle yontuyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "sanat",
+     "heykeltıraş",
+     "kültür sanat haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:98e33f17acb0:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bir heykeltıraş mermer bloğu aletle yontmaktadır, sempozyum içeriğiyle birebir uyuşmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "mermer blok",
+        "var": true
+       },
+       {
+        "unsur": "heykeltıraş",
+        "var": true
+       },
+       {
+        "unsur": "yontma aletleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       471,
+       998,
+       998
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:32:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fbf9b939c9c9593f",
+    "sha": "18c628a3c6239f9066c26d55"
+   },
+   "t": "2026-11-21T23:32:13+03:00",
+   "teknik": {
+    "doygunluk": 22.0,
+    "inen": [
+     1000,
+     750
+    ],
+    "karanlik_oran": 0.014,
+    "keskinlik": 301,
+    "kontrast": 40,
+    "medyan": 163,
+    "parlaklik": 160,
+    "s": "t1"
+   },
+   "url": "/images/kurum/0b4204cdad81348c.jpg"
+  },
   "80934b71a0ded010": {
    "icerik": {
     "ana_kutu": [
@@ -163200,6 +163401,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Lithium-ion_coin_cell_batteries_in_laboratory_testing_fixture.jpg/1280px-Lithium-ion_coin_cell_batteries_in_laboratory_testing_fixture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e5618756662b5e0c": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     12,
+     995,
+     997
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kargo kutusu",
+     "barkod",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Canli bocek yazili kargo kutusu masa uzerinde",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kargo",
+     "tarim",
+     "ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:68c9344d6c0c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberdeki faydali bocekler degil, yabanci yazili bir kargo kutusu gorunuyor.",
+      "gerekli": [
+       {
+        "unsur": "faydali bocek",
+        "var": false
+       },
+       {
+        "unsur": "tarim bitkisi yapragi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T23:32:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6f190282008ac220",
+    "sha": "e398b07e2016a6f8b778c2ab"
+   },
+   "t": "2026-11-21T23:32:49+03:00",
+   "teknik": {
+    "doygunluk": 32.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.051,
+    "keskinlik": 1153,
+    "kontrast": 59,
+    "medyan": 143,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Lady_bugs_are_a_beneficial_insect_commonly_sold_for_biological_control_of_aphids..jpg/1280px-Lady_bugs_are_a_beneficial_insect_commonly_sold_for_biological_control_of_aphids..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e561ce3dc32e4a9e": {
    "ozet": {
     "dh": "8bd041783f474069",
@@ -189861,6 +190153,76 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "808dfd2cd1c62dab": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    750
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Heykeltıraş çadır altında mermer bloğu elektrikli aletle yontuyor.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-21T23:32:13+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/alanya-nin-acik-hava-sanat-galerisi-yeni-eserlerle-buyuyor/126659"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "eldiven",
+    "elektrikli taşlama aleti",
+    "heykeltıraş",
+    "koruyucu maske",
+    "mermer blok",
+    "yontma aletleri",
+    "çadır"
+   ],
+   "kucuk": "/images/kurum/0b4204cdad81348c.jpg",
+   "kullanilabilir": [
+    "sanat",
+    "heykeltıraş",
+    "kültür sanat haberi"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "ekonomi",
+    "siyaset",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-21T23:32:13+03:00",
+   "url": "/images/kurum/0b4204cdad81348c.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "80e7030514812c2e": {
    "alt_tur": "yer",
