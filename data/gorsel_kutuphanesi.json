@@ -76801,6 +76801,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg/1280px-Bus_no._800%2C_Antalya_Airport_%28AYT%29_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6b4244838af62d4f": {
+   "icerik": {
+    "ana_kutu": [
+     127,
+     411,
+     827,
+     580
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap haç",
+     "mezar taşı",
+     "ağaç",
+     "çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlık alanın önünde büyük bir ahşap haç ve mezar taşları bulunan kırsal mezarlık.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mezarlık haberleri",
+     "tarihi alan haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberleri",
+     "ekonomi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a5f6c57b8269:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mezarlık görseli uygun ancak haç sembolleri ve yabancı konum habere uygun değil.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       127,
+       411,
+       827,
+       580
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:01:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "091337101a13134c",
+    "sha": "f3f1d064b031e3d3807cad5f"
+   },
+   "t": "2026-11-21T21:01:45+03:00",
+   "teknik": {
+    "doygunluk": 29.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.24,
+    "keskinlik": 2225,
+    "kontrast": 72,
+    "medyan": 107,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_in_Szczutk%C3%B3w_%28%D0%A9%D1%83%D1%82%D0%BA%D1%96%D0%B2%29%2C_Poland.jpg/1280px-Cemetery_in_Szczutk%C3%B3w_%28%D0%A9%D1%83%D1%82%D0%BA%D1%96%D0%B2%29%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6b44c299d5e04190": {
    "ozet": {
     "dh": "e0c7b4b0c2b31160",
@@ -119850,6 +119945,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/The_political_%22Siamese%22_twins%2C_the_offspring_of_Chicago_miscegenation_LCCN2003674598.jpg/1280px-The_political_%22Siamese%22_twins%2C_the_offspring_of_Chicago_miscegenation_LCCN2003674598.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a9a0210a5c6e3c7e": {
+   "icerik": {
+    "ana_kutu": [
+     105,
+     53,
+     895,
+     947
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bisiklet aparatı",
+     "gidon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sarı renkli, çocuk bisikletleri için kullanılan bir eğitim aparatı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "bisiklet ekipmanları",
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kadın bisiklet eğitimi",
+     "haber fotoğrafı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50cad27b14ca:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan bir ürün fotoğrafıdır, kadın eğitimiyle bir bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "kadın katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:02:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0f0f2b1e9f0f0f",
+    "sha": "459c6c0f45555418f99507b2"
+   },
+   "t": "2026-11-21T21:02:21+03:00",
+   "teknik": {
+    "doygunluk": 7.4,
+    "inen": [
+     500,
+     229
+    ],
+    "karanlik_oran": 0.036,
+    "keskinlik": 1652,
+    "kontrast": 36,
+    "medyan": 118,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/E-ZBar_for_bicycle_beginner.handles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "a9cc51c0992a9d63": {
    "icerik": {
     "ana_kutu": [
@@ -123089,6 +123268,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Taxis_and_Tudors.jpg/1280px-Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Taxis_and_Tudors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "af1cb4e4c786421b": {
+   "icerik": {
+    "ana_kutu": [
+     421,
+     353,
+     796,
+     437
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "beyaz haç mezar taşı",
+     "çimen",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çimenler üzerine düzenli dizilmiş beyaz haç şeklindeki mezar taşları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mezarlık haberleri",
+     "anma töreni haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberleri",
+     "spor haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a5f6c57b8269:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel mezarlık görüntüsü var ancak haç şeklindeki taşlar Türkiye'deki bir mahalle mezarlığıyla uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "mezarlık",
+        "var": true
+       },
+       {
+        "unsur": "tel çit",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       421,
+       353,
+       796,
+       437
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T21:01:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ff7b383452531b4b",
+    "sha": "cfdd20eda54f1f8afba4c086"
+   },
+   "t": "2026-11-21T21:01:45+03:00",
+   "teknik": {
+    "doygunluk": 44.5,
+    "inen": [
+     500,
+     303
+    ],
+    "karanlik_oran": 0.09,
+    "keskinlik": 2271,
+    "kontrast": 60,
+    "medyan": 108,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Cimetiere_americain_Colleville-sur-Mer.jpg/1280px-Cimetiere_americain_Colleville-sur-Mer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "af49930d3d6772a1": {
    "icerik": {
@@ -149751,6 +150024,100 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uY2VydCUyMHN0YWdlfGVufDF8MHx8fDE3OTQyMjQxMjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "d54d9fb81394ad1e": {
+   "icerik": {
+    "ana_kutu": [
+     95,
+     272,
+     905,
+     652
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "bisiklet",
+     "ağaçlar",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir yetişkin, bisiklet sürmeyi öğrenen bir çocuğa arkadan destek oluyor.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "bisiklet eğitimi",
+     "çocuk gelişimi",
+     "spor eğitimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kadın bisiklet eğitimi",
+     "profesyonel yarış",
+     "trafik haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:50cad27b14ca:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kadınlara yönelik bir eğitimle ilgili, ancak fotoğrafta bir çocuk yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "kadın katılımcılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       583,
+       538,
+       835,
+       652
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "çocuk"
+      ]
+     },
+     "t": "2026-11-21T21:02:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "493525646d092b53",
+    "sha": "991b11aced918dfd9fe3d74e"
+   },
+   "t": "2026-11-21T21:02:21+03:00",
+   "teknik": {
+    "doygunluk": 56.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.191,
+    "keskinlik": 4743,
+    "kontrast": 54,
+    "medyan": 91,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Parent_helping_child_learning_to_ride_a_bike.jpg/1280px-Parent_helping_child_learning_to_ride_a_bike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d5555268a1516aeb": {
    "icerik": {
