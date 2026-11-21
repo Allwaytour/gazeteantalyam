@@ -9586,6 +9586,32 @@
      },
      "t": "2026-11-20T18:31:49+03:00"
     },
+    "r1:201c52674288:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki binalar Kemer Belediyesi binası değildir, konutları göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "Kemer Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:31:26+03:00"
+    },
     "r1:3c36eb2c6a9f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9843,7 +9869,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-21T11:01:16+03:00",
+   "t": "2026-11-21T20:31:26+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -16706,6 +16732,106 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/After_Th%C3%A9odore_G%C3%A9ricault_-_Satyr_and_Nymph%2C_cast_postumously.jpg/1280px-After_Th%C3%A9odore_G%C3%A9ricault_-_Satyr_and_Nymph%2C_cast_postumously.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "15ca33b21a983391": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     269,
+     1000,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "patates",
+     "çocuk",
+     "şapka",
+     "kazak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pembe şapkalı çocuk elinde tuttuğu patatesle gülümserken",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çocuk etkinliği",
+     "tarım pazarı",
+     "hasat şenliği"
+    ],
+    "uygunsuz_baglamlar": [
+     "ciddi ekonomi",
+     "resmi tarım raporu",
+     "kent haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      264,
+      393,
+      502,
+      630
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki çocuk ve arka plan yerel bir etkinlik havası verse de, yabancı pazar ortamı Korkuteli haberi için zayıf kalıyor.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       269,
+       1000,
+       874
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:32:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8ec67626625acb4b",
+    "sha": "a4bcfe32fbdb418d703f69b7"
+   },
+   "t": "2026-11-21T20:32:30+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.23,
+    "keskinlik": 1549,
+    "kontrast": 69,
+    "medyan": 97,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/20171027-AMS-LSC-1411_%2838068144111%29.jpg/1280px-20171027-AMS-LSC-1411_%2838068144111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "15dc19f6b3186cf8": {
    "ozet": {
@@ -24200,6 +24326,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/CM-21A_Driving_through_Unflated_Stone_Road_20121013a.jpg/1280px-CM-21A_Driving_through_Unflated_Stone_Road_20121013a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "208fff0b2027283e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "patates",
+     "toprak",
+     "yeşillik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toprak üstünde duran taze ve çamurlu patatesler.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "ürün haberi",
+     "gıda haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Topraktaki taze patatesler hasat haberi için tam uyumlu bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "899b6c693b6d6475",
+    "sha": "a55a38ba301e20e5ad4d0cd7"
+   },
+   "t": "2026-11-21T20:32:12+03:00",
+   "teknik": {
+    "doygunluk": 49.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.196,
+    "keskinlik": 2158,
+    "kontrast": 67,
+    "medyan": 112,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1644439017477-befade11bd83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZnJlc2glMjBwb3RhdG9lcyUyMGluJTIwZmllbGR8ZW58MXwwfHx8MTc5NTI4MjMwNXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "20a40267fdfb8154": {
    "icerik": {
@@ -35518,6 +35742,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Pueblo_Chemical_Agent-Destruction_Pilot_Plant_Volunteers_%2811452601945%29.jpg/1280px-Pueblo_Chemical_Agent-Destruction_Pilot_Plant_Volunteers_%2811452601945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2e227a01aab293db": {
+   "icerik": {
+    "ana_kutu": [
+     136,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarla",
+     "dağ",
+     "yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sürülmüş tarla çizgileri ve uzakta dağ manzarası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "toprak hazırlığı"
+    ],
+    "uygunsuz_baglamlar": [
+     "ürün haberi",
+     "hasat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarla görünümü uygun ancak ekilmiş patates veya hasat anı net seçilmiyor.",
+      "gerekli": [
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       136,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "be7efffeff7eeaab",
+    "sha": "51d1f25c2e109858b959212a"
+   },
+   "t": "2026-11-21T20:32:06+03:00",
+   "teknik": {
+    "doygunluk": 17.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.195,
+    "keskinlik": 3383,
+    "kontrast": 61,
+    "medyan": 131,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Dornbirn-fresh_potato_field-01ASD.jpg/1280px-Dornbirn-fresh_potato_field-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2e2a3133cc88e0ca": {
    "icerik": {
@@ -61480,6 +61797,98 @@
    },
    "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "555430cff88b54d6": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     78,
+     937,
+     853
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "patates",
+     "ahşap sepet",
+     "çakıl taşları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap sepet içinde yeni hasat edilmiş patatesler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "patates hasadı",
+     "sebze fiyatları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sepet içindeki patatesler haberin konusunu ve görsel gereklilikleri doğrudan yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       78,
+       937,
+       853
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:32:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cecee3c9e5792b26",
+    "sha": "10d35d16bb168736933ef2c0"
+   },
+   "t": "2026-11-21T20:32:30+03:00",
+   "teknik": {
+    "doygunluk": 42.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.416,
+    "keskinlik": 2348,
+    "kontrast": 62,
+    "medyan": 65,
+    "parlaklik": 80,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/20171027-AMS-LSC-1206_%2838068340691%29.jpg/1280px-20171027-AMS-LSC-1206_%2838068340691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5556cb5decfca73d": {
    "ozet": {
     "dh": "2ba3a3a39bc26a69",
@@ -65911,6 +66320,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG/1280px-Aliz%C3%A9e_Jacotey_-_Les_Enfoir%C3%A9s_-_Strasbourg_-_28_Janvier_2008_-_DSCF7654bis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5b4a71be75729ca3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     903,
+     998
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "patates",
+     "el",
+     "toprak",
+     "bitki sapları"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarlada topraktan patates çıkaran bir kişinin eli",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "patates hasadı",
+     "tarla işleri",
+     "üretici mesaisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Doğrudan tarlada hasat anını gösteren temsili bir kare.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       903,
+       998
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:32:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "26321c3c6cb07059",
+    "sha": "769739e34a717f00ecbbea34"
+   },
+   "t": "2026-11-21T20:32:30+03:00",
+   "teknik": {
+    "doygunluk": 49.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.368,
+    "keskinlik": 2099,
+    "kontrast": 65,
+    "medyan": 74,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/20171027-AMS-LSC-1383_%2838014707376%29.jpg/1280px-20171027-AMS-LSC-1383_%2838014707376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5b6cea1ab45516fe": {
    "icerik": {
@@ -83919,6 +84425,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Expo_2016_Antalya_-_West_View.jpg/1280px-Expo_2016_Antalya_-_West_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "760b32734c221e0b": {
+   "icerik": {
+    "ana_kutu": [
+     26,
+     281,
+     794,
+     998
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "patates",
+     "tarım makinesi",
+     "konveyör bant"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarım makinesinin bandında taşınan patatesler",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım teknolojileri",
+     "hasat mesaisi",
+     "üretim"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kültür sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım makinesiyle yapılan hasat sürecini gösterdiği için haberle uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       26,
+       281,
+       794,
+       998
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:32:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c1439abbb7ecfecc",
+    "sha": "31993019ecf479ea3489e6f7"
+   },
+   "t": "2026-11-21T20:32:30+03:00",
+   "teknik": {
+    "doygunluk": 32.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.057,
+    "keskinlik": 776,
+    "kontrast": 53,
+    "medyan": 139,
+    "parlaklik": 136,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1767982619694-32f8450ea5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmF3JTIwcG90YXRvZXMlMjBpbiUyMHNvaWwlMjBmaWVsZHxlbnwxfDB8fHwxNzk1MjgyMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "760fc8ce961a3853": {
    "icerik": {
     "ana_kutu": [
@@ -85632,6 +86230,103 @@
    },
    "url": "https://images.unsplash.com/photo-1590944667245-8ad4c2abf8ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8c21hcnQlMjB3YXRlciUyMG1ldGVyJTIwZGlzcGxheXxlbnwxfDB8fHwxNzk1MDgyNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "79fa69574a2eaad3": {
+   "icerik": {
+    "ana_kutu": [
+     88,
+     70,
+     995,
+     984
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "patates",
+     "kürek",
+     "toprak",
+     "bitki sapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toprakta kazılmış patatesler ve küçük el küreği",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "hasat dönemi",
+     "çiftçilik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toprak üstündeki patatesler ve tarla ortamı hasat haberi için çok uygun.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       88,
+       70,
+       995,
+       984
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:32:30+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9e3737966e8dd929",
+    "sha": "286f7d6aa6ccf21e2e850b90"
+   },
+   "t": "2026-11-21T20:32:30+03:00",
+   "teknik": {
+    "doygunluk": 42.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.399,
+    "keskinlik": 2084,
+    "kontrast": 68,
+    "medyan": 81,
+    "parlaklik": 88,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/20171027-AMS-LSC-1375_%2837358389354%29.jpg/1280px-20171027-AMS-LSC-1375_%2837358389354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7a09cd8d804005ec": {
    "icerik": {
     "ana_kutu": [
@@ -87079,6 +87774,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg/1280px-Hamburg_Airport_SunExpress_Boeing_737-8HC%28WL%29_TC-SOE_%28DSC00365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7c1099e892e75530": {
+   "icerik": {
+    "ana_kutu": [
+     435,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tarla",
+     "dağ",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş sürülmüş tarla ve dağlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım",
+     "ekim dönemi"
+    ],
+    "uygunsuz_baglamlar": [
+     "hasat haberi",
+     "ürün satışı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarla var ancak henüz hasat belirtisi veya patates görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       435,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00000094c7ebf8b0",
+    "sha": "2db3e365c986876568c64a20"
+   },
+   "t": "2026-11-21T20:32:06+03:00",
+   "teknik": {
+    "doygunluk": 18.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.221,
+    "keskinlik": 2971,
+    "kontrast": 79,
+    "medyan": 124,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dornbirn-fresh_potato_field-02ASD.jpg/1280px-Dornbirn-fresh_potato_field-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7c335df82d4b3ac0": {
    "icerik": {
@@ -92993,6 +93781,32 @@
      },
      "t": "2026-11-19T15:57:38+03:00"
     },
+    "r1:201c52674288:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temizlik işçileri ve tuğla duvar Kemer Belediyesi iddialarıyla alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "Kemer Belediyesi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T20:31:26+03:00"
+    },
     "r1:5325ac73eae0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -93145,7 +93959,7 @@
     "dh": "8e9c9c8c372e0e06",
     "sha": "fa13c1906ee564c928fd2ce5"
    },
-   "t": "2026-11-19T15:57:55+03:00",
+   "t": "2026-11-21T20:31:26+03:00",
    "teknik": {
     "doygunluk": 16.4,
     "inen": [
@@ -99474,6 +100288,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/J22_317_Konya%2C_Bagdadbahn%2C_Karada%C4%9F.jpg/1280px-J22_317_Konya%2C_Bagdadbahn%2C_Karada%C4%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8bbaafb7e49f7134": {
+   "icerik": {
+    "ana_kutu": [
+     397,
+     149,
+     816,
+     814
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "traktör",
+     "tarla",
+     "makine"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarlada çalışan kırmızı traktör ve hasat makinesi",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "hasat haberi",
+     "tarım makineleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "portre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarlada hasat makinesi çalışırken çekilmiş, haberle doğrudan uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       397,
+       149,
+       816,
+       814
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f3f14030b76c80b",
+    "sha": "31dd014c197dbaa2c38ca01e"
+   },
+   "t": "2026-11-21T20:32:06+03:00",
+   "teknik": {
+    "doygunluk": 25.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.406,
+    "keskinlik": 3083,
+    "kontrast": 52,
+    "medyan": 66,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Potato_Harvest_-_geograph.org.uk_-_7256460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8bc8f473ac0bdc01": {
    "icerik": {
     "ana_kutu": [
@@ -105775,6 +106681,96 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1652088241116-5faf85b6c6aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8d29tYW4lMjB3b3JraW5nJTIwbGFwdG9wJTIwdHVya2V5fGVufDF8MHx8fDE3OTUwODA0Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "94732d17a453f45c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "patates"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Topraklı taze patateslerin yakın plan görüntüsü",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "patates haberi",
+     "ürün fiyatları"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patatesleri net şekilde gösteriyor ancak tarla ortamı eksik.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0ad9526975c5dd58",
+    "sha": "41b7f756685e1ea56bf42018"
+   },
+   "t": "2026-11-21T20:32:06+03:00",
+   "teknik": {
+    "doygunluk": 79.8,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.147,
+    "keskinlik": 466,
+    "kontrast": 48,
+    "medyan": 113,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1675501344642-92d35d90fe51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cG90YXRvJTIwaGFydmVzdHxlbnwxfDB8fHwxNzk1MjgyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "94a07a77a3578af5": {
    "ozet": {
@@ -124080,15 +125076,15 @@
      },
      "t": "2026-11-20T18:31:49+03:00"
     },
-    "r1:37bf1222e607:konu": {
+    "r1:201c52674288:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": true,
       "belirli_kisi_isletme": false,
-      "gerekce": "Haber kaza davası ve adliye ile ilgili; fotoğraf ise yangın sahnesi gösteriyor.",
+      "gerekce": "Fotoğrafta yanan bir bina ve itfaiyeci var, bu mali yolsuzluk haberiyle tamamen alakasızdır.",
       "gerekli": [
        {
-        "unsur": "adliye binasi",
+        "unsur": "Kemer Belediyesi binası",
         "var": false
        }
       ],
@@ -124103,10 +125099,10 @@
       "yanlis_spor": false,
       "yanlis_takim": false,
       "yasak": [
-       "kaza yeri"
+       "polis"
       ]
      },
-     "t": "2026-11-15T14:11:13+03:00"
+     "t": "2026-11-21T20:31:26+03:00"
     },
     "r1:380235b7bffa:konu": {
      "d": {
@@ -124356,7 +125352,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-20T20:01:40+03:00",
+   "t": "2026-11-21T20:31:26+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -125887,15 +126883,15 @@
      },
      "t": "2026-11-20T18:31:49+03:00"
     },
-    "r1:380235b7bffa:konu": {
+    "r1:201c52674288:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Haberde adliye binası gerekli ancak bu fotoğraf rastgele bir bina cephesidir.",
+      "gerekce": "Görüntüdeki modern cephe detayı Kemer Belediyesi binası değildir.",
       "gerekli": [
        {
-        "unsur": "adliye binasi",
+        "unsur": "Kemer Belediyesi binası",
         "var": false
        }
       ],
@@ -125903,7 +126899,7 @@
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 1,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -125911,7 +126907,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-17T11:24:10+03:00"
+     "t": "2026-11-21T20:31:26+03:00"
     },
     "r1:3c36eb2c6a9f:konu": {
      "d": {
@@ -126171,7 +127167,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-20T20:01:40+03:00",
+   "t": "2026-11-21T20:31:26+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -133391,6 +134387,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Boat_in_Alanya.jpg/1280px-Boat_in_Alanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "bd1b8df3adbb0f3c": {
+   "icerik": {
+    "ana_kutu": [
+     116,
+     365,
+     497,
+     523
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "çiftçi",
+     "patates",
+     "çuval",
+     "tarla"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarlada çalışan çiftçiler ve çuvallara doldurulmuş patatesler.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "hasat haberi",
+     "ekonomi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarlada patates hasadı yapan çiftçileri ve çuvalları gösteren mükemmel bir haber görseli.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       187,
+       814,
+       814
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "46ccde9bb393bf6b",
+    "sha": "8933d9776a52f3ca8738ad00"
+   },
+   "t": "2026-11-21T20:32:12+03:00",
+   "teknik": {
+    "doygunluk": 48.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 2112,
+    "kontrast": 49,
+    "medyan": 109,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1777113317559-fb3e17e8b60c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8ZnJlc2glMjBwb3RhdG9lcyUyMGluJTIwZmllbGR8ZW58MXwwfHx8MTc5NTI4MjMwNXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "bd45320caf8a972d": {
    "icerik": {
     "ana_kutu": null,
@@ -135148,6 +136243,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_on_the_24_August_2026_%281%29.jpg/1280px-Virtual_Leaders_Meeting_of_the_Coalition_of_the_Willing_on_Ukraine_on_the_24_August_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c07f86e084679ea8": {
+   "icerik": {
+    "ana_kutu": [
+     210,
+     54,
+     826,
+     875
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "patates",
+     "eller"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ellerinde taze patatesler tutan bir kişi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "ürün haberi",
+     "ekonomi haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patates hasadını temsil eden uygun bir görsel, ancak tarla ortamı görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "patates",
+        "var": true
+       },
+       {
+        "unsur": "tarla",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       210,
+       54,
+       826,
+       875
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "697333272b2b2e0c",
+    "sha": "0e7fdf0adae617641b018511"
+   },
+   "t": "2026-11-21T20:32:12+03:00",
+   "teknik": {
+    "doygunluk": 38.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.417,
+    "keskinlik": 259,
+    "kontrast": 73,
+    "medyan": 79,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1561635741-c416a5193b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cG90YXRvJTIwaGFydmVzdHxlbnwxfDB8fHwxNzk1MjgyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c082796089f3f452": {
    "icerik": {
@@ -142044,6 +143236,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Veteran_New_Farmer_Green_Bexar_Farm_%2820201021-NRCS-LSC-0584%29.jpg/1280px-Veteran_New_Farmer_Green_Bexar_Farm_%2820201021-NRCS-LSC-0584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ca7c433a25cb3a31": {
+   "icerik": {
+    "ana_kutu": [
+     107,
+     24,
+     888,
+     971
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "tablo",
+     "insan",
+     "tarla"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarlada çalışan insanları gösteren yağlı boya tablo",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "tarihi tarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel hasat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:142d321306d2:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tablo olduğu için güncel bir hasat haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "tarla",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       107,
+       24,
+       888,
+       971
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sehir merkezi",
+       "kapali alan"
+      ]
+     },
+     "t": "2026-11-21T20:32:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "133333933b6d5385",
+    "sha": "12b07530f86e4b7481a5155b"
+   },
+   "t": "2026-11-21T20:32:06+03:00",
+   "teknik": {
+    "doygunluk": 31.3,
+    "inen": [
+     500,
+     455
+    ],
+    "karanlik_oran": 0.025,
+    "keskinlik": 1401,
+    "kontrast": 44,
+    "medyan": 123,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ivan_Grohar_Potato_Harvest.jpg/1280px-Ivan_Grohar_Potato_Harvest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ca8dad9fa05da5f6": {
    "icerik": {
@@ -183849,6 +185133,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-11T22:41:40+03:00",
    "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "555430cff88b54d6": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5568,
+    3712
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2017-10-27",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ahşap sepet içinde yeni hasat edilmiş patatesler",
+   "gosterim_ad": "patates hasadi",
+   "ilk_kabul": "2026-11-21T20:32:30+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "U.S. Department of Agriculture / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:20171027-AMS-LSC-1206_(38068340691).jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "U.S. Department of Agriculture",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:20171027-AMS-LSC-1206_(38068340691).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ahşap sepet",
+    "patates",
+    "çakıl taşları"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/20171027-AMS-LSC-1206_%2838068340691%29.jpg/500px-20171027-AMS-LSC-1206_%2838068340691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım haberi",
+    "patates hasadı",
+    "sebze fiyatları"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T20:32:30+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/20171027-AMS-LSC-1206_%2838068340691%29.jpg/1280px-20171027-AMS-LSC-1206_%2838068340691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
