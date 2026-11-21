@@ -131557,13 +131557,43 @@
       "yasak": []
      },
      "t": "2026-11-11T06:08:06+03:00"
+    },
+    "r1:dd1aabd16686:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan spesifik trafik tabelasi fotoğrafta görünmüyor, genel bir cadde manzarasi yer aliyor.",
+      "gerekli": [
+       {
+        "unsur": "trafik tabelasi",
+        "var": false
+       },
+       {
+        "unsur": "karayolu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:31:41+03:00"
     }
    },
    "ozet": {
     "dh": "070397860706171f",
     "sha": "0c44c996c3af9e96797a9604"
    },
-   "t": "2026-11-21T15:01:19+03:00",
+   "t": "2026-11-21T16:31:41+03:00",
    "teknik": {
     "doygunluk": 35.6,
     "inen": [
@@ -134421,6 +134451,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mosaic_in_Syedra_1.jpg/1280px-Mosaic_in_Syedra_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c088dbfebc01e3d9": {
+   "icerik": {
+    "ana_kutu": [
+     120,
+     330,
+     870,
+     740
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cam kupa",
+     "bitki çayı",
+     "çiçekler",
+     "bez peçete"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde çiçekli bitki çayı bardağı ve yanında taze çiçek demeti.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sağlık",
+     "beslenme",
+     "kış hazırlığı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:cbb5c28a9a50:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bitki çayı görseli, kış hazırlığı ve bağışıklık güçlendirme temalı haber için uygun bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "bitki caylari",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       120,
+       330,
+       870,
+       740
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T16:31:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "bc64e1d8d032b2d4",
+    "sha": "a78ebf0289b91c2b6bef88c7"
+   },
+   "t": "2026-11-21T16:31:33+03:00",
+   "teknik": {
+    "doygunluk": 19.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.074,
+    "keskinlik": 934,
+    "kontrast": 65,
+    "medyan": 208,
+    "parlaklik": 183,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1648455321715-e8ed86188c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGVyYmFsJTIwdGVhcyUyMGFuZCUyMGhvbmV5fGVufDF8MHx8fDE3OTUyNjc4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "c08ce0a575741071": {
    "icerik": {
@@ -188495,6 +188618,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-11T13:39:02+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg/1280px-View_from_Sonas_Alpina_hotel_window_to_the_other_side_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "c088dbfebc01e3d9": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5472,
+    3648
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Masa üzerinde çiçekli bitki çayı bardağı ve yanında taze çiçek demeti.",
+   "gosterim_ad": "kis hazirligi",
+   "ilk_kabul": "2026-11-21T16:31:33+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Elena Leya / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Elena Leya",
+    "sayfa": "https://unsplash.com/photos/a-glass-mug-filled-with-tea-next-to-a-bunch-of-flowers-O7sKj9cjZOk"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bez peçete",
+    "bitki caylari",
+    "bitki çayı",
+    "cam kupa",
+    "çiçekler"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1648455321715-e8ed86188c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGVyYmFsJTIwdGVhcyUyMGFuZCUyMGhvbmV5fGVufDF8MHx8fDE3OTUyNjc4NzF8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "sağlık",
+    "beslenme",
+    "kış hazırlığı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "kaza"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-21T16:31:33+03:00",
+   "url": "https://images.unsplash.com/photo-1648455321715-e8ed86188c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8aGVyYmFsJTIwdGVhcyUyMGFuZCUyMGhvbmV5fGVufDF8MHx8fDE3OTUyNjc4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
