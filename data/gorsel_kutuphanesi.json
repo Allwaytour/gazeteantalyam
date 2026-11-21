@@ -11531,6 +11531,10 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Alexsandro_%E2%80%9EAlex%E2%80%9C_de_Souza_Fenerbah%C3%A7e%27de_gol_sevinci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "0fad2607e7696114": {
+   "ozet": {
+    "dh": "4e6351d551491901",
+    "sha": "5c960deb16907cd5c3b8067b"
+   },
    "t": "2026-11-08T12:10:56+03:00",
    "teknik": {
     "doygunluk": 87.5,
@@ -53617,13 +53621,44 @@
       "yasak": []
      },
      "t": "2026-11-13T10:06:53+03:00"
+    },
+    "r1:6f51a6372abb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Hafta sonu konser ve etkinlikler için ideal bir açık hava konser ortamı sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "sahne, tiyatro veya konser ortamı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       197,
+       0,
+       658,
+       936
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:31:16+03:00"
     }
    },
    "ozet": {
     "dh": "ab8bd5d9c98bb666",
     "sha": "3402eeae1c59d19157271230"
    },
-   "t": "2026-11-13T10:06:53+03:00",
+   "t": "2026-11-21T11:31:16+03:00",
    "teknik": {
     "doygunluk": 41.4,
     "inen": [
@@ -57704,6 +57739,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol.jpg/1280px-Muratpa%C5%9Fa_Belediyesi_Kad%C4%B1n_Voleybol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5292fda57280d332": {
+   "ozet": {
+    "dh": "2e5c181e161c1e56",
+    "sha": "67286cae4912ba6a667ff2ef"
+   },
    "t": "2026-11-08T12:10:56+03:00",
    "teknik": {
     "doygunluk": 26.5,
@@ -64227,6 +64266,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antrayotogar.jpg/1280px-Antrayotogar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5bb8dbb07d35333e": {
+   "ozet": {
+    "dh": "eeeebbafefd7cf19",
+    "sha": "41812816240673ed80c04242"
+   },
+   "t": "2026-11-21T11:30:58+03:00",
+   "teknik": {
+    "doygunluk": 60.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.642,
+    "keskinlik": 1774,
+    "kontrast": 60,
+    "medyan": 22,
+    "parlaklik": 49,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Live_rock_concert_featuring_musicians_playing_electric_guitars_on_stage_at_night_with_vibrant_lights_and_an_enthusiastic_crowd_present.jpg/1280px-Live_rock_concert_featuring_musicians_playing_electric_guitars_on_stage_at_night_with_vibrant_lights_and_an_enthusiastic_crowd_present.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "5be66621bf970c33": {
    "icerik": {
@@ -73810,6 +73870,37 @@
      },
      "t": "2026-11-20T14:59:49+03:00"
     },
+    "r1:6f51a6372abb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Etkinliklerin yapılacağı modern bir konser ve tiyatro salonunu gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "sahne, tiyatro veya konser ortamı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:31:16+03:00"
+    },
     "r1:93d895c1db8d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -73928,7 +74019,7 @@
     "dh": "4f4d55d61533175e",
     "sha": "ee1f2b7c6446711f24e93b67"
    },
-   "t": "2026-11-20T14:59:49+03:00",
+   "t": "2026-11-21T11:31:16+03:00",
    "teknik": {
     "doygunluk": 48.8,
     "inen": [
@@ -102258,6 +102349,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/COP30_-_Murat_Kurum_02.jpg/1280px-COP30_-_Murat_Kurum_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "92d646a21569ea74": {
+   "ozet": {
+    "dh": "0b4b3637776deeec",
+    "sha": "51e8a19dc1be1bec98ee4c04"
+   },
+   "t": "2026-11-21T11:30:58+03:00",
+   "teknik": {
+    "doygunluk": 52.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.802,
+    "keskinlik": 668,
+    "kontrast": 44,
+    "medyan": 21,
+    "parlaklik": 40,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Drummer_performs_energetically_on_stage_with_vibrant_lights_in_a_lively_concert_setting_during_the_night.jpg/1280px-Drummer_performs_energetically_on_stage_with_vibrant_lights_in_a_lively_concert_setting_during_the_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "92e09a49055cceec": {
    "t": "2026-11-08T15:19:58+03:00",
    "teknik": {
@@ -119783,6 +119895,37 @@
     ]
    },
    "iliski": {
+    "r1:6f51a6372abb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde geçen tiyatro ve sahne gösterileri için doğrudan uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "sahne, tiyatro veya konser ortamı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       389,
+       93,
+       930,
+       787
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-21T11:31:16+03:00"
+    },
     "r1:7984971985f2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -119914,7 +120057,7 @@
     "dh": "190913026a536f27",
     "sha": "15101eb0c01f616e67e329ac"
    },
-   "t": "2026-11-17T13:56:11+03:00",
+   "t": "2026-11-21T11:31:16+03:00",
    "teknik": {
     "doygunluk": 64.2,
     "inen": [
@@ -180071,7 +180214,7 @@
    "gosterim_ad": "HASRET konseri",
    "ilk_kabul": "2026-11-09T14:35:57+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Radek Grzybowski / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -180094,7 +180237,8 @@
     "konferans salonu veya pavilyon",
     "konser salonu",
     "müzik sehpası",
-    "sahne"
+    "sahne",
+    "sahne, tiyatro veya konser ortamı"
    ],
    "kucuk": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=400",
    "kullanilabilir": [
@@ -180110,7 +180254,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-10T22:13:56+03:00",
+   "son_kabul": "2026-11-21T11:31:16+03:00",
    "url": "https://images.unsplash.com/photo-1458639817867-2c9d4c5dcad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvbmNlcnQlMjBoYWxsJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc5NDIyNDEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
