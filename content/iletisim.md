@@ -1,5 +1,6 @@
 ---
 title: "İletişim"
+kurumsal: true
 url: "/iletisim/"
 ---
 Haber, ihbar, düzeltme ve reklam talepleriniz için bize ulaşabilirsiniz.

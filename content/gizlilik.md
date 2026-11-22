@@ -1,5 +1,6 @@
 ---
 title: "Gizlilik Politikası"
+kurumsal: true
 url: "/gizlilik/"
 ---
 Gazete Antalya, ziyaretçilerinden üyelik ya da kişisel bilgi talep etmez ve çerez ile kullanıcı takibi yapmaz.

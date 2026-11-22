@@ -1,14 +1,21 @@
 ---
 title: "Künye"
 url: "/kunye/"
+kurumsal: true
 ---
 **Yayın Adı:** Gazete Antalya (gazeteantalyam.com)
+
+**Yayın Türü:** Yerel, günlük, internet haber sitesi
+
+**İmtiyaz Sahibi:** [doldurulacak: imtiyaz sahibi]
+
+**Şirket Unvanı / Tüzel Kişilik:** [doldurulacak: şirket unvanı ya da tüzel kişilik bilgisi]
 
 **Sorumlu Müdür:** Mustafa Şimşek
 
 **Yazı İşleri Müdürü:** Musa Şimşek
 
-**Adres:** Antalya
+**Adres:** [doldurulacak: açık adres]
 
 **Telefon:** 0551 340 13 61
 
@@ -20,6 +27,6 @@ url: "/kunye/"
 
 **Yer Sağlayıcı:** GitHub Pages (GitHub, Inc.)
 
-Sitemizdeki haberlerin bir bölümü, başka yayın kuruluşlarında yayımlanan haberlerdeki bilgilerden yararlanılarak yeniden yazılır. Bu haberlerin altında kaynak yayın kuruluşunun adı ve haberin bağlantısı belirtilir. Fotoğrafların kaynağı, sahibi ve kullanım koşulu fotoğrafın altında yer alır.
+Sitemizdeki haberlerin bir bölümü, başka yayın kuruluşlarında yayımlanan haberlerdeki bilgilerden yararlanılarak yeniden yazılır. Fotoğrafların kaynağı, sahibi ve kullanım koşulu fotoğrafın altında yer alır.
 
-Düzeltme, cevap ve kaldırma talepleriniz için haberin bağlantısıyla birlikte iletisim@gazeteantalyam.com adresine yazabilirsiniz.
+Düzeltme, cevap ve kaldırma talepleriniz için haberin bağlantısıyla birlikte iletisim@gazeteantalyam.com adresine yazabilirsiniz. Ayrıntılar: [Düzeltme Politikası](/duzeltme-politikasi/) · [Yayın İlkeleri](/yayin-ilkeleri/) · [Hakkımızda](/hakkimizda/)
