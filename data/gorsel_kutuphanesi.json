@@ -4699,6 +4699,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ceylan_Ertem_-_15._Radyo_Bo%C4%9Fazi%C3%A7i_%C3%96d%C3%BClleri.jpg/1280px-Ceylan_Ertem_-_15._Radyo_Bo%C4%9Fazi%C3%A7i_%C3%96d%C3%BClleri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "05de37a422d750c6": {
+   "icerik": {
+    "ana_kutu": [
+     35,
+     30,
+     936,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pasaport",
+     "vize mühürü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pasaport sayfasına basılmış turist vizesi ve mühür",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "vize haberleri",
+     "pasaport",
+     "seyahat"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4aa0a2a0f9a3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Türk vizesi damgasını gösteren yakın plan pasaport görseli.",
+      "gerekli": [
+       {
+        "unsur": "pasaport",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       35,
+       30,
+       936,
+       960
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:07:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9979b1c58da971b3",
+    "sha": "1414bba08cafb71c10436ef3"
+   },
+   "t": "2026-11-22T20:07:35+03:00",
+   "teknik": {
+    "doygunluk": 32.8,
+    "inen": [
+     500,
+     321
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 562,
+    "kontrast": 28,
+    "medyan": 199,
+    "parlaklik": 189,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Turkish_Visa_cropped.jpg/1280px-Turkish_Visa_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "05e2a70d5797e405": {
    "icerik": {
     "ana_kutu": [
@@ -7856,6 +7947,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/OSCE_PA_delegation_meeting_with_HDP_Political_Group_Deputy_Chair%2C_Hakk%C4%B1_Saruhan_Oluc%2C_9_November_2021_%2851673095312%29.jpg/1280px-OSCE_PA_delegation_meeting_with_HDP_Political_Group_Deputy_Chair%2C_Hakk%C4%B1_Saruhan_Oluc%2C_9_November_2021_%2851673095312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0a0b0906c93777c6": {
+   "icerik": {
+    "ana_kutu": [
+     108,
+     107,
+     760,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pasaport",
+     "biniş kartı",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde duran Tayvan pasaportu ve uçak biniş kartı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "uçuş",
+     "seyahat",
+     "pasaport kontrolü"
+    ],
+    "uygunsuz_baglamlar": [
+     "iç politika",
+     "meclis gündemi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4aa0a2a0f9a3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pasaport ve biniş kartı tematik olarak uygun olsa da yabancı pasaport (Tayvan) yaniltici yer izlenimi verebilir.",
+      "gerekli": [
+       {
+        "unsur": "pasaport",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       108,
+       107,
+       760,
+       920
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:07:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "19671b1d53794c0d",
+    "sha": "297f23b0c48306d85922f2de"
+   },
+   "t": "2026-11-22T20:07:35+03:00",
+   "teknik": {
+    "doygunluk": 13.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.057,
+    "keskinlik": 1453,
+    "kontrast": 68,
+    "medyan": 128,
+    "parlaklik": 137,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/StarFlyer_boarding_pass_and_ROC_Passport_20181117.jpg/1280px-StarFlyer_boarding_pass_and_ROC_Passport_20181117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0a0f0a2c7f604a37": {
    "icerik": {
@@ -44910,6 +45092,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/B%C3%BAsqueda_con_detectores_de_metales.jpg/1280px-B%C3%BAsqueda_con_detectores_de_metales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "38ec7b11493b3d13": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ev",
+     "çatı",
+     "ağaç",
+     "palmiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kaleiçi kiremit çatılı evler manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Antalya haberleri",
+     "şehir ve yaşam",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "kaza",
+     "mahkeme"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2abc8f6f368c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nın tarihi dokusunu gösteren genel bir şehir manzarasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "farklı siyasi parti logoları",
+       "yabancı bayraklar"
+      ]
+     },
+     "t": "2026-11-22T20:08:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0d32b36f67474c97",
+    "sha": "e771bec12d79c9c286a14967"
+   },
+   "t": "2026-11-22T20:08:29+03:00",
+   "teknik": {
+    "doygunluk": 40.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.249,
+    "keskinlik": 2581,
+    "kontrast": 79,
+    "medyan": 114,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1654162201760-2c4383cbde3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMGNpdHlzY2FwZSUyMGFyY2hpdGVjdHVyZXxlbnwxfDB8fHwxNzk1MzY3Mjk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "3913b3ceefc699f7": {
    "ozet": {
     "dh": "3323872727336619",
@@ -49862,6 +50130,97 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Folk_Dance_Team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "41552046f3787e13": {
+   "icerik": {
+    "ana_kutu": [
+     264,
+     53,
+     679,
+     922
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pasaport",
+     "vize belgesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pasaport üstüne yapıştırılmış sağlık denetleme ve vize belgesi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "vize haberleri",
+     "pasaport işlemleri",
+     "seyahat kısıtlamaları"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor müsabakaları",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4aa0a2a0f9a3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Pasaport ve vize belgesi haberi temsil etmek için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "pasaport",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       264,
+       53,
+       679,
+       922
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:07:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0e3c3d793938bc98",
+    "sha": "35daa521010590ea863b06bd"
+   },
+   "t": "2026-11-22T20:07:35+03:00",
+   "teknik": {
+    "doygunluk": 40.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.191,
+    "keskinlik": 250,
+    "kontrast": 69,
+    "medyan": 106,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Turkish_H1N1_control.JPG/1280px-Turkish_H1N1_control.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "419090fa3ee1540e": {
    "icerik": {
     "ana_kutu": [
@@ -52653,6 +53012,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Touch_the_clouds.jpg/1280px-Touch_the_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "44c3d9e3a8d8dfbf": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap ev",
+     "sütun",
+     "palmiye",
+     "surlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya'da ahşap ev detayları ve sokak",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Antalya haberleri",
+     "yerel yönetim",
+     "restorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "kaza",
+     "ekonomi piyasa"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2abc8f6f368c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da bir yapı detayını gösterdiği için şehir yatırımları haberine uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "farklı siyasi parti logoları",
+       "yabancı bayraklar"
+      ]
+     },
+     "t": "2026-11-22T20:08:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8690b08224360084",
+    "sha": "495ea9207272e3da2c1ccbab"
+   },
+   "t": "2026-11-22T20:08:29+03:00",
+   "teknik": {
+    "doygunluk": 34.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.244,
+    "keskinlik": 2076,
+    "kontrast": 64,
+    "medyan": 91,
+    "parlaklik": 103,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Antalya_Old_Town_street_view_%C4%B1n_2011_18.jpg/1280px-Antalya_Old_Town_street_view_%C4%B1n_2011_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "44fa52cbb2887096": {
    "ozet": {
@@ -63975,6 +64420,32 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:380e6f0aff40:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okunan bir kitabı ve elleri gösteren net bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "kitaplar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:06:52+03:00"
+    },
     "r1:6678e806ffe0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -64011,7 +64482,7 @@
     "dh": "4e0f5bd393074f6d",
     "sha": "57717fac7a31e9bc7370794d"
    },
-   "t": "2026-11-11T22:41:40+03:00",
+   "t": "2026-11-22T20:06:52+03:00",
    "teknik": {
     "doygunluk": 43.6,
     "inen": [
@@ -86037,6 +86508,96 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Umut_G%C3%BCne%C5%9F_-_beIN-Sports-Reklam_%282021%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "74235d06ff4eaa1b": {
+   "icerik": {
+    "ana_kutu": [
+     63,
+     126,
+     969,
+     856
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pasaport",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde açık duran, vizeler ve mühürler içeren pasaport",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "vize kuyrukları",
+     "seyahat",
+     "pasaport işlemleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "siyaset tartışmaları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4aa0a2a0f9a3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Açık pasaport ve damgalar vize haberleri için uygun bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "pasaport",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       63,
+       126,
+       969,
+       856
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:07:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "31d9198d8b976373",
+    "sha": "8cef782d9e250f85adef33cd"
+   },
+   "t": "2026-11-22T20:07:35+03:00",
+   "teknik": {
+    "doygunluk": 18.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.076,
+    "keskinlik": 289,
+    "kontrast": 54,
+    "medyan": 142,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGFzc3BvcnQlMjB2aXNhJTIwc3RhbXAlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUzNjcyNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "745530b1175cc348": {
    "icerik": {
     "ana_kutu": [
@@ -102059,6 +102620,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ba%C5%9Fak%C5%9Fehir_20170825.jpg/1280px-Ba%C5%9Fak%C5%9Fehir_20170825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "87dd06fb8b5aa049": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kitap",
+     "yatak",
+     "gözlük",
+     "su şişesi",
+     "ahşap mobilya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yatakta yatarak kitap okuyan gözlüklü genç kız",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kitap okuma alışkanlığı",
+     "eğitim haberleri",
+     "gençlik ve edebiyat"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "maç haberleri",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      91,
+      370,
+      396,
+      608
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:380e6f0aff40:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kitap okuyan genç bir kişiyi gösterdiği için proje haberine uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kitaplar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:06:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "99f32b3aced1b3ab",
+    "sha": "203b838f5e125f99acb281e4"
+   },
+   "t": "2026-11-22T20:06:52+03:00",
+   "teknik": {
+    "doygunluk": 49.4,
+    "inen": [
+     500,
+     432
+    ],
+    "karanlik_oran": 0.176,
+    "keskinlik": 2555,
+    "kontrast": 76,
+    "medyan": 111,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Reading_Books_by_a_teenage_girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "87fb40302cf8e162": {
    "icerik": {
     "ana_kutu": [
@@ -109373,6 +110025,92 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1641918980089-00359adbf7a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGJhemFhciUyMG1lcmNoYW50fGVufDF8MHx8fDE3OTUwMTAyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "92084eaf8d57dfc5": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "minare",
+     "ev",
+     "ağaç",
+     "palmiye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kaleiçi manzarası ve minare",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Antalya haberleri",
+     "turizm haberleri",
+     "şehir tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç haberleri",
+     "kaza haberleri",
+     "politika kulis"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2abc8f6f368c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya genel görünümü, şehirle ilgili siyasi açıklama haberine görsel olarak uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "farklı siyasi parti logoları",
+       "yabancı bayraklar"
+      ]
+     },
+     "t": "2026-11-22T20:08:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e040280853457458",
+    "sha": "d10ea890a44898a3e2a7230c"
+   },
+   "t": "2026-11-22T20:08:29+03:00",
+   "teknik": {
+    "doygunluk": 50.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 2017,
+    "kontrast": 49,
+    "medyan": 120,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1663574629337-18a42b19e4fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8QW50YWx5YSUyMGNpdHlzY2FwZSUyMGFyY2hpdGVjdHVyZXxlbnwxfDB8fHwxNzk1MzY3Mjk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "9219612886f8763a": {
    "icerik": {
@@ -116947,6 +117685,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Alada%C4%9Flar_Mountains.jpg/1280px-Alada%C4%9Flar_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9ca286d92c64238c": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "tarihi ev",
+     "surlar",
+     "sokak lambası",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya Kaleiçi'nde geleneksel evler ve sokak",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Antalya haberleri",
+     "kentsel dönüşüm",
+     "şehir tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2abc8f6f368c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş sokak ve mimari doku görüntüsüdür.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "farklı siyasi parti logoları",
+       "yabancı bayraklar"
+      ]
+     },
+     "t": "2026-11-22T20:08:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c3a6b3ca8c8f8f06",
+    "sha": "994213cd0023e17d96f7cd72"
+   },
+   "t": "2026-11-22T20:08:29+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.178,
+    "keskinlik": 2307,
+    "kontrast": 72,
+    "medyan": 133,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Antalya_Old_Town_street_view_%C4%B1n_2011_19.jpg/1280px-Antalya_Old_Town_street_view_%C4%B1n_2011_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9cf59f6b7a7c331e": {
    "icerik": {
@@ -149647,6 +150471,95 @@
     "s": "t1"
    },
    "url": "/images/kurum/43160bce574d0d99.jpg"
+  },
+  "ca1c1d4029ce3240": {
+   "icerik": {
+    "ana_kutu": [
+     164,
+     124,
+     959,
+     835
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "pasaport"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sayfalarında çok sayıda mühür bulunan açık pasaport",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "pasaport",
+     "vize işlemleri",
+     "seyahat"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4aa0a2a0f9a3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mühürlü pasaport sayfaları vize ve seyahat haberleri için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "pasaport",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       164,
+       124,
+       959,
+       835
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:07:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "070f0d1f97832733",
+    "sha": "62e921bd522bc576fbf117ec"
+   },
+   "t": "2026-11-22T20:07:35+03:00",
+   "teknik": {
+    "doygunluk": 19.4,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.278,
+    "keskinlik": 348,
+    "kontrast": 54,
+    "medyan": 64,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1655722725332-9925c96dd627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGFzc3BvcnQlMjB2aXNhJTIwc3RhbXAlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUzNjcyNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "ca2454ae559375cd": {
    "icerik": {
@@ -184901,6 +185814,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg/1280px-India_-_Koyambedu_Market_-_Faces_01_%283983959747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f9e97672d45ee8e4": {
+   "ozet": {
+    "dh": "9f8b8b938fae8692",
+    "sha": "8e28dc8d5741414ef54c616d"
+   },
+   "t": "2026-11-22T20:06:44+03:00",
+   "teknik": {
+    "doygunluk": 40.5,
+    "inen": [
+     500,
+     369
+    ],
+    "karanlik_oran": 0.564,
+    "keskinlik": 976,
+    "kontrast": 58,
+    "medyan": 46,
+    "parlaklik": 69,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Woman_reading_the_Quran_during_Ramadan_in_Cairo%2C_Egypt.jpg/1280px-Woman_reading_the_Quran_during_Ramadan_in_Cairo%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fa0e3684c86bdb21": {
    "icerik": {
     "ana_kutu": [
@@ -194172,10 +195106,10 @@
    "cekim_tarihi": "",
    "dogrulama_surumu": "h2-i3-y3",
    "gosterdigi": "Koltukta oturup açık bir kitap okuyan kişi.",
-   "gosterim_ad": "kitap söyleşisi",
+   "gosterim_ad": "kitap okuma projesi",
    "ilk_kabul": "2026-11-11T22:41:40+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Clay Banks / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -194195,10 +195129,11 @@
    "konular": [
     "bileklik",
     "kitap",
+    "kitaplar",
     "koltuk",
     "yastık"
    ],
-   "kucuk": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kucuk": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cmVhZGluZyUyMGJvb2tzfGVufDF8MHx8fDE3OTUzNjcyMDN8MA&ixlib=rb-4.1.0&q=80&w=400",
    "kullanilabilir": [
     "kitap",
     "okuma alışkanlığı",
@@ -194209,8 +195144,8 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-11T22:41:40+03:00",
-   "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+   "son_kabul": "2026-11-22T20:06:52+03:00",
+   "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cmVhZGluZyUyMGJvb2tzfGVufDF8MHx8fDE3OTUzNjcyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
@@ -195889,6 +196824,64 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T11:11:16+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Turkey_-_Antalya_in_2023.jpg/1280px-Turkey_-_Antalya_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "74235d06ff4eaa1b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6000,
+    4000
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Masa üzerinde açık duran, vizeler ve mühürler içeren pasaport",
+   "gosterim_ad": "vize ve pasaport kontrolleri",
+   "ilk_kabul": "2026-11-22T20:07:35+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Kit (formerly ConvertKit) / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Kit (formerly ConvertKit)",
+    "sayfa": "https://unsplash.com/photos/passport-with-multiple-ink-stamps-htQznS-Rx7w"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "masa",
+    "pasaport"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGFzc3BvcnQlMjB2aXNhJTIwc3RhbXAlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUzNjcyNDV8MA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "vize kuyrukları",
+    "seyahat",
+    "pasaport işlemleri"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "siyaset tartışmaları"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-22T20:07:35+03:00",
+   "url": "https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGFzc3BvcnQlMjB2aXNhJTIwc3RhbXAlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUzNjcyNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
     "yan",
