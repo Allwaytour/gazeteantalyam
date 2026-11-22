@@ -1,7 +1,8 @@
 {{/* Haber kartı (beyaz kutu, gri zemin üzerinde). İki bilinçli düzen:
      fotoğraflı → görsel + başlık (+ kısa özet); fotoğrafsız → turuncu üst çizgili metin kartı: kategori · ilçe · zaman, başlık, özet.
      Fotoğraf sonradan bulunursa kart kendiliğinden fotoğraflı düzene geçer. Görsel üzerinde rozet yoktur.
-     Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once". */}}
+     Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once" ve "imza" (liste sayfalarında
+     muhabir adı ve yayın tarihi satırı). */}}
 {{ $t := .tip | default "kart" }}
 {{ $foto := .foto }}{{ $portre := and (not .foto) (.foto_p | default false) (ne $t "liste") }}
 {{/* Fotoğraf bu alana uymuyorsa ya da aynı kare sayfada başka haberde kullanıldıysa haberin tipografik görseli (gorsel_yedek) gösterilir:
@@ -15,6 +16,7 @@
     <span class="hk-m">
       {{ if or (not (or $foto $yedek)) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
       <span class="hk-b">{{ .baslik }}</span>
+      {{ if .imza }}<span class="hk-imza"><span>{{ .yazar | default site.Title }}</span><time datetime="{{ .iso }}" data-tam>{{ substr .iso 8 2 }}.{{ substr .iso 5 2 }}.{{ substr .iso 0 4 }} {{ substr .iso 11 5 }}</time></span>{{ end }}
       {{ if or (not (or $foto $yedek)) (eq $t "ozetli") }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 180 }}</span>{{ end }}{{ end }}
     </span>
   </a>

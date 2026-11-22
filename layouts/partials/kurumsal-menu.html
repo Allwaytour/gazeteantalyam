@@ -1,0 +1,10 @@
+{{/* Kurumsal sayfalar arasında gezinme (Hakkımızda, Yayın İlkeleri, Düzeltme Politikası, Künye, İletişim) */}}
+{{ $simdiki := .RelPermalink }}
+<nav class="kurumsal-menu" aria-label="Kurumsal">
+  <p class="kurumsal-menu-bas">Kurumsal</p>
+  <ul>
+    {{ range slice (slice "hakkimizda/" "Hakkımızda") (slice "yayin-ilkeleri/" "Yayın İlkeleri") (slice "duzeltme-politikasi/" "Düzeltme Politikası") (slice "kunye/" "Künye") (slice "iletisim/" "İletişim") (slice "gizlilik/" "Gizlilik Politikası") }}
+    {{ $u := index . 0 | relURL }}<li><a href="{{ $u }}"{{ if eq $u $simdiki }} aria-current="page"{{ end }}>{{ index . 1 }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

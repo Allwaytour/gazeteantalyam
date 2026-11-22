@@ -46,6 +46,14 @@
     <div class="mm-izgara mm-ilce">
       {{ range site.Data.site.ilceler }}<a href="{{ partial "terim-url.html" (slice "ilceler" .) }}">{{ . }}</a>{{ end }}
     </div>
+    <p class="mm-baslik">Kurumsal</p>
+    <div class="mm-izgara">
+      <a href="{{ "hakkimizda/" | relURL }}">Hakkımızda</a>
+      <a href="{{ "yayin-ilkeleri/" | relURL }}">Yayın İlkeleri</a>
+      <a href="{{ "duzeltme-politikasi/" | relURL }}">Düzeltme Politikası</a>
+      <a href="{{ "kunye/" | relURL }}">Künye</a>
+      <a href="{{ "iletisim/" | relURL }}">İletişim</a>
+    </div>
   </div>
 </div>
 
