@@ -2770,6 +2770,82 @@
    },
    "url": "https://images.unsplash.com/photo-1774174816822-5e96fa606fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVjeWNsZWQlMjBhcnQlMjBzY3VscHR1cmV8ZW58MXwwfHx8MTc5NDczMzg4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "0295d7286095406f": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gül pencere",
+     "taş cephe",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Paris Notre-Dame Katedrali'nin gotik mimari detayları ve gül penceresi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "tarihi eserler",
+     "fransa"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "güncel haberler"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02b427ba955d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mimari detay fotoğrafı siyasi parti transferi haberiyle bağdaşmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7e82d2f27a52ec64",
+    "sha": "5b550cdb20bbfdc9289b8ef9"
+   },
+   "t": "2026-11-22T11:04:13+03:00",
+   "teknik": {
+    "doygunluk": 17.6,
+    "inen": [
+     500,
+     342
+    ],
+    "karanlik_oran": 0.208,
+    "keskinlik": 3487,
+    "kontrast": 64,
+    "medyan": 156,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Paris%2C_Notre_Dame_--_2014_--_1468.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "02c7a45eb918ebed": {
    "icerik": {
     "ana_kutu": [
@@ -8821,6 +8897,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Kadriye_Beach%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_March_2022.jpg/1280px-Kadriye_Beach%2C_Belek%2C_Serik_District%2C_Antalya%2C_Turkey_March_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0bf4a3c25bee2a32": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     60,
+     999,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "köpek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yakın plan bir Fransız bulldog köpeğin yüzü ve gözleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "köpek haberleri",
+     "evcil hayvan yazıları"
+    ],
+    "uygunsuz_baglamlar": [
+     "özel asayiş haberi",
+     "hırsızlık vakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpek hırsızlığı haberi için temsili köpek yüzü kullanılabilir ancak olay anını yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       60,
+       999,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4cc8e9c9cb834366",
+    "sha": "46a5f447e42b6762e599281a"
+   },
+   "t": "2026-11-22T11:04:57+03:00",
+   "teknik": {
+    "doygunluk": 20.0,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.116,
+    "keskinlik": 326,
+    "kontrast": 55,
+    "medyan": 127,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1649075758761-3af2aa624076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGV0JTIwZG9nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk1MzM0Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "0bf66f9dab6df0d3": {
    "ozet": {
@@ -25597,6 +25761,80 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cXVyYW4lMjBib29rJTIwb24lMjB0YWJsZXxlbnwxfDB8fHwxNzk1MDk1MDU1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "2190672e5dab9fd3": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "bina",
+     "otomobil",
+     "tabela",
+     "ağaç",
+     "direk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Önünde otomobiller olan modern Erzurum Adalet Sarayı binası",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset transferi",
+     "spor haberleri"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02b427ba955d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya siyaset haberiyle Erzurum Adalet Sarayı binasının hiçbir ilişkisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b0bcafa63f2ec9c7",
+    "sha": "361ee1a76c99f80d439de2f9"
+   },
+   "t": "2026-11-22T11:04:13+03:00",
+   "teknik": {
+    "doygunluk": 10.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.052,
+    "keskinlik": 2502,
+    "kontrast": 60,
+    "medyan": 146,
+    "parlaklik": 146,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Erzurum_Adalet_Saray%C4%B1.jpg/1280px-Erzurum_Adalet_Saray%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "2198654e3eb80884": {
    "icerik": {
@@ -59233,6 +59471,89 @@
    },
    "url": "https://images.unsplash.com/photo-1785062381576-e71caad5e3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cml2ZXJiZWQlMjBjb25zdHJ1Y3Rpb258ZW58MXwwfHx8MTc5NDU2OTM4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "516a98692abc26c4": {
+   "icerik": {
+    "ana_kutu": [
+     201,
+     177,
+     770,
+     793
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "köpek ödül maması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Beyaz arka plan üzerinde domuz pastırması görünümünde iki adet köpek ödül maması",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "köpek maması haberi",
+     "evcil hayvan beslenmesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "köpek hırsızlığı haberi",
+     "asayiş haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber köpekle ilgili ancak fotoğrafta köpek yerine sadece mama mamulü var.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "07195978d8e1e70f",
+    "sha": "7103be18d05ea45215176857"
+   },
+   "t": "2026-11-22T11:04:57+03:00",
+   "teknik": {
+    "doygunluk": 11.2,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.033,
+    "keskinlik": 411,
+    "kontrast": 64,
+    "medyan": 233,
+    "parlaklik": 200,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Close_up_of_two_Beggin%E2%80%99_Strips.jpg/1280px-Close_up_of_two_Beggin%E2%80%99_Strips.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5173d8327d887bd2": {
    "icerik": {
     "ana_kutu": [
@@ -74398,6 +74719,27 @@
    },
    "url": "https://images.unsplash.com/photo-1760708626681-59a5373819a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHNpdGV8ZW58MXwwfHx8MTc5NDUxNTI2NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "66775fa10b5380bd": {
+   "ozet": {
+    "dh": "070f0f0f07170f0f",
+    "sha": "b19bfc61d761adadb6d04ae5"
+   },
+   "t": "2026-11-22T11:04:49+03:00",
+   "teknik": {
+    "doygunluk": 38.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.46,
+    "keskinlik": 905,
+    "kontrast": 67,
+    "medyan": 58,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/202504_Slow_shutter_shot_a_barking_of_Fierce_dog_at_night_with_camera_in_%E6%96%B0%E5%8C%97%E5%B8%82%E9%9B%99%E6%BA%AA%E5%8D%80%2C%E8%87%BA%E7%81%A3.jpg/1280px-202504_Slow_shutter_shot_a_barking_of_Fierce_dog_at_night_with_camera_in_%E6%96%B0%E5%8C%97%E5%B8%82%E9%9B%99%E6%BA%AA%E5%8D%80%2C%E8%87%BA%E7%81%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "66e5ad992d847136": {
    "t": "2026-11-08T14:38:02+03:00",
    "teknik": {
@@ -75743,6 +76085,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1770723965399-cbdbc01b2619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8Z2l2aW5nJTIwYmxvb2QlMjBSZWQlMjBDcmVzY2VudHxlbnwxfDB8fHwxNzk0MjkyNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "68e1942007f80cc2": {
+   "ozet": {
+    "dh": "06060642a7870b93",
+    "sha": "04fbf5b2e042dd2b91a0ab7d"
+   },
+   "t": "2026-11-22T11:04:50+03:00",
+   "teknik": {
+    "doygunluk": 26.6,
+    "inen": [
+     400,
+     290
+    ],
+    "karanlik_oran": 0.617,
+    "keskinlik": 194,
+    "kontrast": 44,
+    "medyan": 39,
+    "parlaklik": 52,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1699568680745-5cc0138f1cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cGV0JTIwZG9nJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk1MzM0Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "690a650ec0699ef6": {
    "icerik": {
@@ -81997,6 +82360,96 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Market_in_Manavgat.jpg/1280px-Market_in_Manavgat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "71718e9289fb5361": {
+   "icerik": {
+    "ana_kutu": [
+     234,
+     156,
+     775,
+     863
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap kaide",
+     "metal obje",
+     "plaka"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap kaide üzerinde metal nesneler ve yazılı plaka",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarihi eser",
+     "ödül haberi",
+     "müze"
+    ],
+    "uygunsuz_baglamlar": [
+     "dijital içerik üretimi",
+     "güncel sosyal medya"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bb4c3507b213:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf dijital içerik üretimiyle tamamen ilgisiz bir ahşap kaide ve metal nesneleri göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "video kamera",
+        "var": false
+       },
+       {
+        "unsur": "bilgisayar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:03:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00c21cf8f4e0619c",
+    "sha": "95885262df4ca5efa0ec134e"
+   },
+   "t": "2026-11-22T11:03:53+03:00",
+   "teknik": {
+    "doygunluk": 2.6,
+    "inen": [
+     500,
+     392
+    ],
+    "karanlik_oran": 0.083,
+    "keskinlik": 1070,
+    "kontrast": 79,
+    "medyan": 239,
+    "parlaklik": 194,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/CLOCK_AND_DESK_SET_-_NARA_-_17470145.jpg/1280px-CLOCK_AND_DESK_SET_-_NARA_-_17470145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7195fd0c99005d02": {
    "icerik": {
@@ -92458,6 +92911,82 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg/1280px-Antalya%2C_konyaalt%C4%B1_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7fdba3552d2ca4bd": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "heykel",
+     "sütun",
+     "bina cephesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Paris Notre-Dame Katedrali cephesindeki kral heykelleri dizisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarihi yapılar",
+     "fransa turizmi",
+     "sanat tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "türkiye siyaseti",
+     "yerel parti haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02b427ba955d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Paris'teki tarihi katedral heykelleri Antalya siyaset transferi haberiyle tamamen alakasızdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d6deb29226662a12",
+    "sha": "d2dd8d1381fbe3ab8f2e1f7b"
+   },
+   "t": "2026-11-22T11:04:13+03:00",
+   "teknik": {
+    "doygunluk": 21.6,
+    "inen": [
+     500,
+     84
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 8558,
+    "kontrast": 71,
+    "medyan": 130,
+    "parlaklik": 128,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8018a75bfed813b9": {
    "icerik": {
     "ana_kutu": [
@@ -95515,13 +96044,44 @@
       "yasak": []
      },
      "t": "2026-11-20T21:59:57+03:00"
+    },
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin öznesi köpek fotoğrafta yer alıyor ancak olay anı değil.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       527,
+       624,
+       888,
+       756
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:44+03:00"
     }
    },
    "ozet": {
     "dh": "0b21212024fcfc6f",
     "sha": "80948d4c7731efb5973210ce"
    },
-   "t": "2026-11-20T21:59:57+03:00",
+   "t": "2026-11-22T11:04:44+03:00",
    "teknik": {
     "doygunluk": 15.9,
     "inen": [
@@ -104756,6 +105316,81 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/UR-UBB_AYT_08.07.21_%2852769136619%29.jpg/1280px-UR-UBB_AYT_08.07.21_%2852769136619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8f6517d2d02d1508": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "rozet",
+     "kurdele"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde Votes for Women yazan eski rozet",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kadın hakları",
+     "tarihi objeler",
+     "seçim tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel siyaset",
+     "parti transferi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:02b427ba955d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi seçim rozeti temsilî olarak düşünülebilse de yabancı dildeki eski obje haberle uyuşmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b36944dad84c71b1",
+    "sha": "ed15cb2b587a4981bbced4be"
+   },
+   "t": "2026-11-22T11:04:13+03:00",
+   "teknik": {
+    "doygunluk": 30.0,
+    "inen": [
+     400,
+     265
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 547,
+    "kontrast": 62,
+    "medyan": 212,
+    "parlaklik": 172,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1587657813858-34effae70615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cG9saXRpY2FsJTIwcGFydHklMjByb3NldHRlJTIwc3ltYm9sfGVufDF8MHx8fDE3OTUzMzQ2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "8f76e1ac9a636626": {
    "t": "2026-11-08T15:07:23+03:00",
@@ -147334,6 +147969,95 @@
    },
    "url": "https://images.unsplash.com/photo-1767619879597-17943ea7482a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8dHJhZmZpYyUyMG9mZmljZXIlMjB1bmlmb3JtJTIwY2xvc2UlMjB1cHxlbnwxfDB8fHwxNzk0MTYxMTE3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "cc41b65c9aa67102": {
+   "icerik": {
+    "ana_kutu": [
+     301,
+     268,
+     744,
+     917
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dairesel cisim",
+     "ölçek cetveli"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Stüdyo ortamında iki adet dairesel siyah nesne ve cetvel",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "laboratuvar",
+     "teknik inceleme",
+     "müze"
+    ],
+    "uygunsuz_baglamlar": [
+     "dijital içerik üretimi",
+     "güncel yaşam"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bb4c3507b213:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel dijital içerik üretimi haberiyle tamamen alakasız laboratuvar örneklerini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "video kamera",
+        "var": false
+       },
+       {
+        "unsur": "bilgisayar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:03:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "000b246c6ca41b05",
+    "sha": "b7bc31272fc2656a3403081c"
+   },
+   "t": "2026-11-22T11:03:53+03:00",
+   "teknik": {
+    "doygunluk": 3.8,
+    "inen": [
+     500,
+     386
+    ],
+    "karanlik_oran": 0.146,
+    "keskinlik": 844,
+    "kontrast": 76,
+    "medyan": 206,
+    "parlaklik": 173,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/DESK_SPECIMENS_WITH_SCALE_-_NARA_-_17467717.jpg/1280px-DESK_SPECIMENS_WITH_SCALE_-_NARA_-_17467717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cc41da8cc82f2895": {
    "icerik": {
     "ana_kutu": [
@@ -150293,6 +151017,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d1c7269792136afb": {
+   "icerik": {
+    "ana_kutu": [
+     552,
+     212,
+     977,
+     381
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "köpek",
+     "kadın",
+     "koltuk",
+     "çanta",
+     "bagaj arabası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Maskeli bir kadın koltukta otururken yanında tasmalı köpeği duruyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "köpek sahiplenme",
+     "kayıp köpek bulma"
+    ],
+    "uygunsuz_baglamlar": [
+     "asayiş operasyonu",
+     "hırsızlık haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      81,
+      655,
+      237,
+      831
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpek sahibine kavuşma temasına uygun bir temsilî fotoğraf ancak olay Manavgat'ta geçiyor.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       552,
+       212,
+       977,
+       381
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e1e1e1c6282a4d49",
+    "sha": "f15b58f0ee7125232b42dc12"
+   },
+   "t": "2026-11-22T11:04:57+03:00",
+   "teknik": {
+    "doygunluk": 34.4,
+    "inen": [
+     500,
+     365
+    ],
+    "karanlik_oran": 0.337,
+    "keskinlik": 1769,
+    "kontrast": 49,
+    "medyan": 69,
+    "parlaklik": 71,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/MTA_Chief_Customer_Officer_Honors_NYC_Transit_Employee_with_Commendation_for_Dog_Rescue_%2851172869293%29.jpg/1280px-MTA_Chief_Customer_Officer_Honors_NYC_Transit_Employee_with_Commendation_for_Dog_Rescue_%2851172869293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d1cf21b488aa61ba": {
    "icerik": {
@@ -159704,6 +160527,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chicken_on_Castle_Hill%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg/1280px-Chicken_on_Castle_Hill%2C_Alanya%2C_T%C3%BCrkiye%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e0afef053b4d852f": {
+   "icerik": {
+    "ana_kutu": [
+     201,
+     140,
+     976,
+     526
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "köpek",
+     "el",
+     "çanta",
+     "koltuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir kişinin eli tüylü köpeğin başını seviyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "köpek sahibi buluşması",
+     "evcil hayvan"
+    ],
+    "uygunsuz_baglamlar": [
+     "hırsızlık olayı",
+     "polis operasyonu"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpeğin sahibine kavuşma anını temsil eden uygun bir kare.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       201,
+       140,
+       976,
+       526
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:57+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "899b53666be9e9e9",
+    "sha": "04a0913104f2e121d08b0091"
+   },
+   "t": "2026-11-22T11:04:57+03:00",
+   "teknik": {
+    "doygunluk": 30.1,
+    "inen": [
+     500,
+     364
+    ],
+    "karanlik_oran": 0.398,
+    "keskinlik": 1661,
+    "kontrast": 46,
+    "medyan": 61,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/MTA_Chief_Customer_Officer_Honors_NYC_Transit_Employee_with_Commendation_for_Dog_Rescue_%2851172629536%29.jpg/1280px-MTA_Chief_Customer_Officer_Honors_NYC_Transit_Employee_with_Commendation_for_Dog_Rescue_%2851172629536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e0fbc36349f66e77": {
    "icerik": {
     "ana_kutu": [
@@ -168924,6 +169838,89 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Fuel_station%2C_Tamale_%28P1100296%29.jpg/1280px-Fuel_station%2C_Tamale_%28P1100296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ee9245f749ed9892": {
+   "icerik": {
+    "ana_kutu": [
+     461,
+     246,
+     995,
+     598
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "jandarma minibüsü",
+     "polis otosu",
+     "beton duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Jandarma ve polis araçları park halinde duruyor",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "magazin",
+     "kultur sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Jandarma aracı yer alsa da çalınan köpek olayını doğrudan yansıtmaz, genel temsilidir.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d1c198b65651838",
+    "sha": "cdc59587c9cd7b239a0e342a"
+   },
+   "t": "2026-11-22T11:04:44+03:00",
+   "teknik": {
+    "doygunluk": 35.4,
+    "inen": [
+     500,
+     308
+    ],
+    "karanlik_oran": 0.153,
+    "keskinlik": 2073,
+    "kontrast": 64,
+    "medyan": 151,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/T%C3%BCrkey_Unterwegs_552DSC_0200_%2848093860582%29.jpg/1280px-T%C3%BCrkey_Unterwegs_552DSC_0200_%2848093860582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "eead311d08579aa1": {
    "icerik": {
     "ana_kutu": [
@@ -174084,6 +175081,112 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f57bac7c2a52023e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "ceket",
+     "gömlek",
+     "cep telefonu",
+     "şapka",
+     "gözlük"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda ceket giyen iki kişi",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "moda",
+     "video çekimi",
+     "arkadaşlık"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "maç haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      0,
+      0,
+      360,
+      155
+     ],
+     [
+      0,
+      428,
+      998,
+      853
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:bb4c3507b213:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişiler haberdeki çift değildir ve içerik üretimine dair unsur bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "video kamera",
+        "var": false
+       },
+       {
+        "unsur": "bilgisayar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:03:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b232129a66266267",
+    "sha": "405ba4150cdc727cf047afd5"
+   },
+   "t": "2026-11-22T11:03:53+03:00",
+   "teknik": {
+    "doygunluk": 20.8,
+    "inen": [
+     500,
+     302
+    ],
+    "karanlik_oran": 0.143,
+    "keskinlik": 552,
+    "kontrast": 61,
+    "medyan": 133,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Koffee_-_Mykal_Cushnie_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "f58cececdacc8e78": {
    "icerik": {
     "ana_kutu": [
@@ -174912,6 +176015,91 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Minister-president_Rutte_en_de_Turkse_minister_van_Economie_Babacan.jpg/1280px-Minister-president_Rutte_en_de_Turkse_minister_van_Economie_Babacan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f65afc7e810b8a81": {
+   "icerik": {
+    "ana_kutu": [
+     198,
+     0,
+     597,
+     712
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sarı köprü",
+     "tekne",
+     "nehir",
+     "ağaç",
+     "iskele"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Manavgat ırmağı, sarı köprü ve iskeledeki ahşap tekne",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "asayis haberi",
+     "hirsizlik haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Manavgat'ı gösterse de köpek hırsızlığı haberiyle ve olayla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:44+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c916161352921a18",
+    "sha": "8c9fb77bcdb2526ff1dbd6b7"
+   },
+   "t": "2026-11-22T11:04:44+03:00",
+   "teknik": {
+    "doygunluk": 35.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.133,
+    "keskinlik": 5266,
+    "kontrast": 63,
+    "medyan": 115,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Manavgat_%C4%B1rma%C4%9F%C4%B1.jpg/1280px-Manavgat_%C4%B1rma%C4%9F%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f674e7a9d8a80e1c": {
    "icerik": {
@@ -180298,13 +181486,39 @@
       "yasak": []
      },
      "t": "2026-11-09T14:05:12+03:00"
+    },
+    "r1:a4363d4c41dc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Köpek uzakta ve çok küçük, detaylar seçilemiyor.",
+      "gerekli": [
+       {
+        "unsur": "kopek",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:04:44+03:00"
     }
    },
    "ozet": {
     "dh": "14010c1cff8e9021",
     "sha": "37a91193940f0d58e19adb18"
    },
-   "t": "2026-11-09T14:05:12+03:00",
+   "t": "2026-11-22T11:04:44+03:00",
    "teknik": {
     "doygunluk": 16.8,
     "inen": [
