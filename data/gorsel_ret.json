@@ -1,6 +1,20 @@
 {
  "aciklama": "Reddedilen fotoğraflar. 'gorsel': lisans/teknik nedenle her haber için reddedilenler (fotoğraf düzeyi). 'eslesme': yanlış yer/olay/özne nedeniyle yalnızca belirli bir haber için reddedilenler (haber–fotoğraf eşleşmesi düzeyi; anahtar: haberin konu imzası). Eşleşme dosya özetiyle (sha256) ve benzer görsel özetiyle (dHash) yapılır: aynı fotoğraf farklı adres, boyut ya da kaynaktan gelse de tanınır.",
  "eslesme": {
+  "005838c85a8f": [
+   {
+    "dh": "1313e0cc3c528020",
+    "gk": "cd9201a305a94e01",
+    "kategori": [
+     "konu"
+    ],
+    "kaynak": "hat",
+    "neden": "habere uygunluk düşük (5/10, en az 7)",
+    "sha": "b4e79ca308215b528e1f9598",
+    "t": "2026-11-22T18:34:03+03:00",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
   "01ec383525fe": [
    {
     "dh": "d979dbc1c2200406",
