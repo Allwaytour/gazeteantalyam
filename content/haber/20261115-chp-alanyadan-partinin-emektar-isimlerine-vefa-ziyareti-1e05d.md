@@ -35,7 +35,7 @@ gorsel_secim:
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
     arsiv_id: chp-logo
-    tarih: '2026-11-22T19:34:59+03:00'
+    tarih: '2026-11-22T20:01:31+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
