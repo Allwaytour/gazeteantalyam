@@ -60309,6 +60309,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Konya6plaj.jpg/1280px-Konya6plaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "50f0f66ab7e665c9": {
+   "icerik": {
+    "ana_kutu": [
+     504,
+     557,
+     888,
+     997
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bilgisayar masası",
+     "muayene sedyesi",
+     "tıbbi cihaz",
+     "tablo",
+     "lamba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern tıbbi ofis ve muayenehane iç mekan görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık",
+     "klinik",
+     "ofis tasarımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "iç mimarlık ofisi açılışı",
+     "sanat ve tasarım"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir tıp ofisine ait olduğundan iç mimarlık ofisi haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": false
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:04:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ebebadfdfd7cde9a",
+    "sha": "aeffd98ba05b7b17aa5f4f1b"
+   },
+   "t": "2026-11-22T14:04:33+03:00",
+   "teknik": {
+    "doygunluk": 10.8,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.031,
+    "keskinlik": 832,
+    "kontrast": 45,
+    "medyan": 151,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Modern_medical_office_interior_design.jpg/1280px-Modern_medical_office_interior_design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "50fad3b9f45c7192": {
    "icerik": {
     "ana_kutu": [
@@ -71604,6 +71696,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/72-NorthAmericanPhalanx-interior.jpg/1280px-72-NorthAmericanPhalanx-interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "60c7b56f7dd7c4f7": {
+   "icerik": {
+    "ana_kutu": [
+     178,
+     207,
+     853,
+     672
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kanepe",
+     "koltuk",
+     "sehpa",
+     "dikey bitki duvarı",
+     "cam bölme"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Duvarında bitkiler ve dikey ahşap paneller bulunan modern bekleme salonu",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iç mimari",
+     "ofis tasarımı",
+     "dekorasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "açılış töreni",
+     "siyaset",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern ve şık iç mimari tasarımı, ofis açılışı haberi için uygun bir temsilî görseldir.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": true
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       178,
+       207,
+       853,
+       672
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:04:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c9d9b919a9ad9b1e",
+    "sha": "1dea5eb9a80d0caf4391fb5e"
+   },
+   "t": "2026-11-22T14:04:33+03:00",
+   "teknik": {
+    "doygunluk": 26.0,
+    "inen": [
+     400,
+     271
+    ],
+    "karanlik_oran": 0.157,
+    "keskinlik": 1441,
+    "kontrast": 46,
+    "medyan": 103,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1706074797611-a02f9ed06439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8bW9kZXJuJTIwaW50ZXJpb3IlMjBkZXNpZ24lMjBvZmZpY2V8ZW58MXwwfHx8MTc5NTM0NTQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "6121f776d90c2ff7": {
    "icerik": {
@@ -97858,6 +98048,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Winter_tires_with_North_American_symbol.jpg/1280px-Winter_tires_with_North_American_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "83194c5e3612c58d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap kiriş",
+     "tabure",
+     "masa",
+     "lamba",
+     "tavan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap kirişli tavanı ve renkli tabureleri olan geniş bir iç mekân.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iç mimarlık",
+     "restoran tasarımı",
+     "mekân tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "açılış töreni",
+     "haber öznesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya'daki ofisi değil, New York'taki bir dinlenme tesisini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": false
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:03:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "a99da48b9b950584",
+    "sha": "193c018573f2c32a19f49981"
+   },
+   "t": "2026-11-22T14:03:54+03:00",
+   "teknik": {
+    "doygunluk": 40.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.388,
+    "keskinlik": 2624,
+    "kontrast": 58,
+    "medyan": 65,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Interior_seating_area_at_New_York_State_Thruway_Ontario_Service_Area%2C_LeRoy%2C_New_York_-_20210820.jpg/1280px-Interior_seating_area_at_New_York_State_Thruway_Ontario_Service_Area%2C_LeRoy%2C_New_York_-_20210820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "837947be6da23922": {
    "ozet": {
     "dh": "170f33960f69aa4f",
@@ -117240,6 +117523,99 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Istan-Schah16_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "9f99032365a637d8": {
+   "icerik": {
+    "ana_kutu": [
+     30,
+     24,
+     903,
+     974
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kilise ici",
+     "org",
+     "avize",
+     "pencere",
+     "sutun"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kilise ic mimarisi ve dekorasyonu cizimi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ic mimarlik",
+     "tarihi yapi",
+     "sanat tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "guncel ofis acilisi",
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Cizim bir kilise ic unsurunu gosteriyor, Antalya'daki modern ofis acilisi haberiyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "ic mimarlik ofisi",
+        "var": false
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:03:51+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e0c69cb4a6a6b4a2",
+    "sha": "04402520a1e8041b92b626a0"
+   },
+   "t": "2026-11-22T14:03:54+03:00",
+   "teknik": {
+    "doygunluk": 22.8,
+    "inen": [
+     500,
+     352
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1158,
+    "kontrast": 51,
+    "medyan": 107,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Design_for_a_church_interior_MET_DP206037.jpg/1280px-Design_for_a_church_interior_MET_DP206037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9fd6d9c865a7c0a5": {
    "ozet": {
     "dh": "7a4969e8cc053817",
@@ -124881,6 +125257,105 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1784641338195-8ba9f4cb56ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZnJ1aXQlMjB0cmVlJTIwc2FwbGluZ3N8ZW58MXwwfHx8MTc5NDgyMzk4N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "abf3ca828803bb88": {
+   "icerik": {
+    "ana_kutu": [
+     116,
+     96,
+     642,
+     953
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "koltuk",
+     "masa",
+     "sandalye",
+     "lamba",
+     "halı",
+     "perde"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mor perdeli, kırmızı halılı ve modern mobilyalı iç mekan tasarımı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iç mimari",
+     "dekorasyon",
+     "tasarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "açılış töreni",
+     "siyaset",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili iç mimari görseli uygundur ancak dönemi eski kalmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": true
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       116,
+       96,
+       642,
+       953
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:04:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "242424646ecf3f3f",
+    "sha": "904bde96628502dfb766719e"
+   },
+   "t": "2026-11-22T14:04:33+03:00",
+   "teknik": {
+    "doygunluk": 33.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.269,
+    "keskinlik": 2222,
+    "kontrast": 66,
+    "medyan": 90,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Kolb_home_office_interior_design_by_Zalaba.jpg/1280px-Kolb_home_office_interior_design_by_Zalaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ac163e92265f55cd": {
    "icerik": {
@@ -143628,6 +144103,99 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/OtokarSultanPrisonBus_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "c5a8d27393ba60c2": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     20,
+     936,
+     979
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kilise içi",
+     "tavan",
+     "sütun",
+     "pencere",
+     "avize"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kilise iç mekan tasarım çizimi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "cizim",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimarlık",
+     "tarihi yapı",
+     "sanat tarihi"
+    ],
+    "uygunsuz_baglamlar": [
+     "ofis açılışı",
+     "siyaset",
+     "güncel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir iç mimarlık ofisi açılışını değil, tarihi bir kilise iç mekan çizimini göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": false
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:03:54+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e0c69cb6262734b0",
+    "sha": "90e0830f8c11d06c3b11aab2"
+   },
+   "t": "2026-11-22T14:03:54+03:00",
+   "teknik": {
+    "doygunluk": 23.6,
+    "inen": [
+     500,
+     349
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 1148,
+    "kontrast": 46,
+    "medyan": 106,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Design_for_a_church_interior_MET_DP207591.jpg/1280px-Design_for_a_church_interior_MET_DP207591.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c5af0854c8a85b2e": {
    "icerik": {
@@ -177543,6 +178111,104 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Apfelernte_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f56b63800045497c": {
+   "icerik": {
+    "ana_kutu": [
+     444,
+     243,
+     866,
+     762
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "çalışma masası",
+     "ofis koltuğu",
+     "bilgisayar",
+     "raf",
+     "saksı bitkisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap masalar, ofis sandalyeleri ve raflar bulunan modern çalışma alanı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "iç mimari",
+     "ofis tasarımı",
+     "çalışma alanı"
+    ],
+    "uygunsuz_baglamlar": [
+     "açılış töreni",
+     "siyaset",
+     "güncel olay"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:24a411e0538f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern bir iç mimarlık ofisinin çalışma alanını gösterdiği için habere uygundur.",
+      "gerekli": [
+       {
+        "unsur": "iç mimarlık ofisi",
+        "var": true
+       },
+       {
+        "unsur": "modern dekorasyon",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       444,
+       243,
+       866,
+       762
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T14:04:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "68bacee6c56be9e9",
+    "sha": "b7f8b9ca1cf7d3d19a5d058a"
+   },
+   "t": "2026-11-22T14:04:33+03:00",
+   "teknik": {
+    "doygunluk": 24.2,
+    "inen": [
+     400,
+     271
+    ],
+    "karanlik_oran": 0.22,
+    "keskinlik": 1336,
+    "kontrast": 49,
+    "medyan": 96,
+    "parlaklik": 94,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bW9kZXJuJTIwaW50ZXJpb3IlMjBkZXNpZ24lMjBvZmZpY2V8ZW58MXwwfHx8MTc5NTM0NTQ1Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "f57bac7c2a52023e": {
    "icerik": {
