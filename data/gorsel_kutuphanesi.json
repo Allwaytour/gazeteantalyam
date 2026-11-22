@@ -13799,6 +13799,41 @@
      },
      "t": "2026-11-19T12:18:12+03:00"
     },
+    "r1:29e79c08357d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, haberin konusu olan yol yapım ve kazı çalışmalarını doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       },
+       {
+        "unsur": "yol yapim çalismasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       483,
+       756,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:47+03:00"
+    },
     "r1:49a6ba187d3f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -13835,7 +13870,7 @@
     "dh": "3c1d357373250f27",
     "sha": "efff0c91bb018005e3b8fe1a"
    },
-   "t": "2026-11-19T12:18:12+03:00",
+   "t": "2026-11-22T13:10:47+03:00",
    "teknik": {
     "doygunluk": 13.8,
     "inen": [
@@ -22210,6 +22245,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Abu_Zafar_Md._Zahid_Hossain_and_Mahinur_Ozdemir_Goktas_at_9th_OIC_Ministerial_Conference_on_Women_in_Islamabad%2C_2026-07-13.jpg/1280px-Abu_Zafar_Md._Zahid_Hossain_and_Mahinur_Ozdemir_Goktas_at_9th_OIC_Ministerial_Conference_on_Women_in_Islamabad%2C_2026-07-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1d83549ad6bdad18": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     40,
+     780,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dünya haritası",
+     "veri lejantı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "2023 yılı zeytinyağı üretim verilerini gösteren dünya haritası",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ekonomi verisi",
+     "tarımsal istatistik"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel hasat haberi",
+     "günlük yaşam"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4cf7e49f1f73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Küresel üretim haritası olduğundan ilçe bazındaki zeytin sıkım kuyruğu haberine uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": false
+       },
+       {
+        "unsur": "çuval veya kasa",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8348b0b056d6fafe",
+    "sha": "935d11f7540a54faf7b47a6b"
+   },
+   "t": "2026-11-22T13:10:19+03:00",
+   "teknik": {
+    "doygunluk": 2.7,
+    "inen": [
+     500,
+     353
+    ],
+    "karanlik_oran": 0.003,
+    "keskinlik": 732,
+    "kontrast": 29,
+    "medyan": 255,
+    "parlaklik": 245,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Olive_oil_production%2C_2022.png/1280px-Olive_oil_production%2C_2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "1db365d0a7f72e65": {
    "icerik": {
     "ana_kutu": [
@@ -22905,6 +23028,116 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fuel_pumps_at_a_Valero_gas_station_in_Greenville%2C_South_Carolina_03.jpg/1280px-Fuel_pumps_at_a_Valero_gas_station_in_Greenville%2C_South_Carolina_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1ea57a1c5cf47535": {
+   "icerik": {
+    "ana_kutu": [
+     447,
+     362,
+     979,
+     638
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "meşale",
+     "bayrak",
+     "pankart",
+     "akıllı telefon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Meşale ve bayraklar taşıyan kalabalık bir grup protestocu.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "protesto haberi",
+     "sokak gösterisi",
+     "eylem haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "diplomasi belgeseli",
+     "resmi kabul",
+     "portre haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      19,
+      335,
+      297,
+      439
+     ],
+     [
+      113,
+      10,
+      246,
+      179
+     ],
+     [
+      280,
+      259,
+      876,
+      375
+     ],
+     [
+      354,
+      730,
+      939,
+      882
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a947bef4a14f:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel sokak gösterisi içermektedir ve yasaklı unsurlar arasındadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak gösterisi"
+      ]
+     },
+     "t": "2026-11-22T13:11:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2d29216068cccc7c",
+    "sha": "3a016c598349b50a0a0ee8da"
+   },
+   "t": "2026-11-22T13:11:35+03:00",
+   "teknik": {
+    "doygunluk": 42.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.239,
+    "keskinlik": 1485,
+    "kontrast": 60,
+    "medyan": 133,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Turkish_Military_Intervention_in_Syria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "1eb4f033213b3b44": {
    "icerik": {
@@ -31236,6 +31469,41 @@
      },
      "t": "2026-11-19T12:18:12+03:00"
     },
+    "r1:29e79c08357d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel, bölünmüş yol ve asfalt çalışmalarını net bir şekilde yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       },
+       {
+        "unsur": "yol yapim çalismasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       314,
+       219,
+       672,
+       792
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:47+03:00"
+    },
     "r1:49a6ba187d3f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -31337,7 +31605,7 @@
     "dh": "9c043971d87d1729",
     "sha": "69193a4473262e9b1dc2fca1"
    },
-   "t": "2026-11-19T12:18:12+03:00",
+   "t": "2026-11-22T13:10:47+03:00",
    "teknik": {
     "doygunluk": 13.0,
     "inen": [
@@ -31760,6 +32028,114 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Alanya_Harbour_8531.jpg/1280px-Alanya_Harbour_8531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "292f40458b07fd98": {
+   "icerik": {
+    "ana_kutu": [
+     447,
+     0,
+     856,
+     940
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 22,
+    "nesneler": [
+     "kamera",
+     "uzun masa",
+     "bayrak",
+     "not defteri",
+     "mikrofon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toplantı masasında oturan devlet yetkilileri ve kameraman.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "diplomasi haberi",
+     "resmi ziyaret",
+     "toplantı haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sokak gösterisi",
+     "spor haberi",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      549,
+      13,
+      804,
+      203
+     ],
+     [
+      544,
+      719,
+      836,
+      929
+     ],
+     [
+      613,
+      796,
+      856,
+      951
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a947bef4a14f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Diplomasi trafiğini ve resmi görüşmeleri yansıtan uygun bir arşiv karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       447,
+       0,
+       856,
+       940
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:11:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9c9c70750d26335b",
+    "sha": "6ac1b30d909f1f2d69f7633f"
+   },
+   "t": "2026-11-22T13:11:35+03:00",
+   "teknik": {
+    "doygunluk": 56.9,
+    "inen": [
+     500,
+     310
+    ],
+    "karanlik_oran": 0.336,
+    "keskinlik": 2537,
+    "kontrast": 59,
+    "medyan": 76,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ilham_Aliyev_and_Recep_Tayyip_Erdogan_at_the_4th_Turkey-Azerbaijan_High_Level_Strategic_Council_%281%29.jpg/1280px-Ilham_Aliyev_and_Recep_Tayyip_Erdogan_at_the_4th_Turkey-Azerbaijan_High_Level_Strategic_Council_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "29585bacbd11f548": {
    "icerik": {
@@ -42948,6 +43324,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Antalya_Museum_coffee_related_objects_4963.jpg/1280px-Antalya_Museum_coffee_related_objects_4963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "376fbcd4f82b4775": {
+   "icerik": {
+    "ana_kutu": [
+     150,
+     40,
+     770,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dünya haritası",
+     "veri lejantı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "2021 yılı dünya zeytinyağı üretimini gösteren renkli dünya haritası infografiği",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ekonomi istatistiği",
+     "tarım raporu"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel hasat haberi",
+     "sokak röportajı"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4cf7e49f1f73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel zeytin üretim istatistiği haritasıdır; Serik'teki yerel sıra bekleyişi haberini temsil etmez.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": false
+       },
+       {
+        "unsur": "çuval veya kasa",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "83c8b0b0d4c67879",
+    "sha": "9ab5ebf9701d54c8d0572c1c"
+   },
+   "t": "2026-11-22T13:10:19+03:00",
+   "teknik": {
+    "doygunluk": 1.1,
+    "inen": [
+     500,
+     353
+    ],
+    "karanlik_oran": 0.002,
+    "keskinlik": 607,
+    "kontrast": 21,
+    "medyan": 255,
+    "parlaklik": 249,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Olive_oil_production%2C_2021.png/1280px-Olive_oil_production%2C_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3771c838c7928ede": {
    "ozet": {
     "dh": "191b0b230b191f1e",
@@ -49988,6 +50452,32 @@
      },
      "t": "2026-11-12T01:27:54+03:00"
     },
+    "r1:a947bef4a14f:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin net portresi arşiv için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       42,
+       237,
+       994,
+       804
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:11:35+03:00"
+    },
     "r1:b2d6b7a674b2:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -50075,7 +50565,7 @@
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-20T20:59:58+03:00",
+   "t": "2026-11-22T13:11:35+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -52482,6 +52972,120 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Drag_Racing_Mustang_%28122042266%29.jpg/1280px-Drag_Racing_Mustang_%28122042266%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "470606d566617810": {
+   "icerik": {
+    "ana_kutu": [
+     435,
+     0,
+     804,
+     978
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 20,
+    "nesneler": [
+     "uzun masa",
+     "bayrak",
+     "bardak",
+     "mikrofon",
+     "çiçek"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük bir masanın etrafında karşılıklı oturan heyetler.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "diplomasi haberi",
+     "zirve haberi",
+     "resmi görüşme"
+    ],
+    "uygunsuz_baglamlar": [
+     "sokak gösterisi",
+     "spor haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      447,
+      0,
+      804,
+      143
+     ],
+     [
+      489,
+      45,
+      739,
+      196
+     ],
+     [
+      504,
+      146,
+      706,
+      258
+     ],
+     [
+      512,
+      696,
+      715,
+      846
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a947bef4a14f:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ankara'daki resmi görüşme ve diplomasi temaslarını temsil etmek için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       435,
+       0,
+       804,
+       978
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:11:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8ece4e3a963371e8",
+    "sha": "b4d45452119bce8eef149e2f"
+   },
+   "t": "2026-11-22T13:11:35+03:00",
+   "teknik": {
+    "doygunluk": 62.7,
+    "inen": [
+     500,
+     307
+    ],
+    "karanlik_oran": 0.364,
+    "keskinlik": 2290,
+    "kontrast": 54,
+    "medyan": 67,
+    "parlaklik": 75,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ilham_Aliyev_and_Recep_Tayyip_Erdogan_at_the_4th_Turkey-Azerbaijan_High_Level_Strategic_Council_%283%29.jpg/1280px-Ilham_Aliyev_and_Recep_Tayyip_Erdogan_at_the_4th_Turkey-Azerbaijan_High_Level_Strategic_Council_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4739f26883108f2d": {
    "icerik": {
@@ -55089,6 +55693,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/New_normal_family_time_after_lockdown_01.jpg/1280px-New_normal_family_time_after_lockdown_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4b5c6f314e790ffd": {
+   "ozet": {
+    "dh": "ce0e1660604c3430",
+    "sha": "7147b26d922993f90f9a8b90"
+   },
+   "t": "2026-11-22T13:11:24+03:00",
+   "teknik": {
+    "doygunluk": 42.2,
+    "inen": [
+     500,
+     430
+    ],
+    "karanlik_oran": 0.965,
+    "keskinlik": 922,
+    "kontrast": 18,
+    "medyan": 16,
+    "parlaklik": 20,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/T%C3%BCrkiye_Yapay_Zek%C3%A2_Eylem_Plan%C4%B1_2026-2030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "4bb15fafa9184c8b": {
    "ozet": {
@@ -94944,6 +95569,111 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Parasailers_in_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "81285536efeaed49": {
+   "icerik": {
+    "ana_kutu": [
+     512,
+     207,
+     720,
+     427
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "pankart",
+     "bayrak",
+     "hoparlör",
+     "ağaç",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlık parkta pankart açmış ve bayrak taşıyan protestocu grup.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "protesto haberi",
+     "gösteri haberi",
+     "dış politika haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "diplomasi belgeseli",
+     "portre haberi",
+     "resmi ziyaret"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      529,
+      203,
+      715,
+      252
+     ],
+     [
+      522,
+      421,
+      711,
+      469
+     ],
+     [
+      512,
+      501,
+      716,
+      555
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a947bef4a14f:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta sokak gösterisi yer almaktadır ve haber konusuyla uyuşmamaktadır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak gösterisi"
+      ]
+     },
+     "t": "2026-11-22T13:11:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d9e9b41366ad83f",
+    "sha": "83b274c3d3370877e8f80fe0"
+   },
+   "t": "2026-11-22T13:11:35+03:00",
+   "teknik": {
+    "doygunluk": 22.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.106,
+    "keskinlik": 3724,
+    "kontrast": 52,
+    "medyan": 126,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Protests_against_Operation_Claw-Sword_in_Sydney_%282022-11-20%29.jpg/1280px-Protests_against_Operation_Claw-Sword_in_Sydney_%282022-11-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8150edbafe56e572": {
    "icerik": {
     "ana_kutu": [
@@ -134234,6 +134964,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Coast_Guard_Cutter_Sledge_sets_buoy_in_Potomac_River.jpg/1280px-Coast_Guard_Cutter_Sledge_sets_buoy_in_Potomac_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b81c74d19d3d0fd5": {
+   "ozet": {
+    "dh": "9e870f371ecd4f27",
+    "sha": "8cb26e247a0c66aaa0472816"
+   },
+   "t": "2026-11-22T13:11:24+03:00",
+   "teknik": {
+    "doygunluk": 55.3,
+    "inen": [
+     500,
+     674
+    ],
+    "karanlik_oran": 0.475,
+    "keskinlik": 1244,
+    "kontrast": 61,
+    "medyan": 52,
+    "parlaklik": 79,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Recep_Tayyip_Erdogan_%282020-01-19%29_%28cropped%29.jpg/1280px-Recep_Tayyip_Erdogan_%282020-01-19%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "b83bf35a3c66c10b": {
    "icerik": {
     "ana_kutu": [
@@ -141795,6 +142546,95 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1619794555233-e563edf91173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cmVkJTIwY3Jlc2NlbnQlMjBhaWQlMjBib3h8ZW58MXwwfHx8MTc5NTE4ODYzNHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "c4137366d0589adb": {
+   "icerik": {
+    "ana_kutu": [
+     180,
+     310,
+     830,
+     810
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "maymun",
+     "otlak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Doğal ortamda otlar arasında duran anne ve yavru babun maymunu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yaban hayatı",
+     "doğa belgeseli"
+    ],
+    "uygunsuz_baglamlar": [
+     "tarım",
+     "ekonomi",
+     "zeytin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4cf7e49f1f73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta maymunlar yer alıyor; zeytin üretimi veya kuyruğuyla hiçbir ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": false
+       },
+       {
+        "unsur": "çuval veya kasa",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "808128b0302c2c71",
+    "sha": "603e1992a03172fb3d4c15e8"
+   },
+   "t": "2026-11-22T13:10:19+03:00",
+   "teknik": {
+    "doygunluk": 45.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.041,
+    "keskinlik": 2566,
+    "kontrast": 44,
+    "medyan": 147,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Olive_baboon_%28Papio_anubis%29_with_juvenile.jpg/1280px-Olive_baboon_%28Papio_anubis%29_with_juvenile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c4286d7aa4ffb7bd": {
    "icerik": {
@@ -166014,6 +166854,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Muhittin_B%C3%B6cek_-_Hobifest_-_20.5.17.jpg/1280px-Muhittin_B%C3%B6cek_-_Hobifest_-_20.5.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e68f8c3edc826ea9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "zeytin",
+     "plastik kasa",
+     "hasat filesi",
+     "zeytin yaprağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Hasat edilmiş zeytinler file üzerinde duruyor ve bir kişi kasaya dolduruyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin hasadı",
+     "tarım haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4cf7e49f1f73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin ve kasa unsurları net şekilde görülüyor ancak sıkım kuyruğu değil hasat anını yansıtıyor.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       },
+       {
+        "unsur": "çuval veya kasa",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c6b6789cf4f07810",
+    "sha": "402bfefc068c6fd5825fcc4f"
+   },
+   "t": "2026-11-22T13:10:19+03:00",
+   "teknik": {
+    "doygunluk": 24.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.169,
+    "keskinlik": 7187,
+    "kontrast": 77,
+    "medyan": 150,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg/1280px-Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e6a378aa19b7c151": {
    "icerik": {
     "ana_kutu": [
@@ -178331,6 +179266,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Solak.jpg/1280px-Solak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f78571f779e542c5": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin",
+     "zeytin yaprağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yakın plan yığılmış yeşil ve mor zeytin taneleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin",
+     "tarım",
+     "gıda"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4cf7e49f1f73:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Zeytin ana unsur olarak net görülüyor ancak çuval/kasa eksik ve kuyruk olayı yansıtılmıyor.",
+      "gerekli": [
+       {
+        "unsur": "zeytin",
+        "var": true
+       },
+       {
+        "unsur": "çuval veya kasa",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T13:10:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9899bc3d573561e2",
+    "sha": "c3fad0fbfcbc741954fed3cd"
+   },
+   "t": "2026-11-22T13:10:19+03:00",
+   "teknik": {
+    "doygunluk": 74.0,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.298,
+    "keskinlik": 1241,
+    "kontrast": 66,
+    "medyan": 91,
+    "parlaklik": 96,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8b2xpdmVzJTIwaW4lMjBjcmF0ZXN8ZW58MXwwfHx8MTc5NTM0MjIwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "f7a2d128a8fca0de": {
    "t": "2026-11-08T12:10:57+03:00",
    "teknik": {
@@ -187067,7 +188096,7 @@
    "gosterim_ad": "asfalt çalışması",
    "ilk_kabul": "2026-11-13T14:44:35+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Tom Shamberger / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -187087,10 +188116,12 @@
    "konular": [
     "asfalt makinesi",
     "asfalt makinesi, iş makinesi, yol çalışması",
+    "asfalt yol",
     "asfalt çalışma makinesi",
     "işçi",
     "tarla",
-    "yol"
+    "yol",
+    "yol yapim çalismasi"
    ],
    "kucuk": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXNwaGFsdCUyMHBhdmluZyUyMHJvYWQlMjB3b3JrfGVufDF8MHx8fDE3OTQ1NzAyNjh8MA&ixlib=rb-4.1.0&q=80&w=400",
    "kullanilabilir": [
@@ -187107,7 +188138,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-19T11:28:36+03:00",
+   "son_kabul": "2026-11-22T13:10:47+03:00",
    "url": "https://images.unsplash.com/photo-1708117390188-d1547de962be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YXNwaGFsdCUyMHBhdmluZyUyMHJvYWQlMjB3b3JrfGVufDF8MHx8fDE3OTQ1NzAyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
@@ -188982,7 +190013,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-11T08:09:27+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -189024,7 +190055,7 @@
    "qid": "Q39259",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-13T00:28:45+03:00",
+   "son_kabul": "2026-11-22T13:11:35+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -198170,6 +199201,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-19T11:59:03+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Europe%E2%80%99s_first_residential_3D_printed_building.jpg/1280px-Europe%E2%80%99s_first_residential_3D_printed_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "e68f8c3edc826ea9": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4624,
+    3468
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2023-10-22",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Hasat edilmiş zeytinler file üzerinde duruyor ve bir kişi kasaya dolduruyor",
+   "gosterim_ad": "zeytin sıkım kuyruğu",
+   "ilk_kabul": "2026-11-22T13:10:19+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Anna.Massini / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Anna.Massini",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "hasat filesi",
+    "plastik kasa",
+    "zeytin",
+    "zeytin yaprağı",
+    "çuval veya kasa"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg/500px-Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "zeytin hasadı",
+    "tarım haberleri"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-22T13:10:19+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg/1280px-Tradizioni_familiari_Raccolta_olive_wlk_olive_in_cassetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",

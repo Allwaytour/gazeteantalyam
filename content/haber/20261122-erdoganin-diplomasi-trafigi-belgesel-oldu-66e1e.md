@@ -1,0 +1,80 @@
+---
+title: Erdoğan'ın diplomasi trafiği belgesel oldu
+date: '2026-11-22T12:51:29+03:00'
+ozet: Cumhurbaşkanı Recep Tayyip Erdoğan'ın son dönemdeki yoğun diplomasi trafiği, İletişim Başkanlığı tarafından hazırlanan belgeselle ekranlara taşındı.
+gorsel: https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_kredi: 'Arşiv fotoğrafı: PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)'
+kategoriler:
+- Gündem
+ilceler:
+- Muratpaşa
+etiketler:
+- Recep Tayyip Erdoğan
+- İletişim Başkanlığı
+gorsel_sinif: protokol
+onem: 4
+yazim_denetim: y1
+gorsel_tur: arsiv
+gorsel_secim:
+  tur: arsiv
+  alt_tur: arsiv_eslesme
+  sinif: kisi
+  gorsel_url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  konu_imza: a947bef4a14f
+  kaynak_sayfa: https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_in_Ukraine.jpg
+  fotografci: PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website
+  lisans: CC BY 4.0
+  lisans_dayanagi: https://creativecommons.org/licenses/by/4.0
+  gosterilen: Recep Tayyip Erdoğan
+  cekim_yili: '2022'
+  aciklama: Recep Tayyip Erdoğan — Arşiv fotoğrafı (2022)
+  gerekce: arşiv kaydı 'kisi-42a064' (Recep Tayyip Erdoğan) başlık/spot/giriş ile eşleşti
+  durum: onaylandi
+  hat: t2
+  kredi_etiket: Fotoğraf
+  onay:
+    yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
+    arsiv_id: kisi-42a064
+    tarih: '2026-11-22T13:12:42+03:00'
+  kural_denetim: k4
+  kabul_kurali: k4
+  surum: h1-2026-11-07
+  onceki_durum:
+    tur: kategori
+    durum: arama_bekliyor
+    kapak_nedeni:
+      kod: yayin_kapali
+      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+manset: false
+son_dakika: false
+yazar: Gazete Antalya
+otomatik: true
+yz: true
+kaynak: Hürriyet
+kaynak_url: https://www.hurriyet.com.tr/gundem/ankara-antalya-ve-new-yorktaki-zirveler-belgesel-oldu-cumhurbaskani-erdoganin-diplomasi-trafigi-43386922
+gorsel_yedek: /images/haber-gorsel/20261122-erdoganin-diplomasi-trafigi-belgesel-oldu-66e1e-107b19c0.jpg
+gorsel_yerlesim:
+  boyut:
+  - 570
+  - 763
+  dikey: true
+  surum: y3
+  manset: yan
+  yan: false
+  kart: false
+  detay: true
+  kart_portre: true
+  yan_portre: true
+  o_mansetyan_d: 50% 50%
+  o_mansetyan_m: 50% 50%
+  o_kart_p: 50% 0%
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+gorsel_gecmis: []
+---
+Küresel dengelerin yeniden şekillendiği, krizlerin ve çatışmaların dünya gündemini belirlediği bir dönemde Türkiye'nin uluslararası alandaki etkinliği belgesel konusu oldu. İletişim Başkanı Burhanettin Duran, sosyal medya hesabı üzerinden yaptığı açıklamada, Türkiye'nin diplomasi alanındaki rolüne dikkat çekti.
+
+Son beş ay içerisinde gerçekleştirilen dört kritik zirve, Türkiye'nin küresel diplomasideki ağırlığını bir kez daha gözler önüne serdi. Ankara'da düzenlenen NATO Devlet ve Hükümet Başkanları Zirvesi, Amerika Birleşik Devletleri'nin New York kentindeki Birleşmiş Milletler Genel Kurulu, Ankara'daki Türk Devletleri Teşkilatı 13'üncü Zirvesi ve Antalya'da gerçekleştirilen COP31 zirvesi, yoğun lider diplomasisine sahne oldu.
+
+Söz konusu süreçte Cumhurbaşkanı Recep Tayyip Erdoğan, çok sayıda devlet ve hükümet başkanı, uluslararası kuruluş temsilcileri ve düşünce kuruluşlarıyla bir araya geldi. İkili ilişkilerden bölgesel ve küresel gelişmelere, barış girişimlerinden farklı alanlardaki iş birliklerine kadar pek çok kritik konu bu temaslarda ele alındı.
+
+Cumhurbaşkanlığı İletişim Başkanlığı tarafından hazırlanan 'Türkiye’nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi' adlı belgesel izleyicilerin beğenisine sunuldu. Hazırlanan yapımda, zirvelerdeki yoğun diplomasi trafiği, liderlerle gerçekleştirilen kritik görüşmeler ve zirvelerden özel anlar yer aldı.
