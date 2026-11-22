@@ -9,7 +9,9 @@
       <div class="meta">
         <span class="kaynak">{{ .Params.yazar | default site.Title }}</span>
         <span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Date.Format "02.01.2006 15:04" }}</time></span>
-        {{ if gt .Lastmod .Date }}<span>Son güncelleme: <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ .Lastmod.Format "02.01.2006 15:04" }}</time></span>{{ end }}
+        {{/* Son güncelleme: en yeni düzeltme notunun tarihi (Düzeltme Politikası) ya da ön bilgideki lastmod */}}
+        {{ $guncel := .Lastmod }}{{ range .Params.duzeltmeler }}{{ with .tarih }}{{ $t := time . }}{{ if gt $t $guncel }}{{ $guncel = $t }}{{ end }}{{ end }}{{ end }}
+        {{ if gt $guncel .Date }}<span>Son güncelleme: <time datetime="{{ $guncel.Format "2006-01-02T15:04:05Z07:00" }}" data-tam>{{ $guncel.Format "02.01.2006 15:04" }}</time></span>{{ end }}
       </div>
       {{ partial "paylas.html" . }}
     </div>
@@ -29,6 +31,10 @@
           {{ else }}{{ with $.Params.gorsel_kredi }}{{ strings.TrimPrefix "Temsili fotoğraf: " . }}{{ end }}{{ end }}</figcaption>{{ end }}
       </figure>{{ end }}{{ end }}
       <div class="icerik">{{ .Content }}</div>
+      {{ with .Params.duzeltmeler }}<aside class="duzeltmeler" aria-label="Düzeltmeler">
+        {{ range sort . "tarih" }}<p><b>Düzeltme{{ with .tarih }} (<time datetime="{{ (time .).Format "2006-01-02T15:04:05Z07:00" }}">{{ (time .).Format "02.01.2006" }}</time>){{ end }}:</b> {{ .not }}</p>{{ end }}
+        <p class="duzeltmeler-bag"><a href="{{ "duzeltme-politikasi/" | relURL }}">Düzeltme Politikamız</a></p>
+      </aside>{{ end }}
       {{ partial "ihbar.html" . }}
       {{ partial "yorumlar.html" . }}
     </article>
