@@ -1,6 +1,18 @@
 {{ define "main" }}
+{{/* Henüz doldurulmamış bilgiler ([doldurulacak: …], [teyit edilecek: …]) sayfada vurgulanır; doldurulunca vurgu kalkar. */}}
+{{ $icerik := .Content | replaceRE `\[(doldurulacak|teyit edilecek|to be completed)[^\]]*\]` `<mark class="doldur">$0</mark>` | safeHTML }}
+{{ if .Params.kurumsal }}
+<div class="kurumsal">
+  <article class="haber kurumsal-metin">
+    <h1>{{ .Title }}</h1>
+    <div class="icerik">{{ $icerik }}</div>
+  </article>
+  {{ partial "kurumsal-menu.html" . }}
+</div>
+{{ else }}
 <article class="haber" style="max-width:860px;margin:0 auto">
   <h1>{{ .Title }}</h1>
-  <div class="icerik">{{ .Content }}</div>
+  <div class="icerik">{{ $icerik }}</div>
 </article>
+{{ end }}
 {{ end }}
