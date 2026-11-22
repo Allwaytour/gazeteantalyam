@@ -148490,6 +148490,36 @@
      },
      "t": "2026-11-17T21:25:12+03:00"
     },
+    "r1:333d584ed489:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki yabancı dilde 'TRAFFIC' yazısı ve motosiklet detayı ev içi cinayet haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "polis aracı",
+        "var": false
+       },
+       {
+        "unsur": "polis ekipleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T12:33:29+03:00"
+    },
     "r1:3a1618bfa318:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -148720,37 +148750,6 @@
      },
      "t": "2026-11-21T21:31:57+03:00"
     },
-    "r1:dfd9b69a4e14:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Trafik polisi ve motosiklet detayı temsilî olarak kullanılabilir, yabancı unsur içermiyor.",
-      "gerekli": [
-       {
-        "unsur": "trafik polisi, polis aracı veya motosikleti",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 6,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T21:05:24+03:00"
-    },
     "r1:ea37c6f5909c:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -148787,7 +148786,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-21T21:31:57+03:00",
+   "t": "2026-11-22T12:33:29+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
