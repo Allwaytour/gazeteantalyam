@@ -9511,6 +9511,37 @@
      },
      "t": "2026-11-13T03:02:52+03:00"
     },
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Okulda yemek yiyen öğrenciler görülüyor ancak yabancı bir okul ortamı olduğu için yerli bağlama tam uymuyor.",
+      "gerekli": [
+       {
+        "unsur": "öğrenci",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       291,
+       292,
+       994,
+       613
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:34:59+03:00"
+    },
     "r1:94df9acbb39d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -9542,7 +9573,7 @@
     "dh": "2759b76f4d5b5b5b",
     "sha": "242b5ddff3014d8772e4f75c"
    },
-   "t": "2026-11-16T17:22:12+03:00",
+   "t": "2026-11-22T11:34:59+03:00",
    "teknik": {
     "doygunluk": 47.5,
     "inen": [
@@ -28669,6 +28700,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Group-D_housing_building_under_construction_in_Amaravati.jpg/1280px-Group-D_housing_building_under_construction_in_Amaravati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2585a26dcd807da9": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     483,
+     672,
+     735
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bilimsel cihaz",
+     "kablo",
+     "boru",
+     "metal iskelet"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Laboratuvar ortamında bilimsel cihazlarla çalışan genç bir araştırmacı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "bilim",
+     "laboratuvar",
+     "araştırma"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk işçiliği",
+     "ekonomi",
+     "eğitim"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      200,
+      574,
+      396,
+      676
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişi laboratuvar çalışanıdır ve ortam çocuk işçiliği haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "öğrenci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "ağır sanayi"
+      ]
+     },
+     "t": "2026-11-22T11:35:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "131229343c3c3a98",
+    "sha": "df2bfe438171bd5480a4a1f9"
+   },
+   "t": "2026-11-22T11:35:02+03:00",
+   "teknik": {
+    "doygunluk": 46.5,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.115,
+    "keskinlik": 2695,
+    "kontrast": 73,
+    "medyan": 132,
+    "parlaklik": 138,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Photo_of_the_Week-_What_does_a_particle_accelerator_have_in_common_with_your_Thanksgiving_turkey%3F_%288190858355%29.jpg/1280px-Photo_of_the_Week-_What_does_a_particle_accelerator_have_in_common_with_your_Thanksgiving_turkey%3F_%288190858355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "25fdd7a62248a973": {
    "icerik": {
@@ -92987,6 +93115,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/1280px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7fffc4ec669b14e1": {
+   "icerik": {
+    "ana_kutu": [
+     36,
+     252,
+     998,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "başörtüsü",
+     "mont"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Başörtülü genç bir kız kameraya gülümseyerek bakıyor",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "çocuk hakları",
+     "eğitim",
+     "portre"
+    ],
+    "uygunsuz_baglamlar": [
+     "çalışan çocuk",
+     "ekonomik kriz"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      232,
+      381,
+      663,
+      610
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çalışan çocuk haberine temsili portre olarak eklenebilir ancak doğrudan çalışan bir çocuğu yansıtmıyor.",
+      "gerekli": [
+       {
+        "unsur": "öğrenci",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       36,
+       252,
+       998,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:34:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f5b3b3f3b1e4cecc",
+    "sha": "202accb4cf4b5328942211dc"
+   },
+   "t": "2026-11-22T11:34:59+03:00",
+   "teknik": {
+    "doygunluk": 17.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.091,
+    "keskinlik": 981,
+    "kontrast": 68,
+    "medyan": 193,
+    "parlaklik": 173,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Working_with_Warchild%2C_UNICEF%2C_Save_the_Children_and_Oxfam_to_support_Syrias_children_%2811173715356%29.jpg/1280px-Working_with_Warchild%2C_UNICEF%2C_Save_the_Children_and_Oxfam_to_support_Syrias_children_%2811173715356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8018a75bfed813b9": {
    "icerik": {
     "ana_kutu": [
@@ -97765,6 +97990,119 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Turkey._Ankara._Statue_of_Attaturk_%28i.e.%2C_Ataturk%29_LOC_matpc.16724.jpg/1280px-Turkey._Ankara._Statue_of_Attaturk_%28i.e.%2C_Ataturk%29_LOC_matpc.16724.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "84b5579a2da5ad28": {
+   "icerik": {
+    "ana_kutu": [
+     272,
+     53,
+     769,
+     163
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "çanta",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Restoranda oturan insanlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "restoran",
+     "kafe",
+     "ankara"
+    ],
+    "uygunsuz_baglamlar": [
+     "çocuk işçiliği",
+     "eğitim",
+     "geçim sıkıntısı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      287,
+      52,
+      442,
+      154
+     ],
+     [
+      296,
+      552,
+      401,
+      617
+     ],
+     [
+      294,
+      666,
+      386,
+      735
+     ],
+     [
+      269,
+      715,
+      445,
+      796
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sıradan bir lokanta iç mekan görünümü, çalışan çocuk veya geçim sıkıntısı haberiyle hiçbir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "öğrenci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:34:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9e868606a6e60f99",
+    "sha": "f43461265d3e639f9693c7e0"
+   },
+   "t": "2026-11-22T11:34:59+03:00",
+   "teknik": {
+    "doygunluk": 15.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.261,
+    "keskinlik": 1717,
+    "kontrast": 70,
+    "medyan": 109,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Lunch_time_in_Turkey.jpg/1280px-Lunch_time_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "85091d366c94d633": {
    "icerik": {
@@ -138775,6 +139113,94 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Argentina-Nigeria_%288%29.jpg/1280px-Argentina-Nigeria_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c00e726406ce8cab": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "otomobil",
+     "bina",
+     "sokak lambası",
+     "kanal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bisiklet ve moped yolu tabelası ve arka planda araçlar ve bina.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "trafik işaretleri",
+     "ulaşım kuralları",
+     "bisiklet yolları"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "tehlikeli yolculuk olay yeri",
+     "adli vakalar"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2784978954c8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz yabancı bir trafik tabelasıdır, tehlikeli yolculuk olayını yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "moped",
+        "var": true
+       },
+       {
+        "unsur": "bisiklet",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:33:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "12b2b1335b4ff64e",
+    "sha": "afde0fbf97ac9ec18b84f482"
+   },
+   "t": "2026-11-22T11:33:34+03:00",
+   "teknik": {
+    "doygunluk": 21.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.019,
+    "keskinlik": 2306,
+    "kontrast": 75,
+    "medyan": 151,
+    "parlaklik": 169,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bicycles_and_mopeds_path_sign%2C_Foxhol_%282019%29_02.jpg/1280px-Bicycles_and_mopeds_path_sign%2C_Foxhol_%282019%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c03ff9c5674b3e46": {
    "icerik": {
     "ana_kutu": [
@@ -147282,6 +147708,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ALANYA_2025.jpg/1280px-ALANYA_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "cb9157bec47701ba": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "metal korkuluk",
+     "duvar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Duvara monte edilmiş Felemenkçe uyarı levhası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "park yasakları",
+     "ulaşım duyuruları",
+     "kent yaşamı"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "tehlikeli yolculuk olay yeri",
+     "asayiş"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2784978954c8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisiz, yabancı dilde bir park yasağı tabelasıdır.",
+      "gerekli": [
+       {
+        "unsur": "moped",
+        "var": false
+       },
+       {
+        "unsur": "bisiklet",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:33:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fd41819696624202",
+    "sha": "79eaa11f7a08fc63f0b56211"
+   },
+   "t": "2026-11-22T11:33:34+03:00",
+   "teknik": {
+    "doygunluk": 18.7,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.012,
+    "keskinlik": 1644,
+    "kontrast": 34,
+    "medyan": 90,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/RET_No_bicycle_and_moped_parking_because_of_wheelchair_accessibility_sign%2C_Ommoord%2C_Rotterdam_%282022%29_03.jpg/1280px-RET_No_bicycle_and_moped_parking_because_of_wheelchair_accessibility_sign%2C_Ommoord%2C_Rotterdam_%282022%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "cb9ecc614b20a0f3": {
    "icerik": {
@@ -157146,6 +157658,27 @@
      },
      "t": "2026-11-08T14:07:46+03:00"
     },
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kuaförde saç yapılan birini gösteriyor, haberle hiçbir ilgisi yok.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:34:59+03:00"
+    },
     "r1:74f1c10eabae:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -157316,7 +157849,7 @@
     "dh": "a33072e1f1f0626b",
     "sha": "45c031fbe2b6040ae6d7855c"
    },
-   "t": "2026-11-16T14:13:03+03:00",
+   "t": "2026-11-22T11:34:59+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -173111,6 +173644,105 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Student_Book_Art_Exhibition_%285404912335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "f2b8a900d51528d9": {
+   "icerik": {
+    "ana_kutu": [
+     118,
+     59,
+     876,
+     452
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "sebze arabası",
+     "tezgah",
+     "yeşillik",
+     "su bidonu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokakta sebze tezgahı aracı iten çocuk işçi",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çocuk işçiliği",
+     "çalışan çocuklar",
+     "sokakta ticaret"
+    ],
+    "uygunsuz_baglamlar": [
+     "fabrika üretimi",
+     "resmi istatistik"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      122,
+      275,
+      439,
+      438
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:738ed7594b89:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Çocuk işçiliğini somut biçimde gösteren güçlü bir görsel ancak yabancı bir ülkede çekildiği için yerli veri haberine tam oturmaz.",
+      "gerekli": [
+       {
+        "unsur": "öğrenci",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       118,
+       59,
+       876,
+       452
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T11:34:59+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cddf93a56d9396e2",
+    "sha": "df436d14ee059a8c32fbb25a"
+   },
+   "t": "2026-11-22T11:34:59+03:00",
+   "teknik": {
+    "doygunluk": 34.1,
+    "inen": [
+     500,
+     374
+    ],
+    "karanlik_oran": 0.162,
+    "keskinlik": 3230,
+    "kontrast": 57,
+    "medyan": 110,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Child_working_selling_vegetables_in_downtown_Maracaibo.jpg/1280px-Child_working_selling_vegetables_in_downtown_Maracaibo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f2f5e320ada6f60e": {
    "icerik": {
