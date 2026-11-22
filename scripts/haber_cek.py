@@ -692,6 +692,8 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None):
         "kaynak": h["kaynak"],
         "kaynak_url": kaynak_url or h["link"],
     }
+    if not yz:
+        on["draft"] = True                 # yapay zekâsız özet sayfası yayımlanmaz (duzenle_eskiler siler): yayımlanmış haber sessizce silinmez
     if yz:
         on["yazim_denetim"] = YAZIM_SURUM
         if (yz or {}).get("yazim_duzeltme"):
