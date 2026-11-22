@@ -22242,6 +22242,37 @@
      },
      "t": "2026-11-08T15:18:32+03:00"
     },
+    "r1:232c17c56685:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Arşivden bir etkinlik karesi, torunun doğum günü haberiyle uyumlu değil.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       69,
+       137,
+       1000,
+       756
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:35:47+03:00"
+    },
     "r1:85d817726eb5:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -22269,7 +22300,11 @@
      "t": "2026-11-08T11:38:03+03:00"
     }
    },
-   "t": "2026-11-08T15:18:32+03:00",
+   "ozet": {
+    "dh": "332f4e49c9e47672",
+    "sha": "5c89b180b25ebbe58970320c"
+   },
+   "t": "2026-11-22T20:35:47+03:00",
    "teknik": {
     "doygunluk": 39.1,
     "inen": [
@@ -46046,6 +46081,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Sunset-belek-senoldemir.jpg/1280px-Sunset-belek-senoldemir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3b73afe19c2eb5ed": {
+   "ozet": {
+    "dh": "f2cccdcd4d4d0f17",
+    "sha": "4f1bad7a65e72daee607b5e8"
+   },
    "t": "2026-11-08T11:37:57+03:00",
    "teknik": {
     "doygunluk": 25.0,
@@ -55569,6 +55608,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg/1280px-Burnt_Pine_Forest_Salgi_Himachal_Jul19_D72_11268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "49a2a04a15026b81": {
+   "ozet": {
+    "dh": "403096980b131919",
+    "sha": "0dfedbecce77ea2da7bb1a48"
+   },
+   "t": "2026-11-22T20:36:05+03:00",
+   "teknik": {
+    "doygunluk": 46.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.707,
+    "keskinlik": 381,
+    "kontrast": 47,
+    "medyan": 30,
+    "parlaklik": 55,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/3rd_birthday_cake_%28Unsplash_10b8Lvvc-4g%29.jpg/1280px-3rd_birthday_cake_%28Unsplash_10b8Lvvc-4g%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "49cfc5a9ee3aaf9e": {
    "icerik": {
     "ana_kutu": [
@@ -56963,6 +57023,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/23_0073618_Convair_Negative_Image_-_Digital_model_on_screen_%2854268190711%29.jpg/1280px-23_0073618_Convair_Negative_Image_-_Digital_model_on_screen_%2854268190711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4bfd770cebaf7849": {
+   "ozet": {
+    "dh": "358a83939b931b4f",
+    "sha": "f6caf9c636302a3ee66dd92f"
+   },
+   "t": "2026-11-22T20:36:05+03:00",
+   "teknik": {
+    "doygunluk": 56.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.795,
+    "keskinlik": 531,
+    "kontrast": 57,
+    "medyan": 11,
+    "parlaklik": 35,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1607482369189-a53b6e71fa48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YmlydGhkYXklMjBjYWtlJTIwY2FuZGxlcyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NTM2ODk2NHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "4c5bcbb28d5f2bab": {
    "t": "2026-11-08T14:42:15+03:00",
@@ -62683,6 +62764,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Indian_historical_Traditional_drama%28_In_stage_performance_-2%29.jpg/1280px-Indian_historical_Traditional_drama%28_In_stage_performance_-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "52aa4fd38c2ff7c3": {
+   "ozet": {
+    "dh": "0ac037732f878b62",
+    "sha": "ce916fbb4eb09ecacb006022"
+   },
+   "t": "2026-11-22T20:36:05+03:00",
+   "teknik": {
+    "doygunluk": 38.5,
+    "inen": [
+     400,
+     241
+    ],
+    "karanlik_oran": 0.813,
+    "keskinlik": 489,
+    "kontrast": 36,
+    "medyan": 27,
+    "parlaklik": 42,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8YmlydGhkYXklMjBjYWtlJTIwY2FuZGxlcyUyMGNsb3NlJTIwdXB8ZW58MXwwfHx8MTc5NTM2ODk2NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "52bb755648d6272a": {
    "icerik": {
     "ana_kutu": [
@@ -63296,6 +63398,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg/1280px-Exhibition_hall_in_Gwangmyeong_Upcycle_Art_Center_%EA%B4%91%EB%AA%85%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0_%EC%A0%84%EC%8B%9C%EC%8B%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "537ab8117f86bbe3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "doğum günü pastası",
+     "mum"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde mumlar yanan bir doğum günü pastası.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "doğum günü haberi",
+     "kutlama haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:232c17c56685:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Doğum günü kutlamasını temsil eden uygun bir görseldir, ancak çocuk fotoğrafı içermemektedir.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasi toplantı",
+       "belediye binası"
+      ]
+     },
+     "t": "2026-11-22T20:36:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cd4d492936351545",
+    "sha": "5a90be7b8b112246808ed80a"
+   },
+   "t": "2026-11-22T20:36:32+03:00",
+   "teknik": {
+    "doygunluk": 87.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.41,
+    "keskinlik": 680,
+    "kontrast": 61,
+    "medyan": 61,
+    "parlaklik": 74,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Birthday_cake_close-up_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "539eb1b93e13750f": {
    "t": "2026-11-08T12:40:13+03:00",
@@ -71978,6 +72172,37 @@
     ]
    },
    "iliski": {
+    "r1:232c17c56685:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Torunun doğum günü haberi için temsili çocuk fotoğrafı uygun bir görsel alternatif oluşturur.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       215,
+       525,
+       966,
+       759
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:35:47+03:00"
+    },
     "r1:40afb93da822:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -72211,7 +72436,7 @@
     "dh": "9717160b7929a1e0",
     "sha": "5ca804cc1ac758245f9a39a7"
    },
-   "t": "2026-11-13T14:49:36+03:00",
+   "t": "2026-11-22T20:35:47+03:00",
    "teknik": {
     "doygunluk": 27.5,
     "inen": [
@@ -136433,6 +136658,10 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Alanya_-_panoramio_%282%29.jpg/1280px-Alanya_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b586430ea4414d54": {
+   "ozet": {
+    "dh": "4e8e1e0f4fe2b33a",
+    "sha": "c8c156a057b4139fb9b47826"
+   },
    "t": "2026-11-08T11:37:59+03:00",
    "teknik": {
     "doygunluk": 29.7,
@@ -147608,6 +147837,118 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Therapeutic_horseback_riding_1.JPG/1280px-Therapeutic_horseback_riding_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "c653c9fa760c7b02": {
+   "icerik": {
+    "ana_kutu": [
+     330,
+     60,
+     940,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "ahşap bina",
+     "çocuklar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Eski kıyafetli bir grup çocuk ahşap bir binanın önünde duruyor.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarihi haber",
+     "sosyolojik inceleme"
+    ],
+    "uygunsuz_baglamlar": [
+     "güncel haber",
+     "doğum günü haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      460,
+      120,
+      540,
+      190
+     ],
+     [
+      500,
+      200,
+      590,
+      270
+     ],
+     [
+      490,
+      270,
+      570,
+      330
+     ],
+     [
+      530,
+      340,
+      610,
+      400
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:232c17c56685:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf çok eski ve haberle ilgisiz, tarihsel bir arşiv karesi olduğu için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasi toplantı",
+       "belediye binası"
+      ]
+     },
+     "t": "2026-11-22T20:36:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9b99579cbab6b4ba",
+    "sha": "b3ecf42d48be6b106aa132cb"
+   },
+   "t": "2026-11-22T20:36:32+03:00",
+   "teknik": {
+    "doygunluk": 43.6,
+    "inen": [
+     500,
+     395
+    ],
+    "karanlik_oran": 0.037,
+    "keskinlik": 2102,
+    "kontrast": 48,
+    "medyan": 114,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/In_the_group_are-_2_four_year_old_boys%2C_1_five_year_old_boy%2C_1_six_year_old_boy%2C_1_ten_year_old_boy%2C_1_eleven_year_old_boy%2C_1_twelve_year_old_boy%2C_2_five_year_old_girls%2C_1_six_year_old_girl%2C_LOC_nclc.00052.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "c678da4da66f3faf": {
    "icerik": {
@@ -163942,6 +164283,35 @@
      },
      "t": "2026-11-10T13:37:48+03:00"
     },
+    "r1:232c17c56685:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Muhittin Böcek'in torununun doğum günüyle ilgilidir; fotoğrafta ise belediye otobüsü yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasi toplantı",
+       "belediye binası"
+      ]
+     },
+     "t": "2026-11-22T20:35:54+03:00"
+    },
     "r1:498b8890089b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -164122,32 +164492,6 @@
      },
      "t": "2026-11-18T12:26:47+03:00"
     },
-    "r1:c801e6c491fa:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediyeye ait bir otobüs modeli gösteriliyor ancak haberdeki toplantı ve projeleri doğrudan yansıtmıyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       215,
-       39,
-       856,
-       915
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 6,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:40:34+03:00"
-    },
     "r1:d707ecf52e9d:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -164226,7 +164570,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-20T14:31:18+03:00",
+   "t": "2026-11-22T20:35:54+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -170300,6 +170644,37 @@
      },
      "t": "2026-11-08T15:18:32+03:00"
     },
+    "r1:232c17c56685:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Farklı bir etkinlikten arşiv fotoğrafı, torun kutlaması haberiyle alakasız.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       228,
+       128,
+       1000,
+       856
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:35:47+03:00"
+    },
     "r1:85d817726eb5:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -170327,7 +170702,11 @@
      "t": "2026-11-08T11:38:03+03:00"
     }
    },
-   "t": "2026-11-08T15:18:32+03:00",
+   "ozet": {
+    "dh": "1bc8b46d58c6c7cb",
+    "sha": "e244c3f386876e0a32b2a608"
+   },
+   "t": "2026-11-22T20:35:47+03:00",
    "teknik": {
     "doygunluk": 26.3,
     "inen": [
@@ -181619,6 +181998,37 @@
      },
      "t": "2026-11-08T15:18:32+03:00"
     },
+    "r1:232c17c56685:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Muhittin Böcek'in torununun doğum günüyle ilgili ancak bu makam fotoğrafı konudan uzak.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       390,
+       394,
+       780,
+       597
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T20:35:47+03:00"
+    },
     "r1:85d817726eb5:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -181705,7 +182115,7 @@
     "dh": "171757776969b192",
     "sha": "d5776d0506c017725953784c"
    },
-   "t": "2026-11-10T13:39:30+03:00",
+   "t": "2026-11-22T20:35:47+03:00",
    "teknik": {
     "doygunluk": 31.5,
     "inen": [
@@ -182039,6 +182449,35 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:232c17c56685:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müze veya sergi salonu görüntüsü, doğum günü mesajı haberiyle tamamen alakasız.",
+      "gerekli": [
+       {
+        "unsur": "çocuk fotoğrafı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasi toplantı",
+       "belediye binası"
+      ]
+     },
+     "t": "2026-11-22T20:35:47+03:00"
+    },
     "r1:3507c7656bb8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -182197,7 +182636,7 @@
     "dh": "93d2ec2cecacac96",
     "sha": "a800e5204c0901339c10fffb"
    },
-   "t": "2026-11-16T19:22:17+03:00",
+   "t": "2026-11-22T20:35:47+03:00",
    "teknik": {
     "doygunluk": 41.9,
     "inen": [
