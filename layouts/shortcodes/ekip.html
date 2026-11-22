@@ -1,0 +1,9 @@
+{{/* Ekip kartı: {{< ekip ad="..." gorev="..." foto="/images/..." >}}kısa biyografi{{< /ekip >}} */}}
+<div class="ekip-kart">
+  {{ with .Get "foto" }}<img class="ekip-foto" src="{{ . | relURL }}" alt="{{ $.Get "ad" }}" width="120" height="120" loading="lazy">{{ else }}<span class="ekip-foto ekip-foto-bos" aria-hidden="true"></span>{{ end }}
+  <div class="ekip-metin">
+    <p class="ekip-ad">{{ .Get "ad" }}</p>
+    <p class="ekip-gorev">{{ .Get "gorev" }}</p>
+    <div class="ekip-bio">{{ .Inner | markdownify }}</div>
+  </div>
+</div>
