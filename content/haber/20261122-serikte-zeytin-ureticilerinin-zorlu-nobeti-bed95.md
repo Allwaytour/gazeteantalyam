@@ -2,8 +2,8 @@
 title: Serik'te Zeytin Üreticilerinin Zorlu Nöbeti
 date: '2026-11-22T12:57:38+03:00'
 ozet: Antalya'nın Serik ilçesinde zeytin hasadı yoğunluğu yaşanırken, üreticiler tesisler önünde uzun süre sıra bekliyor.
-gorsel: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
-gorsel_kredi: 'Fotoğraf: John Cameron / Unsplash'
+gorsel: https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
+gorsel_kredi: 'Fotoğraf: Melina Kiefer / Unsplash'
 kategoriler:
 - Ekonomi
 ilceler:
@@ -17,32 +17,29 @@ gorsel_secim:
   tur: arsiv
   alt_tur: arsiv_eslesme
   sinif: konu
-  gorsel_url: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+  gorsel_url: https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
   konu_imza: 4cf7e49f1f73
-  kaynak_sayfa: https://unsplash.com/photos/RD0iQoLCkPo
-  fotografci: John Cameron
+  kaynak_sayfa: https://unsplash.com/photos/bavD_RW9pTQ
+  fotografci: Melina Kiefer
   lisans: Unsplash Lisansı
   lisans_dayanagi: https://unsplash.com/license
   gosterilen: Zeytin
   cekim_yili: ''
   aciklama: Temsilî fotoğraf
-  gerekce: arşiv kaydı 'zeytin-2' (Zeytin) başlık/spot/giriş ile eşleşti
+  gerekce: arşiv kaydı 'zeytin-1' (Zeytin) başlık/spot/giriş ile eşleşti
   durum: onaylandi
   hat: t2
   kredi_etiket: Fotoğraf
   onay:
     yontem: doğrulanmış görsel arşivi (kimlik ve kullanım bağlamı eşleşmesi)
-    arsiv_id: zeytin-2
-    tarih: '2026-11-22T13:12:42+03:00'
+    arsiv_id: zeytin-1
+    tarih: '2026-11-22T13:34:53+03:00'
   kural_denetim: k4
   kabul_kurali: k4
   surum: h1-2026-11-07
   onceki_durum:
-    tur: kategori
-    durum: arama_bekliyor
-    kapak_nedeni:
-      kod: yayin_kapali
-      aciklama: 'deneme modu: yayın sürümü ''-'', kod h2.k4.a2.i3.r1.y3'
+    tur: arsiv
+    durum: onaylandi
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -53,8 +50,8 @@ kaynak_url: https://www.akdenizgercek.com.tr/serik/tarlada-bereket-fabrikada-cil
 gorsel_yedek: /images/haber-gorsel/20261122-serikte-zeytin-ureticilerinin-zorlu-nobeti-bed95-3da8d412.jpg
 gorsel_yerlesim:
   boyut:
-  - 4032
-  - 3024
+  - 5354
+  - 3569
   dikey: false
   surum: y3
   manset: kaplama
@@ -72,10 +69,9 @@ gorsel_yerlesim:
   o_yan_m: 50% 50%
   o_kart: 50% 50%
   o_kart_p: 50% 50%
-  url: https://images.unsplash.com/photo-1698775942613-3e9fc114b2a1?fm=jpg&q=80&w=1600&fit=max
+  url: https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
 gorsel_gecmis: []
 gorsel_alternatif:
-- https://images.unsplash.com/photo-1634657443172-efbae44fd04b?fm=jpg&q=80&w=1600&fit=max
 - https://upload.wikimedia.org/wikipedia/commons/3/3d/Olive_Oil_%2850316477903%29.jpg
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
