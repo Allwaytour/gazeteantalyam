@@ -7745,6 +7745,118 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_02.jpg/1280px-Ilham_Aliyev_received_President_of_the_Turkish_Republic_of_Northern_Cyprus_in_Konya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "09f9e9514da058d3": {
+   "icerik": {
+    "ana_kutu": [
+     120,
+     0,
+     980,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 9,
+    "nesneler": [
+     "toplantı masası",
+     "mikrofon",
+     "sandalye",
+     "logo",
+     "bardak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir toplantı masasında oturan bir grup insan.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "toplantı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      260,
+      130,
+      420,
+      230
+     ],
+     [
+      300,
+      210,
+      430,
+      300
+     ],
+     [
+      300,
+      550,
+      430,
+      630
+     ],
+     [
+      300,
+      630,
+      430,
+      710
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:78a8d5e97288:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mustafa Şentop fotoğrafta yer almıyor, ayrıca HDP toplantısı olduğu için haberle çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T15:34:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e86c0c9f0f498b8e",
+    "sha": "8764c059cd49d0d1f8cb3206"
+   },
+   "t": "2026-11-22T15:34:21+03:00",
+   "teknik": {
+    "doygunluk": 45.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.104,
+    "keskinlik": 1892,
+    "kontrast": 57,
+    "medyan": 139,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/OSCE_PA_delegation_meeting_with_HDP_Political_Group_Deputy_Chair%2C_Hakk%C4%B1_Saruhan_Oluc%2C_9_November_2021_%2851673095312%29.jpg/1280px-OSCE_PA_delegation_meeting_with_HDP_Political_Group_Deputy_Chair%2C_Hakk%C4%B1_Saruhan_Oluc%2C_9_November_2021_%2851673095312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0a0f0a2c7f604a37": {
    "icerik": {
     "ana_kutu": null,
@@ -22833,6 +22945,32 @@
      },
      "t": "2026-11-20T12:07:26+03:00"
     },
+    "r1:78a8d5e97288:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Müze ziyareti haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T15:34:21+03:00"
+    },
     "r1:e76c06fa730a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -22903,7 +23041,7 @@
     "dh": "684c6cccccc9e9c1",
     "sha": "381a090fc3b4c4de542b16fe"
    },
-   "t": "2026-11-20T17:00:46+03:00",
+   "t": "2026-11-22T15:34:21+03:00",
    "teknik": {
     "doygunluk": 36.6,
     "inen": [
@@ -44584,6 +44722,32 @@
      },
      "t": "2026-11-11T20:40:27+03:00"
     },
+    "r1:78a8d5e97288:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sinema salonu haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T15:34:21+03:00"
+    },
     "r1:7c5f3d679b33:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -44667,7 +44831,7 @@
     "dh": "58180e0787ccc1c3",
     "sha": "8a26fb39ea5d8c04388b2c6b"
    },
-   "t": "2026-11-14T13:09:36+03:00",
+   "t": "2026-11-22T15:34:21+03:00",
    "teknik": {
     "doygunluk": 10.3,
     "inen": [
@@ -76228,6 +76392,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/202504_Slow_shutter_shot_a_barking_of_Fierce_dog_at_night_with_camera_in_%E6%96%B0%E5%8C%97%E5%B8%82%E9%9B%99%E6%BA%AA%E5%8D%80%2C%E8%87%BA%E7%81%A3.jpg/1280px-202504_Slow_shutter_shot_a_barking_of_Fierce_dog_at_night_with_camera_in_%E6%96%B0%E5%8C%97%E5%B8%82%E9%9B%99%E6%BA%AA%E5%8D%80%2C%E8%87%BA%E7%81%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "66c07ae95bfb0f40": {
+   "ozet": {
+    "dh": "b6343d0c6ccc8c8c",
+    "sha": "0721dc2be53898e9a28f93dd"
+   },
+   "t": "2026-11-22T15:33:51+03:00",
+   "teknik": {
+    "doygunluk": 49.0,
+    "inen": [
+     500,
+     750
+    ],
+    "karanlik_oran": 0.501,
+    "keskinlik": 378,
+    "kontrast": 50,
+    "medyan": 49,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Mustafa_%C5%9Eentop.jpg/1280px-Mustafa_%C5%9Eentop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "66e5ad992d847136": {
    "t": "2026-11-08T14:38:02+03:00",
    "teknik": {
@@ -99662,6 +99847,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Lunch_time_in_Turkey.jpg/1280px-Lunch_time_in_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "84c47a3a6730a2d5": {
+   "ozet": {
+    "dh": "9ed66eeed7abcbc3",
+    "sha": "6773244846c8211580dafda7"
+   },
+   "t": "2026-11-22T15:33:52+03:00",
+   "teknik": {
+    "doygunluk": 34.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.518,
+    "keskinlik": 1738,
+    "kontrast": 75,
+    "medyan": 47,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kazakhstan-Turkey_Friendship_Park_opened_in_Ankara_07.jpg/1280px-Kazakhstan-Turkey_Friendship_Park_opened_in_Ankara_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "85091d366c94d633": {
    "icerik": {
     "ana_kutu": [
@@ -101714,6 +101920,102 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1741138439419-26667e8d115e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YW5jaWVudCUyMHJ1aW5zJTIwZXhjYXZhdGlvbiUyMHNpdGV8ZW58MXwwfHx8MTc5NDkxODI2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "880b431786dd47a0": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "bayrak",
+     "kitaplık"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Mustafa Şentop'un masa başında çekilmiş portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      50,
+      250,
+      450,
+      750
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:78a8d5e97288:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşiv portresi, toplantı haberi için uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T15:34:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2e0e46cccccf1f0c",
+    "sha": "efcf2733d38af2a024a40b1f"
+   },
+   "t": "2026-11-22T15:34:21+03:00",
+   "teknik": {
+    "doygunluk": 42.3,
+    "inen": [
+     500,
+     636
+    ],
+    "karanlik_oran": 0.438,
+    "keskinlik": 544,
+    "kontrast": 63,
+    "medyan": 63,
+    "parlaklik": 78,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mustafa_%C5%9Eentop_%28cropped%29.jpg/1280px-Mustafa_%C5%9Eentop_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "885f8ea37dea6834": {
    "icerik": {
@@ -131814,6 +132116,121 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Scrap_metal_art_04.jpg/1280px-Scrap_metal_art_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b3299c9a0bdb72a1": {
+   "icerik": {
+    "ana_kutu": [
+     240,
+     0,
+     980,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "heykel",
+     "bina",
+     "bayrak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir heykelin açılışında duran bir grup resmi giyimli insan.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "açılış"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      240,
+      0,
+      450,
+      130
+     ],
+     [
+      280,
+      160,
+      480,
+      270
+     ],
+     [
+      310,
+      280,
+      510,
+      410
+     ],
+     [
+      330,
+      440,
+      530,
+      560
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:78a8d5e97288:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mustafa Şentop görülüyor ancak haberdeki toplantı değil, bir heykel açılışı etkinliği.",
+      "gerekli": [
+       {
+        "unsur": "toplantı salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": [
+       240,
+       280,
+       920,
+       420
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-22T15:34:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "494b9e543473720d",
+    "sha": "367e6b47e71948d813894428"
+   },
+   "t": "2026-11-22T15:34:21+03:00",
+   "teknik": {
+    "doygunluk": 22.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.334,
+    "keskinlik": 2677,
+    "kontrast": 86,
+    "medyan": 109,
+    "parlaklik": 122,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kazakhstan-Turkey_Friendship_Park_opened_in_Ankara_03.jpg/1280px-Kazakhstan-Turkey_Friendship_Park_opened_in_Ankara_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b37fac9b17ed0beb": {
    "icerik": {
@@ -195763,6 +196180,66 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "880b431786dd47a0": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    2776,
+    3532
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2020-01-16",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mustafa Şentop'un masa başında çekilmiş portresi.",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-22T15:34:21+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Ahmettemur / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Ahmettemur",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Mustafa_%C5%9Eentop_(cropped).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Mustafa Sentop",
+      "qid": "Q21044620"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "bayrak",
+    "kitaplık"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mustafa_%C5%9Eentop_%28cropped%29.jpg/500px-Mustafa_%C5%9Eentop_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "siyaset",
+    "haber"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": true,
+   "qid": "Q21044620",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-22T15:34:21+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mustafa_%C5%9Eentop_%28cropped%29.jpg/1280px-Mustafa_%C5%9Eentop_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
