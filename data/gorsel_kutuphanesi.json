@@ -9985,13 +9985,41 @@
       "yasak": []
      },
      "t": "2026-11-09T17:35:28+03:00"
+    },
+    "r1:e1be440804cb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta çekiciye yüklenen bir araç vardır, kök hücre farkındalık konvoyuyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "balonlarla süslenmiş otomobil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk yüzü"
+      ]
+     },
+     "t": "2026-11-23T13:41:10+03:00"
     }
    },
    "ozet": {
     "dh": "f4d6777165e9e143",
     "sha": "8cc8530bfb1658b72c65c9c5"
    },
-   "t": "2026-11-18T22:56:13+03:00",
+   "t": "2026-11-23T13:41:10+03:00",
    "teknik": {
     "doygunluk": 18.3,
     "inen": [
@@ -10504,37 +10532,6 @@
      },
      "t": "2026-11-17T14:54:15+03:00"
     },
-    "r1:441f2b8381b1:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Konut satisi haberi icin uygun modern bina gorseli.",
-      "gerekli": [
-       {
-        "unsur": "konut binalari, apartmanlar",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       41,
-       804,
-       822
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 9,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-17T12:25:44+03:00"
-    },
     "r1:4e54b4452834:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10698,6 +10695,34 @@
      },
      "t": "2026-11-19T14:27:18+03:00"
     },
+    "r1:e1be440804cb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüde sadece konut binaları ve park halindeki araçlar var, konvoy veya kök hücre farkındalığıyla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "balonlarla süslenmiş otomobil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk yüzü"
+      ]
+     },
+     "t": "2026-11-23T13:41:10+03:00"
+    },
     "r1:f07bc0b945c0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10732,7 +10757,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-21T20:31:26+03:00",
+   "t": "2026-11-23T13:41:10+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -52282,6 +52307,32 @@
     ]
    },
    "iliski": {
+    "r1:15eba98305ef:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Cumhurbaşkanı Erdoğan'ın arşiv portresi, toplantı haberi için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       42,
+       237,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:41:40+03:00"
+    },
     "r1:20cbc2d87b0e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -52463,7 +52514,7 @@
     "dh": "bec6dcf9dcdc4f4d",
     "sha": "db31a7916ef180e5803b6580"
    },
-   "t": "2026-11-22T13:11:35+03:00",
+   "t": "2026-11-23T13:41:40+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -79024,6 +79075,94 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Confirmations_of_Masoud_Pezeshkian%27s_Cabinet2024-08-17_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "675b5513db08a79c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "kiremit çatı",
+     "kale duvarı",
+     "minare",
+     "şehir manzarası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara kalesi burçları ve eski evlerin yüksekten genel görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ankara",
+     "tarihi yerler",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "emekli",
+     "maaş zammı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:15eba98305ef:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf emekli zammı ve ekonomi haberiyle tamamen ilgisiz bir şehir manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "türk lirası, nakit para",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "271b4b45684d9b1a",
+    "sha": "4d9c7860853bc4ef58d5b896"
+   },
+   "t": "2026-11-23T13:41:40+03:00",
+   "teknik": {
+    "doygunluk": 16.4,
+    "inen": [
+     500,
+     322
+    ],
+    "karanlik_oran": 0.122,
+    "keskinlik": 4308,
+    "kontrast": 59,
+    "medyan": 125,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_09.jpg/1280px-Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6763659b2f4aeabf": {
    "icerik": {
     "ana_kutu": [
@@ -82268,9 +82407,46 @@
       "yasak": []
      },
      "t": "2026-11-08T15:12:57+03:00"
+    },
+    "r1:e1be440804cb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Süslenmiş araç konvoyu görünümü haberdeki araç konvoyunu temsil etmek için uygundur ancak başka bir olaya (düğün) ait gibi algılanabilir.",
+      "gerekli": [
+       {
+        "unsur": "balonlarla süslenmiş otomobil",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       576,
+       325,
+       817,
+       540
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk yüzü"
+      ]
+     },
+     "t": "2026-11-23T13:41:10+03:00"
     }
    },
-   "t": "2026-11-08T15:12:57+03:00",
+   "ozet": {
+    "dh": "069f4fc3fb5d2703",
+    "sha": "94bd1945ab857a1d2bda2fcd"
+   },
+   "t": "2026-11-23T13:41:10+03:00",
    "teknik": {
     "doygunluk": 26.3,
     "inen": [
@@ -100764,13 +100940,41 @@
       "yasak": []
      },
      "t": "2026-11-22T11:04:44+03:00"
+    },
+    "r1:e1be440804cb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta bir araba, köpek ve lastikler yer almaktadır; haberle hiçbir bağı yoktur.",
+      "gerekli": [
+       {
+        "unsur": "balonlarla süslenmiş otomobil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk yüzü"
+      ]
+     },
+     "t": "2026-11-23T13:41:10+03:00"
     }
    },
    "ozet": {
     "dh": "0b21212024fcfc6f",
     "sha": "80948d4c7731efb5973210ce"
    },
-   "t": "2026-11-22T11:04:44+03:00",
+   "t": "2026-11-23T13:41:10+03:00",
    "teknik": {
     "doygunluk": 15.9,
     "inen": [
@@ -125037,6 +125241,34 @@
      },
      "t": "2026-11-08T11:11:41+03:00"
     },
+    "r1:e1be440804cb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Benzin alan bir otomobilin yakın planı olup haberle ilişkisi bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "balonlarla süslenmiş otomobil",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta çocuk yüzü"
+      ]
+     },
+     "t": "2026-11-23T13:41:10+03:00"
+    },
     "r1:fe4d0e29c7cc:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -125073,7 +125305,7 @@
     "dh": "c17a7266383e75b5",
     "sha": "efac9b065d6d578b72631dbe"
    },
-   "t": "2026-11-21T13:35:08+03:00",
+   "t": "2026-11-23T13:41:10+03:00",
    "teknik": {
     "doygunluk": 15.7,
     "inen": [
@@ -125724,6 +125956,94 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gulf_of_Antalya-1.jpg/1280px-Gulf_of_Antalya-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a63632a997090e6a": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "kiremit çatı",
+     "tarihi ev",
+     "kale duvarı",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara kalesi ve çevresindeki tarihi evlerin havadan görünümü.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ankara",
+     "tarihi yerler",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi",
+     "emekli",
+     "maaş zammı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:15eba98305ef:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf emekli zammı ve ekonomi haberiyle tamamen ilgisiz bir şehir manzarasıdır.",
+      "gerekli": [
+       {
+        "unsur": "türk lirası, nakit para",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4b030d4d6e42c28e",
+    "sha": "13e0c808fed4eaf9997376d5"
+   },
+   "t": "2026-11-23T13:41:40+03:00",
+   "teknik": {
+    "doygunluk": 15.0,
+    "inen": [
+     500,
+     323
+    ],
+    "karanlik_oran": 0.08,
+    "keskinlik": 5170,
+    "kontrast": 58,
+    "medyan": 150,
+    "parlaklik": 142,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_10.jpg/1280px-Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "a63cac9a8bccbb02": {
    "icerik": {
@@ -133735,6 +134055,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Menderes_T%C3%BCrel_-_A%C3%9CAKS_-_21.12.18a.jpg/1280px-Menderes_T%C3%BCrel_-_A%C3%9CAKS_-_21.12.18a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b07a56229f04c4f2": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     219,
+     1000,
+     814
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "kravat"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Takım elbiseli ve kırmızı kravatlı bir erkeğin yakın plan portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "kabine",
+     "gündem"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      39,
+      219,
+      563,
+      814
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:15eba98305ef:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Cumhurbaşkanı Erdoğan'ın arşiv portresi, kabine toplantısı haberi için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       39,
+       219,
+       1000,
+       814
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "71c56861f6c64d4d",
+    "sha": "db9104f6532b4cbdc5c1a8b3"
+   },
+   "t": "2026-11-23T13:41:40+03:00",
+   "teknik": {
+    "doygunluk": 23.4,
+    "inen": [
+     500,
+     725
+    ],
+    "karanlik_oran": 0.347,
+    "keskinlik": 1181,
+    "kontrast": 74,
+    "medyan": 114,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jared_Kushner_and_R.T._Erdo%C4%9Fan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "b0921ba9c4b07d62": {
    "icerik": {
     "ana_kutu": [
@@ -139859,6 +140272,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg/1280px-HK_WC_Wan_Chai_Road_Bowrington_Road_Market_shop_Cool_Water_plastic_bottle_carton_April_2021_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b746c998d1e3ee81": {
+   "icerik": {
+    "ana_kutu": [
+     82,
+     189,
+     1000,
+     775
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "perde"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Takım elbiseli ve pembe desenli kravatlı bir erkeğin yakın plan portresi.",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "kabine",
+     "gündem"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      82,
+      189,
+      608,
+      775
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:15eba98305ef:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana öznesi Cumhurbaşkanı Erdoğan'ın arşiv portresi, kabine toplantısı haberi için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       82,
+       189,
+       1000,
+       775
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:41:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7bcfcfe767c48d3a",
+    "sha": "f0e6c5a1e8108f0d11225eda"
+   },
+   "t": "2026-11-23T13:41:40+03:00",
+   "teknik": {
+    "doygunluk": 23.9,
+    "inen": [
+     500,
+     638
+    ],
+    "karanlik_oran": 0.266,
+    "keskinlik": 689,
+    "kontrast": 70,
+    "medyan": 130,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/President_Recep_Tayyip_Erdo%C4%9Fan_1_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "b74d299d8da658b4": {
    "ozet": {
@@ -197292,7 +197799,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-11T08:09:27+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -197334,7 +197841,7 @@
    "qid": "Q39259",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-22T13:11:35+03:00",
+   "son_kabul": "2026-11-23T13:41:40+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
