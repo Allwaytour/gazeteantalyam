@@ -32,6 +32,10 @@ Nasıl çalıştığımızı [Yayın İlkeleri](/yayin-ilkeleri/) sayfamızda, h
 Ukraynalı yerel gazeteci. 12 yıllık meslek deneyimiyle Gazete Antalya'da muhabir ve köşe yazarı olarak çalışıyor. [doldurulacak: kısa biyografi] — [Yazıları](/yazarlar/yekaterina-sevostianova/)
 {{< /ekip >}}
 
+{{< ekip ad="Gülbin Çevikkan" gorev="Köşe Yazarı" foto="/images/yazarlar/gulbin-cevikkan.jpg" >}}
+Gazete Antalya'da sağlık ve güzellik üzerine yazıyor. [doldurulacak: kısa biyografi] — [Yazıları](/yazarlar/gulbin-cevikkan/)
+{{< /ekip >}}
+
 [doldurulacak: varsa diğer muhabir, editör ve çalışanlar — ad, görev]
 
 ## Yayın bölgemiz
@@ -60,7 +64,7 @@ Yayın sorumluları ve yasal bilgiler için [Künye](/kunye/) sayfamıza bakabil
 
 Gazete Antalya (gazeteantalyam.com) is a local news website publishing daily from the city of Antalya, Türkiye, and all 19 of its districts. It was founded in [to be completed: year] in response to the decline of local media, to keep independent, public-interest local journalism alive in the region. Gazete Antalya is not affiliated with any political party, municipality or business group, and applies the same journalistic standards to all people and institutions.
 
-The newsroom is led by Musa Şimşek, Editor-in-Chief and lead columnist, a journalist with 46 years of experience gained at İleri Gazetesi, one of Antalya's longest-established local newspapers, and holder of a permanent (yellow) press card. The publication's legally responsible manager is Mustafa Şimşek. Yekaterina Sevostianova, a Ukrainian local journalist with 12 years of experience, works as a reporter and columnist. Our Instagram account (@gazeteantalyam) has 30,000 followers and our posts were viewed 23 million times over the last six months.
+The newsroom is led by Musa Şimşek, Editor-in-Chief and lead columnist, a journalist with 46 years of experience gained at İleri Gazetesi, one of Antalya's longest-established local newspapers, and holder of a permanent (yellow) press card. The publication's legally responsible manager is Mustafa Şimşek. Yekaterina Sevostianova, a Ukrainian local journalist with 12 years of experience, works as a reporter and columnist. Gülbin Çevikkan writes a column on health and beauty. Our Instagram account (@gazeteantalyam) has 30,000 followers and our posts were viewed 23 million times over the last six months.
 
 Our editorial principles and corrections policy are published on this website. Contact: iletisim@gazeteantalyam.com · WhatsApp news tip line: +90 551 340 13 61.
 
