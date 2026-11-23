@@ -3256,6 +3256,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing_2727.jpg/1280px-CH.ZH.Affoltern-am-Albis_2024-03-30_road-bike-racing_2727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "02e9080dbcc7063e": {
+   "icerik": {
+    "ana_kutu": [
+     600,
+     0,
+     876,
+     480
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "kafe binasi",
+     "agac",
+     "celit çit",
+     "nehir kiyisi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Nehir kenarinda sonbahar agaclari ve modern cam cepheli bir kafe binasi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kafe tanitimi",
+     "mimari yapi haberleri",
+     "sehir manzarasi"
+    ],
+    "uygunsuz_baglamlar": [
+     "basin toplantisi",
+     "roportaj",
+     "kisi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Mekan gorunuyor ancak konusmacilar eksik ve baska bir ulkedeki bir kafe tanitimi icin uygun degil.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       600,
+       0,
+       876,
+       480
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:05:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00a15f3a71868282",
+    "sha": "cb5206cb41ce8b06de6623c5"
+   },
+   "t": "2026-11-23T13:05:39+03:00",
+   "teknik": {
+    "doygunluk": 38.7,
+    "inen": [
+     500,
+     251
+    ],
+    "karanlik_oran": 0.136,
+    "keskinlik": 2304,
+    "kontrast": 59,
+    "medyan": 125,
+    "parlaklik": 126,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/CafeElement.JPG/1280px-CafeElement.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0354708c3f145fcb": {
    "ozet": {
     "dh": "4d1707555b53632e",
@@ -29365,6 +29462,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2811%29.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "24ab92b8d60c10bc": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahve fincanı",
+     "su bardağı",
+     "fincan tabağı",
+     "ahşap masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Koyu renkli ahşap masa üzerinde Türk kahvesi fincanı ve su bardağı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve kültürü",
+     "gastronomi",
+     "kafe haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "dizi tanıtımı",
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dizi tanıtımı haberi için yetersiz, yalnızca genel bir kahve görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stüdyo",
+       "film seti"
+      ]
+     },
+     "t": "2026-11-23T13:05:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3301043333333337",
+    "sha": "86f7824b7e3a22dadf877891"
+   },
+   "t": "2026-11-23T13:05:53+03:00",
+   "teknik": {
+    "doygunluk": 18.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.098,
+    "keskinlik": 721,
+    "kontrast": 57,
+    "medyan": 118,
+    "parlaklik": 123,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Turkish_coffee_in_Ankara.jpg/1280px-Turkish_coffee_in_Ankara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "24abdfafb9fca04f": {
    "icerik": {
@@ -56213,6 +56405,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/3rd_birthday_cake_%28Unsplash_10b8Lvvc-4g%29.jpg/1280px-3rd_birthday_cake_%28Unsplash_10b8Lvvc-4g%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "49ced46505cd6289": {
+   "ozet": {
+    "dh": "96968c05391d5cdc",
+    "sha": "f183116073ad7d3ea33a35e2"
+   },
+   "t": "2026-11-23T13:05:35+03:00",
+   "teknik": {
+    "doygunluk": 58.4,
+    "inen": [
+     500,
+     452
+    ],
+    "karanlik_oran": 0.708,
+    "keskinlik": 577,
+    "kontrast": 53,
+    "medyan": 27,
+    "parlaklik": 52,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Anna_Nalick_at_Hotel_Cafe%2C_2_February_2011_%285412237839%29.jpg/1280px-Anna_Nalick_at_Hotel_Cafe%2C_2_February_2011_%285412237839%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "49cfc5a9ee3aaf9e": {
    "icerik": {
     "ana_kutu": [
@@ -59606,6 +59819,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Alanya._On_city_streets_%28Yunus_Emre_Cd%29.jpg/1280px-Alanya._On_city_streets_%28Yunus_Emre_Cd%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "4ea6be1f0cea702f": {
+   "icerik": {
+    "ana_kutu": [
+     268,
+     0,
+     754,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahve fincanı",
+     "su bardağı",
+     "lokum",
+     "kayık tepsi",
+     "ahşap masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap masada kayık şeklinde servis tepsisinde Türk kahvesi, su ve lokum.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve kültürü",
+     "gastronomi",
+     "kafe haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "dizi tanıtımı",
+     "siyaset",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin adı geçen dizi tanıtımıyla doğrudan ilişkisi olmayan sadece bir kahve sunumu görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stüdyo",
+       "film seti"
+      ]
+     },
+     "t": "2026-11-23T13:05:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "7f810d5332b6f810",
+    "sha": "74a20288c9b8e6dcb6f9fb1c"
+   },
+   "t": "2026-11-23T13:05:53+03:00",
+   "teknik": {
+    "doygunluk": 18.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 718,
+    "kontrast": 52,
+    "medyan": 120,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Turkish_coffee_on_a_gondola.jpg/1280px-Turkish_coffee_on_a_gondola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4eaf4910896ef2ca": {
    "icerik": {
@@ -72810,6 +73119,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Match_cote_d%27ivoir_%2830%29.jpg/1280px-Match_cote_d%27ivoir_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "5f918a86212ed44b": {
+   "icerik": {
+    "ana_kutu": [
+     407,
+     0,
+     896,
+     892
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dizüstü bilgisayar",
+     "kahve fincanı",
+     "su bardağı",
+     "tepsi",
+     "masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masada dizüstü bilgisayar, Türk kahvesi ve su bulunan kafe ortamı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kafe",
+     "çalışma ortamı",
+     "teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "dizi tanıtımı",
+     "siyaset",
+     "maç"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kafe ortamı bulunsa da dizi tanıtımını ve konuşmacıları yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stüdyo",
+       "film seti"
+      ]
+     },
+     "t": "2026-11-23T13:05:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2533232323233c38",
+    "sha": "3efb02a8f1d6f3e8ce8158f8"
+   },
+   "t": "2026-11-23T13:05:53+03:00",
+   "teknik": {
+    "doygunluk": 30.0,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.137,
+    "keskinlik": 271,
+    "kontrast": 71,
+    "medyan": 141,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1749801878509-aa8a0271009e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8VHVya2lzaCUyMGNvZmZlZSUyMGN1cCUyMGNhZmV8ZW58MXwwfHx8MTc5NTQyODM0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "5f921f52b2df82b4": {
    "icerik": {
@@ -111298,6 +111703,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Gasoline_price_display_controller.jpg/1280px-Gasoline_price_display_controller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "922a85cd54d2ff46": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahve makinesi",
+     "pencere",
+     "logo",
+     "tezgah",
+     "bitki"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern bir kahve dükkanının iç mekanından dışarı ve baristaya bakış.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kafe tasarımı",
+     "kahve dükkanı",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "dizi tanıtımı",
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Kahve dükkanı içeriyor ancak yabancı zincir logosu ve olayın Antalyadaki Element Cafe olmasıyla uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stüdyo",
+       "film seti"
+      ]
+     },
+     "t": "2026-11-23T13:05:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "797d795317871b4f",
+    "sha": "039485b94ab54c7fb025fdfd"
+   },
+   "t": "2026-11-23T13:05:53+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 1154,
+    "kontrast": 48,
+    "medyan": 96,
+    "parlaklik": 101,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1781701894352-70c1bab02c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29mZmVlJTIwc2hvcCUyMGNvdW50ZXIlMjBicmlnaHR8ZW58MXwwfHx8MTc5NTQyODM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "922bb37fc8ef6ddd": {
    "icerik": {
     "ana_kutu": [
@@ -129060,6 +129561,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Building_renovation_in_Bavaria_mixes_traditional_and_modern_%286998332%29.jpg/1280px-Building_renovation_in_Bavaria_mixes_traditional_and_modern_%286998332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "acfc2ed89a9b2086": {
+   "icerik": {
+    "ana_kutu": [
+     218,
+     276,
+     832,
+     787
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kahve fincanı",
+     "fincan tabağı",
+     "ahşap masa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ahşap masada mavi benekli fincan ve tabakta Türk kahvesi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kahve",
+     "gastronomi",
+     "kafe"
+    ],
+    "uygunsuz_baglamlar": [
+     "dizi tanıtımı",
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:e9a4082a743b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgili özel bir bağ kurmayan sadece yakın plan kahve görselidir.",
+      "gerekli": [
+       {
+        "unsur": "kahve dükkanı",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacılar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "stüdyo",
+       "film seti"
+      ]
+     },
+     "t": "2026-11-23T13:05:53+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d4e73725bde6c38",
+    "sha": "bd2f4a6a5941bccb1ba3cad0"
+   },
+   "t": "2026-11-23T13:05:53+03:00",
+   "teknik": {
+    "doygunluk": 30.8,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.103,
+    "keskinlik": 599,
+    "kontrast": 34,
+    "medyan": 107,
+    "parlaklik": 99,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1657549456486-0f2c3ddffdab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGNvZmZlZSUyMGN1cCUyMGNhZmV8ZW58MXwwfHx8MTc5NTQyODM0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "ad2a4c216ac92663": {
    "icerik": {
