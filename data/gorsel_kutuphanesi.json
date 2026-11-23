@@ -20257,6 +20257,112 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Antalya_beach_jgp.jpg/1280px-Antalya_beach_jgp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "19b8b22daf06025a": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     93,
+     985,
+     872
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "gelinlik",
+     "takım elbise",
+     "mağaza rafı",
+     "ürün standı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir mağaza içerisinde gelinlik giymiş kadın ve takım elbiseli erkek dans ediyor.",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "magaza haberi",
+     "moda"
+    ],
+    "uygunsuz_baglamlar": [
+     "dugun haberi",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      48,
+      197,
+      175,
+      271
+     ],
+     [
+      36,
+      616,
+      215,
+      701
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:39003bb61f5c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Düğün töreni değil, bir mağaza içinde çekilmiş alakasız bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "cenaze",
+       "maç"
+      ]
+     },
+     "t": "2026-11-23T15:05:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1e9cc6c6d6464643",
+    "sha": "b86fc89bb64aaf1471c81046"
+   },
+   "t": "2026-11-23T15:05:52+03:00",
+   "teknik": {
+    "doygunluk": 35.4,
+    "inen": [
+     500,
+     374
+    ],
+    "karanlik_oran": 0.228,
+    "keskinlik": 995,
+    "kontrast": 50,
+    "medyan": 89,
+    "parlaklik": 87,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Bride_%26_Groom_Dance_%285822938249%29.jpg/1280px-Bride_%26_Groom_Dance_%285822938249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "19e9f4de34baf087": {
    "icerik": {
     "ana_kutu": [
@@ -23421,6 +23527,118 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5013.jpg/1280px-Kayseri_Milli_M%C3%BCcadele_M%C3%BCzesi_Exterior_5013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "1dc8b45060008dcc": {
+   "icerik": {
+    "ana_kutu": [
+     332,
+     428,
+     936,
+     853
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "gelinlik",
+     "takım elbise",
+     "düğün salonu",
+     "masa",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş bir düğün salonunda dans eden gelin ve damat.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "dugun haberi",
+     "sosyal etkinlik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      345,
+      455,
+      422,
+      495
+     ],
+     [
+      332,
+      679,
+      415,
+      725
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:39003bb61f5c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin içeriği olan düğün törenini ve çifti temsil eden uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       332,
+       428,
+       936,
+       853
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "cenaze",
+       "maç"
+      ]
+     },
+     "t": "2026-11-23T15:05:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "e6c89000dbc3d3d3",
+    "sha": "a36690d6919ec126d5889eb2"
+   },
+   "t": "2026-11-23T15:05:52+03:00",
+   "teknik": {
+    "doygunluk": 27.6,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.056,
+    "keskinlik": 1240,
+    "kontrast": 52,
+    "medyan": 143,
+    "parlaklik": 141,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1704455308461-1e18a7e11d28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8YnJpZGUlMjBhbmQlMjBncm9vbSUyMGRhbmNlfGVufDF8MHx8fDE3OTU0MzU1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "1dd1f006c0b0df4b": {
    "icerik": {
@@ -118616,6 +118834,39 @@
     ]
    },
    "iliski": {
+    "r1:39003bb61f5c:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Siyah beyaz, eski ve yerel düğün geleneklerini yansıtan, güncel Alanya düğünüyle ilgisiz bir arşiv karesidir.",
+      "gerekli": [
+       {
+        "unsur": "gelin ve damat",
+        "var": true
+       },
+       {
+        "unsur": "düğün salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "cenaze",
+       "maç"
+      ]
+     },
+     "t": "2026-11-23T15:05:52+03:00"
+    },
     "r1:c5a98922dbf9:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -118651,7 +118902,7 @@
     "dh": "f7c7cca4ac4d4963",
     "sha": "841d0051455ec917c1471092"
    },
-   "t": "2026-11-21T15:01:07+03:00",
+   "t": "2026-11-23T15:05:52+03:00",
    "teknik": {
     "doygunluk": 0.0,
     "inen": [
