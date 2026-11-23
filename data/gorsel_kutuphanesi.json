@@ -880,13 +880,46 @@
       "yasak": []
      },
      "t": "2026-11-14T15:40:14+03:00"
+    },
+    "r1:ee8bba76778d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber kapalı pazar yerini ve tahsis başvurularını konu alıyor ancak fotoğraf açık havada sokak pazarını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "kapali pazar yeri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "açik pazar",
+       "sokak pazari"
+      ]
+     },
+     "t": "2026-11-23T12:35:15+03:00"
     }
    },
    "ozet": {
     "dh": "8b018560a4bd059d",
     "sha": "21ae92adadf32c08dda08acb"
    },
-   "t": "2026-11-15T13:40:55+03:00",
+   "t": "2026-11-23T12:35:15+03:00",
    "teknik": {
     "doygunluk": 31.8,
     "inen": [
@@ -120898,13 +120931,43 @@
       "yasak": []
      },
      "t": "2026-11-13T13:59:54+03:00"
+    },
+    "r1:ee8bba76778d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf pazar tezgahındaki meyveleri gösteriyor ancak kapalı pazar yerinin yapısı veya başvuru süreciyle doğrudan ilişkili değil.",
+      "gerekli": [
+       {
+        "unsur": "pazar tezgahları",
+        "var": true
+       },
+       {
+        "unsur": "kapali pazar yeri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T12:35:15+03:00"
     }
    },
    "ozet": {
     "dh": "5ec5c24a191c47ca",
     "sha": "86cd2d28206d07fddba6437a"
    },
-   "t": "2026-11-15T13:40:55+03:00",
+   "t": "2026-11-23T12:35:15+03:00",
    "teknik": {
     "doygunluk": 58.6,
     "inen": [
