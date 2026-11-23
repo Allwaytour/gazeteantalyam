@@ -46388,6 +46388,99 @@
    },
    "url": "https://images.unsplash.com/photo-1654162201760-2c4383cbde3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QW50YWx5YSUyMGNpdHlzY2FwZSUyMGFyY2hpdGVjdHVyZXxlbnwxfDB8fHwxNzk1MzY3Mjk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "3901f517b551a545": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     149,
+     878,
+     638
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin ağacı",
+     "toprak yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda büyük gövdeli zeytin ağaçları",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin ağacı",
+     "tarım"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:cb52b6c423fb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili yaşlı zeytin ağacı görseli, ancak Kaleiçi'ne ait değil.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı zeytin ağacı",
+        "var": true
+       },
+       {
+        "unsur": "ağaç gövdesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       149,
+       878,
+       638
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "21e6c64c4c2ce444",
+    "sha": "f101069be71d927ff8ee4ea3"
+   },
+   "t": "2026-11-23T14:36:00+03:00",
+   "teknik": {
+    "doygunluk": 33.2,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.246,
+    "keskinlik": 3594,
+    "kontrast": 77,
+    "medyan": 90,
+    "parlaklik": 115,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Psematismenos-ancient-olive-tree-park-b.jpg/1280px-Psematismenos-ancient-olive-tree-park-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3913b3ceefc699f7": {
    "ozet": {
     "dh": "3323872727336619",
@@ -46408,6 +46501,101 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1569060368746-4b99609d49d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMGNoYW5nZSUyMHByb3Rlc3QlMjBzaWdufGVufDF8MHx8fDE3OTUwMjk2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "3939a4330cc0ffaf": {
+   "icerik": {
+    "ana_kutu": [
+     65,
+     34,
+     804,
+     826
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin ağacı",
+     "taş zemin",
+     "çit"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi ve büyük gövdeli zeytin ağacı açık alanda",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım",
+     "zeytin ağacı haberleri",
+     "doğa"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:cb52b6c423fb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili olarak yaşlı bir zeytin ağacını gösteriyor ancak Kaleiçi'nde çekilmemiş.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı zeytin ağacı",
+        "var": true
+       },
+       {
+        "unsur": "ağaç gövdesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       65,
+       34,
+       804,
+       826
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "37f199b0b8a46042",
+    "sha": "d3b10617bd88ed12669e8386"
+   },
+   "t": "2026-11-23T14:36:00+03:00",
+   "teknik": {
+    "doygunluk": 33.4,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.071,
+    "keskinlik": 3940,
+    "kontrast": 57,
+    "medyan": 129,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Psematismenos-ancient-olive-tree-park-a.jpg/1280px-Psematismenos-ancient-olive-tree-park-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "399404277aa4f66d": {
    "icerik": {
@@ -66787,6 +66975,32 @@
      },
      "t": "2026-11-09T17:35:49+03:00"
     },
+    "r1:87b0f1ef532d:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel binası veya tesisi net olarak görünmüyor, genel bir bahçe manzarası içeriyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası, turizm tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:15+03:00"
+    },
     "r1:ba30104abf4b:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -66900,7 +67114,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-19T14:27:18+03:00",
+   "t": "2026-11-23T14:36:15+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -106125,6 +106339,100 @@
    },
    "url": "https://images.unsplash.com/photo-1508087625439-de3978963553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8c29jY2VyJTIwc3RyaWtlciUyMGtpY2tpbmclMjBiYWxsfGVufDF8MHx8fDE3OTQzNDg0ODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "8998400c19c437e9": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     810,
+     820
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "zeytin ağacı",
+     "tabela",
+     "saksı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Çok yaşlı ve kalın gövdeli zeytin ağacı, bilgi tabelası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "zeytin ağacı",
+     "doğa haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:cb52b6c423fb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili anıt zeytin ağacı gösteriliyor, ancak Kaleiçi'ndeki ağaç değil.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı zeytin ağacı",
+        "var": true
+       },
+       {
+        "unsur": "ağaç gövdesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       810,
+       820
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c1e5b13078f9ecc4",
+    "sha": "450f94c942b5577eb3dc78d7"
+   },
+   "t": "2026-11-23T14:36:00+03:00",
+   "teknik": {
+    "doygunluk": 26.8,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.174,
+    "keskinlik": 2400,
+    "kontrast": 54,
+    "medyan": 101,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1759660024915-43356ea33460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8aGlzdG9yaWMlMjBvbGl2ZSUyMHRyZWUlMjB0cnVua3xlbnwxfDB8fHwxNzk1NDMzNzUzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "89a937c0dc91b884": {
    "icerik": {
     "ana_kutu": [
@@ -127401,13 +127709,48 @@
       "yasak": []
      },
      "t": "2026-11-15T12:11:05+03:00"
+    },
+    "r1:cb52b6c423fb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ağaç dalları ve yaprakları görülüyor ancak gövde net değil.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı zeytin ağacı",
+        "var": true
+       },
+       {
+        "unsur": "ağaç gövdesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:00+03:00"
     }
    },
    "ozet": {
     "dh": "fded9ecf6e7736bc",
     "sha": "2b43971d5384f10966f7a9d6"
    },
-   "t": "2026-11-15T12:11:05+03:00",
+   "t": "2026-11-23T14:36:00+03:00",
    "teknik": {
     "doygunluk": 46.7,
     "inen": [
@@ -152952,6 +153295,37 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:87b0f1ef532d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel veya turizm tesisini temsil eden uygun bir avlu görüntüsü sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "otel binası, turizm tesisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:15+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -152988,7 +153362,7 @@
     "dh": "19192b2e26464647",
     "sha": "8c0fa7870ae0bab6caacd5a4"
    },
-   "t": "2026-11-19T14:27:18+03:00",
+   "t": "2026-11-23T14:36:15+03:00",
    "teknik": {
     "doygunluk": 66.9,
     "inen": [
@@ -194054,6 +194428,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Edward_Burtynsky.jpg/1280px-Edward_Burtynsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fe95185ed278221d": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "bina",
+     "sokak lambası",
+     "masa",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kaleiçi sokak görünümü, restoranlar ve uzakta minare",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Kaleiçi haberleri",
+     "Antalya turizm haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Zeytin ağacı haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:cb52b6c423fb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kaleiçi sokağı gösteriliyor ancak haberin ana öznesi olan zeytin ağacı fotoğrafta yok.",
+      "gerekli": [
+       {
+        "unsur": "yaşlı zeytin ağacı",
+        "var": false
+       },
+       {
+        "unsur": "ağaç gövdesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T14:36:00+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1113969c5a72dd8f",
+    "sha": "2b9b9026bce884b84871b677"
+   },
+   "t": "2026-11-23T14:36:00+03:00",
+   "teknik": {
+    "doygunluk": 39.5,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.172,
+    "keskinlik": 2992,
+    "kontrast": 58,
+    "medyan": 134,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Streetscape_and_minaret.jpg/1280px-Kalei%C3%A7i_old_town%2C_Antalya%2C_Turkey_%F0%9F%87%B9%F0%9F%87%B7_Feb_2022_-_Streetscape_and_minaret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "feb4f71db2b71d93": {
    "icerik": {
     "ana_kutu": [
@@ -194328,6 +194791,34 @@
      },
      "t": "2026-11-09T17:35:49+03:00"
     },
+    "r1:87b0f1ef532d:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel yatırımı haberiyle tamamen alakasız bir sokak ve yağmur sahnesidir.",
+      "gerekli": [
+       {
+        "unsur": "otel binası, turizm tesisi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi"
+      ]
+     },
+     "t": "2026-11-23T14:36:15+03:00"
+    },
     "r1:e4427e0afca0:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -194415,7 +194906,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-19T12:27:33+03:00",
+   "t": "2026-11-23T14:36:15+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -205219,7 +205710,7 @@
    "gosterim_ad": "asırlık çınarın yok olması",
    "ilk_kabul": "2026-11-15T12:11:05+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Christabel Seneque / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -205238,8 +205729,10 @@
    },
    "konular": [
     "ağaç dalları",
+    "ağaç gövdesi",
     "gökyüzü",
     "yaprak",
+    "yaşlı zeytin ağacı",
     "çınar ağacı"
    ],
    "kucuk": "https://images.unsplash.com/photo-1697863130232-9170138ffe6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGxhbmUlMjB0cmVlfGVufDF8MHx8fDE3OTQ3MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=400",
@@ -205257,7 +205750,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-15T12:11:05+03:00",
+   "son_kabul": "2026-11-23T14:36:00+03:00",
    "url": "https://images.unsplash.com/photo-1697863130232-9170138ffe6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cGxhbmUlMjB0cmVlfGVufDF8MHx8fDE3OTQ3MzM4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
@@ -207188,7 +207681,7 @@
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-19T14:27:18+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "1089hruskapetr / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -207211,6 +207704,7 @@
     "bitki",
     "masa",
     "otel binasi",
+    "otel binası, turizm tesisi",
     "sandalye",
     "tas duvar"
    ],
@@ -207221,7 +207715,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-19T14:27:18+03:00",
+   "son_kabul": "2026-11-23T14:36:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg/1280px-Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
