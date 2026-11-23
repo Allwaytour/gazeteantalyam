@@ -17,7 +17,7 @@ Haberde adı geçen kişi ve kurumların yanıt talepleri de aynı yollarla alı
 
 ## Ne kadar sürede incelenir?
 
-Her bildirim yayın sorumlularımız tarafından incelenir. Bildiriminiz [doldurulacak: inceleme süresi, örneğin "en geç 48 saat"] içinde değerlendirilir ve size dönüş yapılır. Açık ve önemli bir hata söz konusuysa düzeltme beklemeden yapılır.
+Her bildirim yayın sorumlularımız tarafından incelenir. Bildiriminiz en geç 24 saat içinde değerlendirilir ve size dönüş yapılır. Açık ve önemli bir hata söz konusuysa düzeltme beklemeden yapılır.
 
 ## Düzeltme nasıl yapılır?
 

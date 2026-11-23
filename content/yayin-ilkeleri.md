@@ -12,7 +12,7 @@ Neyin haber olacağına ve haberin nasıl yayımlanacağına yalnızca yayın so
 
 ## 2. Siyasi partilerden ve belediyelerden bağımsızlık
 
-Gazete Antalya hiçbir siyasi partiye, belediyeye, kamu kurumuna ya da ticari gruba bağlı değildir. Hiçbir siyasi partinin ya da adayın sözcülüğünü yapmayız. [doldurulacak: kamu kurumlarından ya da belediyelerden reklam veya resmî ilan alınıyorsa bunun nasıl açıklandığı]
+Gazete Antalya hiçbir siyasi partiye, belediyeye, kamu kurumuna ya da ticari gruba bağlı değildir. Hiçbir siyasi partinin ya da adayın sözcülüğünü yapmayız.
 
 ## 3. Bütün kurumlara aynı ölçüt
 
@@ -46,7 +46,7 @@ Gazete Antalya, Basın Konseyi tarafından ilan edilen Basın Meslek İlkeleri'n
 
 Bu ilkelere uymadığımızı düşündüğünüz bir içerik görürseniz haberin bağlantısıyla birlikte [iletisim@gazeteantalyam.com](mailto:iletisim@gazeteantalyam.com) adresine ya da [WhatsApp hattımıza (0551 340 13 61)](https://wa.me/905513401361) yazabilirsiniz.
 
-Son güncelleme: [doldurulacak: tarih]
+Son güncelleme: 23.11.2026
 
 <section class="ozet-en" lang="en">
 

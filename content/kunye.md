@@ -7,15 +7,11 @@ kurumsal: true
 
 **Yayın Türü:** Yerel, günlük, internet haber sitesi
 
-**İmtiyaz Sahibi:** [doldurulacak: imtiyaz sahibi]
-
-**Şirket Unvanı / Tüzel Kişilik:** [doldurulacak: şirket unvanı ya da tüzel kişilik bilgisi]
+**İmtiyaz Sahibi:** Musa Şimşek
 
 **Sorumlu Müdür:** Mustafa Şimşek
 
 **Yazı İşleri Müdürü:** Musa Şimşek
-
-**Adres:** [doldurulacak: açık adres]
 
 **Telefon:** 0551 340 13 61
 
