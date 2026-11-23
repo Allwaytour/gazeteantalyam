@@ -5064,6 +5064,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ceylan_Ertem_-_15._Radyo_Bo%C4%9Fazi%C3%A7i_%C3%96d%C3%BClleri.jpg/1280px-Ceylan_Ertem_-_15._Radyo_Bo%C4%9Fazi%C3%A7i_%C3%96d%C3%BClleri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "05cccf24a0e37042": {
+   "icerik": {
+    "ana_kutu": [
+     220,
+     31,
+     787,
+     935
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "belediye binası",
+     "pencereler",
+     "anten",
+     "sokak lambası",
+     "dubalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bulutlu günde iki katlı beyaz belediye polis binası ve önündeki sokak",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "belediye haberleri",
+     "kurum tanıtımı",
+     "zabıta haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor karşılaşması",
+     "magazin",
+     "sanat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:07eff48cc112:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki binanın üzerinde yabancı dilde 'HOTEL DE POLICE MUNICIPALE' yazmaktadır, Türkiye'deki Aksu Belediyesi ile uyuşmaz.",
+      "gerekli": [
+       {
+        "unsur": "zabıta memuru",
+        "var": false
+       },
+       {
+        "unsur": "okul kantini",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:17:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3808b010323036f0",
+    "sha": "c55e06be27f3488f50a68219"
+   },
+   "t": "2026-11-23T15:17:45+03:00",
+   "teknik": {
+    "doygunluk": 13.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.134,
+    "keskinlik": 1123,
+    "kontrast": 66,
+    "medyan": 170,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Municipal_police_of_Baie-Mahault.jpg/1280px-Municipal_police_of_Baie-Mahault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "05de37a422d750c6": {
    "icerik": {
     "ana_kutu": [
@@ -26147,13 +26240,48 @@
       "yasak": []
      },
      "t": "2026-11-10T22:15:06+03:00"
+    },
+    "r1:e80284f86ea2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı apronu ve uçak trafiğini doğrudan gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı apronu",
+        "var": true
+       },
+       {
+        "unsur": "uçak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:16:11+03:00"
     }
    },
    "ozet": {
     "dh": "52538f0b6d8c64e7",
     "sha": "32c342239b23ae938e634fe5"
    },
-   "t": "2026-11-10T22:15:06+03:00",
+   "t": "2026-11-23T15:16:11+03:00",
    "teknik": {
     "doygunluk": 20.2,
     "inen": [
@@ -70043,6 +70171,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/DTM_Mercedes_W204_DiResta09_amk.jpg/1280px-DTM_Mercedes_W204_DiResta09_amk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5805f730203293ea": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     160,
+     750,
+     960
+    ],
+    "bulanik": true,
+    "cekim": "yakin",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "asfalt kesme makinesi",
+     "iş ayakkabısı",
+     "iş pantolonu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir işçinin asfalt kesme makinesiyle yol üzerinde çalışma yapması.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yol onarımı",
+     "altyapı çalışması"
+    ],
+    "uygunsuz_baglamlar": [
+     "çukur şikayeti",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:83f2df841601:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf onarım çalışmasını gösteriyor, haberin konusu olan çukur tehlikesini değil.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çukuru",
+        "var": false
+       },
+       {
+        "unsur": "bozuk yol",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:17:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3262c2e6d6771f4d",
+    "sha": "5cdf6f4110fb0fefe9f210c1"
+   },
+   "t": "2026-11-23T15:17:20+03:00",
+   "teknik": {
+    "doygunluk": 29.2,
+    "inen": [
+     500,
+     318
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 228,
+    "kontrast": 54,
+    "medyan": 171,
+    "parlaklik": 161,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pothole_semi-permanent_repair_cut_edges.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "581ba8935740e04d": {
    "ozet": {
     "dh": "7d7dec8809288d6b",
@@ -82814,13 +83031,43 @@
       "yasak": []
      },
      "t": "2026-11-10T22:15:06+03:00"
+    },
+    "r1:e80284f86ea2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Havalimanı yoğunluğuyla ilgisiz bir otobüs içi ve cadde görünümü.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı apronu",
+        "var": false
+       },
+       {
+        "unsur": "uçak",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:16:11+03:00"
     }
    },
    "ozet": {
     "dh": "4ece526045cdc9c9",
     "sha": "86b992f41572107fa6befb83"
    },
-   "t": "2026-11-10T22:15:06+03:00",
+   "t": "2026-11-23T15:16:11+03:00",
    "teknik": {
     "doygunluk": 12.6,
     "inen": [
@@ -99342,6 +99589,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:07eff48cc112:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Antalya EXPO alanını göstermektedir, haberin konusu olan Aksu'daki okul kantinleri denetimiyle ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:17:45+03:00"
+    },
     "r1:502e7d033825:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -99611,7 +99879,11 @@
      "t": "2026-11-08T16:34:21+03:00"
     }
    },
-   "t": "2026-11-08T21:03:09+03:00",
+   "ozet": {
+    "dh": "070c032725310726",
+    "sha": "00aa305b1ec7345e64397df3"
+   },
+   "t": "2026-11-23T15:17:45+03:00",
    "teknik": {
     "doygunluk": 18.4,
     "inen": [
@@ -110843,6 +111115,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Applications_of_Household_Solar_Energy_Storage_Systems.jpg/1280px-Applications_of_Household_Solar_Energy_Storage_Systems.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8e5810c925840deb": {
+   "icerik": {
+    "ana_kutu": [
+     78,
+     265,
+     921,
+     805
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "zabıta aracı",
+     "otomobil",
+     "kaldırım",
+     "yayalar",
+     "hoparlör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Cadde üzerinde park halinde mavi sarı renkli zabıta aracı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "zabıta haberleri",
+     "belediye denetimleri",
+     "trafik haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor",
+     "kültür sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:07eff48cc112:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Araç üzerinde yabancı dilde 'STRAŻ MIEJSKA' yazmaktadır ve plaka Türkiye standartlarına uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "zabıta memuru",
+        "var": false
+       },
+       {
+        "unsur": "okul kantini",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:17:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "34c6e47460646171",
+    "sha": "9e0b29da5ff4f5db93e6d843"
+   },
+   "t": "2026-11-23T15:17:45+03:00",
+   "teknik": {
+    "doygunluk": 16.8,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.152,
+    "keskinlik": 2641,
+    "kontrast": 71,
+    "medyan": 176,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Municipal_Police_vehicle_in_Tomasz%C3%B3w_Mazowiecki.jpg/1280px-Municipal_Police_vehicle_in_Tomasz%C3%B3w_Mazowiecki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8e6e300eeb3aafca": {
    "icerik": {
     "ana_kutu": [
@@ -118537,13 +118902,48 @@
       "yasak": []
      },
      "t": "2026-11-10T22:15:06+03:00"
+    },
+    "r1:e80284f86ea2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Havalimanı kontrol kulesini gösteriyor ancak uçak görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı apronu",
+        "var": true
+       },
+       {
+        "unsur": "uçak",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       215,
+       1,
+       622,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:16:11+03:00"
     }
    },
    "ozet": {
     "dh": "d048484d9e9b4310",
     "sha": "00ad4d03beb9986ab081fa15"
    },
-   "t": "2026-11-21T16:01:17+03:00",
+   "t": "2026-11-23T15:16:11+03:00",
    "teknik": {
     "doygunluk": 26.0,
     "inen": [
@@ -128696,13 +129096,43 @@
       "yasak": []
      },
      "t": "2026-11-10T22:15:06+03:00"
+    },
+    "r1:e80284f86ea2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Havalimanındaki bir yer hizmetleri tabelasını gösteriyor, uçak veya apron yok.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı apronu",
+        "var": false
+       },
+       {
+        "unsur": "uçak",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:16:11+03:00"
     }
    },
    "ozet": {
     "dh": "0bc74178cccd0450",
     "sha": "81ce4a767a59ea7c062e012c"
    },
-   "t": "2026-11-21T16:01:17+03:00",
+   "t": "2026-11-23T15:16:11+03:00",
    "teknik": {
     "doygunluk": 14.8,
     "inen": [
@@ -169885,13 +170315,48 @@
       "yasak": []
      },
      "t": "2026-11-10T22:15:06+03:00"
+    },
+    "r1:e80284f86ea2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya Havalimanı terminali önündeki apronu ve uçağı gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "Antalya Havalimanı apronu",
+        "var": true
+       },
+       {
+        "unsur": "uçak",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       555,
+       1,
+       775,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:16:11+03:00"
     }
    },
    "ozet": {
     "dh": "f7fffffe456d3c6e",
     "sha": "117843fc100f1a1220f75ef7"
    },
-   "t": "2026-11-10T22:15:06+03:00",
+   "t": "2026-11-23T15:16:11+03:00",
    "teknik": {
     "doygunluk": 39.4,
     "inen": [
@@ -192693,6 +193158,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Antalya_Atat%C3%BCrk_M%C3%BCzesi.jpg/1280px-Antalya_Atat%C3%BCrk_M%C3%BCzesi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fbcdf30004f385bf": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     170,
+     850,
+     700
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "asfalt",
+     "çukur",
+     "çatlak",
+     "yaprak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Asfalt yolda oluşmuş büyük bir çukur ve çatlaklar.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "yol çalışması",
+     "altyapı sorunu",
+     "belediye hizmeti"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "kişi haberi",
+     "spor haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:83f2df841601:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan bozuk yol ve çukur görseli doğrudan yansıtmaktadır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt çukuru",
+        "var": true
+       },
+       {
+        "unsur": "bozuk yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       280,
+       170,
+       850,
+       700
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T15:17:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0127c30d9b991818",
+    "sha": "ecfb2a2dfcd2c49fde91ea21"
+   },
+   "t": "2026-11-23T15:17:20+03:00",
+   "teknik": {
+    "doygunluk": 7.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.011,
+    "keskinlik": 3975,
+    "kontrast": 46,
+    "medyan": 163,
+    "parlaklik": 161,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Potholes_on_asphalt_road_20171023.jpg/1280px-Potholes_on_asphalt_road_20171023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fbeaca22d53a57bf": {
    "icerik": {
     "ana_kutu": [
@@ -197121,7 +197683,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-10T22:15:06+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Simply Aviation / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -197135,6 +197697,10 @@
     "kisiler": [],
     "kurumlar": [
      {
+      "ad": "Havadan Antalya Havalimanı apronu ve uçak kanadı görünümü",
+      "qid": "Q827480"
+     },
+     {
       "ad": "Antalya Havalimanı",
       "qid": "Q827480"
      }
@@ -197145,6 +197711,7 @@
    },
    "konular": [
     "Antalya Havalimanı ana binası",
+    "Antalya Havalimanı apronu",
     "bulutlu gökyüzü",
     "havalimanı apronu",
     "uçak",
@@ -197166,7 +197733,7 @@
    "qid": "Q827480",
    "sahne_turu": "manzara",
    "sinif": "ozne_kurum",
-   "son_kabul": "2026-11-10T22:15:06+03:00",
+   "son_kabul": "2026-11-23T15:16:11+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg/1280px-12-NOV-2023_-_XQ190_AYT-VIE_%28TC-SMI_-_B737_MAX_8%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -210942,6 +211509,69 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T12:08:15+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Esenbo%C4%9Fa_International_Airport.jpg/1280px-Esenbo%C4%9Fa_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "fbcdf30004f385bf": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4640,
+    3480
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2017-10-23",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Asfalt yolda oluşmuş büyük bir çukur ve çatlaklar.",
+   "gosterim_ad": "yol çukurları",
+   "ilk_kabul": "2026-11-23T15:17:20+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Santeri Viinamäki / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Santeri Viinamäki",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Potholes_on_asphalt_road_20171023.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "asfalt",
+    "asfalt çukuru",
+    "bozuk yol",
+    "yaprak",
+    "çatlak",
+    "çukur"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Potholes_on_asphalt_road_20171023.jpg/500px-Potholes_on_asphalt_road_20171023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "yol çalışması",
+    "altyapı sorunu",
+    "belediye hizmeti"
+   ],
+   "kullanilamaz": [
+    "siyasi haber",
+    "kişi haberi",
+    "spor haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-23T15:17:20+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Potholes_on_asphalt_road_20171023.jpg/1280px-Potholes_on_asphalt_road_20171023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
