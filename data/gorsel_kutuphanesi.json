@@ -2770,6 +2770,94 @@
    },
    "url": "https://images.unsplash.com/photo-1774174816822-5e96fa606fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8cmVjeWNsZWQlMjBhcnQlMjBzY3VscHR1cmV8ZW58MXwwfHx8MTc5NDczMzg4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "028ffdba17929bb4": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şehir merkezi",
+     "havalimanı",
+     "sahil",
+     "deniz"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Uzaydan çekilmiş Antalya şehir ve havaalanı uydu görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir haberi",
+     "coğrafya haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "eğitim haberi",
+     "etkinlik haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ecbca9e5fdc8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uzaydan Antalya uydu görüntüsü, eğitim haberiyle alakasız.",
+      "gerekli": [
+       {
+        "unsur": "bilim merkezi atölyesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "öğrenci grubu"
+      ]
+     },
+     "t": "2026-11-23T11:07:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "99d6e7cd6ff31327",
+    "sha": "7cbd86fd5d9160bb604e860b"
+   },
+   "t": "2026-11-23T11:07:39+03:00",
+   "teknik": {
+    "doygunluk": 11.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.0,
+    "keskinlik": 3240,
+    "kontrast": 29,
+    "medyan": 129,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ISS044-E-360_-_View_of_Turkey.jpg/1280px-ISS044-E-360_-_View_of_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0295d7286095406f": {
    "icerik": {
     "ana_kutu": null,
@@ -13841,6 +13929,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%281%29.jpg/1280px-07415_Okurcalar-Alanya-Antalya%2C_Turkey_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "116b2275bf42bf6c": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yıldızlar",
+     "galaksi",
+     "bulutsu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Samanyolu galaksisinin renkli uzay ve yıldız bulutu görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "astronomi haberi",
+     "uzay haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel etkinlik",
+     "belediye haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:ecbca9e5fdc8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Astronomi temalı ancak atölye eğitimini yansıtmayan temsilî uzay görseli.",
+      "gerekli": [
+       {
+        "unsur": "öğretmenler",
+        "var": false
+       },
+       {
+        "unsur": "bilim merkezi atölyesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T11:07:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "193b1e97d6261e3f",
+    "sha": "40a421664dc0e6090eb35fc9"
+   },
+   "t": "2026-11-23T11:07:39+03:00",
+   "teknik": {
+    "doygunluk": 56.2,
+    "inen": [
+     500,
+     250
+    ],
+    "karanlik_oran": 0.426,
+    "keskinlik": 1124,
+    "kontrast": 31,
+    "medyan": 56,
+    "parlaklik": 61,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1280px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "11735a4683a49590": {
    "icerik": {
@@ -64692,6 +64869,108 @@
    },
    "url": "https://images.unsplash.com/photo-1630343710506-89f8b9f21d31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8cmVhZGluZyUyMGJvb2slMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTQ0MjYwODl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "553c2bd72f2bb240": {
+   "icerik": {
+    "ana_kutu": [
+     97,
+     106,
+     997,
+     725
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "ekran",
+     "sunum cihazı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sunum yapan bir kadın ve yanında uzay teleskobu görseli bulunan ekran",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "bilim",
+     "astronomi",
+     "teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "ekonomi",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      97,
+      287,
+      447,
+      452
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ecbca9e5fdc8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kadın konuşmacı ve teleskop görseli olsa da, haberdeki Antalya Bilim Merkezi eğitimiyle bağdaşmayan yabancı bir etkinliktir.",
+      "gerekli": [
+       {
+        "unsur": "teleskop",
+        "var": false
+       },
+       {
+        "unsur": "öğretmenler",
+        "var": false
+       },
+       {
+        "unsur": "bilim merkezi atölyesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T11:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "56939357d2dbd1d6",
+    "sha": "a94594e6282091b99364ae7b"
+   },
+   "t": "2026-11-23T11:07:47+03:00",
+   "teknik": {
+    "doygunluk": 37.8,
+    "inen": [
+     500,
+     364
+    ],
+    "karanlik_oran": 0.41,
+    "keskinlik": 1010,
+    "kontrast": 61,
+    "medyan": 63,
+    "parlaklik": 79,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060304%29.jpg/1280px-NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "555430cff88b54d6": {
    "icerik": {
     "ana_kutu": [
@@ -73774,6 +74053,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:ecbca9e5fdc8:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya uydu görüntüsü, bilim merkezi eğitimini yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T11:07:39+03:00"
+    },
     "r1:f266cd3fa1af:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -73809,7 +74109,7 @@
     "dh": "99d2e6cf2f739b07",
     "sha": "192a4e1c8799df516382dcbe"
    },
-   "t": "2026-11-20T17:00:46+03:00",
+   "t": "2026-11-23T11:07:39+03:00",
    "teknik": {
     "doygunluk": 10.8,
     "inen": [
@@ -77334,6 +77634,132 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Moorefield_Road_Rubbish_19_May_2018_%2827371600657%29.jpg/1280px-Moorefield_Road_Rubbish_19_May_2018_%2827371600657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6708ceec3960cf26": {
+   "icerik": {
+    "ana_kutu": [
+     168,
+     142,
+     992,
+     532
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "masa",
+     "astronomi haritası",
+     "yapıştırıcı",
+     "makas",
+     "çanta"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıfta masada oturup elinde astronomi materyali tutan öğretmenler ve katılımcılar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "eğitim haberi",
+     "bilim merkezi etkinliği",
+     "öğretmenler atölyesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor maçı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      172,
+      214,
+      461,
+      348
+     ],
+     [
+      152,
+      345,
+      874,
+      608
+     ],
+     [
+      105,
+      517,
+      725,
+      715
+     ],
+     [
+      178,
+      621,
+      452,
+      706
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ecbca9e5fdc8:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Etkinlikteki öğretmenler ve atölye ortamı doğrudan görülüyor.",
+      "gerekli": [
+       {
+        "unsur": "öğretmenler",
+        "var": true
+       },
+       {
+        "unsur": "bilim merkezi atölyesi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       168,
+       142,
+       992,
+       532
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "öğrenci grubu",
+       "çocuklar"
+      ]
+     },
+     "t": "2026-11-23T11:07:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3edad4e5d6d2d2c2",
+    "sha": "24a6ce3cbbfa18540be31038"
+   },
+   "t": "2026-11-23T11:07:39+03:00",
+   "teknik": {
+    "doygunluk": 26.4,
+    "inen": [
+     800,
+     533
+    ],
+    "karanlik_oran": 0.326,
+    "keskinlik": 434,
+    "kontrast": 60,
+    "medyan": 90,
+    "parlaklik": 90,
+    "s": "t1"
+   },
+   "url": "/images/kurum/9c3fd7bf2a81139c.jpg"
   },
   "671bd545f3c5c9e0": {
    "ozet": {
@@ -81706,6 +82132,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Climate_Crisis_national_day_of_action_-_Climate_crisis_rally_Melbourne_-_IMG_7643_%2849569047647%29.jpg/1280px-Climate_Crisis_national_day_of_action_-_Climate_crisis_rally_Melbourne_-_IMG_7643_%2849569047647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6cfea60e8c421c9a": {
+   "ozet": {
+    "dh": "5e0c331f0f076723",
+    "sha": "ef4adf88c8d5b353361f814b"
+   },
+   "t": "2026-11-23T11:07:33+03:00",
+   "teknik": {
+    "doygunluk": 53.6,
+    "inen": [
+     500,
+     361
+    ],
+    "karanlik_oran": 0.527,
+    "keskinlik": 2774,
+    "kontrast": 32,
+    "medyan": 48,
+    "parlaklik": 54,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1280px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6d0ec0d0d6d99dc3": {
    "icerik": {
@@ -123576,13 +124023,34 @@
       "yasak": []
      },
      "t": "2026-11-21T19:31:27+03:00"
+    },
+    "r1:ecbca9e5fdc8:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya körfez uydu görünümü, astronomi eğitimi haberi için uygun değil.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T11:07:39+03:00"
     }
    },
    "ozet": {
     "dh": "ccc61d355cccd1d2",
     "sha": "0dcf59c18e9529de22ab2a51"
    },
-   "t": "2026-11-21T19:31:27+03:00",
+   "t": "2026-11-23T11:07:39+03:00",
    "teknik": {
     "doygunluk": 34.2,
     "inen": [
@@ -130492,6 +130960,45 @@
      },
      "t": "2026-11-09T18:36:06+03:00"
     },
+    "r1:1842cf453b26:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta kort ve raket var ancak sporcular genç değil ve pickleball oynanıyor.",
+      "gerekli": [
+       {
+        "unsur": "tenis kortu",
+        "var": true
+       },
+       {
+        "unsur": "tenis raketi",
+        "var": true
+       },
+       {
+        "unsur": "genç sporcu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       203,
+       44,
+       888,
+       428
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T11:06:38+03:00"
+    },
     "r1:6f3139434588:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -130691,7 +131198,7 @@
     "dh": "5200307449e96263",
     "sha": "9269770cbb198101a3cdb138"
    },
-   "t": "2026-11-13T13:33:18+03:00",
+   "t": "2026-11-23T11:06:38+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -156329,6 +156836,111 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg/1280px-HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d0bd1c49ded27088": {
+   "icerik": {
+    "ana_kutu": [
+     190,
+     420,
+     503,
+     502
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "sunum panosu",
+     "insan grubu",
+     "halı zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı salonda bir konuşmacıyı dinleyen kalabalık insan grubu",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "eğitim",
+     "seminer",
+     "konferans"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor maçı",
+     "sokak röportajı",
+     "kaza haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      213,
+      444,
+      273,
+      479
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:ecbca9e5fdc8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta çocuklar ve öğrenci grubu yer almakta olup, haberde belirtilen öğretmenler ve teleskop unsurları bulunmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "teleskop",
+        "var": false
+       },
+       {
+        "unsur": "öğretmenler",
+        "var": false
+       },
+       {
+        "unsur": "bilim merkezi atölyesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "öğrenci grubu",
+       "çocuklar"
+      ]
+     },
+     "t": "2026-11-23T11:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ecb43c2923233333",
+    "sha": "2c28a20dec5bdba59ee6ed6c"
+   },
+   "t": "2026-11-23T11:07:47+03:00",
+   "teknik": {
+    "doygunluk": 26.5,
+    "inen": [
+     500,
+     271
+    ],
+    "karanlik_oran": 0.245,
+    "keskinlik": 2642,
+    "kontrast": 72,
+    "medyan": 112,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060305%29.jpg/1280px-NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d11090db65558c64": {
    "icerik": {
