@@ -10853,6 +10853,37 @@
      },
      "t": "2026-11-20T14:59:28+03:00"
     },
+    "r1:7913bcf072fc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern konut binaları haberin konusuyla tamamen uyumlu ve temsilî fotoğraf olarak kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "apartman, konut binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       140,
+       810,
+       810
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:08+03:00"
+    },
     "r1:81ad2abf1c50:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10967,42 +10998,13 @@
       ]
      },
      "t": "2026-11-23T13:41:10+03:00"
-    },
-    "r1:f07bc0b945c0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta hastane yerine konut binaları yer almaktadır, sağlık yatırımları haberi için uygun değildir.",
-      "gerekli": [
-       {
-        "unsur": "hastane binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetci portresi",
-       "meclis salonu"
-      ]
-     },
-     "t": "2026-11-17T13:38:05+03:00"
     }
    },
    "ozet": {
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-23T13:41:10+03:00",
+   "t": "2026-11-23T16:06:08+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -34946,6 +34948,99 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Corps_drills_borehole_test_sites_at_Success_Dam_%2813913247024%29.jpg/1280px-Corps_drills_borehole_test_sites_at_Success_Dam_%2813913247024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2b3da32676d231fc": {
+   "icerik": {
+    "ana_kutu": [
+     245,
+     165,
+     1000,
+     975
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "renkli binalar",
+     "pencereler",
+     "balkon",
+     "sarmaşık"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İstanbul'da rengarenk boyanmış tarihi apartman binaları.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "gayrimenkul",
+     "konut",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "kaza"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7913bcf072fc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Konut binalarını gösterse de fotoğraf İstanbul'da (Balat) çekilmiştir; Antalya haberi için yer açısından yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "apartman, konut binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       245,
+       165,
+       1000,
+       975
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3623a981c14242c0",
+    "sha": "01e30473b60641c3fe3f9e97"
+   },
+   "t": "2026-11-23T16:06:08+03:00",
+   "teknik": {
+    "doygunluk": 58.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.172,
+    "keskinlik": 3493,
+    "kontrast": 57,
+    "medyan": 128,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Colorful_apartment_buildings%2C_Istanbul%2C_Turkey.jpg/1280px-Colorful_apartment_buildings%2C_Istanbul%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2b63debe08074369": {
    "icerik": {
     "ana_kutu": [
@@ -52661,6 +52756,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Antalya%2C_Turkey_Beaches.JPG/1280px-Antalya%2C_Turkey_Beaches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "422de239922b87ff": {
+   "ozet": {
+    "dh": "12e0676717153534",
+    "sha": "36ad470ba2dd26c8b455eb80"
+   },
+   "t": "2026-11-23T16:06:00+03:00",
+   "teknik": {
+    "doygunluk": 44.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.478,
+    "keskinlik": 2879,
+    "kontrast": 59,
+    "medyan": 54,
+    "parlaklik": 76,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Apartment_block_adjacent_to_Harrowby_Road_-_geograph.org.uk_-_6476780.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "4232b07c47d48c61": {
    "ozet": {
     "dh": "16270713e6870707",
@@ -53340,6 +53456,117 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recep_Tayyip_Erdogan_in_Ukraine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "42a22d9129835423": {
+   "icerik": {
+    "ana_kutu": [
+     323,
+     401,
+     878,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "tekerlekli sandalye",
+     "tabela",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geniş bir salonda masalar etrafında oturan katılımcılar ve tabela görünüyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "toplantı haberi",
+     "çalıştay haberi",
+     "konferans haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç haberi",
+     "kaza haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      515,
+      680,
+      655,
+      750
+     ],
+     [
+      512,
+      686,
+      831,
+      866
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3c4f13cfab19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toplantı salonu ve katılımcıları gösteriyor ancak yabancı dildeki tabela görselde yer alıyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       323,
+       401,
+       878,
+       866
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4d2f0e45643cb832",
+    "sha": "2f42914e24be8966b010e31b"
+   },
+   "t": "2026-11-23T16:06:33+03:00",
+   "teknik": {
+    "doygunluk": 12.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.114,
+    "keskinlik": 1761,
+    "kontrast": 54,
+    "medyan": 112,
+    "parlaklik": 117,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Round_Table_Discussions_at_NASA_Social_%2814420313703%29.jpg/1280px-Round_Table_Discussions_at_NASA_Social_%2814420313703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "42d9bccf79c236b4": {
    "icerik": {
@@ -71340,6 +71567,99 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2016_Diyarbak%C4%B1r_Bombing_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "5a0674d557466f4b": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     120,
+     1000,
+     950
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "binalar",
+     "deniz",
+     "vapur",
+     "çatı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pencereden görünen binalar ve denizdeki feribotlar manzarası.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "gayrimenkul",
+     "manzara",
+     "istanbul konutları"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "politika"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7913bcf072fc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Binalar ve konut unsuru yer alsa da İstanbul Boğazı manzarası Antalya haberi için yer açısından yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "apartman, konut binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       120,
+       1000,
+       950
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "25212f0d9d9f1f96",
+    "sha": "f15b62d48fcc9c0d65f82b44"
+   },
+   "t": "2026-11-23T16:06:08+03:00",
+   "teknik": {
+    "doygunluk": 26.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.17,
+    "keskinlik": 1690,
+    "kontrast": 75,
+    "medyan": 128,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1749558690276-1adc8a2970e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwYnVpbGRpbmclMjBUdXJrZXl8ZW58MXwwfHx8MTc5NTQzOTE1OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "5a24f0cf90aca0d7": {
    "icerik": {
@@ -90897,6 +91217,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cooked_champignon_mushroom.jpg/1280px-Cooked_champignon_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "756468eb08c9e502": {
+   "icerik": {
+    "ana_kutu": [
+     48,
+     80,
+     840,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "konut binası",
+     "kamyonet",
+     "ağaç",
+     "elektrik telleri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bulutlu günde sokakta çok katlı konut binaları ve park etmiş kamyonet.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "gayrimenkul",
+     "konut satışı",
+     "emlak piyasası"
+    ],
+    "uygunsuz_baglamlar": [
+     "yangın haberi",
+     "trafik kazası",
+     "spor karşılaşması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7913bcf072fc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da çekilmiş standart bir konut binası fotoğrafı olup haberin temsilî görseli olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "apartman, konut binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       48,
+       80,
+       840,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:08+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2767a3a223333f67",
+    "sha": "7f0a61d1967cb5c7e252da40"
+   },
+   "t": "2026-11-23T16:06:08+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.242,
+    "keskinlik": 1887,
+    "kontrast": 67,
+    "medyan": 113,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/20180111_Antalya_5195_%2840110962301%29.jpg/1280px-20180111_Antalya_5195_%2840110962301%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "7566a70a1b740ed5": {
    "ozet": {
@@ -130509,6 +130922,104 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Higher_Lane_gates_to_Everton_Cemetery_2.jpg/1280px-Higher_Lane_gates_to_Everton_Cemetery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "aa18fe0108523202": {
+   "icerik": {
+    "ana_kutu": [
+     28,
+     48,
+     977,
+     461
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 25,
+    "nesneler": [
+     "yuvarlak masa",
+     "sandalye",
+     "çanta",
+     "bilgisayar",
+     "insan"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksekten çekilen fotoğrafta yuvarlak masalar etrafında oturan insanlar görünüyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "toplantı haberi",
+     "çalıştay haberi",
+     "konferans haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç haberi",
+     "kaza haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:3c4f13cfab19:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Toplantı salonunu gösteriyor ancak genel kalabalık bir etkinlik havasında.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "konuşmacı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       28,
+       48,
+       977,
+       461
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:33+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4795dbcc9678698d",
+    "sha": "5f59f5b6983a959ee9742dc5"
+   },
+   "t": "2026-11-23T16:06:33+03:00",
+   "teknik": {
+    "doygunluk": 18.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.13,
+    "keskinlik": 2082,
+    "kontrast": 52,
+    "medyan": 118,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Round_Table_Discussions_at_NASA_Social_%2814400156265%29.jpg/1280px-Round_Table_Discussions_at_NASA_Social_%2814400156265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "aa9c40cf9a42bfe4": {
    "icerik": {
     "ana_kutu": [
@@ -136555,32 +137066,6 @@
      },
      "t": "2026-11-21T20:31:26+03:00"
     },
-    "r1:380235b7bffa:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Uyuşturucu davası haberi için yangın fotoğrafı tamamen alakasızdır.",
-      "gerekli": [
-       {
-        "unsur": "adliye binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-17T11:24:10+03:00"
-    },
     "r1:3c36eb2c6a9f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -136688,6 +137173,32 @@
       "yasak": []
      },
      "t": "2026-11-20T14:59:49+03:00"
+    },
+    "r1:7913bcf072fc:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta yangın ve itfaiyeci yer almaktadır; konut satışı haberi için tamamen alakasız ve yanıltıcı bir karedir.",
+      "gerekli": [
+       {
+        "unsur": "apartman, konut binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T16:06:08+03:00"
     },
     "r1:81ad2abf1c50:konu": {
      "d": {
@@ -136805,7 +137316,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-23T14:08:59+03:00",
+   "t": "2026-11-23T16:06:08+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -196747,7 +197258,7 @@
    "gosterim_ad": "konut satışı",
    "ilk_kabul": "2026-11-17T12:25:44+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "yalcin kaya / Wikimedia Commons (CC BY-SA 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -196766,6 +197277,7 @@
    },
    "konular": [
     "agac",
+    "apartman, konut binası",
     "konut binalari, apartmanlar",
     "konut binasi",
     "otomobil",
@@ -196786,7 +197298,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-17T12:25:44+03:00",
+   "son_kabul": "2026-11-23T16:06:08+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antalya%2C_Turkey_-_panoramio_%2844%29.jpg/1280px-Antalya%2C_Turkey_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
