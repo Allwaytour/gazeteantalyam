@@ -15,7 +15,7 @@ permissions:
 # Panelden kaydedilen haberlerin yayını, süren haber toplama turunu beklemesin (ayrı sıra). Haber turu, siteyi oluşturmadan hemen
 # önce en güncel hali çeker; panelden kaydedilen haber onun yayınında da bulunur.
 concurrency:
-  group: ${{ (github.event_name == 'push' && (startsWith(github.event.head_commit.message, 'Yeni haber') || startsWith(github.event.head_commit.message, 'Haber güncellendi') || startsWith(github.event.head_commit.message, 'Haber silindi') || startsWith(github.event.head_commit.message, 'Görsel')) && 'pages-panel') || 'pages' }}
+  group: ${{ (github.event_name == 'push' && (startsWith(github.event.head_commit.message, 'Yeni haber') || startsWith(github.event.head_commit.message, 'Haber güncellendi') || startsWith(github.event.head_commit.message, 'Haber silindi') || startsWith(github.event.head_commit.message, 'Görsel') || startsWith(github.event.head_commit.message, 'Hızlı yayın')) && 'pages-panel') || 'pages' }}
   cancel-in-progress: false
 
 jobs:
@@ -40,7 +40,7 @@ jobs:
         env:
           MESAJ: ${{ github.event.head_commit.message }}
         run: |
-          if [ "${{ github.event_name }}" = "push" ] && printf '%s' "$MESAJ" | grep -qE '^(Yeni haber|Haber güncellendi|Haber silindi|Görsel yüklendi|Görsel silindi|Create|Update|Delete|Upload|Uploaded)'; then
+          if [ "${{ github.event_name }}" = "push" ] && printf '%s' "$MESAJ" | grep -qE '^(Hızlı yayın|Yeni haber|Haber güncellendi|Haber silindi|Görsel yüklendi|Görsel silindi|Create|Update|Delete|Upload|Uploaded)'; then
             echo "hizli=1" >> "$GITHUB_OUTPUT"; echo "Panelden kayıt: hızlı yayın"
           else
             echo "hizli=0" >> "$GITHUB_OUTPUT"
