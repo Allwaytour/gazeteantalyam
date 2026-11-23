@@ -1,7 +1,7 @@
 ---
-title: Alanya'da Yasin Ogretmen'in vefati egitim camiasini yasa bogdu
+title: Alanya'da Yasin Öğretmen'in Vefatı Eğitim Camiasını Yasa Boğdu
 date: '2026-11-22T12:28:00+03:00'
-ozet: 24 Kasim Ogretmenler Gunu'ne sayili günler kala yasamini yitiren Yasin Demir icin egitim sendikasindan taziye ve guvenlik cagrisi geldi.
+ozet: 24 Kasım Öğretmenler Günü'ne sayılı günler kala yaşamını yitiren Yasin Demir için eğitim sendikasından taziye ve güvenlik çağrısı geldi.
 gorsel: https://upload.wikimedia.org/wikipedia/commons/0/00/Alanya_Kuyularonu_Mosque_7958.jpg
 gorsel_kredi: 'Fotoğraf: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
 kategoriler:
@@ -52,7 +52,7 @@ otomatik: true
 yz: true
 kaynak: Manşet Alanya
 kaynak_url: https://www.mansetalanya.com/24-kasim-oncesi-alanyada-aci-kayip-turk-egitim-sen-yasin-ogretmeni-unutmayacagiz
-gorsel_yedek: /images/haber-gorsel/20261122-alanyada-yasin-ogretmenin-vefati-egitim-camiasini-yasa-bogdu--7e673d9e.jpg
+gorsel_yedek: /images/haber-gorsel/20261122-alanyada-yasin-ogretmenin-vefati-egitim-camiasini-yasa-bogdu--978f7480.jpg
 gorsel_yerlesim:
   boyut:
   - 4928
@@ -81,11 +81,17 @@ gorsel_alternatif:
 - https://images.unsplash.com/photo-1619262565695-0e1f60e2ea26?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max
 - https://images.unsplash.com/photo-1740635341299-3b8e3490f546?fm=jpg&q=80&w=1600&fit=max
+baslik_onceki: Alanya'da Yasin Ogretmen'in vefati egitim camiasini yasa bogdu
+metin_onarim:
+  tarih: '2026-11-23T13:33:33+03:00'
+  kaynak: https://www.mansetalanya.com/24-kasim-oncesi-alanyada-aci-kayip-turk-egitim-sen-yasin-ogretmeni-unutmayacagiz
+  yontem: yalnızca Türkçe harf işaretleri düzeltildi; kelimeler değişmedi, özel adlar kaynak metinle doğrulandı
+  not: 'metin: 5 özel ad kaynakta bulunamadığı için değiştirilmedi'
 ---
-Alanya'da yasanan aci olay egitim camiasinda derin bir üzüntüye yol acti. Türk Egitim-Sen Antalya 2 No'lu Sube Baskani Onur Nigmet Üner tarafindan yapilan açiklamada, Yasin Demir'in vefatindan duyulan büyük üzüntü dile getirilerek merhumun ailesine, ögrencilerine ve tüm egitim camiasina bassagligi temennisinde bulunuldu.
+Alanya'da yaşanan acı olay eğitim camiasında derin bir üzüntüye yol açtı. Türk Eğitim-Sen Antalya 2 No'lu Şube Başkanı Onur Niğmet Üner tarafından yapılan açıklamada, Yasin Demir'in vefatından duyulan büyük üzüntü dile getirilerek merhumun ailesine, öğrencilerine ve tüm eğitim camiasına başsağlığı temennisinde bulunuldu.
 
-24 Kasim Ogretmenler Gunu'ne sayili günler kala gerceklesen kaybin camiada büyük bir bosluk biraktigi vurgulandi. Açiklamada, egitmenlerin görevlerini huzur ve güven icinde yürütmesi gerektigi belirtilerek hicbir anlasmazligin siddete dönüsmemesi gerektigi ifade edildi.
+24 Kasım Öğretmenler Günü'ne sayılı günler kala gerçekleşen kaybın camiada büyük bir boşluk bıraktığı vurgulandı. Açıklamada, eğitmenlerin görevlerini huzur ve güven içinde yürütmesi gerektiği belirtilerek hiçbir anlaşmazlığın şiddete dönüşmemesi gerektiği ifade edildi.
 
-Sendika yönetimi, yasanan olayin tüm boyutlariyla aydinlatilmasi ve adli sürecin titizlikle sürdürülmesi talebini paylasti. Ayrica egitim calisanlarinin guvenliginin saglanmasi adina somut tedbirlerin alinmasi gerektigi cagrisi yapildi.
+Sendika yönetimi, yaşanan olayın tüm boyutlarıyla aydınlatılması ve adli sürecin titizlikle sürdürülmesi talebini paylaştı. Ayrıca eğitim çalışanlarının güvenliğinin sağlanması adına somut tedbirlerin alınması gerektiği çağrısı yapıldı.
 
-Açiklamada, ögretmenlere verilebilecek en büyük degerin onlarin yasam haklarina ve onurlarina sahip cikmak oldugu vurgulandi. Türk Egitim-Sen, merhum ögretmenin hatirasinin unutulmayacagini belirterek camianin acisini paylasti.
+Açıklamada, öğretmenlere verilebilecek en büyük değerin onların yaşam haklarına ve onurlarına sahip çıkmak olduğu vurgulandı. Türk Eğitim-Sen, merhum öğretmenin hatırasının unutulmayacağını belirterek camianın acısını paylaştı.

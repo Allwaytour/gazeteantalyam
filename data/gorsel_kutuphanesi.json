@@ -4564,6 +4564,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Turkish_parliament_after_failed_coup_attempt_%281%29.jpg/1280px-Turkish_parliament_after_failed_coup_attempt_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "0537e9ae7474d101": {
+   "ozet": {
+    "dh": "205245849add0020",
+    "sha": "da9391e48c657dd765330803"
+   },
+   "t": "2026-11-23T13:29:56+03:00",
+   "teknik": {
+    "doygunluk": 29.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.983,
+    "keskinlik": 400,
+    "kontrast": 19,
+    "medyan": 2,
+    "parlaklik": 5,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/BGSU_Stargazing.jpg/1280px-BGSU_Stargazing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0573a593bc8486b4": {
    "icerik": {
     "ana_kutu": [
@@ -23278,13 +23299,48 @@
       "yasak": []
      },
      "t": "2026-11-09T15:37:37+03:00"
+    },
+    "r1:74829ed8a01e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patika koşusu yapan sporcuları gösteren, haberin içeriğiyle uyumlu temsilî bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "patika koşusu",
+        "var": true
+       },
+       {
+        "unsur": "koşucular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       200,
+       800,
+       400
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:29:37+03:00"
     }
    },
    "ozet": {
     "dh": "03134747535f1f3f",
     "sha": "1420b8ddcc8268b07cc779a9"
    },
-   "t": "2026-11-09T15:37:37+03:00",
+   "t": "2026-11-23T13:29:37+03:00",
    "teknik": {
     "doygunluk": 31.8,
     "inen": [
@@ -27353,6 +27409,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweig_Airport_Turkish_Flight_Inspection_Cessna_700_Citation_Longitude_D-BDHM_%28DSC08055%29.jpg/1280px-Braunschweig_Airport_Turkish_Flight_Inspection_Cessna_700_Citation_Longitude_D-BDHM_%28DSC08055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "22417f1a3f9ab362": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuval",
+     "boya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi ve sarı tonlarında dokulu soyut tablo yüzeyi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "resim sergisi",
+     "atölye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2de30af9be1d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dokulu tablo atölyesi haberi için uygun bir tuval ve boya görselidir.",
+      "gerekli": [
+       {
+        "unsur": "tuval",
+        "var": true
+       },
+       {
+        "unsur": "boya",
+        "var": true
+       },
+       {
+        "unsur": "fırça",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:33:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b4b2f8fab2b3f6b",
+    "sha": "2c86b8313e4a1efffbe6e5fa"
+   },
+   "t": "2026-11-23T13:33:25+03:00",
+   "teknik": {
+    "doygunluk": 40.5,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.001,
+    "keskinlik": 1720,
+    "kontrast": 32,
+    "medyan": 149,
+    "parlaklik": 150,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1768797054386-436ae26a221f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8dGV4dHVyZWQlMjBjYW52YXMlMjBwYWludGluZyUyMGFydHxlbnwxfDB8fHwxNzk1NDI5OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "226bc59d1be712a4": {
    "icerik": {
@@ -33640,13 +33795,48 @@
       "yasak": []
      },
      "t": "2026-11-09T15:37:24+03:00"
+    },
+    "r1:74829ed8a01e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patika koşusu görseli ancak 2011 tarihli ve Türkiye dışı bir coğrafyayı yansıttığı için yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "patika koşusu",
+        "var": true
+       },
+       {
+        "unsur": "koşucular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       420,
+       550,
+       980,
+       700
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:29:37+03:00"
     }
    },
    "ozet": {
     "dh": "c3c0f0b4e4d06971",
     "sha": "5ea7e9066b693df2807083fc"
    },
-   "t": "2026-11-09T15:37:37+03:00",
+   "t": "2026-11-23T13:29:37+03:00",
    "teknik": {
     "doygunluk": 49.5,
     "inen": [
@@ -51512,6 +51702,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.tiff/lossy-page1-1280px-It%E2%80%99s_a_car%21_It%E2%80%99s_a_train%21_No%2C_it%E2%80%99s_Jupiter%21_%28potw2146a%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "4212869adcc83767": {
+   "ozet": {
+    "dh": "88c6ce4b69925600",
+    "sha": "b6454e619512a76a2d4ef15e"
+   },
+   "t": "2026-11-23T13:32:56+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     44
+    ],
+    "karanlik_oran": 0.225,
+    "keskinlik": 5985,
+    "kontrast": 103,
+    "medyan": 255,
+    "parlaklik": 176,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Acrylic_Brush_typeface_sample.png/1280px-Acrylic_Brush_typeface_sample.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "421fca57757df506": {
    "icerik": {
     "ana_kutu": [
@@ -65470,6 +65681,105 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Turkish_parliament_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "553231262a66e6e7": {
+   "icerik": {
+    "ana_kutu": [
+     152,
+     178,
+     840,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "boya paleti",
+     "boya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde renkli boyalar bulunan ahşap resim paleti",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "resim kursu",
+     "atölye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2de30af9be1d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tablo atölyesi için kullanılan boya paleti temaya uygundur.",
+      "gerekli": [
+       {
+        "unsur": "tuval",
+        "var": false
+       },
+       {
+        "unsur": "boya",
+        "var": true
+       },
+       {
+        "unsur": "fırça",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       152,
+       178,
+       840,
+       874
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:33:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8f33253170590383",
+    "sha": "c980c1b268f67a44acc4aa79"
+   },
+   "t": "2026-11-23T13:33:25+03:00",
+   "teknik": {
+    "doygunluk": 33.0,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.094,
+    "keskinlik": 1180,
+    "kontrast": 58,
+    "medyan": 124,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1693514771654-8c63a6d5ac3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8YXJ0aXN0JTIwY2FudmFzJTIwc3BhdHVsYSUyMHBhbGV0dGV8ZW58MXwwfHx8MTc5NTQyOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "553473327ba3cc1f": {
    "icerik": {
     "ana_kutu": [
@@ -72246,6 +72556,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Antalya._View_of_the_rocks_and_th_sea_near_the_H%C4%B1d%C4%B1rl%C4%B1k_Tower.jpg/1280px-Antalya._View_of_the_rocks_and_th_sea_near_the_H%C4%B1d%C4%B1rl%C4%B1k_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5e352fc291b03022": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": true,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "yıldız",
+     "bulutsu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yıldızlar ve bulutsu görünümü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "astronomi haberi",
+     "uzay haberi",
+     "bilim haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "günlük yaşam",
+     "siyaset",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:922728d572e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Uzay ve yıldızları gösteriyor fakat teleskop ve gözlem ortamı yok.",
+      "gerekli": [
+       {
+        "unsur": "gece gökyüzü",
+        "var": true
+       },
+       {
+        "unsur": "teleskop",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:30:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c4809a2642d3f175",
+    "sha": "ef72985b5c0f6e1a39b3d0b2"
+   },
+   "t": "2026-11-23T13:30:14+03:00",
+   "teknik": {
+    "doygunluk": 35.2,
+    "inen": [
+     500,
+     500
+    ],
+    "karanlik_oran": 0.282,
+    "keskinlik": 481,
+    "kontrast": 41,
+    "medyan": 76,
+    "parlaklik": 80,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carved_by_Massive_Stars.jpg/1280px-Carved_by_Massive_Stars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5e86dda4b3bad27f": {
    "icerik": {
     "ana_kutu": [
@@ -74865,6 +75265,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:922728d572e1:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geniş uydu görüntüsünde Antalya Havalimanı görünüyor ancak gökyüzü gözlem etkinliğiyle veya teleskopla ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "teleskop",
+        "var": false
+       },
+       {
+        "unsur": "gece gökyüzü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:30:02+03:00"
+    },
     "r1:ecbca9e5fdc8:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -74921,7 +75351,7 @@
     "dh": "99d2e6cf2f739b07",
     "sha": "192a4e1c8799df516382dcbe"
    },
-   "t": "2026-11-23T11:07:39+03:00",
+   "t": "2026-11-23T13:30:02+03:00",
    "teknik": {
     "doygunluk": 10.8,
     "inen": [
@@ -90171,6 +90601,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg/1280px-EUPHORIA_PALM_BEACH_5_%282015%29_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "7657c9147022a7d2": {
+   "ozet": {
+    "dh": "392b469397064607",
+    "sha": "be058221a414167e95e305cc"
+   },
+   "t": "2026-11-23T13:30:10+03:00",
+   "teknik": {
+    "doygunluk": 29.1,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.808,
+    "keskinlik": 794,
+    "kontrast": 69,
+    "medyan": 6,
+    "parlaklik": 39,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/White_House_Astronomy_Night_on_October_19%2C_2015.jpg/1280px-White_House_Astronomy_Night_on_October_19%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "766239e83d57a8a2": {
    "icerik": {
     "ana_kutu": [
@@ -105179,6 +105630,27 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Torero_stadium_soccer_game.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "89b700b8cf9a6534": {
+   "ozet": {
+    "dh": "0e0f0f16b682c6c7",
+    "sha": "32481668a23dd3296f489eca"
+   },
+   "t": "2026-11-23T13:30:10+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     500,
+     289
+    ],
+    "karanlik_oran": 0.506,
+    "keskinlik": 1332,
+    "kontrast": 43,
+    "medyan": 49,
+    "parlaklik": 63,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tarantula_Nebula_by_JWST.jpg/1280px-Tarantula_Nebula_by_JWST.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "89c1b9117082193b": {
    "icerik": {
     "ana_kutu": [
@@ -119287,6 +119759,105 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Alada%C4%9Flar_Mountains.jpg/1280px-Alada%C4%9Flar_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "9c5ddeacd8994c85": {
+   "icerik": {
+    "ana_kutu": [
+     113,
+     98,
+     804,
+     888
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "boya paleti",
+     "boya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Üzerinde renkli boyalar olan ahşap resim paleti",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "resim kursu",
+     "atölye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2de30af9be1d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atölye haberi için boya içeren palet görseli tematik olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "tuval",
+        "var": false
+       },
+       {
+        "unsur": "boya",
+        "var": true
+       },
+       {
+        "unsur": "fırça",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       113,
+       98,
+       804,
+       888
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:33:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cdc6d1c8e195ce8f",
+    "sha": "55bd719cd1e400c4b762ac5f"
+   },
+   "t": "2026-11-23T13:33:25+03:00",
+   "teknik": {
+    "doygunluk": 42.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.083,
+    "keskinlik": 3309,
+    "kontrast": 48,
+    "medyan": 116,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1702872842121-1937f2a80b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8YXJ0aXN0JTIwY2FudmFzJTIwc3BhdHVsYSUyMHBhbGV0dGV8ZW58MXwwfHx8MTc5NTQyOTk3NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "9ca286d92c64238c": {
    "icerik": {
     "ana_kutu": null,
@@ -121483,6 +122054,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fruits-on-Atwalter-Market_Montreal-Canada.jpg/1280px-Fruits-on-Atwalter-Market_Montreal-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "a0c2fe8a1349b659": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuval",
+     "boya"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mor ve kahverengi tonlarında dokulu bir tablonun kenar kesiti",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sanat haberi",
+     "resim sergisi",
+     "atölye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:2de30af9be1d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dokulu tablo atölyesini temsil eden uygun bir tuval kesiti görselidir.",
+      "gerekli": [
+       {
+        "unsur": "tuval",
+        "var": true
+       },
+       {
+        "unsur": "boya",
+        "var": true
+       },
+       {
+        "unsur": "fırça",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:33:25+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "cd8be3773f1e0c14",
+    "sha": "3f53122c34811bfb99f71e3a"
+   },
+   "t": "2026-11-23T13:33:25+03:00",
+   "teknik": {
+    "doygunluk": 13.1,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 211,
+    "kontrast": 47,
+    "medyan": 132,
+    "parlaklik": 143,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1775026880807-97d4d9585bf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8dGV4dHVyZWQlMjBjYW52YXMlMjBwYWludGluZyUyMGFydHxlbnwxfDB8fHwxNzk1NDI5OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "a0c4fa6780628c11": {
    "icerik": {
@@ -124983,6 +125653,36 @@
      },
      "t": "2026-11-21T19:31:27+03:00"
     },
+    "r1:922728d572e1:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf uzaydan çekilmiş Antalya körfezi manzarasını gösteriyor, gözlem etkinliği veya teleskop içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "teleskop",
+        "var": false
+       },
+       {
+        "unsur": "gece gökyüzü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:30:02+03:00"
+    },
     "r1:ecbca9e5fdc8:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -125009,7 +125709,7 @@
     "dh": "ccc61d355cccd1d2",
     "sha": "0dcf59c18e9529de22ab2a51"
    },
-   "t": "2026-11-23T11:07:39+03:00",
+   "t": "2026-11-23T13:30:02+03:00",
    "teknik": {
     "doygunluk": 34.2,
     "inen": [
@@ -126134,13 +126834,48 @@
       "yasak": []
      },
      "t": "2026-11-09T15:37:24+03:00"
+    },
+    "r1:74829ed8a01e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patika koşusu görseli ancak 2011 tarihli ve Türkiye dışı bir coğrafyayı yansıttığı için yanıltıcı olabilir.",
+      "gerekli": [
+       {
+        "unsur": "patika koşusu",
+        "var": true
+       },
+       {
+        "unsur": "koşucular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       270,
+       450,
+       830,
+       580
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:29:37+03:00"
     }
    },
    "ozet": {
     "dh": "3f8ed31710c9183f",
     "sha": "78bf0bc101f314ffc11006e2"
    },
-   "t": "2026-11-09T15:37:37+03:00",
+   "t": "2026-11-23T13:29:37+03:00",
    "teknik": {
     "doygunluk": 32.9,
     "inen": [
@@ -130030,6 +130765,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Drag_Racing_Cars.jpg/1280px-Drag_Racing_Cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ae04d50f8253841a": {
+   "ozet": {
+    "dh": "7263c91965cd3963",
+    "sha": "9e5f6fe2cd39e82e3c570f89"
+   },
+   "t": "2026-11-23T13:32:56+03:00",
+   "teknik": {
+    "doygunluk": 30.9,
+    "inen": [
+     500,
+     390
+    ],
+    "karanlik_oran": 0.439,
+    "keskinlik": 309,
+    "kontrast": 75,
+    "medyan": 54,
+    "parlaklik": 88,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Gesso_acrylic_brush.jpg/1280px-Gesso_acrylic_brush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ae0a702911bf063f": {
    "icerik": {
     "ana_kutu": [
@@ -130787,6 +131543,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mehmet_Fatih_Kac%C4%B1r.jpg/1280px-Mehmet_Fatih_Kac%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "aeac7ae77c08c1b3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kaya",
+     "yıldız",
+     "galaksi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Karanlıkta kayalar ve üzerindeki Samanyolu galaksisi manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "astronomi haberi",
+     "gökyüzü gözlemi",
+     "uzay haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset haberi",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:922728d572e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gece gökyüzünü göstermektedir ancak teleskop unsuru eksiktir.",
+      "gerekli": [
+       {
+        "unsur": "gece gökyüzü",
+        "var": true
+       },
+       {
+        "unsur": "teleskop",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:30:14+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "131f1f3f1e171303",
+    "sha": "322d49b0a6fc2dfb8f74d798"
+   },
+   "t": "2026-11-23T13:30:14+03:00",
+   "teknik": {
+    "doygunluk": 33.3,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.444,
+    "keskinlik": 1660,
+    "kontrast": 35,
+    "medyan": 55,
+    "parlaklik": 58,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Moai_Stargazing_at_Ahu_Tongariki%2C_Easter_Island.jpg/1280px-Moai_Stargazing_at_Ahu_Tongariki%2C_Easter_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "aeb6d484b4b1fd9c": {
    "icerik": {
@@ -141399,13 +142246,48 @@
       "yasak": []
      },
      "t": "2026-11-09T15:37:37+03:00"
+    },
+    "r1:74829ed8a01e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Patika koşusunu temsil eden, genel kullanıma uygun bir görsel.",
+      "gerekli": [
+       {
+        "unsur": "patika koşusu",
+        "var": true
+       },
+       {
+        "unsur": "koşucular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       100,
+       1000,
+       800
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-23T13:29:37+03:00"
     }
    },
    "ozet": {
     "dh": "65456d4d9333ca32",
     "sha": "ca46104939262041a503ffd8"
    },
-   "t": "2026-11-09T15:37:37+03:00",
+   "t": "2026-11-23T13:29:37+03:00",
    "teknik": {
     "doygunluk": 36.3,
     "inen": [
@@ -156429,6 +157311,113 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chamber_of_Commerce_-_Kavala.jpg/1280px-Chamber_of_Commerce_-_Kavala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "ce3fa856c4221a48": {
+   "icerik": {
+    "ana_kutu": [
+     67,
+     240,
+     1000,
+     981
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "kamera",
+     "kamera tripodu",
+     "duvar saati"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alanda iki kişi konuşuyor, yanlarında kamera ekipmanı var.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "röportaj",
+     "bilim söyleşisi",
+     "televizyon programı"
+    ],
+    "uygunsuz_baglamlar": [
+     "gökyüzü gözlemi",
+     "astronomi",
+     "açık hava etkinliği"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      308,
+      290,
+      529,
+      442
+     ],
+     [
+      70,
+      755,
+      663,
+      903
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:922728d572e1:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf kapalı alanda çekilmiş bir röportajı gösteriyor, gökyüzü gözlem etkinliğiyle ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "teleskop",
+        "var": false
+       },
+       {
+        "unsur": "gece gökyüzü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "gündüz",
+       "kapalı alan"
+      ]
+     },
+     "t": "2026-11-23T13:30:02+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3c1dcca495949485",
+    "sha": "9066694ac16718687bf2b488"
+   },
+   "t": "2026-11-23T13:30:02+03:00",
+   "teknik": {
+    "doygunluk": 33.8,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.352,
+    "keskinlik": 721,
+    "kontrast": 58,
+    "medyan": 94,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Stargazing_Live_Interviews_Dr._John_Mather_about_the_James_Webb_Space_Telescope_%288170049234%29.jpg/1280px-BBC_Stargazing_Live_Interviews_Dr._John_Mather_about_the_James_Webb_Space_Telescope_%288170049234%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "ce471bacffabcbd5": {
    "icerik": {
     "ana_kutu": [
@@ -159356,6 +160345,27 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Side_Belediyesi%2C_Side-Manavgat-Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "d3f67f1961bbe18d": {
+   "ozet": {
+    "dh": "000002195b638111",
+    "sha": "698aa73a25113acdd1b5631a"
+   },
+   "t": "2026-11-23T13:30:10+03:00",
+   "teknik": {
+    "doygunluk": 34.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.497,
+    "keskinlik": 814,
+    "kontrast": 53,
+    "medyan": 50,
+    "parlaklik": 66,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1771186936809-2062199b7f22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bmlnaHQlMjBza3klMjB0ZWxlc2NvcGUlMjBvdXRkb29yc3xlbnwxfDB8fHwxNzk1NDI5ODA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "d44782a5fc0a0594": {
    "icerik": {
@@ -193293,7 +194303,7 @@
    "gosterim_ad": "patika koşusu",
    "ilk_kabul": "2026-11-09T15:37:37+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Markus Spiske / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -193333,7 +194343,7 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-09T15:37:37+03:00",
+   "son_kabul": "2026-11-23T13:29:37+03:00",
    "url": "https://images.unsplash.com/photo-1652161413302-9b48a8c0f24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8dHJhaWwlMjBydW5uaW5nJTIwcmFjZXxlbnwxfDB8fHwxNzk0MjI3ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
@@ -193602,6 +194612,65 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Han_Zheng_%2855309839831%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "22417f1a3f9ab362": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5568,
+    3712
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Mavi ve sarı tonlarında dokulu soyut tablo yüzeyi",
+   "gosterim_ad": "dokulu tablo atölyesi",
+   "ilk_kabul": "2026-11-23T13:33:25+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Nathan Broadbent / Unsplash",
+    "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
+    "dayanak": "https://unsplash.com/license",
+    "kaynak": "Unsplash",
+    "lisans": "Unsplash Lisansı",
+    "sahibi": "Nathan Broadbent",
+    "sayfa": "https://unsplash.com/photos/abstract-textured-painting-with-blue-and-yellow-strokes-DkO2Isk9tjo"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "boya",
+    "tuval"
+   ],
+   "kucuk": "https://images.unsplash.com/photo-1768797054386-436ae26a221f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8dGV4dHVyZWQlMjBjYW52YXMlMjBwYWludGluZyUyMGFydHxlbnwxfDB8fHwxNzk1NDI5OTc0fDA&ixlib=rb-4.1.0&q=80&w=400",
+   "kullanilabilir": [
+    "sanat haberi",
+    "resim sergisi",
+    "atölye haberi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "nesne_urun",
+   "sinif": "konu",
+   "son_kabul": "2026-11-23T13:33:25+03:00",
+   "url": "https://images.unsplash.com/photo-1768797054386-436ae26a221f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8dGV4dHVyZWQlMjBjYW52YXMlMjBwYWludGluZyUyMGFydHxlbnwxfDB8fHwxNzk1NDI5OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
     "detay"
    ],
    "yalniz_ayni_olay": false
