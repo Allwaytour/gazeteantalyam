@@ -177,6 +177,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Concert_Hall%2C_Severance_Hall%2C_University_Circle%2C_Cleveland%2C_OH_-_52992138979.jpg/1280px-Concert_Hall%2C_Severance_Hall%2C_University_Circle%2C_Cleveland%2C_OH_-_52992138979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "003dc0a82270d1ef": {
+   "icerik": {
+    "ana_kutu": [
+     172,
+     0,
+     961,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "su borusu",
+     "ağaç",
+     "tepe",
+     "arazi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal alanda uzanan devasa su boru hatları",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "su yatırımı",
+     "baraj projesi",
+     "altyapı yatırımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "siyaset haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Türkiye'de çekilmiş devasa su boru hatlarını gösterdiği için içme suyu ve altyapı yatırımı haberine oldukça uygundur.",
+      "gerekli": [
+       {
+        "unsur": "altyapı çalışması",
+        "var": false
+       },
+       {
+        "unsur": "boru hattı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       172,
+       0,
+       961,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c3abdc33ccd6cecc",
+    "sha": "72edebfbf5ec241f8345d193"
+   },
+   "t": "2026-11-24T13:08:38+03:00",
+   "teknik": {
+    "doygunluk": 23.6,
+    "inen": [
+     500,
+     316
+    ],
+    "karanlik_oran": 0.18,
+    "keskinlik": 2552,
+    "kontrast": 58,
+    "medyan": 92,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg/1280px-Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "004a82d21194a5af": {
    "icerik": {
     "ana_kutu": [
@@ -37076,6 +37172,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:4972b8b8dcb3:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki askeri füzedir; altyapı yatırımı yapan belediye kurumuyla isim benzerliği dışında bağı yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:12+03:00"
+    },
     "r1:a8fa3f256a19:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -37162,7 +37279,7 @@
     "dh": "c4c1433630f38717",
     "sha": "32aee092b5c6207cfc626973"
    },
-   "t": "2026-11-19T12:59:57+03:00",
+   "t": "2026-11-24T13:08:12+03:00",
    "teknik": {
     "doygunluk": 26.4,
     "inen": [
@@ -47656,6 +47773,96 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/PaviljoenParijs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "3b390946dd87cfbf": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     220,
+     800,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "kale",
+     "sur",
+     "turk bayragi",
+     "tepe"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tepede yer alan tarihi kale ve surlar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "tarihi yapi haberi",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapi calismasi",
+     "kanalizasyon projesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Demre'deki bir kaleyi gosteriyor ancak yatirim veya altyapi calismasi yer almiyor.",
+      "gerekli": [
+       {
+        "unsur": "altyapi calismasi",
+        "var": false
+       },
+       {
+        "unsur": "boru hatti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c03060c3884e8393",
+    "sha": "7dec2e82e33378063bb6e425"
+   },
+   "t": "2026-11-24T13:08:17+03:00",
+   "teknik": {
+    "doygunluk": 27.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.135,
+    "keskinlik": 1737,
+    "kontrast": 54,
+    "medyan": 163,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/07570_Kale%C3%BC%C3%A7a%C4%9F%C4%B1z-Demre-Antalya%2C_Turkey_-_panoramio_%281%29.jpg/1280px-07570_Kale%C3%BC%C3%A7a%C4%9F%C4%B1z-Demre-Antalya%2C_Turkey_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3b45d0d1f03afe99": {
    "icerik": {
     "ana_kutu": [
@@ -50734,6 +50941,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Adana_Demirspor_vs_Antalyaspor_20220225_5.jpg/1280px-Adana_Demirspor_vs_Antalyaspor_20220225_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3fdcb6aca805a347": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sahil yolu",
+     "deniz",
+     "araba",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kıyısında kıvrılan sahil yolu ve masmavi deniz",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "tatil haberi",
+     "ulaşım haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapı çalışması",
+     "kanalizasyon projesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf altyapı çalışması veya boru hattı içermiyor, sadece sahil yolu ve deniz manzarasını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "altyapı çalışması",
+        "var": false
+       },
+       {
+        "unsur": "boru hattı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "450701c9c3838307",
+    "sha": "d02183bf7f5467a0e1d59441"
+   },
+   "t": "2026-11-24T13:08:38+03:00",
+   "teknik": {
+    "doygunluk": 71.4,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.272,
+    "keskinlik": 1138,
+    "kontrast": 57,
+    "medyan": 84,
+    "parlaklik": 95,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1689130033373-2773b6029aea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8d2F0ZXIlMjBwaXBlbGluZSUyMGNvbnN0cnVjdGlvbiUyMFR1cmtleXxlbnwxfDB8fHwxNzk1NTE0ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "3fe59b63971673ff": {
    "icerik": {
@@ -65113,6 +65411,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/151217-N-XT273-515_%2823197870913%29.jpg/1280px-151217-N-XT273-515_%2823197870913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "52c957457690f491": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     950,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "gol",
+     "sulak alan",
+     "dag",
+     "agac",
+     "calilik"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sulak alan, yesillikler ve dag manzarasi",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "doga haberi",
+     "cevre"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapi calismasi",
+     "kanalizasyon projesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Demre Cayagzi manzarasi, ancak altyapi yatirimi veya boru hatti calismasi gorunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "altyapi calismasi",
+        "var": false
+       },
+       {
+        "unsur": "boru hatti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f8782e24c0a8e4f4",
+    "sha": "1b722a66f8a9e145ed64fc35"
+   },
+   "t": "2026-11-24T13:08:17+03:00",
+   "teknik": {
+    "doygunluk": 28.6,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.017,
+    "keskinlik": 1366,
+    "kontrast": 52,
+    "medyan": 127,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Demre_%C3%87aya%C4%9Fz%C4%B1.jpg/1280px-Demre_%C3%87aya%C4%9Fz%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "52eeaecf77b9abb9": {
    "icerik": {
@@ -103212,6 +103601,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Interior_seating_area_at_New_York_State_Thruway_Ontario_Service_Area%2C_LeRoy%2C_New_York_-_20210820.jpg/1280px-Interior_seating_area_at_New_York_State_Thruway_Ontario_Service_Area%2C_LeRoy%2C_New_York_-_20210820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "837709506307ca13": {
+   "icerik": {
+    "ana_kutu": [
+     260,
+     0,
+     830,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "şehir manzarası",
+     "seralar",
+     "dağ",
+     "deniz",
+     "bitki örtüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yüksek bir tepeden Demre ilçesinin genel görünümü ve sera alanları.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel yönetim haberleri",
+     "şehir tanıtımı",
+     "Demre yatırımları"
+    ],
+    "uygunsuz_baglamlar": [
+     "maç",
+     "sanat",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin geçtiği Demre ilçesinin genel manzarasını gösterdiği için yerel yatırım haberine uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       260,
+       0,
+       830,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "makam odası"
+      ]
+     },
+     "t": "2026-11-24T13:08:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0000271393d1f57f",
+    "sha": "6a6b03bfba8646a0bef351d6"
+   },
+   "t": "2026-11-24T13:08:12+03:00",
+   "teknik": {
+    "doygunluk": 15.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.055,
+    "keskinlik": 4488,
+    "kontrast": 64,
+    "medyan": 158,
+    "parlaklik": 151,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Demre_town_4135.jpg/1280px-Demre_town_4135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "837947be6da23922": {
    "ozet": {
     "dh": "170f33960f69aa4f",
@@ -105081,6 +105562,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg/1280px-Alt%C4%B1nyaka_15_10_2025_Obstverladung_im_oberen_Alak%C4%B1r_%C3%87ay%C4%B1-Tal_bei_%C3%87ay%C4%B1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "856e8f8373e23b40": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     150,
+     800,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ev",
+     "kale",
+     "deniz",
+     "agac",
+     "tekne"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kenarinda evler ve tepede tarihi kale gorunumu",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "turizm haberi",
+     "yerel tanitim"
+    ],
+    "uygunsuz_baglamlar": [
+     "altyapi calismasi",
+     "boru hatti haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Demre'yi gosterse de altyapi yatirimi ve boru hatti gorunmuyor.",
+      "gerekli": [
+       {
+        "unsur": "altyapi calismasi",
+        "var": false
+       },
+       {
+        "unsur": "boru hatti",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0b4b3439f2b39333",
+    "sha": "3a2898a44987e493d9a351a9"
+   },
+   "t": "2026-11-24T13:08:17+03:00",
+   "teknik": {
+    "doygunluk": 31.5,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 3189,
+    "kontrast": 62,
+    "medyan": 138,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Unnamed_Road%2C_07570_Kale%C3%BC%C3%A7a%C4%9F%C4%B1z-Demre-Antalya%2C_Turkey_-_panoramio_%2814%29.jpg/1280px-Unnamed_Road%2C_07570_Kale%C3%BC%C3%A7a%C4%9F%C4%B1z-Demre-Antalya%2C_Turkey_-_panoramio_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "85a476532f45745e": {
    "icerik": {
     "ana_kutu": [
@@ -105277,6 +105849,107 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg/1280px-J%C3%BCrgen_Klinsmann_signing_autographs_2014_Brazil_%2815096230159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "862c43eb384ffb41": {
+   "icerik": {
+    "ana_kutu": [
+     530,
+     630,
+     670,
+     770
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "mavi boru hattı",
+     "toprak yol",
+     "dağ",
+     "çim alan",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırsal alanda dağ manzarası önünde döşenen mavi boru hattı çalışması.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "altyapı projesi",
+     "su hattı yatırımı",
+     "kırsal hizmetler"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "spor",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Boru hattı ve altyapı çalışmasını gösterir temsilî bir karedir, ancak Türkiye dışında çekilmiştir.",
+      "gerekli": [
+       {
+        "unsur": "altyapı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "boru hattı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       530,
+       630,
+       670,
+       770
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "makam odası"
+      ]
+     },
+     "t": "2026-11-24T13:08:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3fe7e14c07069745",
+    "sha": "29fdadc31797d52448756c04"
+   },
+   "t": "2026-11-24T13:08:12+03:00",
+   "teknik": {
+    "doygunluk": 36.9,
+    "inen": [
+     500,
+     384
+    ],
+    "karanlik_oran": 0.028,
+    "keskinlik": 1491,
+    "kontrast": 58,
+    "medyan": 128,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Water_pipeline_construction_-_geograph.org.uk_-_4596478.jpg/1280px-Water_pipeline_construction_-_geograph.org.uk_-_4596478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "862cf3fc3ed2438b": {
    "icerik": {
@@ -107778,6 +108451,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Turkey_Government_Airbus_A340-542_HGW_TC-CAN_at_JFK_Airport.jpg/1280px-Turkey_Government_Airbus_A340-542_HGW_TC-CAN_at_JFK_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "8a10937cfa8acdc9": {
+   "icerik": {
+    "ana_kutu": [
+     70,
+     15,
+     560,
+     520
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tencere",
+     "alüminyum kap",
+     "maşa",
+     "fiyat tabelası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Bir sokak yemeği tezgahında kaynayan tencere ve fiyat listesi.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sokak lezzetleri",
+     "gastronomi",
+     "yerel pazar"
+    ],
+    "uygunsuz_baglamlar": [
+     "ev ve mutfak eşyaları fuarı",
+     "uluslararası ticaret",
+     "Antalya haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:25d6113e439a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir sokak yemeği tezgahını göstermektedir, Antalya'daki ev ve mutfak eşyaları fuarı ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "fuar alanı",
+        "var": false
+       },
+       {
+        "unsur": "ev ve mutfak eşyaları standı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "sokak eylemi",
+       "spor müsabakası"
+      ]
+     },
+     "t": "2026-11-24T13:07:39+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ba3013c0c71ffce9",
+    "sha": "a5f674dce0c450aa13f9db3b"
+   },
+   "t": "2026-11-24T13:07:39+03:00",
+   "teknik": {
+    "doygunluk": 28.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.09,
+    "keskinlik": 1743,
+    "kontrast": 70,
+    "medyan": 123,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E5%85%AC%E5%9C%92_Victoria_Park_event_%E5%AE%B6%E9%84%89%E5%B8%82%E9%9B%86%E5%98%89%E5%B9%B4%E8%8F%AF_Chinese_Folk_Cultural_Carnival_food_booth_stalls_June_2024_R12S_137.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "8a1750e5e8b72ffd": {
    "icerik": {
@@ -124104,6 +124872,115 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Design_for_a_church_interior_MET_DP206037.jpg/1280px-Design_for_a_church_interior_MET_DP206037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9fab354978898521": {
+   "icerik": {
+    "ana_kutu": [
+     140,
+     95,
+     910,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "baret",
+     "iş kıyafeti",
+     "plastik drenaj bloğu",
+     "toprak zemin"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İnşaat alanında baretli işçiler mavi plastik drenaj bloklarıyla çalışıyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "inşaat haberi",
+     "altyapı projesi",
+     "mühendislik"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi haberi",
+     "makam odası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      171,
+      423,
+      418,
+      548
+     ],
+     [
+      167,
+      595,
+      372,
+      741
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:4972b8b8dcb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Altyapı çalışmasını gösteriyor ancak kaynak açıklamasına göre yurtdışındaki bir askeri tesiste çekilmiş.",
+      "gerekli": [
+       {
+        "unsur": "altyapı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "boru hattı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       95,
+       910,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "47083939921c2a33",
+    "sha": "403c8306a5e819290fc26185"
+   },
+   "t": "2026-11-24T13:08:38+03:00",
+   "teknik": {
+    "doygunluk": 53.6,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.04,
+    "keskinlik": 2289,
+    "kontrast": 64,
+    "medyan": 173,
+    "parlaklik": 169,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Construction_for_runway_extension_underway_121005-F-EJ686-047.jpg/1280px-Construction_for_runway_extension_underway_121005-F-EJ686-047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "9fd6d9c865a7c0a5": {
    "ozet": {
@@ -184584,6 +185461,44 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:4972b8b8dcb3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Altyapı ve boru hattı çalışmalarını gösteren uygun bir temsilî fotoğraftır ancak yabancı bir köyde çekilmiştir.",
+      "gerekli": [
+       {
+        "unsur": "altyapı çalışması",
+        "var": true
+       },
+       {
+        "unsur": "boru hattı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       190,
+       680,
+       1000,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçi",
+       "makam odası"
+      ]
+     },
+     "t": "2026-11-24T13:08:12+03:00"
+    },
     "r1:f3105b9a8e55:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -184624,7 +185539,7 @@
     "dh": "0d0531b3dbb36171",
     "sha": "db03b228f5f1861471fa63fe"
    },
-   "t": "2026-11-08T11:40:13+03:00",
+   "t": "2026-11-24T13:08:12+03:00",
    "teknik": {
     "doygunluk": 23.1,
     "inen": [
@@ -190777,6 +191692,27 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:4972b8b8dcb3:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki ASAT adlı füze sistemidir, Antalya'daki altyapı hizmeti veren kurumla hiçbir ilgisi yoktur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:08:12+03:00"
+    },
     "r1:a8fa3f256a19:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -190863,7 +191799,7 @@
     "dh": "84f45495c1d9f979",
     "sha": "4be527cd41c04b4370ea1416"
    },
-   "t": "2026-11-19T12:59:57+03:00",
+   "t": "2026-11-24T13:08:12+03:00",
    "teknik": {
     "doygunluk": 21.0,
     "inen": [
@@ -197568,6 +198504,67 @@
   }
  },
  "kayitlar": {
+  "003dc0a82270d1ef": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4250,
+    2684
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2016-10-29",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kırsal alanda uzanan devasa su boru hatları",
+   "gosterim_ad": "altyapı yatırımı",
+   "ilk_kabul": "2026-11-24T13:08:38+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Zeynel Cebeci / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Zeynel Cebeci",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Hydro_pipelines_at_%C3%87atalan_Dam,_2016-10-29_01-1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "arazi",
+    "ağaç",
+    "boru hattı",
+    "su borusu",
+    "tepe"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg/500px-Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "su yatırımı",
+    "baraj projesi",
+    "altyapı yatırımı"
+   ],
+   "kullanilamaz": [
+    "spor haberi",
+    "siyaset haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-24T13:08:38+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg/1280px-Hydro_pipelines_at_%C3%87atalan_Dam%2C_2016-10-29_01-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "00db2beb5a2b8d4d": {
    "alt_tur": "nesne",
    "boyut": [
