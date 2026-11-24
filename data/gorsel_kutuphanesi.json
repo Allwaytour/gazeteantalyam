@@ -107147,6 +107147,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Protester_holding_a_sign_with_the_message_%22Have_some_respect_for_mother_Earth%22_at_a_protest_against_climate_change_%2851059186637%29.jpg/1280px-Protester_holding_a_sign_with_the_message_%22Have_some_respect_for_mother_Earth%22_at_a_protest_against_climate_change_%2851059186637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "8941bf592a22d37b": {
+   "icerik": {
+    "ana_kutu": [
+     565,
+     71,
+     856,
+     935
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "sera",
+     "tarım alanı",
+     "ağaç",
+     "dağ"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Açık alanda büyük sera ve arka planda ağaçlık dağlık manzara",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "iklim kriz haberi",
+     "sera üretimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d80c1891b959:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf, tarım ve sera temasını net şekilde yansıtarak haber içeriğine uygun bir temsilî görsel sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": true
+       },
+       {
+        "unsur": "tarım alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       565,
+       71,
+       856,
+       935
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T12:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0005004c1c038f1f",
+    "sha": "a7d5a74a562b161d68686321"
+   },
+   "t": "2026-11-24T12:07:47+03:00",
+   "teknik": {
+    "doygunluk": 29.6,
+    "inen": [
+     500,
+     331
+    ],
+    "karanlik_oran": 0.119,
+    "keskinlik": 3731,
+    "kontrast": 72,
+    "medyan": 147,
+    "parlaklik": 148,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Burdur_%28provincia%29_1998_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "8956948e35f5ee4a": {
    "ozet": {
     "dh": "00d95c19414566b3",
@@ -184192,6 +184289,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/BMW_R1200RT_saobra%C4%87ajna_policija_-_dan_policije_2019_01.jpg/1280px-BMW_R1200RT_saobra%C4%87ajna_policija_-_dan_policije_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "f0d29b62457a0189": {
+   "icerik": {
+    "ana_kutu": [
+     505,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "alçak tünel sera",
+     "tarla",
+     "bulut"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarla üzerinde alçak tünel seralar ve bulutlu gökyüzü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım haberi",
+     "iklim kriz haberi",
+     "bitkisel üretim"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "siyaset haberi",
+     "magazin haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d80c1891b959:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım alanındaki tünel seraları gösterdiği için haberin tarım ve iklim krizi temasına çok uygundur.",
+      "gerekli": [
+       {
+        "unsur": "sera",
+        "var": true
+       },
+       {
+        "unsur": "tarım alanı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       505,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T12:07:47+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c0d1e080100c010",
+    "sha": "40ed12a289f4690f380a1442"
+   },
+   "t": "2026-11-24T12:07:47+03:00",
+   "teknik": {
+    "doygunluk": 25.4,
+    "inen": [
+     500,
+     340
+    ],
+    "karanlik_oran": 0.027,
+    "keskinlik": 1944,
+    "kontrast": 49,
+    "medyan": 151,
+    "parlaklik": 150,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Low_tunnels_for_vegetable_production_03.jpg/1280px-Low_tunnels_for_vegetable_production_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "f0d7d258667b996a": {
    "icerik": {
     "ana_kutu": [
@@ -211573,6 +211766,66 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "f0d29b62457a0189": {
+   "alt_tur": "nesne",
+   "boyut": [
+    2250,
+    1530
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "2015-03-20",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Tarla üzerinde alçak tünel seralar ve bulutlu gökyüzü",
+   "gosterim_ad": "Ziraat Mühendisleri Odası Antalya Şubesi",
+   "ilk_kabul": "2026-11-24T12:07:47+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Zeynel Cebeci / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Zeynel Cebeci",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Low_tunnels_for_vegetable_production_03.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "alçak tünel sera",
+    "bulut",
+    "sera",
+    "tarla",
+    "tarım alanı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Low_tunnels_for_vegetable_production_03.jpg/500px-Low_tunnels_for_vegetable_production_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım haberi",
+    "iklim kriz haberi",
+    "bitkisel üretim"
+   ],
+   "kullanilamaz": [
+    "spor haberi",
+    "siyaset haberi",
+    "magazin haberi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-24T12:07:47+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Low_tunnels_for_vegetable_production_03.jpg/1280px-Low_tunnels_for_vegetable_production_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
     "kart",
     "detay"
    ],
