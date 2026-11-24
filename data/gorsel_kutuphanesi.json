@@ -110176,6 +110176,93 @@
    },
    "url": "https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2VyJTIwbnVjbGVhciUyMGZhY2lsaXR5fGVufDF8MHx8fDE3OTQ1MjQyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "8c80788cc2608e4b": {
+   "icerik": {
+    "ana_kutu": [
+     188,
+     169,
+     839,
+     836
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "aslan",
+     "ağaç",
+     "dal"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaç dallarında dinlenen aslanlar.",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "aslan haberi",
+     "vahşi yaşam",
+     "hayvanat bahçesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:faeac6617b4b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Aslan firari haberi için uygun temsilî vahşi yaşam görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       188,
+       169,
+       839,
+       836
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T11:07:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2504454c29ed6434",
+    "sha": "967ce6204ee51e1f5b7cabd1"
+   },
+   "t": "2026-11-24T11:07:34+03:00",
+   "teknik": {
+    "doygunluk": 36.7,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.396,
+    "keskinlik": 5804,
+    "kontrast": 66,
+    "medyan": 68,
+    "parlaklik": 88,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lake-Nakuru-Lions-in-Tree.JPG/1280px-Lake-Nakuru-Lions-in-Tree.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "8c860df416f637e9": {
    "ozet": {
     "dh": "0a078c6a720e163a",
@@ -205383,6 +205470,66 @@
    "sinif": "konu",
    "son_kabul": "2026-11-08T15:42:05+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Turkish_parliament_after_COVID-19_hiatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "8c80788cc2608e4b": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4110,
+    2725
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2012-08-24",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ağaç dallarında dinlenen aslanlar.",
+   "gosterim_ad": "aslan firari",
+   "ilk_kabul": "2026-11-24T11:07:34+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Bjørn Christian Tørrissen / Wikimedia Commons (CC BY-SA 3.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/3.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 3.0",
+    "sahibi": "Bjørn Christian Tørrissen",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Lake-Nakuru-Lions-in-Tree.JPG"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "aslan",
+    "ağaç",
+    "dal"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lake-Nakuru-Lions-in-Tree.JPG/500px-Lake-Nakuru-Lions-in-Tree.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "aslan haberi",
+    "vahşi yaşam",
+    "hayvanat bahçesi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "ekonomi",
+    "spor"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "manzara",
+   "sinif": "konu",
+   "son_kabul": "2026-11-24T11:07:34+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lake-Nakuru-Lions-in-Tree.JPG/1280px-Lake-Nakuru-Lions-in-Tree.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
