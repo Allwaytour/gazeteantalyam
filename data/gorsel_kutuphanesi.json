@@ -6103,13 +6103,43 @@
       "yasak": []
      },
      "t": "2026-11-11T00:38:05+03:00"
+    },
+    "r1:bbc3ddd2b9b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotografta siyasi tartisma veya toplantidan eser yok, sadece Alanya tabelasi gorunuyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasetci",
+        "var": false
+       },
+       {
+        "unsur": "toplanti ortami",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:38:01+03:00"
     }
    },
    "ozet": {
     "dh": "c86cf1cc8ca1f0c2",
     "sha": "94f1349920af5e2e6ea5b274"
    },
-   "t": "2026-11-11T00:38:05+03:00",
+   "t": "2026-11-24T13:38:19+03:00",
    "teknik": {
     "doygunluk": 32.6,
     "inen": [
@@ -15694,6 +15724,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:009ef264d761:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf plaj voleybolu göstermektedir, futbol maçı haberiyle tamamen uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       },
+       {
+        "unsur": "stadyum tribünü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:39:02+03:00"
+    },
     "r1:085d5d5f9ec6:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -15878,7 +15938,7 @@
     "dh": "c4962429176786d6",
     "sha": "20b950269bc440cb150e4cce"
    },
-   "t": "2026-11-13T13:33:18+03:00",
+   "t": "2026-11-24T13:39:02+03:00",
    "teknik": {
     "doygunluk": 38.6,
     "inen": [
@@ -34114,32 +34174,6 @@
      },
      "t": "2026-11-20T22:00:19+03:00"
     },
-    "r1:4787df5c213e:yer": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber akademisyenin konsey uyeligiyledir; kruvaziyer gemisi gorseli uygun degildir.",
-      "gerekli": [
-       {
-        "unsur": "doktor portresi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-13T16:05:29+03:00"
-    },
     "r1:4bc10a33034b:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -34191,6 +34225,36 @@
       "yasak": []
      },
      "t": "2026-11-14T14:40:00+03:00"
+    },
+    "r1:bbc3ddd2b9b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi tartışma ile ilgili, görsel ise bir yolcu gemisi; konuyla hiçbir bağı yok.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "toplantı ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:37:43+03:00"
     },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
@@ -34311,7 +34375,7 @@
     "dh": "0024539b1f1b9b1b",
     "sha": "b12139c2ffdf702176ea3535"
    },
-   "t": "2026-11-24T13:19:31+03:00",
+   "t": "2026-11-24T13:37:43+03:00",
    "teknik": {
     "doygunluk": 32.7,
     "inen": [
@@ -68761,6 +68825,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:009ef264d761:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis fotoğrafı futbol maçı ve darp olayı haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       },
+       {
+        "unsur": "stadyum tribünü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:39:02+03:00"
+    },
     "r1:0e65a492a087:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -68855,7 +68949,7 @@
     "dh": "038b878f5597391c",
     "sha": "1bc780446eef38aa85b03efa"
    },
-   "t": "2026-11-17T22:45:49+03:00",
+   "t": "2026-11-24T13:39:02+03:00",
    "teknik": {
     "doygunluk": 37.9,
     "inen": [
@@ -92573,6 +92667,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:009ef264d761:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tesis fotoğrafı futbol maçı ve darp haberiyle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       },
+       {
+        "unsur": "stadyum tribünü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:39:02+03:00"
+    },
     "r1:0e65a492a087:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -92656,7 +92780,7 @@
     "dh": "87179b0907874759",
     "sha": "0f3ffaf3661eabe8b3bdb080"
    },
-   "t": "2026-11-20T11:29:31+03:00",
+   "t": "2026-11-24T13:39:02+03:00",
    "teknik": {
     "doygunluk": 44.7,
     "inen": [
@@ -96969,6 +97093,99 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Deloitte_Lanyards_%287297257896%29.jpg/1280px-Deloitte_Lanyards_%287297257896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "7d6202d31f13144b": {
+   "icerik": {
+    "ana_kutu": [
+     173,
+     0,
+     999,
+     999
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "liman",
+     "tekne",
+     "dağ",
+     "sahil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Alanya genel görünümü, sahil şeridi, binalar, liman ve dağlar",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya şehir haberleri",
+     "turizm haberleri",
+     "yerel yönetim genel bakış"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi tartışma",
+     "meclis toplantısı",
+     "röportaj"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:bbc3ddd2b9b5:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber Alanya'daki siyasi tartışmalarla ilgili ancak fotoğrafta siyasetçi veya toplantı ortamı yok, sadece şehir manzarası var.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "toplantı ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:38:19+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6104000ae8e1b129",
+    "sha": "89de9c520725215efd8e3089"
+   },
+   "t": "2026-11-24T13:38:19+03:00",
+   "teknik": {
+    "doygunluk": 25.3,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.148,
+    "keskinlik": 1919,
+    "kontrast": 56,
+    "medyan": 121,
+    "parlaklik": 116,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1752497632802-142a0f9ea594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QWxhbnlhJTIwdG93biUyMHN0cmVldCUyMHNpZ258ZW58MXwwfHx8MTc5NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "7d7a8b32d0e08d37": {
    "icerik": {
@@ -101387,19 +101604,19 @@
      },
      "t": "2026-11-19T14:28:01+03:00"
     },
-    "r1:b52ed87588f6:ozne_kurum": {
+    "r1:bbc3ddd2b9b5:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
+      "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Parasailing yapan bir kişinin fotoğrafı engelsiz otel dönemi haberiyle tamamen ilgisizdir.",
+      "gerekce": "Haberin konusu siyasi tartışma, görsel ise turistik bir aktiviteyi gösteriyor; konuyla ilgisiz.",
       "gerekli": [
        {
-        "unsur": "engelsiz otel odası",
+        "unsur": "siyasetçi",
         "var": false
        },
        {
-        "unsur": "tekerlekli sandalye uyumlu alan",
+        "unsur": "toplantı ortamı",
         "var": false
        }
       ],
@@ -101415,7 +101632,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-12T18:03:37+03:00"
+     "t": "2026-11-24T13:37:43+03:00"
     },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
@@ -101561,7 +101778,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-24T13:19:31+03:00",
+   "t": "2026-11-24T13:37:43+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -123692,6 +123909,36 @@
      },
      "t": "2026-11-12T18:03:37+03:00"
     },
+    "r1:bbc3ddd2b9b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi tartışma içeriyor, görsel ise sadece genel bir şehir manzarası sunuyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "toplantı ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:37:43+03:00"
+    },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -123746,37 +123993,6 @@
       "yasak": []
      },
      "t": "2026-11-20T17:01:58+03:00"
-    },
-    "r1:eb81c6270c9f:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'nın genel şehir ve bina yapısını gösteren panoramik hava fotoğrafı, konut satışı haberi için uygundur.",
-      "gerekli": [
-       {
-        "unsur": "konut, site veya bina",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       150,
-       0,
-       1000,
-       1000
-      ],
-      "olay_gorunuyor": true,
-      "uygunluk": 10,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T00:10:33+03:00"
     },
     "r1:fea13cc7fd0b:yer": {
      "d": {
@@ -123842,7 +124058,7 @@
     "dh": "21490c3d59cf9c59",
     "sha": "9f73b71f5bb98ab0c8ea4d84"
    },
-   "t": "2026-11-24T13:19:31+03:00",
+   "t": "2026-11-24T13:37:43+03:00",
    "teknik": {
     "doygunluk": 55.8,
     "inen": [
@@ -136725,6 +136941,36 @@
     ]
    },
    "iliski": {
+    "r1:009ef264d761:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki spor dalı pickleball'dur, futbol maçı haberiyle uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "futbol sahası",
+        "var": false
+       },
+       {
+        "unsur": "stadyum tribünü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:39:02+03:00"
+    },
     "r1:085d5d5f9ec6:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -136989,7 +137235,7 @@
     "dh": "5200307449e96263",
     "sha": "9269770cbb198101a3cdb138"
    },
-   "t": "2026-11-23T11:06:38+03:00",
+   "t": "2026-11-24T13:39:02+03:00",
    "teknik": {
     "doygunluk": 34.5,
     "inen": [
@@ -142358,6 +142604,38 @@
      },
      "t": "2026-11-12T18:03:37+03:00"
     },
+    "r1:bbc3ddd2b9b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi tartışma, görsel ise plaj voleybolu maçı. Yasaklı unsur (maç) içeriyor.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "toplantı ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": true,
+      "yanlis_takim": false,
+      "yasak": [
+       "maç"
+      ]
+     },
+     "t": "2026-11-24T13:37:43+03:00"
+    },
     "r1:d14cc213345b:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -142463,44 +142741,13 @@
       "yasak": []
      },
      "t": "2026-11-12T00:10:33+03:00"
-    },
-    "r1:f2bac7133776:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "2006 yılına ait bir voleybol maçı karesi, güncel turizm rekoru haberi için yanıltıcıdır.",
-      "gerekli": [
-       {
-        "unsur": "Alanya sahili veya turistik bölge",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       220,
-       200,
-       850,
-       800
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": true,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": true,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T18:03:22+03:00"
     }
    },
    "ozet": {
     "dh": "79db434d9d79979a",
     "sha": "6292b5e476fbcb16353f02a1"
    },
-   "t": "2026-11-24T13:19:31+03:00",
+   "t": "2026-11-24T13:37:43+03:00",
    "teknik": {
     "doygunluk": 29.7,
     "inen": [
@@ -171077,6 +171324,36 @@
      },
      "t": "2026-11-19T14:28:01+03:00"
     },
+    "r1:bbc3ddd2b9b5:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber siyasi tartışma içeriyor, ancak görsel sadece turistik bir manzara sunuyor, siyasetçi veya toplantı yok.",
+      "gerekli": [
+       {
+        "unsur": "siyasetçi",
+        "var": false
+       },
+       {
+        "unsur": "toplantı ortamı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T13:37:43+03:00"
+    },
     "r1:d5e37351ff15:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -171116,7 +171393,7 @@
     "dh": "3158c978e4135345",
     "sha": "c7b0f8e9bcf07a3a3415ff24"
    },
-   "t": "2026-11-24T13:19:31+03:00",
+   "t": "2026-11-24T13:37:43+03:00",
    "teknik": {
     "doygunluk": 23.5,
     "inen": [
