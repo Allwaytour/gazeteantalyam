@@ -10748,35 +10748,6 @@
      },
      "t": "2026-11-21T20:31:26+03:00"
     },
-    "r1:3c36eb2c6a9f:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğrafta hastane yerine konut binaları yer alıyor; konuyla uyuşmuyor.",
-      "gerekli": [
-       {
-        "unsur": "hastane binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "can kaybı",
-       "ameliyathane"
-      ]
-     },
-     "t": "2026-11-17T14:54:15+03:00"
-    },
     "r1:4e54b4452834:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10940,6 +10911,32 @@
      },
      "t": "2026-11-21T11:01:16+03:00"
     },
+    "r1:ab5549aa90f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotografta universite binasi degil, konut binalari gorunmektedir, haberle ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "universite binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T12:37:43+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -11004,7 +11001,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-23T16:06:08+03:00",
+   "t": "2026-11-24T12:37:48+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -137526,6 +137523,32 @@
      },
      "t": "2026-11-20T20:01:40+03:00"
     },
+    "r1:ab5549aa90f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bir universitenin akilli ulasim platformuna katilmasiyle ilgilidir; fotografta ise yangin ve itfaiyeci gorulmektedir.",
+      "gerekli": [
+       {
+        "unsur": "universite binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T12:37:48+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -137579,42 +137602,13 @@
       ]
      },
      "t": "2026-11-23T14:08:59+03:00"
-    },
-    "r1:f07bc0b945c0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Görüntüdeki bina hastane değil yanan bir apartmandır, sağlık sorunları haberiyle tamamen alakasızdır.",
-      "gerekli": [
-       {
-        "unsur": "hastane binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetci portresi",
-       "meclis salonu"
-      ]
-     },
-     "t": "2026-11-17T13:38:05+03:00"
     }
    },
    "ozet": {
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-23T16:06:08+03:00",
+   "t": "2026-11-24T12:37:48+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -139715,6 +139709,37 @@
      },
      "t": "2026-11-20T20:01:40+03:00"
     },
+    "r1:ab5549aa90f8:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotograf modern bir bina cephesini gosterir, universite haberi icin temsilî bina gorseli olarak uygundur.",
+      "gerekli": [
+       {
+        "unsur": "universite binasi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-24T12:37:48+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -139771,42 +139796,13 @@
       "yasak": []
      },
      "t": "2026-11-23T14:08:59+03:00"
-    },
-    "r1:f07bc0b945c0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf Antalya'daki hastane binası yerine soyut bir bina cephesini göstermektedir.",
-      "gerekli": [
-       {
-        "unsur": "hastane binasi",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "siyasetci portresi",
-       "meclis salonu"
-      ]
-     },
-     "t": "2026-11-17T13:38:57+03:00"
     }
    },
    "ozet": {
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-23T14:08:59+03:00",
+   "t": "2026-11-24T12:37:48+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -208695,7 +208691,7 @@
    "gosterim_ad": "genel merkez binası",
    "ilk_kabul": "2026-11-12T03:57:03+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 5,
+   "kabul_sayisi": 6,
    "kaynak": {
     "atif": "Maksim Sokolov (maxergon.com) / Wikimedia Commons (CC BY-SA 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -208721,6 +208717,7 @@
     "pencere",
     "taş kaplama",
     "taş ve alüminyum cephe",
+    "universite binasi",
     "vergi dairesi binası veya evrak",
     "üniversite yerleşkesi veya kampüs binası"
    ],
@@ -208739,7 +208736,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-20T14:59:49+03:00",
+   "son_kabul": "2026-11-24T12:37:48+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg/1280px-Windows_of_the_Frost_Building_%28Toronto%2C_Canada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
