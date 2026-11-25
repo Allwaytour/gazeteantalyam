@@ -77454,6 +77454,113 @@
    },
    "url": "https://images.unsplash.com/photo-1708592956177-d29b4b4ce348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8dHJlZSUyMHBsYW50aW5nJTIwYWN0aXZpdHl8ZW58MXwwfHx8MTc5NDY1NjM2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "61ac1a5a0ef373d5": {
+   "icerik": {
+    "ana_kutu": [
+     362,
+     273,
+     997,
+     747
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "çay bardağı",
+     "otel",
+     "otomobil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya sahilinde kafe masasında oturan iki polis memuru.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "polis",
+     "asayis",
+     "antalya"
+    ],
+    "uygunsuz_baglamlar": [
+     "suc",
+     "operasyon",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      371,
+      303,
+      706,
+      453
+     ],
+     [
+      409,
+      450,
+      997,
+      747
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:22a678ca1d8d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Antalya'da görev yapan polis memurları yer alıyor ancak haberdeki olay ve lojman konusu görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       362,
+       273,
+       997,
+       747
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T12:40:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "073524eb686ab3b3",
+    "sha": "c0667c97cbd9ba8e94e1a0c2"
+   },
+   "t": "2026-11-25T12:40:45+03:00",
+   "teknik": {
+    "doygunluk": 28.3,
+    "inen": [
+     500,
+     323
+    ],
+    "karanlik_oran": 0.144,
+    "keskinlik": 4074,
+    "kontrast": 58,
+    "medyan": 135,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_-_outdoor_tables_with_two_policemen_-_01.jpg/1280px-Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_-_outdoor_tables_with_two_policemen_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "61b0a0616f6ff08b": {
    "icerik": {
     "ana_kutu": [
@@ -127162,6 +127269,27 @@
    },
    "url": "/images/kurum/e1aef29029e2624d.jpg"
   },
+  "a01f637cd9dc82fb": {
+   "ozet": {
+    "dh": "0100204013707e78",
+    "sha": "73c51c8c7b1d1bada2032cd7"
+   },
+   "t": "2026-11-25T12:39:50+03:00",
+   "teknik": {
+    "doygunluk": 18.7,
+    "inen": [
+     500,
+     313
+    ],
+    "karanlik_oran": 0.837,
+    "keskinlik": 709,
+    "kontrast": 33,
+    "medyan": 3,
+    "parlaklik": 20,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Turkish_KFOR_Soldiers_conduct_patrol_with_Kosovo_Police_%286647590%29.jpg/1280px-Turkish_KFOR_Soldiers_conduct_patrol_with_Kosovo_Police_%286647590%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a040293bc6cacc4f": {
    "icerik": {
     "ana_kutu": null,
@@ -155276,6 +155404,37 @@
     ]
    },
    "iliski": {
+    "r1:22a678ca1d8d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski tarihli bir protesto karesi olsa da temsilî polis haberi için kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       30,
+       307,
+       1000,
+       663
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T12:39:41+03:00"
+    },
     "r1:662607cc502c:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -155311,7 +155470,7 @@
     "dh": "8a86dcdca6bc3c3e",
     "sha": "a63befce872677311183dea9"
    },
-   "t": "2026-11-17T21:25:50+03:00",
+   "t": "2026-11-25T12:39:41+03:00",
    "teknik": {
     "doygunluk": 23.0,
     "inen": [
@@ -161931,6 +162090,37 @@
      },
      "t": "2026-11-12T09:56:27+03:00"
     },
+    "r1:22a678ca1d8d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta genel polis unsuru var ancak yabancı dilde yazı ve trafik detayı haberle tam örtüşmüyor.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T12:39:36+03:00"
+    },
     "r1:2edac31facbd:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -162049,32 +162239,6 @@
       "yasak": []
      },
      "t": "2026-11-13T11:58:42+03:00"
-    },
-    "r1:5a23dad379a3:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Fotoğraf trafikla ilgili ancak adalet mücadelesi veren anne ve mahkeme konusuyla alakasız.",
-      "gerekli": [
-       {
-        "unsur": "adalet arayışını simgeleyen pankart veya",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-09T13:24:03+03:00"
     },
     "r1:78bf887a4cc7:konu": {
      "d": {
@@ -162259,7 +162423,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-22T12:33:29+03:00",
+   "t": "2026-11-25T12:39:41+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
@@ -165629,6 +165793,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060305%29.jpg/1280px-NASA_at_The_Children%E2%80%99s_Museum_of_Indianapolis_%28NHQ202404060305%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d0c640582818a8a6": {
+   "ozet": {
+    "dh": "19591bcdc80d696c",
+    "sha": "d534303e11b8abdcad02fda4"
+   },
+   "t": "2026-11-25T12:39:50+03:00",
+   "teknik": {
+    "doygunluk": 29.5,
+    "inen": [
+     500,
+     311
+    ],
+    "karanlik_oran": 0.769,
+    "keskinlik": 963,
+    "kontrast": 46,
+    "medyan": 13,
+    "parlaklik": 35,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Turkish_KFOR_Soldiers_conduct_patrol_with_Kosovo_Police_%286647593%29.jpg/1280px-Turkish_KFOR_Soldiers_conduct_patrol_with_Kosovo_Police_%286647593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d11090db65558c64": {
    "icerik": {
@@ -195106,6 +195291,112 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Sculptures_of_Children_Playing_Traditional_Instruments.jpg/1280px-Outdoor_Sculptures_of_Children_Playing_Traditional_Instruments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f8af786afc694ce2": {
+   "icerik": {
+    "ana_kutu": [
+     337,
+     305,
+     1000,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "masa",
+     "sandalye",
+     "çay bardağı",
+     "hasır koltuk"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Antalya sahilinde kafe masasında oturan el sallayan iki polis memuru.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "polis",
+     "asayis",
+     "antalya"
+    ],
+    "uygunsuz_baglamlar": [
+     "suc",
+     "operasyon",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      343,
+      380,
+      642,
+      627
+     ],
+     [
+      389,
+      584,
+      696,
+      863
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:22a678ca1d8d:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'da görevli polisleri gösteriyor ancak haberdeki özel açıklama veya Zeytinköy lojman projesi yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "polis",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       337,
+       305,
+       1000,
+       866
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T12:40:45+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "070b23d295356326",
+    "sha": "4c88bf478f15c9b196d99478"
+   },
+   "t": "2026-11-25T12:40:45+03:00",
+   "teknik": {
+    "doygunluk": 33.8,
+    "inen": [
+     500,
+     373
+    ],
+    "karanlik_oran": 0.255,
+    "keskinlik": 4108,
+    "kontrast": 59,
+    "medyan": 92,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_-_outdoor_tables_with_two_policemen_-_02.jpg/1280px-Konyaalt%C4%B1_Beach%2C_Antalya%2C_Turkey_-_outdoor_tables_with_two_policemen_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f8c4e92dfb4105ca": {
    "icerik": {
