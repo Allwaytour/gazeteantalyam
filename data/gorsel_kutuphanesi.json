@@ -11115,30 +11115,6 @@
      },
      "t": "2026-11-20T18:01:45+03:00"
     },
-    "r1:5325ac73eae0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber metnindeki belediye binası şartını karşılamayan genel konut binası fotoğrafı.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "kaza",
-       "mahkeme"
-      ]
-     },
-     "t": "2026-11-17T15:55:53+03:00"
-    },
     "r1:66edbad6c137:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -11336,13 +11312,39 @@
       ]
      },
      "t": "2026-11-23T13:41:10+03:00"
+    },
+    "r1:f9758dcaee34:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberle ilgisi olmayan konut binası görselidir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:40:34+03:00"
     }
    },
    "ozet": {
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-24T12:37:48+03:00",
+   "t": "2026-11-25T21:40:34+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -73760,13 +73762,43 @@
       "yasak": []
      },
      "t": "2026-11-11T01:37:48+03:00"
+    },
+    "r1:fb7cf97d9b20:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina tarım fuarı ile ilgisizdir ve yabancı bir ülkeye aittir.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı",
+        "var": false
+       },
+       {
+        "unsur": "stantlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:43:12+03:00"
     }
    },
    "ozet": {
     "dh": "e3ffe97969c04903",
     "sha": "10db0a48e52666b344fda2b4"
    },
-   "t": "2026-11-11T01:37:48+03:00",
+   "t": "2026-11-25T21:43:12+03:00",
    "teknik": {
     "doygunluk": 25.5,
     "inen": [
@@ -78055,6 +78087,127 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/5._Islamic_Solidarity_Games_2021_Konya_Mehmet_Kasapo%C4%9Flu_20220813_2.jpg/1280px-5._Islamic_Solidarity_Games_2021_Konya_Mehmet_Kasapo%C4%9Flu_20220813_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "615b55960ddb49bf": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     100,
+     900,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "sebzeler",
+     "stant",
+     "insanlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İnsanların sebze stantlarını incelediği bir tarım fuarı etkinliği.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "tarım fuarı",
+     "tarım sektörü",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "yerel haber",
+     "Antalya özel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      40,
+      110,
+      250,
+      230
+     ],
+     [
+      190,
+      270,
+      350,
+      350
+     ],
+     [
+      140,
+      380,
+      300,
+      450
+     ],
+     [
+      40,
+      510,
+      250,
+      640
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:fb7cf97d9b20:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fuar ortamını yansıtsa da yabancı bir ülkedeki (Pakistan) fuara ait olduğu için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı",
+        "var": true
+       },
+       {
+        "unsur": "stantlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       100,
+       900,
+       900
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:43:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8b9ddb9c5c9c9904",
+    "sha": "5b4e4bbeb467d2ad8d557b47"
+   },
+   "t": "2026-11-25T21:43:12+03:00",
+   "teknik": {
+    "doygunluk": 25.3,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.171,
+    "keskinlik": 2272,
+    "kontrast": 71,
+    "medyan": 137,
+    "parlaklik": 134,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg/1280px-Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "61a105468241fae1": {
    "icerik": {
@@ -111485,6 +111638,91 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Village_Veterinarian_Outreach_Program_120628-N-KB666-016.jpg/1280px-Village_Veterinarian_Outreach_Program_120628-N-KB666-016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "89ad76f4fd6f8757": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina cephesi",
+     "pencere",
+     "kabartma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir binanın dış cephe detayları ve kabartma heykeller.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari haber",
+     "tarihi eser"
+    ],
+    "uygunsuz_baglamlar": [
+     "turkiye haberi",
+     "atama haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f9758dcaee34:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece bir bina detayıdır, adliye binası olduğu anlaşılmamaktadır ve yabancı bir yapıdır.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:40:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "690b4d2bccc933d3",
+    "sha": "0a66e956b299e56f27a2c92e"
+   },
+   "t": "2026-11-25T21:40:34+03:00",
+   "teknik": {
+    "doygunluk": 7.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.008,
+    "keskinlik": 2092,
+    "kontrast": 33,
+    "medyan": 170,
+    "parlaklik": 165,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/F%C5%91_Stra%C3%9Fe_70-78%2C_zwei_Relief%2C_2024_V%C3%ADziv%C3%A1ros.jpg/1280px-F%C5%91_Stra%C3%9Fe_70-78%2C_zwei_Relief%2C_2024_V%C3%ADziv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "89b29d36e54d8f4d": {
    "ozet": {
     "dh": "03131d4e7e1f232f",
@@ -141789,35 +142027,6 @@
      },
      "t": "2026-11-21T20:31:26+03:00"
     },
-    "r1:3c36eb2c6a9f:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Hastane kapanması haberi için tamamen alakasız bir yangın ve afet karesidir.",
-      "gerekli": [
-       {
-        "unsur": "hastane binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "can kaybı",
-       "ameliyathane"
-      ]
-     },
-     "t": "2026-11-17T14:54:15+03:00"
-    },
     "r1:4e54b4452834:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -142030,13 +142239,42 @@
       ]
      },
      "t": "2026-11-23T14:08:59+03:00"
+    },
+    "r1:f9758dcaee34:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yangın haberiyle karıştırılabilecek, atama haberiyle ilgisiz bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "zanlı",
+       "kelepçe"
+      ]
+     },
+     "t": "2026-11-25T21:40:34+03:00"
     }
    },
    "ozet": {
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-24T12:37:48+03:00",
+   "t": "2026-11-25T21:40:34+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -144122,30 +144360,6 @@
      },
      "t": "2026-11-20T18:01:45+03:00"
     },
-    "r1:5325ac73eae0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediye binası yerine geçebilecek soyut bir bina detayı, ancak spesifik değil.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 4,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "kaza",
-       "mahkeme"
-      ]
-     },
-     "t": "2026-11-17T15:55:53+03:00"
-    },
     "r1:66edbad6c137:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -144354,13 +144568,39 @@
       "yasak": []
      },
      "t": "2026-11-23T14:08:59+03:00"
+    },
+    "r1:f9758dcaee34:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sadece bir ofis binası cephesidir, adliye binası olduğu anlaşılamaz.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:40:34+03:00"
     }
    },
    "ozet": {
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-25T11:10:56+03:00",
+   "t": "2026-11-25T21:40:34+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -178276,6 +178516,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mohamed_Muizzu_meets_Yusuf_Tekin_%283%29.jpg/1280px-Mohamed_Muizzu_meets_Yusuf_Tekin_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "e1616554e94a77f1": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     250,
+     550,
+     750
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "adliye binası",
+     "heykel",
+     "merdiven",
+     "kapı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarihi bir adliye binasının giriş kapısı ve önündeki heykeller.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yargı haberi",
+     "adliye haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "turkiye haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:f9758dcaee34:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bina adliye olsa da yabancı bir ülkeye ait olduğu için Türkiye haberiyle uyumsuzdur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       250,
+       550,
+       750
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:40:34+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "5515555555aca4df",
+    "sha": "d323aca5e06de7185a9c7cf4"
+   },
+   "t": "2026-11-25T21:40:34+03:00",
+   "teknik": {
+    "doygunluk": 11.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.061,
+    "keskinlik": 2787,
+    "kontrast": 45,
+    "medyan": 139,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/F%C5%91_Stra%C3%9Fe_70-78%2C_Eingang%2C_2024_V%C3%ADziv%C3%A1ros.jpg/1280px-F%C5%91_Stra%C3%9Fe_70-78%2C_Eingang%2C_2024_V%C3%ADziv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "e170843d1ea2374e": {
    "icerik": {
     "ana_kutu": [
@@ -183461,13 +183791,43 @@
       "yasak": []
      },
      "t": "2026-11-11T01:37:48+03:00"
+    },
+    "r1:fb7cf97d9b20:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina tarım fuarı ile ilgisizdir ve yabancı bir ülkeye aittir.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı",
+        "var": false
+       },
+       {
+        "unsur": "stantlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T21:43:12+03:00"
     }
    },
    "ozet": {
     "dh": "d796b7474b7b6f8d",
     "sha": "eee419d14d13edb61711915e"
    },
-   "t": "2026-11-11T01:37:48+03:00",
+   "t": "2026-11-25T21:43:12+03:00",
    "teknik": {
     "doygunluk": 24.6,
     "inen": [
