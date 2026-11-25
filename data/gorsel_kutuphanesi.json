@@ -42018,6 +42018,106 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Antalya_17.JPG/1280px-Antalya_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "31da56db7caeed3d": {
+   "icerik": {
+    "ana_kutu": [
+     357,
+     467,
+     831,
+     915
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "fırın binası",
+     "tabela",
+     "pencere",
+     "kapı",
+     "ağaçlar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Renkli dış cepheye ve tabelaya sahip bir fırın dükkanı dış görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "fırın haberi",
+     "küçük esnaf",
+     "ekonomi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:91f4e741f6eb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Temsili fırın dış cephesi gösterse de yabancı dilde tabela içermesi ve içeride ekmeklerin görünmemesi nedeniyle kısmen uygundur.",
+      "gerekli": [
+       {
+        "unsur": "çeşit ekmekler",
+        "var": false
+       },
+       {
+        "unsur": "fırın reyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       357,
+       467,
+       831,
+       915
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzü",
+       "para"
+      ]
+     },
+     "t": "2026-11-25T22:09:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "18353082b3335762",
+    "sha": "31d9d6a9a1252334de926dae"
+   },
+   "t": "2026-11-25T22:09:50+03:00",
+   "teknik": {
+    "doygunluk": 25.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.191,
+    "keskinlik": 3750,
+    "kontrast": 69,
+    "medyan": 87,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Falls_Bakery.jpg/1280px-Falls_Bakery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "31e7ea04f61e3458": {
    "icerik": {
     "ana_kutu": [
@@ -47990,6 +48090,110 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/B%C3%BAsqueda_con_detectores_de_metales.jpg/1280px-B%C3%BAsqueda_con_detectores_de_metales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "38d17b5334bcded8": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     99,
+     1000,
+     915
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "kitaplık",
+     "gözlük",
+     "kravat",
+     "ceket"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Kitaplık önünde takım elbiseli, gözlüklü erkek portresi",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kişi haberi",
+     "röportaj",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kaza haberi",
+     "spor haberi",
+     "magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      160,
+      336,
+      563,
+      646
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:3568a6561aeb:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşive uygun net bir portre fotoğrafıdır.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı",
+        "var": true
+       },
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       99,
+       1000,
+       915
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:09:32+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3303cdcfccc8d8dc",
+    "sha": "c242a8aab4574c3b5049a8e9"
+   },
+   "t": "2026-11-25T22:09:32+03:00",
+   "teknik": {
+    "doygunluk": 36.9,
+    "inen": [
+     500,
+     548
+    ],
+    "karanlik_oran": 0.103,
+    "keskinlik": 383,
+    "kontrast": 49,
+    "medyan": 109,
+    "parlaklik": 111,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cihat_Yayc%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "38ec7b11493b3d13": {
    "icerik": {
     "ana_kutu": null,
@@ -49254,6 +49458,102 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Sunset-belek-senoldemir.jpg/1280px-Sunset-belek-senoldemir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3b6c4f06137b475b": {
+   "icerik": {
+    "ana_kutu": [
+     19,
+     15,
+     875,
+     985
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "dükkan maketi",
+     "esnaf figürü",
+     "tabela",
+     "bakır kap",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Müzede sergilenen geleneksel dükkanlar ve esnaf figürlerini gösteren diorama maketi.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "tarih kültür haberi",
+     "antropoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "fiyat zammı haberi",
+     "güncel ticaret"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:91f4e741f6eb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf bir müze maketini gösterir, güncel ekmek zammı haberiyle ve fırın reyonuyla ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "çeşit ekmekler",
+        "var": false
+       },
+       {
+        "unsur": "fırın reyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzü",
+       "para"
+      ]
+     },
+     "t": "2026-11-25T22:09:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "da7a7b1595f5e83f",
+    "sha": "ad2fc41c8009ac7fc473802c"
+   },
+   "t": "2026-11-25T22:09:50+03:00",
+   "teknik": {
+    "doygunluk": 32.7,
+    "inen": [
+     500,
+     264
+    ],
+    "karanlik_oran": 0.154,
+    "keskinlik": 1848,
+    "kontrast": 49,
+    "medyan": 122,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Antalya_Museum_Diorama_with_saddlemaker%2C_coppersmith%2C_ironmonger_and_more_6478.jpg/1280px-Antalya_Museum_Diorama_with_saddlemaker%2C_coppersmith%2C_ironmonger_and_more_6478.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3b73afe19c2eb5ed": {
    "ozet": {
@@ -166771,6 +167071,102 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Cleaning_up_damage_from_Hurricane_Ike_DVIDS115831.jpg/1280px-Cleaning_up_damage_from_Hurricane_Ike_DVIDS115831.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "cfb0ff5eaf35c214": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     323,
+     856,
+     995
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "diorama",
+     "esnaf maketi",
+     "dükkan",
+     "bakır kap",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Geleneksel dükkanları ve figürleri betimleyen Antalya Müzesi dioraması.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "müze haberi",
+     "kültür turizmi",
+     "tarih"
+    ],
+    "uygunsuz_baglamlar": [
+     "ekonomi haberi",
+     "fiyat zammı",
+     "güncel gıda"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:91f4e741f6eb:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel bir müze dioramasıdır, ekmek zammı haberiyle ve fırın ortamıyla uyuşmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "çeşit ekmekler",
+        "var": false
+       },
+       {
+        "unsur": "fırın reyonu",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "kişi yüzü",
+       "para"
+      ]
+     },
+     "t": "2026-11-25T22:09:50+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "369f8a5475bd7a4f",
+    "sha": "b83e4a6be00acf37f31eb9d0"
+   },
+   "t": "2026-11-25T22:09:50+03:00",
+   "teknik": {
+    "doygunluk": 37.5,
+    "inen": [
+     500,
+     279
+    ],
+    "karanlik_oran": 0.181,
+    "keskinlik": 1853,
+    "kontrast": 50,
+    "medyan": 107,
+    "parlaklik": 105,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Antalya_Museum_Diorama_with_tea_maker%2C_saddlemaker%2C_coppersmith_and_more_6477.jpg/1280px-Antalya_Museum_Diorama_with_tea_maker%2C_saddlemaker%2C_coppersmith_and_more_6477.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "cfb2434d21f3217d": {
    "icerik": {
     "ana_kutu": [
@@ -207556,6 +207952,71 @@
     "manset",
     "yan",
     "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "38d17b5334bcded8": {
+   "alt_tur": "kisi_genel",
+   "boyut": [
+    1122,
+    1230
+   ],
+   "cekim": "yakin",
+   "cekim_tarihi": "2020-11-30",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kitaplık önünde takım elbiseli, gözlüklü erkek portresi",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-25T22:09:32+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Müşerref Yaycı / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Müşerref Yaycı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Cihat_Yayc%C4%B1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [
+     {
+      "ad": "Cihat Yaycı",
+      "qid": "Q103832283"
+     }
+    ],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "ceket",
+    "gözlük",
+    "kitaplık",
+    "konuşmacı",
+    "kravat"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cihat_Yayc%C4%B1.jpg/500px-Cihat_Yayc%C4%B1.jpg",
+   "kullanilabilir": [
+    "kişi haberi",
+    "röportaj",
+    "biyografi"
+   ],
+   "kullanilamaz": [
+    "kaza haberi",
+    "spor haberi",
+    "magazin"
+   ],
+   "notr_portre": true,
+   "qid": "Q103832283",
+   "sahne_turu": "portre",
+   "sinif": "ozne_kisi",
+   "son_kabul": "2026-11-25T22:09:32+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cihat_Yayc%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
     "detay"
    ],
    "yalniz_ayni_olay": false
