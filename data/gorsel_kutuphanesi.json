@@ -35955,6 +35955,41 @@
      },
      "t": "2026-11-21T19:31:18+03:00"
     },
+    "r1:a76efbaef763:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Açık denizde seyreden yük gemisi gösterdiği için haber bağlamına uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kuru yük gemisi",
+        "var": true
+       },
+       {
+        "unsur": "açık deniz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       374,
+       99,
+       715,
+       933
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:39:03+03:00"
+    },
     "r1:f1f4b20621c2:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -35995,7 +36030,7 @@
     "dh": "0103338998d68c21",
     "sha": "1bd158cbfe865872044ff86e"
    },
-   "t": "2026-11-21T19:31:18+03:00",
+   "t": "2026-11-25T11:39:03+03:00",
    "teknik": {
     "doygunluk": 34.2,
     "inen": [
@@ -88671,6 +88706,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol.jpg/1280px-Hotel_Spice_%5E_Spa_-_panoramio_-_Dreol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6fb5a8c0569cdfe9": {
+   "icerik": {
+    "ana_kutu": [
+     232,
+     142,
+     477,
+     804
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "deniz",
+     "kumsal",
+     "korkuluk",
+     "lamba direği",
+     "şezlong",
+     "çatı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Deniz kıyısı, kumsal ve terastan deniz manzarası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "turizm",
+     "tatil",
+     "sahil"
+    ],
+    "uygunsuz_baglamlar": [
+     "gemi saldirisi",
+     "denizcilik",
+     "kaza"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:a76efbaef763:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta gemi bulunmamaktadır, yalnızca sahil manzarası yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "kuru yük gemisi",
+        "var": false
+       },
+       {
+        "unsur": "açık deniz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:39:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0703030312973cec",
+    "sha": "b264b0dd23e72e61369ea6bf"
+   },
+   "t": "2026-11-25T11:39:03+03:00",
+   "teknik": {
+    "doygunluk": 16.4,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.341,
+    "keskinlik": 2246,
+    "kontrast": 77,
+    "medyan": 106,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Black_sea_and_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "6fd9dc160c767047": {
    "icerik": {
     "ana_kutu": [
@@ -96481,6 +96610,41 @@
      },
      "t": "2026-11-21T19:31:18+03:00"
     },
+    "r1:a76efbaef763:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Liman ve yük gemisi gösterse de açık deniz vurgusu için birinci fotoğraf daha uygundur.",
+      "gerekli": [
+       {
+        "unsur": "kuru yük gemisi",
+        "var": true
+       },
+       {
+        "unsur": "açık deniz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       471,
+       453,
+       810,
+       836
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:39:03+03:00"
+    },
     "r1:eff1001896f8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -96512,7 +96676,7 @@
     "dh": "fce6e6de7a185876",
     "sha": "9bbb27f3886797cb1d47e5d2"
    },
-   "t": "2026-11-21T19:31:18+03:00",
+   "t": "2026-11-25T11:39:03+03:00",
    "teknik": {
     "doygunluk": 50.6,
     "inen": [
@@ -119628,13 +119792,43 @@
       "yasak": []
      },
      "t": "2026-11-21T19:31:53+03:00"
+    },
+    "r1:a76efbaef763:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Araştırma gemisi ve bilimsel çalışma gösterdiği için kargo gemisi saldırısı haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "kuru yük gemisi",
+        "var": false
+       },
+       {
+        "unsur": "açık deniz",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:39:03+03:00"
     }
    },
    "ozet": {
     "dh": "2bbbb7353d1d1e9e",
     "sha": "8fd153b42621a4d3c79b8ef2"
    },
-   "t": "2026-11-21T19:31:53+03:00",
+   "t": "2026-11-25T11:39:03+03:00",
    "teknik": {
     "doygunluk": 56.0,
     "inen": [
@@ -203122,7 +203316,7 @@
    "gosterim_ad": "NAVTEX iptali",
    "ilk_kabul": "2026-11-07T23:56:08+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Baptiste Buisson / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -203143,6 +203337,7 @@
     "açık deniz",
     "deniz",
     "gemi",
+    "kuru yük gemisi",
     "küçük tekne",
     "yük gemisi"
    ],
@@ -203160,7 +203355,7 @@
    "qid": "",
    "sahne_turu": "manzara",
    "sinif": "konu",
-   "son_kabul": "2026-11-08T11:09:26+03:00",
+   "son_kabul": "2026-11-25T11:39:03+03:00",
    "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
