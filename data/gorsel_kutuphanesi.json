@@ -30971,6 +30971,34 @@
     ]
    },
    "iliski": {
+    "r1:0654cd0e1186:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanın portresi yer alıyor ancak görselde yasaklı unsurlar arasında siyasetçi portresi belirtilmiş.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       140,
+       260,
+       990,
+       850
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçiportresi"
+      ]
+     },
+     "t": "2026-11-25T13:09:28+03:00"
+    },
     "r1:fe943d4e8430:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -31002,7 +31030,7 @@
     "dh": "0c9c6063e0cc1595",
     "sha": "b2191efa3c1376511ac85137"
    },
-   "t": "2026-11-10T18:38:55+03:00",
+   "t": "2026-11-25T13:09:28+03:00",
    "teknik": {
     "doygunluk": 27.3,
     "inen": [
@@ -48407,6 +48435,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0654cd0e1186:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eski tip vagonlar ve tren garı gösteriliyor, hızlı tren unsuru bulunmuyor ve dönem uyumsuz.",
+      "gerekli": [
+       {
+        "unsur": "hızlı tren",
+        "var": false
+       },
+       {
+        "unsur": "tren rayları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T13:09:28+03:00"
+    },
     "r1:45d1db8e99b8:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -48443,7 +48501,11 @@
      "t": "2026-11-08T14:03:35+03:00"
     }
    },
-   "t": "2026-11-08T14:03:35+03:00",
+   "ozet": {
+    "dh": "5cfcf47c76c61c3c",
+    "sha": "9b627f2e240a70fd41f1cd41"
+   },
+   "t": "2026-11-25T13:09:28+03:00",
    "teknik": {
     "doygunluk": 24.1,
     "inen": [
@@ -102995,6 +103057,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0654cd0e1186:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanya manzarası ve parasailing yapan kişileri gösteriyor; hızlı trenle hiçbir ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "hızlı tren",
+        "var": false
+       },
+       {
+        "unsur": "tren rayları",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T13:09:28+03:00"
+    },
     "r1:0a8a91facf2f:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -103050,34 +103142,6 @@
       "yasak": []
      },
      "t": "2026-11-24T13:19:31+03:00"
-    },
-    "r1:34f67bb29294:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Alanya'da çekilmiş bir parasailing görseli temsilî olarak kullanılabilir.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       44,
-       755,
-       222,
-       858
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 7,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "yabancı bayrak"
-      ]
-     },
-     "t": "2026-11-13T03:58:59+03:00"
     },
     "r1:40da8f3a5488:ozne_kurum": {
      "d": {
@@ -103338,7 +103402,7 @@
     "dh": "2636271b39e53d3f",
     "sha": "7b4c497d0520e29aff2a2b8b"
    },
-   "t": "2026-11-24T13:37:43+03:00",
+   "t": "2026-11-25T13:09:28+03:00",
    "teknik": {
     "doygunluk": 32.1,
     "inen": [
@@ -155360,6 +155424,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Anima_-_8.10.15.jpg/1280px-Anima_-_8.10.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "c51ed11e875a6485": {
+   "icerik": {
+    "ana_kutu": [
+     380,
+     310,
+     690,
+     640
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hızlı tren",
+     "viyadük",
+     "tren rayları",
+     "ağaçlar",
+     "binalar"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Viyadük üzerinde seyreden mavi beyaz hızlı tren",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "siyaset",
+     "magazin",
+     "spor"
+    ],
+    "uygunsuz_baglamlar": [],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0654cd0e1186:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Güncel bir Yüksek Hızlı Tren görseli, haberin konusunu destekleyen uygun bir temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "hızlı tren",
+        "var": true
+       },
+       {
+        "unsur": "tren rayları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       380,
+       310,
+       690,
+       640
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T13:09:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ebe765ca92952367",
+    "sha": "144e719d41fcc212e13f9513"
+   },
+   "t": "2026-11-25T13:09:28+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     500,
+     71
+    ],
+    "karanlik_oran": 0.084,
+    "keskinlik": 5126,
+    "kontrast": 50,
+    "medyan": 100,
+    "parlaklik": 110,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Rail_travel_in_Turkey_banner_High-speed_YHT_at_Bilecik.jpg/1280px-Rail_travel_in_Turkey_banner_High-speed_YHT_at_Bilecik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "c57378a7ff332548": {
    "icerik": {
     "ana_kutu": [
@@ -199692,6 +199850,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Award%2C_music_%28AM_2019.4.16-5%29.jpg/1280px-Award%2C_music_%28AM_2019.4.16-5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fcdc95b06de4f598": {
+   "icerik": {
+    "ana_kutu": [
+     160,
+     370,
+     740,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hızlı tren",
+     "tren rayları",
+     "peron",
+     "tren"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Garda duran TCDD hızlı tren ve yanındaki Marmaray treni",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "ulaşım",
+     "tren seferleri",
+     "demiryolu"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0654cd0e1186:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Garda bekleyen TCDD hızlı trenini net şekilde gösterdiği için habere uygundur.",
+      "gerekli": [
+       {
+        "unsur": "hızlı tren",
+        "var": true
+       },
+       {
+        "unsur": "tren rayları",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       160,
+       370,
+       740,
+       990
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T13:09:28+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0762064f4fcc3185",
+    "sha": "08bbe715aff092d493110a64"
+   },
+   "t": "2026-11-25T13:09:28+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.427,
+    "keskinlik": 1798,
+    "kontrast": 78,
+    "medyan": 63,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg/1280px-Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fd2a54ff9541291b": {
    "icerik": {
     "ana_kutu": [
@@ -217274,6 +217529,67 @@
    "sinif": "konu",
    "son_kabul": "2026-11-09T14:05:12+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cold_and_Frosty_Morning_in_Arthur_Newbery_Park_%28geograph_4296089%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "fcdc95b06de4f598": {
+   "alt_tur": "nesne",
+   "boyut": [
+    5152,
+    3864
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2024-01-20",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Garda duran TCDD hızlı tren ve yanındaki Marmaray treni",
+   "gosterim_ad": "hızlı tren projesi dışında kalma",
+   "ilk_kabul": "2026-11-25T13:09:28+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Zach1055 / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Zach1055",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Marmaray_%26_YHT_@_Pendik,_Istanbul_Turkey_2024.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "hızlı tren",
+    "peron",
+    "tren",
+    "tren rayları"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg/500px-Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "ulaşım",
+    "tren seferleri",
+    "demiryolu"
+   ],
+   "kullanilamaz": [
+    "spor",
+    "magazin",
+    "ekonomi"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-25T13:09:28+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg/1280px-Marmaray_%26_YHT_%40_Pendik%2C_Istanbul_Turkey_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
