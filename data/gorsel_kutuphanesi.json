@@ -4061,6 +4061,45 @@
      },
      "t": "2026-11-11T01:08:09+03:00"
     },
+    "r1:be6368c434cf:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf amatör bir futbol maçını gösteriyor ancak Kumluca Belediyespor'un bu maça ait olduğu kesin değil.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "futbolcular",
+        "var": true
+       },
+       {
+        "unsur": "sentetik saha",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       389,
+       58,
+       650,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:40:36+03:00"
+    },
     "r1:c311d6194315:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -4101,7 +4140,7 @@
     "dh": "2e248d65250fcfc7",
     "sha": "8883c42a0f64b3bc29a47359"
    },
-   "t": "2026-11-25T15:09:59+03:00",
+   "t": "2026-11-25T22:40:36+03:00",
    "teknik": {
     "doygunluk": 37.2,
     "inen": [
@@ -10732,6 +10771,37 @@
      },
      "t": "2026-11-13T03:02:06+03:00"
     },
+    "r1:213b3745c69b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Eğitim desteği alan öğrencileri temsil eden uygun bir görseldir.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       291,
+       281,
+       997,
+       621
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:41:38+03:00"
+    },
     "r1:3799abdcc5cc:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -10855,7 +10925,7 @@
     "dh": "2759b76f4d5b5b5b",
     "sha": "242b5ddff3014d8772e4f75c"
    },
-   "t": "2026-11-23T14:08:59+03:00",
+   "t": "2026-11-25T22:41:38+03:00",
    "teknik": {
     "doygunluk": 47.5,
     "inen": [
@@ -37619,6 +37689,36 @@
      },
      "t": "2026-11-20T14:59:28+03:00"
     },
+    "r1:7367c4301c3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım fuarı yatırımlarıyla ilgisiz toprak içi sensör kablolarını gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı standı",
+        "var": false
+       },
+       {
+        "unsur": "seracılık teknolojileri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:40:11+03:00"
+    },
     "r1:9b50b2888d26:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -37710,7 +37810,7 @@
     "dh": "d979dbc1c2200406",
     "sha": "7ae7fb407a212785170a8744"
    },
-   "t": "2026-11-20T14:59:28+03:00",
+   "t": "2026-11-25T22:40:11+03:00",
    "teknik": {
     "doygunluk": 21.9,
     "inen": [
@@ -78453,6 +78553,41 @@
     ]
    },
    "iliski": {
+    "r1:7367c4301c3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım fuarında stant ve seracılık teknolojisi tanıtımını gösteren uygun temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı standı",
+        "var": true
+       },
+       {
+        "unsur": "seracılık teknolojileri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       10,
+       260,
+       620,
+       510
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:40:11+03:00"
+    },
     "r1:fb7cf97d9b20:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -78493,7 +78628,7 @@
     "dh": "8b9ddb9c5c9c9904",
     "sha": "5b4e4bbeb467d2ad8d557b47"
    },
-   "t": "2026-11-25T21:43:12+03:00",
+   "t": "2026-11-25T22:40:11+03:00",
    "teknik": {
     "doygunluk": 25.3,
     "inen": [
@@ -118333,6 +118468,95 @@
    },
    "url": "https://images.unsplash.com/photo-1782243206283-f0973fffedfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Mnx8bGVhdGhlciUyMG9mZmljZSUyMGFybWNoYWlyfGVufDF8MHx8fDE3OTU1MjIwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9128d9b856a5e28d": {
+   "icerik": {
+    "ana_kutu": [
+     77,
+     342,
+     856,
+     977
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tabela",
+     "beyaz çit",
+     "ağaç",
+     "bitki",
+     "bina"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşillikler içinde, üzerinde MATSO's yazan büyük bir tabela ve arkasında bina.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "işletme haberi",
+     "kurum tanıtımı",
+     "turizm haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "eğitim haberi",
+     "öğrenci bursu",
+     "yerel ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:213b3745c69b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Aynı isimli yabancı bir işletmeyi gösterir, Manavgat Ticaret ve Sanayi Odası ile ilişkisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:41:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3d1696eb4b24cc9f",
+    "sha": "5a8a2abaf605e98e2ea61a4b"
+   },
+   "t": "2026-11-25T22:41:38+03:00",
+   "teknik": {
+    "doygunluk": 30.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.337,
+    "keskinlik": 5760,
+    "kontrast": 71,
+    "medyan": 81,
+    "parlaklik": 100,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Matso%27s_Broome_Brewery%2C_September_2025_03.jpg/1280px-Matso%27s_Broome_Brewery%2C_September_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "9138e893e83690d3": {
    "icerik": {
     "ana_kutu": [
@@ -125193,6 +125417,100 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg/1280px-Aselsan_laser_rangefinder%2C_Kyiv_2018%2C_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "99c5dde07d46a9c9": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     390,
+     740,
+     568
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 30,
+    "nesneler": [
+     "metal çit",
+     "koyun",
+     "çadır",
+     "ziyaretçi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Tarım veya hayvancılık fuarında metal çitler içinde koyunlar ve gezinen ziyaretçiler.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [],
+    "uygunsuz_baglamlar": [
+     "örtü altı tarım",
+     "jeotermal sera"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:7367c4301c3a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fuar alanı görünse de ön planda yasaklı canlı hayvan (koyun) bulunuyor.",
+      "gerekli": [
+       {
+        "unsur": "tarım fuarı standı",
+        "var": true
+       },
+       {
+        "unsur": "seracılık teknolojileri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       390,
+       740,
+       568
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "canlı hayvan"
+      ]
+     },
+     "t": "2026-11-25T22:40:11+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0029400a0d93131b",
+    "sha": "0de26ffda19daa8eea36ddb3"
+   },
+   "t": "2026-11-25T22:40:11+03:00",
+   "teknik": {
+    "doygunluk": 11.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.054,
+    "keskinlik": 2504,
+    "kontrast": 76,
+    "medyan": 198,
+    "parlaklik": 183,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1726245219584-69b551af0a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8YWdyaWN1bHR1cmFsJTIwZmFpciUyMGV4aGliaXRpb24lMjBzdGFuZHxlbnwxfDB8fHwxNzk1NjM1NTg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "99cadf78a941a7fa": {
    "icerik": {
@@ -170425,6 +170743,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Scuba_Divers_at_Sand_Dollar_Sports.jpg/1280px-Scuba_Divers_at_Sand_Dollar_Sports.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d608ba4f364c5c1c": {
+   "icerik": {
+    "ana_kutu": [
+     123,
+     116,
+     526,
+     786
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "beyaz çit",
+     "tabela",
+     "bina",
+     "palmiye",
+     "karatahta"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ağaçlar ve beyaz çitlerle çevrili, tabelası olan bir işletme binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "işletme haberi",
+     "turizm haberi",
+     "genel haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "eğitim haberi",
+     "öğrenci bursu",
+     "ekonomi haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:213b3745c69b:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Fotoğraf, yabancı bir ülkedeki farklı bir işletmeyi göstermektedir, Manavgat Ticaret ve Odası ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:41:38+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ac8d0dcc434eacfc",
+    "sha": "6ea346d7248cc4124d747404"
+   },
+   "t": "2026-11-25T22:41:38+03:00",
+   "teknik": {
+    "doygunluk": 27.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.246,
+    "keskinlik": 5215,
+    "kontrast": 69,
+    "medyan": 119,
+    "parlaklik": 113,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Matso%27s_Broome_Brewery%2C_September_2025_01.jpg/1280px-Matso%27s_Broome_Brewery%2C_September_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d65a6aff9fcab01c": {
    "icerik": {
     "ana_kutu": [
@@ -174800,6 +175207,32 @@
      },
      "t": "2026-11-16T14:13:03+03:00"
     },
+    "r1:213b3745c69b:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kuaförde saç yapımını gösterdiği için öğrenci bursu haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "öğrenciler",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T22:41:38+03:00"
+    },
     "r1:2f03c5acfe97:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -175056,7 +175489,7 @@
     "dh": "a33072e1f1f0626b",
     "sha": "45c031fbe2b6040ae6d7855c"
    },
-   "t": "2026-11-22T11:34:59+03:00",
+   "t": "2026-11-25T22:41:38+03:00",
    "teknik": {
     "doygunluk": 28.2,
     "inen": [
@@ -204732,7 +205165,7 @@
    "gosterim_ad": "COP31 harcama eleştirisi ve ücretsiz yemek çağrısı",
    "ilk_kabul": "2026-11-09T18:36:32+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "CDC / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -204775,7 +205208,7 @@
    "qid": "",
    "sahne_turu": "gunluk_yasam",
    "sinif": "konu",
-   "son_kabul": "2026-11-13T03:02:52+03:00",
+   "son_kabul": "2026-11-25T22:41:38+03:00",
    "url": "https://images.unsplash.com/photo-1588075592765-2feb7de1f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2Nob29sJTIwY2hpbGRyZW4lMjBlYXRpbmclMjBsdW5jaCUyMFR1cmtleXxlbnwxfDB8fHwxNzk0MjM4NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "detay"
@@ -210482,6 +210915,67 @@
    "uygun_yerlesimler": [
     "manset",
     "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "615b55960ddb49bf": {
+   "alt_tur": "nesne",
+   "boyut": [
+    4288,
+    2848
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2014-05-15",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "İnsanların sebze stantlarını incelediği bir tarım fuarı etkinliği.",
+   "gosterim_ad": "tarım fuarında yatırım tanıtımı",
+   "ilk_kabul": "2026-11-25T22:40:11+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "USAID Pakistan / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Pakistan_Vegetable_Fair_2014_(organized_by_USAID%E2%80%99s_Agribusiness_Project)_(14188379302).jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "USAID Pakistan",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Pakistan_Vegetable_Fair_2014_(organized_by_USAID%E2%80%99s_Agribusiness_Project)_(14188379302).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "insanlar",
+    "sebzeler",
+    "seracılık teknolojileri",
+    "stant",
+    "tarım fuarı standı"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg/500px-Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "tarım fuarı",
+    "tarım sektörü",
+    "ekonomi"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "yerel haber",
+    "Antalya özel haber"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-25T22:40:11+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg/1280px-Pakistan_Vegetable_Fair_2014_%28organized_by_USAID%E2%80%99s_Agribusiness_Project%29_%2814188379302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
     "kart",
     "detay"
    ],
