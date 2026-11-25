@@ -126793,13 +126793,44 @@
       "yasak": []
      },
      "t": "2026-11-09T13:26:52+03:00"
+    },
+    "r1:bdb3f35df652:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Olay yeri goruntusu degil ancak haberde gerekli olan jandarma aracini temsil etmektedir.",
+      "gerekli": [
+       {
+        "unsur": "jandarma araci",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       58,
+       62,
+       992,
+       928
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:10:26+03:00"
     }
    },
    "ozet": {
     "dh": "85d4d162b0e86871",
     "sha": "be5b0e47be865fdf177d6e4e"
    },
-   "t": "2026-11-09T13:26:52+03:00",
+   "t": "2026-11-25T23:10:26+03:00",
    "teknik": {
     "doygunluk": 26.7,
     "inen": [
@@ -164447,32 +164478,6 @@
     "yuzler": []
    },
    "iliski": {
-    "r1:01ec383525fe:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Trafik polisi detay görseli, spor yöneticisinin bahis şikesi iddianamesi haberiyle uyuşmamaktadır.",
-      "gerekli": [
-       {
-        "unsur": "Antalyaspor logosu veya adliye binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": true,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-12T09:56:27+03:00"
-    },
     "r1:22a678ca1d8d:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -164740,6 +164745,32 @@
      },
      "t": "2026-11-16T13:42:27+03:00"
     },
+    "r1:bdb3f35df652:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf intihar olayıyla tamamen ilgisizdir ve yabancı dilde trafik yazısı içermektedir.",
+      "gerekli": [
+       {
+        "unsur": "jandarma aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:10:17+03:00"
+    },
     "r1:beb4b481e13f:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -164806,7 +164837,7 @@
     "dh": "23048c9b8a8c0606",
     "sha": "0f3ca51fc2cd189177e02b93"
    },
-   "t": "2026-11-25T12:39:41+03:00",
+   "t": "2026-11-25T23:10:17+03:00",
    "teknik": {
     "doygunluk": 24.7,
     "inen": [
