@@ -11324,28 +11324,23 @@
      },
      "t": "2026-11-24T12:37:43+03:00"
     },
-    "r1:ba30104abf4b:konu": {
+    "r1:b1451789b717:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Otel veya konaklama tesisi binasını gösterdiği için ciro düşüşü haberine uygundur.",
+      "gerekce": "Fotoğraftaki konut binaları Kemer Adliyesi görev değişimi haberiyle tamamen ilgisizdir.",
       "gerekli": [
        {
-        "unsur": "otel binasi",
-        "var": true
+        "unsur": "adliye binası",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       52,
-       810,
-       816
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 8,
+      "uygunluk": 0,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -11353,7 +11348,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-19T14:27:18+03:00"
+     "t": "2026-11-25T23:39:52+03:00"
     },
     "r1:e1be440804cb:konu": {
      "d": {
@@ -11414,7 +11409,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-25T21:40:34+03:00",
+   "t": "2026-11-25T23:39:58+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -69850,40 +69845,6 @@
      },
      "t": "2026-11-12T23:00:32+03:00"
     },
-    "r1:5b9ac698b69f:yer_genel": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya manzarası sunsa da hediye paketi hazırlığı haberini yansıtmaz.",
-      "gerekli": [
-       {
-        "unsur": "ahşap hediye kutusu",
-        "var": false
-       },
-       {
-        "unsur": "reçel ve tahin kavanozları",
-        "var": false
-       },
-       {
-        "unsur": "çevre dostu ambalaj",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:04:28+03:00"
-    },
     "r1:60e8b4fa1f5c:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -69981,6 +69942,36 @@
      },
      "t": "2026-11-19T14:27:18+03:00"
     },
+    "r1:dc8b53f0c3b4:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Genel bahçe manzarası otel tesisi veya tatil köyünü doğrudan yansıtmaz.",
+      "gerekli": [
+       {
+        "unsur": "otel tesisi",
+        "var": false
+       },
+       {
+        "unsur": "tatil köyü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:40:54+03:00"
+    },
     "r1:e4427e0afca0:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -70068,7 +70059,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-23T14:36:15+03:00",
+   "t": "2026-11-25T23:40:54+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -142705,30 +142696,6 @@
      },
      "t": "2026-11-20T18:01:45+03:00"
     },
-    "r1:5325ac73eae0:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Yasaklı unsurlardan biri olan kaza/yangın içeren bir olay fotoğrafı, siyasi haberle uyuşmaz.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 0,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "kaza",
-       "mahkeme"
-      ]
-     },
-     "t": "2026-11-17T15:55:53+03:00"
-    },
     "r1:66edbad6c137:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -142835,6 +142802,32 @@
      },
      "t": "2026-11-24T12:37:48+03:00"
     },
+    "r1:b1451789b717:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Adliye görev değişimi haberi için yangın fotoğrafı tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:39:58+03:00"
+    },
     "r1:ba30104abf4b:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -142923,7 +142916,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-25T21:40:34+03:00",
+   "t": "2026-11-25T23:39:58+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -145161,28 +145154,23 @@
      },
      "t": "2026-11-24T12:37:48+03:00"
     },
-    "r1:ba30104abf4b:konu": {
+    "r1:b1451789b717:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Modern bir bina cephesidir ancak doğrudan otel olduğunu kanıtlamaz.",
+      "gerekce": "Fotoğraf genel bir ofis/bina cephesidir, Kemer Adliyesi'ni temsil etmez.",
       "gerekli": [
        {
-        "unsur": "otel binasi",
-        "var": true
+        "unsur": "adliye binası",
+        "var": false
        }
       ],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       0,
-       0,
-       1000,
-       1000
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 5,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -145190,7 +145178,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-19T14:27:18+03:00"
+     "t": "2026-11-25T23:39:58+03:00"
     },
     "r1:d33bac5539f0:konu": {
      "d": {
@@ -145249,7 +145237,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-25T21:40:34+03:00",
+   "t": "2026-11-25T23:39:58+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -160539,13 +160527,48 @@
       "yasak": []
      },
      "t": "2026-11-19T14:27:18+03:00"
+    },
+    "r1:dc8b53f0c3b4:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Otel tesisi görünümü haberin tasarruf ve turizm temasına uygundur.",
+      "gerekli": [
+       {
+        "unsur": "otel tesisi",
+        "var": true
+       },
+       {
+        "unsur": "tatil köyü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:40:54+03:00"
     }
    },
    "ozet": {
     "dh": "19192b2e26464647",
     "sha": "8c0fa7870ae0bab6caacd5a4"
    },
-   "t": "2026-11-23T14:36:15+03:00",
+   "t": "2026-11-25T23:40:54+03:00",
    "teknik": {
     "doygunluk": 66.9,
     "inen": [
@@ -203926,6 +203949,36 @@
      },
      "t": "2026-11-23T14:36:15+03:00"
     },
+    "r1:dc8b53f0c3b4:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sokak ve köpeklerin görüldüğü bu kare turizm ve otel yatırımlarıyla alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "otel tesisi",
+        "var": false
+       },
+       {
+        "unsur": "tatil köyü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T23:40:54+03:00"
+    },
     "r1:e4427e0afca0:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -204013,7 +204066,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-23T14:36:15+03:00",
+   "t": "2026-11-25T23:40:54+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
@@ -217264,7 +217317,7 @@
    "gosterim_ad": "Antalya",
    "ilk_kabul": "2026-11-19T14:27:18+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "1089hruskapetr / Wikimedia Commons (CC BY 3.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -217288,6 +217341,7 @@
     "masa",
     "otel binasi",
     "otel binası, turizm tesisi",
+    "otel tesisi",
     "sandalye",
     "tas duvar"
    ],
@@ -217298,7 +217352,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-23T14:36:15+03:00",
+   "son_kabul": "2026-11-25T23:40:54+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg/1280px-Dvorek_v_hotelu_ve%C4%8Der_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
