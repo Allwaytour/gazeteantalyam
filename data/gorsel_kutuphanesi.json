@@ -5632,6 +5632,95 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Karg%C4%B1cak_Belediyesi%2C_Karg%C4%B1cak-Alanya-Antalya%2C_Turkey_-_panoramio_%283%29.jpg/1280px-Karg%C4%B1cak_Belediyesi%2C_Karg%C4%B1cak-Alanya-Antalya%2C_Turkey_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "061df4032ea9dbbd": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     80,
+     950,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hastane binası",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern, kavisli mimariye sahip çok katlı bir hastane binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "mimari haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bina modern ancak Türkiye'deki bir sağlık kompleksini temsil etmek için yabancı mimari özellikler taşıyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       80,
+       950,
+       920
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:12:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2119f5abebe3e7f5",
+    "sha": "591f6b3c3caacfb4c98107aa"
+   },
+   "t": "2026-11-25T11:12:06+03:00",
+   "teknik": {
+    "doygunluk": 13.8,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.051,
+    "keskinlik": 1945,
+    "kontrast": 44,
+    "medyan": 168,
+    "parlaklik": 154,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Banner_University_Medical_Center%2C_McDowell_Road%2C_Coronado%2C_Phoenix%2C_AZ.jpg/1280px-Banner_University_Medical_Center%2C_McDowell_Road%2C_Coronado%2C_Phoenix%2C_AZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0632616cc6c5c7ad": {
    "icerik": {
     "ana_kutu": [
@@ -13571,6 +13660,101 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/New-official-photo-of-the-governors-office_5540962930_o.jpg/1280px-New-official-photo-of-the-governors-office_5540962930_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "0fc271d03930e790": {
+   "icerik": {
+    "ana_kutu": [
+     193,
+     383,
+     856,
+     613
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "akıllı telefon"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pembe ve mavi ışık yayan akıllı telefon.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "teknoloji",
+     "ekran ışığı",
+     "akıllı telefon haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:13848f95c833:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Ekran ışığı uyarısı için uygun bir temsilî telefon görselidir.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": false
+       },
+       {
+        "unsur": "cilt sagligi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       193,
+       383,
+       856,
+       613
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta yatakları"
+      ]
+     },
+     "t": "2026-11-25T11:10:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f132b2b29080830",
+    "sha": "ace5eeaa8851f5f3535bbbd3"
+   },
+   "t": "2026-11-25T11:10:06+03:00",
+   "teknik": {
+    "doygunluk": 31.4,
+    "inen": [
+     400,
+     269
+    ],
+    "karanlik_oran": 0.015,
+    "keskinlik": 158,
+    "kontrast": 32,
+    "medyan": 153,
+    "parlaklik": 156,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1722834228772-01d16b9bf83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZSUyMHNjcmVlbiUyMGZhY2UlMjBnbG93fGVufDF8MHx8fDE3OTU1OTQxOTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "0fe5fb06b182fe6a": {
    "ozet": {
@@ -23135,6 +23319,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2013_08_04_Afgoye_Food_Dist_H.jpg_%289440152691%29.jpg/1280px-2013_08_04_Afgoye_Food_Dist_H.jpg_%289440152691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "1ca03378e367aa1e": {
+   "ozet": {
+    "dh": "272727876f0f0e0f",
+    "sha": "70c9fe674af1bf485afdba88"
+   },
+   "t": "2026-11-25T11:10:00+03:00",
+   "teknik": {
+    "doygunluk": 93.7,
+    "inen": [
+     400,
+     328
+    ],
+    "karanlik_oran": 0.877,
+    "keskinlik": 271,
+    "kontrast": 23,
+    "medyan": 21,
+    "parlaklik": 25,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1607895232440-6ba075948c14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Ymx1ZSUyMGxpZ2h0JTIwc2tpbiUyMGRhbWFnZXxlbnwxfDB8fHwxNzk1NTk0MTk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "1cdc6d79c039b8a5": {
    "icerik": {
     "ana_kutu": [
@@ -32561,6 +32766,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg/1280px-Tacoma_Mayor_John_W_Linck_General_Photograph_Collection_TPL4067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "273e01b780c8b91b": {
+   "icerik": {
+    "ana_kutu": [
+     8,
+     11,
+     849,
+     981
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "trafik lambası",
+     "otomobil",
+     "ağaç",
+     "sokak lambası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Büyük çok katlı resmi kurum binası ve önünde cadde görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "resmi kurum haberleri",
+     "kent mimarisi haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Akseki sağlık kompleksi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntüdeki bina Pennsylvania'daki bir devlet binasıdır, Akseki'deki sağlık kompleksi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       8,
+       11,
+       849,
+       981
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina"
+      ]
+     },
+     "t": "2026-11-25T11:10:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0c3cf49caca48483",
+    "sha": "1ada05466b98e5d23e20763e"
+   },
+   "t": "2026-11-25T11:10:56+03:00",
+   "teknik": {
+    "doygunluk": 20.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.06,
+    "keskinlik": 1487,
+    "kontrast": 53,
+    "medyan": 119,
+    "parlaklik": 135,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Health_and_Welfare_Building%2C_Harrisburg%2C_Pennsylvania.jpg/1280px-Health_and_Welfare_Building%2C_Harrisburg%2C_Pennsylvania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "276639f24dd03af7": {
    "icerik": {
     "ana_kutu": [
@@ -39721,6 +40023,90 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hickam_Air_Force_Base_Humanitarian_Relief_for_American_Samoa_DVIDS208806.jpg/1280px-Hickam_Air_Force_Base_Humanitarian_Relief_for_American_Samoa_DVIDS208806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "2f0f9414e83c546e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Şehir merkezinde gökyüzüne doğru yükselen modern cam binalar.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "şehir planlama",
+     "mimari"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık haberi",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf genel bir şehir görüntüsüdür, sağlık kompleksi ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:12:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c7930369c3b3112b",
+    "sha": "bb31d490c955cd1ceb0953dd"
+   },
+   "t": "2026-11-25T11:12:06+03:00",
+   "teknik": {
+    "doygunluk": 20.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.317,
+    "keskinlik": 1854,
+    "kontrast": 67,
+    "medyan": 75,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%96%B0%E8%A1%97_New_Street_sky_view_Tung_Wah_Group_Hospital_HQ_Building_facade_June_2020_SS2_01.jpg/1280px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E6%96%B0%E8%A1%97_New_Street_sky_view_Tung_Wah_Group_Hospital_HQ_Building_facade_June_2020_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "2f31d88e297d139b": {
    "icerik": {
     "ana_kutu": [
@@ -40497,6 +40883,39 @@
      },
      "t": "2026-11-08T15:36:49+03:00"
     },
+    "r1:97f038a5450a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "İlçenin genel manzarasını gösteriyor fakat sağlık kompleksine dair hiçbir yapı görünmüyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina",
+       "kalabalık insan grubu"
+      ]
+     },
+     "t": "2026-11-25T11:10:56+03:00"
+    },
     "r1:adb2d270060e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -40553,7 +40972,11 @@
      "t": "2026-11-08T18:03:30+03:00"
     }
    },
-   "t": "2026-11-08T18:03:30+03:00",
+   "ozet": {
+    "dh": "0f0f0f0f1b0b060e",
+    "sha": "d3ba3c25c297bb7a129477d0"
+   },
+   "t": "2026-11-25T11:10:56+03:00",
    "teknik": {
     "doygunluk": 33.1,
     "inen": [
@@ -49597,6 +50020,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahinur_%C3%96zdemir_20042026.jpg/1280px-Mahinur_%C3%96zdemir_20042026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "3dbf8038b16147d1": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     80,
+     950,
+     920
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hastane binası",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern, kavisli mimariye sahip çok katlı bir hastane binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "mimari haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bina modern ancak Türkiye'deki bir sağlık kompleksini temsil etmek için yabancı mimari özellikler taşıyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       100,
+       80,
+       950,
+       920
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:12:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "13bbcbd3d3cbefeb",
+    "sha": "b1cc5e2b40b1fdc0757a14c9"
+   },
+   "t": "2026-11-25T11:12:06+03:00",
+   "teknik": {
+    "doygunluk": 11.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.049,
+    "keskinlik": 2551,
+    "kontrast": 48,
+    "medyan": 172,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Banner_University_Medical_Center%2C_McDowell_Road%2C_Coronado%2C_Phoenix%2C_AZ_-_54437765991.jpg/1280px-Banner_University_Medical_Center%2C_McDowell_Road%2C_Coronado%2C_Phoenix%2C_AZ_-_54437765991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3dd17a22d9b7e840": {
    "icerik": {
@@ -73857,6 +74369,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Edith_Green%E2%80%93Wendell_Wyatt_Federal_Building_facade%2C_Portland%2C_Oregon%2C_2025.jpg/1280px-Edith_Green%E2%80%93Wendell_Wyatt_Federal_Building_facade%2C_Portland%2C_Oregon%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "5cc3435aa4156b4b": {
+   "icerik": {
+    "ana_kutu": [
+     54,
+     1,
+     999,
+     996
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ev",
+     "cami minaresi",
+     "ağaç",
+     "dağ",
+     "elektrik telleri"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ormanlık dağ yamacında kiremit çatılı evler ve cami minaresi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "yerel haber",
+     "köy tanıtımı",
+     "gezi yazısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık kompleksi haberi",
+     "inşaat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta Akseki'den bir mahalle görülüyor ancak haberdeki modern sağlık kompleksi yer almıyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina"
+      ]
+     },
+     "t": "2026-11-25T11:11:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "196da525468e2e33",
+    "sha": "0800485732cf72e328ffc1f7"
+   },
+   "t": "2026-11-25T11:11:21+03:00",
+   "teknik": {
+    "doygunluk": 23.5,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.245,
+    "keskinlik": 3313,
+    "kontrast": 43,
+    "medyan": 70,
+    "parlaklik": 80,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_view_from_S%C3%BCleymaniye%2C_Akseki.jpg/1280px-A_view_from_S%C3%BCleymaniye%2C_Akseki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "5ccceb9e99d6bc7b": {
    "icerik": {
     "ana_kutu": [
@@ -78749,6 +79355,95 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Antalya%2C_Turkey_-_panoramio_-_Robert_Helvie_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "63d299e7418ba3e3": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     300,
+     950,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hastane binası",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern cam cepheli bir tıp merkezi binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "mimari haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Üzerinde yabancı dilde isim yazan bir bina, Akseki'deki yerel bir proje için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       300,
+       950,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:12:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "efffefeeeeeddb5e",
+    "sha": "25fa279b18d4158f07e74258"
+   },
+   "t": "2026-11-25T11:12:06+03:00",
+   "teknik": {
+    "doygunluk": 63.9,
+    "inen": [
+     400,
+     267
+    ],
+    "karanlik_oran": 0.38,
+    "keskinlik": 2147,
+    "kontrast": 70,
+    "medyan": 69,
+    "parlaklik": 85,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1769698678497-c41f0ab47c3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwbWVkaWNhbCUyMGNlbnRlciUyMGV4dGVyaW9yfGVufDF8MHx8fDE3OTU1OTQyODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "63d7bb6eed98bc38": {
    "icerik": {
@@ -84885,6 +85580,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Weighbridge_outside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg/1280px-Weighbridge_outside_the_%28old%29_Market_House%2C_Blessington%2C_Co._Wicklow%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "6c6dfd2d121e40b5": {
+   "ozet": {
+    "dh": "eadde550b89ab3a1",
+    "sha": "51fa403bd921c2c16e3cf6f9"
+   },
+   "t": "2026-11-25T11:10:01+03:00",
+   "teknik": {
+    "doygunluk": 19.4,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.45,
+    "keskinlik": 6081,
+    "kontrast": 81,
+    "medyan": 61,
+    "parlaklik": 91,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Agave_americana_%28century_plant%29%2C_seeds_%28SaatPilot%29.jpg/1280px-Agave_americana_%28century_plant%29%2C_seeds_%28SaatPilot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "6c721f0fd4bfa8ce": {
    "icerik": {
     "ana_kutu": [
@@ -85653,6 +86369,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg/1280px-Wolfowitz%2C_Babacan_%26_de_Rato_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6d708ba9f17dcdd7": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "dağ",
+     "bulut",
+     "ağaç",
+     "minare"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağ manzaralı vadide yer alan yerleşim yeri ve bulutlu gökyüzü",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "manzara haberi",
+     "turizm"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık kompleksi haberi",
+     "inşaat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akseki manzarası sunmaktadır ancak sağlık kompleksine dair belirgin bir yapı veya inşaat çalışması içermez.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:11:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b75f5f0d39379fab",
+    "sha": "6518e6a7b18a254e2c1c4c5e"
+   },
+   "t": "2026-11-25T11:11:21+03:00",
+   "teknik": {
+    "doygunluk": 35.8,
+    "inen": [
+     500,
+     225
+    ],
+    "karanlik_oran": 0.136,
+    "keskinlik": 1577,
+    "kontrast": 62,
+    "medyan": 118,
+    "parlaklik": 121,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/View_of_Akseki_4.jpg/1280px-View_of_Akseki_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6d8f4c5b865d9ea3": {
    "icerik": {
@@ -88557,6 +89365,103 @@
    },
    "url": "https://images.unsplash.com/photo-1783578691777-35e73eef4d01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwZGVidCUyMGNhbGN1bGF0b3IlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3OTUwMDExNzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "71056d8285b8fc98": {
+   "icerik": {
+    "ana_kutu": [
+     287,
+     263,
+     687,
+     982
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "duvar",
+     "afiş",
+     "telefon direği",
+     "ot"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki katlı bina ve önündeki duvar asılmış afişler.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık kurumu haberleri",
+     "yerel yönetim haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Akseki sağlık kompleksi haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina Akseki'deki modern sağlık kompleksiyle uyuşmamaktadır, yabancı bir kurum binasıdır.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": true
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       287,
+       263,
+       687,
+       982
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina"
+      ]
+     },
+     "t": "2026-11-25T11:10:35+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ccc4f676726666f2",
+    "sha": "c5bd419458912b6fbebb0a28"
+   },
+   "t": "2026-11-25T11:10:56+03:00",
+   "teknik": {
+    "doygunluk": 25.5,
+    "inen": [
+     500,
+     376
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 2600,
+    "kontrast": 72,
+    "medyan": 106,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Health_Insurance_Authority_Building_at_Obafemi_Awolowo_University_Teaching_Hospitals_Complex.jpg/1280px-National_Health_Insurance_Authority_Building_at_Obafemi_Awolowo_University_Teaching_Hospitals_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "713b56b3c477912f": {
    "icerik": {
     "ana_kutu": [
@@ -89698,6 +90603,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Turkey_-_Antalya_in_2023.jpg/1280px-Turkey_-_Antalya_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "72bf5d9c83564615": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "dağ",
+     "ağaç",
+     "yol",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kayalık dağ manzarası ve ön planda yol kenarı bitkileri",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "coğrafi konum haberi",
+     "doğa yürüyüşü",
+     "seyahat"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık kompleksi haberi",
+     "inşaat haberi"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görsel sadece dağ manzarası içermekte olup sağlık kompleksi ile ilgili hiçbir unsur barındırmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:11:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f1f03000f070705",
+    "sha": "b8a73d61297a8aeccbbc63f8"
+   },
+   "t": "2026-11-25T11:11:21+03:00",
+   "teknik": {
+    "doygunluk": 39.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.37,
+    "keskinlik": 2097,
+    "kontrast": 87,
+    "medyan": 71,
+    "parlaklik": 109,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/07630_Erenyaka-Akseki-Antalya%2C_Turkey_-_panoramio.jpg/1280px-07630_Erenyaka-Akseki-Antalya%2C_Turkey_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "72d410c943f251a5": {
    "t": "2026-11-08T16:05:53+03:00",
@@ -106577,6 +107573,36 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:a4821a64ca00:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antik tiyatro mimarisi çizimidir, güncel tiyatro oyunu haberi için yetersizdir.",
+      "gerekli": [
+       {
+        "unsur": "tiyatro sahnesi",
+        "var": true
+       },
+       {
+        "unsur": "oyuncular",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:09:29+03:00"
+    },
     "r1:b9d14ba5a612:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -106612,7 +107638,7 @@
     "dh": "724f0f0f0e17ee69",
     "sha": "9c936fe9f86df97df3da00eb"
    },
-   "t": "2026-11-10T11:08:09+03:00",
+   "t": "2026-11-25T11:09:29+03:00",
    "teknik": {
     "doygunluk": 7.9,
     "inen": [
@@ -107671,6 +108697,102 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Reading_Books_by_a_teenage_girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "87f73387cb605c76": {
+   "icerik": {
+    "ana_kutu": [
+     51,
+     147,
+     951,
+     942
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "limon",
+     "buz kalıbı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pembe zemin üzerinde limon dilimleri ve mavi buzluk kalıbı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "cilt bakımı",
+     "güzellik",
+     "doğal maske"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:13848f95c833:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Cilt bakım ürünleri ve buz kalıbı cilt sağlığı haberi için temsilî kullanılabilir.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": false
+       },
+       {
+        "unsur": "cilt sagligi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       51,
+       147,
+       951,
+       942
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta yatakları"
+      ]
+     },
+     "t": "2026-11-25T11:10:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "08121a0aa6262323",
+    "sha": "e65eadf880554161f42a421e"
+   },
+   "t": "2026-11-25T11:10:06+03:00",
+   "teknik": {
+    "doygunluk": 27.6,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.007,
+    "keskinlik": 464,
+    "kontrast": 40,
+    "medyan": 197,
+    "parlaklik": 189,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Refreshing_lemon_sorbet_served_in_a_blue_dessert_mold_with_sliced_lemon.jpg/1280px-Refreshing_lemon_sorbet_served_in_a_blue_dessert_mold_with_sliced_lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "87fb40302cf8e162": {
    "icerik": {
@@ -131529,6 +132651,39 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf eski, yabancı ve modern sağlık kompleksi yerine eski bir endüstriyel tesisi gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina",
+       "kalabalık insan grubu"
+      ]
+     },
+     "t": "2026-11-25T11:10:56+03:00"
+    },
     "r1:fa7656436c1c:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -131569,7 +132724,7 @@
     "dh": "a6ecc8d899d93a0a",
     "sha": "a7bf0232c8e544d7c5076081"
    },
-   "t": "2026-11-16T15:44:07+03:00",
+   "t": "2026-11-25T11:10:56+03:00",
    "teknik": {
     "doygunluk": 14.2,
     "inen": [
@@ -137522,6 +138677,41 @@
      },
      "t": "2026-11-08T12:11:00+03:00"
     },
+    "r1:a4821a64ca00:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sahnede performans sergileyen oyuncular tiyatro haberine tamamen uygundur.",
+      "gerekli": [
+       {
+        "unsur": "tiyatro sahnesi",
+        "var": true
+       },
+       {
+        "unsur": "oyuncular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       215,
+       90,
+       930,
+       800
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:09:29+03:00"
+    },
     "r1:d8b16013275e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -137583,7 +138773,7 @@
     "dh": "190913026a536f27",
     "sha": "15101eb0c01f616e67e329ac"
    },
-   "t": "2026-11-21T11:31:16+03:00",
+   "t": "2026-11-25T11:09:29+03:00",
    "teknik": {
     "doygunluk": 64.2,
     "inen": [
@@ -140965,35 +142155,6 @@
      },
      "t": "2026-11-21T20:31:26+03:00"
     },
-    "r1:3c36eb2c6a9f:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Genel bir bina cephesi detayıdır, hastane binasıyla ilgisi yoktur.",
-      "gerekli": [
-       {
-        "unsur": "hastane binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": [
-       "can kaybı",
-       "ameliyathane"
-      ]
-     },
-     "t": "2026-11-17T14:54:15+03:00"
-    },
     "r1:4e54b4452834:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -141127,6 +142288,44 @@
      },
      "t": "2026-11-20T20:01:40+03:00"
     },
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Modern bina detayı sunuyor ancak spesifik olarak bir sağlık merkezi olduğu anlaşılmıyor.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "eski bina",
+       "kalabalık insan grubu"
+      ]
+     },
+     "t": "2026-11-25T11:10:56+03:00"
+    },
     "r1:ab5549aa90f8:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -141220,7 +142419,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-24T12:37:48+03:00",
+   "t": "2026-11-25T11:10:56+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -144586,6 +145785,98 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Expo_2025_Turkey_Pavilion_02.JPG/1280px-Expo_2025_Turkey_Pavilion_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b75dfafb04274740": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "dağ",
+     "ağaç",
+     "futbol sahası",
+     "gökyüzü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dağlar eteklerinde kurulmuş yerleşim yeri ve genel manzara",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "şehir tanıtımı",
+     "ilçe genel görünümü",
+     "gezi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık kompleksi haberi",
+     "inşaat haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Akseki ilçesinin genel şehir manzarasını gösterir, ancak haberde geçen özel sağlık kompleksini göstermez.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": false
+       },
+       {
+        "unsur": "modern bina",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:11:21+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fffff3f0de3b3ba7",
+    "sha": "9de4bad98cb4efe91719bb1d"
+   },
+   "t": "2026-11-25T11:11:21+03:00",
+   "teknik": {
+    "doygunluk": 35.7,
+    "inen": [
+     500,
+     225
+    ],
+    "karanlik_oran": 0.111,
+    "keskinlik": 2354,
+    "kontrast": 61,
+    "medyan": 121,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/View_of_Akseki_6.jpg/1280px-View_of_Akseki_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b77338ad86709636": {
    "icerik": {
@@ -163902,6 +165193,103 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg/1280px-J22_322_Hotel_%C2%BBWater_Planet%C2%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d13447fd3b408261": {
+   "icerik": {
+    "ana_kutu": [
+     39,
+     172,
+     1000,
+     866
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "gözlük",
+     "ceket",
+     "gömlek",
+     "kravat"
+    ],
+    "notr_portre": true,
+    "s": "i3",
+    "sahne": "Ceketli ve gözlüklü bir erkeğin portresi",
+    "sahne_turu": "portre",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "akademik haber",
+     "biyografi"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "spor"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      69,
+      385,
+      686,
+      650
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:13848f95c833:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki kişi haberin öznesi olan Ayşe Akman değil, başka bir akademisyendir.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": true
+       },
+       {
+        "unsur": "cilt saglıgı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": true,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:09:52+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "f2ebfbf3f3e9eccc",
+    "sha": "209a4f979b140b8977eacd82"
+   },
+   "t": "2026-11-25T11:09:52+03:00",
+   "teknik": {
+    "doygunluk": 22.0,
+    "inen": [
+     500,
+     285
+    ],
+    "karanlik_oran": 0.038,
+    "keskinlik": 405,
+    "kontrast": 52,
+    "medyan": 176,
+    "parlaklik": 157,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Prof.Dr._Nurullah_B%C3%BClb%C3%BCller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "d1c7269792136afb": {
    "icerik": {
     "ana_kutu": [
@@ -168741,6 +170129,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Dancing_Woman_Antalya_Museum_P9281518.jpg/1280px-Dancing_Woman_Antalya_Museum_P9281518.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d9dd195ec70ef665": {
+   "icerik": {
+    "ana_kutu": [
+     257,
+     75,
+     483,
+     885
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "balık",
+     "cetvel"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi zemin üzerinde küçük bir balık ve cetvel.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "balıkçılık",
+     "deniz biyolojisi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık",
+     "cilt bakımı",
+     "teknoloji"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:13848f95c833:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki balık haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "doktor",
+        "var": false
+       },
+       {
+        "unsur": "cilt sagligi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasta yatakları"
+      ]
+     },
+     "t": "2026-11-25T11:10:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "66968f476f6f3f2d",
+    "sha": "7b8ca1e689c174824ec503b4"
+   },
+   "t": "2026-11-25T11:10:06+03:00",
+   "teknik": {
+    "doygunluk": 56.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.334,
+    "keskinlik": 2035,
+    "kontrast": 69,
+    "medyan": 69,
+    "parlaklik": 98,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Zaphotias_pedaliotus.jpg/1280px-Zaphotias_pedaliotus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "da0ce50187c9ab60": {
    "icerik": {
@@ -194924,6 +196403,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Scrap_metal_art_05.jpg/1280px-Scrap_metal_art_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fa55df1829acad82": {
+   "ozet": {
+    "dh": "1859989898989819",
+    "sha": "34704711a514eefcd40ea079"
+   },
+   "t": "2026-11-25T11:09:24+03:00",
+   "teknik": {
+    "doygunluk": 14.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.5,
+    "keskinlik": 1563,
+    "kontrast": 52,
+    "medyan": 50,
+    "parlaklik": 67,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antalya_Museum_Marsyas_from_Perge_theatre_7692.jpg/1280px-Antalya_Museum_Marsyas_from_Perge_theatre_7692.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fa68d72a38d18d98": {
    "ozet": {
     "dh": "899f9f9eccef8eac",
@@ -196096,6 +197596,95 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_redevelopment_of_Lansdowne_Road_Stadium_%283776749810%29.jpg/1280px-The_redevelopment_of_Lansdowne_Road_Stadium_%283776749810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "fc153fcbe2aa2ae7": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     200,
+     950,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "hastane binası",
+     "tabela"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Modern cam cepheli bir tıp merkezi binası.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık haberi",
+     "mimari haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:97f038a5450a:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": true,
+      "gerekce": "Üzerinde yabancı dilde isim yazan bir bina, Akseki'deki yerel bir proje için yanıltıcıdır.",
+      "gerekli": [
+       {
+        "unsur": "sağlık merkezi binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       200,
+       950,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-25T11:12:06+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fefcfcfffcfedcbc",
+    "sha": "94054336234ed7c539d5c020"
+   },
+   "t": "2026-11-25T11:12:06+03:00",
+   "teknik": {
+    "doygunluk": 77.6,
+    "inen": [
+     400,
+     297
+    ],
+    "karanlik_oran": 0.2,
+    "keskinlik": 1393,
+    "kontrast": 51,
+    "medyan": 72,
+    "parlaklik": 83,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1764885415480-558e5631d371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8Nnx8bW9kZXJuJTIwbWVkaWNhbCUyMGNlbnRlciUyMGV4dGVyaW9yfGVufDF8MHx8fDE3OTU1OTQyODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "fc163448004ccd20": {
    "icerik": {
@@ -210075,7 +211664,7 @@
    "gosterim_ad": "tiyatro gösterisi",
    "ilk_kabul": "2026-11-08T12:11:00+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 2,
+   "kabul_sayisi": 3,
    "kaynak": {
     "atif": "Samiul Haque Bhuyan / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -210115,7 +211704,7 @@
    "qid": "",
    "sahne_turu": "olay_etkinlik",
    "sinif": "konu",
-   "son_kabul": "2026-11-16T12:43:33+03:00",
+   "son_kabul": "2026-11-25T11:09:29+03:00",
    "url": "https://images.unsplash.com/photo-1741681001273-db60e15e623d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8bW9ub2RyYW1hJTIwc3RhZ2UlMjBhY3RvcnxlbnwxfDB8fHwxNzk0MTI5MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
