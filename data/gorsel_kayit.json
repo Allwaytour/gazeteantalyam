@@ -2010,5 +2010,407 @@
   ],
   "aday_sayisi": 10,
   "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T20:11:28+03:00",
+  "haber": "20261126-konyaalti-belediyesi-hayatparkta-insaat-muhendisligi-409a0.md",
+  "baslik": "Konyaaltı Belediyesi Hayatpark'ta inşaat mühendisliği öğrencilerini ağırladı",
+  "brief": {
+   "ana_konu": "İnşaat mühendisliği öğrencilerinin şantiye veya park alanındaki teknik gezisi",
+   "olmasi_gereken": [
+    "öğrenciler",
+    "inşaat sahası veya park",
+    "baretli kişiler"
+   ],
+   "varliklar": [
+    {
+     "ad": "HayatPark",
+     "tur": "mekan"
+    },
+    {
+     "ad": "Konyaaltı Belediyesi",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "kapalı sınıf ortamı",
+    "laboratuvar"
+   ],
+   "sorgular_en": [
+    "engineering students construction site visit",
+    "civil engineering field trip"
+   ],
+   "sorgular_tr": [
+    "inşaat mühendisliği öğrencilerinin teknik gezisi",
+    "şantiyede inceleme yapan öğrenciler"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "kurum:/images/kurum/e3c7221701dca071.jpg",
+    "url": "/images/kurum/e3c7221701dca071.jpg",
+    "kaynak": "kurum",
+    "sorgu": "kurum sitesi",
+    "puan": 3,
+    "gerekce": "Haberin konusu olan inşaat mühendisliği teknik gezisiyle doğrudan ilgisi yok, sadece genel bir Antalya manzarası gösteriyor.",
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "pixabay:2195329",
+    "url": "https://pixabay.com/get/g9cfff63a481f872dbf1d128ad8ea5a5f274578e246e7e14dbac85ab1d1b3d8294c532c524828ca205f27106cedd597faaaf88bfc98d1fe30ee4082e5a746c707_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "engineering students construction site visit",
+    "puan": 5,
+    "gerekce": "Şantiye ortamını yansıtıyor ancak haberde geçen öğrenciler ve teknik gezi unsuru eksik, genel bir stok görsel.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:2316267",
+    "url": "https://pixabay.com/get/g50897afdbf8fd58aaa01ea1bdbe6c5a44bd1484b546e9269776e96b587cec159bffdd41675dfddbfd0c19ffee47d227a9248f726a0f7f06a63cf351b06734cf5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "civil engineering field trip",
+    "puan": 4,
+    "gerekce": "Şantiye ortamı var ancak tünel inşaatı HayatPark'taki Kır Restoranı projesiyle uyuşmuyor, ayrıca öğrenciler görünmüyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:10411397",
+    "url": "https://pixabay.com/get/gf5571bb0827eece87d7b6e086814f8bb85cce37293e1bde374ac496fe34fa8acea611cd9829f36b3a42ca81aa4c8a9ea6f1539bcae0c5ab45313b832685fb9b3_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "engineering students construction site visit",
+    "puan": 5,
+    "gerekce": "İnşaat sahasını gösteriyor ancak siyah-beyaz tonu ve öğrenci grubunun eksikliği nedeniyle habere tam uyum sağlamıyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4941158",
+    "url": "https://pixabay.com/get/g9148de4e1031ac45056d23b5aece35d2f023d931d4b785bfa7215c76602d6191c6a30c7859745cb529d97b4bdd47fcd70df85db7618d7acc1ee19be78209747f_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "civil engineering field trip",
+    "puan": 2,
+    "gerekce": "Brief'te 'kapalı sınıf ortamı' kaçınılacak unsurlar arasında belirtildiği için bu görsel uygun değil.",
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "pixabay:800996",
+    "url": "https://pixabay.com/get/g8db756ce86ced3a5c57fac40ee7e3b1d8516a2d3d5417572809f06ef9783fae47d03bb3c8ce817651a6b2ff15b346383_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "engineering students construction site visit",
+    "puan": 5,
+    "gerekce": "Şantiye ortamını yansıtıyor fakat teknik gezi yapan öğrenciler ve proje alanı özellikleri bu görselde bulunmuyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:2660502",
+    "url": "https://pixabay.com/get/g99dcba5348966f900b703d47bbf54d413553ed9926789c90a15ca15459143c88dcb0f0b3c872ec62ecbb6f9810089272257be0d70974c9c97cc2f3ba0f7fae10_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "civil engineering field trip",
+    "puan": 6,
+    "gerekce": "İnşaat ve şantiye ortamı net şekilde görülüyor, ancak teknik inceleme yapan öğrenciler yer almıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:3703469",
+    "url": "https://pixabay.com/get/g60ba69628f832593909bf65a3726fd362dab563d01bd8b22e8e2fbfef7484db7c82ff39056859cf15f9729524505e78761624b5238b8b2d028013d443040d89b_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "engineering students construction site visit",
+    "puan": 4,
+    "gerekce": "Genel bir inşaat görseli olup, brief'teki öğrenci gezisi ve şantiye detaylarını karşılamaktan uzak.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:3659608",
+    "url": "https://pixabay.com/get/g61adf0e611b465526f2cf116996b07bc8b1b5b133e6c652a1745a0a8513026eaf60c5aaece8609f680c4e5a2de22c5383b6d506ea960ddafda25bee0033be4b6_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "civil engineering field trip",
+    "puan": 4,
+    "gerekce": "Yol şantiyesi görüntüsü, park ve restoran projesiyle ve teknik gezi haberiyle doğrudan uyuşmuyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:1846346",
+    "url": "https://pixabay.com/get/ga948e1790a58495fcd6bd1e0250354667a93b43772ad0410b504c92937f401c2f58ede394d4cb5b3ecab071c5dbcb3a0a95a4a0e7df2d5c2b93e5d9d52ac714e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "engineering students construction site visit",
+    "puan": 4,
+    "gerekce": "Endüstriyel bir şantiye alanı gösterilse de haberin içeriğindeki öğrencilerin teknik gezisiyle ilgisi bulunmuyor.",
+    "neden": "puan 4 < 7"
+   }
+  ],
+  "notlar": [
+   "Commons hatası (HayatPark): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=HayatPark+filet",
+   "Commons hatası (Konyaaltı Belediyesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Kony",
+   "Commons hatası (inşaat mühendisliği öğrencilerinin teknik gezisi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&gen",
+   "Commons hatası (şantiyede inceleme yapan öğrenciler): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search"
+  ],
+  "aday_sayisi": 11,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T20:12:04+03:00",
+  "haber": "20261126-alanyada-ticari-gayrimenkul-piyasasinda-devir-ilanlari-artti-c1303.md",
+  "baslik": "Alanya'da ticari gayrimenkul piyasasında devir ilanları arttı",
+  "brief": {
+   "ana_konu": "Alanya'da artan maliyetler nedeniyle artan dükkan devir ve kiralık ilanları",
+   "olmasi_gereken": [
+    "dükkan camında kiralık ya da satılık yazısı",
+    "ticari dükkan"
+   ],
+   "varliklar": [
+    {
+     "ad": "Alanya",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "alışveriş yapan kalabalıklar",
+    "turistik plaj görüntüleri"
+   ],
+   "sorgular_en": [
+    "store for rent sign",
+    "empty commercial shop Turkey"
+   ],
+   "sorgular_tr": [
+    "devren kiralık dükkan",
+    "satılık dükkan camı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:5932230",
+    "url": "https://pixabay.com/get/g2a96c4ccf36d925ea2da26f356b5d83375e6b151dce2834f90c6c412ac4955ced47fb89b33eebfe04a3b46cfc118ce76a54b274487a4111d880bc5b4939021aa_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "store for rent sign",
+    "puan": 4,
+    "gerekce": "Genel bir sokak görünümü sunuyor ancak yabancı bir şehir olduğu için bağlamla zayıf ilişkili.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:4975863",
+    "url": "https://pixabay.com/get/gb4f15750e275f666873616c099d7947dd487a0d56be9faca0d15cd63ffe5117baac086ed43191353de09cd270d7d0d0e4c0c60d0fbc3e558fb3e9dc88b68a7a8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "empty commercial shop Turkey",
+    "puan": 5,
+    "gerekce": "Ticari dükkanları gösterse de yabancı tabela ve şehir yapısı nedeniyle Alanya haberi için uygun değil.",
+    "neden": "puan 5 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:2770597",
+    "url": "https://pixabay.com/get/g27085f4b395788637ef882e97776f8074e4e1e864b9ff245f82680339ad2fd87638d024eaa0190c83011c06904862aee22a53bf5efec47c6b74a38a0959132d3_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "store for rent sign",
+    "puan": 2,
+    "gerekce": "Briefte kaçınılması istenen plaj görüntüsünü içerdiği ve yabancı dilde tabela taşıdığı için uygun değil.",
+    "neden": "puan 2 < 7; kesin ret: baska_sehir, kacinilacak; kesin ret: baska_sehir (hong kong)"
+   },
+   {
+    "id": "pixabay:3341001",
+    "url": "https://pixabay.com/get/gbd2838b556d6792783b4f399e7de9d45b76759e71cde78604b6a5495769b05c87693d530cf93ccb50b2fb750c96b11a6af3e64006ed0bdb703d1d31c62545469_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "empty commercial shop Turkey",
+    "puan": 4,
+    "gerekce": "Dükkanların yer aldığı boş bir koridor gösterse de Alanya'daki cadde üstü dükkan devirlerini tam yansıtmıyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:1191281",
+    "url": "https://pixabay.com/get/g9ab20f2ecf7b941b4a0da3392117f6139f02cb296d974eb03b93836753c05be7e6397244571183bd1741a8ac35a3f5c89b6051d49677294d9fcd6e598da06ac0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "store for rent sign",
+    "puan": 3,
+    "gerekce": "Haberin konusu olan dükkan devri ve kiralık ilanlarıyla doğrudan bir ilişki kurmuyor.",
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "pixabay:5475283",
+    "url": "https://pixabay.com/get/g2030fdc6c6a331a932fe09f35d91529d14617d916d752c2d09dc21d2cad102e497a5c32fc563a193d45d619b6eb6c492e82a9983ebb38003a3d43faa3d377c96_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "empty commercial shop Turkey",
+    "puan": 5,
+    "gerekce": "Ticari dükkan yoğunluğunu gösterse de yabancı şehir ve tabelalar nedeniyle habere tam uyum sağlamıyor.",
+    "neden": "puan 5 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:1617495",
+    "url": "https://pixabay.com/get/g91d01b34b9e2a042b87b4dcd3f64820e0edded40e9f6ce72b12f37e76861209efc5ee05c81ccdb4381abdc4913039d8474941565a3c9443fb604dda997787fe5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "store for rent sign",
+    "puan": 3,
+    "gerekce": "İş yerleriyle ilgili olsa da dükkan devirleri ve maliyet artışını temsil etmekten uzak.",
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "pixabay:1853924",
+    "url": "https://pixabay.com/get/g687763324f395607eb6d92439e5bd0638d9dbc61d07e5ff4ffeab37d03475ef75a98a0f27f8ae1cc3fd38cb64335d0101320494a6a9bc1db1ab309b534c84a54_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "empty commercial shop Turkey",
+    "puan": 3,
+    "gerekce": "Soyut bir işletme görseli olup, ekonomik durgunluk ve devir ilanları haberini desteklemiyor.",
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "pixabay:4284023",
+    "url": "https://pixabay.com/get/g202dcbda91d334d56f92e01fc3f642630867e8a6703c4ba3c2f6bfe6de11642833317a1bfff5f2c735cfa4e5d648c56c6c6532484720b8b6ae86bd7d9927f151_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "store for rent sign",
+    "puan": 2,
+    "gerekce": "Kira konusuyla ilgili olsa da yabancı para birimi (EUR) ve yabancı mevzuat metni içeriyor.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_para"
+   },
+   {
+    "id": "pixabay:8032702",
+    "url": "https://pixabay.com/get/g648f873fe167d6aadfa29227b49f9b08547a3648fc072a1afe80da972abca7dbda4b777bf679edcda40ecf5ee4502891d6034e65d0b3d922a0beb4574f22eaa1_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "empty commercial shop Turkey",
+    "puan": 3,
+    "gerekce": "İş yeri konseptine uygun olsa da kiralık veya devren satılık dükkan vurgusunu yansıtmıyor.",
+    "neden": "puan 3 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Alanya): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alanya+filetype%3A",
+   "Commons hatası (devren kiralık dükkan): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=dev",
+   "Commons hatası (satılık dükkan camı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=sat%C"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T20:12:23+03:00",
+  "haber": "20261126-serikte-emekli-ogretmenler-kahvaltida-bir-araya-geldi-7bf18.md",
+  "baslik": "Serik'te emekli öğretmenler kahvaltıda bir araya geldi",
+  "brief": {
+   "ana_konu": "Serik'te emekli öğretmenler için düzenlenen kahvaltı buluşması.",
+   "olmasi_gereken": [
+    "öğretmenler",
+    "kahvaltı masası",
+    "toplantı salonu"
+   ],
+   "varliklar": [
+    {
+     "ad": "Serik Öğretmenevi",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "öğrenciler",
+    "sınıf ortamı"
+   ],
+   "sorgular_en": [
+    "teachers breakfast meeting",
+    "retired teachers gathering"
+   ],
+   "sorgular_tr": [
+    "Serik Öğretmenevi",
+    "öğretmenler kahvaltısı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:1979261",
+    "url": "https://pixabay.com/get/g714eb29390718e7935142a1f2fc0f989fb011e441d8e5e1a61be7fe2a3c840e975bafa26ce4a41a5b43b3f5c3a7427fec0132545ad71d15a0d8d236ea118a281_1280.jpg",
+    "kaynak": "pixabay",
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "pixabay:3694993",
+    "url": "https://pixabay.com/get/g7fa3af84586e0c4a453bd52cb31a72b3ae6e17aa4463eed8d2a7ad4ba7797dd56d3fffbc9123461d0c4d8b44cced3e537aa355c88ed6113562e9401f69309382_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "teachers breakfast meeting",
+    "puan": 4,
+    "gerekce": "Eğitim temalı genel bir görsel ancak kahvaltı buluşmasıyla doğrudan bir ilgisi bulunmuyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:1897635",
+    "url": "https://pixabay.com/get/g7e7a5618134b4e843f0536b6cf4f2b21a58df81319ba7e706cb8b26c8152150f105f4aa1ce6da4e20dad2f817f35edbeab03b91788923f950fb657537192ab6d_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "retired teachers gathering",
+    "puan": 0,
+    "gerekce": "Haberin konusuyla tamamen alakasız bir tren görseli, içerikle hiçbir bağı yok.",
+    "neden": "puan 0 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "pixabay:5059837",
+    "url": "https://pixabay.com/get/gf33df81ce320f6e143436f6ec4b8b43a222e9667db0e949d4651d5ad11ad7456f96021ea47eff93b51d345f55ef3a923c4243b13698050f4ac1688cb32811c32_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "teachers breakfast meeting",
+    "puan": 4,
+    "gerekce": "Toplantı ve eğitim çağrıştırsa da fiziksel bir kahvaltı buluşmasını yansıtmıyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:1868758",
+    "url": "https://pixabay.com/get/gb48645d7f771cdd4a3ae1d5b1f00611c0c495a2276de66b08615ec7e314cb0babddf2cd9888f08310bca92cb661fbe1bedc2b59c1b66557dca35dbccde15c5a9_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "retired teachers gathering",
+    "puan": 4,
+    "gerekce": "Öğretmen figürünü simgelese de emekli öğretmenlerin kahvaltı buluşmasını temsil etmiyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:256263",
+    "url": "https://pixabay.com/get/g7bd330f20522f6fa75516ad1d0bf0e175d842b6563eb51a654886277bc5aa0553b576324516ac1bff043abe5b1986e06_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "retired teachers gathering",
+    "puan": 5,
+    "gerekce": "Klasik öğretmen/eğitim simgesidir ancak kahvaltı buluşması haberi için yetersiz kalır.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:5382501",
+    "url": "https://pixabay.com/get/gc6aaa489c9378669949098fbee796044ea055c690acf9fc3d6c1885b03729dcf48be7e7657158f891bbca720a142d19c9e51761da463305742f32d1d3b8f19e9_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "teachers breakfast meeting",
+    "puan": 5,
+    "gerekce": "Bir toplantı ortamını gösteriyor ancak kahvaltı veya öğretmen buluşması konseptine tam uymuyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:9950607",
+    "url": "https://pixabay.com/get/g76ae01119d2757c1b9a6081c180e042f5e5e58402b7d5e5c5dabfd21cf0dca0ddb790a7842ca3782d3303a6d9752ccfd64acd741eade01dda480e5b8c518e792_640.png",
+    "kaynak": "pixabay",
+    "sorgu": "retired teachers gathering",
+    "puan": 0,
+    "gerekce": "Haberin içeriğiyle tamamen alakasız dini ve illüstratif bir çizim.",
+    "neden": "puan 0 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "pixabay:594091",
+    "url": "https://pixabay.com/get/g020e7fae59817d1ce985c535c2d25c9ea35c4bae29413184f5fad99808e04e219b3e490345f1b229663e04b95f2a5e88_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "teachers breakfast meeting",
+    "puan": 6,
+    "gerekce": "Toplantı veya masa başı buluşma ortamını yansıtıyor, ancak öğretmen kahvaltısını doğrudan göstermiyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:5831644",
+    "url": "https://pixabay.com/get/gcc17f9fb59eb7d600b14dfe68f962d6a7490bf199507e34d85e8fae4ca8fb00c8f59c93ba2ede6b10d72874734a45d3e55d67b1dc0fe0a23bb6a658d98421b41_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "retired teachers gathering",
+    "puan": 3,
+    "gerekce": "Öğrenci ortamı içerdiği ve kahvaltıyla ilgisi olmadığı için uygun değil.",
+    "neden": "puan 3 < 7; kesin ret: kacinilacak"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Serik Öğretmenevi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Serik+%",
+   "Commons hatası (Serik Öğretmenevi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Serik+%",
+   "Commons hatası (öğretmenler kahvaltısı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%C"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
  }
 ]

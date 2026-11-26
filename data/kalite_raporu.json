@@ -100,6 +100,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 3
+  },
+  {
+   "tarih": "2026-11-26T20:10:54+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 3,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -458,6 +471,65 @@
     "editor": "yapıldı"
    },
    "dosya": "bekleyen/haber/20261126-antalyali-sehit-askerlerin-naaslari-memleketine-ulasti-dad34.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:11:28+03:00",
+   "baslik": "Konyaaltı Belediyesi Hayatpark'ta inşaat mühendisliği öğrencilerini ağırladı",
+   "kaynak": "GazeteKalem",
+   "kaynak_url": "https://gazetekalem.com.tr/antalya-konyaalti-belediyesi-hayatparkta-gelecegin-muhendislerini-agirladi/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [
+     "başlık cümle düzenine getirildi: Konyaaltı Belediyesi HayatPark'ta inşaat mühendisliği öğrencilerini ağırladı → Konyaaltı Belediyesi Hayatpark'ta inşaat mühendisliği öğrencilerini ağırladı"
+    ],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-konyaalti-belediyesi-hayatparkta-insaat-muhendisligi-409a0.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:12:04+03:00",
+   "baslik": "Alanya'da ticari gayrimenkul piyasasında devir ilanları arttı",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/kapanan-kapanana-alanyada-devir-patlamasi-yasaniyor",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-alanyada-ticari-gayrimenkul-piyasasinda-devir-ilanlari-artti-c1303.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:12:23+03:00",
+   "baslik": "Serik'te emekli öğretmenler kahvaltıda bir araya geldi",
+   "kaynak": "Serik Postası Gazetesi",
+   "kaynak_url": "https://serikpostasi.com/haber/serikte-egitim-bir-senden-emekli-ogretmenlere-kahvalti-9416",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-serikte-emekli-ogretmenler-kahvaltida-bir-araya-geldi-7bf18.md",
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
