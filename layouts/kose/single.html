@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ if .Params.kaldirildi }}{{ partial "kaldirildi.html" . }}{{ else }}
 {{ $y := site.GetPage (printf "/yazarlar/%s" .Params.yazar) }}
 <div class="izgara">
   <article class="haber">
@@ -21,4 +22,5 @@
     {{ partial "kenar.html" (dict "hepsi" (partialCached "haberler.html" . "hepsi")) }}
   </div>
 </div>
+{{ end }}{{/* kaldirildi */}}
 {{ end }}
