@@ -1,0 +1,430 @@
+diff --git a/assets/css/site.css b/assets/css/site.css
+index c81303ed..98aab0fc 100644
+--- a/assets/css/site.css
++++ b/assets/css/site.css
+@@ -554,3 +554,54 @@ mark.doldur{background:#FFF1B8;color:#5A4500;padding:0 3px;border-radius:2px}
+ }
+ .kaldirilan h1{margin-bottom:14px}.kaldirma-notu p{margin:4px 0}
+ .duz-liste{list-style:none;padding:0;margin:10px 0 24px}.duz-liste li{padding:10px 0;border-bottom:1px solid var(--cizgi,#E5E5E5)}.duz-liste small{display:block;color:var(--soluk,#666);margin-top:3px}
++
++/* ================= TASARIM DÜZELTMELERİ (27.11.2026) ================= */
++/* 1) Başlıklar hiçbir yerde kesilmez ("..." yok) */
++.hk-b,.hk-metin .hk-b,.yn-b,.yn-metin .yn-b,.slayt-b,.slayt-metin .slayt-b,.slayt-yan .slayt-b,.yazar-baslik,.one-metin-b,.manset-yazi-b{display:block;-webkit-line-clamp:none;line-clamp:none;overflow:visible}
++/* Görsel yüklenene kadar baskın renk (img üzerinde satır içi); kart zemini nötr */
++.hk-g{background:#EEF0F2}
++.hk-g img,.yn-foto img,.slayt img,.slayt-yan-g img,.kapak img{background-color:#E4E6E8}
++/* 6) Görselsiz kart: boş gri kutu yok; kategori etiketi, başlık, özet */
++.hk-metin .hk-m{padding:16px 18px 18px;gap:8px}
++.hk-metin .hk-o{display:block;-webkit-line-clamp:none;overflow:visible}
++/* 3) Reklam alanı: görselin oranında sabit yer (içerik kaymaz) */
++.reklam-alan{display:block;max-width:728px;margin:var(--ara) auto 0;text-align:center}
++.reklam-alan .vitrin-not{text-align:center;margin:0 0 5px;line-height:12px;height:12px}
++.reklam-alan .vitrin{display:block;width:100%;background:#E9EAEC;overflow:hidden}
++.reklam-alan .vitrin img{width:100%;height:100%;object-fit:cover}
++.ust-reklam .reklam-alan{max-width:970px;margin:0 auto}
++.icerik .reklam-alan{margin:24px auto 26px}
++/* 4) Etiketler yazının sonunda */
++.haber-etiketler-son{margin:24px 0 0;padding-top:16px;border-top:1px solid var(--cizgi);align-items:center}
++.haber-etiketler-son>span{font-size:13px;font-weight:900;text-transform:uppercase;letter-spacing:.04em;color:var(--soluk);margin-right:4px}
++@media (max-width:640px){
++  /* 1) Mobil: tek sütunlu liste — küçük görsel solda, başlık sağda */
++  .izgara-4,.izgara-3{grid-template-columns:minmax(0,1fr);gap:10px}
++  .hk-foto .hk-a{flex-direction:row;align-items:flex-start}
++  .hk-foto .hk-g{flex:none;width:128px;aspect-ratio:4/3;margin:12px 0 12px 12px}
++  .hk-foto .hk-m{padding:11px 12px 12px;gap:4px;min-width:0;align-self:center}
++  .hk-b,.hk-metin .hk-b{font-size:16px;line-height:1.3}
++  .hk-onemli.hk-metin .hk-b{font-size:17px}
++  .hk-metin{box-shadow:inset 3px 0 0 var(--turuncu)}
++  .hk-metin .hk-m{padding:12px 14px 13px;gap:5px}
++  .hk-metin .hk-o{font-size:14px;display:block}
++  .izgara-4 .hk-ust>span,.izgara-3 .hk-ust>span{display:inline}
++  .slayt-pencere{aspect-ratio:auto;height:auto}
++  .slayt-ic{align-items:stretch}
++  .slayt-foto>a{display:flex;flex-direction:column;height:100%}
++  .slayt-foto img{height:auto;aspect-ratio:4/3}
++  .slayt-foto .slayt-yazi{position:static;flex:1;padding:12px 16px 14px;background:var(--antrasit-koyu)}
++  .slayt-b{font-size:20px;text-shadow:none}
++  .yn-foto{aspect-ratio:auto}
++  .yn-foto>a{display:flex;flex-direction:row;align-items:center;gap:0;background:#fff;color:var(--metin)}
++  .yn-foto img{position:static;flex:none;width:128px;height:auto;aspect-ratio:4/3;margin:12px 0 12px 12px}
++  .yn-foto .yn-yazi{position:static;background:none;color:var(--metin);padding:11px 12px 12px}
++  .yn-b{font-size:16px}
++  .reklam-alan{margin-top:12px}
++  /* 2) WhatsApp düğmesi: küçük; aşağı kaydırırken gizlenir, yukarı kaydırınca görünür; sayfa sonunda içeriğin üstüne binmez */
++  .wa-yuzen{width:44px;height:44px;right:12px;bottom:12px;transition:transform .25s ease,opacity .25s ease}
++  .wa-yuzen svg{width:22px;height:22px}
++  .wa-yuzen.wa-gizli{transform:translateY(80px);opacity:0;pointer-events:none}
++  .alt-alt{padding-bottom:64px}
++}
++@media (prefers-reduced-motion:reduce){.wa-yuzen{transition:none}}
+diff --git a/assets/js/site.js b/assets/js/site.js
+index ba96001a..4f6be0e6 100644
+--- a/assets/js/site.js
++++ b/assets/js/site.js
+@@ -181,4 +181,22 @@
+       }).catch(function () { durum.textContent = "Arama şu an yapılamadı."; });
+     } else { durum.textContent = "Aramak istediğiniz kelimeyi yazın."; }
+   }
++
++  // WhatsApp yüzen düğmesi (mobil): aşağı kaydırırken gizlenir, yukarı kaydırınca görünür; sayfa sonunda (alt bilgi) gizli kalır
++  var wa = $(".wa-yuzen");
++  if (wa) {
++    var sonY = window.scrollY, bekliyor = false;
++    window.addEventListener("scroll", function () {
++      if (bekliyor) return;
++      bekliyor = true;
++      requestAnimationFrame(function () {
++        var y = window.scrollY, fark = y - sonY;
++        var dip = y + window.innerHeight > document.documentElement.scrollHeight - 140;
++        if (dip || (fark > 6 && y > 120)) wa.classList.add("wa-gizli");
++        else if (fark < -6) wa.classList.remove("wa-gizli");
++        if (Math.abs(fark) > 6) sonY = y;
++        bekliyor = false;
++      });
++    }, { passive: true });
++  }
+ })();
+diff --git a/layouts/haber/single.html b/layouts/haber/single.html
+index 94541423..29f8f6f7 100644
+--- a/layouts/haber/single.html
++++ b/layouts/haber/single.html
+@@ -19,16 +19,19 @@
+   </div>
+   <div class="izgara haber-izgara">
+     <article class="haber">
+-      {{ with .GetTerms "etiketler" }}<p class="haber-etiketler">{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
+       {{ with .Params.ozet }}<p class="spot">{{ . }}</p>{{ end }}
+-      {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := partial "gorsel-secim.html" $ }}{{ $konum := cond (or $s (not $.Params.gorsel_secim)) ($.Params.gorsel_konum | default "") "" }}{{ if and (ne $tur "kategori") (not (in . "/images/kategori/")) }}
++      {{ with .Params.gorsel }}{{ $tur := partial "gorsel-tur.html" $ }}{{ $s := partial "gorsel-secim.html" $ }}{{ $konum := cond (or $s (not $.Params.gorsel_secim)) ($.Params.gorsel_konum | default "") "" }}{{ if and (ne $tur "kategori") (not (in . "/images/kategori/")) (not (in . "/haber-gorsel/logo-")) (ne ($.Params.gorsel_tur | default "") "tipografik") }}
+       {{ $y := dict }}{{ with $.Params.gorsel_yerlesim }}{{ if eq .url ($.Params.gorsel | default "") }}{{ $y = . }}{{ end }}{{ end }}
+-      {{ $g := . | relURL }}{{ $buyuk := partial "gorsel-url.html" (dict "u" $g "w" 1280) }}{{ $orta := partial "gorsel-url.html" (dict "u" $g "w" 960) }}
++      {{ $g := . | relURL }}
+       {{/* Dikey fotoğraf kırpılmaz ve esnetilmez: özgün oranıyla, sınırlı yükseklikte ortalanır. */}}
+-      <figure class="kapak{{ if $y.dikey }} kapak-dikey{{ end }}"><img src="{{ $buyuk }}"{{ if ne $buyuk $g }} srcset="{{ $orta }} 960w, {{ $buyuk }} 1280w" sizes="(max-width:1000px) 100vw, 760px" data-asil="{{ $g }}"{{ end }}{{ with $y.boyut }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }}{{ if and $konum (not $y) }} style="aspect-ratio:16/9;object-fit:cover;object-position:{{ $konum | safeCSS }}"{{ end }} alt="{{ with $s.gosterilen }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" referrerpolicy="no-referrer">
++      <figure class="kapak{{ if $y.dikey }} kapak-dikey{{ end }}">{{ partial "resim.html" (dict "u" $g "boy" "haber" "yukle" "eager" "alt" (cond (ne ($s.gosterilen | default "") "") $s.gosterilen $.Title) "stil" (cond (and $konum (not $y) (ne (index ($s | default dict) "hat" | default "") "b2")) (printf "aspect-ratio:16/9;object-fit:cover;object-position:%s" $konum) "")) }}
+         {{/* Görselin altında yazı yok: kaynak, fotoğrafçı, "Temsilî/Arşiv fotoğrafı" notu gösterilmez (yayın sorumlusu kararı, 26.11.2026). */}}
+       </figure>{{ end }}{{ end }}
+-      <div class="icerik">{{ .Content }}</div>
++      {{/* Reklam ilk paragraftan sonra (başlıktan önce değil); etiketler yazının sonunda */}}
++      {{ $ic := .Content }}{{ $rk := partial "reklam-banner.html" "haber" }}
++      {{ if and $rk (in $ic "</p>") }}{{ $p := split $ic "</p>" }}{{ $ic = printf "%s</p>%s%s" (index $p 0) $rk (delimit (after 1 $p) "</p>") }}{{ else if $rk }}{{ $ic = printf "%s%s" $ic $rk }}{{ end }}
++      <div class="icerik">{{ $ic | safeHTML }}</div>
++      {{ with .GetTerms "etiketler" }}<p class="haber-etiketler haber-etiketler-son"><span>Etiketler</span>{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
+       {{ with .Params.duzeltmeler }}<aside class="duzeltmeler" aria-label="Düzeltmeler">
+         {{ range sort . "tarih" }}<p><b>Düzeltme{{ with .tarih }} (<time datetime="{{ (time .).Format "2006-01-02T15:04:05Z07:00" }}">{{ (time .).Format "02.01.2006" }}</time>){{ end }}:</b> {{ .not }}</p>{{ end }}
+         <p class="duzeltmeler-bag"><a href="{{ "duzeltme-politikasi/" | relURL }}">Düzeltme Politikamız</a></p>
+diff --git a/layouts/index.html b/layouts/index.html
+index c97a2874..df436c70 100644
+--- a/layouts/index.html
++++ b/layouts/index.html
+@@ -15,15 +15,17 @@
+      doğrulanmış karesi (alt) gösterilir; o da yoksa haberin tipografik görseli. */}}
+ {{ $gg := slice }}
+ {{ $slayt := slice }}{{ $mmetin := slice }}
+-{{/* Fotoğrafı manşete uymayan ya da fotoğrafı başka manşette kullanılan önemli haber, tipografik görseliyle (gorsel_yedek) manşete girer. */}}
++{{/* Manşette ve slaytta yalnızca fotoğraflı haberler yer alır (logo ya da başlık kartı fotoğraf sayılmaz); fotoğrafsız önemli haber
++     manşet bloğunun altındaki "öne çıkan" metin kutusuna girer. */}}
+ {{ range $sirali }}{{ if lt (len $slayt) 7 }}{{ $h := . }}
+-  {{ if and .yedek (or (and .manset_duzen (in $gg (partial "gorsel-anahtar.html" .gorsel))) (and (not .manset_duzen) (ge .onem 4))) }}{{ $h = merge . (dict "gorsel" .yedek "tipo" true "manset_duzen" "kaplama" "o_md" "50% 50%" "o_mm" "50% 50%") }}{{ end }}
+   {{ if and $h.manset_duzen (not (in $gg (partial "gorsel-anahtar.html" $h.gorsel))) }}{{ $slayt = $slayt | append $h }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $h.gorsel) }}
+   {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not $h.manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
+ {{ end }}{{ end }}
+ {{ if not $slayt }}{{ $mmetin = slice }}{{ range first 3 $sirali }}{{ $mmetin = $mmetin | append . }}{{ end }}{{ end }}
++{{/* Slayt için son 6 saatte fotoğraflı haber yoksa son fotoğraflı haberler kullanılır */}}
++{{ if not $slayt }}{{ range $hepsi }}{{ if and (lt (len $slayt) 5) .manset_duzen (not (in $gg (partial "gorsel-anahtar.html" .gorsel))) }}{{ $slayt = $slayt | append . }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ end }}
+ {{ range $slayt | append $mmetin }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
+-{{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) (not (in $kullanilan .link)) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
++{{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) .yan_foto (not (in $kullanilan .link)) (not (in $gg (partial "gorsel-anahtar.html" .gorsel))) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}
+ {{ $one := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $one) 8) (not (in $kullanilan .link)) }}{{ $one = $one | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+ 
+ {{/* ===== BÖLÜMLER (her haber ana sayfada yalnızca bir kez) ===== */}}
+@@ -37,8 +39,7 @@
+ 
+ <h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
+ 
+-<section class="ust-blok{{ if not $slayt }} ust-blok-metin{{ end }}" aria-label="Manşet">
+-  {{ if $slayt }}
++{{ if $slayt }}<section class="ust-blok" aria-label="Manşet">
+   <div class="manset" data-slayt>
+     <div class="slayt-pencere">
+       <div class="slayt-ic">
+@@ -69,15 +70,10 @@
+     </div>
+     <div class="slayt-nok">{{ range $i, $_ := $slayt }}<button type="button" aria-label="{{ add $i 1 }}. manşet">{{ add $i 1 }}</button>{{ end }}</div>
+   </div>
+-  {{ else }}
+-  <div class="manset-yazi">{{ with index $mmetin 0 }}
+-    <a href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>
+-    <span class="manset-yazi-b">{{ .baslik }}</span>{{ with .ozet }}<span class="manset-yazi-o">{{ . | plainify | truncate 260 }}</span>{{ end }}</a>{{ end }}
+-  </div>
+-  {{ $mmetin = after 1 $mmetin }}
+-  {{ end }}
+-  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if or .yan_foto .yan_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $h = merge . (dict "yan_foto" false "yan_p" false) }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
+-</section>
++  <div class="manset-yan">{{ range $yan }}{{ partial "yan-kart.html" . }}{{ end }}</div>
++</section>{{ end }}
++{{/* Reklam: manşet bloğunun altında, sabit oranlı alan (sayfa kaymaz) */}}
++{{ partial "reklam-banner.html" "ana" }}
+ {{ with $mmetin }}
+ <section class="one-metin" aria-label="Öne çıkan haberler">{{ range . }}
+   <a class="one-metin-k" href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>
+diff --git a/layouts/partials/gorsel.html b/layouts/partials/gorsel.html
+index 5ae4db7b..5867a4f9 100644
+--- a/layouts/partials/gorsel.html
++++ b/layouts/partials/gorsel.html
+@@ -1,4 +1,4 @@
+-{{/* Haber görseli ya da sade, markaya uygun yer tutucu. Parametre: haber sözlüğü (+ "buyuk", "odak", "odak_t", "odak_m").
+-     Odak noktası görsel hattının yerleşim kararından gelir (alan ve ekran genişliğine göre ayrı); yoksa eski elle konum. */}}
+-{{ if .gorsel }}{{ $k := partial "gorsel-url.html" (dict "u" .gorsel "w" (cond (.buyuk | default false) 960 500)) }}{{ $b := partial "gorsel-url.html" (dict "u" .gorsel "w" (cond (.buyuk | default false) 1280 960)) }}{{ $stil := "" }}{{ if .odak }}{{ $stil = printf "--o:%s" .odak }}{{ with .odak_t }}{{ $stil = printf "%s;--ot:%s" $stil . }}{{ end }}{{ with .odak_m }}{{ $stil = printf "%s;--om:%s" $stil . }}{{ end }}{{ else if .gorsel_konum }}{{ $stil = printf "object-position:%s" .gorsel_konum }}{{ end }}<img src="{{ $k }}"{{ if ne $b $k }} srcset="{{ $k }} {{ cond (.buyuk | default false) "960w" "500w" }}, {{ $b }} {{ cond (.buyuk | default false) "1280w" "960w" }}" sizes="{{ cond (.buyuk | default false) "(max-width:700px) 100vw, 66vw" "(max-width:700px) 100vw, 250px" }}"{{ end }}{{ if ne $k .gorsel }} data-asil="{{ .gorsel }}"{{ end }}{{ with $stil }} style="{{ . | safeCSS }}"{{ end }} alt="{{ .baslik }}" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+-{{ else }}<div class="yer" aria-hidden="true"><svg class="yer-gunes" viewBox="0 0 64 34"><g stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M14 30 4 26M18 22l-9-7M25 16l-5-10M32 14V3M39 16l5-10M46 22l9-7M50 30l10-4"/></g></svg><span>{{ .kategori }}</span></div>{{ end }}
++{{/* Haber kartı/manşet görseli. Parametre: haber sözlüğü (+ "buyuk", "odak", "odak_t", "odak_m"). Görsel yoksa hiçbir şey basılmaz
++     (boş gri kutu yok; görselsiz haber metin kartıyla gösterilir). Odak noktası yüze/konuya göre kırpma içindir (object-position). */}}
++{{ if .gorsel }}{{ $stil := "" }}{{ if .odak }}{{ $stil = printf "--o:%s" .odak }}{{ with .odak_t }}{{ $stil = printf "%s;--ot:%s" $stil . }}{{ end }}{{ with .odak_m }}{{ $stil = printf "%s;--om:%s" $stil . }}{{ end }}{{ else if .gorsel_konum }}{{ $stil = printf "--o:%s" .gorsel_konum }}{{ end }}
++{{ partial "resim.html" (dict "u" .gorsel "alt" .baslik "boy" (cond (.buyuk | default false) "buyuk" "kart") "stil" $stil "yukle" (.yukle | default "lazy")) }}{{ end }}
+diff --git a/layouts/partials/haberler.html b/layouts/partials/haberler.html
+index 7e83ccee..9ef2997a 100644
+--- a/layouts/partials/haberler.html
++++ b/layouts/partials/haberler.html
+@@ -9,21 +9,28 @@
+   {{ $kat := index (.Params.kategoriler | default (slice "Gündem")) 0 }}
+   {{ $ilce := "" }}{{ with .Params.ilceler }}{{ $ilce = index . 0 }}{{ end }}
+   {{ $g := "" }}{{ with .Params.gorsel }}{{ $g = . | relURL }}{{ end }}
+-  {{ $foto := and (ne $g "") (not (in $g "/images/kategori/")) }}
++  {{/* Logo (kurum/parti/üniversite logosu), tipografik başlık kartı ve kategori kapağı haber fotoğrafı sayılmaz: bu haberler
++       görselsiz metin kartıyla gösterilir, manşete ve slayta girmez (tasarım düzeltmesi 27.11.2026). */}}
++  {{ $logo := or (in $g "/images/kategori/") (in $g "/haber-gorsel/logo-") (eq (.Params.gorsel_tur | default "") "tipografik") }}
++  {{ $foto := and (ne $g "") (not $logo) }}
+   {{ $sec := partial "gorsel-secim.html" . }}
+   {{ $y := dict }}{{ with .Params.gorsel_yerlesim }}{{ if eq .url ($p.Params.gorsel | default "") }}{{ $y = . }}{{ end }}{{ end }}
+   {{ $kart := $foto }}{{ $md := cond $foto "kaplama" "" }}{{ $yan := $foto }}{{ $kartp := false }}{{ $yanp := false }}
+   {{ if $y }}{{ $kart = and $foto ($y.kart | default false) }}{{ $md = cond $foto ($y.manset | default "") "" }}{{ $yan = and $foto ($y.yan | default false) }}
+     {{ $kartp = and $foto (not $kart) ($y.kart_portre | default false) }}{{ $yanp = and $foto (not $yan) ($y.yan_portre | default false) }}{{ end }}
++  {{/* Portre fotoğrafı da yatay kartta gösterilir: kenarlarda boşluk kalmadan yüze göre kırpılır (object-fit: cover + object-position) */}}
++  {{ $portre := or $kartp $yanp }}{{ $po := cond $portre "50% 22%" "" }}
++  {{ $kart = or $kart $kartp }}{{ $yan = or $yan $yanp }}{{ $kartp = false }}{{ $yanp = false }}
++  {{ $alt := slice }}{{ if $kart }}{{ range .Params.gorsel_alternatif | default slice }}{{ if not (in . "/haber-gorsel/logo-") }}{{ $alt = $alt | append . }}{{ end }}{{ end }}{{ end }}
+   {{ $onem := int (.Params.onem | default 3) }}{{ if .Params.manset }}{{ $onem = 5 }}{{ end }}
+   {{ $liste = $liste | append (dict
+     "baslik" .Title "ozet" (.Params.ozet | default (.Summary | plainify)) "link" .RelPermalink
+     "gorsel" $g "gorsel_tur" (partial "gorsel-tur.html" .) "gorsel_yil" ($sec.cekim_yili | default "") "gorsel_konum" (cond (or $sec (not .Params.gorsel_secim)) (.Params.gorsel_konum | default "") "") "ts" .Date.Unix "iso" (.Date.Format "2006-01-02T15:04:05Z07:00")
+     "kategori" $kat "ilce" $ilce "kaynak" "" "dis" false "foto" $kart "foto_p" $kartp "foto_var" $foto "manset_duzen" $md "yan_foto" $yan "yan_p" $yanp
+-    "o_kart" ($y.o_kart | default "") "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "")
++    "o_kart" ($y.o_kart | default ($y.o_kart_p | default (.Params.gorsel_konum | default $po))) "o_kp" ($y.o_kart_p | default "") "o_md" ($y.o_manset_d | default "") "o_mm" ($y.o_manset_m | default "")
+     "o_myd" ($y.o_mansetyan_d | default "") "o_mym" ($y.o_mansetyan_m | default "")
+-    "o_yd" ($y.o_yan_d | default "") "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")
++    "o_yd" ($y.o_yan_d | default $po) "o_yt" ($y.o_yan_t | default "") "o_ym" ($y.o_yan_m | default "")
+     "yazar" (.Params.yazar | default site.Title) "onem" $onem "manset" (.Params.manset | default false) "son_dakika" (.Params.son_dakika | default false)
+-    "alt" (cond $kart (.Params.gorsel_alternatif | default slice) slice) "tipo" (eq (.Params.gorsel_tur | default "") "tipografik") "yedek" (cond (ne (.Params.gorsel_yedek | default "") "") (.Params.gorsel_yedek | relURL) "")) }}
++    "alt" $alt "tipo" false "yedek" "" "logo" $logo) }}
+ {{ end }}
+ {{ return sort $liste "ts" "desc" }}
+diff --git a/layouts/partials/hk.html b/layouts/partials/hk.html
+index 193da38c..e5282672 100644
+--- a/layouts/partials/hk.html
++++ b/layouts/partials/hk.html
+@@ -1,23 +1,19 @@
+-{{/* Haber kartı (beyaz kutu, gri zemin üzerinde). İki bilinçli düzen:
+-     fotoğraflı → görsel + başlık (+ kısa özet); fotoğrafsız → turuncu üst çizgili metin kartı: kategori · ilçe · zaman, başlık, özet.
+-     Fotoğraf sonradan bulunursa kart kendiliğinden fotoğraflı düzene geçer. Görsel üzerinde rozet yoktur.
+-     Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once" ve "imza" (liste sayfalarında
+-     muhabir adı ve yayın tarihi satırı). */}}
++{{/* Haber kartı (beyaz kutu, gri zemin üzerinde). İki düzen:
++     fotoğraflı → görsel + başlık (+ kısa özet); görselsiz (fotoğrafı yok ya da görseli logo/başlık kartı) → turuncu üst çizgili metin
++     kartı: kategori · ilçe · zaman, başlık, özet (boş gri kutu yok). Portre fotoğraflar kartta yüze göre kırpılır.
++     Mobilde ızgaralar tek sütunlu listedir: küçük görsel solda, başlık sağda. Başlık hiçbir yerde kesilmez.
++     Parametre: haber sözlüğü + "tip" (kart | ozetli | yan | liste) + isteğe bağlı "ilce_once" ve "imza". */}}
+ {{ $t := .tip | default "kart" }}
+-{{ $foto := .foto }}{{ $portre := and (not .foto) (.foto_p | default false) (ne $t "liste") }}
+-{{/* Fotoğraf bu alana uymuyorsa ya da aynı kare sayfada başka haberde kullanıldıysa haberin tipografik görseli (gorsel_yedek) gösterilir:
+-     fotoğrafsız metin kartı kalmaz. Küçük kartlarda görseldeki yazı küçüldüğü için kart başlığı görünür kalır. */}}
+-{{ $yedek := and (not $foto) (not $portre) (ne $t "liste") (ne (.yedek | default "") "") }}
+-{{ $tipo := or (and $foto (.tipo | default false)) $yedek }}
++{{ $foto := and .foto (ne (.gorsel | default "") "") }}
+ {{ $onemli := ge (int (.onem | default 3)) 4 }}
+-<article class="hk hk-{{ $t }} {{ if or $foto $yedek }}hk-foto{{ else if $portre }}hk-portre{{ else }}hk-metin{{ end }}{{ if $tipo }} hk-tipo{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
++<article class="hk hk-{{ $t }} {{ if $foto }}hk-foto{{ else }}hk-metin{{ end }}{{ if $onemli }} hk-onemli{{ end }}{{ with .sinif }} {{ . }}{{ end }}">
+   <a class="hk-a" href="{{ .link }}">
+-    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "odak" .o_kart)) }}</span>{{ else if $portre }}<span class="hk-pg">{{ partial "gorsel.html" (merge . (dict "odak" .o_kp)) }}</span>{{ else if $yedek }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "gorsel" .yedek "odak" "50% 50%")) }}</span>{{ end }}
++    {{ if $foto }}<span class="hk-g">{{ partial "gorsel.html" (merge . (dict "odak" .o_kart)) }}</span>{{ end }}
+     <span class="hk-m">
+-      {{ if or (not (or $foto $yedek)) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
++      {{ if or (not $foto) (eq $t "liste") }}<span class="hk-ust">{{ if and .ilce_once .ilce }}<b>{{ .ilce }}</b><span>{{ .kategori }}</span>{{ else }}<b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}
+       <span class="hk-b">{{ .baslik }}</span>
+       {{ if .imza }}<span class="hk-imza"><span>{{ .yazar | default site.Title }}</span><time datetime="{{ .iso }}" data-tam>{{ substr .iso 8 2 }}.{{ substr .iso 5 2 }}.{{ substr .iso 0 4 }} {{ substr .iso 11 5 }}</time></span>{{ end }}
+-      {{ if or (not (or $foto $yedek)) (eq $t "ozetli") }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 180 }}</span>{{ end }}{{ end }}
++      {{ if or (not $foto) (eq $t "ozetli") }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 180 }}</span>{{ end }}{{ end }}
+     </span>
+   </a>
+ </article>
+diff --git a/layouts/partials/reklam-banner.html b/layouts/partials/reklam-banner.html
+new file mode 100644
+index 00000000..c128a5dd
+--- /dev/null
++++ b/layouts/partials/reklam-banner.html
+@@ -0,0 +1,13 @@
++{{/* Yatay reklam alanı (site.yaml: reklam_banner). Görselin oranında sabit yer ayrılır (aspect-ratio + width/height): sayfa yüklenirken
++     içerik kaymaz. Parametre: ek sınıf (ana | haber | ust). Ana sayfada manşet bloğunun altında, haber sayfasında ilk paragraftan sonra. */}}
++{{ with site.Data.site.reklam_banner }}
++  {{ $src := . | relURL }}{{ $vg := 1640 }}{{ $vy := 360 }}{{ $set := "" }}
++  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}
++    {{ $vg = .Width }}{{ $vy = .Height }}
++    {{ $a := .Resize "728x webp q80" }}{{ $b := .Resize (printf "%dx webp q80" (cond (gt .Width 1456) 1456 .Width)) }}
++    {{ $src = $b.RelPermalink }}{{ $set = printf "%s 728w, %s %dw" $a.RelPermalink $b.RelPermalink $b.Width }}
++  {{ end }}
++  <aside class="reklam-alan reklam-{{ $ }}" aria-label="Reklam"><span class="vitrin-not">Reklam</span>
++    <a class="vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)" style="aspect-ratio:{{ $vg }}/{{ $vy }}"><img src="{{ $src }}"{{ with $set }} srcset="{{ . }}" sizes="(max-width:760px) 100vw, 728px"{{ end }} alt="{{ site.Data.site.reklam_ad }}" width="{{ $vg }}" height="{{ $vy }}" loading="eager" decoding="async" data-yedeksiz></a>
++  </aside>
++{{ end }}
+diff --git a/layouts/partials/resim.html b/layouts/partials/resim.html
+new file mode 100644
+index 00000000..7ffc02f2
+--- /dev/null
++++ b/layouts/partials/resim.html
+@@ -0,0 +1,22 @@
++{{/* Haber görseli <img> etiketi. Sitenin kendi sunucusundaki görseller (/images/...) Hugo ile WebP'ye çevrilir ve ekran genişliğine
++     uygun boyutlarda (srcset) üretilir; görsel yüklenene kadar gri kutu yerine görselin baskın rengi zemin olarak görünür.
++     Dış adreslerdeki görseller (eski Commons/Unsplash kayıtları) gorsel-url.html ile boyutlandırılır.
++     Parametre: dict "u" (adres) "alt" "boy" (kart | buyuk | haber) "stil" (ek style) "yukle" (lazy | eager) "en" "boy_px" */}}
++{{ $u := .u | default "" }}{{ $boy := .boy | default "kart" }}
++{{ $gen := dict "kart" (slice 240 400 640) "buyuk" (slice 480 800 1200) "haber" (slice 480 800 1200) }}
++{{ $siz := dict "kart" "(max-width:640px) 132px, (max-width:980px) 33vw, 300px" "buyuk" "(max-width:640px) 100vw, (max-width:980px) 100vw, 66vw" "haber" "(max-width:1000px) 100vw, 760px" }}
++{{ $src := $u }}{{ $set := "" }}{{ $renk := "" }}{{ $en := 0 }}{{ $yuk := 0 }}
++{{ $r := false }}
++{{ if hasPrefix $u "/images/" }}{{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" $u)) }}{{ if in (slice "jpeg" "png" "webp") .MediaType.SubType }}{{ $r = . }}{{ end }}{{ end }}{{ end }}
++{{ if $r }}
++  {{ $parca := slice }}{{ $son := false }}
++  {{ range index $gen $boy }}{{ if le . $r.Width }}{{ $v := $r.Resize (printf "%dx webp q74" .) }}{{ $parca = $parca | append (printf "%s %dw" $v.RelPermalink .) }}{{ $son = $v }}{{ end }}{{ end }}
++  {{ if not $son }}{{ $son = $r.Resize (printf "%dx webp q74" $r.Width) }}{{ $parca = slice (printf "%s %dw" $son.RelPermalink $r.Width) }}{{ end }}
++  {{ $src = $son.RelPermalink }}{{ $set = delimit $parca ", " }}{{ $en = $r.Width }}{{ $yuk = $r.Height }}
++  {{ with ($r.Resize "16x").Colors }}{{ $renk = index . 0 }}{{ end }}
++{{ else if $u }}
++  {{ $k := partial "gorsel-url.html" (dict "u" $u "w" (cond (eq $boy "kart") 500 960)) }}{{ $b := partial "gorsel-url.html" (dict "u" $u "w" (cond (eq $boy "kart") 960 1280)) }}
++  {{ $src = $k }}{{ if ne $b $k }}{{ $set = printf "%s %s, %s %s" $k (cond (eq $boy "kart") "500w" "960w") $b (cond (eq $boy "kart") "960w" "1280w") }}{{ end }}
++{{ end }}
++{{ $stil := .stil | default "" }}{{ with $renk }}{{ $stil = printf "%s%sbackground-color:%s" $stil (cond (ne $stil "") ";" "") . }}{{ end }}
++{{ if $u }}<img src="{{ $src }}"{{ with $set }} srcset="{{ . }}" sizes="{{ index $siz $boy }}"{{ end }}{{ if and $en $yuk }} width="{{ $en }}" height="{{ $yuk }}"{{ end }}{{ with $stil }} style="{{ . | safeCSS }}"{{ end }} alt="{{ .alt }}" loading="{{ .yukle | default "lazy" }}" decoding="async"{{ if ne $src $u }} data-asil="{{ $u }}"{{ end }} referrerpolicy="no-referrer">{{ end }}
+diff --git a/layouts/partials/ust.html b/layouts/partials/ust.html
+index f1f9639d..2d6410c8 100644
+--- a/layouts/partials/ust.html
++++ b/layouts/partials/ust.html
+@@ -81,13 +81,7 @@
+   {{ range site.Data.site.ilceler }}{{ $u := partial "terim-url.html" (slice "ilceler" .) }}<a href="{{ $u }}" {{ if eq $u $simdiki }}aria-current="page"{{ end }}>{{ . }}</a>{{ end }}
+ </div></div>
+ 
+-{{/* Üst reklam: kendi oranıyla (esnetilmez, kırpılmaz) */}}
+-{{ with site.Data.site.reklam_banner }}
+-  {{ $src := . | relURL }}{{ $vg := 1640 }}{{ $vy := 360 }}
+-  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $src = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ with .Width }}{{ $vg = . }}{{ end }}{{ with .Height }}{{ $vy = . }}{{ end }}{{ end }}
+-  <div class="ust-reklam"><div class="kap">
+-    <a class="vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)"><img src="{{ $src }}" alt="{{ site.Data.site.reklam_ad }}" width="{{ $vg }}" height="{{ $vy }}" data-yedeksiz></a>
+-    <span class="vitrin-not">Reklam</span>
+-  </div></div>
+-{{ end }}
++{{/* Üst reklam: ana sayfada manşet bloğunun altında, haber sayfasında ilk paragraftan sonra gösterilir; öteki sayfalarda burada.
++     Görselin oranında sabit yer ayrılır (içerik kaymaz). */}}
++{{ if not (or .IsHome (and .IsPage (in (slice "haber" "kose") .Section))) }}<div class="ust-reklam"><div class="kap">{{ partial "reklam-banner.html" "ust" }}</div></div>{{ end }}
+ <span id="icerik"></span>
+diff --git a/layouts/partials/yan-kart.html b/layouts/partials/yan-kart.html
+index 13423216..11f695b2 100644
+--- a/layouts/partials/yan-kart.html
++++ b/layouts/partials/yan-kart.html
+@@ -1,9 +1,8 @@
+-{{/* Manşet yanındaki kart: fotoğraf bu alan için uygunsa (yan_foto) başlık fotoğrafın alt kısmında koyu geçiş üzerinde; değilse metin kartı. */}}
+-{{ $f := .yan_foto }}{{ $p := and (not $f) (.yan_p | default false) }}
+-{{ $yd := and (not $f) (not $p) (ne (.yedek | default "") "") }}{{ $tipo := or (and $f (.tipo | default false)) $yd }}
+-<article class="yn {{ if or $f $yd }}yn-foto{{ else if $p }}yn-metin yn-portre{{ else }}yn-metin{{ end }}{{ if $tipo }} yn-tipo{{ end }}">
++{{/* Manşet yanındaki kart: yalnızca fotoğraflı haber (başlık fotoğrafın alt kısmında koyu geçiş üzerinde). Fotoğrafı olmayan haber
++     manşet bloğuna girmez (index.html seçer). */}}
++<article class="yn yn-foto">
+   <a href="{{ .link }}">
+-    {{ if $f }}{{ partial "gorsel.html" (merge . (dict "odak" .o_yd "odak_t" .o_yt "odak_m" .o_ym)) }}{{ else if $p }}<span class="yn-pg">{{ partial "gorsel.html" (merge . (dict "odak" .o_kp)) }}</span>{{ else if $yd }}{{ partial "gorsel.html" (merge . (dict "gorsel" .yedek "odak" "50% 50%")) }}{{ end }}
+-    {{ $f = or $f $yd }}<span class="yn-yazi{{ if $tipo }} gizli{{ end }}">{{ if not $f }}<span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>{{ end }}<span class="yn-b">{{ .baslik }}</span>{{ if not $f }}{{ with .ozet }}<span class="hk-o">{{ . | plainify | truncate 140 }}</span>{{ end }}{{ end }}</span>
++    {{ partial "gorsel.html" (merge . (dict "odak" .o_yd "odak_t" .o_yt "odak_m" .o_ym)) }}
++    <span class="yn-yazi"><span class="yn-b">{{ .baslik }}</span></span>
+   </a>
+ </article>
+diff --git a/scripts/gorsel_v2.py b/scripts/gorsel_v2.py
+index 03adb35f..feb37968 100644
+--- a/scripts/gorsel_v2.py
++++ b/scripts/gorsel_v2.py
+@@ -81,13 +81,16 @@ Her aday için:
+   kacinilacak: brief'teki "kaçınılacaklar" listesinden bir unsur görünüyor
+   ajans: haber ajansı (AA, İHA, DHA, Getty, Reuters, AFP vb.) filigranı, logosu ya da fotoğrafçı kredisi var
+   yazi_logo: görselde baskın yazı, filigran ya da ilgisiz marka logosu var
++  logo: görselin kendisi bir logo, amblem, arma ya da tabela (kurum, belediye, parti, üniversite, kulüp, şirket logosu); haber
++        fotoğrafı sayılmaz, haberle ilgili kurumun logosu olsa bile kabul edilmez
+ - "donem": "guncel" (son yıllarda çekilmiş görünüyor) ya da "eski" (siyah-beyaz, eski araç/giyim, arşiv baskısı vb.)
+ - "tahmini_yil": eski ise tahmini çekim yılı (bilmiyorsan boş)
+ - "taninir_yuz": görselde yüzü tanınabilir bir insan öne çıkıyorsa true
++- "odak": görseldeki ana öznenin merkezi, yatay kırpmada korunacak nokta: "x% y%" (insan varsa yüzün merkezi; ör. "50% 25%")
+ - "gorunen": görselde GERÇEKTE görünenin kısa Türkçe tarifi (alt metin; en çok 110 karakter; haberin başlığını tekrar etme)
+ - "gerekce": puanın kısa gerekçesi (en çok 25 kelime)
+ 
+-Yalnızca şu biçimde JSON döndür: {"adaylar": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "gorunen": "...", "gerekce": "..."}]}
++Yalnızca şu biçimde JSON döndür: {"adaylar": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "odak": "50% 40%", "gorunen": "...", "gerekce": "..."}]}
+ 
+ HABER
+ """
+@@ -509,6 +512,9 @@ def baska_yer(a, p, brief, hb):
+     return [y.strip() for y in out]
+ 
+ 
++LOGO_RE = re.compile(r"(?i)(?<![a-z])(logo|logosu|logotype|amblem|emblem|arma|coat[_ -]of[_ -]arms|seal[_ -]of|wordmark)(?![a-z])")
++
++
+ def karar(a, p, brief, hb):
+     nedenler = []
+     puan = int(p.get("puan") or 0) if str(p.get("puan", "")).strip().lstrip("-").isdigit() else 0
+@@ -517,6 +523,8 @@ def karar(a, p, brief, hb):
+         nedenler.append(f"puan {puan} < {ESIK}")
+     if ihlal:
+         nedenler.append("kesin ret: " + ", ".join(ihlal))
++    if LOGO_RE.search(" ".join(str(a.get(k) or "") for k in ("url", "sayfa", "aciklama", "kucuk"))) and "logo" not in ihlal:
++        nedenler.append("kesin ret: logo (dosya adı/etiketlerde logo, amblem)")
+     yer = baska_yer(a, p, brief, hb)
+     if yer:
+         nedenler.append("kesin ret: baska_sehir (" + ", ".join(yer) + ")")
+@@ -572,7 +580,7 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
+         p = puanlar.get(i) or {}
+         puan, nedenler = karar(a, p, brief, hb)
+         a.update(puan=puan, gerekce=temiz(p.get("gerekce"), 200), gorunen=temiz(p.get("gorunen"), 120), ihlaller=p.get("ihlaller") or [],
+-                 taninir_yuz=bool(p.get("taninir_yuz")), donem=temiz(p.get("donem"), 10),
++                 taninir_yuz=bool(p.get("taninir_yuz")), donem=temiz(p.get("donem"), 10), odak=odak_temiz(p.get("odak")),
+                  cekim_yili=a.get("cekim_yili") or temiz(p.get("tahmini_yil"), 10))
+         if not p:
+             nedenler.append("puanlanmadı")
+@@ -602,6 +610,12 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
+     return en_iyi, kayit
+ 
+ 
++def odak_temiz(o):
++    """'50% 25%' biçimindeki odak noktası (0-100 aralığında); geçersizse boş."""
++    m = re.fullmatch(r"\s*(\d{1,3})\s*%\s+(\d{1,3})\s*%\s*", str(o or ""))
++    return f"{min(int(m.group(1)), 100)}% {min(int(m.group(2)), 100)}%" if m else ""
++
++
+ def secim_kaydi(a, konu_imza="", tarihi=False):
+     """Seçilen adayı gorsel_sec.secimi_uygula biçimine çevirir. Sitede görselin altında hiçbir yazı gösterilmez ve görselin kaynağı,
+     sahibi, lisansı hiçbir yere yazılmaz (yayın sorumlusu kararı, 26.11.2026). Yalnızca kaynaksız tekrar kimliği (iz) ve pHash
+@@ -617,7 +631,7 @@ def secim_kaydi(a, konu_imza="", tarihi=False):
+             "gosterilen": a.get("gorunen") or "", "aciklama": "", "fotografci": "", "kaynak_sayfa": "",
+             "gerekce": f"Görsel puanı {a.get('puan')}/10: {a.get('gerekce', '')}", "hat": SURUM, "surum": SURUM, "konu_imza": konu_imza,
+             "kontrol": {"yapildi": True, "sonuc": "uygun", "puan": a.get("puan"), "esik": ESIK, "gerekce": a.get("gerekce", ""), "tarih": simdi_},
+-            "kimlik": iz(a["id"]), "phash": a.get("phash", "")}
++            "kimlik": iz(a["id"]), "phash": a.get("phash", ""), "konum": a.get("odak", "")}
+ 
+ 
+ KAYNAK_ALANLARI = ("sayfa", "sahip", "lisans", "lisans_kaniti", "orijinal", "orijinal_url", "kaynak_sayfa", "fotografci", "exif", "aciklama",
+diff --git a/scripts/toplu_kalite.py b/scripts/toplu_kalite.py
+index 904c702b..4ff669e9 100644
+--- a/scripts/toplu_kalite.py
++++ b/scripts/toplu_kalite.py
+@@ -41,7 +41,7 @@ EDITOR_SORUN = ("ascii", "ascii_metin", "bitisik", "ek_uyum", "ek_ayri", "intiha
+ PUAN_MEVCUT = """Sen bir Türk haber sitesinin deneyimli foto editörüsün. Aşağıda birkaç haber ve her haberde KULLANILAN TEK fotoğraf var.
+ Her fotoğrafı yalnızca KENDİ haberine göre değerlendir (ölçüt ve kesin ret kodları aşağıda).
+ """ + g2.PUAN_TALIMAT.split("Her aday için:", 1)[1].split("Yalnızca şu biçimde", 1)[0] + """
+-Yalnızca şu biçimde JSON döndür: {"haberler": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "gorunen": "...", "gerekce": "..."}]}
++Yalnızca şu biçimde JSON döndür: {"haberler": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "odak": "50% 40%", "gorunen": "...", "gerekce": "..."}]}
+ """
+ 
+ 
