@@ -159,6 +159,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 9.5,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-26T21:40:58+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 7
   }
  ],
  "haberler": [
@@ -943,6 +958,118 @@
     "taninir_yuz": false,
     "cekim_yili": ""
    }
+  },
+  {
+   "tarih": "2026-11-26T21:41:37+03:00",
+   "baslik": "Alanya'da elektrik faturaları için yeni tarife dönemi başlıyor",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanya-saskin-822-tllik-fatura-1676-tlye-cikacak",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-alanyada-elektrik-faturalari-icin-yeni-tarife-donemi-dea4e.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "d84a686f30a9b1a1",
+    "puan": 9,
+    "gerekce": "Haberin konusu olan elektrik tarifesi ve tüketimiyle birebir uyumlu elektrik sayacı görseli.",
+    "gorunen": "Duvara monte edilmiş siyah elektrik sayaçları",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:41:58+03:00",
+   "baslik": "Milletvekili Kaya'dan Gazipaşa'nın ulaşım talepleri için bakanlığa çağrı",
+   "kaynak": "Gazipaşa Manşet",
+   "kaynak_url": "https://gazipasamanset.com.tr/haber/gazipasanin-hakkini-sordu-20797",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-milletvekili-kayadan-gazipasanin-ulasim-talepleri-icin-79916.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:42:15+03:00",
+   "baslik": "Dj Burak Yeter uyuşturucu ve fuhuş soruşturmasında gözaltına alındı",
+   "kaynak": "Gün Haber",
+   "kaynak_url": "https://www.gunhaber.com.tr/haber/unlu-dj-burak-yeter-gozaltina-alindi/578541/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: DJ → Dj"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-dj-burak-yeter-uyusturucu-ve-fuhus-sorusturmasinda-gozaltina-a4b96.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:42:39+03:00",
+   "baslik": "Antalyaspor'da Juergen Elitim antrenmanlara başladı",
+   "kaynak": "Hey Haber",
+   "kaynak_url": "https://heyhaber.com/bursaspor-da-juergen-elitim-icin-son-karari-mustafa-er-verecek",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-antalyasporda-juergen-elitim-antrenmanlara-basladi-ef23e.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "a1019a08867dd2a2",
+    "puan": 7,
+    "gerekce": "Futbol antrenmanı konseptine uygun ancak oyuncu çocuk yaşta.",
+    "gorunen": "Yeşil sahada antrenman yapan genç futbolcu çocuk",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T21:43:08+03:00",
+   "baslik": "Antalya'da 7 belediye meclis üyesi CHP'den AK Parti'ye katıldı",
+   "dosya": "20261126-antalyada-7-belediye-meclis-uyesi-chpden-ak-partiye-katildi-ae041.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:41)"
+  },
+  {
+   "tarih": "2026-11-26T21:43:08+03:00",
+   "baslik": "Antalya'da kozmetik dünyasını buluşturacak kongre toplanıyor",
+   "dosya": "20261126-antalyada-kozmetik-dunyasini-bulusturacak-kongre-toplaniyor-1131b.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:41)"
+  },
+  {
+   "tarih": "2026-11-26T21:43:08+03:00",
+   "baslik": "Antalyalı şehit askerlerin naaşları memleketine ulaştı",
+   "dosya": "20261126-antalyali-sehit-askerlerin-naaslari-memleketine-ulasti-dad34.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 01:42)"
   }
  ]
 }

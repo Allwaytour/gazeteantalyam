@@ -42,8 +42,8 @@ kaynak: Fuar Dergisi
 kaynak_url: https://www.fuardergisi.com.tr/kozmetik-sektorunun-onde-gelen-isimleri-antalyada-bir-araya-geliyor
 bekleme:
   ilk: '2026-11-26T19:41:41+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T21:41:41+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T01:41:41+03:00'
   brief:
     ana_konu: Antalya'da düzenlenen kozmetik sektörü kongresi.
     olmasi_gereken:
