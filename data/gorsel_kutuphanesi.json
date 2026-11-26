@@ -52118,6 +52118,98 @@
    },
    "url": "https://images.unsplash.com/photo-1752676801449-e136bab31669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8QWxhbnlhJTIwZm9nfGVufDF8MHx8fDE3OTQzNDY2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "3c5ef98b6fc38551": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "uydu görüntüsü",
+     "nehir",
+     "deniz",
+     "arazi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İspanya Doñana Ulusal Parkı'nın uydu görüntüsü karşılaştırması",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre haberi",
+     "coğrafya haberi",
+     "kuraklık haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi haber",
+     "yerel imar itirazı",
+     "maç haberi"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0c4c1ae9052:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Görüntü yabancı bir ulusal parkın uydu haritasıdır, haberdeki Antalya Yamansaz alanı ile ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "sulak alan",
+        "var": true
+       },
+       {
+        "unsur": "arazi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:13:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d9c1c1c761a181a",
+    "sha": "852001eaadcc74670d9d6970"
+   },
+   "t": "2026-11-26T16:13:42+03:00",
+   "teknik": {
+    "doygunluk": 25.8,
+    "inen": [
+     500,
+     354
+    ],
+    "karanlik_oran": 0.119,
+    "keskinlik": 2006,
+    "kontrast": 48,
+    "medyan": 114,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_water_bodies_of_Spain%E2%80%99s_Do%C3%B1ana_National_Park_are_replenished_after_abundant_rainfall_%28Copernicus_2024-04-15%29.webp/1280px-The_water_bodies_of_Spain%E2%80%99s_Do%C3%B1ana_National_Park_are_replenished_after_abundant_rainfall_%28Copernicus_2024-04-15%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "3ca24397a47f7003": {
    "icerik": {
     "ana_kutu": [
@@ -59939,6 +60031,93 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1683181480131-c597f7f222e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8cGVyc29uJTIwc2Nyb2xsaW5nJTIwcGhvbmV8ZW58MXwwfHx8MTc5NTA5MzE2MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "460deb18ba034c16": {
+   "icerik": {
+    "ana_kutu": [
+     200,
+     0,
+     950,
+     600
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "soda şişesi",
+     "kasa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Gece pazarında sergilenen renkli soda şişeleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "içecek haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi protesto"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:496ed9503f74:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Soda şişeleri var ancak yabancı bir gece pazarı ortamı olduğu belli.",
+      "gerekli": [
+       {
+        "unsur": "soda şişeleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       200,
+       0,
+       950,
+       600
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:12:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4f276772367079f9",
+    "sha": "fbb5c9eefc376999cd36b4a3"
+   },
+   "t": "2026-11-26T16:12:20+03:00",
+   "teknik": {
+    "doygunluk": 40.6,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.34,
+    "keskinlik": 1264,
+    "kontrast": 60,
+    "medyan": 67,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/DFC_4887_Rows_of_colorful_glass_soda_bottles_on_display_at_a_bustling_night_market_in_Sattahip_Chon_Buri.jpg/1280px-DFC_4887_Rows_of_colorful_glass_soda_bottles_on_display_at_a_bustling_night_market_in_Sattahip_Chon_Buri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "462f567cf1b0e02d": {
    "icerik": {
@@ -97532,6 +97711,99 @@
    },
    "url": "https://images.unsplash.com/photo-1568910866193-8240a89e9648?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8c2hvdyUyMGp1bXBpbmclMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk1MjkxMjg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "7500ce8f7ff7e932": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "uydu görüntüsü",
+     "nehir",
+     "arazi",
+     "kıyı şeridi",
+     "tarih yazısı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İspanya'daki Doñana Milli Parkı'nın uydu görüntüleri ve kıyaslama haritası",
+    "sahne_turu": "manzara",
+    "siyah_beyaz": false,
+    "tur": "harita_logo_belge",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "çevre haberi",
+     "uydu haberi",
+     "kuraklık haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel imar haberi",
+     "mimarlık haberi",
+     "kent politikası"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b0c4c1ae9052:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf İspanya'daki bir milli parkın uydu görüntüsüdür, Antalya'daki Yamansaz imar planı itirazıyla tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "sulak alan",
+        "var": true
+       },
+       {
+        "unsur": "arazi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:13:42+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "9d9c1c1c761a181a",
+    "sha": "0fb83ddd08e7a3ad336017d4"
+   },
+   "t": "2026-11-26T16:13:42+03:00",
+   "teknik": {
+    "doygunluk": 26.6,
+    "inen": [
+     500,
+     354
+    ],
+    "karanlik_oran": 0.125,
+    "keskinlik": 3768,
+    "kontrast": 51,
+    "medyan": 112,
+    "parlaklik": 112,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/The_water_bodies_of_Spain%E2%80%99s_Do%C3%B1ana_National_Park_are_replenished_after_abundant_rainfall_%28Copernicus_2024-04-15%29.jpg/1280px-The_water_bodies_of_Spain%E2%80%99s_Do%C3%B1ana_National_Park_are_replenished_after_abundant_rainfall_%28Copernicus_2024-04-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "7512cbea6c1c7ad7": {
    "icerik": {
     "ana_kutu": [
@@ -111654,6 +111926,27 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1556591800-e6056f222197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8YnVybnQlMjBmb3Jlc3QlMjB0cmVlc3xlbnwxfDB8fHwxNzk0MTMwNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "83f0bf7102b1ebc5": {
+   "ozet": {
+    "dh": "7f7f7f3f3f35cc33",
+    "sha": "57a5fabab24d1ec9d81b86d6"
+   },
+   "t": "2026-11-26T16:11:43+03:00",
+   "teknik": {
+    "doygunluk": 37.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.473,
+    "keskinlik": 1760,
+    "kontrast": 70,
+    "medyan": 53,
+    "parlaklik": 82,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Belu_Bottled_Mineral_Water.jpg/1280px-Belu_Bottled_Mineral_Water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "83ff27944a8b071f": {
    "icerik": {
@@ -137784,6 +138077,27 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_10.jpg/1280px-Ankara_%C5%9Eark_Kalesi_in_1990%27s_or_early_2000%27s_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "a63b42a8200023ce": {
+   "ozet": {
+    "dh": "a98dcd8b28322329",
+    "sha": "ed4da1fc6dd9706de65fe720"
+   },
+   "t": "2026-11-26T16:11:43+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.765,
+    "keskinlik": 503,
+    "kontrast": 34,
+    "medyan": 22,
+    "parlaklik": 33,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Empty-water-and-soda-bottles-on-a-hot-sunny-day.JPG/1280px-Empty-water-and-soda-bottles-on-a-hot-sunny-day.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a63cac9a8bccbb02": {
    "icerik": {
     "ana_kutu": [
@@ -142907,6 +143221,92 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Militex_Design_Vasile_Alecsandri.jpg/1280px-Militex_Design_Vasile_Alecsandri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "ad3cb1b6d501178e": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     100,
+     1000,
+     900
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "soda şişesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Yeşil cam şişelerde gazlı içecekler",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "içecek haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi protesto"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:496ed9503f74:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Soda şişeleri net şekilde görülüyor, temsilî kullanım için uygun.",
+      "gerekli": [
+       {
+        "unsur": "soda şişeleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       100,
+       1000,
+       900
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:12:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "caeacae4b4a8c9e5",
+    "sha": "2992033aa32f7c88dd9e9ccb"
+   },
+   "t": "2026-11-26T16:12:20+03:00",
+   "teknik": {
+    "doygunluk": 36.0,
+    "inen": [
+     500,
+     334
+    ],
+    "karanlik_oran": 0.12,
+    "keskinlik": 1287,
+    "kontrast": 57,
+    "medyan": 143,
+    "parlaklik": 131,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/HK_drink_Seven_Star_White_Grape_Sparkling_Soda_water_%E8%98%87%E6%89%93%E6%B0%B4_%E7%A2%B3%E9%85%B8%E6%B0%B4_%E6%B1%BD%E6%B3%A1%E6%B0%B4_green_empty_bottles_product_Taiwan_Feb_2017_IX1_001.jpg/1280px-HK_drink_Seven_Star_White_Grape_Sparkling_Soda_water_%E8%98%87%E6%89%93%E6%B0%B4_%E7%A2%B3%E9%85%B8%E6%B0%B4_%E6%B1%BD%E6%B3%A1%E6%B0%B4_green_empty_bottles_product_Taiwan_Feb_2017_IX1_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "ad6f3a87354780c7": {
    "icerik": {
@@ -174842,6 +175242,92 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Department_of_civil_engineering%2C_UET_Taxila.jpg/1280px-Department_of_civil_engineering%2C_UET_Taxila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d3bb5d4c11d782ab": {
+   "icerik": {
+    "ana_kutu": [
+     20,
+     350,
+     800,
+     650
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "su şişesi"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Masa üzerinde duran tek bir cam su şişesi",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "ürün tanıtımı"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi protesto"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:496ed9503f74:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki su şişesidir, soda şişesi değildir ve üzerinde büyük yazı/filigran vardır.",
+      "gerekli": [
+       {
+        "unsur": "soda şişeleri",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       20,
+       350,
+       800,
+       650
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:12:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1333333333337149",
+    "sha": "0ce1d190802acbb2da3de2f6"
+   },
+   "t": "2026-11-26T16:12:20+03:00",
+   "teknik": {
+    "doygunluk": 9.0,
+    "inen": [
+     500,
+     332
+    ],
+    "karanlik_oran": 0.05,
+    "keskinlik": 757,
+    "kontrast": 46,
+    "medyan": 195,
+    "parlaklik": 177,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Unopened_glass_water_bottle_containing_mineral_water._Green_glass%2C_gold_label_with_red_circle%3B_white_letters_on_circle_read_%285d277111-8e24-4582-a764-6d0afcaa86ed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "d3e9d87fe3278fff": {
    "t": "2026-11-08T11:10:47+03:00",
    "teknik": {
@@ -187485,6 +187971,96 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Anethum_graveolens_1zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "e4a592cc6bc919c7": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     0,
+     950,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "soda şişesi",
+     "limon",
+     "plastik kasa"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Pazarda satılan limonlu soda şişeleri",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "soda haberi",
+     "içecek sektörü"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasi protesto",
+     "yerel haber"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:496ed9503f74:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Soda şişeleri görülüyor ancak yabancı bir pazardan olduğu çok belirgin.",
+      "gerekli": [
+       {
+        "unsur": "soda şişeleri",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       0,
+       950,
+       980
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T16:12:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "2564651b330762c8",
+    "sha": "f483fbb69f39cb34e1adec88"
+   },
+   "t": "2026-11-26T16:12:20+03:00",
+   "teknik": {
+    "doygunluk": 35.2,
+    "inen": [
+     500,
+     357
+    ],
+    "karanlik_oran": 0.142,
+    "keskinlik": 1939,
+    "kontrast": 49,
+    "medyan": 104,
+    "parlaklik": 106,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Glass_bottled_and_shot_necked_Soda_vendor_-_Jammu.jpg/1280px-Glass_bottled_and_shot_necked_Soda_vendor_-_Jammu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "e4b4a926b1b1ce27": {
    "icerik": {
