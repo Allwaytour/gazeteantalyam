@@ -39,10 +39,10 @@ collections:
   - name: haber
     label: Haberler
     label_singular: Haber
-    description: Elle eklenen ve otomatik gelen tüm haberler. Kaydet'e bastığınızda haber ayrıca onay gerekmeden yayına gönderilir; 2-4 dakika içinde sitede görünür.
+    description: Elle eklenen ve otomatik gelen tüm haberler. Kaydet'e bastığınızda haber ayrıca onay gerekmeden yayına gönderilir; 2-4 dakika içinde sitede görünür. Yayımlanmış haber silinmez; kaldırmak için "Yayından kaldır" tarihini doldurun.
     folder: content/haber
     create: true
-    delete: true
+    delete: false
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     identifier_field: title
     thumbnail: gorsel
@@ -87,6 +87,8 @@ collections:
         fields:
           - { label: Tarih, name: tarih, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", default: "{{now}}" }
           - { label: Açıklama, name: not, widget: text, hint: "Ne yanlıştı, ne düzeltildi? Örn: Haberin ilk hâlinde toplantı tarihi 12 Kasım yazılmıştı; doğrusu 13 Kasım'dır." }
+      - { label: Yayından kaldır (tarih), name: kaldirildi, widget: datetime, required: false, format: "YYYY-MM-DDTHH:mm:ssZ", hint: "Haberi silmek yerine bu tarihi doldurun (Düzeltme Politikası: haberler sessizce silinmez). Haber listelerden çıkar; adresinde 'Bu haber [tarih] tarihinde yayından kaldırılmıştır' notu durur ve Düzeltmeler sayfasında listelenir." }
+      - { label: Kaldırılma nedeni, name: kaldirma_nedeni, widget: string, required: false, hint: "Kısa açıklama; haberin adresinde ve Düzeltmeler sayfasında görünür. Örn: Mahkeme kararı gereği." }
       - { label: Görseli sabitle, name: gorsel_kilit, widget: boolean, required: false, default: false, hint: "Açıksa otomatik görsel seçimi bu haberin görseline dokunmaz." }
       - { label: Haber metni, name: body, widget: markdown, required: false, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
       # Otomatik haberlerin teknik alanları ve sayfa adresi: formda gösterilmez, değerleri korunur
@@ -103,7 +105,7 @@ collections:
     description: Yazarlarınızın köşe yazıları. Önce "Yazarlar" bölümünden yazarı ekleyin.
     folder: content/kose
     create: true
-    delete: true
+    delete: false
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     identifier_field: title
     summary: "{{title}} — {{yazar}} — {{date | date('DD.MM.YYYY')}}"
@@ -115,6 +117,8 @@ collections:
       - { label: Yazar, name: yazar, widget: relation, collection: yazarlar, value_field: "{{slug}}", search_fields: [title], display_fields: [title] }
       - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: Kısa özet, name: ozet, widget: text, required: false }
+      - { label: Yayından kaldır (tarih), name: kaldirildi, widget: datetime, required: false, format: "YYYY-MM-DDTHH:mm:ssZ", hint: "Yazıyı silmek yerine bu tarihi doldurun; adresinde yayından kaldırıldığı notu durur." }
+      - { label: Kaldırılma nedeni, name: kaldirma_nedeni, widget: string, required: false }
       - { label: Yazı, name: body, widget: markdown, hint: "Metnin içine fotoğraf eklemek için araç çubuğundaki görsel düğmesini kullanın." }
 
   - name: yazarlar
