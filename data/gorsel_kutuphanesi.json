@@ -4024,6 +4024,41 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:3883d1906d81:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Futbol maçı görseli temsilî olarak kullanılabilir ancak takımlar belirli değil.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": true
+       },
+       {
+        "unsur": "futbolcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       355,
+       50,
+       650,
+       678
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:01+03:00"
+    },
     "r1:3eaf127dfa3a:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -4140,7 +4175,7 @@
     "dh": "2e248d65250fcfc7",
     "sha": "8883c42a0f64b3bc29a47359"
    },
-   "t": "2026-11-25T22:40:36+03:00",
+   "t": "2026-11-26T13:11:01+03:00",
    "teknik": {
     "doygunluk": 37.2,
     "inen": [
@@ -11224,6 +11259,100 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jens_Keller%2C_Union_Berlin_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "0c75cd7d814f6db3": {
+   "icerik": {
+    "ana_kutu": [
+     215,
+     225,
+     880,
+     815
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "soba",
+     "ateş",
+     "zemin örtüsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Dış mekanda yanan bir odun sobası veya taşınabilir ısıtıcı.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "ürün tanıtımı",
+     "kamp ekipmanı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yangın haberi",
+     "acil durum",
+     "jeneratör arızası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki nesne jeneratör değil, bir odun sobasıdır. Haberle ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": false
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:12:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3636ec68e0266c31",
+    "sha": "766be68a4eaa42bef6c9c895"
+   },
+   "t": "2026-11-26T13:12:10+03:00",
+   "teknik": {
+    "doygunluk": 16.0,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.053,
+    "keskinlik": 1277,
+    "kontrast": 57,
+    "medyan": 170,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/OutDoor_2018%2C_Friedrichshafen_%281X7A0163%29.jpg/1280px-OutDoor_2018%2C_Friedrichshafen_%281X7A0163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "0c8ee26dabdf6346": {
    "icerik": {
@@ -20410,6 +20539,103 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Oliv%C3%A9r_V%C3%A1rhelyi_and_Mehmet_Fatih_Kacir_-_2023.jpg/1280px-Oliv%C3%A9r_V%C3%A1rhelyi_and_Mehmet_Fatih_Kacir_-_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "17fa1ad0ecbcd688": {
+   "icerik": {
+    "ana_kutu": [
+     70,
+     202,
+     782,
+     775
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "jeneratör kabini",
+     "beton zemin",
+     "sokak"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokak kenarında mavi renkli dış mekan jeneratör kabini",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "elektrik altyapısı",
+     "jeneratör kabini"
+    ],
+    "uygunsuz_baglamlar": [
+     "yangın olayı"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dış mekan jeneratör kabini temsilî olarak kullanılabilir, yangın anı olmasa da konuya uygundur.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       70,
+       202,
+       782,
+       775
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1b392d4d691d0e1f",
+    "sha": "e9ba18142604882707dc88cc"
+   },
+   "t": "2026-11-26T13:11:43+03:00",
+   "teknik": {
+    "doygunluk": 42.9,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.11,
+    "keskinlik": 1034,
+    "kontrast": 50,
+    "medyan": 140,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1705051278299-7e64ba21437a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8Z2VuZXJhdG9yfGVufDF8MHx8fDE3OTU2ODc4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "180b7946a65b37bb": {
    "icerik": {
@@ -37127,6 +37353,104 @@
    },
    "url": "https://images.unsplash.com/photo-1643574546802-99d87f38714d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwbWVkaXRlcnJhbmVhbiUyMHNlYXxlbnwxfDB8fHwxNzk0MDg0OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "2b9a81625246b34d": {
+   "icerik": {
+    "ana_kutu": [
+     509,
+     0,
+     900,
+     446
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "jeneratör",
+     "bina",
+     "boru",
+     "varil"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Fabrika bahçesinde sıralı jeneratörler ve bina",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "fabrika sahası",
+     "jeneratör ünitesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "konut sitesi yangını"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Jeneratörler görülüyor ancak fabrika ortamı konut sitesi haberiyle tam örtüşmüyor.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       509,
+       0,
+       900,
+       446
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "8c8784f5b1870321",
+    "sha": "7fc93b331dc51e2b1b10a2dc"
+   },
+   "t": "2026-11-26T13:11:43+03:00",
+   "teknik": {
+    "doygunluk": 21.3,
+    "inen": [
+     400,
+     300
+    ],
+    "karanlik_oran": 0.136,
+    "keskinlik": 2137,
+    "kontrast": 78,
+    "medyan": 152,
+    "parlaklik": 147,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1636867759143-c28c1e909bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8Z2VuZXJhdG9yfGVufDF8MHx8fDE3OTU2ODc4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "2bab64f9a257b8aa": {
    "icerik": {
     "ana_kutu": [
@@ -44857,6 +45181,106 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_weight_of_Gods_word_against_mans_traditions.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "34600872e48fa2dc": {
+   "icerik": {
+    "ana_kutu": [
+     115,
+     24,
+     912,
+     954
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "jeneratör",
+     "motor",
+     "boru",
+     "havalandırma"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kapalı alanda büyük endüstriyel jeneratör ve motor aksamı",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "enerji üretimi",
+     "jeneratör bakımı",
+     "hastane altyapısı"
+    ],
+    "uygunsuz_baglamlar": [
+     "yangın haberi",
+     "trafik kazası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Jeneratör görülüyor ancak yangın ve itfaiye unsurları eksik, temsilî kullanım için uygundur.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       115,
+       24,
+       912,
+       954
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "fcfebebeb6b4b183",
+    "sha": "c657025348b91f2f7f8eae52"
+   },
+   "t": "2026-11-26T13:11:43+03:00",
+   "teknik": {
+    "doygunluk": 30.2,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.296,
+    "keskinlik": 2354,
+    "kontrast": 63,
+    "medyan": 103,
+    "parlaklik": 97,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Power_generator_of_a_hospital_data_center.jpg/1280px-Power_generator_of_a_hospital_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "3482ca5d2d6cbb7b": {
    "icerik": {
@@ -94722,6 +95146,37 @@
     ]
    },
    "iliski": {
+    "r1:3883d1906d81:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Alanyaspor formalı futbolcu yer alıyor ancak maç hazırlığı haberi için doğrudan olay görseli değil.",
+      "gerekli": [
+       {
+        "unsur": "futbolcular",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       73,
+       383,
+       1000,
+       642
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:01+03:00"
+    },
     "r1:765c64b9220f:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -94804,7 +95259,7 @@
     "dh": "2626a44a46424142",
     "sha": "81c44c4d4bfdd0d1fcb15085"
    },
-   "t": "2026-11-26T11:11:30+03:00",
+   "t": "2026-11-26T13:11:01+03:00",
    "teknik": {
     "doygunluk": 51.8,
     "inen": [
@@ -149104,6 +149559,98 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/TechCrunch_Disrupt_Berlin_2018_%2832245214938%29.jpg/1280px-TechCrunch_Disrupt_Berlin_2018_%2832245214938%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "b5543eb95b819c9a": {
+   "icerik": {
+    "ana_kutu": [
+     327,
+     283,
+     682,
+     657
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "jeneratör türbini",
+     "vinç",
+     "platform"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Baraj türbin salonu ve iç mekan tesisi",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "baraj tesisi",
+     "elektrik üretimi"
+    ],
+    "uygunsuz_baglamlar": [
+     "site içi jeneratör yangını"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Büyük bir baraj türbin salonudur, site içi jeneratör yangını haberi için tamamen alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": false
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:11:43+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ce0cbcba86c69e9e",
+    "sha": "0f4f52f4755f280404a7759d"
+   },
+   "t": "2026-11-26T13:11:43+03:00",
+   "teknik": {
+    "doygunluk": 32.6,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.122,
+    "keskinlik": 2301,
+    "kontrast": 55,
+    "medyan": 119,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Electric_Generators_at_the_Bonneville_Lock_%26_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "b563977cee02386e": {
    "icerik": {
     "ana_kutu": [
@@ -178310,6 +178857,119 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eastern_Walls_of_Alanya_Castle.jpg/1280px-Eastern_Walls_of_Alanya_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "dd2c7033f896edf4": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     240,
+     850,
+     820
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "itfaiye hortumu",
+     "askeri üniforma",
+     "itfaiyeci kaskı",
+     "beton bariyer"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı kişiler ve itfaiyeciler yangına müdahale ediyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri tatbikat",
+     "yabancı haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "mahalle yangını"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      310,
+      305,
+      410,
+      370
+     ],
+     [
+      305,
+      455,
+      415,
+      515
+     ],
+     [
+      295,
+      640,
+      390,
+      710
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yabancı askeri personel ve ortam, Türkiye'deki bir mahalle yangını haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": false
+       },
+       {
+        "unsur": "duman",
+        "var": true
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:12:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "00006de4e9f7f3d9",
+    "sha": "b1159b73a86ae057d08f0c6a"
+   },
+   "t": "2026-11-26T13:12:10+03:00",
+   "teknik": {
+    "doygunluk": 8.4,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.098,
+    "keskinlik": 2123,
+    "kontrast": 81,
+    "medyan": 162,
+    "parlaklik": 167,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Firefighters_DVIDS59940.jpg/1280px-Firefighters_DVIDS59940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "dd46eb731f6760ae": {
    "icerik": {
     "ana_kutu": [
@@ -192209,6 +192869,125 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_bicycle_path_along_the_coast_in_Antalya%2C_Turkey_DSF8523.jpg/1280px-The_bicycle_path_along_the_coast_in_Antalya%2C_Turkey_DSF8523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "efe134d816c40aa4": {
+   "icerik": {
+    "ana_kutu": [
+     100,
+     480,
+     950,
+     960
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 3,
+    "nesneler": [
+     "telsiz",
+     "askeri üniforma",
+     "itfaiyeci kaskı",
+     "duman",
+     "jeneratör benzeri metal kutu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri üniformalı bir kişi telsizle konuşurken arkada itfaiyeciler yangına müdahale ediyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "askeri operasyon",
+     "yabancı haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "yerel haber",
+     "mahalle yangını"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      100,
+      570,
+      320,
+      680
+     ],
+     [
+      690,
+      215,
+      770,
+      275
+     ],
+     [
+      575,
+      95,
+      690,
+      155
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:b844559c6d85:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Jeneratör yangını görülse de, yabancı askeri personel ve ortam haberin yerel bağlamıyla çelişiyor.",
+      "gerekli": [
+       {
+        "unsur": "jeneratör",
+        "var": true
+       },
+       {
+        "unsur": "duman",
+        "var": true
+       },
+       {
+        "unsur": "itfaiye aracı",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       630,
+       320,
+       930,
+       480
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 3,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T13:12:10+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "b339787c34b4a490",
+    "sha": "9239fbc3c2d2199eec79885c"
+   },
+   "t": "2026-11-26T13:12:10+03:00",
+   "teknik": {
+    "doygunluk": 10.0,
+    "inen": [
+     500,
+     335
+    ],
+    "karanlik_oran": 0.114,
+    "keskinlik": 1414,
+    "kontrast": 71,
+    "medyan": 135,
+    "parlaklik": 139,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Saving_the_day_DVIDS60390.jpg/1280px-Saving_the_day_DVIDS60390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "f01a6a701c5c5fa9": {
    "icerik": {

@@ -78,7 +78,6 @@ gorsel_yerlesim:
 gorsel_gecmis: []
 gorsel_alternatif:
 - https://images.unsplash.com/photo-1595734939818-f4e0d44957df?fm=jpg&q=80&w=1600&fit=max
-- https://images.unsplash.com/photo-1708117390188-d1547de962be?fm=jpg&q=80&w=1600&fit=max
 - https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Security_camera%2C_September_2018.jpg/1280px-Security_camera%2C_September_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 ---
 Alanya Belediyesi, kent genelindeki ulaşım altyapısını güçlendirmek amacıyla sürdürdüğü çalışmalarına Kestel Mahallesi’nde devam ediyor. Yeni Sanayi Sitesi ile Alanya Alaaddin Keykubat Üniversitesi’nin bulunduğu bölgeye hizmet veren güzergahta daha önce gerçekleştirilen kaldırım düzenlemesinin ardından sıcak asfaltlama çalışmaları da tamamlandı. Fen İşleri Müdürlüğü ekipleri tarafından yürütülen projede, bin 200 metre uzunluğundaki yola toplam 3 bin 250 ton sıcak asfalt serilerek güzergah vatandaşların kullanımına açıldı.
