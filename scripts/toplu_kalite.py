@@ -342,7 +342,7 @@ def rapor(args):
                                    or (g.get("karar") == "korundu" and g.get("alt_sonra")))
         kisi = bool((g.get("sonra") or {}).get("taninir_yuz") or (g.get("once") or {}).get("taninir_yuz") and g.get("karar") == "korundu")
         tek = g.get("karar") in ("yenilendi", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o["hassas"]
-        o["grup"] = "tek" if tek else "toplu"
+        o["grup"] = "bekliyor" if o.get("bekliyor") else "tek" if tek else "toplu"
         o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"), ("uygun görsel yok: yayından kaldırma önerisi", g.get("karar") == "kaldir"),
                                            ("karantina önerisi", bool(o.get("engeller"))), ("anlam düzeyinde yazım düzeltmesi", not o.get("metin_mekanik", True)),
                                            ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o["hassas"])) if k]
