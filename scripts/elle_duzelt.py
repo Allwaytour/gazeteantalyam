@@ -17,6 +17,7 @@ import yaml
 
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HABER = os.path.join(KOK, "content", "haber")
+KLASORLER = ("haber", "kose")          # köşe yazıları da panelden eklenir; adresleri aynı kuralla düzeltilir
 TR = timezone(timedelta(hours=3))
 
 
@@ -37,9 +38,19 @@ ON = re.compile(r"\A---\n(.*?\n)---(\n|\Z)", re.S)
 
 
 def duzelt():
+    degisen = []
+    for k in KLASORLER:
+        degisen += _duzelt(k)
+    return degisen
+
+
+def _duzelt(bolum):
     """Ön bilgi (front matter) metin olarak düzenlenir: yalnızca eksik satırlar eklenir, öteki alanların yazımı değişmez."""
+    HABER = os.path.join(KOK, "content", bolum)
+    if not os.path.isdir(HABER):
+        return []
     simdi = datetime.now(TR).replace(microsecond=0)
-    adlar = sorted(a for a in os.listdir(HABER) if a.endswith(".md"))
+    adlar = sorted(a for a in os.listdir(HABER) if a.endswith(".md") and not a.startswith("_"))
     kullanilan = {a[:-3] for a in adlar}
     degisen = []
     for ad in adlar:
@@ -76,9 +87,9 @@ def duzelt():
                 kullanilan.add(aday)
                 eski = [x for x in (v.get("aliases") or []) if x]
                 fm = re.sub(r"(?m)^aliases:.*\n(?:\s*-.*\n)*", "", fm)
-                ek.append(f"url: /haber/{aday}/")
-                ek.append("aliases:\n" + "".join(f"- '{x}'\n" for x in sorted(set(eski + [f'/haber/{kok}/']))).rstrip("\n"))
-                notlar.append(f"adres: /haber/{aday}/")
+                ek.append(f"url: /{bolum}/{aday}/")
+                ek.append("aliases:\n" + "".join(f"- '{x}'\n" for x in sorted(set(eski + [f'/{bolum}/{kok}/']))).rstrip("\n"))
+                notlar.append(f"adres: /{bolum}/{aday}/")
         if ek:
             yeni = "---\n" + fm + "\n".join(ek) + "\n---" + m.group(2) + t[m.end():]
             yaml.safe_load(ON.match(yeni).group(1))          # geçerli YAML olduğu doğrulanır

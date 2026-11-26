@@ -565,6 +565,7 @@ def tipo_uygula(v, web, kimza, neden):
     eski = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
     v["gorsel"], v["gorsel_kredi"], v["gorsel_tur"] = web, "Görsel: Gazete Antalya", "tipografik"
     v["gorsel_secim"] = {"tur": "tipografik", "gorsel_url": web, "konu_imza": kimza, "durum": "onaylandi", "hat": TAMAMLA_SURUM,
+                         "gosterilen": f"Gazete Antalya logolu haber kartı: {v.get('title', '')}"[:160],
                          "gerekce": neden, "aciklama": "", "kural_denetim": gh.KABUL_KURALI, "surum": gs.KURAL_SURUMU,
                          "onceki_durum": {x: eski.get(x) for x in ("tur", "durum", "kapak_nedeni") if eski.get(x)}}
     v["gorsel_yerlesim"] = _tipo_yerlesim(web)
@@ -604,7 +605,7 @@ def _gk(v):
     return gh.gorsel_kimligi(g) if g else ""
 
 
-def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
+def tamamla(dosyalar=None, oncelikli=(), sinir=10000, arsiv_esleme=True):
     """Otomatik haberlerin görselini tamamlar. Elle seçilmiş görsellere dokunulmaz; görsel hattının onayladığı fotoğraf korunur.
     Arşivden verilmiş ve tipografik görseller her turda güncel arşiv ve kurallarla yeniden değerlendirilir: daha uygun kayıt varsa
     onunla değişir, eşleşme kalmadıysa tipografik görsele döner. Haberler yayın sırasıyla (yeniden eskiye) işlenir; görseli yakın
@@ -667,6 +668,15 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
             esdeger = []
             if _foto_var(v):
                 say["korundu"] += 1
+            elif not arsiv_esleme:
+                # Görsel hattı v2: kelime eşleşmesiyle arşivden görsel atanmaz (26.11.2026 incelemesi). Daha önce atanmış arşiv görseli
+                # toplu_kalite.py raporu onaylanana kadar olduğu gibi kalır; görseli olmayan habere logolu başlık kartı verilir.
+                if _arsiv_id(v) or (v.get("gorsel_tur") == "arsiv" and v.get("gorsel")):
+                    say["ayni"] += 1
+                elif v.get("gorsel") != web:
+                    tipo_uygula(v, web, kimza, "Eşiği geçen fotoğraf yok; logolu başlık kartı.")
+                    say["tipografik"] += 1
+                    degisti = True
             else:
                 mevcut = _arsiv_id(v)
                 yeni_p = pencere(ad, -1)
@@ -706,7 +716,7 @@ def tamamla(dosyalar=None, oncelikli=(), sinir=10000):
                         tipo_uygula(v, web, kimza, "Uygun doğrulanmış fotoğraf ya da logo yok (" + neden + "); bize ait tipografik haber görseli.")
                         say["tipografik"] += 1
                         degisti = True
-            alt = _alternatifler(v, esdeger, govde, ad) if (not _foto_var(v) and _arsiv_id(v) and (v.get("gorsel_yerlesim") or {}).get("kart")) else []
+            alt = _alternatifler(v, esdeger, govde, ad) if (arsiv_esleme and not _foto_var(v) and _arsiv_id(v) and (v.get("gorsel_yerlesim") or {}).get("kart")) else (v.get("gorsel_alternatif") or []) if not arsiv_esleme else []
             if alt != (v.get("gorsel_alternatif") or []):
                 if alt:
                     v["gorsel_alternatif"] = alt
