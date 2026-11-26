@@ -81,13 +81,7 @@
   {{ range site.Data.site.ilceler }}{{ $u := partial "terim-url.html" (slice "ilceler" .) }}<a href="{{ $u }}" {{ if eq $u $simdiki }}aria-current="page"{{ end }}>{{ . }}</a>{{ end }}
 </div></div>
 
-{{/* Üst reklam: kendi oranıyla (esnetilmez, kırpılmaz) */}}
-{{ with site.Data.site.reklam_banner }}
-  {{ $src := . | relURL }}{{ $vg := 1640 }}{{ $vy := 360 }}
-  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}{{ $src = (resources.Copy (printf "vitrin/vitrin%s" (path.Ext .Name)) . | fingerprint).RelPermalink }}{{ with .Width }}{{ $vg = . }}{{ end }}{{ with .Height }}{{ $vy = . }}{{ end }}{{ end }}
-  <div class="ust-reklam"><div class="kap">
-    <a class="vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)"><img src="{{ $src }}" alt="{{ site.Data.site.reklam_ad }}" width="{{ $vg }}" height="{{ $vy }}" data-yedeksiz></a>
-    <span class="vitrin-not">Reklam</span>
-  </div></div>
-{{ end }}
+{{/* Üst reklam: ana sayfada manşet bloğunun altında, haber sayfasında ilk paragraftan sonra gösterilir; öteki sayfalarda burada.
+     Görselin oranında sabit yer ayrılır (içerik kaymaz). */}}
+{{ if not (or .IsHome (and .IsPage (in (slice "haber" "kose") .Section))) }}<div class="ust-reklam"><div class="kap">{{ partial "reklam-banner.html" "ust" }}</div></div>{{ end }}
 <span id="icerik"></span>

@@ -1,0 +1,22 @@
+{{/* Haber görseli <img> etiketi. Sitenin kendi sunucusundaki görseller (/images/...) Hugo ile WebP'ye çevrilir ve ekran genişliğine
+     uygun boyutlarda (srcset) üretilir; görsel yüklenene kadar gri kutu yerine görselin baskın rengi zemin olarak görünür.
+     Dış adreslerdeki görseller (eski Commons/Unsplash kayıtları) gorsel-url.html ile boyutlandırılır.
+     Parametre: dict "u" (adres) "alt" "boy" (kart | buyuk | haber) "stil" (ek style) "yukle" (lazy | eager) "en" "boy_px" */}}
+{{ $u := .u | default "" }}{{ $boy := .boy | default "kart" }}
+{{ $gen := dict "kart" (slice 240 400 640) "buyuk" (slice 480 800 1200) "haber" (slice 480 800 1200) }}
+{{ $siz := dict "kart" "(max-width:640px) 132px, (max-width:980px) 33vw, 300px" "buyuk" "(max-width:640px) 100vw, (max-width:980px) 100vw, 66vw" "haber" "(max-width:1000px) 100vw, 760px" }}
+{{ $src := $u }}{{ $set := "" }}{{ $renk := "" }}{{ $en := 0 }}{{ $yuk := 0 }}
+{{ $r := false }}
+{{ if hasPrefix $u "/images/" }}{{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" $u)) }}{{ if in (slice "jpeg" "png" "webp") .MediaType.SubType }}{{ $r = . }}{{ end }}{{ end }}{{ end }}
+{{ if $r }}
+  {{ $parca := slice }}{{ $son := false }}
+  {{ range index $gen $boy }}{{ if le . $r.Width }}{{ $v := $r.Resize (printf "%dx webp q74" .) }}{{ $parca = $parca | append (printf "%s %dw" $v.RelPermalink .) }}{{ $son = $v }}{{ end }}{{ end }}
+  {{ if not $son }}{{ $son = $r.Resize (printf "%dx webp q74" $r.Width) }}{{ $parca = slice (printf "%s %dw" $son.RelPermalink $r.Width) }}{{ end }}
+  {{ $src = $son.RelPermalink }}{{ $set = delimit $parca ", " }}{{ $en = $r.Width }}{{ $yuk = $r.Height }}
+  {{ with ($r.Resize "16x").Colors }}{{ $renk = index . 0 }}{{ end }}
+{{ else if $u }}
+  {{ $k := partial "gorsel-url.html" (dict "u" $u "w" (cond (eq $boy "kart") 500 960)) }}{{ $b := partial "gorsel-url.html" (dict "u" $u "w" (cond (eq $boy "kart") 960 1280)) }}
+  {{ $src = $k }}{{ if ne $b $k }}{{ $set = printf "%s %s, %s %s" $k (cond (eq $boy "kart") "500w" "960w") $b (cond (eq $boy "kart") "960w" "1280w") }}{{ end }}
+{{ end }}
+{{ $stil := .stil | default "" }}{{ with $renk }}{{ $stil = printf "%s%sbackground-color:%s" $stil (cond (ne $stil "") ";" "") . }}{{ end }}
+{{ if $u }}<img src="{{ $src }}"{{ with $set }} srcset="{{ . }}" sizes="{{ index $siz $boy }}"{{ end }}{{ if and $en $yuk }} width="{{ $en }}" height="{{ $yuk }}"{{ end }}{{ with $stil }} style="{{ . | safeCSS }}"{{ end }} alt="{{ .alt }}" loading="{{ .yukle | default "lazy" }}" decoding="async"{{ if ne $src $u }} data-asil="{{ $u }}"{{ end }} referrerpolicy="no-referrer">{{ end }}

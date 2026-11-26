@@ -1,0 +1,13 @@
+{{/* Yatay reklam alanı (site.yaml: reklam_banner). Görselin oranında sabit yer ayrılır (aspect-ratio + width/height): sayfa yüklenirken
+     içerik kaymaz. Parametre: ek sınıf (ana | haber | ust). Ana sayfada manşet bloğunun altında, haber sayfasında ilk paragraftan sonra. */}}
+{{ with site.Data.site.reklam_banner }}
+  {{ $src := . | relURL }}{{ $vg := 1640 }}{{ $vy := 360 }}{{ $set := "" }}
+  {{ with resources.Get (printf "img/%s" (strings.TrimPrefix "/images/" .)) }}
+    {{ $vg = .Width }}{{ $vy = .Height }}
+    {{ $a := .Resize "728x webp q80" }}{{ $b := .Resize (printf "%dx webp q80" (cond (gt .Width 1456) 1456 .Width)) }}
+    {{ $src = $b.RelPermalink }}{{ $set = printf "%s 728w, %s %dw" $a.RelPermalink $b.RelPermalink $b.Width }}
+  {{ end }}
+  <aside class="reklam-alan reklam-{{ $ }}" aria-label="Reklam"><span class="vitrin-not">Reklam</span>
+    <a class="vitrin" href="{{ site.Data.site.reklam_link | default "#" }}" target="_blank" rel="sponsored noopener" aria-label="{{ site.Data.site.reklam_ad }} (reklam)" style="aspect-ratio:{{ $vg }}/{{ $vy }}"><img src="{{ $src }}"{{ with $set }} srcset="{{ . }}" sizes="(max-width:760px) 100vw, 728px"{{ end }} alt="{{ site.Data.site.reklam_ad }}" width="{{ $vg }}" height="{{ $vy }}" loading="eager" decoding="async" data-yedeksiz></a>
+  </aside>
+{{ end }}

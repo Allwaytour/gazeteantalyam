@@ -15,15 +15,17 @@
      doğrulanmış karesi (alt) gösterilir; o da yoksa haberin tipografik görseli. */}}
 {{ $gg := slice }}
 {{ $slayt := slice }}{{ $mmetin := slice }}
-{{/* Fotoğrafı manşete uymayan ya da fotoğrafı başka manşette kullanılan önemli haber, tipografik görseliyle (gorsel_yedek) manşete girer. */}}
+{{/* Manşette ve slaytta yalnızca fotoğraflı haberler yer alır (logo ya da başlık kartı fotoğraf sayılmaz); fotoğrafsız önemli haber
+     manşet bloğunun altındaki "öne çıkan" metin kutusuna girer. */}}
 {{ range $sirali }}{{ if lt (len $slayt) 7 }}{{ $h := . }}
-  {{ if and .yedek (or (and .manset_duzen (in $gg (partial "gorsel-anahtar.html" .gorsel))) (and (not .manset_duzen) (ge .onem 4))) }}{{ $h = merge . (dict "gorsel" .yedek "tipo" true "manset_duzen" "kaplama" "o_md" "50% 50%" "o_mm" "50% 50%") }}{{ end }}
   {{ if and $h.manset_duzen (not (in $gg (partial "gorsel-anahtar.html" $h.gorsel))) }}{{ $slayt = $slayt | append $h }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" $h.gorsel) }}
   {{ else if and (lt (len $mmetin) 2) (ge .onem 4) (not $h.manset_duzen) }}{{ $mmetin = $mmetin | append . }}{{ end }}
 {{ end }}{{ end }}
 {{ if not $slayt }}{{ $mmetin = slice }}{{ range first 3 $sirali }}{{ $mmetin = $mmetin | append . }}{{ end }}{{ end }}
+{{/* Slayt için son 6 saatte fotoğraflı haber yoksa son fotoğraflı haberler kullanılır */}}
+{{ if not $slayt }}{{ range $hepsi }}{{ if and (lt (len $slayt) 5) .manset_duzen (not (in $gg (partial "gorsel-anahtar.html" .gorsel))) }}{{ $slayt = $slayt | append . }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ end }}
 {{ range $slayt | append $mmetin }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}
-{{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) (not (in $kullanilan .link)) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
+{{ $yan := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $yan) 3) .yan_foto (not (in $kullanilan .link)) (not (in $gg (partial "gorsel-anahtar.html" .gorsel))) }}{{ $yan = $yan | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}
 {{ $one := slice }}{{ range $sirali | append $hepsi }}{{ if and (lt (len $one) 8) (not (in $kullanilan .link)) }}{{ $one = $one | append . }}{{ $kullanilan = $kullanilan | append .link }}{{ end }}{{ end }}
 
 {{/* ===== BÖLÜMLER (her haber ana sayfada yalnızca bir kez) ===== */}}
@@ -37,8 +39,7 @@
 
 <h1 class="gizli">{{ site.Title }} – Antalya ve ilçelerinden son dakika haberleri</h1>
 
-<section class="ust-blok{{ if not $slayt }} ust-blok-metin{{ end }}" aria-label="Manşet">
-  {{ if $slayt }}
+{{ if $slayt }}<section class="ust-blok" aria-label="Manşet">
   <div class="manset" data-slayt>
     <div class="slayt-pencere">
       <div class="slayt-ic">
@@ -69,15 +70,10 @@
     </div>
     <div class="slayt-nok">{{ range $i, $_ := $slayt }}<button type="button" aria-label="{{ add $i 1 }}. manşet">{{ add $i 1 }}</button>{{ end }}</div>
   </div>
-  {{ else }}
-  <div class="manset-yazi">{{ with index $mmetin 0 }}
-    <a href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>
-    <span class="manset-yazi-b">{{ .baslik }}</span>{{ with .ozet }}<span class="manset-yazi-o">{{ . | plainify | truncate 260 }}</span>{{ end }}</a>{{ end }}
-  </div>
-  {{ $mmetin = after 1 $mmetin }}
-  {{ end }}
-  <div class="manset-yan">{{ range $yan }}{{ $h := . }}{{ if or .yan_foto .yan_p }}{{ if in $gg (partial "gorsel-anahtar.html" .gorsel) }}{{ $h = merge . (dict "yan_foto" false "yan_p" false) }}{{ else }}{{ $gg = $gg | append (partial "gorsel-anahtar.html" .gorsel) }}{{ end }}{{ end }}{{ partial "yan-kart.html" $h }}{{ end }}</div>
-</section>
+  <div class="manset-yan">{{ range $yan }}{{ partial "yan-kart.html" . }}{{ end }}</div>
+</section>{{ end }}
+{{/* Reklam: manşet bloğunun altında, sabit oranlı alan (sayfa kaymaz) */}}
+{{ partial "reklam-banner.html" "ana" }}
 {{ with $mmetin }}
 <section class="one-metin" aria-label="Öne çıkan haberler">{{ range . }}
   <a class="one-metin-k" href="{{ .link }}"><span class="hk-ust"><b>{{ .kategori }}</b>{{ with .ilce }}<span>{{ . }}</span>{{ end }}<time datetime="{{ .iso }}" data-zaman></time></span>

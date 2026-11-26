@@ -181,4 +181,22 @@
       }).catch(function () { durum.textContent = "Arama şu an yapılamadı."; });
     } else { durum.textContent = "Aramak istediğiniz kelimeyi yazın."; }
   }
+
+  // WhatsApp yüzen düğmesi (mobil): aşağı kaydırırken gizlenir, yukarı kaydırınca görünür; sayfa sonunda (alt bilgi) gizli kalır
+  var wa = $(".wa-yuzen");
+  if (wa) {
+    var sonY = window.scrollY, bekliyor = false;
+    window.addEventListener("scroll", function () {
+      if (bekliyor) return;
+      bekliyor = true;
+      requestAnimationFrame(function () {
+        var y = window.scrollY, fark = y - sonY;
+        var dip = y + window.innerHeight > document.documentElement.scrollHeight - 140;
+        if (dip || (fark > 6 && y > 120)) wa.classList.add("wa-gizli");
+        else if (fark < -6) wa.classList.remove("wa-gizli");
+        if (Math.abs(fark) > 6) sonY = y;
+        bekliyor = false;
+      });
+    }, { passive: true });
+  }
 })();

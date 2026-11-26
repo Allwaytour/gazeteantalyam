@@ -41,7 +41,7 @@ EDITOR_SORUN = ("ascii", "ascii_metin", "bitisik", "ek_uyum", "ek_ayri", "intiha
 PUAN_MEVCUT = """Sen bir Türk haber sitesinin deneyimli foto editörüsün. Aşağıda birkaç haber ve her haberde KULLANILAN TEK fotoğraf var.
 Her fotoğrafı yalnızca KENDİ haberine göre değerlendir (ölçüt ve kesin ret kodları aşağıda).
 """ + g2.PUAN_TALIMAT.split("Her aday için:", 1)[1].split("Yalnızca şu biçimde", 1)[0] + """
-Yalnızca şu biçimde JSON döndür: {"haberler": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "gorunen": "...", "gerekce": "..."}]}
+Yalnızca şu biçimde JSON döndür: {"haberler": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "odak": "50% 40%", "gorunen": "...", "gerekce": "..."}]}
 """
 
 

@@ -81,13 +81,16 @@ Her aday için:
   kacinilacak: brief'teki "kaçınılacaklar" listesinden bir unsur görünüyor
   ajans: haber ajansı (AA, İHA, DHA, Getty, Reuters, AFP vb.) filigranı, logosu ya da fotoğrafçı kredisi var
   yazi_logo: görselde baskın yazı, filigran ya da ilgisiz marka logosu var
+  logo: görselin kendisi bir logo, amblem, arma ya da tabela (kurum, belediye, parti, üniversite, kulüp, şirket logosu); haber
+        fotoğrafı sayılmaz, haberle ilgili kurumun logosu olsa bile kabul edilmez
 - "donem": "guncel" (son yıllarda çekilmiş görünüyor) ya da "eski" (siyah-beyaz, eski araç/giyim, arşiv baskısı vb.)
 - "tahmini_yil": eski ise tahmini çekim yılı (bilmiyorsan boş)
 - "taninir_yuz": görselde yüzü tanınabilir bir insan öne çıkıyorsa true
+- "odak": görseldeki ana öznenin merkezi, yatay kırpmada korunacak nokta: "x% y%" (insan varsa yüzün merkezi; ör. "50% 25%")
 - "gorunen": görselde GERÇEKTE görünenin kısa Türkçe tarifi (alt metin; en çok 110 karakter; haberin başlığını tekrar etme)
 - "gerekce": puanın kısa gerekçesi (en çok 25 kelime)
 
-Yalnızca şu biçimde JSON döndür: {"adaylar": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "gorunen": "...", "gerekce": "..."}]}
+Yalnızca şu biçimde JSON döndür: {"adaylar": [{"no": 1, "puan": 0, "ihlaller": [], "donem": "guncel", "tahmini_yil": "", "taninir_yuz": false, "odak": "50% 40%", "gorunen": "...", "gerekce": "..."}]}
 
 HABER
 """
@@ -509,6 +512,9 @@ def baska_yer(a, p, brief, hb):
     return [y.strip() for y in out]
 
 
+LOGO_RE = re.compile(r"(?i)(?<![a-z])(logo|logosu|logotype|amblem|emblem|arma|coat[_ -]of[_ -]arms|seal[_ -]of|wordmark)(?![a-z])")
+
+
 def karar(a, p, brief, hb):
     nedenler = []
     puan = int(p.get("puan") or 0) if str(p.get("puan", "")).strip().lstrip("-").isdigit() else 0
@@ -517,6 +523,8 @@ def karar(a, p, brief, hb):
         nedenler.append(f"puan {puan} < {ESIK}")
     if ihlal:
         nedenler.append("kesin ret: " + ", ".join(ihlal))
+    if LOGO_RE.search(" ".join(str(a.get(k) or "") for k in ("url", "sayfa", "aciklama", "kucuk"))) and "logo" not in ihlal:
+        nedenler.append("kesin ret: logo (dosya adı/etiketlerde logo, amblem)")
     yer = baska_yer(a, p, brief, hb)
     if yer:
         nedenler.append("kesin ret: baska_sehir (" + ", ".join(yer) + ")")
@@ -572,7 +580,7 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
         p = puanlar.get(i) or {}
         puan, nedenler = karar(a, p, brief, hb)
         a.update(puan=puan, gerekce=temiz(p.get("gerekce"), 200), gorunen=temiz(p.get("gorunen"), 120), ihlaller=p.get("ihlaller") or [],
-                 taninir_yuz=bool(p.get("taninir_yuz")), donem=temiz(p.get("donem"), 10),
+                 taninir_yuz=bool(p.get("taninir_yuz")), donem=temiz(p.get("donem"), 10), odak=odak_temiz(p.get("odak")),
                  cekim_yili=a.get("cekim_yili") or temiz(p.get("tahmini_yil"), 10))
         if not p:
             nedenler.append("puanlanmadı")
@@ -602,6 +610,12 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
     return en_iyi, kayit
 
 
+def odak_temiz(o):
+    """'50% 25%' biçimindeki odak noktası (0-100 aralığında); geçersizse boş."""
+    m = re.fullmatch(r"\s*(\d{1,3})\s*%\s+(\d{1,3})\s*%\s*", str(o or ""))
+    return f"{min(int(m.group(1)), 100)}% {min(int(m.group(2)), 100)}%" if m else ""
+
+
 def secim_kaydi(a, konu_imza="", tarihi=False):
     """Seçilen adayı gorsel_sec.secimi_uygula biçimine çevirir. Sitede görselin altında hiçbir yazı gösterilmez ve görselin kaynağı,
     sahibi, lisansı hiçbir yere yazılmaz (yayın sorumlusu kararı, 26.11.2026). Yalnızca kaynaksız tekrar kimliği (iz) ve pHash
@@ -617,7 +631,7 @@ def secim_kaydi(a, konu_imza="", tarihi=False):
             "gosterilen": a.get("gorunen") or "", "aciklama": "", "fotografci": "", "kaynak_sayfa": "",
             "gerekce": f"Görsel puanı {a.get('puan')}/10: {a.get('gerekce', '')}", "hat": SURUM, "surum": SURUM, "konu_imza": konu_imza,
             "kontrol": {"yapildi": True, "sonuc": "uygun", "puan": a.get("puan"), "esik": ESIK, "gerekce": a.get("gerekce", ""), "tarih": simdi_},
-            "kimlik": iz(a["id"]), "phash": a.get("phash", "")}
+            "kimlik": iz(a["id"]), "phash": a.get("phash", ""), "konum": a.get("odak", "")}
 
 
 KAYNAK_ALANLARI = ("sayfa", "sahip", "lisans", "lisans_kaniti", "orijinal", "orijinal_url", "kaynak_sayfa", "fotografci", "exif", "aciklama",
