@@ -30,8 +30,8 @@ Nasıl çalıştığımızı [Yayın İlkeleri](/yayin-ilkeleri/) sayfamızda, h
 Gazete Antalya'nın spor haberlerini yapıyor. Antalya'nın spor gündemini yakından izliyor; kulüplerin, sporcuların ve tribünlerin hikâyelerini sahadan okurlarına taşıyor. Profesyonel liglerden amatör sahalara, maç sonuçlarının ötesine geçen bir spor habercilik anlayışıyla çalışıyor.
 {{< /ekip >}}
 
-{{< ekip ad="Kateryna Sevostianova" gorev="Muhabir / Köşe Yazarı" foto="/images/yazarlar/yekaterina-sevostianova.jpg" >}}
-Ukraynalı yerel gazeteci. 12 yıllık meslek deneyimiyle Gazete Antalya'da muhabir ve köşe yazarı olarak çalışıyor. Turizm ve dünya gündemi üzerine yazıyor; Antalya'nın turizmini, kentte yaşayan bir yabancının gözüyle ve uluslararası gelişmelerle bağ kurarak ele alıyor. Dünyada olup bitenin Antalya'ya, Antalya'da olup bitenin dünyaya nasıl yansıdığını okurlarına anlaşılır bir dille aktarıyor. — [Yazıları](/yazarlar/yekaterina-sevostianova/)
+{{< ekip ad="Kateryna Sevostianova" gorev="Muhabir / Köşe Yazarı" foto="/images/yazarlar/kateryna-sevostianova.jpg" >}}
+Ukraynalı yerel gazeteci. 12 yıllık meslek deneyimiyle Gazete Antalya'da muhabir ve köşe yazarı olarak çalışıyor. Turizm ve dünya gündemi üzerine yazıyor; Antalya'nın turizmini, kentte yaşayan bir yabancının gözüyle ve uluslararası gelişmelerle bağ kurarak ele alıyor. Dünyada olup bitenin Antalya'ya, Antalya'da olup bitenin dünyaya nasıl yansıdığını okurlarına anlaşılır bir dille aktarıyor. — [Yazıları](/yazarlar/kateryna-sevostianova/)
 {{< /ekip >}}
 
 {{< ekip ad="Gülbin Çevikkan" gorev="Köşe Yazarı" foto="/images/yazarlar/gulbin-cevikkan.jpg" >}}
