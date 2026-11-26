@@ -47973,6 +47973,96 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mr._Harding%27s_desk_in_the_executive_office_LCCN2002713194.jpg/1280px-Mr._Harding%27s_desk_in_the_executive_office_LCCN2002713194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "37520ac8b1e7a4b6": {
+   "icerik": {
+    "ana_kutu": [
+     515,
+     482,
+     577,
+     560
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "ahşap sıra",
+     "bank",
+     "kürsü",
+     "pencere"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Boş ahşap sıra ve bankların bulunduğu geniş salon içi görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kilise haberi",
+     "salon tanıtımı",
+     "konferans salonu"
+    ],
+    "uygunsuz_baglamlar": [
+     "kongre haberi",
+     "canlı etkinlik",
+     "toplantı haberi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:162ec7b8f2d7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta konuşmacı ve katılımcılar yerine tamamen boş bir salon yer almaktadır.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "boş salon"
+      ]
+     },
+     "t": "2026-11-26T13:42:20+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "13969692ccce8e07",
+    "sha": "1490d959065358933883df51"
+   },
+   "t": "2026-11-26T13:42:20+03:00",
+   "teknik": {
+    "doygunluk": 34.4,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.257,
+    "keskinlik": 614,
+    "kontrast": 73,
+    "medyan": 151,
+    "parlaklik": 125,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1781371004994-05d1940e4bc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjB3b29kZW4lMjBwb2RpdW0lMjBoYWxsfGVufDF8MHx8fDE3OTU2ODk3MjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
   "376fbcd4f82b4775": {
    "icerik": {
     "ana_kutu": [
@@ -55046,6 +55136,34 @@
     ]
    },
    "iliski": {
+    "r1:162ec7b8f2d7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Turizm kongresi haberiyle halk oyunları dansçılarının görseli alakasızdır.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "boş salon"
+      ]
+     },
+     "t": "2026-11-26T13:41:53+03:00"
+    },
     "r1:61f1ee39f211:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -55309,7 +55427,7 @@
     "dh": "5752767945d5d5a5",
     "sha": "4340bc919e0e56f3aeb6b675"
    },
-   "t": "2026-11-18T22:20:11+03:00",
+   "t": "2026-11-26T13:41:53+03:00",
    "teknik": {
     "doygunluk": 40.0,
     "inen": [
@@ -71232,6 +71350,34 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
+    "r1:162ec7b8f2d7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya manzarası içerse de turizm kongresi ve konuşma haberi için uygun değildir.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "boş salon"
+      ]
+     },
+     "t": "2026-11-26T13:41:53+03:00"
+    },
     "r1:2c8a2d713ca3:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -71273,27 +71419,6 @@
       "yasak": []
      },
      "t": "2026-11-12T23:00:32+03:00"
-    },
-    "r1:60e8b4fa1f5c:yer_genel": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Antalya genel manzarası olsa da yemek kültürü haberi için yetersiz ve ilgisiz.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 3,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T13:06:28+03:00"
     },
     "r1:853991d58e86:yer_genel": {
      "d": {
@@ -71488,7 +71613,7 @@
     "dh": "193b333428384d07",
     "sha": "a4216fccd2acc14628f41c70"
    },
-   "t": "2026-11-25T23:40:54+03:00",
+   "t": "2026-11-26T13:41:53+03:00",
    "teknik": {
     "doygunluk": 26.1,
     "inen": [
@@ -207037,6 +207162,34 @@
      },
      "t": "2026-11-17T14:54:03+03:00"
     },
+    "r1:162ec7b8f2d7:yer_genel": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sokak ve köpeklerin göründüğü bu kare turizm kongresi konuşması haberiyle tamamen ilgisizdir.",
+      "gerekli": [
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "boş salon"
+      ]
+     },
+     "t": "2026-11-26T13:41:53+03:00"
+    },
     "r1:2c8a2d713ca3:yer_genel": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -207303,7 +207456,7 @@
     "dh": "66664b1d2c4e4eb8",
     "sha": "56dbd673d1ceee7ae240c61c"
    },
-   "t": "2026-11-25T23:40:54+03:00",
+   "t": "2026-11-26T13:41:53+03:00",
    "teknik": {
     "doygunluk": 17.1,
     "inen": [
