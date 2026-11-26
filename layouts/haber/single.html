@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ if .Params.kaldirildi }}{{ partial "kaldirildi.html" . }}{{ else }}
 {{ $kat := index (.Params.kategoriler | default (slice "Gündem")) 0 }}
 <div class="haber-sayfa">
   {{/* Sıra: yol → başlık → yayın bilgisi + paylaş → (sol) spot, fotoğraf + açıklama, metin | (sağ) son haberler, reklam */}}
@@ -57,4 +58,5 @@
   <header class="bolum-bas"><h2 id="b-devam">Son Haberler</h2></header>
   <div class="izgara-4">{{ range $devam }}{{ partial "hk.html" (merge . (dict "tip" "kart")) }}{{ end }}</div>
 </section>
+{{ end }}{{/* kaldirildi */}}
 {{ end }}
