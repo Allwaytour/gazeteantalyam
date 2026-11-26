@@ -189,6 +189,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.0,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-26T22:41:06+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -1150,6 +1163,33 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 02:11)"
+  },
+  {
+   "tarih": "2026-11-26T22:41:22+03:00",
+   "baslik": "Antalyaspor ve Alanyaspor'dan Beşiktaş taraftarına destek",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/spor/uc-buyuklerin-ardindan-antalyaspor-ve-alanyaspor-da-besiktas-icin-ses-yukseltti/390106",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalyaspor-ve-alanyaspordan-besiktas-taraftarina-destek-d36b3.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "seçilen görsel indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g642ad630d826842c4392bed4bd295f4518ea416c47c0dbe5ce1a0cb502d1bdd7ef741c8c83f8c96573a71fc83dc6677615400"
+   }
+  },
+  {
+   "tarih": "2026-11-26T22:41:44+03:00",
+   "baslik": "Serik'te emekli öğretmenler kahvaltıda bir araya geldi",
+   "dosya": "20261126-serikte-emekli-ogretmenler-kahvaltida-bir-araya-geldi-7bf18.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:12)"
   }
  ]
 }
