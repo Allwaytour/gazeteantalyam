@@ -43,8 +43,8 @@ kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/antalya/baskan-gonen-growtech-fuarinda-sanayicilerle-bulustu-antalya-sanayisi-kuresel-vitrinde/390097
 bekleme:
   ilk: '2026-11-26T18:41:45+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T20:41:45+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T00:41:45+03:00'
   brief:
     ana_konu: Antalya'da düzenlenen Growtech Fuarı'nda sanayi ve tarım teknolojileri sergileniyor.
     olmasi_gereken:

@@ -113,6 +113,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 3
+  },
+  {
+   "tarih": "2026-11-26T20:41:01+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 3,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 2,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 3
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.67,
+   "islenen": 6
   }
  ],
  "haberler": [
@@ -534,6 +549,156 @@
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
    }
+  },
+  {
+   "tarih": "2026-11-26T20:41:21+03:00",
+   "baslik": "Antalya'da köklü meyhane yılbaşından sonra kapanıyor",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/18-yillik-ayyas-meyhane-yilbasindan-sonra-kapaniyor-bir-ruhsat-iptal-edilebilir-ama-emek-silinemez/390101",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-antalyada-koklu-meyhane-yilbasindan-sonra-kapaniyor-011d4.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "pixabay:7621881",
+    "yerel_url": "/images/haber-gorsel/pixabay-7621881-3958deb0.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "old town Antalya street",
+    "puan": 8,
+    "gerekce": "Kaleiçi atmosferini ve tarihi dokuyu başarılı biçimde yansıtıyor, döneme uygun bir kare.",
+    "gorunen": "Tarihi sokakta park etmiş mavi klasik otomobil ön planı",
+    "sahip": "AyşegülAytören",
+    "lisans": "Pixabay İçerik Lisansı",
+    "sayfa": "https://pixabay.com/photos/antalya-turkey-vintage-car-7621881/",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "https://pixabay.com/get/g123aeb19ec967634d7833c9e8c5164125fa72aa0fbb436ad6f7f4321f9c808c9b7935816201f3b4bf833129a75e4bf94a05a609c3201b3a50c48a0ca48e9303a_640.jpg"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:41:46+03:00",
+   "baslik": "Antalya Büyükşehir Belediye Meclisi'nde parti değişimi sonrası dikkat çeken hamle",
+   "kaynak": "Antalya Ekspres",
+   "kaynak_url": "https://www.antalyaekspres.com.tr/meclis-oncesi-dikkat-ceken-ayrinti-bocekli-fotografini-profilinden-kaldirdi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "metin: Meclis → meclis",
+     "metin: Meclis → meclis",
+     "metin: Başkan → başkan",
+     "metin: Vekilliği → vekilliği"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalya-buyuksehir-belediye-meclisinde-parti-degisimi-9195a.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:43:33+03:00",
+   "baslik": "Bakan Tekin'den öğretmen atamaları ve akademi alımları için tarih",
+   "kaynak": "Gün Haber",
+   "kaynak_url": "https://www.gunhaber.com.tr/haber/bakan-tekin-ogretmen-atamalari-icin-tarih-verdi/578552/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "spot: Milli → Millî",
+     "metin: Milli → Millî",
+     "metin: Milli → Millî",
+     "metin: Milli → Millî",
+     "etiket: Milli Eğitim Bakanlığı → Millî Eğitim Bakanlığı"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-bakan-tekinden-ogretmen-atamalari-ve-akademi-alimlari-icin-a9903.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "pixabay:3670453",
+    "yerel_url": "/images/haber-gorsel/pixabay-3670453-25a1756f.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "school classroom",
+    "puan": 7,
+    "gerekce": "Sınıf ve okul ortamını gösterdiği için eğitim haberiyle doğrudan ilgili ve uygundur.",
+    "gorunen": "Boş bir sınıf ortamında ayakta duran okul formalı öğrenci",
+    "sahip": "JhonDL",
+    "lisans": "Pixabay İçerik Lisansı",
+    "sayfa": "https://pixabay.com/photos/education-student-boy-classroom-3670453/",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "https://pixabay.com/get/g2fbd49dca04c9c10297ce50b55c48fef93244b327fbfeb88fa72fc53a8a89e2e291599a25aa12a6ab964e47de13e31e2c59b94f645e9054bf44dd13160be7a48_640.jpg"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:43:54+03:00",
+   "baslik": "Antalyalı iş insanı Barış Kurucu'nun 15 yıllık yardım hikayesi",
+   "kaynak": "Antalya Hürses",
+   "kaynak_url": "https://www.antalyahurses.com/antalyada-15-yildir-suren-yardim-hikayesi-baris-kurucu-kimdir/562053",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalyali-is-insani-baris-kurucunun-15-yillik-yardim-0fe11.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:44:27+03:00",
+   "baslik": "Antalya Muratpaşa'da yeni otel yatırımı için ÇED süreci başladı",
+   "kaynak": "Turizm Güncel",
+   "kaynak_url": "https://www.turizmguncel.com/haber/antalya-merkeze-315-milyon-tl-yatirimla-yeni-otel-projesi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-antalya-muratpasada-yeni-otel-yatirimi-icin-ced-sureci-17819.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "pixabay:315892",
+    "yerel_url": "/images/haber-gorsel/pixabay-315892-e8151302.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "hotel building rendering",
+    "puan": 8,
+    "gerekce": "Yeni bir otel projesinin mimari görseline uygun ve başarılı bir illüstrasyon.",
+    "gorunen": "Havuzlu ve peyzajlı büyük modern otel kompleksi çizimi",
+    "sahip": "PublicDomainPictures",
+    "lisans": "Pixabay İçerik Lisansı",
+    "sayfa": "https://pixabay.com/photos/plaza-hotel-rumba-bay-vince-spena-315892/",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "https://pixabay.com/get/gcd7c0c8fa9cb2a22fcbd0854c311e54a3faa3f031054e208bc7f1da36d8a2194d6ad9bc42e7da39d9dac5efee98984c1_640.jpg"
+   }
+  },
+  {
+   "tarih": "2026-11-26T20:44:43+03:00",
+   "baslik": "Antalya OSB Başkanı Gönen'den Growtech Fuarı'ndaki sanayicilere ziyaret",
+   "dosya": "20261126-antalya-osb-baskani-gonenden-growtech-fuarindaki-b5ffb.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 00:41)"
   }
  ]
 }
