@@ -42,8 +42,8 @@ kaynak: Alanya Gazetesi
 kaynak_url: https://www.alanyagazetesi.com.tr/yeni-parti-alanya-da-buyuyor-konakli-temsilciligi-aciliyor-il-olma-cagrisi-yenilendi-4394
 bekleme:
   ilk: '2026-11-26T19:12:05+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T01:12:05+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T07:12:05+03:00'
   brief:
     ana_konu: Yeni Parti Alanya İlçe Örgütü'nün Konaklı Bölge Temsilciliği'nin açılışı ve il olma açıklaması.
     olmasi_gereken:
