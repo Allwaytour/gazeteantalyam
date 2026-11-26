@@ -20,11 +20,11 @@
 {{ range $grup := slice "tek" "toplu" }}
 <h2>{{ if eq $grup "tek" }}Tek tek onay grubu{{ else }}Toplu onay grubu (yalnızca mekanik düzeltmeler){{ end }}</h2>
 {{ range $ad, $o := $hepsi }}{{ if and (eq ($o.grup | default "toplu") $grup) $o.degisiklik_var }}{{ $g := $o.gorsel | default dict }}
-<div class="h{{ if eq $g.karar "kaldir" }} kaldir{{ end }}">
+<div class="h{{ if in (slice "kaldir" "gorselsiz") $g.karar }} kaldir{{ end }}">
   <h3>{{ with $o.metin.title }}<span class="no"><s>{{ .once }}</s></span><br><span class="ok">{{ .sonra }}</span>{{ else }}{{ $o.baslik }}{{ end }}</h3>
   <small><code>{{ $ad }}</code> · durum: {{ $o.durum }}{{ with $o.bekliyor }} · bekliyor: {{ . }}{{ end }}</small>
   <p>{{ range $o.grup_nedeni }}<span class="etk">{{ . }}</span>{{ end }}</p>
-  {{ if eq $g.karar "kaldir" }}<p class="no"><b>Uygun görsel bulunamadı: yayından kaldırılması öneriliyor.</b> {{ $g.sonuc }}</p>{{ end }}
+  {{ if in (slice "kaldir" "gorselsiz") $g.karar }}<p class="no"><b>Uygun görsel bulunamadı: haber yayında kalır, görseli kaldırılır (görselsiz).</b> {{ $g.sonuc }}</p>{{ end }}
   {{ with $o.engeller }}<p class="no">Karantina nedeni: {{ delimit . "; " }}</p>{{ end }}
   {{ with $o.metin_degisiklikleri }}<p><b>Metinde değişenler</b></p><ul>{{ range first 30 . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
   {{ with $o.metin.ozet }}<p><b>Spot</b><br><s>{{ .once }}</s><br>{{ .sonra }}</p>{{ end }}
@@ -38,7 +38,7 @@
     <figure>{{ if eq $g.karar "yenilendi" }}<img src="{{ $g.sonra.yerel_url | default $g.sonra.onizleme }}" alt="" loading="lazy" referrerpolicy="no-referrer">
       <figcaption><b>Sonra</b> · <span class="p ok">{{ $g.sonra.puan }}/10</span> · {{ $g.sonra.kaynak }} <small>(sorgu: {{ $g.sonra.sorgu }}; lisans: {{ $g.sonra.lisans }})</small><br>
       <small>{{ $g.sonra.gerekce }}<br>Alt metin: {{ $g.sonra.gorunen }}</small></figcaption>
-    {{ else if eq $g.karar "kaldir" }}<div style="aspect-ratio:16/10;background:#fbe9e7;color:#b42318;border-radius:6px;display:flex;align-items:center;justify-content:center;padding:12px;text-align:center">Uygun görsel yok → haber yayından çıkar</div>
+    {{ else if in (slice "kaldir" "gorselsiz") $g.karar }}<div style="aspect-ratio:16/10;background:#fbe9e7;color:#b42318;border-radius:6px;display:flex;align-items:center;justify-content:center;padding:12px;text-align:center">Uygun görsel yok → haber görselsiz kalır</div>
     {{ else if eq $g.karar "korundu" }}<figcaption><b>Korunur</b> (kaynak uygun, puan eşiği geçti)<br><small>Yeni alt metin: {{ $g.alt_sonra }}</small></figcaption>
     {{ else }}<figcaption><small>{{ $g.karar | default "değerlendirme bekliyor" }}</small></figcaption>{{ end }}</figure>
   </div>
