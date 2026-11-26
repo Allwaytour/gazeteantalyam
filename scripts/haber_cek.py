@@ -501,6 +501,10 @@ def gemini_json(metin, sicaklik, en_fazla, parcalar=None):
             print("   Yapay zekâ kotası doldu, bekleniyor…")
             time.sleep(20 * (deneme + 1))
             continue
+        if r.status_code in (500, 502, 503, 504) and deneme < 2:
+            print(f"   Yapay zekâ servisi yoğun ({r.status_code}); {15 * (deneme + 1)} sn sonra yeniden denenecek")
+            time.sleep(15 * (deneme + 1))
+            continue
         if r.status_code >= 400:
             raise RuntimeError(f"{r.status_code}: {r.text[:200]}")
         parcalar = r.json()["candidates"][0]["content"]["parts"]
