@@ -65,7 +65,7 @@
 <div class="sondakika" aria-label="Son haberler akışı"><div class="sd-ic-kap">
   <span class="sd-etiket">Son dakika</span>
   <div class="sd-akis"><div class="sd-ic">
-    {{ range seq 2 }}{{ range $akis }}<a href="{{ .link }}"><b>{{ with .ilce }}#{{ upper . }}{{ else }}#{{ upper .kategori }}{{ end }}</b>{{ .baslik }}</a>{{ end }}{{ end }}
+    {{ range seq 2 }}{{ range $akis }}<a href="{{ .link }}"><b>{{ with .ilce }}#{{ upper (replace . "i" "İ") }}{{ else }}#{{ upper (replace .kategori "i" "İ") }}{{ end }}</b>{{ .baslik }}</a>{{ end }}{{ end }}
   </div></div>
 </div></div>
 {{ end }}
