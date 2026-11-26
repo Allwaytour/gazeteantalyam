@@ -49,6 +49,9 @@
 </div>
 {{ end }}{{ end }}
 {{ end }}
+{{ $bek := slice }}{{ range $ad, $o := $hepsi }}{{ if $o.bekliyor }}{{ $bek = $bek | append $o }}{{ end }}{{ end }}
+{{ with $bek }}<h2>Değerlendirmesi tamamlanamayanlar (sonraki taramada yeniden denenir; uygulanmaz)</h2>
+<ul>{{ range . }}<li>{{ .baslik }} <small>({{ if in .bekliyor "503" }}yapay zekâ servisi geçici olarak yoğundu{{ else }}{{ substr .bekliyor 0 90 }}{{ end }})</small></li>{{ end }}</ul>{{ end }}
 {{ else }}<p>Rapor henüz oluşturulmadı.</p>{{ end }}
 </div>
 {{ end }}
