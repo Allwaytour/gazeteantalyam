@@ -274,5 +274,150 @@
   ],
   "aday_sayisi": 10,
   "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T17:41:53+03:00",
+  "haber": "20261126-alanyada-65-yas-ustu-vatandaslar-tarihi-mekanlari-gezdi-1cd99.md",
+  "baslik": "Alanya'da 65 yaş üstü vatandaşlar tarihi mekanları gezdi",
+  "brief": {
+   "ana_konu": "Alanya'da 65 yaş üstü vatandaşların tarihi mekanları ziyareti",
+   "olmasi_gereken": [
+    "Alanya Kalesi",
+    "tarihi doku"
+   ],
+   "varliklar": [
+    {
+     "ad": "Alanya Belediyesi",
+     "tur": "kurum"
+    },
+    {
+     "ad": "Alanya Kalesi",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "kapalı stüdyo"
+   ],
+   "sorgular_en": [
+    "Alanya Castle view",
+    "Alanya historical tour"
+   ],
+   "sorgular_tr": [
+    "Alanya Kalesi",
+    "Alanya tarihi yerler"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:4657415",
+    "url": "https://pixabay.com/get/ge6c1888087ec1d47bc824060378a8534ff3a04f95c5d045094ceedd9980c6558a0430edb001edde472e06eb2916a5917ffda37cfcf5d3d31be607613efa23b12_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya Castle view",
+    "puan": 6,
+    "gerekce": "Alanya Kalesi'ni gösteriyor ancak haberdeki 65 yaş üstü gezi unsuru eksik.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:6493621",
+    "url": "https://pixabay.com/get/gd49bd3eefd1421bfb57ccbeadd98daafba4977b3e560fb64a14e3876ea86a5fa6b2b326df0003c12f5b4cacc77469237bf51f90cc7e81cabb97289d3d40fb828_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya historical tour",
+    "puan": 0,
+    "gerekce": "Alanya ile ilgisi olmayan yabancı bir şehir meydanını gösteriyor, tamamen yanıltıcı.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:2865261",
+    "url": "https://pixabay.com/get/gd70d3f77355a74daa63782621745fc1a5b60c560a179e71fb097bd25ba1dd29123dc33266a0a1889651a281eb1931578bdfc7799cd9ed1d12b5f6abdf18154f9_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya Castle view",
+    "puan": 6,
+    "gerekce": "Tarihi mekânı gösteriyor ancak gezi ve yaşlı vatandaş unsurları bulunmuyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:5281514",
+    "url": "https://pixabay.com/get/ga7c52a456c6df16aa6c130e0c9f52286c069c13f1ef816997198e6a868057e139d18ece99419a1def1382638002904f32b9abac1ab4f15ae6269e4da709fd5b8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya historical tour",
+    "puan": 4,
+    "gerekce": "Alanya sahili genel bir plaj görüntüsü sunuyor, tarihi mekan ve gezi vurgusu zayıf.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:8627121",
+    "url": "https://pixabay.com/get/g4d64c356e42b7026207c79920db9a92c1a8a326af5d4b614d81ececeea47ac8101c9d2e1219281539e593a7fb7379166d939020e6a30e1a761d9efc20b9fdedf_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya historical tour",
+    "puan": 5,
+    "gerekce": "Alanya'daki tur teknelerini andırıyor ancak doğrudan tarihi mekan gezisini yansıtmıyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:3758815",
+    "url": "https://pixabay.com/get/g59394286cc3bfc41cc9bb0a393d6fc5bf1334485b9c50250d67410e26d08a6b56159a408836da765ca382413adc9acb4028dc08be1c05559441339247051f481_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya Castle view",
+    "puan": 6,
+    "gerekce": "Tarihi dokuyu gösteriyor fakat yaşlı vatandaşların gezisini yansıtmıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4499262",
+    "url": "https://pixabay.com/get/g17572a544dbf3348affaa23cc23c3926d2462fa83661fb84e35cca8df471840238608596d4d23ff78815f799039defc155c8e79b5d6a29505e0aae826c09f85c_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya historical tour",
+    "puan": 0,
+    "gerekce": "Kutup veya Grönland bölgesine ait, Alanya ile tamamen alakasız.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:2591856",
+    "url": "https://pixabay.com/get/g6c7610a161580f598b340d4d1c7e07fe062f2723e6db7dd4013987a34f2fc8d730cd6277fa3a8dd8ff376bdb503241ea4ddc1c5468cbec2070a48438f5df69a8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya Castle view",
+    "puan": 6,
+    "gerekce": "Brief'te istenen tarihi dokuyu gösteriyor ama gezi yapan insan unsuru yok.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:5050298",
+    "url": "https://pixabay.com/get/g082889affc34a5fd77b90fcf7149d91a6d5ad73eae575ba2e53fe736a9d7cab05a520e369937cc0adbd6de6931f6cb521d99fc019916c88039ddc101ddaebe7b_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Alanya historical tour",
+    "puan": 0,
+    "gerekce": "Kanada'daki Niagara Şelalesi'ni gösteriyor, Alanya haberiyle tamamen çelişiyor.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir"
+   }
+  ],
+  "notlar": [
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)",
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %36)",
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %42)",
+   "Commons hatası (Alanya Belediyesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alanya+",
+   "Commons hatası (Alanya Kalesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alanya+Kale",
+   "Commons hatası (Alanya Kalesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alanya+Kale",
+   "Commons hatası (Alanya tarihi yerler): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alan"
+  ],
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "kurum:/images/kurum/d20271d70baf9f07.jpg",
+   "yerel_url": "/images/kurum/d20271d70baf9f07.jpg",
+   "kaynak": "kurum",
+   "sorgu": "kurum sitesi",
+   "puan": 10,
+   "gerekce": "Haberin konusu olan 65 yaş üstü vatandaşların gezisini ve katılımcıları birebir gösteriyor.",
+   "gorunen": "Alanya Öğretmenevi önünde toplanan yaşlı vatandaşlar",
+   "sahip": "Alanya Belediyesi",
+   "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+   "sayfa": "https://www.alanya.bel.tr/haberler/yaslilara-yonelik-kale-gezilerinde-yeni-donem-aliefendi-mahallesi-ile-basladi/126669",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "/images/kurum/d20271d70baf9f07.jpg"
+  },
+  "sonuc": "seçildi (10/10, kurum)"
  }
 ]

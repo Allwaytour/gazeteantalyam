@@ -27,6 +27,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 0
+  },
+  {
+   "tarih": "2026-11-26T17:40:53+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "kurum": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 10.0,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -78,6 +93,37 @@
    "durum": "gorsel_bekliyor",
    "gorsel": {
     "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T17:41:53+03:00",
+   "baslik": "Alanya'da 65 yaş üstü vatandaşlar tarihi mekanları gezdi",
+   "kaynak": "Manşet Alanya",
+   "kaynak_url": "https://www.mansetalanya.com/alanyanin-cinarlari-kaleyi-fethetti-yaslar-65-ustu-enerjiler-18",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-alanyada-65-yas-ustu-vatandaslar-tarihi-mekanlari-gezdi-1cd99.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "kurum:/images/kurum/d20271d70baf9f07.jpg",
+    "yerel_url": "/images/kurum/d20271d70baf9f07.jpg",
+    "kaynak": "kurum",
+    "sorgu": "kurum sitesi",
+    "puan": 10,
+    "gerekce": "Haberin konusu olan 65 yaş üstü vatandaşların gezisini ve katılımcıları birebir gösteriyor.",
+    "gorunen": "Alanya Öğretmenevi önünde toplanan yaşlı vatandaşlar",
+    "sahip": "Alanya Belediyesi",
+    "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+    "sayfa": "https://www.alanya.bel.tr/haberler/yaslilara-yonelik-kale-gezilerinde-yeni-donem-aliefendi-mahallesi-ile-basladi/126669",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "/images/kurum/d20271d70baf9f07.jpg"
    }
   }
  ]
