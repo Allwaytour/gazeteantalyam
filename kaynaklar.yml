@@ -120,6 +120,4 @@ kaynaklar:
   - ad: TRT Haber
     url: https://www.trthaber.com/sondakika_articles.rss
     antalya_filtresi: true
-  - ad: Anadolu Ajansı
-    url: https://www.aa.com.tr/tr/rss/default?cat=guncel
-    antalya_filtresi: true
+  # Anadolu Ajansı akışı 26.11.2026'da çıkarıldı (abonelik olmadan ajans metni yeniden yazılarak yayımlanmaz).
