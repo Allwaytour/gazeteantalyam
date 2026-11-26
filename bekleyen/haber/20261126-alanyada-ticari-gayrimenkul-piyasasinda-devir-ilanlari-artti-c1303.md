@@ -40,8 +40,8 @@ kaynak: Gazete Alanya
 kaynak_url: https://www.gazetealanya.com/kapanan-kapanana-alanyada-devir-patlamasi-yasaniyor
 bekleme:
   ilk: '2026-11-26T20:12:13+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T02:12:13+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T08:12:13+03:00'
   brief:
     ana_konu: Alanya'da artan maliyetler nedeniyle artan dükkan devir ve kiralık ilanları
     olmasi_gereken:

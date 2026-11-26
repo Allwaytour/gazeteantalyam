@@ -43,8 +43,8 @@ kaynak: Serik Postası Gazetesi
 kaynak_url: https://serikpostasi.com/haber/serikte-egitim-bir-senden-emekli-ogretmenlere-kahvalti-9416
 bekleme:
   ilk: '2026-11-26T20:12:33+03:00'
-  deneme: 1
-  sonraki: '2026-11-27T02:12:33+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T08:12:33+03:00'
   brief:
     ana_konu: Serik'te emekli öğretmenler için düzenlenen kahvaltı buluşması.
     olmasi_gereken:
