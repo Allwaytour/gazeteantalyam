@@ -1,0 +1,278 @@
+[
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T16:42:30+03:00",
+  "haber": "20261126-antalya-icin-demir-yolu-ve-rayli-sistem-yatirimi-cagrisi-b0fd8.md",
+  "baslik": "Antalya için demir yolu ve raylı sistem yatırımı çağrısı",
+  "brief": {
+   "ana_konu": "Antalya'nın demir yolu yatırımları ve raylı sistem talebi",
+   "olmasi_gereken": [
+    "Meclis komisyon toplantısı veya tren hattı görseli"
+   ],
+   "varliklar": [
+    {
+     "ad": "Aykut Kaya",
+     "tur": "kisi"
+    },
+    {
+     "ad": "Abdulkadir Uraloğlu",
+     "tur": "kisi"
+    }
+   ],
+   "kacinilacaklar": [
+    "kaza",
+    "olay yeri"
+   ],
+   "sorgular_en": [
+    "Turkish parliament meeting",
+    "railway station Turkey"
+   ],
+   "sorgular_tr": [
+    "TBMM Plan ve Bütçe Komisyonu",
+    "tren garı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:5960363",
+    "url": "https://pixabay.com/get/g52296c11e18e922d938db5e66099864424c6aed374dcaf95f67f19b894d9619aaf79b4dfa1b94a5b862aab1b54e0f8c6c9918361f605a20589d58716ae22b050_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish parliament meeting",
+    "puan": 0,
+    "gerekce": "Yabancı bir ülkenin parlamento binasını gösterdiği için haberle tamamen ilgisizdir.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "pixabay:1440679",
+    "url": "https://pixabay.com/get/g4193d14a555141627103b3461b1348f96ce57bec81b2d05ac03f8ea289f72222e1982d808ca9173f45e30947ced2b37f415f13cadc48d93dcdfb8a2c36e5bac5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish parliament meeting",
+    "puan": 0,
+    "gerekce": "Yabancı bir parlamentoyu gösterdiği için haber metniyle uyuşmamaktadır.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "pixabay:5201700",
+    "url": "https://pixabay.com/get/gb6bafb18a17c8672b83aa49efa105abb9003198b7044eaab7bf40d07ad8532a73db25dde159a5e98344c4f4344744bedf46580600bf83adf84228faa39a95752_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "railway station Turkey",
+    "puan": 7,
+    "gerekce": "Türkiye'de tarihi bir tren garını gösterdiği için tren hattı temasına uygundur.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:77610",
+    "url": "https://pixabay.com/get/g8405300e9c33662c082dd764c7618bd27faa73f55db16308798ff2d52b063ee765b5da6aaad82eee0fc50a04541f1c44_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish parliament meeting",
+    "puan": 0,
+    "gerekce": "Yabancı bir ülkenin meclis binası olduğundan haberle bağdaşmaz.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "pixabay:4199291",
+    "url": "https://pixabay.com/get/g41f077f9862c9e80bf777c42dbd68631b86185d8a3d8ee33035adcab9a8bf3e3e441350f65aff1ef027250d7948144cc65a9997c2ac063037e1e704c4e56cda0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "railway station Turkey",
+    "puan": 6,
+    "gerekce": "Tren garı görseli sağlasa da binanın restorasyon örtüsü altında olması habere tam oturmaz.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:9010602",
+    "url": "https://pixabay.com/get/gc5fa9103eb026a37c571373b590fe570ff39cede0400e026dff4c638cfdd5ed62d9e51b0eb31958e6ed0e4abc7a222577ad17ee5216c861dbbff88a30011296a_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish parliament meeting",
+    "puan": 0,
+    "gerekce": "Yabancı bir parlamentoyu gösterdiği için kesinlikle kullanılmamalıdır.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "pixabay:6835451",
+    "url": "https://pixabay.com/get/gbbf1024d6cf74fd6ae006901571aa39c4d37c9a652ddd8520e74a8d7a706040a7174412e0a5e639041f441dca0b9973b9765dfa2e1152fccb4e309507271c313_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "railway station Turkey",
+    "puan": 6,
+    "gerekce": "Tarihi tren garını gösterir ancak bina restorasyon kaplaması altındadır.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4544781",
+    "url": "https://pixabay.com/get/g492658dae118f43a44ff562d327273ccf80b4c6196c3cf73d320237efd28906599b3fdb237cae5fd68975f06d60ada3a184e7545eb7a5db8abb69685b2f32a9f_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish parliament meeting",
+    "puan": 0,
+    "gerekce": "Yabancı bir meclis binasını içerdiği için haberle uyuşmaz.",
+    "neden": "puan 0 < 7; kesin ret: baska_sehir, yabanci_kurum"
+   },
+   {
+    "id": "pixabay:2545507",
+    "url": "https://pixabay.com/get/gebe209b5b41c51238a1dd82a81bfa3ef5b3d3002652e503418d942a1780e6be84ba15f18ef83191ac6cfd31890cff8009348d362662a91f08cfbd0addec0b7ce_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "railway station Turkey",
+    "puan": 7,
+    "gerekce": "Tren garı somut nesnesini başarılı bir mimari açıdan göstermektedir.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   }
+  ],
+  "notlar": [
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %28)",
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %14)",
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %7)",
+   "Antalya Büyükşehir Belediyesi sayfası aynı haber değil (benzerlik %14)",
+   "Commons hatası (Aykut Kaya): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Aykut+Kaya+fil",
+   "Commons hatası (Abdulkadir Uraloğlu): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Abdul",
+   "Commons hatası (TBMM Plan ve Bütçe Komisyonu): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsea",
+   "Commons hatası (tren garı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=tren+gar%C4%B1+"
+  ],
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "pixabay:8103602",
+   "yerel_url": "/images/haber-gorsel/pixabay-8103602-09f64df5.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "railway station Turkey",
+   "puan": 8,
+   "gerekce": "Raylı sistem yatırımı ve tren görseli talebini doğrudan karşılar, konuyla uyumludur.",
+   "gorunen": "İstanbul'da Haliç Metro Köprüsü ve hareket halindeki metro treni",
+   "sahip": "soultrain",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/turkey-istanbul-city-metro-halic-8103602/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/g86bb505e5b0d14c02a2e2c57c9799d3d8a1954fa1ddd7086930a9ba330b859432e040892e5eed0c9648d36e59464dae93c016b6a1016314a0665c9d041e88a7a_640.jpg"
+  },
+  "sonuc": "seçildi (8/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T16:45:44+03:00",
+  "haber": "20261126-alanyada-chpden-soda-siseli-eylem-ak-parti-hukuki-surec-72482.md",
+  "baslik": "Alanya'da CHP'den soda şişeli eylem: AK Parti hukuki süreç başlatıyor",
+  "brief": {
+   "ana_konu": "Alanya'da siyasi parti binaları önünde yaşanan gerginlik ve eylem",
+   "olmasi_gereken": [
+    "siyasi parti ilçe binası dış cephesi ve girişi"
+   ],
+   "varliklar": [
+    {
+     "ad": "AK Parti Alanya İlçe Başkanlığı",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "soda şişeleri",
+    "şahıslar"
+   ],
+   "sorgular_en": [
+    "political party building Turkey",
+    "district party office exterior"
+   ],
+   "sorgular_tr": [
+    "siyasi parti binası dış görünüm"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:3483539",
+    "url": "https://pixabay.com/get/g52655115397650b1a44ea87df74595a6b9df77d52763e572fce6bd727eb6b6e8fe837a83498dc11b7ed62b496a6e6c666cda8f55f73985f83ee9f511949d5302_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 0,
+    "gerekce": "Haberin konusuyla tamamen alakasız bir harita görselidir.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:205986",
+    "url": "https://pixabay.com/get/g6a4b37bd2f170c4efcc1b09a0cbeb8ac6986db85b53bb4f5cb7b36282ec6aedc0a0a59c6546b0158b38776ccb63c8dbe_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Genel bir şehir mimarisi gösteriyor ancak Alanya ile ilgisi yok, dolaylı.",
+    "neden": "puan 5 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:4917447",
+    "url": "https://pixabay.com/get/gad9b27dab52c8df4d7720f815b37f20885e2bcd40c4ffdfe8304eb39dcb2b349612b043f09a6977e627098d0e6cbab398b186224f2ecad2bec9a8dfa4e95bc81_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 4,
+    "gerekce": "Haber Alanya'da geçmesine rağmen İstanbul'u gösterdiği için başka şehir ihlali vardır.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:4428919",
+    "url": "https://pixabay.com/get/g0ee116df63a2a22d7e4c657cbb8ee37d0c636650c49bc4e63ab1b313ccb3ac063a02f4aaf2345d42d4a416ee4ef683ea3f4ad3e782b420ec4a5e0aa3c26324e4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Genel bir modern bina dış görünümü sunuyor ancak somut parti binasıyla ilişkisi zayıf.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4051537",
+    "url": "https://pixabay.com/get/g41b8907f68969162856b422d300f67d3c71f25bb8c1f1b4c0fb2829fc648b0c9d4e48052faf7abf7d9fba39d63f1d5244d1555066ff2c6aa7558277c5a4d5734_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 4,
+    "gerekce": "Arnavutköy, İstanbul'dan gece manzarası; haberle doğrudan bağı yok.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:637999",
+    "url": "https://pixabay.com/get/gf534c739101196667a26d4130a429f9060864a7a8e9c607d444e9cfc09b4bb864e0b885cd151786c9e173224db4bd016_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 2,
+    "gerekce": "Yabancı bir resmi kurum binasını gösterdiği için haberle uyuşmamaktadır.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_kurum"
+   },
+   {
+    "id": "pixabay:4307665",
+    "url": "https://pixabay.com/get/g1357560ed1fa57dd2a35aad97a295877d0fc92fe0116169ee3082dca7803d31d2ae34d2f72d5729969ad87382287d81e10c6091d9e7eab89bd04d142a5892afd_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 3,
+    "gerekce": "Alanya haberi için İstanbul'un tarihi simgelerini kullanmak yanıltıcıdır.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:255116",
+    "url": "https://pixabay.com/get/gf05873c9b1f71b9df1a1a130913f3b8c6e560f2b7de04cb5ffd636e366733ad88ccd06b9c724e921207733be22dac185_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 4,
+    "gerekce": "Genel bir şehir silüeti, yerel siyasi eylem haberi için uygun değil.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:4115381",
+    "url": "https://pixabay.com/get/gfac7af8b1425590721384111237a9e68bfb7ddc7c995635ae14dd98f007c2feced41c64cb527aea80fcda8c32a5e67e47605294b73b719b6147bf5c8a4d541a5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 3,
+    "gerekce": "Başka bir şehre ait belirgin simgeler içerdiği için uygun değildir.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:2430571",
+    "url": "https://pixabay.com/get/g1f55e55289482735545399b00c2ac5de215a5a1e338ff04c72eafabad296aa967c3bc54a676f7a2c4954164d17d640256dcd898fe1817ad8062d065ac9602883_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Genel bir mahalle ve bina çatısı görünümü sunar, dolaylı olarak kullanılabilir.",
+    "neden": "puan 5 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (AK Parti Alanya İlçe Başkanlığı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsr",
+   "Commons hatası (siyasi parti binası dış görünüm): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsr"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ }
+]
