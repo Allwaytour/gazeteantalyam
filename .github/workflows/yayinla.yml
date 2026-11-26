@@ -53,7 +53,7 @@ jobs:
           python scripts/elle_duzelt.py
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/haber
+          git add content/haber content/kose
           if ! git diff --cached --quiet; then
             git commit -q -m "Elle eklenen haber: tarih/adres düzeltmesi [skip ci]"
             for i in 1 2 3; do (git pull -q --rebase origin main && git push -q origin HEAD:main) && break; sleep 5; done
@@ -64,8 +64,9 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright zeyrek
+          pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright zeyrek imagehash
           timeout 22m python -u scripts/haber_cek.py || echo "Haber turu süre sınırında durduruldu; kaydedilenler yayınlanacak"
 
       - name: Yeni haberleri kaydet
@@ -73,7 +74,9 @@ jobs:
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/haber data/otomatik_durum.json data/foto_arsivi.json data/gorsel_kutuphanesi.json data/gorsel_ret.json data/gorsel_kabul_orneklem.json
+          git add data/kalite_raporu.json data/gorsel_kayit.json data/gorsel_kullanim.json 2>/dev/null || true
+          git add -A karantina 2>/dev/null || true
+          git add content/haber content/kose data/otomatik_durum.json data/foto_arsivi.json data/gorsel_kutuphanesi.json data/gorsel_ret.json data/gorsel_kabul_orneklem.json
           git add -A static/images/kurum 2>/dev/null || true
           git add -A static/images/haber-gorsel 2>/dev/null || true
           if ! git diff --cached --quiet; then
