@@ -3,7 +3,7 @@
 #   rapor  : yayımlanmış haberlerin önerileri → data/toplu_kalite/oneriler.json (sitede /kalite-raporu/); 3 saatte bir kendiliğinden
 #   uygula : onaylanan öneriler haberlere yazılır (onay: "toplu" ya da dosya adları virgülle)
 #   gorsel_degistir : onay alanındaki haberlerin görseli yeniden aranır ve hemen uygulanır (yayın sorumlusunun kararıyla);
-#            yeni kurallara uyan görsel bulunamazsa haber görselsiz kalır
+#            yeni kurallara uyan görsel bulunamazsa haber yayından kaldırılır (adreste not, Düzeltmeler listesi)
 name: Kalite taraması
 
 on:
@@ -61,17 +61,17 @@ jobs:
           case "$ISLEM" in
             test)   timeout 35m python -u scripts/toplu_kalite.py rapor --dosyalar "$TEST" --hep-ara --cikti data/kalite_test.json --butce 80 || true ;;
             rapor)  timeout 35m python -u scripts/toplu_kalite.py rapor --sinir 40 --butce "$BUTCE" || true ;;
-            uygula) python -u scripts/toplu_kalite.py uygula --onay "$ONAY" ;;
+            uygula) python -u scripts/toplu_kalite.py uygula --onay "$ONAY" && python scripts/elle_duzelt.py ;;
             gorsel_degistir)
               timeout 30m python -u scripts/toplu_kalite.py rapor --dosyalar "$ONAY" --hep-ara --butce "$BUTCE" || true
-              python -u scripts/toplu_kalite.py uygula --onay "$ONAY" ;;
+              python -u scripts/toplu_kalite.py uygula --onay "$ONAY" && python scripts/elle_duzelt.py ;;
           esac
       - name: Sonucu kaydet
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # her yol ayrı eklenir (var olmayan bir yol bütün "git add" komutunu başarısız yapar)
-          for y in data/kalite_test.json data/toplu_kalite data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar; do
+          for y in data/kalite_test.json data/toplu_kalite data/kaldirilan.json data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar; do
             git add -A -- "$y" 2>/dev/null || true
           done
           git add -u || true
