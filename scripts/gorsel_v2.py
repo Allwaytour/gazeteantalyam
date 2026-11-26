@@ -462,6 +462,42 @@ def puan_istegi(hb, brief, adaylar):
     return parcalar
 
 
+# Başka şehrin tanınır yeri (§3): görsel tarifinde, Pixabay etiketlerinde ya da sayfa adresinde geçen ve haberde geçmeyen il/şehir/simge adı.
+# Ad, soyad ya da sıradan kelimeyle karışan iller (Aydın, Karaman, Van, Batman, Ordu, Ağrı) listede yok.
+BASKA_YER = """istanbul boğaz boğaziçi bosphorus galata haliç golden-horn ayasofya hagia sultanahmet kız-kulesi maiden's-tower taksim eminönü ortaköy
+karaköy kadıköy üsküdar beşiktaş kapadokya cappadocia göreme pamukkale efes ephesus anıtkabir nemrut sümela ankara izmir bursa
+eskişehir konya kayseri adana mersin hatay antakya gaziantep şanlıurfa diyarbakır mardin trabzon rize samsun erzurum malatya
+elazığ sivas tokat çorum yozgat kastamonu zonguldak sakarya kocaeli izmit çanakkale tekirdağ edirne kırklareli balıkesir manisa
+denizli muğla bodrum marmaris fethiye datça çeşme isparta burdur afyon afyonkarahisar kütahya uşak bilecik niğde nevşehir kırşehir
+kırıkkale aksaray kahramanmaraş osmaniye adıyaman erzincan gümüşhane giresun artvin kars ardahan iğdır bitlis muş siirt şırnak
+hakkari tunceli bingöl bayburt sinop amasya çankırı karabük bartın düzce bolu yalova kilis
+paris london londra new-york manhattan roma rome venedik venice berlin dubai tokyo moskova moscow washington eiffel big-ben prag
+prague amsterdam barselona barcelona madrid lizbon lisbon atina athens budapeşte budapest viyana vienna santorini bali singapur
+singapore hong-kong şanghay shanghai los-angeles san-francisco las-vegas chicago miami brüksel brussels strazburg strasbourg
+cenevre geneva zürih zurich münih munich milano milan floransa florence napoli naples kahire cairo tahran tehran bakü baku tiflis
+tbilisi kiev kyiv varşova warsaw stockholm oslo kopenhag copenhagen dublin edinburgh""".split()
+
+
+def _yer_katla(s):
+    return " " + re.sub(r"[^a-z0-9]+", " ", katla(s)).strip() + " "
+
+
+BASKA_YER_K = sorted({_yer_katla(x.replace("-", " ")) for x in BASKA_YER}, key=len, reverse=True)
+
+
+def baska_yer(a, p, brief, hb):
+    """Görselde başka bir şehrin/ülkenin tanınır yeri görünüyor mu? Haberde (başlık, spot, metin, brief) geçen yer adları hariç."""
+    gorsel = _yer_katla(" ".join(str(x or "") for x in (p.get("gorunen"), p.get("gerekce"), a.get("aciklama"), a.get("sayfa"), a.get("baslik"))))
+    haber = _yer_katla(" ".join([str(hb.get(k) or "") for k in ("baslik", "spot", "metin")] +
+                                [str(brief.get("ana_konu") or "")] + [str(v.get("ad") or "") for v in brief.get("varliklar") or []] +
+                                [str(x) for x in (brief.get("sorgular_tr") or [])]))
+    out = []
+    for y in BASKA_YER_K:
+        if y in gorsel and y not in haber and not any(y in o for o in out):
+            out.append(y)
+    return [y.strip() for y in out]
+
+
 def karar(a, p, brief, hb):
     nedenler = []
     puan = int(p.get("puan") or 0) if str(p.get("puan", "")).strip().lstrip("-").isdigit() else 0
@@ -470,6 +506,9 @@ def karar(a, p, brief, hb):
         nedenler.append(f"puan {puan} < {ESIK}")
     if ihlal:
         nedenler.append("kesin ret: " + ", ".join(ihlal))
+    yer = baska_yer(a, p, brief, hb)
+    if yer:
+        nedenler.append("kesin ret: baska_sehir (" + ", ".join(yer) + ")")
     if (brief.get("hassas") or HASSAS_RE.search(f"{hb.get('baslik', '')} {hb.get('spot', '')}")) and p.get("taninir_yuz"):
         nedenler.append("hassas haberde tanınabilir kişi")
     if a.get("kaynak") != "kurum" and p.get("taninir_yuz") and any(v["tur"] == "kisi" for v in brief.get("varliklar", [])):
