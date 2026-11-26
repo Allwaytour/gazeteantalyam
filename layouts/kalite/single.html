@@ -14,6 +14,7 @@
 <div class="kr">
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+{{ if eq .Params.veri "test" }}{{ partial "tasarim-test.html" . }}{{ end }}
 {{ with $r }}
 {{ with .ozet }}<div class="oz">{{ range $k, $v := . }}<span>{{ $k }}: <b>{{ $v }}</b></span>{{ end }}</div>{{ end }}
 {{ $hepsi := .oneriler }}
