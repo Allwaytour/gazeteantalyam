@@ -3751,9 +3751,9 @@
   },
   "20261126-antalya-icin-demir-yolu-ve-rayli-sistem-yatirimi-cagrisi-b0fd8.md": {
    "surum": "t2",
-   "tarih": "2026-11-26T16:50:21+03:00",
+   "tarih": "2026-11-26T20:15:14+03:00",
    "baslik": "Antalya için demir yolu ve raylı sistem yatırımı çağrısı",
-   "durum": "bekliyor",
+   "durum": "uygulandi",
    "metin": {},
    "metin_mekanik": true,
    "metin_degisiklikleri": [],
@@ -3769,19 +3769,159 @@
      "kaynak": "pixabay",
      "kaynak_karari": "b2 kurallarıyla seçilmiş",
      "puan": 4,
-     "gerekce": "Haber Antalya raylı sistem projeleriyle ilgili ancak fotoğrafta İstanbul'un Haliç Metro Köprüsü yer alıyor, şehir uyuşmuyor.",
-     "gorunen": "Gece vakti İstanbul'daki Haliç Metro Köprüsü'nden geçen metro ve raylar.",
+     "gerekce": "Haber Antalya raylı sistem yatırımlarıyla ilgili ancak görselde İstanbul'un Haliç Metro Köprüsü yer alıyor, bu nedenle başka şehir ihlali vardır.",
+     "gorunen": "İstanbul'daki Haliç Metro Köprüsü üzerinden geçen bir metro treni ve gece şehir silueti",
      "ihlaller": [
       "baska_sehir"
      ],
      "taninir_yuz": false,
-     "neden": "puan 4 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul, halic)"
-    }
+     "neden": "puan 4 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (halic)"
+    },
+    "brief": {
+     "ana_konu": "Antalya için demir yolu ve raylı sistem yatırımı yapılması çağrısında bulunuldu.",
+     "olmasi_gereken": [
+      "tren rayları",
+      "hızlı tren",
+      "meclis veya komisyon salonu"
+     ],
+     "varliklar": [
+      {
+       "ad": "Aykut Kaya",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Abdulkadir Uraloğlu",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Yeni Parti",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Antalya",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "deniz altı",
+      "uçak kabini"
+     ],
+     "sorgular_en": [
+      "railway tracks train",
+      "high speed train station"
+     ],
+     "sorgular_tr": [
+      "tren rayları",
+      "hızlı tren"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:5237269",
+      "url": "https://pixabay.com/get/gaeeaa5b2cbab643610ad29baf79a19383d5a184149531726c02c6d72954e1280a78dc5141a23ade22efab975e63a2b3114354030affe2fdffbc80713b643cdaa_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261126-antalyada-hizli-tren-beklentisi)"
+     },
+     {
+      "id": "pixabay:5840091",
+      "url": "https://pixabay.com/get/g516aa475cc8de6339c2a950e1c43a885e131a20a539f3ae660bd66f9e316f9ee29b9c5826d59797c0c35186ec2c039ff9860316be9a385daec33ceb02301a049_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "railway tracks train",
+      "puan": 6,
+      "gerekce": "Haberin konusu olan tren raylarını ve tünel geçişini gösteriyor ancak genel bir stok fotoğraf.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:10442256",
+      "url": "https://pixabay.com/get/g68e418ded74d725bd4acbc4803dc95f2cff7bc360d50b66c134f90369ef48264679383aeb665747b27f22a6a3ba1cd65f5bccb15bcb5bf5b7889332c473b1a79_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "railway tracks train",
+      "puan": 6,
+      "gerekce": "Demir yolu yatırım çağrısı haberi için uygun ray görseli, ancak Antalya'ya özel değil.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:7767132",
+      "url": "https://pixabay.com/get/gd9b78e18fb18c9709c200380b090aeb6085d7305d7924e894005e4d4590ded9611bec046dd370f54977ca3591bc1485a185cbf2255d190ddc2f22fccd62a0c96_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train station",
+      "puan": 5,
+      "gerekce": "Hızlı tren ve istasyon temasını karşılıyor fakat yabancı bir tren garı olduğu çok belirgin.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir (berlin)"
+     },
+     {
+      "id": "pixabay:619082",
+      "url": "https://pixabay.com/get/g6336461dfc84e38d10b69d9e9075110036104f7031e9e9926f0112cdf015fe3a0f42c8808de215dba74c05ae491b5f7a_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "railway tracks train",
+      "puan": 5,
+      "gerekce": "Demir yolu ağını ve garı gösteriyor, ancak genel bir Avrupa tren istasyonu görüntüsü.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:4256985",
+      "url": "https://pixabay.com/get/gb5ce5a352ca6cb47e39e9225caec9cfd05ab5b40bc1df0554d7190c7d0db2dd12cc22b50735349d4f272f19c921f0c072845aec772e63f1f84f5f1ffa2f23e69_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train station",
+      "puan": 5,
+      "gerekce": "Hızlı tren yatırım talebi haberiyle ilgili ancak yabancı bir garda çekilmiş stok görsel.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:10084813",
+      "url": "https://pixabay.com/get/gca60a63b0361d4dc52c941f6e19f4e17a5bf862acf3b01ccaa011b65be8f4f4bba8ec94325b1fdfe1f1ff54a27ba756242fe88118982a8035d56ab112d70a8c1_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "railway tracks train",
+      "puan": 3,
+      "gerekce": "Siyah beyaz ve nostaljik bir buharlı tren; modern hızlı tren ve raylı sistem çağrısı haberiyle uyuşmuyor.",
+      "neden": "puan 3 < 7; güncel haberde eski/arşiv fotoğrafı"
+     },
+     {
+      "id": "pixabay:2527964",
+      "url": "https://pixabay.com/get/g83c693cbe0ffb7f2639f8bb8967a1d846f69b50170189fff8c81786ad23f69abad78dbdc79bd01547bb4320752c398fc3f9375d02ba38775ef7cf4fc3d283f53_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train station",
+      "puan": 5,
+      "gerekce": "Hızlı tren vurgusunu destekliyor fakat Japonya'daki bir istasyon olduğu için habere tam oturmuyor.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir (tokyo)"
+     },
+     {
+      "id": "pixabay:1728537",
+      "url": "https://pixabay.com/get/gab198ac98d3ee06400c9b2c1aa6340518d877c85afa797537d046d7025b0ccc773fadfc2b2f123f3141f69ad5e7f6b40366cdd64b4dbdf6f28f8a821d7fdaf3a_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "railway tracks train",
+      "puan": 4,
+      "gerekce": "Manzaralı bir demir yolu köprüsünü gösteriyor ancak eski tip tren habere pek uygun değil.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:5396588",
+      "url": "https://pixabay.com/get/g479e0420c31ed445907e6960bbd1b6a2fd9178290819be810ef911161fa495cace5ca7cf1d73d377f7ad9a34e01f6b0b832b03b11603e480edf6eaf80a00f44e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train station",
+      "puan": 5,
+      "gerekce": "Demir yolu ve tren temasını yansıtıyor ancak yabancı bir şehirdeki gar olduğu anlaşılıyor.",
+      "neden": "puan 5 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Aykut Kaya': 2 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Abdulkadir Uraloğlu': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'tren rayları': 4 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'hızlı tren': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "gorselsiz",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
    },
-   "bekliyor": "brief/görsel araması için bütçe kalmadı",
-   "degisiklik_var": false,
-   "grup": "bekliyor",
-   "grup_nedeni": []
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: haber görselsiz kalacak"
+   ],
+   "uygulama": "2026-11-26T20:15:29+03:00"
   },
   "20261126-alanyaspor-ve-konyaspor-macinin-hakemi-aciklandi-27314.md": {
    "surum": "t2",
@@ -5054,17 +5194,17 @@
   }
  },
  "ozet": {
-  "guncelleme": "2026-11-26T17:05:52+03:00",
+  "guncelleme": "2026-11-26T20:15:29+03:00",
   "islenen": 40,
   "toplu_grup": 0,
-  "tek_tek_grup": 24,
-  "degisiklik_yok": 10,
+  "tek_tek_grup": 25,
+  "degisiklik_yok": 9,
   "gorsel_yenilenen": 17,
+  "gorselsiz_kalacak": 8,
   "gorsel_korunan": 0,
   "karantina_onerisi": 0,
   "adres_degisen": 6,
-  "bekleyen": 16,
-  "uygulanan": 0,
-  "gorselsiz_kalacak": 7
+  "bekleyen": 15,
+  "uygulanan": 1
  }
 }
