@@ -162,7 +162,7 @@ def mevcut_indir(oturum, url):
         with open(os.path.join(KOK, "static", url.lstrip("/")), "rb") as f:
             veri = f.read()
     else:
-        u = re.sub(r"/\d+px-", "/480px-", url) if "/thumb/" in url else url
+        u = re.sub(r"/\d+px-", "/500px-", url) if "/thumb/" in url else url
         r = oturum.get(u, timeout=25)
         r.raise_for_status()
         veri = r.content

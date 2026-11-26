@@ -75,6 +75,7 @@ Her aday için:
   yabanci_para: Türk lirası dışında para birimi (dolar, euro vb.)
   yabanci_polis: Türk olmayan polis aracı, üniforması ya da yabancı plaka
   hakim_tokmagi: Amerikan tarzı hâkim tokmağı (Türk yargısında kullanılmaz)
+  yabanci_kurum: Türkiye haberinde tanınır biçimde yabancı bir meclis/parlamento salonu, hükümet binası, mahkeme ya da resmî kurum (ör. Avrupa Parlamentosu, ABD Kongresi)
   celiski: haberdeki olguyla çelişen sahne (ör. elektronik oy ↔ kâğıt oy sandığı; tren ↔ liman; piyano ↔ keman)
   hassas: ölüm/intihar/cinayet/çocuk haberinde sansasyonel görüntü ya da tanınabilir kişi
   kacinilacak: brief'teki "kaçınılacaklar" listesinden bir unsur görünüyor
@@ -360,7 +361,7 @@ def commons_ara(oturum, sorgu, notlar, adet=4, ad_sart=""):
         yil = (re.search(r"(1[89]\d\d|20\d\d)", tarih) or re.search(r"(.*)", "")).group(1)
         url = ii.get("thumburl") or ii.get("url")
         out.append({"kaynak": "commons", "id": "commons:" + p["title"].split(":", 1)[-1].replace(" ", "_"), "url": url,
-                    "kucuk": re.sub(r"/\d+px-", "/480px-", url) if "/thumb/" in url else url, "sayfa": ii.get("descriptionurl", ""),
+                    "kucuk": re.sub(r"/\d+px-", "/500px-", url) if "/thumb/" in url else url, "sayfa": ii.get("descriptionurl", ""),
                     "sahip": temiz((md.get("Artist") or {}).get("value"), 80) or "Wikimedia Commons",
                     "lisans": temiz((md.get("LicenseShortName") or {}).get("value"), 60) or "Kamu malı", "lisans_kaniti": neden,
                     "orijinal": ii.get("url", ""), "aciklama": temiz(f"{p.get('title', '')} — {(md.get('ImageDescription') or {}).get('value', '')}", 250),

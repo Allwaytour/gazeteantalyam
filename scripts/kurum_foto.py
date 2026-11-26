@@ -121,11 +121,28 @@ YEREL_SITELER = ("antalya.bel.tr", "antalya.gov.tr", "muratpasa-bld.gov.tr", "ko
                  "manavgat.bel.tr", "akdeniz.edu.tr", "alanya.edu.tr", "antalyaism.saglik.gov.tr")
 
 
+_GN_ONBELLEK = {}
+_GN_SON = [0.0]
+
+
 def google_ara(ifade, gun=7, yerel=False):
     siteler = " OR ".join(f"site:{s}" for s in YEREL_SITELER) if yerel else "site:bel.tr OR site:gov.tr OR site:edu.tr"
     q = f"{ifade} ({siteler}) when:{gun}d"
-    r = requests.get("https://news.google.com/rss/search?q=" + quote(q) + "&hl=tr&gl=TR&ceid=TR:tr",
-                     headers={"User-Agent": UA}, timeout=20)
+    anahtar = q
+    if anahtar in _GN_ONBELLEK:
+        return _GN_ONBELLEK[anahtar]
+    r = None
+    for bekle in (0, 20, 60):            # Google News sık istekte 429 verir: aralıklı ve beklemeli istenir
+        if bekle:
+            time.sleep(bekle)
+        aralik = time.time() - _GN_SON[0]
+        if aralik < 3:
+            time.sleep(3 - aralik)
+        _GN_SON[0] = time.time()
+        r = requests.get("https://news.google.com/rss/search?q=" + quote(q) + "&hl=tr&gl=TR&ceid=TR:tr",
+                         headers={"User-Agent": UA}, timeout=20)
+        if r.status_code != 429:
+            break
     r.raise_for_status()
     sonuc = []
     for m in re.finditer(r"<item>(.*?)</item>", r.text, re.S):
@@ -140,6 +157,7 @@ def google_ara(ifade, gun=7, yerel=False):
         except Exception:
             t = None
         sonuc.append({"link": link.group(1), "kurum": unescape(kaynak.group(2)).strip(), "alan": kaynak.group(1), "tarih": t})
+    _GN_ONBELLEK[anahtar] = sonuc
     return sonuc
 
 

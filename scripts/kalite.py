@@ -117,16 +117,40 @@ def ek_birlestir(metin):
 
 def ozel_adlar(referans):
     """Referans metinde (spot + metin) özel ad olarak kullanılan kelimeler (katlanmış): cümle içinde büyük harfle geçişi, küçük harfle
-    geçişinden az olmayanlar ("Kadın Kooperatifi" bir kez büyük, "kadın" on kez küçük geçiyorsa "kadın" özel ad sayılmaz)."""
-    buyuk, kucuk_ = {}, {}
+    geçişinden az olmayanlar ("Kadın Kooperatifi" bir kez büyük, "kadın" on kez küçük geçiyorsa "kadın" özel ad sayılmaz).
+    Yalnızca cümle başında büyük geçen ve hiç küçük geçmeyen kelime, ardından büyük harfli bir kelime geliyorsa ("Cihat Yaycı, ...")
+    özel ad sayılır."""
+    buyuk, kucuk_, bas = {}, {}, set()
     for m in KELIME.finditer(referans or ""):
         w, k = m.group(0), katla(m.group(0))
         if w[:1].isupper():
             if not _cumle_basi(m):
                 buyuk[k] = buyuk.get(k, 0) + 1
+            elif re.match(rf"\s+[A-ZÇĞİÖŞÜ]", m.string[m.end():]):
+                bas.add(k)
         else:
             kucuk_[k] = kucuk_.get(k, 0) + 1
-    return {katla(x) for x in OZEL_SABIT} | {k for k, n in buyuk.items() if n >= kucuk_.get(k, 0)}
+    return {katla(x) for x in OZEL_SABIT} | {k for k, n in buyuk.items() if n >= kucuk_.get(k, 0)} | \
+        {k for k in bas if not kucuk_.get(k)}
+
+
+def ad_kelimeleri(referans):
+    """Referansta en az iki büyük harfli kelimelik ad dizilerinde geçen kelimeler (katlanmış): "Uluslararası Antalya Piyano Festivali".
+    Başlıkta yalnızca büyük yazılmış ve yine bir ad kelimesinin bitişiğinde duran kelime için kullanılır."""
+    out, dizi, son = set(), [], None
+    for m in KELIME.finditer(referans or ""):
+        w = m.group(0)
+        bitisik = son is not None and re.fullmatch(r" +", m.string[son.end():m.start()] or "x") is not None
+        if w[:1].isupper() and (bitisik or not dizi):
+            dizi.append(m)
+        else:
+            if len(dizi) >= 2:
+                out |= {katla(x.group(0)) for x in dizi}
+            dizi = [m] if w[:1].isupper() else []
+        son = m
+    if len(dizi) >= 2:
+        out |= {katla(x.group(0)) for x in dizi}
+    return out
 
 
 def _ozel_mi(k, ozel):
@@ -146,17 +170,39 @@ def cumle_duzeni(baslik, referans=""):
     if tamami_buyuk and referans:
         b = mo.kaynakla_onar(b, referans)            # "AILE" → referanstaki yazımla "AİLE"
     ozel = ozel_adlar(referans)
+    adk = ad_kelimeleri(referans)
     parcalar = re.split(r"(\s+)", b)
-    out, ilk = [], True
+    # ön çözümleme: her parçanın kökü; ad dizisi bağlamı (bitişik büyük harfli ad kelimeleri birlikte büyük kalır)
+    coz = []
     for p in parcalar:
+        if not p or p.isspace():
+            coz.append(None)
+            continue
+        m = re.match(rf"^([^{HARF}0-9]*)([{HARF}0-9.\-]*)(.*)$", p)
+        coz.append((m.group(1), m.group(2), m.group(3)))
+    sozcuk = [i for i, c in enumerate(coz) if c and re.search(rf"[{HARF}]", c[1])]
+    korunan = {i for i in sozcuk if _ozel_mi(katla(coz[i][1]), ozel)}
+    aday = {i for i in sozcuk if coz[i][1][:1].isupper() and _ozel_mi(katla(coz[i][1]), adk)}
+    for _ in range(3):
+        for j, i in enumerate(sozcuk):
+            if i in korunan or i not in aday:
+                continue
+            onceki = sozcuk[j - 1] if j > 0 else None
+            sonraki = sozcuk[j + 1] if j + 1 < len(sozcuk) else None
+            bag_on = onceki is not None and onceki in (korunan | aday) and not coz[onceki][2] and not coz[i][0]
+            bag_son = sonraki is not None and sonraki in (korunan | aday) and not coz[i][2] and not coz[sonraki][0]
+            if bag_on or bag_son:
+                korunan.add(i)
+    out, ilk, iki_nokta = [], True, False
+    for i, p in enumerate(parcalar):
         if not p or p.isspace():
             out.append(p)
             continue
-        m = re.match(rf"^([^{HARF}0-9]*)([{HARF}0-9.\-]*)(.*)$", p)
-        on, kok, son = m.group(1), m.group(2), m.group(3)
+        on, kok, son = coz[i]
         if not kok or not re.search(rf"[{HARF}]", kok):
             out.append(p)
             ilk = ilk and not kok
+            iki_nokta = iki_nokta or p.rstrip().endswith(":")
             continue
         if son.startswith("'"):
             son = "'" + kucuk(son[1:])
@@ -168,11 +214,15 @@ def cumle_duzeni(baslik, referans=""):
             yeni = kok                                  # küçük yazılmış kelime büyütülmez (yalnızca gereksiz büyük harf düzeltilir)
         else:
             parcalar_ = kucuk(kok).split("-")
-            yeni = "-".join(buyuk_ilk(x) if _ozel_mi(katla(x), ozel) else x for x in parcalar_)
-            if ilk:
-                yeni = buyuk_ilk(yeni)
+            if i in korunan and not _ozel_mi(katla(kok), ozel):
+                yeni = "-".join(buyuk_ilk(x) for x in parcalar_)
+            else:
+                yeni = "-".join(buyuk_ilk(x) if _ozel_mi(katla(x), ozel) else x for x in parcalar_)
+            if ilk or (iki_nokta and kok[:1].isupper()):
+                yeni = buyuk_ilk(yeni)                   # iki noktadan sonra gelen alıntı cümlesi büyük harfle başlar
         out.append(on + yeni + son)
         ilk = False
+        iki_nokta = (son or kok).rstrip().endswith(":")
     return "".join(out)
 
 
@@ -231,16 +281,17 @@ def ek_uyum_supheli(metin):
 
 
 def bitisik_supheli(metin):
-    """Sözlükte olmayan ve iki bilinen kelimeye bölünebilen kelimeler ("Baziulkelerde" → "Bazi ulkelerde")."""
+    """Sözlükte olmayan ve sitede sık geçen iki kelimeye bölünebilen kelimeler ("Baziulkelerde" → "Bazı ülkelerde"). Parçaların ikisi de
+    en az 4 harfli olmalı ve sitedeki haberlerde en az 3 kez geçmeli: "melazma", "pigmentosum" gibi terimler işaretlenmez."""
+    def sik(x):
+        return max([yazim.SOZLUK.get(x, 0)] + [yazim.SOZLUK.get(y, 0) for y in yazim.adaylar(x, 64)]) >= 3
     out = []
     for w in yazim.bilinmeyenler(metin or ""):
         k = kucuk(w)
-        if len(k) < 7:
+        if len(k) < 8:
             continue
-        for i in range(3, len(k) - 2):
-            a, b = k[:i], k[i:]
-            if (yazim.bilinen(a) or [y for y in yazim.adaylar(a, 64) if yazim.bilinen(y)]) and \
-                    (yazim.bilinen(b) or [y for y in yazim.adaylar(b, 64) if yazim.bilinen(y)]):
+        for i in range(4, len(k) - 3):
+            if sik(k[:i]) and sik(k[i:]):
                 out.append(w)
                 break
     return out
