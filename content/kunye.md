@@ -23,6 +23,4 @@ kurumsal: true
 
 **Yer Sağlayıcı:** GitHub Pages (GitHub, Inc.)
 
-Sitemizdeki haberlerin bir bölümü, başka yayın kuruluşlarında yayımlanan haberlerdeki bilgilerden yararlanılarak yeniden yazılır. Fotoğrafların kaynağı, sahibi ve kullanım koşulu fotoğrafın altında yer alır.
-
 Düzeltme, cevap ve kaldırma talepleriniz için haberin bağlantısıyla birlikte iletisim@gazeteantalyam.com adresine yazabilirsiniz. Ayrıntılar: [Düzeltme Politikası](/duzeltme-politikasi/) · [Yayın İlkeleri](/yayin-ilkeleri/) · [Hakkımızda](/hakkimizda/)

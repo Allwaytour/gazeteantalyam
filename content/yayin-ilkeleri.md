@@ -3,7 +3,7 @@ title: "Yayın İlkeleri"
 url: "/yayin-ilkeleri/"
 aliases: ["/fotograf-kaynaklari/"]
 kurumsal: true
-description: "Gazete Antalya'nın yayın ilkeleri: bağımsızlık, doğrulama, yanıt hakkı, reklamın haberden ayrılması, çocuk ve mağdurların korunması, fotoğraf kaynakları."
+description: "Gazete Antalya'nın yayın ilkeleri: bağımsızlık, doğrulama, yanıt hakkı, reklamın haberden ayrılması, çocuk ve mağdurların korunması, telif hakkı ve görseller."
 ---
 Gazete Antalya'da yayımlanan her içerik aşağıdaki ilkelere göre hazırlanır. Bu ilkeler bütün çalışanlarımız ve sitemizde yazan herkes için geçerlidir.
 
@@ -35,9 +35,9 @@ Reklamlar ve sponsorlu içerikler haberden açıkça ayrılır. Sitemizdeki rekl
 
 Çocukların ve suç mağdurlarının kimliğini korur, adını, yüzünü, okulunu ya da evini açık edecek bilgi ve görüntü yayımlamayız; adlar yalnızca baş harfleriyle verilir. Cinsel suç ve aile içi şiddet haberlerinde mağdurun tanınmasına yol açabilecek ayrıntılara yer vermeyiz. Şüphelilerin ve sanıkların suçlu olduğu kesinleşmeden onları suçlu gibi sunmayız (masumiyet karinesi). Kaza, intihar ve ölüm haberlerinde kişilerin ve ailelerin acısına saygı gösterir, ölü ve yaralıların görüntülerini yayımlamayız.
 
-## 8. Telif hakkı ve fotoğraf kaynakları
+## 8. Telif hakkı ve görseller
 
-Başkasına ait fotoğrafları yalnızca kullanım iznimiz ya da açık lisansı olduğunda kullanırız. Her fotoğrafın kaynağını, sahibini ve lisansını fotoğrafın altında belirtiriz; sitemizde kullanılan bütün fotoğrafların listesi [Fotoğraf Kaynakları](/fotograf-kaynaklari/) sayfasında yer alır. Haberle ilgili olmayan ya da başka bir olaya ait fotoğrafı, o olayın fotoğrafıymış gibi kullanmayız. Haberin konusunu temsil eden fotoğrafları "Temsilî fotoğraf" ve "Arşiv fotoğrafı" notlarıyla belirtiriz.
+Başkasına ait fotoğrafları yalnızca kullanım iznimiz ya da açık lisansı olduğunda kullanırız. Haberle ilgili olmayan ya da başka bir olaya ait fotoğrafı, o olayın fotoğrafıymış gibi kullanmayız. Haberlerimizi yalnızca habere uygun bir görselle yayımlarız.
 
 ## 9. Basın Meslek İlkeleri'ne bağlılık
 
