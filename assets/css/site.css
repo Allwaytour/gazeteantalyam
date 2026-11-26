@@ -552,3 +552,5 @@ mark.doldur{background:#FFF1B8;color:#5A4500;padding:0 3px;border-radius:2px}
   .kurumsal-menu{position:static}
   .ekip-foto{width:88px;height:88px}
 }
+.kaldirilan h1{margin-bottom:14px}.kaldirma-notu p{margin:4px 0}
+.duz-liste{list-style:none;padding:0;margin:10px 0 24px}.duz-liste li{padding:10px 0;border-bottom:1px solid var(--cizgi,#E5E5E5)}.duz-liste small{display:block;color:var(--soluk,#666);margin-top:3px}
