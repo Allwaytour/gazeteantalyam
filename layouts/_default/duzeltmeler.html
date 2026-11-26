@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{/* Düzeltmeler: yayından kaldırılan haberler (data/kaldirilan.json, scripts/elle_duzelt.py yazar) ve düzeltme notu eklenen haberler. */}}
+<article class="haber" style="max-width:860px;margin:0 auto">
+  <h1>{{ .Title }}</h1>
+  <div class="icerik">{{ .Content }}</div>
+  <h2>Yayından kaldırılan haberler</h2>
+  {{ with site.Data.kaldirilan }}<ul class="duz-liste">{{ range . }}{{ $k := time .kaldirildi }}
+    <li><a href="{{ .adres | relURL }}">{{ .baslik }}</a><small>Kaldırılma tarihi: {{ $k.Format "02.01.2006" }}{{ with .neden }} · Neden: {{ . }}{{ end }}</small></li>{{ end }}
+  </ul>{{ else }}<p>Şu ana kadar yayından kaldırılan haber yok.</p>{{ end }}
+  <h2>Düzeltme notu eklenen haberler</h2>
+  {{ $d := slice }}{{ range where site.RegularPages "Section" "in" (slice "haber" "kose") }}{{ $p := . }}{{ with .Params.duzeltmeler }}{{ $son := "" }}{{ range . }}{{ with .tarih }}{{ if gt (string .) $son }}{{ $son = string . }}{{ end }}{{ end }}{{ end }}{{ $d = $d | append (dict "s" $p "son" $son) }}{{ end }}{{ end }}
+  {{ with $d }}<ul class="duz-liste">{{ range sort . "son" "desc" }}{{ $p := .s }}
+    <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>{{ range sort $p.Params.duzeltmeler "tarih" "desc" }}<small>Düzeltme{{ with .tarih }} ({{ (time .).Format "02.01.2006" }}){{ end }}: {{ .not }}</small>{{ end }}</li>{{ end }}
+  </ul>{{ else }}<p>Şu ana kadar düzeltme notu eklenen haber yok.</p>{{ end }}
+</article>
+{{ end }}
