@@ -57,6 +57,7 @@ jobs:
           BUTCE: ${{ github.event.inputs.butce || '30' }}
         run: |
           pip install -q feedparser requests pyyaml trafilatura googlenewsdecoder pillow playwright zeyrek imagehash
+          python scripts/kayit_temizle.py || echo "Kayıt temizliği yapılamadı"
           TEST="20261123-antalya-bilim-merkezinde-ogretmenlere-astronomi-egitimi-veri-11ad0.md,20261125-antalya-uluslararasi-piyano-festivali-basliyor-4feb4.md,20261125-antalyali-denizcilerden-karadenizdeki-gemi-saldirisina-tepki-fadb4.md,20261125-alanya-ve-antalya-hizli-tren-hedeflerine-yine-dahil-edilmedi-125b9.md,20261126-antalya-milletvekili-abdurrahman-baskandan-enerji-politikala-b1d2c.md,20261125-kamu-is-il-baskani-acardan-gida-enflasyonu-tepkisi-7e938.md,20261126-alanya-muteahhitler-derneginden-alanyaspora-moral-ziyareti-04e18.md,20261126-alanyada-yenilenen-yola-guvenlik-kamerasi-kurulacak-62dac.md,20261125-mavi-vatanin-mimari-cihat-yayci-antalyada-bulusmaya-katildi-9ac78.md,20261122-turkiyede-calisan-cocuk-sayisi-882-bine-ulasti-950cd.md,20261126-ysk-baskani-muttadan-elektronik-oy-aciklamasi-967d7.md,20261125-antalyadaki-restoran-cinayetinde-ilk-durusma-goruldu-57486.md,20261125-kirsalda-kadin-ureticilerin-emegi-yogun-ancak-kayit-sistemle-18cd8.md,20261123-alanyada-bisiklet-egitimi-alan-kadinlar-sertifikalarini-aldi-7bd90.md,20261122-hikmet-karaman-boluspor-macinda-performansimizi-artirmaliyiz-89314.md,20261122-hikmet-karaman-play-off-bolgesinin-hemen-ensesine-yapistik-8c5f7.md,20261125-akdeniz-universitesinden-ekrandaki-mavi-isik-uyarisi-460ac.md,20261122-ak-parti-il-baskani-cetin-den-antalya-vizyonu-aciklamasi-e35a0.md,20261125-alanyada-sanayi-sitesinde-silahli-intihar-olayi-28eef.md,20261125-antalyada-cesit-ekmek-fiyatlarina-zam-yapildi-cf112.md,20261126-muratpasa-meydankavagindaki-ekdag-firini-icin-fesih-gundemde-8530c.md"
           case "$ISLEM" in
             test)   timeout 35m python -u scripts/toplu_kalite.py rapor --dosyalar "$TEST" --hep-ara --cikti data/kalite_test.json --butce 80 || true ;;
@@ -71,7 +72,7 @@ jobs:
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # her yol ayrı eklenir (var olmayan bir yol bütün "git add" komutunu başarısız yapar)
-          for y in data/kalite_test.json data/toplu_kalite data/kaldirilan.json data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar; do
+          for y in data/kalite_test.json data/toplu_kalite data/kaldirilan.json data/gorsel_kayit.json data/kalite_raporu.json data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar; do
             git add -A -- "$y" 2>/dev/null || true
           done
           git add -u || true
