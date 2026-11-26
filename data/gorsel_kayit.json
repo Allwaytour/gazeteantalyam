@@ -5029,5 +5029,117 @@
     "neden": "puan 0 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
    }
   ]
+ },
+ {
+  "tarih": "2026-11-27T00:41:39+03:00",
+  "haber": "20261126-antalyaspor-ve-alanyaspordan-besiktas-taraftarina-destek-d36b3.md",
+  "baslik": "Antalyaspor ve Alanyaspor'dan Beşiktaş taraftarına destek",
+  "sonuc": "seçildi (7/10, pixabay)",
+  "aday_sayisi": 8,
+  "secilen": {
+   "id": "2087ef8f96192e3b",
+   "puan": 7,
+   "gerekce": "Haberin konusu olan futbol atmosferini genel bir stadyum görüntüsüyle başarıyla yansıtıyor, herhangi bir ihlal içermiyor.",
+   "gorunen": "Boş bir futbol stadyumu tribünleri ve saha zemini.",
+   "taninir_yuz": false,
+   "cekim_yili": ""
+  },
+  "reddedilen": [
+   {
+    "id": "f457459fc5fadd2f",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyaspor-kotu-gidise-konyaspo)"
+   },
+   {
+    "id": "3bc848e42e8f7009",
+    "puan": 4,
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "6dffeac25c68afdc",
+    "puan": 7,
+    "neden": "kesin ret: baska_sehir (berlin)"
+   },
+   {
+    "id": "b738edef7afac053",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "3e4075b32c690b02",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "5f359763c7356071",
+    "puan": 0,
+    "neden": "puan 0 < 7; kesin ret: celiski"
+   },
+   {
+    "id": "04c3ad8c718ec226",
+    "puan": 6,
+    "neden": "puan 6 < 7"
+   }
+  ]
+ },
+ {
+  "tarih": "2026-11-27T00:42:45+03:00",
+  "haber": "20261126-iyi-parti-alanyadan-kadina-siddetle-mucadele-icin-10-281ae.md",
+  "baslik": "İYİ Parti Alanya'dan kadına şiddetle mücadele için 10 maddelik plan",
+  "sonuc": "eşiği (7) geçen uygun görsel yok",
+  "aday_sayisi": 10,
+  "secilen": {},
+  "reddedilen": [
+   {
+    "id": "02d0a36cf8b15445",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "8419d4437caf67fe",
+    "puan": null,
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyada-kayit-disi-emlakcilikl)"
+   },
+   {
+    "id": "c8cffa0c6088b16b",
+    "puan": 0,
+    "neden": "puan 0 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "184c4979623233fa",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi, yabanci_kurum; kesin ret: baska_sehir (moscow)"
+   },
+   {
+    "id": "32d42a4e8db81469",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "86c96035169f85b5",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "b899c97d3f9bf376",
+    "puan": 0,
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "c775575e347d041f",
+    "puan": 2,
+    "neden": "puan 2 < 7; kesin ret: yanlis_kisi, yabanci_kurum"
+   },
+   {
+    "id": "373b16c27e43fb9d",
+    "puan": 5,
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "883c74ce845b7030",
+    "puan": 3,
+    "neden": "puan 3 < 7; kesin ret: yabanci_kurum"
+   }
+  ]
  }
 ]

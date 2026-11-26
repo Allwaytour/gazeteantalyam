@@ -2,8 +2,6 @@
 title: Antalyaspor ve Alanyaspor'dan Beşiktaş taraftarına destek
 date: '2026-11-26T22:21:52+03:00'
 ozet: Gürcistan'da oynanan maçta Beşiktaş taraftarına yönelik uygulanan polis müdahalesine Antalyaspor ve Alanyaspor'dan tepki geldi.
-gorsel: /images/kategori/spor.png
-gorsel_kredi: ''
 kategoriler:
 - Spor
 ilceler:
@@ -16,24 +14,31 @@ gorsel_sinif: futbol
 onem: 4
 yazim_denetim: y1
 kalite_denetim: k1
-gorsel_tur: kategori
+gorsel_tur: stok
 gorsel_secim:
-  tur: kategori
+  tur: stok
   kaynak_sayfa: ''
   fotografci: ''
-  kredi: Gazete Antalya
-  lisans: Gazete Antalya'nın kendi tasarımı
-  lisans_dayanagi: Sitenin kendi grafik dosyası
+  kredi: ''
+  lisans: ''
+  lisans_dayanagi: ''
   kosul: ''
-  gosterilen: ''
+  gosterilen: Boş bir futbol stadyumu tribünleri ve saha zemini.
   cekim_yili: ''
-  gerekce: ''
-  surum: h1-2026-11-07
+  gerekce: 'Görsel puanı 7/10: Haberin konusu olan futbol atmosferini genel bir stadyum görüntüsüyle başarıyla yansıtıyor, herhangi bir ihlal içermiyor.'
+  surum: b2
   konu_imza: 831d12754e4c
-  gorsel_url: /images/kategori/spor.png
-  kontrol: {}
+  gorsel_url: /images/haber-gorsel/2087ef8f96192e3b.jpg
+  kontrol:
+    yapildi: true
+    sonuc: uygun
+    puan: 7
+    esik: 7
+    gerekce: Haberin konusu olan futbol atmosferini genel bir stadyum görüntüsüyle başarıyla yansıtıyor, herhangi bir ihlal içermiyor.
+    tarih: '2026-11-27T00:42:45+03:00'
+  hat: b2
+  durum: onaylandi
   kurum: k5
-  kapak_surum: c8
 manset: false
 son_dakika: false
 yazar: Gazete Antalya
@@ -41,35 +46,9 @@ otomatik: true
 yz: true
 kaynak: Akdeniz Gerçek
 kaynak_url: https://www.akdenizgercek.com.tr/spor/uc-buyuklerin-ardindan-antalyaspor-ve-alanyaspor-da-besiktas-icin-ses-yukseltti/390106
-bekleme:
-  ilk: '2026-11-26T22:41:34+03:00'
-  deneme: 0
-  sonraki: '2026-11-27T00:41:34+03:00'
-  brief:
-    ana_konu: Antalyaspor ve Alanyaspor'un Beşiktaş taraftarına destek açıklaması
-    olmasi_gereken:
-    - futbol stadyumu atmosferi
-    varliklar:
-    - ad: Antalyaspor
-      tur: takim
-    - ad: Corendon Alanyaspor
-      tur: takim
-    - ad: Beşiktaş
-      tur: takim
-    kacinilacaklar:
-    - polis müdahalesi
-    - şiddet
-    - yaralı taraftar
-    sorgular_en:
-    - football stadium
-    - football match
-    sorgular_tr:
-    - futbol stadyumu
-    - futbol maçı
-    tarihi_haber: false
-    hassas: false
-  son_sonuc: 'seçilen görsel indirilemedi: 429 Client Error: Too Many Requests for url: https://pixabay.com/get/g642ad630d826842c4392bed4bd295f4518ea416c47c0dbe5ce1a0cb502d1bdd7ef741c8c83f8c96573a71fc83dc6677615400'
-  kaynak_ts: 1795720912
+gorsel: /images/haber-gorsel/2087ef8f96192e3b.jpg
+gorsel_kredi: ''
+gorsel_konum: 50% 50%
 ---
 UEFA Avrupa Ligi kapsamında Gürcistan'ın Batum kentinde oynanan Beşiktaş ve Hapoel Beer-Sheva karşılaşmasında yaşanan olaylar, Türk futbol camiasını bir araya getirdi. Siyah-beyazlı taraftarlara yönelik gerçekleştirilen sert güvenlik müdahalesi sonrası, Süper Lig'in Akdeniz temsilcileri Antalyaspor ve Corendon Alanyaspor resmi açıklama yaparak tepkilerini dile getirdi.
 

@@ -241,6 +241,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-27T00:41:19+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 1,
+   "karantina": 0,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.0,
+   "islenen": 2
   }
  ],
  "haberler": [
@@ -1316,6 +1331,22 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 03:42)"
+  },
+  {
+   "tarih": "2026-11-27T00:41:39+03:00",
+   "baslik": "Antalyaspor ve Alanyaspor'dan Beşiktaş taraftarına destek",
+   "dosya": "20261126-antalyaspor-ve-alanyaspordan-besiktas-taraftarina-destek-d36b3.md",
+   "deneme": 1,
+   "sonuc": "seçildi (7/10, pixabay)",
+   "durum": "yayinlandi"
+  },
+  {
+   "tarih": "2026-11-27T00:41:39+03:00",
+   "baslik": "İYİ Parti Alanya'dan kadına şiddetle mücadele için 10 maddelik plan",
+   "dosya": "20261126-iyi-parti-alanyadan-kadina-siddetle-mucadele-icin-10-281ae.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 04:11)"
   }
  ]
 }
