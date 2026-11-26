@@ -9062,6 +9062,100 @@
    },
    "url": "https://images.unsplash.com/photo-1772852311587-329719989e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cGF2aW5nJTIwbWFjaGluZXxlbnwxfDB8fHwxNzk0NDg0NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "0a1229ea72641b44": {
+   "icerik": {
+    "ana_kutu": [
+     250,
+     350,
+     950,
+     850
+    ],
+    "bulanik": false,
+    "cekim": "panorama",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "asfalt yol",
+     "bina",
+     "cami",
+     "dağ",
+     "araba"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Havadan çekilmiş Alanya Kestel Mahallesi genel görünümü ve yeni asfalt yol",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "Alanya yol çalışmaları",
+     "Belediye altyapı projeleri",
+     "Kestel mahallesi haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Trafik kazası haberleri",
+     "Spor müsabakaları",
+     "Magazin"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:77c6073c9c36:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberde bahsedilen Alanya Kestel mahallesindeki yenilenen asfalt yolu doğrudan göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       380,
+       940,
+       750
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:41:22+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "875008284a122668",
+    "sha": "3c974c64fb826289e80376f2"
+   },
+   "t": "2026-11-26T12:41:22+03:00",
+   "teknik": {
+    "doygunluk": 21.6,
+    "inen": [
+     1000,
+     562
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 2517,
+    "kontrast": 43,
+    "medyan": 109,
+    "parlaklik": 119,
+    "s": "t1"
+   },
+   "url": "/images/kurum/db1f3edcac17d75f.jpg"
+  },
   "0a51b78ad5b0bc08": {
    "icerik": {
     "ana_kutu": [
@@ -15602,13 +15696,39 @@
       "yasak": []
      },
      "t": "2026-11-19T11:28:36+03:00"
+    },
+    "r1:77c6073c9c36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol yapımını temsil etse de haberdeki yenilenen pürüzsüz asfalt yerine kazılmış hendek göstermesi çelişkilidir.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:41:22+03:00"
     }
    },
    "ozet": {
     "dh": "3c1d357373250f27",
     "sha": "efff0c91bb018005e3b8fe1a"
    },
-   "t": "2026-11-22T13:10:47+03:00",
+   "t": "2026-11-26T12:41:22+03:00",
    "teknik": {
     "doygunluk": 13.8,
     "inen": [
@@ -33029,6 +33149,97 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg/1280px-Kleopatra_Beach%2C_Alanya%2C_T%C3%BCrkiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "26993b5dcb68c73b": {
+   "icerik": {
+    "ana_kutu": [
+     260,
+     130,
+     840,
+     890
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "tuğla ev",
+     "pencereler",
+     "çatı",
+     "asfalt yol"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Kırmızı tuğlalı, iki katlı geleneksel İngiliz evi ve cadde görünümü.",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "emlak",
+     "mimari tarih",
+     "yerel haber"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık teknolojileri zirvesi",
+     "dijital dönüşüm"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:77d0c86df3b7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarihi bir ev fotoğrafı, sağlık teknolojileri ve dijitalleşme haberiyle tamamen ilgisiz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:42:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f06c4ba6a3b392e",
+    "sha": "b854bb3e6973e36748e7d4e8"
+   },
+   "t": "2026-11-26T12:42:03+03:00",
+   "teknik": {
+    "doygunluk": 31.7,
+    "inen": [
+     500,
+     341
+    ],
+    "karanlik_oran": 0.173,
+    "keskinlik": 4225,
+    "kontrast": 82,
+    "medyan": 144,
+    "parlaklik": 145,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/South_Lodge_at_Bourne%2C_Lincolnshire_%28geograph_4529334%29.jpg/1280px-South_Lodge_at_Bourne%2C_Lincolnshire_%28geograph_4529334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "269f66951e3de67d": {
    "icerik": {
     "ana_kutu": [
@@ -34559,6 +34770,32 @@
      },
      "t": "2026-11-12T14:58:55+03:00"
     },
+    "r1:77c6073c9c36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yol yapım çalışmasını temsil eder, ancak coğrafi olarak Alanya ile uyuşmayan yabancı bir kırsal manzaradır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:41:22+03:00"
+    },
     "r1:b394c6813661:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -34599,7 +34836,7 @@
     "dh": "9c043971d87d1729",
     "sha": "69193a4473262e9b1dc2fca1"
    },
-   "t": "2026-11-22T13:10:47+03:00",
+   "t": "2026-11-26T12:41:22+03:00",
    "teknik": {
     "doygunluk": 13.0,
     "inen": [
@@ -37817,6 +38054,115 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/GKN_Filter_Coffee_DSC_1038.JPG/1280px-GKN_Filter_Coffee_DSC_1038.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "2bf836f89cd7e460": {
+   "icerik": {
+    "ana_kutu": [
+     25,
+     180,
+     995,
+     930
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "tablet",
+     "dosya dolabı",
+     "stetoskop",
+     "gözlük"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ofis ortamında tablet inceleyen iki sağlık çalışanı.",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sağlık çalışanları",
+     "dijital hastane",
+     "tıbbi teknoloji"
+    ],
+    "uygunsuz_baglamlar": [
+     "bakan portresi",
+     "ziyaret protokolü"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      70,
+      320,
+      480,
+      490
+     ],
+     [
+      25,
+      630,
+      400,
+      830
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:77d0c86df3b7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sağlıkta dijitalleşme ve teknoloji kullanımını temsil eden uygun bir temsilî fotoğraf.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       25,
+       180,
+       995,
+       930
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:42:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "250b13373d39b999",
+    "sha": "aa87825e2f15264ae946262e"
+   },
+   "t": "2026-11-26T12:42:03+03:00",
+   "teknik": {
+    "doygunluk": 21.0,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.121,
+    "keskinlik": 649,
+    "kontrast": 67,
+    "medyan": 128,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1758691463203-cce9d415b2b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8ZG9jdG9yJTIwdXNpbmclMjBtZWRpY2FsJTIwdGFibGV0fGVufDF8MHx8fDE3OTU2ODYxMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "2bfc2db7fbc3ff00": {
    "icerik": {
@@ -97842,13 +98188,48 @@
       "yasak": []
      },
      "t": "2026-11-20T12:08:16+03:00"
+    },
+    "r1:f1737aed7fa7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf inşaat sektörünü temsil eden bir kule vinç ve yapı göstermektedir, haberle uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "inşaat sahası",
+        "var": true
+       },
+       {
+        "unsur": "yol projesi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:40:52+03:00"
     }
    },
    "ozet": {
     "dh": "06060c1c26a6c6c6",
     "sha": "d4ae47130a73d624e9c2c52e"
    },
-   "t": "2026-11-20T12:08:16+03:00",
+   "t": "2026-11-26T12:40:52+03:00",
    "teknik": {
     "doygunluk": 28.9,
     "inen": [
@@ -101314,6 +101695,97 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1752497632802-142a0f9ea594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8M3x8QWxhbnlhJTIwdG93biUyMHN0cmVldCUyMHNpZ258ZW58MXwwfHx8MTc5NTUxNjY3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "7d7545bebf67c267": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     50,
+     900,
+     780
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "cam tüpler",
+     "bakır borular",
+     "musluklar",
+     "tezgah"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Laboratuvar ortamında bakır ve cam borulardan oluşan düzenek.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "laboratuvar",
+     "kimya",
+     "bilimsel araştırma"
+    ],
+    "uygunsuz_baglamlar": [
+     "sağlık bakanı konuşması",
+     "dijitalleşme zirvesi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:77d0c86df3b7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Laboratuvar düzeneği illüstrasyonu sağlık teknolojileri haberi için fazla soyut ve yetersiz.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:42:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "c9c5e5f1c9d9f1c4",
+    "sha": "1067cbb2901448bcdaa1f77a"
+   },
+   "t": "2026-11-26T12:42:03+03:00",
+   "teknik": {
+    "doygunluk": 20.6,
+    "inen": [
+     400,
+     225
+    ],
+    "karanlik_oran": 0.002,
+    "keskinlik": 860,
+    "kontrast": 45,
+    "medyan": 208,
+    "parlaklik": 192,
+    "s": "t1"
+   },
+   "url": "https://images.unsplash.com/photo-1791825930145-7e2d3f411e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8bW9kZXJuJTIwbWVkaWNhbCUyMHRlY2hub2xvZ3klMjBsYWJvcmF0b3J5fGVufDF8MHx8fDE3OTU2ODYxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "7d7a8b32d0e08d37": {
    "icerik": {
@@ -174617,6 +175089,125 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg/1280px-Be%C5%9Fikta%C5%9F-Antalyaspor_match_in_30_October_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "d9a6f067728afb91": {
+   "icerik": {
+    "ana_kutu": [
+     320,
+     80,
+     990,
+     980
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 10,
+    "nesneler": [
+     "sedye",
+     "askeri çadır",
+     "aydınlatma lambası",
+     "laptop",
+     "tıbbi malzemeler"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Askeri çadır hastanesinde hasta tedavisi yapan sağlık personelleri.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sahra hastanesi",
+     "askeri sağlık",
+     "acil tıp"
+    ],
+    "uygunsuz_baglamlar": [
+     "sivil sağlık teknolojileri zirvesi",
+     "bakanlık açıklaması"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      330,
+      170,
+      480,
+      260
+     ],
+     [
+      355,
+      410,
+      480,
+      530
+     ],
+     [
+      360,
+      570,
+      680,
+      680
+     ],
+     [
+      410,
+      830,
+      990,
+      980
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:77d0c86df3b7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Askeri sahra hastanesi görüntüsü, Antalya'daki sağlık teknolojileri zirvesi haberiyle uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "izinsiz kişiler"
+      ]
+     },
+     "t": "2026-11-26T12:42:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "3633939129694938",
+    "sha": "867d59665c863bc87533ba14"
+   },
+   "t": "2026-11-26T12:42:03+03:00",
+   "teknik": {
+    "doygunluk": 23.1,
+    "inen": [
+     500,
+     281
+    ],
+    "karanlik_oran": 0.117,
+    "keskinlik": 3135,
+    "kontrast": 55,
+    "medyan": 131,
+    "parlaklik": 124,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/121st_Field_Hospital_Earns_Walking_Blood_Bank_Validation%2C_Employs_Digital_Health_Records_in_the_Field_%2810071992%29.jpg/1280px-121st_Field_Hospital_Earns_Walking_Blood_Bank_Validation%2C_Employs_Digital_Health_Records_in_the_Field_%2810071992%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "d9a719e9f4aa0eac": {
    "icerik": {
     "ana_kutu": [
@@ -193910,18 +194501,18 @@
      },
      "t": "2026-11-13T15:29:15+03:00"
     },
-    "r1:9b4dc3709137:ozne_kurum": {
+    "r1:77c6073c9c36:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediyenin parkını gösterir, haberde geçen sertifika töreniyle ilgisi yoktur.",
+      "belirli_kisi_isletme": true,
+      "gerekce": "Alanya Belediyesi yakınındaki bir parkı gösterse de, haberin konusu olan yol çalışması ve asfaltlama ile doğrudan ilgisi yoktur.",
       "gerekli": [],
       "ilgisiz_yer_nesne": true,
       "konu_ana_unsur": false,
       "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 2,
+      "uygunluk": 4,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -193929,7 +194520,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-13T06:28:00+03:00"
+     "t": "2026-11-26T12:41:22+03:00"
     },
     "r1:b6803a8d01cf:yer": {
      "d": {
@@ -194081,7 +194672,7 @@
     "dh": "79a98305314a67e7",
     "sha": "8d714339a8ff468c50ee3410"
    },
-   "t": "2026-11-20T16:32:27+03:00",
+   "t": "2026-11-26T12:41:22+03:00",
    "teknik": {
     "doygunluk": 22.6,
     "inen": [
@@ -202831,6 +203422,101 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Side_beachfront.jpg/1280px-Side_beachfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "fb7b6abd4d2cdd57": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     120,
+     900,
+     890
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "stetoskop",
+     "holografik ekran",
+     "doktor üniforması"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Mavi medikal üniformalı sağlık çalışanının elindeki holografik beyin modelini incelemesi.",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "sağlık teknolojileri",
+     "dijital hastane",
+     "yapay zeka tıpta"
+    ],
+    "uygunsuz_baglamlar": [
+     "konferans kürsüsü haberleri",
+     "siyasetçi ziyareti"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:77d0c86df3b7:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Dijital sağlık teknolojilerini temsil eden uygun bir stok görsel, ancak bakanın konuşmasını doğrudan göstermiyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": false
+       },
+       {
+        "unsur": "konuşmacı kürsüsü",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       110,
+       900,
+       890
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:42:03+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d8c8cccc9ac9f9f1",
+    "sha": "2d9594d40a44b964dc4de33f"
+   },
+   "t": "2026-11-26T12:42:03+03:00",
+   "teknik": {
+    "doygunluk": 13.8,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.009,
+    "keskinlik": 701,
+    "kontrast": 47,
+    "medyan": 222,
+    "parlaklik": 206,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Doctors_using_transparent_tablet_with_hologram_medical_technology_%2850812636116%29.jpg/1280px-Doctors_using_transparent_tablet_with_hologram_medical_technology_%2850812636116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "fbc362f93307c9d1": {
    "icerik": {
     "ana_kutu": [
@@ -202960,6 +203646,34 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:77c6073c9c36:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Yenilenen ve sıcak asfaltla kaplanan bir yol haberi için bozuk, çukurlu eski yol fotoğrafı kullanmak tamamen yanlıştır.",
+      "gerekli": [
+       {
+        "unsur": "asfalt yol",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "hasarlı araç"
+      ]
+     },
+     "t": "2026-11-26T12:41:22+03:00"
+    },
     "r1:83f2df841601:konu": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -203000,7 +203714,7 @@
     "dh": "0127c30d9b991818",
     "sha": "ecfb2a2dfcd2c49fde91ea21"
    },
-   "t": "2026-11-23T15:17:20+03:00",
+   "t": "2026-11-26T12:41:22+03:00",
    "teknik": {
     "doygunluk": 7.6,
     "inen": [
@@ -206918,6 +207632,73 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "0a1229ea72641b44": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1000,
+    562
+   ],
+   "cekim": "panorama",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Havadan çekilmiş Alanya Kestel Mahallesi genel görünümü ve yeni asfalt yol",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-26T12:41:22+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Alanya Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Alanya Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Alanya Belediyesi",
+    "sayfa": "https://www.alanya.bel.tr/haberler/kestel-yeni-sanayi-sitesi-nde-1-200-metrelik-yol-sicak-asfaltla-bulustu/126668"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Alanya Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "araba",
+    "asfalt yol",
+    "bina",
+    "cami",
+    "dağ"
+   ],
+   "kucuk": "/images/kurum/db1f3edcac17d75f.jpg",
+   "kullanilabilir": [
+    "Alanya yol çalışmaları",
+    "Belediye altyapı projeleri",
+    "Kestel mahallesi haberleri"
+   ],
+   "kullanilamaz": [
+    "Trafik kazası haberleri",
+    "Spor müsabakaları",
+    "Magazin",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-26T12:41:22+03:00",
+   "url": "/images/kurum/db1f3edcac17d75f.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "0c3a9082b4225a26": {
    "alt_tur": "nesne",
@@ -214369,7 +215150,7 @@
    "gosterim_ad": "taşınmaz ihalesi",
    "ilk_kabul": "2026-11-20T12:08:16+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Vardan Papikyan / Unsplash",
     "atif_kosulu": "Fotoğrafçı adı ve Unsplash bağlantısı gösterilir; sitede 'Temsilî görsel' etiketi kullanılır.",
@@ -214389,6 +215170,7 @@
    "konular": [
     "bina",
     "inşaat projesi",
+    "inşaat sahası",
     "inşaat yapısı",
     "iskele",
     "kule vinç"
@@ -214408,7 +215190,7 @@
    "qid": "",
    "sahne_turu": "notr_yapi_tesis",
    "sinif": "konu",
-   "son_kabul": "2026-11-20T12:08:16+03:00",
+   "son_kabul": "2026-11-26T12:40:52+03:00",
    "url": "https://images.unsplash.com/photo-1651090430988-ac56ec7608cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwdGVuZGVyfGVufDF8MHx8fDE3OTUxNjU2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
    "uygun_yerlesimler": [
     "manset",
