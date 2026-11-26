@@ -40,8 +40,8 @@ kaynak: Gün Haber
 kaynak_url: https://www.gunhaber.com.tr/haber/unlu-dj-burak-yeter-gozaltina-alindi/578541/
 bekleme:
   ilk: '2026-11-26T21:42:25+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T23:42:25+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T03:42:25+03:00'
   brief:
     ana_konu: DJ Burak Yeter'in gözaltına alındığı uyuşturucu ve fuhuş soruşturması
     olmasi_gereken:
