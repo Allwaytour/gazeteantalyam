@@ -54,6 +54,7 @@ jobs:
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content/haber content/kose
+          git add -A -- data/kaldirilan.json 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -q -m "Elle eklenen haber: tarih/adres düzeltmesi [skip ci]"
             for i in 1 2 3; do (git pull -q --rebase origin main && git push -q origin HEAD:main) && break; sleep 5; done
@@ -74,7 +75,7 @@ jobs:
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # her yol ayrı eklenir (var olmayan bir yol bütün "git add" komutunu başarısız yapar; silinen kuyruk dosyaları da kaydedilir)
-          for y in data/kalite_raporu.json data/gorsel_kayit.json data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum karantina bekleyen; do
+          for y in data/kaldirilan.json data/kalite_raporu.json data/gorsel_kayit.json data/gorsel_kullanim.json data/pixabay_onbellek.json static/images/kurum karantina bekleyen; do
             git add -A -- "$y" 2>/dev/null || true
           done
           git add content/haber content/kose data/otomatik_durum.json data/foto_arsivi.json data/gorsel_kutuphanesi.json data/gorsel_ret.json data/gorsel_kabul_orneklem.json

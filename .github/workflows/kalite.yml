@@ -2,17 +2,19 @@
 #   test   : 26.11.2026 incelemesindeki örnek haberler → data/kalite_test.json (sitede /kalite-testi/)
 #   rapor  : yayımlanmış haberlerin önerileri → data/toplu_kalite/oneriler.json (sitede /kalite-raporu/); 3 saatte bir kendiliğinden
 #   uygula : onaylanan öneriler haberlere yazılır (onay: "toplu" ya da dosya adları virgülle)
+#   gorsel_degistir : onay alanındaki haberlerin görseli yeniden aranır ve hemen uygulanır (yayın sorumlusunun kararıyla);
+#            yeni kurallara uyan görsel bulunamazsa haber görselsiz kalır
 name: Kalite taraması
 
 on:
   workflow_dispatch:
     inputs:
       islem:
-        description: "test | rapor | uygula"
+        description: "test | rapor | uygula | gorsel_degistir"
         required: true
         default: "test"
       onay:
-        description: "uygula için: toplu ya da dosya adları (virgülle)"
+        description: "uygula için: toplu ya da dosya adları; gorsel_degistir için dosya adları (virgülle)"
         required: false
         default: ""
       butce:
@@ -60,6 +62,9 @@ jobs:
             test)   timeout 35m python -u scripts/toplu_kalite.py rapor --dosyalar "$TEST" --hep-ara --cikti data/kalite_test.json --butce 80 || true ;;
             rapor)  timeout 35m python -u scripts/toplu_kalite.py rapor --sinir 40 --butce "$BUTCE" || true ;;
             uygula) python -u scripts/toplu_kalite.py uygula --onay "$ONAY" ;;
+            gorsel_degistir)
+              timeout 30m python -u scripts/toplu_kalite.py rapor --dosyalar "$ONAY" --hep-ara --butce "$BUTCE" || true
+              python -u scripts/toplu_kalite.py uygula --onay "$ONAY" ;;
           esac
       - name: Sonucu kaydet
         run: |
