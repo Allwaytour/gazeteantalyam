@@ -1,0 +1,195 @@
+{
+ "guncelleme": "2026-11-26T21:31:53+03:00",
+ "haber": "/haber/20261126-manavgatta-engelli-calisanlarin-is-yasamindaki-talepleri-2d67c/",
+ "vakalar": [
+  {
+   "id": "liste",
+   "baslik": "1. Mobil ana sayfa: tek sütunlu liste, başlıklar kesilmez",
+   "aciklama": "Mobilde iki sütunlu ızgara yerine küçük görsel solda, başlık sağda tek sütunlu liste. Başlıklarda '...' kesmesi yok (ölçüm: kesilen başlık sayısı).",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/1-liste-once-m.jpg?v=1795717789",
+     "d": "/images/kalite-testi/tasarim/1-liste-once-d.jpg?v=1795717794"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/1-liste-sonra-m.jpg?v=1795717799",
+     "d": "/images/kalite-testi/tasarim/1-liste-sonra-d.jpg?v=1795717804"
+    }
+   },
+   "olcum": {
+    "once": {
+     "kesik_baslik_m": 75,
+     "kesik_baslik_d": 75
+    },
+    "sonra": {
+     "kesik_baslik_m": 0,
+     "kesik_baslik_d": 0
+    }
+   }
+  },
+  {
+   "id": "wa",
+   "baslik": "2. WhatsApp yüzen düğmesi (mobil)",
+   "aciklama": "Mobilde küçültüldü (44 px). Aşağı kaydırırken gizlenir (birinci görüntü), yukarı kaydırınca görünür (ikinci görüntü); sayfa sonunda içeriğin üstüne binmez. Masaüstünde yüzen düğme yok (üst çubuktaki düğme aynı).",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/2-wa-once-m.jpg?v=1795717809",
+     "m2": "/images/kalite-testi/tasarim/2-wa-once-m2.jpg?v=1795717810",
+     "d": "/images/kalite-testi/tasarim/2-wa-once-d.jpg?v=1795717812"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/2-wa-sonra-m.jpg?v=1795717817",
+     "m2": "/images/kalite-testi/tasarim/2-wa-sonra-m2.jpg?v=1795717817",
+     "d": "/images/kalite-testi/tasarim/2-wa-sonra-d.jpg?v=1795717820"
+    }
+   },
+   "olcum": {
+    "once": {
+     "asagida_gorunur": true,
+     "yukarida_gorunur": true,
+     "dugme_px": 54
+    },
+    "sonra": {
+     "asagida_gorunur": false,
+     "yukarida_gorunur": true,
+     "dugme_px": 44
+    }
+   }
+  },
+  {
+   "id": "reklam",
+   "baslik": "3. Reklam yerleşimi ve sabit reklam alanı",
+   "aciklama": "Ana sayfada reklam manşet bloğunun altında; haber sayfasında başlıktan önce değil, ilk paragraftan sonra. Reklam alanına görselin oranında sabit yer ayrılır (ölçüm: CLS, düzen kayması; 0'a yakın olmalı).",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/3-reklam-ana-once-m.jpg?v=1795717826",
+     "m_haber": "/images/kalite-testi/tasarim/3-reklam-haber-once-m.jpg?v=1795717832",
+     "d": "/images/kalite-testi/tasarim/3-reklam-ana-once-d.jpg?v=1795717837",
+     "d_haber": "/images/kalite-testi/tasarim/3-reklam-haber-once-d.jpg?v=1795717843"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/3-reklam-ana-sonra-m.jpg?v=1795717849",
+     "m_haber": "/images/kalite-testi/tasarim/3-reklam-haber-sonra-m.jpg?v=1795717854",
+     "d": "/images/kalite-testi/tasarim/3-reklam-ana-sonra-d.jpg?v=1795717860",
+     "d_haber": "/images/kalite-testi/tasarim/3-reklam-haber-sonra-d.jpg?v=1795717865"
+    }
+   },
+   "olcum": {
+    "once": {
+     "cls_ana_m": 0,
+     "cls_haber_m": 0,
+     "cls_ana_d": 0,
+     "cls_haber_d": 0
+    },
+    "sonra": {
+     "cls_ana_m": 0,
+     "cls_haber_m": 0,
+     "cls_ana_d": 0,
+     "cls_haber_d": 0
+    }
+   }
+  },
+  {
+   "id": "etiket",
+   "baslik": "4. Haber sayfası: etiketler yazının sonunda",
+   "aciklama": "Etiketler başlık ile özet arasından alınıp yazının sonuna taşındı.",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/4-etiket-once-m.jpg?v=1795717868",
+     "d": "/images/kalite-testi/tasarim/4-etiket-once-d.jpg?v=1795717871"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/4-etiket-sonra-m.jpg?v=1795717874",
+     "d": "/images/kalite-testi/tasarim/4-etiket-sonra-d.jpg?v=1795717877"
+    }
+   },
+   "olcum": {
+    "once": {},
+    "sonra": {}
+   }
+  },
+  {
+   "id": "kart",
+   "baslik": "5-6. Portre kırpma, logo kuralı ve görselsiz kart",
+   "aciklama": "Portre fotoğraflar yatay kartta kenarlarda boşluk kalmadan yüze göre kırpılır (object-fit: cover, object-position). Logo ve logolu başlık kartı haber görseli sayılmaz; bu haberler boş gri kutu olmadan kategori etiketi, başlık ve özetle gösterilir. Görsel seçim kurallarına 'logo' kesin ret kodu eklendi.",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/5-kart-once-m.jpg?v=1795717879",
+     "d": "/images/kalite-testi/tasarim/5-kart-once-d.jpg?v=1795717882"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/5-kart-sonra-m.jpg?v=1795717884",
+     "d": "/images/kalite-testi/tasarim/5-kart-sonra-d.jpg?v=1795717887"
+    }
+   },
+   "olcum": {
+    "once": {
+     "logo_ya_da_bos_kutu_m": 3,
+     "logo_ya_da_bos_kutu_d": 3
+    },
+    "sonra": {
+     "logo_ya_da_bos_kutu_m": 0,
+     "logo_ya_da_bos_kutu_d": 0
+    }
+   }
+  },
+  {
+   "id": "manset",
+   "baslik": "6. Manşet ve slayt: yalnızca görseli olan haberler",
+   "aciklama": "Manşet slaytında ve yanındaki kartlarda yalnızca fotoğraflı haberler yer alır (ölçüm: manşetteki fotoğrafsız/logolu kart sayısı).",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/6-manset-once-m.jpg?v=1795717890",
+     "d": "/images/kalite-testi/tasarim/6-manset-once-d.jpg?v=1795717893"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/6-manset-sonra-m.jpg?v=1795717897",
+     "d": "/images/kalite-testi/tasarim/6-manset-sonra-d.jpg?v=1795717900"
+    }
+   },
+   "olcum": {
+    "once": {
+     "mansette_fotosuz_m": 1,
+     "mansette_fotosuz_d": 1
+    },
+    "sonra": {
+     "mansette_fotosuz_m": 0,
+     "mansette_fotosuz_d": 0
+    }
+   }
+  },
+  {
+   "id": "performans",
+   "baslik": "7. Görsel performansı: WebP, srcset ve baskın renk yer tutucu",
+   "aciklama": "Sitenin kendi sunucusundaki görseller Hugo ile WebP'ye çevrilir ve ekran genişliğine uygun boyutlarda (srcset) üretilir. Görüntülerde görseller bilerek yüklenmedi: gri kutu yerine görselin baskın rengi görünür. Ölçüm: ana sayfada indirilen yerel görsel boyutu (KB) ve WebP sayısı.",
+   "gorseller": {
+    "once": {
+     "m": "/images/kalite-testi/tasarim/7-yer-tutucu-once-m.jpg?v=1795717903",
+     "d": "/images/kalite-testi/tasarim/7-yer-tutucu-once-d.jpg?v=1795717906"
+    },
+    "sonra": {
+     "m": "/images/kalite-testi/tasarim/7-yer-tutucu-sonra-m.jpg?v=1795717909",
+     "d": "/images/kalite-testi/tasarim/7-yer-tutucu-sonra-d.jpg?v=1795717913"
+    }
+   },
+   "olcum": {
+    "once": {
+     "yerel_gorsel_kb_m": 438,
+     "yerel_gorsel_adet_m": 9,
+     "webp_m": 0,
+     "yerel_gorsel_kb_d": 407,
+     "yerel_gorsel_adet_d": 10,
+     "webp_d": 0
+    },
+    "sonra": {
+     "yerel_gorsel_kb_m": 89,
+     "yerel_gorsel_adet_m": 7,
+     "webp_m": 6,
+     "yerel_gorsel_kb_d": 15,
+     "yerel_gorsel_adet_d": 9,
+     "webp_d": 8
+    }
+   }
+  }
+ ]
+}
