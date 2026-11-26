@@ -14084,6 +14084,94 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Alexsandro_%E2%80%9EAlex%E2%80%9C_de_Souza_Fenerbah%C3%A7e%27de_gol_sevinci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "0f82e4d642c1c054": {
+   "icerik": {
+    "ana_kutu": [
+     280,
+     510,
+     660,
+     970
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "ağaç",
+     "yol",
+     "kaldırım"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sokaktan görünen eski binalar ve ağaçlar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": true,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "mimari",
+     "tarih",
+     "şehir"
+    ],
+    "uygunsuz_baglamlar": [
+     "gıda",
+     "politika",
+     "atama"
+    ],
+    "yazi_filigran": "kucuk",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41e54c342d5e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf tarihi bir bina gösteriyor, gıda teknolojisi veya siyasi çağrı ile ilgisi yok.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": true,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f0d2d1c491e1f05",
+    "sha": "de087b69d1dab71e45696725"
+   },
+   "t": "2026-11-26T14:42:36+03:00",
+   "teknik": {
+    "doygunluk": 0.0,
+    "inen": [
+     1280,
+     1035
+    ],
+    "karanlik_oran": 0.079,
+    "keskinlik": 1516,
+    "kontrast": 67,
+    "medyan": 156,
+    "parlaklik": 155,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/REAR_%28EAST_SIDE%29_OF_BUILDING_SHOWING_RECEIVING_COURT_AND_SOUTH_SIDE_OF_FOOD_PRESERVATION_AND_SANITATION_LABORATORY%2C_LOOKING_WEST-NORTHWEST_%28Harms%29_-_Dairy_Industry_Building%2C_HABS_IOWA%2C85-AMES%2C4-14.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "0fad2607e7696114": {
    "ozet": {
     "dh": "4e6351d551491901",
@@ -31950,6 +32038,32 @@
      },
      "t": "2026-11-25T13:09:28+03:00"
     },
+    "r1:d9f303f7a518:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakanlığın sorumlu yetkilisinin portresi haber için uygundur.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       39,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:46+03:00"
+    },
     "r1:fe943d4e8430:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -31981,7 +32095,7 @@
     "dh": "0c9c6063e0cc1595",
     "sha": "b2191efa3c1376511ac85137"
    },
-   "t": "2026-11-25T13:09:28+03:00",
+   "t": "2026-11-26T14:42:46+03:00",
    "teknik": {
     "doygunluk": 27.3,
     "inen": [
@@ -34343,6 +34457,40 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0f99b02277ac:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta fidan dikim olayı veya insanlar görünmüyor, sadece gece sahili gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": true
+       },
+       {
+        "unsur": "insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:41:30+03:00"
+    },
     "r1:7a188c8dfe84:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -34415,7 +34563,7 @@
     "dh": "ffffffffffcd0f1f",
     "sha": "8b45edef947a5ce5f7301555"
    },
-   "t": "2026-11-13T14:31:10+03:00",
+   "t": "2026-11-26T14:41:30+03:00",
    "teknik": {
     "doygunluk": 46.4,
     "inen": [
@@ -55055,6 +55203,106 @@
     "s": "t1"
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Stora_P%C3%B6lsan_%28PICT9775k%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "4128050f4cfb9603": {
+   "icerik": {
+    "ana_kutu": [
+     188,
+     41,
+     856,
+     331
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "fidan torbası",
+     "toprak",
+     "çalılık",
+     "orman yolu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Doğal arazide ellerinde fidan poşetleriyle yürþyen insanlar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "fidan dikimi haberi",
+     "çevre temizliği haberi",
+     "ormanlandırma projesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "kent merkezi olayları",
+     "kapalı alan toplantıları"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:0f99b02277ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğrafta arazide fidan taşıyan kişiler görünmektedir, haber konusuyla uyumludur.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": true
+       },
+       {
+        "unsur": "toprak",
+        "var": true
+       },
+       {
+        "unsur": "insanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       188,
+       41,
+       856,
+       331
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:13+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "6e1b09189d1627d6",
+    "sha": "b969861576d8f327013122f8"
+   },
+   "t": "2026-11-26T14:42:17+03:00",
+   "teknik": {
+    "doygunluk": 28.7,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.05,
+    "keskinlik": 5518,
+    "kontrast": 47,
+    "medyan": 131,
+    "parlaklik": 129,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg/1280px-Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "4131f5a44dbb28fc": {
    "ozet": {
@@ -81863,6 +82111,40 @@
     "yuzler": []
    },
    "iliski": {
+    "r1:0f99b02277ac:yer": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Geniş açılı coğrafi bir manzara olup fidan dikim etkinliğini ve insanları yansıtmamaktadır.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": false
+       },
+       {
+        "unsur": "toprak",
+        "var": true
+       },
+       {
+        "unsur": "insanlar",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:41:30+03:00"
+    },
     "r1:7a188c8dfe84:yer": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -81935,7 +82217,7 @@
     "dh": "0f1f0f0d394b1b5d",
     "sha": "674265f946cf02ab1fb4bb93"
    },
-   "t": "2026-11-13T14:31:06+03:00",
+   "t": "2026-11-26T14:41:30+03:00",
    "teknik": {
     "doygunluk": 25.9,
     "inen": [
@@ -85836,6 +86118,87 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Akdeniz%C3%9CniversiteStadyumu1.jpg/1280px-Akdeniz%C3%9CniversiteStadyumu1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "6828bfff943262ec": {
+   "icerik": {
+    "ana_kutu": [
+     414,
+     307,
+     786,
+     783
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "sokak lambası",
+     "otomobil",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Japonya'da bir bakanlık binasının dışarıdan görünümü",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "kurum haberleri",
+     "Japonya haberleri"
+    ],
+    "uygunsuz_baglamlar": [
+     "Antalya haberleri",
+     "hızlı tren haberleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:d9f303f7a518:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraftaki bina yabancı bir ülkeye (Japonya) ait olduğundan Türkiye'deki bakanlık için kullanılamaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:46+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "df9f9eb4e3e3baf9",
+    "sha": "b6b6ff90b5db08a0670a6fe1"
+   },
+   "t": "2026-11-26T14:42:46+03:00",
+   "teknik": {
+    "doygunluk": 45.1,
+    "inen": [
+     500,
+     326
+    ],
+    "karanlik_oran": 0.284,
+    "keskinlik": 1442,
+    "kontrast": 59,
+    "medyan": 108,
+    "parlaklik": 102,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ministry_of_Land_Infrastructure_Transport_and_Tourism_September_19_2021_various.jpeg/1280px-Ministry_of_Land_Infrastructure_Transport_and_Tourism_September_19_2021_various.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "6830529e73c72224": {
    "icerik": {
@@ -95358,6 +95721,41 @@
      },
      "t": "2026-11-26T11:11:30+03:00"
     },
+    "r1:f786587adf49:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf Alanyasporlu futbolcuyu gösteriyor ancak haber hakem atamasıyla ilgili ve maç görseli içermiyor.",
+      "gerekli": [
+       {
+        "unsur": "futbol maçı",
+        "var": false
+       },
+       {
+        "unsur": "hakem",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       71,
+       381,
+       1000,
+       642
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:43:08+03:00"
+    },
     "r1:f9e03d45f743:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -95384,7 +95782,7 @@
     "dh": "2626a44a46424142",
     "sha": "81c44c4d4bfdd0d1fcb15085"
    },
-   "t": "2026-11-26T13:11:01+03:00",
+   "t": "2026-11-26T14:43:08+03:00",
    "teknik": {
     "doygunluk": 51.8,
     "inen": [
@@ -106573,6 +106971,105 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Homes_in_Need_%2820220129-RD-LSC-0025%29.jpg/1280px-Homes_in_Need_%2820220129-RD-LSC-0025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "80f37907bfe6eca9": {
+   "icerik": {
+    "ana_kutu": [
+     5,
+     80,
+     1000,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 1,
+    "nesneler": [
+     "VR gözlük",
+     "bitki modeli",
+     "arazi",
+     "traktör"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "VR gözlüklü kişi tarım ve bitki grafikleri inceliyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "yapay_gorunumlu",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım teknolojisi",
+     "gıda",
+     "inovasyon"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyasetçi portresi",
+     "konferans"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      5,
+      390,
+      340,
+      610
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:41e54c342d5e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gıda ve tarım teknolojisini temsil eden uygun bir illüstrasyon/yapay görsel, ancak siyasetçi açıklaması için yetersiz.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       5,
+       80,
+       1000,
+       730
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 5,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "333231245e4e5ad7",
+    "sha": "3d12a110c9ca00c7a6060264"
+   },
+   "t": "2026-11-26T14:42:36+03:00",
+   "teknik": {
+    "doygunluk": 32.1,
+    "inen": [
+     500,
+     342
+    ],
+    "karanlik_oran": 0.231,
+    "keskinlik": 961,
+    "kontrast": 67,
+    "medyan": 104,
+    "parlaklik": 114,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Technology_Contributing_to_Agriculture.jpg/1280px-Technology_Contributing_to_Agriculture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "80ff9a94031f4b7e": {
    "icerik": {
@@ -125029,6 +125526,116 @@
    },
    "url": "https://images.unsplash.com/photo-1670615602571-c968749446c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8Zmx5aW5nJTIwYmFubmVyJTIwcGFyYWdsaWRpbmd8ZW58MXwwfHx8MTc5NDMwNTI4OHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
+  "9688566b90807d18": {
+   "icerik": {
+    "ana_kutu": [
+     121,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 6,
+    "nesneler": [
+     "fidan",
+     "toprak",
+     "ağaç"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Arazide fidan dikimi yapan insanlar ve yeni dikilmiş küçük fidanlar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "fidan dikme etkinliği",
+     "ağaçlandırma kampanyası"
+    ],
+    "uygunsuz_baglamlar": [
+     "kapalı alan etkinlikleri"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      216,
+      617,
+      269,
+      646
+     ],
+     [
+      289,
+      477,
+      332,
+      497
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:0f99b02277ac:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fidan dikimini temsil eden uygun bir sahne.",
+      "gerekli": [
+       {
+        "unsur": "fidan",
+        "var": true
+       },
+       {
+        "unsur": "toprak",
+        "var": true
+       },
+       {
+        "unsur": "insanlar",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       121,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:17+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "10d86ee9d12c8d65",
+    "sha": "3422ec5ca9e8a88bca73643b"
+   },
+   "t": "2026-11-26T14:42:17+03:00",
+   "teknik": {
+    "doygunluk": 25.0,
+    "inen": [
+     500,
+     230
+    ],
+    "karanlik_oran": 0.113,
+    "keskinlik": 6169,
+    "kontrast": 60,
+    "medyan": 132,
+    "parlaklik": 130,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Project-_Oneness_Vann_Site_an_Tree_Cluster_Created_by_Sant_Nirankari_Mission_%28A_view_of_planting_trees%29.jpg/1280px-Project-_Oneness_Vann_Site_an_Tree_Cluster_Created_by_Sant_Nirankari_Mission_%28A_view_of_planting_trees%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "968db00b2f07e2c8": {
    "icerik": {
     "ana_kutu": [
@@ -127105,6 +127712,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1581771085083-2353cf475ff5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NHx8c2VhcmNoJTIwYW5kJTIwcmVzY3VlJTIwZGl2ZXJzJTIwdHJhaW5pbmd8ZW58MXwwfHx8MTc5NTQzMTkyOHww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "98f198eb0e2ad6ec": {
+   "icerik": {
+    "ana_kutu": [
+     80,
+     90,
+     990,
+     990
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 2,
+    "nesneler": [
+     "stetoskop",
+     "tıbbi malzeme"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Doktor çocuk hastayı stetoskopla muayene ediyor",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "sağlık",
+     "hastane",
+     "tıp"
+    ],
+    "uygunsuz_baglamlar": [
+     "gıda",
+     "tarım",
+     "siyaset"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      80,
+      90,
+      580,
+      380
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:41e54c342d5e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Sağlık çalışanı ve hasta muayenesi gösteriyor, haberdeki gıda teknolojisi ve atama çağrısıyla alakasız.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "d1948cccd2461f9b",
+    "sha": "8a4d36435924d9b79a40746f"
+   },
+   "t": "2026-11-26T14:42:36+03:00",
+   "teknik": {
+    "doygunluk": 21.4,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.131,
+    "keskinlik": 1111,
+    "kontrast": 73,
+    "medyan": 142,
+    "parlaklik": 140,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/USNS_Comfort_hospital_ship_supports_local_health_clinic_%289141019%29.jpg/1280px-USNS_Comfort_hospital_ship_supports_local_health_clinic_%289141019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "99561dfaf9d2f06c": {
    "icerik": {
@@ -145384,6 +146084,27 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Horse_training_at_Riding_School-1_%2828857384072%29.jpg/1280px-Horse_training_at_Riding_School-1_%2828857384072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "b17dca1503450403": {
+   "ozet": {
+    "dh": "bf3f168b073f6996",
+    "sha": "95b97a149ea1a49f4bb1d175"
+   },
+   "t": "2026-11-26T14:42:42+03:00",
+   "teknik": {
+    "doygunluk": 41.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.453,
+    "keskinlik": 1228,
+    "kontrast": 67,
+    "medyan": 79,
+    "parlaklik": 92,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ministry_of_Land_Infrastructure_Transport_and_Tourism_September_19_2021_various_17_20_09_797000.jpeg/1280px-Ministry_of_Land_Infrastructure_Transport_and_Tourism_September_19_2021_various_17_20_09_797000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "b1814a2f9a8c9c88": {
    "icerik": {
@@ -172898,6 +173619,97 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/DSCF0458_A_vendor_waits_at_an_empty_stall_scrolling_their_phone_as_evening_market_lights_glow_and_shoppers_browse_in_the_background.jpg/1280px-DSCF0458_A_vendor_waits_at_an_empty_stall_scrolling_their_phone_as_evening_market_lights_glow_and_shoppers_browse_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "d4b72e1f6b308e4f": {
+   "icerik": {
+    "ana_kutu": [
+     230,
+     370,
+     700,
+     730
+    ],
+    "bulanik": false,
+    "cekim": "yakin",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "toprak ölçüm cihazı",
+     "toprak",
+     "bitki yaprağı"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Toprak üzerinde taşınabilir tarım ölçüm cihazı",
+    "sahne_turu": "nesne_urun",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "tarım teknolojisi",
+     "gıda üretimi",
+     "toprak analizi"
+    ],
+    "uygunsuz_baglamlar": [
+     "siyaset",
+     "atama"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:41e54c342d5e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tarım teknolojisi ürünü gösteriyor ancak haber Şerafettin Kılıç'ın açıklaması ve atama talebiyle ilgili olduğu için doğrudan uyuşmuyor.",
+      "gerekli": [
+       {
+        "unsur": "mikrofon",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       230,
+       370,
+       700,
+       730
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T14:42:36+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "ac200931306129aa",
+    "sha": "82cc974b20931d577c6bb91e"
+   },
+   "t": "2026-11-26T14:42:36+03:00",
+   "teknik": {
+    "doygunluk": 48.1,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.095,
+    "keskinlik": 6089,
+    "kontrast": 52,
+    "medyan": 117,
+    "parlaklik": 118,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/NutRE_portable_soil_sensing_device_in_field.jpg/1280px-NutRE_portable_soil_sensing_device_in_field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "d503f335dc699ae8": {
    "icerik": {
@@ -210340,7 +211152,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-10T18:38:55+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 1,
+   "kabul_sayisi": 2,
    "kaynak": {
     "atif": "Xavier Lejeune / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -210376,7 +211188,7 @@
    "qid": "Q97217596",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-10T18:38:55+03:00",
+   "son_kabul": "2026-11-26T14:42:46+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg/1280px-Abdulkadir_Uralo%C4%9Flu_23062026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
@@ -212622,6 +213434,68 @@
    "sinif": "konu",
    "son_kabul": "2026-11-21T13:31:38+03:00",
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bottle_of_olive_oil.jpg/1280px-Bottle_of_olive_oil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
+  "4128050f4cfb9603": {
+   "alt_tur": "nesne",
+   "boyut": [
+    6000,
+    4000
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Doğal arazide ellerinde fidan poşetleriyle yürþyen insanlar",
+   "gosterim_ad": "fidan dikimi",
+   "ilk_kabul": "2026-11-26T14:42:17+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "USFWS/Southeast / Wikimedia Commons (Public domain)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://commons.wikimedia.org/wiki/File:Volunteers_carry_trees_to_planting_sites_(37287300136).jpg",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Public domain",
+    "sahibi": "USFWS/Southeast",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Volunteers_carry_trees_to_planting_sites_(37287300136).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "fidan",
+    "fidan torbası",
+    "insanlar",
+    "orman yolu",
+    "toprak",
+    "çalılık"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg/500px-Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "fidan dikimi haberi",
+    "çevre temizliği haberi",
+    "ormanlandırma projesi"
+   ],
+   "kullanilamaz": [
+    "kent merkezi olayları",
+    "kapalı alan toplantıları"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "konu",
+   "son_kabul": "2026-11-26T14:42:17+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg/1280px-Volunteers_carry_trees_to_planting_sites_%2837287300136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "uygun_yerlesimler": [
     "manset",
     "yan",
