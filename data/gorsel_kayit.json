@@ -1628,5 +1628,387 @@
   ],
   "aday_sayisi": 10,
   "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:41:29+03:00",
+  "haber": "20261126-antalyada-kozmetik-dunyasini-bulusturacak-kongre-toplaniyor-1131b.md",
+  "baslik": "Antalya'da kozmetik dünyasını buluşturacak kongre toplanıyor",
+  "brief": {
+   "ana_konu": "Antalya'da düzenlenen kozmetik sektörü kongresi.",
+   "olmasi_gereken": [
+    "konferans salonu",
+    "katılımcılar",
+    "sunum"
+   ],
+   "varliklar": [
+    {
+     "ad": "Kozmetik Üreticileri ve Araştırmacıları Derneği",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "spor salonu",
+    "sahne gösterisi"
+   ],
+   "sorgular_en": [
+    "cosmetics conference presentation",
+    "beauty industry seminar Turkey"
+   ],
+   "sorgular_tr": [
+    "kozmetik kongresi",
+    "kozmetik sektörü toplantı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:1597531",
+    "url": "https://pixabay.com/get/g40e37c85652dc6e67d8951a27ef0edaca3728f12b099d18e870ebbd1b091dca556236fff67bdf385c51792c1eb57b2d793da9c54339027ab9d620842ba171270_1280.jpg",
+    "kaynak": "pixabay",
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-goz-hekimleri-60-ulusal-kongre-)"
+   },
+   {
+    "id": "pixabay:5382501",
+    "url": "https://pixabay.com/get/g4575180f096fa201d5cb50c4b18ec29561d25a2b95f8bff5f648e9cfa5478e1413e2acbade2a828a76647f7091260e89c954698e851354d22adba9ac9661e6f1_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "cosmetics conference presentation",
+    "puan": 6,
+    "gerekce": "Genel bir iş toplantısını gösteriyor, ancak doğrudan kozmetik sektörüyle veya kongreyle özel bir bağı yok.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:2181980",
+    "url": "https://pixabay.com/get/gd5dddbd22ddfb7f8e14293e92ad20479f809bdd79394f47de8553c447eb1f3c48aa193f909a631e0584e08c7491a91ea2eca5cde49319f25a6313e16cb55d5b0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "beauty industry seminar Turkey",
+    "puan": 5,
+    "gerekce": "Konferans salonu ortamını yansıtıyor fakat tamamen boş ve sektörel detay barındırmıyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:2181920",
+    "url": "https://pixabay.com/get/g9927c46c8648fc5118d37372f8d089bd82cf406ac88df37c82fa33d5c2fd6a4c0338ce078256c1076157ed63a54dd4eac0da1150d896d4179355378d651485d5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "beauty industry seminar Turkey",
+    "puan": 5,
+    "gerekce": "Toplantı odası konseptine uyuyor ancak katılımcı veya kongre atmosferi bulunmuyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:7978588",
+    "url": "https://pixabay.com/get/g5e87a79118dc7e0a4d1b3d48600b7edd1e80626a4d603f69dd0d4fa3a90b2d713975c6c60566ca77809840162d9c2a43a233e527b0e9ac060ec751f7175da308_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "cosmetics conference presentation",
+    "puan": 6,
+    "gerekce": "Sunum ve konferans ekipmanlarını gösteriyor, dolaylı olarak toplantı ortamını temsil ediyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:9162593",
+    "url": "https://pixabay.com/get/g2efbdc90eec1ee91990153c97a9c5fdb20c6987409a42b94adc2539da790ae6f829d975531a7276779c2eb49c9c23dba013d1609976aadcd51b592d7b34090f0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "beauty industry seminar Turkey",
+    "puan": 0,
+    "gerekce": "İngilizce kelime benzerliğinden kaynaklanan tamamen alakasız bir hayvan görseli, haberle ilgisi yok.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:2181951",
+    "url": "https://pixabay.com/get/gf803206c734badba7e3f3e6aa71132c540bf539884fe04b692ac1b421021da2a1e988a865b9cd9fd023713a04357762ddc4d2035390de4e1c0e2d9cf0fc0d46d_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "cosmetics conference presentation",
+    "puan": 5,
+    "gerekce": "Toplantı mekânını gösteriyor fakat katılımcısız ve genel amaçlı bir stok fotoğraf.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4856283",
+    "url": "https://pixabay.com/get/gaf9af4a895b51acad72922b7945d7156234efaf63c5c788aa1c93d44780cdb5c4c3489627bf364b5c761db28c8d3c67ab82cc01270202f2c94d8ef9f85b3526a_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "beauty industry seminar Turkey",
+    "puan": 4,
+    "gerekce": "Katılımcı kitleyi gösterse de coğrafi ve demografik olarak Türkiye'deki sektörel kongreye uygun değil.",
+    "neden": "puan 4 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Kozmetik Üreticileri ve Araştırmacıları Derneği): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&gene",
+   "Commons hatası (kozmetik kongresi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=kozmeti",
+   "Commons hatası (kozmetik sektörü toplantı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch"
+  ],
+  "aday_sayisi": 8,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:41:47+03:00",
+  "haber": "20261126-antalyada-7-belediye-meclis-uyesi-chpden-ak-partiye-katildi-ae041.md",
+  "baslik": "Antalya'da 7 belediye meclis üyesi CHP'den AK Parti'ye katıldı",
+  "brief": {
+   "ana_konu": "Antalya'da meclis üyelerinin AK Parti'ye katılımı",
+   "olmasi_gereken": [
+    "siyasetçiler",
+    "toplantı salonu"
+   ],
+   "varliklar": [
+    {
+     "ad": "AK Parti",
+     "tur": "kurum"
+    },
+    {
+     "ad": "Ali Çetin",
+     "tur": "kisi"
+    }
+   ],
+   "kacinilacaklar": [
+    "protesto",
+    "sokak gösterisi"
+   ],
+   "sorgular_en": [
+    "politicians meeting Turkey",
+    "political party ceremony"
+   ],
+   "sorgular_tr": [
+    "AK Parti toplantı",
+    "siyasetçi açıklaması"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:1979261",
+    "url": "https://pixabay.com/get/g47d4a4f92a57672c03d852c3ae3b678f5839096930ba7f9d800f7f517ac69f7872203000bc442b8614c5876f4a7b9973b4a433d56b8b6bd5d00153fb927cc3c3_1280.jpg",
+    "kaynak": "pixabay",
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-manavgatta-engelli-calisanlarin)"
+   },
+   {
+    "id": "pixabay:60629",
+    "url": "https://pixabay.com/get/gcb89b1ad188a93661c3b2df29ab290157924e7330ee47d9b9d87641e4e18263edce359d14ffc4f13ceb8ecd7b6e982dd_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "politicians meeting Turkey",
+    "puan": 2,
+    "gerekce": "Haberle ilgisiz tarihi bir figür içermektedir.",
+    "neden": "puan 2 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır); güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:4081760",
+    "url": "https://pixabay.com/get/g747add396ee3049b1240ca4a8e46e6da4966e698ab69860482fd9c12cfa6db3402c4e0019e01c648da236e9f3c668e46f7f0d3f433c2bab4d8e655939563f7df_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party ceremony",
+    "puan": 0,
+    "gerekce": "Haberin konusuyla tamamen alakasız bir düğün sahnesidir.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:10448876",
+    "url": "https://pixabay.com/get/g0b1fa402a5275a201cb73df4c9448b88f1defe9c92bb546896410d336b59f6eb57db2b1b8b3c6e7d956d0e02be33ebfbd4719573347a1fd5165a66b8ea88f3d4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "politicians meeting Turkey",
+    "puan": 5,
+    "gerekce": "Genel siyasi toplantı konseptine uysa da görseller yapay zeka veya yabancı figürler içeriyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:3483539",
+    "url": "https://pixabay.com/get/ge6a2cac3dfbd4c65f97e0e0b6d6146d6e6f3f694ae97fb8e4e5469be0b8999746d1d7bcae642b7010abdcb350d66c0dbabed300dc9e787a053c6ac1a9a94b511_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party ceremony",
+    "puan": 1,
+    "gerekce": "Siyasi parti katılım haberi için harita uygun değildir.",
+    "neden": "puan 1 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:3124375",
+    "url": "https://pixabay.com/get/ge6d94088e7c867c8ab0a5eb93e92be7e89dbfc7f3537dd31bf7cacede2777fba78a38f6d014041bf390af63af9835f759d51bc2c679ddecef45ecd721301533e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "politicians meeting Turkey",
+    "puan": 2,
+    "gerekce": "Haberin konusuyla doğrudan bir bağı bulunmamaktadır.",
+    "neden": "puan 2 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır); güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:4666556",
+    "url": "https://pixabay.com/get/g6cc2f6edca6d1156f197ce98836b68cf93ad3419064eff579ddcd05e03b5553d6efd652ce02fba343ae98908a8d8174a955108997be8306cae8147033b560f23_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party ceremony",
+    "puan": 0,
+    "gerekce": "Brief'te kaçınılması istenen sokak gösterisi ve protesto unsurunu içermektedir.",
+    "neden": "puan 0 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "pixabay:63009",
+    "url": "https://pixabay.com/get/g52a76d3ade36a6af1357c4b30744a5842b8dfdb6ad3f9a65173e5c02a60feb278e25ecbad214db6343c8e5852abf7fa8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "politicians meeting Turkey",
+    "puan": 1,
+    "gerekce": "Yabancı arşiv fotoğrafı, Türkiye'deki yerel siyaset haberiyle ilgisiz.",
+    "neden": "puan 1 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır); güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:67636",
+    "url": "https://pixabay.com/get/gffc4a5a56e1ab42be73452b3624f37a90fdf738225e341b9db70a38e360baff10260e34142c7b3d0d1e418097f2b1b20_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party ceremony",
+    "puan": 2,
+    "gerekce": "Askeri tören görseli, sivil siyasetçi transferi haberiyle uyuşmuyor.",
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "pixabay:556777",
+    "url": "https://pixabay.com/get/g406b4c7aaa0a520ef2fd43379641fe8bc3c06557fb540b88c57203151de606eb8b8641b191f47db8409d9e026f64a178_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party ceremony",
+    "puan": 0,
+    "gerekce": "Haberin siyasi içeriğiyle hiçbir bağı olmayan yaşam tarzı görselidir.",
+    "neden": "puan 0 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (AK Parti): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=AK+Parti+filetyp",
+   "Commons hatası (Ali Çetin): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Ali+%C3%87etin+",
+   "Commons hatası (AK Parti toplantı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=AK+Part",
+   "Commons hatası (siyasetçi açıklaması): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=siya"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:42:21+03:00",
+  "haber": "20261126-antalyali-sehit-askerlerin-naaslari-memleketine-ulasti-dad34.md",
+  "baslik": "Antalyalı şehit askerlerin naaşları memleketine ulaştı",
+  "brief": {
+   "ana_konu": "Eskişehir'deki helikopter kazasında şehit olan askerlerin Antalya'da karşılanması",
+   "olmasi_gereken": [
+    "askeri tören",
+    "Türk bayrağı"
+   ],
+   "varliklar": [
+    {
+     "ad": "Antalya",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "kaza enkazı",
+    "helikopter düşme anı",
+    "gözyaşı detayları"
+   ],
+   "sorgular_en": [
+    "military funeral Turkey",
+    "Turkish flag coffin ceremony"
+   ],
+   "sorgular_tr": [
+    "askeri tören",
+    "şehit cenazesi"
+   ],
+   "tarihi_haber": false,
+   "hassas": true
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:4795910",
+    "url": "https://pixabay.com/get/g1acfa29e357c29d9bd7f7fe66ed23b6c8886bd1f5d4fc9bb2854bcbb14b594ffb925e788baeb1c75392dd4ffadc99566823e879f7fc97ed8febfaf634aeb9ba4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "military funeral Turkey",
+    "puan": 2,
+    "gerekce": "Yabancı askerler ve ABD bayrağı yer alıyor, Türkiye'deki şehit haberiyle tamamen uyumsuz ve yanıltıcı.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_polis, kacinilacak"
+   },
+   {
+    "id": "pixabay:4223023",
+    "url": "https://pixabay.com/get/g108ccc9b730c547592a143bde1c3d593cff3e620ad7a5950174f95f5b6c7dac432c463205c7bd11dddd217e51899cea43b3a5834c5445b990b12c877e20a09f0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish flag coffin ceremony",
+    "puan": 2,
+    "gerekce": "Kanada bayrağı ve bando töreni var, milli şehit haberi için tamamen uygunsuz.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_bayrak, kacinilacak"
+   },
+   {
+    "id": "pixabay:4653166",
+    "url": "https://pixabay.com/get/g8cc86eb79cc4ce78685177fe2cf0f4969fbd4300247ac9bd08c741ec07c18b6d9ce1a3f51d78bf1c866c24ef669eb860194c77c58328a4862f4de6ac7cea9459_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "military funeral Turkey",
+    "puan": 3,
+    "gerekce": "Hristiyan mezarlığı ve haç sembolleri içeriyor, Türk askeri cenazesi haberine uygun değil.",
+    "neden": "puan 3 < 7; kesin ret: dini_yapi, kacinilacak"
+   },
+   {
+    "id": "pixabay:6913477",
+    "url": "https://pixabay.com/get/g1d9dfe1a743d416d03bd31ff99079133987c593971da0cd0c7c4615f1cb3788ba8bbf2545c621ad889bcdabb9657511bee26dfb167eb25498427a22262b9b853_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish flag coffin ceremony",
+    "puan": 4,
+    "gerekce": "Türk bayrağı ve uçak detayı kısmen tematik olsa da cenaze veya askeri tören unsuru barındırmıyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:8247278",
+    "url": "https://pixabay.com/get/gfd2ab6e2da7ec3abf652f794984b065913d2f43d15c7885e9cc6914cf4a33152c141cc460ddef18fcc93f255905fe42565e134b808e325e261b8e2a177ebd254_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "military funeral Turkey",
+    "puan": 4,
+    "gerekce": "Hüzün ve yas atmosferi verse de somut olarak askeri tören ve tabut içermiyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:5347106",
+    "url": "https://pixabay.com/get/g559239e42be6dd2b9aa67726acd8534a4b9d46c006014ae4c584b0b1f60193730c5b148e97296e4f8b3d604bb00610e38f82bdd38113296364e69f2a417454c4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish flag coffin ceremony",
+    "puan": 2,
+    "gerekce": "Amerikan bayrakları taşıyan kalabalık, Türkiye'deki şehit haberiyle uyuşmuyor.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_bayrak, kacinilacak"
+   },
+   {
+    "id": "pixabay:9162593",
+    "url": "https://pixabay.com/get/gef7763d605cdfa6a76f5372242e5e94209976cbef537436aafbce9fd744fa0ffd01d0dd2dc2c91dc82726145841de684978adfdad4dfba736ea896765badbd71_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "military funeral Turkey",
+    "puan": 0,
+    "gerekce": "İngilizce kelime benzerliğinden ('turkey') ötürü hindi görseli seçilmiş, haberle hiçbir ilgisi yok.",
+    "neden": "puan 0 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "pixabay:2421820",
+    "url": "https://pixabay.com/get/gf61a039267f8c1d5622f2efd5d1773797579671a88a8be289488a79d38d9a59099f8d464eee1aa24df6e4c414a80c7f10ca2d837da94cc370a638f903337acf4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish flag coffin ceremony",
+    "puan": 5,
+    "gerekce": "Tabut taşıma sahnesi genel bir cenazeyi yansıtıyor ancak Türk bayrağı görünmüyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:8390274",
+    "url": "https://pixabay.com/get/g6c73c8a0a748cab14cc616d81132ffbe4865400939407aaacb84c44e6935ffbd9d438237a8d6f355bf628ac42c795c0044edf8a2774fdc853a88eca24a915688_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "military funeral Turkey",
+    "puan": 1,
+    "gerekce": "Sadece doğa ve çiçek detayı, haberin konusuyla doğrudan bir bağ kurmuyor.",
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "pixabay:2421821",
+    "url": "https://pixabay.com/get/ga24947a77997ce768df5a08cd49feedb8c4bf04078057f67e76f51107bd3fce5cfbc39f5f5759ac6dadd2521e70c117b11221aa6e900db5489c04bc6a408b23d_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "Turkish flag coffin ceremony",
+    "puan": 4,
+    "gerekce": "Tabut ve cenaze aracı temaya uygun ancak Türk bayrağı sarılı değil.",
+    "neden": "puan 4 < 7"
+   }
+  ],
+  "notlar": [
+   "Antalya Valiliği sayfası aynı haber değil (benzerlik %5)",
+   "Commons hatası (Antalya): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Antalya+filetype%",
+   "Commons hatası (askeri tören): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=askeri+t%C3%",
+   "Commons hatası (şehit cenazesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%C5%9Fehit"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
  }
 ]

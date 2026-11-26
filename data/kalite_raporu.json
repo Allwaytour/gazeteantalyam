@@ -87,6 +87,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.0,
    "islenen": 4
+  },
+  {
+   "tarih": "2026-11-26T19:41:03+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 3,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -392,6 +405,63 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 22:46)"
+  },
+  {
+   "tarih": "2026-11-26T19:41:29+03:00",
+   "baslik": "Antalya'da kozmetik dünyasını buluşturacak kongre toplanıyor",
+   "kaynak": "Fuar Dergisi",
+   "kaynak_url": "https://www.fuardergisi.com.tr/kozmetik-sektorunun-onde-gelen-isimleri-antalyada-bir-araya-geliyor",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalyada-kozmetik-dunyasini-bulusturacak-kongre-toplaniyor-1131b.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T19:41:47+03:00",
+   "baslik": "Antalya'da 7 belediye meclis üyesi CHP'den AK Parti'ye katıldı",
+   "kaynak": "Akdenizmanset",
+   "kaynak_url": "https://www.akdenizmanset.com.tr/antalyada-7-meclis-uyesi-daha-ak-partiye-gecti",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalyada-7-belediye-meclis-uyesi-chpden-ak-partiye-katildi-ae041.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T19:42:21+03:00",
+   "baslik": "Antalyalı şehit askerlerin naaşları memleketine ulaştı",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/antalyali-2-sehidin-cenazeleri-baba-ocagina-getirildi-119533358",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalyali-sehit-askerlerin-naaslari-memleketine-ulasti-dad34.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
   }
  ]
 }
