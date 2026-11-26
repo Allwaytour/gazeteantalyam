@@ -1,0 +1,48 @@
+{{ define "main" }}
+{{/* Toplu kalite taraması raporu (/kalite-raporu/) ve örnek vakalar testi (/kalite-testi/). Arama motorlarına kapalı.
+     Veri: data/toplu_kalite/oneriler.json ya da data/kalite_test.json (scripts/toplu_kalite.py). */}}
+{{ $r := cond (eq .Params.veri "test") site.Data.kalite_test site.Data.toplu_kalite.oneriler }}
+<style>
+.kr{max-width:1100px;margin:0 auto;font-size:15px}.kr h1{margin:.4em 0}.kr .oz{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.kr .oz span{background:#f3efe9;border-radius:6px;padding:6px 10px}.kr .h{border:1px solid #ddd;border-radius:8px;padding:14px;margin:14px 0}
+.kr .h h3{margin:0 0 6px;font-size:17px}.kr .gg{display:grid;grid-template-columns:1fr 1fr;gap:14px}.kr figure{margin:0}
+.kr figure img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:6px;background:#eee}.kr .p{font-weight:700}
+.kr .ok{color:#1a7f37}.kr .no{color:#b42318}.kr small{color:#555}.kr ul{margin:6px 0 0 18px;padding:0}.kr .red{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.kr .red div{width:120px;font-size:11px}.kr .red img{width:120px;height:75px;object-fit:cover;border-radius:4px}.kr code{font-size:12px}
+@media(max-width:700px){.kr .gg{grid-template-columns:1fr}}
+</style>
+<div class="kr">
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ with $r }}
+{{ with .ozet }}<div class="oz">{{ range $k, $v := . }}<span>{{ $k }}: <b>{{ $v }}</b></span>{{ end }}</div>{{ end }}
+{{ range $ad, $o := .oneriler }}
+<div class="h">
+  <h3>{{ with $o.metin.title }}<span class="no"><s>{{ .once }}</s></span><br><span class="ok">{{ .sonra }}</span>{{ else }}{{ $o.baslik }}{{ end }}</h3>
+  <small><code>{{ $ad }}</code> · durum: {{ $o.durum }}{{ with $o.bekliyor }} · bekliyor: {{ . }}{{ end }}</small>
+  {{ with $o.engeller }}<p class="no">Yayını engelleyen sorun (karantina önerisi): {{ delimit . "; " }}</p>{{ end }}
+  {{ with $o.metin_degisiklikleri }}<p><b>Metin değişiklikleri</b></p><ul>{{ range first 30 . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+  {{ with $o.metin.ozet }}<p><b>Spot</b><br><s>{{ .once }}</s><br>{{ .sonra }}</p>{{ end }}
+  {{ with $o.metin.etiketler }}<p><b>Etiketler</b>: <s>{{ delimit .once ", " }}</s> → {{ delimit .sonra ", " }}</p>{{ end }}
+  {{ with $o.adres }}<p><b>Adres</b>: <code>{{ .once }}</code> → <code>{{ .sonra }}</code> (eski adres yönlendirilir)</p>{{ end }}
+  {{ with $o.gorsel }}{{ $g := . }}
+  <div class="gg">
+    <figure>{{ with .once.url }}<img src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}
+      <figcaption><b>Önce</b>{{ with .once.puan }} · <span class="p {{ cond (ge . 7) "ok" "no" }}">{{ . }}/10</span>{{ end }}<br>
+      <small>{{ .once.gerekce }}{{ with .once.neden }} — {{ . }}{{ end }}{{ with .once.ihlaller }} [{{ delimit . ", " }}]{{ end }}</small></figcaption></figure>
+    <figure>{{ if eq .karar "yenilendi" }}<img src="{{ .sonra.url }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption><b>Sonra</b> · <span class="p ok">{{ .sonra.puan }}/10</span> · {{ .sonra.kaynak }} <small>(sorgu: {{ .sonra.sorgu }})</small><br>
+      <small>{{ .sonra.gerekce }}<br>Alt metin: {{ .sonra.gorunen }}</small></figcaption>
+    {{ else if eq .karar "baslik_karti" }}<div style="aspect-ratio:16/10;background:#22343C;color:#fff;border-radius:6px;display:flex;align-items:center;justify-content:center;padding:12px;text-align:center">Logolu başlık kartı</div>
+      <figcaption><b>Sonra</b>: başlık kartı<br><small>{{ .sonuc }}</small></figcaption>
+    {{ else if eq .karar "korundu" }}<figcaption><b>Korunur</b> (eşiği geçti)<br><small>Yeni alt metin: {{ .alt_sonra }}</small></figcaption>
+    {{ else }}<figcaption><small>{{ .karar | default "değerlendirme bekliyor" }}</small></figcaption>{{ end }}</figure>
+  </div>
+  {{ with .brief }}<p><small><b>Brief</b>: {{ .ana_konu }} · olmalı: {{ delimit .olmasi_gereken ", " }} · kaçınılacak: {{ delimit .kacinilacaklar ", " }} · sorgular: {{ delimit .sorgular_en " | " }}</small></p>{{ end }}
+  {{ with .reddedilen }}<details><summary><small>Reddedilen adaylar ({{ len . }})</small></summary><div class="red">{{ range . }}<div>{{ if .url }}<img src="{{ .url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}{{ with .puan }}<b>{{ . }}/10</b> {{ end }}{{ .neden }}{{ with .gerekce }} — {{ . }}{{ end }}</div>{{ end }}</div></details>{{ end }}
+  {{ end }}
+</div>
+{{ end }}
+{{ else }}<p>Rapor henüz oluşturulmadı.</p>{{ end }}
+</div>
+{{ end }}
