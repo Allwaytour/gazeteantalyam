@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{/* Yalnızca tasarım karşılaştırma ekran görüntüleri için (sitede yayımlanmaz): aynı haberlerin kartları ve manşet yanı kartları */}}
+{{ $hepsi := partialCached "haberler.html" . "hepsi" }}
+<div class="kap" style="padding-top:12px">
+<h1 style="font-size:20px;margin:0 0 12px">Örnek kartlar</h1>
+<div class="izgara-4" id="ornek-kartlar">{{ range .Params.ornekler }}{{ $d := .dosya }}{{ range $hepsi }}{{ if in .link $d }}{{ partial "hk.html" (merge . (dict "tip" "kart")) }}{{ end }}{{ end }}{{ end }}</div>
+<h2 style="font-size:18px;margin:24px 0 12px">Manşet yanı kartı</h2>
+<div id="ornek-yan" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px">{{ range first 2 .Params.ornekler }}{{ $d := .dosya }}{{ range $hepsi }}{{ if in .link $d }}<div class="manset-yan" style="grid-template-rows:200px">{{ partial "yan-kart.html" . }}</div>{{ end }}{{ end }}{{ end }}</div>
+</div>
+{{ end }}
