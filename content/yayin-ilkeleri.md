@@ -1,6 +1,7 @@
 ---
 title: "Yayın İlkeleri"
 url: "/yayin-ilkeleri/"
+aliases: ["/fotograf-kaynaklari/"]
 kurumsal: true
 description: "Gazete Antalya'nın yayın ilkeleri: bağımsızlık, doğrulama, yanıt hakkı, reklamın haberden ayrılması, çocuk ve mağdurların korunması, fotoğraf kaynakları."
 ---
