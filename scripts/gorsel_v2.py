@@ -150,8 +150,17 @@ def brief_istegi(haberler):
 
 
 # ----------------------------------------------------------------- görsel kimliği ve tekrar engeli
+def iz(gid):
+    """Görselin kaynağını içermeyen kimlik (tekrar denetimi için): kaynak adı ve dosya numarası kayda geçmez."""
+    g = str(gid or "")
+    return g if re.fullmatch(r"[0-9a-f]{16}", g) else hashlib.sha1(g.encode()).hexdigest()[:16]
+
+
 def gorsel_id(url):
     u = str(url or "")
+    m = re.search(r"/images/haber-gorsel/([0-9a-f]{16})\.jpg", u)
+    if m:
+        return m.group(1)
     m = re.search(r"images\.unsplash\.com/(photo-[A-Za-z0-9_-]+)", u)
     if m:
         return "unsplash:" + m.group(1)
@@ -208,7 +217,7 @@ class Kullanim:
                 for m in re.finditer(r"(?m)^(?:gorsel|  kimlik): ['\"]?([^'\"\n]+)", bas):
                     g = m.group(1).strip()
                     if g and "/images/kategori/" not in g:
-                        self.site.setdefault(gorsel_id(g), []).append(ad)
+                        self.site.setdefault(iz(gorsel_id(g)), []).append(ad)
             except Exception:
                 pass
 
@@ -217,19 +226,21 @@ class Kullanim:
         return [k for k in self.veri.get("kayitlar", []) if k.get("tarih", "") >= sinir]
 
     def tekrar_mi(self, gid, ph, haric_haber=""):
+        gid = iz(gid)
         for ad in self.site.get(gid, []):
             if ad != haric_haber:
                 return f"aynı görsel son {TEKRAR_GUN} günde kullanıldı ({ad[:40]})"
         for k in self.yakin():
             if k.get("haber") == haric_haber:
                 continue
-            if k.get("id") == gid:
+            if iz(k.get("id")) == gid:
                 return f"aynı görsel son {TEKRAR_GUN} günde kullanıldı ({str(k.get('haber'))[:40]})"
             if ph and k.get("phash") and hash_uzaklik(ph, k["phash"]) <= PHASH_ESIK:
                 return f"son {TEKRAR_GUN} günde kullanılan bir görsele çok benzer ({str(k.get('haber'))[:40]}, pHash farkı {hash_uzaklik(ph, k['phash'])})"
         return ""
 
     def ekle(self, gid, ph, haber):
+        gid = iz(gid)
         self.veri.setdefault("kayitlar", []).append({"id": gid, "phash": ph, "tarih": simdi().isoformat(timespec="seconds"), "haber": haber})
         self.site.setdefault(gid, []).append(haber)
         sinir = (simdi() - timedelta(days=TEKRAR_GUN + 30)).isoformat()
@@ -443,7 +454,7 @@ def kalici_kaydet(oturum, a):
     r.raise_for_status()
     im = Image.open(io.BytesIO(r.content)).convert("RGB")
     im.thumbnail((1600, 1600))
-    ad = re.sub(r"[^a-z0-9]+", "-", a["id"].lower())[:60].strip("-") + "-" + hashlib.sha1(a["url"].encode()).hexdigest()[:8] + ".jpg"
+    ad = iz(a["id"]) + ".jpg"                      # dosya adında kaynak adı/numarası yok
     os.makedirs(CIKTI, exist_ok=True)
     im.save(os.path.join(CIKTI, ad), "JPEG", quality=84, optimize=True, progressive=True)
     return WEB + ad
@@ -582,7 +593,7 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
         except Exception as e:
             kayit["sonuc"] = f"seçilen görsel indirilemedi: {e}"[:200]
             return None, kayit
-        kayit["secilen"] = {k: en_iyi.get(k) for k in ("id", "yerel_url", "kaynak", "sorgu", "puan", "gerekce", "gorunen", "sahip", "lisans", "sayfa",
+        kayit["secilen"] = {k: en_iyi.get(k) for k in ("id", "yerel_url", "kaynak", "puan", "gerekce", "gorunen",
                                                        "taninir_yuz", "cekim_yili")}
         kayit["secilen"]["onizleme"] = en_iyi.get("kucuk") if en_iyi["kaynak"] != "kurum" else en_iyi["url"]
         kayit["sonuc"] = f"seçildi ({en_iyi['puan']}/10, {en_iyi['kaynak']})"
@@ -592,27 +603,51 @@ def sec(hb, brief, gemini_fn, kullanim, haber_adi="", oturum=None, onbellek=None
 
 
 def secim_kaydi(a, konu_imza="", tarihi=False):
-    """Seçilen adayı gorsel_sec.secimi_uygula biçimine çevirir. Sitede kaynak/fotoğrafçı gösterilmez: görsel altında yalnızca
-    "Temsilî fotoğraf" ya da "Arşiv fotoğrafı, [yıl]" yazar (kurumun aynı habere ait fotoğrafında hiçbir şey yazmaz).
-    Kanıt (kaynak sayfa, sahip, lisans, alınma tarihi) 'kanit' alanında ön bilgiye yazılır."""
+    """Seçilen adayı gorsel_sec.secimi_uygula biçimine çevirir. Sitede görselin altında hiçbir yazı gösterilmez ve görselin kaynağı,
+    sahibi, lisansı hiçbir yere yazılmaz (yayın sorumlusu kararı, 26.11.2026). Yalnızca kaynaksız tekrar kimliği (iz) ve pHash
+    döner; bunlar ön bilgiye yazılmaz, data/gorsel_kullanim.json'daki 60 günlük tekrar denetiminde kullanılır."""
     if a["kaynak"] == "kurum":
-        tur, alt_yazi = "gercek", ""
+        tur = "gercek"
     elif tarihi and str(a.get("donem", "")).startswith("eski"):
-        tur, alt_yazi = "arsiv", "Arşiv fotoğrafı" + (f", {a['cekim_yili']}" if a.get("cekim_yili") else "")
+        tur = "arsiv"
     else:
-        tur, alt_yazi = "stok", "Temsilî fotoğraf"
+        tur = "stok"
     simdi_ = simdi().isoformat(timespec="seconds")
-    return {"tur": tur, "gorsel": a.get("yerel_url") or a["url"], "gorsel_kredi": alt_yazi, "durum": "onaylandi",
-            "gosterilen": a.get("gorunen") or a.get("aciklama", "")[:110], "aciklama": "", "fotografci": "", "kaynak_sayfa": "",
+    return {"tur": tur, "gorsel": a.get("yerel_url") or a["url"], "gorsel_kredi": "", "durum": "onaylandi",
+            "gosterilen": a.get("gorunen") or "", "aciklama": "", "fotografci": "", "kaynak_sayfa": "",
             "gerekce": f"Görsel puanı {a.get('puan')}/10: {a.get('gerekce', '')}", "hat": SURUM, "surum": SURUM, "konu_imza": konu_imza,
-            "kontrol": {"yapildi": True, "sonuc": "uygun", "puan": a.get("puan"), "esik": ESIK, "gerekce": a.get("gerekce", ""), "sorgu": a.get("sorgu", ""),
-                        "tarih": simdi_},
-            "kanit": {"kaynak": a["kaynak"], "sayfa": a.get("sayfa", ""), "sahip": a.get("sahip", ""), "lisans": a.get("lisans", ""),
-                      "lisans_kaniti": a.get("lisans_kaniti", ""), "orijinal_url": a.get("orijinal") or a["url"], "alinma_tarihi": simdi_,
-                      "kimlik": a["id"], "phash": a.get("phash", ""), "puan": a.get("puan")}}
+            "kontrol": {"yapildi": True, "sonuc": "uygun", "puan": a.get("puan"), "esik": ESIK, "gerekce": a.get("gerekce", ""), "tarih": simdi_},
+            "kimlik": iz(a["id"]), "phash": a.get("phash", "")}
+
+
+KAYNAK_ALANLARI = ("sayfa", "sahip", "lisans", "lisans_kaniti", "orijinal", "orijinal_url", "kaynak_sayfa", "fotografci", "exif", "aciklama",
+                   "dayanak", "kosul", "kredi", "sorgu", "kurum")
+
+
+def kaynaksiz(d, onizleme=False):
+    """Kayıttan görselin kaynağını/sahibini/lisansını gösteren alanlar çıkarılır. onizleme=False iken adres de çıkarılır
+    (kalıcı kayıt); onay raporlarında yalnızca önizleme adresi kalır (rapor sayfası iş bitince kaldırılır)."""
+    if not isinstance(d, dict):
+        return d
+    out = {k: v for k, v in d.items() if k not in KAYNAK_ALANLARI}
+    if "id" in out:
+        out["id"] = iz(out["id"])
+    if not onizleme:
+        for k in ("url", "onizleme", "kucuk", "yerel_url"):
+            out.pop(k, None)
+    return out
+
+
+def kalici_kayit(k):
+    """Kalıcı karar kaydı (data/gorsel_kayit.json): görselin kaynağı, adresi, sahibi, lisansı yazılmaz; yalnızca karar ve puanlar."""
+    sec = kaynaksiz(k.get("secilen") or {}) or {}
+    sec.pop("kaynak", None)
+    return {"tarih": k.get("tarih"), "haber": k.get("haber"), "baslik": k.get("baslik"), "sonuc": k.get("sonuc"), "aday_sayisi": k.get("aday_sayisi"),
+            "secilen": sec, "reddedilen": [{"id": iz(r.get("id")), "puan": r.get("puan"), "neden": r.get("neden")} for r in k.get("reddedilen") or []]}
 
 
 def kayit_yaz(kayitlar):
+    kayitlar = [kalici_kayit(k) for k in kayitlar]
     try:
         with open(KAYIT_DOSYA, encoding="utf-8") as f:
             eski = json.load(f)

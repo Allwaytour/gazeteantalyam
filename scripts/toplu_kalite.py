@@ -66,12 +66,57 @@ def yaz(r, yol=CIKTI):
     gk = lambda x: (x.get("gorsel") or {}).get("karar")  # noqa: E731
     r["ozet"] = {"guncelleme": simdi(), "islenen": len(o), "toplu_grup": sum(1 for x in o if x.get("grup") == "toplu" and x.get("degisiklik_var")),
                  "tek_tek_grup": sum(1 for x in o if x.get("grup") == "tek"), "degisiklik_yok": sum(1 for x in o if not x.get("degisiklik_var")),
-                 "gorsel_yenilenen": sum(1 for x in o if gk(x) == "yenilendi"), "gorselsiz_kalacak": sum(1 for x in o if gk(x) in ("gorselsiz", "kaldir")),
+                 "gorsel_yenilenen": sum(1 for x in o if gk(x) == "yenilendi"), "yayindan_kaldirilacak": sum(1 for x in o if gk(x) in ("gorselsiz", "kaldir")),
+                 "kaynak_kaydi_silinecek": sum(1 for x in o if x.get("kaynak_kaydi") and x.get("durum") != "uygulandi"),
                  "gorsel_korunan": sum(1 for x in o if gk(x) == "korundu"), "karantina_onerisi": sum(1 for x in o if x.get("engeller")),
                  "adres_degisen": sum(1 for x in o if x.get("adres")), "bekleyen": sum(1 for x in o if x.get("bekliyor")),
                  "uygulanan": sum(1 for x in o if x.get("durum") == "uygulandi")}
     with open(yol, "w", encoding="utf-8") as f:
         json.dump(r, f, ensure_ascii=False, indent=1)
+
+
+# Görselin kaynağını/sahibini/lisansını tutan gizli ön bilgi alanları (yayın sorumlusu kararı 26.11.2026: kaynak yazılmaz, kayıt tutulmaz)
+KAYNAK_KAYIT_ALANLARI = ("gorsel_kanit", "gorsel_onceki", "gorsel_gecmis", "gorsel_alternatif", "gorsel_yedek", "gorsel_kaldirilan",
+                         "gorsel_bekleyen", "gorsel_kredi")
+KAYNAK_SECIM_ALANLARI = ("kaynak_sayfa", "fotografci", "kredi", "lisans", "lisans_dayanagi", "kosul", "aciklama", "qid", "izin_kontrolu",
+                         "izin_kapsami", "kaynak_aciklama", "kurum_notu", "kredi_etiket", "onay", "inceleme")
+KALDIRMA_NEDENI = "Yayın ilkelerimize uygun görsel bulunamadı."
+
+
+ESKI_DOSYA_ADI = re.compile(r"/images/haber-gorsel/((?:pixabay|commons|unsplash|pexels|kurum)[^/]*\.jpg)$")
+
+
+def kaynak_kaydi_var(v):
+    s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
+    return bool(ESKI_DOSYA_ADI.search(str(v.get("gorsel") or ""))) or any(v.get(k) for k in KAYNAK_KAYIT_ALANLARI) or any(s.get(k) for k in KAYNAK_SECIM_ALANLARI) or \
+        bool((s.get("kontrol") or {}).get("sorgu") if isinstance(s.get("kontrol"), dict) else False)
+
+
+def kaynak_temizle(v):
+    """Ön bilgiden görselin kaynağını/sahibini/lisansını/eski görsellerini gösteren alanlar silinir (görsel ve yerleşimi kalır).
+    Görselin dosya adında kaynak adı varsa (pixabay-123-....jpg) dosya kaynaksız adla yeniden adlandırılır."""
+    m = ESKI_DOSYA_ADI.search(str(v.get("gorsel") or ""))
+    if m:
+        eski = os.path.join(g2.CIKTI, m.group(1))
+        yeni_ad = g2.iz(g2.gorsel_id(v["gorsel"])) + ".jpg"
+        if os.path.exists(eski):
+            if not os.path.exists(os.path.join(g2.CIKTI, yeni_ad)):
+                os.rename(eski, os.path.join(g2.CIKTI, yeni_ad))
+            yeni = g2.WEB + yeni_ad
+            for alan in ("gorsel_yerlesim",):
+                if isinstance(v.get(alan), dict) and v[alan].get("url") == v["gorsel"]:
+                    v[alan]["url"] = yeni
+            if isinstance(v.get("gorsel_secim"), dict) and v["gorsel_secim"].get("gorsel_url") == v["gorsel"]:
+                v["gorsel_secim"]["gorsel_url"] = yeni
+            v["gorsel"] = yeni
+    for k in KAYNAK_KAYIT_ALANLARI:
+        v.pop(k, None)
+    s = v.get("gorsel_secim")
+    if isinstance(s, dict):
+        for k in KAYNAK_SECIM_ALANLARI:
+            s.pop(k, None)
+        if isinstance(s.get("kontrol"), dict):
+            s["kontrol"].pop("sorgu", None)
 
 
 GORSEL_ALANLARI = ("gorsel", "gorsel_kredi", "gorsel_tur", "gorsel_secim", "gorsel_yerlesim", "gorsel_konum", "gorsel_alternatif",
@@ -240,6 +285,22 @@ def _tarih(v):
         return None
 
 
+def grupla(o, v):
+    """Önerinin onay grubu: tek tek (görsel değişikliği, kaldırma, karantina, anlam düzeltmesi, kişi, hassas) ya da toplu (mekanik)."""
+    g = o.get("gorsel") or {}
+    o["kaynak_kaydi"] = kaynak_kaydi_var(v)
+    o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or o["kaynak_kaydi"]
+                               or (g.get("karar") == "korundu" and g.get("alt_sonra")))
+    kisi = bool((g.get("sonra") or {}).get("taninir_yuz") or (g.get("once") or {}).get("taninir_yuz") and g.get("karar") == "korundu")
+    tek = g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o.get("hassas")
+    o["grup"] = "bekliyor" if o.get("bekliyor") else "tek" if tek else "toplu"
+    o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"),
+                                       ("uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)", g.get("karar") in ("gorselsiz", "kaldir")),
+                                       ("karantina önerisi", bool(o.get("engeller"))), ("anlam düzeyinde yazım düzeltmesi", not o.get("metin_mekanik", True)),
+                                       ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o.get("hassas")),
+                                       ("gizli görsel kaynak kayıtları silinir", o["kaynak_kaydi"])) if k]
+
+
 # ----------------------------------------------------------------- rapor
 def rapor(args):
     yol = args.cikti or CIKTI
@@ -335,29 +396,29 @@ def rapor(args):
         if gk.get("hata"):
             o["bekliyor"] = gk.get("sonuc")
             continue
-        o["gorsel"].update(brief=brief, reddedilen=gk.get("reddedilen", [])[:12], notlar=gk.get("notlar", [])[:6])
+        o["gorsel"].update(brief=brief, reddedilen=[g2.kaynaksiz(x, onizleme=True) for x in gk.get("reddedilen", [])[:12]],
+                           notlar=gk.get("notlar", [])[:6])
         if a:
             o["gorsel"]["karar"] = "yenilendi"
-            o["gorsel"]["sonra"] = dict(gk.get("secilen") or {})
+            o["gorsel"]["sonra"] = g2.kaynaksiz(dict(gk.get("secilen") or {}), onizleme=True)
             o["gorsel"]["secim"] = g2.secim_kaydi(a, gs.konu_imzasi(hb["baslik"], hb["spot"], hb["kategori"]), brief.get("tarihi_haber"))
             kullanim.ekle(a["id"], a.get("phash", ""), ad)
         else:
-            o["gorsel"]["karar"] = "gorselsiz"         # eski haber yayından kalkmaz; uygun görsel yoksa görselsiz kalır
+            o["gorsel"]["karar"] = "kaldir"            # görselsiz haber kullanılmaz: haber yayından kaldırılır (adreste not, Düzeltmeler listesi)
             o["gorsel"]["sonuc"] = gk.get("sonuc")
     for ad, (o, v, govde) in yeni.items():                         # 4) gruplar
-        g = o.get("gorsel") or {}
-        kredi_degisir = g.get("karar") == "korundu" and (v.get("gorsel_kredi") or "").startswith(("Fotoğraf", "Arşiv fotoğrafı:", "Görsel:", "Temsili fotoğraf:"))
-        if kredi_degisir:
-            g["kredi_sonra"] = "Temsilî fotoğraf" if v.get("gorsel_tur") == "stok" else ""
-        o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or kredi_degisir
-                                   or (g.get("karar") == "korundu" and g.get("alt_sonra")))
-        kisi = bool((g.get("sonra") or {}).get("taninir_yuz") or (g.get("once") or {}).get("taninir_yuz") and g.get("karar") == "korundu")
-        tek = g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o["hassas"]
-        o["grup"] = "bekliyor" if o.get("bekliyor") else "tek" if tek else "toplu"
-        o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"), ("uygun görsel yok: haber görselsiz kalacak", g.get("karar") in ("gorselsiz", "kaldir")),
-                                           ("karantina önerisi", bool(o.get("engeller"))), ("anlam düzeyinde yazım düzeltmesi", not o.get("metin_mekanik", True)),
-                                           ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o["hassas"])) if k]
+        grupla(o, v)
         r["oneriler"][ad] = o
+    for ad, o in r["oneriler"].items():
+        if ad in yeni or o.get("durum") == "uygulandi" or not os.path.exists(os.path.join(gs.HABER_KLASOR, ad)):
+            continue
+        g = o.get("gorsel") or {}
+        if g.get("karar") == "gorselsiz":
+            g["karar"] = "kaldir"
+        try:
+            grupla(o, gs.md_oku(os.path.join(gs.HABER_KLASOR, ad))[0])
+        except Exception as e:
+            print("Yeniden gruplanamadı:", ad, e)
     if not args.dosyalar:
         kullanim.kaydet()
     yaz(r, yol)
@@ -397,29 +458,24 @@ def uygula(args):
             govde = m["govde"]["sonra"] + "\n"
         g = o.get("gorsel") or {}
         if g.get("karar") == "yenilendi" and g.get("secim"):
-            gs.secimi_uygula(v, g["secim"])
-            v["gorsel_kanit"] = g["secim"].get("kanit")
-            for k in ("gorsel_alternatif", "gorsel_yedek"):
-                v.pop(k, None)
-            kullanim.ekle(g["secim"]["kanit"]["kimlik"], g["secim"]["kanit"].get("phash", ""), ad)
+            sec = dict(g["secim"])
+            kimlik, ph = sec.pop("kimlik", "") or (sec.get("kanit") or {}).get("kimlik", ""), sec.pop("phash", "") or (sec.get("kanit") or {}).get("phash", "")
+            sec.pop("kanit", None)
+            gs.secimi_uygula(v, sec)
+            kullanim.ekle(kimlik or g2.gorsel_id(sec["gorsel"]), ph, ad)
         elif g.get("karar") in ("gorselsiz", "kaldir"):
-            # Eski haber görsel yüzünden yayından kalkmaz: görsel ve görselle ilgili bütün alanlar (yedek tipografik kart, alternatif
-            # adaylar dahil) kaldırılır, haber görselsiz kalır. Eski görsel kanıt olarak gorsel_kaldirilan alanında saklanır.
-            eski = {k: v.pop(k) for k in GORSEL_ALANLARI if k in v}
-            v["gorsel_kaldirilan"] = {"tarih": simdi(), "neden": "yeni görsel kurallarına uygun görsel bulunamadı (toplu kalite taraması)",
-                                      "gorsel": eski.get("gorsel", ""), "kredi": eski.get("gorsel_kredi", ""), "tur": eski.get("gorsel_tur", "")}
-            v["gorsel_kilit"] = True          # eski otomatik görsel hatları bu habere yeniden görsel atamasın
-        elif g.get("karar") == "korundu":
-            s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else {}
-            if "kredi_sonra" in g:
-                v.setdefault("gorsel_kanit", {"kaynak": (g.get("once") or {}).get("kaynak", ""), "sayfa": s.get("kaynak_sayfa", ""),
-                                              "sahip": s.get("fotografci", ""), "lisans": s.get("lisans", ""), "eski_kredi": v.get("gorsel_kredi", ""),
-                                              "alinma_tarihi": (s.get("onay") or {}).get("tarih", "")})
-                v["gorsel_kredi"] = g["kredi_sonra"]
-                if s:
-                    s.update(fotografci="", kaynak_sayfa="", aciklama="")
-            if g.get("alt_sonra") and s:
+            # Görselsiz haber kullanılmaz: haber silinmez, yayından kaldırılır; adresinde tarihli not durur ve Düzeltmeler sayfasında
+            # listelenir (scripts/elle_duzelt.py listelerden çıkarır, data/kaldirilan.json'u yazar).
+            v["kaldirildi"] = simdi()
+            v["kaldirma_nedeni"] = KALDIRMA_NEDENI
+            for k in GORSEL_ALANLARI:          # kurallara uymayan görsel ve kaydı ön bilgiden de çıkar (kaldırılan sayfada görsel yok)
+                if k != "gorsel_sinif":
+                    v.pop(k, None)
+        elif g.get("karar") == "korundu" and g.get("alt_sonra"):
+            s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else None
+            if s is not None:
                 s["gosterilen"] = g["alt_sonra"]
+        kaynak_temizle(v)
         if o.get("adres"):
             v["url"] = o["adres"]["sonra"]
             v["aliases"] = sorted(set(list(v.get("aliases") or []) + [o["adres"]["once"]]))

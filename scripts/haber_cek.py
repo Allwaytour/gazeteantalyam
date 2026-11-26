@@ -726,8 +726,6 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None, yaz=True):
     if yz and yz.get("kalite_denetim"):
         on["kalite_denetim"] = yz["kalite_denetim"]
     gs.secimi_uygula(on, secim)
-    if secim.get("kanit"):
-        on["gorsel_kanit"] = secim["kanit"]       # kaynak sayfa, sahip, lisans, alınma tarihi (sitede gösterilmez; telif kanıtı)
     if True:
         for alan in ("manset", "son_dakika", "yazar", "otomatik", "yz", "kaynak", "kaynak_url"):
             on[alan] = on.pop(alan)
@@ -815,7 +813,9 @@ def kalite_v2_isle(h, yz, kaynak_metin, url, kullanim, tur, onbellek):
         return kayit
     dosya = md_yaz(h, yz, url, secim, duz["etiketler"])
     tur["yayinlanan"] += 1
-    kayit.update(dosya=dosya, durum="yayinlandi", gorsel=gk.get("secilen"))
+    sec = gorsel_v2.kaynaksiz(gk.get("secilen") or {})
+    sec.pop("kaynak", None)
+    kayit.update(dosya=dosya, durum="yayinlandi", gorsel=sec)
     return kayit
 
 
@@ -848,8 +848,6 @@ def bekleyenleri_isle(kullanim, tur, onbellek, sinir=6):
             for x in ("bekleme", "gorsel_onceki", "gorsel_gecmis", "gorsel", "gorsel_kredi"):
                 v.pop(x, None)                     # kuyruktaki geçici (görselsiz) kayıt izi taşınmaz
             gs.secimi_uygula(v, secim)
-            if secim.get("kanit"):
-                v["gorsel_kanit"] = secim["kanit"]
             gs.md_yaz(os.path.join(HABER_KLASOR, ad), v, govde)
             os.remove(yol)
             tur["yayinlanan"] += 1
