@@ -1,0 +1,4061 @@
+{
+ "surum": "t2",
+ "oneriler": {
+  "20261123-antalya-bilim-merkezinde-ogretmenlere-astronomi-egitimi-veri-11ad0.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:50+03:00",
+   "baslik": "Antalya Bilim Merkezi'nde öğretmenlere astronomi eğitimi verildi",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "adres": {
+    "once": "/haber/20261123-antalya-bilim-merkezinde-ogretmenlere-astronomi-egitimi-veri-11ad0/",
+    "sonra": "/haber/20261123-antalya-bilim-merkezinde-ogretmenlere-astronomi-egitimi-11ad0/"
+   },
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1614308460927-5024ba2e1dcb?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Logan Gutierrez / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Antalya Bilim Merkezi'nde öğretmenlere yönelik astronomi eğitimi düzenlendi.",
+     "olmasi_gereken": [
+      "teleskop",
+      "bilim merkezi sınıfı",
+      "öğretmenler"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya Bilim Merkezi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Kepez Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Hakan Uzakara",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "tiyatro sahnesi",
+      "laboratuvar mikroskobu (özel olarak astronomi olmalı)"
+     ],
+     "sorgular_en": [
+      "astronomy workshop teachers telescope",
+      "science center telescope education"
+     ],
+     "sorgular_tr": [
+      "Antalya Bilim Merkezi",
+      "astronomi eğitimi teleskop"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:3694993",
+      "url": "https://pixabay.com/get/g9eafb0a2a9f1b6bbd74eb83addf0b9ba38057d0fea20551147210d92837e0f1f7ec77625c3b7ddb671166758c179ed2a0c1afc075dde75d33f9dad2f5af32520_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "astronomy workshop teachers telescope",
+      "puan": 3,
+      "gerekce": "Genel bir eğitim/sunum görseli olup astronomi eğitimiyle doğrudan bir ilgisi yoktur.",
+      "neden": "puan 3 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:2464182",
+      "url": "https://pixabay.com/get/ge3db1b101ed4aecc0353aec8ddccfa8a9c8ca5392babed538074a13a4d5ff93a373bb80c2b22da07e2ca752ddd13fcd0e2eb11beaca9587408f1b33cfb73e64f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "science center telescope education",
+      "puan": 5,
+      "gerekce": "Astronomi temasına uygun olsa da eğitim ve öğretmen unsurlarını içermeyen genel bir stok görseldir.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:6931997",
+      "url": "https://pixabay.com/get/g0603c157c4c89a8f7acfb44d813e47892bfbb9bd8729fafe3c5b4738e3d3fbcad2c6a92d8b766069173642d0829640187570e6c38fbf0abdfb0d4ca7f45041e9_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "astronomy workshop teachers telescope",
+      "puan": 2,
+      "gerekce": "Haberdeki yerel eğitim etkinliğiyle uyuşmayan, uzay temalı bir illüstrasyondur.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:4806386",
+      "url": "https://pixabay.com/get/g9d0bd558fa2faa56d3d3b7242b87768baa2340300d5dea690ac50b42c284d97ba4ffde03d72836abea70d346d6dcd6f6ba84b4d374a0751ec90535abe72a02fa_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "science center telescope education",
+      "puan": 5,
+      "gerekce": "Teleskop içermesi nedeniyle astronomiyle ilgili ancak eğitim ortamını ve insanları yansıtmıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:1335759",
+      "url": "https://pixabay.com/get/g99f512efb76c3b2fe7c714095d3a33e6bd4aeff5ca56bce622a4ff7e7384a5d0e7268e8c4f496d41b8c016f1b8a3986a5ac2393eb696689716c4efb0f9e2d851_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "astronomy workshop teachers telescope",
+      "puan": 4,
+      "gerekce": "Astronomi tesisi gösterse de haberdeki öğretmenlere yönelik bilim merkezi eğitimine yabancı.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:5082786",
+      "url": "https://pixabay.com/get/g66072f3e41b1f39d630e072b9a6b35abf74bdf85edfd15d5bc2bc3a7688c675cdd55217aa6467539ce25b9fd7926ec95660472fcfbc913e7bb7ab94741dd38f4_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "science center telescope education",
+      "puan": 1,
+      "gerekce": "Paleontoloji ve müze ortamını gösterdiği için astronomi eğitimi haberiyle tamamen ilgisizdir.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "pixabay:8437462",
+      "url": "https://pixabay.com/get/ge5f703eb1a79734c842117d660be681bbc45d6d33fb4f0bc849e8f32da8e2a24280864d6892a68a041d39e4387e550437f686b351997711b06573c57c031dd15_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "astronomy workshop teachers telescope",
+      "puan": 2,
+      "gerekce": "Manzara dürbünü içerse de astronomi eğitimiyle ve bilim merkezi ortamıyla bağdaşmamaktadır.",
+      "neden": "puan 2 < 7"
+     }
+    ],
+    "notlar": [
+     "Commons 'Kepez Belediyesi': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "kurum:/images/kurum/9c3fd7bf2a81139c.jpg",
+     "yerel_url": "/images/kurum/9c3fd7bf2a81139c.jpg",
+     "kaynak": "kurum",
+     "sorgu": "kurum sitesi",
+     "puan": 10,
+     "gerekce": "Haberin birebir gerçek fotoğrafı, katılımcı öğretmenleri ve etkinliği tam olarak yansıtıyor.",
+     "gorunen": "Sınıfta ellerinde gökyüzü haritalarıyla duran öğretmenler ve katılımcılar",
+     "sahip": "Kepez Belediyesi",
+     "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+     "sayfa": "https://www.kepez-bld.gov.tr/news_12766_antalya-bilim-merkezi-nde-ogretmenlere-astronomi-egitimi",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "/images/kurum/9c3fd7bf2a81139c.jpg"
+    },
+    "secim": {
+     "tur": "gercek",
+     "gorsel": "/images/kurum/9c3fd7bf2a81139c.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Sınıfta ellerinde gökyüzü haritalarıyla duran öğretmenler ve katılımcılar",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 10/10: Haberin birebir gerçek fotoğrafı, katılımcı öğretmenleri ve etkinliği tam olarak yansıtıyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "ecbca9e5fdc8",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 10,
+      "esik": 7,
+      "gerekce": "Haberin birebir gerçek fotoğrafı, katılımcı öğretmenleri ve etkinliği tam olarak yansıtıyor.",
+      "sorgu": "kurum sitesi",
+      "tarih": "2026-11-26T15:44:54+03:00"
+     },
+     "kanit": {
+      "kaynak": "kurum",
+      "sayfa": "https://www.kepez-bld.gov.tr/news_12766_antalya-bilim-merkezi-nde-ogretmenlere-astronomi-egitimi",
+      "sahip": "Kepez Belediyesi",
+      "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+      "lisans_kaniti": "fotoğraf kurumun kendi sunucusunda (www.kepez-bld.gov.tr); sayfada ajans kredisi yok",
+      "orijinal_url": "https://www.kepez-bld.gov.tr/image_news_64392_w_800_antalya-bilim-merkezi-nde-ogretmenlere-astronomi-egitimi.jpg",
+      "alinma_tarihi": "2026-11-26T15:44:54+03:00",
+      "kimlik": "kurum:/images/kurum/9c3fd7bf2a81139c.jpg",
+      "phash": "fec191c6d9b18a58",
+      "puan": 10
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261125-antalya-uluslararasi-piyano-festivali-basliyor-4feb4.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Antalya Uluslararası Piyano Festivali Başlıyor",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Antalya Uluslararası Piyano Festivali Başlıyor",
+     "sonra": "Antalya uluslararası Piyano Festivali başlıyor"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "baslik: Başlıyor → başlıyor",
+    "başlık cümle düzenine getirildi: Antalya Uluslararası Piyano Festivali başlıyor → Antalya uluslararası Piyano Festivali başlıyor"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Larisa Birta / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "26. Uluslararası Antalya Piyano Festivali başlıyor.",
+     "olmasi_gereken": [
+      "piyano",
+      "konser salonu"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya Büyükşehir Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Atatürk Kültür Merkezi Aspendos Salonu",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "keman",
+      "gitar",
+      "açık hava stadyum konseri"
+     ],
+     "sorgular_en": [
+      "grand piano concert stage",
+      "classical piano recital hall"
+     ],
+     "sorgular_tr": [
+      "Antalya Piyano Festivali",
+      "piyano konser salonu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "commons:Antalya_Büyükşehir_Belediyesi.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG/1280px-Antalya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "kaynak": "commons",
+      "neden": "indirilemedi: 400 Client Error: Use thumbnail sizes listed on https://w.wiki/GHai for url: https://thumb.wikimedia.org/w"
+     },
+     {
+      "id": "pixabay:4089731",
+      "url": "https://pixabay.com/get/gb2c8e7ad32fdd0ab4d6a9a344f2bd1ec9b2114da9c6283fc039617c391f47056259ed574d9dd15d2cca41579f7bc2b6366bfbe4c1180c3c95c9287e8248adf9c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "classical piano recital hall",
+      "puan": 5,
+      "gerekce": "Siyah-beyaz ve tarihi yapıda olması güncel bir festival haberi için zayıf kalıyor.",
+      "neden": "puan 5 < 7; güncel haberde eski/arşiv fotoğrafı"
+     },
+     {
+      "id": "pixabay:10431023",
+      "url": "https://pixabay.com/get/gf6276cd54d638ca6206c17fdc5b88daed91bb8d24b5b8694747c57634ee8f1d128a482544831d27989df4e646f751bcc9a9f0d31cfa2d84560e4b101543984ac_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "grand piano concert stage",
+      "puan": 4,
+      "gerekce": "Piyano var ancak arka planda davul ve caz grubu odaklı bir sahne yer alıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1357961",
+      "url": "https://pixabay.com/get/g8b6e1c6709d2762b356fed11649696417177902289d0fa5406ca8d7d3063c196d2816f7f16d24d917eb5c712e7dbc228df377d756ae328f8439e2d83b8a9047b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "classical piano recital hall",
+      "puan": 7,
+      "gerekce": "Salon atmosferi ve piyano uygun ancak sahne merkezinde devasa org yer alıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:3544416",
+      "url": "https://pixabay.com/get/g22dd767397afccab5efc085f4291aa849ecf0c8015e32a161e9c22fb402ea480feef7b8626ded772b7c064d45b4cde19235d402f79c38079fbcc0630e330406b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "grand piano concert stage",
+      "puan": 6,
+      "gerekce": "Piyano ve icracı net ancak siyah-beyaz ve sanatsal açı haber fotoğrafı için kısıtlı kalıyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:5216301",
+      "url": "https://pixabay.com/get/g0e84728cfe6736f800d16d1afc9d516efba93d82d88eddbeab1837e9b92282bbf5cfe871ba31399bd16a48976495137ce0ff421b247fc0f162f505ff85bd464e_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 8,
+      "gerekce": "Konser salonu ve piyano net şekilde görünüyor, festival atmosferine uygun.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:4104811",
+      "url": "https://pixabay.com/get/g9a2025eaca3cb21047082ed3060874f8e6af41dd7f7ad945c9fe2c873ab446573004fd0208bd1309c4a62bf0e00134e285b50833264c49181bd99b48c85ec633_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "grand piano concert stage",
+      "puan": 3,
+      "gerekce": "Brief'te yer alan 'açık hava konseri' kaçınılacak unsurlara giriyor.",
+      "neden": "puan 3 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:1529898",
+      "url": "https://pixabay.com/get/g4c4e2f2b13c89c5c8f34c1e3a945e27611488216410c12f6e49720cb13a8d42acd962c7c3089eb59e9aeb94f6e532a268db9d0abdcaedc7c1f069c2bc0bba980_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "classical piano recital hall",
+      "puan": 8,
+      "gerekce": "Konser salonu ve piyano uyumu başarılı, haberi iyi temsil ediyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:4856884",
+      "url": "https://pixabay.com/get/g13ab45c2984040d33423c921a31afb6e539c2babfe7d309500e0bcb91a33220e9bf50194d0daf9a233be0f0ea4e18dade8bd89db6b519d60b0dfc389b618d747_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "classical piano recital hall",
+      "puan": 7,
+      "gerekce": "Piyano ve müzisyen net ancak beyaz piyano ve açı klasik festival görsellerinden biraz farklı.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "Commons 'Antalya Büyükşehir Belediyesi': 11 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:1508907",
+     "yerel_url": "/images/haber-gorsel/pixabay-1508907-42823fd2.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "classical piano recital hall",
+     "puan": 9,
+     "gerekce": "İç mekan konser salonu ve piyano unsurlarını eksiksiz ve net şekilde karşılıyor.",
+     "gorunen": "Boş bir konser salonu sahnesinde yer alan siyah kuyruklu piyano.",
+     "sahip": "kailingpiano",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/piano-concert-hall-steinway-1508907/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g7c01ba5d9b22ebcac05bf5e2da34631e53da3a323f0908b3d71e8f6205cfa2fb5c9364ca3b77344d9875d47e3cd2ac7eb2f668f72fb03d3e14ed3f08b0d0d9c4_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-1508907-42823fd2.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Boş bir konser salonu sahnesinde yer alan siyah kuyruklu piyano.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: İç mekan konser salonu ve piyano unsurlarını eksiksiz ve net şekilde karşılıyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "a251a46bafaf",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "İç mekan konser salonu ve piyano unsurlarını eksiksiz ve net şekilde karşılıyor.",
+      "sorgu": "classical piano recital hall",
+      "tarih": "2026-11-26T15:45:15+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/piano-concert-hall-steinway-1508907/",
+      "sahip": "kailingpiano",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/ge2e43a589b57d0c01159d076a914a51125a0a4720ead92f9f3a6c08cb4d46815c0088b5abd5f783c7b68880be6d0b1bb3e78abbcf0088b4b686983761a8ec9bf_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:45:15+03:00",
+      "kimlik": "pixabay:1508907",
+      "phash": "a75ac92e3fc34134",
+      "puan": 9
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261125-antalyali-denizcilerden-karadenizdeki-gemi-saldirisina-tepki-fadb4.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Antalyalı denizcilerden Karadeniz'deki gemi saldırısına tepki",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1790309153099-aec8ca183401?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Jacob McGowin / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Karadeniz'de Türk denizcilerin bulunduğu kuru yük gemisinin İHA ile hedef alınmasına Antalya'dan tepki gösterildi.",
+     "olmasi_gereken": [
+      "kuru yük gemisi",
+      "deniz"
+     ],
+     "varliklar": [
+      {
+       "ad": "SEA PEARL S",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Antalya Denizcileşme Platformu",
+       "tur": "kurum"
+      },
+      {
+       "ad": "İzzet Ünlü",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "yolcu vapuru",
+      "savaş gemisi",
+      "uçak gemisi"
+     ],
+     "sorgular_en": [
+      "bulk carrier cargo ship sea",
+      "merchant ship at sea"
+     ],
+     "sorgular_tr": [
+      "kuru yük gemisi",
+      "Karadeniz gemi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:675847",
+      "url": "https://pixabay.com/get/g813ec793fd25ea5aae1880848a8178061ee94e711515e707d584ea5e91e09097b21040b177ea4bb14992b8e4f8f5dedd_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "merchant ship at sea",
+      "puan": 2,
+      "gerekce": "Yelkenli gemi, modern kuru yük gemisi haberiyle uyuşmuyor.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:7210284",
+      "url": "https://pixabay.com/get/ge92df7d3158fc0363e39d479ee0e9ab5ff7180d4a91560b0b12f14d64d91355fc2dbccf175f6948c320b7ef512558c4f798ab3d49ea30e313e5f622298ba3ed8_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bulk carrier cargo ship sea",
+      "puan": 8,
+      "gerekce": "Kuru yük gemisi ve deniz unsurlarını doğru biçimde yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:6580994",
+      "url": "https://pixabay.com/get/g16430c146f00ae00e4f6423eb6452c7c3b7e167255825303f05b5c038270501d27453c01dc5fd2558543cafa19c362675cf14bf1f51fdf18029f32be343dbb5a_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "merchant ship at sea",
+      "puan": 8,
+      "gerekce": "Haberdeki gemi temasına uygun, net bir deniz aracı görseli.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:3578385",
+      "url": "https://pixabay.com/get/g9fac489cd90c9525b5853686bb2a5a6c74b2755977e062238c6aac7ada3e5a749bd67c6cc3c812147a80cdec2bc55d119b0ae1df0dbebda2d5eea1ea08897b33_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bulk carrier cargo ship sea",
+      "puan": 8,
+      "gerekce": "Haberin ana konusuna uygun kuru yük gemisini gösteriyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:1578528",
+      "url": "https://pixabay.com/get/gc95ef41fa5f0e4810aaa8b6522a08aa97aefba7a3a406a95385b870a2f94b50f6e075084a34ac4cd619a82091446cd5835240ade1e71ef964eabd1af301d5e86_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "merchant ship at sea",
+      "puan": 1,
+      "gerekce": "Kaçınılacaklar listesindeki yolcu vapuru/gemisi niteliğinde olduğu için uygun değil.",
+      "neden": "puan 1 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:6880482",
+      "url": "https://pixabay.com/get/g88a26d11ceb739f8f9a3aada3f42bffe0b80451033d795336d349d4822ab00c2c73ea79f4d16780dcb54467fa671ca98671d6bf8f5e625793be1aac54d03885f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bulk carrier cargo ship sea",
+      "puan": 8,
+      "gerekce": "Kuru yük gemisi tanımına tam uyuyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:123059",
+      "url": "https://pixabay.com/get/g2b45ff450f703c2cb874cceeeb4338b6dc7a2f594d28e0703828f6837d534735cc0e2131531884de3a51dded40fb7464_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "merchant ship at sea",
+      "puan": 1,
+      "gerekce": "Yolcu gemisi içerdiğinden kaçınılacaklar kuralına takılıyor.",
+      "neden": "puan 1 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:7680042",
+      "url": "https://pixabay.com/get/g748bda3da5a1dfc1d92d29615667a195cc220d007f9686c6af7e3dc7ab72ad47e2fbebb871d588329f123e1d13a3ccca95a919393c1a3aeede68d36cbc696355_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bulk carrier cargo ship sea",
+      "puan": 5,
+      "gerekce": "Genel olarak gemiyi verse de silüet ve kompozisyon haberi tam yansıtamıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:6631117",
+      "url": "https://pixabay.com/get/ge9f0ef682b8cfa0049328e23ca9a17f2cbbb1626f7b60c6dfdbfa306a2f06aa6773ebdf9084fbee831fd3f07399df7a623cf29a802a3aa42ce84e694024986c1_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "merchant ship at sea",
+      "puan": 7,
+      "gerekce": "Yük gemisi kategorisinde olsa da konteyner gemisi olması nedeniyle tam kuru yük gemisi değil.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'SEA PEARL S': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:5262849",
+     "yerel_url": "/images/haber-gorsel/pixabay-5262849-345ad45f.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "bulk carrier cargo ship sea",
+     "puan": 9,
+     "gerekce": "Haberin konusuna uygun kuru yük gemisini ve denizi net şekilde gösteriyor, okuru yanıltmıyor.",
+     "gorunen": "Denizde seyreden büyük bir kuru yük gemisi",
+     "sahip": "papazachariasa",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/ship-cargo-vessel-container-5262849/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g96053a66ce8c598aad83ffb31fc2d0fc24234ea4761df02d0eaa3c04f52ff7c17b555df5a0446b2bb4532ab9dfbfd7fba64c1bac2de53c57501fbe2cf9d854cf_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-5262849-345ad45f.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Denizde seyreden büyük bir kuru yük gemisi",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 9/10: Haberin konusuna uygun kuru yük gemisini ve denizi net şekilde gösteriyor, okuru yanıltmıyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "a76efbaef763",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 9,
+      "esik": 7,
+      "gerekce": "Haberin konusuna uygun kuru yük gemisini ve denizi net şekilde gösteriyor, okuru yanıltmıyor.",
+      "sorgu": "bulk carrier cargo ship sea",
+      "tarih": "2026-11-26T15:45:27+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/ship-cargo-vessel-container-5262849/",
+      "sahip": "papazachariasa",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g991e291ba33e9c5c4194f8e43072c4c8ab170e549fba8f6128d6a5b47498c5f984e7d1df0a122166f713b083ba1c96d79cb1a8eabce806877abb5f6297ca934e_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:45:27+03:00",
+      "kimlik": "pixabay:5262849",
+      "phash": "e8971568966d6897",
+      "puan": 9
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261125-alanya-ve-antalya-hizli-tren-hedeflerine-yine-dahil-edilmedi-125b9.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Alanya ve Antalya hızlı tren hedeflerine yine dahil edilmedi",
+   "durum": "bekliyor",
+   "metin": {
+    "govde": {
+     "sonra": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye genelindeki demir yolu yatırımları ve yüksek hızlı tren projeleriyle ilgili açıklamalarda bulundu. Halihazırda 14 ile doğrudan hızlı trenle erişim sağlandığını ifade eden yetkili, 2030 yılına kadar bu sayının 32'ye yükseltilmesinin hedeflendiğini kaydetti. Buna karşın, her yıl milyonlarca yerli ve yabancı turisti ağırlayan Antalya ile Alanya, açıklanan yeni projelerin dışında kaldı.\n\nAçıklanan yeni listeye göre Bursa, Çorum, Kayseri, Niğde, İzmir, Uşak, Balıkesir, Afyonkarahisar, Mersin, Adana, Osmaniye, Gaziantep, Adıyaman, Manisa, Malatya, Kahramanmaraş, Iğdır ve Kars illeri yüksek hızlı tren ağına bağlanacak. Türkiye genelindeki demir yolu ağının planlanan yatırımlarla birlikte 31 bin 439 kilometreye çıkarılması amaçlanıyor.\n\nYoğun turizm potansiyeli, nüfus büyüklüğü ve artan ulaşım gereksinimleriyle öne çıkan Alanya'nın demir yolu ağından faydalanacak iller arasında yer almaması, bölgede yaşayanların ve turizmcilerin beklentilerini yeniden gündeme taşıdı. Bölge halkı ve turizm sektörü temsilcileri ulaşım yatırımları konusunda kararın gözden geçirilmesini talep ediyor."
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "metin: kesme işareti tek karaktere indirildi"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Red_tower_and_harbour_From_Alanya_castle-Antalya_-_panoramio.jpg",
+     "tur": "arsiv",
+     "kredi": "Arşiv fotoğrafı: Haluk Comertel / Wikimedia Commons (CC BY 3.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-3.0, Cc-by-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-3.0, Cc-by-layout"
+    },
+    "brief": {
+     "ana_konu": "Antalya ve Alanya, Ulaştırma Bakanlığı'nın yeni hızlı tren hedeflerine dahil edilmedi.",
+     "olmasi_gereken": [
+      "hızlı tren",
+      "demiryolu rayları"
+     ],
+     "varliklar": [
+      {
+       "ad": "Ulaştırma ve Altyapı Bakanlığı",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Abdulkadir Uraloğlu",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "nostaljik tren",
+      "eski buharlı tren"
+     ],
+     "sorgular_en": [
+      "high speed train railways",
+      "modern train station tracks"
+     ],
+     "sorgular_tr": [
+      "hızlı tren",
+      "YHT rayları"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:4564418",
+      "url": "https://pixabay.com/get/ga7011c2a0ec1abd7bb384fce0ec87c8b9927978dcb6fb03534a464c868c35fc275d77d3de4631ab19dbe55da5b420346780d0bf5c67bb43a66e04b8a876ce56f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern train station tracks",
+      "puan": 7,
+      "gerekce": "Demir yolu ve tren temasını yansıtıyor ancak genel bir gar görüntüsü.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:7767132",
+      "url": "https://pixabay.com/get/g049d000cf74262781fe0b1c352428a3f8e3f3a1acf38fa82828df310f6d7bd8a460fb23c051a683588cc55528193cede6841aa545ec8af2b918ec897944143ab_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train railways",
+      "puan": 8,
+      "gerekce": "Hızlı tren hedefleri haberi için uygun ve net bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:8446249",
+      "url": "https://pixabay.com/get/g79edd8ccd2d71274776f1802ed71e1b8f5a9d237b1584645b7fc0248e8f97158fc53d58982f4bbee739609d8ccda3fcbef6831d9b186beba2ea56cb423848b21_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train railways",
+      "puan": 8,
+      "gerekce": "Hızlı tren hareket halindeyken estetik ve konuya uygun şekilde çekilmiş.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:8517089",
+      "url": "https://pixabay.com/get/g466dcf25786570f9bc867f53d6110bad1139f5190f48a3ce07f005c4bffbed6af12e9681dafddcef4b1d86f14e08c51d9d9b5932ef03e045f34049d36ecd7101_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern train station tracks",
+      "puan": 7,
+      "gerekce": "Demir yolu altyapısını temsil eden başarılı bir mimari çekim.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:7845018",
+      "url": "https://pixabay.com/get/g678f8e9e6ae43659a10f76a74afc50070892d92227365b7959bc067d4cc0d20d9f6de36360129612907b18dd50df8191c87fc27193e87e2d5241cacddcb0928e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train railways",
+      "puan": 7,
+      "gerekce": "Demir yolu ağları ve tren temasına uygun atmosferik bir kare.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:4651062",
+      "url": "https://pixabay.com/get/gdb29eed821d3bfea8b67d0d7a1ef64368ccde02e61b3b3d0ee159ff86a7204d182c2d0df7a69c49c90e98a923f96be7f3861b9885974f27813ee2a77cb4cea2c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern train station tracks",
+      "puan": 7,
+      "gerekce": "İstasyon ve ray altyapısını net şekilde gösteriyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:4256985",
+      "url": "https://pixabay.com/get/g24ffc8180b8cf62128d1b88a89bf24f641143d434bf244536d0183a766f32d6d9877a51c94dfa4cd659e4381681a960256d6c720381aebdf8ddc46195815560e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "high speed train railways",
+      "puan": 8,
+      "gerekce": "Hızlı tren projeleri haberi için doğrudan ve net bir görsel.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:7860168",
+      "url": "https://pixabay.com/get/g8c17c51d8fcc0ba7ab2f00df651b950579b03c012bfb357c6056a4073793a24122be499eb394a72d035e553e0945b22ba795dc6ba09c227c4927820f09a483c0_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern train station tracks",
+      "puan": 7,
+      "gerekce": "Toplu taşıma ve tren temasına uygun ancak biraz karanlık.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Alanya Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Alanya Belediyesi): No module named 'playwright'",
+     "Commons 'Ulaştırma ve Altyapı Bakanlığı': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Abdulkadir Uraloğlu': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'hızlı tren': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:5237269",
+     "yerel_url": "/images/haber-gorsel/pixabay-5237269-f967b3a9.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "high speed train railways",
+     "puan": 8,
+     "gerekce": "Hızlı tren projesi haberine uygun, modern bir tren ve istasyon ortamı sunuyor.",
+     "gorunen": "Gar peronunda duran modern hızlı tren ve görevli personel.",
+     "sahip": "ArminEP",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/shinkansen-bullet-train-5237269/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g31cf74a9d89836e71645cbe531bbd4b25f19ea0a7dfb084349539857ec19a4475c66df65fc6961ee9fd6c7679980b9084cb82bbc1d7ab34387ed64979a819d8b_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-5237269-f967b3a9.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Gar peronunda duran modern hızlı tren ve görevli personel.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Hızlı tren projesi haberine uygun, modern bir tren ve istasyon ortamı sunuyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "0654cd0e1186",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Hızlı tren projesi haberine uygun, modern bir tren ve istasyon ortamı sunuyor.",
+      "sorgu": "high speed train railways",
+      "tarih": "2026-11-26T15:46:03+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/shinkansen-bullet-train-5237269/",
+      "sahip": "ArminEP",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g360ce9d97815a9b8cbfb8b01b6cb1b9f58114fc5ccb9e7924705614cab0c9b8967261179e072f9c9415ea486875f1a8571d23e0307772ab47511da9f1738afbf_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:46:03+03:00",
+      "kimlik": "pixabay:5237269",
+      "phash": "9fc265964b39a646",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261126-antalya-milletvekili-abdurrahman-baskandan-enerji-politikala-b1d2c.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Antalya milletvekili Abdurrahman Başkan'dan enerji politikaları vurgusu",
+   "durum": "bekliyor",
+   "metin": {
+    "govde": {
+     "sonra": "Milliyetçi Hareket Partisi Antalya Milletvekili Abdurrahman Başkan, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yenilenebilir enerji kaynaklarının elektrik enerjisi üretimi amaçlı kullanılmasına ilişkin kanun teklifinde söz aldı. Konuşmasında enerjinin yalnızca ekonomik bir unsur olmadığını, aynı zamanda millî güvenlik ve kalkınmanın temel meselelerinden biri olduğunu belirten Başkan, dışa bağımlılığın azaltılması ve yerli kaynakların etkin kullanılması gerektiğinin altını çizdi.\n\nAntalya'nın güneş enerjisinden yararlanma bakımından önemli bir potansiyele sahip olduğunu dile getiren Başkan, tarım, seracılık, sulama, soğuk hava depoları ve turizm sektörleri nedeniyle kentte yoğun bir enerji ihtiyacı bulunduğunu kaydetti. Kumluca, Finike, Demre, Serik ve Aksu gibi örtü altı üretimin yaygın olduğu ilçelerde enerji giderlerinin maliyetleri artırdığına işaret eden Başkan, uygun alanlarda ve çatı sistemlerinde güneş enerjisi yatırımlarının artırılmasının üreticilere katkı sağlayacağını ifade etti.\n\nKorkuteli ve Elmalı ilçelerinde kış şartlarının sert geçmesi nedeniyle doğal gaz tüketiminin arttığını belirten Başkan, mevcut ilk kademe tüketim sınırının vatandaşların bütçesini zorlayabildiğini söyledi. Benzer iklim koşullarına sahip komşu illerde uygulanan 300 metreküplük ilk kademe sınırının bu iki ilçede de kış döneminde değerlendirilmesini isteyen Başkan, fiyatlandırmada bölgesel şartların göz önünde bulundurulması gerektiğini vurguladı.\n\nKonuşmasında Antalya Organize Sanayi Bölgesi'nin gelişimi ve yeni yatırımların enerji altyapısına da değinen Başkan, yenilenebilir enerji projelerinin hem maliyetleri düşüreceğini hem de çevresel sürdürülebilirliğe destek olacağını belirtti. Başkan, enerji alanında yürütülen çalışmalar dolayısıyla Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile bakanlık çalışanlarına teşekkür ederek konuşmasını tamamladı."
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "metin: kesme işareti tek karaktere indirildi"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "adres": {
+    "once": "/haber/20261126-antalya-milletvekili-abdurrahman-baskandan-enerji-politikala-b1d2c/",
+    "sonra": "/haber/20261126-antalya-milletvekili-abdurrahman-baskandan-enerji-b1d2c/"
+   },
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Solar_Panels_on_Church_Roof_full.jpg",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Bastique / Wikimedia Commons (CC BY 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-4.0, Cc-by-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-4.0, Cc-by-layout"
+    },
+    "brief": {
+     "ana_konu": "MHP Antalya Milletvekili Abdurrahman Başkan, TBMM'de enerji politikaları üzerine konuştu.",
+     "olmasi_gereken": [
+      "TBMM kürsüsü",
+      "milletvekili"
+     ],
+     "varliklar": [
+      {
+       "ad": "Türkiye Büyük Millet Meclisi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Abdurrahman Başkan",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Milliyetçi Hareket Partisi",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "sokak eylemi",
+      "belediye binası"
+     ],
+     "sorgular_en": [
+      "parliament podium speaker politician",
+      "tbmm general assembly"
+     ],
+     "sorgular_tr": [
+      "Türkiye Büyük Millet Meclisi kürsü",
+      "Meclis genel kurul"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:825554",
+      "url": "https://pixabay.com/get/g48ab4640a5f7c9cc6924847e4cb008f3471bb746ef9ebab0e2cac88554332fbe9416089c3ff7a700496d931eb98cc96e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "parliament podium speaker politician",
+      "puan": 4,
+      "gerekce": "Kürsü konsepti uysa da haberdeki milletvekili yerine yabancı bir politikacı yer alıyor.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:6322085",
+      "url": "https://pixabay.com/get/gbb2479995da27a65f822c1f06ec49d1dc1a47102abfe9091b4c2c26acf45d7d4896261b54ad0e4c3b24186938ed4c51e0334f40b95593a192a678e0e9c129b18_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "tbmm general assembly",
+      "puan": 2,
+      "gerekce": "Enerji politikaları ve TBMM konuşmasıyla doğrudan ilgisi olmayan fabrika içi çalışma görüntüsü.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:1132528",
+      "url": "https://pixabay.com/get/g5cfbb6bdb1dfea477df68ca831b17a513466714871248caff4d9a49cb65161687bce1297921be3301ead1444bd7d27d9ffbb29d98d681c550528c7700fd88612_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "parliament podium speaker politician",
+      "puan": 5,
+      "gerekce": "Konuşma ve açıklamayı simgeleyen mikrofon var ancak Meclis veya siyasetçi ortamı eksik.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:1044891",
+      "url": "https://pixabay.com/get/g64fcb17a1d7878b984e0d131e11e19c988511c0f2c7e7730d5600b4988423564b9c18e4187f101ad99f3636bed427236e4d9aaed85a02b4a67fecb692f8390d9_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "tbmm general assembly",
+      "puan": 1,
+      "gerekce": "Haberin ciddiyetiyle ve TBMM ortamıyla bağdaşmayan oyuncak figürler.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "pixabay:951000",
+      "url": "https://pixabay.com/get/g5348961e51338437f3d834b537a456c846cbe1075a3a19d71511897fc5a3db92dcabd1d5ccd07bfeb07a76f5b7a730c3_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "parliament podium speaker politician",
+      "puan": 4,
+      "gerekce": "Kürsü ve konuşma teması var fakat haberle içerik olarak uyuşmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:4524838",
+      "url": "https://pixabay.com/get/gd14f015617efddecd0b2404bdf7c4d2c1c4935e0e55c8aaf5af69747ad5ddd85b19cda212bf5865d96eb051baf1d63812d4b81e80dc4a77b3bc75b566495690d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "tbmm general assembly",
+      "puan": 2,
+      "gerekce": "Milletvekili meclis konuşması haberiyle tamamen ilgisiz bir atölye çalışması.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:356133",
+      "url": "https://pixabay.com/get/g05f0c73a1d290ba0634931d9a4943dac950f5e8dd952344a3f3e895615a911e6b278fefab3ab1794c83383f68f785c25_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "parliament podium speaker politician",
+      "puan": 4,
+      "gerekce": "Kürsü/konuşma temasına uyuyor ancak haberdeki Türk milletvekili yerine yabancı devlet başkanı yer alıyor.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:5963960",
+      "url": "https://pixabay.com/get/g8bae848f1f06f9fb0835fa7131e64eba26cb7e8423414ffb438209fb5269505a76964faeb5113adbf2aa52dd9984804baeb69e029e386a08cf2092d3e8f15f55_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "tbmm general assembly",
+      "puan": 1,
+      "gerekce": "Sokak eylemini andıran kalabalık görüntüsü, brief'teki kaçınılacak unsurlarla çelişiyor.",
+      "neden": "puan 1 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:8499928",
+      "url": "https://pixabay.com/get/gc0db12b5ee0b891b50326c5e2d2a81797474fca7385dc12cc4c3a36accafc3b571f2ad4a941c1a92b17cf28cad70e4a382bd8f14b534803cb35e806afb279a0c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "tbmm general assembly",
+      "puan": 2,
+      "gerekce": "Enerji kelimesiyle dolaylı kurulsa da Meclis ve siyasetçi bağlamından uzak.",
+      "neden": "puan 2 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum fotoğrafı araması yapılamadı: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?",
+     "Antalya Büyükşehir Belediyesi bağlantısı çözülemedi",
+     "Commons 'Türkiye Büyük Millet Meclisi': 9 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Abdurrahman Başkan': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Meclis genel kurul': 3 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:317085",
+     "yerel_url": "/images/haber-gorsel/pixabay-317085-321b3722.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "parliament podium speaker politician",
+     "puan": 7,
+     "gerekce": "Meclis genel kurul kürsüsünü gösterse de yabancı bir parlamento salonu olması puanı düşürüyor.",
+     "gorunen": "Yabancı bir parlamentonun genel kurul salonu ve kürsüsü",
+     "sahip": "MarreKrisu",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/parliament-parliament-house-317085/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gc48accfaf6804a249d5fc1bed11da814482d4f4ccc0cc9a5f48e94dbecdf2d401301015c5c5140304916569913c07418_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-317085-321b3722.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Yabancı bir parlamentonun genel kurul salonu ve kürsüsü",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 7/10: Meclis genel kurul kürsüsünü gösterse de yabancı bir parlamento salonu olması puanı düşürüyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "6f877c1f7002",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 7,
+      "esik": 7,
+      "gerekce": "Meclis genel kurul kürsüsünü gösterse de yabancı bir parlamento salonu olması puanı düşürüyor.",
+      "sorgu": "parliament podium speaker politician",
+      "tarih": "2026-11-26T15:46:16+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/parliament-parliament-house-317085/",
+      "sahip": "MarreKrisu",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g6572c4ab6d81e8d97639ebd6cfadf83c7a78054690ad1c88a1488bc6cdd932115fe76b93ad7bdd5b36ef4fbbb6f34c8050d817242e0d2ea3a725fc067a907dce_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:46:16+03:00",
+      "kimlik": "pixabay:317085",
+      "phash": "c6e2f2c70cd07387",
+      "puan": 7
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261125-kamu-is-il-baskani-acardan-gida-enflasyonu-tepkisi-7e938.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Kamu-İş İl Başkanı Acar'dan gıda enflasyonu tepkisi",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1637497601387-0cc99a234251?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Nedret Binici / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Kamu-İş Antalya İl Başkanı Sadık Acar, kasım ayı gıda enflasyonunu değerlendirdi.",
+     "olmasi_gereken": [
+      "temel gıda ürünleri",
+      "market alışveriş sepeti"
+     ],
+     "varliklar": [
+      {
+       "ad": "Kamu-İş",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Sadık Acar",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Birleşik Kamu-İş Konfederasyonu",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "lüks restoran yemeği",
+      "fabrikada üretim"
+     ],
+     "sorgular_en": [
+      "grocery shopping basket food prices",
+      "inflation supermarket products"
+     ],
+     "sorgular_tr": [
+      "gıda enflasyonu market sepeti",
+      "temel gıda ürünleri alışveriş"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:2619380",
+      "url": "https://pixabay.com/get/gcd74f1ade59633e0023ae6389b1165f6cb6f43aeeb77cca75d8ef369dc8187ed7d866ad7578af22d4179dac2690c17974d097b40cb7151660d4a41ba54efb1e6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "inflation supermarket products",
+      "puan": 7,
+      "gerekce": "Market alışverişi ve ürün çeşitliliğini net bir şekilde yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:435452",
+      "url": "https://pixabay.com/get/g884e62deda4844c5805d7f409471d6faea4558273b62e15e6426acc6b6029e379d748a7bc989465c9eead4e1f1493749_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Temel gıda ürünleri ve market ortamını gösteriyor, haberi iyi destekliyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:3105629",
+      "url": "https://pixabay.com/get/g24758a04751ea9b3eca5049a6b32f3ebc9da8d497fe75442200a9aed9b12658fa32d8340658501dc904f91e1aeffcf4295d059f2a6a46ec7bca6bdda5ad90f9a_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "inflation supermarket products",
+      "puan": 6,
+      "gerekce": "Genel bir market rafı görüntüsü sunuyor, dolaylı olarak ilgili.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:1100190",
+      "url": "https://pixabay.com/get/g04c463c48c3af95d0de0df2a6bf72dedc2b89edd262c955aef1b4eae1746e76039965aa8d556e1f71925201c903aa7451be84cc563b24bc52bb752f575967ff8_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "grocery shopping basket food prices",
+      "puan": 8,
+      "gerekce": "Fiyat etiketleri ve gıda ürünleri enflasyon haberini çok iyi tamamlıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:949913",
+      "url": "https://pixabay.com/get/g214650dd142dd59fbc36ea28d96e938fc2fe70aeeec8f22729f68e82392aa470ab98992ff3c5104672f84d8023d0ad38_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "inflation supermarket products",
+      "puan": 7,
+      "gerekce": "Genel market ortamını başarılı şekilde yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:1232944",
+      "url": "https://pixabay.com/get/geaea6341c46a39c8cf06e0d8fb19bf3563df386fbd103e6353f1b85294e16796ccf8530376406534ead8bb44455a45f82359fb4bb7d80ffcc159d0c14ddd545f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "grocery shopping basket food prices",
+      "puan": 8,
+      "gerekce": "Gıda fiyatları ve alışveriş sepeti bağlamına çok uygun.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:7788131",
+      "url": "https://pixabay.com/get/gb35a65eb1980b2d15ec2fe0b9399697c0d975bd575260be5be518f95b9e691b8c47a18c6ab1c9504666c477b22f32a3af0ae290066def8690ebbc2a7c944f592_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "inflation supermarket products",
+      "puan": 0,
+      "gerekce": "Haberin gıda enflasyonu konusuyla hiçbir ilgisi yok, tamamen alakasız.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     },
+     {
+      "id": "pixabay:9876494",
+      "url": "https://pixabay.com/get/gad1f42f7d11d11ec4a46aeba78856bb719ce2bef88c40ad02db2302f01df4556f22cd8b19704e483bf22ea912b12823e7ef5383a40e60e374b1bb88fbc03fcf8_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "inflation supermarket products",
+      "puan": 0,
+      "gerekce": "Haberin konusuyla tamamen çelişen, alakasız bir görsel.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Antalya Valiliği): No module named 'playwright'",
+     "Commons 'Kamu-İş': 9 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:5280727",
+     "yerel_url": "/images/haber-gorsel/pixabay-5280727-7cdd0f7d.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "grocery shopping basket food prices",
+     "puan": 8,
+     "gerekce": "Gıda enflasyonu ve temel gıda temasına oldukça uygun, taze sebzeleri gösteriyor.",
+     "gorunen": "Manav tezgahında sergilenen taze domates ve sebzeler",
+     "sahip": "caiotelini",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/tomato-red-food-fruit-fruits-5280727/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gc7e2a0b46dc1dc9c999aa9b3a9fa81450c9e011578d14be3e89492be56727297570f216259acef3c3f24d37fc851d51ec3d4df2b74e76180c39d3a9e6e585778_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-5280727-7cdd0f7d.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Manav tezgahında sergilenen taze domates ve sebzeler",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Gıda enflasyonu ve temel gıda temasına oldukça uygun, taze sebzeleri gösteriyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "6e49c76f2e64",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Gıda enflasyonu ve temel gıda temasına oldukça uygun, taze sebzeleri gösteriyor.",
+      "sorgu": "grocery shopping basket food prices",
+      "tarih": "2026-11-26T15:46:59+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/tomato-red-food-fruit-fruits-5280727/",
+      "sahip": "caiotelini",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g06488a0ba07bc20211c72c29450ece67f38328a6edb06901f18a39ac7b970cd64bd759e7b5d604f5df47cba6d0238513d78a108ac8912feda487a2cc247270f4_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:46:59+03:00",
+      "kimlik": "pixabay:5280727",
+      "phash": "c6196512ba4ebdc9",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261126-alanya-muteahhitler-derneginden-alanyaspora-moral-ziyareti-04e18.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Alanya Müteahhitler Derneği'nden Alanyaspor'a Moral Ziyareti",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Alanya Müteahhitler Derneği'nden Alanyaspor'a Moral Ziyareti",
+     "sonra": "Alanya Müteahhitler Derneği'nden Alanyaspor'a moral ziyareti"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "başlık cümle düzenine getirildi: Alanya Müteahhitler Derneği'nden Alanyaspor'a Moral Ziyareti → Alanya Müteahhitler Derneği'nden Alanyaspor'a moral ziyareti"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1626233558206-28a3e90ef311?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Jonathan Chan / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Alanya Müteahhitler Derneği, Corendon Alanyaspor'u ziyaret etti.",
+     "olmasi_gereken": [
+      "futbol kulübü tesisi",
+      "forma",
+      "futbolcular"
+     ],
+     "varliklar": [
+      {
+       "ad": "Alanya Müteahhitler Derneği",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Corendon Alanyaspor",
+       "tur": "takim"
+      },
+      {
+       "ad": "Hasan Çavuşoğlu",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "basketbol sahası",
+      "inşaat şantiyesi (ziyaret odaklı olmalı)"
+     ],
+     "sorgular_en": [
+      "football club training facility visit",
+      "football team management meeting"
+     ],
+     "sorgular_tr": [
+      "Alanyaspor tesisleri",
+      "futbol kulübü ziyaret"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:2778583",
+      "url": "https://pixabay.com/get/g40a26bb5e3a58370d1186423f82d5ece7f89be26ede1a8335d2f704ef56b76b96b7ba2a6fc2fdbe081e01ec8790f11c67c19c658dc07b3104779108d9307ae39_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football club training facility visit",
+      "puan": 4,
+      "gerekce": "Haber futbol kulübü ziyaretiyle ilgili ancak doğrudan tesis veya kişileri göstermediği için sadece dolaylı olarak ilgili.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1979261",
+      "url": "https://pixabay.com/get/gc3acda0748071f57de65e02b3f04f3d79f45c9741497d8402129a43390a63dc43a8d91f01186aaaed931706bd64d8ec2088447e2b8bf641e2df2bb5aa273d1af_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football team management meeting",
+      "puan": 5,
+      "gerekce": "Dernek yönetiminin ziyaretini temsil eden genel bir iş toplantısı görseli, ancak futbolla doğrudan bağı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3471371",
+      "url": "https://pixabay.com/get/gc2e13f5506b70641adace5d4bb9f9e46290d527838d66c6108c4397820da398ca87f29d5d3f9af95bf3fb97282e0929804a54d2a7dc9011570118531879ce7a6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football club training facility visit",
+      "puan": 4,
+      "gerekce": "Futbol temalı stok görsel, kulüp ziyareti haberini doğrudan yansıtmasa da genel futbol kontekstine uygun.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:5382501",
+      "url": "https://pixabay.com/get/g4502628857814f28579f36000f6e3f1533d14d69d4d742264c562c275daf59966554120a8141197b1bfb169e05ba42bd6ec8cbf9ac07353d4d7d6f40ba663138_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football team management meeting",
+      "puan": 5,
+      "gerekce": "Yönetim kurulu ziyaretini andıran bir iş toplantısı ortamı, ancak futbol kulübüyle ilişkisi görünmüyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:488714",
+      "url": "https://pixabay.com/get/g94680d8e0716d052086e7b783554e15853de972d43a3918503aa4b32f5bcb6f5f641395f58ba52ff4c8f8a69603fd630_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football club training facility visit",
+      "puan": 6,
+      "gerekce": "Futbol kulübü tesisi/stadyum ortamını gösterdiği için haberle kısmen ilgili, ancak ziyaret anını yansıtmıyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:488700",
+      "url": "https://pixabay.com/get/g419e3757282484a6769236978dd58fefce8b449a442a9491a773ca3ee573c16a7f7a2c7b50520967aa4d3e9306619f85_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football club training facility visit",
+      "puan": 6,
+      "gerekce": "Tesis ortamını ve futbolu simgelediği için haber için kabul edilebilir ancak yöneticilerin ziyaretini göstermiyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:1867185",
+      "url": "https://pixabay.com/get/gdeb4a1036533cf6064a775b6be080c937a5708bdaed8ace9c50a0c62be9135bd5fe2cca72ac084d963a17e7cac54e0b8069a5d0b8311957bc646749c840966b6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football team management meeting",
+      "puan": 0,
+      "gerekce": "Haber futbol (soccer) kulübüyle ilgiliyken Amerikan futbolu görseli kullanılması çelişki yaratır.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     },
+     {
+      "id": "pixabay:8266065",
+      "url": "https://pixabay.com/get/gc8b706fa5cf6a6cc20c2bde022fd887dcdf291fc885eaa90aa23b8ff614127193bbd062326341d79b3d5418a37e981c18f890ef4449a4b4c012337efe4cd9f94_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football club training facility visit",
+      "puan": 4,
+      "gerekce": "Futbol topu görseli haberin spor kategorisiyle ilgili ancak somut ziyareti göstermiyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:67701",
+      "url": "https://pixabay.com/get/g411574acf4d4f0043592d024df450253871ad4237a947204e5268f6375308931631b7aa50331ccf59adafac169156f62_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football team management meeting",
+      "puan": 0,
+      "gerekce": "Haber klasik futbol (soccer) takımıyla ilgiliyken Amerikan futbolu oyuncusunu göstermesi tamamen çelişkilidir.",
+      "neden": "puan 0 < 7; kesin ret: celiski"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261126-alanyada-yenilenen-yola-guvenlik-kamerasi-kurulacak-62dac.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Alanya'da yenilenen yola güvenlik kamerası kurulacak",
+   "durum": "bekliyor",
+   "metin": {
+    "govde": {
+     "sonra": "Alanya Belediyesi, kent genelindeki ulaşım altyapısını güçlendirmek amacıyla sürdürdüğü çalışmalarına Kestel Mahallesi'nde devam ediyor. Yeni Sanayi Sitesi ile Alanya Alaaddin Keykubat Üniversitesi'nin bulunduğu bölgeye hizmet veren güzergahta daha önce gerçekleştirilen kaldırım düzenlemesinin ardından sıcak asfaltlama çalışmaları da tamamlandı. Fen İşleri Müdürlüğü ekipleri tarafından yürütülen projede, bin 200 metre uzunluğundaki yola toplam 3 bin 250 ton sıcak asfalt serilerek güzergah vatandaşların kullanımına açıldı.\n\nÇalışmaları yerinde inceleyen Alanya Belediye Başkan Yardımcısı Haydar Uyar, Başkan Danışmanı Sadık Dizdaroğlu ve Kestel Mahalle Muhtarı Hüsnü Uyar yetkililerden bilgi aldı. Bölgede kısa süre içinde peyzaj düzenlemesi ve güvenlik kamerası montajı yapılacağı, bu sayede hem sanayi esnafının hem de üniversite bölgesini kullanan vatandaşların daha güvenli ve konforlu bir ulaşım imkanına kavuşacağı belirtildi.\n\nKestel Mahallesi'nde yürütülen projelerin 2026 yılı içerisinde önemli eksikleri giderdiğini vurgulayan Haydar Uyar, Akropol Yolu, İsa Küçülmez Caddesi, Yaylalı Mahallesi ve Bük Yolu'nda da benzer asfalt ve genişletme çalışmalarının yapıldığını ifade etti. Kestel Mahalle Muhtarı Hüsnü Uyar ise mahallelerinin bu dönemde önemli hizmetler aldığını belirterek yapılan çalışmalardan duydukları memnuniyeti dile getirdi."
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "metin: kesme işareti tek karaktere indirildi"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Road_Paving_Work.jpg",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: BizLawLLC / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout"
+    },
+    "brief": {
+     "ana_konu": "Alanya'da yenilenen yola güvenlik kamerası kurulacak.",
+     "olmasi_gereken": [
+      "sıcak asfalt yol",
+      "güvenlik kamerası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Alanya Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Kestel Mahallesi",
+       "tur": "mekan"
+      },
+      {
+       "ad": "Alanya Alaaddin Keykubat Üniversitesi",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "toprak yol",
+      "orman yolu"
+     ],
+     "sorgular_en": [
+      "new asphalt road traffic camera",
+      "modern asphalt street"
+     ],
+     "sorgular_tr": [
+      "sıcak asfalt yol",
+      "Alanya caddesi"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:8157300",
+      "url": "https://pixabay.com/get/gace98b6715e4207b9c25956754477ee1a9bc94f0939face29f25aeb449bb05bf79eb4f028ffe75bf3a6c612c05fb866de4868e308660b044edc819bb8cf09dad_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "new asphalt road traffic camera",
+      "puan": 4,
+      "gerekce": "Genel asfalt yol görselidir ancak Alanya ile ilgisi yoktur.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:9450756",
+      "url": "https://pixabay.com/get/g7405caacd65afcd70249ab1a16132bb9fbb8ba5b81ce4f7e4572e7e8512d98cd4bff9fa9be2796433a45a1b48912b6157e00f17eeef49c14c0a5b55b966e27f6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern asphalt street",
+      "puan": 0,
+      "gerekce": "Haberin konusuyla tamamen alakasız bir moda fotoğrafıdır.",
+      "neden": "puan 0 < 7"
+     },
+     {
+      "id": "pixabay:5707070",
+      "url": "https://pixabay.com/get/g6ff5421d8ccd889856ed11879a7c20805252441152bbbe1e20a13b400cd88cdc5c8bada4dfdf3f5df6bb19fb40788fddbc5a02e8a1c3be20b75e45ec452c4596_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "new asphalt road traffic camera",
+      "puan": 4,
+      "gerekce": "Asfalt yol içerir ancak brief'te kaçınılması istenen orman yolu niteliğindedir.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:5156636",
+      "url": "https://pixabay.com/get/ge67863c4affd3c67d61ccd19145d6828c25840b483fa4c6c248431c201217399cbc8a1785fcdcdbfbd794ea360bf5ee42fe6ed1a52133580766f614309157f1a_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern asphalt street",
+      "puan": 4,
+      "gerekce": "Asfalt yol gösterse de yabancı bir şehir silueti olduğu için dolaylı kalır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:6654573",
+      "url": "https://pixabay.com/get/gc6f7a6673c47501261952e295edfdb55ce9aab5ef686145e5f517e44b8f404e5cb200118a97f5079aa2fc52a2a86ddec24d3c14ac96353d65e729386f06d2556_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "new asphalt road traffic camera",
+      "puan": 4,
+      "gerekce": "Genel bir yol ve trafik görselidir, haberle doğrudan bağı yoktur.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:4807295",
+      "url": "https://pixabay.com/get/g894808b261c150b5b4be8ee3ca9ba07b9abf690d59c7a87a93580ec0ddec14ae0d2eed8323508a815c4336daa6bc854f647e110a6ac87927116b4912518d2a0b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern asphalt street",
+      "puan": 2,
+      "gerekce": "Yol temalı olsa da odak noktası lüks bir otomobildir, haberle ilgisizdir.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:3392100",
+      "url": "https://pixabay.com/get/gb0442539092d7fc1cc93bece5d02d10cbe752a199237e910c03aa104a2fcb847792b71e7d74f5043400b5e00d8d7245aad8cf346eb7c7df450b4fb29e935ea4d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "new asphalt road traffic camera",
+      "puan": 4,
+      "gerekce": "Genel bir otoyol ve trafik manzarasıdır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1867451",
+      "url": "https://pixabay.com/get/gb0240de745a37f4c7beea91c63c759665e75fa1c46c16510c03c128f6a8711683f782dad462b2a168c7321e04cc8230051397b844d5f3ef8fc50a38b908a2fcc_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "modern asphalt street",
+      "puan": 4,
+      "gerekce": "Asfalt yol gösterse de turistik renkli evler haberi yansıtmaktan uzaktır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:7213206",
+      "url": "https://pixabay.com/get/g5ce1fad6d753de8ff55b6f0bcea2d9b8ebb98dd70e6a17f4b07765fe184edbfc74b20fdc71ca3146c3a61b8fc711fde5b735c1f1b725253a99c82b0efe9dce73_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "new asphalt road traffic camera",
+      "puan": 4,
+      "gerekce": "Genel bir otoyol ve trafik akışını gösterir.",
+      "neden": "puan 4 < 7"
+     }
+    ],
+    "notlar": [
+     "Commons 'Alanya Belediyesi': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Kestel Mahallesi': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Alanya caddesi': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "kurum:/images/kurum/db1f3edcac17d75f.jpg",
+     "yerel_url": "/images/kurum/db1f3edcac17d75f.jpg",
+     "kaynak": "kurum",
+     "sorgu": "kurum sitesi",
+     "puan": 10,
+     "gerekce": "Haberin birebir kendi gerçek olay yeri fotoğrafıdır, tam eşleşme sağlar.",
+     "gorunen": "Alanya Kestel Mahallesi'nde asfaltlanan yol ve çevre binaların havadan görünümü",
+     "sahip": "Alanya Belediyesi",
+     "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+     "sayfa": "https://www.alanya.bel.tr/haberler/kestel-yeni-sanayi-sitesi-nde-1-200-metrelik-yol-sicak-asfaltla-bulustu/126668",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "/images/kurum/db1f3edcac17d75f.jpg"
+    },
+    "secim": {
+     "tur": "gercek",
+     "gorsel": "/images/kurum/db1f3edcac17d75f.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Alanya Kestel Mahallesi'nde asfaltlanan yol ve çevre binaların havadan görünümü",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 10/10: Haberin birebir kendi gerçek olay yeri fotoğrafıdır, tam eşleşme sağlar.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "77c6073c9c36",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 10,
+      "esik": 7,
+      "gerekce": "Haberin birebir kendi gerçek olay yeri fotoğrafıdır, tam eşleşme sağlar.",
+      "sorgu": "kurum sitesi",
+      "tarih": "2026-11-26T15:47:28+03:00"
+     },
+     "kanit": {
+      "kaynak": "kurum",
+      "sayfa": "https://www.alanya.bel.tr/haberler/kestel-yeni-sanayi-sitesi-nde-1-200-metrelik-yol-sicak-asfaltla-bulustu/126668",
+      "sahip": "Alanya Belediyesi",
+      "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+      "lisans_kaniti": "fotoğraf kurumun kendi sunucusunda (admin.alanya.bel.tr); sayfada ajans kredisi yok",
+      "orijinal_url": "https://admin.alanya.bel.tr/Photos/News/Big/200237456117377880.jpg",
+      "alinma_tarihi": "2026-11-26T15:47:28+03:00",
+      "kimlik": "kurum:/images/kurum/db1f3edcac17d75f.jpg",
+      "phash": "a05dd996ac93c4d6",
+      "puan": 10
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261125-mavi-vatanin-mimari-cihat-yayci-antalyada-bulusmaya-katildi-9ac78.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Mavi Vatan'ın Mimarı Cihat Yaycı Antalya'da Buluşmaya Katıldı",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Mavi Vatan'ın Mimarı Cihat Yaycı Antalya'da Buluşmaya Katıldı",
+     "sonra": "Mavi Vatan'ın mimarı cihat Yaycı Antalya'da buluşmaya katıldı"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "başlık cümle düzenine getirildi: Mavi Vatan'ın Mimarı Cihat Yaycı Antalya'da Buluşmaya Katıldı → Mavi Vatan'ın mimarı cihat Yaycı Antalya'da buluşmaya katıldı"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1759477274012-263d469f0e16?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: SR Engineers and Consultants / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Cihat Yaycı Antalya Dayanışma Grubu'nun toplantısında deniz yetki alanları üzerine sunum yaptı.",
+     "olmasi_gereken": [
+      "konferans salonu",
+      "sunum ekranı",
+      "konuşmacı kürsüsü",
+      "izleyiciler"
+     ],
+     "varliklar": [
+      {
+       "ad": "Cihat Yaycı",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Antalya Dayanışma Grubu",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "askeri gemi",
+      "savaş uçağı"
+     ],
+     "sorgular_en": [
+      "conference speaker presentation",
+      "seminar audience hall"
+     ],
+     "sorgular_tr": [
+      "konferans salonu sunum",
+      "Cihat Yaycı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:1597531",
+      "url": "https://pixabay.com/get/gdf68cd8c522b2dc91069e074e75ec8d7d02eebff7ac151aabd9408b288587df1faf92fbaee8d47b5c68567bafd57cfa0e659f9b03bd86bb0066e45d9a8b1eb83_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "conference speaker presentation",
+      "puan": 6,
+      "gerekce": "Konferans salonu ve izleyicileri gösteriyor ancak ana konuşmacı veya sunum ekranı net olarak seçilmiyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:4702060",
+      "url": "https://pixabay.com/get/gd713059ff9fbcfa44a17a5a0d5a196490aa461e159afeae64a2b3aa8636ad828681df166a8dd429266be42f672079576088c5b3cf4b828032f38239e4f0ff611_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "conference speaker presentation",
+      "puan": 3,
+      "gerekce": "Haberle ve Cihat Yaycı'nın sunumuyla ilgisi olmayan genel bir ofis/eğitim stok fotoğrafı.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:1597529",
+      "url": "https://pixabay.com/get/g0754440c556fe492fa5fcb4aad644a191240bdf76c11351cad4e65c20ca8bc0f423c360916f7411a50bcb21e04c0e7a483149a701d0422db4f189b946a40b5fa_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "seminar audience hall",
+      "puan": 5,
+      "gerekce": "Salon ortamını gösterse de üst açıdan çekildiği için sunum alanı ve konuşmacı görünmüyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3986809",
+      "url": "https://pixabay.com/get/g535d2c602ef63e956943fa1ae6fbc343d6daf970bee6ef593a74c7339183b2f61d574d4ac13f97ac096e6cb66881a77ca7860d94e708961c5f8844e65ee513b3_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "conference speaker presentation",
+      "puan": 8,
+      "gerekce": "Konferans salonu, konuşmacı, sunum ekranı ve katılımcılar brief'e oldukça uygun.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:6651873",
+      "url": "https://pixabay.com/get/ga21ef4f99c212e6786baf64c7402c8a8ebfa7a097d12b81be4a276199e3bc68c13042536586745fa6b2f1832ebb0f7b2b91e5b2e6b50febea8b4c41bc19d0c92_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "seminar audience hall",
+      "puan": 4,
+      "gerekce": "Salon ortamını yansıtıyor ancak insan veya sunum unsuru bulunmadığı için yetersiz.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:3248255",
+      "url": "https://pixabay.com/get/g8be53c9c3a5ff51ed75467c8d82711421d47fbcd024badc3838f565084ea700551d60821a1aafc1f428af26ebca4a0f1913509f501067bbd63a56df9abaf84ba_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "conference speaker presentation",
+      "puan": 7,
+      "gerekce": "Bir sunum veya toplantı ortamını yakından başarıyla yansıtıyor, okuru yanıltmıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:3928259",
+      "url": "https://pixabay.com/get/g79c59543ebad7061e5cc6f71b8464468e087ebbe3a581c5f49127dfec40f13f07773e9bed9f926685c8750b7870147931de453eec07c5de7e91192ecec0246be_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "seminar audience hall",
+      "puan": 5,
+      "gerekce": "Toplantı konseptine uygun olsa da ana odak bireysel bir stok görsel hissiyatı veriyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:704255",
+      "url": "https://pixabay.com/get/gf4fdba2088894c3224a8b91156fa3d42c27b16bac371ab272be11b9e0ad7e9d74a79291b8b7059968b6c2c23062316cc_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "conference speaker presentation",
+      "puan": 7,
+      "gerekce": "Toplantı ve sunum atmosferini mikrofon detayıyla başarılı şekilde destekliyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:1033000",
+      "url": "https://pixabay.com/get/g3961641aa3e7e08fa5c3d55b2c61598d86044687e65d2a01e2a6e44f2164f37c306f05caa1c8f3e07d34fddd85077f1a3709bfbf72761dfbdfd46ed5f790331f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "seminar audience hall",
+      "puan": 4,
+      "gerekce": "Salon ortamı var ancak tamamen boş ve katılımcı ya da sunum unsuru içermiyor.",
+      "neden": "puan 4 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Cihat Yaycı': 5 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Cihat Yaycı': 5 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:83519",
+     "yerel_url": "/images/haber-gorsel/pixabay-83519-aab263a7.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "seminar audience hall",
+     "puan": 8,
+     "gerekce": "Konferans salonu, sunum ekranı ve kalabalık dinleyici kitlesini net bir şekilde yansıtıyor.",
+     "gorunen": "Büyük bir konferans salonunda sunum ve katılımcılar",
+     "sahip": "12019",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/meeting-addis-ababa-ethiopia-hall-83519/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gf069fe5072805742a4fb2019620fb0a994c27fb1235aaac9f23920298e8ac8abb654e6083fa8fb04a869ab9f98b62781_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-83519-aab263a7.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Büyük bir konferans salonunda sunum ve katılımcılar",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Konferans salonu, sunum ekranı ve kalabalık dinleyici kitlesini net bir şekilde yansıtıyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "ea7cb2e136fa",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Konferans salonu, sunum ekranı ve kalabalık dinleyici kitlesini net bir şekilde yansıtıyor.",
+      "sorgu": "seminar audience hall",
+      "tarih": "2026-11-26T15:47:38+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/meeting-addis-ababa-ethiopia-hall-83519/",
+      "sahip": "12019",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g519f922cd6d408b9683feedd2177c4b9bed5ec4470061c6d955cef4341c9f625e8b9ba044346ba3b54fcb2888013e6f0_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:47:38+03:00",
+      "kimlik": "pixabay:83519",
+      "phash": "c1948f134336b7a7",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261122-turkiyede-calisan-cocuk-sayisi-882-bine-ulasti-950cd.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "Türkiye'de çalışan çocuk sayısı 882 bine ulaştı",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": true,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1719159381962-4170890ada4e?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Haseeb Modi / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Türkiye'de 15-17 yaş grubundaki çalışan çocuk sayısı 882 bine ulaştı.",
+     "olmasi_gereken": [
+      "çırak",
+      "sanayi dükkanı",
+      "tezgah",
+      "çalışan genç"
+     ],
+     "varliklar": [
+      {
+       "ad": "Türkiye İstatistik Kurumu",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "mutlu öğrenci",
+      "tatil sahnesi"
+     ],
+     "sorgular_en": [
+      "working youth apprentice",
+      "young worker industrial workshop"
+     ],
+     "sorgular_tr": [
+      "çalışan çocuk işçi",
+      "sanayi çırak"
+     ],
+     "tarihi_haber": false,
+     "hassas": true
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:593371",
+      "url": "https://pixabay.com/get/g88515e9bb307b2da747354a89be4b18e49630eb8969bfb4d49aa99f40164ef2a020538f0adeccd67c6f38291cc5366cc_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "working youth apprentice",
+      "puan": 4,
+      "gerekce": "Genç bir çalışanı gösteriyor ancak sanayi veya çıraklık ortamını yansıtmıyor, ofis ortamı.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:593357",
+      "url": "https://pixabay.com/get/gea9a5674ed066931f581aa4fbea47de62cd9746fabb8a82cb22cca77250bab283141fed156f1a5db5e2a07542a3d5726_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "working youth apprentice",
+      "puan": 4,
+      "gerekce": "Çalışan genç temasına uygun ancak ofis/serbest çalışma ortamı, haberin odaklandığı çıraklık veya sanayi temasından uzak.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:8772016",
+      "url": "https://pixabay.com/get/g85571e583a8caa6018dfb1b08ed32614394260b3f4efd8f99404b90a04408c34e6b390e930d6c8008493d487a07a5d505aba591c896c4050ba35f53905a5297e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "young worker industrial workshop",
+      "puan": 7,
+      "gerekce": "Sanayi ve çırak çalışma koşullarını yansıtan güçlü bir atölye görseli.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:731894",
+      "url": "https://pixabay.com/get/g0c814d5bd5f96661534388de36b96440bb49d3db3e6f20cd685f4bf80bea81ccfdc80c3b11284bde2a4d9ec658635fb0_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "working youth apprentice",
+      "puan": 2,
+      "gerekce": "Tatil sahnesini andıran rahat bir ortam gösterdiği için kaçınılacaklar kuralına giriyor ve habere uygun değil.",
+      "neden": "puan 2 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:9370143",
+      "url": "https://pixabay.com/get/g180a52ae1c9cced57540d193b0749eb176bcaf166f3d4bf630786aa6429a1c89f5945698de0a81aae910b09071501106c3789bc9a194e2a5c047b23426440a94_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "young worker industrial workshop",
+      "puan": 7,
+      "gerekce": "Sanayi ve çırak çalışmasını somut şekilde temsil eden başarılı bir atölye karesi.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:593372",
+      "url": "https://pixabay.com/get/g14a66542363fd0ed72be02f91cccdfb17d2c5c8cf74e85debfac60bcf828be39ee9304b5c05953e867dfcead1b800527_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "working youth apprentice",
+      "puan": 4,
+      "gerekce": "Çalışan genç konseptine uyuyor fakat ofis tarzı olduğu için sanayi/çırak vurgusunu yansıtmıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1838986",
+      "url": "https://pixabay.com/get/ge4b092539e6ed29e851c080deaa735fe5f1366ca71ef4685fb7c4eae1496f9872bf7d762b816c9902368e1d9d1801a98dbfd3a58a954c292ca550039964e9206_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "young worker industrial workshop",
+      "puan": 7,
+      "gerekce": "Sanayi atölyesinde ağır çalışma şartlarını gösteren uygun bir işçi görseli.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:386673",
+      "url": "https://pixabay.com/get/g3029e28e40e63b023218bd21d951adc1c034ec65775a647ebc48f2202b379a3f5aa2a8eb85d0dd485f9d177f721163f1_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "working youth apprentice",
+      "puan": 1,
+      "gerekce": "Mutlu öğrenci veya tatil/sosyal aktivite havası taşıdığı için haberle tamamen alakasız.",
+      "neden": "puan 1 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:5736096",
+      "url": "https://pixabay.com/get/g3cb73ea4325183b631c64f5b0a8afbb94f71197eb74b5b923d56744540aaa02ec53af290225b6c6d7fb061d59cc273cf418fe172a3e319bd379e8fcf9a5cfe04_640.jpg",
+      "kaynak": "pixabay",
+      "puan": 7,
+      "gerekce": "Sanayi atölyesinde çalışan bir genci temsil etmek için uygun bir iş ortamı görseli.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Kepez Belediyesi): No module named 'playwright'",
+     "Commons 'Türkiye İstatistik Kurumu': 9 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:5243951",
+     "yerel_url": "/images/haber-gorsel/pixabay-5243951-c4ca212a.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "young worker industrial workshop",
+     "puan": 8,
+     "gerekce": "Sanayi dükkânında çalışan genç/çırak temasını ve zorlu çalışma koşullarını birebir yansıtıyor.",
+     "gorunen": "Karanlık bir sanayi dükkanında kaynak yapan maskeli genç işçi.",
+     "sahip": "mostafa_meraji",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/job-welding-people-life-lifestyle-5243951/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/gefdee72aa03b11acd3c18db9f04a1dfbeb879d9e2ebf05adeba407955aa9337a1b849a9fb7402ea1e80ed139b8c90ba5b3bd4da6973f59b0664896dbb6787b64_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-5243951-c4ca212a.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Karanlık bir sanayi dükkanında kaynak yapan maskeli genç işçi.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Sanayi dükkânında çalışan genç/çırak temasını ve zorlu çalışma koşullarını birebir yansıtıyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "738ed7594b89",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Sanayi dükkânında çalışan genç/çırak temasını ve zorlu çalışma koşullarını birebir yansıtıyor.",
+      "sorgu": "young worker industrial workshop",
+      "tarih": "2026-11-26T15:47:50+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/job-welding-people-life-lifestyle-5243951/",
+      "sahip": "mostafa_meraji",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/gd740b2b00aa55e05be6f761ed2f69ba241e019b00cb368fc3f40169b626af759d93ad1a9e50b7a07cc6ff98e41710e104b82f25766357c172fd1646ffc185d83_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:47:50+03:00",
+      "kimlik": "pixabay:5243951",
+      "phash": "c7b53c3ca7296960",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor",
+    "ölüm/suç/intihar/çocuk haberi"
+   ]
+  },
+  "20261126-ysk-baskani-muttadan-elektronik-oy-aciklamasi-967d7.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:42:55+03:00",
+   "baslik": "YSK Başkanı Mutta'dan elektronik oy açıklaması",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Turkey_2018_elections%2C_ballot_box.jpg",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Hedda Gabler / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout"
+    },
+    "brief": {
+     "ana_konu": "YSK Başkanı Serdar Mutta yurt dışı seçmenler için elektronik oy sistemini değerlendirdiklerini açıkladı.",
+     "olmasi_gereken": [
+      "elektronik oy terminali",
+      "dijital ekran",
+      "seçim sandığı",
+      "konferans masası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Yüksek Seçim Kurulu",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Serdar Mutta",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "kağıt oy pusulası",
+      "mühürlü zarf"
+     ],
+     "sorgular_en": [
+      "electronic voting machine",
+      "digital voting system"
+     ],
+     "sorgular_tr": [
+      "elektronik oy",
+      "Yüksek Seçim Kurulu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "commons:Nokia_6150_Net_Monitor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nokia_6150_Net_Monitor.jpg/1280px-Nokia_6150_Net_Monitor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "kaynak": "commons",
+      "neden": "indirilemedi: 400 Client Error: Use thumbnail sizes listed on https://w.wiki/GHai for url: https://thumb.wikimedia.org/w"
+     },
+     {
+      "id": "pixabay:2692466",
+      "url": "https://pixabay.com/get/g1670e76bffd86ba94e87cee010c697d19242588ee0a90a0321e05b1ecdd1f1f881558df6787cef62c2101fca042a1987067446811190f21f3d8a960455280da0_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "electronic voting machine",
+      "puan": 4,
+      "gerekce": "Seçim kavramıyla dolaylı olarak ilgili ancak elektronik oy veya YSK ile doğrudan bir bağlantısı bulunmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:439046",
+      "url": "https://pixabay.com/get/g0a7957801b425093e1ead0bcc212522c339f45ef3e56fc8592cc6d5301984d91a553a52bc6a321d6e2e9aa8d669dc919_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "digital voting system",
+      "puan": 1,
+      "gerekce": "Haberin konusu olan elektronik oy sistemiyle tamamen alakasız, uzay temalı bir görsel.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "pixabay:2181101",
+      "url": "https://pixabay.com/get/g6a6c90e6808fd007cf994151293b0b0ec93a8f7523c005b03046ff65bec724165123bb24df35735cd7f30b5e677fe6179e922f73187ddc00cfd67b033ee971ef_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "electronic voting machine",
+      "puan": 2,
+      "gerekce": "Kağıt oy pusulası içerdiği için brief'teki kaçınılacaklar listesine giriyor ve elektronik oyla çelişiyor.",
+      "neden": "puan 2 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:2718936",
+      "url": "https://pixabay.com/get/gbf915fe1f84c86dede1865d120307ded1bee2d6b99f15d3b38700aade9b153080947e30a0dc3acb99b42ba7f67bcd7cac15023761de113017a6542fe50bfecb2_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "electronic voting machine",
+      "puan": 2,
+      "gerekce": "Yabancı posta zarfları ve kağıt seçim süreçlerini temsil ettiği için brief kurallarına uymuyor.",
+      "neden": "puan 2 < 7; kesin ret: kacinilacak"
+     },
+     {
+      "id": "pixabay:1365995",
+      "url": "https://pixabay.com/get/gb52c5049ef5afd89a58cc2d7ac6c773219e17121abe628de3d90ca94a99c2014ae15f87e3be1b26a3f8a46aa305959e5b59c781e15bef29d094cf840cdff036f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "digital voting system",
+      "puan": 1,
+      "gerekce": "Yurt dışı seçmen vurgusu nedeniyle dünya görseli seçilmiş olsa da elektronik oy haberiyle doğrudan bağ kurmuyor.",
+      "neden": "puan 1 < 7"
+     },
+     {
+      "id": "pixabay:9176783",
+      "url": "https://pixabay.com/get/gf9e84af0910a13d6ee72025bfb9be2d36f6f01d86fc1ba788b0527858dbf887bb20f928de80fd73e0568d95a44689d8928c30e16f89c07c09a36c9cfa14afb90_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "electronic voting machine",
+      "puan": 3,
+      "gerekce": "ABD bayrağı barındırıyor ve haberimiz Amerika ile ilgili olmadığı için ihlal içeriyor.",
+      "neden": "puan 3 < 7; kesin ret: yabanci_bayrak"
+     },
+     {
+      "id": "pixabay:1452987",
+      "url": "https://pixabay.com/get/g3290ad134a2caa456adbc718e2670229d9f7ac65a9d3d64b2c935e9b1db10f97f45a189d45e3969dd3bb92dfab0e56aab2f4ad3fd5e2f79556b48ac39dba8354_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "electronic voting machine",
+      "puan": 4,
+      "gerekce": "Teknolojik altyapı ve çalışmaları simgelemek için dolaylı olarak kullanılabilir ancak dijital oyu tam yansıtmıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "commons:Nokia_5510_back.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nokia_5510_back.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "kaynak": "commons",
+      "sorgu": "Commons: elektronik oy",
+      "puan": 1,
+      "gerekce": "Elektronik oy sistemi açıklamasıyla hiçbir anlam bağdaşması olmayan eski cep telefonu içleri.",
+      "neden": "puan 1 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Yüksek Seçim Kurulu': 5 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'elektronik oy': 10 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Yüksek Seçim Kurulu': 5 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261125-antalyadaki-restoran-cinayetinde-ilk-durusma-goruldu-57486.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:00+03:00",
+   "baslik": "Antalya'daki restoran cinayetinde ilk duruşma görüldü",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": true,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Close-up_of_Lady_Justice_statue_holding_scales%2C_symbolizing_justice_and_fairness.jpg",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: DP Singh Bhullar / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout"
+    },
+    "brief": {
+     "ana_konu": "Antalya'da restoran işletmecisi Haluk Altın'ın öldürülmesine ilişkin davanın ilk duruşması görüldü.",
+     "olmasi_gereken": [
+      "mahkeme salonu",
+      "adliye binası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya 4'üncü Ağır Ceza Mahkemesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Haluk Altın",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Ceyhun Bulut",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "silah",
+      "kan lekesi"
+     ],
+     "sorgular_en": [
+      "courthouse building exterior",
+      "courtroom trial"
+     ],
+     "sorgular_tr": [
+      "adliye binası",
+      "mahkeme salonu"
+     ],
+     "tarihi_haber": false,
+     "hassas": true
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:3385958",
+      "url": "https://pixabay.com/get/g5d7012981b445e99c8df2f1e65cff350d39a587320befad11e96ab961f13fe04d21b08aa2d773cb8a4a507dcf0460f406887dddc39c488dacbac52eeb468d5d5_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courthouse building exterior",
+      "puan": 4,
+      "gerekce": "Haber Antalya'da geçiyor ancak görseldeki yapı Münih'te ve yabancı bayrak içeriyor.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir, yabanci_bayrak"
+     },
+     {
+      "id": "pixabay:2492011",
+      "url": "https://pixabay.com/get/g3629031c32e2fa7b1bf7f0efa8989db00d47a41ed974d8a19f80de1d1d0a628a8abdb9c44289b216866104c333aed978e5d781f0f6f8f0fb135c8f85a9d31642_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courtroom trial",
+      "puan": 3,
+      "gerekce": "Türk yargısında hakim tokmağı kullanılmaz, bu nedenle yanıltıcı ve konuya uzak.",
+      "neden": "puan 3 < 7; kesin ret: hakim_tokmagi"
+     },
+     {
+      "id": "pixabay:4012396",
+      "url": "https://pixabay.com/get/gf05d48d077f06d5ec71f477b0b7142afd7755be8c7071fe767019c83590372b22f3caf52e1752808aa908fbe58da076ad29d496375a07a0b30da68717d93860b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courthouse building exterior",
+      "puan": 5,
+      "gerekce": "Genel bir adliye dış cephesi havası verse de yabancı bir şehre ait olması nedeniyle puanı düşük.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "pixabay:802301",
+      "url": "https://pixabay.com/get/g8c679db477757b0abb5efe9521489454de904acbcca333e01305acdc900a637e037f5ef928fbfd72864fbe7eca1c1e00_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courtroom trial",
+      "puan": 2,
+      "gerekce": "Hakim tokmağı içermesi ve klişe bir adalet objesi olması nedeniyle uygun değil.",
+      "neden": "puan 2 < 7; kesin ret: hakim_tokmagi"
+     },
+     {
+      "id": "pixabay:2225766",
+      "url": "https://pixabay.com/get/g3022b6d8ece9f4ce4e1e46bee66eddd2310f5f86e2a0c139faf503b15dd2af681e99d83661e3c11ee2ab016da4fb2c9731ede1134edbd1c186dcc9f497cf96ef_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courthouse building exterior",
+      "puan": 4,
+      "gerekce": "Washington'daki bir mahkeme binası olduğu için Türkiye'deki bir dava haberine uygun değil.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "pixabay:3665164",
+      "url": "https://pixabay.com/get/g1af374f151a98e073bc98ddfee606b593dab4bd2f2f6dfac80c9a67e7764cfa0d72a140fec596860fdc035386bceefc0f6da19ea8b8f651bb295188c2cff4f5e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courtroom trial",
+      "puan": 3,
+      "gerekce": "Yasaklı hakim tokmağı objesini içerdiği ve haberi somutlaştırmadığı için zayıf.",
+      "neden": "puan 3 < 7; kesin ret: hakim_tokmagi"
+     },
+     {
+      "id": "pixabay:2090170",
+      "url": "https://pixabay.com/get/g75e6869cc1654a0accf25f4e199f296955855247f37a822d70e9c1504f8caae1cac2ce3fac2569fae23b097147f0f42ab2ea75192385707f21e4b908d6bc5c97_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courthouse building exterior",
+      "puan": 5,
+      "gerekce": "Avrupa'dan bir adliye binası olması Türkiye'deki asayiş haberi için uygun değil.",
+      "neden": "puan 5 < 7; kesin ret: baska_sehir"
+     },
+     {
+      "id": "pixabay:7499911",
+      "url": "https://pixabay.com/get/g85d958cb7c701caf1dde6d543a123f673c5499d6b27b46b8a77ef60ae911b77d207c7ebbad4bddfeca2c6f347f1989fceca08fc28643b5f093dc572555bffe3e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courtroom trial",
+      "puan": 3,
+      "gerekce": "Hakim tokmağı içeriyor ve haberle doğrudan bir bağı bulunmuyor.",
+      "neden": "puan 3 < 7; kesin ret: hakim_tokmagi"
+     },
+     {
+      "id": "pixabay:2225765",
+      "url": "https://pixabay.com/get/gb25d9cf54faac1811e43e57c3551b2bfe8bd04068af8c185432f430c761529159ca95c5dc9de2ed0d05781985fffcd3d516025a886e789d326a555589bd9cf0c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "courthouse building exterior",
+      "puan": 4,
+      "gerekce": "Amerika'daki bir mahkemeyi gösterdiği ve yabancı bayrak içerdiği için uygunsuz.",
+      "neden": "puan 4 < 7; kesin ret: baska_sehir, yabanci_bayrak"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'adliye binası': 10 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'mahkeme salonu': 3 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:898931",
+     "yerel_url": "/images/haber-gorsel/pixabay-898931-27ed9e3c.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "courtroom trial",
+     "puan": 7,
+     "gerekce": "Mahkeme salonunu net şekilde gösteriyor, okuru yanıltmıyor ancak yabancı mahkeme detayları barındırabiliyor.",
+     "gorunen": "Ahşap oturma alanları ve kürsüsü olan boş bir mahkeme salonu içi.",
+     "sahip": "12019",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g665d6fe991e98d237fd29aa1293bcc6e3bbb5ce2dc5b78c6c76e85af0e5b5299c419cba427fe100fffbed03bcdc466f0_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-898931-27ed9e3c.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Ahşap oturma alanları ve kürsüsü olan boş bir mahkeme salonu içi.",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 7/10: Mahkeme salonunu net şekilde gösteriyor, okuru yanıltmıyor ancak yabancı mahkeme detayları barındırabiliyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "177409dc1582",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 7,
+      "esik": 7,
+      "gerekce": "Mahkeme salonunu net şekilde gösteriyor, okuru yanıltmıyor ancak yabancı mahkeme detayları barındırabiliyor.",
+      "sorgu": "courtroom trial",
+      "tarih": "2026-11-26T15:48:12+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/",
+      "sahip": "12019",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/ga583cab0538894c3da2ecc0650d42300678a01c96b5e3d2cf261ef5dde049a2dff6b8f5850690399fe39cd0af08da9e33ba0b9e23bc41eca45af5e8505a925bf_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:48:12+03:00",
+      "kimlik": "pixabay:898931",
+      "phash": "dd9f8707d52188d8",
+      "puan": 7
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor",
+    "ölüm/suç/intihar/çocuk haberi"
+   ]
+  },
+  "20261125-kirsalda-kadin-ureticilerin-emegi-yogun-ancak-kayit-sistemle-18cd8.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:00+03:00",
+   "baslik": "Kırsalda kadın üreticilerin emeği yoğun ancak kayıt sistemlerinde eksik",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "adres": {
+    "once": "/haber/20261125-kirsalda-kadin-ureticilerin-emegi-yogun-ancak-kayit-sistemle-18cd8/",
+    "sonra": "/haber/20261125-kirsalda-kadin-ureticilerin-emegi-yogun-ancak-kayit-18cd8/"
+   },
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1568680870491-590cd4e224ab?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Nathan Lugo / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Growtech Antalya fuarında kadın çiftçilerin tarımsal üretimdeki yeri ve kayıt sorunları ele alındı.",
+     "olmasi_gereken": [
+      "tarım fuarı",
+      "kadın çiftçi",
+      "sera",
+      "tarım paneli"
+     ],
+     "varliklar": [
+      {
+       "ad": "Growtech Antalya",
+       "tur": "etkinlik"
+      },
+      {
+       "ad": "Türk Tarımsal Diplomasi Grubu",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "fabrika",
+      "ofis masası"
+     ],
+     "sorgular_en": [
+      "women farmers agriculture",
+      "agricultural exhibition greenhouse"
+     ],
+     "sorgular_tr": [
+      "kadın çiftçi tarım",
+      "Growtech Antalya"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:6027128",
+      "url": "https://pixabay.com/get/ge9281455fc43004678c670b09b633577e9fd349d6c4837b8f0130546c633e458cc984d292f1f8f241dd43725fe74a5fb5185324b4f32acca243f5fbf9e84f47d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women farmers agriculture",
+      "puan": 4,
+      "gerekce": "Kadın çiftçiler temasını dolaylı olarak yansıtıyor ancak protesto havası ve yabancı coğrafya habere tam uymuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1561565",
+      "url": "https://pixabay.com/get/g0748b58051293969f656eb92d21180acf50072b7ca7c4c3d7610f42b13a49ae837fab219bb83655bca594c7c0bec6d6240036e8a0ceb7ea726df44ac370c5952_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "agricultural exhibition greenhouse",
+      "puan": 5,
+      "gerekce": "Tarım ve seracılığı simgeleyen kaliteli bir görsel fakat kadın üretici vurgusunu içermiyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:9793079",
+      "url": "https://pixabay.com/get/g98a79329e5558cdb28832cabdc626aea8a831ec89b850bc06961d0806d10a607bcecaeac07a15c304b327d5d2547416c84d146b1b8b13a8f9ee1be29976fc15d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women farmers agriculture",
+      "puan": 5,
+      "gerekce": "Kadın çiftçi ve tarım temasına uygun olsa da yabancı kıyafet ve coğrafya barındırıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:5566744",
+      "url": "https://pixabay.com/get/g36542b3e773256ac777588ea6bf7a08cd25dd2da2640427ed00b80f050ea91ebeef9d5ba6ca792bd0ece92c287440525a3f104000456caea836b0bac836e55ec_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "agricultural exhibition greenhouse",
+      "puan": 4,
+      "gerekce": "Tarımsal üretimi temsil eder ama kadın üretici ve kayıt sorunu odaklı habere özel bir katkı sağlamaz.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:4703641",
+      "url": "https://pixabay.com/get/g559663d40baa2402dada3fe21286be56e86c4f8e30d01ea57df044a6b069b74ec1feff971a65ac568eac7db08e7eddef2144399e85259b6d81ee0f02c5268a67_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women farmers agriculture",
+      "puan": 4,
+      "gerekce": "Kadın ve kırsal yaşam temalı ancak stok fotoğraf havası fazla ve haberin ana ekseni olan kayıt sorununa uzak.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:4948726",
+      "url": "https://pixabay.com/get/ga0b7ba179ab1d2ada15ee53bd6e4952701f162c68c05ac646c1a926bec648cedb05bf654268fbbbaa4c0cf126b17ee70a77166f7bf48349eac8a3545ee8c4c72_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "agricultural exhibition greenhouse",
+      "puan": 6,
+      "gerekce": "Growtech fuarının ana mekânı olan serayı gösteriyor, fakat kadın üretici unsuru eksik.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:1866559",
+      "url": "https://pixabay.com/get/g28270bd83d1617b5262815d3a66f1ca44e35ffe535584cd6c3ae84d8ec6936efa6e443a10fd170a4aecf97521a3449dd07a9ce28958ed546ac57ace9c9d86a0d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women farmers agriculture",
+      "puan": 4,
+      "gerekce": "Genel tarım haberi için kullanılabilir ancak kadın üretici vurgusunu karşılamıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:7130024",
+      "url": "https://pixabay.com/get/gcd793487fc4fd64533005c283e4d1ea551f8b32fafe9e8c02d6783d0abee9ed6d6c88369caac83a1052a28250ee6780c19df3889ea031e3914c0cf0b0a6240a2_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "agricultural exhibition greenhouse",
+      "puan": 3,
+      "gerekce": "Haberle çok zayıf bir bağı var, detaylar seçilemiyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:10502067",
+      "url": "https://pixabay.com/get/g7be5a0bb4986607527753d0808df5e87c5b635a991a4c09d01e3dfaf302e4ff134e1a4eb0c030d708cf198d5cfa1b09fd9d3884778fce3b0fc59993c9f41c967_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women farmers agriculture",
+      "puan": 3,
+      "gerekce": "Modern tarım fuarları ve kadın üretici sorunlarını ele alan haberle uyuşmuyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:794571",
+      "url": "https://pixabay.com/get/g92b5818866ab6ad96d881e2fdd175dd6c691047f0d414046e081bd54c2f54def2089a1464798ad94924b254b9fd4733c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "agricultural exhibition greenhouse",
+      "puan": 5,
+      "gerekce": "Sera ve tarım üretimini simgeliyor fakat kadın çiftçi vurgusunu yansıtmıyor.",
+      "neden": "puan 5 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261123-alanyada-bisiklet-egitimi-alan-kadinlar-sertifikalarini-aldi-7bd90.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:00+03:00",
+   "baslik": "Alanya'da bisiklet eğitimi alan kadınlar sertifikalarını aldı",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1659027790911-39a13c34068a?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Gary Scott / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Alanya'da bisiklet eğitimi alan kadınlar sertifikalarını aldı.",
+     "olmasi_gereken": [
+      "bisiklet",
+      "sertifika töreni",
+      "kadın kursiyerler",
+      "sahil yolu"
+     ],
+     "varliklar": [
+      {
+       "ad": "Alanya Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Yunus Yetkin",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "motoriklet",
+      "araba yarışı"
+     ],
+     "sorgular_en": [
+      "women cycling training certificate",
+      "bicycle riding course"
+     ],
+     "sorgular_tr": [
+      "Alanya bisiklet eğitimi",
+      "sertifika töreni bisiklet"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:8215968",
+      "url": "https://pixabay.com/get/g56770fce68067146b188faabc91ebb048ae51aafd3d52a3e1ef3ece86065606489890c731c7d8eea56195cc0b38e1b95216ee82204e1eccd001428bf77c16e31_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women cycling training certificate",
+      "puan": 5,
+      "gerekce": "Kadın ve bisiklet unsurları var ancak yerel bir kurs yerine profesyonel yarışçılığı gösterdiği için dolaylı kalıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:7396608",
+      "url": "https://pixabay.com/get/g72016d89be98eb73bd79b6361fed3382afb7e4910d2300728d11ea0a4fea5204437ec9d8cd780bc7202e2a578aba24cc1e78e711cc8eb322f675f1902975f7fa_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bicycle riding course",
+      "puan": 4,
+      "gerekce": "Sahil temasına sahip ancak kursiyer yetişkin kadınlar yerine çocukların silüetini gösterdiği için ilgisi zayıf.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1851269",
+      "url": "https://pixabay.com/get/gee02e3ad7d7954dcf94b96e316bea2a7bd089a40dca51a876f2350773e1dbdfaf419decec3299d2d0946f27009d4b16e741854b41f41772431dda2cca3e326f2_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women cycling training certificate",
+      "puan": 4,
+      "gerekce": "Haberdeki kadın kursiyerlerle uyuşmayan erkek sporcuları gösterdiği için pek uygun değildir.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:6804105",
+      "url": "https://pixabay.com/get/g6e49af55d54b6137fb6c618cf6755e51547998f9d7447500d81137f1a5e08a24e7ebaa5c0845be6133496ed1fe7b5057d7a460813bb818ce9755e3436c20a45f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bicycle riding course",
+      "puan": 5,
+      "gerekce": "Genel bir bisiklet sürüşü anı ancak Alanya'daki kurs ve sertifika konusuyla doğrudan bağı yoktur.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3112028",
+      "url": "https://pixabay.com/get/g0b4c35bc01b79131983c690a74538f9ffa8ffcff0c5ba8bb10f0cd1caf4f8b55cef5a4a6f99f0a7ec5939a35fbfeda81109710b69b12f1d85bc71f12b0cef713_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women cycling training certificate",
+      "puan": 4,
+      "gerekce": "Genel bir bisiklet görseli olup haberin öznel içeriğini yansıtmaktan uzaktır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:7859039",
+      "url": "https://pixabay.com/get/g815864ff80f4fef9a0153346aefbb979156d64b9278b0d511402f3daad1bc5d2e7c79aacc25605f1b47f8beeb337cf6b2e0be049f3d8fa15dcf508ce8899e423_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bicycle riding course",
+      "puan": 3,
+      "gerekce": "Sadece bisiklet detayını gösteriyor; kurs, tören veya insan unsuru bulunmuyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:8088372",
+      "url": "https://pixabay.com/get/g9c8954a77fee393f86523c1fa5d4ba2cc47a7b94899f6465e13944018438b4daed1d4b703a3cf6277e85e24e5d3d47645f86611f1c40b00faa82788d8ea548df_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women cycling training certificate",
+      "puan": 4,
+      "gerekce": "Bisiklet binişini gösterse de Alanya'daki sertifika töreni ve kadın kursiyerlerle ilgisi dolaylıdır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:3045580",
+      "url": "https://pixabay.com/get/ge528d2a70c7f5b038f663e115a9e9cde709f5a62693ed03c901d1086e160223535b09307298a24aaf6e330ab67ef5758ca29c20894d41cae1b20ac499131cd94_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bicycle riding course",
+      "puan": 2,
+      "gerekce": "Gerçek bir eğitim veya tören yerine duvar resmi gösterdiği için habere tamamen yabancıdır.",
+      "neden": "puan 2 < 7"
+     },
+     {
+      "id": "pixabay:1281675",
+      "url": "https://pixabay.com/get/g042650bf86633ec14997ee16af7c62257a5e2763bbdbee29c9164f66c38cec876952ea6aed6f99c8266d6c4e7a4e4192e360f35da1a70509b91e364442e29e57_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "women cycling training certificate",
+      "puan": 4,
+      "gerekce": "Genel bir bisiklet yarışı/sürüşü stok fotoğrafıdır, haberin ana temasıyla zayıf bağı vardır.",
+      "neden": "puan 4 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "Commons 'Alanya Belediyesi': 13 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "kurum:/images/kurum/0ea7c9ac08b6d812.jpg",
+     "yerel_url": "/images/kurum/0ea7c9ac08b6d812.jpg",
+     "kaynak": "kurum",
+     "sorgu": "kurum sitesi",
+     "puan": 10,
+     "gerekce": "Haberin gerçek olayından, mekânından ve katılımcılarından çekilmiş orijinal görselseldir; tam uyuşmaktadır.",
+     "gorunen": "Alanya sahilinde bisikletleriyle bir araya gelen kadın kursiyerler",
+     "sahip": "Alanya Belediyesi",
+     "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+     "sayfa": "https://www.alanya.bel.tr/haberler/kadinlar-bisiklet-surme-hayallerini-gerceklestirdi/126665",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "/images/kurum/0ea7c9ac08b6d812.jpg"
+    },
+    "secim": {
+     "tur": "gercek",
+     "gorsel": "/images/kurum/0ea7c9ac08b6d812.jpg",
+     "gorsel_kredi": "",
+     "durum": "onaylandi",
+     "gosterilen": "Alanya sahilinde bisikletleriyle bir araya gelen kadın kursiyerler",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 10/10: Haberin gerçek olayından, mekânından ve katılımcılarından çekilmiş orijinal görselseldir; tam uyuşmaktadır.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "fc63d97af1cc",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 10,
+      "esik": 7,
+      "gerekce": "Haberin gerçek olayından, mekânından ve katılımcılarından çekilmiş orijinal görselseldir; tam uyuşmaktadır.",
+      "sorgu": "kurum sitesi",
+      "tarih": "2026-11-26T15:48:47+03:00"
+     },
+     "kanit": {
+      "kaynak": "kurum",
+      "sayfa": "https://www.alanya.bel.tr/haberler/kadinlar-bisiklet-surme-hayallerini-gerceklestirdi/126665",
+      "sahip": "Alanya Belediyesi",
+      "lisans": "Kurumun kendi resmî yayını (data/gorsel_izinleri.yml kaydı)",
+      "lisans_kaniti": "fotoğraf kurumun kendi sunucusunda (admin.alanya.bel.tr); sayfada ajans kredisi yok",
+      "orijinal_url": "https://admin.alanya.bel.tr/Photos/News/Big/365398592282539008.JPG",
+      "alinma_tarihi": "2026-11-26T15:48:47+03:00",
+      "kimlik": "kurum:/images/kurum/0ea7c9ac08b6d812.jpg",
+      "phash": "8fa4b84b41f078f9",
+      "puan": 10
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261122-hikmet-karaman-boluspor-macinda-performansimizi-artirmaliyiz-89314.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:01+03:00",
+   "baslik": "Hikmet Karaman: Boluspor maçında performansımızı artırmalıyız",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Antalya_Stadyumu.jpg",
+     "tur": "arsiv",
+     "kredi": "Arşiv fotoğrafı: Arif miletli / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout"
+    },
+    "brief": {
+     "ana_konu": "Esenler Erokspor teknik direktörü Hikmet Karaman Antalyaspor maçı sonrası açıklamalarda bulundu.",
+     "olmasi_gereken": [
+      "futbol sahası",
+      "teknik direktör",
+      "stadyum basın toplantısı"
+     ],
+     "varliklar": [
+      {
+       "ad": "Hikmet Karaman",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Esenler Erokspor",
+       "tur": "takim"
+      },
+      {
+       "ad": "Antalyaspor",
+       "tur": "takim"
+      }
+     ],
+     "kacinilacaklar": [
+      "basketbol sahası",
+      "tenis kortu"
+     ],
+     "sorgular_en": [
+      "football coach press conference",
+      "soccer manager interview"
+     ],
+     "sorgular_tr": [
+      "Hikmet Karaman teknik direktör",
+      "futbol basın toplantısı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:2444978",
+      "url": "https://pixabay.com/get/g7118bdeed56d09fa565004713d63feb60d9887311f952d0b4ebbd52531d13e080151c76a430b5a80487380c7086c0a060992e0345d1ab0da6945f88a48eafe99_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football coach press conference",
+      "puan": 4,
+      "gerekce": "Futbol sahası temasına uygun ancak haberdeki teknik direktör veya kulüp ile doğrudan ilişkili değil.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2778583",
+      "url": "https://pixabay.com/get/g28e081706b4f5409b212f706c327b23c71ad954f00f14bcb94af2af311b123682ff988090930c411f35d383e0e432e09dd236f706f02b5a26746baa62fab0c75_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer manager interview",
+      "puan": 5,
+      "gerekce": "Futbol konseptini yansıtıyor ancak teknik direktör veya maçla ilgili somut bir unsur barındırmıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:2847423",
+      "url": "https://pixabay.com/get/g2f0f07d8eaffecaa9624d1691a28190a9a4084229081da8ab9ec557641298813368dc66ea19060b8e20372bd9cee486ecf67be4a32a4361a57c3b85d33e05109_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football coach press conference",
+      "puan": 0,
+      "gerekce": "Haberle tamamen alakasız bir siyasetçi ve konu yer alıyor, yanıltıcı.",
+      "neden": "puan 0 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:3471371",
+      "url": "https://pixabay.com/get/gbe1cd4a7e60ed8e49c94e745b2e11cab7afa9c776131b7d1c7f04f796f16356d56f27855906c301af3d35177f60c09f5187fee9e34c40e68f99ab7f50901f5b3_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer manager interview",
+      "puan": 5,
+      "gerekce": "Futbol temasına uygun ancak yabancı bayrak/motif öğesi içeriyor ve haberle doğrudan bağı yok.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:2467183",
+      "url": "https://pixabay.com/get/gedc2b3357c502f3235563f6efc66665a29b433387a4cd45124df726884ded18a31f7d1cd7b506cbea275bd90fa194cc972cdaa34c9efa3a82f79b89919dbbce8_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football coach press conference",
+      "puan": 4,
+      "gerekce": "Futbol antrenmanı ortamını gösteriyor fakat teknik direktör vurgusunu taşımıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:3471402",
+      "url": "https://pixabay.com/get/g58e6e771baa5bdd46e62597ddb5f9cc055e1fe70a09047706efcdd3bcc498df7eb9d5028658aceacb03be03fd7fd44ab8de9246e6bb340a811ffd50b51aae64c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer manager interview",
+      "puan": 5,
+      "gerekce": "Futbol sahası görseli sunuyor, genel bir spor haberi için kullanılabilir.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3891579",
+      "url": "https://pixabay.com/get/g839563971e08d4e167eeb0ba10054f0620551d60a8e7825b2f40294f48fe3f99bdbe9c22ac9ec10cee62b70d7a7a02cadd3cda02e659a5c778ab458bb14bcba5_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football coach press conference",
+      "puan": 4,
+      "gerekce": "Futbol antrenmanı sahnesi, ancak ana konudaki teknik direktör ve maç detayı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:488714",
+      "url": "https://pixabay.com/get/g594a9f44608131b7d3d5168ca82e7065948b09df10b2650fc74a8cb8fa82de3cab2ad587a542c4fe560c7d2ca713b8c8_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer manager interview",
+      "puan": 5,
+      "gerekce": "Stadyum ve futbol sahası unsurlarını içeriyor, genel maç haberleri için uygun.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:6716121",
+      "url": "https://pixabay.com/get/g2bcda42f03185addbe148cce936a6a6a52969f1df7cb0bc81fff35ab86a10e0a92683e0f2efe0d61905b008f8030cbd045855ccea62a5f62e075be253efeaa17_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football coach press conference",
+      "puan": 6,
+      "gerekce": "Teknik direktör ve saha ortamını göstermesi açısından habere kısmen uygun.",
+      "neden": "puan 6 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:4835116",
+      "url": "https://pixabay.com/get/g5303c9551b1b4605be44ff5f9c08eceb17bd1dbae1190b6f6638db99bca70039cae6a0a57c1646d105fce303f2262d0f4b6592e358cb5af12976ef0e336ba242_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer manager interview",
+      "puan": 0,
+      "gerekce": "Spor haberiyle tamamen alakasız bir iş görüşmesi/tokalaşma görseli.",
+      "neden": "puan 0 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host='www.anadoluajansi.gov.tr', port=443): Max retries exce",
+     "kurum sayfası okunamadı (Anadolu Ajansı): HTTPSConnectionPool(host='www.anadoluajansi.gov.tr', port=443): Max retries exce",
+     "Commons 'Esenler Erokspor': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261122-hikmet-karaman-play-off-bolgesinin-hemen-ensesine-yapistik-8c5f7.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:01+03:00",
+   "baslik": "Hikmet Karaman: Play-off bölgesinin hemen ensesine yapıştık",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Hikmet Karaman: Play-off bölgesinin hemen ensesine yapıştık",
+     "sonra": "Hikmet Karaman: play-off bölgesinin hemen ensesine yapıştık"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "başlık cümle düzenine getirildi: Hikmet Karaman: Play-off bölgesinin hemen ensesine yapıştık → Hikmet Karaman: play-off bölgesinin hemen ensesine yapıştık"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yeni_Antalya_Stadyumu_-_23.6.15.JPG/1280px-Yeni_Antalya_Stadyumu_-_23.6.15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "tur": "arsiv",
+     "kredi": "Arşiv fotoğrafı: Onur / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "diger",
+     "kaynak_karari": "kaynağı ya da kullanım izni yeni kurallara göre belirlenemedi",
+     "neden": "kaynak/izin yeni kurallara uymuyor: kaynağı ya da kullanım izni yeni kurallara göre belirlenemedi"
+    },
+    "brief": {
+     "ana_konu": "Hikmet Karaman Antalyaspor galibiyeti sonrası play-off yarışını değerlendirdi.",
+     "olmasi_gereken": [
+      "futbol stadyumu",
+      "teknik direktör",
+      "antrenman sahası"
+     ],
+     "varliklar": [
+      {
+       "ad": "Hikmet Karaman",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Esenler Erokspor",
+       "tur": "takim"
+      },
+      {
+       "ad": "Antalyaspor",
+       "tur": "takim"
+      }
+     ],
+     "kacinilacaklar": [
+      "basketbol topu",
+      "kapalı salon"
+     ],
+     "sorgular_en": [
+      "football manager on pitch",
+      "soccer coach stadium"
+     ],
+     "sorgular_tr": [
+      "Hikmet Karaman Esenler Erokspor",
+      "futbol stadyumu teknik direktör"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:2778583",
+      "url": "https://pixabay.com/get/gc39f2de6456f3ca32b79bf23e02e59747e4b8e04fd0f96485ef4ed8006bb12fb403fe95d736b753c7fe4d3108a0c373d8a8d0794d16b6ba9a5e49a8d416e26fe_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football manager on pitch",
+      "puan": 5,
+      "gerekce": "Haberin konusuyla ilgili genel bir futbol sahası ve top görselidir ancak Hikmet Karaman veya ilgili takımları göstermez.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:807300",
+      "url": "https://pixabay.com/get/gfe071e26ef75f3693026d0547681a8aa088839efad10263b9dbfde09a74261c613830a3739eff0b7d0f2572bb921bbbe_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer coach stadium",
+      "puan": 5,
+      "gerekce": "Futbol antrenmanını yansıtmakla birlikte, haberde adı geçen teknik direktör veya takımlarla doğrudan bir bağı bulunmamaktadır.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:488714",
+      "url": "https://pixabay.com/get/gfb4db00dd4924f68a845746be10684059e80b66f4aa61e6bd4837085096ebedbedc6508fc769fc873cbf052ae519dc02_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football manager on pitch",
+      "puan": 6,
+      "gerekce": "Stadyum atmosferini yansıtması açısından ilgili ancak somut olarak haberin öznesini içermiyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:3878835",
+      "url": "https://pixabay.com/get/g647f767fbd2837c1b4bc0e4368e4df69ba50da96953721e4b62e7fbf96c8a335853a4f229a05583ece3d25c51a7f60c2920abed7cb8841bb5ad82b8af021a54c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer coach stadium",
+      "puan": 4,
+      "gerekce": "Haberde adı geçen Hikmet Karaman yerine yabancı bir teknik direktörün yüzü net şekilde yer aldığı için yanıltıcıdır.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:488700",
+      "url": "https://pixabay.com/get/g63c6d20c17e9871c1d2b4645833dfe6c1cbc08652a4341951f50ce1e2d659910dcfa9600f2866a3e883f536006002b6c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football manager on pitch",
+      "puan": 6,
+      "gerekce": "Stadyum ve futbol temasını başarıyla yansıtır, ancak özel olarak haberin öznesini temsil etmez.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:6716126",
+      "url": "https://pixabay.com/get/g7853749a4b0047734e872cff03f4a44efceaf1a8ede6d00594464c15936653c863ccb5c99216850d08bb88eea98376e0eaadd794a866c4c7aa69fa08cf3ddfc7_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer coach stadium",
+      "puan": 4,
+      "gerekce": "Teknik direktör konseptine uysa da, Hikmet Karaman yerine başka bir futbol adamı yer aldığı için haberle uyuşmaz.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:1419954",
+      "url": "https://pixabay.com/get/gf86aaa032215a8b067b18ea70f5d2ac9b32e52f4bcdd838ed444096201c31c03700a59071265f192333ea2d5f905bf971ed0ced31909c5181c5351283a126ba7_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football manager on pitch",
+      "puan": 5,
+      "gerekce": "Futbol maçını veya sahasını simgeleyen genel bir stok görselidir.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:6716138",
+      "url": "https://pixabay.com/get/g26d84ea0735aefe6afe0d91e17ceb72b6242d3dc6536a771f7c41190dc3f741ad4c04c0710a79c3ae7466705ad0370ee444e3e9f396e3611c6ffefcc007f8a84_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer coach stadium",
+      "puan": 4,
+      "gerekce": "Antrenör konseptine uygun olsa da, haberdeki isim yerine farklı kişileri gösterdiği için tercih edilemez.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:8266065",
+      "url": "https://pixabay.com/get/g27a92ced590ded8a93212ff0b4e5782fd494beeee6009dd8f840570bf6e3f5085055b8d92d908b0b5f7040b1cdea59fdcf9a0e9545dc782f5bb64007060b1db1_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "football manager on pitch",
+      "puan": 5,
+      "gerekce": "Futbol branşını temsil eden genel bir detay fotoğrafıdır.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:2621732",
+      "url": "https://pixabay.com/get/g0a46192c7124d598a0fa177f1336568b2b853579aa3921fec4fa494c47e59e2ceffbee488cefea7f33c0c5242cfc14cce4fa4a54a950ab0b241e5641f17b7deb_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "soccer coach stadium",
+      "puan": 4,
+      "gerekce": "Teknik direktör temalı olsa da Hikmet Karaman ile ilgisi olmayan yabancı bir antrenörü gösterdiği için uygundur.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Esenler Erokspor': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261125-akdeniz-universitesinden-ekrandaki-mavi-isik-uyarisi-460ac.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:56+03:00",
+   "baslik": "Akdeniz Universitesinden ekrandaki mavi ısık uyarisi",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Akdeniz Universitesinden ekrandaki mavi ısık uyarisi",
+     "sonra": "Akdeniz Üniversitesi'nden ekrandaki mavi ışık uyarısı"
+    },
+    "ozet": {
+     "once": "Akdeniz Universitesi Tıp Fakultesi Ogretim Uyesi Prof. Dr. Ayse Akman, ekranlar yaydıgı mavi ısıkların ciltte lekelenme ve erken yasanmaya yol acabildigini belirtti.",
+     "sonra": "Akdeniz Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof. Dr. Ayşe Akman, ekranların yaydığı mavi ışıkların ciltte lekelenme ve erken yaşlanmaya yol açabildiğini belirtti."
+    },
+    "govde": {
+     "sonra": "Akdeniz Üniversitesi Tıp Fakültesi Deri ve Zührevi Hastalıkları Ana Bilim Dalı Öğretim Üyesi Prof. Dr. Ayşe Akman, bilgisayar, telefon ve tablet gibi teknolojik cihazların ekranlarından yayılan ışıkların cilt sağlığını olumsuz etkileyebileceğine dikkat çekti. Güneş ışınlarının yanı sıra ekran ışığının da ciltte yaşlanma sürecini hızlandırabileceğini vurgulayan uzman isim, özellikle bazı bireylerde mavi ışıkların lekelenme riskini artırabildiğini ifade etti.\n\nCilt hassasiyeti bulunan kişilerin bu konuda daha dikkatli olması gerektiğini belirten Akman, geniş spektrumlu koruyucu filtre içeren ürünlerin tercih edilmesini önerdi. Vitiligo hastalarının da bu durumdan etkilenebileceğini kaydeden Akman, mavi ışıkların derideki pigment kayıplarını tetikleyebileceğine işaret etti. Bağışıklık baskılayıcı ilaç kullananlar, melazma, lupus ve xeroderma pigmentosum gibi rahatsızlıklara sahip kişilerin ışığa karşı hassasiyetinin daha fazla olduğunu belirtti.\n\nBazı ülkelerde ev camları ile araçların camlarında koruyucu filtreler kullanıldığını hatırlatan Akman, ışığa karşı hassasiyeti olanların yaz kış demeden tüm ışık kaynaklarından korunması gerektiğinin altını çizdi. Uzmanlar, ekran bağımlılığının cilt sağlığı üzerindeki olumsuz etkilerine karşı bireylerin bilinçli hareket etmesi ve uygun koruma yöntemleri uygulaması gerektiğini savunuyor."
+    },
+    "etiketler": {
+     "once": [
+      "Ayse Akman",
+      "Akdeniz Universitesi Tıp Fakultesi"
+     ],
+     "sonra": [
+      "Ayşe Akman",
+      "Akdeniz Üniversitesi Tıp Fakültesi"
+     ]
+    }
+   },
+   "metin_mekanik": false,
+   "metin_degisiklikleri": [
+    "baslik: Universitesinden → Üniversitesi'nden",
+    "baslik: ısık → ışık",
+    "baslik: uyarisi → uyarısı",
+    "spot: Universitesi → Üniversitesi",
+    "spot: Fakultesi → Fakültesi",
+    "spot: Ogretim → Öğretim",
+    "spot: Uyesi → Üyesi",
+    "spot: Ayse → Ayşe",
+    "spot: ekranlar → ekranların",
+    "spot: yaydıgı → yaydığı",
+    "spot: ısıkların → ışıkların",
+    "spot: yasanmaya → yaşlanmaya",
+    "spot: acabildigini → açabildiğini",
+    "metin: Universitesi → Üniversitesi",
+    "metin: Fakultesi → Fakültesi",
+    "metin: Zuhrevi → Zührevi",
+    "metin: Ogretim → Öğretim",
+    "metin: Uyesi → Üyesi",
+    "metin: Ayse → Ayşe",
+    "metin: ısıkların → ışıkların",
+    "metin: saglıgını → sağlığını",
+    "metin: etkileyebilecegine → etkileyebileceğine",
+    "metin: cekti → çekti",
+    "metin: Gunes → Güneş",
+    "metin: ısınlarının → ışınlarının",
+    "metin: ısıgının → ışığının",
+    "metin: yasanma → yaşlanma",
+    "metin: surecini → sürecini",
+    "metin: hızlandırabilecegini → hızlandırabileceğini",
+    "metin: ozellikle → özellikle",
+    "metin: ısıkların → ışıkların",
+    "metin: artırabildigini → artırabildiğini",
+    "metin: kisilerin → kişilerin",
+    "metin: gerektigini → gerektiğini",
+    "metin: genis → geniş",
+    "metin: iceren → içeren",
+    "metin: urunlerin → ürünlerin",
+    "metin: onerdi → önerdi",
+    "metin: etkilenebilecegini → etkilenebileceğini",
+    "metin: ısıkların → ışıkların"
+   ],
+   "engeller": [
+    "metin: bitişik/bozuk kelimeler: melazma, pigmentosum"
+   ],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "/images/haber-gorsel/logo-akdeniz-logo.jpg",
+     "tur": "arsiv",
+     "kredi": "Görsel: Akdeniz Üniversitesi / Wikimedia Commons (Public domain)",
+     "kaynak": "logo",
+     "kaynak_karari": "kurum logosu (kaynağı/izni ayrıca belirlenmemiş)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: kurum logosu (kaynağı/izni ayrıca belirlenmemiş)"
+    },
+    "brief": {
+     "ana_konu": "Akdeniz Üniversitesinden bir öğretim üyesinin ekranlardan yayılan mavi ışığın cilt sağlığına etkileri konusundaki uyarıları.",
+     "olmasi_gereken": [
+      "akıllı telefon",
+      "bilgisayar ekranı",
+      "cilt bakımı",
+      "mavi ışık"
+     ],
+     "varliklar": [
+      {
+       "ad": "Akdeniz Üniversitesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Ayse Akman",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "doğa manzarası",
+      "futbol maçı"
+     ],
+     "sorgular_en": [
+      "blue light skin damage smartphone",
+      "woman looking at computer screen blue light"
+     ],
+     "sorgular_tr": [
+      "mavi ışık ekran zararları",
+      "bilgisayar ekranı cilt"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:1274056",
+      "url": "https://pixabay.com/get/g5f459371331f7faf8935e586cedb41c098e61b2c457b080b9d5a18934d0a1c6bc5d89567cb3db23ebfef5fc267faf8d961e63f180e511e3661f381a6ecda43ca_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "woman looking at computer screen blue light",
+      "puan": 4,
+      "gerekce": "Cilt bakımı ve güzellik temasıyla dolaylı olarak ilgili ancak ekran veya mavi ışık unsuru yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1836071",
+      "url": "https://pixabay.com/get/g09924b9436bcd55e7eb5017b0246818b73be78c99572f2cab2d1e9f6b1c7ee4c5bb45a5442a28bb6f91a32f33832cd157268b4e537092362a0c9122b82f3e478_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "blue light skin damage smartphone",
+      "puan": 6,
+      "gerekce": "Akıllı telefon ekranının ışığını gösteriyor ancak cilt sağlığı bağlamından uzak.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:4570763",
+      "url": "https://pixabay.com/get/g9b3076bc579884a7cf29d64ec1237020278ff4955d3411fd93baecc82669a9a5e93294ad262bd5fb8a383741bffc89727c1177403e0a7dc2b8d5b355616b4436_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "woman looking at computer screen blue light",
+      "puan": 4,
+      "gerekce": "Cilt ve güzellik algısı yaratabilir ancak mavi ışık veya ekran teması bulunmuyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:763731",
+      "url": "https://pixabay.com/get/gd594436fa862e701f270d296188eaea74fcdecda8a6ac46fdbca38dd27184239aec30bcc4c42300ec2ce2d7cb0cabb00_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "blue light skin damage smartphone",
+      "puan": 7,
+      "gerekce": "Akıllı telefon ekranı ve sosyal medya/ekran kullanımını doğrudan gösteriyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:5667299",
+      "url": "https://pixabay.com/get/ge827cd0b40f1921d4e104abddcce5ab4e6cbf9cc936df717fb40f3068b0e742499bb4b3124fcba2cba89ad18633cb3fa2353a4ed3bbb8c4665f95d365aac90bb_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "woman looking at computer screen blue light",
+      "puan": 4,
+      "gerekce": "Genel portre fotoğrafı, haberin konusu olan ekran ve mavi ışıkla doğrudan bağı yok.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:1917737",
+      "url": "https://pixabay.com/get/g1bc4432071cd9abbba6da99b0b5f9c835e07ba29ad6c282fefa1648cdac83e440365b9ddf1747e2c1c48fc3bb02c7b7b5b559ea0d2719ac1edf9ceb413c45fec_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "blue light skin damage smartphone",
+      "puan": 7,
+      "gerekce": "Akıllı telefon ekranını ve mavi renk tonunu başarılı şekilde yansıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:2178919",
+      "url": "https://pixabay.com/get/gfede275f75f7b78ae019bf92ea88233b72f1cbeaf9efa5ea82f21cc702d9c55631f3b940ee806164c8f73f001611134b73529baa8d6608f1d1325eef845478ef_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "woman looking at computer screen blue light",
+      "puan": 3,
+      "gerekce": "Brief'teki kaçınılacaklar arasında yer alan doymuş doğa/sahil manzarasına giriyor.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:4602489",
+      "url": "https://pixabay.com/get/gce2748cab1c10f576cd2b9ec9dd466b4390a76bf19a32afa70b6772c1adebc1fb17a43561aead4d13ba331cd0ea7194f7b98df7c8fe829d6df108263c389971d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "blue light skin damage smartphone",
+      "puan": 5,
+      "gerekce": "Akıllı telefon ekranı görünse de odak noktası sokak fotoğrafçılığı.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3289372",
+      "url": "https://pixabay.com/get/g7a7676afad54f93eb8713bc97826f3379ec84bd307e7613e1dcb459bc63585c6a5ce933028f00d41f91f98e1ed63b2d1ff1d0605e09b3cd7f6b9fad54ac8b3dc_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "woman looking at computer screen blue light",
+      "puan": 4,
+      "gerekce": "Cilt sağlığı haberleri için genel bir kadın portresi ancak ekran unsuru eksik.",
+      "neden": "puan 4 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Akdeniz Üniversitesi': 11 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Ayse Akman': 4 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:1419275",
+     "yerel_url": "/images/haber-gorsel/pixabay-1419275-edcab925.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "blue light skin damage smartphone",
+     "puan": 8,
+     "gerekce": "Akıllı telefon ve yayılan renkli ışık konseptini net şekilde görselleştiriyor.",
+     "gorunen": "Elden tutulan akıllı telefondan yayılan renkli ışık dalgaları",
+     "sahip": "geralt",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/mobile-phone-smartphone-hand-1419275/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g68b9372303e8592387aaecf02a89a24cfeddd027f966ff55eb1f89db11df16a182d89ef72fe7da714a2a906b691761bbecbce1f8bc3155bba97103efe369ef7d_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-1419275-edcab925.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Elden tutulan akıllı telefondan yayılan renkli ışık dalgaları",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Akıllı telefon ve yayılan renkli ışık konseptini net şekilde görselleştiriyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "ea07127288e3",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Akıllı telefon ve yayılan renkli ışık konseptini net şekilde görselleştiriyor.",
+      "sorgu": "blue light skin damage smartphone",
+      "tarih": "2026-11-26T15:49:28+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/mobile-phone-smartphone-hand-1419275/",
+      "sahip": "geralt",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/g5066a5c55ff9d2eb7e289de44fd7e9c42d64ab2af3fd621afd480b6aa16889152a815a71b3b6c2d1b2c86fe4dd0a0d8d882d1b9210e88284deec853f5d7b9511_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:49:28+03:00",
+      "kimlik": "pixabay:1419275",
+      "phash": "f4017e8a8b745ef0",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor",
+    "karantina önerisi",
+    "anlam düzeyinde yazım düzeltmesi"
+   ]
+  },
+  "20261122-ak-parti-il-baskani-cetin-den-antalya-vizyonu-aciklamasi-e35a0.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:56+03:00",
+   "baslik": "AK Parti İl Başkanı Çetin den Antalya Vizyonu Açıklaması",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "AK Parti İl Başkanı Çetin den Antalya Vizyonu Açıklaması",
+     "sonra": "AK Parti İl Başkanı Çetin'den Antalya vizyonu açıklaması"
+    },
+    "govde": {
+     "sonra": "AK Parti Antalya İl Başkanı Ali Çetin, partinin çeyrek asırlık siyasi geçmişini hatırlatarak Antalya için planlanan yatırım ve hizmetler hakkında değerlendirmelerde bulundu. Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan'ın liderliğinde çalışmalarına devam ettiklerini aktaran Çetin, yerel yönetimlerin parti ailesine katılmasıyla birlikte kentte daha güçlü bir çalışma döneminin başlayacağını ifade etti.\n\nSiyaset anlayışlarının birleştirmek ve kucaklamak üzerine kurulduğunu dile getiren Çetin, Antalya'nın gelişmesi ve marka değerinin yükselmesi adına kararlı olduklarını vurguladı. Yerel yönetimlerle uyum içerisinde hareket ederek kentin hak ettiği konuma ulaşmasını hedeflediklerini kaydeden Çetin, bakanlıklar, MKYK üyeleri ve milletvekilleriyle birlikte kente yeni eserler kazandırmayı amaçladıklarını bildirdi.\n\nAntalya'nın tüm noktalarında aynı heyecanla çalışmayı sürdürdüklerini belirten Çetin, hizmet odaklı siyaset anlayışından vazgeçmeyeceklerini ifade etti. Türkiye Yüzyılı hedefleri doğrultusunda çalışmalarına devam edeceklerini kaydeden Çetin, açıklamasını hizmet odaklı çalışma vurgusuyla tamamladı."
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "baslik: Çetin den→Çetin'den",
+    "metin: Erdoğan ın→Erdoğan'ın",
+    "metin: Antalya nın→Antalya'nın",
+    "metin: Antalya nın→Antalya'nın",
+    "başlık cümle düzenine getirildi: AK Parti İl Başkanı Çetin'den Antalya Vizyonu Açıklaması → AK Parti İl Başkanı Çetin'den Antalya vizyonu açıklaması"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1521791055366-0d553872125f?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Cytonn Photography / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "AK Parti Antalya İl Başkanı Ali Çetin'in kentin geleceğine yönelik yatırım ve vizyon açıklamaları.",
+     "olmasi_gereken": [
+      "siyasetçi",
+      "açıklama",
+      "toplantı salonu"
+     ],
+     "varliklar": [
+      {
+       "ad": "AK Parti",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Ali Çetin",
+       "tur": "kisi"
+      },
+      {
+       "ad": "Antalya",
+       "tur": "mekan"
+      },
+      {
+       "ad": "Recep Tayyip Erdoğan",
+       "tur": "kisi"
+      }
+     ],
+     "kacinilacaklar": [
+      "maç stadyumu",
+      "hastane odası"
+     ],
+     "sorgular_en": [
+      "politician press conference podium",
+      "political party meeting speech"
+     ],
+     "sorgular_tr": [
+      "AK Parti İl Başkanlığı",
+      "siyasetçi basın açıklaması"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:83519",
+      "url": "https://pixabay.com/get/gf1d59ab8c9147868dc680d638337465ad205f8b6637b07b63c64969d58db32b68538ed2dfc84125d12d7ae56bdbf82d4_1280.jpg",
+      "kaynak": "pixabay",
+      "neden": "aynı görsel son 60 günde kullanıldı (20261125-mavi-vatanin-mimari-cihat-yayci)"
+     },
+     {
+      "id": "pixabay:2847423",
+      "url": "https://pixabay.com/get/gad0d29645752d398c7b371d56094ad4b71046e19c904aa5593dd154a35b5d2b5798713a432dc086b07ebd1b51868f68268310304a8b6f85e6fa15317b24bfb0c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "politician press conference podium",
+      "puan": 1,
+      "gerekce": "Haber Antalya AK Parti İl Başkanı ile ilgili ancak görselde Rusya Devlet Başkanı Vladimir Putin var, tamamen alakasız ve yanıltıcı.",
+      "neden": "puan 1 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:3288133",
+      "url": "https://pixabay.com/get/g514ad44b98365b90e8ecab5f365098d9767538a2531077e89cf5f9d2943d182b8ac89e64e0c908cb067b8b712434d79a567415ef25380ebe3f1933c31c62d2cd_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "political party meeting speech",
+      "puan": 2,
+      "gerekce": "Görselde Fransız siyasetçi Marine Le Pen yer alıyor. Haberdeki Türk siyasetçiyle hiçbir ilgisi yok.",
+      "neden": "puan 2 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:2537927",
+      "url": "https://pixabay.com/get/g0e3b07c93dd984789b6a3de27f805cd5d9c7b9ea2353b969728ddab182d7046a6231d37d2ea1f2982f965c5e4337bd61356fce81c6efed96096585b97bc02d90_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "politician press conference podium",
+      "puan": 1,
+      "gerekce": "Görselde Angela Merkel yer alıyor, haberin konusuyla tamamen alakasız.",
+      "neden": "puan 1 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:825554",
+      "url": "https://pixabay.com/get/gec49b9a79d8cc367b2195162a3dd46d6c39232c6b7dd2c29c9febaf617c6b21940ae1b72d4be54a9c3c3fadcf2aff2b4_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "political party meeting speech",
+      "puan": 5,
+      "gerekce": "Siyasetçi ve kürsü konseptine uyuyor ancak yabancı bir parti kongresi olduğu için genel düzeyde kalıyor.",
+      "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:1788706",
+      "url": "https://pixabay.com/get/gafc462e3c6fa4004ed17967b9c9b764f92e03a32edfcd916790c89d6af58c1ae63cdae29e254d3f1ab3133ee372e293aa5010ea458292d5745f1104a9638c05d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "politician press conference podium",
+      "puan": 4,
+      "gerekce": "Toplantı salonu ve kürsü konsepti uygun olsa da Barack Obama'nın yer alması haberi yanıltıcı kılıyor.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:3464284",
+      "url": "https://pixabay.com/get/g5dec1e97da78662c2e231494ee08c343a0e6c7e3385afd86fcaf18a3b7fd870b2776efc689e086228de41445dcd910985182d21b3bbe5dacf7d4b6156f8f34ab_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "political party meeting speech",
+      "puan": 1,
+      "gerekce": "Angela Merkel ve yabancı parti logosu bulunduğu için haberle uyuşmuyor.",
+      "neden": "puan 1 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:69213",
+      "url": "https://pixabay.com/get/g28759a9c0be5f7b8ef002a15a6fd65b171756335b0117700cda4776a83ef88456e0f0fd516e824a57e7b4c07f33b5fbc_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "politician press conference podium",
+      "puan": 4,
+      "gerekce": "Toplantı atmosferini yansıtıyor ancak Obama'nın görünmesi nedeniyle yerli haber için uygun değil.",
+      "neden": "puan 4 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     },
+     {
+      "id": "pixabay:704255",
+      "url": "https://pixabay.com/get/g79066d00631b03064b67abefc891f47abbcb7fb44568c40048fdf3c01c51cf03e982c3463514c38fdd05b194d2c8ff9e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "political party meeting speech",
+      "puan": 6,
+      "gerekce": "Açıklama ve toplantı ortamını simgeleyen genel bir detay fotoğrafı, kimse tanınmıyor.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:5277284",
+      "url": "https://pixabay.com/get/g859c18744c0a23fb0b4db90e6af9c3324d71dc2b2f166cdf4f0b92c02815ac60f0405db539c8d2132f4bd621bc92b2241073284e7634405b3c85e563c585ebb5_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "politician press conference podium",
+      "puan": 1,
+      "gerekce": "Vladimir Putin'in yakın plan fotoğrafı, haberle hiçbir bağı yok.",
+      "neden": "puan 1 < 7; kesin ret: yanlis_kisi; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'AK Parti': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Ali Çetin': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi"
+   ]
+  },
+  "20261125-alanyada-sanayi-sitesinde-silahli-intihar-olayi-28eef.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:57+03:00",
+   "baslik": "Alanya'da Sanayi Sitesinde Silahlı İntihar Olayı",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Alanya'da Sanayi Sitesinde Silahlı İntihar Olayı",
+     "sonra": "Alanya'da sanayi sitesinde silahlı intihar olayı"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "baslik: Sanayi → sanayi",
+    "baslik: Sitesinde → sitesinde",
+    "başlık cümle düzenine getirildi: Alanya'da sanayi sitesinde Silahlı İntihar Olayı → Alanya'da sanayi sitesinde silahlı intihar olayı"
+   ],
+   "engeller": [
+    "intihar yöntemi başlık/spotta: silahlı, silahla"
+   ],
+   "reddedilen_duzeltmeler": [
+    "baslik: Silahlı→intihar (büyük değişiklik (6 harf))",
+    "baslik: İntihar Olayı→olayı (büyük değişiklik (7 harf))",
+    "spot: silahla → (büyük değişiklik (7 harf))"
+   ],
+   "notlar": [],
+   "hassas": true,
+   "gorsel": {
+    "once": {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/GendarmerieFordTransit.jpg",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: CeeGee / Wikimedia Commons (CC BY-SA 4.0)",
+     "kaynak": "commons",
+     "kaynak_karari": "CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout",
+     "neden": "kaynak/izin yeni kurallara uymuyor: CC0/kamu malı (dünya geneli ya da Türkiye) şablonu yok; şablonlar: Cc-by-sa-4.0, Cc-by-sa-layout"
+    },
+    "brief": {
+     "ana_konu": "Alanya'da bir sanayi sitesinde meydana gelen silahlı intihar olayına jandarma ve sağlık ekiplerinin müdahalesi.",
+     "olmasi_gereken": [
+      "sanayi sitesi",
+      "ambulans",
+      "jandarma aracı"
+     ],
+     "varliklar": [
+      {
+       "ad": "Alanya",
+       "tur": "mekan"
+      },
+      {
+       "ad": "Payallar Mahallesi",
+       "tur": "mekan"
+      }
+     ],
+     "kacinilacaklar": [
+      "mutlu insan yüzleri",
+      "eğlence ortamı",
+      "silahlı çatışma görseli"
+     ],
+     "sorgular_en": [
+      "industrial site street ambulance",
+      "police crime scene tape Turkey"
+     ],
+     "sorgular_tr": [
+      "sanayi sitesi",
+      "jandarma olay yeri"
+     ],
+     "tarihi_haber": false,
+     "hassas": true
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:3979490",
+      "url": "https://pixabay.com/get/g9743c70e71875f602c86c53e6c5104607a1f36e66360bad1946479fbb4954d5126db683e486d3b58444b0d20c8a5f40aa5a6119539dfadd06d0d31acac7c9d09_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "industrial site street ambulance",
+      "puan": 4,
+      "gerekce": "Görsel sanayi sitesini andıran bir inşaat alanı gösterse de haberle doğrudan ilişkisi yoktur ve mutlu insan yüzleri içerir.",
+      "neden": "puan 4 < 7; kesin ret: mutlu insan yüzleri; hassas haberde tanınabilir kişi"
+     },
+     {
+      "id": "pixabay:1850065",
+      "url": "https://pixabay.com/get/g972fac184075f55d7ad5ec5f9a9bcc52f76693ef00e7677e0d2b01b47f17bec1fe1c11a9971d08d9b7febd0a5863d060c664bde065d3592f97577c249709264c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "police crime scene tape Turkey",
+      "puan": 5,
+      "gerekce": "Olay yeri inceleme ve polis şeridi unsurlarını içerir ancak yabancı polis aracı ve yazısı barındırmaktadır.",
+      "neden": "puan 5 < 7; kesin ret: yabanci_polis"
+     },
+     {
+      "id": "pixabay:3703469",
+      "url": "https://pixabay.com/get/ge32df6a9efe21454eea7c07ac857ce689f1034a1b366bc9586fce384794cbc54d937c8350a64652fef784a9e6ef7f55830e1fc4555f5f916801f4592d0ad7ace_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "industrial site street ambulance",
+      "puan": 4,
+      "gerekce": "Sanayi veya inşaat alanını yansıtan vinçler vardır ancak intihar olayıyla doğrudan bir bağı bulunmamaktadır.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:3953745",
+      "url": "https://pixabay.com/get/g3e9c6b5698efec590dda5bba5ba43c38b8ccb399002a2769929e62b8ccd409a6cfe1a123434e81d8ad524aacab2cf1f662ec07eff30cac6cfe7d8b753bab9a1f_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "police crime scene tape Turkey",
+      "puan": 5,
+      "gerekce": "Asayiş haberleri için genel bir olay yeri şeridi atmosferi sunar ancak mekân ve olayla doğrudan eşleşmez.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3412240",
+      "url": "https://pixabay.com/get/g00b332b2b0644c9d71ace5bf8cac09d6ecc10d1b0cdefae030d11c384c3179cefb8fac966102be4f9e857c45f203707b211eca3594f12f1192ed6e4d592b302d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "industrial site street ambulance",
+      "puan": 5,
+      "gerekce": "Sanayi veya şantiye ortamını çağrıştıran bir iş makinesi gösterir ancak asayiş olayıyla doğrudan ilgisi yoktur.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:3243661",
+      "url": "https://pixabay.com/get/g56b262840c046af9b3fbec17737cedc1a52a0d165c28e95e05c15a67128d98d134b8cc68f5610e97d1c12aa33e4e3dfdc4570985027af570c6e75c4b4d41b4d6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "police crime scene tape Turkey",
+      "puan": 3,
+      "gerekce": "Olay yeri incelemesini simgeleyen grafiksel bir sahnedir, haberin somut gerçekliğiyle zayıf bağ kurar.",
+      "neden": "puan 3 < 7"
+     },
+     {
+      "id": "pixabay:2195329",
+      "url": "https://pixabay.com/get/g852b8493e7c20d98aea9b9a60ad7d7453921cd8511d1ca5725a171843c4c9e587657b696e09cdaa0f529f624cc758527154c19ca40dda4b4fa3c7d94ade56cd6_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "industrial site street ambulance",
+      "puan": 4,
+      "gerekce": "Sanayi sitesi ortamını andıran ağır iş makineleri yer alır fakat asayiş olayıyla doğrudan bir bağlantısı yoktur.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2556094",
+      "url": "https://pixabay.com/get/g4cfbfc1dc22805adfd72246850c88f54d52df2e22e1beec1981943d1cbaab285762b266cd96b6372a74a06d9ea1501aa53e3ae99b9f18ec94073266235f0d469_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "police crime scene tape Turkey",
+      "puan": 1,
+      "gerekce": "Hassas bir intihar haberi için oyuncak figürler kullanmak konunun ciddiyetiyle bağdaşmaz ve uygun değildir.",
+      "neden": "puan 1 < 7; kesin ret: hassas"
+     },
+     {
+      "id": "pixabay:800996",
+      "url": "https://pixabay.com/get/g65d4eb1abe9406ce90952ec0cba810bdce636d77ae6a285a1f6b2ecb0e13febc95b243092feac0b3c81ac30b8566a1c5_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "industrial site street ambulance",
+      "puan": 5,
+      "gerekce": "Sanayi veya şantiye ortamını temsil eden bir iş makinesi gösterir ancak intihar olayıyla doğrudan ilişkili değildir.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:1141037",
+      "url": "https://pixabay.com/get/gb4509bd94c59f3e832cdd02c65c667c77f4d4ad792f1c8be25a0683397d13ae8157f42020cc693cdfb088a227603ffa1f503393b50802c272ba100e71dd73793_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "police crime scene tape Turkey",
+      "puan": 1,
+      "gerekce": "Hassas bir intihar ve ölüm haberinde karikatürize polis maketi kullanmak haberin niteliğine tamamen aykırıdır.",
+      "neden": "puan 1 < 7; kesin ret: hassas"
+     }
+    ],
+    "notlar": [
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Antalya Büyükşehir Belediyesi): No module named 'playwright'",
+     "kurum sayfası okunamadı (Antalya Valiliği): No module named 'playwright'",
+     "Commons 'Alanya': 1 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'sanayi sitesi': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'jandarma olay yeri': 3 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "kaldir",
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "uygun görsel yok: yayından kaldırma önerisi",
+    "karantina önerisi",
+    "ölüm/suç/intihar/çocuk haberi"
+   ]
+  },
+  "20261125-antalyada-cesit-ekmek-fiyatlarina-zam-yapildi-cf112.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:43:57+03:00",
+   "baslik": "Antalya'da çeşit ekmek fiyatlarına zam yapıldı",
+   "durum": "bekliyor",
+   "metin": {},
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1579697096985-41fe1430e5df?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Angelo Pantazis / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Antalya'da çeşit ekmek fiyatlarına yapılan yüzde 25'e varan zam ve yeni tarife uygulaması.",
+     "olmasi_gereken": [
+      "çeşit ekmek",
+      "fırın",
+      "tezgah"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya",
+       "tur": "mekan"
+      },
+      {
+       "ad": "Antalya Ticaret ve Sanayi Odası",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "lüstru restoran",
+      "uçak bileti"
+     ],
+     "sorgular_en": [
+      "bakery bread counter variety",
+      "artisan bread price tag"
+     ],
+     "sorgular_tr": [
+      "fırın ekmek çeşitleri",
+      "ekmek tezgâhı"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:1583201",
+      "url": "https://pixabay.com/get/g655aac5f59324be8024aec0b55b2d0bde3c10d6aceb28ce080b25adfa9e18151be3312127d897c98258056bf243b2c61b35185a330fd0fe05d126f10d1ef7a1b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "artisan bread price tag",
+      "puan": 8,
+      "gerekce": "Fiyat artışı haberi için vitrindeki etiketler ve çeşit ekmekler son derece uygun bir görsel sunuyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:1868925",
+      "url": "https://pixabay.com/get/gbe64aeab7752a49782c354cff397dba3486c1685f875f3fb3c7a8fc9ead42f1d028254b77dbcde2a45157abd910cb1cc8fc0a30451ffedb6a4b970e2df5c3dc7_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bakery bread counter variety",
+      "puan": 7,
+      "gerekce": "Fırın ortamını ve çeşit ekmekleri gösteriyor ancak arka plandaki insan figürleri hafifçe dikkat dağıtıyor.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     },
+     {
+      "id": "pixabay:3467243",
+      "url": "https://pixabay.com/get/g75b57e5e81760966dd4f23f7eced1d5ec7c3c5b571831664fdd51515b527e185eb7dfa3aed07f4e01c0dfce25e9f26a59063edfcb4e7a092bf39c08151a60edd_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "artisan bread price tag",
+      "puan": 6,
+      "gerekce": "Ekmek görseli başarılı ancak genel fırın/tezgah ortamı eksik olduğu için puanı biraz kırıldı.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:1867459",
+      "url": "https://pixabay.com/get/g763d5950f8bb00508e4061e3279040ff1c611830a2ed9664e083c75a349dae0060b3426514121b739baa4ce03b9787217850e7d3d7f13a28a96458c5c4f4ac0e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bakery bread counter variety",
+      "puan": 5,
+      "gerekce": "Daha çok pastane ürünleri ağırlıklı, ana haber konusunu tam yansıtmıyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:2532192",
+      "url": "https://pixabay.com/get/g88bb263248b4ae117a36f02f69e9619beafce7dd2b747b044befe75e6276f73eb6fe80f1360d05c846cdf6a99e63b495421d1e12ad0e9e773a05599a0ccde1a0_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "artisan bread price tag",
+      "puan": 6,
+      "gerekce": "Ekmek temasına uygun ancak fırın tezgahı atmosferinden uzak.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:5671124",
+      "url": "https://pixabay.com/get/gb00c46cc0fa0909658181be0d49314d8730c9a15709d0dd57fccf88645bd65cff09aaf31976bf9885590500c11017630a1755e55bf28de1963b01cb2df72c73d_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bakery bread counter variety",
+      "puan": 4,
+      "gerekce": "Endüstriyel dilimli ekmekler çeşit ekmek zammı haberi için zayıf bir alternatif.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2436370",
+      "url": "https://pixabay.com/get/gee20f0b4918f4a54525a1e8ff81ed9b56cc7acd5a7919bdcfda63049bca16ab750f181c6b4f6aef5ec0d32e750c8569a77714ac92e2446911158cbec605fc424_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "artisan bread price tag",
+      "puan": 6,
+      "gerekce": "Fırın ürünlerini gösteriyor fakat çeşitlilik açısından biraz sınırlı.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:4642686",
+      "url": "https://pixabay.com/get/gdf5756c571082dc6848db2545baffa447154f96aa42f04ad13e81f0fcf04e1b56291acfeac8c6c8a3d17751d137f3560250162992dbf00ddeee5073a693ff28c_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "artisan bread price tag",
+      "puan": 7,
+      "gerekce": "Ekmek çeşitliliğini ve fırın havasını yansıtıyor, haberle uyumlu.",
+      "neden": "daha yüksek puanlı aday seçildi"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Antalya': 14 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Antalya Ticaret ve Sanayi Odası': 15 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:5054901",
+     "yerel_url": "/images/haber-gorsel/pixabay-5054901-e068b473.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "bakery bread counter variety",
+     "puan": 8,
+     "gerekce": "Brief'teki çeşit ekmek ve fırın ortamı kriterlerini fazlasıyla karşılıyor, habere çok uygun.",
+     "gorunen": "Çeşitli ekmekler ve unlu mamuller sepetlerde sergileniyor",
+     "sahip": "Engin_Akyurt",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/bread-grain-carb-food-wheat-fresh-5054901/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g4431462ea0cc0a4914479adfa109490a0f73e2addb56c87ce3665c459fdebb1fb1b535ea50a286e0b0257aa17dc096b05ee0ddf6d07c4d0e7108c78a5a58d255_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-5054901-e068b473.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Çeşitli ekmekler ve unlu mamuller sepetlerde sergileniyor",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: Brief'teki çeşit ekmek ve fırın ortamı kriterlerini fazlasıyla karşılıyor, habere çok uygun.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "91f4e741f6eb",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "Brief'teki çeşit ekmek ve fırın ortamı kriterlerini fazlasıyla karşılıyor, habere çok uygun.",
+      "sorgu": "bakery bread counter variety",
+      "tarih": "2026-11-26T15:50:11+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/bread-grain-carb-food-wheat-fresh-5054901/",
+      "sahip": "Engin_Akyurt",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/gfdfaea2cde2d8d652f247fb6803bca963d497ac2d5c60d65c2872aa24182a8616d2487f6cf909eb5829b098e404e0fc6123f1bbd8582c55a413be2db965d305f_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:50:11+03:00",
+      "kimlik": "pixabay:5054901",
+      "phash": "99456c6a26678b76",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  },
+  "20261126-muratpasa-meydankavagindaki-ekdag-firini-icin-fesih-gundemde-8530c.md": {
+   "surum": "t2",
+   "tarih": "2026-11-26T15:44:01+03:00",
+   "baslik": "Muratpaşa Meydankavağı'ndaki EKDAĞ Fırını İçin Fesih Gündemde",
+   "durum": "bekliyor",
+   "metin": {
+    "title": {
+     "once": "Muratpaşa Meydankavağı'ndaki EKDAĞ Fırını İçin Fesih Gündemde",
+     "sonra": "Muratpaşa Meydankavağı'ndaki EKDAĞ fırını için fesih gündemde"
+    }
+   },
+   "metin_mekanik": true,
+   "metin_degisiklikleri": [
+    "baslik: Fırını → fırını",
+    "baslik: İçin → için",
+    "baslik: Fesih → fesih",
+    "baslik: Gündemde → gündemde"
+   ],
+   "engeller": [],
+   "reddedilen_duzeltmeler": [],
+   "notlar": [],
+   "hassas": false,
+   "gorsel": {
+    "once": {
+     "url": "https://images.unsplash.com/photo-1763297014734-e2ac58a6f3c0?fm=jpg&q=80&w=1600&fit=max",
+     "tur": "arsiv",
+     "kredi": "Fotoğraf: Intrepid / Unsplash",
+     "kaynak": "unsplash",
+     "kaynak_karari": "Unsplash (kullanılmıyor)",
+     "neden": "kaynak/izin yeni kurallara uymuyor: Unsplash (kullanılmıyor)"
+    },
+    "brief": {
+     "ana_konu": "Antalya Büyükşehir Belediyesi mülkiyetindeki EKDAĞ fırını kira protokolünün feshedilmesinin Plan ve Bütçe Komisyonu'nda görüşülmesi.",
+     "olmasi_gereken": [
+      "ekmek fabrikası",
+      "belediye binası",
+      "komisyon toplantısı"
+     ],
+     "varliklar": [
+      {
+       "ad": "Antalya Büyükşehir Belediyesi",
+       "tur": "kurum"
+      },
+      {
+       "ad": "Muratpaşa",
+       "tur": "mekan"
+      },
+      {
+       "ad": "Meydankavağı Mahallesi",
+       "tur": "mekan"
+      },
+      {
+       "ad": "EKDAĞ",
+       "tur": "kurum"
+      }
+     ],
+     "kacinilacaklar": [
+      "spor salonu",
+      "tarihi müze"
+     ],
+     "sorgular_en": [
+      "bread factory production line",
+      "municipality council meeting room"
+     ],
+     "sorgular_tr": [
+      "ekmek fabrikası",
+      "Antalya Büyükşehir Belediyesi meclis salonu"
+     ],
+     "tarihi_haber": false,
+     "hassas": false
+    },
+    "reddedilen": [
+     {
+      "id": "pixabay:2181960",
+      "url": "https://pixabay.com/get/gcbb1050b9b16ef23db8d7eb37b7974cf0925cc957934f4c93c429990c53b6396876984ccd63df0e0316c120daa4e3759bbf4196b2c189158fe30bacc06c917b0_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "municipality council meeting room",
+      "puan": 6,
+      "gerekce": "Komisyon toplantısı bağlamını çağrıştırıyor ancak genel bir ofis görseli.",
+      "neden": "puan 6 < 7"
+     },
+     {
+      "id": "pixabay:6322085",
+      "url": "https://pixabay.com/get/g9546238dd54bdca5bd8499874ac280e07fa2f785b47230758f196411973e8cddb5e70c06ada523d290978280ac24242d168ef6eb8704b3c55934151f8c3816bb_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bread factory production line",
+      "puan": 4,
+      "gerekce": "Fabrika ortamı verse de ürünler ekmek değil, dolaylı kalıyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2181994",
+      "url": "https://pixabay.com/get/g02d51e99e476c2920cc16eb7909db5727b676c4f8157e3ae4c5def4d84ba77412285dd5dfe5900331d29772f0ed2c6c4179bb7fabbbf7f9e8f3f628956a6f3de_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "municipality council meeting room",
+      "puan": 5,
+      "gerekce": "Toplantı salonunu andırıyor ancak genel bir iç mekan stok fotoğrafı.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:6322029",
+      "url": "https://pixabay.com/get/gcf709deef0b445df8bdd32bca1b4fc3d755368c7c2cc20cb1f786b23e8faaf8d7631fd74331d5b81c13031adc33c8e8deebb1da3e84206eabe4db4d61f62155e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bread factory production line",
+      "puan": 4,
+      "gerekce": "İşçi vurgusu var ancak detaylı fabrika veya ekmek üretimi seçilmiyor.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2181916",
+      "url": "https://pixabay.com/get/g7b19c44782f8e5e849a714e4f91ae331184c477028136a1a5fc176145ae369d3d75991bdf6b89fc0846c0fec714869fa6cd6336c50d819274190b1c8a19cd4ee_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "municipality council meeting room",
+      "puan": 5,
+      "gerekce": "Komisyon ve meclis toplantısı için dolaylı bir ortam sunuyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:1140760",
+      "url": "https://pixabay.com/get/g7be285f5c66cda81e4728a2b4adabb315a3c40ca5577ba2c7f77de20cae467ebec07a5608d6f180156073f7112a6ec2d5ceafb2a802dc5a26a63d13a15f89e58_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bread factory production line",
+      "puan": 4,
+      "gerekce": "Fabrika tesisi gösteriyor ama gıda üretimiyle doğrudan ilişkili değil.",
+      "neden": "puan 4 < 7"
+     },
+     {
+      "id": "pixabay:2181919",
+      "url": "https://pixabay.com/get/gbb54dd067680cc7a05d89f00ab0b91da878205b721986fcc9df15ea96477adc7c5b312f2f40026abdaddd10ccfea44f451944854704efbd89d0a4520f0efcd3b_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "municipality council meeting room",
+      "puan": 5,
+      "gerekce": "Toplantı ve komisyon odasını temsil edebilir, genel stok görsel.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:186980",
+      "url": "https://pixabay.com/get/g1d864c9d82da7b8c6f1e09630d4a41daab142582022af01f11c644fe06070fdccdbe56c7de1ec4abdd17b44f5fb15f4e_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "bread factory production line",
+      "puan": 5,
+      "gerekce": "Genel bir fabrika üretim hattı gösteriyor, ekmek fabrikasıyla tam uyuşmuyor.",
+      "neden": "puan 5 < 7"
+     },
+     {
+      "id": "pixabay:2181980",
+      "url": "https://pixabay.com/get/g54436bcc572bb3c057320d89514328b8e9686364fe6bbce5323b369af78b492fc3f0a4e32a24f212dc06bafac8b0d88a1d4fdeef3025251825816b4b9926d873_640.jpg",
+      "kaynak": "pixabay",
+      "sorgu": "municipality council meeting room",
+      "puan": 5,
+      "gerekce": "Komisyon görüşmesi bağlamını dolaylı yoldan yansıtan bir ofis ortamı.",
+      "neden": "puan 5 < 7"
+     }
+    ],
+    "notlar": [
+     "kurum sitelerinde aynı haber bulunamadı",
+     "Commons 'Antalya Büyükşehir Belediyesi': 11 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)",
+     "Commons 'Muratpaşa': 12 dosya lisansı uygun olmadığı için elendi (CC BY/BY-SA, ABD kamu malı vb.)"
+    ],
+    "karar": "yenilendi",
+    "sonra": {
+     "id": "pixabay:4993185",
+     "yerel_url": "/images/haber-gorsel/pixabay-4993185-a97df4df.jpg",
+     "kaynak": "pixabay",
+     "sorgu": "bread factory production line",
+     "puan": 8,
+     "gerekce": "EKDAĞ ekmek fabrikası haberi için fabrika üretim bandını ve ekmekleri somut biçimde gösteriyor.",
+     "gorunen": "Fabrika üretim bandında ilerleyen ekmekler",
+     "sahip": "Rongze",
+     "lisans": "Pixabay İçerik Lisansı",
+     "sayfa": "https://pixabay.com/photos/bakery-baking-bread-factory-4993185/",
+     "taninir_yuz": false,
+     "cekim_yili": "",
+     "onizleme": "https://pixabay.com/get/g6f9079ad926b864371f26834a07fc5002a759a60ddda42dc05a578c73e9aaa86092816d6fc6a1c53f3a11c64c5fa0a30870040c67321d76413a27ffbc02e2f18_640.jpg"
+    },
+    "secim": {
+     "tur": "stok",
+     "gorsel": "/images/haber-gorsel/pixabay-4993185-a97df4df.jpg",
+     "gorsel_kredi": "Temsilî fotoğraf",
+     "durum": "onaylandi",
+     "gosterilen": "Fabrika üretim bandında ilerleyen ekmekler",
+     "aciklama": "",
+     "fotografci": "",
+     "kaynak_sayfa": "",
+     "gerekce": "Görsel puanı 8/10: EKDAĞ ekmek fabrikası haberi için fabrika üretim bandını ve ekmekleri somut biçimde gösteriyor.",
+     "hat": "b2",
+     "surum": "b2",
+     "konu_imza": "0f49166d3116",
+     "kontrol": {
+      "yapildi": true,
+      "sonuc": "uygun",
+      "puan": 8,
+      "esik": 7,
+      "gerekce": "EKDAĞ ekmek fabrikası haberi için fabrika üretim bandını ve ekmekleri somut biçimde gösteriyor.",
+      "sorgu": "bread factory production line",
+      "tarih": "2026-11-26T15:50:20+03:00"
+     },
+     "kanit": {
+      "kaynak": "pixabay",
+      "sayfa": "https://pixabay.com/photos/bakery-baking-bread-factory-4993185/",
+      "sahip": "Rongze",
+      "lisans": "Pixabay İçerik Lisansı",
+      "lisans_kaniti": "Pixabay API kaydı (pixabay.com/service/license-summary/)",
+      "orijinal_url": "https://pixabay.com/get/gb90cb0acd712180693a2728acf0c8b6abb6f1b0e9ad677aec629a98d2782886da49ed77f41a9ce85daddf16bf4055b24c4d3b43d2faac18877119f28e64c0ba4_1280.jpg",
+      "alinma_tarihi": "2026-11-26T15:50:20+03:00",
+      "kimlik": "pixabay:4993185",
+      "phash": "b9a955c2ed5402eb",
+      "puan": 8
+     }
+    }
+   },
+   "degisiklik_var": true,
+   "grup": "tek",
+   "grup_nedeni": [
+    "görsel değişiyor"
+   ]
+  }
+ },
+ "ozet": {
+  "guncelleme": "2026-11-26T15:50:20+03:00",
+  "islenen": 21,
+  "toplu_grup": 0,
+  "tek_tek_grup": 21,
+  "degisiklik_yok": 0,
+  "gorsel_yenilenen": 14,
+  "yayindan_kaldirilacak": 7,
+  "gorsel_korunan": 0,
+  "karantina_onerisi": 2,
+  "adres_degisen": 3,
+  "bekleyen": 0,
+  "uygulanan": 0
+ }
+}
