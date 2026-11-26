@@ -419,5 +419,272 @@
    "onizleme": "/images/kurum/d20271d70baf9f07.jpg"
   },
   "sonuc": "seçildi (10/10, kurum)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T18:11:43+03:00",
+  "haber": "20261126-manavgatta-engelli-calisanlarin-is-yasamindaki-talepleri-2d67c.md",
+  "baslik": "Manavgat'ta engelli çalışanların iş yaşamındaki talepleri masaya yatırıldı",
+  "brief": {
+   "ana_konu": "Manavgat Belediyesi Engelsiz Hizmet Komisyonu'nun engelli personelle yaptığı toplantı",
+   "olmasi_gereken": [
+    "toplantı masası",
+    "katılımcılar",
+    "ofis ortamı"
+   ],
+   "varliklar": [
+    {
+     "ad": "Manavgat Belediyesi",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "açık hava etkinlikleri",
+    "spor müsabakaları"
+   ],
+   "sorgular_en": [
+    "office meeting room",
+    "municipal council meeting"
+   ],
+   "sorgular_tr": [
+    "belediye toplantı salonu",
+    "kurum toplantısı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:2181960",
+    "url": "https://pixabay.com/get/g58dcfd1dc393d73203704da3efb58a07822c955db6e7b6aa63eaacadab2f5cd8dcea15101e1a7ba0365e3667fcbc8cdee3c1fdaf23054947de00f3f18222c6d4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "office meeting room",
+    "puan": 6,
+    "gerekce": "Toplantı masası ve ofis ortamını gösteriyor ancak katılımcı insan figürleri eksik.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4011921",
+    "url": "https://pixabay.com/get/g212acb0dc0c0b0f20c3824223e628791ee0b7e807a03a783450f8b050df48443b618d46dabe90a2ace753debd0495d936354f8b75cbfc8d5584ec3f85d1c5282_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "municipal council meeting",
+    "puan": 1,
+    "gerekce": "Haberle ve Manavgat ile hiçbir ilgisi olmayan yabancı bir şehir manzarası.",
+    "neden": "puan 1 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:2181994",
+    "url": "https://pixabay.com/get/gfb869e26b04347f2eef6d63933af681e5a2b64bacb5c9c65f4feb2e8f6c55d2f79c0b9288f0f534bfce8f2e1bad8e2de00e9a7045542888a9221e425297fc0a3_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "office meeting room",
+    "puan": 6,
+    "gerekce": "Ofis ve toplantı masası konseptine uygun ancak içinde insan yok.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:317085",
+    "url": "https://pixabay.com/get/ga5c7f6213eec3f534f0980ce12501ac690dd99f9809dd115b643797a869908174484aee542ae15406777bebe176550ce_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "municipal council meeting",
+    "puan": 2,
+    "gerekce": "Yerel bir belediye komisyon toplantısı haberi için aşırı büyük ve yabancı bir meclis salonu.",
+    "neden": "puan 2 < 7; kesin ret: yabanci_kurum"
+   },
+   {
+    "id": "pixabay:2181916",
+    "url": "https://pixabay.com/get/gce5f592ce3865c413a066dbdc364a19fbad8e43ca2d22fecaf81edb41867d905aba06da441dd46790fdc356fb1260d74126f0f982c4e90c6a8faace2b42dd6e9_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "office meeting room",
+    "puan": 6,
+    "gerekce": "Toplantı odası brief'ini karşılıyor fakat insan unsuru barındırmıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4710392",
+    "url": "https://pixabay.com/get/gd5fc9e7967f524812e8dcd7de5960d0aea181cb38ac5fa38b3e3c9b87310ce813f9346c2ddfaa28e59bb0e5064cd919d067de48cb9d2de789bfea3ad05503e2c_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "municipal council meeting",
+    "puan": 0,
+    "gerekce": "Açık havada geçiyor ve kaçınılacaklar listesindeki açık hava etkinliği kuralına uymuyor.",
+    "neden": "puan 0 < 7; kesin ret: kacinilacak"
+   },
+   {
+    "id": "pixabay:2181980",
+    "url": "https://pixabay.com/get/g7878f7b95667e0bb0b8cc315a9a18cf8c860c7ee31016e600e5b1ba563573d8fa580867bd1fe69ee08b95d8894efe5cab22f6797f29a098459e74cf93c87f3c0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "office meeting room",
+    "puan": 6,
+    "gerekce": "Ofis ortamı ve masa unsurlarını içeriyor ancak katılımcı yok.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:7199536",
+    "url": "https://pixabay.com/get/ga4a49c9963258eb2135c9596415226a765edd607020ac41f8bde90fcc4d38c716b4d15e70ef5d99e2f45543ed9dbee344c2d26b1563f4c13fa4adad943326424_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "municipal council meeting",
+    "puan": 1,
+    "gerekce": "Yabancı bayrak ve kurum içerdiği için haberle uyuşmuyor.",
+    "neden": "puan 1 < 7; kesin ret: yabanci_bayrak"
+   },
+   {
+    "id": "pixabay:2181951",
+    "url": "https://pixabay.com/get/g74ce42c563bae298c127b1181bd56ce00d29d01e1e738b80ba819018a9061620dd1f9dc5055512d2cdd4ea9bf3177dc3687a94eb7487db70ed6204fe9b6e3d82_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "office meeting room",
+    "puan": 6,
+    "gerekce": "Toplantı masası ve ofis ortamını gösteriyor fakat katılımcı yok.",
+    "neden": "puan 6 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Manavgat Belediyesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Manav",
+   "Commons hatası (belediye toplantı salonu): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=",
+   "Commons hatası (kurum toplantısı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=kurum+to"
+  ],
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "pixabay:1979261",
+   "yerel_url": "/images/haber-gorsel/pixabay-1979261-d4d6e5a4.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "municipal council meeting",
+   "puan": 7,
+   "gerekce": "Toplantı masası ve katılımcıları gösteriyor, ofis ortamını başarıyla yansıtıyor.",
+   "gorunen": "Masada toplantı yapan ve tokalaşan iş insanları",
+   "sahip": "089photoshootings",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/people-business-meeting-1979261/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/gf5d8b42c4fd1af60c9f1b6850313b790e56864265efb466196534ff207d1e5af54f46307e8681ae774f4e6fd10be35c9363d23330be310799b52af47435f897d_640.jpg"
+  },
+  "sonuc": "seçildi (7/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T18:12:43+03:00",
+  "haber": "20261126-chris-potter-trio-akra-antalyada-muzikseverlerle-bulusuyor-c6c64.md",
+  "baslik": "Chris Potter Trio, Akra Antalya'da müzikseverlerle buluşuyor",
+  "brief": {
+   "ana_konu": "Chris Potter Trio'nun Akra Antalya'daki caz konseri",
+   "olmasi_gereken": [
+    "sahne",
+    "enstrüman",
+    "konser"
+   ],
+   "varliklar": [
+    {
+     "ad": "Akra Antalya",
+     "tur": "mekan"
+    },
+    {
+     "ad": "Chris Potter",
+     "tur": "kisi"
+    }
+   ],
+   "kacinilacaklar": [
+    "spor müsabakası",
+    "siyasi etkinlik"
+   ],
+   "sorgular_en": [
+    "jazz concert stage",
+    "live jazz performance"
+   ],
+   "sorgular_tr": [
+    "caz konseri",
+    "sahne performans"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:1658886",
+    "url": "https://pixabay.com/get/gd9af685aba5d91b19827c25819d58baca92e4ca16b4848a124f06810fdb121dc6900ae5d11bba4cd0d86358390116674308ca34a9b480a4f4d19032028445597_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "jazz concert stage",
+    "puan": 7,
+    "gerekce": "Konser atmosferini yansıtıyor ancak siyah-beyaz ve dönemi eski.",
+    "neden": "güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:10322593",
+    "url": "https://pixabay.com/get/g5d43aea68e45481509a9d66423f9e9ca5130f30bb250325fd8cb593157654e9cbece7c0ac6ae957788ce0749ace5b63b7ed5806d2d03edb589945fed194125a4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "live jazz performance",
+    "puan": 7,
+    "gerekce": "Sahne ve enstrüman uyumlu ancak trio yerine piyano odaklı.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:3264716",
+    "url": "https://pixabay.com/get/gf8232258676627192314537089ead1aa6eeb5a663ec281c40053318aa4094964b0807d40e2d986e1199e4dfbd76e3eb3113e96847c75492f0c8728f72747bec5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "jazz concert stage",
+    "puan": 7,
+    "gerekce": "Saksafon ve konser havasını veriyor ancak canlı sahne ortamı zayıf.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:8013698",
+    "url": "https://pixabay.com/get/ge2abfe4c10a9f52455e0bfff19141d83f79eacc8eaa230b83e75bf0f825137da86add3998afb590aa2c3708ea6004aa51ec70f48ab5efa021487a4d7ff74d166_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "live jazz performance",
+    "puan": 6,
+    "gerekce": "Konser ve enstrüman var ancak haberde saksofon vurgusu öne çıkıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:1766888",
+    "url": "https://pixabay.com/get/g22c26ddb24fc961ef41c2265aed39b75b256ee5f526dcfb2642bf251158fb7e15ec08881b87dea022d0387c87425ab641d9109b3679e577117b4928e6ab0c516_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "live jazz performance",
+    "puan": 5,
+    "gerekce": "Müzik aletleri var ancak ana özne olan sanatçı ve sahne eksik.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:7803286",
+    "url": "https://pixabay.com/get/g9ceb24cb0e75dc0c484924edfb072b6d79ed262eadba0fbe24eb99cfa06e5d2b39afb110b1a637f99b8e981b8c0fb3e22bde5fa0194dcb128bd3f28b8f5a5f57_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "jazz concert stage",
+    "puan": 2,
+    "gerekce": "Fotoğraf değil çizim ve haberle doğrudan bağ kurmuyor.",
+    "neden": "puan 2 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır); güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:7852657",
+    "url": "https://pixabay.com/get/g6a42a721ff8faf5c75667cb653924e7c5c9f3147bbf1ea3a905cb5f4db9994cfd0d0978b182cae804da65e428438222986182e9dc8cffde6e6187c27427074b7_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "live jazz performance",
+    "puan": 6,
+    "gerekce": "Müzisyen temasına uyuyor ancak konser sahnesi yerine stüdyo tarzı.",
+    "neden": "puan 6 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Akra Antalya): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Akra+Antalya",
+   "Commons hatası (Chris Potter): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Chris+Potter",
+   "Commons hatası (caz konseri): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=caz+konseri+f",
+   "Commons hatası (sahne performans): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=sahne+pe"
+  ],
+  "aday_sayisi": 8,
+  "secilen": {
+   "id": "pixabay:3202707",
+   "yerel_url": "/images/haber-gorsel/pixabay-3202707-9f7d1379.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "jazz concert stage",
+   "puan": 8,
+   "gerekce": "Caz konseri sahnesini ve enstrümanları başarılı şekilde gösteriyor.",
+   "gorunen": "Sahnede saksafon çalan müzisyen ve arkasında gitarist.",
+   "sahip": "SocialButterflyMMG",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/performance-music-musician-concert-3202707/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/g0b46661e544211467cca60990ab1aeee6463fb10a76703e13e3e90f0d74f5aab8f0c7cdbe4e4cfa643a9f9db0970b70fef6132fcb9525ba90de3d652e3b64803_640.jpg"
+  },
+  "sonuc": "seçildi (8/10, pixabay)"
  }
 ]
