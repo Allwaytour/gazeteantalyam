@@ -174,6 +174,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 8.0,
    "islenen": 7
+  },
+  {
+   "tarih": "2026-11-26T22:11:02+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 1,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 1
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 8.0,
+   "islenen": 4
   }
  ],
  "haberler": [
@@ -1070,6 +1085,71 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 01:42)"
+  },
+  {
+   "tarih": "2026-11-26T22:11:20+03:00",
+   "baslik": "Antalya'dan Kayseri'ye giden uçakta fenalaşan yolcu kurtarılamadı",
+   "kaynak": "Yeni Alanya",
+   "kaynak_url": "https://www.yenialanya.com/antalya-kayseri-ucaginda-bir-yolcu-hayatini-kaybetti",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-antalyadan-kayseriye-giden-ucakta-fenalasan-yolcu-771ed.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "cb69498922ef36a8",
+    "puan": 8,
+    "gerekce": "Uçuş ve gökyüzü temasına uygun, haberle doğrudan ilgili.",
+    "gorunen": "Bulutlar üzerinde uçan yolcu uçağı",
+    "taninir_yuz": false,
+    "cekim_yili": ""
+   }
+  },
+  {
+   "tarih": "2026-11-26T22:11:51+03:00",
+   "baslik": "İYİ Parti Alanya'dan kadına şiddetle mücadele için 10 maddelik plan",
+   "kaynak": "Yeni Alanya",
+   "kaynak_url": "https://www.yenialanya.com/iyi-partiden-ankaraya-kadin-haklari-cikarmasi",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [
+     "baslik: İyi → İYİ",
+     "spot: İyi → İYİ",
+     "metin: İyi → İYİ",
+     "metin: İyi → İYİ",
+     "etiket: İyi Parti → İYİ Parti"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-iyi-parti-alanyadan-kadina-siddetle-mucadele-icin-10-281ae.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T22:12:18+03:00",
+   "baslik": "Alanya'da ticari gayrimenkul piyasasında devir ilanları arttı",
+   "dosya": "20261126-alanyada-ticari-gayrimenkul-piyasasinda-devir-ilanlari-artti-c1303.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:12)"
+  },
+  {
+   "tarih": "2026-11-26T22:12:18+03:00",
+   "baslik": "Konyaaltı Belediyesi Hayatpark'ta inşaat mühendisliği öğrencilerini ağırladı",
+   "dosya": "20261126-konyaalti-belediyesi-hayatparkta-insaat-muhendisligi-409a0.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:11)"
   }
  ]
 }

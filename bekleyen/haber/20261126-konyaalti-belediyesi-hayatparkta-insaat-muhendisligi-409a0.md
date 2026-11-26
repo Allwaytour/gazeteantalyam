@@ -42,8 +42,8 @@ kaynak: GazeteKalem
 kaynak_url: https://gazetekalem.com.tr/antalya-konyaalti-belediyesi-hayatparkta-gelecegin-muhendislerini-agirladi/
 bekleme:
   ilk: '2026-11-26T20:11:49+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T22:11:49+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T02:11:49+03:00'
   brief:
     ana_konu: İnşaat mühendisliği öğrencilerinin şantiye veya park alanındaki teknik gezisi
     olmasi_gereken:
