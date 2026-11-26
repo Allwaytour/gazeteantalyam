@@ -1090,5 +1090,543 @@
    "onizleme": "https://pixabay.com/get/gb029d3b1459baa5d9dd714d0aea8f1ff22fa8eaf8781d03ce117a96245e9b866f65835ac93d7a619f343f50997cc3333715f75969e9b87f7b10cabac4ba4282b_640.jpg"
   },
   "sonuc": "seçildi (8/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:11:15+03:00",
+  "haber": "20261126-antalya-temsilcilerine-fifadan-transfer-engeli-f7ea1.md",
+  "baslik": "Antalya temsilcilerine FIFA'dan transfer engeli",
+  "brief": {
+   "ana_konu": "1207 Antalyaspor'un transfer cezası alması",
+   "olmasi_gereken": [
+    "futbol sahası",
+    "futbolcular"
+   ],
+   "varliklar": [
+    {
+     "ad": "1207 Antalyaspor",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "FIFA binası",
+    "mahkeme"
+   ],
+   "sorgular_en": [
+    "womens football team pitch",
+    "football training session"
+   ],
+   "sorgular_tr": [
+    "kadın futbol takımı",
+    "futbol antrenmanı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:488714",
+    "url": "https://pixabay.com/get/g60808e0222f31433a7e8a52f59338be7e8f77a2be15f324fe6b5c4d655f902230e38c23eb9501e443cc35a178e06399a8e66ce8d56065dbecec6e9fbb3d9faf9_1280.jpg",
+    "kaynak": "pixabay",
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-alanyaspor-kotu-gidise-konyaspo)"
+   },
+   {
+    "id": "pixabay:3311707",
+    "url": "https://pixabay.com/get/gbd245c14214e1e5abc0fa00860bf56824450522de07ce47862c2784ad39e47eb8fe2dec8cfa1db355ebba088e85810a217281c7c126d6324aac16842209364e9_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "womens football team pitch",
+    "puan": 8,
+    "gerekce": "Kadın futbol maçını net şekilde gösteriyor, habere uygun.",
+    "neden": "kesin ret: baska_sehir (chicago)"
+   },
+   {
+    "id": "pixabay:2467178",
+    "url": "https://pixabay.com/get/g024c5d7021084472678a9177cf0a8923c942bc142631631fb06433829ac06793352b77404fdafba9f7a763e135db26989630b576c9bc2f4e386f5cda265c46b6_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football training session",
+    "puan": 6,
+    "gerekce": "Futbol antrenmanını temsil ediyor ancak oyuncu içermediği için genel kalıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:2778583",
+    "url": "https://pixabay.com/get/g8dd880c5e11dffb79cf8c35011daea5e2c863bd061223a827461bbaf8ba7edcc36acc63d0f90fe2a2789e94b6bbf6a0f713b5e24198ecfb3929ee7aec77e84a2_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football training session",
+    "puan": 5,
+    "gerekce": "Konuyla ilgili ancak çok genel bir futbol görseli.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:6820964",
+    "url": "https://pixabay.com/get/gc649f2f6296450c43dd283fca9cb1abe4c7ce286c5256ac2625bc4484aad33328a596acb9da964134fc7e956525ccfc823961d069a453769f0042a4c2d3241be_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "womens football team pitch",
+    "puan": 7,
+    "gerekce": "Kadın futbol takımını ve antrenman ortamını başarıyla yansıtıyor.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:3471371",
+    "url": "https://pixabay.com/get/g60f5cc1938b763377c96210f1ac8fb622f1b929dbad9a253aad9ad8e18f027d25f217a8299ac91196371b2786affb7b4bfc8cabd7657244137a582a6d8e9800e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football training session",
+    "puan": 4,
+    "gerekce": "Yabancı ülke detaylı top barındırdığı için Türkiye haberine tam uygun değil.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:4547092",
+    "url": "https://pixabay.com/get/g37f0813255c34b53ac4ec44bff176fcaa541f67f5288bf61d244be942e37cef8834fdeae12149edb67e574a5dd7bb11e851fa32884c3f41f8b8ce24c87980d44_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "womens football team pitch",
+    "puan": 6,
+    "gerekce": "Kadın futboluna uygun ancak yüz ve detay görünmediği için zayıf kalıyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4668749",
+    "url": "https://pixabay.com/get/gb62588ee88298747b81f4a00ffa92a03c8ba8709fd7adc4ef327648bddbe9905a9e86712fd10919b188b4c223659799dd007d51510365d25a2c2cd9f2c8c5256_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "womens football team pitch",
+    "puan": 6,
+    "gerekce": "Futbol temasını yansıtıyor ancak çok kısmi bir kesit sunuyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:488700",
+    "url": "https://pixabay.com/get/g2e7ea69607e91adf2233781952c7c067ee38667d685b06f20c743987347f9d90550c4464fc9e6eeb08fb6fb087cb6e4c_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football training session",
+    "puan": 7,
+    "gerekce": "Stadyum ve futbol temasını başarılı biçimde gösteriyor.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (1207 Antalyaspor): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=1207+Ant",
+   "Commons hatası (kadın futbol takımı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=kad%C",
+   "Commons hatası (futbol antrenmanı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=futbol+"
+  ],
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "pixabay:7541990",
+   "yerel_url": "/images/haber-gorsel/pixabay-7541990-0c286230.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "womens football team pitch",
+   "puan": 7,
+   "gerekce": "Kadın futbolcuları ve sahayı gösteriyor, haberi doğrudan destekliyor.",
+   "gorunen": "Futbol sahasında koşan kadın futbolcuların ayakları ve top.",
+   "sahip": "planet_fox",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/womens-football-football-soccer-7541990/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/gaccf2f747a6a9bc2f90dbedb26a6c0492f86e00e7698086331c2292dce488f368e085e107ec2737e265befed889d12ef6cf00ce4618a4efc1e6554a900a0409b_640.jpg"
+  },
+  "sonuc": "seçildi (7/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:11:33+03:00",
+  "haber": "20261126-alanyada-otomobil-icinde-hareketsiz-bulunan-kisi-hayatini-03e49.md",
+  "baslik": "Alanya'da otomobil içinde hareketsiz bulunan kişi hayatını kaybetti",
+  "brief": {
+   "ana_konu": "Alanya'da bir araçta hayatını kaybeden kişiyle ilgili jandarma incelemesi",
+   "olmasi_gereken": [
+    "jandarma",
+    "araç",
+    "olay yeri inceleme"
+   ],
+   "varliklar": [
+    {
+     "ad": "Mahmutlar",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "cenaze",
+    "sansasyonel detay"
+   ],
+   "sorgular_en": [
+    "gendarmerie car Turkey",
+    "crime scene investigation"
+   ],
+   "sorgular_tr": [
+    "jandarma",
+    "olay yeri inceleme"
+   ],
+   "tarihi_haber": false,
+   "hassas": true
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:1846910",
+    "url": "https://pixabay.com/get/g5a39a90e94c78ffad1e74e6712790d9d7e47962dab753c73ddc871199e1275f32f5007a591d2c75ec7557a9e4fad84b91bf5887e96d47216556201862fbba8e7_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "gendarmerie car Turkey",
+    "puan": 4,
+    "gerekce": "Haberdeki otomobil olayını dolaylı yoldan temsil eder, ancak somut olay yeri veya jandarma unsuru içermez.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:3284258",
+    "url": "https://pixabay.com/get/gfeeca8ede756155038483a4704e21afa2ba84a278d0e4e96c548e2e8d91d32e072f183e5a91709104729bed29101f63f0b15796ac12205753d727bb31a77cab8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "crime scene investigation",
+    "puan": 2,
+    "gerekce": "Ciddi bir asayish haberinde oyuncak figürler kullanmak habercilik etiğine ve ciddiyetine uygun değildir.",
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "pixabay:9162593",
+    "url": "https://pixabay.com/get/g71cb9641b73a7cf1ba664f97a949bf67bb0b77fd4d8a6e7feb6e8c0217f8a516affcf54d0e6bf980218fe53836b6b7a4dc24f2da646f0fa58cde0cdc9510c3a4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "gendarmerie car Turkey",
+    "puan": 0,
+    "gerekce": "Haberle tamamen alakasızdır, İngilizce 'Turkey' kelimesi nedeniyle yanıltıcı şekilde listelenmiştir.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:1039883",
+    "url": "https://pixabay.com/get/g818b539e70f6ea669cb27ef9ce3d9db3a275571a6a5513ef95bb07901da3cfde34feea2c9c96deca0993c70d122c22da0114c0ef17453836c33bd3b8d8b4ffae_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "crime scene investigation",
+    "puan": 2,
+    "gerekce": "Genel bir suç veya dedektiflik konseptidir, Alanya'daki araç içi ölüm olayıyla doğrudan bağı yoktur.",
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "pixabay:8604810",
+    "url": "https://pixabay.com/get/gecabf7c75da0c820ab5c7647bad1c75ef65d114ce30eca20101734cc0d72a1672d460af31df29e727266534db134262be51a7f860b60389ba2e4e2754fb20617_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "gendarmerie car Turkey",
+    "puan": 0,
+    "gerekce": "Haberin içeriğiyle hiçbir bağı yoktur, isim benzerliği nedeniyle eşleşmiştir.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:6587324",
+    "url": "https://pixabay.com/get/gf91baa85bd4771650d9f58e3272f5247d9ff7b4943fb7907367901e3112c199b660affc6ca7e075d5a88540be5e3b15e51668cd7cd1915dc07c8cf1beb074596_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "crime scene investigation",
+    "puan": 0,
+    "gerekce": "Bilim kurgu kurgusu bir görseldir, asayiş haberi için tamamen uygusuz ve yanıltıcıdır.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:4322521",
+    "url": "https://pixabay.com/get/g6d76bc9ee5e5daf7d891fb1f8421f6a0db3178e49715adb4250361772b4fbbb45f2527be825bcbca36a95d23ae090f6f1843380a20920cb517f93f6409caa22a_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "gendarmerie car Turkey",
+    "puan": 4,
+    "gerekce": "Otomobil unsuru vardır ancak haberdeki olay yeri ve jandarma incelemesiyle ilgisi yoktur.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:3243661",
+    "url": "https://pixabay.com/get/g9baf98b0c490c732e6783d356415abd24278f72bef40ab40453c88db829b58a6444f5b1ec5f4747bc53e8f2af5383ce2cc4bae2a39d14faf69b530792686f5d4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "crime scene investigation",
+    "puan": 3,
+    "gerekce": "Soyut bir olay yeri konseptidir ancak araç ve jandarma unsurlarını barındırmamaktadır.",
+    "neden": "puan 3 < 7"
+   },
+   {
+    "id": "pixabay:2705402",
+    "url": "https://pixabay.com/get/g8ca7ee19cfab1e64050d371609b8278d864ef2aeedfe282fee286512c036faa0f2e4cfb48430f29d2afeaed0bf8d2fd75ae91504df0b7613a4d271ab81613e46_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "gendarmerie car Turkey",
+    "puan": 4,
+    "gerekce": "Otomobil temasını karşılasa da haberin somut olayını veya jandarma incelemesini yansıtmaz.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:2556094",
+    "url": "https://pixabay.com/get/gf0f7cd4da703c96ca81339286251c42d62f21ba40ea79218170976f6e647511bb277fd283915e4b5a327fa09a3e2a08cca180194d301aea43cbc1de828c05c0f_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "crime scene investigation",
+    "puan": 1,
+    "gerekce": "Ciddi bir ölüm haberinde oyuncak polis figürleri kullanmak habercilik açısından uygun değildir.",
+    "neden": "puan 1 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Mahmutlar): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Mahmutlar+filet",
+   "Commons hatası (jandarma): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=jandarma+filetyp",
+   "Commons hatası (olay yeri inceleme): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=olay+y"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:11:55+03:00",
+  "haber": "20261126-yeni-parti-alanyada-teskilatlanmasini-surduruyor-9bd65.md",
+  "baslik": "Yeni Parti Alanya'da teşkilatlanmasını sürdürüyor",
+  "brief": {
+   "ana_konu": "Yeni Parti Alanya İlçe Örgütü'nün Konaklı Bölge Temsilciliği'nin açılışı ve il olma açıklaması.",
+   "olmasi_gereken": [
+    "temsilcilik binası",
+    "parti tabelası"
+   ],
+   "varliklar": [
+    {
+     "ad": "Yeni Parti Alanya İlçe Örgütü",
+     "tur": "kurum"
+    },
+    {
+     "ad": "Bülent Kandemir",
+     "tur": "kisi"
+    }
+   ],
+   "kacinilacaklar": [
+    "protesto kalabalığı",
+    "polis barikatı"
+   ],
+   "sorgular_en": [
+    "political party office Turkey",
+    "district party headquarters"
+   ],
+   "sorgular_tr": [
+    "siyasi parti binası",
+    "ilçe teşkilatı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:3483539",
+    "url": "https://pixabay.com/get/gaa903065c36b86834fdd8744766cb00ba1f65a7b97fa413e7326d9b066c25a51453e4b084ee8526317236a7688cbfba5f76c61d502950f639db16f3445415067_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party office Turkey",
+    "puan": 4,
+    "gerekce": "Haberin siyasi yapılanma konusuyla dolaylı olarak coğrafi bağ kurulabilir ancak Alanya veya parti temsilciliğiyle doğrudan ilgisi yok.",
+    "neden": "puan 4 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:4807543",
+    "url": "https://pixabay.com/get/gb4953e4a5214bf4c18a5cc0044626338cd9e39a360f5f65fedb3203ff448a8df03c17d21118436e21569d49361d5d9b4404283f24e85cab1d911ddcc0be97070_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party headquarters",
+    "puan": 4,
+    "gerekce": "Genel şehirleşme görüntüsü sunuyor ancak Alanya'daki yeni parti temsilciliğini veya bina açılışını yansıtmıyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:6091553",
+    "url": "https://pixabay.com/get/g3da2d0eff24771dd39ca0048d2e42334756ae384c44a995b57bbbbc647c5c47f5f641c77af0d1249c61579be2ae9f05d427bb5a2aef7b15331e24d81198daa95_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party office Turkey",
+    "puan": 5,
+    "gerekce": "Siyasi parti haberi için uygun bir parti lideri görseli olsa da, haber Yeni Parti'nin Alanya örgütlenmesiyle ilgilidir.",
+    "neden": "puan 5 < 7; kişi haberinde stok/arşiv fotoğrafta tanınabilir yüz (adı geçen kişi sanılır)"
+   },
+   {
+    "id": "pixabay:255116",
+    "url": "https://pixabay.com/get/g6ba139170ac952158752cff336408efb68800fbfffe5edb4f3daeb15c0d8aa0befb4fa52fe84ec6722d40e61dc8c4722_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party headquarters",
+    "puan": 4,
+    "gerekce": "Genel bir şehir manzarası olup Alanya'daki yerel teşkilatlanma haberiyle doğrudan bağ kurmamaktadır.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:9162593",
+    "url": "https://pixabay.com/get/ge21204993071103b1b7ddea2c084a014bf432a78e3f73aeb851a606ccb3970e4de8d7262fa2693bc28b070e390a8ac496a3929a878e4b033138e1e3be4d50cd8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party office Turkey",
+    "puan": 0,
+    "gerekce": "İngilizce kelime benzerliğinden (Turkey) dolayı seçilmiş tamamen ilgisiz bir hayvan fotoğrafı.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:7092747",
+    "url": "https://pixabay.com/get/g6c8c7bfc3ecf17a811b8c8edf49e50cade80ea48ba4cadd8ba7d2ff1c785106f0c47f2aed4a75813a8a79b477f5efcc8c94198d7f6bc47ba09661971a5565375_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party headquarters",
+    "puan": 4,
+    "gerekce": "Genel bir metropol manzarası sunar, Alanya'daki ilçe teşkilatı açılışıyla somut bir ilişkisi bulunmaz.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:8604810",
+    "url": "https://pixabay.com/get/gf54b49ce9dfef50e4d31ae02f4e9e890a187ad71ff48c0bac97d0e77394dc93a3c1b61e0df665ad4481dabc6e124e3fbf4c2489d18476c7008bad3088b9dd200_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party office Turkey",
+    "puan": 0,
+    "gerekce": "Haberle hiçbir bağı olmayan kelime çevirisi kaynaklı yanıltıcı hayvan görseli.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:5772040",
+    "url": "https://pixabay.com/get/g83ef12ff3ac44c5c8e58a78dfa474a9e75f5be14405c22e996da85ddee93b02b1bf8c83cffce19a441155194769553cd09ab64cbd7436f1d9cda918e0daab95c_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party headquarters",
+    "puan": 4,
+    "gerekce": "Genel bir şehir ve iş merkezi görünümü sağlar, yerel siyasi temsilcilik haberiyle eşleşmez.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:1034467",
+    "url": "https://pixabay.com/get/gd3cd747755f5c66bbbd59728f045965ef109c61af25a7b0dedc8ac949a3f1ebd6f34aa0d1de8defac398e1f4e717b993bc60223f241f7d6ef826a9fb948c31ec_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party office Turkey",
+    "puan": 4,
+    "gerekce": "Türkiye'yi gösteren harita detayı içerse de, Alanya'daki yerel parti teşkilatlanması haberi için çok genel kalmaktadır.",
+    "neden": "puan 4 < 7; güncel haberde eski/arşiv fotoğrafı"
+   },
+   {
+    "id": "pixabay:3184798",
+    "url": "https://pixabay.com/get/g40475586920e47e76b035b7faf1d7f1b0d30bdc65757aa823ce5ebc28639ecc3644dc987028aa3e80e60035cbf48b7c9b5db84df540f4e11b435978ed1473f24_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party headquarters",
+    "puan": 4,
+    "gerekce": "Genel kurumsal ve şehirsel bir atmosfer yansıtır, ancak özel olarak parti binasını veya Alanya'yı göstermez.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir (singapore)"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Yeni Parti Alanya İlçe Örgütü): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrse",
+   "Commons hatası (Bülent Kandemir): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=B%C3%BCle",
+   "Commons hatası (siyasi parti binası): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=siyas",
+   "Commons hatası (ilçe teşkilatı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=il%C3%A7e+"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T19:12:39+03:00",
+  "haber": "20261126-alanyada-chpden-soda-siseli-eylem-ak-parti-hukuki-surec-72482.md",
+  "baslik": "Alanya'da CHP'den soda şişeli eylem: AK Parti hukuki süreç başlatıyor",
+  "brief": {
+   "ana_konu": "Alanya'da siyasi parti binaları önünde yaşanan gerginlik ve eylem",
+   "olmasi_gereken": [
+    "siyasi parti ilçe binası dış cephesi ve girişi"
+   ],
+   "varliklar": [
+    {
+     "ad": "AK Parti Alanya İlçe Başkanlığı",
+     "tur": "kurum"
+    }
+   ],
+   "kacinilacaklar": [
+    "soda şişeleri",
+    "şahıslar"
+   ],
+   "sorgular_en": [
+    "political party building Turkey",
+    "district party office exterior"
+   ],
+   "sorgular_tr": [
+    "siyasi parti binası dış görünüm"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:3483539",
+    "url": "https://pixabay.com/get/g52655115397650b1a44ea87df74595a6b9df77d52763e572fce6bd727eb6b6e8fe837a83498dc11b7ed62b496a6e6c666cda8f55f73985f83ee9f511949d5302_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 0,
+    "gerekce": "Haberin konusuyla tamamen ilgisiz bir harita görselidir.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:205986",
+    "url": "https://pixabay.com/get/g6a4b37bd2f170c4efcc1b09a0cbeb8ac6986db85b53bb4f5cb7b36282ec6aedc0a0a59c6546b0158b38776ccb63c8dbe_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Genel bir bina silueti gösterdiği için dolaylı olarak ilgili sayılabilir.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4917447",
+    "url": "https://pixabay.com/get/gad9b27dab52c8df4d7720f815b37f20885e2bcd40c4ffdfe8304eb39dcb2b349612b043f09a6977e627098d0e6cbab398b186224f2ecad2bec9a8dfa4e95bc81_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 4,
+    "gerekce": "Haber Alanya'da geçmesine rağmen İstanbul binaları gösterilmiştir, şehir uyuşmuyor.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "pixabay:4428919",
+    "url": "https://pixabay.com/get/g0ee116df63a2a22d7e4c657cbb8ee37d0c636650c49bc4e63ab1b313ccb3ac063a02f4aaf2345d42d4a416ee4ef683ea3f4ad3e782b420ec4a5e0aa3c26324e4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Genel bir modern mimari ve bina dış cephesi görüntüsüdür.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4051537",
+    "url": "https://pixabay.com/get/g41b8907f68969162856b422d300f67d3c71f25bb8c1f1b4c0fb2829fc648b0c9d4e48052faf7abf7d9fba39d63f1d5244d1555066ff2c6aa7558277c5a4d5734_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 4,
+    "gerekce": "Haber Alanya'da geçmesine rağmen İstanbul şehri gösterildiği için hatalıdır.",
+    "neden": "puan 4 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul)"
+   },
+   {
+    "id": "pixabay:637999",
+    "url": "https://pixabay.com/get/gf534c739101196667a26d4130a429f9060864a7a8e9c607d444e9cfc09b4bb864e0b885cd151786c9e173224db4bd016_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 5,
+    "gerekce": "Yabancı resmi kurum binası olduğu için haberle uyuşmamaktadır.",
+    "neden": "puan 5 < 7; kesin ret: yabanci_kurum; kesin ret: baska_sehir (berlin)"
+   },
+   {
+    "id": "pixabay:4307665",
+    "url": "https://pixabay.com/get/g1357560ed1fa57dd2a35aad97a295877d0fc92fe0116169ee3082dca7803d31d2ae34d2f72d5729969ad87382287d81e10c6091d9e7eab89bd04d142a5892afd_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 3,
+    "gerekce": "Alanya haberi için İstanbul'un simge yapısı kullanılmıştır.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul, eminonu, galata, halic)"
+   },
+   {
+    "id": "pixabay:255116",
+    "url": "https://pixabay.com/get/gf05873c9b1f71b9df1a1a130913f3b8c6e560f2b7de04cb5ffd636e366733ad88ccd06b9c724e921207733be22dac185_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 3,
+    "gerekce": "Alanya'daki siyasi eylem haberiyle ilgisiz bir metropol siluetidir.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir"
+   },
+   {
+    "id": "pixabay:4115381",
+    "url": "https://pixabay.com/get/gfac7af8b1425590721384111237a9e68bfb7ddc7c995635ae14dd98f007c2feced41c64cb527aea80fcda8c32a5e67e47605294b73b719b6147bf5c8a4d541a5_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "political party building Turkey",
+    "puan": 3,
+    "gerekce": "Haber Alanya'da geçmesine rağmen İstanbul manzarası kullanılmıştır.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir; kesin ret: baska_sehir (istanbul, galata)"
+   },
+   {
+    "id": "pixabay:2430571",
+    "url": "https://pixabay.com/get/g1f55e55289482735545399b00c2ac5de215a5a1e338ff04c72eafabad296aa967c3bc54a676f7a2c4954164d17d640256dcd898fe1817ad8062d065ac9602883_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "district party office exterior",
+    "puan": 4,
+    "gerekce": "Genel bir şehir yapılaşması görüntüsüdür, doğrudan parti binasını göstermez.",
+    "neden": "puan 4 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (AK Parti Alanya İlçe Başkanlığı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsr",
+   "Commons hatası (siyasi parti binası dış görünüm): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsr"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
  }
 ]
