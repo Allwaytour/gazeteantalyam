@@ -28,6 +28,10 @@ jobs:
         run: |
           for i in $(seq 1 11); do
             gh workflow run yayinla.yml --ref main || echo "Bu tur tetiklenemedi"
+            # Kalite taraması (eski haberler için onay raporu) 3 saatte bir: GitHub'ın kendi cron'u bu işi hiç başlatmadı
+            if [ "$i" = "2" ] || [ "$i" = "8" ]; then
+              gh workflow run kalite.yml --ref main -f islem=rapor -f butce=40 || echo "Kalite taraması tetiklenemedi"
+            fi
             sleep 1800
           done
       - name: Zamanlayıcıyı yeniden başlat
