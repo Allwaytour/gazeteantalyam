@@ -1,0 +1,11 @@
+{{/* Yayından kaldırılan haber ya da köşe yazısı (Düzeltme Politikası: haberler sessizce silinmez). Adres 404 vermez; içerik yerine
+     tarihli not durur. Ön bilgi: kaldirildi (tarih), kaldirma_nedeni (isteğe bağlı). Liste: /duzeltmeler/ (data/kaldirilan.json). */}}
+{{ $t := time .Params.kaldirildi }}
+<div class="izgara"><article class="haber kaldirilan">
+  <h1>{{ .Title }}</h1>
+  <div class="duzeltmeler kaldirma-notu" role="note">
+    <p><b>Bu haber <time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ $t.Format "02.01.2006" }}</time> tarihinde yayından kaldırılmıştır.</b></p>
+    {{ with .Params.kaldirma_nedeni }}<p>Neden: {{ . }}</p>{{ end }}
+    <p class="duzeltmeler-bag"><a href="{{ "duzeltmeler/" | relURL }}">Düzeltmeler ve yayından kaldırılan haberler</a> · <a href="{{ "duzeltme-politikasi/" | relURL }}">Düzeltme Politikamız</a></p>
+  </div>
+</article></div>
