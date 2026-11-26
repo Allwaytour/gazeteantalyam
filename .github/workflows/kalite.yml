@@ -66,9 +66,11 @@ jobs:
         run: |
           git config user.name "gazete-antalya-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/kalite_test.json data/toplu_kalite data/gorsel_kullanim.json 2>/dev/null || true
-          git add content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar 2>/dev/null || true
-          git add -u 2>/dev/null || true
+          # her yol ayrı eklenir (var olmayan bir yol bütün "git add" komutunu başarısız yapar)
+          for y in data/kalite_test.json data/toplu_kalite data/gorsel_kullanim.json content/haber content/yazarlar static/images/haber-gorsel static/images/yazarlar; do
+            [ -e "$y" ] && git add -A "$y"
+          done
+          git add -u || true
           if ! git diff --cached --quiet; then
             git commit -q -m "Kalite taraması (${{ github.event.inputs.islem || 'rapor' }}) [skip ci]"
             for i in 1 2 3; do (git pull -q --rebase origin main && git push -q origin HEAD:main) && break; sleep 10; done
