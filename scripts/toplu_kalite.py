@@ -67,7 +67,6 @@ def yaz(r, yol=CIKTI):
     r["ozet"] = {"guncelleme": simdi(), "islenen": len(o), "toplu_grup": sum(1 for x in o if x.get("grup") == "toplu" and x.get("degisiklik_var")),
                  "tek_tek_grup": sum(1 for x in o if x.get("grup") == "tek"), "degisiklik_yok": sum(1 for x in o if not x.get("degisiklik_var")),
                  "gorsel_yenilenen": sum(1 for x in o if gk(x) == "yenilendi"), "yayindan_kaldirilacak": sum(1 for x in o if gk(x) in ("gorselsiz", "kaldir")),
-                 "kaynak_kaydi_silinecek": sum(1 for x in o if x.get("kaynak_kaydi") and x.get("durum") != "uygulandi"),
                  "gorsel_korunan": sum(1 for x in o if gk(x) == "korundu"), "karantina_onerisi": sum(1 for x in o if x.get("engeller")),
                  "adres_degisen": sum(1 for x in o if x.get("adres")), "bekleyen": sum(1 for x in o if x.get("bekliyor")),
                  "uygulanan": sum(1 for x in o if x.get("durum") == "uygulandi")}
@@ -288,8 +287,9 @@ def _tarih(v):
 def grupla(o, v):
     """Önerinin onay grubu: tek tek (görsel değişikliği, kaldırma, karantina, anlam düzeltmesi, kişi, hassas) ya da toplu (mekanik)."""
     g = o.get("gorsel") or {}
-    o["kaynak_kaydi"] = kaynak_kaydi_var(v)
-    o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or o["kaynak_kaydi"]
+    # Eski haberlerdeki gizli görsel kaynak kayıtları korunur (yayın sorumlusu kararı, 27.11.2026); öneriye dahil edilmez.
+    o.pop("kaynak_kaydi", None)
+    o["degisiklik_var"] = bool(o.get("metin") or o.get("adres") or g.get("karar") in ("yenilendi", "gorselsiz", "kaldir")
                                or (g.get("karar") == "korundu" and g.get("alt_sonra")))
     kisi = bool((g.get("sonra") or {}).get("taninir_yuz") or (g.get("once") or {}).get("taninir_yuz") and g.get("karar") == "korundu")
     tek = g.get("karar") in ("yenilendi", "gorselsiz", "kaldir") or bool(o.get("engeller")) or not o.get("metin_mekanik", True) or kisi or o.get("hassas")
@@ -297,8 +297,7 @@ def grupla(o, v):
     o["grup_nedeni"] = [x for x, k in (("görsel değişiyor", g.get("karar") == "yenilendi"),
                                        ("uygun görsel yok: haber yayından kaldırılacak (adreste not kalır)", g.get("karar") in ("gorselsiz", "kaldir")),
                                        ("karantina önerisi", bool(o.get("engeller"))), ("anlam düzeyinde yazım düzeltmesi", not o.get("metin_mekanik", True)),
-                                       ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o.get("hassas")),
-                                       ("gizli görsel kaynak kayıtları silinir", o["kaynak_kaydi"])) if k]
+                                       ("kişi fotoğrafı", kisi), ("ölüm/suç/intihar/çocuk haberi", o.get("hassas"))) if k]
 
 
 # ----------------------------------------------------------------- rapor
@@ -468,14 +467,10 @@ def uygula(args):
             # listelenir (scripts/elle_duzelt.py listelerden çıkarır, data/kaldirilan.json'u yazar).
             v["kaldirildi"] = simdi()
             v["kaldirma_nedeni"] = KALDIRMA_NEDENI
-            for k in GORSEL_ALANLARI:          # kurallara uymayan görsel ve kaydı ön bilgiden de çıkar (kaldırılan sayfada görsel yok)
-                if k != "gorsel_sinif":
-                    v.pop(k, None)
         elif g.get("karar") == "korundu" and g.get("alt_sonra"):
             s = v.get("gorsel_secim") if isinstance(v.get("gorsel_secim"), dict) else None
             if s is not None:
                 s["gosterilen"] = g["alt_sonra"]
-        kaynak_temizle(v)
         if o.get("adres"):
             v["url"] = o["adres"]["sonra"]
             v["aliases"] = sorted(set(list(v.get("aliases") or []) + [o["adres"]["once"]]))
