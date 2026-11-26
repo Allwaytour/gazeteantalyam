@@ -20,13 +20,15 @@ otomatik: true
 yz: true
 kaynak: Antalya Ekspres
 kaynak_url: https://www.antalyaekspres.com.tr/antalya-icin-demir-yolu-cagrisi
-gorsel_kaldirilan:
-  tarih: '2026-11-26T20:15:29+03:00'
-  neden: yeni görsel kurallarına uygun görsel bulunamadı (toplu kalite taraması)
-  gorsel: /images/haber-gorsel/pixabay-8103602-09f64df5.jpg
-  kredi: Temsilî fotoğraf
-  tur: stok
 gorsel_kilit: true
+kaldirildi: '2026-11-26T20:58:21+03:00'
+kaldirma_nedeni: Yayın ilkelerimize uygun görsel bulunamadı.
+build:
+  list: never
+  render: always
+sitemap:
+  disable: true
+noindex: true
 ---
 Yeni Parti Antalya Milletvekili Aykut Kaya, Antalya'nın ulaşım altyapısındaki eksiklikleri Plan ve Bütçe Komisyonunda dile getirdi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu'na hitaben konuşan milletvekili, kentin demir yolu projelerine acilen ihtiyaç duyduğunu vurguladı.
 
