@@ -5129,6 +5129,100 @@
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Asda_Fuel_Filling_Station_-_geograph.org.uk_-_5181845.jpg/1280px-Asda_Fuel_Filling_Station_-_geograph.org.uk_-_5181845.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
+  "059b3e6fe9f6b5c9": {
+   "icerik": {
+    "ana_kutu": [
+     198,
+     0,
+     770,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "eski",
+    "karanlik": false,
+    "kisi_sayisi": 12,
+    "nesneler": [
+     "bina",
+     "bayrak direği",
+     "şadırvan",
+     "insanlar",
+     "seyyar satıcı arabası"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara Adalet Sarayı binası ve önünde yürüyen yayalar",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "adliye haberi",
+     "ankara haberleri",
+     "hukuk haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cfc9934a92e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin konusu olan Ankara'daki adalet sarayını açıkça göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       198,
+       0,
+       770,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:11:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "0f7fff0f2f21050f",
+    "sha": "2bac397069012c15f1bf7572"
+   },
+   "t": "2026-11-26T12:11:40+03:00",
+   "teknik": {
+    "doygunluk": 8.0,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.101,
+    "keskinlik": 1085,
+    "kontrast": 66,
+    "medyan": 122,
+    "parlaklik": 133,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ankara_Adalet_Saray%C4%B1_-_S%C4%B1hhiye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
   "05a96873e9522542": {
    "icerik": {
     "ana_kutu": [
@@ -11078,32 +11172,6 @@
     "yuzler": []
    },
    "iliski": {
-    "r1:14e71efbc2e5:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Haber belediye başkanlıklarıyla ilgili ancak fotoğrafta belediye binası yerine konut binaları yer alıyor.",
-      "gerekli": [
-       {
-        "unsur": "belediye binası",
-        "var": false
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 2,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-19T15:57:38+03:00"
-    },
     "r1:1bc047feabed:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -11210,6 +11278,32 @@
       "yasak": []
      },
      "t": "2026-11-20T14:59:28+03:00"
+    },
+    "r1:6cfc9934a92e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber bassavci atamasiyla ilgilidir, gorselde ise konut binalari yer almaktadir ve adliye binasi bulunmamaktadir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 1,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:11:18+03:00"
     },
     "r1:7913bcf072fc:konu": {
      "d": {
@@ -11409,7 +11503,7 @@
     "dh": "0d454d0545474f4f",
     "sha": "759272531822f91b8bb5a9a3"
    },
-   "t": "2026-11-25T23:39:58+03:00",
+   "t": "2026-11-26T12:11:40+03:00",
    "teknik": {
     "doygunluk": 24.4,
     "inen": [
@@ -15529,6 +15623,99 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1759579478942-a6992a87fb8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8MXx8cm9hZCUyMGNvbnN0cnVjdGlvbiUyMHRyZW5jaCUyMGNsb3NlfGVufDF8MHx8fDE3OTQ1MTUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "1226eaf18a553aab": {
+   "icerik": {
+    "ana_kutu": [
+     203,
+     13,
+     765,
+     874
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 0,
+    "nesneler": [
+     "bina",
+     "güvenlik kulübesi",
+     "bariyer",
+     "bayrak direği"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Ankara Adalet Sarayı binası dış görünümü ve güvenlik bariyerleri",
+    "sahne_turu": "notr_yapi_tesis",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "turkiye",
+    "uygun_baglamlar": [
+     "adliye haberi",
+     "ankara haberleri",
+     "hukuk haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor haberi",
+     "magazin",
+     "sanat"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": []
+   },
+   "iliski": {
+    "r1:6cfc9934a92e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Atamanın yapıldığı şehirdeki adalet sarayını güncel ve net bir şekilde göstermektedir.",
+      "gerekli": [
+       {
+        "unsur": "adliye binası",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       203,
+       13,
+       765,
+       874
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:11:40+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "4b0f01200c690003",
+    "sha": "8576936c4e80b9ce3f97c16a"
+   },
+   "t": "2026-11-26T12:11:40+03:00",
+   "teknik": {
+    "doygunluk": 15.7,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.343,
+    "keskinlik": 1308,
+    "kontrast": 87,
+    "medyan": 65,
+    "parlaklik": 107,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ankara_Adalet_Saray%C4%B1.jpg/1280px-Ankara_Adalet_Saray%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "1249279455a00903": {
    "icerik": {
@@ -42912,6 +43099,27 @@
     ]
    },
    "iliski": {
+    "r1:a4c45e60f45d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kalabalık etkinlik ortamı, turizm verileri açıklaması haberi için odaklanmayı zorlaştırır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 4,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:12:29+03:00"
+    },
     "r1:b90671f3d632:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -42939,7 +43147,11 @@
      "t": "2026-11-08T11:39:15+03:00"
     }
    },
-   "t": "2026-11-08T11:39:15+03:00",
+   "ozet": {
+    "dh": "26161ba90c49e915",
+    "sha": "3705bd10f2703310175028aa"
+   },
+   "t": "2026-11-26T12:12:29+03:00",
    "teknik": {
     "doygunluk": 36.8,
     "inen": [
@@ -52303,6 +52515,32 @@
     ]
    },
    "iliski": {
+    "r1:a4c45e60f45d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Mehmet Nuri Ersoy'un yakın plan arşiv fotoğrafıdır.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       64,
+       0,
+       1000,
+       898
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:12:29+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -52334,7 +52572,7 @@
     "dh": "83b9a8f894945c4d",
     "sha": "7b37a1215c1a9e9370d59ef7"
    },
-   "t": "2026-11-09T13:47:41+03:00",
+   "t": "2026-11-26T12:12:29+03:00",
    "teknik": {
     "doygunluk": 24.9,
     "inen": [
@@ -130053,6 +130291,104 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bah%C3%A7eli_VOA_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "a000f5722229bbdc": {
+   "icerik": {
+    "ana_kutu": [
+     240,
+     267,
+     856,
+     532
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 4,
+    "nesneler": [
+     "koltuk",
+     "sehpa",
+     "bayrak",
+     "hali"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "İki ülkenin heyetleri karşılıklı koltuklarda oturarak görüşme gerçekleştiriyor.",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "resmi ziyaret haberi",
+     "diplomatik gorusme haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "turizm verileri aciklamasi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      268,
+      319,
+      360,
+      423
+     ],
+     [
+      248,
+      711,
+      850,
+      921
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:a4c45e60f45d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Ersoy'un yer aldığı arşiv görüşme karesidir ancak farklı bir olaya aittir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       240,
+       267,
+       856,
+       532
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 6,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:12:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "848444e6a6b6c283",
+    "sha": "b60a006029881542ef89dd67"
+   },
+   "t": "2026-11-26T12:12:29+03:00",
+   "teknik": {
+    "doygunluk": 43.9,
+    "inen": [
+     500,
+     333
+    ],
+    "karanlik_oran": 0.212,
+    "keskinlik": 2691,
+    "kontrast": 77,
+    "medyan": 111,
+    "parlaklik": 127,
+    "s": "t1"
+   },
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2811%29.jpg/1280px-Mohamed_Muizzu_meets_Mehmet_Nuri_Ersoy_in_November_2023_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
   "a01c3cc3d08ad8c4": {
    "icerik": {
     "ana_kutu": [
@@ -143598,6 +143934,32 @@
      },
      "t": "2026-11-20T14:59:49+03:00"
     },
+    "r1:6cfc9934a92e:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Gorselde bir yangin ve itfaiye mudahelesi yer almaktadir, haberin konusu olan bassavci atamasiyla hicbir ilgisi yoktur.",
+      "gerekli": [
+       {
+        "unsur": "adliye binasi",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:11:18+03:00"
+    },
     "r1:7913bcf072fc:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -143704,32 +144066,6 @@
      },
      "t": "2026-11-25T23:39:58+03:00"
     },
-    "r1:ba30104abf4b:konu": {
-     "d": {
-      "ana_ozne_gorunuyor": false,
-      "baska_olay_sanilir": true,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Yangın felaketini gösteren bu kare ciro düşüşü haberiyle tamamen alakasızdır.",
-      "gerekli": [
-       {
-        "unsur": "otel binasi",
-        "var": true
-       }
-      ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
-      "olay_gorunuyor": false,
-      "uygunluk": 1,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-19T14:27:18+03:00"
-    },
     "r1:d33bac5539f0:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
@@ -143792,7 +144128,7 @@
     "dh": "11076676b696088e",
     "sha": "53eeb774727a48175d52c7be"
    },
-   "t": "2026-11-25T23:39:58+03:00",
+   "t": "2026-11-26T12:11:40+03:00",
    "teknik": {
     "doygunluk": 15.6,
     "inen": [
@@ -144537,6 +144873,32 @@
      },
      "t": "2026-11-19T13:57:51+03:00"
     },
+    "r1:a4c45e60f45d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Mehmet Nuri Ersoy'un net portresi, haber için uygun bir arşiv görselidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       21,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:12:29+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -144568,7 +144930,7 @@
     "dh": "87931b0b279594d6",
     "sha": "047d5c39dbc02ca30ac765ab"
    },
-   "t": "2026-11-19T13:57:51+03:00",
+   "t": "2026-11-26T12:12:29+03:00",
    "teknik": {
     "doygunluk": 56.2,
     "inen": [
@@ -145909,23 +146271,28 @@
      },
      "t": "2026-11-20T14:59:49+03:00"
     },
-    "r1:816c5a3a1275:konu": {
+    "r1:6cfc9934a92e:konu": {
      "d": {
       "ana_ozne_gorunuyor": false,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Görüntü hastane yerine sıradan bir ofis binası cephesini gösteriyor, haberle ilgisi yok.",
+      "gerekce": "Ankara Bölge Adliye Mahkemesi haberi için uygun bir adliye binası cephe detayını göstermektedir.",
       "gerekli": [
        {
-        "unsur": "hastane binasi, danisma veya stant",
-        "var": false
+        "unsur": "adliye binası",
+        "var": true
        }
       ],
-      "ilgisiz_yer_nesne": true,
-      "konu_ana_unsur": false,
-      "konu_kutusu": null,
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
       "olay_gorunuyor": false,
-      "uygunluk": 1,
+      "uygunluk": 8,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
@@ -145933,7 +146300,7 @@
       "yanlis_takim": false,
       "yasak": []
      },
-     "t": "2026-11-19T14:27:39+03:00"
+     "t": "2026-11-26T12:11:40+03:00"
     },
     "r1:81ad2abf1c50:konu": {
      "d": {
@@ -146113,7 +146480,7 @@
     "dh": "b52dcb9264c91366",
     "sha": "af12a586fec5b01b3f7a0f06"
    },
-   "t": "2026-11-25T23:39:58+03:00",
+   "t": "2026-11-26T12:11:40+03:00",
    "teknik": {
     "doygunluk": 10.5,
     "inen": [
@@ -176022,6 +176389,32 @@
     ]
    },
    "iliski": {
+    "r1:a4c45e60f45d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Ersoy'un başka bir resmi görüşmedeki arşiv karesidir.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       243,
+       503,
+       1000,
+       821
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T12:12:29+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -176048,7 +176441,7 @@
     "dh": "274b3d252c252525",
     "sha": "ffe75ab2a9be41abdcdd5196"
    },
-   "t": "2026-11-09T13:47:41+03:00",
+   "t": "2026-11-26T12:12:29+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -207082,6 +207475,68 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "1226eaf18a553aab": {
+   "alt_tur": "yer_konu",
+   "boyut": [
+    4000,
+    3000
+   ],
+   "cekim": "genis",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Ankara Adalet Sarayı binası dış görünümü ve güvenlik bariyerleri",
+   "gosterim_ad": "Ankara",
+   "ilk_kabul": "2026-11-26T12:11:40+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Modern primat / Wikimedia Commons (CC BY-SA 4.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/4.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 4.0",
+    "sahibi": "Modern primat",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Ankara_Adalet_Saray%C4%B1.jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "adliye binası",
+    "bariyer",
+    "bayrak direği",
+    "bina",
+    "güvenlik kulübesi"
+   ],
+   "kucuk": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ankara_Adalet_Saray%C4%B1.jpg/500px-Ankara_Adalet_Saray%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "kullanilabilir": [
+    "adliye haberi",
+    "ankara haberleri",
+    "hukuk haberi"
+   ],
+   "kullanilamaz": [
+    "spor haberi",
+    "magazin",
+    "sanat"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "notr_yapi_tesis",
+   "sinif": "konu",
+   "son_kabul": "2026-11-26T12:11:40+03:00",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ankara_Adalet_Saray%C4%B1.jpg/1280px-Ankara_Adalet_Saray%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "uygun_yerlesimler": [
+    "manset",
+    "yan",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "12c1b444cd2ecff2": {
    "alt_tur": "nesne",
    "boyut": [
@@ -217587,7 +218042,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-09T13:47:41+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 3,
+   "kabul_sayisi": 4,
    "kaynak": {
     "atif": "The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -217629,7 +218084,7 @@
    "qid": "Q55526162",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-19T13:57:51+03:00",
+   "son_kabul": "2026-11-26T12:12:29+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
