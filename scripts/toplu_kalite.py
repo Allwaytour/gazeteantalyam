@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -74,11 +75,14 @@ def yaz(r, yol=CIKTI):
 
 
 class Butce:
-    def __init__(self, n):
+    """Yapay zekâ istek bütçesi ve süre sınırı: süre dolunca yeni istek verilmez, kalan haberler "bekliyor" olarak kaydedilir
+    (iş akışı zaman aşımında öldürülürse o ana kadarki sonuçlar kaybolmasın diye)."""
+    def __init__(self, n, dakika=0):
         self.kalan = n
+        self.bitis = time.time() + dakika * 60 if dakika else None
 
     def al(self, n=1):
-        if self.kalan < n or hc.GUNLUK_KOTA["bitti"]:
+        if self.kalan < n or hc.GUNLUK_KOTA["bitti"] or (self.bitis and time.time() > self.bitis):
             return False
         self.kalan -= n
         return True
@@ -103,7 +107,7 @@ def metin_onerisi(v, govde, butce):
     fn = (lambda m: gemini(m)) if editor_gerek and butce.al() else None
     duz, kr = kalite.denetle(alanlar, fn)
     if editor_gerek and not fn:
-        return None, {"bekliyor": "editör için yapay zekâ bütçesi kalmadı"}, True
+        return None, {"bekliyor": "editör için yapay zekâ bütçesi ya da süresi kalmadı"}, True
     degisen, mekanik = {}, True
     for a, alan in (("baslik", "title"), ("spot", "ozet"), ("metin", "govde"), ("etiketler", "etiketler")):
         once = alanlar[a]
@@ -236,7 +240,7 @@ def _tarih(v):
 def rapor(args):
     yol = args.cikti or CIKTI
     r = oku(yol)
-    butce = Butce(args.butce)
+    butce = Butce(args.butce, args.sure)
     oturum = requests.Session()
     oturum.headers["User-Agent"] = g2.UA
     kullanim = g2.Kullanim(gs.HABER_KLASOR)
@@ -313,7 +317,7 @@ def rapor(args):
         o, v, govde = yeni[ad]
         brief = briefler.get(ad)
         if not brief or not butce.al():
-            o["bekliyor"] = "brief/görsel araması için bütçe kalmadı"
+            o["bekliyor"] = "brief/görsel araması için bütçe ya da süre kalmadı"
             continue
         hb = {"baslik": (o["metin"].get("title") or {}).get("sonra") or v.get("title", ""), "spot": v.get("ozet", ""),
               "kategori": (v.get("kategoriler") or [""])[0], "ilce": (v.get("ilceler") or [""])[0], "tarih": _tarih(v)}
@@ -424,6 +428,7 @@ def main():
     p.add_argument("--dosyalar", default="")
     p.add_argument("--sinir", type=int, default=40)
     p.add_argument("--butce", type=int, default=40)
+    p.add_argument("--sure", type=int, default=25, help="dakika; süre dolunca yeni yapay zekâ isteği yapılmaz, sonuçlar kaydedilir")
     p.add_argument("--hep-ara", action="store_true")
     p.add_argument("--cikti", default="")
     p.add_argument("--onay", default="")
