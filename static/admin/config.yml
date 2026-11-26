@@ -58,7 +58,7 @@ collections:
       - { label: Başlık, name: title, widget: string }
       - { label: Spot (kısa özet), name: ozet, widget: text, required: false, hint: "Başlığın altında kalın yazıyla görünür. 1-2 cümle." }
       - { label: Yayın tarihi, name: date, widget: datetime, format: "YYYY-MM-DDTHH:mm:ssZ", default: "{{now}}", required: false, hint: "Kendiliğinden şu anki saat yazılır; değiştirmeniz gerekmez. İleri bir tarih seçerseniz haber o saatten sonraki ilk güncellemede yayımlanır." }
-      - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: false, hint: "Yatay fotoğraf önerilir. Yalnızca kendi çektiğiniz ya da kullanım izni olan fotoğrafları yükleyin. Fotoğrafı değiştirirseniz aşağıdaki 'Fotoğraf kredisi' alanını da güncelleyin; otomatik sistem elle konan fotoğrafa dokunmaz." }
+      - { label: Kapak fotoğrafı, name: gorsel, widget: image, required: true, hint: "Zorunlu: görselsiz haber yayımlanmaz. Yatay fotoğraf önerilir. Yalnızca kendi çektiğiniz ya da kullanım izni olan fotoğrafları yükleyin. Fotoğrafın altında yazı ve kaynak gösterilmez; otomatik sistem elle konan fotoğrafa dokunmaz." }
       - label: Kategori
         name: kategoriler
         widget: select
@@ -76,7 +76,7 @@ collections:
       - { label: Manşete al, name: manset, widget: boolean, default: false, hint: "Ana sayfadaki büyük slayta eklenir." }
       - { label: Son dakika, name: son_dakika, widget: boolean, default: false, hint: "Üstteki kayan son dakika bandında öne çıkar." }
       - { label: Muhabir / Yazar, name: yazar, widget: string, required: false, default: Gazete Antalya }
-      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: string, required: false, hint: "Haber sayfasında görünmez; alt bölümdeki Fotoğraf Kaynakları sayfasında listelenir. Örn: Fotoğraf: Gazete Antalya" }
+      - { label: Fotoğraf kredisi, name: gorsel_kredi, widget: hidden, required: false }
       - { label: Etiketler, name: etiketler, widget: list, required: false, hint: "Haberde geçen kişi, kurum ve yer adları; her biri için Ekle düğmesine basın." }
       - label: Düzeltmeler
         name: duzeltmeler
