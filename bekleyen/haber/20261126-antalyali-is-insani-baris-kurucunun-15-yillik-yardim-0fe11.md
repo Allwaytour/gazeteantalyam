@@ -41,8 +41,8 @@ kaynak: Antalya Hürses
 kaynak_url: https://www.antalyahurses.com/antalyada-15-yildir-suren-yardim-hikayesi-baris-kurucu-kimdir/562053
 bekleme:
   ilk: '2026-11-26T20:44:04+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T22:44:04+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T02:44:04+03:00'
   brief:
     ana_konu: Barış Kurucu'nun sosyal sorumluluk ve yardım faaliyetleri
     olmasi_gereken:

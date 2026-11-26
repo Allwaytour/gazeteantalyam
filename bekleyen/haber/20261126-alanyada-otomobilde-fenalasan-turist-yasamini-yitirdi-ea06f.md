@@ -42,8 +42,8 @@ kaynak: Sabah
 kaynak_url: https://www.sabah.com.tr/yasam/alanyada-otomobilde-kalp-krizi-geciren-kazak-turist-oldu-7710010
 bekleme:
   ilk: '2026-11-26T21:11:39+03:00'
-  deneme: 0
-  sonraki: '2026-11-26T23:11:39+03:00'
+  deneme: 1
+  sonraki: '2026-11-27T03:11:39+03:00'
   brief:
     ana_konu: Alanya'da otomobilde hayatını kaybeden turistin cenazesinin adli tıp kurumuna kaldırılması
     olmasi_gereken:

@@ -43,8 +43,8 @@ kaynak: Yeni Alanya
 kaynak_url: https://www.yenialanya.com/chpden-ak-partiye-sodali-gonderme-hukuki-surec-baslatiliyor
 bekleme:
   ilk: '2026-11-26T16:46:11+03:00'
-  deneme: 1
-  sonraki: '2026-11-26T22:46:11+03:00'
+  deneme: 2
+  sonraki: '2026-11-27T04:46:11+03:00'
   brief:
     ana_konu: Alanya'da siyasi parti binaları önünde yaşanan gerginlik ve eylem
     olmasi_gereken:

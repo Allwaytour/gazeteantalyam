@@ -202,6 +202,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-26T23:11:09+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 5
   }
  ],
  "haberler": [
@@ -1190,6 +1203,57 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 02:12)"
+  },
+  {
+   "tarih": "2026-11-26T23:12:10+03:00",
+   "baslik": "Konyaaltı'nda bir sitenin güvenlik kulübesi yandı",
+   "kaynak": "Habertürk",
+   "kaynak_url": "https://yerel-haberler.haberturk.com/antalya-haberleri/guvenlik-kulubesi-yanginda-kule-dondu-119533788",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-konyaaltinda-bir-sitenin-guvenlik-kulubesi-yandi-4b0b1.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T23:12:37+03:00",
+   "baslik": "Alanya'da CHP'den soda şişeli eylem: AK Parti hukuki süreç başlatıyor",
+   "dosya": "20261126-alanyada-chpden-soda-siseli-eylem-ak-parti-hukuki-surec-72482.md",
+   "deneme": 2,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 04:46)"
+  },
+  {
+   "tarih": "2026-11-26T23:12:37+03:00",
+   "baslik": "Alanya'da otomobilde fenalaşan turist yaşamını yitirdi",
+   "dosya": "20261126-alanyada-otomobilde-fenalasan-turist-yasamini-yitirdi-ea06f.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 03:11)"
+  },
+  {
+   "tarih": "2026-11-26T23:12:37+03:00",
+   "baslik": "Antalya Büyükşehir Belediye Meclisi'nde parti değişimi sonrası dikkat çeken hamle",
+   "dosya": "20261126-antalya-buyuksehir-belediye-meclisinde-parti-degisimi-9195a.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:43)"
+  },
+  {
+   "tarih": "2026-11-26T23:12:37+03:00",
+   "baslik": "Antalyalı iş insanı Barış Kurucu'nun 15 yıllık yardım hikayesi",
+   "dosya": "20261126-antalyali-is-insani-baris-kurucunun-15-yillik-yardim-0fe11.md",
+   "deneme": 1,
+   "sonuc": "eşiği (7) geçen uygun görsel yok",
+   "durum": "bekliyor (sonraki deneme 02:44)"
   }
  ]
 }
