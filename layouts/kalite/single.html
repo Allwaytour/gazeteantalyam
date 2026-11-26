@@ -24,27 +24,26 @@
   <h3>{{ with $o.metin.title }}<span class="no"><s>{{ .once }}</s></span><br><span class="ok">{{ .sonra }}</span>{{ else }}{{ $o.baslik }}{{ end }}</h3>
   <small><code>{{ $ad }}</code> · durum: {{ $o.durum }}{{ with $o.bekliyor }} · bekliyor: {{ . }}{{ end }}</small>
   <p>{{ range $o.grup_nedeni }}<span class="etk">{{ . }}</span>{{ end }}</p>
-  {{ if in (slice "kaldir" "gorselsiz") $g.karar }}<p class="no"><b>Uygun görsel bulunamadı: haber yayında kalır, görseli kaldırılır (görselsiz).</b> {{ $g.sonuc }}</p>{{ end }}
+  {{ if in (slice "kaldir" "gorselsiz") $g.karar }}<p class="no"><b>Uygun görsel bulunamadı: haber yayından kaldırılır; adresinde "yayından kaldırılmıştır" notu durur ve Düzeltmeler sayfasında listelenir.</b> {{ $g.sonuc }}</p>{{ end }}
   {{ with $o.engeller }}<p class="no">Karantina nedeni: {{ delimit . "; " }}</p>{{ end }}
   {{ with $o.metin_degisiklikleri }}<p><b>Metinde değişenler</b></p><ul>{{ range first 30 . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
   {{ with $o.metin.ozet }}<p><b>Spot</b><br><s>{{ .once }}</s><br>{{ .sonra }}</p>{{ end }}
   {{ with $o.metin.etiketler }}<p><b>Etiketler</b>: <s>{{ delimit .once ", " }}</s> → {{ delimit .sonra ", " }}</p>{{ end }}
   {{ with $o.adres }}<p><b>Adres</b>: <code>{{ .once }}</code> → <code>{{ .sonra }}</code> (eski adres yönlendirilir)</p>{{ end }}
-  {{ with $g.kredi_sonra }}<p><b>Görsel altı</b>: kaynak satırı kaldırılır → "{{ . }}"</p>{{ else }}{{ if isset $g "kredi_sonra" }}<p><b>Görsel altı</b>: kaynak satırı kaldırılır</p>{{ end }}{{ end }}
+  {{ if $o.kaynak_kaydi }}<p><b>Gizli kayıt</b>: ön bilgideki görsel kaynağı/sahibi/lisansı ve eski görsel kayıtları silinir (sitede görünen bir değişiklik yok).</p>{{ end }}
   {{ if $g }}<div class="gg">
     <figure>{{ with $g.once.url }}<img src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}
-      <figcaption><b>Önce</b>{{ with $g.once.puan }} · <span class="p {{ cond (ge . 7) "ok" "no" }}">{{ . }}/10</span>{{ end }}{{ with $g.once.kaynak }} · {{ . }}{{ end }}<br>
+      <figcaption><b>Önce</b>{{ with $g.once.puan }} · <span class="p {{ cond (ge . 7) "ok" "no" }}">{{ . }}/10</span>{{ end }}<br>
       <small>{{ $g.once.gerekce }}{{ with $g.once.neden }} — {{ . }}{{ end }}{{ with $g.once.ihlaller }} [{{ delimit . ", " }}]{{ end }}</small></figcaption></figure>
     <figure>{{ if eq $g.karar "yenilendi" }}<img src="{{ $g.sonra.yerel_url | default $g.sonra.onizleme }}" alt="" loading="lazy" referrerpolicy="no-referrer">
-      <figcaption><b>Sonra</b> · <span class="p ok">{{ $g.sonra.puan }}/10</span> · {{ $g.sonra.kaynak }} <small>(sorgu: {{ $g.sonra.sorgu }}; lisans: {{ $g.sonra.lisans }})</small><br>
+      <figcaption><b>Sonra</b> · <span class="p ok">{{ $g.sonra.puan }}/10</span><br>
       <small>{{ $g.sonra.gerekce }}<br>Alt metin: {{ $g.sonra.gorunen }}</small></figcaption>
-    {{ else if in (slice "kaldir" "gorselsiz") $g.karar }}<div style="aspect-ratio:16/10;background:#fbe9e7;color:#b42318;border-radius:6px;display:flex;align-items:center;justify-content:center;padding:12px;text-align:center">Uygun görsel yok → haber görselsiz kalır</div>
-    {{ else if eq $g.karar "korundu" }}<figcaption><b>Korunur</b> (kaynak uygun, puan eşiği geçti)<br><small>Yeni alt metin: {{ $g.alt_sonra }}</small></figcaption>
+    {{ else if in (slice "kaldir" "gorselsiz") $g.karar }}<div style="aspect-ratio:16/10;background:#fbe9e7;color:#b42318;border-radius:6px;display:flex;align-items:center;justify-content:center;padding:12px;text-align:center">Uygun görsel yok → haber yayından kaldırılır (not kalır)</div>
+    {{ else if eq $g.karar "korundu" }}<figcaption><b>Korunur</b> (kurallara uygun, puan eşiği geçti)<br><small>Yeni alt metin: {{ $g.alt_sonra }}</small></figcaption>
     {{ else }}<figcaption><small>{{ $g.karar | default "değerlendirme bekliyor" }}</small></figcaption>{{ end }}</figure>
   </div>
-  {{ with $g.brief }}<p><small><b>Brief</b>: {{ .ana_konu }} · olmalı: {{ delimit .olmasi_gereken ", " }} · kaçınılacak: {{ delimit .kacinilacaklar ", " }} · Pixabay: {{ delimit .sorgular_en " | " }} · Commons: {{ delimit .sorgular_tr " | " }}</small></p>{{ end }}
-  {{ with $g.reddedilen }}<details><summary><small>Reddedilen adaylar ({{ len . }})</small></summary><div class="red">{{ range . }}<div>{{ if .url }}<img src="{{ .url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}<b>{{ .kaynak }}</b> {{ with .puan }}<b>{{ . }}/10</b> {{ end }}{{ .neden }}{{ with .gerekce }} — {{ . }}{{ end }}</div>{{ end }}</div></details>{{ end }}
-  {{ with $g.notlar }}<details><summary><small>Arama notları</small></summary><ul>{{ range . }}<li><small>{{ . }}</small></li>{{ end }}</ul></details>{{ end }}
+  {{ with $g.brief }}<p><small><b>Brief</b>: {{ .ana_konu }} · olmalı: {{ delimit .olmasi_gereken ", " }} · kaçınılacak: {{ delimit .kacinilacaklar ", " }}</small></p>{{ end }}
+  {{ with $g.reddedilen }}<details><summary><small>Reddedilen adaylar ({{ len . }})</small></summary><div class="red">{{ range . }}<div>{{ if .url }}<img src="{{ .url }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}{{ with .puan }}<b>{{ . }}/10</b> {{ end }}{{ .neden }}{{ with .gerekce }} — {{ . }}{{ end }}</div>{{ end }}</div></details>{{ end }}
   {{ end }}
 </div>
 {{ end }}{{ end }}
