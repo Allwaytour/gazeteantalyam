@@ -6,6 +6,9 @@ ozet: |-
   Milyonlarca liralık bütçeler, yıldız transferler, büyük hedefler...
 
   Peki bütün bunlar Türk basketbolunu gerçekten ileriye taşıyor mu?
+url: /kose/20261122-turk-basketbolunda-artik-dogru-yonetim-ve-liyakat-zamani/
+aliases:
+- '/kose/20261122-tuerk-basketbolunda-artık-dogru-yoenetım-ve-lıyakat-zamanı/'
 ---
 
 **TÜRK BASKETBOLUNDA ARTIK DOĞRU YÖNETİM VE LİYAKAT ZAMANI!**

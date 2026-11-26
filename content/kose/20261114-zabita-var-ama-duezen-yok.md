@@ -8,6 +8,9 @@ ozet: |-
   Yol araçlar içindir.
   Kamusal alan herkesindir.
   Kurallar da herkes için eşit uygulanmalıdır.
+url: /kose/20261114-zabita-var-ama-duzen-yok/
+aliases:
+- '/kose/20261114-zabita-var-ama-duezen-yok/'
 ---
 
 # Şehirde yaşamanın bazı temel kuralları vardır.

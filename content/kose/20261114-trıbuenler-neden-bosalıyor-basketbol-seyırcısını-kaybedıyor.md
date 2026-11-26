@@ -3,6 +3,9 @@ title: TRİBÜNLER NEDEN BOŞALIYOR? BASKETBOL SEYİRCİSİNİ KAYBEDİYOR
 yazar: mustafa-simsek
 date: 2026-11-14T13:27:00+03:00
 ozet: "Türk basketbolunda parkelerde büyük mücadele yaşanıyor. Takımlar kazanmak için milyonlarca liralık bütçeler oluşturuyor, yıldız oyuncular transfer ediyor, Avrupa'da başarı hedefliyor. Ancak bütün bu yatırımların yanında gözden kaçırılan çok önemli bir sorun var: Tribünler!"
+url: /kose/20261114-tribunler-neden-bosaliyor-basketbol-seyircisini-kaybediyor/
+aliases:
+- '/kose/20261114-trıbuenler-neden-bosalıyor-basketbol-seyırcısını-kaybedıyor/'
 ---
 
 Türk basketbolunda transferleri konuşuyoruz, bütçeleri tartışıyoruz, Avrupa’da başarı bekliyoruz. Takımların kadrolarını, antrenörlerin tercihlerini, hakemlerin kararlarını en ince ayrıntısına kadar değerlendiriyoruz. Ancak bütün bu tartışmaların arasında, gözümüzün önündeki bir soruyu yeterince önemsemiyoruz: Tribünler neden boş?

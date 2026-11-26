@@ -3,6 +3,9 @@ title: Antalya turizminde büyümenin ölçüsü değişmeli
 yazar: kateryna-sevostianova
 date: 2026-11-22T13:08:00+03:00
 ozet: Sonraki yatırım kararları sonuçlara dayanmalı. Sürdürülebilirlik, ancak gerektiğinde bir yatırıma “Bu ilçenin altyapısı henüz hazır değil” denebildiği gün, Türk turizminde gerçek bir karar ölçütü hâline gelir.
+url: /kose/20261122-antalya-turizminde-buyumenin-olcusu-degismeli/
+aliases:
+- '/kose/20261122-antalya-turizminde-bueyuemenin-oelcuesue-degismeli/'
 ---
 
 **Antalya turizminde büyümenin ölçüsü değişmeli**
