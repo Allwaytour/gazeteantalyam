@@ -215,6 +215,19 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": null,
    "islenen": 5
+  },
+  {
+   "tarih": "2026-11-26T23:41:16+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 0,
+   "gec_yayinlanan": 0,
+   "karantina": 1,
+   "gorsel_yok": 0,
+   "iptal": 0,
+   "kaynak": {},
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": null,
+   "islenen": 1
   }
  ],
  "haberler": [
@@ -1254,6 +1267,26 @@
    "deneme": 1,
    "sonuc": "eşiği (7) geçen uygun görsel yok",
    "durum": "bekliyor (sonraki deneme 02:44)"
+  },
+  {
+   "tarih": "2026-11-26T23:41:49+03:00",
+   "baslik": "Antalya turizminde 2027 hedefi: Kaynak verimliliği ve maliyet yönetimi",
+   "kaynak": "İndigo Dergisi",
+   "kaynak_url": "https://indigodergisi.com/2026/11/otellerde-maliyet-antalya-2027/",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": false,
+    "engeller": [
+     "etiketler: Türkçe karakteri eksik kelimeler: Suite"
+    ],
+    "degisiklikler": [
+     "metin: karlılığını → kârlılığını"
+    ],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "karantina/haber/20261126-antalya-turizminde-2027-hedefi-kaynak-verimliligi-ve-maliyet-ba1b6.md",
+   "durum": "karantina"
   }
  ]
 }
