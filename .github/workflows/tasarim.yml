@@ -1,0 +1,65 @@
+# Tasarım düzeltmeleri (27.11.2026): önce/sonra karşılaştırması ve onaydan sonra yayına alma.
+#   ekran  : sitenin şu anki hâli ile tasarim/yeni.patch uygulanmış hâli derlenir; mobil (375 px) ve masaüstü ekran görüntüleri
+#            static/images/kalite-testi/tasarim/ klasörüne, ölçümler data/tasarim_test.json'a yazılır (/kalite-testi/ sayfası).
+#   uygula : yayın sorumlusu onayladıktan sonra tasarim/yeni.patch sitenin dosyalarına uygulanır (bir sonraki yayın turunda canlıya çıkar).
+name: Tasarım önizleme
+
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "ekran | uygula"
+        required: true
+        default: "ekran"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tasarim
+  cancel-in-progress: false
+
+jobs:
+  tasarim:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.140.2"
+          extended: true
+      - name: Önce/sonra derle ve ekran görüntüsü al
+        if: github.event.inputs.islem != 'uygula'
+        run: |
+          pip install -q playwright pyyaml
+          python -m playwright install --with-deps chromium >/dev/null 2>&1 || echo "Chromium kurulamadı; sistemdeki Chrome kullanılacak"
+          for d in once sonra; do
+            rm -rf /tmp/$d && mkdir -p /tmp/$d
+            rsync -a --exclude .git --exclude public --exclude resources ./ /tmp/$d/
+            cp -r tasarim/ornek/. /tmp/$d/
+          done
+          (cd /tmp/sonra && git apply "$GITHUB_WORKSPACE/tasarim/yeni.patch")
+          (cd /tmp/once && hugo --minify --quiet -d /tmp/s_once --baseURL http://localhost:8001/)
+          (cd /tmp/sonra && hugo --minify --quiet -d /tmp/s_sonra --baseURL http://localhost:8002/)
+          (cd /tmp/s_once && nohup python -m http.server 8001 >/dev/null 2>&1 &)
+          (cd /tmp/s_sonra && nohup python -m http.server 8002 >/dev/null 2>&1 &)
+          sleep 3
+          python -u tasarim/ekran.py
+      - name: Tasarım düzeltmelerini uygula (onaydan sonra)
+        if: github.event.inputs.islem == 'uygula'
+        run: git apply tasarim/yeni.patch
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "gazete-antalya-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for y in static/images/kalite-testi data/tasarim_test.json layouts assets scripts; do
+            git add -A -- "$y" 2>/dev/null || true
+          done
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Tasarım: ${{ github.event.inputs.islem }} [skip ci]"
+            for i in 1 2 3; do (git pull -q --rebase origin main && git push -q origin HEAD:main) && break; sleep 10; done
+          fi
