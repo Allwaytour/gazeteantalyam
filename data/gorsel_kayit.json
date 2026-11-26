@@ -686,5 +686,409 @@
    "onizleme": "https://pixabay.com/get/g0b46661e544211467cca60990ab1aeee6463fb10a76703e13e3e90f0d74f5aab8f0c7cdbe4e4cfa643a9f9db0970b70fef6132fcb9525ba90de3d652e3b64803_640.jpg"
   },
   "sonuc": "seçildi (8/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T18:41:14+03:00",
+  "haber": "20261126-alanyada-mahalle-macinda-sopali-kavga-tribunler-karisti-95acd.md",
+  "baslik": "Alanya'da mahalle maçında sopalı kavga: Tribünler karıştı",
+  "brief": {
+   "ana_konu": "Alanya'da mahalle maçında çıkan sopalı kavga",
+   "olmasi_gereken": [
+    "futbol sahası",
+    "tribün"
+   ],
+   "varliklar": [
+    {
+     "ad": "Alanya",
+     "tur": "mekan"
+    }
+   ],
+   "kacinilacaklar": [
+    "silah"
+   ],
+   "sorgular_en": [
+    "football match tribune",
+    "stadium crowd"
+   ],
+   "sorgular_tr": [
+    "futbol sahası",
+    "taraftarlar"
+   ],
+   "tarihi_haber": false,
+   "hassas": true
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:62891",
+    "url": "https://pixabay.com/get/g27019eddfb8272872b0ca39b9e57337b0deacc6b8b40e3e8004445ab90b305fdf9d61d86815c5ce33b77cbe6641bd4b7_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football match tribune",
+    "puan": 6,
+    "gerekce": "Futbol sahası ve tribün unsurlarını gösteriyor ancak mahalle maçı ortamından uzak, çok büyük profesyonel bir stadyum.",
+    "neden": "puan 6 < 7; kesin ret: baska_sehir (barcelona)"
+   },
+   {
+    "id": "pixabay:1355493",
+    "url": "https://pixabay.com/get/gc534fc25155f107d9f0902edbbe0487f77d41b2caabb86b120011e23a4b8f6cdb90af90901196ad1bba26fdacc5b70e875b886d11d2172529c2b78878fc740c3_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football match tribune",
+    "puan": 7,
+    "gerekce": "Tribün ve taraftar kalabalığını net şekilde gösteriyor, haberin atmosferini destekliyor.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:1866738",
+    "url": "https://pixabay.com/get/g03dbebeaaa5acde30f4180d8e5b2899e2b33b19891f70bad70a5e854b9a455f0c59f970d6d99bffe1ca067f0a3b45a582255721f88df36a700c13d1bb2833468_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "stadium crowd",
+    "puan": 6,
+    "gerekce": "Stadyum ve tribün ortamını gösteriyor fakat yerel bir mahalle maçından ziyade devasa bir arenayı temsil ediyor.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:1551799",
+    "url": "https://pixabay.com/get/g226eba58cd6b3b008fa9ef5fcc9c6dc8ce61b341bdd9f6c18d6c519903dd0c53a08a7cb35c5e36334463c1ee0422728b78d4829ac01f2ba9881fc423bb7e460e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football match tribune",
+    "puan": 6,
+    "gerekce": "Genel stadyum ve tribün görüntüsü sunuyor, dolaylı olarak konuya uygun.",
+    "neden": "puan 6 < 7; kesin ret: baska_sehir (barcelona)"
+   },
+   {
+    "id": "pixabay:1284253",
+    "url": "https://pixabay.com/get/g1e3af0d72b39a5476d4326d761c2e71fd2c4226f326eaadd022679221bb881670684dd0c6a1c07823204452b39e3d46d021a1bc7465818cab6cce6ca6d8f3e26_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "stadium crowd",
+    "puan": 5,
+    "gerekce": "Brezilya milli takımı ve bayrakları göründüğü için Alanya'daki yerel bir mahalle maçı haberiyle uyuşmuyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:2753288",
+    "url": "https://pixabay.com/get/gd53dd159f5fa3c66d31e402459a460f39080da360ea9df2e0921b05c8dc01c0f1e540754885eea79b52c331fe6ae7c3feac1519030e1f137167979dfcac762c3_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football match tribune",
+    "puan": 6,
+    "gerekce": "Stadyum ve tribün var ancak profesyonel bir İtalyan kulüp maçı olduğu için yerel haberle bağdaşmıyor.",
+    "neden": "puan 6 < 7; kesin ret: baska_sehir (milan)"
+   },
+   {
+    "id": "pixabay:5460564",
+    "url": "https://pixabay.com/get/gbc92c00dd45eb2f197e0dcaf05132ce819567042b3b5de362455e7b000c13608641810bd7705791ba085caf404f8b70c321341258b8217dea4d88aac04a1ebf4_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "stadium crowd",
+    "puan": 3,
+    "gerekce": "Amerikan beyzbol stadyumu ve şehir manzarası içeriyor, futbol sahası ve Alanya ile ilgisi yok.",
+    "neden": "puan 3 < 7; kesin ret: baska_sehir (los angeles)"
+   },
+   {
+    "id": "pixabay:3471371",
+    "url": "https://pixabay.com/get/g12c109cbe2aca2318741f79cc9a7d719105d53fa89e79f68cf60f97b9c1c8b480e0818a1ca1225fefbae66959164958389fb8af23530cbdbdb512251b668f134_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "football match tribune",
+    "puan": 4,
+    "gerekce": "Sadece futbol topu gösteriyor; tribün, taraftar veya kavga olayını yansıtmıyor.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:227561",
+    "url": "https://pixabay.com/get/g9fff8c87a8b8fcec4488dd93d7e2f73977a2b9d48b7bcc786035705c4e107f3bf1e0e102745a27d9b90db6b13d76cf1d_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "stadium crowd",
+    "puan": 6,
+    "gerekce": "Stadyum ve saha unsurlarını barındırıyor ancak yerel mahalle turnuvası havasından uzak.",
+    "neden": "puan 6 < 7; kesin ret: baska_sehir (berlin)"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Alanya): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Alanya+filetype%3A",
+   "Commons hatası (futbol sahası): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=futbol+saha",
+   "Commons hatası (taraftarlar): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=taraftarlar+f"
+  ],
+  "aday_sayisi": 10,
+  "secilen": {
+   "id": "pixabay:931975",
+   "yerel_url": "/images/haber-gorsel/pixabay-931975-0227989c.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "stadium crowd",
+   "puan": 7,
+   "gerekce": "Taraftar ve tribün atmosferini yansıtıyor, mahalle maçı gerginliğine kısmen uygun ancak profesyonel bir maçı andırıyor.",
+   "gorunen": "Tribünde meşale dumanı ve sarı-siyah bayraklar sallayan taraftarlar.",
+   "sahip": "tookapic",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/stadium-sports-fans-arena-soccer-931975/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/g786273fdbc98f2b2452c718d0fa1a63f68f882f6ea970fc6eee88d8f73664a24e3d1f8b659d98c7a4145406e8cc78dc2_640.jpg"
+  },
+  "sonuc": "seçildi (7/10, pixabay)"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T18:41:33+03:00",
+  "haber": "20261126-antalya-osb-baskani-gonenden-growtech-fuarindaki-b5ffb.md",
+  "baslik": "Antalya OSB Başkanı Gönen'den Growtech Fuarı'ndaki sanayicilere ziyaret",
+  "brief": {
+   "ana_konu": "Antalya'da düzenlenen Growtech Fuarı'nda sanayi ve tarım teknolojileri sergileniyor.",
+   "olmasi_gereken": [
+    "fuar standı",
+    "tarım teknolojileri",
+    "sergi alanı"
+   ],
+   "varliklar": [
+    {
+     "ad": "Antalya Organize Sanayi Bölgesi",
+     "tur": "kurum"
+    },
+    {
+     "ad": "Growtech Fuarı",
+     "tur": "etkinlik"
+    }
+   ],
+   "kacinilacaklar": [
+    "spor salonu",
+    "siyasi toplantı"
+   ],
+   "sorgular_en": [
+    "agricultural exhibition stand",
+    "greenhouse tech fair"
+   ],
+   "sorgular_tr": [
+    "tarım fuarı standı",
+    "seracılık fuarı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:4890393",
+    "url": "https://pixabay.com/get/gab0f9ff5ed907406e3acc147528d5e31549453f518bc67e916245436a59b97dccc6d832a3c6afa9f5f478cdc05a6cdf625decab8289cf5ab8caa11db5b930627_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "agricultural exhibition stand",
+    "puan": 0,
+    "gerekce": "Haberin konusuyla ilgisiz bir tatlı görseli.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:2974645",
+    "url": "https://pixabay.com/get/g974f5d3eea3ef58c48b8b9d5c1bbe554286feeac6dcc4a786522ad0678fb1bf857f5466a19fbf4bff7907cf571f813e0c493f7ac82a37d98d524b21a0cacfc74_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "greenhouse tech fair",
+    "puan": 1,
+    "gerekce": "Etkinlik kelimesi geçse de tarım fuarı haberiyle doğrudan bir bağı yoktur.",
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "pixabay:1283009",
+    "url": "https://pixabay.com/get/g9dce720656bfd32894d1a4865f261178876ca1b10181f522010e35d7028f6559a2b465202027a3e4630d8746382844203559a8fc9c9bd171522521c34c5d5def_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "agricultural exhibition stand",
+    "puan": 1,
+    "gerekce": "Sanat galerisi veya müze ortamı, tarım ve seracılık fuarı haberi için uygun değildir.",
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "pixabay:5136251",
+    "url": "https://pixabay.com/get/gf99011c6c2bb32221d5aedc5a20bd2fbd5bcdb38a1546cefee7bfdcc2e8ac96117939dbb481a0974a5f766a64ce5f5f447ce48afa84cee43d53359a91b72c0e0_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "greenhouse tech fair",
+    "puan": 0,
+    "gerekce": "Haberin içeriğiyle tamamen alakasız bir manzara fotoğrafıdır.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:9862727",
+    "url": "https://pixabay.com/get/g8cba460a759308706e544948df5c931f981e35788b2d8c453bf3d70dd9acf0dde8e5da5bab3321ea8be85a8ecfa7cd84ee79066f3b67cd13aa99ecaaaaa2e760_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "agricultural exhibition stand",
+    "puan": 5,
+    "gerekce": "Tarım temasıyla kısmen ilgili olsa da fuar standı veya sergi alanı şartını karşılamıyor.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:7637669",
+    "url": "https://pixabay.com/get/gd8440744921adb6ca65dbbf6d4cb6c1b576d28cd0c8ad071564cefcfb3b05ee9d511e5ca62faf25d7f2cd145a1acc6094434a24eea63eee37b99c896d9198e02_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "greenhouse tech fair",
+    "puan": 2,
+    "gerekce": "Fuar kelimesi geçiyor ancak eğlence fuarı veya lunapark, tarım fuarı haberine uygun değil.",
+    "neden": "puan 2 < 7"
+   },
+   {
+    "id": "pixabay:7312021",
+    "url": "https://pixabay.com/get/g37b28b70aadccd7bc14862c15e87587240aa8a6e86faef7e08f08b443604221d3e38885bdb889faea29553de354da61451e6d820570e22890708b5debc9b975f_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "agricultural exhibition stand",
+    "puan": 0,
+    "gerekce": "Ekonomi ve tarım fuarı haberiyle tamamen ilgisiz müzik temalı görsel.",
+    "neden": "puan 0 < 7"
+   },
+   {
+    "id": "pixabay:1840526",
+    "url": "https://pixabay.com/get/gefd2ba4e9a63476d1f7ea5bf1b6c99a6a1583a5e19a1574f543f22a453cac1ce9a1b97fe4cb8819d3b8d8d3d86fb116a550b5f875ba252c3fd2a5015532f878e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "greenhouse tech fair",
+    "puan": 4,
+    "gerekce": "Sera ve tarım ortamını andırsa da fuar standı havasından uzaktır.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:2590655",
+    "url": "https://pixabay.com/get/g1597dc1006d83565da7f9955df42a9f8a92d952a6b512ee5c6f1acce51233783fb25725eb9aad73d278cd10a6aa996d20c0430a8146237f8feb4278672c7ca70_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "agricultural exhibition stand",
+    "puan": 1,
+    "gerekce": "Resim sergisi müze ortamıdır, tarım ve sanayi fuarı haberiyle uyuşmamaktadır.",
+    "neden": "puan 1 < 7"
+   },
+   {
+    "id": "pixabay:6596174",
+    "url": "https://pixabay.com/get/gf21aa361c2afd0e866abc564c3e7a9321a06648691469a16a3a5704146ba071d0317a6f112dc3d2ac2abd991d516c9987ba90d992fbd6a24e17d3d75136fbae6_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "greenhouse tech fair",
+    "puan": 0,
+    "gerekce": "Haberin metni ve konusuyla hiçbir bağı olmayan stok gökyüzü fotoğrafı.",
+    "neden": "puan 0 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Antalya Organize Sanayi Bölgesi): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsr",
+   "Commons hatası (tarım fuarı standı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=tar%C4",
+   "Commons hatası (seracılık fuarı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=serac%C4%"
+  ],
+  "aday_sayisi": 10,
+  "sonuc": "eşiği (7) geçen uygun görsel yok"
+ },
+ {
+  "surum": "b2",
+  "tarih": "2026-11-26T18:42:22+03:00",
+  "haber": "20261126-rize-genclik-ve-spor-il-mudurlugu-futsal-takimi-antalyada-f3550.md",
+  "baslik": "Rize Gençlik ve Spor İl Müdürlüğü Futsal Takımı Antalya'da şampiyonluk arayacak",
+  "brief": {
+   "ana_konu": "Rize GSİM Futsal Takımı'nın Antalya Kemer'deki Türkiye Finalleri mücadelesi.",
+   "olmasi_gereken": [
+    "kapalı spor salonu",
+    "futsal takımı",
+    "futsal topu"
+   ],
+   "varliklar": [
+    {
+     "ad": "Rize Gençlik ve Spor İl Müdürlüğü Futsal Takımı",
+     "tur": "takim"
+    }
+   ],
+   "kacinilacaklar": [
+    "çim saha futbol",
+    "seyirci kalabalığı"
+   ],
+   "sorgular_en": [
+    "futsal team indoor sports",
+    "futsal match hall"
+   ],
+   "sorgular_tr": [
+    "futsal takımı salon",
+    "futsal maçı"
+   ],
+   "tarihi_haber": false,
+   "hassas": false
+  },
+  "reddedilen": [
+   {
+    "id": "pixabay:4743416",
+    "url": "https://pixabay.com/get/g56c5e284394583f8768153d9c366f3e70b91b8b76dc344313a07e911eff71b05dd196731d57e82133cfc1118b5c6792b71b313496ac0987a52f570e640cbfbc4_1280.jpg",
+    "kaynak": "pixabay",
+    "neden": "aynı görsel son 60 günde kullanıldı (20261126-kumlucada-okullar-arasi-futsal-)"
+   },
+   {
+    "id": "pixabay:3122738",
+    "url": "https://pixabay.com/get/g71222b28b9f3e52dd2aa8e57e36f57bcaaa28bdaa94c64bab8822ce5bdece58aa9660608027cb6eaf11f0362d5ae8633dcf83c1f8d14ad0b1ea55210adf07c9b_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal team indoor sports",
+    "puan": 6,
+    "gerekce": "Kapalı spor salonu ve futsal topları görünüyor ancak takım ve maç atmosferi net değil.",
+    "neden": "puan 6 < 7"
+   },
+   {
+    "id": "pixabay:4760027",
+    "url": "https://pixabay.com/get/g374b97f395d92b61014bc65580f168b3d6aafdd81450d63df2cf225a24fb5493fbfbe30c3ed85c4363f9ca01a1a3ad87a5e44d0f66450d2fb212cdb9b4f1fe66_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal team indoor sports",
+    "puan": 7,
+    "gerekce": "Salon zemininde futsal maçı anını yansıtıyor ancak kadro veya genel görünüm eksik.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:4810633",
+    "url": "https://pixabay.com/get/g105492d59bac852e110f56838112fa0d498e9dacb6923ce7b87564a3f6096c29edbcbbc0bfb31832e618081889b5cbee7295a2b94c2ea6965a0a14c20724a6cd_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal match hall",
+    "puan": 5,
+    "gerekce": "Salon ortamı ve hakem figürü var ancak futsal maçı ve takım unsurları eksik.",
+    "neden": "puan 5 < 7"
+   },
+   {
+    "id": "pixabay:4813883",
+    "url": "https://pixabay.com/get/g890513c3f482f731e42c46d855dfed0a009d0c29467ef79e1e7de7d2bf3e19764ecdc19d44eb3e1a783b2521fed18c4bd0f6e74475d8917557e929097e38465e_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal team indoor sports",
+    "puan": 8,
+    "gerekce": "Kapalı spor salonunda futsal mücadelesini ve topu başarıyla gösteriyor.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:1930189",
+    "url": "https://pixabay.com/get/g87cc8cce2b8775402cdf185508264d05b3d13dad3613461ce445cc8aafab8016c2183dbbae36213b64c42b933f0a5a561637d4e626cb164ff7638dfd078a16d8_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal match hall",
+    "puan": 4,
+    "gerekce": "Salon ve top var ancak sporcu veya maç heyecanı yok, çok genel.",
+    "neden": "puan 4 < 7"
+   },
+   {
+    "id": "pixabay:4810605",
+    "url": "https://pixabay.com/get/gc4044322ac85ee4534def78ccd4c3d5ae9bede3b16b153570c3468de7636bf83b286b6390ef0b69c66f61db63f98be8d75beebf44f2cef964fd32c82ee0e25bd_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal team indoor sports",
+    "puan": 8,
+    "gerekce": "Futsal mücadelesi kapalı salonda net bir şekilde yansıtılmış.",
+    "neden": "daha yüksek puanlı aday seçildi"
+   },
+   {
+    "id": "pixabay:4927286",
+    "url": "https://pixabay.com/get/g08464e12bf1caf0f5c72695b53d43c8b1a6013e4de968b8850e2cf0d64823bedfb3970ac1160931194911c3bdca1060636f003b0b3a07dd310d2b991d5559212_640.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal match hall",
+    "puan": 0,
+    "gerekce": "Haberle tamamen ilgisiz kapalı bir kamusal alan veya pazar yeri.",
+    "neden": "puan 0 < 7"
+   }
+  ],
+  "notlar": [
+   "kurum sitelerinde aynı haber bulunamadı",
+   "Commons hatası (Rize Gençlik ve Spor İl Müdürlüğü Futsal Takımı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&gene",
+   "Commons hatası (futsal takımı salon): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=futsa",
+   "Commons hatası (futsal maçı): 403 Client Error: Forbidden for url: https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=futsal+ma%C3%"
+  ],
+  "aday_sayisi": 9,
+  "secilen": {
+   "id": "pixabay:4832719",
+   "yerel_url": "/images/haber-gorsel/pixabay-4832719-2dc1a872.jpg",
+   "kaynak": "pixabay",
+   "sorgu": "futsal match hall",
+   "puan": 8,
+   "gerekce": "Kapalı spor salonunda futsal oynayan oyuncular ve top net bir şekilde görülüyor.",
+   "gorunen": "Kapalı salonda futsal maçı yapan oyuncular",
+   "sahip": "planet_fox",
+   "lisans": "Pixabay İçerik Lisansı",
+   "sayfa": "https://pixabay.com/photos/youth-football-indoor-tournament-4832719/",
+   "taninir_yuz": false,
+   "cekim_yili": "",
+   "onizleme": "https://pixabay.com/get/gb029d3b1459baa5d9dd714d0aea8f1ff22fa8eaf8781d03ce117a96245e9b866f65835ac93d7a619f343f50997cc3333715f75969e9b87f7b10cabac4ba4282b_640.jpg"
+  },
+  "sonuc": "seçildi (8/10, pixabay)"
  }
 ]

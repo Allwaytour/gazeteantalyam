@@ -57,6 +57,21 @@
    "ajans_kaynakli": [],
    "ort_gorsel_puani": 7.5,
    "islenen": 2
+  },
+  {
+   "tarih": "2026-11-26T18:40:57+03:00",
+   "surum": "k1/b2",
+   "yayinlanan": 2,
+   "gec_yayinlanan": 0,
+   "karantina": 0,
+   "gorsel_yok": 1,
+   "iptal": 0,
+   "kaynak": {
+    "pixabay": 2
+   },
+   "ajans_kaynakli": [],
+   "ort_gorsel_puani": 7.5,
+   "islenen": 3
   }
  ],
  "haberler": [
@@ -201,6 +216,87 @@
     "taninir_yuz": false,
     "cekim_yili": "",
     "onizleme": "https://pixabay.com/get/g0b46661e544211467cca60990ab1aeee6463fb10a76703e13e3e90f0d74f5aab8f0c7cdbe4e4cfa643a9f9db0970b70fef6132fcb9525ba90de3d652e3b64803_640.jpg"
+   }
+  },
+  {
+   "tarih": "2026-11-26T18:41:14+03:00",
+   "baslik": "Alanya'da mahalle maçında sopalı kavga: Tribünler karıştı",
+   "kaynak": "Gazete Alanya",
+   "kaynak_url": "https://www.gazetealanya.com/alanyada-sopalar-cikti-mahalle-macinda-tribunler-karisti",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-alanyada-mahalle-macinda-sopali-kavga-tribunler-karisti-95acd.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "pixabay:931975",
+    "yerel_url": "/images/haber-gorsel/pixabay-931975-0227989c.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "stadium crowd",
+    "puan": 7,
+    "gerekce": "Taraftar ve tribün atmosferini yansıtıyor, mahalle maçı gerginliğine kısmen uygun ancak profesyonel bir maçı andırıyor.",
+    "gorunen": "Tribünde meşale dumanı ve sarı-siyah bayraklar sallayan taraftarlar.",
+    "sahip": "tookapic",
+    "lisans": "Pixabay İçerik Lisansı",
+    "sayfa": "https://pixabay.com/photos/stadium-sports-fans-arena-soccer-931975/",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "https://pixabay.com/get/g786273fdbc98f2b2452c718d0fa1a63f68f882f6ea970fc6eee88d8f73664a24e3d1f8b659d98c7a4145406e8cc78dc2_640.jpg"
+   }
+  },
+  {
+   "tarih": "2026-11-26T18:41:33+03:00",
+   "baslik": "Antalya OSB Başkanı Gönen'den Growtech Fuarı'ndaki sanayicilere ziyaret",
+   "kaynak": "Akdeniz Gerçek",
+   "kaynak_url": "https://www.akdenizgercek.com.tr/antalya/baskan-gonen-growtech-fuarinda-sanayicilerle-bulustu-antalya-sanayisi-kuresel-vitrinde/390097",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "bekleyen/haber/20261126-antalya-osb-baskani-gonenden-growtech-fuarindaki-b5ffb.md",
+   "durum": "gorsel_bekliyor",
+   "gorsel": {
+    "sonuc": "eşiği (7) geçen uygun görsel yok"
+   }
+  },
+  {
+   "tarih": "2026-11-26T18:42:22+03:00",
+   "baslik": "Rize Gençlik ve Spor İl Müdürlüğü Futsal Takımı Antalya'da şampiyonluk arayacak",
+   "kaynak": "2 Mart Gazetesi",
+   "kaynak_url": "https://2mart.com.tr/spor/rize-gsim-futsal-takimi-turkiye-sampiyonlugu-icin-antalya-yolunda-115113.html",
+   "ajans_kaynakli": false,
+   "kalite": {
+    "gecti": true,
+    "engeller": [],
+    "degisiklikler": [],
+    "kurallar": [],
+    "editor": "yapıldı"
+   },
+   "dosya": "20261126-rize-genclik-ve-spor-il-mudurlugu-futsal-takimi-antalyada-f3550.md",
+   "durum": "yayinlandi",
+   "gorsel": {
+    "id": "pixabay:4832719",
+    "yerel_url": "/images/haber-gorsel/pixabay-4832719-2dc1a872.jpg",
+    "kaynak": "pixabay",
+    "sorgu": "futsal match hall",
+    "puan": 8,
+    "gerekce": "Kapalı spor salonunda futsal oynayan oyuncular ve top net bir şekilde görülüyor.",
+    "gorunen": "Kapalı salonda futsal maçı yapan oyuncular",
+    "sahip": "planet_fox",
+    "lisans": "Pixabay İçerik Lisansı",
+    "sayfa": "https://pixabay.com/photos/youth-football-indoor-tournament-4832719/",
+    "taninir_yuz": false,
+    "cekim_yili": "",
+    "onizleme": "https://pixabay.com/get/gb029d3b1459baa5d9dd714d0aea8f1ff22fa8eaf8781d03ce117a96245e9b866f65835ac93d7a619f343f50997cc3333715f75969e9b87f7b10cabac4ba4282b_640.jpg"
    }
   }
  ]
