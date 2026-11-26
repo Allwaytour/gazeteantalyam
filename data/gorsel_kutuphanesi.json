@@ -44871,6 +44871,27 @@
     ]
    },
    "iliski": {
+    "r1:5590a7b7088d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Ersoy açıkça görülüyor fakat farklı bir etkinlik alanında çekilmiş.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:11:49+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -44902,7 +44923,7 @@
     "dh": "2c6c46b1392128ae",
     "sha": "80b79ce95406dfb46d90bfa8"
    },
-   "t": "2026-11-09T13:47:41+03:00",
+   "t": "2026-11-26T15:11:49+03:00",
    "teknik": {
     "doygunluk": 18.9,
     "inen": [
@@ -53523,6 +53544,27 @@
     ]
    },
    "iliski": {
+    "r1:5590a7b7088d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin arşiv portresi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:11:49+03:00"
+    },
     "r1:a4c45e60f45d:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -53580,7 +53622,7 @@
     "dh": "83b9a8f894945c4d",
     "sha": "7b37a1215c1a9e9370d59ef7"
    },
-   "t": "2026-11-26T12:12:29+03:00",
+   "t": "2026-11-26T15:11:49+03:00",
    "teknik": {
     "doygunluk": 24.9,
     "inen": [
@@ -56649,13 +56691,44 @@
       ]
      },
      "t": "2026-11-10T09:37:22+03:00"
+    },
+    "r1:895bc4b7bff3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Tahran Kan Merkezi önünde çekildiği tabela ve yazılardan açıkça belli olduğu için Türkiye'deki haberde yanıltıcı olur.",
+      "gerekli": [
+       {
+        "unsur": "kızılay çadırı veya ekibi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       0,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:13:12+03:00"
     }
    },
    "ozet": {
     "dh": "b2b296aaa28d0b67",
     "sha": "23ecbb15c353dc5c501b3d25"
    },
-   "t": "2026-11-10T09:37:22+03:00",
+   "t": "2026-11-26T15:13:12+03:00",
    "teknik": {
     "doygunluk": 19.4,
     "inen": [
@@ -66341,6 +66414,30 @@
      },
      "t": "2026-11-18T13:57:43+03:00"
     },
+    "r1:863b880eb3b2:ozne_kurum": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haber COP31 iklim projeleriyle ilgiliyken otobüs garajı fotoğrafı konuyu yansıtmaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 2,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": [
+       "siyasetçiportresi",
+       "kalabalık sokak"
+      ]
+     },
+     "t": "2026-11-26T15:12:29+03:00"
+    },
     "r1:b0953f3914ad:ozne_kurum": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -66366,32 +66463,6 @@
       "yasak": []
      },
      "t": "2026-11-11T14:09:10+03:00"
-    },
-    "r1:b13496aa7eb8:ozne_kurum": {
-     "d": {
-      "ana_ozne_gorunuyor": true,
-      "baska_olay_sanilir": false,
-      "belirli_kisi_isletme": false,
-      "gerekce": "Belediyenin otobüsü görünüyor ancak doğrudan etkinlikleri yansıtmıyor.",
-      "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       55,
-       34,
-       737,
-       783
-      ],
-      "olay_gorunuyor": false,
-      "uygunluk": 6,
-      "yaniltici_donem": false,
-      "yaniltici_yer": false,
-      "yanlis_kisi": false,
-      "yanlis_spor": false,
-      "yanlis_takim": false,
-      "yasak": []
-     },
-     "t": "2026-11-08T12:04:05+03:00"
     },
     "r1:c801e6c491fa:ozne_kurum": {
      "d": {
@@ -66544,7 +66615,7 @@
     "dh": "73ebf9e8cd406126",
     "sha": "d8931e4eddd003b0aa7478e8"
    },
-   "t": "2026-11-20T14:31:18+03:00",
+   "t": "2026-11-26T15:12:29+03:00",
    "teknik": {
     "doygunluk": 20.1,
     "inen": [
@@ -129939,6 +130010,107 @@
    },
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2016_Diyarbak%C4%B1r_Bombing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
+  "9c2c31064a9eead7": {
+   "icerik": {
+    "ana_kutu": null,
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 15,
+    "nesneler": [
+     "takım elbise",
+     "kravat",
+     "sandalye"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Salonda oturan takım elbiseli insanlar",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "siyaset",
+     "toplantı",
+     "konferans"
+    ],
+    "uygunsuz_baglamlar": [
+     "spor",
+     "magazin",
+     "teknoloji"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      378,
+      595,
+      875,
+      810
+     ],
+     [
+      380,
+      715,
+      995,
+      1000
+     ],
+     [
+      388,
+      305,
+      1000,
+      532
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:5590a7b7088d:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Bakan Ersoy toplantıda görülüyor ancak masası net seçilmiyor.",
+      "gerekli": [
+       {
+        "unsur": "toplantı masası",
+        "var": false
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": true,
+      "uygunluk": 8,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:11:49+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "191951b2c7cd952b",
+    "sha": "8ec695aae710049a4fe7d343"
+   },
+   "t": "2026-11-26T15:11:49+03:00",
+   "teknik": {
+    "doygunluk": 24.9,
+    "inen": [
+     1280,
+     786
+    ],
+    "karanlik_oran": 0.404,
+    "keskinlik": 864,
+    "kontrast": 49,
+    "medyan": 60,
+    "parlaklik": 70,
+    "s": "t1"
+   },
+   "url": "/images/kurum/66e3dd75fdaf6b6a.jpg"
+  },
   "9c3e4ef0cd4ef610": {
    "icerik": {
     "ana_kutu": [
@@ -131309,6 +131481,119 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Road_construction_in_tea_plantation_JEG9547.jpg/1280px-Road_construction_in_tea_plantation_JEG9547.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "9e15b77e1198c7a3": {
+   "icerik": {
+    "ana_kutu": [
+     205,
+     230,
+     742,
+     700
+    ],
+    "bulanik": true,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "hasta yatağı",
+     "kitaplık",
+     "masa",
+     "pencere",
+     "kova"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Sınıf veya salonda yataklarda uzanan kişilere sağlık hizmeti veren görevliler",
+    "sahne_turu": "gunluk_yasam",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "belirsiz",
+    "uygun_baglamlar": [
+     "kan bagisi",
+     "saglik kampanyasi",
+     "gonulluluk"
+    ],
+    "uygunsuz_baglamlar": [
+     "magazin",
+     "siyaset",
+     "ekonomi"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": false,
+    "yuzler": [
+     [
+      223,
+      47,
+      503,
+      173
+     ],
+     [
+      253,
+      230,
+      528,
+      365
+     ],
+     [
+      221,
+      627,
+      501,
+      780
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:895bc4b7bff3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı kampanyasını temsil eden genel bir ortam gösteriyor, haberle uyumlu.",
+      "gerekli": [
+       {
+        "unsur": "kan bagisi",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       220,
+       368,
+       533,
+       665
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:13:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "1f1f1f5e76862c4c",
+    "sha": "a3b955ccdedebc0b63cd5802"
+   },
+   "t": "2026-11-26T15:13:12+03:00",
+   "teknik": {
+    "doygunluk": 24.9,
+    "inen": [
+     500,
+     375
+    ],
+    "karanlik_oran": 0.335,
+    "keskinlik": 560,
+    "kontrast": 59,
+    "medyan": 74,
+    "parlaklik": 84,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Blood_donation_camp_at_Kelvin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "9e3eceddb81ffeb2": {
    "icerik": {
@@ -146646,6 +146931,27 @@
      },
      "t": "2026-11-19T13:57:51+03:00"
     },
+    "r1:5590a7b7088d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Haberin ana kişisinin net arşiv portresi.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 9,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:11:49+03:00"
+    },
     "r1:a4c45e60f45d:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -146703,7 +147009,7 @@
     "dh": "87931b0b279594d6",
     "sha": "047d5c39dbc02ca30ac765ab"
    },
-   "t": "2026-11-26T12:12:29+03:00",
+   "t": "2026-11-26T15:11:49+03:00",
    "teknik": {
     "doygunluk": 56.2,
     "inen": [
@@ -151347,6 +151653,27 @@
     ]
    },
    "iliski": {
+    "r1:5590a7b7088d:ozne_kisi": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf başka bir uluslararası görüşmeye (Erdoğan-Zelenski) ait.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 3,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:11:49+03:00"
+    },
     "r1:f3cb5ecfc96e:ozne_kisi": {
      "d": {
       "ana_ozne_gorunuyor": true,
@@ -151373,7 +151700,7 @@
     "dh": "2cce4e0b0d5e3626",
     "sha": "4faaea7044906bf88e655ea7"
    },
-   "t": "2026-11-09T13:47:41+03:00",
+   "t": "2026-11-26T15:11:49+03:00",
    "teknik": {
     "doygunluk": 42.1,
     "inen": [
@@ -180866,31 +181193,29 @@
      },
      "t": "2026-11-18T13:57:43+03:00"
     },
-    "r1:8c02ac069380:yer": {
+    "r1:863b880eb3b2:ozne_kurum": {
      "d": {
-      "ana_ozne_gorunuyor": false,
+      "ana_ozne_gorunuyor": true,
       "baska_olay_sanilir": false,
       "belirli_kisi_isletme": false,
-      "gerekce": "Ulaşım haberine uygun bir otobüs görseli ancak toplantıyı doğrudan yansıtmaz.",
+      "gerekce": "İklim projeleri sunumu haberi için belediye otobüsü görseli alakasızdır.",
       "gerekli": [],
-      "ilgisiz_yer_nesne": false,
-      "konu_ana_unsur": true,
-      "konu_kutusu": [
-       198,
-       43,
-       861,
-       915
-      ],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
       "olay_gorunuyor": false,
-      "uygunluk": 6,
+      "uygunluk": 2,
       "yaniltici_donem": false,
       "yaniltici_yer": false,
       "yanlis_kisi": false,
       "yanlis_spor": false,
       "yanlis_takim": false,
-      "yasak": []
+      "yasak": [
+       "siyasetçiportresi",
+       "kalabalık sokak"
+      ]
      },
-     "t": "2026-11-08T15:22:31+03:00"
+     "t": "2026-11-26T15:12:29+03:00"
     },
     "r1:8e27afaf35b8:yer": {
      "d": {
@@ -181024,7 +181349,7 @@
     "dh": "1838381386d3f138",
     "sha": "038e88e9c736a9010dd96835"
    },
-   "t": "2026-11-26T11:11:53+03:00",
+   "t": "2026-11-26T15:12:29+03:00",
    "teknik": {
     "doygunluk": 11.0,
     "inen": [
@@ -185480,13 +185805,44 @@
       ]
      },
      "t": "2026-11-10T09:37:22+03:00"
+    },
+    "r1:895bc4b7bff3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Kan bağışı merkezini ve bağışçıları gösteren temsilî bir fotoğraf, haberle bağdaşır.",
+      "gerekli": [
+       {
+        "unsur": "kan bağışı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       149,
+       435,
+       992,
+       711
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 7,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:13:12+03:00"
     }
    },
    "ozet": {
     "dh": "4fdadbf8ba9b9b21",
     "sha": "ff553599bcc93513384cef4c"
    },
-   "t": "2026-11-10T09:37:22+03:00",
+   "t": "2026-11-26T15:13:12+03:00",
    "teknik": {
     "doygunluk": 36.4,
     "inen": [
@@ -192327,6 +192683,127 @@
     "s": "t1"
    },
    "url": "https://images.unsplash.com/photo-1581404788767-726320400cea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTE5NDg2fDB8MXxzZWFyY2h8NXx8c3R1ZGVudHMlMjBoYWlyJTIwc3R5bGluZyUyMGV2ZW50fGVufDF8MHx8fDE3OTQxMzI2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "edb58b544da5f2a1": {
+   "icerik": {
+    "ana_kutu": [
+     300,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "orta",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 5,
+    "nesneler": [
+     "plaket",
+     "sunum ekranı",
+     "kürsü"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Konferans salonunda ellerinde plaket tutan beş kişi ve arka planda sunum ekranı",
+    "sahne_turu": "olay_etkinlik",
+    "siyah_beyaz": false,
+    "tur": "fotograf",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "konferans haberi",
+     "ödül töreni",
+     "iklim zirvesi"
+    ],
+    "uygunsuz_baglamlar": [
+     "sokak röportajı",
+     "kaza haberi",
+     "spor müsabakası"
+    ],
+    "yazi_filigran": "yok",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      418,
+      104,
+      577,
+      195
+     ],
+     [
+      368,
+      268,
+      517,
+      354
+     ],
+     [
+      411,
+      442,
+      560,
+      534
+     ],
+     [
+      322,
+      602,
+      537,
+      727
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:863b880eb3b2:ayni_olay": {
+     "d": {
+      "ana_ozne_gorunuyor": true,
+      "baska_olay_sanilir": false,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Antalya'nın iklim projelerinin tanıtıldığı COP31 oturumunu doğrudan gösteriyor.",
+      "gerekli": [
+       {
+        "unsur": "konferans salonu",
+        "var": true
+       },
+       {
+        "unsur": "sunum ekranı",
+        "var": true
+       }
+      ],
+      "ilgisiz_yer_nesne": false,
+      "konu_ana_unsur": true,
+      "konu_kutusu": [
+       300,
+       0,
+       1000,
+       1000
+      ],
+      "olay_gorunuyor": true,
+      "uygunluk": 10,
+      "yaniltici_donem": false,
+      "yaniltici_yer": false,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:12:29+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "270522cec7732a96",
+    "sha": "3a15610db22592db45a7d68d"
+   },
+   "t": "2026-11-26T15:12:29+03:00",
+   "teknik": {
+    "doygunluk": 24.5,
+    "inen": [
+     1280,
+     853
+    ],
+    "karanlik_oran": 0.288,
+    "keskinlik": 1747,
+    "kontrast": 85,
+    "medyan": 140,
+    "parlaklik": 132,
+    "s": "t1"
+   },
+   "url": "/images/kurum/b073f407207ba251.jpg"
   },
   "edc95e11ecca2846": {
    "icerik": {
@@ -201285,6 +201762,113 @@
     "s": "t1"
    },
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ryszard-Jasniewicz-Aktor-%28Actor%29-2017-Gabriela-Pewinska-1.png/1280px-Ryszard-Jasniewicz-Aktor-%28Actor%29-2017-Gabriela-Pewinska-1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "f7a6f36a6195eeae": {
+   "icerik": {
+    "ana_kutu": [
+     0,
+     0,
+     1000,
+     1000
+    ],
+    "bulanik": false,
+    "cekim": "genis",
+    "donem": "guncel",
+    "karanlik": false,
+    "kisi_sayisi": 11,
+    "nesneler": [
+     "gazete sayfası",
+     "başlık yazısı",
+     "insan grubu"
+    ],
+    "notr_portre": false,
+    "s": "i3",
+    "sahne": "Haber metni ve kan bagışı etkinliğinden insan gruplarının olduğu fotoğraflar",
+    "sahne_turu": "diger",
+    "siyah_beyaz": false,
+    "tur": "kolaj",
+    "ulke": "yabanci",
+    "uygun_baglamlar": [
+     "yerel haber",
+     "gazete kupürü",
+     "etkinlik haberi"
+    ],
+    "uygunsuz_baglamlar": [
+     "uluslararasi politika",
+     "spor musabakasi",
+     "canli basin bulteni"
+    ],
+    "yazi_filigran": "buyuk",
+    "yuz_belirgin": true,
+    "yuzler": [
+     [
+      135,
+      385,
+      242,
+      471
+     ],
+     [
+      119,
+      492,
+      242,
+      606
+     ],
+     [
+      110,
+      683,
+      240,
+      768
+     ],
+     [
+      104,
+      837,
+      240,
+      933
+     ]
+    ]
+   },
+   "iliski": {
+    "r1:895bc4b7bff3:konu": {
+     "d": {
+      "ana_ozne_gorunuyor": false,
+      "baska_olay_sanilir": true,
+      "belirli_kisi_isletme": false,
+      "gerekce": "Fotoğraf yabancı dilde gazete kupürü olduğu için Alanya'daki haberde kullanılamaz.",
+      "gerekli": [],
+      "ilgisiz_yer_nesne": true,
+      "konu_ana_unsur": false,
+      "konu_kutusu": null,
+      "olay_gorunuyor": false,
+      "uygunluk": 0,
+      "yaniltici_donem": false,
+      "yaniltici_yer": true,
+      "yanlis_kisi": false,
+      "yanlis_spor": false,
+      "yanlis_takim": false,
+      "yasak": []
+     },
+     "t": "2026-11-26T15:13:12+03:00"
+    }
+   },
+   "ozet": {
+    "dh": "68b2b3bbb2a3a612",
+    "sha": "87fff677af794614678607e9"
+   },
+   "t": "2026-11-26T15:13:12+03:00",
+   "teknik": {
+    "doygunluk": 12.1,
+    "inen": [
+     500,
+     405
+    ],
+    "karanlik_oran": 0.035,
+    "keskinlik": 4663,
+    "kontrast": 75,
+    "medyan": 220,
+    "parlaklik": 185,
+    "s": "t1"
+   },
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Blood_donation_camp_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   "f7cdf4660ba571e7": {
    "icerik": {
@@ -220630,7 +221214,7 @@
    "gosterim_ad": "",
    "ilk_kabul": "2026-11-09T13:47:41+03:00",
    "izin_kapsami": "",
-   "kabul_sayisi": 4,
+   "kabul_sayisi": 5,
    "kaynak": {
     "atif": "The President's Office, Maldives / Wikimedia Commons (CC BY 4.0)",
     "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
@@ -220672,7 +221256,7 @@
    "qid": "Q55526162",
    "sahne_turu": "portre",
    "sinif": "ozne_kisi",
-   "son_kabul": "2026-11-26T12:12:29+03:00",
+   "son_kabul": "2026-11-26T15:11:50+03:00",
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehmet_Nuri_Ersoy_in_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "uygun_yerlesimler": [
     "manset",
@@ -223332,6 +223916,66 @@
    ],
    "yalniz_ayni_olay": false
   },
+  "e459966f2c0aeeb3": {
+   "alt_tur": "nesne",
+   "boyut": [
+    1024,
+    768
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "2011-03-05",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Kan bankası merkezinde bağış yapan kişilerin bulunduğu klinik ortamı.",
+   "gosterim_ad": "kan bağışı",
+   "ilk_kabul": "2026-11-26T15:13:12+03:00",
+   "izin_kapsami": "",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Steven Cateris / Wikimedia Commons (CC BY-SA 2.0)",
+    "atif_kosulu": "Fotoğrafçı adı, lisans adı ve dosya sayfası belirtilir; CC BY-SA görsellerde lisans korunur.",
+    "dayanak": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "CC BY-SA 2.0",
+    "sahibi": "Steven Cateris",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Steven_Cateris_at_Red_Cross_Blood_Bank_(6014638396).jpg"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "kan bağışı",
+    "kan bağışı sedyesi",
+    "tıbbi atık kutusu",
+    "tıbbi ekipman"
+   ],
+   "kucuk": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Steven_Cateris_at_Red_Cross_Blood_Bank_%286014638396%29.jpg/500px-Steven_Cateris_at_Red_Cross_Blood_Bank_%286014638396%29.jpg",
+   "kullanilabilir": [
+    "kan bağışı",
+    "sağlık merkezi",
+    "plazma bağışı"
+   ],
+   "kullanilamaz": [
+    "siyaset",
+    "spor",
+    "magazin"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "gunluk_yasam",
+   "sinif": "konu",
+   "son_kabul": "2026-11-26T15:13:12+03:00",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Steven_Cateris_at_Red_Cross_Blood_Bank_%286014638396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": false
+  },
   "e63fa1774855edee": {
    "alt_tur": "nesne",
    "boyut": [
@@ -223704,6 +224348,72 @@
     "detay"
    ],
    "yalniz_ayni_olay": false
+  },
+  "edb58b544da5f2a1": {
+   "alt_tur": "kurum_haber",
+   "boyut": [
+    1280,
+    853
+   ],
+   "cekim": "orta",
+   "cekim_tarihi": "",
+   "dogrulama_surumu": "h2-i3-y3",
+   "gosterdigi": "Konferans salonunda ellerinde plaket tutan beş kişi ve arka planda sunum ekranı",
+   "gosterim_ad": "",
+   "ilk_kabul": "2026-11-26T15:12:29+03:00",
+   "izin_kapsami": "ayni_haber",
+   "kabul_sayisi": 1,
+   "kaynak": {
+    "atif": "Antalya Büyükşehir Belediyesi",
+    "atif_kosulu": "Fotoğrafta kurum adı belirtilir ve kurumun haber sayfasına bağlantı verilir.",
+    "dayanak": "Site sahibinin beyanı: resmî kurumlardan yazılı izin alındı (2026-11-02).",
+    "kaynak": "Antalya Büyükşehir Belediyesi",
+    "lisans": "Kurum izniyle",
+    "sahibi": "Antalya Büyükşehir Belediyesi",
+    "sayfa": "https://www.antalya.bel.tr/tr/haber-detay/antalya-buyuksehir-belediyesi-iklim-calismalarini-dunyaya-tanitti"
+   },
+   "kimlikler": {
+    "kisiler": [],
+    "kurumlar": [
+     {
+      "ad": "Antalya Büyükşehir Belediyesi",
+      "qid": ""
+     }
+    ],
+    "takimlar": [],
+    "tesisler": [],
+    "yerler": []
+   },
+   "konular": [
+    "konferans salonu",
+    "kürsü",
+    "plaket",
+    "sunum ekranı"
+   ],
+   "kucuk": "/images/kurum/b073f407207ba251.jpg",
+   "kullanilabilir": [
+    "konferans haberi",
+    "ödül töreni",
+    "iklim zirvesi"
+   ],
+   "kullanilamaz": [
+    "sokak röportajı",
+    "kaza haberi",
+    "spor müsabakası",
+    "başka haber ya da olay (yalnızca kendi haberindeki olayın fotoğrafı)"
+   ],
+   "notr_portre": false,
+   "qid": "",
+   "sahne_turu": "olay_etkinlik",
+   "sinif": "ayni_olay",
+   "son_kabul": "2026-11-26T15:12:29+03:00",
+   "url": "/images/kurum/b073f407207ba251.jpg",
+   "uygun_yerlesimler": [
+    "manset",
+    "kart",
+    "detay"
+   ],
+   "yalniz_ayni_olay": true
   },
   "efc5210ceae93cdc": {
    "alt_tur": "yer_konu",
