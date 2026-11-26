@@ -726,6 +726,8 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None, yaz=True):
     if yz and yz.get("kalite_denetim"):
         on["kalite_denetim"] = yz["kalite_denetim"]
     gs.secimi_uygula(on, secim)
+    if secim.get("kanit"):
+        on["gorsel_kanit"] = secim["kanit"]       # kaynak sayfa, sahip, lisans, alınma tarihi (sitede gösterilmez; telif kanıtı)
     if True:
         for alan in ("manset", "son_dakika", "yazar", "otomatik", "yz", "kaynak", "kaynak_url"):
             on[alan] = on.pop(alan)
@@ -737,9 +739,38 @@ def md_yaz(h, yz, kaynak_url, secim, etiketler=None, yaz=True):
     return dosya
 
 
-def kalite_v2_isle(h, yz, kaynak_metin, url, kullanim, tur):
-    """Yeni haber: metin kalite denetimi (kural + editör) → görsel v2 (brief → aday → görüntü puanı → eşik → başlık kartı).
-    Denetimden geçmeyen haber yayımlanmaz, karantina/haber/ klasörüne yazılır. Dönüş: haber kaydı (kalite raporu için)."""
+AJANS_KAYNAK = re.compile(r"(?i)(aa\.com\.tr|iha\.com\.tr|dha\.com\.tr|anka(haber)?\.net|anadolu ajans|ihlas haber|demirören haber|haber ajans)")
+BEKLEYEN = os.path.join(KOK, "bekleyen", "haber")
+BEKLEME_SAAT = (2, 6, 12)          # görsel bulunamayan haber: ilk denemeden 2, 6 ve 12 saat sonra yeniden aranır, sonra iptal
+
+
+def _gorsel_hb(v_or_hb, tarih):
+    return dict(v_or_hb, tarih=tarih)
+
+
+def gorsel_bul(hb, brief, kullanim, dosya_adi, tur, onbellek):
+    """b2 görsel seçimi. Dönüş: (secim ya da None, kayıt)."""
+    if GUNLUK_KOTA["bitti"]:
+        return None, {"sonuc": "görüntü incelemesi yapılamadı (Gemini kotası dolu)", "hata": True, "brief": brief}
+    try:
+        a, gk = gorsel_v2.sec(hb, brief, lambda parts: gemini_json(None, 0.1, 6144, parcalar=parts), kullanim, dosya_adi, onbellek=onbellek)
+    except Exception as e:
+        return None, {"sonuc": f"görsel seçimi hatası: {e}"[:200], "hata": True, "brief": brief}
+    gk["haber"] = dosya_adi
+    tur["gorsel_kayit"].append(gk)
+    if not a:
+        return None, gk
+    secim = gorsel_v2.secim_kaydi(a, gs.konu_imzasi(hb["baslik"], hb["spot"], hb.get("kategori", "Gündem")), brief.get("tarihi_haber"))
+    kullanim.ekle(a["id"], a.get("phash", ""), dosya_adi)
+    tur["puanlar"].append(a["puan"])
+    tur["kaynak"][a["kaynak"]] = tur["kaynak"].get(a["kaynak"], 0) + 1
+    return secim, gk
+
+
+def kalite_v2_isle(h, yz, kaynak_metin, url, kullanim, tur, onbellek):
+    """Yeni haber: metin kalite denetimi (kural + editör) → görsel b2 (kurum / Pixabay / Commons; görüntü puanı ≥ 7).
+    Yazım denetiminden geçmeyen haber karantina/haber/ klasörüne; uygun görseli olmayan haber bekleyen/haber/ kuyruğuna yazılır
+    (2, 6 ve 12 saat sonra yeniden aranır, sonra iptal). Hiçbiri yayımlanmaz. Dönüş: haber kaydı (kalite raporu için)."""
     kat = yz.get("kategori") if yz.get("kategori") in KATEGORILER else h["kategori"]
     ilce = yz.get("ilce") if yz.get("ilce") in ILCE_ESLER else h["ilce"]
     etiket = etiketler_cikar(gs.konu_dogrula(yz.get("gorsel_konu")))
@@ -750,43 +781,96 @@ def kalite_v2_isle(h, yz, kaynak_metin, url, kullanim, tur):
         kr["gecti"], kr["engeller"] = False, kr.get("engeller", []) + ["editör denetimi yapılamadı (Gemini kotası dolu)"]
     yz = dict(yz, baslik=duz["baslik"], spot=duz["spot"], metin=duz["metin"], kalite_denetim=kalite.KALITE_SURUM)
     kimza = gs.konu_imzasi(duz["baslik"], duz["spot"], kat)
-    hb = {"baslik": duz["baslik"], "spot": duz["spot"], "kategori": kat, "ilce": ilce}
-    kayit = {"tarih": datetime.now(TR).isoformat(timespec="seconds"), "baslik": duz["baslik"], "kaynak_url": url,
+    tarih = datetime.fromtimestamp(h["ts"], TR).date()
+    hb = {"baslik": duz["baslik"], "spot": duz["spot"], "kategori": kat, "ilce": ilce, "tarih": tarih}
+    ajans = bool(AJANS_KAYNAK.search(f"{url} {h.get('kaynak', '')}"))
+    kayit = {"tarih": datetime.now(TR).isoformat(timespec="seconds"), "baslik": duz["baslik"], "kaynak": h.get("kaynak", ""), "kaynak_url": url,
+             "ajans_kaynakli": ajans,
              "kalite": {"gecti": kr["gecti"], "engeller": kr["engeller"], "degisiklikler": kr["degisiklikler"][:25],
                         "kurallar": kr["kurallar"][:10], "editor": kr["editor"]}}
+    if ajans:
+        tur["ajans_kaynakli"].append({"baslik": duz["baslik"], "kaynak": h.get("kaynak", ""), "url": url})
+    bos = gs.kapak_secimi(kat, "", {}, kimza)
     if not kr["gecti"]:
-        secim = gs.kapak_secimi(kat, "Karantina: yazım denetiminden geçmedi.", {"yapildi": False, "sonuc": "karantina"}, kimza)
-        dosya, on, govde = md_yaz(h, yz, url, secim, duz["etiketler"], yaz=False)
+        dosya, on, govde = md_yaz(h, yz, url, bos, duz["etiketler"], yaz=False)
         kayit.update(dosya=kalite.karantinaya_al(dosya, on, govde, kr), durum="karantina")
         tur["karantina"] += 1
         print("   KARANTİNA:", "; ".join(kr["engeller"])[:200])
         return kayit
     brief = gorsel_v2.brief_duzelt(yz.get("gorsel_brief"), hb)
-    dosya_adi = md_yaz(h, yz, url, gs.kapak_secimi(kat, "", {}, kimza), duz["etiketler"], yaz=False)[0]
-    a, gk = None, {"sonuc": "görsel araması yapılmadı (Gemini kotası dolu)", "brief": brief}
-    if not GUNLUK_KOTA["bitti"]:
-        try:
-            a, gk = gorsel_v2.sec(hb, brief, lambda parts: gemini_json(None, 0.1, 6144, parcalar=parts), kullanim, dosya_adi)
-        except Exception as e:
-            gk = {"sonuc": f"görsel seçimi hatası: {e}"[:200], "brief": brief}
-    if a:
-        secim = gorsel_v2.secim_kaydi(a, kimza)
-        kullanim.ekle(a["id"], a.get("phash", ""), dosya_adi)
-        gorsel_v2.unsplash_indirme_bildir(a)
-        tur["foto"] += 1
-        tur["puanlar"].append(a["puan"])
-    else:
-        secim = gs.kapak_secimi(kat, f"Logolu başlık kartı: {gk.get('sonuc', '')}", {"yapildi": True, "sonuc": gk.get("sonuc", ""),
-                                "tarih": datetime.now(TR).isoformat(timespec="seconds"), "yontem": gorsel_v2.SURUM}, kimza)
-        secim["kapak_nedeni"] = {"kod": "v2_esik_alti", "aciklama": gk.get("sonuc", "")}
-        tur["baslik_karti"] += 1
-    gk["haber"] = dosya_adi
-    tur["gorsel_kayit"].append(gk)
+    dosya_adi = md_yaz(h, yz, url, bos, duz["etiketler"], yaz=False)[0]
+    secim, gk = gorsel_bul(hb, brief, kullanim, dosya_adi, tur, onbellek)
+    print(f"   Görsel: {gk.get('sonuc', '')}")
+    if not secim:
+        # Uygun görsel yoksa haber yayımlanmaz: kuyruğa alınır
+        dosya, on, govde = md_yaz(h, yz, url, bos, duz["etiketler"], yaz=False)
+        ilk = datetime.now(TR)
+        on["bekleme"] = {"ilk": ilk.isoformat(timespec="seconds"), "deneme": 0, "sonraki": (ilk + timedelta(hours=BEKLEME_SAAT[0])).isoformat(timespec="seconds"),
+                         "brief": brief, "son_sonuc": gk.get("sonuc", ""), "kaynak_ts": h["ts"]}
+        os.makedirs(BEKLEYEN, exist_ok=True)
+        with open(os.path.join(BEKLEYEN, dosya), "w", encoding="utf-8") as f:
+            f.write("---\n" + yaml.safe_dump(on, allow_unicode=True, sort_keys=False, width=1000) + "---\n" + govde + "\n")
+        tur["gorsel_yok"] += 1
+        kayit.update(dosya=f"bekleyen/haber/{dosya}", durum="gorsel_bekliyor", gorsel={"sonuc": gk.get("sonuc")})
+        return kayit
     dosya = md_yaz(h, yz, url, secim, duz["etiketler"])
     tur["yayinlanan"] += 1
-    kayit.update(dosya=dosya, durum="yayinlandi", gorsel=gk.get("secilen") or {"sonuc": gk.get("sonuc")})
-    print(f"   Görsel: {gk.get('sonuc', '')}")
+    kayit.update(dosya=dosya, durum="yayinlandi", gorsel=gk.get("secilen"))
     return kayit
+
+
+def bekleyenleri_isle(kullanim, tur, onbellek, sinir=6):
+    """Görsel bekleyen haberler: zamanı gelenlerde görsel yeniden aranır (2, 6, 12. saat). Bulunursa haber yayımlanır; 12. saatte de
+    bulunamazsa haber iptal edilir (dosya silinir, kalite raporuna yazılır)."""
+    if not os.path.isdir(BEKLEYEN):
+        return []
+    kayitlar, n = [], 0
+    simdi_ = datetime.now(TR)
+    for ad in sorted(os.listdir(BEKLEYEN)):
+        yol = os.path.join(BEKLEYEN, ad)
+        try:
+            v, govde = gs.md_oku(yol)
+            b = v.get("bekleme") or {}
+            if datetime.fromisoformat(str(b.get("sonraki"))) > simdi_ or n >= sinir:
+                continue
+        except Exception as e:
+            print("Bekleyen haber okunamadı:", ad, e)
+            continue
+        n += 1
+        tarih = datetime.fromisoformat(str(v.get("date"))).date()
+        kat = (v.get("kategoriler") or ["Gündem"])[0]
+        hb = {"baslik": v.get("title", ""), "spot": v.get("ozet", ""), "kategori": kat, "ilce": (v.get("ilceler") or [""])[0], "tarih": tarih}
+        brief = gorsel_v2.brief_duzelt(b.get("brief"), hb)
+        secim, gk = gorsel_bul(hb, brief, kullanim, ad, tur, onbellek)
+        deneme = int(b.get("deneme") or 0) + 1
+        k = {"tarih": simdi_.isoformat(timespec="seconds"), "baslik": v.get("title", ""), "dosya": ad, "deneme": deneme, "sonuc": gk.get("sonuc", "")}
+        if secim:
+            for x in ("bekleme", "gorsel_onceki", "gorsel_gecmis", "gorsel", "gorsel_kredi"):
+                v.pop(x, None)                     # kuyruktaki geçici (görselsiz) kayıt izi taşınmaz
+            gs.secimi_uygula(v, secim)
+            if secim.get("kanit"):
+                v["gorsel_kanit"] = secim["kanit"]
+            gs.md_yaz(os.path.join(HABER_KLASOR, ad), v, govde)
+            os.remove(yol)
+            tur["yayinlanan"] += 1
+            tur["gec_yayinlanan"] += 1
+            k["durum"] = "yayinlandi"
+            print(f"Bekleyen haber yayımlandı ({deneme}. yeniden deneme): {ad}")
+        elif gk.get("hata"):
+            k["durum"] = "hata; sonraki turda yeniden"
+        elif deneme >= len(BEKLEME_SAAT):
+            os.remove(yol)
+            tur["iptal"] += 1
+            k["durum"] = "iptal"
+            print(f"Haber iptal edildi (12 saatte uygun görsel bulunamadı): {ad}")
+        else:
+            ilk = datetime.fromisoformat(str(b.get("ilk")))
+            b.update(deneme=deneme, sonraki=(ilk + timedelta(hours=BEKLEME_SAAT[deneme])).isoformat(timespec="seconds"), son_sonuc=gk.get("sonuc", ""))
+            v["bekleme"] = b
+            gs.md_yaz(yol, v, govde)
+            k["durum"] = f"bekliyor (sonraki deneme {b['sonraki'][11:16]})"
+        kayitlar.append(k)
+    return kayitlar
 
 
 def duzenle_eskiler():
@@ -929,7 +1013,9 @@ def main():
     kalite_v2 = bool(ayar.get("kalite_v2", False))
     kullanim = gorsel_v2.Kullanim(HABER_KLASOR) if kalite_v2 else None
     tur_rapor = {"tarih": datetime.now(TR).isoformat(timespec="seconds"), "surum": f"{kalite.KALITE_SURUM}/{gorsel_v2.SURUM}",
-                 "yayinlanan": 0, "karantina": 0, "baslik_karti": 0, "foto": 0, "puanlar": [], "gorsel_kayit": []}
+                 "yayinlanan": 0, "gec_yayinlanan": 0, "karantina": 0, "gorsel_yok": 0, "iptal": 0, "puanlar": [], "kaynak": {},
+                 "ajans_kaynakli": [], "gorsel_kayit": []}
+    kurum_onbellek = {}
     haber_kayitlari = []
     if kalite_v2:
         print("Kalite katmanı:", kalite.KALITE_SURUM, "· görsel hattı:", gorsel_v2.SURUM, f"(eşik {gorsel_v2.ESIK}/10)")
@@ -972,7 +1058,7 @@ def main():
             continue
         if kalite_v2:
             try:
-                haber_kayitlari.append(kalite_v2_isle(h, yz, metin, url, kullanim, tur_rapor))
+                haber_kayitlari.append(kalite_v2_isle(h, yz, metin, url, kullanim, tur_rapor, kurum_onbellek))
             except Exception as e:
                 print("   Kalite/görsel adımı hatası:", e)
                 continue
@@ -1071,8 +1157,8 @@ def main():
     # Her habere görsel: doğrulanmış arşiv eşleşmesi ya da bize ait tipografik görsel (yapay zekâ isteği yok; ana sayfa önce)
     try:
         import gorsel_tamamla
-        gorsel_tamamla.tamamla(oncelikli=gs.ana_sayfa_onceligi(sorted(os.listdir(HABER_KLASOR), reverse=True)),
-                               arsiv_esleme=not kalite_v2)
+        if not kalite_v2:          # b2: başlık kartı ve arşiv eşleşmesi kullanılmaz
+            gorsel_tamamla.tamamla(oncelikli=gs.ana_sayfa_onceligi(sorted(os.listdir(HABER_KLASOR), reverse=True)))
     except Exception as e:
         print("Görsel tamamlama yapılamadı:", e)
     if gs.kf:
@@ -1091,14 +1177,20 @@ def main():
     except Exception as e:
         print("Görsel kütüphanesi kaydedilemedi:", e)
     if kalite_v2:
+        try:
+            haber_kayitlari += bekleyenleri_isle(kullanim, tur_rapor, kurum_onbellek)
+        except Exception as e:
+            print("Bekleyen haberler işlenemedi:", e)
         p = tur_rapor.pop("puanlar")
         gorsel_v2.kayit_yaz(tur_rapor.pop("gorsel_kayit"))
         kullanim.kaydet()
         tur_rapor["ort_gorsel_puani"] = round(sum(p) / len(p), 2) if p else None
         tur_rapor["islenen"] = len(haber_kayitlari)
         kalite.rapor_yaz(tur_rapor, haber_kayitlari)
-        print(f"Kalite raporu: yayımlanan {tur_rapor['yayinlanan']}, karantina {tur_rapor['karantina']}, başlık kartı "
-              f"{tur_rapor['baslik_karti']}, fotoğraf {tur_rapor['foto']}, ortalama görsel puanı {tur_rapor['ort_gorsel_puani']}")
+        tur_rapor["bekleyen_kuyruk"] = len(os.listdir(BEKLEYEN)) if os.path.isdir(BEKLEYEN) else 0
+        print(f"Kalite raporu: yayımlanan {tur_rapor['yayinlanan']} (kuyruktan {tur_rapor['gec_yayinlanan']}), karantina {tur_rapor['karantina']}, "
+              f"görsel bulunamadığı için yayımlanmayan {tur_rapor['gorsel_yok']} (kuyrukta {tur_rapor['bekleyen_kuyruk']}, iptal {tur_rapor['iptal']}), "
+              f"ortalama görsel puanı {tur_rapor['ort_gorsel_puani']}, kaynak dağılımı {tur_rapor['kaynak']}, ajans kaynaklı metin {len(tur_rapor['ajans_kaynakli'])}")
     eski_otomatikleri_sil(int(ayar.get("en_eski_gun", 0)))
     durum["gorulen"] = gorulen[-3000:]
     durum["son_calisma"] = datetime.now(TR).isoformat()

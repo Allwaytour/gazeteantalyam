@@ -1514,11 +1514,13 @@ KONU_ILISKISI_ESIK = 7
 KONU_ILISKISI_ESIK_NESNE = 6
 KONU_ILISKISI_SART = {"kurum", "yer", "yer_konu", "nesne"}   # aynı yerde/kurumda olmak yetmez; konuyla doğrudan ilişki gerekir
 NESNE_HASSAS = {"suç", "kaza", "ölüm", "afet", "çocuk"}   # bu haberlerde temsilî fotoğraf olayın görüntüsü sanılır
-UNSPLASH_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
+UNSPLASH_KEY = ""          # 26.11.2026: Unsplash kullanılmıyor (her fotoğrafta kaynak gösterme zorunluluğu); bkz. gorsel_v2 (b2)
 LISANS_RED = []       # bir seçim turunda lisans nedeniyle elenen dosyalar (kapak nedeni için)
 
 
 def unsplash_ara(bag, sorgu, adet=6):
+    if not UNSPLASH_KEY:
+        return []
     anahtar = "c8:us:" + sorgu.lower()
     if bag.arsiv.get(anahtar):
         return bag.arsiv[anahtar]
